@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2005-08-31"
+last_updated: "2006-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2006.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -667,71 +667,85 @@ II.- Especiales.
 
 Durante el primer mes de la nueva Legislatura, a propuesta de la Comisión de Gobierno y mediante votación nominal, la asamblea designará las comisiones permanentes, siendo estas las siguientes:
 
-I.- Gobernación y Poderes;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2004)</small>
+I.- Justicia, Gobernación y Poderes;
 
-II.- Desarrollo Rural;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2004)</small>
+II.- Desarrollo Rural y Fomento Pesquero;
 
-III.- Educación, Cultura, Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+
+III.- Educación, Cultura y Deportes;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
 IV.- Estudios Legislativos y Puntos Constitucionales;
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+
 V.- Hacienda y Presupuesto;
 
-VI.- Justicia;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-VII.- Peticiones;
+VI.- Seguridad Pública, Prevención y Readaptación Social y Protección Civil;
 
-VIII.- Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-IX.- Planeación, Turismo y Fomento Económico;
+VII.- Planeación, Turismo y Fomento Económico;
 
-X.- Comunicaciones y Transportes;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-XI.- Asentamientos Humanos y Obras Públicas;
+VIII.- Comunicaciones y Transportes;
 
-XII.- Protección y Mejoramiento Ambiental;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-XIII.- Responsabilidades;
+IX.- Asentamientos Humanos, Obras Públicas, y Protección y Mejoramiento Ambiental;
 
-XIV.- Derechos Humanos;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-XV.- Salud y Asistencia Social;
+X.- Responsabilidades;
 
-XVI.- Equidad y Género;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-> <small>(F. DE E. P.O. 27 DE MARZO DE 1999)</small>
+XI.- Derechos Humanos, Atención al Migrante, y Promoción de la Equidad y Género;
 
-XVII.- Niñez, Juventud, Adultos Mayores y Discapacidad;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-XVIII.- Desarrollo Municipal y Participación Ciudadana;
+XII.- Salud, Asistencia Social y Protección a la Niñez, Juventud, Adultos Mayores y Discapacidad;
 
-XIX.- Editorial; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-XX.- Vigilancia de la Contaduría Mayor de Hacienda;
+XIII.- Desarrollo Municipal, Participación Ciudadana, Peticiones, y Ediciones Legislativas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-XXI.- Protección Civil;
+XIV.- Vigilancia de la Contaduría Mayor de Hacienda; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-XXII.- De Innovación Gubernamental;
+XV.- Ciencia, Tecnología e Innovación Gubernamental.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2004)</small>
+XVI.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
 
-XXIII.- Fomento pesquero;
+XVII.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2004)</small>
+XVIII.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
 
-XXIV.- Deporte y Actividades recreativas;
+XIX.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2004)</small>
+XX.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
 
-XXV.- Atención al Migrante.
+XXI.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+
+XXII.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+
+XXIII.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+
+XXIV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+
+XXV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
 
 Estas comisiones permanentes serán por todo el ejercicio constitucional; excepcionalmente, a petición de uno de sus miembros o de un grupo parlamentario y con la conformidad de los integrantes de las mismas, podrán proponerse cambios.
 
@@ -1230,3 +1244,7 @@ P.O. 19 DE JUNIO DE 2004.
 P.O. 31 DE AGOSTO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima.
+
+P.O. 30 DE OCTUBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
