@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2006-09-22"
+last_updated: "2006-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -2291,9 +2291,11 @@ X. CONDUCTA VIOLENTA INDEBIDA CON RELACIÓN A CASILLAS ELECTORALES. Impida con v
 
 XI. INCITACIÓN A VIOLENCIA ELECTORAL. Incite a la violencia que altere el orden y afecte en cualquiera de sus etapas el proceso electoral, intimidando, amenazando o presionando o condicionando por medio de la fuerza a los funcionarios electorales, impidiéndoles el ejercicio de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 269.
 
-SANCIONES Y FIGURA TÍPICA DE APERTURA INDEBIDA DE PAQUETE ELECTORAL. Se impondrá multa de cien a doscientas veces el salario mínimo o seis años de prisión: Al funcionario electoral, servidor público, funcionario partidista o ciudadano que sin autorización del Consejo Estatal Electoral, abra un paquete electoral antes de su arribo a la casilla.
+SANCIONES Y FIGURA TÍPICA DE APERTURA INDEBIDA DE PAQUETE ELECTORAL. Se impondrá multa de cien a doscientas veces de salario mínimo o seis años de prisión: Al funcionario electoral, servidor público, funcionario partidista o ciudadano que sin autorización de la autoridad electoral competente, abra un paquete electoral antes de su arribo a la casilla.
 
 ###### ARTÍCULO 270.
 
@@ -4522,3 +4524,7 @@ P.O. 22 DE SEPTIEMBRE DE 2006.
 Decreto Numero 67
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+P.O. 31 DE OCTUBRE DE 2006.
+
+Único.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
