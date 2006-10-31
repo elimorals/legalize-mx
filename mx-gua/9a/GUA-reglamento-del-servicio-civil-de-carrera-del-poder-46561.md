@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-servicio-civil-de-carrera-del-poder-46561"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-27"
-last_updated: "2005-09-27"
+last_updated: "2006-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de septiembre del 2005.
 
@@ -105,9 +105,27 @@ El personal del magisterio, del área médica y paramédica, así como los servi
 
 Quienes aspiren a ingresar al Servicio, lo harán a través de un concurso de oposición para la selección, en los casos y bajo los procedimientos previstos por este Reglamento.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 10.
 
-Son servidores públicos de libre designación aquellos que ocupen puestos a partir del nivel 13 del Catálogo dentro de la estructura gubernamental, así como aquellos que estando dentro de los niveles 6 al 12, deban ser considerados de libre designación.
+Son servidores de libre designación aquellos que ocupen puestos a partir del nivel 13 del Catálogo dentro de la estructura gubernamental, así como aquellos que estando dentro de los niveles 6 al 12, deban ser considerados de libre designación. Las dependencias y entidades de la Administración Pública Estatal en la elaboración de las propuestas de los puestos de libre designación deberán tomar en cuenta los siguientes criterios:
+
+I. Que las funciones sean de vinculación o asesoría a los servidores públicos que funjan como titulares de dependencias o entidades en la Administración Pública del Estado;
+
+II. Que las funciones sean las de apoyo o atención a los servidores públicos que así lo requieran y ocupen puestos a partir del nivel 12 del Catálogo dentro de la estructura gubernamental, tales como: labores secretariales, de asistencia particular, de conducción de vehículos y de administración de agenda, entre otros;
+
+III. Que las funciones inherentes al puesto exijan que el servidor público que lo ocupe garantice la confianza, responsabilidad y celeridad que requiere la adopción de medidas directivas, de coordinación, de fiscalización y control, gestoría o asesoría en materia de política interior, seguridad pública, procuración de justicia, finanzas públicas, planeación, desarrollo económico, medio ambiente, salud, educación, relaciones con los poderes legislativo y judicial, municipios, entidades federativas, federación, partidos y agrupaciones políticas y organizaciones civiles o sociales;
+
+IV. Que las funciones se encuentren vinculadas al análisis y despacho de asuntos relacionados con información confidencial o reservada en términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato;
+
+V. Que las funciones se encuentren relacionadas con tareas de seguridad pública, servicios médicos, protección civil o servicio al público; y que deban ser ocupados de manera inmediata a fin de estar en condiciones de prestar el servicio en forma oportuna, competitiva y eficaz; y
+
+VI. Que las funciones sean análogas a las señaladas en las fracciones anteriores.
+
+Los servidores públicos de libre designación sólo estarán sujetos a la evaluación al desempeño en los términos de la normatividad de la materia.
+
+Las dependencias y entidades de la Administración Pública del Estado someterán a la autorización de la Comisión los puestos que deban ser considerados de libre designación.
 
 ###### Artículo 11.
 
@@ -624,3 +642,13 @@ JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO
 EL SECRETARIO DE LA GESTION PÚBLICA
 
 JORGE ALBERTO ROMERO HIDALGO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE OCTUBRE DE 2006.
+
+Artículo Primero.- El presente Decreto Gubernativo iniciará su vigencia el día 3 tres de noviembre de 2006 dos mil seis, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Las dependencias y entidades del Poder Ejecutivo, en el término de 5 cinco días naturales siguientes al inicio de la vigencia del presente Decreto Gubernativo, deberán remitir sus propuestas de puestos de libre designación para que la Comisión Intersecretarial del Servicio Civil de Carrera las apruebe.
+
+Artículo Tercero.- Se derogan aquellas disposiciones que se opongan al presente Decreto Gubernativo.
