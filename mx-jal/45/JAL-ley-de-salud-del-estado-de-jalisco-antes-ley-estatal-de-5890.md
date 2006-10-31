@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2006-08-26"
+last_updated: "2006-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -566,6 +566,10 @@ El cumplimiento de las obligaciones a que se señalan en este artículo estará 
 ###### Art. 28.
 
 El Gobierno del Estado, por conducto de la Secretaría de Salud Jalisco, elaborará y desarrollará programas de nutrición estatales, promoviendo la participación de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2006)</small>
+
+De igual forma impulsará acciones encaminadas al combate a los trastornos alimenticios que se presentan entre los jóvenes y niños del estado de Jalisco, apoyando el diseño de programas y proyectos educativos en la materia.
 
 ###### Art. 29.
 
@@ -3662,3 +3666,7 @@ P.O. 26 DE AGOSTO DE 2006.
 > <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE OCTUBRE DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
