@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2006-09-22"
+last_updated: "2006-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -4115,11 +4115,13 @@ OBJETO DEL RECURSO. El recurso de apelación tiene por objeto principal que el t
 
 Se revocará o modificará la resolución que se apeló, si para ello hay agravios procedentes. Si son improcedentes, se confirmará.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2006)</small>
+
 ###### ARTÍCULO 551.
 
-AUTORIDAD ANTE LA QUE SE INTERPONE APELACIÓN, TIEMPO PARA ELLO Y PARA EXPRESAR AGRAVIOS. El recurso de apelación se interpondrá en el juzgado que pronunció la resolución que se apela; o ante quién la notifique si es en el mismo acto.
+AUTORIDAD ANTE LA QUE SE INTERPONE APELACIÓN, TIEMPO PARA ELLO Y PARA EXPRESAR AGRAVIOS. El recurso de apelación se interpondrá en el juzgado que pronunció la resolución que se apela; o ante quien la notifique si es en el mismo acto.
 
-Se puede interponer desde que se notifica la resolución, hasta los diez días siguientes a ella; siempre y cuando no se trate de auto que niegue la orden de aprehensión; auto de formal prisión o de libertad por elementos insuficientes para procesar; auto que sobresea o niegue sobreseer; o sentencia. Contra estas resoluciones se podrá interponer desde que se notifican, hasta los tres días siguientes si se trata de autos, y hasta cinco días si se trata de sentencias; y con relación a ellas, los agravios se podrán expresar en una sola ocasión, desde que se interpone el recurso hasta la audiencia de vista. Cuando se apelen otras resoluciones, los agravios sólo se expresarán al apelar.
+Se puede interponer desde que se notifica la resolución, hasta los diez días siguientes a ella; siempre y cuando no se trate de auto que niegue la orden de aprehensión; auto de formal prisión o de libertad por elementos insuficientes para procesar; auto que resuelva la libertad caucional o su monto; auto que sobresea o niegue sobreseer; o sentencia. Contra estas resoluciones se podrá interponer desde que se notifican, hasta los tres días siguientes si se trata de autos, y hasta cinco días si se trata de sentencia; y con relación a ellas, los agravios se podrán expresar en una sola ocasión, desde que se interpone el recurso hasta la audiencia de vista. Cuando se apelen otras resoluciones, los agravios se expresarán al apelar.
 
 ###### ARTÍCULO 552.
 
@@ -5632,5 +5634,9 @@ QUINTO.- Las autoridades penitenciarias y los titulares de los órganos jurisdic
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 22 DE SEPTIEMBRE DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al siguiente día en que se publique en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+P.O. 31 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al siguiente día en que se publique en el Periódico Oficial del Gobierno del Estado de Coahuila.
