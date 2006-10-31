@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2005-07-01"
+last_updated: "2006-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -351,7 +351,9 @@ IV. Saber leer y escribir.
 
 V. Tener modo honesto de vivir.
 
-VI. Satisfacer los demás requisitos que establezca el Código Estatal Electoral.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2006)</small>
+
+VI.- Satisfacer los demás requisitos que establezca la ley en materia electoral.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -4000,3 +4002,7 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente d
 P.O. 1 DE JULIO DE 2005.
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2006.
+
+Único.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
