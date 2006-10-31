@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-fraccionamientos-para-el-estado-de-3778
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-13"
-last_updated: "2006-08-18"
+last_updated: "2006-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE FRACCIONAMIENTOS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de febrero de 2004.
 
@@ -101,31 +101,11 @@ Los desarrolladores que soliciten algunas de las autorizaciones previstas en la 
 
 ### Capítulo Segundo. De la Autorización de División de Inmuebles
 
+> <small>(REFORMAD0, P.O. 31 DE OCTUBRE DE 2006)</small>
+
 ###### Articulo 8º.
 
-A la solicitud de autorización de división de un inmueble, se deberá anexar la siguiente documentación:
-
-I.- Copia de las escrituras públicas de propiedad debidamente inscritas en el Registro Público de la Propiedad y del Comercio;
-
-II.- Copia de la escritura constitutiva inscrita en el Registro Público de la Propiedad y del Comercio cuando se trate de persona moral;
-
-III.- Documento que acredite la personalidad jurídica del desarrollador;
-
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
-
-IV.- Certificado de libertad de gravámenes actualizado;
-
-V.- Constancia de no adeudo del impuesto predial que señale la clave catastral del predio;
-
-VI.- Constancia de apeo y deslinde judicial, en caso de que se requiera;
-
-VII.- Constancia de haber obtenido el derecho de preferencia del Estado;
-
-VIII.- Constancias de suficiencia de servicios de agua potable y alcantarillado, energía eléctrica, expedidos por los organismos operadores correspondientes, tratándose de predios urbanos;
-
-IX.- Plano del levantamiento topográfico que incluya las calles circundantes, la infraestructura existente y la propuesta de división, garantizando la servidumbre de paso a los predios resultantes de una división en predios urbanos: y
-
-X.- Plano de localización indicando camino, calles existentes del poblado y ciudad.
+El desarrollador o propietario, en el supuesto de solicitud de autorización de división de inmuebles, deberá ajustarse a lo previsto por el artículo 15 de la Ley.
 
 ###### Artículo 9º.
 
@@ -133,7 +113,9 @@ La Dirección analizará la solicitud y los documentos anexados, de acuerdo a la
 
 En caso de que los documentos anexados no cumplan con los requisitos legales y técnicos, la Dirección comunicará al interesado en un plazo no mayor de cinco días hábiles siguientes a la recepción de la solicitud, para que éste subsane las deficiencias o complemente la documentación, a efecto de continuar con el trámite.
 
-Si el desarrollador no subsana, corrije (sic) o justifica las observaciones que le requiere la Dirección dentro del plazo previsto en el artículo 43 de la Ley, se ordenará el archivo de la solicitud.
+> <small>(REFORMADO P.O. 31 DE OCTUBRE DE 2006)</small>
+
+Si el desarrollador o el propietario no subsana, corrige o justifica las observaciones que le requiera la Dirección dentro del plazo previsto en el artículo 43 de la Ley, se ordenará el archivo de la solicitud.
 
 ###### Artículo 10.
 
@@ -608,5 +590,9 @@ GERARDO RODRIGUEZ OROZCO.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 18 DE AGOSTO DE 2006.
+
+Artículo Único.- El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE OCTUBRE DE 2006.
 
 Artículo Único.- El presente Decreto Gubernativo iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
