@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2006-08-01"
+last_updated: "2006-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -141,11 +141,11 @@ XVIII.- Fomentar el desarrollo de habilidades para afrontar los casos de emergen
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2005)</small>
 
-XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adiciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales;
+XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adiciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales.
 
 (ADICIONADA, P.O. 22 DE ABRIL DE 2006) (F. DE E., P.O. 30 DE DICIEMBRE DE 2006)
 
-XX.- Fomentar la cultura de transparencia y acceso a la información pública, con la finalidad de propiciar el ejercicio de un derecho fundamental y consolidar el avance democrático en el Estado de Jalisco.
+XX.- Fomentar la cultura de transparencia y acceso a la información pública, con la finalidad de propiciar el ejercicio de un derecho fundamental y consolidar el avance democrático en el Estado de Jalisco;
 
 ###### ARTICULO 8o.
 
@@ -734,6 +734,10 @@ La educación física se impartirá por maestros que acrediten preparación prof
 Los docentes de nuevo ingreso al servicio educativo deberán cumplir el perfil profesional requerido por la Ley. En el caso de que dos o más personas reúnan los requisitos legales y el perfil requerido para cubrir una vacante, las autoridades educativas darán preferencia al candidato residente de la región en donde se ubique el centro de trabajo en que se desempeñará.
 
 Quienes ya pertenezcan al servicio educativo y sean propuestos a una asignatura diferente, deberán cumplir el perfil profesional requerido para la nueva asignatura.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2006)</small>
+
+ARTICULO 57 bis.- Dentro de la educación básica deberán desarrollarse programas y proyectos educativos encaminados al combate de los trastornos alimenticios que se presentan entre los jóvenes y niños del estado de Jalisco.
 
 ### CAPÍTULO V
 
@@ -1806,5 +1810,9 @@ P.O. 22 DE JUNIO DE 2006.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 1 DE AGOSTO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
