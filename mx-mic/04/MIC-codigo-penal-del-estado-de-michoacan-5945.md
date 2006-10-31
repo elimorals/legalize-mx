@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2006-08-24"
+last_updated: "2006-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -2325,9 +2325,9 @@ TITULO DECIMOPRIMERO
 
 DELITOS CONTRA EL ORDEN FAMILIAR
 
-### CAPITULO V. Substracción de Menores
+### CAPITULO V. Sustracción o retención
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 213.
 
@@ -2425,6 +2425,8 @@ El delito de incumplimiento de obligaciones de asistencia familiar sólo se pers
 
 (DEROGADO, P.O. 3 DE AGOSTO DE 1998)
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2006)</small>
+
 ### CAPITULO III. Tráfico de personas
 
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 1998)</small>
@@ -2433,11 +2435,19 @@ Artículo 229 bis.- Al que de cualquier forma obtenga un beneficio económico a 
 
 ###### Artículo 224.
 
-A los padres, abuelos o parientes consanguíneos hasta el cuarto grado, de un menor de doce años, que lo sustraiga sin causa justificada, o sin orden de la autoridad competente, de la custodia o guarda de quien legítimamente la posea, o bien que lo retenga sin la voluntad de éste, se le impondrán de uno a seis años de prisión y multa de cien a quinientos días de salario.
+Al padre, madre, abuelo, abuela o pariente consanguíneo por afinidad o civil hasta el cuarto grado, de persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho o de resistirlo; que lo sustraiga o retenga sin causa justificada o sin orden de la autoridad competente, de la custodia o guarda de quien legítimamente la posea, se le impondrán de uno a seis años de prisión y multa de cien a quinientos días de salario.
 
-Si se pone en libertad al menor, espontáneamente, antes de tres días y sin causarle ningún perjuicio, se aplicarán de seis meses a un año de prisión y multa de veinticinco a cien días de salario.
+En caso de causa justificada el autor deberá informar de los hechos inmediatamente al Ministerio Público.
 
-Los padres de los menores no incurren en la comisión de este delito, cuando ambos ejerzan la patria potestad.
+La pena máxima se aumentará hasta una tercera parte si la sustracción o retención se realiza:
+
+I. En persona menor de dos años de edad;
+
+II. Aprovechando la ausencia de quien tenga la custodia o guarda; o,
+
+III. Empleando violencia.
+
+Este delito se perseguirá por querella de parte ofendida.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE ABRIL DE 2001)</small>
 
@@ -3820,5 +3830,9 @@ DECRETO NUMERO 65
 P.O. 24 DE AGOSTO DE 2006.
 
 DECRETO NUMERO 66
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
