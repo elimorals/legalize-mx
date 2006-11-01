@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2006-09-12"
+last_updated: "2006-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -61,27 +61,23 @@ El Estado se divide en Distritos Electorales, Distritos Judiciales y Municipios.
 
 Los Municipios del Estado son los siguientes: Abasolo, Aldama, Altamira, Antiguo Morelos, Burgos, Bustamante, Camargo, Casas, Ciudad Madero, Cruillas, El Mante, Gómez Farías, González, Güémez, Guerrero, Gustavo Díaz Ordaz, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Matamoros, Méndez, Mier, Miguel Alemán, Miquihuana, Nuevo Laredo, Nuevo Morelos, Ocampo, Padilla, Palmillas, Reynosa, Río Bravo, San Carlos, San Fernando, San Nicolás, Soto la Marina, Tampico, Tula, Valle Hermoso, Victoria, Villagrán y Xicoténcatl.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
 ###### Art. 4o.
 
-El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo y Popular, tomando como base de su organización política y administrativa el Municipio Libre, en los términos que establezca el Código Municipal.
+Para su régimen interior, el Estado adopta la forma de gobierno republicano, democrático, representativo y popular, siendo la base de su organización política y administrativa el Municipio Libre, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2001)</small>
+El titular del Ejecutivo organizará un sistema de planeación democrática del desarrollo político, económico, social, y cultural del Estado.
 
-El titular del Ejecutivo organizará un sistema de planeación democrática del desarrollo económico, social, político, administrativo y cultural del Estado.
+La planeación será democrática. Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública estatal. Mediante la participación de los diversos sectores social y privado, el Plan recogerá las aspiraciones y demandas de la sociedad.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2006)</small>
 
-La planeación será democrática. Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública estatal. Mediante la participación de los diversos sectores sociales, recogerá las aspiraciones y las demandas de la sociedad, para incorporarlas a los planes y programas de desarrollo.
+La Ley facultará al Ejecutivo para que establezca los procedimientos de participación de consulta popular dentro del sistema estatal de planeación democrática, así como los criterios para la formulación, instrumentación, control y evaluación del Plan y los programas de desarrollo. También determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los gobiernos federal y municipales, e introduzca y concierte con los particulares, las acciones a realizar para su elaboración y ejecución.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
+Los Municipios podrán celebrar en el ámbito de su competencia convenios y acuerdos con la Federación para la planeación, coordinación y ejecución de los programas de desarrollo económico y social, con la aprobación del Congreso del Estado.
 
-La ley facultará al Ejecutivo para que establezca los procedimientos de participación y consulta popular dentro del sistema estatal de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. Asimismo, determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo Estatal coordine, mediante convenios con los gobiernos federal y municipales, e introduzca y concierte con los particulares, las acciones a realizar para su elaboración y ejecución.
-
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
-
-Los Municipios podrán celebrar, en el ámbito de su competencia, convenios y acuerdos con la Federación, y entre sí, para la planeación, coordinación, y ejecución de los programas de desarrollo económico y social.
+El sistema de planeación democrática del desarrollo incluirá la planeación estratégica. La ley conformará el Consejo Económico y Social, órgano consultivo del Gobierno del Estado en el que concurrirán los sectores público, social, privado y académico, y establecerá las normas para su funcionamiento. En dicho Consejo estarán representadas las diversas regiones de desarrollo del Estado, conforme lo señale la ley. El Consejo alentará la planeación de largo plazo basada en el acuerdo social más amplio para dar continuidad a los procesos de desarrollo del Estado. Dicha planeación no limitará los contenidos y alcances del Plan Estatal de Desarrollo.
 
 ### CAPITULO II. De los tamaulipecos
 
@@ -129,7 +125,7 @@ Son obligaciones de los ciudadanos del Estado:
 
 I. Votar en las elecciones populares en la forma que disponga la ley.
 
-II. Desempeñar los cargos de elección popular y los concejiles para que fuere nombrado conforme a la ley, salvo excusa legítima..
+II. Desempeñar los cargos de elección popular y los concejiles para que fuere nombrado conforme a la ley, salvo excusa legítima.
 
 III. Alistarse en la Guardia Nacional.
 
@@ -741,13 +737,13 @@ VI. Revisar y calificar las cuentas públicas de los Poderes del Estado, de los 
 
 Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría Superior del Estado. La ley determinará la organización y funcionamiento de dicho órgano técnico de fiscalización superior del Congreso, el cual contará con independencia en sus funciones y autonomía presupuestal para el ejercicio de sus atribuciones. La coordinación y evaluación del desempeño de dicho órgano estará a cargo del Congreso en los términos que disponga la ley;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
-VII. Fijar las bases al Ejecutivo para la contratación de empréstitos sobre el crédito del Estado, con las limitaciones que marca la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos, y reconocer y mandar pagar las deudas que contraiga el Estado;
+VII. Fijar las bases para que el Ejecutivo Estatal lleve a cabo la contratación de empréstitos sobre el crédito del Estado, mediante la expedición de la ley correspondiente, con base en las previsiones de la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos. En dicha ley se establecerán los elementos para la celebración de contratos en materia de crédito público y su renovación; la afectación en garantía de las participaciones que en ingresos federales le correspondan al Estado, o de los ingresos estatales; la realización de operaciones de sustitución o canje de deuda, incluyéndose la información sobre las condiciones financieras mayormente favorables que se hubieren contratado y el destino del ahorro para inversiones públicas productivas; y, en su caso, el reconocimiento de deuda pública contraída por el Estado, así como las condiciones en que se realizará su pago;
 
-> <small>(REFORMADA, P.O. 03 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
-VIII. Fijar las bases al Ejecutivo para renovar los contratos de donde se origine la deuda del Estado; cuando se realicen operaciones de sustitución o canje de deuda se informará al Congreso en los términos que prescriba la ley sobre las condiciones financieras mayormente favorables que se hubieren contratado y el destino del ahorro para inversiones públicas productivas;
+VIII. Fijar las bases, mediante la expedición de la ley correspondiente, para que el Ejecutivo Estatal lleve a cabo la celebración de contratos de servicios o de obras en los cuales se afecten en garantía tanto las participaciones que en ingresos federales le correspondan al Estado, como los ingresos estatales que sean susceptibles de afectación;
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
 
@@ -925,7 +921,7 @@ LVII. Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencios
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
 
-LVIII. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado; y
+LVIII.- Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado; y
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
 
@@ -945,7 +941,9 @@ III. Atentar contra el sistema representativo, popular y federal.
 
 IV. Dejar de señalar retribución a un empleo establecido por la ley. En caso de que se omita fijar tal remuneración, se entenderá señalada la última que hubiere tenido.
 
-V. Mandar hacer cortes de cuentas con los acreedores del Estado, a fin de dejar sus créditos insolutos.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE NOVIEMBRE DE 2006)</small>
+
+V. Mandar hacer cortes de cuentas con los acreedores del Estado, a fin de dejar sus créditos insolutos; o disminuir o negar las previsiones presupuestales necesarias para atender las obligaciones de pago contraídas por el Estado en materia de deuda pública o de contratos de servicios o de obras que comprendan ejercicios presupuestales posteriores al de su celebración;
 
 VI. Dispensar estudios para el efecto de otorgar títulos profesionales.
 
@@ -1108,6 +1106,10 @@ En tratándose de las iniciativas de Ley de Ingresos de los Ayuntamientos del Es
 Las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Estado contendrán estimaciones sobre los recursos que percibirá o que dispondrá el erario público para el siguiente ejercicio fiscal. El principio del equilibrio entre los ingresos y los egresos públicos regirá la preparación y presentación de dichas iniciativas.
 
 Toda propuesta de creación de partidas de gasto o de incremento de las mismas a la iniciativa de Presupuesto de Egresos, deberá adicionarse con la correspondiente iniciativa de ingresos, si con tal proposición se altera el equilibrio presupuestal.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+
+En la iniciativa de Decreto del Presupuesto de Egresos del Estado se incluirán los proyectos de desarrollo cuya realización requiera de previsiones presupuestales posteriores al ejercicio presupuestal que se esté aprobando. La aprobación de las asignaciones presupuestales relativas implica la consideración preferente para la asignación de gasto público necesario para su culminación en subsiguientes Presupuestos de Egresos.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -3261,13 +3263,15 @@ P.O. 12 DE SEPTIEMBRE DE 2006.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO PRIMERO.
+P.O. 1 DE NOVIEMBRE DE 2006.
 
-El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+###### ARTÍCULO PRIMERO.
 
-###### ARTICULO SEGUNDO.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-A partir de la entrada en vigor de este Decreto y en tanto no se modifique la legislación reglamentaria en materia agraria, continuarán aplicándose sus disposiciones, incluidas las relativas a las autoridades e instancias competentes y a la organización interna de los ejidos y comunidades, siempre que no se opongan a lo establecido en este mismo Decreto.
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y adecuaciones a la legislación estatal vigente, derivadas de la presente reforma, deberán expedirse dentro de los 120 días siguientes a la entrada en vigor del presente Decreto.
 
 ###### ARTICULO UNICO.
 
