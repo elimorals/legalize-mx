@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-centro-estatal-de-tecnologias-de-39623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-05-24"
-last_updated: "2004-05-24"
+last_updated: "2006-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL CENTRO ESTATAL DE TECNOLOGIAS DE INFORMACION Y COMUNICACIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el lunes 24 de mayo de 2004.
 
@@ -77,21 +77,23 @@ VII. Unidades Administrativas: Las unidades administrativas dotadas de facultade
 
 La Junta es el máximo órgano de gobierno del Centro, cuya integración y ejercicio de atribuciones se realizarán de conformidad con lo dispuesto por el Decreto y la Ley de Entidades Paraestatales del Estado de Michoacán.
 
-###### Artículo 5°.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
-El Centro, para el despacho de los asuntos que le competen, contará con las unidades administrativas siguientes:
+###### Artículo 5º.
 
-I. Coordinación General;
+El Centro, para el estudio, planeación y despacho de los asuntos que le competen, además de la Coordinación General, contará con las unidades administrativas siguientes:
 
-II. Dirección de Redes y Telecomunicaciones;
+l. Dirección de Atención a Usuarios;
 
-III. Dirección de Desarrollo de Sistemas;
+II. Dirección de Ingeniería:
 
-IV. Subdirección de Servicios Generales;
+a) Subdirección de Telecomunicaciones,
 
-V. Subdirección de Soporte Técnico; y,
+III. Subdirección de Operación;
 
-VI. Delegación Administrativa.
+IV. Unidad Jurídica; y,
+
+V. Delegación Administrativa.
 
 ### CAPÍTULO II. DE LAS FACULTADES DEL COORDINADOR GENERAL
 
@@ -139,9 +141,11 @@ XVII. Las demás que le señale la Junta y otras disposiciones normativas aplica
 
 Las unidades administrativas del Centro de jerarquía inmediata inferior al Coordinador General, ejercerán sus facultades y conducirán sus actividades conforme a los objetivos, programas y políticas del Centro, los lineamientos que emita el Coordinador General y demás disposiciones normativas aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 8º.
 
-Al frente de cada unidad administrativa habrá un titular que se auxiliará del personal que requiera para el cumplimiento de sus facultades y que estén dentro de las posibilidades presupuestales aprobadas por la Junta.
+Al frente de cada unidad administrativa habrá un titular, que se auxiliará del personal que sea necesario, de acuerdo al presupuesto y organigrama aprobados y ejercerán sus facultades y funciones, conforme al presente Reglamento y al Manual Administrativo de Organización del Centro.
 
 ###### Artículo 9º.
 
@@ -177,93 +181,165 @@ XIV. Cumplir con los lineamientos expedidos por las autoridades competentes, en 
 
 XV. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
 
-### CAPÍTULO IV. DE LA DIRECCIÓN DE REDES Y TELECOMUNICACIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+
+### CAPÍTULO IV. DE LA DIRECCIÓN DE ATENCIÓN A USUARIOS
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 10.
 
-Al Director de Redes y Telecomunicaciones le corresponde el ejercicio de las atribuciones siguientes:
+Al Director de Atención a Usuarios le corresponde el ejercicio de las facultades siguientes:
 
-I. Proponer al Coordinador General, para su aprobación, las políticas, normas y programas para mantener actualizada la infraestructura de redes, telecomunicaciones y equipos auxiliares de las dependencias y entidades de la Administración Pública Estatal;
+I. Asesorar a las dependencias y entidades de la Administración Pública Estatal que lo requieran, en la elaboración de proyectos de desarrollo tecnológico;
 
-II. Asistir a las dependencias y entidades de la Administración Pública Estatal en la adopción y cumplimiento de los estándares y normas establecidas por la instancia competente en materia de instalaciones, equipamiento y componentes necesarios para operar las redes de cómputo;
+II. Proponer al Coordinador General para su aprobación, las metodologías y normas estandarizadas en procesos de trabajo y administración de proyectos, y en su caso, difundirlas;
 
-III. Proponer al Coordinador General el establecimiento de mecanismos de evaluación, del funcionamiento de la infraestructura de redes y telecomunicaciones de las dependencias y entidades de la Administración Pública Estatal;
+III. Dirigir la elaboración de proyectos de desarrollo tecnológico que optimicen la eficiencia y modernización de la Administración Pública Estatal y presentarlos al Coordinador General para su autorización;
 
-IV. Dar seguimiento a la aplicación de los estándares y normas establecidas por la instancia competente en materia de instalaciones, equipamiento y componentes para operar las redes de cómputo, en los procesos de contratación, adquisición, instalación, operación y mantenimiento de los equipos de procesamiento electrónico de datos y de los servicios de comunicación de voz, datos e imágenes, incluyendo sus programas, equipos auxiliares y de transmisión, destinados a las dependencias y entidades de la Administración Pública Estatal, en concordancia con las políticas y los lineamientos establecidos en materia de informática;
+IV. Dirigir la capacitación continua del personal del Centro en materia de administración de proyectos;
 
-V. Colaborar en el establecimiento de políticas y mecanismos de control y de seguridad en las instalaciones de cómputo y comunicaciones y en los sitios de Internet e Intranet del Gobierno del Estado;
+V. Proponer al Coordinador General, la normativa interna del Centro en materia de procesos y administración de proyectos;
 
-VI. Promover la observancia de las normas que en materia de equipamiento auxiliar de comunicaciones, corresponda al otorgamiento del servicio; y,
+VI. Coadyuvar con la Unidad Jurídica del Centro en la materia de su competencia, en la elaboración de los contratos o convenios de los proyectos de desarrollo tecnológico que suscriba el Centro, con las dependencias y entidades de la Administración Pública Estatal y con organizaciones públicas o privadas;
 
-VII. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
+VII. Dar seguimiento a los proyectos en materia de desarrollo tecnológico, en los que el Centro participe con otras dependencias y entidades de la Administración Pública Estatal;
 
-### CAPÍTULO V. DE LA DIRECCIÓN DE DESARROLLO DE SISTEMAS
+VIII. Realizar los estudios que le requiera el Coordinador General, de las estructuras de soporte técnico en información y comunicaciones de las dependencias y entidades de la Administración Pública Estatal que lo soliciten;
+
+IX. Supervisar el reporte, seguimiento y solución de fallas técnicas, así como la prestación del servicio de soporte técnico en las dependencias y entidades de la Administración Pública Estatal, en las que el Centro ejecute proyectos de desarrollo tecnológico, a través de la Mesa de Ayuda;
+
+X. Proponer, promover y supervisar la capacitación técnica a los usuarios de las dependencias y entidades de la Administración Pública Estatal que lo soliciten, en materia de procesos y administración de proyectos, conforme a la normativa aplicable;
+
+XI. Fomentar la capacitación técnica de los servidores públicos de las unidades administrativas de informática de las dependencias y entidades de la Administración Pública Estatal, en materia de procesos y administración de proyectos, conforme a la normativa aplicable;
+
+XII. Proponer, implantar y evaluar tecnologías de información y comunicaciones, así como alternativas de solución en servicios electrónicos y aplicaciones que mejoren la capacidad operativa, táctica y estratégica de las dependencias y entidades de la Administración Pública Estatal que lo soliciten y de conformidad con la normativa aplicable;
+
+XIII. Proponer al Coordinador General, la incorporación de servicios y tecnologías de información y comunicaciones de uso general, en las dependencias y entidades de la Administración Pública Estatal;
+
+XIV. Proponer al Coordinador General, soluciones tecnológicas integrales que den soporte a los servicios que preste el Centro, así como a los proyectos de desarrollo tecnológico, informático y administrativo en los que participe según su competencia; y,
+
+XV. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+
+### CAPÍTULO V. DE LA DIRECCIÓN DE INGENIERÍA
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 11.
 
-Al Director de Desarrollo de Sistemas le corresponde el ejercicio de las facultades siguientes:
+Al Director de Ingeniería le corresponde el ejercicio de las facultades siguientes:
 
-I. Proponer al Coordinador General el establecimiento de mecanismos de validación de información de los desarrollos de aplicaciones que realice el Centro, y asesorar a las dependencias y entidades de la Administración Pública Estatal que requieran realizar este tipo de actividades;
+I. Proponer al Coordinador General, para su aprobación, los proyectos de políticas y programas para actualizar y evaluar la infraestructura de redes, telecomunicaciones y equipos auxiliares de las dependencias y entidades de la Administración Pública Estatal, conforme a la normativa aplicable;
 
-II. Asistir a las dependencias y entidades de la Administración Pública Estatal en la aplicación de los lineamientos generales, bases normativas y estándares de desarrollo que regulen la estructura y funcionamiento del Sistema Estatal de Información y sus bases de datos, a fin de mantener la debida congruencia y compatibilidad operativa;
+II. Dar seguimiento a la aplicación de los estándares y normas establecidas por la instancia competente en materia de instalaciones, equipamiento y componentes para operar las redes de cómputo;
 
-III. Promover y difundir los lineamientos y objetivos establecidos en el Plan Integral para la Modernización del Uso de Tecnologías de Información, en coordinación con la unidad administrativa que corresponda de la Secretaría de Planeación y Desarrollo Estatal;
+III. Proponer al Coordinador General, políticas, estándares y mecanismos de control y de seguridad en las instalaciones de cómputo y comunicaciones y en los sitios de Internet e Intranet del Gobierno del Estado y supervisar su aplicación una vez aprobados, conforme a la normativa aplicable;
 
-IV. Apoyar a las dependencias y entidades de la Administración Pública Estatal en el diseño, análisis y desarrollo, tanto de aplicaciones como de sistemas de bases de datos, incorporando los estándares y mejores prácticas existentes en la especialidad;
+IV. Proponer al Coordinador General el establecimiento de mecanismos de validación de información de los desarrollos de aplicaciones que realice el Centro;
 
-V. Dirigir las acciones que por motivo de convenios o contratos con terceros se establezcan, en coordinación con el Centro para la implantación de proyectos específicos;
+V. Asistir a las dependencias y entidades de la Administración Pública Estatal que lo soliciten, en la aplicación de la normativa que regule la estructura y funcionamiento de los sistemas de información y sus bases de datos, a fin de mantener la debida congruencia y compatibilidad operativa;
 
-VI. Promover el uso de herramientas de desarrollo de aplicaciones en línea de última generación, que faciliten su desarrollo, portabilidad y disponibilidad; y,
+VI. Promover programas de desarrollo profesional, capacitación y certificación en cómputo y telecomunicaciones para el personal técnico del Centro;
 
-VII. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
+VII. Proponer al Coordinador General, para su aprobación, los procesos y procedimientos de operación de las redes, servicios y sistemas que son responsabilidad del Centro, en un proceso de mejora continua y control de versiones;
 
-### CAPÍTULO VI. DE LA SUBDIRECCIÓN DE SERVICIOS GENERALES
+VIII. Fomentar el uso de herramientas de desarrollo de aplicaciones en línea de última generación, que faciliten su desarrollo, portabilidad y disponibilidad;
+
+IX. Promover y difundir los lineamientos y objetivos establecidos en el Plan Integral para la Modernización del Uso de Tecnologías de Información, en coordinación con la unidad administrativa que corresponda de la Secretaría de Planeación y Desarrollo Estatal;
+
+X. Apoyar a la. Dirección de Atención a Usuarios, en el desarrollo de acciones que por motivo de convenios o contratos con terceros, se establezcan en coordinación con el Centro para la implantación de proyectos específicos;
+
+XI. Proporcionar la asesoría en materia de servicios técnicos especializados, a las unidades administrativas de informática de las diferentes dependencias y entidades de la Administración Pública Estatal, que lo soliciten conforme a la normativa aplicable; y,
+
+XII. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+
+#### SECCIÓN I. DE LA SUBDIRECCIÓN DE TELECOMUNICACIONES
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 11 bis. Al Subdirector de Telecomunicaciones le corresponde el ejercicio de las facultades siguientes:
+
+I. Formular al Director de Ingeniería, propuestas de políticas y programas que permitan mantener actualizada la infraestructura de redes, telecomunicaciones y equipos;
+
+II. Aplicar los mecanismos de evaluación establecidos por el Coordinador General a propuesta de la Dirección de Ingeniería, al funcionamiento de la infraestructura de redes y telecomunicaciones;
+
+III. Implementar los estándares y normas establecidas por la instancia competente en materia de instalaciones eléctricas, adecuación de sitios, cableado estructurado, equipamiento y componentes para operar las redes de cómputo y telecomunicaciones;
+
+IV. Asesorar a las unidades administrativas de las dependencias y entidades de la Administración Pública Estatal que lo requieran, en materia de contratación, adquisición, instalación, operación y mantenimiento de los equipos y servicios de comunicación de voz, datos e imágenes, incluyendo sus programas, equipos auxiliares y de transmisión;
+
+V. Aplicar la metodología de administración de proyectos adoptada por el Centro, en los proyectos de infraestructura de telecomunicaciones conforme a la normativa aplicable;
+
+VI. Proponer al Director de Ingeniería, políticas, estándares y mecanismos de control y de seguridad física en las instalaciones de cómputo y comunicaciones del Gobierno del Estado;
+
+VII. Generar y actualizar los procesos y procedimientos de operación de la infraestructura de telecomunicaciones del Centro, previa autorización del Director de Ingeniería;
+
+VIII. Analizar y proponer mejoras a la infraestructura de telecomunicaciones con base a la evidencia sobre la disponibilidad, desempeño y uso de ésta, conforme a la normativa aplicable; y,
+
+IX. Las demás que le señale el Director de Ingeniería y otras disposiciones normativas aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+
+### CAPÍTULO VI. DE LA SUBDIRECCIÓN DE OPERACIÓN
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 12.
 
-Al Subdirector de Servicios Generales le corresponde el ejercicio de las facultades siguientes:
+Al Subdirector de Operación le corresponde el ejercicio de las facultades siguientes:
 
-I. Evaluar, proponer, implantar y operar tecnologías de información y comunicaciones, así como alternativas de solución en servicios electrónicos y aplicaciones que mejoren la capacidad operativa, táctica y estratégica de las dependencias y entidades de la Administración Pública Estatal;
+I. Proponer al Coordinador General, alternativas de solución en servicios electrónicos y aplicaciones que mejoren la capacidad operativa, táctica y estratégica de las dependencias y entidades de la Administración Pública Estatal;
 
-II. Proponer la incorporación de servicios y tecnologías de información y comunicaciones de uso general a las dependencias y entidades de la Administración Pública Estatal;
+II. Asistir a las dependencias y entidades de la Administración Pública Estatal, en la adopción y cumplimiento de los estándares y normas establecidas por la instancia competente en materia de instalaciones, equipamiento y componentes necesarios para operar las redes de cómputo;
 
-III. Proponer soluciones tecnológicas integrales que den soporte a los servicios que preste el Centro, así como a los proyectos de desarrollo tecnológico, informático y administrativo, en los que participe con otras dependencias y entidades de la Administración Pública Estatal;
+III. Proveer los mecanismos de seguridad y estabilidad a la infraestructura de redes de cómputo y servicios electrónicos, que el Centro presta a las dependencias y entidades de la Administración Pública Estatal;
 
-IV. Coadyuvar con la Dirección de Desarrollo de Sistemas, en el desarrollo de acciones que por motivo de convenios o contratos con terceros, se establezcan en coordinación con el Centro para la implantación de proyectos específicos;
+IV. Ejecutar los procedimientos de operación de las redes, servicios y sistemas que son responsabilidad del Centro, en términos de la normativa aplicable;
 
-V. Proveer a las dependencias y entidades de la Administración Pública Estatal, de la infraestructura tecnológica necesaria que permita el uso de servicios y herramientas comunes como el correo electrónico, agendas electrónicas compartidas, servicios de directorio y las demás que se desarrollen;
+V. Promover la observancia de la normativa que en materia de equipamiento auxiliar de comunicaciones, corresponda al otorgamiento del servicio;
 
-VI. Proporcionar la asesoría a los servicios técnicos especializados, a las unidades administrativas de informática de las diferentes dependencias y entidades de la Administración Pública Estatal que así se lo soliciten; y,
+VI. Proveer a las dependencias y entidades de la Administración Pública Estatal, de la infraestructura tecnológica necesaria que permita el uso de servicios y herramientas, previa autorización del Coordinador General y en términos de la normativa aplicable;
 
-VII. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
+VII. Atender las contingencias de la infraestructura de redes de cómputo y servicios electrónicos, que el Centro presta a las dependencias y entidades de la Administración Pública Estatal;
 
-### CAPÍTULO VII. DE LA SUBDIRECCIÓN DE SOPORTE TÉCNICO
+VIII. Proporcionar mantenimiento preventivo y correctivo a las redes de cómputo que el Centro preste a las dependencias y entidades de la Administración Pública Estatal, de conformidad con las disposiciones normativas aplicables;
+
+IX. Realizar la instalación física de los equipos necesarios para el funcionamiento de las redes, telecomunicaciones y equipos auxiliares de las dependencias y entidades de la Administración Pública Estatal, previa autorización del Coordinador General; y,
+
+X. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
+
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+
+### CAPÍTULO VII. DE LA UNIDAD JURÍDICA
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 13.
 
-Al Subdirector de Soporte Técnico le corresponde el ejercicio de las facultades siguientes:
+Al titular de la Unidad Jurídica le corresponde el ejercicio de las facultades siguientes:
 
-I. Asesorar y supervisar los proyectos de desarrollo tecnológico en los que participe el Centro;
+I. Representar legalmente al Centro, previo acuerdo delegatorio de facultades, que en su caso suscriba el Coordinador General;
 
-II. Proponer, al Coordinador General para su aprobación, y en su caso, difundir las metodologías formales y normas estandarizadas en procesos y administración de proyectos;
+II. Formular y revisar los acuerdos, convenios, contratos, actas administrativas y demás instrumentos jurídicos administrativos, que requiera el desarrollo de las atribuciones del Centro y someterlos a la aprobación del Coordinador General;
 
-III. Promover la formulación de proyectos de desarrollo tecnológico que coadyuven al desarrollo de la Administración Pública Estatal;
+III. Brindar la asesoría y asistencia jurídica al Coordinador General y a las unidades administrativas del Centro, en términos de la normativa aplicable;
 
-IV. Programar y procurar la capacitación continua en administración de proyectos para el personal del propio Centro, así como para los responsables de proyectos de desarrollo tecnológico de las dependencias y entidades de la Administración Pública Estatal, mediante cursos de especialización en la materia;
+IV. Asesorar y coadyuvar con las unidades administrativas del Centro, en la formulación de estudios y proyectos sobre disposiciones normativas del Centro;
 
-V. Proponer la normativa interna del Centro en materia de procesos y administración de proyectos;
+V. Concentrar, resguardar y actualizar permanentemente los contratos, convenios y demás instrumentos jurídicos en los que participe el Coordinador General;
 
-VI. Dar seguimiento ejecutivo a todos y cada uno de los proyectos tecnológicos en los que el Centro participe con otras dependencias y entidades de la Administración Pública Estatal;
+VI. Atender en representación del Centro los asuntos judiciales, laborales y contencioso administrativos, previo mandato otorgado por el Coordinador General, ante las autoridades administrativas o judiciales en los juicios o procedimientos en que el Centro sea parte;
 
-VII. Supervisar las estructuras de soporte técnico de las diferentes dependencias y entidades de la Administración Pública Estatal, así como las acciones de capacitación y atención a los servidores públicos del gobierno;
+VII. Expedir constancia de los documentos que obran en los archivos del Centro, en términos de la normativa aplicable;
 
-VIII. Supervisar el reporte, seguimiento y solución de fallas técnicas así como prestación del servicio de soporte técnico en las dependencias y entidades de la Administración Pública Estatal, a través del uso de tecnologías de mesa de ayuda;
+VIII. Coadyuvar al cumplimiento de las obligaciones institucionales derivadas de las Condiciones Generales de Trabajo que rigen la relación laboral de los servidores públicos del Centro, y asesorar en la aplicación de las sanciones que en derecho correspondan a éstos por las violaciones de la normativa aplicable;
 
-IX. Proponer programas de capacitación y certificación en cómputo y comunicaciones para el personal técnico del Centro y promover la capacitación técnica a los usuarios de las dependencias y entidades de la Administración Pública Estatal;
+IX. Compilar, estudiar y difundir las disposiciones normativas que sean de interés para el Centro y el desempeño de las actividades de los servidores públicos; y,
 
-X. Fomentar la capacitación técnica de los servidores públicos de las unidades administrativas de informática de las dependencias y entidades de la Administración Pública Estatal; y,
-
-XI. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
+X. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
 
 ### CAPÍTULO VIII. DE LA DELEGACIÓN ADMINISTRATIVA
 
@@ -301,13 +377,17 @@ XIV. Las demás que le señale el Coordinador General y otras disposiciones norm
 
 ### CAPÍTULO IX. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 15.
 
-En las ausencias temporales del Coordinador General, será suplido por el titular de la unidad administrativa que corresponda, conforme al orden dispuesto en la estructura orgánica establecida en el artículo 4° del presente Reglamento.
+En las ausencias temporales del Coordinador General, será suplido por el titular de la unidad administrativa que corresponda, conforme al orden dispuesto en la estructura orgánica establecida en el artículo 5° del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 16.
 
-En las faltas temporales de los titulares de las unidades administrativas establecidas en el artículo 4° del presente Reglamento, éstos serán suplidos por los jefes de departamento conforme al organigrama y al orden establecido en el mismo, de izquierda a derecha.
+En las faltas temporales de los titulares de las unidades administrativas establecidas en el artículo 5º del presente Reglamento, éstos serán suplidos por los jefes de departamento conforme al organigrama autorizado del Centro y al orden establecido en el mismo, de izquierda a derecha.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -348,3 +428,15 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE NOVIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se dejan sin efecto aquellas disposiciones administrativas en lo que se opongan al presente Decreto.
