@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2006-05-30"
+last_updated: "2006-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -449,9 +449,13 @@ c) Finanzas, Planeación, Presupuesto y Deuda Pública;
 
 d) Administración;
 
-e) Desarrollo Social;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
-f) Educación, Cultura y Deporte;
+e) Desarrollo Social, Cultura y Deporte;
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+
+f) Educación;
 
 g) Ciencia y Tecnología;
 
@@ -463,7 +467,9 @@ j) Desarrollo Sustentable;
 
 k) Comunicaciones y Transportes;
 
-l) Desarrollo Agropecuario, Forestal y Pesquero;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+
+I) Desarrollo Rural;
 
 ll) Desarrollo Industrial y Comercial;
 
@@ -2106,3 +2112,19 @@ DECRETO No. LIX-551
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 2006.
+
+DECRETO No. LIX-622
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 2006.
+
+DECRETO No.LIX-637
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
