@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2005-12-15"
+last_updated: "2006-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -534,6 +534,8 @@ El entero del impuesto establecido en este Capítulo deberá pagarse en la ofici
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VI. DE LOS DERECHOS POR SERVICIO DE CONTROL DE VEHICULOS Y POR EXPEDIClON DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
@@ -1223,7 +1225,7 @@ Los servicios que preste la Dirección General de Catastro, o sus delegaciones, 
 
 ###### ARTICULO 60.
 
-Los derechos por servicios relacionados con el tránsito vehicular, se causarán en base a días de salario o fracción del mismo, conforme a lo siguiente:
+Los derechos por los servicios que presta el estado relacionados con el tránsito vehicular, deberán ser cubiertos con una cuota representada en base a días de salario mínimo o fracción del mismo, según el servicio que se preste en los términos siguientes:
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -1233,27 +1235,19 @@ SALARIO
 
 A.- CONTROL VEHICULAR
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-I. Se pagará por dotación inicial de
+I. El servicio por control en la dotación inicial de placas, reposición, canje o replaqueo causará un derecho que deberá ser cubierto al estado, en los términos siguientes:
 
-placas, reposición, canje o replaqueo
-
-en la forma siguiente:
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
 1.- Automóviles, camiones y autobuses
 
-para uso particular.
+para uso particular. 8
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+a) (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2006)
 
-a) Modelo 1990 y anteriores 16
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
-
-b) Modelo 1991 y posteriores 22
+b) (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2006)
 
 2.- Camiones de carga, grúas, automóviles y
 
@@ -1269,21 +1263,23 @@ excepto agrícolas. 17
 
 6.- Placas de demostración. 21
 
-II. Expedición de engomado y tarjeta de circulación por refrendo anual para los vehículos que cuenten con juego de placas:
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2005)</small>
+El pago por servicio de control en la dotación de placas, por canje o replaqueo, deberá realizarse cada tres años en la forma y términos indicados en el artículo 61 de la presente ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE NOVIEMBRE DE 2006)</small>
+
+II. Los derechos que se causen por servicio de control en la expedición del holograma por refrendo para aquellos vehículos que cuenten con juego de placas, deberán ser cubiertos de conformidad con lo siguiente:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
 1.- Automóviles, camiones y autobuses
 
-para uso particular.
+para uso particular. 16
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+a) (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2006)
 
-a) Modelo 1990 y anteriores 12
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
-
-b) Modelo 1991 y posteriores 19
+b) (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2006)
 
 2.- Camiones de carga, grúas, automóviles y
 
@@ -1298,6 +1294,14 @@ excepto agrícolas. 14
 5.- Bicicletas. 1
 
 6.- Placas de demostración. 18
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+
+Los derechos que se generen por el servicio de control vehicular en la expedición del holograma por refrendo para aquellos vehículos que cuenten con juego de placas, deberán ser cubiertos cada año en la forma establecida en el artículo 61 de la presente ley.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+
+En ningún caso, se considerará como único elemento del servicio por control vehicular de los supuestos descritos en este artículo, el material de identificación del vehículo que se entrega al contribuyente una vez que se presta el servicio.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
@@ -1381,11 +1385,15 @@ licencia de chofer de servicio público o
 
 particular. 2
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 61.
 
-Los derechos por canje de placas de circulación; refrendo anual; ratificación anual de concesiones, permisos o autorizaciones; explotación de permisos de ruta anual; expedición de tarjetas de circulación y engomados, deberán pagarse dentro de los primeros tres meses de cada año de calendario en las oficinas autorizadas que corresponda, en las formas fiscales que aprueba la Secretaría de Finanzas y de Administración, si se elige la opción de pago vía Internet en línea; el impuesto se tendrá por pagado una vez que sea valorado por el sistema. El plazo podrá ser ampliado por acuerdo del Ejecutivo del Estado.
+Los derechos generado por el servicio de control en la expedición del holograma por refrendo anual; ratificación anual de concesiones, permisos o autorizaciones y explotación de permisos de ruta anual, deberán ser cubiertos dentro de los primeros tres meses de cada año en las oficinas aprobadas por la Secretaría de Finanzas y de Administración. Si se elige la opción de pago vía Internet en línea; el impuesto se tendrá por pagado una vez que sea registrado por el sistema y valorado por la autoridad respectiva
+
+Los derechos por el servicio de control en el canje de placas de circulación, deberán pagarse dentro de los primeros tres meses del año calendario que corresponda.
+
+En tratándose de vehículos nuevos, el pago por el servicio de control vehicular en la dotación inicial de placas y refrendo anual, deberán ser cubiertos de conformidad con lo establecido en el artículo 62 de la presente ley, en cuyo caso, el pago deberá efectuarse dentro del plazo de quince días contados a partir de la fecha de adquisición del vehículo. Dicho pago deberá realizarse en los términos establecidos en el primer párrafo del presente artículo.
 
 ###### ARTICULO 62.
 
@@ -1758,3 +1766,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. El canje de placas se llevará a cabo cada tres años independientemente de la fecha de la adquisición del vehículo. Estableciéndose los siguientes años para el canje de placas: 2003, 2006, 2009, 2012 y cada tres años sucesivamente.
