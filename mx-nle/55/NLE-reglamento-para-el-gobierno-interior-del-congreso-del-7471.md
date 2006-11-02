@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2006-09-04"
+last_updated: "2006-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -559,25 +559,33 @@ f) Coordinarse con otra u otras comisiones para tratar temas comunes o relaciona
 
 g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-VIII.- Comisión de Desarrollo Urbano y Transporte:
+VIII.- Comisión de Desarrollo Urbano:
 
 a) La legislación relativa a asentamientos humanos, ordenamiento territorial y vivienda en el Estado;
 
 b) Lo relativo al examen y aprobación de obras de pública utilidad del Estado;
 
-c) Las desafectaciones y autorizaciones para enajenar o gravar los bienes inmuebles del Estado y los Municipios;
+c) Las desafectaciones y autorizaciones para enajenar o gravar los bienes inmuebles del Estado;
 
 d) Lo concerniente al desarrollo y planificación de centros de población alternos al área metropolitana de Monterrey para reordenar el desarrollo regional;
 
-e) La legislación relativa a la construcción y funcionamiento de las vías de comunicación estatales, así como la prestación directa o concesionada del transporte; y
+e) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+
+IX.- Comisión de Transporte:
+
+a) Legislar en lo relativo al transporte, así como lo que se refiera al tránsito de todo tipo de vehículos;
+
+b) La legislación relativa a la construcción y funcionamiento de las vías de comunicación estatales así como la prestación directa o concesionada de transporte; y
+
+c) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
-IX.- Comisión de Fomento Económico:
+X.- Comisión de Fomento Económico:
 
 a) Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del Estado, así como el desarrollo regional del mismo;
 
@@ -585,7 +593,7 @@ b) La legislación encaminada a fortalecer la actividad turística del Estado;
 
 c) Lo concerniente a los asuntos fronterizos del Estado que estimulen su desarrollo económico;
 
-d) Las iniciativas que conlleven a un fortalecimiento en las actividades agrícolas, forestales y ganaderas;
+d) (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2006)
 
 e) La expedición y reforma de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamientos del Estado y sus respectivos trabajadores;
 
@@ -595,9 +603,31 @@ g) Las iniciativas en materia del desarrollo del servicio público de carrera; y
 
 h) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+
+XI.- Fomento al Campo y Desarrollo Rural;
+
+a) Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos de las zonas rurales del Estado; así como el desarrollo regional del mismo;
+
+b) Las iniciativas que conlleven y coadyuven a un fortalecimiento en las actividades agrícolas, ganaderas, así como todas las relacionadas con el aprovechamiento del campo;
+
+c) Lo concerniente a los asuntos Agropecuarios del Estado que estimulen su desarrollo económico, dentro de la competencia Estatal;
+
+d) Los asuntos relacionados con el seguimiento, vigilancia y promoción de los recursos destinados al apoyo de las actividades agropecuarias en el Estado;
+
+e) Los asuntos relacionados con el fomento al cultivo, producción y comercialización de productos y subproductos agrícolas y agroindustriales de las diferentes regiones del Estado;
+
+f) Los asuntos relacionados con el fomento a la cría, engorda, reproducción y comercialización de las diversas especies animales en las diferentes regiones del Estado;
+
+g) Gestionar en su caso, ante las distintas autoridades de los tres niveles de Gobierno, los beneficios de los programas sectoriales para el fomento del campo y el desarrollo rural;
+
+h) Las iniciativas relativas al establecimiento de acciones o programas tendientes a desarrollar una mejor calidad de vida para los habitantes de las comunidades rurales; y
+
+i) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-X.- Comisión de Desarrollo Sustentable:
+XII.- Comisión de Desarrollo Sustentable:
 
 a) Las iniciativas sobre la promoción y fomento del desarrollo sustentable de los sectores social y productivo en el Estado;
 
@@ -619,7 +649,7 @@ i) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-XI.- Comisión de Juventud:
+XIII.- Comisión de Juventud:
 
 a) Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los jóvenes del Estado;
 
@@ -637,9 +667,9 @@ g) Los asuntos relacionados con el desarrollo personal y profesional de la juven
 
 h) Los demás asuntos e iniciativas que el Congreso le encomiende.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-XII. Comisión de Salud y Grupos Vulnerables:
+XIV. Comisión de Salud y Atención a Grupos Vulnerables:
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -689,7 +719,7 @@ l) Los demás asuntos e iniciativas que el Pleno del Congreso le encomienden.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
-XIII.- Comisión de Hacienda del Estado:
+XV.- Comisión de Hacienda del Estado:
 
 a) Lo concerniente a la expedición de la Ley de Ingresos y del Presupuesto de Egresos del Estado;
 
@@ -707,7 +737,7 @@ g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
-XIV.- Comisión Primera de Hacienda y Desarrollo Municipal:
+XVI.- Comisión Primera de Hacienda y Desarrollo Municipal:
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
@@ -717,7 +747,7 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
-XV.- Comisión Segunda de Hacienda y Desarrollo Municipal:
+XVII.- Comisión Segunda de Hacienda y Desarrollo Municipal:
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
@@ -727,7 +757,7 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
-XVI.- Comisión Tercera de Hacienda y Desarrollo Municipal:
+XVIII.- Comisión Tercera de Hacienda y Desarrollo Municipal:
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
@@ -737,7 +767,7 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2001)</small>
 
-XVII.- Comisión Cuarta de Hacienda y Desarrollo Municipal:
+XIX.- Comisión Cuarta de Hacienda y Desarrollo Municipal:
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
@@ -747,7 +777,7 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2001)</small>
 
-XVIII.- Comisión Quinta de Hacienda y Desarrollo Municipal:
+XX.- Comisión Quinta de Hacienda y Desarrollo Municipal:
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
 
@@ -1378,8 +1408,6 @@ El Presidente del Congreso abrirá y cerrará las sesiones respectivamente con e
 Para la Apertura o Clausura de los Períodos Ordinarios el Presidente instalará los trabajos de la Legislatura con la siguiente declaratoria: "La (Número) Legislatura al Congreso del Estado de Nuevo León "Abre" o "Clausura" hoy (fecha y año) su (1o. o 2o.) Período Ordinario de Sesiones, correspondiente al (primero, segundo o tercer) Año de Ejercicio Constitucional".
 
 ### CAPITULO III. DE LAS DELIBERACIONES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2006)</small>
 
 ###### Artículo 102.
 
@@ -2092,3 +2120,9 @@ Artículo Único.- El presente Decreto entrará en vigor al momento de su public
 P.O. 4 DE SEPTIEMBRE DE 2006.
 
 Artículo Único.- La presente reforma al Artículo Único Transitorio del Decreto No. 37 publicado en el Periódico Oficial del Estado No. 167 de fecha 29 de Diciembre de 2003, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno de este Congreso del Estado.
+
+Artículo Segundo.- El Presidente del Congreso del Estado deberá realizar los returnos correspondientes a fin de que las nuevas Comisiones de Dictamen Legislativo, creadas con motivo del presente Decreto, puedan analizar los asuntos que sean materia de su competencia.
