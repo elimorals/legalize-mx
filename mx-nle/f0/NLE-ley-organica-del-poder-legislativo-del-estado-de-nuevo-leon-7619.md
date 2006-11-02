@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2006-09-11"
+last_updated: "2006-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -825,45 +825,55 @@ VI.- Educación, Cultura y Deporte;
 
 VII.- Ecología;
 
-VIII.- Desarrollo Urbano y Transporte;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-IX.- Fomento Económico;
+VIII.- Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-X.- Desarrollo Sustentable;
+IX.- Transporte;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+X.- Fomento Económico;
 
-XI.- Juventud;
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
-
-XII.- Salud y Atención a Grupos Vulnerables;
+XI.- Fomento al Campo y Desarrollo Rural;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XIII.- Hacienda del Estado;
+XII.- Desarrollo Sustentable;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XIV.- Primera de Hacienda y Desarrollo Municipal;
+XIII.- Juventud;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XV.- Segunda de Hacienda y Desarrollo Municipal;
+XIV.- Salud y Atención a Grupos Vulnerables;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XVI.- Tercera de Hacienda y Desarrollo Municipal;
+XV.- Hacienda del Estado;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XVII.- Cuarta de Hacienda y Desarrollo Municipal; y
+XVI.- Primera de Hacienda y Desarrollo Municipal;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XVIII.- Quinta de Hacienda y Desarrollo Municipal.
+XVII.- Segunda de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XVIII.- Tercera de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XIX.- Cuarta de Hacienda y Desarrollo Municipal; y
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XX.- Quinta de Hacienda y Desarrollo Municipal.
 
 ###### Artículo 71.
 
@@ -1282,3 +1292,9 @@ Artículo Único.- La presente reforma al Artículo Único Transitorio del Decre
 P.O. 11 DE SEPTIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno de este Congreso del Estado.
+
+Artículo Segundo.- El Presidente del Congreso del Estado deberá realizar los returnos correspondientes a fin de que las nuevas Comisiones de Dictamen Legislativo, creadas con motivo del presente Decreto, puedan analizar los asuntos que sean materia de su competencia.
