@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2006-09-18"
+last_updated: "2006-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE NOVIEMBRE DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -117,7 +117,9 @@ I.- PRIMER CIRCUITO:
 
 2.- Nueve tribunales unitarios especializados: seis en materia penal y tres en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-3.- Sesenta y cuatro juzgados de Distrito especializados en el Distrito Federal: dieciocho de procesos penales federales, doce de amparo en materia penal, dieciséis en materia administrativa, trece en materia civil y cinco en materia de trabajo, todos con sede en el Distrito Federal.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 69/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2006)</small>
+
+3.- Sesenta y cinco juzgados de Distrito especializados en el Distrito Federal: dieciocho de procesos penales federales, doce de amparo en materia penal, dieciséis en materia administrativa, trece en materia civil y seis en materia de trabajo, todos con sede en el Distrito Federal.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -167,7 +169,9 @@ VII.- SEPTIMO CIRCUITO:
 
 2.- Dos tribunales unitarios con residencia en Boca del Río.
 
-3.- Doce juzgados de Distrito en el Estado de Veracruz: tres con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y uno con sede en Córdoba.
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 68/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2006)</small>
+
+3.- Trece juzgados de Distrito en el Estado de Veracruz: tres con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y dos con sede en Córdoba.
 
 VIII.- OCTAVO CIRCUITO:
 
@@ -674,3 +678,23 @@ ACUERDO GENERAL 60/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 3 DE NOVIEMBRE DE 2006.
+
+ACUERDO GENERAL 68/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de Veracruz, con sede en Córdoba, con motivo del inicio de funciones del nuevo órgano jurisdiccional.
+
+D.O.F. 3 DE NOVIEMBRE DE 2006.
+
+ACUERDO GENERAL 69/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en materia de trabajo en el Distrito Federal, con motivo del inicio de funciones del nuevo órgano jurisdiccional.
