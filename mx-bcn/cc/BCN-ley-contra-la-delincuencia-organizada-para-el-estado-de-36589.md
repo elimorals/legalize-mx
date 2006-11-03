@@ -4,7 +4,7 @@ identifier: "BCN-ley-contra-la-delincuencia-organizada-para-el-estado-de-36589"
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-02"
-last_updated: "2006-02-17"
+last_updated: "2006-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY CONTRA LA DELINCUENCIA ORGANIZADA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de enero de 2004.
 
@@ -83,7 +83,9 @@ IV. Fraude genérico, previsto en el artículo 218 del Código Penal;
 
 V. Robo con violencia, previsto por el artículo 198 y sancionado por el artículo 203 del Código Penal;
 
-VI. Robo de Vehículo, previsto por el artículo 208 Bis del Código Penal;
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+VI. Robo de vehículo, previsto por el Artículo 208-Bis y robo equiparado de vehículo de motor, previsto en el Artículo 208-Ter del Código Penal;
 
 VII. Asalto, previsto en los artículos 172 y 173 del Código Penal;
 
@@ -314,3 +316,7 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- Se derogan todas aquellas disposiciones contrarias a las presentes reformas.
 
 TERCERO.- Esta nueva legislación podrá aplicarse a hechos surgidos bajo la vigencia de la reforma anterior, en lo que beneficie al responsable del delito, tal y como lo establece el artículo 8 del Código Penal del Estado de Baja California.
+
+P.O. 3 DE NOVIEMBRE DE 2006.
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
