@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2006-10-16"
+last_updated: "2006-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1793,7 +1793,7 @@ Reparación del daño.- La reparación del daño en los casos de estupro, compre
 
 ###### Artículo 184
 
-BIS.- Tipo y punibilidad.- Al que confines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales; docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de doscientos días multa.
+BIS.- Tipo y punibilidad.- Al que confines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su 'posición jerárquica derivada de sus relaciones laborales; docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de doscientos días multa.
 
 Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
 
@@ -2069,11 +2069,17 @@ II.- Haber comprado el vehículo, parte o partes del mismo en una negociación l
 
 III.- Haber recibido en custodia el vehículo de motor o cualquiera de sus partes, para su reparación o mejora, siempre que se trate de una negociación legalmente establecida y dedicado al ramo correspondiente a la actividad a realizar sobre el vehículo o sus partes.
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 208
 
-QUINQUIES.- Al que use un vehículo de motor que porte placas de circulación reportadas como robadas, se le impondrá prisión de un mes a un año y hasta doscientos días multa.
+QUINQUIES.- Al que use un vehículo de motor que porte placas de circulación de vehículo de motor robado o reportadas como robadas, se le impondrá prisión de un mes a un año y hasta doscientos días multa.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 208
+
+SEXTUS.- Agravación de la pena.- Si en los actos mencionados en los artículos 208-Bis, 208-Ter y 208-Quinquies, participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de las penas, además de las sanciones a que se refieren estos artículos, se le aumentará la pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por el período igual a la pena de prisión impuesta.
 
 ### CAPITULO III. TRAFICO DE MENORES
 
@@ -2495,9 +2501,9 @@ Tipo y punibilidad del delito de incesto.- A los parientes consanguíneos, sean 
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
-### CAPITULO I. CORRUPCION DE MENORES E INCAPACES
+### CAPITULO I. CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUIENES NO TENGAN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADON DE LOS HECHOS
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ## TITULO SEGUNDO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
@@ -2661,15 +2667,15 @@ Las mismas penas se aplicarán al que sin tener título o autorización para eje
 
 ## TITULO CUARTO. DELITOS CONTRA LA MORAL PUBLICA Y LAS BUENAS COSTUMBRES
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ### CAPITULO III. ABANDONO DE FUNCIONES
 
 ###### Artículo 261.
 
-Tipo y punibilidad.- Al que procure, facilite, induzca o propicie la corrupción de una persona menor de dieciocho años de edad de quien estuviere de hecho incapacitado por otra causa, induciéndolo a la ebriedad o a vivir de la caridad pública sin justificación, se le aplicará de uno a cinco años de prisión y de veinte a cien días multa.
+Tipo y punibilidad.- Al que procure, facilite, induzca, reclute o propicie la corrupción de una persona menor de dieciocho años de edad o de quien no tenga la capacidad para comprender el significado del hecho, o que estuviere incapacitado por cualquier otra causa, induciéndolo a la ebriedad o a vivir de la caridad pública sin justificación, se le aplicará de uno a cinco años de prisión y de cien a trescientos días multa.
 
-Cuando la conducta encaminada a corromper consista en la realización de actos sexuales o a inducirlo a la práctica de la prostitución, uso de drogas señaladas en la ley General de Salud, formar parte de una asociación delictuosa, o cometer algún delito, la pena será de cinco a diez años de prisión y de cien a cuatrocientos días multa.
+Cuando la conducta encaminada a corromper consista en la realización de actos sexuales reales o simulados o a inducirlo a la práctica de la prostitución, el uso o consumo de sustancias tóxicas, psicotrópicas, señaladas en la Ley General de Salud, forma parte de una asociación delictuosa, o cometer algún delito, la pena será de cinco a diez años de prisión y de trescientos a setecientos días multa.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -3621,6 +3627,10 @@ III.- Condicione la prestación de un servicio público, el cumplimiento de prog
 
 IV.- En tratándose de servicios públicos por designación, indebidamente utilice su tiempo hábil de trabajo o destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, al apoyo de un partido político, coalición o candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione este apoyo a través de sí mismo o de su subordinados, usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
 
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
+
+IV.- En tratándose de servicios públicos por designación, indebidamente utilice su tiempo hábil de trabajo o destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, al apoyo de un partido político, coalición o candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione este apoyo a través de sí mismo o de su subordinados, usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 349.
@@ -4046,3 +4056,17 @@ TERCERO.- Lo dispuesto en los artículos 281 BIS y 281 TER se aplicará por lo m
 CUARTO.- Lo dispuesto en los artículos 94 y 105 se aplicará a partir del proceso electoral estatal que se lleve a cabo en el año 2010.
 
 QUINTO.- La acreditación que hayan obtenido los partidos políticos nacionales en términos de la ley que se reforma conservará su validez hasta en tanto no se actualicen los supuestos de cancelación.
+
+P.O. 3 DE NOVIEMBRE DE 2006.
+
+DECRETO No. 250
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE NOVIEMBRE DE 2006.
+
+DECRETO No. 251
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
