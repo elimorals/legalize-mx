@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-47-2006-del-pleno-del-consejo-de-la-50849"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-06-23"
-last_updated: "2006-06-23"
+last_updated: "2006-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-07"
 
 ACUERDO GENERAL 47/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL SEGUNDO TRIBUNAL COLEGIADO DEL DECIMONOVENO CIRCUITO, CON SEDE EN REYNOSA, TAMAULIPAS; A LA NUEVA DENOMINACION DEL ACTUAL TRIBUNAL COLEGIADO DEL DECIMONOVENO CIRCUITO; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO Y RESIDENCIA INDICADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE NOVIEMBRE DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de junio de 2006
 
@@ -55,6 +55,8 @@ TERCERO.- A partir de la fecha indicada en el punto anterior, el actual Tribunal
 
 CUARTO.- Desde la fecha señalada en el primer párrafo del punto segundo precedente, los Tribunales Colegiados del Decimonoveno Circuito, con residencia en Reynosa, Tamaulipas, contarán con una Oficina de Correspondencia Común, la cual iniciará sus funciones en esa misma fecha.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/8/2006 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. 3 DE NOVIEMBRE DE 2006, EL PLAZO QUE SE INDICA EN EL PRESENTE PARRAFO SE AMPLIA AL 27 DE ABRIL DE 2007.</small>
+
 Los nuevos asuntos que se presenten en la mencionada oficina de correspondencia común en días y horas hábiles, del uno de agosto al veintinueve de octubre de dos mil seis, se remitirán, conforme al sistema computarizado que se utiliza para esos efectos, al Segundo Tribunal Colegiado del Decimonoveno Circuito, con residencia en Reynosa, Tamaulipas, con excepción de aquellos asuntos que tengan relación con los que se encuentran en el primer tribunal colegiado del Circuito y residencia aludidos, en cuyo caso se turnarán a ese órgano jurisdiccional, con el propósito de aprovechar el conocimiento previo y evitar el pronunciamiento de resoluciones contradictorias, conforme a lo dispuesto en el Acuerdo General 23/2002, del Pleno del Consejo de la Judicatura Federal.
 
 Transcurrido el plazo señalado, los asuntos nuevos se distribuirán entre los dos tribunales colegiados del Circuito y sede indicados; con las salvedades apuntadas, conforme al sistema computarizado que se utiliza para esos efectos.
@@ -78,3 +80,11 @@ PRIMERO.- Este acuerdo entrará en vigor el uno de agosto de dos mil seis.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 47/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Denominación, Residencia, Competencia, Jurisdicción Territorial, Domicilio y Fecha de Inicio de Funcionamiento del Segundo Tribunal Colegiado del Decimonoveno Circuito, con Sede en Reynosa, Tamaulipas; a la Nueva Denominación del Actual Tribunal Colegiado del Decimonoveno Circuito; así como a las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos entre los Tribunales Colegiados del Circuito y Residencia Indicados, fue aprobado por el Pleno del propio Consejo, en sesión de siete de junio de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a siete de junio de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 3 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
