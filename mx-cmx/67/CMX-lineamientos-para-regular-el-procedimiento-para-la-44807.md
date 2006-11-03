@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-para-regular-el-procedimiento-para-la-44807"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2005-05-20"
-last_updated: "2005-05-20"
+last_updated: "2006-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44807&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-05-12"
 
 LINEAMIENTOS PARA REGULAR EL PROCEDIMIENTO PARA LA SEPARACION DEL CARGO DE LOS SERVIDORES PUBLICOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE NOVIEMBRE DE 2006.
 
 Lineamientos publicados en la Gaceta Oficial del Distrito Federal, el viernes 20 de mayo de 2005.
 
@@ -48,7 +48,9 @@ IV. Secretario Administrativo: El Secretario Administrativo del Tribunal;
 
 V. Contraloría Interna: La Contraloría Interna del Tribunal;
 
-VI. Cese: Acto mediante el cual se da por terminada la relación de trabajo existente entre Tribunal y un servidor público, por incurrir éste en acciones u omisiones graves en el desempeño de sus funciones; y,
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+VI. Cese: Acto mediante el cual se da por terminada la relación de trabajo existente entre el Tribunal y el trabajador, por incurrir éste en acciones u omisiones graves en el desempeño de sus obligaciones; y,
 
 VII. Servidor público: Toda persona física que tenga expedido a su favor, un nombramiento respecto de un cargo dentro del Tribunal.
 
@@ -76,9 +78,13 @@ I. Cuando la materia objeto del nombramiento o el plazo especificado en el mismo
 
 II. Cuando de forma anticipada a los términos del nombramiento, se desee terminar la relación laboral por mutuo consentimiento de la partes;
 
-III. Cuando de forma anticipada a la terminación del nombramiento, se cese al servidor público por incumplimiento de las obligaciones propias de su cargo o de las determinadas en los artículos 80 y 81 del Reglamento Interior del Tribunal;
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2006)</small>
 
-IV. Cuando de forma anticipada a la terminación del nombramiento, se destituya del cargo al servidor público por incumplimiento de las obligaciones previstas en el artículo 77-C del Reglamento Interior; y,
+III. Cuando de forma anticipada a la terminación del nombramiento, se cese al servidor público por incumplimiento de las obligaciones propias de su cargo o de las determinadas en los artículos 142 y 143 del Reglamento Interior del Tribunal;
+
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+IV. Cuando de forma anticipada a la terminación del nombramiento, se destituya del cargo al servidor público por incumplimiento de las obligaciones previstas en el artículo 78 del Reglamento Interior del Tribunal; y,
 
 V. Por muerte del trabajador.
 
@@ -88,9 +94,13 @@ La relación laboral entre el Tribunal y un servidor público contratado por tie
 
 I. Por mutuo consentimiento de la partes;
 
-II. Cuando se cese al servidor público por incumplimiento de las obligaciones propias de su cargo o de las determinadas en los artículos 80 y 81 del Reglamento Interior del Tribunal;
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2006)</small>
 
-III. Cuando se destituya del cargo al servidor público por incumplimiento de las obligaciones previstas en el artículo 77-C del Reglamento Interior; y,
+II. Cuando se cese al servidor público por incumplimiento de las obligaciones propias de su cargo o de las determinadas en los artículos 142 y 143 del Reglamento Interior del Tribunal;
+
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+III. Cuando se destituya del cargo al servidor público por incumplimiento de las obligaciones previstas en el artículo 78 del Reglamento Interior; y,
 
 IV. Por muerte del trabajador.
 
@@ -102,27 +112,39 @@ De la misma manera, el Secretario Administrativo notificará al Instituto de Seg
 
 El finiquito a que se refiere el presente artículo se integrará conforme al Código Electoral, al Reglamento Interior y a los Acuerdos Generales que emita el Pleno.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 9°
 
-Con relación al cese del servidor público por incumplimiento de las obligaciones propias de su cargo, de las contenidas en los artículos 80 y 81 del Reglamento Interior del Tribunal, o por las causas previstas por los artículos 46 de la Ley Federal de los Trabajadores al Servicio del Estado y 47 de la Ley Federal del Trabajo, se procederá de la siguiente manera:
+Con relación al cese del servidor público por incumplimiento de las obligaciones propias de su cargo, de las contenidas en los artículos 142 y 143 del Reglamento Interior del Tribunal, o por las causas previstas por los artículos 46 de la Ley Federal de los Trabajadores al Servicio del Estado y 47 de la Ley Federal del Trabajo, se procederá de la siguiente manera:
 
 I. El Magistrado Electoral o el titular del área, levantará acta circunstanciada, ante la presencia del servidor afectado y de dos testigos de asistencia, asentando la declaración de aquél y la de los testigos que se propongan en ese acto. En el acta constarán los hechos que generaron el incumplimiento de funciones por parte del servidor público, así como los criterios que se tomarán en consideración para determinar el cese como sanción laboral. Se firmará por todos aquellos que intervinieron, debiendo entregarse en ese mismo acto una copia al trabajador y otra al Magistrado Electoral o titular del área;
 
 II. El Magistrado Electoral o el titular del área, hará entrega del acta administrativa al Presidente y, en su caso, al Contralor Interno, para que en el ámbito de sus atribuciones, determinen lo conducente;
 
-III. En cumplimiento a lo dispuesto por el artículo 88 del Reglamento Interior, el Presidente por conducto del Secretario General, procederá a citar al servidor público para que comparezca en día y hora ciertos, a fin que manifieste por escrito lo que a su derecho convenga, levantándose el acta correspondiente;
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2006)</small>
 
-IV. Una vez decretada la sanción, en cumplimiento a lo preceptuado por el artículo 89, fracción II del Reglamento Interior, se notificará personalmente por escrito al servidor público, quedando constancia de ello en su expediente personal; y,
+III. En cumplimiento a lo dispuesto por el artículo 150 del Reglamento Interior, el Presidente por conducto del Secretario General, procederá a citar al servidor público para que comparezca en día y hora ciertos, a fin que manifieste por escrito lo que a su derecho convenga, levantándose el acta correspondiente;
+
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+IV. Una vez decretada la sanción, en cumplimiento a lo preceptuado por el artículo 151, fracción II del Reglamento Interior, se notificará personalmente por escrito al servidor público, quedando constancia de ello en su expediente personal; y,
 
 V. Finalmente, el Secretario Administrativo estará a lo dispuesto por el artículo octavo de los presentes lineamientos.
 
-Mientras se desahoga el procedimiento que establece el presente artículo, puede aplicársele al servidor público la suspensión establecida en el segundo párrafo del artículo 86 del Reglamento Interior.
+> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2006)</small>
 
-La imposición de las sanciones a que se refiere el presente artículo estará a lo dispuesto por la fracción I del artículo 89 del Reglamento Interior.
+Mientras se desahoga el procedimiento que establece el presente artículo, puede aplicársele al servidor público la suspensión establecida en el segundo párrafo del artículo 148 del Reglamento Interior.
+
+> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+La imposición de las sanciones a que se refiere el presente artículo estará a lo dispuesto por la fracción I del artículo 151 del Reglamento Interior.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 10
 
-Cuando se destituya del cargo al servidor público en virtud de una resolución del Magistrado Presidente de este Tribunal, por incumplimiento de las obligaciones previstas en el artículo 77-C del Reglamento Interior, el Secretario Administrativo estará a lo dispuesto por el artículo octavo de los presentes lineamientos.
+Cuando se destituya del cargo al servidor público en virtud de una resolución del Magistrado Presidente de este Tribunal, por incumplimiento de las obligaciones previstas en el artículo 78 del Reglamento Interior, el Secretario Administrativo estará a lo dispuesto por el artículo octavo de los presentes lineamientos.
 
 Lo anterior, sin menoscabo de la aplicación de las sanciones previstas en otros ordenamientos, cuando éstos procedan.
 
@@ -164,7 +186,13 @@ RECURSOS HUMANOS
 
 (VEASE ARCHIVO ANEXO)
 
-CONVENIO DE TERMINACIÓN DE LA RELACIÓN LABORAL POR MUTUO CONSENTIMIENTO, QUE CELEBRAN POR UNA PARTE EL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, REPRESENTADO POR EL MAGISTRADO PRESIDENTE HERMILO HERRERÓN SILVA Y POR LA OTRA EL CIUDADANO XXXXXXXXXXXXXX, AL TENOR DE LAS DECLARACIONES Y CLÁUSULAS SIGUIENTES:
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2006)</small>
+
+ANEXO II
+
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2006)</small>
+
+CONVENIO DE TERMINACIÓN DE LA RELACIÓN LABORAL POR MUTUO CONSENTIMIENTO, QUE CELEBRAN POR UNA PARTE EL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, REPRESENTADO POR EL MAGISTRADO PRESIDENTE HERMILO HERREJÓN SILVA Y POR LA OTRA EL CIUDADANO XXXXXXXXXXXXXX, AL TENOR DE LAS DECLARACIONES Y CLÁUSULAS SIGUIENTES:
 
 DECLARACIONES
 
@@ -178,15 +206,21 @@ III. Que para todos los efectos a que haya lugar señala como domicilio la calle
 
 El Magistrado HERMILO HERREJÓN SILVA declara:
 
-I. Que posee la capacidad legal para celebrar el presente convenio a nombre del Tribunal Electoral del Distrito Federal, en términos de lo dispuesto en los artículos 229, inciso a), del Código Electoral del Distrito Federal, así como 15 y 17, fracciones III y XII, del Reglamento Interior del propio Tribunal.
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+I. Que posee la capacidad legal para celebrar el presente convenio a nombre del Tribunal Electoral del Distrito Federal, en términos de lo dispuesto en los artículos 229, párrafo tercero, inciso a), del Código Electoral del Distrito Federal, así como 13 y 14, fracciones III y XII, del Reglamento Interior del propio Tribunal.
 
 II. Que al ser aceptada la renuncia del servidor público por parte del titular del área, e informada debidamente al Pleno del Tribunal, éste mediante reunión privada celebrada el XXXXXXX, autorizó al Presidente para llevar a cabo el presente convenio, con el fin de dar por terminada la relación laboral de dicho servidor con el Tribunal.
 
-III. Que para todos los efectos a que haya lugar, señala como domicilio de su representado la Avenida Cuauhtémoc 1473, Colonia Santa Cruz Atoyac, Delegación Benito Juárez, en la Ciudad de México, Distrito Federal.
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+III. Que para todos los efectos a que haya lugar, señala como domicilio de su representado la Calle de Magdalena 21, Colonia Del Valle, Delegación Benito Juárez, en la Ciudad de México, Distrito Federal.
 
 CLÁUSULAS
 
-PRIMERA.- Las partes se reconocen mutuamente la personalidad con que comparecen para la celebración del presente convenio, en términos del artículo 692 de la Ley Federal del Trabajo, de aplicación supletoria, de conformidad con lo dispuesto en los artículos 82, fracción V, y 151, fracción I, del Reglamento Interior del Tribunal Electoral del Distrito Federal.
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+PRIMERA.- Las partes se reconocen mutuamente la personalidad con que comparecen para la celebración del presente convenio, en términos del artículo 692 de la Ley Federal del Trabajo, de aplicación supletoria, de conformidad con lo dispuesto en los artículos 327, fracción I del Código Electoral del Distrito Federal y 144, fracción V del Reglamento Interior del Tribunal Electoral del Distrito Federal.
 
 SEGUNDA.- El ciudadano XXXX, ratifica su voluntad de renunciar al cargo que venía desempeñando a partir del XXX, lo cual es admitido por el Pleno del Tribunal Electoral del Distrito Federal, en los términos del artículo 53, fracción I, de la Ley Federal del Trabajo.
 
@@ -198,7 +232,9 @@ QUINTA.- Las partes manifiestan no reservarse acción o derecho que ejercitar en
 
 SEXTA.- Las partes reconocen que en la cantidad que ampara el mencionado finiquito no se encuentran comprendidos los importes que corresponden al servidor público por las aportaciones que tanto él como el Tribunal Electoral del Distrito Federal hayan realizado a sus cuentas individuales del fondo de ahorro y del fondo de retiro, así como los importes correspondientes al pago de aguinaldo y demás prestaciones de fin de año, mismos que serán entregados conforme lo determina el artículo 13 de los Lineamientos para regular el Procedimiento para la separación del cargo de los Servidores Públicos del Tribunal.
 
-SÉPTIMA.- En este acto las partes convienen en solicitar que el presente convenio se presente a la Comisión Instructora a que se refiere el artículo 273, inciso b), del Código Electoral del Distrito Federal, con el fin de que por conducto de ésta sea sometido a la consideración del Pleno del Tribunal Electoral del Distrito Federal, para que sea elevado a la categoría de sentencia ejecutoriada, toda vez que no es contrario a la moral ni a las disposiciones legales aplicables, obligándose en este acto a comparecer ante la citada Comisión, a efecto de ratificar el contenido del presente convenio, en caso de ser requeridas para ello.
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+SÉPTIMA.- En este acto las partes convienen en solicitar que el presente convenio se presente a la Comisión Instructora a que se refiere el artículo 364 del Código Electoral del Distrito Federal, con el fin de que por conducto de ésta sea sometido a la consideración del Pleno del Tribunal Electoral del Distrito Federal, para que sea elevado a la categoría de sentencia ejecutoriada, toda vez que no es contrario a la moral ni a las disposiciones legales aplicables, obligándose en este acto a comparecer ante la citada Comisión, a efecto de ratificar el contenido del presente convenio, en caso de ser requeridas para ello.
 
 Dado en la Ciudad de México, Distrito Federal, a los XX días del mes de XXX del XXXX.
 
@@ -219,3 +255,11 @@ Que los presentes "LINEAMIENTOS PARA REGULAR EL PROCEDIMIENTO PARA LA SEPARACIÓ
 (Firma)
 
 (Al margen inferior derecho un sello legible que dice: ESTADOS UNIDOS MEXICANOS, TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, SECRETARÍA GENERAL)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+
+G.O. 3 DE NOVIEMBRE DE 2006.
+
+PRIMERO. Las reformas a los "Lineamientos para regular el procedimiento para la separación del cargo de los servidores públicos del Tribunal Electoral del Distrito Federal", entrarán en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Notifíquese a los titulares de área, a fin de que por su conducto se haga del conocimiento de los servidores públicos a su cargo y publíquese en los estrados y en la página Web del Tribunal Electoral del Distrito Federal.
