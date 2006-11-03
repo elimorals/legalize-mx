@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2006-08-25"
+last_updated: "2006-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2006.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -861,9 +861,9 @@ Detención en Caso de Flagrante Delito.- En caso de flagrancia delictiva, cualqu
 
 Se entiende que un delincuente es aprehendido en flagrante delito, no sólo cuando es detenido en el momento de estarlo cometiendo sino, también, cuando después de ejecutado el hecho delictuoso, es perseguido y detenido materialmente, o cuando inmediatamente después de realizado, alguien lo señala como autor o partícipe del mismo y se encuentra en su poder el objeto, el instrumento del delito o cualquier huella o indicio que hagan presumir, fundadamente, su intervención en la comisión del mismo.
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
-En el caso de delitos graves, podrán ser detenidos dentro de las setenta y dos horas posteriores a la comisión del hecho delictuoso, cuando sean señalados como responsables por la víctima, por algún testigo o quien hubiese participado con ellos en el delito y se encuentre en su poder el instrumento o producto del delito, o aparezcan huellas o indicios que indiquen su participación en el mismo delito.
+En el caso de delitos graves, podrán ser detenidos dentro de las setenta y dos horas posteriores a la comisión del hecho delictuoso, cuando sean señalados como responsables por la víctima, por algún testigo o quien hubiese participado con ellos en el delito o se encuentre en su poder el instrumento o producto del delito, o aparezcan huellas o indicios que indiquen su participación en el mismo delito.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -3524,3 +3524,7 @@ P.O. 24 DE FEBRERO DE 2006.
 P.O. 25 DE AGOSTO DE 2006.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE NOVIEMBRE DE 2006.
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
