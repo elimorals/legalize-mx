@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "1999-11-09"
+last_updated: "2006-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 358
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -5889,9 +5889,11 @@ Por presunción contraria a la libertad del testador, serán incapaces de hereda
 
 Por presunción de influjo contrario a la verdad e integridad del testamento, serán incapaces de heredar el notario y los testigos que intervinieron en él, y sus cónyuges, descendientes, ascendientes o hermanos.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 1125.
 
-Los ministros de los cultos no podrán ser herederos por testamento de los ministros del mismo culto o de un particular con quien no tengan parentesco dentro del cuarto grado. La misma incapacidad tendrán los ascendientes, descendientes, cónyuges y hermanos de los ministros, respecto de las personas a quienes éstos hayan prestado cualquiera clase de auxilios espirituales, durante la enfermedad de que hubieren fallecido, o de quienes hayan sido directores espirituales los mismos ministros.
+Los ministros de los cultos, sus ascendientes, descendientes, hermanos y cónyuges, así como las asociaciones religiosas a que aquellos pertenezcan, serán incapaces para heredar por testamento, de las personas a quienes los propios ministros hayan dirigido o auxiliado espiritualmente y no tengan parentesco dentro del cuarto grado.
 
 ###### Artículo 1126.
 
@@ -15366,3 +15368,11 @@ P.O. 9 DE NOVIEMBRE DE 1999.
 PRIMERO.- El presente Decreto que reforma, adiciona y deroga diversas disposiciones del Código Penal del Estado de Guerrero; del Código de Procedimientos Penales para el Estado de Guerrero; del Código Civil del Estado de Guerrero; del Código Procesal Civil del Estado Libre y Soberano de Guerrero; de la Ley de Divorcio del Estado de Guerrero; y de la Ley Orgánica del Poder Judicial del Estado de Guerrero, entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los asuntos pendientes al entrar en vigor este Decreto se sujetarán a las disposiciones anteriores.
+
+P.O. 3 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al Titular del Ejecutivo del Estado, para los efectos legales conducentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero para su conocimiento General.
