@@ -4,7 +4,7 @@ identifier: "COA-ley-de-turismo-para-el-estado-de-coahuila-de-zaragoza-3797"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-02"
-last_updated: "1984-03-02"
+last_updated: "2006-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 2 de marzo de 1984.
 
@@ -41,9 +41,11 @@ LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 1o.
 
-Las disposiciones de esta Ley son de orden público e interés social y su aplicación corresponde al Ejecutivo Estatal a través de la Dirección de Turismo que dependerá del Ejecutivo del Estado.
+Las disposiciones de esta ley son de orden público e interés social y su aplicación corresponde al Ejecutivo Estatal a través de la Secretaría de Turismo.
 
 ###### ARTICULO 2o.
 
@@ -75,19 +77,25 @@ Se consideran prestadores de servicios turísticos, las personas físicas o mora
 
 Las personas que hagan uso o se dediquen a la prestación de servicios turísticos en el Estado, gozarán de la protección de esta Ley y sus Reglamentos.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 7o.
 
-La Dirección de Turismo, dará curso legal a las denuncias y quejas que en materia turística se le presenten, en los términos de la Ley Federal de Protección al Consumidor y demás ordenamientos jurídicos aplicables.
+La Secretaría de Turismo, dará curso legal a las denuncias y quejas que en materia turística se le presenten, en los términos de la Ley Federal de Protección al Consumidor y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 8o.
 
-Las autoridades estatales y municipales tanto del sector central como del paraestatal, auxiliarán a la Dirección de Turismo, en la aplicación de la presente Ley y sus Reglamentos.
+Las autoridades estatales y municipales tanto del sector central como del paraestatal, auxiliarán a la Secretaría de Turismo, en la aplicación de la presente Ley y sus Reglamentos.
 
 ### CAPITULO II. DE LA COMPETENCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 9o.
 
-Son atribuciones de la Dirección de Turismo:
+Son atribuciones de la Secretaría de Turismo:
 
 I.- Proponer al Ejecutivo del Estado, las políticas aplicables en materia turística;
 
@@ -147,17 +155,23 @@ El Plan Estatal de Turismo y sus adecuaciones, previa su aprobación por el Ejec
 
 El Plan Estatal de Turismo será obligatorio para la Administración Pública Estatal centralizada y paraestatal e indicativo para los gobiernos municipales y los sectores privado y social.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 14o.
 
-La Dirección de Turismo, conforme a las normas establecidas en el mismo, evaluará, cuando menos una vez al año, el cumplimiento del Plan Estatal de Turismo.
+La Secretaría de Turismo, conforme a las normas establecidas en el mismo, evaluará, cuando menos una vez al año, el cumplimiento del Plan Estatal de Turismo.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 15o.
 
-La Dirección de Turismo, a efecto de establecer una adecuada organización a nivel Estatal, coordinará sus programas con los Ayuntamientos de los Municipios de la Entidad, dando la participación que corresponda a las dependencias y entidades paraestatales de la Federación y del Estado, así como a los sectores privado y social.
+La Secretaría de Turismo a efecto de establecer una adecuada organización a nivel Estatal, coordinará sus programas con los Ayuntamientos de los Municipios de la Entidad, dando la participación que corresponda a las dependencias y entidades paraestatales de la Federación y del Estado, así como a los sectores privado y social.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 16o.
 
-Cuando los programas derivados del Plan Estatal de Turismo, hayan de ser realizados total o parcialmente por organismos o empresas de los sectores privado y social, la Dirección de Turismo promoverá dichos programas indicando los estímulos y apoyos que procedan y las obligaciones que deberán contraer quienes deseen participar en los mismos.
+Cuando los programas derivados del Plan Estatal de Turismo, hayan de ser realizados total o parcialmente por organismos o empresas de los sectores privado y social, la Secretaría de Turismo promoverá dichos programas indicando los estímulos y apoyos que procedan y las obligaciones que deberán contraer quienes deseen participar en los mismos.
 
 ### CAPITULO IV. DEL FOMENTO Y DESARROLLO DE LA OFERTA
 
@@ -165,17 +179,23 @@ Cuando los programas derivados del Plan Estatal de Turismo, hayan de ser realiza
 
 Para los efectos de esta Ley, se entiende como oferta turística, el conjunto de bienes y servicios turísticos, así como los atractivos culturales, históricos, naturales, recreativos y urbanos que se ofrecen al turista.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 18o.
 
-La Dirección de Turismo, en coordinación con las dependencias y entidades paraestatales de los gobiernos federal, estatal y municipales, fomentará y desarrollará las acciones necesarias para proporcionar el mejoramiento de la oferta turística ya existente; la estructuración y diversificación de la misma y el crecimiento equilibrado de las zonas de interés y desarrollo turístico, para su adecuado aprovechamiento.
+La Secretaría de Turismo, en coordinación con las dependencias y entidades Paraestatales de los gobiernos Federal, estatal y municipales, fomentará y desarrollará las acciones necesarias para proporcionar el mejoramiento de la oferta turística ya existente; la estructuración y diversificación de la misma y el crecimiento equilibrado de las zonas de interés y desarrollo turístico, para su adecuado aprovechamiento.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 19o.
 
-La Dirección de Turismo, apoyará y gestionará ante las autoridades competentes, los sistemas de financiamiento e inversiones para la creación de la infraestructura necesaria en las zonas prioritarias de desarrollo turístico.
+La Secretaría de Turismo, apoyará y gestionará ante las autoridades competentes, los sistemas de financiamiento e inversiones para la creación de la infraestructura necesaria en las zonas prioritarias de desarrollo turístico.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 20o.
 
-Para el mejoramiento de la oferta turística estatal, la Dirección de Turismo, promoverá ante las autoridades competentes, las medidas de protección, conservación y mejoramiento de los atractivos naturales y culturales, así como de los servicios y facilidades que constituyan o puedan constituir un atractivo para el turismo, procurando la conservación del medio ambiente, la preservación ecológica de las zonas y el respeto a las costumbres y tradiciones nacionales y regionales.
+Para el mejoramiento de la oferta turística estatal, la Secretaría de Turismo, promoverá ante las autoridades competentes, las medidas de protección, conservación y mejoramiento de los atractivos naturales y culturales, así como de los servicios y facilidades que constituyan o puedan constituir un atractivo para el turismo, procurando la conservación del medio ambiente, la preservación, ecológica de las zonas y el respeto a las costumbres y tradiciones nacionales y regionales.
 
 ### CAPITULO V. ZONAS DE INTERES Y DE DESARROLLO TURISTICO
 
@@ -187,47 +207,61 @@ Se consideran zonas de interés turístico, las que por sus características geo
 
 Son zonas de desarrollo turístico, aquellas de interés turístico que manteniendo sus características, disponen para su explotación, de un plan de desarrollo aprobado por el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 23o.
 
-Con el fin de preservar el carácter propio de las poblaciones de la Entidad, conforme a sus valores artísticos, folklóricos o paisajísticos, la Dirección de Turismo podrá proponer al Ejecutivo del Estado, que las mismas sean declaradas zonas de interés o de desarrollo turístico, así como su conservación, protección y delimitación.
+Con el fin de preservar el carácter propio de las poblaciones de la Entidad, conforme a sus valores artísticos, folklóricos o paisajísticos, la Secretaría de Turismo podrá proponer al Ejecutivo del Estado, que las mismas sean declaradas zonas de interés o de desarrollo turístico, así como su conservación, protección y delimitación.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 24o.
 
-La Dirección de Turismo tendrá a su cargo el Registro de Zonas de Interés y de Desarrollo Turístico y en él se inscribirán las declaratorias correspondientes, así como los proyectos de desarrollo turístico que determine dicha dependencia.
+La Secretaría de Turismo tendrá a su cargo el Registro de Zonas de Interés y de Desarrollo Turístico y en él se inscribirán las declaratorias correspondientes, así como los proyectos de desarrollo turístico que determine dicha dependencia.
 
 ###### ARTICULO 25o.
 
 La realización de nuevas construcciones, así como los anuncios o rótulos que se coloquen en una población que se declare de interés o de desarrollo turístico, deberán ajustarse al carácter y estilo arquitectónico de la misma.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 26o.
 
-La Dirección de Turismo, en coordinación con la Secretaría de la Reforma Agraria, por conducto de su Delegación en el Estado, promoverá la constitución de empresas turísticas ejidales y comunales en las zonas de interés y de desarrollo turístico de la Entidad.
+La Secretaría de Turismo, en coordinación con la Secretaría de la Reforma Agraria, por conducto de su Delegación en el Estado, promoverá la constitución de empresas turísticas ejidales y comunales en las zonas de interés y de desarrollo turístico de la Entidad.
 
 Dichas empresas se constituirán conforme a lo establecido en la Ley Federal de Reforma Agraria y para su operación, gestionarán la asistencia técnica y financiera de las dependencias y entidades públicas competentes.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 27o.
 
-La Dirección de Turismo, en coordinación con las dependencias oficiales del ramo, proporcionará asistencia técnica a las empresas turísticas ejidales y comunales y promoverá, asimismo, centros de capacitación para los ejidatarios y comuneros que presten sus servicios en dichas empresas.
+La Secretaría de Turismo, en coordinación con las dependencias Oficiales del ramo, proporcionará asistencia técnica a las empresas turísticas ejidales y comunales y promoverá, así mismo, centros de capacitación para los ejidatarios y comuneros que presten sus servicios en dichas empresas.
 
 ### CAPITULO VI. DE LA PROMOCION DE LA DEMANDA
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 28o.
 
-La Dirección de Turismo realizará acciones para la promoción del turismo, en base a las políticas y prioridades que se establezcan con el propósito de generar una demanda creciente y equilibrada en esta actividad.
+La Secretaría de Turismo realizará acciones para la promoción del turismo, en base a las políticas y prioridades que se establezcan con el propósito de generar una demanda creciente y equilibrada en esta actividad.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 29o.
 
-En la ejecución de las acciones de promoción de la demanda, la Dirección de Turismo coordinará la participación que corresponda a las dependencias y entidades de los Gobiernos Federal, Estatal y Municipales y apoyará y estimulará las inversiones de los sectores social y privado.
+En la ejecución de las acciones de promoción de la demanda, la Secretaría de Turismo coordinará la participación que corresponda a las dependencias y entidades de los Gobiernos Federal, Estatal y Municipal y apoyará y estimulará las inversiones de los sectores social y privado.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 30o.
 
-La Dirección de Turismo realizará y promoverá campañas oficiales de publicidad en materia de Turismo, con objeto de proyectar una imagen real y positiva de los recursos, atractivos y servicios con que cuenta la Entidad en este ramo.
+La Secretaría de Turismo realizará y promoverá campañas oficiales de publicidad en materia de Turismo, con objeto de proyectar una imagen real y positiva de los recursos, atractivos y servicios con que cuenta la Entidad en este ramo.
 
-Dichas campañas tenderán a fomentar entre los coahuilenses una conciencia cívica de servicio, rectitud y hospitalidad para con el turista nacional y extranjero.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 31o.
 
-La Dirección de Turismo podrá asesorar a los particulares en las actividades publicitarias que realicen, proporcionándoles la información correspondiente, así como apoyarlos en sus promociones, mediante campañas participativas.
+La Secretaría de Turismo podrá asesorar a los particulares en las actividades publicitarias que realicen, proporcionándoles la información correspondiente, así como apoyarlos en sus promociones mediante campañas participativas.
 
 ### CAPITULO VII. DE LA PRESTACION Y OPERACION DE LOS SERVICIOS TURISTICOS
 
@@ -243,11 +277,17 @@ Quienes sean prestadores de servicios turísticos conforme a lo establecido en l
 
 Los prestadores de servicios turísticos tendrán los siguientes derechos:
 
-I.- Conocer los planes y programas elaborados por la Dirección de Turismo, con el propósito de incrementar y fomentar el turismo;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
-II.- Ser incluidos en las publicaciones que edite la Dirección de Turismo;
+I.- Conocer los planes y programas elaborados por la Secretaría de Turismo, con el propósito de incrementar y fomentar el turismo;
 
-III.- Solicitar y recibir de la Dirección de Turismo, asesoramiento técnico destinado al mejoramiento de los servicios turísticos;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+II.- Ser incluidos en las publicaciones que edite la Secretaría de Turismo;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+III.- Solicitar y recibir de la Secretaría de Turismo, asesoramiento técnico destinado al mejoramiento de los servicios turísticos; y
 
 IV.- Los demás que se señalen por esta Ley y sus Reglamentos; (sic)
 
@@ -259,7 +299,9 @@ I.- Proporcionar, en los términos contratados, los bienes y servicios que se of
 
 II.- Cumplir con las disposiciones que les sean aplicables del Plan Estatal de Turismo;
 
-III.- Proporcionar a la Dirección de Turismo, los datos e información estadística que ésta les solicite en la relación con la actividad turística;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+III.- Proporcionar a la Secretaría de Turismo, los datos e información estadística que ésta les solicite en la relación con la actividad turística;
 
 IV.- Respetar los precios y tarifas fijados por las autoridades correspondientes;
 
@@ -283,13 +325,17 @@ XIII.- Las demás que les señalen esta Ley, sus Reglamentos y demás disposicio
 
 ### CAPITULO VIII. DEL REGISTRO ESTATAL DE TURISMO
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 36o.
 
-La Dirección de Turismo tendrá a su cargo la integración, organización y actualización del Registro Estatal de Turismo, el cual funcionará con el exclusivo propósito de captar información y concentrar datos estadísticos, que sirvan de apoyo para el control de los servicios turísticos, que se prestan en el Estado, así como para la planeación y programación de las actividades turísticas a nivel local.
+La Secretaría de Turismo tendrá a su cargo la integración, organización y actualización del Registro Estatal de Turismo, el cual funcionará con el exclusivo propósito de captar información y concentrar datos estadísticos, que sirvan de apoyo para el control de los servicios turísticos, que se prestan en el Estado, así como para la planeación y programación de las actividades turísticas a nivel local.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 37o.
 
-Todos los prestadores de servicios turísticos que operan en el Estado, tendrán derecho a ser inscritos en el Registro Estatal de Turismo y para ello, deberán acreditar ante la Dirección de Turismo, que tienen reconocido tal carácter por las autoridades competentes, así como cumplir con los demás requisitos que señale dicha dependencia.
+Todos los prestadores de servicios turísticos que operan en el Estado, tendrán derecho a ser inscritos en el Registro Estatal de Turismo y para ello deberán acreditar ante la Secretaría de Turismo, que tienen reconocido tal carácter por las autoridades competentes, así como cumplir con los demás requisitos que señale dicha dependencia.
 
 ###### ARTICULO 38o.
 
@@ -297,17 +343,21 @@ La inscripción en el Registro Estatal de Turismo será voluntaria e implicará 
 
 ### CAPITULO IX. DEL TURISMO SOCIAL
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 39o.
 
-La Dirección de Turismo, promoverá, fomentará y coordinará programas y planes de turismo social, que tengan por objeto el que todos los habitantes de la Entidad puedan participar en las actividades turísticas y el que se propicie la identidad y solidaridad nacional, mediante el conocimiento y aprovechamiento de los recursos que conforman el patrimonio turístico del Estado.
+La Secretaria de Turismo, promoverá, fomentará y coordinará programas y planes de turismo social, que tengan por objeto el que todos los habitantes de la Entidad puedan participar en las actividades turísticas y el que se propicie la identidad y solidaridad nacional, mediante el conocimiento y aprovechamiento de los recursos que conforman el patrimonio turístico del Estado.
 
 ###### ARTICULO 40o.
 
 En los programas y planes de turismo social, se estimulará la creación y participación de sociedades cooperativas de prestadores y de consumidores de servicios turísticos, así como de proveedores de insumos, equipos, materiales y similares, requeridos por este tipo de turismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 41o.
 
-Para cumplir con las funciones que se le asignan en este Capítulo, la Dirección de Turismo estará facultada para realizar las siguientes acciones:
+Para cumplir con las funciones que se le asignan en este Capítulo, la Secretaría de Turismo estará facultada para realizar las siguientes acciones:
 
 I.- Promover la participación de los prestadores de servicios turísticos y de organismos públicos, privados y sociales, para fomentar la demanda en este tipo de turismo y lograr una oferta razonable y proporcional de paquetes, planes y circuitos turísticos individuales, familiares y grupales, a base de cuotas y tarifas reducidas;
 
@@ -333,9 +383,11 @@ XI.- Promover y coordinar la participación en los programas de turismo social, 
 
 ### CAPITULO X. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 42o.
 
-La Dirección de Turismo, para cumplir con las disposiciones de esta Ley y sus Reglamentos, estará facultada para practicar, directamente o a través de sus delegaciones en el Estado, las visitas de inspección que fundada y motivadamente considere pertinentes, así como para hacer las declaraciones respectivas y aplicar las sanciones que procedan.
+La Secretaría de Turismo, para cumplir con las disposiciones de esta Ley y sus Reglamentos, estará facultada para practicar, directamente o a través de sus delegaciones en el Estado las visitas de inspección que fundada y motivadamente considere pertinentes, así como para hacer las declaraciones respectivas y aplicar las sanciones que procedan.
 
 ###### ARTICULO 43o.
 
@@ -347,29 +399,39 @@ La multa podrá duplicarse en caso de reincidencia entendiéndose como tal, para
 
 Si el infractor persiste en la contravención, se le podrá sancionar con dos tantos del importe de la multa, aplicables diariamente hasta que se allane el cumplimiento de la disposición infringida.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 45o.
 
-La Dirección de Turismo, al imponer las sanciones tomará en cuenta la gravedad de la infracción, las condiciones económicas del infractor y la reincidencia, si la hubiere.
+La Secretaría de Turismo, al imponer las sanciones tomará en cuenta la gravedad de la infracción, las condiciones económicas del infractor y la reincidencia si la hubiere.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 46o.
 
-Las multas que imponga la Dirección de Turismo a los prestadores de servicios turísticos, por infracciones a esta Ley y sus Reglamentos, se considerarán créditos fiscales y para hacerlas efectivas se estará a lo dispuesto en el Código Fiscal del Estado.
+Las multas que imponga la Secretaría de Turismo a los prestadores de servicios turísticos, por infracciones a esta Ley y sus Reglamentos, se considerarán créditos fiscales y para hacerlas efectivas se estará a lo dispuesto en el Código Fiscal del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 47o.
 
-Las multas a que se refiere el artículo anterior, se fundarán y motivarán debidamente, por escrito que formulará la Dirección de Turismo y que junto con las demás diligencias que se practiquen, se turnará a la autoridad fiscal, para que ésta proceda a hacerlas efectivas.
+Las multas a que se refiere el artículo anterior se fundarán y motivarán debidamente, por escrito que formulará la Secretaría de Turismo y que junto con las demás diligencias que se practiquen, se turnará a la autoridad fiscal, para que esta proceda a hacerlas efectivas.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 48o.
 
-Las multas que se impongan conforme a esta Ley, deberán ser cubiertas dentro del término de quince días, contados a partir de la fecha en que la Dirección de Turismo haga su notificación al responsable. Pasado dicho término sin que se hubiesen cubierto, se exigirá su pago por medio del procedimiento previsto en el Código Fiscal del Estado.
+Las multas que se impongan conforme a esta Ley, deberán ser cubiertas dentro del término de quince días, contados a partir de la fecha en que la Secretaría de Turismo haga su notificación al responsable. Pasado dicho término sin que se hubiesen cubierto, se exigirá su pago por medio del procedimiento previsto en el Código Fiscal del Estado.
 
 ###### ARTICULO 49o.
 
 Tratándose de multas impuestas a propietarios de establecimientos dedicados a la prestación de servicios turísticos, los adquirientes sucesivos de los mismos, tendrán responsabilidad objetiva respecto de dichas multas, pero, a su vez, podrán repetir en contra del anterior propietario.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 50o.
 
-La Dirección de Turismo, sin perjuicio de las sanciones que procedan conforme a esta Ley y sus Reglamentos, hará del conocimiento de las autoridades correspondientes, los hechos u omisiones que pudieran constituir algún delito.
+La Secretaría de Turismo, sin perjuicio de las sanciones que procedan conforme a esta Ley y sus Reglamentos, hará del conocimiento de las autoridades correspondientes, los hechos u omisiones que pudieran constituir algún delito.
 
 ### CAPITULO XI. DE LOS RECURSOS
 
@@ -381,9 +443,11 @@ Contra las resoluciones y actos dictados por las autoridades y funcionarios enca
 
 Los recursos presentados extemporáneamente o los que fueren notoriamente improcedentes, se desecharán de plano.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 53o.
 
-El recurso de reconsideración se interpondrá ante el Titular de la Dirección de Turismo y será resuelto por éste en la forma y términos fijados por esta Ley.
+El recurso de reconsideración se interpondrá ante el Titular de la Secretaría de Turismo y será resuelto por este en la forma y términos fijados por esta Ley.
 
 ###### ARTICULO 54o.
 
@@ -391,19 +455,27 @@ La tramitación del recurso de reconsideración, se sujetará a las normas sigui
 
 I.- Se interpondrá por escrito, en el que se precisará el nombre y domicilio de quien promueva, los agravios que cause la resolución o acto impugnados y la mención del o los funcionarios que los hubieren dictado u ordenado ejecutar. A este escrito, en el que también se ofrecerán las pruebas que estime pertinentes el promovente, se acompañarán los documentos justificativos de su personalidad;
 
-II.- El escrito deberá presentarse ante el titular de la Dirección de Turismo, dentro de los 15 días hábiles siguientes a la fecha en que se haya notificado la resolución o se haya conocido el acto impugnado, directamente o por correo certificado, con copia a los funcionarios o empleados cuya resolución y actos se impugnen. En el caso de que el escrito se envíe por correo certificado, se tendrá como fecha de su presentación, la del día en que se deposite en la oficina de correos;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
-III.- Al recibir las copias a que se refiere la fracción anterior, los destinatarios de ellas, rendirán ante el Titular de la Dirección de Turismo, en un término de diez días hábiles, los informes que procedan en relación con la resolución o acto que se impugna, remitiendo, en su caso, las pruebas que hubiere ofrecido el promovente. Dentro del mismo término, se desahogarán los estudios, inspecciones y demás diligencias que se consideren necesarios al respecto;
+II.- El escrito deberá presentarse ante el titular de la Secretaría de Turismo dentro de los 15 días hábiles siguientes a la fecha en que se haya notificado la resolución o se haya conocido el acto impugnado, directamente o por correo certificado, con copia a los funcionarios o empleados cuya resolución y actos se impugnen. En el caso de que el escrito se envíe por correo certificado, se tendrá como fecha de su presentación, la del día en que se deposite en la oficina de correos;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+III.- Al recibir las copias a que se refiere la fracción anterior, los destinatarios de ellas, rendirán ante el Titular de la Secretaría de Turismo, en un término de diez días hábiles, los informes que procedan en relación con la resolución o acto que se impugna, remitiendo, en su caso, las pruebas que hubiere ofrecido el promovente. Dentro del mismo término, se desahogarán los estudios, inspecciones y demás diligencias que se consideren necesarios al respecto;
 
 IV.- Interpuesto el recurso, podrá suspenderse la ejecución de la resolución impugnada o la continuación de la ejecución de los actos que se reclamen, si se garantiza el interés pecuniario en que consista el objeto de la inconformidad y sus accesorios legales, en alguna de las formas establecidas en el Código Fiscal del Estado;
 
-V.- Desahogadas las pruebas ofrecidas por el inconforme o las que de oficio se hayan ordenado practicar por el Titular de la Dirección de Turismo, se emitirá la resolución que corresponda, en un plazo que nunca excederá de quince días hábiles, y se procederá a su notificación al interesado.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+V.- Desahogadas las pruebas ofrecidas por el inconforme o las que de oficio se hayan ordenado practicar por el Titular de la Secretaría de Turismo, se emitirá la resolución que corresponda, en un plazo que nunca excederá de quince días hábiles, y se procederá a su notificación al interesado.
 
 ###### ARTICULO 55o.
 
 Contra las resoluciones dictadas en los recursos de reconsideración, sólo procede el recurso de revisión, que se presentará ante el Titular del Poder Ejecutivo del Estado, mediante escrito en el que el promovente consignará los agravios que le causa la resolución.
 
-Este recurso se tramitará por conducto de la Secretaría General de Gobierno y se resolverá dentro de los quince días hábiles siguientes a la fecha de su presentación, dándose la intervención que corresponda al titular de la Dirección de Turismo.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+Este recurso se tramitará por conducto de la Secretaría de Gobierno y se resolverá dentro de los quince días hábiles siguientes a la fecha de su presentación, dándose la intervención que corresponda al titular de la Secretaría de Turismo.
 
 ###### ARTICULO 56o.
 
@@ -448,3 +520,11 @@ LIC. JOSE DE LAS FUENTES RODRIGUEZ. (Rúbrica).
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO
 
 LIC. ENRIQUE MARTINEZ Y MARTINEZ. (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
