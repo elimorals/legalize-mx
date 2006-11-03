@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2005-01-28"
+last_updated: "2006-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -1471,9 +1471,17 @@ Toda Iniciativa deberá presentarse al Presidente del Congreso por escrito y fir
 
 En el caso de las iniciativas ciudadanas que no reúnan los requisitos relativos a la motivación de la iniciativa, la Comisión de Dictamen Legislativo que corresponda subsanará dicho requisito.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
+Todas las iniciativas podrán ser retiradas del proceso legislativo hasta antes de que sean dictaminadas por la Comisión respectiva, mediante escrito firmado por el inicialista o quien legalmente lo represente, dirigido al Presidente del Congreso o de la Comisión Permanente, motivando la causa de su retiro.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 118.
 
 Todas las iniciativas se turnarán por el Presidente del Congreso a las Comisiones de dictamen legislativo que corresponda conforme a la presente Ley; una vez estudiadas, analizadas y discutidas formularán el dictamen correspondiente, sujetándolo a votación en los términos del Artículo 149 de esta Ley.
+
+Si del estudio y análisis de las iniciativas dentro de las Comisiones de dictamen legislativo es necesario complementarlas o clarificarlas, bastará con que así lo manifieste su inicialista o alguno de los integrantes de la Comisión, a través de una adenda en forma escrita, hasta antes de que sean dictaminadas por la Comisión respectiva.
 
 El dictamen se presentará al Pleno del Congreso en los plazos señalados en el Artículo 124 de esta Ley, para el cumplimiento de las fracciones II y III del Artículo 29 Constitucional.
 
@@ -1914,3 +1922,7 @@ QUINTO.- Por única ocasión, a partir de la entrada en vigor de las presentes r
 P.O. 28 DE ENERO DE 2005.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE NOVIEMBRE DE 2006.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
