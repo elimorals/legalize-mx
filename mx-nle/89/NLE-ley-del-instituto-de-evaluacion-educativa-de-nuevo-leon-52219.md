@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-evaluacion-educativa-de-nuevo-leon-52219"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2005-12-30"
+last_updated: "2006-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO DE EVALUACION EDUCATIVA DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -139,7 +139,9 @@ a) El Titular de la Secretaría de Educación del Estado y Director de la Unidad
 
 b) EL Titular de la Secretaría de Finanzas y Tesorería General del Estado;
 
-c) El Coordinador de Innovación y Competitividad Gubernamental;
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+c) El Coordinador de Planeación, Evaluación e innovación Gubernamental;
 
 d) El Presidente del Consejo para la Cultura y las Artes de Nuevo León;
 
@@ -171,7 +173,7 @@ VI. Fijar las bases, así como los montos mínimos, máximos y actualizaciones d
 
 VII. Aprobar cada año los estados financieros del instituto y autorizar su publicación, previo informe de los comisarios y el dictamen de los auditores externos;
 
-VIII. Otorgar y revocar poderes generales o especiales para actos de dominio, administración, en materia laboral, pleitos y cobranzas, con todas las facultades generales y especiales que requieran cláusula especial en los términos del Articulo 2448 del Código Civil vigente en el Estado, incluyendo la representación en materia civil, penal y juicios de amparo, considerando la facultad de denunciar y desistirse; así como poder para celebrar actos cambiarios y operaciones de crédito, pudiendo, en consecuencia, expedir, emitir, suscribir y girar títulos de crédito y realizar en los propios títulos todos los actos que reglamenta la Ley de la materia;
+VIII. Otorgar y revocar poderes generales o especiales para actos de dominio, administración, en materia laboral, pleitos y cobranzas, con todas las facultades generales y especiales que requieran cláusula especial en los términos del Artículo 2448 del Código Civil vigente en el Estado, incluyendo la representación en materia civil, penal y juicios de amparo, considerando la facultad de denunciar y desistirse; así como poder para celebrar actos cambiarios y operaciones de crédito, pudiendo, en consecuencia, expedir, emitir, suscribir y girar títulos de crédito y realizar en los propios títulos todos los actos que reglamenta la Ley de la materia;
 
 IX. Aprobar la estructura orgánica principal, así como el Reglamento Interior del Instituto, escuchando la opinión del Consejo Técnico de Participación Ciudadana para la Evaluación Educativa;
 
@@ -241,7 +243,7 @@ IV. Los vocales consejeros, que deberán ser un mínimo de ocho y hasta un máxi
 
 ###### Artículo 14.
 
-Los vocales consejeros miembros del Consejo Técnico serán nombrados por invitación de la Junta Directiva, previa consulta que ésta realice entre los sectores de la comunidad; podrán integrarlo servidores públicos e instituciones académicas y de investigación, organismos, asociaciones públicas o privadas del Estado de Nuevo León, con conocimiento, especialización o ingerencia en los temas de evaluación educativa.
+Los vocales consejeros miembros del Consejo Técnico serán nombrados por invitación de la Junta Directiva, previa consulta que ésta realice entre los sectores de la comunidad; podrán integrarlo servidores públicos e instituciones académicas y de investigación, organismos, asociaciones públicas o privadas del Estado de Nuevo León, con conocimiento, especialización o ingerencia (sic) en los temas de evaluación educativa.
 
 ###### Artículo 15.
 
@@ -444,3 +446,13 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 LA C. SECRETARIA DE EDUCACIÓN
 
 MARÍA YOLANDA BLANCO GARCÍA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Secretaría de Finanzas y Tesorería General del Estado realizará las prevenciones necesarias a fin de que los recursos humanos, materiales y presupuestales que hayan sido asignados a la Coordinación de Innovación y Competitividad Gubernamental se transfieran a las Coordinaciones de Planeación, Evaluación e Innovación Gubernamental, y de Participación Ciudadana, según corresponda.
+
+Artículo Tercero.- Se respetarán los derechos del personal y trabajadores que laboren en las dependencias que se supriman o compartan a que se refieren en el presente Decreto.
