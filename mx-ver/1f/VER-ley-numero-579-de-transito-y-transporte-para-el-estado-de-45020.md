@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-579-de-transito-y-transporte-para-el-estado-de-45020
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-08"
-last_updated: "2005-10-21"
+last_updated: "2006-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE OCTUBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 6 DE NOVIEMBRE DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 8 de agosto de 2003.
 
@@ -1502,3 +1504,15 @@ G.O. 21 DE OCTUBRE DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 6 DE NOVIEMBRE DE 2006.
+
+Primero. La presente ley entrará en vigor a los quince días de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se abroga la Ley de Tránsito y Transporte para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial el día ocho de agosto del año dos mil tres y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Tercero. Las autoridades estatales y, en su caso, las municipales expedirán o adecuarán los reglamentos respectivos para el cumplimiento de la Ley, dentro del plazo de noventa días posteriores a la entrada en vigor de la misma.
+
+Cuarto. El presupuesto, mobiliario, equipo, archivo y en general todos los recursos humanos, materiales y financieros que tiene asignados el órgano desconcentrado de la Secretaría de Gobierno, denominado Instituto Veracruzano del Transporte, se adscriben e incorporan al patrimonio del organismo público descentralizado, que bajo el mismo nombre se crea mediante la presente ley.
+
+Quinto. En el término de sesenta días, contado a partir del inicio de la vigencia de la presente ley, los concesionarios y permisionarios deberán solicitar su inscripción en el Registro de Transporte Público.
