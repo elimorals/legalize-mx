@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-343
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-10-09"
-last_updated: "2006-09-10"
+last_updated: "2006-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 9 de octubre de 2003.
 
@@ -45,7 +45,9 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
 La presente Ley tiene por objeto organizar y regular el funcionamiento de la Administración Pública del Estado de Nuevo León, que se integra por la Administración Pública Central y la Paraestatal.
 
-La Administración Pública Central está conformada por la Procuraduría General de Justicia, las secretarías del ramo y demás dependencias y unidades administrativas de coordinación, asesoría o consulta, cualquiera que sea su denominación.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+La Administración Pública Central está conformada por la Procuraduría General de Justicia, la Oficialía Mayor de Gobierno, la Oficina Ejecutiva de la Gubernatura, las secretarías del ramo y demás dependencias y unidades administrativas de coordinación, asesoría o consulta, cualesquiera que sea su denominación.
 
 La Administración Pública Paraestatal está conformada por los organismos públicos descentralizados, las empresas de participación estatal, los fideicomisos públicos y demás entidades, cualquiera que sea su denominación.
 
@@ -149,9 +151,11 @@ IX. Oficialía Mayor de Gobierno, y
 
 X. Oficina Ejecutiva de la Gubernatura.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 19.
 
-El Gobernador del Estado, con el fin de facilitar la coordinación de políticas, planes, programas y acciones que involucren a varias dependencias y entidades de la Administración Pública Estatal, podrá disponer la integración de gabinetes en las áreas de actividad que estime necesarias.
+El Gobernador del Estado, con el fin de facilitar la coordinación de políticas, planes, programas y acciones que involucren a varias dependencias y entidades de la Administración Pública Estatal, dispondrá la integración de gabinetes en las áreas de actividad que estime necesarias.
 
 Al frente de cada uno de estos gabinetes, el Ejecutivo, en su caso, designará, de entre los responsables de las dependencias y entidades existentes, a un coordinador de gabinete, mismo que tendrá las siguientes atribuciones:
 
@@ -171,9 +175,11 @@ VII. Informar al Gobernador del Estado de los avances y resultados de los planes
 
 VIII. Las demás que señalen las leyes o decretos, reglamentos, acuerdos y resoluciones del Ejecutivo Estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 20.
 
-La Oficina Ejecutiva de la Gubernatura contará con un Jefe de la Oficina, quien será el responsable de organizar funcionalmente las tareas de: Planeación y Evaluación; de Contraloría Interna; de Innovación y Competitividad Gubernamental; de la Secretaría Particular y Agenda; de Consejería Jurídica; de Asuntos Internacionales, y demás actividades que defina el titular del Ejecutivo.
+La Oficina Ejecutiva de la Gubernatura contará con un Jefe de la Oficina, quien será responsable de organizar funcionalmente las tareas de Planeación, Evaluación e Innovación Gubernamental, de Participación Ciudadana, de Contraloría Interna, de la Secretaría particular y Agenda; de Consejería Jurídica; de Asuntos Internacionales, y demás actividades que defina el Titular del Ejecutivo.
 
 Los responsables de las tareas antes mencionadas serán los titulares de dichas dependencias, quienes serán designados directamente por el Gobernador del Estado.
 
@@ -339,7 +345,9 @@ La Secretaría de Finanzas y Tesorería General del Estado es la dependencia enc
 
 I. Recaudar los ingresos de carácter fiscal que establezcan las leyes y aquellos otros ingresos cuya exacción le corresponda o le haya sido delegada de acuerdo a la Ley;
 
-II. Elaborar, en coordinación con el responsable del área de Planeación Gubernamental, y presentar al Ejecutivo el anteproyecto de la Ley de Ingresos y el de Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+II. Elaborar, conjuntamente con la Coordinación de Planeación, Evaluación e Innovación Gubernamental, y presentar al Ejecutivo el anteproyecto de la Ley de Ingresos y el de Presupuesto de Egresos;
 
 III. Promover, organizar y realizar estudios con el fin de incrementar los ingresos y mejorar los sistemas de control fiscal;
 
@@ -381,9 +389,13 @@ XIX. Recibir, revisar y reclamar, en su caso, las participaciones en impuestos f
 
 XX. Elaborar los estudios de planeación financiera de las dependencias del Gobierno y de los organismos y entidades del sector paraestatal;
 
-XXI. Recibir los programas operativos anuales elaborados por las dependencias y entidades de la Administración Pública Estatal y con vista de los mismos formular, en coordinación con el responsable del área de Planeación Gubernamental, el Programa Anual del Gasto Público;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
 
-XXII. Elaborar, en coordinación con el responsable del área de Planeación Gubernamental, los programas estatales de inversión y someterlos al Ejecutivo para su aprobación, observando congruencia con los planes y estrategias de Gobierno;
+XXI. Recibir los programas operativos anuales elaborados por las dependencias y entidades de la Administración Pública Estatal y con vista de los mismos formular, en coordinación con la Coordinación de Planeación, Evaluación e Innovación Gubernamental, el Programa Anual del Gasto Público;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+XXII. Elaborar, en coordinación con la Coordinación de Planeación, Evaluación e Innovación Gubernamental, los programas estatales de inversión y someterlos al Ejecutivo para su aprobación, observando congruencia con los planes y estrategias de Gobierno;
 
 XXIII. (DEROGADA, P.O. 10 DE FEBRERO DE 2006)
 
@@ -525,7 +537,9 @@ I. Diseñar y aplicar los programas de obras públicas, conforme a los planes es
 
 II. Dirigir, coordinar y controlar la ejecución de los programas de obras públicas, utilizando las mejores tecnologías y sistemas de construcción disponibles;
 
-III. Elaborar, por instrucciones del Ejecutivo y a solicitud de los municipios o de los particulares, en coordinación con la Secretaría de Finanzas y Tesorería General del Estado y el responsable del área de Planeación del Estado, los programas de financiamiento para las obras públicas;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+III. Elaborar, por instrucciones del Ejecutivo y a solicitud de los municipios o de los particulares, en coordinación con la Secretaría de Finanzas y Tesorería General del Estado y la Coordinación de Planeación, Evaluación e Innovación Gubernamental, los programas de financiamiento para las obras públicas;
 
 IV. Brindar la asesoría técnica que soliciten los municipios, para la formulación de los programas que les competa elaborar sobre obras públicas;
 
@@ -561,7 +575,9 @@ VIII. Intervenir en los términos de las leyes de la materia, en la celebración
 
 IX. Tramitar los nombramientos, promociones, cambios de adscripción, licencias, bajas y jubilaciones de los servidores públicos del Poder Ejecutivo;
 
-X. Establecer las políticas públicas y los criterios para la operación y funcionamiento de los equipos de cómputo y de comunicación digital del Gobierno del Estado, así como promover el funcionamiento integral de los sistemas de informática para su eficaz y eficiente operación;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+X. Establecer las políticas públicas, los criterios y normas para la adquisición, operación y funcionamiento de los equipos informáticos y programas de cómputo, impresión y comunicación digital del Gobierno del Estado, así como promover el funcionamiento integral de los sistemas de informática para su eficaz y eficiente operación;
 
 XI. Planear y programar en coordinación con los titulares de las dependencias la selección, contratación y capacitación del personal y llevar los registros del mismo; controlar su asistencia, licencias, permisos y vacaciones; otorgar becas y otros estímulos y promover actividades socioculturales y deportivas para los trabajadores al servicio del Estado;
 
@@ -571,25 +587,49 @@ XIII. Llevar el registro de proveedores de bienes y servicios de la Administraci
 
 XIV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas vigentes en la materia.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 30.
 
-Para el desarrollo de las actividades públicas el titular del Ejecutivo se auxiliará, de acuerdo con lo establecido en el Artículo 20 de esta Ley, de las siguientes dependencias: la Coordinación de Planeación y Evaluación; la Contraloría Interna; la Coordinación de Innovación y Competitividad Gubernamental; la Coordinación de la Secretaría Particular y Agenda; la Consejería Jurídica del Gobernador; la Unidad de Asuntos Internacionales y la Oficina de Representación del Gobierno del Estado en el Distrito Federal.
+Para el desarrollo de las actividades públicas el Titular del Ejecutivo se auxiliará, de acuerdo con lo establecido en el Artículo 20 de esta Ley, de las siguientes dependencias: la Coordinación de Planeación, Evaluación e Innovación Gubernamental; la Contraloría Interna; la Coordinación de la Secretaría Particular y Agenda; la Consejería Jurídica del Gobernador; la Unidad de Asuntos Internacionales; la Coordinación de Participación Ciudadana y la Oficina de Representación del Gobierno del Estado en el Distrito Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 31.
 
-Corresponde a la Coordinación de Planeación y Evaluación:
+Corresponde a la Coordinación de Planeación, Evaluación e Innovación Gubernamental:
 
-I. Coordinar los trabajos de consulta pública para la elaboración del Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
 
-II. Fungir como secretario técnico del Comité de Planeación y elaborar el Plan Estatal de Desarrollo, con la participación de las dependencias y entidades de la Administración, así como evaluar y dar seguimiento al cumplimiento de los objetivos y metas señalados en los programas y acciones que lo integran;
+I. Organizar, en forma conjunta con la Coordinación de Participación Ciudadana, los trabajos de consulta pública para la elaboración del Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+II. Elaborar el Plan Estatal de Desarrollo, con la participación de las dependencias y entidades de la Administración, en los términos que le señale el secretario técnico del Comité de Planeación, así como evaluar y dar seguimiento al cumplimiento de los objetivos y metas señalados en los programas y acciones que lo integran;
 
 III. Coordinar la elaboración de los programas sectoriales de la Administración Pública, y su debida congruencia con el Plan Estatal de Desarrollo;
 
 IV. Asesorar al Gobernador del Estado en la elaboración de los convenios que celebre el Gobierno del Estado en materia de planeación, programación, supervisión y evaluación del desarrollo de la Entidad;
 
-V. Participar en coordinación con la Secretaría de Finanzas y Tesorería General del Estado, en la elaboración de los programas operativos anuales de las dependencias, y en la elaboración del programa anual del gasto público de la Administración, y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
 
-VI. Las demás que el Ejecutivo del Estado le encomiende.
+V. Participar en coordinación con la Secretaría de Finanzas y Tesorería General del Estado, en la elaboración de los programas operativos anuales de las dependencias, y en la elaboración del programa anual del gasto público de la Administración;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+VI. Establecer y desarrollar estudios, políticas, programas y acciones que tengan por objeto modernizar y reformar las estructuras, métodos y sistemas de la Administración Pública y que promuevan la innovación y competitividad en los procesos gubernamentales, con el fin de volverla más competitiva, operativa y funcional;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+VII. Proponer y desarrollar programas y acciones de descentralización y desconcentración administrativas, con el gobierno federal y los municipios; así como, en coordinación con la Secretaría de Finanzas y Tesorería General del Estado, autorizar las modificaciones a la estructura gubernamental y someterlas a la aprobación definitiva del Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+VIII. Llevar a cabo programas y acciones tendientes a modernizar el marco legal y reglamentario de la Administración Pública, y en coordinación con la Oficialía Mayor de Gobierno, los relativos a establecer la profesionalización del servicio público en el Estado;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+IX. Las demás que el Titular de la Oficina Ejecutiva de la Gubernatura o el Ejecutivo del Estado le encomienden.
 
 ###### Artículo 32.
 
@@ -619,29 +659,31 @@ XI. Llevar a cabo acciones y programas que propicien la legalidad y la transpare
 
 XII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas vigentes en la materia.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 33.
 
-Corresponde a la Coordinación de Innovación y Competitividad Gubernamental:
+Corresponde a la Coordinación de Participación Ciudadana:
 
-I. Establecer y desarrollar políticas, programas y acciones que tengan por objeto modernizar y reformar las estructuras, métodos y sistemas de la Administración Pública, con el fin de volverla más competitiva, operativa y funcional;
+I. Coordinar las acciones de la Administración Pública del Estado en materia de Participación Ciudadana;
 
-II. Coordinar el establecimiento y desarrollo de políticas, programas y estudios que promuevan la innovación y competitividad en los procesos gubernamentales;
+II. Organizar, en forma conjunta con la Coordinación de Evaluación, Planeación e Innovación Gubernamental, los trabajos de consulta pública para la elaboración del Plan Estatal de Desarrollo;
 
-III. Llevar a cabo programas y acciones tendientes a modernizar el marco legal y reglamentario de la Administración Pública;
+III. Concentrar, analizar y sistematizar las propuestas, opiniones y recomendaciones de los Consejos Ciudadanos de las dependencias y entidades y alinearlas al Plan Estatal de Desarrollo;
 
-IV. Impulsar los procesos de digitalización de la Administración Pública, y establecer, para su ejecución en las distintas dependencias y entidades, políticas y programas en materia de gobierno electrónico, que permitan una mayor transparencia en las funciones públicas y faciliten las relaciones con los ciudadanos;
+IV. Promover los procesos de digitalización de la Administración Pública y proponer, en coordinación con la Oficialía mayor de Gobierno, su establecimiento en las distintas dependencias y entidades;
 
-V. Llevar a cabo, en coordinación con las dependencias de la Administración Pública Estatal y Municipales, y la participación de los sectores social, privado y académico, políticas y programas tendientes a simplificar y desregular las funciones de la Administración;
+V. Impulsar políticas y programas en materia de gobierno electrónico, que permitan una mayor transparencia en las funciones públicas y faciliten las relaciones con los ciudadanos;
 
-VI. Coordinar programas de atención ciudadana que permitan captar propuestas, sugerencias y opiniones de los particulares, con el objeto de mejorar el funcionamiento de los servicios públicos y las tareas generales de la administración;
+VI. Participar, en coordinación con los integrantes del Observatorio Ciudadano, en la mejora permanente del portal de internet del Gobierno del Estado, con el fin de facilitar la interacción con los ciudadanos;
 
-VII. Llevar a cabo, en coordinación con la Oficialía Mayor de Gobierno, el diseño de políticas y programas tendientes a establecer, de manera gradual, la profesionalización del servicio público en el Estado;
+VII. Realizar estudios y proponer políticas y programas tendientes a simplificar y desregular los procesos administrativos, en coordinación con las dependencias competentes de la Administración Pública Estatal y Municipales, y con la participación de los sectores social, privado y académico.
 
-VIII. En coordinación con la Secretaría de Finanzas y Tesorería General del Estado, autorizar las modificaciones a la estructura gubernamental y someterlas a la aprobación definitiva del Gobernador del Estado;
+VIII. Coordinar programas de atención ciudadana que permitan captar propuestas, sugerencias y opiniones, con el objeto de mejorar el funcionamiento de los servicios públicos y las tareas generales de la administración;
 
-IX. Proponer y llevar a cabo programas y acciones de descentralización y desconcentración administrativas, con los gobiernos federal y municipales, y
+IX. Establecer, en coordinación con la Contraloría Interna, programas encaminados al cumplimiento de los compromisos contenidos en el Código de Ética de los servidores públicos de la Administración Pública Estatal, para fomentar los valores éticos que deberán observar en su función.
 
-X. Las demás que el Ejecutivo del Estado le encomiende.
+X. Las demás que el Titular de la Oficina Ejecutiva de la Gubernatura o el Ejecutivo del Estado le encomienden.
 
 ###### Artículo 34.
 
@@ -665,9 +707,11 @@ El Ejecutivo deberá rendir cuenta a la Legislatura del uso que hiciere de esta 
 
 Los organismos descentralizados gozarán de personalidad jurídica y patrimonio propio y podrán ser creados para auxiliar operativamente al Ejecutivo en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 38.
 
-Las entidades de la administración paraestatal podrán agruparse en sectores definidos; y sus relaciones con el Ejecutivo, en cumplimiento a las disposiciones legales aplicables se realizarán, en su caso, a través de la dependencia que se designe como coordinador del sector correspondiente.
+Las entidades de la administración paraestatal deberán agruparse en sectores definidos; y sus relaciones con el Ejecutivo, en cumplimiento a las disposiciones legales aplicables se realizarán, en su caso, a través de la dependencia que se designe como coordinador del sector correspondiente.
 
 ###### Artículo 39.
 
@@ -1050,3 +1094,11 @@ Lo anterior sin perjuicio de la continuación del procedimiento conforme a la Le
 El Presidente del Consejo Estatal de Menores procederá en los términos establecidos por el párrafo primero de este artículo, en caso de que ya se hubiere pronunciado sentencia ejecutoria.
 
 Artículo Décimo Primero.- Las autoridades competentes expedirán los reglamentos necesarios para el cumplimiento de las disposiciones del presente Decreto, en un término que no deberá exceder de seis meses, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Secretaría de Finanzas y Tesorería General del Estado realizará las revisiones necesarias a fin de que los recursos humanos, materiales y presupuestales que hayan sido asignados a la Coordinación de Innovación y Competitividad Gubernamental se transfieran a las Coordinaciones de Planeación, Evaluación e Innovación Gubernamental, y de Participación Ciudadana, según corresponda.
+
+Artículo Tercero.- Se respetarán los derechos del personal y trabajadores que laboren en las dependencias que se supriman o compartan a que se refieren en el presente Decreto.
