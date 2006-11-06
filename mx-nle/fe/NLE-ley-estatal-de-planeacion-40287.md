@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-planeacion-40287"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-28"
-last_updated: "2004-07-28"
+last_updated: "2006-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE PLANEACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de julio de 2004.
 
@@ -145,13 +145,17 @@ III. El Oficial Mayor de Gobierno;
 
 IV. El Titular de la Contraloría Interna;
 
-V. El Coordinador de Innovación y Competitividad Gubernamental;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+V. El Coordinador de Planeación, Evaluación e Innovación Gubernamental;
 
 VI. Los Coordinadores de los gabinetes funcionales; y
 
 VII. Los demás funcionarios que designe el Titular del Ejecutivo.
 
-El Titular de la Coordinación de Planeación y Evaluación fungirá como Secretario Técnico.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+El Titular de la Oficina Ejecutiva de la Gubernatura fungiera como Secretario Técnico.
 
 ###### Artículo 12.
 
@@ -181,13 +185,17 @@ C).- Dentro del marco legal que le corresponde, el Secretario de Finanzas y Teso
 
 Corresponderá también al Secretario de Finanzas y Tesorero General del Estado proponer al Titular del Ejecutivo lo referente al Programa Anual de Gasto Público, coordinándose en este caso con el Comité de Planeación de la Administración Pública del Estado.
 
-D).- El Jefe de la Oficina Ejecutiva de la Gubernatura tendrá la responsabilidad de coordinar las tareas del Sistema Estatal de Planeación a través de la Coordinación de Planeación y Evaluación, y con base en el Plan Estatal de Desarrollo dar seguimiento a la ejecución del Modelo de Planeación Programática en todas sus etapas.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+D).- El Jefe de la Oficina Ejecutiva de la Gubernatura tendrá la responsabilidad de coordinar las tareas del Sistema Estatal de Planeación a través de la Coordinación de Planeación, Evaluación e Innovación Gubernamental, y con base en el Plan Estatal de Desarrollo dar seguimiento a la ejecución del Modelo de Planeación Programática en todas sus etapas.
 
 E).- El Oficial Mayor de Gobierno tendrá la responsabilidad de que la aplicación de los recursos humanos, materiales y servicios sea conforme al Plan Estatal de Desarrollo y a los programas.
 
 F).- El Titular de la Contraloría Interna tendrá la responsabilidad de establecer y operar los instrumentos y mecanismos para la auditoría y el control en materia de gasto público, en congruencia con el Plan Estatal de Desarrollo y la Ley de Egresos correspondiente.
 
-G).- El Titular de la Coordinación de Innovación y Competitividad Gubernamental tendrá la responsabilidad de diseñar las adecuaciones a las estructuras, métodos y procedimientos de las dependencias y entidades de la administración pública para hacerlas congruentes con el Sistema Estatal de Planeación, así como la de definir criterios y políticas para la transparencia y para la modernización de los servicios públicos.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2006)</small>
+
+G).- El Titular de la Coordinación, Planeación, Evaluación e Innovación Gubernamental tendrá la responsabilidad de diseñar las adecuaciones a las estructuras, métodos y procedimientos de las dependencias y entidades de la administración pública para hacerlas congruentes con el Sistema Estatal de Planeación, asó como de definir criterios políticas para la transparencia y para la modernización de los servicios públicos.
 
 H).- Todos los titulares de las dependencias y entidades de la administración pública estatal tendrán las siguientes responsabilidades y atribuciones:
 
@@ -398,3 +406,13 @@ EL C. OFICIAL MAYOR DE GOBIERNO
 MARIO GERARDO GUERRERO DÁVILA
 
 RÚBRICA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Secretaría de Finanzas y Tesorería General del Estado realizará las previsiones necesarias a fin de que los recursos humanos, materiales y presupuestales que hayan sido asignados a la Coordinación de Innovación y Competitividad Gubernamental se transfieran a las Coordinaciones de Planeación, Evaluación e Innovación gubernamental, y de Participación Ciudadana, según corresponda.
+
+Artículo Tercero.- Se respetarán los derechos del personal y trabajadores que laboren en las dependencias que se supriman o compartan a que se refieren en el presente Decreto.
