@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-coordinacion-del-programa-para-41377"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-12"
-last_updated: "2005-11-04"
+last_updated: "2006-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN DEL PROGRAMA PARA INTEGRACIÓN DEL DESARROLLO REGIONAL DEL NORESTE Y SU VINCULACIÓN CON TEXAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el martes 12 de octubre de 2004.
 
@@ -93,9 +93,9 @@ II. Dirección de Negociaciones Interinstitucionales e Intergubernamentales, y
 
 III. Dirección de Proyectos Estratégicos y Proyectos Especiales.
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
 
-IV. Dirección General de la Casa de Nuevo León.
+IV. Dirección de Desarrollo Logístico.
 
 ###### ARTÍCULO 8.
 
@@ -155,17 +155,17 @@ II. Asistir en la promoción de programas y proyectos para el desarrollo de infr
 
 III. Participar en el análisis y viabilidad de los proyectos de la Coordinación.
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2006)</small>
 
-ARTÍCULO 13 BIS.- Además de las atribuciones previstas en el artículo 10, al Director General de la Casa de Nuevo León le corresponde:
+ARTÍCULO 13 BIS.- Además de las atribuciones previstas en el Artículo 10, al Director de Desarrollo Logístico le corresponde:
 
-I. Formular y proponer al Coordinador Ejecutivo los planes y acciones que se requieran para la representación promocional del Estado de Nuevo León en los Estados Unidos de América, en materia económica, turística, cultural, de ciencia y tecnología, infraestructura y cualquier otro tema relacionado con el desarrollo regional, orientados al cumplimiento del Programa.
+I. Definir los términos de referencia para la elaboración del Plan Estratégico para el Desarrollo Logístico de la Región Noreste y su Vinculación con Texas, así como la coordinación de los programas y proyectos para su ejecución.
 
-II. Coordinar, presidir, auxiliar y conducir directa o en conjunto con las dependencias del Gobierno central, dependencias auxiliares y paraestatales del Estado de Nuevo León, y con organismos e instituciones privadas del Estado, misiones, eventos y cualquier tipo de actividad tendiente al cumplimiento de los objetivos del Programa.
+II. Coordinar sus acciones con las demás dependencias y entidades de la Administración Pública Estatal y las demás instancias de gobierno interesadas en el desarrollo logístico.
 
-III. Promover, dirigir, administrar, operar y supervisar la participación de las personas morales privadas o públicas que operen en el Estado de Texas de los Estados Unidos de América, que cuenten con el reconocimiento del citado Programa a través de su Coordinador Ejecutivo, con el fin específico de dar cumplimiento a los objetivos del Programa y promocionar al Estado de Nuevo León.
+III. Promover vínculos de coordinación y colaboración con las áreas competentes de los demás estados de la región noreste del país, en materia de programas de desarrollo logístico; y
 
-Las atribuciones antes descritas se ejercerán con respeto irrestricto a la competencia que la ley confiere a otras dependencias y entidades de la Administración Pública del Estado de Nuevo León, y conforme a la legislación aplicable en aquel país.
+IV. Promover la concertación de acciones con instituciones y entidades interesadas en el desarrollo logístico de los sectores público, privado y académico, conducentes a la ejecución de los programas y proyectos derivados del Plan Estratégico a que se refiere la fracción I de este Artículo.
 
 ### CAPÍTULO IV. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -208,3 +208,11 @@ P.O. 4 DE NOVIEMBRE DE 2005.
 ###### ARTÍCULO TERCERO.
 
 Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2006.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO QUINTO DEL ACUERDO POR EL CUAL SE REFORMA EL REGLAMENTO INTERIOR DE LA COORDINACIÓN DEL PROGRAMA PARA INTEGRACIÓN DEL DESARROLLO REGIONAL DEL NORESTE Y SU VINCULACIÓN CON TEXAS.]</small>
+
+###### ARTÍCULO QUINTO.
+
+Este Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
