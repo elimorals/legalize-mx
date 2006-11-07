@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-3494"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-31"
-last_updated: "1993-08-31"
+last_updated: "2006-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMISION ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 31 de agosto de 1993.
 
@@ -149,7 +149,9 @@ VII.- Planear y autorizar la gestión de los créditos que requiera el Organismo
 
 VIII.- Conocer y aprobar los reglamentos internos del Organismo;
 
-IX.- Otorgar al Director General o a personas distintas a éste, poder general para pleitos y cobranzas y actos de administración, con todas las facultades aún las que requieran poder especial conforme a la Ley, en los términos del Artículo 2554 del Código Civil para el Distrito Federal y su correlativo el Artículo 2448 del Código Civil del Estado de Coahuila. Estará facultado, además, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+IX.- Otorgar al Director General o a personas distintas a éste, poder general para pleitos y cobranzas y actos de administración, con todas las facultades aún las que requieran poder especial conforme a la Ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila. Estará facultado, además, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito.
 
 El mandato podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas o judiciales;
 
@@ -324,3 +326,9 @@ LIC. ELISEO FRANCISCO MENDOZA BERRUETO
 EL SECRETARIO DE GOBIERNO
 
 LIC. FELIPE A. GONZALEZ RODRIGUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
