@@ -4,7 +4,7 @@ identifier: "COA-ley-para-los-servicios-de-agua-potable-drenaje-y-20984"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-09"
-last_updated: "2001-02-02"
+last_updated: "2006-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO EN LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 9 de febrero de 1993.
 
@@ -293,7 +293,9 @@ III.- Conocer y aprobar, en su caso, el presupuesto anual de egresos y la estima
 
 IV.- Estudiar y aprobar, en su caso, los proyectos de tarifas por concepto de los servicios prestados por el Sistema, así como sus modificaciones;
 
-V.- Otorgar al Gerente del Sistema, o a personas distintas a éste, poderes generales y especiales para pleitos y cobranzas y actos de administración, con todas las facultades, aún las que requieran poder especial conforme a la Ley, en los términos del Artículo 2554 del Código Civil del Distrito Federal, y su correlativo, el Artículo 2448 del Código Civil del Estado de Coahuila, con facultad además, para sustituir sus facultades en materia de actos de administración y pleitos y cobranzas, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito. El mandato podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas o judiciales.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+V.- Otorgar al Gerente del Sistema, o a personas distintas a éste, poderes generales y especiales para pleitos y cobranzas y actos de administración, con todas las facultades, aún las que requieran poder especial conforme a la Ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila, con facultad además, para sustituir sus facultades en materia de actos de administración y pleitos y cobranzas, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito. El mandato podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas o judiciales;
 
 VI.- Sancionar en los términos previstos por el Capítulo Octavo de esta Ley, las infracciones que se cometan en contra de la misma;
 
@@ -950,3 +952,7 @@ P.O. 2 DE FEBRERO DE 2001.
 PRIMERO. El presente decreto ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
