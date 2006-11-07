@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-3730"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-10"
-last_updated: "1995-01-03"
+last_updated: "2006-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 10 de agosto de 1993.
 
@@ -703,7 +703,9 @@ II.- Otorgar y administrar los diversos servicios que compete prestar al Institu
 
 III.- Realizar toda clase de actos o negocios jurídicos, que requiera el buen servicio y gobierno del Instituto, de acuerdo con las estipulaciones contenidas en esta Ley;
 
-IV.- Otorgar, sin perjuicio de la representatividad que se otorga al Director del Instituto, a personas distintas a éste, poderes generales y especiales para pleitos y cobranzas y actos de administración; con todas las facultades, aún las que requieran poder especial conforme a la Ley, en los términos del Artículo 2554 del Código Civil del Distrito Federal y su correlativo, el Artículo 2448 del Código Civil del Estado de Coahuila, con facultades además, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito. El mandato podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas o judiciales;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+IV.- Otorgar, sin perjuicio de la representatividad que se otorga al Director del instituto, a personas distintas a éste, poderes generales y especiales para pleitos y cobranzas y actos de administración; con todas las facultades, aún las que requieran poder especial conforme a la Ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila, con facultades además, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito. El mandato podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas o judiciales;
 
 V.- Suscribir, firmar, endosar, avalar, girar o en cualquier otra forma comprometer al Instituto en cheques, pagarés, letras de cambio o cualquiera otros títulos de crédito, en los términos del Artículo 9º de la Ley General de Títulos y Operaciones de Crédito;
 
@@ -850,3 +852,7 @@ P.O. 3 DE ENERO DE 1995.
 PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
