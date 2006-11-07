@@ -4,7 +4,7 @@ identifier: "COA-ley-del-fondo-de-la-vivienda-para-los-trabajadores-de-la-3876"
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-29"
-last_updated: "1987-03-24"
+last_updated: "2006-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACION AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 29 de abril de 1986.
 
@@ -243,7 +243,9 @@ XII.- Determinar, las cantidades destinadas al financiamiento de los programas h
 
 XIII.- Vigilar y autorizar la ejecución y avance de obra, previo dictamen técnico;
 
-XIV.- Otorgar Poderes Generales para Pleitos y Cobranzas, Actos de Administración y el Dominio, con todas las facultades generales y las especiales que requieran cláusula especial, conforme a la Ley, en los términos del Artículo 2554 del Código Civil para el Distrito y Territorios Federales y para toda la República en materia federal, y su equivalente, el Artículo 2448 del Código Civil del Estado de Coahuila;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XIV.- Otorgar Poderes Generales para Pleitos y Cobranzas, Actos de Administración y de Dominio, con todas las facultades generales y las especiales que requieran cláusula especial, conforme a la Ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila;
 
 XV.- Vigilar el estricto cumplimiento de esta Ley; y
 
@@ -253,9 +255,13 @@ XVI.- Las demás que le sean señaladas en la presente Ley y Reglamentos corresp
 
 Son facultades del Presidente del Consejo de Administración:
 
-I.- Las comprendidas en los Poderes Generales para pleitos y Cobranzas, y para administrar bienes con todas las facultades generales y las especiales que requieran cláusula especial conforme a la Ley, en los términos de los dos primeros párrafos del Artículo 2554 del Código Civil para el Distrito y Territorios Federales y para toda la República en materia Federal y su equivalente el Artículo 2448 del Código Civil del Estado de Coahuila, representando al Organismo ante las autoridades administrativas y judiciales, federales o de los estados y municipios, ante las Juntas de Conciliación y Arbitraje y demás autoridades administrativas, judiciales, del trabajo, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la Ley. Los anteriores poderes y facultades, incluyendo enunciativa y no limitativamente, facultades de interponer y desistirse de toda clase de Juicios y sus incidentes, aún el Amparo, transigir, comprometer en arbitrios, articular y absolver, posiciones, hacer cesión de bienes, recusar y recibir pagos, discutir, celebrar y revisar contratos;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
-II.- Las comprendidas en los poderes generales para actos de dominio, en los términos del tercer párrafo del Artículo 2554 del Código Civil vigente en el Distrito y Territorios Federales y su correlativo el Artículo 2448 para el Estado de Coahuila;
+I.- Las comprendidas en los Poderes Generales para Pleitos y Cobranzas y para Administrar Bienes con todas las facultades generales y las especiales que requieran cláusula especial conforme a la Ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila, representando al Organismo ante las autoridades administrativas y judiciales, federales o de los estados y municipios, ante las Juntas de Conciliación y Arbitraje y demás autoridades administrativas, judiciales, del trabajo, con todas las facultades generales y las especiales que requieren cláusula especial conforme a la Ley. Los anteriores poderes y facultades, incluyendo enunciativa y no limitativamente, facultades de interponer y desistirse de toda clase de Juicios y sus incidentes, aún el Amparo, transigir, comprometer en arbitrios articular y absolver, posiciones, hacer cesión de bienes, recusar y recibir pagos, discutir, celebrar y revisar contratos;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+II.- Las comprendidas en los poderes generales para actos de dominio, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila;
 
 III.- Realizar todas las operaciones inherentes al objeto del Organismo;
 
@@ -1104,3 +1110,7 @@ LIC. ENRIQUE MARTINEZ Y MARTINEZ
 P.O. 24 DE MARZO DE 1987.
 
 EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 7 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
