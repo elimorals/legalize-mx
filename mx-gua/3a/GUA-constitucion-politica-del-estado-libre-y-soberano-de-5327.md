@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2006-06-16"
+last_updated: "2006-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -973,9 +973,21 @@ XX.- Nombrar y remover a sus empleados. Estas facultades las tendrá la Diputaci
 
 XXI.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado de las propuestas que sometan a su consideración, por turnos alternativos, el Gobernador del Estado y el Consejo del Poder Judicial, así como aprobar las solicitudes de licencia de más de seis meses por causa de enfermedad y las renuncias al cargo de Magistrado, cuando éstas sean presentadas al Titular del Poder Ejecutivo del Estado o al Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
-Designar a los Consejeros Magistrados del Poder Judicial en los términos que establece esta Constitución.
+Separar de su cargo, a solicitud del Consejo del Poder Judicial, a los Magistrados que violen de manera grave, en el desempeño de su función, los principios que rigen la función judicial, consagrados en esta Constitución y en la Ley. Para tal efecto, a la solicitud de separación deberá acompañarse un dictamen de evaluación que la justifique elaborado por la Comisión de Evaluación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Separar de su cargo, a solicitud del Pleno del Supremo Tribunal de Justicia, a los Consejeros del Poder Judicial que violen de manera grave, en el desempeño de su función, los principios que rigen la función judicial, consagrados en esta Constitución y la Ley. Para tal efecto, a la solicitud de separación deberá acompañarse un dictamen de evaluación que la justifique elaborado por la Comisión de Evaluación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Designar a los Magistrados Supernumerarios a propuesta del Pleno del Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Designar a los Consejeros del Poder Judicial en los términos que establece esta Constitución.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -1257,7 +1269,9 @@ Nombrar al Procurador General de Justicia en los términos de esta Constitución
 
 XII.- Proponer por ternas al Congreso del Estado la aprobación de los Magistrados que integrarán el Supremo Tribunal de Justicia del Estado, en los turnos que le correspondan en los términos de Ley.
 
-Proponer al Congreso del Estado la terna para la designación del Consejero Magistrado que integre el Consejo del Poder Judicial;
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Proponer al Congreso del Estado, la terna para la designación de Consejero que integre el Consejo del Poder Judicial. Emitir dictamen sobre la propuesta de reelección o de no reelección de un Magistrado cuando le corresponda atendiendo al origen de la propuesta de designación del mismo fundado en el dictamen de evaluación que emita la Comisión de Evaluación.
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -1367,15 +1381,35 @@ Para la defensa de los derechos de los particulares frente a los actos de las au
 
 #### SECCION SEGUNDA. DE LOS JUECES DE PARTIDO Y DE LOS JUECES MENORES Y DE LOS TRIBUNALES ESPECIALIZADOS EN LA IMPARTICION DE JUSTICIA PARA ADOLESCENTES
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 83.
 
 El Supremo Tribunal de Justicia funcionará en Pleno o en Salas. Las sesiones del Pleno en las que se discutan y decidan los asuntos jurisdiccionales serán públicas.
 
-El Poder Judicial contará con un Consejo que tendrá a su cargo la carrera judicial y será el órgano encargado de la administración, capacitación y disciplina; estará integrado por cinco miembros: el Presidente del Supremo Tribunal de Justicia que también presidirá el Consejo, un Juez de Partido que será insaculado de entre quienes cuenten con una experiencia de cinco años cuando menos y reúnan los requisitos que establezca la Ley, dos Consejeros Magistrados, designados por el Congreso de entre las ternas que para tal efecto presenten el Poder Ejecutivo y el Pleno del Supremo Tribunal de Justicia, respectivamente y, un Consejero Magistrado designado por el Congreso del Estado. Los Consejeros Magistrados, salvo su Presidente, durarán cuatro años en su cargo, serán sustituidos cada año de manera escalonada y no podrán ser nombrados para un nuevo período.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
-El Consejo del Poder Judicial funcionará en pleno; las decisiones que se refieran a cuestiones disciplinarias, de designación, adscripción y sanciones administrativas de los servidores públicos judiciales podrán ser recurridas ante el Pleno del Supremo Tribunal de Justicia.
+El Poder Judicial contará con un Consejo que será el órgano de administración general, tendrá a su cargo la carrera judicial, la capacitación, disciplina y evaluación de los servidores públicos del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+El Consejo del Poder Judicial estará integrado por cinco miembros, uno de los cuales será el Presidente del Supremo Tribunal de Justicia, que también presidirá el Consejo; un Juez de Partido, que será aquel que cuente con la mejor calificación de acuerdo con el dictamen de evaluación que para el efecto se emita por el Pleno del Consejo en términos de ley; dos Consejeros designados por el Congreso del Estado de entre las ternas que para tal efecto presenten el Poder Ejecutivo y el Pleno del Supremo Tribunal de Justicia, respectivamente; y un Consejero designado por el Congreso del Estado. Los Consejeros, salvo su Presidente, durarán cuatro años en el cargo, serán sustituidos cada año de manera escalonada y no podrán ser nombrados para el periodo inmediato siguiente.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Los Consejeros del Poder Judicial deberán reunir los requisitos previstos en el artículo 86 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+El Consejo del Poder Judicial funcionará en Pleno; las decisiones que se refieran a cuestiones disciplinarias, de designación, adscripción y sanciones administrativas de los servidores públicos judiciales podrán ser recurridas ante el Pleno del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Tratándose de Magistrados el procedimiento disciplinario se tramitará y resolverá por el Pleno del Consejo. De los recursos que conforme a la Ley se interpusieran conocerá el Pleno del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+La evaluación de los Magistrados y Consejeros estará a cargo de una Comisión de Evaluación, que se integrará por dos Magistrados del pleno del Supremo Tribunal de Justicia, dos Consejeros y el Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial. El funcionamiento de la Comisión de Evaluación se determinará en la Ley.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1383,15 +1417,23 @@ El Consejo del Poder Judicial funcionará en pleno; las decisiones que se refier
 
 El Supremo Tribunal de Justicia se compondrá del número de Magistrados Propietarios o Supernumerarios que determine el Consejo del Poder Judicial.
 
-En la primera sesión de enero de cada dos años el Pleno del Supremo Tribunal de Justicia, elegirá de entre sus miembros al Presidente, el cual podrá ser reelecto para un período más.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+En la primera sesión de enero de cada dos años el Pleno del Supremo Tribunal de Justicia, elegirá un Presidente de entre sus miembros, en los términos previstos en la ley. El Presidente podrá ser reelecto sólo para un período más.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+No podrá ser electo para ejercer el cargo de Presidente del Supremo Tribunal de Justicia el Magistrado cuyo nombramiento concluya en el periodo en el que habrá de designarse dicho cargo.
 
 El Presidente del Supremo Tribunal de Justicia rendirá ante el Pleno y ante el Consejo del Poder Judicial un informe anual de labores en la última sesión del mes de diciembre.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 85.
 
-Las faltas de los Magistrados por licencia serán cubiertas por el Magistrado Supernumerario que designe el Pleno del Supremo Tribunal de Justicia. Tratándose de separación definitiva se hará nuevo un nombramiento conforme al artículo 87 de esta Constitución.
+Las faltas temporales de los Magistrados serán cubiertas por el Magistrado Supernumerario que determine el Pleno del Supremo Tribunal de Justicia, de conformidad con lo que se establezca en la Ley Orgánica del Poder Judicial. Tratándose de separación definitiva se hará un nuevo nombramiento conforme al artículo 87 de esta Constitución.
+
+El Pleno del Supremo Tribunal de Justicia propondrá al Congreso del Estado en ternas la designación de Magistrados Supernumerarios de entre los Jueces de Partido que reúnan los requisitos del artículo 86 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1411,19 +1453,35 @@ V.- Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 VI.- Haber residido en el Estado durante los últimos cinco años, salvo el caso de ausencia en servicio de la República o del Estado.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 87.
 
-Los Magistrados del Supremo Tribunal de Justicia durarán en su cargo siete años, podrán ser ratificados y si lo fueren, sólo serán removidos de su cargo en los términos del artículo 126 de esta Constitución y de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los Magistrados del Supremo Tribunal de Justicia durarán en su cargo siete años y podrán ser reelectos.
+
+Los Magistrados perderán el cargo en los siguientes supuestos:
+
+I.- Por incurrir en responsabilidad en los términos del artículo 126 de esta Constitución y de la Ley;
+
+II.- Por retiro forzoso, al cumplir 75 años de edad o por haber tenido el carácter de Magistrado Propietario por un lapso continuo de 14 años;
+
+III.- Por violación grave a los principios que rigen la función judicial, de acuerdo al dictamen de evaluación, en los términos de esta Constitución y la Ley; o
+
+IV.- Por enfermedad o incapacidad física que les impida ejercer el cargo.
 
 Los Magistrados recibirán un haber de retiro en los términos, cuantía y condiciones que señale la Ley.
 
-El Congreso del Estado por el voto de las dos terceras partes de los miembros presentes del Pleno hará la designación de Magistrados al Supremo Tribunal de Justicia de entre las ternas, que por turnos alternativos, presenten el Gobernador del Estado y el Consejo del Poder Judicial.
+Los Magistrados que terminen su período podrán optar por recibir el haber de retiro o bien adquirir la calidad de Juez de Partido, en los términos de Ley, pasado el término de un año a partir de la fecha de conclusión de su cargo. En éste último caso, no podrán ser designados para el cargo de Magistrado.
 
-En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado o el Consejo del Poder Judicial someterán una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador o el Consejo del Poder Judicial, según corresponda, siempre y cuando se satisfagan los requisitos que exigen para tal efecto esta Constitución y la Ley.
+El Congreso del Estado por el voto de las dos terceras partes de los miembros presentes del Pleno hará la designación de Magistrados al Supremo Tribunal de Justicia de entre las ternas, que por turnos alternativos, presenten el Gobernador del Estado y el Consejo del Poder Judicial, y de los Magistrados Supernumerarios, de las ternas que presente el Pleno del Supremo Tribunal de Justicia. La misma votación calificada se requerirá para separar y reelegir en su cargo a los Magistrados.
+
+En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado, el Consejo del Poder Judicial o el Pleno del Supremo Tribunal de Justicia, someterán una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador, el Consejo del Poder Judicial o el Pleno del Supremo Tribunal de Justicia, según corresponda, siempre y cuando se satisfagan los requisitos que exigen para tal efecto esta Constitución y la Ley.
 
 Los Magistrados Supernumerarios podrán ser considerados en las ternas para nombrar Magistrados Propietarios cuando reúnan los requisitos de Ley.
+
+El Gobernador del Estado o el Consejo del Poder Judicial, según corresponda al origen de la propuesta, podrán proponer la reelección de un Magistrado en los términos de esta Constitución y la Ley.
+
+Sólo podrán ser reelectos los Magistrados que de acuerdo al dictamen de evaluación, hayan actuado en su primer cargo, con estricto apego a los principios que rigen la función judicial y que son los de independencia judicial, imparcialidad, eficiencia, eficacia, legalidad, excelencia profesional, honestidad invulnerable, diligencia, celeridad, honradez, veracidad, objetividad, competencia, honorabilidad, lealtad, probidad y rectitud.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1439,7 +1497,9 @@ Las facultades y obligaciones del Pleno del Supremo Tribunal de Justicia son:
 
 I.- Iniciar Leyes o decretos relacionados con la impartición de justicia;
 
-II.- Proponer al Congreso del Estado la terna para designación de Consejeros Magistrados que integrarán el Consejo del Poder Judicial. Los propuestos deberán ser personas que no pertenezcan al Poder Judicial;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+II.- Proponer al Congreso del Estado la terna para designación de Consejeros que integrarán el Consejo del Poder Judicial. Los propuestos deberán ser personas que no pertenezcan al Poder Judicial.
 
 III.- Conocer en los juicios civiles y penales, de las instancias y recursos que sean de su competencia de conformidad con las leyes;
 
@@ -1461,11 +1521,11 @@ XI.- Conocer de las contradicciones entre las tesis contenidas en las resolucion
 
 XII.- Conocer y resolver los recursos contra las resoluciones que dicte el Consejo del Poder Judicial de conformidad con lo dispuesto en esta Constitución;
 
-XIII.- Aprobar anualmente el anteproyecto de presupuesto de egresos del Poder Judicial que le presente el Consejo del Poder Judicial;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+XIII.- Designar a los dos Magistrados que integrarán la Comisión de Evaluación, prevista en el último párrafo del artículo 83; así como proponer al Congreso del Estado la separación del cargo de un Consejero que viole de manera grave los principios que rigen la función judicial de acuerdo al dictamen de evaluación a que se refiere la fracción XXIII del artículo 90;
 
-XIV.- Presentar al Congreso del Estado, la Cuenta Pública del Poder Judicial, trimestralmente y su concentrado anual, en la forma y términos que establezca la Ley;
+XIV.- (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2006)
 
 > <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -1487,9 +1547,7 @@ Quedan excluidos los conflictos o acciones de carácter electoral.
 
 El procedimiento se substanciará conforme lo disponga la Ley;
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2003)</small>
-
-XVI.- Nombrar al Titular del órgano encargado de la mediación y conciliación; y
+XVI.- (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2006)
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
 
@@ -1521,7 +1579,9 @@ VIII.- Aumentar o disminuir el número de salas previa opinión del Pleno del Su
 
 IX.- Aumentar o diminuir (sic) el número de juzgados, determinar su organización y funcionamiento y crear o suprimir plazas de servidores públicos del Poder Judicial;
 
-X.- Determinar la adscripción de los jueces y del personal de los juzgados, dar curso a las renuncias que se presenten y decidir el cese de jueces;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+X.- Determinar la adscripción y cambio de adscripción de los jueces y del personal de los juzgados, dar curso a las renuncias que se presenten y decidir el cese de jueces;
 
 XI.- Imponer a los servidores públicos judiciales las sanciones que procedan conforme a la Ley, previa garantía de audiencia y defensa;
 
@@ -1541,9 +1601,55 @@ XVIII.- Ejercer el presupuesto de egresos y el fondo auxiliar para la impartici�
 
 XIX.- Informar trimestralmente al Pleno del Supremo Tribunal de Justicia sobre el ejercicio del presupuesto de egresos y del fondo auxiliar para la impartición de justicia;
 
-XX.- Inspeccionar, fiscalizar y vigilar el funcionamiento de los juzgados y la conducta de los jueces; y
+XX.- Inspeccionar, fiscalizar y vigilar el funcionamiento de los juzgados y la conducta de los jueces; y (sic)
 
-XXI.- Las demás que le señalen las Leyes.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXI.- Designar a los dos Consejeros que integrarán la Comisión de Evaluación, prevista en el último párrafo del artículo 83;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXII.- Establecer, con arreglo a la Ley, los criterios, lineamientos y procedimientos para el desempeño y la evaluación de los servidores públicos del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXIII.- Realizar el seguimiento constante y permanente de la actuación de los servidores judiciales, así como expedir el dictamen de evaluación correspondiente en términos de Ley. Excepto respecto de los Magistrados, cuya evaluación estará a cargo de la Comisión de Evaluación prevista en el último párrafo del artículo 83;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXIV.- Ordenar la práctica de auditorias de desempeño, calidad, administrativas y financieras en los Juzgados del Poder Judicial; así como en los órganos administrativos del Poder Judicial. Las Salas serán evaluadas por la Comisión de Evaluación en los términos de esta Constitución;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXV.- Resolver sobre la procedencia de la propuesta de reelección o de no reelección de un Magistrado, cuando le corresponda, atendiendo al origen de la propuesta de designación del mismo, fundándose en el dictamen que emita la Comisión de Evaluación;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXVI.- Informar periódicamente al Poder Ejecutivo sobre el resultado de la evaluación continua del desempeño de Magistrados que emita la Comisión de Evaluación, cuya propuesta de designación le haya correspondido, a efecto de que determine proponer o no su reelección;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXVII.- Informar periódicamente al Pleno del Supremo Tribunal de Justicia, al Congreso del Estado o al Poder Ejecutivo, sobre el resultado de la evaluación continua del desempeño de los Consejeros del Poder Judicial, que emita la Comisión de Evaluación, atendiendo al origen de designación;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXVIII.- Proponer al Congreso del Estado, cuando por el origen de la propuesta así corresponda, la reelección de un Magistrado;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXIX.- Proponer al Congreso del Estado la separación del cargo de un Magistrado que viole de manera grave los principios que rigen la función judicial de acuerdo al dictamen de evaluación a que se refiere la fracción XXIII de este artículo;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXX.- Nombrar y remover al titular del Órgano encargado de la Mediación y la Conciliación y al titular del Órgano de Administración. Ambos durarán en su cargo 3 años y sólo podrán ser designados por otro periodo consecutivo;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXXI.- Presentar trimestralmente al Congreso del Estado, la Cuenta Pública del Poder Judicial y su concentrado anual, en la forma y términos que establezca la Ley; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXXII.- Las demás que le señalen las leyes.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1551,13 +1657,13 @@ XXI.- Las demás que le señalen las Leyes.
 
 El Poder Judicial administrará con autonomía su presupuesto. El Consejo del Poder Judicial elaborará el anteproyecto de presupuesto del Poder Judicial y lo someterá a la aprobación del Pleno. Este será remitido por el Presidente del Supremo Tribunal de Justicia para su inclusión en el proyecto de Presupuesto de Egresos del Estado. El anteproyecto de Presupuesto comprenderá los ingresos propios del Poder Judicial para la constitución del Fondo Auxiliar para la impartición de Justicia.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 92.
 
-Los Magistrados, los Consejeros Magistrados, los Jueces, los Secretarios y los Actuarios del Poder Judicial no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes sin limitación de grado, ni desempeñar otro cargo o empleo público o privado, a excepción de los docentes.
+Los Magistrados, los Consejeros, los Jueces, los Secretarios y los Actuarios del Poder Judicial no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes sin limitación de grado, ni desempeñar otro cargo o empleo público o privado, a excepción de los docentes.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 #### SECCION PRIMERA. DE LOS AYUNTAMIENTOS
 
@@ -1565,11 +1671,17 @@ Los Magistrados, los Consejeros Magistrados, los Jueces, los Secretarios y los A
 
 ###### ARTICULO 93.
 
-La Ley Orgánica del Poder Judicial establecerá:
+La Ley Orgánica del Poder Judicial, establecerá:
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 I.- La independencia de los Magistrados y Jueces en el ejercicio de sus funciones jurisdiccionales;
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 II.- La estructura, integración, competencia y funcionamiento del Pleno del Supremo Tribunal de Justicia;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 III.- La organización, competencia y funcionamiento de las Salas;
 
@@ -1581,23 +1693,47 @@ IV.- La organización, competencia y funcionamiento de los Juzgados de Partido, 
 
 V.- Las atribuciones del Presidente, de los Magistrados, de los Jueces, de los Tribunales Especializados en la Impartición de Justicia para Adolescentes, del Consejo del Poder Judicial y de los demás servidores públicos;
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 VI.- Los términos en que será obligatoria la jurisprudencia que establezca el Pleno del Supremo Tribunal de Justicia sobre interpretación de las Leyes, así como los requisitos para su interrupción o modificación;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 VII.- Las obligaciones que deben cumplir los servidores públicos del Poder Judicial y sus responsabilidades, a fin de salvaguardar la imparcialidad, legalidad, honradez, independencia, veracidad, lealtad, celeridad, eficiencia y eficacia en el desempeño de sus funciones; las sanciones disciplinarias que deban imponerse a quienes incumplan sus obligaciones; el procedimiento y los recursos que procedan contra las resoluciones que se dicten, así como la competencia respectiva de cada órgano;
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 VIII.- La carrera judicial que fijará el catálogo de puestos, las bases para el ingreso, permanencia y ascenso de los servidores públicos del Poder Judicial, así como su capacitación, especialización y actualización;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 IX.- La observancia de los principios de excelencia, objetividad, imparcialidad, rectitud, probidad e independencia que regirán la carrera judicial;
 
-X.- La forma de constituir el fondo auxiliar para la impartición de justicia, sus objetivos y la forma en que se manejará; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-XI.- La organización y funcionamiento de la Comisión Sustanciadora que tramite el procedimiento y formule el dictamen a partir del cual el Pleno del Supremo Tribunal de Justicia resolverá los conflictos laborales suscitados entre el Poder Judicial y sus servidores.
+X.- La forma de constituir el fondo auxiliar para la impartición de justicia, sus objetivos y la forma en que se manejará; y (sic)
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+XI.- La organización y funcionamiento de la Comisión Sustanciadora que tramite el procedimiento y formule el dictamen a partir del cual el Pleno del Supremo Tribunal de Justicia resolverá los conflictos laborales suscitados entre el Poder Judicial y sus servidores;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XII.- Las normas, criterios y procedimientos para la evaluación de jueces y Magistrados del Supremo Tribunal de Justicia, así como de los Consejeros del Poder Judicial y demás servidores judiciales.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 94.
 
-Los Jueces de Partido, los Jueces Menores y los titulares de los Tribunales Especializados en la Impartición de Justicia para Adolescentes, serán nombrados por el Consejo del Poder Judicial, atendiendo a lo dispuesto por la fracción VI del artículo 90 de esta Constitución.
+Los Jueces de Partido, los Jueces Menores y los titulares de los Tribunales Especializados en la Impartición de Justicia para Adolescentes, serán nombrados por el Consejo del Poder Judicial atendiendo a las normas y procedimientos de la carrera judicial. Una vez nombrados, podrán ser removidos de su cargo:
+
+I.- Por la comisión de faltas administrativas que lo ameriten conforme a la Ley;
+
+II.- Por determinación del Consejo del Poder Judicial, que se funde en la inobservancia de los principios que rigen a la función judicial consignados en esta Constitución y en la Ley;
+
+III.- Por enfermedad o incapacidad física que les impida ejercer el cargo; o
+
+IV.- Por incurrir en responsabilidad en los términos de esta Constitución y de la Ley.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2836,3 +2972,13 @@ Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguient
 Artículo Segundo. El sistema a que se refiere el artículo 13 que se reforma mediante el presente operará a partir del 12 doce de septiembre del año 2006 dos mil seis.
 
 Artículo Tercero. En la Ley se precisará la situación jurídica que deberá corresponder a las personas que encontrándose bajo los supuestos a que se contrae el presente decreto, estén siendo objeto de tratamiento previsto por la Ley de Justicia para Menores; de averiguación previa; de proceso judicial o de ejecución de sentencia, en el momento en que entre en vigor dicha Ley.
+
+P.O. 7 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los procedimientos para la evaluación de Magistrados a cargo de la Comisión prevista en el párrafo último del artículo 83, no podrán iniciar hasta en tanto no se reforme la Ley Orgánica del Poder Judicial del Estado de Guanajuato.
+
+Artículo Tercero.- El Congreso del Estado habrá de aprobar las adecuaciones a la Ley Orgánica del Poder Judicial del Estado de Guanajuato, a más tardar antes del 31 de diciembre de 2006.
+
+Artículo Cuarto.- Los Consejeros Magistrados que actualmente integran el Consejo del Poder Judicial asumirán las facultades y las obligaciones que en este Decreto se otorgan a los integrantes del Consejo del Poder Judicial.
