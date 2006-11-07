@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-para-el-estado-de-coahuila-de-12610"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-23"
-last_updated: "2006-03-11"
+last_updated: "2006-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de enero de 1998.
 
@@ -795,7 +795,9 @@ V.- Conocer los convenios y contratos que el Sistema celebre con la federación,
 
 VI.- Planear y autorizar la gestión de los créditos que requieran el Sistema para su adecuado funcionamiento;
 
-VII.- Otorgar al Director General o a personas distintas a éste, poder general para pleitos y cobranzas y actos de administración con todas las facultades aún las que requieran poder especial conforme a la ley, en los términos del artículo 2554 del Código Civil para el Distrito Federal y su correlativo el artículo 2448 del Código Civil del Estado de Coahuila de Zaragoza. Estará facultado además, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+VII.- Otorgar al Director General o a personas distintas a éste, poder general para pleitos y cobranzas y actos de administración con todas las facultades aún las que requieran poder especial conforme a la ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila. Estará facultado además, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito.
 
 El mandato podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas o judiciales;
 
@@ -1194,3 +1196,7 @@ A quienes se les hubiere readecuado la pena de prisión, y sean mayores de dieci
 QUINTO.- Las autoridades penitenciarias y los titulares de los órganos jurisdiccionales, a la entrada en vigor del presente decreto, deberán proveer lo necesario para la cabal aplicación y observancia de las disposiciones contenidas en el presente decreto.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
