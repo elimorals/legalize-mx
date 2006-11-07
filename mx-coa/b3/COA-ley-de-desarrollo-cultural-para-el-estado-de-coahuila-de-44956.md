@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-cultural-para-el-estado-de-coahuila-de-44956"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-29"
-last_updated: "2005-04-29"
+last_updated: "2006-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 29 de abril del 2005.
 
@@ -1131,7 +1131,9 @@ V. Examinar y aprobar, en su caso, los estados financieros mensuales, los balanc
 
 VI. Conocer y aprobar los reglamentos internos del organismo.
 
-VII. Otorgar al director general o a persona distinta a éste, poder general para actos de dominio, con todas las facultades, aun las que requieren poder especial conforme a la ley, en los términos del artículo 2448 del Código Civil y su correlativo, el tercer párrafo del artículo 2554 del Código Civil para el Distrito Federal. Estará facultado, además, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito. El mandato podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas o judiciales.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+VII. Otorgar al Director General o a persona distinta a éste, poder general para actos de dominio, con todas las facultades, aun las que requieren poder especial conforme a la ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila, estará facultado, además, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito. El mandato podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas o judiciales.
 
 VIII. Conocer de las presuntas violaciones a los derechos culturales en los términos del Capítulo Tercero del Título Cuarto de esta ley.
 
@@ -1163,7 +1165,9 @@ II. Dirigir, administrar y representar al Instituto en los actos jurídicos, adm
 
 III. Coordinarse con las dependencias federales, estatales y municipales, a fin de diseñar una política cultural integral y coherente en beneficio de los coahuilenses.
 
-IV. Representar legalmente al Instituto, con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas y actos de administración, aún los que requieran cláusula especial en los términos el artículo 2448 del Código Civil. Podrá, asimismo, otorgar y revocar poderes generales y especiales. Tratándose de actos de dominio se requerirá poder especial para su objeto, conferido por la junta directiva.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+IV.- Representar legalmente al instituto, con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas y actos de administración, aún los que requieran cláusula especial en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila. Podrá, asimismo, otorgar y revocar poderes Generales y especiales. Tratándose de actos de dominio se requerirá poder especial para su objeto, conferido por la junta directiva.
 
 V. Nombrar y remover al personal del Instituto.
 
@@ -1324,3 +1328,9 @@ LA SECREARIA DE LA CONTRALORÍA Y MODERNIZACIÓN ADMINISTRATIVA
 C.P. INÉS GARZA ORTA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
