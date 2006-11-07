@@ -4,7 +4,7 @@ identifier: "COA-ley-para-los-servicios-de-agua-potable-drenaje-y-20984"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-09"
-last_updated: "2001-02-02"
+last_updated: "2006-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,251 @@ state: "COA"
 ---
 # LEY PARA LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO EN LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY PARA LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO EN LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE DICIEMBRE DE 1993.
 
-Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 9 de febrero de 1993.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
-EL C. LIC. ELISEO FRANCISCO MENDOZA BERRUETO, GOBERNADOR DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, DECRETA
+JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-N U M E R O: 166
+Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 
-LEY PARA LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO EN LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA.
+DECRETO
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+"El Congreso de los Estados Unidos Mexicanos, decreta:
+
+LEY DEL IMPUESTO AL VALOR AGREGADO
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+###### ARTICULO 1o.
+
+Están obligadas al pago del impuesto al valor agregado establecido en esta Ley, las personas físicas y las morales que, en territorio nacional, realicen los actos o actividades siguientes:
+
+I.- Enajenen bienes.
+
+II.- Presten servicios independientes.
+
+III.- Otorguen el uso o goce temporal de bienes.
+
+IV.- Importen bienes o servicios.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+El impuesto se calculará aplicando a los valores que señala esta Ley, la taza (sic) del 10 %. El impuesto al valor agregado en ningún caso se considerará que forma parte de dichos valores.
+
+El contribuyente trasladará dicho impuesto, en forma expresa y por separado, a las personas que adquieran los bienes, los usen o gocen temporalmente, o reciban los servicios. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas de un monto equivalente al impuesto establecido en esta Ley.
+
+El contribuyente pagará en las oficinas autorizadas la diferencia entre el impuesto a su cargo y el que le hubieran trasladado o el que él hubiese pagado en la importación de bienes o servicios, siempre que sean acreditables en los términos de esta Ley.
+
+El traslado del impuesto a que se refiere este artículo no se considerará violatorio de precios o tarifas, incluyendo los oficiales.
+
+###### ARTICULO 2o.
+
+(DEROGADO, D.O.F. 21 DE NOVIEMBRE DE 1991)
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+###### ARTICULO 2o.-A.
+
+El impuesto se calculará aplicando la tasa del 0% a los valores a que se refiere esta Ley, cuando se realicen los actos o actividades siguientes:
+
+I.- La enajenación de:
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+a).- Animales y Vegetales que no estén industrializados, salvo el hule.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+b).- Los siguientes bienes:
+
+1.- Carne en estado natural;
+
+2.- Leche y sus derivados y huevo, cualquiera que sea su presentación;
+
+3.- Harina de maíz y de trigo y nixtamal;
+
+4.- Pan y tortillas de maíz y de trigo;
+
+5.- Aceite vegetal comestible, manteca vegetal y animal;
+
+6.- Pastas alimenticias para sopa, excluyendo las enlatadas;
+
+7.- Café, sal común, azúcar, mascabado y piloncillo.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+c).- Hielo y agua no gaseosa ni compuesta, excepto cuando en este último caso, su presentación sea en envases menores de diez litros.
+
+d).- Ixtle, palma y lechuguilla.
+
+e).- Tractores para accionar implementos agrícolas, a excepción de los de oruga; motocultores para superficies reducidas; arados; rastras para desterronar la tierra arada; cultivadoras para esparcir y desyerbar; cosechadoras; aspersoras y espolvoreadoras para rociar o esparcir fertilizantes, plaguicidas, herbicidas y fungicidas; equipo mecánico, eléctrico o hidráulico para riego agrícola; sembradoras, ensiladoras, cortadoras y empacadoras de forraje; desgranadoras; abonadoras y fertilizadoras de terrenos de cultivo; aviones fumigadores; motosierras manuales de cadena, así como embarcaciones para pesca comercial, siempre que se reúnan los requisitos y condiciones que señale el Reglamento.
+
+A la enajenación de la maquinaria y del equipo a que se refiere este inciso, se les aplicará la tasa señalada en este artículo, sólo que se enajenen completos.
+
+f).- Fertilizantes, plaguicidas, herbicidas y fungicidas, siempre que estén destinados para ser utilizados en la agricultura o ganadería.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+Se aplicará la tasa que establece el artículo 1o. a la enajenación de los alimentos a que se refiere el presente artículo preparados para su consumo en el lugar o establecimiento en que se enajenen, inclusive cuando no cuenten con instalaciones para ser consumidos en los mismos.
+
+II.- La prestación de los siguientes servicios independientes:
+
+a).- Los prestados directamente a los agricultores y ganaderos, siempre que sean destinados para actividades agropecuarias, por concepto de perforaciones de pozos, alumbramiento y formación de retenes de agua; suministro de energía eléctrica para usos agrícolas aplicados al bombeo de aguas para riego; desmontes y caminos en el interior de las fincas agropecuarias; preparación de terrenos; riego y fumigación agrícolas; cosecha y recolección; vacunación, desinfección e inseminación de ganado, así como los de captura y extracción de especies marinas y de agua dulce.
+
+b).- Los de molienda o trituración de maíz o de trigo.
+
+c).- Los de pasteurización de leche.
+
+III.- El uso o goce temporal de la maquinaria y equipo a que se refiere el inciso e) de la fracción I de este artículo.
+
+IV.- La exportación de bienes o servicios, en los términos del artículo 29 de esta Ley.
+
+Los actos o actividades a los que se les aplica la tasa del 0%, producirán los mismos efectos legales que aquellos por los que se deba pagar el impuesto conforme a esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+###### ARTICULO 2o.-B.
+
+El Impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 6%, cuando se realice la enajenación e importación de:
+
+I.- Los productos destinados a la alimentación a excepción de:
+
+a).- Bebidas distintas de la leche.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+b).- Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos, así como los concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+c).- Los que le sea aplicable la tasa del 0 %
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+d).- Caviar, salmón ahumado y angulas.
+
+II.- Medicinas de patente.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+Se aplicará la tasa que establece el artículo 1o. a la enajenación de los alimentos a que se refiere el presente artículo preparados para su consumo en el lugar o establecimiento en que se enajenen, inclusive cuando no cuenten con instalaciones para ser consumidos en los mismos.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+###### ARTICULO 2o-C.
+
+Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos por estas actividades y tenido o utilizado activos que no excedan, respectivamente, de una cantidad equivalente a 77 y 15 veces el salario mínimo general del área geográfica del contribuyente elevado al año. El valor de los activos se determinará de conformidad con la Ley del Impuesto al Activo.
+
+Asimismo, estarán sujetos a lo previsto en este artículo las personas físicas que se dediquen a actividades agrícolas, silvícolas o pesqueras, no obstante que la totalidad o parte de sus actos o actividades no las realicen con el público en general, debiendo reunir, en todo caso, los requisitos de los límites de ingresos y activos a que se refiere el párrafo anterior.
+
+Los contribuyentes a que se refiere este artículo estarán obligados a recabar y conservar la documentación comprobatoria de las adquisiciones que efectúen.
+
+###### ARTICULO 2o.- D.
+
+(DEROGADO, D.O.F. 21 DE NOVIEMBRE DE 1991)
+
+###### ARTICULO 3o.
+
+La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados, las instituciones y asociaciones de beneficencia privada, las sociedades cooperativas o cualquiera otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación a que se refiere el artículo primero y, en su caso, pagar el impuesto al valor agregado y trasladarlo, de acuerdo con los preceptos de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos, salvo en el caso de los derechos por el servicio, uso, suministro o aprovechamiento de agua.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+Para los efectos de este impuesto, se consideran residentes en territorio nacional, además de los señalados en el Código Fiscal de la Federación, las personas físicas o las morales residentes en el extranjero que tengan uno o varios establecimientos en el país, por todos los actos o actividades que en los mismos realicen.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+###### ARTICULO 4o.
+
+El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley, la tasa que corresponda según sea el caso. Se entiende por impuesto acreditable un monto equivalente al del impuesto al valor agregado que hubiera sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación de bienes o servicios, en el mes o en el ejercicio al que corresponda.
+
+Para que sea acreditable el impuesto al valor agregado deberán reunirse los siguientes requisitos:
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+I.- Que corresponda a bienes o servicios estrictamente indispensables para la realización de actos distintos de la importación, por los que se deba pagar el impuesto establecido en esta Ley o a los que se les aplique la tasa del 0 %. Para los efectos de esta Ley, se consideran estrictamente indispensables las erogaciones efectuadas por el contribuyente que sean deducibles para los fines del impuesto sobre la renta, aun cuando no se esté obligado al pago de este último impuesto. Tratándose de erogaciones parcialmente deducibles para fines del impuesto sobre la renta, únicamente será acreditable el impuesto trasladado en la proporción en que dichas erogaciones sean deducibles para fines del citado impuesto sobre la renta.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+El impuesto trasladado al contribuyente correspondiente a los gastos efectuados con motivo de la importación, se podrá acreditar en la proporción en que sea acreditable el impuesto pagado en esa importación.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+Tratándose de inversiones o gastos en períodos preoperativos, se podrá estimar el destino de los mismos y acreditar el impuesto que corresponda a las actividades por las que se vaya a estar obligado al pago del impuesto. Si de dicha estimación resulta diferencia de impuesto por error en el cálculo de gastos o inversiones, que no exceda del 10% del impuesto pagado, no se cobrarán recargos cobrarán recargos (sic), siempre que el pago se efectúe espontáneamente.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+Cuando se esté obligado al pago del impuesto al valor agregado o cuando sea aplicable la tasa del 0% sólo por una parte de las actividades, únicamente se acreditará el impuesto correspondiente a dicha parte. Si ésta no fuese identificable, el acreditamiento procederá únicamente en el por ciento que el valor de los actos por los que sí deba pagarse el impuesto o se aplique la tasa del 0%, represente en el valor total de los que el contribuyente realice en su ejercicio.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+II.- Que haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes a que se refiere la fracción III del artículo 32 de esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+III.- Que hayan sido efectivamente erogados los pagos por la adquisición de bienes o servicios de que se trate, en los términos de los artículos 24, fracción IX y 136, fracción X de la Ley del Impuesto sobre la Renta, cuando el impuesto haya sido trasladado por contribuyentes sujetos al régimen establecido en el Título II-A o en la Sección II, del Capítulo VI, del Título IV, de la citada Ley.
+
+El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión de sociedades.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 4o.- A.
+
+Los contribuyentes sujetos al régimen establecido en el Título II-A o en la Sección II del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta, determinarán el impuesto al valor agregado a su cargo considerando como impuesto trasladado y acreditable, el que corresponda a los actos o actividades que hayan considerado como entradas o salidas en la citada Ley. Dichos contribuyentes deberán expedir la documentación comprobatoria de sus actividades en la fecha en que efectivamente se cobren los bienes enajenados o los servicios prestados.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 5o.
+
+El impuesto se calculará por ejercicios fiscales, salvo los casos señalados en el artículo 33 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas por los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el periodo por el que se efectúa el pago, a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que de este impuesto se les solicite, en las declaraciones del impuesto sobre la renta.
+
+Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 6o.
+
+Cuando en la declaración de pago provisional resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Si en la declaración del ejercicio el contribuyente tuviera cantidades a su favor, podrá acreditarlas en declaraciones de pago provisional posteriores o solicitar su devolución total.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones posteriores.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 7o.
+
+El contribuyente que reciba la devolución de bienes enajenados u otorgue descuentos o bonificaciones con motivo de la realización de actos gravados por esta Ley, deducirá en la siguiente o siguientes declaraciones de pagos provisionales el monto de dichos conceptos del valor de los actos o actividades por los que deba pagar el impuesto, siempre que expresamente se haga constar que el impuesto al valor agregado que se hubiere trasladado se cancela o se restituye, según sea el caso.
+
+El contribuyente que reciba el descuento, la bonificación o devuelva los bienes enajenados, disminuirá el impuesto cancelado o restituido de las cantidades acreditables o que tuviere pendientes de acreditamiento. Si no tuviere impuesto pendiente de acreditar del cual disminuir el impuesto cancelado o restituido, lo pagará al presentar la declaración de pago provisional que corresponda al periodo en que reciba el descuento, la bonificación o efectúe la devolución.
 
 ###### ARTICULO 1.
 
@@ -123,339 +353,675 @@ Las fuentes de abastecimiento de agua potable, cuando se trate del uso de aguas 
 
 ###### ARTICULO 10.
 
-Al establecerse los servicios de agua potable, drenaje y alcantarillado en los lugares que carezcan de ellos, se notificará dicha circunstancia a los interesados por medio de publicaciones de carácter general, a efecto de que procedan a realizar los actos necesarios para conectarse a dicho servicio, así como a sujetarse a las disposiciones de esta Ley.
+Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio nacional, si en él se encuentra el bien al efectuarse el envío al adquirente y cuando, no habiendo envío, en el país se realiza la entrega material del bien por el enajenante. La enajenación de bienes sujetos a matrícula o registros mexicanos, se considerará realizada en territorio nacional aún cuando al llevarse a cabo se encuentren materialmente fuera de dicho territorio y siempre que el enajenante sea residente en México o establecimiento en el país de residentes en el extranjero.
+
+Tratándose de bienes intangibles, se considera que la enajenación se realiza en territorio nacional cuando el adquirente y el enajenante residan en el mismo.
 
 ###### ARTICULO 11.
 
-Los usuarios de los servicios de agua potable, drenaje y alcantarillado, estarán obligados a pagar las tarifas que por concepto de la prestación del servicio se establezcan por los organismos correspondientes dentro de los plazos que se fijen para tal efecto. La falta de pago oportuno obligará al usuario a cubrir los recargos en los términos en que se establecen en el Artículo 212 del Código Municipal para el Estado de Coahuila.
+Se considera que se efectúa la enajenación de los bienes en el momento en que se realice cualquiera de los supuestos siguientes:
+
+I.- Se envíe el bien al adquirente. A falta de envío, al entregarse materialmente el bien. No se aplicará esta fracción cuando la persona a la que se envíe o entregue el bien, no tenga obligación de recibirlo o de adquirirlo.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+II.- Se pague parcial o totalmente el precio, salvo en los casos que esta Ley señale.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+III.- Se expida el comprobante que ampare la enajenación.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+Tratándose de certificados de participación, se considera que éstos se enajenan en el momento en que se entreguen materialmente al adquirente los bienes que estos certificados amparen. No quedan comprendidos en este párrafo los certificados de participación inmobiliaria.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 12.
 
-Los servicios de agua potable, drenaje y alcantarillado no podrán ser objeto de exención alguna. Los usuarios particulares, los gobiernos y dependencias o entidades federales, estatales o municipales, instituciones educativas y culturales o de asistencia pública o privada en consecuencia, estarán obligados a su pago.
+Para calcular el impuesto tratándose de enajenaciones se considerará como valor el precio pactado, así como las cantidades que además se carguen o cobren al adquirente por otros impuestos, derechos, intereses normales o moratorios, penas convencionales o cualquier otro concepto. A falta de precio pactado se estará al valor que los bienes tengan en el mercado, o en su defecto al de avalúo.
 
-Cualquier disposición que contravenga lo previsto por el párrafo anterior será nula de pleno derecho e implicará que quien la emita se haga acreedor a que le sea fincada la responsabilidad correspondiente.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+Cuando el precio pactado sea cierto y determinable con posterioridad, el impuesto se pagará hasta que pueda ser determinado; si únicamente parte del precio es determinable con posterioridad, sólo el impuesto correspondiente a dicha parte se diferirá. Los intereses moratorios y penas convencionales, darán lugar al pago del impuesto en el mes en que se paguen.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+En las enajenaciones a plazo en los términos del Código Fiscal de la Federación, se podrá diferir el impuesto de conformidad con el Reglamento de esta Ley. Tratándose de arrendamiento financiero, el impuesto que podrá diferirse en los términos del Reglamento de esta Ley, será el que corresponda al monto de los pagos por concepto de intereses.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Tratándose de pagos anticipados que reciba el enajenante, antes de enviar o entregar materialmente el bien y siempre que el envío o la entrega se realice cuando hayan transcurrido más de tres meses desde el primer anticipo, el impuesto se cubrirá en el momento en que se efectúe cada pago anticipado y sobre el monto del mismo; al enviarse o entregarse el bien, se pagará la diferencia de impuesto que resulte por el total de la operación.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Las cantidades entregadas al enajenante, incluyendo los depósitos, se entenderán pagos anticipados.
 
 ###### ARTICULO 13.
 
-Los adeudos a cargo de los usuarios de los servicios de agua potable, drenaje y alcantarillado, tendrán el carácter de crédito fiscal, para cuyo cobro, los Sistemas, harán uso del procedimiento administrativo de ejecución en los términos del Código Municipal para el Estado.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1980)
 
 ###### ARTICULO 14.
 
-El adquirente, persona física o moral, de un inmueble o negociación que reporte créditos exigibles por concepto de los servicios que son objeto de esta Ley, responderá solidariamente por el pago de ellos, hasta el límite de su monto, incluídos los recargos y las sanciones que procedan.
+Para los efectos de esta Ley se considera prestación de servicios independientes:
 
-Responderán también solidariamente por los créditos a que se refiere el párrafo anterior, hasta el mismo monto, los notarios o corredores públicos, servidores públicos y, en general, cualquier federativo que, facultado por la ley, intervenga para dar fe de dichos actos, a menos que al autorizar la operación de que se trate verifiquen que no existe adeudo alguno por los conceptos a que se refiere este ordenamiento, mediante la exhibición del certificado de no adeudo que para el efecto expida el organismo correspondiente.
+I.- La prestación de obligaciones de hacer que realice una persona a favor de otra, cualquiera que sea el acto que le dé origen y el nombre o clasificación que a dicho acto le den otras leyes.
+
+II.- El transporte de personas o bienes.
+
+III.- El seguro, el reaseguro, el afianzamiento y el reafianzamiento.
+
+IV.- El mandato, la comisión, la mediación, la agencia, la representación, la correduría, la consignación y la distribución.
+
+V.- La asistencia técnica y la transferencia de tecnología.
+
+VI.- Toda otra obligación de dar, de no hacer o de permitir, asumida por una persona en beneficio de otra, siempre que no esté considerada por esta Ley como enajenación o uso o goce temporal de bienes.
+
+No se considera prestación de servicios independientes la que se realiza de manera subordinada mediante el pago de una remuneración, ni los servicios por los que se perciban ingresos que la Ley del Impuesto sobre la Renta asimile a dicha remuneración.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Se entenderá que la prestación de servicios independientes tiene la característica de personal, cuando se trate de las actividades señaladas en este artículo que no tengan la naturaleza de actividad empresarial.
 
 ###### ARTICULO 15.
 
-Los actos y resoluciones relativas a esta Ley se notificarán a los usuarios en los términos establecidos por el Código Municipal para el Estado de Coahuila.
+No se pagará el impuesto por la prestación de los siguientes servicios:
 
-### CAPITULO SEGUNDO. DE LOS SISTEMAS MUNICIPALES DE AGUAS Y SANEAMIENTO
+I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
+
+II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+III.- Los prestados en forma gratuita, excepto cuando los beneficiarios sean los miembros, socios o asociados de la persona moral que preste el servicio.
+
+IV.- Los de enseñanza, que presten los organismos descentralizados y los establecimientos de particulares que tengan autorización o reconocimiento de validez oficial de estudios, en los términos de la Ley Federal de Educación.
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+V.- El transporte público terrestre de personas, excepto por ferrocarril.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+VI.- El transporte marítimo de bienes efectuado por personas no residentes en el país.
+
+VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
+
+VIII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
+
+IX.- El aseguramiento contra riesgos agropecuarios y los seguros de vida, ya sea que cubran el riesgo de muerte u otorguen rentas vitalicias o pensiones, así como las comisiones de agentes y los reaseguros, que correspondan a los seguros citados.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+X.- Por los que deriven intereses que:
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+a).- Deriven de operaciones en las que el enajenante, el prestador del servicio o quien conceda el uso o goce temporal de bienes, proporcione financiamiento relacionado con actos o actividades por los que no se esté obligado al pago de este impuesto o a los que se les aplique la tasa del 0%.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+b).- Reciban o paguen las instituciones de crédito, las uniones de crédito y las empresas de factoraje financiero, en operaciones de financiamiento para las que requieran de autorización y por concepto de descuento en documentos pendientes de cobro, así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+No será aplicable lo dispuesto en el párrafo anterior, tratándose de créditos otorgados a personas físicas que no desarrollen actividades empresariales, o no presten servicios personales independientes, o no otorguen el uso o goce temporal de bienes inmuebles. Tratándose de créditos otorgados a personas que realicen las actividades mencionadas, no se pagará el impuesto cuando los mismos sean para la adquisición de bienes de inversión en dichas actividades.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+Tampoco será aplicable la exención prevista en el primer párrafo de este inciso tratándose de créditos otorgados a través de tarjetas de crédito.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+c).- Reciban las instituciones de fianzas, las de seguros y las sociedades mutualistas de seguros, en operaciones de financiamiento, excepto tratándose de créditos otorgados a personas físicas que no gozarían de la exención prevista en el inciso anterior.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+d).- Provengan de créditos hipotecarios.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+e).- Provengan de cajas de ahorro de los trabajadores, y de fondos de ahorro establecido por las empresas siempre que reúna los requisitos de deducibilidad en los términos de la Ley del Impuesto sobre la Renta.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+f).- Deriven de obligaciones emitidas conforme a lo dispuesto en la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+g).- Reciban o paguen las instituciones públicas que emitan bonos y administren planes de ahorro con la garantía incondicional de pago del Gobierno Federal, conforme a la Ley.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+h).- Deriven de valores a cargo del Gobierno Federal e inscritos en el Registro Nacional de Valores e Intermediarios, siempre que se cumplan los requisitos que para tal efecto señala la fracción XXI del artículo 77 de la Ley del Impuesto sobre la Renta.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+i).- Deriven de títulos de crédito que sean de los que se consideran como colocados entre el gran público inversionista, conforme a las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
+
+XI.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
+
+XII.- Los proporcionados a sus miembros como contraprestación normal por sus cuotas y siempre que los servicios que presten sean únicamente los relativos a los fines que les sean propios, tratándose de:
+
+a).- Partidos, asociaciones, coaliciones y frentes políticos legalmente reconocidos.
+
+b).- Sindicatos obreros y organismos que los agrupen.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+c).- Cámaras de comercio e industria, agrupaciones agrícolas, ganaderas o pesqueras, así como organismos que las reúnan.
+
+d).- Asociaciones patronales y colegios de profesionales.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+e).- Asociaciones o sociedades civiles organizadas con fines científicos, políticos, religiosos y culturales, a excepción de aquéllas que proporcionen servicios con instalaciones deportivas cuando el valor de éstas representen más del 25% del total de las instalaciones.
+
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+XIII.- Los de espectáculos públicos por el boleto de entrada, salvo los de teatro, cine y circo, cuando el convenio con el Estado o Acuerdo con el Departamento del Distrito Federal, donde se presente el espectáculo no se ajuste a lo previsto en la fracción VI del artículo 41 de esta Ley.
+
+No se consideran espectáculos públicos los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+XIV.- Los servicios profesionales de medicina, cuando su prestación requiera título de médico conforme a las leyes, siempre que sean prestados por personas físicas, ya sea individualmente o por conducto de sociedades civiles.
+
+XV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
+
+> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+XVI.- Por los que deriven ingresos de los comprendidos en los artículos 77, fracción XXX, y 141-C de la Ley del Impuesto sobre la Renta.
+
+### CAPITULO II. DE LA ENAJENACION
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 8o.
+
+Para los efectos de esta Ley, se entiende por enajenación, además de lo señalado en el Código Fiscal de la Federación, el faltante de bienes en los inventarios de las empresas. En este último caso la presunción admite prueba en contrario.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+No se considerará enajenación, la transmisión de propiedad que se realice por causa de muerte, así como la donación, salvo que ésta la realicen empresas para las cuales el donativo no sea deducible para los fines del impuesto sobre la renta.
+
+Cuando la transferencia de propiedad no llegue a efectuarse, se tendrá derecho a la devolución del impuesto al valor agregado correspondiente, siempre que se reúnan los requisitos establecidos en el artículo 7o. de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+###### ARTICULO 9o.
+
+No se pagará el impuesto en la enajenación de los siguientes bienes:
+
+I.- El suelo.
+
+II.- Construcciones adheridas al suelo, destinadas o utilizadas para casa habitación. Cuando sólo parte de las construcciones se utilicen o destinen a casa habitación, no se pagará el impuesto por dicha parte. Los hoteles no quedan comprendidos en esta fracción.
+
+III.- Libros, periódicos y revistas, así como el derecho para usar o explotar una obra, que realice su autor.
+
+IV.- Bienes muebles usados, a excepción de los enajenados por empresas.
+
+V .- Billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos o juegos con apuestas y concursos de toda clase, así como los premios respectivos, a que se refiere la Ley del Impuesto sobre la Renta.
+
+VI.- Moneda nacional y moneda extranjera, así como las piezas de oro o de plata que hubieran tenido tal carácter y las piezas denominadas "onza troy”.
+
+VII.- Partes sociales, documentos pendientes de cobro y títulos de crédito, con excepción de certificados de depósito de bienes cuando por la enajenación de dichos bienes se esté obligado a pagar este impuesto. En la enajenación de documentos pendientes de cobro, no queda comprendida la enajenación del bien que ampare el documento.
+
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+VIII.- El oro, así como la joyería, orfebrería, piezas artísticas u ornamentales, cuyo contenido mínimo de dicho material sea del 80%, salvo cuando su enajenación se realice por comerciantes en ventas al menudeo y siempre que se trate de operaciones con el público en general.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 16.
 
-La construcción, rehabilitación, ampliación, administración, operación, conservación y mantenimiento de los sistemas de agua potable, agua desalada, drenaje, alcantarillado y tratamiento de aguas residuales; así como la fijación y el cobro de las tarifas correspondientes en cada municipio, estarán a cargo de los organismos públicos descentralizados de los Municipios del Estado, los cuales tendrán personalidad jurídica y patrimonio propios, y se denominarán "Sistemas Municipales de Aguas y Saneamiento".
+Para los efectos de esta Ley, se entiende que se presta el servicio en territorio nacional cuando en el mismo se lleva a cabo, total o parcialmente, por un residente en el país.
+
+En el caso de transporte internacional, se considera que el servicio se presta en territorio nacional independientemente de la residencia del porteador, cuando en el mismo se inicie el viaje, incluso si éste es de ida y vuelta.
+
+Tratándose de transportación aérea internacional, se considera que únicamente se presta el 25% del servicio en territorio nacional. La transportación aérea a las poblaciones mexicanas en las fronteras del país gozará del mismo tratamiento.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+En el caso de intereses y demás contraprestaciones que paguen residentes en México a los residentes en el extranjero que otorguen crédito a través de tarjetas, se entiende que se presta el servicio en territorio nacional cuando en el mismo se utilice la tarjeta.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 17.
 
-El Decreto que cree los Sistemas Municipales de Aguas y Saneamiento, deberá contener, su estructura, funciones y atribuciones específicas, el número y las reglas para designar a los Consejeros que los integren, así como las normas para su operación, sujetándose para tal efecto a las disposiciones de la presente Ley.
+En la prestación de servicios se tendrá obligación de pagar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas. Entre dichas contraprestaciones quedan incluidos los anticipos que reciba el prestador de servicios. Tratándose de seguros y fianzas, las primas correspondientes darán lugar al pago del impuesto al valor agregado en el mes en que se paguen.
+
+Tratándose de obras de construcción de inmuebles provenientes de contratos celebrados con la Federación, el Distrito Federal, los Estados y los Municipios, se tendrá obligación de pagar el impuesto en el momento en que se paguen las contraprestaciones correspondientes al avance de la obra y cuando se hagan los anticipos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Las cantidades entregadas a quien proporcione el servicio incluyendo los depósitos, se entenderán pagos anticipados.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+En el caso de servicios personales independientes, así como en el caso de derechos por el servicio, uso, suministro o aprovechamiento de agua, se tendrá obligación de pagar el impuesto en el momento en que se paguen las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 18.
 
-Los Sistemas Municipales de Aguas y Saneamiento adoptarán las medidas administrativas necesarias para llevar a cabo la prestación de los servicios que se les atribuyan conforme a lo estipulado en esta Ley.
+Para calcular el impuesto tratándose de prestación de servicios se considerará como valor el total de la contraprestación pactada, así como las cantidades que además se carguen o cobren a quien reciba el servicio por otros impuestos, derechos, viáticos, gastos de toda clase, reembolsos, intereses normales o moratorios, penas convencionales y cualquier otro concepto.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+Tratándose de personas morales que presten servicios preponderantemente a sus miembros, socios o asociados, los pagos que éstos efectúen, incluyendo aportaciones al capital para absorber pérdidas, se considerarán como valor para efecto del cálculo del impuesto.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+En el caso de mutuo y otras operaciones de financiamiento, se considerará como valor los intereses y toda otra contraprestación distinta del principal que reciba al acreedor.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 19.
 
-El patrimonio de los Sistemas Municipales de Aguas y Saneamiento, se constituirá:
-
-I.- Con los bienes y derechos que le sean transferidos por el organismo público descentralizado de la Administración Pública del Estado denominado "Servicios de Agua Potable y Alcantarillado de Coahuila";
-
-II.- Con los remanentes o frutos e intereses, que obtenga de su propio patrimonio, así como de las utilidades que obtenga por el desarrollo de sus actividades;
-
-III.- Con los cobros y recaudaciones que realice por concepto de la prestación de los servicios a su cargo;
-
-IV.- Por las donaciones, herencias y legados que se hagan en su favor; y
-
-V.- Por todos aquellos bienes o derechos que adquiera por cualquier otro título legal.
+Para los efectos de esta Ley se entiende por uso o goce temporal de bienes, el arrendamiento, el usufructo y cualquier otro acto, independientemente de la forma jurídica que al efecto se utilice, por el que una persona permita a otra usar o gozar temporalmente bienes tangibles, a cambio de una contraprestación.
 
 ###### ARTICULO 20.
 
-Los ingresos, así como los demás bienes que integren el patrimonio de los Sistemas, sólo podrán destinarse a los fines del organismo, a efecto de cumplir con la prestación de los servicios públicos objeto de esta Ley.
+No se pagará el impuesto por el uso o goce temporal de los siguientes bienes:
 
-Cualquier acto o disposición que contravenga lo establecido por este artículo, será nulo de pleno derecho y dará lugar a las sanciones y responsabilidades que conforme a Derecho procedan.
+I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1981)
 
-### CAPITULO TERCERO. DE LA ORGANIZACION Y ADMINISTRACION DE LOS SISTEMAS MUNICIPALES DE AGUAS Y SANEAMIENTO
+II.- Inmuebles destinados o utilizados exclusivamente para casa-habitación. Si un inmueble tuviere varios destinos o usos, no se pagará el impuesto por la parte destinada o utilizada para casa-habitación. Lo dispuesto en esta fracción no es aplicable a los inmuebles o parte de ellos que se proporcionen amueblados o se destinen o utilicen como hoteles o casas de hospedaje.
+
+III.- Fincas dedicadas o utilizadas sólo a fines agrícolas o ganaderos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+IV.- Bienes tangibles cuyo uso o goce sea otorgado por residentes en el extranjero sin establecimiento permanente en territorio nacional, por los que se hubiera pagado el impuesto en los términos del artículo 24 de esta Ley.
+
+V.- Libros, periódicos y revistas.
+
+### CAPITULO III. DE LA PRESTACION DE SERVICIOS
 
 ###### ARTICULO 21.
 
-Para el cumplimiento de su objeto, los Sistemas Municipales de Aguas y Saneamiento, tendrán las siguientes atribuciones:
-
-I.- Gestionar y obtener de las autoridades competentes en la materia, los permisos y autorizaciones necesarios para la prestación de los servicios que se les encomiendan, así como coordinar sus operaciones con todas aquellas dependencias y/o entidades que por sus actividades y facultades se relacionen con su objeto;
-
-II.- Proporcionar el servicio de agua potable, drenaje y alcantarillado a los núcleos de población, fraccionamientos y a los particulares asentados en cada municipio de la Entidad, en los términos previstos por esta ley y los convenios y contratos que para tal efecto se celebren;
-
-III.- Operar, conservar, mantener, rehabilitar y ampliar las obras, instalaciones, redes, equipos y demás bienes destinados a la prestación de dichos servicios;
-
-IV.- Planear y programar la realización de obras futuras, que sean necesarias para ampliar y mejorar la prestación de los servicios, a fin de poder atender nuevas demandas de la población;
-
-V.- Solicitar al Ejecutivo del Estado, por causa de utilidad pública la expropiación, la ocupación total o parcial de los bienes de propiedad particular, o la limitación de los derechos de dominio en los términos de la Ley de Expropiación del Estado.
-
-Cuando se requiera disponer de bienes ejidales o comunales para el cumplimiento del objeto que se les asigna, deberá estarse a lo dispuesto en la Ley Agraria;
-
-VI.- Controlar, verificar y vigilar que la prestación y el funcionamiento de los servicios se realice eficaz y adecuadamente;
-
-VII.- Realizar coordinadamente con las dependencias y entidades estatales y federales correspondientes, las acciones y obras necesarias para el control y prevención de la contaminación de aguas y el rehuso de las aguas residuales tratadas, así como para prevenir y, en su caso, corregir el impacto ambiental negativo;
-
-VIII.- Vigilar que los bienes e instalaciones de los sistemas, se encuentren debidamente inventariados y se les dé el uso a que estén destinados;
-
-IX.- Administrar los ingresos provenientes de la operación de los servicios y de los demás bienes que se incorporen a su patrimonio;
-
-X.- Revisar y establecer modificaciones a las tarifas de consumo de agua potable, drenaje y alcantarillado;
-
-XI.- Sufragar todos los gastos de administración, operación, conservación y demás, respecto de los bienes y servicios que se les encomienden;
-
-XII.- Celebrar toda clase de contratos y convenios con autoridades federales, estatales o municipales, con organismos públicos, privados y sociales, así como con particulares, que sean necesarios para el eficaz cumplimiento del objeto que se le señala;
-
-XIII.- Cobrar por la prestación de los servicios que se les encomiendan;
-
-XIV.- Efectuar campañas de promoción y divulgación a fin de que los usuarios conozcan las medidas que deberán adoptar para evitar efectos nocivos al medio ambiente, la organización y problemática en la prestación de los servicios y el cuidado y mantenimiento de los mismos;
-
-XV.- Efectuar estudios y proyectos para dotar y ampliar el suministro de agua potable en el municipio, así como coadyuvar con las autoridades federales y estatales en las actividades o campañas tendientes a prevenir el deterioro y la contaminación ambientales, específicamente las del agua;
-
-XVI.- Adquirir los bienes, maquinaria, equipo e instalaciones necesarios para la prestación de los servicios que deban atender;
-
-XVII.- Tramitar y resolver los recursos y las quejas que los usuarios presenten respecto del funcionamiento y operación de los sistemas a su cargo;
-
-XVIII.- Llevar a cabo la instalación de tomas y medidores del servicio, así como practicar visitas de inspección a los usuarios del mismo;
-
-XIX.- Proponer y gestionar ante las autoridades correspondientes, los planes y proyectos de financiamiento para la obtención de créditos;
-
-XX.- Revocar sus actos y resoluciones en aquellos casos en que sea procedente;
-
-XXI.- En general, realizar toda clase de actos que sean necesarios para lograr su objeto y las que le atribuyan otras leyes y demás disposiciones aplicables.
+Para los efectos de esta Ley, se entiende que se concede el uso o goce temporal de un bien tangible en territorio nacional, cuando en éste se encuentre el bien en el momento de su entrega material a quien va a realizar su uso o goce.
 
 ###### ARTICULO 22.
 
-En el caso de que la prestación de los servicios objeto de esta ley fuere concesionada, los organismos públicos descentralizados a que se refiere el presente capítulo, tendrán las siguientes atribuciones:
+Cuando se otorgue el uso o goce temporal de un bien tangible, se tendrá obligación de pagar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien efectúa dicho otorgamiento y sobre el monto de cada una de ellas. Entre dichas contraprestaciones quedan incluidos los anticipos que reciba el contribuyente.
 
-I.- Supervisar, vigilar e inspeccionar que la prestación de los servicios públicos, por parte de los concesionarios, se realice conforme a lo dispuesto por esta Ley;
-
-II.- Autorizar, a propuesta de los concesionarios y conforme a lo previsto por esta ley, las cuotas o tarifas que deberán cubrir los usuarios por la prestación de los servicios, así como sus modificaciones; y
-
-III.- Solicitar al Ayuntamiento que revoque o declare la caducidad de la concesión cuando a su juicio proceda. En este caso, el Presidente Municipal deberá resolver en un plazo que no exceda de quince días hábiles, notificando al Sistema la resolución que recaiga a su petición.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 23.
 
-Los Sistemas Municipales de Aguas y Saneamiento, tendrán los siguientes órganos de administración y dirección:
-
-I.- Un Consejo Directivo; y
-
-II.- Un Gerente.
+Para calcular el impuesto en el caso de uso o goce temporal de bienes, se considerará el valor de la contraprestación pactada a favor de quien los otorga, así como las cantidades que además se carguen o cobren a quien se otorgue el uso o goce por otros impuestos, derechos, gastos de mantenimiento, contrucciones (sic), reembolsos, intereses normales o moratorios, penas convencionales o cualquier otro concepto.
 
 ###### ARTICULO 24.
 
-El Consejo Directivo se integrará de la siguiente manera:
+Para los efectos de esta Ley, se considera importación de bienes o de servicios:
 
-I.- Por el Presidente Municipal, quien lo presidirá, pero en caso de que éste declinara asumir la Presidencia del Consejo, lo comunicará al Cabildo para que designe a quien deba ocupar el cargo; y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-II.- Por el número de Consejeros, que determine el decreto de creación del sistema municipal, que no deberá ser menor de cinco ni mayor de quince.
+I.- La introducción al país de bienes.
 
-Los Consejeros deberán representar a las organizaciones de los sectores público, social y privado que determine el decreto de creación. El desempeño del cargo de Consejero será honorífico.
+II.- La adquisición por personas residentes en el país de bienes intangibles enajenados por personas no residentes en él.
 
-Los nombramientos de los Consejeros designados por los sectores, podrán ser revocados por éstos en cualquier tiempo, pudiendo hacer libremente una nueva designación.
+III.- El uso o goce temporal, en territorio nacional, de bienes intangibles proporcionados por personas no residentes en el país.
 
-Los miembros del Consejo Directivo contarán con un suplente designado por la organización que representen.
+IV.- El uso o goce temporal, en territorio nacional, de bienes tangibles cuya entrega material se hubiera efectuado en el extranjero.
 
-El Gerente será designado por el Consejo de entre los integrantes de la terna que al efecto proponga su Presidente. El Consejo tendrá libertad plena para remover en cualquier tiempo al Gerente.
+V.- El aprovechamiento en territorio nacional de los servicios a que se refiere el artículo 14, cuando se presten por no residentes en el país. Esta fracción no es aplicable al transporte internacional.
 
-Los miembros del Consejo Directivo designarán de entre ellos a un Secretario, quien tendrá una gestión anual y podrá ser reelegido, con la posibilidad de ser contratado para laborar en forma permanente, durante el tiempo que desempeñe el cargo.
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+Cuando un bien exportado temporalmente retorne al país habiéndosele agregado valor en el extranjero por reparación, aditamentos o por cualquier otro concepto que implique un valor adicional se considerará importación de bienes o servicios y deberá pagarse el impuesto por dicho valor en los términos del artículo 27 de esta Ley.
 
 ###### ARTICULO 25.
 
-El Consejo Directivo celebrará, por lo menos, una sesión ordinaria al mes, y las extraordinarias que sean necesarias para la adecuada marcha del Sistema Municipal de Aguas y Saneamiento. El quórum para la validez de las sesiones se integrará con la mitad más uno de los miembros del Consejo. En caso de ausencia del Presidente, habiendo quórum, se designará de entre los presentes a quien presida la reunión.
+No se pagará el impuesto al valor agregado en las importaciones siguientes:
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+I.- Las que, en los términos de la legislación aduanera, no lleguen a consumarse, sean temporales, tengan el carácter de retorno de bienes exportados temporalmente o sean objeto de tránsito o transbordo. Si los bienes importados temporalmente son objeto de uso o goce en el país, se estará a lo dispuesto en el Capítulo IV de esta Ley.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+II.- Las de equipajes y menajes de casa a que se refiere la legislación aduanera.
+
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+III.- Las de bienes cuya enajenación en el país y las de servicios por cuya prestación en territorio nacional, no den lugar al pago del impuesto al valor agregado, salvo la de oro que no sean en lingotes, o se les aplique la tasa del 0% y las de bienes muebles usados, únicamente cuando éstos sean de los mencionados en el artículo 2o.-A, fracción I, inciso e) y 9o., fracción III, de esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+IV.- Las de bienes donados por residentes en el extranjero a la Federación, entidades federativas, municipios o a cualquier otra persona que mediante reglas de carácter general autorice la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+V.- Las de obras de arte que por su calidad y valor cultural sean reconocidas como tales por las instituciones oficiales competentes, siempre que se destinen a exhibición pública en forma permanente.
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+VI.- Las de obras de arte creadas en el extranjero por mexicanos o residentes en territorio nacional, que por su calidad y valor cultural sean reconocidas como tales por las instituciones oficiales competentes, siempre que la importación sea realizada por su autor.
 
 ###### ARTICULO 26.
 
-Las votaciones del Consejo Directivo se tomarán por mayoría de votos de los miembros presentes. El Presidente ejercerá su voto sólo en caso de empate entre los demás consejeros.
+Se considera que se efectúa la importación de bienes o servicios:
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+I.- En el momento en que el importador presente el pedimento para su trámite en los términos de la legislación aduanera.
+
+II.- En caso de importación temporal al convertirse en definitiva.
+
+III.- Tratándose de bienes intangibles adquiridos de personas residentes en el extranjero o de toda clase de bienes sobre los cuales dichas personas concedan el uso o goce, en el momento en que se realice alguno de los supuestos siguientes:
+
+a).- Se aprovechen en territorio nacional.
+
+b).- Se pague parcial o totalmente la contraprestación.
+
+c).- Se expida el documento que ampare la operación.
+
+Cuando se pacten contraprestaciones periódicas, se atenderá al momento en que sea exigible la contraprestación de que se trate.
+
+IV.- En el caso de aprovechamiento en territorio nacional de servicios prestados en el extranjero se estará a los términos del artículo 17 de esta Ley.
 
 ###### ARTICULO 27.
 
-Cada sesión que se realice se asentará en un libro de actas especialmente destinado para ese objeto.
+Para calcular el impuesto al valor agregado tratándose de importación de bienes tangibles, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de este último gravamen y de los demás que se tengan que pagar con motivo de la importación.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+El valor que se tomará en cuenta tratándose de importación de bienes o servicios a que se refieren las fracciones II, III y V del artículo 24, será el que les correspondería en esta Ley por enajenación de bienes, uso o goce de bienes o prestación de servicios, en territorio nacional, según sea el caso.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+Tratándose de bienes exportados temporalmente y retornados al país con incremento de valor, éste será el que se utilice para los fines del impuesto general de importación, con las adiciones a que se refiere el primer párrafo de este artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 28.
 
-El Consejo Directivo tendrá las facultades y obligaciones que le asigne el decreto constitutivo, pero en ningún caso dejará de tener las siguientes:
+Tratándose de importación de bienes tangibles, el pago tendrá el carácter de provisional y se hará conjuntamente con el del impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los bienes en depósito fiscal en los almacenes generales de depósito, sin que contra dicho pago se acepte el acreditamiento.
 
-I.- Establecer las directrices generales para el adecuado funcionamiento del Sistema;
+> <small>(REFORMADO, D.O.F. 3O DE DICIEMBRE DE 1980)</small>
 
-II.- Aprobar el programa anual de operaciones del Sistema;
+Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de importación, los contribuyentes efectuarán el pago del impuesto que esta Ley establece, mediante declaración que presentarán ante la aduana correspondiente.
 
-III.- Conocer y aprobar, en su caso, el presupuesto anual de egresos y la estimación de ingresos para el año siguiente;
+> <small>(REFORMADO, D.O.F. 3O DE DICIEMBRE DE 1980)</small>
 
-IV.- Estudiar y aprobar, en su caso, los proyectos de tarifas por concepto de los servicios prestados por el Sistema, así como sus modificaciones;
+El impuesto al valor agregado pagado al importar bienes dará lugar a acreditamiento en los términos y con los requisitos del artículo 4o. de esta Ley.
 
-V.- Otorgar al Gerente del Sistema, o a personas distintas a éste, poderes generales y especiales para pleitos y cobranzas y actos de administración, con todas las facultades, aún las que requieran poder especial conforme a la Ley, en los términos del Artículo 2554 del Código Civil del Distrito Federal, y su correlativo, el Artículo 2448 del Código Civil del Estado de Coahuila, con facultad además, para sustituir sus facultades en materia de actos de administración y pleitos y cobranzas, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito. El mandato podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas o judiciales.
+> <small>(REFORMADO, D.O.F. 3O DE DICIEMBRE DE 1980)</small>
 
-VI.- Sancionar en los términos previstos por el Capítulo Octavo de esta Ley, las infracciones que se cometan en contra de la misma;
+No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponde conforme a esta Ley.
 
-VII.- Aprobar y expedir el Reglamento Interior del Organismo;
+###### ARTICULO 28-A.
 
-VIII.- Designar al Gerente del Sistema Municipal de entre los integrantes de la terna propuesta por el Presidente del Consejo Directivo;
-
-IX.- Rendir un informe anual al Cabildo sobre las actividades del Sistema Municipal, incluyendo los estados financieros y balances ordinarios y extraordinarios, a efecto de que se integren en la cuenta pública municipal que se envíe al Congreso del Estado; y
-
-X.- En general, realizar todos aquellos actos y operaciones autorizados por esta Ley, así como aquellos que fuesen necesarios para la mejor administración y funcionamiento del Sistema.
+(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 ###### ARTICULO 29.
 
-El Presidente del Consejo, tendrá las atribuciones siguientes:
+Las empresas residentes en el país calcularán el impuesto aplicando la tasa del 0% al valor de la enajenación de bienes o prestación de servicios, cuando unos u otros se exporten.
 
-I.- Convocar a los miembros del Consejo, al Gerente y al Comisario a las sesiones ordinarias y extraordinarias que se celebren;
+Para los efectos de esta Ley, se considera exportación de bienes o servicios:
 
-II.- Dirigir las sesiones y declarar resueltos los asuntos que en ellas se traten;
+I.- La que tenga el carácter de definitiva, en los términos de la legislación aduanera.
 
-III.- Proponer al Consejo Directivo una terna de candidatos para la designación del Gerente del Sistema;
+II.- La enajenación de bienes intangibles realizada por persona residente en el país a quien resida en el extranjero.
 
-IV.- Las demás que le asignen las Leyes y otras disposiciones aplicables.
+III.- El uso o goce temporal, en el extranjero, de bienes intangibles proporcionados por personas residentes en el país.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+
+IV.- El aprovechamiento en el extranjero de servicios prestados por residentes en el país, por concepto de:
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+a).- Asistencia técnica, servicios técnicos relacionados con ésta e informaciones relativas a experiencias industriales, comerciales o científicas.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+b).- Operaciones de maquila para exportación en los términos de la legislación aduanera.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+c).- Publicidad.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+d).- Comisiones y mediaciones.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+e).- Seguros y reaseguros, así como afianzamientos y reafianzamientos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+f).- Operaciones de financiamiento.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+
+V.- La transportación internacional de bienes prestada por residentes en el país.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+
+VI.- La transportación aérea de personas, prestada por residentes en el país, por la parte del servicio que en los términos del último párrafo del artículo 16 no se considera prestada en territorio nacional.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 30.
 
-El Secretario del Consejo tendrá las facultades siguientes:
+Tratándose de los supuestos previstos en los artículos 9o. y 15 de esta Ley, el exportador de bienes o servicios calculará el impuesto aplicando la tasa del 0% al valor de la enajenación o prestación de servicios. También procederá el acreditamiento cuando las empresas residentes en el país exporten bienes tangibles para enajenarlos o para conceder su uso o goce en el extranjero.
 
-I.- Comunicar a los miembros del Consejo las convocatorias para las sesiones ordinarias y extraordinarias que celebre el mismo;
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
-II.- Tomar las votaciones de los miembros presentes en cada sesión;
+La devolución en el caso de exportación de bienes tangibles procederá hasta que la exportación se consume, en los términos de la legislación aduanera. En los demás casos, procederá hasta que sea exigible la contraprestación y en proporción a la misma.
 
-III.- Levantar y autorizar con su firma las actas de cada sesión; y
-
-IV.- Las demás facultades que esta Ley, otras disposiciones o el Consejo Directivo le encomienden.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 31.
 
-El Gerente tendrá las facultades siguientes:
-
-I.- Representar legalmente al Sistema, en los términos señalados en esta ley;
-
-II.- Dirigir, coordinar, evaluar y controlar la marcha ordinaria del organismo y la prestación de los servicios a su cargo;
-
-III.- Presentar para aprobación del Consejo Directivo, en el mes de agosto de cada año, el programa de trabajo e inversiones, para el siguiente ejercicio anual;
-
-IV.- Someter a la aprobación del Consejo Directivo, el presupuesto de egresos y la estimación de ingresos para el año siguiente;
-
-V.- Someter a la autorización del Consejo Directivo, los manuales administrativos de las diversas oficinas de la dependencia a su cargo, así como los instructivos de labores, y en general, todas aquellas disposiciones relacionadas con la organización de la misma;
-
-VI.- Vigilar, coordinar y verificar el adecuado funcionamiento de los servicios prestados por el Sistema Municipal de Aguas y Saneamiento.
-
-VII.- Resolver lo procedente en relación con las quejas y solicitudes que los usuarios presenten respecto de los servicios públicos objeto de esta Ley, pudiendo revocar sus resoluciones anteriores o las de sus subordinados, cuando no se afecten el interés público o derechos de terceros y siempre que sea notoriamente procedente la petición formulada;
-
-VIII.- Nombrar y remover, previo acuerdo del Consejo, al personal de confianza y de base del Sistema, conforme a las disposiciones legales aplicables;
-
-IX.- Gestionar, en su caso, el otorgamiento de créditos a favor del Sistema que apruebe, previamente, el Consejo Directivo;
-
-X.- Proponer al Consejo los sistemas de contabilidad que considere adecuados a efecto de responder del manejo financiero del Sistema y aplicar los que aquél apruebe;
-
-XI.- Recibir quejas, y resolver lo conducente, respecto a la responsabilidad en que incurran los empleados del Sistema, sin perjuicio de que se impongan las sanciones contenidas en la Ley de Responsabilidades de lo Servidores Estatales y Municipales del Estado de Coahuila de Zaragoza;
-
-XII.- Proponer al Consejo Directivo las políticas para la adquisición, enajenación o ampliación del equipo con que se presten los servicios;
-
-XIII.- Proponer al Consejo Directibo (sic) y coordinar, en su caso, las campañas tendientes a hacer del conocimiento público las actividades del Sistema, así como aquellas que sean necesarias para crear conciencia sobre el uso racional de los servicios;
-
-XIV.- Disponer las investigaciones relacionadas con las posibles infracciones a esta Ley y en su caso, hacerlas del conocimiento del Consejo Directivo para la aplicación de la sanción que proceda; y
-
-XV.- Las demás que conforme a las Leyes y disposiciones aplicables o por delegación del Consejo Directivo, se le atribuyan.
+En los casos en que la Ley Aduanera establece como importación temporal a la enajenación de bienes realizada por personas residentes en el país a empresas de comercio exterior o aquellas catalogadas como maquiladoras de exportación, se considera que el enajenante exporta dichos bienes para los efectos de esta Ley. Se consideran empresas de comercio exterior, únicamente a aquéllas cuyos bienes terminados que enajenen en México sean en su totalidad importados y los que adquieran en el país se destinen en su totalidad a la exportación.
 
 ###### ARTICULO 32.
 
-El Ayuntamiento del Municipio respectivo designará y removerá libremente a un Comisario, quien será su enlace con el Sistema y tendrá las siguientes atribuciones:
+Los obligados al pago de este impuesto y las personas que realicen los actos y actividades a que se refiere el artículo 2o.-A tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
 
-I.- Vigilar que la administración de los recursos se realice de acuerdo con lo que disponga la presente Ley, los programas y presupuestos aprobados;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
-II.- Practicar las auditorías de los estados financieros y las de carácter administrativo al término del ejercicio, o antes si así lo considera conveniente;
+I.- Llevar de conformidad con el Código Fiscal de la Federación, su Reglamento de esta Ley, y efectuar conforme a este último la separación de los actos o actividades de las operaciones por las que deba pagarse el impuesto por las distintas tasas, de aquellos por los cuales esta Ley libera de pago.
 
-III.- Practicar la supervisión técnica de las instalaciones, equipos y obras de los sistemas de captación, conducción, almacenamiento y distribución de agua potable y de los de drenaje y alcantarillado y tratamiento de aguas residuales;
+II.- Realizar, tratándose de comisionistas, la separación en su contabilidad y registros de las operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta del comitente.
 
-IV.- Rendir anualmente en sesión ordinaria del Consejo Directivo un informe respecto a la veracidad, suficiencia y responsabilidad de la información presentada por el Gerente;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-V.- Hacer que se inserten en el orden del día de las sesiones del Consejo Directivo los puntos que crea pertinentes;
+III.- Expedir comprobantes señalando en los mismos, además de los requisitos que establezcan el Código Fiscal de la Federación y su Reglamento, el impuesto al valor agregado que se traslada expresamente y por separado a quien adquiera los bienes, los use o goce temporalmente o reciba los servicios. Dichos comprobantes deberán entregarse o enviarse a quien efectúa o deba efectuar la contraprestación, dentro de los 15 días siguientes a aquél en que se debió pagar el impuesto en los términos de los artículos 11, 17 y 22 de esta Ley.
 
-VI.- Convocar a sesiones ordinarias y extraordinarias, en caso de omisión del Presidente del Consejo Directivo, y en cualquier otro caso en que lo juzgue conveniente;
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)(F. DE E., D.O.F. 4 DE MARZO DE 1985)
 
-VII.- Asistir con voz pero sin voto a todas las sesiones del Consejo Directivo, a las que deberá ser citado; y
+Cuando se trate de actos o actividades que se realicen con el público en general, el impuesto se incluirá en el precio en que los bienes y servicios se ofrezcan, así como en la documentación que se expida, salvo que en este último caso, el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien solicite comprobante que reúna los requisitos señalados en el párrafo anterior.
 
-VIII.- Vigilar ilimitadamente en cualquier tiempo las operaciones del Sistema Municipal de Aguas y Saneamiento.
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-El Comisario para el debido cumplimiento de sus atribuciones, se podrá auxiliar del personal técnico que requiera.
+En todo caso, los contribuyentes estarán obligados a trasladar el impuesto en forma expresa y por separado en la documentación a que se refiere esta fracción, cuando el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien, así lo solicite.
 
-### CAPITULO CUARTO. DE LOS SISTEMAS INTERMUNICIPALES DE AGUAS Y SANEAMIENTO
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+IV.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta Ley. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración de pago provisional o del ejercicio, según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente. Lo dispuesto en esta fracción no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Los contribuyentes que tengan varios establecimientos deberán conservar, en cada uno de ellos, copia de las declaraciones de pago provisional y del ejercicio, así como proporcionar copia de las mismas a las autoridades fiscales de las entidades federativas donde se encuentren ubicados esos establecimientos, cuando así se lo requieran.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+Los contribuyentes que tengan en copropiedad una negociación, designarán representante común previo aviso de tal designación ante las autoridades fiscales, y será éste quien a nombre de los copropietarios cumpla con las obligaciones establecidas en esta Ley.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+En el caso de que los ingresos deriven de actos o actividades que realice una sucesión, el representante legal de la misma pagará el impuesto presentando declaraciones de pago provisional y del ejercicio, por cuenta de los herederos o legatarios.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Tratándose de servicios personales independientes prestados a través de una asociación o sociedad civil, será ésta la que a nombre de los asociados o socios cumpla con las obligaciones señaladas en esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+### CAPITULO IV. DEL USO O GOCE TEMPORAL DE BIENES
 
 ###### ARTICULO 33.
 
-El Congreso del Estado decretará la Constitución de Sistemas Intermunicipales de Aguas y Saneamiento, cuando dos o más Municipios del Estado, previo convenio se coordinen para la prestación de los servicios de agua potable, drenaje y alcantarillado.
+Cuando se enajene un bien o se preste un servicio en forma accidental, por los que deba pagar impuesto en los términos de esta Ley, el contribuyente lo pagará mediante declaración que presentará en las oficinas autorizadas, dentro de los 15 días hábiles siguientes a aquél en el que obtenga la contraprestación, sin que contra dicho pago se acepte acreditamiento. En las importaciones ocasionales el pago se hará como lo establece el artículo 28 de esta Ley. En estos casos no formulará declaración anual ni de pago provisional ni llevará contabilidad; pero deberá expedir los documentos que señala la fracción III del artículo anterior y conservar la documentación correspondiente durante 5 años.
 
-La creación de los sistemas intermunicipales reunirá los requisitos que señala la Constitución Política del Estado, la presente ley y las demás disposiciones legales y aplicables.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Tratándose de enajenación de inmuebles por la que se deba pagar el impuesto en los términos de esta Ley, consignada en escritura pública, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán dentro de los quince días siguientes a la fecha en que se firme la escritura, en la oficina que corresponda a su domicilio.
 
 ###### ARTICULO 34.
 
-Los sistemas intermunicipales tendrán las atribuciones, estructura, administración y reglas de operación a que se refiere el capítulo anterior, con las modalidades señaladas en el presente capítulo. Prestarán los servicios públicos de agua potable, drenaje y alcantarillado a los municipios que comprenda, de acuerdo con las reglas previstas en el Decreto que al efecto expida el Congreso del Estado, en los términos del artículo anterior.
+Cuando la contraprestación que reciba el contribuyente no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o en su defecto el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en esta Ley.
+
+En las permutas y pagos en especie, el impuesto al valor agregado se deberá pagar por cada bien cuya propiedad se trasmita, o cuyo uso o goce temporal se proporcione, o por cada servicio que se preste.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 35.
 
-En el Consejo Directivo de los sistemas intermunicipales, concurrirán con el carácter de Presidente y Vicepresidentes, los presidentes municipales de los ayuntamientos involucrados. La presidencia del Consejo Directivo tendrá carácter rotatorio entre los presidentes municipales, quienes desempeñarán esa función por períodos semestrales.
+Las personas físicas que enajenen bienes o presten servicios, cuando sean contribuyentes menores conforme a la Ley del Impuesto sobre la Renta, pagarán el impuesto al valor agregado de conformidad con la estimación del valor de los actos o actividades por los que deban pagar el impuesto, que al efecto les practiquen las autoridades fiscales, debiéndose observar lo siguiente:
 
-Cada uno de los municipios de la jurisdicción del Sistema intermunicipal tendrá el mismo número de Consejeros.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-El Secretario del Sistema será designado por los miembros del Consejo Directivo.
+I.- Llevar contabilidad simplificada, de sus operaciones de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley.
 
-Habrá un Comisario por cada municipio integrante y será designado y removido libremente por los respectivos Cabildos.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-### CAPITULO QUINTO. DE LOS SERVICIOS
+II.- Dichas personas no tendrán obligación de calcular ni declarar mensualmente el monto de las contraprestaciones que correspondan a sus actividades por las que deban pagar el impuesto. Las autoridades fiscales les estimarán el valor de los actos o actividades por los que están sujetos a pagar el impuesto, excluyendo las actividades sujetas a la tasa del 0%; a esta estimación las autoridades aplicarán la tasa del impuesto que corresponda, según sea el caso, obteniéndose así el impuesto a cargo estimado.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+Del impuesto a cargo estimado se restará el impuesto acreditable a que se refiere el artículo 4o. de esta Ley. La diferencia entre el impuesto a cargo estimado y el impuesto acreditable, será el monto del impuesto a pagar.
+
+Las estimaciones a que se refiere esta fracción se mantendrán hasta que las autoridades fiscales formulen otras.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+III.- Pagar bimestralmente el impuesto a que se refiere la fracción anterior a cuenta del impuesto del ejercicio, los cuales deberán hacerse dentro del bimestre al cual corresponda ante las oficinas autorizadas.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+IV.- Cuando de las comprobaciones que lleven a cabo las autoridades fiscales aparezca que el valor de los actos o actividades por las que el contribuyente deba pagar el impuesto al valor agregado, es superior en más de un 20% a la última estimación practicada, se rectificará ésta y se cobrarán las diferencias del impuesto que procedan más los recargos de ley. Si el contribuyente solicita espontáneamente a las autoridades fiscales la rectificación de la estimación y ésta resulta superior en más del 20% mencionado, pagará el impuesto que proceda más los recargos correspondientes, salvo cuando en la rectificación el contribuyente no rebase los límites de ingresos para hacer (sic) considerados como contribuyentes menores conforme a la Ley del Impuesto Sobre la Renta, en cuyo caso quedará liberado de pagar las diferencias correspondientes a bimestres anteriores.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+V.- Conservar la contabilidad simplificada a que se refiere la fracción I de este artículo y los comprobantes señalados en el artículo 36 de esta Ley.
+
+VI.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+###### ARTICULO 35-A.
+
+Las personas físicas que siendo contribuyentes menores en los términos del artículo 35 de esta Ley, que hayan optado por pagar el impuesto conforme al régimen general de la Ley del Impuesto sobre la Renta, o bien dejen de estar en los supuestos para ser considerados como tales en los términos de dicha Ley, por el año en que ejerzan la opción o dejen de estar en los supuestos señalados, cumplirán con las obligaciones a que se refiere el artículo 32 de esta Ley. Cuando los contribuyentes dejen de ser menores y hubieran efectuado pagos conforme a la estimación del valor de sus actos o actividades, los mismos se considerarán para el pago del impuesto del ejercicio.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+###### ARTICULO 35.-B.
+
+Cuando los contribuyentes que dejen de ser menores, dentro del año de calendario en que ello ocurra, aporten sus bienes en calidad de socios a una sociedad mercantil para formar parte de su activo fijo, no estarán obligados a pagar el impuesto al valor agregado por esa enajenación. Lo dispuesto en este artículo sólo será aplicable si el contribuyente dejó de ser menor sin que medie el ejercicio de las facultades de comprobación de las autoridades fiscales.
+
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)(F. DE E. D.O.F. 24 DE ENERO DE 1986)
+
+### CAPITULO V. DE LA IMPORTACION DE BIENES Y SERVICIOS
 
 ###### ARTICULO 36.
 
-Estarán obligados a contratar la conexión y abastecimiento del servicio público de agua potable:
-
-I.- Los propietarios o poseedores de predios con edificaciones;
-
-II.- Los propietarios o poseedores de giros mercantiles e industriales, y de cualquier otro establecimiento que por su naturaleza y de acuerdo con las Leyes, estén obligados al uso del agua potable;
-
-III.- Los propietarios o poseedores de predios no edificados en los que sea obligatorio, conforme a las Leyes aplicables, el uso del agua potable;
-
-IV.- Los poseedores de predios o las dependencias o entidades que tengan adscritos inmuebles propiedad de la Federación, del Estado, de los Municipios y de los Organismos Descentralizados;
-
-Esta obligación se establece para los predios por cuyo frente pasen tuberías de distribución, caso en el que deberá solicitarse por escrito ante el organismo correspondiente la instalación de la toma respectiva, previo contrato que deberá firmarse:
-
-A).- Dentro de los 30 días siguientes a la fecha en que se notifique que ha quedado establecido el servicio público en la calle en que se encuentren los predios, giros o establecimientos;
-
-B).- Dentro de los 30 días siguientes a la fecha de la apertura de los giros o establecimientos, si existe el servicio público;
-
-C).- Antes de iniciar edificaciones sobre los predios que carezcan del servicio de agua.
+Los contribuyentes menores expedirán comprobantes simplificados en los términos del artículo 115-B de la Ley del Impuesto Sobre la Renta; cuando un contribuyente menor opte por pagar el impuesto conforme al régimen general de la citada Ley o deje de estar en los supuestos para ser considerado como tal en los términos de la misma, se entenderá que deja de ser menor para los efectos del impuesto al valor agregado.
 
 ###### ARTICULO 37.
 
-Las personas obligadas, conforme al artículo anterior, deberán también contratar la conexión a la red de alcantarillado en los lugares en que exista este servicio, dentro de los plazos antes consignados, lo que deberán solicitar por escrito y cubrir previamente las tarifas correspondientes.
+Para los efectos de la estimación que realicen las autoridades fiscales, se tomará en cuenta:
+
+Importe de compras efectuadas; inventarios de mercancías, de maquinaria y equipo; monto de la renta del local en que estén establecidos los negocios; número de trabajadores que tengan a su servicio y sueldos de que disfruten; pagos de cuotas al Instituto Mexicano del Seguro Social; impuestos pagados a la Federación, Distrito Federal, Estados o Municipios; cantidades que hayan cubierto por concepto de energía eléctrica y teléfonos; retiros en efectivo y en especie efectuados por el propietario del negocio para la atención de sus necesidades personales y de su familia; zona comercial en que se encuentre ubicado el negocio; informaciones recabadas de terceros y, en general, todos los elementos de juicio que puedan utilizarse para la estimación del valor de las actividades por las que se deba pagar el impuesto.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+Las autoridades fiscales podrán incrementar la estimación del valor de los actos o actividades por los que el contribuyente esté obligado a pagar impuesto, aplicando a la estimación efectuada en el año de calendario anterior, el factor que en su caso, señale anualmente el Congreso de la Unión.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
+Las estimaciones que realicen las autoridades fiscales se harán por ejercicios y se dividirán entre seis para los efectos del pago bimestral.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 38.
 
-Cuando se incumpla la obligación que establece el Artículo anterior independientemente de que imponga las sanciones que procedan, el Sistema Municipal de Aguas y Saneamiento instalará la toma de servicio de agua potable y su costo se cubrirá con cargo al propietario o poseedor del predio correspondiente.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 39.
 
-Será potestativo surtirse de agua del servicio público:
-
-I.- Para las personas que posean predios con pozos cuyo uso esté autorizado por las autoridades competentes conforme a las leyes aplicables; y
-
-II.- Para los dueños o poseedores de predios no edificados en los que no sea obligatorio, conforme a las leyes hacer uso de agua potable.
+Al importe de la determinación presuntiva del valor de los actos o actividades por los que se deba pagar el impuesto en los términos de esta Ley, se aplicará la tasa del impuesto que corresponda conforme a la misma, y el resultado se reducirá con las cantidades acreditables que se comprueben.
 
 ###### ARTICULO 40.
 
-Cuando se incumpla la obligación de contratar la conexión a la red de alcantarillado, independientemente de imponerse las sanciones que procedan, se dará aviso a las autoridades sanitarias correspondientes, para que exijan el cumplimiento de las demás normas relacionadas con la materia.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 41.
 
-Cuando se trate de carpas de espectáculos o diversiones públicas temporales que deban conectarse a las líneas de agua potable y alcantarillado a juicio de la Secretaría de Salud, ésta comunicará al Sistema de Aguas y Saneamiento la expedición de la licencia que corresponda, expresando el término de su duración, para que efectué la instalación del servicio y haga los cobros correspondientes.
+La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal para recibir participaciones en los términos de la Ley de Coordinación Fiscal, conviniendo en no mantener impuestos locales o municipales sobre:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+
+I.- Los actos o actividades por los que deba pagarse el impuesto al valor agregado o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción de bienes cuando por su enajenación deba pagarse dicho impuesto.
+
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+II.- La enajenación de bienes o prestación de servicios cuando una u otra se exporten o sean de los señalados en los artículos 2o-A y 2o-C de esta Ley.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+III.- Los bienes que integren el activo o sobre la utilidad o el capital de las empresas.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+IV.- Intereses, los títulos de crédito y los productos o rendimientos derivados de su propiedad o enajenación.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+V.- El uso o goce temporal de casa habitación.
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+VI.- Espectáculos públicos consistentes en obras de teatro y funciones de circo o cine, que en su conjunto superen un gravamen a nivel local del 8 % calculado sobre el ingreso total que derive de dichas actividades.
+
+Queda comprendido dentro de esta limitante cualquier gravamen adicional que se les establezca con motivo de las citadas actividades.
+
+Tampoco mantendrán impuestos locales o municipales de carácter adicional sobre las participaciones en gravámenes federales que les correspondan.
+
+El Distrito Federal no establecerá ni mantendrá en vigor los gravámenes a que se refiere este artículo.
 
 ###### ARTICULO 42.
 
-De toda manifestación o aviso de apertura, traspaso, traslado o clausura de giros o establecimientos mercantiles, obligados a abastecerse de agua potable, y que hagan uso de los sistemas de drenaje y alcantarillado, el usuario deberá dar aviso al Sistema correspondiente dentro de los diez días siguientes a la fecha de realizadas las manifestaciones citadas, anexando al escrito la documentación respectiva al contrato o acuerdo establecido.
+Se exceptúan de lo dispuesto en el artículo anterior los impuestos que los Estados o el Distrito Federal tengan establecidos o establezcan sobre enajenación de construcciones por las que deba pagarse el impuesto al valor agregado.
+
+En ningún caso lo dispuesto en el artículo anterior, se entenderá limitativo de la facultad de los Estados y del Distrito Federal para gravar con impuestos locales o municipales la propiedad o posesión del suelo o construcciones, o la trasmisión de propiedad de los mismos o sobre plusvalía o mejoría específica, siempre que no se discrimine en contra de los contribuyentes del impuesto al valor agregado.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+
+Tratándose de energía eléctrica las entidades federativas no podrá (sic) decretar impuestos, contribuciones o gravámenes locales o municipales, cualquiera que sea su origen o denominación, sobre:
+
+I.- Producción, introducción, transmisión, distribución, venta o consumo de energía eléctrica.
+
+II.- Actos de organización de empresas generadoras o importadoras de energía eléctrica.
+
+III.- Capitales invertidos en los fines que expresa la fracción I.
+
+IV.- Expedición o emisión por empresas generadoras e importadoras de energía eléctrica, de títulos, acciones u obligaciones y operaciones relativas a los mismos.
+
+V.- Dividendos, intereses o utilidades que representan o perciban las empresas que señala la fracción anterior.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+Se exceptúa de lo dispuesto en las fracciones anteriores, el impuesto a la propiedad privada que grava la tierra, pero no las mejoras y la urbana que pertenezca a las plantas productoras e importadoras así como los derechos por servicios de alumbrado público que cobren los municipios, aun cuando para su determinación se utilice como base el consumo de energía eléctrica.
 
 ###### ARTICULO 43.
 
@@ -605,7 +1171,9 @@ V.- Intervendrán en la aplicación de la Ley del General del Equilibrio Ecológ
 
 Queda prohibida la descarga de aguas residuales a que se refiere el Artículo anterior, cuando rebasen los niveles de contaminación que al efecto dispongan las normas técnicas ecológicas aplicables.
 
-### CAPITULO SEXTO. DE LAS TARIFAS
+### CAPITULO VI. DE LA EXPORTACION DE BIENES O SERVICIOS
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 71.
 
@@ -683,7 +1251,9 @@ Mientras no se instalen los medidores a que se refiere este Artículo, las canti
 
 En caso de mora por parte de los usuarios en el pago de dos meses de cuota o tarifa establecida para los servicios de agua potable, podrá limitárseles el suministro a la cantidad de agua equivalente a la cuota mínima establecida en la tarifa respectiva; si la mora en el pago es de tres meses, se suspenderá totalmente el suministro de agua, sin perjuicio de que el Sistema Municipal de Aguas y Saneamiento efectúe el cobro de los adeudos, a través del procedimiento administrativo de ejecución.
 
-### CAPITULO SEPTIMO. DE LA INSPECCION
+### CAPITULO VII. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 85.
 
@@ -733,7 +1303,7 @@ Cuando el usuario no esté conforme con el consumo expresado en la nota a que se
 
 Los usuarios que por cualquier título ocupen predios, giros o establecimientos, en donde se encuentren instalados aparatos medidores de agua o descargas de albañal, en todo tiempo estarán obligados a permitir su examen. Tendrán también la obligación de poner en conocimiento del Sistema de Aguas y Saneamiento todo daño o desarreglo sufrido por los aparatos.
 
-### CAPITULO OCTAVO. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO VIII. DE LAS FACULTADES DE LAS AUTORIDADES
 
 ###### ARTICULO 93.
 
@@ -839,7 +1409,7 @@ Las sanciones pecuniarias que se impongan conforme a esta Ley, deberán ser cubi
 
 Los inspectores y verificadores que en el ejercicio de sus funciones no observen lo dispuesto en esta Ley o se abstengan deliberadamente de dar cuenta de las infracciones que descubran, o rindan informes incompletos o no ajustados a la realidad con el propósito de beneficiar a un infractor, serán amonestados y suspendidos en sus funciones, o sancionados con cese y consignación a las autoridades competentes, según la gravedad de la falta o acto cometido. En todo caso, la sanción se aplicará previa audiencia del interesado.
 
-### CAPITULO NOVENO. DE LOS RECURSOS
+### CAPITULO IX. DE LAS PARTICIPACIONES A LAS ENTIDADES FEDERATIVAS
 
 ###### ARTICULO 105.
 
@@ -883,70 +1453,388 @@ Contra las resoluciones dictadas en el recurso de inconformidad, no procederá r
 
 ## TRANSITORIOS
 
-PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+###### ARTICULO PRIMERO.
 
-SEGUNDO.- Se abroga la Ley para los Servicios de Agua Potable y Alcantarillado en el Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado con fecha 9 de marzo de 1982.
+Esta Ley entrará en vigor, en toda la República, el día primero de enero de 1980.
 
-TERCERO.- El Congreso del Estado decretará la creación de los organismos descentralizados previstos por esta ley en un plazo que no excederá de seis meses contados a partir de la fecha en que entre en vigor el presente ordenamiento. Para el efecto, los Ayuntamientos involucrados deberán presntar (sic) la Iniciativa correspondiente en un plazo que no excederá de cinco meses contados a partir de la fecha en que entre en vigor este ordenamiento.
+###### ARTICULO SEGUNDO.
 
-En todo caso, serán sistemas intermunicipales los que administren y operen los servicios materia de esta ley en los municipios de Múzquiz, San Juan de Sabinas y Sabinas; Monclova y Frontera; Torreón rural, Matamoros y Viesca, así como San Pedro y Francisco I. Madero.
+Al entrar en vigor la presente Ley, quedarán abrogadas las leyes y decretos siguientes:
 
-Cada uno de esos organismos asumirá la prestación de los servicios de agua potable, drenaje y alcantarillado en el municipio de que se trate, a partir de la fecha en que Servicios de Agua Potable y Alcantarillado de Coahuila le entregue formalmente el sistema correspondiente.
+1.- Ley Federal del Impuesto sobre Ingresos Mercantiles.
 
-El organismo público descentralizado Servicios de Agua Potable y Alcantarillado de Coahuila continuará operando y administrando aquellos sistemas que no hayan sido transferidos en los términos anteriores, hasta que tal acontecimiento tenga lugar, en la inteligencia de que una vez decretada la creación del total de los organismos descentralizados municipales o intermunicipales, la entrega que se haga aquel que haya sido constituido en último lugar, no excederá el plazo de tres meses.
+2.- Ley del Impuesto sobre Reventa de Aceites y Grasas Lubricantes.
 
-Los servicios de agua potable, drenaje y alcantarillado se prestarán conforme lo dispuesto por esta ley y el cobro de los derechos por los servicios que presta Servicios de Agua Potable y Alcantarillado de Coahuila en los términos dispuestos por este artículo transitorio, se regirá por el Decreto 47, publicado en el Periódico Oficial del Gobierno del Estado el 29 de marzo de 1983 y por las demás disposiciones aplicables en la materia.
+3.- Ley del Impuesto sobre Compraventa de Primera Mano de Alfombras, Tapetes y Tapices.
 
-Una vez entregada la totalidad de los sistemas a cada una de las entidades receptoras, Servicios de Agua Potable y Alcantarillado de Coahuila procederá en un término máximo de un mes, a formular y rendir al Ejecutivo un informe pormenorizado respecto de su situación patrimonial, en el que deberá incluir los estados financieros, a efecto de proceder a su liquidación en los términos previstos en la legislación de la materia.
+4.- Ley del Impuesto sobre Despepite de Algodón en Rama.
 
-CUARTO.- El Decreto por el que se cree cada uno de los organismos a que se refiere el artículo anterior, determinará la forma específica en que deberá componerse su Consejo. El Presidente Municipal correspondiente hará la convocatoria para su integración inicial.
+5.- Ley del Impuesto sobre Automóviles y Camiones Ensamblados.
 
-QUINTO.- En los plazos establecidos en el Artículo Tercero transitorio de esta ley, el organismo público descentralizado Servicios de Agua Potable y Alcantarillado de Coahuila, hará entrega de la infraestructura, bienes indispensables, derechos, activos y pasivo que correspondan a cada uno de los Sistemas Municipales o Intermunicipales, en su caso, subrogándose estos últimos en los derechos y obligaciones que correspondan a aquél.
+6.- Decreto por el cual se fija el impuesto que causarán el Benzol, Toluol, Xilol y Naftas de Alquitrán de Hulla, destinados al consumo interior del país.
 
-SEXTO.- Los Sistemas Municipales de Aguas y Saneamiento asumirán los créditos que hubiere contraído el Organismo Público Descentralizado Servicios de Agua Potable y Alcantarillado de Coahuila para la construcción, rehabilitación, ampliación, administración, operación, conservación y mantenimiento de los sistemas de agua potable, agua desalada, drenaje, alcantarillado y tratamiento de aguas residuales que les sean transferidos. Para ese efecto, Servicios de Agua Potable y Alcantarillado de Coahuila realizará previamente las gestiones correspondientes ante la institución bancaria con la que se hubieren contraído los créditos respectivos.
+7.- Ley del Impuesto a la Producción del Cemento.
 
-SEPTIMO.- En tanto el Consejo Directivo del organismo operador respectivo no establezca las cuotas en los términos de esta Ley, se seguirán cobrando las cuotas o tarifas autorizadas por el Congreso del Estado.
+8.- Ley del Impuesto sobre Cerillos y Fósforos.
 
-OCTAVO.- El personal que labora en los sistemas actualmente operados por el organismo público descentralizado denominado Servicios de Agua Potable y Alcantarillado de Coahuila, se integrará al organismo municipal o intermunicipal que corresponda.
+9.- Ley del Impuesto sobre Compraventa de Primera Mano de Artículos Electrónicos, Discos, Cintas, Aspiradoras y Pulidoras.
 
-A tal efecto, cada sistema sustituirán (sic) a Servicios de Agua Potable y Alcantarillado de Coahuila en las relaciones jurídicas existentes con los trabajadores de base y de confianza que prestan sus servicios en los referidos sistemas del organismo. Por tanto, les serán reconocidos y respetados a los trabajadores en todos sus términos, los derechos laborales adquiridos.
+10.- Ley del Impuesto sobre Llantas y Cámaras de Hule.
 
-NOVENO.- En tanto se expide el Reglamento de la presente Ley, continuará vigente el Reglamento Interior del Organismo Público Descentralizado Servicios de Agua Potable y Alcantarillado de Coahuila.
+11.- Ley del Impuesto a las Empresas que explotan Estaciones de Radio o Televisión.
 
-DECIMO.- Se derogan las disposiciones que se opongan a la presente Ley en todo aquello que la contravenga.
+12.- Ley del Impuesto sobre Vehículos Propulsados por Motores Tipo Diesel y por Motores Acondicionados para uso de Gas Licuado de Petróleo.
 
-D A D O en el Salón de Sesiones del Congreso del Estado, en la ciudad de Saltillo, Coahuila a los 23 días del mes de diciembre de 1992.
+13.- Ley de Compraventa de Primera Mano de Artículos de Vidrio o Cristal.
 
-DIPUTADO PRESIDENTE
+14.- Ley Federal del Impuesto sobre Portes y Pasajes.
 
-JESUS DAVILA DE LEON
+15.- Decreto relativo al impuesto del 10% sobre las entradas brutas de los Ferrocarriles.
 
-DIPUTADO SECRETARIO
+16.- Decreto que establece un Impuesto sobre Uso de Aguas de Propiedad Nacional en la Producción de Fuerza Motriz.
 
-JOSE ALVAREZ ALFARO
+17.- Ley del Impuesto sobre la Explotación Forestal.
 
-DIPUTADO SECRETARIO
+18.- Ley de Impuestos y Derechos a la Explotación Pesquera.
 
-LUIS LOPEZ ALVAREZ
+###### ARTICULO TERCERO.
 
-IMPRIMASE, COMUNIQUESE Y OBSERVESE
+Los impuestos que se hubieren causado conforme a las leyes a que se refiere el artículo anterior, antes de la fecha en que entre en vigor la presente Ley, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
 
-Saltillo, Coahuila, 24 de Diciembre de 1992
+###### ARTICULO CUARTO.
 
-SUFRAGIO EFECTIVO. NO REELECCION.
+Los contribuyentes que al entrar en vigor la presente Ley queden comprendidos en el artículo 35, continuarán pagando durante el año de 1980 la misma cuota que les hubieren fijado o les fijen las autoridades fiscales, la cual se considerará equivalente a la diferencia entre el monto del impuesto establecido en este Ordenamiento y las cantidades que de acuerdo con el mismo pudieren ser acreditadas. En el año de 1981, del impuesto que resulte de aplicar las tasas de esta Ley al monto de las contraprestaciones por las que se deba pagar impuesto al valor agregado, se acreditará un 3% del importe de las ventas, no sujeto a comprobación y, además, el monto trasladado a dichos contribuyentes en documentación que reúna las (sic) requisitos fiscales. A partir de 1982 dejará de acreditarse dicho 3% y únicamente se acreditará el monto del impuesto trasladado a los mencionados contribuyentes, que resulte de la documentación que reúna los requisitos fiscales establecidos en esta Ley.
 
-EL GOBERNADOR DEL ESTADO
+###### ARTICULO QUINTO.
 
-LIC. ELISEO FRANCISCO MENDOZA BERRUETO
+Los contribuyentes que a partir del 1o. de enero de 1979, adquieran bienes destinados a formar parte de su activo fijo, podrán acreditar el 50% del impuesto federal sobre ingresos mercantiles causado en el momento en que dichos bienes les fueren enajenados contra el impuesto al valor agregado que deban pagar, de acuerdo con esta Ley.
 
-EL SECRETARIO DE GOBIERNO
+México, D.F., a 22 de diciembre de 1978.- Antonio Riva Palacio López, D.P.- Antonio Ocampo Ramírez, S.P.- Pedro Avila Hernández, D.S.- Joaquín E. Repetto Ocampo, S.S.- Rúbricas".
 
-LIC. FELIPE A. GONZALEZ RODRIGUEZ
+En cumplimiento de lo dispuesto por la fracción l del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal a los veintidós días del mes de diciembre de mil novecientos setenta y ocho.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS, LAS DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 2 DE FEBRERO DE 2001.
+D.O.F. 31 DE DICIEMBRE DE 1979.
 
-PRIMERO. El presente decreto ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República el día primero de enero de mil novecientos ochenta.
+
+###### ARTICULO SEGUNDO.
+
+Al entrar en vigor la presente Ley, quedan abrogadas las leyes y decretos siguientes:
+
+1.- Ley de Impuestos sobre Aguamiel y Productos de su Fermentación.
+
+2.- Ley del Impuesto sobre Producción e Introducción de Energía Eléctrica.
+
+3.- Ley del Impuesto sobre Consumo de Gasolina.
+
+4.- Ley de Impuestos de Migración.
+
+5.- Ley de Impuestos al Petróleo y sus Derivados.
+
+6.- Ley que Reforma la del Impuesto sobre Productos del Petróleo y sus Derivados.
+
+7.- Ley del Impuesto sobre Fundos Petroleros.
+
+8.- Decreto que grava con un 15% los productos obtenidos por la Refinación de Petróleo Extranjero.
+
+9.- "Decreto que establece un impuesto especial sobre el Consumo de Algodón Despepitado, así como el que adquieran los industriales a partir del 1o. de septiembre del presente año", de 20 de junio de 1944.
+
+10.- Artículo 7o. de la Ley que Establece, Reforma y Adiciona las disposiciones relativas a diversos impuestos de 28 de diciembre de 1967, que estableció un Impuesto sobre Compraventa de Primera Mano de Artículos de Vidrio o Cristal.
+
+ARTICULO TRIGESIMO SEGUNDO.- No se pagará el impuesto al valor agregado cuando los ingresos del contribuyente hayan causado el impuesto federal sobre ingresos mercantiles o cuando la contraprestación fue exigible antes del 1o. de enero de 1980; si es exigible con posterioridad, en razón de que los actos o actividades fueren de carácter continuo; sólo se pagará el impuesto por la parte de la contraprestación correspondiente a los actos o actividades o los efectos de los mismos, que se realicen a partir de dicha fecha.
+
+En las importaciones de bienes tangibles, no se pagará el impuesto al valor agregado por los introducidos en el país con anterioridad al 1o. de enero de 1980 en los términos del Código Aduanero. Se pagará el impuesto al valor agregado en la importación temporal que se convierta en definitiva con posterioridad a dicha fecha.
+
+ARTICULO TRIGESIMO TERCERO.- El Distrito Federal y los Estados que se adhieran al Sistema Nacional de Coordinación Fiscal, mientras no se deba pagar el Impuesto al Valor Agregado respecto de la enajenación de los bienes que a continuación se indican, no establecerán impuestos locales o municipales sobre la enajenación de:
+
+I.- Embarcaciones, maquinaria y equipo que úni-únicamente (sic) sean susceptibles de ser utilizados en la explotación pesquera.
+
+II.- Alimentos balanceados para animales y las materias primas necesarias para producirlos, productos de medicina veterinaria, así como insecticidas, herbicidas y fungicidas.
+
+D.O.F. 30 DE DICIEMBRE DE 1980.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor en toda la República, el día 1o. de enero de 1981.
+
+###### ARTICULO SEGUNDO.
+
+Al entrar en vigor la presente Ley, quedarán derogadas las disposiciones siguientes:
+
+l.- Los artículos 16 y 17 de la Ley que Reforma y Adiciona Diversas Leyes que Rigen Impuestos Federales y Establece Vigencia Propia para Disposiciones Consignadas en Anteriores Leyes de Ingresos de la Federación de fecha 28 de diciembre de 1966, publicada en el "Diario Oficial" de la Federación el día 31 del mismo mes y año, que establecieron los impuestos sobre las Erogaciones por Remuneración al Trabajo Personal Prestado bajo la Dirección y Dependencia de un Patrón y sobre Compraventa de Primera Mano de Cacao que se produzca en territorio nacional, respectivamente.
+
+ll.- Decreto de 20 de junio de 1945 que establece un impuesto sobre compraventa de primera mano de ixtle de lechuguilla y palma que se produzca en territorio nacional, publicado en el "Diario Oficial" de la Federación de 29 del mismo mes y año.
+
+###### ARTICULO CUARTO.
+
+Los contribuyentes que al 1o. de enero de 1981 se encuentren inscritos en el Registro Federal de Causantes, no estarán obligados a inscribirse nuevamente y deberán utilizar la clave que les haya sido asignada por la Secretaría de Hacienda y Crédito Público. Se podrá seguir utilizando formas, avisos y constancias que hagan referencia al número de Registro Federal de Causantes en vez de a la clave del Registro Federal de Contribuyentes.
+
+Las disposiciones fiscales que mencionen el Registro Federal de Causantes, se considerarán referidas al Registro Federal de Contribuyentes.
+
+###### ARTICULO SEPTIMO.
+
+Para los efectos de la fracción l inciso b), subinciso 2 del Artículo 2o.-A de la Ley del Impuesto al Valor Agregado, durante 1981 se estará a lo señalado por la Ley del Impuesto sobre Compraventa de Primera Mano de Aguas Envasadas y Refrescos.
+
+###### ARTICULO OCTAVO.
+
+Los contribuyentes que queden comprendidos en el artículo 35 de la Ley del Impuesto al Valor Agregado, continuarán pagando durante el año de 1981, la misma cuota que les hubieren fijado o les fijen las autoridades fiscales, la cual se considerará equivalente a la diferencia entre el monto del impuesto establecido en este ordenamiento y las cantidades, que de acuerdo con el mismo pudieren ser acreditadas.
+
+Tratándose de contribuyentes menores que realicen actos o actividades a los que se les aplique la tasa del 0%, la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, establecerá los casos en que podrán acreditar el impuesto que resulte de aplicar las tasas de dicha Ley al monto de las contraprestaciones por las que se deba pagar el impuesto al valor agregado, el monto trasladado a dichos contribuyentes en documentación que reúna los requisitos fiscales, así como la forma en que deberán cumplir con las obligaciones señaladas en los artículos 35 y 36 de la misma Ley.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Los contribuyentes que durante 1981 realicen actividades agropecuarias como ejidatarios, comuneros, colonos o pequeños propietarios en superficies equivalentes a 20 hectáreas de riego teórico en los términos de la Ley Federal de Reforma Agraria, podrán tener derecho a la devolución del Impuesto al Valor Agregado aun cuando no lleven los libros de contabilidad que señale el Reglamento de la Ley de la materia. El trámite de devolución deberá ajustarse a los requisitos que señale la Secretaría de Hacienda y Crédito Público en reglas de carácter general.
+
+D.O.F. 31 DE DICIEMBRE DE 1981.
+
+> <small>N. DE E. DEBIDO A LA TRASCENDENCIA DEL DECRETO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, SE TRANSCRIBE EL ARTICULO VIGESIMO TERCERO.</small>
+
+ARTICULO VEGISIMO (SIC) TERCERO.- El factor a que se refieren los artículos 116 de la Ley del Impuesto sobre la Renta y 37 de la Ley del Impuesto al Valor Agregado será de 0.30, para el año de 1982.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1982.
+
+ARTICULO DECIMOSEXTO.- Los contribuyentes que durante 1982 realicen actividades agropecuarias como ejidatarios, comuneros, colonos o pequeños propietarios en superficies equivalentes a 20 hectáreas de riego teórico en los términos de la Ley Federal de Reforma Agraria, podrán tener derecho a la devolución del impuesto al valor agregado aun cuando no lleven los libros de contabilidad que señale el reglamento de la Ley de la materia. El trámite de devolución deberá ajustarse a los requisitos que señale la Secretaría de Hacienda y Crédito Público en reglas de carácter general.
+
+ARTICULO DECIMOSEPTIMO.- Los contribuyentes que queden comprendidos en los artículos 115 de la Ley del Impuesto sobre la Renta 35 de la Ley del Impuesto al Valor Agregado continuarán pagando durante el año de 1982, el mismo monto de impuesto que les hayan estimado las autoridades fiscales con anterioridad a dicho año, en tanto que las mismas no lo modifiquen.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+ARTICULO DECIMOOCTAVO (SIC).- Las reformas a los artículos 5o., 8o., 32 y 39 y la derogación de los artículos 38 y 40 de la Ley del Impuesto al Valor Agregado, surtirán efectos a partir del 1o. de enero de 1983.
+
+ARTICULO TRIGESIMO SEGUNDO.- Las disposiciones contenidas en las leyes del Impuesto sobre la Renta y del Impuesto al Valor Agregado, relativas a enajenaciones a plazo con pago diferido o en parcialidades, se aplicarán considerando la disposición vigente en el momento en que se entregue materialmente al bien objeto de la enajenación, se obtenga parte del precio o se expida el documento que ampare la enajenación, el que primero se realice.
+
+D.O.F. 30 DE SEPTIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el 1o. de octubre de 1982.
+
+D.O.F. 31 DE DICIEMBRE DE 1982.
+
+> <small>N. DE E. DEBIDO A LA TRASCENDENCIA DEL DECRETO DE LA LEY QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES, SE TRANSCRIBE EL ARTICULO DECIMONOVENO.</small>
+
+ARTICULO DECIMONOVENO.- Los artículos Transitorios SEXTO relativo a la Ley del Impuesto Especial sobre Producción y Servicios, DECIMOCTAVO referente a la Ley del Impuesto al Valor Agregado, VIGESIMO QUINTO concerniente a la Ley del Impuesto sobre la Renta y TRIGESIMO OCTAVO respecto de la Ley Orgánica del Tribunal Fiscal de la Federación, de la ley que reforma, adiciona y deroga diversas disposiciones en materia fiscal, de 30 de diciembre de 1981, se reforman para surtir sus efectos en toda la República a partir del 1o. de enero de 1983.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República el día 1o. de enero de 1983.
+
+ARTICULO DECIMOSEXTO.- Los precios pactados antes del 1o. de enero de 1983, podrán ser aumentados en la cantidad necesaria para trasladar el incremento en el impuesto al valor agregado que resulten de la aplicación de las nuevas tasas.
+
+D.O.F. 30 DE DICIEMBRE DE 1983.
+
+DISPOSICIONES DE VIGENCIA ANUAL
+
+###### ARTICULO DECIMO QUINTO.
+
+El factor a que se refieren los artículos 116 de la Ley del Impuesto sobre la Renta y 37 de la Ley del Impuesto al Valor Agregado será de 0.80 para el año de 1984.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1984.
+
+D.O.F. 31 DE DICIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1985, excepto lo establecido por los Artículos Décimo y Décimo Primero que comenzarán a regir a partir del dia 1o. de enero de 1986; Décimo Segundo que entrará en vigor el 1o. de julio de 1985; Vigésimo, en lo relativo a las adiciones y reformas a la Sección Cuarta, Capítulo VIII, Titulo I de la Ley Federal de Derechos, que regirán a partir del día 1o. de febrero de 1985; y Vigésimo Tercero que entrará en vigor el 1o. de agosto de 1985.
+
+D.O.F. 31 DE DICIEMBRE DE 1985.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1986.
+
+D.O.F. 30 DE ABRIL DE 1986.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de mayo de 1986.
+
+###### ARTICULO SEGUNDO.
+
+Los pagos provisionales de los impuestos sobre la renta, valor agregado, automóviles nuevos y especial sobre producción y servicios, así como el entero del impuesto sobre las erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón y las aportaciones señaladas en la fracción ll del artículo 29 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, que deban efectuarse en el mes de mayo de 1986, se podrán hacer en los plazos que establecen las disposiciones vigentes hasta el 30 de abril de 1986.
+
+D.O.F. 31 DE DICIEMBRE DE 1986.
+
+Disposición con vigencia anual durante el año de 1987
+
+###### ARTICULO OCTAVO.
+
+Durante el año de 1987, los contribuyentes personas físicas que se dediquen a la agricultura, ganadería o pesca podrán solicitar la devolución mensual del saldo a favor que resulte de su pago provisional mensual, sin quetengan (sic) que cumplir con las obligaciones a que se refiere el artículo 32 fracciones I, II y IV de la Ley del Impuesto al Valor Agregado, cuando:
+
+I.- Se encuentren en los supuestos que a continuación se mencionan:
+
+a).- Los contribuyentes que se dediquen a la agricultura o a la ganadería bovina, cuando la totalidad de ingresos obtenidos en el ejercicio de 1986, hubieran provenido exclusivamente de las actividades señaladas en esta fracción y no excedan de 300 veces la cuota diaria del salario mínimo general correspondiente al Distrito Federal el 1o. de enero de 1987, multiplicado por 365.
+
+b).- Los contribuyentes que se dediquen a la pesca o a la ganadería distinta de la mencionada en el inciso anterior, cuando los ingresos obtenidos en 1986, no excedan de 200 veces la cuota diaria del salario mínimo general correspondiente al Distrito Federal al 1o. de enero de 1987, multiplicado por 365.
+
+c).- En el caso de contribuyentes que se dediquen a actividades avícolas, cuando sus instalaciones les permitan tener en explotación permanente durante el año de 1987, hasta 100,000 aves. En el caso de contribuyentes que realicen actividades porcícolas, cuando sus instalaciones les permitan tener una producción permanente que en el citado año no rebase la cantidad de 5,000 cerdos, siempre ycuando (sic) no excedan el límite de 300 veces la cuota diaria a que se refiere el inciso a).
+
+II.- Cumplan, además, con los siguientes requisitos:
+
+a).- Estar inscritos en el registro federal de contribuyentes ante la oficina recaudadora de la entidad federativa que le corresponda a su domicilio fiscal.
+
+b).- Presentar declaraciones mensuales manifestando el valor de las actividades que realicen.
+
+c).- Presentar la solicitud de devolución ante la autoridad fiscal competente que corresponda a su domicilio fiscal, acompañando la declaración mensual en la que se determine el saldo a favor, los documentos en que conste en forma expresa y por separado el impuesto al valor agregado que se haya trasladado al contribuyente por bienes o servicios estrictamente indispensables para realizar las actividades del contribuyente y, en su caso, los documentos comprobatorios del pago de dicho impuesto por la importación de bienes tangibles.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1987.
+
+D.O.F. 31 DE DICIEMBRE DE 1987.
+
+Disposiciones Transitorias
+
+ARTICULO DECIMOQUINTO.- Para los efectos de las reformas a la Ley del Impuesto al Valor Agregado establecidas conforme al ARTICULO DECIMOCUARTO anterior, se estará a las siguientes disposiciones transitorias:
+
+l.- La reforma a la fracción IV del artículo 32 de la Ley, excepto lo dispuesto en los dos últimos párrafos de la misma, se aplicará a los contribuyentes que a partir del 1o. de enero de 1988 inicien actividades, o bien que habiéndolas realizado con anterioridad a esa fecha, cambien su domicilio fiscal a otra entidad federativa.
+
+ll.- La reforma al último párrafo del artículo 37 de la Ley, entrará en vigor a partir del 1o. de marzo de 1988.
+
+ARTICULO DECIMOSEXTO.- Durante el año de 1988, los contribuyentes personas físicas que se dediquen a la agricultura, ganadería o pesca, podrán solicitar la devolución mensual del saldo a favor que resulte de su pago provisional mensual, sin que tengan que cumplir con las obligaciones a que se refiere el artículo 32 fracciones I, II y IV de la Ley del Impuesto al Valor Agregado, cuando:
+
+l.- Se encuentren en los supuestos que a continuación se mencionan:
+
+a).- Los contribuyentes que se dediquen a la agricultura o a la ganadería bovina, cuando la totalidad de ingresos obtenidos en el ejercicio de 1987, hubieran provenido exclusivamente de las actividades señaladas en esta fracción y no excedan de 300 veces la cuota diaria del salario mínimo general correspondiente al Distrito Federal el 1o. de enero de 1988, multiplicado por 365.
+
+b).- Los contribuyentes que se dediquen a la pesca o a la ganadería distinta de la mencionada en el inciso anterior, cuando los ingresos obtenidos en 1987, no excedan de 200 veces la cuota diaria del salario mínimo general correspondiente al Distrito Federal al 1o. de enero de 1988, multiplicado por 365.
+
+c).- En el caso de contribuyentes que se dediquen a actividades avícolas, cuando sus instalaciones les permitan tener en explotación permanente durante el año de 1988, hasta 100,000 aves. En el caso de contribuyentes que realicen actividades porcícolas, cuando sus instalaciones les permitan tener una producción permanente que en el citado año no rebase la cantidad de 5,000 cerdos, siempre y cuando no excedan el límite de 300 veces la cuota diaria a que se refiere el inciso a).
+
+ll.- Cumplan, además, con los siguientes requisitos:
+
+a).- Estar inscritos en el registro federal de contribuyentes ante la oficina recaudadora de la entidad federativa que le corresponda a su domicilio fiscal.
+
+b).- Presentar declaraciones mensuales manifestando el valor de las actividades que realicen.
+
+c).- Presentar la solicitud de devolución ante la autoridad fiscal competente que corresponda a su domicilio fiscal, acompañando la declaración mensual en la que se determine el saldo a favor, los documentos en que conste en forma expresa y por separado el impuesto al valor agregado que se haya trasladado al contribuyente por bienes o servicios estrictamente indispensable para realizar las actividades del contribuyente, y en su caso, los documentos comprobatorios del pago de dicho impuesto por la importación de bienes tangibles.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1988.
+
+D.O.F. 31 DE DICIEMBRE DE 1988.
+
+Disposición Transitoria
+
+ARTICULO DECIMOSEGUNDO.- Lo dispuesto en el Artículo DECIMOSEXTO de la Ley que Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, publicada en el Diario Oficial de la Federación, el día 31 de diciembre de 1987, se seguirá aplicando en materia del impuesto al valor agregado, durante el año de 1989.
+
+Disposición de vigencia anual
+
+ARTICULO DECIMOTERCERO.- Durante el año de 1989, se aplicará la tasa del 0% para calcular el impuesto al valor agregado por la enajenación e importación de productos destinados a la alimentación y medicinas de patente, con excepción de los mencionados en los incisos a) y b) de la fracción I del artículo 2o.-B y de los contenidos en el artículo 2o.-C de la Ley de la materia.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1989.
+
+D.O.F. 28 DE DICIEMBRE DE 1989.
+
+DISPOSICION TRANSITORIA
+
+###### ARTICULO DECIMO SEPTIMO.
+
+Los contribuyentes que hasta el 31 de diciembre de 1989, hubieran pagado el impuesto al valor agregado como contribuyentes menores o conforme a lo establecido en bases especiales de tributación, y que a partir del 1o. de enero de 1990 estén obligados a su pago en los términos de la Ley del Impuesto al Valor Agregado, podrán efectuar los pagos provisionales de los meses de enero y febrero, a más tardar en las fechas que les corresponda en el mes de marzo según se trate de persona física o moral.
+
+DISPOSICION DE VIGENCIA ANUAL
+
+###### ARTICULO DECIMO OCTAVO.
+
+Durante el año de 1990, se aplicará la tasa del 0% para calcular el impuesto al valor agregado por la enajenación e importación de productos destinados a la alimentación y medicinas de patente, con excepción de los mencionados en los incisos a) y b) de la fracción I del artículo 2o.-B y de los contenidos en el artículo 2o.-C de la Ley de la materia.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1990.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+###### ARTICULO TERCERO.
+
+Los pagos provisionales de los impuestos sobre la renta, al valor agregado, así como el entero del impuesto sobre las erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón y las aportaciones señaladas en la fracción ll del artículo 29 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, que deban efectuarse en el mes de enero de 1990 se podrán hacer en los plazos que establecen las disposiciones vigentes hasta el 31 de diciembre de 1989.
+
+D.O.F. 26 DE DICIEMBRE DE 1990.
+
+DISPOSICIONES DE VIGENCIA ANUAL
+
+###### ARTICULO DECIMO QUINTO.
+
+Durante el año de 1991 estarán vigentes las siguientes disposiciones:
+
+I.- Se aplicará la tasa del 0% para calcular el impuesto al valor agregado por la enajenación e importación de productos destinados a la alimentación y medicinas de patente, con excepción de los mencionados en los incisos a) y b) de la fracción I del artículo 2o.-B y de los contenidos en el artículo 2o.-C de la Ley de la materia.
+
+II.- Se aplicará la tasa del 15% al hule, aun cuando no esté industrializado. Tratándose de las operaciones a que se refiere el artículo 2o. de la Ley del Impuesto al Valor Agregado, se aplicará la tasa del 6%.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación.
+
+TERCERO.- Por el año de 1991, las personas físicas que se dediquen a la agricultura, ganadería, pesca o silvicultura, así como las personas morales a que se refiere el último párrafo del artículo 67-H de la Ley del Impuesto sobre la Renta, podrán efectuar un pago único en el impuesto sobre la renta, al activo y al valor agregado, por los ingresos, bienes y actividades, que correspondan a los referidos giros, mismo que se presentará conjuntamente con la declaración del ejercicio de los impuestos antes referidos.
+
+QUINTO.- Lo dispuesto en los artículos 2o.-D de la Ley del Impuesto al Valor Agregado y 8º.-B de la Ley del Impuesto Especial sobre Producción y Servicios, se aplicará a partir del 1o. de octubre de 1990.
+
+D.O.F. 21 DE NOVIEMBRE DE 1991.
+
+DISPOSICIONES DE VIGENCIA ANUAL
+
+###### ARTICULO UNICO.
+
+Durante el año de 1992, se aplicará la tasa del 0% para calcular el impuesto al valor agregado por la enajenación e importación de productos destinados a la alimentación, con excepción de los mencionados en los artículos 2-A fracción I, último párrafo y 2-B, fracción I incisos a), b) y último párrafo y la enajenación e importación de medicinas de patente.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, con excepción de lo previsto en el artículo 5o. que entrará en vigor el 1o. de enero de 1992, y el artículo 41, fracción Vl que entrará en vigor el 1o. de abril de dicho año.
+
+SEGUNDO.- El pago provisional correspondiente al mes de diciembre de 1991 se enterará el 17 de enero de 1992.
+
+TERCERO.- El saldo a favor que, en su caso, se derive de la reducción de la tasa del 15% al 10%, que resulte en la declaración del pago provisional correspondiente al mes de noviembre de 1991, se podrá compensar contra cualquier otra cantidad que se esté obligado a pagar por adeudo propio o por retención a terceros, incluyendo sus accesorios derivados de impuestos federales correspondientes a dicho mes.
+
+La cantidad del saldo a favor que no se hubiera podido compensar, podrá solicitarse en devolución.
+
+No será aplicable lo previsto en este artículo por los actos o actividades sujetos a la tasa del 0%.
+
+D.O.F. 20 DE JULIO DE 1992.
+
+DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
+
+###### ARTICULO DECIMO TERCERO.
+
+Lo dispuesto en el ARTICULO UNICO de las DISPOSICIONES DE VIGENCIA ANUAL del Decreto que Reforma, Adiciona y Deroga Diversas Disposiciones de la Ley del Impuesto al Valor Agregado, publicado en el Diario Oficial de la Federación el 21 de noviembre de 1991, no será aplicable a lo dispuesto en el artículo 2o-B, fracción I, inciso d) del presente Decreto, por lo que la enajenación e importación de los alimentos citados en el artículo 2o-B, fracción I, inciso d), estarán gravados a la tasa del 10% a partir de la entrada en vigor del presente Decreto.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
