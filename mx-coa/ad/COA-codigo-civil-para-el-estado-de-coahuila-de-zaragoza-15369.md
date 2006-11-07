@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2006-09-22"
+last_updated: "2006-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -2343,11 +2343,13 @@ Cuando el divorcio sea decretado por las causas establecidas en las fracciones V
 
 En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia ni a la indemnización que concede este artículo.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 383.
 
 En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
 
-El cónyuge que haya dado causa al divorcio no podrá volver a casarse sino después de dos años, a contar desde que la sentencia de divorcio causó ejecutoria. Igual prohibición recaerá sobre quienes se divorcien voluntariamente.
+El cónyuge que haya dado causa al divorcio no podrá volver a casarse sino después de dos años, a contar desde que la sentencia de divorcio causó ejecutoria. Para que los cónyuges que se divorcien voluntariamente, puedan volver a contraer matrimonio es indispensable que haya trascurrido un año.
 
 ###### ARTÍCULO 384.
 
@@ -20058,3 +20060,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 22 DE SEPTIEMBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al siguiente día en que se publique en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+P.O. 7 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO.- Las personas con sentencias definitivas de divorcio por mutuo consentimiento que contemplen la prohibición de dos años a la entrada en vigor de la presente reforma, se entenderá reducido el plazo a un año.
