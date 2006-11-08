@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2005-12-08"
+last_updated: "2006-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2006.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -2225,6 +2225,100 @@ La notificación personal se hará directamente al recurrente, si acude a las of
 
 Podrá suspenderse la ejecución del acto reclamado, cuando no se afecte el interés público y se garanticen suficientemente, mediante fianza o depósito fijado por la autoridad, los posibles daños o perjuicios que pudieran causarse al confirmarse la resolución impugnada.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+## TÍTULO DÉCIMO PRIMERO. DEL CONSEJO DE LA CRÓNICA MUNICIPAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 168.
+
+Cada Ayuntamiento formará un Consejo Municipal de la Crónica, como un órgano consultivo y de colaboración de la Administración Pública Municipal, integrado de forma colegiada, con el objeto de conservar, promover, investigar y difundir el acervo histórico y cultural del municipio, así como integrar y mantener actualizado el registro de los acontecimientos relevantes en todos los órdenes de la vida del mismo.
+
+Los miembros del Consejo Municipal de la Crónica elaborarán y mantendrán actualizada la monografía de su municipio; recopilarán las tradiciones y leyendas, los usos y costumbres del mismo, y colaborarán en el registro de monumentos arqueológicos, artísticos e históricos de su municipio.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 169.
+
+El Consejo Municipal de la Crónica estará integrado por al menos tres miembros, de conformidad con el reglamento que expida el Ayuntamiento para tal efecto, de los cuales uno fungirá como Presidente del Consejo.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 170.
+
+El nombramiento del Cronista miembro del Consejo Municipal de la Crónica lo hará el Ayuntamiento, a propuesta del Presidente Municipal, quien previamente escuchará el parecer de las asociaciones e instituciones educativas, culturales y sociales de mayor relevancia en el municipio, del titular de la Comisión de Educación Pública, Cultura y Turismo del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 171.
+
+Para ser Cronista miembro del Consejo se requiere:
+
+I. Ser originario del municipio, o con al menos 10 años de residencia, y tener su domicilio permanente en él;
+
+II. Ser de reconocida solvencia moral y de amplia aceptación social; y,
+
+III. Acreditar un amplio conocimiento sobre los acontecimientos contemporáneos y trascendentales del municipio, así como la relevancia de actividades económicas y la relación de los efectos y acciones estatales y nacionales en el municipio.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 172.
+
+Se pierde la calidad de Cronista miembro del Consejo Municipal de la Crónica:
+
+I. Por causa de enfermedad grave que imposibilite de manera permanente el cumplimiento de sus obligaciones;
+
+II. Por incumplimiento constante de sus obligaciones como Cronista durante seis meses, o por ausencias injustificadas durante el mismo periodo;
+
+III. Por ausencia del municipio, de manera que le impida ser testigo directo de la vida del mismo;
+
+IV. Por renuncia en casos de extrema gravedad, aceptada por el Ayuntamiento;
+
+V. Por faltas graves a la moral pública; y,
+
+VI. Por escándalo grave relacionado con la honradez intelectual.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 173.
+
+El nombramiento de Cronista miembro del Consejo Municipal de la Crónica será honorario por tiempo indeterminado, salvo que incurra en las causales previstas en esta ley.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 174.
+
+El Consejo Municipal de la Crónica tendrá las siguientes atribuciones:
+
+I. Llevar el registro de los sucesos notables del municipio;
+
+II. Investigar, conservar, exponer y proponer las manifestaciones de la cultura local;
+
+III. Proponer el rescate documental de la historia del municipio;
+
+IV. Publicar y difundir trabajos e investigaciones de carácter histórico, artístico o cultural de interés para el municipio;
+
+V. Ser órgano de consulta del Ayuntamiento para todo lo relacionado con la cultura, el turismo y el patrimonio cultural del municipio;
+
+VI. Establecer coordinación con sus similares en reuniones estatales y nacionales;
+
+VII. Investigar y promover el conocimiento de la historia municipal y contribuir de manera decisiva en la formación de la conciencia histórica de los habitantes del municipio, particularmente de los niños y de los jóvenes;
+
+VIII. Participar conjuntamente con las Comisiones Municipales correspondientes, en la promoción de las actividades culturales, turísticas y ecológicas en el municipio; y,
+
+IX. Las demás que le señale su reglamento, de esta Ley y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 175.
+
+Los ayuntamientos proporcionarán, con base en su Presupuesto de Egresos, los recursos necesarios al Consejo Municipal de la Crónica para el cumplimiento de su objeto y atribuciones.
+
 ARTÍCULOS TRANSITORIOS:
 
 ###### ARTÍCULO PRIMERO.
@@ -2310,3 +2404,9 @@ Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al d
 Artículo Segundo.- Los ayuntamientos que a la fecha de entrada en vigor del presente Decreto no hayan constituido sus organismos de participación ciudadana, contarán con el término de novena (sic) días naturales para el efecto.
 
 Artículo Tercero.- Remítase el Decreto a los ayuntamientos del Estado, para su conocimiento.
+
+P.O. 8 DE NOVIEMBRE DE 2006.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Los Ayuntamientos de la entidad expedirán el Reglamento del Consejo Municipal de la Crónica, en un plazo no mayor de ciento ochenta días, contados a partir de la vigencia del presente Decreto.
