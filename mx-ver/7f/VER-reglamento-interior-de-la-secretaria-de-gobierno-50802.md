@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-gobierno-50802"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2006-05-24"
+last_updated: "2006-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE NOVIEMBRE DE 2006
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
 
@@ -52,6 +52,14 @@ a) Dirección General del Registro Civil;
 b) Dirección General del Registro Público de la Propiedad y de Inspección y Archivo General de Notarías;
 
 c) Dirección General de Tránsito y Transporte;
+
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+c) Bis. Dirección General de Prevención y Readaptación Social.
+
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+c) Ter. Dirección de Detección del Delito.
 
 d) Dirección General de Acción Social;
 
@@ -223,9 +231,29 @@ LV. Dirigir y coordinar las políticas y programas de la Administración Públic
 
 LVI. Atender la demanda de solicitudes de apoyo económico para estudiantes veracruzanos;
 
-LVII. Disponer lo conducente, dentro de la Secretaría para que en su caso se de cumplimiento al contenido de las disposiciones legales que se expidan para otorgar transparencia y acceso a la información pública gubernamental, y
+LVII. Disponer lo conducente, dentro de la Secretaría para que en su caso se de cumplimiento al contenido de las disposiciones legales que se expidan para otorgar transparencia y acceso a la información pública gubernamental, y (sic)
 
-LVIII. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, así como las que claramente le confiera el Gobernador del Estado.
+LVIII. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, así como las que claramente le confiera el Gobernador del Estado;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+LIX. Proveer lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales, así como la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Ejecutivo Estatal y elaborar los programas de readaptación social;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+LX. Administrar los centros de readaptación social y tramitar por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de procesados y sentenciados;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+LXI. Custodiar, junto con la Secretaría de Seguridad Pública, a los individuos sujetos a reclusión y resguardar los centros de jurisdicción estatal destinados a su internamiento;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+LXII. Coordinar, dirigir y vigilar la política estatal en materia de prevención y readaptación social de conformidad con las leyes de la materia, y
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+LXIIl. Proponer al Ejecutivo medidas para organizar las actividades de las dependencias y entidades que atiendan el fenómeno delictivo.
 
 ### CAPÍTULO III. DE LOS ÓRGANOS ADSCRITOS A LA SECRETARÍA
 
@@ -307,11 +335,51 @@ XIII. Llevar las estadísticas de accidentes automovilísticos que sucedan en la
 
 XlV. Las demás que le atribuyan las leyes y reglamentos del estado y demás disposiciones aplicables, así como las que expresamente le confieran el Gobernador del Estado y el Secretario.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+#### SECCIÓN TERCERA BIS. DE LA DIRECCIÓN GENERAL DE PREVENCIÓN Y READAPTACIÓN SOCIAL
+
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 8° Bis.
+
+Al titular de la Dirección General de Prevención y Readaptación Social le corresponden las siguientes atribuciones:
+
+I. Ejercer las atribuciones que le confiere la Ley de Ejecución de Sanciones del Estado y las del Reglamento que rige los Centros de Readaptación Social del Estado;
+
+II. Proveer, por acuerdo del secretario, lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales; mantener la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Ejecutivo Estatal y elaborar los proyectos de programas de readaptación social de sentenciados;
+
+III. Administrar los Centros de Readaptación Social y realizar los trámites que le instruya la superioridad en materia de extradición, amnistía, indulto, libertad anticipada y traslado de procesados y sentenciados;
+
+IV. Mantener la custodia de los individuos sujetos a reclusión;
+
+V. Vigilar que en la designación del personal directivo, administrativo, técnico y de custodia de las instalaciones de internamiento, se considere la vocación, aptitudes, preparación académica y antecedentes personales de los candidatos;
+
+VI. Proponer al secretario la suscripción de los convenios que deba celebrar el Gobierno del Estado con otras entidades, en materia de prestación de servicios técnicos pertinentes y transferencia de reos, así como aquellos convenios que se deban celebrar con instituciones académicas en materia de capacitación, adiestramiento y profesionalización penitenciaria del personal de la Dirección General, y
+
+VII. Las demás que le confieren las disposiciones legales aplicables y el superior jerárquico dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+#### SECCIÓN TERCERA TER. DE LA DIRECCIÓN DE DETECCIÓN DEL DELITO
+
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 8° Ter.
+
+Al titular de la Dirección del delito le corresponden las siguientes atribuciones:
+
+I. Coordinar sus actividades con las instancias del Gobierno Federal especializadas en el seguimiento de los delitos;
+
+II. Realizar acciones que permitan detectar las causas que originan las conductas delictivas;
+
+III. Desarrollar estrategias de detección del delito y de combate a la delincuencia;
+
+IV. Coadyuvar con la Policía Ministerial del Estado en investigaciones relacionadas con los delitos, y
+
+V. Las demás que le confieran las disposiciones legales aplicables y el secretario dentro de la esfera de su competencia.
+
 #### SECCIÓN CUARTA. DE LA DIRECCIÓN GENERAL DE ACCIÓN SOCIAL
-
-#### SECCIÓN QUINTA. DE LA COORDINACIÓN GENERAL DE ASESORES
-
-#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE GIRAS
 
 ###### Artículo 9°.
 
@@ -341,7 +409,7 @@ XI. Propiciar y apoyar la celebración de convenios orientados a la promoción y
 
 XII. Las demás que expresamente le atribuyan las leyes del estado, este reglamento, demás disposiciones aplicables y las que expresamente le confiera el Secretario.
 
-#### SECCIÓN SÉPTIMA. DE LAS OFICINAS DE REPRESENTACIÓN REGIONAL DEL GOBIERNO DEL ESTADO
+#### SECCIÓN QUINTA. DE LA COORDINACIÓN GENERAL DE ASESORES
 
 ###### Artículo 10.
 
@@ -365,7 +433,7 @@ VIII. Organizar e impartir, por instrucciones del Secretario, cursos, seminarios
 
 IX. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le confiera el Secretario.
 
-#### SECCIÓN OCTAVA. DE LA COORDINACIÓN ESTATAL DE LAS JUNTAS DE MEJORAS
+#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE GIRAS
 
 ###### Artículo 11.
 
@@ -381,7 +449,7 @@ IV. Gestionar y proporcionar a la Dirección de Servicios Aéreos las necesidade
 
 V. Las demás que las disposiciones legales y reglamentarias le confieran, así como aquellas acciones que expresamente le encomiende su jefe inmediato.
 
-#### SECCIÓN NOVENA. COORDINACIÓN DELPROGRAMA ESTATAL DE LAS MUJERES
+#### SECCIÓN SÉPTIMA. DE LAS OFICINAS DE REPRESENTACIÓN REGIONAL DEL GOBIERNO DEL ESTADO
 
 ###### Artículo 12.
 
@@ -417,7 +485,7 @@ XIV Difundir las obras y acciones del Gobierno del Estado en la región, de modo
 
 XV Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le confiera el Secretario.
 
-#### SECCIÓN DÉCIMA. DE LOS CENTROS DE ADAPTACIÓN SOCIAL DE NIÑOS Y NIÑAS EN CONFLICTO CON LA LEY PENAL
+#### SECCIÓN OCTAVA. DE LA COORDINACIÓN ESTATAL DE LAS JUNTAS DE MEJORAS
 
 ###### Artículo 13.
 
@@ -439,7 +507,7 @@ VII. Proponer al Secretario a los ciudadanos merecedores del otorgamiento de un 
 
 VIII. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le confiera el Secretario.
 
-#### SECCIÓN UNDÉCIMA. DE LA DIRECCIÓN GENERAL DEL SISTEMA ESTATAL DE BECAS
+#### SECCIÓN NOVENA. COORDINACIÓN DELPROGRAMA ESTATAL DE LAS MUJERES
 
 ###### Artículo 14.
 
@@ -485,7 +553,7 @@ XVIII. Difundir campañas en medios de comunicación que contribuyan a combatir 
 
 XIX. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le confiera el Secretario.
 
-#### SECCIÓN DUODÉCIMA. DE LA DIRECCIÓN GENERAL JURÍDICA DE GOBIERNO
+#### SECCIÓN DÉCIMA. DE LOS CENTROS DE ADAPTACIÓN SOCIAL DE NIÑOS Y NIÑAS EN CONFLICTO CON LA LEY PENAL
 
 ###### Artículo 15.
 
@@ -493,7 +561,7 @@ Los Centros de Adaptación Social de Niños y Niñas en Conflicto con la Ley Pen
 
 Los Centros Adaptación Social a que refiere este artículo tendrán el resguardo, administración, organización y funcionamiento que señala la ley de la materia, su reglamento interior y las leyes del estado aplicables.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE GOBERNACIÓN
+#### SECCIÓN UNDÉCIMA. DE LA DIRECCIÓN GENERAL DEL SISTEMA ESTATAL DE BECAS
 
 ###### Artículo 16.
 
@@ -507,7 +575,7 @@ III. Elaborar el programa anual de becas del Gobierno del Estado, y
 
 IV. Las demás que expresamente le atribuyan las leyes del estado, este Reglamento y demás disposiciones aplicables, así como las que expresamente le confieran el Secretario.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE POLÍTICA REGIONAL
+#### SECCIÓN DUODÉCIMA. DE LA DIRECCIÓN GENERAL JURÍDICA DE GOBIERNO
 
 ###### Artículo 17.
 
@@ -647,7 +715,7 @@ XX. Responder a la demanda de estímulos y apoyos económicos a estudiantes del 
 
 XXI. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, así como las que expresamente le confieran el Gobernador del Estado y el Secretario.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE ORGANIZACIONES Y PARTIDOS POLÍTICOS
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE GOBERNACIÓN
 
 ###### Artículo 20.
 
@@ -667,7 +735,7 @@ VI. Auxiliar al Subsecretario en el cumplimiento de las disposiciones federales,
 
 VII. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, así como las que expresamente le confieran el Secretario y el Subsecretario.
 
-#### SECCIÓN PRIMERA. DEL ARCHIVO GENERAL DEL ESTADO
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE POLÍTICA REGIONAL
 
 ###### Artículo 21.
 
@@ -689,7 +757,7 @@ VII. Realizar estudios socioeconómicos y políticos permanentes del estado para
 
 VIII. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, así como las que expresamente le confieran el Secretario y el Subsecretario.
 
-#### SECCIÓN SEGUNDA. DEL CONSEJO ESTATAL DE POBLACIÓN DE VERACRUZ
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE ORGANIZACIONES Y PARTIDOS POLÍTICOS
 
 ###### Artículo 22.
 
@@ -705,11 +773,11 @@ IV. Coadyuvar en el fortalecimiento de las relaciones entre la sociedad civil, l
 
 V. Las demás que expresamente le atribuyan las leyes del estado, este Reglamento y demás disposiciones aplicables, así como las que expresamente le confieran el Secretario, y el Subsecretario.
 
-#### SECCIÓN TERCERA. DEL INSTITUTO VERACRUZANO DEL TRANSPORTE
+#### SECCIÓN PRIMERA. DEL ARCHIVO GENERAL DEL ESTADO
 
 ### CAPÍTULO V. DE LOS ÓRGANOS DESCONCENTRADOS DE LA SECRETARÍA
 
-#### SECCIÓN CUARTA. DEL CENTRO ESTATAL DE DESARROLLO MUNICIPAL DE VERACRUZ
+#### SECCIÓN SEGUNDA. DEL CONSEJO ESTATAL DE POBLACIÓN DE VERACRUZ
 
 ###### Artículo 23.
 
@@ -753,13 +821,13 @@ XVII. Informar periódicamente al Secretario del desempeño de sus funciones, y
 
 XVIII. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le con fiera el Secretario.
 
-#### SECCIÓN QUINTA. DE LA EDITORA DE GOBIERNO
+#### SECCIÓN TERCERA. DEL INSTITUTO VERACRUZANO DEL TRANSPORTE
 
 ###### Artículo 24.
 
 El Consejo Estatal de Población de Veracruz es un organismo público desconcentrado de la Administración Pública estatal, sectorizado en la Secretaría, el cual se regirá por las disposiciones del decreto de su creación y por su reglamento interno.
 
-#### SECCIÓN PRIMERA. DEL INSTITUTO VERACRUZANO DEL DEPORTE
+#### SECCIÓN CUARTA. DEL CENTRO ESTATAL DE DESARROLLO MUNICIPAL DE VERACRUZ
 
 ###### Artículo 25.
 
@@ -805,11 +873,13 @@ VIII. Elaborar y proponer al Secretario la normatividad interna del Instituto Ve
 
 IX. Las demás que le atribuyan las leyes y reglamentos, así como las que le confiera el Secretario.
 
-#### SECCIÓN SEGUNDA. DE LA COMISIÓN ESTATAL PARA LA DEFENSA DE LOS PERIODISTAS
+#### SECCIÓN QUINTA. DE LA EDITORA DE GOBIERNO
 
 ###### Artículo 27.
 
 El Centro Estatal de Desarrollo Municipal de Veracruz es un órgano administrativo desconcentrado de la Secretaría, dependiente directamente del Secretario. La organización y funcionamiento de dicho Centro se sujetará a lo dispuesto por el decreto de su creación.
+
+#### SECCIÓN PRIMERA. DEL INSTITUTO VERACRUZANO DEL DEPORTE
 
 ###### Artículo 28.
 
@@ -826,6 +896,8 @@ IV. Las demás que expresamente le atribuyan las leyes del estado, este reglamen
 ###### Artículo 29.
 
 La Editora de Gobierno podrá percibir ingresos derivados de la prestación de sus servicios, de conformidad con las disposiciones legales aplicables, los cuales se destinarán al desarrollo y atención de las actividades específicas de su competencia.
+
+#### SECCIÓN SEGUNDA. DE LA COMISIÓN ESTATAL PARA LA DEFENSA DE LOS PERIODISTAS
 
 ### CAPÍTULO VI. DE LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS
 
@@ -876,3 +948,11 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.
 FIDEL HERRERA BELTRÁN
 
 GOBERNADOR DEL ESTADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 8 DE NOVIEMBRE DE 2006.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
