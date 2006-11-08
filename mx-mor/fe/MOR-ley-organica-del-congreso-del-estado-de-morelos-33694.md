@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-33694"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-27"
-last_updated: "2006-09-27"
+last_updated: "2006-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -733,7 +733,9 @@ Las Comisiones Ordinarias serán las siguientes:
 
 10. Planeación para el Desarrollo y Asentamientos Humanos.
 
-11. Industria, Comercio y Servicios.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+11. Desarrollo Económico.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -927,21 +929,21 @@ III. Conocer y dictaminar sobre la legislación en materia de desarrollo urbano 
 
 IV. Conocer los asuntos relacionados con la creación de centros de población, declaratorias sobre provisiones, reservas, uso y destinos de áreas.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 59.
 
-Corresponde a la Comisión de Industria, Comercio y Servicios:
+Es competencia de la Comisión de Desarrollo Económico:
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2004)</small>
+I. Conocer, analizar y dictaminar en su caso, las iniciativas en materia de Desarrollo Económico;
 
-I. Conocer sobre los asuntos relacionados con la producción, comercio, abasto y la prestación de servicios que no sean facultad de otra comisión;
+II. Promover las iniciativas tendientes a la creación de parques, corredores y ciudades industriales, de centros comerciales y centrales de abastos, así como a la instalación de unidades industriales, el apoyo y fomento a la micro, pequeña y mediana empresa, a la producción y comercialización de la actividad artesanal, a la generación de empleo y en general al desarrollo sustentable de todos los sectores involucrados en materia económica en el Estado;
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2004)</small>
+III. Emitir opiniones, auxiliar y coadyuvar con las autoridades federales, estatales o municipales, con los sectores industrial, comercial y de servicios así como con los diversos organismos y asociaciones públicas y privadas brindando apoyo dentro del ámbito de sus atribuciones y en materia de fomento y promoción de las actividades industriales, comerciales, de servicios y de inversión en el Estado;
 
-II. Conocer y hacer recomendaciones respecto de las modificaciones o adiciones de los planes y proyectos que emprenda el Gobierno del Estado sobre el desarrollo económico, comercial, industrial y de servicios que no sean facultad de otra comisión; y
+IV. Promover la realización de foros de consulta, mesas de trabajo, seminarios, conferencias, congresos, ferias, exposiciones y en general todas las acciones tendientes a la participación de los actores involucrados en las iniciativas y proyectos que sean materia de trabajo de la Comisión; y,
 
-III. (DEROGADA, P.O. 25 DE FEBRERO DE 2004)
+V. En general, conocer de todos los asuntos que en cumplimiento de sus funciones y atribuciones le sean turnados para su atención y todos aquellos que le encomiende la normatividad de la materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1546,3 +1548,9 @@ P.O. 27 DE SEPTIEMBRE DE 2006.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Morelos.
 
 SEGUNDO. Remítase al Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+P.O. 8 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor el día de su aprobación por la Asamblea Legislativa.
+
+SEGUNDO.- En su oportunidad, remítase al Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
