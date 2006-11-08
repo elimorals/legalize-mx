@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interno-de-la-comision-estatal-de-derechos-52242"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-09-25"
-last_updated: "1993-09-25"
+last_updated: "2006-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 25 de septiembre de 1993.
 
@@ -152,6 +152,10 @@ IV.- Tres Visitadores por lo menos pudiendo aumentarse éstos en el número que 
 ###### ARTICULO 24.
 
 El Consejo es un Órgano Colegiado integrado por siete consejeros además del Presidente de la Comisión, quien será además quien presida el Consejo.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+
+A excepción de su Presidente, los cargos de miembros del Consejo serán honorarios, y durarán en su encargo tres años, pudiendo ser ratificados para otro periodo igual. Podrán recibir una dieta mensual, equivalente a 200 cuotas de salario mínimo general vigente en el Estado, y con cargo al presupuesto de la Comisión Estatal de Derechos Humanos, que anualmente le destine la Legislatura del Estado.
 
 ###### ARTICULO 25.
 
@@ -413,7 +417,7 @@ IV.- Acuerdo de calificación pendiente cuando la queja no reúna los requisitos
 
 ###### ARTICULO 57.
 
-Calificada la queja como presuntamente violatoria de Derechos Humanos, se enviará al quejoso un acuerdo de admisión de la instancia, en el que se le informará sobre el resultado de la calificación y se le invitará a mantener comunicación con la Comisión durante el trámite del expediente.
+Calificada la queja como presuntamente violatoria de Derechos Humanos, se enviará al Quejoso un acuerdo de admisión de la instancia, en el que se le informará sobre el resultado de la calificación y se le invitará a mantener comunicación con la Comisión durante el trámite del expediente.
 
 ###### ARTICULO 58.
 
@@ -684,3 +688,9 @@ DR. RAUL DELGADO WISE
 PBRO. LIC. SANCHEZ SANCHEZ
 
 LIC. FLORENCIA RAMIREZ VALERIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2006.
+
+UNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico Oficial Órgano del Gobierno del Estado de Zacatecas, Zacatecas, y deberá aplicarse a partir del 15 de junio del año dos mil seis, fecha de entrada en vigor de las reformas a la Ley de la Comisión Estatal de Derechos Humanos.
