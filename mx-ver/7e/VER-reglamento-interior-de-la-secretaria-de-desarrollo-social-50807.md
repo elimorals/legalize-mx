@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-desarrollo-social-50807
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2006-05-24"
+last_updated: "2006-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL - ANTES SECRETARIA DE DESARROLLO SOCIAL Y MEDIO AMBIENTE -
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2007 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE REPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y MEDIO AMBIENTE DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
 
@@ -75,19 +77,21 @@ Corresponde originalmente al Secretario el trámite, despacho y resolución de l
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 7.
 
-Para el estudio, planeación y despacho de sus asuntos, la Secretaría, contará con un titular que será el Secretario de Desarrollo Social y Medio Ambiente y con las Subsecretarías, Coordinaciones Generales, Direcciones Generales y Direcciones y Unidades Administrativas siguientes:
+Para el estudio, planeación y despacho de sus asuntos, la Secretaría, contará con su titular, que será el Secretario de Desarrollo Social y Medio Ambiente, mismo que se auxiliará de las siguientes instancias administrativas:
 
-Subsecretaría de Infraestructura Regional
+I. Oficina del C. Secretario;
 
-Dirección General de Ordenamiento Urbano y Regional
+II. Subsecretaría de Infraestructura Regional;
+
+III. Direcciones Generales, Coordinaciones, Direcciones y Unidades Administrativas:
 
 Dirección General de Desarrollo Urbano
 
 Dirección General de Obras Públicas
-
-Coordinación General de Medio Ambiente
 
 Dirección General de Pueblos Indígenas y Comunidades Marginadas
 
@@ -97,9 +101,15 @@ Dirección General de Atención a Migrantes
 
 Dirección General de Planeación y Evaluación
 
+Coordinación General de Medio Ambiente
+
 Dirección Jurídica
 
 Unidad Administrativa
+
+IV. Organismos Públicos Descentralizados:
+
+Instituto Veracruzano de Fomento al Desarrollo Regional
 
 ###### Artículo 8.
 
@@ -471,79 +481,7 @@ XII. Las demás que expresamente le atribuyan las leyes del Estado, este Reglame
 
 ###### Artículo 19.
 
-Corresponde al Director General de Ordenamiento Urbano y Regional:
-
-I. Ejecutar y evaluar las políticas generales de desarrollo urbano y regional y en particular, las de ordenamiento de los asentamientos humanos, de dosificación de suelo, vivienda, infraestructura y equipamiento de servicios;
-
-II. Proyectar el ordenamiento territorial de los asentamientos humanos y la regulación del desarrollo urbano de los centros de población y zonas conurbadas;
-
-III. Establecer y operar el Sistema de Información Estadística y Geográfica, mediante registros electrónicos y cartografía digitalizada, para la planeación del desarrollo regional y urbano, concentrando, clasificando y organizando datos, documentos y cartografía;
-
-IV. Coordinar la elaboración, operación y actualización del Programa Sectorial competencia de la secretaría, así como de los programas derivados de éste, señalados por la Ley Estatal de la materia;
-
-V. Emitir, previo acuerdo con el secretario la declaración de procedencia de los programas de ordenamiento urbano y regional, que elaboren las entidades del sector y los municipios, vigilando su publicación en la Gaceta Oficial del Estado y su inscripción en el Registro Público de la Propiedad y del Comercio;
-
-VI. Apoyar y cuando así lo soliciten, formular los programas urbanos y regionales competencia de los municipios, previo convenio de colaboración suscrito con los ayuntamientos correspondientes;
-
-VII. Participar en forma coordinada con los municipios en la planeación y control del desarrollo urbano regional de las conurbaciones dentro del Estado, elaborando la declaratoria de existencia y ordenando la constitución de las comisiones de conurbación que regulen y controlen el desarrollo de dichas zonas;
-
-VIII. Establecer, operar y mantener actualizado el registro de programas urbanos y regionales, convocando a los órganos y entidades elaboradoras de dichos documentos para proceder a su inscripción correspondiente, previo dictamen de procedencia favorable;
-
-IX. Supervisar y vigilar la aplicación de los programas y acciones de desarrollo urbano y regional del Estado;
-
-X. Emitir, previo acuerdo con el secretario el dictamen de desarrollo urbano integral de las acciones que por su magnitud o impacto lo ameriten, de acuerdo a lo dispuesto por la legislación de la materia;
-
-XI. Proponer al secretario, en términos de lo que establezca la legislación aplicable, la fundación de nuevos centros de población previstos en el Programa Sectorial de Desarrollo Social y Medio Ambiente;
-
-XII. Determinar, en coordinación con las dependencias y entidades federales, estatales y municipales correspondientes, los requerimientos de suelo y reservas para el desarrollo regional, urbano y vivienda, así como las acciones e inversiones respectivas;
-
-XIII. Proponer al secretario la celebración de convenios con la federación, estados y municipios, así como con los sectores social y privado para la realización de acciones e inversiones para el desarrollo urbano y regional de la Entidad;
-
-XIV. Promover la participación social en la administración del desarrollo urbano y regional a través de los consejos estatales y municipales, comisiones de conurbación y demás representaciones, así como la participación de colegios de profesionistas, cámaras, organismos no gubernamentales y demás sectores interesados;
-
-XV. Formular recomendaciones para el cumplimiento de la política estatal de ordenamiento territorial de los asentamientos humanos y de los convenios y acuerdos que suscriba el Estado con los sectores público, social y privado en materia de desarrollo regional y urbano, así como determinar, en su caso, las medidas correctivas procedentes;
-
-XVI. Previo acuerdo con el secretario, otorgar con la participación de los municipios correspondientes, las autorizaciones y licencias de fraccionamiento, fusión, subdivisión y relotificación de predios en la Entidad, en términos de la Ley de Desarrollo Regional y Urbano del Estado y demás legislación y normatividad aplicable;
-
-XVII. Previo acuerdo con el secretario otorgar la autorización para la constitución del régimen de propiedad en condominio de inmuebles, en términos de la legislación aplicable;
-
-XVIII. Formular y ejercer programas, así como realizar estudios y proyectos para ordenar, catalogar, proteger, rehabilitar y mejorar los sitios con valor histórico, típico, artístico, de relevancia cultural y de belleza natural; en los términos que disponga la normatividad aplicable;
-
-XIX. Apoyar a la coordinación general de medio ambiente, a efecto de que las autorizaciones de impacto ambiental consideren la observancia de la legislación y los programas de desarrollo urbano y regional aplicables;
-
-XX. Proporcionar asistencia técnica a los municipios que lo soliciten, en la elaboración, operación, seguimiento y evaluación de sus planes, programas y demás disposiciones en materia de desarrollo urbano y regional;
-
-XXI. Apoyar la integración de los programas y presupuestos en materia de desarrollo urbano y regional, con relación a los convenios que celebre el Ejecutivo del Estado, dando seguimiento al ejercicio del gasto público asignado, así como evaluar su aplicación;
-
-XXII. Concertar, previo acuerdo con el secretario, el financiamiento y operación de programas de incidencia con el desarrollo urbano y regional, con instituciones de crédito o de fomento;
-
-XXIII. Promover ante las dependencias y entidades de la Administración Pública federal y estatal, así como de los municipios, la congruencia de los programas, proyectos, obras y servicios que incidan en el desarrollo urbano y regional, con los objetivos, política, estrategias, lineamientos y prioridades del Plan Veracruzano de Desarrollo y de los programas del sector, así como formular las bases y proponer la celebración de los correspondientes acuerdos y convenios;
-
-XXIV. Proponer bases para el establecimiento de mecanismos de coordinación con la Secretaría de Finanzas y Planeación y en su caso, con las instituciones de crédito y organizaciones sociales, a fin de que los financiamientos que se otorguen para la realización de acciones, obras y servicios públicos para el desarrollo urbano y regional, se ajusten a los programas de ordenamiento legales y a las disposiciones jurídicas aplicables;
-
-XXV. Elaborar los informes que le soliciten a la Secretaría, sobre el cumplimiento de los objetivos y metas de los programas de su competencia;
-
-XXVI. Proponer la evaluación del impacto socioeconómico y territorial de los programas, obras y servicios para el desarrollo urbano y regional que realicen las dependencias federales y municipales, así como entidades de la Administración Pública estatal;
-
-XXVII. Establecer, instrumentar, coordinar y operar la planeación sistemas de obras y servicios para el desarrollo urbano y regional que ejerza la Secretaría y las entidades del sector, así como otras dependencias y entidades de la Administración Pública federal, estatal o municipal en los términos que disponga la normatividad aplicable;
-
-XXVIII. Substanciar los procedimientos y recursos administrativos por infracciones a la Ley de Desarrollo Urbano y Regional, Reglamentos y disposiciones que de ella emanen, emitiendo la resolución que proceda conforme a las disposiciones legales aplicables, en coordinación con la Dirección Jurídica de la Secretaría, y actuar, por acuerdo del Secretario, como coadyuvante de las autoridades que corresponda, en los juicios seguidos por delitos cometidos en contra del desarrollo urbano y el derecho a la vivienda, de acuerdo a la legislación vigente;
-
-XXIX. Aplicar las medidas de seguridad tendientes a evitar daños al control y regulación del desarrollo urbano y regional por las obras, instalaciones o acciones de desarrollo, públicas o privadas, que no se sujeten a la legislación de la materia;
-
-XXX. Impulsar la investigación, capacitación y divulgación en materia de desarrollo urbano y regional;
-
-XXXI. Coordinar la organización de exposiciones y congresos patrocinados por la Secretaría, de acuerdo con las instrucciones que emita el Secretario;
-
-XXXII. Proponer a la Dirección Jurídica de la Secretaría, anteproyectos de leyes, reglamentos, acuerdos, decretos y demás disposiciones de observancia general en materia de desarrollo urbano;
-
-XXXIII. Detectar los actos que infrinjan la normatividad en materia de fusiones, subdivisiones, lotificaciones, relotificaciones, fraccionamientos y constitución de regímenes de propiedad en condominio, en coordinación con la Dirección Jurídica de la Secretaría;
-
-XXXIV. Proponer ante las comisiones de conurbación del Estado, acuerdos que involucren en lo particular a cada una de éstas, en materia de ordenamiento y desarrollo urbano;
-
-XXXV. Fomentar la investigación y capacitación de recursos humanos en materia de desarrollo social, regional, urbano en coordinación con centros e instituciones relacionadas con la materia;
-
-XXXVI. Las demás que expresamente le atribuyan las leyes del Estado, este Reglamento, y demás normativa aplicable, así como las que de sus atribuciones le confiera el Subsecretario.
+(DEROGADO, G.O. 9 DE NOVIEMBRE DE 2006)
 
 #### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN GENERAL DE DESARROLLO URBANO
 
@@ -835,7 +773,13 @@ XXIX. Denunciar ante las autoridades competentes los actos, hechos u omisiones q
 
 XXX. Substanciar y resolver los recursos administrativos que establezcan las leyes y reglamentos que corresponda aplicar a la Secretaria;
 
-XXXI. Las demás que les (sic) sean encomendadas de acuerdo con sus respectivas atribuciones y las disposiciones legales aplicables.
+> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2006)</small>
+
+XXXI. Sustanciar, en coordinación con la Dirección General del Instituto Veracruzano de Fomento al Desarrollo Regional, los procedimientos y recursos administrativos por infracciones a la Ley de Desarrollo Urbano y Regional, los procedimientos y recursos administrativos por infracciones a la Ley de Desarrollo Urbano y Regional, reglamentos y disposiciones que de ella emanen, emitiendo la resolución que proceda conforme las disposiciones legales aplicables y actuar como coadyuvante de las autoridades que corresponda, en los juicios seguidos por delitos cometidos en contra del desarrollo urbano y el derecho a la vivienda de acuerdo a la legislación vigente;
+
+> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2006)</small>
+
+XXXII. Las demás que les (sic) sean encomendadas de acuerdo a sus respectivas atribuciones y las disposiciones legales aplicables.
 
 #### SECCIÓN DÉCIMO PRIMERA. DE LA UNIDAD ADMINISTRATIVA
 
@@ -946,3 +890,17 @@ GOBERNADOR DEL ESTADO
 LIC. REYNALDO G. ESCOBAR PÉREZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 9 DE NOVIEMBRE DE 2006.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTOS ARTICULOS DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2007 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE REPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones reglamentarias y de menor jerarquía que se opongan al presente Decreto.
+
+Tercero. Las funciones que estaban previstas en el artículo 19 de este ordenamiento deberán ser incorporadas, en un término no mayor a 30 días, al Reglamento Interior del Instituto Veracruzano de Fomento al Desarrollo Regional, exceptuando la fracción XXVIII del citado precepto, cuyo contenido subsistirá pero ahora trasladado a la fracción XXXI del artículo 23 del Reglamento Interior de la Secretaría de Desarrollo Social y Medio Ambiente.
+
+Cuarto. El titular de la Secretaría de Desarrollo Social y Medio Ambiente y la Subsecretaría de Finanzas y Planeación transferirán, en un plazo no mayor a 60 días, los recursos financieros materiales y humanos con los cuales hasta el momento ha venido operando la Dirección General de Ordenamiento Urbano, al Instituto Veracruzano de Fomento al Desarrollo Regional, observando estrictamente las disposiciones administrativas y laborales vigentes y aplicables en la materia.
