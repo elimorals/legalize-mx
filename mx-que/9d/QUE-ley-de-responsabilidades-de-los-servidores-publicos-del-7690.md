@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7690"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-17"
-last_updated: "2004-03-26"
+last_updated: "2006-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 17 de diciembre de 1992.
 
@@ -161,9 +161,9 @@ Corresponde a la Legislatura del Estado iniciar el Juicio Político constituyén
 
 El Tribunal Superior de Justicia, erigido en Jurado de Sentencia, revisará que en el procedimiento del juicio político, se hayan observado las disposiciones contenidas en la Constitución Política del Estado y las de esta ley, así mismo y en su caso, aplicará la sanción correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2006)</small>
 
-Para los efectos de este artículo, la Legislatura conocerá a través de la Comisión Instructora de los procedimientos a que se refiere esta ley, el Tribunal Superior de Justicia, conformará una Sección de Enjuiciamiento. La Comisión y la Sección se integran con cuatro miembros y de entre sus miembros se designará un presidente y un secretario que no tendrá voto.
+Para los efectos de este artículo, la Legislatura conocerá, a través de la Comisión Instructora, de los procedimientos a que se refiere esta Ley. El Tribunal Superior de Justicia, conformará una sección se integrarán con cinco miembros que designarán, respectivamente, el Pleno de la Legislatura y el Pleno del Tribunal. De entre sus integrantes se designará un presidente y un secretario.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
 
@@ -1178,3 +1178,13 @@ PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el P
 SEGUNDO. Se derogan las disposiciones que se opongan a la presente ley.
 
 TERCERO. Los procedimientos de fincamiento de responsabilidades administrativas, que se encuentran en trámite actualmente, así como los que se inicien por los actos realizados anteriores a la entrada en vigor de la presente ley, se continuarán hasta su conclusión, conforme a lo previsto en las disposiciones legales vigentes que regían en ese momento.
+
+P.O. 10 DE NOVIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente ley.
