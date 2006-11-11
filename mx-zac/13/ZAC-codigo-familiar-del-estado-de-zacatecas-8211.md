@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2006-02-01"
+last_updated: "2006-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2006.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -709,9 +709,11 @@ Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y l
 
 También es requisito para contraer matrimonio, la asistencia previa de los interesados a las pláticas de orientación prematrimonial con perspectiva de género, que llegare a implementar la correspondiente autoridad municipal.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 107.
 
-Los menores de edad, no pueden contraer matrimonio sin consentimiento del que o de los que ejerzan la patria potestad. Este derecho lo tiene además la madre, aunque haya contraído segundas nupcias, y si el hijo vive con ella. A falta o por imposibilidad de los padres se necesita el consentimiento de los abuelos que ejerzan la patria potestad, en el orden señalado por la Ley.
+Los menores de edad, no pueden contraer matrimonio sin consentimiento del que o de los que ejerzan la patria potestad. Este derecho lo tiene además la madre, aunque haya contraído segundas nupcias, y si el hijo vive con ella. A falta o por imposibilidad de los padres se necesita el consentimiento de los abuelos que ejerzan la patria potestad.
 
 ###### ARTICULO 108.
 
@@ -2269,6 +2271,10 @@ II. Por el abuelo y abuela paternos;
 
 III. Por el abuelo y abuela maternos;
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+En los casos señalados en las fracciones II y III de este artículo no se establece un orden de prelación y se elegirá para el ejercicio de la patria potestad a quienes por su solvencia y reputación, resulten los más idóneos.
+
 ###### ARTICULO 375.
 
 Cuando los dos progenitores han reconocido al hijo nacido fuera de matrimonio y viven juntos, ejercerán ambos la patria potestad; si vivieren separados, por el primero que lo reconoció, a juicio del Juez, según lo dispuesto en esta Ley en el Capítulo relativo a la Filiación Natural.
@@ -2281,9 +2287,11 @@ Si el hijo es adoptivo y la adopción la hizo un matrimonio, ambos cónyuges con
 
 Si sólo fue adoptado por una persona, a ésta corresponde ejercer la patria potestad.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 378.
 
-Solamente por falta o impedimento del padre y de la madre, la patria potestad corresponde al abuelo y a la abuela paternos y maternos.
+Solamente por falta o impedimento del padre y de la madre, la patria potestad corresponde al abuelo y a la abuela paternos y maternos. En todo caso, se elegirá para su ejercicio o quienes por su solvencia y reputación resulten los más idóneos.
 
 ###### ARTICULO 379.
 
@@ -2302,6 +2310,10 @@ Las Autoridades, en caso necesario, auxiliarán a los titulares de la patria pot
 ###### ARTICULO 382.
 
 Cuando llegue al conocimiento del Juez que quienes ejercen la patria potestad no cumplen con los deberes que ella les impone, lo hará saber al Ministerio Público, quien promoverá lo que corresponda en interés del sujeto a la patria potestad. El Ministerio Público deberá hacer esta promoción cuando los hechos lleguen a su conocimiento por otro medio distinto a la información del Juez.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+Las personas señaladas en las fracciones II y III del artículo 374 de este Código, que no se encuentren ejerciendo la patria potestad, tendrán derecho a la comunicación y convivencia con el menor; en todo caso, podrán informar al Juez y al Ministerio Público de cualquier falta a los deberes de quienes la ejerzan.
 
 ###### ARTICULO 383.
 
@@ -4388,3 +4400,13 @@ P.O. 1 DE FEBRERO DE 2006.
 PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
