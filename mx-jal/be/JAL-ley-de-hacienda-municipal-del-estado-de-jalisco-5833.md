@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2005-07-07"
+last_updated: "2006-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -177,17 +177,21 @@ II. El Presidente Municipal;
 
 III. El Tesorero Municipal;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
-IV. Los delegados y agentes municipales;
+IV. El servidor público encargado del área de ingresos, en aquellos municipios en que exista;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
-V. Los organismos descentralizados municipales o intermunicipales que operan y administran los servicios de agua potable y alcantarillado, en cuanto a las atribuciones que por delegación les confieren en esta materia los acuerdos o convenios que crean estos organismos, exceptuándose la facultad económica-coactiva, la cual solo podrán ejercerla cuando el Congreso del Estado mediante Ley les otorgue el carácter de Organismo Fiscal Autónomo, fuera de estos casos sólo podrá ser ejercida por los funcionarios encargados de las tesorerías municipales o por los servidores públicos que determine cada municipio; y
+V. Los delegados y agentes municipales;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
-VI.- Las demás autoridades municipales a quienes las leyes confieran atribuciones en materia fiscal.
+VI. Los organismos descentralizados municipales o intermunicipales que operan y administran los servicios de agua potable y alcantarillado, en cuanto a las atribuciones que por delegación les confieren en esta materia los acuerdos o convenios que crean estos organismos, exceptuándose la facultad económico-coactiva, la cual solo podrán ejercerla cuando el Congreso del Estado mediante Ley les otorgue el carácter de Organismo Fiscal Autónomo, fuera de estos casos sólo podrá ser ejercida por los funcionarios encargados de las tesorerías municipales o por los servidores públicos que determine cada municipio; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+VII. Las demás autoridades municipales a quienes las leyes confieran atribuciones en materia fiscal.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -300,6 +304,12 @@ Independientemente de las atribuciones a que se refiere este artículo, el Tesor
 Los gastos que se originen con motivo del otorgamiento de la caución, serán a cargo del Erario Municipal.
 
 El Tesorero Municipal que no caucione su manejo de fondos, no podrá cobrar sueldos y será destituido de su cargo si no cumple esta obligación dentro de los tres meses siguientes a su nombramiento.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+Art. 23 bis. El servidor público encargado del área de ingresos, en los municipios donde exista, tendrá las atribuciones a que se refiere las fracciones I, III, IV, VI y XII del artículo anterior, con excepción del inciso b) y la fracción III, sin perjuicio de las facultades de las demás autoridades fiscales.
+
+Dicho servidor público deberá aceptar en todo momento las órdenes y determinaciones del Tesorero Municipal o del Encargado de la Hacienda Municipal.
 
 ###### Art. 24.
 
@@ -3422,3 +3432,7 @@ P.O. 23 DE JUNIO DE 2005.
 P.O. 7 DE JULIO DE 2005.
 
 ÚNICO. El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
