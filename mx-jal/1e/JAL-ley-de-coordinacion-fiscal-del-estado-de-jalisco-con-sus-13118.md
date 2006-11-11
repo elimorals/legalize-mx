@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2000-12-19"
+last_updated: "2006-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2006.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -320,6 +320,16 @@ Los acuerdos emitidos por el Consejo Estatal Hacendario, que propongan cambios s
 
 Cuando el estado o algún municipio contravengan lo establecido por esta Ley, o violen el contenido del o los Convenios de Coordinación Fiscal y Colaboración Administrativa que se deriven de la misma, previa manifestación expresa a dicha contravención por la parte afectada a la autoridad infractora, podrá presentar su inconformidad por escrito, ante el Congreso del Estado, para que previo estudio y análisis, dictamine sobre la procedencia de las medidas correctivas a que haya lugar.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+### CAPÍTULO VIII. De las aportaciones federales
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 23.
+
+Para los efectos de la distribución de los Fondos de Aportaciones para la Infraestructura Social Municipal y del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las demarcaciones territoriales del Distrito Federal, se estará a lo establecido en el capítulo V de la Ley de Coordinación Fiscal.
+
 ## TRANSITORIOS
 
 Primero. Esta Ley entrará en vigor el día 1 de enero del año de 1997, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
@@ -367,3 +377,7 @@ SEGUNDO.- se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 19 DE DICIEMBRE DE 2000.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- Las reformas y adiciones del presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
