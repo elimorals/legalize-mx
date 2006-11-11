@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2003-12-27"
+last_updated: "2006-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -201,9 +201,19 @@ Los avisos deberán presentarse en la Secretaría de Finanzas, dentro de los ses
 
 Del objeto
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 13.
 
-Es objeto de este impuesto la celebración, realización o expedición de cualquier acto o contrato ya sea que represente o no interés pecuniario para los contratantes, así como la protocolización de documentos ante fedatario público, siempre y cuando no esté gravado por otro impuesto previsto en esta ley.
+Es objeto de este impuesto:
+
+I. La celebración, realización o expedición de cualquier acto o contrato, ya sea que presente o no interés pecuniario para los contratantes;
+
+II. La protocolización de documentos ante fedatario público; y
+
+III. El asiento de documentos, actas y pólizas en el libro de registro ante fedatario público.
+
+Este impuesto se causará, siempre y cuando el objeto no esté gravado por otro impuesto previsto en esta Ley.
 
 De los sujetos
 
@@ -211,13 +221,17 @@ De los sujetos
 
 Son sujetos pasivos de este impuesto las partes en los actos o contratos e instrumentos públicos.
 
-Los Notarios, registradores y las autoridades competentes no registrarán o darán tramite a actos o contratos en que intervengan, o documentos que se les presenten hasta que sea pagado el impuesto que se cause.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+Los fedatarios públicos, registradores y las autoridades competentes no registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
 
 De la base del impuesto
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 15.
 
-Será base para el pago de este impuesto el monto establecido por las partes en los contratos y actos jurídicos o notariales en que se estipulen obligaciones pecuniarias o reducibles a dinero.
+Será base para el pago de este impuesto el monto establecido por las partes en los contratos y actos jurídicos o de fedatario público en que se estipulen obligaciones pecuniarias o reducibles a dinero.
 
 En caso de obligaciones alternativas, el monto de la más elevada.
 
@@ -231,9 +245,11 @@ Este impuesto se liquidará y pagará de conformidad con la tarifa o tasa que se
 
 Del pago
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 17.
 
-El pago de este impuesto se efectuará dentro de los treinta días naturales siguientes a la fecha de celebración del acto jurídico o contrato, o en su caso la expedición del protocolo respectivo.
+El pago de este impuesto se efectuará dentro de los treinta días naturales siguientes a la fecha de celebración del acto jurídico o contrato, o en su defecto, a la fecha de expedición del protocolo, acta o póliza respectiva.
 
 En el área metropolitana, compuesta por los municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan, el pago de este impuesto se hará en la oficina de recaudación fiscal adjunta al Registro Público de la Propiedad, o en cualquiera otra que determine el Secretario de Finanzas mediante acuerdo general.
 
@@ -247,7 +263,9 @@ Están exentos del pago de este impuesto:
 
 I. Los contratos, actos jurídicos e instrumentos notariales en que intervengan el Gobierno Federal, el Estado y los municipios;
 
-II. La protocolización de actas de asambleas generales ordinarias y extraordinarias de accionistas;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+II. La protocolización o asiento de actas de asambleas generales ordinarias y extraordinarias de accionistas;
 
 III. Los actos jurídicos o contratos en los que intervengan los organismos públicos de seguridad social;
 
@@ -259,9 +277,11 @@ VI. Los contratos de arrendamiento de casa habitación;
 
 VII. La manifestación de voluntad que realicen las personas para donar sus órganos o tejidos para fines terapéuticos o de investigación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 19.
 
-Los notarios o quienes hagan sus veces, los registradores y las autoridades, no expedirán testimonios, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
+Los fedatarios públicos o quienes hagan sus veces, los registradores y las autoridades, no expedirán testimonios, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
 
 En todo caso, al margen de la matriz y en los testimonios en los documentos privados, deberá asentarse la constancia de pago o la que éste no se causa.
 
@@ -275,9 +295,11 @@ Tratándose de contratos mercantiles cuyo registro no puede ser demorado de acue
 
 En el caso de que las obligaciones estipuladas estén sujetas a alguna condición, también se causará el impuesto por la celebración del contrato respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 22.
 
-Los notarios públicos o quienes hagan sus veces, los particulares, tratándose de documentos privados u otorgados fuera del Estado y los servidores públicos, cuando sea potestativa la protocolización de sus resoluciones, deberán dar aviso a la Secretaría de Finanzas de los actos o contratos en que intervengan, gravados por el impuesto que regula este capítulo.
+Los fedatarios públicos o quienes hagan sus veces, los particulares, tratándose de documentos privados u otorgados fuera del Estado y los servidores públicos, cuando sea potestativa la protocolización de sus resoluciones, deberán dar aviso a la Secretaría de Finanzas de los actos o contratos en que intervengan, gravados por el impuesto que regula este capítulo.
 
 ### CAPITULO TERCERO. Del impuesto sobre la adquisición de vehículos automotores usados
 
@@ -293,7 +315,9 @@ De los sujetos
 
 Son sujetos pasivos de este impuesto las personas físicas, jurídicas y unidades económicas que adquieran vehículos automotores usados, dentro del territorio del estado.
 
-Se considera que la adquisición se realizó en el estado cuando el adquirente deba llevar a cabo los trámites de cambio de propietario o matriculación del vehículo ante las autoridades competentes.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+Se considera que la adquisición, compra-venta, donación, permuta o aportación a una sociedad, se realizó en el Estado de Jalisco, cuando el adquirente lleve a cabo los trámites de cambio de propietario o matriculación del vehículo ante las autoridades competentes en el Estado.
 
 De las bases del impuesto
 
@@ -334,6 +358,10 @@ Para la recaudación de este impuesto se observarán las reglas siguientes:
 I. Los contribuyentes deberán presentar la documentación que acredite la propiedad del vehículo, ante la oficina de recaudación fiscal que corresponda, y
 
 II. La oficina de recaudación fiscal, al efectuarse el entero del impuesto, expedirá el recibo oficial respectivo y certificará constancia de pago en la factura o documento que ampare la propiedad del vehículo.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+Los contribuyentes propietarios de vehículos automotores usados registrados en el Estado que efectúen la transmisión de un vehículo, o los contribuyentes que lo adquieran, deberán presentar ante la Oficina Recaudadora Fiscal competente, el aviso de cambio de propietario dentro de los treinta días siguientes a aquel en que se realice la adquisición, compra-venta, donación, permuta o aportación a una sociedad, adjuntando el documento que acredite dicha circunstancia.
 
 De las exenciones
 
@@ -433,7 +461,9 @@ Del objeto
 
 Son objeto de este impuesto, los pagos que en efectivo o en especie, realicen personas físicas o jurídicas en el estado de Jalisco, por concepto de remuneración al trabajo personal prestado bajo la subordinación de las mismas con carácter de patrón.
 
-Quedan incluidas las personas físicas o jurídicas que sin estar domiciliadas en el estado de Jalisco, tengan personal subordinado dentro del estado en sucursales, bodegas, agencias y otras dependencias.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+Quedan incluidas las personas físicas o jurídicas que sin estar domiciliadas en el Estado de Jalisco, tengan personal subordinado en el territorio de éste, en sucursales, bodegas, agencias, unidades económicas, dependencias y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
 
 Para efecto de este impuesto se consideran remuneraciones al trabajo personal subordinado, las contraprestaciones, ordinarias o extraordinarias, que realicen los patrones en favor de sus empleados.
 
@@ -541,9 +571,11 @@ Asimismo, para los efectos de este impuesto, se entiende por prestación de serv
 
 De los sujetos
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 48.
 
-Son sujetos de este impuesto, las personas que reciban los servicios de hospedaje, mediante la retención que deberán efectuar los prestadores de los mismos.
+Son sujetos de este impuesto, las personas físicas o morales que presten los servicios de hospedaje.
 
 De las obligaciones
 
@@ -553,15 +585,29 @@ Las personas que presten los servicios de hospedaje, así como las que tengan a 
 
 I. Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la autoridad fiscal que corresponda, mediante la forma oficial del caso y proporcionando la información relacionada con su identidad, su domicilio y aquella que les sea solicitada,
 
-II. Retener a los usuarios de los servicios de hospedaje, el impuesto correspondiente y enterarlo a las oficinas autorizadas dentro del plazo señalado en este capítulo. Los retenedores de este impuesto están obligados a enterarlo, aún cuando no hubieren hecho la referida retención, pero sí hubiesen prestado el servicio,
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
-III. Presentar ante las autoridades, dentro del mes siguiente en que suceda cualquiera de los siguientes casos; los avisos de cambio de domicilio, nombre, razón social, traslado, traspaso, reanudación o suspensión de actividades.
+II. Trasladar el impuesto a las personas a las que se preste el servicio de hospedaje y enterarlo en las oficinas autorizadas dentro del plazo señalado en este capítulo,
+
+III. Presentar ante las autoridades, dentro del mes siguiente en que suceda cualquiera de los siguientes casos; los avisos de cambio de domicilio, nombre, razón social, traslado, traspaso, reanudación o suspensión de actividades,
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+IV. Llevar un registro acorde con sus sistemas de contabilidad, en el que se consigne el monto correspondiente al valor de la contraprestación por los servicios de hospedaje, donde se desglosen los servicios accesorios que en su caso se presten.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+En el caso de que un contribuyente cuente con dos o más inmuebles donde se presten servicios de hospedaje, deberá llevar el registro a que se refiere el párrafo anterior respecto de cada uno de ellos.
 
 De la base del impuesto
 
 ###### Artículo 50.
 
 La base para el cálculo de este impuesto se integra con el valor total de la contraprestación del servicio de hospedaje y, en el caso de los tiempos compartidos, por el monto de la contraprestación que hace el usuario del servicio cada vez que haga uso de sus derechos convenidos sobre un bien o parte del mismo.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como bebidas, comidas, transportación, uso de instalaciones u otros similares, y no desglosen y demuestren la prestación de los servicios accesorios, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
 De la cuota
 
@@ -581,27 +627,15 @@ La obligación de presentar la declaración subsistirá aún cuando no se hayan 
 
 Del objeto
 
-###### Artículo 53.
-
-Es objeto de este impuesto, la obtención de ingresos o premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita obtener dicho ingreso haya sido pagado en el territorio del estado de Jalisco.
-
-> <small>N. DE E. ES DE OBSERVARSE QUE EL LEGISLADOR FUE OMISO AL REFORMAR EL PRESENTE ARTICULO, TODA VEZ QUE LA REFORMA PUBLICADA EN EL P.O. DE 21 DE DICIEMBRE DE 2000, NO COINCIDE CON EL TEXTO QUE INTEGRA EL MISMO; SITUACION QUE SE HACE DEL CONOCIMIENTO DEL USUARIO, TRANCRIBIENDOSE INTEGRAMENTE DICHA PUBLICACION.</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 53.
 
-Están exentas del pago de este impuesto:
+Es objeto de este impuesto, la obtención de ingresos o premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita obtener dicho ingreso haya sido pagado, entregado, otorgado o distribuido en el territorio del Estado de Jalisco, independientemente del lugar en donde se realice el evento.
 
-I. ...
+Se considera que el organizador de loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, obtiene el ingreso o el premio, cuando una vez realizado el evento, no exista por virtud del mismo, persona que lo haya obtenido.
 
-De la a) a la g) ...
-
-h) Los gastos debidamente comprobados realizados por el patrón para promover y difundir la cultura y las artes, así como para fomentar la lectura.
-
-II. ...
-
-De la a) a la c) ...
-
-d) Las personas físicas o jurídicas que realicen o promuevan actividades de fomento artístico y cultural no lucrativas.
+Para efectos de este impuesto, se entenderá por juegos con apuestas, a todos los permitidos y autorizados, de conformidad con la Ley Federal de Juegos y Sorteos u ordenamiento legal que los regule y disposiciones que de ellos emanen.
 
 De los sujetos
 
@@ -665,9 +699,15 @@ V. Cuando los sujetos realicen eventos en varios establecimientos, acumularán l
 
 Del objeto
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 61.
 
-Es objeto de este impuesto, el ingreso que se obtenga en el Estado de Jalisco, por concepto de enajenación de boletos y demás comprobantes que permitan participar en rifas, loterías, concursos y sorteos.
+Es objeto de este impuesto:
+
+I. El ingreso que se obtenga en el Estado de Jalisco, por concepto de enajenación de boletos, billetes, registros, contraseñas y demás comprobantes que permitan participar en rifas, loterías, concursos, sorteos y juegos con apuestas.
+
+II. La distribución de boletos, billetes, registros, contraseñas y demás comprobantes que permitan participar en los eventos o actividades referidas, aún cuando no se cobre cantidad alguna que represente el derecho a participar en los mismos.
 
 De los sujetos
 
@@ -677,9 +717,13 @@ Son sujetos del impuesto a que se refiere el presente capítulo, las personas f�
 
 De la base
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 63.
 
-Servirá de base para el cálculo de este impuesto, el total de los ingresos que se obtengan.
+Servirá de base para el cálculo de este impuesto, el total de los ingresos que obtenga la persona quien organice, realice o explote rifas, loterías, concursos, sorteos y juegos con apuestas, disminuyendo el monto de los premios pagados o entregados.
+
+Cuando los boletos, billetes, registro, contraseñas y demás comprobantes, sean distribuidos gratuitamente o no se exprese su valor, el impuesto se calculará sobre el valor total de los premios.
 
 De la tarifa
 
@@ -743,7 +787,11 @@ Para el pago de los derechos que a continuación se enuncian se observará lo si
 
 I. Tratándose de canje periódico general de placas de circulación de motocicletas, los derechos correspondientes deberán pagarse a más tardar el último día hábil del mes de marzo del año en que se realice el canje. Dicho plazo podrá ampliarse mediante acuerdo que al efecto expida el Ejecutivo del Estado;
 
-II. Tratándose de refrendo anual, tarjeta de circulación y holograma de automóviles, camiones, camionetas, tractores, automotores, remolques y otros vehículos, deberá realizarse en el periodo comprendido del 2 de enero al último día hábil del mes de julio, debiendo cubrirse los derechos respectivos en ese mismo período. Este plazo podrá ampliarse mediante acuerdo que al efecto expida el Ejecutivo del Estado;
+II. Tratándose de refrendo anual, tarjeta de circulación y holograma de automóviles, camiones, camionetas, tractores, automotores, remolques y otros vehículos, deberá realizarse en el periodo comprendido del 2 de enero al último día hábil del mes de julio, debiendo cubrirse los derechos respectivos en ese mismo período. Este plazo podrá ampliarse mediante acuerdo que al efecto expida el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+
+Se considera inscrito el vehículo en el padrón al momento en que sean dotadas las placas de circulación. Además, se estará obligado a presentar los avisos de cambio de domicilio, cambio de propietario, modificación y baja de placas por robo o baja total;
 
 III. Los derechos que deban causar todos los documentos que tengan que registrarse en la Dirección del Registro Público de la Propiedad y Registro Público de Comercio, establecida en la ciudad de Guadalajara, deberán ser cubiertos en la oficina de recaudación fiscal anexa a la misma, o en cualquier otra que señale el Secretario de Finanzas, mediante acuerdo general previo, independientemente de la municipalidad de la notaría pública que los autorice; en los demás casos, deberán ser cubiertos en la oficina de recaudación fiscal del lugar donde está ubicada la oficina registral. El pago se efectuará previo aviso por escrito a la recaudadora de parte de la oficina que prestará el servicio, en el cual se deberá mencionar, la cantidad a cubrir, concepto afectado así como el fundamento legal correspondiente;
 
@@ -930,3 +978,11 @@ P.O. 1 DE MAYO DE 2003.
 P.O. 27 DE DICIEMBRE DE 2003.
 
 Único. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE MAYO DE 2004.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE NOVIEMBRE DE 2006.
+
+Único. Las reformas y adiciones del presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
