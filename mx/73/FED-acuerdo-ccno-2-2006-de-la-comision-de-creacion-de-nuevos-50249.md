@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-2-2006-de-la-comision-de-creacion-de-nuevos-50249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-05-02"
-last_updated: "2006-07-14"
+last_updated: "2006-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-04-20"
 
 ACUERDO CCNO/2/2006, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL CUARTO TRIBUNAL COLEGIADO DEL OCTAVO CIRCUITO, CON RESIDENCIA EN SALTILLO, COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 2 de mayo de 2006.
 
@@ -47,7 +47,7 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/3/2006 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. 14 DE JULIO DE 2006, SE PRORROGA EL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL CUARTO TRIBUNAL COLEGIADO DEL OCTAVO CIRCUITO, CON SEDE EN SALTILLO, COAHUILASE, DEL 6 DE AGOSTO AL 3 DE NOVIEMBRE DE 2006.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/9/2006, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 13 DE NOVIEMBRE DE 2006, SE PRORROGA EL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL CUARTO TRIBUNAL COLEGIADO DEL OCTAVO CIRCUITO, CON SEDE EN SALTILLO, COAHUILA, DEL 4 DE NOVIEMBRE DE 2006 AL 19 DE ENERO DE 2007.</small>
 
 PRIMERO.- Se prorroga el plazo de exclusión del turno de nuevos asuntos al Cuarto Tribunal Colegiado del Octavo Circuito, con sede en Saltillo, Coahuila, establecido en el punto Tercero del Acuerdo General 55/2005 del Pleno del Consejo de la Judicatura Federal.
 
@@ -68,6 +68,12 @@ LA LICENCIADA GUADALUPE MARGARITA ORTIZ BLANCO, SECRETARIA EJECUTIVA DE CARRERA 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 D.O.F. 14 DE JULIO DE 2006.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE NOVIEMBRE DE 2006.
 
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
