@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-55-2005-del-pleno-del-consejo-de-la-47150"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-12-22"
-last_updated: "2006-07-14"
+last_updated: "2006-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-12-13"
 
 ACUERDO GENERAL 55/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL QUINTO TRIBUNAL COLEGIADO DEL OCTAVO CIRCUITO, CON SEDE EN SALTILLO, COAHUILA; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO Y RESIDENCIA INDICADOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 22 de diciembre de 2005.
 
@@ -51,7 +51,7 @@ Su domicilio será el ubicado en Boulevard Venustiano Carranza 1819, colonia Rep
 
 SEGUNDO.- Los actuales tribunales colegiados del octavo Circuito, conservarán la denominación, competencia, sede y jurisdicción territorial que tienen asignadas.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/3/2006 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. 14 DE JULIO DE 2006, SE PRORROGA EL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL CUARTO TRIBUNAL COLEGIADO DEL OCTAVO CIRCUITO, CON SEDE EN SALTILLO, COAHUILASE, DEL 6 DE AGOSTO AL 3 DE NOVIEMBRE DE 2006.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/9/2006, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 13 DE NOVIEMBRE DE 2006, SE PRORROGA EL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL CUARTO TRIBUNAL COLEGIADO DEL OCTAVO CIRCUITO, CON SEDE EN SALTILLO, COAHUILA, DEL 4 DE NOVIEMBRE DE 2006 AL 19 DE ENERO DE 2007.</small>
 
 TERCERO.- Desde la fecha señalada en el punto primero precedente, los tribunales colegiados del octavo Circuito, con sede en Saltillo, Coahuila, contarán con una oficina de correspondencia común, la cual iniciará sus funciones en la fecha señalada para el inicio de funcionamiento del nuevo tribunal colegiado en mención.
 
@@ -100,6 +100,12 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 14 DE JULIO DE 2006.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE NOVIEMBRE DE 2006.
 
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
