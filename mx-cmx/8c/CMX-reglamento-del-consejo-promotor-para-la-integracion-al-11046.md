@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-consejo-promotor-para-la-integracion-al-11046"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-12-01"
-last_updated: "1997-12-01"
+last_updated: "2006-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11046&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1997-11-21"
 
 REGLAMENTO DEL CONSEJO PROMOTOR PARA LA INTEGRACION AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 13 DE NOVIEMBRE DE 2006, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 1 de diciembre de 1997.
 
@@ -189,3 +191,13 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se abroga el Acuerdo por el que se crea el Consejo Promotor para la Integración al Desarrollo de las Personas con Discapacidad, publicado en la Gaceta Oficial del Distrito Federal el 12 de agosto de 1996.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de noviembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Óscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 13 DE NOVIEMBRE DE 2006.
+
+PRIMERO. El presente Reglamento, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se abroga el Reglamento del Consejo Promotor para la Integración al Desarrollo de las Personas con Discapacidad.
+
+TERCERO. El presente Reglamento deberá ser igualmente publicado en el Diario Oficial de la Federación para su mayor difusión.
