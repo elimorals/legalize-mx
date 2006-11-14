@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2006-11-01"
+last_updated: "2006-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -635,7 +635,13 @@ Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y espe
 
 1. Para la orientación informativa, así como para el conocimiento y atención de las peticiones que formulen los ciudadanos al Congreso o a sus órganos, en cada Legislatura se formará el Comité de Información, Gestoría y Quejas.
 
-2. Con objeto de propiciar el fortalecimiento de los elementos que requiere el desempeño de las tareas constitucionales a cargo del Congreso y de sus órganos, en cada Legislatura se integrará el Comité del Instituto de Investigaciones Parlamentarias y sobre las Finanzas Públicas.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2006)</small>
+
+2. Con objeto de actuar como enlace entre el Pleno y el Instituto de Investigaciones Parlamentarias, así como orientar y supervisar el trabajo, e impulsar las propuestas y programas del mismo, en cada Legislatura se integrará el Comité del Instituto de Investigaciones Parlamentarias.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2006)</small>
+
+3. Con objeto de propiciar el fortalecimiento de los elementos que requiere el desempeño de las tareas constitucionales a cargo del Congreso y de sus órganos, en cada Legislatura se integrará el Comité del Centro de Estudios sobre las Finanzas Públicas.
 
 #### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
@@ -830,6 +836,54 @@ ARTICULO 66 BIS.
 1. La Unidad de Información Pública del Congreso del Estado realizará sus funciones con base en la Ley de Información Pública del Estado de Tamaulipas, y ejercerá sus atribuciones legales orientada por las bases regulatorias que establezca el Reglamento que al efecto se expida en esta materia.
 
 2. La Unidad de Información Pública dependerá del Presidente de la Mesa Directiva y, en los recesos, del Presidente de la Diputación Permanente, debiendo desarrollar sus funciones bajo el acuerdo y supervisión de dichos titulares, en los términos que establezcan las disposiciones legales y reglamentarias respectivas.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2006)</small>
+
+ARTÍCULO 66 TER.
+
+1. El Instituto de Investigaciones Parlamentarias, es el órgano técnico del Congreso del Estado, al cual le corresponde:
+
+a) Desarrollar programas de investigación de temas relacionados con la historia, funciones, evolución y prácticas parlamentarias;
+
+b) Recopilar y clasificar la legislación y reglamentación histórica estatal con el objeto de realizar estudios sobre su génesis, evolución e impacto en la vida de la sociedad;
+
+c) Recopilar y clasificar la legislación federal y de otras entidades del país, incluyendo los Tratados Internacionales que México ha ratificado, con el propósito de analizar su relación con el orden jurídico del Estado;
+
+d) Recopilar y clasificar la reglamentación histórica de los municipios del Estado de Tamaulipas, a fin de investigar sus orígenes, desarrollo y el papel que ha significado en la vida del Municipio;
+
+e) Efectuar estudios de derecho comparado en los temas relevantes del interés del Congreso del Estado;
+
+f) Investigar el estado que guarda el orden jurídico estatal aplicando diversos criterios metodológicos y presentar propuestas que contribuyan a su actualización;
+
+g) Fomentar la celebración de convenios de colaboración e intercambio con organismos académicos, públicos, privados y sociales, locales, nacionales e internacionales;
+
+h) Instrumentar programas de profesionalización y formación de especialistas en áreas del conocimiento vinculadas con el quehacer parlamentario;
+
+i) Organizar, promover y participar en cursos, seminarios, congresos, diplomados, foros, coloquios, conferencias y mesas redondas;
+
+j) Impulsar programas editoriales y de difusión de las actividades del Congreso del Estado de Tamaulipas;
+
+k) Aportar a los Diputados investigaciones técnicas que contribuyan al mejoramiento de su trabajo legislativo, a través del Comité del Instituto de Investigaciones Parlamentarias; y
+
+l) Las demás que se le encomienden a través del Comité del Instituto de Investigaciones Parlamentarias.
+
+2. Para el ejercicio de las atribuciones establecidas en el párrafo anterior, el Instituto contará con la estructura administrativa que se prevea en el Reglamento, la cual podrá ampliarse conforme a las necesidades propias de su funcionamiento. El personal del instituto deberá contar con un perfil profesional relacionado con los ámbitos académico y de la investigación.
+
+3. El Coordinador del Instituto será nombrado por el Pleno, con el voto de la mayoría de los Diputados presentes, a propuesta de la Junta de Coordinación Política, por un término de tres años, pudiendo ser ratificado, y sólo podrá ser removido por el mismo Pleno.
+
+4. Para ser nombrado Coordinador del Instituto de Investigaciones Parlamentarias se requiere:
+
+a) Ser mexicano por nacimiento;
+
+b) Estar en pleno de (sic) goce de sus derechos civiles y políticos;
+
+c) No haber sido condenado por delito intencional que ameritara pena privativa de la libertad;
+
+d) Contar con título profesional preferentemente de Licenciado en Derecho o su equivalente legalmente expedido;
+
+e) Acreditar haber cursado una Maestría en alguna de las materias relacionadas preferentemente con el derecho o la investigación; y
+
+f) Acreditar mínimo tres años en el ejercicio de la profesión.
 
 ## TITULO TERCERO. DEL FUNCIONAMIENTO INTERNO DEL CONGRESO
 
@@ -2077,7 +2131,9 @@ Las Unidades de Servicios Parlamentarios y de Servicios Administrativos y Financ
 
 Con base en la disponibilidad presupuestal prevista para la Dirección de Documentación e Información contemplada en el Reglamento para el Gobierno Interior del Congreso del Estado que se abroga, se sustentará la creación de la Unidad de Comunicación Social prevista en el artículo 65 de esta ley.
 
-El Instituto de Investigaciones Parlamentarias y sobre las Finanzas Públicas, la Unidad de Formación Permanente y la Contraloría Interna previstos en los artículos 52, párrafo 2; y 59, párrafo 2, y 66 de esta ley, se establecerán de acuerdo a la disponibilidad presupuestal con que cuente el Congreso del Estado.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2006)</small>
+
+El Centro de Estudios sobre las Finanzas Públicas, la Unidad de Formación Permanente y la Contraloría Interna previstos en los artículos 52, párrafo 3, 59, párrafo 2, y 66 de esta ley, se establecerán de acuerdo a la disponibilidad presupuestal con que cuente el Congreso del Estado.
 
 En todo caso se otorgará prioridad a la creación y funcionamiento del Instituto.
 
@@ -2128,3 +2184,13 @@ DECRETO No.LIX-637
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Reglamento del Instituto de Investigaciones Parlamentarias deberá ser expedido dentro de los noventa días siguientes al inicio de la vigencia de este Decreto, con base en la propuesta que formule al efecto el Comité del Instituto de Investigaciones Parlamentarias.
