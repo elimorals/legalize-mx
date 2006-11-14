@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2006-11-07"
+last_updated: "2006-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -105,9 +105,15 @@ A ninguna Ley ni disposición gubernativa se dará efecto retroactivo en perjuic
 
 Las sentencias pronunciadas por los Tribunales del Estado, solamente perjudicarán a las personas que hubieren sido citadas y emplazadas legalmente en el Juicio en que se dicten y a sus causahabientes.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 6.
+
+Todo individuo tiene derecho a recibir educación. El Estado y los municipios impartirán educación de conformidad con los planes y programas que al efecto determine el Ejecutivo Federal en los términos de la fracción III del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2006)</small>
+
+La educación preescolar, primaria y secundaria conforman la educación básica obligatoria.
 
 Ninguna persona requerirá de Título para la enseñanza en cualquier rama del saber, pero para prestar instrucción como servicio al público, deberá cumplir los requisitos que establezcan las Leyes.
 
@@ -317,7 +323,9 @@ I.- Cumplir con los preceptos constitucionales y los de las Leyes, Reglamentos y
 
 II.- Contribuir a los gastos públicos de la Federación, del Estado y del Municipio de su residencia, en la forma que dispongan las Leyes de la materia;
 
-III.- Hacer que sus hijos o pupilos menores reciban la educación básica y la instrucción militar que se imparte en las escuelas o en los lugares destinados para el efecto; y,
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2006)</small>
+
+III.- Hacer que sus hijos o pupilos menores concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria y secundaria, y reciban la militar en los términos que establezca la ley; y
 
 IV.- Las demás que dispongan las Leyes.
 
@@ -977,15 +985,15 @@ XXI.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado de 
 
 Separar de su cargo, a solicitud del Consejo del Poder Judicial, a los Magistrados que violen de manera grave, en el desempeño de su función, los principios que rigen la función judicial, consagrados en esta Constitución y en la Ley. Para tal efecto, a la solicitud de separación deberá acompañarse un dictamen de evaluación que la justifique elaborado por la Comisión de Evaluación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 Separar de su cargo, a solicitud del Pleno del Supremo Tribunal de Justicia, a los Consejeros del Poder Judicial que violen de manera grave, en el desempeño de su función, los principios que rigen la función judicial, consagrados en esta Constitución y la Ley. Para tal efecto, a la solicitud de separación deberá acompañarse un dictamen de evaluación que la justifique elaborado por la Comisión de Evaluación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 Designar a los Magistrados Supernumerarios a propuesta del Pleno del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 Designar a los Consejeros del Poder Judicial en los términos que establece esta Constitución.
 
@@ -1601,7 +1609,7 @@ XVIII.- Ejercer el presupuesto de egresos y el fondo auxiliar para la impartici�
 
 XIX.- Informar trimestralmente al Pleno del Supremo Tribunal de Justicia sobre el ejercicio del presupuesto de egresos y del fondo auxiliar para la impartición de justicia;
 
-XX.- Inspeccionar, fiscalizar y vigilar el funcionamiento de los juzgados y la conducta de los jueces; y (sic)
+XX.- Inspeccionar, fiscalizar y vigilar el funcionamiento de los juzgados y la conducta de los jueces; y
 
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
@@ -2982,3 +2990,15 @@ Artículo Segundo.- Los procedimientos para la evaluación de Magistrados a carg
 Artículo Tercero.- El Congreso del Estado habrá de aprobar las adecuaciones a la Ley Orgánica del Poder Judicial del Estado de Guanajuato, a más tardar antes del 31 de diciembre de 2006.
 
 Artículo Cuarto.- Los Consejeros Magistrados que actualmente integran el Consejo del Poder Judicial asumirán las facultades y las obligaciones que en este Decreto se otorgan a los integrantes del Consejo del Poder Judicial.
+
+P.O. 14 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La educación preescolar será obligatoria para todos en los términos que señala el artículo quinto transitorio del decreto de reforma a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2002.
+
+Artículo Tercero.- Los presupuestos estatales y municipales incluirán los recursos necesarios para: la construcción, ampliación y equipamiento de la infraestructura suficiente para la cobertura progresiva de los servicios de educación preescolar; con sus correspondientes programas de formación profesional del personal docente así como de dotación de materiales de estudio gratuito para maestros y alumnos. Para las comunidades rurales alejadas de los centros urbanos y las zonas donde no haya sido posible establecer infraestructura para la prestación del servicio de educación preescolar, las autoridades educativas estatales en coordinación con las municipales, establecerán los programas especiales que se requieran y tomarán las decisiones pertinentes para asegurar el acceso de los educandos a los servicios de educación primaria.
+
+Artículo Cuarto.- El Gobierno del Estado celebrará con el Gobierno Federal convenios de colaboración que les permitan cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en los artículos anteriores.
+
+Artículo Quinto.- Una vez que entre en vigor el presente decreto, deberán impulsarse las reformas y adiciones a la Ley de Educación para el Estado de Guanajuato y demás disposiciones legales aplicables en la materia.
