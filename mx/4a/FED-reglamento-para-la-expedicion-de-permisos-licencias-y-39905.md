@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-expedicion-de-permisos-licencias-y-39905"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-24"
-last_updated: "2004-06-24"
+last_updated: "2006-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39905&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-06-23"
 
 REGLAMENTO PARA LA EXPEDICION DE PERMISOS, LICENCIAS Y CERTIFICADOS DE CAPACIDAD DEL PERSONAL TECNICO AERONAUTICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el jueves 24 de junio de 2004.
 
@@ -1653,10 +1653,20 @@ TERCERO.- Los permisos, licencias y certificados de capacidad otorgados con ante
 
 CUARTO.- Todos los trámites que para la obtención, revalidación, reposición, convalidación o recuperación de permisos, licencias o certificados de capacidad a que se refiere este Reglamento, se hayan iniciado previamente a la entrada en vigor del mismo, se ajustarán a lo previsto en este ordenamiento.
 
-QUINTO.- Los requisitos que deberá cumplir el interesado en obtener una licencia de piloto comercial o de TPI, previstos en los artículos 54 fracción III, 56 fracción III, 62 fracción III, 64 fracción III, 70 fracción III, 72 fracción III y 76 fracción IV del presente Reglamento sólo serán exigibles a partir del 31 de agosto de 2006.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-El personal técnico aeronáutico que hubiera obtenido licencia de piloto comercial o de piloto de TPI antes de la fecha mencionada en el párrafo anterior y esté interesado en convalidar, recuperar o revalidar dicha licencia, deberá cumplir con dichos requisitos a partir del 31 de agosto de 2006; para tal efecto, la Secretaría de Comunicaciones y Transportes promoverá programas que permitan cumplir con lo anterior.
+QUINTO.- Los requisitos que deberá cumplir el interesado en obtener una licencia de piloto comercial o de TPI, previstos en los artículos 54 fracción III, 56 fracción III, 62 fracción III, 64 fracción III, 70 fracción III, 72 fracción III y 76 fracción IV del presente Reglamento sólo serán exigibles a partir del 1 de septiembre de 2009.
+
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+El personal técnico aeronáutico que hubiera obtenido licencia de piloto comercial o de piloto de TPI antes de la fecha mencionada en el párrafo anterior y esté interesado en convalidar, recuperar o revalidar dicha licencia, deberá cumplir con dichos requisitos a partir del 1 de septiembre de 2009; para tal efecto, la Secretaría de Comunicaciones y Transportes promoverá programas que permitan cumplir con lo anterior.
 
 La autorización definitiva para el ejercicio profesional que hubiere sido expedida por la Secretaría de Educación Pública antes de la entrada en vigor del presente Reglamento, será válida para acreditar el cumplimiento de los requisitos previstos en el primer párrafo de este artículo, para convalidar, recuperar o revalidar la licencia de piloto comercial o de TPI.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de junio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Pedro Cerisola y Weber.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 15 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
