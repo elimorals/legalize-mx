@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-finanzas-y-46757"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-26"
-last_updated: "2006-10-04"
+last_updated: "2006-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 de octubre de 2005.
 
@@ -83,19 +83,27 @@ g) Dirección General de Coordinación de Programas Federales;
 
 h) Dirección General de Contabilidad;
 
-i) Dirección General de Planeación, Información y Evaluación;
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2006)</small>
 
-j) Dirección General de Programas de Desarrollo Regional;
+i) Dirección General de Información y Evaluación;
 
-k) Subprocuraduría Fiscal de Asuntos Estatales;
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2006)</small>
 
-l) Subprocuraduría Fiscal de Asuntos Federales;
+j) Dirección General de Programas y Proyectos Regionales;
 
-m) Tesorería General;
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2006)</small>
 
-n) Dirección General de Coordinación Hacendaria, y
+k) Dirección General de Organización y funcionamiento del Comité de Planeación para el Desarrollo del Estado;
 
-o) Dirección General de Coordinación y Desarrollo Administrativo.
+l) Subprocuraduría Fiscal de Asuntos Estatales;
+
+m) Subprocuraduría Fiscal de Asuntos Federales;
+
+n) Tesorería General;
+
+o) Dirección General de Coordinación Hacendaria, y
+
+p) Dirección General de Coordinación y Desarrollo Administrativo.
 
 Las unidades administrativas se integrarán con los titulares respectivos, Subdirectores, Jefes de Departamento y demás servidores públicos que se señalen en los Manuales de Organización y las disposiciones jurídicas aplicables.
 
@@ -319,7 +327,9 @@ XI. Las demás que determinen las disposiciones legales vigentes o le delegue el
 
 Son atribuciones del Subsecretario de Planeación y Desarrollo:
 
-I. Proponer e instrumentar la política de planeación y desarrollo social del Estado, tomando en consideración los convenios celebrados con la Federación, así como las disposiciones jurídicas en la materia;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+
+I. Proponer e instrumentar la política de planeación estatal de desarrollo, tomando en consideración los convenios celebrados con la Federación, así como las disposiciones jurídicas en la materia;
 
 II. Supervisar la elaboración de Programas Operativos Anuales de las Dependencias y Entidades de la Administración Pública Estatal;
 
@@ -327,7 +337,9 @@ III. Prestar asesoría y asistencia técnica a las Dependencias y Entidades de l
 
 IV. Participar en la coordinación y vinculación de los programas de desarrollo social del Gobierno del Estado con los de la Administración Pública Federal y la de los Ayuntamientos de la Entidad;
 
-V. Analizar y opinar, en el ámbito de su competencia, sobre el proyecto del Convenio de Desarrollo Social, así como de los acuerdos, convenios de coordinación y anexos que de el deriven, además de participar en la coordinación de instrumentación con los Municipios del Estado y la Federación;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+
+V. Coordinar el funcionamiento del Sistema Estatal de Planeación Democrática del Estado;
 
 VI. Propiciar la participación de las Dependencias y Entidades del sector público, así como de los diversos sectores de la sociedad, para coadyuvar en la elaboración y actualización del Plan Estatal de Desarrollo;
 
@@ -345,19 +357,19 @@ XII. Integrar los documentos e información para la planeación del desarrollo d
 
 XIII. Fomentar la coordinación y cooperación de todos los sectores para la instrumentación a nivel local del Plan Estatal de Desarrollo, basado en el Plan Nacional de Desarrollo;
 
-XIV. Coordinar el control y evaluación del Plan Estatal de Desarrollo, para adecuarlo a las previsiones de los planes que formule el sector público federal;
+XIV. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2006)
 
 XV. Analizar y evaluar el desarrollo de los programas y acciones concertados en los convenios entre la Federación y el Estado, e informar periódicamente al respecto a su superior jerárquico, para que a través de la Secretaría se informe al Gobernador del Estado, al Congreso y, en su caso, al Ejecutivo Federal;
 
 XVI. Coordinar, en el ámbito de su competencia, la difusión de las acciones relevantes del quehacer público;
 
-XVII. Intervenir en la coordinación de la operación de todos los convenios o acuerdos de coordinación institucional con la Federación, en materia de desarrollo social, de conformidad con los requerimientos específicos de cada uno de ellos;
+XVII. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2006)
 
 XVIII. Impulsar el diseño de instrumentos, a través de las instituciones integrantes de la coordinación de planeación para el desarrollo, con el objeto de verificar la congruencia de los programas sectoriales, con el Plan Estatal de Desarrollo;
 
-XIX. Participar en la elaboración de proyectos y convenios en el Comité de Planeación del Estado de Morelos y en los Comités de Planeación para el Desarrollo Municipal;
+XIX. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2006)
 
-XX. Impulsar el funcionamiento de los Subcomités Sectoriales y Especiales así como de los Comités Municipales, propiciando su participación en la formulación de los proyectos de desarrollo;
+XX. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2006)
 
 XXI. Diseñar y proponer, en coordinación con las áreas responsables, los procedimientos que fortalezcan la capacidad institucional de los Municipios y faciliten las actividades de control y evaluación, que marca la normatividad vigente en el ejercicio de los recursos de origen Federal, que son operados por los Ayuntamientos;
 
@@ -369,9 +381,11 @@ XXIV. Coordinar los proyectos estatales incluidos en el Plan Estatal de Desarrol
 
 XXV. Propiciar el apoyo a los Ayuntamientos en el análisis, diagnóstico e implementación de las posibles mejoras normativas, reglamentarias e infraestructurales, cuando exista solicitud expresa de los mismos;
 
-XXVI. Organizar las reuniones plenarias del Comité de Planeación para el Desarrollo Estatal y dar seguimiento a los acuerdos de ahí emanados;
+XXVI. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2006)
 
-XXVII. Suscribir anexos técnicos y de ejecución que deriven de los Programas de Desarrollo Social, y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+
+XXVII. Suscribir anexos de ejecución que deriven de los programas de desarrollo, y
 
 XXVIII. Las demás que determinen las disposiciones legales vigentes o le delegue el Secretario.
 
@@ -467,9 +481,17 @@ VI. Dirección General de Contabilidad.
 
 Quedan adscritas a la Subsecretaría de Planeación y Desarrollo las unidades administrativas siguientes:
 
-I. Dirección General de Planeación, Información y Evaluación, y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
 
-II. Dirección General de Programas de Programas de Desarrollo Regional.
+I. Dirección General de Información y Evaluación;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+
+II. Dirección General de Programas y Proyectos Regionales, y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+
+III. Dirección General de Organización y funcionamiento del Comité de Planeación para el Desarrollo del Estado.
 
 ###### Artículo 19.
 
@@ -895,79 +917,93 @@ X. Elaborar los estudios y proyectos que sirvan de apoyo técnico en materia de 
 
 XI. Los demás que determinen las disposiciones legales vigentes o le delegue su superior jerárquico.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 30.
 
-La Dirección General de Planeación, Información y Evaluación atenderá el despacho de los siguientes asuntos:
+La Dirección General de Información y Evaluación atenderá el despacho de los siguientes asuntos:
 
-I. Apoyar en el fomento de la participación de los sectores social y privado del Estado, en el Sistema Estatal de Planeación Democrática;
+I. Establecer los mecanismos de coordinación con las Dependencias y Entidades de la Administración Pública Estatal y Municipal y de los grupos sociales interesados, para la formulación del Plan Estatal de Desarrollo;
 
-II. Coordinar y organizar, con autoridades estatales y municipales, los foros de consulta ciudadana;
+II. Normar, coordinar y asesorar la formulación de los Programas Operativos Anuales de las Dependencias y Entidades de la Administración Pública Estatal, supervisando que sean congruentes con los objetivos y estrategias del Plan Estatal de Desarrollo;
 
-III. Integrar y procesar las propuestas y demandas vertidas en los foros de consulta ciudadana, así como canalizarlas a las Dependencias de la Administración Pública Estatal, para su incorporación en los Programas Operativos Anuales;
+III. Coordinar la modificación de los Programas Operativos Anuales de las Dependencias del Poder Ejecutivo verificando que se ajusten al presupuesto autorizado para entregarlos al Congreso del Estado; asimismo, enterar al Congreso a través de los informes de la gestión gubernamental de las modificaciones que se realicen durante el año;
 
-IV. Establecer los mecanismos de coordinación con las Dependencias y Entidades del sector público, para coadyuvar en la elaboración del Plan Estatal de Desarrollo;
+IV. Normar, coordinar e integrar los informes de gestión gubernamental, los cuales sustentan los avances de los Programas Operativos Anuales de las Dependencias y Entidades de la Administración Pública;
 
-V. Establecer los lineamientos metodológicos para el funcionamiento del Sistema Estatal de Planeación Democrática dirigido por el Comité de Planeación para el Desarrollo del Estado de Morelos;
+V. Diseñar y operar el Sistema de Evaluación del Desempeño de las Dependencias y Entidades del Poder Ejecutivo para integrar trimestralmente los resultados de la evaluación de los Programas Operativos Anuales;
 
-VI. Proponer la actualización y adecuación del marco jurídico que fundamenta la planeación del desarrollo estatal;
+VI. Asesorar a los Municipios del Estado, en la formulación de sus programas operativos anuales, a solicitud expresa de éstos;
 
-VII. Impartir cursos, conferencias y talleres de capacitación en materia de planeación para el desarrollo, dirigidos a los integrantes de los Subcomités Sectoriales y Especiales del Comité de Planeación para el Desarrollo del Estado, cuando exista solicitud expresa para ello;
+VII. Elaborar trimestralmente la gaceta informativa referente a las obras y acciones relevantes del Poder Ejecutivo;
 
-VIII. Apoyar el funcionamiento de los Subcomités Sectoriales y Especiales, así como de los Comités Municipales, propiciando su participación en la formulación de proyectos de desarrollo, cuando medie solicitud expresa en ese sentido;
+VIII. Normar, coordinar e integrar con la participación de las Dependencias y Entidades del sector público, la elaboración de los documentos necesarios para preparar el informe Anual del Ejecutivo;
 
-IX. Normar, coordinar y asesorar la formulación de los Programas Operativos Anuales de las Dependencias y Entidades de la Administración Pública Estatal;
+IX. Formular la Agenda Estadística Anual del Poder Ejecutivo, la cual concentrará y proporcionará información necesaria a las diferentes instancias para la toma de decisiones;
 
-X. Integrar trimestralmente la información gubernamental referente a las obras y acciones relevantes;
+X. Integrar los padrones de beneficiarios de los programas federales y estatales implementados en el Poder Ejecutivo, y
 
-XI. Normar, coordinar e integrar, con la participación de las Dependencias y Entidades del sector público, la elaboración de los documentos necesarios para preparar el Informe Anual del Ejecutivo;
+XI. Las demás que le confieran otras disposiciones jurídicas aplicables o le delegue su superior jerárquico.
 
-XII. Formular la Agenda Estadística Anual del Poder Ejecutivo;
-
-XIII. Coordinar la modificación de los Programas Operativos Anuales de las Dependencias del Poder Ejecutivo y enterar al Congreso del Estado, a través de los informes, de la gestión gubernamental;
-
-XIV. Normar, coordinar e integrar los informes de gestión gubernamental, los cuales sustentan los avances de los Programas Operativos Anuales de las Dependencias y Entidades de la Administración Pública;
-
-XV. Diseñar y operar el Sistema de Evaluación del Desempeño de las Dependencias y Entidades del Poder Ejecutivo;
-
-XVI. Informar trimestralmente al Titular del Poder Ejecutivo y a los titulares de las Dependencias, sobre los resultados de la evaluación de los Programas Operativos Anuales, y
-
-XVII. Los demás que le confieran otras disposiciones jurídicas aplicables o le delegue su superior jerárquico.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 31.
 
-La Dirección General de Programas de Desarrollo Regional atenderá el despacho de los siguientes asuntos:
+La Dirección General de Programas y Proyectos Regionales atenderá el despacho de los siguientes asuntos:
 
-I. Coordinar los programas de desarrollo regional en materia de desarrollo social;
+I. Formular y coordinar los programas estatales de desarrollo en base a sus reglas de operación;
 
-II. Dar seguimiento, controlar y evaluar los programas federales y estatales en materia de desarrollo social, de conformidad con las disposiciones legales aplicables;
+II. Coordinar con las Dependencias Estatales involucradas, los programas de inversión, gasto y financiamiento en materia de desarrollo social;
 
-III. Impulsar la participación de las Dependencias y Entidades en la formulación de proyectos de desarrollo social y regional, de conformidad con las disposiciones legales aplicables;
+III. Vincularse con la Dirección de Información y Evaluación a fin de actualizar conjuntamente con los ejecutores, en el ámbito de su competencia, los padrones de beneficiarios de los programas y proyectos estatales;
 
-IV. Promover la participación de los sectores social y privado, a nivel municipal, en el proceso que se desarrolla dentro del Sistema Estatal de Planeación Democrática;
+IV. Promover la participación de las Dependencias y Entidades en la formulación de proyectos de alto impacto que impulsen el desarrollo social y regional en su caso, diseñando los estudios, criterios y métodos de captación de información para su implementación;
 
-V. Promover, impulsar y coordinar la formulación de programas de desarrollo subregional;
+V. Coordinar la elaboración de proyectos de alto impacto en materia de Desarrollo Social Estatal, a través de la celebración de convenios de coordinación y concertación;
 
-VI. Propiciar la convergencia de acciones en la Entidad, entre los programas de los Gobiernos Federal, Estatal y Municipal;
+VI. Colaborar en la elaboración del proyecto de Convenio de Coordinación de Desarrollo Social y Humano;
 
-VII. Participar, conjuntamente con los Comités de Planeación para el Desarrollo Municipal, en la elaboración de proyectos y convenios de coordinación;
+VII. Promover cursos, conferencias y talleres de capacitación en materia de planeación para el desarrollo en coordinación con la Dirección General de Organización y Funcionamiento del Comité de Planeación para el Desarrollo del Estado, por sí o a través de las instituciones responsables y, en su caso, cuando así lo solicítenlos municipios, a través de la Red Estatal de Teleaulas;
 
-VIII. Propiciar la instalación y funcionamiento de los Comités de Planeación para el Desarrollo Municipal;
+VIII. Asesorar a los Ayuntamientos en el análisis, diagnóstico e implementación de las posibles mejoras normativas, reglamentarias e infraestructurales, cuando haya solicitud expresa de los mismos;
 
-IX. Participar en la elaboración del proyecto de Convenio de Desarrollo Social;
+IX. Generar las condiciones técnicas y jurídicas para la realización de estudios y análisis de planeación en las zonas consideradas como metropolitanas, y
 
-X. Coordinar cursos, conferencias y talleres de capacitación, por sí o a través de las instituciones responsables, dirigidos a los Comités de Planeación para el Desarrollo Municipal, cuando así lo soliciten, en materia de planeación para el desarrollo;
+X. Las demás que determinen las disposiciones legales vigentes o te delegue su superior jerárquico.
 
-XI. Asesorar a los Ayuntamientos en el análisis, diagnóstico e implementación de las posibles mejoras normativas, reglamentarias e infraestructurales, cuando haya solicitud expresa de los mismos;
-
-XII. Apoyar la coordinación operativa del Comité de Planeación para el Desarrollo del Estado de Morelos, en los términos de su Decreto de Creación y conforme a la Ley Estatal de Planeación, con la participación de las unidades administrativas de la Secretaría y demás instituciones federales, estatales y municipales, así como sectores social y privado correspondientes;
-
-XIII. Organizar reuniones plenarias del Comité de Planeación para el Desarrollo del Estado de Morelos y dar seguimiento a los Acuerdos emanados;
-
-XIV. Propiciar la participación de los Gobiernos Municipales, a través de los Comités de Planeación para el Desarrollo Municipal, para coadyuvar en la elaboración y actualización del Plan Estatal de Desarrollo, y
-
-XV. Los demás que determinen las disposiciones legales vigentes o le delegue su superior jerárquico.
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 32.
+
+La Dirección General de Organización y Funcionamiento del Comité de Planeación para el Desarrollo del Estado atenderá el despacho de los siguientes asuntos:
+
+I. Integrar y revisar los proyectos de convenios y acuerdos del Comité de Planeación del Estado de Morelos y someterlos a consideración de su superior jerárquico;
+
+II. Fortalecer la organización y funcionamiento de los Subcomités Sectoriales y Especiales así como de los Comités Municipales, propiciando su participación en la formulación de proyectos de desarrollo;
+
+III. Definir, en el ámbito de su competencia, los instrumentos para el control y evaluación del Plan Estatal de Desarrollo; para adecuarlo a las previsiones de los planes que formule el sector público federal;
+
+IV. Presentar a su superior jerárquico la información técnica de los asuntos a tratar en las reuniones plenarias del Comité de Planeación para el Desarrollo del Estado;
+
+V. Brindar asesoría a los Comités de Planeación para el Desarrollo Municipal cuando esto le sea encomendado;
+
+VI. Informar a su superior jerárquico sobre la congruencia en la elaboración y contenido de los planes y programas que se generan en el Sistema Estatal de Planeación Democrática;
+
+VII. Organizar las reuniones plenarias del Comité de Planeación para el Desarrollo del Estado y dar seguimiento a los acuerdos de ahí emanados;
+
+VIII. Coordinar el seguimiento y evaluación de los resultados de los acuerdos del Comité de Planeación para el Desarrollo del Estado;
+
+IX. Proponer a su superior jerárquico la celebración de acuerdos de cooperación entre el sector público y los sectores social y privado que actúen a nivel estatal, tendientes a orientar sus esfuerzos al logro de los objetivos del desarrollo de la entidad;
+
+X. Dar seguimiento al avance de las obras prioritarias en el Comité de Planeación para el Desarrollo Municipal, cuidando que éstas se lleven a cabo en apego a lo programado, tanto del ramo 20 como del propio Ramo 33, e informar los resultados a su superior jerárquico;
+
+XI. Asesorar a los Municipios del Estado en la evaluación de sus planes municipales de desarrollo, cuando haya solicitud expresa de los mismos, y
+
+XII. las demás que determinen las disposiciones legales vigentes o le delegue su superior jerárquico.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 32], P.O. 15 DE NOVIEMBRE DE 2006)
+
+###### Artículo 33.
 
 La Subprocuraduría Fiscal de Asuntos Estatales atenderá el despacho de los siguientes asuntos:
 
@@ -999,7 +1035,9 @@ XIII. Proponer al Procurador Fiscal el criterio de aplicación de las leyes en l
 
 XIV. Los demás que determinen las disposiciones legales vigentes o le delegue su superior jerárquico.
 
-###### Artículo 33.
+(REUBICADO [N. DE E. ANTES ARTICULO 33], P.O. 15 DE NOVIEMBRE DE 2006)
+
+###### Artículo 34.
 
 La Subprocuraduría Fiscal de Asuntos Federales atenderá el despacho de los siguientes asuntos:
 
@@ -1029,7 +1067,9 @@ XII. Certificar hechos y expedir las constancias correspondientes sobre los expe
 
 XIII. Los demás que determinen las disposiciones legales vigentes o le delegue su superior jerárquico.
 
-###### Artículo 34.
+(REUBICADO [N. DE E. ANTES ARTICULO 34], P.O. 15 DE NOVIEMBRE DE 2006)
+
+###### Artículo 35.
 
 La Tesorería General atenderá el despacho de los siguientes asuntos:
 
@@ -1071,7 +1111,9 @@ XVIII. Dar seguimiento a los créditos y financiamientos obtenidos por el Gobier
 
 XIX. Los demás que determinen las disposiciones legales vigentes o le delegue su superior jerárquico.
 
-###### Artículo 35.
+(REUBICADO [N. DE E. ANTES ARTICULO 35], P.O. 15 DE NOVIEMBRE DE 2006)
+
+###### Artículo 36.
 
 La Dirección General de Coordinación Hacendaría atenderá el despacho de los siguientes asuntos:
 
@@ -1115,7 +1157,9 @@ XIX. Coordinar y gestionar, ante las instancias del Gobierno Federal, las accion
 
 XX. Los demás que determinen las disposiciones legales vigentes o le delegue su superior jerárquico.
 
-###### Artículo 36.
+(REUBICADO [N. DE E. ANTES ARTICULO 36], P.O. 15 DE NOVIEMBRE DE 2006)
+
+###### Artículo 37.
 
 El Director General de Coordinación y Desarrollo Administrativo tendrá las siguientes facultades:
 
@@ -1135,17 +1179,23 @@ VII. Elaborar y coordinar conforme a las normas que establezca la Oficialía May
 
 VIII. Las demás que determinen las disposiciones legales vigentes o le delegue su superior jerárquico.
 
-###### Artículo 37.
-
-El Secretario será suplido y podrá delegar sus facultades, en sus ausencias menores de quince días, en el servidor público de jerarquía inmediata inferior que él mismo designe; y en las mayores de quince días en el servidor público que designe el Gobernador del Estado.
-
 ### CAPÍTULO OCTAVO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS Y DELEGACIÓN DE FACULTADES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 37], P.O. 15 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 38.
 
-Los Subsecretarios serán suplidos y podrán delegar sus facultades, durante sus ausencias menores de quince días, en el Director o el servidor público de la jerarquía inmediata inferior que ellos designen; y si exceden de quince días en el Director o servidor público de jerarquía inmediata inferior que designe el Secretario.
+El Secretario será suplido y podrá delegar sus facultades, en sus ausencias menores de quince días, en el servidor público de jerarquía inmediata inferior que él mismo designe; y en las mayores de quince días en el servidor público que designe el Gobernador del Estado.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 38], P.O. 15 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 39.
+
+Los Subsecretarios serán suplidos y podrán delegar sus facultades, durante sus ausencias menores de quince días, en el Director o el servidor público de la jerarquía inmediata inferior que ellos designen; y si exceden de quince días en el Director o servidor público de jerarquía inmediata inferior que designe el Secretario.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 39], P.O. 15 DE NOVIEMBRE DE 2006)
+
+###### Artículo 40.
 
 Los Directores Generales, el Tesorero General y los Subprocuradores Fiscales, durante sus ausencias menores de quince días podrán ser suplidos y delegar sus facultades en el servidor público de la jerarquía inmediata inferior que ellos mismos designen; y en las mayores de este término en el servidor público de la jerarquía inmediata inferior que designe su correspondiente superior jerárquico.
 
@@ -1180,3 +1230,7 @@ RÚBRICAS.
 P.O. 4 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
