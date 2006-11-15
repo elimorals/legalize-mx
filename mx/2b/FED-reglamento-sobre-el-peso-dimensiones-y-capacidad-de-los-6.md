@@ -4,7 +4,7 @@ identifier: "FED-reglamento-sobre-el-peso-dimensiones-y-capacidad-de-los-6"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-01-26"
-last_updated: "2000-10-19"
+last_updated: "2006-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-01-24"
 
 REGLAMENTO SOBRE EL PESO, DIMENSIONES Y CAPACIDAD DE LOS VEHICULOS DE AUTOTRANSPORTE QUE TRANSITAN EN LOS CAMINOS Y PUENTES DE JURISDICCION FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el miércoles 26 de enero de 1994.
 
@@ -136,6 +136,20 @@ carga que se transporta en un
 vehículo es propiedad de un
 
 solo usuario.
+
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+CONFIGURACIÓN
+
+O COMBINACIÓN
+
+VEHICULAR Vehículo constituido por tractocamión
+
+y uno o dos semirremolques o remolques,
+
+o por camión y un remolque, acoplados
+
+por mecanismos de articulación.
 
 CONSTANCIA DE
 
@@ -341,11 +355,13 @@ Las características o especificaciones de los vehículos se emitirán como norm
 
 ### CAPITULO II. DEL PESO Y DIMENSIONES DE LOS VEHICULOS
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 5o.
 
-Los pesos y dimensiones máximos de los vehículos según el tipo de camino por el que transiten y la presión de inflado de las llantas, se ajustarán a las normas correspondientes expedidas de conformidad con lo previsto en la Ley Federal sobre Metrología y Normalización.
+El peso, dimensiones y capacidad máximos de los vehículos, así como las configuraciones o combinaciones vehiculares, según el tipo de caminos y puentes por el que transiten, y la presión de inflado de las llantas, se ajustarán a las normas correspondientes expedidas de conformidad con lo previsto en la Ley Federal sobre Metrología y Normalización.
+
+Las violaciones a este Reglamento y las normas oficiales mexicanas correspondientes, serán sancionadas conforme a lo establecido en la Ley y este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2000)</small>
 
@@ -363,13 +379,17 @@ La Secretaría podrá modificar, reducir o ampliar la clasificación de los cami
 
 La Secretaría en caso de que las condiciones técnicas de los caminos y puentes no sean adecuados, o bien por grave daño a los mismos, podrá modificar temporalmente su uso.
 
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 8o.
 
-La Secretaría vigilará e inspeccionará que la capacidad, peso bruto vehicular y dimensiones de los vehículos que transiten en los caminos y puentes de jurisdicción federal, cumplan con lo establecido en este Reglamento.
+La Secretaría vigilará, verificará e inspeccionará que la capacidad, peso bruto vehicular y dimensiones de los vehículos de autotransporte federal, sus servicios auxiliares y transporte privado, cumplan con lo establecido en este Reglamento y las normas oficiales mexicanas.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
+La verificación e inspección del peso, dimensiones y capacidad de los vehículos se realizará en centros fijos de verificación de peso y dimensiones que opere la Secretaría. En su caso, la Secretaría podrá realizar esta verificación o inspección en terminales de los diferentes modos de transporte.
 
-La revisión del peso y dimensiones se realizará en operativos de control que autorice la Secretaría o en los centros de control de peso y dimensiones acreditados que para tal efecto se establezcan, los cuales podrán ser operados por la propia Secretaría o bien por terceros autorizados en los términos de las disposiciones legales vigentes aplicables en la materia.
+Lo anterior, sin perjuicio de las atribuciones que tiene conferidas la Secretaría de Seguridad Pública en la materia, cuando los vehículos circulen en los caminos y puentes de jurisdicción federal.
+
+Asimismo, la verificación del peso y dimensiones se podrá realizar por unidades de verificación aprobadas en términos de la Ley Federal sobre Metrología y Normalización.
 
 ###### ARTICULO 9o.
 
@@ -411,11 +431,15 @@ El fabricante o reconstructor debe tener disponible la memoria de cálculo estru
 
 ### CAPITULO IV. DEL CONTROL TECNICO DE LAS UNIDADES
 
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 14.
 
-Todas las unidades de autotransporte que transiten por puentes y caminos de jurisdicción federal, deberán cumplir con el control técnico de sus condiciones físicas y mecánicas y obtener la constancia de aprobación correspondiente con la periodicidad y condiciones que establezca la Secretaría en la norma respectiva.
+Todos los vehículos destinados a la prestación del servicio de autotransporte federal, sus servicios auxiliares y transporte privado que operen en puentes y caminos de jurisdicción federal, deberán cumplir con la verificación técnica de sus condiciones físicas y mecánicas y obtener la constancia de aprobación correspondiente con la periodicidad y condiciones que establezcan las normas y disposiciones respectivas.
 
-La revisión, se realizará en los centros de control técnico que para el efecto se establezcan, los cuales podrán ser operados por la Secretaría o terceros autorizados en los términos de ley.
+La verificación la realizará la Secretaría en visitas de inspección o en unidades de verificación de control técnico que para el efecto se establezcan, las cuales podrán ser operadas por la Secretaría o por terceros autorizados en los términos de Ley.
+
+Lo anterior, sin perjuicio de las atribuciones que tiene conferidas la Secretaría de Seguridad Pública en la materia, para la revisión de las condiciones mínimas de seguridad, cuando los vehículos operen en los caminos y puentes de jurisdicción federal.
 
 ### CAPITULO V. DE LA SUJECION DE LA CARGA
 
@@ -485,111 +509,15 @@ En todos los casos de permisos especiales, el transportista deberá cumplir con 
 
 ### CAPITULO VII. DE LAS SANCIONES
 
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 20.
 
-Las infracciones a lo dispuesto en el presente Reglamento, se sancionarán, tomando como base el salario mínimo general vigente en el Distrito Federal, al momento de cometerse la infracción, de conformidad con lo siguiente:
+La Secretaría y la Secretaría de Seguridad Pública a través de la Policía Federal Preventiva, impondrán, en el ámbito de sus respectivas competencias, conforme al Tabulador de Multas que forma parte de este Reglamento, las sanciones por el incumplimiento a las disposiciones del mismo, en materia de autotransporte federal, sus servicios auxiliares y transporte privado.
 
-I.- Por infracción al artículo 14, con multa por el equivalente a 100 días;
+Para la imposición de las sanciones a que se refiere este Reglamento, se atenderán los criterios que establece el artículo 77 de la Ley y los previstos en la Ley Federal de Procedimiento Administrativo.
 
-II.- Por transitar con dimensiones en exceso a las autorizadas en este Reglamento:
-
-> <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2000)</small>
-
-A.- ALTURA MULTA
-
-Hasta 10 cm De 25 a 35 días
-
-Más de 10 cm y hasta 15 cm De 50 a 60 días
-
-Más de 15 cm y hasta 20 cm De 75 85 días
-
-Más de 20 cm De 100 a 110 días
-
-> <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2000)</small>
-
-B.- ANCHO MULTA
-
-Hasta 10 cm De 25 a 40 días
-
-Más de 10 cm y hasta 15 cm De 50 a 75 días
-
-Más de 15 cm y hasta 20 cm De 75 a 90 días
-
-Más de 20 cm y hasta 25 cm De 150 a 175 días
-
-Más de 25 cm De 250 a 270 días
-
-> <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2000)</small>
-
-C.- LARGO MULTA
-
-Hasta 50 cm De 25 a 50 días
-
-Más de 50 cm y hasta 100 cm De 50 a 100 días
-
-Más de 100 cm De 250 a 300 días
-
-Estas sanciones se refieren a cargas sobresalientes.
-
-En ningún caso los vehículos podrán transitar con dimensiones intrínsecas excedidas de lo autorizado.
-
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1996)</small>
-
-III.- Por infracción al artículo al artículo 15, cuando la carga o parte de ésta se caiga del vehículo por causas distintas a un accidente de tránsito, multa de 100 a 300 días;
-
-IV.- Por transitar con exceso de peso o con peso por eje o pesos brutos vehiculares en exceso de los autorizados en la norma, o de los señalados en la constancia de capacidad y dimensiones, o de peso y dimensiones:
-
-> <small>(REFORMADA, D.O.F. 19 DE OCTUBRE DE 2000)</small>
-
-PESO MULTA
-
-De 50 hasta 500 Kgf De 25 a 50 días
-
-De 501 hasta 2000 Kgf De 100 a 150 días
-
-De 2001 hasta 3000 Kgf De 150 a 250 días
-
-Más de 3001 Kgf, por cada
-
-1000 Kgf o fracción. De 75 a 100 días
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE OCTUBRE DE 2000)</small>
-
-V.- Con multa de 500 a 1000 días por:
-
-a) Rebasar los límites de capacidad establecidos en la constancia de capacidad y dimensiones.
-
-b) Circular en los caminos de jurisdicción federal sin la constancia de capacidad y dimensiones para el transporte de personas o de peso y dimensiones para el traslado de carga y la identificación relativa a las especificaciones a que se refiere el artículo 11.
-
-c) (DEROGADO, D.O.F. 19 DE OCTUBRE DE 2000)
-
-d) Infracción al artículo 13.
-
-e) Efectuar el propietario de la carga una declaración falsa sobre el peso de la misma.
-
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1996)</small>
-
-f) Modificar las especificaciones establecidas en la constancia de capacidad y dimensiones para el transporte de personas, o de peso y dimensiones para el traslado de carga, sin obtener la autorización previa del fabricante o reconstructor de la unidad de que se trate.
-
-> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2000)</small>
-
-g) No expedir el fabricante o reconstructor de la unidad, la constancia de capacidad y dimensiones para el transporte de personas o de peso y dimensiones para el traslado de carga, o bien por expedirla con la información que no se adecue a las especificaciones reales del vehículo, o a la norma correspondiente a que se refiere el artículo 11.
-
-VI.- Por transitar sin el permiso especial a que se refiere el artículo 16, con multa de 500 a 2000 días.
-
-> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2000)</small>
-
-VII.- Por transitar fuera de un camino tipo ET, cuando el vehículo esté confinado únicamente a él, con multa de 300 a 500 días.
-
-> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2000)</small>
-
-VIII.- Por transitar en un camino no autorizado a que se refiere el artículo 6o., con multa de 100 a 300 días.
-
-> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2000)</small>
-
-IX.- Por transitar el vehículo sin las luces de destello y cintas reflejantes a que se refiere el artículo 6o., con multa de 100 a 200 días.
-
-Las sanciones previstas en este Reglamento, no eximen al infractor del pago de los daños y perjuicios ocasionados a las vías generales de comunicación y otros bienes de la Nación o a terceros.
+Las sanciones que se impongan, no eximen al infractor del pago de los daños y perjuicios ocasionados a las vías generales de comunicación y otros bienes de la Nación o a terceros.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
 
@@ -750,3 +678,13 @@ Los transportistas que se encuentren en este supuesto deberán celebrar Convenio
 QUINTO.- En tanto no se instalen los centros fijos de control de peso y dimensiones a que alude el artículo 8o. del Reglamento, la verificación del peso bruto vehicular y peso por eje o grupo de ejes del vehículo de que se trate, se efectuará con básculas portátiles propiedad de la Secretaría o mediante la comprobación del peso bruto vehicular tomando en cuenta el peso de la carga que se declare en la carta porte, más el peso vehicular (tara) de la unidad de que se trate.
 
 SEXTO.- Se derogan todas las disposiciones reglamentarias, administrativas y técnicas que se opongan al presente Decreto.
+
+D.O.F. 15 DE NOVIEMBRE DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TABULADOR DE MULTAS
+
+(VEASE ARCHIVO ANEXO)
