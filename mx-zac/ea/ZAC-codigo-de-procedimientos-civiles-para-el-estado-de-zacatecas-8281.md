@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "2003-02-19"
+last_updated: "2006-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2006.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
@@ -685,13 +685,17 @@ X.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimon
 
 XI.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado. Cuando se demandare el divorcio por causa distinta del abandono, pero hubiere separación de hecho, será competente el juez del domicilio del demandado;
 
-XII.- En los juicios sobre anulación o rectificación de actas del estado civil, el tribunal del fuero del registrador;
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
 
-XIII.- En los juicios entre socios o derivados del contrato social, el juez del lugar donde la sociedad tenga su domicilio.
+XII.- En los juicios de alimentos, el del domicilio del actor o el del demandado, a elección del primero;
 
-XIV.- En los litigios entre condóminos, el juez del lugar donde se encuentren los bienes comunes, o la mayor parte de ellos, y
+XIII.- En los juicios sobre anulación o rectificación de actas del estado civil, el tribunal del fuero del registrador;
 
-XV.- En los actos de jurisdicción voluntaria, el del domicilio del que promueve, pero si se tratare de bienes raíces lo será el del lugar donde estén ubicados.
+XIV.- En los juicios entre socios o derivados del contrato social, el juez del lugar donde la sociedad tenga su domicilio;
+
+XV.- En los litigios entre condóminos, el juez del lugar donde se encuentren los bienes comunes, o la mayor parte de ellos, y
+
+XVI.- En los actos de jurisdicción voluntaria, el del domicilio del que promueve, pero si se tratare de bienes raíces lo será el del lugar donde estén ubicados.
 
 En los casos no previstos en este artículo o en disposición especial, la competencia se determinará por el fuero general del domicilio.
 
@@ -6194,3 +6198,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
