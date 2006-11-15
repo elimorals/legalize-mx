@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-agricultura-21632"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-10"
-last_updated: "2001-07-10"
+last_updated: "2006-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21632&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-07-09"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA, DESARROLLO RURAL, PESCA Y ALIMENTACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE NOVIEMBRE DE 2006.
 
 Reglamento Interior publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de julio de 2001.
 
@@ -157,6 +157,8 @@ Dirección General de Promoción de la Eficiencia y Calidad de los Servicios;
 
 II. Delegaciones en los estados y regiones que el Secretario determine;
 
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
 III. Órganos administrativos desconcentrados:
 
 Comisión Nacional de Acuacultura y Pesca;
@@ -165,11 +167,9 @@ Apoyos y Servicios a la Comercialización Agropecuaria;
 
 Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
-Servicio de Información y Estadística Agroalimentaria y Pesquera;
+Servicio de Información Agroalimentaria y Pesquera;
 
 Servicio Nacional de Inspección y Certificación de Semillas;
-
-Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias;
 
 Instituto Nacional de la Pesca, y
 
@@ -255,7 +255,27 @@ El Grupo Interno de Dirección conocerá y sancionará las propuestas sobre el e
 
 Conocerá y sancionará las Reglas de Operación de los programas a cargo de la Secretaría y la definición de estrategias de penetración efectiva en estos últimos, así mismo dará puntual seguimiento de la evaluación sobre los compromisos programáticos de la Secretaría.
 
-El Grupo Interno de Dirección estará integrado por el Secretario, quien lo presidirá, los Subsecretarios, el Oficial Mayor y los Coordinadores Generales de la Secretaría, así como por los titulares de la Comisión Nacional de Acuacultura y Pesca; Apoyos y Servicios a la Comercialización Agropecuaria; el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria; el Servicio de Información y Estadística Agroalimentaria y Pesquera, y el Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias. El Secretario, en los casos que estime pertinente, podrá invitar a los servidores públicos que considere deban participar de acuerdo a la materia que se discuta. El Grupo Interno de Dirección sesionará mediante convocatoria del Secretario.
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+El Grupo Interno de Dirección estará integrado por el Secretario, quien lo presidirá, los Subsecretarios y el Oficial Mayor, así como los demás servidores públicos que determine el propio Secretario, quien además podrá invitar a cualquier persona que considere deba participar de acuerdo con la materia que se discuta. El Grupo Interno de Dirección sesionará cuando así lo determine el Secretario del Despacho.
+
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 7o Bis.
+
+Para la atención de los asuntos internacionales, el Secretario se auxiliará del Coordinador de Asuntos Internacionales, quien contará con las siguientes facultades:
+
+I. Vincular a la Secretaría con las instituciones y organizaciones internacionales dedicadas a la educación e investigación tecnológica superior agropecuaria, a fin de fomentar la promoción y desarrollo del sector agroalimentario;
+
+II. Coadyuvar en el establecimiento de políticas públicas en materia de asuntos internacionales y comercio exterior del sector agroalimentario;
+
+III. Atender y dar seguimiento a los asuntos internacionales en los que participe la Secretaría, y fungir como enlace permanente y eficaz para asegurar la continuidad en el manejo de dichos asuntos;
+
+IV. Apoyar a las diversas áreas de la Secretaría en los asuntos internacionales en que intervenga, y representarla ante organismos internacionales y autoridades de otros países;
+
+V. Intervenir en la definición de actividades, la aprobación de programas y la participación en eventos y foros de carácter internacional, y
+
+VI. Las demás que le señalen otras disposiciones aplicables y aquéllas que le confiera el Secretario.
 
 ### CAPÍTULO SEGUNDO. DE LOS SUBSECRETARIOS
 
@@ -325,7 +345,9 @@ XI. Acordar y autorizar la adquisición y suministro de bienes y servicios neces
 
 XII. Autorizar el programa interno de protección civil para el personal, instalaciones, bienes e información de la Secretaría;
 
-XIII. Suscribir los convenios y acuerdos de coordinación o concertación que afecten el presupuesto de la Secretaría y de sus órganos administrativos desconcentrados, así como aquellos que le sean señalados por delegación o le correspondan por suplencia;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XIII. Suscribir los convenios y acuerdos de coordinación o concertación que afecten el presupuesto de las unidades administrativas centrales de la Secretaría, así como aquellos que le sean señalados por delegación o le correspondan por suplencia;
 
 XIV. Suscribir o acordar la suscripción de los contratos, convenios, acuerdos y pedidos relativos al ejercicio de sus atribuciones, así como los demás documentos que impliquen actos de administración de acuerdo con las disposiciones legales aplicables y conforme a los lineamientos que fije el Secretario;
 
@@ -457,7 +479,9 @@ I. Atender, dirigir, coordinar y supervisar los asuntos jurídicos de la Secreta
 
 II. Revisar y, en su caso, aprobar los proyectos de reglamentos, decretos, acuerdos y demás disposiciones legales que deba suscribir o refrendar el Secretario;
 
-III. Formular y autorizar los proyectos de iniciativas de leyes o decretos, así como de reglamentos, decretos, acuerdos, circulares y demás disposiciones en materias relacionadas con la competencia de la Secretaría o con el objeto de las entidades del Sector Coordinado;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+III. Formular proyectos de iniciativas de leyes o decretos, así como de reglamentos, decretos, acuerdos, circulares y demás disposiciones en materias relacionadas con la competencia de la Secretaría o con el objeto de las entidades del Sector Coordinado, así como emitir la opinión jurídica correspondiente, respecto de las que elaboren las demás unidades administrativas;
 
 IV. Revisar, aprobar, expedir y difundir los lineamientos y normas de carácter legal establecidas en la ley y demás disposiciones, relativas a las materias cuya aplicación corresponda a la Secretaría y que no estén expresamente conferidas a otra unidad administrativa;
 
@@ -489,13 +513,15 @@ XVII. Dictaminar todos los expedientes de infracciones de los ordenamientos lega
 
 XVIII. Establecer las bases y requisitos legales a que deban ajustarse los convenios, contratos, concesiones, autorizaciones, licencias, permisos y demás instrumentos jurídicos en que intervenga o sean competencia de la Secretaría;
 
-XIX. Autorizar los convenios, acuerdos y bases de coordinación y concertación, que deban suscribir los servidores públicos competentes de la Secretaría;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XIX. Opinar jurídicamente sobre los convenios, acuerdos y bases de coordinación y concertación, que deban suscribir los servidores públicos competentes de la Secretaría;
 
 XX. Recabar, registrar y archivar un ejemplar de los instrumentos jurídicos en que intervenga la Secretaría, que contenga las firmas ológrafas de los servidores públicos competentes;
 
 XXI. Dictaminar sobre la procedencia de concesiones, permisos y demás autorizaciones previstas por las leyes y otros ordenamientos que norman el ámbito de competencia de la Secretaría y del Sector Coordinado y cuya expedición corresponda a las unidades administrativas centrales de la Secretaría, así como sobre las causales de cancelación, revocación, caducidad y demás formas que los modifiquen o extingan;
 
-XXII. Emitir lineamientos generales para la expedición de permisos y demás autorizaciones que en materia de pesca y acuacultura correspondan a la Secretaría;
+XXII. (DEROGADA, D.O.F. 15 DE NOVIEMBRE DE 2006)
 
 XXIII. Opinar sobre los proyectos de manuales de organización, procedimientos y servicios al público;
 
@@ -505,11 +531,13 @@ XXV. Representar a la Secretaría ante comisiones, subcomisiones, comités, grup
 
 XXVI. Tramitar y someter a la consideración del Secretario, los expedientes relativos a las expropiaciones en los casos de afectaciones en que intervenga la Secretaría;
 
-XXVII. Dirigir y controlar los asuntos de tenencia legal de la tierra y demás inmuebles a disposición de la Secretaría;
+XXVII. (DEROGADA, D.O.F. 15 DE NOVIEMBRE DE 2006)
 
 XXVIII. Establecer sistemas y procedimientos para el mejor desempeño de las áreas jurídicas de las delegaciones y de los órganos administrativos desconcentrados;
 
-XXIX. Proponer el nombramiento o remoción de los jefes de las áreas jurídicas de las delegaciones, así como opinar sobre las designaciones de las correspondientes de los órganos administrativos desconcentrados;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XXIX. Proponer el nombramiento o remoción de los jefes de las áreas jurídicas de las delegaciones, así como opinar sobre las designaciones de las correspondientes de los órganos administrativos desconcentrados, de conformidad con la normatividad aplicable;
 
 XXX. Revisar, aprobar, expedir y difundir las normas oficiales mexicanas en el ámbito de competencia de la Secretaría;
 
@@ -639,9 +667,25 @@ XII. Coadyuvar en la emisión de lineamientos para la ejecución de programas y 
 
 XIII. Participar con las unidades administrativas que corresponda, en el análisis de comportamiento de los mercados agrícolas;
 
-XIV. Participar, con las unidades administrativas que correspondan, en el diseño, promoción y difusión de campañas de fomento al consumo de productos agrícolas, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-XV. Participar en la formulación de propuestas de diseño y funcionamiento de los sistemas de información que apoyen el desarrollo de la actividad agrícola.
+XIV. Participar, con las unidades administrativas que correspondan, en el diseño, promoción y difusión de campañas de fomento al consumo de productos agrícolas;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XV. Participar en la formulación de propuestas de diseño y funcionamiento de los sistemas de información que apoyen el desarrollo de la actividad agrícola;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XVI. Establecer estrategias y, en su caso, coordinar programas que promuevan el fortalecimiento de los Sistemas Producto;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XVII. Fomentar la elaboración, actualización y aplicación de normas oficiales mexicanas y normas mexicanas, así como la difusión, promoción y aplicación de marcas colectivas, de normas internacionales de calidad para productos agropecuarios, para mejorar las condiciones de comercialización y ordenamiento de los mercados agrícolas, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XVIII. Promover la estrategia para el levantamiento y verificación de información de predios de productos agrícolas, que permitan generar padrones actualizados que provean información para la planeación de la producción y comercialización de los Sistemas Producto.
 
 #### SECCIÓN II. DE LA DIRECCIÓN GENERAL DE VINCULACIÓN Y DESARROLLO TECNOLÓGICO
 
@@ -667,9 +711,25 @@ VIII. Gestionar, difundir, supervisar y evaluar los convenios y acuerdos de coor
 
 IX. Colaborar con las demás áreas de la Secretaría en promover la cooperación nacional e internacional en materia de educación, investigación y transferencia de tecnología;
 
-X. Fomentar el desarrollo del capital humano en las actividades agrícolas, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-XI. Promover la constitución de organismos de certificación para productos agrícolas.
+X. Fomentar el desarrollo del capital humano en las actividades agrícolas;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XI. Promover la constitución de organismos de certificación para productos agrícolas;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XII. Coordinar políticas, estrategias y programas que generen condiciones para promover la productividad y sustentabilidad de las unidades de producción agrícolas, aprovechando el potencial productivo y manejo sustentable de los recursos naturales;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XIII. Promover la capitalización de las unidades de producción agrícola mediante la instrumentación de programas de inversión, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XIV. Coadyuvar con las dependencias competentes en la definición de las políticas, programas y acciones en materia de insumos de nutrición vegetal, mediante el dictamen de su efectividad biológica, así como en lo relativo a su aplicación, uso y manejo conforme a las normas correspondientes, coordinando la verificación de empresas que fabrican, formulan, importan, distribuyen o comercializan insumos de nutrición vegetal.
 
 #### SECCIÓN III. DE LA DIRECCIÓN GENERAL DE APOYOS PARA EL DESARROLLO RURAL
 
@@ -751,9 +811,25 @@ VII. Generar acuerdos interinstitucionales, nacionales e internacionales para ga
 
 VIII. Generar recomendaciones de política en base al análisis de los resultados de las evaluaciones de los programas de desarrollo rural, con el fin de mejorar y readecuar su operación;
 
-IX. Impulsar la planeación participativa y la capacidad de gestión que permitan aprovechar eficientemente los programas y apoyos gubernamentales orientados al desarrollo rural, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-X. Diseñar mecanismos de planeación que privilegien las cadenas productivas, tendientes a incrementar la competitividad nacional e internacional del sector rural.
+IX. Impulsar la planeación participativa y la capacidad de gestión que permitan aprovechar eficientemente los programas y apoyos gubernamentales orientados al desarrollo rural;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+X. Diseñar mecanismos de planeación que privilegien las cadenas productivas, tendientes a incrementar la competitividad nacional e internacional del sector rural;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XI. Participar y apoyar los trabajos y acciones derivadas de la Comisión Intersecretarial para el Desarrollo Rural Sustentable;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XII. Proponer políticas, instrumentos, medidas y mecanismos para resolver los efectos negativos que las contingencias climatológicas ocasionan en la población rural, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XIII. Promover y, en su caso, establecer en coordinación con las instancias competentes, programas, procedimientos y mecanismos de apoyo a las organizaciones respectivas para la ejecución de proyectos productivos, considerados estratégicos para el desarrollo rural.
 
 #### SECCIÓN VI. DE LA DIRECCIÓN GENERAL DE SERVICIOS PROFESIONALES PARA EL DESARROLLO RURAL
 
@@ -777,9 +853,17 @@ VII. Expedir los lineamientos para que profesionales puedan proporcionar servici
 
 VIII. Promover proyectos vinculados con productos agroalimentarios no tradicionales con mayor potencial de comercialización;
 
-IX. Identificar y aprovechar las oportunidades de negocio para los productos agroalimentarios no tradicionales, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-X. Promover el intercambio y difusión de los proyectos sobresalientes de desarrollo rural sostenible.
+IX. Identificar y aprovechar las oportunidades de negocio para los productos agroalimentarios no tradicionales;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+X. Promover el intercambio y difusión de los proyectos sobresalientes de desarrollo rural sostenible, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XI. Promover, en las zonas de menor desarrollo relativo, la creación, consolidación y presencia de Agentes de Desarrollo Rural con capacidad de generar, a través de métodos participativos, proyectos integrados de desarrollo rural, fortalecimiento de la gestión local y coordinación interinstitucional.
 
 #### SECCIÓN VII. DE LA DIRECCIÓN GENERAL DE ESTUDIOS AGROPECUARIOS Y PESQUEROS
 
@@ -807,9 +891,17 @@ IX. Dar seguimiento y análisis de los programas agropecuarios de los principale
 
 X. Coordinar la realización de estudios comparativos de modelos de participación pública en los mercados agropecuarios y pesqueros a nivel internacional;
 
-XI. Dar seguimiento y análisis de los flujos de inversión extranjera directa en el sector agroalimentario, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-XII. Llevar a cabo estudios de coyuntura sobre la situación actual del Sector para apoyar la toma de decisiones.
+XI. Dar seguimiento y análisis de los flujos de inversión extranjera directa en el sector agroalimentario;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XII. Llevar a cabo estudios de coyuntura sobre la situación actual del Sector para apoyar la toma de decisiones, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XIII. Diseñar y proponer los criterios de asignación de garantías, en función de los estudios elaborados y de las necesidades de financiamiento identificadas, conjuntamente con los Sistemas Producto.
 
 #### SECCIÓN VIII. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN DE RIESGOS Y PROYECTOS DE INVERSIÓN
 
@@ -833,9 +925,21 @@ VII. Promover la vinculación del sector productivo agroalimentario al mercado d
 
 VIII. Diseñar esquemas de capacitación y asistencia técnica para promover la cultura en el uso de la administración de riesgos dentro del sector productivo rural;
 
-IX. Promover ante la banca de desarrollo y entre el sector rural productivo el uso de instrumentos de cobertura y administración de riesgos, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-X. Fungir como representante de la Secretaría en los eventos tanto nacionales como internacionales relacionados con la cooperación internacional en materia de financiamiento agropecuario, acuícola y pesquero.
+IX. Promover ante la banca de desarrollo y entre el sector rural productivo el uso de instrumentos de cobertura y administración de riesgos;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+X. Fungir como representante de la Secretaría en los eventos tanto nacionales como internacionales relacionados con la cooperación internacional en materia de financiamiento agropecuario, acuícola y pesquero;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XI. Impulsar la operación de instrumentos para el acceso al financiamiento y a la administración de riesgos en el sector rural, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XII. Coordinar la operación de los programas de apoyo correspondientes al acceso al Sistema Financiero Rural ya sea de manera directa o a través de los distintos operadores del componente, que permita a todos los productores y a sus organizaciones económicas y empresas sociales disponer de recursos financieros, en términos de las disposiciones aplicables.
 
 #### SECCIÓN IX. DE LA DIRECCIÓN GENERAL DE APOYO AL FINANCIAMIENTO RURAL
 
@@ -859,9 +963,17 @@ VII. Estudiar, proponer y participar con la Secretaría de Hacienda y Crédito P
 
 VIII. Fungir como vínculo institucional con intermediarios financieros, la banca comercial y la banca de desarrollo rural para fomentar la inversión en el sector rural, acuícola y pesquero;
 
-IX. Orientar al sector productivo agropecuario y pesquero en el aprovechamiento de fuentes de financiamiento externo, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-X. Realizar análisis de riesgos, así como evaluaciones financieras de proyectos productivos.
+IX. Orientar al sector productivo agropecuario y pesquero en el aprovechamiento de fuentes de financiamiento externo;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+X. Realizar el análisis de riesgos, así como evaluaciones financieras de proyectos productivos, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XI. Diseñar las políticas, criterios y lineamientos para la instrumentación de programas y sistemas dirigidos a la ampliación, desarrollo y fortalecimiento de intermediarios financieros rurales y de una red de entidades que coadyuven en la entrega y dispersión del crédito rural, con la finalidad de ser sustentables operativamente, y que atienda las necesidades de financiamiento de los Sistemas Producto del sector rural, acuícola y pesquero.
 
 #### SECCIÓN X. DE LA DIRECCIÓN GENERAL DE EFICIENCIA FINANCIERA Y RENDICIÓN DE CUENTAS
 
@@ -1163,6 +1275,10 @@ XIX. Ejecutar e informar de los acuerdos que dicte el Consejo Técnico, y
 
 XX. Ejercer las demás facultades que les asignen otras disposiciones legales y administrativas, así como las que les confiera y delegue el Secretario.
 
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+Para el ejercicio de sus atribuciones, los Órganos desconcentrados contarán con las unidades administrativas autorizadas conforme a la normatividad aplicable, las cuales se contendrán en su correspondiente Manual de Organización.
+
 ###### Artículo 36.
 
 El Secretario establecerá la estructura orgánica de los órganos administrativos desconcentrados, mediante acuerdos que serán publicados en el Diario Oficial de la Federación.
@@ -1427,7 +1543,7 @@ XVIII. Analizar y proponer esquemas y mecanismos de participación y asociación
 
 XIX. Participar como mediador en las negociaciones que se establezcan entre productores y compradores de productos agroalimentarios, así como promover la creación y desarrollo de establecimientos legalmente autorizados en los que se puedan reunir éstos para concertar, suscribir, registrar y difundir, las operaciones mercantiles sobre dichos productos;
 
-XX. Ejercer los recursos que aporten los sectores público y privado derivados de convenios para la realización de los programas a su cargo y proponer medidas de tipo financiero que permitan el desarrollo de los servicios a su cargo;
+XX. (DEROGADA, D.O.F. 15 DE NOVIEMBRE DE 2006)
 
 XXI. Evaluar el impacto de las políticas agroalimentarias de otros países en los productos agroalimentarios nacionales;
 
@@ -1515,101 +1631,89 @@ IX. Someter a la consideración del Secretario de Agricultura, Ganadería, Desar
 
 X. Las demás que le otorguen la ley, este Reglamento u otras disposiciones legales y administrativas o le delegue o encomiende el Secretario.
 
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 48 Bis.
+
+Apoyos y Servicios a la Comercialización Agropecuaria, contará, entre otras, con la Coordinación General de Pagos de Apoyos, la que tendrá las siguientes atribuciones:
+
+I. Instrumentar, ejecutar, desarrollar, supervisar y evaluar el sistema integral de pagos de apoyos que corresponda en la ejecución de los programas de apoyos competencia de la Secretaría y su Sector Coordinado;
+
+II. Prestar el servicio de integración del padrón único de beneficiarios de los programas de apoyos, cuya dispersión del pago le sea encomendado por cuenta de las áreas responsables de la ejecución de dichos programas;
+
+III. Opinar respecto de las reglas de operación de los programas de apoyos que correspondan, para su respectiva operatividad, bajo criterios que permitan otorgar certidumbre, transparencia y control en el manejo de los recursos transferibles a los productores, con objeto de someterlas a la consideración del Secretario;
+
+IV. Coordinar e instrumentar, en el ámbito de su competencia, las actividades de pago de apoyos a productores, con las dependencias y entidades de la Administración Pública Federal competentes, e instituciones financieras que estén relacionadas con el Sector;
+
+V. Asegurar la canalización oportuna de los recursos que deriven de los programas de apoyos respectivos a los beneficiarios de dichos programas, con cargo a los presupuestos y gastos de operación que correspondan a las unidades administrativas responsables de su instrumentación;
+
+VI. Efectuar la conciliación y, en general, la rendición de cuentas frente a los responsables de la ejecución de los programas de apoyos competencia de la Secretaría y su Sector Coordinado, respecto de los recursos financieros que reciba como consecuencia de los actos jurídicos que celebre para la entrega de dichos apoyos;
+
+VII. Dar seguimiento al cumplimiento de los acuerdos de carácter financiero celebrados con instituciones y organismos, relativos a los procedimientos previstos para la entrega de los recursos asignados a los programas de apoyos;
+
+VIII. Proponer para la autorización correspondiente las bases, acuerdos y convenios de colaboración, coordinación y concertación necesarios para la operación del sistema integral de pagos de apoyos de la Secretaría;
+
+IX. Apoyar a las diferentes unidades administrativas y entidades del Sector en la planeación, definición, toma de decisiones y operación de los programas de apoyos a su cargo, mediante la generación, integración, validación y verificación de la información resultado de la instrumentación del sistema de pago de apoyos;
+
+X. Determinar el diseño y generación de las herramientas informáticas que garanticen la operación continua y óptima del sistema integral de pagos de apoyos;
+
+XI. Administrar, mantener, operar y gestionar la adquisición de la infraestructura tecnológica en informática y telecomunicaciones que permita procesar, evaluar y transmitir de forma segura la información inherente al sistema integral de pagos de apoyos;
+
+XII. Las demás que le señalen otras disposiciones y aquéllas que se le confieran o deleguen de conformidad con la normatividad aplicable.
+
 #### SECCIÓN III. SERVICIO NACIONAL DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA
+
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 49.
 
 El Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria tendrá las siguientes atribuciones:
 
-I. Aplicar y vigilar el cumplimiento de las disposiciones en materia de sanidad e imponer las sanciones respectivas;
+I. Aplicar y vigilar el cumplimiento de las disposiciones en materia de sanidad vegetal y sanidad animal e imponer las sanciones respectivas;
 
-II. Establecer políticas, lineamientos, criterios, sistemas, estrategias, programas, proyectos, procedimientos y servicios que coadyuven a mejorar la condición sanitaria de los vegetales, animales, y la fauna acuática, sus productos y subproductos así como la inocuidad de los alimentos de origen animal, vegetal, acuícola y pesquero;
+II. Expedir normas oficiales mexicanas, acuerdos y demás disposiciones aplicables, que tengan por objeto prevenir, controlar y combatir plagas y enfermedades que afecten a la agricultura, ganadería y sus productos y subproductos, así como promover la aplicación de programas de sanidad acuícola y pesquera;
 
-III. Proponer, con la participación que corresponda a otras unidades administrativas de la Secretaría, disposiciones generales a través de reglamentos y normas oficiales mexicanas, que tengan por objeto prevenir, controlar y combatir plagas y enfermedades que afectan a la agricultura, ganadería, especies vegetales, acuícolas y pesqueras, así como garantizar la inocuidad de los alimentos y sus procesos de producción, procesamiento, almacén, empaque, transporte y distribución;
+III. Establecer los requisitos, disposiciones cuarentenarias y medidas de seguridad sanitaria, así como verificar que los vegetales, animales y sus productos y subproductos que se pretendan ingresar al país o se movilicen por el territorio nacional, no constituyan un riesgo para los recursos agropecuarios, acuícolas y pesqueros;
 
-IV. Determinar, en conjunto con las unidades administrativas competentes de la Secretaría los requisitos y disposiciones cuarentenarias, así como medidas de seguridad sanitaria que garanticen que las especies, productos, insumos y equipos agrícolas, pecuarios y pesqueros que se pretenda ingresar al país o se movilicen por el territorio nacional, no constituyan un riesgo para los recursos agropecuarios, acuícolas y pesqueros ni para la salud humana;
+IV. Normar y evaluar los programas para la prevención, control, combate de plagas y enfermedades que afecten a la agricultura y a la ganadería; proponer mecanismos de coordinación con los gobiernos del Distrito Federal y de los estados, así como con organismos auxiliares para su implantación, y emitir un dictamen sobre su cumplimiento y recomendar las medidas correctivas que procedan;
 
-V. Promover programas fito y zoosanitarios con el objeto de que por medio de la prevención, control, combate de plagas y enfermedades se protejan los recursos productivos y se generen excedentes económicos a los productores para promover un mayor bienestar social;
+V. Realizar análisis de riesgo sobre la introducción, establecimiento y diseminación de plagas y enfermedades que afecten a la agricultura y la ganadería, así como determinar niveles de incidencia y, en su caso, el reconocimiento de zonas libres;
 
-VI. Verificar que las especies, productos, insumos, y equipos agrícolas, vegetales, pecuarios, acuícolas y pesqueros que se pretendan introducir al país o se movilicen por el territorio nacional, cumplan con la normatividad correspondiente y en su caso, se constate su condición sanitaria o su inocuidad;
+VI. Realizar inspecciones en materia de sanidad agropecuaria, acuícola, pesquera en puertos, aeropuertos y fronteras, puntos de verificación interna, establecimientos, unidades de producción, procesos, sistemas, transportes, instalaciones, almacenes, expendios y demás relacionados para constatar el cumplimiento de las disposiciones aplicables;
 
-VII. Normar y evaluar los programas operativos de sanidad agropecuaria, vegetal, acuícola, pesquera y de inocuidad alimentaria que se lleven a cabo en coordinación con los gobiernos estatales y organismos auxiliares, así como emitir un dictamen sobre su cumplimiento y recomendar las medidas correctivas que procedan;
+VII. Realizar verificaciones y certificaciones de productos, procesos, servicios e instalaciones para avalar su condición sanitaria de acuerdo con las normas oficiales mexicanas aplicables, así como establecer y operar el programa de monitoreo de residuos y contaminantes físicos, químicos y biológicos en los alimentos no procesados de origen vegetal, animal y los derivados de la acuacultura, producidos en el país o en el extranjero;
 
-VIII. Participar en el establecimiento de lineamientos y programas de capacitación dirigidos a productores, comerciantes y público en general, así como al personal técnico del Servicio Nacional, que faciliten el entendimiento para la aplicación de disposiciones regulatorias y programas en materia de sanidad agropecuaria, vegetal, acuícola, pesquera y de inocuidad de alimentos;
+VIII. Aprobar organismos de certificación, unidades de verificación, laboratorios de prueba y terceros especialistas que coadyuven con la Secretaría en la verificación y certificación de productos, procesos, servicios e instalaciones, a fin de garantizar su condición sanitaria;
 
-IX. Promover la participación del Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria en foros nacionales e internacionales;
+IX. Coordinar, junto con las unidades administrativas competentes, la participación de la Secretaría en la homologación y armonización de medidas sanitarias y fitosanitarias, con las de otros países y organismos internacionales y regionales, así como proponer la suscripción de acuerdos internacionales de cooperación sanitaria y fitosanitaria;
 
-X. Evaluar el impacto económico y social de los programas en materia de sanidad agropecuaria, acuícola, pesquera y de inocuidad de los alimentos y los beneficios que los productores obtengan de estos programas;
+X. Integrar y operar los sistemas nacionales de vigilancia epidemiológica activa para detectar y atender en forma oportuna los brotes de plagas, y enfermedades que afecten a las especies vegetales, animales, acuícolas y pesqueras;
 
-XI. Promover sistemas de calidad en la prestación de servicios fito y zoosanitarios y sanitarios en concordancia con las normas nacionales e internacionales;
+XI. Planear, organizar, normar, coordinar, ejecutar y evaluar la operación de cuarentenas y campañas fito y zoosanitarias, e instrumentar los dispositivos nacionales de emergencia contra plagas y enfermedades que puedan representar un riesgo para los recursos agrícolas, pecuarios, acuícolas y pesqueros del país;
 
-XII. Realizar, con la participación que corresponda a otras unidades administrativas de la Secretaría, los análisis de riesgo sobre la introducción, establecimiento y diseminación de plagas y enfermedades agropecuarias, vegetales, acuícolas y pesqueras; determinar niveles de incidencia y en su caso proponer el reconocimiento de zonas libres y de baja prevalencia de enfermedades y plagas agropecuarias y forestales;
+XII. Integrar y evaluar los comités consultivos nacionales de normalización en materia de sanidad animal y sanidad vegetal, así como integrar, coordinar, supervisar y en su caso, imponer sanciones a los organismos auxiliares relacionados con la sanidad animal, vegetal, acuícola y pesquera;
 
-XIII. Realizar los análisis de riesgo de contaminantes físicos, químicos y biológicos en alimentos;
+XIII. Inspeccionar, verificar y certificar, que los establecimientos cumplan con las características tipo inspección federal;
 
-XIV. Realizar inspecciones en materia de sanidad agropecuaria, acuícola, pesquera y de inocuidad de los alimentos en puertos, aeropuertos, fronteras y puntos de verificación interna que se determinen en las disposiciones correspondientes;
+XIV. Operar los centros nacionales de referencia y coadyuvar en el impulso de líneas de trabajo para la transferencia de tecnología en materia de sanidad agropecuaria, acuícola y pesquera, mediante convenios o contratos con universidades, institutos, centros de investigación y otras asociaciones legalmente constituidas con objetivos similares;
 
-XV. Realizar inspecciones y certificar, conforme a las leyes aplicables, los establecimientos, unidades de producción, procesos, sistemas, transportes, almacenes y expendios donde se manejen alimentos sin procesar;
+XV. Promover programas inductivos y voluntarios de buenas prácticas de producción y manufactura agrícola y pecuaria para minimizar riesgos de contaminación física, química y microbiológica en agroalimentos, así como verificar y certificar su observancia;
 
-XVI. Aprobar los lugares, instalaciones y áreas de propiedad privada para operar sistemas de verificación e inspección que sean necesarios para garantizar la condición sanitaria, y la inocuidad alimentaria de productos agropecuarios, acuícolas y pesqueros que se pretendan importar al país o exportar a otros países; además podrá ofrecer el servicio de inspección oficial en esas instalaciones;
+XVI. Regular, en coordinación con otras instancias competentes, las actividades de utilización confinada, liberación experimental, liberación en programa piloto, liberación comercial, comercialización, importación y exportación de organismos genéticamente modificados;
 
-XVII. Reconocer, autorizar y, en su caso, certificar, de conformidad con las leyes aplicables, los sistemas de producción, procesamiento, verificación e inspección de alimentos con el fin de garantizar su calidad sanitaria para consumo nacional o exportación;
+XVII. Regular, en coordinación con otras instancias competentes, los criterios y requisitos para la conversión, producción, procesamiento, elaboración, preparación, acondicionamiento, almacenamiento, identificación, empaque, distribución, transporte, comercialización, verificación y certificación de productos orgánicos;
 
-XVIII. Coordinar, con la participación de las unidades administrativas correspondientes de la Secretaría, las actividades vinculadas a la homologación y armonización de medidas sanitarias, fito y zoosanitarias y de inocuidad con otros países, tanto bilateralmente como en los foros internacionales de referencia;
+XVIII. Participar en programas de capacitación, difusión y exposiciones que faciliten el entendimiento para la aplicación de disposiciones regulatorias y programas en materia de sanidad agropecuaria, acuícola y pesquera;
 
-XIX. Participar, en coordinación con las unidades administrativas correspondientes de la Secretaría, en los organismos internacionales regionales y subregionales en materias fito y zoosanitaria, acuícola, pesquera y de inocuidad alimentaria y proponer la suscripción de acuerdos internacionales de cooperación;
+XIX. Establecer los lineamientos para la certificación sanitaria de semillas y material propagativo, y
 
-XX. Autorizar los lugares, instalaciones, áreas y sistemas de verificación e inspección que coadyuven en el control de la movilización nacional de productos regulados;
+XX. Las demás que las leyes, acuerdos, decretos y demás disposiciones en la materia establezcan.
 
-XXI. Integrar y operar los sistemas nacionales de vigilancia epidemiológica para detectar y atender en forma oportuna los brotes de plagas, enfermedades agropecuarias, vegetales, acuícolas y pesqueras, así como factores de riesgo que afecten la inocuidad de los alimentos de origen agropecuario, pesquero o acuícola;
-
-XXII. Establecer, operar y dar seguimiento al programa de monitoreo de residuos y contaminantes físicos, químicos y biológicos en los alimentos no procesados de origen vegetal, animal y fauna acuática, producidos en el país o en otros de los que se importe;
-
-XXIII. Promover el establecimiento de convenios y programas de coordinación fito y zoosanitaria y de inocuidad de los alimentos con los gobiernos locales, organizaciones de productores e instituciones, así como dar seguimiento a su operación y evaluar sus resultados;
-
-XXIV. Planear, organizar, normar, coordinar, ejecutar y evaluar la operación de cuarentenas y campañas fito y zoosanitarias e instrumentar los dispositivos nacionales de emergencia contra plagas y enfermedades que puedan representar un alto riesgo para los recursos agrícolas, vegetales, pecuarios, pesqueros del país;
-
-XXV. Coordinar acciones con otras dependencias de los gobiernos federales, estatales y municipales en casos de emergencia relacionados con alimentos contaminados de origen vegetal, animal y fauna acuática;
-
-XXVI. Promover la integración de productores y sus asociaciones en organismos auxiliares que coadyuven en programas de sanidad agropecuaria, pesquera e inocuidad alimentaria, así como atender, coordinar, supervisar y evaluar su operación;
-
-XXVII. Regular a través de normas oficiales mexicanas la fabricación, formulación, importación, distribución, comercialización, uso y aplicación de insumos fitosanitarios y zoosanitarios, así como evaluar la efectividad y constatar la calidad cuando proceda; y vigilar el uso de dichos insumos, incluyendo a los organismos genéticamente modificados para el control de plagas, de uso agrícola y de pesca;
-
-XXVIII. Proponer las normas que regulen la publicidad sobre insumos fito y zoosanitarios, de nutrición vegetal y de pesca que se utilicen en las cadenas productivas agrícolas, pecuarias y pesqueras;
-
-XXIX. Proponer las regulaciones y normas, en términos fito y zoosanitarios y de inocuidad, a los alimentos, importación y movilización de productos y subproductos agropecuarios y pesqueros, incluyendo alimentos para el consumo de animales y, en su caso, el equipo de transporte para su movilización, empaque y almacenamiento, así como para la importación de productos biológicos, químicos y farmacéuticos;
-
-XXX. Proponer las normas y regulaciones, en términos zoosanitarios y de inocuidad de los alimentos, la fabricación nacional de productos biológicos, químicos, farmacéuticos y alimenticios para uso en animales o consumo de éstos, cuando puedan constituirse en un riesgo zoosanitario y sanitario, incluyendo los servicios vinculados al proceso productivo, así como, en su caso, controlar su destino y aplicación;
-
-XXXI. Proponer las normas, verificar, inspeccionar y certificar, de conformidad con las leyes aplicables, la operación de las plantas de sacrificio de animales para consumo humano, así como los establecimientos destinados al procesamiento industrial de productos cárnicos, lácteos, huevo, miel y de fauna acuática;
-
-XXXII. Proponer las normas, inspeccionar, verificar y certificar, de conformidad con las leyes aplicables, establecimientos que cumplan con las características de tipo inspección federal;
-
-XXXIII. Proponer las normas y regulaciones en términos de inocuidad de los alimentos la producción, captura, transporte, almacén, conservación, distribución y expendio, así como la importación de productos acuícolas y pesqueros;
-
-XXXIV. Coadyuvar en el impulso de líneas de trabajo para el desarrollo de tecnología en materia de sanidad agropecuaria, acuícola, pesquera y de inocuidad de los alimentos, ya sea a través del establecimiento de fondos distribuidos a través de convocatorias para concurso, o de convenios o contratos con universidades, institutos y centros de investigación y otras asociaciones legalmente constituidas con objetivos similares;
-
-XXXV. Operar los centros nacionales de referencia fito y zoosanitaria y de inocuidad de los alimentos y administrar las normas y el funcionamiento de laboratorios fito y zoosanitarios y de inocuidad de los alimentos, oficiales y privados;
-
-XXXVI. Coordinar la elaboración, instrumentación y ejecución del Programa Nacional de Normalización Fitozoosanitaria e inocuidad agroalimentaria, así como dar seguimiento a su operación y evaluar sus resultados;
-
-XXXVII. Constituir y participar en el Consejo Nacional Consultivo Fitosanitario, el Consejo Técnico Consultivo Nacional de Sanidad Animal, el Comité Consultivo Nacional de Normalización de Protección Fitosanitaria, y el Comité Consultivo Nacional de Normalización de Protección Zoosanitaria, los consejos consultivos estatales y apoyar su funcionamiento; así como la constitución de grupos expertos en materias específicas y atender las recomendaciones de dichos Consejos. En caso de no atender dichas recomendaciones, presentar ante el cuerpo consultivo los argumentos correspondientes;
-
-XXXVIII. Integrar un sistema de información sobre seguimiento de certificaciones, de desarrollo de programas y campañas, de evaluación de impacto social y económico, de proyectos, de requerimientos de insumos y servicios y demás apoyos relacionados con las actividades fito y zoosanitarias y de inocuidad de los alimentos;
-
-XXXIX. Difundir, en coordinación con la Coordinación General de Comunicación Social, información estratégica, oportuna y confiable en materias fito y zoosanitaria y de inocuidad de los alimentos, que favorezca el conocimiento, fomente el interés por adherirse a los programas fitosanitarios y zoosanitarios e induzca a los usuarios de los servicios y público en general a participar activamente en las acciones que realiza esta unidad administrativa desconcentrada;
-
-XL. Promover, normar y evaluar sistemas agrícolas y pecuarios de producción orgánica;
-
-XLI. Establecer los lineamientos fitosanitarios para la certificación de semillas y material propagativo;
-
-XLII. Autorizar a personas físicas o morales para que actúen de conformidad con la legislación específica aplicable, como organismos de certificación, unidades de verificación y laboratorios de prueba, para coadyuvar en la evaluación de la conformidad de normas en materia de sanidad, inocuidad y calidad agroalimentaria, así como vigilar su operación, y
-
-XLIII. Las demás que las leyes, acuerdos, decretos y demás disposiciones en la materia establezcan.
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 50.
 
-El Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria estará a cargo de un Director en Jefe, quien será designado por el Secretario y podrá ser auxiliado para el mejor desempeño de sus atribuciones por los directores generales de Inspección Fitozoosanitaria; de Salud Animal, y de Sanidad Vegetal, y demás servidores públicos que autorice en la estructura orgánica el Secretario. Contará con un Consejo Técnico y se apoyará en el Consejo Nacional Consultivo Fitosanitario y en el Consejo Técnico Consultivo Nacional de Sanidad Animal.
+El Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria estará a cargo de un Director en Jefe, quien será designado por el Secretario y se auxiliará, para el mejor desempeño de sus atribuciones, por la Dirección General de Sanidad Vegetal; la Dirección General de Salud Animal; la Dirección General de Inspección Fitozoosanitaria; la Dirección General de Inocuidad, Agroalimentaria, Acuícola y Pesquera, y por las demás unidades administrativas y servidores públicos que se comprendan en su Manual de Organización. Contará con un Consejo Técnico y se apoyará en el Consejo Nacional Consultivo Fitosanitario y en el Consejo Técnico Consultivo Nacional de Sanidad Animal.
 
 ###### Artículo 51.
 
@@ -1653,7 +1757,9 @@ El Director en Jefe tendrá las siguientes atribuciones específicas:
 
 I. Aprobar, integrar, ejecutar y vigilar la política nacional en materia de Sanidad Agropecuaria, Forestal, Acuícola, Pesquera e Inocuidad Alimentaria;
 
-II. Representar al Servicio Nacional ante el Consejo Técnico, el Órgano Interno de Control, organismos de cooperación internacional en materia de sanidad agropecuaria, forestal, acuícola, pesquera e inocuidad de los alimentos y ante otras entidades relacionadas con el ejercicio de sus funciones;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+II. Representar al Servicio Nacional y, en su caso designar a los servidores públicos que lo representen ante el Consejo Técnico, organismos de cooperación internacional en materia de sanidad agropecuaria, acuícola, pesquera, calidad e inocuidad de los alimentos de origen animal, vegetal, acuícola y pesquero, y ante otras entidades relacionadas con el ejercicio de sus funciones;
 
 III. Aprobar los Programas Operativos Anuales y los presupuestos de las Direcciones Generales;
 
@@ -1671,7 +1777,9 @@ IX. Formular los anteproyectos del programa-presupuesto del Servicio Nacional;
 
 X. Suscribir los actos jurídicos necesarios para el ejercicio de sus atribuciones;
 
-XI. Proponer al Secretario, el nombramiento o remoción de los dos primeros niveles de servidores públicos del servicio nacional;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XI. Expedir las credenciales de identificación al personal oficial encargado de practicar visitas de inspección y verificación, de conformidad con la normatividad aplicable;
 
 XII. Someter a la consideración de las instancias competentes de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, los manuales de organización interna, procedimientos y servicios al público del órgano administrativo desconcentrado, y
 
@@ -1679,9 +1787,11 @@ XIII. Las demás que le otorguen la ley, este Reglamento u otras disposiciones l
 
 #### SECCIÓN IV. DEL SERVICIO DE INFORMACIÓN Y ESTADÍSTICA AGROALIMENTARIA Y PESQUERA
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 55.
 
-El Servicio de Información y Estadística Agroalimentaria y Pesquera tendrá las siguientes atribuciones:
+El Servicio de Información Agroalimentaria y Pesquera, tendrá las siguientes atribuciones:
 
 I. Establecer normas, lineamientos y políticas en materia de información estadística y geográfica agroalimentaria y pesquera;
 
@@ -1699,7 +1809,9 @@ VII. Dictaminar y validar la información estadística y geográfica correspondi
 
 VIII. Promover la celebración de acuerdos y convenios de intercambio de información estadística y geográfica con dependencias y entidades de la Administración Pública Federal y Estatal, así como con instituciones nacionales e internacionales;
 
-IX. Integrar y actualizar directorios de productores agroalimentarios y pesqueros, validándolos coordinadamente con las unidades administrativas competentes;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+IX. Integrar y prestar el apoyo que corresponda para la actualización de los directorios de productores agroalimentarios y pesqueros, validándolos coordinadamente con las unidades administrativas competentes;
 
 X. Promover y coordinar la realización de encuestas sobre productos agroalimentarios y pesqueros, así como sobre las variables que inciden en su producción, como precios y costos de producción, entre otros;
 
@@ -1711,17 +1823,45 @@ XIII. Coordinar la realización de estudios sobre el comportamiento de la produc
 
 XIV. Elaborar estudios sobre las cadenas de producción agroalimentarias y pesqueras;
 
-XV. Coordinar la difusión de la información de precios nacionales e internacionales de comercio exterior, así como de oferta y demanda de los principales granos, oleaginosas y otros productos agroalimentarios y pesqueros, con la participación que corresponda a las unidades administrativas de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-XVI. Emitir normas, políticas, lineamientos y procedimientos para la comercialización de publicaciones que edite el Servicio de Información y Estadística Agroalimentaria y Pesquera.
+XV. Coordinar la difusión de la información de precios nacionales e internacionales de comercio exterior, así como de oferta y demanda de los principales granos, oleaginosas y otros productos agroalimentarios y pesqueros, con la participación que corresponda a las unidades administrativas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XVI. Emitir normas, políticas, lineamientos y procedimientos para la comercialización de publicaciones que edite el Servicio de Información Agroalimentaria y Pesquera;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XVII. Promover, con la participación de las dependencias y entidades de la Administración Pública Federal, de los Gobiernos del Distrito Federal, estatales y municipales, el establecimiento e implementación del Sistema Nacional de Información para el Desarrollo Rural Sustentable (SNIDRUS), así como el establecimiento y operación de comités que se requieran para su instrumentación;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XVIII. Proponer y promover, con la participación que corresponda a las demás unidades administrativas de la Secretaría, el marco conceptual para la construcción de un Sistema de Información Geográfica que considere los insumos interinstitucionales, tanto cartográficos como de base de datos, que permita un análisis integral de la información para el desarrollo rural sustentable;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XIX. Promover la integración, estandarización y difusión de la información de su competencia, así como de los registros administrativos de las dependencias y entidades federales, así como de las entidades federativas relacionadas con el desarrollo rural sustentable, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XX. Las demás que le señalen otras disposiciones o le resulten aplicables y aquéllas que le confiera el Secretario.
+
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 56.
 
-El Servicio de Información y Estadística Agroalimentaria y Pesquera estará a cargo de un Director General que será designado por el Ejecutivo Federal. Contará con un Consejo Técnico y se apoyará en el Comité Consultivo.
+El Servicio de Información Agroalimentaria y Pesquera estará a cargo de un Director General que será designado por el Ejecutivo Federal. Contará con un Consejo Técnico y se apoyará en el Comité Técnico de Estadística y de Información Geográfica para el Desarrollo Rural Sustentable.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 57.
 
-El Consejo Técnico del Servicio de Información y Estadística Agroalimentaria y Pesquera estará integrado por el Secretario, quien lo presidirá, por los subsecretarios y el Oficial Mayor de la Secretaría; los titulares de CONAPESCA y del Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria; y por un Subsecretario de cada una de las Secretarías de Hacienda y Crédito Público; de Medio Ambiente y Recursos Naturales; y de Economía y por el Director General del Instituto Nacional de Estadística, Geografía e Informática. Para la toma de decisiones este Consejo Técnico, se podrá apoyar en un Comité Consultivo.
+El Consejo Técnico del Servicio de Información Agroalimentaria y Pesquera estará integrado por el Secretario, quien lo presidirá, por los Subsecretarios y el Oficial Mayor de la Secretaría; los titulares de la Comisión Nacional de Acuacultura y Pesca y del Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria; y por un Subsecretario de cada una de las Secretarías de Hacienda y Crédito Público; de Medio Ambiente y Recursos Naturales; y de Economía. Para la toma de decisiones, este Consejo Técnico se podrá apoyar en el Comité Técnico de Estadística y de Información Geográfica para el Desarrollo Rural Sustentable.
+
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+El Secretario invitará al Presidente del Instituto Nacional de Estadística, Geografía e Informática para que se integre al Consejo Técnico del Servicio de Información Agroalimentaria y Pesquera.
 
 Los miembros titulares del Consejo serán suplidos por un servidor público de la Dependencia respectiva con nivel mínimo de Director General o su equivalente.
 
@@ -1733,13 +1873,17 @@ Asimismo, por conducto de su Presidente, el Consejo podrá invitar a sus sesione
 
 Serán facultades del Consejo Técnico:
 
-I. Aprobar los proyectos que realice el Servicio de Información y Estadística Agroalimentaria y Pesquera;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+I. Aprobar los proyectos que realice el Servicio de Información Agroalimentaria y Pesquera;
 
 II. Conocer los programas cuya ejecución requiera la intervención de las dependencias representadas en el mismo;
 
 III. Evaluar periódicamente los objetivos, metas y resultados de los programas y actividades del Órgano Administrativo Desconcentrado;
 
-IV. Aprobar los informes que le presente el Titular del Servicio de Información y Estadística Agroalimentaria y Pesquera;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+IV. Aprobar los informes que le presente el titular del Servicio de Información Agroalimentaria y Pesquera;
 
 V. Nombrar al Secretario Técnico;
 
@@ -1747,15 +1891,19 @@ VI. Emitir sus reglas de operación, y
 
 VII. Las demás que le encomiende el Ejecutivo Federal a través del Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 59.
 
-El Comité Consultivo será la instancia colegiada de consulta en los aspectos relativos a la implementación de políticas, planes y programas relativos a la información estadística y geográfica, agroalimentaria y pesquera. Este Comité se compondrá por representantes de las organizaciones sociales y de productores del sector agroalimentario, en los términos en que lo dispongan la Reglas de Operación del Consejo Técnico.
+El Comité Técnico de Estadística y de Información Geográfica para el Desarrollo Rural Sustentable, será la instancia colegiada de consulta en los aspectos relativos a la implementación de políticas, planes y programas relativos a la información estadística y geográfica del sector agroalimentario y pesquero, así como la relacionada con el desarrollo rural sustentable. Este Comité se compondrá por representantes de las dependencias y entidades federales involucradas en la materia, y en él podrán participar las organizaciones sociales y de productores del sector agroalimentario, en los términos que dispongan sus propias Reglas de Operación.
 
 ###### Artículo 60.
 
 El Director General tendrá las siguientes atribuciones específicas:
 
-I. Dirigir técnica y administrativamente las actividades del Servicio de Información y Estadística Agroalimentaria y Pesquera;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+I. Dirigir técnica y administrativamente las actividades del Servicio de Información Agroalimentaria y Pesquera;
 
 II. Proporcionar información suficiente y oportuna al Consejo Técnico sobre los programas cuya realización requiera de coordinación con las dependencias integrantes del propio Consejo;
 
@@ -1763,11 +1911,15 @@ III. Dar seguimiento a los acuerdos del Consejo Técnico, e informar a éste al 
 
 IV. Prestar al Consejo Técnico el apoyo necesario para la adecuada realización de sus funciones;
 
-V. Formular los anteproyectos del programa presupuesto del Servicio de Información y Estadística Agroalimentaria y Pesquera;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+V. Formular los anteproyectos del programa presupuesto del Servicio de Información Agroalimentaria y Pesquera;
 
 VI. Suscribir los actos jurídicos necesarios para el ejercicio de sus atribuciones;
 
-VII. Proponer al Secretario, el nombramiento o remoción de los dos primeros niveles de servidores públicos del Servicio de Información y Estadística Agroalimentaria y Pesquera;
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+VII. Proponer al Secretario el nombramiento o remoción de los dos primeros niveles de servidores públicos del Servicio de Información Agroalimentaria y Pesquera, de conformidad con la normatividad aplicable;
 
 VIII. Someter a la consideración del Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, los manuales de organización interna, procedimientos y servicios al público del órgano administrativo desconcentrado, y
 
@@ -1809,9 +1961,17 @@ XIV. Difundir los actos relativos a la protección de los derechos del obtentor 
 
 XV. Proponer y promover la actualización permanente de las cuotas para el cobro de derechos por la prestación de servicios;
 
-XVI. Ejercer los recursos que aporten los sectores público y privado derivados de la realización de medidas y servicios de certificación, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-XVII. Proponer medidas de tipo financiero que permitan el desarrollo de los servicios a su cargo.
+XVI. Ejercer los recursos que aporten los sectores público y privado derivados de la realización de medidas y servicios de certificación;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XVII. Proponer medidas de tipo financiero que permitan el desarrollo de los servicios a su cargo, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XVIII. Promover y realizar acciones, en el ámbito de su competencia, para el desarrollo y fortalecimiento de la capacidad nacional en materia de certificación, análisis y comercio de semillas, así como para la protección de los derechos de los obtentores, de los recursos fitogenéticos y de las variedades vegetales.
 
 ###### Artículo 62.
 
@@ -1843,9 +2003,13 @@ V. Emitir sus reglas de operación, y
 
 VI. Las demás que le encomiende el Presidente de los Estados Unidos Mexicanos a través del Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 65.
 
-El Comité Consultivo será la instancia colegiada de consulta en los aspectos relativos a la implementación de políticas, planes y programas relativos a la producción, certificación y comercio de semillas. Este Comité se compondrá por representantes de las organizaciones sociales y de productores del sector agroalimentario, en los términos en que lo dispongan las reglas de operación del Consejo Técnico.
+El Comité Consultivo será la instancia colegiada de consulta del Consejo Técnico en los aspectos relativos a la implementación de políticas, planes y programas en semillas, variedades vegetales y recursos fitogenéticos para la alimentación y la agricultura.
+
+Este Comité podrá integrarse por representantes de organizaciones de productores, instituciones de enseñanza e investigación, organizaciones no gubernamentales y dependencias del sector agroalimentario, en los términos en que lo dispongan las reglas de operación del Consejo Técnico.
 
 ###### Artículo 66.
 
@@ -1865,9 +2029,17 @@ VI. Suscribir los actos jurídicos necesarios para el ejercicio de sus atribucio
 
 VII. Proponer al Secretario, el nombramiento o remoción de los dos primeros niveles de servidores públicos del SNICS;
 
-VIII. Someter a la consideración del Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, los manuales de organización interna, procedimientos y servicios al público del órgano administrativo desconcentrado, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-IX. Las demás que le otorguen la ley, este Reglamento u otras disposiciones legales y administrativas o le delegue o encomiende el Secretario.
+VIII. Someter a la consideración del Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, los manuales de organización interna, procedimientos y servicios al público del órgano administrativo desconcentrado;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+IX. Coordinar las actividades desarrolladas por las Unidades Operativas del Servicio Nacional de Inspección y Certificación de Semillas, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+X. Las demás que le señalen otras disposiciones y aquéllas que se le confieran o deleguen de conformidad con la normatividad aplicable.
 
 #### SECCIÓN VI. DEL INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES, AGRÍCOLAS Y PECUARIAS
 
@@ -1993,9 +2165,21 @@ V. Apoyar a las unidades administrativas competentes en la realización de estud
 
 VI. Coadyuvar en la realización de análisis de riesgo sobre la introducción, establecimiento y diseminación de plagas y enfermedades acuícolas y pesqueras;
 
-VII. Ofrecer a los usuarios públicos y privados, servicios profesionales de investigación científica y tecnológica, opiniones y dictámenes técnicos y consultoría, en las áreas competencia del Instituto, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-VIII. Certificar y registrar las líneas genéticas de especies acuícolas que se produzcan en el territorio nacional, así como de las especies cuyo genoma hubiera sido manipulado.
+VII. Ofrecer a los usuarios públicos y privados, servicios profesionales de investigación científica y tecnológica, opiniones y dictámenes técnicos y consultoría, en las áreas competencia del Instituto;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+VIII. Certificar y registrar las líneas genéticas de especies acuícolas que se produzcan en el territorio nacional, así como de las especies cuyo genoma hubiera sido manipulado;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+IX. Desarrollar, promover y apoyar la investigación en materia de sanidad y nutrición acuícola y poner a disposición de los productores de organismos acuáticos, los servicios de diagnóstico y control de enfermedades, así como participar con las unidades administrativas competentes en las campañas de prevención, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+X. Las demás que le señalen otras disposiciones o le resulten aplicables y aquéllas que le confiera el Secretario.
 
 ###### Artículo 74.
 
@@ -2043,7 +2227,7 @@ VI. Emitir dictámenes sobre modelos y desarrollos tecnológicos de las artes y 
 
 VII. Orientar, fomentar y desarrollar las investigaciones acuícolas, sin perjuicio de las atribuciones conferidas a otras unidades administrativas competentes;
 
-VIII. Desarrollar, promover y apoyar la investigación en materia de sanidad y nutrición acuícola y poner a disposición de los productores de organismos acuáticos, los servicios de diagnóstico y control de enfermedades, así como participar con las unidades administrativas competentes en las campañas de prevención;
+VIII. (DEROGADA, D.O.F. 15 DE NOVIEMBRE DE 2006)
 
 IX. Certificar y registrar las líneas genéticas de especies acuícolas que se produzcan en el territorio nacional, así como de las especies cuyo genoma hubiera sido manipulado, con el apoyo técnico de las unidades administrativas competentes de la Comisión Nacional de Acuacultura y Pesca y en su caso, de terceros;
 
@@ -2063,9 +2247,21 @@ XVI. Promover la formación de técnicos e investigadores científicos de nivel 
 
 XVII. Participar, con las unidades administrativas competentes de la Secretaría, con los sectores público, social y privado, en la formulación de programas de capacitación para el manejo integral y sustentable de la flora y fauna acuáticas y sus ecosistemas;
 
-XVIII. Suscribir convenios para realizar investigaciones y estudios e intercambiar información técnica, científica y materiales de investigación, y
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
 
-XIX. Establecer la coordinación y los programas de colaboración con las instituciones y organizaciones científicas nacionales e internacionales relacionadas con la investigación y desarrollo tecnológico pesquero y acuícola.
+XVIII. Suscribir convenios para realizar investigaciones y estudios e intercambiar información técnica, científica y materiales de investigación;
+
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XIX. Establecer la coordinación y los programas de colaboración con las instituciones y organizaciones científicas nacionales e internacionales relacionadas con la investigación y desarrollo tecnológico pesquero y acuícola;
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XX. Suscribir los anexos de ejecución a celebrarse con los gobiernos de las entidades federativas y los municipales, derivados de los actos jurídicos que correspondan a su ámbito de competencia, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2006)</small>
+
+XXI. Las demás que le señalen otras disposiciones y aquéllas que se le confieran o deleguen de conformidad con la normatividad aplicable.
 
 #### SECCIÓN VIII. DEL COLEGIO SUPERIOR AGROPECUARIO DEL ESTADO DE GUERRERO
 
@@ -2142,3 +2338,17 @@ QUINTO.- Los derechos de los trabajadores serán respetados conforme a la ley y 
 SEXTO.- En tanto se expidan los manuales que en el presente Reglamento se determinan, se continuarán aplicando, en lo conducente, los que se vienen utilizando al momento de la entrada en vigor del presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de julio de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Javier Bernardo Usabiaga Arroyo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 15 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan las disposiciones reglamentarias y administrativas que se opongan a lo dispuesto por el presente Decreto.
+
+TERCERO.- Las referencias que contengan las disposiciones aplicables al Servicio de Información y Estadística Agroalimentaria y Pesquera, se entenderán hechas al Servicio de Información Agroalimentaria y Pesquera, de conformidad con el presente Decreto.
+
+CUARTO.- Las acciones que se lleven a cabo para la aplicación del presente Decreto, se sujetarán a la disponibilidad de recursos que se hayan aprobado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente para la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y deberán sujetarse a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+QUINTO.- Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estructura orgánica de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, se deberán realizar conforme a las disposiciones aplicables y mediante movimientos compensados que no aumentarán el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal y los subsecuentes.
