@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2006-09-26"
+last_updated: "2006-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -161,9 +161,9 @@ El titular del Poder Ejecutivo determinará anualmente el número de solicitudes
 
 El examen se efectuará en la sede del Consejo de Notarios ante un jurado compuesto por cinco sinodales que serán:
 
-I. El Presidente será el Titular del Ejecutivo o quien este designe;
+I. El Presidente será el Titular del Ejecutivo o quien éste designe;
 
-II. El Secretario será el Presidente del Consejo de Notarios o quien éste designe, y que se encargará de levantar el acta circunstanciada; y
+II. El Secretario será el Presidente del Consejo de Notarios o quien este designe, y que se encargará de levantar el acta circunstanciada; y
 
 III. Tres vocales:
 
@@ -199,7 +199,7 @@ Para obtener la patente de aspirante se requiere una calificación no menor de 8
 
 El Secretario del jurado levantará acta del desarrollo del examen, que será firmada por los sinodales y en su caso por el sustentante, debiéndose remitir ésta dentro de los tres días hábiles siguientes al Secretario del Consejo de Notarios para que dé cuenta en la siguiente sesión del Consejo y de conformidad con el resultado de dicho examen, lo comunique al titular del Ejecutivo a través de la Secretaría General de Gobierno, a fin de que esta expida o niegue la patente de aspirante.
 
-El vocal que designe el titular del Poder Ejecutivo deberá informarle a éste si el examen se efectuó con apego a las prevenciones de esta ley; en caso contrario, el Titular del Poder Ejecutivo declarará inválido el examen y ordenará que se realice nuevamente.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 19.
 
@@ -251,13 +251,13 @@ V. Los demás que el titular del Poder Ejecutivo estime pertinentes.
 
 Los notarios que deseen cambiar su adscripción, concursarán en igualdad de circunstancias con los interesados señalados en el artículo 22 de esta Ley, quienes también deberán observar lo dispuesto en el artículo precedente.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 25.
 
-El examen se practicará por un jurado que se integrará por tres miembros, fungiendo como presidente el representante del Poder Ejecutivo, y los dos restantes serán notarios designados mediante insaculación por el Consejo de Notarios, dentro de los notarios que hubieran aceptado formar parte del jurado. La insaculación se realizará ante un representante de la Secretaría General de Gobierno.
+El examen se practicará por un jurado que se integrará por tres miembros, fungiendo como presidente el Títular del Poder Ejecutivo o su representante, y los dos restantes serán notarios designados mediante insaculación realizada por el Consejo de Notarios, dentro de la relación de todos los notarios del estado. La insaculación se realizará ante un representante de la Secretaria General de Gobierno.
 
-El representante del Titular del Poder Ejecutivo, deberá informarle que el examen se realizó apegado a derecho. En caso contrario, el Titular del Poder Ejecutivo declarará inválido el examen y ordenará que se realice nuevamente.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 Las causas de impedimento y de responsabilidad para los notarios integrantes del jurado serán las mismas que se señalan para el jurado que practique el examen para la obtención de patente de aspirante al ejercicio del notariado; el sinodal que tenga impedimento legal o excusa justificada para integrar el jurado, deberá comunicarlo a la Secretaría General de Gobierno dentro de los dos días hábiles que sigan al de la notificación de su designación, a fin de que esta dependencia lo haga del conocimiento al interesado y a la autoridad o institución que represente, para que se proceda a una nueva designación o sustitución para integrar la vacante.
 
@@ -313,9 +313,11 @@ d) En su caso, el número de actos inscritos en el Registro Público de la Propi
 
 d (sic)) La opinión del Consejo de Notarios.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 30.
 
-Cuando por cualquier circunstancia en algún municipio no hubiere notario en ejercicio, los notarios de los municipios colindantes, podrán actuar en aquél previa autorización que otorgue el titular del Poder Ejecutivo y por la temporalidad que la misma prevea, debiendo agregar dicha autorización a su libro de protocolo y relacionarla en todas sus actuaciones.
+Cuando por cualquier circunstancia en alguna región no hubiere notario en ejercicio, los notarios de las regiones colindantes, podrán actuar en aquél previa autorización que otorgue el titular del Poder Ejecutivo y por la temporalidad que la misma prevea, debiendo agregar dicha autorización a su libro de protocolo y relacionarla en todas sus actuaciones.
 
 ###### Artículo 31.
 
@@ -1013,7 +1015,9 @@ Toda escritura será numerada progresivamente, iniciando su impresión con el n�
 
 En todo instrumento el notario deberá asentar al calce, o en hoja anexa al libro de documentos generales, las siguientes notas:
 
-I. Las relativas a los avisos dados y al pago de créditos fiscales, con la expresión de la fecha de su presentación, el monto de los impuestos cubiertos y la fecha en que se asentó la nota. Por cada aviso dado se asentará la constancia de recibido con la nota correspondiente;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+I. Las relativas a los avisos dados y al pago de créditos fiscales, con la expresión de la fecha de su presentación, el monto de los impuestos cubiertos y la fecha en que se asentó la nota;
 
 II. De las constancias de protocolización de documentos relacionadas con la escritura, si no se hubiese dejado constancia de ello en el texto de la misma;
 
@@ -1131,7 +1135,9 @@ Si se tratare de bienes inmuebles, aún en las sucesiones, relacionará el instr
 
 En el caso en que dichos inmuebles no estén inscritos, expresará la razón de ello, haciendo relación a los datos catastrales, con vista en el certificado catastral expedido por la autoridad municipal correspondiente.
 
-En el supuesto de que se transmitan inmuebles que no estuvieren registrados, cumpliéndose con lo estipulado en la Ley de Desarrollo Urbano, se deberá transcribir e insertar el certificado catastral con historial a partir de 1936. Cuando se trate de enajenación sobre bienes inmuebles inscritos, se insertará el certificado de libertad o gravamen actualizado.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+En el supuesto de que se transmitan inmuebles que no estuvieren registrados, cumpliéndose con lo estipulado en la Ley de Desarrollo Urbano, se deberá transcribir e insertar el certificado catastral con historial a partir de 1936. Cuando se trate de enajenación sobre bienes inmuebles inscritos, se insertará el certificado de libertad o gravamen actualizado, excepto en los casos en que la última escritura se hubiere otorgado dentro de 45 días hábiles.
 
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
@@ -1181,25 +1187,31 @@ Cuando en un instrumento intervenga un representante, éste deberá declarar baj
 
 Cuando se trate de instrumentos que deban inscribirse en alguno de los registros reconocidos por la legislación mexicana, deberá el notario proceder a su presentación en el Registro Público de la Propiedad correspondiente y al pago de los derechos a costa del interesado.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 87.
 
-Cuando se pretenda constituir o transmitir derechos reales sobre bienes inmuebles ubicados en el Estado, el notario, autoridad o titular registral, cumpliendo con las condiciones que señala la Ley del Registro Público de la Propiedad, presentará aviso cautelar al Registro Público de la Propiedad, para que expida un certificado de libertad o gravamen con cautelar inserto, mismo que tendrá una vigencia máxima de cuarenta y cinco días hábiles contados a partir de la fecha de expedición y que deberá referirse a la misma finca, a su titular, a los gravámenes y a las limitaciones de dominio que reporte.
+Cuando se pretenda constituir, transmitir o gravar derechos reales sobre bienes inmuebles ubicados en el Estado, el notario, autoridad o titular registral, cumpliendo con los requisitos que señala la Ley del Registro Público de la Propiedad y su Reglamento, presentará aviso cautelar al Registro Público de la propiedad, solicitando se expida un certificado de libertad o gravamen con cautelar inserto, mismo que deberá transcribir en el cuerpo de la escritura respectiva, teniendo una vigencia máxima de 45 días hábiles contados a partir de la fecha de expedición y que deberá referirse a la misma finca, a su titular, a los gravámenes y a las limitaciones de dominio que reporte.
 
-También deberá insertarse en la escritura el certificado de libertad o gravamen, cuando se trate de enajenación de bienes inmuebles inscritos, el cual se agregará al Libro de documentos correspondiente.
+En caso de escrituras sucesivas que se refieran al mismo inmueble, y éstas se encuentren en trámite de registro, se podrán realizar aquéllas con un solo certificado de libertad o gravamen con cautelar inserto, que tenga efectos vigentes, de lo que deberá cerciorarse el notario bajo su responsabilidad.
 
 No será necesario lo prescrito en los párrafos que anteceden cuando se trate de:
 
 I. Adjudicaciones en remate judicial o administrativo;
 
-II. Escrituraciones realizadas por los gobiernos federal, estatal o municipal o sus organismos descentralizados, desconcentrados y fideicomisos públicos dentro de los programas para la adquisición de vivienda popular y de regularización de la tenencia de la tierra; y
+II. Enajenaciones de inmuebles resultantes o que deriven de programas de regularización del suelo y su fraccionamiento, realizadas directamente por los ayuntamientos de la entidad o en asociación con particulares, en los términos estipulados por la Ley de Desarrollo Urbano del Estado de Jalisco;
 
-III. Escrituraciones de inmuebles resultantes de programas de regularización del suelo y su fraccionamiento, realizadas directamente por los ayuntamientos de la entidad o en asociación con particulares, en los términos estipulados por la Ley de Desarrollo Urbano del Estado de Jalisco.
+III. Donaciones; o
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+IV. Juicios Sucesorios.
+
+Cuando se trate de escrituras o instrumentos públicos, celebrados con la participación directa o donde se tenga intervención por los gobiernos federal, estatal o municipal o sus organismos descentralizados, desconcentrados, de seguridad social, en ejecución de programas de fomento para la adquisición o mejoramiento de la vivienda, se insertará el certificado de libertad o de gravamen actualizado, sin necesidad de dar el aviso cautelar mencionado en el párrafo anterior, el cual se agregará al libro de documentos correspondiente. El certificado de libertad o gravamen actualizado no se requerirá en el caso de escrituras o instrumentos públicos en los que intervengan organismos públicos de regularización de tenencia de la tierra.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 88.
 
-Se podrá otorgar escritura rectificatoria, a petición de la parte legitimada e interesada con su sola comparecencia, en tratándose de enajenación de bienes inmuebles, únicamente para corregir las medidas, linderos y colindancias materia de la escritura, o los datos de su registro, siempre y cuando correspondan a los que aparezcan en el título de propiedad del enajenante, debiendo darse los avisos correspondientes al Archivo de Instrumentos Públicos, Catastro y Registro Público de la Propiedad. El notario deberá corroborar los motivos de la corrección con los siguientes documentos: el título original de propiedad del vendedor, el certificado catastral, el aviso de transmisión patrimonial del bien del que se trate, y el plano o croquis autorizado por perito en la materia.
+Se podrá otorgar escritura rectificatoria, a petición de la parte legitimada e interesada con su sola comparecencia, en tratándose de enajenación de bienes inmuebles, hipotecas u operaciones de opción de compra, únicamente para corregir las medidas, linderos y colindancias materia de la escritura, o los datos de su registro, siempre y cuando correspondan a los que aparezcan en el título de propiedad del enajenante, debiendo darse los avisos correspondientes a las Direcciones de Archivo de Instrumentos Públicos, Catastro y Registro Público de la Propiedad. El notario deberá corroborar los motivos de la corrección con los siguientes documentos: el título original de propiedad, el certificado catastral, el aviso de transmisión patrimonial del bien del que se trate, y el plano o croquis autorizado por perito en la materia.
 
 El notario deberá transcribir los documentos referidos en la escritura rectificatoria, haciendo constar que los agrega al libro de documentos de su protocolo; así mismo deberá hacerse la anotación correspondientes (sic) en la antigua escritura sobre el hecho respectivo.
 
@@ -1211,13 +1223,15 @@ I. Los testamentos cerrados. En este caso, se levantará acta dejando razón en 
 
 II. La certificación de autenticidad de firmas a que se refiere el artículo 86 de la Ley General de Títulos y Operaciones de Crédito, que se hará constar en el propio documento;
 
-III. La certificación de documentos con vista de los originales, el acta relativa deberá contener:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+III. La certificación de documentos, deberá contener:
 
 a) El nombre de quien solicita la actuación y de no ser conocido del notario se estará a las reglas generales de identificación de esta Ley;
 
 b) El número de fojas que consta, con la mención de si están impresas en uno o en ambos lados.
 
-Además, al final del acta, antes del último requisito, con letras mayúsculas, la siguiente leyenda: “ESTA CERTIFICACIÓN NO RELEVA A SU TENEDOR DE LA OBLIGACIÓN QUE TUVIERE DE JUSTIFICAR LA LICITUD Y VALIDEZ DEL DOCUMENTO MATERIA DE LA COMPULSA”;
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 c) La fecha de la certificación;
 
@@ -1249,9 +1263,9 @@ VI. Cuando se trate de constancias expedidas por asociaciones religiosas y cuyos
 
 Cuando deban invocarse documentos, ya sea porque acrediten la personería o personalidad de las partes, integren constancias de actuaciones judiciales o administrativas o guarden íntimo nexo con el negocio jurídico en que interviene, el notario dejará acreditados los supuestos indicados, en la siguiente forma:
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
-I. Relacionando o insertando en lo conducente los documentos respectivos, agregándolos en original o en copias cotejadas y certificadas al apéndice; en cuyo caso, se hará mención especial de ello en la escritura, así como en la nota relativa; y
+I. Relacionando o insertando en lo conducente los documentos respectivos, agregándolos en original o en copias cotejadas y certificadas al apéndice; en cuyo caso, se hará mención especial de ello en la escritura, así como en la nota relativa. No será necesario agregar nuevamente cuando el documento relacionado o insertado se encuentre asentado en el protocolo, o se encuentre agregado con antelación al libro de documentos del mismo notario. En ambos casos, se hará mención especial de ello en la escritura, así como en la nota relativa; y
 
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
@@ -1353,11 +1367,11 @@ La dependencia encargada de la conservación de los duplicados podrá mantenerlo
 
 Los duplicados a que se refiere este capítulo podrán ser destruidos por la dependencia encargada de su guarda, cuando coincidan en un mismo lugar con su matriz en forma permanente y dentro del mismo espacio físico. En caso de pérdida por siniestro de la matriz, y ésta o su duplicado hubiese sido reproducida en los términos del párrafo anterior, las copias auténticas extraídas del soporte en que se encuentren debidamente certificadas por la Dirección del Archivo de Instrumentos Públicos, harán prueba plena respecto a su existencia y contenido.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 105.
 
-De toda escritura o acta que autoricen los notarios deberán dar aviso a la Dirección del Archivo de Instrumentos Públicos, dentro de los dos días hábiles siguientes al de la autorización respectiva, al cual se anexará el duplicado del instrumento a que se refiere el artículo anterior.
+De toda escritura o acta que autoricen los notarios deberán dar aviso a la Dirección del Archivo de Instrumentos Públicos, dentro de los dos días hábiles siguientes al de la autorización respectiva, este plazo se ampliará un día hábil mas tratándose de certificaciones de hechos, en ambos casos se anexará el duplicado del instrumento a que se refiere el artículo anterior.
 
 Cuando se presenten a las Oficinas de Recaudación Fiscal avisos relativos a testamentos públicos abiertos, el duplicado de la escritura se remitirá en sobre cerrado con cinta adhesiva sobre la cual deberá estamparse el sello de autorizar, abarcando en la parte central la totalidad de la cinta y a ambos lados de ella parte del sobre, para que así se remita al titular del Archivo de Instrumentos Públicos.
 
@@ -1365,15 +1379,19 @@ Cuando se presenten a las Oficinas de Recaudación Fiscal avisos relativos a tes
 
 En tratándose del testamento público cerrado, solamente contendrá los datos de la razón que asiente en el protocolo y los datos indicados.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+Los notarios que ejerzan sus funciones en las Regiones distintas a la XIII, Subregión Centro, presentarán este aviso invariablemente por conducto de la Oficina de Recaudación Estatal con sede en la municipalidad de su adscripción.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+Al aviso se anexará siempre el duplicado del instrumento, en los términos a que se refieren los artículos 102 y 103 de esta ley.
+
 ###### Artículo 106.
 
 Si durante un mes de calendario el notario en ejercicio no hubiere autorizado algún instrumento, dentro de los primeros cinco días del mes siguiente de aquel en que no actuó, dará aviso de esta circunstancia a la Dirección del Archivo de Instrumentos Públicos.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
-
-Los notarios que ejerzan sus funciones en las Regiones distintas a la XIII, Subregión Centro no conurbada, presentarán este aviso invariablemente por conducto de la Oficina de Recaudación Estatal con sede en la municipalidad de su adscripción.
-
-Al aviso se anexará siempre el duplicado del instrumento, en los términos a que se refieren los artículos 102 y 103 de esta ley.
+> <small>(DEROGADOS SEGUNDO Y TERCER PARRAFOS, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 107.
 
@@ -1403,15 +1421,21 @@ Transcurrido el plazo señalado en el artículo 98 de esta ley, sin que hubiese 
 
 ###### Artículo 113.
 
-Las anotaciones y cancelaciones de derechos o gravámenes que los notarios hagan en su protocolo, las comunicarán por oficio al Registro Público de la Propiedad, y cuando los libros se encuentren bajo la custodia del Director del Archivo de Instrumentos Públicos, para que estos hagan la anotación correspondiente.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 114.
 
 Cuando se trate de revocación o renuncia de poderes que no hayan sido otorgados en su protocolo, el notario lo comunicará al notario o a cargo de quien esté el protocolo en el que se extendió el poder que se revoca o renuncia, aún cuando éste pertenezca a otra entidad federativa, para que dicho notario se imponga de esa revocación o renuncia y proceda conforme a derecho. La comunicación referida se presentará por oficio si fuere del mismo municipio o por correo certificado con acuse de recibo si fuere foráneo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 115.
 
-Cuando al otorgarse un testamento se revoque otro asentado en el protocolo de la misma notaría, se deberá hacer la anotación correspondiente; si pasó ante diverso notario, se le comunicará para que aquel la efectúe. De igual manera, deberá dar aviso dentro de los dos días siguientes, a la Procuraduría General de Justicia del Estado de Jalisco y a la Dirección del Archivo de Instrumentos Públicos.
+Cuando al otorgarse un testamento, se revoque otro asentado en el protocolo de la misma notaría, se deberá hacer la anotación correspondiente; si pasó ante diverso notario, se le comunicará para que aquel la efectúe.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+El notario deberá dar aviso dentro de los dos días siguientes, a la Procuraduría General de Justicia del Estado de Jalisco y a la Dirección del Archivo de Instrumentos Públicos cuando se otorgue o revoque un testamento.
 
 En ambos casos el aviso deberá contener los siguientes datos:
 
@@ -2245,11 +2269,11 @@ Los miembros del Consejo durarán en funciones 3 años y no podrán ser reelecto
 
 El desempeño del cargo de Consejero será honorífico y sin remuneración alguna y no será renunciable sin causa justificada. La cesación en el ejercicio del notariado producirá automáticamente la del cargo.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 208.
 
-El Consejo será electo en Asamblea General que se verificará el primer sábado del mes de diciembre de cada tres años, en el lugar y hora señalados por el Consejo en funciones.
+El Consejo será electo en Asamblea General que se verificará el primer sábado del mes de diciembre de cada tres años, mediante voto universal, personal, directo, secreto, libre y por escrito en el lugar y hora señalados por el Consejo en funciones.
 
 Los notarios que participen en el proceso electoral como candidatos para integrar el Consejo de Notarios, deberán sustentar su elegibilidad en programas de trabajo y propuestas constructivas en beneficio del Colegio de Notarios, sin que por ningún motivo puedan denostar de palabra u obra, directa o indirectamente a los demás contendientes.
 
@@ -2257,7 +2281,7 @@ Las denuncias presentadas en este sentido, serán de la competencia de la Comisi
 
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
-La planilla que obtenga la mayoría de sufragios coordinará con el Consejo saliente, la entrega-recepción del patrimonio del Colegio y tomará posesión en sesión solemne en la fecha que señale durante el mes de enero siguiente al de la elección.
+La plantilla que obtenga la mayoría de sufragios coordinará con el Consejo saliente, la entrega-recepción del patrimonio del Colegio y tomará posesión en sesión solemne en la fecha que señale durante el mes de enero siguiente al de la elección.
 
 ###### Artículo 209.
 
@@ -2344,8 +2368,6 @@ II. Presidir las sesiones tanto del Colegio como del Consejo;
 III. Ejecutar las resoluciones del Colegio y del Consejo, para lo cual tendrá la firma social;
 
 IV. Promover el cumplimento de los acuerdos de la Asamblea y del Consejo de Notarios;
-
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
 V. Autorizar en unión del Secretario del Consejo, las actas de asamblea del colegio y de las juntas de Consejo;
 
@@ -2654,3 +2676,21 @@ El Secretario General de Gobierno
 MTRO. GERARDO OCTAVIO SOLIS GÓMEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2006.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco", salvo lo establecido en los artículos siguientes:
+
+Segundo.- Los párrafos primero y segundo de (sic) numeral 87 del artículo primero del presente decreto entrarán en vigor el día 22 de enero del año 2007.
+
+Tercero.- Hasta en tanto entran en vigor los párrafos primero y segundo del artículo 87 que se reforma, para constituir, transmitir o gravar derechos reales sobre bienes inmuebles ubicados en el Estado, se estará a lo siguiente:
+
+I. Las escrituras se realizaran insertando certificado de libertad o gravamen, que ya se hubiere expedido o que se expidan antes del 22 de enero de (sic) año 2007, ó en su caso;
+
+II. Se realizarán insertando el certificado de libertad o gravamen con cautelar inserto que se hubiere expedido en términos, del artículo 87 que se reforma; y
+
+III. En caso de escrituras sucesivas que se refieren al mismo inmueble, y que se encuentren en trámite de registro, se podrán realizar insertando un sólo certificado de libertad de gravamen ó bien el certificado de libertad o gravamen con cautelar inserto, siempre y cuando se encuentren vigentes éstos, de lo que deberá cerciorarse el notario bajo su responsabilidad.
+
+El Titular del Ejecutivo, a través de la Secretaría General de Gobierno, mediante acuerdo administrativo, podrá establecer, en su caso, las bases para la debida aplicación y cumplimiento del presente artículo.
