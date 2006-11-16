@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2004-12-18"
+last_updated: "2006-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2006.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -421,7 +421,7 @@ Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben 
 
 ### CAPITULO II. SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
 
-### CAPITULO III. SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS
+### CAPITULO III. SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO, VIVIENDA Y OBRAS PUBLICAS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
@@ -915,15 +915,17 @@ A personas menores de dieciocho años 7.53
 
 III. Por la expedición de permisos para manejar, con vigencia de seis meses, a personas menores de dieciocho años pero mayores de dieciséis, se pagarán 6.35; y
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
-IV. Cuando se trate de reposición de licencias o permisos a que se refiere este artículo, se deberá pagar dos por la parte proporcional del período que falte por transcurrir para el vencimiento de los mismos.
+IV. Cuando se trate de reposición de licencias o permisos a que se refiere este artículo, se deberá pagar dos salarios mínimos, por la parte proporcional del período que falte por transcurrir para el vencimiento de los mismos.
 
 ###### ARTICULO 67.
 
 El otorgamiento del permiso para la venta de bebidas con contenido alcohólico y su refrendo anual, que deberá solicitarse en el mes de enero de cada año, causarán los siguientes derechos que se expresan en salarios mínimos:
 
-I. Tratándose de bebidas con contenido alcohólico no mayor de 6° Gay Lussac, para los establecimientos que se localicen en los municipios de, San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará como sigue:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+I. Tratándose de bebidas con contenido alcohólico no mayor de 6% de alcohol volumen, para los establecimientos que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará como sigue:
 
 Permiso Refrendo
 
@@ -977,7 +979,9 @@ boliches, etc.) 100.00 25.00
 
 Para los demás municipios se cubrirá el 75% de las tarifas señaladas en la fracción I.
 
-II. Tratándose de bebidas con contenido mayor de 6 grados Gay Lussac, se cobrará, para los que se localicen en los municipios de, San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+III (sic). Tratándose de bebidas con contenido mayor de 6% de alcohol volumen, se cobrará, para los que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale:
 
 Permiso Refrendo
 
@@ -1023,9 +1027,13 @@ o) Otros 200.00 40.00
 
 Para los demás municipios se cubrirá el 75% de las tarifas señaladas.
 
-Se entenderá que cuando un negocio cuente con permiso del Estado para expender bebidas alcohólicas con contenido mayor de 6 grados Gay Lussac, si también las vendiere con contenido no mayor de 6 grados Gay Lussac, ya no se requerirá el permiso municipal.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
-El Estado podrá convenir con los municipios, en los términos del artículo 8 de la Ley de Bebidas Alcohólicas, la coordinación respectiva para que sean los Ayuntamientos los que otorguen este permiso o refrendo.
+Se entenderá que cuando un negocio cuente con permiso del Estado para expender bebidas alcohólicas con contenido mayor de 6% de alcohol volumen, si también las vendiere con contenido no mayor de 6% de alcohol volumen, ya no se requerirá el permiso municipal.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+El Estado podrá convenir con los municipios, en los términos del artículo 14 de la Ley de Bebidas Alcohólicas, la coordinación respectiva para que sean los ayuntamientos los que otorguen este permiso o refrendo.
 
 ###### ARTICULO 68.
 
@@ -1048,6 +1056,8 @@ La tarifa mínima por avalúo será el equivalente a 4.23 salarios mínimos. Cua
 Tratándose de avalúo para adquisición de vivienda de interés social o popular, o de cualquier otra constancia catastral para el mismo fin, los derechos ascenderán a un máximo de un día de salario mínimo.
 
 En este caso, los contribuyentes deberán comprobar, a satisfacción de la autoridad fiscal, el carácter de interés social o popular de la vivienda objeto de los derechos citados.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 ### CAPITULO VII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PUBLICO ESTATAL
 
@@ -1751,9 +1761,11 @@ VIII. Que la obra ha quedado terminada; y
 
 IX. Esta notificación se hará dentro del plazo de treinta días siguientes a la fecha de terminación de la obra.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 109.
 
-Recibida la notificación de que habla el artículo anterior, el contribuyente tendrá un plazo de quince días para presentar sus observaciones por escrito y ofrecer, en su caso, las pruebas correspondientes a la autoridad que dictó el acto notificado, la que, con vista del escrito del contribuyente y en su caso las pruebas que ofrezca, dictará la resolución que corresponda.
+Recibida la notificación señalada en el artículo anterior, el contribuyente tendrá un plazo de quince días para presentar sus observaciones por escrito y ofrecer, en su caso, las pruebas correspondientes a la autoridad que dictó el acto notificado, la que, con vista del escrito del contribuyente y en su caso las pruebas que ofrezca, dictará la resolución que corresponda.
 
 ###### ARTICULO 110.
 
@@ -1965,7 +1977,9 @@ Quedan comprendidos dentro de esta clasificación:
 
 I. Las multas no fiscales;
 
-II. Los bienes vacantes;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+II. Los bienes vacantes y mostrencos;
 
 III. Las indemnizaciones;
 
@@ -2072,3 +2086,9 @@ PRIMERO. El presente Decreto entrará en vigor a partir del uno de enero del añ
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
 
 TERCERO. En caso de que se concesione alguna de las carreteras de cuota de acuerdo con la ley, se derogará la parte relativa del artículo 93 BIS de la Ley de Hacienda del Estado de San Luis Potosí, que se reforma mediante este Decreto, estableciéndose en el contrato de concesión o en el instrumento jurídico respectivo, las tarifas máximas que podrá cobrar el concesionario, mismas que deberán ser equivalentes a las que en este instrumento legislativo se establecen para el ejercicio fiscal 2005, incluyendo el Impuesto al Valor Agregado.
+
+P.O. 16 DE NOVIEMBRE DE 2006.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
