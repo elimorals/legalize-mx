@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2006-09-14"
+last_updated: "2006-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -1105,19 +1105,21 @@ La omisión de éstas anotaciones no harán ineficaces las disposiciones que reg
 
 ### CAPITULO VIII. DE LOS AVISOS CAUTELAR Y PREVENTIVO
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 99.
 
-El notario, autoridad o titular registral deberá solicitar la inmovilidad registral, cuando vaya a celebrar un acto jurídico por el cual se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre los mismos o que sin serlo sea objeto de registro, cumpliendo las siguientes condiciones:
+El notario, autoridad o titular registral podrá solicitar la inmovilidad registral, cuando vaya a celebrar un acto jurídico por el cual se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre los mismos o que sin serlo sea objeto de registro, cumpliendo las siguientes condiciones:
 
-I. El titular registral solicitará a la Institución, por escrito ratificado ante notario, la inmovilidad por un término máximo de cuarenta y cinco días hábiles a partir de su expedición, lo que podrá realizarse a través del sistema informático que opere;
+I. El notario, autoridad o titular registral, podrán solicitar a la institución, la inmovilidad por un término máximo de cuarenta y cinco días hábiles a partir de su expedición, lo que podrá realizarse a través del sistema informático. En caso de que la solicitud sea presentada por el titular registral, ésta deberá de realizarse por escrito ratificado ante notario.
 
 II. Deberá señalar respecto de la operación que pretende llevar a cabo:
 
-a) Naturaleza del acto jurídico.
+a) Naturaleza del acto jurídico;
 
-b) Nombre de los contratantes.
+b) Nombre de los contratantes; e
 
-c) Finca materia de la operación, señalando sus antecedentes registrales.
+c) Inmueble materia de la operación, señalando sus antecedentes registrales.
 
 ###### Artículo 100.
 
@@ -1438,3 +1440,19 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007
 SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
 
 TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 16 DE NOVIEMBRE DE 2006.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco", salvo lo establecido en los artículos siguientes.
+
+Segundo.- Los párrafos primero y segundo de (sic) numeral 87 del artículo primero del presente decreto entrarán en vigor el día 22 de enero del año 2007.
+
+Tercero.- Hasta en tanto entran en vigor los párrafos primero y segundo del artículo 87 que se reforma, para constituir, transmitir o gravar derechos reales sobre bienes inmuebles ubicados en el Estado, se estará a lo siguiente:
+
+I. Las escrituras se realizarán insertando certificado de libertad o gravamen, que ya se hubiere expedido o que se expidan antes del 22 de enero del año 2007, o en su caso;
+
+II. Se realizarán insertando el certificado de libertad o gravamen con cautelar inserto que se hubiere expedido en términos del artículo 87 que se reforma; y
+
+III. En caso de escrituras sucesivas que se refieren al mismo inmueble, y que se encuentren en trámite de registro, se podrán realizar insertando un solo certificado de libertad de gravamen o bien el certificado de libertad o gravamen con cautelar inserto, siempre y cuando se encuentren vigentes éstos, de lo que deberá cerciorarse el notario bajo su responsabilidad.
+
+El Titular del Ejecutivo, a través de la Secretaria General de Gobierno, mediante acuerdo administrativo, podrá establecer, en su caso, las bases para la debida aplicación y cumplimiento del presente artículo.
