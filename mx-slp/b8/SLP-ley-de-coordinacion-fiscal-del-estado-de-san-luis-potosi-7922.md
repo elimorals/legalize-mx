@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-7922"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-15"
-last_updated: "2001-02-01"
+last_updated: "2006-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2006.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de San Luis Potosí, el viernes 15 de enero de 1988.
 
@@ -227,9 +227,9 @@ V.- Proyectos de Ley de Ingresos remitidos por los Ayuntamientos para el año si
 
 VI.- Proyectos de Reformas, ajustes o adecuaciones a la Ley de Hacienda Municipal sugeridos por los propios Ayuntamientos o por el Ejecutivo del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
-VII.- Informe de la Secretaría de Planeación y Finanzas sobre el comportamiento y perspectivas del financiamiento a los municipios y de las acciones a su cargo.
+VII.- Informe de la Secretaría de Finanzas sobre el comportamiento y perspectivas del financiamiento a los municipios, y de las acciones a su cargo.
 
 ###### ARTICULO 14o.
 
@@ -366,3 +366,9 @@ P.O. 1 DE FEBRERO DE 2001.
 PRIMERO. El presente Decreto entrará en vigor el siguiente día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. A partir de que entre en vigor el presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+P.O. 16 DE NOVIEMBRE DE 2006.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
