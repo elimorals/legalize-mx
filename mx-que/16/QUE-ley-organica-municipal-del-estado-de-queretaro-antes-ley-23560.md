@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2006-10-11"
+last_updated: "2006-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA ORGANIZACION POLITICA Y ADMINISTRATIVA DEL MUNICIPAL LIBRE DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -405,7 +405,9 @@ XI. Formular y aprobar el Presupuesto de Egresos del municipio para cada año fi
 
 XII. Administrar el patrimonio del municipio conforme a la Ley y vigilar, a través del Presidente municipal y de los órganos de control que se establezcan del propio ayuntamiento, la correcta aplicación del Presupuesto de Egresos;
 
-XIII. Remitir cada tres meses a la Legislatura del Estado, a través de la Contaduría Mayor de Hacienda, la Cuenta Pública Municipal, a más tardar los días quince de los meses de enero, abril, julio y octubre, y en el caso del último año de ejercicio de la administración, el último trimestre de su administración deberá enviarse a más tardar el treinta de septiembre;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+XIII. Remitir a la Entidad Superior de Fiscalización del Estado, la Cuenta Pública Municipal, en los términos que señala la Ley de Fiscalización Superior del Estado de Querétaro;
 
 XIV. Organizar el Registro Civil, de conformidad con las bases dictadas por la dependencia estatal del ramo y lo previsto en la legislación de la materia;
 
@@ -467,7 +469,9 @@ AV. utorizar, (sic) mancomunadamente con el Titular de la Dependencia Encargada 
 
 VI. Vigilar la correcta recaudación de los ingresos municipales y que su erogación se realice con estricto apego al Presupuesto de Egresos;
 
-VII. Enviar a la Contaduría Mayor de Hacienda, dentro de los primeros quince días naturales de cada mes, el informe que contenga los estados financieros relacionados al ejercicio presupuestal del mes inmediato anterior. Asimismo realizar un informe por trimestre de la Cuenta Pública Municipal, el cual deberá presentarse en los mismos términos;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+VII. Enviar a la Entidad Superior de Fiscalización del Estado, dentro de los primeros quince días naturales de cada mes, el informe que contenga los estados financieros relacionados al ejercicio presupuestal del mes inmediato anterior. Asimismo, realizar un informe de la Cuenta Pública Municipal, el cual deberá presentarse en los mismos términos que establece la Ley de Fiscalización Superior del Estado de Querétaro;
 
 VIII. Celebrar a nombre y por acuerdo del ayuntamiento, los actos, convenios y contratos necesarios para el mejor desempeño de las funciones municipales y la eficaz prestación de los servicios, ajustándose a la normatividad aplicable;
 
@@ -2130,3 +2134,13 @@ La presente Ley entrará en vigor el día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 17 DE NOVIEMBRE DE 2006.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación, en el periódico oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Las disposiciones relativas a la Ley Orgánica del Poder Legislativo entrarán en vigor el día de su aprobación por el Pleno de la Legislatura.
+
+Artículo Tercero. Los artículos 93 y 153 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscalizadas, hasta su total conclusión.
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
