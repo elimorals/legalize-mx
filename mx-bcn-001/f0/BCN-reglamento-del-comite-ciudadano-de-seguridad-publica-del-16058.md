@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-comite-ciudadano-de-seguridad-publica-del-16058"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-14"
-last_updated: "2000-01-14"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL COMITE CIUDADANO DE SEGURIDAD PUBLICA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de enero de 2000.
 
@@ -65,7 +65,13 @@ III.- Consejo: Al Consejo Ciudadano de Seguridad Pública del Estado de Baja Cal
 
 IV.- Comité: al Comité Ciudadano de Seguridad Pública del Municipio de Ensenada.
 
-V.- Dirección: A la Dirección de Seguridad Pública del Municipio de Ensenada.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+V.- Secretaria: A la Secretaría de Seguridad Pública del Municipio de Ensenada.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+VI.- Subcomité: A los Subcomités de Seguridad Pública en el Municipio de Ensenada y que tengan su sede en las delegaciones municipales o bien en un conjunto de estas.
 
 ### Capitulo Segundo (sic). De las atribuciones del Comité
 
@@ -73,11 +79,15 @@ V.- Dirección: A la Dirección de Seguridad Pública del Municipio de Ensenada.
 
 Al Comité corresponde:
 
-I.- Ser órgano de consulta, análisis y opinión en materia de seguridad pública.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+l.- Ser órgano de consulta, análisis, propuesta, evaluación y vigilancia en materia de seguridad pública.
 
 II.- Emitir opiniones sobre iniciativas de leyes, reglamentos, decretos o acuerdos en materia de seguridad pública.
 
-III.- Promover, en coadyuvancia con la Dirección, la moralización y profesionalización de sus elementos, a efecto de que su desempeño se ajuste a las normas constitucionales y al respeto de los derechos humanos.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+III.- Promover, en coadyuvancia con la Secretaría, la moralización y profesionalización de sus elementos, a efecto de que su desempeño se ajuste a las normas constitucionales y al respeto de los derechos humanos.
 
 IV.- Emitir opiniones y sugerencias, para la actualización, elaboración y evaluación del Programa Estatal de Seguridad Pública, en lo que corresponde al ámbito municipal.
 
@@ -85,47 +95,91 @@ V.- Evaluar periódicamente la ejecución del Programa Estatal de Seguridad Púb
 
 VI.- Proponer normas y procedimientos, que permitan mejorar la atención de las quejas, que formule la ciudadanía contra actuaciones que lesionen a los principios que deben guardar los elementos de seguridad pública municipal.
 
-VII.- Proponer a la Dirección, acciones para prevenir la comisión de delitos y su impunidad.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-VIII.- Conocer los informes mensuales que rinda la Dirección.
+VII. - Proponer a la Secretaría, acciones para prevenir la comisión de delitos y su Impunidad.
 
-IX.- Proponer en coadyuvancia con la Dirección, la preparación, elaboración, publicación y distribución de material informativo sobre sistemas de protección, tendiente a formar conciencia de sus implicaciones, mediante la exposición de objetivos y programas del cuerpo de seguridad pública municipal, en centros escolares o de readaptación y demás lugares estratégicos.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-X.- Evaluar el cumplimiento de los programas preventivos de patrullaje elaborados por la Dirección, mediante los mecanismos y códigos que al efecto acuerden con las autoridades a fin de arraigar y vincular al policía con la comunidad.
+VIII.- Conocer y/o solicitar los informes mensuales que rinda la Secretaría.
 
-XI.- Informar a la Dirección sobre las zonas que en su concepto tengan mayor índice de delincuencia dentro del municipio.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-XII.- Proponer a la Dirección mecanismos de coordinación y desconcentración de funciones, para la mejor cobertura y calidad de los servicios encomendados.
+IX.- Proponer y fomentar en coadyuvancia con la Secretaría, una cultura de prevención y seguridad pública y ciudadana, así como coordinarse en la preparación, elaboración, publicación y distribución de material informativo sobre sistemas de protección, tendiente a formar conciencia de sus implicaciones, mediante la exposición de objetivos y programas del cuerpo de seguridad pública municipal, en centros escolares o de readaptación y demás lugares estratégicos.
 
-XIII.- Proponer anualmente al Consejo de Honor y Justicia de la Dirección, la entrega de la Condecoración al Mérito, al o los elementos que a su juicio hayan presentado mejores servicios a la comunidad, sin perjuicio de la facultad de sugerir otros estímulos.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-XIV.- Turnar al Consejo de Honor de Justicia de la Dirección, la entrega de la Condecoración al Mérito, al o los elementos que ha su juicio hayan presentado mejores servicios a la comunidad, sin perjuicio de la facultad de sugerir otros estímulos.
+X.- Evaluar y vigilar el cumplimiento de los programas preventivos de patrullaje elaborados por la Secretaría, mediante los mecanismos y códigos que al efecto acuerden con las autoridades a fin de arraigar y vincular al policía con la comunidad.
 
-XV.- Fomentar la cooperación y participación ciudadana en los siguientes aspectos: (sic)
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-XVI.- La difusión amplia del programa preventivo de seguridad pública, con participación vecinal.
+XI.- Informar a la Secretaría sobre las zonas que en su concepto tengan mayor índice de delincuencia dentro del municipio.
 
-XVII.- El establecimiento de mecanismos de autoseguridad o instalación de alarmas.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-XVIII.- La aportación de equipo complementario para la seguridad pública.
+XII.- Proponer a la Secretaría mecanismos de coordinación y desconcentración de funciones, para la mejor cobertura y calidad de los servicios encomendados.
 
-XVIX (SIC).- En la difusión de programas de reclutamiento.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-XX.- Promover acciones a fin de arraigar y vincular al policía con la comunidad, que conlleve un sentido de integración y participación social.
+XIII.- Participar anualmente con propuestas a la Comisión de Seguridad Pública de Estímulos y Recompensas, al o los elementos que a su juicio hayan presentado mejores servicios a la comunidad, sin perjuicio de la facultad de sugerir otros estímulos.
 
-XXI.- Establecer acciones de vinculación con el Consejo, para el cumplimiento de los fines de ambas instancias.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-XXII.- Conocer los informes de actividades que rinda el Consejo.
+XIV.- Turnar a la Comisión de Seguridad Pública de Estímulos y Recompensas, la Entrega de la Condecoración al Mérito, al o los elementos que a su juicio hayan presentado mejores servicios a la comunidad, sin perjuicio de la facultad de sugerir otros estímulos.
 
-XXIII.- Solicitar a las autoridades competentes la información que le sea necesaria para el cumplimiento de sus atribuciones.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-XXIV.- Asistir previa invitación, a las sesiones de los Comités Técnicos u órganos de administración, respecto de los fideicomisos que constituyen para el manejo de los recursos económicos que hayan de ejercerse en el municipio para el rubro de seguridad pública.
+XV.- Fomentar la cooperación, coordinación y participación ciudadana en los siguientes aspectos:
 
-XXV.- Realizar labores de seguimiento de cumplimiento de los acuerdos necesarios para hacer efectivas las anteriores atribuciones.
+a) En la difusión amplia de los programas preventivos de seguridad pública, con participación ciudadana.
 
-XXVI.- En general coadyuvar con la Dirección en la promoción y desarrollo de sus programas y actividades.
+b) El establecimiento de mecanismos de autoseguridad o instalación de alarmas.
 
-XXVII.- Las demás emanadas de la Ley.
+c) La aportación de equipo complementario para la seguridad pública.
+
+d) En la difusión de programas de reclutamiento.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+XVI.- Promover acciones a fin de arraigar y vincular al policía con la comunidad, que conlleve un sentido de integración y participación social.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+XVII.- Promover acciones de coordinación con los subcomités, con otros Comités municipales y el Consejo estatal, a fin de intercambiar experiencias benéficas para mejorar la seguridad;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+XVIII.- Conocer los informes de actividades que rinda el Consejo.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+XIX.- Solicitar a las autoridades competentes la información que le sea necesaria para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+XX.- Asistir previa invitación, a las sesiones de los Comités Técnicos u órganos de administración, respecto de los fideicomisos que constituyen para el manejo de los recursos económicos que hayan de ejercerse en el municipio para el rubro de seguridad pública.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+XXI.- Realizar labores de seguimiento de cumplimiento de los acuerdos necesarios para hacer efectivas las anteriores atribuciones.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+XXII.- En general coadyuvar con la Secretaría en la promoción y desarrollo de sus programas y actividades.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+XXIII.- Proponer medidas para prevenir y combatir conductas y actos de corrupción de los cuerpos policíacos y sus mandos.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+XXIV.- Las demás emanadas de la Ley.
+
+XXV.- (DEROGADA, P.O. 17 DE NOVIEMBRE DE 2006)
+
+XXVI.- (DEROGADA, P.O. 17 DE NOVIEMBRE DE 2006)
+
+XXVII.- (DEROGADA, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 5.
 
@@ -157,25 +211,45 @@ Las propuestas deberán ser presentadas ante la Secretaría del Ayuntamiento, el
 
 La evaluación comprenderá entre otros aspectos, el exacto cumplimiento de los requisitos señalados en el Reglamento y la Convocatoria, la trayectoria, representatividad, nivel de contribución y disponibilidad del ciudadano para el logro y cumplimiento de los fines del Comité.
 
-Realizado el análisis y evaluación a que se refiere el párrafo anterior, la Comisión de Seguridad Pública, Tránsito y Transportes del Ayuntamiento, en un plazo no mayor de quince días naturales posteriores a la fecha en que se remitió la documentación, seleccionará de entre los candidatos propuestos a doce de ellos. El Ayuntamiento, en Sesión de Cabildo que se celebrará dentro de los cinco días hábiles, eligirá (sic) por insaculación, de entre los candidatos propuestos a los seis Consejeros Ciudadanos que tendrán el carácter de propietarios, y los seis restantes fungirán como suplentes, en el orden que determine dicho órgano colegiado.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+Realizado el análisis y evaluación a que se refiere el párrafo anterior, la Comisión de Seguridad Pública, Tránsito y Transportes del Ayuntamiento, en un plazo no mayor de quince días naturales posteriores a la fecha en que se remitió la documentación, dictaminará sobre la procedencia de las propuestas, sometiendo dicho dictamen a consideración del Ayuntamiento para que en Sesión de Cabildo elija mediante mayoría calificada, a los seis Consejeros Ciudadanos que tendrán el carácter de propietarios y seis suplentes, respectivamente.
 
 III. Cinco Consejeros gubernamentales, representados por:
 
-1) El Secretario del Ayuntamiento.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-2) Secretario de Seguridad publica Municipal.
+1) El Secretario General del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+2) Secretario de Seguridad Pública Municipal.
 
 3) El Sindico Procurador.
 
-4) El Coordinador de la Comisión de Seguridad Publica del Ayuntamiento.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+4) El Regidor Coordinador de la Comisión de Seguridad Pública, Tránsito y Transportes del Ayuntamiento.
 
 5) El Coordinador del Programa D.A.R.E.
 
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+6) Dos regidores integrantes de la Comisión de Seguridad Pública, Tránsito y Transportes, que se elegirán por acuerdo de la misma.
+
 IV. Un Secretario Técnico, que deberá reunir los requisitos que establecen las fracciones I, III, V, VI y VII del artículo 8 del Reglamento.
 
-Para la designación del Secretario Técnico, el Comité presentará una terna El Presidente Municipal, dentro de los cinco días hábiles siguientes a su instalación, el Presidente Municipal deberá efectuar la designación, de entre los candidatos propuestos dentro de los cinco días hábiles siguientes a la presentación de las propuestas.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-El Secretario Técnico será designado por un período de tres años, y podrá ser nuevamente propuesto, en los términos del artículo 11 del presente Reglamento.
+En la primera sesión del Comité después de su instalación, por mayoría de las dos terceras partes de sus miembros nombrará al Secretario Técnico del mismo,
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+El Secretario Técnico será designado por un período de tres años, y podrá ser electo nuevamente.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+El Ayuntamiento garantizará permanentemente el otorgar las facilidades técnicas y operativas al Comité, de tal manera que éste pueda cumplir con sus atribuciones.
 
 ###### Artículo 7.
 
@@ -201,11 +275,19 @@ VII.- No haber ocupado cargo de funcionario público primer o segundo nivel en l
 
 VIII.- No haber sido condenado por delito alguno.
 
-IX.- Cumplir con los demás requisitos que establezcan las bases de la convocatoria, tratándose de los Consejeros Ciudadanos que se elegirán conforme al procedimiento que establece La fracción II del articulo 06 del Reglamento.
+IX.- (DEROGADA, P.O. 17 DE NOVIEMBRE DE 2006)
 
 X.- Ser propuesto por asociaciones, agrupaciones profesionales y organismos no gubernamentales, empresariales o instituciones de educación superior, debidamente constituidas y registradas, conforme a las leyes respectivas.
 
-Artículo 10 (SIC). El Comité deberá instalarse dentro de los diez días naturales siguientes a la elección de los Consejeros Ciudadanos. El Presidente Municipal convocará a los consejeros al acto de instalación, tomara protesta y se procederá a la elección del Presidente del mismo.
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 9.
+
+Tratándose de los Consejeros Ciudadanos que se elegirán conforme al procedimiento que establece la fracción II del artículo 6 del Reglamento, el Ayuntamiento podrá adicionar requisitos a las bases de la convocatoria, lo anterior con el fin de fortalecer el perfil de los aspirantes.
+
+###### Artículo 10.
+
+El Comité deberá instalarse dentro de los diez días naturales siguientes a la elección de los Consejeros Ciudadanos. El Presidente Municipal convocará a los consejeros al acto de instalación, tomara protesta y se procederá a la elección del Presidente del mismo.
 
 ###### Artículo 11.
 
@@ -285,9 +367,11 @@ II. Sesiones Extraordinarias. Se llevarán a cabo en cualquier tiempo, cuando po
 
 III. Reuniones de comisiones. Se llevarán a cabo por lo menos una al mes, debiéndose contar con la presencia de los integrantes de la comisión o comisiones del Comité relacionadas con el orden del día a tratar y en su caso, aquellos invitados a asistir a dichas reuniones de trabajo.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 16.
 
-Se considerará reunído el quórum legal para la celebración de las sesiones, cuando estuviese presente la mayoría de los integrantes del Comité.
+Se considerará reunido el quórum legal para la celebración de las sesiones, cuando estuviese presente la mayoría de los integrantes de los Consejeros ciudadanos del Comité, siempre y cuando hayan sido debidamente convocados lodos los integrantes del mismo.
 
 ###### Artículo 17.
 
@@ -351,6 +435,46 @@ Para el cumplimiento de sus fines, el Comité podrá allegarse de los recursos n
 
 La administración, ejercicio y supervisión del destino de los recursos estará exclusivamente a cargo de los Consejeros Ciudadanos, adoptándose los acuerdos relativos a tales recursos, por la mayoría de los Consejeros Ciudadanos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+### Capitulo Noveno. De los Subcomités
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 26.
+
+El Ayuntamiento mediante acuerdo deberá autorizar la creación e instalación de Subcomités en las regiones administrativas con que cuenta el Ayuntamiento, y en las Delegaciones municipales según la necesidad de las mismas.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 27.
+
+Una vez tomado el acuerdo, el Ayuntamiento hará una convocatoria pública para hacer la elección del Subcomité, el que estará integrado mayoritariamente por ciudadanos. El número total de Consejeros, así como los Consejeros Gubernamentales serán aquellos que establezca el acuerdo del Ayuntamiento, tomando en cuenta las circunstancias geográficas, su densidad de población y el estado de la seguridad pública en el lugar, entre otros.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 28.
+
+El procedimiento para elegir a los consejeros ciudadanos, será el contenido en la fracción II del articulo 6 del presente Reglamento, con la salvedad de que los plazos de que habla este artículo, podrán duplicarse y que el lugar de recepción de propuestas a ocupar el cargo de consejero, será la delegación municipal que se determine en la convocatoria.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 29.
+
+Las atribuciones, obligaciones y circunstancias de funcionamiento del Subcomité y de los consejeros, serán los mismos que para el Comité y los Consejeros se establecen en este Reglamento, en el ámbito de su competencia territorial. El diseño de las estrategias a seguir, el programa de trabajo, los programas especiales, los recursos de financiamiento y en general, las políticas de trabajo serán fijadas por consenso entre el Subcomité y el Comité.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 30.
+
+La Coordinación con las diversas instancias de gobierno fuera del ámbito territorial del subcomité, será por conduelo del Comité, conservando este ultimo, sus facultades y atribuciones plenas aun en el ámbito territorial de los primeros.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 31.
+
+A las sesiones del Comité serán invitados los consejeros de los Subcomités, quienes tendrán derecho a voz.
+
 T R A N S I T O R I O S
 
 Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -366,3 +490,11 @@ El Presidente Municipal del XVI Ayuntamiento Constitucional de Ensenada, B.C.
 C. Lic. José Guadalupe Ríos Vela.
 
 El Secretario del XVI Ayuntamiento Constitucional de Ensenada, B.C.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado,
+
+SEGUNDO.- En un término no mayor a seis meses contados a partir de la entrada en vigor del presente Reglamento, el Presidente Municipal deberá presentar al H. Cabildo el proyecto de convocatoria y elección de los subcomités en las regiones administrativas existentes en el Ayuntamiento.
