@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2006-10-03"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 2006.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -403,7 +403,9 @@ Cada comisión, en la primera sesión del año de su integración, elegirá a su
 
 Cada uno de los consejeros presidirá al menos una comisión. Para ocupar dicho cargo deberá haber formado parte de la comisión respectiva el año anterior, con las excepciones a que se refiere el artículo 34 del presente Acuerdo.
 
-Cuando el presidente de la comisión no pueda asistir a la sesión de que se trate, comunicará oportunamente dicha ausencia al consejero integrante de la comisión cuyo primer apellido siga alfabéticamente al del Presidente, para que tome las providencias necesarias, a fin de presidir la sesión correspondiente.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
+
+Cuando el presidente de la comisión no pueda asistir a la sesión de que se trate, comunicará oportunamente dicha ausencia al consejero integrante de la comisión de mayor antigüedad, para que tome las providencias necesarias a fin de presidir la sesión correspondiente.
 
 Las comisiones tendrán la facultad de designar a su respectivo secretario técnico y al personal subalterno que fije el presupuesto, previa propuesta de su Presidente.
 
@@ -1397,7 +1399,9 @@ VII. Ejecutar los apercibimientos y amonestaciones que le encomiende el Pleno, a
 
 VIII. Realizar los trámites necesarios a fin de que se impongan las sanciones acordadas por el Pleno con apoyo en el artículo 135 de la Ley;
 
-IX. Firmar, conjuntamente con el Presidente y el consejero ponente, las resoluciones que se dicten por la Comisión de Disciplina, así como certificar las copias y documentos que tenga a la vista, relacionados con ellos;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
+
+IX. Certificar las copias y documentos que tenga a la vista en los procedimientos administrativos disciplinarios;
 
 X. Girar los oficios mediante los cuales se requiera informe a los servidores públicos del Poder Judicial de la Federación, en términos del artículo 134 de la Ley, así como las demás comunicaciones necesarias para el desahogo de las pruebas y notificaciones respectivas;
 
@@ -3300,3 +3304,13 @@ Octavo.- Los servidores públicos adscritos a la Dirección General de Recursos 
 Noveno.- Publíquese en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo, fue aprobado en sesión extraordinaria de nueve de agosto de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintiocho de septiembre de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
