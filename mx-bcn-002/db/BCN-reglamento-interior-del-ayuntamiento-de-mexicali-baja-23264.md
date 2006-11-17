@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2004-12-03"
+last_updated: "2006-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -111,7 +111,11 @@ XI. Solicitar la expropiación de bienes al Ejecutivo del Estado;
 
 XII. Otorgar reconocimiento público al mérito de personas físicas o morales, por acciones o conductas valiosas o relevantes, realizadas en beneficio de la comunidad;
 
-XIII. Rendir a la población, por conducto del Presidente Municipal, un informe anual detallado sobre el estado que guarden los asuntos municipales;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+XIII. Rendir a la población, por conducto del Presidente Municipal, un informe anual detallado sobre el estado que guarden los asuntos municipales.
+
+Los representantes de las diferentes fuerzas políticas que integran el Ayuntamiento, en la misma sesión solemne, previo a la participación del Presidente Municipal, podrán hacer uso de la voz en un tiempo determinado no mayor a cinco minutos, para vertir (sic) respetuosamente sus opiniones y argumentos, en torno al estado que guarde la administración pública municipal;
 
 XIV. Aprobar por mayoría simple las solicitudes de licencia que promuevan sus integrantes;
 
@@ -1280,3 +1284,7 @@ ACUERDO POR EL CUAL SE REFORMAN A LOS ARTÍCULOS 59 Y 71 DEL REGLAMENTO INTERIOR
 PRIMERO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN.
 
 SEGUNDO.- EN CASO DE CONTROVERSlA ENTRE LAS PRESENTES REFORMAS Y OTRAS DISPOSICIONES REGLAMENTARIAS, HABRÁ DE ATENDERSE LO QUE DISPONE EL PRESENTE ACUERDO.
+
+P.O. 17 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
