@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-174
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-04"
-last_updated: "2006-09-15"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 4 de agosto de 2000.
 
@@ -535,9 +535,11 @@ Si el auto de procedimiento lo es por nuevo delito preterintencional o culposo, 
 
 El sentenciado a quien se le revoque el beneficio de libertad anticipada por las causas previstas en este capítulo, deberá compurgar íntegramente el resto de la sanción que se le haya impuesto en la sentencia correspondiente.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 55.
 
-Para que se haga efectiva la revocación, la Dirección solicitará al Procurador General de Justicia del Estado que ordene a la Policía Investigadora Ministerial proceda a la detención e internación del sentenciado en el lugar que en la solicitud se señale.
+Para que se haga efectiva la revocación, la Dirección solicitará al Procurador General de Justicia del Estado que ordene a la Policía investigadora Ministerial, proceda a la detención e internación del sentenciado en la institución que corresponda del sistema penitenciario, conforme a lo establecido en la solicitud.
 
 ## TITULO CUARTO. TRATAMIENTO EN LIBERTAD PARA IMPUTABLES
 
@@ -549,9 +551,13 @@ DE LA EJECUCIÓN DEL TRATAMIENTO EN LIBERTAD PARA IMPUTABLES.
 
 El sentenciado a quien se imponga tratamiento en libertad como pena sustitutiva, acudirá dentro de los quince días contados a partir de que cause ejecutoria su sentencia ante la Dirección a efecto de que previo su estudio de personalidad, integrado por las valoraciones de psicología, pedagogía, trabajo social, medicina y criminológica determine las medidas laboral, educativa o terapéutica que sea conveniente aplicarle.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 57.
 
-Una vez especificada la aplicación de una o más de las medidas a que se refiere el artículo anterior, la Dirección vigilará su seguimiento pudiendo modificarla cuando así lo estime conveniente.
+Una vez especificada la aplicación de una o más de las medidas a que se refiere el artículo anterior, la Dirección vigilará su seguimiento pudiendo modificarlas cuando así lo estime conveniente.
+
+Cuando a través de estudios realizados por la autoridad que se encuentre aplicando el tratamiento en libertad, considere necesario continuar con el tratamiento curativo, se podrá prolongar éste, únicamente con el consentimiento previo del sentenciado.
 
 ###### ARTICULO 58.
 
@@ -1256,3 +1262,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
 
 CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
+
+P.O. 17 DE NOVIEMBRE DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE QUERETARO.
