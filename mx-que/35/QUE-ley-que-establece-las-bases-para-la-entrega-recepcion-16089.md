@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-establece-las-bases-para-la-entrega-recepcion-16089"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2000-03-24"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE ESTABLECE LAS BASES PARA LA ENTREGA RECEPCION ADMINISTRATIVA EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de marzo del 2000.
 
@@ -401,9 +401,11 @@ XIII. Las cantidades deben ser asentadas en número y letra; y
 
 XIV. Las hojas que integren el acta deben foliarse en forma consecutiva.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 22.
 
-La intervención de la Contaduría Mayor de Hacienda, La Secretaría de la Contraloría, el Consejo de la Judicatura del Poder Judicial y los órganos internos de control, según corresponda a su competencia, se dará directamente en los casos en que exista controversia en cuanto a la interpretación y cumplimiento de la presente Ley.
+La intervención de la Entidad Superior de Fiscalización del Estado, de la Secretaría de la Contraloría, del Consejo de la Judicatura del Poder Judicial y de los órganos internos de control, según corresponda a su competencia, se dará directamente en los casos en que exista controversia en cuanto a la interpretación y cumplimiento de la presente Ley.
 
 ### CAPITULO CUARTO. DE LA ENTREGA-RECEPCIÓN DE LAS DEPENDENCIAS
 
@@ -433,9 +435,11 @@ VIII. Documentación normativa que regula la actividad municipal.
 
 ### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 24.
 
-La vigilancia del exacto cumplimiento de las presentes disposiciones, en el ámbito de su competencia, queda a cargo de la Contaduría Mayor de Hacienda, de la Secretaría de la Contraloría y del Consejo de la Judicatura del Poder Judicial, así como de los órganos internos de control de los organismos públicos autónomos y de los Ayuntamientos de los Municipios del Estado.
+La vigilancia del exacto cumplimiento de las presentes disposiciones, en el ámbito de su competencia, queda a cargo de la Entidad Superior de Fiscalización del Estado, de la Secretaría de la Contraloría y del Consejo de la Judicatura del Poder Judicial, así como de los órganos internos de control de los organismos públicos autónomos y de los Ayuntamientos de los Municipios del Estado.
 
 ###### ARTICULO 25.
 
@@ -447,7 +451,9 @@ PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación
 
 SEGUNDO.- La presente Ley abroga la Ley que fija las bases para la entrega recepción de las administraciones municipales de fecha 23 de diciembre de 1989 y publicada en el Periódico Oficial de Gobierno del Estado, el día 28 del mismo mes y año.
 
-TERCERO.- La Contaduría Mayor de Hacienda, por lo que respecta a los Municipios, organismos públicos autónomos y Poder Legislativo, elaborará los manuales, formatos e instructivos para el evento de la entrega recepción, informes y anexos establecidos por esta Ley y demás que considere pertinentes, lo propio harán la Secretaría de la Contraloría y el Consejo de la Judicatura del Poder Judicial, respectivamente, en el ámbito de su competencia, a los que se deberán ajustar los servidores públicos obligados en el presente ordenamiento.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+TERCERO.- La Entidad Superior de Fiscalización del Estado, por lo que respecta a los Municipios, organismos públicos autónomos y Poder Legislativo, elaborará los manuales, formatos e instructivos para el evento de la entrega recepción, informes y anexos establecidos por esta Ley y de más que considere pertinentes, lo propio harán la Secretaría de la Contraloría y el Consejo de la Judicatura del Poder Judicial, respectivamente, en el ámbito de su competencia, a los que se deberán ajustar los servidores públicos obligados en el presente ordenamiento.
 
 CUARTO.- Los servidores públicos en funciones, pertenecientes a los Poderes, Municipios y Entidades Paraestatales y demás órganos públicos deberán conservar la documentación que refieren los artículos 17 y 23 de esta Ley, y sus respectivos soportes de carácter financiero, contable y contractual, según sea el caso, por un período no menor a 5 años contados a partir de la fecha de registro o en su defecto la de su expedición. Los servidores públicos salientes deberán entregar a los servidores públicos entrantes, la documentación a que se refiere el presente artículo.
 
@@ -488,3 +494,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. MA. GUADALUPE MURGUIA GUTIERREZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2006.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación, en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Las disposiciones relativas a la Ley Orgánica del Poder Legislativo entrará en vigor el día de su aprobación por el Pleno de la Legislatura.
+
+Artículo Tercero.- Los artículos 93 y 153 de la Ley Orgánica del Poder legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscales, hasta su total conclusión.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
