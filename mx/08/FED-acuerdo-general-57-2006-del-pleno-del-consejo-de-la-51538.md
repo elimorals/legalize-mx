@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2006-11-06"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -117,9 +117,9 @@ I.- PRIMER CIRCUITO:
 
 2.- Nueve tribunales unitarios especializados: seis en materia penal y tres en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 69/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL DEL 70/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
 
-3.- Sesenta y cinco juzgados de Distrito especializados en el Distrito Federal: dieciocho de procesos penales federales, doce de amparo en materia penal, dieciséis en materia administrativa, trece en materia civil y seis en materia de trabajo, todos con sede en el Distrito Federal.
+3.- Sesenta y siete juzgados de distrito en el Distrito Federal, especializados: dieciocho en materia de procesos penales federales, catorce de amparo en materia penal, dieciséis en materia administrativa, trece en materia civil, y seis en materia de trabajo, todos con sede en el Distrito Federal.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -127,7 +127,9 @@ II.- SEGUNDO CIRCUITO:
 
 2.- Cinco tribunales unitarios: cuatro con sede en Toluca y uno con residencia en Nezahualcóyotl.
 
-3.- Veinte juzgados de Distrito en el Estado de México: seis especializados en materia de procesos penales federales y cinco especializados en materia de amparo y juicios civiles federales, todos con residencia en Toluca; seis juzgados de Distrito mixtos con sede en Naucalpan de Juárez y tres con sede en Nezahualcóyotl.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL DEL 72/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
+
+3.- Veintidós juzgados de Distrito en el Estado de México: seis especializados en materia de procesos penales federales y cinco especializados en materia de amparo y juicios civiles federales, todos con residencia en Toluca; ocho juzgados de Distrito mixtos con sede en Naucalpan de Juárez y tres con sede en Nezahualcóyotl.
 
 III.- TERCER CIRCUITO:
 
@@ -710,3 +712,31 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos atenderán la situación laboral del personal adscrito al Juzgado Séptimo de Distrito en el Estado de Michoacán, con residencia en Morelia, en los términos establecidos en el Dictamen por el que se autorizó su traslado a Morelia, Michoacán.
 
 CUARTO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de Michoacán, con sede en Morelia, con motivo del traslado del Juzgado Séptimo de Distrito en el Estado de Michoacán, con residencia en Uruapan a Morelia.
+
+D.O.F. 17 DE NOVIEMBRE DE 2006.
+
+ACUERDO 70/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito de amparo en materia penal en el Distrito Federal, con motivo del inicio de funciones del nuevo órgano jurisdiccional.
+
+D.O.F. 17 DE NOVIEMBRE DE 2006.
+
+ACUERDO 71/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 17 DE NOVIEMBRE DE 2006.
+
+ACUERDO 72/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se faculta a la Comisión de Creación de Nuevos Órganos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de México, con sede en Naucalpan de Juárez, con motivo del inicio de funciones del Juzgado Decimoprimero de Distrito en el Estado de México, con residencia en Naucalpan de Juárez.
