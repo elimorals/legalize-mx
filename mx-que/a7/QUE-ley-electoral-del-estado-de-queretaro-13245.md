@@ -4,7 +4,7 @@ identifier: "QUE-ley-electoral-del-estado-de-queretaro-13245"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-05"
-last_updated: "2006-10-20"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,19 @@ state: "QUE"
 
 LEY ELECTORAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
-Ley publicada en el Periódico Oficial del Estado de Querétaro, el 5 de diciembre de 1996.
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 5 de diciembre de 1996.
 
 ENRIQUE BURGOS GARCIA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
-LA QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 DE LA CONSTITUCION LOCAL ... ha tenido a bien expedir la siguiente:
+LA QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 DE LA CONSTITUCION LOCAL Y
+
+CONSIDERANDO:
+
+.
+
+Por lo anteriormente fundado y motivado la H. Legislatura ha tenido a bien expedir la siguiente:
 
 LEY ELECTORAL DEL ESTADO DE QUERETARO
 
@@ -1279,11 +1285,11 @@ El Consejo General integrará comisiones para la realización de los asuntos de 
 
 En todo caso, contará con una comisión de control interno encargada de supervisar el ejercicio presupuestal de los órganos electorales que ejecutan el gasto público y el avance de los programas de actividades de los órganos operativos y técnicos del Instituto, de velar por el acceso de los particulares a la información pública institucional y de fincar la responsabilidad en que incurran los servidores públicos del Instituto derivada de su incumplimiento, en los términos que previenen las leyes de la materia, el Reglamento Interior del Instituto y el Reglamento de la propia comisión.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 75.
 
-El Consejo General remitirá a la Legislatura del Estado a través de la Contaduría Mayor de Hacienda, trimestralmente, un informe de su ejercicio presupuestal, para efecto de su revisión y fiscalización.
+El Consejo General remitirá a la Entidad Superior de Fiscalización la cuenta pública en los términos que señala la Ley de Fiscalización Superior del Estado de Querétaro para su revisión y fiscalización.
 
 ###### ARTICULO 76.
 
@@ -4337,7 +4343,7 @@ Si por exigencias de construcción gramatical, enumeración, orden u otra circun
 
 T R A N S I T O R I O S
 
-PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado " La Sombra de Arteaga ".
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado " La Sombra de Arteaga".
 
 SEGUNDO. Se abroga la Ley Electoral del Estado de Querétaro promulgada el 5 de enero de 1994.
 
@@ -4572,3 +4578,13 @@ La presente Ley entrará en vigor el día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 17 DE NOVIEMBRE DE 2006.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación, en el periódico oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Las disposiciones relativas a la Ley Orgánica del Poder Legislativo entrarán en vigor el día de su aprobación por el Pleno de la Legislatura.
+
+Artículo Tercero. Los artículos 93 y 153 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscalizadas, hasta su total conclusión.
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
