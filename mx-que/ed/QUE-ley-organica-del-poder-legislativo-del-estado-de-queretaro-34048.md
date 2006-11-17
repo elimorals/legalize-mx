@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-3404
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-19"
-last_updated: "2006-10-13"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 19 de septiembre de 2003.
 
@@ -855,7 +855,9 @@ XII. Fomento industrial, comercial y cooperativismo: Tiene a su cargo la atenci�
 
 XIII. Gobernación, administración pública y asuntos electorales: Tiene a su cargo la atención de asuntos en materia de legislación electoral, del gobierno estatal, organismos autónomos, para estatales, organismos descentralizados, y municipales, sobre su funcionamiento.
 
-XIV. Hacienda: Tiene a su cargo la atención de asuntos en materia de fiscalización, cuentas públicas desincorporación de bienes del dominio publico y autorización de endeudamiento de entidades públicas.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+XIV. Hacienda. Tiene a su cargo asuntos en materia de fiscalización, desincorporación de bienes del dominio público, autorización de endeudamiento de Entidades Públicas y autorizaciones para contratos y actos jurídicos en materia Hacendaria de las Entidades Públicas, que requieran autorización de la Legislatura.
 
 XV. Instructora: Tiene a su cargo la atención de asuntos en materia de juicio político, declaración de procedencia y desaparición de ayuntamientos.
 
@@ -1031,7 +1033,7 @@ Las adecuaciones podrán suprimir fragmentos de la iniciativa, hacer variaciones
 
 ###### Artículo 93.
 
-(Contenido de los dictámenes de cuenta pública) Los dictámenes de cuenta pública de las entidades fiscalizadas por la Legislatura, además de lo que establece el artículo 89, contendrán las observaciones, recomendaciones e instrucciones específicas derivadas del proceso de revisión de la gestión financiera y programática de la entidad correspondiente, y podrán proponer el (sic) Pleno de la Legislatura, sanciones por infracción de las disposiciones aplicables.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 94.
 
@@ -1069,11 +1071,13 @@ III. Procedimientos para suspender Ayuntamientos, declarar que éstos han desapa
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 99.
 
-(Designación) Dentro de las tres primeras sesiones plenarias que lleve a cabo cada Legislatura entrante, posteriores a la de su instalación, se designarán a los titulares de sus dependencias, por el voto de la mayoría de los diputados integrantes de la Legislatura, mediante una terna propuesta por la Junta de Concertación Política en los términos de esta ley, y podrán ser removidos por causa grave justificada, en los términos de la Legislación laboral aplicable, y en lo dispuesto por este artículo.
+Dentro de las tres primeras sesiones plenarias que lleve a cabo cada Legislatura entrante, posteriores a la de su instalación, se designarán a los titulares de sus dependencias, excepto al Auditor Superior del Estado, por el voto de la mayoría de los diputados integrantes de la Legislatura, mediante una propuesta única o terna por parte de la Junta de Concentración Política en los términos de esta Ley, y podrán ser removidos por causa grave justificada, en los términos de la legislación laboral aplicable.
+
+En el nombramiento y remoción del Auditor Superior del Estado, se observará lo establecido en la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga y en la Ley de Fiscalización Superior del Estado de Querétaro.
 
 ###### Artículo 100.
 
@@ -1201,7 +1205,7 @@ IV. Tener el resguardo y archivo de los asuntos concernientes a su dependencia;
 
 V. Rendir ante las Comisiones de Planeación y Presupuesto y de Vigilancia cuantos informes y documentos le requiera sobre su gestión;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 VI. Elaborar los informes de cuenta pública del Poder Legislativo y remitirlos a la Entidad Superior de Fiscalización del Estado y a la Comisión de Vigilancia para su conocimiento;
 
@@ -1649,11 +1653,11 @@ Si el autor es un diputado, se entenderá notificado con su sola asistencia a la
 
 Si el autor ya no ejerciera el cargo en cuyo ejercicio presentó la iniciativa, la notificación se realizará a la institución en la cual lo desempeñó.
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 153.
 
-(Lectura de dictámenes de cuenta pública) Cuando deba discutirse un dictamen de cuenta pública, el presidente de la Legislatura abrirá la discusión y votación respectiva, verificando previamente su publicación en la Gaceta Parlamentaria.
-
-Cuando sean varios los dictámenes, por acuerdo de la Presidencia de la Legislatura o a solicitud de la Comisión dictaminadora, la discusión y votación de aquéllos podrá realizarse conjuntamente.
+(Trámite en materia de informe de resultados de la fiscalización superior de la cuenta pública). El Pleno de la Legislatura podrá conocer en su caso, los informes de resultados de la fiscalización superior de la cuenta pública, presentados por el titular de la Entidad Superior de Fiscalización del Estado, posteriormente, se seguirá el procedimiento establecido en la Ley de Fiscalización Superior del Estado de Querétaro.
 
 ###### Artículo 154.
 
@@ -2461,7 +2465,7 @@ La presente ley iniciará su vigencia a partir del día 26 de septiembre del añ
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas las disposiciones de la Ley Orgánica de la Contaduría Mayor de Hacienda, que se opongan a la presente ley.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO TERCERO.
 
@@ -2610,3 +2614,13 @@ La presente Ley entrará en vigor el día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a la presente Ley.
+
+P.O. 17 DE NOVIEMBRE DE 2006.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación, en el periódico oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Las disposiciones relativas a la Ley Orgánica del Poder Legislativo entrarán en vigor el día de su aprobación por el Pleno de la Legislatura.
+
+Artículo Tercero. Los artículos 93 y 153 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscalizadas, hasta su total conclusión.
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
