@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7690"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-17"
-last_updated: "2006-11-10"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 17 de diciembre de 1992.
 
@@ -559,9 +559,9 @@ VIII.- En la Comisión Estatal de Información Gubernamental, a los comisionados
 
 Los superiores jerárquicos enunciados en las fracciones IV a VIII determinarán las sanciones correspondientes, cuando sus respectivas leyes orgánicas no dispongan otra cosa.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-Tratándose de la imposición de sanciones por parte del Poder Legislativo resultado de la revisión y fiscalización de las cuentas públicas de las entidades fiscalizadas, el Pleno de la Legislatura está facultado para ello de conformidad con los artículos 41 fracción XXV y 47 de la Constitución Política del Estado, con el auxilio de la Comisión de Hacienda y la Contaduría Mayor de Hacienda.
+Tratándose de la Imposición de sanciones por parte del Poder Legislativo resultado de la revisión y fiscalización de las cuentas públicas de las entidades fiscalizadas, el Pleno de la Legislatura está facultado para ello de conformidad al procedimiento señalado en la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
 
 ### CAPITULO TERCERO. DEL FINANCIAMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS RESARCITORIA
 
@@ -657,7 +657,9 @@ G). Efectuar pagos de cualquier índole.
 
 Los Titulares de las Dependencias del Poder Ejecutivo de los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, o de los Fideicomisos Públicos, precisarán durante el mes de Febrero de cada año cuales son los servidores públicos obligados a presentar manifestación de bienes, por tener a su cargo una o más de las funciones antes señaladas.
 
-En las mismas circunstancias, procederán además el Poder Legislativo, Judicial y Ayuntamientos, así como los Tribunales Administrativos y del Trabajo, por conducto de sus respectivos Presidentes, y ante la Contaduría Mayor de Hacienda, de la Legislatura en el Estado.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+En las mismas circunstancias, procederán además el Poder Legislativo, Judicial y Ayuntamientos, así como los Tribunales Administrativos y del Trabajo, por conducto de sus respectivos Presidentes, y ante la Entidad Superior de Fiscalización del Estado.
 
 Asimismo, deberán presentar manifestación de bienes aquellos servidores públicos que determinen el Secretario de la Contraloría y el Procurador de Justicia en el Estado, mediante disposiciones generales, debidamente fundamentadas y motivadas.
 
@@ -1001,9 +1003,9 @@ Se requerirá autorización del Gobernador del Estado para dicha suspensión, cu
 
 En los procedimientos disciplinarios ante el superior jerárquico o los órganos de control interno se observarán en lo conducente las disposiciones y formalidades a que se refieren los artículos precedentes, particularmente los del artículo 94 de esta ley, excepto en la amonestación.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-Serán aplicables las disposiciones y formalidades de este título a los procedimientos disciplinarios que se sigan ante los Poderes Judicial y Legislativo a través de su (sic) órganos de control interno o por la Contaduría Mayor de Hacienda cuando ejerza sus facultades de revisión y fiscalización de cuenta pública, sin perjuicio de lo que establezcan sus leyes orgánicas.
+Serán aplicables las disposiciones y formalidades de este título a los procedimientos disciplinarios que se sigan ante los Poderes Judicial y Legislativo a través de sus órganos de control interno.
 
 Es también aplicable en lo conducente, lo dispuesto por este artículo, en tratándose de los procedimientos disciplinarios que se instituyan en los Ayuntamientos, respecto a los Servidores Públicos Municipales.
 
@@ -1188,3 +1190,13 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a la presente ley.
+
+P.O. 17 DE NOVIEMBRE DE 2006.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación, en el periódico oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Las disposiciones relativas a la Ley Orgánica del Poder Legislativo entrará en vigor el día de su aprobación por el Pleno de la Legislatura.
+
+Artículo Tercero. Los artículos 93 y 153 de la Ley Orgánica del Poder legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscales, hasta su total conclusión.
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
