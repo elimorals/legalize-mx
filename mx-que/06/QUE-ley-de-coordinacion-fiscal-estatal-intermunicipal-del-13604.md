@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-coordinacion-fiscal-estatal-intermunicipal-del-13604"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "2004-12-09"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE COODINACION FISCAL ESTATAL-INTERMUNICIPAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de diciembre de 1996.
 
@@ -71,7 +71,9 @@ A los Municipios del Estado de Querétaro, les corresponderá el porcentaje que 
 
 I.- El 40 por ciento de acuerdo a la relación porcentual que represente el número de habitantes de cada Municipio respecto del número de habitantes en el Estado. Al inicio de cada ejercicio fiscal, el número de habitantes se tomará de la última información oficial que emita el Consejo Nacional de Población para el año en que se aplicarán los ingresos (RPM).
 
-II.- El 30% de acuerdo a la relación porcentual que representen los ingresos propios por el Municipio del 10. (sic) de octubre del año anterior al 30 de septiembre del año corriente, conforme a los datos con que cuente la Contaduría Mayor de Hacienda, en relación al total de los percibidos por todos los Municipios (RIM).
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+II.- El 30% de acuerdo a la relación porcentual que representen los ingresos propios por el Municipio del 1 de octubre del año anterior al 30 de septiembre del año corriente, conforme a los datos con que cuenta la Entidad Superior de Fiscalización del Estado, en relación así total de los percibidos por todos los Municipios (RIM).
 
 III.- El 20% de acuerdo a la relación porcentual que represente la superficie territorial de cada Municipio respecto de la superficie total del Estado, conforme a los últimos datos con que cuente el Instituto, Nacional de Estadística Geografía e Informática (RSM).
 
@@ -237,7 +239,7 @@ GRUPO CUATRO: Colón, Tequisquiapan y Pedro Escobedo.
 
 GRUPO CINCO: San Juan del Río, Amealco y Huimilpan.
 
-GRUPO SEIS : Corregidora, El Marqués y Querétaro.
+GRUPO SEIS: Corregidora, El Marqués y Querétaro.
 
 La elección a que se refiere esta fracción se realizará por votación secreta de los titulares de los órganos hacendarios municipales de cada grupo.
 
@@ -413,7 +415,7 @@ SECRETARIO DE GOBIERNO.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 11 DE DICIEMBRE DE 1998.
+P.O. 11 DE DICIEMBRE DE 1998
 
 ###### ARTICULO PRIMERO.
 
@@ -423,7 +425,7 @@ La presente Ley entrará en vigor el día 1º. de enero de 1999.
 
 Se derogan todas las disposiciones legales que se opongan a la presente Ley.
 
-P.O. 28 DE DICIEMBRE DE 2001.
+P.O. 28 DE DICIEMBRE DE 2001
 
 ###### ARTICULO PRIMERO.
 
@@ -440,6 +442,16 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente
 Artículo Segundo. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
 
 Artículo Tercero. La Secretaría de Planeación y Finanzas de Gobierno del Estado de Querétaro calculará el monto estimado a distribuir de las participaciones que en ingresos federales, les correspondan a los Municipios, para el ejercicio fiscal 2005, conforme a la presente ley.
+
+P.O. 17 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- La presente Ley entrará en vigor el día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo.- Las disposiciones relativas a la Ley Orgánica del Poder Legislativo entrará en vigor el día de su aprobación por el Pleno de la Legislatura.
+
+Artículo Tercero.- Los artículos 93 y 153 de la Ley Orgánica del Poder legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscales, Hasta su total conclusión.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
 
 ###### ARTICULO TERCERO.
 
