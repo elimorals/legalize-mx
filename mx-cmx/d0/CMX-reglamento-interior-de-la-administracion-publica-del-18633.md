@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2006-10-30"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -6556,9 +6556,7 @@ E) Dirección General de Desarrollo Social; y
 
 F) Dirección General de Desarrollo Delegacional.
 
-> <small>(ADICIONADO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-G) Dirección General de Gerencia Delegacional.
+G) (DEROGADA, G.O. 17 DE NOVIEMBRE DE 2006)
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -8844,7 +8842,27 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, la siguiente atribución:
 
-I. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes.
+I. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+II. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+III. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimiento soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+IV. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+V. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente; y
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+VI. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -8920,15 +8938,15 @@ VI. Instrumentar acciones de fomento tendientes a la realización de ferias, exp
 
 VII. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
 
-VIII. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+VIII. (DEROGADA, G.O. 17 DE NOVIEMBRE DE 2006)
 
-IX. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+IX. (DEROGADA, G.O. 17 DE NOVIEMBRE DE 2006)
 
-X. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+X. (DEROGADA, G.O. 17 DE NOVIEMBRE DE 2006)
 
-XI. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+XI. (DEROGADA, G.O. 17 DE NOVIEMBRE DE 2006)
 
-XII. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+XII. (DEROGADA, G.O. 17 DE NOVIEMBRE DE 2006)
 
 XIII. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor;
 
@@ -8944,41 +8962,7 @@ XVIII. Realizar acciones tendientes a la promoción turística de la demarcació
 
 XIX. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
 
-> <small>(ADICIONADO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
-Artículo 172 BIS.- Corresponde a la Dirección General de Gerencia Delegacional las siguientes atribuciones:
-
-I. Coordinar y dar seguimiento a los programas que se implementen al interior del órgano político-administrativo;
-
-II. Promover y conducir los programas de gobierno a ejecutar por el órgano político-administrativo;
-
-III. Promover acciones de desarrollo de los programas de gobierno encaminados a la mejora del servicio dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables;
-
-IV. Vigilar el cumplimiento y ejecución de los programas de gobierno de conformidad con las disposiciones jurídicas y administrativas aplicables;
-
-V. Participar en la elaboración, promoción, fomento y ejecución de los proyectos productivos, que en el ámbito de la jurisdicción del órgano político-administrativo, se den de acuerdo a los programas, lineamientos y políticas establecidas;
-
-VI. Coordinar y dar seguimiento a los programas que lleve a cabo el órgano político-administrativo o en los cuales participe, en materia de gestión delegacional;
-
-VII. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del órgano político-administrativo;
-
-VIII. Organizar, supervisar y controlar las acciones en materia de administración financiera y de desarrollo urbano a efecto de que sean congruentes con el programa de trabajo delegacional;
-
-IX. Coordinar y dar seguimiento a los programas que lleve a cabo el órgano político administrativo o en los cuales participe, en materia de transparencias y acceso a la información;
-
-X. Formular proyectos que promuevan la gestión delegacional, para ser presentadas a las instancias correspondientes;
-
-XI. Brindar asesoría y apoyo para la planeación, dirección y control de estrategias en procedimientos para las Direcciones Generales de acuerdo a las instrucciones del Jefe Delegacional, a efecto de definir el marco técnico y normativo necesario para el ejercicio de sus facultades;
-
-XII. Coadyuvar en la revisión o formulación de lineamientos, medidas administrativas, manuales y disposiciones que emitan las diferentes áreas de la Delegación;
-
-XIII. Coadyuvar en la definición de acciones preventivas en áreas de riesgo, con el fin de evitar responsabilidades administrativas de los servidores públicos de la Delegación;
-
-XIV. Dirigir los estudios e investigaciones sobre los temas de interés que determine el Jefe Delegacional;
-
-XV. Participar en el análisis de las disposiciones jurídicas que deba aplicar el Jefe Delegacional dentro del marco de sus atribuciones legales, a efecto de cumplir el marco de la legalidad de los actos administrativos; y
-
-XVI. Las demás que de manera directa le asigne el titular del órgano político-administrativo, así como las que se establezcan en los Manuales Administrativos.
+Artículo 172 BIS.- (DEROGADO, G.O. 17 DE NOVIEMBRE DE 2006)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -10067,3 +10051,13 @@ CUARTO. Los asuntos en trámite a cargo de las Unidades Administrativas y Unidad
 G.O. 30 DE OCTUBRE DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 17 DE NOVIEMBRE DE 2006.
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor el día dieciséis de noviembre de 2006.
+
+TERCERO. Los recursos humanos, materiales, técnicos y financieros de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo del Órgano Político Administrativo, que por virtud de este Decreto dejan de tener algunas atribuciones, se transferirán a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico- Operativo que adquieren nuevas atribuciones, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables.
+
+CUARTO. Los asuntos en trámite a cargo de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo del Órgano Político Administrativo, que por virtud de este Decreto dejan de tener algunas atribuciones se continuaran atendiendo, por las Unidades Administrativas de Apoyo Técnico Operativo que adquiere nuevas atribuciones, hasta su conclusión.
