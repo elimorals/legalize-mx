@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2006-10-03"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 2006.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -921,19 +921,27 @@ Las licencias de los secretarios y actuarios de los tribunales colegiados de cir
 
 A la solicitud de licencia deberá acompañarse el visto bueno del magistrado al que esté adscrito el secretario o actuario o, en caso de negativa, una exposición por escrito, debidamente fundada y motivada, a efecto de que la instancia facultada para conceder la licencia considere los argumentos de las partes para resolver sobre la procedencia de la solicitud.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 114.
 
-Las licencias de los demás servidores públicos de los tribunales colegiados de circuito que no excedan de treinta días, las concederá el presidente del tribunal, las que excedan de este último término, el Pleno del Tribunal.
+Las licencias de los demás servidores públicos de los tribunales colegiados de circuito que no excedan de treinta días, las concederá el presidente del tribunal; y las que excedan de este término, y hasta por un año, serán concedidas por el Pleno del Tribunal.
 
 A la solicitud de licencia deberá acompañarse el visto bueno del magistrado al que esté adscrito el servidor público de que se trate o, en caso de negativa, una exposición por escrito, debidamente fundada y motivada, a efecto de que la instancia facultada para conceder la licencia considere los argumentos de las partes para resolver sobre la procedencia de la solicitud.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 115.
 
-Las licencias de los secretarios, actuarios y demás personal de los tribunales unitarios de circuito y de los juzgados de distrito hasta por seis meses, serán concedidas por el magistrado o juez respectivo.
+Las licencias de los secretarios y actuarios de los tribunales unitarios de circuito y juzgados de distrito hasta por seis meses, serán concedidas por el magistrado o juez respectivo.
+
+Las licencias de los demás servidores públicos de los tribunales unitarios de circuito y juzgados de distrito hasta por un año, serán concedidas por el magistrado o juez respectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 116.
 
-Las solicitudes de licencia de los secretarios, actuarios y demás servidores públicos de los tribunales de circuito y juzgados de distrito, mayores a seis meses, deberán contar con el visto bueno del titular del órgano correspondiente e indicar el término específico por el que se requieren. Su tramitación se realizará ante Recursos Humanos, quien las someterá a la consideración de la Comisión.
+Las solicitudes de licencias de los secretarios y actuarios de los tribunales colegiados y unitarios de circuito y juzgados de distrito, mayores a seis meses, deberán tramitarse ante Recursos Humanos, quien las someterá a la consideración de la Comisión. Dichas solicitudes deberán contar con el visto bueno del titular del órgano correspondiente e indicar el término específico por el que se requieren.
 
 En caso de que el titular del órgano jurisdiccional no estime oportuno conceder su visto bueno, adjuntará a la solicitud una exposición por escrito, debidamente fundada y motivada de su negativa, a efecto de que Recursos Humanos califique sus argumentos y en caso de desestimarlos, someta la petición a la instancia correspondiente.
 
@@ -1354,3 +1362,13 @@ OCTAVO.- La vigencia de lo dispuesto en el último párrafo del artículo 73 de 
 NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales, fue aprobado en sesión extraordinaria de nueve de agosto de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintiocho de septiembre de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
