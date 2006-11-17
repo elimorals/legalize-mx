@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2005-03-11"
+last_updated: "2006-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
-Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
+Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
 LIC. MARIANO PALACIOS ALCOCER GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, A LOS HABITANTES DEL MISMO, SABED QUE:
 
@@ -149,7 +149,7 @@ Cuando el delito no se pudiera consumar por inexistencia del bien jurídico titu
 
 Si el sujeto desiste espontáneamente de la ejecución o impide la consumación del delito, no se impondrá pena ni medida de seguridad alguna, a no ser que los actos ejecutados u omitidos, constituyan por si mismos delito, en cuyo caso se le impondrá la pena o medida señalada para éste.
 
-### CAPITULO VIII. COMUNICABILIDAD DE LAS CIRCUNSTANCIAS
+### CAPITULO VII. PERSONAS RESPONSABLES DE LOS DELITOS
 
 ###### ARTICULO 16.
 
@@ -177,7 +177,7 @@ Si la conducta constitutiva del delito hubiere sido realizada en virtud de un ac
 
 Una vez que cause ejecutoria la sentencia, el Ministerio Público demandará la disolución y liquidación de la persona moral ante el Organo Jurisdiccional, en los términos previstos en las Leyes Mercantiles y Civiles.
 
-### CAPITULO VII. PERSONAS RESPONSABLES DE LOS DELITOS
+### CAPITULO VIII. COMUNICABILIDAD DE LAS CIRCUNSTANCIAS
 
 ###### ARTICULO 20.
 
@@ -309,9 +309,13 @@ VIII.- Amonestación, y
 
 IX.- Caución de no ofender.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 29.
 
-Las penas y medidas de seguridad se entienden impuestas en los términos y con las modalidades señaladas por este Código y por la Ley de Ejecución de Sanciones Privativas y Restrictivas de Libertad, y serán ejecutadas por las Autoridades competentes con los propósitos previstos por el Artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, ajustándose a la resolución judicial respectiva.
+Las penas y medidas de seguridad se entienden impuestas en los términos y con las modalidades señaladas por este Código y por la ley encargada de su ejecución; serán aplicadas por las autoridades competentes, con los propósitos previstos por el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, ajustándose a la resolución judicial respectiva.
+
+Las penas y medidas de seguridad que se impongan, deberán ser las adecuadas para la rehabilitación del sentenciado.
 
 SUBTÍTULO PRIMERO
 
@@ -327,13 +331,21 @@ La prisión consiste en la privación de la libertad, su duración será de tres
 
 ### CAPITULO III. TRATAMIENTO EN LIBERTAD
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 31.
 
-El tratamiento en libertad de imputables, consiste en la aplicación de las medidas laborales, educativas y curativas, en su caso, autorizadas por la Ley y conducentes a la readaptación social del sentenciado, bajo la orientación y cuidado de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la pena de prisión substituida.
+El tratamiento en libertad de imputables, es una medida sustitutiva de prisión fijada por el juez de la causa, consistente en la aplicación de medidas laborales, educativas y curativas, autorizadas por la ley y conducentes a la readaptación social del sentenciado, bajo la orientación y cuidado de la autoridad ejecutora.
+
+El juez cuidará que la medida no exceda del tiempo correspondiente a la pena de prisión sustituida e informará al Ejecutivo para que proceda a su cumplimiento.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 32.
 
-Cuando el sujeto haya sido sentenciado por un delito que obedezca a la inclinación o al abuso de bebidas alcohólicas, de estupefacientes, psicotrópicos o substancias que produzcan efectos similares, se aplicará, con carácter administrativo e independientemente de la pena que corresponda, un tratamiento de deshabituación o desintoxicación, según el caso, que no podrá exceder del término de la pena impuesta por el delito cometido. Cuando se trate de penas no privativas o restrictivas de la libertad, el tratamiento no excederá de seis meses.
+Cuando el sujeto haya sido sentenciado por un delito que obedezca al efecto producido por el consumo o abuso de bebidas alcohólicas, estupefacientes, psicotrópicos o sustancias que produzcan efectos similares, además de la pena que corresponda, en sentencia el juez ordenará la aplicación de un tratamiento de deshabituación o desintoxicación, según el caso, informando al Ejecutivo para que proceda a su cumplimiento.
+
+La duración del tratamiento a que se refiere el párrafo anterior, inicialmente será por el tiempo que dure la pena impuesta pero si transcurrida ésta, la autoridad ejecutora considera, a través de los estudios realizados, que es notoria la conveniencia de continuar con el tratamiento curativo, éste podrá prolongarse, únicamente con el consentimiento previo del sentenciado.
 
 ### CAPITULO IV. SEMILIBERTAD
 
@@ -2839,7 +2851,7 @@ Al que indebidamente destruya, retire, oculte o de cualquier otro modo quebrante
 
 ###### ARTICULO 285.
 
-Al que de palabra o de obra insulte o injurie a una autoridad en el ejercicio de su funciones o con motivo de ellas, se le impondrá prisión de 3 meses a 1 año y hasta 15 días multa.
+Al que de palabra o de obra insulte o injurie a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá prisión de 3 meses a 1 año y hasta 15 días multa.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -3035,7 +3047,7 @@ III.- Promueva incidentes o recursos o use medios notoriamente improcedentes o i
 
 IV.- A sabiendas alegue hechos falsos;
 
-V.- Con el carácter de defensor, abogado patrono o apoderado, no ofrezca ni rinda pruebas dentro de los plazos previstos por la Ley, si esta en posibilidad de hacerlo y corresponden a la naturaleza y estado del asunto;
+V.- Con el carácter de defensor, abogado patrono o apoderado, no ofrezca ni rinda pruebas dentro de los plazos previstos por la Ley, si está en posibilidad de hacerlo y corresponden a la naturaleza y estado del asunto;
 
 VI.- Como defensor, sea particular o de oficio, sólo se concrete a aceptar el cargo y a solicitar la libertad caucional del inculpado, sin promover más pruebas ni dirigirlo en su defensa, o
 
@@ -3311,7 +3323,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS A LAS REFORMAS DE LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS A LAS REFORMAS DE LA PRESENTE LEY.</small>
 
 P.O. 01 DE NOVIEMBRE DE 1990
 
@@ -3519,13 +3531,13 @@ PRIMERO.- La presente Ley entrara en vigor al día siguiente de su publicación 
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
 
-P.O. 3 DE OCTUBRE DE 2003.
+P.O. 3 DE OCTUBRE DE 2003
 
 Primero.- La presente ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
-P.O. 11 DE MARZO DE 2005.
+P.O. 11 DE MARZO DE 2005
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3534,3 +3546,7 @@ La presente Ley entrará en vigencia a los treinta días después de su publicac
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan a la presente Ley.
+
+P.O. 17 DE NOVIEMBRE DE 2006
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE QUERETARO.
