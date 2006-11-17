@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-26238
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2004-10-20"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO
 
-LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO.
+LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -55,7 +55,9 @@ V. La rendición de la Cuenta Pública.
 
 Son sujetos de la presente Ley, los Poderes Legislativo, Ejecutivo y Judicial; las Entidades Paraestatales, Organismos Autónomos, Municipios y en lo aplicable cualquier otro que maneje, utilice, recaude, ejecute o administre recursos públicos.
 
-La autoridad competente para verificar la correcta aplicación de esta Ley es la Legislatura del Estado a través de su Órgano de Asesoría Técnica de la Comisión de Hacienda y los órganos de Control Interno de los Poderes, Municipios, Entidades Paraestatales y Organismos Autónomos, en el ámbito de su competencia.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+La autoridad competente para verificar la correcta aplicación de esta Ley es la Entidad Superior de Fiscalización del Estado, quien emitirá los informes de Resultados de la Fiscalización Superior de la Cuenta Pública a la Legislatura del Estado, así como los órganos de Control Interno de los Poderes, Municipios. Entidades Paraestatales y Organismos Autónomos, en el ámbito de su competencia.
 
 Para efectos de esta Ley, se entenderá por Poderes, el Legislativo, Ejecutivo y Judicial, son Entidades, las establecidas en la Ley de Entidades Paraestatales del Estado de Querétaro, Organismos, los organismos autónomos existentes en el Estado y Dependencias las Secretarías, Direcciones, y Áreas de los Poderes.
 
@@ -131,9 +133,11 @@ Los presupuestos deberán planearse y ejecutarse atendiendo las necesidades de l
 
 La planeación y programación anual de los sujetos de esta Ley deberán basarse en las directrices de los Planes de Desarrollo Estatal y Municipales, así como en los programas derivados de éstos. Los objetivos y las metas que se establezcan derivados de los procesos anteriores, se incorporarán en la iniciativa de Presupuesto de Egresos apegándose a los criterios de prioridad social y disponibilidad de los ingresos.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 18.
 
-Los sujetos de esta Ley otorgarán todas las facilidades al Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura a fin de dar cumplimiento a lo establecido en la presente.
+Los sujetos de esta Ley otorgarán todas las facilidades a la Entidad Superior de Fiscalización del Estado a fin de dar cumplimiento a lo establecido en la presente.
 
 ###### Artículo 19.
 
@@ -347,9 +351,11 @@ Del Presupuesto de Egresos aprobado por los Municipios, se remitirá una copia c
 
 Los presupuestos de egresos se publicarán en el Periódico Oficial del Gobierno del Estado y el resumen ejecutivo en uno de mayor circulación en el Estado o en el Municipio de que se trate.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 50.
 
-Sin perjuicio a lo establecido en el artículo 5 de esta ley, el Titular del Poder Ejecutivo por conducto de la Secretaría de Planeación y Finanzas podrá asignar los recursos que se obtengan en exceso de lo previsto en la Ley de Ingresos a los programas que considere prioritarios y autorizará las transferencias de partidas cuando sea procedente, de estos movimientos se informará claramente a la Legislatura al rendir la cuenta pública trimestralmente y se publicará conjuntamente con lo establecido en el artículo 122 de esta Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+Sin perjuicio a lo establecido en el artículo 5 de esta ley, el Titular del Poder Ejecutivo por conducto de la Secretaría de Planeación y Finanzas podrá asignar los recursos que se obtengan en exceso de lo previsto en la Ley de Ingresos a los programas que considere prioritarios y autorizará las transferencias de partidas cuando sea procedente, de esto (sic) movimientos se informará claramente a la Entidad Superior de fiscalización del Estado al rendir la cuenta pública.
 
 ###### Artículo 51.
 
@@ -393,9 +399,11 @@ La Iniciativa de Presupuesto de Egresos del Estado señalará en un anexo, el re
 
 El Poder Judicial anexará a su Proyecto de Presupuesto de Egresos que envíe al Titular del Poder Ejecutivo las partidas anuales presupuestales y conceptos de las remuneraciones totales que por el desempeño del cargo percibirán el Presidente y Magistrados del Tribunal Superior de Justicia, Jueces, Secretarios de Acuerdos, Secretarios Proyectistas, Oficial Mayor y Directores.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 61.
 
-Las partidas presupuestales anuales y conceptos de las remuneraciones totales que por el desempeño del cargo perciban los Diputados deberá estar contenida en un anexo del Proyecto de Presupuesto de Egresos, así como los del Titular del Órgano de Asesoría Técnica de la Comisión de Hacienda, Oficial Mayor, Tesorero, Coordinadores y Directores de las Dependencias del Poder Legislativo.
+Las partidas presupuestales anuales y conceptos de las remuneraciones totales que por el desempeño del cargo perciban los Diputados deberán estar contenidas en un anexo del Proyecto de Presupuesto de Egreso, así como los del Titular de la Entidad Superior de Fiscalización del Estado, Oficial Mayor, Tesorero, Coordinadores y Directores de las Dependencias del Poder Legislativo.
 
 ###### Artículo 62.
 
@@ -444,6 +452,8 @@ El ejercicio de los recursos de partida de gastos de transición se sujetará a 
 ## TÍTULO CUARTO. DE LA EJECUCIÓN DEL GASTO PÚBLICO
 
 ### CAPÍTULO SEGUNDO. DEL CONTROL PROGRAMATICO Y PRESUPUESTAL
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 70.
 
@@ -515,9 +525,11 @@ Concluida la vigencia del presupuesto de egresos, sólo podrán efectuarse pagos
 
 Todas las propuestas de incremento o creación de partidas en los Presupuestos de Egresos, incluirán específicamente el origen del ingreso.
 
+> <small>(REFORMADO RPIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 81.
 
-La Secretaría de la Contraloría en el ámbito de su competencia y el Órgano Técnico de Asesoría de la Comisión de Hacienda de la Legislatura, podrán solicitar y obtener de las dependencias y entidades de la administración pública estatal o municipal, la información programática-presupuestal que se requiera para el seguimiento y evaluación del ejercicio del Presupuesto de Egresos.
+La Secretaría de la Contraloría en el ámbito de su competencia y la Entidad Superior de Fiscalización del Estado, podrán solicitar y obtener de las dependencias y entidades de la administración pública estatal o municipal, la información programática-presupuestal que se requiera para el seguimiento y evaluación del ejercicio del Presupuesto de Egresos.
 
 La misma atribución tendrán los órganos de control interno de los sujetos de esta Ley, respecto de los planes y programas de éstos.
 
@@ -525,19 +537,23 @@ La misma atribución tendrán los órganos de control interno de los sujetos de 
 
 ###### Artículo 82.
 
-El Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura diseñará un Sistema de Control Programático y Presupuestal aplicable a todos los sujetos de esta Ley que registre y evalúe trimestralmente el avance de los programas contenidos en los Presupuestos de Egresos, sin detrimento e independientemente a los que establezcan o ejecuten de manera interna.
+La Entidad Superior de Fiscalización del Estado, diseñará un Sistema de Control Programático y Presupuestal aplicable a todos los sujetos de esta Ley, que registre y evalúe trimestralmente el avance de los programas contenidos en los Presupuestos de Egresos, sin detrimento e independencia a los que establezcan o ejecuten de manera interna.
 
 ###### Artículo 83.
 
 El Sistema de Control Programático y Presupuestal revisará el avance en los programas y la aplicación de los recursos públicos con base en los programas operativos anuales y gasto administrativo autorizados y aprobados en el Presupuesto de Egresos.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 84.
 
-El Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura proporcionará a los sujetos de esta ley, el Sistema a que se refiere el Artículo 82 para su ejecución.
+La Entidad Superior de Fiscalización del Estado proporcionará a los sujetos de esta Ley, el Sistema a que se refiere el Artículo 82 para su ejecución.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 85.
 
-De los resultados trimestrales que genere el sistema, el Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura anexará un reporte adjunto al informe de la cuenta pública correspondiente.
+De los resultados que genere el sistema, la Entidad Superior de Fiscalización del Estado, anexará un reporte adjunto al informe de la cuenta pública correspondiente.
 
 ### CAPÍTULO PRIMERO. DE LA CONTABILIDAD
 
@@ -655,11 +671,17 @@ La Secretaría de Planeación y Finanzas del Poder Ejecutivo, en el ámbito de s
 
 El sistema contable, manuales de contabilidad y catálogo de cuentas que utilizará el Poder Ejecutivo, incluidas las Entidades Paraestatales, será el que determine la Secretaría de Planeación y Finanzas.
 
-Los Poderes y organismos autónomos emitirán sus propios catálogos, de no hacerlo, deberán utilizar el elaborado por el Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
-El Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura emitirá el catálogo de cuentas único que utilizarán todos los Municipios, éste, deberá entregarlo treinta días antes del inicio del ejercicio presupuestal siguiente.
+Los Poderes y organismos autónomos en coordinación con la Entidad Superior de Fiscalización del Estado emitirán sus propios catálogos de cuentas, de no hacerlo, deberán utilizar el elaborado por la Entidad Superior de Fiscalización del Estado.
 
-Los sujetos de esta Ley enviarán copia certificada del Catálogo de Cuentas que utilizarán al Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+La Entidad Superior de Fiscalización del Estado emitirá el catálogo de cuentas único que utilizará todos los Municipios, éste, deberá entregarlo treinta días antes del inicio del ejercicio presupuestal siguiente.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+Los sujetos de esta Ley enviarán copia certificada del Catálogo de Cuentas que utilizarán a la Entidad Superior de Fiscalización del Estado.
 
 ###### Artículo 102.
 
@@ -673,91 +695,85 @@ Las Dependencias y Entidades del Poder Ejecutivo suministrarán a la Secretaría
 
 Los estados financieros y demás información, que emanen de las contabilidades del Poder Ejecutivo, incluida la administración paraestatal, serán homologados y consolidados por la Secretaría de Planeación y Finanzas.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ### CAPÍTULO TERCERO. DE LA REVISIÓN DE LA CUENTA PÚBLICA
 
 ###### Artículo 105.
 
-La cuenta pública es el informe que rinden los sujetos de la presente Ley a la Legislatura, para mostrar los resultados de su gestión financiera, el ejercicio de los presupuestos y el cumplimiento de los objetivos contenidos en los programas.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 106.
 
-La Cuenta Pública deberá contener a detalle los estados financieros, e incluir además: el estado de origen y aplicación de recursos, la situación financiera de los programas, estados analíticos de ingresos y egresos, situación financiera y el avance programático y presupuestal, reporte de la situación que guarda la deuda pública, el estado de rectificaciones a resultados de ejercicios anteriores en su caso, e informes que establece la presente Ley y la que en especial solicite el Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 107.
 
-La Secretaría de Planeación y Finanzas será la responsable de formular los informes trimestrales de la Cuenta Pública del Poder Ejecutivo, sometiéndola a la consideración del Ejecutivo Estatal, para que posteriormente la Secretaría de Planeación y Finanzas la presente a la Legislatura del Estado por conducto del Órgano de Asesoría Técnica de la Comisión de Hacienda dentro de los primeros cuarenta y cinco días contados a partir del último día de los meses de marzo, junio, septiembre y diciembre de cada año así mismo el concentrado de la Cuenta Pública Anual deberá entregarse en los primeros cuarenta y cinco días naturales de cada año. En el año que haya elecciones, la administración saliente deberá entregar la cuenta pública en el último día de su encargo.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 108.
 
-Los Poderes Legislativo y Judicial informarán trimestralmente por conducto de sus dependencias encargadas de las finanzas, la cuenta pública a la Legislatura, por conducto del Órgano de Asesoría Técnica de la Comisión de Hacienda, dentro de los primeros cuarenta y cinco días contados a partir del último día de los meses de marzo, junio, septiembre y diciembre de cada año. En el año que haya elecciones, la administración saliente deberá entregar la cuenta pública en el último día de su encargo, en su caso.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 109.
 
-Los Ayuntamientos remitirán sus informes trimestrales de la cuenta pública a la Legislatura del Estado por conducto del Órgano de Asesoría Técnica de la Comisión de Hacienda dentro de los cuarenta y cinco días contados a partir del último día de los meses de marzo, junio, septiembre y diciembre de cada año. En el último trimestre de su gestión la administración saliente deberá entregar la cuenta pública en el último día de su encargo.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 110.
 
-Las Entidades Paraestatales, Organismos Autónomos del Estado y cualquier otro sujeto de esta Ley que no haya sido considerado en el presente capítulo, informarán trimestralmente la cuenta pública a la Legislatura por conducto del Órgano de Asesoría Técnica de la Comisión de Hacienda, dentro de los primeros cuarenta y cinco días contados a partir del último día de los meses de marzo, junio, septiembre y diciembre de cada año.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
-En el último trimestre de la gestión gubernamental, los Poderes Ejecutivo y Legislativo y los Municipios salientes, deberán entregar la cuenta pública en los términos de la Ley que establece las Bases para la Entrega Recepción Administrativa en el Estado de Querétaro.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 ### CAPÍTULO ÚNICO
 
 ###### Artículo 111.
 
-La revisión de la Cuenta Pública corresponde al Poder Legislativo por conducto de su Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura y está sujeta a las disposiciones establecidas en los ordenamientos correspondientes.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 112.
 
-La revisión de la cuenta pública determinará el resultado de la gestión financiera de los sujetos de esta Ley.
-
-La revisión no sólo comprenderá la conformidad de las partidas de ingresos y de egresos sino que se extenderá a una revisión legal, económica y contable del ingreso y gasto público y verificará la exactitud y la justificación de los cobros y pagos hechos de acuerdo con los precios y tarifas autorizados o de mercado y de las cantidades erogadas.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 113.
 
-A solicitud de la Comisión de Hacienda de la Legislatura y por conducto del Órgano de Asesoría Técnica de la misma, los auditores externos y, en su caso, los sujetos de esta Ley, deberán facilitar copia de los informes o dictámenes de las auditorias practicadas así como las aclaraciones que en su caso estimen pertinentes.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 114.
 
-Si alguno de los sujetos de esta Ley, no proporciona información o no permite la revisión de libros, registros electrónicos, instrumentos o documentos comprobatorios y justificativos del ingreso y del gasto público, así como no permite la práctica de visitas, inspecciones y auditorias, el Órgano de Asesoría Técnica por conducto de la Comisión de Hacienda lo hará del conocimiento al Pleno de la Legislatura, para que resuelva sobre la imposición de sanciones, con base en las disposiciones legales aplicables.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 115.
 
-El Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura formulará, los pliegos de observaciones derivados de la revisión de la cuenta pública, para que, en su caso, sean solventadas en los términos de Ley.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 116.
 
-De no solventarse las observaciones, el Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura, lo informará a ésta en el resultado de la revisión de la cuenta pública.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 117.
 
-El Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura practicará auditorias, inspecciones y verificaciones físicas, a los sujetos de esta Ley, respecto del manejo de recursos públicos, adicionalmente a las que instruya la Comisión de Hacienda de la Legislatura, debiendo proporcionar la información que se les solicite.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 118.
 
-Las observaciones tendrán como base la transgresión a las Leyes de Ingresos y a los presupuestos de egresos autorizados, así como los programas y sub programas aprobados, fundamentándose en la presente Ley y en la legislación aplicable.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 119.
 
-Los sujetos de esta Ley, dentro de un plazo improrrogable de diez días hábiles contados a partir de la fecha de notificación de los pliegos de observaciones emitidos, que resulten de la revisión de la Cuenta Pública, informarán por escrito al Órgano Técnico de Asesoría de la Comisión de Hacienda de la Legislatura sobre las medidas dictadas o bien justificarán debidamente las irregularidades detectadas.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 120.
 
-Los sujetos de esta Ley conservarán en su poder los libros y registros electrónicos de contabilidad gubernamental e información financiera, así como los documentos justificativos y comprobatorios de la cuenta pública mientras no prescriban las acciones derivadas de las operaciones en ellos consignadas.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 121.
 
-Concluida la revisión de la cuenta pública, el Órgano de Asesoría Técnica presentará a la Comisión de Hacienda de la Legislatura el detalle de los resultados de la revisión realizada, de las acciones derivadas de las irregularidades, discrepancias u omisiones administrativas detectadas fundadas y motivadas, con motivo de la práctica de las visitas, inspecciones o auditorias, para que esta resuelva lo conducente.
-
-Los resultados de la revisión de las cuentas públicas que realice el Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura a los sujetos de esta Ley, serán semestrales e incluirán lo correspondiente a las dos cuentas públicas trimestrales del semestre. Cuando se trate de semestres que por motivos de transición correspondan a administraciones diferentes, los resultados de la revisión deberán presentare por trimestres.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 122.
 
-Una vez aprobado el dictamen de los resultados de la revisión de las cuentas públicas de los sujetos de esta Ley, que presente la Comisión de Hacienda al Pleno de la Legislatura se publicará en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", incluyendo el resumen del informe de la cuenta pública.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES
 
@@ -767,15 +783,17 @@ Incurre en responsabilidad cualquier sujeto de la presente Ley y toda persona f�
 
 ###### Artículo 124.
 
-Cuando los informes de Cuenta Pública, no se rindan en los términos a que se refiere esta Ley, el Pleno de la Legislatura a propuesta de la Comisión de Hacienda iniciará los procesos previstos en las leyes para la imposición de las sanciones que correspondan.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 125.
 
-Si de la revisión de la cuenta pública de los sujetos de esta Ley se desprende que pueden existir responsabilidades de carácter penal, el Titular del Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura informará de ello a la autoridad competente, dando aviso inmediatamente al Pleno de la Legislatura por conducto de la Comisión de Hacienda.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2006)
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 126.
 
-Las Contralorías o los Órganos de Control Interno de los sujetos de esta Ley, deberán acatar las instrucciones que se establezcan en los dictámenes de cuenta pública en relación al inicio de los procesos administrativos y vigilar que se lleven a cabo las correcciones de las irregularidades detectadas, informando del resultado de los mismos conforme lo establezca la Legislatura.
+Las Contralorías o los órganos de control interno de los sujetos de esta ley deberán de acatar las instrucciones que se establezcan en los informes del resultado de la fiscalización de la cuenta pública en relación al inicio de los procedimientos administrativos y vigilar que se lleven a cabo las correspondientes de las irregularidades detectadas.
 
 ###### Artículo 127.
 
@@ -789,9 +807,11 @@ Son solidariamente responsables los particulares en todos los casos en que hayan
 
 Las sanciones a los servidores públicos que por el desempeño de sus funciones incurran en faltas que ameriten fincamiento de responsabilidades, se impondrán de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 129.
 
-Los funcionarios y empleados del Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura y personal adscrito a los órganos de control interno de los sujetos de esta Ley y quienes por sus funciones, les corresponda hacer revisiones y comprobación de cuentas, son responsables de los daños y perjuicios que se causen a la Hacienda Pública, cuando no consignen las irregularidades detectadas así como por hacer mal uso de la información a la que tienen acceso.
+Los servidores públicos de la Entidad Superior de Fiscalización del Estado y personal adscrito a los órganos de control interno de los sujetos de ésta Ley y quienes por sus funciones, les corresponda hacer revisiones y comprobación de cuentas, son responsables de los daños y perjuicios que se causen a la Hacienda Pública, cuando no consignen las irregularidades detectadas, así como por hacer mal uso de la información a la que tienen acceso.
 
 ###### Artículo 130.
 
@@ -874,3 +894,13 @@ P.O. 20 DE OCTUBRE DE 2004.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 17 DE NOVIEMBRE DE 2006.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación, en el periódico oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Las disposiciones relativas a la Ley Orgánica del Poder Legislativo entrará en vigor el día de su aprobación por el Pleno de la Legislatura.
+
+Artículo Tercero. Los artículos 93 y 153 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscales, hasta su total conclusión.
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
