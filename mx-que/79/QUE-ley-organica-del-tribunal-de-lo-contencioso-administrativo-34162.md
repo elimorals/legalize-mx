@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-tribunal-de-lo-contencioso-administrativo-3416
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-29"
-last_updated: "2003-09-29"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 29 de septiembre de 2003.
 
@@ -531,7 +531,9 @@ VII. Llevar el inventario de los bienes del Tribunal;
 
 VIII. Adoptar las medidas necesarias para el eficiente manejo administrativo y financiero que requiera el Tribunal;
 
-IX. Cumplir con las normas comúnmente aceptadas relativas a la aplicación de los sistemas de registro y contabilidad del Tribunal, debiendo homologarse a los sistemas de verificación existentes en la Contaduría Mayor de Hacienda de la Legislatura local;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+IX. Cumplir con las normas comúnmente aceptadas relativas a la aplicación de los sistemas de registro y contabilidad del Tribunal, debiendo homologarse a los sistemas de verificación existentes en la Entidad Superior de Fiscalización del Estado;
 
 X. Coadyuvar en la elaboración del anteproyecto del Presupuesto de Egresos que corresponda al Tribunal;
 
@@ -964,3 +966,15 @@ LIC. BERNARDO GARCIA CAMINO
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- La presente Ley entrará en vigor el día siguiente de su publicación, en el periódico oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo.- Las disposiciones relativas a la Ley Orgánica del Poder Legislativo entrarán en vigor el día de su aprobación por el Pleno de la Legislatura.
+
+Artículo Tercero.- Los artículos 93 y 153 de la Ley Orgánica del Poder legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscalizadas, hasta su total conclusión.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
