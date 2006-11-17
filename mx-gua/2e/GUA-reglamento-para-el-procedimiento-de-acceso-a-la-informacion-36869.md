@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-procedimiento-de-acceso-a-la-informacion-368
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-27"
-last_updated: "2004-01-27"
+last_updated: "2006-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA EL PROCEDIMIENTO DE ACCESO A LA INFORMACION PUBLICA EN EL PODER EJECUTIVO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el martes 27 de enero de 2004.
 
@@ -167,15 +167,15 @@ I.- Difundir la información clasificada como pública;
 
 II.- Elaborar semestralmente y por rubros temáticos, un índice de la información o de los expedientes clasificados como reservados y mantener actualizado el mismo;
 
-III.- Vigilar que sólo se distribuya, difunda o comercialice los datos personales contenidos en los sistemas de acceso a la información pública, cuando medie el consentimiento de los individuos a que haga referencia la información pública;
+III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 17 DE NOVIEMBRE DE 2006)
 
-IV.- Proporcionar los datos personales en los supuestos y bajo las condiciones previstas en el artículo 24 de la Ley; así como tramitar el procedimiento de corrección de datos personales;
+IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 V.- Vigilar que en las dependencias, entidades y demás unidades administrativas de la administración pública estatal, se apliquen los criterios de organización de archivos, emitidos por el Archivo General del Estado;
 
 VI.- Emitir el acuerdo de clasificación de la información reservada y confidencial, de conformidad con lo previsto en la Ley y en el presente Reglamento;
 
-VII.- Vigilar que las dependencias, entidades y demás unidades administrativas de la administración pública estatal, informen a los individuos el propósito por el cual se recaban los datos personales;
+VII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 VIII.- Emitir lineamientos a las unidades de enlace respecto de la clasificación de la información;
 
@@ -213,7 +213,7 @@ La unidad de enlace, tendrá las siguientes atribuciones:
 
 I.- Actualizar la información clasificada como pública y remitir la misma a la Unidad;
 
-II.- Tramitar las solicitudes de corrección de datos personales que le remita la Unidad y mantener actualizados los datos personales que generen o posean;
+II.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 III.- Coordinar y supervisar las acciones tendientes a proporcionar información;
 
@@ -419,47 +419,33 @@ IV.- Cuando se requiera al solicitante para que corrija o subsane los errores u 
 
 V.- Por cualquier otra causa que pudiera impedir, razonablemente, la entrega oportuna de la información.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
 ### CAPÍTULO DÉCIMO. DEL PROCEDIMIENTO PARA LA CORRECCIÓN DE DATOS
 
 ###### Artículo 45.
 
-Se procederá a la corrección de datos personales a que se refiere la fracción I del artículo 8 de la Ley, cuando exista solicitud por parte del interesado, dirigida a la Unidad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 46.
 
-La solicitud de corrección de datos personales deberá contener los siguientes:
-
-I.- Nombre del solicitante y domicilio para recibir notificaciones, el cual deberá ubicarse en el domicilio de la Unidad;
-
-II.- Los datos que se pretenden corregir haciendo referencia en donde constan los mismos;
-
-III.- Indicar los datos correctos y si es posible acreditar la exactitud de los que se proporcionan;
-
-IV.- En caso de que se pretendan complementar los datos personales, indicar la información faltante; y
-
-V.- Los demás que determine la Unidad.
-
-Asimismo, deberá adjuntarse a la solicitud de corrección de datos el documento en el que conste la identificación del solicitante.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 47.
 
-La Unidad requerirá a la unidad de enlace para que remita, dentro de los cinco días hábiles siguientes a dicho requerimiento, el expediente o documentos que contengan los datos personales del solicitante; indicando se señale cómo se obtuvieron los datos personales que en dicha documentación constan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 48.
 
-La Unidad con el apoyo de la unidad de enlace que tenga la información que se solicita modificar, analizará la procedencia de dicha corrección.
-
-Para el análisis se tomarán en cuenta las razones que exponga la unidad de enlace en cuanto a la obtención de dicha información y la proporcionada por el interesado, a fin de verificar que la corrección sea procedente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 49.
 
-Si resulta procedente la corrección se emitirá un acuerdo en el cual se instruya a la unidad de enlace correspondiente a realizar la corrección de los datos respectivos, señalando los datos correctos e indicando que se anexe a la corrección del documento el acuerdo de modificación de los mismos.
-
-Asimismo, notificará al solicitante en un plazo que no excederá de treinta días hábiles contados a partir de la recepción de la solicitud, las modificaciones conducentes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 50.
 
-De resultar improcedente la corrección, la Unidad notificará al interesando (sic) su determinación, expresando las razones y fundamentos, dicho plazo no excederá de treinta días hábiles a partir de la recepción de la solicitud respectiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 17 DE NOVIEMBRE DE 2006)
 
 ## TRANSITORIOS
 
@@ -474,3 +460,11 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO
 
 GERARDO LUIS RODRIGUEZ OROZCO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las fracciones III, IV y VII del artículo 12, la fracción II del artículo 15 y el Capítulo Décimo del Reglamento para el Procedimiento de Acceso a la Información Pública en el Poder Ejecutivo.
