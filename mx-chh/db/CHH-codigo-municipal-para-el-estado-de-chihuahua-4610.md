@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2006-06-14"
+last_updated: "2006-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2006.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -279,7 +279,9 @@ LVIII.- SAN FRANCISCO DE CONCHOS; con cabecera en el pueblo del mismo nombre y l
 
 LIX.- SAN FRANCISCO DEL ORO; con cabecera en el pueblo del mismo nombre;
 
-LX.- SANTA BARBARA; con cabecera en la ciudad del mismo nombre y la sección municipal de Casa Colorada;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2006)</small>
+
+LX.- Santa Bárbara (sic); con cabecera del mismo nombre;
 
 LXI.- SANTA ISABEL; con cabecera en el pueblo del mismo nombre;
 
@@ -1972,6 +1974,10 @@ d) La justificación para incorporarlo, desincorporarlo o cambiar su destino.
 II.- Así mismo, el Síndico Municipal emitirá un dictamen sobre la factibilidad o no de la desincorporación, en cumplimiento de las atribuciones de vigilancia que le corresponden.
 
 Los bienes inmuebles donados al municipio, previstos en los artículos 165 y 166 de la ley de Desarrollo Urbano del Estado, además de cumplir con los requisitos antes señalados, será necesario la anuencia de las dos terceras partes de los propietarios de las casas o terrenos que conformen el fraccionamiento, a excepción de los constructores o fraccionadores.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2006)</small>
+
+No será necesaria la anuencia señalada en el párrafo anterior, cuando la enajenación sea destinada única y exclusivamente a servicios básicos como escuelas, mercados, dispensarios, templos, parques, jardines y demás áreas públicas.
 
 Los bienes municipales a que hacen referencia la Ley del Patrimonio Cultural y la Ley Ecológica, ambas del Estado de Chihuahua, se regularán de conformidad con lo previsto en dichos ordenamientos.
 
@@ -3744,3 +3750,19 @@ P.O. 14 DE JUNIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2006.
+
+DECRETO No. 652/06 I P.O.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2006.
+
+DECRETO No. 653/06 I P.O.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
