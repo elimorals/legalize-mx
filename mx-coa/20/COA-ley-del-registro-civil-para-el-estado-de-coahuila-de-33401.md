@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-33401"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-25"
-last_updated: "2005-11-25"
+last_updated: "2006-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de julio de 2003.
 
@@ -653,9 +653,11 @@ Si por el contenido de las capitulaciones matrimoniales, éstas deben constar en
 
 Si el matrimonio se desea celebrar bajo el régimen de sociedad conyugal, pero no se presentan las capitulaciones matrimoniales, el mismo, por disposición de ley, se entenderá celebrado bajo el régimen de separación de bienes.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 97.
 
-Si alguno de los pretendientes hubiere estado bajo tutela por causa de idiotismo o imbecilidad, se deberá acompañar a la solicitud, la resolución del juicio que haya declarado la cesación de la tutela por haber desaparecido la causa que la motivó.
+Si alguno de los pretendientes hubiere estado bajo tutela por padecer alguno de los estados de incapacidad a que se refiere la fracción II del artículo 48 del Código Civil para el Estado de Coahuila, se deberá acompañar a la solicitud, la resolución de juicio que haya declarado la cesación de la tutela por haber desaparecido la causa que la motivó.
 
 ###### ARTÍCULO 98.
 
@@ -1016,3 +1018,7 @@ P.O. 25 DE NOVIEMBRE DE 2005.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier otra disposición que se oponga al presente decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
