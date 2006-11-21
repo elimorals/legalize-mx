@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2006-10-31"
+last_updated: "2006-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -752,6 +752,10 @@ El Ayuntamiento deberá comunicar los acuerdos por escrito y en un término no m
 ###### ARTÍCULO 100.
 
 Las faltas temporales hasta por quince días del presidente municipal, serán suplidas por los regidores del ayuntamiento, según el orden de su nombramiento.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2006)</small>
+
+Cuando un Presidente Municipal electo no se presente a ocupar el cargo y en los casos de falta temporal mayor de quince días o de falta absoluta del Presidente Municipal, que ocurra en cualquier tiempo por fallecimiento, renuncia o revocación o suspensión del mandato, los regidores, según el orden de su nombramiento, asumirán en forma inmediata y transitoria como encargados del despacho, el cumplimiento de las competencias y facultades que se asignan al Presidente Municipal, hasta que asuma este cargo quien sea designado por el Congreso del Estado para ese efecto.
 
 ###### ARTÍCULO 101.
 
@@ -4006,3 +4010,9 @@ UNICO. El presente decreto entrará en vigor al día siguiente de su publicació
 P.O. 31 DE OCTUBRE DE 2006.
 
 Único.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
