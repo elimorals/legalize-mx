@@ -4,7 +4,7 @@ identifier: "COA-ley-de-seguridad-publica-del-estado-de-coahuila-de-zaragoza-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-25"
-last_updated: "2005-11-25"
+last_updated: "2006-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2005.
 
@@ -151,7 +151,9 @@ II. Laguna, que comprende los municipios de Torreón, Francisco I. Madero, Matam
 
 III. Centro, que comprende los municipios de Monclova, Abasolo, Candela, Castaños, Escobedo, Frontera, La Madrid, Nadadores, Sacramento, San Buenaventura.
 
-IV. Desértica, que comprende los municipios de Ocampo, Cuatrociénegas y Sierra Mojada
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2006)</small>
+
+IV. Desértica, que comprende los municipios de Ocampo, Cuatro Ciénegas y Sierra Mojada.
 
 V. Carbonífera, que comprende los municipios de Sabinas, Juárez, Múzquiz, Progreso, San Juan de Sabinas.
 
@@ -1504,3 +1506,9 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIUDADANA
 COMISARIO JEFE ANTONIO GARZA GARCÍA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2006.
+
+Único.- Esta reforma entrará en vigor: al día siguiente de su publicación en el Periódico Oficial del Estado.
