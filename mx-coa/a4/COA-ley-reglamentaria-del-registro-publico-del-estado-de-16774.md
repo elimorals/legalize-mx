@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-registro-publico-del-estado-de-16774"
 country: "mx"
 rank: "ley"
 publication_date: "1999-11-23"
-last_updated: "1999-11-23"
+last_updated: "2006-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL REGISTRO PUBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICIO OFICIAL: 21 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 23 de noviembre de 1999.
 
@@ -101,7 +101,9 @@ I. Oficina de Saltillo: que comprende el municipio del mismo nombre y los de Gen
 
 II. Oficina de Torreón: que comprende el municipio del mismo nombre y los de Matamoros y Viesca.
 
-III. Oficina de Monclova: que comprende el municipio del mismo nombre y los de Abasolo, Escobedo, Candela, Castaños, Cuatrociénegas, Frontera, Lamadrid, Nadadores, Ocampo, San Buenaventura, Sacramento y Sierra Mojada.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2006)</small>
+
+III. Oficina de Monclova: que comprende el municipio del mismo nombre y los de Abasolo, Escobedo, Candela, Castaños, Cuatro Ciénegas, Frontera, Lamadrid, Nadadores, Ocampo, San Buenaventura, Sacramento y Sierra Mojada.
 
 IV. Oficina de Piedras Negras: que comprende el municipio del mismo nombre y los de Allende, Guerrero, Hidalgo, Morelos, Nava y Villa Unión.
 
@@ -942,3 +944,9 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2006.
+
+Único.- Esta reforma entrará en vigor: al día siguiente de su publicación en el Periódico Oficial del Estado.
