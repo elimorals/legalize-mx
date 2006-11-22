@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2006-09-07"
+last_updated: "2006-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2006.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -2045,7 +2045,17 @@ E).- Con objeto de lucrar, se asocie a profesionistas legalmente autorizados con
 
 Se sancionará con prisión de un mes a dos años y multa de uno a cinco días de salario, al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, que sean exclusivos de funcionarios o de personas que tengan carácter de autoridad en el Estado.
 
-### CAPITULO I. DE LA SUPOSICION Y SUPRESION DEL ESTADO CIVIL
+### CAPITULO IV. HOSTIGAMIENTO O ACOSO SEXUAL
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2006)</small>
+
+ARTICULO 260 BIS.- Al que con fines sexuales acose reiteradamente a persona de cualquier sexo valiéndose de su posición jerárquica o de cualquier circunstancia que genere condiciones de preeminencia entre el ofensor y el ofendido, trátese del ámbito familiar, doméstico, docente, laboral o cualquier otro que implique subordinación o respeto, se le impondrá de 1 uno a 6 seis meses de prisión y multa hasta de 100 cien días de salario.
+
+Si el sujeto pasivo fuere inimputable, la pena será de cuatro meses a dos años de prisión y multa de cien a doscientos días de salario mínimo.
+
+Solo se procederá contra el hostigador o acosador, a petición de la parte ofendida o de su representante legal.
+
+Las penas previstas en este artículo son independientes de cualquier otro delito que resulte cometido con motivo del hostigamiento o acoso.
 
 ###### ARTICULO 251.
 
@@ -2055,7 +2065,7 @@ Las disposiciones contenidas en este Título, no se aplicarán sino en lo que no
 
 ## TITULO DECIMO SEGUNDO. EXPLOTACION DE MENORES O ENFERMOS
 
-### CAPITULO II. EXPOSICIONES DE INFANTES
+### CAPITULO I. DE LA SUPOSICION Y SUPRESION DEL ESTADO CIVIL
 
 ###### ARTICULO 252.
 
@@ -2063,9 +2073,7 @@ Se impondrá prisión de uno a tres años y multa de uno a diez días de salario
 
 ## TITULO DECIMO TERCERO. PELIGROSIDAD SOCIAL
 
-### CAPITULO III. SUSTRACCION Y TRAFICO DE INFANTES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
+### CAPITULO II. EXPOSICIONES DE INFANTES
 
 ###### ARTICULO 253.
 
@@ -2079,7 +2087,9 @@ A los mendigos a quienes se aprehenda con un disfraz o con armas, ganzúas o cua
 
 ## TITULO DECIMO CUARTO. DELITOS SEXUALES
 
-### CAPITULO IV. BIGAMIA
+### CAPITULO III. SUSTRACCION Y TRAFICO DE INFANTES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 255.
 
@@ -2095,7 +2105,7 @@ Si con motivo de los actos eróticos o por cualquier otra causa se llegare a int
 
 El ilícito de atentados al pudor, solo se sancionarán a petición del ofendido o de su representante legítimo, a excepción de la forma de comisión señalada en el artículo anterior en el que será perseguible de oficio.
 
-### CAPITULO V. INCESTO
+### CAPITULO IV. BIGAMIA
 
 ###### ARTICULO 258.
 
@@ -2111,7 +2121,7 @@ La castidad, la honestidad y la seducción se presumen, salvo prueba en contrari
 
 No se procederá contra el estuprador, sino por queja de la mujer ofendida o de sus padres, o a falta de éstos de sus representantes legítimos; pero cuando el acusado se case con la mujer ofendida, cesará toda acción para perseguirlo y las sanciones impuestas, salvo que se declare nulo el matrimonio.
 
-### CAPITULO VI. ABANDONO DE FAMILIARES
+### CAPITULO V. INCESTO
 
 ###### ARTICULO 260.
 
@@ -2131,6 +2141,12 @@ La violación cometida por aquél que en ejercicio de sus funciones, valiéndose
 
 Cuando en una violación intervengan tres o más personas, aún cuando sólo una de ellas, efectúe la cópula, se aplicarán a todas ellas de diez a treinta años de prisión y multa de diez a ochenta días de salario.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE NOVIEMBRE DE 2006)</small>
+
+### CAPITULO VI. ABANDONO DE FAMILIARES
+
+## TITULO DECIMO QUINTO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
+
 ### CAPITULO VII. VIOLENCIA FAMILIAR
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
@@ -2147,12 +2163,6 @@ Este delito se perseguirá por querella de parte ofendida, salvo que la víctima
 
 ARTICULO 273 TER.- La misma sanción se impondrá al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera de matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor y el agredido habiten en la misma casa.
 
-## TITULO DECIMO QUINTO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
-
-### CAPITULO UNICO. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
-
-PROFANACION DE CADAVERES
-
 ###### ARTICULO 261.
 
 Se impondrá de uno a seis años de prisión y multa de diez a treinta días de salario al que con el fin de alterar el estado civil, ejecute alguno de los hechos siguientes:
@@ -2167,9 +2177,9 @@ IV.- A los que sustituyan a un niño por otro, o cometan ocultación de infante;
 
 V.- Al que usurpe el estado civil de otro con el fin de adquirir derechos que no le corresponden.
 
-### CAPITULO I. AMENAZAS
+### CAPITULO UNICO. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+PROFANACION DE CADAVERES
 
 ###### ARTICULO 262.
 
@@ -2181,7 +2191,9 @@ Los ascendientes o tutores que entreguen a un menor de siete años que esté baj
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE MAYO DE 1995)</small>
 
-### CAPITULO II. CHANTAJE
+### CAPITULO I. AMENAZAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 264.
 
@@ -2209,7 +2221,7 @@ Igual pena se aplicará al que teniendo conocimiento de las actividades de tráf
 
 A quienes dirijan, organicen o aporten recursos económicos, técnicos o materiales que permitan el ejercicio de tráfico de infantes o la venta clandestina de órganos o parte de su cuerpo, se les aplicará de veinte a cincuenta años de prisión y multa de quinientos días de salario mínimo.
 
-### CAPITULO III. ALLANAMIENTO DE MORADA
+### CAPITULO II. CHANTAJE
 
 ###### ARTICULO 266.
 
@@ -2221,9 +2233,7 @@ A quienes ejerzan la patria potestad o la tutela, que a sabiendas dieren su cons
 
 El término para la prescripción de la acción penal por bigamia, empezará a correr desde que uno de los dos matrimonios haya quedado disuelto por la muerte de alguno de los cónyuges, o desde que el segundo haya sido declarado nulo por la causal de bigamia.
 
-### CAPITULO IV. ASALTO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+### CAPITULO III. ALLANAMIENTO DE MORADA
 
 ###### ARTICULO 268.
 
@@ -2231,7 +2241,9 @@ Se impondrá de uno a seis años de prisión y multa de tres a quince días de s
 
 Se aplicará esta última sanción en caso de incesto entre hermanos.
 
-### CAPITULO V. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTROS DERECHOS
+### CAPITULO IV. ASALTO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 269.
 
@@ -2255,13 +2267,13 @@ Si del abandono resultare algún daño ya sea muerte, lesiones o cualquier otro,
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO VI. SECUESTRO O PLAGIO
-
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
+### CAPITULO V. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTROS DERECHOS
 
 ## TITULO DECIMO SEXTO
 
-### CAPITULO VII. RAPTO
+### CAPITULO VI. SECUESTRO O PLAGIO
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 274.
 
@@ -2283,7 +2295,7 @@ II.- Al que profane un cadáver o restos humanos con acto de vilpendio (sic), ob
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO I. GOLPES SIMPLES
+### CAPITULO VII. RAPTO
 
 ###### ARTICULO 276.
 
@@ -2311,7 +2323,7 @@ II.- Si exigió que el amenazado cometiera un delito, la sanción de la amenaza 
 
 III.- Si lo que exigió fue que dejara de ejecutar un acto lícito, se le impondrá sanción de un mes a dos años de prisión y multa de uno a diez días de salario.
 
-### CAPITULO II. INJURIAS
+### CAPITULO I. GOLPES SIMPLES
 
 ###### ARTICULO 279.
 
@@ -2323,13 +2335,13 @@ A quien cometa el delito de chantaje, se le impondrán de uno a tres años de pr
 
 Si lo que se exigió fue la entrega de cantidades o efectos y ésta se realiza, además de las sanciones que señala el párrafo anterior se aplicarán las de robo con violencia.
 
-### CAPITULO III. DIFAMACION
+### CAPITULO II. INJURIAS
 
 ###### ARTICULO 280.
 
 Se impondrá de seis meses a dos años de prisión y multa de uno a diez días de salario, al que sin motivo justificado, se introduzca o permanezca furtivamente o con engaños o violencia, o sin permiso de la persona autorizada para darlo, a un departamento, vivienda, aposento o casa habitada o a sus dependencias.
 
-### CAPITULO IV. CALUMNIA
+### CAPITULO III. DIFAMACION
 
 ###### ARTICULO 281.
 
@@ -2349,7 +2361,7 @@ Si el asalto se efectuare de noche o si fueren varios los asaltantes se aplicar�
 
 A quienes asalten un poblado o ranchería se les sancionará con prisión de, veinte a cuarenta años y multa de cincuenta a doscientos días de salario, si fueren los cabecillas o jefes y de veinte a treinta años de prisión y multa de veinte a cien días de salario a los demás, sin perjuicio de aplicar las reglas de concurso por cualesquiera otros delitos que se cometan.
 
-### CAPITULO V. DISPOSICIONES COMUNES A LAS INJURIAS, DIFAMACION Y CALUMNIA
+### CAPITULO IV. CALUMNIA
 
 ###### ARTICULO 283.
 
@@ -2363,7 +2375,7 @@ III.- Al particular que por medio de la violencia obligue ilegítimamente a una 
 
 IV.- Al que de alguna manera viole, con perjuicio de otro, los derechos establecidos por la Constitución General de la República o por la Constitución del Estado, en favor de las personas.
 
-### CAPITULO I. LESIONES
+### CAPITULO V. DISPOSICIONES COMUNES A LAS INJURIAS, DIFAMACION Y CALUMNIA
 
 ###### ARTICULO 284.
 
@@ -2385,7 +2397,7 @@ VI. Cuando el secuestrado sea menor de doce años y se le prive de la libertad p
 
 Si el plagiario pone espontáneamente en libertad a la víctima dentro de tres días sin haber causado perjuicio grave, se le impondrán las sanciones que señala el artículo 283.
 
-### CAPITULO II. HOMICIDIO
+### CAPITULO I. LESIONES
 
 ###### ARTICULO 286.
 
@@ -2415,13 +2427,13 @@ No se procederá contra el raptor sino por queja de la persona ofendida o de su 
 
 Cuando además del delito de rapto se cometa algún otro, se observarán las reglas del concurso.
 
-### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIOS
+### CAPITULO II. HOMICIDIO
 
-### CAPITULO IV. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
+### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIOS
 
 ## TITULO DECIMO OCTAVO. DELITOS CONTRA EL HONOR
 
-### CAPITULO V. INSTIGACION O AYUDA AL SUICIDIO
+### CAPITULO IV. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
 
 ###### ARTICULO 292.
 
@@ -2431,9 +2443,7 @@ Se aplicará de tres días a un año de prisión o multa de uno a diez días de 
 
 No se procederá contra el autor de golpes, sino por queja del ofendido, a no ser que el delito se cometa en una reunión o lugar público, o a un ascendiente.
 
-### CAPITULO VI. PARRICIDIO
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+### CAPITULO V. INSTIGACION O AYUDA AL SUICIDIO
 
 ###### ARTICULO 294.
 
@@ -2443,7 +2453,7 @@ El delito de injurias se sancionará con prisión de tres días a un año o mult
 
 Cuando las injurias fueren recíprocas, el Juez podrá según las circunstancias, declarar exentas de sanción a las dos partes o exigirles caución de no ofender.
 
-### CAPITULO VII. FILICIDIO
+### CAPITULO VI. PARRICIDIO
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -2459,7 +2469,9 @@ I.- Si la imputación hubiere tenido por objeto defender o garantizar un interé
 
 II.- Si el hecho imputado está declarado cierto, por sentencia irrevocable y el inculpado obre por interés legítimo y sin ánimo de dañar.
 
-### CAPITULO VIII. INFANTICIDIO
+### CAPITULO VII. FILICIDIO
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 297.
 
@@ -2473,7 +2485,7 @@ Si se condena al calumniado se impondrá al calumniador la misma sanción que aq
 
 Cuando haya pendiente un proceso o averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que en dicho proceso se dicte sentencia ejecutoria. En este caso, la prescripción comenzará a correr cuando termine el proceso.
 
-### CAPITULO IX. ABORTO
+### CAPITULO VIII. INFANTICIDIO
 
 ###### ARTICULO 299.
 
@@ -2513,7 +2525,7 @@ No servirá de excusa de la difamación, ni de la calumnia, que el hecho imputad
 
 ## TITULO DECIMO NOVENO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
-### CAPITULO X. ABANDONO DE PERSONAS
+### CAPITULO IX. ABORTO
 
 ###### ARTICULO 305.
 
@@ -2583,7 +2595,7 @@ Si el ofendido fuere ascendiente del autor de una lesión, se aumentarán dos a�
 
 De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo asuce (sic) o lo suelte. Si lo suelta por descuido, la sanción será la correspondiente al delito culposo.
 
-### CAPITULO I. ROBO
+### CAPITULO X. ABANDONO DE PERSONAS
 
 ###### ARTICULO 317.
 
@@ -2639,7 +2651,7 @@ HOMICIDIO CALIFICADO
 
 Al responsable de Homicidio calificado se impondrá de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días de salario.
 
-### CAPITULO II. ABIGEATO
+### CAPITULO I. ROBO
 
 ###### ARTICULO 324.
 
@@ -2677,13 +2689,13 @@ I.- Al que sorprendiendo a su cónyuge en el acto carnal con otra persona o en u
 
 II.- Al padre que mate o lesione al corruptor de su hija que esté bajo su potestad, si lo hiciere en el momento de sorprenderlos en el acto carnal o en un momento próximo a su consumación, siempre que no hubiere procurado la corrupción de su hija, pues en caso contrario quedará sujeto a las disposiciones comunes sobre homicidio o lesiones.
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO II. ABIGEATO
 
 ###### ARTICULO 327.
 
 Se impondrá prisión de tres meses a dos años y multa hasta de diez días de salario al que dispare sobre alguna persona un arma de fuego, o la ataque de tal manera que en razón del arma empleada, de la fuerza o destreza del agresor o de cualquiera otra circunstancia semejante, pueda producir como resultado del disparo o del ataque, la muerte.
 
-### CAPITULO IV. FRAUDE
+### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### ARTICULO 328.
 
@@ -2693,19 +2705,19 @@ Al que instigue o ayude a otro al suicidio se le impondrá sanción de tres a di
 
 El que pudiendo impedir un suicidio no lo haga o impidiere que otro lo evite, será sancionado con prisión de dos meses a dos años de prisión y multa hasta de diez días de salario.
 
-### CAPITULO V. ADMINISTRACIÓN FRAUDULENTA
+### CAPITULO IV. FRAUDE
 
 ###### ARTICULO 330.
 
 Al que prive de la vida a cualquier ascendiente consanguíneo, en línea recta o a su padre o madre adoptivo, conociendo el delincuente ese parentesco, se le aplicará de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días de salario.
 
-### CAPITULO VI. USURA
+### CAPITULO V. ADMINISTRACIÓN FRAUDULENTA
 
 ###### ARTICULO 331.
 
 Al que prive de la vida a un descendiente consanguíneo en línea recta o a su hijo adoptivo, sabiendo el delincuente ese parentesco, se le aplicarán de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días de salario.
 
-### CAPITULO VII. DESPOJO DE INMUEBLES Y AGUAS
+### CAPITULO VI. USURA
 
 ###### ARTICULO 332.
 
@@ -2729,7 +2741,7 @@ IV.- Que el infante no sea legítimo.
 
 Si en el infanticidio tomare participación un médico, cirujano, comadrón o partera, además de las sanciones privativas de la libertad que le corresponda, se le suspenderá de uno a cinco años en el ejercicio de su profesión.
 
-### CAPITULO VIII. DAÑO EN PROPIEDAD AJENA
+### CAPITULO VII. DESPOJO DE INMUEBLES Y AGUAS
 
 ###### ARTICULO 335.
 
@@ -2765,7 +2777,7 @@ No es punible el aborto culposo causado por la mujer embarazada, ni cuando el em
 
 No se aplicará sanción cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO IX. OCUPACION ILEGAL DE EDIFICIOS E INMUEBLES DESTINADOS A UN SERVICIO PUBLICO
+### CAPITULO VIII. DAÑO EN PROPIEDAD AJENA
 
 ###### ARTICULO 340.
 
@@ -2783,9 +2795,7 @@ El automovilista, motorista, conductor de vehículo cualquiera, ciclista o jinet
 
 ## TITULO VIGESIMO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO UNICO. ENCUBRIMIENTO
-
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
+### CAPITULO IX. OCUPACION ILEGAL DE EDIFICIOS E INMUEBLES DESTINADOS A UN SERVICIO PUBLICO
 
 ###### ARTICULO 343.
 
@@ -2881,9 +2891,9 @@ Si precediere, acompañare o siguiere el robo algún otro hecho que por sí solo
 
 Cualesquiera que sea el monto de lo robado siempre y cuando se repare el daño causado al ofendido hasta antes de cerrar el período de instrucción, las sanciones a que se refieren los artículos que preceden, se reducirá hasta las dos terceras partes, con la salvedad de que el procesado sea delincuente primario.
 
-### CAPÍTULO UNICO. DE LOS DELITOS CONTRA LA ECOLOGIA
+### CAPITULO UNICO. ENCUBRIMIENTO
 
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 357.
 
@@ -2943,9 +2953,9 @@ Al que comercie con pieles, carnes u otros derivados obtenidos del Abigeato, se 
 
 Es aplicable al delito de Abigeato, en lo conducente, lo dispuesto en los artículos 353 y 356.
 
-### CAPITULO UNICO. DELITOS ELECTORALES
+### CAPÍTULO UNICO. DE LOS DELITOS CONTRA LA ECOLOGIA
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 364.
 
@@ -2973,9 +2983,9 @@ Se aplicarán las mismas sanciones del abuso de confianza, a quien requerido for
 
 El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicable en lo conducente los artículos 346 y 353.
 
-### CAPITULO I. DEL FRACCIONAMIENTO ILEGAL DE INMUEBLES
+### CAPITULO UNICO. DELITOS ELECTORALES
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
 
 ###### ARTICULO 368.
 
@@ -3043,15 +3053,19 @@ Los delitos equiparables a la figura delictiva de fraude en las fracciones IV, V
 
 (DEROGADO, P.O. 4 DE DICIEMBRE DE 1996)
 
-### CAPITULO II. DE LA CERTIFICACION, FORMALIZACION, REGISTRO E INSCRIPCIÓN DE INMUEBLES
+### CAPITULO I. DEL FRACCIONAMIENTO ILEGAL DE INMUEBLES
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 371.
 
 Comete el delito de administración fraudulenta el que teniendo a su cargo el manejo, la administración o el cuidado de bienes ajenos, con engaño o aprovechamiento del error del ofendido, perjudique a su titular o a un tercero con legítimo interés, o altere en sus cuentas los precios o condiciones de los contratos, suponiendo operaciones o prestaciones o exagerando las que hubiere hecho ocultando o reteniendo bienes, o empleare abusivamente los bienes o la firma que se le hubiere confiado.
 
 Las sanciones para este delito serán las mismas que para el fraude establece el artículo 368 de este Código.
+
+### CAPITULO II. DE LA CERTIFICACION, FORMALIZACION, REGISTRO E INSCRIPCIÓN DE INMUEBLES
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 372.
 
@@ -3558,3 +3572,9 @@ DECRETO POR EL QUE SE ADICIONA LA FRACCION XVI AL ARTICULO 369.
 P.O. 7 DE SEPTIEMBRE DE 2006.
 
 Artículo Único.- Las reformas contenidas en el presente Decreto entrarán en vigor el 13 de septiembre del 2006, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
