@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-3333
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-07"
-last_updated: "2003-08-07"
+last_updated: "2006-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de agosto de 2003.
 
 LA JUNTA DIRECTIVA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN, EN EJERCICIO DE LA ATRIBUCIÓN QUE LE CONFIERE EL ARTICULO 13 FRACCIÓN V DEL DECRETO DEL EJECUTIVO POR EL QUE SE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN, EN LA TRIGÉSIMA SESIÓN ORDINARIA CELEBRADA EL 27 DE MARZO DE DOS MIL TRES; Y
 
-C O N S I D E R A N D O
+C O N S I D E R A N D O...
 
 En mérito de lo anterior, ha tenido a bien expedir el siguiente:
 
@@ -57,9 +57,11 @@ IV. Director, al Director del Tecnológico de Estudios Superiores de Huixquiluca
 
 El Tecnológico es un organismo público descentralizado de carácter estatal, con personalidad jurídica y patrimonio propios, que tiene a su cargo el despacho de los asuntos que le confiere el Decreto y otras disposiciones legales.
 
+> <small>(REFORMADO, G.G. 23 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 4.
 
-El Tecnológico se sujetará a los dispuestos (sic) por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su reglamento, y por lo que establezcan otros ordenamientos aplicables.
+El Tecnológico se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento y por lo que establecen otros ordenamientos aplicables.
 
 ###### Artículo 5.
 
@@ -89,9 +91,11 @@ Corresponde a la Junta el ejercicio de las atribuciones señaladas en el Decreto
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DEL DIRECTOR
 
+> <small>(REFORMADO, G.G. 23 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 10.
 
-Al frente de la Dirección habrá un Director, quien será nombrado y removido por el titular del Ejecutivo del Estado, a propuesta del Secretario de Educación, Cultura y Bienestar Social, y durará en su cargo cuatro años, pudiendo ser confirmado por un segundo período.
+Al frente de la Dirección habrá un Director, quien será nombrado y removido por el titular del Ejecutivo del Estado, a propuesta del Secretario de Educación, y durará en su cargo cuatro años, pudiendo ser confirmado por un segundo período.
 
 ###### Artículo 11.
 
@@ -129,9 +133,19 @@ III. Subdirección de Servicios Administrativos;
 
 IV. División de Ingeniería Civil;
 
-V. División de Licenciatura en Biología; y
+> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
 
-VI. División de Ingeniería en Sistemas Computacionales.
+V. División de Licenciatura en Biología;
+
+VI. División de Ingeniería en Sistemas Computacionales;
+
+> <small>(ADICIONADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
+
+VII. División de Ingeniería Industrial;
+
+> <small>(ADICIONADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
+
+VIII. División de Licenciatura en Administración.
 
 El Director contará con las demás unidades administrativas establecidas en el manual general de organización del Tecnológico y se auxiliará de los servidores públicos para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivos.
 
@@ -175,17 +189,23 @@ XIV. Las demás que les confieran otras disposiciones legales y aquellas que les
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBDIRECCIONES Y DE LAS DIVISIONES
 
+> <small>(REFORMADO, G.G. 23 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 15.
 
-A la Subdirección Académica le corresponde planear, coordinar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería civil, de biología y de ingeniería en sistemas computacionales, así como coordinar los servicios escolares, de desarrollo académico y de informática del Tecnológico.
+A la Subdirección Académica le corresponde planear, coordinar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería civil, biología, ingeniería en sistemas computacionales, ingeniería industrial y administración, así como coordinar los servicios escolares, de desarrollo académico y de cómputo del Tecnológico.
 
 Quedan adscritas a la Subdirección Académica:
 
 I. División de Ingeniería Civil;
 
-II. División de Licenciatura en Biología; y
+II. División de Licenciatura en Biología;
 
-III. División de Ingeniería en Sistemas Computacionales.
+III. División de Ingeniería en Sistemas Computacionales;
+
+IV. División de Ingeniería Industrial; y
+
+V. División de Licenciatura en Administración.
 
 ###### Artículo 16.
 
@@ -207,9 +227,17 @@ VII. Apoyar la celebración de convenios para la ejecución de los programas aca
 
 VIII. Presentar al Director proyectos de ampliación y mejoramiento de espacios físicos y de los servicios educativos del Tecnológico, en función de la demanda;
 
-IX. Orientar el proceso de selección de alumnos de nuevo ingreso al Tecnológico, con el apoyo de las unidades administrativas correspondientes; y
+> <small>(REFORMADA G.G. 23 DE NOVIEMBRE DE 2006)</small>
 
-X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director.
+IX. Orientar el proceso de selección de alumnos de nuevo ingreso al Tecnológico, con el apoyo de las unidades administrativas correspondientes;
+
+> <small>(REFORMADA G.G. 23 DE NOVIEMBRE DE 2006)</small>
+
+X. Promover la realización de residencias profesionales y del servicio social de los alumnos y egresados del Tecnológico; y
+
+> <small>(ADICIONADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
+
+XI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director.
 
 ###### Artículo 17.
 
@@ -217,7 +245,9 @@ Corresponde a la Subdirección de Planeación y Vinculación:
 
 I. Coordinar la elaboración del programa de desarrollo del Tecnológico, así como de las estrategias para su ejecución;
 
-II. Proyectar el desarrollo del Tecnológico a corto, mediano y largo plazos con la participación que corresponda a los titulares de las demandas (sic) unidades administrativas del Organismo;
+> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
+
+II. Proyectar el desarrollo del Tecnológico a corto, mediano y largo plazos con la participación que corresponda a los titulares de las demás unidades administrativas del Organismo;
 
 III. Establecer mecanismos para el seguimiento, control y evaluación de los programas de trabajo del Tecnológico;
 
@@ -231,7 +261,9 @@ VII. Establecer mecanismos de vinculación entre el Tecnológico y el sector pro
 
 VIII. Promover en coordinación con las unidades administrativas competentes la colocación de egresados del Tecnológico en el mercado laboral;
 
-IX. Promover el ejercicio de residencias profesionales y de servicio social del alumnado del Tecnológico;
+> <small>(REFORMADA G.G. 23 DE NOVIEMBRE DE 2006)</small>
+
+IX. Promover el ejercicio de residencias profesionales del alumnado del Tecnológico;
 
 X. Promover la difusión de los programas académicos y servicios que ofrece el Tecnológico;
 
@@ -289,7 +321,9 @@ IV. Proponer técnicas de enseñanza y métodos de evaluación para eficientar l
 
 V. Proponer al Director modificaciones al contenido temático de los programas académicos y de investigación de la carrera a su cargo;
 
-VI. Supervisar, en el ámbito de su competencia, la aplicación de los lineamientos académicos en materia de prácticas y estadías profesionales;
+> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
+
+VI. Supervisar, en el ámbito de su competencia, la aplicación de los lineamientos académicos en materia de prácticas de campo, visitas de observación y residencias profesionales;
 
 VII. Impulsar la aplicación de métodos y tecnología novedosa en el proceso de enseñanza aprendizaje de la carrera a su cargo;
 
@@ -345,7 +379,9 @@ El cargo de miembro del Consejo Consultivo Académico será honorífico.
 
 Corresponde al Consejo Consultivo Académico las funciones siguientes:
 
-I. Dictaminar los programas y proyectos académicos presentados a la Junta y los que ésta le proponga, sometiéndolos a la consideración de la Secretaría de Educación, Cultura y Bienestar Social, a través del Director.
+> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
+
+I. Dictaminar los programas y proyectos académicos presentados a la Junta y los que ésta le proponga, sometiéndolos a la consideración de la Secretaría de Educación, a través del Director.
 
 II. Supervisar que el Tecnológico cumpla con los planes y programas de estudio aprobados por las autoridades educativas;
 
@@ -392,3 +428,13 @@ ING. MARIO VALLEJO VALDÉS
 DIRECTOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN Y SECRETARIO DE LA H. JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 23 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
