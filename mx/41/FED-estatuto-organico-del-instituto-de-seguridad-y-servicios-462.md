@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "2005-11-14"
+last_updated: "2006-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 2006.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -852,9 +852,9 @@ c) (DEROGADO, D.O.F. 30 DE JULIO DE 2002)
 
 De igual manera coordinará la operación de la Escuela de Enfermería.
 
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-XIII.- Planear, organizar, normar, coordinar y controlar, la conservación, mantenimiento del equipo médico y electrónicamente de las Unidades Médicas a nivel nacional, y de los Inmuebles pertenecientes al Instituto ubicados en el Distrito Federal, de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del ambiente y el equilibrio ecológico;
+XIII.- Planear organizar, normar, coordinar y controlar, la conservación, mantenimiento y equipamiento del equipo médico y electromecánico de las unidades médicas a nivel nacional y de los inmuebles pertenecientes al Instituto ubicados en el Distrito Federal, de cuerdo con las políticas y estrategias establecidas por la normatividad para la protección del ambiente y equilibrio ecológico; a excepción del supuesto establecido en el segundo párrafo del artículo 54 Ter;
 
 > <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
 
@@ -868,9 +868,9 @@ XV.- Realizar y mantener actualizado el registro general de los bienes que const
 
 XVI.- Establecer las normas y especificaciones técnicas para la operación de las unidades médicas pertenecientes al Instituto, en coordinación con las áreas a cuyo cargo se encuentre la utilización de las mismas;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-XVII.- Programar, convocar y celebrar las licitaciones y/o concursos, que tengan por objeto la adquisición de medicamentos, materiales de curación, equipo e instrumental médico, y la conservación y mantenimiento de los equipos médicos y electromecánicos de las Unidades Médicas a nivel nacional y de los inmuebles pertenecientes al Instituto ubicados en el Distrito Federal.
+XVII.- Programar, convocar y celebrar las licitaciones y/o concursos que tengan por objeto la adquisición de medicamentos, material de curación, equipo e instrumental médico, y la conservación y mantenimiento de los equipos médicos y electromecánicos de las unidades médicas a nivel nacional y de los inmuebles pertenecientes al Instituto ubicados en el Distrito Federal, con excepción de lo dispuesto en la fracción XIII del artículo 54 Ter.
 
 > <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2002)</small>
 
@@ -1360,11 +1360,17 @@ IX.- Normar y coordinar las acciones relativas al control del inventario de los 
 
 X.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes;
 
-XI.- Planear, programar, organizar y coordinar la obra pública y los servicios relacionados con la misma, de las unidades pertenecientes al Instituto y vigilar que las obras se realicen de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del medio ambiente y el equilibrio ecológico;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XI.- Planear, programar, organizar y coordinar la obra pública y los servicios relacionados con la misma, de las unidades pertenecientes al Instituto y vigilar que las obras se realicen de acuerdo con las políticas y estrategias establecidas por la normatividad, para la protección del medio ambiente y el equilibrio ecológico.
+
+Así como, de los servicios de conservación y mantenimiento a los sistemas en transportación vertical (elevadores);
 
 XII.- Establecer las normas y especificaciones técnicas para la operación de las unidades físicas pertenecientes al Instituto, en coordinación con las áreas a cuyo cargo se encuentre la utilización de las mismas;
 
-XIII.- Programar, convocar y celebrar las licitaciones públicas que tengan por objeto la adjudicación de contratos de obra pública y servicios relacionados con la misma, con base en la legislación aplicable;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XIII.- Programar, convocar y celebrar los procesos de contratación que tengan por objeto la adjudicación de contratos de obra pública y servicios relacionados con la misma, con base en la legislación aplicable. Así como la contratación de los servicios de conservación y mantenimiento de los sistemas en transportación vertical (elevadores);
 
 XIV.- Elaborar, con base en la información que proporcionan las áreas del Instituto, el programa anual de inversión de obra pública y servicios relacionados con las mismas, de conformidad con las disposiciones legales aplicables y registrar su avance;
 
@@ -2143,3 +2149,7 @@ Las presentes reformas y adiciones entrarán en vigor al día siguiente de su pu
 D.O.F. 14 DE NOVIEMBRE DE 2005.
 
 Unico.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.OF. 23 DE NOVIEMBRE DE 2006.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
