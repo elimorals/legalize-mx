@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-de-administracion-y-38423"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-04-06"
-last_updated: "2006-09-08"
+last_updated: "2006-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38423&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-04-02"
 
 ESTATUTO ORGANICO DEL SERVICIO DE ADMINISTRACION Y ENAJENACION DE BIENES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 2006.
 
 Estatuto publicado en el Diario Oficial de la Federación, el martes 6 de abril de 2004.
 
@@ -169,7 +169,7 @@ Dirección Corporativa de Finanzas y Administración.
 
 II. Órgano Interno de Control.
 
-> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
 III. Direcciones Ejecutivas:
 
@@ -199,9 +199,9 @@ Dirección Ejecutiva de Recuperación;
 
 Dirección Ejecutiva Jurídica de Administración y Recuperación;
 
-Dirección Ejecutiva de Administración de Bienes;
+Dirección Ejecutiva de Bienes Inmuebles;
 
-Dirección Ejecutiva de Recepción y Destino de Bienes, y
+Dirección Ejecutiva de Bienes Muebles, y
 
 Dirección Ejecutiva de Coordinaciones Regionales.
 
@@ -223,13 +223,55 @@ Dirección Ejecutiva de Tecnología de la Información, y
 
 Dirección Ejecutiva del Cambio y Mejora Institucional.
 
-IV. Coordinaciones Regionales.
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+IV. Coordinaciones:
+
+Adscrita a la Dirección Ejecutiva de Administración de Empresas y Concursos Mercantiles:
+
+Coordinación Jurídica de Empresas Aseguradas y Concursos Mercantiles.
+
+Adscrita a la Dirección Ejecutiva de Liquidación de Empresas:
+
+Coordinación Jurídica de Operación y Administración de Empresas.
+
+Adscrita a la Dirección Ejecutiva de Bienes Inmuebles:
+
+Coordinación Jurídica de Bienes Inmuebles.
+
+Adscrita a la Dirección Ejecutiva de Bienes Muebles:
+
+Coordinación Jurídica de Bienes Muebles.
+
+Adscritas a la Dirección Ejecutiva de Coordinaciones Regionales:
+
+Coordinación Regional Cancún, Quintana Roo;
+
+Coordinación Regional Centro;
+
+Coordinación Regional Culiacán, Sinaloa;
+
+Coordinación Regional Guadalajara, Jalisco;
+
+Coordinación Regional Hermosillo, Sonora;
+
+Coordinación Regional Querétaro, Querétaro;
+
+Coordinación Regional Monterrey, Nuevo León;
+
+Coordinación Regional Tijuana, Baja California;
+
+Coordinación Regional Tuxtla Gutiérrez, Chiapas, y
+
+Coordinación Regional Veracruz, Veracruz.
+
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
 V. Administraciones Titulares:
 
 Adscritas a las Coordinaciones Regionales:
 
-Administración Titular de Recepción y Jurídica, y
+Administración Titular Jurídica y de Recepción, y
 
 Administración Titular de Recuperación.
 
@@ -575,11 +617,15 @@ I. Diseñar, definir, modificar, evaluar y controlar la Mecánica y los Programa
 
 II. Definir las Directrices y establecer las prioridades para el cumplimiento de los Programas en materia de Administración, enajenación, asignación y Destino de Bienes, considerando las capacidades internas y canales de distribución de los mismos;
 
-III. Proponer al Director General, en coordinación con la Dirección Corporativa de Operación y con la Dirección Corporativa de Mercadotecnia y Comercialización, según corresponda, el nombramiento y remoción de los servidores públicos que ocupen cargos en el SAE y sus Encargos, relacionados con la Administración, asignación, enajenación, regularización y Destino de Bienes;
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-IV. Supervisar la integración del presupuesto, el ejercicio de gasto, el flujo de efectivo y la generación de ingresos relacionados con la Administración, enajenación, asignación y Destino de Bienes, y
+III. Definir las Políticas en materia de registro y recepción de Bienes;
 
-V. Convocar a las unidades administrativas competentes del SAE, con la finalidad de dar seguimiento a las Mecánicas relacionadas con la Administración, enajenación, asignación y Destino de Bienes, e integrar la información necesaria para la rendición de cuentas a las Entidades Transferentes.
+IV. Proponer al Director General, en coordinación con la Dirección Corporativa de Operación y con la Dirección Corporativa de Mercadotecnia y Comercialización, según corresponda, el nombramiento y remoción de los servidores públicos que ocupen cargos en el SAE y sus Encargos, relacionados con la Administración, asignación, enajenación, regularización y Destino de Bienes;
+
+V. Supervisar la integración del presupuesto, el ejercicio de gasto, el flujo de efectivo y la generación de ingresos relacionados con la Administración, enajenación, asignación y Destino de Bienes, y
+
+VI. Convocar a las unidades administrativas competentes del SAE, con la finalidad de dar seguimiento a las Mecánicas relacionadas con la Administración, enajenación, asignación y Destino de Bienes, e integrar la información necesaria para la rendición de cuentas a las Entidades Transferentes.
 
 ###### ARTICULO 20.
 
@@ -921,9 +967,15 @@ XXII. Certificar copias de los documentos que obren en sus respectivos archivos;
 
 XXIII. Informar a las Direcciones Corporativas competentes, sobre el desarrollo de las actividades realizadas directamente y a través de las unidades administrativas de su adscripción;
 
-XXIV. Elaborar los reportes de las operaciones que tengan efectos sobre la contabilidad y flujos de efectivo de los Encargos, y
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-XXV. Ejercer las demás atribuciones que deriven de las disposiciones legales y administrativas aplicables, así como atender los demás asuntos que le encomiende el Director General o la Dirección Corporativa competente.
+XXIV. Elaborar los reportes de las operaciones que tengan efectos sobre la contabilidad y flujos de efectivo de los Encargos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XXV. Ejercer directamente las atribuciones y funciones que este Estatuto Orgánico y las demás disposiciones aplicables confieren a las unidades administrativas de su adscripción, y
+
+XXVI. Ejercer las demás atribuciones que deriven de las disposiciones legales y administrativas aplicables, así como atender los demás asuntos que le encomiende el Director General o la Dirección Corporativa competente.
 
 ###### ARTICULO 29.
 
@@ -1075,11 +1127,13 @@ III. Elaborar, recomendar e implementar las Políticas, Procedimientos y Mecáni
 
 IV. Elaborar, supervisar y ejecutar los Planes de Trabajo para la Administración, entrega o devolución, de las Empresas en Administración y en concurso mercantil;
 
-V. Dictaminar la recepción de Empresas para aceptar la Administración, el nombramiento de conciliador o de síndico en el concurso mercantil;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
+V. Supervisar la dictaminación de la recepción de Empresas para, en su caso, aceptar la Administración, el nombramiento de conciliador o de síndico en el concurso mercantil;
 
-VI. Implementar la dictaminación y devolución de Empresas aseguradas en procedimientos penales federales, de sus remanentes o el valor de los mismos cuando exista imposibilidad para devolverlas en operación;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+VI. Supervisar la dictaminación e implementar la devolución de Empresas aseguradas en procedimientos penales federales, de sus remanentes o el valor de los mismos cuando exista imposibilidad para devolverlas en operación;
 
 VII. Administrar las Empresas, así como proponer su Destino;
 
@@ -1095,15 +1149,17 @@ XII. Dictaminar y/o elaborar los convenios de Administración de Empresas en Adm
 
 XIII. Coordinar los aspectos jurídicos relacionados con las Empresas en Administración y con los concursos mercantiles;
 
-XIV. Tramitar la inscripción del nombramiento de administradores e interventores de Empresas en Administración y en concurso mercantil, en el Registro que corresponda;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XIV. Supervisar la tramitación de la inscripción del nombramiento de administradores e interventores de Empresas en Administración y en concurso mercantil, en el Registro que corresponda;
 
 > <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
 
 XV. Conducir y supervisar el seguimiento de los procesos de concurso mercantil;
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-XVI. Tramitar la formalización ante fedatario público, de los actos jurídicos de su competencia;
+XVI. Supervisar la tramitación de la formalización ante fedatario público, de los actos jurídicos de su competencia;
 
 > <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 2005)</small>
 
@@ -1125,7 +1181,9 @@ III. Elaborar, recomendar e implementar las Políticas, Procedimientos y Mecáni
 
 IV. Elaborar, supervisar y ejecutar los Planes de Trabajo para la liquidación de Empresas;
 
-V. Dictaminar la recepción de Empresas para, en su caso, aceptar el encargo de liquidador, así como para la elaboración de las actas de entrega-recepción respectivas;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+V. Supervisar la dictaminación de la recepción de Empresas para, en su caso, aceptar el encargo de liquidador, así como para la elaboración de las actas de entrega-recepción respectivas;
 
 > <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
 
@@ -1137,23 +1195,29 @@ VIII. Verificar la integración y el ejercicio del presupuesto que presenten las
 
 IX. Coordinar los aspectos jurídicos relacionados con las Empresas en liquidación;
 
-X. Tramitar la inscripción del nombramiento de liquidador en el Registro que corresponda;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+X. Supervisar la tramitación de la inscripción del nombramiento de liquidador en el Registro que corresponda;
 
 > <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
 
 XI. Supervisar el seguimiento de los procesos de liquidación de Empresas;
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-XII. Tramitar la formalización ante fedatario público, de los actos jurídicos de su competencia;
+XII. Supervisar la tramitación de la formalización ante fedatario público, de los actos jurídicos de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-XIII. Gestionar las acciones necesarias para la cancelación de los créditos fiscales federales de las Empresas en liquidación, y
+XIII. Gestionar las acciones necesarias para la cancelación de los créditos fiscales federales de las Empresas en liquidación;
 
-> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-XIV. Atender las consultas y requerimientos de información que sobre el proceso de desincorporación de entidades paraestatales, le formulen las autoridades competentes.
+XIV. Atender las consultas y requerimientos de información que sobre el proceso de desincorporación de entidades paraestatales, le formulen las autoridades competentes, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XV. Representar a las Empresas que tengan el carácter de privadas en liquidación en cualquier tipo de controversia judicial, laboral, fiscal, administrativa, arbitral o de amparo, así como coordinar la realización de los actos procesales necesarios para la protección y defensa de los intereses de las mismas.
 
 ###### ARTICULO 36.
 
@@ -1229,7 +1293,9 @@ III. Formular y proponer al Director Corporativo del Proceso de Cartera, las Pol
 
 IV. Negociar y suscribir, mancomunadamente con la Dirección Ejecutiva de Recuperación, convenios judiciales relativos a la recuperación de Activos Financieros;
 
-V. Representar y supervisar que se realicen los actos procesales necesarios para la protección y defensa de los intereses de los Encargos en cualquier tipo de controversia judicial, laboral, fiscal, administrativa, arbitral o de amparo, siempre que no tengan el carácter de autoridad responsable;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+V. Representar y supervisar que se realicen los actos procesales necesarios para la protección y defensa de los intereses de los Encargos, en cualquier tipo de controversia judicial, laboral, fiscal, administrativa, arbitral o de amparo, siempre que no tengan el carácter de autoridad responsable, y tratándose de liquidaciones cuando éstas sean de Empresas que tengan el carácter de públicas;
 
 > <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
 
@@ -1255,77 +1321,83 @@ XI. Instrumentar las Políticas para la elaboración y actualización del libro 
 
 XII. Desahogar las consultas jurídicas que le formulen en materia penal, laboral, contenciosa y de amparo que se refieran a las operaciones de los Encargos, así como solicitar la ratificación de criterio que por su relevancia así lo requiera a la Dirección Corporativa Jurídica y Fiduciaria.
 
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 39.
 
-Corresponde a la Dirección Ejecutiva de Administración de Bienes, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección Ejecutiva de Bienes Inmuebles, el ejercicio de las siguientes atribuciones:
 
-I. Instrumentar y ejecutar los Programas para la Administración y regularización de Bienes;
+I. Instrumentar y ejecutar los Programas para la Administración, donación, asignación, Destino y regularización de los bienes inmuebles transferidos al SAE o que provengan de alguno de sus Encargos, a excepción de aquellos que sean competencia de otra unidad administrativa;
 
-II. Elaborar, recomendar e implementar las Políticas, Procedimientos y Mecánicas para la Administración y regularización de Bienes;
+II. Elaborar, recomendar, implementar, verificar la aplicación y supervisar los Programas, Políticas, Procedimientos y Mecánicas para la Administración, donación, asignación, Destino y regularización de los bienes inmuebles señalados en la fracción I de este artículo;
 
-III. Elaborar, supervisar y ejecutar los Planes de Trabajo para la Administración y regularización de Bienes;
+III. Elaborar, supervisar y ejecutar los Planes de Trabajo para la Administración, donación, asignación, Destino y regularización de los bienes inmuebles señalados en la fracción I de este artículo;
 
-IV. Solicitar la elaboración de autentificaciones y avalúos de Bienes;
+IV. Supervisar la dictaminación sobre la procedencia jurídica de la recepción y devolución de los bienes inmuebles que pretendan ser o hayan sido transferidos al SAE, según corresponda, así como supervisar que se resuelva sobre la situación jurídica de los mismos e implementar su Administración, donación, asignación o Destino;
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
+V. Recibir física y jurídicamente los bienes inmuebles transferidos al SAE a que se refiere la fracción I de este artículo;
 
-V. Administrar los Bienes y contratar, directamente o a través de los depositarios correspondientes, los seguros que se requieran para los mismos;
+VI. Administrar los bienes inmuebles señalados en la fracción I de este artículo;
 
-VI. Dictaminar la incosteabilidad de Bienes en Administración;
+VII. Solicitar al Instituto de Administración y Avalúos de Bienes Nacionales, peritos, instituciones de crédito, agentes especializados o corredores públicos, la elaboración de avalúos de los bienes inmuebles señalados en la fracción I de este artículo;
 
-VII. Coordinar los aspectos jurídicos relacionados con la Administración y regularización de Bienes;
+VIII. Contratar los seguros y los servicios de vigilancia que requieran los Bienes;
 
-VIII. Registrar y controlar los depósitos de numerario asegurado o decomisado en procedimientos penales federales;
+IX. Dictaminar la incosteabilidad de los bienes inmuebles referidos en la fracción I de este artículo, transferidos al SAE;
 
-IX. Administrar los almacenes para la guarda y custodia de Bienes, así como realizar y controlar el inventario de Bienes en Administración;
+X. Supervisar la dictaminación sobre la situación jurídica de los bienes inmuebles irregulares objeto de un procedimiento judicial o en proceso de regularización o formalización, señalados en la fracción I de este artículo;
 
-X. Instrumentar, tramitar y resolver el procedimiento de declaración de abandono de Bienes;
+XI. Supervisar la tramitación de la regularización jurídica y administrativa de los bienes inmuebles señalados en la fracción I de este artículo, incluyendo adjudicaciones judiciales y daciones en pago;
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
+XII. Dictaminar, elaborar y suscribir los contratos de depositaria y arrendamiento que celebre el SAE respecto de los Bienes, así como sus modificaciones;
 
-XI. Dictaminar, elaborar y suscribir los convenios de depositaría y arrendamiento de Bienes que celebre el SAE, así como sus modificaciones;
+XIII. Solicitar al Registro Público de la Propiedad que corresponda la inscripción del nombramiento de depositario de los bienes inmuebles señalados en la fracción I de este artículo;
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
+XIV. Coordinar los demás aspectos jurídicos relacionados con la Administración, donación, asignación, Destino y regularización de los bienes inmuebles señalados en la fracción I de este artículo;
 
-XII. Tramitar la inscripción del nombramiento de depositarios de Bienes en el Registro que corresponda;
+XV. Supervisar la tramitación del otorgamiento de la posesión de los bienes inmuebles señalados en la fracción I de este artículo, cuando medie orden de autoridad judicial o administrativa competente o cuando éstos hayan sido enajenados o asignados;
 
-> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 2005)</small>
+XVI. Llevar a cabo la administración de los contratos celebrados con terceros especializados respecto de los bienes inmuebles señalados en la fracción I de este artículo, y
 
-XIII. Tramitar ante fedatario público, cuando corresponda, la formalización de la venta de Bienes que realice el SAE o cuando le sea encomendada dicha formalización, y
+XVII. Suscribir los documentos necesarios para formalizar las recepciones, donaciones, asignaciones y Destino de los bienes inmuebles señalados en la fracción I de este artículo, que realice el SAE o que le hayan sido encomendadas, incluyendo las formalizaciones privadas y ante fedatario público.
 
-> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 2005)</small>
-
-XIV. Tramitar el otorgamiento de la posesión de los Bienes, cuando medie orden de autoridad judicial o administrativa competente o cuando éstos hayan sido enajenados.
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 40.
 
-Corresponde a la Dirección Ejecutiva de Recepción y Destino de Bienes, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección Ejecutiva de Bienes Muebles, el ejercicio de las siguientes atribuciones:
 
-I. Recibir física y jurídicamente los Bienes;
+I. Instrumentar y ejecutar los Programas para la Administración, donación, asignación, Destino y regularización de los bienes muebles transferidos al SAE o que provengan de alguno de sus Encargos, a excepción de aquellos que sean competencia de otra unidad administrativa;
 
-II. Instrumentar y ejecutar los Programas para la recepción, donación, asignación y Destino de Bienes;
+II. Elaborar, recomendar, implementar, verificar y supervisar los Programas, Políticas, Procedimientos y Mecánicas para la Administración, donación, asignación, Destino y regularización de los bienes muebles señalados en la fracción I de este artículo;
 
-III. Elaborar, recomendar e implementar las Políticas, Procedimientos y Mecánicas para la recepción, donación, asignación y Destino de Bienes;
+III. Elaborar, supervisar y ejecutar los Planes de Trabajo para la Administración, donación, asignación, Destino y regularización de los bienes muebles señalados en la fracción I de este artículo;
 
-IV. Elaborar, supervisar y ejecutar los Planes de Trabajo para la recepción, donación, asignación y Destino de Bienes;
+IV. Supervisar la dictaminación sobre la procedencia jurídica de la recepción y devolución de los bienes muebles que pretendan ser o hayan sido transferidos al SAE, según corresponda, así como supervisar que se resuelva sobre la situación jurídica de los mismos e implementar su Administración, donación, asignación o Destino;
 
-V. Dictaminar la procedencia jurídica de la recepción y devolución de Bienes, así como resolver sobre la situación jurídica de los mismos e implementar la recepción, donación, asignación y Destino de Bienes;
+V. Recibir física y jurídicamente los bienes muebles transferidos al SAE señalados en la fracción I de este artículo;
 
-VI. Recomendar para la autorización del Director General la destrucción de Bienes e implementar las acciones necesarias para su cumplimiento;
+VI. Administrar los bienes muebles señalados en la fracción I de este artículo;
 
-VII. Coordinar los aspectos jurídicos relacionados con la recepción, donación, asignación y Destino de Bienes;
+VII. Administrar los depósitos de numerario asegurado o decomisado en procedimientos penales federales;
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
+VIII. Solicitar al Instituto de Administración y Avalúos de Bienes Nacionales, peritos, instituciones de crédito, agentes especializados o corredores públicos, según corresponda, la elaboración de autentificaciones y avalúos de los bienes muebles señalados en la fracción I de este artículo;
 
-VIII. Tramitar la formalización de las donaciones y asignaciones que realice el SAE o cuando le sea encomendada dicha formalización;
+IX. Dictaminar la incosteabilidad de los bienes muebles transferidos al SAE señalados en la fracción I de este artículo;
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
+X. Instrumentar, tramitar y resolver el procedimiento de declaración de abandono de los Bienes transferidos al SAE;
 
-IX. Suscribir los documentos necesarios para formalizar las recepciones, donaciones, asignaciones y Destino de Bienes que realice el SAE o que le hayan sido encomendadas, y
+XI. Recomendar para la autorización del Director General la destrucción de los bienes muebles transferidos al SAE e implementar las acciones necesarias para su cumplimiento;
 
-> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 2005)</small>
+XII. Coordinar los demás aspectos jurídicos relacionados con la Administración, donación, asignación, Destino y regularización de los bienes muebles señalados en la fracción I de este artículo;
 
-X. En su caso, entregar el valor de los Bienes cuando exista imposibilidad para devolverlos.
+XIII. Tramitar el otorgamiento de la posesión de los bienes muebles señalados en la fracción I de este artículo, cuando medie orden de autoridad judicial o administrativa competente o cuando éstos hayan sido enajenados o asignados;
+
+XIV. En su caso, entregar a quien corresponda el valor de los Bienes transferidos al SAE, cuando exista imposibilidad para devolverlos;
+
+XV. Llevar a cabo la administración de los contratos celebrados con terceros especializados respecto de los bienes muebles señalados en la fracción I de este artículo, y
+
+XVI. Suscribir los documentos necesarios para formalizar las recepciones, donaciones, asignaciones y Destino de los bienes muebles señalados en la fracción I de este artículo, que realice el SAE o que le hayan sido encomendadas.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JULIO DE 2005)</small>
 
@@ -1335,19 +1407,37 @@ Corresponde a la Dirección Ejecutiva de Coordinaciones Regionales, el ejercicio
 
 I. Supervisar la ejecución de los Programas institucionales en el ámbito de las Coordinaciones Regionales;
 
-II. Implementar las Políticas y Procedimientos para la dictaminación, recepción, donación, asignación, comercialización y Destino de Bienes, Activos Financieros y Empresas en el ámbito de las Coordinaciones Regionales, con apego a las Políticas y Procedimientos de las unidades centrales;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-III. Coordinar, supervisar y controlar a las Coordinaciones Regionales en los Procedimientos de dictaminación, recepción, donación, asignación, comercialización y Destino de Bienes y Empresas, así como de recuperación de Activos Financieros;
+II. Implementar las Políticas y Procedimientos para la dictaminación, Administración, donación, asignación, comercialización y Destino de Bienes, Activos Financieros y Empresas en el ámbito de las Coordinaciones Regionales, con apego a la (sic) Políticas y Procedimientos de las unidades centrales;
 
-IV. Implementar en el ámbito de su competencia, metodologías y criterios técnicos que coadyuven al logro de los objetivos institucionales y aplicar el sistema de medición de resultados regionalmente;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+III. Coordinar, supervisar y controlar a las Coordinaciones Regionales en los Procedimientos de dictaminación, Administración, donación, asignación, comercialización y Destino de Bienes y Empresas, así como de recuperación de Activos Financieros;
+
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+IV. Implementar en el ámbito de su competencia, metodologías y criterios técnicos que coadyuven al logro de los objetivos institucionales y aplicar mecanismos de medición de resultados regionalmente;
 
 V. Coordinar y supervisar la atención y seguimiento a los requerimientos que las unidades administrativas centrales hagan a las Coordinaciones Regionales;
 
 VI. Coordinar los aspectos jurídicos relacionados con las Coordinaciones Regionales;
 
-VII. Supervisar y controlar a las Coordinaciones Regionales, respecto de los contratos que celebren con prestadores de servicios en el ámbito de su competencia, y
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-VIII. Realizar visitas e inspecciones a las Coordinaciones Regionales, para supervisar su desempeño y cumplimiento de los Planes de Trabajo.
+VII. Supervisar y controlar a las Coordinaciones Regionales, respecto de los contratos que celebren con prestadores de servicios en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+VIII. Realizar visitas e inspecciones a las Coordinaciones Regionales, para supervisar su desempeño y cumplimiento de los Planes de Trabajo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+IX. Proponer mejoras a las estrategias, Programas, Políticas, Procedimientos, Mecánicas y Planes de Trabajo definidos por las unidades administrativas competentes para la operación regional, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+X. Formular a las unidades administrativas competentes de la Dirección Corporativa de Operación consultas jurídicas derivadas de la operación regional, con el fin de uniformar criterios.
 
 ###### ARTICULO 42.
 
@@ -1475,9 +1565,9 @@ XI. Representar al SAE en los Procedimientos de adquisición y arrendamiento de 
 
 XII. Elaborar, implementar y ejecutar la Mecánica, Políticas y Procedimientos para cumplir con las obligaciones de pago derivadas de la operación del SAE;
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-XIII. Administrar y conservar los bienes muebles e inmuebles del SAE o que estén bajo su cuidado, así como contratar los seguros que se requieran para los mismos;
+XIII. Administrar y conservar los bienes muebles e inmuebles del SAE o que estén bajo su uso, así como contratar los seguros que se requieran para los mismos;
 
 XIV. Integrar y administrar el programa anual de adquisiciones, arrendamientos y servicios, el de obra pública y servicios relacionados con la misma, así como operar el suministro de los bienes y servicios requeridos por las unidades administrativas del SAE, con apego a las medidas de administración del gasto emitidas por las autoridades correspondientes;
 
@@ -1531,11 +1621,109 @@ IX. Elaborar e implementar el plan de contingencia que le permita al SAE asegura
 
 X. Controlar el cumplimiento de la legislación en materia de derechos de autor y propiedad industrial, respecto de los sistemas y Programas informáticos del SAE.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+### CAPITULO VII BIS. De las Coordinaciones Jurídicas
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+ARTICULO 47 bis.- Corresponde a la Coordinación Jurídica de Empresas Aseguradas y Concursos Mercantiles, el ejercicio de las siguientes atribuciones:
+
+I. Dictaminar jurídicamente sobre la recepción y devolución de Empresas a cargo de la Dirección Ejecutiva de Administración de Empresas y Concursos Mercantiles, así como sancionar jurídicamente las respectivas actas de entrega recepción;
+
+II. Dictaminar jurídicamente los proyectos de lineamientos, procedimientos, normatividad y, en general todos los asuntos que se presenten a consideración de los distintos órganos de decisión en el SAE, competencia de la Dirección Ejecutiva de Administración de Empresas y Concursos Mercantiles, salvo los que deban presentarse a la Junta de Gobierno;
+
+III. Desahogar las consultas jurídicas que le sean formuladas en relación con la operación de Empresas en Administración o en concurso mercantil, así como solicitar la ratificación de criterio a la Dirección Corporativa Jurídica y Fiduciaria, cuando por su relevancia así se requiera;
+
+IV. Sancionar jurídicamente las actas de asambleas de accionistas, convenios, contratos y demás instrumentos jurídicos de las Empresas aseguradas o en concurso mercantil;
+
+V. Representar a las Empresas a cargo de la Dirección Ejecutiva de Administración de Empresas y Concursos Mercantiles en cualquier tipo de controversia judicial, laboral, fiscal, administrativa, arbitral o de amparo; así como supervisar que los terceros especializados realicen los actos procesales necesarios para la protección y defensa de los intereses de las mismas;
+
+VI. Representar al SAE y supervisar que se realicen los actos procesales necesarios para la protección y defensa de los intereses del mismo en cualquier tipo de controversia judicial, laboral, fiscal, administrativa o arbitral, que sea promovida por terceros por actos derivados del ejercicio de las funciones de la Dirección Ejecutiva de Administración de Empresas y Concursos Mercantiles, siempre y cuando no se actúe dentro del juicio de amparo con el carácter de Autoridad Responsable;
+
+VII. Tramitar la inscripción del nombramiento de administradores e interventores de Empresas en Administración y en concurso mercantil, en el Registro que corresponda;
+
+VIII. Tramitar la formalización privada y ante fedatario público de los actos jurídicos competencia de la Dirección Ejecutiva de Administración de Empresas y Concursos Mercantiles y sancionar los proyectos de escrituras correspondientes;
+
+IX. Analizar, dictaminar y tramitar los demás asuntos jurídicos de Empresas en Administración y en concurso mercantil, y
+
+X. Atender los demás asuntos que le encomiende el Director General, el Director Corporativo de Operación, el Director Corporativo del Proceso de Empresas, el Director Corporativo Jurídico y Fiduciario o el Director Ejecutivo de Administración de Empresas y Concursos Mercantiles.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+ARTICULO 47 ter.- Corresponde a la Coordinación Jurídica de Operación y Administración de Empresas, el ejercicio de las siguientes atribuciones:
+
+I. Dictaminar jurídicamente sobre la recepción de Empresas a cargo de la Dirección Ejecutiva de Liquidación de Empresas, así como sancionar jurídicamente las respectivas actas de entrega recepción;
+
+II. Dictaminar jurídicamente los proyectos de lineamientos, procedimientos, normatividad y, en general todos los asuntos que se presenten a consideración de los distintos órganos de decisión en el SAE, competencia de la Dirección Ejecutiva de Liquidación de Empresas, previo dictamen, en su caso, del área jurídica de la Empresa en liquidación que corresponda, salvo los que deban presentarse a la Junta de Gobierno;
+
+III. Desahogar las consultas jurídicas que le sean formuladas en relación con la liquidación de Empresas, previo dictamen, en su caso, del área jurídica de la Empresa en liquidación que corresponda; así como solicitar la ratificación de criterio a la Dirección Corporativa Jurídica y Fiduciaria, cuando por su relevancia así se requiera;
+
+IV. Sancionar jurídicamente las actas de asambleas de accionistas, convenios, contratos y demás instrumentos jurídicos de las Empresas en liquidación, previo dictamen, en su caso, del área jurídica de la Empresa en liquidación que corresponda;
+
+V. Representar a las Empresas que tengan el carácter de privadas en liquidación en cualquier tipo de controversia judicial, laboral, fiscal, administrativa, arbitral o de amparo; así como supervisar que se realicen los actos procesales necesarios para la protección y defensa de los intereses de las mismas;
+
+VI. Representar al SAE y supervisar que se realicen los actos procesales necesarios para la protección y defensa de los intereses del mismo en cualquier tipo de controversia judicial, laboral, fiscal, administrativa o arbitral, que sea promovida por terceros por actos derivados del ejercicio de las funciones de la Dirección Ejecutiva de Liquidación de Empresas, siempre y cuando no se actúe dentro del juicio de amparo con el carácter de Autoridad Responsable;
+
+VII. Coadyuvar en la gestión de las acciones necesarias para la extinción de los créditos fiscales de las Empresas en liquidación;
+
+VIII. Tramitar la formalización privada y ante fedatario público de los actos jurídicos competencia de la Dirección Ejecutiva de Liquidación de Empresas y sancionar los proyectos de escrituras correspondientes;
+
+IX. Tramitar la inscripción del nombramiento del SAE como liquidador en el Registro Público que corresponda;
+
+X. Difundir la normatividad interna del SAE aplicable a las actividades de la Dirección Ejecutiva de Liquidación de Empresas, así como a las Empresas en liquidación;
+
+XI. Analizar, dictaminar y tramitar los demás asuntos jurídicos de Empresas en liquidación, y
+
+XII. Atender los demás asuntos que le encomiende el Director General, el Director Corporativo de Operación, el Director Corporativo del Proceso de Empresas, el Director Corporativo Jurídico y Fiduciario o el Director Ejecutivo de Liquidación de Empresas.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+ARTICULO 47 quáter.- Corresponde a la Coordinación Jurídica de Bienes Inmuebles, el ejercicio de las siguientes atribuciones:
+
+I. Dictaminar jurídicamente sobre la recepción y devolución de los bienes inmuebles a cargo de la Dirección Ejecutiva de Bienes Inmuebles, así como sancionar jurídicamente las respectivas actas de entrega recepción;
+
+II. Dictaminar la situación jurídica de los bienes inmuebles a cargo de la Dirección Ejecutiva de Bienes Inmuebles;
+
+III. Dictaminar jurídicamente los proyectos de lineamientos, procedimientos, normatividad y, en general todos los asuntos que se presenten a consideración de los distintos órganos de decisión en el SAE, competencia de la Dirección Ejecutiva de Bienes Inmuebles, salvo los que deban presentarse a la Junta de Gobierno;
+
+IV. Desahogar las consultas jurídicas que le sean formuladas en relación con la Administración, donación, asignación, Destino y regularización de bienes inmuebles, así como solicitar la ratificación de criterio a la Dirección Corporativa Jurídica y Fiduciaria, cuando por su relevancia así se requiera;
+
+V. Representar al SAE o a sus Encargos y supervisar que se realicen los actos procesales necesarios para la protección y defensa de los intereses de los mismos en cualquier tipo de controversia judicial, laboral, fiscal, administrativa o arbitral, que sea promovida por terceros por actos derivados del ejercicio de las funciones de la Dirección Ejecutiva de Bienes Inmuebles, siempre y cuando no se actúe dentro del juicio de amparo con el carácter de Autoridad Responsable;
+
+VI. Elaborar o revisar y sancionar los instrumentos jurídicos que suscriba el SAE o sus Encargos respecto de los bienes inmuebles a cargo de la Dirección Ejecutiva de Bienes Inmuebles;
+
+VII. Tramitar la formalización privada y ante fedatario público, según corresponda, de la venta, donación o asignación de los bienes inmuebles a cargo de la Dirección Ejecutiva de Bienes Inmuebles;
+
+VIII. Tramitar la regularización jurídica de los bienes inmuebles a cargo de la Dirección Ejecutiva de Bienes Inmuebles;
+
+IX. Analizar, dictaminar y tramitar los demás asuntos jurídicos relacionados con la Administración, donación, asignación, Destino y regularización de los bienes inmuebles a cargo de la Dirección Ejecutiva de Bienes Inmuebles, y
+
+X. Atender los demás asuntos que le encomiende el Director General, el Director Corporativo de Operación, el Director Corporativo del Proceso de Bienes, el Director Corporativo Jurídico y Fiduciario o el Director Ejecutivo de Bienes Inmuebles.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+ARTICULO 47 quintus.- Corresponde a la Coordinación Jurídica de Bienes Muebles, el ejercicio de las siguientes atribuciones:
+
+I. Dictaminar jurídicamente sobre la recepción y devolución de los bienes muebles a cargo de la Dirección Ejecutiva de Bienes Muebles, así como sancionar jurídicamente las respectivas actas de entrega recepción;
+
+II. Dictaminar la situación jurídica de los bienes muebles a cargo de la Dirección Ejecutiva de Bienes Muebles;
+
+III. Dictaminar jurídicamente los proyectos de lineamientos, procedimientos, normatividad y, en general todos los asuntos que se presenten a consideración de los distintos órganos de decisión en el SAE, competencia de la Dirección Ejecutiva de Bienes Muebles, salvo los que deban presentarse a la Junta de Gobierno;
+
+IV. Desahogar las consultas jurídicas que le sean formuladas en relación con la Administración, donación, asignación, Destino y regularización de bienes muebles, así como solicitar la ratificación de criterio a la Dirección Corporativa Jurídica y Fiduciaria, cuando por su relevancia así se requiera;
+
+V. Representar al SAE o a sus Encargos y supervisar que se realicen los actos procesales necesarios para la protección y defensa de los intereses de los mismos en cualquier tipo de controversia judicial, laboral, fiscal, administrativa o arbitral, que sea promovida por terceros por actos derivados del ejercicio de las funciones de la Dirección Ejecutiva de Bienes Muebles, siempre y cuando no se actúe dentro del juicio de amparo con el carácter de Autoridad Responsable;
+
+VI. Elaborar o revisar y sancionar los instrumentos jurídicos que suscriba el SAE o sus Encargos respecto de los bienes muebles a cargo de la Dirección Ejecutiva de Bienes Muebles;
+
+VII. Tramitar la formalización de la venta donación o asignación de los bienes muebles a cargo de la Dirección Ejecutiva de Bienes Muebles;
+
+VIII. Analizar, dictaminar y tramitar los demás asuntos jurídicos relacionados con la Administración, donación, asignación, Destino y regularización de los bienes muebles a cargo de la Dirección Ejecutiva de Bienes Muebles, y
+
+IX. Atender los demás asuntos que le encomiende el Director General, el Director Corporativo de Operación, el Director Corporativo del Proceso de Bienes, el Director Corporativo Jurídico y Fiduciario o el Director Ejecutivo de Bienes Muebles.
+
 ### CAPITULO VIII. De las Coordinaciones Regionales
-
-### CAPITULO IX. De las suplencias de los servidores públicos
-
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 48.
 
@@ -1543,7 +1731,9 @@ Corresponde a las Coordinaciones Regionales, el ejercicio de las siguientes atri
 
 I. Instrumentar y ejecutar los Programas institucionales en el ámbito de su competencia;
 
-II. Aplicar las Políticas y Procedimientos en la liberación de garantías, dictaminación, recepción, donación, asignación, comercialización y Destino de Bienes, Activos Financieros y Empresas en el ámbito de su competencia, así como reportar los resultados de su gestión;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+II. Aplicar las Políticas y Procedimientos en la liberación de garantías, dictaminación, Administración, donación, asignación, comercialización y Destino de Bienes, Activos Financieros y Empresas en el ámbito de su competencia, así como reportar los resultados de su gestión;
 
 III. Atender y dar seguimiento a los requerimientos que las unidades administrativas centrales les formulen;
 
@@ -1567,21 +1757,49 @@ XI. Efectuar inspecciones a los Bienes en el ámbito de su competencia, previa i
 
 XII. Rendir los informes previos y justificados en los juicios de amparo cuando sea señalado como autoridad responsable el SAE o cualquiera de sus servidores públicos;
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-XIII. Representar y realizar todos los actos procesales necesarios para la protección y defensa de los intereses del SAE en cualquier tipo de controversias judiciales, laborales, fiscales, administrativas, arbitrales o de amparo siempre que no tenga el carácter de autoridad responsable, en las que el SAE sea parte, previa instrucción de la unidad administrativa competente, y
+XIII. Representar y realizar todos los actos procesales necesarios para la protección y defensa de los intereses del SAE en cualquier tipo de controversias judiciales, laborales, fiscales, administrativas, arbitrales o de amparo, siempre que no tenga el carácter de autoridad responsable, en las que el SAE sea parte, previa instrucción de la unidad administrativa competente;
 
-> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-XIV. Certificar copias de los documentos que obren en sus respectivos archivos.
+XIV. Certificar copias de los documentos que obren en sus respectivos archivos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XV. Supervisar la dictaminación de la procedencia jurídica de la recepción y devolución de Bienes y coordinar su Administración, donación, asignación o Destino, previa instrucción de las unidades administrativas competentes;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XVI. Coordinar la recepción y/o elaboración de dictámenes sobre la incosteabilidad de Bienes en administración, previa instrucción de las unidades administrativas competentes;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XVII. Supervisar la administración a cargo de terceros especializados de los almacenes para la guarda y custodia de Bienes, así como realizar, controlar y supervisar el inventario de Bienes en Administración, de acuerdo con los Programas, Políticas y Procedimientos definidos por la unidad administrativa competente;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XVIII. Supervisar la tramitación de la inscripción del nombramiento de depositario de Bienes, en el Registro que corresponda;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XIX. Supervisar la tramitación de la formalización privada y ante fedatario público, según corresponda y previa instrucción de las unidades administrativas competentes, de la venta, donación o asignación de Bienes que realice el SAE o cuando le sea encomendada dicha formalización, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XX. Supervisar y coordinar la tramitación del otorgamiento de la posesión de los Bienes, cuando medie orden de autoridad judicial o administrativa competente o cuando éstos hayan sido enajenados o asignados.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 49.
 
-Corresponde a la Administración Titular de Recepción y Jurídica, adscrita a las Coordinaciones Regionales, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
+Corresponde a la Administración Titular Jurídica y de Recepción, adscrita a las Coordinaciones Regionales, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
 
 I. Instrumentar y ejecutar los Programas institucionales;
 
-II. Aplicar las Políticas y Procedimientos en la dictaminación, recepción, donación, asignación, comercialización y Destino de Bienes, Activos Financieros y Empresas, así como reportar los resultados de su gestión;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+II. Aplicar las Políticas y Procedimientos en la dictaminación, Administración, donación, asignación, comercialización y Destino de Bienes, Activos Financieros y Empresas, así como reportar los resultados de su gestión;
 
 III. Atender y dar seguimiento a los requerimientos que las unidades administrativas centrales les formulen;
 
@@ -1603,13 +1821,37 @@ X. Supervisar y controlar a los prestadores de servicios con la finalidad de dar
 
 XI. Rendir los informes previos y justificados en los juicios de amparo cuando sea señalado como autoridad responsable el SAE o cualquiera de sus servidores públicos;
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-XII. Representar y realizar todos los actos procesales necesarios para la protección y defensa de los intereses del SAE en cualquier tipo de controversias judiciales, laborales, fiscales, administrativas, arbitrales o de amparo siempre que no tenga el carácter de autoridad responsable, en las que el SAE sea parte, previa instrucción de la unidad administrativa competente, y
+XII. Representar y realizar todos los actos procesales necesarios para la protección y defensa de los intereses del SAE en cualquier tipo de controversias judiciales, laborales, fiscales, administrativas, arbitrales o de amparo, siempre que no tenga el carácter de autoridad responsable, en las que el SAE sea parte, previa instrucción de la unidad administrativa competente;
 
-> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
-XIII. Certificar copias de los documentos que obren en sus respectivos archivos.
+XIII. Certificar copias de los documentos que obren en sus respectivos archivos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XIV. Dictaminar la procedencia jurídica de la recepción y devolución de Bienes e implementar su Administración, donación, asignación y Destino, previa instrucción de las unidades administrativas competentes;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XV. Dictaminar la incosteabilidad de Bienes en Administración, previa instrucción de las unidades administrativas competentes;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XVI. Administrar y supervisar la administración a cargo de terceros especializados de los almacenes para la guarda y custodia de Bienes, así como realizar, controlar y supervisar el inventario de Bienes en Administración, de acuerdo con los Programas, Políticas y Procedimientos definidos por la unidad administrativa competente;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XVII. Tramitar la inscripción del nombramiento de depositario de Bienes, en el Registro que corresponda;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XVIII. Tramitar la formalización privada y ante fedatario público, según corresponda y previa instrucción de las unidades administrativas competentes, de la venta, donación o asignación de Bienes que realice el SAE o cuando le sea encomendada dicha formalización, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+XIX. Tramitar el otorgamiento de la posesión de los Bienes, cuando medie orden de autoridad judicial o administrativa competente o cuando éstos hayan sido enajenados o asignados.
 
 ###### ARTICULO 50.
 
@@ -1617,7 +1859,9 @@ Corresponde a la Administración Titular de Recuperación, adscrita a las Coordi
 
 I. Instrumentar y ejecutar los Programas institucionales;
 
-II. Aplicar las Políticas y Procedimientos en la dictaminación, recepción, donación, asignación, comercialización y Destino de Bienes, Activos Financieros y Empresas, así como reportar los resultados de su gestión;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
+
+II. Aplicar las Políticas y Procedimientos en la dictaminación, Administración, donación, asignación, comercialización y Destino de Bienes, Activos Financieros y Empresas, así como reportar los resultados de su gestión;
 
 III. Atender y dar seguimiento a los requerimientos que las unidades administrativas centrales les formulen;
 
@@ -1632,6 +1876,10 @@ VII. Supervisar y controlar a los prestadores de servicios en el ámbito de su c
 VIII. Efectuar inspecciones a los Bienes, previa instrucción de la unidad administrativa competente, y
 
 IX. Rendir los informes previos y justificados en los juicios de amparo cuando sea señalado como autoridad responsable el SAE o cualquiera de sus servidores públicos.
+
+### CAPITULO IX. De las suplencias de los servidores públicos
+
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 51.
 
@@ -1655,7 +1903,7 @@ Director Corporativo de Planeación Estratégica y Programas Interinstitucionale
 
 Director Corporativo de Finanzas y Administración.
 
-Los Coordinadores Regionales de Guadalajara, Querétaro, Cancún, Veracruz, Tuxtla Gutiérrez, Tijuana, Hermosillo, Centro, Monterrey y Culiacán, suplirán las ausencias del Director General en el ámbito de sus respectivas circunscripciones territoriales.
+Los Coordinadores Regionales Guadalajara, Querétaro, Cancún, Veracruz, Tuxtla Gutiérrez, Tijuana, Hermosillo, Centro, Monterrey y Culiacán, suplirán las ausencias del Director General en el ámbito de sus respectivas circunscripciones territoriales.
 
 La ausencia del Director Corporativo Jurídico y Fiduciario será suplida por los servidores públicos que a continuación se indican, en el orden siguiente:
 
@@ -1685,9 +1933,9 @@ Director Ejecutivo de Operación de Procesos de Cartera.
 
 Director Ejecutivo de Recuperación.
 
-Director Ejecutivo de Administración de Bienes.
+Director Ejecutivo de Bienes Inmuebles.
 
-Director Ejecutivo de Recepción y Destino de Bienes.
+Director Ejecutivo de Bienes Muebles.
 
 Director Ejecutivo de Coordinaciones Regionales.
 
@@ -1711,7 +1959,7 @@ Director Ejecutivo del Cambio y Mejora Institucional.
 
 Las ausencias de los Coordinadores Regionales serán suplidas por los servidores públicos que a continuación se indican, en el orden siguiente:
 
-Administradores Titulares de Recepción y Jurídico.
+Administradores Titulares Jurídicos y de Recepción.
 
 Administradores Titulares de Recuperación.
 
@@ -1750,3 +1998,11 @@ D.O.F. 8 DE SEPTIEMBRE DE 2006.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan a lo dispuesto en el presente Acuerdo.
+
+D.O.F. 23 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hagan al Director Ejecutivo de Administración de Bienes, al Director Ejecutivo de Recepción y Destino de Bienes, a la Dirección Ejecutiva de Administración de Bienes y a la Dirección Ejecutiva de Recepción y Destino de Bienes, en disposiciones jurídicas o administrativas, se entenderán hechas al Director Ejecutivo de Bienes Inmuebles, al Director Ejecutivo de Bienes Muebles, a la Dirección Ejecutiva de Bienes Inmuebles y a la Dirección Ejecutiva de Bienes Muebles, respectivamente.
+
+TERCERO.- Las referencias que se hagan al Administrador Titular de Recepción y Jurídico y a la Administración Titular de Recepción y Jurídica, en disposiciones jurídicas o administrativas, se entenderán hechas al Administrador Titular Jurídico y de Recepción y a la Administración Titular Jurídica y de Recepción, respectivamente.
