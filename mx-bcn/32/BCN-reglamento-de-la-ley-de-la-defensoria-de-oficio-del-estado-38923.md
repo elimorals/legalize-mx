@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-la-defensoria-de-oficio-del-estado-3892
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-16"
-last_updated: "2004-04-16"
+last_updated: "2006-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de abril de 2004.
 
@@ -75,7 +75,9 @@ a) Una Coordinación Operativa;
 
 b) Una Coordinación Administrativa;
 
-c) Coordinaciones por adscripción del Área Civil y Penal;
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
+c) Coordinaciones por adscripción del Área Civil, Penal y Contencioso Administrativo;
 
 d) Defensores de Oficio; y,
 
@@ -189,7 +191,9 @@ XII.- Rendir un informe mensual de actividades al Director; y
 
 XIII.- Los demás asuntos que le encomiende el Director.
 
-#### SECCIÓN III. DE LAS COORDINACIONES DE ÁREA CIVIL Y PENAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
+#### SECCIÓN III. DE LAS COORDINACIONES DE ÁREA CIVIL, PENAL Y ADMINISTRATIVA
 
 ###### ARTÍCULO 10.
 
@@ -215,7 +219,9 @@ VII.- Levantar las actas administrativas de hechos y de cualquier índole, relat
 
 VIII.- Adscribir y reubicar a los Defensores de Oficio, previo acuerdo del Director, conforme a las necesidades de las Coordinaciones de Área;
 
-IX.- Aprobar la prestación de los servicios jurídicos que proporciona la Defensoría, previo estudio socioeconómico que se practique al solicitante, en los casos del orden civil y familiar;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
+IX.- Aprobar la prestación de los servicios jurídicos que proporciona la Defensoría, previo estudio socioeconómico que se practique al solicitante, en los casos del orden civil, familiar y administrativo;
 
 X.- Emitir opinión respecto a las consultas formuladas por el Director;
 
@@ -251,9 +257,11 @@ Para la prestación del servicio de la Defensoría, establecido en el artículo 
 
 Los jubilados, pensionados e indígenas, estarán exentos del estudio socioeconómico a que se refiere el párrafo anterior, cuando no se persiga un beneficio o lucro económico con el servicio solicitado, o cuando el objeto del asunto a patrocinar sea el obtener la titularidad de derechos o la afectación de bien inmueble que forme el único patrimonio familiar y no exceda de siete mil quinientos salarios mínimos.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 14.
 
-La solicitud para que se proporcione patrocinio en materia civil o familiar, deberá presentarse por escrito en los formatos establecidos para tal efecto.
+La solicitud para que se proporcione patrocinio en materia civil, familiar o administrativa, deberá presentarse por escrito en los formatos establecidos para tal efecto.
 
 ###### ARTÍCULO 15.
 
@@ -263,9 +271,11 @@ I.- Una entrevista al solicitante del patrocinio; y
 
 II.- La solicitud y revisión de documentos que acrediten los ingresos del solicitante. Cuando a juicio del Coordinador de Área, los datos obtenidos sean insuficientes para determinar la situación social y económica del solicitante, podrá ordenar la práctica de visitas domiciliarias con el fin de corroborarla.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 16.
 
-El servicio de la Defensoría en materia civil y familiar, no se proporcionará a los solicitantes cuyos ingresos mensuales sean superiores a ciento cuarenta días de salario mínimo general vigente en el Estado de Baja California.
+El servicio de la Defensoría en materia civil y familiar y administrativa, no se proporcionará a los solicitantes cuyos ingresos mensuales sean superiores a ciento noventa días de salario mínimo general vigente en el Estado de Baja California.
 
 ###### ARTÍCULO 17.
 
@@ -277,11 +287,15 @@ En caso de aprobarse el patrocinio, el Coordinador de Área, asignará un Defens
 
 ### CAPÍTULO QUINTO. DE LAS CAUSAS DE NEGACIÓN Y DE LA SUSPENSIÓN DEL SERVICIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 19.
 
-La Defensoría no proporcionará el servicio en trámites judiciales del ramo civil y familiar, en los casos siguientes:
+La Defensoría no proporcionará el servicio en trámites judiciales del ramo civil, familiar y administrativo, en los casos siguientes:
 
-I.- Cuando se acredite que el solicitante percibe ingresos mensuales sean superiores a ciento cuarenta días de salario mínimo general vigente en el Estado de Baja California;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
+I.- Cuando se acredite que el solicitante percibe ingresos mensuales sean superiores a ciento noventa días de salario mínimo general vigente en el Estado de Baja California;
 
 II.- Cuando la pretensión del solicitante sea obtener un lucro o beneficio económico, salvo las excepciones previstas en el artículo 16, fracción II, de la Ley;
 
@@ -476,3 +490,9 @@ EUGENIO ELORDUY WALTHER
 EL SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTÍNEZ AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
