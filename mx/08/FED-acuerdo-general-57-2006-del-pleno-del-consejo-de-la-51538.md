@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2006-11-17"
+last_updated: "2006-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE NOVIEMBRE DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -339,7 +339,9 @@ XXVI.- VIGESIMO SEXTO CIRCUITO:
 
 XXVII.- VIGESIMO SEPTIMO CIRCUITO:
 
-1.- Un tribunal colegiado con residencia en Cancún.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 74/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+1.- Dos tribunales colegiados con residencia en Cancún.
 
 2.- Un tribunal unitario con sede en Cancún.
 
@@ -740,3 +742,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Se faculta a la Comisión de Creación de Nuevos Órganos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de México, con sede en Naucalpan de Juárez, con motivo del inicio de funciones del Juzgado Decimoprimero de Distrito en el Estado de México, con residencia en Naucalpan de Juárez.
+
+D.O.F. 24 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los tribunales colegiados del Vigésimo Séptimo Circuito, con motivo del inicio de funciones del nuevo órgano jurisdiccional.
