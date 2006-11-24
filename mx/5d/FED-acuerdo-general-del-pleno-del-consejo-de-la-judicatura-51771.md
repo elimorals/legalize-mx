@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51771"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2006-10-03"
+last_updated: "2006-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE NOVIEMBRE DE 2006.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -229,7 +229,9 @@ Al día siguiente, en la hora fijada en el citatorio, el notificador se constitu
 
 Si a quien se busca se niega a recibir la notificación, o las personas que se encuentran en el domicilio se rehúsan a recibir el citatorio o no se encuentra nadie en el lugar, éste se fijará en la puerta de entrada y de ello se asentará razón.
 
-Cuando se desconozca el domicilio particular del probable responsable que deba notificarse personalmente, por no corresponder al que se tiene registrado en su expediente, se dará cuenta al titular de la Contraloría para que dicte las medidas que estime pertinentes con el propósito de que se investigue su domicilio. Si a pesar de la investigación no se logra conocerlo, la primera notificación se hará por edictos, de conformidad con lo previsto en el artículo 315 del Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+Cuando se desconozca el domicilio particular del probable responsable que deba notificarse personalmente, por no corresponder al que se tiene registrado en su expediente, se dará cuenta al titular de la Contraloría para que dicte las medidas que estime pertinentes con el propósito de que se investigue su domicilio. Si a pesar de la investigación no se logra conocerlo, el procedimiento se suspenderá de oficio conforme al artículo 103, inciso b), de este Acuerdo.
 
 Las notificaciones personales también podrán realizarse por comparecencia del interesado o su autorizado ante el órgano que corresponda.
 
@@ -253,9 +255,11 @@ Por regla general las notificaciones surtirán sus efectos al día siguiente al 
 
 En los procedimientos disciplinarios instaurados en contra de servidores públicos adscritos a órganos administrativos del Consejo y de las oficinas de correspondencia común de los órganos jurisdiccionales, las notificaciones se harán por conducto de la Dirección General de Responsabilidades.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 28.
 
-En los procedimientos de responsabilidad administrativa instaurados en contra de magistrados de circuito y jueces de distrito, las notificaciones se harán por conducto de la Secretaría Ejecutiva de Disciplina.
+En los procedimientos de responsabilidad administrativa instaurados en contra de magistrados de circuito y jueces de distrito, a que se refiere el Título Tercero, Capítulo II de este Acuerdo, las notificaciones se harán por conducto de la Secretaría Ejecutiva de Disciplina.
 
 ###### Artículo 29.
 
@@ -379,9 +383,11 @@ La sanción consistente en destitución del puesto se aplicará a los servidores
 
 Para los efectos del presente Acuerdo, se considerarán como faltas graves el incumplimiento de las obligaciones previstas en los artículos 101 de la Constitución y 8, fracciones VIII, X a XIV, XVI, XXII y XXIII, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; así como la comisión de las conductas previstas en las fracciones I a VI del artículo 131 de la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 44.
 
-Para la imposición de las sanciones administrativas se tomarán en cuenta, además de los elementos propios del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta, los que a continuación se refieren:
+Para la individualización de las sanciones administrativas se tomarán en cuenta, además de los elementos propios del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta, los que a continuación se refieren:
 
 I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de este Acuerdo o las que se dicten con base en él;
 
@@ -394,6 +400,10 @@ IV. Las condiciones exteriores y los medios de ejecución;
 V. La reincidencia en el incumplimiento de obligaciones; y
 
 VI. El monto del beneficio o lucro obtenido, o del daño o perjuicio ocasionado, derivado de la conducta que se pretende sancionar.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+Tratándose de las sanciones establecidas en el artículo 37 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, para su individualización deberá tomarse en cuenta la diversa gravedad que revela el hecho de que ya iniciado el procedimiento por falta de la declaración de situación patrimonial, se advierta que ésta se presentó de manera extemporánea, antes de iniciado dicho procedimiento o durante su tramitación, o bien, no se hubiera subsanado la omisión en el cumplimiento de una obligación de esa naturaleza.
 
 ###### Artículo 45.
 
@@ -559,7 +569,9 @@ Las pruebas se irán desahogando conforme se vayan ofreciendo y admitiendo, para
 
 La audiencia se celebrará con o sin asistencia de las partes y no podrá suspenderse, salvo que exista causa justificada para ello.
 
-#### Sección IV. De las Resoluciones
+> <small>(REFORMADA SU DENOMINACION POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+#### Sección IV. De las Resoluciones y Sanciones
 
 ###### Artículo 75.
 
@@ -588,6 +600,36 @@ En las resoluciones que pongan fin a los procedimientos de responsabilidad admin
 ###### Artículo 81.
 
 Al momento de pronunciarse la resolución dentro de un procedimiento administrativo de responsabilidad, en el que se haya acreditado la falta imputada al servidor público, el Pleno podrá dictar las medidas que considere convenientes para la corrección o remedio inmediato de la irregularidad o irregularidades imputadas, independientemente de la sanción que aquél decida imponer al servidor público en contra de quien se integró la inconformidad.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 81-A.
+
+Para la ejecución de las sanciones previstas en el artículo 39 de este Reglamento, se observarán las siguientes reglas:
+
+I. Apercibimiento privado o amonestación privada. Se ejecutará por oficio y corresponderá al titular de la Contraloría hacer efectiva la sanción;
+
+II. Apercibimiento público o amonestación pública. Se ejecutará citando al servidor público con el apoyo del titular de la unidad a la que se encuentre adscrito en la sede de ésta, en donde el funcionario designado por la Contraloría hará efectiva la sanción ante la presencia del personal adscrito a aquélla;
+
+III. Suspensión del empleo, cargo o comisión. La Contraloría la notificará personalmente y dará aviso a la Dirección General de Recursos Humanos para los efectos legales conducentes;
+
+IV. Sanción económica. El titular de la Contraloría deberá comunicar a la Dirección General de Recursos Humanos para que ésta, a su vez, lleve a cabo las retenciones necesarias a fin de hacerla efectiva. En caso de que no exista la posibilidad de cobrarla aplicándola a percepciones pendientes de pago, se deberá solicitar a la Dirección General de Asuntos Jurídicos desarrolle el respectivo procedimiento económico coactivo;
+
+V. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público. La Contraloría notificará personalmente al servidor público y dará aviso a la Dirección General de Recursos Humanos y, en su caso, al titular correspondiente, así como a la Secretaría de la Función Pública y a las Controlarías de los Estados; y
+
+VI. Destitución del puesto. Se dará a conocer al servidor público la sanción a través de notificación por oficio con copia de la resolución. La Contraloría dará aviso a la Dirección General de Recursos Humanos y, en su caso, al titular correspondiente, así como a la Secretaría de la Función Pública y a las Controlarías de los Estados.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 81-B.
+
+Si el Pleno o la Comisión de Disciplina estimaren que la queja fue interpuesta sin motivo, se estará a lo dispuesto en el artículo 126-B de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 81-C.
+
+El procedimiento previsto en el Título Octavo de la Ley y en el presente Acuerdo se seguirá también para la tramitación de las faltas administrativas previstas en el artículo 38 de la Ley Federal de Defensoría Pública; para las faltas que se atribuyan al Director General y a los miembros de la Junta Directiva del Instituto Federal de Defensoría Pública; así como para las faltas que se atribuyan al Director General del Instituto de la Judicatura Federal.
 
 ### Capítulo II. Del Procedimiento Disciplinario Instaurado en contra de Magistrados de Circuito y Jueces de Distrito
 
@@ -707,9 +749,11 @@ II. Cuando la queja o denuncia se promueva en contra de un ex-servidor público 
 
 III. Cuando el servidor público que deba rendirlo lo solicite justificadamente, en cuyo caso se podrán conceder cinco días más.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 102.
 
-Si el servidor público a quien se solicita el informe se encuentra de vacaciones, el plazo para rendirlo comenzará a contar a partir del primer día en que se reintegre a sus labores; y, en el supuesto de que el informe deba rendirlo algún servidor público, que por cualquier causa se encuentre gozando de vacaciones o de una licencia, el plazo se empezará a computar a partir del día siguiente al en que concluyan. Lo anterior, sin perjuicio de las disposiciones que sobre prescripción establezca la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Si el servidor público a quien se solicita el informe se encuentra de vacaciones, el plazo para rendirlo comenzará a contar a partir del primer día en que se reintegre a sus labores; y, en el supuesto de que el informe deba rendirlo algún servidor público, que por cualquier causa se encuentre gozando una licencia, el plazo se empezará a computar a partir del día siguiente al en que concluya. Lo anterior, sin perjuicio de las disposiciones que sobre prescripción establezca la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
 ###### Artículo 103.
 
@@ -777,7 +821,9 @@ III. Cuando esos procedimientos resuelvan, total o parcialmente, una misma contr
 
 IV. En los casos que así se determine razonadamente.
 
-#### Sección V. De las Resoluciones
+> <small>(REFORMADA SU DENOMINACION POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+#### Sección V. De las Resoluciones y Sanciones
 
 ###### Artículo 112.
 
@@ -846,6 +892,30 @@ Cuando el Consejero ponente estime que la conducta por la que se inició el proc
 ###### Artículo 126.
 
 Al momento de pronunciarse la resolución dentro de un procedimiento administrativo de responsabilidad, en el que se haya acreditado la falta imputada al servidor público, el Pleno podrá dictar las medidas que considere convenientes para la corrección o remedio inmediato de la irregularidad o irregularidades imputadas, independientemente de la sanción que aquél decida imponer al servidor público en contra de quien se instauró el procedimiento.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 126-A.
+
+Para la ejecución de las sanciones a que se refiere el artículo 39 de este Acuerdo, se observarán las siguientes reglas:
+
+I. Apercibimiento privado o amonestación privada. Se dará a conocer la sanción a través de la notificación realizada por la Secretaría Ejecutiva de Disciplina cuando el servidor público sancionado se encuentre adscrito en algún órgano jurisdiccional cuya residencia se ubique en el Distrito Federal o zona conurbada, y por correo certificado o servicio de mensajería cuando la adscripción se tenga en cualquier otro lugar de la República;
+
+II. Apercibimiento público o amonestación pública. Tratándose de magistrados de circuito o jueces de distrito se ejecutará citando al servidor público sancionado en la sede del Consejo para que el Presidente de la Comisión de Disciplina le dé a conocer la sanción ante ésta. En los demás casos, se dará a conocer la sanción a través de un Visitador Judicial o Juez de Distrito comisionado para tal fin, para lo cual se citará al servidor público respectivo y de la diligencia se levantará un acta circunstanciada que firmarán los que hayan intervenido en ella.
+
+III. Suspensión del empleo, cargo o comisión. Tratándose de magistrados de circuito o jueces de distrito se ejecutará citando al servidor público sancionado en la sede del Consejo para que el Presidente de la Comisión de Disciplina le dé a conocer la sanción ante ésta; en los demás casos, se dará a conocer la sanción a través de notificación por oficio con copia de la resolución. El titular de la Secretaría Ejecutiva de Disciplina dará aviso a la Dirección General de Recursos Humanos para los efectos legales conducentes;
+
+IV. Sanción económica. El titular de la Secretaría Ejecutiva de Disciplina deberá comunicarla a la Dirección General de Recursos Humanos para que ésta, a su vez, lleve a cabo las retenciones necesarias a fin de hacerla efectiva. En caso de que no exista la posibilidad de cobrarla aplicándola a percepciones pendientes de pago, se deberá solicitar a la Dirección General de Asuntos Jurídicos desarrolle el respectivo procedimiento económico coactivo;
+
+V. Destitución del puesto. Tratándose de magistrados de circuito o jueces de distrito se ejecutará citando al servidor público sancionado en la sede del Consejo para que el Presidente de la Comisión de Disciplina le dé a conocer la sanción ante ésta; en los demás casos, se dará a conocer la sanción a través de notificación por oficio con copia de la resolución; y
+
+VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público. Tratándose de magistrados de circuito o jueces de distrito se ejecutará citando al servidor público sancionado en la sede del Consejo para que el Presidente de la Comisión de Disciplina le dé a conocer la sanción ante ésta; en los demás casos, se dará a conocer la sanción a través de notificación por oficio con copia de la resolución.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 126-B.
+
+Si el Pleno estima que la queja fue interpuesta sin motivo, se impondrá al querellante, a su representante o abogado, o a ambos, una multa de diez a ciento veinte días de salario mínimo tomando como base el vigente en el Distrito Federal al momento de interponerse la queja, de conformidad con el artículo 139 de la Ley. La imposición de la multa deberá estar debidamente fundada y motivada en la resolución correspondiente, así como en la orden de ejecución.
 
 #### Sección VI. Del Recurso de Revisión Administrativa
 
@@ -974,6 +1044,54 @@ En las resoluciones que pongan fin a los procedimientos de responsabilidad admin
 ###### Artículo 150.
 
 Al momento de pronunciarse la resolución dentro de un procedimiento administrativo de responsabilidad, en el que se haya acreditado la falta imputada al servidor público, el titular del órgano jurisdiccional, tratándose de tribunales unitarios de circuito y juzgados de distrito, o bien, el pleno tratándose de tribunales colegiados de circuito, podrán dictar las medidas que consideren convenientes para la corrección o remedio inmediato de la irregularidad o irregularidades imputadas, independientemente de la sanción que se decida imponer al servidor público en contra de quien se instauró el procedimiento disciplinario.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+#### Sección V. Del Recurso de Revocación Administrativa
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 150-A.
+
+En los procedimientos de responsabilidad a que se refiere este Capítulo no se admitirá más recurso que el de revocación administrativa.
+
+El recurso de revocación administrativa procede contra las resoluciones emitidas por magistrados de circuito o jueces de distrito en los procedimientos de responsabilidad administrativa a que se refiere este Capítulo.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 150-B.
+
+El Pleno es competente para resolver los recursos de revocación administrativa en los que se reclame la determinación de sanciones consistentes en destitución del puesto o inhabilitación, a que se refieren las fracciones V y VI del artículo 39 de este Acuerdo; en los demás casos, será la Comisión de Disciplina el órgano competente para emitir la resolución que corresponda.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 150-C.
+
+El plazo para interponer el recurso de revocación administrativa será de cinco días hábiles siguientes al en que surta efectos la notificación de la resolución que ponga fin al procedimiento de responsabilidad administrativa.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 150-D.
+
+El recurso de revocación administrativa se interpondrá por escrito, en el cual el recurrente expresará los agravios que le cause la resolución recurrida.
+
+El escrito de interposición del recurso deberá dirigirse a la Comisión de Disciplina y ser presentado directamente en la oficina de correspondencia del órgano jurisdiccional que dictó la resolución, el que deberá remitirlo a la Secretaría Ejecutiva de Disciplina, dentro del término de cuarenta y ocho horas.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 150-E.
+
+La Secretaría Ejecutiva de Disciplina dará trámite al recurso de revocación administrativa, y someterá a la consideración del Presidente de la Comisión de Disciplina el proveído en el que se califique la procedencia del recurso, admitiéndolo o desechándolo.
+
+Admitido el recurso se requerirá al titular del órgano jurisdiccional que haya emitido la resolución impugnada, para que remita el expediente disciplinario respectivo y para que formule un informe sobre los hechos que se le atribuyan, dentro del plazo de cinco días hábiles siguientes al en que surta efectos el emplazamiento, salvo lo previsto en el artículo 102 de este Acuerdo.
+
+Una vez recibido el informe, se deberá enviar el asunto al Consejero que por turno corresponda, para que formule por escrito el proyecto de resolución respectivo, el que será sometido a la aprobación del Pleno o de la Comisión de Disciplina, según corresponda, de conformidad con el artículo 150-B, para que se resuelva lo que fuere procedente dentro del término de treinta días hábiles siguientes a la fecha de turno, con excepción de aquellos casos en que por causa justificada se requiera mayor tiempo para emitirlo.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA Y REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 150-F.
+
+La resolución que decida sobre el recurso de revocación administrativa será definitiva e inatacable.
 
 ## TITULO CUARTO. Del Registro Patrimonial de los Servidores Públicos
 
@@ -1288,3 +1406,13 @@ QUINTO.- Los procedimientos de investigación iniciados antes de la entrada en v
 SEXTO.- Publíquese en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial, fue aprobado en sesión extraordinaria de nueve de agosto de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintiocho de septiembre de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 24 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
