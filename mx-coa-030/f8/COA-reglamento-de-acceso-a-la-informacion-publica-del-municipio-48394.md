@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-acceso-a-la-informacion-publica-del-municipio-483
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-06"
-last_updated: "2006-01-06"
+last_updated: "2006-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE SALTILLO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 6 de enero de 2006.
 
@@ -307,13 +307,17 @@ La solicitud podrá también presentarse en forma verbal personalmente ante la U
 
 En el supuesto de que una persona requiera una reproducción de la información solicitada, la Unidad, en razón del volumen de la misma, podrá entregar en un plazo máximo de diez días hábiles la información solicitada, previo comprobante de pago oficial expedido por autoridad competente.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 32.
 
-Recibida la solicitud, la Unidad la remitirá dentro de los tres días hábiles siguientes, a partir de la fecha de su presentación, a la Dependencia que corresponda.
+Recibida la solicitud, la Unidad la remitirá dentro de los dos días hábiles siguientes, a partir de la fecha de su presentación, a la Dependencia que corresponda.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 33.
 
-Si los datos proporcionados por el solicitante para localizar la información son insuficientes, erróneos o imprecisos, la Dependencia deberá comunicarlo a la Unidad, dentro de los tres días hábiles siguientes a partir de que reciba la solicitud, señalando los datos faltantes o los que se tengan que corregir o precisar.
+Si los datos proporcionados por el solicitante para localizar la información son insuficientes, erróneos o imprecisos, la Dependencia deberá comunicarlo a la Unidad, dentro de los dos días hábiles siguientes a partir de que reciba la solicitud, señalando los datos faltantes o los que se tengan que corregir o precisar.
 
 ###### Artículo 34.
 
@@ -321,19 +325,25 @@ La Unidad deberá requerir al solicitante, por una sola vez, para que en un plaz
 
 La Unidad hará efectivo el apercibimiento y procederá a desechar la solicitud, si dentro del plazo señalado no se completan o corrigen los datos proporcionados para localizar o precisar la información.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 35.
 
-Las Dependencias remitirán la información a la Unidad, misma que servirá para dar respuesta al solicitante, en un plazo que no podrá ser mayor de nueve días hábiles, ella servirá para dar respuesta al solicitante.
+Las dependencias remitirán la información a la Unidad, misma que servirá para dar respuesta al solicitante, en un plazo que no podrá ser mayor de cinco días hábiles.
 
 La entrega de la información podrá realizarse en texto y, en su caso, por medio magnético o electrónico. En caso de que sea proporcionada en forma verbal, la Unidad acreditará, por cualquier medio, su entrega.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 36.
 
-La Unidad notificará al interesado, dentro de los veinte días hábiles siguientes de la presentación de su solicitud, sobre el otorgamiento de la información y los mecanismos para poder acceder a ella, bien sea para consulta directa, que por si misma no genera pago de algún derecho o bien, mediante reproducciones que en su caso deberán de cubrirse el pago de los derechos correspondientes conforme lo establece el artículo 21 de este ordenamiento. Una vez que se acredite el pago, la Unidad entregará la información solicitada en la forma en que lo permita el documento.
+La Unidad notificará al interesado, dentro de los diez días hábiles siguientes de la presentación de su solicitud, sobre el otorgamiento de la información y los mecanismos para poder acceder a ella, bien sea para consulta directa, que por si misma no genera pago de algún derecho o bien, mediante reproducciones que en su caso deberán de cubrirse el pago de los derechos correspondientes conforme lo establece el artículo 21 de este ordenamiento. Una vez que se acredite el pago, la Unidad entregará la información solicitada en la forma en que lo permita el documento.
 
 En caso de no existir el documento o la información solicitada la Unidad lo comunicará al interesado por escrito.
 
-La falta de respuesta a una solicitud dentro de los plazos señalados para el efecto, se entenderá resulta (sic) en sentido negativo, dejando por tal motivo a salvo los derecho (sic) del interesado para que los ejerciten (sic) conforme a su derecho convenga.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
+La falta de respuesta a una solicitud dentro de los plazos señalados para el efecto, se entenderá resuelta en sentido negativo, dejando por tal motivo a salvo los derechos de los interesados para que los ejerciten conforme a su derecho convenga.
 
 ###### Artículo 37.
 
@@ -349,11 +359,15 @@ II. La solicitud contenga expresiones ofensivas para la Unidad, la dependencia o
 
 III. La información solicitada se encuentre públicamente disponible. En éste supuesto, se indicará al interesado el lugar en que se encuentre la información requerida;
 
-En caso de que la solicitud sea rechazada, se le comunicará por escrito al solicitante dentro de los cinco días hábiles siguientes a su presentación. La negativa deberá ser fundada y motivada.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
+En caso de que la solicitud sea rechazada, se le comunicará por escrito al solicitante dentro de los tres días hábiles siguientes a su presentación. La negativa deberá ser fundada y motivada.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 39.
 
-El plazo de respuesta de la Unidad se podrá prorrogar en forma excepcional por otros veinte días hábiles, de mediar circunstancias que hagan difícil reunir la información solicitada. En su caso, la Unidad deberá comunicar al interesado, las razones por las cuales hará uso de la prórroga excepcional.
+El plazo de respuesta de la Unidad se podrá prorrogar en forma excepcional por otros diez días hábiles, de mediar circunstancias que hagan difícil reunir la información solicitada. En su caso, la Unidad deberá comunicar al interesado, las razones por las cuales hará uso de la prórroga excepcional.
 
 ###### Artículo 40.
 
@@ -375,13 +389,17 @@ Los solicitantes tendrán un plazo de diez días hábiles posteriores a que se l
 
 ### Capítulo Octavo. Del Procedimiento del Recurso de Inconformidad
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 44.
 
-Las respuestas que emita la Unidad, que nieguen o limiten el acceso a la información y que las personas estimen antijurídicos, infundados o faltos de motivación, pueden ser impugnados mediante el Recurso de Inconformidad previsto en el Código Municipal para el Estado de Coahuila de Zaragoza.
+Las respuestas que emita la Unidad, que nieguen o limiten el acceso a la información y que las personas estimen antijurídicos, infundados o faltos de motivación, pueden ser impugnados mediante el Recurso de Reconsideración previsto en la Ley de Acceso a la Información Pública del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 45.
 
-El Recurso de Inconformidad se sujetará a las bases y formalidades previstas en la el Código Municipal para el Estado de Coahuila de Zaragoza.
+El Recurso de Reconsideración se sujetará a las bases y formalidades previstas en la Ley de Acceso a la Información Pública del Estado de Coahuila de Zaragoza.
 
 ### Capítulo Noveno. De la Protección de Datos Personales
 
@@ -585,9 +603,11 @@ Los particulares que entreguen a las dependencias información confidencial, deb
 
 Para que el Municipio pueda permitir el acceso a información confidencial requiere obtener el consentimiento expreso de los particulares titulares de la información, por escrito o medio de autentificación equivalente.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 69.
 
-Cuando se reciba una solicitud de acceso a un expediente o documentos que contengan información confidencial, la dependencia podrá requerir al particular titular de la información su autorización para entregarla, quien tendrá diez días hábiles para responder a partir de la notificación correspondiente. El silencio del particular será considerado como una negativa.
+Cuando se reciba una solicitud de acceso a un expediente o documentos que contengan información confidencial, la dependencia podrá requerir al particular titular de la información su autorización para entregarla, quien tendrá cinco días hábiles para responder a partir de la notificación correspondiente. El silencio del particular será considerado como una negativa.
 
 De la Desclasificación
 
@@ -692,3 +712,9 @@ LIC. JOSÉ DE JESÚS GÓMEZ MORENO
 Encargado del Despacho de la Secretaría del R. Ayuntamiento
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE NOVIEMBRE DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
