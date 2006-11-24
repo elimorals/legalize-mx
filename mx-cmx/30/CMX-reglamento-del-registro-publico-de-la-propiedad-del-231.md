@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-registro-publico-de-la-propiedad-del-231"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-08-05"
-last_updated: "1988-08-05"
+last_updated: "2006-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=231&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1988-07-20"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 24 DE NOVIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 5 de agosto de 1988.
 
@@ -909,3 +911,19 @@ TERCERO.- Conforme se vayan incorporando las fincas al nuevo sistema registral, 
 CUARTO.- Se abroga el Reglamento del Registro Público de la Propiedad de fecha 16 de abril de 1980, publicado en el Diario Oficial de la Federación el 6 de mayo de 1980.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de julio de mil novecientos ochenta y ocho.- Miguel de la Madrid H.- Rúbrica.- el Jefe del Departamento del Distrito Federal.- Ramón Aguirre Velázquez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 24 DE NOVIEMBRE DE 2006.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Para el formato de Solicitud de Entrada y Trámite a que se refiere el presente Reglamento, se estará a la publicación en la Gaceta Oficial del Distrito Federal el 5 de mayo de 2005.
+
+El formato de Solicitud y Trámite, así como el Logotipo del Registro Público, para su posterior modificación, deberán atender a las disposiciones jurídicas y administrativas aplicables.
+
+TERCERO. Los trámites ingresados antes de la entrada en vigor del presente Reglamento, se substanciarán hasta su conclusión conforme a las disposiciones del Reglamento que se abroga.
+
+CUARTO. Se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+QUINTO. Se abroga el Reglamento del Registro Público de la Propiedad del 17 de septiembre de 1987, publicado en el Diario Oficial de la Federación el 5 de agosto de 1988.
