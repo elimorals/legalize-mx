@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2006-09-02"
+last_updated: "2006-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2006.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -899,7 +899,7 @@ B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
-C.- Elegir y remover al consejero presidente y consejeros electorales del Instituto Estatal Electoral, a los magistrados del Tribunal Estatal Electoral, así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
+C.- Elegir y remover al consejero presidente y consejeros electorales del Instituto Estatal Electoral, a los magistrados del Tribunal Estatal de (sic) Electoral, así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -2159,9 +2159,19 @@ La contratación de empréstitos o cualquier otro crédito por parte de los ayun
 
 Los actos realizados contra lo dispuesto en este precepto serán nulos de pleno derecho.
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+
 ###### Art. 136.
 
-Los Ayuntamientos cesantes no pueden, salvo lo dispuesto en el Artículo anterior dejar créditos pasivos, procedentes de actos de su administración, a cargo del Municipio que representen, sin dejar al mismo tiempo fondos con que cubrirlos en caja o en saldos pendientes de cobro, siempre que el importe de estos últimos no exceda del dos por ciento de los ingresos anuales. Los miembros de dichos Ayuntamientos serán responsables, personal y pecuniariamente, de la infracción de este precepto.
+Los Ayuntamientos, podrán contratar créditos o empréstitos que deban cubrirse dentro del período administrativo en que se lleve a cabo dicha contratación, siempre y cuando cuenten con la aprobación de la mayoría de sus integrantes.
+
+Asimismo, podrán contratar créditos o empréstitos que comprometan al municipio por un plazo mayor al del período en funciones, siempre y cuando: el pago de la deuda contraída y sus intereses no exceda del período de las siguientes dos administraciones municipales; medie autorización de por lo menos las dos terceras partes de sus integrantes; el monto pendiente a cargo de las subsecuentes administraciones municipales, no exceda al 10% del presupuesto correspondiente al ejercicio fiscal inmediato anterior al que se hayan celebrado los contratos; y, los recursos que se obtengan se destinen a infraestructura del municipio.
+
+Los Ayuntamientos, no podrán celebrar los actos jurídicos referidos en este artículo, durante los últimos seis meses de la administración municipal en funciones, ni deberán otorgar autorización para que con dichos recursos se cubran adeudos pendientes o para sufragar su gasto corriente.
+
+Los integrantes de los Ayuntamientos correspondientes serán responsables, personal y pecuniariamente, de la contravención de este precepto.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3254,3 +3264,13 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor en un plazo de ciento ochenta días, contados a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
