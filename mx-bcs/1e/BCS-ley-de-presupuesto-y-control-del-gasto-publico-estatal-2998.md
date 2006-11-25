@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-presupuesto-y-control-del-gasto-publico-estatal-2998"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "1988-12-31"
+last_updated: "2006-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de febrero de 1984.
 
@@ -177,6 +177,14 @@ El proyecto de Presupuesto de Egresos del Estado deberá ser presentado oportuna
 
 A toda proposición de aumento o creación de partidas al proyecto de Presupuesto, deberá agregarse la correspondiente iniciativa de ingreso, si con tal proposición se altera el equilibrio presupuestal.
 
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 20 Bis.
+
+El Congreso del Estado aprobará en el Presupuesto de Egresos de cada ejercicio fiscal, las obligaciones de pago previstas en los Contratos de Servicios de largo Plazo vigentes, tanto para el ejercicio fiscal, conforme a la información que proporcione el Gobierno del Estado.
+
+Los pagos que realice el Gobierno del Estado, a través de las Dependencias y Entidades, como contraprestación por los servicios recibidos al amparo de un contrato de servicios de Largo Plazo, se registrarán como gasto corriente.
+
 ###### ARTICULO 21.
 
 Las Entidades presentarán sus anteproyectos de presupuestos anuales y sus modificaciones, en su caso, oportunamente a la Secretaría de Finanzas, para su aprobación. Los anteproyectos se presentarán de acuerdo con las normas que el Ejecutivo Estatal establezca a través de dicha Secretaría.
@@ -210,6 +218,12 @@ Una vez concluída la vigencia de un presupuesto de Egresos del Estado sólo pro
 En casos excepcionales y debidamente justificados, la Secretaría de Finanzas podrá autorizar que se celebren Contratos de obras públicas, de adquisiciones o de otra índole, que rebasen las asignaciones presupuestales aprobadas para el año, pero en estos casos los compromisos excedentes quedarán sujetos, para los fines de su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes.
 
 Cuando se trate de programas cuyos presupuestos se incluyan en el Presupuesto de Egresos del Estado, se hará mención especial de estos casos al presentar el Proyecto de Presupuesto al Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 26 Bis.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá hacer transferencias de partidas presupuestales, de conformidad con los requerimientos de cada ejercicio fiscal y, en su caso, apoyar temporalmente a las Administraciones Municipales, previo reconocimiento de adeudo y la celebración de los actos jurídicos necesarios que al efecto se suscriban.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -412,3 +426,11 @@ B.O. 31 DE DICIEMBRE DE 1988.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 25 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, dictará en el ámbito administrativo, las normas para la realización de contratos de servicios de largo plazo que incluirán lineamientos para el análisis costo y beneficio, metodología para la comparación de ofertas; así como las demás disposiciones necesarias para el cumplimiento de lo establecido en este Decreto, las que deberán publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur, en un plazo que no exceda de 180 días naturales, contados a partir del día siguiente a que entre en vigor el presente Decreto.
+
+El monto promedio anual de las cantidades que deban cubrirse por concepto de pagos derivados de proyectos para la prestación de servicios de largo plazo, no podrá representar un porcentaje del presupuesto de egresos de manera que afecte gravemente la capacidad de pago del Gobierno del Estado, tanto en la administración presente como en las futuras.
