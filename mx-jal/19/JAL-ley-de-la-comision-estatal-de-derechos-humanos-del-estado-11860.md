@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2006-08-15"
+last_updated: "2006-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -321,7 +321,9 @@ II. Ser originario del Estado o haber residido en la entidad durante los último
 
 III. No desempeñar simultáneamente, ni haberse desempeñado durante los últimos tres años, dentro de la administración pública federal, estatal o municipal, partido u organización política, con excepción de los cargos o empleos de docencia e investigación;
 
-IV. Tener cuando menos treinta años de edad el día de su nombramiento; y (sic)
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+IV. Tener cuando menos veinticinco años de edad el día de su nombramiento;
 
 V. Gozar de buena reputación y no haber sido sentenciado por delito intencional; y
 
@@ -757,7 +759,7 @@ I. Recibir y registrar las quejas por presuntas violaciones a los derechos human
 
 II. Cuando se trate de asuntos urgentes o graves, inmediatamente lo hará del conocimiento del Visitador General o, en su caso, del Presidente de la Comisión;
 
-III. Coordinar, analizar y resolver las dificultades y peticiones que se presenten con motivo del cumplimiento de las recomendaciones, acuerdos o peticiones y dar cuenta al Presidente de los casos que hagan necesaria su intervención directa con los titulares de las dependencias a las que se les haya formulado recomendaciones;
+III. Coordinar, analizar y resolver las dificultades y peticiones que se presenten con motivo del cumplimiento de las recomendaciones, acuerdos o peticiones y dar cuenta al Presidente de los casos que hagan necesaria su intervención directa con los titulares de las dependencias a las que se les hayan formulado recomendaciones;
 
 IV. Informar a los quejosos los datos sobre los avances de los expedientes de quejas o cumplimiento de recomendaciones, realizando tal función en coordinación con los visitadores;
 
@@ -1404,3 +1406,7 @@ P.O. 15 DE AGOSTO DE 2006.
 PRIMERO. El presente decreto entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Las autoridades del Ministerio Público, Reclusorios y Sedes Judiciales, deberán exhibir en los recintos de detención los derechos que establece la Constitución Política de los Estados Unidos Mexicanos y en los tratados, acuerdos y convenciones internacionales que el Gobierno Federal haya firmado o de los que celebre o forme parte para los detenidos o procesados, dentro del plazo de la publicación del presente decreto y su entrada en vigor.
+
+P.O. 25 DE NOVIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
