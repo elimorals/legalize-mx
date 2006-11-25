@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-obras-publicas-y-servicios-relacionados-con-las-38885"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2004-04-07"
+last_updated: "2006-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAB"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2006.
 
-Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 7 de abril de 2004.
+Ley publicada en el suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 7 de abril de 2004.
 
 LIC. MANUEL ANDRADE DÍAZ, GOBERNADOR DEL ESTADO DE LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 51, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; A SUS HABITANTES SABED:
 
@@ -107,15 +107,17 @@ XVIII.- Llave en mano: Obra o servicio público realizada y financiada por un pa
 
 Para los efectos de esta Ley, se considera Obra Pública:
 
-I.- La construcción, reconstrucción, modificación, remodelación, conservación, mantenimiento, instalación, restauración o demolición de bienes inmuebles e infraestructura, que por su naturaleza o por disposición de la Ley sean destinados a un servicio público o al uso común;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2006)</small>
 
-II.- Los trabajos de exploración, localización, geotecnia, perforación, extracción y demás que tengan por objeto la explotación y desarrollo de los recursos naturales que se encuentren en el suelo o en el subsuelo, cuando no sean de competencia federal;
+I.- La construcción, reconstrucción, modificación remodelación, instalación de bienes inmuebles e infraestructura, que por su naturaleza o por disposición de la Ley, sean destinados a un servicio público o al uso común;
+
+II.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2006)
 
 III.- Los trabajos de mejoramiento, conservación, preservación o restauración del suelo, subsuelo, agua y aire;
 
-IV.- Los desmontes, extracción de tocones o raíces, nivelación de tierra, desazolve, poda y deshierbamiento;
+IV.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2006)
 
-V.- Las instalaciones para el desarrollo pecuario y demás obras de infraestructura agropecuaria;
+V.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2006)
 
 VI.- La fabricación, instalación, montaje, colocación o aplicación, incluyendo las pruebas de operación de bienes muebles que deben incorporarse, adherirse o destinarse a un inmueble, siempre y cuando dichos bienes sean proporcionados por la convocante al contratista; o bien, cuando incluyan la adquisición y su precio sea menor al de los trabajos que se contraten;
 
@@ -123,27 +125,31 @@ VII.- Los proyectos integrales o llave en mano, a que se refieren las fracciones
 
 VIII.- Todos aquellos de naturaleza análoga.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 4.
 
-Para los efectos de esta Ley, se consideran como Servicios Relacionados con las Obras Públicas, los trabajos que tengan por objeto concebir, diseñar y calcular los elementos que integran un proyecto de obra pública; las investigaciones, estudios, auditorías, asesorías y consultorías que se vinculen con las acciones que regula esta Ley; la dirección, supervisión y verificación de la ejecución de las obras y los estudios que tengan por objeto rehabilitar, corregir o incrementar la eficiencia de las instalaciones. Asimismo, quedan comprendidos los siguientes conceptos:
+Para los efectos de esta Ley se consideran como Servicios Relacionados con las Obras Públicas, los trabajos que tengan por objeto concebir, diseñar, y calcular los elementos que integran un proyecto de obra pública; las investigaciones, estudios, auditorias, asesorías y consultorías que se vinculen con las acciones que regula esta Ley; la dirección supervisión y verificación de la ejecución de las obras. Asimismo, quedan comprendidos los siguientes conceptos:
 
 I.- La planeación y el diseño, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de ingeniería básica, estructural, de instalaciones, de infraestructura, industrial, electromecánica, electrónica, ambiental, urbano, arquitectónico, de diseño gráfico o artístico y de cualquier otra especialidad de la ingeniería, del diseño, la arquitectura o el urbanismo, que se requiera para integrar un proyecto ejecutivo de obra pública;
 
 II.- La planeación y el diseño, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto urbano, arquitectónico, de diseño gráfico o artístico y de cualquier otra especialidad del diseño, la arquitectura y el urbanismo, que se requiera para integrar un proyecto ejecutivo de obra pública;
 
-III.- Los estudios técnicos de agrología y desarrollo pecuario, hidrología, mecánica de suelos, sismología, topografía, geología, geodesia, geotecnia, geofísica, geotermia, oceanografía, meteorología, aerofotogrametría, ambientales, ecológicos y de ingeniería de tránsito;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2006)</small>
 
-IV.- Los estudios económicos y de planeación de preinversión, factibilidad técnico económica, ecológica o social, de evaluación, adaptación, uso actual de suelo, tenencia de la tierra, financieros, de desarrollo y restitución del correcto funcionamiento de las instalaciones;
+III.- Los estudios técnicos de mecánica de suelos, topografía, ambientales, ecológicos y de Ingeniería de tránsito.
+
+IV.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2006)
 
 V.- Los trabajos de coordinación, supervisión, control y verificación de obra; de laboratorio de análisis y control de calidad; de laboratorio de geotecnia, de resistencia de materiales y radiografías industriales; de preparación de especificaciones de acuerdo a las normas de construcción, presupuestación o la elaboración de cualquier otro documento o trabajo para la adjudicación del contrato de obra correspondiente;
 
-VI.- Los trabajos de organización, informática, comunicaciones, cibernética, automatización y sistemas aplicados a las materias que regula esta Ley;
+VI.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2006)
 
-VII.- Los dictámenes, peritajes, avalúos, auditorías técnico normativas y estudios aplicables a las materias que regula esta Ley;
+VII.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2006)
 
-VIII.- Los estudios que tengan por objeto rehabilitar, corregir, sustituir o incrementar la eficiencia de las instalaciones en un bien inmueble;
+VIII.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2006)
 
-IX.- Los estudios de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología entre otros, y
+IX.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2006)
 
 X.- Todos aquellos de naturaleza análoga.
 
@@ -987,9 +993,9 @@ III.- Utilizar preferentemente los materiales de la región; y
 
 IV.- Utilizar los servicios de fletes y acarreos complementarios, preferentemente a empresas que tengan domicilio fiscal en el Estado.
 
-(NOTA: EL 22 DE ABRIL DE 2008, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO, OCTAVO Y DÉCIMO PRIMERO ASÍ COMO EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 16/2006, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO, DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL DE DE 2012, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
 
-LA SUMA DE LAS OPERACIONES QUE SE REALICEN AL AMPARO DE ESTE ARTÍCULO, NO PODRÁ EXCEDER DEL CINCO POR CIENTO DE LA INVERSIÓN FÍSICA TOTAL AUTORIZADA PARA OBRAS PÚBLICAS O DEL MONTO ANUAL DESTINADO A LOS SERVICIOS RELACIONADOS CON LAS MISMAS EN CADA EJERCICIO PRESUPUESTAL, SEGÚN SEA EL CASO.
+La suma de las operaciones que se realicen al amparo de este artículo no podrá exceder del cuarenta por ciento de la inversión física total autorizada para Obras Públicas o del monto anual destinado a los servicios relacionados con las mismas en cada ejercicio presupuestal según sea el caso.
 
 En la ejecución de las obras por administración directa, bajo ninguna circunstancia podrán participar terceros como contratistas, sean cuales fueren las condiciones particulares, naturaleza jurídica o modalidades que estos adopten.
 
@@ -1202,3 +1208,11 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
