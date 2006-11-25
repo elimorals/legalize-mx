@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2006-10-31"
+last_updated: "2006-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -1619,13 +1619,45 @@ III.- Que de otorgarse no implique la continuación o consumación de actos u om
 
 IV.- Que no ocasione daños o perjuicios a los educandos o terceros en términos de esta Ley.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+
 ## TÍTULO OCTAVO
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2006)</small>
 
 ### CAPÍTULO ÚNICO
 
 DEL SEGURO ESCOLAR CONTRA ACCIDENTES PERSONALES.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 151.
+
+Para contribuir en la preservación de la integridad física de los menores de edad, será optativo para las Asociaciones de Padres de Familia, la contratación de un seguro escolar contra accidentes personales, para aquellos educandos matriculados y que cursen la educación básica.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 152.
+
+Para los efectos del artículo anterior, el Poder Ejecutivo dispondrá de un fondo subsidiario de apoyo para la contratación de dicho seguro, mismo que estará contemplado en los presupuestos de egresos respectivos.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 153.
+
+El Gobierno del Estado a través de la Secretaría de Educación y de Administración, definirá las bases y términos a los que deberá sujetarse la contratación del seguro escolar contra accidentes personales, para que pueda ser apoyado con el fondo subsidiario.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 154.
+
+Las Asociaciones de Padres de Familia debidamente constituidas y registradas, serán personas jurídicas con capacidad legal para celebrar contratos para la adquisición de servicios a que se refiere el presente título.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 155.
+
+Los menores que cursen la educación básica en un plantel localizado en donde no haya cobertura de las compañías aseguradoras, serán apoyados a través del fondo subsidiario a que se refiere el artículo 152 de la presente ley para la atención médica necesaria en caso de que sufran un accidente escolar.
 
 ## TRANSITORIOS
 
@@ -1816,3 +1848,11 @@ P.O. 1 DE AGOSTO DE 2006.
 P.O. 31 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE NOVIEMBRE DE 2006.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. En la presentación del Presupuesto para el ejercicio fiscal 2007 el ejecutivo del Estado deberá proponer la partida presupuestal para el debido cumplimiento del presente decreto.
+
+TERCERO. A partir de la entrada en vigor del presente decreto, la Secretaría de Educación conjuntamente con las asociaciones de padres de familia buscará la mejor forma de resolver los accidentes escolares que se presenten en los 3 meses posteriores a la entrada en vigor del presente decreto.
