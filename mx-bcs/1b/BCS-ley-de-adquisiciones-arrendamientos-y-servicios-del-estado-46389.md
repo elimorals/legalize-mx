@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-4638
 country: "mx"
 rank: "ley"
 publication_date: "2005-09-14"
-last_updated: "2005-12-28"
+last_updated: "2006-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 14 de septiembre de 2005.
 
@@ -39,9 +39,11 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA S
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 1o.
 
-La presente Ley es de orden público e interés social y tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, contratación, gasto, control de adquisiciones y arrendamientos de bienes muebles y, la prestación de servicios de cualquier naturaleza que realicen:
+La presente Ley es de orden público e interés social y tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, contratación, gasto, control de adquisiciones y arrendamientos de bienes muebles y, la prestación de servicios de cualquier naturaleza, incluida la prestación de servicios de Largo Plazo, que realicen:
 
 I. Las Dependencias autorizadas por la Ley Orgánica del Estado de Baja California Sur;
 
@@ -105,9 +107,13 @@ VI. La contratación de arrendamiento financiero de bienes muebles;
 
 VII. La prestación de servicios profesionales, así como la contratación de consultorías, asesorías, estudios e investigaciones, excepto la contratación de servicios personales bajo el régimen de honorarios y (sic);
 
-VIII. Los servicios de cualquier naturaleza cuya prestación genere una obligación de pago para las Dependencias y Entidades, cuyo procedimiento de contratación no se encuentre regulado en forma específica por otras disposiciones legales; y
+VIII. Los servicios de cualquier naturaleza cuya prestación genere una obligación de pago para las Dependencias y Entidades, cuyo procedimiento de contratación no se encuentre regulado en forma específica por otras disposiciones legales; y (sic)
 
-IX. En todos los casos en que esta Ley haga referencia a las adquisiciones, arrendamientos y servicios, se entenderá que se trata respectivamente, de adquisiciones, arrendamientos de bienes muebles y de prestación de servicios de cualquier naturaleza.
+IX. En todos los casos en que esta Ley haga referencia a las adquisiciones, arrendamientos y servicios, se entenderá que se trata respectivamente, de adquisiciones, arrendamientos de bienes muebles y de prestación de servicios de cualquier naturaleza;
+
+> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+X. La contratación de servicios de largo plazo.
 
 ###### Artículo 4o.
 
@@ -975,15 +981,45 @@ Los proveedores con quienes se celebren contratos de adquisiciones, arrendamient
 
 La convocante no podrán (sic) financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación por parte de las propias Dependencias o Entidades. No se considerará como operación de financiamiento, el otorgamiento de anticipos, los cuales en todo caso, deberán garantizarse, conforme los establece la presente Ley.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+## Título Cuarto Bis. De los Contratos de Servicios de Largo Plazo
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 72-A.
+
+De conformidad con lo establecido en la Constitución Política del Estado de Baja California Sur, el Titular del Poder Ejecutivo y los Municipios, previa solicitud al Congreso del Estado y la aprobación de éste, podrán celebrar Contratos de Servicios de Largo Plazo entre el Gobierno del Estado o un Municipio y un proveedor, mediante el cual se establece, por una parte, la obligación a cargo del proveedor de prestar en un plazo que implique varios ejercicios fiscales, con recursos propios o de un tercero, uno o más servicios con los activos que éste construya, sobre inmuebles propios o de un tercero, incluyendo aquellos del sector público, de conformidad con un contrato para prestación de servicios y, por la otra, la obligación de pago, por parte del Gobierno del Estado o un Municipio, por los servicios que le sean proporcionados.
+
+A las solicitudes de autorización referidas en el párrafo que antecede, se deberán acompañar la documentación y argumentos necesarios que soporten la viabilidad del proyecto para la prestación de servicios de largo plazo, así como el proyecto de contrato, que deberá incluir los elementos principales que contendría el contrato definitivo que se celebraría con el inversionista proveedor.
+
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 72-B.
+
+Los servicios que el proveedor proporcione, conforme a los Contratos de Servicios de Largo Plazo, podrán consistir en la disponibilidad de infraestructura pública, mantenimiento, equipamiento, administración, operación, explotación, diseño, construcción, arrendamiento, transferencia de activos o financiamiento de bienes muebles o inmuebles.
+
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 72-C.
+
+Los Contratos de Servicios de Largo plazo, se celebrarán de conformidad con los requisitos y términos señalados en el procedimiento de licitación pública.
+
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 72-D.
+
+Las controversias derivadas o relacionadas con los Contratos de Servicios de Largo Plazo, celebrados de conformidad con esta Ley, podrán resolverse mediante arbitraje.
+
+El procedimiento arbitral se substanciará con base en las reglas que determinen las partes en el acuerdo de arbitraje correspondiente y a falta de disposición expresa, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Baja California Sur.
+
 ## Título Quinto. De la Información y Verificación
 
 ### Capítulo Único
-
-## Título Sexto. De las Infracciones y Sanciones
-
-### Capítulo Único
-
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 73.
 
@@ -1001,9 +1037,11 @@ La Contraloría en coordinación con el titular de la dependencia ejecutora, en 
 
 La Contraloría podrá verificar la calidad de las especificaciones de los bienes muebles a través de la propia convocante de que se trate, o mediante las personas acreditadas en los términos que establece la Ley Federal de Metrología y Normalización.
 
-## Título Séptimo. De las Inconformidades y del Procedimiento De Conciliación
+## Título Sexto. De las Infracciones y Sanciones
 
-### Capítulo Primero. De las Inconformidades
+### Capítulo Único
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 76.
 
@@ -1083,7 +1121,9 @@ La omisión a lo dispuesto en el párrafo anterior será sancionada administrati
 
 Los actos, convenios, contratos y negocios jurídicos que las Dependencias y Entidades realicen en contravención a lo dispuesto por esta Ley, serán nulos previa determinación de la autoridad competente.
 
-### Capítulo Segundo. Del Procedimiento de Conciliación
+## Título Séptimo. De las Inconformidades y del Procedimiento De Conciliación
+
+### Capítulo Primero. De las Inconformidades
 
 ###### Artículo 85.
 
@@ -1141,6 +1181,8 @@ III. La declaración relativa a lo infundado de la inconformidad;
 
 IV. Las directrices para que el contrato se firme.
 
+### Capítulo Segundo. Del Procedimiento de Conciliación
+
 ###### Artículo 92.
 
 Los proveedores podrán presentar quejas ante la Contraloría o su equivalente según corresponda, con motivo del incumplimiento de los términos y condiciones pactados en los contratos que tengan celebrados con las Dependencias y Entidades.
@@ -1192,3 +1234,11 @@ SECRETARIO
 B.O. 28 DE DICIEMBRE DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor el día Primero del mes de Enero del año dos mil seis.
+
+B.O. 25 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, dictará en el ámbito administrativo, las normas para la realización de contratos de servicios de largo plazo que incluirán lineamientos para el análisis costo y beneficio, metodología para la comparación de ofertas; así como las demás disposiciones necesarias para el cumplimiento de lo establecido en este Decreto, las que deberán publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur, en un plazo que no exceda de 180 días naturales, contados a partir del día siguiente a que entre en vigor el presente Decreto.
+
+El monto promedio anual de las cantidades que deban cubrirse por concepto de pagos derivados de proyectos para la prestación de servicios de largo plazo, no podrá representar un porcentaje del presupuesto de egresos de manera que afecte gravemente la capacidad de pago del Gobierno del Estado, tanto en la administración presente como en las futuras.
