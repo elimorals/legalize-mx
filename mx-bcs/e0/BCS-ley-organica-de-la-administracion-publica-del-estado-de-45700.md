@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2005-07-14"
+last_updated: "2006-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -381,11 +381,19 @@ m) Proponer al Gobernador del Estado la cancelación de créditos incobrables a 
 
 III. En materia de deuda pública:
 
-a) En los términos de la Ley de la materia, establecer la política de deuda pública, así como contratar empréstitos previa autorización del Congreso del Estado, emitir títulos de crédito y otras operaciones financieras;
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
-b) Llevar el control, registro y seguimiento de la deuda pública del Estado y los municipios que permitan vigilar su adecuado cumplimiento; y
+a) En los términos de la Ley de la materia, establecer la política de deuda Pública;
+
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+b) Previa autorización del Congreso del Estado contratar empréstitos, emitir títulos de crédito y colocar valores, así como intervenir en las operaciones en las que el Titular del Poder Ejecutivo y las Entidades Paraestatales, hagan uso del crédito público y llevar el Registro Central de Deuda Pública del Estado, informando al Gobernador sobre la amortización de capital y del pago de intereses.
 
 c) Adoptar medidas administrativas sobre responsabilidades que afecten la Hacienda Pública Estatal y las Haciendas Públicas Federal y Municipales, cuando exista convenio al respecto.
+
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+d) Afectar, previa autorización del Congreso del Estado, como fuente o garantía de pago o ambas, de los financiamientos que reciba el Estado, los derechos o ingresos propios y de los que pueda disponer de conformidad con la legislación aplicable.
 
 IV. Las demás que le señalen las leyes aplicables en la entidad.
 
@@ -1162,3 +1170,13 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 25 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, dictará en el ámbito administrativo, las normas para la realización de contratos de servicios de largo plazo que incluirán lineamientos para el análisis costo y beneficio, metodología para la comparación de ofertas; así como las demás disposiciones necesarias para el cumplimiento de lo establecido en este Decreto, las que deberán publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur, en un plazo que no exceda de 180 días naturales, contados a partir del día siguiente a que entre en vigor el presente Decreto.
+
+El monto promedio anual de las cantidades que deban cubrirse por concepto de pagos derivados de proyectos para la prestación de servicios de largo plazo, no podrá representar un porcentaje del presupuesto de egresos de manera que afecte gravemente la capacidad de pago del Gobierno del Estado, tanto en la administración presente como en las futuras.
