@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2006-07-11"
+last_updated: "2006-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2006 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 2006.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -541,6 +543,8 @@ La ley establecerá el procedimiento a que se sujetará la organización de refe
 
 #### SECCION V. DE LAS FACULTADES DEL CONGRESO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE DICIEMBRE DE 2006 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 64.- Son facultades del Congreso del Estado:
 
 I.- Legislar en todo lo relativo al Gobierno del Estado;
@@ -617,11 +621,15 @@ XXIV.- Autorizar al Gobernador para celebrar convenios con la Federación y con 
 
 XXV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad;
 
-> <small>(REFORMADA, B.O. 30 DE ABRIL DE 1981)</small>
+> <small>(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
-XXVI.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, siempre que se destinen a inversiones públicas productivas, salvo los que se contraten en caso de emergencia por causa de desastre, señalando en cada caso los recursos con que deben cubrirse.
+XXVI.- Autorizar al Titular del Poder Ejecutivo para contratar empréstitos a nombre del Estado y a los Ayuntamientos para contratarlos a nombre de los Municipios, así como a los Organismos Descentralizados Estatales, Municipales o Intermunicipales, a las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y a los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal, siempre que se destinen a inversiones públicas productivas, conforme a las bases que se establezcan en la Ley correspondiente, y por los conceptos y hasta por los montos aprobados.
 
-Autorizar al Gobernador del Estado para avalar los empréstitos o financiamientos que obtengan los Ayuntamientos del Estado, siempre y cuando de los estudios que se practiquen al efecto aparezca demostrada la necesidad y utilidad de la obra para la cual los haya gestionado la autoridad municipal. En el convenio que celebre el Gobierno local con el Ayuntamiento correspondiente, se estipulará la recuperación de lo que aquél pague como avalista, garantizándolo en base de las participaciones de los impuestos que reciba el Ayuntamiento, ya sean éstos Federales o locales.
+Autorizar al Gobernador para que, en representación del Estado, se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de los Organismos Descentralizados Estatales, Municipales o Intermunicipales, de las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y de los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal.
+
+> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+XXVI Bis.- Autorizar al Titular del Poder Ejecutivo, así como a los Municipios del Estado, la celebración de Contratos de Servicios de Largo Plazo, que tengan por objeto prestar diversos servicios que la ley prevea, con la participación del sector privado. Asimismo, aprobar en el Presupuesto de Egresos del Estado correspondiente, las partidas necesarias para cumplir con las obligaciones contraídas con motivo de dichos contratos, durante la vigencia de los mismos.
 
 > <small>(REFORMADA, B.O. 5 DE MARZO DE 1993)</small>
 
@@ -651,7 +659,7 @@ XXXIII.- Aprobar y decretar las Leyes de Hacienda y de Ingresos Municipales, tom
 
 Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos de alguno o algunos de los Municipios del Estado, se aplicaran respectivamente las que se hayan aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-Aprobar la contratación de empréstitos a los Ayuntamientos del Estado en los términos de la Ley de deuda Pública para el Estado de Baja California Sur y sus Municipios.
+> <small>(DEROGADO TERCER PARRAFO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
 XXXIV.- Decretar la Ley Orgánica Municipal;
 
@@ -697,9 +705,13 @@ XLVI.- Elegir al Procurador General de Justicia, de una terna de aspirantes prop
 
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
 
-> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2000)</small>
+> <small>(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
-XLVIII.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
+XLVIII.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
+
+> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+XLIX.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores.
 
 #### SECCION VI. DE LA DIPUTACION PERMANENTE
 
@@ -852,6 +864,10 @@ Para los efectos señalados el Gobernador del Estado, como integrante del organi
 XV.- Representar al Estado en las comisiones federales y en las comisiones interestatales regionales;
 
 XVI.- Ejercer actos de dominio del patrimonio del Estado en los términos de esta Constitución;
+
+> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+XVI Bis.- Celebrar Contratos de Servicios de Largo Plazo, previa autorización del Congreso del Estado.
 
 XVII.- Ejercer el presupuesto de egresos;
 
@@ -1265,6 +1281,10 @@ II.- Los ingresos que adquiera por concepto de convenios, participaciones legale
 
 108.- Anualmente, durante la primera quincena del mes de noviembre, el Gobernador presentará al Congreso del Estado el proyecto de presupuesto.
 
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+En el proyecto de Presupuesto de Egresos correspondiente se incluirán las partidas necesarias, para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de largo plazo, durante la vigencia de los mismos.
+
 109.- El año fiscal comprenderá del primero de enero al treinta y uno de diciembre, inclusive.
 
 110.- Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general correspondiente, en tanto se expide éste, continuará vigente el del año inmediato anterior.
@@ -1577,9 +1597,9 @@ i) Los demás que el Congreso del Estado determine, según las condiciones terri
 
 X.- Formular anualmente su proyecto de ley de ingresos que será sometido a aprobación del Congreso del Estado;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
-XI.- Formular, aprobar y publicar anualmente conforme a la Ley su Presupuesto de Egresos con base en sus ingresos disponibles.
+XI.- Formular, aprobar, y publicar anualmente conforme a la Ley su Presupuesto de Egresos conforme a sus ingresos, debiendo preverse las partidas necesarias para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de Largo Plazo.
 
 XII.- Rendir al Congreso del Estado, por conducto de la Comisión Permanente, dentro de los dos primeros meses, la cuenta del gasto público del año anterior;
 
@@ -1640,6 +1660,18 @@ Asimismo, podrá concurrir a la creación del Comité de Contribuyentes a que se
 De igual manera, los Ayuntamientos podrán concurrir con el Gobernador del Estado a la creación de un organismo que tenga la finalidad de revisar permanentemente los aspectos que atañen a la recaudación y distribución de las diversas contribuciones que en vía de ingresos conforman las Haciendas Públicas Municipales, y con la finalidad de crear un grupo de asesoría, capacitación y planeación hacendaria, en el ámbito de coordinación fiscal que determine la Ley de la materia.
 
 Para los efectos señalados, las autoridades fiscales Municipales, como integrantes del organismo a que se refiere el párrafo anterior, se reunirán trimestralmente con las autoridades fiscales del Gobierno del Estado.
+
+> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+XXVII.- Contratar empréstitos a nombre del Municipio, con la aprobación previa del Congreso del Estado, siempre que se destinen a inversiones públicas productivas, conforme a las bases establecidas en la Ley correspondiente y por los conceptos y hasta por los montos aprobados.
+
+> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+XXVIII.- Celebrar Contratos de Servicios de Largo Plazo, previa autorización del Congreso del Estado.
+
+> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+XXIX.- Las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
 
 ### CAPITULO IX
 
@@ -2470,3 +2502,15 @@ B.O. 20 DE JUNIO DE 2006.
 B.O. 11 DE JULIO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 25 DE NOVIEMBRE DE 2006.
+
+DECRETO NUMERO 1634
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 25 DE NOVIEMBRE DE 2006.
+
+DECRETO NUMERO 1643
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
