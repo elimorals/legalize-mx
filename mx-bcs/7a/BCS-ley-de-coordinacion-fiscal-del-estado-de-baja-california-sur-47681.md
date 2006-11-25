@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2006-07-11"
+last_updated: "2006-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -155,9 +155,13 @@ De las cantidades que el Estado recaude por concepto del Impuesto Sobre Tenencia
 
 De las cantidades que el Estado recaude por concepto del Impuesto Sobre Automóviles Nuevos, corresponderá a los municipios el 20% de lo que en cada uno de ellos efectivamente se recaude.
 
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 11.
 
-El Estado, por conducto de la Secretaría, entregará a los Municipios, las cantidades que les correspondan, por concepto del Fondo General de Participaciones y del Fondo de Fomento Municipal, conforme a la Ley de Coordinación, dentro de los 5 días hábiles siguientes a aquél en que el Estado las reciba, las que deberán entregarse en efectivo, no en obra; pudiendo realizarse también, mediante cheque nominativo o mediante depósito bancario o transferencia electrónica de fondos, sin condicionamiento alguno, salvo lo previsto en el Artículo 12 de esta Ley; el retraso dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pagos a plazos de contribuciones.
+El Estado, por conducto de la Secretaría, entregará a los Municipios, las cantidades que les correspondan, por concepto del Fondo General de Participaciones y del Fondo de Fomento Municipal, conforme a la Ley de Coordinación, dentro de los 5 días hábiles siguientes a aquel en que el Estado las reciba.
+
+La entrega podrá ser directa o, a solicitud de cada Municipio, a través de un fideicomiso para la distribución y fuente de pago de participaciones municipales que al efecto se constituya.
 
 ###### Artículo 12.
 
@@ -302,3 +306,11 @@ VÍCTOR MANUEL GULUARTE CASTRO
 B.O. 11 DE JULIO DE 2006.
 
 Artículo Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 25 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, dictará en el ámbito administrativo, las normas para la realización de contratos de servicios de largo plazo que incluirán lineamientos para el análisis costo y beneficio, metodología para la comparación de ofertas; así como las demás disposiciones necesarias para el cumplimiento de lo establecido en este Decreto, las que deberán publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur, en un plazo que no exceda de 180 días naturales, contados a partir del día siguiente a que entre en vigor el presente Decreto.
+
+El monto promedio anual de las cantidades que deban cubrirse por concepto de pagos derivados de proyectos para la prestación de servicios de largo plazo, no podrá representar un porcentaje del presupuesto de egresos de manera que afecte gravemente la capacidad de pago del Gobierno del Estado, tanto en la administración presente como en las futuras.
