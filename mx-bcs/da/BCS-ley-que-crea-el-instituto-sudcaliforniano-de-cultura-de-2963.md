@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-crea-el-instituto-sudcaliforniano-de-cultura-de-2963"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-10"
-last_updated: "1994-05-10"
+last_updated: "2006-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY QUE CREA EL INSTITUTO SUDCALIFORNIANO DE CULTURA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 10 de mayo de 1994.
 
@@ -79,31 +79,11 @@ VII.- Diseñar y promover la política editorial del sector cultura y proponer d
 
 VIII.- Las demás que le señalen las disposiciones legales o reglamentarias.
 
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 5°.
 
-Se incorporan a la estructura orgánica, administrativa y normativa del Instituto Sudcaliforniano de Cultura las entidades siguientes:
-
-I.- Teatro de la Ciudad;
-
-II.- XEBCS, Radio Cultural Sudcaliforniana;
-
-III.- Coordinación Estatal de Bibliotecas Públicas;
-
-IV.- Biblioteca de Las Californias;
-
-V.- El Agora de La Paz;
-
-VI.- Archivo Histórico del Estado "Pablo L. Martínez";
-
-VII.- Casa de la Cultura;
-
-VIII.- Escuela de Música del Estado;
-
-IX.- Galería de Arte "Carlos Olachea Bouciguez";
-
-X.- Museo Regional de Antropología e Historia, en los términos del convenio celebrado con el Instituto Nacional de Antropología e Historia.
-
-Asimismo, se incorporarán al Instituto los organismos culturales y entidades del sector público estatal afines que en lo futuro se llegasen a crear.
+La estructura del Instituto Sudcaliforniano de Cultura será la autorizada por el Consejo Directivo y se señalará en su Reglamento Interior, en donde se enlistarán y escribirán los organismos y entidades del sector público estatal que la integran.
 
 ###### Artículo 6°.
 
@@ -117,27 +97,29 @@ III.- La Dirección General; y
 
 IV.- El Patronato.
 
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 7°.
 
 El Consejo Directivo se integrará de la siguiente forma:
 
-I.- Con un Presidente, que será el Ciudadano Gobernador del Estado; pudiendo ser representado por el Secretario General de Gobierno;
+I. Con un Presidente, que será el Gobernador del Estado; pudiendo ser representado por el servidor público que para tales efectos designe;
 
-II.- Un Vocal Ejecutivo, que será el Subsecretario de Bienestar Social de la Secretaría General de Gobierno;
+II. Un Vocal Ejecutivo, que será el secretario general de Gobierno del Estado;
 
-III.- Un Vocal Secretario, que será el titular de la Dirección General del Instituto;
+III. Un Vocal Secretario, que será el titular de la dirección General del Instituto:
 
-IV.- Un Vocal representante del (sic) la Secretaria de Finanzas y Administración del Gobierno del Estado;
+IV. Un Vocal representante de la secretaría de Finanzas del Gobierno del Estado;
 
-V.- Un Vocal representante del Consejo Estatal para la Cultura y las Artes;
+V. Un Vocal representante del Consejo Estatal para la Cultura y las Artes;
 
-VI.- Un Vocal representante del Fondo Estatal para la Cultura y las Artes;
+VI. Un Vocal representante del Comité para la Planeación del Desarrollo en el Estado;
 
-VII.- Un Vocal representante del Comité para la Planeación del Desarrollo en el Estado;
+VII. Un Vocal representante del Patronato del Instituto;
 
-VIII.- Un Vocal representante del Patronato del Instituto; y
+VIII. Un Vocal representante por cada una de las Direcciones Municipales de Cultura o Dependencias equivalentes; y
 
-IX.- Un Vocal representante por cada una de las Direcciones Municipales de Cultura o dependencias equivalentes;
+IX. Un Comisario, que será el contralor General del Estado.
 
 ###### Artículo 8°.
 
@@ -173,9 +155,9 @@ XII.- Evaluar semestralmente las actividades del Instituto;
 
 XIII.- Aprobar el Reglamento Interior del Instituto a propuesta del Director General;
 
-XIV.- Designar al Director General del Instituto, de la terna propuesta por el Titular del Poder Ejecutivo del Estado;
+XIV.- (DEROGADA, B.O. 25 DE NOVIEMBRE DE 2006)
 
-XV.- Remover al Director General del Instituto cuando a juicio del propio Consejo Directivo existan causas suficientes para ello; y
+XV.- (DEROGADA, B.O. 25 DE NOVIEMBRE DE 2006)
 
 XVI.- Las demás que señalen otras disposiciones legales en la materia.
 
@@ -219,9 +201,11 @@ IX.- Dos Vocales que serán personas con méritos sobresaliente en la creativida
 
 Los nombramientos de presidente y vocales secretario y técnico serán designados por el Consejo Directivo y podrán ser invitados para participar como vocales representantes de las diversas instituciones de carácter federal que realicen actividades culturales y artísticas en la Entidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 14.
 
-La Dirección General de "El Instituto" estará a cargo de un Director General que será nombrado y removido en los términos del artículo 9° de la presente Ley y tendrá las facultades y obligaciones siguientes:
+La Dirección General del “El Instituto” estará a cargo de un Director General que será nombrado y removido por el Gobernador del Estado y tendrá las facultades y obligaciones siguientes:
 
 I.- Elaborar los planes y programas, así como los presupuestos anuales de ingresos y egresos del Instituto y someterlos a la consideración del Consejo Directivo;
 
@@ -235,7 +219,9 @@ V.- Establecer los mecanismos de evaluación que destaquen la eficiencia y la ef
 
 VI.- Supervisar, observar y ejecutar las políticas y los acuerdos que dicte el Consejo Directivo;
 
-VII.- Coordinar el Subcomité estatal de cultura en el seno del Comité de Planeación del Gobierno del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+VII.- Diseñar, establecer y coordinar la comisión Interinstitucional para el desarrollo cultural del Estado, de acuerdo al reglamento que al efecto expida el Ejecutivo del Estado; y (sic)
 
 VIII.- Formular el anteproyecto de Reglamento Interior del Instituto y someterlo a la consideración del Consejo Directivo;
 
@@ -245,15 +231,19 @@ X.- Determinar las vocalías con las que contará el Patronato; y
 
 XI.- Las demás que le otorguen el Consejo Directivo, el Reglamento Interior del Instituto y las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 15.
 
-El Patronato será el órgano auxiliar para la preservación, conservación y fomento del patrimonio del Instituto y se integrará de la siguiente manera:
+El Patronato será el órgano auxiliar en la obtención de recursos financieros que coadyuven a la preservación, conservación y fomento del patrimonio del Instituto, así como la participación de los sectores privado y social, y se integrará de la siguiente forma:
 
 I.- Un Presidente, cuya designación estará a cargo del Consejo Directivo;
 
 II.- Un Secretario, que será el Director General del Instituto;
 
-III.- Un Tesorero, que será nombrado por el Director General del Instituto, en coordinación con el titular de la Secretaría de Finanzas y Administración del Gobierno del Estado;
+> <small>(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+
+III.- Un Tesorero, que será nombrado por el Director General del Instituto, en coordinación con el titular de la Secretaría de Finanzas del Gobierno del Estado; y
 
 IV.- Vocales que representen instituciones, organismos y dependencias de promoción y apoyo a la cultura y las artes del Estado.
 
@@ -298,3 +288,15 @@ LIC. GUILLERMO MERCADO ROMERO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAUL ANTONIO ORTEGA SALGADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 25 DE NOVIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+El Reglamento Interior del Instituto Sudcaliforniano de Cultura, deberá ser expedido en un plazo no mayor de noventa días, contados a partir de la fecha en que entre en vigor el presente Decreto.
