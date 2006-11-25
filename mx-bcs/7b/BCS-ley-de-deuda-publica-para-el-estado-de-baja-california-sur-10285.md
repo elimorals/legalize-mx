@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-deuda-publica-para-el-estado-de-baja-california-sur-1028
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-31"
-last_updated: "1997-01-31"
+last_updated: "2006-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 25 DE NOVIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de enero de 1997.
 
@@ -398,3 +400,11 @@ LIC. GUILLERMO MERCADO ROMERO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAÚL ANTONIO ORTEGA SALGADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 25 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley de Deuda Pública para el Estado de Baja California Sur y sus Municipios aprobada el 31 de enero de 1997.
