@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2006-08-02"
+last_updated: "2006-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,55 +19,95 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR ATUN PROCESADO, EXCEPTO LOMOS, ORIGINARIO DE LOS PAISES DE LA COMUNIDAD EUROPEA, EN EL PERIODO DE JULIO DE 2006 AL 30 DE JUNIO DE 2007
+DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, DE LOS DIVERSOS POR LOS QUE SE ESTABLECE EL ESQUEMA DE IMPORTACION A LA FRANJA FRONTERIZA NORTE Y REGION FRONTERIZA Y SE REFORMAN Y ADICIONAN LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
+Decreto publicado la Primera Sección del Diario Oficial de la Federación, el lunes 27 de noviembre de 2006.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
-
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en el artículo 9 categoría 7 de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 34 de la Ley Orgánica de la Administración Pública Federal; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
-
-CONSIDERANDO
-
-Que para fortalecer y ampliar las relaciones comerciales con la Comunidad Europea y sus Estados Miembros, con fecha 8 de diciembre de 1997 se suscribió el Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, mismo que aprobó el Senado de la República el 23 de abril de 1998 y se publicó en el Diario Oficial de la Federación el 31 de agosto de 1998 el Decreto de Promulgación;
-
-Que el 23 y 24 de febrero de 2000, se firmó la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea que aprobó el Senado de la República el 20 de marzo de 2000 y con fecha de 26 de junio de 2000 se publicó en el Diario Oficial de la Federación el Decreto de Promulgación;
-
-Que el artículo 9 categoría 7 de la citada Decisión establece que los Estados Unidos Mexicanos otorgará cupos arancelarios con aranceles aduaneros reducidos sobre importaciones a nuestro país, para ciertos productos pesqueros originarios de la Comunidad Europea;
-
-Que el procedimiento de asignación de los cupos de importación otorgados por los Estados Unidos Mexicanos a ciertos productos pesqueros originarios de la Comunidad Europea, es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados, y
-
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
-
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR ATUN PROCESADO, EXCEPTO LOMOS, ORIGINARIO DE LOS PAISES DE LA COMUNIDAD EUROPEA, EN EL PERIODO DE JULIO DE 2006 AL 30 DE JUNIO DE 2007
-
-###### ARTÍCULO DÉCIMO PRIMERO.
-
-Se suprimen y se adicionan al Apéndice del Decreto por el que se establece la Tasa Aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en el orden que les corresponda según su numeración:
-
-(VEASE ARCHIVO ANEXO)
-
-...
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que es importante mantener la competitividad de la industria nacional, en los sectores de colorantes comestibles e industriales y el eléctrico, por lo que se reducen los aranceles de insumos imprescindibles para la elaboración de colorantes, como es el caso del dióxido de circonio y de la oleorresina de zempasuchitl; y en cuanto al sector eléctrico, para la fabricación de fusibles eléctricos, como los tubos de porcelana para fusibles de alta tensión o la chatarra de aluminio;
+Que la cadena textil-confección es un sector de la industria nacional altamente generador de empleos y que requiere contar con las condiciones idóneas para obtener sus insumos, imprescindibles para la elaboración de bienes de consumo final, a precios internacionales, sin afectar al resto de la industria nacional; es necesario reducir el arancel a diversos productos textiles de esta cadena;
 
-Que es necesario, identificar e individualizar determinados productos que han ocasionado discrepancias en la clasificación arancelaria, como es el caso de las máquinas surtidoras de agua, así como identificar otros productos para que la industria nacional identifique con claridad los nichos de mercado y responder con mayor efectividad y oportunidad a los requerimientos del mercado, tal es el caso de tapas de apertura fácil, destinadas a la elaboración de envases para alimentos y bebidas;
+Que existen, dentro de la misma cadena textil-confección, fibras e hilados especiales que no se fabrican en el país y que se clasifican en la misma fracción arancelaria, en donde se clasifican fibras e hilados de fabricación nacional, por lo que se considera adecuado establecer un arancel-cupo, para brindar a este sector industrial la posibilidad de proveeduría a precios competitivos;
 
-Que para desarrollar el segmento del mercado de llantas recauchutadas (renovadas) para camión a través de la importación de llantas usadas para su procesamiento por parte de las plantas renovadoras establecidas en el país, donde se podría generar una mayor oferta de este tipo de productos, redundando en un beneficio de precios y costos, tanto para las empresas renovadoras como para los usuarios finales, se establece un arancel específico a estos productos;
+Que es adecuado monitorear los flujos comerciales de vinos, bebidas que contienen aguardientes o destilados de agave; para ello se considera conveniente identificarlas en fracciones arancelarias específicas, con el fin de que la industria nacional cuente con información oportuna para la toma de decisiones;
 
-Que es necesario actualizar el Decreto por el que se establece la Tasa Aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, así como el Decreto por el que se establece la Tasa Aplicable del 1 de abril de 2005 al 31 de marzo de 2006 del Impuesto General de Importación para las mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005;
+Que es necesario apoyar a la industria nacional para identificar e individualizar determinados productos en fracciones arancelarias específicas para conocer con claridad las estadísticas de los flujos internacionales de comercio, como lo es el caso de las láminas de acero al boro para la industria siderúrgica;
 
-Que es importante actualizar el Decreto por el que se establecen diversos Programas de Promoción Sectorial, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002, con ciertas fracciones que se crean en este instrumento, para no eliminar la preferencia arancelaria otorgada bajo este esquema a las empresas fabricantes nacionales;
+Que es importante establecer medidas arancelarias que favorezcan la importación de embarcaciones especializadas para el tratamiento o procesamiento del petróleo crudo, que apoyen en la operación y el desarrollo de esa industria;
 
-Que en virtud de que ciertos productos que se importan al amparo del diverso por el que se establece el impuesto general de importación para la Región Fronteriza y la Franja Fronteriza Norte, se ven afectados por la creación de nuevas fracciones arancelarias, es necesario realizar los ajustes correspondientes para que estos productos mantengan las condiciones arancelarias previstas en dicho ordenamiento, y
+Que debido a las modificaciones arancelarias previstas en el presente instrumento es necesario actualizar el Decreto por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón;
 
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, las modificaciones previstas en el presente ordenamiento, a solicitud de los sectores industriales nacionales, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
+Que también es importante actualizar el Decreto por el que se establecen diversos Programas de Promoción Sectorial, con las fracciones que se crean en el presente instrumento, para no eliminar la preferencia arancelaria otorgada bajo este esquema a las empresas fabricantes nacionales;
+
+Que en virtud de que algunos productos que se importan al amparo del Decreto por el que se establece el impuesto general de importación para la Región Fronteriza y la Franja Fronteriza Norte, se ven afectados por la creación de nuevas fracciones arancelarias, es necesario realizar los ajustes correspondientes para que estos productos mantengan las condiciones arancelarias previstas en dicho ordenamiento, y
+
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas a que se refiere este Decreto, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
 
 DECRETO
+
+...
+
+###### ARTÍCULO DÉCIMO.
+
+Se adicionan y suprimen del ARTÍCULO 21 del Decreto por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+Fracción Arancel Modalidad de la mercancía
+
+7213.91.01 0.8 SUPRIMIDA
+
+7213.91.03 0.8 Con un contenido de carbono igual o superior a 0.6 % en peso.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se adicionan y suprimen del ARTÍCULO 23 del Decreto que se señala en el Artículo Décimo del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+Fracción Arancel Modalidad de la mercancía
+
+7213.91.01 5.8 SUPRIMIDA
+
+7213.91.03 4.5 Con un contenido de carbono igual o superior a 0.6 % en peso.
+
+ARTÍCULO DUODÉCIMO (SIC).- Se adicionan y suprimen del ARTÍCULO 24 del Decreto que se señala en el Artículo Décimo del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+Fracción Arancel Modalidad de la mercancía
+
+7213.91.01 5.8 SUPRIMIDA
+
+7213.91.03 4.5 Con un contenido de carbono igual o superior a 0.6 % en peso.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se adicionan al ARTÍCULO 14 del Decreto que se señala en el Artículo Décimo del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se modifica el ARTÍCULO 16 del Decreto que se señala en el Artículo Décimo del presente ordenamiento, para quedar como sigue:
+
+“ARTÍCULO 16.- La importación de las mercancías originarias del área conformada por México y el Japón, comprendidas en las fracciones arancelarias que se identifican con el código “PXIX” y “PXIX*” bajo el rubro “Nota” en el Apéndice, estará libre de arancel siempre que el importador esté autorizado para operar bajo el Programa de Promoción Sectorial de la Industria Automotriz y de Autopartes de México, sin embargo las mercancías que se identifican con el código “PXIX*” en las fracciones 7226.91.02, 7226.91.03, 7226.91.04, 7226.91.05 y 7226.91.06, gozarán del arancel mencionado únicamente cuando se trate de la “modalidad de la mercancía” que se indica:
+
+Fracción Modalidad de la mercancía
+
+7226.91.02 De anchura inferior o igual a 500 mm.
+
+7226.91.03 De anchura inferior o igual a 500 mm.
+
+7226.91.04 De anchura inferior o igual a 500 mm.
+
+7226.91.05 De anchura inferior o igual a 500 mm.
+
+7226.91.06 De anchura inferior o igual a 500 mm.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se adicionan y suprimen al Apéndice del Decreto que se señala en el Artículo Décimo del presente ordenamiento, las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican:
+
+(VEASE ARCHIVO ANEXO)
 
 ...
 
@@ -243,24 +283,10 @@ a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: 
 
 b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá en su vigencia el 30 de junio de 2007.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, excepto lo estipulado en el siguiente artículo transitorio.
 
-México, D.F., a 28 de julio de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+SEGUNDO.- Las disposiciones relativas a las fracciones arancelarias 2208.70.01, 2208.70.02, 2208.90.02 y 2208.90.04, establecidas en este Decreto, entrarán en vigor el día que entre en vigor el Acuerdo que modifique al similar que identifica las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en las que se clasifican las mercancías sujetas al cumplimiento de las normas oficiales mexicanas en el punto de su entrada al país, y en el de su salida, publicado en el Diario Oficial de la Federación el 27 de marzo de 2002, que contenga dichas fracciones.
 
-ANEXO
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-HOJA DE REQUISITOS PARA LA EXPEDICION DEL CERTIFICADO DEL CUPO DE IMPORTACIÓN ORIGINARIO DE LA COMUNIDAD EUROPEA DECISION 2/2000 DEL CONSEJO CONJUNTO DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA COMUNIDAD EUROPEA
-
-ATUN PROCESADO, EXCEPTO LOMOS
-
-Fracciones arancelarias europeas: 1604.14.01; 1604.14.99; 1604.19.01 y 1604.20.02
-
-Asignación Directa bajo la modalidad de “Primero en tiempo, primero en derecho”
-
-(VEASE ARCHIVO ANEXO)
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
