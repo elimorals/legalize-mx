@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-453
 country: "mx"
 rank: "otro"
 publication_date: "2004-07-19"
-last_updated: "2006-11-03"
+last_updated: "2006-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45385&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,37 +18,51 @@ issue_date: "2004-04-14"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA ORIENTAL DEL URUGUAY, 2003)
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS Y EL PROCEDIMIENTO PARA SU ASIGNACION, PARA IMPORTAR QUESOS Y TEJIDOS DE LANA, ORIGINARIOS DE LA REPUBLICA ORIENTAL DEL URUGUAY, CONFORME AL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ORIENTAL DEL URUGUAY
+DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, DE LOS DIVERSOS POR LOS QUE SE ESTABLECE EL ESQUEMA DE IMPORTACION A LA FRANJA FRONTERIZA NORTE Y REGION FRONTERIZA Y SE REFORMAN Y ADICIONAN LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
 
-Acuerdo publicado en el Diario Oficial de la Federación, el viernes 3 de noviembre de 2006.
+Decreto Publicado la Primera Sección del Diario Oficial de la Federación, el lunes 27 de noviembre de 2006.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 3-03 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay; 34 de la Ley Orgánica de la Administración Pública Federal; 4o., fracción III, 5o., fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que para fortalecer y ampliar las relaciones comerciales con la República Oriental del Uruguay, con fecha 15 de noviembre de 2003 se suscribió el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, mismo que aprobó el Senado de la República el 28 de abril de 2004 y fue promulgado mediante Decreto publicado en el Diario Oficial de la Federación el 14 de julio de 2004;
+Que la cadena textil-confección es un sector de la industria nacional altamente generador de empleos y que requiere contar con las condiciones idóneas para obtener sus insumos, imprescindibles para la elaboración de bienes de consumo final, a precios internacionales, sin afectar al resto de la industria nacional; es necesario reducir el arancel a diversos productos textiles de esta cadena;
 
-Que el artículo 3-03 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay establece que México permitirá la importación de ciertas mercancías originarias de Uruguay con una preferencia arancelaria porcentual dentro de una cuota determinada;
+Que existen, dentro de la misma cadena textil-confección, fibras e hilados especiales que no se fabrican en el país y que se clasifican en la misma fracción arancelaria, en donde se clasifican fibras e hilados de fabricación nacional, por lo que se considera adecuado establecer un arancel-cupo, para brindar a este sector industrial la posibilidad de proveeduría a precios competitivos;
 
-Que los procedimientos de asignación de los cupos que se tratan en el presente Acuerdo, son un instrumento de la política sectorial para promover condiciones equitativas de competencia e incrementar las corrientes comerciales con aquellos países con los que México tiene suscritos acuerdos comerciales;
+Que es adecuado monitorear los flujos comerciales de vinos, bebidas que contienen aguardientes o destilados de agave; para ello se considera conveniente identificarlas en fracciones arancelarias específicas, con el fin de que la industria nacional cuente con información oportuna para la toma de decisiones;
 
-Que el 5 de septiembre de 2006 se publicó en el Diario Oficial de la Federación el Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial, de los diversos por los que se establece el Esquema de Importación a la Franja Fronteriza Norte y Región Fronteriza y se reforman y adicionan los diversos que establecen la Tasa Aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de algunos países con los que México ha celebrado Tratados y Acuerdos Comerciales, mediante el cual se modifican los requisitos para la importación de las mercancías a través de las fracciones arancelarias 0406.90.03, 0406.90.05, 0406.90.06 y 0406.90.99, comprendidas en el Decreto por el que se establece la Tasa Aplicable del Impuesto General de Importación para las mercancías originarias de la República Oriental del Uruguay, publicado en el Diario Oficial de la Federación el 19 de julio de 2004, y
+Que es necesario apoyar a la industria nacional para identificar e individualizar determinados productos en fracciones arancelarias específicas para conocer con claridad las estadísticas de los flujos internacionales de comercio, como lo es el caso de las láminas de acero al boro para la industria siderúrgica;
 
-Que la medida a que se refiere el presente Acuerdo, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que es importante establecer medidas arancelarias que favorezcan la importación de embarcaciones especializadas para el tratamiento o procesamiento del petróleo crudo, que apoyen en la operación y el desarrollo de esa industria;
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS Y EL PROCEDIMIENTO PARA SU ASIGNACION, PARA IMPORTAR QUESOS Y TEJIDOS DE LANA, ORIGINARIOS DE LA REPUBLICA ORIENTAL DEL URUGUAY, CONFORME AL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ORIENTAL DEL URUGUAY
+Que debido a las modificaciones arancelarias previstas en el presente instrumento es necesario actualizar el Decreto por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón;
 
-###### ARTICULO UNICO.
+Que también es importante actualizar el Decreto por el que se establecen diversos Programas de Promoción Sectorial, con las fracciones que se crean en el presente instrumento, para no eliminar la preferencia arancelaria otorgada bajo este esquema a las empresas fabricantes nacionales;
 
-Se modifica el artículo quinto del Acuerdo por el que se dan a conocer los cupos y el procedimiento para su asignación, para importar quesos y tejidos de lana, originarios de la República Oriental del Uruguay, conforme al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, publicado en el Diario Oficial de la Federación el 14 de julio de 2005, para quedar como sigue:
+Que en virtud de que algunos productos que se importan al amparo del Decreto por el que se establece el impuesto general de importación para la Región Fronteriza y la Franja Fronteriza Norte, se ven afectados por la creación de nuevas fracciones arancelarias, es necesario realizar los ajustes correspondientes para que estos productos mantengan las condiciones arancelarias previstas en dicho ordenamiento, y
 
-“ARTICULO QUINTO.- Una vez asignado el monto para importar dentro del arancel-cupo, la Secretaría, a través de la Representación Federal correspondiente, expedirá los certificados de cupo que correspondan, previa solicitud del interesado en el formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)” en un plazo no mayor a 7 días hábiles, contados a partir de la fecha de recepción de la solicitud.
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas a que se refiere este Decreto, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
 
-El certificado de cupo es nominativo e intransferible.
+DECRETO
 
-La vigencia máxima de los certificados de cupo de importación será al 14 de julio de cada año, y será improrrogable.”
+...
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se adiciona al ARTÍCULO 9 del Decreto por el que se establece la Tasa Aplicable del Impuesto General de Importación para las mercancías originarias de la República Oriental del Uruguay, publicado en el Diario Oficial de la Federación el 19 de julio de 2004, la siguiente fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Se adicionan al ARTÍCULO 10 del Decreto que se señala en el Artículo Décimo Sexto del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+(VEASE ARCHVIO ANEXO)
+
+...
 
 ###### ARTÍCULO 1.
 
@@ -154,8 +168,8 @@ DEROGADO”
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, excepto lo estipulado en el siguiente artículo transitorio.
 
-SEGUNDO.- Los beneficiarios de los cupos de importación de quesos originarios de Uruguay que cuenten con permisos de importación vigentes, que hayan sido expedidos al amparo del Acuerdo por el que se dan a conocer los cupos y el procedimiento para su asignación, para importar quesos y tejidos de lana, originarios de la República Oriental del Uruguay, conforme al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, publicado en el Diario Oficial de la Federación el 14 de julio de 2005, podrán acudir a la Representación Federal correspondiente, a canjear el saldo no ejercido de sus permisos de importación por certificados de cupo, para lo cual, contarán con un plazo máximo de quince días hábiles a partir de la entrada en vigor del presente Acuerdo. Las solicitudes de los interesados se harán a través del formato SE-03-013-5 "Solicitud de certificado de cupo (obtenido por asignación directa)".
+SEGUNDO.- Las disposiciones relativas a las fracciones arancelarias 2208.70.01, 2208.70.02, 2208.90.02 y 2208.90.04, establecidas en este Decreto, entrarán en vigor el día que entre en vigor el Acuerdo que modifique al similar que identifica las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en las que se clasifican las mercancías sujetas al cumplimiento de las normas oficiales mexicanas en el punto de su entrada al país, y en el de su salida, publicado en el Diario Oficial de la Federación el 27 de marzo de 2002, que contenga dichas fracciones.
 
-México, D.F., a 29 de septiembre de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
