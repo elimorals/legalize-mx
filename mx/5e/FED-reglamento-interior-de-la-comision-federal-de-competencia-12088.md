@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-federal-de-competencia-12088
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-28"
-last_updated: "2002-09-10"
+last_updated: "2006-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-08-25"
 
 REGLAMENTO INTERIOR DE LA COMISION FEDERAL DE COMPETENCIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 28 de agosto de 1998.
 
@@ -89,31 +89,53 @@ IV.- Direcciones Generales Operativas:
 
 a) De Asuntos Jurídicos;
 
-b) De Estudios Económicos;
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-c) De Concentraciones;
+b) De Asuntos Contenciosos;
 
-d) De Investigaciones;
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-e) De Procesos de Privatización y Licitación, y
+c) De Estudios Económicos;
 
-f) De Coordinación Regional.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-V.- Direcciones Generales de Coordinación y Apoyo Administrativo:
+d) De Concentraciones;
 
-a) De Regulación Internacional;
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-b) De Normatividad Económica;
+e) De Investigaciones de Prácticas Monopólicas Absolutas y Restricciones al Comercio Interestatal;
 
-c) De Control y Seguimiento;
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-d) De Administración, y
+f) De Investigaciones de Prácticas Monopólicas Relativas;
 
-e) De Comunicación Social.
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-VI.- Delegaciones u oficinas regionales, que sean necesarias para la debida aplicación y vigilancia de las funciones y atribuciones que le corresponden, de conformidad con lo establecido en la Ley, este Reglamento y las demás disposiciones aplicables, y
+g) De Procesos de Privatización y Licitación, y
 
-VII.- Las demás unidades y personal técnico y administrativo que autorice el Presidente, de acuerdo con el presupuesto autorizado y de conformidad con lo establecido por el artículo 28, fracción V de la Ley, y sujeto a las normas y lineamientos que la Secretaría de Hacienda y Crédito Público emita en la materia.
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+h) De Mercados Regulados.
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+V.- Unidad de Planeación, Vinculación y Asuntos Internacionales;
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+VI.- Direcciones Generales de Coordinación y Apoyo Administrativo:
+
+a) De Enlace, y
+
+b) De Administración.
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+VII.- Delegaciones u oficinas regionales, que sean necesarias para la debida aplicación y vigilancia de las funciones y atribuciones que le corresponden, de conformidad con lo establecido en la Ley, este Reglamento y las demás disposiciones aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+VIII.- Las demás unidades y personal técnico y administrativo que autorice el Presidente, de acuerdo con el presupuesto autorizado y de conformidad con lo establecido por el artículo 28, fracción V de la Ley, y sujeto a las normas y lineamientos que la Secretaría de Hacienda y Crédito Público emita en la materia.
 
 > <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2002)</small>
 
@@ -159,7 +181,9 @@ V.- Opinar sobre los proyectos de leyes y reglamentos en lo relativo a competenc
 
 VI.- Aprobar los manuales de organización y de procedimientos, así como la normatividad interna de la Comisión;
 
-VII.- Conocer el informe previo sobre posibles desechamientos de denuncias notoriamente improcedentes, y aprobar o impugnar total o parcialmente dicho informe;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+VII.- Conocer el informe sobre los desechamientos de denuncias notoriamente improcedentes;
 
 VIII.- Resolver los recursos de reconsideración que se interpongan contra los actos de la propia Comisión;
 
@@ -215,7 +239,9 @@ I.- Proponer al Pleno las políticas de la Comisión y, cuando sean aprobadas, c
 
 II.- Someter a consideración del Pleno la interpretación para efectos administrativos de cualquier disposición de este Reglamento, cuando exista duda, confusión o desacuerdo respecto de su alcance o sentido;
 
-III.- Admitir a trámite los casos y recursos interpuestos ante la Comisión y acordar con el Secretario Ejecutivo, en su caso, el desechamiento de los notoriamente improcedentes sin necesidad de prevención en caso alguno;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+III.- Admitir y turnar a trámite los casos y recursos interpuestos ante la Comisión y acordar con el Secretario Ejecutivo el desechamiento de los notoriamente improcedentes sin necesidad de prevención en caso alguno; así como el inicio de las investigaciones de oficio;
 
 IV.- Formular las bases, revisar los requisitos y suscribir los convenios y contratos que celebre la Comisión;
 
@@ -239,9 +265,17 @@ XIII.- Emitir los acuerdos de suplencia y delegación de facultades;
 
 XIV.- Nombrar y remover discrecionalmente a los servidores públicos de confianza salvo las excepciones establecidas en la Ley, este Reglamento u otras disposiciones aplicables;
 
-XV.- Proponer a la aprobación del Pleno los manuales de organización y de procedimientos de la Comisión, así como la normatividad en materia de confidencialidad y los demás ordenamientos internos que juzgue convenientes para el buen desempeño de sus funciones, y
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-XVI.- Las demás que señalen la Ley, este Reglamento u otros ordenamientos.
+XV.- Proponer a la aprobación del Pleno los manuales de organización y de procedimientos de la Comisión, así como la normatividad en materia de confidencialidad y los demás ordenamientos internos que juzgue convenientes para el buen desempeño de sus funciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+XVI.- Acordar con el Secretario Ejecutivo la orden de no ejecutar la concentración en términos del artículo 20 de la Ley, y
+
+> <small>(ADICIONADA, [N. DE E. REUBICADA], D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+XVII.- Las demás que señalen la Ley, este Reglamento u otros ordenamientos.
 
 ### CAPÍTULO IV. Del Secretario Ejecutivo
 
@@ -267,7 +301,9 @@ VIII.- Resolver, previo acuerdo del Presidente, las consultas que presenten los 
 
 IX.- Promover y coordinar las relaciones de la Comisión con las distintas dependencias y entidades de la Administración Pública Federal, de los estados, los municipios, u otros organismos públicos o privados, en lo relativo a los procedimientos, opiniones y consultas a cargo de la Comisión;
 
-X.- Admitir a trámite los casos y recursos interpuestos ante la Comisión y acordar con el Presidente en su caso, el desechamiento de los notoriamente improcedentes sin necesidad de prevención en caso alguno;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+X.- Admitir y turnar a trámite los casos y recursos interpuestos ante la Comisión y acordar con el Presidente el desechamiento de los notoriamente improcedentes sin necesidad de prevención en caso alguno; así como el inicio de las investigaciones de oficio;
 
 XI.- Expedir copias certificadas de las constancias que obren en el archivo de la Comisión, cuando deban ser exhibidas en algún procedimiento, proceso o averiguación, o cuando se considere procedente por existir causas análogas. Asimismo, se deberán expedir copias certificadas cuando medie mandamiento escrito de autoridad competente;
 
@@ -277,21 +313,39 @@ XIII.- Tener a su cargo el establecimiento, operación y control de la Oficialí
 
 XIV.- Colaborar con el Presidente en la elaboración del informe anual de la Comisión, así como en los informes especiales que se requieran;
 
-XV.- Coordinar, con la Dirección General de Regulación Internacional, la participación de los servidores públicos de la Comisión en reuniones, convenciones, congresos, simposios y cualquier otra reunión a nivel nacional o internacional, en materia de competencia y libre concurrencia, bajo los lineamientos e instrucciones que señale el Presidente;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-XVI.- Compilar las resoluciones de la Comisión y publicarlas en coordinación con el Director General de Regulación Internacional cuando el Presidente así se lo señale;
+XV.- Coordinar, con la Unidad de Planeación, Vinculación y Asuntos Internacionales, la participación de los servidores públicos de la Comisión en reuniones, convenciones, congresos, y simposios en materia de competencia y libre concurrencia, bajo los lineamientos e instrucciones que señale el Presidente;
 
-XVII.- Formar, mantener, custodiar y acrecentar el acervo biblio-hemerográfico de la Comisión, y
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-XVIII.- Las demás que señalen la Ley, este Reglamento y otros ordenamientos, o que mediante acuerdo de delegación le otorgue el Presidente.
+XVI.- Compilar las resoluciones de la Comisión y publicarlas en coordinación con el Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales bajo los lineamientos e instrucciones que señale el Presidente;
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+XVII.- Formar, mantener, custodiar y acrecentar el acervo biblio-hemerográfico de la Comisión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+XVIII.- Acordar con el Presidente la orden de no ejecutar una concentración en términos del artículo 20 de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+XIX.- Ordenar las visitas de verificación y su debido desahogo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+XX. Las demás que señalen la Ley, este Reglamento y otros ordenamientos, o que mediante acuerdo de delegación le otorgue el Presidente.
 
 ### CAPÍTULO V. De las Direcciones Generales
 
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 24.
 
-Para el desempeño de sus funciones, las Direcciones Generales tendrán un Director General, un Director General Adjunto, Directores de Área, Subdirectores, Jefes de Departamento, Analistas y demás personal técnico y administrativo que autorice el Presidente, de acuerdo con el presupuesto asignado y conforme a lo establecido en el artículo 28, fracción V de la Ley.
+Cada Dirección General estará a cargo de un Director General, quien será apoyado para el ejercicio de sus facultades de los Directores Generales Adjuntos, Directores de Área, Subdirectores, Jefes de Departamento, Analistas y demás personal técnico y administrativo que autorice el Presidente, de acuerdo con el presupuesto asignado y conforme a lo establecido en el artículo 28, fracción V de la Ley.
 
-Las Direcciones Generales Operativas responderán directamente del desempeño de sus funciones y del ejercicio de sus atribuciones ante el Secretario Ejecutivo; las de Coordinación y Apoyo Administrativo ante el Presidente. Las demás unidades o áreas administrativas lo harán ante su superior inmediato.
+Las Direcciones Generales Operativas responderán directamente del desempeño de sus funciones y del ejercicio de sus atribuciones ante el Secretario Ejecutivo; las de Coordinación y Apoyo Administrativo ante el Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales, quien a su vez responderá directamente ante el Presidente. Las demás unidades o áreas administrativas lo harán ante su superior inmediato.
 
 ###### ARTÍCULO 25.
 
@@ -327,63 +381,97 @@ IV.- Proponer a la Secretaría Ejecutiva el ingreso, promociones y licencias del
 
 V.- Elaborar proyectos sobre la organización de la Dirección General a su cargo y proponerlas al Secretario Ejecutivo.
 
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 27.
 
 Corresponde a las Direcciones Generales de Coordinación y Apoyo Administrativo:
 
-I.- Acordar con el Presidente los asuntos que sean de su competencia;
+I.- Acordar con el Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales los asuntos que sean de su competencia;
 
-II.- Proponer al Presidente la celebración de bases de concertación y colaboración con otras dependencias, entidades, instituciones u organismos públicos o privados, con el objeto de facilitar el despacho de los asuntos que les corresponda;
+II.- Proponer al Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales la celebración de bases de concertación y colaboración con otras dependencias, entidades, instituciones u organismos públicos o privados, con el objeto de facilitar el despacho de los asuntos que les correspondan;
 
-III.- Formular los estudios, recomendaciones y proyectos que les sean solicitados por el Presidente;
+III.- Formular los estudios, recomendaciones y proyectos que les sean solicitados por el Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales;
 
-IV.- Elaborar proyectos sobre la organización de la Dirección General a su cargo y proponerlos al Presidente, y
+IV.- Elaborar proyectos sobre la organización de la Dirección General a su cargo y proponerlos al Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales, y
 
-V.- Instrumentar por indicaciones del Presidente los mecanismos de coordinación o apoyo administrativo que faciliten la conducción y aplicación de la política de competencia y el funcionamiento administrativo de la Comisión.
+V.- Instrumentar, por indicaciones del Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales los mecanismos de coordinación o apoyo administrativo que faciliten la conducción y aplicación de la política de competencia y el funcionamiento administrativo de la Comisión.
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 28.
 
-. Corresponde a la Dirección General de Asuntos Jurídicos:
+Corresponde a la Dirección General de Asuntos Jurídicos:
 
 I.- Apoyar, conforme a los lineamientos que señale el Secretario Ejecutivo y en coordinación con las demás Direcciones Generales Operativas, en el análisis de los proyectos de iniciativas de leyes, reglamentos, acuerdos, decretos, normas oficiales mexicanas y demás disposiciones de observancia general en materia de competencia económica y libre concurrencia, incluyendo actos de autoridad;
 
-II.- Asesorar a los distintos órganos de la Comisión cuando éstos así se lo soliciten, y vigilar la legalidad de la actuación de los servidores públicos de la Comisión en el ejercicio de sus atribuciones;
+II.- Vigilar la legalidad de la actuación de los servidores públicos de la Comisión en el ejercicio de sus atribuciones;
 
 III.- Proponer a la Secretaría Ejecutiva la interpretación y los criterios generales de aplicación de las disposiciones jurídicas aplicables;
 
 IV.- Opinar respecto de los dictámenes que le turnen otras Direcciones Generales, y supervisar o tramitar el desahogo de los procedimientos jurídicos que realice la Comisión, incluyendo el conocimiento, trámite o desahogo de las pruebas en los mismos y del incidente de suspensión de la ejecución de resoluciones;
 
-V.- Representar a la Comisión, al Presidente y al Secretario Ejecutivo en toda clase de procedimientos judiciales, administrativos, contenciosos administrativos y laborales, y coadyuvar en la elaboración de los informes justificados en los juicios de amparo, así como presentar denuncias o querellas ante el Ministerio Público en los casos en que procedan;
+V.- Asesorar en aspectos jurídicos a los servidores públicos y Unidades Administrativas de la Comisión;
 
-VI.- Asesorar a los órganos de la Comisión y opinar en los asuntos laborales relativos al personal, incluyendo las prácticas y levantamiento de constancias y actas administrativas, y dictaminar sobre las bajas y demás sanciones que procedan respecto del personal;
+VI.- Expedir, por acuerdo del Secretario Ejecutivo, órdenes de presentación de documentación o información conforme a lo dispuesto por los artículos 21 y 31 de la Ley, así como citar a declarar a quienes tengan relación con los casos de que se trate, aplicando en su caso las medidas de apremio señaladas por la Ley;
 
-VII.- Apoyar a la Dirección General de Administración en los aspectos legales de las funciones previstas en el artículo 37, fracciones VI, VII y IX de este Reglamento;
+VII.- Supervisar la debida cumplimentación de las resoluciones de la Comisión, notificando al Secretario Ejecutivo el incumplimiento o insuficiencia en su ejecución;
 
-VIII.- Expedir, por acuerdo del Secretario Ejecutivo, órdenes de presentación de documentación o información conforme a lo dispuesto por los artículos 21 y 31 de la Ley, así como citar a declarar a quienes tengan relación con los casos de que se trate, aplicando en su caso las medidas de apremio señaladas por la Ley;
+VIII.- Recibir, tramitar y proponer los dictámenes sobre los recursos de reconsideración que se interpongan ante la Comisión, de conformidad con el artículo 39 de la Ley, y
 
-IX.- Supervisar la debida cumplimentación de las resoluciones de la Comisión, notificando al Secretario Ejecutivo el incumplimiento o insuficiencia en su ejecución;
+IX.- Vigilar la aplicación de las medidas de apremio previstas en el artículo 34 de la Ley y proponer al Secretario Ejecutivo, en coordinación con las Direcciones Generales competentes, el monto de la multa que corresponda.
 
-X.- Señalar las bases y requisitos legales a que deban sujetarse los convenios y contratos que suscriba la Comisión, dictaminarlos y llevar registro de los mismos;
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-XI.- Recibir, tramitar y proponer los dictámenes sobre los recursos de reconsideración que se interpongan ante la Comisión, de conformidad con el artículo 39 de la Ley, y
+###### ARTÍCULO 28 Bis.
 
-XII.- Vigilar la aplicación de las medidas de apremio previstas en el artículo 34 de la Ley y proponer al Secretario Ejecutivo, en coordinación con las Direcciones Generales competentes, el monto de la multa que corresponda.
+Corresponde a la Dirección General de Asuntos Contenciosos:
 
-La Dirección General de Asuntos Jurídicos estará a cargo del Director General, quien será apoyado para el ejercicio de sus facultades del Director General Adjunto Jurídico y de los Directores de Asuntos Contenciosos y de Amparos.
+I.- Representar a la Comisión, al Presidente y al Secretario Ejecutivo en toda clase de procedimientos judiciales, administrativos, contenciosos administrativos y laborales; elaborar los informes previos o con justificación, recursos y demás documentos en los juicios de amparo, así como presentar denuncias o querellas ante el Ministerio Público en los casos en que procedan;
+
+II.- Apoyar, conforme a los lineamientos que señale el Secretario Ejecutivo y en coordinación con las demás Direcciones Generales Operativas, en el análisis de los proyectos de iniciativas de leyes o decretos, así como de reglamentos, acuerdos, decretos, normas oficiales mexicanas y demás disposiciones de observancia general en materia de competencia económica y libre concurrencia, incluyendo actos de autoridad;
+
+III.- Asesorar a los distintos órganos de la Comisión cuando éstos así se lo soliciten;
+
+IV.- Proponer a la Secretaría Ejecutiva la interpretación y los criterios generales de aplicación de las disposiciones jurídicas aplicables;
+
+V.- Emitir opinión en los asuntos laborales relativos al personal, incluyendo las prácticas y levantamiento de constancias y actas administrativas, así como sobre las bajas y demás sanciones que procedan respecto del personal;
+
+VI.- Apoyar a la Dirección General de Administración en los aspectos legales de las funciones previstas en el artículo 37, fracciones VI, VII y IX de este Reglamento, y
+
+VII.- Señalar las bases y requisitos legales a que deban sujetarse los convenios y contratos que suscriba la Comisión, dictaminarlos y llevar registro de los mismos.
 
 ###### ARTÍCULO 29.
 
 Corresponde a la Dirección General de Estudios Económicos:
 
-I.- Realizar el análisis técnico-económico de los diversos mercados de bienes y servicios, de acuerdo con las políticas aprobadas por el Pleno, para los efectos que determine el Presidente, algún Comisionado, la Secretaría Ejecutiva o la misma Dirección General;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-II.- Realizar los estudios técnicos para la resolución de los casos que se presenten ante la Comisión;
+I.- Apoyar, conforme a los lineamientos que señale el Secretario Ejecutivo y en coordinación con las demás Direcciones Generales Operativas, en el análisis de los aspectos económicos de los asuntos tramitados ante la Comisión;
 
-III.- Analizar y estudiar en coordinación con las Direcciones Generales competentes, el marco jurídico vigente, así como los proyectos de leyes, reglamentos y normatividad, para determinar su impacto en la competencia económica y libre concurrencia;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-IV.- Analizar el comportamiento de los distintos agentes económicos en los sectores regulados, por lo que respecta a competencia económica, y
+II.- Asesorar a los distintos órganos de la Comisión en materia económica;
 
-V.- Formular estudios y elaborar propuestas para establecer las políticas de competencia de la Comisión.
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+III.- Realizar los estudios económicos para efecto de la aplicación de la Ley así como para la promoción del proceso de competencia y libre concurrencia;
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+IV.- Realizar los estudios económicos en los diversos mercados de bienes y servicios y proponer al Secretario Ejecutivo los mecanismos de colaboración con las dependencias competentes para su elaboración, difusión y promoción;
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+V.- Elaborar opiniones sobre el impacto en el proceso de competencia y libre concurrencia de las acciones de la Comisión, del marco jurídico vigente y de los proyectos de iniciativas de leyes o decretos, así como de reglamentos, acuerdos, decretos, normas oficiales mexicanas y demás disposiciones de observancia general, para los efectos que determine el Pleno, el Presidente o el Secretario Ejecutivo;
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+VI.- Formular estudios y elaborar propuestas para el establecimiento de las políticas de competencia de la Comisión, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+VII.- Realizar las opiniones técnico económicas en materia de competencia y libre concurrencia, de conformidad con los lineamientos que establezca el Presidente o el Secretario Ejecutivo, para ser presentados ante las autoridades administrativas o judiciales.
 
 ###### ARTÍCULO 30.
 
@@ -401,133 +489,171 @@ V.- Llevar el registro de las autorizaciones u observaciones que formule la Comi
 
 VI.- Estudiar y hacer propuestas en materia de leyes, reglamentos y normatividad vigente o en proyecto, así como en materia de actos de autoridad relacionados con concentraciones, en coordinación con las Direcciones Generales Operativas correspondientes.
 
-La Dirección General de Concentraciones estará a cargo del Director General, quien será apoyado para el ejercicio de sus facultades del Director General Adjunto de Concentraciones y de los Directores de Registros de Fusiones y Concentraciones, y de Análisis y Autorización de Concentraciones.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 31.
 
-Corresponde a la Dirección General de Investigaciones:
+Corresponde a la Dirección General de Investigaciones de Prácticas Monopólicas Absolutas y Restricciones al Comercio Interestatal:
 
-I.- Iniciar y coordinar las investigaciones que se lleven a cabo de oficio o a instancia de parte por la Comisión, así como colaborar con las demás áreas en los asuntos en que se lo soliciten;
+I.- Iniciar y coordinar las investigaciones que, por prácticas monopólicas absolutas, se lleven a cabo de oficio o a petición de parte, así como colaborar con las demás áreas en los asuntos que se le soliciten;
 
-II.- Expedir, por acuerdo del Secretario Ejecutivo, órdenes de presentación de documentación o información conforme a lo dispuesto por el artículo 31 de la Ley, así como citar a declarar a quienes tengan relación con los casos de que se trate, utilizando en su caso las medidas de apremio señaladas por la Ley;
+II.- Iniciar y coordinar las investigaciones referentes a las restricciones al comercio señaladas en la fracción V del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos y, en su caso, turnar el asunto a la Dirección General de Asuntos Contenciosos;
 
-III.- Dictaminar los casos en que haya intervenido;
+III.- Expedir, previo acuerdo del Secretario Ejecutivo, los requerimientos de documentación e información conforme a lo dispuesto por el artículo 31 de la Ley, así como citar a declarar a quienes tengan relación con las investigaciones o casos de que se trate, aplicando, en su caso, las medidas de apremio señaladas en la Ley;
 
-IV.- Coordinar acciones conjuntas con otras instituciones o dependencias públicas o privadas, así como solicitar información, cuando lo requiera la naturaleza de la investigación;
+IV.- Dictaminar los casos en que haya intervenido;
 
-V.- Realizar acciones conjuntas con instituciones públicas o privadas, extranjeras y solicitar información a las mismas, cuando así lo requiera la naturaleza de la investigación;
+V.- Coordinar acciones conjuntas con instituciones públicas o privadas, nacionales o extranjeras, y solicitar información a las mismas, cuando así lo requiera la naturaleza de la investigación;
 
-VI.- Supervisar, en coordinación con la Dirección General de Asuntos Jurídicos, el desarrollo de las diligencias, evaluar los resultados de las mismas, y formular los informes correspondientes, así como las observaciones que considere pertinentes, y
+VI.- Realizar el desarrollo de las diligencias conforme a los lineamientos que señale el Secretario Ejecutivo, evaluar los resultados de las mismas y formular los informes correspondientes, así como las observaciones que considere pertinentes, y
 
 VII.- Recabar pruebas y cualquier otro elemento de convicción en los casos e investigaciones a su cargo, de acuerdo con las políticas de la Comisión, y en coordinación con la Dirección General de Asuntos Jurídicos.
 
-La Dirección General de Investigaciones estará a cargo del Director General, quien será apoyado para el ejercicio de sus facultades del Director General Adjunto de Investigaciones y de los Directores de Investigaciones, de Coordinación Externa, de Bienes, y de Seguimiento y Evaluación.
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTÍCULO 31 Bis.
+
+Corresponde a la Dirección General de Investigaciones de Prácticas Monopólicas Relativas:
+
+I.- Iniciar y coordinar las investigaciones que, por prácticas monopólicas relativas, se lleven a cabo de oficio o a petición de parte, así como colaborar con las demás áreas en los asuntos en que se le soliciten;
+
+II.- Expedir, previo acuerdo del Secretario Ejecutivo, los requerimientos de documentación e información conforme a lo dispuesto por el artículo 31 de la Ley, así como citar a declarar a quienes tengan relación con las investigaciones o casos de que se trate, utilizando, en su caso, las medidas de apremio señaladas en la Ley;
+
+III.- Dictaminar los casos en que haya intervenido;
+
+IV.- Coordinar acciones conjuntas con instituciones públicas o privadas, nacionales o extranjeras y solicitar información a las mismas, cuando así lo requiera la naturaleza de la investigación;
+
+V.- Realizar, conforme a los lineamientos que señale el Secretario Ejecutivo el desarrollo de las diligencias, evaluar los resultados de las mismas, y formular los informes correspondientes, así como las observaciones que considere pertinentes, y
+
+VI.- Recabar pruebas y cualquier otro elemento de convicción en los casos e investigaciones a su cargo, de acuerdo con las políticas de la Comisión, y en coordinación con la Dirección General de Asuntos Jurídicos.
 
 ###### ARTÍCULO 32.
 
 Corresponde a la Dirección General de Procesos de Privatización y Licitación:
 
-I.- Estudiar y proponer la incorporación de medidas promotoras y de protección a la competencia en los mecanismos de asignación de concesiones y permisos, así como en los procedimientos relativos a la desincorporación de entidades y activos públicos;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-II.- Estudiar y dictaminar las notificaciones sobre concesionamiento y permisionamiento que presenten a la Comisión los solicitantes o licitantes, conforme a las disposiciones jurídicas aplicables;
+I.- Estudiar y proponer la incorporación de medidas promotoras y de protección a la competencia en los mecanismos de asignación de concesiones y permisos que le sean turnados mediante acuerdo, así como en los procedimientos relativos a la desincorporación de entidades y activos públicos;
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+II.- Estudiar y dictaminar las solicitudes de opinión sobre concesiones y permisos que presenten a la Comisión los solicitantes o licitantes, conforme a las disposiciones jurídicas aplicables, y que le sean turnadas mediante acuerdo;
 
 III.- Estudiar y dictaminar las notificaciones que presenten los interesados en adquirir entidades o activos del sector público en proceso de desincorporación;
 
-IV.- Estudiar y dictaminar las notificaciones sobre cesiones de concesiones o permisos previstas en las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-V.- Proponer, en su caso, las condiciones conforme a las cuales deban ser aprobadas las operaciones mencionadas en las fracciones I a III de este artículo;
+IV.- Estudiar y dictaminar las solicitudes de opinión sobre cesiones de concesiones o permisos previstas en las disposiciones jurídicas aplicables que le sean turnadas mediante acuerdo;
 
-VI.- Expedir, por acuerdo del Secretario Ejecutivo, requerimientos de datos o documentos conforme a lo dispuesto en el artículo 31 de la Ley, así como en las bases y convocatorias de las licitaciones respectivas o en otras disposiciones administrativas;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+V.- Proponer las condiciones conforme a las cuales deban ser aprobadas las operaciones mencionadas en las fracciones anteriores de este artículo;
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+VI.- Expedir, por acuerdo del Secretario Ejecutivo, requerimientos de datos o documentos conforme a lo dispuesto en el artículo 31 de la Ley, así como en las bases y convocatorias de las licitaciones respectivas o en otras disposiciones administrativas, aplicando, en su caso, las medidas de apremio señaladas por la Ley;
 
 VII.- Estudiar las condiciones de competencia y libre concurrencia en los mercados correspondientes a los sectores económicos regulados;
 
-VIII.- Investigar y dictaminar sobre condiciones de competencia y poder de mercado en los casos previstos en las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+VIII.- Investigar y dictaminar sobre poder sustancial de mercado o condiciones de competencia en los mercados regulados, de conformidad con las disposiciones jurídicas aplicables, que le sean turnados mediante acuerdo;
 
 IX.- Llevar el registro de las autorizaciones y observaciones que formule la Comisión sobre los casos resueltos;
 
-X.- Apoyar al Presidente y al Secretario Ejecutivo en la atención de los asuntos tratados en las Comisiones Intersecretariales de Desincorporación y de Gasto-Financiamiento;
+X. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2006)
 
 XI.- Estudiar y opinar sobre aspectos de apertura, promoción y protección a la competencia en los sectores económicos regulados, y
 
 XII.- Los demás que le confieran otras leyes, reglamentos o disposiciones administrativas aplicables a los procesos de concesionamiento, permisionamiento y desincorporación de entidades y activos públicos.
 
-La Dirección General de Procesos de Privatización y Licitación estará a cargo del Director General, quien será apoyado para el ejercicio de sus facultades del Director General Adjunto de Procesos de Privatización y Licitación y de los Directores de Privatizaciones, de Licitaciones, y de Análisis y Evaluación.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 33.
 
-Corresponde a la Dirección General de Coordinación Regional:
+Corresponde a la Dirección General de Mercados Regulados:
 
-I.- Instrumentar los programas de descentralización y desconcentración de la Comisión;
+I.- Estudiar y proponer la incorporación de medidas promotoras y de protección a la competencia en los mecanismos de asignación de concesiones y permisos, que le sean turnados mediante acuerdo;
 
-II.- Diseñar, revisar y proponer procedimientos administrativos que agilicen y faciliten la atención regional de los asuntos de competencia;
+II.- Estudiar y dictaminar las solicitudes de opinión sobre concesiones y permisos que presenten a la Comisión los solicitantes o licitantes, conforme a las disposiciones jurídicas aplicables, que le sean turnados mediante acuerdo;
 
-III.- Atender regionalmente los asuntos de competencia en términos de los procedimientos y de la delegación de facultades que el Pleno apruebe para estos efectos;
+III.- Estudiar y dictaminar las solicitudes de opinión sobre cesiones de concesiones o permisos previstas en las disposiciones jurídicas aplicables que le sean turnados mediante acuerdo;
 
-IV.- Efectuar el seguimiento de los trámites que se sigan en oficinas centrales respecto a los asuntos de competencia que se presenten a nivel regional;
+IV.- Proponer las condiciones conforme a las cuales deban ser aprobadas las operaciones mencionadas en las fracciones anteriores de este artículo;
 
-V.- Previo acuerdo del Pleno y conforme a las indicaciones del Secretario Ejecutivo, promover y negociar los convenios de cooperación en materia de competencia con los gobiernos de los estados;
+V.- Expedir, por acuerdo del Secretario Ejecutivo, requerimientos de datos o documentos conforme a lo dispuesto en el artículo 31 de la Ley, así como en las bases y convocatorias de las licitaciones respectivas o en otras disposiciones administrativas, aplicando, en su caso, las medidas de apremio señaladas por la Ley;
 
-VI.- Instrumentar, por parte de la Comisión, el Convenio de Colaboración Administrativa celebrado con la Secretaría para atender regionalmente asuntos de competencia, y
+VI.- Investigar y dictaminar sobre poder sustancial de mercado o condiciones de competencia en los mercados regulados, de conformidad con las disposiciones jurídicas aplicables, que le sean turnados mediante acuerdo;
 
-VII.- Coordinar, capacitar y supervisar los trabajos de los servidores públicos que se ocupen de los asuntos de competencia en oficinas regionales.
+VII.- Dictaminar la existencia de restricciones al proceso de competencia en los sectores económicos regulados; estudiar medidas de apertura, promoción y protección a la competencia y elaborar propuestas sobre los aspectos de competencia y libre concurrencia de políticas, planes, programas de la administración pública, así como actos administrativos, en dichos sectores;
 
-La Dirección General de Coordinación Regional estará a cargo del Director General, quien será apoyado para el ejercicio de sus facultades del Director General Adjunto de Coordinación Regional y de los Directores de las Zonas Norte, Centro y Sur.
+VIII.- Apoyar al presidente y al Secretario Ejecutivo en la atención de los asuntos tratados en las Comisiones Intersecretariales de Desincorporación y de Gasto-Financiamiento, y
+
+IX.- Las demás que le confieran otras leyes, reglamentos o disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 34.
 
-Corresponde a la Dirección General de Regulación Internacional:
+Corresponde a la Unidad de Planeación, Vinculación y Asuntos Internacionales:
 
-I.- Coordinar, conforme a los lineamientos establecidos por el Presidente, la participación de la Comisión en los asuntos de negociación y cooperación internacional relativos al proceso de competencia;
+I.- Coordinar los programas y preparar los materiales en materia de información, difusión, apoyo y comunicación interna y externa de la Comisión;
 
-II.- Contribuir en la aplicación de las medidas de promoción y protección de la competencia establecidas en los tratados y acuerdos, así como en otros instrumentos de cooperación internacional firmados por nuestro país;
+II.- Integrar los estudios y reportes necesarios para los informes de difusión del Presidente o de otros funcionarios de la Comisión sobre la aplicación y evaluación de la política de competencia económica;
 
-III.- Establecer, conforme instrucciones del Presidente y en términos de los compromisos internacionales de nuestro país, la coordinación necesaria entre la Comisión y las autoridades de competencia de otros países, respecto a prácticas monopólicas y concentraciones internacionales; así como a los demás aspectos de competencia de alcance internacional que afecten el proceso de competencia y libre concurrencia en el territorio nacional;
+III.- Coordinar los trabajos de las unidades administrativas de la Comisión para la elaboración de las opiniones que emita la Comisión en materia de competencia y libre concurrencia, y someterlas a consideración del Presidente;
 
-IV.- Coordinar y apoyar en el plano internacional la participación de las Direcciones Generales Operativas en los asuntos mencionados en la fracción anterior y efectuar el seguimiento de los mismos;
+IV.- Establecer los mecanismos para el cumplimiento de las metas presidenciales;
 
-V.- Estudiar las políticas y legislaciones de competencia de otros países, para los efectos que determine el Presidente, algún Comisionado, la Secretaría Ejecutiva o la misma Dirección General, así como asesorar sobre estas materias a las áreas de la Comisión que lo requieran;
+V.- Coordinar y supervisar la política y programas en materia de coordinación regional, así como supervisar las delegaciones regionales y establecer las medidas necesarias para la mejor atención de los asuntos regionales;
 
-VI.- Coordinar la participación de la Comisión en negociaciones o acuerdos internacionales que incluyan compromisos o proyectos sobre protección y promoción de la competencia;
+VI.- Definir, coordinar y supervisar la contratación de consultorías para la realización de estudios especializados y auditorías de competencia económica de conformidad con las disposiciones aplicables;
 
-VII.- Asesorar a los agentes económicos nacionales que enfrenten problemas de competencia fuera del territorio nacional;
+VII.- Establecer enlaces entre la Comisión y las instituciones públicas o privadas, nacionales o extranjeras en materia de competencia económica y libre concurrencia;
 
-VIII.- Coordinar la atención a consultas sobre aspectos de competencia que presenten agentes económicos extranjeros;
+VIII.- Coordinar la política y programas en materia de comunicación social de la Comisión, conforme a los lineamientos que señale el Presidente;
 
-IX.- Elaborar por instrucciones del Presidente y, con el apoyo de la Secretaría Ejecutiva, el proyecto de informe anual de la Comisión, así como de los informes especiales que se requieran para atender obligaciones administrativas y compromisos internacionales;
+IX.- Planear, coordinar y supervisar la edición y distribución del informe anual de la Comisión, de las gacetas, de las publicaciones especiales y demás documentos que determine el Presidente para la promoción de la política de competencia;
 
-X.- Auxiliar al Presidente en la difusión nacional e internacional de los criterios expedidos por el Pleno y de las resoluciones de la Comisión, y
+X.- Coordinar, conforme a los lineamientos que establezca el Presidente, la participación de la Comisión en los asuntos de negociación y cooperación internacional en materia de competencia y libre concurrencia;
 
-XI.- Los demás que mediante acuerdo o disposición administrativa le encomiende el Presidente.
+XI.- Coordinar y apoyar, conforme a los lineamientos que establezca el Presidente, la celebración o participación de conferencias, congresos y seminarios relacionados con la competencia y libre concurrencia, nacionales o internacionales;
+
+XII.- Dirigir estudios sobre las políticas y legislaciones de otros países en materia de competencia y libre concurrencia, así como asesorar sobre estas materias a las áreas de la Comisión que lo requieran;
+
+XIII.- Acordar con el Presidente el despacho de los asuntos de las unidades administrativas de su adscripción, así como desempeñar las funciones y comisiones que el Presidente le encomiende o delegue, y mantenerlo informado sobre el desarrollo de las mismas, y
+
+XIV.- Dictar las medidas necesarias para el mejor funcionamiento de las unidades administrativas de su adscripción, así como controlar y evaluar el trabajo y los resultados de sus actividades.
+
+La Unidad de Planeación, Vinculación y Asuntos Internacionales estará a cargo del Jefe de Unidad de Planeación, Vinculación y Asuntos Internacionales, quien será apoyado para el ejercicio de sus facultades de los servidores públicos que proceda de conformidad con el presupuesto asignado y conforme a lo establecido en el artículo 28, fracción V de la Ley.
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 35.
 
-Corresponde a la Dirección General de Normatividad Económica:
+Corresponde a la Dirección General de Enlace:
 
-I.- Servir de enlace entre la Comisión y las consultorías contratadas para la realización de estudios especializados y auditorías de competencia, así como hacer el seguimiento de los mismos;
+I.- Proponer y supervisar los procedimientos administrativos que agilicen y faciliten la atención regional de los asuntos de competencia;
 
-II.- Elaborar por instrucciones del Presidente estudios especiales sobre casos concretos de la aplicación de la Ley y presentar recomendaciones;
+II.- Efectuar el seguimiento de los trámites que se sigan en oficinas centrales respecto a los asuntos de competencia que se presenten a nivel regional;
 
-III.- Sistematizar y analizar la información sobre los casos resueltos por la Comisión;
+III.- Promover y coordinar los convenios de cooperación en materia de competencia con los gobiernos de los estados y del Distrito Federal, conforme a los lineamientos del Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales;
 
-IV.- Proponer al Presidente la política informática, así como determinar y difundir los lineamientos y normas para el diseño y desarrollo de los sistemas informáticos y electrónicos que la Comisión requiera;
+IV.- Cumplir con los mecanismos de colaboración administrativa para atender regionalmente los asuntos de su competencia;
 
-V.- Coordinar e instrumentar los programas de desarrollo informático, y
+V.- Coordinar y participar con los diferentes organismos reguladores para promover los mecanismos de protección al proceso de competencia y libre concurrencia en favor de los intereses de los consumidores;
 
-VI.- Administrar los sistemas, bases de datos y servidores institucionales, asegurando la integridad, seguridad y confidencialidad en su manejo.
+VI.- Fomentar y fortalecer enlaces entre la Comisión y las instituciones públicas o privadas, nacionales o extranjeras en materia de competencia económica y libre concurrencia, y
+
+VII.- Las demás que le encomiende o delegue el Presidente o el Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales.
 
 ###### ARTÍCULO 36.
 
-Corresponde a la Dirección General de Control y Seguimiento:
-
-I.- Llevar a cabo el seguimiento a los asuntos encomendados por el Presidente a los órganos de la Comisión;
-
-II.- Plantear e instrumentar los procedimientos de seguimiento y evaluación de las funciones y tareas encomendadas a la Secretaría Ejecutiva y a las Direcciones Generales;
-
-III.- Supervisar que los servicios proporcionados por la Comisión cumplan con los criterios de calidad aprobados por el Presidente;
-
-IV.- Plantear y coordinar la realización de encuestas entre los agentes económicos sobre la calidad de los servicios de la Comisión e informar sobre los resultados al Presidente, y
-
-V.- Establecer la coordinación necesaria sobre los asuntos anteriores con la Contraloría Interna.
+(DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 37.
 
@@ -551,25 +677,23 @@ VIII.- Administrar los estímulos y recompensas establecidos conforme a las norm
 
 IX.- Ejecutar las sanciones administrativas a que se haga acreedor el personal de la Comisión, de conformidad con los procedimientos y la normatividad establecidos para estos efectos;
 
-X.- Autorizar los contratos de arrendamiento, adquisiciones, prestación de servicios o cualquier otro que implique actos de administración, que celebre la Comisión, conforme a los procedimientos y la normatividad establecidos para estos efectos, y
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
-XI.- Proponer al Presidente los programas administrativos de operación equipamiento, normatividad, vigilancia y seguridad, así como de racionalización del presupuesto, conforme a los lineamientos que señale el mismo.
+X.- Autorizar los contratos de arrendamiento, adquisiciones, prestación de servicios o cualquier otro que implique actos de administración, que celebre la Comisión, conforme a los procedimientos y la normatividad establecidos para estos efectos;
 
-La Dirección General de Administración estará a cargo del Director General, quien será apoyado para el ejercicio de sus facultades del Director General Adjunto de Administración y de los Directores de Recursos Humanos, de Recursos Financieros y de Recursos Materiales.
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+XI.- Proponer al Presidente los programas administrativos de operación de equipamiento, normatividad, vigilancia y seguridad, así como de racionalización del presupuesto, conforme a los lineamientos que señale el mismo, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
+
+XII.- Las demás que le encomiende o delegue el Presidente o el Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 38.
 
-Corresponde a la Dirección General de Comunicación Social:
-
-I.- Ejecutar la política de comunicación social y de relaciones públicas que determine el Presidente, de conformidad con las disposiciones jurídicas en la materia;
-
-II.- Formular y proponer al Presidente el programa que dé cumplimiento a la política de comunicación social de la Comisión con base en los lineamientos que al respecto señalen las autoridades competentes;
-
-III.- Diseñar las publicaciones que determine el Presidente;
-
-IV.- Captar, analizar y procesar la información de los medios de comunicación, referente a los acontecimientos de interés de la Comisión, y
-
-V.- Las demás que le atribuya expresamente el Presidente.
+(DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2006)
 
 > <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2002)</small>
 
@@ -628,3 +752,13 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 10 DE SEPTIEMBRE DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren pendientes a la entrada en vigor de este Decreto y que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquélla o aquéllas a las que se les haya atribuido la competencia en el presente instrumento.
+
+TERCERO.- Las acciones que se lleven a cabo para la aplicación del presente Reglamento, se sujetarán a la disponibilidad de recursos que se haya aprobado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente para la Comisión Federal de Competencia, y deberán sujetarse a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+CUARTO.- Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estructura orgánica de la Comisión Federal de Competencia, se deberán realizar conforme a las disposiciones aplicables y mediante movimientos compensados que no aumentarán el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal y los subsecuentes.
