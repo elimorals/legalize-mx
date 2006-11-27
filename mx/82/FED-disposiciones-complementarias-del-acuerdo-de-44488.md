@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44488"
 country: "mx"
 rank: "otro"
 publication_date: "2003-04-02"
-last_updated: "2006-09-05"
+last_updated: "2006-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44488&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-03-27"
 
 DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, DE LOS DIVERSOS POR LOS QUE SE ESTABLECE EL ESQUEMA DE IMPORTACION A LA FRANJA FRONTERIZA NORTE Y REGION FRONTERIZA Y SE REFORMAN Y ADICIONAN LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de septiembre de 2006.
+Decreto Publicado la Primera Sección del Diario Oficial de la Federación, el lunes 27 de noviembre de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -29,33 +29,25 @@ VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de
 
 CONSIDERANDO
 
-Que para favorecer la competitividad de la industria nacional, mediante el abastecimiento oportuno de materias primas a precios internacionales, es conveniente reducir los aranceles a productos como los lingotes de aluminio, en el sector de manufacturas de aluminio, la lisina en la rama de alimentos para el sector avícola y de ganado porcino, el tricloro propil fosfato y la azodicarbonamida para el sector químico, la acacia para el sector de la curtiduría, cámaras para llanta de bicicleta, brocas, fresas y portaútiles del sector metalmecánica;
+Que la cadena textil-confección es un sector de la industria nacional altamente generador de empleos y que requiere contar con las condiciones idóneas para obtener sus insumos, imprescindibles para la elaboración de bienes de consumo final, a precios internacionales, sin afectar al resto de la industria nacional; es necesario reducir el arancel a diversos productos textiles de esta cadena;
 
-Que es necesario identificar e individualizar determinados productos en fracciones arancelarias específicas para que la industria nacional conozca con claridad los nichos de mercado y responda con mayor efectividad y oportunidad a la demanda del mercado, como el caso de suelas y tacones para la industria del calzado y las mercancías para la reparación o mantenimiento de aeronaves;
+Que existen, dentro de la misma cadena textil-confección, fibras e hilados especiales que no se fabrican en el país y que se clasifican en la misma fracción arancelaria, en donde se clasifican fibras e hilados de fabricación nacional, por lo que se considera adecuado establecer un arancel-cupo, para brindar a este sector industrial la posibilidad de proveeduría a precios competitivos;
 
-Que es importante establecer medidas arancelarias que favorezcan la importación de insumos, para la industria fabricante o ensambladora de aeronaves y de aeropartes tendientes a apoyar a una industria en constante crecimiento, que se puede convertir en un sector de gran generación de inversión y empleos en los estados de Baja California, Chihuahua, Coahuila y Sonora;
+Que es adecuado monitorear los flujos comerciales de vinos, bebidas que contienen aguardientes o destilados de agave; para ello se considera conveniente identificarlas en fracciones arancelarias específicas, con el fin de que la industria nacional cuente con información oportuna para la toma de decisiones;
 
-Que para dar mayor certeza jurídica e información clara y transparente a todos los operadores del comercio exterior beneficiarios del esquema de fomento industrial de la Regla 8a de las Reglas Complementarias para la aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, conocido comúnmente como “Regla 8ª”, es imprescindible modificar la descripción de las fracciones arancelarias que amparan importaciones bajo la operación de la citada Regla, para confirmar que esta operación se realiza conforme a los lineamientos que establezca la Secretaría de Economía;
+Que es necesario apoyar a la industria nacional para identificar e individualizar determinados productos en fracciones arancelarias específicas para conocer con claridad las estadísticas de los flujos internacionales de comercio, como lo es el caso de las láminas de acero al boro para la industria siderúrgica;
 
-Que debido a las modificaciones arancelarias previstas en el presente instrumento se hace necesario actualizar el Decreto por el que se establece la Tasa Aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005;
+Que es importante establecer medidas arancelarias que favorezcan la importación de embarcaciones especializadas para el tratamiento o procesamiento del petróleo crudo, que apoyen en la operación y el desarrollo de esa industria;
 
-Que también es importante actualizar el Decreto por el que se establecen diversos Programas de Promoción Sectorial, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002, con ciertas fracciones que se crean en el presente instrumento, para no eliminar la preferencia arancelaria otorgada bajo este esquema a las empresas fabricantes nacionales;
+Que debido a las modificaciones arancelarias previstas en el presente instrumento es necesario actualizar el Decreto por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón;
 
-Que en virtud de que ciertos productos que se importan al amparo del diverso por el que se establece el impuesto general de importación para la Región Fronteriza y la Franja Fronteriza Norte, se ven afectados por la creación de nuevas fracciones arancelarias, es necesario realizar los ajustes correspondientes para que estos productos mantengan las condiciones arancelarias previstas en dicho ordenamiento, y
+Que también es importante actualizar el Decreto por el que se establecen diversos Programas de Promoción Sectorial, con las fracciones que se crean en el presente instrumento, para no eliminar la preferencia arancelaria otorgada bajo este esquema a las empresas fabricantes nacionales;
+
+Que en virtud de que algunos productos que se importan al amparo del Decreto por el que se establece el impuesto general de importación para la Región Fronteriza y la Franja Fronteriza Norte, se ven afectados por la creación de nuevas fracciones arancelarias, es necesario realizar los ajustes correspondientes para que estos productos mantengan las condiciones arancelarias previstas en dicho ordenamiento, y
 
 Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas a que se refiere este Decreto, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
 
 DECRETO
-
-...
-
-###### ARTÍCULO SEXTO.
-
-Se modifica la tabla de preferencias arancelarias porcentuales, que otorgan los Estados Unidos Mexicanos a la República Federativa del Brasil, en el Acuerdo de Complementación Económica No. 53, prevista en el ARTÍCULO PRIMERO del Decreto para la aplicación del Acuerdo de Complementación Económica No. 53 suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, publicado en el Diario Oficial de la Federación el 2 de abril de 2003 y sus modificaciones, únicamente en lo que a continuación se indica:
-
-“ARTÍCULO PRIMERO.- . . .
-
-(VEASE ARCHIVO ANEXO)
 
 ...
 
@@ -82,6 +74,18 @@ Para las operaciones de importación en los Estados Unidos Mexicanos de los prod
 a) certificado de origen, de conformidad con lo establecido por el artículo segundo del presente Decreto, y
 
 b) certificado de cupo ALADI expedido por la Secretaría de Economía, cuando así corresponda.
+
+###### ARTÍCULO QUINTO.
+
+Se modifica la tabla de preferencias arancelarias porcentuales, que otorgan los Estados Unidos Mexicanos a la República Federativa del Brasil, en el Acuerdo de Complementación Económica No. 53, prevista en el Artículo Primero del Decreto para la aplicación del Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, publicado en el Diario Oficial de la Federación el 2 de abril de 2003 y sus modificaciones, únicamente en lo que a continuación se indica:
+
+“ARTÍCULO PRIMERO.- . . .
+
+TABLA DE PREFERENCIAS ARANCELARIAS PORCENTUALES, QUE OTORGAN LOS ESTADOS UNIDOS MEXICANOS A LA REPÚBLICA FEDERATIVA DEL BRASIL, EN EL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA No. 53
+
+(VEASE ARCHIVO ANEXO)
+
+...
 
 ###### ARTICULO 1.
 
@@ -169,10 +173,8 @@ III. Las importaciones de vehículos cuyo número de serie o año-modelo tenga u
 
 ## TRANSITORIOS
 
-> <small>N. DE E. SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LAS DISPOSICIONES</small>
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, excepto lo estipulado en el siguiente artículo transitorio.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Las disposiciones relativas a las fracciones arancelarias 2208.70.01, 2208.70.02, 2208.90.02 y 2208.90.04, establecidas en este Decreto, entrarán en vigor el día que entre en vigor el Acuerdo que modifique al similar que identifica las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en las que se clasifican las mercancías sujetas al cumplimiento de las normas oficiales mexicanas en el punto de su entrada al país, y en el de su salida, publicado en el Diario Oficial de la Federación el 27 de marzo de 2002, que contenga dichas fracciones.
 
-...
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de agosto de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
