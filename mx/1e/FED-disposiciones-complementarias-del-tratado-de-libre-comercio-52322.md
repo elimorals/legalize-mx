@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-523
 country: "mx"
 rank: "otro"
 publication_date: "2001-06-29"
-last_updated: "2005-12-29"
+last_updated: "2006-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52322&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,27 +19,97 @@ issue_date: "2001-06-26"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (ASOCIACION EUROPEA DE LIBRE COMERCIO, 2000)
 
-DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASÍ COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
+DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, DE LOS DIVERSOS POR LOS QUE SE ESTABLECE EL ESQUEMA DE IMPORTACION A LA FRANJA FRONTERIZA NORTE Y REGION FRONTERIZA Y SE REFORMAN Y ADICIONAN LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
 
-Decreto publicado en la Cuarta Sección del Diario Oficial de la Federacion, el jueves 29 de diciembre de 2005.
+Decreto Publicado la Primera Sección del Diario Oficial de la Federación, el lunes 27 de noviembre de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el Artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los Artículos 131 de la propia Constitución, 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, y 14 de la Ley de Comercio Exterior, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que la Decisión 2/2000 del Consejo Conjunto, CE-México firmada bajo el Acuerdo de Asociación Económica, Concertación Política y Cooperación entre los Estados Unidos Mexicanos, por una parte, y la Comunidad Europea y sus Estados Miembros, por otra; el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio; el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón; el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras y el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Nicaragua establecen, respectivamente, las condiciones para la eliminación de aranceles aduaneros para el comercio de mercancías originarias entre dichos países signatarios y los Estados Unidos Mexicanos, mediante reglas de origen y mecanismos específicos para definir tales mercancías;
+Que la cadena textil-confección es un sector de la industria nacional altamente generador de empleos y que requiere contar con las condiciones idóneas para obtener sus insumos, imprescindibles para la elaboración de bienes de consumo final, a precios internacionales, sin afectar al resto de la industria nacional; es necesario reducir el arancel a diversos productos textiles de esta cadena;
 
-Que el Ejecutivo Federal ha publicado anualmente mediante un Decreto las tasas preferenciales establecidas en los tratados de libre comercio aplicables durante ese año a las mercancías originarias provenientes de los países con los que México ha suscrito tratados de libre comercio;
+Que existen, dentro de la misma cadena textil-confección, fibras e hilados especiales que no se fabrican en el país y que se clasifican en la misma fracción arancelaria, en donde se clasifican fibras e hilados de fabricación nacional, por lo que se considera adecuado establecer un arancel-cupo, para brindar a este sector industrial la posibilidad de proveeduría a precios competitivos;
 
-Que la desgravación establecida en los tratados de libre comercio señalados en el primer considerando no exime de las restricciones ni libera del cumplimiento de regulaciones no arancelarias, así como tampoco de los requisitos previos de importación impuestos por la Secretaría de Economía o cualquier otra dependencia en el ámbito de sus facultades, de los requisitos de Normas Oficiales Mexicanas, o para tramitar el despacho aduanero de mercancías, entre otras, siempre que estén de conformidad con los compromisos internacionales adquiridos por México;
+Que es adecuado monitorear los flujos comerciales de vinos, bebidas que contienen aguardientes o destilados de agave; para ello se considera conveniente identificarlas en fracciones arancelarias específicas, con el fin de que la industria nacional cuente con información oportuna para la toma de decisiones;
 
-Que resulta necesario para operadores y autoridades aduaneras conocer con claridad las condiciones y los mecanismos que regirán el comercio de mercancías en los Estados Unidos Mexicanos durante 2006, y
+Que es necesario apoyar a la industria nacional para identificar e individualizar determinados productos en fracciones arancelarias específicas para conocer con claridad las estadísticas de los flujos internacionales de comercio, como lo es el caso de las láminas de acero al boro para la industria siderúrgica;
 
-Que las condiciones descritas anteriormente permitirán un comercio ordenado durante 2006, abriendo así un campo de retos y oportunidades que coadyuvarán al desarrollo de nuestro país, he tenido a bien expedir el siguiente
+Que es importante establecer medidas arancelarias que favorezcan la importación de embarcaciones especializadas para el tratamiento o procesamiento del petróleo crudo, que apoyen en la operación y el desarrollo de esa industria;
+
+Que debido a las modificaciones arancelarias previstas en el presente instrumento es necesario actualizar el Decreto por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón;
+
+Que también es importante actualizar el Decreto por el que se establecen diversos Programas de Promoción Sectorial, con las fracciones que se crean en el presente instrumento, para no eliminar la preferencia arancelaria otorgada bajo este esquema a las empresas fabricantes nacionales;
+
+Que en virtud de que algunos productos que se importan al amparo del Decreto por el que se establece el impuesto general de importación para la Región Fronteriza y la Franja Fronteriza Norte, se ven afectados por la creación de nuevas fracciones arancelarias, es necesario realizar los ajustes correspondientes para que estos productos mantengan las condiciones arancelarias previstas en dicho ordenamiento, y
+
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas a que se refiere este Decreto, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
 
 DECRETO
+
+...
+
+###### ARTÍCULO DÉCIMO.
+
+Se adicionan y suprimen del ARTÍCULO 21 del Decreto por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+Fracción Arancel Modalidad de la mercancía
+
+7213.91.01 0.8 SUPRIMIDA
+
+7213.91.03 0.8 Con un contenido de carbono igual o superior a 0.6 % en peso.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se adicionan y suprimen del ARTÍCULO 23 del Decreto que se señala en el Artículo Décimo del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+Fracción Arancel Modalidad de la mercancía
+
+7213.91.01 5.8 SUPRIMIDA
+
+7213.91.03 4.5 Con un contenido de carbono igual o superior a 0.6 % en peso.
+
+ARTÍCULO DUODÉCIMO (SIC).- Se adicionan y suprimen del ARTÍCULO 24 del Decreto que se señala en el Artículo Décimo del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+Fracción Arancel Modalidad de la mercancía
+
+7213.91.01 5.8 SUPRIMIDA
+
+7213.91.03 4.5 Con un contenido de carbono igual o superior a 0.6 % en peso.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se adicionan al ARTÍCULO 14 del Decreto que se señala en el Artículo Décimo del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se modifica el ARTÍCULO 16 del Decreto que se señala en el Artículo Décimo del presente ordenamiento, para quedar como sigue:
+
+“ARTÍCULO 16.- La importación de las mercancías originarias del área conformada por México y el Japón, comprendidas en las fracciones arancelarias que se identifican con el código “PXIX” y “PXIX*” bajo el rubro “Nota” en el Apéndice, estará libre de arancel siempre que el importador esté autorizado para operar bajo el Programa de Promoción Sectorial de la Industria Automotriz y de Autopartes de México, sin embargo las mercancías que se identifican con el código “PXIX*” en las fracciones 7226.91.02, 7226.91.03, 7226.91.04, 7226.91.05 y 7226.91.06, gozarán del arancel mencionado únicamente cuando se trate de la “modalidad de la mercancía” que se indica:
+
+Fracción Modalidad de la mercancía
+
+7226.91.02 De anchura inferior o igual a 500 mm.
+
+7226.91.03 De anchura inferior o igual a 500 mm.
+
+7226.91.04 De anchura inferior o igual a 500 mm.
+
+7226.91.05 De anchura inferior o igual a 500 mm.
+
+7226.91.06 De anchura inferior o igual a 500 mm.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se adicionan y suprimen al Apéndice del Decreto que se señala en el Artículo Décimo del presente ordenamiento, las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican:
+
+(VEASE ARCHIVO ANEXO)
+
+...
 
 ###### ARTÍCULO 1.
 
@@ -225,150 +295,10 @@ La importación de mercancías originarias del área conformada por los Estados 
 
 La importación de mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, comprendidas en las fracciones arancelarias que se identifican con el código “PXIX” bajo el rubro “Nota” en el Apéndice, estará libre de arancel siempre que el importador esté autorizado para operar bajo el Programa de Promoción Sectorial de la Industria Automotriz y de Autopartes de los Estados Unidos Mexicanos.
 
-###### ARTÍCULO 17.
-
-La Importación de mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, comprendidas en las fracciones arancelarias que se señalan en este artículo, las cuales se identifican con el código "NJP" bajo el rubro "Nota" en el Apéndice, estará sujeta al arancel que se indica a continuación, únicamente cuando se trate de la modalidad de la mercancía que se indica:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTÍCULO 18.
-
-La importación de las mercancías originarias de la región conformada por los Estados Unidos Mexicanos, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna “Guatemala” conforme al artículo 3, fracción IV, inciso (b) de este Decreto, las cuales se identifican con el código “CGU” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel preferencial indicado a continuación para cada una de ellas, únicamente cuando se trate de la modalidad que se indica:
-
-(VEASE ARCHIVO ANEXO)
-
-Lo dispuesto en este artículo sólo será aplicable a mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía.
-
-###### ARTÍCULO 19.
-
-La importación de las mercancías originarias de la región conformada por los Estados Unidos Mexicanos, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna “Guatemala” conforme el artículo 3, fracción IV, inciso (b) de este Decreto, las cuales se identifican con el código “S” bajo el rubro “Nota” en el Apéndice, estará sujeta a la tasa prevista en el Apéndice para cada una de ellas. A partir de la fecha en la que se cumplan para cada fracción los supuestos establecidos en el Anexo 4-09 Sección B del Tratado, el arancel preferencial aplicable a dichas fracciones será el listado en este artículo. Para tal efecto, la Secretaría de Economía, publicará un aviso en el Diario Oficial de la Federación en el que se indique que se han cumplido los supuestos mencionados:
-
-Fracción Arancel
-
-1704.10.01 5.0% ad-valorem
-
-1704.90.99 3.0% ad-valorem
-
-1905.90.99 4.0% ad-valorem
-
-2104.10.01 5.0% ad-valorem
-
-2207.10.01 1.5% ad-valorem
-
-2401.20.01 22.5% ad-valorem
-
-###### ARTÍCULO 20.
-
-La importación de las mercancías originarias de la región conformada por los Estados Unidos Mexicanos, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna “Honduras” conforme el artículo 3, fracción IV, inciso (c) de este Decreto, las cuales se identifican con el código “S” bajo el rubro “Nota” en el Apéndice, estará sujeta a la tasa prevista en el Apéndice para cada una de ellas. A partir de la fecha en la que se cumplan para cada fracción los supuestos establecidos en el Anexo 4-09 Sección C del Tratado, el arancel preferencial aplicable a dichas fracciones será el listado en este artículo. Para tal efecto, la Secretaría de Economía, publicará un aviso en el Diario Oficial de la Federación en el que se indique que se han cumplido los supuestos mencionados:
-
-Fracción Arancel
-
-0201.30.01 20.0% ad-valorem
-
-0202.30.01 25.0% ad-valorem
-
-0306.13.01 20.0% ad-valorem
-
-0701.90.99 63.0% ad-valorem
-
-0804.30.01 20.0% ad-valorem
-
-0807.19.01 10.0% ad-valorem
-
-0807.19.99 10.0% ad-valorem
-
-0807.20.01 20.0% ad-valorem
-
-2009.11.01 5.0% ad-valorem
-
-2103.20.99 5.0% ad-valorem
-
-2401.20.01 22.5% ad-valorem
-
-###### ARTÍCULO 21.
-
-La importación de mercancías originarias de la región conformada por los Estados Unidos Mexicanos, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna de “El Salvador” conforme al artículo 3 fracción IV, inciso (a) de este Decreto, las cuales se identifican con el código “NSA” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel preferencial que se establece a continuación, únicamente cuando se trate de la modalidad de la mercancía que se indica:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTÍCULO 22.
-
-La importación de mercancías originarias de la región conformada por los Estados Unidos Mexicanos, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalen en este artículo que correspondan a la columna “Guatemala” conforme al artículo 3 fracción IV, inciso (b) de este Decreto, las cuales se identifican con el código “CAG” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel preferencial indicado a continuación para cada una de ellas:
-
-Fracción Arancel
-
-6401.10.01 Ex.
-
-6402.19.01 Ex.
-
-6402.20.01 Ex.
-
-6402.99.01 Ex.
-
-6402.99.04 Ex.
-
-6402.99.05 Ex.
-
-6403.40.01 Ex.
-
-6403.91.01 Ex.
-
-6403.99.03 Ex.
-
-6403.99.04 Ex.
-
-6403.99.05 Ex.
-
-6404.19.01 Ex.
-
-6404.19.02 Ex.
-
-Lo dispuesto en este artículo sólo será aplicable a mercancías que cuenten con una copia del certificado de origen avalado por el Ministerio de Economía de Guatemala, misma que será acompañada en cada operación.
-
-###### ARTÍCULO 23.
-
-La importación de mercancías originarias de la región conformada por los Estados Unidos Mexicanos, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna de “Guatemala” conforme al artículo 3 fracción IV, inciso (b) de este Decreto, las cuales se identifican con el código “NGU” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel preferencial que se establece a continuación, cuando se trate de la modalidad de la mercancía que se indica:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTÍCULO 24.
-
-La importación de mercancías originarias de la región conformada por los Estados Unidos Mexicanos, El Salvador, Guatemala y Honduras, comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a la columna de “Honduras” conforme al artículo 3 fracción IV, inciso (c) de este Decreto, las cuales se identifican con el código “NHO” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel preferencial que se establece a continuación, cuando se trate de la modalidad de la mercancía que se indica:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTÍCULO 25.
-
-La importación de las mercancías originarias de la región conformada por los Estados Unidos Mexicanos y Nicaragua comprendidas en las fracciones arancelarias que se señalan en este artículo, las cuales se identifican con el código “CPN” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel preferencial indicado a continuación, ya sea para la totalidad de las mercancías incluidas en cada fracción o únicamente para la modalidad indicada:
-
-(VEASE ARCHIVO ANEXO)
-
-Lo dispuesto en este artículo sólo será aplicable a mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía.
-
-###### ARTÍCULO 26.
-
-La importación de mercancías originarias de la región conformada por los Estados Unidos Mexicanos y Nicaragua comprendidas en las fracciones arancelarias que se señalan en este artículo, las cuales se identifican con el código “NNI” bajo el rubro “Nota” en el Apéndice, estará sujeta al arancel preferencial que se establece a continuación, únicamente cuando se trate de la modalidad de la mercancía que se indica:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTÍCULO 27.
-
-La importación de mercancías originarias provenientes de la Comunidad Europea, AELC, El Salvador, Guatemala, Honduras y Nicaragua, identificadas con el código “CORR” en el Apéndice, estarán sujetas al arancel preferencial establecido en este artículo, el cual establece cada una de las fracciones arancelarias previstas en la Ley de los Impuestos Generales de Importación y de Exportación a las que corresponde más de un arancel preferencial para la mercancía o la modalidad de la mercancía respectiva, en virtud de los tratados comerciales internacionales suscritos por los Estados Unidos Mexicanos y de la Tarifa de la Ley del Impuesto General de Importación vigente hasta el 31 de marzo de 2002, de acuerdo a la siguiente correlación:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTÍCULO 28.
-
-Lo dispuesto en el presente Decreto no libera del cumplimiento de las restricciones y regulaciones no arancelarias en los términos de la Ley de Comercio Exterior, la Ley Aduanera y demás disposiciones aplicables.
-
 ## TRANSITORIOS
 
-PRIMERO.- El presente Decreto estará en vigor del 1 de enero al 31 de diciembre de 2006, salvo lo dispuesto en el artículo segundo transitorio.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, excepto lo estipulado en el siguiente artículo transitorio.
 
-SEGUNDO.- Lo dispuesto en los artículos 14, 15, 16, 17 y en la columna "Japón" del Apéndice, estará en vigor del 1 de abril de 2006 al 31 de marzo de 2007.
+SEGUNDO.- Las disposiciones relativas a las fracciones arancelarias 2208.70.01, 2208.70.02, 2208.90.02 y 2208.90.04, establecidas en este Decreto, entrarán en vigor el día que entre en vigor el Acuerdo que modifique al similar que identifica las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en las que se clasifican las mercancías sujetas al cumplimiento de las normas oficiales mexicanas en el punto de su entrada al país, y en el de su salida, publicado en el Diario Oficial de la Federación el 27 de marzo de 2002, que contenga dichas fracciones.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
-
-APÉNDICE DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACIÓN EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASÍ COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DEL JAPÓN
-
-(VEASE ARCHIVO ANEXO)
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
