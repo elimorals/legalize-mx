@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-transporte-terrestre-de-materiales-y-53"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-07"
-last_updated: "1993-04-07"
+last_updated: "2006-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-03-29"
 
 REGLAMENTO PARA EL TRANSPORTE TERRESTRE DE MATERIALES Y RESIDUOS PELIGROSOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 7 de abril de 1993.
 
@@ -1305,9 +1305,11 @@ Previa autorización de la Secretaría la empresa ferroviaria deberá editar y a
 
 ## TITULO NOVENO. SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 134.
 
-Las infracciones a lo dispuesto en el presente Reglamento, serán sancionadas en la siguiente forma:
+Las infracciones al presente Reglamento, salvo en materia de transporte terrestre de materiales y residuos peligrosos en unidades de autotransporte federal y transporte privado en la zona terrestre de las vías generales de comunicación a que se refiere el artículo 134 Bis, serán sancionadas en la forma siguiente:
 
 I. Se aplicará multa hasta por el equivalente a mil días de salario mínimo, por las infracciones a los artículos 5o, 17, 20, 31, 32, 35, 36, 37, 38, 39, 40, 41, 44, 45, 46, 48, 49, 50, 51, 52, 53, 57, 58, 61, 63, 65, 69, 71, 74, 75, 78, 80, 81, 82, 83, 84, 86, 88, 89, 90, 91, 92, 94, 95, 96, 97, 99, 102, 103, 104, 105, 110, 114, 116, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132 y 133.
 
@@ -1318,6 +1320,18 @@ III. Se aplicará multa hasta por el equivalente a cinco mil días de salario m�
 IV. Se aplicará multa hasta por el equivalente de cien días de salario mínimo, por infracciones a los límites de velocidad establecidos en los artículos aplicables de este Reglamento y en los ordenamientos de la materia.
 
 En caso de reincidencia, las infracciones al Reglamento se sancionarán con multas hasta por el doble de las cantidades que le correspondan.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 134 Bis.
+
+La Secretaría y la Secretaría de Seguridad Pública a través de la Policía Federal Preventiva, impondrán, en el ámbito de sus respectivas competencias y conforme al Tabulador de Multas que forma parte de este Reglamento, las sanciones por el incumplimiento a las disposiciones del mismo, en materia de transporte terrestre de materiales y residuos peligrosos en unidades de autotransporte federal y transporte privado en la zona terrestre de las vías generales de comunicación.
+
+Para la imposición de las sanciones a que se refiere este Reglamento, se atenderán los criterios que establece el artículo 77 de la Ley de Caminos, Puentes y Autotransporte Federal y los previstos en la Ley Federal de Procedimiento Administrativo.
+
+Las sanciones que se impongan, no eximen al infractor del pago de los daños y perjuicios ocasionados a las vías generales de comunicación y otros bienes de la Nación o a terceros.
+
+En caso de reincidencia, las infracciones al presente Reglamento se podrán sancionar con multas hasta por el doble de las cantidades que correspondan.
 
 ###### ARTICULO 135.
 
@@ -1338,3 +1352,15 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 CUARTO.- La Secretaría en coordinación con las demás autoridades competentes y las partes involucradas, en un plazo de 60 días contados a partir de la publicación del presente Reglamento, llevarán a cabo el programa de acción a seguir para la elaboración de las normas respectivas.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de marzo de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.- El Secretario de la Defensa Nacional, Antonio Riviello Bazán.- Rúbrica.- El Secretario de Desarrollo Social, Donaldo Colosio Murrieta.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Emilio Lozoya Thalmann.- Rúbrica.- Secretaría de Comercio y Fomentos Industrial, Jaime Serra Puche.- Rúbrica.- Secretaría de Comunicaciones y Transportes, Andrés Caso Lombardo.- Rúbrica.- El Secretario de Salud, Jesús Kumate Rodríguez.- Rúbrica.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 28 DE NOVIEMBRE DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TABULADOR DE MULTAS
+
+(VEASE ARCHIVO ANEXO)
