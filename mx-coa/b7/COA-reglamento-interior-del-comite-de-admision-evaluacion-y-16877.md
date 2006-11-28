@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-comite-de-admision-evaluacion-y-16877"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-08"
-last_updated: "1999-10-08"
+last_updated: "2006-11-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DEL COMITE DE ADMISION, EVALUACION Y DISCIPLINA DE LOS CUERPOS DE SEGURIDAD PUBLICA DEL GOBIERNO ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL COMITE DE ADMISION, EVALUACION Y DISCIPLINA DE LAS FUERZAS DE SEGURIDAD PUBLICA DEL GOBIERNO DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 8 de octubre de 1999.
 
@@ -422,3 +424,11 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se deja sin efectos el Reglamento Interior del Comité de Admisión, Evaluación y Disciplina de los Cuerpos de Seguridad Pública del Gobierno del Estado, publicado en el Periódico Oficial del Gobierno del Estado No. 81, del ocho de octubre de 1999.
