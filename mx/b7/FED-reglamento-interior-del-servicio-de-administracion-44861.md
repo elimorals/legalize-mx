@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-servicio-de-administracion-44861"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-06"
-last_updated: "2006-05-12"
+last_updated: "2006-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44861&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-05-27"
 
 REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 2005.
 
@@ -275,9 +275,13 @@ XX.- Aquellas que le confiere el artículo 14 de la Ley del Servicio de Administ
 
 La administración, representación, dirección, supervisión y coordinación de las unidades administrativas, así como de los servidores públicos del Servicio de Administración Tributaria, recaerán directamente en el Jefe.
 
-La máxima autoridad administrativa del Servicio de Administración Tributaria recae en su Jefe, quien ejercerá las atribuciones de dicho órgano. Mediante acuerdo podrá delegar las facultades otorgadas a los titulares de las unidades administrativas centrales y regionales a que se refiere el artículo 2 de este Reglamento, a favor de los Administradores Centrales, Coordinadores, Administradores y Subadministradores. El citado acuerdo de delegación de facultades se publicará en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
-Los titulares de las unidades administrativas podrán seguir ejerciendo las facultades que, en términos del párrafo anterior, sean delegadas a favor de sus Administradores Centrales, Coordinadores, Administradores y Subadministradores.
+La máxima autoridad administrativa del Servicio de Administración Tributaria recae en su Jefe, a quien le corresponde originalmente el trámite y resolución de los asuntos de la competencia de dicho órgano. Sin perjuicio de lo dispuesto por el artículo 4 de este Reglamento, el Jefe del Servicio de Administración Tributaria podrá delegar mediante acuerdo las atribuciones que de conformidad con este Reglamento, así como de otros ordenamientos, correspondan al ámbito de su competencia, en los servidores públicos de las unidades administrativas adscritas al mencionado órgano desconcentrado. El citado acuerdo de delegación de facultades se publicará en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+Los titulares de las unidades administrativas del Servicio de Administración Tributaria podrán seguir ejerciendo las facultades que les correspondan conforme al presente Reglamento, sin perjuicio de las facultades que sean delegadas en términos del párrafo anterior.
 
 ###### Artículo 4.
 
@@ -305,7 +309,9 @@ VIII.- El Proyecto del Estatuto del Servicio Fiscal de Carrera.
 
 IX.- El nombramiento del Secretario Técnico y del prosecretario de la misma, así como los lineamientos de operación y funcionamiento de dicho órgano colegiado.
 
-X.- El otorgamiento del perdón, cuando proceda, en los procedimientos penales seguidos por el Servicio de Administración Tributaria, salvo tratándose de los casos a que se refiere el artículo 28, fracción XXXIX de este Reglamento.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+X.- El otorgamiento del perdón, cuando proceda, en los procedimientos penales seguidos por el Servicio de Administración Tributaria, salvo tratándose de los casos a que se refiere el artículo 28, fracción XLIV de este Reglamento.
 
 XI.- Cualquier otro asunto de relevancia para el Servicio de Administración Tributaria que considere conveniente.
 
@@ -367,7 +373,9 @@ VIII.- Informar a la autoridad competente de los hechos de que tengan conocimien
 
 IX.- Proponer a la unidad administrativa competente de la Secretaría de Hacienda y Crédito Público y del Servicio de Administración Tributaria, reformas a la legislación fiscal y aduanera y disposiciones de carácter general, respectivamente, y participar con dichas unidades administrativas en la instrumentación de tales propuestas.
 
-X.- Vigilar la debida garantía del interés fiscal en los asuntos en que tengan competencia.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+X.- Vigilar la debida garantía del interés fiscal en los asuntos en que tengan competencia e informar a la Procuraduría Fiscal de la Federación si se encuentra o no satisfecho el interés fiscal en los casos en que la misma lo solicite.
 
 XI.- Orientar a los contribuyentes respecto de asuntos individuales y concretos relativos a los trámites administrativos que realicen ante las autoridades fiscales y aduaneras, sin interferir en las funciones de las mismas.
 
@@ -445,9 +453,13 @@ XI.- Ordenar y practicar la verificación de mercancías de comercio exterior en
 
 XII.- Ordenar y realizar la inspección y vigilancia permanente en el manejo, transporte o tenencia de las mercancías en los recintos fiscales y fiscalizados, así como en cualquier otra parte del territorio nacional.
 
-XIII.- Ordenar y practicar la retención, persecución o embargo precautorio de las mercancías de comercio exterior, incluidos los vehículos, o de sus medios de transporte, inclusive por el incumplimiento de normas oficiales mexicanas, compromisos internacionales, requerimientos de orden público o cualquier otra regulación o restricción no arancelaria; notificar el embargo precautorio de las mercancías respecto de las cuales no se acredite su legal internación, estancia o tenencia en el país; tramitar y resolver los procedimientos administrativos en materia aduanera que deriven del ejercicio de sus facultades de comprobación o del ejercicio de las facultades de comprobación efectuado por otras autoridades fiscales, así como ordenar la entrega de las mercancías embargadas antes de la conclusión de los procedimientos a que se refiere esta fracción, previa calificación y aceptación de la garantía del interés fiscal por parte de la autoridad competente; poner a disposición de la Aduana que corresponda las mercancías embargadas para que realice su control y custodia; sustanciar y resolver el procedimiento relacionado con la determinación provisional a que se refiere la Ley Aduanera, llevarla a cabo y notificarla.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
-XIV.- Ordenar y practicar el embargo precautorio para asegurar el interés fiscal cuando haya peligro de que el obligado se ausente o se realice la enajenación u ocultamiento de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como de cantidades en efectivo, en cheques nacionales o extranjeros, órdenes de pago o cualquier otro documento por cobrar o una combinación de ellos, superiores a las cantidades que señalen las disposiciones legales, cuando se omita declararlas a las autoridades aduaneras al entrar o salir del territorio nacional, conforme a lo dispuesto en la legislación aduanera, y levantarlo cuando proceda.
+XIII.- Ordenar y practicar la retención, persecución, embargo precautorio o aseguramiento de las mercancías de comercio exterior, incluidos los vehículos, o de sus medios de transporte, inclusive por el incumplimiento de normas oficiales mexicanas, compromisos internacionales, requerimientos de orden público o cualquier otra regulación o restricción no arancelaria; notificar el embargo precautorio o aseguramiento de las mercancías respecto de las cuales no se acredite su legal internación, estancia o tenencia en el país; tramitar y resolver los procedimientos administrativos en materia aduanera que deriven del ejercicio de sus facultades de comprobación o del ejercicio de las facultades de comprobación efectuado por otras autoridades fiscales, así como ordenar la entrega de las mercancías embargadas antes de la conclusión de los procedimientos a que se refiere esta fracción, previa calificación y aceptación de la garantía del interés fiscal por parte de la autoridad competente; poner a disposición de la Aduana que corresponda las mercancías embargadas para que realice su control y custodia; sustanciar y resolver el procedimiento relacionado con la determinación provisional a que se refiere la Ley Aduanera, llevarla a cabo y notificarla.
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XIV.- Ordenar y practicar el embargo precautorio o aseguramiento de bienes o mercancías en los casos en que la ley lo señale, cuando haya peligro de que el obligado se ausente o se realice la enajenación u ocultamiento de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como de cantidades en efectivo, en cheques nacionales o extranjeros, órdenes de pago o cualquier otro documento por cobrar o una combinación de ellos, superiores a las cantidades que señalen las disposiciones legales, cuando se omita declararlas a las autoridades aduaneras al entrar o salir del territorio nacional, conforme a lo dispuesto en la legislación aduanera, y levantarlo cuando proceda.
 
 XV.- Proporcionar los elementos obtenidos en el ejercicio de sus facultades a las autoridades competentes para determinar créditos fiscales y para imponer sanciones por infracciones a las disposiciones aduaneras, cuando no esté facultada para imponer la sanción correspondiente, aportándoles los datos y elementos necesarios para que dichas autoridades ejerzan sus facultades.
 
@@ -602,6 +614,10 @@ LXXXVIII.- Realizar el procedimiento de inscripción, suspensión, modificación
 LXXXIX.- Abstenerse de llevar a cabo la determinación de contribuciones y sus accesorios, así como de imponer las sanciones correspondientes a las infracciones descubiertas con motivo del ejercicio de sus facultades de comprobación, en términos de lo dispuesto por el artículo 20-A de la Ley del Servicio de Administración Tributaria.
 
 XC.- Clausurar los establecimientos de depósitos fiscales para la exposición y venta de mercancías extranjeras y nacionales libres de impuestos.
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XCI.- Supervisar a la Unidad de Apoyo para la Inspección Fiscal y Aduanera.
 
 La Administración General de Aduanas, sus unidades administrativas centrales y las Aduanas ejercerán las facultades señaladas en el presente Reglamento respecto de todos los contribuyentes, inclusive aquéllos que son competencia de la Administración General de Grandes Contribuyentes.
 
@@ -799,6 +815,14 @@ I.- Las establecidas en las fracciones II, V, VIII, X, XI y XVIII del artículo 
 
 II.- Las señaladas en las fracciones VIII, XI, XII, XIII, XIV, XV, XLI y LII del artículo anterior de este Reglamento.
 
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+III.- Actuar como Unidad de Apoyo para la Inspección Fiscal y Aduanera.
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+IV.- Prestar servicios de seguridad y protección a las instalaciones, edificios y servidores públicos de la Secretaría de Hacienda y Crédito Público y del Servicio de Administración Tributaria que mediante acuerdo determine el Presidente de la Junta de Gobierno de dicho órgano desconcentrado.
+
 I. Administración Central de Fiscalización Aduanera:
 
 I.- Las establecidas en las fracciones II, V, VIII, X, XI, XVIII y XXV del artículo 9 de este Reglamento.
@@ -822,6 +846,10 @@ Compete a las Administraciones y Subadministraciones de las Aduanas, dentro de l
 I.- Las establecidas en las fracciones II, V, VII, VIII, X, XI, XV, XVI, XVIII y XX del artículo 9 de este Reglamento.
 
 II.- Las señaladas en las fracciones IX, X, XI, XII, XIII, XIV, XV, XVI, XVIII, XXI, XXII, XXIII, XXVI, XXVII, XXXII, XXXIV, XLI, XLII, XLIII, XLIV, XLVII, XLVIII, XLIX, L, LII, LIII, LIV, LV, LVI, LVII, LXIII, LXVI, LXXII, LXXIII, LXXVIII, LXXXVII, LXXXIX y XC del artículo 10 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+Compete a los Verificadores adscritos a las Aduanas, ejercer las facultades establecidas en las fracciones XVI, XXIII, XXXIV y XLVIII del artículo 10 de este Reglamento, así como practicar el reconocimiento aduanero de las mercancías de comercio exterior, recibir de los particulares, responsables solidarios y terceros con ellos relacionados catálogos y demás elementos que le permitan identificar las mercancías, a fin de verificar el cumplimiento de las disposiciones legales en materia aduanera y llevar a cabo los actos necesarios para cerciorarse del cumplimiento de las disposiciones legales que regulan y gravan la entrada al territorio nacional y la salida del mismo de mercancías y medios de transporte, el despacho aduanero y los hechos y actos que deriven de éste o de dicha entrada o salida.
 
 Cada Aduana estará a cargo de un Administrador del que dependerán los Subadministradores, Jefes de Sala, Jefes de Departamento, Jefes de Sección, Verificadores, Notificadores, Visitadores, el personal al servicio de la Administración Central para la Inspección Fiscal y Aduanera y el personal que las necesidades del servicio requiera.
 
@@ -1009,13 +1037,17 @@ VII.- Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, acto
 
 VIII.- Notificar los actos relacionados con el ejercicio de las facultades de comprobación.
 
-IX.- Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales, con la presentación de las solicitudes o avisos en materia del Registro Federal de Contribuyentes, así como solicitar la exhibición de los comprobantes que amparen la legal posesión o propiedad de los bienes y mercancías que vendan; embargar precautoriamente los bienes y mercancías con motivo del incumplimiento de las obligaciones antes citadas y levantar el embargo precautorio en los casos que proceda.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+IX.- Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales, con la presentación de las solicitudes o avisos en materia del Registro Federal de Contribuyentes, así como solicitar la exhibición de los comprobantes que amparen la legal posesión o propiedad de los bienes y mercancías que vendan; embargar precautoriamente o asegurar los bienes y mercancías con motivo del incumplimiento de las obligaciones antes citadas y levantar el embargo precautorio o aseguramiento en los casos que proceda; resolver las consultas que formulen los contribuyentes con posterioridad al inicio de las facultades de comprobación, siempre que dichas consultas versen sobre planteamientos relacionados con el ejercicio de esas facultades.
 
 X.- Ordenar y practicar las clausuras preventivas de los establecimientos de los contribuyentes por no expedir o no entregar comprobantes de sus actividades; que los expedidos no reúnan requisitos fiscales, o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien, contrate el uso o goce temporal de bienes o la prestación de servicios.
 
 XI.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, o a contadores públicos registrados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos, otros documentos e informes y, en el caso de dichos contadores, citarlos para que exhiban sus papeles de trabajo, así como recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones, a fin de comprobar el cumplimiento de las disposiciones legales en las materias señaladas en la fracción VII de este artículo, así como autorizar prórrogas para su presentación; verificar el saldo a favor a compensar, determinar y cobrar las cantidades compensadas indebidamente, incluida la actualización y recargos a que haya lugar e imponer las multas correspondientes; emitir los oficios de observaciones, el de conclusión de la revisión y el de prórroga del plazo para concluir la revisión; comunicar a los contribuyentes la sustitución de la autoridad que continúe con la revisión.
 
-XII.- Ordenar y practicar el embargo precautorio para asegurar el interés fiscal en los casos en que la Ley lo señale, así como levantarlo cuando proceda.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XII.- Ordenar y practicar el embargo precautorio o aseguramiento en los casos en que la ley lo señale, así como levantarlo cuando proceda.
 
 XIII.- Ordenar y practicar la retención, persecución, embargo de mercancías de comercio exterior y sus medios de transporte, en los supuestos que establece la Ley Aduanera cuando no se acredite su legal importación, tenencia o estancia en el país; tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de sus facultades de comprobación del cumplimiento de las obligaciones fiscales, o del ejercicio de las facultades de comprobación efectuado por otras autoridades fiscales, así como ordenar en los casos que proceda, el levantamiento del citado embargo y la entrega de las mercancías embargadas, antes de la conclusión del procedimiento a que se refiere esta fracción, previa calificación y aceptación de la garantía del interés fiscal; liberar las garantías otorgadas respecto de la posible omisión del pago de contribuciones, en mercancías sujetas a precios estimados; habilitar instalaciones como recintos fiscales para uso de la autoridad fiscal y aduanera.
 
@@ -1055,7 +1087,9 @@ XXIX.- Continuar con la práctica de los actos de fiscalización que hayan inici
 
 XXX.- Establecer los lineamientos y procedimientos operativos que deberán seguir sus unidades administrativas en la aplicación de las disposiciones fiscales y aduaneras, en materia de impuestos, derechos, contribuciones de mejoras, aprovechamientos y sus accesorios de carácter federal.
 
-XXXI.- Solicitar a las instituciones bancarias, así como a las instituciones y organizaciones auxiliares del crédito, que ejecuten el embargo de cuentas bancarias y de inversiones a nombre de los contribuyentes deudores o de los responsables solidarios.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXI.- Solicitar a las instituciones bancarias, así como a las instituciones y organizaciones auxiliares del crédito, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones a nombre de los contribuyentes o de los responsables solidarios y solicitar su levantamiento cuando así proceda.
 
 XXXII.- Representar al Servicio de Administración Tributaria en los foros, eventos, reuniones nacionales o internacionales y organismos internacionales en materia fiscal y aduanera y dar cumplimiento a los acuerdos y convenios que se celebren en los asuntos de su competencia.
 
@@ -1323,7 +1357,9 @@ B. Subadministraciones de las Administraciones Locales de Auditoría Fiscal:
 
 I.- Las establecidas en las fracciones V, VII y X del artículo 9 de este Reglamento.
 
-II.- Las señaladas en las fracciones VII, VIII, IX, X, XI, XII, XIII, XV, XVI, XX, XXIV y XXVII del artículo 16 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+II.- Las señaladas en las fracciones VII, VIII, IX, X, XI, XII, XIII, XV, XVI, XX, XXIV, XXVII y XXXI del artículo 16 de este Reglamento.
 
 Respecto de las entidades y sujetos a que se refiere el artículo 19, apartado B, de este Reglamento, las Administraciones Locales de Auditoría Fiscal o sus Subadministraciones, ejercerán las facultades contenidas en este artículo, conjunta o separadamente con la Administración General de Grandes Contribuyentes o las unidades administrativas adscritas a ésta, sin perjuicio de las facultades que les correspondan de acuerdo a lo previsto en los artículos 19, 20 y 21 del presente Reglamento.
 
@@ -1373,7 +1409,9 @@ XVI.- Tramitar y resolver las solicitudes de pago diferido o en parcialidades de
 
 XVII.- Aceptar, previa calificación, las garantías que se otorguen con relación a contribuciones, accesorios y aprovechamientos, respecto de los cuales ejerza el procedimiento administrativo de ejecución, o sobre los que deba resolver acerca del pago en parcialidades; autorizar la sustitución de las citadas garantías y cancelarlas; vigilar que dichas garantías sean suficientes y exigir su ampliación si no lo fueren.
 
-XVIII.- Ordenar y practicar en términos de la legislación fiscal el embargo precautorio para asegurar el interés fiscal cuando, a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales o en los casos en que la ley lo señale, así como levantarlo cuando proceda.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVIII.- Ordenar y practicar en términos de la legislación fiscal el embargo precautorio o aseguramiento en los casos en que la ley lo señale, cuando, a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales o en los casos en que la ley lo señale, así como levantarlo cuando proceda.
 
 XIX.- Verificar el saldo a favor por compensar; determinar y cobrar las cantidades compensadas indebidamente, incluida la actualización y recargos a que haya lugar y, en su caso, imponer las multas correspondientes, y efectuar la compensación de oficio de cantidades a favor de los contribuyentes.
 
@@ -1397,7 +1435,9 @@ XXVIII.- Expedir constancias de residencia para efectos fiscales.
 
 XXIX.- Habilitar instalaciones como recintos fiscales para uso de la autoridad fiscal y aduanera.
 
-XXX.- Ordenar y practicar visitas domiciliarias, verificaciones de origen, auditorías, inspecciones, actos de vigilancia, verificaciones y los demás actos que establezcan las disposiciones fiscales y aduaneras y los acuerdos, convenios o tratados de los que México sea parte, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de impuestos, incluyendo los que se causen por la entrada al territorio nacional o salida del mismo de mercancías y medios de transporte, derechos, contribuciones de mejoras, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter federal, así como prorrogar los plazos en que se deban concluir las visitas domiciliarias o revisiones que se efectúen en las oficinas de las propias autoridades.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXX.- Ordenar y practicar visitas domiciliarias, verificaciones de origen, auditorías, inspecciones, actos de vigilancia, verificaciones y los demás actos que establezcan las disposiciones fiscales y aduaneras y los acuerdos, convenios o tratados de los que México sea parte, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de impuestos, incluyendo los que se causen por la entrada al territorio nacional o salida del mismo de mercancías y medios de transporte, derechos, contribuciones de mejoras, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter federal, así como prorrogar los plazos en que se deban concluir las visitas domiciliarias o revisiones que se efectúen en las oficinas de las propias autoridades; resolver las consultas que formulen los contribuyentes con posterioridad al inicio de las facultades de comprobación, siempre que dichas consultas versen sobre planteamientos relacionados con el ejercicio de esas facultades.
 
 XXXI.- Solicitar de los contribuyentes, responsables solidarios o terceros, datos, informes o documentos, relativos a los trámites de devolución a que se refiere la fracción XXIV de este apartado, así como para planear y programar actos de fiscalización; verificar y, en su caso, determinar la correcta clasificación arancelaria de las mercancías de procedencia extranjera, así como comprobar de conformidad con los acuerdos, convenios o tratados en materia fiscal o aduanera, u otros que contengan disposiciones sobre dichas materias, de los que México sea parte, el cumplimiento de obligaciones a cargo de los contribuyentes, importadores, exportadores o productores, responsables solidarios y demás obligados.
 
@@ -3285,7 +3325,9 @@ II.- De Ensenada, con sede en Ensenada, Baja California.
 
 III.- De Mexicali, con sede en Mexicali, Baja California.
 
-IV.- De Tijuana, con sede en Tijuana, Baja California.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+VI.- De Campeche, con sede en Ciudad de San Francisco de Campeche, Campeche.
 
 V.- De La Paz, con sede en La Paz, Baja California Sur.
 
@@ -3616,3 +3658,7 @@ Segundo. Se abroga el Acuerdo por el que se delegan las facultades que se indica
 Tercero. Las referencias que se hagan y las atribuciones que se otorgan a la Administración Central de Recursos Humanos y a la Administración Central de Recursos Materiales y Servicios Generales en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, se entenderán hechas a la Administración Central de Capital Humano y a la Administración Central de Recursos Materiales, respectivamente.
 
 Cuarto. La Aduana de Guanajuato iniciará sus actividades una vez que entre en vigor el Acuerdo por el que se establezca su circunscripción territorial.
+
+D.O.F. 28 DE NOVIEMBRE DE 2006.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
