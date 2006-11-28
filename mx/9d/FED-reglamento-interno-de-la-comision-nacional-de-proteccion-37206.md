@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-proteccion-37206"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-27"
-last_updated: "2004-02-27"
+last_updated: "2006-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37206&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-02-26"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE PROTECCION SOCIAL EN SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 27 de febrero de 2004.
 
@@ -46,6 +46,10 @@ I. Comisión, a la Comisión Nacional de Protección Social en Salud;
 II. Comisionado, al Comisionado Nacional de Protección Social en Salud;
 
 III. Consejo Interno, al Consejo Interno de la Comisión Nacional de Protección Social en Salud;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+III BIS. Credencial Única, a la Credencial Única de Beneficiario del Sistema a que se refiere el artículo 41 del Reglamento de la Ley General de Salud en materia de Protección Social en Salud;
 
 IV. Ley, a la Ley General de Salud;
 
@@ -77,43 +81,67 @@ II. Promover y coordinar las acciones de los Regímenes;
 
 III. Intervenir y promover la formalización de los acuerdos de coordinación con los gobiernos de las entidades federativas para la ejecución del Sistema;
 
-IV. Coordinar las acciones para el seguimiento y evaluación de los acuerdos de coordinación a que se refiere la fracción anterior;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+IV. Coordinar las acciones para el seguimiento y evaluación de los acuerdos de coordinación a que se refiere la fracción anterior, de conformidad con el marco normativo general emitido por la unidad administrativa competente de la Secretaría de Salud;
 
 V. Promover, convenir e instrumentar acciones con otros organismos, instituciones, dependencias, sociedades y asociaciones que ofrezcan programas y servicios en materia de protección social y financiera;
 
-VI. Impulsar, coordinar y vincular acciones del Sistema con las de otros programas sociales para la atención a grupos vulnerables;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+VI. Impulsar la coordinación y vinculación de las acciones del Sistema con las de programas sociales para la atención a grupos indígenas, marginados, rurales y en general a cualquier grupo vulnerable desde una perspectiva intercultural que promueva el respeto a la persona y su cultura, así como a sus derechos humanos en salud;
 
 VII. Participar en los convenios que suscriban los estados y el Distrito Federal entre sí y con las instituciones del Sistema Nacional de Salud, con la finalidad de optimizar la utilización de sus instalaciones y compartir la prestación de servicios;
 
 VIII. Opinar respecto de los instrumentos jurídicos relativos a la operación del Sistema;
 
-IX. Definir el marco organizacional del Sistema en los ámbitos federal, estatal, del Distrito Federal y, en su caso, municipal;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
-X. Evaluar el desempeño de los Regímenes y coadyuvar en la fiscalización de los fondos que los sustenten, incluyendo aquéllos destinados al mantenimiento y desarrollo de infraestructura y equipamiento;
+IX. Definir, con la participación de las unidades administrativas competentes de la Secretaría el marco organizacional, del Sistema en los ámbitos federal, estatal, del Distrito Federal y en su caso, municipal;
 
-XI. Dirigir y ejecutar las acciones de financiamiento necesarias para el funcionamiento del Sistema, incluyendo el desarrollo de programas de salud para grupos vulnerables;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
-XII. Promover, en coordinación con los Regímenes, una política en materia de medicamentos para asegurar su eficiente abasto, distribución, entrega al beneficiario y uso racional;
+X. Realizar las acciones necesarias para evaluar, el desempeño del Sistema y de los Regímenes, así como coadyuvar en la fiscalización de los fondos que los sustenten, incluyendo aquellos destinados al mantenimiento y desarrollo de infraestructura y equipamiento;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XI. Dirigir y ejecutar las acciones de financiamiento necesarias para el funcionamiento del Sistema, incluyendo las relativas al desarrollo de programas de salud en áreas indígenas, marginadas, rurales, y en general a cualquier grupo vulnerable en colaboración con las unidades competentes de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XII. Promover en coordinación con los Regímenes, y con la participación de las unidades administrativas competentes de la Secretaría, una política en materia de medicamentos para asegurar su eficiente abasto, distribución, entrega al beneficiario y uso racional;
 
 XIII. Administrar los recursos financieros que en el marco del Sistema le suministre la Secretaría y efectuar las transferencias que correspondan a los estados y al Distrito Federal;
 
-XIV. Definir los criterios para la constitución de la previsión presupuestal anual, incluyendo los aspectos relativos a las necesidades de infraestructura para la atención primaria y especialidades básicas; así como los relativos a los imprevistos en la demanda de servicio;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XIV. Definir los criterios para la constitución de la previsión presupuestal anual, incluyendo los aspectos relativos a las necesidades de infraestructura para la atención primaria y especialidades básicas en congruencia con el Plan Maestro de Infraestructura y el Plan Maestro de Equipamiento, así como los relativos a los imprevistos en la demanda de servicio;
 
 XV. Administrar los recursos de la previsión presupuestal anual para atender necesidades de infraestructura y las variaciones en la demanda de servicios; así como realizar las transferencias a los Estados y al Distrito Federal, de conformidad a las reglas que fije el Ejecutivo Federal mediante disposiciones reglamentarias;
 
-XVI. Proponer al Secretario las bases para la compensación económica entre entidades federativas, el Distrito Federal, instituciones y establecimientos del Sistema Nacional de Salud por concepto de prestación de servicios de salud;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
-XVII. Coordinar la administración y operación del Fondo de Protección contra Gastos Catastróficos y evaluar sus resultados;
+XVI. Proponer al Secretario las bases para la compensación económica entre entidades federativas, instituciones y establecimientos del Sistema Nacional de Salud por concepto de la prestación de servicios de salud, dentro del marco del Sistema, con la participación de las unidades competentes de la Secretaría;
 
-XVIII. Aprobar las guías clínico-terapéuticas de enfermedades que estén previstas en los catálogos de intervenciones de servicios esenciales y de gastos catastróficos;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVII. Coordinar la administración y operación del Fondo de Protección contra Gastos Catastróficos y evaluar sus resultados, con la participación de las unidades administrativas competentes de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVIII. Aprobar previa validación técnica de las unidades administrativas competentes de la Secretaría las guías clínico-terapéuticas de enfermedades que estén previstas en los catálogos de intervenciones de servicios esenciales y de gastos catastróficos;
 
 XIX. Aprobar y publicar las tarifas relativas a los gastos generados por los beneficiarios del Sistema respecto de los servicios que se encuentren dentro del Catálogo de Intervenciones de servicios de Gastos Catastróficos;
 
 XX. Regular y gestionar servicios de salud para los afiliados al Sistema;
 
-XXI. Fijar la secuencia y alcance de cada intervención comprendida en los servicios esenciales de manera prioritaria y progresiva a fin de satisfacer de manera integral las necesidades de salud de las familias beneficiarias, de acuerdo a la disponibilidad financiera del Sistema;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
-XXII. Definir los criterios para integrar la Red así como para su operación y crecimiento pertinentes;
+XXI. Fijar, previa opinión favorable de las unidades administrativas competentes de la Secretaría, la secuencia y alcance de cada intervención comprendida en los servicios esenciales de manera prioritaria y progresiva a fin de satisfacer de manera integral las necesidades de salud de las familias beneficiarias, de acuerdo a la disponibilidad financiera del Sistema;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXII. Definir los criterios para integrar la Red, así como para su operación y crecimiento pertinentes, dando la intervención que corresponda a la Dirección General de Planeación y Desarrollo en Salud de la Secretaría;
 
 XXIII. Definir la política y formular los criterios de afiliación y promoción, para la provisión de protección financiera para la salud a grupos de población beneficiaria del Sistema;
 
@@ -121,7 +149,9 @@ XXIV. Determinar anualmente y por entidad federativa, el número de familias ben
 
 XXV. Establecer los criterios y mecanismos para la integración y administración del Padrón así como sus actualizaciones;
 
-XXVI. Proponer al Secretario los términos en que deberá ser integrado el expediente único por beneficiario;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXVI. Proponer al Secretario los términos en que deberá ser integrado el expediente único por beneficiario, entendiendo por éste la información de carácter administrativo y no clínica del mismo;
 
 XXVII. Establecer el esquema de cuotas familiares que los beneficiarios del Sistema deben cubrir;
 
@@ -133,15 +163,61 @@ XXX. Coordinarse con la unidad administrativa competente de la Secretaría para 
 
 XXXI. Establecer las medidas y realizar las acciones para la debida tutela de los derechos de los beneficiarios del Sistema;
 
-XXXII. Determinar los elementos que deberá contener la metodología y los materiales de capacitación que se requieran para la operación del Sistema;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
-XXXIII. Establecer los criterios que deberá contemplar la difusión y promoción del Sistema;
+XXXII. Determinar, con la participación de las unidades administrativas competentes de la Secretaría, los elementos que deberá contener la metodología y los materiales de capacitación que se requieran para la operación del Sistema;
 
-XXXIV. Informar el resultado de las acciones del Sistema para cumplir con la rendición de cuentas a los ciudadanos;
+XXXIII. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2006)
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXIV. Informar de las acciones del Sistema por medio de indicadores de resultados, para cumplir con la rendición de cuentas a los ciudadanos;
 
 XXXV. Participar, con la intervención de la unidad administrativa que corresponda de la Secretaría, en las negociaciones y acuerdos de cooperación binacional y multinacional sobre las materias competencia de la propia Comisión;
 
-XXXVI. Aplicar las medidas preventivas y correctivas que sean necesarias para la debida observancia de la Ley y su Reglamento en materia de protección social en salud, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXVI. Aplicar con la participación que, en su caso, corresponda a las unidades administrativas de la Secretaría, las medidas que sean necesarias para la debida observancia de la Ley y del Reglamento de la Ley General de Salud en Materia de Protección Social en Salud;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXVI BIS 1. Elaborar la política y los programas de comunicación social de la Comisión, así como la estrategia editorial, con la participación que le corresponda a las unidades competentes de la Secretaría, y de conformidad con las disposiciones de carácter general que resulten aplicables;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXVI BIS 2. Coadyuvar con la Dirección General de Comunicación Social de la Secretaría, en las campañas de comunicación con la sociedad sobre el Sistema a través de medios impresos y electrónicos, difundiendo los resultados del Sistema a la ciudadanía, con la finalidad de promover la vinculación social con la población mexicana;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXVI BIS 3. Promover, en coordinación con la Dirección General de Comunicación Social de la Secretaría, la consolidación de la imagen institucional del Sistema, con el propósito de hacer homogénea la comunicación social del Sistema en las entidades federativas y en la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXVI BIS 4. Administrar y actualizar permanentemente la información que sobre el Sistema se encuentre en la página Web de la Comisión, facilitando su utilización y acceso por el público en general, así como la rendición de cuentas a los ciudadanos con una mayor transparencia en la información;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXVI BIS 5. Medir el impacto que los medios de difusión del Sistema tengan en la sociedad, para desarrollar nuevos y mejores mecanismos para acercar el Sistema a la población;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXVI BIS 6. Planear y llevar a cabo, en coordinación con las unidades administrativas de la Secretaría competentes, la evaluación de la satisfacción de los afiliados al Sistema;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXVI BIS 7. Proponer mecanismos que permitan a los afiliados del Sistema realizar una evaluación social del mismo y, en su caso, auxiliar acciones de contraloría social en los Regímenes;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXVI BIS 8. Promover la operación del Centro de Atención Telefónica del Sistema, así como el buzón electrónico de la página Web de la Comisión, y canalizar y dar seguimiento a las preguntas, quejas y sugerencias de los afiliados al Sistema;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXVI BIS 9. Realizar, en coordinación con las unidades administrativas competentes de la Secretaría, campañas sociales con el objetivo de promover comportamientos saludables en los afiliados al Sistema y mantener comunicación efectiva con éstos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XXXVI BIS 10. Elaborar estrategias de difusión que coadyuven con los Regímenes para facilitar los procesos de afiliación al Sistema, y
 
 XXXVII. Las demás facultades que le señalen otras disposiciones jurídicas y administrativas.
 
@@ -153,9 +229,29 @@ I. Oficina del Comisionado;
 
 II. Dirección General de Afiliación y Operación;
 
-III. Dirección General de Financiamiento, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
-IV. Dirección General de Gestión de Servicios de Salud.
+III. Dirección General de Financiamiento;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+IV. Dirección General de Gestión de Servicios de Salud;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+V. Dirección General de Administración y Finanzas;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+VI. Dirección General de Coordinación con Entidades Federativas;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+VII. Dirección General del Programa Oportunidades, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+VIII. Dirección General de Procesos y Tecnología.
 
 Para el desarrollo de sus funciones la Comisión contará con un Consejo Interno en los términos previstos en el presente Reglamento.
 
@@ -169,9 +265,19 @@ II. Establecer las normas, políticas, criterios, sistemas y procedimientos de c
 
 III. Desempeñar las funciones y comisiones que el Secretario le encomiende y mantenerlo informado sobre su desarrollo;
 
-IV. Formular y presentar ante la unidad administrativa competente de la Secretaría, la propuesta de presupuesto que se requiera para el funcionamiento de la Comisión;
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+III BIS. Fungir como Presidente del Subcomité de Adquisiciones, Arrendamientos y Servicios de la Comisión;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+IV. Formular y proponer al Secretario los anteproyectos de presupuesto de la Comisión, así como ejercer, pagar, reembolsar y contabilizar el presupuesto autorizado, de acuerdo a la normatividad establecida por las autoridades competentes;
 
 V. Formular los anteproyectos de disposiciones jurídicas, lineamientos e instrumentos consensuales en los asuntos de su competencia, con la intervención de la Dirección General de Asuntos Jurídicos de la Secretaría y someterlos a consideración del Secretario;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+V BIS. Participar en el ámbito de su competencia, en la elaboración y desarrollo de los programas que se concerten en términos de la Ley de Planeación;
 
 VI. Planear, organizar y evaluar el funcionamiento de las unidades administrativas que formen parte de la Comisión, así como coordinar las actividades de éstas con la Secretaría;
 
@@ -225,15 +331,33 @@ XI. Coadyuvar, en el ámbito de su competencia, en la determinación del marco o
 
 XII. Diseñar y elaborar los materiales y herramientas para la sensibilización, difusión, promoción y orientación permanente del Sistema dirigida (sic) a la población;
 
-XIII. Efectuar, en el ámbito de su competencia, el seguimiento de las acciones a cargo de los Regímenes;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
-XIV. Definir los criterios y las estrategias para la automatización de los registros de información en materia de promoción y afiliación del Sistema;
+XIII. Efectuar, en el ámbito de su competencia, el seguimiento y supervisión de las acciones a cargo de los Regímenes;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XIV. Definir los criterios y las estrategias para la automatización de los registros de información en materia de promoción y afiliación del Sistema en apego a las políticas y normatividad técnica emitidas por las unidades administrativas competentes de la Secretaría;
 
 XV. Diseñar la metodología de la capacitación para la operación del Sistema en los aspectos relacionados a la promoción y afiliación;
 
 XVI. Coordinar la realización de estudios e investigaciones relacionados con sus atribuciones;
 
-XVII. Mantener periódicamente informado al Comisionado sobre los avances de los programas a su cargo, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVII. Mantener periódicamente informado al Comisionado sobre los avances de los programas a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVII BIS 1. Participar en los cuerpos colegiados que corresponda acorde con la normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVII BIS 2. Coadyuvar con la Dirección General de Gestión de Servicios de Salud y las unidades administrativas competentes de la Secretaría, en el diseño de los Indicadores necesarios, dentro del ámbito de sus respectivas competencias, para el Sistema de Indicadores de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVII BIS 3. Expedir y certificar, en su caso, las copias de documentos o constancias que existan en los archivos de la Dirección General de Afiliación y Operación, cuando proceda o a petición de autoridad competente, y
 
 XVIII. Las demás que le confieran otras disposiciones legales.
 
@@ -245,7 +369,9 @@ I. Participar en la planeación y programación financiera del Sistema;
 
 II. Efectuar las acciones encaminadas a la programación e integración presupuestal del Sistema;
 
-III. Diseñar y proponer los esquemas y mecanismos financieros que sean necesarios para el funcionamiento del Sistema incluyendo el desarrollo de programas de salud dirigidos a grupos vulnerables;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+III. Diseñar y proponer en coordinación con las unidades administrativas competentes de la Secretaría, los esquemas y mecanismos financieros que sean necesarios para el funcionamiento del Sistema incluyendo el desarrollo de programas dirigidos a grupos indígenas, marginados, rurales y en general a cualquier grupo vulnerable;
 
 IV. Verificar que los recursos provenientes de la Aportación Solidaria Estatal y Cuota Familiar, sean congruentes con el Padrón;
 
@@ -253,11 +379,19 @@ V. Diseñar y aplicar los instrumentos financieros y los procesos administrativo
 
 VI. Determinar los criterios para la operación y administración de los fondos generales y específicos relacionados con las funciones comprendidas en el Sistema y de los programas orientados a la atención de grupos vulnerables;
 
-VII. Coadyuvar en las acciones de supervisión financiera del Sistema y de los programas de atención a grupos vulnerables para garantizar el cumplimiento de las normas financieras y de operación, así como de sus metas y objetivos;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
-VIII. Elaborar los lineamientos para la administración y transferencia de la cuota social y aportación solidaria federal a las entidades federativas que prevé la Ley;
+VII. Coadyuvar, con la participación de las unidades administrativas competentes de la Secretaría, en la acciones de supervisión financiera del Sistema y de los programas de atención a grupos indígenas, marginados, rurales y en general a cualquier grupo vulnerable, para garantizar el cumplimiento de las normas financieras y de operación, así como de sus metas y objetivos;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+VIII. Elaborar, previa opinión de las unidades administrativas competentes de la Secretaría, los criterios generales para la administración y transferencia de la cuota social y aportación solidaria federal a las entidades federativas que prevé la Ley, así como los lineamientos operativos para la administración y transferencia de los recursos presupuestales de los Fondos de Protección contra Gastos Catastróficos y de Previsión Presupuestal;
 
 IX. Conducir la operación y administración de la previsión presupuestal anual, y del Fondo de Protección contra Gastos Catastróficos a que se refiere la Ley;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+IX BIS. Proporcionar el apoyo técnico y administrativo necesario al Comité Técnico del Fideicomiso del Sistema, dando seguimiento a los asuntos establecidos en éste;
 
 X. Coadyuvar, en el ámbito de su competencia, en la formalización de los acuerdos de coordinación entre la Secretaría y los gobiernos de las entidades federativas, para la instrumentación y operación del Sistema;
 
@@ -265,15 +399,35 @@ XI. Coadyuvar, en el ámbito de su competencia, en la determinación del marco o
 
 XII. Coordinar la realización de estudios que den soporte a las bases actuariales, financieras y administrativas que sustenten las acciones encaminadas a proveer protección social en salud;
 
-XIII. Detectar fuentes complementarias de financiamiento para las acciones de protección social en salud;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
-XIV. Efectuar, en el ámbito de su competencia, el seguimiento de las acciones a cargo de los Regímenes;
+XIII. Detectar fuentes complementarias de financiamiento para las acciones de protección social en salud y administrar los recursos provenientes de dichas fuentes, de conformidad con las disposiciones aplicables;
 
-XV. Definir los criterios y las estrategias para la automatización de los registros de información en materia de financiamiento del Sistema;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XIV. Efectuar, en el ámbito de su competencia, el seguimiento y la supervisión de las acciones a cargo de los Regímenes;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XV. Definir los criterios y las estrategias para la automatización de los registros de información en materia de financiamiento del Sistema en apego a las políticas y normatividad técnica emitidas por las unidades administrativas competentes de la Secretaría;
 
 XVI. Diseñar la metodología de la capacitación para la operación del Sistema en los aspectos de su competencia;
 
-XVII. Mantener periódicamente informado al Comisionado sobre el avance del programa financiero y del resultado de los estudios realizados al respecto, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVII. Mantener periódicamente informado al Comisionado sobre el avance del programa financiero y del resultado de los estudios realizados al respecto;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVII BIS 1. Participar en los cuerpos colegiados que corresponda acorde con la normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVII BIS 2. Coadyuvar con la Dirección General de Gestión de Servicios de Salud y las unidades administrativas competentes de la Secretaría, en el diseño de los Indicadores necesarios, dentro del ámbito de sus facultades, para el Sistema de Indicadores de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVII BIS 3. Expedir y certificar, en su caso, las copias de documentos o constancias que existan en los archivos de la Dirección General de Financiamiento, cuando proceda o a petición de autoridad competente, y
 
 XVIII. Las demás que le confieran otras disposiciones legales.
 
@@ -281,11 +435,27 @@ XVIII. Las demás que le confieran otras disposiciones legales.
 
 Corresponde a la Dirección General de Gestión de Servicios de Salud:
 
-I. Proponer la incorporación gradual y jerarquizada de los servicios de salud y de las intervenciones clínicas, así como su secuencia y alcance con el fin de lograr la cobertura universal de los servicios en el período previsto en la Ley;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+I. Proponer la incorporación gradual y jerarquizada de los servicios de salud y de las intervenciones clínicas al Sistema, así como su secuencia y alcance con el fin de lograr la cobertura universal de los servicios en el período previsto en la Ley;
 
 II. Estimar los costos derivados de las intervenciones médicas y de la provisión de nuevos servicios, con base en los protocolos clínicos y terapéuticos previendo su impacto económico en el Sistema, así como participar en la definición de criterios y políticas para la determinación de cuotas reguladoras del propio Sistema asociadas a la prestación de servicios de salud;
 
-III. Definir y establecer los criterios e instrumentos de registro de la información médica relativa a los servicios prestados y provisión de insumos para los afiliados al Sistema, así como para la automatización de los registros de información en materia de Gestión de Servicios de Salud;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+III. Definir y establecer, con la participación de las unidades administrativas competentes de la Secretaría, los criterios e instrumentos de registro de la información médica relativa a los servicios prestados y provisión de insumos para los afiliados al Sistema, así como para la automatización de los registros de información en materia de Gestión de Servicios de Salud;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+III BIS 1. Utilizar los sistemas de información establecidos por las unidades administrativas de la Secretaría para la actualización de las bases de datos de las unidades afiliadas al Sistema, a efecto de ser utilizadas en la programación de unidades a evaluar, para fines de acreditación como establecimientos públicos prestadores de servicios de salud en coordinación con las unidades administrativas competentes;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+III BIS 2. Hacer del conocimiento de los Servicios Estatales de Salud, los establecimientos públicos autorizados para prestar los servicios de salud comprendidos por el Sistema, conforme a las bases del Manual para la Acreditación;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+III BIS 3. Coadyuvar en la determinación de las cédulas de evaluación del Sistema, que se utilicen para el proceso de acreditación, en coordinación con las unidades administrativas competentes de la Secretaría;
 
 IV. Vigilar el adecuado funcionamiento de los mecanismos de atención de quejas por la prestación de los servicios de la Red, verificar que se hayan atendido las mismas y sugerir las medidas correctivas que correspondan;
 
@@ -299,9 +469,15 @@ VIII. Proponer los criterios para efectuar el análisis de riesgos para la salud
 
 IX. Participar en la formulación de propuestas de tratamientos médicos cuyos costos sean cubiertos por el Fondo de Protección contra Gastos Catastróficos y en las acciones que tiendan hacia el desarrollo de los centros regionales de alta especialidad del Sistema;
 
-X. Determinar las condiciones generales para la prestación de medicamentos y promover el uso racional de los mismos, en el marco del Sistema;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+X. Determinar, con la participación de las unidades administrativas competentes de la Secretaría, las condiciones generales para la prestación de medicamentos y promover el uso racional de los mismos, en el marco del Sistema;
 
 XI. Coordinar las acciones para propiciar la cobertura y calidad de la atención médica integrando al Sistema los programas dirigidos a grupos vulnerables;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XI BIS. Organizar las acciones correspondientes para llevar a cabo la supervisión de los protocolos médicos, otorgando la participación en su definición y desarrollo que corresponde a las unidades administrativas competentes de la Secretaría, así como emitir la autorización de los casos para la atención de las enfermedades consideradas como gastos catastróficos;
 
 XII. Hacer del conocimiento de las autoridades federales, estatales o municipales competentes, los hechos que presuntamente puedan ser motivo de responsabilidad administrativa derivada del incumplimiento en la prestación de los servicios de salud convenidos;
 
@@ -309,15 +485,181 @@ XIII. Coadyuvar, en el ámbito de su competencia, en la formalización de los ac
 
 XIV. Coadyuvar, en el ámbito de su competencia, en la determinación del marco organizacional y funcional de los Regímenes; acorde a los criterios que para el efecto sean definidos por el Comisionado;
 
-XV. Efectuar, en el ámbito de su competencia, el seguimiento de las acciones a cargo de los Regímenes;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
 
-XVI. Diseñar la metodología de la capacitación para la operación del Sistema en lo relativo a su competencia;
+XV. Efectuar, en el ámbito de su competencia, el seguimiento y la supervisión de las acciones a cargo de los Regímenes;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVI. Diseñar la metodología de la capacitación para la operación del Sistema en lo relativo a su competencia, atendiendo a los lineamientos disposiciones emitidas por las unidades administrativas competentes de la Secretaría;
 
 XVII. Coordinar la realización o participar en los estudios e investigaciones relativos a su competencia;
 
-XVIII. Mantener periódicamente informado al Comisionado sobre el avance de los programas a su cargo, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVIII. Mantener periódicamente informado al Comisionado sobre los avances de los programas a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVIII BIS 1. Participar, en los cuerpos colegiados que corresponda de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVIII BIS 2. Coadyuvar con las entidades federativas en la implementación de los mecanismos necesarios, para que mediante el uso de la Credencial Única, se optimice la prestación de los servicios de salud y el otorgamiento de los medicamentos asociados a dichos servicios, que otorga el Sistema;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVIII BIS 3. Elaborar el informe semestral a que se refiere el artículo 77 BIS 31 de la Ley, de las acciones realizadas por la Comisión para su entrega al Congreso de la Unión;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVIII BIS 4. Diseñar, en coordinación con las Direcciones Generales de la Comisión y las unidades administrativas competentes de la Secretaría, los indicadores necesarios, dentro del ámbito de sus facultades, para el Sistema de Indicadores de la Comisión, así como, implementarlo;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVIII BIS 5. Participar en la gestión de servicios médicos para proveer a los afiliados al Sistema de las acciones necesarias para la atención de las enfermedades consideradas como gastos catastróficos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVIII BIS 6. Coordinar en lo referente al Sistema, la Red de Centros Regionales de Alta Especialidad para gastos catastróficos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVIII BIS 7. Coordinar las actividades necesarias para llevar acabo (sic) las acciones del Sistema de Gestión de Calidad de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+XVIII BIS 8. Expedir y certificar, en su caso, las copias de documentos o constancias que existan en los archivos de la Dirección General de Gestión de Servicios de Salud, cuando proceda o a petición de autoridad competente, y
 
 XIX. Las demás que le confieran otras disposiciones legales.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 10 BIS 1. Corresponde a la Dirección General de Administración y Finanzas:
+
+I. Someter a consideración del Comisionado las medidas operativas y administrativas que estime convenientes para la mejor organización y funcionamiento de la Comisión;
+
+II. Proponer y aplicar las políticas, normas, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales de la Comisión;
+
+III. Autorizar, en conjunción con la Dirección General de Procesos y Tecnología, la adquisición de los servicios y equipamiento informático que el Sistema Central de Gestión y la aplicación de la Credencial Única requieran;
+
+IV. Informar a las unidades administrativas de la Comisión sobre las normas para el proceso interno de programación, evaluación e información presupuestal, así como someter a consideración del Comisionado el anteproyecto de los presupuestos de ingresos y egresos de la Comisión, para su posterior presentación a la Dirección General de Programación, Organización y Presupuesto de la Secretaría;
+
+V. Vigilar el cumplimiento y evaluar los alcances programáticos presupuestales de la Comisión y, en su caso, proponer los ajustes y recomendaciones que se consideren pertinentes;
+
+VI. Proponer al Comisionado acorde con las condiciones generales de trabajo vigentes en la Secretaría, las políticas internas de trabajo, y una vez aprobadas por éste, difundirlas entre el personal de la Comisión y vigilar su cumplimiento;
+
+VII. Dirigir y administrar el desarrollo e implementación del Servicio Profesional de Carrera de la Comisión, así como integrar y coordinar el funcionamiento del Comité de Profesionalización y Selección y autorizar los instrumentos administrativos que al efecto se expidan, de conformidad con las disposiciones aplicables;
+
+VIII. Aplicar los sistemas de estímulos y recompensas al personal; de conformidad con las disposiciones aplicables;
+
+IX. Tramitar los nombramientos de los servidores públicos y los movimientos de personal ante la Comisión Mixta de Escalafón y, resolver los casos de terminación de nombramientos y contratos;
+
+X. Definir y conducir la política de capacitación al personal de la Comisión, para el desarrollo y mejoramiento de sus condiciones sociales, culturales, de seguridad e higiene en el trabajo;
+
+XI. Integrar y coordinar el funcionamiento del Subcomité para la adquisición de los bienes y servicios para satisfacer las necesidades de la Comisión;
+
+XII. Participar por conducto de su titular en calidad de suplente del Presidente en el Subcomité de Adquisiciones, Arrendamientos y Servicios de la Comisión;
+
+XIII. Dirigir y supervisar la operación de los servicios de correspondencia, mensajería, seguridad y vigilancia;
+
+XIV. Custodiar y salvaguardar los muebles, inmuebles, vehículos y equipo propiedad o al servicio de la Comisión;
+
+XV. Fungir como enlace para la integración de información necesaria para los juicios o procedimientos en los que la Secretaría sea parte, derivado de actos o hechos generados por la Comisión;
+
+XVI. Participar en la elaboración de propuestas para la actualización y desarrollo de disposiciones e instrumentos jurídicos en las materias competencia de la Comisión, formulando los proyectos respectivos;
+
+XVII. Expedir y certificar, en su caso, las copias de documentos o constancias que existan en los archivos de la Dirección General de Administración y Finanzas, cuando proceda o a petición de autoridad competente, y
+
+XVIII. Las demás que le confieran otras disposiciones legales.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 10 BIS 2. Corresponde a la Dirección General de Coordinación con Entidades Federativas:
+
+I. Determinar los lineamientos del Plan Estratégico de Supervisión del Sistema en las entidades federativas, así como coordinar dicho Plan Estratégico;
+
+II. Actuar como enlace de la Comisión con el Secretariado Técnico del Consejo Nacional de Salud, para la participación y seguimiento de los acuerdos con las Entidades Federativas;
+
+III. Impulsar las acciones estratégicas para la evaluación externa del Sistema y los Regímenes, con las entidades federativas, en coordinación con la Dirección General de Evaluación del Desempeño de la Secretaría;
+
+IV. Elaborar los modelos de convenio de colaboración interinstitucional que normen las relaciones entre los Regímenes y los establecimientos para la atención médica acreditados, así como para los que celebren los Regímenes para la utilización de infraestructura médica de otros Regímenes o de otras instituciones del Sistema; que garanticen la prestación de los servicios de salud a las personas afiliadas al Sistema;
+
+V. Fungir como enlace, con las entidades federativas, en la ejecución de las acciones de Protección Social en Salud, competencia de la Federación; con la participación que corresponda a las unidades administrativas competentes de la Secretaría;
+
+VI. Participar en las estrategias de negociación y gestión de firma de los acuerdos de coordinación con las entidades federativas, para la instrumentación del Sistema;
+
+VII. Apoyar en las estrategias de seguimiento de los acuerdos de coordinación con las entidades federativas para la operación del Sistema;
+
+VIII. Evaluar el desempeño de los Regímenes, respecto a la prestación de los servicios de salud a los afiliados al Sistema;
+
+IX. Coadyuvar, en el ámbito de su competencia, con la Dirección General de Financiamiento en la fiscalización de los fondos que sustenten el desempeño de los Regímenes;
+
+X. Coadyuvar con los mecanismos de participación de las autoridades municipales en los Regímenes, para establecer los lineamientos, a efecto de que los Servicios Estatales de Salud establezcan convenios de colaboración con los municipios para su participación en el Sistema;
+
+XI. Apoyar a los Regímenes en la gestión ante la Comisión y ante las unidades administrativas competentes de la Secretaría, para la solución de los problemas identificados en los procesos de supervisión y verificación;
+
+XII. Expedir y certificar, en su caso, las copias de documentos o constancias que existan en los archivos de la Dirección General de Coordinación con Entidades Federativas, cuando proceda o a petición de autoridad competente, y
+
+XIII. Las demás que le confieran otras disposiciones legales.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 10 BIS 3. Corresponde a la Dirección General del Programa Oportunidades:
+
+I. Establecer los criterios técnicos y administrativos para la programación y distribución de recursos presupuestales para la operación y desarrollo del Sistema, con relación al Programa de Desarrollo Humano Oportunidades en sus componentes Salud y Alimentación, y en su caso, de los Programas que le fuesen encomendados;
+
+II. Dar seguimiento a la instrumentación de las políticas y acciones operativas de los Programas encomendados a la Comisión de conformidad con las disposiciones aplicables;
+
+III. Realizar las acciones correspondientes para la adquisición, distribución y entrega de los complementos alimenticios a la población beneficiaria;
+
+IV. Conducir el diseño, instrumentación, operación y difusión de la información necesaria para el seguimiento y evaluación de los programas encomendados a la Comisión, en coordinación con las unidades administrativas competentes de la Secretaría;
+
+V. Efectuar y en su caso, participar en la elaboración de estudios e investigación necesarios para los diversos programas encomendados a la Comisión;
+
+VI. Coadyuvar con la Dirección General de Gestión de Servicios de Salud, en el diseño de los Indicadores necesarios, dentro del ámbito de sus facultades, para el Sistema de Indicadores de la Comisión;
+
+VII. Coadyuvar en la implantación de acciones con el fin de propiciar la cobertura y calidad de la atención médica de los Programas dirigidos a grupos vulnerables con la participación de las unidades administrativas de la Secretaría;
+
+VIII. Expedir y certificar, en su caso, las copias de documentos o constancias que existan en los archivos de la Dirección General del Programa Oportunidades, cuando proceda o a petición de autoridad competente, y
+
+IX. Las demás que le confieran otras disposiciones legales.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 10 BIS 4. Corresponde a la Dirección General de Procesos y Tecnología:
+
+I. Establecer las especificaciones y características técnicas de la Credencial Única, de conformidad con la normatividad emitida por la Dirección General de Tecnologías de la Información de la Secretaría de Salud;
+
+II. Instrumentar mecanismos para determinar las condiciones bajo las cuales deberán operar los proveedores de la Credencial Única;
+
+III. Poner a consideración del Comisionado, las acciones y estrategias para que los afiliados al Sistema sean integrados al programa de la Credencial Única;
+
+IV. Proponer al Comisionado, con base en el estimado de familias a afiliarse al Sistema, las metas a lograr de afiliados incorporados al programa de la Credencial Única;
+
+V. Diseñar y operar el Sistema Central de Gestión, el cual automatizará la información que se genere con el uso de la Credencial Única, en apego a las políticas y disposiciones aplicables;
+
+VI. Administrar la información que se genere por el uso de la Credencial Única por medio del Sistema Central de Gestión, con el fin de poder satisfacer los requerimientos informativos de las diferentes áreas de la Comisión, de los Regímenes y de las Dependencias de la Administración Pública Federal, así como la información relacionada con el surtimiento de medicamentos a los afiliados al Sistema;
+
+VII. Establecer en coordinación con las demás unidades administrativas de la Comisión, los procesos y esquemas que sean necesarios, con el fin de determinar un Sistema Único de Información, que sea la base para el intercambio de información interinstitucional;
+
+VIII. Mantener comunicación con las instituciones relacionadas en materia de credencialización de la Administración Pública Federal;
+
+IX. Proponer y establecer el modelo de Administración de Infraestructura de la Red Telemática de la Comisión;
+
+X. Coordinar y administrar los sistemas, equipos y programas de cómputo, la red de telecomunicaciones y los protocolos físicos y lógicos de la Comisión, para optimizar el uso de los sistemas y equipos informáticos, así como determinar y difundir los lineamientos para el diseño y desarrollo de los sistemas de información y centros de datos, de acuerdo a la normatividad aplicable. En el caso de servicios electrónicos de salud y de telemedicina, será de conformidad con los lineamientos emitidos por el Centro Nacional de Excelencia Tecnológica en Salud;
+
+XI. Determinar el uso de las tecnologías en informática para la realización de los procesos de cada una de las diferentes áreas de la Comisión, con el fin de optimizar el desarrollo de sus actividades de forma eficiente y segura, de conformidad con la normatividad aplicable;
+
+XII. Proporcionar el soporte técnico al Sistema Central de Gestión y dar asesoría técnica a los Regímenes para la óptima utilización del mismo;
+
+XIII. Participar en la planeación de la adquisición de los servicios y equipamiento informático que el Sistema Central de Gestión y la aplicación de la Credencial Única requieran;
+
+XIV. Coadyuvar con la Dirección General de Gestión de Servicios de Salud, en el diseño de los Indicadores necesarios, dentro del ámbito de sus facultades, para el Sistema de Indicadores de la Comisión;
+
+XV. Expedir y certificar, en su caso, las copias de documentos o constancias que existan en los archivos de la Dirección General de Procesos y Tecnología, cuando proceda o a petición de autoridad competente, y
+
+XVI. Las demás que le confieran otras disposiciones legales.
 
 ### CAPÍTULO CUARTO. Del Consejo Interno
 
@@ -371,11 +713,13 @@ VII. Proponer al Secretario la expedición y actualización de su Reglamento de 
 
 ### CAPÍTULO QUINTO. De las Suplencias
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 18.
 
-El Comisionado será suplido en sus ausencias, por los directores generales de Afiliación y Operación, el de Financiamiento y el de Gestión de Servicios de Salud, en el orden indicado.
+El Comisionado será suplido en sus ausencias, por los Directores Generales de Afiliación y Operación, de Financiamiento, de Gestión de Servicios de Salud, de Coordinación con Entidades Federativas, del Programa Oportunidades, de Administración y Finanzas, y de Procesos y Tecnología, según la naturaleza de los asuntos.
 
-Los servidores públicos referidos en el párrafo anterior, al interior de sus unidades administrativas serán suplidos por los de la jerarquía inmediata inferior adscritos a sus respectivas unidades en el orden que sus titulares determinen.
+Las ausencias de los titulares de las direcciones generales serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
 ## TRANSITORIOS
 
@@ -392,3 +736,19 @@ El Secretario de Salud deberá nombrar a los integrantes del Consejo Interno que
 QUINTO.- Los demás recursos humanos y materiales que la Comisión requiera para su funcionamiento, le serán proporcionados de conformidad con la redistribución de recursos de la Secretaría que al efecto realice la Subsecretaría de Administración y Finanzas.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en México, Distrito Federal, a los veintiséis días del mes de febrero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Salud, Julio Frenk Mora.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 28 DE NOVIEMBRE DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos pendientes a la entrada en vigor del presente Decreto, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella unidad administrativa a la que se le haya atribuido la competencia correspondiente en este Decreto.
+
+TERCERO. Las acciones que lleve a cabo la Secretaría de Salud para la aplicación del presente Decreto, en las que se ejerzan recursos de carácter federal, se sujetarán a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como a las disposiciones aplicables en materia presupuestaria y a la disponibilidad de recursos que se haya aprobado para tal fin en el Presupuesto de Egresos de la Federación en el ejercicio fiscal correspondiente.
+
+Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estructura orgánica de la Comisión Nacional de Protección Social en Salud, se deberán realizar conforme a las disposiciones aplicables y mediante movimientos compensados que no aumentarán el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal y los subsecuentes.
+
+CUARTO. Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento deba ser ejercida por alguna otra unidad de las que el mismo establece, el personal y los recursos materiales y financieros con que aquélla contaba y que fueren necesarios, pasarán a la unidad o unidades competentes, de acuerdo con la asignación que haga la Subsecretaría de Administración y Finanzas, de conformidad con el ámbito de facultades que a cada una corresponda.
+
+QUINTO. Los derechos laborales de los trabajadores de la Secretaría serán respetados conforme a las disposiciones legales aplicables.
