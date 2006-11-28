@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-462
 country: "mx"
 rank: "otro"
 publication_date: "1995-03-13"
-last_updated: "2006-11-17"
+last_updated: "2006-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46227&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,139 +19,63 @@ issue_date: "1995-03-03"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 1994)
 
-RESOLUCION QUE MODIFICA A LA DIVERSA QUE ESTABLECE LAS REGLAS DE CARACTER GENERAL RELATIVAS A LA APLICACION DE LAS DISPOSICIONES EN MATERIA ADUANERA DEL TRATADO DE LIBRE COMERCIO CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA INTERNAR DURANTE EL AÑO 2007, A LA REPUBLICA DE COLOMBIA, VEHICULOS AUTOMOTORES NUEVOS, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CONFORME A LA DECISION 42 DE LA COMISION ADMINISTRADORA DEL TRATADO, SUSCRITA ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
 
-Resolución publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de noviembre de 2006.
+Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 28 de noviembre de 2006.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-La Secretaría de Hacienda y Crédito Público, con fundamento en los artículos 16 y 31 de la Ley Orgánica de la Administración Pública Federal; 1o. y 144, fracciones XXIII y XXV de la Ley Aduanera; 1o. y 6o., fracción XXXIV del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, así como en el capítulo VII del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 4-03.2, inciso a), párrafo iii del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela y la Decisión 42 de la Comisión Administradora del Tratado; 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V, y 26 al 36 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Decreto de promulgación del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela se publicó en el Diario Oficial de la Federación el 9 de enero de 1995, y la Resolución que establece las reglas de carácter general relativas a la aplicación de las disposiciones en materia aduanera del Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, así como su reforma, se publicaron en el citado órgano de difusión oficial el 13 de marzo de 1995 y el 8 de junio de 2004, respectivamente.
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela (el Tratado) fue aprobado por el Senado de la República el 13 de junio de 1994 y publicado en el Diario Oficial de la Federación el 9 de enero de 1995;
 
-Que con fecha 23 de mayo de 2006, el Gobierno de la República Bolivariana de Venezuela notificó al Gobierno de los Estados Unidos Mexicanos su decisión de hacer formal denuncia del Acuerdo de Complementación Económica No. 33, nombre con el que quedó registrado el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela ante la Asociación Latinoamericana de Integración (ALADI); denuncia que se efectuó de conformidad con lo establecido en el artículo 23-08 del propio Tratado.
+Que el Comité Automotor del Tratado negoció la incorporación del sector automotor en el marco del Tratado, lo cual fue ratificado por las partes a través de la firma de la Decisión 42 de la Comisión Administradora el 21 de febrero de 2005;
 
-Que resulta conveniente y necesario para operadores y autoridades aduaneras, conocer con claridad las disposiciones relativas a la instrumentación del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, por lo que he tenido a bien expedir la
+Que la Decisión mencionada fue aprobada por la Cámara de Senadores del Honorable Congreso de la Unión, el 6 de octubre de 2005, según Decreto publicado en el Diario Oficial de la Federación el 20 de diciembre del propio año;
 
-RESOLUCION QUE MODIFICA A LA DIVERSA QUE ESTABLECE LAS REGLAS DE CARACTER GENERAL RELATIVAS A LA APLICACION DE LAS DISPOSICIONES EN MATERIA ADUANERA DEL TRATADO DE LIBRE COMERCIO CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA
+Que el Decreto Promulgatorio de la Decisión 42 de la Comisión Administradora del Tratado de Libre Comercio celebrado entre la República de Colombia, los Estados Unidos Mexicanos y la República Bolivariana de Venezuela, firmada el 21 de febrero de dos mil cinco, fue publicado en el Diario Oficial de la Federación el 13 de enero de 2006;
 
-Unico. Se reforma y adiciona la Resolución que establece las reglas de carácter general relativas a la aplicación de las disposiciones en materia aduanera del Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, publicada en el Diario Oficial de la Federación el 13 de marzo de 1995 y reformada mediante la diversa publicada en el mismo órgano informativo el 8 de junio de 2004, conforme a lo siguiente:
+Que es una estrategia prioritaria del Gobierno Federal fortalecer los mecanismos regionales de diálogo político y de integración económica, así como establecer los mecanismos adecuados para la administración de los acuerdos comerciales internacionales suscritos por los Estados Unidos Mexicanos;
 
-A. Se reforman las reglas:
+Que la asignación de cupos de exportación busca promover la competitividad de los sectores involucrados, así como establecer un marco regulatorio equitativo y transparente, y
 
-- 9.
+Que la Comisión de Comercio Exterior dio opinión favorable sobre esta medida, he tenido a bien expedir el siguiente:
 
-- 12.
-
-- 13.
-
-- 14., primer párrafo.
-
-- 24.
-
-- 27.
-
-- 31.
-
-- 32., fracción II.
-
-- 33.
-
-- 35., primer párrafo.
-
-B. Se adiciona la regla:
-
-- 3.1.
-
-Las modificaciones anteriores quedan como sigue:
-
-“3.1.- Para los efectos del artículo 6-12 del Tratado, el importador podrá acreditar que los bienes que hayan estado en tránsito, con o sin transbordo o almacenamiento temporal, por el territorio de uno o más países no Parte del Tratado, estuvieron bajo vigilancia de la autoridad aduanera competente en esos países, con la documentación siguiente:
-
-I.- Con los documentos de transporte, tales como la guía aérea, el conocimiento de embarque o la carta de porte, según sea el caso, en el cual conste la fecha y lugar de embarque de los bienes y el puerto, aeropuerto o punto de entrada del destino final, cuando dichos bienes hayan estado en tránsito por el territorio de uno o más países no Parte del Tratado sin transbordo ni almacenamiento temporal.
-
-II.- Con los documentos de transporte, tales como la guía aérea, el conocimiento de embarque o la carta de porte, según sea el caso, o el documento de transporte multimodal cuando los bienes sean objeto de transbordo por diferentes medios de transporte, donde conste la circunstancia de que los bienes que hayan estado en tránsito fueron únicamente objeto de transbordo sin almacenamiento temporal en uno o más países no Parte del Tratado.
-
-III.- Con la copia de los documentos de control aduanero que comprueben que los bienes permanecieron bajo control y vigilancia aduanera, tratándose de bienes que estando en tránsito hayan sido objeto de transbordo con almacenamiento temporal en uno o más países no Parte del Tratado.
-
-9.- Para los efectos de lo dispuesto en el artículo 7-03(1) y (2) del Tratado, quienes importen bienes originarios a territorio nacional bajo trato arancelario preferencial estarán a lo siguiente:
-
-I.- Deberán declarar en el pedimento de importación que el bien califica como originario, anotando las claves que correspondan en términos del Anexo 22 de las Reglas de Carácter General en Materia de Comercio Exterior vigentes.
-
-En el caso de que la aplicación del trato arancelario preferencial estuviera respaldado por un criterio anticipado, deberán señalar en el campo de observaciones del pedimento de importación, el número de oficio y la fecha de emisión de dicho criterio anticipado.
-
-II.- Deberán tener en su poder el certificado de origen válido al momento de efectuar la importación.
-
-III.- Deberán proporcionar copia del certificado de origen válido a la autoridad aduanera, en caso de ser requerido, de conformidad con lo dispuesto en el artículo 53 del Código Fiscal de la Federación.
-
-IV.- Cuando tengan motivos para creer o tengan conocimiento de que el certificado de origen contiene información incorrecta, deberán presentar una rectificación al pedimento de importación, pagando las contribuciones que se hubieran omitido, actualizadas en los términos del artículo 17-A del Código Fiscal de la Federación, a partir de la fecha en que se hayan dado los supuestos a que se refiere el artículo 56, fracción I de la Ley Aduanera y hasta que las mismas se paguen.
-
-No se impondrán sanciones al importador que haya declarado incorrectamente el origen de los bienes, siempre que cuando se originen diferencias a su cargo, presente una rectificación al pedimento de importación y pague las contribuciones correspondientes, antes de que la autoridad aduanera inicie el ejercicio de sus facultades de comprobación con relación a la declaración.
-
-12.- De conformidad con lo dispuesto en el artículo 7-04 (1) del Tratado, cualquier exportador o productor en territorio nacional, que haya llenado un certificado de origen o una declaración de origen, deberá entregar copia del certificado de origen o declaración de origen a la autoridad aduanera, cuando ésta así lo requiera, en los términos del artículo 53 del Código Fiscal de la Federación.
-
-13.- De conformidad con lo dispuesto en el artículo 7-04 (2) del Tratado, no se impondrán sanciones al exportador o productor en territorio nacional, que haya llenado un certificado de origen o una declaración de origen siempre que, cuando tenga razones para creer que ese certificado o declaración contiene información incorrecta, notifique por escrito cualquier cambio que pudiera afectar la exactitud o validez del certificado o declaración a todas las personas a quienes se les hubiera entregado, así como a la autoridad aduanera, a más tardar antes del inicio de una investigación por las autoridades competentes para efectuar investigaciones en materia penal con relación al certificado de origen o declaración de origen.
-
-14.- De conformidad con lo dispuesto en el artículo 7-06 (1) y (2) del Tratado, los exportadores o productores en territorio nacional que llenen un certificado de origen o una declaración de origen que ampare un bien que se exporte a territorio de otra de las Partes bajo trato arancelario preferencial, deberán conservar todos los registros y documentos relativos al origen del bien, en los términos del Código Fiscal de la Federación y proporcionarlos a la autoridad aduanera de la Parte importadora, en el transcurso de una verificación de origen efectuada de conformidad con lo dispuesto en el artículo 7-07 del Tratado.
-
-.............................................................................................................................
-
-24.- De conformidad con lo dispuesto en el artículo 7-07(11) del Tratado, la autoridad aduanera deberá proporcionar por escrito una resolución de determinación de origen al exportador o productor cuyo bien o bienes hayan sido objeto de la verificación dentro de los 120 días siguientes a la conclusión de la verificación de origen, en la que se determine si el bien califica o no como originario, la cual incluirá las conclusiones de hecho y el fundamento jurídico de la determinación.
-
-27.- De conformidad con lo dispuesto en el artículo 7-07(12) del Tratado, cuando la verificación de origen que lleve a cabo la autoridad aduanera establezca que el exportador o el productor ha certificado o declarado más de una vez, de manera falsa o infundada, que un bien importado califica como originario, se suspenderá el trato arancelario preferencial a los bienes idénticos producidos o exportados a territorio nacional por dicha persona, en tanto no se demuestre el cumplimiento de lo establecido por el capítulo VI del Tratado.
-
-31.- De conformidad con lo dispuesto en el artículo 7-07(15) del Tratado, la autoridad aduanera pospondrá la fecha de entrada en vigor de una resolución de determinación de origen, en la que se determine que un bien no califica como originario dictada de conformidad con la regla 28 de la presente Resolución, por un plazo que no excederá de 90 días, siempre que el importador del bien, el exportador o productor que haya llenado el certificado de origen o declaración de origen que lo ampara, acredite haberse apoyado de buena fe, en perjuicio propio, en la clasificación arancelaria o el valor aplicados a los materiales por la autoridad aduanera de la Parte de cuyo territorio se exportó el bien.
-
-32.- ………………………………………………………………………………..
-
-II.- El juicio contencioso administrativo federal previsto en el Título I de la Ley Federal de Procedimiento Contencioso Administrativo.
-
-33.- Para los efectos de lo dispuesto en la regla 32 de la presente Resolución y de conformidad con el artículo 7-08 del Tratado, se considerará que tienen interés jurídico para interponer los medios de impugnación en contra de una resolución de determinación de origen, el exportador o el productor de un bien que hayan llenado un certificado de origen o una declaración de origen que ampare un bien que hubiera sido objeto de una resolución de determinación de origen.
-
-35.- Para los efectos de lo dispuesto en el artículo 7-10 del Tratado, la solicitud de un criterio anticipado deberá presentarse ante la Administración General de Grandes Contribuyentes del Servicio de Administración Tributaria, cumpliendo con lo dispuesto en los artículos 18, 18-A, 19 y 34 del Código Fiscal de la Federación y demás disposiciones aplicables del Tratado y de la presente Resolución.
-
-............................................................................................................................”
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA INTERNAR DURANTE EL AÑO 2007, A LA REPUBLICA DE COLOMBIA, VEHICULOS AUTOMOTORES NUEVOS, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CONFORME A LA DECISION 42 DE LA COMISION ADMINISTRADORA DEL TRATADO, SUSCRITA ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTICULO 1o.
 
-El cupo mínimo para internar durante el año 2006, a la República de Colombia, vehículos automotores nuevos, originarios y provenientes de los Estados Unidos Mexicanos, con el arancel preferencial establecido en el artículo 4-02, párrafo 1, inciso a) de la Decisión 42 de la Comisión Administradora del Tratado, suscrita entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 13 de enero de 2006, es el que se determina en el cuadro siguiente:
+El cupo mínimo para internar durante el año 2007, a la República de Colombia, vehículos automotores nuevos, originarios y provenientes de los Estados Unidos Mexicanos, con el arancel preferencial establecido en el artículo 4-02, párrafo 1, inciso a) de la Decisión 42 de la Comisión Administradora del Tratado, suscrita entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 13 de enero de 2006, es el que se determina en el cuadro siguiente:
 
-Partida Descripción indicativa Cupo para internar
-
-Arancelaria a Colombia
-
-8703 Vehículos con peso bruto 4,000 unidades
-
-8704 vehicular igual o menor a
-
-8.8 toneladas
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO 2o.
 
-De conformidad con lo dispuesto en los artículos 24 segundo párrafo de la Ley de Comercio Exterior y 31 de su Reglamento, y con objeto de promover las corrientes comerciales entre los Estados Unidos Mexicanos y la República de Colombia y cumplir con lo establecido en el artículo 4-06, párrafo 3, de la Decisión 42, se aplica el mecanismo de asignación directa, a al cupo descrito en el cuadro anterior en beneficio de las personas señaladas en el artículo 3o. del presente Acuerdo.
+De conformidad con lo dispuesto en los artículos 24 segundo párrafo de la Ley de Comercio Exterior y 31 de su Reglamento, y con objeto de promover las corrientes comerciales entre los Estados Unidos Mexicanos y la República de Colombia y cumplir con lo establecido en el artículo 4-06, párrafo 3, de la Decisión 42, se aplica el mecanismo de asignación directa, al cupo descrito en el cuadro anterior en beneficio de las personas señaladas en el artículo 3o. del presente Acuerdo.
 
 ###### ARTICULO 3o.
 
 Podrán solicitar asignación del cupo a que se refiere el presente Acuerdo, las personas morales establecidas en los Estados Unidos Mexicanos, que cuenten con Registro de Empresa Productora de Vehículos Automotores Ligeros Nuevos expedido por la Secretaría de Economía. La asignación será otorgada por la Dirección General de Comercio Exterior, previo dictamen favorable de la Dirección General de Industrias Pesadas y de Alta Tecnología, la cual tomará en cuenta lo siguiente:
 
-a) Se asignarán 3,300 unidades entre las empresas antes señaladas con base en sus antecedentes de exportación de vehículos automotores a Colombia durante 2005. En caso que una empresa solicite un monto menor al que tiene derecho, el monto remanente se distribuirá proporcionalmente entre las empresas de este inciso que así lo requieran desde el momento en que exista saldo para su distribución.
+a) Se asignarán 4,200 unidades entre las empresas antes señaladas con base en sus antecedentes de exportación de vehículos automotores a Colombia durante 2006. En caso que una empresa solicite un monto menor al que tiene derecho, el monto remanente se distribuirá proporcionalmente entre las empresas de este inciso que así lo requieran desde el momento en que exista saldo para su distribución.
 
-b) Se asignarán 700 unidades por partes iguales entre las empresas señaladas en el primer párrafo del presente artículo que no cuenten con antecedentes de exportación de vehículos automotores a Colombia. En caso que una empresa solicite un monto menor al que le corresponde, el monto restante se distribuirá proporcionalmente entre las empresas de este inciso que así lo requieran desde el momento en que exista saldo para su distribución.
+b) Se asignarán 800 unidades por partes iguales entre las empresas señaladas en el primer párrafo del presente artículo que no cuenten con antecedentes de exportación de vehículos automotores a Colombia. En caso que una empresa solicite un monto menor al que le corresponde, el monto restante se distribuirá proporcionalmente entre las empresas de este inciso que así lo requieran desde el momento en que exista saldo para su distribución.
 
-Las asignaciones para las empresas señaladas en este inciso, tendrán vigencia hasta el 30 de junio de 2006.
+Las asignaciones para las empresas señaladas en este inciso, tendrán vigencia hasta el 31 de julio de 2007.
 
-c) Los saldos no ejercidos y no solicitados al 30 de junio de las empresas señaladas en el inciso b) y los saldos no solicitados de las empresas señaladas en el inciso a); podrán ser asignados proporcionalmente entre los siguientes beneficiarios:
+c) Los saldos no ejercidos al 31 de julio de las empresas señaladas en el inciso b), y que hayan ejercido por lo menos el 50% de su cupo, se les podrá extender prórroga del cupo, de lo contrario deberán ser devueltos a la Secretaría. Los saldos no solicitados de las empresas señaladas en el inciso a) y los no ejercidos por las empresas señaladas en el inciso b), podrán ser asignados proporcionalmente con base en antecedentes de exportación, entre los siguientes beneficiarios:
 
 I. Personas morales establecidas en los Estados Unidos Mexicanos, que cuenten con Registro de Empresa Productora de Vehículos Automotores Ligeros Nuevos expedido por la Secretaría de Economía, que no cuenten con antecedentes de exportación y que demuestren haber ejercido por lo menos el 50% de su asignación total de este cupo.
 
-II. Personas morales establecidas en los Estados Unidos Mexicanos, que cuenten con Registro de Empresa Productora de Vehículos Automotores Ligeros Nuevos, expedido por la Secretaría de Economía, y que cuenten con antecedentes de exportación.
+II. Personas morales establecidas en los Estados Unidos Mexicanos, que cuenten con Registro de Empresa Productora de Vehículos Automotores Ligeros Nuevos expedido por la Secretaría de Economía, y que cuenten con antecedentes de exportación.
 
 La asignación del saldo de este cupo se hará a través de la Dirección General de Comercio Exterior, previo dictamen favorable de la Dirección General de Industrias Pesadas y de Alta Tecnología.
 
 ###### ARTICULO 4o.
 
-Las solicitudes de asignación de cupo a que se refiere este instrumento se deben presentar en el formato SE-03-011-1 “Solicitud de Asignación de Cupo”, en la representación federal de la Secretaría que le corresponda. La Secretaría a través de la Dirección General de Comercio Exterior resolverá en un plazo no mayor a siete días hábiles contados a partir de que cuente con todos los elementos necesarios para emitir dicha resolución. Este cupo no cuenta con hoja de requisitos específicos.
+Las solicitudes de asignación de cupo a que se refiere este instrumento se deben presentar en el formato SE-03-011-1 “Solicitud de Asignación de Cupo”, en la representación federal de la Secretaría que le corresponda. La Secretaría a través de la Dirección General de Comercio Exterior resolverá en un plazo máximo de siete días hábiles contados a partir del día hábil siguiente a la fecha de presentación de la solicitud.
 
 ###### ARTICULO 5o.
 
@@ -161,11 +85,11 @@ Las personas que hayan obtenido asignación de cupo deberán solicitar ante la o
 
 Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
 
-Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
+a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
 
 http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
 
-Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
+b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
 
 http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
@@ -293,14 +217,8 @@ VIII.- "Trato arancelario preferencial" y "tasa arancelaria preferencial", el ar
 
 3.- Para determinar la tasa arancelaria preferencial aplicable a un bien originario que se importa a territorio nacional deberá estarse a lo dispuesto en el artículo 3o. y demás disposiciones aplicables del "Decreto que establece la tasa aplicable para 1995 del Impuesto General de Importación para las mercancías originarias de Colombia, Venezuela, Costa Rica, Bolivia y Chile conforme a lo establecido en el Tratado de Libre Comercio entre México, Colombia y Venezuela, el Tratado de Libre Comercio entre México y Costa Rica, el Tratado de Libre Comercio entre México y Bolivia y el Acuerdo de Complementación Económica entre México y Chile", publicado en el Diario Oficial de la Federación el 29 de diciembre de 1994.
 
-## Transitorios
+## TRANSITORIO
 
-Primero.- La presente Resolución entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2007 y concluirá su vigencia el 31 de diciembre de 2007.
 
-Segundo.- La importación de bienes originarios de la República de Venezuela a territorio nacional aplicando la tasa arancelaria preferencial conforme a lo dispuesto en el artículo 3-04 del Tratado y en el Decreto por el que se establece la tasa aplicable a partir del 1 de enero de 2005 del Impuesto General de Importación para las mercancías originarias de la República de Colombia y la República de Venezuela, publicado en el Diario Oficial de la Federación el 28 de diciembre de 2004, y sus posteriores modificaciones, será válida hasta el 18 de noviembre de 2006.
-
-Atentamente
-
-Sufragio Efectivo. No Reelección.
-
-México, D.F., a 9 de noviembre de 2006.- En ausencia del C. Secretario de Hacienda y Crédito Público y del C. Subsecretario del Ramo, y con fundamento en el artículo 105 del Reglamento Interior de esta Secretaría, el Subsecretario de Ingresos, Rubén Aguirre Pangburn.- Rúbrica.
+México, D.F., a 14 de noviembre de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
