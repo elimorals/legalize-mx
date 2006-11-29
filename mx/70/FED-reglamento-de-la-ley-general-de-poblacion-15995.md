@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-poblacion-15995"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-14"
-last_updated: "2000-04-14"
+last_updated: "2006-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15995&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-04-12"
 
 REGLAMENTO DE LA LEY GENERAL DE POBLACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 14 de abril de 2000.
 
@@ -1203,9 +1203,11 @@ V. Aquellos elementos inherentes a la actividad desarrollada.
 
 Los requisitos previstos en las fracciones II y III se actualizarán periódicamente. La periodicidad será determinada por el Instituto.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 146.
 
-En los trámites migratorios relacionados con las personas de negocios e inversionistas, consejeros, técnicos, científicos, personas que ocupen cargo de confianza y profesionales, la autoridad migratoria deberá dictar resolución a las solicitudes realizadas por extranjeros o extranjeras en un plazo no mayor a treinta y cinco días naturales. Para dichos trámites, la Secretaría sólo podrá exigir que se proporcionen los datos y documentos que se precisen para cada caso en la Ley, el Reglamento, y en otras disposiciones de carácter administrativo que al efecto se publiquen en el Diario Oficial de la Federación.
+En los trámites migratorios relacionados con los No Inmigrantes, en las características de turista, transmigrante, visitante, ministro de culto o asociado religioso, estudiante, visitante distinguido y corresponsal, y con los Inmigrantes en todas sus características, la autoridad migratoria deberá dictar resolución a las solicitudes realizadas por extranjeras o extranjeros en un plazo no mayor a treinta días naturales. Para dichos trámites, la Secretaría sólo podrá exigir que se proporcionen los datos y documentos que se precisen para cada caso en la Ley, el Reglamento, y en otras disposiciones de carácter administrativo que al efecto se publiquen en el Diario Oficial de la Federación.
 
 La autoridad migratoria podrá exigir, en su caso, que los extranjeros y extranjeras comprueben la veracidad de la información de las solicitudes; para ello, la autoridad se sujetará a criterios y procedimientos establecidos por la Secretaría en disposiciones administrativas publicadas en el Diario Oficial de la Federación.
 
@@ -1325,7 +1327,11 @@ I. Deberán solicitarlo a las autoridades migratorias por escrito, de acuerdo a 
 
 a) La solicitud será formulada por el extranjero o extranjera o su representante, mediante la presentación de la documentación migratoria vigente que acredite su legal estancia en el país, y
 
-b) No se expedirá a los extranjeros o extranjeras que posean la característica migratoria de transmigrante o visitante provisional.
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+b) Será necesario presentar carta de institución oficial o privada que apoye el trámite del solicitante y acta de nacimiento del menor mexicano por adoptar, y
+
+c) No se expedirá a los extranjeros o extranjeras que posean la característica migratoria de transmigrante o visitante provisional.
 
 II. La autorización se otorgará por una validez de noventa días a partir de su expedición y no excederá la temporalidad indicada en el documento migratorio.
 
@@ -2286,3 +2292,11 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 CUARTO.- Las disposiciones relativas al Registro Nacional de Población se irán aplicando conforme se vayan instrumentando las acciones previstas en el Programa para el establecimiento del Registro Nacional de Ciudadanos a que se refiere el artículo tercero transitorio del Decreto que reforma y adiciona diversas disposiciones de la Ley General de Población, publicado en el Diario Oficial de la Federación de fecha 22 de julio de 1992.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.- La Secretaria de Relaciones Exteriores, Rosario Green Macías.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría.- Rúbrica.- El Secretario de Desarrollo Social, Carlos Jarque Uribe.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.- El Secretario de Salud, José Antonio González Fernández.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Mariano Palacios Alcocer.- Rúbrica.- El Secretario de Turismo, Óscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El plazo de resolución que se establece en el artículo 146 no aplicará para aquellos trámites que se resuelven en un tiempo menor en términos de las disposiciones administrativas vigentes.
