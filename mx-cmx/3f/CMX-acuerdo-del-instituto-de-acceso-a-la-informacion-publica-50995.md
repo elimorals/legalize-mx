@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-del-instituto-de-acceso-a-la-informacion-publica-50995"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-06-05"
-last_updated: "2006-06-05"
+last_updated: "2006-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50995&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-05-23"
 
 ACUERDO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL POR EL QUE SE MODIFICA EL PUNTO SEGUNDO DEL "ACUERDO DEL CONSEJO DE INFORMACION PUBLICA DEL DISTRITO FEDERAL POR EL QUE SE APRUEBA EL PRESUPUESTO Y SU PROGRAMA OPERATIVO ANUAL PARA EL EJERCICIO FISCAL 2006
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, POR EL QUE SE APRUEBA EL CATALOGO DE PUESTOS Y EL TABULADOR DE SUELDOS BRUTOS DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 29 DE NOVIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el lunes 5 de junio de 2006.
 
@@ -71,3 +73,15 @@ Instituto de Acceso a la Información Pública del Distrito Federal
 Tabulador de Sueldos
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+G.O. 29 DE NOVIEMBRE DE 2006.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- Se abroga el ACUERDO 035/SO/23-05/2006 aprobado por el Instituto de Acceso a la Información Pública del Distrito Federal el veintitrés de mayo de dos mil seis y publicado en la Gaceta Oficial del Distrito Federal el cinco de junio de dos mil seis.
+
+...
+
+CUARTO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal y en los términos establecidos en el mismo.
