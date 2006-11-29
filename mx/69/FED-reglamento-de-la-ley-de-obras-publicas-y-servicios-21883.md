@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-obras-publicas-y-servicios-21883"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-20"
-last_updated: "2001-08-20"
+last_updated: "2006-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21883&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-08-14"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el lunes 20 de agosto de 2001.
 
@@ -39,39 +39,81 @@ El presente Reglamento tiene por objeto establecer las disposiciones que propici
 
 Para los efectos de este Reglamento se aplicarán las definiciones establecidas en el artículo 2 de la Ley. Asimismo, se entenderá por:
 
-I. Ley: la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-II. Obras: las señaladas en el artículo 3 de la Ley;
+I. Autorización global o específica del presupuesto de inversión y de gasto corriente: para efectos del artículo 24 de la Ley, el calendario de presupuesto de la dependencia o entidad que autorice la Secretaría, y que se publica en el Diario Oficial de la Federación para cada ejercicio, o bien, los oficios de inversión y las autorizaciones presupuestarias previstas en las disposiciones en esa materia;
 
-III. Servicios: los mencionados en el artículo 4 de la Ley;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-IV. Superintendente de construcción: el representante del contratista ante la dependencia o la entidad para cumplir con los términos y condiciones pactados en el contrato, en lo relacionado con la ejecución de los trabajos;
+II. Bitácora: el instrumento técnico que, por medios remotos de comunicación electrónica u otros autorizados en los términos de este Reglamento, constituye el medio de comunicación entre las partes que formalizan los contratos, donde se registran los asuntos y eventos importantes que se presentan durante la ejecución de los trabajos;
 
-V. Bitácora: el instrumento técnico de control de los trabajos, el cual servirá como medio de comunicación convencional entre las partes que firman el contrato y estará vigente durante el desarrollo de los trabajos, y en el que deberán referirse los asuntos importantes que se desarrollen durante la ejecución de las obras y servicios;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-VI. Especificaciones generales de construcción: el conjunto de condiciones generales que las dependencias y entidades tienen establecidas para la ejecución de obras, incluyendo las que deben aplicarse para la realización de estudios, proyectos, ejecución, equipamiento, puesta en servicio, mantenimiento y supervisión, que comprenden la forma de medición y la base de pago de los conceptos de trabajo;
+III. Especificaciones generales de construcción: el conjunto de condiciones generales que las dependencias y entidades tienen establecidas para la ejecución de obras, incluyendo las que deben aplicarse para la realización de estudios, proyectos, ejecución, equipamiento, puesta en servicio, mantenimiento y supervisión, que comprenden la forma de medición y la base de pago de los conceptos de trabajo;
 
-VII. Especificaciones particulares de construcción: el conjunto de requisitos exigidos por las dependencias y entidades para la realización de cada obra, mismas que modifican, adicionan o sustituyen a las especificaciones generales;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-VIII. Normas de calidad: los requisitos mínimos que, conforme a las especificaciones generales y particulares de construcción, las dependencias y entidades establecen para asegurar que los materiales y equipos de instalación permanente que se utilizan en cada obra, son los adecuados;
+IV. Especificaciones particulares de construcción: el conjunto de requisitos exigidos por las dependencias y entidades para la realización de cada obra, mismas que modifican, adicionan o sustituyen a las especificaciones generales;
 
-IX. Estimación: la valuación de los trabajos ejecutados en el periodo pactado, aplicando los precios unitarios a las cantidades de los conceptos de trabajos realizados. En contratos a precio alzado, es la valuación de los trabajos realizados en cada actividad de obra conforme a la cédula de avance y al periodo del programa de ejecución.
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+V. Estimación: la valuación de los trabajos ejecutados en el periodo pactado, aplicando los precios unitarios a las cantidades de los conceptos de trabajos realizados. En contratos a precio alzado, es la valuación de los trabajos realizados en cada actividad de obra conforme a la cédula de avance y al periodo del programa de ejecución.
 
 Asimismo, es el documento en el que se consignan las valuaciones mencionadas, para efecto de su pago, considerando, en su caso, la amortización de los anticipos y los ajustes de costos;
 
-X. Proyecto arquitectónico: el que define la forma, estilo, distribución y el diseño funcional de una obra. Se expresará por medio de planos, maquetas, perspectivas, dibujos artísticos, entre otros, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-XI. Proyecto de ingeniería: el que comprende los planos constructivos, memorias de cálculo y descriptivas, especificaciones generales aplicables y particulares que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad.
+VI. Ley: la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+VII. Normas de calidad: los requisitos mínimos que, conforme a las especificaciones generales y particulares de construcción, las dependencias y entidades establecen para asegurar que los materiales y equipos de instalación permanente que se utilizan en cada obra, son los adecuados;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+VIII. Obras: las señaladas en el artículo 3 de la Ley;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+IX. Obras de gran complejidad: para efectos del tercer párrafo del artículo 24 de la Ley, son las obras cuya ejecución y sitio donde se vayan a realizar presenten dificultades técnicas o de seguridad para el desarrollo de los trabajos, así como aquellas que exijan urgencia en su construcción derivadas de caso fortuito o fuerza mayor. Su justificación requiere de un dictamen técnico expedido en los términos de los artículos 3, fracción XIII y 10, tercer párrafo de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+X. Prebases: el proyecto de bases de licitación pública que, previo a la publicación de la convocatoria en el Diario Oficial de la Federación, se difunde en la página de Internet de la dependencia o entidad o en los medios de difusión electrónica que establezca la Secretaría de la Función Pública, para recibir comentarios para que, en su caso, se consideren en la elaboración de las bases, de acuerdo con lo señalado en el último párrafo del artículo 33 de la Ley;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XI. Proyecto arquitectónico: el que define la forma, estilo, distribución y el diseño funcional de una obra. Se expresará por medio de planos, maquetas, perspectivas, dibujos artísticos, entre otros;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XII. Proyecto de ingeniería: el que comprende los planos constructivos, memorias de cálculo y descriptivas, especificaciones generales aplicables y particulares que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XIII. Servicios: los mencionados en el artículo 4 de la Ley, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XIV. Superintendente de construcción: el representante del contratista ante la dependencia o la entidad para cumplir con los términos y condiciones pactados en el contrato, en lo relacionado con la ejecución de los trabajos.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 2.
 
-La Secretaría, la Secretaría de Economía y la Contraloría, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar este Reglamento para efectos administrativos, debiendo considerar las disposiciones establecidas en la Ley.
+La Secretaría, la Secretaría de Economía y la Secretaría de la Función Pública, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar este Reglamento para efectos administrativos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 2 A.- Para efectos del artículo 12 de la Ley, por conducto de los agentes financieros designados como tales por la Secretaría, se difundirán a las dependencias y entidades ejecutoras de recursos otorgados al Gobierno Federal o con su garantía por organismos financieros regionales o multilaterales, las disposiciones, procedimientos y requisitos que emita la Secretaría de la Función Pública, con la opinión de la dependencia antes indicada, que resulten aplicables en las obras y servicios que se contraten con dichos recursos.
 
 ###### Artículo 3.
 
 Las políticas, bases y lineamientos en materia de obras y servicios a que se refiere el artículo 1 de la Ley, deberán prever en la medida que les resulte aplicable, los aspectos siguientes:
 
-I. La determinación de las áreas responsables de contratación y ejecución de los trabajos, así como de las áreas a que alude el segundo párrafo del artículo 43 de la Ley;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+I. La determinación de las áreas responsables de contratación y ejecución de los trabajos;
 
 II. El señalamiento de los cargos de los servidores públicos responsables de cada uno de los actos relativos a los procedimientos de contratación, ejecución e información de los trabajos, así como de los responsables de la firma de los contratos, para lo cual deberán cuidar el cumplimiento de las disposiciones legales aplicables;
 
@@ -83,15 +125,83 @@ IV. El establecimiento de los criterios que deberán justificar para la utilizac
 
 V. La definición de los criterios para determinar los casos en que las bases de licitación podrán entregarse en forma gratuita;
 
-VI. Los procedimientos para formalizar las prórrogas de los contratos;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-VII. La definición de los requisitos necesarios para la formalización de los convenios a que alude el artículo 59 de la Ley, así como de los dictámenes técnicos, y
+VI. Los procedimientos para formalizar las prórrogas o diferimientos de las fechas de los programas de ejecución de los trabajos convenidos, pactadas en los contratos;
 
-VIII. Los demás que resulten aplicables.
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+VII. La definición de los requisitos necesarios para la formalización de los convenios a que aluden los artículos 59 de la Ley y 69, 70 y 79 de este Reglamento, así como de los dictámenes técnicos;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+VIII. Los criterios y condiciones para el ejercicio de la excepción del otorgamiento de la garantía de cumplimiento, de conformidad con el artículo 48 de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+IX. Procedimientos para la devolución o destrucción de las propuestas una vez agotados los términos establecidos en el artículo 74 de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+X. Los criterios para la adjudicación de los contratos cuando dos o más proposiciones sean solventes en los términos del presente Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XI. El tratamiento que se le dará a los estudios, planes y programas presentados por los particulares, a efecto de determinar si los mismos resultan viables y, en su caso, la posibilidad de considerarlos dentro de sus programas de obras, conforme a lo dispuesto en el cuarto párrafo del artículo 18 de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XII. La forma de integración del registro permanente de contratistas de la convocante, conforme a lo previsto en el artículo 36 de la Ley y 25 de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XIII. El señalamiento de los cargos de los servidores públicos encargados de autorizar el proyecto ejecutivo y, en su caso, de elaborar el dictamen técnico para justificar las Obras de gran complejidad, para los efectos de lo dispuesto por los artículos 24 de la Ley y 10 de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XIV. El señalamiento de los cargos de los servidores públicos responsables de la cancelación de los procedimientos de contratación;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XV. El señalamiento de los cargos de los servidores públicos responsables de ordenar la suspensión de los trabajos, así como de la terminación anticipada o rescisión de los contratos;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XVI. Las condiciones de pago a contratistas, entre las que invariablemente la dependencia o entidad deberá dar al contratista la opción de pago a través de medios de comunicación electrónica, considerando lo indicado en el artículo 99 A de este Reglamento, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XVII. Los demás que resulten aplicables.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+El desarrollo de los aspectos indicados en este artículo deberá corresponder a precisiones complementarias a las disposiciones de la Ley y este Reglamento, que resultarán aplicables en lo interno a cada dependencia o entidad.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Las dependencias y entidades divulgarán y mantendrán en forma permanente y actualizada en sus páginas de Internet, las políticas, bases y lineamientos a que se refiere este artículo. Aquellas entidades que no cuenten con la infraestructura técnica necesaria, deberán hacerlo a través de la dependencia que funja como su coordinadora de sector.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 4.
 
-Para los efectos de los artículos 27, 28, 31 fracción III, 33 fracción XXII, 74, 83 y 85 de la Ley, el uso de los medios remotos de comunicación electrónica, se regirá por las disposiciones y lineamientos que conforme a la Ley y este Reglamento emita la Contraloría.
+Para los efectos de los artículos 27, 28, 31 fracciones III y IV, 33 fracción XXII y último párrafo, 46 penúltimo y último párrafos, 74, 83 y 85 de la Ley, el uso de los medios remotos de comunicación electrónica, se regirá por las disposiciones de la Ley y este Reglamento, así como por los lineamientos que emita la Secretaría de la Función Pública.
+
+En las licitaciones en que se empleen medios de comunicación electrónica, las áreas convocantes se abstendrán de pedir documentación o requisitos que inhiban o imposibiliten la participación a través de medios electrónicos, así como aquélla que ya hubiere sido entregada al momento de la obtención de su certificación electrónica.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 4 A.- Para los efectos de los actos y actividades reguladas en la Ley que se realicen a través de los fideicomisos no considerados como entidad paraestatal, deberá observarse lo siguiente:
+
+I. Las políticas, bases y lineamientos en materia de obras y servicios serán elaboradas y aprobadas por el comité técnico o, a falta de éste, por las dependencias que coordinen la operación de los fideicomisos o que con cargo a su presupuesto se hubieren aportado los recursos, o las entidades que funjan como fideicomitentes. En las citadas políticas, bases y lineamientos se establecerán la forma y términos en que se aplicarán las disposiciones de la Ley a las contrataciones que realicen;
+
+II. Corresponderá a la fiduciaria llevar a cabo los procedimientos de contratación regulados por la Ley. Podrá estipularse en el contrato respectivo que las dependencias que coordinen la operación de los fideicomisos o que con cargo a su presupuesto se hubieren aportado los recursos, o aquellas cuyos programas y proyectos se vean beneficiados, así como las entidades que sean fideicomitentes, lleven a cabo dichos procedimientos. Invariablemente la formalización de los contratos respectivos corresponderá a la fiduciaria.
+
+Si la fiduciaria es una persona moral de derecho privado, corresponderá a las dependencias que coordinen la operación de los fideicomisos o que con cargo a su presupuesto se hubieren aportado los recursos, así como a las entidades que sean fideicomitentes, llevar a cabo los procedimientos de contratación regulados por la Ley;
+
+III. Las dependencias que coordinen la operación de los fideicomisos o que con cargo a su presupuesto se hubieren aportado los recursos, o aquéllas cuyos programas y proyectos se vean beneficiados, así como las entidades que funjan como fideicomitentes, dictaminarán bajo su responsabilidad en términos del artículo 42 de la Ley, cuando proceda, no celebrar las licitaciones públicas a que se refiere la fracción III del artículo 25 del mismo ordenamiento, y
+
+IV. El cumplimiento de las disposiciones de la Ley, en lo que se refiere al envío de información a la Secretaría de la Función Pública o a los órganos internos de control, deberá efectuarse por conducto de las dependencias que coordinen la operación de los fideicomisos o que con cargo a su presupuesto se hubieren aportado los recursos, o aquéllas cuyos programas y proyectos se vean beneficiados, así como las entidades que funjan como fideicomitentes, de manera individual por cada fideicomiso, por lo que no deberá incluirse en la relativa al fideicomitente o del fiduciario.
 
 ###### Artículo 5.
 
@@ -99,7 +209,9 @@ El titular del área responsable de la ejecución de los trabajos deberá manten
 
 Lo anterior a efecto de que en cualquier momento los órganos internos de control se encuentren en posibilidad de requerir dicha información.
 
-La Contraloría directamente o a través de los órganos internos de control, en el ejercicio de la facultad que le otorga el artículo 75 de la Ley, podrá solicitar los datos e informes relacionados con actos relativos a obras y servicios y los servidores públicos y contratistas estarán obligados a proporcionarlos. Los contratistas que no aporten la información que le requiera la Contraloría, en ejercicio de sus facultades de verificación, serán sancionados en los términos que establece el Título Séptimo de la Ley.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+La Secretaría de la Función Pública directamente o a través de los órganos internos de control, en el ejercicio de la facultad que le otorga el artículo 75 de la Ley, podrá solicitar datos e informes relacionados con actos relativos a obras y servicios, así como el acceso a la Bitácora, y los servidores públicos y contratistas estarán obligados a proporcionarlos. Los contratistas que no aporten la información que le requiera la Secretaría de la Función Pública, en ejercicio de sus facultades de verificación, serán sancionados en los términos que establece el Título Séptimo de la Ley.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -125,9 +237,9 @@ VII. Las obras que deban realizarse por requerimiento o afectación de otras dep
 
 VIII. Además de las anteriores, en las obras por administración directa, la disponibilidad del personal adscrito a las áreas de proyectos y construcción, así como los recursos, maquinaria y equipo de su propiedad, conforme a los términos señalados en el artículo 70 de la Ley.
 
-###### Artículo 7.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-La Secretaría de Economía establecerá un sistema informático mediante el cual las dependencias y entidades deberán remitir a la propia Secretaría, a través de medios electrónicos, los programas anuales de obras públicas y servicios, así como sus respectivas modificaciones.
+###### Artículo 7.
 
 Cuando se establezcan requisitos de contenido nacional en los términos del último párrafo del artículo 30 de la Ley, la Secretaría de Economía podrá solicitar a la dependencia o entidad convocante, la información necesaria para verificar el cumplimiento del contenido de fabricación nacional de los materiales, maquinaria y equipo de instalación permanente que deban ser utilizados en la ejecución de obras, de conformidad con las reglas de carácter general que para estos efectos emita dicha Secretaría.
 
@@ -141,13 +253,23 @@ En los casos en que un estudio o proyecto satisfaga las necesidades de las depen
 
 Las dependencias coordinadoras de sector deberán proporcionar a las entidades que lo requieran, la información que esté a su disposición, dentro de los veinte días naturales siguientes a la solicitud correspondiente, concluido este plazo sin que exista respuesta, se considerará que no existe información alguna.
 
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Los estudios, planes y programas para el desarrollo de proyectos presentados por particulares que reúnan condiciones de factibilidad y los requerimientos para ser considerados en los programas de obras de las dependencias y entidades, podrán incorporarse en los mismos para el ejercicio de que se trate, en términos del artículo 18, párrafo último, de la Ley, quedando sujetos a los procedimientos de contratación que procedan del programa de obras relativo.
+
 ###### Artículo 9.
 
 Las dependencias y entidades que, por las características, complejidad y magnitud de las obras que realicen, cuenten o requieran de normas técnicas para aplicar en sus especificaciones generales de construcción, deberán exigir su cumplimiento.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE 2006)</small>
+
 ###### Artículo 10.
 
 Los servidores públicos que decidan y aprueben los proyectos para la realización de obras o servicios, serán responsables de vigilar que las acciones, planes y programas se lleven al cabo conforme a lo previsto y autorizado, así como de todas las modificaciones que se realicen a dichos proyectos.
+
+Los servidores públicos antes referidos serán responsables de que los proyectos autorizados se encuentren totalmente terminados.
+
+Tratándose de proyectos de Obras de gran complejidad corresponderá al servidor público a cargo de autorizar el proyecto ejecutivo emitir el dictamen técnico que justifique el carácter de dichas Obras, así como verificar los avances de los proyectos respectivos.
 
 Las dependencias y entidades al determinar el proyecto y programa de realización de cada contrato deberán prever el presupuesto requerido en forma total y por ejercicios presupuestales; los periodos necesarios para la elaboración de los estudios y proyectos específicos de ingeniería, arquitectura y de instalaciones, en su caso, periodos de prueba, normas de calidad y especificaciones de construcción; el análisis costo beneficio que elaboren, conforme a las disposiciones que emita la Secretaría; bases de licitación y modelos de contratos necesarios para la realización de los trabajos.
 
@@ -199,11 +321,19 @@ I. Un servidor público designado por el área jurídica;
 
 II. Un servidor público designado por el órgano de control interno;
 
-III. Invitados o especialistas, en su caso. Para la selección de estas personas las dependencias y entidades deberán considerar las características, magnitud, complejidad o especialidad técnica de las obras o servicios que se pretendan contratar. Dichas personas deberán guardar absoluta confidencialidad de la información a la que tengan acceso.
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+III. En su caso, un servidor público designado por la Secretaría de la Función Pública, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+IV. Invitados o especialistas, en su caso. Para la selección de estas personas las dependencias y entidades deberán considerar las características, magnitud, complejidad o especialidad técnica de las obras o servicios que se pretendan contratar. Dichas personas deberán guardar absoluta confidencialidad de la información a la que tengan acceso.
 
 Por lo que respecta a las entidades, los comités de obra se integrarán en la forma prevista para las dependencias, salvo los miembros a que se refieren las fracciones I y II del apartado A de este artículo, cuyos cargos deberán recaer en servidores públicos que tengan bajo su responsabilidad la ejecución de las obras y servicios.
 
-La Contraloría tomando en cuenta las características y necesidades de las dependencias y entidades, previa solicitud por escrito, podrá autorizar que los comités se integren en forma distinta a la establecida en este Reglamento.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+La Secretaría de la Función Pública tomando en cuenta las características y necesidades de las dependencias y entidades, previa solicitud por escrito, podrá autorizar que los comités se integren en forma distinta a la establecida en este Reglamento.
 
 ###### Artículo 14.
 
@@ -231,7 +361,9 @@ II. Se llevarán a cabo cuando asistan como mínimo la mitad más uno de los mie
 
 III. En ausencia del presidente del comité o de su suplente, las reuniones no podrán llevarse a cabo;
 
-IV. El orden del día, junto con los documentos correspondientes de cada reunión, se entregarán a los integrantes del comité, cuando menos con dos días hábiles de anticipación al día de las reuniones ordinarias y con un día hábil de anticipación para las extraordinarias. En caso de no cumplir estos plazos, la sesión no podrá llevarse a cabo;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+IV. El orden del día, junto con los documentos correspondientes de cada reunión, se entregarán a los integrantes del comité, de forma impresa o a través de medios de comunicación electrónica previamente acordados o establecidos por el Comité, cuando menos con dos días hábiles de anticipación al día de las reuniones ordinarias y con un día hábil de anticipación para las extraordinarias. En caso de no cumplir estos plazos, la sesión no podrá llevarse a cabo;
 
 V. Los asuntos que se sometan a consideración del comité, deberán presentarse a través de un documento, cualquiera que sea la forma que adopte, éste invariablemente deberá contener los datos siguientes:
 
@@ -239,7 +371,9 @@ a. La información resumida del asunto que se propone sea analizada, o bien, la 
 
 b. La justificación y la fundamentación legal para llevar a cabo el procedimiento de contratación, debiendo anexar el escrito a que hace referencia el segundo párrafo del artículo 41 de la Ley;
 
-c. La indicación de la documentación soporte que se adjunte para cada asunto, dentro de la cual deberá considerarse la que acredite la existencia de suficiencia presupuestaria, y
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+c. La indicación de la documentación soporte que se adjunte para cada asunto, dentro de la cual deberá considerarse la que acredite la existencia de suficiencia presupuestaria, o bien, el señalamiento de que la adjudicación o contratación quedará condicionada a la existencia de esta última, y
 
 d. Los demás que se consideren relevantes;
 
@@ -283,21 +417,47 @@ V. Invitados o especialistas: los que tendrán participación en los casos en qu
 
 #### SECCIÓN I. GENERALIDADES
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 18.
 
-La licitación pública inicia con la publicación de la convocatoria en el Diario Oficial de la Federación, y en el caso de invitación a cuando menos tres personas, con la entrega de la primera invitación a los licitantes; ambas concluyen con el fallo correspondiente.
+La licitación pública inicia con la publicación de la convocatoria en el Diario Oficial de la Federación, y en el caso de invitación a cuando menos tres personas, con la entrega de la primera invitación a los licitantes; ambas concluyen con la firma del contrato.
+
+Cualquier modificación a la convocatoria tendrá que publicarse en el Diario Oficial de la Federación, así como en los demás medios utilizados para su difusión; sin embargo, cuando derivado de la junta de aclaraciones se modifique la fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones, su publicación no será necesaria, debiéndose modificar igualmente el periodo de venta de bases que se hará hasta el sexto día natural previo a la nueva fecha del acto de presentación y apertura de proposiciones.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 18 A.- Tratándose de licitaciones públicas internacionales sujetas a las disposiciones de los tratados, el plazo entre la publicación de la convocatoria y el acto de presentación y apertura de proposiciones, no podrá ser inferior a cuarenta días naturales, salvo en los casos de urgencia debidamente justificados por el titular del área solicitante de los trabajos y autorizados por el titular del área responsable de la contratación, en los cuales podrá reducirse a no menos de diez días naturales, conforme a las disposiciones de los tratados y el último párrafo del artículo 34 de la Ley.
+
+El día de publicación de la convocatoria será el primer día para el cómputo del plazo para la presentación y apertura de proposiciones, y el día anterior a ésta, será el último que se contabilizará para determinar el citado plazo, por lo que para el caso indicado en el párrafo anterior, el acto de presentación y apertura deberá celebrarse como mínimo el día 41 u 11 según corresponda, o al día siguiente hábil, en caso de que los mismos fueran inhábiles.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 19.
 
-Las dependencias y entidades al elaborar sus bases de licitación de obras y servicios, deberán considerar lo siguiente:
+Las dependencias y entidades, al elaborar sus bases de licitación de Obras y Servicios, deberán considerar, además de los contenidos mínimos que establece el artículo 33 de la Ley, lo siguiente:
 
-I. Atendiendo a las características, magnitud y complejidad de los trabajos a realizar, deberán contener los elementos necesarios para que la presentación de propuestas, por parte de los licitantes, sea completa, uniforme y ordenada, debiendo utilizar los formatos e instructivos elaborados y proporcionados por las dependencias o entidades. En caso de que el licitante presente otros formatos, éstos deberán cumplir con cada uno de los elementos requeridos por las convocantes;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-II. Cuando la ejecución de los trabajos comprenda más de un ejercicio presupuestario, se deberá informar a los licitantes el importe estimado para ejercer en el primer ejercicio, así como el origen del mismo;
+I. Atendiendo a las características, magnitud y complejidad de los trabajos a realizar, deberán contener los elementos necesarios para que la presentación de proposiciones, por parte de los licitantes, sea completa, uniforme y ordenada, debiendo utilizar los formatos e instructivos elaborados y proporcionados por las dependencias o entidades. En caso de que el licitante presente otros formatos, éstos deberán cumplir con cada uno de los elementos requeridos por las convocantes;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+II. Cuando la ejecución de los trabajos comprenda más de un ejercicio presupuestario, se deberá informar a los licitantes el importe asignado, en su caso, para ejercer en el primer ejercicio, así como el origen del mismo;
 
 III. Dividir el catálogo de conceptos en las partidas y subpartidas que se requieran para la realización de los trabajos de acuerdo a sus características, complejidad y magnitud; tratándose de contratos a precio alzado, se deberán indicar las actividades y, en su caso, las subactividades en que se dividirán los mismos, y
 
 IV. Que los requisitos y documentos estén particularizados para cada obra o servicio que se licite.
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Las Prebases que las dependencias y entidades difundan a través de su página de Internet, de acuerdo a lo dispuesto por el último párrafo del artículo 33 de la Ley, se sujetarán en lo general a los términos establecidos en este artículo.
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Los comentarios y opiniones que se reciban en relación a las Prebases, serán analizados por las dependencias y entidades para efectos de determinar su procedencia, sin que resulte obligatorio que éstos sean considerados en las bases de licitación respectivas.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 20.
 
@@ -305,147 +465,165 @@ Las bases podrán ser entregadas a los interesados a título gratuito. Cuando se
 
 El pago se hará en la forma y en el lugar indicado en la convocatoria. A todo interesado que pague el importe de las bases se le entregará un comprobante y tendrá derecho a participar en la licitación.
 
-Los convocantes establecerán en las bases de licitación que los licitantes deberán incluir en el sobre de la propuesta técnica, copia del recibo de pago de las bases respectivas, ya que en caso contrario no podrá admitirse su participación.
+La Secretaría de la Función Pública proveerá a las dependencias y entidades del sistema por medio del cual se pondrá a disposición pública la información de las convocatorias, bases de las licitaciones y, en su caso, sus modificaciones, así como las actas derivadas del proceso licitatorio. Queda excluida de esta publicación la información que sea de naturaleza reservada en los términos establecidos en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+La difusión que se haga de las Prebases, de conformidad con lo dispuesto en el último párrafo del artículo 33 de la Ley, se realizará en la página de Internet de la dependencia o entidad convocante, o a través del sistema informático que provea la Secretaría de la Función Pública.
+
+> <small>(REFORMADO, D.O.F. 29 NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 21.
 
-La visita al sitio donde se realizarán los trabajos será optativa para los interesados, pero en su propuesta deberán incluir un escrito en el que manifiesten que conocen el sitio de realización de los trabajos y sus condiciones ambientales, por lo que no podrán invocar su desconocimiento o solicitar modificaciones al contrato por este motivo.
+La visita al sitio donde se realizarán los trabajos será optativa para los interesados, y tendrá como objeto que los licitantes conozcan las condiciones ambientales, así como las características referentes al grado de dificultad de los trabajos a desarrollar y sus implicaciones de carácter técnico. Los licitantes deberán incluir en sus proposiciones un escrito en el que manifiesten que conocen las condiciones y características antes citadas, por lo que no podrán invocar su desconocimiento o solicitar modificaciones al contrato por este motivo.
 
-Al sitio de realización de los trabajos, podrán asistir los interesados y sus auxiliares que hayan adquirido las bases de licitación, así como aquéllos que autorice la convocante. A quienes adquieran las bases con posterioridad a la realización de la visita, podrá permitírseles el acceso al lugar en que se llevarán a cabo los trabajos, siempre que lo soliciten con anticipación de por lo menos veinticuatro horas a la conclusión del periodo de venta, aunque no será obligatorio para la dependencia o entidad designar a un técnico que guíe la visita.
+Al sitio de realización de los trabajos podrán asistir los interesados y sus auxiliares que hayan adquirido las bases de licitación, así como aquéllos que autorice la convocante. A quienes adquieran las bases con posterioridad a la realización de la visita, podrá permitírseles el acceso al lugar en que se llevarán a cabo los trabajos, siempre que lo soliciten con anticipación de por lo menos veinticuatro horas a la conclusión del periodo de venta, aunque no será obligatorio para la dependencia o entidad designar a un técnico que guíe la visita. Dicho plazo podrá ser hasta de setenta y dos horas, cuando por razones de seguridad o acceso al sitio de los trabajos resulte necesario, debiéndose en este caso establecerse dicho término en las bases de licitación.
 
 ###### Artículo 22.
 
 La junta de aclaraciones deberá ser posterior a la visita al sitio de realización de los trabajos. Las dependencias y entidades podrán celebrar el número de juntas de aclaraciones que se consideren necesarias, atendiendo a las características, complejidad y magnitud de los trabajos a realizar, debiendo comunicar a los asistentes en cada junta, la nueva fecha de celebración.
 
-En las juntas los licitantes que hubieran adquirido las bases, podrán asistir y solicitar aclaraciones o modificaciones a las bases, sus anexos y a las cláusulas del modelo de contrato, las cuales serán ponderadas por las dependencias y entidades.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-De toda junta de aclaraciones se levantará un acta, que contendrá la firma de los asistentes y las preguntas formuladas por los licitantes y las respuestas de la dependencia o entidad y, en su caso, los datos relevantes de la visita al sitio de realización de los trabajos; debiendo entregar copia a los presentes y ponerse a disposición de los ausentes, en las oficinas de la convocante o por medios de difusión electrónica.
+La asistencia a la junta de aclaraciones es optativa para los licitantes, por lo que quienes hubieren adquirido las bases, podrán plantear personalmente, por escrito o a través de los medios electrónicos que se hayan previsto en las bases de licitación, sus dudas, aclaraciones o cuestionamientos sobre la convocatoria, las bases, sus anexos y a las cláusulas del modelo de contrato, las cuales serán ponderadas por las dependencias y entidades. De existir modificaciones a las bases de licitación que como consecuencia afecten las condiciones de la convocatoria se deberá observar lo dispuesto en el segundo párrafo del artículo 18 de este Reglamento.
 
-Las dependencias y entidades podrán recibir preguntas adicionales con posterioridad a la junta de aclaraciones, a las que deberán dar contestación antes de que termine el último día de la venta de bases.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+De toda junta de aclaraciones se levantará un acta que contendrá la firma de los asistentes interesados y de los servidores públicos que intervengan; las preguntas formuladas por los licitantes, así como las respuestas de la dependencia o entidad en forma clara y precisa y, en su caso, los datos relevantes de la visita al sitio de realización de los trabajos; debiendo entregar copia a los interesados presentes y ponerse a disposición de los ausentes, en las oficinas de la convocante o por medios de difusión electrónica. En el acta correspondiente a la última junta de aclaraciones se indicará expresamente esta circunstancia.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Las dependencias y entidades podrán recibir preguntas adicionales con posterioridad a la junta de aclaraciones y hasta cuarenta y ocho horas antes de la conclusión del periodo de venta de las bases, a las que deberán dar contestación a más tardar el último día de dicho periodo, siempre y cuando el licitante haya adquirido las bases.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 23.
 
-Los licitantes prepararán sus propuestas conforme a lo establecido en las bases, así como en las aclaraciones y modificaciones que, en su caso, afecten a aquéllas. El licitante deberá firmar cada una de las fojas que integren su proposición.
+Los licitantes prepararán sus proposiciones conforme a lo establecido en las bases, así como en las aclaraciones y modificaciones que, en su caso, afecten a aquéllas. El licitante deberá firmar cada una de las fojas que integren su proposición, sin que la falta de firma de alguna de ellas sea causa de descalificación.
 
-La propuesta será entregada en sobres por separado, claramente identificados en su parte exterior y completamente cerrados.
+En los casos en que la dependencia o entidad así lo determine, se establecerá con precisión en las bases de licitación la documentación que deberá ser firmada por los licitantes, entre la que deberá incluirse invariablemente el catálogo de conceptos o presupuesto y los programas solicitados. El licitante a quien se le haya adjudicado el contrato, previo a su formalización, deberá firmar la totalidad de la documentación que integre su proposición.
+
+La proposición será entregada en un solo sobre, claramente identificado en su parte exterior y completamente cerrado.
+
+En caso de que el licitante entregue información de naturaleza confidencial, deberá señalarlo expresamente por escrito a la convocante, para los efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 24.
 
-Las dependencias y entidades deberán requerir a los licitantes que acompañen a sus propuestas los siguientes documentos:
+Las dependencias y entidades deberán requerir a los licitantes la siguiente documentación distinta a la parte técnica y económica de la proposición, la cual, a elección de los licitantes, podrá entregarse dentro o fuera del sobre relativo:
 
 I. Escrito en el que manifieste el domicilio para oír y recibir todo tipo de notificaciones y documentos que deriven de los actos del procedimiento de contratación y, en su caso, del contrato respectivo, mismo que servirá para practicar las notificaciones aun las de carácter personal, las que surtirán todos sus efectos legales mientras no señale otro distinto;
 
-II. Escrito mediante el cual declare que no se encuentra en alguno de los supuestos que establece el artículo 51 de la Ley;
+II. Escrito mediante el cual declare bajo protesta de decir verdad que no se encuentra en alguno de los supuestos que establecen los artículos 51 y 78, penúltimo párrafo de la Ley, y que por su conducto no participan en los procedimientos de contratación personas físicas o morales que se encuentren inhabilitadas por resolución de la Secretaría de la Función Pública, en los términos del artículo 33, fracción XXIII, de la propia Ley.
 
-III. Declaración fiscal o balance general auditado de la empresa, correspondiente al ejercicio fiscal inmediato anterior, con el que se acredite el capital contable requerido por la convocante.
+Para los efectos de la fracción VII del artículo 51 de la Ley, las personas que previamente hayan realizado un proyecto y pretendan participar en el procedimiento de contratación para la ejecución del mismo, estarán impedidas de participar en los términos de la propia fracción, cuando dentro de los alcances del proyecto elaborado, hayan preparado especificaciones de construcción, presupuesto de los trabajos, selección o aprobación de materiales, equipos y procesos;
 
-El capital contable requerido para los trabajos en que se considere el suministro de equipo de instalación permanente o en los que el licitante deba fincar pedidos de insumos especiales, deberá ser cuando menos igual al monto que considere necesario para fincar los pedidos, en el primer ejercicio;
+III. Copia simple de la declaración fiscal o balance general auditado de la empresa, correspondiente al ejercicio fiscal inmediato anterior, con el que se acredite el capital contable requerido por la convocante;
 
-IV. Identificación oficial vigente con fotografía, tratándose de personas físicas, y
+IV. Copia simple por ambos lados de la identificación oficial vigente con fotografía, tratándose de personas físicas y en el caso de personas morales, de la persona que firme la proposición;
 
-V. Escrito mediante el cual la persona moral manifieste que su representante cuenta con facultades suficientes para comprometer a su representada, mismo que contendrá los datos siguientes:
+V. Escrito mediante el cual el representante de la persona moral manifieste que cuenta con facultades suficientes para comprometer a su representada, mismo que deberá contener los datos siguientes:
 
-a. De la persona moral: clave del registro federal de contribuyentes, denominación o razón social, descripción del objeto social de la empresa; relación de los nombres de los accionistas, número y fecha de las escrituras públicas en las que conste el acta constitutiva y, en su caso, sus reformas o modificaciones, señalando nombre, número y circunscripción del notario o fedatario público que las protocolizó; asimismo los datos de inscripción en el Registro Público de Comercio, y
+a. De la persona moral: clave del registro federal de contribuyentes, denominación o razón social, descripción del objeto social de la empresa; relación de los nombres de los accionistas, número y fecha de las escrituras públicas en las que conste el acta constitutiva y, en su caso, sus reformas o modificaciones, señalando nombre, número y circunscripción del notario o fedatario público ante quien se hayan otorgado; asimismo, los datos de inscripción en el Registro Público de Comercio, y
 
-b. Del representante: nombre del apoderado; número y fecha de los instrumentos notariales de los que se desprendan las facultades para suscribir la propuesta, señalando nombre, número y circunscripción del notario o fedatario público que los protocolizó.
+b. Del representante: nombre del apoderado; número y fecha de los instrumentos notariales de los que se desprendan las facultades para suscribir la proposición, señalando nombre, número y circunscripción del notario o fedatario público ante quien se hayan otorgado.
 
 En las bases de las licitaciones públicas e invitaciones deberán indicarse que previamente a la firma del contrato, el licitante ganador presentará para su cotejo, original o copia certificada de los documentos con los que se acredite su existencia legal y las facultades de su representante para suscribir el contrato correspondiente.
 
-Tratándose de personas extranjeras, se deberá verificar que los documentos cuenten con la legalización o apostillamiento correspondiente.
+Tratándose de personas extranjeras, se deberá verificar que los poderes y documentos legales cuenten con la legalización o apostillamiento correspondiente por la autoridad competente del país de que se trate y, en su caso, deberán ser traducidos al español;
 
-En su caso, una vez llevado a cabo el cotejo, la convocante devolverá al interesado los documentos originales o certificados, conservándolos en copias simples.
+VI. Copia simple del comprobante de pago de las bases de licitación;
+
+VII. Declaración de integridad, mediante la cual los licitantes manifiesten que por sí mismos, o a través de interpósita persona, se abstendrán de adoptar conductas para que los servidores públicos de la dependencia o entidad convocante, induzcan o alteren las evaluaciones de las proposiciones, el resultado del procedimiento de contratación y cualquier otro aspecto que les otorguen condiciones más ventajosas, con relación a los demás participantes, y
+
+VIII. En su caso, escrito mediante el cual los participantes manifiesten que en su planta laboral cuentan cuando menos con un cinco por ciento de personas con discapacidad, cuyas altas en el Instituto Mexicano del Seguro Social se hayan dado con seis meses de antelación a la fecha prevista para firma del contrato respectivo, obligándose a presentar en original y copia para cotejo las altas mencionadas, a requerimiento de la dependencia o entidad convocante, en caso de empate técnico. La falta de presentación de este escrito no será causa de desechamiento de la proposición.
 
 La presentación de estos documentos servirá para constatar que la persona cumple con los requisitos legales necesarios, sin perjuicio de su análisis detallado.
 
-Para los interesados que decidan agruparse para presentar una propuesta, deberán acreditar en forma individual los requisitos señalados, además de entregar una copia del convenio a que se refiere el artículo 28 de este Reglamento. La presentación de los documentos de los integrantes de la agrupación y la del convenio deberá hacerse por el representante común.
+Para los interesados que decidan agruparse para presentar una proposición, deberán acreditar en forma individual los requisitos señalados, además de entregar una copia del convenio a que se refiere el artículo 28 de este Reglamento. La presentación de los documentos de los integrantes de la agrupación y la del convenio deberá hacerse por el representante común.
+
+Previo a la firma del contrato, el licitante ganador deberá presentar para su cotejo original o copia certificada de los documentos señalados en las fracciones III, IV y VI del presente artículo.
+
+Las personas que se encuentren inscritas en el registro de contratistas de la convocante podrán participar manifestando, mediante escrito bajo protesta de decir verdad, que la información a que se refieren las fracciones I, III y V del presente artículo contenida en dicho registro se encuentra actualizada. En caso contrario, deberán presentar la documentación correspondiente, solicitando a la convocante la actualización del registro.
+
+Asimismo, con la finalidad de acreditar la personalidad jurídica del licitante y su representante, se podrá exhibir la constancia o citar el número de inscripción en que consten la existencia de la persona y las facultades de su representante, en el Registro Único de Personas Acreditadas.
+
+La información que conste en el Registro Único de Personas Acreditadas, o en su caso en el registro de contratistas de la convocante, en la que se haga constar la legal existencia del licitante, así como sus facultades para comprometerse a nombre de su mandante, será válida para la suscripción del contrato.
+
+Las dependencias y entidades realizarán, a solicitud de los interesados, revisiones preliminares de la documentación antes mencionada.
+
+Para facilitar los procedimientos de contratación, las dependencias y entidades contarán con un registro de contratistas, mismo que será integrado con la información proporcionada por los interesados, así como con aquella con la que cuenten las convocantes.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 25.
 
-El registro previo de participantes a que alude el artículo 36 de la Ley, solamente podrá utilizarse para agilizar los procedimientos de contratación, por lo que en ningún caso será considerado como una preselección o precalificación de licitantes.
+El registro de contratistas de las dependencias y entidades deberá contener cuando menos:
+
+I. Nombre o razón social y domicilio de la contratista;
+
+II. Información relativa al número de escritura constitutiva, sus reformas y datos de su inscripción en el Registro Público de Comercio;
+
+III. Relación de accionistas;
+
+IV. Nombre de sus representantes legales, así como la información relativa a los documentos que los acrediten como tales y sus datos de inscripción en el Registro Público de Comercio;
+
+V. Especialidad de la contratista y la información relativa a los contratos de obras o servicios que lo acrediten;
+
+VI. Experiencia acreditada con contratos de obras o servicios;
+
+VII. Información referente a la capacidad técnica, económica y financiera, y
+
+VIII. Antecedentes de cumplimiento de contratos.
+
+Dicho registro tendrá únicamente efectos declarativos respecto de la inscripción de contratistas, sin que dé lugar a efectos constitutivos de derechos y obligaciones, y sin que represente algún costo a las personas físicas o morales que pretendan inscribirse en el mismo.
+
+Cualquier interesado tendrá acceso al registro de contratistas en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+Para efectos de lo anterior, al momento de la inscripción en el registro, las dependencias y entidades determinarán la información que tendrá el carácter de reservada o confidencial tomando en cuenta lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+La confirmación o negativa de la inscripción en el registro de contratistas será comunicada por las dependencias y entidades a los interesados en un plazo no mayor de quince días hábiles, contados a partir de la fecha de la solicitud respectiva.
+
+La información contenida en el registro de contratistas de una dependencia o entidad, deberá proporcionarse a cualquier otra convocante que así lo solicite para efectos de sus procedimientos de contratación, salvo la que sea de carácter reservado o confidencial en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+Tratándose de procedimientos de contratación mediante invitación a cuando menos tres personas, la selección de participantes podrá hacerse de entre los contratistas que se encuentren inscritos en el registro, en atención a su experiencia, especialidad y capacidad técnica y antecedentes de cumplimiento en tiempo y en monto respecto de contratos que tengan celebrados con la dependencia o entidad convocante. Asimismo, se considerarán los contratistas cuyo domicilio se encuentre más cerca de la zona donde se pretenden ejecutar los trabajos o prestar los servicios, y que cuenten con la capacidad de respuesta inmediata, así como los recursos técnicos, financieros y demás necesarios de conformidad con las características, complejidad y magnitud de los trabajos a ejecutar.
+
+Atendiendo a la cantidad de Obras y Servicios que realicen, las dependencias y entidades deberán integrar su registro de contratistas, siendo obligatorio para aquéllas que cuenten con comité de obras públicas y optativo para las que no lo tengan.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE 2006)</small>
 
 ###### Artículo 26.
 
-Las dependencias y entidades podrán requerir que la propuesta técnica de los licitantes contenga los siguientes documentos, los que podrán adecuarse atendiendo a las características, complejidad y magnitud de los trabajos:
+Las dependencias y entidades atendiendo a las características, complejidad y magnitud de los trabajos, requerirán que la proposición de los licitantes contenga los siguientes documentos:
 
-I. Descripción de la planeación integral del licitante para realizar los trabajos, incluyendo el procedimiento constructivo de ejecución de los trabajos. Las dependencias y entidades podrán establecer las restricciones técnicas que procedan conforme a los proyectos;
+I. Manifestación escrita de conocer el sitio de realización de los trabajos y sus condiciones ambientales; estar conforme de ajustarse a las leyes y reglamentos aplicables, a los términos de las bases de licitación, sus anexos y las modificaciones que, en su caso, se hayan efectuado; al modelo de contrato, los proyectos arquitectónicos y de ingeniería; el haber considerado las normas de calidad de los materiales y las especificaciones generales y particulares de construcción que la dependencia o entidad convocante les hubiere proporcionado, así como haber considerado en la integración de la proposición, los materiales y equipos de instalación permanente que, en su caso, le proporcionará la propia convocante y el programa de suministro correspondiente;
 
-II. Relación de maquinaria y equipo de construcción, indicando si son de su propiedad, arrendadas con o sin opción a compra, su ubicación física, modelo y usos actuales, así como la fecha en que se dispondrá de estos insumos en el sitio de los trabajos, tratándose de maquinaria o equipo de construcción arrendado, con o sin opción a compra, deberá presentar carta compromiso de arrendamiento y disponibilidad en el caso de que resultare ganador;
+II. Descripción de la planeación integral del licitante para realizar los trabajos, incluyendo el procedimiento constructivo de ejecución de los trabajos, considerando, en su caso, las restricciones técnicas que procedan conforme a los proyectos y que establezcan las dependencias y entidades;
 
-III. Curriculum de los profesionales técnicos al servicio del licitante, identificando a los que se encargarán de la ejecución y administración de la obra, los que deben tener experiencia en obras de características técnicas y magnitud similares;
+III. Currículum de cada uno de los profesionales técnicos que serán responsables de la dirección, administración y ejecución de las obras, los que deberán tener experiencia en obras con características técnicas y magnitud similares;
 
-IV. Identificación de los trabajos realizados por el licitante y su personal, que acrediten la experiencia y la capacidad técnica requerida, en los que sea comprobable su participación, anotando el nombre de la contratante, descripción de las obras, importes totales, importes ejercidos o por ejercer y las fechas previstas de terminaciones, según el caso;
+IV. Documentos que acrediten la experiencia y capacidad técnica en trabajos similares, con la identificación de los trabajos realizados por el licitante y su personal, en los que sea comprobable su participación, anotando el nombre de la contratante, descripción de las obras, importes totales, importes ejercidos o por ejercer y las fechas previstas de terminaciones, según el caso;
 
-V. Manifestación escrita de conocer los proyectos arquitectónicos y de ingeniería; las normas de calidad de los materiales y las especificaciones generales y particulares de construcción que la dependencia o entidad les hubiere proporcionado; las leyes y reglamentos aplicables y su conformidad de ajustarse a sus términos;
+V. Manifestación escrita en la que señale las partes de los trabajos que subcontratará, en caso de haberse previsto en las bases de licitación. Las dependencias y entidades podrán solicitar la información necesaria que acredite la experiencia y capacidad técnica y económica de las personas que se subcontratarán;
 
-VI. Manifestación escrita en la que señale las partes de los trabajos que subcontratará, en caso de haberse previsto en las bases de la licitación. Las dependencias y entidades podrán solicitar la información necesaria que acredite la experiencia y capacidad técnica y económica de las personas que se subcontratarán;
+VI. Documentos que acrediten la capacidad financiera, los cuales deberán integrarse al menos por los estados financieros auditados de los dos años anteriores y el comparativo de razones financieras básicas, salvo en el caso de empresas de nueva creación, las cuales deberán presentar los más actualizados a la fecha de presentación de proposiciones;
 
-VII. Manifestación escrita de conocer y haber considerado en la integración de su propuesta, los materiales y equipos de instalación permanente que, en su caso, le proporcionará la convocante, así como el programa de suministro correspondiente;
+VII. Relación de maquinaria y equipo de construcción, indicando si son de su propiedad, arrendadas con o sin opción a compra, su ubicación física, modelo y usos actuales, así como la fecha en que se dispondrá de estos insumos en el sitio de los trabajos conforme al programa presentado; tratándose de maquinaria o equipo de construcción arrendado, con o sin opción a compra, deberá presentarse carta compromiso de arrendamiento y disponibilidad en el caso de que resultare ganador;
 
-VIII. Manifestación escrita de conocer el sitio de realización de los trabajos y sus condiciones ambientales, así como de haber considerado las modificaciones que, en su caso, se hayan efectuado a las bases de licitación;
+VIII. Cuando se requiera de materiales, maquinaria y equipo de instalación permanente de origen extranjero de los señalados por la Secretaría de Economía, se deberá entregar además de los anteriores, una manifestación escrita de que los precios consignados en su proposición no se cotizan en condiciones de prácticas desleales de comercio internacional en su modalidad de discriminación de precios o de subsidios; dirección, supervisión y administración de los trabajos.
 
-IX. Manifestación escrita de conocer el contenido del modelo del contrato y su conformidad de ajustarse a sus términos;
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-X. Cuando se requiera de materiales, maquinaria y equipo de instalación permanente de origen extranjero de los señalados por la Secretaría de Economía, manifestación escrita de que los precios consignados en su propuesta no se cotizan en condiciones de prácticas desleales de comercio internacional en su modalidad de discriminación de precios o de subsidios;
-
-XI. Declaración de integridad, mediante la cual los licitantes manifiesten de que por sí mismos o a través de interpósita persona, se abstendrán de adoptar conductas para que los servidores públicos de la dependencia o entidad convocante, induzcan o alteren las evaluaciones de las propuestas, el resultado del procedimiento de contratación y cualquier otro aspecto que les otorguen condiciones más ventajosas, con relación a los demás participantes, y
-
-XII. Documentos que acrediten la capacidad financiera, los cuales deberán integrarse al menos por los estados financieros auditados de los dos años anteriores y el comparativo de razones financieras básicas, salvo en el caso de empresas de reciente creación, las cuales deberán presentar los más actualizados a la fecha de presentación de la propuesta.
-
-A. Tratándose de obras a precios unitarios, podrán solicitar además los documentos siguientes:
-
-I. Análisis de los conceptos de trabajo que representen al menos el ochenta por ciento del monto de la propuesta, describiendo el concepto a desarrollar, su unidad de medida y cantidad, así como la relación de los materiales con sus correspondientes consumos y de mano de obra, maquinaria y equipo de construcción con sus correspondientes rendimientos, sin considerar costos e importes.
-
-Los conceptos que en conjunto representen al menos el porcentaje citado, serán definidos por el contratista, o bien, por las dependencias o entidades en las bases de licitación;
-
-II. Listado de insumos que intervienen en la integración de la propuesta, señalando los materiales más significativos y equipo de instalación permanente, mano de obra, maquinaria y equipo de construcción, con la descripción y especificaciones técnicas de cada uno de ellos, indicando las cantidades a utilizar, y sus respectivas unidades de medición;
-
-III. Análisis, cálculo e integración del factor de salario real conforme a lo previsto en este Reglamento;
-
-IV. Programa calendarizado de ejecución general de los trabajos, dividido en partidas y subpartidas, indicando por mes las cantidades de trabajo por realizar, y
-
-V. Programas cuantificados y calendarizados, dividido cada uno en partidas y subpartidas de suministro o utilización mensual de los siguientes rubros:
-
-a. De la mano de obra, expresadas en jornadas e identificando categorías;
-
-b. De la maquinaria y equipo de construcción, expresados en horas efectivas de trabajo, identificando su tipo y características;
-
-c. De los materiales más significativos y de los equipos de instalación permanente, expresados en unidades convencionales y volúmenes requeridos, y
-
-d. De la utilización del personal profesional técnico, administrativo y de servicio encargado de la dirección, supervisión y administración de los trabajos.
-
-B. Tratándose de obras a precio alzado, podrán solicitar además los documentos siguientes:
-
-I. Listado de insumos que intervienen en la integración de la propuesta, agrupando los materiales más significativos y equipo de instalación permanente, mano de obra, maquinaria y equipo de construcción, con la descripción de cada uno de ellos; tratándose de proyectos integrales o llave en mano, el licitante señalará las normas de calidad y especificaciones técnicas a que se sujetará, los cuales deberán apegarse a los establecidos por la convocante en las bases de licitación;
-
-II. Programa calendarizado de ejecución general de los trabajos, indicando por mes el porcentaje de avance de cada actividad y, en su caso, subactividad, y
-
-III. Programas cuantificados y calendarizados en actividades y, en su caso, subactividades de suministro o utilización mensual de los siguientes rubros:
-
-a. De la mano de obra, expresadas en jornales e identificando categorías;
-
-b. De la maquinaria y equipo de construcción, expresados en horas efectivas de trabajo, identificando su tipo y características;
-
-c. De los materiales más significativos y de los equipos de instalación permanente, expresados en unidades convencionales y volúmenes requeridos, y
-
-d. De utilización del personal profesional técnico, administrativo y de servicio encargado de la dirección, supervisión y administración de los trabajos.
-
-###### Artículo 27.
-
-Las dependencias y entidades podrán requerir que la propuesta económica de los licitantes contenga los siguientes documentos, los que podrán adecuarse atendiendo a las características, complejidad y magnitud de los trabajos:
+Artículo 26 A.- Además de los documentos referidos en el artículo 26 de este Reglamento, las dependencias y entidades, atendiendo a las características, complejidad y magnitud de los trabajos, requerirán:
 
 A. Tratándose de obras a precios unitarios:
 
-I. Análisis de los precios unitarios de los conceptos de trabajo que representen al menos el ochenta por ciento del monto de la propuesta, determinados y estructurados de acuerdo con lo previsto en este Reglamento.
+I. Análisis del total de los precios unitarios de los conceptos de trabajo, determinados y estructurados con costos directos, indirectos, de financiamiento, cargo por utilidad y cargos adicionales, donde se incluirán los materiales a utilizar con sus correspondientes consumos y costos, y de mano de obra, maquinaria y equipo de construcción con sus correspondientes rendimientos y costos;
 
-Los conceptos que en conjunto representen al menos el porcentaje citado, serán definidos por el contratista, o bien, por las dependencias o entidades en las bases de licitación.
+II. Listado de insumos que intervienen en la integración de la proposición, agrupado por materiales más significativos y equipo de instalación permanente, mano de obra, maquinaria y equipo de construcción, con la descripción y especificaciones técnicas de cada uno de ellos, indicando las cantidades a utilizar, sus respectivas unidades de medición y sus importes;
 
-El licitante ganador dentro de los quince días naturales siguientes a la emisión del fallo, deberá entregar el complemento de los análisis de los precios unitarios, los que deberán ser congruentes con el presupuesto presentado;
+III. Análisis, cálculo e integración del factor de salario real conforme a lo previsto en este Reglamento, anexando el tabulador de salarios base de mano de obra por jornada diurna de ocho horas e integración de los salarios;
 
-II. Relación y análisis de los costos básicos de los materiales que se requieran para la ejecución de los trabajos. Cuando existan insumos de los señalados en la fracción X del artículo 26 de este Reglamento, se deberá señalar el precio ofertado por el licitante;
-
-III. Tabulador de salarios base de mano de obra por jornada diurna de ocho horas e integración de los salarios;
-
-IV. Análisis, cálculo e integración de los costos horarios de la maquinaria y equipo de construcción, debiendo considerar éstos, para efectos de evaluación, con costos y rendimientos de máquinas y equipos nuevos;
+IV. Análisis, cálculo e integración de los costos horarios de la maquinaria y equipo de construcción, debiendo considerar éstos, para efectos de evaluación, costos y rendimientos de máquinas y equipos nuevos;
 
 V. Análisis, cálculo e integración de los costos indirectos, identificando los correspondientes a los de administración de oficinas de campo y los de oficinas centrales;
 
@@ -453,43 +631,51 @@ VI. Análisis, cálculo e integración del costo por financiamiento;
 
 VII. Utilidad propuesta por el licitante;
 
-VIII. Listado de insumos que intervienen en la integración de la propuesta, agrupando por materiales más significativos y equipos de instalación permanente, mano de obra, maquinaria y equipo de construcción, con la descripción de cada uno de ellos, indicando las cantidades a utilizar, con sus respectivas unidades de medición y sus importes;
+VIII. Relación y análisis de los costos unitarios básicos de los materiales que se requieran para la ejecución de los trabajos. Cuando existan insumos de los señalados en la fracción VIII del artículo 26 de este Reglamento se deberá señalar el precio ofertado por el licitante;
 
-IX. Catálogo de conceptos, conteniendo descripción, unidades de medición, cantidades de trabajo, precios unitarios con número y letra e importes por partida, subpartida, concepto y del total de la propuesta. Este documento formará el presupuesto de la obra que servirá para formalizar el contrato correspondiente;
+IX. Catálogo de conceptos, conteniendo descripción, unidades de medición, cantidades de trabajo, precios unitarios con número y letra e importes por partida, subpartida, concepto y del total de la proposición. Este documento formará el presupuesto de la obra que servirá para formalizar el contrato correspondiente;
 
-X. Programa de erogaciones de la ejecución general de los trabajos, calendarizado y cuantificado mensualmente, dividido en partidas y subpartidas, de los conceptos de trabajo que representen al menos el ochenta por ciento del monto de la propuesta, debiendo existir congruencia con los programas presentados en la etapa técnica, así como los que se mencionan en la fracción siguiente.
+X. Programa de ejecución general de los trabajos conforme al catálogo de conceptos con sus erogaciones, calendarizado y cuantificado conforme a los periodos determinados por la convocante, dividido en partidas y subpartidas, del total de los conceptos de trabajo, utilizando preferentemente diagramas de barras, o bien, redes de actividades con ruta crítica, y
 
-El licitante ganador dentro de los quince días naturales siguientes a la emisión del fallo, deberá entregar el programa de ejecución general de los trabajos que considere todos y cada uno de los conceptos que integran la propuesta, utilizando preferentemente redes de actividades con ruta crítica y diagramas de barras. Con base en este programa y cuando la magnitud de los trabajos lo requiera, el superintendente de construcción procederá a elaborar, dentro de un plazo no mayor de cuarenta y cinco días naturales siguientes al inicio de los trabajos, el programa detallado y definitivo que se aplicará al contrato dentro del marco de referencia pactado, y
-
-XI. Programas de erogaciones calendarizados y cuantificados en partidas y subpartidas de utilización mensual para los siguientes rubros:
+XI. Programas de erogaciones a costo directo calendarizados y cuantificados en partidas y subpartidas de utilización, conforme a los periodos determinados por la convocante, para los siguientes rubros:
 
 a. De la mano de obra;
 
 b. De la maquinaria y equipo de construcción, identificando su tipo y características;
 
-c. De los materiales más significativos y de los equipos de instalación permanente, y
+c. De los materiales y equipos de instalación permanente expresados en unidades convencionales y volúmenes requeridos, y
 
-d. De utilización del personal profesional técnico, administrativo y de servicio encargado de la dirección, supervisión y administración de los trabajos.
+d. De utilización del personal profesional técnico, administrativo y de servicio encargado de la dirección, administración y ejecución de los trabajos.
 
 B. Tratándose de obras a precio alzado:
 
-I. Red de actividades calendarizada, indicando las duraciones y la ruta crítica;
+I. Listado de insumos que intervienen en la integración de la proposición, agrupado por materiales más significativos y equipo de instalación permanente, mano de obra, maquinaria y equipo de construcción, con la descripción de cada uno de ellos; tratándose de proyectos integrales o llave en mano, el licitante señalará las normas de calidad y especificaciones técnicas a que se sujetará, las cuales deberán apegarse a las establecidas por la convocante en las bases de licitación;
 
-II. Cédula de avances y pagos programados, calendarizados y cuantificados mensualmente por actividades a ejecutar;
+II. Red de actividades calendarizada indicando las duraciones, o bien, la ruta crítica;
 
-III. Programa de erogaciones de la ejecución general de los trabajos, calendarizado y cuantificado mensualmente, dividido en actividades y, en su caso, subactividades debiendo existir congruencia con los programas que se mencionan en la fracción siguiente. Éste deberá considerarse dentro del contrato respectivo, como el programa de ejecución de los trabajos a que hace referencia el artículo 195 de este Reglamento;
+III. Cédula de avances y pagos programados, calendarizados y cuantificados por actividades a ejecutar, conforme a los periodos determinados por la convocante;
 
-IV. Programas calendarizados de erogaciones, describiendo las actividades y, en su caso, subactividades de la obra, así como la cuantificación de la utilización mensual de los siguientes rubros:
+IV. Programa de ejecución general de los trabajos conforme al presupuesto total con sus erogaciones, calendarizado y cuantificado, conforme a los periodos determinados por la convocante, dividido en actividades y, en su caso, subactividades, debiendo existir congruencia con los programas que se mencionan en la fracción siguiente. Éste deberá considerarse dentro del contrato respectivo, como el programa de ejecución de los trabajos a que hace referencia el artículo 195 de este Reglamento;
+
+V. Programas cuantificados y calendarizados de erogaciones, describiendo las actividades y, en su caso, subactividades de la obra, así como la cuantificación del suministro o utilización, conforme a los periodos determinados por la convocante, de los siguientes rubros:
 
 a. De la mano de obra;
 
 b. De la maquinaria y equipo de construcción, identificando su tipo y características;
 
-c. De los materiales y equipo de instalación permanente, y
+c. De los materiales más significativos y equipos de instalación permanente, expresados en unidades convencionales y volúmenes requeridos;
 
-d. De utilización del personal profesional técnico, administrativo y de servicio encargado de la dirección, supervisión y administración de los trabajos, y
+d. De utilización del personal profesional técnico, administrativo y de servicio encargado de la dirección, administración y ejecución de los trabajos, y
 
-V. Presupuesto total de los trabajos, el cual deberá dividirse en actividades de obra, indicando con número y letra sus importes, así como el monto total de la propuesta.
+VI. Presupuesto total de los trabajos, el cual deberá dividirse en actividades de obra, indicando con número y letra sus importes, así como el monto total de la proposición.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+###### Artículo 27.
+
+Las dependencias y entidades, atendiendo a las características, complejidad y magnitud de los trabajos, podrán solicitar requisitos y documentación adicionales a los señalados en los artículos 33 de la Ley y 26 y 26 A de este Reglamento los cuales deberán cumplir los interesados, debiendo señalarse en las bases de licitación o invitación la forma en que éstos serán evaluados.
+
+Sólo serán objeto de evaluación aquellos requisitos técnicos y económicos requeridos por las convocantes.
 
 ###### Artículo 28.
 
@@ -503,83 +689,97 @@ a. Nombre y domicilio de los integrantes, identificando, en su caso, los datos d
 
 b. Nombre de los representantes de cada una de las personas identificando, en su caso, los datos de los testimonios públicos con los que se acredita su representación;
 
-c. Definición de las partes del objeto del contrato que cada persona se obligaría a cumplir;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+c. Definición de las partes del objeto del contrato que cada persona se obligaría a cumplir, especificando la forma en que serán presentadas a cobro las estimaciones;
 
 d. Determinación de un domicilio común para oír y recibir notificaciones;
 
-e. Designación de un representante común, otorgándole poder amplio y suficiente, para todo lo relacionado con la propuesta, y
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+e. Designación de un representante común, otorgándole poder amplio y suficiente, para todo lo relacionado con la proposición, y
 
 f. Estipulación expresa que cada uno de los firmantes quedará obligado en forma conjunta y solidaria para comprometerse por cualquier responsabilidad derivada del contrato que se firme.
 
-III. En el acto de presentación y apertura de propuestas el representante común deberá señalar que la proposición se presenta en forma conjunta. El convenio a que hace referencia la fracción anterior se incluirá en el sobre que contenga la propuesta técnica. La convocante deberá revisar que el convenio cumple con los requisitos exigidos, y
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+III. En el acto de presentación y apertura de proposiciones el representante común deberá señalar que la proposición se presenta en forma conjunta. El convenio a que hace referencia la fracción anterior se incluirá en el sobre que contenga la proposición. La convocante deberá revisar que el convenio cumpla con los requisitos exigidos, y
 
 IV. Para cumplir con el capital contable mínimo requerido por la convocante, se podrán sumar los correspondientes a cada una de las personas integrantes.
 
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 28 A.- Para los efectos de lo dispuesto en el artículo 51, fracción II de la Ley, la autorización previa y específica para contratar con servidores públicos, o bien, con las sociedades de las que dichos servidores públicos formen parte, deberá ser solicitada ante el titular del órgano interno de control en la dependencia o entidad respectiva, quien resolverá lo procedente, atendiendo a las características del objeto del contrato que se pretenda adjudicar, y su correlación con las circunstancias que vinculan al mismo con los servidores públicos, tomando en cuenta todos aquellos elementos o circunstancias que resulten procedentes considerar.
+
 #### SECCIÓN II. ACTO DE PRESENTACIÓN Y APERTURA DE PROPOSICIONES
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 29.
 
-Las propuestas en cada etapa deben de analizarse a su vez en dos formas, una cuantitativa donde para la recepción de las propuestas sólo bastará con la presentación de los documentos, sin entrar a la revisión de su contenido; otra cualitativa donde se realiza el estudio detallado de las propuestas presentadas, a efecto de que las dependencias y entidades tengan los elementos necesarios para determinar la solvencia de las condiciones legales, técnicas y económicas requeridas.
+Las proposiciones deberán evaluarse en dos formas: una cuantitativa, donde para la recepción de las mismas sólo bastará verificar la presentación de los documentos, sin entrar a la revisión de su contenido; y otra cualitativa, donde se realizará el estudio detallado de las proposiciones presentadas, a efecto de que las dependencias y entidades tengan los elementos necesarios para determinar la solvencia de las condiciones legales, técnicas y económicas requeridas.
 
-Los licitantes son los únicos responsables de que sus propuestas sean entregadas en tiempo y forma en el acto de presentación y apertura de proposiciones.
+Los licitantes son los únicos responsables de que sus proposiciones sean entregadas en tiempo y forma en el acto de presentación y apertura de proposiciones. No será motivo de descalificación la falta de identificación o de acreditamiento de la representación de la persona que solamente entregue la proposición, pero sólo podrá participar durante el desarrollo del acto con el carácter de oyente.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 30.
 
-Cada etapa deberá ser presidida por el servidor público designado por la convocante, quien será la única persona facultada para aceptar o desechar las propuestas y, en general, para tomar todas las decisiones durante la realización del acto, debiendo estar presente durante su desarrollo.
+El acto de presentación y apertura de proposiciones deberá ser presidido por el servidor público designado por la convocante, quien será la única persona facultada para aceptarlas o desecharlas y, en general, para tomar todas las decisiones durante la realización del acto, debiendo estar presente durante su desarrollo.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 31.
 
-En la primera etapa se procederá, en primer término, a dar apertura a las propuestas técnicas de los licitantes que asistan al acto y, posteriormente, a las de los participantes que hayan enviado su proposición por servicio postal, de mensajería o medios remotos de comunicación electrónica.
+En el acto de presentación y apertura de proposiciones se procederá, en primer término, a dar apertura a las proposiciones enviadas por medios remotos de comunicación electrónica y, posteriormente, a las de los licitantes que hayan presentado su proposición en el propio acto y de los que la enviaron por servicio postal o de mensajería.
 
-Las dependencias y entidades se abstendrán de recibir cualquier propuesta que se presente después de la fecha y hora establecidas en las bases.
+Para los efectos de la fracción II del artículo 37 de la Ley, tratándose de contratos a precios unitarios se rubricará el catálogo de conceptos y, para precio alzado, el presupuesto de obra; por lo que hace a contratos mixtos, deberá rubricarse tanto el catálogo de conceptos de la parte a precios unitarios, como el presupuesto de obra de la parte del precio alzado.
+
+Las dependencias y entidades se abstendrán de recibir cualquier proposición que se presente después de la fecha y hora establecidas en las bases.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 32.
 
-Al concluir la primera etapa se levantará un acta en la que se hará constar como mínimo lo siguiente:
+Al concluir el acto de presentación y apertura de proposiciones se levantará un acta en la que se hará constar como mínimo lo siguiente:
 
-I. Fecha, lugar y hora en que se llevó a cabo dicha etapa;
+I. Fecha, lugar y hora en que se llevó a cabo dicho acto;
 
 II. Nombre del servidor público encargado de presidir el acto;
 
-III. Nombre de los licitantes cuyas propuestas técnicas fueron aceptadas para su análisis cualitativo por las áreas designadas para ello;
+III. Nombre de los licitantes e importes totales de las proposiciones que fueron aceptadas para su evaluación cualitativa por las áreas designadas por la convocante para ello;
 
-IV. Nombre de los licitantes cuyas propuestas fueron desechadas, así como las causas que lo motivaron, y
+IV. Nombre de los licitantes cuyas proposiciones fueron desechadas, así como las causas que lo motivaron, y
 
-V. Lugar, fecha y hora de celebración de la segunda etapa.
+V. Lugar, fecha y hora de la junta pública donde se dará a conocer el fallo de la licitación.
 
-La convocante podrá anticipar o diferir por escrito la fecha de celebración de la segunda etapa del proceso de licitación previsto en la convocatoria y en las bases, sin que exceda el plazo a que hace referencia el segundo párrafo de la fracción V del artículo 37 de la Ley; en este caso no será necesario hacer la publicación en el Diario Oficial de la Federación.
+En caso de que la dependencia o entidad convocante opte por no realizar la junta pública en la que se dé a conocer el fallo, dará a conocer el resultado de éste conforme a lo dispuesto por el artículo 39 de la Ley.
+
+La convocante podrá anticipar o diferir por escrito la fecha de celebración del fallo prevista en las bases, sin que exceda el plazo a que hace referencia la fracción IV del artículo 37 de la Ley; en este caso no será necesario hacer la publicación en el Diario Oficial de la Federación.
 
 ###### Artículo 33.
 
-La segunda etapa iniciará con la lectura del resultado que contenga la evaluación de las propuestas técnicas, dando a conocer las que cumplieron con las condiciones legales y técnicas y las que fueron desechadas, procediendo en este último caso, a entregar a cada licitante un escrito en el que se señalen las razones que dieron origen al desechamiento y las disposiciones en las que se fundamente dicha determinación.
-
-Tratándose de contratos a precio alzado se firmará el presupuesto de obra y, en caso de contratos mixtos, tanto el catálogo de conceptos de la parte a precios unitarios, como el presupuesto de obra de la parte del precio alzado.
+(DEROGADO, D.O.F. 29 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 34.
 
-Al concluir la segunda etapa se levantará un acta en la que se hará constar como mínimo lo siguiente:
+(DEROGADO, D.O.F. 29 DE NOVIEMBRE DE 2006)
 
-I. Fecha, lugar y hora en que se llevó a cabo dicha etapa;
-
-II. Nombre del servidor público encargado de presidir el acto;
-
-III. Nombre de los licitantes e importes totales de las propuestas que fueron aceptadas para su análisis cualitativo por las áreas designadas para ello;
-
-IV. Nombre de los licitantes cuyas propuestas económicas fueron desechadas, así como las causas que lo motivaron;
-
-V. Nombre de los licitantes cuyas propuestas técnicas hayan sido desechadas como resultado del análisis cualitativo de las mismas, así como las causas que lo motivaron, y
-
-VI. El lugar, fecha y hora de la junta pública donde se dará a conocer el fallo de la licitación. Si la dependencia o entidad convocante opta por no realizar dicho acto, se deberá dar a conocer el lugar y fecha a partir de la cual los participantes podrán conocer el fallo.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 35.
 
-A los actos de carácter público de las licitaciones podrán asistir los licitantes cuyas propuestas hayan sido desechadas durante el procedimiento de contratación, así como cualquier persona que sin haber adquirido las bases manifieste su interés de estar presente en dichos actos, bajo la condición de que deberán registrar su asistencia y abstenerse de intervenir en cualquier forma en los mismos.
+A los actos de carácter público de las licitaciones podrán asistir los licitantes cuyas proposiciones hayan sido desechadas durante el procedimiento de contratación, así como cualquier persona que, sin haber adquirido las bases, manifieste su interés de estar presente en dichos actos como observador, bajo la condición de que deberán registrar su asistencia y abstenerse de intervenir en cualquier forma en los mismos.
 
-#### SECCIÓN III. EVALUACIÓN DE LAS PROPUESTAS
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+#### SECCIÓN III. EVALUACIÓN DE LAS PROPOSICIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 36.
 
-En general para la evaluación técnica de las propuestas se deberán considerar, entre otros, los siguientes aspectos:
+Para la evaluación técnica de las proposiciones se deberán considerar, entre otros, los siguientes aspectos:
 
 I. Que cada documento contenga toda la información solicitada;
 
@@ -591,7 +791,9 @@ III. Que los licitantes cuenten con la maquinaria y equipo de construcción adec
 
 IV. Que la planeación integral propuesta por el licitante para el desarrollo y organización de los trabajos, sea congruente con las características, complejidad y magnitud de los mismos;
 
-V. Que el procedimiento constructivo descrito sea aceptable porque demuestra que el licitante conoce los trabajos a realizar y que tiene la capacidad y la experiencia para ejecutarlos satisfactoriamente; dicho procedimiento debe ser acorde con el programa de ejecución considerado en su propuesta, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+V. Que el procedimiento constructivo descrito sea aceptable porque demuestra que el licitante conoce los trabajos a realizar y que tiene la capacidad y la experiencia para ejecutarlos satisfactoriamente; dicho procedimiento debe ser acorde con el programa de ejecución considerado en su proposición, y
 
 VI. De los estados financieros, las dependencias y entidades de acuerdo con las características, magnitud y complejidad de los trabajos, determinarán en las bases de licitación, aquellos aspectos que se verificarán, entre otros:
 
@@ -637,7 +839,9 @@ b. Que los rendimientos considerados se encuentren dentro de los márgenes razon
 
 c. Que se hayan considerado trabajadores de la especialidad requerida para la ejecución de los conceptos más significativos.
 
-B. Tratándose de propuestas a precio alzado además se deberá verificar:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+B. Tratándose de proposiciones a precio alzado además se deberá verificar:
 
 I. Que los suministros y utilización de los insumos sean acordes con el proceso constructivo, de tal forma que su entrega o empleo se programe con oportunidad para su correcto uso, aprovechamiento o aplicación;
 
@@ -649,23 +853,25 @@ b. Que las características y capacidad de la maquinaria y equipo de construcci�
 
 III. Que las características, especificaciones y calidad de los materiales y equipos de instalación permanente, sean las requeridas en las bases para cumplir con los trabajos.
 
-Al finalizar esta evaluación, las dependencias y entidades deberán emitir un dictamen donde se expongan las razones de las condiciones legales requeridas y las razones técnicas por las que se aceptan o se desechan las propuestas presentadas por los licitantes.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 37.
 
-En general para la evaluación económica de las propuestas se deberán considerar, entre otros, los siguientes aspectos:
+Para la evaluación económica de las proposiciones se deberán considerar, entre otros, los siguientes aspectos:
 
 I. Que cada documento contenga toda la información solicitada, y
 
-II. Que los precios propuestos por el licitante sean aceptables, es decir, que sean acordes con las condiciones vigentes en el mercado internacional, nacional o de la zona o región en donde se ejecutarán los trabajos, individualmente o conformando la propuesta total.
+II. Que los precios propuestos por el licitante sean aceptables; es decir, que sean acordes con las condiciones vigentes en el mercado internacional, nacional o de la zona o región en donde se ejecutarán los trabajos, individualmente o conformando la proposición total.
 
-A. Tratándose de propuestas que consideren precios unitarios además se deberá verificar:
+A. Tratándose de proposiciones que consideren precios unitarios además se deberá verificar:
 
 I. Del presupuesto de obra:
 
 a. Que en todos y cada uno de los conceptos que lo integran se establezca el importe del precio unitario;
 
-b. Que los importes de los precios unitarios sean anotados con número y con letra, los cuales deben ser coincidentes; en caso de diferencia, deberá prevalecer el que coincida con el análisis de precio unitario correspondiente o el consignado con letra cuando no se tenga dicho análisis, y
+b. Que los importes de los precios unitarios sean anotados con número y con letra, los cuales deberán ser coincidentes entre sí y con sus respectivos análisis; en caso de diferencia, deberá prevalecer el que coincida con el del análisis de precio unitario correspondiente o el consignado con letra cuando no se tenga dicho análisis, y
 
 c. Verificar que las operaciones aritméticas se hayan ejecutado correctamente; en el caso de que una o más tengan errores, se efectuarán las correcciones correspondientes; el monto correcto, será el que se considerará para el análisis comparativo de las proposiciones;
 
@@ -673,7 +879,7 @@ II. Verificar que el análisis, cálculo e integración de los precios unitarios
 
 a. Que los análisis de los precios unitarios estén estructurados con costos directos, indirectos, de financiamiento, cargo por utilidad y cargos adicionales;
 
-b. Que los costos directos se integren con los correspondientes a materiales, mano de obra, maquinaria y equipo de construcción;
+b. Que los costos directos se integren con los correspondientes a materiales, equipos de instalación permanente, mano de obra, maquinaria y equipo de construcción;
 
 c. Que los precios básicos de adquisición de los materiales considerados en los análisis correspondientes, se encuentren dentro de los parámetros de precios vigentes en el mercado;
 
@@ -711,13 +917,13 @@ d. Que el costo del financiamiento sea congruente con el programa de ejecución 
 
 e. Que la mecánica para el análisis y cálculo del costo por financiamiento empleada por el licitante sea congruente con lo que se establezca en las bases de la licitación;
 
-VI. Verificar que el cálculo e integración del cargo por utilidad, se haya estructurado y determinado considerando que dentro de su monto, queden incluidas la ganancia que el contratista estima que debe percibir por la ejecución de los trabajos, así como las deducciones e impuestos correspondientes, no siendo necesario su desglose;
+VI. Verificar que el cargo por utilidad fijado por el licitante se encuentre de acuerdo a lo previsto en este Reglamento;
 
-VII. Verificar que el importe total de la propuesta sea congruente con todos los documentos que la integran, y
+VII. Verificar que el importe total de la proposición sea congruente con todos los documentos que la integran, y
 
-VIII. Que los programas específicos de erogaciones de materiales, mano de obra y maquinaria y equipo de construcción sean congruentes con el programa de erogaciones de la ejecución general de los trabajos, así como con los programas presentados en la propuesta técnica.
+VIII. Que los programas específicos de erogaciones de materiales, mano de obra y maquinaria y equipo de construcción y de instalación permanente, sean congruentes con el programa de erogaciones de la ejecución general de los trabajos.
 
-B. Tratándose de propuestas a precio alzado además se deberá verificar:
+B. Tratándose de proposiciones a precio alzado además se deberá verificar:
 
 I. Del presupuesto de la obra:
 
@@ -725,43 +931,159 @@ a. Que en todas y cada una de las actividades que integran el presupuesto, se es
 
 b. Que los importes estén anotados con número y con letra, los cuales deben ser coincidentes; en caso de diferencia deberá prevalecer el que se consigna con letra, y
 
-c. Verificar que el importe total de la propuesta sea congruente con todos los documentos que la integran;
+c. Verificar que el importe total de la proposición sea congruente con todos los documentos que la integran;
 
 II. Que exista congruencia entre la red de actividades, la cédula de avances y pagos programados y el programa de ejecución de los trabajos y que éstos sean coherentes con el procedimiento constructivo;
 
 III. Que exista consistencia lógica de las actividades descritas en la red, cédula de avances y pagos programados, y el programa de ejecución, y
 
-IV. Que los programas específicos de erogaciones sean congruentes con el programa general de ejecución de los trabajos y que los insumos propuestos por el licitante, correspondan a los periodos presentados en los programas, así como con los programas presentados en la propuesta técnica.
+IV. Que los programas específicos de erogaciones sean congruentes con el programa general de ejecución de los trabajos y que los insumos propuestos por el licitante, correspondan a los periodos presentados en los programas, así como con los programas presentados en la proposición.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 37 A.- Al finalizar la evaluación de las proposiciones, las dependencias y entidades adjudicarán el contrato al licitante cuya proposición resulte solvente por reunir, conforme a los criterios de evaluación que establezcan las bases de licitación, de conformidad con la Ley y este Reglamento, las condiciones legales, técnicas y económicas requeridas por la convocante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+
+Si resultare que dos o más proposiciones son solventes porque reúnen las condiciones antes señaladas, el contrato se adjudicará a quien presente la proposición que resulte económicamente más conveniente para el Estado, que será aquella que otorgue mayor certeza en la ejecución y conclusión de los trabajos que pretendan contratarse, por asegurar las mejores condiciones de contratación en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Para tales efectos, la adjudicación del contrato a la proposición que resulte económicamente más conveniente para el Estado, se hará a través del mecanismo que atienda a las condiciones, criterios, parámetros y su correspondiente valoración en puntaje, en los siguientes términos:
+
+I. Criterio relativo al Precio. Representado por la proposición solvente cuyo precio o monto sea el más bajo, o la de menor valor presente, la que tendrá una ponderación de: 50 puntos.
+
+En estos términos, la puntuación que se le asigne a las demás proposiciones que hayan resultado solventes se determinará atendiendo a la siguiente fórmula:
+
+PAj = 50(PSPMB/PPj) Para toda j = 1, 2,…..,n
+
+Donde:
+
+PAj = Puntos a asignar a la proposición “j”
+
+PSPMB = proposición solvente cuyo precio es el más bajo, o la de menor valor presente.
+
+PPj = Precio de la proposición “j”
+
+El subíndice “j” representa a las demás proposiciones determinadas como solventes como resultado de la evaluación.
+
+Cuando en las bases de los procedimientos de contratación se indique expresamente para efectos del criterio precio el relativo al menor valor presente, se podrán considerar los gastos de inversión, de operación, de mantenimiento y de consumo, entre otros, así como el valor de rescate de las obras de que se trate, indicándose expresamente, cuando menos, el horizonte a considerar, la tasa de descuento y la forma en que el licitante incluirá en su proposición los gastos y el valor de rescate referidos.
+
+Las dependencias y entidades podrán optar por utilizar el método de valor presente, cuando la obra o servicios relacionados con las mismas se encuentren asociados a la producción de bienes y servicios en los que sea posible cuantificar los ingresos y egresos que se producirán en un determinado tiempo.
+
+II. Criterio relativo a la Calidad. La calidad atenderá a los rubros de especialidad, experiencia y capacidad técnica en los términos del último párrafo del artículo 36 de la Ley. Dichos rubros, en su puntaje, deberán tener una ponderación en conjunto de 20 puntos.
+
+Los 20 puntos se distribuirán como sigue:
+
+a. Especialidad.- Mayor número de contratos de obras ejecutadas de la misma naturaleza a los que se convocan en un plazo máximo de cinco años previos a la fecha de publicación de la convocatoria. Para este rubro se asignará una ponderación de 5 puntos.
+
+b. Experiencia.- Mayor tiempo del licitante realizando obras similares en aspectos relativos a monto, complejidad o magnitud. Para este rubro se asignará una ponderación de 5 puntos.
+
+En caso de que se indique más de uno de los aspectos anteriores, los 5 puntos se distribuirán proporcionalmente.
+
+c. Capacidad Técnica.- Se asignará un puntaje de 10 puntos, distribuidos como sigue:
+
+1. Mayor experiencia laboral del personal responsable de los trabajos convocados en la materia objeto de la contratación, de conformidad con la información proporcionada en términos del artículo 26 del presente Reglamento. Se asignarán 3 puntos.
+
+2. Ausencia de antecedentes de afectación de garantías por vicios ocultos o de mala calidad de los trabajos, o su equivalente en el extranjero en un lapso no mayor a cinco años. Se asignarán 3 puntos.
+
+3. Certificación relacionada con el objeto de la obra o servicio a contratar en materia de calidad, seguridad o medio ambiente. Se asignarán 4 puntos.
+
+En caso de seleccionar más de una certificación de las antes señaladas los 4 puntos se distribuirán proporcionalmente.
+
+La certificación antes aludida deberá ser emitida conforme a la Ley Federal sobre Metrología y Normalización y, tratándose de extranjeros, se aceptarán normas equivalentes.
+
+Tratándose de procedimientos de contratación bajo la cobertura de los tratados, para la especialidad, experiencia y capacidad técnica, se considerarán los trabajos ejecutados en cualquier país.
+
+III. Criterio relativo al Financiamiento. Que se pondere la proposición que aporte las mejores condiciones de financiamiento para la dependencia o entidad. En las bases de los procedimientos de contratación se indicará, cuando menos, el horizonte a considerar y la tasa de descuento correspondiente. Su ponderación será de 10 puntos.
+
+IV. Criterio relativo a la Oportunidad. Que se hayan ejecutado obras con contratos terminados en costo y tiempo en los términos del último párrafo del artículo 36 de la Ley, considerando los siguientes rubros que en su puntaje en conjunto tendrá una ponderación de 10 puntos.
+
+Los diez puntos se distribuirán como sigue:
+
+a. Grado de cumplimiento en los contratos celebrados y concluidos por el licitante en un lapso no mayor a cinco años previos a la publicación de la convocatoria, para lo cual se dividirá el monto de las penas convencionales aplicadas entre el valor total del contrato. Cuando se trate de varios contratos, el grado de cumplimiento se aplicará para cada contrato y el resultado se ponderará con el valor que se obtenga de dividir el monto de cada uno de los contratos considerados en el ejercicio entre su sumatoria total. Al mayor grado de cumplimiento se asignarán 5 puntos.
+
+b. Que los contratos de obra pública celebrados en un lapso no mayor a cinco años previos a la publicación de la convocatoria, no hayan sido objeto de rescisión administrativa o de alguna figura jurídica equivalente en el extranjero. Se asignarán 5 puntos.
+
+Las dependencias y entidades solicitarán la información que consideren necesaria para valorar la puntuación a que se refieren los incisos anteriores, entre la cual deberá incluirse una manifestación bajo protesta de decir verdad y sujeta a verificación, así como aquellos otros mecanismos que garanticen la veracidad de la misma.
+
+V. Criterio relativo al Contenido Nacional. Considerando para dicho criterio a la proposición con mayor porcentaje de contenido nacional, respecto de los siguientes insumos y equipos que, en su puntaje en conjunto, deberán tener ponderación de 10 puntos.
+
+a. Materiales.
+
+b. Maquinaria y equipo de instalación permanente.
+
+Para la determinación del grado de contenido nacional, se considerarán las disposiciones que sobre el particular expida la Secretaría de Economía.
+
+El criterio relativo al contenido nacional aplicará en procedimientos de contratación de carácter nacional e internacional. En procedimientos de contratación sujetos a la cobertura de los tratados, el criterio relativo al contenido nacional aplicará en los términos establecidos en éstos.
+
+La suma de los cinco criterios anteriormente descritos será menor o igual a 100 puntos.
+
+Para la asignación de puntos de los criterios establecidos en las fracciones II a V, a cada una de las proposiciones determinadas como solventes, se aplicará una regla de tres simple, considerando como base la proposición solvente que reciba mayor puntaje en cada uno de los criterios enunciados.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 37 B.- Las dependencias y entidades incluirán de manera expresa en las bases de los procedimientos de contratación el mecanismo de adjudicación señalado en el artículo anterior que, cuando menos, comprenderá los criterios relativos al precio y calidad, en todos o cualquiera de los incisos previstos en la fracción II del citado artículo, en atención a las características, magnitud y complejidad de las obras o servicios que pretendan contratar.
+
+Cuando las convocantes no cuenten con elementos para valorar alguno de los criterios o rubros mencionados en éstos, no aplicarán para la adjudicación y los puntos que les corresponderían no se reexpresarán.
+
+La información relativa a los criterios establecidos en las fracciones II y IV del artículo anterior, podrá ser aquella que conste en el registro de contratistas de la dependencia o entidad convocante o, en su defecto, la que proporcionen los licitantes en su proposición en términos de las bases de licitación o invitaciones a cuando menos tres personas.
+
+Atendiendo a lo anterior, la proposición solvente económicamente más conveniente para el Estado será aquella que reúna la mayor puntuación conforme a la valoración de los criterios y parámetros descritos en el artículo 37 A, siempre y cuando su precio o monto no exceda del 7% respecto del precio o monto de la determinada como la solvente más baja como resultado de la evaluación.
+
+Si el precio o monto de la proposición determinada como la económicamente más conveniente para el Estado tiene una diferencia superior al 7% respecto del precio o monto de la determinada como la solvente más baja como resultado de la evaluación, se adjudicará a la que le siga en puntaje hacia abajo, pero la diferencia de su precio sea menor o igual al 7% señalado, y así sucesivamente hasta que se obtenga la proposición que será adjudicada.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 37 C.- Las dependencias y entidades que contraten de manera ocasional obras y servicios, y que no cuenten con áreas o estructuras especializadas para tales fines, podrán, en obras y servicios que no excedan los diez mil días de salario mínimo vigente en el Distrito Federal elevado al mes, optar por determinar como la proposición económicamente más conveniente para el Estado, la que corresponda a la solvente cuyo precio o monto sea el más bajo, estableciéndolo expresamente en las bases de los procedimientos de contratación, en cuyo caso no aplicarán el mecanismo de adjudicación que establece el artículo 37 A de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 37 D.- El mecanismo de adjudicación señalado en el artículo 37 A de este Reglamento será aplicable a los procedimientos de contratación que tengan como objeto contratar obras, incluyendo los que se contraten bajo la cobertura de los tratados.
+
+El mecanismo a que se refiere el párrafo anterior también será aplicable en los procedimientos de contratación de servicios, cuando no se utilice para su evaluación el mecanismo de puntos y porcentajes en los términos previstos en el tercer párrafo del artículo 38 de la Ley y este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 37 E.- Para el caso de que exista empate técnico entre los licitantes cuyas proposiciones resulten solventes, éste se resolverá en términos del último párrafo del artículo 38 de la Ley. Se entiende que existe empate técnico cuando dos o más licitantes oferten el mismo precio y el criterio de adjudicación utilizado sea el contenido en el artículo 37 C de este Reglamento, o bien, cuando obtengan el mismo puntaje como resultado de la aplicación del mecanismo de adjudicación previsto en el artículo 37 A de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 37 F.- Si no fuere factible resolver el empate en los términos del artículo anterior, la adjudicación se efectuará en favor del licitante que resulte ganador del sorteo manual por insaculación que celebre la convocante en el propio acto de fallo, el cual consistirá en la participación de un boleto por cada proposición que resulte empatada y depositados en una urna, de la que se extraerá en primer lugar el boleto del licitante ganador y, posteriormente, los demás boletos empatados, con lo que se determinarán los subsecuentes lugares que ocuparán tales proposiciones; dicho procedimiento deberá preverse en las bases de licitación.
+
+En caso de que no se hubiere previsto dar a conocer el fallo en junta pública, el sorteo por insaculación se llevará a cabo previa invitación por escrito a los licitantes y a un representante del órgano interno de control, debiendo levantarse el acta que firmarán los asistentes, sin que la inasistencia o falta de firma en el acta respectiva de los invitados, invalide el acto.
 
 #### SECCIÓN IV. FALLO PARA LA ADJUDICACIÓN
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 38.
 
-Al finalizar la evaluación de las propuestas, las dependencias y entidades deberán emitir un dictamen en el que se hagan constar los aspectos siguientes:
+Al finalizar la evaluación de las proposiciones y, en su caso, la aplicación de los criterios de adjudicación previstos en los artículos 37 A y 37 C de este Reglamento, las dependencias y entidades deberán emitir un dictamen en el que se hagan constar los aspectos siguientes:
 
-I. Los criterios utilizados para la evaluación de las propuestas;
+I. Los criterios utilizados para la evaluación de las proposiciones;
 
 II. La reseña cronológica de los actos del procedimiento;
 
-III. Las razones técnicas o económicas por las cuales se aceptan o desechan las propuestas presentadas por los licitantes;
+III. Las razones legales, técnicas o económicas por las cuales se aceptan o desechan las proposiciones presentadas y el nombre de los licitantes;
 
-IV. Nombre de los licitantes cuyas propuestas fueron aceptadas por haber cumplido con los requerimientos exigidos;
+IV. La relación de los licitantes cuyas proposiciones se calificaron como solventes, ubicándolas de menor a mayor, de acuerdo con sus montos;
 
-V. Nombre de los licitantes cuyas propuestas económicas hayan sido desechadas como resultado del análisis cualitativo de las mismas;
+V. Los criterios de adjudicación del contrato, así como el resultado de la aplicación y la relación de licitantes con sus puntajes del mayor al menor;
 
-VI. La relación de los licitantes cuyas propuestas se calificaron como solventes, ubicándolas de menor a mayor, de acuerdo con sus montos;
+VI. Para el caso de que se adjudique a la proposición solvente más baja en los términos del artículo 37 C de este Reglamento, la relación de licitantes cuyas proposiciones se calificaron como solventes, ubicándolas del menor al mayor de acuerdo a sus montos;
 
 VII. La fecha y lugar de elaboración, y
 
 VIII. Nombre, firma y cargo de los servidores públicos encargados de su elaboración y aprobación.
 
-Cuando exista desechamiento de alguna propuesta las dependencias y entidades deberán entregar a cada licitante, a través de un escrito independiente, las razones y fundamentos para ello, con base en este dictamen.
+Cuando exista desechamiento de alguna proposición las dependencias y entidades deberán entregar a cada licitante, a través de un escrito independiente, las razones y fundamentos para ello, con base en este dictamen.
+
+Las proposiciones desechadas durante los procedimientos de contratación, podrán devolverse cuando sea solicitado por los licitantes, o bien, podrán ser destruidas en los términos del último párrafo del artículo 74 de la Ley. No obstante las proposiciones solventes que hayan sido sujetas de la aplicación de los criterios de adjudicación previstos en los artículos 37 A y 37 C de este Reglamento, serán las únicas que no podrán devolverse o destruirse y pasarán a formar parte de los expedientes de la convocante, quedando sujetas a las disposiciones correspondientes a la guarda, custodia y disposición final de los expedientes, y demás aplicables, así como a las previstas en el artículo 74 de la Ley. Tratándose de procedimientos de contratación en los que se apliquen mecanismos de evaluación por puntos y porcentajes, podrán ser las dos propuestas solventes que sigan en calificación o las que determine la convocante.
 
 ###### Artículo 39.
 
 El fallo que emitan las dependencias y entidades deberá contener lo siguiente:
 
-I. Nombre del participante ganador y el monto total de su propuesta, acompañando copia del dictamen a que se refiere el artículo anterior;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+I. Nombre del participante ganador y el monto total de su proposición, acompañando copia del dictamen a que se refiere el artículo anterior;
 
 II. La forma, lugar y plazo para la presentación de las garantías;
 
@@ -775,21 +1097,27 @@ Cuando el fallo se dé a conocer en junta pública, ésta comenzará con la lect
 
 Con el fallo y el modelo de contrato en su poder, el licitante ganador podrá tramitar las garantías a que hace referencia la Ley y este Reglamento.
 
-#### SECCIÓN V. DESECHAMIENTO DE PROPUESTAS, CANCELACIÓN, NULIDAD TOTAL Y LICITACIONES DESIERTAS
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+#### SECCIÓN V. DESECHAMIENTO DE PROPOSICIONES, CANCELACIÓN, NULIDAD TOTAL Y LICITACIONES DESIERTAS
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 40.
 
-Se consideran causas para el desechamiento de las propuestas las siguientes:
+Se consideran causas para el desechamiento de las proposiciones las siguientes:
 
 I. La presentación incompleta o la omisión de cualquier documento requerido en las bases;
 
 II. El incumplimiento de las condiciones legales, técnicas y económicas requeridas por la convocante;
 
-III. La consignación de datos sobre costos, precios o montos en alguno de los documentos de la propuesta técnica;
+III. Se acredite que la información o documentación proporcionada por los licitantes es falsa;
 
-IV. La ubicación del licitante en alguno de los supuestos señalados en el artículo 51 de la Ley, y
+IV. La ubicación del licitante en alguno de los supuestos señalados en los artículos 33, fracción XXIII, 51 y 78, penúltimo párrafo de la Ley;
 
-V. Las demás que, de acuerdo a las características, magnitud y complejidad de los trabajos a realizar, sean consideradas expresamente en las bases de licitación por las dependencias y entidades y que sean estrictamente necesarias para la evaluación de las propuestas o la realización de los trabajos.
+V. Las demás que, de acuerdo a las características, magnitud y complejidad de los trabajos a realizar, sean consideradas expresamente en las bases de licitación por las dependencias y entidades y que sean estrictamente necesarias para la evaluación de las proposiciones o la realización de los trabajos, y
+
+VI. Se compruebe que algún licitante ha acordado con otro u otros elevar los costos de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes.
 
 ###### Artículo 41.
 
@@ -799,17 +1127,23 @@ El pago de los gastos no recuperables se limitará a los siguientes conceptos:
 
 I. Costo de las bases de licitación;
 
-II. Costo de pasajes y hospedaje del personal que haya asistido a la visita al sitio de realización de los trabajos, a la junta de aclaraciones, a las etapas del acto de presentación y apertura de las proposiciones, al fallo de licitación, y a la firma del contrato, en el caso de que el licitante no resida en el lugar en que se realice el procedimiento;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-III. Costo de la preparación de la proposición que exclusivamente corresponderá al pago de honorarios del personal técnico, profesional y administrativo que participó en forma directa en la preparación de la propuesta; los materiales de oficina utilizados y el pago por la utilización del equipo de oficina y fotocopiado, y
+II. Costo de pasajes y hospedaje del personal que haya asistido a la visita al sitio de realización de los trabajos, a las juntas de aclaraciones, al acto de presentación y apertura de las proposiciones, al fallo de licitación, y a la firma del contrato, en el caso de que el licitante no resida en el lugar en que se realice el procedimiento;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+III. Costo de la preparación de la proposición que exclusivamente corresponderá al pago de honorarios del personal técnico, profesional y administrativo que participó en forma directa en la preparación de la proposición; los materiales de oficina utilizados y el pago por la utilización del equipo de oficina y fotocopiado, y
 
 IV. En su caso, el costo de la emisión de garantías.
 
 Cuando se presente alguna situación de caso fortuito o fuerza mayor, la convocante deberá abstenerse de realizar pago alguno por tal motivo.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 42.
 
-Cuando la Contraloría determine la nulidad total del procedimiento de contratación por causas imputables a la convocante en los términos del artículo 75 de la Ley, el pago de los gastos no recuperables se ajustará a los conceptos enunciados en el artículo anterior.
+Cuando la Secretaría de la Función Pública determine la nulidad total del procedimiento de contratación por causas imputables a la convocante en los términos del artículo 75 de la Ley, el pago de los gastos no recuperables se ajustará a los conceptos enunciados en el artículo anterior.
 
 ###### Artículo 43.
 
@@ -817,11 +1151,17 @@ Además de los supuestos previstos en el artículo 40 de la Ley, la convocante p
 
 I. Cuando ninguna persona adquiera las bases, y
 
-II. Cuando no se reciba alguna propuesta en el acto de presentación y apertura de proposiciones.
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-En estos supuestos se emitirá una segunda convocatoria, permitiendo la participación a todo interesado, incluso a quienes participaron en la licitación declarada desierta.
+II. Cuando no se reciba alguna proposición en el acto de presentación y apertura de proposiciones.
 
-Se considerará que los precios de las propuestas presentadas por los licitantes no son aceptables, cuando se propongan importes que no puedan ser pagados por las dependencias y entidades.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+En estos supuestos se emitirá una segunda convocatoria, permitiendo la participación a todo interesado, incluso a quienes participaron en la licitación declarada desierta, salvo que se opte por aplicar el supuesto previsto en la fracción VII del artículo 42 de la Ley.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Se considerará que los precios de las proposiciones presentadas por los licitantes no son aceptables, cuando se propongan importes que no puedan ser pagados por las dependencias y entidades.
 
 ### CAPÍTULO SEGUNDO. EXCEPCIONES A LA LICITACIÓN PÚBLICA
 
@@ -833,7 +1173,9 @@ I. Descripción general de los trabajos;
 
 II. El procedimiento de contratación seleccionado y la fundamentación del supuesto de excepción;
 
-III. Los criterios o razones que se tienen para justificar el ejercicio de la opción;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+III. El o los criterios o razones que se tienen para justificar el ejercicio de la opción;
 
 IV. Fecha probable de inicio de los trabajos y el plazo de ejecución de los mismos;
 
@@ -841,9 +1183,35 @@ V. Nombre y firma del titular del área responsable de la ejecución de los trab
 
 VI. El lugar y fecha de su emisión.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 45.
 
-Para los efectos de la fracción IV del artículo 42 de la Ley, se consideran fines militares aquellos que por su naturaleza estén destinados a realizar actividades que tengan íntima relación con las misiones generales del ejército, fuerza aérea y armada nacionales, de conformidad con lo dispuesto en sus respectivas leyes orgánicas, quedando excluidas aquéllas cuya naturaleza no tenga relación directa con los fines mencionados.
+Para los efectos de la fracción IV del artículo 42 de la Ley, se consideran fines militares o para la armada aquellos que por su naturaleza estén destinados a realizar actividades que tengan relación directa con las misiones generales del Ejército, Fuerza Aérea y Armada Nacionales, de conformidad con lo dispuesto en sus respectivas leyes orgánicas.
+
+En cuanto a la rescisión de contratos que refiere el artículo 42, fracción VI de la Ley, se podrá adjudicar el nuevo contrato atendiendo a la forma de adjudicación utilizada en el procedimiento de contratación inicial. En caso de haberse aplicado el mecanismo de adjudicación a que se refiere el artículo 37 A de este Reglamento, el contrato se adjudicará a la proposición inmediata inferior o superior que siga en puntaje de la que inicialmente resultó ganadora. Para el caso de que se haya realizado en términos del artículo 37 C de este Reglamento, el contrato podrá adjudicarse a aquel licitante que haya presentado la siguiente proposición solvente más baja. En ambos casos el precio ofertado no deberá ser superior al diez por ciento de la proposición ganadora.
+
+La contratación de servicios de consultorías, asesorías, estudios, investigaciones o capacitación, podrá realizarse mediante el procedimiento de invitación a cuando menos tres personas o por adjudicación directa, conforme a la fracción XI, del artículo 42 de la Ley, de acuerdo con lo siguiente:
+
+I. En la realización del procedimiento de invitación a cuando menos tres personas, se incluirá al menos una institución de educación superior, o bien, un centro de investigación establecido en el país, el cual deberá contar con experiencia sobre la materia vinculada a la consultoría, asesoría, estudio, investigación o capacitación que se requiere contratar.
+
+Cuando no existan instituciones o centros con las características indicadas en el párrafo anterior, deberá integrarse al expediente un escrito firmado por el titular del área solicitante, adjuntando las constancias que lo acrediten;
+
+II. Sólo cuando la información necesaria para la elaboración de la proposición, estuviere reservada en los términos establecidos en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, resultará procedente la autorización para que la contratación se realice mediante el procedimiento de adjudicación directa conforme a la fracción XI, del artículo 42 de la Ley, para lo cual deberá observarse lo siguiente:
+
+a. Del expediente cuya información se encuentre reservada, deberá relacionarse cada documento que, en su caso, se anexaría a las bases de la invitación a cuando menos tres personas, que el titular del área solicitante determine como necesaria para que los invitados puedan elaborar sus proposiciones;
+
+b. Deberá adjuntarse a la solicitud de adjudicación directa, copia de las carátulas elaboradas en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, firmadas por el servidor público respectivo, mediante las cuales se acredite que la información correspondiente se encuentra clasificada como reservada, y
+
+c. Una vez definida la procedencia del supuesto de información reservada, deberá justificarse fehacientemente en términos de la Ley, la selección del contratista que se propone para la adjudicación directa, con respecto a otros existentes.
+
+Igualmente, deberá presentarse el estudio específico por el cual se determine que el precio del servicio resulta conveniente;
+
+III. En la contratación de los servicios a que se refiere la fracción XI del artículo 42 de la Ley, en las bases de la invitación y en el contrato, invariablemente, deberán precisarse los entregables objeto de la contratación y, adicionalmente, en los contratos deberá indicarse el precio de cada uno de ellos;
+
+IV. Lo indicado en la fracción XI del referido artículo 42 de la Ley no resultará aplicable en los casos en que las dependencias y entidades realicen procedimientos de invitación a cuando menos tres personas, o de adjudicación directa, cuando el monto de la contratación de servicios de consultoría, asesoría, estudios, investigaciones o capacitación, se ubique en el supuesto previsto en el artículo 43 de la Ley, y
+
+V. No se podrá llevar a cabo la adjudicación directa de consultorías, asesorías, estudios, investigaciones o capacitación relacionados con obras públicas, en el supuesto a que se refiere la fracción X del artículo 42 de la Ley.
 
 ###### Artículo 46.
 
@@ -859,25 +1227,33 @@ En las contrataciones que pretendan llevar a cabo las entidades federativas en t
 
 En todo lo no previsto en los procedimientos de invitación a cuando menos tres personas, le serán aplicables, en lo procedente, las reglas que para la licitación pública prevé este Reglamento.
 
-La inasistencia del representante del órgano interno de control invitado, no será impedimento para continuar el procedimiento de invitación a cuando menos tres personas.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+La inasistencia del representante del órgano interno de control invitado, no será impedimento para continuar el procedimiento de invitación a cuando menos tres personas, siendo opcional para los licitantes su asistencia al acto.
 
 ### CAPÍTULO TERCERO. LA CONTRATACIÓN
 
 #### SECCIÓN I. EL CONTRATO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 49.
 
-El contrato además de cumplir con lo señalado en el artículo 46 de la Ley, deberá contener el programa de ejecución de los trabajos y el presupuesto respectivo, así como los anexos técnicos que incluirán, entre otros aspectos, los planos con sus modificaciones, especificaciones generales y particulares de construcción.
+El contrato además de cumplir con lo señalado en el artículo 46 de la Ley, deberá contener el programa de ejecución de los trabajos y el presupuesto respectivo, así como los anexos técnicos que incluirán, entre otros aspectos, los planos con sus modificaciones, especificaciones generales y particulares de construcción; asimismo, deberá establecerse el mecanismo de ajuste de costos que haya determinado la dependencia o entidad en las bases de licitación, cuando se trate de contratos celebrados en moneda extranjera, en términos de lo señalado en el artículo 153 A de este Reglamento.
 
 El área responsable de la contratación, una vez cumplido el plazo a que hace referencia el artículo 47 de la Ley para la firma del contrato deberá entregarle al contratista una copia firmada.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 50.
 
-Cuando la propuesta ganadora de la licitación haya sido presentada en forma conjunta por varias personas, el contrato deberá ser firmado por el representante de cada una de ellas, en forma conjunta y solidaria, identificando con precisión la parte de la obra que ejecutará cada uno, o la participación que tiene en el grupo. El convenio presentado en el acto de presentación y apertura de proposiciones formará parte integrante del contrato como uno de sus anexos.
+Cuando la proposición ganadora de la licitación haya sido presentada en forma conjunta por varias personas, el contrato deberá ser firmado por el representante de cada una de ellas, en forma conjunta y solidaria, identificando con precisión la parte de la obra que ejecutará cada uno, o la participación que tiene en el grupo. El convenio presentado en el acto de presentación y apertura de proposiciones formará parte integrante del contrato como uno de sus anexos.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 51.
 
-Cuando el contrato no fuera firmado por el licitante ganador, en los términos del artículo 47 de la Ley, y se trate de servicios que hayan considerado para su evaluación mecanismos de puntos y porcentajes, las dependencias o entidades podrán adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, en puntaje o porcentaje.
+Cuando el contrato no fuera firmado por el licitante ganador, en los términos del artículo 47 de la Ley, y se trate de servicios que hayan considerado para su evaluación mecanismos de puntos y porcentajes, las dependencias o entidades podrán adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente que siga en puntaje o porcentaje a la del ganador, y así sucesivamente en caso de que aquél no acepte la adjudicación.
 
 ###### Artículo 52.
 
@@ -891,29 +1267,43 @@ Los contratistas serán los únicos responsables de las obligaciones que adquier
 
 El contratista que decida ceder a favor de alguna persona sus derechos de cobro, deberá solicitar por escrito a la dependencia o entidad su consentimiento, la que resolverá lo procedente, en un término de quince días naturales contados a partir de su presentación.
 
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Cuando los contratistas requieran la cesión de derechos de cobro para adquirir algún financiamiento para la ejecución de los trabajos, las dependencias y entidades deberán reconocer los trabajos realizados hasta el momento de la solicitud, aún y cuando los conceptos de trabajo no se encuentren totalmente terminados.
+
 ###### Artículo 55.
 
 Si con motivo de la cesión de los derechos de cobro solicitada por el contratista se origina un retraso en el pago, no procederá el pago de gastos financieros a que hace referencia el artículo 55 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 56.
 
-Las penas convencionales se aplicarán por atrasos en las fechas establecidas en los programas de ejecución de los trabajos, de suministro o de utilización de los insumos, así como en la fecha de terminación de los trabajos pactada en el contrato. Lo anterior, sin perjuicio de que la dependencia o entidad opte por la rescisión del contrato.
+Las penas convencionales se aplicarán por atrasos en el cumplimiento de las fechas establecidas en el programa general de ejecución de los trabajos, así como por el atraso en el cumplimiento en la fecha de terminación de los trabajos pactada en el contrato. Lo anterior, sin perjuicio de que la dependencia o entidad opte por la rescisión del contrato.
 
-Las penalizaciones serán determinadas en función de la parte de los trabajos que no se hayan ejecutado o prestado oportunamente y se aplicarán sobre los montos del contrato, considerando los ajustes de costos y sin aplicar el Impuesto al Valor Agregado.
+Las penas serán determinadas en función del importe de los trabajos que no se hayan ejecutado o prestado oportunamente conforme al programa de ejecución general de los trabajos y se aplicarán considerando los ajustes de costos, sin aplicar el Impuesto al Valor Agregado, considerando para el cálculo de las mismas, el avance en la ejecución de los trabajos conforme a la fecha de corte para el pago de estimaciones pactada en el contrato.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 57.
 
-Las penas convencionales únicamente procederán cuando ocurran causas imputables al contratista; la determinación del atraso se realizará con base en las fechas parciales o de terminación, fijadas en el programa de ejecución convenido.
+Las penas convencionales únicamente procederán cuando ocurran causas imputables al contratista; la determinación del atraso se realizará con base en las fechas parciales o de terminación, fijadas en el programa de ejecución general de los trabajos convenido. No dará lugar a la aplicación de penas convencionales, el período en el cual se presente un caso fortuito o fuerza mayor durante la ejecución de trabajos.
 
-Las penas deberán establecerse atendiendo a las características, complejidad y magnitud de los trabajos a contratar, tipo de contrato, grados de avance y posibilidad de recepción parcial de los trabajos.
+Las penas deberán establecerse atendiendo a las características, complejidad y magnitud de los trabajos a contratar, tipo de contrato, grados de avance y posibilidad de establecer fechas de cumplimiento parcial de los trabajos.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 58.
 
-En el contrato se deberán pactar penalizaciones económicas a cargo de los contratistas que prevean posibles atrasos en los programas de ejecución de los trabajos, de suministro o de utilización de los insumos.
+Durante la vigencia del programa de ejecución general de los trabajos, las penas convencionales se aplicarán mediante retenciones económicas a las estimaciones que se encuentren en proceso en la fecha que se determine el atraso, mismas que el contratista podrá recuperar en las siguientes estimaciones si regulariza los tiempos de atraso conforme al citado programa, salvo que en el contrato se haya pactado que dichas penas no serán devueltas en caso de atraso en el cumplimiento de las fechas críticas pactadas conforme al programa de ejecución general de los trabajos.
 
-Las penalizaciones a que se refiere este artículo se aplicarán como una retención económica a la estimación que se encuentre en proceso en la fecha que se determine el atraso, misma que el contratista podrá recuperar, en las próximas estimaciones, si regulariza los tiempos de atraso señalados en los programas de ejecución, de suministro o de utilización de los insumos.
+Las retenciones económicas tendrán el carácter de definitivas, si a la fecha pactada de terminación de los trabajos, éstos no han sido concluidos.
 
-La aplicación de estas retenciones tendrá el carácter de definitiva, si a la fecha pactada de terminación de los trabajos, éstos no se han concluido.
+De existir retenciones definitivas a la fecha de terminación de los trabajos pactada en el contrato y quedaran trabajos pendientes de ejecutar, éstas seguirán en poder de la dependencia o entidad; la cantidad determinada por concepto de penas convencionales que se cuantifique a partir de la fecha de terminación del plazo, se hará efectiva contra el importe de las retenciones definitivas que haya aplicado la dependencia o entidad.
+
+De resultar saldo a favor del contratista por concepto de retenciones una vez concluida la totalidad de los trabajos y determinadas las penas convencionales, procederá su devolución de éste.
+
+Cuando la dependencia o entidad reintegre al contratista algún monto retenido, no se generará gasto financiero alguno.
 
 #### SECCIÓN II. GARANTÍAS
 
@@ -927,9 +1317,11 @@ La garantía de cumplimiento de las obligaciones derivadas del contrato, no podr
 
 Esta garantía deberá ser entregada a la dependencia o entidad en el primer ejercicio, dentro de los quince días naturales siguientes a la fecha en que reciba la notificación por escrito del fallo de la licitación, pero invariablemente antes de la firma del contrato; para ejercicios subsecuentes deberá ser entregada dentro de igual plazo, contado a partir de la fecha en que se notifique por escrito al contratista, el monto de la inversión autorizada.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 61.
 
-Cuando los trabajos se realicen en más de un ejercicio presupuestario, la garantía de cumplimiento deberá sustituirse en el o los siguientes ejercicios, por otra u otras equivalentes al importe de los trabajos faltantes por ejecutar, actualizando los importes de acuerdo con los ajustes de costos autorizados y modificaciones contractuales.
+Cuando los trabajos se realicen en más de un ejercicio presupuestario, la garantía de cumplimiento deberá sustituirse en el o los siguientes ejercicios en proporción al monto autorizado para el ejercicio presupuestal de que se trate, considerando los trabajos faltantes de ejecutar conforme al programa convenido actualizando los importes de acuerdo con los ajustes de costos autorizados y modificaciones contractuales.
 
 A petición del contratista, la dependencia o entidad podrá acceder a que no se sustituya la garantía otorgada en el primer ejercicio, siempre que continúe vigente y su importe mantenga la misma proporción que la del primer ejercicio, en relación con el valor actualizado de los trabajos faltantes por ejecutar en cada ejercicio subsiguiente.
 
@@ -1003,11 +1395,17 @@ Las modificaciones al plazo serán independientes a las modificaciones al monto,
 
 Cuando se realicen conceptos de trabajo al amparo de convenios en monto o plazo, dichos conceptos se deberán considerar y administrar independientemente a los originalmente pactados en el contrato, debiéndose formular estimaciones específicas, a efecto de tener un control y seguimiento adecuado.
 
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+En tales casos los conceptos contenidos en el contrato y los emitidos en cada uno de los convenios, pueden ir en la misma estimación, distinguiéndolos unos de otros, anexando la documentación que los soporte para efectos de pago.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 72.
 
-Cuando la modificación implique aumento o reducción por una diferencia superior al veinticinco por ciento del importe original del contrato o del plazo de ejecución, la dependencia o entidad junto con el contratista, podrán revisar los indirectos y el financiamiento originalmente pactados y determinar la procedencia de ajustarlos a las nuevas condiciones.
+Cuando la modificación implique aumento o reducción por una diferencia superior al veinticinco por ciento del importe original del contrato o del plazo de ejecución, la dependencia o entidad junto con el contratista, deberán revisar los indirectos y el financiamiento originalmente pactados y determinar la procedencia de ajustarlos a las nuevas condiciones en caso de que éstas se presenten.
 
-Los ajustes de ser procedentes deberán constar por escrito y a partir de la fecha de su autorización, deberán aplicarse a las estimaciones que se generen, los incrementos o reducciones que se presenten.
+Los ajustes de ser procedentes deberán constar por escrito y, una vez autorizados los incrementos o reducciones que resulten, se aplicarán a las estimaciones en que se generen o hayan generado.
 
 ###### Artículo 73.
 
@@ -1015,23 +1413,29 @@ Si el contratista concluye los trabajos en un plazo menor al establecido en el c
 
 La dependencia o entidad, dentro de los treinta días naturales siguientes a la presentación de la solicitud del contratista, emitirá el dictamen de resolución, de no hacerlo, la solicitud se tendrá por aceptada. El convenio, en su caso, deberá formalizarse dentro de los treinta días naturales siguientes a uno u otro suceso.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 74.
 
-Si durante la vigencia del contrato, el contratista se percata de la necesidad de ejecutar cantidades adicionales o conceptos no previstos en el catálogo original del contrato, deberá notificarlo a la dependencia o entidad de que se trate, para que ésta resuelva lo conducente; el contratista sólo podrá ejecutarlos una vez que cuente con la autorización por escrito o en la bitácora, por parte de la residencia de obra, salvo que se trate de situaciones de emergencia en las que no sea posible esperar su autorización.
+Si durante la ejecución de los trabajos, el contratista se percata de la necesidad de ejecutar cantidades adicionales o conceptos no previstos en el catálogo original del contrato, deberá notificarlo a la dependencia o entidad de que se trate, para que ésta resuelva lo conducente; el contratista sólo podrá ejecutarlos una vez que cuente con la autorización por escrito o en la bitácora, por parte de la residencia de obra, salvo que se trate de situaciones de emergencia en las que no sea posible esperar su autorización.
 
 La dependencia o entidad deberá asegurarse de contar con los recursos disponibles y suficientes dentro de su presupuesto autorizado. Por su parte, el contratista ampliará la garantía otorgada para el cumplimiento del contrato en la misma proporción sobre el monto del convenio.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 75.
 
-Cuando exista la necesidad de ejecutar trabajos por cantidades adicionales o conceptos no previstos en el catálogo original del contrato, se deberán aplicar a estos precios, los porcentajes de indirectos, costo por financiamiento y de utilidad convenidos en el contrato, salvo lo previsto en el artículo 72 de este Reglamento.
+Cuando exista la necesidad de ejecutar trabajos por cantidades adicionales o conceptos no previstos en el catálogo original del contrato, se deberán aplicar a estos precios, los porcentajes de indirectos, costo por financiamiento, cargo por utilidad y cargos adicionales convenidos en el contrato, salvo lo previsto en el artículo 72 de este Reglamento.
 
 ###### Artículo 76.
 
 Cuando la dependencia o entidad requieran de la ejecución de cantidades adicionales no previstas en el catálogo original del contrato, se haya formalizado o no el convenio, el contratista una vez ejecutados los trabajos, podrá elaborar sus estimaciones y presentarlas a la residencia de obra en la fecha de corte más cercana.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 77.
 
-Si durante la vigencia del contrato surge la necesidad de ejecutar trabajos por conceptos no previstos en el catálogo original del contrato, el contratista dentro de los treinta días naturales siguientes a que se ordene su ejecución, deberá presentar los análisis de precios correspondientes con la documentación que los soporte y apoyos necesarios para su revisión; su conciliación y autorización deberá realizarse durante los siguientes treinta días naturales a su presentación.
+Si durante la ejecución de los trabajos surge la necesidad de realizar trabajos por conceptos no previstos en el catálogo original del contrato, el contratista deberá presentar los análisis de precios correspondientes con la documentación que los soporte y apoyos necesarios para su revisión, a partir de que se ordene su ejecución y hasta los treinta días naturales siguientes a que se concluyan dichos trabajos; su conciliación y autorización deberá realizarse durante los siguientes treinta días naturales a su presentación.
 
 Para la determinación de los nuevos precios unitarios, las dependencias y entidades, junto con el contratista, procederán en el siguiente orden y manera, siendo cada alternativa excluyente de la anterior:
 
@@ -1039,7 +1443,9 @@ I. Hacerlo con base en los costos directos estipulados en el contrato y que sean
 
 II. Determinar los nuevos precios unitarios, a partir de los elementos contenidos en los análisis de los precios ya establecidos en el contrato;
 
-Para los efectos de esta fracción, los elementos a considerar se referirán a lo siguiente: los insumos con sus costos; los consumos y los rendimientos por unidad de obra en las mismas condiciones a las originales y los costos indirectos, de financiamiento y cargo por utilidad.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Para los efectos de esta fracción, los elementos a considerar se referirán a lo siguiente: los insumos con sus costos; los consumos y los rendimientos por unidad de obra en las mismas condiciones a las originales y los costos indirectos, de financiamiento, cargo por utilidad y cargos adicionales.
 
 La aplicación de estos elementos será la base para la determinación de los nuevos precios unitarios, debiendo considerar lo siguiente:
 
@@ -1049,7 +1455,9 @@ b. Cuando se requieran insumos que no estén contenidos en el contrato y el impo
 
 c. Para determinar los consumos y los rendimientos de un precio unitario para trabajos extraordinarios, se podrá tomar como base el análisis de un precio establecido en el contrato cuyo procedimiento constructivo sea similar, ajustando los consumos y rendimientos en función del grado de dificultad y alcance del nuevo precio, conservando la relación que guarden entre sí los consumos y los rendimientos en los análisis de precios unitarios de conceptos de trabajos existentes en el catálogo original.
 
-III. Cuando no fuera posible determinar el precio unitario en los términos de las fracciones anteriores, solicitarán al contratista que libremente presente una propuesta de conceptos y precios unitarios, estableciendo un plazo para ello, debiendo emitir el dictamen de resolución dentro de los treinta días naturales siguientes a aquél en que reciba la propuesta. El contratista deberá calcular el nuevo precio aplicando los costos de los insumos contenidos en los precios unitarios del contrato y para los que no estuvieran contenidos, propondrá los que haya investigado en el mercado, proporcionando los apoyos necesarios y conciliando éstos con la dependencia o entidad, considerando que los costos de los insumos deberán estar referidos a los presentados en el acto de presentación y apertura de proposiciones.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+III. Cuando no fuera posible determinar el precio unitario en los términos de las fracciones anteriores, solicitarán al contratista que libremente presente una propuesta de conceptos y precios unitarios, estableciendo un plazo para ello, debiendo emitir el dictamen de resolución dentro de los veinte días naturales siguientes a aquél en que reciba la propuesta. El contratista deberá calcular el nuevo precio aplicando los costos de los insumos contenidos en los precios unitarios del contrato y para los que no estuvieran contenidos, propondrá los que haya investigado en el mercado, proporcionando los apoyos necesarios y conciliando éstos con la dependencia o entidad, considerando que los costos de los insumos deberán estar referidos a los presentados en el acto de presentación y apertura de proposiciones.
 
 El contratista podrá determinar analíticamente los consumos y rendimientos para el nuevo precio unitario, tomando en cuenta la experiencia de su personal de construcción o los antecedentes aplicables de trabajos similares, conciliando con la dependencia o entidad, o
 
@@ -1063,11 +1471,15 @@ Estos documentos se enviarán al área evaluadora de precios unitarios con la mi
 
 En todos los casos, la dependencia o entidad deberá emitir por escrito al contratista, independiente de la anotación en bitácora, la orden de trabajo correspondiente. En tal evento, los conceptos, sus especificaciones y los precios unitarios quedarán incorporados al contrato, en los términos del documento que para tal efecto se suscriba.
 
-Si como resultado de la variación de las cantidades de obra originales, superior en más o menos, en un veinticinco por ciento del importe original del contrato, se requiere de la participación de maquinaria o equipo de construcción, mano de obra, materiales o procedimientos de construcción en condiciones distintas a las consideradas en los análisis de precios unitarios que sirvieron de base para adjudicar el contrato, dichos conceptos deberán analizarse como un concepto no previsto en el catálogo original del contrato.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Si como resultado de la variación de las cantidades de obra originales, se requiere de la participación de maquinaria o equipo de construcción, mano de obra, materiales o procedimientos de construcción en condiciones distintas a las consideradas en los análisis de precios unitarios que sirvieron de base para adjudicar el contrato, dichos conceptos deberán analizarse como un concepto no previsto en el catálogo original del contrato.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 78.
 
-Si por las características y complejidad de los precios unitarios no considerados en el catálogo original, no es posible su conciliación y autorización en el término señalado en el artículo anterior, las dependencias y entidades, previa justificación, podrán autorizar hasta por un plazo de cuarenta y cinco días naturales, el pago provisional de los costos directos de los insumos que efectivamente se hayan suministrado o utilizado en las obras, siempre que se cumplan las siguientes condiciones:
+Si por las características y complejidad de los precios unitarios no considerados en el catálogo original, no es posible su conciliación y autorización en el término señalado en el artículo anterior, las dependencias y entidades, previa justificación, podrán autorizar hasta por un plazo de sesenta días naturales, el pago provisional de los costos directos de los insumos que efectivamente se hayan suministrado o utilizado en las obras, siempre que se cumplan las siguientes condiciones:
 
 I. Que cuente con la autorización del residente de obra y del área encargada de los precios unitarios y, en su caso, del supervisor;
 
@@ -1083,9 +1495,13 @@ c. Cantidad de maquinaria o equipo de construcción utilizado en horas efectivas
 
 d. Cantidad o volumen de obra realizado durante la jornada.
 
-IV. Que una vez vencido el plazo de los cuarenta y cinco días, sin llegar a la conciliación, la dependencia o entidad determinará el precio extraordinario definitivo con base en lo observado en la fracción anterior; debiendo considerar los porcentajes de indirectos, financiamiento y utilidad pactados en el contrato, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-V. Que en el caso de que exista un pago en exceso, se deberá hacer el ajuste correspondiente en la siguiente estimación y se procederá de acuerdo con lo establecido en el artículo 55 de la Ley, sin responsabilidad alguna.
+IV. Que una vez vencido el plazo de los sesenta días, sin llegar a la conciliación, la dependencia o entidad determinará el precio extraordinario definitivo con base en lo observado en la fracción anterior; debiendo considerar los porcentajes de indirectos, financiamiento, utilidad y cargos adicionales, pactados en el contrato, y
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+V. Que en el caso de que exista un pago en exceso, se deberá hacer el ajuste correspondiente en la siguiente estimación o bien, en el finiquito, y se procederá de acuerdo con lo establecido en el último párrafo del artículo 55 de la Ley, sin responsabilidad alguna para las partes.
 
 En todos los casos se deberá notificar mensualmente al órgano interno de control los pagos autorizados y su monto total, las obras o contratos de que se trate, el importe definitivo de cada precio extraordinario y, en su caso, la existencia de pagos en exceso, señalando su monto.
 
@@ -1103,7 +1519,9 @@ II. El dictamen técnico y los documentos que justifiquen la celebración del co
 
 III. El objeto del convenio, anotando una descripción sucinta de las modificaciones que se van a realizar;
 
-IV. Un programa de ejecución valorizado mensualmente, que considere los conceptos que se realizarán durante su vigencia;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+IV. Un programa de ejecución valorizado de acuerdo a la periodicidad establecida para las estimaciones, que considere los conceptos que se realizarán durante su vigencia;
 
 V. La estipulación por la que las partes acuerdan que, con excepción a lo expresamente estipulado en el convenio, regirán todas y cada una de las cláusulas del contrato original;
 
@@ -1153,9 +1571,9 @@ IV. Vigilar que se cuente con los recursos presupuestales necesarios para realiz
 
 V. Dar apertura a la bitácora, la cual quedará bajo su resguardo, y por medio de ella dar las instrucciones pertinentes, y recibir las solicitudes que le formule el contratista;
 
-VI. Vigilar y controlar el desarrollo de los trabajos, en sus aspectos de calidad, costo, tiempo y apego a los programas de ejecución de los trabajos de acuerdo con los avances, recursos asignados, rendimientos y consumos pactados en el contrato.
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-Tratándose de rendimientos y producción de la maquinaria o equipo de construcción, se deberá vigilar que éstos cumplan con la cantidad de trabajo consignado por el contratista en los precios unitarios y los programas de ejecución pactados en el contrato, independientemente del número de máquinas o equipos que se requieran para su desarrollo.
+VI. Vigilar y controlar el desarrollo de los trabajos, en sus aspectos de calidad, costo, tiempo y apego a los programas de ejecución de los trabajos de acuerdo con los avances, recursos asignados, y rendimientos pactados en el contrato.
 
 Cuando el proyecto requiera de cambios estructurales, arquitectónicos, funcionales, de proceso, entre otros, deberá recabar por escrito las instrucciones o autorizaciones de los responsables de las áreas correspondientes;
 
@@ -1165,9 +1583,13 @@ VIII. Revisar, controlar y comprobar que los materiales, la mano de obra, la maq
 
 IX. Autorizar las estimaciones, verificando que cuenten con los números generadores que las respalden;
 
-X. Coordinar con los servidores públicos responsables, las terminaciones anticipadas o rescisiones de obras y, cuando procedan, las suspensiones de obra; debiéndose auxiliar de la dependencia o entidad para su formalización;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-XI. Tramitar, en su caso, los convenios modificatorios necesarios;
+X. Coordinar con los servidores públicos responsables, las terminaciones anticipadas o rescisiones de contratos y, cuando se justifique, las suspensiones de los trabajos; debiéndose auxiliar de la dependencia o entidad para su formalización;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XI. Solicitar y en su caso tramitar los convenios modificatorios necesarios;
 
 XII. Rendir informes periódicos, así como un informe final sobre el cumplimiento del contratista en los aspectos legales, técnicos, económicos, financieros y administrativos;
 
@@ -1175,13 +1597,17 @@ XIII. Autorizar y firmar el finiquito del contrato;
 
 XIV. Verificar la correcta conclusión de los trabajos, debiendo vigilar que la unidad que deba operarla reciba oportunamente el inmueble en condiciones de operación, los planos correspondientes a la construcción final, así como los manuales e instructivos de operación y mantenimiento y los certificados de garantía de calidad y funcionamiento de los bienes instalados;
 
-XV. Cuando exista un cambio sustancial al proyecto, a sus especificaciones o al contrato, el residente de obra presentará a la dependencia o entidad el problema con las alternativas de solución, en las que se analice factibilidad, costo y tiempo de ejecución, y establecerá la necesidad de prórroga, en su caso, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XV. Cuando exista la necesidad de realizar cambios al proyecto, a sus especificaciones o al contrato, el residente de obra presentará a la dependencia o entidad el problema a efecto de analizar las alternativas de solución, y determinar la factibilidad, costo, tiempo de ejecución y necesidad de prorrogar o modificar el contrato, y
 
 XVI. Las demás funciones que señalen las dependencias y entidades.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 85.
 
-La supervisión es el auxilio técnico de la residencia de obra, con las funciones que para tal efecto se señalan en este Reglamento, con independencia de los que, en su caso, se pacten en el contrato de supervisión.
+Atendiendo a las características, complejidad y magnitud de los trabajos el residente podrá auxiliarse técnicamente por la supervisión, que tendrá las funciones que se señalan en este Reglamento, con independencia de las que se pacten en el contrato de supervisión.
 
 ###### Artículo 86.
 
@@ -1209,7 +1635,9 @@ h. Manuales y garantía de la maquinaria y equipo;
 
 III. Vigilar la buena ejecución de la obra y transmitir al contratista en forma adecuada y oportuna las órdenes provenientes de la residencia de obra;
 
-IV. Registro diario en la bitácora de los avances y aspectos relevantes durante la obra;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+IV. Registro en la bitácora de los avances y aspectos relevantes durante la ejecución de la obra con la periodicidad que se establezca en el contrato;
 
 V. Celebrar juntas de trabajo con el contratista o la residencia de obra para analizar el estado, avance, problemas y alternativas de solución, consignando en las minutas los acuerdos tomados;
 
@@ -1230,6 +1658,14 @@ XII. Verificar la debida terminación de los trabajos dentro del plazo convenido
 XIII. Coadyuvar en la elaboración del finiquito de los trabajos, y
 
 XIV. Las demás que le señale la residencia de obra o la dependencia o entidad en los términos de referencia.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 86 A.- Cuando la supervisión sea realizada por terceros, las dependencias y entidades observarán las siguientes previsiones:
+
+I. Las funciones señaladas en este artículo, así como las que adicionalmente prevean las dependencias y entidades para cada caso particular, deberán ser congruentes con los términos de referencia respectivos y asentarse en el contrato que se suscriba, y
+
+II. Tanto en los términos de referencia, como en el contrato, deberán especificarse los productos o documentos esperados, así como su forma de presentación, entre los que se deberán contemplar informes con la periodicidad establecida por la convocante, que serán el respaldo de las estimaciones del servicio de supervisión, los cuales deben contemplar como mínimo: las variaciones del avance físico y financiero de la obra; los reportes de cumplimiento de los programas de suministro de materiales, mano de obra, maquinaria, y equipo; las minutas de trabajo; los cambios efectuados o por efectuar al proyecto; comentarios explícitos de las variaciones registradas en el periodo, en relación a los programas convenidos, así como la consecuencia o efecto de dichas variaciones para la conclusión oportuna de la obra y las acciones tomadas al respecto, y memoria fotográfica.
 
 ###### Artículo 87.
 
@@ -1257,19 +1693,31 @@ El contratista estará obligado a coadyuvar en la extinción de incendios compre
 
 El contratista tendrá la obligación de notificar al residente de obra la aparición de cualquier brote epidémico en la zona de los trabajos objeto del contrato y de coadyuvar de inmediato a combatirlo con los medios de que disponga. También enterará al residente de obra cuando se afecten las condiciones ambientales y los procesos ecológicos de la zona en que se realicen los trabajos.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 92.
 
-De las estimaciones que se cubran al contratista se le descontarán los derechos que, conforme a la Ley Federal de Derechos, procedan por la prestación del servicio de inspección, vigilancia y control de las obras y servicios que realiza la Contraloría.
+De las estimaciones que se cubran al contratista se le descontarán los derechos que, conforme a la Ley Federal de Derechos, procedan por la prestación del servicio de inspección, vigilancia y control de las obras y servicios que realiza la Secretaría de la Función Pública.
 
 #### SECCIÓN II. BITÁCORA
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 93.
 
-El uso de la bitácora es obligatorio en cada uno de los contratos de obras y servicios; debiendo permanecer en la residencia de obra, a fin de que las consultas requeridas se efectúen en el sitio, sin que la bitácora pueda ser extraída del lugar de los trabajos.
+El uso de la bitácora es obligatorio en cada uno de los contratos de obras y servicios. Su elaboración, control y seguimiento se hará por medios remotos de comunicación electrónica, conforme a las disposiciones de este Reglamento, así como las que emita la Secretaría de la Función Pública.
+
+La elaboración, control y seguimiento de la bitácora podrá llevarse por medios de comunicación convencional cuando las dependencias y entidades soliciten autorización a la Secretaría de la Función Pública, en aquellos casos en que por virtud del sitio donde se realicen los trabajos existan dificultades tecnológicas que impidan llevar la bitácora a través de medios remotos de comunicación electrónica.
+
+Asimismo, la Secretaría de la Función Pública podrá autorizar a las dependencias y entidades que realicen de manera ocasional obras y servicios, el uso de la bitácora por medios de comunicación convencional.
+
+La información contenida en la bitácora podrá ser consultada por la Secretaría de la Función Pública en el ejercicio de sus facultades de inspección vigilancia y control.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 94.
 
-La bitácora se ajustará a las necesidades de cada dependencia o entidad, y deberá considerar como mínimo lo siguiente:
+La bitácora se ajustará por las dependencias y entidades atendiendo al medio de comunicación a través del cual se opere, y deberá considerar en lo aplicable, como mínimo lo siguiente:
 
 I. Las hojas originales y sus copias deben estar siempre foliadas y estar referidas al contrato de que se trate;
 
@@ -1279,15 +1727,21 @@ III. Las copias deberán ser desprendibles no así las originales, y
 
 IV. El contenido de cada nota deberá precisar, según las circunstancias de cada caso: número, clasificación, fecha, descripción del asunto, y en forma adicional ubicación, causa, solución, prevención, consecuencia económica, responsabilidad si la hubiere, y fecha de atención, así como la referencia, en su caso, a la nota que se contesta.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 95.
 
-Las dependencias y entidades así como el contratista deberán observar las siguientes reglas generales para el uso de la bitácora:
+Para el uso de la bitácora, las dependencias y entidades así como el contratista deberán observar, atendiendo al medio de comunicación a través del cual se opere, las siguientes reglas generales:
 
-I. Se deberá iniciar con una nota especial relacionando como mínimo la fecha de apertura, datos generales de las partes involucradas, nombre y firma del personal autorizado, domicilios y teléfonos, datos particulares del contrato y alcances descriptivos de los trabajos y de las características del sitio donde se desarrollarán, así como la inscripción de los documentos que identifiquen oficialmente al personal técnico que estará facultado como representante de la contratante y del contratista, para la utilización de la bitácora, indicando a quién o a quiénes se delega esa facultad;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+I. Se deberá iniciar con una nota especial relacionando como mínimo la fecha de apertura, datos generales de las partes involucradas, nombre y firma del personal autorizado, domicilios y teléfonos, datos particulares del contrato y alcances descriptivos de los trabajos y de las características del sitio donde se desarrollarán; la inscripción de los documentos que identifiquen oficialmente al residente de obra y en su caso al supervisor, así como al superintendente por parte de la contratista, quienes serán los responsables para realizar registros en la bitácora, indicando, en su caso, a quién o a quiénes se autoriza para llevar a cabo dichos registros;
 
 II. Todas las notas deberán numerarse en forma seriada y fecharse consecutivamente respetando, sin excepción, el orden establecido;
 
-III. Las notas o asientos deberán efectuarse claramente, con tinta indeleble, letra de molde legible y sin abreviaturas;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+III. Las notas o asientos deberán efectuarse claramente, con tinta indeleble y letra legible;
 
 IV. Cuando se cometa algún error de escritura, de intención o redacción, la nota deberá anularse por quien la emita, abriendo de inmediato otra nota con el número consecutivo que le corresponda y con la descripción correcta;
 
@@ -1301,7 +1755,9 @@ VIII. Una vez firmadas las notas de la bitácora, los interesados podrán retira
 
 IX. Cuando se requiera, se podrán validar oficios, minutas, memoranda y circulares, refiriéndose al contenido de los mismos, o bien, anexando copias;
 
-X. El compromiso es de ambas partes y no puede evadirse esta responsabilidad. Asimismo, deberá utilizarse la bitácora para asuntos trascendentes que deriven del objeto de los trabajos en cuestión;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+X. Deberá utilizarse la bitácora para asuntos trascendentes que deriven de la ejecución de los trabajos en cuestión;
 
 XI. Todas las notas deberán quedar cerradas y resueltas, o especificarse que su solución será posterior, debiendo en este último caso, relacionar la nota de resolución con la que le dé origen, y
 
@@ -1315,13 +1771,29 @@ I. Horario en el que se podrá consultar y asentar notas, el que deberá coincid
 
 II. Establecer un plazo máximo para la firma de las notas, debiendo acordar las partes que se tendrán por aceptadas vencido el plazo;
 
-III. Prohibir la modificación de las notas ya firmadas, así sea por el responsable de la anotación original, y
+III. Prohibir la modificación de las notas ya firmadas, así sea por el responsable de la anotación original, y (sic)
 
-IV. Regular la autorización y revisión de estimaciones, números generadores, cantidades adicionales o conceptos no previstos en el contrato, así como lo relativo a las normas de seguridad, higiene y protección al ambiente que deban implementarse.
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+IV. Establecer la obligación de asentar en la bitácora los aspectos relativos a la revisión y autorización de estimaciones, números generadores, cantidades adicionales o conceptos no previstos en el contrato, así como lo relacionado a las normas de seguridad, higiene y protección al ambiente que deban implementarse;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+V. En los casos en que la elaboración, control y seguimiento de la bitácora se realice por medios de comunicación convencionales en los términos del segundo párrafo del artículo 93 del presente Reglamento, ésta deberá permanecer en la residencia de obra, a fin de que las consultas requeridas se efectúen en el sitio, sin que la bitácora pueda ser extraída del lugar de los trabajos.
 
 ###### Artículo 97.
 
 Por lo que se refiere a contratos de servicios, la bitácora deberá contener como mínimo las modificaciones autorizadas a los alcances del contrato, las ampliaciones o reducciones de los mismos y los resultados de las revisiones que efectúe la dependencia o entidad, así como las solicitudes de información que tenga que hacer el contratista, para efectuar las labores encomendadas.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 97 A.- La elaboración, control y seguimiento de la bitácora por medios remotos de comunicación electrónica requerirá:
+
+I. La existencia del programa informático relativo para el uso de la bitácora, el cual será autorizado por la Secretaría de la Función Pública y deberá garantizar la inalterabilidad de la información que se registre.
+
+II. El medio de identificación electrónica, y
+
+III. La certificación del medio de identificación electrónica.
 
 #### SECCIÓN III. LA FORMA DE PAGO
 
@@ -1339,6 +1811,10 @@ Los importes una vez analizados y calculados deberán considerar para su pago lo
 
 El contratista será el único responsable de que las facturas que se presenten para su pago, cumplan con los requisitos administrativos y fiscales, por lo que el atraso en su pago por la falta de alguno de éstos o por su presentación incorrecta, no será motivo para solicitar el pago de los gastos financieros a que hace referencia el artículo 55 de la Ley.
 
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 99 A.- Las dependencias y entidades que no estén en posibilidad de dar al contratista la opción de efectuar los pagos a través de medios de comunicación electrónica, deberán justificarlo ante el órgano interno de control.
+
 ###### Artículo 100.
 
 En los contratos de obras y servicios únicamente se reconocerán los siguientes tipos de estimaciones:
@@ -1348,6 +1824,10 @@ I. De trabajos ejecutados;
 II. De pago de cantidades adicionales o conceptos no previstos en el catálogo original del contrato, y
 
 III. De gastos no recuperables a que alude el artículo 62 de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Las estimaciones autorizadas por la residencia de obra, se considerarán como instrumento autónomo que podrá ser negociado para efectos de su pago.
 
 ###### Artículo 101.
 
@@ -1385,13 +1865,15 @@ Cuando las características, magnitud y complejidad de los trabajos que se vayan
 
 Las fechas claves o hitos, deberán ser congruentes con la red de actividades, la cédula de avances y pagos programados y en general con los programas de ejecución pactados.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 105.
 
-El pago de los ajustes de costos en los contratos sólo procederá para los contratos a base de precios unitarios o la parte de los mixtos de esta naturaleza. Cuando el porcentaje del ajuste de los costos sea al alza, será el contratista quien lo promueva; si es a la baja, será la dependencia o entidad quien lo realice.
+El pago de los ajustes de costos en los contratos sólo procederá para los contratos a base de precios unitarios o la parte de los mixtos de esta naturaleza. Cuando el porcentaje del ajuste de los costos sea al alza, será el contratista quien lo promueva dentro de los sesenta días naturales siguientes a la publicación de los índices aplicables al período que los mismos indiquen; si es a la baja, será la dependencia o entidad quien lo realice en igual plazo.
 
-Los contratistas dentro de los sesenta días naturales siguientes a la publicación de los índices aplicables al periodo que los mismos indiquen, deberán presentar por escrito la solicitud de ajuste de costos a la dependencia o entidad. En el contrato se estipulará que transcurrido dicho plazo, precluye el derecho del contratista para reclamar el pago.
+Cuando los contratistas promuevan el ajuste de costos, deberán presentar por escrito la solicitud respectiva a la dependencia o entidad en términos de lo dispuesto por los artículos 148 y 152 de este Reglamento. En el contrato se estipulará que transcurrido dicho plazo, precluye el derecho del contratista para reclamar el ajuste de costos del período de que se trate; para estos casos se deberá considerar para el pago de la estimación correspondiente, el último porcentaje de ajuste que se tenga autorizado.
 
-La dependencia o entidad dentro de los sesenta días naturales siguientes a la recepción de la solicitud, deberá emitir por escrito la resolución que proceda. En caso contrario, la solicitud se tendrá por aprobada.
+La dependencia o entidad dentro de los sesenta días naturales siguientes a la recepción de la solicitud del contratista, deberá emitir por escrito la resolución que proceda. En caso contrario, la solicitud se tendrá por aprobada.
 
 ###### Artículo 106.
 
@@ -1415,9 +1897,11 @@ El pago del anticipo podrá realizarse en una sola exhibición o en varias parci
 
 Para determinar el porcentaje de los anticipos que se otorgarán, las dependencias y entidades deberán tener en cuenta las características, complejidad y magnitud de los trabajos, los que tendrán por objeto el apoyar la debida ejecución y continuidad de las obras y servicios.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 109.
 
-El importe de los anticipos que se otorguen a los contratistas será el que resulte de aplicar el porcentaje señalado en la convocatoria y en las bases de licitación, al monto total de la propuesta, si los trabajos se realizan en un solo ejercicio. Cuando los trabajos se realicen en más de un ejercicio, el monto se obtendrá aplicando el porcentaje señalado a la asignación presupuestaria aprobada para el contrato en el ejercicio de que se trate.
+El importe de los anticipos que se otorguen con base en los contratos de obras o de servicios, será el que resulte de aplicar el porcentaje señalado en la convocatoria y en las bases de licitación, al monto total de la proposición, si los trabajos se realizan en un solo ejercicio. Cuando los trabajos se realicen en más de un ejercicio, el monto se obtendrá aplicando el porcentaje señalado a la asignación presupuestaria aprobada para el contrato en el ejercicio de que se trate.
 
 ###### Artículo 110.
 
@@ -1429,9 +1913,11 @@ El importe del anticipo se pondrá a disposición del contratista contra la entr
 
 Cuando el contratista no ejerza el anticipo otorgado en la forma pactada en el contrato, las dependencias y entidades no podrán exigirle cargo alguno.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 112.
 
-Para los efectos de la Ley y este Reglamento, una vez autorizado el anticipo correspondiente al contrato de que se trate, las dependencias y entidades deberán considerarlo como un importe pagado.
+Para los efectos de la Ley y este Reglamento, una vez autorizado el anticipo correspondiente al contrato de que se trate, o bien, al convenio modificatorio respectivo, las dependencias y entidades deberán considerarlo como un importe pagado.
 
 ###### Artículo 113.
 
@@ -1475,7 +1961,9 @@ Tratándose de suspensión de trabajos el pago de gastos no recuperables se limi
 
 I. Las rentas de equipo o, si resulta más barato, los fletes del retiro y regreso del mismo a la obra;
 
-II. Hasta un dos por ciento de los costos directos para los conceptos de trabajo programados y que no fueron ejecutados durante el periodo de la suspensión. En ningún caso, el monto aplicado podrá ser mayor al determinado por el contratista para los indirectos de las oficinas centrales en su propuesta;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+II. Hasta un dos por ciento de los costos directos para los conceptos de trabajo programados y que no fueron ejecutados durante el periodo de la suspensión. En ningún caso, el monto aplicado podrá ser mayor al determinado por el contratista para los indirectos de las oficinas centrales en su proposición;
 
 III. La plantilla de veladores y personal de conservación y vigilancia de las instalaciones y obras, asignados durante la suspensión;
 
@@ -1503,7 +1991,9 @@ IV. Declaración de los motivos que dieron origen a la suspensión;
 
 V. Una relación pormenorizada de la situación legal, administrativa, técnica y económica en la que se encuentren los trabajos o la parte que se vaya a suspender, debiendo hacer constancia del personal y equipo que se retira y del que se autoriza su permanencia, de acuerdo con el programa de ejecución convenido;
 
-VI. El tiempo de duración de la suspensión. Cuando la reanudación de los trabajos esté ligada a un hecho o acto de realización cierta pero de fecha indeterminada, el periodo de la suspensión estará sujeto a la actualización de ese evento;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+VI. El tiempo de duración de la suspensión. Cuando la reanudación de los trabajos esté ligada a un hecho o acto de realización cierta pero de fecha indeterminada, el periodo de la suspensión estará sujeto a la actualización de ese evento, sin perjuicio de que se pueda optar por la terminación anticipada;
 
 VII. Señalar las acciones que seguirá la dependencia o entidad, las que deberán asegurar los bienes y el estado de los trabajos, así como procurar la conclusión de los mismos;
 
@@ -1579,7 +2069,9 @@ Para la elaboración del finiquito del contrato que se haya dado por terminado a
 
 La rescisión administrativa de los contratos deberá ser el último medio que las dependencias y entidades utilicen, ya que en todos los casos, previamente, deberán promover la ejecución total de los trabajos y el menor retraso posible.
 
-En el caso de rescisión, las dependencias y entidades optarán por aplicar retenciones o penas convencionales antes de iniciar el procedimiento de rescisión, cuando el incumplimiento del contrato derive del atraso en la ejecución de los trabajos.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Las dependencias y entidades optarán por aplicar retenciones o penas convencionales antes de iniciar el procedimiento de rescisión, cuando el incumplimiento del contrato derive del atraso en la ejecución de los trabajos.
 
 ###### Artículo 125.
 
@@ -1589,9 +2081,11 @@ Cuando la dependencia o entidad sea la que determine rescindir un contrato, dich
 
 Cuando se obtenga la resolución judicial que determine la rescisión del contrato por incumplimiento de alguna de las obligaciones, imputables a la dependencia o entidad, se estará a lo que resuelva la autoridad judicial.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 127.
 
-Las dependencias y entidades procederán a la rescisión administrativa del contrato cuando se presente alguna de las siguientes causas:
+Las dependencias y entidades, sin perjuicio de lo dispuesto por el artículo 124 de este Reglamento, rescindirán administrativamente el contrato cuando se presente alguna de las siguientes causas:
 
 I. Si el contratista, por causas imputables a él, no inicia los trabajos objeto del contrato dentro de los quince días siguientes a la fecha convenida sin causa justificada conforme a la Ley y este Reglamento;
 
@@ -1601,9 +2095,13 @@ III. Si no ejecuta los trabajos de conformidad con lo estipulado en el contrato 
 
 IV. Si no da cumplimiento a los programas de ejecución por falta de materiales, trabajadores o equipo de construcción y, que a juicio de la dependencia o entidad, el atraso pueda dificultar la terminación satisfactoria de los trabajos en el plazo estipulado.
 
-No implicará retraso en el programa de ejecución de la obra y, por tanto, no se considerará como incumplimiento del contrato y causa de su rescisión, cuando el atraso tenga lugar por la falta de información referente a planos, especificaciones o normas de calidad, de entrega física de las áreas de trabajo y de entrega oportuna de materiales y equipos de instalación permanente, de licencias, y permisos que deba proporcionar o suministrar la contratante, así como cuando la dependencia o entidad hubiere ordenado la suspensión de los trabajos;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-V. Si es declarado en concurso mercantil en los términos de la Ley de Concursos Mercantiles;
+No implicará retraso en el programa de ejecución de la obra y, por tanto, no se considerará como incumplimiento del contrato y causa de su rescisión, cuando el atraso tenga lugar por la falta de pago de estimaciones, o la falta de información referente a planos, especificaciones o normas de calidad, de entrega física de las áreas de trabajo y de entrega oportuna de materiales y equipos de instalación permanente, de licencias, y permisos que deba proporcionar o suministrar la contratante, así como cuando la dependencia o entidad hubiere ordenado la suspensión de los trabajos;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+V. Si el contratista es declarado o sujeto a concurso mercantil o alguna figura análoga;
 
 VI. Si subcontrata partes de los trabajos objeto del contrato, sin contar con la autorización por escrito de la dependencia o entidad;
 
@@ -1622,6 +2120,10 @@ Las dependencias y entidades, atendiendo a las características, magnitud y comp
 ###### Artículo 128.
 
 En la notificación que las dependencias y entidades realicen al contratista respecto del inicio del procedimiento de rescisión, se señalarán los hechos que motivaron la determinación de dar por rescindido el propio contrato, relacionándolos con las estipulaciones específicas que se consideren han sido incumplidas.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Iniciado el procedimiento de rescisión y antes de su conclusión, las dependencias y entidades podrán, a su juicio, suspender el trámite del procedimiento de rescisión, cuando se hubiere iniciado un procedimiento de conciliación respecto del contrato materia de la rescisión.
 
 ###### Artículo 129.
 
@@ -1655,6 +2157,10 @@ X. Constancia de que el contratista entregó toda la documentación necesaria pa
 
 La determinación de dar por rescindido administrativamente el contrato, no podrá ser revocada o modificada por la propia dependencia o entidad.
 
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+En el caso de que se determine no rescindir el contrato, se reprogramarán los trabajos una vez notificada la resolución correspondiente.
+
 ###### Artículo 131.
 
 Las dependencias y entidades podrán, junto con el contratista, dentro del finiquito, conciliar los saldos derivados de la rescisión con el fin de preservar los intereses de las partes.
@@ -1675,21 +2181,31 @@ IV. En el caso de que existan fabricantes o proveedores que tengan la posesión 
 
 El sobrecosto es la diferencia entre el importe que le representaría a la dependencia o entidad concluir con otro contratista los trabajos pendientes, y el costo de la obra no ejecutada al momento de rescindir el contrato.
 
-El sobrecosto que se determine al elaborar el finiquito, será independiente de las garantías, penas convencionales y demás cargos que deban considerarse en la rescisión administrativa.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Al elaborar el finiquito derivado de la rescisión administrativa, la dependencia o entidad podrá optar entre aplicar el sobrecosto o las penas convencionales, independientemente de las garantías, y demás cargos que procedan. En tal caso, la opción que se adopte atenderá a la que depare el menor perjuicio a la dependencia o entidad contratante, debiéndose fundamentar y motivar la decisión.
 
 ###### Artículo 134.
 
 Para la determinación del sobrecosto y su importe, las dependencias y entidades procederán conforme a lo siguiente:
 
-I. Cuando la dependencia o entidad rescinda un contrato y exista una propuesta solvente susceptible de adjudicarse en los términos que señala la fracción VI del artículo 42 de la Ley, el sobrecosto será la diferencia entre el precio de la siguiente propuesta más baja y el importe de la obra no ejecutada conforme al programa vigente, aplicando los ajustes de costos que procedan, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-II. Cuando una propuesta no sea susceptible de adjudicarse en los términos señalados en la fracción anterior, la determinación del sobrecosto deberá reflejar el impacto inflacionario en el costo de la obra no ejecutada conforme al programa vigente, hasta el momento en que se notifique la rescisión, calculado conforme al procedimiento de ajustes de costos pactado en el contrato, debiendo agregarse un importe equivalente al diez por ciento de los trabajos faltantes por ejecutar.
+I. Cuando la dependencia o entidad rescinda un contrato y exista una proposición solvente susceptible de adjudicarse en los términos que señala la fracción VI del artículo 42 de la Ley, el sobrecosto será la diferencia entre el precio de dicha proposición y el importe de la obra no ejecutada conforme al programa vigente, aplicando los ajustes de costos que procedan, y
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+II. Cuando una proposición no sea susceptible de adjudicarse en los términos señalados en la fracción anterior, la determinación del sobrecosto deberá reflejar el impacto inflacionario en el costo de la obra no ejecutada conforme al programa vigente, hasta el momento en que se notifique la rescisión, calculado conforme al procedimiento de ajustes de costos pactado en el contrato, debiendo agregarse un importe equivalente al diez por ciento de los trabajos faltantes por ejecutar.
 
 #### SECCIÓN VIII. LA RECEPCIÓN DE LOS TRABAJOS
 
 ###### Artículo 135.
 
 Para iniciar el procedimiento de recepción de los trabajos, el contratista a través de la bitácora o por oficio, deberá notificar la terminación de los trabajos, para lo cual anexará los documentos que lo soporten e incluirá una relación de las estimaciones o de gastos aprobados, monto ejercido y créditos a favor o en contra.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Las dependencias y entidades, dentro de un plazo no mayor de quince días naturales a partir del día siguiente en que reciban la notificación a que se refiere el párrafo anterior, iniciarán el procedimiento de recepción de los trabajos.
 
 ###### Artículo 136.
 
@@ -1698,6 +2214,10 @@ Si durante la verificación de los trabajos, la dependencia o entidad encuentra 
 En este caso, el plazo de verificación de los trabajos pactado en el contrato se podrá prorrogar por el periodo que acuerden las partes para la reparación de las deficiencias.
 
 Lo anterior, sin perjuicio de que la dependencia o entidad opte por la rescisión del contrato.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Las reparaciones de las deficiencias a que alude este artículo no podrán consistir en la ejecución total de conceptos de trabajo faltantes por realizar; en este caso, no se procederá a la recepción y se considerará que la obra no fue concluida en el plazo convenido.
 
 ###### Artículo 137.
 
@@ -1733,9 +2253,11 @@ Las dependencias y entidades, para dar por terminados, parcial o totalmente, los
 
 Una vez elaborado el finiquito de los trabajos, la dependencia o entidad dará por terminado el contrato correspondiente, dejando únicamente subsistentes las acciones que deriven del finiquito, así como la garantía que se contempla en el artículo 66 de la Ley, por lo que no será factible que el contratista presente reclamación alguna de pago con posterioridad a su formalización.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 140.
 
-La dependencia o entidad deberá notificar al contratista, a través de su representante legal o su superintendente de construcción, la fecha, lugar y hora en que se llevará a cabo el finiquito; los contratistas tendrán la obligación de acudir al llamado que se haga por escrito, en caso contrario, se procederá a su elaboración en el plazo y la forma que para el efecto se hubiere determinado en el contrato, debiendo comunicar su resultado conforme lo establece el tercer párrafo del artículo 64 de la Ley.
+La dependencia o entidad deberá notificar al contratista, a través de su representante legal o su superintendente de construcción, la fecha, lugar y hora en que se llevará a cabo el finiquito, la cual deberá quedar comprendida dentro de un plazo que no podrá exceder de sesenta días naturales contados a partir de la fecha en que se realice la recepción física de los trabajos. Los contratistas tendrán la obligación de acudir al llamado que se haga por escrito; de no hacerlo, se les comunicará el resultado conforme lo establece el tercer párrafo del artículo 64 de la Ley.
 
 ###### Artículo 141.
 
@@ -1753,11 +2275,21 @@ V. Periodo de ejecución de los trabajos, precisando la fecha de inicio y termin
 
 VI. Relación de las estimaciones, indicando cómo fueron ejecutados los conceptos de trabajo en cada una de ellas, y los gastos aprobados, debiendo describir cada uno de los créditos a favor y en contra de cada una de las partes, señalando los conceptos generales que les dieron origen y su saldo resultante, así como la fecha, lugar y hora en que serán liquidados;
 
-VII. Datos de la estimación final;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-VIII. Constancia de entrega de la garantía por defectos y vicios ocultos de los trabajos y cualquier otra responsabilidad en que hubieren incurrido, y
+VII. Las razones que justifiquen la aplicación de penas convencionales o del sobrecosto;
 
-IX. La declaración, en su caso, de que el contratista extiende el más amplio finiquito que en derecho proceda, renunciando a cualquier acción legal que tenga por objeto reclamar cualquier pago relacionado con el contrato.
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+VIII. Datos de la estimación final;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+IX. Constancia de entrega de la garantía por defectos y vicios ocultos de los trabajos y cualquier otra responsabilidad en que hubieren incurrido, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+X. La declaración, en su caso, de que el contratista extiende el más amplio finiquito que en derecho proceda, renunciando a cualquier acción legal que tenga por objeto reclamar cualquier pago relacionado con el contrato.
 
 Cuando la liquidación de los saldos se realice dentro de los quince días naturales siguientes a la firma del finiquito, el documento donde conste el finiquito podrá utilizarse como el acta administrativa que da por extinguidos los derechos y obligaciones de las partes en el contrato, debiendo agregar únicamente una manifestación de las partes de que no existen otros adeudos y por lo tanto se darán por terminados los derechos y obligaciones que genera el contrato respectivo, sin derecho a ulterior reclamación, al no ser factible el pago indicado, se procederá a elaborar el acta administrativa prevista en el último párrafo del artículo 64 de la Ley.
 
@@ -1785,27 +2317,37 @@ V. Manifestación de las partes de que no existen adeudos y, por lo tanto, de qu
 
 #### SECCIÓN I. GENERALIDADES
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 144.
 
-La autorización del ajuste de costos deberá efectuarse mediante el oficio de resolución que acuerde el aumento o reducción correspondiente, en consecuencia, no se requiere de la formalización de convenio alguno.
+La autorización del ajuste de costos, en moneda nacional, deberá efectuarse mediante el oficio de resolución que acuerde el aumento o reducción correspondiente, en consecuencia, no se requiere de la formalización de convenio alguno.
 
-El procedimiento de ajuste de costos no podrá ser modificado durante la vigencia del contrato.
+El procedimiento de ajuste de costos en moneda nacional no podrá ser modificado durante la vigencia del contrato, salvo en el caso de que se haya determinado el procedimiento previsto en la fracción III del artículo 57 de la Ley.
+
+El ajuste de costos en moneda extranjera se sujetará a los artículos 33, fracción VI de la Ley y 153 A de este Reglamento.
 
 ###### Artículo 145.
 
 Los índices base que servirán para el cálculo de los ajustes de costos en el contrato, serán los que correspondan a la fecha del acto de presentación y apertura de proposiciones.
 
-Los precios originales de los insumos considerados por el licitante, deberán ser los que prevalezcan al momento de la presentación y apertura de las propuestas y no podrán modificarse o sustituirse por ninguna variación que ocurra entre la fecha de su presentación y el último día del mes del ajuste.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Los precios originales de los insumos considerados por el licitante, deberán ser los que prevalezcan al momento de la presentación y apertura de las proposiciones y no podrán modificarse o sustituirse por ninguna variación que ocurra entre la fecha de su presentación y el último día del mes en el que se presentó.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 146.
 
-Para los efectos del tercer párrafo de la fracción I del artículo 58 de la Ley, y con el objeto de actualizar los precios de la propuesta a la fecha de inicio de los trabajos, el contratista podrá solicitar, por una sola ocasión, la determinación de un primer factor de ajuste de costos, el cual deberá calcularse conforme al procedimiento de ajuste que se haya establecido en las bases de licitación y en el contrato correspondiente, debiendo sujetarse a lo establecido en este capítulo. Este factor de actualización no deberá afectarse por la entrega de anticipos. Esto no aplicará en las obras o servicios que inicien dentro de los treinta días naturales siguientes a la presentación de las propuestas.
+Para los efectos del tercer párrafo de la fracción I del artículo 58 de la Ley, y con el objeto de actualizar los precios de la proposición a la fecha de inicio de los trabajos, el contratista podrá solicitar, por una sola ocasión, la determinación de un primer factor de ajuste, el cual deberá calcularse conforme al procedimiento de ajuste que se haya establecido en las bases de licitación y en el contrato correspondiente, debiendo sujetarse a lo establecido en este capítulo. Este factor de actualización no deberá afectarse por la entrega de anticipos. Esto no aplicará en las obras o servicios que inicien dentro de los treinta días naturales siguientes a la presentación de las proposiciones.
 
 Las dependencias y entidades, previa justificación, autorizarán dicho factor, el que será aplicado a cada estimación y repercutirá durante todo el ejercicio del contrato, independientemente de los ajustes de costos que le sucedan.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 147.
 
-Si al inicio de los trabajos contratados o durante el periodo de ejecución de los mismos se otorga algún anticipo, el o los importes de ajustes de costos deberán afectarse en un porcentaje igual al de los anticipos concedidos.
+Si al inicio de los trabajos contratados o durante el periodo de ejecución de los mismos se otorga algún anticipo, el o los importes de ajustes de costos deberán afectarse en un porcentaje igual al del anticipo concedido.
 
 #### SECCIÓN II. CÁLCULO DE LOS AJUSTES DE COSTOS
 
@@ -1815,31 +2357,43 @@ Para la revisión de cada uno de los precios que intervienen en el cálculo de l
 
 I. La relación de los índices nacionales de precios productor con servicios que determine el Banco de México o, en su caso, los índices investigados por las dependencias y entidades los que deberán ser proporcionados al contratista;
 
-II. El presupuesto de los trabajos pendientes de ejecutar, de acuerdo al programa convenido, en el periodo en el cual se produzca el incremento en los costos, valorizado con los precios unitarios del contrato;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-III. El presupuesto de los trabajos pendientes de ejecutar, de acuerdo al programa convenido, en el periodo en el cual se produzca el incremento en los costos, valorizado con los precios unitarios del contrato, ajustados conforme a lo señalado en la fracción III del artículo 58 de la Ley;
+II. El presupuesto de los trabajos pendientes de ejecutar, de acuerdo al programa convenido, determinado a partir del inicio del periodo en el cual se produzca el incremento en los costos, valorizado con los precios unitarios del contrato;
 
-IV. El programa de ejecución de los trabajos pendientes por ejecutar, acorde al programa que se tenga convenido;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+III. El presupuesto de los trabajos pendientes de ejecutar, de acuerdo al programa convenido, determinado a partir del inicio del periodo en el cual se produzca el incremento en los costos, valorizado con los precios unitarios del contrato, ajustados conforme a lo señalado en la fracción III del artículo 58 de la Ley;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+IV. El programa de ejecución de los trabajos pendientes por ejecutar, acorde al programa que se tenga convenido, a partir del inicio del periodo en el cual se produzca el incremento en los costos;
 
 V. El análisis de la determinación del factor de ajuste, y
 
 VI. Las matrices de precios unitarios actualizados que determinen conjuntamente el contratista y la dependencia o entidad, en función de los trabajos a realizar en el periodo de ajuste.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 149.
 
-En el procedimiento que establece la fracción I del artículo 57 de la Ley, para la determinación de los ajustes de costos, se deberán precisar las cantidades que se encuentran pendientes de ejecutar, conforme al programa convenido.
+En el procedimiento que establece la fracción I del artículo 57 de la Ley, para la determinación de los ajustes de costos, se deberán precisar las cantidades que se encuentran pendientes de ejecutar, conforme al programa convenido a partir del inicio del periodo en el cual se produzca el incremento en los costos.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 150.
 
-El ajuste de costos, tratándose del procedimiento que señala la fracción I del artículo 57 de la Ley, se podrá determinar utilizando las matrices de cálculo de los análisis de precios unitarios de los trabajos no ejecutados del contrato, conforme al programa convenido, en los que se sustituyan los costos básicos de cada insumo del costo directo, actualizados con los índices aplicables de los publicados por el Banco de México.
+El ajuste de costos, tratándose del procedimiento que señala la fracción I del artículo 57 de la Ley, se podrá determinar utilizando las matrices de cálculo de los análisis de precios unitarios de los trabajos no ejecutados del contrato, conforme al programa convenido, a partir del inicio del periodo en el cual se produzca el incremento en los costos, en los que se sustituyan los costos básicos de cada insumo del costo directo, actualizados con los índices aplicables de los publicados por el Banco de México.
 
 ###### Artículo 151.
 
 El procedimiento que establece la fracción II del artículo 57 de la Ley, se desarrollará de la misma forma enunciada en el artículo anterior, con la salvedad de que solamente se analizará un grupo de precios que representen cuando menos el ochenta por ciento del importe total faltante del contrato, conforme al programa convenido.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 152.
 
-Las dependencias y entidades podrán utilizar el procedimiento establecido en la fracción III del artículo 57 de la Ley, sólo en aquellos trabajos donde el proceso constructivo sea uniforme o repetitivo en todo el desarrollo de los trabajos, debiendo contar con proyectos, especificaciones de construcción y normas de calidad típicas, inamovibles y aplicables a todos los trabajos que se vayan a ejecutar.
+Las dependencias y entidades podrán utilizar el procedimiento establecido en la fracción III del artículo 57 de la Ley, en aquellos trabajos donde el proceso constructivo sea uniforme o repetitivo en todo el desarrollo de los trabajos, debiendo contar con proyectos, especificaciones de construcción y normas de calidad típicas, inamovibles y aplicables a todos los trabajos que se vayan a ejecutar.
 
 En este supuesto, las dependencias y entidades podrán optar por agrupar aquellos contratos cuyos trabajos que, por su similitud y características, les sea aplicable el procedimiento mencionado.
 
@@ -1853,15 +2407,17 @@ El ajuste por los incrementos o decrementos de los insumos correspondientes a lo
 
 I. Se establecerá el porcentaje de participación de los materiales, la mano de obra y la maquinaria y equipo de construcción de todos los precios unitarios que intervienen en cada tipo de obra;
 
-II. Se determinará el promedio de los índices aplicables a los insumos que intervienen en los precios unitarios del tipo de obra analizado, dividiendo el promedio de índices de esos insumos en el periodo de ajuste, entre el promedio de índices de esos mismos insumos en el periodo que corresponda a la fecha de presentación de proposiciones y apertura técnica;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+II. Se determinará el promedio de los índices aplicables a los insumos que intervienen en los precios unitarios del tipo de obra analizado, dividiendo el promedio de índices de esos insumos en el periodo de ajuste, entre el promedio de índices de esos mismos insumos en el periodo que corresponda a la fecha de presentación y apertura de proposiciones;
 
 El porcentaje de incremento o decremento se obtendrá con la siguiente expresión:
 
-I = (Pm x Am ) + ( Po x Ao) + ( Pq x Aq) + . . . + ( Pi x Ai )
+I = (Pm x Am ) + ( Po x Ao) + ( Pq x Aq) +... + ( Pi x Ai )
 
 Siempre que:
 
-Pm + Po + Pq + . . . + Pi = 1
+Pm + Po + Pq +... + Pi = 1
 
 Donde:
 
@@ -1869,23 +2425,47 @@ I = Factor de incremento en el periodo en estudio por ajuste de costos, expresad
 
 Pm = Porcentaje de participación de los materiales con respecto al costo directo, expresado en fracción decimal.
 
-Am = Cociente de índices promedio en el periodo de ajuste entre el promedio de índices en el periodo que corresponda a la fecha de presentación de proposiciones y apertura de la propuesta técnica, de los materiales que intervienen en el tipo de obra de que se trate.
+Am = Cociente de índices promedio en el periodo de ajuste entre el promedio de índices en el periodo que corresponda a la fecha de presentación y apertura de proposiciones, de los materiales que intervienen en el tipo de obra de que se trate.
 
 Po = Porcentaje de participación de la mano de obra con respecto al costo directo, expresado en fracción decimal.
 
-Ao = Cociente de índices promedio en el periodo de ajuste entre el promedio de índices en el periodo que corresponda a la fecha de presentación de proposiciones y apertura de la propuesta técnica, de la mano de obra que interviene en el tipo de obra de que se trate.
+Ao = Cociente de índices promedio en el periodo de ajuste entre el promedio de índices en el periodo que corresponda a la fecha de presentación y apertura de proposiciones, de la mano de obra que interviene en el tipo de obra de que se trate.
 
 Pq = Porcentaje de participación de la maquinaria y equipo de construcción con respecto al costo directo, expresado en fracción decimal.
 
-Aq = Cociente de índices promedio en el periodo de ajuste entre el promedio de índices en el periodo que corresponda a la fecha de presentación de proposiciones y apertura de la propuesta técnica, de la maquinaria y equipo de construcción que interviene en la obra tipo de que se trate.
+Aq = Cociente de índices promedio en el periodo de ajuste entre el promedio de índices en el periodo que corresponda a la fecha de presentación y apertura de proposiciones, de la maquinaria y equipo de construcción que interviene en la obra tipo de que se trate.
 
 Pi = Porcentaje de participación de algún otro insumo específico de que se trate en el costo directo, expresado en fracción decimal.
 
-Ai = Cociente de índices promedio en el periodo de ajuste, entre el promedio de índices en el periodo que corresponda a la fecha de presentación de proposiciones y apertura de la propuesta técnica, de algún otro insumo específico que interviene en la obra tipo de que se trate.
+Ai = Cociente de índices promedio en el periodo de ajuste, entre el promedio de índices en el periodo que corresponda a la fecha de presentación y apertura de proposiciones, de algún otro insumo específico que interviene en la obra tipo de que se trate.
 
 Según las características, complejidad y magnitud de los trabajos ejecutados, la dependencia o entidad podrá adicionar o sustraer a la expresión anterior los sumandos que se requieran, conforme a los diversos elementos que intervengan en el tipo de obra de que se trate. Cada uno de los términos de las expresiones se podrá subdividir, a fin de agrupar los insumos similares, y
 
 III. Las dependencias y entidades deberán oír a la Cámara Mexicana de la Industria de la Construcción para calcular los porcentajes de participación para los diferentes trabajos que se ejecuten, los cuales tomarán en cuenta los antecedentes de obras similares realizadas por la dependencia o entidad, o bien, los que presenten los contratistas dentro de la información técnica que se solicita a los mismos en las bases de licitación.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 153 A.- Tratándose de contratos a precios unitarios o la parte de los mixtos de la misma naturaleza que se celebren en moneda extranjera en términos del artículo 33, fracción VI de la Ley, el mecanismo de ajuste de costos que prevean las dependencias y entidades en las bases de licitación y en el contrato se sujetará a las siguientes reglas:
+
+I. El procedimiento de ajuste podrá ser seleccionado entre los que establece el artículo 57 de la Ley, o bien, el que determinen las dependencias y entidades;
+
+II. Tratándose de insumos y mano de obra nacionales deberá reconocerse el diferencial que resulte entre el índice del insumo o salario correspondiente a la mano de obra nacional y el tipo de cambio de la moneda extranjera que corresponda;
+
+III. La revisión y ajuste podrá resultar en incremento o decremento en el importe total del contrato;
+
+IV. La revisión del ajuste de los precios pactados, se realizará de acuerdo con la periodicidad en que se publiquen los índices que determinen las dependencias y entidades; asimismo, establecerán la forma y términos en que se realizará la solicitud del ajuste de costos y se emitirá la resolución que proceda;
+
+V. La fecha base o inicial que servirá para el cálculo de los ajustes de costos, será la que corresponda al acto de presentación y apertura de proposiciones;
+
+VI. Los índices de precios o de referencia de los insumos aplicables para el cálculo del ajuste, deberán provenir preferentemente de publicaciones oficiales, o de otras que se seleccionen con criterios de oportunidad, confiabilidad, imparcialidad y disponibilidad;
+
+VII. El porcentaje máximo de ajuste podrá ser determinado por la dependencia o entidad, tomando como referencia el promedio de los índices y salarios a utilizar en el mecanismo de ajuste vigentes en los últimos dos años previos a la publicación de la convocatoria o invitación, proyectados por el período de ejecución y conclusión de los trabajos;
+
+VIII. El ajuste a reconocer será el que resulte menor de la aplicación del mecanismo y el porcentaje máximo de ajuste a que se refiere el inciso h) anterior, y
+
+IX. A las demás disposiciones que establezca la Secretaría de la Función Pública.
+
+El monto del anticipo será objeto de ajuste hasta la fecha de su entrega al contratista, por lo que a partir de ésta sólo será ajustado el saldo correspondiente.
 
 ### CAPÍTULO SEXTO. ANÁLISIS, CÁLCULO E INTEGRACIÓN DE LOS PRECIOS UNITARIOS
 
@@ -1897,9 +2477,11 @@ Para los efectos de la Ley y este Reglamento, se considerará como precio unitar
 
 El precio unitario se integra con los costos directos correspondientes al concepto de trabajo, los costos indirectos, el costo por financiamiento, el cargo por la utilidad del contratista y los cargos adicionales.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 155.
 
-Los precios unitarios que formen parte de un contrato o convenio para la ejecución de obras o servicios deberán analizarse, calcularse e integrarse tomando en cuenta los criterios que se señalan en la Ley y en este Reglamento.
+Los precios unitarios que formen parte de un contrato o convenio para la ejecución de obras o servicios deberán analizarse, calcularse e integrarse tomando en cuenta los criterios que se señalan en la Ley y en este Reglamento, así como en las especificaciones establecidas por las dependencias y entidades en las bases de licitación.
 
 La enumeración de los costos y cargos mencionados en este capítulo para el análisis, cálculo e integración de precios unitarios, tiene por objeto cubrir en la forma más amplia posible, los recursos necesarios para realizar cada concepto de trabajo.
 
@@ -1923,9 +2505,11 @@ II. Precios unitarios por cantidades adicionales o por conceptos no previstos en
 
 #### SECCIÓN II. EL COSTO DIRECTO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 159.
 
-El costo directo por mano de obra es el que se deriva de las erogaciones que hace el contratista por el pago de salarios reales al personal que interviene directamente en la ejecución del concepto de trabajo de que se trate, incluyendo al primer mando, entendiéndose como tal hasta la categoría de cabo o jefe de una cuadrilla de trabajadores. No se considerarán dentro de este costo, las percepciones del personal técnico, administrativo, de control, supervisión y vigilancia que corresponden a los costos indirectos.
+El costo directo por mano de obra es el que se deriva de las erogaciones que hace el contratista por el pago de salarios reales al personal que interviene en la ejecución del concepto de trabajo de que se trate, incluyendo al primer mando, entendiéndose como tal hasta la categoría de cabo o jefe de una cuadrilla de trabajadores. No se considerarán dentro de este costo, las percepciones del personal técnico, administrativo, de control, supervisión y vigilancia que corresponden a los costos indirectos.
 
 El costo de mano de obra se obtendrá de la expresión:
 
@@ -2013,6 +2597,8 @@ Donde:
 
 En el caso de que la descripción del concepto del precio unitario, especifique una marca como referencia, deberá incluirse la posibilidad de presentar productos similares, entendiendo por éstos, aquellos materiales que cumplan como mínimo con las mismas especificaciones técnicas, de calidad, duración y garantía de servicio que la marca señalada como referencia.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 163.
 
 El costo directo por maquinaria o equipo de construcción es el que se deriva del uso correcto de las máquinas o equipos adecuados y necesarios para la ejecución del concepto de trabajo, de acuerdo con lo estipulado en las normas de calidad y especificaciones generales y particulares que determine la dependencia o entidad y conforme al programa de ejecución convenido.
@@ -2023,7 +2609,7 @@ El costo por maquinaria o equipo de construcción, se obtiene de la expresión:
 
 Phm
 
-ME = -------
+ME = ---------
 
 Rhm
 
@@ -2033,11 +2619,15 @@ Donde:
 
 "Phm" Representa el costo horario directo por hora efectiva de trabajo de la maquinaria o equipo de construcción, considerados como nuevos; para su determinación será necesario tomar en cuenta la operación y uso adecuado de la máquina o equipo seleccionado, de acuerdo con sus características de capacidad y especialidad para desarrollar el concepto de trabajo de que se trate. Este costo se integra con costos fijos, consumos y salarios de operación, calculados por hora efectiva de trabajo.
 
-"Rhm" Representa el rendimiento horario de la máquina o equipo, considerados como nuevos, dentro de su vida económica, en las condiciones específicas del trabajo a ejecutar, en las correspondientes unidades de medida, el que debe de corresponder a la cantidad de unidades de trabajo que la máquina o equipo ejecuta por hora efectiva de operación, de acuerdo con rendimientos que determinen los manuales de los fabricantes respectivos, así como, las características ambientales de la zona donde vayan a realizarse los trabajos.
+"Rhm" Representa el rendimiento horario de la máquina o equipo, considerados como nuevos, dentro de su vida económica, en las condiciones específicas del trabajo a ejecutar, en las correspondientes unidades de medida, el que debe de corresponder a la cantidad de unidades de trabajo que la máquina o equipo ejecuta por hora efectiva de operación, de acuerdo con rendimientos que determinen en su caso los manuales de los fabricantes respectivos, la experiencia del contratista, así como, las características ambientales de la zona donde vayan a realizarse los trabajos.
+
+Para el caso de maquinaria o equipos de construcción que no sean fabricados en línea o en serie y que por su especialidad tengan que ser rentados, el costo directo de éstos podrá ser sustituido por la renta diaria de equipo sin considerar consumibles ni operación.
 
 ###### Artículo 164.
 
 Los costos fijos, son los correspondientes a depreciación, inversión, seguros y mantenimiento.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 165.
 
@@ -2055,7 +2645,7 @@ Donde:
 
 “D” Representa el costo horario por depreciación de la maquinaria o equipo de construcción.
 
-"Vm" Representa el valor de la máquina o equipo considerado como nuevo en la fecha de presentación y apertura de la propuesta técnica, descontando el precio de las llantas y de los equipamientos, accesorios o piezas especiales, en su caso.
+"Vm" Representa el valor de la máquina o equipo considerado como nuevo en la fecha de presentación y apertura de proposiciones, descontando el precio de las llantas y de los equipamientos, accesorios o piezas especiales, en su caso.
 
 "Vr" Representa el valor de rescate de la máquina o equipo que el contratista considere recuperar por su venta, al término de su vida económica.
 
@@ -2087,7 +2677,11 @@ Donde:
 
 "i" Representa la tasa de interés anual expresada en fracción decimal.
 
-Los contratistas para sus análisis de costos horarios considerarán a su juicio las tasas de interés "i", debiendo proponer la tasa de interés que más les convenga, la que deberá estar referida a un indicador económico específico y estará sujeta a las variaciones de dicho indicador. Su actualización se hará como parte de los ajustes de costos, sustituyendo la nueva tasa de interés en las matrices de cálculo del costo horario.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Los contratistas para sus análisis de costos horarios considerarán a su juicio las tasas de interés "i", debiendo proponer la tasa de interés que más les convenga, la que deberá estar referida a un indicador económico específico y estará sujeta a las variaciones de dicho indicador, considerando en su caso los puntos que como sobrecosto por el crédito le requiera una institución crediticia. Su actualización se hará como parte de los ajustes de costos, sustituyendo la nueva tasa de interés en las matrices de cálculo del costo horario.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 167.
 
@@ -2095,11 +2689,11 @@ El costo por seguros, es el que cubre los riesgos a que está sujeta la maquinar
 
 Este costo se obtiene con la siguiente expresión:
 
-> <small>(F. DE E., D.O.F. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(F. DE E., D.O.F. 11 DE ENERO DE 2007)</small>
 
-(Vm + Vr) s
+(Vm + Vr)s
 
-Sm - ------------------------
+Sm = ------------------
 
 2Hea
 
@@ -2113,7 +2707,7 @@ Donde:
 
 "Hea" Representa el número de horas efectivas que la máquina o el equipo trabaja durante el año.
 
-Los contratistas para sus estudios y análisis de costo horario considerarán la prima anual promedio de seguros, la que deberá estar referida a un indicador específico del mercado de seguros.
+Los contratistas para sus estudios y análisis de costo horario considerarán la prima anual promedio de seguros.
 
 ###### Artículo 168.
 
@@ -2187,7 +2781,7 @@ Este costo se obtiene con la siguiente expresión:
 
 Pn
 
-N = -------
+N = ----------
 
 Vn
 
@@ -2227,7 +2821,7 @@ Este costo se obtendrá mediante la expresión:
 
 Sr
 
-Po = -------
+Po = --------
 
 Ht
 
@@ -2413,7 +3007,9 @@ II. Cuando no se entreguen los anticipos durante el primer trimestre de cada eje
 
 Para el análisis, cálculo e integración del porcentaje del costo por financiamiento se deberá considerar lo siguiente:
 
-I. Que la calendarización de egresos esté acorde con el programa de ejecución de los trabajos y el plazo indicado en la propuesta del contratista;
+> <small>(REFORMADA, D.O.F. DE 29 DE NOVIEMBRE DE 2006)</small>
+
+I. Que la calendarización de egresos esté acorde con el programa de ejecución de los trabajos y el plazo indicado en la proposición del contratista;
 
 II. Que el porcentaje del costo por financiamiento se obtenga de la diferencia que resulte entre los ingresos y egresos, afectado por la tasa de interés propuesta por el contratista, y dividida entre el costo directo más los costos indirectos;
 
@@ -2431,11 +3027,15 @@ b. Los anticipos para compra de maquinaria o equipo e instrumentos de instalaci�
 
 c. En general, cualquier otro gasto requerido según el programa de ejecución.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 186.
 
-Las dependencias y entidades para reconocer en el costo por financiamiento las variaciones de la tasa de interés que el contratista haya considerado en su propuesta, deberán considerar lo siguiente:
+Las dependencias y entidades para reconocer en el costo por financiamiento las variaciones de la tasa de interés que el contratista haya considerado en su proposición, deberán considerar lo siguiente:
 
-I. El contratista deberá fijar la tasa de interés con base en un indicador económico específico, la cual permanecerá constante en la integración de los precios; la variación de la tasa, a la alza o a la baja, dará lugar al ajuste del porcentaje del costo por financiamiento, considerando la variación entre los promedios mensuales de tasas de interés, entre el mes en que se presente la propuesta del contratista, con respecto al mes que se efectúe su revisión;
+REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)
+
+I. El contratista deberá fijar la tasa de interés con base en un indicador económico específico, considerando en su caso los puntos que como sobrecosto por el crédito le requiera una institución crediticia, la cual permanecerá constante en la integración de los precios; la variación de la tasa, a la alza o a la baja, dará lugar al ajuste del porcentaje del costo por financiamiento, considerando la variación entre los promedios mensuales de tasas de interés, entre el mes en que se presente la proposición del contratista, con respecto al mes que se efectúe su revisión;
 
 II. Las dependencias y entidades reconocerán la variación en la tasa de interés propuesta por el contratista, de acuerdo con las variaciones del indicador económico específico a que esté sujeta;
 
@@ -2463,9 +3063,11 @@ Este cargo, deberá considerar las deducciones correspondientes al impuesto sobr
 
 #### SECCIÓN VI. LOS CARGOS ADICIONALES
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 189.
 
-Los cargos adicionales son las erogaciones que debe realizar el contratista, por estar convenidas como obligaciones adicionales o porque derivan de un impuesto o derecho que se cause con motivo de la ejecución de los trabajos y que no forman parte de los costos directos e indirectos y por financiamiento, ni del cargo por utilidad.
+Los cargos adicionales son las erogaciones que debe realizar el contratista, por estar convenidas como obligaciones adicionales que se aplican después de la utilidad del precio unitario porque derivan de un impuesto o derecho que se cause con motivo de la ejecución de los trabajos y que no forman parte de los costos directos e indirectos y por financiamiento, ni del cargo por utilidad.
 
 Unicamente quedarán incluidos, aquellos cargos que deriven de ordenamientos legales aplicables o de disposiciones administrativas que emitan autoridades competentes en la materia, como impuestos locales y federales y gastos de inspección y supervisión.
 
@@ -2479,9 +3081,11 @@ Estos cargos deberán adicionarse al precio unitario después de la utilidad, y 
 
 Cuando las características, magnitud y complejidad de los trabajos que se vayan a realizar lo requieran, las dependencias y entidades en los contratos a precio alzado, para efecto de medición y de pago, podrán dividir los trabajos en actividades principales de obra, en cuyo caso la responsabilidad del contratista subsistirá hasta la total terminación de los trabajos. Esta disposición no será aplicable a los proyectos de infraestructura productiva de largo plazo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 191.
 
-Para los efectos de la Ley y este Reglamento, se deberá entender como actividad principal de obra, el conjunto de acciones que deben ser ejecutadas totalmente en un periodo y por un monto establecido por el licitante en su propuesta, en congruencia con las bases de licitación y determinadas por las unidades de medida paramétrica general definidas en las propias bases y en el contrato.
+Para los efectos de la Ley y este Reglamento, se deberá entender como actividad principal de obra, el conjunto de acciones que deben ser ejecutadas totalmente en un periodo y por un monto establecido por el licitante en su proposición, en congruencia con las bases de licitación y determinadas por las unidades de medida general definidas en las propias bases y en el contrato.
 
 Las actividades a desarrollar en los contratos a precio alzado, en todos los casos, deberán referirse a acciones generales, debiendo ser coincidentes entre sí y congruentes con la red de actividades, la cédula de avances y pagos programados y el programa de ejecución, principalmente en lo que se refiere a la duración, holguras y plazo de inicio y término de cada actividad.
 
@@ -2530,6 +3134,36 @@ VI. Procedimiento constructivo, y
 VII. Presupuesto de obra.
 
 Tratándose de servicios contratados a precio alzado le serán aplicables, en lo procedente, las disposiciones de este capítulo.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 197 A.- Las dependencias y entidades podrán reconocer la contratación y pago de trabajos no considerados en los alcances de los contratos de obra celebrados a precio alzado, cuando se trate de trabajos extraordinarios requeridos por una necesidad de incrementar a los originalmente contratados, que se consideren necesarios para su seguimiento y conclusión, siempre y cuando se presenten los siguientes supuestos:
+
+I. Se trate de trabajos que sean provocados por factores ajenos a la dependencia o entidad contratantes o al contratista; por cambios motivados por avances tecnológicos que incidan sustancialmente en la operación de las obras e instalaciones o por incrementar la eficacia o seguridad de las mismas;
+
+II. Se trate de trabajos que no estén incluidos en los alcances del contrato a precio alzado, ni tengan por objeto modificar o subsanar omisiones o errores del contratista en el proyecto ejecutivo contratado o incumplimientos de éste, y
+
+III. Se trate de trabajos en los que sea posible determinar los volúmenes, cantidades, costos y alcances de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 197 B.- Para que sea factible el reconocimiento de los trabajos extraordinarios no considerados en los alcances de los contratos a precio alzado a que se refiere el artículo anterior, la contratación de los mismos por las dependencias y entidades operará siempre y cuando:
+
+I. Se emita un dictamen por el responsable de la ejecución de los trabajos en la dependencia o entidad, por el cual se fundamente y motive técnicamente la necesidad de su realización;
+
+II. Que dichos trabajos se incluyan en un contrato de obra a base de precios unitarios y tiempo determinado, y
+
+III. Que la formalización del contrato se realice por adjudicación directa al mismo contratista, sujeto a las formalidades previstas para los procedimientos de excepción que establecen los artículos 41, 42 y 43 de la Ley.
+
+El pago de los trabajos relativos quedará sujeto a la disponibilidad presupuestaria del ejercicio fiscal de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 197 C.- Para efectos de medición y pago, de los trabajos contratados a precio alzado, las dependencias y entidades reprogramarán las actividades principales de obras, a efecto de compensar las actividades no realizadas pero contempladas en el programa original del proyecto, por las no incluidas en dicho programa pero si ejecutadas, sin que esto implique la modificación al monto o plazo originalmente pactados.
+
+Para tal efecto, será necesario que tal situación se pacte en un convenio que se levante en los términos de lo dispuesto en el artículo 79 de este Reglamento, en el que se reprogramen las actividades, sin que se modifiquen el monto y el plazo, en el que se consignen los motivos fundados para realizarlos, señalando expresamente que no se formula dicho convenio para cubrir incumplimientos del contratista.
+
+Cuando los trabajos ejecutados no correspondan a los alcances, la cantidad o los volúmenes requeridos en las bases de licitación, en las especificaciones del contrato o en la propuesta del contratista adjudicado, las dependencias y entidades contratantes realizarán descuentos o deductivas al monto inicialmente convenido en el contrato original a precio alzado o en la parte del mixto de la misma naturaleza, salvo que, a la conclusión de los trabajos contratados, se acredite por la dependencia o entidad y el contratista que, atendiendo a las características, complejidad y magnitud de los trabajos, así como a las bases de licitación, se alcanzaron los objetivos y finalidad de las obras o servicios contratados.
 
 ### CAPÍTULO OCTAVO. CONTRATOS MIXTOS
 
@@ -2581,11 +3215,15 @@ En los contratos deberá establecerse expresamente la forma y los plazos de pago
 
 A los procedimientos de contratación y ejecución de los servicios les serán aplicables, en lo procedente, las disposiciones establecidas en la Ley y este Reglamento.
 
-#### SECCIÓN II. INTEGRACIÓN Y EVALUACIÓN DE LA PROPUESTA
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+#### SECCIÓN II. INTEGRACIÓN Y EVALUACIÓN DE LA PROPOSICIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 205.
 
-Las propuestas de servicios podrán contener los siguientes documentos, los que podrán adecuarse atendiendo a las características, complejidad y magnitud de los servicios:
+Las proposiciones de servicios podrán contener los siguientes documentos, los que podrán adecuarse atendiendo a las características, complejidad y magnitud de los servicios:
 
 A. Tratándose de la parte técnica:
 
@@ -2613,7 +3251,9 @@ IX. Los demás documentos requeridos por la convocante en las bases.
 
 B. Tratándose de la parte económica:
 
-I. Cuando se trate de servicios que consideren precios unitarios, el catálogo de conceptos, conteniendo descripción, unidades de medición, cantidades de trabajo, precios unitarios con número y letra e importes parciales y totales de la propuesta, debiendo presentar una relación de conceptos de trabajo más significativos, de los cuales deberán presentar análisis;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+I. Cuando se trate de servicios que consideren precios unitarios, el catálogo de conceptos, conteniendo descripción, unidades de medición, cantidades de trabajo, precios unitarios con número y letra e importes parciales y totales de la proposición, debiendo presentar una relación de conceptos de trabajo más significativos, de los cuales deberán presentar análisis;
 
 II. Cuando se trate de servicios a base de precio alzado, red de actividades, cédula de avances y de pagos programados, calendarizados y cuantificados mensualmente por actividades a ejecutar y programa de ejecución general de los trabajos;
 
@@ -2631,9 +3271,13 @@ b. Personal que se propone para proporcionar los servicios, indicando la especia
 
 VII. Los demás documentos requeridos por la convocante en las bases.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 206.
 
-Las dependencias y entidades para realizar la evaluación legal, técnica y económica de las propuestas que presenten los licitantes para la ejecución de un servicio, deberán considerar, además de los criterios que establece la Ley y este Reglamento, las características técnicas, especialidades, grado de complejidad y magnitud de los trabajos, metodología, transferencia de conocimientos o tecnología, plazos y programas de ejecución propuestos y la formación y experiencia del personal clave asignado directamente a la ejecución de los servicios, los que deberán definirse en las bases de licitación, sobre todo si se considera la utilización de puntos y porcentajes.
+Las dependencias y entidades realizarán la evaluación legal, técnica y económica de las proposiciones que presenten los licitantes para la ejecución de un servicio, de conformidad con los criterios establecidos en la Ley y este Reglamento y, además, deberán considerar las características técnicas, especialidades, grado de complejidad y magnitud de los trabajos, metodología, transferencia de conocimientos o tecnología, plazos y programas de ejecución propuestos y la formación y experiencia del personal clave asignado directamente a la ejecución de los servicios, inclusive en la utilización del mecanismo de puntos y porcentajes, en los términos que se prevean en las bases de licitación.
+
+Cuando las dependencias y entidades opten por la utilización del mecanismo de puntos y porcentajes, la evaluación legal de las proposiciones se efectuará verificando el cumplimiento de las condiciones legales requeridas por las convocantes en las bases del procedimiento de contratación, en términos del tercer párrafo del artículo 38 de la Ley.
 
 ###### Artículo 207.
 
@@ -2641,51 +3285,75 @@ Cuando por las características, magnitud y complejidad de las obras o servicios
 
 #### SECCIÓN III. MECANISMOS DE PUNTOS Y PORCENTAJES
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 208.
 
-Las dependencias y entidades para utilizar mecanismos de puntos o porcentajes en la evaluación de las propuestas, deberán considerar en las bases de licitación e invitaciones, los aspectos siguientes:
+Las dependencias y entidades para utilizar mecanismos de puntos o porcentajes en la evaluación de las proposiciones, deberán considerar en las bases de licitación e invitaciones los aspectos siguientes:
 
-I. Definición de los rubros técnicos y económicos de selección que se tomarán en cuenta para evaluar las propuestas;
+I. Asignación de valores numéricos o porcentajes a cada uno de los rubros y subrubros solicitados en una escala de 1 a 100;
 
-II. Asignación de valores numéricos o porcentajes a cada uno de los rubros solicitados en una escala de 1 a 100;
+II. Determinación de los rubros y subrubros indispensables, sin los cuales las proposiciones no podrán considerarse como solventes, y de aquellos rubros que de acuerdo a la experiencia de la dependencia o entidad implique un valor agregado a la proposición;
 
-III. Determinación de los rubros indispensables, sin los cuales las propuestas no podrán considerarse como solventes, y de aquellos rubros que de acuerdo a la experiencia de la dependencia o entidad implique un valor agregado a la propuesta;
+III. Señalamiento del porcentaje o puntaje mínimo que se tomará en cuenta para aceptar como solvente una proposición, y
 
-IV. Señalamiento del porcentaje o puntaje mínimo que se tomará en cuenta para aceptar como solvente una propuesta, y
+IV. Definición de los demás rubros o subrubros de carácter complementarios que se consideren necesarios para llevar a cabo la evaluación de la proposición, atendiendo a las características, magnitud y complejidad de cada servicio.
 
-V. Definición de los demás criterios de selección complementarios que sean necesarios para llevar a cabo la evaluación de la propuesta.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 209.
 
-Las dependencias y entidades podrán considerar en la evaluación de las propuestas, cualquiera de los rubros de selección que a continuación se describen, los que atendiendo a las características, magnitud y complejidad de cada servicio, podrán reducirse o ampliarse.
+Las dependencias y entidades deberán considerar en la evaluación de las proposiciones, cuando menos los rubros generales y subrubros que a continuación se describen, así como las ponderaciones totales para las partes técnica y económica que igualmente se señalan:
 
-I. Experiencia y capacidad del licitante, dentro de los cuales podrán considerarse los siguientes subrubros:
+A. Proposición parte técnica - ponderación de 70 puntos o porcentaje:
 
-a. Experiencia en general, grado académico de formación profesional del personal encargado directamente de los trabajos, tiempo de experiencia, puestos ocupados, antigüedad en la empresa y organización;
+I. Evaluación del licitante:
 
-b. Capacidad para desarrollar los trabajos, experiencia en el desarrollo de servicios similares, disponibilidad de personal y equipo de apoyo, acceso a recursos de soporte y capacidad para terminarlos satisfactoriamente;
+a. Experiencia del licitante en servicios similares.
 
-c. Conocimiento de la región donde se llevarán a cabo los trabajos y de las condiciones ambientales, culturales, económicas y sociales que rigen, y
+b. Especialidad del licitante.
 
-d. Experiencia y capacidad del personal clave con el que cuenta el licitante y que será asignado a la ejecución de los trabajos.
+c. Capacidad técnica del licitante.
 
-A estos subrubros deberá asignárseles un valor en puntos o porcentajes, cuya suma integraría el valor total del rubro del cual forman parte;
+d. Capacidad económica del licitante.
 
-II. Factibilidad legal, técnica y económica de la propuesta del licitante;
+II. Evaluación de la parte técnica de la proposición:
 
-III. Metodología y plan de trabajo;
+a. Alcance técnico.
 
-IV. Uso o transferencia de conocimientos o tecnología;
+b. Capacidad del personal técnico propuesto.
 
-V. Inclusión preferente de personal nacional en la ejecución de los trabajos;
+c. Instalaciones y equipo.
 
-VI. En su caso, el plazo de ejecución de los trabajos, y
+d. Integración de la proposición.
 
-VII. Importe de la propuesta.
+B. Proposición parte económica - ponderación de 30 puntos o porcentaje:
+
+Desviación del importe de la proposición.
+
+Para efectos de la evaluación de las proposiciones se entenderá por:
+
+Alcance Técnico: la comprobación de que el licitante cubre las especificaciones y requerimientos del servicio, de acuerdo a la metodología propuesta y capacidad de respuesta.
+
+Capacidad económica del licitante: es la evaluación de la situación financiera del licitante reflejada en la documentación solicitada por la dependencia o entidad, que demuestre que se cuenta con los elementos para cumplir con los servicios que se pretenden contratar.
+
+Desviación del importe de la proposición: es la evaluación de la proposición en su parte económica en base al precio, otorgando la ponderación máxima a la oferta solvente cuyo monto sea el más bajo, y a las demás proposiciones una ponderación de acuerdo a una regla de tres simple.
+
+Instalaciones y equipos: la comprobación de que el licitante cuenta con la infraestructura y equipo adecuados para realizar los servicios solicitados.
+
+Integración de la proposición: la congruencia existente entre la metodología de trabajo propuesta, con los requisitos y alcances solicitados en los términos de referencia y demás documentación requerida por la dependencia o entidad.
+
+A los rubros y subrubros anteriores, así como a los complementarios a que se refiere la fracción IV del artículo anterior, deberá asignárseles un valor en puntos o porcentajes, cuya suma integraría el valor total de la ponderación técnica o económica de la cual forman parte.
+
+El fallo de adjudicación del contrato correspondiente, se dará a favor del licitante que haya obtenido el mayor puntaje o porcentaje total en la evaluación técnica y económica.
+
+En caso de empate en el puntaje o porcentaje total entre dos o más licitantes, la adjudicación se efectuará a favor del aquél que resulte ganador del sorteo manual por insaculación que celebre la convocante en términos del artículo 37 F del presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 210.
 
-Tratándose de asesorías y consultorías, las dependencias y entidades deberán otorgar al rubro de experiencia y capacidad técnica del licitante una calificación de mayor valor, con respecto de los otros rubros solicitados.
+Tratándose de asesorías y consultorías, las dependencias y entidades deberán otorgar al rubro de evaluación del licitante una calificación de mayor valor, con respecto de los otros rubros solicitados.
 
 ## TÍTULO CUARTO. DE LAS OBRAS POR ADMINISTRACIÓN DIRECTA
 
@@ -2785,71 +3453,111 @@ Aquellos trabajos que se lleven a cabo con personal, con materiales existentes e
 
 ### CAPÍTULO PRIMERO. DE LAS SANCIONES
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 217.
 
-La Contraloría para la imposición de las sanciones previstas en la Ley, notificará a la persona física o moral, los hechos presumiblemente constitutivos de la infracción, sujetándose en el procedimiento a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+La Secretaría de la Función Pública, para la imposición de las sanciones previstas en la Ley, notificará a la persona física o moral los hechos presumiblemente constitutivos de la infracción, sujetándose en el procedimiento a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 218.
 
-Dentro de la documentación comprobatoria a que alude el último párrafo del artículo 78 de la Ley, las dependencias y entidades deberán acompañar la que acredite el monto de los daños y perjuicios causados con motivo de la presunta infracción.
+Para los efectos de la fracción II del artículo 78 de la Ley, las dependencias y entidades deberán hacer del conocimiento de la Secretaría de la Función Pública, la rescisión de cada uno de los contratos.
+
+Dentro de la documentación comprobatoria a que alude el último párrafo del artículo 78 de la Ley, las dependencias y entidades deberán acompañar la que acredite el monto de los daños y perjuicios causados con motivo de la presunta infracción, en el caso de que se hayan generado, haciendo el desglose y especificación de los conceptos de afectación de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Artículo 218 A.- Cuando, para los efectos de lo dispuesto por el último párrafo de la fracción XXIII del artículo 33 de la Ley, las dependencias y entidades presuman que personas físicas o morales pretenden evadir los efectos de la inhabilitación impuesta, deberán formular la solicitud correspondiente al órgano interno de control que haya impuesto la inhabilitación, sin perjuicio de que éste solicite información adicional a la Secretaría de la Función Pública, considerando lo siguiente:
+
+I. Referir el nombre o razón social de la persona inhabilitada respecto de la cual presume vinculación con la persona participante en el procedimiento de contratación de que se trate, así como los datos de identificación con que se cuente, y
+
+II. Señalar de manera pormenorizada los hechos o circunstancias particulares de la persona participante en el procedimiento de contratación respectivo, remitiendo al efecto las constancias de las que se desprenda la presunción fundada de su vinculación con la sancionada.
 
 ### CAPÍTULO SEGUNDO. DE LAS INCONFORMIDADES
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 219.
 
-Si el escrito de inconformidad no reúne los requisitos establecidos por la Ley, la Contraloría se sujetará a lo dispuesto en el artículo 17-A de la Ley Federal de Procedimiento Administrativo.
+Si la inconformidad presentada por escrito o a través de los medios remotos de comunicación electrónica no reúne los requisitos establecidos por la Ley, la Secretaría de la Función Pública se sujetará a lo dispuesto en el artículo 17-A de la Ley Federal de Procedimiento Administrativo.
 
-Para los efectos del artículo 86 de la Ley, la Contraloría dará aviso a la dependencia o entidad de la inconformidad presentada, acompañando copia de la misma, a efecto de que rinda un informe circunstanciado. La información que remita la dependencia o entidad se referirá a cada uno de los hechos manifestados por el inconforme, debiendo acompañar la documentación relacionada con el procedimiento de contratación.
+Para los efectos del artículo 86 de la Ley, la Secretaría de la Función Pública de manera directa o a través de sus órganos internos de control, dará aviso a la dependencia o entidad de la inconformidad presentada, acompañando copia de la misma, a efecto de que rinda un informe circunstanciado. La información que remita la dependencia o entidad deberá enviarla dentro de los seis días hábiles siguientes a la recepción del requerimiento, refiriéndose a cada uno de los hechos manifestados por el inconforme, debiendo acompañar la documentación relacionada directamente con los hechos aducidos en el informe.
+
+Tratándose de inconformidades presentadas por escrito, el inconforme deberá anexar, además de los documentos señalados en el artículo 84 de la Ley en que sustente su petición, las copias simples necesarias para el traslado a los terceros interesados y a la convocante, debiendo la Secretaría de la Función Pública prevenirlo en los términos del artículo 17-A de la Ley Federal de Procedimiento Administrativo, en caso de que no se presenten dichos anexos, incluso cuando a juicio de ésta, faltaren copias por el número de interesados dentro del procedimiento.
+
+De igual forma, para los efectos del artículo 86 de la Ley, se entiende como tercero que pudiera resultar perjudicado, aquél que hubiera obtenido el fallo a su favor en el procedimiento de contratación de que se trate.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 220.
 
-El monto de la fianza a que se refiere el último párrafo del artículo 86 de la Ley, no será menor al diez ni mayor al treinta por ciento del monto de la propuesta económica del inconforme y, cuando no sea posible conocer dicho monto, del presupuesto autorizado para llevar a cabo la obra o servicio.
+El monto de la fianza a que se refiere el último párrafo del artículo 86 de la Ley, no será menor al diez ni mayor al treinta por ciento del monto de la proposición del inconforme y, cuando no sea posible conocer dicho monto, del presupuesto autorizado o estimado para llevar a cabo la obra o servicio.
 
-Recibida la notificación en la que la Contraloría ordene la suspensión, la dependencia o entidad suspenderá todo acto relacionado con el procedimiento de contratación.
+Recibida la notificación en la que la Secretaría de la Función Pública o el órgano interno de control ordene la suspensión, la dependencia o entidad suspenderá todo acto relacionado con el procedimiento de contratación.
 
 ### CAPÍTULO TERCERO. DE LAS CONCILIACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 221.
 
-La presentación de la queja y su atención por la Contraloría, no suspenden los efectos del contrato o los actos derivados del mismo.
+La presentación de la queja y su atención por la Secretaría de la Función Pública, no suspenden los efectos del contrato o los actos derivados del mismo.
 
 No obstante, por acuerdo de las partes se podrá diferir el cumplimiento de una obligación o el ejercicio de un derecho hasta el resultado de la conciliación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 222.
 
-No se admitirán a conciliación aquellos casos en los que se haya determinado la rescisión administrativa de un contrato, o cuando se tenga conocimiento de que el contrato sea objeto de controversia ante una instancia judicial.
+No se admitirán a conciliación aquellos casos en los que se tenga conocimiento de que el contrato sea objeto de controversia ante una instancia judicial; cuando se haya formalizado el acta de extinción de derechos y obligaciones prevista en el último párrafo del artículo 64 de la Ley, o bien, se haya determinado la rescisión administrativa de un contrato, salvo aquellos casos en los que se pretendan conciliar los efectos de la rescisión respectiva, en los términos del artículo 131 de este Reglamento.
 
 No podrá iniciarse otra conciliación sobre los mismos aspectos cuando las partes en un procedimiento anterior no hayan logrado un arreglo, salvo que en la nueva queja que presente el contratista, se aporten elementos no contemplados en la negociación anterior.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 223.
 
-La Contraloría solicitará a las partes los documentos que considere convenientes para lograr la conciliación.
+El escrito de queja que presente el contratista, además de contener los elementos previstos en el artículo 15 de la Ley Federal de Procedimiento Administrativo, deberá hacer referencia al objeto, vigencia y monto del contrato y, en su caso, a los convenios modificatorios, debiendo adjuntar dichos instrumentos. Una vez que se satisfagan los requisitos del caso, correrá el plazo previsto en el segundo párrafo del artículo 89 de la Ley.
+
+Si el escrito de queja no reúne los requisitos establecidos, la Secretaría de la Función Pública se sujetará a lo dispuesto en el artículo 17-A de la Ley Federal de Procedimiento Administrativo.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 224.
 
-En el escrito de queja que presente el contratista, además de contener los elementos previstos en el artículo 15 de la Ley Federal de Procedimiento Administrativo, deberá hacer referencia al objeto, vigencia y monto del contrato y, en su caso, a los convenios modificatorios.
+La Secretaría de la Función Pública solicitará a las partes los documentos que considere convenientes para lograr la conciliación.
 
-Si el escrito de queja no reúne los requisitos establecidos, la Contraloría se sujetará a lo dispuesto en el artículo 17-A de la Ley Federal de Procedimiento Administrativo.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 225.
 
-La Contraloría emitirá acuerdo por el que se admita a trámite la queja y ordenará correr traslado a la dependencia o entidad de que se trate con el escrito presentado, solicitándole que dentro de un plazo no mayor a diez días hábiles, remita los argumentos del área responsable en el que dé contestación a cada uno de los hechos manifestados por el contratista, anexando copia de la documentación relacionada con los mismos. Asimismo, se le notificará la fecha y hora en la que se llevará a cabo la audiencia de conciliación.
+La Secretaría de la Función Pública emitirá acuerdo por el que se admita a trámite la queja y ordenará correr traslado por conducto del Órgano Interno de Control, a la dependencia o entidad de que se trate con copia del escrito presentado, solicitándole al área responsable que dentro de un plazo no mayor a diez días hábiles, remita los argumentos con los que dé contestación a cada uno de los hechos manifestados por el contratista, anexando copia de la documentación relacionada con los mismos. De igual forma, se le notificará la fecha y hora en la que se llevará a cabo la audiencia de conciliación, en la que se contará con la participación del representante del Órgano Interno de Control respectivo.
 
 ###### Artículo 226.
 
 La dependencia o entidad al dar contestación precisará el nombre de los servidores públicos facultados para representar y obligar a la dependencia o entidad en el procedimiento de conciliación. Si la dependencia o entidad omite dar contestación a uno o varios de los hechos señalados por el contratista, lo podrá hacer durante la audiencia de conciliación.
 
-Los servidores públicos facultados para representar a las dependencias y entidades que, sin causa justificada, omitan dar contestación a la queja o no asistan a la audiencia de conciliación, serán sujetos de las sanciones que en los términos del artículo 80 de la Ley procedan. La Contraloría deberá citar a una segunda audiencia de conciliación.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+Los servidores públicos facultados para representar a las dependencias y entidades que, sin causa justificada, omitan dar contestación a la queja o no asistan a la audiencia de conciliación, serán sujetos de las sanciones que en los términos del artículo 80 de la Ley procedan. La Secretaría de la Función Pública deberá citar a una siguiente sesión de conciliación.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 227.
 
-En cualquier tiempo las partes podrán manifestar su deseo de no continuar con el procedimiento de conciliación, señalando las razones que tengan para ello; en consecuencia, la Contraloría procederá a asentarlo en el acta correspondiente dando por concluido el procedimiento, dejando a salvo los derechos de las partes en términos del artículo 91 de la Ley.
+En cualquier tiempo las partes podrán manifestar su deseo de no continuar con el procedimiento de conciliación, señalando las razones que tengan para ello; en consecuencia, la Secretaría de la Función Pública procederá a asentarlo en el acta correspondiente dando por concluido el procedimiento, dejando a salvo los derechos de las partes en términos del artículo 91 de la Ley.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 228.
 
-Las audiencias de conciliación serán presididas por el servidor público que designe la Contraloría, quien estará facultado para iniciar las sesiones, exponer los puntos comunes y de controversia, proporcionar la información normativa que regule los términos y condiciones contractuales, proponer acuerdos de conciliación, suspender o dar por terminada una sesión, citar a sesiones posteriores, así como para dictar todas las determinaciones que se requieran durante el desarrollo de las mismas. Al término de cada sesión se levantará acta circunstanciada, la cual será firmada por quienes intervengan en ella.
+Las audiencias de conciliación serán presididas por la unidad administrativa competente de la Secretaría de la Función Pública o del Órgano Interno de Control que, de conformidad con las disposiciones aplicables, esté facultada para iniciar las sesiones, exponer los puntos comunes y de controversia, proporcionar la normatividad que regule los términos y condiciones contractuales, proponer acuerdos de conciliación, suspender o dar por terminada una sesión, citar a sesiones posteriores, así como para dictar todas las determinaciones que se requieran durante el desarrollo de las mismas. Al término de cada sesión se levantará acta circunstanciada, la cual será firmada por quienes intervengan en ella.
 
 En todos los casos se permitirá la presencia de un asesor por cada una de las partes.
+
+Los convenios a los que lleguen las partes, durante la conciliación, podrán servir para solventar observaciones formuladas por los órganos de control.
 
 ###### Artículo 229.
 
@@ -2861,9 +3569,11 @@ II. La determinación de cualquiera de las partes de no conciliar, o
 
 III. El desistimiento de la quejosa.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 230.
 
-La única documentación que la Contraloría estará obligada a conservar, en los términos del artículo 74 de la Ley, será la de las actas que se levanten con motivo de las audiencias, así como la de los convenios de conciliación.
+La única documentación que la Secretaría de la Función Pública estará obligada a conservar, en los términos del artículo 74 de la Ley, será la de las actas que se levanten con motivo de las audiencias, así como en su caso, la de los convenios de conciliación.
 
 ## TRANSITORIOS
 
@@ -2894,3 +3604,21 @@ SEXTO.- Las dependencias y entidades en un plazo que no excederá de 120 días n
 SÉPTIMO.- Los actos y contratos que las dependencias y entidades hayan celebrado con anterioridad a la entrada en vigor del presente Reglamento, le serán aplicables las disposiciones legales y administrativas vigentes al momento de su inicio o celebración.
 
 Dado en la Residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los catorce días del mes de agosto de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Contraloría y Desarrollo Administrativo, Francisco Javier Barrio Terrazas.- Rúbrica.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las dependencias y entidades ajustarán sus políticas, bases y lineamientos, en los términos del artículo 3 del presente Reglamento en un plazo no mayor a tres meses contados a partir del día siguiente al de la entrada en vigor del presente Decreto.
+
+TERCERO.- Las dependencias y entidades integrarán el registro de contratistas que establecen los artículos 24 y 25 del presente Reglamento en un plazo no mayor a seis meses contados a partir del día siguiente al de la entrada en vigor del presente Decreto.
+
+CUARTO.- Las propuestas desechadas y las que no hayan resultado adjudicadas en procedimientos iniciados con anterioridad a la entrada en vigor del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, publicado en el Diario Oficial de la Federación el 7 de julio de 2005, podrán ser devueltas o destruidas en la forma y términos de lo dispuesto en el último párrafo del artículo 74 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+QUINTO.- Las dependencias y entidades implementarán el uso de la bitácora a través de medios remotos de comunicación electrónica en un plazo no mayor a tres meses contados a partir de que obtengan la autorización, reconocimiento y certificación de la Secretaría de la Función Pública a que se refiere el artículo 97 A del presente Reglamento.
+
+En los casos en que las dependencias y entidades no dispongan de los recursos tecnológicos para implementar la bitácora en los términos del párrafo anterior, podrán solicitar a la Secretaría de la Función Pública la autorización para el uso de la bitácora por medios convencionales, quedando obligadas a implementar la bitácora a través de medios remotos de comunicación electrónica en un plazo no mayor de dos años, contados a partir de la fecha de autorización respectiva, salvo en los casos en que sean autorizadas en términos del párrafo penúltimo del artículo 93 de este Reglamento.
+
+SEXTO.- Las referencias a la Contraloría o a la Secretaría de Contraloría y Desarrollo Administrativo contenidas en las disposiciones aplicables en materia de obras públicas y servicios relacionados con las mismas, se entenderán hechas a la Secretaría de la Función Pública.
