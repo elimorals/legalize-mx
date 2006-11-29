@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-para-la-cultura-y-las-artes-de-12071"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-07"
-last_updated: "2002-07-22"
+last_updated: "2006-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de junio de 1995.
 
@@ -112,6 +112,14 @@ XI.- Expedir el Reglamento Interno del Consejo para la Cultura y las Artes de Nu
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2002)</small>
 
 XII.- Las demás que señalen ésta y otras Leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 3o.
+
+BIS.- El Consejo establecerá en el sector educativo concursos que tengan por objeto difundir los valores culturales.
+
+El Consejo tendrá entre sus atribuciones, coordinarse con la Secretaría de Educación del Estado, a efecto de convocar a un concurso con temáticas específicas, donde participen los alumnos de enseñanza preescolar, elemental y secundaria del Sistema Educativo Estatal.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2002)</small>
 
@@ -370,3 +378,7 @@ Artículo Quinto.- Dentro del plazo de dos meses, contados a partir de la entrad
 Artículo Sexto.- El Consejo para la Cultura y las Ates (sic) de Nuevo León convocará a elecciones en relación con un vocal de teatro y un vocal de fotografía a los que se refiere el inciso d) de la fracción III del Artículo 5º, las cuales deberán celebrarse dentro de los tres meses siguientes a la entrada en vigor del presente Decreto.
 
 Artículo Séptimo.- Los vocales a que se refieren los Artículos Quinto y Sexto Transitorios del presente Decreto, finalizarán su período el día 30 de junio del año 2004.
+
+P.O. 29 DE NOVIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
