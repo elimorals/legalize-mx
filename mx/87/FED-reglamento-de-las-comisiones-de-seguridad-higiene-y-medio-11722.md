@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-comisiones-de-seguridad-higiene-y-medio-11722
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-05-22"
-last_updated: "1998-05-22"
+last_updated: "2006-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11722&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-03-31"
 
 REGLAMENTO DE LAS COMISIONES DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO, DEL REGIMEN DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE SEGURIDAD, HIGIENE Y MEDIO AMBIENTE EN EL TRABAJO DEL SECTOR PUBLICO FEDERAL, PUBLICADO EN EL D.O.F. DE 29 DE NOVIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de mayo de 1998.
 
@@ -632,3 +634,23 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 31 de marzo de 1998.- El Secretario de la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Mario Gamboa Patrón.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE NOVIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Ordenamiento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan las siguientes disposiciones:
+
+I. El Reglamento de las Comisiones de Seguridad, Higiene y Medio Ambiente en el Trabajo del Régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 22 de mayo de 1998, y
+
+II. El Acuerdo por el que se expide el "Programa de Prevención de Riesgos del Trabajo", para las Dependencias y Entidades afiliadas al Régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 5 de julio de 2000.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Reglamento, las Dependencias y Entidades que coticen al Seguro de Riesgos del Trabajo del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, contarán con sesenta días hábiles para constituir, adecuar o regularizar, según sea el caso, las Comisiones a las disposiciones del presente ordenamiento.
