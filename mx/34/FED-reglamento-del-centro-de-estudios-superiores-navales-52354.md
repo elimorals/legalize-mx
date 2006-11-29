@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-centro-de-estudios-superiores-navales-52354"
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-04-18"
-last_updated: "1979-04-18"
+last_updated: "2006-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52354&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1979-04-10"
 
 REGLAMENTO DEL CENTRO DE ESTUDIOS SUPERIORES NAVALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CENTRO DE ESTUDIOS SUPERIORES NAVALES, PUBLICADO EN EL D.O.F. DE 29 DE NOVIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el 18 de abril de 1979.
 
@@ -684,3 +686,19 @@ Los cursantes considerados dentro de los incisos II y IV del artículo 68 de est
 UNICO.- Este Reglamento entrará en vigor, a partir de su publicación en el "Diario Oficial" de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de abril del año de mil novecientos setenta y nueve.- José López Portillo.- Rúbrica.- El Secretario de Marina, Ricardo Cházaro Lara.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE NOVIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento del Centro de Estudios Superiores Navales, publicado en el Diario Oficial de la Federación el 18 de abril de 1979, y se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Las acciones que se lleven a cabo para la aplicación del presente Reglamento, se sujetarán a los recursos humanos, financieros y materiales aprobados en el presupuesto de la Secretaría.
