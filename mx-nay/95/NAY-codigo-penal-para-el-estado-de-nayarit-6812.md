@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2006-11-22"
+last_updated: "2006-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2006.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -1375,7 +1375,9 @@ El que procure con actos materiales impedir la ejecución de una obra o trabajos
 
 Cuando el delito se cometa por dos o más personas, de común acuerdo, la sanción será de tres meses a tres años de prisión y multa de dos a diez días de salario, si sólo se hiciere una simple oposición material, sin violencia a las personas; existiendo violencia, la sanción será de uno a cuatro años de prisión y multa de dos a diez días de salario, sin perjuicio de observar las reglas del concurso.
 
-### CAPITULO II. CORRUPCION DE MENORES
+### CAPITULO II. CORRUPCIÓN Y PROSTITUCIÓN DE MENORES O INCAPACES
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 184.
 
@@ -1485,23 +1487,55 @@ III.- Al que de modo escandaloso invite a otro al comercio carnal.
 
 Si los delitos de que habla el artículo anterior fueren cometidos al amparo de una sociedad o con medios que ésta proporcione para tal fin a los delincuentes, a juicio del Juez se disolverá la empresa o se suspenderán sus actividades hasta por un año.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 2006)</small>
+
 ### CAPITULO III. ABUSO DE AUTORIDAD, INTIMIDACION Y TORTURA
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 200.
 
-Se aplicará prisión de uno a cinco años y multa de uno a diez días de salario, al que procure o facilite la corrupción de cualquier naturaleza de un menor de dieciséis años.
+La Corrupción de Menores de 18 años de edad o Incapaces consiste en la inducción, incitación o provocación que conduzca a:
+
+I. La práctica de la mendicidad, ebriedad, toxicomanía o prostitución;
+
+II. La realización de actos sexuales perversos o prematuros que alteren su normal desarrollo psicosexual;
+
+III. La celebración de actos de exhibicionismo corporal de carácter sexual, con el fin o no de fotografiarlos, audio o video grabarlos;
+
+IV. La comisión de hechos delictuosos, y de asociación delictuosa.
+
+Al responsable de la Corrupción de Menores de 18 años de edad o Incapaces se le aplicará de 4 a 8 años de prisión y multa de 80 a 200 días de salario mínimo, así como el pago total de la reparación de los daños y perjuicios ocasionados.
+
+También incurre en corrupción, y se hará acreedor a las sanciones que establece el párrafo anterior, aquella persona que venda o suministre a menores de 18 años de edad o incapaces, material pornográfico o sustancias tóxicas, como solventes, alcoholes, medicamentos y cualquier otra sustancia que produzca efectos similares.
+
+No se entenderá por corrupción, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competentes.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 201.
 
-Al que emplee menores de dieciséis años en cantinas, tabernas o centros de vicio, se le sancionará con prisión de uno a cinco años, y multa de uno a cinco días de salario y cierre temporal o definitivo del establecimiento en caso de reincidencia.
+Al que emplee o permite el acceso a menores de 18 años de edad o incapaces en cantinas, tabernas o centros de vicio, se le sancionará con prisión de 4 a 8 años, y multa de 80 a 200 días de salario y cierre del establecimiento hasta por treinta días.
 
-Incurrirán en las mismas sanciones de prisión y multa, los padres o tutores que acepten que sus hijos o pupilos, respectivamente bajo su guarda, se empleen en los referidos establecimientos.
+Asimismo se sancionará con prisión de 2 a 4 años, multa de 60 a 120 días de salario y cierre del establecimiento hasta por treinta días al que permita el acceso a menores de 18 años de edad o incapaces a los lugares antes citados.
+
+En ambos supuestos se procederá a la cancelación del permiso en caso de reincidencia.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 202.
 
-Las sanciones que señalan los dos artículos anteriores, se duplicarán a juicio del juez cuando el que corrompa o emplee al menor, sea ascendiente, padrastro, madrastra o tutor de aquél.
+La punibilidad establecida para los dos artículos anteriores, se duplicará a juicio del juez cuando el que corrompa o emplee al menor de 18 años de edad o incapaz, sea ascendiente, padrastro, madrastra, tutor o habite en el mismo domicilio con la víctima aunque no exista parentesco alguno.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2006)</small>
+
+ARTICULO 202 BIS.- Comete el delito de Prostitución de Menores de 18 años de edad o Incapaces.
+
+I. El que comprometa u ofrezca los servicios de un menor de 18 años de edad o incapaz para realizar actos sexuales a cambio de retribución económica, en especie o de cualquier otra índole; y
+
+II. El que a cambio de retribución económica, en especie o de cualquier índole, tenga relaciones sexuales con persona menor de 18 años de edad o incapaz.
+
+Al que cometa este delito, se le impondrá de siete a doce años de prisión y multa de mil a dos mil días de salario.
 
 ### CAPITULO IV. COALICION DE SERVIDORES PUBLICOS
 
@@ -3578,3 +3612,7 @@ P.O. 22 DE NOVIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 29 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- Las presentes reformas y adiciones al Código Penal para el Estado de Nayarit; comenzarán a regir al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
