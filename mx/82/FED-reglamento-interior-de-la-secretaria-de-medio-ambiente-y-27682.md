@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-medio-ambiente-y-27682"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-21"
-last_updated: "2006-11-29"
+last_updated: "2006-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27682&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-01-17"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2006.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 21 de enero de 2003.
 
@@ -571,7 +571,7 @@ XIV. Poner a disposición del público en general, a través de medios remotos o
 
 XV. Ejercer las funciones que correspondan a la unidad de enlace en materia de transparencia y acceso a la información pública gubernamental, así como realizar las notificaciones a los particulares, en los términos de las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XVI. Coordinar a los enlaces de las unidades administrativas de la Secretaría, que realizan programas y proyectos en materia de equidad de género y de etnia;
 
@@ -579,7 +579,7 @@ XVI. Coordinar a los enlaces de las unidades administrativas de la Secretaría, 
 
 XVII. Habilitar a los servidores públicos de la Secretaría para recibir y dar trámite a las solicitudes de acceso a la información pública gubernamental, así como proponer la capacitación de los mismos en la materia, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XVIII. Las demás que le confiera el titular de la Secretaría y las que le señalen las disposiciones legales y reglamentarias aplicables.
 
@@ -745,7 +745,9 @@ XXXV.- Constituirse como depositario y custodio de acuerdos interinstitucionales
 
 XXXVI.- Interpretar las normas administrativas y en su caso asesorar a las áreas administrativas para que lleven a cabo el cumplimiento de las mismas;
 
-XXXVII.- (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2006)
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
+
+XXXVII.- Realizar auditorías legales a delegaciones federales y unidades administrativas y órganos desconcentrados de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -807,7 +809,7 @@ XII. Desarrollar y actualizar el banco electrónico de información de esta unid
 
 XIII. Controlar, asignar y certificar el Número Internacional Normalizado del Libro, para efectos de control interno de las publicaciones que realiza la Secretaría y de su certificación internacional ante el Instituto Nacional del Derecho de Autor;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XIV. Planear, elaborar, gestionar y desarrollar el Programa Anual de Comunicación Social de la Secretaría;
 
@@ -819,7 +821,7 @@ XV. Planear, elaborar, gestionar y desarrollar el programa anual de publicacione
 
 XVI. Establecer un sistema de comunicación interna en la Secretaría, que asegure el flujo de información oportuna y relevante entre los trabajadores del Sector ambiental, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XVII. Las demás que le confiera el Titular de la Secretaría, así como las que le señalen las disposiciones jurídicas aplicables.
 
@@ -1343,7 +1345,7 @@ XV. Definir, a través de la coordinación con autoridades federales, estatales 
 
 XVI. Promover, en coordinación con otras unidades administrativas de la Secretaría, la celebración de contratos, convenios y acuerdos de cooperación y asistencia técnica con organismos internacionales y nacionales, públicos o privados, en apoyo de las actividades de los sectores a que se refiere la fracción I de este artículo, así como para el aprovechamiento sustentable y la protección de los recursos naturales y ecosistemas de la contaminación y residuos generados en dichas actividades, en su caso, bajo las políticas y lineamientos que emitan la Subsecretaría de Planeación y Política Ambiental y la Unidad Coordinadora de Asuntos Internacionales;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
 XVII. Proponer ante las autoridades competentes la expedición de declaratorias y programas para situaciones de emergencia o extraordinarias respecto del desarrollo sustentable de las actividades de los sectores a que se refiere la fracción I de este artículo, así como para el aprovechamiento sustentable y la protección de los recursos naturales y ecosistemas de la contaminación y residuos generados en dichas actividades, conforme a las disposiciones jurídicas aplicables; asimismo, integrar los expedientes y proponer, en su caso, la expedición de las declaratorias de zonas intermedias de salvaguarda a que se refiere el artículo 148 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
@@ -2071,8 +2073,6 @@ XXX. Constituirse como responsable inmobiliario respecto de los bienes en destin
 
 XXXI. Establecer las bases para llevar a cabo convenios de colaboración y acuerdos de coordinación, según corresponda, con dependencias de la Administración Pública Federal, entidades federativas y municipios, así como convenios de concertación con los sectores privado y social en materia inmobiliaria.
 
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
 Las atribuciones señaladas en este artículo podrán ser ejercidas por las delegaciones federales y órganos desconcentrados en los términos del acuerdo delegatorio que para tal efecto emita el Secretario.
 
 ###### ARTÍCULO 36.
@@ -2125,9 +2125,11 @@ XVII. Diseñar, desarrollar e implementar las políticas, normas y procedimiento
 
 XVIII. Establecer los procedimientos necesarios para poner a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información que generen las unidades administrativas de la Secretaría, en los términos de la legislación aplicable, así como proporcionarles el servicio de asistencia respecto a los trámites a realizar.
 
+### CAPÍTULO SÉPTIMO
+
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS ATRIBUCIONES DE LAS DELEGACIONES FEDERALES
+DE LAS ATRIBUCIONES DE LAS DELEGACIONES FEDERALES
 
 > <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2004)</small>
 
@@ -2249,19 +2251,15 @@ XXXIII.- Recibir los avisos para el aprovechamiento de recursos forestales no ma
 
 XXXIV. Expedir la documentación con la que se acredite la legal procedencia de las materias primas y productos forestales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XXXV. Coadyuvar con la Dirección General de Recursos Materiales, Inmuebles y Servicios en la administración de los bienes inmuebles en destino de conformidad con la legislación aplicable, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XXXVI. Las demás que le señalen las disposiciones legales aplicables y las que expresamente le encomiende el Secretario.
 
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
 Las delegaciones federales de la Secretaría podrán contar, de acuerdo con su presupuesto autorizado, con una área jurídica, la que ejercerá, en el ámbito de la circunscripción territorial correspondiente, las atribuciones mencionadas en el artículo 14, fracciones VI, VIII a XI, XIII a XVII, XIX a XXIII, XXVI y XLIII de este Reglamento siguiendo los lineamientos que, en su caso, determine la Unidad Coordinadora de Asuntos Jurídicos.
-
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 Para otorgar el perdón a que se refiere el artículo 14, fracción XXI, de este Reglamento, el titular del área jurídica de la delegación federal deberá obtener previamente la aprobación expresa del titular de la Unidad Coordinadora de Asuntos Jurídicos.
 
@@ -2309,1893 +2307,267 @@ El titular de la Secretaría podrá crear consejos o comités consultivos o téc
 
 ###### ARTÍCULO 44.
 
-La Comisión Nacional del Agua tendrá las atribuciones que se establecen en la Ley de Aguas Nacionales, su Reglamento, este ordenamiento y las demás disposiciones aplicables, las cuales serán ejercidas por las unidades administrativas que la integran, sin perjuicio de su ejercicio directo por parte del Director General de dicha Comisión.
-
-Asimismo, deberá aplicar las políticas y disposiciones emitidas en materia de transparencia y acceso a la información.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 45.
 
-Para el ejercicio de sus atribuciones, la Comisión Nacional del Agua contará con el Consejo Técnico a que se refiere la Ley de Aguas Nacionales, y con las unidades administrativas siguientes:
-
-I. Dirección General;
-
-II. Subdirección General de Administración;
-
-III. Subdirección General de Administración del Agua;
-
-IV. Subdirección General de Infraestructura Hidroagrícola;
-
-V. Subdirección General de Programación;
-
-VI. Subdirección General de Infraestructura Hidráulica Urbana;
-
-VII. Subdirección General Técnica;
-
-VIII. Subdirección General Jurídica;
-
-IX. Subdirección General de Programas Rurales y Participación Social;
-
-X. Subdirección General de Gerencias Regionales;
-
-XI. Unidad de Revisión y Liquidación Fiscal;
-
-XII. Unidad de Comunicación Social;
-
-XIII. Unidad de Agua Potable y Saneamiento;
-
-XIV. Unidad de Asuntos Fronterizos;
-
-XV. Unidad del Servicio Meteorológico Nacional;
-
-XVI. Coordinación de Evaluación;
-
-XVII. Coordinación de Atención a Organismos Fiscalizadores;
-
-XVIII. Coordinaciones de Proyectos Especiales;
-
-XIX. Gerencias Nacionales;
-
-XX. Gerencias Regionales, y
-
-XXI. Gerencias Estatales.
-
-El Director General de la Comisión Nacional del Agua tendrá las facultades que le confieren la Ley de Aguas Nacionales, su Reglamento y el presente ordenamiento y podrá, previa autorización de la Oficialía Mayor y registro de las Secretarías de Hacienda y Crédito Público, y de Contraloría y Desarrollo Administrativo, establecer las coordinaciones de proyectos especiales que se requieran para la ejecución de los programas a su cargo, por materia o circunscripción territorial.
-
-Asimismo, tendrá facultades para autorizar la celebración de acuerdos y bases de coordinación, convenios de concertación, colaboración, reasignación y de cooperación técnica, anexos de ejecución y, en general, todos aquellos actos en los que la Comisión Nacional del Agua sea parte y, en su caso, designar al servidor público que deberá suscribirlos a su nombre y en su representación.
-
-La Comisión Nacional del Agua contará con un órgano interno de control que se regirá por lo dispuesto en el artículo 109 de este Reglamento.
-
-Las unidades administrativas de la Comisión Nacional del Agua contarán, para el despacho de los asuntos de su competencia, con los gerentes, subgerentes, jefes de proyecto, jefes de departamento y demás servidores públicos que se requieran y sean autorizados conforme al presupuesto aprobado.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 46.
 
-La Subdirección General de Administración tendrá las atribuciones siguientes:
-
-I. Ejercer, de conformidad con las leyes, reglamentos y demás disposiciones aplicables, así como en base a los lineamientos internos de carácter técnico y administrativo establecidos por la Oficialía Mayor, facultades en materia de ejercicio presupuestal, gasto público, contabilidad gubernamental, administración y desarrollo de recursos humanos, relaciones laborales, adquisiciones, arrendamientos de bienes muebles e inmuebles, servicios, obras públicas y servicios relacionados con las mismas;
-
-II. Dirigir y evaluar el funcionamiento de las unidades administrativas a su cargo, para el establecimiento de lineamientos, sistemas y procedimientos para la administración de los recursos humanos, materiales, financieros, innovación y calidad gubernamental, en congruencia con los lineamientos de carácter técnico y administrativo definidos por la Oficialía Mayor, así como con los sistemas y procedimientos que al efecto señale el titular de la Comisión Nacional del Agua;
-
-III. Establecer los lineamientos y políticas generales y específicas que permitan la administración y control de los recursos humanos, financieros y materiales;
-
-IV. Autorizar, previo dictamen de la Subdirección General Jurídica, los contratos y convenios que afecten el presupuesto de la Comisión Nacional del Agua;
-
-V. Administrar y supervisar los sistemas de reclutamiento, selección, contratación, capacitación y desarrollo del personal de la Comisión Nacional del Agua, y apoyar la profesionalización y la formación de cuadros técnicos especializados, en coordinación con las unidades administrativas competentes;
-
-VI. Conducir la política de relaciones laborales de la Comisión Nacional del Agua, de conformidad con las condiciones generales de trabajo y los lineamientos que emita la Oficialía Mayor, así como difundirlos entre el personal y vigilar su cumplimiento;
-
-VII. Formular, en coordinación con las demás unidades administrativas, los manuales de organización, procedimientos y servicios, de conformidad con los lineamientos establecidos por el Director General de la Comisión Nacional del Agua;
-
-VIII. Coordinar la administración de las remuneraciones y prestaciones del personal adscrito a la Comisión Nacional del Agua, dirigir el cambio de cultura organizacional de ésta, e impulsar la aplicación del Código de Ética;
-
-IX. Coordinar la elaboración del anteproyecto de presupuesto financiero anual de servicios personales, de servicios generales y operación básica, con las unidades administrativas de la Comisión Nacional del Agua, así como integrar, con la Subdirección General de Programación, el calendario mensual de gasto respectivo;
-
-X. Formular e integrar el informe de la cuenta de la hacienda pública federal de la Comisión Nacional del Agua, en lo referente a la información contable, financiera, económica y presupuestaria, y elaborar los estados financieros a que haya lugar;
-
-XI. Presidir los comités de adquisiciones, arrendamientos y servicios; de bienes muebles y los demás del ámbito de su competencia;
-
-XII. Elaborar el programa anual para el destino final de bienes muebles de la Comisión Nacional del Agua y sus modificaciones, y aprobar los manuales, formatos e instructivos para la administración de bienes muebles y el manejo de almacenes;
-
-XIII. Formular el programa integral de aseguramiento de bienes muebles e inmuebles asignados a la Comisión Nacional del Agua;
-
-XIV. Conocer y determinar, de acuerdo con la normatividad aplicable, la terminación anticipada o rescisión de contratos y convenios, en materia de adquisiciones, arrendamientos y servicios, obra pública y servicios relacionados con las mismas;
-
-XV. Comunicar a las unidades administrativas encargadas de su atención, las solicitudes que formulen los organismos fiscalizadores y dependencias globalizadoras, y verificar que los responsables las atiendan y desahoguen en tiempo y forma, con la finalidad de reducir la recurrencia de observaciones y recomendaciones;
-
-XVI. Formular, integrar, instrumentar, dar seguimiento y evaluar el Programa de Innovación y Calidad Gubernamental de la propia Comisión, en coordinación con las demás unidades administrativas, de conformidad con los lineamientos establecidos por el Director General;
-
-XVII. Proponer políticas, lineamientos, criterios, metodologías, herramientas, sistemas e indicadores, que deberán observar las unidades administrativas en materia de innovación gubernamental y administración por calidad;
-
-XVIII. Establecer, desarrollar y controlar en los sistemas de informática y telecomunicaciones, las estrategias, lineamientos, normatividad y mecanismos de seguridad, en congruencia con los lineamientos de carácter técnico y administrativo, definidos para la administración pública federal, así como controlar la operación de la Red Nacional de Voz y Datos, y la administración y distribución de dichos recursos;
-
-XIX. Expedir nombramientos, credenciales y constancias de identificación del personal adscrito a la Comisión Nacional del Agua, así como definir las políticas y lineamentos para el registro y control de los movimientos administrativos del personal, y suscribir previo dictamen de la Subdirección General Jurídica, las resoluciones de terminación de los efectos de los nombramientos de los servidores públicos de base adscritos a la propia Comisión;
-
-XX. Celebrar los actos jurídicos para adquirir y, en su caso, enajenar bienes de la Comisión Nacional del Agua, conforme a la normatividad vigente y a los lineamientos de la Dirección General de la Comisión Nacional del Agua, así como celebrar contratos de prestación de servicios;
-
-XXI. Atraer los asuntos de su competencia que se consideren relevantes a fin de atenderlos y dar la solución correspondiente, de acuerdo con la normatividad aplicable;
-
-XXII. Proporcionar a la Subdirección General Jurídica, la información, documentación y apoyo necesarios para el ejercicio de sus funciones en materia de recursos administrativos y jurisdiccional, y
-
-XXIII. Las demás que le delegue el titular de la Comisión Nacional del Agua, las que le señalen las disposiciones legales y reglamentarias relativas, y las que correspondan a las unidades administrativas a su cargo.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 47.
 
-La Subdirección General de Administración del Agua tendrá las atribuciones siguientes:
-
-I. Administrar y custodiar las aguas nacionales y los bienes que se vinculan a éstas, de conformidad con las disposiciones jurídicas aplicables, con excepción de los encomendados a la Subdirección General de Infraestructura Hidroagrícola; vigilar el cumplimiento de la Ley de Aguas Nacionales y su Reglamento, y proveer lo necesario para la preservación de su calidad y cantidad para lograr su uso integral sustentable, con excepción de aquéllas encomendadas a otra unidad administrativa, así como fomentar la capacitación de cuadros para esos fines;
-
-II. Otorgar, modificar, suspender, negar, expedir, prorrogar y declarar la caducidad y terminación de las concesiones, asignaciones y permisos, así como el rescate de dichas concesiones y asignaciones, y autorizar la cesión, transmisión y transferencia de las obligaciones y derechos emanados de los títulos de concesión, asignación y permisos, establecidos en la Ley de Aguas Nacionales, su Reglamento y demás disposiciones jurídicas aplicables;
-
-III. Conducir el Registro Público de Derechos de Agua y ser depositaria de la fe pública registral, así como establecer los lineamientos, normas y políticas que deben seguir las oficinas del Registro Público de Derechos de Agua y designar, previa aprobación del Director General de la Comisión Nacional del Agua, a los titulares de las oficinas del Registro Público de Derechos de Agua en las gerencias regionales;
-
-IV. Inscribir en el Registro Público de Derechos de Agua, los títulos de concesión o asignación de aguas nacionales y sus bienes públicos inherentes, los permisos de descarga de aguas residuales, las sentencias de los Tribunales Judiciales y Administrativos, las resoluciones emitidas por el Presidente de la República o por el Tribunal Superior Agrario que amplíen o doten de agua, y todos aquellos actos que afecten los derechos que amparan los citados títulos en términos de lo dispuesto por la Ley de Aguas Nacionales y su Reglamento, así como atender las consultas y expedir las constancias y certificaciones que soliciten las autoridades o particulares sobre los asientos registrales;
-
-V. Verificar y comprobar a través del personal que al efecto autorice, el cumplimiento de las obligaciones de los usuarios de aguas nacionales y sus bienes públicos inherentes, establecidas en la Ley de Aguas Nacionales, su Reglamento y demás disposiciones jurídicas aplicables, salvo cuando se trate de la verificación del cumplimiento de obligaciones fiscales a cargo de dichos usuarios, para lo cual podrá:
-
-a. Ordenar y practicar visitas de verificación e inspección;
-
-b. Ordenar el acceso a los lugares en los que se encuentren instalaciones, puntos de aprovechamiento de aguas nacionales y de descarga de aguas residuales, de uso, aprovechamiento o explotación de materiales de construcción, de dispositivos de medición y registro de la cantidad y calidad de dichos bienes nacionales, así como a las zonas federales ocupadas;
-
-c. Requerir a los usuarios todo tipo de documentación, registros, controles, datos e informes;
-
-d. Practicar cualquier otro medio de verificación previsto en las disposiciones legales aplicables, y
-
-e. Instalar dispositivos de medición y registro para verificar el volumen de las aguas nacionales que se exploten, usen, extraen o aprovechen, y de las que se descarguen a los cuerpos receptores propiedad de la Nación, así como la calidad de estas últimas;
-
-VI. Establecer, previa opinión de la Subdirección General Técnica, las condiciones particulares que deberán contener los permisos de descarga de aguas residuales;
-
-VII. Verificar el cumplimiento de las normas oficiales mexicanas, relativas al uso, explotación o aprovechamiento de las aguas nacionales y de sus bienes públicos inherentes, salvo que su comprobación se encuentre asignada a otra unidad administrativa;
-
-VIII. Hacer del conocimiento de la Subdirección General Jurídica, los hechos que puedan ser constitutivos de delitos relacionados con la explotación, uso o aprovechamiento de aguas nacionales y sus bienes públicos inherentes, a fin de que la misma formule las denuncias o actos que procedan de conformidad con las normas aplicables;
-
-IX. Coordinarse, en su caso, con otras autoridades, ya sean federales, locales o municipales, a fin de ejercer sus facultades de administración y custodia de las aguas nacionales y de sus bienes públicos inherentes;
-
-X. Expedir la constancia de no caducidad de volúmenes solicitada por los concesionarios de aguas nacionales;
-
-XI. Llevar el control de los pagos realizados u omitidos por los contribuyentes con motivo de las obligaciones derivadas del cumplimiento de la Ley Federal de Derechos, Ley de Aguas Nacionales y su Reglamento y demás disposiciones jurídicas aplicables;
-
-XII. Emitir las resoluciones que procedan en los procedimientos administrativos previstos en la Ley de Aguas Nacionales, su Reglamento y demás normas aplicables, con excepción de aquellas que deba emitir otra unidad administrativa;
-
-XIII. Expedir credenciales o constancias de identificación a los servidores públicos, para el ejercicio de funciones de inspección, verificación, auxilio técnico y notificación;
-
-XIV. Emitir los certificados de calidad del agua y de las aguas interiores salobres, conforme a lo establecido en la legislación de la materia y con base en el dictamen que emita la Subdirección General Técnica;
-
-XV. Emitir y ejecutar las resoluciones por las que se ordene la suspensión de actividades que den origen a descargas de aguas residuales o la remoción y demolición de obras e infraestructura;
-
-XVI. Substanciar los procedimientos administrativos inherentes al ejercicio de sus facultades de comprobación y, en general, del incumplimiento de las normas aplicables;
-
-XVII. Iniciar los procedimientos administrativos correspondientes en el momento en que tenga conocimiento de actos u omisiones que impliquen el incumplimiento o infracción a la Ley de Aguas Nacionales, su Reglamento o demás disposiciones aplicables;
-
-XVIII. Emitir y ejecutar las resoluciones que ordenen la clausura de aprovechamientos, así como de empresas o establecimientos que realicen actividades que den origen a descargas de aguas residuales;
-
-XIX. Aplicar las medidas de apremio, de seguridad y de carácter precautorio, establecidas en la Ley de Aguas Nacionales, para lo cual podrá solicitar el apoyo de otras autoridades;
-
-XX. Atraer los asuntos de su competencia que se consideren relevantes a fin de atenderlos y dar la solución correspondiente, de acuerdo con la normatividad aplicable;
-
-XXI. Proporcionar a la Unidad de Revisión y Liquidación Fiscal, las bases para la determinación de los créditos fiscales de que tenga conocimiento o informarle respecto de la omisión de dichos pagos;
-
-XXII. Solicitar a las autoridades federales, estatales y municipales, la documentación e información necesarias para el ejercicio de sus atribuciones;
-
-XXIII. Certificar los documentos que obren en sus expedientes y expedir las constancias correspondientes;
-
-XXIV. Tramitar y suscribir, en el ámbito de su competencia, previa opinión de la Subdirección General Jurídica, los contratos y demás actos jurídicos que se deriven, incluidos los relativos a las convocatorias y las rescisiones administrativas, entre otros, de acuerdo con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas, el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente y demás disposiciones aplicables en la materia;
-
-XXV. Formular los manuales, guías operativas y demás instrumentos normativos necesarios para el ejercicio de sus funciones, y remitirlos a la Subdirección General Jurídica para su validación legal;
-
-XXVI. Coordinar, supervisar y evaluar la aplicación de las disposiciones legales que le corresponden; la operación de los manuales de procedimientos que al efecto se aprueben, y el cumplimiento de la normatividad a cargo de servidores públicos de las gerencias regionales y estatales emitidas por las áreas competentes;
-
-XXVII. Elaborar y coordinar con las autoridades competentes de la materia, los estudios económicos que sustenten los criterios y directrices para la mejor administración y conservación de las aguas nacionales y sus bienes públicos inherentes;
-
-XXVIII. Coordinar y realizar visitas de supervisión a las gerencias regionales y estatales, para verificar el avance y cumplimiento de los programas que les correspondan para el ejercicio de sus funciones;
-
-XXIX. Formular indicadores de gestión que permitan determinar el nivel de productividad, cumplimiento de políticas y obtención de resultados de las gerencias regionales y estatales en materia de administración de las aguas nacionales, proporcionando información oportuna y relevante para apoyar la toma de decisiones;
-
-XXX. Proponer los lineamientos para el establecimiento de criterios de calidad total, que propicien la mejora continua de los servicios que proporciona la Comisión Nacional del Agua, en el otorgamiento de concesiones, asignaciones o permisos;
-
-XXXI. Proveer y coordinar las acciones necesarias para fomentar la capacitación del personal de la Subdirección General de Administración del Agua, con el objeto de actualizar y reforzar sus conocimientos en la materia, así como para la creación de nuevos cuadros que busquen la preservación de la calidad y cantidad de las aguas nacionales para lograr su uso integral sostenido;
-
-XXXII. Habilitar días y horas inhábiles para el ejercicio de sus facultades;
-
-XXXIII. Prestar servicios de orientación e información al público sobre los trámites y procedimientos administrativos de su competencia;
-
-XXXIV. Proporcionar a la Subdirección General de Gerencias Regionales, la información, documentación y apoyo necesarios para el ejercicio de sus funciones en la materia de su competencia, y
-
-XXXV. Las demás que expresamente le otorguen las disposiciones jurídicas aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 48.
 
-La Subdirección General de Infraestructura Hidroagrícola tendrá las atribuciones siguientes:
-
-I. Realizar estudios específicos y proyectos ejecutivos, así como construir, vigilar, administrar, operar, conservar, rehabilitar y modernizar, la infraestructura de sistemas de riego, de temporal tecnificado, drenaje agrícola y demás obras complementarias que correspondan al Gobierno Federal, siempre que no se encuentren encomendadas a otra subdirección general;
-
-II. Fomentar y apoyar la incorporación de nuevas áreas al riego y las obras complementarias que correspondan al Gobierno Federal, las que se realizarán por sí o en coordinación con los gobiernos estatales, municipales o particulares o, en su caso, a través de la concesión o asignación en los términos de las disposiciones legales aplicables;
-
-III. Administrar, operar, conservar y mantener, por sí o por terceros, mediante el otorgamiento de la asignación o concesión que, en su caso, se requiera, y demás instrumentos legales que al efecto se celebren, las obras de infraestructura hidroagrícola de captación, conducción, almacenamiento y distribución de agua, así como de los servicios respectivos, y fomentar la capacitación de cuadros para los mismos fines;
-
-IV. Promover la organización, consolidación y desarrollo técnico de asociaciones de usuarios, operadores de distritos o unidades de riego y drenaje, y sancionar los reglamentos respectivos;
-
-V. Intervenir, con la participación de los usuarios y conforme a las disposiciones jurídicas aplicables, en los estudios, proyectos, construcción, administración, operación, conservación y mejoramiento de los sistemas de riego, las unidades de drenaje y los sistemas de control de avenidas y protección contra inundaciones de áreas productivas;
-
-VI. Operar la infraestructura hidráulica para el control de avenidas y protección contra inundaciones de áreas productivas, tomando las medidas preventivas necesarias y coordinando sus acciones con las autoridades competentes, en los términos de las disposiciones jurídicas aplicables y con el apoyo del Comité Técnico de Operación de Obras Hidráulicas;
-
-VII. Programar y efectuar la distribución del agua en bloque para uso agrícola, y determinar los volúmenes y los lugares de entrega, de común acuerdo con los usuarios, en los términos de la ley de la materia, los reglamentos respectivos y los programas para el efecto autorizados;
-
-VIII. A propuesta de los gerentes regionales, autorizar la designación de los subgerentes de operación, ingenieros en jefe de los distritos de riego y de temporal tecnificado y de residentes de construcción;
-
-IX. Propiciar, en coordinación con los sectores público, social y privado interesados, el uso eficiente del agua en riego, así como la plena utilización de la infraestructura hidroagrícola, y fomentar la capacitación de cuadros para esos fines;
-
-X. Establecer y proporcionar a los usuarios, de conformidad con los recursos disponibles, la asesoría técnica necesaria para el diseño, construcción, operación y administración de sistemas de riego;
-
-XI. Tramitar, autorizar y suscribir, en el ámbito de su competencia y previa opinión de la Subdirección General Jurídica, los contratos y demás actos jurídicos que se deriven, incluidos los relativos a las convocatorias y las rescisiones administrativas, entre otros, de acuerdo con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas, el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente y demás disposiciones aplicables en la materia;
-
-XII. Atraer los asuntos de su competencia que se consideren relevantes a fin de atenderlos y dar la solución correspondiente, de acuerdo con la normatividad aplicable;
-
-XIII. Otorgar la intervención que corresponda a la Subdirección General de Gerencias Regionales, para la mejor atención de los asuntos, y
-
-XIV. Las demás que expresamente le otorguen las disposiciones jurídicas aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 49.
 
-La Subdirección General de Programación tendrá las atribuciones siguientes:
-
-I. Definir los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos para elaborar el Programa Nacional Hidráulico, con la participación que corresponda a otros sectores e instancias de gobierno y a los usuarios, así como integrar programas, proyectos de inversión y estudios para mejorar el aprovechamiento de los recursos hidráulicos;
-
-II. Formular, actualizar y vigilar el Programa Nacional Hidráulico, en los términos previstos por las disposiciones jurídicas aplicables, desglosado por subprogramas específicos, regionales, de cuenca, estatales y sectoriales;
-
-III. Definir y establecer, en el ámbito de su competencia, las estrategias y políticas para regular el uso y aprovechamiento del agua, así como participar en la elaboración de los balances hidráulicos que se requieran;
-
-IV. Proponer y, en su caso, establecer lineamientos internos de carácter técnico y administrativo para la integración, evaluación y actualización de estudios y proyectos de infraestructura hidráulica, que permitan analizar la viabilidad técnica, socioeconómica y financiera de las mismas, de ejecución directa o coordinada a cargo de las unidades administrativas de la Comisión Nacional del Agua, dentro del marco de los procesos de planeación, programación y presupuestación;
-
-V. Establecer los lineamientos internos y coordinar el proceso de planeación estratégica de la Comisión Nacional del Agua, en los niveles nacional, regional y estatal;
-
-VI. Elaborar por sí o a través de terceros, estudios de prospectiva, regionales de gran visión, de economía del agua, proyectos y metodologías que sirvan para el desarrollo de los programas y presupuestos de la Comisión Nacional del Agua;
-
-VII. Proponer a las unidades administrativas correspondientes de la Comisión Nacional del Agua, lineamientos internos de carácter técnico y administrativo para integrar el programa operativo anual de la propia Comisión;
-
-VIII. Diseñar, establecer y vigilar la aplicación de procesos, metodologías, sistemas y lineamientos de carácter técnico y administrativo, inherentes al seguimiento y evaluación del programa operativo anual, a los programas y presupuestos, y al desempeño de la Comisión Nacional del Agua;
-
-IX. Definir políticas para el financiamiento y amortización de las inversiones;
-
-X. Intervenir, en el ámbito de su competencia, en la concertación de créditos u otros mecanismos de financiamiento nacionales e internacionales, en coordinación con las autoridades competentes;
-
-XI. Gestionar, ante la Secretaría de Hacienda y Crédito Público, el financiamiento de contratos para el desarrollo de obras y servicios hidráulicos, así como dar seguimiento a los mismos ante los agentes financieros designados por dicha dependencia;
-
-XII. Proponer, en coordinación con las autoridades competentes, las bases de cooperación técnica y científica con gobiernos y organismos internacionales, de conformidad con las disposiciones legales aplicables;
-
-XIII. Participar en la creación y desarrollo de los consejos de cuenca, así como promover y acreditar la organización, capacitación y participación de los usuarios, en los términos de las disposiciones jurídicas aplicables;
-
-XIV. Promover y fomentar la participación de terceros en el financiamiento, construcción y operación de la infraestructura hidráulica federal, así como en la prestación de los servicios respectivos;
-
-XV. Desarrollar, implementar y administrar el Sistema de Información Geográfica del Agua y el Banco de Información del Sector Hidráulico, de conformidad con el Programa Institucional del Desarrollo Informático del Instituto Nacional de Estadística, Geografía e Informática y demás disposiciones legales aplicables, así como proponer los lineamientos para el intercambio de información;
-
-XVI. Establecer los mecanismos de consulta que fortalezcan la participación social en la programación hidráulica por cuenca o acuífero;
-
-XVII. Revisar y dictaminar los proyectos nuevos de inversión;
-
-XVIII. Coordinar la identificación, selección, adquisición e implantación de diversos métodos y modelos de apoyo a la planeación, así como la capacitación en el manejo de los mismos;
-
-XIX. Integrar el informe de la cuenta de la hacienda pública federal de la Comisión Nacional del Agua, en lo referente a los apartados programáticos;
-
-XX. Integrar los anteproyectos y proyectos de los programas y presupuestos anuales de la Comisión Nacional del Agua, y gestionar su autorización, así como integrar, en coordinación con la Subdirección General de Administración, las adecuaciones y gestionarlas ante las instancias correspondientes, apegándose a los lineamientos de carácter técnico y administrativo establecidos;
-
-XXI. Desarrollar, implantar y coordinar el sistema de programación de inversiones del sector hidráulico, mediante la evaluación de los impactos económicos, sociales y ambientales de los proyectos en cartera, y la formulación de programas de inversión de corto y mediano plazos del sector;
-
-XXII. Establecer los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos que permitan la integración y evaluación del catálogo nacional de proyectos de infraestructura hidráulica;
-
-XXIII. Evaluar el impacto financiero de los programas y proyectos que se ejecuten con recursos de crédito externo;
-
-XXIV. Apoyar a los gobiernos estatales, municipales, organismos operadores y asociaciones de usuarios, en la búsqueda y diseño de esquemas de financiamiento que sustenten la prestación adecuada de los servicios de agua y su operación;
-
-XXV. Promover la participación de terceros en la prestación de servicios de agua potable, alcantarillado y saneamiento, proponiendo las adecuaciones necesarias al marco jurídico y regulatorio;
-
-XXVI. Tramitar y suscribir, en el ámbito de su competencia, previa opinión de la Subdirección General Jurídica, los contratos y demás actos jurídicos que se deriven, incluidos los relativos a las convocatorias y las rescisiones administrativas, entre otros, de acuerdo con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas, el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente y demás disposiciones aplicables en la materia;
-
-XXVII. Promover y concertar la participación social de los usuarios en los procesos de planeación y programación de la Comisión Nacional del Agua;
-
-XXVIII. Apoyar en los procesos relacionados con el uso de recursos provenientes del fondo de desastres naturales;
-
-XXIX. Atraer los asuntos de su competencia que se consideren relevantes a fin de atenderlos y dar la solución correspondiente, de acuerdo con la normatividad aplicable;
-
-XXX. Otorgar la intervención que corresponda a la Subdirección General de Gerencias Regionales, para la mejor atención de los asuntos, y
-
-XXXI. Las demás que expresamente le otorguen las disposiciones jurídicas aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 50.
 
-La Subdirección General de Infraestructura Hidráulica Urbana tendrá las atribuciones siguientes:
-
-I. Estudiar, emitir lineamientos, proyectar, promover y, en su caso, coordinar o dirigir la construcción, en el ámbito de su competencia, de todo tipo de obras de infraestructura hidráulica, relacionadas con el agua potable, alcantarillado y saneamiento, y con el control de ríos para la protección a centros de población, por sí o a través de terceros, incluyendo las de generación de energía eléctrica y las obras complementarias correspondientes, de acuerdo con los programas formulados y que competa realizar al Gobierno Federal, por sí o en cooperación con los gobiernos de las entidades federativas y municipios o los particulares;
-
-II. Promover e intervenir en las obras para dotación de agua potable, alcantarillado, saneamiento y de tratamiento de aguas residuales a centros de población o industriales y turísticos, desde los estudios y diseños, por sí o mediante el otorgamiento de la asignación o concesión que, en su caso, se requieran o en los términos del convenio que se celebre, incluyendo los que se convengan en tratados internacionales;
-
-III. Fomentar y apoyar la construcción de los sistemas de agua potable, alcantarillado y tratamiento de aguas residuales que realicen los municipios, así como del control de avenidas y protección de inundaciones a centros de población, en los términos de las disposiciones jurídicas aplicables;
-
-IV. Intervenir, con la participación de los usuarios, conforme a las disposiciones jurídicas aplicables, en estudios y proyectos para el control de avenidas y protección contra inundaciones a centros de población;
-
-V. Apoyar técnicamente a los gobiernos de las entidades federativas y municipales, así como a los particulares, y fomentar la capacitación de cuadros para el estudio, proyecto y ejecución, en su caso, de obras de infraestructura hidráulica, en materia de agua potable, alcantarillado y saneamiento, y para el control de ríos que deriven en protección a centros de población;
-
-VI. Promover la realización de obras en la materia, y la previsión de la etapa para su operación transitoria, hasta su entrega definitiva a los responsables de la operación, conservación y mantenimiento;
-
-VII. Ejecutar, en la esfera de su competencia, el programa Lago de Texcoco en la zona federal a su cargo y en la cuenca hidrológica del propio lago, así como realizar los programas y obras para disminuir tolvaneras originadas en dicha cuenca;
-
-VIII. Estudiar y proyectar, por sí o a través de terceros, las obras de drenaje y control de ríos de la Cuenca del Valle de México, así como coordinar y dirigir la construcción de las obras, y realizar las acciones que para su desarrollo se requieran, en la esfera de su competencia;
-
-IX. Promover, emitir lineamientos y dirigir o coordinar la construcción de las obras e instalaciones necesarias para el suministro de agua en bloque a las áreas urbanas del Valle de México, y en especial al área metropolitana de la ciudad de México, hasta los sitios que se convenga con las autoridades del Distrito Federal y entidades federativas correspondientes;
-
-X. Establecer lineamientos internos de carácter técnico y administrativo para la elaboración de proyectos y obras, dentro del ámbito de su competencia;
-
-XI. Coordinar la participación entre los diferentes órdenes de gobierno para el desarrollo de infraestructura hidráulica y prestación de los servicios de agua potable, alcantarillado y saneamiento en comunidades urbanas, así como la correspondiente a control de ríos para la protección a comunidades urbanas;
-
-XII. Promover y apoyar, mediante acciones preventivas y de orden prioritario, la protección en fuentes de abastecimiento de agua para uso y consumo humano, así como propiciar la instalación de equipos de desinfección en sistemas de abastecimiento de agua;
-
-XIII. Determinar y difundir manuales de procedimientos y tabuladores de precios de obras hidráulicas y demás acciones relacionadas con el agua, saneamiento y control de ríos para protección a centros de población, así como los factores del ajuste;
-
-XIV. Licitar y contratar las obras y acciones relacionadas con la infraestructura hidráulica a cargo de la subdirección general;
-
-XV. Apoyar, en su caso, a las gerencias regionales y estatales, en los procesos de licitación, evaluación de ofertas y adjudicación de contratos, así como con asistencia técnica en reconsideración de precios;
-
-XVI. Administrar el sistema de información del subsector agua potable, alcantarillado y saneamiento, así como desarrollar sistemas de información que permitan observar la evolución de sus índices de gestión;
-
-XVII. Realizar estudios de evaluación social para la identificación de costos, beneficios y sus efectos, a fin de conocer la rentabilidad socioeconómica de los proyectos de agua potable, alcantarillado y tratamiento de aguas residuales;
-
-XVIII. Establecer estructuras tarifarias que les permita a los organismos operadores contar con elementos para alcanzar la autonomía financiera, así como el uso eficiente del agua;
-
-XIX. Establecer lineamientos para implementar acciones de mejoramiento y eficiencia de los sistemas de agua potable y alcantarillado;
-
-XX. Vigilar la coordinación con las gerencias regionales y estatales, en la elaboración, autorización, vigilancia y cumplimiento de los programas de acciones y anexos de ejecución, presentados por las empresas que prestan los servicios de agua potable, alcantarillado y tratamiento de aguas residuales contemplados en el programa de devolución de derechos de aguas nacionales;
-
-XXI. Instrumentar mecanismos para difundir, controlar y dar seguimiento al Programa para la Modernización de Organismos Operadores de Agua y a los Estudios de Diagnóstico y Planeación Integral;
-
-XXII. Realizar análisis financieros orientados a determinar la eficiencia financiera de los organismos operadores, así como la determinación de dictámenes que permitan identificar fuentes y esquemas de financiamiento para eficientar los servicios de agua potable, alcantarillado y tratamiento de aguas residuales;
-
-XXIII. Establecer mecanismos dirigidos a la promoción y regulación de la participación del sector privado en la prestación de los servicios de agua potable, alcantarillado y tratamiento de aguas residuales;
-
-XXIV. Tramitar y suscribir, en el ámbito de su competencia, previa opinión de la Subdirección General Jurídica, los contratos y demás actos jurídicos que se deriven, incluidos los relativos a las convocatorias y las rescisiones administrativas, entre otros, de acuerdo con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas, el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente y demás disposiciones aplicables en la materia;
-
-XXV. Promover el uso eficiente del agua en el sector urbano;
-
-XXVI. Atraer los asuntos de su competencia que se consideren relevantes a fin de atenderlos y dar la solución correspondiente, de acuerdo con la normatividad aplicable;
-
-XXVII. Otorgar la intervención que corresponda a la Subdirección General de Gerencias Regionales, para la mejor atención de los asuntos, y
-
-XXVIII. Las demás que expresamente le otorguen las disposiciones jurídicas aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 51.
 
-La Subdirección General Técnica tendrá las atribuciones siguientes:
-
-I. Crear, mantener y promover la aplicación de las capacidades técnicas básicas que se requieran para que las obras, acciones y programas de la Comisión Nacional del Agua sean de calidad;
-
-II. Proponer al Director General de la Comisión Nacional del Agua, los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos que permitan dar unidad a las acciones del Gobierno Federal en materia de aguas nacionales, y coordinar su aplicación;
-
-III. Proponer al Director General de la Comisión Nacional del Agua, la reglamentación para la extracción, explotación, uso o aprovechamiento de aguas nacionales, el establecimiento o supresión de zonas de veda y la declaración de reserva de las aguas nacionales, así como vigilar su cumplimiento;
-
-IV. Fomentar el uso eficiente del agua y su reuso, y operar los servicios necesarios para su preservación, conservación y mejoramiento de calidad en todas las fases del ciclo hidrológico e impulsar una cultura del agua que considere a este elemento como un recurso vital y escaso;
-
-V. Delimitar y demarcar las zonas federales en forma congruente con la declaratoria correspondiente;
-
-VI. Emitir lineamientos, organizar, dirigir, realizar y difundir los estudios, trabajos y servicios hidrológicos, geohidrológicos, así como los de la calidad de las aguas nacionales y su monitoreo, y mantener actualizados los inventarios de disponibilidad y uso del agua, de las descargas de aguas residuales y de las plantas potabilizadoras y de tratamiento de aguas residuales municipales e industriales;
-
-VII. Desarrollar y operar, directamente, por contrato o convenio con terceros, redes hidrométricas, geohidrológicas y de calidad del agua, e integrar para todas las cuencas hidrológicas del territorio, sistemas de información sobre cantidad, calidad y usos del agua en las diversas fases del ciclo hidrológico como base para planear y administrar los recursos hidráulicos;
-
-VIII. Formular programas integrales de protección ambiental, de saneamiento de cuencas, de uso eficiente y reuso de los recursos hidráulicos en cuencas y acuíferos, considerando las relaciones existentes entre los usos del suelo y la cantidad y calidad del agua, en coordinación con las unidades administrativas competentes;
-
-IX. Promover y verificar que los proyectos de nuevas obras de infraestructura hidráulica cumplan con las disposiciones jurídicas aplicables en materia de impacto ambiental, así como dar seguimiento a las resoluciones de impacto ambiental de las obras que hayan sido objeto de este trámite e informar a la autoridad ambiental competente;
-
-X. Establecer las acciones necesarias para elevar la eficiencia en la utilización del agua e incrementar su disponibilidad, mediante el desarrollo de los estudios y programas de saneamiento de cuencas, así como promover la reutilización del agua residual tratada y establecer las bases técnicas para regular el control de descargas y aprovechamiento de esas aguas;
-
-XI. Fijar lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos, para proporcionar seguridad a las construcciones y equipos que constituyen la infraestructura hidráulica a cargo de la Comisión Nacional del Agua, y vigilar su cumplimiento;
-
-XII. Fomentar la investigación científica y el desarrollo tecnológico en materia de agua, su aplicación y la formación y capacitación de recursos humanos para los mismos fines;
-
-XIII. Promover la conservación del agua mediante la recarga de acuíferos, la protección y saneamiento de cuencas alimentadoras, el control de la erosión, la estimulación de lluvia y el aprovechamiento de las aguas estuarinas, salobres y salinas;
-
-XIV. Analizar y llevar el registro de la evolución de los almacenamientos en vasos y embalses y flujo de las corrientes en los ríos;
-
-XV. Coordinar la revisión de los proyectos ejecutivos y cambios de proyectos de las obras que se realicen bajo la responsabilidad de la Comisión Nacional del Agua; realizar inspecciones y asesorías técnicas de las mismas durante las etapas de diseño, construcción, operación y las que se vayan a poner fuera de servicio, así como integrar y mantener un sistema sobre presas y sistemas asociados para la conservación y actualización de su información básica;
-
-XVI. Establecer las bases técnicas conforme a las cuales se determinarán los derechos federales por el uso, explotación o aprovechamiento de las aguas nacionales, y el uso de bienes del dominio público de la nación como cuerpos receptores de las descargas de aguas residuales;
-
-XVII. Fomentar la evaluación y certificación de calidad de los productos de bienes y servicios relacionados con las normas oficiales mexicanas del sector agua, divulgar los resultados respectivos y promover su uso;
-
-XVIII. Dictaminar sobre la procedencia técnica de las solicitudes de los usuarios respecto de nuevos aprovechamientos de aguas nacionales y modificación de los existentes, así como de las solicitudes de los permisos de descarga de aguas residuales, de la definición de las condiciones particulares de descarga y sus modificaciones, a fin de que se integren al título de concesión o asignación, permiso o autorización correspondiente;
-
-XIX. Expedir dictámenes técnicos respecto de la regulación de los aprovechamientos de aguas nacionales y modificación de los existentes, de los permisos de descarga de aguas residuales y sus modificaciones;
-
-XX. Elaborar estudios básicos para las obras de infraestructura del almacenamiento y conducción del agua, así como formular criterios y autorizar los proyectos de todo tipo de obras que puedan afectar el control de ríos o el riesgo de avenidas e inundaciones a las poblaciones;
-
-XXI. Otorgar permisos de construcción o modificación de obras en cauces, vasos y zonas federales, y coordinar el Comité Técnico de Operación de Obras Hidráulicas, órgano interno de decisión en la materia;
-
-XXII. Dictaminar respecto de las solicitudes relacionadas con la calidad de las aguas nacionales, y expedir los dictámenes técnicos relacionados con dicha materia;
-
-XXIII. Programar y promover, con la opinión de la Subsecretaría de Fomento y Normatividad Ambiental de la Secretaría, la elaboración y expedición de las normas oficiales mexicanas, normas mexicanas y normas técnicas del sector agua, así como las políticas y procedimientos para la evaluación de la conformidad de las mismas, de acuerdo con la Ley de Aguas Nacionales y su Reglamento, y la Ley Federal sobre Metrología y Normalización y su Reglamento;
-
-XXIV. Aprobar organismos de certificación, unidades de verificación y laboratorios de prueba, de conformidad con la Ley Federal sobre Metrología y Normalización y su Reglamento, y expedir las aprobaciones respectivas;
-
-XXV. Proponer al Director General de la Comisión Nacional del Agua, las declaratorias de clasificación de los cuerpos de aguas nacionales;
-
-XXVI. Promover y emitir lineamientos para la integración de los comités técnicos de aguas subterráneas de los acuíferos del país, a fin de propiciar la estabilización y recuperación de los mismos por parte de los usuarios;
-
-XXVII. Emitir lineamientos, organizar, dirigir, realizar y difundir los estudios, trabajos y servicios meteorológicos;
-
-XXVIII. Desarrollar y operar redes meteorológicas, directamente o por contrato o convenio con terceros;
-
-XXIX. Operar, mantener actualizados, administrar y desarrollar los sistemas de registro, comunicaciones, cómputo y telemática, requeridos para el funcionamiento del Servicio Meteorológico Nacional y los sistemas para su interacción con redes que permitan la comunicación, transmisión de datos, enlaces entre equipos de las redes de observación y los centros de concentración de datos y la operación continua de la red del área local;
-
-XXX. Sistematizar y llevar a cabo el acopio de información meteorológica e implementar y operar modelos numéricos de la atmósfera y difundir de manera masiva los productos meteorológicos del Servicio Meteorológico Nacional, así como actualizar, desarrollar e integrar la base de datos climatológicos, el banco de imágenes meteorológicas, de satélite y radar;
-
-XXXI. Vigilar la evolución de meteoros que puedan incidir en los escurrimientos de los ríos y en los almacenamientos de los embalses, para prevenir daños por crecientes y proteger contra inundaciones a los centros de población y áreas productivas;
-
-XXXII. Analizar y llevar el registro de la ocurrencia, magnitud y duración de las lluvias, para pronóstico de avenidas, prevención de inundaciones y previsión de sequías;
-
-XXXIII. Elaborar y proporcionar el pronóstico del clima a muy corto, corto, mediano y largo plazos, emitiendo avisos y boletines; alertar a la población, al Sistema Nacional de Protección Civil y a los medios de comunicación sobre la ocurrencia de fenómenos extremos durante su formación, desarrollo y disipación;
-
-XXXIV. Monitorear las condiciones atmosféricas y dar seguimiento a la evolución de humos y gases producidos en la atmósfera por incendios agrícolas y forestales, accidentes químicos, nubes radiactivas, gases de efecto invernadero y erupciones volcánicas;
-
-XXXV. Promover entre la población los servicios y productos del Servicio Meteorológico Nacional, así como con usuarios específicos e instituciones y medios de comunicación;
-
-XXXVI. Dar seguimiento a convenios de cooperación técnica con la Organización Meteorológica Mundial y otras instituciones del país y del extranjero;
-
-XXXVII. Formular y aplicar el programa de capacitación y entrenamiento del Servicio Meteorológico Nacional;
-
-XXXVIII. Establecer las bases técnicas para la atención de las emergencias hidroecológicas y contingencias ambientales, así como para la remediación hidrológica y calidad de los cuerpos de agua afectados, y darles seguimiento hasta su conclusión;
-
-XXXIX. Programar, en coordinación con la Unidad de Comunicación Social, la elaboración, edición y difusión de manuales, libros, lineamientos, criterios y procedimientos técnicos, relacionados con la hidrología, geología, geohidrología, geotecnia, calidad del agua, ingenierías hidráulica, sanitaria y ambiental, y de seguridad estructural de la infraestructura hidráulica, que coadyuven a elevar la eficiencia en el manejo y utilización del agua;
-
-XL. Tramitar y suscribir, en el ámbito de su competencia, previa opinión de la Subdirección General Jurídica, los contratos y demás actos jurídicos que se deriven, incluidos los relativos a las convocatorias y las rescisiones administrativas, entre otros, de acuerdo con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas, el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente y demás disposiciones aplicables en la materia;
-
-XLI. Establecer estrategias y lineamientos de control de malezas y micromalezas acuáticas y su mantenimiento a niveles adecuados en los cuerpos de agua y en las obras de cabeza de distritos de riego;
-
-XLII. Establecer procedimientos para la asesoría, asistencia técnica y capacitación sobre métodos de control y mantenimiento de malezas y micromalezas acuáticas, así como la supervisión de sus acciones, hacia los usuarios y organizaciones autorizadas;
-
-XLIII. Atraer los asuntos de su competencia que se consideren relevantes a fin de atenderlos y dar la solución correspondiente, de acuerdo con la normatividad aplicable;
-
-XLIV. Otorgar la intervención que corresponda a la Subdirección General de Gerencias Regionales, para la mejor atención de los asuntos, y
-
-XLV. Las demás que expresamente le otorguen las disposiciones jurídicas aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 52.
 
-La Subdirección General Jurídica tendrá las atribuciones siguientes:
-
-I. Representar legalmente al titular y a las unidades administrativas de la Comisión Nacional del Agua, en los procedimientos judiciales y administrativos en que se requiera su intervención;
-
-II. Atender y dirigir los asuntos jurídicos de la Comisión Nacional del Agua, de conformidad con los lineamientos internos que, en su caso, dicte la Secretaría a través de su Coordinación General Jurídica;
-
-III. Revisar, en el aspecto jurídico, el otorgamiento de las asignaciones, concesiones, permisos y demás autorizaciones en materia hidráulica, previstas en las disposiciones jurídicas y demás ordenamientos aplicables, así como respecto de su suspensión, clausura, revocación, nulidad, caducidad, modificación y terminación, cuando dicha revisión le sea solicitada por la unidad administrativa competente de la Comisión Nacional del Agua;
-
-IV. Dictaminar los expedientes de infractores a las disposiciones de la Ley de Aguas Nacionales, la Ley Federal de Derechos en lo que se refiere a la materia hidráulica, y de los demás ordenamientos legales aplicables, cuando dicho dictamen le sea solicitado por la unidad administrativa competente de la Comisión Nacional del Agua;
-
-V. Instruir los recursos que se interpongan en contra de actos o resoluciones de las unidades administrativas de la Comisión Nacional del Agua, y someterlos a consideración del superior jerárquico que les corresponda, así como proponer a éste los proyectos de resolución a dichos recursos y resolver los recursos administrativos de su competencia, incluyendo los que se hagan valer contra actos o resoluciones fiscales que emita dicha Comisión;
-
-VI. Representar, defender, contestar, rendir informes, demandar, denunciar, querellarse, allanarse, desistirse, desahogar pruebas, interponer recursos, otorgar perdón, certificar y realizar los trámites necesarios para defender los intereses de la Comisión Nacional del Agua, así como los que se requieran para el cumplimiento y la aplicación de la ley;
-
-VII. Conciliar y, en su caso, fungir a petición de los usuarios, como árbitro en la solución de los conflictos relacionados con el agua, en los términos de las disposiciones jurídicas aplicables;
-
-VIII. Elaborar y proponer los informes previos y justificados que en materia de amparo deban rendir los servidores públicos de la Comisión Nacional del Agua señalados como autoridades responsables, así como los escritos de demanda o contestación, según proceda en las controversias constitucionales o acciones de inconstitucionalidad; intervenir cuando la Comisión tenga carácter de tercero perjudicado en los juicios de amparo, y formular, en general, las promociones que a dichos juicios se refieran;
-
-IX. Brindar asesoría jurídica y participar, con las unidades administrativas competentes, en la concertación, negociación, gestión y adopción de acciones, programas y proyectos, relacionados con la suscripción de convenios, nacionales e internacionales, y demás instrumentos jurídicos de naturaleza análoga, dentro de las atribuciones de la Comisión Nacional del Agua y en los que ésta sea parte, así como suscribir aquellos que le indique el Director General de la propia Comisión;
-
-X. Representar legalmente al titular de la Secretaría en los juicios de orden laboral, respecto de trabajadores de la Comisión Nacional del Agua, dictaminar actas administrativas levantadas a los trabajadores de ésta, presentar demandas de cese y contestaciones de demanda, formular y absolver posiciones, desistirse o allanarse y, en general, realizar todas aquellas promociones que se requieran en el curso del procedimiento;
-
-XI. Intervenir en la tramitación de los expedientes relativos a las expropiaciones en los casos de afectaciones de todo tipo que promueva la Comisión Nacional del Agua, así como en los referentes al pago de indemnización en efectivo y en especie;
-
-XII. Participar, en coordinación con las autoridades competentes, en la titulación de tierras afectadas por la realización de obras hidráulicas o que deban adjudicarse como compensación a particulares, ejidatarios y comuneros;
-
-XIII. Suscribir, en ausencia del titular y demás servidores públicos de la Comisión Nacional del Agua, los informes previos y con justificación que requieran las autoridades judiciales, la interposición de recursos y desahogo de trámites, así como las resoluciones de recursos en los procedimientos administrativos correspondientes;
-
-XIV. Resolver las consultas que, sobre situaciones reales o concretas, le formulen los usuarios de aguas nacionales y las unidades administrativas de la Comisión Nacional del Agua;
-
-XV. Formular y opinar sobre los anteproyectos de iniciativas de leyes o decretos de reglamentos y acuerdos del Presidente de la República, y demás disposiciones de carácter general en las materias competencia de la Comisión Nacional del Agua, de conformidad con los lineamientos internos que, en su caso, dicte la Secretaría a través de su Coordinación General Jurídica;
-
-XVI. Desarrollar y proponer al Director General de la Comisión Nacional del Agua, en coordinación con otras unidades administrativas, entidades y dependencias, proyectos legislativos, reglamentarios, regulatorios y de investigación jurídica que, en materia ambiental, ponderen la importancia de los recursos hidrológicos en el contexto de la seguridad y desarrollo nacionales;
-
-XVII. Establecer lineamientos en materia jurídica, atendiendo los criterios que, en su caso, emita la Coordinación General Jurídica, para procurar la congruencia de los mismos entre las unidades jurídicas adscritas a las gerencias nacionales, regionales y estatales de la Comisión Nacional del Agua;
-
-XVIII. Solicitar a las unidades administrativas de la Comisión Nacional del Agua, la información, documentación y apoyo necesarios para la atención debida de las consultas y de los procedimientos administrativos y jurisdiccionales a su cargo;
-
-XIX. Opinar sobre el nombramiento y, en su caso, solicitar la remoción de los titulares de las unidades jurídicas adscritas a las gerencias nacionales, regionales y estatales de la Comisión Nacional del Agua;
-
-XX. Coordinar la gestión de las unidades jurídicas adscritas a las gerencias nacionales, regionales y estatales de la Comisión Nacional del Agua;
-
-XXI. Proponer a las unidades administrativas de la Comisión Nacional del Agua, los criterios, interpretaciones administrativas y medidas para la correcta aplicación de la Ley de Aguas Nacionales y su Reglamento;
-
-XXII. Revisar y opinar los aspectos jurídicos de formatos, instructivos, manuales, guías y procedimientos utilizados para el ejercicio de las funciones de las unidades administrativas de la Comisión Nacional del Agua;
-
-XXIII. Otorgar la intervención que corresponda a la Subdirección General de Gerencias Regionales, para la mejor atención de los asuntos;
-
-XXIV. Informar a la Coordinación General Jurídica, cuando así lo solicite, respecto de los asuntos jurídicos de la Comisión Nacional del Agua;
-
-XXV. Atraer los asuntos de su competencia que se consideren relevantes a fin de atenderlos y dar la solución correspondiente, de acuerdo con la normatividad aplicable, y
-
-XXVI. Las demás que expresamente le otorguen las disposiciones jurídicas aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 53.
 
-La Subdirección General de Programas Rurales y Participación Social tendrá las atribuciones siguientes:
-
-I. Participar en la elaboración de los proyectos constructivos para programar las acciones en materia de tenencia de la tierra;
-
-II. Elaborar el censo de inmuebles y bienes distintos a la tierra que resulten afectados en la construcción de obras hidráulicas, así como tramitar los expedientes para la expropiación de inmuebles o su adquisición por la vía del derecho privado;
-
-III. Intervenir, en coordinación con las autoridades competentes, en la entrega y titulación de inmuebles que deban adjudicarse como indemnización en especie a los afectados con la construcción de obras a cargo de la Comisión Nacional del Agua;
-
-IV. Concertar con los afectados y las instancias correspondientes, respecto del reacomodo o indemnización por la afectación de bienes inmuebles o bienes distintos a la tierra a consecuencia de la construcción de obras e instalaciones hidráulicas;
-
-V. Promover, en el ámbito municipal, acciones de cultura del agua que considere a este elemento como un recurso vital y escaso;
-
-VI. Realizar las gestiones y acciones necesarias ante las autoridades competentes, para regularizar en favor del Gobierno Federal, los inmuebles ocupados con obras e instalaciones hidráulicas a cargo de la Comisión Nacional del Agua;
-
-VII. Elaborar y mantener actualizado el inventario de los inmuebles ocupados con obras e instalaciones hidráulicas a cargo de la Comisión Nacional del Agua, así como proponer, ante las autoridades competentes, su desincorporación cuando no sean de utilidad para la realización de sus fines;
-
-VIII. Tramitar el pago de honorarios y gastos por la emisión de avalúos y justipreciaciones que realice la Comisión de Avalúos de Bienes Nacionales, respecto de los inmuebles que requiera la Comisión Nacional del Agua;
-
-IX. Coordinar la participación entre los diferentes órdenes de gobierno para el desarrollo de infraestructura hidráulica y prestación de los servicios de agua potable, alcantarillado y saneamiento en comunidades rurales, así como promover y concertar la participación social de los usuarios en su planeación, programación, construcción, operación, conservación y mantenimiento;
-
-X. Orientar y coordinar las actividades de promoción, instalación y desarrollo de los consejos de cuenca, incluyendo sus comisiones y comités;
-
-XI. Coordinar y promover la descentralización de acciones, programas y recursos de la Comisión Nacional del Agua;
-
-XII. Participar en foros nacionales e internacionales relacionados con programas rurales y de participación social;
-
-XIII. Atender los compromisos presidenciales y demandas ciudadanas que se turnen a la Comisión Nacional del Agua;
-
-XIV. Implementar las acciones necesarias con las autoridades competentes para la atención de los problemas de orden social que se presenten por el uso, aprovechamiento o explotación de las aguas nacionales;
-
-XV. Recibir, atender y, en su caso, coordinar y dar seguimiento a las solicitudes y propuestas formuladas por organizaciones, grupos sociales y usuarios de aguas nacionales, ante las diversas autoridades, relativos a problemas de carácter social por el uso, aprovechamiento o explotación de aguas nacionales;
-
-XVI. Tramitar y suscribir, en el ámbito de su competencia, previa opinión de la Subdirección General Jurídica, los contratos y demás actos jurídicos que se deriven, incluidos los relativos a las convocatorias y las rescisiones administrativas, entre otros, de acuerdo con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas, el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente y demás disposiciones aplicables en la materia;
-
-XVII. Atender a los grupos afectados o en conflicto por la operación de obras de infraestructura hidráulica en zonas rurales y urbanas, fomentando la participación activa de las autoridades locales y los usuarios, involucrándolos en la solución del conflicto;
-
-XVIII. Promover la organización y participación de los usuarios de aguas nacionales en los consejos de cuenca y sus órganos auxiliares, así como proponer la actualización de sus reglas de organización y funcionamiento;
-
-XIX. Otorgar la intervención que corresponda a la Subdirección General de Gerencias Regionales, para la mejor atención de los asuntos, y
-
-XX. Las demás que expresamente le otorguen las disposiciones jurídicas aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 54.
 
-La Subdirección General de Gerencias Regionales tendrá las atribuciones siguientes:
-
-I. Coordinar la ejecución de los programas y acciones que correspondan a las gerencias regionales, conforme a las normas y lineamientos aplicables, e informar de los avances y resultados de su ejercicio al Director General de la Comisión Nacional del Agua;
-
-II. Elaborar diagnósticos relativos a la problemática regional en las materias competencia de la Comisión Nacional del Agua;
-
-III. Contribuir en las acciones que convenga el Ejecutivo Federal con los gobiernos estatales, en las que participe la Comisión Nacional del Agua;
-
-IV. Apoyar y coordinar la ejecución de los programas operativos de la Comisión Nacional del Agua que llevan a cabo las gerencias regionales, así como integrar la información, darles seguimiento y evaluar sus resultados;
-
-V. Proporcionar la información y datos técnicos que le sean solicitados;
-
-VI. Coordinar las actividades relativas a la seguridad física de la infraestructura hidráulica de la Comisión Nacional del Agua, y actuar en situaciones de emergencia, principalmente de tipo hidrometeorológicas, sanitarias, químicas y telúricas, entre otros fenómenos naturales;
-
-VII. Intervenir en la formulación de los planes regionales de operación para prevenir daños por efectos de inundación, sismos y desastres diversos relacionados con el agua;
-
-VIII. Promover el intercambio tecnológico e informativo con entidades afines como la Comisión Federal de Electricidad y Petróleos Mexicanos, en lo relativo a seguridad, y
-
-IX. Integrar un grupo de respuesta inmediata para atender y reforzar operativos de emergencia hidrometeorológica, subacuática, sanitaria y en desastres naturales y accidentes, mediante una fuerza especial de tarea debidamente entrenada y capacitada en operativos terrestres, subacuáticos y de radiocomunicación.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 55.
 
-La Unidad de Revisión y Liquidación Fiscal estará a cargo de un Jefe de Unidad y tendrá las atribuciones siguientes:
-
-I. Requerir a los usuarios y contribuyentes que acrediten el cumplimiento de sus obligaciones fiscales, en los términos de las disposiciones jurídicas aplicables;
-
-II. Ordenar la práctica de visitas domiciliarias e inspecciones tendientes a comprobar el exacto cumplimiento de las obligaciones fiscales, en los términos de las disposiciones jurídicas aplicables;
-
-III. Requerir a los usuarios y contribuyentes para que de conformidad con las disposiciones jurídicas aplicables, exhiban y entreguen en su domicilio, establecimiento o ante las oficinas de las propias autoridades, toda clase de documentos e información a efecto de llevar a cabo su revisión;
-
-IV. Determinar, actualizar y liquidar créditos fiscales, que corresponda cubrir a los usuarios y contribuyentes conforme a lo dispuesto por las disposiciones jurídicas aplicables, con excepción de multas por infracción a la Ley de Aguas Nacionales;
-
-V. Notificar a los usuarios y contribuyentes las resoluciones que emita conforme a sus atribuciones;
-
-VI. Imponer las sanciones que procedan y que constituyan crédito fiscal por violación a las disposiciones jurídicas aplicables, en base a lo que le turne la Subdirección General de Administración del Agua para el efecto;
-
-VII. Atender las consultas de carácter fiscal presentadas por escrito por los usuarios y contribuyentes, así como las solicitudes de devolución, avisos de compensación y solicitudes de autorizaciones de pago de contribuciones a plazo, ya sea diferido o en parcialidades, respecto al cumplimiento de las disposiciones jurídicas aplicables, y asesorarlos para el debido cumplimiento de sus obligaciones;
-
-VIII. Proporcionar a la Subdirección General Jurídica, la información, documentación y apoyo para el debido conocimiento de los asuntos impugnados mediante juicio o recursos administrativos;
-
-IX. Revisar la situación fiscal de los usuarios y contribuyentes y, en su caso, proceder a la determinación, liquidación, notificación, cobro y recaudación de los créditos fiscales, como consecuencia de los informes proporcionados por la Subdirección General de Administración del Agua;
-
-X. Expedir credenciales o constancias de identificación para auditores, inspectores, visitadores en general y notificadores que los acredite como tales;
-
-XI. Emitir y notificar los adeudos fiscales que tengan los usuarios y contribuyentes con la Comisión Nacional del Agua;
-
-XII. Solicitar a la Secretaría de Hacienda y Crédito Público, el inicio y seguimiento del procedimiento administrativo de ejecución hasta su conclusión, en los casos que proceda, remitiendo la documentación necesaria para los efectos procedentes;
-
-XIII. Dictar las medidas de apremio que procedan en los términos que dispongan las disposiciones jurídicas aplicables;
-
-XIV. Imponer las multas que procedan por infracciones a las disposiciones fiscales en materia hidráulica, así como condonarlas en los términos que lo determinen los ordenamientos legales correspondientes;
-
-XV. Informar a la Procuraduría Fiscal de la Federación de la Secretaría de Hacienda y Crédito Público, de los hechos de que tenga conocimiento que puedan constituir delitos fiscales;
-
-XVI. Otorgar subsidios en el pago del derecho por el uso de agua a las personas que usen o aprovechen aguas nacionales, previa opinión de las Secretarías de Hacienda y Crédito Público, y de Economía, y siempre que demuestren ante la Comisión Nacional del Agua con los estudios técnicos que procedan, que el agua no tiene uso alternativo y que ésta expida el certificado respectivo, y
-
-XVII. Proporcionar asistencia gratuita a los usuarios y contribuyentes, para lo cual deberá orientar y auxiliar a los mismos para el debido cumplimiento de sus obligaciones fiscales en materia de aguas nacionales.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 56.
 
-La Unidad de Comunicación Social estará a cargo de un gerente y tendrá, en el ámbito de la competencia de la Comisión Nacional del Agua, las facultades que se señalan en el artículo 15 del presente Reglamento.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 57.
 
-La Unidad de Agua Potable y Saneamiento estará a cargo de un Jefe y tendrá las atribuciones siguientes:
-
-I. Dirigir, estudiar, proyectar, programar, supervisar, construir y emitir lineamientos respecto de las obras hidráulicas de agua potable, alcantarillado y saneamiento, de acuerdo con los programas establecidos por la Comisión Nacional del Agua;
-
-II. Dirigir la administración de los estudios, proyectos y construcción de las obras para agua potable, alcantarillado y saneamiento;
-
-III. Apoyar técnicamente a los gobiernos de los estados y municipios y a los particulares, en el estudio, proyecto y ejecución, en su caso, de obras de agua potable, alcantarillando y saneamiento;
-
-IV. Autorizar los contratos para obras de agua potable, alcantarillado y saneamiento, así como de estudios y obras;
-
-V. Autorizar las convocatorias de las licitaciones públicas nacionales e internacionales para la asignación de estudios y obras, y
-
-VI. Evaluar y supervisar los avances de las obras de agua potable, alcantarillado y saneamiento.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 58.
 
-La Unidad de Asuntos Fronterizos tendrá las siguientes atribuciones:
-
-I. Promover, conforme a la normatividad aplicable, un marco de diálogo en materia de infraestructura hidráulica con autoridades de países en las fronteras de México, que propicie la planeación integral del desarrollo y bien común;
-
-II. Ser enlace y canal preferencial de comunicación de la Comisión Nacional del Agua, para todos los asuntos hidráulicos y de saneamiento, relacionados con las poblaciones ubicadas en las fronteras de México;
-
-III. Participar con las demás unidades administrativas de la Comisión Nacional del Agua, en las reuniones de asesoría técnica que se convoquen por la Comisión Internacional de Límites de Aguas;
-
-IV. Llevar a cabo la coordinación interinstitucional de las diferentes dependencias que intervienen en la atención de la problemática hidráulica y de saneamiento de las localidades en las fronteras de México;
-
-V. Dar seguimiento a los compromisos internacionales en las fronteras de México, que sean competencia de la Comisión Nacional del Agua;
-
-VI. Promover un marco de diálogo y de apoyo a los organismos competentes y a las cancillerías, con los países con frontera con México, en materia de recursos hidráulicos fronterizos, y
-
-VII. Apoyar y coordinar las actividades que en el marco del Programa de Desarrollo de la Frontera Norte y del Plan Puebla-Panamá 2001-2006, lleven a cabo las gerencias regionales y estatales de la Comisión Nacional del Agua.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 59.
 
-La Unidad del Servicio Meteorológico Nacional tendrá las siguientes atribuciones:
-
-I. Desarrollar y promover las capacidades técnicas básicas que se requieran para que las obras, acciones y programas de la Comisión Nacional del Agua en materia de servicios meteorológicos y productos climatológicos, sean de calidad;
-
-II. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos, que permitan dar unidad a las acciones del Gobierno Federal, en materia de meteorología y climatología, y coordinar su aplicación;
-
-III. Organizar, dirigir, coordinar y supervisar el desarrollo de las atribuciones señaladas para las Gerencias de Redes y Observación Telemática, de Informática y Telecomunicaciones, y de Meteorología;
-
-IV. Dirigir, realizar y difundir los estudios, trabajos, productos y servicios meteorológicos y climatológicos;
-
-V. Promover y difundir entre la población, los servicios y productos del Servicio Meteorológico Nacional, como fuente oficial de información meteorológica en el país, así como entre los usuarios específicos, instituciones y medios de comunicación;
-
-VI. Dar seguimiento a convenios de cooperación técnica con la Organización Meteorológica Mundial y otras instituciones afines del país y del extranjero;
-
-VII. Fomentar la investigación científica y el desarrollo tecnológico en materia de meteorología y sistemas de monitoreo atmosférico, su aplicación y la formación y capacitación de los recursos humanos relacionados, y
-
-VIII. Acordar con el Subdirector General Técnico los asuntos de su competencia y atender los demás asuntos que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 60.
 
-La Coordinación de Evaluación tendrá las siguientes atribuciones:
-
-I. Solicitar a otras dependencias y entidades federales, estatales y municipales, la documentación e información necesarias para el ejercicio de sus atribuciones;
-
-II. Coordinarse con las diferentes autoridades competentes, a fin de ejercer sus facultades de administración y custodia de las aguas nacionales y sus bienes públicos inherentes;
-
-III. Coordinar, supervisar y evaluar la aplicación de las disposiciones legales que le corresponden a la Subdirección General de Administración del Agua; la operación de los manuales de procedimientos que al efecto se aprueben, y el cumplimiento de la normatividad a cargo de servidores públicos de las gerencias regionales y estatales emitidas por las áreas competentes;
-
-IV. Coordinar y realizar visitas de supervisión a gerencias regionales y estatales, para verificar el avance y cumplimiento de los programas encomendados a la Subdirección General de Administración del Agua;
-
-V. Formular indicadores de gestión que permitan determinar el nivel de productividad, cumplimiento de políticas y obtención de resultados de las gerencias regionales y estatales en materia de administración del agua, proporcionando información oportuna y relevante para apoyar la toma de decisiones;
-
-VI. Proponer a la unidades administrativas competentes de la Comisión Nacional del Agua, los lineamientos tendientes al establecimiento de criterios de calidad total, a efecto de propiciar la mejora continua de los servicios que proporciona la propia Comisión para el otorgamiento de concesiones, asignaciones o permisos, y
-
-VII. Proveer y coordinar las acciones necesarias para fomentar la capacitación del personal de administración del agua, con el objeto de actualizar y reforzar sus conocimientos en la materia, así como para la creación de nuevos cuadros que busquen la preservación de la calidad y cantidad de las aguas nacionales para lograr su uso integral sostenido.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 61.
 
-La Coordinación de Atención a Organismos Fiscalizadores tendrá las siguientes atribuciones:
-
-I. Representar a la Comisión Nacional del Agua, ante los órganos fiscalizadores y entidades globalizadoras y de control, para efectos de atención a auditorías y programas encomendados;
-
-II. Dirigir la atención y aclaración para la solventación de los requerimientos, recomendaciones y observaciones que las instancias de control, vigilancia y globalizadoras, formulen a las unidades administrativas de la Comisión Nacional del Agua;
-
-III. Dar seguimiento a todos los actos y programas de fiscalización que planteen las instancias de control, vigilancia y globalizadoras para la Comisión Nacional del Agua;
-
-IV. Apoyar a las áreas en el análisis, integración y remisión de información y documentación a las diversas instancias fiscalizadoras, y verificar que se realice en tiempo y forma;
-
-V. Identificar las áreas y procesos con mayor número de observaciones y recomendaciones, a fin de proponer alternativas de mejora para evitar la recurrencia;
-
-VI. Mantener, permanentemente informadas, con veracidad, confiabilidad y congruencia, a las autoridades de la Comisión Nacional del Agua y diversas instancias, con respecto de los avances y resultados de las funciones asignadas, y
-
-VII. Acordar con el Subdirector General de Administración los asuntos de su competencia y atender los demás que en forma expresa le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 62.
 
-La Comisión Nacional del Agua contará, además, con las siguientes gerencias nacionales:
-
-I. Gerencia de Agua Potable y Alcantarillado en el Medio Rural;
-
-II. Gerencia de Tenencia de la Tierra;
-
-III. Gerencia de Servicios a Usuarios;
-
-IV. Gerencia de Recaudación;
-
-V. Gerencia de Registro Público de Derechos de Agua;
-
-VI. Gerencia de Evaluación y Programación;
-
-VII. Gerencia de Proyectos de Infraestructura Hidroagrícola;
-
-VIII. Gerencia de Contratación de Obra Pública;
-
-IX. Gerencia de Construcción de Infraestructura Hidroagrícola;
-
-X. Gerencia de Consejos de Cuenca;
-
-XI. Gerencia de Estudios y Proyectos;
-
-XII. Gerencia de Potabilización y Tratamiento;
-
-XIII. Gerencia de Fortalecimiento Institucional;
-
-XIV. Gerencia de Atención Social y Legislativa;
-
-XV. Gerencia de Distritos y Unidades de Riego;
-
-XVI. Gerencia de Distritos de Temporal Tecnificado;
-
-XVII. Gerencia de Normatividad de Aguas Nacionales;
-
-XVIII. Gerencia de Operación, Conservación e Ingeniería Industrial de Presas, Plantas de Bombeo y Acueductos;
-
-XIX. Gerencia de Inspección y Medición;
-
-XX. Gerencia de Consultivo Técnico;
-
-XXI. Gerencia de Aguas Superficiales e Ingeniería de Ríos;
-
-XXII. Gerencia de Aguas Subterráneas;
-
-XXIII. Gerencia de Saneamiento y Calidad del Agua;
-
-XXIV. Gerencia de Ingeniería Básica y Normas Técnicas;
-
-XXV. Gerencia de Estudios para el Desarrollo Hidráulico Integral;
-
-XXVI. Gerencia de Planeación Hidráulica;
-
-XXVII. Gerencia de Uso Eficiente del Agua y la Energía Eléctrica;
-
-XXVIII. Gerencia de Financiamiento;
-
-XXIX. Gerencia de Personal;
-
-XXX. Gerencia de Recursos Financieros;
-
-XXXI. Gerencia de Recursos Materiales;
-
-XXXII. Gerencia de Descentralización;
-
-XXXIII. Gerencia de Informática y Telecomunicaciones;
-
-XXXIV. Gerencia de Redes y Observación Telemática;
-
-XXXV. Gerencia de Meteorología;
-
-XXXVI. Gerencia de Protección a la Infraestructura y Atención de Emergencias;
-
-XXXVII. Gerencia del Programa de Modernización del Manejo del Agua;
-
-XXXVIII. Gerencia de Innovación y Calidad;
-
-XXXIX. Gerencia de lo Consultivo;
-
-XL. Gerencia de lo Contencioso, y
-
-XLI. Gerencia de Procedimientos Administrativos.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 63.
 
-La Gerencia de Agua Potable y Alcantarillado en el Medio Rural tendrá las siguientes atribuciones:
-
-I. Coordinar los esfuerzos federales, estatales y municipales, para abatir el rezago en materia de agua potable, alcantarillado y saneamiento en las comunidades rurales;
-
-II. Elaborar la programación y presupuestación de los programas anuales de agua potable, alcantarillado y saneamiento en zonas rurales;
-
-III. Definir, con las instituciones, gobiernos estatales, municipios, organismos y beneficiarios, la estructura financiera de los programas y obras que se decidan emprender en el medio rural;
-
-IV. Analizar los informes de avances físicos y financieros, y evaluarlos en relación con las metas anuales, así como reforzar las acciones correctivas;
-
-V. Emitir opinión sobre la aplicación de las nuevas tecnologías relacionadas con el agua potable, alcantarillado y saneamiento en el medio rural;
-
-VI. Establecer los lineamientos para promover y concertar la participación de los beneficiarios en la construcción, la operación y el mantenimiento de los sistemas de agua potable, alcantarillado y saneamiento, construidos con el programa;
-
-VII. Coordinar y dar seguimiento a las actividades derivadas del contrato de préstamo 1161/OC-ME, sobre el programa para la sostenibilidad de los servicios de agua potable y saneamiento en comunidades rurales y las normas y procedimientos que se convengan con el Banco Interamericano de Desarrollo (BID), y
-
-VIII. Diseñar, desarrollar y operar procesos de cómputo, que permitan el seguimiento de las acciones y control de los programas a cargo de esta gerencia.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 64.
 
-La Gerencia de Tenencia de la Tierra tendrá las siguientes atribuciones:
-
-I. Supervisar y asesorar en la integración de expedientes de expropiación en base a la normatividad en materia de tenencia de la tierra;
-
-II. Tramitar las adquisiciones de las superficies necesarias para realizar las obras e instalaciones a cargo de la Comisión Nacional del Agua, por la vía legal correspondiente;
-
-III. Tramitar, en coordinación con las autoridades competentes, la expropiación y escrituración de terrenos que deban adjudicarse como indemnización en especie a particulares, ejidatarios y comuneros afectados por la realización de obras hidráulicas;
-
-IV. Coadyuvar en la concertación con los beneficiarios, la recuperación de la inversión federal en obras de infraestructura hidráulica, en los términos de la Ley de Aguas Nacionales y su Reglamento;
-
-V. Procurar la organización de los usuarios de las zonas de riego y la forma que éstos coadyuvarán en la solución de los problemas de los afectados por las obras hidráulicas;
-
-VI. Participar en la elaboración de los planes de reacomodo, cuando por obras hidráulicas resulten afectadas comunidades, ejidos o pequeños propietarios;
-
-VII. Regularizar la adquisición de inmuebles patrimonio del gobierno federal al servicio de la Comisión Nacional del Agua, gestionando ante las autoridades competentes su registro;
-
-VIII. Gestionar ante la Comisión de Avalúos de Bienes Nacionales, los dictámenes relativos al pago de las indemnizaciones;
-
-IX. Atender todo lo relativo a indemnizaciones, pagos, depósitos y reclamaciones que se presenten por afectaciones de inmuebles;
-
-X. Realizar el inventario de bienes inmuebles que se encuentran al servicio de la Comisión Nacional del Agua, y mantenerlo actualizado;
-
-XI. Tramitar, en coordinación con las áreas competentes, la declaratoria sobre el establecimiento o acuerdo de creación de los distritos de riego, unidades de riego y drenaje, construidos con inversión federal, y
-
-XII. Tramitar, en coordinación con las áreas competentes, la reversión mediante decreto presidencial, de los terrenos que se hubieran adquirido por expropiación y que no sean útiles para las obras hidráulicas o instalaciones de la Comisión Nacional del Agua.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 65.
 
-La Gerencia de Servicios a Usuarios tendrá las siguientes atribuciones:
-
-I. Solicitar a otras dependencias y entidades federales, estatales y municipales, la documentación e información necesarias para el ejercicio de sus atribuciones;
-
-II. Coordinarse con las diferentes autoridades competentes, a fin de ejercer sus facultades de administración y custodia de las aguas nacionales y sus bienes públicos inherentes;
-
-III. Emitir las resoluciones derivadas de los procedimientos administrativos previstos en la Ley de Aguas Nacionales y su Reglamento, con excepción de aquellas, cuya emisión correspondan a otra unidad administrativa;
-
-IV. Proporcionar servicios de orientación e información al público sobre los trámites y procedimientos administrativos de su competencia;
-
-V. Otorgar, modificar, suspender, denegar, expedir, prorrogar y declarar la terminación de concesiones, asignaciones y permisos, así como autorizar la cesión, transmisión y transferencia de las obligaciones y derechos emanados de un título de concesión, asignación y permiso, establecidos en la Ley de Aguas Nacionales, su Reglamento y demás disposiciones jurídicas aplicables;
-
-VI. Establecer, previa opinión de la Subdirección General Técnica, las condiciones particulares que deberán contener los permisos de descarga de aguas residuales;
-
-VII. Emitir los certificados de calidad del agua y de las aguas interiores salobres, conforme a lo establecido en la legislación de la materia, con base en el dictamen que emita la Subdirección General Técnica, y expedir la constancia de no caducidad de volúmenes solicitada por los concesionarios de aguas nacionales;
-
-VIII. Certificar documentos que obren en los expedientes, y emitir las constancias relativas a los asuntos de su competencia, y
-
-IX. Las demás que expresamente le otorguen las disposiciones jurídicas aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 66.
 
-La Gerencia de Recaudación tendrá las siguientes atribuciones:
-
-I. Solicitar a otras dependencias y entidades federales, estatales y municipales, la documentación e información necesarias para el ejercicio de sus atribuciones;
-
-II. Coordinarse con las diferentes autoridades competentes a fin de ejercer sus facultades de administración y custodia de las aguas nacionales y sus bienes públicos inherentes;
-
-III. Llevar el control de pagos realizados por los contribuyentes con motivo de las obligaciones derivadas del cumplimiento de la Ley Federal de Derechos, Ley de Aguas Nacionales y su Reglamento y demás disposiciones jurídicas aplicables, así como proporcionar a la Unidad de Revisión y Liquidación Fiscal, las bases para la determinación de los créditos fiscales de que tenga conocimiento, y
-
-IV. Las demás que expresamente le otorguen las disposiciones jurídicas aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 67.
 
-La Gerencia de Registro Público de Derechos de Agua tendrá las siguientes atribuciones:
-
-I. Ser depositaria de la fe pública registral en la materia;
-
-II. Inscribir en el Registro Público de Derechos de Agua, los títulos de concesión o asignación de aguas nacionales y sus bienes públicos inherentes, así como los permisos de descarga de aguas residuales señalados en la Ley de Aguas Nacionales y su Reglamento;
-
-III. Inscribir en el Registro Público de Derechos de Agua, los movimientos a los títulos de concesión o asignación de aguas nacionales y sus bienes públicos inherentes, así como los permisos de descarga de aguas residuales señalados en la Ley de Aguas Nacionales y su Reglamento: prórrogas, modificaciones, rectificaciones, correcciones administrativas, transmisiones de derechos, suspensión y terminación de las concesiones o asignaciones;
-
-IV. Inscribir en el Registro Público de Derechos de Agua, las sentencias o resoluciones administrativas o judiciales definitivas que afecten, modifiquen, cancelen o ratifiquen los títulos y actos inscritos, y los derechos que de ellos deriven, cuando sean notificadas por juez, autoridad competente o presentadas por los interesados a la Comisión Nacional del Agua;
-
-V. Inscribir en el Registro Público de Derechos de Agua, las resoluciones emitidas por el Presidente de la República o por el Tribunal Superior Agrario que amplíen o doten de agua;
-
-VI. Negar la inscripción en el Registro Público de Derechos de Agua, de aquellos títulos o actos que no cumplan con los requisitos para su registro, fundando y motivando su rechazo conforme a la normatividad aplicable;
-
-VII. Llevar a cabo en el Registro Público de Derechos de Agua, las anotaciones preventivas que le sean solicitadas por autoridad competente, las cuales alertarán sobre la existencia de actos que puedan tener como consecuencia afectar, modificar, cancelar, ratificar o rectificar los títulos de concesión o asignación, así como los derechos que de ellos deriven;
-
-VIII. Expedir las constancias y certificaciones que soliciten las autoridades o particulares, sobre los asientos registrales;
-
-IX. Designar a los encargados de las oficinas del Registro Público de Derechos de Agua en las gerencias regionales;
-
-X. Atender las consultas que se formulen a la Comisión Nacional del Agua, en relación con los actos inscritos y sus antecedentes registrales;
-
-XI. Establecer los lineamientos y políticas a seguir por las oficinas del Registro Público de Derechos de Agua, localizadas en el territorio nacional;
-
-XII. Producir la información estadística y cartográfica sobre los derechos inscritos y contenidos en la base de datos que almacena la información de los títulos inscritos en el Registro Público de Derechos de Agua;
-
-XIII. Resguardar los expedientes de los títulos de concesión o asignación inscritos en el Registro Público de Derechos de Agua, así como su respaldo en medios magnéticos, y
-
-XIV. Las demás que específicamente le asignen las disposiciones legales.
-
-Para el ejercicio de las atribuciones referidas en este artículo, la Gerencia de Registro Público de Derechos de Agua contará con las Subgerencias de Operación, de Estadística y Cartografía, y de Control Documental, y se auxiliará de subgerencias en cada gerencia regional. Todas las subgerencias contarán con las jefaturas de proyecto y jefes de departamento necesarios para el ejercicio de sus atribuciones, de conformidad con el presupuesto aprobado.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 68.
 
-La Gerencia de Evaluación y Programación tendrá las siguientes atribuciones:
-
-I. Desarrollar e implantar metodologías, parámetros e información básica y sistemas para la aplicación en la Comisión Nacional del Agua, del enfoque de asignación multianual de inversiones, establecido por la Secretaría de Hacienda y Crédito Público, para la formulación de alternativas de programas de inversión de corto y mediano plazos, que permitan lograr los mayores impactos económicos y sociales de los recursos asignados al sector hidráulico;
-
-II. Desarrollar, implantar y aplicar metodologías, parámetros, información básica y sistemas para la evaluación socioeconómica de proyectos para la programación de las inversiones;
-
-III. Evaluar la cartera nacional de proyectos y programas de infraestructura hidráulica para la programación de las inversiones;
-
-IV. Integrar, dar seguimiento y evaluar el programa y presupuesto anual de la Comisión Nacional del Agua, de conformidad con los lineamientos establecidos por las instancias correspondientes;
-
-V. Integrar los anteproyectos y proyectos de los programas y presupuestos de la Comisión Nacional del Agua; apoyar la gestión de la autorización del programa de presupuesto anual, e integrar y apoyar la gestión de las adecuaciones y modificaciones;
-
-VI. Diseñar y coordinar la formulación, integración y seguimiento del programa operativo anual en los niveles nacional, regional y estatal;
-
-VII. Coordinar el proceso de programación y presupuestación, en lo relativo al registro de asignaciones presupuestarias anuales y recursos de coinversión del sector hidráulico y de las características de los proyectos de inversión en infraestructura, y los recursos y metas históricos y prospectivos, como base del programa operativo anual del sector hidráulico;
-
-VIII. Coordinar el seguimiento de la ejecución de los proyectos de infraestructura y de los programas de obra pública;
-
-IX. Integrar la participación de la Comisión Nacional del Agua, en los informes para la cuenta de la hacienda pública federal, en lo concerniente al análisis de las variaciones programáticas y de metas de los indicadores estratégicos;
-
-X. Coordinar el seguimiento físico-financiero del programa-presupuesto de la Comisión Nacional del Agua, en lo referente a metas de los indicadores estratégicos del presupuesto de egresos de la propia Comisión, y
-
-XI. Coordinar la evaluación de los programas sectoriales mediante la aportación de la Comisión Nacional del Agua, al informe de ejecución del Plan Nacional de Desarrollo, informe de gobierno, informe de labores de la Secretaría y demás instrumentos de evaluación sectorial y programática.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 69.
 
-La Gerencia de Proyectos de Infraestructura Hidroagrícola tendrá las siguientes atribuciones:
-
-I. Diseñar lineamientos, realizar, supervisar y asesorar la ejecución de los estudios específicos y proyectos ejecutivos para las obras de infraestructura hidroagrícola y de protección contra inundaciones, así como elaborar y difundir especificaciones y catálogos de conceptos de obra de esta naturaleza, vigilando que las mismas contengan un marco de calidad total;
-
-II. Diseñar los estudios específicos y el diseño de obras de irrigación, así como la rehabilitación y modernización de los distritos de riego, desecación, drenaje y de defensa contra inundaciones, así como las estructuras principales, tales como canales, presas y sus estructuras auxiliares;
-
-III. Asesorar a las unidades administrativas estatales y regionales de la Comisión Nacional del Agua, en la correcta aplicación de la normatividad establecida en la elaboración de diseños ejecutivos de obras de infraestructura de riego;
-
-IV. Dirigir y supervisar la elaboración de diseños ejecutivos de presas, zonas de riego, equipos mecánicos, eléctricos y electrónicos, así como obras de protección contra inundaciones a zonas productivas y para mejoramiento de estructuras;
-
-V. Verificar que la construcción de las obras de infraestructura hidroagrícola y de protección contra inundaciones a zonas productivas, se realice de acuerdo a los diseños y especificaciones aprobados;
-
-VI. Realizar visitas técnicas para observar la operación y comportamiento de la infraestructura construida, a fin de obtener la información que permita optimizar los diseños;
-
-VII. Verificar que la información utilizada para la realización de los diseños sea suficiente y precisa, a fin de garantizar la funcionalidad, seguridad y economía requeridas;
-
-VIII. Elaborar y difundir especificaciones y catálogos de concepto de trabajo para las obras de infraestructura hidroagrícola y de protección contra inundaciones a zonas productivas, y
-
-IX. Acordar con el Subdirector General de Infraestructura Hidroagrícola los asuntos de su competencia y los demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 70.
 
-La Gerencia de Contratación de Obra Pública tendrá las siguientes atribuciones:
-
-I. Difundir las normas y procedimientos para la contratación de obras y servicios relacionados con las mismas, así como tabuladores de precios y escalatorias relacionadas con obras hidráulicas;
-
-II. Apoyar la tramitación de los contratos relacionados con los trabajos de construcción, conservación y mejoramiento de la infraestructura a cargo de la Comisión Nacional del Agua;
-
-III. Integrar los informes y reportes de los procesos de licitación y adjudicación de contratos a cargo de la Comisión Nacional del Agua;
-
-IV. Elaborar y mantener actualizado el registro sobre el ejercicio físico financiero de todos los contratos de obra pública y de servicios a cargo de la Comisión Nacional del Agua;
-
-V. Participar y atender los requerimientos provenientes de las comisiones mixtas integradas por la Comisión Nacional del Agua y las cámaras mexicanas de industria de la construcción y nacional de empresas de consultoría;
-
-VI. Evaluar, supervisar y asesorar a las gerencias regionales y estatales para la correcta integración de los expedientes de los contratos de obra pública y de servicios relacionados con las mismas;
-
-VII. Promover la realización de cursos de capacitación y asesorías para las gerencias regionales y estatales, con relación a la aplicación de la legislación y normatividad vigentes en materia de obra pública y servicios relacionados con las mismas, y
-
-VIII. Acordar con el titular de la Unidad de Asuntos Fronterizos los asuntos de su competencia y los demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 71.
 
-La Gerencia de Construcción de Infraestructura Hidroagrícola tendrá las siguientes atribuciones:
-
-I. Asistir técnicamente a las gerencias regionales y estatales en el proceso constructivo de las obras y proporcionar el apoyo logístico que éste requiera en sus diferentes etapas;
-
-II. Fijar los procedimientos y lineamientos para la supervisión de las obras y vigilar su aplicación por las gerencias regionales y estatales;
-
-III. Difundir y supervisar la aplicación de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y su Reglamento, así como la normatividad relacionada con la construcción de la infraestructura hidroagrícola, promoviendo que los procesos inherentes cumplan con las políticas de transparencia e información a los usuarios y sociedad en general;
-
-IV. Elaborar las especificaciones de los conceptos y los catálogos de precios unitarios utilizados en la construcción como apoyo para la elaboración de presupuestos tanto en los procesos de programación como de referencia en las licitaciones de obra pública;
-
-V. Supervisar los avances físicos y financieros de los proyectos autorizados y proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, las acciones necesarias para el debido cumplimiento de calidad, costos y tiempos programados, y
-
-VI. Acordar con el Subdirector General de Infraestructura Hidroagrícola los asuntos de su competencia y demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 72.
 
-La Gerencia de Consejos de Cuenca tendrá las siguientes atribuciones:
-
-I. Orientar la planeación integral de los consejos de cuenca dentro del marco del Plan Nacional de Desarrollo y el Programa Hidráulico vigentes, y evaluar periódicamente su gestión;
-
-II. Mantener actualizado, con apoyo de las áreas correspondientes de la propia Comisión Nacional del Agua, los estudios básicos para la creación, orientación y fortalecimiento de los consejos de cuenca;
-
-III. Revisar el padrón de usuarios y su regulación; fomentar la regularización de los usuarios del agua por cuenca hidrológica, así como su capacitación, y acreditar las organizaciones para su participación en los consejos de cuenca;
-
-IV. Determinar e instrumentar mecanismos de coordinación institucional, concertación social y descentralización con los consejos de cuenca, y dar seguimiento a su funcionamiento;
-
-V. Promover la instalación de los consejos de cuenca y la creación de mecanismos de integración y desarrollo de organismos de cuenca, así como de las comisiones de trabajo que se requieran para cumplir con sus objetivos;
-
-VI. Apoyar la operación de los consejos de cuenca, y para llevar el seguimiento y la coordinación del cumplimiento de sus acuerdos y compromisos, y
-
-VII. Servir de enlace y apoyo a los consejos de cuenca, para la instrumentación detallada de las estrategias y líneas de acción contenidas en la programación hidráulica, así como para canalizar la participación de los consejos de cuenca en los programas de la Comisión Nacional del Agua.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 73.
 
-La Gerencia de Estudios y Proyectos tendrá las siguientes atribuciones:
-
-I. Proporcionar asistencia técnica en estudios y proyectos de agua potable y alcantarillado para coadyuvar en el mejoramiento de la prestación de los servicios mediante la transferencia de tecnología;
-
-II. Dirigir las acciones para la integración, presentación y determinación de los programas de estudios y proyectos a ejecutarse dentro del marco de los programas de agua potable y alcantarillado;
-
-III. Asistir con el apoyo técnico y normativo a las gerencias regionales y estatales para la elegibilidad de los proyectos;
-
-IV. Participar en la definición y gestión de recursos fiscales federales y aportaciones estatales y municipales, necesarias para la ejecución de estudios y proyectos;
-
-V. Dirigir, coordinar y elaborar por excepción, estudios y proyectos por solicitud expresa de los gobiernos estatales y municipales, y por otras instancias, que se requiera realizar directamente en la Unidad de Agua Potable y Saneamiento;
-
-VI. Proporcionar apoyo para la definición de nuevas fuentes de abastecimiento a localidades del país;
-
-VII. Asistir a las gerencias regionales y estatales y a los organismos operadores en la evaluación técnica, económica y social de proyectos de inversión;
-
-VIII. Reportar el cierre del presupuesto asignado en estudios y proyectos para integrar la cuenta de la hacienda pública federal en el año fiscal de que se trate;
-
-IX. Promover y transferir tecnologías para el uso eficiente del agua y la energía, y
-
-X. Promover, elaborar y contratar estudios de interés nacional.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 74.
 
-La Gerencia de Potabilización y Tratamiento tendrá las siguientes atribuciones:
-
-I. Asistir técnicamente e impulsar el desarrollo y mejoramiento de los sistemas de potabilización, tratamiento de aguas residuales, y tratamiento y manejo de lodos en centros urbanos; realizar acciones relativas al programa de agua limpia; coadyuvar al desarrollo e implementación de políticas para la preservación en calidad y cantidad del recurso agua, y adecuar y promover la transferencia y aplicación de tecnologías sustentables;
-
-II. Asistir técnicamente a las gerencias regionales y estatales de la Comisión Nacional del Agua, así como a los organismos operadores responsables de la prestación de los servicios en la revisión y evaluación de estudios de diagnóstico y planeación integral en materia de potabilización y tratamiento de agua, en la validación de los proyectos que deriven de la aplicación de los programas para la modernización de organismos operadores de agua y el de agua potable, alcantarillado y saneamiento en zonas urbanas;
-
-III. Asistir técnicamente a las gerencias regionales y estatales de la Comisión Nacional del Agua, en la revisión y evaluación de los programas de acciones de saneamiento, así como la validación y seguimiento de las diversas etapas esenciales que deben integrar los citados programas de acciones;
-
-IV. Concentrar, evaluar y procesar la información de las plantas potabilizadoras y de tratamiento de aguas residuales a nivel nacional para la actualización de indicadores técnicos y la publicación anual de los inventarios correspondientes;
-
-V. Establecer y proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, instrumentos de política nacional para la potabilización del agua, del saneamiento de las aguas residuales y de las acciones relativas al programa de agua limpia, que faciliten e impulsen el mejoramiento y la calidad de los servicios de agua potable y tratamiento de aguas residuales en las localidades urbanas del país, así como en la prevención y control de enfermedades de origen hídrico;
-
-VI. Fomentar la realización de estudios y proyectos de investigación y de desarrollo tecnológico para la potabilización del agua, el tratamiento de aguas residuales, el tratamiento y disposición de los lodos producidos, así como de prevención y control de enfermedades de origen hídrico en la población, principalmente en las zonas marginadas, rurales e indígenas;
-
-VII. Propiciar el intercambio tecnológico para adoptar tecnologías apropiadas que permitan la desalinización y adecuación del agua de mar y de otras fuentes alternas para su uso en el suministro público, así como para el desarrollo de los sistemas de potabilización del agua y de tratamiento de aguas residuales en el país;
-
-VIII. Promover y fortalecer el intercambio de aguas residuales tratadas por aguas de primer uso, con el aprovechamiento de aguas residuales tratadas en los diversos sectores productivos del país;
-
-IX. Promover la recarga de acuíferos con aguas de escurrimiento pluvial y con aguas residuales tratadas;
-
-X. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, acciones de potabilización y tratamiento para su inclusión en el programa operativo anual de la Unidad de Agua Potable y Saneamiento, así como supervisar su ejecución;
-
-XI. Participar en los programas de cooperación internacional en materia de desarrollo tecnológico, consultoría especializada, información técnica, capacitación e intercambio de experiencias, y
-
-XII. Participar en programas de saneamiento de cuencas hidrológicas en el ámbito de competencia de la Unidad de Agua Potable y Saneamiento.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 75.
 
-La Gerencia de Fortalecimiento Institucional tendrá las siguientes atribuciones:
-
-I. Apoyar y, en su caso, proponer a los organismos operadores, estructuras tarifarias que les permita contar con elementos para alcanzar la autonomía financiera, así como el uso eficiente del agua;
-
-II. Diseñar e impulsar acciones de mejoramiento de eficiencia de los sistemas de agua potable y alcantarillado;
-
-III. Coordinar, con las gerencias regionales y estatales, la elaboración, autorización, vigilancia y cumplimiento de los programas de acciones y anexos de ejecución presentados por las empresas que prestan los servicios de agua potable, alcantarillado y tratamiento de aguas residuales contempladas en el programa de devolución de derechos de aguas nacionales;
-
-IV. Difundir, controlar y dar seguimiento al Programa para la Modernización de Organismos Operadores de Agua y a los Estudios de Diagnóstico y Planeación Integral;
-
-V. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, análisis financieros orientados a determinar la eficiencia financiera de los organismos operadores, así como la determinación de dictámenes que permitan identificar fuentes y esquemas de financiamiento para eficientar los servicios de agua potable, alcantarillado y tratamiento de aguas residuales;
-
-VI. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, y desarrollar, mecanismos dirigidos a la promoción y regulación de la participación del sector privado en la prestación de los servicios de agua potable, alcantarillado y tratamiento de aguas residuales, y
-
-VII. Las demás que expresamente le encomiende el Subdirector General de Infraestructura Hidráulica Urbana.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 76.
 
-La Gerencia de Atención Social y Legislativa tendrá las siguientes atribuciones:
-
-I. Concertar las acciones necesarias entre los tres niveles de gobierno y sociedad para lograr la participación corresponsable de las comunidades en la administración, conservación y cuidado del agua;
-
-II. Coordinar el registro de los acuerdos y compromisos presidenciales asignados a la Comisión Nacional del Agua por parte de la Coordinación de Atención Ciudadana de la Presidencia de la República, así como dar seguimiento a las acciones que se realicen para su atención y solución;
-
-III. Dar atención y seguimiento a las solicitudes del poder legislativo, excepto en los casos de procedimientos legislativos a cargo de la Coordinación General Jurídica y de la Subdirección General Jurídica, gobernadores, usuarios en general, organizaciones campesinas, sociales, ecológicas, civiles y académicas en torno a la problemática generada por el tema del agua;
-
-IV. Dirigir al interior de la Comisión Nacional del Agua, las acciones necesarias para prevenir, atender, concertar y dar seguimiento a problemas sociales derivados de la construcción y operación de la infraestructura hidráulica y de la administración del agua;
-
-V. Coadyuvar en la aplicación y desarrollo de las normas, criterios técnicos, lineamientos y metodología que regulen las actividades y acciones de concertación, comunicación, atención al impacto ambiental, indemnizaciones, restitución, construcción y entrega de obras de beneficio social en torno a las actividades correspondientes a la Comisión Nacional del Agua;
-
-VI. Coordinar el registro y atención de las demandas sociales turnadas a la Comisión Nacional del Agua a través de la Subdirección General de Programas Rurales y Participación Social;
-
-VII. Atender conflictos sociales generados por problemáticas surgidas en torno al tema del agua;
-
-VIII. Realizar análisis y proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, soluciones para resolver los problemas sociales generados por la realización de proyectos o por ausencia de los mismos en el desconcentrado;
-
-IX. Coordinar y vincular las acciones que se llevan a cabo entre la Subdirección General de Programas Rurales y Participación Social, la Secretaría, la Coordinación de Atención Ciudadana de la Presidencia de la República, la Secretaría de Contraloría y Desarrollo Administrativo, así como otras instituciones al exterior de la Comisión Nacional del Agua, a fin de implementar acciones prontas y eficaces que den solución a la problemática que se presente, y
-
-X. Prevenir conflictos sociales generados por problemáticas surgidas en torno al tema del agua, mediante la constante comunicación y actualización de la información.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 77.
 
-La Gerencia de Distritos y Unidades de Riego tendrá las siguientes atribuciones:
-
-I. Promover y coordinar, en su caso, acciones con las delegaciones de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y las gerencias regionales de la Comisión Nacional del Agua, para lograr un mayor aprovechamiento del agua;
-
-II. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, metodologías y procedimientos para lograr que la distribución del agua de riego entre los usuarios sea oportuna y adecuada;
-
-III. Verificar que los distritos y unidades de riego se ajusten a los planes de riego aprobados por sus comités hidráulicos y que, en su caso, se cumplan las restricciones impuestas al uso del agua;
-
-IV. Vigilar la normatividad basada en las leyes, reglamentos y decretos, para que en los distritos y unidades de riego se reglamente el uso del agua con la participación de los usuarios;
-
-V. Formular los lineamientos para que los distritos y unidades de riego elaboren sus programas de operación, conservación e ingeniería de riego, acorde con la disponibilidad presupuestal y de equipo;
-
-VI. Supervisar el trámite de los contratos relacionados con los trabajos de conservación y mejoramiento de la infraestructura de riego en los distritos no transferidos;
-
-VII. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, lineamientos para reducir costos de los distritos y unidades de riego, cuidando las actividades operativas y vigilando su posterior cumplimiento, con el fin de contribuir a la autosuficiencia financiera de los mismos;
-
-VIII. Apoyar, conjuntamente con las gerencias regionales y estatales, a los distritos y unidades de riego en las acciones de concertación con los usuarios para el establecimiento de las cuotas por servicios de riego;
-
-IX. Apoyar, conjuntamente con las gerencias regionales y estatales, a los distritos en las acciones de concertación con los usuarios para el establecimiento de los proyectos anuales de rehabilitación y modernización de la infraestructura y de tecnificación de riego;
-
-X. Evaluar el desempeño de las asociaciones civiles de usuarios de riego;
-
-XI. Realizar el proceso de transferencia de la operación, conservación y administración de la infraestructura de riego a las asociaciones de usuarios;
-
-XII. Participar en el establecimiento de metodologías de diagnóstico sobre el uso del agua en los distritos y unidades de riego que permitan su mejor aprovechamiento, así como la prevención y solución de problemas de drenaje y salinidad;
-
-XIII. Impartir, de acuerdo a sus posibilidades, la capacitación y adiestramiento del personal encargado de la operación y conservación de la infraestructura de riego en los distritos y unidades de riego;
-
-XIV. Controlar la ejecución de los programas y planes de riego y de conservación de cada distrito y unidades de riego y proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, en su caso, las modificaciones para lograr una mayor eficiencia;
-
-XV. Impulsar la organización de usuarios y, en su caso, brindarles apoyo técnico en materia de operación, mantenimiento y conservación de la infraestructura;
-
-XVI. Fortalecer la organización de los usuarios para desarrollar su capacidad empresarial;
-
-XVII. Realizar acciones para evitar y controlar las malezas acuáticas en canales y cuerpos de agua de los distritos y unidades de riego, y
-
-XVIII. Acordar con el Subdirector General de Infraestructura Hidroagrícola los asuntos de su competencia y demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 78.
 
-La Gerencia de Distritos de Temporal Tecnificado tendrá las siguientes atribuciones:
-
-I. Coordinar las acciones de operación, conservación y rehabilitación de los distritos de temporal tecnificado, así como promover la organización y capacitación de los usuarios con el fin de transferirles infraestructura, maquinaria y equipo;
-
-II. Promover el uso eficiente del agua, suelo e infraestructura hidráulica federal, en el ámbito geográfico de los distritos de temporal tecnificado;
-
-III. Promover, en coordinación con las instancias correspondientes de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de los gobiernos de los estados, municipios y las gerencias regionales y estatales, la realización de acciones para el desarrollo integral de los distritos de temporal tecnificado;
-
-IV. Opinar y validar los estudios y proyectos, y dar seguimiento al trámite de los contratos relacionados con la obra pública en las áreas de los distritos de temporal tecnificado;
-
-V. Promover, coordinar, supervisar y otorgar, en su caso, el asesoramiento técnico a las asociaciones de usuarios en la elaboración de programas integrales de producción, de conservación de suelo y agua, y de uso eficiente de la infraestructura y maquinaria transferida;
-
-VI. Promover la transferencia y adopción de tecnología avanzada de conservación y manejo del suelo y agua en los distritos de temporal tecnificado;
-
-VII. Establecer lineamientos y evaluar las acciones de operación, conservación y rehabilitación de los distritos de temporal tecnificado;
-
-VIII. Promover la participación activa de los productores de los distritos de temporal tecnificado en la conservación de la infraestructura y de los recursos naturales;
-
-IX. Formular los lineamientos para que los distritos elaboren sus programas de operación, conservación y mantenimiento, acorde con la disponibilidad presupuestal y de equipo;
-
-X. Apoyar conjuntamente con las gerencias regionales y estatales, a los distritos en las acciones de concertación con los usuarios para el establecimiento de las cuotas de autosuficiencia;
-
-XI. Impulsar la organización de usuarios y, en su caso, brindarles apoyo técnico en materia de operación, mantenimiento y conservación de la infraestructura;
-
-XII. Fortalecer la organización de los usuarios para desarrollar su capacidad empresarial;
-
-XIII. Evaluar el desempeño de las asociaciones civiles de usuarios de temporal tecnificado, y
-
-XIV. Acordar con el Subdirector General de Infraestructura Hidroagrícola los asuntos de su competencia y demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 79.
 
-La Gerencia de Normatividad de Aguas Nacionales tendrá las siguientes atribuciones:
-
-I. Solicitar a otras dependencias y entidades federales, estatales y municipales, la documentación e información necesarias para el ejercicio de sus atribuciones;
-
-II. Ordenar y ejecutar, formal y materialmente, las resoluciones donde se establezca la clausura de aprovechamientos; de empresas o establecimientos causantes directos de las descargas de aguas residuales; la suspensión de actividades generadoras de descarga de aguas residuales; la remoción y demolición de obras e infraestructura, así como la adopción de medidas de apremio, de seguridad y precautorias, para lo cual podrá solicitar el apoyo de otras autoridades;
-
-III. Coordinarse con las diferentes autoridades competentes a fin de ejercer sus facultades de administración y custodia de las aguas nacionales y sus bienes públicos inherentes;
-
-IV. Elaborar los manuales, guías operativas y demás instrumentos normativos de la Subdirección General de Administración del Agua, y someterlos a la aprobación de la Subdirección General Jurídica;
-
-V. Hacer del conocimiento de la Subdirección General Jurídica, los hechos que puedan ser constitutivos de delitos relacionados con la explotación, uso o aprovechamiento de aguas nacionales y sus bienes públicos inherentes;
-
-VI. Expedir credenciales o constancias de identificación para inspectores, verificadores y auxiliares técnicos que los acredite como tales para la realización de visitas de inspección o verificación de los bienes que administra la Comisión Nacional del Agua; para notificadores que hagan del conocimiento de los interesados los actos y resoluciones emitidos por dicha Comisión, así como para el personal ejecutor que dé cumplimiento material a las sanciones distintas a las económicas;
-
-VII. Substanciar los procedimientos administrativos que se deriven de la realización de visitas de inspección y verificación, requerimientos de documentación e información y, en general, del incumplimiento de las disposiciones jurídicas aplicables, con excepción de las disposiciones de carácter fiscal;
-
-VIII. Emitir las resoluciones derivadas de los procedimientos administrativos previstos en la Ley de Aguas Nacionales y su Reglamento, con excepción de aquellas cuya emisión corresponda a otra unidad administrativa;
-
-IX. Elaborar los estudios económicos que sustenten los criterios y directrices para la mejor administración y conservación de las aguas nacionales y sus bienes públicos inherentes;
-
-X. Proponer a la Subdirección General de Administración del Agua, los instrumentos de política económica y administrativa en materia de aguas nacionales y sus bienes públicos inherentes, y
-
-XI. Las demás que expresamente le otorguen las disposiciones jurídicas aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 80.
 
-La Gerencia de Operación, Conservación e Ingeniería Industrial de Presas, Plantas de Bombeo y Acueductos tendrá las siguientes atribuciones:
-
-I. Supervisar las cortinas y las plantas de bombeo propiedad de la nación, con el objeto de coadyuvar en la atención de las demandas de agua para el consumo humano, de riego, industrial, generación hidroeléctrica, y prever el control de avenidas;
-
-II. Llevar y mantener actualizados los registros de presas de almacenamiento, derivación, control de avenidas y plantas de bombeo que sean operadas por la Comisión Nacional del Agua;
-
-III. Ejecutar las disposiciones del Comité Técnico de Operación de Obras Hidráulicas a través de las gerencias regionales y estatales;
-
-IV. Establecer, en coordinación con las gerencias regionales y estatales, programas de rehabilitación, conservación y mantenimiento de las presas y plantas de bombeo, tomando como base los monitoreos estructurales y electromecánicos que opera la Comisión Nacional del Agua, con el objeto de que su infraestructura esté en condiciones óptimas de funcionamiento, y evitar posibles contingencias en su seguridad y operación;
-
-V. Coordinar los trabajos que le encomiende el Subdirector General de Infraestructura Hidroagrícola, para determinar el grado de seguridad estructural con que opera la estructura de las presas y plantas de bombeo;
-
-VI. Proponer a la Subdirección General de Infraestructura Hidroagrícola, las obras que en relación con las estructuras hidráulicas mencionadas en el numeral anterior, deban realizarse por la propia subdirección general y demás unidades administrativas competentes, y
-
-VII. Acordar con el Subdirector General de Infraestructura Hidroagrícola los asuntos de su competencia y demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 81.
 
-La Gerencia de Inspección y Medición tendrá las siguientes atribuciones:
-
-I. Verificar que los usuarios de aguas nacionales y de los bienes públicos inherentes cumplan con lo dispuesto en la Ley de Aguas Nacionales, su Reglamento y demás disposiciones jurídicas aplicables;
-
-II. Ordenar y practicar visitas de verificación e inspección, con excepción de las visitas domiciliarias de carácter fiscal;
-
-III. Ordenar el acceso a las instalaciones; a los puntos de aprovechamiento de aguas nacionales, descarga de aguas residuales, ocupación de zona federal o de extracción de materiales, y a los dispositivos de medición y registro de la cantidad y calidad de los bienes nacionales usados, aprovechados, extraídos o explotados;
-
-IV. Requerir a los usuarios todo tipo de documentación, registros, controles, datos o informes;
-
-V. Instalar dispositivos de medición y registro para verificar la cantidad y calidad de los bienes nacionales usados, aprovechados, extraídos o explotados;
-
-VI. Practicar cualquier otro medio de verificación previsto en las disposiciones legales aplicables;
-
-VII. Solicitar a otras dependencias y entidades federales, estatales y municipales, la documentación e información necesarias para el ejercicio de sus atribuciones;
-
-VIII. Actuar en el momento mismo de su conocimiento y en ejercicio de sus atribuciones, en los casos en que tenga conocimiento de actos que pudieran constituir una infracción a la Ley de Aguas Nacionales, su Reglamento y demás disposiciones jurídicas aplicables;
-
-IX. Ordenar y ejecutar, formal y materialmente, las resoluciones donde se ordene la clausura de aprovechamientos; de empresas o establecimientos causantes directos de las descargas de aguas residuales; la suspensión de actividades generadoras de descarga de aguas residuales; la remoción y demolición de obras e infraestructura, así como la adopción de medidas de apremio, de seguridad y precautorias, para lo cual podrá solicitar el apoyo de otras autoridades;
-
-X. Verificar el cumplimiento de las normas oficiales mexicanas relativas al uso, explotación, aprovechamiento u ocupación de las aguas nacionales y sus bienes públicos inherentes, y
-
-XI. Coordinarse con las diferentes autoridades competentes a fin de ejercer sus facultades de administración y custodia de las aguas nacionales y sus bienes públicos inherentes.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 82.
 
-La Gerencia de Consultivo Técnico tendrá las siguientes atribuciones:
-
-I. Crear, mantener y promover las capacidades técnicas básicas que se requieran para que las obras, acciones y programas en materia de seguridad de la infraestructura hidráulica de la Comisión Nacional del Agua, sean de calidad;
-
-II. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos que permitan dar unidad a las acciones del Gobierno Federal en materia de seguridad de presas, y coordinar su aplicación;
-
-III. Revisar de manera general los estudios y diseños para obras hidráulicas nuevas, y las modificaciones substanciales a las existentes, así como participar en la revisión colegiada de los proyectos importantes;
-
-IV. Dar seguimiento a las actividades constructivas en las obras para verificar aspectos generales de funcionamiento y seguridad; proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, modificaciones cuando las condiciones reales difieran a las previstas en el diseño o que mejoren la seguridad, así como vigilar que todas las obras terminadas de un proyecto queden en condiciones de cumplir los objetivos previstos;
-
-V. Vigilar sistemáticamente el comportamiento de las obras en construcción u operación, especialmente presas, desde el punto de vista de su seguridad estructural, funcional y sanitaria;
-
-VI. Integrar, operar y conservar el Registro Nacional de Presas y Obras Hidráulicas del País. El sistema deberá estar orientado hacia la seguridad de las obras;
-
-VII. Proporcionar asesoría técnica en obras y servicios relacionados con el diseño, construcción y operación de las obras hidráulicas y la gestión de las aguas nacionales;
-
-VIII. Auxiliar a las unidades administrativas de la Comisión Nacional del Agua, en los asuntos que requieran la opinión de la Subdirección General Técnica;
-
-IX. Coadyuvar en la capacitación de personal técnico en las áreas de seguridad de presas, geohidrología, ingeniería sanitaria, ingeniería mecánica eléctrica, ingeniería de estructuras y otros aspectos técnicos, y
-
-X. Acordar con el Subdirector General Técnico los asuntos de su competencia y demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 83.
 
-La Gerencia de Aguas Superficiales e Ingeniería de Ríos tendrá las siguientes atribuciones:
-
-I. Desarrollar, promover y aplicar las capacidades técnicas básicas requeridas para que las obras, acciones y programas en materia de aguas superficiales e ingeniería de ríos de la Comisión Nacional del Agua, sean de calidad;
-
-II. Establecer los procedimientos y sistemas de carácter técnico que permitan dar unidad a las acciones del Gobierno Federal en materia de aguas nacionales superficiales, y coordinar su aplicación;
-
-III. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, la reglamentación sobre la extracción, uso y distribución de aguas nacionales superficiales, así como la declaración de zonas de veda y de reserva de las aguas nacionales superficiales;
-
-IV. Promover el uso eficiente del agua superficial y operar los servicios necesarios para su preservación, conservación y mejoramiento de calidad en todas las fases del ciclo hidrológico, con especial interés en las fases de precipitación y escurrimiento del mismo;
-
-V. Revisar y dictaminar técnicamente la delimitación y demarcación de cauces y zonas federales, así como a la supresión de zonas federales y desincorporaciones de terrenos ganados con obras;
-
-VI. Dirigir y difundir los estudios, trabajos y servicios hidrológicos, de monitoreo, disponibilidad y uso de las aguas nacionales superficiales;
-
-VII. Desarrollar, mantener y operar, directamente o por convenio o contrato con terceros, redes hidroclimatológicas, e integrar para todas las cuencas del país sistemas de información sobre disponibilidad y uso de las aguas superficiales, como soporte a la planeación, administración y conservación de los recursos hidráulicos;
-
-VIII. Determinar la disponibilidad de las aguas superficiales por cuenca y subcuenca hidrológica, y mantenerla actualizada;
-
-IX. Analizar el comportamiento hidrológico de los principales cuerpos de agua superficiales, para establecer políticas, lineamientos e instrucciones de manejo de la infraestructura hidráulica para control de avenidas, y la asignación de volúmenes de agua para usos diversos;
-
-X. Participar, en coordinación con las unidades administrativas competentes de la Comisión Nacional del Agua, en la formulación y revisión de programas integrales para preservar y proteger los recursos hidráulicos en cuencas hidrológicas, tomando en cuenta los factores de disponibilidad y demanda, así como los pronósticos hidrometeorológicos pertinentes;
-
-XI. Impulsar y promover estudios y acciones encaminados a tener una administración, distribución y uso eficientes de las aguas superficiales para aumentar su disponibilidad en tiempo y lugar;
-
-XII. Fomentar la investigación científica y el desarrollo tecnológico en relación a las aguas superficiales, su aplicación y la formación y capacitación de los recursos humanos relacionados;
-
-XIII. Promover la conservación del agua superficial a través del control de la erosión y el aprovechamiento de aguas estuarias;
-
-XIV. Vigilar la evolución y efectos de los meteoros que puedan influir en los escurrimientos en ríos y almacenamientos en presas y embalses para minimizar los daños por avenidas y crecientes y proteger contra inundaciones a centros de población y áreas productivas;
-
-XV. Llevar el registro periódico de la evolución de almacenamientos en presas y embalses y escurrimientos en ríos, y registrar la duración e intensidad de la precipitación y, en general, de la información hidrológica del país, así como analizarla y evaluarla con objeto de hacer el pronóstico de avenidas, prevenir inundaciones y prever sequías;
-
-XVI. Emitir dictámenes técnicos sobre la procedencia de las solicitudes de nuevos aprovechamientos de aguas nacionales superficiales o modificación de los existentes;
-
-XVII. Elaborar estudios, formular criterios de revisión y autorizar proyectos de cualquier tipo de obras que puedan afectar el régimen hidrológico y control de los ríos y corrientes bajo jurisdicción nacional;
-
-XVIII. Emitir los dictámenes técnicos requeridos por las disposiciones jurídicas aplicables para el otorgamiento de permisos y autorizaciones de construcción de obras en cauces y zonas federales, y
-
-XIX. Acordar con el Subdirector General Técnico los asuntos de su competencia y atender los demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 84.
 
-La Gerencia de Aguas Subterráneas tendrá las siguientes atribuciones:
-
-I. Desarrollar, promover y aplicar las capacidades técnicas básicas requeridas para que las obras, acciones y programas de la Comisión Nacional del Agua en materia de aguas subterráneas, sean de calidad;
-
-II. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, los procedimientos y sistemas de carácter técnico, que permitan dar unidad a las acciones del Gobierno Federal en materia de aguas nacionales subterráneas, y coordinar su aplicación;
-
-III. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, la reglamentación, el establecimiento o supresión de zonas de veda, y la declaración de reservas para la extracción, uso o aprovechamiento de las aguas nacionales subterráneas;
-
-IV. Participar en la formulación y ejecución de programas orientados al manejo sostenible de las aguas subterráneas, en colaboración con las unidades administrativas de la Comisión Nacional del Agua, con otras entidades externas involucradas y con los sectores usuarios;
-
-V. Diseñar, organizar, coordinar, realizar y difundir los estudios técnicos básicos para la gestión de las aguas subterráneas;
-
-VI. Desarrollar y operar redes de monitoreo de niveles y calidad del agua subterránea a fin de obtener los datos básicos para determinar el modelo conceptual, la renovación, la extracción, la descarga natural y la reserva almacenada de los acuíferos;
-
-VII. Formular los dictámenes técnicos para orientar la resolución de las solicitudes relativas al aprovechamiento de las aguas subterráneas;
-
-VIII. Definir acciones viables para incrementar la disponibilidad de las aguas subterráneas mediante reuso, manejo de la demanda y recarga artificial;
-
-IX. Determinar y actualizar sistemáticamente la información sobre la disponibilidad de agua subterránea de los acuíferos y regiones hidrológicas, en colaboración con la Gerencia de Registro Público de Derechos de Agua;
-
-X. Formular la propuesta anual de modificaciones a la clasificación de los municipios por zonas de disponibilidad para fines de aplicación de la Ley Federal de Derechos;
-
-XI. Desarrollar y operar el Sistema de Información Geográfica para el Manejo del Agua Subterránea, con el fin de facilitar el ordenamiento, el procesamiento, el despliegue y la consulta de la información relativa a los acuíferos, así como su correlación con otros sistemas afines;
-
-XII. Promover la investigación científica, el desarrollo tecnológico y la formación de recursos humanos, en materia de aguas subterráneas y disciplinas afines;
-
-XIII. Formular opiniones técnicas sobre la viabilidad de nuevos proyectos de desarrollo en su parte relativa a las fuentes y captaciones de aguas subterráneas;
-
-XIV. Emitir dictámenes técnicos, atendiendo a las solicitudes que formulen las autoridades competentes, sobre el riesgo de contaminación de los acuíferos que impliquen instalaciones destinadas al confinamiento de residuos tóxicos o no peligrosos, y desarrollos establecidos;
-
-XV. Orientar los trabajos relativos a la caracterización y remediación de acuíferos afectados por eventos contaminantes en su parte correspondiente a los aspectos hidrogeológicos;
-
-XVI. Colaborar en la operación de los Comités Técnicos de Aguas Subterráneas, aportándoles la asesoría e información técnica necesaria para su adecuado funcionamiento, y
-
-XVII. Acordar con el Subdirector General Técnico los asuntos de su competencia y atender los que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 85.
 
-La Gerencia de Saneamiento y Calidad del Agua tendrá las siguientes atribuciones:
-
-I. Desarrollar y promover las capacidades técnicas básicas que se requieran para que las obras, acciones y programas en materia de determinación y evaluación de la calidad del agua, y de saneamiento de cuencas de la Comisión Nacional del Agua, sean de calidad;
-
-II. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos, que permitan dar unidad a las acciones del Gobierno Federal en materia de monitoreo de la calidad del agua y saneamiento de cuencas, y coordinar su aplicación;
-
-III. Establecer las bases generales para la operación de la Red Nacional de Laboratorios y de Monitoreo;
-
-IV. Monitorear sistemática y permanentemente la calidad de las aguas nacionales continentales de las zonas costeras y de las aguas marinas;
-
-V. Establecer los lineamientos para la aprobación de los laboratorios de análisis de agua, y emitir la opinión técnica para aprobarlos de conformidad con la Ley Federal sobre Metrología y Normalización y su Reglamento, ante las instancias respectivas;
-
-VI. Establecer las bases técnicas para la atención y seguimiento de las emergencias hidroecológicas y contingencias ambientales;
-
-VII. Integrar, analizar y mantener actualizada la información básica de calidad del agua para determinar las acciones normativas de saneamiento, así como las políticas y estrategias para el control de la calidad del agua;
-
-VIII. Operar y mantener actualizado el Sistema Nacional de Información de la Calidad del Agua, que incluya los inventarios de descargas, de plantas de tratamiento de aguas residuales municipales, industriales y potabilizadoras, de humedales, calidad de agua en cuencas, estudios de calidad del agua y de clasificación de cuerpos de agua, de la Red Nacional de Monitoreo y de Laboratorios, de inventario de laboratorios aprobados, programa de moluscos bivalvos de descargas a cuerpos receptores y de dictámenes técnicos;
-
-IX. Diseñar, organizar, dirigir y realizar los estudios de calidad del agua para definir y establecer las metas u objetivos de la calidad del agua de los cuerpos receptores del país;
-
-X. Definir y establecer los términos de referencia para el desarrollo de estudios de impacto ambiental para las obras hidráulicas a cargo de la Comisión Nacional del Agua;
-
-XI. Verificar que las obras hidráulicas cumplan con la normativa en materia de impacto ambiental, y obtener las resoluciones ambientales para esos proyectos;
-
-XII. Formular y emitir los dictámenes técnicos para la expedición de permisos de descarga de aguas residuales y certificados de calidad del agua;
-
-XIII. Fijar las bases técnicas para establecer el pago de derechos por descargas de aguas residuales;
-
-XIV. Establecer políticas y lineamientos para formular programas de reuso del agua y de saneamiento integral de cuencas hidrológicas, y darles seguimiento;
-
-XV. Formular y mantener actualizado el inventario nacional de uso y disponibilidad de aguas residuales;
-
-XVI. Establecer las condiciones particulares de descarga de aguas residuales y sus modificaciones;
-
-XVII. Fomentar la investigación científica y el desarrollo tecnológico en relación a los sistemas de monitoreo y evaluación de la calidad del agua y saneamiento de cuencas, su aplicación y la formación y capacitación de los recursos humanos relacionados, y
-
-XVIII. Acordar con el Subdirector General Técnico los asuntos de su competencia y atender los que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 86.
 
-La Gerencia de Ingeniería Básica y Normas Técnicas tendrá las siguientes atribuciones:
-
-I. Desarrollar y promover las capacidades técnicas básicas que se requieran para que las obras, acciones y programas de la Comisión Nacional del Agua en materia de normalización técnica y estudios de ingeniería básica del sector agua, sean de calidad;
-
-II. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos, que permitan dar unidad a las acciones del Gobierno Federal en materia de estudios de ingeniería y normalización técnica, y coordinar su aplicación;
-
-III. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, y coordinar la elaboración, expedición y difusión de las normas oficiales mexicanas, normas mexicanas y normas técnicas del sector agua, así como las políticas y procedimientos para la evaluación de la conformidad de las mismas, de acuerdo a la Ley de Aguas Nacionales y su Reglamento, y a la Ley Federal sobre Metrología y Normalización y su Reglamento;
-
-IV. Fomentar la evaluación y certificación de calidad de los productos, de bienes y servicios relacionados con las normas oficiales mexicanas del sector agua, divulgar los resultados respectivos, y promover su aplicación;
-
-V. Programar, elaborar, editar y difundir información técnica del sector hidráulico que permita elevar la eficiencia en el manejo y utilización del agua;
-
-VI. Proporcionar información y apoyo técnico básico a las unidades administrativas de la Comisión Nacional del Agua, relacionada con la infraestructura hidráulica;
-
-VII. Operar y mantener el registro de información en materia de estudios de ingeniería básica, proyectos hidráulicos y normalización;
-
-VIII. Fomentar la investigación científica y el desarrollo tecnológico en relación a los estudios de ingeniería básica y normalización, su aplicación y la formación y capacitación de los recursos humanos relacionados;
-
-IX. Fungir como secretario técnico del Comité Consultivo Nacional de Normalización del sector agua, y coordinar sus actividades, y
-
-X. Acordar con el Subdirector General Técnico los asuntos de su competencia y atender los demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 87.
 
-La Gerencia de Estudios para el Desarrollo Hidráulico Integral tendrá las siguientes atribuciones:
-
-I. Elaborar los estudios de preinversión requeridos para el desarrollo hidráulico integral;
-
-II. Integrar y revisar el catálogo nacional de proyectos de infraestructura hidráulica, evaluando los programas y proyectos de preinversión;
-
-III. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, lineamientos para atender las demandas técnicas y sociales que se identifiquen con los proyectos a ejecutar para los sectores agrícola, urbano e industrial;
-
-IV. Elaborar estudios de prospectiva, regionales y de economía del agua;
-
-V. Elaborar los estudios, métodos y herramientas metodológicas que se requieran para la planeación hidráulica;
-
-VI. Coordinar el Comité de Estudios de la Comisión Nacional del Agua;
-
-VII. Coordinar el Sistema Nacional de Información Técnica de la Comisión Nacional del Agua;
-
-VIII. Revisar y dictaminar los nuevos programas y proyectos de inversión de infraestructura hidráulica, y
-
-IX. Coordinar la capacitación del personal de la Subdirección General de Infraestructura Hidráulica Urbana, conforme a los lineamientos que al respecto se expidan.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 88.
 
-La Gerencia de Planeación Hidráulica tendrá las siguientes atribuciones:
-
-I. Coordinar la elaboración y seguimiento del Programa Nacional Hidráulico;
-
-II. Coordinar la integración y seguimiento de los programas hidráulicos regionales, estatales y sectoriales;
-
-III. Coordinar la integración de la información existente sobre la disponibilidad de agua en cantidad y calidad a nivel de cuenca, acuífero, región y nacional;
-
-IV. Establecer los lineamientos internos y coordinar el proceso de planeación estratégica de la Comisión Nacional del Agua, en los niveles nacional, regional y estatal;
-
-V. Establecer los mecanismos de consulta que fortalezcan la participación social, y de los consejos de cuenca y organizaciones auxiliares, en la programación hidráulica;
-
-VI. Identificar, seleccionar y promover la implantación de métodos y modelos de apoyo a la planeación, así como la capacitación en el manejo de los mismos;
-
-VII. Apoyar el desarrollo de capacidades de las organizaciones relacionadas con el manejo del agua, y
-
-VIII. Apoyar la divulgación de los documentos que genere la Comisión Nacional del Agua, y atender las solicitudes de información relacionadas que efectúen las instituciones de carácter nacional e internacional.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 89.
 
-La Gerencia de Uso Eficiente del Agua y la Energía Eléctrica tendrá las siguientes atribuciones:
-
-I. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, lineamientos y procedimientos para los programas de uso eficiente del agua y la energía eléctrica y uso pleno de la infraestructura hidroagrícola, en las unidades de riego;
-
-II. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, y elaborar, programas de mediano y largo plazo tendientes a lograr el uso eficiente racional del agua, y de la energía eléctrica, en pozos y sistemas de bombeo y de riego utilizados en el proceso productivo, procurando alcanzar el desarrollo sustentable en las unidades de riego;
-
-III. Analizar y evaluar las actividades realizadas en los programas de corto y mediano plazo que tengan por objeto lograr el uso eficiente y racional del agua para los programas de uso eficiente del agua y la energía eléctrica y uso pleno de la infraestructura hidroagrícola, en las unidades de riego;
-
-IV. Fijar procedimientos y lineamientos para la supervisión de la rehabilitación de la infraestructura hidroagrícola de las unidades de riego;
-
-V. Asistir técnicamente a las gerencias regionales y estatales en el proceso de rehabilitación de la infraestructura hidroagrícola de las unidades de riego, y proporcionar el apoyo logístico que se requiera;
-
-VI. Vigilar la debida aplicación de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y su Reglamento, en lo inherente a las unidades de riego para la elaboración de diagnósticos conjuntos, proyectos ejecutivos y estudios, así como a la supervisión contratada en la rehabilitación de la infraestructura hidroagrícola de éstas;
-
-VII. Actualizar los catálogos de precios unitarios y especificaciones, así como los factores de actualización para la rehabilitación de la infraestructura en coordinación con la Gerencia de Proyectos de Infraestructura Hidroagrícola;
-
-VIII. Realizar el proceso de organización de las unidades de riego en asociaciones civiles y módulos de unidades en sociedades de responsabilidad limitada;
-
-IX. Impartir, de acuerdo a sus posibilidades, la capacitación y adiestramiento de los productores encargados de la operación, administración y conservación de la infraestructura hidroagrícola de las unidades de riego;
-
-X. Apoyar, conjuntamente con las gerencias regionales y estatales, a los responsables de los programas para la negociación con los productores de la aportación de su porcentaje correspondiente para la rehabilitación y adquisición de maquinaria ligera para las unidades de riego;
-
-XI. Supervisar los avances físicos y financieros para la rehabilitación de la infraestructura de las unidades de riego, y proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, las acciones necesarias para el debido cumplimiento de calidad, costos y tiempos programados, y
-
-XII. Acordar con el Subdirector General de Infraestructura Hidroagrícola los asuntos de su competencia y demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 90.
 
-La Gerencia de Financiamiento tendrá las siguientes atribuciones:
-
-I. Identificar y proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, las fuentes de financiamiento internas y externas para la concertación de créditos que permitan el desarrollo, rehabilitación, mantenimiento y/o modernización de los proyectos de infraestructura hidráulica, con el apoyo de la Comisión Nacional del Agua;
-
-II. Coordinar acciones con organismos financieros internacionales y nacionales, relacionadas con la identificación y establecimiento de líneas de cooperación y de crédito que apoyen la obra hidráulica;
-
-III. Apoyar a los organismos operadores de agua en la búsqueda de alternativas y esquemas de financiamiento para la prestación de sus servicios;
-
-IV. Participar en la concertación y negociación de los créditos u otros mecanismos de financiamiento nacionales e internacionales, en coordinación con las autoridades competentes;
-
-V. Gestionar ante los agentes financieros, la elegibilidad de los financiamientos pactados, y dar seguimiento a los compromisos establecidos con ellos;
-
-VI. Evaluar el impacto financiero de los programas y proyectos que se ejecuten con recursos de crédito externo;
-
-VII. Participar en el seguimiento financiero de los proyectos y programas, y ser el medio de información entre las unidades ejecutoras del sector y las entidades financieras;
-
-VIII. Promover y consolidar el aprovechamiento de las opciones que ofrece la cooperación internacional en apoyo al logro de los objetivos de la Comisión Nacional del Agua;
-
-IX. Participar en la negociación de proyectos de cooperación técnica internacional y en la concertación, coordinación y realización de eventos, ofrecida por países y organismos internacionales;
-
-X. Realizar el seguimiento de programas de cooperación internacional en materia de desarrollo tecnológico, consultoría especializada, información técnica, capacitación e intercambio de experiencias, y
-
-XI. Promover y apoyar la participación del personal técnico de la Comisión Nacional del Agua, a eventos de capacitación, intercambio de experiencias y viajes de estudio que organismos nacionales e internacionales ofrecen.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 91.
 
-La Gerencia de Personal tendrá las siguientes atribuciones:
-
-I. Definir e instrumentar, con apego a las normas, políticas y lineamientos vigentes, los sistemas y procedimientos necesarios para la administración del personal;
-
-II. Coordinar el reclutamiento y selección del personal para su contratación, de conformidad con la normatividad vigente;
-
-III. Administrar el Sistema de Especialistas en Hidráulica que conforma los cuadros técnicos de la Comisión Nacional del Agua;
-
-IV. Elaborar el anteproyecto de presupuesto relativo a servicios personales de la Comisión Nacional del Agua, y gestionar las adecuaciones presupuestales, así como ejercer y controlar su ejercicio;
-
-V. Conducir la operación del sistema de pago de remuneraciones y de nóminas en el ámbito de la Comisión Nacional del Agua, conforme al sistema establecido por la Tesorería de la Federación, y establecer normas y lineamientos para la solicitud, guarda, custodia y manejo de las formas valoradas;
-
-VI. Aplicar las resoluciones de cese a los servidores públicos de la Comisión Nacional del Agua y, en su caso, ejecutar las resoluciones judiciales o administrativas por las que deban ser reinstalados en sus funciones;
-
-VII. Registrar y controlar los movimientos administrativos del personal al servicio de la Comisión Nacional del Agua;
-
-VIII. Levantar y mantener permanentemente actualizado el inventario de personal de la Comisión Nacional del Agua;
-
-IX. Expedir credenciales de identificación oficial al personal de la Comisión Nacional del Agua, y constancias relativas;
-
-X. Participar con la Oficialía Mayor en la elaboración de las Condiciones Generales de Trabajo, así como aplicar y vigilar su cumplimiento;
-
-XI. Administrar las relaciones laborales y sindicales de la Comisión Nacional del Agua, de conformidad con las disposiciones aplicables;
-
-XII. Coordinar la administración de programas de motivación, incentivos, estímulos, recompensas y prestaciones al personal;
-
-XIII. Aplicar el procedimiento para el pago de estímulos y recompensas a los servidores públicos de la Comisión Nacional del Agua, de conformidad con el procedimiento establecido por la Secretaría de Hacienda y Crédito Público;
-
-XIV. Planear, en coordinación con las unidades administrativas internas, la formación, desarrollo y profesionalización del personal técnico y administrativo, requerido para el cumplimiento de los programas de la Comisión Nacional del Agua;
-
-XV. Capacitar al personal de la Comisión Nacional del Agua, para que desarrolle e incremente en forma integral sus conocimientos y habilidades;
-
-XVI. Promover el cambio de cultura organizacional en la Comisión Nacional del Agua, impulsando la aplicación del Código de Ética del Gobierno Federal, e instrumentar esquemas de servicio civil de carrera;
-
-XVII. Promover entre el personal de la Comisión Nacional del Agua, su participación en eventos sociales, culturales y deportivos que apoyen su desarrollo integral;
-
-XVIII. Intervenir en la formulación y modificación, en su caso, de las estructuras orgánicas, funcionales y ocupacionales de la Comisión Nacional del Agua;
-
-XIX. Someter a la consideración del Subdirector General de Administración, las modificaciones estructurales propuestas por las unidades administrativas de la Comisión Nacional del Agua;
-
-XX. Proyectar, conjuntamente con las unidades administrativas de la Comisión Nacional del Agua, los manuales administrativos de organización, procedimientos y servicios que regularán las actividades institucionales, y
-
-XXI. Acordar con el Subdirector General de Administración los asuntos de su competencia y demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 92.
 
-La Gerencia de Recursos Financieros tendrá las siguientes atribuciones:
-
-I. Diseñar, operar y controlar los sistemas, procedimientos y servicios para el manejo de los recursos financieros de la Comisión Nacional del Agua, para su adecuada operación presupuestal y registro contable, con base en los lineamientos internos de carácter técnico y administrativo, establecidos por la Oficialía Mayor y las disposiciones legales aplicables;
-
-II. Vigilar y controlar el ejercicio del presupuesto asignado a los programas de trabajo de la Comisión Nacional del Agua, llevar su contabilidad y proporcionar el apoyo administrativo necesario en materia de estadística y contabilidad para el mejor despacho de los asuntos de su competencia;
-
-III. Asesorar a las unidades administrativas de la Comisión Nacional del Agua, en la presupuestación, calendarización, control y evaluación de los recursos financieros asignados a sus programas;
-
-IV. Integrar el anteproyecto de presupuesto financiero anual de la Comisión Nacional del Agua, conjuntamente con la Gerencia de Evaluación y Programación;
-
-V. Elaborar los estados financieros consolidados de la Comisión Nacional del Agua, para autorización del Subdirector General de Administración;
-
-VI. Realizar la contabilidad y el control de los créditos externos obtenidos por la Comisión Nacional del Agua, conforme a las disposiciones legales aplicables;
-
-VII. Apoyar, en materia financiera y contable, a las unidades administrativas de la Comisión Nacional del Agua, para el mejor despacho de los asuntos de su competencia;
-
-VIII. Elaborar informes presupuestales financieros de la Comisión Nacional del Agua, e integrar conjuntamente con la Gerencia de Evaluación y Programación, la cuenta de la hacienda pública federal y el informe presidencial, y
-
-IX. Las demás que en forma expresa le encomiende el Subdirector General de Administración.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 93.
 
-La Gerencia de Recursos Materiales tendrá las siguientes atribuciones:
-
-I. Operar y controlar los sistemas, procedimientos y servicios para el manejo de los recursos materiales de la Comisión Nacional del Agua, con base en los lineamientos internos de carácter técnico y administrativo, establecidos por la Oficialía Mayor y las disposiciones legales aplicables;
-
-II. Autorizar y celebrar contratos, pedidos y convenios, y demás actos jurídicos, de conformidad con las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas, sus reglamentos y demás disposiciones aplicables, previo dictamen de las unidades administrativas competentes de la Comisión Nacional del Agua;
-
-III. Diseñar, difundir y supervisar las políticas, bases y lineamientos para la adquisición, arrendamiento y contratación de bienes y servicios, así como la obra pública, conforme a la normatividad aplicable en la materia;
-
-IV. Supervisar, controlar e informar sobre la gestión administrativa en materia de recursos materiales de las unidades administrativas de la Comisión Nacional del Agua;
-
-V. Elaborar el inventario del mobiliario, equipo, maquinaria y demás bienes inventariables asignados a la Comisión Nacional del Agua, y supervisar, regular y establecer las bases y programas para su verificación física, actualización, registro y resguardo del mobiliario;
-
-VI. Elaborar y difundir los lineamientos internos que regulen la administración de los recursos materiales de la Comisión Nacional del Agua;
-
-VII. Determinar y aplicar las sanciones y penas convencionales por incumplimiento a pedidos, contratos y convenios, debiéndose observar la normatividad aplicable y los lineamientos correspondientes;
-
-VIII. Integrar, consolidar y dar a conocer el Programa Anual de Adquisiciones, Arrendamientos y Servicios, y los que abarquen más de un ejercicio presupuestal de la Comisión Nacional del Agua, con la aprobación del Comité de Adquisiciones, Arrendamientos y Servicios;
-
-IX. Controlar y coordinar la celebración de convenios y contratos relativos a bienes, servicios y obras de acondicionamiento que la Comisión Nacional del Agua efectúe con proveedores y prestadores de servicios, vigilando que se cumplan las condiciones de calidad, precio y oportunidad convenidas;
-
-X. Coordinar la prestación del servicio de transporte aéreo ejecutivo, así como el mantenimiento de las aeronaves de la Comisión Nacional del Agua, y
-
-XI. Controlar, administrar y dar seguimiento al Programa de Aseguramiento Integral de la Comisión Nacional del Agua.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 94.
 
-La Gerencia de Descentralización tendrá las siguientes atribuciones:
-
-I. Realizar acciones para la descentralización de atribuciones, funciones, programas y recursos de la Comisión Nacional del Agua;
-
-II. Establecer y difundir lineamientos, estrategias, mecanismos e instrumentos para la descentralización;
-
-III. Coordinar con los sectores público, social y privado, acciones para la descentralización;
-
-IV. Proponer a la Subdirección General Jurídica, adecuaciones y actualizaciones al marco jurídico-administrativo en materia de aguas nacionales y bienes inherentes para la descentralización;
-
-V. Promover, en coordinación con la Subdirección General Jurídica, la actualización jurídico-administrativo estatal en materia hidráulica, para la creación de organismos públicos descentralizados;
-
-VI. Requerir, integrar, analizar y evaluar la información relacionada con la descentralización de las unidades administrativas de la Comisión Nacional del Agua;
-
-VII. Coordinar, dar seguimiento y participar en las instancias constituidas en torno a la descentralización;
-
-VIII. Coadyuvar en la actualización, integración y difusión de las reglas de operación de los programas a cargo de la Comisión Nacional del Agua;
-
-IX. Promover, dentro de la descentralización, la cultura del agua a través de espacios municipales y del diseño de diversos mecanismos de difusión, y
-
-X. Participar en foros nacionales e internacionales en materia de agua, federalismo y descentralización.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 95.
 
-La Gerencia de Informática y Telecomunicaciones tendrá las siguientes atribuciones:
-
-I. Investigar y promover el uso de la tecnología de punta en materia de informática y telecomunicaciones en la Comisión Nacional del Agua;
-
-II. Establecer y vigilar la observancia de la normatividad en materia de informática y telecomunicaciones, definida para la Comisión Nacional del Agua;
-
-III. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, los lineamientos para el programa institucional de capacitación en materia de informática y telecomunicaciones;
-
-IV. Establecer la estrategia institucional para el desarrollo de sistemas informáticos;
-
-V. Coordinar, con las unidades administrativas de la Comisión Nacional del Agua, la formulación del programa de desarrollo informático;
-
-VI. Establecer estándares de configuraciones tipo para equipo informático;
-
-VII. Administrar los servicios de informática y telecomunicaciones que integran la red de la Comisión Nacional del Agua;
-
-VIII. Administrar las cuentas de correo electrónico e internet del personal de la Comisión Nacional del Agua;
-
-IX. Presidir el Comité de Informática y Telecomunicaciones;
-
-X. Participar en la adquisición de los equipos de informática y telecomunicaciones, mediante la emisión de dictámenes técnicos;
-
-XI. Representar a la Comisión Nacional del Agua en materia de informática y telecomunicaciones;
-
-XII. Establecer y controlar los mecanismos de seguridad en materia de informática y telecomunicaciones, y
-
-XIII. Las demás que en forma expresa le encomiende el Subdirector General de Administración.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 96.
 
-La Gerencia de Redes y Observación Telemática tendrá las siguientes atribuciones:
-
-I. Desarrollar y promover las capacidades técnicas básicas que se requieran para que las obras, acciones y programas de la Comisión Nacional del Agua, en materia de redes de observación y acopio meteorológico, sean de calidad;
-
-II. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos, que permitan dar unidad a las acciones del Gobierno Federal en materia de registro y transmisión de información atmosférica y meteorológica, y coordinar su aplicación;
-
-III. Mantener en operación y desarrollar las redes meteorológicas, por sí o por contrato o convenio con terceros;
-
-IV. Mantener en operación, administrar y desarrollar los sistemas de registro, telecomunicaciones, cómputo y telemática, necesarios para el funcionamiento del Servicio Meteorológico Nacional, así como los sistemas necesarios para la interacción con otras redes, que permitan la comunicación, transmisión de datos, enlaces entre equipos de las redes de observación y los centros de concentración de datos, y la operación continua de la red del área local;
-
-V. Realizar el acopio de la información meteorológica e implementar y aplicar los modelos numéricos de la atmósfera; difundir los productos meteorológicos del Servicio Meteorológico Nacional, así como desarrollar, actualizar e integrar la base de datos climatológicos, el banco de datos de imágenes meteorológicas, de satélite y radar meteorológico, y
-
-VI. Acordar con el titular de la Unidad del Servicio Meteorológico Nacional los asuntos de su competencia y atender los demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 97.
 
-La Gerencia de Meteorología tendrá las siguientes atribuciones:
-
-I. Desarrollar y promover las capacidades técnicas básicas que se requieran para que las obras, acciones y programas de la Comisión Nacional del Agua, en materia de meteorología, sean de calidad;
-
-II. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos, que permitan dar unidad a las acciones del Gobierno Federal en materia de meteorología, pronóstico y climatología, y coordinar su aplicación;
-
-III. Mantener una vigilancia permanente de los meteoros que puedan afectar los escurrimientos de los ríos y los almacenamientos de los embalses, así como alertar a la población de posibles inundaciones y de otros efectos de los meteoros;
-
-IV. Elaborar y mantener un registro de la ocurrencia, magnitud y duración de las lluvias con el propósito de prevenir y mitigar efectos de las inundaciones y sequías;
-
-V. Elaborar el pronóstico del clima a muy corto, corto, mediano y largo plazos, y mantener permanentemente informado al Sistema Nacional de Protección Civil sobre la presencia de fenómenos hidroclimatológicos extremos durante los procesos de su formación, desarrollo, posible impacto y disipación;
-
-VI. Mantener una vigilancia meteorológica permanente de la atmósfera, y dar seguimiento al desarrollo, desplazamiento y disipación de humos y gases en la atmósfera por incendios agrícolas y forestales, accidentes químicos, nubes radioactivas, gases de efecto invernadero y erupciones volcánicas, y
-
-VII. Acordar con el titular de la Unidad del Servicio Meteorológico Nacional los asuntos de su competencia y atender los demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 98.
 
-La Gerencia de Protección a la Infraestructura y Atención de Emergencias tendrá las siguientes atribuciones:
-
-I. Programar, coordinar y realizar la seguridad física a la infraestructura hidráulica de la Comisión Nacional del Agua, y actuar en situaciones de emergencia, principalmente de tipo hidrometeorológicas, sanitarias, químicas y telúricas, entre otros fenómenos naturales;
-
-II. Participar en la detección de daños naturales provocados en la infraestructura hidráulica;
-
-III. Intervenir en la formulación de los planes regionales de operación para prevenir daños por efectos de inundación, sismos y desastres diversos, relacionados con el agua;
-
-IV. Desarrollar los instructivos de control regional de emergencia de las principales cuencas del país, coordinando las acciones con el sistema nacional de protección civil;
-
-V. Coordinar, con la participación de las unidades administrativas de la Comisión Nacional del Agua, campañas de prevención y operativos de programas de saneamiento y desinfección;
-
-VI. Realizar, en forma permanente, la capacitación y adiestramiento en lo interno para la seguridad física integral dentro de los programas específicos hidrometeorológicos, sanitarios y químicos; en lo externo, desarrollando talleres preventivos con apoyo a la comunidad y correctivos dentro de los operativos;
-
-VII. Desarrollar normas y procedimientos para el trabajo de seguridad e inspección de las obras de infraestructura;
-
-VIII. Formular los planes de emergencia para integrar y coordinar a las brigadas regionales y estatales;
-
-IX. Interactuar con el sistema nacional de protección civil, fomentando reuniones de planeación en cada región;
-
-X. Implementar el banco de información de las acciones realizadas;
-
-XI. Fomentar el intercambio tecnológico e informativo con entidades afines como la Comisión Federal de Electricidad y Petróleos Mexicanos, en lo relativo a seguridad;
-
-XII. Integrar un grupo de respuesta inmediata para atender y reforzar operativos de emergencia hidrometeorológica, subacuática, sanitaria y en desastres naturales y accidentes, mediante una fuerza especial de tarea debidamente entrenada y capacitada en operativos terrestres, subacuáticos y de radiocomunicación;
-
-XIII. Capturar la información meteorológica e hidráulica que incluya todos los eventos relevantes que se suscitan en la infraestructura hidráulica instalada;
-
-XIV. Analizar y proponer a las autoridades superiores, las modificaciones presupuestales y de metas;
-
-XV. Llevar a cabo la actualización y el registro de las unidades de riego por bombeo eléctrico, y
-
-XVI. Llevar el control de los pozos rehabilitados y las unidades de riego mejoradas, así como el seguimiento de las recomendaciones para su correcta conservación.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 99.
 
-La Gerencia del Programa de Modernización del Manejo del Agua tendrá las siguientes atribuciones:
-
-I. Desarrollar y promover las capacidades técnicas básicas que se requieran para que las obras, acciones y programas de la Comisión Nacional del Agua, en materia de manejo del recurso hidráulico, sean de calidad;
-
-II. Proponer a las unidades administrativas competentes de la Comisión Nacional del Agua, los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos, que permitan dar unidad a las acciones del Gobierno Federal en materia de modernización del manejo del agua, y coordinar su aplicación;
-
-III. Promover y apoyar la formulación, desarrollo, innovación y divulgación de estudios, trabajos y servicios hidrológicos, meteorológicos, geohidrológicos, de calidad del agua, de disponibilidad y uso del agua, de programación hidráulica y de administración del agua tendientes hacia el manejo integral del agua;
-
-IV. Coordinar la planeación, programación, presupuestación y ejecución del Programa de Modernización del Manejo del Agua;
-
-V. Realizar el seguimiento, el control y la evaluación de la instrumentación del Programa de Modernización del Manejo del Agua;
-
-VI. Promover la interrelación entre las distintas áreas de la Comisión Nacional del Agua, para lograr la modernización del manejo integral del agua;
-
-VII. Promover y apoyar el desarrollo, la innovación y el fortalecimiento de las capacidades técnicas básicas para que las obras, acciones y programas de la Comisión Nacional del Agua, se orienten al manejo integral del agua;
-
-VIII. Fomentar la investigación científica y el desarrollo tecnológico en aspectos relacionados con la modernización del manejo del agua, su aplicación y la formación y capacitación de los recursos humanos relacionados, y
-
-IX. Acordar con el Subdirector General Técnico los asuntos de su competencia y atender los demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 100.
 
-La Gerencia de Innovación y Calidad tendrá las siguientes atribuciones:
-
-I. Aplicar las estrategias y acciones establecidas en el Programa de Innovación Gubernamental en la Comisión Nacional del Agua, y mantener el seguimiento y evaluación de las mismas;
-
-II. Integrar el Programa de Innovación Gubernamental en la Comisión Nacional del Agua;
-
-III. Instrumentar las políticas, lineamientos y criterios que deberán observar las áreas en materia de innovación gubernamental y administración por calidad, y diseñar las metodologías, herramientas, sistemas e indicadores que habrán de aplicarse en las mismas;
-
-IV. Definir e instrumentar, conjuntamente con las unidades administrativas de la Comisión Nacional del Agua, proyectos de mejora continua, reingeniería de procesos y certificación;
-
-V. Promover el desarrollo de proyectos, tendientes a elevar los índices de eficiencia, eficacia y productividad de la Comisión Nacional del Agua;
-
-VI. Promover y difundir la sensibilización y participación de los servidores públicos de la Comisión Nacional del Agua, en acciones de innovación y calidad;
-
-VII. Asesorar a las unidades administrativas de la Comisión Nacional del Agua, en materia de innovación y calidad gubernamental, y
-
-VIII. Las que en forma expresa le encomiende el Subdirector General de Administración.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 101.
 
-La Gerencia de lo Consultivo tendrá las siguientes atribuciones:
-
-I. Elaborar los anteproyectos de iniciativas de leyes o decretos; de reglamentos, decretos, acuerdos y órdenes del Presidente de la República, y de disposiciones de carácter general en las materias competencia de la Comisión Nacional del Agua;
-
-II. Diseñar lineamientos en materia jurídica, atendiendo los criterios que, en su caso, emita la Coordinación General Jurídica para procurar la congruencia de los mismos entre las unidades jurídicas adscritas a las gerencias nacionales, regionales y estatales de la Comisión Nacional del Agua;
-
-III. Auxiliar y asesorar jurídicamente a las unidades administrativas centrales, regionales y estatales de la Comisión Nacional del Agua, en el ejercicio de sus atribuciones, con excepción de los asuntos que conforme a este Reglamento tienen asignados otras unidades administrativas;
-
-IV. Brindar asesoría jurídica y participar, con las unidades administrativas competentes de la Comisión Nacional del Agua, en la concertación, negociación, gestión y adopción de acciones, programas y proyectos, relacionados con la suscripción de convenios, nacionales e internacionales, y demás instrumentos jurídicos de naturaleza análoga, dentro de las atribuciones de la propia Comisión y en los que ésta sea parte;
-
-V. Solicitar a las unidades administrativas centrales, regionales y estatales de la Comisión Nacional del Agua, las propuestas de reformas a la Ley de Aguas Nacionales, su Reglamento y a la Ley Federal de Derechos;
-
-VI. Apoyar, dentro del ámbito de su competencia, con las instancias competentes, al seguimiento de las iniciativas de leyes o decretos que presente el Presidente de la República ante el Congreso de la Unión, respecto de materias competencia de la Comisión Nacional del Agua;
-
-VII. Tramitar ante la Coordinación General Jurídica, la publicación en el Diario Oficial de la Federación de las disposiciones de carácter general en las materias competencia de la Comisión Nacional del Agua;
-
-VIII. Difundir entre las unidades administrativas de la Comisión Nacional del Agua, la jurisprudencia o tesis definidas sobre asuntos de sus respectivas competencias;
-
-IX. Tramitar los procedimientos de conciliación y arbitraje, en los términos de la Ley de Aguas Nacionales;
-
-X. Revisar los aspectos jurídicos de formatos, instructivos y procedimientos utilizados para el ejercicio de las funciones de las unidades administrativas de la Comisión Nacional del Agua, pudiendo emitir su opinión al respecto;
-
-XI. Elaborar los criterios, interpretaciones administrativas y medidas para la correcta aplicación de la Ley de Aguas Nacionales y su Reglamento;
-
-XII. Resolver las consultas que, sobre situaciones reales o concretas, le formulen los usuarios de aguas nacionales, así como las unidades administrativas de la Comisión Nacional del Agua;
-
-XIII. Instruir el recurso de revisión previsto en la Ley Federal de Procedimiento Administrativo, que se interponga en contra de actos o resoluciones de las unidades administrativas de la Comisión Nacional del Agua, y someterlos a la consideración del superior jerárquico que corresponda, así como proponer a éste los proyectos de resolución a dichos recursos;
-
-XIV. Resolver el recurso de revocación previsto en el Código Fiscal de la Federación, que se haga valer contra actos o resoluciones fiscales que emitan las unidades administrativas de la Comisión Nacional del Agua, y
-
-XV. Acordar con el Subdirector General Jurídico los asuntos de su competencia y atender los demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 102.
 
-La Gerencia de lo Contencioso tendrá las siguientes atribuciones:
-
-I. Representar legalmente al Director General de la Comisión Nacional del Agua y a sus unidades administrativas en los procedimientos judiciales y administrativos en que se requiera su intervención, con excepción de los asuntos que conforme a este Reglamento tienen asignados otras unidades administrativas, para lo cual podrá contestar, rendir informes, demandar, denunciar, querellarse, allanarse, desistirse, desahogar pruebas, interponer recursos, otorgar perdón, certificar y realizar los trámites necesarios para defender los intereses de la Comisión, y los que se requieran para el cumplimiento y aplicación de la ley;
-
-II. Elaborar y proponer los informes previos y justificados que en los juicios de amparo deban rendir los servidores públicos de la Comisión Nacional del Agua, señalados como autoridades responsables;
-
-III. Elaborar demandas o la contestación de las mismas, según proceda, en las controversias constitucionales o acciones de inconstitucionalidad en que deba intervenir la Comisión Nacional del Agua;
-
-IV. Intervenir cuando la Comisión Nacional del Agua tenga el carácter de tercero perjudicado en los juicios de amparo, y formular e interponer los recursos y demás medios de defensa que procedan dentro del juicio constitucional;
-
-V. Solicitar a las unidades administrativas de la Comisión Nacional del Agua, la información, documentación y apoyo para el debido conocimiento de los asuntos impugnados en los juicios y procedimientos de su competencia, y
-
-VI. Representar, en los juicios de nulidad que se tramiten ante el Tribunal Federal de Justicia Fiscal y Administrativa, a las unidades administrativas centrales de la Comisión Nacional del Agua, promoviendo los recursos y medios de defensa que procedan en el juicio para defender los intereses de la Comisión.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 103.
 
-La Gerencia de Procedimientos Administrativos tendrá las siguientes atribuciones:
-
-I. Dictaminar los expedientes de infractores a las disposiciones de la Ley de Aguas Nacionales y Ley Federal de Derechos en lo que se refiere a la materia hidráulica, así como de los demás ordenamientos legales aplicables, cuando dicho dictamen le sea solicitado por la unidad administrativa competente de la Comisión Nacional del Agua;
-
-II. Participar, cuando así lo solicite la Subdirección General de Administración del Agua, en la revisión de las resoluciones administrativas de suspensión de derechos de agua, clausura de aprovechamientos y de revocación, nulidad, caducidad, modificación y terminación de las asignaciones, concesiones, permisos y demás autorizaciones en materia hidráulica, previstas en las disposiciones jurídicas y demás ordenamientos aplicables;
-
-III. Intervenir en la tramitación de los expedientes relativos a las expropiaciones en los casos de afectaciones de todo tipo que promueva la Comisión Nacional del Agua, así como en los referentes al pago de indemnización en efectivo y en especie;
-
-IV. Participar, en coordinación con las autoridades competentes, en la titulación de tierras afectadas por la realización de obras hidráulicas o que deban adjudicarse como compensación a particulares, ejidatarios y comuneros;
-
-V. Representar al titular de la Comisión Nacional del Agua, a sus unidades administrativas centrales, regionales y estatales, en los juicios agrarios que se tramiten ante los Tribunales Agrarios;
-
-VI. Dirigir y coordinar el cuerpo de peritos de la Subdirección General Jurídica, así como apoyar a las unidades administrativas centrales, regionales y estatales, en la presentación y formulación de dictámenes de carácter pericial;
-
-VII. Revisar el aspecto jurídico del otorgamiento de las asignaciones, concesiones, permisos y demás autorizaciones en materia hidráulica, previstas en las disposiciones jurídicas y demás ordenamientos legales aplicables, cuando dicha revisión le sea solicitada por la unidad administrativa competente de la Comisión Nacional del Agua;
-
-VIII. Representar legalmente al titular de la Secretaría en los juicios de orden laboral, respecto de trabajadores de la Comisión Nacional del Agua, dictaminar actas administrativas levantadas a los trabajadores de ésta, presentar demandas de cese y contestaciones de demanda, formular y absolver posiciones, desistirse o allanarse y, en general, realizar todas aquellas promociones que se requieran en el curso del procedimiento, y
-
-IX. Acordar con el Subdirector General Jurídico los asuntos de su competencia y atender los demás que éste le encomiende.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 104.
 
-Las gerencias regionales se establecerán en el número, lugar y con la circunscripción territorial que determine el Director General de la Comisión Nacional del Agua, y tendrán las atribuciones siguientes:
-
-I. Ejercer, dentro del ámbito territorial que les corresponda, las atribuciones de las unidades administrativas a que se refieren los artículos 46 a 51, 53 y 54 de este Reglamento, excepto las contenidas en las fracciones III, IV y XXV a XXXI del artículo 47 del propio ordenamiento;
-
-II. Revisar, confirmar, modificar, revocar y nulificar, en su caso, en el ámbito de sus respectivas competencias, las resoluciones que dicten en el ejercicio de sus atribuciones las gerencias estatales, ubicadas dentro de su circunscripción territorial, así como resolver los recursos administrativos que se interpongan contra dichas resoluciones;
-
-III. Las que expresamente se les deleguen, conforme a los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos que señale el titular de la Comisión Nacional del Agua y las subdirecciones generales, en su caso, y
-
-IV. Las demás que le señalen las disposiciones jurídicas aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 105.
 
-La Gerencia Regional de Aguas del Valle de México y Sistema Cutzamala tendrá, además de las atribuciones del artículo anterior, las siguientes:
-
-I. Operar y conservar el Sistema Cutzamala, y la demás infraestructura de distribución del agua en bloque al área metropolitana de la ciudad de México, así como vigilar el cumplimiento de los protocolos establecidos para su operación, con la participación que corresponda a los gobiernos del Estado de México y del Distrito Federal;
-
-II. Operar, conservar y, en su caso, sustituir, conforme a los lineamientos emitidos por la Subdirección General de Gerencias Regionales, los sistemas de abastecimiento de agua potable del Plan de Acción Inmediata, para el suministro y entrega de agua en bloque a las entidades federativas del Estado de México, Hidalgo y Distrito Federal;
-
-III. Operar, conservar y, en su caso, ampliar la infraestructura para el tratamiento de aguas residuales a través de la operación de sistemas de tratamiento secundario y terciario del Lago de Texcoco;
-
-IV. Operar y mantener la infraestructura de riego y drenaje en las áreas forestadas y pastizadas de la zona federal del Lago de Texcoco, y el acondicionamiento de áreas degradadas en la cuenca tributaria para revertir los efectos de la contaminación ambiental y mejorar el entorno ecológico de la región del Valle de México, y
-
-V. Aplicar las políticas de operación que garanticen el suministro de las aguas que constituyen el afluente del Valle de México, a las unidades y distritos de riego ubicados en la Cuenca del Valle de México.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 106.
 
-Las gerencias regionales contarán con una unidad jurídica, la que ejercerá, en el ámbito de la circunscripción territorial correspondiente, las atribuciones mencionadas en el artículo 52 de este Reglamento, con excepción de las contenidas en las fracciones XVI y XVII del propio artículo, y conforme a los lineamientos que señale la Subdirección General Jurídica.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 107.
 
-Las gerencias estatales se establecerán una en cada entidad federativa, excepto en aquellas en las que se establezcan como sede las gerencias regionales y éstas se encuentren en aptitud de ejercer, además, las atribuciones señaladas en el presente artículo, en el ámbito de competencia territorial de la entidad federativa correspondiente, y tendrán las siguientes atribuciones:
-
-I. Ejercer, en la entidad federativa correspondiente, las atribuciones de las unidades administrativas a que se refieren los artículos 46 a 51, 53 y 54 de este Reglamento, excepto las contenidas en las fracciones III, IV y XXV a XXXI del artículo 47 del propio ordenamiento;
-
-II. Mantener relación y vinculación con las delegaciones federales y coordinaciones regionales de la Secretaría, en los estados, de conformidad con los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos que establezca la Secretaría, y
-
-III. Las que expresamente les delegue el Director General de la Comisión Nacional del Agua, así como las que les señalen las disposiciones jurídicas aplicables.
-
-Las gerencias estatales contarán con una unidad jurídica, la que ejercerá, en el ámbito de la circunscripción territorial correspondiente, las atribuciones mencionadas en el artículo 52 de este Reglamento, con excepción de las contenidas en las fracciones XVI y XVII, y conforme a los lineamientos que señale la Subdirección General Jurídica.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 108.
 
-Los subdirectores generales de la Comisión Nacional del Agua podrán, en el ámbito de sus respectivas competencias, revisar, confirmar, modificar, revocar y nulificar, en su caso, las resoluciones que dicten los gerentes nacionales y regionales en el ejercicio de sus facultades, así como resolver los recursos administrativos que se interpongan contra dichas resoluciones.
-
-Iguales facultades y para los mismos fines tendrá el Director General de la Comisión Nacional del Agua, con respecto a las resoluciones que emitan los subdirectores generales y gerentes de la propia Comisión.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ###### ARTÍCULO 109.
 
-La Comisión Nacional del Agua contará con un órgano interno de control, al frente del cual habrá un titular designado por el Secretario de Contraloría y Desarrollo Administrativo, en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en ejercicio de sus facultades se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades del propio órgano interno de control, designados en los mismos términos.
-
-Dichos servidores públicos ejercerán las facultades a que se refiere el artículo 156 de este Reglamento, en el ámbito de competencia de la Comisión Nacional del Agua.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA, D.O.F. 20 DE NOVIEMBRE DE 2006)
 
 ### CAPÍTULO DÉCIMO. DEL INSTITUTO NACIONAL DE ECOLOGÍA
 
@@ -4295,7 +2667,7 @@ XLII.- Administrar la biblioteca y hemeroteca de la Secretaría, así como estab
 
 XLIII. Formular, implementar, aplicar, ejecutar, gestionar, evaluar y supervisar los programas y los presupuestos para apoyar la formación de recursos humanos de alto nivel de especialización, incluyendo programas de posgrado en el extranjero en el sector ambiental y, en general, en los distintos órdenes de gobierno, así como en los sectores social y privado en las materias de su competencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XLIV. Promover, en coordinación con la Secretaría de Educación Pública, que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen planes, programas y difusión para la formación de especialistas y para la investigación sobre cambio climático;
 
@@ -4339,7 +2711,7 @@ LIII. Proponer al Consejo Nacional de Ciencia y Tecnología elementos para la fo
 
 LIV. Proponer, en el ámbito de su competencia, los elementos que deban integrarse a las políticas ambientales de la Secretaría, a través de la Subsecretaría de Planeación y Política Ambiental, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 LV. Las demás que le confiera el Titular de la Secretaría, las que señalen las disposiciones legales y reglamentarias relativas, así como las que correspondan a las unidades administrativas a su cargo.
 
@@ -4545,11 +2917,11 @@ XV. Organizar, en coordinación con las unidades administrativas competentes de 
 
 XVI. Funcionar como laboratorios de referencia en materia de análisis y calibración de equipo de medición de contaminantes atmosféricos, residuos peligrosos, así como en la detección e identificación de organismos genéticamente modificados;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XVII. Realizar investigaciones y llevar a cabo el monitoreo por la liberación al ambiente de organismos genéticamente modificados, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XVIII. Emitir opiniones y formular informes técnicos a partir de estudios e investigaciones, participación en programas de evaluación tecnológicas, supervisiones y evaluaciones de sistemas de monitoreo atmosférico, cuando así lo requieran las unidades administrativas competentes de la Secretaría y sus órganos desconcentrados.
 
@@ -4831,11 +3203,11 @@ XX. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2006)
 
 XXI. Delegaciones de la Procuraduría en las entidades federativas y la Delegación en la Zona Metropolitana del Valle de México, que tendrá competencia en el Distrito Federal y los municipios conurbados siguientes: Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán, Cuautitlán Izcalli, Chalco, Chicoloapan, Chimalhuacán, Ecatepec, Huixquilucan, Ixtapaluca, Naucalpan de Juárez, Nezahualcóyotl, Nicolás Romero, La Paz, Tecámac, Texcoco, Tlalnepantla de Baz, Tultitlán y Valle de Chalco Solidaridad. La Delegación de la Procuraduría en el Estado de México tendrá representación y competencia en los restantes municipios del Estado de México.
 
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 La Procuraduría contará con inspectores federales, quienes tendrán las facultades para actuar en los asuntos que les ordenen y comisionen, de conformidad con las disposiciones legales aplicables, el Procurador, Subprocuradores, Delegados de la Procuraduría y Directores Generales, estos últimos, con atribuciones de inspección y vigilancia. Asimismo, dichos inspectores federales tendrán facultades para determinar e imponer las medidas de seguridad previstas en las disposiciones legales aplicables cuya vigilancia y aplicación compete a la Procuraduría.
 
-> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 La Procuraduría podrá auxiliarse para el ejercicio de sus funciones por el personal de las dependencias o entidades de la Administración Pública Federal, de las entidades federativas y municipales, que en términos de las disposiciones jurídicas aplicables y de los convenios que al efecto se celebren, sea acreditado como inspector federal.
 
@@ -4857,7 +3229,9 @@ V. Proponer proyectos de recomendaciones para el cumplimiento de las disposicion
 
 VI. Solicitar ante las autoridades competentes, en lo que corresponda a las unidades administrativas de su adscripción, la revocación, modificación, suspensión o cancelación de autorizaciones, permisos, asignaciones, licencias o concesiones cuando las actividades autorizadas se conviertan en un riesgo para el equilibrio ecológico, lo perturben significativamente o contravengan las disposiciones jurídicas aplicables;
 
-VII. Establecer las políticas, criterios, sistemas y procedimientos de carácter técnico que deban regir en las unidades administrativas de su adscripción;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
+XVII. Suscribir los actos jurídicos, que se requieran para el ejercicio de las atribuciones conferidas a las unidades administrativas de su adscripción, de conformidad con la legislación aplicable y previa revisión de la Subprocuraduría Jurídica y, en su caso, de la Dirección General de Administración;
 
 VIII. Apoyar técnicamente la desconcentración y la delegación de facultades en las unidades administrativas bajo su responsabilidad;
 
@@ -4877,9 +3251,7 @@ XV. Recibir en acuerdo ordinario a los directores generales de su adscripción y
 
 XVI. Proporcionar la información, datos y cooperación técnica requerida por otras dependencias o entidades de la Administración Pública Federal, así como por otras unidades administrativas de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-XVII. Suscribir los actos jurídicos, que se requieran para el ejercicio de las atribuciones conferidas a las unidades administrativas de su adscripción, de conformidad con la legislación aplicable y previa revisión de la Subprocuraduría Jurídica y, en su caso, de la Dirección General de Administración;
+XVII. Suscribir convenios y contratos en materia de obra pública, servicios y capacitación, de conformidad con la legislación aplicable y previa revisión de la Subprocuraduría Jurídica y, en su caso, de la Dirección General de Administración;
 
 XVIII. Promover y coordinar programas dirigidos a la profesionalización de los servidores públicos adscritos a la Procuraduría;
 
@@ -4891,7 +3263,7 @@ XX. Participar, en el ámbito de su competencia, en el establecimiento y operaci
 
 XXI. Ejercer todas y cada una de las facultades conferidas a las direcciones generales de su adscripción, cuando así lo considere pertinente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XXII. Vigilar que las unidades administrativas a su cargo den cumplimiento a las obligaciones en materia de transparencia y acceso a la información pública gubernamental;
 
@@ -4903,7 +3275,7 @@ XXIII. Resolver los recursos administrativos presentados en contra de los actos 
 
 XXIV. Suscribir documentos en ausencia del Procurador, en relación con los asuntos de su competencia, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XXV. Las demás que le confieran las disposiciones jurídicas aplicables, así como las encomendadas por el Procurador para el cumplimiento de sus fines.
 
@@ -5087,11 +3459,11 @@ X. Recibir, analizar, asesorar y atender los reportes de emergencias ambientales
 
 XI. Brindar la información técnica relacionada con el uso, manejo y transporte de materiales y residuos peligrosos, en caso de fugas, derrames, incendios y explosiones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XII. Apoyar a las delegaciones y, en su caso representar a la Procuraduría con las autoridades federales, de las entidades federativas y municipales, así como con los particulares, a fin de que participen en la solución de problemas ocasionados por emergencias o contingencias ambientales, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XIII. Las demás que le confieran las disposiciones jurídicas aplicables y las encomendadas por el Procurador para el cumplimiento de sus fines.
 
@@ -5421,11 +3793,11 @@ XVIII. Participar, en representación de la Procuraduría, con las autoridades c
 
 XIX. Definir los criterios respecto de la determinación de las sanciones económicas de conformidad con las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XX. Dictaminar y registrar los convenios que pretendan celebrar las delegaciones y las direcciones generales con facultades de inspección y vigilancia, en materia de restauración o compensación de daños y otros instrumentos que den por terminados los procedimientos administrativos que tengan por objeto satisfacer el interés público, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XXI. Las demás que le confieran las disposiciones jurídicas aplicables y las encomendadas por el Procurador para el cumplimiento de sus fines.
 
@@ -5463,7 +3835,7 @@ XII. Tramitar las quejas ante las autoridades federales, de las entidades federa
 
 XIII. Recibir, atender y canalizar las quejas e información en materia de derechos humanos, así como dar seguimiento a las resoluciones y recomendaciones que emita la Comisión Nacional de los Derechos Humanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XIV. Solicitar a las unidades administrativas de la Procuraduría la información sobre los hechos relacionados con denuncias populares y quejas para su atención;
 
@@ -5475,7 +3847,7 @@ XV. Coadyuvar en el combate a la corrupción y fungir como enlace ante la Secret
 
 XVI. Fungir como Titular de la Unidad de Enlace en materia de acceso a la información pública y como Secretario Técnico del Comité de Información de la Procuraduría, en términos de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XVII. Las demás que le confieran las disposiciones jurídicas aplicables, así como las encomendadas expresamente por el Procurador para el cumplimiento de sus fines.
 
@@ -5541,7 +3913,7 @@ XXI. Gestionar las recuperaciones provenientes de los derechos y aprovechamiento
 
 XXII. Establecer los lineamientos para la emisión de las credenciales de identificación de inspectores;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XXIII. Expedir las credenciales del personal adscrito a la oficina del Procurador, las subprocuradurías, direcciones generales y de los titulares de las delegaciones de la Procuraduría, que los acredite como tales;
 
@@ -5557,7 +3929,7 @@ XXV. Participar, dentro de su ámbito de competencia, con dependencias y entidad
 
 XXVI. Constituirse como responsable inmobiliario de aquellos bienes inmuebles que le sean otorgados a la Procuraduría, de conformidad con la legislación aplicable, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XXVII. Las demás que le confieran las disposiciones jurídicas aplicables y las encomendadas expresamente por el Procurador para el cumplimiento de sus fines.
 
@@ -5667,7 +4039,7 @@ XXIX. Las demás que le confieran las disposiciones jurídicas aplicables y las 
 
 (DEROGADO, D.O.F. 29 DE NOVIEMBRE DE 2006)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 139.
 
@@ -5677,7 +4049,7 @@ Al frente de cada una de las delegaciones de la Procuraduría Federal de Protecc
 
 Los delegados tendrán la representación para desempeñar las actividades derivadas de la competencia de la Procuraduría en su respectiva circunscripción territorial, la cual será determinada mediante acuerdo del Procurador que se publicará en el Diario Oficial de la Federación.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 Corresponde a los delegados, en el ámbito de la competencia de la Procuraduría, ejercer las siguientes atribuciones:
 
@@ -5769,7 +4141,7 @@ XXIX. Recibir, investigar y atender, en forma coordinada con las autoridades com
 
 XXX. Expedir las credenciales de identificación de los inspectores federales adscritos a la delegación, subdelegados y demás personal adscrito a la delegación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XXXI. Registrar, inventariar e implementar los mecanismos de control establecidos por la Dirección General de Administración, respecto de la totalidad de los bienes asegurados o decomisados, y mantener informada a dicha unidad administrativa de la actualización, custodia y, en su caso, destino final de los mismos;
 
@@ -5813,7 +4185,7 @@ XL. Imponer sanciones administrativas a las personas que infrinjan los preceptos
 
 XLI. Ordenar en el ámbito de su competencia, una o más medidas de seguridad de las establecidas en la Ley de Bioseguridad de Organismos Genéticamente Modificados y sus reglamentos, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XLII. Las demás que le confieran las disposiciones jurídicas aplicables, así como las encomendadas expresamente por el Procurador para el cumplimiento de sus fines.
 
@@ -5929,43 +4301,27 @@ XIII. Aplicar las políticas y disposiciones emitidas en materia de transparenci
 
 XIV. Las demás que le confiera el titular de la Secretaría, las que le señalen las disposiciones legales y reglamentarias aplicables, y las que competen a las unidades administrativas a su cargo.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 144.
 
 La Dirección General de Desarrollo Institucional y Promoción tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
 I. Coordinar las estrategias de cooperación y obtención de recursos para el establecimiento, protección, manejo y aprovechamiento sustentable, restauración y administración de las áreas naturales protegidas competencia de la Federación, sus zonas de influencia, de las áreas de refugio para proteger especies acuáticas, las regiones que se determinen como prioritarias para la conservación; la ejecución de los programas de subsidios, así como de proyectos para especies y poblaciones prioritarias para la conservación, y otros que tenga a su cargo la Comisión, con la participación que corresponda a otras unidades administrativas de la Secretaría;
-
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 II. Promover y fomentar con la participación de los sectores público, social y privado, mecanismos e instrumentos de financiamiento para el establecimiento, administración, protección, manejo, aprovechamiento sustentable y restauración para la conservación de las áreas naturales protegidas competencia de la Federación y sus zonas de influencia, de las áreas de refugio para proteger especies acuáticas, la aplicación de los programas de subsidios, así como para los proyectos para la conservación y recuperación de especies y poblaciones prioritarias;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
 III. Participar en las acciones de difusión y cooperación internacional que lleve a cabo la Secretaría, así como dirigir y coordinar el cumplimiento de los compromisos asumidos en materia de áreas naturales protegidas, especies y poblaciones prioritarias para la conservación y aquellos que por acuerdo del Secretario estén a cargo de la Comisión, conforme a los lineamientos de la Unidad Coordinadora de Asuntos Internacionales;
-
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 IV. Proponer al Comisionado Nacional la política de comunicación de la Comisión, así como aquélla relativa a promover una cultura para la conservación de los ecosistemas y su biodiversidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
 V. Coordinar el programa de publicaciones, distribución y comercialización de los productos relacionados con el objeto de la Comisión, de conformidad con los lineamientos generales que para tal efecto emitan las unidades administrativas competentes de la Secretaría;
-
-> <small>(REFORMADA Y REUBICADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 VI. Coordinar proyectos y programas de difusión que fomenten el desarrollo institucional, la conservación de las áreas naturales protegidas, sus zonas de influencia, de las áreas de refugio para proteger especies acuáticas, así como la conservación de especies y poblaciones prioritarias, con la participación que corresponda a las demás unidades administrativas de la Secretaría;
 
-> <small>(REFORMADA Y REUBICADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
 VII. Gestionar la expropiación y, en su caso, la adquisición de inmuebles para el establecimiento, protección, manejo, aprovechamiento sustentable, restauración, y administración de áreas naturales protegidas competencia de la Federación, sus zonas de influencia y la conservación de las especies y poblaciones prioritarias de conformidad con las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
 VIII. Concertar y coordinar las acciones que correspondan respecto de la reubicación o indemnización por la afectación de bienes inmuebles o bienes distintos a la tierra, ubicados en áreas naturales protegidas competencia de la Federación y sus zonas de influencia o que se requieran para el manejo, recuperación y protección de las especies prioritarias para la conservación a cargo de la Comisión, y
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 IX. Las demás que le confiera el Comisionado Nacional.
 
@@ -6149,6 +4505,74 @@ IX. Evaluar, en coordinación con las entidades del Sector que corresponda, el e
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
+150.- Las Direcciones Regionales se establecerán, de conformidad con las disposiciones jurídicas aplicables, en el domicilio y con la circunscripción territorial que determine el Comisionado Nacional mediante acuerdo que se publique en el Diario Oficial de la Federación. Dichas Direcciones Regionales tendrán las atribuciones siguientes:
+
+I. Apoyar la coordinación de las estrategias regionales de cooperación y obtención de recursos que lleve a cabo la Comisión, para el establecimiento, protección, manejo, aprovechamiento sustentable y restauración para la conservación de las áreas naturales protegidas competencia de la Federación y sus zonas de influencia, de las áreas de refugio para proteger especies acuáticas, así como de los programas de subsidios y de los proyectos de especies y poblaciones prioritarias para la conservación, con la participación que corresponda a otras unidades administrativas competentes de la Secretaría;
+
+II. Coadyuvar con la Dirección General de Desarrollo Institucional y Promoción en la ejecución de acciones de difusión y cooperación internacional que lleve a cabo la Secretaría, así como dirigir y dar cumplimiento a los compromisos internacionales asumidos en materia de áreas naturales protegidas competencia de la Federación;
+
+III. Supervisar los proyectos y programas de difusión que fomenten el desarrollo institucional y conservación de las áreas naturales protegidas, sus zonas de influencia, áreas de refugio para proteger especies acuáticas, así como de las especies prioritarias para la conservación, atendiendo a las políticas establecidas por la Dirección General de Desarrollo Institucional y Promoción y con la participación que corresponda a las demás unidades administrativas de la Secretaría;
+
+IV. Coadyuvar en la protección, manejo y restauración de los ecosistemas y su biodiversidad en las áreas naturales protegidas competencia de la Federación y de las áreas de refugio para proteger especies acuáticas que se encuentren dentro de su circunscripción territorial, de conformidad con las disposiciones jurídicas aplicables;
+
+V. Ejecutar con las unidades administrativas de la Secretaría los proyectos y acciones de recuperación de especies y poblaciones prioritarias, en las áreas naturales protegidas competencia de la Federación, sus zonas de influencia, en las áreas de refugio para proteger especies acuáticas y en aquellas regiones y hábitat que por sus características la Comisión determine como prioritarias para la conservación;
+
+VI. Coordinar la formulación y ejecución de los programas de manejo de las áreas naturales protegidas y de los programas de protección de las áreas de refugio para proteger especies acuáticas, ubicadas dentro de la circunscripción territorial de su competencia;
+
+VII. Formular y ejecutar el programa de manejo de las áreas naturales protegidas y de los programas de protección de las áreas de refugio para proteger especies acuáticas de la región de su competencia, que no cuenten con director designado;
+
+VIII. Emitir los dictámenes técnicos y opiniones que correspondan a la Comisión, conforme a las disposiciones jurídicas aplicables, que le soliciten las unidades administrativas de la Secretaría dentro de los procedimientos para el otorgamiento de las autorizaciones, permisos y concesiones en materia de impacto ambiental, forestal, zona federal marítimo terrestre, vida silvestre, cambio de uso del suelo en terrenos forestales y cualquier otra relativa a las áreas naturales protegidas de la región de su competencia;
+
+IX. Emitir opinión respecto a los aprovechamientos, servicios, obras y actividades que se pretendan autorizar por parte de las autoridades competentes, en las áreas naturales protegidas competencia de la Federación y sus zonas de influencia, así como en las áreas de refugio para proteger especies acuáticas que se encuentren dentro de su circunscripción territorial y que no cuenten con director designado;
+
+X. Administrar los terrenos propiedad de la Nación u otros bienes inmuebles destinados a la Secretaría o a la Comisión, que se encuentren en las áreas naturales protegidas competencia de la Federación que no cuenten con un director designado;
+
+XI. Participar en la elaboración y ejecución de los programas de ordenamiento ecológico regionales, locales y marinos en donde se ubiquen las áreas naturales protegidas competencia de la Federación y sus zonas de influencia, así como las áreas de refugio para proteger especies acuáticas, en coordinación con las unidades administrativas competentes de la Secretaría;
+
+XII. Otorgar, modificar, prorrogar, suspender, anular y declarar la extinción de las licencias, permisos, autorizaciones y demás resoluciones administrativas que no sean expresamente concesiones o asignaciones, en aquellas áreas naturales protegidas de la región de su competencia, cuando se trate de personas que tengan fines económicos o lucrativos, y revocar los mismos a petición de autoridad competente;
+
+XIII. Establecer las políticas y dirigir los programas y proyectos de la Comisión en materia de protección, manejo, aprovechamiento sustentable y restauración para la conservación de las áreas naturales protegidas competencia de la Federación y de las áreas de refugio para proteger especies acuáticas que se encuentren en la circunscripción de su competencia y que no tengan un director designado;
+
+XIV. Coordinar la participación de las direcciones de las áreas naturales protegidas que se encuentren dentro de su circunscripción territorial, en los programas, proyectos y acciones de recuperación de especies y poblaciones prioritarias para la conservación;
+
+XV. Elaborar diagnósticos relativos a la problemática local o regional en las materias competencia de la Comisión;
+
+XVI. Proponer, opinar y suscribir convenios o acuerdos de coordinación con los gobiernos de las entidades federativas y sus municipios, así como convenios de concertación con los sectores social y privado, a excepción de aquéllos que tengan por objeto la transferencia de funciones y atribuciones o el otorgamiento de la administración y manejo de las áreas naturales protegidas, así como notificar de su formalización a la Dirección de Asuntos Jurídicos;
+
+XVII. Auxiliar a las unidades administrativas centrales de la Comisión en la formulación y seguimiento de los convenios y contratos que se ejecuten dentro de su circunscripción territorial;
+
+XVIII. Proporcionar la información, documentación y datos técnicos que le sean solicitados por las demás unidades administrativas de la Comisión y de la Secretaría, órganos desconcentrados y demás dependencias y entidades de la Administración Pública Federal;
+
+XIX. Contratar las obras, estudios y servicios relacionados con éstas, previstos en su presupuesto, de conformidad con las disposiciones legales aplicables, así como supervisar su ejecución y notificar de su formalización a la Dirección Ejecutiva de Administración y Efectividad Institucional y a la Dirección de Asuntos Jurídicos;
+
+XX. Integrar y establecer, conforme a los lineamientos aplicables en la materia, los proyectos de conservación y mantenimiento de los inmuebles con que cuente la Dirección Regional y las de Áreas Naturales Protegidas de su circunscripción territorial;
+
+XXI. Suscribir, previo cumplimiento de la normatividad en la materia, los contratos de arrendamiento de inmuebles necesarios para las áreas naturales protegidas que se ubiquen dentro de su circunscripción territorial, así como notificar de su formalización a la Dirección Ejecutiva de Administración y Efectividad Institucional y a la Dirección de Asuntos Jurídicos;
+
+XXII. Suministrar los bienes y servicios que requiera la operación de la región a su cargo y de las direcciones de las áreas naturales protegidas para el ejercicio de sus atribuciones, suscribiendo, previo cumplimiento de la normatividad en la materia, los contratos que se requieran para tales efectos;
+
+XXIII. Promover la constitución y coadyuvar en el funcionamiento de los consejos asesores y otras formas de participación social en las áreas naturales protegidas competencia de la Federación, que se encuentren en su circunscripción territorial;
+
+XXIV. Fungir como secretario técnico del consejo asesor de las áreas naturales protegidas de la región de su competencia, que no cuenten con un director designado, así como dar seguimiento a las actividades que se deriven de los acuerdos del mismo;
+
+XXV. Coordinar las acciones de concertación que lleven a cabo los directores de las áreas naturales protegidas competencia de la Federación, con los grupos sociales y privados interesados en apoyar el manejo, administración y desarrollo sustentable de las áreas a su cargo;
+
+XXVI. Asesorar a las entidades federativas, municipios y propietarios o poseedores que lo requieran, en el establecimiento, protección, manejo, restauración, administración y aprovechamiento sustentable de los ecosistemas y su biodiversidad en las áreas naturales protegidas de competencia local y privadas, así como promover el establecimiento de sistemas estatales y regionales de conservación;
+
+XXVII. Llevar el registro de los pagos de contribuciones realizados por los usuarios con motivo de sus obligaciones derivadas del cumplimiento de las disposiciones legales aplicables en materia de áreas naturales protegidas competencia de la Federación, de las áreas que se encuentren dentro de la circunscripción territorial de la región de que se trate, que no cuenten con director designado;
+
+XXVIII. Dar seguimiento a las acciones que en materia de investigación y colecta científicas se lleven a cabo dentro de las áreas naturales protegidas de competencia Federal y sus zonas de influencia, así como en las áreas de refugio para proteger especies acuáticas;
+
+XXIX. Ejercer dentro de la circunscripción territorial de su competencia, las atribuciones a que se refiere el artículo 150 Bis del presente Reglamento, respecto de las áreas naturales protegidas que no cuenten con un director designado;
+
+XXX. Coadyuvar con la Dirección Ejecutiva de Administración y Efectividad Institucional en la administración de los bienes inmuebles en destino de conformidad con la legislación aplicable, y
+
+XXXI. Las demás que les confiera el titular de la Secretaría, el Comisionado Nacional, las que les señalen las disposiciones jurídicas aplicables y las que le correspondan a las unidades administrativas a su cargo.
+
+Las direcciones regionales tendrán la estructura administrativa que determine el Comisionado Nacional, en la que habrá una área jurídica, la cual ejercerá, en el ámbito de la circunscripción territorial correspondiente, las atribuciones mencionadas en el artículo 148 del presente Reglamento, con excepción de las contenidas en las fracciones XV a XIX del citado artículo.
+
+Para otorgar el perdón a que se refiere el artículo 148, fracción V, de este Reglamento, las áreas jurídicas de las direcciones regionales deberán obtener previamente la aprobación expresa y por escrito del titular de la Dirección de Asuntos Jurídicos.
+
 ###### ARTÍCULO 150.
 
 Las Direcciones Regionales se establecerán, de conformidad con las disposiciones jurídicas aplicables, en el domicilio y con la circunscripción territorial que determine el Comisionado Nacional mediante acuerdo que se publique en el Diario Oficial de la Federación. Dichas Direcciones Regionales tendrán las atribuciones siguientes:
@@ -6331,7 +4755,7 @@ QUINTO.- Los acuerdos secretariales sobre delegación de atribuciones que se hay
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de enero de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Víctor Lichtinger Waisman.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
 
 D.O.F. 22 DE NOVIEMBRE DE 2004.
 
@@ -6352,3 +4776,15 @@ TERCERO.- En tanto se expidan los acuerdos y demás disposiciones administrativa
 CUARTO.- La Oficialía Mayor de la Secretaría de Medio Ambiente y Recursos Naturales realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
 
 QUINTO.- Las modificaciones que, en su caso, se lleven a cabo a la estructura orgánica de la Secretaría de Medio Ambiente y Recursos Naturales, se deberán realizar mediante movimientos compensados que no impliquen aumento en el presupuesto regularizable de servicios personales.
+
+D.O.F. 30 DE NOVIEMBRE DE 2006.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan los artículos 44 a 109 del Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales.
