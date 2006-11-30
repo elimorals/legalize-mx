@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-colegio-de-tamaulipas-26359"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-16"
-last_updated: "2006-09-06"
+last_updated: "2006-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EL COLEGIO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 16 octubre del 2002.
 
@@ -49,13 +49,17 @@ LEY DE EL COLEGIO DE TAMAULIPAS
 
 ### CAPITULO I. DE LA DENOMINACION, OBJETO, FINALIDADES Y DOMICILIO
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 1°.
 
-Se crea El Colegio de Tamaulipas, como una institución pública –organismo público descentralizado del Gobierno del Estado– para la investigación científica y la educación superior, dotado de plena capacidad jurídica y patrimonio propios, autónomo en el ejercicio de sus funciones académico científicas, que dictará sus propios ordenamientos, organizará su funcionamiento y aplicará sus recursos económicos en la forma en que lo establezcan sus órganos de gobierno.
+“El Colegio de Tamaulipas” es una institución pública dedicada a la investigación científica y la educación superior, con carácter de organismo público descentralizado de la administración pública estatal, dotado de personalidad jurídica y patrimonio propio. El Colegio de Tamaulipas es autónomo en el ejercicio de sus funciones de carácter académico y científico. Su organización y funcionamiento se rigen por el presente ordenamiento y la Ley Orgánica de la Administración Pública del Estado, así como por los ordenamientos en materia de entidades paraestatales.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 2°.
 
-El Colegio de Tamaulipas realizará sus actividades de tal manera que los productos y servicios que genere resulten en beneficio de la sociedad.
+El Colegio de Tamaulipas realizará sus actividades de investigación y educación sobre la base de contribuir a generar estudios y productos académicos que generen información, conocimiento y propuestas para el desarrollo político, económico, social y cultural de Tamaulipas en un horizonte de mediano y largo plazos para impulsar el bienestar de los tamaulipecos, con base en los principios e instrumentos previstos en la Ley Estatal de Planeación.
 
 ###### ARTICULO 3°.
 
@@ -67,7 +71,9 @@ El Colegio de Tamaulipas tendrá como objetivo la generación, búsqueda y trans
 
 I. Organizar, realizar y fomentar la investigación científica en las áreas de Ciencias Sociales, Humanidades y disciplinas afines, teniendo en cuenta las circunstancias y problemas de la región y del país;
 
-II. Realizar programas de docencia a nivel universitario de postgrado, para formar investigadores, docentes y especialistas, otorgando títulos, grados, distinciones y reconocimientos;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+II. Realizar programas de extensión universitaria y de docencia de nivel superior, de grado y de postgrado, para formar investigadores, docentes y especialistas, otorgándose los títulos académicos, grados, distinciones y reconocimientos correspondientes;
 
 III. Difundir los conocimientos derivados de sus trabajos, así como de los provenientes de otras fuentes, mediante publicaciones y otros medios;
 
@@ -76,6 +82,10 @@ IV. Constituir un foro de discusión interdisciplinaria e interinstitucional, so
 V. Respetar la libertad académica como principio de observancia permanente. Será obligatorio el cumplimiento cabal de los planes y programas de trabajo, elaborados en los términos y por los órganos que establezca esta ley.
 
 VI. Celebrar todos los actos jurídicos que sean necesarios o convenientes para la realización de sus fines institucionales.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+Los programas de docencia a que se refiere la fracción II de este artículo tienen validez oficial para las autoridades estatales, debiéndose comunicar a la Secretaría de Educación del Estado el contenido de los mismos para su registro, al tiempo que los títulos académicos que expida serán suscritos por el Rector y el Secretario General de El Colegio para los efectos de la Ley del Ejercicio Profesional en el Estado de Tamaulipas.
 
 ### CAPITULO II. DE LA ESTRUCTURA Y ORGANOS DE GOBIERNO
 
@@ -91,29 +101,35 @@ III. El Consejo Técnico Consultivo;
 
 IV. La Junta de Coordinación;
 
-V. La Secretaría General; y
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
 
-VI. El Comité Académico.
+V. El órgano de vigilancia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+VI. La Secretaría General; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+VII. El Comité Académico.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 6°.
 
-La Junta de Gobierno se integrará por trece miembros, siendo uno de ellos el Rector quien la presidirá. Los miembros de la Junta durarán en su cargo cinco años y podrán ser reelectos por una sola vez.
+La Junta de Gobierno se integrará por siete miembros, de los cuales cuatro serán servidores públicos con rango de titulares de dependencia, designado (sic) por el Ejecutivo del Estado y tres serán, respectivamente, representativos de los sectores académico, social y privado.
 
-En el caso del Rector su elección y duración en el cargo se regirán por las disposiciones que para el caso prevé esta Ley.
+La presidencia de la Junta corresponderá al titular de la dependencia estatal que señale el Ejecutivo del Estado.
 
-La remoción de los miembros de la Junta sólo procederá cuando exista causa grave y siempre que voten por ella dos terceras partes de los integrantes.
+Los miembros de la Junta que pertenezcan a los sectores académico, social y privado durarán en el cargo seis años y su nominación se hará con base en las propuestas que el Ejecutivo del Estado reciba de instituciones u organismos de dichos sectores.
 
-Para ser miembro de la Junta de Gobierno se requiere: ser ciudadano mexicano mayor de 35 años, haber desempeñado actividades académicas o administrativas en instituciones de Investigación o Educación Superior y contar con reconocido prestigio.
-
-Los miembros de la Junta serán electos por la mayoría de sus integrantes que estén en funciones.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 7°.
 
-Las vacantes temporales o definitivas, que ocurran antes que concluya el período para el que haya sido electo alguno de los miembros de la Junta de Gobierno, serán cubiertas por quienes designe la Junta, por mayoría de votos.
+Por cada integrante de la Junta se nombrará un suplente, conforme al procedimiento de designación del titular; en el caso de los servidores públicos deberá tener rango mínimo de Director General en la estructura administrativa de la administración central.
 
-Será la misma Junta la que decida sobre las renuncias o solicitudes de licencia de sus miembros.
-
-Las propuestas para cubrir las vacantes temporales o definitivas serán formuladas por el Rector de El Colegio o por la tercera parte de los miembros de la Junta de Gobierno. En todos los casos los candidatos deberán reunir los requisitos señalados en el artículo 6º de esta ley.
+En caso de ausencia a las sesiones de la Junta de Gobierno del Presidente de la misma, sin demérito de las sesiones de su suplente, la sesión será presidida por orden de precedencia de los titulares de dependencia que asistan.
 
 ###### ARTICULO 8°.
 
@@ -135,11 +151,17 @@ La Junta de Gobierno tendrá las siguientes atribuciones:
 
 I. Todas las facultades que correspondan a los apoderados generales para pleitos y cobranzas, actos de administración y de dominio, conforme al Código Civil de Tamaulipas, y sus correlativos en todos los códigos de la República Mexicana incluyendo aquellas que requieran cláusula especial, así como conferir y revocar mandatos generales o especiales, suscribir títulos de crédito, formular y ratificar querellas y desistirse de las mismas, con la salvedad de que para realizar actos de dominio sobre los inmuebles con que inicia su patrimonio El Colegio, requerirá de la autorización del Congreso del Estado;
 
-II. Elegir o remover al Rector de la Institución y conocer acerca de sus licencias o renuncia;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
 
-III. Examinar, y en su caso aprobar, el programa anual de actividades y el presupuesto anual de ingresos y egresos que presente el Rector;
+II. Examinar y, en su caso, aprobar el programa anual de actividades que presente el Rector;
 
-IV. Examinar, y en su caso aprobar, el informe financiero anual de actividades que rinda el Rector;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+III. Conocer el informe anual de actividades que presente el Rector;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+IV. Conocer, examinar y, en su caso, aprobar el proyecto de presupuesto anual de ingresos y egresos de el Colegio; conocer la cuenta pública que, en términos de la legislación aplicable, deberá presentar El Colegio al Congreso del Estado, y examinar y, en su caso, aprobar el informe financiero anual que rinda el Rector;
 
 V. Realizar todos los actos que demande el cumplimiento de los objetivos de El Colegio de Tamaulipas y que no estén reservados expresamente a otro órgano;
 
@@ -153,27 +175,39 @@ IX. Resolver los conflictos que surjan entre los órganos de El Colegio; y
 
 X. Delegar en su Presidente las atribuciones que estime conveniente para el mejor funcionamiento de la institución, sin perjuicio de recuperar su ejercicio cada vez que lo juzgue conveniente.
 
-Para la validez de los acuerdos a que se refieren las Fracciones II y IX de este Artículo, se requerirá por lo menos del voto aprobatorio de las dos terceras partes de los miembros de la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+En el ejercicio de la atribución prevista en la fracción IX de este artículo se requerirá el voto aprobatorio por lo menos de las dos terceras partes de los miembros de la Junta de Gobierno.
 
 ###### ARTICULO 12.
 
 Para ser Rector de El Colegio de Tamaulipas, se requiere:
 
-I. Ser mexicano;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+I. Ser mexicano con residencia en el Estado no menor a tres años anteriores al día de su designación;
 
 II. Ser mayor de 35 años en el momento de la designación;
 
-III. Poseer un grado universitario superior a la licenciatura;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
 
-IV. Tener experiencia en la docencia universitaria o la investigación científica;
+III. Poseer título universitario a nivel de licenciatura en una rama del conocimiento afín al ámbito de investigación y educación de la institución;
 
-V. Haberse distinguido en su especialidad mediante la publicación de obras de calidad científica; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
 
-VI. Haber sido profesor-investigador de El Colegio por lo menos tres años.
+IV. Tener experiencia en la docencia universitaria o la investigación científica; y
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+V. Haberse distinguido en su especialidad mediante la publicación de obras de calidad científica o el desempeño de tareas profesionales en aquella.
+
+VI. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2006)
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 13.
 
-El Rector será el representante legal de El Colegio de Tamaulipas. Durará en su cargo cinco años y podrá ser reelecto por una sola vez.
+Corresponde al Ejecutivo del Estado la designación del Rector de El Colegio de Tamaulipas, a quien corresponde la representación legal de esta institución.
 
 ###### ARTICULO 14.
 
@@ -181,7 +215,9 @@ El Rector de El Colegio de Tamaulipas tendrá las funciones siguientes:
 
 I. Proponer a la Junta de Gobierno, la designación del Secretario General, así como su remoción cuando haya causa justificada para ello;
 
-II. Presidir y convocar las sesiones de la Junta de Gobierno y ejecutar los acuerdos de la misma;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+II. Asistir a las sesiones de la Junta de Gobierno y ejecutar sus acuerdos;
 
 III. Velar por el cumplimiento de las disposiciones de la Junta de Gobierno, de esta ley y de sus reglamentos;
 
@@ -189,7 +225,9 @@ IV. Formular el plan general de la institución, así como el programa anual de 
 
 V. Formular anualmente el informe general de actividades junto con el informe financiero y contable del ejercicio respectivo y someterlo a la aprobación de la Junta de Gobierno;
 
-VI. Designar o remover, a los demás funcionarios de El Colegio que prevea esta Ley y el Estatuto General, y así mismo conocer aquellos casos en que se incurra en faltas de responsabilidad para decidir la sanción que deba aplicarse;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+VI. Designar o remover a los servidores públicos de El Colegio que prevea esta Ley y el Estatuto Orgánico, asimismo conocer aquellos casos en que se incurra en faltas de responsabilidad, proveyendo a su atención conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
 VII. Suscribir convenios de intercambio y de colaboración, con todas aquellas instituciones u organismos que por su naturaleza guarden relación con el objeto de El Colegio;
 
@@ -207,7 +245,9 @@ La calidad de Consejero es intransferible y la institución que la posea deberá
 
 El Consejo Técnico Consultivo será un órgano asesor que deberá reunirse por lo menos una vez al año. La sesión podrá ser convocada por: la institución que lo presida en forma conjunta con el Presidente de la Junta de Gobierno; por el Presidente de la Junta; o por un mínimo de dos de los miembros del Consejo.
 
-En caso de que la institución a quien le corresponda presidir la sesión no este presente, se correrá el orden de la Presidencia del Consejo Técnico Consultivo, de acuerdo al reglamento correspondiente.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+En caso de que la institución a la cual corresponda presidir la sesión no esté presente, se correrá el orden de la Presidencia del Consejo Técnico Consultivo, de acuerdo con el Estatuto Orgánico.
 
 ###### ARTICULO 16.
 
@@ -215,9 +255,13 @@ Corresponde al Consejo Técnico Consultivo:
 
 I. Contribuir al desarrollo académico de El Colegio en los programas que este requiera;
 
-II. Orientar los programas de investigación y enseñanza de El Colegio; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
 
-III. Asesorar en la integración del proyecto de presupuesto anual de ingresos/egresos de El Colegio, a petición del Presidente de la Junta de Gobierno.
+II. Colaborar en el diseño de los programas de investigación y docencia de El Colegio; y
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+III. Brindar apoyo en la organización y realización de las actividades de difusión de las labores de El Colegio y para la convocatoria y desarrollo de actos académicos e intercambios de esa naturaleza.
 
 ###### ARTICULO 17.
 
@@ -263,7 +307,9 @@ El Comité Académico se integraría por los directores y Coordinadores, presidi
 
 Para ser Secretario General de El Colegio de Tamaulipas se requiere:
 
-I. Ser mexicano;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+I. Ser mexicano con residencia en el Estado no menor a dos años anteriores al día de su designación;
 
 II. Ser mayor de treinta años en el momento de la designación;
 
@@ -281,7 +327,7 @@ II. Atender y articular las actividades de los directores de centro, coordinador
 
 III. Formular el proyecto de programa anual de actividades, el presupuesto y el informe anual de acuerdo con las directrices del Rector y de la Junta de Coordinación;
 
-IV. Suplir al Rector en los casos previstos en esta ley y en el Estatuto General de El Colegio;
+IV. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2006)
 
 V. Firmar, en unión del Rector y los directores o coordinadores correspondientes, los diplomas, títulos y certificados que expida El Colegio para acreditar estudios;
 
@@ -325,13 +371,17 @@ El Colegio de Tamaulipas gozará respecto de su patrimonio, de las franquicias y
 
 Las relaciones laborales, tanto del personal académico como del administrativo, se regirán por el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los términos y con las modalidades que establezcan la Ley Federal del Trabajo, de manera que concuerde con la autonomía, libertad académica, los fines y objeto de El Colegio.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 30.
 
-El personal académico estará integrado por los profesores-investigadores que hayan recibido nombramiento en los términos del Estatuto General, en atención a su antigüedad, grados académicos, capacidad, experiencia y demás méritos.
+El personal académico estará integrado por los profesores-investigadores que hayan recibido nombramiento en los términos del Estatuto Orgánico en atención a su antigüedad, grados académicos, experiencia y demás méritos.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 31.
 
-El personal académico podrá ser titular, asociado o auxiliar, el Reglamento respectivo establecerá los procedimientos de designación y remoción, las categorías, los derechos y obligaciones del personal académico.
+El personal académico podrá ser titular, asociado o auxiliar. El Estatuto Orgánico establecerá los procedimientos de designación y remoción, las categorías, los derechos y obligaciones del personal académico.
 
 ###### ARTICULO 32.
 
@@ -367,15 +417,29 @@ IV. Expulsión; y
 
 V. Rescisión de contrato.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
 ###### ARTICULO 36.
 
-Las resoluciones de las distintas autoridades a quienes competa la aplicación de sanciones deberán ser tomadas previa audiencia del afectado y podrán ser revisadas por la Junta de Gobierno a petición de parte.
+El procedimiento para conocer y sancionar las faltas administrativas del personal de El Colegio, se ceñirá a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-El procedimiento para conocer y sancionar las faltas cometidas, se determinará en el Estatuto General.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 37.
 
-En cada caso se entenderá que la autoridad competente alude al jefe inmediato superior, quien a su vez deberá informar del caso a la autoridad superior de El Colegio.
+El servidor público que conozca de una presunta infracción administrativa del personal a su cargo deberá informarlo al Secretario General y, en ausencia de éste, al Rector.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+### CAPITULO VI. DEL ORGANO DE VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 38.
+
+La vigilancia del funcionamiento administrativo de El Colegio de Tamaulipas estará a cargo del Comisario, cuyo desempeño corresponderá al titular del órgano de control de la Secretaría de Educación, quien será convocado a las sesiones de la Junta de Gobierno para la consideración de los asuntos que le competan.
+
+El Comisario evaluará el desempeño general y por funciones de El Colegio, tendrá a su cargo la revisión del ejercicio presupuestal en materia de gasto corriente y de gasto de inversión, considerándose los ingresos que perciba, y podrá solicitar la información que requiera sobre los actos administrativos que lleve a cabo la institución educativa, con objeto de desempeñar adecuadamente sus funciones de control y evaluación.
 
 T R A N S I T O R I O S
 
@@ -414,3 +478,21 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los miembros de la junta de Gobierno de El Colegio de Tamaulipas que se encuentren en funciones, concluirán el ejercicio de su cargo con la entrada en vigor de este Decreto. El Ejecutivo del Estado hará las designaciones que le correspondan y solicitará las propuestas de los sectores académico, social y privado para integrar la Junta de Gobierno de El Colegio de Tamaulipas, con el objeto de asegurar la instalación del nuevo órgano de gobierno dentro de los treinta días posteriores a la entrada en vigor de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los derechos laborales que hubiere adquirido el personal administrativo y académico de El Colegio de Tamaulipas no se afectarán con motivo de la expedición del presente Decreto, sin demérito de la sujeción al orden jurídico estatal en términos de la fracción VI del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
