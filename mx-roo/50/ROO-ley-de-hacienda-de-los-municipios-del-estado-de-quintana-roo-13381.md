@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2005-12-13"
+last_updated: "2006-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -2879,10 +2879,68 @@ CUARTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2006
 
 QUINTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2006, en el Municipio de Islas Mujeres, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el artículo quinto transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
 
-SEXTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2006, en el Municipio de Benito Juárez, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el artículo sexto transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+SEXTO.- Para la determinación del impuesto predial en el ejercicio fiscal 2007, en el Municipio de Benito Juárez, se aplicarán las tablas de cálculo anual del mencionado impuesto, siendo las siguientes:
+
+TASAS IMPOSITIVAS PARA LOS VALORES CATASTRALES EN EL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO.
+
+CATEGORÍA CONDICION VOCACION TASAS
+
+AL MILLAR
+
+Urbano y
+
+Suburbano Baldío 6.2
+
+Obra en
+
+construcción Habitacional 2.45
+
+No Habitacional 2.45
+
+Obra en
+
+Funcionamiento Habitacional 2.45
+
+No Habitacional 2.45
+
+Rústico 1.9
+
+TASAS IMPOSITIVAS PARA LOS VALORES DECLARADOS EN EL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO.
+
+CATEGORÍA CONDICION VOCACION TASAS
+
+AL MILLAR
+
+Urbano y
+
+Suburbano Baldío 6.6
+
+Obra en
+
+construcción Habitacional 2.8
+
+No Habitacional 2.8
+
+Obra en
+
+Funcionamiento Habitacional 2.8
+
+No Habitacional 2.8
+
+Rústico 2.9
+
+En caso de que al 31 de diciembre del año 2007, no se hubiere aprobado las Tablas de cálculo anual para la determinación del impuesto predial en el Municipio de Benito Juárez, para el ejercicio fiscal 2008, en tanto se aprueban éstas y entran en vigor, continuarán aplicándose las Tablas de cálculo anual correspondientes al propio ejercicio fiscal 2007.
 
 SÉPTIMO.- En el momento en el quede sin efecto lo dispuesto en los artículos segundo, tercero, cuarto, quinto y sexto transitorios de esta Ley, los Municipios de Solidaridad, Cozumel, Othón P. Blanco, Isla Mujeres y Benito Juárez deberán presentar un análisis del impuesto que implique la utilización de las tasas establecidas en el artículo 13 de la presente Ley.
 
 OCTAVO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 NOVENO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2006.
+
+> <small>(F. DE E., P.O. 5 DE DICIEMBRE DE 2006)</small>
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
