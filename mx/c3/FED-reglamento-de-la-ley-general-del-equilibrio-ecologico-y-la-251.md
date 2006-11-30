@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-del-equilibrio-ecologico-y-la-251"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-11-25"
-last_updated: "1988-11-25"
+last_updated: "2006-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=251&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1988-11-23"
 
 REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE RESIDUOS PELIGROSOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 25 de noviembre de 1988.
 
@@ -610,3 +612,61 @@ Dentro de dicho plazo deberán presentarse, además, un inventario sobre el volu
 La Secretaría deberá emitir los formatos, instructivos y manuales necesarios para la aplicación del presente Reglamento, en un plazo de cinco meses a partir de la fecha en que éste entre en vigor.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de noviembre de mil novecientos ochenta y ocho.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Daniel Díaz Díaz.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecología, Gabino Fraga Mouret.- Rúbrica.- El Secretario de Salud, Guillermo Soberón Acevedo.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los treinta días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Residuos Peligrosos, publicado el 25 de noviembre de 1988 en el Diario Oficial de la Federación.
+
+TERCERO.- Las autorizaciones que hasta el momento hayan sido otorgadas a las empresas minero metalúrgicas para la disposición final de residuos o subproductos, continuarán en vigor hasta la fecha que establecen las mismas.
+
+CUARTO.- Los convenios celebrados y los planes de manejo de residuos señalados en el artículo 22 de este Reglamento que se encuentren vigentes y en operación antes de la entrada en vigor del propio Reglamento o de la emisión del Diagnóstico Básico, podrán continuar en ejecución hasta que concluya su vigencia.
+
+QUINTO.- En tanto la Secretaría publica el Acuerdo mediante el cual se da a conocer el sistema de firma electrónica de los trámites que se incorporarán a su portal, los gestores y prestadores de servicios de manejo de residuos peligrosos deberán presentar las solicitudes correspondientes directamente en las oficinas de la Dependencia.
+
+SEXTO.- En tanto la Secretaría establece y opera la base de datos a que se refiere el artículo 81 del presente Reglamento, los generadores de residuos peligrosos, para cumplir con lo ordenado en el artículo 42 de la Ley, podrán consultar a la Secretaría la información relacionada con la vigencia de las autorizaciones otorgadas a gestores para la prestación de los servicios de manejo de residuos peligrosos.
+
+La consulta se formulará mediante escrito en el que se señale:
+
+I. Nombre, denominación o razón social del prestador de servicios;
+
+II. El tipo de servicio que pretende contratarse, y
+
+III. Los residuos peligrosos que el generador pretende someter a manejo, expresando sus volúmenes aproximados.
+
+La consulta se desahogará en un plazo máximo de cinco días hábiles, al término del cual, si no se emitiera respuesta alguna se entenderá que el prestador de servicios no cuenta con autorización por parte de la Secretaría. En cada consulta se incluirá como máximo el nombre, denominación o razón social de cinco gestores o prestadores de servicios.
+
+SÉPTIMO.- Cuando se trate de los generadores que se encuentren registrados ante la Secretaría antes de la entrada en vigor del presente Reglamento, la categorización de generadores de residuos peligrosos a que se refiere el artículo 44 de la Ley, se realizará tomando en consideración exclusivamente los volúmenes de residuos peligrosos generados durante los años 2004 y 2005. La categorización se llevará a cabo conforme al siguiente procedimiento:
+
+I. Los generadores, presentarán ante la Secretaría, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Reglamento, una declaración en la cual autodeterminarán la categoría en la cual estiman deben quedar registrados, y
+
+II. La Secretaría registrará a los generadores que se autodeterminen en la categoría que éstos señalen y, dentro de un plazo que no excederá de un año a partir de la entrada en vigor del presente Reglamento, revisará los informes que obren en sus archivos respecto de dichos generadores, con el fin de confirmar o, en su caso, modificar la categoría autodeterminada. Si dentro de dicho plazo la Secretaría no ha notificado a los generadores modificación alguna a la categoría autodeterminada, ésta se entenderá confirmada.
+
+OCTAVO.- Las personas que a la entrada en vigor del presente Reglamento se encuentren inscritas como generadores de residuos peligrosos, no deberán inscribirse de nuevo, solamente deberán autocategorizarse como grandes, pequeños o microgeneradores en los términos establecidos en el artículo séptimo transitorio de este Reglamento.
+
+NOVENO.- Los obligados a presentar los informes de generación o de manejo de residuos peligrosos utilizarán el formato de Cédula de Operación Anual a que se refiere el artículo 10 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia del Registro de Emisiones y Transferencias de Contaminantes.
+
+DÉCIMO.- En tanto se expida la norma oficial mexicana correspondiente, el plan de muestreo a que se refiere el artículo 138, fracción IV, de este Reglamento deberá indicar el método de muestreo, número y masa de muestras, profundidad, tipo de muestras, procedimiento de almacenamiento y transferencia de muestras y testigos, así como su fundamentación.
+
+DÉCIMO PRIMERO.- Las acciones derivadas del presente Reglamento se ejecutarán con cargo al presupuesto aprobado para la Secretaría de Medio Ambiente y Recursos Naturales.
+
+DÉCIMO SEGUNDO.- En tanto se expide la norma oficial mexicana relativa a los protocolos de pruebas prevista en este Reglamento, el proyecto ejecutivo para desarrollar un protocolo de pruebas contendrá lo siguiente:
+
+I. El resumen ejecutivo;
+
+II. Relación y cantidad de los residuos necesarios para el desarrollo del protocolo de pruebas;
+
+III. Formulación y caracterización de cargas;
+
+IV. Descripción en diagrama de bloques de las actividades del protocolo;
+
+V. Relación de los métodos de muestreo y análisis tanto para cargas de residuos como para efluentes de proceso;
+
+VI. Balance de materia y energía en condiciones de cero carga de residuos, al ochenta y cinco por ciento y cien por ciento de carga de residuos de acuerdo con la capacidad del sistema, y
+
+VII. Propuesta de manejo de residuos y efluentes del proceso.
+
+El protocolo de pruebas a que se refiere el presente artículo se desarrollará atendiendo a la propuesta del interesado junto con las recomendaciones que realice la Secretaría.
