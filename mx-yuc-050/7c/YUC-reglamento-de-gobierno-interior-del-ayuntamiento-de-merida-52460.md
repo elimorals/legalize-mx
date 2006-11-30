@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-gobierno-interior-del-ayuntamiento-de-merida-5246
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-09"
-last_updated: "2006-11-09"
+last_updated: "2006-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "YUC"
 ---
 # REGLAMENTO DE GOBIERNO INTERIOR DEL AYUNTAMIENTO DE MERIDA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE NOVIEMBRE DE 2006 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE GOBIERNO INTERIOR DEL AYUNTAMIENTO DE MERIDA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O. DE 30 DE NOVIEMBRE DE 2006.]</small>
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el jueves 9 de noviembre de 2006.
 
@@ -403,9 +403,11 @@ l.- Los Regidores, y
 
 II.- Los Ciudadanos, en términos de la ley y los reglamentos, ejercicio de esta facultad reglamentaria, se sujetará a las mismas reglas del procedimiento legislativo ordinario, conforme a las leyes respectivas.
 
+> <small>(F. DE E., D.O. 30 DE NOVIEMBRE DE 2006)</small>
+
 ###### Artículo 45.
 
-Cuando alguna comisión permanente o especial tenga necesidad de presentar algún proyecto de acuerdo, deberá hacerlo en original y copia junto con el expediente ante el Secretario del Ayuntamiento que enlistará aquellos proyectos que hubiere recibido cuando menos cuarenta y ocho horas antes de que se expida la convocatoria, salvo los casos de sesiones extraordinarias y lo dispuesto en este propio Artículo. En el Caso de dictámenes solo se aquellos que hubiere recibido el secretario por lo menos tres días hábiles anteriores a la propia fecha de expedición de la convocatoria.
+Cuando alguna comisión permanente o especial tenga necesidad de presentar algún proyecto de acuerdo, deberá hacerlo en original y copia junto con el expediente ante el Secretario del Ayuntamiento que enlistará aquellos proyectos que hubiere recibido cuando menos cuarenta y ocho horas antes de que se expida la convocatoria, salvo los casos de sesiones extraordinarias y lo dispuesto en este propio artículo. En el Caso de dictámenes solo se aquellos que hubiere recibido el secretario por lo menos tres días hábiles anteriores a la propia fecha de expedición de la convocatoria.
 
 ###### Artículo 46.
 
@@ -667,9 +669,11 @@ DE LA ADMlNlSTRAClON PÚBLICA DEL AYUNTAMIENTO DEL MUNICIPIO DE MÉRIDA
 
 ### Capítulo I. ORGANIZACIÓN ADMINISTRATIVA
 
+> <small>(F. DE E., D.O. 30 DE NOVIEMBRE DE 2006)</small>
+
 ###### Articulo 69.
 
-Para la satisfacción de las necesidades colectivas de los habitantes, el Ayuntamiento organizará las funciones y medios necesarios a través de una corporación de naturaleza administrativa que se denomina Administración pública del Ayuntamiento del Municipio de Mérida, cuyo funcionamiento corresponde encabezar de manera directa al Presidente Municipal, en su carácter de órgano ejecutivo, quien podrá delegar sus funciones y medios en funcionarios bajo su cargo, en atención al ramo o materia, sin menoscabo de las facultades y atribuciones conferidas al Ayuntamiento.
+Para la satisfacción de las necesidades colectivas de los habitantes, el Ayuntamiento organizará las funciones y medios necesarios a través de una corporación de naturaleza administrativa que se denomina Administración Pública del Ayuntamiento del Municipio de Mérida, cuyo funcionamiento corresponde encabezar de manera directa al Presidente Municipal, en su carácter de órgano ejecutivo, quien podrá delegar sus funciones y medios en funcionarios bajo su cargo, en atención al ramo o materia, sin menoscabo de las facultades y atribuciones conferidas al Ayuntamiento.
 
 Al Presidente Municipal, previo acuerdo del Cabildo, corresponde crear las oficinas y dependencias que le garanticen el ejercicio de sus facultades y obligaciones. Para su creación, fusión, modificación o supresión, se estará a las necesidades y posibilidades del Ayuntamiento.
 
