@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-ejercicio-profesional-en-el-estado-de-tamaulipas-8088"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2001-12-25"
+last_updated: "2006-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -341,7 +341,11 @@ En el Estado de Tamaulipas tendrán la facultad de otorgar títulos profesionale
 
 a).- La Dirección General de Educación y Cultura, en los casos de su competencia;
 
-b).- La Universidad Autónoma de Tamaulipas, y las instituciones universitarias o de enseñanza superior que cuenten con el reconocimiento oficial de validez del Gobierno del Estado.
+b).- La Universidad Autónoma de Tamaulipas, y las instituciones universitarias o de enseñanza superior que cuenten con el reconocimiento oficial de validez del Gobierno del Estado;
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+
+c).- El Colegio de Tamaulipas, en términos de la Ley que lo rige.
 
 La legalización de los títulos mencionados en este artículo quedará a cargo de la Secretaría General de Gobierno, cuya facultad podrá delegar su titular en los servidores públicos de la dependencia.
 
@@ -922,3 +926,21 @@ P.O. 25 DE DICIEMBRE DE 2001
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los miembros de la junta de Gobierno de El Colegio de Tamaulipas que se encuentren en funciones, concluirán el ejercicio de su cargo con la entrada en vigor de este Decreto. El Ejecutivo del Estado hará las designaciones que le correspondan y solicitará las propuestas de los sectores académico, social y privado para integrar la Junta de Gobierno de El Colegio de Tamaulipas, con objeto de asegurar la instalación del nuevo órgano de gobierno dentro de los treinta días posteriores a la entrada en vigor de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los derechos laborales que hubiere adquirido el personal administrativo y académico de El Colegio de Tamaulipas no se afectarán con motivo de la expedición del presente Decreto, sin demérito de la sujeción al orden jurídico estatal en términos de la fracción VI del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
