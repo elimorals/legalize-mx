@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-servicios-medicos-10912"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-30"
-last_updated: "2002-08-20"
+last_updated: "2006-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "1997-06-27"
 
 REGLAMENTO DE SERVICIOS MEDICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PRESTACIONES MEDICAS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL, PUBLICADO EN EL D.O.F. EL 30 DE NOVIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación el lunes 30 de junio de 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
+
+Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 30 de junio de 1997.
 
 Al margen un logotipo, que dice: Instituto Mexicano del Seguro Social.- Secretaría General.
 
@@ -976,3 +978,9 @@ D.O.F. 20 DE AGOSTO DE 2002.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
 
 TERCERO.- El presente Acuerdo entrará en vigor a partir de la fecha de su aprobación, y...
+
+D.O.F. 30 DE NOVIEMBRE DE 2006.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de Servicios Médicos aprobado por el Consejo Técnico del Instituto Mexicano del Seguro Social mediante Acuerdo 401/96, de fecha 23 de octubre de 1996, publicado en el Diario Oficial de la Federación el 30 de junio de 1997, así como los acuerdos y disposiciones administrativas que se opongan al presente Reglamento.
