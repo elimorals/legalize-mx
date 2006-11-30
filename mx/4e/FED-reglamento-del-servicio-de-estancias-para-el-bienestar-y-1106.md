@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-servicio-de-estancias-para-el-bienestar-y-1106"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-06-14"
-last_updated: "2000-04-05"
+last_updated: "2006-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1106&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1994-04-25"
 
 REGLAMENTO DEL SERVICIO DE ESTANCIAS PARA EL BIENESTAR Y DESARROLLO INFANTIL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ABRIL DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO DE ESTANCIAS PARA EL BIENESTAR Y DESARROLLO INFANTIL DEL ISSSTE, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 14 de junio de 1994.
 
@@ -950,3 +952,9 @@ México, D.F., a 25 de abril de 1994.- El Secretario, Jaime Báez Rodríguez.- R
 D.O.F. 5 DE ABRIL DE 2000.
 
 UNICO.- Las reformas, adiciones y derogaciones de diversas disposiciones del Reglamento del Servicio de Estancias para el Bienestar y Desarrollo Infantil del ISSSTE, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE NOVIEMBRE DE 2006.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Servicio de Estancias para el Bienestar y Desarrollo Infantil del ISSSTE, aprobado por este órgano de gobierno mediante acuerdo 12.1188.94, publicado en el Diario Oficial de la Federación de 14 de junio de 1994 y sus reformas, adiciones y derogaciones, contenidas en diverso acuerdo 18.1255.99 publicado en el Diario Oficial de la Federación de 5 de abril del año 2000.
