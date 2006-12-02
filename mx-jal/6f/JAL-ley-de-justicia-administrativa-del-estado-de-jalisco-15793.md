@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2005-10-04"
+last_updated: "2006-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -227,9 +227,11 @@ III. Si están señalados en período o tienen una fecha determinada para su ext
 
 IV. Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, contadas de las cero a las veinticuatro horas.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 20.
 
-Son días hábiles todos los días del año, con excepción de los sábados y los domingos, así como el 1 de enero; 5 de febrero; 21 de marzo; 1 y 5 de mayo; 16 de septiembre; 12 de Octubre; 20 de noviembre; 1 de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; 25 de diciembre, y en los períodos vacacionales del tribunal o cuando por cualquier causa de fuerza mayor, o por acuerdo del Tribunal de lo Administrativo en pleno, se suspendan las labores del tribunal.
+Son días hábiles todos los días del año, con excepción de los sábados y los domingos, así como el 1º de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1º y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y en los periodos vacacionales del tribunal o cuando por cualquier causa de fuerza mayor, o por acuerdo del Tribunal de lo Administrativo en pleno, se suspendan las labores del tribunal.
 
 ### CAPÍTULO III. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
@@ -1028,5 +1030,9 @@ P.O. 9 DE DICIEMBRE DE 2000.
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 4 DE OCTUBRE DE 2005.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE DICIEMBRE DE 2006.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
