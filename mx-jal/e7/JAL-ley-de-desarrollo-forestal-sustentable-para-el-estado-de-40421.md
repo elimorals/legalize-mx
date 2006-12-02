@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2004-07-20"
+last_updated: "2006-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -549,9 +549,21 @@ IV. Reglamentar, de acuerdo a los dispositivos contenidos en esta Ley, el uso ad
 
 V. Organizar campañas de difusión de los lineamientos que se deben seguir para lograr un adecuado uso del fuego;
 
-VI. Impartir cursos de capacitación a los productores forestales, a los propietarios de terrenos forestales y a los ciudadanos en general, sobre las medidas preventivas que deben tomar para evitar incendios; y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2006)</small>
 
-VII. Publicar un boletín de prevención de incendios y conservación de los recursos forestales para distribuirse entre los visitantes de los bosques y reservas ecológicas.
+VI. Impartir cursos de capacitación a los productores forestales, a los propietarios de terrenos forestales y a los ciudadanos en general, sobre las medidas preventivas que deben tomar para evitar incendios;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2006)</small>
+
+VII. Publicar un boletín de prevención de incendios y conservación de los recursos forestales para distribuirse entre los visitantes de los bosques y reservas ecológicas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE DICIEMBRE DE 2006)</small>
+
+VIII. Promover y reforzar la capacitación y apoyos, incluyendo el de atención médica a los brigadistas especializados que participan en los programas de combate de incendios forestales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE DICIEMBRE DE 2006)</small>
+
+IX. Establecer una efectiva coordinación para generar programas de integración de voluntarios, dedicados exclusivamente a labores de logística y apoyo, privilegiando su capacitación y asegurando la existencia de los insumos necesarios para el desempeño eficaz de dicha actividad.
 
 ###### Artículo 51.
 
@@ -692,3 +704,9 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE DICIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
