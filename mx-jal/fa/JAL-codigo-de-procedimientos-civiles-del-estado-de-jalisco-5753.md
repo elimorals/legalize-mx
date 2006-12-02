@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2006-09-14"
+last_updated: "2006-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -502,11 +502,11 @@ En las actuaciones judiciales no se emplearán abreviaturas, ni se borrarán ni 
 
 Las actuaciones judiciales deberán ser autorizadas, bajo pena de nulidad, con la firma de los servidores públicos judiciales que deban intervenir en el acto.
 
-(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1995)(F. DE E. 25 DE JUNIO DE 1996)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 55.
 
-Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles o laborables todos los del año menos los sábados y domingos, así como el 1° de enero; 5 de febrero; 21 de marzo; 1° y 5 de mayo; 16 de septiembre; 12 de octubre; 20 de noviembre; 1° de diciembre de cada seis años, cuando corresponda la transmisión del Poder Ejecutivo Federal; 25 de diciembre, y en los casos de suspensión de labores del Tribunal. Los demás días hasta hoy declarados festivos o luctuosos, lo serán para la conmemoración respectiva no impedirán las actuaciones judiciales.
+Las actuaciones jurídicas se practicarán en días y horas hábiles. Son días hábiles o laborables todos los del año menos los sábados y domingos, así como el 1º de enero: el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1º y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y en los casos de suspensión de labores del tribunal. Los demás días hasta hoy declarados festivos o luctuosos, lo serán para la conmemoración respectiva, pero no impedirán las actuaciones judiciales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8535,3 +8535,7 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007
 SEGUNDO.- las autoridades obligatorias deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
 
 TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE DICIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
