@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2005-10-13"
+last_updated: "2006-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -545,11 +545,11 @@ Por cada cinco ddías (sic) de trabajo, disfrutará el servidor público de dos 
 
 En los trabajos que requieran una labor continua, se fijarán los días en que los servidores públicos disfrutarán de los días de descanso semanal, de acuerdo a los roles de actividades que se establezcan por las dependencias o entidades públicas.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 38.
 
-Serán considerados como días de descanso obligatorio, los siguientes: 1 de Enero; 5 de Febrero; 21 de Marzo; 1 y 5 de Mayo; 16 y 28 de Septiembre; 12 de Octubre; 2 y 20 de Noviembre; 25 de Diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; los que determinen las Leyes Federal y Local electorales en el caso de elecciones ordinarias para efectuar la jornada electoral; y los que se determinen por Acuerdo del Titular del Poder Ejecutivo del Estado, previa su publicación en el Periódico Oficial.
+Serán considerados como días de descanso obligatorio: 1° de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo; en conmemoración del 21 de marzo; 1° y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y los que se determinen por acuerdo del Titular del Poder Ejecutivo del Estado, previa su publicación en el Periódico Oficial “El Estado de Jalisco”.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
@@ -2296,3 +2296,7 @@ SEGUNDO. Publíquese el presente decreto en uno de los periódicos de mayor circ
 P.O. 13 DE OCTUBRE DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE DICIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
