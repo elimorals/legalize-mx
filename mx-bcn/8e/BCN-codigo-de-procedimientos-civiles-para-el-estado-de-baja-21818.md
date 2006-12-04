@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2006-06-30"
+last_updated: "2006-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -995,7 +995,7 @@ X.- (DEROGADA, P.O. 10 DE AGOSTO DE 1987)
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
-XI.- Contra la declaración de caducidad se dá sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como en la reposición, la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación;
+XI.- Contra la declaración de caducidad se dáa sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como en la reposición, la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -1693,7 +1693,7 @@ ART. 237.- Las disposiciones del artículo anterior comprenden no sólo al deudo
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 238.- Las providencias precautorias establecidas por este Código podrán decretarse, tanto como actos prejudiciales, como después de iniciado el juicio respectivo; en este segundo caso, la providencia se substanciará en incidente por cuenta separada, y conocerá de ella el jJuez que, al ser presentada la solicitud, esté conociendo del negocio.
+ART. 238.- Las providencias precautorias establecidas por este Código podrán decretarse, tanto como actos prejudiciales, como después de iniciado el juicio respectivo; en este segundo caso, la providencia se substanciará en incidente por cuenta separada, y conocerá de ella el Juez que, al ser presentada la solicitud, esté conociendo del negocio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6241,6 +6241,14 @@ ART. 936.- La sentencia se pronunciará de manera breve y concisa, en el mismo m
 
 ART. 937.- La sentencia que se dicte, será apelable en el efecto devolutivo, debiendo interponerse en la forma y términos previstos en el Capitulo respectivo que reglamenta dicho recurso, pero si la parte recurrente careciere de abogado, el propio Juzgado solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días mas para enterarse del asunto y a efecto de hacer valer el recurso correspondiente y los agravios correspondientes o cualquier derecho a nombre de la parte que asesore.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2006)</small>
+
+No se aplicará lo dispuesto en el párrafo anterior cuando:
+
+I.- La defensa de la parte contraria del recurrente se encuentre o haya estado a cargo de la Defensoría de Oficio; y
+
+II.- El recurrente se encuentre en una situación socioeconómica que le impida acceder al servicio que presta la institución a que se refiere la fracción anterior, de conformidad con lo dispuesto por la Ley de la Defensoría de Oficio.
+
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 938.- Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
@@ -6736,3 +6744,7 @@ P.O. 25 DE NOVIEMBRE DE 2005.
 P.O. 30 DE JUNIO DE 2006.
 
 ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2006.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
