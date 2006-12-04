@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2006-11-03"
+last_updated: "2006-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1193,8 +1193,6 @@ Homicidio calificado.- Se impondrá de veinte a cincuenta años de prisión al r
 
 ### CAPITULO III. INFANTICIDIO
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2006)</small>
-
 ###### Artículo 127.
 
 Parentesco consanguíneo.- Al que dolosamente prive de la vida a cualquier ascendiente o descendiente consanguíneo en línea directa, o a su hermano, con conocimiento de ese parentesco, se le impondrá de veinte a cincuenta años de prisión.
@@ -1211,21 +1209,11 @@ Parentesco no consanguíneo.- Al que dolosamente prive de la vida de su cónyuge
 
 ###### Artículo 129.
 
-Tipo y punibilidad.- Se impondrá de tres a diez años de prisión, a la madre que por móviles de honor prive de la vida a su descendiente consanguíneo, dentro de las setenta y dos horas de su nacimiento, siempre que concurran las siguientes circunstancias:
-
-I.- Que no tenga mala fama;
-
-II.- Que haya ocultado su embarazo;
-
-III.- Que el nacimiento del infante haya sido oculto y no se hubiere inscrito en el Registro Civil;
-
-IV.- Que el infante no sea legitimo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2006)</small>
+(DEROGADO, P.O. 4 DICIEMBRE DE 2006)
 
 ###### Artículo 130.
 
-Suspensión por participación,- Si en el infanticidio tomare participación un médico, cirujano, comadrona o partera, además de las sanciones privativas de la libertad que les correspondan, se les suspenderá de uno a dos años, en el ejercicio de su profesión.
+(DEROGADO, P.O. 4 DICIEMBRE DE 2006)
 
 ### CAPITULO V. ABORTO
 
@@ -1505,9 +1493,11 @@ II.- Que la víctima sea menor de edad o mayor de sesenta años de edad o que po
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
 
-III.- Que la privación se prolongue por más de setenta y dos horas.
+III.- Que la privación se prolongue por más de setenta y dos horas;
 
-IV.- (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DICIEMBRE DE 2006)</small>
+
+IV.- Que el autor sea, o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
@@ -1738,6 +1728,10 @@ Además de las sanciones que señalan los artículos que anteceden, se impondrá
 Cuando el delito de violación sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o circunstancias que ellos le proporcionan, será destituido definitivamente del cargo o empleo, o suspendido por el término de seis años en el ejercicio de dicha profesión.
 
 Es aplicable para todos los casos de violación lo que para la reparación del daño establece el artículo 184 de este Código.
+
+> <small>(ADICIONADO, P.O. 4 DICIEMBRE DE 2006)</small>
+
+Las penas señaladas en los artículos 176, 177 y 178, se incrementarán hasta en una tercera parte, cuando el agente sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 10 DE OCTUBRE DE 1992)</small>
 
@@ -2137,9 +2131,11 @@ II.- El hecho de disponer de la cosa depositada, o sustraerla el depositario jud
 
 III.- El hecho de que una persona haga aparecer como suyo un depósito que garantice la libertad caucional de un procesado y del cual no le corresponda la propiedad.
 
+> <small>(REFORMADO, P.O. 4 DICIEMBRE DE 2006)</small>
+
 ###### Artículo 216.
 
-Abuso por retención.- Se reputa como abuso de confianza la ilegítima posesión de la cosa retenida si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho, o no la entrega a la autoridad para que ésta disponga de la misma conforme a la Ley.
+Abuso por retención.- Se reputa como abuso de confianza y se sancionará como tal, la ilegítima posesión de la cosa retenida, si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho, o no lo entrega a la autoridad para que ésta disponga de la misma conforme a la Ley.
 
 ###### Artículo 217.
 
@@ -2387,6 +2383,12 @@ IV.- Por el precio que pagó por el bien, la edad o condición económica del of
 
 Exención o disminución de pena o de arrepentimiento post-factum.- En los casos de los delitos previstos por este título, con excepción de la extorsión y de los que tengan alguna agravación, no se aplicará pena alguna si el agente restituye el objeto del delito y paga los daños y perjuicios, o no siendo posible la restitución cubre su valor y los daños y perjuicios, antes de que la autoridad investigadora tome conocimiento del ilícito, y sea la primera vez que delinque. Si antes de dictarse sentencia el inculpado hace la restitución o cubre su valor, en su caso, el producto de los daños y perjuicios correspondientes a ellos y además, una cuarta parte adicional al valor del objeto del delito, que se pagará al Estado para el mejoramiento de la Administración de Justicia, se reducirán las penas a la mitad de las que corresponderían por el delito cometido.
 
+> <small>(ADICIONADO, P.O. 4 DICIEMBRE DE 2006)</small>
+
+Artículo 234 BIS.- Agravación de la punibilidad.- Las penas señaladas en los artículos 208 BIS y 208 TER se incrementarán hasta en una tercera parte, cuando el autor haya sido integrante de alguna institución de seguridad pública o corporación policíaca.
+
+Las penas señaladas en los artículos 224 y 232, se incrementarán hasta en una tercera parte, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
+
 #### SECCION SEGUNDA. DELITOS CONTRA LA FAMILIA
 
 ## TITULO PRIMERO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
@@ -2451,7 +2453,9 @@ Cuando en la comisión del delito no exista el consentimiento a que se refiere e
 
 Además de las penas señaladas, se privará de los derechos de la patria potestad, tutela o custodia, así como de los derechos de familia, en su caso, a quienes teniendo el ejercicio de éstos en relación con el ofendido, cometa el delito a que se refiere el presente artículo.
 
-Artículo 238 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DICIEMBRE DE 2006)</small>
+
+Artículo 238 BIS.- Agravación de la punibilidad.- La pena señalada en El artículo anterior, se incrementará hasta en una tercera parte más, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
 ### CAPITULO III. VIOLACION DE CORRESPONDENCIA
 
@@ -2643,6 +2647,10 @@ I.- Falsifique, altere, enajene o haga desaparecer cualquier clase de sellos, ma
 
 II.- Use indebidamente los objetos señalados en la fracción anterior.
 
+> <small>(ADICIONADO, P.O. 4 DICIEMBRE DE 2006)</small>
+
+Se incrementará la pena hasta en una tercera parte, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
+
 ### CAPITULO IX. DISPOSICIONES COMUNES PARA LOS CAPITULOS DE ESTE TITULO
 
 ###### Artículo 259.
@@ -2650,6 +2658,10 @@ II.- Use indebidamente los objetos señalados en la fracción anterior.
 Tipo y punibilidad de falsificación de documentos.- Se impondrá prisión de seis meses a tres años y de veinte a cien días multa, al que para obtener un beneficio o para causar un daño, falsifique o altere un documento público o privado.
 
 Uso de documentos falsos.- Las mismas penas se impondrán al que, a sabiendas y con los fines a que se refiere el párrafo anterior, haga uso de un documento falso o alterado, o haga uso indebido de un documento verdadero, expedido en favor de otro, como si hubiera sido expedido a su nombre.
+
+> <small>(ADICIONADO, P.O. 4 DICIEMBRE DE 2006)</small>
+
+Se incrementará la pena hasta en una tercera parte, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -2933,6 +2945,10 @@ Clasificación.- Se consideran delitos contra la seguridad del Estado los de reb
 
 Agravación de pena para servidores públicos.- Se impondrá de dos a diez años de prisión y hasta trescientos días multa al funcionario o empleado del gobierno estatal, de los municipios, de organismos públicos descentralizados, de empresas de participación estatal o de servicios públicos, estatales o municipales, que incurran en alguno de los delitos previstos por este título.
 
+> <small>(ADICIONADO, P.O. 4 DICIEMBRE DE 2006)</small>
+
+Se impondrá la pena establecida en el párrafo anterior, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MARZO DE 2003)</small>
 
 ## TITULO SEGUNDO. DELITOS COMETIDOS POR SERVIDORES PUBLICOS
@@ -2946,6 +2962,10 @@ Concepto.- Para los efectos de éste Código, servidor público es toda persona 
 ###### Artículo 289.
 
 Sanciones adicionales.- Los servidores públicos que cometan alguno de los delitos previstos en el presente título, además de las penas de prisión y multa que en cada caso se señalen, serán privados del cargo y quedarán inhabilitados para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad.
+
+> <small>(ADICIONADO, P.O. 4 DICIEMBRE DE 2006)</small>
+
+Artículo 289 BIS.- Cuando los delitos previstos por los artículos 293, 306 y 307 BIS, de abuso de autoridad, intimidación y tortura, contenidos en este Título, sean cometidos por servidores públicos miembros de alguna corporación policial, las penas previstas se aumentarán en una tercera parte.
 
 ### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS
 
@@ -3627,10 +3647,6 @@ III.- Condicione la prestación de un servicio público, el cumplimiento de prog
 
 IV.- En tratándose de servicios públicos por designación, indebidamente utilice su tiempo hábil de trabajo o destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, al apoyo de un partido político, coalición o candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione este apoyo a través de sí mismo o de su subordinados, usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
-
-IV.- En tratándose de servicios públicos por designación, indebidamente utilice su tiempo hábil de trabajo o destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, al apoyo de un partido político, coalición o candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione este apoyo a través de sí mismo o de su subordinados, usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
-
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 349.
@@ -4070,3 +4086,21 @@ DECRETO No. 251
 PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 4 DE DICIEMBRE DE 2006.
+
+DECRETO No. 269
+
+ÚNICO.- La presente reforma de Ley entrará en vigor un día después de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE DICIEMBRE DE 2006.
+
+DECRETO No. 270
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE DICIEMBRE DE 2006.
+
+DECRETO No. 272
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
