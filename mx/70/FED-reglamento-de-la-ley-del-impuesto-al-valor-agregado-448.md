@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-al-valor-agregado-448"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1999-03-19"
+last_updated: "2006-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MARZO DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADO EN EL D.O.F. DE 4 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -546,3 +548,13 @@ D.O.F. 29 DE DICIEMBRE DE 1997.
 D.O.F. 19 DE MARZO DE 1999.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE DICIEMBRE DE 2006.
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Se abroga el Reglamento de la Ley del Impuesto al Valor Agregado publicado en el Diario Oficial de la Federación el 29 de febrero de 1984.
+
+A partir de la entrada en vigor de este Reglamento quedan sin efecto las disposiciones de carácter administrativo en materia del impuesto al valor agregado que se opongan al mismo.
+
+Artículo Tercero. Para el efecto de las obligaciones previstas en el artículo 74, fracción I, primer párrafo del presente Reglamento, tratándose de fideicomisos inscritos en el Registro Federal de Contribuyentes con anterioridad a la fecha de su entrada en vigor, éstas se tendrán por cumplidas, cuando al momento de su inscripción en dicho Registro se hayan realizado las manifestaciones a que se refiere dicha fracción, de conformidad con lo dispuesto en las reglas de carácter general emitidas por el Servicio de Administración Tributaria.
