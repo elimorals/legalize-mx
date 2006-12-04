@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-gobierno-50199"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-27"
-last_updated: "2006-03-27"
+last_updated: "2006-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 27 de marzo de 2006.
 
@@ -285,9 +285,15 @@ Corresponde a la Subsecretaría de Gobernación, como atribuciones de carácter 
 
 I.- Planear, organizar, programar, dirigir, coordinar, controlar, ejecutar, supervisar, evaluar y procurar las medidas para dar cumplimiento a los preceptos Constitucionales;
 
-II.- Promover el fortalecimiento de las relaciones políticas, entre el Estado, Autoridades Federales, Municipales, ejidales, sector social, sector privado y organizaciones religiosas, de conformidad a los lineamientos, normas y políticas aprobadas por el Gobernador y el Secretario; y
+II.- Promover el fortalecimiento de las relaciones políticas, entre el Estado, Autoridades Federales, Municipales, ejidales, sector social, sector privado y organizaciones religiosas, de conformidad a los lineamientos, normas y políticas aprobadas por el Gobernador y el Secretario; y (sic)
 
-III.- Las demás que le confiera el Secretario y otras disposiciones legales.
+(REFORMADA, P.O. 4 DE DICIEMBRE DE 2006) (F. DE E., P.O. 5 DE FEBRERO DE 2007)
+
+III.- Llevar el registro y certificación de firmas de los Servidores Públicos Estatales, Municipales, Instituciones Educativas y demás a quienes esté encomendada la fe pública, así como de los documentos que éstos expidan; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2006)</small>
+
+IV.- Las demás que le confiera el Secretario y otras disposiciones legales.
 
 ###### Artículo 18.
 
@@ -375,9 +381,7 @@ XVIII.- Ejercer las facultades que al Poder Ejecutivo le señalan los Códigos F
 
 XIX.- Administrar y preservar el Archivo General de Notarías del Estado y ejercer las facultades que, a la Secretaría le asigna la Ley del Notariado para el Estado de Hidalgo;
 
-XX.- Llevar el registro y certificación de firmas de los servidores públicos Estatales,
-
-Municipales y demás a quienes esté encomendada la fe pública;
+XX.- (DEROGADA, P.O. 4 DE DICIEMBRE DE 2006)
 
 XXI.- Tramitar lo relacionado con los nombramientos, licencias, remociones y renuncias de los Magistrados de los Tribunales Superior de Justicia, Fiscal Administrativo y Estatal Electoral, así como, registrar y mantener al corriente la información sobre los atributos personales, técnicos y académicos de éstos;
 
@@ -555,7 +559,7 @@ VIII.- Vigilar que las transmisiones de radio, televisión, exhibiciones cinemat
 
 IX.- Difundir y vigilar el debido cumplimiento en el Estado de la Ley sobre el Escudo, la Bandera y el Himno Nacionales;
 
-X.- Organizar y difundir los actos cívicos establecidos en el calendario oficial;
+X.- (DEROGADA, P.O. 4 DE DICIEMBRE DE 2006)
 
 XI.- Coadyuvar con las Autoridades correspondientes, a la solución de los problemas agrarios de los núcleos de población ejidal y comunal, con la finalidad de preservar la paz y tranquilidad social en el Estado;
 
@@ -571,7 +575,7 @@ XVI.- Coordinar conjuntamente con la Coordinación de Asesores del Gobernador la
 
 XVII.- Participar en la formulación y aplicación de los convenios de colaboración o coordinación con Autoridades Estatales y Municipales en materia de asuntos religiosos;
 
-XVIII.- Distribuir adecuadamente con la Coordinación de Protección Civil, los recursos que asignen los Gobiernos Federal y Estatal, así como, los organismos sociales y privados, para auxiliar a la población damnificada por el acontecimiento de siniestros que se registren en la Entidad; y
+XVIII.- (DEROGADA, P.O. 4 DE DICIEMBRE DE 2006)
 
 XIX.- Las demás que le confieran el Secretario y el Subsecretario de Gobierno, el presente Reglamento, así como las disposiciones legales vigentes.
 
@@ -601,7 +605,9 @@ VII.- Las demás que le confieran el Secretario y el Subsecretario de Gobierno, 
 
 Para el ejercicio de las facultades que este Reglamento confiere a las direcciones generales, se determinan los Municipios que corresponden a cada una de ellas:
 
-I.- Dirección General de Coordinación Regional.- Pachuca de Soto, Atotonilco el Grande, Epazoyucan, Mineral de la Reforma, Mineral del Monte, Mineral del Chico, Huasca de Ocampo y Omitlán de Juárez;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2006)</small>
+
+I.- Dirección General de Coordinación Regional.- Molango, Tepeapulco, Tizayuca, Metztitlán y Huichapan;
 
 II.- Dirección General de Gobernación en Tulancingo de Bravo.- Tulancingo de Bravo, Acatlán, Acaxochitlán, Agua Blanca de Iturbide, Cuautepec de Hinojosa, Santiago Tulantepec de Lugo Guerrero, Singuilucan, Tenango de Doria, Huehuetla, San Bartolo Tutotepec y Metepec;
 
@@ -639,9 +645,11 @@ IX.- Las demás que le confieran el Secretario y el Subsecretario de Desarrollo 
 
 Corresponde a la Dirección General Jurídica, el ejercicio de las siguientes facultades:
 
-I.- Ejercer, previa autorización del Coordinador General Jurídico, las facultades establecidas en las fracciones XI a la XVII y XXII del Artículo 19 del presente Reglamento;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2006)</small>
 
-II.- Llevar el registro y certificación de los Servidores Públicos Estatales, Municipales y demás a quienes esté encomendada la fe pública;
+I.- Ejercer, previa autorización del Coordinador General jurídico, las facultades establecidas en las fracciones XI a la XVII y XXII del Artículo 20 del presente Reglamento;
+
+II.- (DEROGADA, P.O. 4 DE DICIEMBRE DE 2006)
 
 III.- Asesorar y, en su caso, revisar los informes, resoluciones y promociones que las Dependencias, Entidades, Unidades Administrativas y Organos Desconcentrados del Gobierno deban presentar en juicios, recursos y diligencias;
 
@@ -807,7 +815,9 @@ XIII.- Establecer mecanismos de coordinación, con el Instituto Nacional para el
 
 XIV.- Propiciar el establecimiento de unidades de investigación y estudio de los recursos naturales y humanos de los Municipios, con el fin de generar proyectos para el aprovechamiento integral y racional de dichos recursos con la colaboración de los Organismos Internaciones, Nacionales y Locales que correspondan; y
 
-XV.- Las demás que le confiera el Secretario o el Subsecretario de Desarrollo Político y las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2006)</small>
+
+XV.- Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
 ###### Artículo 44.
 
@@ -829,7 +839,9 @@ V.- Realizar, promover, impulsar y coordinar estudios e investigaciones para act
 
 VI.- Colaborar con los Municipios para la coordinación y ejecución de acciones en materia poblacional, acordes con sus especificas condiciones sociodemográficas, para la descentralización de la política demográfica; y
 
-VII.- Las demás que le confieran, el Secretario y el Subsecretario de Desarrollo Político y las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2006)</small>
+
+VII.- Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
 ### CAPITULO VIII. DE LA CONTRALORIA INTERNA
 
@@ -884,3 +896,9 @@ Dado en la residencia oficial del Poder Ejecutivo del Estado de Hidalgo, en la c
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE DICIEMBRE DE 2006.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
