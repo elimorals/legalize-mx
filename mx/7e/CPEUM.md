@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2006-09-14"
+last_updated: "2006-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2006.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -48,9 +48,9 @@ En los Estados Unidos Mexicanos todo individuo gozará de las garantías que oto
 
 Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional alcanzarán, por este solo hecho, su libertad y la protección de las leyes.
 
-> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
 
@@ -1546,9 +1546,9 @@ XXIX-F.- Para expedir leyes tendientes a la promoción de la inversión mexicana
 
 XXIX-G.-Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de los Estados y de los municipios, en el ámbito de sus respectivas competencias, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico.
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
-XXIX-H.- Para expedir leyes que instituyan tribunales de lo contencioso-administrativo, dotados de plena autonomía para dictar sus fallos, y que tengan a su cargo dirimir las controversias que se susciten entre la administración pública federal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+XXIX-H.- Para expedir leyes que instituyan tribunales de lo contencioso-administrativo, dotados de plena autonomía para dictar sus fallos, y que tengan a su cargo dirimir las controversias que se susciten entre la administración pública federal y los particulares, así como para imponer sanciones a los servidores públicos por responsabilidad administrativa que determine la ley, estableciendo las normas para su organización, su funcionamiento, los procedimientos y los recursos contra sus resoluciones.
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 1999)</small>
 
@@ -5131,6 +5131,20 @@ Séptimo.- Se derogan todas aquellas disposiciones que se opongan al presente De
 D.O.F. 14 DE SEPTIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE DICIEMBRE DE 2006.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCION XXIX-H DEL ARTICULO 73.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- En tanto no se modifique la legislación que regula la materia de responsabilidades administrativas de los servidores públicos federales, ésta continuará rigiéndose por las disposiciones legales vigentes al momento de su aplicación.
+
+D.O.F. 4 DE DICIEMBRE DE 2006.
+
+DECRETO QUE REFORMA EL ARTICULO 1.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
