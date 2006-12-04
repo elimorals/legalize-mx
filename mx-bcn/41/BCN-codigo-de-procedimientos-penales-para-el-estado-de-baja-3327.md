@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2006-11-03"
+last_updated: "2006-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2006.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -349,23 +349,49 @@ VIII.- Las demás que señalen las leyes.
 
 Solo con autorización expresa del inculpado podrá el defensor desistirse de los recursos y de las pruebas ofrecidas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 29.
 
-Designación del defensor particular.- El inculpado tendrá derecho a designar, en los términos previstos en el Artículo 26 fracción I de éste Código, al defensor particular que estime conveniente, así como de revocarle la designación y substituirlo libremente.
+Designación del Defensor Particular.- El inculpado tendrá derecho a designar, en los términos previstos en el artículo 26 fracción II de éste Código, al defensor particular que estime conveniente, así como de revocarle la designación y substituirlo libremente.
 
 Cuando el inculpado designe varios defensores, señalará cual de ellos tendrá la representación común de la defensa, en el caso de que actúen conjuntamente; si no lo hace, el Juez lo designará.
 
-Los defensores particulares designados deberán manifestar si aceptan o no el cargo y, en caso afirmativo, protestar su leal desempeño.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2006)</small>
 
-El inculpado podrá autorizar a una persona, con título de licenciado en derecho o carta de pasante, para que se imponga del expediente, a fin de que pueda determinar si acepta o no asumir la defensa.
+Si el defensor particular designado se encuentra presente en la primera diligencia ante el Ministerio Público o el juzgador, en su caso, deberá manifestar si acepta o no el cargo, y en caso afirmativo protestar su leal desempeño.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2006)</small>
+
+Si en el desahogo de cualquier diligencia el defensor particular se presenta, el inculpado podrá solicitar al Ministerio Público o el juzgador, en su caso, que interrumpa la diligencia para que proteste su leal desempeño.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2006)</small>
+
+Si el defensor particular designado no se encuentra presente, deberá comparecer dentro del término de tres días ante la autoridad competente a manifestar por escrito si acepta o rechaza el cargo conferido y en caso de no comparecer se le tendrá por no aceptado el nombramiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2006)</small>
+
+En caso de que el defensor particular no acepte el nombramiento, la autoridad deberá requerir al inculpado para que dentro del término de dos días designe a otro defensor particular, apercibido que de no hacerlo, se le nombrará un defensor de oficio.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 30.
 
-Nombramiento del defensor de oficio.- Cuando el inculpado no quiera nombrar defensor en los términos previstos en el Artículo 26 fracción I de este Código, el Ministerio Público o el Juzgador en su caso, le nombrarán uno de oficio al inicio de la primera diligencia en que dicho inculpado deba intervenir.
+Nombramiento del Defensor de Oficio.- Cuando el inculpado no quiera nombrar defensor en los términos previstos en el Artículo 26 fracción II de este Código, el Ministerio Público o el Juzgador en su caso, le nombrarán uno de oficio al inicio de la primera diligencia en que dicho inculpado deba intervenir.
 
-Si el defensor designado por el inculpado no acepta o no se encuentra presente antes de iniciar la primera diligencia, el Ministerio Público o el Juzgador, en su caso, le nombrarán uno de oficio, en tanto comparece y acepta el defensor designado.
+En caso de que el defensor particular nombrado no se encuentre presente antes de iniciar la primera diligencia, el Ministerio Público o el Juzgador, en su caso, le nombrarán uno de oficio, para efectos de que lo asista en la misma, y ordenará requerir al defensor particular ausente para que comparezca en los términos previstos por el artículo que antecede.
 
-Cuando el inculpado asuma su propia defensa o designe para que lo defienda a una persona que no tenga cédula profesional de licenciado en derecho o autorización de pasante conforme a la ley que reglamente el ejercicio de las profesiones, el Ministerio Público o el Juzgador en su caso, dispondrán que intervenga, además del inculpado o de la persona designada, un defensor de oficio que colabore en la defensa.
+El cargo de defensor de oficio cesará para todos los efectos legales, cuando:
+
+I.- El Ministerio Público que lo designó ejercite o no la acción penal en contra del inculpado, se desista de la misma o acuerde la reserva en trámite que proceda.
+
+II.- El defensor particular nombrado por el inculpado acepta y protesta el leal desempeño del cargo conferido, sin perjuicio de que no conste expresamente la revocación del nombramiento del de oficio.
+
+III.- El inculpado nombre a otro defensor, en la averiguación previa o en el proceso del orden penal.
+
+Cuando el inculpado asuma su propia defensa o designe para que lo defienda a una persona que no tenga cédula profesional de licenciado en derecho o autorización de pasante conforme a la Ley que reglamente el ejercicio de las profesiones, el Ministerio Público o el Juzgador en su caso, a solicitud del inculpado, dispondrán que colabore un defensor de oficio en la defensa.
+
+Para los efectos de este Código, se entiende que el nombramiento de un defensor de oficio hecho por el inculpado, Ministerio Público o Juzgador, recaerá a favor de la Defensoría de Oficio del Estado de Baja California, por lo tanto la representación jurídica y defensa del inculpado la ejercerá dicha institución pública por conducto de cualquiera de los defensores de oficio de la lista de adscripción a las Agencias del Ministerio Público y Partidos Judiciales del Ramo Penal del Poder Judicial del Estado, que al efecto semestralmente remitirá la Defensoría de Oficio.
 
 ###### Artículo 31.
 
@@ -1029,11 +1055,13 @@ No se considera como antecedentes para negar la libertad caucional, los delitos 
 
 Cuando se solicite la libertad caucional, el juzgador o el ministerio público en su caso, deberá resolver de plano lo conducente. Si se negare la libertad caucional, podrá solicitarse de nuevo y concederse por causas supervinientes.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 123.
 
-Delitos Graves.- Para todos los efectos legales, se califican como delitos graves los previstos en los siguientes artículos del Código Penal, quedando comprendidos los realizados en grado de tentativa: Homicidio por culpa, previsto en el artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el artículo 123, en su forma simple contemplado en el artículo 124; en su forma atenuada a que se refiere el artículo 125; las formas calificadas previstas en los artículos 126 en relación con el 147, y sus formas agravadas previstas en los artículos 127 y 128; infanticidio descrito en el artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del artículo 131; lesiones contra menores o incapaces, descrito en el artículo 143-BIS párrafo segundo; secuestro previsto en los artículos 164 y 165; secuestro equiparado, en las modalidades de secuestro exprés y auto secuestro, previstas en el artículo 164-BIS fracciones I y II; asalto agravado tipificado en el artículo 173; violación contemplada en el artículo 176, violación equiparada en el artículo 177, violación impropia en el artículo 178, así como las formas agravadas, a que se refieren el artículo 179; robo previsto en el artículo 201 BIS, robo calificado en las hipótesis previstas por los artículos 203 y 208 fracciones I, II; robo de vehículo en las hipótesis contempladas en los artículos 208-BIS y 208-TER fracciones de la I a la V; abigeato descrito en el artículo 209, pero sólo cuando se trate de ganado de las especies bovina o equina, o de tres o más cabezas de ganado ovino, caprino o porcino; extorsión, a que se refiere el artículo 224; despojo agravado a que se refiere el párrafo cuarto del artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del artículo 229; tráfico de menores descrito por el artículo 238 primero y segundo párrafos; corrupción de menores e incapaces tipificado en el artículo 261, párrafo segundo; pornografía infantil tipificado en el artículo 261-Bis, lenocinio descrito en la fracción IV del artículo 266; lenocinio agravado del artículo 267; terrorismo descrito en el artículo 279, excepto su encubrimiento; peculado en su modalidad contemplada en el artículo 298; tortura previsto en el artículo 307-BIS primer párrafo y 307-TER segundo párrafo; evasión de presos, en la forma agravada del artículo 328 y los delitos electorales previstos en los artículos 348, fracción IV y 355.
+Delitos Graves.- Para todos los efectos legales, se califican como delitos graves los previstos en los siguientes artículos del Código Penal, quedando comprendidos los realizados en grado de tentativa:
+
+Homicidio por culpa, previsto en el artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el artículo 123, en su forma simple contemplado en el artículo 124; en su forma atenuada a que se refiere el artículo 125; las formas calificadas previstas en los artículos 126 en relación con el 147, y sus formas agravadas previstas en los artículos 127 y 128; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del artículo 131; lesiones contra menores o incapaces, descrito en el artículo 143-BIS párrafo segundo; secuestro previsto en los artículos 164 y 165; secuestro equiparado, en las modalidades de secuestro exprés y auto secuestro, previstas en el artículo 164-BIS fracciones I y II; asalto agravado tipificado en el artículo 173; violación contemplada en el artículo 176, violación equiparada en el artículo 177, violación impropia en el artículo 178, así como las formas agravadas, a que se refieren el artículo 179; robo previsto en el artículo 201 Bis, robo calificado en las hipótesis previstas por los artículos 203 y 208 fracciones I, II; robo de vehículo en las hipótesis contempladas en los artículos 208-BIS y 208-TER fracciones de la I a la V; abigeato descrito en el artículo 209, pero sólo cuando se trate de ganado de las especies bovina o equina, o de tres o más cabezas de ganado ovino, caprino o porcino; extorsión, a que se refiere el artículo 224; despojo agravado a que se refiere el párrafo cuarto del artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del artículo 229; tráfico de menores descrito por el artículo 238 primero y segundo párrafos; corrupción de menores e incapaces tipificado en el artículo 261, párrafo segundo; pornografía infantil tipificado en el artículo 261-Bis, lenocinio descrito en la fracción IV del artículo 266; lenocinio agravado del artículo 267; terrorismo descrito en el artículo 279, excepto su encubrimiento; peculado en su modalidad contemplada en el artículo 298; tortura previsto en el artículo 307-BIS primer párrafo y 307-TER segundo párrafo; evasión de presos, en la forma agravada del artículo 328 y los delitos electorales previstos en los artículos 348, fracción IV y 355.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1998)</small>
 
@@ -3528,3 +3556,15 @@ P.O. 25 DE AGOSTO DE 2006.
 P.O. 3 DE NOVIEMBRE DE 2006.
 
 Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2006.
+
+DECRETO NUMERO 270
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE DICIEMBRE DE 2006.
+
+DECRETO NUMERO 271
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
