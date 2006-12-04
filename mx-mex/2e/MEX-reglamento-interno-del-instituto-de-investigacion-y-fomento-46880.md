@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-de-investigacion-y-fomento-468
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-15"
-last_updated: "2005-11-15"
+last_updated: "2006-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE INVESTIGACION Y FOMENTO DE LAS ARTESANIAS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el martes 15 de noviembre de 2005.
 
@@ -83,19 +83,23 @@ El Consejo Directivo es el órgano de gobierno del Instituto, sus determinacione
 
 El Consejo Directivo se integrara por:
 
-I. Un Presidente, quien será el Secretario de Turismo y Desarrollo Artesanal.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+I. Un Presidente, quien será el Secretario de Turismo.
 
 II. Un secretario, quien será designado por el Consejo Directivo a propuesta de su Presidente.
 
 III. Un Comisario, quien será el representante de la secretaria de la Contraloría.
 
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
 IV. Tres vocales, quienes serán:
 
-a) Un representante de la Secretaria de Finanzas, Planeación y Administración.
+a) Un representante de la Secretaria de Finanzas.
 
-b) Un representante de la Secretaria del Trabajo y de la Previsión Social.
+b) Un representante de la Secretaria del Trabajo.
 
-c) Un representante de la Secretaria de Educación, Cultura y Bienestar Social.
+c) Un representante de la Secretaria de Educación.
 
 Son invitados permanentes del Consejo Directivo, un representante de los artesanos por cada región de desarrollo artesanal, quienes serán designados cada dos años.
 
@@ -191,43 +195,77 @@ XXIII. Las demás que le confieren otras disposiciones legales y el Consejo Dire
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las funciones de control y evaluación que le corresponden, el Director General se auxiliará de las unidades administrativas básicas siguientes:
 
-I. Departamento de Organización y Capacitación.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
 
-II. Departamento de Investigación y Diseño.
+I. Dirección de Fomento a la Actividad Artesanal.
 
-III. Departamento de Comercialización.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
 
-IV. Departamento de Ferias y Exposiciones.
+II. Dirección de Comercialización.
 
-V. Unidad de Apoyo Administrativo.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
 
-VI. Contraloría Interna.
+III. Subdirección de Organización y Capacitación.
+
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+IV. Subdirección de Investigación.
+
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+V. Subdirección de Promoción Comercial.
+
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+VI. Subdirección de Promoción Artesanal en Ferias y Exposiciones.
+
+> <small>(ADICIONADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+VII. Unidad de Apoyo Administrativo.
+
+> <small>(ADICIONADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+VIII. Contraloría Interna.
 
 El Instituto contara con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su manual general de organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la estructura orgánica y presupuesto autorizados al Organismo.
 
-### CAPITULO IV. DE LAS ATRIBUCIONES GENERICAS DE LOS JEFES DE DEPARTAMENTO
+> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO IV. DE LAS ATRIBUCIONES DE LOS DIRECTORES
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 13.
 
-Al frente de cada Departamento habrá un Jefe de Departamento, quien tendrá las atribuciones genéricas siguientes:
+Al frente de cada Dirección habrá un Director, quien tendrá las atribuciones genéricas siguientes:
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas al Departamento a su cargo.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la Dirección a su cargo.
 
 II. Elaborar y proponer al Director General los anteproyectos de programas anuales de actividades y de presupuesto que le correspondan.
 
-III. Ejecutar el programa operativo anual del Departamento a su cargo.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
 
-IV. Acordar con el Director General la atención de los asuntos cuyo trámite correspondan al Departamento a su cargo.
+III. Ejecutar el programa operativo anual del Dirección a su cargo.
+
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+IV. Acordar con el Director General la atención de los asuntos cuyo trámite correspondan a la Dirección a su cargo.
 
 V. Formular las dictámenes, opiniones e informes que le sean solicitados por el Director General.
 
-VI. Proponer al Director General las modificaciones jurídicas y administrativas que tiendan a mejorar el funcionamiento del Departamento a su cargo.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+VI. Proponer al Director General las modificaciones jurídicas y administrativas que tiendan a mejorar el funcionamiento de la Dirección a su cargo.
 
 VII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o tos que le correspondan por suplencia.
 
 VIII. Coordinar sus actividades con los demás titulares de las unidades administrativas del Organismo para el mejor desempeño de sus funciones.
 
-IX. Proponer al Director General el ingreso, licencia, promoción, remoción y cese del personal del Departamento a su cargo.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+IX. Proponer al Director General el ingreso, licencia, promoción, remoción y cese del personal de la Dirección a su cargo.
 
 X. Coadyuvar en la elaboración, actualización y aplicación de los reglamentos, manuales administrativos y cualquier otra disposición de carácter general que regule la organización y el funcionamiento del Organismo.
 
@@ -241,11 +279,49 @@ XIV. Proporcionar previo acuerdo del Director General, la información, datos o 
 
 XV. las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
 
-### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LOS DEPARTAMENTOS, UNIDAD DE APOYO ADMINISTRATIVO Y CONTRALORIA INTERNA
+> <small>(ADICIONADO, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+Artículo 13 bis.- Corresponde a la Dirección de Fomento a la Actividad Artesanal:
+
+I. Fomentar y coordinar la realización de investigaciones para el desarrollo de la actividad artesanal.
+
+II. Otorgar asistencia técnica para mejorar el diseño de los productos artesanales y elevar la calidad en su producción.
+
+III. Integrar y mantener actualizado el Registro Estatal de Artesanos.
+
+IV. Promover y coordinar la realización de talleres, concursos y demás eventos que contribuyan a estimular la creatividad de los artesanos del Estado.
+
+V. Proponer y ejecutar programas y estrategias orientadas a rescatar y preservar las técnicas artesanales de las comunidades del Estado, principalmente aquéllas proclives a desaparecer.
+
+VI. Promover la organización de los artesanos del Estado, a fin de mejorar la producción y comercialización de sus productos.
+
+VII. Las demás que le confieren otros ordenamientos legales y las que le encomiende el Director General.
+
+> <small>(ADICIONADO, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+Artículo 13 ter.- Corresponde a la Dirección de Comercialización:
+
+I. Difundir en los ámbitos municipal, estatal, nacional e internacional las artesanías del Estado, promoviendo la expresión cultural y las raíces históricas de nuestra entidad.
+
+II. Impulsar la expansión y diversificación de los productos artesanales para elevar su comercialización en el mercado interno, así como fomentar la exportación de artesanías.
+
+III. Establecer vincules de coordinación y colaboración con empresas, cadenas productivas y centros comerciales, a fin de impulsar la venta de artesanías.
+
+IV. Promover la participación de los artesanos en ferias, exposiciones y demás eventos locales, nacionales e internacionales para que comercialicen de manera directa sus productos.
+
+V. Fomentar la venta de productos artesanales en el Centro de Desarrollo Artesanal y en la Casa de las Artesanías, así como en los demás espacios que promueva el Instituto.
+
+VI. Las demás que le confieren otros ordenamientos legales y las que le encomiende el Director General.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO V. DE LAS ATRIBUCIONES DE LAS SUBDIRECCIONES, UNIDAD DE APOYO ADMINISTRATIVO Y CONTRALORIA INTERNA
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 14.
 
-Corresponde al Departamento de Organización y Capacitación:
+Corresponde a la Subdirección de Organización y Capacitación:
 
 I. Promover la organización de los artesanos, a fin de elevar sus potencialidades, incrementar su productividad e impulsar su desarrollo.
 
@@ -253,23 +329,35 @@ II. Promover ante los artesanos de la entidad la obtención de marcas registrada
 
 III. Asesorar y capacitar a los artesanos sobre las mejores prácticas para elevar la calidad y competitividad de sus productos.
 
-IV. Participar con las instancias correspondientes en el diseño, ejecución y evaluación de proyectos productivos en materia artesanal.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+IV. Asesorar técnicamente a los artesanos en la constitución de sus organizaciones y, en coordinación con otras instancias, en el diseño, ejecución y evaluación de proyectos productivos.
 
 V. Proponer al Director General la celebración de acuerdos o convenios con instituciones educativas, a fin de promover programas de capacitación especializada a los artesanos y participar en su ejecución.
 
-VI. Promover ante las instancias competentes, el otorgamiento de estímulos económicos a las personas que participen en los procesos de capacitación en materia artesanal.
+VI. (DEROGADA, G.G. 4 DE DICIEMBRE DE 2006)
 
-VII. Promover y, en su caso, capacitar a los artesanos para su incorporación a la actividad empresarial.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
 
-VIII. Las demás que le confieren otros ordenamientos legales y las que le encomiende el Director General.
+VII. Promover y, en su caso, capacitar a los artesanos para el desarrollo de la cultura empresarial.
+
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+VIII. Las demás que le confieren otros ordenamientos legales y las que le encomiende el Director de Fomento a la Actividad Artesanal y el Director General.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 15.
 
-Corresponde al Departamento de Investigación y Diseño:
+Corresponde a la Subdirección de Investigación:
 
-I. Proponer o realizar investigaciones sobre líneas de producción y ramas artesanales en las comunidades dedicadas a esta actividad.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
 
-II. Realizar investigaciones orientadas a mejorar el diseño de la producción artesanal e incorporar nuevas tecnologías a fin de elevar los meces de calidad y competitividad de los productos.
+I. Proponer o realizar investigaciones de carácter artesanal en las comunidades dedicadas a esta actividad.
+
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+II. Realizar investigaciones orientadas a mejorar el diseño de la producción artesanal, a fin de elevar el índice de competitividad de los productos.
 
 III. Integrar y mantener actualizado el Registro Estatal de Artesanos.
 
@@ -279,29 +367,41 @@ V. Proponer aquellos artesanos del Estado que por sus méritos puedan ser candid
 
 VI. Difundir los resultados de las investigaciones realizadas o promovidas por el Instituto a través de las instancias de cultura del Gobierno Estatal.
 
-VII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+VII. Las demás que le confieren otros ordenamientos legales y las que le encomiende el Director de Fomento a la Actividad Artesanal y el Director General.
+
+> <small>(REFORMADO, G.G. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 16.
 
-Corresponde al Departamento de Comercialización:
+Corresponde a la Subdirección de Promoción Comercial:
 
-I. Fomentar la comercialización de artesanías, aprovechando las ventajas que ofrecen los tratados de libre comercio en los que participe México.
+I. Promover la expansión y diversificación del mercado interno para elevar la comercialización de productos artesanales, a través de la Tienda CASART, así como fomentar la exportación de las artesanías mexiquenses.
 
-II. Promover la actividad artesanal tomando en cuenta la expresión cultural y las ralees históricas del Estado.
+II. Establecer vínculos de coordinación y colaboración con cadenas o centros comerciales, a través de muestras artesanales, con el fin de favorecer la venta de artesanías en la entidad.
 
-III. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
+III. Promover la venta de productos artesanales en los mercados locales, nacionales e internacionales.
+
+IV. Las demás que le confieren otros ordenamientos legales y las que le encomiende el Director de Comercialización y el Director General.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 17.
 
-Corresponde al Departamento de Ferias y Exposiciones:
+Corresponde a la Subdirección de Promoción Artesanal en Ferias y Exposiciones:
 
 I. Establecer vincules de coordinación y colaboración con cadenas o centros comerciales, a fin de favorecer la venta de artesanías en el estado.
 
-II. Promover la participación directa de los artesanos en las actividades de ferias y exposiciones que promueva o participe el Instituto.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+II. Promover la participación directa de los artesanos en ferias y exposiciones a través del Centro de Desarrollo Artesanal, así como en eventos que promueva o en los que participe el Instituto.
 
 III. Promover eventos en donde los artesanos comercialicen de manera directa sus productos como ferias nacionales e internacionales.
 
-IV. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+IV. Las demás que le confieren otros ordenamientos legales y las que le encomiende el Director de Comercialización y el Director General.
 
 ###### Artículo 18.
 
@@ -347,7 +447,9 @@ III. Verificar el adecuado ejercicio del presupuesto del Instituto, atendiendo a
 
 IV. Intervenir en concursos de adquisiciones cuando la normatividad así lo determine.
 
-V Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno y remitirlos a la Dirección General de Responsabilidades y Situación Patrimonial para su trámite y resolución.
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
+V Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno y remitirlos a la Dirección General de Responsabilidades de la Secretaría de la Contraloría para su trámite y resolución.
 
 VI. Ordenar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos del Instituto.
 
@@ -367,9 +469,11 @@ XI. Las demás que le confieren otras disposiciones legales y aquellas que le en
 
 El Director General será suplido en sus ausencias temporales hasta por 15 días, por quien aquél designe. En las mayores de 15 días, por el servidor público que designe el Presidente del Consejo Directivo.
 
+> <small>(REFORMADO, G.G. 4 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 21.
 
-Los Jefes de Departamento serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Director General.
+Los directores y subdirectores serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Director General.
 
 T R A N S I T O R I O S
 
@@ -392,3 +496,13 @@ C. MARIA CRISTINA MONCADA ORTEGA
 JEFA DE LA UNIDAD DE INFORMACION, PLANEACION, PROGRAMACION Y ESTADISTICA Y SECRETARIA DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 4 DE DICIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
