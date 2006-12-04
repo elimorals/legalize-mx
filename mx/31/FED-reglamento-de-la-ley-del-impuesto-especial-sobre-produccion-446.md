@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-especial-sobre-produccion-446
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1990-05-15"
+last_updated: "2006-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 1990.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS, PUBLICADO EN EL D.O.F. DE 4 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -33,6 +35,8 @@ REGLAMENTO DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS.
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 1o-A.
 
 Para los efectos del artículo 2o., fracción I, inciso H), subinciso 2 de la Ley, a los cigarros populares que al 1o. de enero de cada año tengan como precio máximo al público el que anualmente señale el Congreso de la Unión, les será aplicable la tasa que dicho artículo establece, no obstante los incrementos que tengan con posterioridad a esa fecha.
@@ -42,8 +46,6 @@ Para los efectos del artículo 2o., fracción I, inciso H), subinciso 2 de la Le
 Cuando en este Reglamento se haga referencia a la Ley, se entenderá que se trata de la Ley del Impuesto Especial sobre Producción y Servicios. Cuando se refiera al impuesto, será el que dicha Ley establece; si menciona a la Secretaría, será la de Hacienda y Crédito Público.
 
 Cuando se haga alusión a los actos o actividades por los que se deba pagar el impuesto, se considerarán incluidos aquéllos a los que se les aplique la tasa del 0%.
-
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 2o.
 
@@ -85,11 +87,11 @@ También se expedirá nota de crédito en los casos en que no se hubiera enterad
 
 ###### ARTICULO 8o.
 
-Para los efectos del artículo 7o. de la Ley se considerarán transmisiones por las que no se está obligado al pago del impuesto las donaciones u obsequios que efectúen las empresas con fines de promoción, siempre que sean deducibles en los términos de la Ley del Impuesto sobre la Renta.
+A (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
 ###### ARTICULO 8o.
 
-A (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
+Para los efectos del artículo 7o. de la Ley se considerarán transmisiones por las que no se está obligado al pago del impuesto las donaciones u obsequios que efectúen las empresas con fines de promoción, siempre que sean deducibles en los términos de la Ley del Impuesto sobre la Renta.
 
 ### CAPITULO III. De la Importación de Bienes
 
@@ -160,3 +162,11 @@ UNICO.- El presente Decreto entrará en vigor el 16 de julio de 1988.
 D.O.F 15 DE MAYO DE 1990.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE DICIEMBRE DE 2006.
+
+PRIMERO. El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley del Impuesto Especial sobre Producción y Servicios publicado en el Diario Oficial de la Federación del 29 de febrero de 1984.
+
+A partir de la entrada en vigor de este Reglamento quedan sin efecto, en lo que se opongan al mismo, las disposiciones de carácter administrativo en materia del impuesto especial sobre producción y servicios.
