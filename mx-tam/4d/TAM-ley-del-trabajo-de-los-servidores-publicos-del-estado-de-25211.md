@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2006-09-06"
+last_updated: "2006-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -965,9 +965,11 @@ En el ofrecimiento de la confesional y testimonial de altos funcionarios públic
 
 Cualquier incidente que se suscite con motivo de la personalidad de las partes, de su representante, de la competencia del Tribunal, del interés de terceros, sobre la nulidad de actuaciones y de otros motivos análogos, será resuelto de plano al admitirse las pruebas en que se funden las pretensiones. Si de la demanda o durante la secuela del procedimiento resultare a juicio del Tribunal su incompetencia lo declarará de oficio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 111.
 
-La demanda, la citación para absolver posiciones, de declaratoria de caducidad, el laudo y acuerdos con apercibimiento, se harán personalmente a las partes; las demás notificaciones se harán por estrados. Las notificaciones personales se realizaran por los Actuarios del Tribunal o mediante oficios enviados con acuse de recibo. Todos los términos correrán en días hábiles a partir del siguiente a aquel en que se haga el emplazamiento, citación o notificación y se contará en ellos el día del vencimiento, cuando la realización o práctica de un acto procesal o el ejercicio de un derecho no tenga fijado término, éste será el de tres días hábiles.
+La demanda, la citación para absolver posiciones, de declaratoria de caducidad, el laudo y acuerdos con apercibimiento, se harán personalmente a las partes; las demás notificaciones se harán por estrados. Las notificaciones personales surtirán sus efectos el mismo día en que se practiquen, se realizarán por los Actuarios del Tribunal o mediante oficios enviados con acuse de recibo. Todos los términos correrán en días hábiles a partir del siguiente a aquel en que se haga el emplazamiento, citación o notificación y se contará en ellos el día del vencimiento, cuando la realización o práctica de un acto procesal o el ejercicio de un derecho no tenga fijado término, éste será el de tres días hábiles.
 
 Cuando el domicilio del demandado se encuentre fuera del lugar de residencia del Tribunal, éste podrá ampliar el término de que se trate en función de la distancia a razón de un día por cada cuarenta kilómetros o fracción que exceda de la mitad.
 
@@ -1060,5 +1062,11 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
