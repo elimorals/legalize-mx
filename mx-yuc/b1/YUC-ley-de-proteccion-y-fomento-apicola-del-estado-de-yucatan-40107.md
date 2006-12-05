@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-y-fomento-apicola-del-estado-de-yucatan-40107
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-06"
-last_updated: "2004-07-06"
+last_updated: "2006-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE PROTECCION Y FOMENTO APICOLA DEL ESTADO DE YUCATAN
 
-LEY DE PROTECCION Y FOMENTO APICOLA DEL ESTADO DE YUCATAN
+LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2004.
 
@@ -41,13 +41,17 @@ LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE YUCATÁN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en esta ley y su reglamento son de observancia general y obligatoria en todo el territorio del Estado de Yucatán.
+Las disposiciones contenidas en esta ley y su reglamento son de interés social, observancia general y obligatoria en todo el territorio del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 2.
 
-La presente ley tiene por objeto la organización, protección, fomento, desarrollo y tecnificación de la actividad apícola del Estado; así como el fortalecimiento de las organizaciones de productores y de los sistemas de manejo y comercialización de los insumos y productos de la colmena.
+La presente ley tiene por objeto la organización, protección, fomento, desarrollo y tecnificación de la actividad apícola del Estado; en especial en sus áreas territoriales consideradas como aptas para el crecimiento y desarrollo de la apicultura, así como el fortalecimiento de las organizaciones de productores y de los sistemas de manejo y comercialización de los insumos y productos de la colmena.
 
 ###### Artículo 3.
 
@@ -55,57 +59,77 @@ Son sujetos y materia de esta ley:
 
 I.- Las personas físicas o morales, que se dediquen de manera directa o indirecta a la cría, explotación, mejoramiento, compraventa y movilización de colonias de abejas.
 
-II.- Quienes realicen funciones de acopio, decantación, industrialización, almacenamiento, comercialización y transporte de productos apícolas, sin importar el régimen tributario al que estén inscritos.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-III.- También se considera materia de esta ley las áreas consideradas como aptas para el crecimiento y desarrollo de la Apicultura.
+II.- Quienes realicen actividades de acopio, decantación, industrialización, almacenamiento, comercialización y transporte de productos apícolas, sin importar el régimen tributario al que estén inscritos;
+
+III.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 4.
 
 Para efectos de la presente ley se entiende por:
 
-I.- ABEJA: Insecto himenóptero de la familia de los ápidos que produce miel y cera.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-a) Abeja Europea: Es la abeja originaria del Continente Europeo.
+I.- ABEJA: Insecto himenóptero de la Familia de los Apidae, del género Apis y de la especie mellífera que produce miel y cera.
 
-b) Abeja Africana: Es la abeja originaria del Continente Africano cuyas características y hábitos de defensa, migración y enjambrazón son diferentes a las razas europeas.
+a) (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
-c) Abeja africanizada: Es el resultado de la cruza entre las abejas europeas y africanas.
+b) (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
-d) Abeja Nativa: Es la que se encuentra de manera silvestre en el territorio del Estado, principalmente de la familia de los meliponinos, que posee características diferentes a las anteriormente descritas, entre ellas la falta de aguijón.
+c) (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
+
+d) (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
 II.- PANAL: Es una estructura formada por celdas de cera, al interior de una oquedad natural o artificial, que sirve como depósito de alimento o aloja a las crías de las abejas.
 
 III.- MIEL: Es la sustancia dulce natural producida por las abejas a partir del néctar de las flores o por otras partes vivas de las plantas, que las abejas recogen, transforman y combinan con sustancias específicas propias y almacenan en panales.
 
-a) Miel convencional: Es la miel producida con las técnicas apícolas tradicionales.
+a) (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
-b) Miel orgánica: Es aquella que es producida con apego a las normas de composición e higiene a través de un riguroso control durante su proceso productivo, desde el apiario hasta el consumidor final, que le permite mantener sus cualidades físicas y químicas naturales, libres de cualquier agente contaminante, adulterante o de residuos químicos.
+b) (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
-IV.- APICULTOR: Toda persona que se dedique de manera eventual o permanente a la cría, mejoramiento y explotación de las abejas, ya sea de su propiedad o no.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-V.- APICULTURA: Es la actividad que comprende la cría, mejoramiento y explotación racional de las abejas, en forma fija o migratoria.
+IV.- APICULTOR: Toda persona que se dedique a la cría, mejoramiento y explotación de su propiedad;
+
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+V.- APICULTURA: Es la actividad que comprende la cría, mejoramiento y explotación racional de las abejas, en forma sedentaria y/o migratoria.
 
 VI.- APROVECHAMIENTO RACIONAL: Es la utilización de los recursos naturales de forma que resulte eficiente, socialmente útil y procure su preservación.
 
-VII.- COLMENA: Es el alojamiento permanente de una colonia de abejas con sus panales.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+VII.- COLMENA: Es el alojamiento permanente de una colonia de abejas con sus panales. Que puede ser:
 
 a) Colmena natural: Es cualquier oquedad que las abejas ocupan como morada sin la intervención del hombre.
 
 b) Colmena rústica: Es el alojamiento de las abejas construido o adaptado por el hombre con sus paneles fijos y sin tecnificación.
 
-c) Colmena técnica: Su característica principal reside en que los paneles de las abejas están en sus bastidores o cuadros y pueden ser manejados fuera de la colonia para su aprovechamiento racional.
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-VIII.- ENJAMBRE: Es el conjunto de abejas obreras, reinas con o sin zánganos y que pueden ser:
+c) Colmena técnica: Su característica principal reside en que los panales de las abejas están en sus bastidores o cuadros, con distancia conveniente entre los mismos, los cuales pueden ser manejados fuera de la colonia para su aprovechamiento racional. Este tipo de colmena posee medidas establecidas de acuerdo al modelo al que pertenezca.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+VIII.- ENJAMBRE O COLONIA: Es el conjunto de abejas obreras, reina y zánganos y que pueden ser:
 
 a) Silvestre: El que vive dentro de cualquier oquedad y sin manejo técnico.
 
 b) En tránsito: Sin alojamiento específico durante las etapas de reproducción o migración.
 
-c) Encolmenado: Que viven dentro de una caja o colmena.
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-IX.- CRIADERO DE REINAS: Conjunto de colmenas de tipo técnico dividido interiormente, o de medidas especiales, destinado principalmente a la obtención de abejas reinas.
+c) Encolmenado: Que viven dentro de una colmena.
 
-X.- APIARIO: Conjunto de colmenas instaladas en un lugar determinado.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+IX.- CRIADERO DE REINAS: Lugar donde se encuentran instaladas un conjunto de colmenas de tipo técnico con medidas especiales para albergar poblaciones pequeñas de abejas cuya función zootécnica es la producción de abejas reinas;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+X.- APIARIO: Conjunto de colonias encolmenadas instaladas en un lugar determinado;
 
 a) Apiario de pequeños productores: Conjunto menor a 10 colmenas que son atendidas generalmente por una familia.
 
@@ -113,23 +137,37 @@ b) Apiario de medianos productores: Conjunto de 10 a 60 colmenas y que por lo ge
 
 c) Apiario de grandes productores: Son aquellas explotaciones que poseen más de 60 colmenas y que cuentan con equipos tecnificados.
 
-XI.- CENTRO DE ACOPIO Y BENEFICIO: Es el establecimiento o instalación que se encarga de recolectar los productos apícolas, principalmente miel, para procesarlos o almacenarlos para su posterior comercialización en el mercado nacional o internacional.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-XII.- CICLO APÍCOLA: Es el comprendido durante un período anual dividido en etapas de precosecha, cosecha y poscosecha de la actividad apícola que inicia en el mes de octubre y concluye en el mes de septiembre.
+XI.- CENTRO DE ACOPIO. Es el establecimiento o instalación que se encarga de recolectar o acopiar los productos apícolas, principalmente miel, para ser trasladados posteriormente a una mielera o centro de servicio;
 
-XIII.- SERVICIO DE POLINIZACIÓN: Es un servicio técnico especializado que prestan los apicultores a través de la acción polinizadora de sus colonias de abejas, permitiendo mejores rendimientos de la actividad agrícola.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-XIV.- FLORA MELÍFERA: Todo tipo de plantas anuales o arbustos principalmente, de las cuales las abejas, en alguna de sus etapas, extraen polen, néctar u otros productos.
+XII.- CICLO APÍCOLA: Es el período que comprende las etapas de precosecha, cosecha y poscosecha apícola;
+
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XIII.- MIELERA O CENTRO DE SERVICIO.- Es el establecimiento o instalación que se encarga de recibir del Centro de Acopio los productos apícolas, principalmente miel, para procesarlos y almacenarlos para su posterior comercialización en el mercado nacional o internacional;
+
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XIV.- FLORA MELÍFERA: Todo tipo de plantas nativas o introducidas de las cuales las abejas, extraen néctar, polen o resinas;
 
 XV.- ZONA APÍCOLA: Es aquella región o lugar que por sus condiciones naturales o botánicas, es susceptible para desarrollar la apicultura.
 
-XVI.- CONSEJO APÍCOLA: Es un órgano técnico especializado, que de manera colegiada se encarga de estudiar la situación de la Apicultura en el Estado, para que en base a los resultados, sugiera a las diversas instancias de gobierno los mecanismos que se deben de instrumentar para su fortalecimiento y control.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XVI.- COMITÉ SISTEMA PRODUCTO APÍCOLA DEL ESTADO DE YUCATÁN: Es un órgano especializado que se encarga de estudiar la situación de la Apicultura Estatal para sugerir a las instancias de gobierno los mecanismos que se deban instrumentar;
 
 XVII.- SAGARPA: A la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
-XVIII.- SRA: A la Secretaría de la Reforma Agraria.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-XIX.- DIRECCIÓN: A la Dirección de Apicultura, Avicultura y Porcicultura de la Secretaría de Desarrollo Rural y Pesca del Gobierno del Estado de Yucatán.
+XVIII.- SECRETARIA: Secretaría de Desarrollo Rural y Pesca del Gobierno del Estado de Yucatán;
+
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XIX.- MIEL ORGANICA: Aquella en cuyo proceso de producción no se permite utilizar control medicamentoso profiláctico, la aplicación de agentes químicos sintéticos, el uso de organismos genéticamente modificados, además de que se requiere el reconocimiento de una entidad acreditada para la certificación de miel catalogada como tal, y los lugares donde se lleva a cabo este proceso.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
@@ -141,7 +179,9 @@ I.- El Ejecutivo del Estado.
 
 II.- La Secretaría de Desarrollo Rural y Pesca del Gobierno del Estado.
 
-III.- El Consejo Apícola del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+III.- El Comité Sistema Producto Apícola del Estado.
 
 ###### Artículo 6.
 
@@ -153,7 +193,9 @@ II.- Los Ayuntamientos del Estado.
 
 III.- La delegación estatal de la Sagarpa.
 
-IV.- La representación estatal de la SRA.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+IV.- La Representación Estatal de la SRA.
 
 V.- La delegación de la Secretaría de Economía.
 
@@ -167,141 +209,153 @@ IX.- Los inspectores sanitarios.
 
 X.- La Secretaría de Hacienda.
 
+> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XI.- La Secretaría de Desarrollo del Estado de Yucatán.
+
+> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XII.- La Representación Estatal de la Procuraduría Federal de Protección al Medio Ambiente.
+
+> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XIII.- La Representación Estatal de la Secretaría de Ecología, Medio Ambiente y Recursos Naturales.
+
+> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XIV.- La Representación Estatal de la Secretaria de Ecología.
+
+> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XV.- La Representación Estatal de la Comisión Nacional Forestal.
+
+> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XVI.- La Comisión Nacional de Derechos Indígenas.
+
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO RURAL Y PESCA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 7.
 
-La Secretaría de Desarrollo Rural y Pesca, a través de su Dirección, tendrá las siguientes facultades y obligaciones:
+La Secretaría de Desarrollo Rural y Pesca, tendrá las siguientes facultades y obligaciones:
 
-I.- Presidir y brindar todas las facilidades que estén a su alcance para que el Consejo Apícola del Estado de Yucatán cumpla su función como órgano rector de la actividad;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-II.- Promover, fomentar y apoyar la organización de los apicultores;
+I.- Presidir el Comité de Sistema Producto Apícola del Estado de Yucatán, brindando todas las facilidades que estén a su alcance, para que cumpla su función como órgano rector de la actividad.
 
-III.- Establecer programas de fomento a la investigación apícola;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-IV.- Dividir el Estado en zonas y micro regiones para la mejor aplicación de sus programas de gobierno que permita mejorar la actividad apícola;
+II.- Promover, fomentar y apoyar el registro de apicultores y su organización.
 
-V.- Elaborar y mantener actualizado el padrón de apicultores;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-VI.- Coordinarse con las autoridades federales, en el ámbito de su competencia, para la ejecución de programas sobre prevención y control de la abeja africana y africanizada y para el control de enfermedades zoosanitarias;
+III.- Impulsar en coordinación con el Comité Sistema Producto Apícola programas pertinentes y de fomento a la investigación apícola.
+
+IV.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+V.- Elaborar y mantener actualizado el padrón de apicultores, organizaciones, empresas e instituciones involucradas en la actividad apícola.
+
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+VI.- Coordinarse con las autoridades federales y estatales, en el ámbito de su competencia, para la ejecución de programas sobre prevención y control de de (sic) enfermedades que afectan a las abejas.
 
 VII.- Apoyar programas que permitan diversificar la comercialización de otros productos de la colmena tales como polen, propóleos, jalea real y apitoxina;
 
-VIII.- Brindar apoyo a la investigación enfocada a la creación de medicamentos naturales para el manejo de las colonias de abejas que permita mejorar la calidad de la miel y los demás productos de la colmena;
+VIII.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
 IX.- Coordinarse con autoridades federales, estatales y municipales para el control de las actividades del hombre que dañen a la apicultura, sujetándose a las normas, lineamientos y procedimientos que se establezcan a nivel federal;
 
 X.- Resolver las consultas técnicas que le formulen los apicultores o asociaciones apícolas;
 
-XI.- Coordinarse con la Sagarpa, para la aplicación de las disposiciones que permitan el control de las movilizaciones de colonias y para la inspección de las colmenas y sus productos;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XI.- Coordinarse con la SAGARPA y las autoridades estatales, en la aplicación de las disposiciones que permitan el control de las movilizaciones de colonias y para la inspección de las colmenas y sus productos.
 
 XII.- Expedir las guías de tránsito de los productos de los establecimientos que extracten, manejen, acopien, procesen, industrialicen o envasen miel u otros productos de abeja en el Estado;
 
 XIII.- Reportar a la Sagarpa, para que en su caso se establezcan las cuarentenas en zonas infestadas o infectadas, prohibiendo el traslado de colmenas que se consideren portadoras de enfermedades a zonas libres;
 
-XIV.- Llevar un control estadístico de la Apicultura en el Estado;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-XV.- Elaborar y mantener actualizado el registro de organizaciones de apicultores que residan en el Estado;
+XIV.- Llevar un control estadístico de la Apicultura en el Estado.
+
+XV.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
 XVI.- Autorizar y llevar el registro de las marcas y señales que identifiquen la propiedad de las colonias de abejas de cada apicultor;
 
-XVII.- Establecer las medidas que sean necesarias para proteger las zonas y plantas melíferas que conforman el ecosistema del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-XVIII.- Otorgar los permisos para la instalación de apiarios y las licencias para el aprovechamiento de las zonas apícolas;
+XVII.- En coordinación con las autoridades federales, estatales y municipales, establecer las medidas que sean necesarias para proteger las zonas y plantas melíferas que conforman el ecosistema del Estado de Yucatán.
 
-XIX.- Vigilar que los apiarios instalados cuenten con los permisos correspondientes, respeten las distancias que deben de existir entre un apiario y otro y que no se encuentren dentro del derecho de vías de carreteras estatales, federales o de caminos vecinales;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-XX.- Tramitar y resolver las controversias que se susciten entre apicultores, por la instalación de apiarios o la invasión de zonas apícolas;
+XVIII.- En coordinación con autoridades federales, estatales y municipales, enterarse de la instalación de apiarios y el aprovechamiento de las zonas apícolas.
 
-XXI.- Imponer en el ámbito de su competencia, las sanciones por infracciones a disposiciones legales, instaurando al efecto los procedimientos correspondientes; así como cooperar con las autoridades competentes para la aplicación de las mismas;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-XXII.- Impulsar la creación de fondos para la investigación apícola;
+XIX.- En coordinación con las autoridades correspondientes, vigilar que los apiarios instalados, respeten las distancias que deben de existir entre un apiario y otro y que no se encuentren dentro del derecho de vías de carreteras estatales, federales o de caminos municipales;
 
-XXIII.- Realizar foros, ferias y cualquier otra actividad tendientes al fomento de la apicultura;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-XXIV.- Vigilar que los procesos apícolas, desde la producción hasta la comercialización, se realicen de acuerdo a las Normas Oficiales Mexicanas sobre sanidad e higiene, denunciando a las instancias legales lo que corresponda;
+XX.- En coordinación con autoridades municipales correspondientes, tramitar y resolver las controversias que se susciten entre los apicultores, por la instalación de apiarios o la invasión de zonas apícolas;
 
-XXV.- Promover la incorporación de productos apícolas al menú de los comedores escolares, de los establecimientos dependientes del gobierno estatal y de la población en general;
+XXI.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
+
+XXII.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XXIII.- Realizar foros, ferias y cualquier otra actividad tendientes al fomento de la apicultura y el consumo de miel;
+
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XXIV.- En coordinación con autoridades federales, estatales y municipales, vigilar que los procesos apícolas, desde la producción hasta la comercialización, se realicen de acuerdo a las Normas de inocuidad, sanidad e higiene vigentes, cooperando con las instancias legales en lo que corresponda;
+
+XXV.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
 XXVI.- Establecer los programas necesarios que permitan la certificación de origen de la miel yucateca, y
 
 XXVII.- Las demás que le confiera esta ley y su reglamento.
 
-### CAPÍTULO IV. DEL CONSEJO APÍCOLA DEL ESTADO DE YUCATÁN
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+### CAPÍTULO IV. DEL COMITÉ SISTEMA PRODUCTO APÍCOLA DEL ESTADO DE YUCATÁN
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 8.
 
-Con el objeto de apoyar a la autoridad estatal en la ejecución de programas tendientes a incrementar la calidad y productividad de la Apicultura, se crea el Consejo Apícola del Estado de Yucatán.
+Con el objeto de apoyar la ejecución de programas tendientes a incrementar la calidad y productividad de la Apicultura, se crea el Comité Sistema Producto Apícola del Estado de Yucatán, el cual tiene como función principal, integrar a los agentes económicos que participan en las diferentes fases del sistema apicola para proponer soluciones de manera conjunta a la problemática apícola.
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 9.
 
-Dicho órgano estará integrado por el titular de la Secretaría de Desarrollo Rural y Pesca, representantes de las delegaciones estatales de la Sagarpa, Secretaría de Economía, Secretaría de la Reforma Agraria, presidente de las Asociaciones de Apicultores de cada una de las zonas apícolas y representantes de los industriales de la miel y otros productos de la colmena y el presidente del Consejo Consultivo para el desarrollo de la Apicultura.
+El Sistema Productivo Apícola del Estado de Yucatán está integrado por uno de cada una de las instituciones siguientes; la delegación estatal de la SAGARPA, de las asociaciones de apicultores, de los proveedores de equipos industriales e insumos apícolas, de los prestadores de servicios apícolas, de los exportadores de miel; de la Facultad de Medicina Veterinaria y Zootecnia de la Universidad Autónoma de Yucatán, de la Dirección Regional de apoyos y Servicios a la comercialización agropecuaria, de la gerencia estatal del Fideicomiso de riesgo compartido, de la Dirección de comercio Internacional de la Secretaria de Desarrollo Industrial y comercial, de la gerencia de Desarrollo Exportador de la representación estatal del Banco Nacional de Comercio exterior, de la residencia estatal de los Fideicomisos Instituidos en relación con la agricultura, de la Presidencia ejecutiva de la Fundación Produce Yucatán A.C, y de la vocalía ejecutiva del Fondo de Apoyo a la Productividad Agropecuaria del Gobierno del Estado de Yucatán.
 
-El Consejo Consultivo para el Desarrollo de la Apicultura, fungirá como órgano asesor técnico, del Consejo Apícola y estará integrado por investigadores destacados en materia apícola, provenientes de las instituciones de educación superior del Estado; tanto el Consejo Apícola como el Consejo Consultivo serán a título honorario.
+Cada representante deberá nombrar a un suplente, en caso de ausencia.
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 10.
 
-La autoridad estatal dictará las medidas que sean necesarias para su instalación y funcionamiento, para lo cual emitirá una convocatoria que permita integrar el Consejo Apícola de acuerdo con lo establecido en la presente ley.
+El Consejo del Sistema Producto Apicola del Estado de Yucatán se reunirá para tratar los siguientes asuntos:
 
-El titular de la Dirección presidirá el Consejo.
+I.- Elaborar el programa rector de la apicultura estatal y darle seguimiento.
+
+II.- Lograr la integración, comunicación y coordinación permanente entre los agentes de la cadena Apícola y con los diferentes niveles de gobierno.
+
+III.- Armonizar la Producción con el consumo, para generar productos apícolas de calidad y competitividad.
+
+IV.- Mejorar el bienestar social y económico de los productos apicolas y demás agentes.
 
 ###### Artículo 11.
 
-El Consejo Apícola se reunirá cuando menos una vez al año o cuando sea convocado por la mitad más uno de sus miembros para tratar los siguientes asuntos:
-
-I.- Estudiar e impulsar toda iniciativa que tienda al fomento, progreso, extensión, afianzamiento e incentivo de la Apicultura;
-
-II.- Sugerir y Coordinar programas de Inspección y reordenación de la actividad apícola de acuerdo a la legislación vigente;
-
-> <small>(F. DE E., D.O. 3 DE AGOSTO DE 2004)</small>
-
-III.- Implementar planes de expansión de la apicultura con organismos regionales oficiales y privados; así como con otras entidades nacionales e internacionales;
-
-> <small>(F. DE E., D.O. 3 DE AGOSTO DE 2004)</small>
-
-IV.- Propiciar la adopción de medidas que permitan la apertura de líneas de crédito a tasas de fomento para los productores apícolas, por medio de bancos oficiales, privados o cualquier otra entidad financiera;
-
-> <small>(F. DE E., D.O. 3 DE AGOSTO DE 2004)</small>
-
-V.- Promover la explotación de la producción apícola por medio de los organismos oficiales competentes;
-
-> <small>(F. DE E., D.O. 3 DE AGOSTO DE 2004)</small>
-
-VI.- Realizar tareas de extensión que contribuyan al mejor conocimiento y perfeccionamiento de la actividad apícola;
-
-> <small>(F. DE E., D.O. 3 DE AGOSTO DE 2004)</small>
-
-VII.- Asesorar a las autoridades estatales respecto a las medidas que se deben de tomar para la difusión y el cumplimiento de la presente ley;
-
-> <small>(F. DE E., D.O. 3 DE AGOSTO DE 2004)</small>
-
-VIII.- Asesorar a la autoridad estatal para la priorización de programas de investigación en el campo de la apicultura;
-
-> <small>(F. DE E., D.O. 3 DE AGOSTO DE 2004)</small>
-
-IX.- Apoyar a la autoridad estatal para la elaboración de los datos estadísticos en materia apícola;
-
-> <small>(F. DE E., D.O. 3 DE AGOSTO DE 2004)</small>
-
-X.- Opinar en las controversias que se susciten entre los apicultores;
-
-> <small>(F. DE E., D.O. 3 DE AGOSTO DE 2004)</small>
-
-XI.- Promover programas que permitan una mejor comercialización de los productos apícolas;
-
-> <small>(F. DE E., D.O. 3 DE AGOSTO DE 2004)</small>
-
-XII.- Propugnar por el establecimiento de programas que incentiven la obtención de abejas de alta selección de especies domésticas, con el objeto de mejorar el material apícola estatal;
-
-> <small>(F. DE E., D.O. 3 DE AGOSTO DE 2004)</small>
-
-XIII.- Impulsar proyectos de investigación que permitan incrementar la producción de miel de las colmenas y la explotación de otros productos de la colmena;
-
-XIV.- Promover y apoyar, en sus respectivas áreas, el desarrollo de la apicultura;
-
-XV.- Colaborar con las autoridades en la elaboración de normas, reglamentos y manuales que se implementen en materia apícola, y
-
-XVI.- En general, participar en la resolución de problemas en materia apícola.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ### CAPÍTULO V. DERECHOS Y OBLIGACIONES DE LOS APICULTORES
 
@@ -309,17 +363,23 @@ XVI.- En general, participar en la resolución de problemas en materia apícola.
 
 Son derechos de los apicultores:
 
-I.- Disfrutar en igualdad de circunstancias de los apoyos que el Gobierno del Estado otorgue sobre apicultura;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+I.- Tener acceso a los apoyos que el Gobierno otorgue a la apicultura;
 
 II.- Formar parte de las Asociaciones de Apicultores de la localidad donde se encuentre instalada su explotación;
 
-III.- Recibir asesorías técnicas por parte de las autoridades federales, estatales y municipales;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+III.- Recibir asesoría técnica por parte de las autoridades estatales y municipales;
 
 IV.- Recibir de la autoridad competente la credencial que lo acredite como apicultor;
 
-V.- Participar de manera directa o indirecta en las decisiones que sobre la materia tome el Consejo Apícola del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-VI.- Recibir en la comercialización de sus productos un precio adecuado a la calidad de los mismos;
+V.- Participar de manera directa o indirecta, en las decisiones que sobre la materia tome el Comité Sistema Producto Apícola del Estado de Yucatán;
+
+VI.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
 VII.- Obtener información veraz y oportuna sobre prácticas y productos permitidos o autorizados por las autoridades para el adecuado manejo de sus colmenas, y
 
@@ -331,27 +391,39 @@ Son obligaciones de los apicultores:
 
 I.- Respetar los derechos de los demás apicultores;
 
-II.- Registrar ante la Dirección la marca que utilizará para señalar e identificar la propiedad de sus colmenas;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+II.- Registrar ante la Secretaría a través de la autoridad municipal competente la marca que utilizará para señalar e identificar la propiedad de sus colmenas;
 
 III.- Respetar el derecho de antigüedad que tengan otros apicultores cuando pretenda establecer nuevos apiarios en la zona;
 
-IV.- Informar a la Dirección la ubicación de sus apiarios, anexando un plano o croquis de su localización;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-V.- Tramitar ante la Dirección el permiso para la instalación de sus apiarios;
+IV.- Informar a la Secretaría a través de a través de (sic) la autoridad municipal competente la ubicación de sus apiarios, anexando un plano o croquis de su localización;
 
-VI.- Tramitar ante la Dirección la licencia para el aprovechamiento de una zona apícola;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-VII.- Notificar a las autoridades competentes más cercanas la sospecha de alguna enfermedad o africanización de sus colmenas, para implementar las medidas necesarias para su combate;
+V.- Tramitar ante la Secretaría, el permiso para la instalación de sus apiarios;
+
+VI.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+VII.- Notificar a las autoridades competentes más cercanas, de la sospecha de alguna enfermedad de sus colmenas, para implementar las medidas necesarias para su combate;
 
 VIII.- Acatar las disposiciones legales, federales o estatales, relativas al control de la actividad apícola;
 
 IX.- Cumplir con las medidas de seguridad que dicten las autoridades competentes, para la protección de las personas y de los animales;
 
-X.- Informar anualmente a la asociación local a la que pertenezca o directamente a la autoridad estatal, del inicio de su ciclo de actividades proporcionando datos estadísticos respecto de su explotación, de acuerdo a lo que establezca el Reglamento, pero que en todo caso deberá contener el número de colmenas, tipos de productos que explota para consumo o comercialización y bitácora sobre su manejo sanitario;
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
-XI.- Permitir las inspecciones que por cuestiones sanitarias dicten las autoridades estatales y federales;
+X.- Informar anualmente a la asociación local a la que pertenezca o de la autoridad municipal competente, del inicio de su ciclo de actividades proporcionando los datos estadísticos respecto de su explotación, de acuerdo a lo que establezca el Reglamento; en todo caso, deberá contener el número de colmenas, tipos de productos que explota para consumo o comercialización y la respectiva bitácora sobre el manejo sanitario;
 
-XII.- Movilizar sus colmenas o núcleos perfectamente cubiertas con mallas o cualquier otro material con la finalidad de proteger a la población civil de una posible salida de abejas. El vehículo deberá portar una leyenda claramente visible que señale que en su interior se transportan colonias de abejas para su fácil identificación, y
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+XI.- Permitir las inspecciones que por cuestiones sanitarias dicten las autoridades federales, estatales y municipales;
+
+XII.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
 XIII.- Las demás que les confiera esta ley y su reglamento.
 
@@ -369,6 +441,10 @@ b) Lugar de ubicación y número de colmenas que desea instalar, acompañando pl
 
 c) Número de Registro de la marca de propiedad.
 
+> <small>(ADICIONADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+La solicitud deberá estar acompañada de la Credencial de Productor, para efectos de identificación.
+
 II.- Acreditar la propiedad del predio donde se instalará el apiario o en su caso, el permiso por escrito del propietario del predio o de quien conforme a la Ley pueda disponer de dicho bien.
 
 > <small>(F. DE E., D.O. 3 DE AGOSTO DE 2004)</small>
@@ -383,9 +459,11 @@ II.- Una distancia de 300 metros de zonas habitadas o centros de reunión.
 
 III.- A 300 metros de caminos vecinales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 16.
 
-La autoridad competente podrá autorizar apiarios a una distancia menor a la señalada en la fracción I del Artículo anterior, tomando en cuenta el número de colonias de la explotación que se vaya a instalar, la extensión y capacidad floral del terreno del solicitante y aledaños y el número de colonias de los apiarios instalados en la zona.
+La autoridad competente podrá autorizar apiarios a una distancia menor a la señalada en la fracción I del artículo anterior, tomando en cuenta el número de colonias de la explotación que se vaya a instalar, la extensión y capacidad floral del terreno del solicitante y demás aledaños; así como, el número de colonias de los apiarios instalados en la región.
 
 En todo caso, solicitará un estudio floral de la región correspondiente.
 
@@ -395,59 +473,71 @@ Antes de autorizar la instalación de nuevos apiarios se escuchará la opinión 
 
 ###### Artículo 18.
 
-Es obligación de los apicultores instalar en la explotación de su propiedad un letrero claramente visible, con una leyenda preventiva y una ilustración sencilla que comunique la misma idea, con la finalidad de proteger a la población civil.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 19.
 
-La Dirección retirará los apiarios que se instalen en contravención a las disposiciones de esta ley y su reglamento, entregándolos a su propietario previo el pago de los gastos, las multas correspondientes y el cumplimiento de los requisitos de instalación.
+La Secretaria retirará los apiarios que se instalen en contravención a las disposiciones de esta ley y su reglamento, entregándolos a su propietario previo el pago de los gastos, las multas correspondientes y el cumplimiento de los requisitos de instalación.
 
 ### CAPÍTULO VII. DEL APROVECHAMIENTO DE LAS ZONAS APÍCOLAS
 
 ###### Artículo 20.
 
-Se declara de utilidad pública e interés social en el Estado, el aprovechamiento de la flora melífera.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 21.
 
-La Dirección levantará y actualizará periódicamente el inventario de la flora melífera en la entidad y en función de ésta, determinará las zonas apícolas que permitan el fomento de la actividad.
+La Secretaría se apoyará por las instituciones competentes y actualizará periódicamente el inventario de las áreas de vegetación del estado y en función de ésta, determinará las zonas apícolas que permitan el fomento de la actividad.
 
 ###### Artículo 22.
 
-Para el mejor control y racional explotación de la flora melífera, la Dirección podrá otorgar licencias de aprovechamiento a los apicultores que instalen apiarios con un mínimo de 60 colmenas.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 23.
 
-El apicultor al obtener la licencia de aprovechamiento adquiere el derecho de exclusividad y preferencia en la zona, la que se circunscribirá dentro de un radio de 3 kilómetros contados a partir del punto de instalación del apiario registrado.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 24.
 
-El derecho de exclusividad y preferencia se perderá si durante dos ciclos apícolas seguidos no se explota la zona que se anota en la licencia de aprovechamiento, cancelándose la vigencia de la misma.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 25.
 
-La Dirección cooperará con las autoridades de otras áreas productivas, principalmente agrícola, para que en épocas de quemas y desmonte se respete una distancia de 400 metros del punto de instalación de las colmenas que permita el pecoreo de las abejas.
+La Secretaría se coordinará con las autoridades de otras áreas productivas, principalmente ganadería y agrícola, para que en las épocas de quemas y en el desmonte se respete una distancia de 400 metros del punto de instalación de las colmenas que permita el pecoreo de las abejas.
 
 ### CAPÍTULO VIII. DE LA MARCA Y PROPIEDAD DE LAS COLMENAS
 
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 26.
 
-Todo apicultor que opere dentro del Estado tiene la obligación de identificar la propiedad de sus colmenas marcándolas al frente, mediante fierro caliente u otro material, de tal forma que sea visible cuando menos a una distancia de dos metros.
+Todo apicultor que opere dentro del Estado, tiene la obligación de identificar sus colmenas, marcándolas al frente, mediante fierro caliente; la marca se ajustara al tamaño de 16 centímetros de largo por 2 centímetros de ancho, conteniendo nueve dígitos distribuidos de la siguiente manera: dos dígitos, guión, tres dígitos, guión, cuatro dígitos, de tal forma que sea visible cuando menos a una distancia de dos metros.
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 27.
 
-Es obligación de todo apicultor registrar su marca ante la Dirección y revalidarla en los años terminados en cero y cinco.
+Es obligación de todo apicultor revalidar su marca en los años con terminación en cero y cinco ante la Secretaría, a través de la autoridad municipal competente.
 
 ###### Artículo 28.
 
-La autoridad estatal se reserva el derecho de no registrar una marca de fácil alteración, igual o semejante a otra ya registrada con anterioridad, solicitando al interesado y brindándole su ayuda para su modificación.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 29.
 
 Se prohibe el uso de marcas no registradas o el uso de otra que no sea de su propiedad, sujetándose al infractor a las sanciones correspondientes.
 
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 30.
 
-El apicultor que adquiera colmenas o material apícola marcado, pondrá su fierro o marca a un lado de la del vendedor, sin borrarla, y conservará las facturas que correspondan a la operación comercial correspondiente.
+El apicultor que adquiera colmenas o material apícola marcado, pondrá su fierro o marca a un lado de la del vendedor, sin borrarla, y conservará el documento comprobatorio o factura que correspondan a la operación comercial.
 
 ###### Artículo 31.
 
@@ -455,9 +545,11 @@ Las colmenas remarcadas o alteradas en sus marcas, se consideran robadas y el in
 
 ### CAPÍTULO IX. DE LA PROTECCIÓN APÍCOLA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 32.
 
-La Dirección, en coordinación con el Consejo Apícola, establecerán programas permanentes para la introducción y cría de reinas de razas puras europeas como medida para controlar la africanización.
+La Secretaría, en coordinación con el Comité Sistema Producto Apícola, establecerá los programas permanentes para la cría de abejas reinas seleccionadas.
 
 Asimismo, se promoverán programas que tiendan al cambio de colmenas rústicas a modernas.
 
@@ -465,15 +557,17 @@ Asimismo, se promoverán programas que tiendan al cambio de colmenas rústicas a
 
 La captura y destrucción de los enjambres se realizará exclusivamente por personal autorizado por las autoridades correspondientes, ajustando su labor en todo momento a las normas oficiales que para tal efecto se establezcan.
 
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 34.
 
-Cuando un agricultor, ganadero o dueño de una propiedad tenga la necesidad de aplicar productos agroquímicos, estará obligado de dar aviso de este hecho y del producto que vaya a utilizar, a los apicultores instalados dentro de un radio de acción de tres kilómetros, que puedan verse afectados con dichos productos.
+Cuando un agricultor, ganadero o dueño de una propiedad tenga la necesidad de aplicar productos agroquímicos, estará obligado a dar aviso de este hecho y hora de aplicación, a los apicultores instalados dentro de un radio de acción de tres kilómetros.
 
-Será también obligatorio dar este aviso a la Asociación de Apicultores del lugar en un término no menor de 72 horas.
+Será también obligatorio dar este aviso a la autoridad Municipal correspondiente y a la Asociación de Apicultores del lugar, en un término no menor de 72 horas.
 
 ###### Artículo 35.
 
-Las autoridades prestarán su ayuda para que cada vez que se requiera aplicar algún plaguicida se haga uso de aspersiones líquidas, con la finalidad de proteger a las abejas de envenenamiento.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 36.
 
@@ -485,9 +579,11 @@ Con la finalidad de proteger a la actividad, se prohibe la introducción al Esta
 
 ### CAPÍTULO X. DE LA INSPECCIÓN APÍCOLA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 38.
 
-Con el objeto de vigilar que se cumplan las normas de sanidad e higiene y de aspectos zootécnicos la Dirección practicará periódicamente las inspecciones en los apiarios y centros de acopio y beneficio prestando especial interés de que los medicamentos que se utilizan para el manejo de las colmenas no sean catalogados como prohibidos.
+Con el objeto de vigilar que se cumplan las normas de sanidad e higiene y de aspectos zootécnicos, la Secretaría cooperará con las instituciones competentes en las inspecciones de los apiarios y centros de acopio y centros de servicio o mieleras; verificando que de que (sic) estén autorizados los medicamentos que se utilizan, para el manejo de las colonias.
 
 Las inspecciones abarcarán también las movilizaciones de los productos de las empresas que industrialicen la miel y otros productos de la colmena.
 
@@ -495,13 +591,17 @@ Las inspecciones abarcarán también las movilizaciones de los productos de las 
 
 Los propietarios, poseedores o encargados de los establecimientos descritos en el Artículo anterior están obligados a prestar toda la ayuda posible a los inspectores, siempre y cuando estos se identifiquen plenamente a través de un documento oficial debidamente firmado y sellado.
 
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 40.
 
-Las inspecciones a que hace mención el Artículo 38 podrá efectuarse en el lugar de los apiarios, durante la movilización de las colmenas y sus productos, en las bodegas, plantas de extracción, sedimentación y envasado.
+Las inspecciones a que hace mención el Artículo 38 podrán efectuarse en el lugar de los apiarios, bodegas, plantas de extracción, sedimentación y envasado.
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 41.
 
-La Dirección designará a los inspectores que sean necesarios para el cumplimiento de esta ley.
+La Secretaría solicitará a las autoridades competentes, inspectores para el cumplimiento de esta ley.
 
 ###### Artículo 42.
 
@@ -511,139 +611,119 @@ I.- Ordinarias: Aquellas que la autoridad programa en su plan anual de trabajo.
 
 II.- Extraordinarias: Aquellas que dicta la autoridad y que no están contemplados en su plan anual de trabajo, pero que en todo caso deberán estar debidamente motivadas y fundamentadas.
 
-III.- Especiales: Las que dicta la autoridad para verificar la posible aparición de un brote de enfermedades zoosanitarias.
+III.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 43.
 
-Los Inspectores en el cumplimiento de su actividad tienen las siguientes facultades:
-
-I.- Revisar las colmenas en tránsito para verificar la legítima propiedad del apicultor;
-
-II.- Exigir el certificado zoosanitario de acuerdo a la Ley Federal de Sanidad Animal y de las campañas sanitarias que se realicen en el Estado;
-
-III.- Verificar que las movilizaciones de material apícola se realicen de acuerdo a la fracción XII del Artículo 13 de esta ley;
-
-IV.- Verificar que los productos apícolas en tránsito sean los mismos que se señalan en la guía de tránsito que se expida para tal efecto y que los envases cuenten con los sellos necesarios que aseguren que el producto llegará a su destino final con las mismas características físicas y químicas, y
-
-V.- En general, vigilar el cumplimiento de las disposiciones de esta ley.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 44.
 
-Está estrictamente prohibido a los inspectores:
-
-I.- Recibir cualquier tipo de gratificación en razón de su función.
-
-II.- Coaccionar a los apicultores o a quienes se dediquen a esta actividad para que se les proporcione productos a cambio de algún beneficio.
-
-III.- Extralimitarse de las facultades señaladas en el Artículo anterior. El incumplimiento de estas fracciones provocará que el inspector se haga acreedor a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ### CAPÍTULO XI. DE LOS SERVICIOS DE POLINIZACIÓN
 
 ###### Artículo 45.
 
-Todos los servicios de polinización se realizarán con apego a un contrato de servicios, el cual deberá de contener: nombre de los contratantes, el costo del servicio, fecha de inicio y terminación del servicio, el número de colmenas que se utilizarán, tipo de abejas y las demás condiciones que pacten las partes.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 46.
 
-Los Apicultores de otras entidades que presten sus servicios de polinización en el Estado, tendrán la obligación de respetar lo dispuesto en la presente ley.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 47.
 
-Cuando la prestación del servicio de polinización se efectúe en predios comprendidos dentro de una zona apícola con licencia de aprovechamiento, el apicultor titular no podrá oponerse al servicio.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 48.
 
-La instalación de las colmenas para la prestación del servicio de polinización quedará exento de lo dispuesto en el Artículo 15 de la presente ley.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ### CAPÍTULO XII. DE LA ORGANIZACIÓN DE LOS APICULTORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 49.
 
-Los apicultores promoverán con el apoyo de la Dirección, la integración de organismos, asociaciones y uniones, que les permita hacer frente a su problemática común y atender su desarrollo y tecnificación.
+En lo relativo a las bases y procedimientos para la constitución y funcionamiento de los organismos o asociaciones de apicultores, que se integren para la protección de los intereses de sus miembros; así como los criterios que sustentan el desarrollo y mejoramiento de los procesos productivos y comercialización de los productos apicolas, se estará a lo dispuesto en la Ley de Organizaciones Ganaderas y su reglamento.
 
 Cada municipio podrá contar con una asociación, misma que se agrupará con las demás de la zona a la que corresponda para formar uniones.
 
 ###### Artículo 50.
 
-Los organismos o asociaciones de apicultores tendrán personalidad jurídica propia, podrá ser con o sin fines de lucro y gozarán de la representatividad ante las autoridades de la materia para la defensa y protección de sus agremiados.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 51.
 
-No podrá estar al frente de una asociación de apicultores, aquellos sobre los cuales haya recaído sentencia ejecutoria como autor o copartícipe de delitos patrimoniales.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 52.
 
-Las asociaciones emitirán su opinión sobre la instalación de apiarios conforme a lo dispuesto en el Artículo 17 de la presente ley.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 53.
 
-Es obligación de las asociaciones colaborar con las autoridades estatales para el levantamiento y actualización del inventario de la flora melífera de la Entidad.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 54.
 
-El objetivo principal de las asociaciones es la de velar por la preservación y el cuidado de los apiarios de sus agremiados para lo cual mantendrán contacto permanente con las autoridades para obtener información oportuna que pueda ser útil para el cumplimiento de su labor.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 55.
 
-Además de lo dispuesto en los artículos anteriores las asociaciones tendrán las siguientes facultades y obligaciones:
-
-I.- Conservar y fomentar la actividad apícola.
-
-II.- Promover campañas de difusión en los medios masivos de comunicación que pugne por el incremento del consumo de la miel, el combate contra las plagas o enfermedades de las abejas y el mejoramiento técnico de la actividad.
-
-III.- Participar en la elaboración de las políticas y programas de protección y de fomento a la producción apícola en el Estado.
-
-IV.- Tener representatividad dentro del Consejo Apícola a través de la unión de la zona que comprenda a su municipio.
-
-V.- Establecer relación con asociaciones de otras actividades pecuarias que pugnen por el establecimiento de programas complementarios.
-
-VI.- Avisar oportunamente a sus agremiados cuando se presente el caso previsto en el Artículo 34 de esta ley.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ### CAPÍTULO XIII. DE LA CALIDAD DE LOS PRODUCTOS
 
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 56.
 
-La Dirección establecerá controles de calidad e higiene en apiarios, centros de acopio y en empresas de semi industrialización e industrialización de la miel y de otros productos de la colmena, ya sea de manera directa o a través de convenios con las autoridades federales competentes.
+La Secretaría cooperará con las entidades, cuya competencia sea mantener los controles de calidad e higiene en los apiarios, los centros de acopio y en las empresas de semi industrialización e industrialización de la miel y de otros productos de la colmena, ya sea de manera directa o indirecta, a través de convenios con las autoridades federales competentes.
 
 ###### Artículo 57.
 
-Es obligación de los apicultores observar lo dispuesto por las Normas Oficiales Mexicanas, relativas al manejo de los apiarios y de abstenerse al uso de medicamentos u otros productos que alteren la composición química y física de la miel y demás productos de la colmena.
-
-En todo caso, las autoridades correspondientes brindarán las facilidades necesarias para que los apicultores obtengan la información necesaria al respecto.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 58.
 
-Con la finalidad de establecer controles de calidad que permitan validar los análisis sobre la calidad de la miel, la Dirección llevará un registro de los laboratorios que se dediquen a la certificación de productos apícolas en el Estado.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 59.
 
-La Dirección, apoyará en la medida de sus posibilidades presupuestarias, proyectos de investigación que permitan elevar la calidad de la miel y de otros productos de la colmena.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 60.
 
-La Dirección, fomentará entre los productores la explotación de apiarios para producir miel orgánica.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 61.
 
-Los apicultores y centros de acopio incurrirán en delito y se harán acreedores a las sanciones previstas en las leyes de la materia, cuando comercialicen la miel mezclada con otros productos alimenticios como si fuera pura, sin comunicárselo previamente al comprador.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 62.
 
-Con el objeto de incentivar la producción de miel de calidad, el Ejecutivo del Estado fijará precios de garantía de la miel, de acuerdo a su grado de humedad y a los parámetros de calidad internacionales.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ### CAPÍTULO XIV. DE LAS SANCIONES
 
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO XV. DE LOS RECURSOS DE INCONFORMIDAD Y DE QUEJA
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 63.
 
-Las violaciones a los preceptos de esta ley y su Reglamento, constituyen infracciones que serán sancionados administrativamente por la Secretaría de Desarrollo Rural y Pesca del Gobierno del Estado, a través de los reportes que emitan los inspectores acreditados por la Dirección, sin perjuicio de que consigne a los responsables ante las autoridades competentes, si el acto u omisión implica la comisión de algún delito.
+Las violaciones a los preceptos de esta ley y su Reglamento, constituyen infracciones que serán sancionados administrativamente por la Secretaría, sin perjuicio de que consigne a los responsables ante las autoridades competentes, si el acto u omisión implica la comisión de algún delito.
 
 ###### Artículo 64.
 
 Se impondrán multas de 10 a 50 salarios mínimos vigentes en la zona a quienes:
 
-I.- No cumplan con lo dispuesto al Artículo 13, fracciones V, VI, VII, VIII y X.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
+I.- No cumplan con lo dispuesto al Artículo 13, fracciones V, VII, VIII y X.
 
 II.- No marquen sus colmenas o no se ajusten a lo previsto en el Artículo 26.
 
@@ -661,77 +741,63 @@ II.- No respeten los apiarios técnicos existentes en cualquier región del Esta
 
 III.- No cumplan con las medidas de seguridad que dicten las autoridades competentes para la protección de las personas y animales.
 
-IV.- Movilicen sus colmenas y núcleos sin cumplir con lo dispuesto en la fracción XII del Artículo 13.
+IV.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
 V.- Instalen sus apiarios sin observar las distancias previstas en el Artículo 15.
 
 VI.- Usen una marca no registrada o que no sea de su propiedad.
 
-VII.- Transporten productos de la colmena sin la guía sanitaria correspondiente.
+VII.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
-VIII.- Vendan o utilicen en sus colmenas productos farmacéuticos no permitidos.
+VIII.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
 IX.- Utilicen agroquímicos tóxicos para las abejas en contravención con lo dispuesto en el Artículo 34.
 
 X.- Contravengan lo dispuesto en el Artículo 37 de esta ley.
 
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 66.
 
-El monto de las sanciones mencionadas en los artículos anteriores se apegará al dictamen que emita el personal técnico de la Secretaría de Desarrollo Rural y Pesca, tomando en cuenta las circunstancias atenuantes y agravantes del caso y la situación económica del infractor.
+El monto de las sanciones mencionadas en los artículos anteriores, se apegará al dictamen que emita el personal técnico de la Secretaría, tomando en cuenta las circunstancias, los atenuantes y agravantes del caso, así como, la situación económica del infractor.
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 67.
 
-Una vez fijado el monto de las multas y desahogados los recursos de inconformidad, la Secretaría de Desarrollo Rural y Pesca solicitará a la Secretaría de Hacienda del Estado su recaudación correspondiente, de conformidad con los procedimientos que ésta determine.
+Una vez fijado el monto de las multas y desahogados los recursos de inconformidad, la Secretaría solicitará a la Secretaría de Hacienda del Estado la recaudación correspondiente, de conformidad con los procedimientos que ésta determine.
 
 ###### Artículo 68.
 
-Las multas y resoluciones impuestas o dictadas con fundamento en esta ley podrán ser recurridas conforme a las disposiciones de este Capítulo.
+Contra las resoluciones emitidas por la Secretaria con motivo de la aplicación de la presente Ley, proceden los términos de la Ley de lo Contencioso Administrativo del Estado de Yucatán.
 
 ###### Artículo 69.
 
-Los recursos serán:
-
-I.- De inconformidad, que se ejercitará ante la Secretaría de Desarrollo Rural y Pesca, dentro de los 15 días hábiles siguientes a su notificación.
-
-II.- De queja, que se interpondrá directamente ante el Ejecutivo del Estado.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 70.
 
-La interposición del escrito se hará por escrito ante la Secretaría de Desarrollo Rural y Pesca, expresando:
-
-I.- El nombre y domicilio del recurrente y, en su caso, el de la persona que promueva en su nombre y representación, acreditando debidamente la personalidad con que comparece;
-
-II.- El acto o resolución que se impugna;
-
-III.- Los agravios que a juicio del recurrente, le causen la resolución o el acto impugnado, y
-
-IV.- Los documentos que ofrezca como pruebas.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 71.
 
-Al recibir el recurso, la autoridad verificará si éste fue interpuesto dentro del término legal y cubiertos los requisitos para tal efecto, admitiendo a trámite o rechazándolo, según sea el caso.
-
-Si lo admite, se desahogarán las pruebas que procedan en un plazo no mayor de diez días hábiles contados a partir del día hábil de la notificación del proveído de admisión. Una vez desahogadas las pruebas o vencido el término probatorio, la autoridad resolverá en definitiva lo conducente, dentro de los quince días hábiles siguientes.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 72.
 
-El recurso de queja sólo procederá si se interpone dentro de las 72 horas siguientes a la notificación de la resolución dictada por la autoridad en el recurso de inconformidad o su negativa por admitir dicho recurso, acompañando a su escrito dicha notificación.
-
-No se admitirán pruebas que ya hayan sido desahogadas en el recurso de inconformidad.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 73.
 
-Al recibir el recurso de queja, la autoridad estatal, verificará si éste fue interpuesto dentro del término legal y cubiertos los requisitos que se señalan para tal efecto, admitiendo a trámite o rechazándolo.
-
-Si lo admite, desahogará las pruebas que procedan en un plazo no mayor de diez días hábiles contados a partir del día hábil siguiente de la notificación del proveído de admisión. Una vez desahogadas las pruebas o vencido el término probatorio, la autoridad estatal resolverá en definitiva lo conducente, en un término no mayor a quince días hábiles.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 74.
 
-La interposición de los recursos suspenderá la ejecución de la resolución que se impugnó. Tratándose de multas procederá la suspensión, siempre que se garantice su importe ante la oficina recaudadora correspondiente, mediante depósito por igual cantidad o fianza de compañía autorizada.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 ###### Artículo 75.
 
-Contra las resoluciones que dicte el Ejecutivo del Estado y el Comité Estatal de Sanidad Animal, en caso de epidemias y desastres naturales, siempre que se trate de proteger el interés general, el del Estado y el de la Nación, no procederá recurso alguno.
+(DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
 TRANSITORIOS:
 
@@ -764,3 +830,23 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 5 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos que hasta la entrada en vigor del presente Decreto se encuentren en trámite, se resolverán de acuerdo a lo dispuesto por el Capítulo XV de la Ley de Protección y Fomento Apícola del Estado de Yucatán, hasta entonces vigente.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado deberá expedir las reformas al Reglamento de la Ley en un término que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
