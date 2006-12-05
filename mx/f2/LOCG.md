@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2006-09-13"
+last_updated: "2006-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -552,133 +552,137 @@ VI. Cultura;
 
 VII. Defensa Nacional;
 
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2006)</small>
+
+VIII. Derechos Humanos;
+
 > <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-VIII. Desarrollo Metropolitano;
+IX. Desarrollo Metropolitano;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-IX. Desarrollo Rural;
+X. Desarrollo Rural;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-X. Desarrollo Social;
+XI. Desarrollo Social;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XI. Economía;
+XII. Economía;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XII. Educación Pública y Servicios Educativos;
+XIII. Educación Pública y Servicios Educativos;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XIII. Energía;
+XIV. Energía;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XIV. Equidad y Género;
+XV. Equidad y Género;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XV. Fomento Cooperativo y Economía Social;
+XVI. Fomento Cooperativo y Economía Social;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XVI. Fortalecimiento al Federalismo;
+XVII. Fortalecimiento al Federalismo;
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2006)</small>
 
-XVII. Función Pública;
+XVIII. Función Pública;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XVIII. Gobernación;
+XIX. Gobernación;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XIX. Hacienda y Crédito Público;
+XX. Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2006)</small>
+
+XXI. Justicia;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XX. Justicia y Derechos Humanos;
+XXII. Juventud y Deporte;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXI. Juventud y Deporte;
+XXIII. Marina;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXII. Marina;
+XXIV Medio Ambiente y Recursos Naturales;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXIII. Medio Ambiente y Recursos Naturales;
+XXV. Participación Ciudadana;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXIV. Participación Ciudadana;
+XXVI. Pesca;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXV. Pesca;
+XXVII. Población, Fronteras y Asuntos Migratorios;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXVI. Población, Fronteras y Asuntos Migratorios;
+XXVIII. Presupuesto y Cuenta Pública;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXVII. Presupuesto y Cuenta Pública;
+XXIX. Puntos Constitucionales;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXVIII. Puntos Constitucionales;
+XXX. Radio, Televisión y Cinematografía;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XIX. Radio, Televisión y Cinematografía;
+XXXI. Recursos Hidráulicos;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXX. Recursos Hidráulicos;
+XXXII. Reforma Agraria;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXI. Reforma Agraria;
+XXXIII. Relaciones Exteriores;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXII. Relaciones Exteriores;
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXXIII. Salud;
+XXXIV. Salud;
 
 > <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXIV. Seguridad Pública;
+XXXV. Seguridad Pública;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXV. Seguridad Social;
+XXXVI. Seguridad Social;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXVI. Trabajo y Previsión Social;
+XXXVII. Trabajo y Previsión Social;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXVII. Transportes;
+XXXVIII. Transportes;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXVIII. Turismo; y
+XXXIX. Turismo; y
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXIX. Vivienda.
+XL. Vivienda.
 
 3. Las comisiones ordinarias establecidas en el párrafo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio conforme a lo dispuesto por el párrafo primero del artículo 93 constitucional, y su competencia se corresponde en lo general con las otorgadas a las dependencias y entidades de la Administración Pública Federal.
 
@@ -722,15 +726,19 @@ c) Impulsar y realizar los estudios que versen sobre disposiciones normativas, r
 
 1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la legislatura, tendrán hasta treinta miembros y el encargo de sus integrantes será por el término de la misma. Los diputados podrán pertenecer hasta tres de ellas; para estos efectos, no se computará la pertenencia a las comisiones jurisdiccional y las de investigación.
 
-2. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en la Cámara y formulará las propuestas correspondientes, con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las comisiones.
+> <small>(ADICIONADO, D.O.F. 5 DE DICIEMBRE DE 2006)</small>
 
-3. Al proponer la integración de las comisiones, la Junta postulará también a los diputados que deban presidirlas y fungir como secretarios. Al hacerlo, cuidará que su propuesta incorpore a los diputados pertenecientes a los distintos Grupos Parlamentarios, de tal suerte que se refleje la proporción que representen en el Pleno, y tome en cuenta los antecedentes y la experiencia legislativa de los diputados.
+2. Las comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública, podrán tener más de treinta miembros; se incrementarán para incorporar a un diputado de cada grupo parlamentario que no haya alcanzado a integrarse en razón de su proporción, y el número que sea necesario para que los demás grupos no pierdan su representación proporcional en ellas.
 
-4. En caso de que la dimensión de algún Grupo Parlamentario no permita la participación de sus integrantes como miembros de la totalidad de las comisiones, se dará preferencia a su inclusión en las que solicite el Coordinador del Grupo correspondiente.
+3. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en la Cámara y formulará las propuestas correspondientes, con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las comisiones.
 
-5. Si un diputado se separa del Grupo Parlamentario al que pertenecía en el momento de conformarse las comisiones, el Coordinador del propio Grupo podrá solicitar su sustitución.
+4. Al proponer la integración de las comisiones, la Junta postulará también a los diputados que deban presidirlas y fungir como secretarios. Al hacerlo, cuidará que su propuesta incorpore a los diputados pertenecientes a los distintos Grupos Parlamentarios, de tal suerte que se refleje la proporción que representen en el Pleno, y tome en cuenta los antecedentes y la experiencia legislativa de los diputados.
 
-6. Los integrantes de la Mesa Directiva de la Cámara no formarán parte de las comisiones.
+5. En caso de que la dimensión de algún Grupo Parlamentario no permita la participación de sus integrantes como miembros de la totalidad de las comisiones, se dará preferencia a su inclusión en las que solicite el Coordinador del Grupo correspondiente.
+
+6. Si un diputado se separa del Grupo Parlamentario al que pertenecía en el momento de conformarse las comisiones, el Coordinador del propio Grupo podrá solicitar su sustitución.
+
+7. Los integrantes de la Mesa Directiva de la Cámara no formarán parte de las comisiones.
 
 #### Sección Tercera. Disposiciones Complementarias
 
@@ -2031,3 +2039,11 @@ D.O.F. 13 DE SEPTIEMBRE DE 2006.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo.- La adecuación respecto de la integración de la Mesa Directiva en los términos previstos en el artículo 17 que se reforma por virtud del presente decreto, deberá quedar cumplimentada en la sesión ordinaria inmediata siguiente a la fecha de entrada en vigor del presente decreto.
+
+D.O.F. 5 DE DICIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- La Mesa Directiva de la Cámara de Diputados, resolverá el turno de los asuntos pendientes de la actual Comisión de Justicia y Derechos Humanos, a efecto de determinar la competencia de las nuevas comisiones de Justicia y de Derechos Humanos, en un término que no exceda de 30 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- Las comisiones de Gobernación y de Justicia de la Cámara de Diputados, serán los órganos competentes para sustanciar los asuntos en términos de los artículos 10, 11 y 12 de la Ley Federal de Responsabilidades de los Servidores Públicos.
