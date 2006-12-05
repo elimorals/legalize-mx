@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2006-11-01"
+last_updated: "2006-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -279,9 +279,9 @@ VIII. A respetar y cuidar el patrimonio natural del Estado y hacer uso de los re
 
 A nadie podrá obligársele a que pague una contribución que no haya sido previamente decretada por el Congreso.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2006)</small>
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permitirá hasta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Ministerial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará hasta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -879,7 +879,7 @@ e).- La obligación de restaurar los daños ocasionados al medio ambiente y al e
 
 XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el Supremo Tribunal de Justicia, sólo cuando tengan carácter puramente administrativo;
 
-XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo;
+XLVII.- Dictar leyes tendentes a combatir con la mayor energía el alcoholismo;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -921,7 +921,7 @@ LVII. Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencios
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
 
-LVIII.- Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado; y
+LVIII. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado; y
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
 
@@ -1667,7 +1667,7 @@ Los Magistrados solo podrán ser removidos de su encargo por el Congreso del Est
 
 Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
 
 I.- Ser ciudadano en pleno ejercicio de sus derechos políticos y civiles; mexicano por nacimiento; nativo del Estado o con residencia en el mismo por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación, salvo el caso de ausencia en cumplimiento de un servicio público;
 
@@ -2587,7 +2587,7 @@ P.O. 27 DE MARZO DE 1943.
 
 ###### Artículo 1º.
 
-Se abroga el Decreto 223 de fecha 13 de enero de 1942.
+Se abroga el Decreto 223 de fecha 13 e enero de 1942.
 
 ###### Artículo 2º.
 
@@ -2879,7 +2879,7 @@ P.O. 31 DE DICIEMBRE DE 1983.
 
 PRIMERO.- El presente Decreto entrará en vigor el día 1o. de enero de 1984.
 
-SEGUNDO.- Los servicios públicos que actualmente presta el Estado y deban pasar al Municipio en los términos del Artículo 132, fracción XV, se trasladarán gradualmente conforme lo autorice la ley y lo permita la capacidad técnica, administrativa y financiera de los Municipios, conviniendo éstos con el Gobierno del Estado la mejor forma de prestarlos entre tanto se les trasladan íntegramente.
+SEGUNDO.- Los servicios públicos que actualmente presta el Estado y deban pasar al Municipio en los términos del Articulo 132, fracción XV, se trasladarán gradualmente conforme lo autorice la ley y lo permita la capacidad técnica, administrativa y financiera de los Municipios, conviniendo éstos con el Gobierno del Estado la mejor forma de prestarlos entre tanto se les trasladan íntegramente.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -3273,35 +3273,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 Las reformas y adecuaciones a la legislación estatal vigente, derivadas de la presente reforma, deberán expedirse dentro de los 120 días siguientes a la entrada en vigor del presente Decreto.
 
-###### ARTICULO UNICO.
+P.O. 5 DE DICIEMBRE DE 2006.
 
-La presente reforma y adición a la Constitución Política de los Estados Unidos Mexicanos entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+###### ARTÍCULO ÚNICO.
 
-D.O.F. 11 DE MAYO DE 1988.
-
-UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 6 DE ABRIL DE 1990.
-
-PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- En tanto no se establezca el servicio del Registro Nacional Ciudadano, los ciudadanos deberán inscribirse en los padrones electorales.
-
-TERCERO.- Los diputados electos a la LIV Legislatura del Congreso de la Unión durarán en sus funciones hasta el 31 de octubre de 1991.
-
-CUARTO.- Los senadores electos por tres años a la LIV Legislatura durarán en su cargo hasta el 31 de octubre de 1991. Los senadores electos por seis años a las LIV y LV Legislaturas del Congreso de la Unión durarán en funciones hasta el 31 de octubre de 1994.
-
-QUINTO.- La Comisión Permanente se integra con 37 miembros en los términos del Artículo 78 de esta Constitución a partir del primer receso de la LIV Legislatura al H. Congreso de la Unión.
-
-SEXTO.- En tanto se expida por el Congreso de la Unión la nueva ley reglamentaria en materia electoral, seguirá en vigor el Código Federal Electoral.
-
-D.O.F. 27 DE JUNIO DE 1990.
-
-Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Artículo Segundo.- En tanto se expiden las nuevas normas aplicables, las instituciones de banca y crédito y las sucursales en México de bancos extranjeros que cuenten con concesión del Gobierno Federal continuarán rigiéndose por las disposiciones legales y reglamentarias vigentes.
-
-D.O.F. 6 DE ENERO DE 1992.
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
