@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2006-10-18"
+last_updated: "2006-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 ---
 # CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
+CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -3625,7 +3625,9 @@ XVII. CONSEJO: Consejo Estatal de Protección Civil;
 
 XVIII. EMERGENCIA: Evento repentino, imprevisto, violento o descontrolado, que implica tomar medidas inmediatas de prevención, protección y control para prevenir o minimizar sus daños y demás consecuencias;
 
-XIX. EVALUACIÓN: Medidas de seguridad por alejamiento de la población de la zona de peligro, en la cual debe preverse la colaboración de la población civil, de manera individual o en grupos. El programa, en procedimiento de evaluación debe considerar, entre otros aspectos, el desarrollo de las misiones de salvamento, socorro y asistencia social; los medios, los itinerarios y las zonas de concentración y destino, la documentación del transporte para los niños; las instrucciones sobre el equipo familiar, además del esquema de regreso a sus hogares, una vez superada la situación de emergencia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+XIX. EVACUACIÓN: Medidas de seguridad por alejamiento de la población de la zona de peligro, en la cual debe preverse la colaboración de la población civil, de manera individual o en grupos. El programa, en procedimiento de evaluación debe considerar, entre otros aspectos, el desarrollo de las misiones de salvamento, socorro y asistencia social: los medios, los itinerarios y las zonas de concentración y destino, la documentación del transporte para los niños; las instrucciones sobre el equipo familiar, además del esquema de regreso a sus hogares, una vez superada la situación de emergencia;
 
 XX. DAMNIFICADOS: Personas que han sufrido daño en sus bienes o en torno por el efecto de algún agente perturbador;
 
@@ -3693,7 +3695,9 @@ LI. TÉRMINOS DE REFERENCIA: Guía técnica para la elaboración de los programa
 
 LII. UNIDAD OPERATIVA ESTATAL: La que integra, coordina y ejecuta las tareas del Sistema Nacional de Protección Civil, del Sistema Estatal de Protección Civil, del Consejo Estatal de Protección Civil, y coordina todas las acciones de protección civil municipal;
 
-LIII. UNIDAD OPERATIVA MUNICIPAL: Es la que formando parte del Sistema Municipal de Protección Civil, integra, coordina y ejecuta las tareas del Sistema Nacional de Protección Civil, Sistema Estatal de Protección Civil y del Consejo Municipal de Protección Civil; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+LIII. UNIDAD OPERATIVA MUNICIPAL DE PROTECCIÓN CIVIL (UOMPROCI): Es la que formando parte del Sistema Municipal de Protección Civil, integra, coordina y ejecuta las tareas del Sistema Nacional de Protección Civil. Sistema Estatal de Protección Civil y del Consejo Municipal de Protección Civil; y
 
 LIV. VULNERABILIDAD: Probabilidad de sufrir un daño, grado de pérdida (de 0% a 100%) como resultado de un fenómeno destructivo sobre las personas, bienes, servicios y entorno.
 
@@ -3707,9 +3711,15 @@ II. Cooperar con las autoridades correspondientes para programar las acciones a 
 
 III. Colaborar con las autoridades del Estado y del Municipio para el debido cumplimiento del Programa Municipal de Protección Civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 382.
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado para ello con la asesoría técnicas (sic) de la Unidad Operativa Municipal.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+Los Planes y Programas internos de Protección Civil tendrán vigencia de un año, debiendo actualizarlos a su vencimiento.
 
 ###### Artículo 383.
 
@@ -3721,9 +3731,11 @@ En las acciones de protección civil, los medios informativos y de comunicación
 
 DE LAS ATRIBUCIONES EN MATERIA DE PROTECCIÓN CIVIL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 385.
 
-Corresponde al Honorable Ayuntamiento a través de la Unidad Operativa Municipal, las siguientes atribuciones:
+Corresponde al Honorable Ayuntamiento a través de la Unidad Operativa Municipal de Protección Civil, las siguientes atribuciones:
 
 I. Elaborar, difundir y ejecutar el programa municipal;
 
@@ -3751,6 +3763,10 @@ XII. Adoptar y ejecutar las medidas de seguridad y protección que en este orden
 
 XIII. Las demás que le confieren la Ley, su Reglamento y los demás ordenamientos aplicables.
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+XIV. Verificar el cumplimiento y aplicación de los planes de contingencias y programas internos de Protección Civil, aprobados por la Unidad Operativa Municipal de Protección Civil.
+
 ###### Artículo 386.
 
 Corresponde a la Secretaría de Gobernación Municipal, además de las contempladas en este Capítulo, las siguientes atribuciones:
@@ -3763,7 +3779,7 @@ III. Integrar el inventario de recursos humanos y materiales existentes y dispon
 
 IV. Llevar el registro de organizaciones de protección civil; y
 
-V. Conocer de los recursos administrativos que se promuevan en contra de las resoluciones adoptadas por la Unidad Operativa Municipal de Protección Civil, en los términos previstos por este Capítulo y demás disposiciones que sean aplicables.
+V. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2006)
 
 ###### Artículo 387.
 
@@ -3771,7 +3787,9 @@ Corresponde al Municipio:
 
 I. Establecer el Consejo Municipal de Protección Civil, de acuerdo con lo estipulado en el presente Capítulo y las demás disposiciones del Programa Municipal de Protección Civil;
 
-II. Instalar y hacer funcionar su Unidad Operativa Municipal de acuerdo a los lineamientos del Programa Municipal; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+II. Instalar y hacer funcionar su Unidad Operativa Municipal de Protección Civil, de acuerdo a los lineamientos del Programa Municipal; y
 
 III. Aprobar y vigilar el cumplimiento del Programa Municipal de Protección Civil de conformidad con los lineamientos del Programa Estatal.
 
@@ -3789,9 +3807,11 @@ Corresponde al Presidente Municipal promover, y coordinar, en su caso, las accio
 
 El Sistema Municipal se constituirá a semejanza del Sistema Estatal, con el objeto de organizar el primer nivel de prevención y respuesta, ante la eventualidad de una situación de emergencia en sus respectivos ámbitos, pudiendo establecer modelos alternativos de protección civil, acorde a las características del Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 391.
 
-La estructura y operación del Sistema Municipal serán determinados por el Honorable Ayuntamiento, en términos del artículo 21 de la Ley del Sistema Estatal de Protección Civil, pero en todo caso estará integrado por:
+La Estructura y operación del Sistema Municipal, serán determinadas por el Honorable Ayuntamiento, en términos del artículo 28 de la Ley del Sistema Estatal de Protección Civil, pero en todo caso estará integrado por:
 
 I. El Honorable Ayuntamiento del Municipio de Puebla;
 
@@ -3809,11 +3829,73 @@ VI. Los sectores sociales y privado del Municipio.
 
 Los hospitales, sanatorios, clínicas, fabricas, industrias, comercios, oficinas, unidades habitacionales, colonias, fraccionamientos, clubes sociales, deportivos y de servicios, centros educativos, terminales y estaciones de transporte de pasajeros y carga, centrales de abasto, mercados, gaseras, gasolineras, almacenes, bodegas y talleres que mantengan sustancias peligrosas, tóxicas, inflamables, explosivas, corrosivas, radioactivas y biológicas así como en los demás establecimientos públicos o privados en los que haya afluencia de personas, deberán integrar su propio comité interno de protección civil y elaborar su análisis de riesgo y plan de prevención de contingencias, acatando las disposiciones de este Capítulo, debiendo solicitar su aprobación a la Unidad Operativa Municipal de Protección Civil.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 392 Bis.
+
+El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social Y privado, para implementar acciones de protección civil en beneficio de la sociedad.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 392 Ter.
+
+El Consejo Municipal estará integrado por:
+
+I.- Un Presidente.- Que será el Presidente Municipal;
+
+II.- Un Coordinador General.- Que será el Presidente de la Comisión de Gobernación, Justicia y Seguridad Pública;
+
+III.- Tres Regidores.- Que designe el Presidente Municipal; y
+
+IV.- Un Secretario Técnico.- Que será el Titular de la Unidad Operativa Municipal de Protección Civil;
+
+A invitación del Presidente podrán asistir con voz, pero sin voto:
+
+a).- Los demás Regidores del Ayuntamiento y el Síndico Municipal;
+
+b).- El Tesorero, el Contralor y el Secretario del Honorable Ayuntamiento;
+
+c).- Los Secretarios Municipales y Autoridades Auxiliares;
+
+d).- Los representantes de la Administración Pública Estatal y Federal asentadas en el Municipio;
+
+e).- Los representantes de organizaciones sociales, sector privado, universidades, instituciones académicas y profesionales instalados en el Municipio.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 392 Quáter.
+
+El Consejo Municipal, sesionará ordinariamente en pleno de forma mensual y en forma extraordinaria las veces que sean necesarias, mediante convocatoria del Presidente o del Coordinador General.
+
+A las sesiones del Consejo podrán asistir los representantes de dependencias u organismos públicos o privados, así como especialistas en los asuntos a tratar.
+
+Para la validez de las sesiones se requiere de la asistencia de la mitad más uno de sus integrantes.
+
+Las decisiones del Consejo Municipal serán aprobadas por mayoría de votos, y en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 392 Quinquies.
+
+Corresponde al Consejo Municipal:
+
+I.- Aprobar el Programa Municipal de Protección Civil;
+
+II.- Fungir como órgano de consulta en la coordinación de las acciones del Municipio, para integrar, concretar e inducir las actividades de los diversos participantes en la materia, a fin de garantizar el cumplimiento de los objetivos del Programa Municipal de Protección Civil;
+
+III.- Fomentar la participación activa y responsable de todos los sectores y los habitantes del Municipio, en la formulación y ejecución del Programa Municipal de Protección Civil;
+
+IV.- Constituirse en Sesión Permanente en caso de producirse un desastre, a fin de verificar la realización de las acciones que procedan; y
+
+V.- Las demás funciones que le encomiende el Presidente Municipal.
+
 INTEGRACIÓN DE LA UNIDAD OPERATIVA MUNICIPAL DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 393.
 
-La Unidad Operativa Municipal se integra por:
+La Unidad Operativa Municipal de Protección Civil, se integra por:
 
 I. Un Director que será el Secretario Técnico del Consejo Municipal de Protección Civil;
 
@@ -3825,9 +3907,11 @@ IV. El Grupo Operativo; y
 
 V. El personal administrativo que determine el Presupuesto de Egresos de la Tesorería Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 394.
 
-Corresponde a la Unidad Operativa Municipal, además de las atribuciones contenidas en este Capítulo:
+Corresponde a la Unidad Operativa Municipal de Protección Civil, además de las atribuciones contenidas en este Capítulo:
 
 I. Elaborar y presentar al Consejo el Programa Municipal de Protección Civil;
 
@@ -3855,7 +3939,13 @@ XII. Expedir y modificar los acuerdos, instructivos, circulares y demás disposi
 
 XIII. Solicitar el auxilio de la fuerza pública cuando fuere necesario para hacer cumplir sus determinaciones sin necesidad de autorización previa; y
 
-XIV. Las demás que le confieran otras leyes, decretos, reglamentos y acuerdos.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+XIV. Llevar a cabo la identificación y delimitación de lugares o zonas de riesgo a través del dictamen técnico correspondiente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+XV. Las demás que le confieran otras leyes, decretos, reglamentos y acuerdos.
 
 DE LOS PROGRAMAS Y SUBPROGRAMAS MUNICIPALES DE PROTECCIÓN CIVIL
 
@@ -3923,7 +4013,7 @@ IX. Los demás que sean necesarios para enfrentar adecuadamente una situación d
 
 ###### Artículo 401.
 
-Para la determinación y aplicación de las medidas preventivas y de seguridad de protección civil se estará en lo dispuesto en la Ley, en este Capítulo, y en los convenios suscritos con las dependencias estatales y federales.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2006)
 
 ###### Artículo 402.
 
@@ -4095,9 +4185,11 @@ La presión de descarga en los chiflones deberá ser de cinco Kgs., como mínimo
 
 Los sitios públicos consistentes en hoteles, hospitales, comercios, salas de espectáculos, así como cualquier otro con superficie superior a mil metros cuadrados, deberán contar además de las instalaciones y dispositivos señalados en éstas disposiciones, sistemas de alarma visuales y sonoras, instaladas de tal manera que operen independientemente entre sí.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 414.
 
-Los accionadores de alarma estarán en lugares visibles desde toda área y el número que de ellos deba instalarse, será establecida por el Heroico Cuerpo de Bomberos, las pruebas a estos sistemas deberán efectuarse cuando menos cada 60 días.
+Los accionadores de alarma estarán en lugares visibles desde toda área y el número que en ellos deba instalarse, será establecido por la Unidad Operativa Municipal de Protección Civil y las pruebas a estos sistemas deberán efectuarse cuando menos cada 60 días, llevando bitácora del mismo.
 
 ###### Artículo 415.
 
@@ -4139,9 +4231,15 @@ Para el decorado y recubrimiento de interiores en edificios de más de cinco niv
 
 Las Campanas de cocinas, excepto de casa unifamiliares, deberán proteger con filtros de grasa entre la boca de la campana y su unión con la chimenea y por sistema contra incendio de operación manual o automática.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 421.
 
-Queda prohibido el almacenamiento de líquidos, materias inflamables o explosivos y los decorados acabados a base de materiales combustibles, sin el previo dictamen de la Unidad de Protección Civil Municipal.
+Queda prohibido el almacenamiento de líquidos, materias inflamables o explosivos, así como los decorados acabados a base de materiales combustibles, sin el previo dictamen de la Unidad Operativa Municipal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+En el caso de almacenamiento de explosivos en arreglo a lo establecido en el artículo 859, deberá contar con el Dictamen señalado en el párrafo anterior, además de contar con la autorización de la Secretaría de Defensa Nacional.
 
 ###### Artículo 422.
 
@@ -4155,13 +4253,15 @@ Todo el equipo e instalaciones mencionados en éstas disposiciones deberán ser 
 
 El Heroico Cuerpo de Bomberos expedirá a los propietarios, administradores o responsables de los sitios públicos, la constancia de cumplimiento de medidas preventivas contra incendios, así como verificar la colocación del equipo e instalaciones que a su juicio estime necesario para garantizar la seguridad contra incendios.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 425.
 
-Los carros-tanque (pipas) que contengan y transporten productos petroquímicos o cuya naturaleza represente riesgo de incendio, explosión o intoxicación, no podrán circular por la zona urbana, salvo en aquellas avenidas que para las maniobras de carga y descarga así lo exija, y previa autorización del Heroico Cuerpo de Bomberos. Asimismo, queda estrictamente prohibida la circulación de carros-tanque de más de 16,000 litros dentro de la Ciudad; no podrán pernoctar dentro de la Ciudad, y deberán estacionarse fuera de la misma estando llenos o vacíos.
+Los vehículos que contengan y transporten materiales y sustancias inflamables, explosivas, corrosivas, radioactivas, biológicas, tóxicas o peligrosas o con riesgo de incendio, además de cumplir con las Normas Oficiales vigentes y las restricciones establecidas en el artículo 330, deberán mostrar su guía de embarque a los inspectores de la Unidad Operativa Municipal de Protección Civil, debiendo con ello cotejar la guía de embarque a los inspectores de la Unidad Operativa Municipal de Protección Civil, debiendo cotejar la guía con la identificación del producto pintado en la unidad.
 
-Todo carro-tanque deberá mostrar su guía de embarque a los elementos del Cuerpo de Bomberos, quienes están facultados para realizar la inspección correspondiente, debiendo para ello cotejar la guía con la identificación del producto pintado en la unidad.
+No se permitirán maniobras de carga y descarga después de las dieciocho horas y ninguna hora de acceso a la ciudad los días sábados y domingos. Los carros tanques que abastezcan la gasolina y combustibles a los expendios urbanos, quedan exceptuados de lo anterior.
 
-No se permitirán maniobras de carga y descarga después de las 18 horas, y a ninguna hora el acceso a la Ciudad los días sábados y domingos. Los carro-tanques que abastezcan la gasolina y combustibles a los expendios urbanos, quedan exceptuados de lo anterior.
+Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo Y control en caso de fuga o derrame.
 
 ###### Artículo 426.
 
@@ -4219,9 +4319,11 @@ V. La designación de su representante.
 
 DE LA CAPACITACIÓN A LA POBLACIÓN
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 434.
 
-El Consejo, a través de la Unidad Operativa de Protección Civil realizará campañas permanentes de capacitación en materia de protección civil para los habitantes del Municipio.
+El Consejo, a través de la Unidad Operativa Municipal de Protección Civil, realizará campañas permanentes de capacitación en materia de protección civil para los habitantes del Municipio.
 
 ###### Artículo 435.
 
@@ -4231,13 +4333,21 @@ El Consejo promoverá ante la Secretaria de Educación Pública programas educat
 
 Todas las edificaciones, excepto las casas habitación unifamiliares, deberán contar con un plan de prevención de contingencias y su comité interno de protección civil, en el que se consignarán las reglas que deberán observarse, antes, durante y después de un siniestro, asimismo deberán de señalarse las zonas de seguridad.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 437.
 
-Las escuelas, fabricas, industrias, comercios, oficinas, salas o locales de espectáculos, unidades habitacionales, y otros establecimientos de bienes o servicios en los que haya afluencia de personas, en coordinación con las autoridades competentes deberán practicar simulacros y ejercicios de protección civil, cuando menos tres veces al año, previa autorización de la Unidad Operativa Municipal, así como rendir un informe de los resultados obtenidos.
+En todos los inmuebles con giros comerciales de: Hospitales, sanatorios, clínicas, fábricas, industrias, comercios, oficinas, unidades habitacionales, colonias, fraccionamientos, clubes sociales, deportivos y de servicios, centros educativos, terminales y estaciones de transporte de pasajeros, y carga, centrales de abasto, mercados, gaseras, gasolineras, centros de carburación, almacenes, bodegas y/o todos aquellos inmuebles que mantengan sustancias peligrosas, tóxicas, inflamables, explosivas, corrosivas, radioactivas y biológicas, así como en los demás establecimientos públicos o privados en los que haya afluencia de personas, deberán realizar simulacros cuando menos tres veces al año, previo aviso por escrito a la Unidad Operativa Municipal de Protección Civil, dentro de los tres días hábiles anteriores a la práctica del mismo, el cual deberá realizarse en cumplimiento a las características autorizadas en su Plan de Contingencias o Programa Interno, así como la realización de ejercicios en materia de Protección Civil, abarcando todos sus turnos laborales y con diferente escenario, adecuándolos al resultado de su análisis de riesgo, rindiendo por escrito ante la Unidad Operativa Municipal de Protección Civil informe de los resultados obtenidos dentro de los días hábiles siguientes a su práctica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 438.
 
-Además, deberán contar con responsivas o certificados de riesgos, en los cuales se contemplarán las medidas de protección y seguridad, mismas que serán expedidas por peritos o unidades de verificación, autorizados por la Unidad Operativa Municipal y, en su caso, por dependencias oficiales o instituciones privadas autorizadas para ello.
+Además, deberán contar con responsivas o certificados de riesgos, en los cuales se contemplarán las medidas de protección y seguridad, mismas que serán expedidas por peritos o unidades de verificación, autorizados y registrados ante la Unidad Operativa Municipal de Protección Civil, previa valoración, y en su caso, por dependencias oficiales o instituciones privadas autorizadas para ello.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+Los peritos, instructores independientes, empresas capacitadoras y consultoras de estudio de riesgo y vulnerabilidad, que por su actividad, conocimiento y experiencia se encuentran vinculadas con la materia de Protección Civil, deberán registrarse ante la Unidad Operativa Municipal de Protección Civil, cumpliendo con los requisitos que señale la Ley del Sistema Estatal de Protección Civil.
 
 DE LAS INSPECCIONES
 
@@ -4253,7 +4363,9 @@ Las visitas de inspección se regirán y sujetarán a las siguientes bases:
 
 I. El inspector deberá contar con una orden por escrito, la cual contendrá la fecha de su expedición y ubicación del inmueble sujeto a inspeccionar; objeto y aspectos de la inspección; el fundamento legal en que se apoye, el nombre y firma de la autoridad que expida la orden; así como el nombre del inspector facultado para llevar a cabo la misma;
 
-II. El inspector deberá identificarse ante el propietario, arrendatario, poseedor, administrador o representante legal, o ante la persona que tenga a su cargo el inmueble, con la credencial vigente expedida por la Unidad Operativa Municipal, y entregar copia legible de la orden de inspección;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+II.- El inspector deberá identificarse ante el propietario, arrendatario, poseedor, administrador o representante legal, o ante la persona que tenga a su cargo el inmueble, con la credencial vigente expedida por la Unidad Operativa Municipal de Protección Civil, y entregar copia legible de la orden de inspección;
 
 III. Los inspectores practicarán las visitas dentro de las 24 horas siguientes a la expedición de la orden;
 
@@ -4263,29 +4375,47 @@ V. De toda visita se levantará acta circunstanciada de la diligencia, en la que
 
 VI. El inspector comunicará al visitado las irregularidades que presente el inmueble en el cual se lleva a cabo la inspección, así como sus instalaciones, accesorios y todo aquello que contravenga a este Capítulo, lo cual se lo hará saber de manera verbal y a su vez en ese momento se asentará en el acta, asimismo hará constar en el acta que cuanta con cinco días hábiles para impugnarla por el escrito ante la autoridad que expidió la orden y para exhibir las pruebas y alegatos que a su derecho convengan; y
 
-VII. Los ejemplares legibles del acta de visita se distribuirá en la siguiente forma: Uno quedará en poder de la persona con quien se entendió la diligencia; el original para la Unidad Operativa Municipal, y la copia restante para la Secretaría de Gobernación Municipal.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+VII.- Los ejemplares legibles del acta de visita se distribuirán de la siguiente forma: Uno quedará en poder de la persona con quien se entendió la diligencia, el original para la Unidad Operativa Municipal de Protección Civil, y la copia restante para la Secretaría de Gobernación Municipal.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 441.
 
-Transcurrido el termino a que se refiere la fracción VI del artículo que antecede, la Unidad Operativa Municipal, dentro del término de tres días hábiles siguientes y considerando la gravedad de la infracción y teniendo en cuenta las pruebas aportadas y los alegatos en su caso, dictará la resolución que sea procedente, debiendo fundar y motivar dicha resolución, notificando personalmente al visitado.
+Transcurrido el término a que se refiere la fracción VI del artículo que antecede, la Unidad Operativa Municipal de Protección Civil, dentro del término de tres días hábiles siguientes y considerando la gravedad de la infracción y teniendo en cuenta las pruebas aportadas y los alegatos en su caso, dictará la resolución que sea procedente, debiendo fundar y motivar dicha resolución, notificando personalmente al visitado.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 442.
 
-En caso de que se presente obstaculización u oposición para la práctica de alguna diligencia, la Unidad Operativa Municipal, para efectuar la visita de inspección, podrá solicitar el auxilio de la fuerza pública fundado y motivado por escrito su oficio.
+En caso de que se presente obstaculización u oposición para la practica de alguna diligencia, la Unidad Operativa Municipal de Protección Civil, para efectuar la visita de inspección, podrá solicitar el auxilio de la fuerza pública fundado y motivado por escrito su oficio.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 443.
 
-Si del acta de inspección se desprende la necesidad de llevar a cabo medidas correctivas de urgente aplicación, la Unidad Operativa Municipal requerirá a quien resulte obligado para que las realice, fijándole un término discrecional para cada efecto. Si éste no las realiza, lo hará la autoridad competente a costa del obligado, sin perjuicio de las sanciones administrativas que procedan, ni de la responsabilidad penal en que éste incurra.
+Si del acta de inspección se desprende la necesidad de llevar a cabo medidas correctivas de urgente aplicación, la Unidad Operativa Municipal de Protección Civil, requerirá a quien resulte obligado para que las realice, fijándole un término discrecional para cada efecto. Si éste no las realiza, lo hará la autoridad competente a costa del obligado, sin perjuicio de las sanciones administrativas que procedan, ni de la responsabilidad penal en que éste incurra.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 444.
 
-En caso de segunda o posterior inspección practicada con el objeto de verificar un requerimiento impuesto o una resolución, si del acta correspondiente se desprende que no se han cumplido las medidas ordenadas, la Unidad Operativa Municipal impondrá las sanciones y medidas de seguridad que según el caso correspondan.
+En caso de segunda o posterior inspección practicada con el objeto de verificar un requerimiento impuesto o una resolución, si del acta correspondiente se desprende que no se han cumplido las medidas ordenadas, la Unidad Operativa Municipal de Protección Civil, impondrá las sanciones y medidas de seguridad que según el caso correspondan.
 
 DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 445.
 
-Como resultado del informe de visita de inspección, la Unidad Operativa Municipal, adoptará y ejecutará las medidas de seguridad y protección encaminadas a evitar los daños que se puedan causar a la población, a las instalaciones, construcciones o bienes de interés general las que tiendan a garantizar el normal funcionamiento de los servicios esenciales para la comunidad e impedir cualquier situación que afecte a la seguridad o salud pública. Las medidas de seguridad se aplicarán sin perjuicios de las sanciones que, en su caso, correspondan.
+Como resultado del informe de visita de inspección, la Unidad Operativa Municipal de Protección Civil, adoptará y ejecutará las medidas de seguridad y protección encaminadas a evitar los daños que se puedan causar a la población, a las instalaciones, construcciones o bienes de interés general las que tiendan a garantizar el normal funcionamiento de los servicios esenciales para la comunidad e impedir cualquier situación que afecte a la seguridad o salud pública. Las medidas de seguridad se aplicarán sin perjuicios de las sanciones que, en su caso, correspondan.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 445 Bis.
+
+Para la determinación y aplicación de las medidas preventivas y de seguridad de protección civil se estará a lo dispuesto en la Ley, en este Capítulo, y en los convenios suscritos con las dependencias estatales y federales.
 
 ###### Artículo 446.
 
@@ -4311,17 +4441,43 @@ IX. Las demás que de manera de protección civil determinen las autoridades del
 
 X. La inmovilización de vehículos o medios de transporte, u otros que sin tomar las medidas preventivas realicen sus labores las cuales pongan en peligro la vida, la salud de las personas, así como el medio ambiente.
 
-En los casos previstos en las fracciones II, III, IV y V de este artículo, la Unidad Operativa Municipal se apoyará en los dictámenes técnicos que correspondan conforme a los ordenamientos, pudiendo en todo caso apoyarse con los que emitan los peritos adscritos a la Unidad Operativa Municipal.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+En los casos previstos en las fracciones II, III, IV y V de este artículo, la Unidad Operativa Municipal de Protección Civil, se apoyará en los dictámenes técnicos que correspondan conforme a los ordenamientos, pudiendo en todo caso apoyarse con los que emitan los peritos adscritos a la Unidad Operativa Municipal de Protección Civil.
 
 ###### Artículo 447.
 
 Para la ejecución de las medidas de seguridad en caso de riesgo, catástrofe o calamidad pública a la población no será necesario notificar previamente al afectado, pero en todo caso deberá levantarse acta circunstanciada de la diligencia en la que se observen las formalidades establecidas para las inspecciones, debiendo notificar de inmediato al afectado, iguales circunstancias serán aplicables al visitado cuando el momento lo requiera.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 447 Bis.
+
+Para el establecimiento de medidas de seguridad en eventos públicos y/o masivos, los organizadores deberán:
+
+I.- Implementar las medidas de seguridad y de protección civil, que sean indicadas por la Unidad Operativa Municipal de Protección Civil;
+
+II.- Proveer asistencia medica en el lugar, señalamientos y equipo básicos de seguridad y servicios sanitarios en la medida y con los requisitos que sean indicados por la Unidad Operativa Municipal de Protección Civil;
+
+III.- Indicar mediante señalética, que será colocada en lugares visibles, donde se realice un espectáculo público y/o masivo, los cupos Máximos del inmueble (capacidad);
+
+IV.- Contar en el lugar donde se realice un espectáculo público y/o masivo, con un cuerpo de emergencia o dispositivo de seguridad para dar respuesta a accidentes o emergencias que se presenten; y
+
+V.- Observar y acatar todas las disposiciones que se requieran y se dispongan para la seguridad y desarrollo del evento, por parte de la Unidad Operativa Municipal de Protección Civil, aun y cuando éstas sean requeridas durante el transcurso del evento.
+
+En caso de incumplimiento, la Unidad Operativa Municipal de Protección Civil, aplicará las Medidas de Seguridad necesarias a fin de salvaguardar la integridad física de las personas que acudan al evento.
+
+Para los espectáculos públicos y/o eventos masivos que se realicen con motivo de fiestas tradicionales señaladas en el artículo 637, la Dirección de Registro y Fiscalización y la Unidad Operativa Municipal de Protección Civil, deberán de coordinarse a efecto de planear con anticipación a la expedición de permisos de los vendedores que establece el artículo 645, la logística para poder señalar a los vendedores ambulantes, semifijos y prestadores ambulantes de servicios, las acciones que permitan garantizar la seguridad de los asistentes.
+
+El Departamento de Registro y Fiscalización para otorgar los permisos señalados en el artículo 645 fracción III incisos a) y b), con motivo de un espectáculo público y/o masivo, requerirá al solicitante del permiso, la autorización previa de la Unidad Operativa Municipal de Protección Civil.
+
 DE LAS INFRACCIONES
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 448.
 
-Las personas físicas y morales que, conforme a las disposiciones de este Capítulo, resulten infractoras, serán sancionadas por la Unidad Operativa Municipal, independientemente de las penas y sanciones cuya aplicación corresponda a otras autoridades competentes, en los términos que al efecto prevengan otros ordenamientos.
+Las personas físicas y morales que, conforme a las disposiciones de este Capítulo, resulten infractoras, serán sancionadas por la Unidad Operativa Municipal de Protección Civil, independientemente de las penas y sanciones cuya aplicación corresponda a otras autoridades competentes, en los términos que al efecto prevengan otros ordenamientos.
 
 ###### Artículo 449.
 
@@ -4341,37 +4497,53 @@ La infracción o contravención a las disposiciones del presente Capítulo dará
 
 Para la fijación de la sanción económica, ésta deberá hacerse entre el mínimo y el máximo establecidos, se deberá tomar en cuenta la gravedad de la infracción, las condiciones económicas del infractor ya sea persona física o moral a la que se sanciona, y demás circunstancias que sirvan para individualizar la sanción.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 451.
 
-La infracción a los artículos 382, 436, 437, 438 y 454 de este Capítulo o el incumplimiento contenido en el artículo 444, se sancionará con el equivalente de 50 a 5,000 días de salario mínimo general vigente en el Municipio de Puebla. Cuando haya reincidencia, se procederá a la clausura temporal de los inmuebles o instalaciones descritos en los artículos antes mencionados, con excepción de escuelas y unidades habitacionales.
+La infracción de los artículos 382, 383, 409, 410, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 425, 436, 437, 438 y 454 de este Capítulo, o el incumplimiento contenido en el artículo 444, se sancionará con el equivalente de 50 a 5,000 días de salario mínimo general vigente en el Municipio de Puebla. Cuando haya reincidencias, se procederá (sic) la clausura temporal de los inmuebles o instalaciones descritos en los artículos antes mencionados, con excepción de escuelas y unidades habitacionales.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 452.
 
-Por lo que se refiere a las escuelas, academias, institutos y universidades privadas de enseñanza básica, media y superior, así como escuelas técnicas se procederá en los términos de este Capítulo en caso de incumplimientos a requerimientos impuestos por la Unidad Operativa Municipal, se solicitará la cancelación del registro y autorización por parte de la Secretaría de Educación Pública.
+Por lo que se refiere a las escuelas, academias, institutos y universidades privadas de enseñanza básica, media y superior, así como escuelas técnicas se procederá en los términos de este Capítulo en caso de incumplimientos a requerimientos impuestos por la Unidad Operativa Municipal de Protección Civil, se solicitará la cancelación del registro y autorización por parte de la Secretaría de Educación Pública.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 453.
 
-En caso de que se imponga clausura temporal, parcial, total o definitiva de una obra, instalación o establecimiento de bienes o servicios, la Unidad Operativa Municipal, cuando lo estime necesario, podrá solicitar a las autoridades correspondientes la cancelación de los permisos o licencias que se hayan otorgado al infractor.
+En caso de que se imponga clausura temporal, parcial, total o definitiva de una obra, instalación o establecimiento de bienes o servicios, la Unidad Operativa Municipal de Protección Civil, cuando lo estime necesario, podrá solicitar a las autoridades correspondientes la cancelación de los permisos o licencias que se hayan otorgado al infractor.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 454.
 
-Cuando se ordene la desocupación, desalojo o cierre de una obra, instalación, servicio o establecimientos en general como medida de seguridad, se ordenará al infractor que realice los actos o subsane las irregularidades que la motivaron, fijándole un término no mayor de 60 días hábiles, el cual se puede prorrogar por una sola vez a juicio de la Unidad Operativa Municipal.
+Cuando se ordene la desocupación, desalojo o cierre de una obra, instalación, servicio o establecimientos en general como medida de seguridad, se ordenará al infractor que realice los actos o subsane las irregularidades que la motivaron, fijándole un término no mayor de 60 días hábiles, el cual se puede prorrogar por una sola vez a juicio de la Unidad Operativa Municipal de Protección Civil.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 455.
 
-En caso de que la Unidad Operativa Municipal considere necesario la demolición de obras o construcciones como medida de protección y seguridad para las personas, sus bienes, o el medio ambiente, solicitará a las autoridades competentes la aplicación de las disposiciones legales respectivas.
+En caso de que la Unidad Operativa Municipal de Protección Civil, considere necesario la demolición de obras o construcciones como medida de protección y seguridad para las personas, sus bienes, o el medio ambiente, solicitará a las autoridades competentes la aplicación de las disposiciones legales respectivas.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 456.
 
-Las sanciones pecuniarias se liquidarán por el infractor en la Tesorería Municipal, en un plazo de 15 días contados a partir de la fecha en que se haya hecho la notificación respectiva, y su importe se considerará a favor de la Unidad Operativa Municipal, y su cobro en tal caso, se hará conforme a las disposiciones de Código Fiscal y Presupuestario del Municipio de Puebla.
+Las sanciones pecuniarias se liquidarán por el infractor en la Tesorería Municipal, en un plazo de 15 días contados a partir de la fecha en que se haya hecho la notificación respectiva, su importe se considerará a favor de la Unidad Operativa Municipal de Protección Civil, y su cobro en tal caso, se hará conforme a las disposiciones de (sic) Código Fiscal y Presupuestario del Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 457.
 
-Además de las sanciones que se le impongan al infractor, la Unidad Operativa Municipal, si así lo considera necesario, hará del conocimiento del Ministerio Publico los hechos que pudieran constituir delito.
+Además de las sanciones que se le impongan al infractor, la Unidad Operativa Municipal de Protección Civil, si así lo considera necesario, hará del conocimiento del Ministerio Público los hechos que pudieran constituir delito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 458.
 
-La Unidad Operativa Municipal para hacer cumplir sus determinaciones podrá emplear las siguientes medidas de apremio:
+La Unidad Operativa Municipal de Protección Civil, para hacer cumplir sus determinaciones, podrá emplear las siguientes medidas de apremio:
 
 I. El auxilio de la fuerza pública; y
 
@@ -4379,9 +4551,11 @@ II. El arresto hasta por 36 horas.
 
 DE LAS NOTIFICACIONES
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 459.
 
-Las notificaciones de las resoluciones administrativas que emita la Unidad Operativa Municipal en términos de este Capítulo serán de carácter personal.
+Las notificaciones de las resoluciones administrativas que emita la Unidad Operativa Municipal de Protección Civil en términos de este Capítulo serán de carácter personal.
 
 ###### Artículo 460.
 
@@ -4397,31 +4571,39 @@ Las notificaciones se harán en días y horas hábiles, siguiendo la regla del C
 
 MEDIO DE IMPUGNACIÓN
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 463.
 
-Contra los actos y resoluciones de la Unidad Operativa Municipal, procede el Recurso de Inconformidad señalado en la Ley Orgánica Municipal del Estado de Puebla.
+Contra los actos y resoluciones de la Unidad Operativa Municipal de Protección Civil, procede el Recurso de Inconformidad señalado en la Ley Orgánica Municipal del Estado de Puebla.
 
 DE LAS DONACIONES
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 464.
 
-Toda donación otorgada a la Unidad Operativa Municipal, tendrá como finalidad formar un fondo de contingencias para la atención de damnificados, así como para hacer más eficientes los servicios que se ofrece a la población.
+Toda donación otorgada a la Unidad Operativa Municipal de Protección Civil, tendrá como finalidad formar un fondo de contingencias para la atención de damnificados, así como para hacer más eficientes los servicios que se ofrece (sic) a la población.
 
 ###### Artículo 465.
 
 Toda donación otorgada a los grupos voluntarios, tendrá como finalidad facilitar el mejor y oportuno servicio a la población.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 466.
 
-Los grupos voluntarios que soliciten donaciones, deberán cumplir con todos los requisitos establecidos en este Capítulo, debiendo estar inscritos en la Unidad Operadora Municipal y extender el recibo correspondiente.
+Los grupos voluntarios que soliciten donaciones, deberán cumplir con todos los requisitos establecidos en este Capítulo, debiendo estar inscritos en la Unidad Operadora Municipal de Protección Civil y extender el recibo correspondiente.
 
 ###### Artículo 467.
 
 El Honorable Ayuntamiento del Municipio de Puebla a través de la Tesorería Municipal están facultados para recibir donaciones en efectivo o en especie, otorgando el comprobante correspondiente.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 468.
 
-La Unidad Operativo Municipal vigilará y sancionará a los grupos voluntarios que reciban donaciones a favor de la atención de emergencias y no lo destinen a ello, con el objeto de verificar que estos beneficios cumplan con los fines que la ley y este Capítulo señalan. Lo anterior sin perjuicio de las sanciones previstas en la legislación penal respectiva.
+La Unidad Operativa Municipal de Protección Civil, vigilará y sancionará a los grupos voluntarios que reciban donaciones a favor de la atención de emergencias y no lo destinen a ello, con el objeto de verificar que estos beneficios cumplan con los fines que la ley y este Capítulo señalan. Lo anterior sin perjuicio de las sanciones previstas (sic).
 
 DEL FONDO DE CONTINGENCIAS
 
@@ -8691,7 +8873,9 @@ XV. Otras dependencias involucradas;
 
 XVI. Aprobación de vecinos;
 
-XVII. Informe de autorización otorgado por la Unidad Municipal de Protección Civil o el Departamento de Bomberos de Puebla; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+XVII. Informe de autorización otorgado por la Unidad Operativa Municipal de Protección Civil o el Departamento de Bomberos de Puebla; y
 
 XVIII. Otros que sean necesarios y que determine la Dirección con base en el Programa de Desarrollo Urbano y la Legislación, Normatividad o Reglamentación Urbano Ambiental vigente.
 
@@ -8755,7 +8939,9 @@ XXIII. Escuelas públicas y privadas;
 
 XXIV. Los demás que sean de alto riesgo o exista usualmente una concentración de más de 50 personas, incluyendo a los trabajadores del lugar;
 
-El Programa Interno de Protección Civil será aprobado por la Unidad Municipal de Protección Civil.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+El Programa Interno de Protección Civil será aprobado por la Unidad Operativa Municipal de Protección Civil.
 
 ###### Artículo 724.
 
@@ -9773,7 +9959,9 @@ Deberán contar además estos centros, con vestidores y servicios sanitarios ade
 
 Los depósitos para agua que sirvan a los baños para los deportistas y a los sanitarios para el público, deberán calcularse con capacidad de 6 Lts. por espectador.
 
-En cada proyecto y autorización para construcción de un local para espectáculos deportivos, deberá hacerse un estudio para que el constructor se sujete a los lineamientos que señale la Dirección, previa opinión del Cuerpo de Bomberos o la Unidad Municipal de Protección Civil.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+En cada proyecto y autorización para la construcción de un local para espectáculos deportivos, deberá hacerse un estudio para que el constructor se sujete a los lineamientos que señale la Dirección, previa opinión del Cuerpo de Bomberos o la Unidad Operativa Municipal de Protección Civil.
 
 ###### Artículo 835.
 
@@ -9911,9 +10099,11 @@ Para la erección de construcciones provisionales, se hace necesaria la licencia
 
 La licencias que se conceda para levantar una construcción provisional, deberá expresar el periodo del tiempo que se autorice y que la misma quede en pie. La aceptación de dicha licencia implica igualmente la del término a que queda condicionado el uso y deberá cubrir los mismos requisitos que una definitiva.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 856.
 
-El propietario de una construcción provisional, estará obligado a conservarla en buen estado, ya que de lo contrario, la Dirección, podrá ordenar su derribo aún sin haberse llegado al término de la licencia de uso que se hubiere otorgado, de conformidad con lo señalado en este Capítulo a costa del propietario; apoyada en un dictamen de la Unidad de Protección Civil Municipal.
+El propietario de una construcción provisional, estará obligado a conservarla en buen estado, ya que de lo contrario, la Dirección, podrá ordenar su derribo aun sin haberse llegado al término de la licencia de uso que se hubiere otorgado, de conformidad con lo señalado en este Capítulo a costa del propietario; apoyada en un dictamen de la Unidad Operativa Municipal de Protección Civil.
 
 CEMENTERIOS
 
@@ -12587,9 +12777,11 @@ En caso de derrumbe total o parcial o peligro en la estabilidad de una barda o c
 
 USOS PELIGROSOS, MOLESTOS O MALSANOS
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1092.
 
-El Ayuntamiento impedirá los usos peligrosos, insalubres o molestos de edificios, estructuras o terrenos dentro de la zonas (sic) habitacionales o comerciales, ya que los mismos se permitirán en lugares reservados para ello, conforme a los títulos de urbanizaciones, medidas preventivas contra incendios en construcciones, a los lineamientos del Programa de Desarrollo Urbano, previa la fijación de medidas adecuadas. Si el uso implica peligro de incendio, para autorizarlo, el Ayuntamiento determinará las adaptaciones, instalaciones, o medidas preventivas que sean necesarias, previa opinión de la UMPROCI y/o cuerpo de bomberos.
+El Ayuntamiento impedirá los usos peligrosos, insalubres o molestos de edificios, estructuras o terrenos dentro de la (sic) zonas habitacionales o comerciales, ya que los mismos se permitirán en lugares reservados para ello, conforme a los títulos de urbanizaciones, medidas preventivas contra incendios en construcciones, a los lineamientos del Programa de Desarrollo Urbano, previa la fijación de medidas adecuadas. Si el uso implica peligro de incendio, para autorizarlo, el Ayuntamiento determinará las adaptaciones, instalaciones, o medidas preventivas que sean necesarias, previa opinión de la Unidad Operativa Municipal de Protección Civil y/o Cuerpo de Bomberos.
 
 MATERIALES INFLAMABLES
 
@@ -12665,15 +12857,19 @@ III. Industria de alto riesgo: Empresa en la que se realizan actividades donde e
 
 IV. Inmueble de más de 3 niveles: Construcción en la que se tiene planta baja y dos pisos o niveles adicionales; y
 
-V. UMPROCI: La Unidad Municipal de Protección Civil.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+V. UOMPROCI.- La Unidad Operativa Municipal de Protección Civil.
 
 ###### Artículo 1105.
 
 El cumplimiento del presente apartado, es responsabilidad de los propietarios, administradores o responsables de los inmuebles regulados en el mismo.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1106.
 
-La verificación del cumplimiento del presente apartado, corresponde a la UMPROCI y la Dirección.
+La verificación del cumplimiento del presente apartado, corresponde a la UOMPROCI y a la Dirección.
 
 ###### Artículo 1107.
 
@@ -12693,9 +12889,11 @@ VI. Mantenimiento y pruebas;
 
 VII. Salidas, rampas, pasillos y escaleras.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1108.
 
-La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de “Informe de autorización” expedido por la UMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
+La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de "Informe de autorización" expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
 
 ###### Artículo 1109.
 
@@ -12717,9 +12915,11 @@ Las instalaciones eléctricas deberán cumplir con la autorización por parte de
 
 Las instalaciones de aprovechamiento de gas L. P. y/o natural en todas sus modalidades, deberán ajustarse a las normas mexicanas en vigor, contar con los documentos y verificaciones respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1112.
 
-Los inmuebles para serles renovada su autorización deberán ser inspeccionados por la Unidad Municipal de Protección Civil, la Dirección, o Departamento de Bomberos de Puebla, en los siguientes términos:
+Los inmuebles para serles renovada su autorización deberán ser inspeccionados por la Unidad Operativa Municipal de Protección Civil, la Dirección, o Departamento de Bomberos de Puebla, en los siguientes términos:
 
 - Anualmente los inmuebles considerados en el artículo 1133.
 
@@ -12735,17 +12935,21 @@ Todo el equipo e instalaciones mencionados en este apartado, deberán ser aproba
 
 Se llevará bitácora respectiva de los equipos e instalaciones contra incendios de los inmuebles, las cuales serán presentadas durante las visitas e inspecciones que se realicen a los inmuebles.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1115.
 
-La Unidad Municipal de Protección Civil y el Departamento de Bomberos de Puebla, están facultados para indicar las protecciones contra incendio adicionales a las previstas en el presente apartado, según las condiciones especiales de los inmuebles y las actividades que en ellos se realicen.
+La Unidad Operativa Municipal de Protección Civil y el Departamento de Bomberos de Puebla, están facultados para indicar las protecciones contra incendio adicionales a las previstas en el presente apartado, según las condiciones especiales de los inmuebles y las actividades que en ellos se realicen.
 
 ###### Artículo 1116.
 
 Los casos no previstos en este apartado, quedarán sujetos a las disposiciones que al efecto dicte el C. Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1117.
 
-Es obligación ciudadana y de los medios de comunicación reportar directamente a la Unidad Municipal de Protección Civil el incumplimiento total o parcial del presente Capítulo.
+Es obligación ciudadana y de los medios de comunicación reportar directamente a la Unidad Operativa Municipal de Protección Civil el incumplimiento total o parcial del presente Capítulo.
 
 NORMAS PREVENTIVAS EXTINTORES
 
@@ -13369,15 +13573,19 @@ Las órdenes de visita serán ordenadas y firmadas por el funcionario legalmente
 
 DEL PROCEDIMIENTO PARA LA DETERMINACIÓN DE MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1162.
 
-Al tener conocimiento el Ayuntamiento de que una construcción, edificación, establecimiento, uso, instalación o actividad representa posibilidad de riesgo, emergencia, contingencia o peligro para personas o bienes, se ordenará por la Dirección o la UMPROCI, en forma coordinada o independiente, se lleven a cabo las medidas de seguridad que sean necesarias, previo dictamen y diligencias de inspección, efectuadas por el personal adscrito a las mismas, tendientes a poder controlar, mitigar, o dar fin a dicha situación.
+Al tener conocimiento el Ayuntamiento de que una construcción, edificación, establecimiento, uso, instalación o actividad representa posibilidad de riesgo, mergencia (sic), contingencia o peligro para personas o bienes, se ordenará por la Dirección o la UOMPROCI, en forma coordinada o independiente, se lleven a cabo las medidas de seguridad que sean necesarias, previo dictamen y diligencias de inspección, efectuadas por el personal adscrito a las mismas, tendientes a poder controlar, mitigar, o dar fin a dicha situación.
 
-El personal de la UMPROCI que sea designado para este tipo de inspecciones deberá tener la categoría de Director Responsable de Obra o Corresponsable.
+El personal de la UOMPROCI que sea designado para este tipo de inspecciones deberá tener la categoría de Director Responsable de Obra o Corresponsable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 1163.
 
-La Dirección o la UMPROCI ordenarán al personal autorizado, la realización de la visita de inspección correspondiente, tendiente a valorar el grado de riesgo. Para emitir el dictamen técnico correspondiente, y así señalar las medidas de seguridad que procedan.
+La Dirección o la UOMPROCI ordenarán al personal autorizado, la realización de la visita de inspección correspondiente, tendiente a valorar el grado de riesgo. Para emitir el dictamen técnico correspondiente, y así señalar las medidas de seguridad que procedan.
 
 Para tener acceso a la zona o inmueble objeto de la visita, bastará orden escrita, debidamente fundada y motivada. En caso de que no se permita el acceso al mismo, se podrá realizar con el auxilio de la fuerza pública o personal del ejército. Previo extrañamiento al poseedor, propietario o Director Responsable de Obra para el uso de la fuerza publica.
 
@@ -13393,7 +13601,9 @@ III. Nombre, denominación o razón social del visitado, propietario o poseedor;
 
 IV. Número y fecha del oficio u orden de visita que motivó la inspección y supervisión;
 
-V. Nombre del personal designado por la Dirección o UMPROCI para realizar la visita de inspección y supervisión, así como su número de credencial o gafete asignado por la Dirección a éstos;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+V. Nombre del personal designado por la Dirección o UOMPROCI para realizar la visita de inspección y supervisión, así como su número de credencial o gáfete asignado por la Dirección a éstos;
 
 VI. Nombre y en su caso, cargo de la persona con quien se entendió la diligencia;
 
@@ -13413,9 +13623,11 @@ X. Nombre y firma de quienes intervinieron en la diligencia, incluyendo el del p
 
 Por el tipo de riesgo, en caso de no encontrar al propietario poseedor o Director Responsable de Obra, se dejará citatorio para el día siguiente hábil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1165.
 
-La Dirección o la UMPROCI, con base en los datos consignados en el acta de visita, emitirá el dictamen técnico correspondiente, donde se hará constar.
+La Dirección o la UOMPROCI, con base en los datos consignados en el acta de visita, emitirá el dictamen técnico correspondiente, donde se hará constar:
 
 I. Las situaciones que constituyen riesgo, emergencia, posibilidad de desastre o contingencia;
 
@@ -13429,9 +13641,11 @@ V. Los motivos por los que así se considera de acuerdo a lo establecido en la f
 
 VI. Los medios de prueba suficientes para acreditar la existencia de las situaciones previstas en la fracción I del presente artículo.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1166.
 
-En caso de inconformidad contra el dictamen a que se refiere el artículo anterior, el interesado, dentro de los 3 días siguientes al en que se emita el mismo, podrá oponerse a todas o parte de las medidas que le sean exigidas, mediante escrito técnico que para ser tomado en cuenta, deberá estar suscrito por un director responsable de obra o corresponsable, en su caso, dentro de los tres días siguientes a la presentación de la inconformidad técnica la Dirección o la UMPROCI, resolverá en definitiva, si se ratifica, modifica o revoca el dictamen.
+En caso de inconformidad contra el dictamen a que se refiere el artículo anterior, el interesado, dentro de los 3 días siguientes al en que se emita el mismo, podrá oponerse a todas o parte de las medidas que le sean exigidas, mediante escrito técnico que para ser tomado en cuenta, deberá estar suscrito por un Director Responsable de Obra o Corresponsable, en su caso, dentro de los tres días siguientes a la presentación de la inconformidad técnica (sic) la Dirección o la UOMPROCI, resolverá en definitiva, si se ratifica, modifica o revoca el dictamen.
 
 ###### Artículo 1167.
 
@@ -13443,13 +13657,17 @@ En caso de inminente siniestro, riesgo o contingencia, el Ayuntamiento bajo su r
 
 La situación prevista en este artículo no obsta para que, una vez llevadas a cabo de manera inmediata las medidas de seguridad, el interesado presente el escrito de inconformidad a que se refiere el artículo que precede, siguiéndose el procedimiento consignado en el mismo.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1169.
 
-En los casos que impliquen peligro de incendio, el Departamento de Bomberos podrá llevar a cabo las diligencias necesarias para prevenir y controlar dichas situaciones, conjunta o separadamente con la Dirección y la UMPROCI.
+En los casos que impliquen peligro de incendio, el Departamento de Bomberos podrá llevar a cabo las diligencias necesarias para prevenir y controlar dichas situaciones, conjunta o separadamente con la Dirección y la UOMPROCI.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 1170.
 
-Se consideran como Medidas de Seguridad las disposiciones que dicte la Dirección la unidad municipal de protección civil, encaminadas a prevenir, reducir y/o evitar la pérdida de vidas, lesiones o daños en bienes o personas que puedan causar las instalaciones, edificaciones, construcciones, obras, trabajos o acciones que ejecuten personas físicas o morales, sean públicas o privadas.
+Se consideran como Medidas de Seguridad las disposiciones que dicte la Dirección o la Unidad Operativa Municipal de Protección Civil, encaminadas a prevenir, reducir y/o evitar la pérdida de vidas, lesiones o daños en bienes o personas que puedan causar las instalaciones, edificaciones, construcciones, obras, trabajos o acciones que ejecuten personas físicas o morales, sean públicas o privadas.
 
 ###### Artículo 1171.
 
@@ -13471,7 +13689,9 @@ V. Prohibición de actos de utilización, en edificaciones, obras, predios, cons
 
 VI. La demolición de edificaciones, obras, construcciones o instalaciones riesgosas; y
 
-VII. Las demás medidas urgentes de seguridad que previo dictamen, señale la UMPROCI y la Dirección en forma autónoma o coordinada.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+VII. Las demás medidas urgentes de seguridad que previo dictamen, señale la UOMPROCI y la Dirección en forma autónoma o coordinada.
 
 DE LAS SANCIONES
 
@@ -13659,7 +13879,9 @@ V. Regular y especificar el contenido de el Programa de Desarrollo Urbano aplica
 
 VI. Regular conjuntamente con el Capítulo correspondiente de este Código Reglamentario, la colocación, fijación y diseño de anuncios y mobiliario urbano, así como su mantenimiento y conservación a fin de preservar la fisonomía e imagen urbana de la zona, preservándola de la contaminación visual, auditiva y ambiental;
 
-VII. Establecer las normas y principios básicos conforme a los cuales se llevarán a cabo las acciones de protección civil en la zona, a través de los organismos federales, estatales y municipales, así como los organismos sociales y académicos competentes en la materia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+VII. Establecer las normas y principios básicos conforme a los cuales se llevarán a cabo las acciones de protección civil en la zona, a través de los organismos federales, estatales y municipales (Unidad Operativa Municipal de Protección Civil), así como los organismos sociales y académicos competentes en la materia;
 
 VIII. Normar la ubicación y prestación de los servicios urbanos y de equipamiento en la zona;
 
@@ -15021,13 +15243,17 @@ I. Sólo se permitirá su instalación temporal, cuando se trate de promociones,
 
 II. No se permitirán anuncios de este tipo en inmuebles destinados a uso habitacional, según lo establecido en los Programas de Desarrollo Urbano;
 
-III. La altura máxima de los objetos en que figure la publicidad deberá ser de acuerdo a lo que determine la Dirección de Protección Civil Municipal y en su caso, la Secretaria de Administración Urbana;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+III. La altura máxima de los objetos en que figure la publicidad deberá ser de acuerdo a lo que determine la Unidad Operativa Municipal de Protección Civil y en su caso, la Secretaría de Administración Urbana;
 
 IV. Si el objeto es colocado directamente en el piso, debe contar con una protección en forma de valla a cuando menos 2 metros alrededor del mismo;
 
 V. Los objetos no deben invadir las áreas de tránsito peatonal o vehicular;
 
-VI. Deberán ser inflados con aire o gas inerte, para lo cual deberán contar con el visto bueno de la Dirección de Protección Civil Municipal. No se permitirá la instalación de objetos inflados con algún tipo de gas tóxico, inflamable o explosivo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+VI. Deberán ser inflados con aire o gas inerte, para lo cual deberán contar con el visto bueno de la Unidad Operativa Municipal de Protección Civil. No se permitirá la instalación de objetos inflados con algún tipo de gas tóxico, inflamable o explosivo;
 
 VII. Cuando el objeto se encuentre suspendido en el aire, deberá estar anclado directamente en el lugar en el que se realice la promoción o evento anunciado, o se ubique en el establecimiento mercantil; y
 
@@ -19869,7 +20095,9 @@ VII.- Conocer y cumplir el Plan de Seguridad y Prevención de Delitos en el Arch
 
 VIII.- Las demás que señalen el titular del Archivo General Municipal y el Secretario de Seguridad Pública y Vialidad Municipal.
 
-La Dirección de Protección Civil Municipal mantendrá actualizado un plan para atender las contingencias que se presenten, además conjuntamente con la Dirección del Archivo General Municipal integrará un Comité de Protección Civil.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+La Unidad Operativa Municipal de Protección Civil, mantendrá actualizado un Plan para atender las contingencias que se presenten, además conjuntamente con la Dirección del Archivo General Municipal, integrará un Comité de Protección Civil.
 
 La Secretaría de Seguridad Pública y Vialidad Municipal pondrá a consideración del Director del Archivo General un programa de seguridad y prevención del delito para el acervo documental que resguarda el Archivo General Municipal. Una vez aprobada, su aplicación será responsabilidad de los elementos que sean asignados a las instalaciones.
 
@@ -22847,7 +23075,9 @@ II. Estación de Servicio de Gas Licuado de Petróleo con Almacenamiento Fijo: A
 
 III. Secretaría: A la Secretaría de Administración Urbana del H. Ayuntamiento de Puebla;
 
-IV. UMPROCI: A la Unidad Municipal de Protección Civil del Ayuntamiento de Puebla;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+IV. UOMPROCI.- A la Unidad Operativa Municipal de Protección Civil del Ayuntamiento de Puebla; y
 
 V. Uso de Suelo: El de Estación de Servicio de Gas L.P. con almacenamiento fijo.
 
@@ -22865,9 +23095,13 @@ I. Vigilar el cumplimiento del presente Capítulo, a través del Presidente Muni
 
 II. Expedir o en su caso, negar las autorizaciones, licencias o permisos correspondientes por conducto de la Secretaría, respecto a las solicitudes relativas a las Estaciones de Servicio de Gas Licuado de Petróleo con Almacenamiento Fijo, en los términos del presente ordenamiento;
 
-III. Realizar las acciones dentro de la esfera de su competencia que sean necesarias para evitar la operación de estaciones de servicio que carezcan de las autorizaciones municipales correspondientes, a través de la Secretaría y/o la UMPROCI;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
-IV. Implementar en casos de emergencia y aún sin previa audiencia, en términos de la normatividad aplicable, las medidas necesarias para prevenir, reducir o eliminar el peligro de los inmuebles destinados a la actividad a que se refiere el artículo 1942 de este ordenamiento, por conducto de la dirección y/o la UMPROCI; y
+III. Realizar las acciones dentro de la esfera de su competencia que sean necesarias para evitar la operación de estaciones de servicio que carezcan de las autorizaciones municipales correspondientes, a través de la Secretaría y/o la UOMPROCI;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+IV. Implementar en casos de emergencia y aún sin previa audiencia, en términos de la normatividad aplicable, las medidas necesarias para prevenir, reducir o eliminar el peligro de los inmuebles destinados a la actividad a que se refiere el artículo 1942 de este ordenamiento, por conducto de la Dirección y/o la UOMPROCI; y
 
 V. Imponer las sanciones correspondientes por violación al presente Capítulo, a través de las áreas competentes de la Administración Pública Municipal.
 
@@ -23017,7 +23251,9 @@ Para obtener la licencia de construcción para Estaciones de Servicio de Gas Lic
 
 I. Manifestación de impacto ambiental evaluado por la autoridad competente;
 
-II. Plan de Contingencias y Plan de Control de Accidentes evaluado por la UMPROCI;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+II. Plan de Contingencias y Plan de Control de Accidentes evaluado por la UOMPROCI;
 
 III. Estudio de riesgo evaluado por el Instituto Nacional de Ecología o la autoridad competente;
 
@@ -23075,9 +23311,11 @@ En Estaciones de Servicio de Gas Licuado de Petróleo, para uso Comercial, la ca
 
 La capacidad de almacenamiento en uno o varios tanques, no podrá ser menor de 5,000 litros ni mayor de 20,000 litros. Esta restricción aplica exclusivamente a predios dentro de la zona urbana.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1970.
 
-Para capacidades mayores a 20,000 litros, en la modalidad Comercial, se autorizarán en su caso, previo cumplimiento de las normas de aprovechamiento y de ubicación del predio, así como de los requerimientos señalados por la Dirección y la UMPROCI para cada solicitud en particular, siendo la capacidad máxima de almacenamiento de 40,000 litros en total.
+Para capacidades mayores a 20,000 litros, en la modalidad Comercial, se autorizarán en su caso, previo cumplimiento de las normas de aprovechamiento y de ubicación del predio, así como de los requerimientos señalados por la Dirección y la UOMPROCI para cada solicitud en particular, siendo la capacidad máxima de almacenamiento de 40,000 litros en total.
 
 ###### Artículo 1971.
 
@@ -26486,3 +26724,7 @@ P.O. 18 DE OCTUBRE DE 2006.
 PRIMERO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las demás disposiciones que sean contrarias al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2006.
+
+ÚNICO.- Se derogan las disposiciones que se opongan al presente Dictamen.
