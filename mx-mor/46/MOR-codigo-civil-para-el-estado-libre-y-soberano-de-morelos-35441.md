@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2006-09-06"
+last_updated: "2006-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 13 de octubre de 1993.
 
@@ -437,89 +437,133 @@ REGLAS COMPLEMENTARIAS DE INTERPRETACION DEL ACTO JURIDICO. Cuando fuere absolut
 
 Si las dudas de cuya solución trata este artículo recayesen sobre el objeto principal del acto jurídico, de suerte que no pueda venirse en conocimiento de cuál fue la intención o la voluntad del autor o autores del acto, éste será inexistente.
 
-> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 # LIBRO SEGUNDO. DE LAS PERSONAS
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ## TITULO PRIMERO. DE LAS PERSONAS JURIDICAS
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO I. REGLAS GENERALES
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 59.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+SUJETO DE DERECHO. La persona jurídica es todo ser humano o ente titular de derechos y obligaciones.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 60.
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+PERSONALIDAD Y CAPACIDAD. Para éste Código, la personalidad es la atribución general de toda persona jurídica para ser titular de derechos y obligaciones; así como la capacidad es la idoneidad o aptitud referida a hechos específicos cuando así lo requiera.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO II. DE LAS PERSONAS JURIDICAS INDIVIDUALES
+### CAPITULO II. DE LAS PERSONAS JURIDICAS COLECTIVAS
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 61.
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+PERSONAS COLECTIVAS. Las personas jurídicas colectivas, también llamadas morales, son:
 
-###### ARTICULO 61 Bis.
+I.- La Nación, los Estados y los Municipios
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+II.- Las demás corporaciones de carácter público reconocidas por la Ley
+
+III.- Los sindicatos, las asociaciones profesionales y las demás a que se refieren las fracciones XVI, apartado A, y X, apartado B, del artículo 123 de la Constitución Federal
+
+IV.- Las sociedades mercantiles y las demás no civiles reguladas por las leyes federales
+
+V.- Las sociedades y asociaciones civiles
+
+VI.- Las asociaciones distintas de las enumeradas que se propongan fines políticos científicos, mutualistas, artísticas, de recreo o cualquier otro fin lícito no económico, siempre que no fueren desconocidas por la Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 62.
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+EJERCICIO DE LOS DERECHOS DE LAS PERSONAS JURÍDICAS COLECTIVAS. Las personas jurídicas colectivas pueden ejercitar todos los derechos que sean necesarios para realizar el objeto social establecido en sus estatutos.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 63.
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+ÓRGANOS REPRESENTATIVOS DE LAS PERSONAS COLECTIVAS. Las personas jurídicas colectivas obran y se obligan por medio de órganos que las representan, sea por disposición de la Ley o conforme a lo dispuesto en sus escrituras constitutivas o estatutos.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 64.
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+RECONOCIMIENTO DE PERSONAS COLECTIVAS. Para los efectos de este Código, no se reconocen más personas jurídicas colectivas que las expresamente autorizadas por la Ley.
 
-### CAPITULO III. DE LAS PERSONAS JURIDICAS COLECTIVAS
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO III. DEL DOMICILIO
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 65.
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+DOMICILIO DE LAS PERSONAS COLECTIVAS. Las personas jurídicas colectivas tienen su domicilio en el lugar donde se halle establecida su administración.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+Las que tengan su administración fuera del Estado de Morelos, pero que ejecuten actos jurídicos dentro de él, se considerarán domiciliadas en el lugar donde los hayan ejecutado, en todo lo que a esos actos se refiera.
 
-### CAPITULO IV. DEL DOMICILIO
+Las sucursales que operen en lugares distintos de donde radica la casa matriz, tendrán su domicilio en esos lugares para el cumplimiento de las obligaciones contraídas por las mismas sucursales.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO IV. DE LA RAZON O DENOMINACION SOCIAL
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 66.
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+DENOMINACIÓN SOCIAL DE LAS ASOCIACIONES Y SOCIEDADES CIVILES. La denominación de las personas jurídicas colectivas civiles se formará por la razón o denominación social aprobada por sus miembros, seguido de las palabras asociación civil o sociedad civil, o bien de las siglas A.C. o S.C. según corresponda.
 
-### CAPITULO V. DEL NOMBRE
+La razón o denominación social no deberá ser contraria a las disposiciones sobre nomenclatura de entes reguladas en otras leyes.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO V. DE LA NACIONALIDAD
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 67.
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+DE LAS PERSONAS JURÍDICAS. Son personas jurídicas colectivas de nacionalidad mexicana las que se constituyan conforme a las leyes de la república y tengan en ella su domicilio legal, como vínculo jurídico político que las une con el estado mexicano; en todo lo relativo a ellas se estará a lo dispuesto en las leyes especiales.
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 68.
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+DE LAS PERSONAS JURÍDICAS COLECTIVAS EXTRANJERAS. Las asociaciones y sociedades civiles extranjeras se regirán atentas a las disposiciones relativas a éste código.
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 69.
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+INCAPACIDAD PARA HEREDAR POR RAZONES DE ORDEN PÚBLICO. Los extranjeros y las personas jurídicas colectivas son capaces de adquirir bienes por testamento o por intestado, pero su capacidad tiene las limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, en la del Estado Libre y Soberano de Morelos y en las leyes que de ésta emanen.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO VI. DE LA NACIONALIDAD
+### CAPITULO VI. DEL DOMICILIO
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 70.
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+PATRIMONIO DEL SUJETO DE DERECHO. Por patrimonio se considera la universidad jurídica constituida por el conjunto de bienes, derechos y obligaciones, actuales y futuros susceptibles de apreciación pecuniaria.
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 71.
 
-(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
+PLURALIDAD DE PATRIMONIO. Cuando se afecte un conjunto de bienes, derechos y obligaciones a un fin lícito determinado podrá existir pluralidad de patrimonio.
 
 ###### ARTICULO 72.
 
@@ -537,8 +581,6 @@ Si las dudas de cuya solución trata este artículo recayesen sobre el objeto pr
 
 (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
-
 ###### ARTICULO 76.
 
 (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
@@ -550,8 +592,6 @@ Si las dudas de cuya solución trata este artículo recayesen sobre el objeto pr
 ###### ARTICULO 78.
 
 (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 79.
 
@@ -14036,3 +14076,7 @@ SEXTO.- Dentro de un plazo de ciento veinte días naturales contados a partir de
 SÉPTIMO.- El Tribunal Superior de Justicia del Estado de Morelos, en un plazo no mayor a ciento veinte días contados a partir de la vigencia del presente código, deberá crear el Departamento de Orientación Familiar a que se refiere el artículo 25 de este ordenamiento, previniendo una partida presupuestal para el ejercicio fiscal 2007 y subsecuentes, para que dicho órgano cumpla con su objeto.
 
 OCTAVO.- Los epígrafes que preceden a los artículos de este Código no tienen valor para su interpretación y no pueden ser citados con respecto al contenido y alcance de las normas civiles.
+
+P.O. 6 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
