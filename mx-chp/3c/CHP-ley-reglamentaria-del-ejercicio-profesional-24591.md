@@ -4,7 +4,7 @@ identifier: "CHP-ley-reglamentaria-del-ejercicio-profesional-24591"
 country: "mx"
 rank: "ley"
 publication_date: "1946-06-26"
-last_updated: "1946-06-26"
+last_updated: "2006-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY PARA EL EJERCICIO PROFESIONAL DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 6 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de junio de 1946.
 
@@ -246,3 +248,21 @@ El Ejecutivo dispondrá se promulgue, circule y se dé el debido cumplimiento.
 Dado en el Salón de Sesiones del Palacio del H. Poder Legislativo en Tuxtla Gutiérrez, Chis., a los quince días del mes de junio de mil novecientos cuarenta y seis.- D.P., DR. HUMBERTO PASCACIO GAMBOA.- D.S., GABRIEL SARMIENTO CAMACHO.- D.S., ALBERTO LANNING ACEITUNO.- Rúbricas.
 
 De conformidad con la Fraccion XIII del artículo 48 de la Constitución Política Local, y para su observancia, promulgo el presente Decreto en la ciudad de Tuxtla Gutiérrez, Chis., a los 15 días del mes de junio de 1946.- J. M. ESPONDA. El Oficial Mayor Encargado del Despacho de la Secretaria General, Prof. MANUEL RODRIGUEZ DE LA CRUZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE DICIEMBRE DE 2006.
+
+Primero.- Se abroga la Ley para el Ejercicio Profesional en el Estado de Chiapas, Reglamentaria de los artículos 4° y 5°, de la Constitución Política de los Estados Unidos Mexicanos, contenida en el Decreto 55, publicado en el Periódico Oficial del Estado, con fecha 15, de junio de 1946. Asimismo se derogan todas las disposiciones de Ley y Reglamentos del Estado, que se opongan o, no sean acordes con esta Ley.
+
+Segundo.- A partir de la vigencia de la presente Ley, los profesionistas que ejerzan en el Estado, y que no cuenten con el registro correspondiente, dispondrán de seis meses para gestionarlo ante la Unidad Administrativa de Profesiones.
+
+Tercero.- A los colegios de profesionistas, que a la fecha de la entrada en vigor de esta Ley, se encuentren debidamente reconocidas, autorizadas y registradas ante la Unidad Administrativa General de Profesiones de la Secretaría de Educación Pública, se les seguirá respetando su registro, autorización y reconocimiento; debiendo sus agremiados cumplir los requisitos aludidos en el artículo 56, de esta Ley.
+
+Las asociaciones de profesionistas que se encuentren fuera de lo previsto en el párrafo anterior, dispondrán de un plazo de cuatro meses, para satisfacer los requisitos necesarios y, registrarse como colegio de profesionistas, y ostentarse de dicha calidad.
+
+Cuarto.- A los mexicanos que actualmente ejerzan en el Estado, con título, especialidad o grado académico obtenido en el extranjero, se les concede un plazo de un año, para satisfacer las condiciones que exige la presente Ley.
+
+Quinto.- Los extranjeros que hayan ejercido en el País durante los últimos cinco años y hubieren registrado su título ante autoridad competente, podrán ejercer en el Estado, de acuerdo con las prescripciones de esta Ley. Los que hubieren revalidado y registrado su título, si tienen el carácter de inmigrados de acuerdo con la Ley General de Población, podrán registrarse, si cumplen con todos y cada uno de los requisitos de esta Ley.
+
+Sexto.- Esta Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
