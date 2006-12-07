@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-543-hacendario-para-el-municipio-de-veracruz-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-10"
-last_updated: "2006-06-06"
+last_updated: "2006-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE DICIEMBRE DE 2006.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
 
@@ -129,17 +129,29 @@ XX. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo
 
 XXI. Síndico: El Síndico del Ayuntamiento;
 
-XXII. Tesorería: La Tesorería del Ayuntamiento; y
+> <small>(REFORMADA, G.O. 7 DE DICIEMBRE DE 2006)</small>
 
-XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento.
+XXII. Tesorería: La Tesorería del Ayuntamiento;
+
+> <small>(REFORMADA, G.O. 7 DE DICIEMBRE DE 2006)</small>
+
+XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento; y
+
+> <small>(ADICIONADA, G.O. 7 DE DICIEMBRE DE 2006)</small>
+
+XXIV. Multa: Sanción a la conducta infractora sobre el pago de impuestos, derechos, productos, aprovechamientos, con el fin de que los sujetos pasivos no vuelvan a incurrir en omisión en el cumplimiento de su pago.
 
 ###### Artículo 3.
 
 La Hacienda Pública Municipal se formará por los bienes municipales del dominio público y privado, así como por los rendimientos de los bienes que le pertenezcan, de conformidad con la legislación aplicable; así como por las aportaciones voluntarias, los impuestos, derechos, productos, aprovechamientos, participaciones, tasas adicionales establecidas por el Congreso sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, las que tengan por base el cambio de valor de los inmuebles y todos los demás ingresos fiscales que aquél establezca a su favor, en términos de las disposiciones legales aplicables.
 
+> <small>(REFORMADO, G.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 4.
 
-Todos los recursos públicos pertenecientes al Municipio ingresarán a la Tesorería, con excepción de los casos expresamente señalados en el presente ordenamiento y demás disposiciones legales aplicables. El Ayuntamiento, previo convenio que al respecto celebre, podrá autorizar a instituciones bancarias, crediticias o comerciales a recibir el pago de las contribuciones y otros ingresos fiscales previstos en este Código.
+Los recursos públicos pertenecientes al municipio ingresarán a la tesorería, con excepción de los casos expresamente señalados en el presente ordenamiento y demás disposiciones legales aplicables. El Ayuntamiento, previo convenio que al respecto celebre, podrá autorizar a instituciones bancarias, crediticias, comerciales, módulos u otros establecimientos, a recibir el pago de las contribuciones y otros ingresos fiscales previstos en este Código.
+
+Los pagos podrán ser cobrados por medios electrónicos, debiendo establecer el Ayuntamiento, medidas de seguridad para ello, que además garanticen la expedición de las constancias fiscales o cualquier otro documento oficial.
 
 ###### Artículo 5.
 
@@ -863,7 +875,7 @@ II. Autorizar la verificación o comprobación del cumplimiento de las obligacio
 
 IV. Determinar y ordenar el cobro a los contribuyentes, responsables solidarios y demás obligados, de las diferencias por errores aritméticos en las declaraciones y por el pago en parcialidades de las contribuciones, tanto de las derivadas de la aplicación de disposiciones fiscales previstas en este ordenamiento, como las de naturaleza federal cuando actúen en los términos de los convenios de coordinación fiscal federal;
 
-V. Calificar, para su aceptación, las garantías del interés fiscal que deban ser otorgadas en favor del Ayuntamiento; hacerlas efectivas y resolver sobre la dispensa o el otorgamiento de las mismas; vigilar que sean suficientes y exigir su ampliación, así como ordenar el secuestro de otros bienes;
+V. Calificar, para su aceptación, las garantías del interés fiscal que deban ser en favor del Ayuntamiento; hacerlas efectivas y resolver sobre la dispensa o el otorgamiento de las mismas; vigilar que sean suficientes y exigir su ampliación, así como ordenar el secuestro de otros bienes;
 
 VI. Practicar, de conformidad con el procedimiento previsto en Código de la materia, visitas en el domicilio fiscal o negociaciones de los sujetos pasivos, de los responsables solidarios o de los terceros relacionados con ellos, con el fin de verificar el cumplimiento de obligaciones fiscales derivadas de disposiciones legales y reglamentarias, así como de la presentación de documentos e informes relacionados con el cumplimiento de las obligaciones fiscales; revisar sus bienes, mercancías y, en general, la documentación que tenga relación con las obligaciones fiscales y, en su caso, asegurarlos, dejando en calidad de depositario al visitado, previo inventario que al efecto se formule;
 
@@ -1639,9 +1651,11 @@ El Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, se causará en tod
 
 Son sujetos de este impuesto, las personas físicas o morales que adquieran inmuebles ubicados dentro del territorio del Municipio, por alguna de las formas señaladas en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 133.
 
-Será base gravable del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, el valor que resulte más alto entre el de operación y el valor catastral o catastral provisional.
+Será base gravable del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, el valor que resulte más alto entre el de operación y el valor catastral o catastral provisional, con base en las Tablas de Valores publicadas en la Gaceta Oficial, órgano del gobierno del estado, en términos de la Ley de Catastro del estado de Veracruz de Ignacio de la Llave.
 
 Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten, bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
 
@@ -1653,9 +1667,11 @@ En los inmuebles adquiridos durante el período de tres años anteriores, contad
 
 En la adquisición por prescripción positiva, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial; en la adquisición por herencia, a la fecha de la adjudicación; y en la información ad perpetuam, a la fecha de la resolución judicial.
 
+> <small>(REFORMADO, G.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 134.
 
-Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo, deberán contar con el Certificado de Valor Catastral o Catastral Provisional, actualizado a la fecha en que se hubiere realizado el acto generador del impuesto.
+Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo deberán contar con el Certificado de Valor Catastral o Catastral Provisional, actualizado a la fecha en que se hubiere realizado el acto generador del impuesto, con base en las Tablas de Valores publicadas en la Gaceta Oficial, órgano del gobierno del estado, en términos de la Ley de Catastro del estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 135.
 
@@ -1705,7 +1721,7 @@ No se causará este impuesto, en las adquisiciones de bienes inmuebles que reali
 
 No causarán este impuesto las adquisiciones de inmuebles que se realicen en los siguientes casos:
 
-I. Por los Partidos Políticos nacionales, siempre y cuando dichos inmuebles sean para el cumplimiento de sus fines;
+I. (DEROGADA, G.O. 7 DE DICIEMBRE DE 2006)
 
 II. La constitución, disolución o liquidación de la sociedad conyugal;
 
@@ -1715,9 +1731,9 @@ IV. La división de la cosa común entre los copropietarios siempre que los valo
 
 V. Los actos constitutivos de fideicomiso de garantía, salvo que se realicen en cumplimiento de los fines de estos fideicomisos. Asimismo, no causarán este impuesto los actos constitutivos de fideicomisos estatales y bursátiles, así como las operaciones que los fideicomisos estatales realicen, cuando precisen la traslación del dominio de bienes inmuebles, con el fin de cumplir con su objeto público o de incorporarlos al dominio público;
 
-VI. Por los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
+VI. (DEROGADA, G.O. 7 DE DICIEMBRE DE 2006)
 
-VII. Por las asociaciones religiosas constituidas en los términos de la ley de la materia, siempre que en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+VII. (DEROGADA, G.O. 7 DE DICIEMBRE DE 2006)
 
 En la enajenación de predios derivada de programas de regularización de la tenencia de la tierra, que realicen organismos federales, estatales o municipales, se pagará este impuesto con una cuota fija equivalente al cincuenta por ciento de un salario mínimo diario.
 
@@ -5088,3 +5104,9 @@ Artículo único. El presente Decreto entrará en vigor el 1 de enero del año 2
 G.O. 6 DE JUNIO DE 2006.
 
 Único. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 7 DE DICIEMBRE DE 2006.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
