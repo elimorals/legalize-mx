@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-541-hacendario-para-el-municipio-de-boca-del-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-02-19"
-last_updated: "2003-03-18"
+last_updated: "2006-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RIO, ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE DICIEMBRE DE 2006.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 19 de febrero de 2003.
 
@@ -2175,9 +2175,23 @@ Las autoridades municipales establecerán en sus reglamentos respectivos, o medi
 
 Los derechos a que se refiere esta Sección, se cobrarán por la autorización respectiva, de acuerdo a las cuotas siguientes:
 
-I. Por la colocación de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, de ocho a dieciséis salarios mínimos, anualmente;
+> <small>(REFORMADA, G.O. 7 DE DICIEMBRE DE 2006)</small>
 
-II. Por la colocación eventual de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, cuatro salarios mínimos por evento;
+I. Por la colocación de anuncios comerciales que tengan efectos sobre la vía pública, repercutiendo en la imagen urbana, de acuerdo a la siguiente clasificación:
+
+a) Popular: dos salarios mínimos por metro cuadrado de superficie del anuncio, por cara anunciante anualmente.
+
+b) Interés social: cuatro salarios mínimos por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
+
+c) Medio: de cuatro a seis salarios mínimos por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
+
+d) Residencial: de seis a nueve salarios mínimos por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
+
+e) Para aquellos anuncios que tengan efectos sobre las siguientes vialidades: Costa Verde, Urano, Juan Pablo II, boulevard Manuel Ávila Camacho, boulevard Adolfo Ruiz Cortines, boulevard Miguel Alemán, Ejército Mexicano, Prol. Díaz Mirón, Lázaro Cárdenas, independientemente del sector donde se encuentren instalados, de ocho a nueve salarios mínimos por metro cuadrado de superficie del anuncio, por cara anunciante hacia la vialidad, anualmente;
+
+> <small>(REFORMADA, G.O. 7 DE DICIEMBRE DE 2006)</small>
+
+II. Por la colocación eventual de anuncios comerciales que tengan efectos en la vía pública, repercutiendo en la imagen urbana, diez salarios mínimos por evento;
 
 III. Por el anuncio de eventos en altavoz móvil, cuatro salarios mínimos por evento; y
 
@@ -4641,7 +4655,37 @@ III. Si en el término de dos años, el adquirente no concluye el proceso de esc
 
 Los Notarios Públicos al otorgar las escrituras o instrumentos que contengan las enajenaciones de inmuebles, estipularán en las mismas las condiciones a que se refiere el artículo anterior. La infracción será sancionada conforme al procedimiento establecido en la Ley del Notariado y demás disposiciones legales aplicables, sin perjuicio de otras responsabilidades que pudieren resultarles. Para su ejercicio se otorga acción pública.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 7 DE DICIEMBRE DE 2006)</small>
+
+#### SECCIÓN TERCERA (SIC). DE LOS INMUEBLES BALDÍOS
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2006)</small>
+
 #### SECCIÓN II. DE LA VENTA DE INMUEBLES DE INTERES SOCIAL
+
+###### Artículo 477 Bis.
+
+Son terrenos baldíos, aquellos que ubicados en las zonas urbanas y suburbanas de los municipios, carecen de propietario, edificación y posesión particular.
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 477 Ter.
+
+El Ayuntamiento para preservar el interés general, podrá adjudicarse los terrenos baldíos mediante el procedimiento de ocupación, con el fin de destinarlos a un servicio público y requerimientos habitacionales de interés social. La autoridad catastral municipal elaborará un padrón actualizado de terrenos baldíos ubicados dentro de las zonas urbanas y suburbanas del municipio.
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2006)</small>
+
+Artículo 477 Cuarter.- El Ayuntamiento, para efectuar la adjudicación de los terrenos baldíos, se sujetará al procedimiento siguiente:
+
+I. Informes de la Oficina de Catastro Municipal de la existencia de un terreno baldío, y del Registro Público de la Propiedad y del Comercio, de la demarcación registral correspondiente, que hagan constar que el bien o bienes baldíos no se encuentran inscritos a favor de persona alguna;
+
+II. Recibir los informes a que se refiere la fracción anterior, en sesión del Cabildo, se tomará el acuerdo para proceder a la adjudicación y se ordenará publicar dicho acuerdo, por una sola vez, en la tabla de avisos del Palacio Municipal, que contendrá la ubicación, superficie, medidas y colindancias; concediéndose el término de treinta días naturales, contados a partir del día siguiente a su publicación, para que comparezcan los interesados a deducir sus derechos en caso de que se consideren afectados;
+
+III. Dicho acuerdo será notificado de manera personal a los colindantes;
+
+IV. Transcurrido el término señalado en la fracción II, y no existiendo oposición legítima de tercero, el Ayuntamiento emitirá el acuerdo declarando que el bien sujeto al procedimiento pasa a ser propiedad del municipio; y
+
+V. El acuerdo declarativo será publicado por única vez en la tabla de avisos del Palacio Municipal y en la Gaceta Oficial del estado, remitiéndose copia certificada del acuerdo de adquisición al Registro Público de la Propiedad y del Comercio que corresponda, para que se inscriba por primera vez como título de propiedad a favor del municipio.
 
 ## TÍTULO TERCERO
 
@@ -4744,3 +4788,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SEPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 7 DE DICIEMBRE DE 2006.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicació9n en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
