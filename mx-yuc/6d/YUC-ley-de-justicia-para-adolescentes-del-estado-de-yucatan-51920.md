@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-justicia-para-adolescentes-del-estado-de-yucatan-51920"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-01"
-last_updated: "2006-10-01"
+last_updated: "2006-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE YUCATAN
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DE LA PRESENTE LEY, ENTRARA EN VIGOR A LOS SEIS MESES DE SU PUBLICACION.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el domingo 1 de octubre de 2006.
 
@@ -35,11 +33,21 @@ EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN 
 
 DECRETO:
 
+> <small>N. DE E. LAS REFORMAS APROBADAS EN LA NUEVA PUBLICACION DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE YUCATAN, POP EL CONGRESO DEL ESTADO, MODIFICAN DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA LEY, DANDO COMO RESULTADO UN TEXTO DIFERENTE, Y SI BIEN, DIVERSOS ARTICULOS QUEDARON INTACTOS, SE DEJA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. 7 DE DICIEMBRE DE 2006.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE YUCATÁN
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 1.
 
@@ -47,13 +55,15 @@ La presente ley es de orden público, interés social y observancia general en e
 
 I.- Establecer el Sistema Integral de Justicia para Adolescentes en el Estado de Yucatán;
 
-II.- Garantizar los derechos y establecer las obligaciones de los Adolescentes a quienes se les atribuya o declare ser autor o partícipes de una conducta tipificada como delito por las normas penales del Estado;
+II.- Garantizar los derechos y establecer las obligaciones de los Adolescentes, a quienes se les atribuya o declare ser autor o partícipes de una conducta tipificada como delito por las normas penales del Estado;
 
 III.- Regular los procedimientos a los que se sujetará a los Adolescentes a que se refiere esta Ley;
 
 IV.- Crear los órganos integrantes del Sistema, y
 
-V.- Determinar, aplicar y supervisar las medidas impuestas al Adolescente que sea declarado responsable de una conducta tipificada como delito en las normas penales del Estado.
+V.- Determinar, aplicar y supervisar las medidas impuestas al Adolescente, que sea declarado responsable de una conducta tipificada como delito en las normas penales del Estado.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 2.
 
@@ -111,6 +121,8 @@ XXV.- Libertad probatoria y libre valoración de la prueba; y
 
 XXVI.- Demás consignados en los tratados internacionales y las leyes aplicables en la materia.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 3.
 
 Para efectos de esta Ley, se entiende por:
@@ -145,29 +157,41 @@ XIV.- Sistema: El Sistema Integral de Justicia para Adolescentes del Estado de Y
 
 XV.- Sala Especializada: La Sala dependiente del Poder Judicial del Estado especializada en justicia para Adolescentes.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 4.
 
-Esta Ley debe aplicarse e interpretarse de conformidad con los principios rectores del Sistema, la Constitución de los Estados Unidos Mexicanos, los instrumentos internacionales aplicables en la materia, la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes y la Constitución Política del Estado de Yucatán, siempre en el sentido de maximizar los derechos de los Adolescentes y de minimizar los efectos negativos de la aplicación del Sistema.
+Esta Ley debe aplicarse e interpretarse de conformidad con los principios rectores del Sistema, la Constitución de los Estados Unidos Mexicanos, los instrumentos internacionales aplicables en la materia, la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes y la Constitución Política del Estado de Yucatán, siempre en el sentido de maximizar los derechos de los Adolescentes y, de minimizar los efectos negativos de la aplicación del Sistema.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 5.
 
 Sólo en lo no previsto por esta Ley, deberá aplicarse supletoriamente el Código Penal y el Código de Procedimientos Penales, siempre que no se opongan a los principios rectores y ordenamientos a que se refiere el artículo anterior, protegiendo la integridad de los derechos y garantías de los Adolescentes.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 6.
 
-El Sistema es el conjunto de elementos normativos, órganos y procedimientos aplicables a los Adolescentes a los que se refiere esta Ley. Son integrantes del Sistema los órganos previstos en el artículo 73 bis de la Constitución Política del Estado de Yucatán.
+El Sistema es el conjunto de elementos normativos, órganos y procedimientos aplicables a los Adolescentes a los que se refiere esta Ley. Son integrantes del Sistema, los órganos previstos en el artículo 73 bis de la Constitución Política del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 7.
 
-Las autoridades, instituciones y órganos especializados para Adolescentes, podrán celebrar convenios de colaboración con otras autoridades, instituciones y órganos homólogos de la Federación o las entidades federativas, así como con organismos públicos o privados, organizaciones no gubernamentales y de la sociedad civil, a efecto de lograr un mejor funcionamiento del Sistema.
+Las autoridades, instituciones y órganos especializados para Adolescentes, podrán celebrar convenios de colaboración con otras autoridades, instituciones y órganos homólogos de la Federación o las entidades federativas; así como, con organismos públicos o privados, organizaciones no gubernamentales y de la sociedad civil, a efecto de lograr un mejor funcionamiento del Sistema.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 8.
 
-La violación de derechos y garantías de los Adolescentes es causa de nulidad del acto y determinará la responsabilidad de los servidores públicos implicados, en los términos de la Ley de Responsabilidades de los Servidores Públicos, la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán y demás disposiciones aplicables.
+La violación de derechos y garantías de los Adolescentes es causa de nulidad del acto y, determinará la responsabilidad de los servidores públicos implicados, en los términos de la Ley de Responsabilidades de los Servidores Públicos, la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán y demás disposiciones aplicables.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 9.
 
-Los agentes de las corporaciones preventivas estatales y municipales que en el ejercicio de sus funciones conozcan de hechos y conductas tipificadas como delitos por las normas penales del Estado, en las que participen Adolescentes, al ejercer sus funciones deberán:
+Los agentes de las corporaciones preventivas estatales, y municipales, que en el ejercicio de sus funciones conozcan de hechos y conductas tipificadas como delitos por las normas penales del Estado, en las que participen Adolescentes, al ejercer sus funciones, deberán:
 
 I.- Apegarse a los principios, derechos y garantías previstos en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, los Tratados Internacionales aplicables en la materia, la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, esta Ley y las demás aplicables;
 
@@ -175,7 +199,7 @@ II.- Informar al Adolescente de los derechos que le garantizan los ordenamientos
 
 III.- Poner al Adolescente, inmediatamente y sin demora a disposición del Ministerio Público;
 
-IV.- Auxiliar, de modo prioritario, a las personas menores de 18 años de edad que se encuentren amenazadas por algún peligro o que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos;
+IV.- Auxiliar de modo prioritario, a las personas menores de 18 años de edad que se encuentren amenazadas por algún peligro o que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos;
 
 V.- En los casos de duda acerca de la edad de la persona detenida en flagrancia, presumir que se trata de Adolescentes o niños, según sea el caso;
 
@@ -183,19 +207,25 @@ VI.- Salvaguardar la vida, la dignidad e integridad física de niños, niñas y 
 
 VII.- Manejar con discreción todo asunto relacionado con niñas, niños y Adolescentes, evitando su publicidad.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO II. Sujetos y Ámbito de Aplicación Material
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 10.
 
 Son sujetos de esta ley:
 
-I.- Los Adolescentes entre 12 años cumplidos y menos de 18 años de edad a quienes se atribuya la realización de una conducta tipificada como delito por las normas penales del Estado;
+I.- Los Adolescentes entre 12 años cumplidos y menos de 18 años de edad, a quienes se atribuya la realización de una conducta tipificada como delito, por las normas penales del Estado;
 
 II.- Las personas de entre 18 años cumplidos y 25 no cumplidos de edad, a quienes se atribuya la realización de una conducta tipificada como delito por las normas penales del Estado, cometida cuando eran Adolescentes, y
 
 III.- Las víctimas u ofendidos por las conductas referidas, en la fracción anterior.
 
-La edad a considerar será la que tenía la persona al momento de realizar las conductas que se ajustan a los tipos delictivos establecidos en las normas penales del Estado.
+La edad a considerar, será la que tenía la persona al momento de realizar las conductas que se ajustan a los tipos delictivos establecidos en las normas penales del Estado.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 11.
 
@@ -207,31 +237,41 @@ II.- Entre catorce y menos de dieciséis años de edad, y
 
 III.- Entre dieciséis y menos de dieciocho años de edad.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 12.
 
-La edad se comprobará mediante el certificado de nacimiento expedida por el Registro Civil, de conformidad con lo previsto por el Código Civil, o bien, tratándose de extranjeros, por documento apostillado o legalizado. Cuando esto no sea posible, la comprobación se hará mediante dictamen médico rendido por los peritos que para tal efecto designe la autoridad correspondiente.
+La edad se comprobará mediante el certificado de nacimiento expedida por el Registro Civil, de conformidad con lo previsto por el Código Civil, o bien, tratándose de extranjeros, por documento apostillado o legalizado. Cuando esto no sea posible, la comprobación se hará mediante dictamen médico, rendido por los peritos que para tal efecto designe la autoridad correspondiente.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 13.
 
-La niña o niño menor de 12 años de edad a quien se le atribuya una conducta tipificada como delito en las normas penales del Estado, queda exento de toda responsabilidad, y sólo podrán ser sujetos a rehabilitación, asistencia social y la protección que en su favor se establecen conforme a las disposiciones legales aplicables. En este caso se dará vista inmediatamente a la Procuraduría de la Defensa del Menor y la Familia, para los efectos conducentes.
+La niña o niño menor de 12 años de edad, a quien se le atribuya una conducta tipificada como delito en las normas penales del Estado, queda exento de toda responsabilidad; y sólo podrán ser sujetos a rehabilitación, asistencia social y la protección que en su favor se establecen conforme a las disposiciones legales aplicables. En este caso se dará vista inmediatamente a la Procuraduría de la Defensa del Menor y la Familia, para los efectos conducentes.
 
-Quedan a salvo los derechos de la víctima para solicitar la reparación del daño por la vía legal que corresponda.
+Quedan a salvo los derechos de la víctima, para solicitar la reparación del daño por la vía legal que corresponda.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 14.
 
 Si existe duda en cuanto a que una persona es Adolescente o mayor de edad, se presumirá que es Adolescente y quedará sujeto a esta Ley, hasta que se pruebe lo contrario.
 
-Si existe duda en cuanto a que una persona es menor de doce años de edad o Adolescente, se presumirá que es niño o niña, y no se le aplicará esta Ley hasta que se pruebe lo contrario.
+Si existe duda en cuanto a que una persona es menor de doce años de edad o Adolescente, se presumirá que es niño o niña y no se le aplicará esta Ley hasta que se pruebe lo contrario.
 
-Si la duda se refiere al grupo de edad a la que pertenece el Adolescente se presumirá que forma parte del que le sea más conveniente.
+Si la duda se refiere al grupo de edad a la que pertenece el Adolescente, se presumirá que forma parte del que le sea más conveniente.
 
 En todos los casos, al Ministerio Público le corresponde determinar el rango de edad conforme al artículo 11 de esta Ley, de la persona que pretende someter al Sistema, sin perjuicio de que ella o su defensa la pruebe espontáneamente.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 15.
 
 Sólo a los Adolescentes del grupo etario a que se refiere la fracción III del artículo 11 de esta Ley, podrá exigírseles responsabilidad por las conductas que se les atribuyan en caso de coincidir con delitos tipificados en las normas penales del Estado, que exclusivamente sean atribuibles a servidores públicos.
 
-Únicamente a los Adolescentes del grupo etario que establecen las fracciones II y III del artículo 11 de esta Ley, podrá exigírseles responsabilidades por las conductas que se les atribuyan en caso de coincidir con delitos tipificados en las normas penales del Estado, que exclusivamente sean atribuibles a quienes sostienen relaciones laborales subordinadas o de mando. Se considerará que el Adolescente realizó una conducta en posición de mando cuando pública y usualmente emita órdenes y sean obedecidas por los trabajadores a su servicio directo o de la empresa en que se desempeña.
+Únicamente a los Adolescentes del grupo etario que establecen las fracciones II y III del artículo 11 de esta Ley, podrá exigírseles responsabilidades por las conductas que se les atribuyan en caso de coincidir con delitos tipificados en las normas penales del Estado, que exclusivamente sean atribuibles a quienes sostienen relaciones laborales subordinadas o de mando. Se considerará que el Adolescente realizó una conducta en posición de mando, cuando pública y usualmente emita órdenes y sean obedecidas por los trabajadores a su servicio directo o de la empresa en que se desempeña.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -239,19 +279,25 @@ Además de las conductas de los Adolescentes que requieran de querella para que 
 
 Las conductas de los Adolescentes que se ajusten a los tipos delictivos de carácter patrimonial que se persiguen de oficio, salvo que sean efectuados con violencia, podrán ser objeto del perdón de la víctima.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 17.
 
 Los Adolescentes que, al momento de realizar la conducta que se ajusta a un tipo delictivo previsto en las normas penales del Estado, padezcan de algún trastorno mental que les impida comprender la trascendencia y las consecuencias de la conducta realizada, quedan excluidos de responsabilidad en los términos de esta Ley. En este supuesto la autoridad que conozca del procedimiento dará vista a la institución especializada en la atención del caso.
 
-El Juez suspenderá el procedimiento cuando el Adolescente presente un trastorno durante éste, dará vista a la institución especializada en su atención y en su caso, lo entregará a las personas a quienes legalmente corresponda hacerse cargo de ellas.
+El Juez suspenderá el procedimiento cuando el Adolescente presente un trastorno durante éste, dará vista a la institución especializada en su atención; y en su caso, lo entregará a las personas a quienes legalmente corresponda hacerse cargo de él.
 
 Cuando el mismo supuesto se presente en la etapa de la ejecución, el Director del Centro dará vista a la institución especializada en su atención para que emitan su dictamen, con base al cual solicitará la suspensión, modificación o conclusión anticipada de las medidas.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 18.
 
-Las reformas y adiciones a las leyes del Estado, que modifiquen o agreguen tipos delictivos o varíen los numerales de los artículos que les corresponden, deberán expresar en un artículo transitorio si se limita o exceptúa o no la responsabilidad de los Adolescentes de alguno o algunos de los grupos etarios a que se refiere el artículo 11 de esta ley y los efectos de la variación de los numerales de los artículos. En estos casos, los propios transitorios dispondrán que la modificación legislativa a las leyes del Estado entrará en vigor simultáneamente con la vigencia de la adecuación correspondiente que se haga a esta ley.
+Las reformas y adiciones a las leyes del Estado, que modifiquen o agreguen tipos delictivos o varíen los numerales de los artículos que les corresponden, deberán expresar en un artículo transitorio si se limita o exceptúa o no la responsabilidad de los Adolescentes de alguno o algunos de los grupos etarios a que se refiere el artículo 11 de esta ley y los efectos de la variación de los numerales de los artículos. En estos casos, los propios transitorios dispondrán que la modificación legislativa a las leyes del Estado, entrará en vigor simultáneamente con la vigencia de la adecuación correspondiente que se haga a esta ley.
 
 La previsión del párrafo precedente será aplicable a cualquiera otra ley del Estado que cree o modifique tipos delictivos.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 19.
 
@@ -265,7 +311,7 @@ III.- Se observen las garantías del debido proceso legal, desde el inicio de la
 
 IV.- Independencia entre las autoridades que efectúen la remisión, las que dicten las medidas y quienes las ejecuten;
 
-V.- Se le respete en todo momento, el derecho a la igualdad ante la ley y a no ser discriminado por motivos de raza, origen étnico, género, preferencia sexual, condición social o económica, religión, idioma, lengua, dialecto, nacionalidad, prácticas o creencias culturales, capacidades especiales, grado de inadaptación social, naturaleza y gravedad de la conducta, o cualquier otro supuesto semejante, durante la investigación, el trámite del proceso y la ejecución de las medidas;
+V.- Se le respete en todo momento, el derecho a la igualdad ante la ley y a no ser discriminado por motivos de raza, origen étnico, género, preferencia sexual, condición social o económica, religión, idioma, lengua, dialecto, nacionalidad, prácticas o creencias culturales, capacidades especiales, grado de inadaptación social, naturaleza y gravedad de la conducta, o cualquier otro supuesto semejante durante la investigación, el trámite del proceso y la ejecución de las medidas;
 
 VI.- Tener un proceso justo, reservado, sin demora, expedito y gratuito ante un Juez competente especializado;
 
@@ -277,7 +323,7 @@ IX.- No ser privado ilegalmente de su libertad ni a ser limitado en el ejercicio
 
 X.- Ser informado de todas las garantías y derechos que tiene durante la investigación, el proceso y la aplicación de las medidas, así como del nombre de la persona que formule la denuncia o querella de la conducta tipificada como delito que se le atribuya;
 
-XI.- A la presencia cuando lo solicite, de sus padres, tutores, de quienes ejerzan la patria potestad o la custodia, así como mantener comunicación directa y permanente con ellos sin alterar la disciplina de las diligencias. La autoridad competente podrá limitar esa presencia si existen motivos para presumir que resulta perjudicial para el Adolescente;
+XI.- A la presencia cuando lo solicite, de sus padres, tutores, de quienes ejerzan la patria potestad o la custodia, así como, mantener comunicación directa y permanente con ellos sin alterar la disciplina de las diligencias. La autoridad competente podrá limitar esa presencia si existen motivos para presumir que resulta perjudicial para el Adolescente;
 
 XII.- Ser careado ante la presencia del Juez para Adolescentes, cuando lo solicite, salvo lo dispuesto por la fracción V, apartado B, del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -287,9 +333,9 @@ XIV.- Ser asistido por un traductor o intérprete cuando no hable o entienda el 
 
 XV.- No ser juzgado más de una vez por la misma conducta;
 
-XVI.- Las limitaciones o restricciones a sus derechos sea ordenada por la autoridad competente conforme a esta Ley;
+XVI.- Las limitaciones o restricciones a sus derechos, sea ordenada por la autoridad competente conforme a esta Ley;
 
-XVII.- Recibir información clara, accesible y precisa de la autoridad competente, personalmente o a través de su defensor, padres, tutores, quienes ejerzan la patria potestad o la custodia, sobre el significado de cada una de las actuaciones de la investigación y del proceso que se desarrollen en su presencia, al igual que de la ejecución de las medidas, así como de su contenido, alcances y razones, de tal forma que el Adolescente las comprenda;
+XVII.- Recibir información clara, accesible y precisa de la autoridad competente, personalmente o a través de su defensor, padres, tutores, o de quienes ejerzan la patria potestad o la custodia, sobre el significado de cada una de las actuaciones de la investigación y del proceso que se desarrollen en su presencia, al igual que, de la ejecución de las medidas, de su contenido, alcances y razones, de tal forma que el Adolescente las comprenda;
 
 XVIII.- Se le apliquen en su favor las causas de exclusión previstas en el artículo 21 del Código Penal; en su caso, a que se declare que no es autor o partícipe de una conducta tipificada como delito por no haberla cometido;
 
@@ -299,21 +345,21 @@ XX.- Se presuma su inocencia hasta en tanto no se compruebe que fue autor o part
 
 XXI.- Se opte por la ley más favorable para sus derechos fundamentales, cuando resulten aplicables dos o más leyes o normas respecto de la misma conducta;
 
-XXII.- Se respete su intimidad y privacidad personal y familiar, consecuentemente se prohíbe la publicación de cualquier dato que directa o indirectamente posibilite la divulgación de su identidad;
+XXII.- Se respete su intimidad, y privacidad personal, familiar y consecuentemente, se prohíbe la publicación de cualquier dato que directa o indirectamente posibilite la divulgación de su identidad;
 
-XXIII.- No contravengan el principio de confidencialidad y privacidad del Adolescente y su familia cuando las autoridades brinden información sobre estadísticas procedimentales o judiciales;
+XXIII.- No contravengan el principio de confidencialidad y privacidad del Adolescente y su familia, cuando las autoridades brinden información sobre estadísticas procedimentales o judiciales;
 
 XXIV.- Ser oído, aportar pruebas, interrogar a los testigos y presentar los argumentos necesarios para su defensa y rebatir cuanto le sea contrario, por sí mismo o por conducto de su defensor ante el Ministerio Público, ante los órganos jurisdiccionales especializados y, en su caso, ante la autoridad que ejecute las medidas. En ningún supuesto podrá ser juzgado en su ausencia;
 
-XXV.- No ser ingresado preventiva o definitivamente en un centro de internación, salvo como medida excepcional y por el menor tiempo posible, mediante orden escrita de autoridad competente, la cual sólo podrá aplicarse a los Adolescentes de entre catorce años cumplidos y menos de dieciocho años de edad;
+XXV.- No ser ingresado preventiva o definitivamente en un centro de internación, salvo como medida excepcional, y por el menor tiempo posible y, mediante orden escrita de autoridad competente, la cual sólo podrá aplicarse a los Adolescentes de entre catorce años cumplidos y menos de dieciocho años de edad;
 
-XXVI.- Que cuando esté sujeto a detención preventiva o en cumpliendo medidas de tratamiento en su modalidad interna se encuentre en un centro de internación especializado distinto a los adultos, y en una sección conforme a su género. Para el caso de internamiento preventivo, se procurará que permanezca en un sitio distinto al del tratamiento interno, debiendo remitirlo de inmediato al Centro, por orden de la autoridad competente;
+XXVI.- Que cuando esté sujeto a detención preventiva o en cumpliendo medidas de tratamiento en su modalidad interna, se encuentre en un centro de internación especializado distinto a los adultos, y en una sección conforme a su género. Para el caso de internamiento preventivo, se procurará que permanezca en un sitio distinto al del tratamiento interno, debiendo remitirlo de inmediato al Centro, por orden de la autoridad competente;
 
-XXVII.- Ser examinado inmediatamente por un médico cuando esté a disposición o bajo custodia de cualquier autoridad. La atención deberá estar a cargo de un facultativo del mismo sexo que el Adolescente;
+XXVII.- Ser examinado inmediatamente por un médico, cuando esté a disposición o bajo custodia de cualquier autoridad. La atención deberá estar a cargo de un facultativo del mismo sexo que el Adolescente;
 
 XXVIII.- Las medidas que se le apliquen, serán racional y proporcionalmente acordes con la conducta cometida y a sus condiciones personales;
 
-XXIX.- No se le apliquen en ningún caso medidas indeterminadas;
+XXIX.- No se le apliquen en ningún caso, medidas indeterminadas;
 
 XXX.- Se procure la aplicación de formas alternativas de justicia, cuando resulte procedente;
 
@@ -323,6 +369,8 @@ XXXII.- La seguridad de su integridad personal durante el internamiento, sea pre
 
 XXXIII.- Demás consignadas en otros ordenamientos e instrumentos internacionales.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 20.
 
 La víctima o el ofendido, tendrán los siguientes derechos:
@@ -331,7 +379,7 @@ I.- A que el Ministerio Público les comunique el inicio del procedimiento, el e
 
 II.- Recibir asesoría jurídica gratuita por parte del ministerio público especializado, respecto de sus denuncias o querellas y, en su caso, ser auxiliados por intérpretes y/o traductores cuando no hable o no entienda el idioma español. En caso de ser sordo o mudo, declarará por medio de traductores; si sabe leer y escribir, podrá declarar por escrito;
 
-III.- Se le proporcione todas las facilidades y apoyos para identificar al probable autor o partícipes en la conducta tipificada como delito en las normas penales del Estado;
+III.- Se le proporcione todas las facilidades y apoyos, para identificar al probable autor o partícipes en la conducta tipificada como delito en las normas penales del Estado;
 
 IV.- Se les reciba los elementos de convicción para acreditar la conducta tipificada como delito en las normas penales del Estado y la probable autoría o participación del Adolescente;
 
@@ -339,11 +387,11 @@ V.- Se les permita consultar el expediente por sí, por su abogado o persona de 
 
 VI.- Se les proporcione atención médica, psicológica, psiquiátrica y asistencia social cuando la requieran. Cuando así se solicite y la índole de la afectación lo amerite, la atención deberá estar a cargo de personal especializado de su mismo sexo y podrá brindarse en el domicilio de éste;
 
-VII.- Se le repare el daño o se le restituya la cosa objeto del delito;
+VII.- Se le repare el daño o se le restituya la cosa, objeto del delito;
 
-VIII.- Que estén presentes en las diligencias que se practiquen en el procedimiento, sus padres, tutores, quienes ejerzan la patria potestad o la custodia, cuando así lo soliciten y esto sea posible;
+VIII.- Que estén presentes en las diligencias que se practiquen en el procedimiento; sus padres, tutores, quienes ejerzan la patria potestad o la custodia, cuando así lo soliciten y esto sea posible;
 
-IX.- Solicitar al Ministerio Público el desahogo ante los órganos jurisdiccionales de las diligencias que, en su caso, correspondan;
+IX.- Solicitar al Ministerio Público, el desahogo ante los órganos jurisdiccionales, de las diligencias que correspondan;
 
 X.- Se decreten las providencias para proteger la vida, integridad física y moral, bienes, posesiones o derechos, incluyendo los de sus familiares directos y los testigos que hayan depuesto o depondrán en su favor;
 
@@ -353,7 +401,11 @@ XII.- Se mantenga su victimización en el anonimato, y
 
 XIII.- Demás consignadas en otros ordenamientos e instrumentos internacionales.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO III. De las autoridades
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 21.
 
@@ -365,61 +417,71 @@ II.- La Secretaría General de Gobierno del Estado, y
 
 III.- El Tribunal Superior de Justicia del Estado.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 22.
 
-Corresponde a la Procuraduría de Justicia, mediante las Agencias del Ministerio Público y Policía Ministerial, la investigación de las conductas atribuidas a los Adolescentes y tipificadas como delitos en las normas penales del Estado, así como la remisión del caso ante el Juez competente. Los criterios de organización, formación, ingreso, promoción, permanencia y terminación del cargo, serán definidos por esa dependencia.
+Corresponde a la Procuraduría de Justicia, mediante las Agencias del Ministerio Público y Policía Ministerial, la investigación de las conductas atribuidas a los Adolescentes y tipificadas como delitos en las normas penales del Estado; así como, la remisión del caso ante el Juez competente. Los criterios de organización, formación, ingreso, promoción, permanencia y terminación del cargo, serán definidos por esa dependencia.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 23.
 
-La Secretaría General de Gobierno, mediante la Defensoría Legal tendrá como función la asesoría y patrocinio legal del Adolescente, cuando sea designada para ello.
+La Secretaría General de Gobierno mediante la Defensoría Legal, tendrá como función la asesoría y patrocinio legal del Adolescente, cuando sea designada para ello.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 24.
 
-La Defensoría Legal contará con el número de defensores especializados que requieran las necesidades del servicio y la disponibilidad presupuestal.
+La Defensoría Legal, contará con el número de defensores especializados que requieran las necesidades del servicio y la disponibilidad presupuestal.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 25.
 
 Para ser defensor de oficio, además de reunir los requisitos previstos por el Reglamento de la Defensoría Legal del Estado, se atenderá el principio de especialización.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 26.
 
-Los defensores de oficio tendrán adicionalmente las facultades y obligaciones previstas en el Reglamento de la Defensoría Legal del Estado de Yucatán, las siguientes:
+Los defensores de oficio, tendrán adicionalmente las facultades y obligaciones previstas en el Reglamento de la Defensoría Legal del Estado de Yucatán, las siguientes:
 
 I.- En cualquier etapa del procedimiento:
 
-a) Apegarse en el ejercicio de sus funciones a los lineamientos previstos en esta ley;
+a) Apegarse en el ejercicio de sus funciones, a los lineamientos previstos en esta ley;
 
 b) Mantener comunicación con el Adolescente, sus padres, tutores, quienes ejerzan la patria potestad o la custodia, para informarles del estado procesal que guarda la investigación, el proceso o la ejecución de la medida;
 
 c) Promover formas alternativas de solución de conflictos establecidas en esta ley;
 
-d) Realizar todos los trámites o gestiones necesarias para la adecuada defensa legal, conforme a derecho, atendiendo al interés superior del Adolescente;
+d) Realizar todos los trámites o gestiones necesarias, para la adecuada defensa conforme a derecho, atendiendo al interés superior del Adolescente;
 
-e) Gestionar que el Adolescente internado mantenga contacto directo y permanente con su familia;
+e) Gestionar que el Adolescente internado, mantenga contacto directo y permanente con su familia;
 
 f) Solicitar la inmediata libertad del Adolescente, cuando sea procedente;
 
 g) Asesorar al Adolescente previo a su intervención en cualquier diligencia y hacerle saber sus derechos;
 
-h) Procurar que el Adolescente detenido mantenga contacto directo y permanente con su familia;
+h) Procurar que el Adolescente detenido, mantenga contacto directo y permanente con su familia;
 
-i) Solicitar que se le asigne traductor o intérprete cuando el Adolescente no hable o entienda el idioma español, en caso de ser sordo o mudo, o ambos, que se le interrogue por medio de traductor y si sabe leer y escribir que se le interrogue por escrito, y
+i) Solicitar que se le asigne traductor o intérprete, cuando el Adolescente no hable o entienda el idioma español, en caso de ser sordo o mudo, o ambos, que se le interrogue por medio de traductor, si sabe leer y escribir, se le interrogue por escrito, y
 
-j) Solicitar se tenga por acreditada la calidad de indígena con la sola manifestación del Adolescente. Cuando exista duda, se solicitará a las autoridades un dictamen antropológico.
+j) Solicitar se tenga por acreditada la calidad de indígena, con la sola manifestación del Adolescente. Cuando exista duda, se solicitará a las autoridades un dictamen antropológico.
 
 II.- En la etapa de investigación:
 
-a) Verificar que la autoridad le haya hecho saber al Adolescente la conducta que se le atribuye y los derechos que tiene a su favor;
+a) Verificar que la autoridad le haya hecho saber al Adolescente, la conducta que se le atribuye y los derechos que tiene a su favor;
 
 b) Ofrecer y desahogar las pruebas para una adecuada defensa legal;
 
 c) Intervenir en todas las audiencias de derecho durante el proceso;
 
-d) Consultar el expediente para la defensa legal del Adolescente y explicarle su contenido y alcances;
+d) Consultar el expediente para la defensa legal del Adolescente y explicarle, su contenido y alcances;
 
 e) Verificar que se deje constancia del día, hora y lugar de la detención del Adolescente, y
 
-g (sic)) Cuidar que el Adolescente no haya sido privado de su libertad de manera ilegal.
+f) Cuidar que el Adolescente, no haya sido privado de su libertad de manera ilegal.
 
 III.- En la etapa de instrucción:
 
@@ -431,19 +493,21 @@ c) Formular agravios, alegatos y conclusiones;
 
 d) Interponer medios de impugnación, incidentes y demás actos conducentes, y
 
-e) Realizar visitas periódicas al Adolescente en el centro de internación en donde se encuentre a fin de mantenerlo informado de su situación jurídica y explicarle la misma.
+e) Realizar visitas periódicas al Adolescente, en el centro de internación en donde se encuentre a fin de mantenerlo informado de su situación jurídica y explicarle la misma.
 
 IV.- En la etapa de ejecución de las medidas, asistir al Adolescente en aquellos casos en los que lo solicite.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 27.
 
-El Centro es un órgano desconcentrado, con plena autonomía técnica dependiente de la Secretaría General de Gobierno y sus funciones serán:
+El Centro es un órgano desconcentrado, con plena autonomía técnica, dependiente de la Secretaría General de Gobierno y sus funciones serán:
 
 I.- Administrar puntualmente los procesos encaminados al desarrollo personal y de las capacidades del Adolescente, con base en las medidas impuestas por el juzgador;
 
 II.- Aplicar al Adolescente las medidas impuestas por el Juez;
 
-III.- Elaborar el Programa Personalizado a cada Adolescente con base en la resolución definitiva;
+III.- Elaborar el Programa Personalizado a cada Adolescente, con base en la resolución definitiva;
 
 IV.- Descentralizar regionalmente sus funciones;
 
@@ -451,7 +515,9 @@ V.- Establecer las unidades administrativas para la atención de sus funciones, 
 
 VI.- Realizar el seguimiento técnico del Adolescente, una vez concluida la aplicación de las medidas, cuando sea procedente.
 
-El Centro promoverá la celebración de convenios de colaboración con organizaciones no gubernamentales cuya labor y perfil coincidan con los objetivos que persiguen las diversas medidas a aplicar.
+El Centro promoverá la celebración de convenios de colaboración, con organizaciones no gubernamentales cuya labor y perfil, coincidan con los objetivos que persiguen las diversas medidas a aplicar.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 28.
 
@@ -464,6 +530,8 @@ II.- El Consejo Técnico Interdisciplinario;
 III.- El Departamento de Custodia, y
 
 IV.- La Unidad de Administración.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 29.
 
@@ -479,23 +547,33 @@ IV.- De internamiento preventivo, y
 
 V.- De tratamiento interno.
 
-Las secciones de internamiento preventivo y de tratamiento interno para varones y mujeres deberán estar separadas, además contarán con las instalaciones físicas adecuadas para su finalidad y serán divididas en dormitorios atendiendo a la prestación del tipo de asistencia que mejor se adapte a las necesidades concretas de los grupos de Adolescentes, para su bienestar y protección de su integridad física y psicológica.
+Las secciones de internamiento preventivo y de tratamiento interno para varones y mujeres, deberán estar separadas; además, contarán con las instalaciones físicas adecuadas para su finalidad y serán divididas en dormitorios, atendiendo a la prestación del tipo de asistencia que mejor se adapte a las necesidades concretas de los grupos de Adolescentes, para el bienestar y protección de su integridad física y psicológica.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 30.
 
-Los Adolescentes ubicados en la sección de internamiento preventivo del Centro estarán a disposición del Juez en lo relativo a las diligencias del procedimiento.
+Los Adolescentes ubicados en la sección de internamiento preventivo del Centro, estarán a disposición del Juez en lo relativo a las diligencias del procedimiento.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 31.
 
 Durante su estancia en la sección de internamiento preventivo, el Adolescente se incorporará a un programa diario de actividades de carácter educativo, ocupacional y recreativo. Simultáneamente participará en las actividades requeridas para su diagnóstico integral.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 32.
 
-La sección de tratamiento interno está destinada a la guarda de los Adolescentes a quienes el Juez haya determinado la aplicación de medidas de tratamiento en su modalidad interna.
+La sección de tratamiento interno, está destinada a la guarda de los Adolescentes, a quienes el Juez haya determinado la aplicación de medidas de tratamiento en esa modalidad.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 33.
 
-El Director del Centro será nombrado y removido por el Secretario General de Gobierno de común acuerdo con el Gobernador, los demás servidores públicos del Centro serán designados en la forma establecida en el Reglamento Interior de la Secretaría General de Gobierno.
+El Director del Centro, será nombrado y removido por el Secretario General de Gobierno de común acuerdo con el Gobernador; los demás servidores públicos, serán designados en la forma establecida en el Reglamento Interior de la Secretaría General de Gobierno.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 34.
 
@@ -509,7 +587,9 @@ III.- Tener como mínimo treinta años de edad cumplidos al día de su nombramie
 
 IV.- Tener título profesional en área afín al objeto de la institución, y
 
-V.- Acreditar un mínimo de tres años de experiencia profesional en un área relacionada con el objeto de la institución y haber terminado estudios de postgrado en alguna rama del conocimiento relacionada con la materia de la presente ley.
+V.- Acreditar un mínimo de tres años de experiencia profesional, en un área relacionada con el objeto de la institución y, haber terminado estudios de postgrado en alguna rama del conocimiento relacionada con la materia de la presente ley.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 35.
 
@@ -517,45 +597,49 @@ Son facultades y obligaciones del Director del Centro:
 
 I.- Tener la representación del mismo;
 
-II.- Expedir los manuales de organización y procedimientos institucionales y proponerlos al Secretario General de Gobierno para su expedición;
+II.- Expedir los manuales de organización y procedimientos institucionales y, proponerlos al Secretario General de Gobierno, para su expedición;
 
 III.- Planear y dirigir las actividades inherentes a las funciones del Centro;
 
-IV.- Asignar a los Adolescentes en internamiento preventivo o con tratamiento interno al dormitorio que les corresponda, tomando en cuenta la sugerencia del Consejo Técnico Interdisciplinario;
+IV.- Asignar a los Adolescentes en internamiento preventivo o con tratamiento interno el dormitorio que les corresponda, tomando en cuenta la sugerencia del Consejo Técnico Interdisciplinario;
 
 V.- Vigilar el estricto cumplimiento de esta ley, del Reglamento Interior y demás ordenamientos aplicables, en el ámbito de su competencia;
 
-VI.- Tener la guarda y custodia de los Adolescentes internos tanto en la sección de internamiento preventivo como en la sección de tratamiento interno;
+VI.- Tener la guarda y custodia de los Adolescentes internos, tanto en la sección de internamiento preventivo como en la de tratamiento interno;
 
-VII.- Informar al Juez, periódicamente, o cuando éste así lo requiera, sobre la aplicación de las medidas determinadas a los Adolescentes;
+VII.- Informar al Juez periódicamente, o cuando éste así lo requiera, sobre la aplicación de las medidas determinadas a los Adolescentes;
 
 VIII.- Certificar las copias de los documentos que obren en los archivos del Centro;
 
-IX.- Recibir, atender y/o tramitar ante las autoridades correspondientes las quejas sobre cualquier irregularidad que se presentara en relación con el personal o los Adolescentes internos;
+IX.- Recibir, atender y/o tramitar ante las autoridades correspondientes, las quejas sobre cualquier irregularidad que se presentara en relación con el personal o los Adolescentes internos;
 
-X.- Solicitar al Juez la modificación o conclusión anticipada de la aplicación de medidas, y
+X.- Solicitar al Juez, la modificación o conclusión anticipada de la aplicación de medidas impuestas, y
 
 XI.- Las demás previstas en esta ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 36.
 
-Son facultades y obligaciones de los titulares de cada una de las unidades administrativas que integran el Centro:
+Son facultades y obligaciones de los titulares de cada una de las unidades administrativas, que integran el Centro:
 
-I.- Coadyuvar en la administración puntual de los procesos encaminados al desarrollo personal y de las capacidades del Adolescente, con base en las medidas impuestas por el juzgador y en la aplicación de las medidas impuestas por el Juez al Adolescente;
+I.- Coadyuvar en la administración puntual de los procesos encaminados al desarrollo personal y de las capacidades del Adolescente, con base en las medidas impuestas por el juzgador y en su aplicación;
 
 II.- Organizar, controlar y supervisar el cumplimiento de las obligaciones de su personal;
 
 III.- Informar al Director del Centro de las actividades inherentes a su área;
 
-IV.- Auxiliar al Director del Centro en la elaboración de los manuales de organización y procedimientos institucionales;
+IV.- Auxiliar al Director del Centro, en la elaboración de los manuales de organización y procedimientos institucionales;
 
 V.- Procurar la capacitación y actualización constante de su personal, y
 
 VI.- Las demás previstas en esta ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 37.
 
-El Consejo Técnico Interdisciplinario del Centro estará integrado por especialistas en las áreas de medicina, psicológica, educación, trabajo social y las demás que sean establecidas en el Reglamento Interior, y tendrá las facultades y obligaciones siguientes:
+El Consejo Técnico Interdisciplinario del Centro, estará integrado por especialistas en las áreas de medicina, psicológica, educación, trabajo social y las demás que sean establecidas en el Reglamento Interior; y tendrá, las facultades y obligaciones siguientes:
 
 I.- Emitir y rendir el dictamen técnico de los Adolescentes, con base en los estudios biopsicosociales, de conformidad a lo establecido en la presente Ley;
 
@@ -563,7 +647,7 @@ II.- Informar periódicamente a la Dirección de Prevención y al Director del C
 
 III.- Realizar las acciones técnicas contenidas en los programas personalizados correspondientes a medidas aplicadas en el Centro;
 
-IV.- Obtener información del cumplimiento de las acciones contenidas en los programas personalizados correspondientes a medidas aplicadas fuera del Centro;
+IV.- Obtener información del cumplimiento de las acciones contenidas en los programas personalizados, correspondientes a las medidas aplicadas fuera del Centro;
 
 V.- Coadyuvar en la ejecución de los programas de actividades complementarias para la reeducación de los Adolescentes;
 
@@ -577,9 +661,9 @@ IX.- Sugerir la modificación o conclusión anticipada de la aplicación de medi
 
 X.- Supervisar la aplicación de medidas;
 
-XI.- Sugerir al Director del Centro, la asignación de los Adolescentes en internamiento preventivo o tratamiento interno al dormitorio que les corresponda;
+XI.- Sugerir al Director del Centro, la asignación de los Adolescentes en internamiento preventivo o tratamiento interno, al dormitorio que les corresponda;
 
-XII.- Definir los mecanismos para el cumplimiento de las prescripciones médicas que fueran necesarias para garantizar la salud integral del Adolescente interno;
+XII.- Definir los mecanismos para el cumplimiento de las prescripciones médicas que fueran necesarias, para garantizar la salud integral del Adolescente interno;
 
 XIII.- Identificar la necesidad de atención especializada del Adolescente en una institución distinta al Centro, y sugerir su traslado;
 
@@ -591,57 +675,75 @@ XVI.- Vigilar el respeto a la integridad y dignidad del Adolescente, así como e
 
 XVII.- Las otras previstas en esta ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 38.
 
-El Departamento de Custodia del Centro estará encargado de:
+El Departamento de Custodia del Centro, estará encargado de:
 
 I.- Instruir a los Adolescentes internos sobre las rutinas y normas que les corresponde cumplir y supervisar su cumplimiento;
 
 II.- Proteger la integridad de los Adolescentes internos;
 
-III.- Instruir a todas las personas que se encuentren en el interior del Centro respecto de las normas institucionales, y vigilar su cumplimiento;
+III.- Instruir a todas las personas que se encuentren en el interior del Centro, respecto de las normas institucionales, y vigilar su cumplimiento;
 
 IV.- Procurar la participación de los Adolescentes en las actividades establecidas en los programas personalizados y en las actividades complementarias, así como coadyuvar en la ejecución de los mismos;
 
-V.- Diseñar, aplicar y vigilar el cumplimiento de las medidas necesarias para la seguridad de las personas y los bienes que se encuentren en el Centro, y
+V.- Diseñar, aplicar y vigilar el cumplimiento de las medidas necesarias, para la seguridad de las personas y los bienes que se encuentren en el Centro, y
 
 VI.- Las otras acciones previstas en esta ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ## TÍTULO SEGUNDO. DE LOS MEDIOS ALTERNATIVOS
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO I. De la Conciliación y la Mediación
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 39.
 
-El Ministerio Público y el Juez, según la etapa procesal, para la aplicación de los procedimientos alternativos al juzgamiento, aceptarán la intervención de facilitadores o entidades especializadas en la mediación y la conciliación, ya sean públicos o privados.
+El Ministerio Público y el Juez, según la etapa procesal que corresponda, para la aplicación de los procedimientos alternativos, aceptarán la intervención de facilitadores o entidades especializadas en la mediación y la conciliación, sean públicos o privados.
 
-La mediación y la conciliación tendrán como finalidad primordial la consecución de un acuerdo satisfactorio para todas las partes involucradas en un conflicto y será aplicable, en las conductas tipificadas como delitos que no sean calificados como graves por esta Ley.
+La mediación y la conciliación tendrán como finalidad primordial, la consecución de un acuerdo satisfactorio para todas las partes involucradas en un conflicto, y será aplicable en las conductas tipificadas como delitos, que no sean calificados como graves por esta Ley.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 40.
 
-El Juez para la satisfacción de los fines de la justicia alternativa, aceptarán la intervención de facilitadores o entidades especializadas en la mediación y la conciliación para celebrar conversaciones y reuniones tendientes a determinar medidas cautelares, imponer medidas sancionadoras e individualizarlas.
+El Juez para la satisfacción de los fines de la justicia alternativa, aceptarán la intervención de facilitadores o entidades especializadas en la mediación y la conciliación, para celebrar conversaciones y reuniones tendientes a determinar medidas cautelares, imponer medidas sancionadoras e individualizarlas.
 
 Los facilitadores y entidades especializadas, deberán estar certificados por institución autorizada y registrados ante el Tribunal Superior de Justicia.
 
-Los facilitadores deberán guardar secreto sobre lo que conozcan en las deliberaciones y discusiones de las partes. La información que se genere en los procedimientos respectivos no podrá ser utilizada en perjuicio de las partes dentro de un proceso penal.
+Los facilitadores deberán guardar secreto sobre lo que conozcan en las deliberaciones y discusiones de las partes. La información que se genere en los procedimientos respectivos, no podrá ser utilizada en perjuicio de las partes dentro de un proceso penal.
 
-Los facilitadores deben desempeñar sus funciones de manera imparcial y velarán porque la víctima y el Adolescente actúen con mutuo respeto.
+Los facilitadores deben desempeñar sus funciones de manera imparcial y, velar que la víctima y el Adolescente, actúen con mutuo respeto.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 41.
 
-Iniciada la averiguación por la comisión de conductas o hechos tipificados como delitos por las normas penales del Estado y una vez que hubiera comparecido el probable responsable, el Ministerio Público propondrá a las partes la mediación para lograr la avenencia entre el Adolescente y el querellante.
+Iniciada la averiguación por la comisión de conductas o hechos tipificados como delitos por las normas penales del Estado y una vez que hubiera comparecido el probable responsable, el Ministerio Público propondrá a las partes, la mediación para lograr la avenencia entre el Adolescente y el querellante.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 42.
 
 Lograda la avenencia entre el Adolescente y el ofendido, se firmará un convenio que se someterá a la aprobación del Ministerio Público. Una vez aprobado dicho convenio, no se ejercerá la acción de remisión y se archivará provisionalmente el expediente, en tanto se cumpla lo acordado en el convenio respectivo.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 43.
 
-En la audiencia de sujeción a proceso, el Juez les recordará a las partes el derecho que tienen de optar por la mediación. Si no se hubiere aceptado la mediación podrá darse trámite a dicho procedimiento en cualquier etapa del juicio si así lo consideraran las partes, siempre y cuando no se hubiere dictado la resolución definitiva. En todo caso se oirá al Ministerio Público.
+En la audiencia de sujeción a proceso, el Juez les recordará a las partes el derecho que tienen de optar por la mediación. Si no se hubiere aceptado la mediación, podrá darse trámite a dicho procedimiento en cualquier etapa del juicio si así lo consideraran las partes, siempre y cuando no se hubiere dictado la resolución definitiva. En todo caso se oirá al Ministerio Público.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 44.
 
-El Juez dará por terminado el juicio antes de que dicte resolución definitiva, cuando conforme a lo establecido en esta Ley, la conducta del Adolescente no amerite internamiento y las partes hayan llegado a un acuerdo, el cual debe cumplir con los requisitos siguientes:
+El Juez dará por terminado el juicio antes de que dicte resolución definitiva, cuando conforme a lo establecido en esta Ley; la conducta del Adolescente no amerite internamiento y las partes hayan llegado a un acuerdo, el cual debe cumplir con los requisitos siguientes:
 
 I.- La reparación del daño quede plenamente garantizada;
 
@@ -649,79 +751,99 @@ II.- Medidas que deba cumplir el Adolescente, y
 
 III.- Autorización del convenio por el Juez.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 45.
 
 La conciliación y la mediación sólo podrán iniciar por acuerdo de las partes.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 46.
 
 El Juez suspenderá el procedimiento por el plazo fijado en el acuerdo, siempre y cuando el mismo esté pendiente de cumplimiento.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 47.
 
-El acuerdo no implica el reconocimiento del Adolescente de la conducta que se le atribuye.
+El acuerdo no implica el reconocimiento del Adolescente, de la conducta que se le atribuye.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 48.
 
-El Adolescente procesado deberá presentar ante el Juez las pruebas que acrediten el cumplimiento de todas las obligaciones contenidas en el acuerdo, ya sea mediante escrito firmado por él o sus representantes legales y por el ofendido, o bien, por la comparecencia de ambos. Una vez acreditado el cumplimiento, el Juez resolverá la terminación del procedimiento y ordenará el archivo definitivo del expediente.
+El Adolescente procesado deberá presentar ante el Juez, las pruebas que acrediten el cumplimiento de todas las obligaciones contenidas en el acuerdo, ya sea mediante escrito firmado por él o sus representantes legales y por el ofendido; o bien, por la comparecencia de ambos. Una vez acreditado el cumplimiento, el Juez resolverá la terminación del procedimiento y ordenará el archivo definitivo del expediente.
 
 En caso de incumplimiento de dichas obligaciones, el juicio continuará a partir de la última actuación que conste en el expediente.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 49.
 
-El acuerdo y el auto que lo apruebe tendrán el carácter de título ejecutivo únicamente en lo relativo a la reparación del daño, dejándose a salvo los derechos de la víctima o del ofendido para hacerlos valer ante los tribunales que corresponda.
+El acuerdo y el auto que lo apruebe, tendrán el carácter de título ejecutivo y únicamente en lo relativo a la reparación del daño; dejándose a salvo, los derechos de la víctima o del ofendido, para hacerlos valer ante los tribunales que corresponda.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO II. De la Suspensión del Proceso a Prueba
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 50.
 
-En los casos en los que la conducta tipificada como delito en las normas penales del Estado que ameriten medida de internamiento y siempre que el Adolescente no se encuentre gozando del beneficio de otro procedimiento alternativo al juzgamiento en proceso diverso, procederá la suspensión del proceso a prueba, a solicitud del Ministerio Público o del Adolescente.
+En los casos, en los que la conducta tipificada como delito en las normas penales del Estado, que ameriten medida de internamiento y siempre que el Adolescente no se encuentre gozando del beneficio de otro procedimiento alternativo al juzgamiento, en proceso diverso; procederá la suspensión del proceso a prueba, a solicitud del Ministerio Público o del Adolescente.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 51.
 
-En audiencia el Juez oirá al Ministerio Público, a la víctima u ofendido, a la defensa y en su caso al Adolescente, y resolverá de inmediato. La resolución fijará las condiciones bajo las cuales se suspende el proceso o se rechaza la solicitud, y aprueba o modifica el plan de reparación propuesto, conforme a criterios de razonabilidad.
+En audiencia, el Juez oirá al Ministerio Público, a la víctima u ofendido, a la defensa y en su caso, al Adolescente; resolviendo de inmediato. La resolución fijará las condiciones bajo las cuales se suspende el proceso o se rechaza la solicitud, o se aprueba o modifica el plan de reparación propuesto, conforme a criterios de razonabilidad.
 
-Las partes podrán conjuntamente solicitar la intervención de un facilitador para proponer al Juez la forma de reparación del daño, el que la considerará al emitir su resolución en este procedimiento.
+Las partes podrán conjuntamente solicitar la intervención de un facilitador, para proponer al Juez la forma de reparación del daño, el que la considerará al emitir su resolución en este procedimiento.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 52.
 
-Los procedimientos de suspensión del proceso a prueba se regirán por las reglas siguientes:
+Los procedimientos de suspensión del proceso a prueba, se regirán por las reglas siguientes:
 
 I.- Pueden realizarse a partir que se realice la remisión al Juez y hasta antes de concluir la audiencia de juicio;
 
-II.- Durante su desarrollo, el Adolescente y la víctima u ofendido deberán ser asistidos por su defensor y el Ministerio Público, respectivamente;
+II.- Durante su sustanciación, el Adolescente y la víctima u ofendido, deberán ser asistidos por su defensor y el Ministerio Público, respectivamente;
 
-III.- Requieren el reconocimiento voluntario del Adolescente, de haber realizado la conducta que se le atribuye;
+III.- Se requiere el reconocimiento voluntario del Adolescente, de haber realizado la conducta que se le atribuye;
 
 IV.- La solicitud y la resolución deberán contener un plan de reparación del daño causado por la conducta coincidente con algún tipo delictivo establecido en las normas penales del Estado y un detalle de las condiciones que estaría dispuesto a cumplir el Adolescente conforme a los dos artículos siguientes. El plan podrá consistir en una indemnización equivalente a la reparación del daño que, en su caso, pudiera llegar a aplicarse. En ambos casos podrá ser inmediata o a plazos;
 
-V.- La resolución que recaiga a este procedimiento suspende el proceso durante el plazo establecido para el cumplimiento de las obligaciones e interrumpe la prescripción;
+V.- La resolución que recaiga a este procedimiento, suspende el proceso durante el plazo establecido para el cumplimiento de las obligaciones e interrumpe la prescripción;
 
 VI.- Si la solicitud no se admite o el proceso se reanuda con posterioridad a la resolución por su incumplimiento; la información que se genere en relación con la proposición, discusión, aceptación, procedencia, rechazo o revocación del procedimiento respectivo, no tendrá valor probatorio alguno, por lo que no podrá ser utilizada en perjuicio de las partes dentro del proceso;
 
-VII.- El incumplimiento de la resolución de este procedimiento no deberá utilizarse como fundamento para la resolución definitiva;
+VII.- El incumplimiento de la resolución, no deberá utilizarse como fundamento para la resolución definitiva;
 
-VIII.- En este procedimiento, el Ministerio Público tomará las medidas necesarias para evitar la pérdida, destrucción o ineficacia de los medios de prueba conocidos y las que soliciten las partes;
+VIII.- El Ministerio Público tomará las medidas necesarias para evitar la pérdida, destrucción o ineficacia de los medios de prueba conocidos y las que soliciten las partes;
 
-IX.- El Juez fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a un año, ni mayor al cincuenta por ciento de la duración de la medida que procediera en su caso. En la resolución determinará una o varias de las reglas que deberá cumplir el Adolescente, entre las establecidas en el siguiente artículo de esta Ley;
+IX.- El Juez fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a un año, ni mayor al cincuenta por ciento de la duración de la medida que procediera, en su caso. En la resolución determinará una o varias de las reglas que deberá cumplir el Adolescente, entre las establecidas en el siguiente artículo de esta Ley;
 
-X.- Los efectos de la suspensión del proceso a prueba cesarán mientras el Adolescente esté privado de su libertad por otro proceso, pero si en éste goza de libertad el plazo de la suspensión seguirá su curso, sin que pueda decretarse la extinción de la acción sino cuando quede firme la resolución que se dicte en el otro proceso;
+X.- Los efectos de la suspensión del proceso a prueba cesarán mientras el Adolescente esté privado de su libertad por otro proceso, pero si en éste gozare de libertad; el plazo de la suspensión seguirá su curso, sin que pueda decretarse la extinción de la acción, hasta en tanto quede firme la resolución que se dictase en el otro proceso;
 
-XI.- La revocatoria de la suspensión del proceso no impedirá el pronunciamiento de una resolución que declare la no responsabilidad, ni la concesión de algunas de las medidas sustitutivas al internamiento cuando fueren procedentes;
+XI.- La revocación de la suspensión del proceso, no impedirá el pronunciamiento de una resolución que declare la no responsabilidad, ni la concesión de algunas de las medidas sustitutivas al internamiento cuando fueren procedentes;
 
-XII.- La suspensión del proceso a prueba no extingue el derecho de ejercitar las acciones civiles de la víctima o de terceros. Sin embargo, si la víctima recibe pagos en virtud de la procedencia de la suspensión, ellos se destinarán a la indemnización por daños y perjuicios que le pudiere corresponder;
+XII.- La suspensión del proceso a prueba no extingue el derecho de ejercitar las acciones civiles de la víctima o de terceros. Sin embargo, si la víctima recibe pagos en virtud de la procedencia de la suspensión, se destinarán a la indemnización por daños y perjuicios que le pudiere corresponder;
 
 XIII.- En caso de revocación, el procedimiento ordinario continuará a partir de la etapa procesal en que se suspendió, ordenándose su reanudación, y
 
 XIV.- Transcurrido treinta días naturales contados a partir del incumplimiento total del Adolescente que se fije, sin que fuere revocada, cesará el proceso, debiendo decretarse de oficio o a petición de parte, el sobreseimiento.
 
-Para fijar las reglas, el Juez puede disponer que el Adolescente sea sometido a una evaluación previa a cargo del Comité Técnico Interdisciplinario que deberá ser elaborado dentro del término de cinco días. En ningún caso el Juez puede imponer medidas más gravosas que las solicitadas por el representante del Ministerio Público.
+Para fijar las reglas, el Juez podrá disponer que el Adolescente sea sometido a una evaluación previa, a cargo del Comité Técnico Interdisciplinario, que deberá ser elaborada dentro del término de cinco días. En ningún caso, el Juez puede imponer medidas más gravosas que las solicitadas por el representante del Ministerio Público.
 
-La decisión sobre la suspensión del proceso será pronunciada en audiencia y en presencia del Adolescente, su defensor, la víctima u ofendido, el Ministerio Público, el representante legal del Adolescente, en su caso, quienes podrán expresar observaciones a las medidas y condiciones impuestas en la resolución, las que serán resueltas de inmediato. El Juez prevendrá al Adolescente sobre las reglas de conducta impuestas y las consecuencias de su inobservancia.
+La resolución sobre la suspensión del proceso, será pronunciada en audiencia y en presencia del Adolescente, su defensor, la víctima u ofendido, el Ministerio Público, el representante legal del Adolescente; en su caso, podrán expresar observaciones a las medidas y condiciones impuestas en la resolución, mismas que serán resueltas de inmediato. El Juez prevendrá al Adolescente sobre las reglas de conducta impuestas y las consecuencias de su inobservancia.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 53.
 
-La resolución contendrá una o varias de las reglas que deberá cumplir el Adolescente, entre las siguientes:
+La resolución contendrá una o varias de las reglas que deberá cumplir el Adolescente, siendo las siguientes:
 
 I.- Residir en domicilio determinado o salir del ámbito territorial que señale el Juez;
 
@@ -731,9 +853,9 @@ III.- Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas
 
 IV.- Participar en programas especiales para la prevención y tratamiento de adicciones;
 
-V.- Participar en programas formativos, didácticos y de asesoría psicológica, proporcionados por instituciones públicas o privadas, encaminados a lograr la reintegración del Adolescente a la convivencia armónica y participación en la comunidad conforme al concepto de ciudadanía juvenil;
+V.- Participar en programas formativos, didácticos y de asesoría psicológica, proporcionados por instituciones públicas o privadas, encaminados a lograr la reintegración del Adolescente a la convivencia armónica y participación en la comunidad, conforme al concepto de ciudadanía juvenil;
 
-VI.- Comenzar o finalizar la escolaridad básica, aprender un oficio o seguir cursos de capacitación;
+VI.- Iniciar o finalizar la escolaridad básica, aprender un oficio o seguir cursos de capacitación;
 
 VII.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública o privada;
 
@@ -741,29 +863,43 @@ VIII.- Permanecer en un trabajo o empleo, o
 
 IX.- No conducir vehículos motorizados.
 
-El Juez deberá enviar una copia de la resolución al Director del Centro, a fin de que elabore un programa personalizado en el plazo establecido en el artículo 118 de esta Ley; así como a la Dirección de Prevención para la supervisión del desarrollo y ejecución de las reglas determinadas en la resolución.
+El Juez deberá enviar una copia de la resolución al Director del Centro, a fin de que elabore un programa personalizado en el plazo establecido en el artículo 118 de esta Ley; así como a la Dirección de Prevención, para la supervisión y ejecución de las reglas determinadas en la resolución.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 54.
 
-Cuando se acredite plenamente que el Adolescente no puede cumplir con alguna de las obligaciones establecidas en la resolución, por ser contrarias a su salud, sus usos y costumbres, creencias religiosas o alguna otra causa de especial relevancia el Juez podrá substituirlas, fundada y motivadamente, por otra u otras análogas que resulten razonables.
+Cuando se acredite plenamente que el Adolescente no puede cumplir con alguna de las obligaciones establecidas en la resolución, por ser contrarias a su salud, sus usos y costumbres, creencias religiosas o alguna otra causa de especial relevancia; el Juez podrá sustituirlos de manera fundada y motivada, por otra u otras análogas que resulten razonables.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 55.
 
-Si el Adolescente se aparta considerablemente y en forma injustificada de las condiciones impuestas, el Juez, previa petición del Ministerio Público, convocará a las partes a una audiencia en la que se debatirá sobre la revocación y se resolverá de inmediato, fundada y motivadamente, acerca de la reanudación del proceso. En lugar de la revocación, el Juez podrá ampliar el plazo de la suspensión a prueba hasta por dos años más, por una sola vez.
+Si el Adolescente se aparta considerablemente y en forma injustificada de las condiciones impuestas, el Juez, previa petición del Ministerio Público, convocará a las partes a una audiencia en la que se debatirá sobre la revocación y se resolverá de inmediato de manera, fundada y motivada, sobre la reanudación del proceso. En lugar de la revocación, el Juez podrá ampliar el plazo de la suspensión a prueba, hasta por dos años más, por una sola vez.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 56.
 
-La Dirección de Prevención y el del Centro procederán, en lo conducente, conforme a lo previsto en los capítulos De las Medidas y su Aplicación y De la Evaluación y Supervisión de esta Ley.
+La Dirección de Prevención y el Centro procederán en lo conducente, conforme a lo previsto en los capítulos de las Medidas y su Aplicación de la Evaluación y Supervisión, de esta Ley.
 
 La Dirección de Prevención informará al Juez y al Ministerio Público, el cumplimiento o incumplimiento de la resolución, para los efectos legales que procedan.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ## TÍTULO TERCERO. NORMAS SUSTANTIVAS
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO I. De la Prescripción
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 57.
 
-La acción para exigir responsabilidad a los Adolescentes prescribe en un término igual al promedio entre el mínimo y el máximo de duración de la sanción señalada en las normas penales del Estado, para el delito perseguible de oficio y coincidente con la conducta que se imputa al adolescente. En ningún caso podrá exceder de siete años. Para los casos de querella necesaria la prescripción operará en un año.
+La acción para exigir responsabilidad a los Adolescentes prescribe en un término igual al promedio entre el mínimo y el máximo de duración de la sanción prevista que fuere en las normas penales del Estado, para los delitos perseguibles de oficio y que fueren coincidentes con la conducta que se imputa al Adolescente; y en ningún caso, podrá exceder un término de siete años. Para los casos de querella necesaria la prescripción operará en un año.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 58.
 
@@ -779,27 +915,37 @@ IV.- La emisión de la resolución, aunque no se encuentre firme, y
 
 V.- El plazo de la prescripción comenzará a correr de nuevo a partir de la fecha en que ocurran dichos actos.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 59.
 
 El cómputo de la prescripción se suspenderá:
 
-I.- Durante el tiempo necesario para concluir el trámite de extradición en el extranjero;
+I.- Durante el tiempo necesario para concluir el trámite de extradición, tratándose de menores que se encontraren en el extranjero;
 
-II.- El tiempo transcurrido durante la suspensión del proceso a prueba o el de cumplimiento de los convenios hasta sus correspondientes terminaciones, cuando hayan motivado la suspensión del ejercicio de la acción;
+II.- El tiempo transcurrido durante la suspensión del proceso a prueba o el de cumplimiento de los convenios correspondientes, cuando se motivare la suspensión del ejercicio de la acción;
 
 III.- Por el tiempo que el Adolescente se sustraiga del proceso, hasta por un plazo igual al de la prescripción de la acción, y
 
 IV.- Terminada la causa de la suspensión, se reanudará el cómputo del plazo de la prescripción.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 60.
 
-Las medidas que no sean de internamiento, estén cuantificadas temporalmente y hayan sido establecidas mediante resolución judicial, prescribirán en un término igual al fijado para cumplirlas.
+Las medidas que no sean de internamiento, cuantificadas temporalmente y establecidas mediante resolución judicial, prescribirán en un término igual al fijado para cumplirlas.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 61.
 
-Cuando el Adolescente sujeto a una medida de internamiento se sustraiga de ella, se necesitará para la prescripción, el equivalente al tiempo restante de la medida, más la mitad de la misma. En este caso el plazo para la prescripción no podrá ser menor de un año.
+Cuando el Adolescente sujeto a una medida de internamiento se sustraiga de ella, se necesitará para el cómputo de la prescripción, el equivalente al tiempo restante de la medida, más la mitad de la misma. En este caso, el plazo para la prescripción no podrá ser menor de un año.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO II. De la Exclusión de Responsabilidad
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 62.
 
@@ -817,49 +963,63 @@ IV.- El contenido del mandato se refiera a relaciones habituales existentes entr
 
 V.- El subordinado desconozca la antijuricidad de la orden y crea actuar con licitud o conociéndola no se le pueda exigir otra conducta conforme a Derecho;
 
-VI.- La conducta ordenada no sea notoriamente antijurídica ni se prueba que el autor conocía su naturaleza, y
+VI.- La conducta ordenada no sea notoriamente antijurídica ni se pruebe que el autor conocía su naturaleza, y
 
 VII.- La conducta del Adolescente que obedezca, responda a la finalidad de dar cumplimiento a la orden recibida.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ## TÍTULO CUARTO. DEL PROCEDIMIENTO
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 63.
 
-Es obligatoria e indelegable la presencia del Juez y del Secretario de Acuerdos, ante quien actúa, en todas las audiencias que se lleven a cabo durante el procedimiento, el cual será oral. Las actas que se redacten de las audiencias y/o diligencias deberán contener:
+Es obligatoria e indelegable la presencia del Juez y del Secretario de Acuerdos, ante quien actúa, en todas las audiencias que se lleven a cabo durante el procedimiento, el cual será oral. Las actas que se redacten de las audiencias y/o diligencias, deberán contener:
 
 I.- Lugar, fecha y hora de la audiencia y/o diligencia;
 
 II.- La autoridad actuante, las partes, así como las demás personas que en ella intervinieren;
 
-III.- La relación sucinta de lo actuado, sin perjuicio de que el desarrollo de la audiencia y/o diligencia sea registrado en audio o video, y
+III.- La relación sucinta de lo actuado, sin perjuicio de que el desarrollo de la audiencia y/o diligencia, sea registrado en audio o video, y
 
 IV.- Constancia de las decisiones tomadas por la autoridad.
 
-Las partes podrán solicitar a la autoridad en el proceso que haga constar ciertos hechos o circunstancias que a su juicio pudieren ser relevantes en el procedimiento.
+Las partes podrán solicitar a la autoridad durante el proceso, que hagan constar ciertos hechos o circunstancias que a su juicio pudieren ser relevantes en el procedimiento.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 64.
 
 Los plazos comenzarán a correr al día siguiente de la notificación y se contarán en días hábiles, con excepción de los casos en que exista privación de la libertad, en los que deberán contarse también los días inhábiles.
 
-Son días hábiles todos los del año, con excepción de los sábados y domingos, los que señalen las leyes como inhábiles y los que el Tribunal Superior de Justicia del Estado acuerde como tales.
+Son días hábiles todos los del año, con excepción de los sábados y domingos, los que señalen las leyes como inhábiles y los que el Tribunal Superior de Justicia del Estado, acuerde como tales.
 
-Los plazos procesales serán improrrogables cuando los Adolescentes estén privados de su libertad y su vencimiento hará precluir la facultad a ejercer por la autoridad correspondiente. Si el Adolescente se encuentra en libertad, los plazos serán prorrogables según lo establecido en esta Ley.
+Los plazos procesales serán improrrogables, cuando los Adolescentes estén privados de su libertad y su vencimiento hará precluir la facultad a ejercer por la autoridad correspondiente. Si el Adolescente se encuentra en libertad, los plazos serán prorrogables conforme a lo establecido en esta Ley.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 65.
 
-Durante el desarrollo del proceso las partes involucradas no podrán referirse ni opinar ante el Juez sobre algún asunto en trámite, sin la presencia de la contraparte.
+Durante el desarrollo del proceso, las partes involucradas no podrán referirse ni opinar ante el Juez sobre algún asunto en trámite, sin la presencia de la contraparte.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 66.
 
 El Juez con el fin de atender el principio de celeridad procesal, y en el caso de que el Adolescente se encontrare en internamiento preventivo, procurará resolver en definitiva en el menor tiempo posible.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 67.
 
-Para los efectos de la presente Ley y por afectar de manera importante valores fundamentales de la sociedad, se consideran como conductas graves, la tortura prevista en el artículo 4 de la Ley para Prevenir y Sancionar la Tortura del Estado, y las previstas en los artículos del Código Penal siguientes:
+Para los efectos de la presente Ley y por afectar de manera importante valores fundamentales de la sociedad, se consideran como conductas graves, la tortura prevista en el artículo 4 de la Ley para Prevenir y Sancionar la Tortura del Estado, y las previstas en los artículos del Código Penal, siguientes:
 
-I.- Delitos contra el orden constitucional previstos en los artículos 137 y 139;
+I.- Delitos contra el orden constitucional, previstos en los artículos 137 y 139;
 
 II.- Trata de menores, prevista por el artículo 210;
 
@@ -883,53 +1043,75 @@ XI.- Homicidio doloso, previsto por el artículo 368 en relación con el 372, 37
 
 XII.- Homicidio en razón del parentesco o relación, previsto por el artículo 394.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 68.
 
-Si en el transcurso del proceso se comprueba que la persona a quien se le atribuya la realización de la conducta tipificada como delito es mayor de 18 años de edad al momento de realizarla, el Ministerio Público o el Juez, según sea el caso, se declarará incompetente y remitirá los autos a la jurisdicción penal para adultos, por conducto del Pleno del Tribunal.
+Si en el transcurso del proceso se comprobaré, que la persona a quien se le atribuya la realización de la conducta tipificada como delito, es mayor de 18 años de edad al momento de realizarla; el Ministerio Público o el Juez, según sea el caso, se declarará incompetente y remitirá los autos a la jurisdicción penal para adultos, por conducto del Pleno del Tribunal.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 69.
 
-Si en el transcurso del proceso, se comprueba que la persona a quien se le atribuya la realización de la conducta era menor de 12 años de edad al momento de realizarla, se archivarán definitivamente las actuaciones y se notificará a la Procuraduría de la Defensa del Menor y Familia, para los efectos conducentes.
+Si en el transcurso del proceso, se comprobare que la persona a quien se le atribuya la realización de la conducta, era menor de 12 años de edad al momento de realizarla, se archivarán definitivamente las actuaciones y se notificará a la Procuraduría de la Defensa del Menor y Familia, para los efectos conducentes.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 70.
 
-En los casos en que sea procedente, el coadyuvante podrá solicitar la reparación del daño y el Juez no podrá absolver al Adolescente de dicha reparación si ha declarado una resolución definitiva de responsabilidad.
+En los casos en que sea procedente, el coadyuvante podrá solicitar la reparación del daño y el Juez no podrá absolver al Adolescente de dicha reparación, si ha declarado una resolución definitiva de responsabilidad.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 71.
 
-En todas las ocasiones que sea requerida la presencia del Adolescente en alguna audiencia o acto del proceso, el Juez lo citará para que comparezca en compañía de su defensor y de ser posible su representante legal. En caso de rebeldía, podrá ordenarse su presentación con auxilio de la fuerza pública. La restricción de la libertad del Adolescente cesará con la audiencia o acto procesal, pudiendo decretarse la medida cautelar de detención preventiva, en términos de esta Ley.
+En todas las ocasiones que sea requerida la presencia del Adolescente en alguna audiencia o acto del proceso, el Juez lo citará para que comparezca en compañía de su defensor y de ser posible su representante legal. En caso de rebeldía, podrá ordenarse su presentación con auxilio de la fuerza pública. La restricción de la libertad del Adolescente, cesará con la audiencia o acto procesal, pudiendo decretarse la medida cautelar de detención preventiva, en términos de esta Ley.
 
 Cuando el Adolescente haya sido citado para la elaboración de los estudios biopsicosociales y éste no comparezca, el Director del Centro solicitará a la autoridad jurisdiccional proceda conforme a lo dispuesto en el párrafo anterior.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 72.
 
-El servidor público, empleado, policía ministerial o miembro del Ministerio Público, que sin la debida autorización, divulgue total o parcialmente por cualquier medio de comunicación, el nombre, hecho o documento relativo a una investigación, procedimiento jurisdiccional que se encuentre en curso, se le impondrá una multa de cien a trescientos días de salario diario mínimo vigente en el Estado.
+El servidor público, empleado, policía ministerial o miembro del Ministerio Público, que sin la debida autorización, divulgue total o parcialmente por cualquier medio de comunicación, el nombre, hecho o documento relativo a una investigación, procedimiento jurisdiccional que se encuentre en curso; se le impondrá una multa, de entre cien a trescientos días de salario diario mínimo vigente en el Estado.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 73.
 
-El Estado podrá celebrar convenios con la Federación para que en caso de que no existan en el Estado jueces o tribunales federales especializados en justicia para Adolescentes, los jueces y tribunales locales especializados en esta materia sean competentes para conocer de las conductas tipificadas como delitos del orden federal, atribuidas a Adolescentes, aplicando las disposiciones de la ley Federal en la materia y la demás legislación aplicable.
+El Estado podrá celebrar convenios con la Federación para que en caso de que no existan jueces o tribunales federales especializados en justicia para Adolescentes, los jueces y tribunales locales especializados en esta materia sean competentes para conocer de las conductas tipificadas como delitos del orden federal, atribuidas a Adolescentes, aplicando las disposiciones de la ley Federal en la materia y la demás legislación aplicable.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 74.
 
-Quienes no puedan hablar, o no puedan hacerlo o no entiendan el idioma español o fuere sordomudo, formularán sus preguntas o contestaciones por escrito o por medio de un intérprete o traductor, respectivamente. El intérprete o traductor, según el caso, explicará y hará saber el contenido y los alcances de las diligencias que se verifiquen y lo que expresen las personas que intervengan en la diligencia.
+Quien no pueda hablar, no entiendan el idioma español o fuere sordomudo, formularán sus preguntas o contestaciones por escrito o por medio de un intérprete o traductor, respectivamente. El intérprete o traductor, según el caso, explicará y hará saber el contenido y los alcances de las diligencias que se verifiquen y lo que expresen las personas que intervengan en la diligencia.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO II. De la Indagatoria
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 75.
 
-La investigación de las conductas atribuidas a los Adolescentes iniciará de oficio o a petición de parte. La denuncia podrá ser formulada de manera verbal o escrita ante el Ministerio Público.
+La investigación de las conductas atribuidas a los Adolescentes, se iniciará de oficio o a petición de parte. La denuncia podrá ser formulada de manera verbal o escrita ante el Ministerio Público.
 
-Los requisitos de procedibilidad para determinar la calificación de la conducta coincidente con algún tipo delictivo atribuida al Adolescente, serán los previstos por las leyes aplicables.
+Los requisitos de procedibilidad para determinar la calificación de la conducta coincidente con algún tipo, delictivo atribuida al Adolescente, serán los previstos por las leyes aplicables.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 76.
 
-El Ministerio Público deberá ejercer la acción de remisión cuando sea procedente, con arreglo a las disposiciones de la ley, salvo cuando se alcance una solución mediante la aplicación de los medios alternativos de justicia.
+El Ministerio Público deberá ejercer la acción de remisión cuando sea procedente, con arreglo a las disposiciones de la ley; salvo fuese alcance una solución, mediante la aplicación de los medios alternativos de justicia.
 
 El Ministerio Público está obligado a promover los medios de justicia alternativa cuando se trate de conductas atribuidas a Adolescentes susceptibles de ser perdonadas por la víctima u ofendido, conforme las previsiones de esta Ley y las normas penales del Estado.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 77.
 
-El Ministerio Público ejercitará la acción de remisión, a través de un escrito que deberá hacer constar lo siguiente:
+El Ministerio Público ejercitará la acción de remisión, a través de un escrito en el que deberá hacer constar, lo siguiente:
 
 I.- Datos del probable responsable;
 
@@ -939,83 +1121,115 @@ III.- Breve descripción de los hechos, estableciendo circunstancias de modo, ti
 
 IV.- Relación de los elementos de convicción que acrediten el hecho y la probable responsabilidad del Adolescente, y
 
-V.- Calificación provisional fundada y motivada de la conducta atribuida al Adolescente.
+V.- La calificación provisional fundada y motivada, de la conducta atribuida.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 78.
 
 No tendrá valor probatorio la admisión de los hechos por parte del Adolescente salvo que sea realizada ante el Juez con la presencia de su defensor, habiéndose entrevistado previamente con éste, y de ser posible con la de su representante legal.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 79.
 
-Durante la etapa de investigación, el Ministerio Público deberá realizar todas las actividades necesarias para allegarse de los datos y elementos de convicción indispensables, que acrediten el hecho y la probable responsabilidad del Adolescente.
+Durante la etapa de investigación, el Ministerio Público deberá realizar todas las actividades necesarias, para allegarse de los datos y elementos de convicción indispensables, que acrediten el hecho y la probable responsabilidad del Adolescente.
 
-Inmediatamente que el Ministerio Público tenga conocimiento de la probable comisión de una conducta tipificada como delito por las normas penales del Estado, por un Adolescente, dictará todas las medidas necesarias para proporcionar seguridad y auxilio a las víctimas; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho, los instrumentos, cosas, objetos o efectos del mismo; determinar que personas fueron testigos; evitar que esta conducta se siga cometiendo y, en general, impedir que se dificulte la investigación, procediendo a la retención de los probables responsables en los casos de flagrancia.
+Inmediatamente que el Ministerio Público tenga conocimiento de la probable comisión de una conducta tipificada como delito por las normas penales del Estado, por un Adolescente; dictará todas las medidas necesarias para proporcionar seguridad y auxilio a las víctimas, e impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho, los instrumentos, cosas, objetos o efectos del mismo; determinar que personas fueron testigos; evitar que esta conducta se siga cometiendo y, en general, impedir que se dificulte la investigación, procediendo a la retención de los probables responsables en los casos de flagrancia.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 80.
 
-El Ministerio Público practicará las diligencias que estime pertinentes para la comprobación de la edad del Adolescente para la aplicación de esta Ley.
+El Ministerio Público practicará las diligencias que estime pertinentes para la comprobación de la edad del Adolescente.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 81.
 
 Una vez reunido los datos y elementos mencionados, en caso de resultar procedente, formulará la remisión del caso al Juez. Se dictará un acuerdo de archivo provisional, cuando de la investigación practicada por el Ministerio Público, no resultaren elementos suficientes para identificarse a quién o quiénes hayan participado en los hechos, y no fuere posible continuarla o bien se encuentre cumpliendo el convenio restaurativo. Se acordará el archivo definitivo cuando los hechos atribuidos al Adolescente no fueren constitutivos de delito, o cuando se acredite el cumplimiento de todas las obligaciones contenidas en el acuerdo conciliatorio.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 82.
 
-Siempre que no se haya producido la prescripción y aparecieren elementos de convicción que así lo justifiquen, la víctima podrá solicitar al Ministerio Público la reapertura de la investigación y la realización de nuevas diligencias.
+Siempre que no se haya producido la prescripción y aparecieren elementos de convicción que así lo justifiquen, la víctima podrá solicitar al Ministerio Público, la reapertura de la investigación y la realización de nuevas diligencias.
 
 El Ministerio Público dictará un acuerdo de reserva de trámite o de denegación. La investigación cuya reserva haya sido determinada, se revisará periódicamente y de considerar que existe alguna diligencia por desahogar, ordenará su práctica.
 
+> <small>(REFORMADA, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 #### Sección Primera. Flagrancia
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 83.
 
 En caso de flagrancia en la comisión de una conducta tipificada como delito grave en la presente ley, el Ministerio Público debe remitir al Adolescente al área de internamiento provisional del Centro.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 84.
 
-El Ministerio Público pondrá en inmediata libertad al Adolescente a quien se atribuya la comisión de una conducta tipificada como delito por las normas penales del Estado, una vez que acredite tener menos de catorce años de edad cumplidos, debiéndolo entregar a sus representantes legales o a quien, conforme a la ley corresponda.
+El Ministerio Público pondrá en inmediata libertad al Adolescente a quien se atribuya la comisión de una conducta tipificada como delito por las normas penales del Estado, una vez que acredite tener menos de catorce años de edad cumplidos, debiéndolo entregar a sus representantes legales o a quien conforme a la ley corresponda.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 85.
 
-Cuando se detenga en flagrancia a un Adolescente por la comisión de una conducta tipificada como delito no grave, esta no podrá exceder de veinticuatro horas y tendrá por objeto identificarlo y ubicar su domicilio, para efecto de ser entregado a sus representantes legales. Si no se lograre, será entregado a la Procuraduría de la Defensa del Menor y la Familia, para los efectos legales procedentes. Lo anterior, sin perjuicio de que se continúe la investigación y, en caso de ser procedente, se ejercite la acción de remisión.
+Cuando se detenga en flagrancia a un Adolescente por la comisión de una conducta tipificada como delito no grave, esta detención no podrá exceder de veinticuatro horas, con el objeto de identificar y ubicar su domicilio, para efecto de ser puesto a disposición de sus representantes legales. Si no se lograre, será entregado a la Procuraduría de la Defensa del Menor y la Familia, para los efectos legales procedentes. Lo anterior, sin perjuicio de que se continúe la investigación y, en caso de ser procedente, se ejercite la acción de remisión.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 86.
 
-La detención provisional tiene como único objeto que el Adolescente comparezca ante el Juez para intervenir en la audiencia de sujeción a proceso y, cumplido el propósito, quedará en libertad, sin perjuicio de que el Juez ordene, acto continuo y a solicitud del Ministerio Público, la medida cautelar de detención preventiva.
+La detención provisional tiene como único fin que el Adolescente comparezca ante el Juez, para intervenir en la audiencia de sujeción a proceso; y cumplido el propósito, quedará en libertad, sin perjuicio de que el Juez ordene, acto continuo y a solicitud del Ministerio Público, la medida cautelar de detención preventiva.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 87.
 
-Se entiende que hay flagrancia cuando:
+Se entiende que hay flagrancia, cuando:
 
-I.- El Adolescente es sorprendido en el momento de estar realizando una conducta que se ajusta a las conductas tipificadas como delitos por las normas penales (sic) Estado;
+I.- El Adolescente es sorprendido al momento de estar realizando una conducta, que se ajusta a las tipificadas como delitos por las normas penales (sic) Estado;
 
-II.- Inmediatamente después de realizar la conducta tipificada como delito por las normas penales Estado, es perseguido materialmente, y
+II.- Inmediatamente después de realizar la conducta tipificada como delito por las normas penales (sic) Estado, es perseguido materialmente, y
 
-III.- Inmediatamente después de realizar dicha conducta, el Adolescente es señalado por la víctima, algún testigo presencial de los hechos o quien hubiere intervenido con éste en la realización de la conducta que se le atribuye, y se le encuentren objetos, productos, instrumentos, huellas o indicios que hagan presumir la realización de una conducta tipificada como delito en las normas penales del Estado.
+III.- Inmediatamente después de realizar dicha conducta, el Adolescente es señalado por la víctima, algún testigo presencial de los hechos o quien hubiere intervenido con éste, en la realización de la conducta que se le atribuye, y además se le encontraren objetos, productos, instrumentos, huellas o indicios que hagan presumir la realización de una conducta tipificada como delito en las normas penales del Estado.
 
-Cuando se detenga en flagrancia a un Adolescente por un hecho que requiera querella de parte ofendida, será informado inmediatamente quien pueda presentarla, quien deberá hacerlo en un término de 24 horas, en caso contrario el Adolescente será puesto en libertad de conformidad a lo dispuesto en el artículo 85 de esta Ley.
+Cuando se detenga en flagrancia a un Adolescente por un hecho que requiera querella de parte ofendida, será informado inmediatamente quien pueda presentarla, mismo que deberá hacerlo en un término de 24 horas; en caso contrario, el Adolescente será puesto en libertad de conformidad a lo dispuesto en el artículo 85 de esta Ley.
 
 La detención se notificará a sus padres o a su tutor inmediatamente.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 88.
 
-El Adolescente detenido en flagrancia, cuya edad se encuentre entre 12 años de edad cumplidos y antes de que cumpla 14, será liberado, poniéndolo bajo custodia de quien ejerza sobre él la patria potestad o tutela, inmediatamente después de ser identificado y ubicado su domicilio. Si en un plazo de veinticuatro horas no se logra esto, será entregado a la Procuraduría de la Defensa del Menor y la Familia, para los efectos legales procedentes. Lo anterior, sin perjuicio de que se continúe la investigación y, en caso de ser procedente, se ejercite la acción de remisión.
+El Adolescente detenido en flagrancia, cuya edad se encuentre entre 12 años de edad cumplidos y antes de que cumpla 14, será liberado; poniéndolo bajo custodia de quien ejerza sobre él la patria potestad o tutela, inmediatamente después de ser identificado y ubicado su domicilio. Si en un plazo de veinticuatro horas no se logra esto, será entregado a la Procuraduría de la Defensa del Menor y la Familia, para los efectos legales procedentes. Lo anterior, sin perjuicio de que se continúe la investigación y, en caso de ser procedente, se ejercite la acción de remisión.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 89.
 
-El Ministerio Público deberá resolver sobre la procedencia o no de la acción de remisión dentro del plazo de cuarenta y ocho horas, si se trata de una conducta tipificada como delito en las normas penales del Estado que merezca medida de internamiento, si con base en la investigación, se determina la existencia de elementos que acrediten su existencia y hagan probable la responsabilidad del Adolescente. En caso contrario, podrá continuarse la investigación sin detenido u ordenarse su archivo provisional o definitivo, y el Adolescente será puesto en libertad.
+El Ministerio Público deberá resolver sobre la procedencia o no de la acción de remisión, dentro del plazo de cuarenta y ocho horas, si se tratare de una conducta tipificada como delito en las normas penales del Estado que merezca medida de internamiento, y con base en la investigación, se determina la existencia de elementos que acrediten su existencia y hagan probable la responsabilidad del Adolescente. En caso contrario, podrá continuarse la investigación sin detenido u ordenarse su archivo provisional o definitivo, y el Adolescente será puesto en libertad.
 
-En caso de que la conducta tipificada como delito en las normas penales del Estado atribuida al Adolescente no amerite medida de internamiento, será puesto en libertad conforme a las previsiones del artículo precedente.
+En caso de que la conducta tipificada como delito en las normas penales del Estado, atribuida al Adolescente, no amerite medida de internamiento; será puesto en libertad, conforme a las previsiones del artículo precedente.
 
-En caso de que el Adolescente sea casado, no será puesto bajo custodia de quien le correspondería ejercer sobre él la patria potestad o tutela.
+En caso de que el Adolescente fuere casado, no será puesto bajo custodia de quien le correspondería ejercer sobre él la patria potestad o tutela.
+
+> <small>(REFORMADA, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 #### Sección Segunda. Aplicación del Principio de Oportunidad
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 90.
 
 Conforme al principio de oportunidad el Ministerio Público podrá prescindir, total o parcialmente de ejercer la acción de remisión. La remisión será parcial cuando se limite a alguno o a varios hechos o a alguno o varios de los Adolescentes que participaron en su realización.
 
-El Adolescente o su defensor podrán solicitar al Ministerio Público la aplicación del principio de oportunidad hasta antes de que emita su decisión sobre el ejercicio de la acción de remisión, pero la solicitud no será condición necesaria para su aplicación.
+El Adolescente o su defensor podrán solicitar al Ministerio Público, la aplicación del principio de oportunidad, hasta antes de que emita su decisión sobre el ejercicio de la acción de remisión, dicha solicitud no será condición necesaria, para su aplicación.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 91.
 
@@ -1029,67 +1243,87 @@ III.- El Adolescente haya sufrido, a consecuencia del hecho, daño físico o ps�
 
 En todos los casos anteriores, la resolución del Ministerio Público deberá sustentarse en razones objetivas y sin discriminación, valorando las pautas descritas en cada caso individual, según los lineamientos generales que al efecto se hayan dispuesto para la procuración de justicia. En los casos en que se verifique un daño, el Ministerio Público pedirá que sea reparado o se garantice la reparación.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 92.
 
-La aplicación del principio de oportunidad, extingue la acción de remisión con respecto al Adolescente en cuyo beneficio se dispuso. Si la decisión se funda en que el hecho no haya vulnerado gravemente un bien jurídicamente tutelado, sus efectos se extenderán a todos los Adolescentes que hayan participado en su comisión.
+La aplicación del principio de oportunidad, extingue la acción de remisión. Si la decisión se funda en que el hecho no haya vulnerado gravemente un bien jurídicamente tutelado, sus efectos se extenderán a todos los Adolescentes, que hubieren participado en su comisión.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 #### Sección Tercera. Acusador Coadyuvante
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 93.
 
-En cualquier etapa del procedimiento y hasta antes de la resolución de segunda instancia, la víctima u ofendido podrán constituirse como acusador coadyuvante, y en tal caso se le tendrá como parte para todos los efectos legales.
+En cualquier etapa del procedimiento y hasta antes de la resolución de segunda instancia, la víctima u ofendido, podrán constituirse como acusador coadyuvante, y se le tendrá como parte, para todos los efectos legales.
 
-Si se tratase de varias víctimas u ofendidos, deberán nombrar un representante común, y si no alcanzan un acuerdo, el juzgador nombrará a uno de entre los propuestos si no hubiere un manifiesto conflicto de intereses, en caso contrario las víctimas promoverán la coadyuvancia a través del Ministerio Público.
+Si se tratase de varias víctimas u ofendidos, deberán nombrar un representante común, y si no hubiere acuerdo, el juzgador nombrará a uno de entre los propuestos, de no existir un manifiesto conflicto de intereses; en caso contrario, las víctimas promoverán la coadyuvancia a través del Ministerio Público.
 
-La participación de la víctima u ofendido como acusador coadyuvante no alterará las facultades concedidas por ley al Ministerio Público, ni le eximirá de sus responsabilidades.
+La participación de la víctima u ofendido como acusador coadyuvante, no alterará las facultades concedidas por ley, al Ministerio Público, ni le eximirá de sus responsabilidades.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 94.
 
-Para constituirse en acusador coadyuvante, la víctima u ofendido deberá designar un abogado particular que actúe en su representación.
+Para constituirse en acusador coadyuvante, la víctima u ofendido, deberá designar un abogado particular que actúe en su representación.
 
 El acusador coadyuvante, por escrito, podrá:
 
-I.- Señalar los vicios materiales y formales del escrito de acusación y requerir su corrección;
+I.- Señalar los vicios materiales y formales del escrito de acusación, y requerir su corrección;
 
-II.- Ofrecer la prueba que estime necesaria para complementar la acusación del Ministerio Público, y
+II.- Ofrecer las pruebas que estime necesarias, para complementar la acusación del Ministerio Público, y
 
-III.- Concretar sus pretensiones, ofrecer prueba para el juicio y cuantificar el monto de la reparación del daño.
+III.- Precisar sus pretensiones, ofrecer prueba para el juicio y cuantificar el monto de la reparación del daño.
 
 Si la víctima u ofendido no puede nombrar un abogado particular que lo represente, el Ministerio Público deberá oír sus pretensiones y podrá hacerlas suyas cuando estén apegadas a la legalidad, así como aceptar su colaboración para producir pruebas y cuantificar el monto de la reparación del daño.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO III. De la Sujeción a Proceso y del Juicio
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 95.
 
-A partir del momento en que el escrito de remisión es recibido por el Juez, éste deberá citar a las partes para comparecer a una audiencia que se celebrará dentro de los cinco días siguientes, en la que el Adolescente rendirá, si así lo desea, su declaración inicial y el Juez determinará si existen bases para resolver la sujeción a proceso y decidir sobre la procedencia de medidas cautelares solicitadas por el Ministerio Público o la coadyuvancia debidamente constituida.
+A partir del momento en que el escrito de remisión es recibido por el Juez, éste deberá citar a las partes para una audiencia que se celebrará dentro de los cinco días siguientes, en la que el Adolescente rendirá, si así lo deseare, su declaración inicial y el Juez determinará si existen bases para resolver la sujeción a proceso y, decidir sobre la procedencia de medidas cautelares solicitadas por el Ministerio Público o la coadyuvancia debidamente constituida.
 
-El Adolescente podrá solicitar al Juez la revisión de la resolución del Ministerio Público que negó la aplicación del principio de oportunidad, misma que será atendida y resuelta inmediatamente. Deberá concurrir el representante del Ministerio Público, el Adolescente probable responsable, su defensor y, en su caso, los padres, tutores o quienes ejerzan la patria potestad o la custodia de este.
+El Adolescente podrá solicitar al Juez la revisión de la resolución del Ministerio Público que negó la aplicación del principio de oportunidad, misma que será resuelta inmediatamente. Debiendo concurrir el representante del Ministerio Público, el probable responsable, su defensor y los padres, tutores o quienes ejerzan la patria potestad o la custodia de este, en su caso.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 96.
 
-Si el Adolescente estuviere detenido provisionalmente, en caso de flagrancia, o se le haya hecho comparecer o presentarse por orden del Juez, la audiencia se celebrará de inmediato. En ella el Juez deberá examinar la legalidad de la detención provisional y, en caso de que resultara indebida, declarará su ilegalidad, para el efecto de alguna posible responsabilidad.
+Si el Adolescente estuviere detenido provisionalmente detenido, en caso de flagrancia, o se le hubiere hecho comparecer o presentarse por orden del Juez, la audiencia se celebrará de manera inmediata. En dicha audiencia, el Juez deberá examinar la legalidad de la detención provisional y, en caso de que resultar indebida, declarará su ilegalidad, para el efecto de alguna posible responsabilidad.
 
-En los casos de detención provisional o de las órdenes de comparecencia o presentación por orden del Juez, la restricción a la libertad del Adolescente concluirá con la celebración de la audiencia.
+En los casos de detención provisional o de las órdenes de comparecencia o presentación, la restricción a la libertad del Adolescente concluirá con la celebración de la audiencia.
 
-Cuando el Juez declare que el Adolescente ha quedado sujeto a proceso y la conducta atribuida amerite medida de internamiento, el Ministerio Público podrá solicitar la aplicación de la medida cautelar de detención preventiva. El Juez podrá dictar la medida cautelar de detención preventiva solicitada o aplicar otras medidas cautelares que considere conveniente; asimismo, podrá decretar de oficio la detención preventiva.
+Cuando el Juez declarase que el Adolescente ha quedado sujeto a proceso y la conducta a el atribuida amerite medida de internamiento, el Ministerio Público podrá solicitar la detención preventiva. El Juez podrá dictar la medida cautelar de detención preventiva solicitada o aplicar otras medidas cautelares que considere conveniente; asimismo, podrá decretar de oficio la detención preventiva.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 97.
 
-El Adolescente o su defensa podrán solicitar la suspensión de la audiencia hasta por cuarenta y ocho horas para aportar los elementos de convicción antes de que se resuelva su situación jurídica o se pronuncie sobre la medida cautelar. Si la audiencia fuere suspendida, el Juez podrá imponer una o más medidas cautelares, cuya aplicación concluirá hasta la reanudación de la audiencia.
+El Adolescente o su defensa podrán solicitar la suspensión de la audiencia hasta por un término de cuarenta y ocho horas para aportar los elementos de convicción antes de que se resuelva su situación jurídica o dicte alguna medida cautelar. Si la audiencia fuere suspendida, el Juez podrá imponer una o más medidas cautelares, cuya aplicación concluirá hasta la reanudación de la audiencia.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 98.
 
-Para la celebración de la audiencia de sujeción a proceso, si el Adolescente no se encontrare detenido, el Juez podrá dictar de oficio, o a solicitud del Ministerio Público:
+Para la celebración de la audiencia de sujeción a proceso, si el Adolescente no se encontrare detenido, el Juez podrá acordar de oficio o a solicitud del Ministerio Público:
 
 I.- Citatorio para que comparezca voluntariamente;
 
-II.- Orden de comparecencia con auxilio de la fuerza pública, cuando habiendo sido citado legalmente y el Adolescente se niegue a comparecer, cualquiera que fuera su edad, salvo que deje de presentarse por causa justificada, y
+II.- Orden de comparecencia con auxilio de la fuerza pública, cuando habiendo sido citado se niegue a comparecer, cualquiera que fuera su edad, salvo que deje de presentarse por causa justificada, y
 
 III.- Orden de presentación, ejecutada con auxilio de la fuerza pública cuando la conducta que se investiga merezca medida de internamiento y el Ministerio Público establezca la existencia de una presunción razonable, por apreciación de las circunstancias del caso particular, de que el Adolescente podría no someterse al proceso u obstaculizaría la averiguación, o se estime que el Adolescente puede cometer un delito doloso contra la propia víctima, alguno de los testigos que depongan en su contra, servidores públicos que intervengan en el proceso o contra algún tercero.
 
 En el caso de la fracción III, cuando el Ministerio Público no funde, motive y establezca la procedencia de la orden de presentación con auxilio de la fuerza pública, el Juez enviará citatorio al Adolescente para que comparezca.
 
 Los Adolescentes de entre 12 años cumplidos y menores de 14 años de edad, no podrán ser objeto de la orden de presentación a que se refiere la fracción III de este artículo.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 99.
 
@@ -1107,15 +1341,19 @@ V.- Necesaria, y
 
 VI.- Asistida por su defensor.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 100.
 
-En la audiencia a que se refiere el artículo 98 de esta Ley, el Juez citará a las partes a una audiencia que se celebrará en un plazo de diez días que podrá ampliarse por un término igual a solicitud de parte y previa valoración del Juez, para que estas ofrezcan los elementos de convicción; y admitirá las pruebas que procedan conforme a derecho. Antes de concluir esta última, el Juez citará a las partes a la audiencia de juicio que se celebrará dentro de los cinco días siguientes.
+En la audiencia a que se refiere el artículo 98 de esta Ley, el Juez citará a las partes a una audiencia que se celebrará en un plazo de diez días, que podrá ampliarse por un término igual, a solicitud de parte y previa valoración del Juez; para que estas ofrezcan los elementos de convicción, que consideren admitiendo las pruebas que procedan conforme a derecho. Antes de concluir el Juez citará a las partes a la audiencia de juicio, que se celebrará dentro de los cinco días siguientes.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 101.
 
-La audiencia de juicio será oral y pública, debiendo estar presentes el Juez, el Adolescente, el defensor, el Ministerio Público y en su caso los familiares o representantes, y el ofendido o víctima.
+La audiencia de juicio será oral y pública, debiendo estar presentes el Juez, el Adolescente, el defensor, el Ministerio Público y en su caso los familiares o representantes, así como el ofendido o víctima.
 
-Durante la audiencia, todos los alegatos y argumentos de las partes, las declaraciones, el desahogo de las pruebas y, en general, las intervenciones de quienes participen en ella, serán orales.
+Durante la audiencia, todos los alegatos y argumentos de las partes, las declaraciones, el desahogo de las pruebas y en general, las intervenciones de quienes participen en ella, serán orales.
 
 El Juez podrá resolver excepcionalmente, de oficio, o a solicitud de las partes, que la audiencia de juicio se desarrolle, total o parcialmente, a puerta cerrada, cuando:
 
@@ -1129,13 +1367,17 @@ IV.- Peligre un secreto oficial, particular, comercial o industrial cuya revelac
 
 V.- Esté previsto específicamente en las leyes.
 
-En los casos señalados en las fracciones de II a la V y una vez desaparecida la causa, se hará ingresar nuevamente al público y el Juez informará brevemente sobre el resultado esencial de los actos cumplidos a puertas cerradas, cuidando de no afectar el bien protegido por la reserva. El Juez podrá imponer a las partes, en el acto, el deber de reserva sobre aquellas circunstancias que han presenciado.
+En los casos señalados en las fracciones de II a la V y una vez desaparecida la causa, se hará ingresar nuevamente al público y el Juez informará brevemente sobre el resultado esencial de los actos cumplidos a puertas cerradas, cuidando de no afectar el bien protegido por la reserva. El Juez podrá imponer a las partes, el deber de reserva sobre aquellas circunstancias que han presenciado.
 
 Los asistentes no podrán grabar voces e imágenes en las audiencias de juicio y tendrán prohibido publicar o difundir por cualquier medio los pormenores de los juicios seguidos contra Adolescentes y de divulgar la identidad de éstos.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 102.
 
 La audiencia de juicio deberá realizarse en dos etapas, la primera para determinar la existencia del hecho y la participación del Adolescente; y la segunda, para la individualización de la medida, en su caso.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 103.
 
@@ -1147,17 +1389,19 @@ I.- Se deba resolver una cuestión incidental que no pueda, por su naturaleza, r
 
 II.- Tenga que practicarse algún acto fuera de la sala de audiencias, incluso cuando una revelación inesperada torne indispensable una investigación suplementaria y no sea posible cumplir los actos en el intervalo de dos sesiones;
 
-III.- Deba practicarse una nueva citación cuando no comparezcan testigos, peritos o intérpretes, y sea imposible o inconveniente continuar la audiencia hasta que ellos comparezcan, incluso coactivamente mediante el uso de la fuerza pública. El Juez podrá ampliar el plazo por el tiempo que a su arbitrio resulte necesario para obtener la comparecencia de las personas antes mencionadas, sin exceder de 10 días;
+III.- Deba practicarse una nueva citación cuando no comparezcan los testigos, peritos o intérpretes, y sea imposible o inconveniente continuar la audiencia hasta que ellos comparezcan, incluso mediante el uso de la fuerza pública. El Juez podrá ampliar el plazo por el tiempo que a su arbitrio resulte necesario para obtener la comparecencia de las personas antes mencionadas, sin exceder de 10 días;
 
-IV.- El Juez o alguno de los participantes cuya comparecencia sea obligatoria, enferme a tal grado que no pueda continuar interviniendo en el juicio;
+IV.- El Juez o alguno de los participantes cuya comparecencia sea obligatoria, se enferme a tal grado que no pueda continuar interviniendo en el juicio;
 
-V.- El defensor o el representante del Ministerio Público para Adolescentes no puedan ser reemplazados inmediatamente en caso de que enfermen gravemente, o por fallecimiento, o
+V.- El defensor o el representante del Ministerio Público para Adolescentes no puedan ser reemplazados inmediatamente en caso de que enfermen gravemente, o fallezcan, o
 
 VI.- Cuando ocurra alguna catástrofe o algún hecho extraordinario que imposibilite su continuación.
 
 El Juez ordenará las suspensiones que se requieran, indicando la fecha y la hora en que continuará la audiencia. No será considerado interrupción el descanso de fin de semana o el día feriado o de asueto, siempre que la audiencia continúe al día hábil siguiente.
 
-Si la audiencia no se reanuda a más tardar el cuarto día después de la suspensión, se considerará interrumpida y deberá ser realizada de nuevo desde su inicio con la participación de un Juez distinto.
+Si la audiencia no se reanudare a más tardar el cuarto día después de la suspensión, se considerará interrumpida y deberá ser realizada de nuevo desde su inicio con la participación de un Juez distinto.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 104.
 
@@ -1177,27 +1421,35 @@ VI.- Seguidamente, se recibirán las pruebas admitidas iniciando con las del Min
 
 VII.- Terminada la recepción de las pruebas, el Juez concederá sucesivamente la palabra al representante del Ministerio Público, al acusador coadyuvante, en su caso, y luego al defensor, para que, en ese orden, emitan sus alegatos conclusivos.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 105.
 
 Las resoluciones de trámite del Juez serán dictadas verbalmente con expresión de sus motivos y fundamentos, quedando todos notificados por su emisión, de lo que se asentará constancia en el acta de esta audiencia.
 
 Cuando durante la audiencia se dicte una resolución de trámite que implique para las partes un acto de molestia, será formulada en un escrito debidamente fundado y motivado, de manera inmediata.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 106.
 
-Durante la audiencia de juicio, los peritos y los testigos deberán ser interrogados personalmente. Su declaración personal no podrá ser sustituida por la lectura de los registros en que consten anteriores declaraciones o de otros documentos que las contuvieren, salvo cuando sea necesario auxiliar su memoria o demostrar o superar contradicciones entre ellas y las prestadas en la audiencia.
+Durante la audiencia de juicio, los peritos y los testigos deberán ser interrogados personalmente. Su declaración personal no podrá ser sustituida por la lectura de los registros en que consten anteriores declaraciones o de otros documentos que las contuvieren, salvo cuando fuere necesario demostrar o superar contradicciones entre ellas y las presentadas en la audiencia.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 107.
 
 Los peritos, testigos, intérpretes y traductores citados responderán directamente a las preguntas que les formulen las partes.
 
-El Juez advertirá a los testigos, peritos intérpretes y traductores que no podrán comunicarse entre sí, o con otras personas, ni ver, oír o ser informados de aquello que ocurra en la audiencia, antes de intervenir y que deberán permanecerán (sic) en una sala distinta, los que serán llamados en el orden previamente establecido.
+El Juez advertirá a los testigos, peritos intérpretes y traductores que no podrán comunicarse entre sí, o con otras personas, ni ver, oír o ser informados de aquello que ocurra en la audiencia, antes de intervenir debiendo permanecer en una sala distinta, serán llamados en el orden previamente establecido.
 
-El Juez, después de tomar la protesta de decir verdad o exhortar al declarante según corresponda, e informar a su vez, de las consecuencias para quienes se produzcan con falsedad, concederá la palabra a la parte que lo propuso para que proceda a interrogarlo y, con posterioridad, a las demás partes que deseen hacerlo. Por último, el Juez podrá interrogarlo, con el único fin de precisar aspectos que no le hayan quedado claros.
+El Juez, después de tomar la protesta de decir verdad o exhortar al declarante según corresponda, e informar de las consecuencias para quienes se produzcan con falsedad, concederá la palabra a la parte que lo propuso para que proceda a interrogarlo y, con posterioridad, a las demás partes que deseen hacerlo. Por último, el Juez podrá interrogarlo, con el único fin de precisar aspectos que no le hayan quedado claros.
 
 Las partes pueden interrogar libremente, pero no podrán formular preguntas capciosas, impertinentes o que involucren más de un hecho. Sólo están prohibidas las preguntas sugestivas formuladas por la parte que ofreció al declarante.
 
 Las partes podrán objetar la formulación de preguntas capciosas, impertinentes, compuestas o sugestivas en el momento del interrogatorio. El Juez calificará en cada caso las objeciones formuladas por las partes.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 108.
 
@@ -1211,11 +1463,15 @@ El Juez, de oficio o a solicitud de parte, podrá prescindir de la lectura ínte
 
 Todos los elementos de convicción podrán ser presentados a los peritos, testigos, traductores, intérpretes, o al Adolescente, cuando corresponda, durante sus declaraciones, quienes podrán ser invitados a reconocerlos o a declarar sobre ellos.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 110.
 
 No se podrán incorporar como medio de prueba, o dar lectura, a las actas o documentos que den cuenta de actuaciones o diligencias previamente declaradas nulas o en cuya obtención, se hayan vulnerado garantías fundamentales.
 
 Con excepción de los supuestos previstos en esta Ley, no se podrán incorporar o invocar como medios de prueba ni dar lectura durante la audiencia, a los registros ni los demás documentos que den cuenta de actividades de investigación realizadas por la Policía o por el Ministerio Público.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 111.
 
@@ -1223,11 +1479,13 @@ Las partes en el uso de la palabra se circunscribirán estrictamente a manifesta
 
 Acto seguido, el Juez si estuviere presente la víctima u ofendido, le concederá el uso de la palabra. Seguidamente se le concederá el uso de la palabra a la defensa y en su caso al Adolescente y se declarará cerrada la audiencia.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 112.
 
-Inmediatamente después de concluida (sic) el periodo de los alegatos, el Juez procederá a deliberar en privado, señalando fecha y hora para la continuación de la audiencia en la que se pronunciará sobre la conducta atribuida al Adolescente y su responsabilidad.
+Inmediatamente después de concluido el periodo de los alegatos, el Juez procederá a deliberar en privado, señalando fecha y hora para la continuación de la audiencia en la que se pronunciará sobre la conducta atribuida al Adolescente y su responsabilidad.
 
-El Juez valorará según la sana crítica extraída de la totalidad del debate, las pruebas, conforme los principios generales del derecho, las reglas de la lógica, los conocimientos científicos y las máximas de la experiencia; sólo podrán valorarse y someterse a la crítica racional los medios de prueba obtenidos por un proceso permitido e incorporados al juicio conforme a las disposiciones de esta Ley.
+El Juez valorará según la sana crítica, en base a la totalidad del debate y las pruebas, conforme los principios generales del derecho, las reglas de la lógica, los conocimientos científicos y las máximas de la experiencia; sólo podrán valorarse y someterse a la crítica racional los medios de prueba obtenidos por un proceso permitido e incorporados al juicio conforme a las disposiciones de esta Ley.
 
 En caso de duda, el Juez deberá resolver tomando en cuenta lo que más favorezca al Adolescente.
 
@@ -1237,9 +1495,11 @@ Al concluir su deliberación, el Juez reanudará la sesión, para comunicar a la
 
 Inmediatamente después de decretar la responsabilidad del Adolescente, en el mismo acto, el Juez solicitará al Centro la realización de los estudios biopsicosociales y la elaboración del dictamen técnico del Adolescente que deberá realizarse en un plazo no mayor a los diez días siguientes.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 113.
 
-Se entiende por dictamen técnico es (sic) la conclusión de los estudios que permitan conocer la estructura biopsicosocial del Adolescente y los factores asociados con la comisión de la conducta tipificada como delito en las normas penales del Estado. El dictamen técnico estará integrado por los estudios de carácter médico, psicológico, educativo, de trabajo social y las demás que sean establecidas en el Reglamento Interior del Centro.
+Se entiende por dictamen técnico, la conclusión de los estudios que permitan conocer la estructura biopsicosocial del Adolescente y los factores asociados con la comisión de la conducta tipificada como delito en las normas penales del Estado. El dictamen técnico estará integrado por los estudios de carácter médico, psicológico, educativo, de trabajo social y los demás que sean establecidas en el Reglamento Interior del Centro.
 
 El dictamen técnico contendrá:
 
@@ -1249,15 +1509,19 @@ II.- Datos generales del expediente;
 
 III.- La metodología empleada para su elaboración;
 
-IV.- El perfil individual del Adolescente, su grado de desajuste biopsicosocial, las condiciones facilitadoras y limitantes para la comisión de un futuro Ilícito (sic) y sus necesidades especiales para alcanzar un desarrollo sano, así como la viabilidad de las medidas para dar cumplimiento a las medidas (sic), y
+IV.- El perfil individual del Adolescente, su grado de desajuste biopsicosocial, las condiciones facilitadoras y limitantes para la comisión de un futuro Ilícito (sic) y sus necesidades especiales para alcanzar un desarrollo sano, así como la viabilidad de las medidas para dar cumplimiento a las medidas, y
 
 V.- La sugerencia técnica de las medidas de orientación, protección y tratamiento necesarias para la reeducación y reinserción familiar y social del Adolescente.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 114.
 
-El Juez, una vez recibido el dictamen técnico del Adolescente, resolverá sobre la individualización de las medidas, las incorporará a la resolución definitiva y citará a una nueva audiencia en la que la comunicará a las partes, que se realizará dentro de los tres días siguientes.
+El Juez, una vez recibido el dictamen técnico del Adolescente, resolverá sobre la individualización de las medidas, incorporándolo a la resolución definitiva y citará a una nueva audiencia para darla a conocer a las partes, misma que se realizará dentro de los tres días siguientes.
 
 Una vez comunicada la resolución, se dará por terminado la audiencia.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 115.
 
@@ -1272,6 +1536,8 @@ III.- El dictamen técnico;
 IV.- Las circunstancias particulares del Adolescente, y
 
 V.- Las posibilidades que tiene de cumplir con la medida y con la reparación del daño.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 116.
 
@@ -1291,13 +1557,17 @@ VI.- La medida que en su caso llegue a imponerse, su duración y lugar de aplica
 
 VII.- El monto de la reparación del daño a la víctima u ofendido, en su caso.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 117.
 
 El Juez enviará al Centro, en un plazo no mayor a tres días, copia debidamente autorizada de la resolución definitiva para que elabore el Programa Personalizado de Ejecución.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 118.
 
-El Centro deberá elaborar el Programa Personalizado de Ejecución, dentro de un plazo no mayor de tres días, y una vez elaborado deberá enviar copia de la misma al Juez, la Dirección de Prevención y hacerlo del conocimiento al Adolescente, defensor y en su caso a sus representantes legales, dentro de un plazo de tres días.
+El Centro deberá elaborar el Programa Personalizado de Ejecución, dentro de un plazo no mayor de tres días, y una vez elaborado deberá enviar copia de la misma al Juez, a la Dirección de Prevención, así como hacerlo del conocimiento al Adolescente, defensor y en su caso a los representantes legales, dentro de un plazo de tres días.
 
 En el Programa Personalizado se especificará, por lo menos:
 
@@ -1315,13 +1585,19 @@ VI.- Los criterios para considerar el cumplimiento o incumplimiento de las medid
 
 Se procurará incluir la participación del Adolescente en actividades a favor de la comunidad que consoliden su reintegración social.
 
+> <small>(REFORMADA, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 #### Sección Primera. Prueba Anticipada
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 119.
 
-Cuando sea necesario recibir declaraciones o testimonios que, por algún obstáculo excepcionalmente difícil de superar, como la ausencia, la excesiva distancia o la imposibilidad física o psíquica de quien debe declarar, se presuma que no podrá ser recibida durante el juicio, las partes podrán solicitar al Juez la práctica del anticipo de prueba.
+Cuando sea necesario recibir declaraciones o testimonios que, por algún obstáculo excepcional, difícil de superar, como la ausencia, la excesiva distancia o la imposibilidad física o psíquica de quien debe declarar, se presuma que no podrá ser recibida durante el juicio, las partes podrán solicitar al Juez la práctica del anticipo de prueba.
 
 Si la causa que dio lugar a esta solicitud no existiese para la fecha del debate, la prueba deberá desahogarse en la audiencia de juicio.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 120.
 
@@ -1333,33 +1609,43 @@ El Adolescente que estuviere retenido será representado por su defensor en toda
 
 Para el caso de que no se presentare la defensa particular, la autoridad designará a la defensa de oficio de la adscripción.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 121.
 
-El Juez hará constar el contenido de la diligencia en acta, con todos los detalles que sean necesarios, en la cual incluirá las observaciones que los participantes propongan. El acta contendrá la fecha, la hora y el lugar de práctica de la diligencia, será firmada por el Juez y por los participantes que quisieren hacerlo.
+El Juez hará constar el contenido de la diligencia en acta, con todos los detalles que fueren necesarios, en la cual incluirá las observaciones que los participantes. El acta contendrá la fecha, la hora y el lugar de práctica de la diligencia, será firmada por el Juez y por los participantes que quisieren hacerlo.
 
 Cuando se trate de diligencias que se desarrollen ininterrumpidamente en etapas subsecuentes, podrán constar en actas separadas, según lo disponga el Juez que dirige el proceso.
 
 Se deberá realizar una grabación auditiva o audiovisual, cuyo soporte, debidamente resguardado, integrará el acta, en la que constará el método utilizado y la identificación del resguardo.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 122.
 
 Si las reglas establecidas en los artículos precedentes son estrictamente observadas, el registro y las grabaciones del acto que hayan sido dispuestas, podrán ser incorporados a las audiencias por lectura o reproducción.
 
+> <small>(REFORMADA, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 #### Sección Segunda. De la valoración de las pruebas
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 123.
 
-Los elementos de prueba no tendrán valor si han sido obtenidos por un medio ilícito, ni las pruebas que sean consecuencia directa de aquellos.
-
-Tampoco lo tendrán si no fueron incorporados al proceso conforme a las disposiciones de esta Ley.
+Los elementos de prueba no tendrán valor si han sido obtenidos por un medio ilícito, ni las pruebas que fueren su consecuencia directa. Tampoco lo tendrán, si no fueron incorporados al proceso conforme a las disposiciones de esta Ley.
 
 No tendrá valor la prueba obtenida mediante torturas, amenazas, o violación de los derechos fundamentales de las personas, ni la obtenida a partir de información originada en un procedimiento o medio ilícito.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 124.
 
-No podrán ser valorados para fundar una decisión judicial ni ser utilizados como presupuesto de ella, los actos practicados con inobservancia de las formas que impliquen agravio a las garantías y derechos del Adolescente contenidos en esta Ley, salvo que el defecto haya sido saneado, de acuerdo con las normas previstas por esta Ley.
+No podrán ser valorados para fundar una decisión judicial ni ser utilizados como presupuesto de aquella, los actos practicados con inobservancia de las formas que impliquen agravio a las garantías y derechos del Adolescente contenidos en esta Ley, salvo que el defecto haya sido saneado, de acuerdo con las normas previstas por esta Ley.
 
-El Juez, el representante del Ministerio Público, el funcionario o el agente policial que viole o permita la violación de cualquiera de estos derechos es responsable personalmente y deberá ser sancionado conforme a las leyes aplicables.
+El Juez, el representante del Ministerio Público, el funcionario o el agente policial que vulnere o permita la violación de cualquiera de estos derechos, será responsable personalmente y deberá ser sancionado conforme a las leyes aplicables.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 125.
 
@@ -1367,7 +1653,11 @@ Tampoco podrán ser valorados los actos practicados con inobservancia de las for
 
 No tendrán valor probatorio los registros ni los demás documentos que den cuenta de actividades de investigación realizadas por la Policía Ministerial o por el Ministerio Público.
 
+> <small>(REFORMADA, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 #### Sección Tercera. Del saneamiento
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 126.
 
@@ -1375,27 +1665,37 @@ Todos los defectos formales deberán ser inmediatamente saneados, renovando el a
 
 Se entenderá que el acto se ha saneado cuando, no obstante la irregularidad, ha conseguido su fin respecto de todos los interesados.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 127.
 
 El Juez que constate un defecto formal saneable en cualquier etapa, recurso o instancia, lo comunicará al interesado y le otorgará un plazo para corregirlo, el cual no será mayor de tres días. Si el defecto formal no se corrige en el plazo conferido, resolverá lo correspondiente.
 
 El Juez podrá corregir en cualquier momento, de oficio o a petición de parte, los errores puramente formales contenidos en sus actuaciones o resoluciones, respetando siempre los derechos y garantías de las partes.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 128.
 
 Los defectos formales que afectan al Ministerio Público o a la víctima u ofendido quedarán convalidados cuando:
 
-I.- No hayan solicitado su saneamiento mientras se practica el acto, o dentro de las veinticuatro horas de practicado, si quien lo solicita no ha estado presente;
+I.- Las partes no hubieren solicitado el saneamiento mientras se practica el acto, o dentro de las veinticuatro horas de practicado, si quien lo solicitare no ha estado presente;
 
-II.- Si por las circunstancias del acto ha sido imposible advertir oportunamente el defecto, el interesado deberá reclamarlo dentro de las veinticuatro horas después de advertirlo, o
+II.- Si por las circunstancias del acto, hubiere sido imposible advertir oportunamente el defecto, el interesado deberá reclamarlo dentro de las veinticuatro horas después de advertirlo, o
 
 III.- Hayan aceptado, expresa o tácitamente, los efectos del acto.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 129.
 
 Cuando no sea posible sanear un acto, el Juez, de oficio o a petición de parte, deberá, en forma fundada y motivada, declarar su nulidad o señalarla expresamente en la resolución respectiva; especificará, además, cuáles actos alcanzan la nulidad por su relación con el acto anulado y, cuando sea posible, ordenará que se renueven o rectifiquen.
 
+> <small>(REFORMADA, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 #### Sección Cuarta. Sobreseimiento
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 130.
 
@@ -1425,29 +1725,35 @@ XI.- Cuando habiéndose dictado el archivo provisional del expediente y no se so
 
 Al quedar comprobada cualquiera de las causales enumeradas en este artículo, el Juez decretará de oficio el sobreseimiento y dará por terminado el procedimiento.
 
+> <small>(REFORMADA, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 #### Sección Quinta. Medidas Cautelares
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 131.
 
 Las medidas cautelares serán decretadas por el Juez a solicitud del Ministerio Público, escuchando previamente al Adolescente. Las medidas cautelares podrán ser las siguientes:
 
-I.- La presentación de una garantía económica suficiente para garantizar su sujeción al proceso;
+I.- La exhibición de una cantidad suficiente para garantizar su sujeción a proceso;
 
-II.- La prohibición de salir sin autorización de la localidad en la cual reside, del Estado, del país, o del ámbito territorial que fije el Juez;
+II.- La prohibición de salir sin autorización de la localidad en la cual reside, del estado, del país, o del ámbito territorial que fije el Juez;
 
 III.- La obligación de someterse al cuidado o vigilancia de una persona o institución determinada, que informe regularmente al Juez;
 
-IV.- La obligación de presentarse periódicamente ante el Juez o ante la autoridad que él designe;
+IV.- La obligación de presentarse periódicamente ante el Juez o la autoridad que él designe;
 
-V.- La prohibición de amenazar o intimidar a la víctima u ofendido, los testigos, peritos, autoridades y demás personas que participen en el proceso;
+V.- La prohibición de amenazar o intimidar a la víctima u ofendido, a los testigos, peritos, autoridades y demás personas que participen en el proceso;
 
-VI.- La separación inmediata del domicilio cuando se trate de agresiones a mujeres y niños o delitos sexuales y la presunta víctima conviva con el Adolescente;
+VI.- La separación inmediata del domicilio, cuando se trate de agresiones a mujeres y niños o delitos sexuales y, la presunta víctima cohabite con el Adolescente;
 
 VII.- La retención preventiva en su domicilio, centro médico o instalaciones especializadas, y
 
 VIII.- La detención preventiva en el Centro.
 
-La detención preventiva podrá decretarse hasta por un plazo de tres meses, siempre que se trate de conductas que ameriten medidas de internamiento y de Adolescentes de catorce años de edad en adelante. Dicho plazo podrá ser ampliado de oficio o a petición de parte, hasta por un mes más, bajo la estricta responsabilidad del Juez.
+La detención preventiva podrá decretarse hasta por un plazo de tres meses, siempre que se trate de conductas que ameriten medidas de internamiento y de Adolescentes de catorce años de edad en adelante. Dicho plazo podrá ser ampliado de oficio o a petición de parte, hasta por un mes adicional, bajo la estricta responsabilidad del Juez.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 132.
 
@@ -1467,9 +1773,13 @@ Las pruebas destinadas a proporcionar elementos de juicio al Juez para aplicar l
 
 La falta de cumplimiento de la medida podrá dar lugar a la aplicación de otra más severa.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 133.
 
 El Juez podrá aplicar las medidas cautelares a que se refieren las fracciones I a la VI del artículo 131 de esta Ley, cuando el Ministerio Público acredite, previamente, los elementos de convicción e indicios de que exista peligro de fuga y de obstaculización del procedimiento, sin perjuicio de que las pueda aplicar en otros casos. Estas medidas cautelares se aplicarán preferentemente a la de detención preventiva.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 134.
 
@@ -1483,6 +1793,8 @@ III.- La conducta atribuida amerite una medida de internamiento, y
 
 IV.- El Ministerio Público acredite, previamente, los elementos de convicción e indicios de que exista peligro de fuga y de obstaculización del procedimiento, riesgo de que cometa alguna conducta tipificada como delito contra personas que intervienen en el proceso o exista riesgo fundado que destruya o altere pruebas, indicios o medios de convicción.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 135.
 
 La medida de detención preventiva se sujetará a las reglas siguientes:
@@ -1492,6 +1804,8 @@ I.- Podrá ser sustituida por otra menos grave en cualquier momento, a solicitud
 II.- Sólo podrá aplicarse a Adolescentes de 14 o más años de edad al momento de cometer el hecho, y
 
 III.- No podrá combinarse con otras medidas cautelares, y debe ser cumplida en instalaciones diferentes a las destinadas al cumplimiento de la medida de internamiento definitivo.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 136.
 
@@ -1505,6 +1819,8 @@ III.- La indicación de la medida y las razones por las cuales el Juez estima qu
 
 IV.- La duración de la medida.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 137.
 
 Una vez dictada la medida cautelar, como requisito previo a su cumplimiento, se transcribirá por escrito la resolución adoptada en la audiencia en el que constará, cuando corresponda:
@@ -1515,7 +1831,9 @@ II.- La identificación y el domicilio de la institución o de los particulares 
 
 III.- El señalamiento del lugar para notificar a las partes, y
 
-IV.- La promesa formal del Adolescente de presentarse a las audiencias y demás actos procesales cuando sea citado legalmente.
+IV.- La promesa formal del Adolescente de presentarse a las audiencias y demás actos procesales cuando fuere citado.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 138.
 
@@ -1523,17 +1841,27 @@ Cuando alguna de las partes pretenda la revisión, sustitución, modificación o
 
 El Juez valorará estos elementos de prueba conforme a las reglas generales establecidas en esta ley, exclusivamente para motivar la decisión sobre la medida cautelar.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ## TÍTULO QUINTO. DE LAS MEDIDAS
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO I. De las Medidas y su Aplicación
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 139.
 
 La autoridad jurisdiccional determinará las medidas y sus modificaciones que deban aplicarse al Adolescente, con el objetivo de promover su reeducación y reintegración familiar y social, así como el pleno desarrollo de su persona y capacidades.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 140.
 
 La aplicación, evaluación y seguimiento de las medidas estará a cargo del Centro. La Dirección de Prevención supervisará y vigilará al Centro y la aplicación que éste haga de las medidas.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 141.
 
@@ -1541,27 +1869,37 @@ Las medidas podrán ser de orientación, de protección y de tratamiento. Las me
 
 Las finalidades y objetivos que en esta Ley se señalan para cada medida, podrán ser adecuadas por el Consejo Técnico Interdisciplinario, conforme a las necesidades del Adolescente; es decir, tienen el carácter de indicativas.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 142.
 
 En la imposición de medidas cuya aplicación incluya la modalidad interna el Juez podrá determinar una duración mínima de un año y máxima de siete años, mientras que en las medidas que tengan la modalidad externa su duración mínima será de seis meses y la máxima de tres años.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 143.
 
 Las medidas que se determinen a los Adolescentes serán aplicadas según lo dispuesto en el programa personalizado que establezca el Consejo Técnico Interdisciplinario, con base en la resolución definitiva.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 144.
 
-Las instituciones, organizaciones y personas que colaboren con el programa personalizado de un Adolescente rendirán los informes pertinentes (sic) la Dirección de Prevención, así como al Director del Centro, en los términos y condiciones que establezcan los convenios para tal efecto.
+Las instituciones, organizaciones y personas que colaboren con el programa personalizado de un Adolescente, rendirán los informes pertinentes la Dirección de Prevención, así como al Director del Centro, en los términos y condiciones que establezcan los convenios para tal efecto.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 145.
 
-La aplicación de las medidas concluye en los casos siguientes:
+La aplicación de las medidas concluye por las siguientes causas:
 
 I.- Muerte del Adolescente;
 
 II.- Por cumplimiento, y
 
 III.- Resolución que determine la terminación anticipada.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 146.
 
@@ -1577,15 +1915,23 @@ El seguimiento a que se refiere el presente artículo tendrá una duración máx
 
 De las constancias del seguimiento de la reeducación del Adolescente se integrará un expediente y la información recabada será de carácter confidencial y únicamente podrá ser utilizada para fines estadísticos.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 147.
 
 Las dependencias y entidades de la administración pública estatal y municipal, así como los organismos públicos autónomos, deberán colaborar en el ámbito de sus atribuciones, en la aplicación y seguimiento de las medidas determinadas a los Adolescentes y las acciones pertinentes para prevenir su discriminación.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO II. Medidas de Orientación
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 148.
 
 Las medidas de orientación consisten en acciones que brinden al Adolescente experiencias de legalidad, los beneficios de la convivencia armónica y del respeto a las normas y respeto de los derechos de los demás.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 149.
 
@@ -1601,15 +1947,19 @@ IV.- La obligación de realizar actividades ocupacionales, o
 
 V.- La obligación de realizar actividades formativas.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 150.
 
 La amonestación consiste en una llamada de atención al Adolescente en relación con la conducta tipificada como delito en las normas penales del Estado cometida y sus consecuencias, así como el señalamiento de los comportamientos y actitudes que requiere para no reincidir en conductas antisociales.
 
-El apercibimiento consiste en advertir al Adolescente que en caso de no cumplir o cumplir indebidamente con las medidas impuestas se le podrá sustituir o modificar la medida.
+El apercibimiento consiste en advertir al Adolescente que en caso de no cumplir o cumplir indebidamente con las medidas a él impuestas, se le podrá sustituir o modificar.
 
-La finalidad es la de conminar al Adolescente para que evite la futura realización de conductas coincidentes con los tipos delictivos previstas en las normas penales del Estado.
+La finalidad es la de conminar al Adolescente para evitar en el futuro, realización de conductas coincidentes con los tipos delictivos previstas en las normas penales del Estado.
 
-La amonestación y el apercibimiento serán aplicados en conjunto, en una sola sesión y por el Juez del conocimiento.
+La amonestación y el apercibimiento serán aplicados en conjunto en una sola sesión y por el Juez del conocimiento.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 151.
 
@@ -1619,29 +1969,41 @@ La finalidad es inculcar en el Adolescente el aprecio por la vida en libertad y 
 
 La cantidad y periodicidad de sesiones se establecerá en su programa personalizado.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 152.
 
 La prestación de servicios a favor de la comunidad consiste en la obligación del Adolescente de realizar actividades no lucrativas que representan un beneficio de interés social. Esta medida se realizará en colaboración con instituciones u organizaciones públicas o privadas cuyos programas se encuentren incluidos en los convenios o acuerdos celebrados para tal efecto, y cumpliendo con las disposiciones contenidas en la normatividad relativa.
 
 El objetivo es inculcar en el Adolescente el respeto por los bienes y servicios públicos y privados, así como el valor que representan en la satisfacción de las necesidades de la sociedad y los particulares.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 153.
 
-La obligación de realizar actividades ocupacionales consiste en capacitarse o desempeñarse en un empleo, y/o participar en actividades formales de carácter deportivo, cultural o recreativo. La finalidad consiste en que encuentre un medio lícito de subsistencia con miras a su desarrollo personal y laboral, así como participar en actividades grupales para que se habitúe a la colaboración con propósitos legítimos y satisfactorios a fin de prepararlo a participar en la convivencia civilizada.
+La obligación de realizar actividades ocupacionales consiste en capacitarse o desempeñarse en un empleo, o participar en actividades formales de carácter deportivo, cultural o recreativo. La finalidad consiste en que encuentre un medio lícito de subsistencia con miras a su desarrollo personal y laboral, así como participar en actividades grupales para que se habitúe a la colaboración con propósitos legítimos y satisfactorios a fin de prepararlo a participar en la convivencia civilizada.
 
-El desempeño de un empleo podrá realizarse siempre que cumpla con las disposiciones contenidas en la normatividad relativa y sea adecuada para su desarrollo biopsicosocial a criterio del Centro, y con la aprobación de los representantes legales del Adolescente, en su caso. Los recursos económicos generados por el Adolescente deberán destinarse a los fines que él y sus representantes legales acuerden.
+El desempeño de un empleo podrá realizarse siempre que cumpla con las disposiciones contenidas en la normatividad relativa y sea adecuada para su desarrollo biopsicosocial a criterio del Centro, y con la aprobación de los representantes legales del Adolescente, en su caso. Los recursos económicos generados por el Adolescente, deberán destinarse a los fines que él y sus representantes legales acuerden.
 
-La capacitación laboral y las actividades de carácter deportivo, cultural o recreativo podrán desempeñarse en el Centro, dependencias, entidades, instituciones u organizaciones públicas o privadas cuyos programas se encuentren incluidos en convenios o acuerdos celebrados para tal efecto.
+La capacitación laboral y las actividades de carácter deportivo, cultural o recreativo podrán desempeñarse en el Centro, dependencias, entidades, instituciones u organizaciones públicas o privadas cuyos programas se encuentren incluidos en los convenios o acuerdos celebrados para tal efecto.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 154.
 
 La obligación de participar en actividades formativas consiste en asistir y cumplir con los requisitos académicos y disciplinarios de instituciones educativas o formativas. Esta medida podrá desempeñarse en el Centro o en instituciones que cuenten con reconocimiento oficial. Esta medida tiene como objetivo que el Adolescente se reconozca como sujeto de derechos y obligaciones, como actor de los ámbitos público y colectivo de la sociedad, partícipe de la vida económica, cultural y política, y adquiera una actitud de sana crítica hacia su entorno.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO III. Medidas de Protección
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 155.
 
 Las medidas de protección consisten en prohibiciones o mandatos específicos que modifiquen el comportamiento del Adolescente para reducir el impacto de factores generadores de conductas que afecten el interés de la sociedad.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 156.
 
@@ -1657,6 +2019,8 @@ IV.- La obligación de cumplir normas del hogar o familiares, y
 
 V.- La obligación de residir en un domicilio específico o con determinadas personas.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 157.
 
 En la supervisión de las medidas de protección, participará personal técnico del Centro, familiares y miembros de la comunidad que tengan contacto frecuente y una relación positiva con el Adolescente. El Centro podrá tomar las medidas necesarias para conocer la conducta del Adolescente.
@@ -1665,27 +2029,37 @@ Los miembros de la comunidad que participen en la supervisión de las medidas de
 
 Para considerar como incumplida alguna de las medidas antes señaladas deberá tomarse en cuenta la evidencia objetiva.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 158.
 
 La prohibición de consumir bebidas alcohólicas o sustancias ilegales, tiene como finalidad obstaculizar el acceso del Adolescente al alcohol y todo tipo de sustancias prohibidas, contribuyendo con ello al tratamiento médico y psicológico de posibles adicciones.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 159.
 
-La prohibición de conducir vehículos motorizados, implica la inhabilitación para obtener permiso o licencia de conducir, o la suspensión del mismo si ya hubiere sido obtenido, por lo que el Juez hará del conocimiento de las autoridades competentes esta prohibición, para que nieguen, cancelen o suspendan el permiso del Adolescente para conducir vehículos motorizados, hasta en tanto no concluya el plazo de la prohibición.
+La prohibición de conducir vehículos motorizados, implica la inhabilitación para obtener permiso o licencia de conducir, o la suspensión del mismo si ya hubiere sido obtenido, por lo que el Juez hará del conocimiento de las autoridades competentes esta prohibición, para que nieguen, cancelen o suspendan el permiso del Adolescente para conducir vehículos motorizados, hasta en tanto no concluya el plazo de la prohibición. La finalidad de esta medida es que el Adolescente aprenda el valor de la confianza en el otorgamiento de una prerrogativa y las consecuencias de faltar a ella.
 
-La finalidad de esta medida es que el Adolescente aprenda el valor de la confianza en el otorgamiento de una prerrogativa y las consecuencias de faltar a ella.
+Si la autoridad encargada de expedir los permisos o licencias para conducir vehículos automotores, tuviere conocimiento de que el Adolescente ha incumplido con la prohibición impuesta, deberá comunicarlo de inmediato al Centro.
 
-Si la autoridad encargada de expedir los permisos o licencias para conducir vehículos automotores tiene conocimiento de que el Adolescente ha incumplido con la prohibición impuesta, debe comunicarlo de inmediato al Centro.
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 160.
 
-La obligación de participar en programas institucionales para que reciba instrucción educativa, y corregir problemas de conducta, entre otros medios para satisfacer sus necesidades y consiste en cumplir satisfactoriamente los objetivos de un programa institucionalizado. Esta medida podrá aplicarse en el Centro o en instituciones oficiales. A solicitud y a costa de sus representantes legales, el Adolescente podrá cumplir esta medida en una institución privada que cuente con el reconocimiento oficial de una institución pública afín.
+La obligación de participar en programas institucionales para recibir instrucción educativa, y corregir problemas de conducta, entre otros medios para satisfacer sus necesidades; consiste en cumplir satisfactoriamente los objetivos de un programa institucionalizado. Esta medida podrá aplicarse en el Centro o en instituciones oficiales.
 
-La información válida sobre el comportamiento y cumplimiento del Adolescente será proporcionada por la persona facultada en el programa de que se trate, así como por la constancia escrita oficial sobre la participación y/o resultados del Adolescente en el programa.
+A solicitud y a costa de sus representantes legales, el Adolescente podrá cumplir esta medida en una institución privada que cuente con el reconocimiento oficial.
+
+La información válida sobre el comportamiento y cumplimiento del Adolescente será proporcionada por la persona facultada en el programa de que se trate, así como por la constancia escrita oficial sobre la participación y resultado del Adolescente en el programa.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 161.
 
-La obligación de cumplir normas del hogar o familiares consiste en que el Adolescente dé cabal cumplimiento a una serie de compromisos por escrito y de carácter conductual con las personas que convivirá durante el tiempo que dure la aplicación de la medida. El objetivo es lograr que el Adolescente adquiera un comportamiento disciplinado en su entorno inmediato, que pueda llevar al ámbito externo a su hogar.
+La obligación de cumplir normas del hogar o familiares consiste en que el Adolescente de cabal cumplimiento a una serie de compromisos por escrito y de carácter conductual con las personas que convivirá durante el tiempo que dure la aplicación de la medida. El objetivo es lograr que el Adolescente adquiera un comportamiento disciplinado en su entorno inmediato, que pueda llevar al ámbito externo a su hogar.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 162.
 
@@ -1699,19 +2073,29 @@ Su finalidad es modificar el ambiente cotidiano del Adolescente para que se dese
 
 Al dictar esta medida, el Juez determinará en la resolución definitiva el domicilio donde deberá ubicarse el Adolescente y las personas a cuya autoridad deberá responder. El Adolescente tendrá la obligación de cumplir con los horarios de entrada y salida, así como con las normas básicas del hogar donde sea ubicado.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 163.
 
-En la aplicación de las medidas de protección que implican obligaciones, contempladas en esta Ley, el Centro podrá determinar la realización de visitas de su personal técnico a la comunidad, instituciones o domicilio para obtener información adicional sobre el comportamiento del Adolescente. Los datos recabados serán considerados también como una fuente válida de información sobre el cumplimiento de la medida.
+En la aplicación de las medidas de protección que impliquen obligaciones, el Centro podrá determinar la realización de visitas de su personal técnico a la comunidad, instituciones o domicilio para obtener información adicional sobre el comportamiento del Adolescente. Los datos recabados serán considerados también como una fuente válida de información sobre el cumplimiento de la medida.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO IV. Medidas de Tratamiento
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 164.
 
 Las medidas de tratamiento consisten en la aplicación de métodos especializados para lograr el pleno desarrollo del Adolescente y sus capacidades, así como su reintegración familiar y social.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 165.
 
 El tratamiento deberá ser integral, sistemático, interdisciplinario e involucra a la familia y comunidad a la que pertenece el Adolescente.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 166.
 
@@ -1729,29 +2113,43 @@ V.- Desarrollar su capacidad para establecer vínculos positivos con su familia 
 
 VI.- Fortalecer en él hábitos, sentimientos y valores para su desarrollo personal y social.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 167.
 
-En el tratamiento con modalidad externa el Adolescente será ubicado en el hogar y bajo la responsabilidad y autoridad de las personas o institución que el Juez designe en la resolución definitiva.
+En el tratamiento con la modalidad externa, el Adolescente será ubicado en el domicilio y bajo la responsabilidad y autoridad de las personas o de institución que el Juez designe en la resolución definitiva.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 168.
 
-El tratamiento que se aplique en modalidad interna requerirá que el Adolescente esté bajo la custodia y autoridad del Director del Centro.
+El tratamiento que se aplique en la modalidad interna requerirá que el Adolescente esté bajo la custodia y autoridad del Director del Centro.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 169.
 
-Durante la aplicación del tratamiento en modalidad interna la información válida sobre el comportamiento y cumplimiento de la medida será la que establezca la (sic) Consejo Técnico Interdisciplinario.
+Durante la aplicación del tratamiento en la modalidad interna, la información válida sobre el comportamiento y cumplimiento de la medida, será la que establezca la (sic) Consejo Técnico Interdisciplinario.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 170.
 
-Durante la aplicación del tratamiento en modalidad externa la información válida sobre el comportamiento y cumplimiento la aportarán las personas designadas en el programa personalizado.
+Durante la aplicación del tratamiento en modalidad externa, la información válida sobre el comportamiento y cumplimiento, la aportarán las personas designadas en el programa personalizado.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 171.
 
-Durante la aplicación de una medida de tratamiento interno el Adolescente deberá realizar las actividades contenidas en su programa personalizado y las actividades complementarias que el Consejo Técnico Interdisciplinario establezca.
+Durante la aplicación de una medida de tratamiento interno el Adolescente deberá realizar las actividades contenidas en su programa personalizado y las complementarias, que el Consejo Técnico Interdisciplinario establezca.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 172.
 
 El programa personalizado de tratamiento que se aplique en la modalidad interna podrá incluir diversos grados de participación del Adolescente en actividades que se realicen en el exterior del Centro, cuando apoyen su proceso reeducativo.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 173.
 
@@ -1765,19 +2163,27 @@ III.- Los representantes legales del Adolescente, en su caso, firmen un acuerdo 
 
 Las salidas del Adolescente serán autorizadas en función de su comportamiento.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 174.
 
 El Consejo Técnico Interdisciplinario informará al Adolescente las actividades a las que puede tener acceso y los requisitos necesarios para permitirle salir.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 175.
 
 El incumplimiento injustificado del Adolescente de regresar al Centro en los horarios establecidos, será motivo de revocación de la autorización para salir. En caso de que el Adolescente se retrasare por dos horas en regresar, el Director del Centro solicitará el auxilio de las instituciones policíacas y de la Procuraduría de Justicia para su localización e internamiento.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO V. De la Evaluación y Supervisión
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 176.
 
-Los avances del Adolescente en el cumplimiento de sus medidas serán evaluados por el Consejo Técnico Interdisciplinario. En el informe escrito de evaluación se incluirá:
+Los avances del Adolescente en el cumplimiento de las medidas, serán evaluados por el Consejo Técnico Interdisciplinario. En el informe escrito se incluirá:
 
 I.- Los datos relevantes del programa personalizado;
 
@@ -1791,19 +2197,25 @@ V.- La participación y cumplimiento de los representantes legales, y
 
 VI.- La propuesta técnica sobre las acciones que proceden en función del avance.
 
-La primera evaluación se hará a los seis meses de haberse iniciado el cumplimiento de las medidas y las posteriores, cada tres meses, hasta su conclusión.
+La primera evaluación se hará a los seis meses de haberse iniciado el cumplimiento de las medidas y, las posteriores, cada tres meses, hasta su conclusión.
 
-El informe escrito del avance en las medidas será turnado al Director del Centro, a la Dirección de Prevención, y a los representantes legales del Adolescente dentro de los tres días siguientes a su elaboración.
+El informe de avance será turnado al Director del Centro, a la Dirección de Prevención y a los representantes legales del Adolescente dentro de los tres días siguientes a su elaboración.
 
-Para los efectos del incidente de modificación y/o terminación de medidas, la entrega del informe referido en el párrafo anterior surtirá efectos de notificación.
+Para los efectos del incidente de modificación o conclusión anticipada de medidas, la entrega del informe referido en el párrafo anterior surtirá efectos de notificación.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 177.
 
-El Director del Centro será responsable de atender la propuesta técnica que en su caso sea planteada en el informe de avance, conforme a sus atribuciones.
+El Director del Centro será el responsable de atender la propuesta técnica, que en su caso fuera planteada en el informe de avance, conforme a sus atribuciones.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 178.
 
-Con base en el informe de avance individual, el funcionario que designe la Dirección de Prevención, dará seguimiento a cada Adolescente y atenderá, en coordinación con el Centro, las necesidades que detecte.
+Con base en el informe de avance individual, el funcionario que designe la Dirección de Prevención, dará seguimiento a cada Adolescente y atenderá, en coordinación con el Centro, las necesidades y deficiencias que detecte.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 179.
 
@@ -1819,33 +2231,47 @@ IV.- Se considere que la evolución positiva del Adolescente amerita la modifica
 
 V.- Se señale que las metas del programa personalizado se han alcanzado satisfactoriamente antes del término establecido.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 180.
 
 Tratándose de medidas en la modalidad externa o interna, cuando la persona se encuentre privada de su libertad en forma preventiva por la comisión de un delito, suspenderá la ejecución de la medida.
 
 En el caso que una persona estuviere privada de su libertad en virtud del cumplimiento de una sentencia definitiva del orden penal y la medida sea de modalidad externa, se dará por terminada en forma anticipada.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 181.
 
 Tratándose de medidas en la modalidad interna, cuando la persona estuviere privada de su libertad en virtud del cumplimiento de una sentencia definitiva del orden penal, el cumplimiento de dicha medida será en forma sucesiva.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 182.
 
-El Centro expedirá una constancia de conclusión de las medidas al término del plazo establecido para su cumplimiento. Asimismo informará por escrito al Adolescente y sus representantes legales las bases con las que se realizará el seguimiento técnico, en su caso.
+El Centro expedirá una constancia de conclusión de las medidas al término del plazo establecido para su cumplimiento. Asimismo informará por escrito al Adolescente y sus representantes legales, las bases con las que se realizará el seguimiento técnico, en su caso.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 183.
 
-La terminación de la etapa de seguimiento será informada por el Centro al Adolescente y a sus representantes legales por escrito.
+La terminación de la etapa de seguimiento será informada por el Centro al Adolescente y a sus representantes legales, por escrito.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO VI. De la Sustitución, Modificación o Conclusión Anticipada de las Medidas
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 184.
 
-La Dirección de Prevención, el Director del Centro, el Adolescente, o su representante legal dentro de los cinco días contados a partir de que reciban el informe, podrán solicitar al Juez la sustitución, modificación o conclusión anticipada de las medidas, por vía incidental.
+La Dirección de Prevención, el Director del Centro, el Adolescente o su representante legal, dentro de los cinco días contados a partir de que reciban el informe, podrán solicitar al Juez, la sustitución, modificación o conclusión anticipada de las medidas, vía incidental.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 185.
 
-Una vez recibida la promoción del incidente a que se refiere el artículo anterior, los Jueces darán vista a las partes para que dentro del término de cinco días hábiles se lleve a cabo una audiencia en la que manifiesten lo que a su derecho corresponda, en la que se resolverá sobre:
+Una vez recibida la promoción del incidente a que se refiere el artículo anterior, los Jueces darán vista a las partes para que dentro del término de cinco días hábiles se lleve a cabo una audiencia en la que manifiesten lo que a su derecho corresponda, resolviéndose:
 
 I.- La confirmación;
 
@@ -1855,23 +2281,33 @@ III.- La modificación, o
 
 IV.- La conclusión anticipada.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 186.
 
-Una vez que quede firme la resolución del incidente, el Juez del conocimiento turnará inmediatamente copia certificada de la misma la Dirección de Prevención, al Director del Centro, al Adolescente para su debido cumplimiento; así como, y su representante legal para su conocimiento, en su caso.
+Una vez (sic) firme la resolución del incidente, el Juez del conocimiento, turnará inmediatamente una copia certificada de la misma a la Dirección de Prevención, al Director del Centro, al Adolescente para su debido cumplimiento; y a su representante legal, para su conocimiento.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ## TÍTULO SEXTO. DE LOS MEDIOS DE IMPUGNACIÓN
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 187.
 
 Las resoluciones serán recurribles sólo por los medios y en los casos expresamente establecidos, siempre que causen agravio al recurrente.
 
-El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otorgado. Cuando la ley no distinga entre las diversas partes, el recurso podrá ser interpuesto por cualquiera de ellas.
+El derecho de recurrir corresponderá a quien le sea expresamente otorgado. Cuando la ley no distinga entre las diversas partes, el recurso podrá ser interpuesto por cualquiera de ellas.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 188.
 
-En el proceso sólo se admitirán los siguientes recursos, según corresponda:
+En el proceso sólo se admitirán los siguientes recursos:
 
 I.- Revocación;
 
@@ -1881,13 +2317,19 @@ III.- Queja, y
 
 IV.- Revisión.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 189.
 
-Los recursos se interpondrán en las condiciones de tiempo y forma que determine esta Ley, con indicación específica de la parte impugnada de la resolución recurrida, así como del agravio que ésta le causa.
+Los recursos se interpondrán en las condiciones de tiempo y forma que determine esta Ley, con indicación específica de la parte impugnada de la resolución recurrida, y del agravio que ésta le causa al interesado.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 190.
 
-El Ministerio Público sólo puede presentar recurso contra aquellas decisiones que sean contrarias al interés público.
+El Ministerio Público sólo puede presentar recurso, contra aquellas decisiones que sean contrarias al interés público.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 191.
 
@@ -1897,27 +2339,39 @@ La parte coadyuvante puede recurrir las decisiones que le causen agravio en el c
 
 En el caso de las decisiones que se produzcan en el juicio, sólo las partes pueden recurrir si participaron en éste.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 192.
 
 Quien tenga derecho a recurrir podrá adherirse, dentro del período de emplazamiento, al recurso interpuesto por cualquiera de las partes, siempre que cumpla con los demás requisitos formales de presentación.
 
-Sobre la adhesión se dará traslado a las demás partes por el término de tres días, antes de remitir las actuaciones al tribunal competente para conocer del recurso.
+Sobre la adhesión se dará traslado a las demás partes por el término de tres días y antes de remitir las actuaciones al tribunal competente.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 193.
 
-Durante las audiencias sólo será admisible el recurso de revocación, el que será resuelto de inmediato, sin suspenderlas.
+Durante las audiencias, sólo será admisible el recurso de revocación, el que será resuelto de inmediato, sin suspenderlas.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 194.
 
-Cuando existan varios Adolescentes involucrados en una misma causa, el recurso interpuesto por uno de ellos favorecerá también a los demás, a menos que se base en motivos exclusivamente personales.
+Cuando existan varios Adolescentes involucrados en un mismo hecho, el recurso interpuesto por alguno favorecerá también a los demás, a menos que se base en motivos exclusivamente personales.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 195.
 
 La resolución no será ejecutada durante el plazo para recurrir y mientras se tramite el recurso, salvo disposición legal en contrario.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 196.
 
 El Ministerio Público podrá desistirse de sus recursos, previa autorización de su superior jerárquico. Las demás partes podrán desistirse de los recursos interpuestos por ellas, sin perjudicar a los demás recurrentes o adherentes. Cuando el que se desista sea la defensa, deberá tener autorización expresa del Adolescente y sus representantes legales, en su caso.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 197.
 
@@ -1925,43 +2379,57 @@ Cuando la resolución sólo fuere impugnada por el Adolescente o su defensor, no
 
 Los recursos interpuestos por cualquiera de las partes permitirán modificar o revocar la resolución en favor del Adolescente.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 198.
 
-Los errores de derecho en la fundamentación de la resolución impugnada, que no hayan influido en la parte resolutiva, no la anularán; pero serán corregidos apenas advertidos o señalados por alguna de las partes, así como los errores de forma en la designación o el cómputo de las medidas.
+Los errores de derecho en la fundamentación de la resolución impugnada, que no hayan influido en la parte resolutiva, no la anularán; pero serán corregidos en tanto fueren advertidos o señalados por alguna de las partes, así como los errores de forma en la designación o el cómputo de las medidas.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 199.
 
-La resolución debe estar debidamente fundada y motivada, escrita en un lenguaje accesible al Adolescente y deberá contener lo siguiente:
+La resolución debe estar debidamente fundada y motivada, escrita en un lenguaje accesible al Adolescente y contendrá lo siguiente:
 
 I.- Lugar, fecha y hora en que es emitida;
 
 II.- La autoridad actuante y las partes;
 
-III.- Datos personales del Adolescente;
+III.- Los datos personales del Adolescente;
 
-IV.- La relación sucinta de lo actuado, sin perjuicio de que el desarrollo de la audiencia y/o diligencia sea registrado en audio o video;
+IV.- La relación sucinta de lo actuado, sin perjuicio de que el desarrollo de la audiencia o diligencias, fueren registradas en audio o video;
 
-V.- Relación de los agravios formulados por el recurrente, así como de las pruebas y demás manifestaciones de las partes;
+V.- La relación de los agravios formulados por el recurrente, las pruebas y las demás manifestaciones de las partes;
 
 VI.- Argumentos que sirvan de base para fundar y motivar la misma, y
 
-VII.- La decisión de la autoridad, que podrá consistir en confirmar, modificar, revocar la resolución a efecto de que se reponga la audiencia o la revocación lisa y llana.
+VII.- La decisión de la autoridad, que podrá consistir en confirmar, modificar o revocar la resolución, a efecto de que se reponga la audiencia o revocarla lisa y llanamente.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO II. Recurso de Revocación
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 200.
 
-El recurso de revocación procederá solamente contra las resoluciones que no requieren la sustanciación de un trámite en el proceso, a fin de que el mismo juzgador que las dictó examine nuevamente la cuestión y dicte la resolución que corresponda, el cual se resolverá de inmediato.
+El recurso de revocación procederá contra las resoluciones que no requieren la sustanciación de un trámite en el proceso, a fin de que el mismo juzgador que las dictó, examine nuevamente el asunto y dicte la resolución que corresponda, el cual se resolverá de inmediato.
 
-Las resoluciones recaídas al recurso de revocación no son recurribles por los medios ordinarios.
+Las resoluciones recaídas al recurso de revocación, no son recurribles por los medios ordinarios.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO III. Recurso de Apelación
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 201.
 
 Además de los casos en que expresamente lo autorice esta Ley, el recurso de apelación procederá contra las resoluciones dictadas por el Juez, siempre que causen agravio irreparable, pongan fin a la acción o imposibiliten su continuación.
 
-También serán apelables las resoluciones de adecuación o la que de por cumplida una medida.
+También serán apelables las resoluciones de adecuación o las que den por cumplida una medida.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 202.
 
@@ -1975,25 +2443,33 @@ III.- La que resuelvan los incidentes, y
 
 IV.- La definitiva.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 203.
 
 El recurso de apelación se interpondrá por escrito ante el mismo Juez que dictó la resolución y, salvo disposición en contrario, dentro del plazo de tres días de haberse efectuado la notificación.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 204.
 
-Presentado el recurso, el Juez emplazará dentro del plazo de dos días a las otras partes para que en el plazo de tres días den contestación ante la Sala Especializada.
+Presentado el recurso, el Juez emplazará dentro del plazo de dos días a las demás partes, para que en el plazo de tres días, den contestación ante la Sala Especializada.
 
-Si se producen adhesiones durante el emplazamiento, correrá traslado a las otras partes para que contesten a la adhesión en un plazo igual.
+Si existieren adhesiones durante el emplazamiento, correrá traslado a las demás partes para que den contestación en un plazo igual.
 
 Sin más trámite y en forma inmediata, remitirá las actuaciones al tribunal competente para que resuelva.
 
 Sólo se remitirá copia de las actuaciones pertinentes o se formará un legajo especial, para no demorar el trámite del proceso.
 
-Excepcionalmente, el tribunal podrá solicitar otras copias o las actuaciones originales. Ello no implicará la suspensión del proceso.
+Excepcionalmente, el tribunal podrá solicitar otras copias o las actuaciones originales, lo que no implicará la suspensión del proceso.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 205.
 
 Recibidas las actuaciones, el tribunal competente, calificará la procedencia del recurso y en su caso, dentro de los diez días siguientes citará a una audiencia.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 206.
 
@@ -2001,11 +2477,17 @@ La audiencia se celebrará con las partes que comparezcan, quienes podrán hacer
 
 El Adolescente será representado por su defensor, pero podrá asistir a la audiencia y, en ese caso, se le concederá la palabra en último término.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 207.
 
-En la audiencia a que se refiere el artículo anterior, se citará a otra audiencia que se celebrará dentro de los diez días siguientes, en la cual se comunicará la resolución.
+Verificada la audiencia a que se refiere el artículo anterior, se citará a otra, que se celebrará dentro de los diez días siguientes, en la cual se comunicará la resolución.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO IV. Recurso de Revisión
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 208.
 
@@ -2021,17 +2503,23 @@ IV.- Después de la resolución sobrevengan hechos nuevos o elementos de prueba 
 
 V.- Cuando corresponda aplicar una amnistía o se produzca un cambio en la jurisprudencia que favorezca al Adolescente.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 209.
 
 Podrán promover la revisión:
 
-I.- El Adolescente, representante legal o su defensor, y
+I.- El Adolescente, representante legal o defensor, y
 
 II.- El Ministerio Público.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 210.
 
 La revisión se solicitará por escrito ante el Tribunal. Deberá contener la concreta referencia de los motivos en que se funda y las disposiciones legales aplicables. Junto con el escrito se ofrecerán las pruebas y se acompañarán las documentales.
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 211.
 
@@ -2039,15 +2527,19 @@ Para el trámite de la revisión regirán las reglas establecidas para el de ape
 
 El tribunal para resolver, podrá disponer todas las indagaciones y diligencias preparatorias que considere útiles y delegar su ejecución.
 
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO V. Recurso de Queja
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 212.
 
-El Adolescente sujeto a cualquier medida puede presentar quejas en contra de la aplicación de las mismas, directamente o a través de sus padres, tutores, quien ejerza la patria potestad, custodia o su defensor contra el personal del Centro o contra los representantes de las dependencias, instituciones u organizaciones públicas, privadas o sociales que estén colaborando en la aplicación de la medida, por la trasgresión o vulneración de sus derechos y garantías.
+El Adolescente sujeto a cualquier medida, puede presentar queja en contra de su aplicación, directamente o a través de sus padres, tutores, o de quien ejerza la patria potestad, la custodia, en su caso; su defensor, contra el personal del Centro o de los representantes de las dependencias, instituciones u organizaciones públicas, privadas o sociales que estén colaborando en la aplicación de la medida, por la trasgresión o vulneración de sus derechos y garantías.
 
 Las quejas pueden ser presentadas de manera oral o escrita ante la Dirección de Prevención quien deberá realizar inmediatamente la investigación respectiva y dictar una resolución en un plazo no mayor a cinco días.
 
-La Dirección de Prevención dispondrá, en su caso, de las medidas precautorias necesarias para salvaguardar los derechos del agraviado mientras se resuelve la queja, las cuales tendrán efecto vinculatorio para el Centro.
+La Dirección de Prevención dispondrá, en su caso, de las medidas precautorias necesarias para salvaguardar los derechos del agraviado, mientras se resuelve la queja, las cuales tendrán efecto vinculatorio para el Centro.
 
 TRANSITORIOS:
 
@@ -2102,3 +2594,43 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 7 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial del Gobierno del Estado, con excepción de lo preceptuado en el artículo 142 de esta ley.
+
+###### ARTÍCULO SEGUNDO.
+
+La entrada en vigor del presente Decreto abroga el publicado con el número doscientos diez, en el Diario Oficial del Gobierno del Estado y que contiene la Ley para el Tratamiento y Protección de los Menores Infractores del Estado de Yucatán; y todas las normas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir del día siguiente de la publicación del presente Decreto y hasta antes del inicio de su entrada en vigor, el Consejo Tutelar de Menores Infractores y la Escuela de Educación Social para Menores Infractores, continuarán conociendo de los asuntos en los que a los adolescentes, se les atribuyan conductas tipificadas como delitos o hayan sido declarados responsables de ella y, de la aplicación de las medidas, respectivamente. Esto, de conformidad con las facultades conferidas a ambos órganos, en la Ley para el Tratamiento y Protección de los Menores Infractores del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+A partir del inicio de la vigencia de este Decreto y hasta que comience a funcionar el Sistema Integral de Justicia para Adolescentes, con todos sus órganos jurisdiccionales y administrativos, el Consejo Tutelar de Menores Infractores y la Escuela de Educación Social para Menores Infractores aplicarán esta ley a los adolescentes a los que se atribuyan conductas tipificadas como delito en las leyes penales. Los adolescentes que al momento de entrar en vigor esta ley se encuentren procesados conforme la Ley para el Tratamiento y Protección de los Menores Infractores del Estado de Yucatán continuarán sujetos a ella hasta que se emita la resolución definitiva.
+
+###### ARTÍCULO QUINTO.
+
+Los adolescentes que hubiesen tenido 16 años cumplidos y menos de 18 años de edad, al momento de la comisión de conductas actualmente tipificadas como delito, en las leyes penales del Estado, y que se encuentren actualmente sujetos a proceso en los Juzgados de Defensa Social del Estado; serán puestos a disposición del Consejo Tutelar de Menores Infractores, a la brevedad posible.
+
+###### ARTÍCULO SEXTO.
+
+En el caso de los adolescentes que al momento de la comisión de la conducta tipificada como delito por las leyes penales, hubiesen tenido 16 años cumplidos y menos de 18 años de edad, y actualmente se encuentren compurgando pena privativa de libertad, impuesta mediante Sentencia Ejecutoriada, la Dirección de Prevención y Readaptación Social, comunicará a los titulares de los Jugados de Defensa Social, los nombres, las sanciones aplicadas y su duración, y el tiempo compurgado, para el efecto de que la autoridad judicial efectúe una revisión y, en su caso, aplique lo dispuesto por el artículo 142 de esta ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las órdenes de aprehensión y de comparecencia libradas por los Juzgados de Defensa Social, en contra (sic) los adolescentes que al momento de la comisión de la conducta tipificada como delito por las leyes penales, hubiesen tenido 16 años cumplidos y menos de 18 años de edad, y no ejecutadas; quedarán sin efecto, y se procederá conforme a las previsiones de la Ley para el Tratamiento y Protección de los Menores Infractores del Estado de Yucatán.
+
+###### ARTÍCULO OCTAVO.
+
+El Sistema Integral de Justicia para Adolescentes deberá comenzar a funcionar con todos sus órganos judiciales y administrativos, antes de que concluyan seis meses siguientes al inicio de la vigencia de esta ley.
+
+###### ARTÍCULO NOVENO.
+
+El Poder Judicial publicará en el Diario Oficial del Gobierno del Estado la fecha de inicio del funcionamiento de sus órganos especializados en justicia para adolescentes.
