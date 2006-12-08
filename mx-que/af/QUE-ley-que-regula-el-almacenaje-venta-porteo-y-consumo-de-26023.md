@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-el-almacenaje-venta-porteo-y-consumo-de-26023"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-30"
-last_updated: "2004-12-09"
+last_updated: "2006-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE REGULA EL ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 30 de agosto del año 2002.
 
@@ -35,9 +35,11 @@ LEY QUE REGULA EL ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y de observancia general en el Estado de Querétaro, corresponde su aplicación al Ejecutivo del Estado por conducto de las Secretarías de Gobierno y Planeación y Finanzas; y a los Municipios, en su esfera competencial. Coadyuvarán en su aplicación la Secretaría de Educación Pública, la Secretaría de Salud, el Organismo Descentralizado Servicios de Salud del Estado de Querétaro, la Unidad Estatal de Protección Civil y las áreas encargadas de Seguridad Pública y Tránsito en el Estado y sus Municipios.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Querétaro; corresponde su aplicación al Ejecutivo del Estado por conducto de las Secretarías de Gobierno y Planeación y Finanzas, y a los Municipios, en su esfera competencial. Coadyuvarán en su aplicación, la Secretaría de Seguridad Ciudadana, la Secretaría de Educación Pública, la Secretaría de Salud, el Organismo Descentralizado Servicios de Salud del Estado de Querétaro, y las áreas encargadas de Seguridad Pública y Tránsito en los Municipios del Estado.
 
 Serán de aplicación supletoria a los preceptos de esta Ley, las disposiciones del Código Fiscal del Estado, cuando su aplicación no sea contraria a la naturaleza de esta Ley.
 
@@ -213,11 +215,11 @@ IV. Las demás que deriven de las disposiciones de la Ley de Salud del Estado de
 
 La Secretaría de Salud, Servicios de Salud del Estado de Querétaro y la Dirección de Fomento y Regulación Sanitaria, deberán remitir a la Secretaría de Gobierno y a la Secretaría de Planeación y Finanzas, dentro de los diez días siguientes a la fecha en que tenga conocimiento de las irregularidades que se hayan observado con motivo de las inspecciones o verificaciones, que se realicen en los establecimientos y lugares previstos en la presente Ley, en el ejercicio de sus atribuciones, un informe, acompañado de copia del dictamen que emita.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 11.
 
-Es obligación y competencia de la Unidad Estatal de Protección Civil:
+Es obligación y competencia de la Secretaría de Seguridad Ciudadana:
 
 I. Expedir y ejecutar órdenes de inspección o verificación para determinar si los establecimientos y lugares en donde se almacenen, vendan o consuman bebidas alcohólicas reúnen o no las condiciones y medidas de seguridad que establece la Ley de la materia y las disposiciones previstas en las Normas Oficiales Mexicanas correspondientes;
 
@@ -229,7 +231,9 @@ III. Remitir a la Secretaría de Gobierno, el dictamen de la inspección o verif
 
 IV. Las demás que le confieren la presente Ley, la Ley de Protección Civil para el Estado de Querétaro y otras disposiciones aplicables.
 
-La Unidad Estatal de Protección Civil, se coordinará con las Unidades de Protección Civil Municipales, para vigilancia y aplicación de la presente Ley.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+La Secretaría de Seguridad Ciudadana, se coordinará con las Unidades de Protección Civil Municipales, para la vigilancia y aplicación de la presente Ley.
 
 ### CAPITULO TERCERO. DE LOS ESTABLECIMIENTOS Y LUGARES REGULADOS
 
@@ -429,7 +433,9 @@ Los requisitos señalados en la fracción IX incisos a) y b), no serán aplicabl
 
 Para el caso de permisos, se deberá cumplir con lo dispuesto por las fracciones I, III, IV, VIII y fracción IX inciso c).
 
-Recibida la solicitud, la Secretaría de Gobierno pedirá de la Secretaría de Salud o Servicios de Salud del Estado de Querétaro, así como de la Unidad Estatal de Protección Civil, opinión técnica respecto del establecimiento donde funcionaría la licencia solicitada, señalando el cumplimiento o incumplimiento de las normas y condiciones sanitarias y de protección civil.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+Recibida la solicitud, la Secretaría de Gobierno pedirá de la Secretaría de Salud o Servicios de Salud del Estado de Querétaro, así como al área correspondiente de la Secretaría de Seguridad Ciudadana, opinión técnica respecto del establecimiento donde funcionaría la licencia solicitada, señalando el cumplimiento o incumplimiento de las normas y condiciones sanitarias y de protección civil.
 
 ###### ARTÍCULO 26.
 
@@ -531,7 +537,9 @@ Cuando el producto asegurado sea de fácil descomposición, la autoridad procede
 
 La Secretaría de Gobierno, la Secretaría de Planeación y Finanzas y los Municipios del Estado, son autoridades competentes para inspeccionar, verificar y comprobar el exacto cumplimiento de las disposiciones de esta Ley, por lo cual, están facultadas para realizar los actos y diligencias necesarias, en los términos previstos en la misma.
 
-La Secretaría de Salud, Servicios de Salud del Estado de Querétaro, la Unidad Estatal de Protección Civil y las Unidades Municipales de Protección Civil, coadyuvarán con las autoridades señaladas en el párrafo anterior, efectuando inspecciones o verificaciones en el ámbito de su respectiva competencia, las que podrán realizarse en forma coordinada.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+Las Secretarías de Seguridad Ciudadana y de Salud, Servicios de Salud del Estado de Querétaro y las Unidades Municipales de Protección Civil, coadyuvarán con las autoridades señaladas en el párrafo anterior, efectuando inspecciones o verificaciones en el ámbito de su respectiva competencia, las que podrán realizarse en forma coordinada.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -551,7 +559,9 @@ II. El Secretario de Salud;
 
 III. El Director de Fomento y Regulación Sanitaria de SESEQ;
 
-IV. El Titular de la Unidad Estatal de Protección Civil;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+IV. El Secretario de Seguridad Ciudadana, directamente o por conducto del personal en los términos de ley y del Reglamento Interior;
 
 V. De la Secretaría de Gobierno:
 
@@ -611,11 +621,13 @@ IV. Se lleva a cabo la venta o suministro de bebidas alcohólicas en cualquier f
 
 La clausura inmediata del establecimiento se llevará a cabo mediante la colocación de sellos que impidan el acceso al interior del establecimiento o lugar correspondiente, asentando en el acta dicha circunstancia y sustento legal.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 42.
 
-El Secretario de Gobierno, el Secretario de Planeación y Finanzas, el Director de Gobierno de la Secretaría de Gobierno o el Director de Ingresos de la Secretaría de Planeación y Finanzas, podrán emitir orden de clausura inmediata, cuando el informe y dictamen aportados por la Secretaría de Salud o Servicios de Salud del Estado de Querétaro, concluya que el establecimiento inspeccionado o verificado no cuenta con las medidas de salubridad e higiene que exigen las leyes de la materia, o bien cuando el dictamen remitido por la Unidad Estatal de Protección Civil o Unidad Municipal de Protección Civil establezca que aquél no satisface las normas aplicables en esta área.
+El Secretario de Gobierno, el Secretario de Planeación y Finanzas, el Director de Gobierno de la Secretaría de Gobierno o el Director de Ingresos de la Secretaría de Planeación y Finanzas, podrán emitir orden de clausura inmediata, cuando el informe y dictamen aportados por la Secretaría de Salud o Servicios de Salud del Estado de Querétaro, concluya que el establecimiento inspeccionado o verificado no cuenta con las medidas de salubridad e higiene que exigen las leyes de la materia, o bien, cuando el dictamen remitido por el área competente de la Secretaría de Seguridad Ciudadana por la Unidad Municipal de Protección Civil, establezca que aquél no satisface las normas aplicables en esta área.
 
-El titular de la Unidad Estatal de Protección Civil o el Titular de la Unidad Municipal de Protección Civil, podrá emitir orden de clausura inmediata cuando con base a su dictamen observe o dictamine que el establecimiento se encuentra en el supuesto de la fracción II del artículo anterior.
+La Secretaría de Seguridad Ciudadana o la Unidad Municipal de Protección Civil, podrán emitir orden de clausura inmediata, cuando con base a sus dictámenes, observen o determinen que el establecimiento se encuentra en el supuesto de la fracción II del artículo anterior.
 
 ###### ARTÍCULO 43.
 
@@ -835,87 +847,39 @@ El procedimiento administrativo a que se refiere este capítulo se substanciará
 
 ###### ARTÍCULO 57.
 
-Contra las resoluciones dictadas por las Secretarías de Gobierno, Planeación y Finanzas, por la Unidad Estatal de Protección Civil, o por los Municipios, en la aplicación de esta Ley en el ámbito de sus respectivas competencias, procede el recurso de reconsideración, el cual debe interponerse dentro de los diez días hábiles siguientes a aquél en que surta efectos la notificación de la resolución correspondiente.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 58.
 
-El recurso de reconsideración se interpondrá por escrito, ante la propia autoridad que emita el acto, expresando:
-
-I. El nombre y domicilio del recurrente o de quién promueve en su nombre;
-
-II. La autoridad a la que va dirigido;
-
-III. El acto que se impugna y la fecha que tuvo conocimiento del mismo;
-
-IV. Los agravios que cause al recurrente el acto impugnado;
-
-V. Las pruebas que acrediten su derecho, relacionándolas con los hechos controvertidos.
-
-VI. La firma autógrafa del recurrente o de su representante legal.
-
-Cuando no se cumpla con alguno de los requisitos anteriores, la autoridad prevendrá al recurrente para que en un plazo no mayor de tres días hábiles los indique, aclare o complete, en caso de incumplimiento, se tendrá por no presentado el recurso.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 59.
 
-Cuando las pruebas documentales no obren en poder del recurrente, o si éste no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentran a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad requiera su remisión cuando esto sea legalmente posible.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 60.
 
-El recurso de reconsideración es improcedente:
-
-I. Contra actos que no afecten los intereses jurídicos del recurrente;
-
-II. Contra resoluciones dictadas en recurso de reconsideración o en cumplimiento de éste, o de sentencias dictadas por el Tribunal de lo Contencioso Administrativo; y
-
-III. Contra actos en los que no se haya promovido el recurso dentro del plazo señalado.
-
-IV. Por muerte del titular.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 61.
 
-Procede el sobreseimiento del recurso de reconsideración en los casos siguientes:
-
-I. Cuando el promovente se desista expresamente de su recurso;
-
-II. Cuando de las constancias que obran en el expediente administrativo quede demostrado que no existe el acto o resolución impugnados;
-
-III. Cuando hayan cesado los efectos del acto o resolución impugnados; y
-
-IV. Cuando muera el titular de la licencia o permiso, en los casos de suspensión y revocación de licencias o permisos.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 62.
 
-En el recurso administrativo de reconsideración serán admisibles toda clase de pruebas, excepto la testimonial y la confesional de autoridades.
-
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
-
-Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos, pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
-
-La demás pruebas quedarán a la prudente apreciación de la autoridad.
-
-Si por relación de las pruebas rendidas y de las presunciones formadas, las autoridades adquieren convicción distinta acerca de los hechos materia del recurso, podrán valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 63.
 
-La autoridad ante quien se interponga el recurso dictará resolución en un plazo que no excederá de treinta días hábiles contados a partir de la fecha de la interposición del recurso, ordenando la notificación personal al recurrente.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 64.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los motivos de inconformidad hechos valer por el recurrente examinando en su conjunto los agravios, a fin de resolver la cuestión efectivamente planteada.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 65.
 
-La resolución que ponga fin al recurso podrá:
-
-I. Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo en su caso;
-
-II. Confirmar el acto impugnado;
-
-III. Mandar reponer el Procedimiento Administrativo de Suspensión de los Derechos y Revocación de las Licencias o Permisos, o que se emita una nueva resolución; y
-
-IV. Dejar sin efectos el acto impugnado.
-
-Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, ésta deberá cumplirse en un plazo no mayor de quinde días hábiles, contados a partir de la fecha en que se notifique.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ## TRANSITORIOS
 
@@ -1024,3 +988,25 @@ Artículo Cuarto.- La recaudación por el impuesto que se establece en los artí
 Artículo Quinto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
 Artículo Sexto.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 8 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos presupuestales asignados a la Unidad Estatal de Protección Civil, en los términos del artículo 14 del Decreto de Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal del año 2006, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el 27 de Diciembre de 2005, se entenderán asignados a la Secretaría de Seguridad Ciudadana, la que los recibirá y continuará ejerciéndolos en los términos de las disposiciones legales y reglamentarias aplicables.
+
+###### ARTÍCULO TERCERO.
+
+El personal y los recursos materiales y financieros que bajo cualquier título se encuentren a disposición de la Unidad Estatal de Protección Civil, se entenderán adscritos a la Secretaría de Seguridad Ciudadana, la que determinará, en su caso, el uso y destino que deba dárseles para el cumplimiento de las atribuciones otorgadas a la propia Secretaría en materia de protección civil, sin perjuicio alguno de los derechos laborales de los trabajadores.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento Interior de la Secretaría de Seguridad Ciudadana, se adecuará a las presentes reformas, en un término no mayor a sesenta días naturales, contados a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO QUINTO.
+
+Se derogan las disposiciones de igualo menor jerarquía que se opongan a la presente Ley.
