@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-coordinacion-fiscal-del-estado-de-quintana-roo-7240"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "1999-12-31"
+last_updated: "2006-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 31 de diciembre 1993.
 
@@ -75,45 +75,67 @@ VI.- Señalar las bases para la adhesión de los Municipios al Sistema de Coordi
 
 Rubros que podrán requerir y cobrar los Municipios Coordinados.
 
-Los Municipios que integran el Sistema de Coordinación Fiscal del Estado de Quintana Roo, sólo podrán requerir y cobrar los Impuestos, Derechos, Productos y Aprovechamientos, Participaciones, Contribuciones y demás de conformidad a lo dispuesto por la Ley de Ingresos Municipales de la Entidad y en los términos de la Ley de Hacienda Municipal en el Estado, en los siguientes rubros:
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+Los Municipios que integren el Sistema de Coordinación Fiscal del Estado de Quinta Roo, sólo podrán requerir y cobrar los Impuestos, derechos, Productos y Aprovechamientos, Participaciones, Contribuciones, y demás de conformidad a lo dispuesto por cada Ley de Ingresos Municipal y en los términos de la Ley de Hacienda Municipal en el Estado, en los siguientes rubros:
 
 I.- IMPUESTOS:
 
 1.- Predial.
 
-2.- Traslación de dominio.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-3.- Diversiones y espectáculos públicos.
+2.- Sobre Adquisición de Inmuebles.
 
-4.-Sobre el uso y tenencia de vehículos que no consuman gasolina, y otros derivados del petróleo.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-5.- Sobre rifas y loterías
+3.- Sobre Diversiones, video Juegos y Espectáculos Públicos.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+4.- Sobre el Uso o Tenencia de Vehículos que no consuman gasolina ni otro derivado del petróleo.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+5.- Sobre juegos permitidos, rifas y loterías.
 
 6.- Sobre solares sin construcción, sin barda o sin banquetas.
 
-7.- Músicos, cancioneros y artistas profesionales.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+7.- A músicos y cancioneros profesionales.
 
 8.- 15% Adicional sobre impuestos y derechos.
 
 II.- DERECHOS:
 
-1.- De cooperación de Obras Públicas que realicen los Municipios.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-2.- De registro civil.
+1.- De cooperación para obras públicas que realicen los Municipios.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+2.- Del Registro Civil.
 
 3.- De las certificaciones.
 
 4.- Servicios de tránsito.
 
-5.- Alineamientos de predios, números oficiales y mediciones.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+5.- Alineamientos de predios, constancias del uso del suelo, número oficial, medición de solares del fundo legal y Servicios Catastrales.
 
 6.- Panteones.
 
 7.- Licencias y refrendos de funcionamiento comercial, industrial y de servicios.
 
-8.- Licencias de funcionamiento en horas extraordinarias.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-9.- Licencias de construcción
+8.- Licencias para funcionamiento de establecimientos en horas extraordinarias.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+9.- Licencias para construcción.
 
 10.- Rastro e inspección sanitaria.
 
@@ -123,13 +145,19 @@ II.- DERECHOS:
 
 13.- Depósito de animales en corrales municipales.
 
-14.- Registro o búsqueda de fierros y señales para ganado.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-15.- Expedición de certificados de vecindad o morada conyugal.
+14.- Registro y búsqueda de fierros y señales para ganado.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+15.- Expedición de certificados de vecindad, de residencia y de morada conyugal.
 
 16.- Anuncios.
 
-17.- Permisos de ruta para autobuses de pasaje urbanos y sub'urbanos.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+17.- Permisos para rutas de autobuses de pasajeros urbanos y suburbanos.
 
 18.- Limpieza de solares baldíos.
 
@@ -137,13 +165,33 @@ II.- DERECHOS:
 
 20.- Servicios de inspección y vigilancia.
 
-21.- Servicios de mantenimiento de alumbrado público.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-22.- Servicios de jardinería y de recolección, transporte, tratamiento y disposición final de residuos sólidos.
+21.- Servicios y mantenimiento de alumbrado público.
 
-23.- Servicios de promoción y publicidad turística.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-24.- Otros no especificados.
+22.- Servicios de recolección, transportación, tratamiento y destino final de residuos sólidos.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+23.- Promoción y publicidad turística.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+24.- Uso de la Vía Pública o de otros bienes de uso común.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+25.- De la verificación, control y fiscalización de obra pública.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+26.- De los servicios que presta la Unidad de Vinculación.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+27.- Otros no especificados.
 
 III.- PRODUCTOS:
 
@@ -179,7 +227,11 @@ V.- PARTICIPACIONES:
 
 2.- Del gobierno del Estado.
 
-VII (SIC).- OTROS INGRESOS:
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+VI.-APORTACIONES FEDERALES
+
+VII.- OTROS INGRESOS:
 
 1.- Subsidios.
 
@@ -187,9 +239,11 @@ VII (SIC).- OTROS INGRESOS:
 
 3.- Transferencias del Gobierno del Estado.
 
-4.- Donativos.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-5.- financiamientos.
+4.- Donativos; y
+
+5.- Financiamientos.
 
 ### CAPITULO II
 
@@ -668,3 +722,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Todas las aportaciones recibidas por el Estado con fecha anterior a la publicación de este decreto y que conforme a la ley motiven la transferencia de recursos a los municipios serán cubiertos en forma retroactiva por parte del Gobierno del Estado de acuerdo a los procedimientos y normas previamente establecidos.
+
+P.O. 8 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del 1º de enero del año 2007, previa publicación en el Periódico Oficial del Gobierno del Estado.
