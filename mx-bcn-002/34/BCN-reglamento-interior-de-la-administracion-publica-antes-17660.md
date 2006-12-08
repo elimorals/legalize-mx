@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2006-05-19"
+last_updated: "2006-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1583,11 +1583,17 @@ II.- Detectar e intervenir fuentes contaminantes de relevancia a fin de prioriza
 
 La Dirección de Seguridad Pública Municipal estará presidida por un titular a quien se denominará Director, quien deberá cumplir con los siguientes requisitos:
 
-I.- Ser ciudadano mexicano en pleno uso de sus derechos políticos y civiles, residente del municipio por más de diez años;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-II.- Tener suficiente instrucción, capacidad y honestidad a juicio del Ayuntamiento;
+A) Ser ciudadano mexicano en pleno uso de sus derechos políticos y civiles, residente del municipio por más de diez años;
 
-III.- No haber sido sentenciado por delito intencional, ni en juicio de responsabilidad como funcionario público.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+B) Tener suficiente instrucción, capacidad y honestidad a juicio del Ayuntamiento y;
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+C) No haber sido sentenciado por delito intencional, ni en juicio de responsabilidad como funcionario público.
 
 El Director de Seguridad Pública para el desempeño de su cargo tendrá las siguientes atribuciones:
 
@@ -1611,27 +1617,127 @@ IX.- Establecer los procedimientos necesarios para auxiliar al Ministerio Públi
 
 X.- Establecer las medidas necesarias para la observancia y el cumplimiento del Reglamento del Servicio de Seguridad Pública;
 
-XI.- Procurar la coordinación eficaz con autoridades federales y estatales para el cumplimiento de la ley, y la preservación del orden y la seguridad pública, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-XII.- Informar trimestralmente al Ayuntamiento sobre las acciones realizadas por la dependencia.
+XI.- Procurar la coordinación eficaz con autoridades federales y estatales para el cumplimiento de la ley, la preservación del orden y la seguridad pública;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+XII.- Informar trimestralmente al Ayuntamiento sobre las acciones realizadas por la dependencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+XIII.- Certificar la documentación que expida la Institución Policial a su cargo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+XIV.- Elaborar el proyecto de Reglamento Interior de la dependencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+XV.- Implementar programas institucionales en materia de derechos humanos y de prevención de delitos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+XVI.- Las que le encomienden expresamente las leyes, reglamentos y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 91.
 
-La Dirección de Seguridad Pública para el cumplimiento de sus atribuciones contará con el apoyo de una Coordinación Jurídica y una Coordinación de Vinculación para la promoción de programas preventivos y de participación ciudadana, además tendrá bajo su cargo:
+La Dirección de Seguridad Pública para el cumplimiento de sus atribuciones contará con el apoyo de las siguientes Coordinaciones y Subdirecciones, las cuales tendrán las siguientes funciones para su ejercicio:
 
-I.- La Subdirección Administrativa, de la que dependerán los siguientes Departamentos:
+I.- Coordinación Jurídica.- La cual dependerá de un Coordinador y le corresponderá brindar asesoría y asistencia jurídica en los litigios en los que sea parte o intervenga la Dirección de Seguridad Pública, para lo cual se encargará de:
+
+a) Brindar asesorías, consultas y asistencia jurídica a la Dirección de Seguridad Pública Municipal, en cuanto a sus bienes;
+
+b) Ejercer las facultades de representación jurídica respecto los bienes de la Dirección de Seguridad Pública;
+
+c) Conducir la intervención de la Dirección de Seguridad Pública, en los asuntos litigiosos que se tramiten ante autoridades administrativas o judiciales, en los que, se constituya como parte o deban comparecer estos;
+
+d) Elaborar por instrucción de la Dirección, los convenios o contratos en que el Ayuntamiento sea parte;
+
+e) Realizar la contestación en tiempo y forma, en representación del titular de la Dirección, de los requerimientos de autoridades realizados a esta;
+
+f) Participar en el proceso de adecuación y actualización del marco jurídico de la Dirección de Seguridad Pública, emitiendo opiniones y asesorías en los procesos de iniciativa de reforma a los ordenamientos aplicables y;
+
+g) Elaborar las propuestas de reforma, a los ordenamientos jurídicos que, por la naturaleza de la Dirección guarden relación, sometiéndolo a consideración de la Presidencia Municipal, para los efectos que procedan.
+
+II.- Coordinación de Vinculación.- La cual dependerá de un Coordinador y le corresponderá la promoción de programas preventivos y de participación ciudadana, para lo cual se encargará de:
+
+a) Establecer las políticas de prevención del delito, para implementarlas en la comunidad estudiantil y la ciudadanía;
+
+b) Atender las peticiones que realice la comunidad en materia de seguridad pública;
+
+c) Procurar los mecanismos locales, estatales, nacionales e internacionales para obtener recursos destinados a los proyectos de prevención del delito;
+
+d) Buscar los mecanismos para acreditar los programas de prevención del delito que la Dirección tenga bien a impulsar;
+
+e) Presentar a la sociedad los modelos de seguridad comunitaria más viables para cada comunidad;
+
+f) Convocar a la población estudiantil y comunidad en general a sumarse en acciones de beneficio a sus entornos para disminuir los factores que generen inseguridad;
+
+g) Solicitar el apoyo de las Instituciones altruistas y humanitarias que buscan mejorar las condiciones de vida en zonas de alto riesgo;
+
+h) Brindar asesoría al sistema educativo con estrategias de prevención del delito en los entornos escolares y;
+
+i) Realizar las mediciones sobre el desempeño de los oficiales en la comunidad, así como su percepción.
+
+III.- Coordinación de Comunicación Social.- La cual dependerá de un Coordinador y le corresponderá promover permanentemente y de manera estratégica, entre los diversos medios de comunicación, los objetivos y acciones de la Dirección, para lo cual se encargará de:
+
+a) Diseñar, programar y ejecutar las acciones para el cumplimiento de los lineamientos y estrategias en materia de Comunicación Social que se requieran para el cumplimiento de las atribuciones y programas de seguridad pública;
+
+b) Recopilar la información que se genere en los medios de comunicación relacionada con acciones que competan a la Dirección;
+
+c) Informar a través de los medios de comunicación a la comunidad sobre las actividades que desempeña la Dirección;
+
+d) Recabar y analizar la información que generan las distintas áreas y/o departamentos que integran la Dirección, a efecto de difundirlas a la comunidad;
+
+e) Elaborar y organizar programas de difusión sobre las actividades y acuerdos de la Dirección;
+
+f) Coordinar, diseñar y estructurar, las campañas publicitarias de programas preventivos en materia de delitos, recomendaciones, acciones y estadísticas de la Dirección y;
+
+g) Organizar, diseñar y promover eventos públicos institucionales a cargo de la Dirección.
+
+IV.- Coordinación del Centro Estratégico de Evaluación de Eficiencia.- La cual dependerá de un Coordinador, el cual proveerá a la Dirección la información necesaria, para la evaluación de resultados, diseño de estrategias y comportamiento de los índices delictivos de zonas específicas, encargándose de:
+
+a) Recolección y concertación de información de fuentes internas y externas respecto los índices delictivos que se obtengan;
+
+b) Integrar, clasificar, acumular y filtrar información, respecto los índices delictivos obtenidos;
+
+c) Analizar y canalizar información que se obtenga a efecto de evaluar resultados y diseñar estrategias respecto los índices delictivos de manera específica por zona;
+
+d) Generar los sistemas, programas o herramientas electrónicas necesarias para el procesamiento y la consulta de la información recabada;
+
+e) Distribuir la información según necesidades, prioridades y demandas de las áreas que integren la Dirección;
+
+f) Elaborar recomendaciones para constituir estrategias, respecto la información generada y recibida;
+
+g) Intercambiar información con las dependencias, instituciones, agencias y corporaciones, según los convenios que establezca la Dirección para tal efecto;
+
+h) Coordinar y supervisar las capturas correspondientes y a los extractos de novedades expedidos por la Dirección;
+
+i) Coordinar el análisis y diseño de la base de datos, así como el desarrollo de programas de integración y acumulación de la misma;
+
+j) Coordinar el análisis de incidencia delictiva, según las prioridades establecidas por la Dirección;
+
+k) Coordinar y supervisar el mapeo de la incidencia y migración delictiva, según las prioridades establecidas por la Dirección y;
+
+l) Distribuir y analizar la información en coordinación con la Dirección y la Subdirección de Policía y Tránsito.
+
+V.- La Subdirección Administrativa, de la que dependerán los siguientes Departamentos:
 
 a) Recursos Humanos;
 
-b) Recursos Materiales; y
+b) Recursos Materiales y;
 
-c) Estadísticas e Informática.
+c) Estadística e Informática.
 
-II.- La Subdirección de Policía y Tránsito, de la que dependerá la Comandancia de Policía.
+VI.- La Subdirección de Policía y Tránsito, de la que dependerá la Comandancia de Policía y la Unidad Contra la Violencia Intrafamiliar.
 
-III.- La Subdirección Académica, de la que dependerán los siguientes Departamentos:
+VII.- La Subdirección Académica, de la que dependerán los siguientes Departamentos:
 
-a) Evaluación Policíaca; y
+a) Evaluación Policíaca y;
 
 b) Formación y Desarrollo Policíaco.
 
@@ -1743,9 +1849,23 @@ XI.- Verificar el adecuado servicio y mantenimiento del equipo de cómputo de la
 
 XII.- Apoyar en el diseño de formatos que se requieran en las diferentes áreas de la Dirección.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 96.
 
-La Subdirección de Policía y Tránsito tendrá como función elaborar, ejecutar y supervisar los planes, programas, acciones y políticas que tengan por objeto la prevención de delitos y faltas administrativas, la preservación del orden, seguridad, armonía y tranquilidad públicas, así como los relativos al servicio de tránsito municipal, por lo que se encargará de:
+La Subdirección de Policía y Tránsito se dividirá en dos:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+1.- Zona Urbana Poniente y;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+2.- Zona Urbana Oriente, Rural y San Felipe
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADO], P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+Las cuales dependerán de un Subdirector por zona y tendrán como función elaborar, ejecutar y supervisar los planes, programas, acciones y políticas que tengan por objeto la prevención de delitos y faltas administrativas, la preservación del orden, seguridad, armonía y tranquilidad pública, así como los relativos al servicio de tránsito municipal, por lo que se encargarán de:
 
 I.- Coordinar el trabajo que desarrollen los miembros de la corporación, a fin de asegurar que presten los servicios de seguridad pública y tránsito de acuerdo con los objetivos establecidos para la dependencia;
 
@@ -1773,9 +1893,11 @@ XI.- Evaluar periódicamente el desempeño profesional de los elementos activos 
 
 XII.- Desarrollar y supervisar los planes de prevención que para efectos (sic) presente la Unidad contra la Violencia Intrafamiliar.
 
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 96 BIS.- La Unidad Contra la Violencia Intrafamiliar, a la que se hace mención en la última fracción del artículo anterior, será la encargada de asistir en primera instancia a las víctimas de ésta, y tendrá las siguientes atribuciones:
+ARTICULO 96 BIS.- La Unidad Contra la Violencia Intrafamiliar, a la que hace mención en la última fracción del artículo anterior, dependerá de un Coordinador y será la encargada de asistir en primera instancia a las víctimas de esta, y tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
 
 I.- Proporcionará la atención inmediata en aquellos casos que requieran la atención primaria en lo que se refiere a:
 
@@ -1799,11 +1921,19 @@ Canalización de la víctima a personal capacitado en materias de: medicina, psi
 
 Canalización final a la autoridad competente que deberá conocer del caso concreto, conteniendo: los indicios de inicio para la debida integración de la averiguación previa que se iniciará, los cuales consistirán además de los precitados, en los objetos e instrumentos de delito en caso de existir, dejándose a disposición de dicha autoridad al presunto responsable en casos de flagrancia delictiva. En los casos de no detención de responsable, deberá observarse el mismo procedimiento, a excepción de la detención y puesta a disposición del mismo.
 
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+
 II.- Para operar con eficiencia se apoyará con los elementos existentes de la corporación, los que responderán con la diligencia necesaria del caso.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
 
 III.- Promoverá programas de prevención tendientes a reducir los factores de riesgo que inciden en los delitos de violencia intrafamiliar.
 
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+
 IV.- Coordinar esfuerzos con el Centro de Atención a Víctimas de Violencia Intrafamiliar de Mexicali, y con las organizaciones no gubernamentales dedicadas a atender estos rubros.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
 
 El responsable de esta unidad especializada deberá contar con los conocimientos necesarios en psicología y atención a víctimas, así como los necesarios en derecho para una correcta orientación legal de las víctimas.
 
@@ -1863,9 +1993,13 @@ VIII.- Convocar a cursos para la capacitación permanente de los agentes activos
 
 IX.- Informar a la Subdirección de Policía y Tránsito, de los resultados de los exámenes aplicados a los agentes activos;
 
-X.- Aplicar sanciones y medidas disciplinarias a los cadetes y al personal operativo de la Dirección, cuando en actividades de la Academia, incurra (sic) en una o más faltas; y,
+X.- Aplicar sanciones y medidas disciplinarias a los cadetes y al personal operativo de la Dirección, cuando en actividades de la Academia, incurra (sic) en una o más faltas; y (sic),
 
-XI.- Estar en contacto con otros institutos de formación policial, para intercambiar opiniones o sugerencias.
+XI.- Estar en contacto con otros institutos de formación policial, para intercambiar opiniones o sugerencias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+XII.- Desarrollar y supervisar los planes.
 
 ###### ARTICULO 99.
 
@@ -2942,5 +3076,9 @@ P.O. 19 DE MAYO DE 2006.
 PRIMERO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
 
 SEGUNDO.- QUE EL ESQUEMA FUNCIONAL SERÁ ANALIZADO POR LAS COMISIONES CONJUNTAS DE ADMINISTRACIÓN PÚBLICA Y HACIENDA.
+
+P.O. 8 DE DICIEMBRE DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
