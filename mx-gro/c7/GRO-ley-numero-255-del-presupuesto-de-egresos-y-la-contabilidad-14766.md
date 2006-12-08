@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-255-del-presupuesto-de-egresos-y-la-contabilidad-147
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-28"
-last_updated: "2006-04-28"
+last_updated: "2006-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 255 DEL PRESUPUESTO DE EGRESOS Y LA CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE GUERRERO -ANTES LEY NUMERO 255 DEL PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y DEUDA PUBLICA-
 
-LEY NUMERO 255 DEL PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y DEUDA PUBLICA DEL GOBIERNO DEL ESTADO DE GUERRERO
+LEY NUMERO 255 DEL PRESUPUESTO DE EGRESOS Y LA CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 28 de diciembre de 1988.
 
@@ -33,7 +33,9 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA QUINCUAGESIMA SEGUNDA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, TUVO A BIEN EXPEDIR LA SIGUIENTE:
 
-LEY NUMERO 255 DEL PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y DEUDA PUBLICA DEL GOBIERNO DEL ESTADO DE GUERRERO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+Ley Número 255 del Presupuesto de Egresos y la Contabilidad Gubernamental del Estado de Guerrero.
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -282,6 +284,12 @@ Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto q
 ###### ARTICULO 37.
 
 La asignación de las partidas fija el límite máximo de las erogaciones, a menos que se trate de partidas de ampliación automática que con tal carácter se señalen expresamente en el presupuesto para aquellas erogaciones cuyo monto no sea posible preveer.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 37
+
+Bis.- La Secretaría de Finanzas y Administración podrá apoyar presupuestalmente y en forma temporal a las Administraciones Municipales, así como destinar recursos que apoyen a los Municipios del Estado, en la constitución, actualización, y en su caso, reconstrucción de Fondos o Reservas que les permitan cumplir con las obligaciones de los empréstitos que adquieran al amparo de las líneas de crédito Global Municipal, previo reconocimiento de adeudo que los Municipios suscriban a favor del Estado y la celebración de los actos jurídicos necesarios, que al efecto se formalicen.
 
 ###### ARTICULO 38.
 
@@ -556,3 +564,21 @@ Comuníquese el presente Decreto al Gobernador del Estado para los efectos const
 ###### ARTÍCULO TERCERO.
 
 Las reformas realizadas a los artículos 21, 26 y 47 de la Ley Número 255 del Presupuesto de Egresos, Contabilidad Gubernamental y Deuda Pública, entrarán en vigor a partir de la fecha en que entre en vigor el Decreto número 619 por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+P.O. 8 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor una vez aprobado por el Honorable Congreso del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el presente ejercicio fiscal de 2006, la Secretaría de Finanzas y Administración destinará recursos a los Municipios del Estado, del Programa de Inversión Concurrente con Municipios o de recursos excedentes del Estado, a aquellos que contraten empréstitos al amparo de la Línea de Crédito Global Municipal, para constituir un Fondo de Apoyo, que funcione como garantía a favor de los Municipios, de conformidad con el Fideicomiso irrevocable de administración y fuente de pago, que se suscribió con base a los Decretos 618 y 93 expedidos por el Honorable Congreso del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales procedentes.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
