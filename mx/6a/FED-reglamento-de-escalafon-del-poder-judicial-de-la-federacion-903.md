@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-escalafon-del-poder-judicial-de-la-federacion-903
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-08-16"
-last_updated: "1988-08-16"
+last_updated: "2006-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=903&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1988-08-16"
 ---
 # REGLAMENTO DE ESCALAFON DEL PODER JUDICIAL DE LA FEDERACION
 
+[N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DE ESCALAFÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 8 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO].
+
 REGLAMENTO DE ESCALAFÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2006 (ABROGADO).
 
 Reglamento publicado en el Semanario Judicial de la Federación y su Gaceta, Octava Época, Tomo I, Enero-Junio de 1988 y Apéndices, Primera Parte-2, Ejecutorias del Pleno y Salas, páginas 597 a 610.
 
@@ -486,3 +488,21 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 CERTIFICA:
 
 Que esta fotocopia constante de diecisiete fojas útiles concuerda fiel y exactamente con su original que obra en el cuaderno de actas relativas a las sesiones del Pleno de este alto Tribunal. México, Distrito Federal, a cinco de septiembre de mil novecientos ochenta y ocho.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 8 DE DICIEMBRE DE 2006.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE ESCALAFÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+PRIMERO. El presente Reglamento entrará en vigor el día hábil siguiente de su depósito ante la Comisión Substanciadora Unica del Poder Judicial de la Federación.
+
+SEGUNDO. El Pleno y el Sindicato designarán, dentro del plazo de diez días hábiles a partir de la vigencia del presente Reglamento, a sus representantes titular y suplente que integrarán la Comisión Mixta de Escalafón.
+
+TERCERO. Se abroga el Reglamento de Escalafón, aprobado en la sesión del Pleno, del dieciséis de agosto de mil novecientos ochenta y ocho, por lo que se refiere a la Suprema Corte de Justicia de la Nación.
+
+CUARTO. Instalada la Comisión Mixta de Escalafón, en un lapso no mayor a treinta días hábiles, la Oficialía Mayor, por conducto de las áreas correspondientes, tomará las medidas conducentes para cumplir lo ordenado en el artículo 14 de este Reglamento.
+
+QUINTO. Este Reglamento será aplicable a las vacantes que se generen a partir de su entrada en vigor.
+
+SEXTO. Publíquese este Reglamento en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, y en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
