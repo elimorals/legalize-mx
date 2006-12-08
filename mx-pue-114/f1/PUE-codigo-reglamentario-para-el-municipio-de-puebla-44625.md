@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2006-12-06"
+last_updated: "2006-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 ---
 # CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
+CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -1325,9 +1325,19 @@ XI. Consejo Ciudadano de Cultura;
 
 XII. Consejo Ciudadano de Deporte;
 
-XIII. Consejo Ciudadano Contra las Adicciones; y
+XIII. Consejo Ciudadano Contra las Adicciones; y (sic)
 
-XIV. Los demás que determine el Ayuntamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+XIV.- Consejo de Centro Histórico y Patrimonio Edificado;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+XV.- Consejo de la Juventud; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+XVI.- Los demás que determine el Ayuntamiento.
 
 El objetivo de los consejos señalados con anterioridad, será el de ocuparse de los asuntos que le encomiende el Ayuntamiento de Puebla, vinculados a su denominación.
 
@@ -3833,7 +3843,7 @@ Los hospitales, sanatorios, clínicas, fabricas, industrias, comercios, oficinas
 
 ###### Artículo 392 Bis.
 
-El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social Y privado, para implementar acciones de protección civil en beneficio de la sociedad.
+El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social y privado, para implementar acciones de protección civil en beneficio de la sociedad.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -4261,7 +4271,7 @@ Los vehículos que contengan y transporten materiales y sustancias inflamables, 
 
 No se permitirán maniobras de carga y descarga después de las dieciocho horas y ninguna hora de acceso a la ciudad los días sábados y domingos. Los carros tanques que abastezcan la gasolina y combustibles a los expendios urbanos, quedan exceptuados de lo anterior.
 
-Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo Y control en caso de fuga o derrame.
+Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo y control en caso de fuga o derrame.
 
 ###### Artículo 426.
 
@@ -4365,7 +4375,7 @@ I. El inspector deberá contar con una orden por escrito, la cual contendrá la 
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
-II.- El inspector deberá identificarse ante el propietario, arrendatario, poseedor, administrador o representante legal, o ante la persona que tenga a su cargo el inmueble, con la credencial vigente expedida por la Unidad Operativa Municipal de Protección Civil, y entregar copia legible de la orden de inspección;
+II. El inspector deberá identificarse ante el propietario, arrendatario, poseedor, administrador o representante legal, o ante la persona que tenga a su cargo el inmueble, con la credencial vigente expedida por la Unidad Operativa Municipal de Protección Civil, y entregar copia legible de la orden de inspección;
 
 III. Los inspectores practicarán las visitas dentro de las 24 horas siguientes a la expedición de la orden;
 
@@ -4377,7 +4387,7 @@ VI. El inspector comunicará al visitado las irregularidades que presente el inm
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
-VII.- Los ejemplares legibles del acta de visita se distribuirán de la siguiente forma: Uno quedará en poder de la persona con quien se entendió la diligencia, el original para la Unidad Operativa Municipal de Protección Civil, y la copia restante para la Secretaría de Gobernación Municipal.
+VII. Los ejemplares legibles del acta de visita se distribuirán de la siguiente forma: Uno quedará en poder de la persona con quien se entendió la diligencia, el original para la Unidad Operativa Municipal de Protección Civil, y la copia restante para la Secretaría de Gobernación Municipal.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -6081,7 +6091,7 @@ Para la reposición del tarjetón de refrendo, constancia de suspensión tempora
 
 ###### Artículo 608.
 
-Es facultad del Presidente Municipal prohibir la venta, enajenación y consumo de bebidas alcohólicas en días y horas determinados, dando a conocer esta disposición, así como las sanciones en caso de incumplimiento que se aplicarán a quienes infrinjan las mismas, a través de los medios masivos de comunicación, al publico en general, por lo menos con cuarenta y ocho horas de anticipación.
+Es facultad del Presidente Municipal prohibir la venta, enajenación y consumo de bebidas alcohólicas en días y horas determinados, dando a conocer esta disposición, así como las sanciones en caso de incumplimiento que se aplicarán a quienes infrinjan las mismas, a través de los medios masivos de comunicación, al público en general, por lo menos con cuarenta y ocho horas de anticipación.
 
 La prohibición a que se refiere el párrafo anterior, se aplicará invariablemente el día en que se realicen elecciones Constitucionales o de Juntas Auxiliares.
 
@@ -11477,7 +11487,7 @@ Ri. Respuesta del modo
 
 T. Periodo natural de intereses
 
-Ta. límitev inferior de la meseta espectral
+Ta. límite (sic) inferior de la meseta espectral
 
 Tb. límite (sic) superior de la meseta espectral
 
@@ -11753,7 +11763,7 @@ Pi = Wihi (i Wi/c Q;c/Q>a)
 
 Donde:
 
-Wi= Peso del nivel ¡
+Wi = Peso del nivel ¡
 
 h¡ = Altura del nivel ¡ sobre el desplante
 
@@ -11767,7 +11777,7 @@ g (P¡ X¡)
 
 Donde:
 
-W i: Peso del nivel i
+Wi: Peso del nivel i
 
 Pi: Fuerza lateral de inercia en el nivel i
 
@@ -11789,7 +11799,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1-r(1-q)W¡
+a¡ = (1-r(1-q)W ¡
 
 W¡h¡
 
@@ -11803,7 +11813,7 @@ III. Péndulos Invertidos.
 
 Los péndulos invertidos son estructuras en que 50 por ciento o más de su masa se halla en el extremo superior y tiene un solo elemento resistente en la dirección de análisis o una sola hilera de columnas perpendicular a esta. En el análisis estático de estas estructuras, además de la fuerza lateral estipulada se tendrá en cuenta la aceleración angular de la masa superior asociada al giro de dicha masa con respecto a un eje horizontal normal a la dirección de análisis y que pase por el punto de unión entre la masa y el elemento resistente. El efecto de dicha aceleración se tomará equivalente a un par aplicado en el extremo superior del elemento resistente, cuyo valor es igual a
 
-M=1.5Pr2°Q/X
+M = 1.5Pr2°Q/X
 
 donde r° es el radio de giro de la masa con respecto al eje en cuestión; x y f son el desplazamiento lateral y el giro, respectivamente, del extremo superior del elemento resistente bajo la acción de la fuerza lateral P que actúa sobre la masa de acuerdo con la fracción I de este artículo.
 
@@ -11951,7 +11961,7 @@ Wi = Peso del nivel i
 
 Xi = Amplitud del desplazamiento modal en nivel i
 
-hi = Altura del nivel i sobre el desplante.
+hi =Altura del nivel i sobre el desplante.
 
 I. Análisis estático
 
@@ -12893,7 +12903,7 @@ VII. Salidas, rampas, pasillos y escaleras.
 
 ###### Artículo 1108.
 
-La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de "Informe de autorización" expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
+La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de “Informe de autorización” expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
 
 ###### Artículo 1109.
 
@@ -24845,7 +24855,7 @@ El Comisionado está facultado para autorizar la sustitución o cambio de boxead
 
 I. En Box: en caso de fuerza mayor debidamente comprobada, si alguno de los participantes de una pelea preliminar o estelar no puede actuar en la función anunciada, se sustituirá dicho peleador por el emergente de la misma categoría y peso, si el boxeador fuese de la pelea estelar, además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función;
 
-II. En la lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
+II. En lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -26728,3 +26738,13 @@ SEGUNDO.- Se derogan las demás disposiciones que sean contrarias al presente De
 P.O. 6 DE DICIEMBRE DE 2006.
 
 ÚNICO.- Se derogan las disposiciones que se opongan al presente Dictamen.
+
+P.O. 8 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Dictamen surtirá efectos a partir de la fecha de aprobación.
+
+SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento para que realice los trámites necesarios y se publique en el Periódico Oficial del Estado.
+
+TERCERO.- El Secretario Ejecutivo del Consejo de Participación Ciudadana emitirá las fechas de recepción de los documentos por parte de los aspirantes a Consejeros Ciudadanos.
+
+CUARTO.- La expedición de la acreditación a los Consejeros Ciudadanos deberá estar debidamente fundada y motivada.
