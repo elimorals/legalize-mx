@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-civil-para-el-estado-de-queretaro-7685"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-03"
-last_updated: "2003-12-24"
+last_updated: "2006-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 3 de diciembre de 1992.
 
@@ -47,7 +47,7 @@ El Sistema Estatal de Protección Civil se integra por:
 
 I. El Consejo Estatal de Protección Civil;
 
-II. La Unidad Estatal de Protección Civil;
+II. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2006)
 
 III. Los Sistemas Municipales de Protección Civil; y
 
@@ -99,11 +99,11 @@ III. Las organizaciones, corporaciones y grupos de voluntarios que se encuentren
 
 El Ejecutivo del Estado a través del Consejo Estatal de Protección Civil, fomentará programas, estudios, investigaciones y otras actividades para desarrollar nuevos métodos, sistemas, equipos, dispositivos que permitan prevenir y controlar alguna catástrofe, desastre o calamidad pública y proporcionar a la comunidad los servicios que requiera para la atención de las necesidades generadas por la inminencia o presencia de un desastre.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 9.
 
-El Ejecutivo del Estado a través de la Secretaría de Seguridad Ciudadana, del Consejo Estatal y de la Unidad de Estatal Protección Civil, desarrollará programas educativos e informativos sobre los problemas reales y potenciales de la protección civil en el Estado, orientando a la población en esta materia.
+El Consejo Estatal, desarrollará programas educativos e informativos sobre los problemas reales y potenciales de la protección civil en el Estado, orientando a la población en esta materia.
 
 ###### ARTICULO 10.
 
@@ -165,7 +165,9 @@ II. Coordinar las acciones de las Dependencias del Sector Público Estatal y Mun
 
 III. Supervisar la elaboración y edición de Atlas Estatal de Riesgos;
 
-IV. A través de la Unidad Estatal, elaborar y divulgar los programas y medidas para la prevención de desastres;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+IV. A través de la Secretaria de Seguridad Ciudadana, elaborar y divulgar los programas y medidas para la prevención de desastres;
 
 V. Vincular al Sistema Estatal de Protección Civil con el Sistema Nacional;
 
@@ -185,7 +187,9 @@ XII. Propiciar la implantación de planes eficaces de respuesta, ante la eventua
 
 XIII. Constituir Comisiones para el cumplimiento de sus facultades;
 
-XIV. Vigilar que las autoridades y personal de la Administración Pública Estatal y Organismos dependientes del Gobierno, presten la información y colaboración oportuna y adecuada a la Unidad Estatal de Protección Civil para el cumplimiento de sus objetivos;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+XIV. Vigilar que las autoridades y personal de la Administración Pública Estatal y organismos dependientes del Gobierno, aporten la información y colaboración oportuna y adecuada a la Secretaría de Seguridad Ciudadana, para el cumplimiento de los objetivos que le establece este ordenamiento;
 
 XV. Vigilar que los organismos privados y sociales cumplan con los compromisos concertados para su participación en el Sistema Estatal de Protección Civil;
 
@@ -255,11 +259,13 @@ II. Elaborar y someter a consideración del Secretario Ejecutivo el calendario d
 
 III. Verificar la existencia del quórum legal necesario para sesionar; dar fe de lo actuado en las sesiones y levantar las actas correspondientes;
 
-IV. Dar cuenta de los requerimientos de la Unidad Estatal de Protección Civil y de la correspondencia;
+IV. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2006)
 
 V. Llevar el archivo y control de los diversos programas de Protección Civil;
 
-VI. Elaborar y mantener actualizado el directorio de integrantes del Consejo y de la Unidad Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+VI. Elaborar y mantener actualizado el directorio de integrantes del Consejo;
 
 VII. Llevar el registro de los recursos disponibles para casos de desastre y firmar, junto con el presidente del Consejo, todos los acuerdos y resoluciones del mismo;
 
@@ -277,31 +283,25 @@ XII. Las demás funciones que se deriven de esta Ley, sus Reglamentos y demás d
 
 Los integrantes miembros del Consejo Estatal de Protección Civil ejercerán sus funciones en forma honorífica.
 
-### CAPITULO III. DE LA UNIDAD ESTATAL DE PROTECCION CIVIL
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+### CAPITULO III. DE LAS FUNCIONES DE LA SECRETARIA DE SEGURIDAD CIUDADANA EN MATERIA DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 20.
 
-La Unidad Estatal de Protección Civil tendrá a su cargo la organización y operación del Sistema Estatal de Protección Civil, y depende del Poder Ejecutivo del Estado, a través de la Secretaría de Seguridad Ciudadana; sus acciones se apoyarán en el Consejo Estatal de Protección Civil y serán coordinadas por el Secretario Técnico.
+La Secretaría de Seguridad Ciudadana tendrá a su cargo la organización y operación del Sistema Estatal de Protección Civil. Sus acciones se apoyarán en el Consejo Estatal de Protección Civil.
 
 ###### ARTICULO 21.
 
-La Unidad quedará integrada por:
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
-I. Un Titular designado por el Gobernador Constitucional del Estado, quién será el responsable directo de la misma;
-
-II. Un encargado de Coordinación y Atención de Emergencias;
-
-III. Un encargado de Apoyo Logístico;
-
-IV. Un encargado de Planeación y Capacitación, y
-
-V. El personal de prevención y protección civil, de inspección y vigilancia, que autorice el presupuesto respectivo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 22.
 
-Corresponde a la Unidad Estatal de Protección Civil la responsabilidad de cumplir con las siguientes funciones:
+Corresponde a la Secretaría de Seguridad Ciudadana, la responsabilidad de cumplir con las siguientes funciones:
 
 I.- Contribuir al establecimiento de un nuevo orden estatal en materia de protección civil;
 
@@ -351,17 +351,21 @@ IX. Es interés del Estado que las acciones que se lleven a cabo en materia de p
 
 ###### ARTICULO 24.
 
-El Titular de la Unidad y los encargados de las distintas áreas, serán nombrados y removidos libremente por el Gobernador del Estado.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 25.
 
-Corresponde al Titular de la Unidad Estatal de Protección Civil:
+Corresponde a la Secretaría de Seguridad Ciudadana, a través del área que determine su Reglamento Interior:
 
-I. organizar y operar el Sistema Estatal de Protección Civil;
+I. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2006)
 
 II. Determinar en coordinación con los Municipios, las especificaciones para la coordinación intermunicipal del Sistema Estatal de Protección Civil;
 
-III. Participar con voz y voto en las reuniones del Consejo Estatal e informar de las acciones ejecutadas por la Unidad a su cargo, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+III. Participar con voz y voto en las reuniones del Consejo Estatal e informar de las acciones ejecutadas por la Secretaría de Seguridad Ciudadana; y
 
 IV. Las demás que le encomiende esta Ley, los Reglamentos respectivos y las que le sean asignadas por el Consejo Estatal de Protección Civil.
 
@@ -369,9 +373,11 @@ IV. Las demás que le encomiende esta Ley, los Reglamentos respectivos y las que
 
 Los encargados serán responsables, en sus respectivas áreas de los Programas de Protección Civil, su operatividad y coordinación.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 27.
 
-La Unidad Estatal de Protección Civil contará con instalaciones, materiales, equipo y recursos humanos y financieros necesarios para su eficaz funcionamiento, conforme al presupuesto respectivo.
+La Secretaría de Seguridad Ciudadana contará en materia de protección civil y atención de emergencias, con el personal, recursos materiales y financieros para su eficaz funcionamiento, conforme al presupuesto respectivo.
 
 ### CAPITULO IV. DE LOS SISTEMAS MUNICIPALES DE PROTECCION CIVIL
 
@@ -435,13 +441,17 @@ El Consejo Estatal y los Sistemas Municipales de Protección Civil, promoverán 
 
 La organización de los grupos voluntarios podrá integrarse en razón del territorio, conformándose por habitantes de determinadas localidades o municipios, o bien en razón de la profesión o actividad de las personas que participen en los grupos.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 40.
 
-Los grupos de voluntarios, bomberos, paramédicos, organizaciones civiles, instituciones privadas de protección civil, lucrativas y no lucrativas, y demás organismos sociales afines, deberán registrarse en la Unidad Estatal de Protección Civil y obtener un certificado de autorización para su funcionamiento que expedirá dicho organismo, en el que se indicará el numero de registro, nombre del grupo voluntario, actividades a las que se dedica y adscripción autorizada. El registro deberá renovarse anualmente durante el mes de enero.
+Los grupos de voluntarios, bomberos, paramédicos, instituciones privadas de protección civil, lucrativas y no lucrativas, y demás organismos sociales afines, deberán registrarse ante la Secretaría de Seguridad Ciudadana y obtener un certificado de autorización para su funcionamiento que expedirá dicho organismo, en el que se indicará el número de registro, nombre del grupo voluntario, actividades a las que se dedica y adscripción autorizada. El registro deberá renovarse anualmente durante el mes de enero.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 41.
 
-La Unidad Estatal de Protección Civil organizará y podrá en funcionamiento el Registro Estatal de Protección Civil, para efectos de elaborar el inventario de recursos humanos, materiales e institucionales disponibles y susceptibles de movilización en caso de emergencia, integrándolo por las siguientes secciones:
+La Secretaría de Seguridad Ciudadana organizará y pondrá en funcionamiento el Registro Estatal de Protección Civil, para efectos de elaborar el inventario de recursos humanos, materiales e institucionales disponibles y susceptibles de movilización en caso de emergencia, integrándolo por las siguientes secciones:
 
 I. De organizaciones obreras, industriales y empresariales;
 
@@ -463,13 +473,19 @@ VIII. De representaciones sociales y particulares interesados en la protección 
 
 Corresponde a los grupos voluntarios:
 
-I. Coordinarse con la Unidad Estatal de Protección Civil para las tareas de prevención y auxilio en casos de desastres;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+I. Coordinarse con la Secretaría de Seguridad Ciudadana para las tareas de prevención y auxilio en casos de desastres;
 
 II. Cooperar en la preparación y difusión de planes y programas de protección civil;
 
-III. Rendir los informes y datos que les solicite la Unidad, con la regularidad que esta señale;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-IV. Comunicar a la Unidad Estatal de Protección Civil o a cualquier otro de los integrantes del Sistema Estatal o Municipal de Protección Civil, la presencia de cualquier situación de probable o inminente riesgo, con el objeto de que se verifique la información y, en su caso, se tomen las medidas que correspondan;
+III. Rendir los informes y datos que les solicite la Secretaría de Seguridad Ciudadana, con la regularidad que ésta señale;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+IV. Comunicar a la Secretaría de Seguridad Ciudadana o a cualquier otro de los integrantes del Sistema Estatal o Municipal de Protección Civil, la presencia de cualquier situación de probable o inminente riesgo, con el objeto de que se verifique la información y, en su caso, se tomen las medidas que correspondan;
 
 V. Participar en los programas de capacitación a la población, para que pueda autoprotegerse en casos de desastres, y
 
@@ -515,9 +531,11 @@ Las autoridades competentes en los términos de esta Ley, atenderán de manera p
 
 ### CAPITULO VIII. DE LA INSPECCION, CONTROL Y VIGILANCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 51.
 
-Los establecimientos que por su propia naturaleza, o por el uso a que están destinados reciban una afluencia masiva de personas, tienen obligación de contar permanentemente con un programa específico de protección civil, el cual deberá ser autorizado y supervisado por la Unidad Estatal de Protección Civil.
+Los establecimientos que por su propia naturaleza o por el uso a que están destinados, reciban una afluencia masiva de personas, tienen obligación de contar permanentemente con un programa específico de protección civil, el cual deberá ser autorizado y supervisado por la Secretaría de Seguridad Ciudadana.
 
 Además de lo anterior, los propietarios, poseedores, administradores de establecimientos en los que haya afluencia del público y los organizadores o responsables de eventos, deberán en coordinación con las Autoridades de Protección Civil, practicar simulacros que permitan orientar y auxiliar a la población en caso de estado de emergencia.
 
@@ -525,9 +543,11 @@ Además de lo anterior, los propietarios, poseedores, administradores de estable
 
 En todos los lugares a que se refieren los artículos anteriores, deberán colocarse en sitios visibles, equipos de seguridad, señales preventivas, restrictivas e informativas, luces y equipo reglamentario según el caso, los instructivos y manuales para situaciones de emergencia, los cuales consignarán las reglas y orientaciones que deberán observarse antes, durante y después de algún siniestro o desastre, así como señalar las zonas de seguridad.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 53.
 
-La Unidad Estatal de Protección Civil y los Municipios dentro de su ámbito de competencia, inspeccionarán, controlarán y vigilarán la debida observancia y cumplimiento de las disposiciones de esta Ley y sus Reglamentos.
+La Secretaría de Seguridad Ciudadana y los Municipios, en su ámbito de competencia, inspeccionarán, controlarán y vigilarán la debida observancia y cumplimiento de las disposiciones de esta Ley y sus Reglamentos.
 
 ###### ARTICULO 54.
 
@@ -721,99 +741,63 @@ Independientemente de las sanciones administrativas que se impongan al infractor
 
 ###### ARTICULO 83.
 
-Contra las resoluciones, determinaciones y acuerdos dictados por las Autoridades de Protección Civil, procede el recurso de revisión.
-
-Cuando la autoridad sea el Consejo Estatal de Protección Civil, procederá el recurso de reconsideración.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 84.
 
-El recurso administrativo de revisión tiene por objeto que el superior jerárquico examine si en el proveído recurrido dejó de aplicarse o se aplicó incorrectamente la Ley, si se violaron las formalidades del procedimiento o si se alteraron los hechos que lo motivaron, a fin de confirmarlo, modificarlo o revocarlo, según proceda.
-
-El recurso de reconsideración tendrá el mismo objeto y similares efectos, pero será resuelto por la misma autoridad que dictó la resolución impugnada.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 85.
 
-El recurso de revisión, se interpondrá por escrito ante la autoridad que emitió el proveído que se impugna, en un plazo perentorio de quince días hábiles, contados a partir de la fecha de su notificación.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 86.
 
-Si el escrito con el que se interponga el recurso de revisión, no se sujetará a formalidad alguna, pero en todo caso deberá contener, por lo menos, los siguientes datos:
-
-a) Nombre y domicilio del recurrente.
-
-b) Proveído que se impugna.
-
-c) Autoridad que emitió el acto combatido, indicando con precisión en qué consiste éste y los agravios que le causa.
-
-d) Fecha de notificación o, en su defecto, en que el recurrente tuvo conocimiento del acto que impugna.
-
-e) Exposición sucinta de los hechos.
-
-f) Preceptos legales en los que se funda el recurso.
-
-g) Las pruebas que ofrezca a la sustanciación del recurso.
-
-Además, con el escrito se exhibirán los documentos que justifiquen la personalidad del promovente.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 87.
 
-Recibido el escrito a que se refiere el artículo anterior, la autoridad receptora lo remitirá, en un plazo que no exceda de tres días, a su superior jerárquico, acompañando las constancias relativas y un informe detallado al respecto.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 88.
 
-Si el escrito por el cual se interponga el recurso, fuere obscuro o irregular, la autoridad receptora prevendrá al recurrente por una sola vez, para que lo aclare, corrija o complete de acuerdo con el artículo 86, señalando en concreto sus defectos con el apercibimiento de que, si no cumple dentro del plazo de cinco días, se tendrá por no interpuesto.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 89.
 
-En la sustanciación del recurso se admitirá toda clase de pruebas, con excepción de la confesional a cargo de las autoridades, declaración de parte y testimoniales, así como aquellas que tengan el carácter de supervenientes.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 90.
 
-Para el desahogo y valoración de las pruebas ofrecidas, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 91.
 
-El superior jerárquico, con vista de las constancias existentes, dictará la resolución que corresponda, en un término de treinta días hábiles contados a partir de la recepción del escrito en que se interponga el recurso, o de la fecha en que se haya subsanado la irregularidad u obscuridad del mismo, la cual se notificará personalmente al recurrente.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 92.
 
-De la resolución recaída al recurso, se remitirá copia autorizada al inferior para que, en caso de que se amerite ejecución, proceda a ella en los términos señalados.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 93.
 
-Las resoluciones dictadas en revisión, no admiten recurso alguno.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 94.
 
-La autoridad que conforme a las disposiciones del presente Código conozca de la revisión, podrá ordenar la suspensión de la ejecución del proveído impugnado, siempre y cuando:
-
-I. Lo solicite el interesado;
-
-II. No se siga perjuicio al interés general, ni se contravengan disposiciones de orden social;
-
-III. No se trate de infractores reincidentes;
-
-IV. De ejecutarse la resolución, pueda causar daños de difícil reparación para el recurrente, y
-
-V. Se garantice el interés fiscal.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 95.
 
-El interés fiscal podrá garantizarse en cualquiera de las formas siguientes:
-
-I. Depósito en efectivo;
-
-II. Prenda o hipoteca;
-
-III. Fianza de compañía autorizada o de persona que acredite su solvencia con bienes raíces inscritos en el Registro Público de la Propiedad. Los fiadores deberán manifestar en forma expresa, que renuncian a los beneficios de orden y exclusión, y someterse al Procedimiento Administrativo de Ejecución previsto en el Código Fiscal del Estado.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 96.
 
-La suspensión dejará de surtir efecto si la garantía no se otorga dentro de los cinco días hábiles siguientes al en que quede notificado el auto que la hubiere concedido o, si por alguna causa posterior, ésta deja de ser efectiva.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 97.
 
-Para el trámite del recurso de reconsideración, se aplicarán las disposiciones que anteceden en cuanto no se oponga a su naturaleza.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2006)
 
 T R A N S I T O R I O S
 
@@ -876,3 +860,25 @@ SEGUNDO. Se abroga la "Ley que Crea la Dirección de Seguridad Pública del Esta
 TERCERO. Las Unidades Administrativas que con motivo de esta Ley se transfieran de la Secretaría de Gobierno o de alguna otra a la Secretaría de Seguridad Ciudadana, incluirán al personal a su servicio, sin perjuicio de sus derechos adquiridos, así como el mobiliario, los vehículos, maquinaria, aparatos, instrumentos, archivos y el equipo que se haya venido usando. Los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra, se respetarán conforme a la disposición legal de la materia.
 
 CUARTO. Los juicios y procedimientos administrativos que se encuentren en trámite y que con motivo de esta Ley deban pasar al conocimiento de la Secretaría de Seguridad Ciudadana, continuarán con su desahogo por quien conozca, y para el caso de que no se hayan resuelto a la fecha de entrada en vigor de esta Ley, se remitirán a la Secretaría a efectos de que ella determine lo conducente. Tratándose de asuntos en litigio, la Secretaría asumirá la personalidad jurídica, ya sea activa o pasiva, hasta la total terminación de los mismos a partir de la entrada en vigor de esta Ley.
+
+P.O. 8 DE DICIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Los recursos presupuestales asignados a la Unidad Estatal de Protección Civil, en los términos del artículo 14 del Decreto de Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal del año 2006, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el 27 de Diciembre de 2005, se entenderán asignados a la Secretaría de Seguridad Ciudadana, la que los recibirá y continuará ejerciéndolos en los términos de las disposiciones legales y reglamentarias aplicables.
+
+###### ARTICULO TERCERO.
+
+El personal y los recursos materiales y financieros que bajo cualquier título se encuentren a disposición de la Unidad Estatal de Protección Civil, se entenderán adscritos a la Secretaría de Seguridad Ciudadana, la que determinará, en su caso, el uso y destino que deba dárseles para el cumplimiento de las atribuciones otorgadas a la propia Secretaría en materia de protección civil, sin perjuicio alguno de los derechos laborales de los trabajadores.
+
+###### ARTICULO CUARTO.
+
+El Reglamento Interior de la Secretaría de Seguridad Ciudadana, se adecuará a las presentes reformas, en un término no mayor a sesenta días naturales, contados a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO QUINTO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
