@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-administracion-publica-7551"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-26"
-last_updated: "2006-09-15"
+last_updated: "2006-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1991.
 
@@ -803,7 +803,9 @@ VI. Nombrar al Director de la Policía Estatal y demás mandos de seguridad púb
 
 VII. Organizar, dirigir y administrar el Colegio de Policía y el servicio civil de carrera de la policía a su cargo;
 
-VIII. Organizar, dirigir, administrar y supervisar el Sistema Estatal de Protección Civil a través de la Unidad Estatal de Protección Civil de conformidad con la ley de la materia;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+
+VIII. Organizar, coordinar y operar el Sistema Estatal de Protección Civil, de conformidad con la ley de la materia;
 
 IX. Representar al Poder Ejecutivo del Estado en el Sistema Nacional de Seguridad Pública;
 
@@ -833,7 +835,7 @@ XXI. Atender de manera expedita las denuncias y quejas ciudadanas con relación 
 
 XXII. Proponer al Ejecutivo la creación o modificación de las direcciones o departamentos administrativos para el buen funcionamiento de la Secretaría;
 
-XXIII. Proponer al Ejecutivo al titular de la Unidad Estatal de Protección Civil;
+XXIII. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2006)
 
 XXIV. Proponer al Ejecutivo los reglamentos en las materias de su competencia; y
 
@@ -988,3 +990,25 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
 
 CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
+
+P.O. 8 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos presupuestales asignados a la Unidad Estatal de Protección Civil, en los términos del artículo 14 del Decreto de Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal del año 2006, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el 27 de Diciembre de 2005, se entenderán asignados a la Secretaría de Seguridad Ciudadana, la que los recibirá y continuará ejerciéndolos en los términos de las disposiciones legales y reglamentarias aplicables.
+
+###### ARTÍCULO TERCERO.
+
+El personal y los recursos materiales y financieros que bajo cualquier título se encuentren a disposición de la Unidad Estatal de Protección Civil, se entenderán adscritos a la Secretaría de Seguridad Ciudadana, la que determinará, en su caso, el uso y destino que deba dárseles para el cumplimiento de las atribuciones otorgadas a la propia Secretaría en materia de protección civil, sin perjuicio alguno de los derechos laborales de los trabajadores.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento interior de la Secretaría de Seguridad Ciudadana, se adecuará a las presentes reformas, en un término no mayor a sesenta días naturales, contados a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO QUINTO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
