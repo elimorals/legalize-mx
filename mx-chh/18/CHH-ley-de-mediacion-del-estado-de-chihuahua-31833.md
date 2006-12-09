@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-mediacion-del-estado-de-chihuahua-31833"
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-07"
-last_updated: "2003-06-07"
+last_updated: "2006-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE MEDIACION DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 7 de junio de 2003.
 
@@ -65,7 +65,7 @@ La mediación tendrá como finalidad primordial la consecución de un acuerdo sa
 
 La mediación será aplicable:
 
-I.- En materia penal, en los delitos en los que, de acuerdo con la ley, proceda el perdón del ofendido, así como los que no sean calificados como graves y carezcan de trascendencia social.
+I.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2006)
 
 II.- En materia civil, mercantil y familiar, en los asuntos que sean objeto de transacción o convenio, que no alteren el orden público, ni contravengan alguna disposición legal expresa o afecten derechos de terceros.
 
@@ -309,23 +309,9 @@ a).- De oficio, una vez fijada la litis, proponiendo el juez la apertura del pro
 
 b).- A petición expresa de una de las partes, realizada ante el juez, en cualquier etapa del juicio, siempre y cuando la contraparte este de acuerdo y la sentencia que ponga fin al proceso no haya causado ejecutoria.
 
-III.- En el caso de probables delitos que aun no han sido consignados ante la autoridad jurisdiccional:
+III.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2006)
 
-Iniciada la averiguación por delito que solo se persiga a instancia del ofendido y una vez que hubiere comparecido el presunto responsable, el funcionario a cargo de la misma, sin suspender el procedimiento, encomendara a un mediador la avenencia entre el inculpado y el querellante.
-
-En los mismos términos se procederá cuando a juicio del funcionario a cargo de la averiguación, el hecho delictivo, aun cuando fuere perseguible por denuncia, careciere de trascendencia social.
-
-Lograda la avenencia entre el imputado y la persona que hubiere sufrido daño con motivo del delito, no se ejercerá acción penal.
-
-IV.- En el caso de juicios penales ya iniciados:
-
-a).- De oficio, al dictarse auto de formal prisión o de sujeción a proceso, el juez propondrá la apertura del procedimiento mediatorio al inculpado y al ofendido, ordenando la notificación personal de su planteamiento a las partes. Si en el término de tres días, contados a partir de la notificación, no hubiere oposición de uno o de otro, proveerá lo necesario para la apertura del trámite correspondiente, ordenando la suspensión del proceso penal.
-
-Lo anterior, sin perjuicio de que el inculpado sea puesto en libertad caucional o de que se resuelva el recurso de apelación en contra del auto que hubiere definido la situación jurídica del inculpado.
-
-b).- Si no se hubiese aceptado la mediación en los términos planteados en el inciso anterior, podrá darse trámite a dicho procedimiento en cualquier etapa el juicio si así lo solicitaren el inculpado y el ofendido, siempre y cuando no se haya dictado sentencia ejecutoria.
-
-En materia penal, en cualquier caso deberá ser oído el Ministerio Público.
+IV.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### Artículo 29.
 
@@ -454,3 +440,11 @@ C.P. PATRICIO MARTINEZ GARCIA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. SERGIO ANTONIO MARTINEZ GARZA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+La presente derogación entrará en vigor atendiendo a las reglas de inicio de vigencia del nuevo Código de Procedimientos Penales, sin perjuicio de su publicación en el Periódico Oficial del Estado.
