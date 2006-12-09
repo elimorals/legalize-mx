@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2006-09-16"
+last_updated: "2006-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -913,9 +913,9 @@ XIII.- A través de programas específicos, otorgar atención a las víctimas de
 
 XIV.- Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Estatal y Nacional de Seguridad Pública, con autoridades federales, Estatales y Municipales;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2006)</small>
 
-XV.- Diseñar la política penitenciaria en los delitos del orden local; desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados; de igual forma, diseñar, coordinar, supervisar, organizar y administrar los programas de atención integral y los de seguimiento requeridos para la ejecución de medidas de adolescentes infractores, en los términos de la legislación de la materia;
+XV.- Diseñar la política penitenciaria en los delitos del orden local; ejecutar, vigilar y coordinar la ejecución de las penas medidas de seguridad, medidas cautelares y condiciones de la suspensión del proceso a prueba, en los términos de la legislación de la materia; así como organizar y dirigir los programas a liberados, sentenciados o procesados;
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1401,7 +1401,7 @@ Para el adecuado cumplimiento de las atribuciones conferidas a la Subprocuradur�
 
 ###### ARTÍCULO TERCERO.
 
-Los agentes de la policía al mando del Ministerio Público que se encuentren en activo al momento de la vigencia del presente Decreto, se integrarán a la Agencia Estatal de Investigación con su respectiva categoría, y deberán someterse a los procesos de capacitación y profesionalización que determine la Procuraduría General de Justicia del Estado.
+Los agentes de la policía al mando del Ministerio Público que se encuentren en activo al momento de la vigencia del presente Decreto, se integrarán a la Agencia Estatal de investigación con su respectiva categoría, y deberán someterse a los procesos de capacitación y profesionalización que determine la Procuraduría General de Justicia del Estado.
 
 ###### ARTÍCULO CUARTO.
 
@@ -1442,3 +1442,9 @@ P.O. 16 DE SEPTIEMBRE DE 2006.
 Artículo Primero. Inicio de Vigencia.- El presente Decreto iniciará su vigencia el primero de julio del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Derogación Tácita de Preceptos Incompatibles.- Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este Ordenamiento.
+
+P.O. 9 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente artículo entrará en vigor el primero de enero de dos mil siete, sin perjuicio de su publicación en el Periódico Oficial del Estado.
