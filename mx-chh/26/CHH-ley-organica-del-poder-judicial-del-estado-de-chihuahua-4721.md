@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2006-09-16"
+last_updated: "2006-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -287,9 +287,9 @@ La declaración deberá presentarse ante el Secretario General del Supremo Tribu
 
 La falsedad del contenido de la declaración o la omisión de presentarla en los plazos señalados, será motivo de cese definitivo del infractor en sus funciones. Lo anterior sin perjuicio de que si el Pleno lo estima pertinente, se dé conocimiento de los hechos a las autoridades respectivas. En el caso de la fracción III, su incumplimiento inhabilitará al infractor hasta por diez años, para ser designado en un nuevo cargo en el Poder Judicial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE AGOSTO DE 2006)</small>
 
-### CAPITULO II. DEL PROCEDIMIENTO PARA SELECCION DE PERSONAL Y CARRERA JUDICIAL
+### CAPITULO II. DEL PROCEDIMIENTO PARA SELECCION DE PERSONAL Y DE LA CARRERA JUDICIAL
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
@@ -1321,195 +1321,73 @@ XI.- Las demás que prescriban las leyes.
 
 ### CAPITULO XI. DE LA DEFENSORIA DE OFICIO
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
-
 ###### ARTICULO 101.
 
-La Defensoría de Oficio del Estado tiene por objeto patrocinar, en materia Penal y de justicia especializada para adolescentes infractores, en los términos del artículo 20 de la Constitución Federal, a los procesados que no cuenten con defensor particular; y en materia Civil y Familiar, a las personas que carezcan de recursos económicos suficientes para pagar un abogado o cuando teniéndolos, a juicio del Juez sea urgente su designación.
-
-En materia Familiar, el Defensor de Oficio tendrá el carácter de mandatario de la persona a quien el Juez le comisione su patrocinio.
-
-El Supremo Tribunal de Justicia organizará y mantendrá capacitado, un cuerpo de defensores de oficio que efectuarán en favor de los indígenas sujetos a proceso penal o que sean parte en juicios de carácter civil.
-
-El Supremo Tribunal de Justicia, cuando así lo solicite expresamente el Ministerio Público, ordenará que los citados defensores de oficio representen y asesoren a los indígenas desde el inicio de la etapa de la averiguación previa.
-
-(REFORMADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 102.
 
-Los defensores de oficio les está prohibido:
-
-I.- Desempeñar otro empleo, cargo o comisión en cualesquiera de los órdenes de gobierno, salvo el desempeño de actividades docentes;
-
-II.- El ejercicio particular de la profesión de abogado, salvo que se trate de causa propia, la de su cónyuge o su concubina, concubinario, así como parientes consanguíneos en línea recta sin limitación de grado, y colaterales hasta el cuarto grado, por afinidad o civil.
-
-III.- Actuar como mandatarios judiciales, tutores, curadores, o albaceas, depositarios judiciales, síndicos, administradores, interventores en quiebra o concurso, corredores, notarios, comisionistas, árbitros, endosatarios en procuración, o ejercer cualquier otra actividad que sea incompatible con sus funciones.
-
-Mediante reglas de carácter general, fundadas y motivadas, el Pleno podrá establecer excepciones a las prohibiciones a que se refieren las fracciones anteriores, y establecer los horarios en que los defensores de oficio deban prestar sus servicios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 103.
 
-Los Defensores de Oficio del Estado no percibirán retribución alguna de los interesados, cualquiera que sea la designación con que se solicite u ofrezca.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 104.
 
-La Defensoría de Oficio estará bajo la vigilancia del Presidente del Tribunal y a cargo de un Jefe de la Defensoría Central que nombrará el Pleno, éste designará además el número de Defensores y empleados que sean necesarios y autorice el Presupuesto, con la facultad de removerlos libremente de sus cargos o empleos y cambiar su adscripción. El Jefe de Defensores también desempeñará el cargo de Defensor. La Defensoría Central se ubicará en la ciudad de Chihuahua.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 105.
 
-Para efectos administrativos, en los lugares en donde haya más de dos Defensores, entre ellos designarán uno que será el conducto para las relaciones entre ellos, el Jefe de la Defensoría Central y el Presidente del Tribunal.
-
-Para los efectos del párrafo anterior, el Jefe de la Defensoría Central, además de ser el Jefe de los Defensores del Estado, lo será también, particularmente, de los Defensores adscritos al Supremo Tribunal de Justicia y a los Juzgados ubicados en la ciudad de Chihuahua.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 106.
 
-El Jefe de Defensores y los que ejerzan sus funciones en la ciudad de Chihuahua, rendirán la protesta de ley ante el Presidente del Supremo Tribunal; los foráneos, ante el Juez del lugar que conozca de la materia de su adscripción y que tenga la más baja asignación numérica.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 107.
 
-Para ser Jefe de Defensores se requiere:
-
-I.- Ser mayor de veinticinco años; y
-
-II.- Tener título de Licenciado en Derecho debidamente expedido con práctica profesional de cuando menos dos años a la fecha de su designación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 108.
 
-Para ser Defensor de Oficio se requiere cumplir con los requisitos que establece el precepto anterior, pudiendo dispensarse el de poseer título de Licenciado en Derecho en el caso de que no haya profesionistas que acepten desempeñar el empleo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 109.
 
-Las ausencias accidentales del Jefe de la Defensoría Central se cubrirán por el Defensor adscrito en la Ciudad de Chihuahua con más antigüedad en el cargo; igual regla se aplicará en el caso de ausencias temporales, salvo que el Pleno disponga otra cosa, según las circunstancias.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 110.
 
-En los lugares donde haya más de dos Defensores, éstos suplirán entre sí sus ausencias accidentales, previo acuerdo que entre ellos celebren y a falta de éste, el Jefe de la Defensoría Central resolverá lo pertinente. Tratándose de ausencias temporales se aplicarán las reglas anteriores, salvo que el Pleno disponga otra cosa atendiendo las circunstancias.
-
-Para cubrir las ausencias de los Defensores en los lugares en donde sólo exista uno, el Juez, en los casos de urgencia que calificará bajo su responsabilidad, designará a persona que desempeñe el cargo, cubriendo el Erario Público sus honorarios, los que se ajustarán a lo que el arancel de la materia señale. Si el caso no es urgente, el Pleno hará la designación respectiva con cargo a la partida de nombramientos extraordinarios del Presupuesto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 111.
 
-Ninguno de los componentes del Cuerpo de Defensores podrá excusarse de patrocinar gratuitamente a las personas que menciona el primer artículo de este Capítulo, sino por causas graves que calificará el Juez de la adscripción, quien tomará las providencias necesarias para que no se descuide el asunto y se nombre otro Defensor. En cuanto resulten conducentes, se aplicarán las disposiciones procedimentales de la materia que regulen la recusación y excusa de los Jueces y Secretarios.
-
-También podrán excusarse y renunciar al cargo conferido, cuando el interesado designe defensor o apoderado particular.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 112.
 
-Cuando el Defensor de Oficio no se excuse existiendo causa legal para ello, el interesado podrá ocurrir en queja ante el Juez del conocimiento, quien resolverá con los elementos que estime conveniente allegarse, tomando las providencias necesarias para evitarle perjuicios al interesado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 113.
 
-Cuando se estime necesario, el Pleno o el Presidente del Tribunal podrán comisionar a los Defensores para que atiendan los asuntos que se les encomienden, sin importar la materia y lugar de su adscripción.
-
-En aquellos lugares en que no sea necesaria la designación de un defensor permanente, el Pleno podrá autorizar a los Jueces la designación de un defensor en casos específicos, cuyos honorarios serán cubiertos por el Erario Público.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 114.
 
-Corresponde al Jefe de Defensores:
-
-I.- Dictar las medidas necesarias de carácter general que considere convenientes para la mayor eficacia de los servicios que deba prestar la Defensoría;
-
-II.- Dirigir la formación de la estadística correspondiente a la Defensoría de Oficio del Estado;
-
-III.- Imponer correcciones disciplinarias a los Defensores del Estado y a los empleados subalternos tratándose de faltas que no sean graves, en caso contrario, ponerlo en conocimiento del Presidente para que se resuelva lo que proceda.
-
-IV.- Informar al Presidente de cualquier irregularidad que advierta en el desempeño de la función encomendada a los Defensores de Oficio;
-
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-V.- Rendir al Presidente del Tribunal, dentro de los primeros cinco días de cada mes, una noticia sobre el movimiento de asuntos y estado que guarden los expedientes relativos y una anual, dentro de los primeros cinco días del mes de enero de cada año;
-
-VI.- Visitar a los reclusos de la Penitenciaria del Estado cuando menos una vez por semana, informando al Presidente de las deficiencias que encuentre perjudiciales para aquéllos;
-
-VII.- Resolver a la brevedad posible, las consultas que le hicieren los Defensores;
-
-VIII.- Vigilar la conducta de los Defensores y empleados en todo cuando se relacione al ejercicio de su encargo;
-
-IX.- Solicitar del Pleno del Tribunal, la remoción de los Defensores que no cumplan satisfactoriamente sus obligaciones, aportando en cada caso los elementos que fundamenten la petición;
-
-X.- Solicitar informes a los Jueces sobre la actuación de los Defensores de Oficio y examinar los expedientes en que éstos se encuentren designados;
-
-XI.- Conceder audiencia a las personas que por cualquier motivo reciban los servicios de la Defensoría de Oficio; y
-
-XII.- Todas las demás funciones que le concedan las leyes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 115.
 
-Son obligaciones de los Defensores:
-
-I.- Patrocinar a las personas a que se refiere el primero de los artículos de este Capítulo;
-
-II.- Desempeñar activamente sus funciones ante los Tribunales de sus respectivas adscripciones;
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2003)</small>
-
-III.- Promover todas las pruebas necesarias, solicitando la práctica de las diligencias pertinentes para el éxito de la defensa. Las pruebas periciales solicitadas por los defensores de oficio, serán practicadas de manera gratuita por los peritos adscritos a la Procuraduría General de Justicia del Estado, en los casos en que el procesado carezca de recursos económicos para ello, siempre y cuando la Procuraduría cuente con los elementos técnicos y humanos necesarios para llevarlas a cabo;
-
-IV.- Tramitar los recursos que favorezcan a sus patrocinados solicitando, cuando proceda, los beneficios que concedan las leyes y en general, hacer todas las gestiones que favorezcan a quienes prestan sus servicios, incluyendo la interposición del juicio de amparo cuando se requiera;
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
-
-V.- Atender con honestidad, responsabilidad y buen trato a sus patrocinados; oír a los detenidos en el interior de los reclusorios o centros de internamiento especializados para adolescentes Infractores, cuando menos una vez por semana;
-
-VI.- Presentarse diariamente a los Tribunales para asistir a las diligencias correspondientes, oír notificaciones o aceptar nombramientos, debiendo permanecer en las oficinas todo el tiempo necesario para la debida atención de su encomienda;
-
-VII.- Desempeñar con responsabilidad y honestidad las comisiones que el Pleno, el Presidente o el Jefe de Defensores les confieran;
-
-VIII.- Rendir mensualmente a la Defensoría Central, un informe detallado de los asuntos en que hayan intervenido, haciendo las indicaciones necesarias para la estadística correspondiente;
-
-IX.- Vigilar el comportamiento de los empleados subalternos de sus oficinas y dar cuenta al Jefe del la Defensoría Central en caso de advertir irregularidades;
-
-X.- Conceder audiencia a los interesados en los asuntos en que intervengan y si se trata de una persona privada de su libertad, entrevistarla con la periodicidad que el caso lo requiera para informarle del estado que guarde su proceso, así como cuantas veces el reo lo solicite;
-
-XI.- Cumplir con las disposiciones de carácter general que para el buen desempeño de la función, dicte el Jefe de la Defensoría;
-
-XII.- Aceptar los cargos que se les confieran si no existe impedimento o excusa legal para ello y renunciar al cargo conferido cuando hubiere causa para ello; y
-
-XIII.- Todas las demás que les señalen las leyes.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 116.
 
-Los empleados subalternos de las oficinas de la Defensoría, realizarán todas las actividades que con motivo del ejercicio de su encargo les encomienden los Defensores de la oficina de su adscripción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 117.
 
-Son causa de responsabilidad de los Defensores:
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
-
-I.- Ausentarse frecuentemente de sus oficinas, de las prisiones, de los Centros de internamiento especializados para adolescentes infractores y hospitales a donde fueren llamados por sus defensos o no permanecer en las primeras todo el tiempo necesario para el buen desempeño de su función;
-
-II.- No obedecer el Reglamento en lo que se refiere a horas de despacho;
-
-III.- Demorar o entorpecer la defensa o asunto que les han sido encomendados, ya por faltar al cumplimiento de sus deberes legales, ya por no cumplir con las órdenes que en su caso y de acuerdo con la ley, reciban de sus superiores;
-
-IV.- Ejecutar hechos o incurrir en omisiones que tengan como consecuencia extraviar expedientes y escritos o, en general, dificultar la práctica de las diligencias procesales;
-
-V.- Negarse injustificadamente a patrocinar la defensa de aquéllos a quienes por disposición de la ley están obligados a defender;
-
-VI.- No excusarse del cargo conferido cuando exista causa legal que les impida actuar en el asunto;
-
-VII.- Valerse de cualquier medio para que se les revoque el nombramiento o abandonar la defensa sin justa causa;
-
-VIII.- Dejar de interponer en tiempo y forma los recursos legales o medios de defensa que se deriven del proceso, en beneficio de sus defensos o patrocinados;
-
-IX.- No hacer con oportunidad las promociones que legalmente procedan o actuar con negligencia en la presentación de las pruebas favorables a sus patrocinados;
-
-X.- Aceptar ofrecimientos o promesas, recibir bienes o cualquier remuneración, por los servicios que presten a sus patrocinados o solicitar de éstos o de las personas que por ellos se interesen, dinero o cualquier otra retribución para ejercer las funciones de su cargo, ya sea que la solicitud o aceptación la hagan por sí mismos o por interpósita persona;
-
-XI.- Ofender o dar malos tratos a sus patrocinados o a las personas que concurran a sus oficinas;
-
-XII.- Alterar el orden, injuriar u ofender a las personas que intervengan o presencien las audiencias;
-
-XIII.- Faltar o llegar tarde frecuentemente a las audiencias en las que deban de intervenir; y
-
-XIV.- Dejar de cumplir cualquiera de las demás obligaciones que les estén señaladas por las leyes, reglamentos o por sus superiores.
-
-(ADICIONADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
-
-Por la violación al artículo 102 y a la fracción X anterior, serán sancionados necesariamente con el cese definitivo en el cargo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ### CAPITULO XII. DE LA OFICIALIA DE TURNOS
 
@@ -2200,6 +2078,10 @@ III. Dictar sentencia con base en las pruebas presentadas durante la audiencia d
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2006)</small>
 
 IV. Las demás que les otorgue la ley.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2006)</small>
+
+Los jueces integrantes de los Tribunales de Juicio Oral en materia Penal ejercerán la función de Jueces de Ejecución de Penas en el Estado, dentro del Distrito Judicial correspondiente, con la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Supremo Tribunal de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la presente Ley.
 
 ###### ARTICULO 151.
 
@@ -3254,3 +3136,55 @@ P.O. 16 DE SEPTIEMBRE DE 2006.
 Artículo Primero. Inicio de Vigencia.- El presente Decreto iniciará su vigencia el primero de julio del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Derogación Tácita de Preceptos Incompatibles.- Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este Ordenamiento.
+
+P.O. 9 DE DICIEMBRE DE 2006.
+
+DECRETO No. 691/06 I P.O.
+
+###### ARTÍCULO ÚNICO.
+
+El presente artículo entrará en vigor el primero de enero de dos mil siete, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2006.
+
+DECRETO No. 692/06 I P.O.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el 1º de enero de 2007, con excepción de los artículos 4 y 5, que entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan los artículos 101 a 117 de la Ley Orgánica del Poder Judicial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Para la primera designación del Director de la Defensoría Pública del Estado de Chihuahua, se solicita al Titular del Poder Ejecutivo del Estado enviar la tema de los candidatos a ocupar dicho puesto, lo cual deberá realizarse antes del día 12 de diciembre del año en curso, a efecto de que esta Alta Representación Social pueda hacer lo propio durante el presente periodo ordinario.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de la presente Ley, se fija un término de 90 días naturales, a efecto de que el Ejecutivo del Estado emita la reglamentación correspondiente de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los Defensores Públicos ocuparán oficinas separadas de los Despachos de los Juzgados, Tribunales y de las Agencias del Ministerio Público, aunque pueden ubicarse en la misma edificación.
+
+###### ARTÍCULO SEXTO.
+
+Las disposiciones de la presente Ley se aplicarán incluso en aquellos Distritos Judiciales donde no se esté aplicando el nuevo Código de Procedimientos Penales.
+
+###### ARTÍCULO SÉPTIMO.
+
+A partir de la entrada en vigor de la presente Ley, se fija un término de 30 días naturales para la (sic) realizar el procedimiento de entrega recepción de los expedientes y demás documentos que conforman el archivo de la Defensoría de Oficio, a la Secretaria General de Gobierno, por conducto del personal que ésta designe.
+
+###### ARTÍCULO OCTAVO.
+
+Los servidores públicos que en aplicación de la presente Ley pasen a formar parte de la Defensoría Pública, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral. No así de las nuevas contrataciones, los cuales se sujetarán en lo conducente al marco regulatorio del Poder Ejecutivo.
+
+###### ARTÍCULO NOVENO.
+
+A partir de la entrada en vigor de la presente ley, el Poder Judicial contará con un plazo que no exceda de seis meses para efectuar la transferencia de recursos materiales al Poder Ejecutivo del Estado.
+
+###### ARTÍCULO DÉCIMO.
+
+Para la aplicación de la presente Ley, el Poder Ejecutivo y el Poder Judicial, previo a la remisión de sus respectivos Presupuestos de Egresos, deberán realizar las adecuaciones necesarias y, en su caso, la transferencia de partidas entre programas sectoriales.
