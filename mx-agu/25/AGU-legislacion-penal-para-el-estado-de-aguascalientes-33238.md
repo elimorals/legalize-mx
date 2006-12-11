@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2006-09-11"
+last_updated: "2006-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2006.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -161,7 +161,7 @@ VIII. Cuando el responsable tenga relación de pareja o de carácter conyugal, s
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-IX. Cuando la víctima se trate de un incapaz sujeto a patria potestad, tutela, curatela o custodia del responsable.
+IX.- Cuando la víctima se trate de un incapaz sujeto a patria potestad, tutela, curatela o custodia del responsable.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
@@ -223,15 +223,25 @@ Si la víctima es menor de doce años de edad o por cualquier causa no puede res
 
 La Corrupción de Menores consiste en:
 
-I. La inducción que se haga de una persona no mayor de 16 años de edad para la práctica de la mendicidad, ebriedad, toxicomanía o prostitución;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-II. La enseñanza de actos sexuales, perversos o prematuros que alteren el normal desarrollo psicosexual de persona no mayor de 16 años;
+I. La inducción que se haga de una persona menor de 18 años de edad para la práctica de la mendicidad, ebriedad, toxicomanía o prostitución;
 
-III. La inducción para llevar a cabo actos de exhibicionismo corporal o de carácter sexual con personas no mayores de 16 años de edad, con el fin de videograbarlas o fotografiarlas;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-IV. La comercialización, distribución o difusión de fotografías o videograbaciones que muestren actos de exhibicionismo corporal o de carácter sexual de personas no mayores de 16 años; o
+II. La enseñanza de actos sexuales, perversos o prematuros que alteren el normal desarrollo psicosexual de persona menor de 18 años;
 
-V. La venta o suministro que de cualquier forma se haga a personas no mayores de 16 años de edad, de sustancias tóxicas, tales como materiales solventes, alcoholes, medicamentos y otras sustancias que produzcan efectos similares.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+III. La inducción para llevar a cabo actos de exhibicionismo corporal o de carácter sexual con personas menores de 18 años de edad, con el fin de videograbarlas o fotografiarlas;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+IV. La comercialización, distribución o difusión de fotografías o videograbaciones que muestren actos de exhibicionismo corporal o de carácter sexual de personas menores de 18 años; o
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+V. La venta o suministro que de cualquier forma se haga a personas menores de 18 años de edad, de sustancias tóxicas, tales como materiales solventes, alcoholes, medicamentos y otras sustancias que produzcan efectos similares.
 
 Al responsable de Corrupción de Menores se le aplicarán de 6 a 14 años de prisión y de 80 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
@@ -4137,7 +4147,9 @@ IX. Sustracción de Menores, prevista en el artículo 35, salvo que el inculpado
 
 X. Desaparición Forzada de Personas, prevista en el artículo 39;
 
-XI. Secuestro, prevista en el artículo 40;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+XI. Secuestro, prevista en el Artículo 40, 40A y Secuestro exprés, previsto en el Artículo 41;
 
 XII. Robo Calificado, previsto en el artículo 45, en relación con el artículo 44, cuando el valor de la afectación patrimonial exceda de trescientas veces el salario mínimo general vigente en el Estado;
 
@@ -5066,5 +5078,11 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 P.O. 11 DE SEPTIEMBRE DE 2006.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
