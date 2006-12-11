@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-comision-estatal-de-arbitraje-51206"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-26"
-last_updated: "2006-07-26"
+last_updated: "2006-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51206&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE ARBITRAJE MEDICO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 26 de julio de 2006.
 
@@ -95,7 +95,9 @@ El Consejo es el órgano de gobierno de la Comisión, estará integrado conforme
 
 Los cargos del Consejo serán honoríficos, cada uno de los miembros propietarios podrá nombrar un suplente con un nivel mínimo de Director, con base en lo dispuesto en el Decreto y demás disposiciones normativas aplicables.
 
-Los miembros del Consejo podrán participar con voz pero sin voto, representantes de otras dependencias y entidades de la Administración Pública Estatal, instituciones públicas o privadas y organizaciones sociales que tengan relación con el sector salud, a través de invitación que les dirija el Presidente del Consejo.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+Podrán participar con voz pero sin voto, representantes de otras dependencias y entidades de la Administración Pública Estatal, instituciones públicas o privadas y organizaciones sociales que tengan relación con el sector salud, a través de invitación que les dirija el Presidente del Consejo.
 
 ###### ARTÍCULO 6º.
 
@@ -414,3 +416,11 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
