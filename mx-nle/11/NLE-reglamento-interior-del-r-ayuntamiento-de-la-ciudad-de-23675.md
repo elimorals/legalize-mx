@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-de-la-ciudad-de-23675"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-11"
-last_updated: "2004-06-23"
+last_updated: "2006-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE LA CIUDAD DE SABINAS HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 11 de marzo de 2002.
 
@@ -215,9 +215,9 @@ II.- Extraordinarias
 
 III.- Solemnes
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-ART. 26.- Son Ordinarias las sesiones que, en los términos de la Ley Orgánica de la Administración Municipal del Estado de Nuevo León, se celebren los segundos y cuartos lunes de cada mes, comenzando por regla general a las 18:00 horas y terminando a las 20:00 horas, previa notificación y convocatoria con 24 horas de anticipación; pudiendo extenderse previo acuerdo de Cabildo, pudiendo cambiarse previo concenso (sic) en forma indubitable de los miembros del Ayuntamiento.
+ART. 26.- Las sesiones ordinarias que, en los términos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, se celebren el primer y tercer miércoles de cada mes, comenzando por regla general a las 16:00 horas y terminando a las 18:00 horas, pudiendo extenderse previo acuerdo de Cabildo, pudiendo cambiarse de fecha previo acuerdo de Cabildo, notificación y convocatoria realizadas con 24 horas de anticipación.
 
 ART. 27.- Serán extraordinarias las sesiones que se celebren cuando algún asunto urgente lo requiera. Para ello bastará la solicitud del Presidenta (sic) Municipal o, de cuando menos, la mitad más uno de los miembros del Ayuntamiento.
 
@@ -540,3 +540,7 @@ PRIMERO.- Estas modificaciones entrarán en vigor al día siguiente de su public
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias que contravengan el contenido de las presentes modificaciones.
 
 TERCERO.- En base a lo ordenado en el referido acuerdo del Ayuntamiento, publíquese el presente y difúndase para su conocimiento y observación.
+
+P.O. 11 DE DICIEMBRE DE 2006.
+
+LA MODIFICACIÓN CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
