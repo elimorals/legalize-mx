@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2006-03-15"
+last_updated: "2006-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2006.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -524,6 +524,10 @@ En este último caso, el juez o tribunal resolverá lo que estime procedente den
 ###### ARTICULO 86.
 
 Cuando hubiere condena de frutos, intereses, daños o perjuicios, se fijará su importe en cantidad líquida o se establecerán, por lo menos, las bases con arreglo a las cuales debe hacerse la liquidación.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+Tratándose de los intereses, éstos deberán de estar conforme a lo previsto en los Artículos 1965 y 2266 del Código Civil.
 
 ###### ARTICULO 87.
 
@@ -2545,9 +2549,11 @@ En los casos previstos en el artículo 2792 del Código Civil, segundo párrafo,
 
 Si la sentencia contuviere condena al pago de cantidad líquida y de otra ilíquida, podrá procederse a hacer efectiva la primera, sin esperar a que se liquide la segunda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 414.
 
-Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunció, al promover la ejecución presentará su liquidación, de la cual se le dará vista por tres días a la demanda (sic). Si ésta nada expone dentro del término fijado, se decretará la ejecución por la cantidad que importe la liquidación; mas si manifestare inconformidad, se dará vista de las razones que alegue a la promovente por tres días y de lo que se replique por otros tres, al deudor. Dentro de igual término el juez fallará lo que estime justo, sin que contra su resolución proceda recurso alguno.
+Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunció, al promover la ejecución presentará su liquidación, de la cual se le dará vista por tres días a la demandada. Si ésta nada expone dentro del término fijado, se decretará la ejecución por la cantidad que importe la liquidación; mas si manifestare inconformidad, se dará vista de las razones que alegue a la promovente por tres días y de lo que se replique por otros tres, al deudor. Dentro de igual término el juez fallará lo que estime justo, sin que contra su resolución proceda recurso alguno. Si hubiere condena de pago de intereses, el juez, al dictar la sentencia interlocutoria, deberá regularlos en términos de lo previsto por los Artículos 1965 y 2266 del Código Civil.
 
 De la misma manera se procederá cuando la sentencia contenga condena a cantidad líquida y a parte ilíquida, por esta última.
 
@@ -5636,3 +5642,7 @@ P.O. 15 DE MARZO DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE DICIEMBRE DE 2006.
+
+UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
