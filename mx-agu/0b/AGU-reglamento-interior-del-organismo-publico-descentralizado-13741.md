@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-organismo-publico-descentralizado-13741
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-06"
-last_updated: "2006-08-14"
+last_updated: "2006-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de diciembre de 1998.
 
@@ -83,9 +83,11 @@ II.- Dirección General; y
 
 III.- Comisario.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 5o.
 
-Para la más eficaz atención de los asuntos de su competencia, y a fin de cumplir con su objeto, el Organismo contará con las siguientes unidades administrativas:
+Para la más eficaz atención de los asuntos de su competencia, y a fin de cumplir con su objeto, el Organismo contará con las Unidades Administrativas siguientes:
 
 I.- Dirección de Administración;
 
@@ -95,7 +97,11 @@ III.- Dirección de Regulación Sanitaria;
 
 IV.- Dirección de Planeación y Desarrollo;
 
-V.- Subdirección de Auditoria Médica.
+V.- Dirección de Calidad;
+
+VI.- Dirección del Seguro Popular; y
+
+VII.- Subdirección de Auditoria Médica.
 
 Organos Administrativos Desconcentrados:
 
@@ -103,13 +109,33 @@ I.- Jurisdicción Sanitaria I, con sede en la ciudad de Aguascalientes;
 
 II.- Jurisdicción Sanitaria II, con sede en el Municipio de Rincón de Romos;
 
-III.- Jurisdicción Sanitaria III, con sede en el Municipio de Calvillo.
+III.- Jurisdicción Sanitaria III, con sede en el Municipio de Calvillo;
 
-Unidades Sectorizadas al Organismo:
+IV.- Hospital General de Pabellón de Arteaga;
 
-I.- Hospital de Especialidades Miguel Hidalgo;
+V.- Hospital General de Rincón de Romos;
 
-II.- Centro de Neuropsiquiatría.
+VI.- Hospital General de Calvillo;
+
+VII.- Hospital de la Mujer de Aguascalientes;
+
+VIII.- Hospital General Tercer Milenio;
+
+IX.- Laboratorio Estatal de Salud Pública; y
+
+X.- Centro Estatal de Transfusión Sanguínea.
+
+Unidades Sectorizadas del Organismo:
+
+I.- Centenario Hospital de Especialidades Miguel Hidalgo; y
+
+II.- Hospital de Psiquiatría Gustavo León Mojica García.
+
+Coordinaciones Generales:
+
+I.- Centro de Atención Multidisciplinario para Labio y Paladar Hendido; y
+
+II.- Centro Estatal de Salud Mental Familiar Agua Clara.
 
 ###### ARTICULO 6o.
 
@@ -137,9 +163,11 @@ VII.- En general, todos los bienes, derechos y obligaciones que entrañen utilid
 
 ### CAPITULO III. Del Consejo Interno
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 8o.
 
-El Consejo Interno estará integrado por el Gobernador del Estado, quien lo presidirá, por un vicepresidente y los vocales que determine el propio Ejecutivo, entre las personas que administren centros prestadores de servicios de salud y representantes de organizaciones de profesionistas y sindicales, que agrupen a personas dedicadas a la prestación de este servicio. Asimismo, por un representante de la Secretaría de Salud del Gobierno Federal y por otro de los trabajadores del propio Instituto, que será designado por el Comité Ejecutivo Nacional del Sindicato Nacional de los Trabajadores de la Secretaría de Salud. Los miembros del Consejo serán suplidos por los representantes que fueren designados de igual forma que cada uno de los miembros propietarios del mismo.
+El Consejo Interno estará integrado por el Gobernador del Estado, quien lo presidirá, por un vicepresidente y los vocales, que determine el propio Ejecutivo, entre las personas que administren centros prestadores de servicios de salud y representantes de organizaciones de profesionistas y sindicales, que agrupen a personas dedicadas a la prestación de este servicio. Asimismo, por un representante de la Secretaría de Salud del Gobierno Federal y por otro de los trabajadores del propio Instituto, que será designado por el Comité Ejecutivo Nacional del Sindicato Nacional de los Trabajadores de la Secretaría de Salud, por un representante de la Secretaría de Desarrollo Social del Gobierno del Estado, por un representante del Instituto Mexicano del Seguro Social, por un representante del Sistema para el Desarrollo Integral de la Familia, por un representante del Colegio de Médicos Cirujanos, por un representante del Colegio de Cirujanos Dentistas, por un representante del Colegio Optometría, por un representante del Colegio de Enfermería, por un representante del Congreso del Estado, por un representante de los Municipios de la Entidad, y por un representante de la Comisión Estatal de Arbitraje Médico. Los miembros del Consejo serán suplidos por los representantes que fueren designados de igual forma que cada uno de los miembros propietarios del mismo.
 
 El Consejo Interno contará con un Secretario Técnico designado por el propio Consejo, a propuesta del Director General del Instituto de Salud del Estado de Aguascalientes, sin que pueda ser éste funcionario.
 
@@ -149,7 +177,7 @@ El Presidente del Consejo Interno podrá invitar a las sesiones de dicho órgano
 
 El Presidente del Consejo Interno tendrá voto de calidad.
 
-El Director General y el Comisario participarán en las sesiones del Consejo Interno con voz, pero sin voto.
+El Director General y el Comisario participarán en las sesiones del Consejo Interno con voz pero sin voto.
 
 Los cargos en el Consejo Interno serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.
 
@@ -229,9 +257,11 @@ VI.- Las demás que le encomiende el Consejo Interno.
 
 ### CAPITULO IV. De las Sesiones del Consejo Interno
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 13.
 
-El Consejo Interno deberá sesionar ordinariamente cada mes, y podrá hacerlo extraordinariamente cuantas veces lo considere necesario.
+El Consejo Interno deberá sesionar ordinariamente cada tres meses, y podrá hacerlo extraordinariamente cuantas veces lo considere necesario.
 
 ###### ARTICULO 14.
 
@@ -357,6 +387,22 @@ X.- Integrar y Desarrollar el Comité Mixto de Escalafón y Pie de Rama para la 
 
 XI.- Realizar las demás funciones inherentes a su objetivo o las que le sean encomendadas por la dirección General.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 22 BIS.- Corresponde a la Dirección de Calidad:
+
+I.- Definir el programa de calidad de la Institución y someterlo a la consideración de la Dirección General para su autorización;
+
+II.- Dirigir y evaluar los resultados del programa de calidad, planeando las estrategias del modelo de gestión de calidad para la mejora de los servicios de salud, certificando el establecimiento de la atención médica;
+
+III.- Conducir las estrategias de la participación ciudadana estatal como avales ciudadanos del índice de trato digno en las Unidades Médicas del Estado, monitoreando la gestión de calidad, evaluando la satisfacción de los usuarios y prestadores de servicios, evaluando técnicamente los servicios de salud que se otorgan en la Entidad con énfasis a los que proporciona el Instituto;
+
+IV.- Impulsar la atención de las Unidades Médicas, identificando las necesidades de capacitación y diseño de programas para mejorar el desempeño de la operación y la competencia directiva, elaborando al efecto un programa anual de capacitación en calidad, previo el diagnóstico de necesidades previamente definidas por las áreas técnicas, administrativas y operativas, promoviendo la participación de las áreas del Instituto en el Premio Nacional de Calidad de la Secretaría de Salud, así como los proyectos de investigación operativa que propongan las unidades de atención médica en materia de calidad;
+
+V.- Propiciar el reconocimiento al desempeño laboral, vinculándose con las áreas requeridas para la difusión de los programas de calidad, rindiendo cuentas al Director General a este respecto, pudiendo suscribir convenios con otras dependencias en materia de calidad, previo análisis por parte del Departamento de Asuntos Jurídicos; y
+
+VI.- Las demás que le señalen otras disposiciones legales o le confiera el Director General, así como las que competen a las Unidades Administrativas de su adscripción.
+
 ###### ARTICULO 23.
 
 Corresponde a la Dirección de Servicios de Salud:
@@ -365,7 +411,9 @@ I.- Programar, organizar, dirigir y evaluar los servicios de salud a población 
 
 II.- Coordinar el desarrollo y funcionamiento de las Jurisdicciones Sanitarias en el Estado;
 
-III.- Participar en el ámbito de su competencia en la definición y desarrollo del Programa de Investigación en Salud;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+III.- Participar en el ámbito de su competencia en la definición y desarrollo de la Coordinación de Investigación en Salud, así como dirigir, coordinar y evaluar su desempeño;
 
 IV.- Proporcionar la información, los datos o la cooperación técnica que le sea requerida por las unidades administrativas del Instituto de Salud y por otras dependencias y entidades de la Administración Publica Federal y Estatal, de conformidad con las políticas establecidas a este respecto;
 
@@ -373,7 +421,13 @@ V.- Coordinar el Sistema de Vigilancia Epidemiológica en el Estado;
 
 VI.- Coordinar y evaluar los programas de enseñaza y capacitación en el Organismo;
 
-VII.- las (sic) demás que le señalen otras disposiciones legales o le confiera el Director General, así como las que competen a las unidades administrativas que se le adscriben.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+VII.- Coordinar y evaluar el desempeño del Departamento de Enfermería; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+VIII.- Las demás que le señalen otras disposiciones legales o le confiera el Director General, así como las que competen a las unidades administrativas que se le adscriben.
 
 ###### ARTICULO 24.
 
@@ -459,6 +513,28 @@ XIII.- Normar, dirigir y asesorar en la elaboración de manuales de organizació
 
 XIV.- Las demás que señalen otras disposiciones legales o le confiera el Director General, así como las que competen a las unidades administrativas que se le adscriben.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 25 BIS.- Corresponde a la Dirección del Régimen Estatal de Protección Social en Salud:
+
+I.- Dirigir, coordinar y representar al Régimen Estatal de Protección Social en Salud;
+
+II.- Coordinar la planeación y desarrollo de las acciones de promoción, registro y afiliación de familias y personas al Sistema de Protección Social en Salud, así como la administración del padrón de asegurados;
+
+III.- Garantizar que la Red de Proveedores del Seguro Popular de Salud, otorguen la mejor atención médica a todos los afiliados al Sistema de Protección Social en Salud, ofreciendo atención personalizada con el fin de cubrir sus necesidades en base a sus derechos y obligaciones;
+
+IV.- Optimizar los recursos financieros para lograr una estructura eficiente que permita mejorar los procesos administrativos del Régimen Estatal de Protección Social en Salud;
+
+V.- Evaluar los procesos inherentes al Sistema de Protección Social en Salud;
+
+VI.- Informar de manera regular y permanente acerca de las acciones y actividades del Sistema de Protección Social en la Entidad;
+
+VII.- Impulsar el desarrollo de estudios de investigación acerca de las acciones y procesos del sistema de Protección Social en Salud;
+
+VIII.- Acordar con el Director General los asuntos de su competencia y realizar las actividades que le asigne; y
+
+IX.- Las demás que le señalen otras disposiciones legales o le confiera el Director General, así como las que competen a las unidades administrativas que se le adscriben.
+
 ###### ARTICULO 26.
 
 Corresponde a la Subdirección de Auditoría Médica:
@@ -479,7 +555,9 @@ VII.- Asesorar y vigilar el establecimiento de mecanismos para la adquisición, 
 
 VIII.- Las demás que señalen otras disposiciones legales o le confiera el Director General, así como las que competen a las unidades administrativas que se le adscriben.
 
-### CAPITULO VII. De los Organismos Administrativos Desconcentrados
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO VII. De los Organos Administrativos Desconcentrados
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -556,6 +634,34 @@ XXVII.- Aplicar las medidas de seguridad y las sanciones que procedan, así como
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2006)</small>
 
 XXVIII.- Las demás que señalen otras disposiciones legales o le confiera el Director General, así como las que competen a las Unidades Administrativas que se le adscriben.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 27 BIS.- Los Directores de los hospitales y clínicas tendrán las facultades y atribuciones siguientes:
+
+I.- Planear, programar, organizar, dirigir, supervisar y evaluar todas las actividades médico-preventivas, médico-asistenciales, de rehabilitación, de enseñanza y capacitación que se realicen en la Unidad a su cargo;
+
+II.- Coordinar y realizar las actividades que demanden las autoridades superiores del Instituto de Salud del Estado de Aguascalientes;
+
+III.- Vigilar el uso adecuado de los recursos con que cuenta la Unidad para su operación;
+
+IV.- Propiciar, supervisar y coordinar el adecuado cumplimiento de las obligaciones y responsabilidades del personal a su cargo;
+
+V.- Acordar con el Subdirector Médico;
+
+VI.- Supervisar, coordinar y evaluar las actividades de las Jefaturas de Servicios Médicos para garantizar una atención médica adecuada, supervisando el uso racional de los recursos;
+
+VII.- Supervisar, acordar y coordinar las actividades de la Jefatura de Enfermería;
+
+VIII.- Supervisar las actividades de capacitación e investigación de la Jefatura de Enseñanza;
+
+IX.- Supervisar, coordinar y asesorar al Departamento de Informática;
+
+X.- Planear, organizar y supervisar al Director Administrativo lo referente a los recursos humanos, financieros y tecnológicos;
+
+XI.- Acordar con el Director de Servicios de Salud; y
+
+XII.- Las demás que le señalen otras disposiciones legales o le confiera el Director General.
 
 ### CAPITULO VIII. De las Unidades Sectorizadas al Organismo
 
@@ -704,5 +810,9 @@ Aprobado en la ciudad de Aguascalientes, Ags., a los 22 días del mes de octubre
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 14 DE AGOSTO DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 11 DE DICIEMBRE DE 2006.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
