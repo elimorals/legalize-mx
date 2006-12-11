@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2006-12-08"
+last_updated: "2006-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5951,7 +5951,9 @@ Para los efectos del presente Capítulo se consideran como bebidas alcohólicas 
 
 La venta de bebidas alcohólicas sólo podrá realizarse en los tipos de establecimientos que señale el presente Código Reglamentario.
 
-Los establecimientos a que se refieren las fracciones I, II, III, VIII, XV y XVIII del artículo 611 del presente Código que menciona los tipos de establecimientos, no están autorizados para permitir el consumo de bebidas alcohólicas dentro de los mismos; por lo que el consumo de éstas sólo podrá realizarse en los locales o áreas en que operan los establecimientos que señale este Capítulo en las fracciones IV, V, VI, VII, IX, X, XI, XII, XIII, XIV, XVI, XVII y XIX del citado artículo.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+Los establecimientos a que se refieren las fracciones I, II, VII, XII, XV y XVI del artículo 611 del presente Código que menciona los tipos de establecimientos, no están autorizados para permitir el consumo de bebidas alcohólicas dentro de los mismos; por lo que el consumo de éstas sólo podrá realizarse en los locales o áreas en que operan los establecimientos que señale este Capítulo en las fracciones III, IV, V, VI, VIII, IX, X, XI, XIII, XIV, XVII y XIX del citado artículo.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -6117,49 +6119,93 @@ DE LOS ESTABLECIMIENTOS
 
 Son sujetos del presente Capítulo, los siguientes establecimientos:
 
-I. MISCELÁNEA O ULTRAMARINOS CON VENTA DE CERVEZA EN BOTELLA CERRADA. Establecimiento mercantil cuya actividad preponderante es la venta de abarrotes y productos populares y que cuenta con autorización para expender cerveza en botella cerrada;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-II. MISCELANEA O ULTRAMARINOS CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. Establecimiento mercantil cuya actividad preponderante es la venta de abarrotes y productos populares y que cuenta con autorización para expender bebidas alcohólicas en botella cerrada;
+I. MISCELÁNEA O ULTRAMARINOS CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UNA GRADUACIÓN ALCOHÓLICA DE 6° GL EN ENVASE CERRADO. Establecimiento mercantil cuya actividad preponderante es la venta de abarrotes y productos populares y que cuenta con autorización para expender cerveza y bebidas refrescantes con una graduación alcohólica de 6° GL en envase cerrado.
 
-III. DEPÓSITO DE CERVEZA. Establecimiento mercantil en que se expende cerveza u otras bebidas alcohólicas que no excedan de 6° GL en envase cerrado;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-IV. CERVECERÍA. Establecimiento mercantil que sin vender otras bebidas alcohólicas, expende cerveza en botella abierta;
+II. MISCELÁNEA O ULTRAMARINOS CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. Establecimiento mercantil cuya actividad preponderante es la venta de abarrotes y productos populares y que cuenta con autorización para expender bebidas alcohólicas en botella cerrada.
 
-V. ALIMENTOS CON VENTA DE CERVEZA. Establecimiento mercantil cuya actividad preponderante es la transformación y venta de alimentos, y que en forma accesoria puede expender con los alimentos, bebidas alcohólicas que no excedan de 6° GL;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-VI. BAÑOS PÚBLICOS CON VENTA DE CERVEZA. Establecimiento mercantil que ofrece servicio de baños públicos y que cuenta con autorización para expender cerveza en botella abierta;
+III. DEPÓSITO DE CERVEZA. Establecimiento mercantil en que se expende cerveza u otras bebidas alcohólicas que no excedan de 6° GL en envase cerrado.
 
-VII. PULQUERÍA. Establecimiento mercantil que se dedica exclusivamente a la venta de pulque al natural o en cualquiera de sus combinaciones y presentaciones;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-VIII. VINATERÍA. Establecimiento mercantil cuya actividad preponderante es la venta de bebidas alcohólicas en botella cerrada, y que de manera accesoria puede vender ultramarinos;
+IV. BODEGA DE ABARROTES Y BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. Local autorizado para almacenar bebidas alcohólicas y realizar la venta de las mismas al mayoreo, considerándose como tal cuando la venta a un solo comprador consista un (sic) una caja o más.
 
-IX. RESTAURANTE CON VENTA DE BEBIDAS ALCOHOLICAS. Establecimiento mercantil cuya actividad preponderante es la transformación y venta de alimentos, y que en forma accesoria puede expender bebidas alcohólicas con alimentos;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-X. CANTINA. Establecimiento mercantil donde se expenden bebidas alcohólicas;
+V. BAÑOS PÚBLICOS CON VENTA DE CERVEZA EN BOTELLA ABIERTA. Establecimiento mercantil que ofrece servicio de baños públicos y que cuenta con autorización para expender cerveza en botella abierta.
 
-XI. BAR. Establecimiento mercantil que de manera independiente o formando parte de otro giro vende bebidas alcohólicas, pudiendo de manera complementaria presentar música en vivo, grabada o videograbada y opcionalmente pista de baile;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-XII. RESTAURANTE BAR. Establecimiento mercantil que además de tener como actividad preponderante la transformación y venta de alimentos, tiene servicio de bar, pudiendo presentar opcionalmente, música en vivo, grabada o videograbada, o pista para bailar, así como algún espectáculo o variedad, acorde al giro preponderante del establecimiento, en términos de lo establecido por el Capítulo de espectáculos de este Código Reglamentario;
+VI. BILLARES CON VENTA DE CERVEZA EN BOTELLA ABIERTA. Establecimiento mercantil cuya actividad preponderante es la renta de mesas de billar y en forma accesoria, cuenta con la autorización para expender cerveza en botella abierta.
 
-XIII. HOTEL Y MOTEL CON SERVICIO DE RESTAURANTE BAR. Establecimiento mercantil que además de tener como actividad preponderante el proporcionar hospedaje, cuenta con servicio de restaurante bar;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-XIV. SALÓN SOCIAL. Establecimiento mercantil cuya actividad preponderante es la renta para cualquier evento y que cuenta con pista para bailar e instalaciones para presentación de espectáculos o variedades, orquesta, conjunto musical, música grabada o videograbada y tiene servicio de restaurante. Queda estrictamente prohibido en este tipo de establecimientos, la venta al público en general de bebidas alcohólicas, salvo cuando presenten espectáculos autorizados por el Ayuntamiento, de conformidad con las disposiciones señaladas en el Capítulo de Espectáculos de este Código Reglamentario;
+VII. PULQUERÍA. Establecimiento mercantil que se dedica exclusivamente a la venta de pulque al natural o en cualquiera de sus combinaciones y presentaciones.
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-XV. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA LAS 24 HORAS. Establecimiento mercantil que además de contar con diferentes departamentos, expende bebidas alcohólicas en botella cerrada las 24 horas;
+VIII. VINATERÍA. Establecimiento mercantil cuya actividad preponderante es la venta de bebidas alcohólicas en botella cerrada, y que de manera accesoria puede vender ultramarinos.
 
-XVI. DISCOTECA. Establecimiento mercantil que cuenta con pista para bailar con música en vivo, grabada o videograbada, y cuenta además con servicio de bar y opcionalmente restaurante;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-XVII. CABARET. Establecimiento mercantil que presenta espectáculos o variedades con música en vivo, grabada o videograbada de acuerdo con las prescripciones del Capítulo de Espectáculos de este Código Reglamentario, así como pista de baile, servicio de bar y opcionalmente de restaurante;
+IX. BOLICHE CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UNA GRADUACIÓN ALCOHÓLICA DE 6° GL EN ENVASE ABIERTO. Establecimiento mercantil cuya actividad preponderante es la renta de pista para jugar boliche y en forma accesoria, cuenta con la autorización para expender cerveza y bebidas refrescantes con una graduación alcohólica de 6° GL en envase abierto.
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-XVIII. VINATERIAS CON SERVICIO HASTA LAS 2:00 HRS. Establecimiento mercantil cuya actividad preponderante es la venta de bebidas alcohólicas en botella cerrada y que de manera accesoria puede vender ultramarinos, con servicio hasta las 2:00 Hrs.;
+X. CENTRO BOTANERO. Establecimiento mercantil en el que se consume cerveza y se ofrece a los asistentes botanas como acompañamiento, las cuales reúnen las condiciones mínimas de seguridad e higiene que determine el Sector Salud, y que no se tenga desde la vía pública apreciación directa del interior del establecimiento.
 
-XIX. BILLARES Y/O BOLICHE CON VENTA DE CERVEZA EN BOTELLA ABIERTA.- Establecimiento mercantil cuya actividad preponderante es la renta de mesas de billar o pista para jugar boliche y, en forma accesoria, cuenta con la autorización para expender cerveza en botella abierta;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-XX. OTROS ESTABLECIMIENTOS. Cualquier otro establecimiento mercantil que implique proceso, almacenamiento o expendio de bebidas alcohólicas en botella cerrada o abierta no incluidos en los anteriores, indistintamente de la denominación que se les dé.
+XI. RESTAURANTE BAR. Establecimiento mercantil que además de tener como actividad preponderante la transformación y venta de alimentos, tiene servicio de bar, pudiendo presentar opcionalmente, música en vivo, grabada o videograbada, o pista para bailar, así como algún espectáculo o variedad, acorde al giro preponderante del establecimiento, en términos de lo establecido por el Capítulo 12 denominado "Espectáculos Públicos" del presente Código, y debiendo contar con:
+
+a) Área de cocina en un espacio de acuerdo al número de mesas que solicitó en su uso de suelo;
+
+b) Utensilios necesarios para el número de mesas que solicitó (loza plaqué y equipo);
+
+c) Personal dispuesto para el servicio de la cocina;
+
+d) Comandas que demuestren que los comensales han tenido consumo de alimentos; y
+
+e) Carta de alimentos con tres tiempos como mínimo, que deberá coincidir con los alimentos que se preparen en la cocina.
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+XII. SALÓN SOCIAL. Establecimiento mercantil cuya actividad preponderante es la renta para cualquier evento y cuente con pista de baile e instalaciones para presentar de (sic) espectáculos o variedades, orquesta, conjunto musical, música grabada o videograbada y cuente con servicio de restaurante. Queda estrictamente prohibido en este tipo de establecimientos, la venta al público en general de bebidas alcohólicas, salvo cuando presenten espectáculos autorizados por el Ayuntamiento, de conformidad con las disposiciones señaladas en el Capítulo 12 denominado "Espectáculos Públicos" del presente Código.
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+XIII. HOTEL, MOTEL, AUTO HOTEL Y HOSTAL CON SERVICIO DE RESTAURANTE BAR. Establecimiento mercantil que además de tener como actividad preponderante el proporcionar hospedaje, cuenta con servicio de restaurante bar.
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+XIV. CLUBES DE SERVICIO, SOCIALES Y/O DEPORTIVOS. Local destinado a dar servicio en forma exclusiva a socios e invitados, asociaciones civiles, centros cívicos, clubes de servicio o agrupaciones que tengan finalidades mutualistas, altruistas, recreativas o de cualquier otra naturaleza, que podrán contar con salón de baile y venta de bebidas alcohólicas, siempre y cuando cuenten con las licencias que para tal efecto se requieran.
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+XV. DESTILACIÓN, ENVASADORA Y BODEGA DE BEBIDAS ALCOHÓLICAS. Establecimiento mercantil en el que se fabrica, envasa y almacena bebidas alcohólicas.
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+XVI. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. Establecimiento mercantil que además de contar con diferentes departamentos, expende bebidas alcohólicas en botella cerrada.
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+XVII. BAR. Establecimiento mercantil que de manera independiente o formando parte de otro giro venda bebidas alcohólicas, pudiendo de manera complementaria presentar música en vivo, grabada o videograbada.
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+XVIII. DISCOTECA. Establecimiento mercantil que cuenta con pista de baile con música en vivo, grabada o videograbada, y cuente además con servicio de bar y opcionalmente restaurante.
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+XIX. CABARET. Establecimiento mercantil que presenta espectáculos o representaciones artísticas exclusivamente para adultos con música en vivo, grabada o videograbada de acuerdo a las prescripciones del Capítulo 12 denominado "Espectáculos Públicos" del presente Código, y cuente con pista de baile, servicio de bar y opcionalmente restaurante.
+
+XX. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
 
 DEL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
 
@@ -6175,9 +6221,9 @@ III. Cumplir con todos los requisitos establecidos por el Código Fiscal y Presu
 
 IV. Que la Licencia sea explotada por la persona física o moral a favor de quien se expidió la misma;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-V. Estar a una distancia mayor de 200 metros de centros educativos, salvo el establecimiento señalado en la fracción XIV del artículo 611 del presente Código;
+V. Estar a una distancia mayor de 200 metros de centros educativos, salvo el establecimiento señalado en la fracción XI del artículo 611 del presente Código;
 
 VI. En los lugares considerados en los programas de desarrollo urbano sectoriales o parciales, se tomará en cuenta la zonificación prevista en ellos;
 
@@ -6225,9 +6271,11 @@ e) Pago de derecho (sic) que procedan, conforme a lo establecido en la Ley de In
 
 La Tesorería Municipal a través del Departamento de Registro y Fiscalización entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 613.
 
-Los establecimientos que vendan o enajenen bebidas alcohólicas y que formen parte de los establecimientos señalados en las fracciones IX, XII y XIII del artículo 611, así como de centros deportivos, balnearios y establecimientos similares, deberán delimitar claramente el espacio destinado a ello, precisándolo en la solicitud de la licencia de funcionamiento respectiva.
+Los establecimientos que vendan o enajenen bebidas alcohólicas y que formen parte de los establecimientos señalados en las fracciones VIII, X y XVII del artículo 611, así como establecimientos similares, deberán delimitar claramente el espacio destinado a ello, precisándolo en la solicitud de la licencia de funcionamiento respectiva.
 
 DE LAS OBLIGACIONES Y PROHIBICIONES DE LOS TITULARES DE LAS LICENCIAS
 
@@ -6257,7 +6305,9 @@ VIII. Anunciar en un lugar visible al público, el horario dentro del cual, el e
 
 IX. Colocar en un lugar visible del establecimiento la prohibición establecida en las fracciones VI y VII del artículo 615 del presente Código;
 
-X. Solicitar al cliente que consuma bebidas alcohólicas en los establecimientos señalados en las fracciones IV, VII, X, XI, XII, XVI, XVII y XIX del artículo 611, que exhiba la identificación donde demuestre claramente que es mayor de edad, debiendo ser: credencial de elector o en su defecto, pasaporte vigente o Cartilla del Servicio Militar Nacional;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+X. Solicitar al cliente que consuma bebidas alcohólicas en los establecimientos señalados en las fracciones III, IV, V, VI, VIII, IX, X, XIlI, XIV y XVII del artículo 611, que exhiba la identificación donde demuestre claramente que es mayor de edad, debiendo ser: credencial de elector o en su defecto, pasaporte vigente o Cartilla del Servicio Militar Nacional;
 
 XI. Notificar oportunamente a la autoridad competente, de cualquier escándalo o riña que se registre en el interior o exterior de su local;
 
@@ -6289,7 +6339,9 @@ V. Vender, enajenar o permitir el consumo de bebidas alcohólicas dentro de los 
 
 VI. La venta, enajenación consumo u obsequio de bebidas alcohólicas a menores de edad, personas armadas, uniformados de las fuerzas armadas o de cuerpos de seguridad pública o privada, a personas que se encuentren privadas de sus facultades mentales, en evidente estado de ebriedad o bajo el influjo de alguna droga enervante, estupefacientes o inhalantes;
 
-VII. Permitir la entrada de menores de edad a los establecimientos señalados en las fracciones IV, VII, X, XI y XVII del artículo que enumera a los establecimientos para efectos de este Capítulo, así como a cualquiera de los establecimientos a que se refiere este Capítulo, si se encuentran en estado de embriaguez o bajo el efecto de enervantes, estupefacientes o psicotrópicos;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+VII. Permitir la entrada de menores de edad a los establecimientos señalados en las fracciones V, VI, IX, XIII y XIV del artículo que enumera a los establecimientos para efectos de este Capítulo, así como a cualquiera de los establecimientos a que se refiere este Capítulo, si se encuentran en estado de embriaguez o bajo el efecto de enervantes, estupefacientes o psicotrópicos;
 
 VIII. La venta o enajenación de bebidas alcohólicas por menores de edad, así como permitir a éstos el consumo de las mismas, en los lugares o establecimientos a que hace referencia este Capítulo;
 
@@ -6299,9 +6351,15 @@ X. Permitir los juegos de azar y juegos de apuestas dentro del establecimiento, 
 
 XI. La venta o enajenación de bebidas alcohólicas en la vía pública; preparar para comercializar y consumir, fuera del establecimiento, bebidas alcohólicas. En general permitir que se consuman en el exterior del establecimiento o en su estacionamiento, las bebidas reguladas por este ordenamiento;
 
-XII. Permitir que las emisiones de contaminación por ruido generadas dentro del establecimiento rebasen en el exterior del mismo, los límites máximos contenidos en las Normas Oficiales Mexicanas aplicables, y
+XII. Permitir que las emisiones de contaminación por ruido generadas dentro del establecimiento rebasen en el exterior del mismo, los límites máximos contenidos en las Normas Oficiales Mexicanas aplicables, y (sic)
 
-XIII. Las demás que se establecen o se desprenden de las disposiciones de este Capítulo y de la legislación vigente aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+XIII. Queda prohibida la venta o consumo de bebidas alcohólicas en botellas y vasos de vidrio o cualquier material que pueda utilizarse como un artefacto punzo cortante en los establecimientos señalados en las fracciones III, IV, V, VI, IX, XIII, XIV, XVII, XVIII y XIX del artículo 611 del presente Código.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+XIV. Las demás que se establecen o se desprenden de las disposiciones de este Capítulo y de la legislación vigente aplicable.
 
 DE LOS HORARIOS AUTORIZADOS
 
@@ -6311,83 +6369,83 @@ DE LOS HORARIOS AUTORIZADOS
 
 En los establecimientos referidos en el presente artículo, podrán vender, enajenar o consumir bebidas alcohólicas dentro del siguiente horario:
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-I. MISCELÁNEA O ULTRAMARINOS CON VENTA DE CERVEZA EN BOTELLA CERRADA. De la 06:00 a las 24:00 horas;
+l. MISCELÁNEA O ULTRAMARINOS CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UNA GRADUACIÓN ALCOHÓLICA DE 6º GL EN ENVASE CERRADO. De las 06:00 a las 24:00 horas;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-II. MISCELÁNEA O ULTRAMARINOS CON VENTA DE BEBIDAS ALCOHOLICAS EN BOTELLA CERRADA. De las 06:00 a las 24:00 horas;
+II. MISCELÁNEA 0 ULTRAMARINOS CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. De las 06:00 a las 24:00 horas;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
 III. DEPÓSITO DE CERVEZA. De las 06:00 a las 24:00 horas;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-IV. CERVECERÍA. De las 12:00 a las 24:00 horas;
+IV. BODEGA DE ABARROTES Y BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. De las 6:00 a las 19:00 horas;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
 V. BAÑOS PÚBLICOS CON VENTA DE CERVEZA. De las 06:00 a las 20:00 horas;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
 VI. PULQUERÍA. De las 07:00 a las 19:00 horas;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-VII. VINATERÍA. De las 06:00 a las 24:00 horas, y
+VII. VINATERÍA. De las 06:00 a las 24:00 horas;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-VIII. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. De las 06:00 a las 24:00 horas.
+VIII. CENTRO BOTANERO. De las 13:00a las 22:00 horas; y
 
-IX. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-X. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
-
-XI. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
-
-XII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
-
-XIII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
-
-XIV. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
-
-XV. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
-
-XVI. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
-
-XVII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
-
-XVIII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+IX. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. De las 06:00 a las 24:00 horas.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2005)</small>
 
 Artículo 616 bis.- En los comercios señalados en el presente artículo queda estrictamente prohibida la venta de bebidas alcohólicas e ingreso de clientes a partir de las 2:00Hrs.
 
-I. LAS CANTINAS;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-II. LOS BARES;
+I. BILLARES CON VENTA DE CERVEZA EN BOTELLA ABIERTA;
 
-III. LOS RESTAURANTES-BAR;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-IV. LOS COMERCIOS DE ALIMENTOS CON VENTA DE CERVEZA;
+II. BOLICHE CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UNA GRADUAClÓN ALCOHÓLlCA DE 6º GL EN ENVASE ABIERTO;
 
-V. LOS CENTROS NOCTURNOS;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-VI. LOS VIDEOBARES;
+III. SALÓN SOCIAL;
 
-VII. LAS DISCOTECAS;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-VIII. LOS CABARETS
+IV. CLUBES DE SERVICIO, SOCIALES Y/O DEPORTIVOS;
 
-IX. LOS SALONES SOCIALES, Y
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-X. LOS BILLARES Y/O BOLICHE
+V. RESTAURANTE BAR;
 
-XI. Cualquier otro establecimiento con venta de bebidas alcohólicas al público, diversas de las señaladas en el artículo 616 del presente Código.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+VI. BAR;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+VII. DISCOTECA; y
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+VIII. CABARET;
+
+IX. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
+
+X. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
+
+XI. (DERO0GADA, P.O. 11 DE DICIEMBRE DE 2006)
 
 Dichos comercios podrán permitir que sus clientes permanezcan hasta las 3:00 Hrs., sin venta de bebidas alcohólicas, hora en la que cerrarán sus comercios, quedando estrictamente prohibida la permanencia de clientes en el interior de los mismos.
 
@@ -6438,6 +6496,14 @@ La base para cuantificar la multa será el salario mínimo general diario vigent
 ###### Artículo 623.
 
 Para los efectos de este Capítulo, será considerado como reincidente aquel establecimiento que cometa dos o más infracciones a este Capítulo.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+
+Artículo 623 bis.- En caso de reincidencia a las violaciones establecidas en el presente Capítulo, se aplicarán las siguientes sanciones:
+
+I. Por segunda infracción: Clausura temporal de uno a treinta días, dependiendo de la gravedad de la violación al presente Capítulo; y
+
+II. Por tercera infracción: Clausura definitiva del establecimiento, cancelación de la licencia de funcionamiento y multa en términos de la fracción I del artículo 617 del presente Código.
 
 ###### Artículo 624.
 
@@ -10479,7 +10545,7 @@ Queda prohibido al Organismo Operador de los Servicios de Agua Potable y Alcanta
 
 ###### Artículo 909.
 
-El Organismo Operador de los Servicios de Agua Potable y Alcantarillado que corresponda, aprobará toda obra de drenaje y alcantarillado si llena las condiciones que se establecen en este capítulo.
+El Organismo Operador de los Servicios de Agua Potable y Alcantarillado que corresponda, aprobará toda obra de drenaje y alcantarillado si llena las condiciones que se establecen en este capitulo.
 
 ###### Artículo 910.
 
@@ -11759,7 +11825,7 @@ I. Fuerzas cortantes.- Para calcular las fuerzas cortantes a diferentes niveles 
 
 Esta expresión no se aplica directamente en edificios apéndices. En este caso de deberá emplear textualmente el párrafo anterior, en combinación con lo especificado en la fracción IV, de este artículo.
 
-Pi = Wihi (i Wi/c Q;c/Q>a)
+Pi= Wihi (i Wi/c Q;c/Q>a)
 
 Donde:
 
@@ -11799,7 +11865,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1-r(1-q)W ¡
+a¡ = (1-r(1-q)W¡)
 
 W¡h¡
 
@@ -11961,7 +12027,7 @@ Wi = Peso del nivel i
 
 Xi = Amplitud del desplazamiento modal en nivel i
 
-hi =Altura del nivel i sobre el desplante.
+hi = Altura del nivel i sobre el desplante.
 
 I. Análisis estático
 
@@ -11971,7 +12037,7 @@ V = a/Qw-(a/Q - a/Q)We
 
 Donde:
 
-W = Peso del nivel i
+W =Peso del nivel i
 
 We = Peso efectivo de la estructura el cual se tomará como 0.7 W, excepto para estructuras en que su peso está concentrado en un solo nivel donde se tomará igual a W.
 
@@ -12903,7 +12969,7 @@ VII. Salidas, rampas, pasillos y escaleras.
 
 ###### Artículo 1108.
 
-La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de “Informe de autorización” expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
+La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de "Informe de autorización" expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
 
 ###### Artículo 1109.
 
@@ -14439,9 +14505,13 @@ e) No se autoriza la ocupación de espacios públicos como parques, plazas, plaz
 
 DE LA VIALIDAD, TRANSPORTE, TRÁNSITO Y SEGURIDAD VIAL
 
-Artículo 1214 Las normas constituidas en el presente apartado, están referidas a los aspectos de vialidad, transporte y tránsito, para mejorar la circulación de personas y vehículos, así como la seguridad de usuarios y peatones, planteando posibles soluciones viales para asegurar la recuperación, actualización e integración de la Zona de Monumentos con el resto de la ciudad, mediante programas con las autoridades de vialidad, tránsito y transporte.
+###### Artículo 1214.
 
-Artículo 1215 El programa vial vigente deberá ser actualizado periódicamente, logrando solucionar así las fallas y carencias que presenta, en correspondencia con la ciudad histórica, para tal efecto, se promoverá la semaforización sincronizada de las vías en la zona y la instalación de semáforos peatonales donde sea necesario.
+Las normas constituidas en el presente apartado, están referidas a los aspectos de vialidad, transporte y tránsito, para mejorar la circulación de personas y vehículos, así como la seguridad de usuarios y peatones, planteando posibles soluciones viales para asegurar la recuperación, actualización e integración de la Zona de Monumentos con el resto de la ciudad, mediante programas con las autoridades de vialidad, tránsito y transporte.
+
+###### Artículo 1215.
+
+El programa vial vigente deberá ser actualizado periódicamente, logrando solucionar así las fallas y carencias que presenta, en correspondencia con la ciudad histórica, para tal efecto, se promoverá la semaforización sincronizada de las vías en la zona y la instalación de semáforos peatonales donde sea necesario.
 
 Las propuestas de planeación de la vialidad y transporte en la Zona, mismas que serán remitidas a la autoridad estatal competente para su examen e implementación, estarán sujetas a los siguientes principios:
 
@@ -14465,7 +14535,9 @@ IX. No se autorizará el estacionamiento en espacios abiertos de la Zona, tales 
 
 X. Se promoverá la conservación de la Zona mediante la realización de estudios regionales respecto al impacto que las instalaciones, establecimientos y demás construcciones provoquen sobre la vialidad y estacionamientos en esta área urbana.
 
-Artículo 1216 Con relación al transporte público en la zona, se aplicarán los siguientes lineamientos, sin detrimento de la competencia estatal y en ejercicio de la facultad municipal de intervenir en la formulación y aplicación de programas de transporte público:
+###### Artículo 1216.
+
+Con relación al transporte público en la zona, se aplicarán los siguientes lineamientos, sin detrimento de la competencia estatal y en ejercicio de la facultad municipal de intervenir en la formulación y aplicación de programas de transporte público:
 
 a) Se promoverá el mejoramiento y calidad del transporte público.
 
@@ -26748,3 +26820,9 @@ SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento para que realice 
 TERCERO.- El Secretario Ejecutivo del Consejo de Participación Ciudadana emitirá las fechas de recepción de los documentos por parte de los aspirantes a Consejeros Ciudadanos.
 
 CUARTO.- La expedición de la acreditación a los Consejeros Ciudadanos deberá estar debidamente fundada y motivada.
+
+P.O. 11 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Dictamen entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contrapongan al presente Dictamen.
