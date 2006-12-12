@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-acceso-a-la-informacion-34828"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-04"
-last_updated: "2003-11-04"
+last_updated: "2006-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 4 de noviembre de 2003.
 
@@ -575,11 +575,15 @@ LA AUSENCIA DEFINITIVA. Se considerará ausencia definitiva, la inasistencia con
 
 #### SECCIÓN SEGUNDA. LA PRESIDENCIA DEL CONSEJO GENERAL
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 49.
 
-EL PRESIDENTE DEL INSTITUTO. Los consejeros nombrarán por voto secreto y por mayoría de votos al Presidente del Consejo General, que lo será también del Instituto durante todo el tiempo que dure su encargo como consejero. Sólo en el caso de ausencia definitiva del Presidente, los consejeros nombrarán de nueva cuenta y de entre ellos mismos, a quien deba sustituirlo. En este último caso, el Consejero Presidente durará en su encargo el tiempo que reste de su período como consejero.
+EL PRESIDENTE DEL INSTITUTO. Los consejeros nombrarán por voto secreto y por mayoría de votos al Presidente del Consejo General, que lo será también del Instituto por el periodo de dos años, pudiendo ser ratificado por un periodo igual o en su caso, durante todo el tiempo reste de su periodo como consejero, en caso de ser menor a dos años.
 
-La designación del consejero presidente se comunicará de inmediato al Congreso del Estado para su conocimiento y a los demás poderes y organismos públicos autónomos.
+En caso de ausencia definitiva del Presidente, los consejeros nombrarán de nueva cuenta y de entre ellos mismos, a quien deba sustituirlo. Para la duración del encargo, se estará a lo previsto en el párrafo anterior.
+
+La designación del Consejero Presidente se comunicará de inmediato para su conocimiento a los Poderes del Estado y a los organismos públicos autónomos.
 
 ###### ARTÍCULO 50.
 
@@ -912,3 +916,11 @@ SECRETARIA DE LA CONTRALORÍA Y MODERNIZACIÓN ADMINISTRATIVA.
 EL SECRETARIO DE FINANZAS.
 
 LIC. JAVIER GUERRERO GARCIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
