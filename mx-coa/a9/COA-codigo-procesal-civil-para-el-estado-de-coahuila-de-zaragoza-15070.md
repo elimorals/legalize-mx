@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2006-09-22"
+last_updated: "2006-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -11323,6 +11323,14 @@ I. Ante la autoridad judicial, cualquiera que sea el caso.
 
 II. Extrajudicialmente ante notario, en los casos en que la ley lo autorice.
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+El Juez competente o el Notario Público que inicie un procedimiento sucesorio, de oficio recabará del Registro Público y de la Dirección de Notarías, un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+La Dirección de Notarías una vez que reciba la solicitud del informe, pedirá por vía electrónica al Registro Nacional de Avisos de Testamento el informe nacional sobre la existencia o inexistencia de alguna disposición testamentaria.
+
 ###### ARTÍCULO 1046.
 
 Denuncia del juicio sucesorio.
@@ -13146,3 +13154,9 @@ SEGUNDO. Los artículos del Código Civil y del Código Procesal Civil en los qu
 P.O. 22 DE SEPTIEMBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al siguiente día en que se publique en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+P.O. 12 DE DICIEMBRE DE 2006.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
