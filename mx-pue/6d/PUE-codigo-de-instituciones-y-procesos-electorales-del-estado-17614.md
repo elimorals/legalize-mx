@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2004-02-16"
+last_updated: "2006-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "PUE"
 ---
 # CODIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
+CODIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2003.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE FEBRERO DE 2004.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -881,9 +879,13 @@ En todos los casos, el financiamiento público será entregado al Presidente del
 
 El financiamiento privado son las aportaciones de recursos económicos o en especie que no provienen del erario público y que los partidos políticos perciben de sus militantes, de simpatizantes o por sus propios medios, para el desarrollo, promoción y fortalecimiento de sus actividades, el que se sujetará a las modalidades y limitaciones siguientes:
 
-I.- Financiamiento por sus militantes, el cual se conformará por las cuotas y aportaciones ordinarias y extraordinarias de sus afiliados, por las aportaciones de sus organizaciones sociales o por las cuotas voluntarias y personales que los candidatos aporten para sus campañas; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
-II.- Financiamiento procedente de simpatizantes, que se conformará por las cuotas y aportaciones o donativos que en dinero o en especie y por voluntad propia, hagan a los partidos políticos las personas físicas o morales mexicanas con residencia en el país.
+I.- Financiamiento por sus militantes, el cual se conformará por las cuotas y aportaciones ordinarias y extraordinarias de sus afiliados por las aportaciones de sus organizaciones sociales o por las cuotas voluntarias y personales que lo aspirantes a candidatos o candidatos a cargos de elección popular aporten para sus precampañas o campañas, respectivamente;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+II.- Financiamiento procedente de simpatizantes, que se conformará por las cuotas y aportaciones o donativos que en dinero o en especie y por voluntad propia, hagan a los partidos políticos las personas físicas o morales mexicanas con domicilio en el país; las personas morales deberán estar legalmente constituidas y cumplir con sus obligaciones fiscales.
 
 El financiamiento privado a que se refieren las fracciones I y II de este artículo, se sujetará a las reglas siguientes:
 
@@ -935,17 +937,19 @@ Igualmente queda prohibido a los partidos políticos contratar créditos de la B
 
 ### CAPÍTULO V. DE LA REVISIÓN Y VIGILANCIA DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 51.
 
-Los partidos políticos deberán contar con un órgano interno encargado de la administración de los recursos que por concepto de financiamiento reciban, así como de la presentación de los informes justificatorios de su aplicación, de conformidad a las modalidades que al efecto determine el Consejo General.
+Los partidos políticos deberán contar con un órgano interno encargado de la administración de los recursos con que cuenten, que obtengan por cualquier modalidad de financiamiento reconocido en el Código, así como de la presentación de los informes justificatorios de conformidad a las modalidades que establezca la normatividad aplicable para la fiscalización del financiamiento a los partidos políticos.
 
 Dicho órgano se constituirá en los términos, características y modalidades que cada partido político determine según sus estatutos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 52.
 
-El Consejo General acordará el nombramiento de una Comisión Revisora de la aplicación de los regímenes de financiamiento de los partidos políticos previstos por este Código, con facultades para auditar, fiscalizar y requerir a los propios partidos políticos, los informes justificatorios con el sustento documental correspondiente, así como las aclaraciones, documentos e información que considere, para la legal administración de los recursos; además hará del conocimiento del Consejo General de los casos en que los partidos políticos hayan excedido los topes a los gastos de campaña que se establezcan para cada elección.
+El Consejo General acordará el nombramiento de una Comisión Revisora de la aplicación de los regímenes de financiamiento de los partidos políticos previstos por este Código, con facultades para auditar, fiscalizar y requerir a los propios partidos políticos, los informes justificatorios que presenten sobre el origen y uso de todos sus recursos anuales, de precampaña y campaña, según corresponda, con el sustento documental correspondiente, así como las aclaraciones, documentos e información que considere, para la legal administración de los recursos; además hará del conocimiento del Consejo General de los casos en que los partidos políticos hayan excedido los topes a los gastos de precampaña y campaña que se establezcan para cada elección.
 
 La Comisión Revisora podrá proponer al Consejo General que acuerde el establecimiento de lineamientos para que la misma alcance sus objetivos.
 
@@ -967,6 +971,14 @@ II. Tendrán los partidos políticos, que informar por cada una de las campañas
 
 III.- En estos informes se reportarán el origen de los recursos que se hayan destinado para financiar los gastos correspondientes a los rubros señalados en este Código, así como el monto y destino de dichas erogaciones.
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+C.- Informes de precampaña:
+
+I.- A más tardar dentro de treinta días siguientes a que concluya la selección de candidato, fórmula o planilla, los partidos políticos entregarán un informe detallado de los gastos aplicados por cada una de las precampañas, para Gobernador, Diputados y Ayuntamientos respectivamente, dependiendo la elección de que se trate; y
+
+II.- Los informes definitivos de gastos de precampaña deberán especificar los montos de los ingresos, así como su aplicación en los términos y proporciones que este Código establezca.
+
 ###### ARTÍCULO 53.
 
 En caso de que la Comisión Revisora determine irregularidades en los informes justificatorios, remitirá su dictamen al Consejo General quien, previa garantía de audiencia al partido político de que se trate, resolverá lo conducente y, en su caso, lo remitirá al Tribunal para determinar las sanciones que procedan.
@@ -979,7 +991,9 @@ Si a los informes justificatorios de los partidos políticos no se les determina
 
 Los partidos políticos tienen las obligaciones siguientes:
 
-I.- Conducir sus actividades dentro de los cauces legales y ajustarlas a los principios de representación y democracia;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+I.- Conducir sus actividades dentro de los cauces legales, así como de sus normas internas ajustándolas a los principios de representación y democracia; respetando la libre participación política de los demás partidos y los derechos de los ciudadanos;
 
 II.- Ostentar la denominación, emblema y color o colores que tengan registrados;
 
@@ -999,11 +1013,15 @@ IX.- Abstenerse de cualquier expresión en su propaganda, publicaciones y mensaj
 
 X.- Presentar la plataforma electoral que sus candidatos sostendrán en sus campañas electorales para la elección de Diputados, Gobernador y miembros de los Ayuntamientos en términos de este Código;
 
-XI.- Informar al Consejo General de los procedimientos para la elección de sus candidatos a los diferentes puestos de elección popular, particularmente del régimen de financiamiento de los mismos, los topes a los gastos de campañas y el origen y los montos totales de recursos utilizados;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+XI.- Informar al Consejo General del inicio y término de sus precampañas, de los procedimientos para la elección de sus candidatos a los diferentes puestos de elección popular, particularmente del régimen de financiamiento de los mismos, los topes a los gastos de campañas y el origen y los montos totales de recursos utilizados;
 
 XII.- Abstenerse durante los procesos electorales, al igual que sus candidatos, de publicitar obra pública en provecho propio;
 
-XIII.- Retirar su propaganda electoral dentro de los treinta días siguientes al de la elección;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+XIII.- Retirar su propaganda de precampaña dentro de los treinta días siguientes a la conclusión de su proceso interno y la de campaña electoral, dentro de los treinta días siguientes a la conclusión de la jornada electoral correspondiente;
 
 XIV.- Promover, de conformidad con sus estatutos, una mayor participación de las mujeres en la vida política en el Estado, a través de su postulación a cargos de elección popular;
 
@@ -1017,9 +1035,11 @@ El Consejo General vigilará permanentemente que las actividades de los partidos
 
 Asimismo verificará que las autoridades estatales y municipales respeten el libre ejercicio de los derechos de los partidos políticos.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 56.
 
-Los directivos, funcionarios y personal administrativo, militantes, así como los representantes de los partidos políticos son responsables por los actos que realicen en el ejercicio de sus funciones.
+Los directivos, funcionarios y personal administrativo, precandidatos, candidatos, militantes, así como los representantes de los partidos políticos son responsables por los actos que realicen en el ejercicio de sus funciones.
 
 ###### ARTÍCULO 57.
 
@@ -1045,11 +1065,15 @@ Los partidos políticos podrán formar coaliciones o fusiones a fin de lograr ob
 
 ### CAPÍTULO I. DE LAS COALICIONES
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO II. DE LAS FUSIONES
 
 ###### ARTÍCULO 59.
 
-Los partidos políticos podrán formar coaliciones con el propósito de postular candidatos en las elecciones de Diputados, Gobernador y miembros de los Ayuntamientos, con excepción de lo dispuesto por el artículo 41 de este Código.
+Se entiende por coalición, la alianza o unión transitoria, de dos o más partidos políticos, con fines electorales. Los partidos políticos podrán formar coaliciones con el propósito de postular candidatos en las elecciones de Diputados, Gobernador y miembros de los Ayuntamientos, con excepción de lo dispuesto por el artículo 41 de este Código.
+
+En ningún caso podrá formar coaliciones aquel partido político que haya obtenido por primera ocasión su registro, así como aquél que lo haya obtenido nuevamente después de haberlo perdido con anterioridad.
 
 Los partidos políticos no podrán postular candidato:
 
@@ -1065,7 +1089,17 @@ Ninguna coalición podrá postular como candidato a quien haya sido registrado c
 
 Los partidos políticos que se coaliguen para postular candidatos a Diputados, Gobernador y miembros de los Ayuntamientos actuarán, en todo caso, como un solo partido político.
 
-Los partidos políticos coaligados recibirán el financiamiento público como si se tratare de un solo partido político, recibiendo, en este caso, la cantidad que le corresponda al partido político que haya obtenido mayor votación en la última elección local de Diputados por el principio de mayoría relativa.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+Los partidos políticos coaligados seguirán recibiendo el financiamiento público de acuerdo a lo dispuesto por este Código, recibiendo en todo caso el financiamiento público correspondiente a cada uno de los partidos políticos coaligados.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+En el convenio que señala el artículo 61 de este Código, se deberá señalar quién será el representante acreditado del partido político de los que integran la coalición, que administrará el financiamiento público de esa coalición.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+La coalición se considerará como un solo partido político para efecto de topes de Gastos de Campaña y de Acceso a los Medios de Comunicación, en términos de este Código.
 
 ###### ARTÍCULO 61.
 
@@ -1154,6 +1188,12 @@ V.- El celebrar convenio de fusión con otro partido político de conformidad co
 En caso de pérdida de registro como partido político estatal, el Consejo General dictará la resolución correspondiente a más tardar en el mes de marzo del año siguiente al de la elección, misma que deberá publicarse en el Periódico Oficial del Estado.
 
 La pérdida de registro de un partido político, no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones, según el principio de mayoría relativa.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+ARTÍCULO 70 bis.- Cuando los partidos políticos a que se refiere el artículo anterior, hayan perdido su registro, los bienes muebles e inmuebles que hayan sido adquiridos a través del financiamiento público pasarán a ser parte del patrimonio del Estado de Puebla. La resolución del Consejo General a la que hace referencia el artículo 70, establecerá la obligación para los partidos políticos que hayan perdido su registro a presentar en un plazo de 10 días hábiles, el inventario final de todos los bienes con que cuenten y dentro de los 30 días naturales siguientes, contados a partir de que hayan presentado el inventario final, entregarán al Consejo General los bienes muebles e inmuebles que adquirieron con el financiamiento público.
+
+Sin perjuicio de lo anterior, los partidos políticos que hayan perdido su registro seguirán sujetos a la fiscalización que realice la autoridad electoral respecto de los recursos utilizados en el último proceso electoral en el que hubieren participado. Asimismo, la pérdida del registro no exime a dichos partidos políticos de las responsabilidades en que hayan incurrido con motivo del ejercicio de sus derechos y prerrogativas, ni a sus dirigentes.
 
 # LIBRO CUARTO. DEL INSTITUTO ELECTORAL DEL ESTADO
 
@@ -1337,7 +1377,9 @@ Los Consejeros Electorales, el Consejero Presidente, el Secretario General y el 
 
 El Consejo General tendrá las atribuciones siguientes:
 
-I.- Determinar las políticas y programas generales del Instituto;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+I.- Determinar las políticas y programas generales del Instituto, y expedir los reglamentos, circulares y lineamientos necesarios para el cumplimiento de sus fines;
 
 II.- Vigilar el cumplimiento de las disposiciones constitucionales relativas y las contenidas en este Código;
 
@@ -1381,7 +1423,9 @@ XXI.- Recibir y, en su caso, solicitar a los partidos políticos información re
 
 XXII.- Investigar por los medios legales pertinentes, cualquier hecho relacionado con el proceso electoral y, de manera especial, los que denuncien los partidos políticos por actos violatorios realizados por las autoridades u otros partidos en contra de su propaganda, candidatos o miembros;
 
-XXIII.- Determinar el tope a los gastos de campaña que puedan efectuar los partidos políticos en las elecciones de Diputados, Gobernador del Estado y miembros de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+XXIII.- Determinar el tope a los gastos de precampaña y campaña que puedan efectuar los partidos políticos en las elecciones de Diputados, Gobernador del Estado y miembros de los Ayuntamientos;
 
 XXIV.- Registrar supletoriamente las fórmulas de candidatos a Diputados por el principio de mayoría relativa;
 
@@ -1397,11 +1441,17 @@ XXIX.- Ajustar los plazos que marca este Código, si las condiciones lo hacen ne
 
 XXX.- Registrar supletoriamente los nombramientos de representantes generales o de Casilla de los partidos políticos en caso de negativa del órgano electoral respectivo;
 
-XXXI.- Efectuar el cómputo final de la elección de Diputados de representación proporcional, hacer la declaración de validez y determinar la asignación de Diputados para cada partido político por este principio, así como otorgar las constancias respectivas;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
-XXXII.- Efectuar el cómputo final de la elección de Regidores de representación proporcional, hacer la declaración de validez y determinar la asignación de Regidores para cada partido político por este principio, así como otorgar las constancias respectivas;
+XXXI.- Efectuar el cómputo final de la elección de Diputados de representación proporcional, hacer la declaración de validez y de elegibilidad de los candidatos, así como determinar la asignación de Diputados para cada partido político por este principio, otorgando las constancias correspondientes;
 
-XXXIII.- Realizar el cómputo final de la elección de Gobernador, formular la declaración de validez de la elección y expedir la constancia de Gobernador electo en favor del candidato que hubiere alcanzado el mayor número de votos;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+XXXII.- Efectuar el cómputo final de la elección de Regidores de representación proporcional, hacer la declaración de validez, determinar la elegibilidad de los candidatos y la asignación de Regidores para cada partido político por este principio, así como otorgar las constancias correspondientes;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+XXXIII.- Realizar el cómputo final de la elección de Gobernador, formular la declaración de validez de la elección, determinar su elegibilidad y expedir la constancia de Gobernador electo en favor del candidato que hubiere alcanzado el mayor número de votos;
 
 XXXIV.- Remitir al Congreso del Estado copia certificada de las constancias de Diputados por el principio de mayoría relativa, de Diputados por el principio de representación proporcional, de Gobernador electo y de miembros de los Ayuntamientos por ambos principios;
 
@@ -1441,9 +1491,17 @@ LI.- Coadyuvar, mediante convenio con los Ayuntamientos que así lo soliciten, e
 
 LII.- Recibir la solicitud, dictaminar su procedencia, organizar e implementar los procesos de plebiscito y referéndum y, en su caso, declarar la validez de los mismos, en términos de la legislación aplicable;
 
-LIII.- Dictar los acuerdos necesarios a fin de cumplir las anteriores atribuciones y las demás señaladas por este Código; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
-LIV.- Las demás que le sean conferidas por este Código y disposiciones aplicables.
+LlII.- Dictar los acuerdos necesarios a fin de cumplir las anteriores atribuciones y las demás señaladas por este Código;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+LlV.- Establecer lineamientos y formatos para la presentación de informes de gastos de precampañas y campañas electorales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+LV.- Las demás que le sean conferidas por este Código y disposiciones aplicables.
 
 ###### ARTÍCULO 90.
 
@@ -2845,6 +2903,90 @@ Las autoridades federales, estatales y municipales estarán obligadas a proporci
 
 ### CAPÍTULO I. DEL REGISTRO DE CANDIDATOS
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+ARTÍCULO 200 bis.- Los partidos políticos debidamente acreditados o registrados ante el Instituto, con base en sus estatutos o normatividad interna aplicable, podrán realizar precampañas para elegir a los ciudadanos que presentarán como candidatos a puestos de elección popular ante los organismos electorales competentes para su registro.
+
+Ningún ciudadano podrá realizar actividades propagandísticas y publicitarias, con el objeto de promover su imagen personcal, de manera pública y con el inequívoco propósito de establecer su postulación a un cargo de elección popular, sólo podrán realizar tales actividades aquellos ciudadanos que participen dentro de un proceso de selección interna de candidatos a cargos de elección popular que lleven a cabo los partidos políticos, ajustándose siempre a los plazos y disposiciones establecidos en esta Ley.
+
+El incumplimiento a esta norma dará motivo a que el Instituto, a través de sus órganos competentes y en los plazos correspondientes, fundado, motivado y previamente acreditado el incumplimiento, les niegue el registro como candidato.
+
+A.- Para los efectos de este Código se entenderá por:
+
+I.- Precampaña Electoral.- Al conjunto de actividades que de manera previa al registro de candidatos, son llevadas a cabo por ciudadanos que aspiran a ser candidatos para algún cargo de elección popular y dentro de un proceso de selección interna organizado por un partido político con el propósito de ser postulados por éste. Las precampañas forman parte del proceso electoral y se circunscriben a la etapa preparatoria de la elección;
+
+II.- Actos de Precampaña.- Todos aquéllos que tienen por objeto promover, publicitar o apoyar la aspiración de una persona para ser postulado candidato a un cargo de elección popular;
+
+III.- Propaganda de Precampaña.- El conjunto de escritos, publicaciones, imágenes, grabaciones sonoras o de video, proyecciones o expresiones orales o visuales, impresos, pinta de bardas, sondeos y/o encuestas de opinión que durante la precampaña electoral, producen y difunden los aspirantes a candidatos, simpatizantes o personas que los apoyen, con el propósito de presentar y difundir sus propuestas ante la sociedad y los militantes del partido político por el que aspiran ser postulados; y
+
+IV.- Aspirante a Candidato o Precandidato.- A los ciudadanos que deciden contender al interior de un determinado partido político o coalición, con el fin de alcanzar su postulación como candidato a un cargo de elección popular.
+
+B.- Del inicio y término de las precampañas:
+
+I.- Los procesos internos de los partidos políticos o coaliciones, orientados a seleccionar a sus candidatos que habrán de contender en las elecciones a que se refiere este Código, sólo podrán realizarse durante el año de la elección de que se trate, a partir del inicio del proceso electoral y deberán concluir necesariamente a más tardar diez días antes del inicio del periodo de registro de candidatos de la elección de que se trate:
+
+II.- Las precampañas se iniciarán a partir de los treinta días siguientes de iniciado el proceso electoral y concluirán en los plazos señalados en la fracción anterior. Su duración será en el plazo que fije la normatividad interna del partido político correspondiente, pero en ningún momento podrán iniciar o concluir antes de este plazo. El tiempo se computará a partir de la fecha en que los aspirantes, en términos de la convocatoria respectiva, queden debidamente registrados ante los órganos responsables de la preparación, organización, conducción y validación del proceso interno;
+
+III.- Los partidos políticos que realicen precampañas deberán dar aviso por escrito al Instituto sobre sus procesos internos dentro de los cinco días anteriores al inicio de éstos. El escrito indicará, cuando menos:
+
+a) Las fechas de inicio y conclusión del proceso interno de que se trate, así como copia de la convocatoria respectiva;
+
+b) Los tiempos de duración y las reglas de sus precampañas;
+
+c) Los órganos responsables de la preparación, organización, conducción y validación del proceso interno;
+
+d) El método de elección a utilizar;
+
+e) El monto del financiamiento que se destinará a la organización del proceso; y
+
+f) El monto autorizado para gastos de precampaña.
+
+IV.- Los partidos políticos dispondrán lo necesario a fin de que los aspirantes a candidatos, sean reconocidos como tales, extendiéndoles la constancia de registro respectiva; se exceptúan los municipios en donde el candidato de los partidos políticos se determine mediante el método de usos y costumbres;
+
+V.- La propaganda de las precampañas se sujetará a las disposiciones contenidas en el presente Código relativas a la propaganda electoral así como a los lineamientos que expida el Consejo Cultural;
+
+VI.- Una vez terminadas las precampañas que realicen los partidos políticos, en la fase de precandidaturas, la propaganda que se utilizó deberá ser retirada en términos de la fracción XIII del artículo 54 por los aspirantes a candidato o por el partido político al que pertenece o bajo el que hizo precampaña.
+
+En caso de no hacerlo, se pedirá a las autoridades municipales procedan a realizar el retiro, aplicando el costo de dichos trabajos con cargo a las prerrogativas del partido político infractor.
+
+Los partidos políticos tomarán las medidas necesarias para que sus precandidatos cumplan con esta disposición.
+
+C.- Del tope de gastos de precampaña:
+
+I.- En su primera sesión, el Consejo General dará a conocer el tope de gastos de las precampañas para la selección de candidatos, el cual no podrá ser mayor al veinte por ciento del monto fijado para gastos de campaña en la elección inmediata anterior del mismo nivel;
+
+II.- Los gastos que realicen en precampaña los aspirantes a una candidatura, así como sus respectivos simpatizantes, deberán ser informados al partido político y registrados contablemente conforme a los lineamientos que al efecto haya aprobado el Consejo General. Para los efectos de este artículo quedarán comprendidos dentro de los topes de gastos de precampaña, los señalados en el artículo 238 del presente Código; se exceptúan los municipios en donde el candidato de los partidos políticos se determine mediante el método de usos y costumbres;
+
+III.- Los gastos de precampaña correrán a cargo de cada aspirante a la candidatura;
+
+IV.- Las aportaciones en dinero realizadas por simpatizantes, personas físicas y morales, a las precampañas serán consideradas como parte de los límites que por aportaciones de simpatizantes puede recibir un partido político durante un año electoral en los términos del artículo 48, fracción II incisos a) y c) del presente Código. Tales aportaciones podrán realizarse en parcialidades y en cualquier tiempo, pero el monto total aportado durante la precampaña por una persona física o moral no podrá rebasar, según corresponda, los límites establecidos en el inciso c) fracción II del artículo 48 de este ordenamiento;
+
+V.- La presentación de los informes de precampaña de cada aspirante se hará, ante el Consejo General, por conducto de cada partido político a más tardar dentro de los treinta días siguientes a la fecha en que concluya el proceso interno;
+
+VI.- Cuando los aspirantes o el ganador de una candidatura rebasen los topes de gastos de precampaña serán sancionados en primera instancia por los partidos políticos en los términos de sus propios estatutos, inclusive con la pérdida del derecho a registrarse como candidato por cualquier partido político, o a petición de parte, por el Instituto;
+
+D.- Queda prohibido a los precandidatos:
+
+I.- Recibir cualquiera de las aportaciones a que se refiere el artículo 49 de esta Ley;
+
+II.- Realizar actos de precampaña electoral fuera del plazo establecido en esta Ley y en la normatividad interna de cada partido político;
+
+III.- Utilizar para fines personales los recursos recabados al amparo de actos proselitistas de precampaña, salvo viáticos, alimentos y transportación u otros relacionados de manera directa;
+
+IV.- Hacer uso de la infraestructura pública, incluidos, entre otros teléfonos, faxes y herramientas de Internet para la obtención de financiamiento o en apoyo a la realización de cualquier otro acto de precampaña;
+
+V.- Rebasar el periodo para actos de precampaña autorizado y rebasar el tope máximo de gastos de precampaña establecido;
+
+VI.- Emplear o utilizar recursos, en dinero o en especie, por sí o a través de interpósita persona, cualquiera que sea su origen, antes de que inicie la precampaña;
+
+VII.- Contratar publicidad en los medios de comunicación social, para las precampañas, por sí o por interpósita persona;
+
+VIII.- Fijar su propaganda en contravención a lo establecido en el Capítulo III, Título Primero del Libro Quinto de este Código;
+
+IX.- Utilizar en su propaganda símbolos, distintivos, emblemas o figuras con motivo religioso; y
+
+X.- Utilizar expresiones verbales o escrito contrarios a la moral, que injurien a las autoridades, a los demás partidos políticos o precandidatos, o que tiendan a incitar a la violencia y al desorden.
+
 ###### ARTÍCULO 168.
 
 Se considerarán ausencias definitivas de los Consejeros Electorales y Secretarios, las que se suscitaren por:
@@ -3254,6 +3396,10 @@ Serán actos de campaña los escritos, imágenes, reuniones públicas, asambleas
 Para los efectos de este Código las campañas electorales de los candidatos registrados, podrán dar inicio al día siguiente de concluida la sesión de registro de candidatos que efectúe el Consejo Electoral competente, debiendo concluir tres días antes de la jornada electoral.
 
 En el día de la jornada electoral no se permitirán reuniones o actos públicos de campaña, propaganda o proselitismo electorales.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+Para garantizar la equidad en las campañas electorales deberán suspenderse durante los treinta días anteriores al día de la celebración de la jornada electoral, todo tipo de difusión de logros o avances de cualquier instancia del poder público, así como de entregar beneficios o apoyos provenientes de cualquier programa público de cualquier carácter, salvo los que fueran de carácter emergente por una contingencia natural o bien de los programas de protección civil.
 
 ###### ARTÍCULO 218.
 
@@ -4359,7 +4505,7 @@ Votación Total, el total de los votos depositados en las urnas.
 
 Votación Emitida, la que resulte de deducir de la Votación Total, los votos a favor de los partidos políticos que no hayan obtenido el dos por ciento, los votos a favor de los candidatos no registrados y los votos nulos.
 
-Votación Efectiva, la que resulte de deducir de la Votación Emitida, los votos de la planilla declarada electa.
+> <small>(DEROGADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -4367,27 +4513,19 @@ Porcentaje Mínimo, el que representa el dos por ciento de la Votación Total em
 
 Cociente Electoral, el que se calcula dividiendo la Votación Emitida entre el número de curules a repartir.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
-Resto Mayor, es el remanente más alto entre los restos de las votaciones de cada partido político, después de haber aplicado el Cociente Electoral. Se utilizará cuando aún hubiese diputaciones por distribuir una vez hecha la asignación de acuerdo a lo dispuesto por el artículo 321 de este Código. Únicamente se tomarán en consideración los partidos políticos que hubiesen participado en la asignación de curules por cociente electoral.
+Resto Mayor, es el remanente más alto entre los restos de las votaciones de cada partido político, después de haber aplicado el Cociente Electoral. Se utilizará cuando aún hubiese diputaciones por distribuir una vez hecha la asignación de acuerdo a lo dispuesto por el artículo 321 de este Código. Participarán todos los partidos políticos que hayan alcanzado el porcentaje mínimo.
 
 ###### ARTÍCULO 319.
 
 Una vez concluido el cómputo final de la elección de Diputados de representación proporcional, el Consejo General procederá a la asignación de Diputados por este principio.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 320.
 
-Para la asignación de Diputados de representación proporcional, se aplicarán las normas siguientes:
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
-
-I.- Los partidos políticos que hayan obtenido el Porcentaje Mínimo del cómputo final de la elección de Diputados por el principio de mayoría relativa, tendrán derecho a participar en la asignación de Diputados por el principio de representación proporcional;
-
-II.- Se hará la declaratoria de aquellos partidos políticos que hayan obtenido el Porcentaje Mínimo;
-
-III.- La primera asignación que corresponda a cada partido político con derecho a participar en la elección por este principio, recaerá en la fórmula de candidatos del propio partido político que, por sí misma, haya obtenido el mayor porcentaje de votos en la elección de Diputados por el principio de mayoría relativa, siempre que no hubiera alcanzado la constancia respectiva conforme a dicho principio; y
-
-IV.- Para las subsecuentes asignaciones de Diputados, se utilizará la formula electoral que se integrará con los elementos siguientes:
+En el procedimiento para la asignación de Diputados de representación proporcional, se aplicará la fórmula electoral con los elementos y normas siguientes:
 
 a) Porcentaje Mínimo;
 
@@ -4395,11 +4533,23 @@ b) Cociente Electoral; y
 
 c) Resto Mayor.
 
+Los partidos políticos que hayan obtenido el Porcentaje Mínimo del cómputo final de la elección de Diputados por el principio de mayoría relativa, tendrán derecho a participar en la asignación de Diputados por el principio de representación proporcional; para tal efecto:
+
+I.- Se hará la declaratoria de aquellos partidos políticos que hayan obtenido el Porcentaje Mínimo;
+
+II.- La primera asignación que corresponda a cada partido político con derecho a participar en la elección por este principio, recaerá en la fórmula de candidatos del propio partido político a Diputados por el principio de mayoría relativa, que no hubiere alcanzado la constancia respectiva conforme a dicho principio por sí misma y haya obtenido el mayor porcentaje de votos en la elección; esta asignación consumirá el número de votos equivalente al dos por ciento de la votación total; y
+
+III.- Para las subsecuentes asignaciones de Diputados, se utilizarán los elementos de Cociente Electoral y Resto Mayor, en términos del artículo 318.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 321.
 
-En términos de la última fracción del artículo anterior, se asignará un Diputado adicional a cada uno de los partidos políticos cuya Votación Emitida, contenga el Cociente Electoral.
+En términos de la última fracción del artículo anterior, se asignará un Diputado adicional a cada uno de los partidos políticos cuya Votación Emitida menos los votos utilizados en la asignación de porcentaje mínimo, contenga el Cociente Electoral.
 
-Si aún quedaren Diputados por asignar, éstos serán distribuidos utilizando el Resto Mayor, asignando en primer lugar un Diputado al partido político que tenga el remanente de votos más grande y así sucesivamente hasta agotar los Diputados por este principio.
+En caso de que alguno de los partidos políticos alcance el límite legal de veintiséis Diputados por ambos principios, se asignarán las diputaciones correspondientes, restando el total de la votación del partido político que se encuentre en este supuesto y la votación utilizada en las asignaciones a otros partidos políticos.
+
+El resultado de la operación anterior, constituirá una nueva votación emitida, que será dividida entre el número de diputaciones por repartir, obteniendo así un nuevo Cociente Electoral, que deberá aplicarse en las subsecuentes asignaciones.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS MAGISTRADOS
 
@@ -5061,7 +5211,9 @@ Si del análisis que haga el órgano competente a los expedientes relativos, se 
 
 A falta absoluta de la fórmula de Diputados a que se refiere el apartado A del artículo 16 de este Código, deberá ser cubierta por la fórmula que le siga con el mayor porcentaje de votos.
 
-En tratándose de la declaratoria de inelegibilidad de candidatos propietarios a Diputados y Regidores de representación proporcional que se asignen conforme al principio de listas votadas, se llamará a los suplentes correspondientes. En el caso de que ambos, propietario y suplente, sean declarados inelegibles tomará el lugar del declarado no elegible el que le sigue en la lista correspondiente al mismo partido político.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+En tratándose de la declaratoria de inelegibilidad de candidatos propietarios a Diputados y Regidores de representación proporcional que se asignen conforme al principio de listas votadas, se llamará a los suplentes correspondientes. En el caso de que ambos, propietario y suplente, sean declarados inelegibles tomará el lugar del declarado no elegible el que le sigue en la lista correspondiente al mismo partido político o coalición, en su caso.
 
 ###### ARTÍCULO 385.
 
@@ -5170,3 +5322,9 @@ P.O. 5 DE DICIEMBRE DE 2003.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
