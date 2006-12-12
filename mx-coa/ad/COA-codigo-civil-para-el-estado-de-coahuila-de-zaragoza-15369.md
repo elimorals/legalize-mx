@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2006-11-07"
+last_updated: "2006-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -5728,6 +5728,10 @@ Se prohibe a los notarios o a cualesquiera otras personas que hayan de redactar 
 ###### ARTÍCULO 985.
 
 El notario que hubiere autorizado el testamento, debe dar aviso a los interesados luego que sepa la muerte del testador y si no lo hace es responsable de los daños y perjuicios que la dilación ocasione. Si los interesados están ausentes o son desconocidos del notario, la noticia se dará al juez.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+En los casos en que se otorgue testamento, el Notario Público que dé fe de su otorgamiento o la autoridad que lo reciba, deberá formular aviso de dicho otorgamiento dentro de los 8 días hábiles siguientes a las instancias oficiales encargadas de llevar el registro correspondiente en los términos señalados en la legislación aplicable.
 
 ###### ARTÍCULO 986.
 
@@ -20066,3 +20070,9 @@ P.O. 7 DE NOVIEMBRE DE 2006.
 PRIMERO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
 
 SEGUNDO.- Las personas con sentencias definitivas de divorcio por mutuo consentimiento que contemplen la prohibición de dos años a la entrada en vigor de la presente reforma, se entenderá reducido el plazo a un año.
+
+P.O. 12 DE DICIEMBRE DE 2006.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
