@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-interinstitucional-para-304"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-10-31"
-last_updated: "1986-10-31"
+last_updated: "2006-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=304&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ scjn_last_update: "2006-12-12"
 
 REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL PARA LA FORMACION DE RECURSOS HUMANOS PARA LA SALUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL PARA LA FORMACION DE RECURSOS HUMANOS PARA LA SALUD, PUBLICADO EN EL D.O.F. DE 12 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 31 de octubre de 1986.
 
@@ -265,3 +267,15 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Reg
 COVICEPRESlDENTES
 
 Secretaría de Educación Pública, Rafael Velasco Fernández.- Rúbrica.- Secretaría de Salud, Jaime Martuscelli Q.- Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 12 DE DICIEMBRE DE 2006.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los Comités de la Comisión se reinstalarán a partir de la entrada en vigor del presente Reglamento, con la integración que la propia Comisión apruebe.
+
+TERCERO. Hasta en tanto no se acuerde otra composición, la representación del Consejo Nacional de la Asociación Nacional de Universidades e Institutos de Enseñanza Superior será la que ha venido participando en las reuniones de la Comisión previas a la entrada en vigor de este Reglamento.
+
+CUARTO.- Se abroga el Reglamento Interior de la Comisión Interinstitucional para la Formación de Recursos Humanos, publicado en el Diario Oficial de la Federación el 31 de octubre de 1986. Asimismo, se derogan todas las disposiciones que se opongan al presente Reglamento.
