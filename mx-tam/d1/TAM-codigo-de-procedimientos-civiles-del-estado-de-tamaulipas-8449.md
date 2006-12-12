@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2006-09-12"
+last_updated: "2006-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -1399,9 +1399,9 @@ I.- De los negocios de jurisdicción voluntaria que no interesen al derecho de f
 
 II.- De los negocios contenciosos que versen sobre propiedad o demás derechos reales sobre inmuebles;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
-III.- De los demás negocios de jurisdicción contenciosa, común y concurrente cuya cuantía exceda de cien veces el salario mínimo general vigente en la Capital del Estado;
+III.- De los demás negocios de jurisdicción contenciosa, común y concurrente cuya cuantía exceda de ciento cincuenta veces el salario mínimo general vigente en la Capital del Estado;
 
 IV.- (DEROGADA, P.O. 3 DE JUNIO DE 2003)
 
@@ -7436,3 +7436,9 @@ P.O. 12 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto surtirá efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
