@@ -4,7 +4,7 @@ identifier: "COA-ley-del-notariado-del-estado-de-coahuila-4636"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-06"
-last_updated: "1996-12-31"
+last_updated: "2006-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL NOTARIADO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 6 de febrero de 1979.
 
@@ -351,9 +351,51 @@ XVI.- Si las partes quisieren hacer alguna adición o modificación antes de que
 
 XVII.- Los espacios en blanco que puedan quedar antes de las firmas en las actas notariales, deberán ser llenadas con líneas de tinta;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
-XVIII.- Las testamentarías que se tramiten ante los Notarios, se llevarán mediante actas levantadas en el protocolo. Siempre que se otorgue un testamento público abierto o cerrado los Notarios informarán de este acto a la Dirección de Notarías, dentro de los 8 días hábiles siguientes, expresando la fecha, el nombre del testador y sus generales; y si el testamento fuere cerrado el lugar o persona en cuyo poder se deposite. Si el testador expresare en su testamento el nombre de sus padres también se proporcionará este dato. La Dirección de Notarías, llevará un libro especial destinado a asentar las inscripciones relativas y los datos que se mencionan. La autoridad judicial ante quien se promueva juicio sucesorio intestamentario, estará obligada a recabar, previamente a la radicación del juicio, informe del titular de la Dirección de Notarías, respecto de si existe inscripción de algunas de las formas de voluntad testamentaria antes mencionadas;
+XVIII.- Las testamentarías que se tramiten ante los Notarios se llevarán mediante actas levantadas en el protocolo. Siempre que se otorgue un testamento público abierto, cerrado o simplificado, el Notario ante quien se celebre dicho acto jurídico dará aviso por escrito a la Dirección de Notarías dentro de los 8 días hábiles siguientes, en el que se expresará:
+
+a).- Nombre completo del testador;
+
+b).- Nacionalidad;
+
+c).- Ocupación y domicilio;
+
+d).- Lugar y fecha de nacimiento;
+
+e).- Clave Única de Registro de Población;
+
+f).- Estado civil, régimen matrimonial y nombre completo del cónyuge, en su caso;
+
+g).- Nombre completo de los padres;
+
+h).- Tipo de testamento;
+
+i).- Número de escritura;
+
+j).- Volumen o tomo;
+
+k).- Lugar, hora y fecha de otorgamiento de la escritura;
+
+l).- Disposiciones de contenido irrevocable, en caso de haberse establecido;
+
+m).- Nombre completo del notario;
+
+n).- Tipo de Notaría, en su caso;
+
+o).- Número de Notaría;
+
+p).- Municipio y/o Distrito Notarial, y
+
+q).- Mención si el testamento cancela o revoca otra disposición testamentaria otorgada con anterioridad, en caso de que así sea.
+
+Si el testamento fuere cerrado indicará además la persona en cuyo poder se de depositó o el lugar en que se haya hecho el depósito.
+
+La Dirección de Notarías dentro de los 15 días hábiles a aquel en que lo reciba, ingresará el aviso de testamento por vía electrónica a la base de datos del Registro Nacional de Avisos de Testamento, así mismo, llevará un libro especial destinado a asentar las inscripciones relativas y los datos que se mencionan.
+
+La autoridad judicial o el Notario Público ante quien se inicie un procedimiento sucesorio deberá recabar, previamente a la radicación del mismo, un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión, mediante la solicitud de búsqueda local o nacional a la Dirección de Notarías.
+
+La Dirección de Notarías solicitará por vía electrónica el reporte de búsqueda nacional al Registro Nacional de Avisos de Testamento;
 
 XIX.- Al citar el nombre de un Notario ante cuya fe haya pasado algún instrumento, se mencionará el número de la notaría de que se trata y la fecha del acto;
 
@@ -1181,7 +1223,9 @@ III.- Inutilizar los sellos de los Notarios, cuando proceda conforme a la Ley y 
 
 IV.- Llevar el registro de expedición de patentes de aspirantes y de Notarios; de sellos y firmas de estos últimos y de las suplencias. En estos registros se asentarán la fecha de los nombramientos, aquellos en que se haya dejado de actuar por virtud de licencia, permiso o suspensión del Notario y su reanudación;
 
-V.- Llevar un registro de los testamentos que autoricen los Notarios, de los cuales haya recibido aviso en cumplimiento de lo dispuesto por la presente Ley y rendir los informes que le soliciten.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
+
+V.- Llevar un registro de los testamentos que autoricen los Notarios e ingresar por vía electrónica los avisos de testamento que con tal motivo reciba a (sic) la base de datos del Registro Nacional del Aviso de Testamentos, y rendir los informe que le soliciten las autoridades judiciales competentes o notarios públicos en cumplimiento a lo dispuesto por la presente ley;
 
 VI.- Rendir los informes y la cooperación técnica que le sea requerida por otras dependencias del Gobierno del Estado;
 
@@ -1632,6 +1676,12 @@ Para los efectos del artículo 70 de la presente reforma, el Ejecutivo del Estad
 Las reformas al artículo 9o. en sus fracciones XIII y XIV entrarán en vigor una vez que se realicen las correspondientes al Código adjetivo de la materia.
 
 P.O. 31 DE DICIEMBRE DE 1996.
+
+PRIMERO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2006.
 
 PRIMERO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
