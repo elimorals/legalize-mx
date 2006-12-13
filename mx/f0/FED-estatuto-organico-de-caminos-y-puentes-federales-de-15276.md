@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-caminos-y-puentes-federales-de-15276"
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-12-31"
-last_updated: "2002-04-17"
+last_updated: "2006-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15276&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-12-09"
 
 ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS, PUBLICADO EN EL D.O.F. DE 13 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1999.
 
@@ -1216,3 +1218,15 @@ D.O.F. 17 DE ABRIL DE 2002.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- En su oportunidad, inscríbase, en su caso, en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 13 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Cuando en este Estatuto Orgánico se dé una denominación nueva o distinta a alguna unidad administrativa cuyas funciones estén establecidas por una norma anterior, dichas funciones se entenderán concedidas a la unidad administrativa que determine este Estatuto Orgánico.
+
+TERCERO.- Los asuntos pendientes a la entrada en vigor de este Estatuto Orgánico, que conforme al mismo deben de pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella o aquellas a las que se les haya atribuido en este instrumento, la competencia correspondiente.
+
+CUARTO.- Se abroga el Estatuto Orgánico de Caminos y Puentes Federales de Ingresos y Servicios Conexos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999.
+
+QUINTO.- El presente Estatuto Orgánico, así como las reformas y adiciones al mismo, deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
