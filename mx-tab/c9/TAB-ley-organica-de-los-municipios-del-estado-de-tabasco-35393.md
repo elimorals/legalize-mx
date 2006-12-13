@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2003-12-03"
+last_updated: "2006-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -1195,9 +1195,17 @@ X. Dirección de Seguridad Pública;
 
 XI. Dirección de Tránsito;
 
-XII. Dirección de Asuntos Jurídicos; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
-XIII. Dirección de Atención Ciudadana.
+XII. Dirección de Asuntos Jurídicos;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+XIII. Dirección de Atención Ciudadana; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+XIV.- Dirección de Atención a las Mujeres.
 
 ###### Artículo 74.
 
@@ -1220,6 +1228,10 @@ d) Haber cumplido 21 años antes del día de la elección o designación;
 e) Tener título o experiencia afin al órgano de que se trate; y
 
 f) Los demás requisitos que exijan las leyes correspondientes.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+En el caso de la titularidad de la Dirección de Atención a las Mujeres ésta deberá recaer en una mujer.
 
 ###### Artículo 76.
 
@@ -1683,13 +1695,41 @@ V. Proponer al Cabildo las normas internas y reglamentos para el buen funcionami
 
 VI. Las demás que le atribuyan expresamente las leyes, reglamentos, y las que le encomiende directamente el Ayuntamiento o el presidente municipal.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+### CAPÍTULO XV BIS. De la Dirección de Atención a las Mujeres
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+Artículo 94 bis. A la Dirección de Atención a las Mujeres corresponde el despacho de los siguientes asuntos:
+
+I.- Elaborar los diagnósticos municipales con respecto a la equidad de género;
+
+II.-Promover la perspectiva de género mediante la participación de las mujeres en la toma de decisiones respecto del diseño de los planes y los programas de gobierno municipal;
+
+III- Presentar a la Dirección de Programación, propuesta de acciones a favor de las mujeres en la que .se contemplen necesidades básicas en materia de trabajo, salud, educación, cultura y todas aquellas en las cuales la mujer debe tener una participación efectiva, para que se contemple en el programa operativo anual del municipio;
+
+IV.- Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades de las dependencias de gobierno estatal, federal, así como organizaciones no gubernamentales;
+
+V.- Impulsar acciones para difundir la equidad entre los géneros y el respeto a los derechos de las mujeres;
+
+VI.- Fomentar el empleo y la aplicación de programas para la obtención de créditos que permitan a las mujeres contar con recursos para incorporarse a la actividad productiva del municipio;
+
+VIl.- Coordinar, fomentar y dirigir programas de psicología, de acompañamiento y fortalecimiento emocional para las mujeres;
+
+VIII.- Atender y asesorar a las mujeres en los casos de maltrato, violencia intrafamiliar y discriminación, dándole el seguimiento correspondiente;
+
+IX.- Elaborar programas para la prevención y erradicación de la violencia familiar e intrafamiliar;
+
+X.- Elaborar y proponer al Presidente Municipal, las iniciativas de reglamentación de su competencia; y
+
+XI.- Las demás que le atribuyan expresamente las leyes, reglamento y las que le encomienden directamente el Ayuntamiento o el presidente municipal.
+
 ### CAPÍTULO XVI. Del Cronista Municipal
 
 ### CAPÍTULO XVII. De las Organizaciones de Participación Ciudadana
 
 ### CAPÍTULO XVIII. Disposiciones Complementarias Relativas a este Título
-
-### CAPÍTULO XIX. De las Ausencias Definitivas o Temporales de otros Servidores Públicos de los Ayuntamientos
 
 ###### Artículo 95.
 
@@ -1719,7 +1759,7 @@ En el presupuesto anual de egresos de cada Municipio, se destinará una partida 
 
 Dos o más municipios vecinos podrán convenir en la designación de un Cronista Regional.
 
-### CAPÍTULO I. Facultades y Obligaciones de los Delegados, Subdelegados, Jefes de Sector y Jefes de Sección
+### CAPÍTULO XIX. De las Ausencias Definitivas o Temporales de otros Servidores Públicos de los Ayuntamientos
 
 ###### Artículo 96.
 
@@ -1733,7 +1773,7 @@ El Cabildo, establecerá los requisitos, derechos y obligaciones de los ciudadan
 
 En todo lo concerniente a este artículo, se deberá tomar en cuenta a los pueblos o comunidades indígenas, para su inclusión y demás efectos correspondientes.
 
-### CAPÍTULO II. Limitaciones de los Delegados
+### CAPÍTULO I. Facultades y Obligaciones de los Delegados, Subdelegados, Jefes de Sector y Jefes de Sección
 
 ###### Artículo 97.
 
@@ -1765,7 +1805,7 @@ XII. Previo acuerdo y autorización del presidente municipal, proporcionar la in
 
 XIII. Las demás que las disposiciones legales y administrativas le confieran.
 
-### CAPÍTULO III. Territorialidad de las Delegaciones Municipales
+### CAPÍTULO II. Limitaciones de los Delegados
 
 ###### Artículo 98.
 
@@ -1777,7 +1817,7 @@ En faltas menores de diez días naturales de servidores públicos, distintos a l
 
 ## TÍTULO QUINTO. DE LOS DELEGADOS, SUBDELEGADOS, JEFES DE SECTOR Y JEFES DE SECCIÓN
 
-### CAPÍTULO IV. Procedimiento para la Elección de Delegados, Subdelegados, Jefes de Sector y de Sección
+### CAPÍTULO III. Territorialidad de las Delegaciones Municipales
 
 ###### Artículo 99.
 
@@ -1797,7 +1837,7 @@ VI. Auxiliar en todo lo que requiera el presidente municipal para el mejor cumpl
 
 VII. Las demás que les otorguen otras leyes, reglamentos y disposiciones aplicables.
 
-### CAPÍTULO ÚNICO. Hacienda Municipal
+### CAPÍTULO IV. Procedimiento para la Elección de Delegados, Subdelegados, Jefes de Sector y de Sección
 
 ###### Artículo 100.
 
@@ -1809,7 +1849,7 @@ II. Cobrar personalmente o por interpósita persona, multa, servicio, gestión o
 
 III. Y demás prohibiciones establecidas en la presente Ley y en otras disposiciones aplicables.
 
-### CAPÍTULO ÚNICO. De la Planeación y Convenios para el Desarrollo
+### CAPÍTULO ÚNICO. Hacienda Municipal
 
 ###### Artículo 101.
 
@@ -1817,7 +1857,7 @@ Las ciudades podrán ser divididas para su gobierno en Delegaciones y Subdelegac
 
 Los ayuntamientos harán la demarcación territorial interna a cada Municipio.
 
-### CAPÍTULO I. De los Servicios Públicos
+### CAPÍTULO ÚNICO. De la Planeación y Convenios para el Desarrollo
 
 ###### Artículo 102.
 
@@ -1879,7 +1919,7 @@ Las autoridades salientes deberán entregar las instalaciones de la delegación 
 
 ## TÍTULO SEXTO. DE LA HACIENDA PÚBLICA MUNICIPAL
 
-### CAPÍTULO II. De las Tarifas, Cuotas y Horarios para la Prestación de los Servicios Públicos
+### CAPÍTULO I. De los Servicios Públicos
 
 ###### Artículo 106.
 
@@ -1971,7 +2011,7 @@ El manejo indebido de fondos municipales y cualquier otro hecho que se estime co
 
 ## TÍTULO SÉPTIMO. DEL DESARROLLO MUNICIPAL
 
-### CAPÍTULO III. Alumbrado Público
+### CAPÍTULO II. De las Tarifas, Cuotas y Horarios para la Prestación de los Servicios Públicos
 
 ###### Artículo 119.
 
@@ -2023,7 +2063,7 @@ El Estado y los municipios, en los términos de las leyes aplicables, podrán ce
 
 ## TÍTULO OCTAVO. DE LOS SERVICIOS COMPETENCIA DE LOS MUNICIPIOS Y CONVENIOS PARA SU MEJOR EJECUCIÓN
 
-### CAPÍTULO IV. Limpia
+### CAPÍTULO III. Alumbrado Público
 
 ###### Artículo 126.
 
@@ -2069,7 +2109,7 @@ Los servicios públicos municipales concesionados o concertados mediante contrat
 
 En lo que respecta al otorgamiento, cancelación, caducidad y trámites para expedir una concesión, se estará a lo dispuesto en esta Ley y demás disposiciones aplicables.
 
-### CAPÍTULO V. Mercados y Centrales de Abasto
+### CAPÍTULO IV. Limpia
 
 ###### Artículo 131.
 
@@ -2087,7 +2127,7 @@ En los casos del artículo anterior, las tarifas o cuotas deberán publicarse en
 
 Los ayuntamientos, concesionarios o contratantes, podrán solicitar la revisión en cualquier tiempo, de las tarifas o cuotas a que se refieren los artículos anteriores, cuando a juicio de éstos, los aprobados ya no garanticen el equilibrio financiero para la eficaz prestación de los servicios públicos concesionados o contratados.
 
-### CAPÍTULO VI. Panteones
+### CAPÍTULO V. Mercados y Centrales de Abasto
 
 ###### Artículo 135.
 
@@ -2101,7 +2141,7 @@ Para los efectos de este capítulo se consideran lugares de uso común: Los bule
 
 La prestación del servicio de alumbrado público se sujetará, a las prioridades establecidas en los Programas Municipales de Desarrollo Urbano de Centros de Población y, en lo conducente, a las leyes federales aplicables y a las normas técnicas que emitan las autoridades competentes.
 
-### CAPÍTULO VII. Calles
+### CAPÍTULO VI. Panteones
 
 ###### Artículo 138.
 
@@ -2133,7 +2173,7 @@ El transporte de basura, desperdicios o residuos sólidos, sin perjuicio de lo s
 
 En la prestación del servicio público de limpia, la Secretaría de Desarrollo Social y Protección del Medio Ambiente del Poder Ejecutivo del Estado, tendrá la participación que le señalen las leyes y demás disposiciones aplicables.
 
-### CAPÍTULO VIII. Parques, Jardines y Centros Deportivos
+### CAPÍTULO VII. Calles
 
 ###### Artículo 145.
 
@@ -2183,7 +2223,7 @@ En el supuesto de que los ayuntamientos presten el servicio público a que se re
 
 En relación con las concesiones, uso o posesión de los espacios ubicados en el interior de los mercados y centrales de abasto, se observará lo establecido en esta Ley y demás disposiciones reglamentarias correspondientes.
 
-### CAPÍTULO IX. Estacionamientos
+### CAPÍTULO VIII. Parques, Jardines y Centros Deportivos
 
 ###### Artículo 153.
 
@@ -2251,7 +2291,7 @@ Los cadáveres o restos humanos de personas desconocidas, se depositarán en el 
 
 Los cadáveres y restos humanos de personas desconocidas que remitan las autoridades competentes para su inhumación en la fosa común, deberán estar relacionados individualmente con el número de acta que corresponda, debiéndose satisfacer, además, los requisitos que señalen las leyes aplicables.
 
-### CAPÍTULO X. Rastros
+### CAPÍTULO IX. Estacionamientos
 
 ###### Artículo 165.
 
@@ -2269,7 +2309,7 @@ Cuando a solicitud de los particulares resulte necesario realizar obras para la 
 
 Los particulares, conforme a las disposiciones fiscales relativas, deberán de contribuir a la ejecución de las obras que, para la eficaz prestación del servicio público a que se refiere este capítulo, resulten necesarias.
 
-### CAPÍTULO XI. De los Convenios
+### CAPÍTULO X. Rastros
 
 ###### Artículo 169.
 
@@ -2293,7 +2333,7 @@ La ejecución de las obras que se requieran para la prestación de los servicios
 
 En el establecimiento de campos deportivos, se observarán los requisitos que fijen las normas técnicas establecidas para cada una de las ramas y categorías del deporte de aficionados.
 
-### CAPÍTULO I. De la Administración Paramunicipal
+### CAPÍTULO XI. De los Convenios
 
 ###### Artículo 173.
 
@@ -2321,7 +2361,7 @@ IV. Las demás que se consideren necesarias.
 
 Los ayuntamientos, cuando presten directamente el servicio público a que se refiere este capítulo y los concesionarios del mismo, serán responsables de la pérdida o de los daños causados a los vehículos, cuando los mismos se encuentren bajo su guarda. Para este efecto, deberán contratar el seguro correspondiente.
 
-### CAPÍTULO II. De los Organismos Públicos Descentralizados Constitución, Organización y Fundamento
+### CAPÍTULO I. De la Administración Paramunicipal
 
 ###### Artículo 177.
 
@@ -2371,7 +2411,7 @@ El sacrificio clandestino será sancionado conforme a la Ley de Ganadería del E
 
 Los administradores o encargados de los rastros o lugares a que se refiere el segundo párrafo del artículo anterior, serán los responsables de la observancia de este capítulo y las demás disposiciones aplicables.
 
-### CAPÍTULO III. De las Empresas de Participación Municipal Mayoritaria
+### CAPÍTULO II. De los Organismos Públicos Descentralizados Constitución, Organización y Fundamento
 
 ###### Artículo 182.
 
@@ -2449,7 +2489,7 @@ X. Dicha resolución será definitiva y será publicada en el Periódico Oficial
 
 ## TÍTULO NOVENO. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
-### CAPÍTULO IV. De los Fideicomisos Públicos
+### CAPÍTULO III. De las Empresas de Participación Municipal Mayoritaria
 
 ###### Artículo 184.
 
@@ -2477,7 +2517,7 @@ El presidente municipal, previa autorización del Ayuntamiento, aprobará la par
 
 Los órganos de gobierno de las entidades estarán a cargo de la administración de los organismos descentralizados, de las empresas de participación municipal mayoritaria, así como, en su caso, los comités técnicos de los fideicomisos públicos, y deberán estar integrados mayoritariamente por servidores públicos de la administración pública municipal, sin que en ningún caso existan regímenes especiales de voto que afecten la capacidad de decisión de dichos servidores públicos.
 
-### CAPÍTULO V. De la Operación y Control de las Entidades Paramunicipales
+### CAPÍTULO IV. De los Fideicomisos Públicos
 
 ###### Artículo 190.
 
@@ -2561,7 +2601,7 @@ VIII. Sustituir o revocar poderes generales o especiales.
 
 Los directores ejercerán las facultades a que se refieren las fracciones II, III, IV y VII bajo su responsabilidad y dentro de las limitaciones que señale el órgano de gobierno.
 
-### CAPÍTULO I. De las Responsabilidades de los Servidores Públicos
+### CAPÍTULO V. De la Operación y Control de las Entidades Paramunicipales
 
 ###### Artículo 197.
 
@@ -2615,7 +2655,7 @@ Los integrantes de dicho órgano de gobierno que representen la participación d
 
 El Consejo de Administración o su equivalente se reunirá con la periodicidad que señale el acta constitutiva de la empresa, sin que pueda ser menor a cuatro veces al año.
 
-### CAPÍTULO II. De la Declaración de la Situación Patrimonial
+### CAPÍTULO I. De las Responsabilidades de los Servidores Públicos
 
 ###### Artículo 205.
 
@@ -2653,7 +2693,7 @@ La institución fiduciaria deberá abstenerse de cumplir las resoluciones que el
 
 Cuando para el cumplimiento de la encomienda fiduciaria se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso, si no es posible reunir al Comité Técnico por cualquier instancia, la institución fiduciaria procederá a consultar al presidente municipal a través de la Dirección de Finanzas, quedando facultada para ejecutar aquellos actos que aquél autorice.
 
-### CAPÍTULO III. De las Relaciones Laborales
+### CAPÍTULO II. De la Declaración de la Situación Patrimonial
 
 ###### Artículo 210.
 
@@ -2737,7 +2777,7 @@ Los órganos internos de control serán parte integrante de la estructura de la 
 
 ## TÍTULO DÉCIMO. DE LOS SERVIDORES PÚBLICOS DE LOS AYUNTAMIENTOS
 
-### CAPÍTULO I. De las Adquisiciones
+### CAPÍTULO III. De las Relaciones Laborales
 
 ###### Artículo 218.
 
@@ -2775,7 +2815,7 @@ Las sanciones económicas constituyen créditos fiscales a favor del erario muni
 
 Tratándose de los servidores públicos de base, la suspensión y la destitución se sujetará a lo previsto en la ley que regula las relaciones laborales de aquéllos con el Municipio.
 
-### CAPÍTULO II. De las Enajenaciones
+### CAPÍTULO I. De las Adquisiciones
 
 ###### Artículo 226.
 
@@ -2811,7 +2851,7 @@ Cuando los que no presenten su declaración de situación patrimonial o de modif
 
 Para efectos de registro y control, el contralor municipal remitirá al Órgano Superior de Fiscalización del Estado, un tanto de las declaraciones de situación patrimonial que le sean presentadas. Asimismo, también deberá remitir a dicho Órgano, la información relacionada con la situación patrimonial de los servidores públicos que le requiera, por acuerdo de la comisión competente del Congreso del Estado, en términos del artículo 90, segundo párrafo de la Ley de Responsabilidades de los Servidores Públicos.
 
-### CAPÍTULO III. De los Contratos Celebrados por los Ayuntamientos
+### CAPÍTULO II. De las Enajenaciones
 
 ###### Artículo 230.
 
@@ -2827,7 +2867,7 @@ TÍTULO DECIMOPRIMERO
 
 DE LOS ACTOS ADMINISTRATIVOS
 
-### CAPÍTULO IV. De las Concesiones
+### CAPÍTULO III. De los Contratos Celebrados por los Ayuntamientos
 
 ###### Artículo 232.
 
@@ -2835,7 +2875,7 @@ Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, presta
 
 Cuando las licitaciones a que se hace referencia no sean idóneas para asegurar las condiciones, y de conformidad con las leyes aplicables, se estudiarán de las ofrecidas las que presenten mejores condiciones en cuanto a economía, eficiencia, eficacia, imparcialidad y honradez a fin de que los contratos que se celebren aseguren las mejores condiciones para el Municipio.
 
-### CAPÍTULO V. De los Recursos
+### CAPÍTULO IV. De las Concesiones
 
 ###### Artículo 233.
 
@@ -2874,6 +2914,8 @@ Una vez recibida la solicitud, el Cabildo emitirá por acuerdo de las dos tercer
 ###### Artículo 234.
 
 Las enajenaciones de bienes muebles propiedad de los ayuntamientos, se ajustará en lo conducente al procedimiento señalado en el numeral anterior y se efectuarán en subasta pública siguiendo un procedimiento semejante al previsto para los remates judiciales en el Código de Procedimientos Civiles del Estado.
+
+### CAPÍTULO V. De los Recursos
 
 ###### Artículo 235.
 
@@ -3288,3 +3330,15 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de cada Municipio del Estado deberán fijar una partida dentro del presupuesto para la Dirección de Atención a las Mujeres en cada Programa Operativo Anual, para su aplicación durante el ejercicio 2007 y subsecuentes aplicaciones.
