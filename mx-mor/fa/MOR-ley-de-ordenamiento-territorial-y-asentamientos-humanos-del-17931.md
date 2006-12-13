@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-asentamientos-humanos-del-179
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-23"
-last_updated: "2000-09-29"
+last_updated: "2006-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y ASENTAMIENTOS HUMANOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 23 de agosto de 2000.
 
@@ -1925,21 +1925,29 @@ Los Ayuntamientos, con base en lo que establece el ARTÍCULO 142 de esta Ley, de
 
 ### CAPÍTULO SEXTO. DE LA PAVIMENTACIÓN
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 201.
 
-Las vías públicas deberán contar, en sus pavimentos bases y sub bases, con las especificaciones técnicas necesarias que permitan una vida útil a su proyecto. Deberá permitir el desalojo rápido de las aguas superficiales, sin que afecten a guarniciones, redes de instalaciones, banquetas y construcciones colindantes.
+Las vías públicas deberán contar en sus pavimentos bases y sub bases, con las especificaciones técnicas necesarias que permitan una vida útil a sus proyectos; mismas que serán construidas con materiales preferentemente permeables para aligerar el desalojo rápido de las aguas superficiales, sin que afecte a guarniciones, redes de instalaciones banquetas y construcciones colindantes, y se procure la recarga de los mantos acuíferos.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 202.
 
-Los espesores y resistencias mínimas del pavimento, estarán dados, en áreas urbanas, por las normas técnicas de la Secretará (sic) de Desarrollo Social; y en áreas no urbanas por las normas técnicas de la Secretaría de Comunicaciones y Transportes. Las terracerías se formarán con material sano de banco de la localidad preferentemente, siguiendo los procedimientos constructivos y la calidad que exija la autoridad competente. Previo a los trabajos de pavimentación se deberán instalar las redes de agua potable y alcantarillado con las tomas y descargas correspondientes, como mínimo.
+Los espesores y resistencias mínimas del pavimento, estarán dados, en áreas urbanas, por las normas técnicas de la Secretaría de Desarrollo Social; y en áreas no urbanas por las normas técnicas de la Secretaría de Comunicaciones y Transportes. Las terracerías se formarán con material sano de banco de la localidad preferentemente, siguiendo los procedimientos constructivos y la calidad que exija la autoridad competente buscando que los materiales utilizados sean preferentemente permeables para que permitan la filtración de las descargas pluviales. Previo a los trabajos de pavimentación se deberán instalar las redes de agua potable y alcantarillado con las tomas y descargas correspondientes, como mínimo.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 203.
 
-Para delimitar los arroyos de circulación vehicular se construirán guarniciones de concreto hidráulico, las guarniciones y banquetas en esquina deberán permitir el paso y tránsito de las personas discapacitadas.
+Para delimitar los arroyos de circulación vehicular se construirán guarniciones de materiales preferentemente permeables, las guarniciones y banquetas en esquina deberán permitir el paso y tránsito de las personas discapacitadas.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 204.
 
-El tipo y características técnicas del pavimento a emplearse en vías públicas se determinarán con base en su función dentro de la estructura e imagen urbana y a la intensidad del tránsito y pesos vehiculares ya sea que se ejecuten en forma directa por los Municipios, por contratistas, por particulares o por colonos organizados. La autoridad municipal u otros ejecutores, podrán solicitar la asesoría técnica de la Secretaría de Desarrollo Urbano y Obras Públicas, de la Secretaría de Desarrollo Social, de la Secretaría de Comunicaciones y Transportes o del Colegio de Ingenieros Civiles del Estado.
+El tipo y características técnicas del pavimento a emplearse en vías públicas se determinarán con base en su función dentro de la estructura e imagen urbana y a la intensidad del tránsito y pesos vehiculares ya sea que se ejecuten en forma directa por los Municipios, por contratistas, por particulares o por colonos organizados; pero en cualquiera de los casos se utilizarán materiales preferentemente permeables para la mejor filtración de las aguas. La autoridad municipal u otros ejecutores, podrán solicitar la asesoría técnica de la Secretaría de Desarrollo Urbano y Obras Públicas, de la Secretaría de Comunicaciones y Transportes o del Colegio de Ingenieros Civiles del Estado.
 
 ###### ARTÍCULO 205.
 
@@ -3250,3 +3258,13 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+P.O. 13 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
