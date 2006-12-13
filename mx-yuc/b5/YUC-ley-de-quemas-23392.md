@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-quemas-23392"
 country: "mx"
 rank: "ley"
 publication_date: "1977-02-23"
-last_updated: "1977-02-23"
+last_updated: "2006-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE QUEMAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PREVENCION Y COMBATE DE INCENDIOS DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 13 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 23 de febrero de 1977.
 
@@ -176,3 +178,11 @@ Lic. Gaspar Gómez Chacón.
 El Director de Agricultura y Ganadería,
 
 Ing. Agustín Franco Aguilar.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 13 DE DICIEMBRE DE 2006.
+
+Artículo Primero.- La presente ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se abroga el Decreto número 110 de fecha 21 de febrero de 1977, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 23 del mismo mes y año, que contiene la Ley de Quemas, así como todos los ordenamientos y disposiciones legales que se opongan a la presente ley.
