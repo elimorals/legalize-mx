@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-la-procuraduria-general-de-justicia-del-19189"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2006-09-12"
+last_updated: "2006-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 30 de diciembre de 2000.
 
@@ -95,9 +95,9 @@ VI. Realizar el aseguramiento de los instrumentos, objetos y productos del delit
 
 VII. Ordenar la detención de los probables responsables en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y de la legislación procesal correspondiente;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
-VIII. Ejercitar la acción legal ante el Juez Especializado, a las personas que tengan entre 12 años cumplidos y menos de 18 años de edad y que hubieren cometido conductas tipificadas como delito por la ley penal;
+VIII. Poner a disposición del Centro de Internamiento Especializado para los menores de edad que hubieren cometido infracciones correspondientes a ilícitos tipificados por la ley penal;
 
 IX. Promover la conciliación en los delitos perseguibles por querella;
 
@@ -105,7 +105,9 @@ X. Conceder la libertad a los indiciados, en los términos previstos por la frac
 
 XI. Proveer la atención médica de urgencia que requiera el ofendido, la víctima y el inculpado;
 
-XII. Poner a los inimputables mayores de 17 años, a disposición del órgano jurisdiccional, cuando se deban aplicar medidas de seguridad, ejercitando las acciones correspondientes, en los términos establecidos en las normas aplicables;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+XII. Poner a los inimputables que tengan entre 14 años cumplidos y menos de 18 años de edad, a disposición del órgano jurisdiccional, cuando le deban aplicar medidas de internamiento, ejercitando las acciones correspondientes, en los términos establecidos en las normas aplicables;
 
 XIII. Determinar el no ejercicio de la acción penal cuando no se satisfagan los requisitos del Artículo 16 Constitucional; y
 
@@ -195,49 +197,69 @@ El Procurador General de Justicia, será nombrado por el Gobernador del Estado; 
 
 La Procuraduría estará a cargo del Procurador, titular de la Institución del Ministerio Público, quien ejercerá autoridad jerárquica sobre todo el personal de la Procuraduría.
 
-Para la realización de sus funciones, el Procurador se auxiliará con los Subprocuradores, Directores Generales, Directores de Área, Subdirectores, Coordinadores en sus respectivas competencias, y demás personal de apoyo administrativo que sean necesarios, quienes tendrán las atribuciones que fijen las normas legales, reglamentarias y demás aplicables.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+Para la realización de sus funciones, el Procurador se auxiliará con los Subprocuradores de Procesos; y de Investigación, Directores Generales, Directores de Área, Subdirectores, Delegados Regionales, Coordinadores, Agentes del Ministerio Público, notificadores y demás personal de apoyo administrativo que sean necesarios, quienes tendrán las atribuciones que fijen las normas legales reglamentarías y demás aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+La organización, atribuciones y adscripción de los notificadores del Ministerio Público, así como el apoyo que los Agentes de la Policía Ministerial le deben brindar en caso necesario, en la realización de sus funciones se determinaran en el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 13.
 
-Los Subprocuradores y Directores auxiliarán al Procurador en las funciones que esta Ley y el Reglamento le encomienden y, por delegación que haga dicho titular mediante acuerdo formal, resolverán los casos en que se consulte el no ejercicio de la acción penal y la formulación de conclusiones no acusatorias, así como las consultas que los Agentes del Ministerio Público formulen o las prevenciones que la autoridad judicial acuerde, en los términos que la ley establezca, a propósito de conclusiones presentadas en un proceso penal o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado, antes de que se pronuncie sentencia.
+Los Subprocuradores y Directores Generales y Directores de Área auxiliarán al Procurador en las funciones que esta Ley y el Reglamento le encomienden y, por delegación que haga dicho titular mediante acuerdo formal, resolverán los casos en que se consulte el no ejercicio de la acción penal y la formulación de conclusiones no acusatorias, así como las consultas que los Agentes del Ministerio Público formulen o las prevenciones que la autoridad judicial acuerde, en los términos que la ley establezca, a propósito de conclusiones presentadas en un proceso penal o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado, antes de que se pronuncie sentencia.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 14.
 
-El Reglamento establecerá el número de unidades administrativas de la Procuraduría, las atribuciones de cada una de éstas y la forma en que sus titulares serán suplidos en sus ausencias, con base en la especialización necesaria y apropiada para la mejor procuración de justicia.
+Para el desarrollo de las funciones de la Procuraduría General de Justicia del Estado, se contará con un sistema de desconcentración territorial y funcional, que operará mediante Delegaciones Regionales. Al frente de cada Delegación Regional habrá un Delegado Regional, designado por el Procurador General de Justicia del Estado.
+
+Las sedes de las Delegaciones Regionales Regionales (sic) serán definidas atendiendo a la incidencia delictiva, densidad de población y las características geográficas del Estado.
+
+El Procurador General de Justicia, podrá contar con Unidades Administrativas a cargo de la coordinación supervisión y evaluación de las Delegaciones Regionales.
+
+El Reglamento establecerá el número de Delegaciones Regionales y unidades administrativas de la Procuraduría, las atribuciones de cada una de éstas y la forma en que sus titulares serán suplidos en sus ausencias, con base en la especialización necesaria y apropiada para la mejor procuración de justicia.
 
 El Procurador podrá adscribir orgánicamente las unidades administrativas establecidas en el Reglamento mediante acuerdos que se publicarán en el Periódico Oficial del Estado.
 
-De conformidad con las necesidades del servicio, el Procurador podrá establecer las delegaciones y agencias del Ministerio Público que se requieran, de acuerdo con las disponibilidades presupuestales.
+De conformidad con las necesidades del servicio, el Procurador podrá establecer las Delegaciones Regionales y agencias del Ministerio Público que se requieran, de acuerdo con las disponibilidades presupuestales.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 15.
 
 Para ser Procurador se requiere:
 
-I. Ser ciudadano mexicano por nacimiento;
+l. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos y civiles;
 
-II. Tener treinta años de edad cumplidos, el día de la designación;
+II. Tener cuando menos treinta y cinco años de edad cumplidos, el día de la designación;
 
-III. Ser licenciado en derecho, con título y cédula profesional expedidos y registrados por instituciones legalmente autorizadas para ello y haber ejercido la profesión cuando menos cinco años o tres en la Procuraduría General de Justicia del Estado de Tabasco;
+III. Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello;
 
-IV. No ser ministro de ningún culto religioso; y
+IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-V. Gozar de buena reputación y no haber sido condenado por sentencia ejecutoriada como responsable de un delito doloso;
-
-VI. No ser adicto ni hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
+V. Haber residido en el país durante los dos años anteriores al día de la designación.
 
 ###### ARTICULO 16.
 
 El Procurador expedirá los acuerdos, circulares, instructivos, bases y manuales de organización y procedimientos conducentes al buen despacho de las funciones de la Institución, y resolverá por sí o por conducto del servidor público que delegue, sobre el ingreso, promoción, adscripción, renuncia, sanción y estímulo de sus subalternos, sin perjuicio de las disposiciones que regulen las relaciones laborales entre el Ejecutivo y quienes les presten sus servicios.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 17.
 
-Los Subprocuradores, Directores Generales y de Área, serán nombrados y removidos libremente por el Gobernador del Estado a propuesta del Procurador General de Justicia. Los demás servidores públicos serán designados y removidos en los términos previstos por esta Ley y su Reglamento.
+Los Subprocuradores de Procesos; y de Investigaciones, Directores Generales y de Área serán nombrados y removidos libremente por el Gobernador del Estado a propuesta del Procurador General de Justicia. Los demás servidores públicos serán designados y removidos en los términos previstos por esta Ley y su Reglamento.
 
 ###### ARTICULO 18.
 
 Para ser Subprocurador se deben reunir los mismos requisitos que para ser Procurador.
 
-Los Subprocuradores suplirán al Procurador en sus excusas, ausencias o faltas temporales, de conformidad con lo que determine el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+Durante las Ausencias, Excusas o faltas temporales del Procurador, el despacho y resolución de los asuntos estarán a cargo, en el orden que se mencionan de los Subprocuradores de Procesos; y de Investigaciones.
 
 ###### ARTICULO 19.
 
@@ -257,7 +279,9 @@ V. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras q
 
 Son auxiliares del Ministerio Público:
 
-I. La Policía Judicial; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+I. La Policía Ministerial; y
 
 II. Los Servicios Periciales.
 
@@ -283,7 +307,9 @@ VII. En su caso, tener acreditado el servicio militar nacional;
 
 VIII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables, y;
 
-IX. Haber aprobado el concurso de ingreso y los cursos de formación inicial o básica que imparta el Instituto de Capacitación Técnica y Profesional de la Procuraduría General de Justicia del Estado u otras instituciones cuyos estudios sean reconocidos por el Instituto.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+IX. Haber aprobado el concurso de ingreso y los cursos de formación inicial o básica que imparta el Instituto de Capacitación y Profesionalización de la Procuraduría General de Justicia del Estado u otras instituciones cuyos estudios sean reconocidos por el Instituto.
 
 ###### ARTICULO 22.
 
@@ -295,7 +321,9 @@ II. Ser de notoria buena conducta y reconocida solvencia moral, no haber sido co
 
 III. Poseer grado de escolaridad mínima de preparatoria o su equivalente;
 
-IV. Tener 20 años de edad en el momento de presentar su documentación;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+IV. Tener 25 años de edad en el momento de presentar su documentación;
 
 V. No ser adicto ni hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
 
@@ -313,7 +341,9 @@ I. Ser ciudadano mexicano por nacimiento;
 
 II. Ser de notoria buena conducta y reconocida solvencia moral, no haber sido condenado por sentencia irrevocable como responsable de delito doloso;
 
-III. Tener título legalmente expedido y registrado por la Autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate con tres años de experiencia profesional por lo menos; ó acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que se deba dictaminar de acuerdo con las normas aplicables, cuando no se requiera título o cédula profesional para su ejercicio;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+III. Tener título legalmente expedido y registrado por la Autoridad competente que lo faculte para ejercer la ciencia o disciplina de que se trate con tres años de experiencia profesional por lo menos y la constancia de grado de estudios de Posgrado cuando se requiera; tratándose de técnica o arte se deberá acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que se deba dictaminar de acuerdo con las normas aplicables cuando no se requiera título o cédula profesional para su ejercicio;
 
 IV. Tener 25 años de edad en el momento de presentar su documentación;
 
@@ -323,7 +353,9 @@ VI. En su caso, tener acreditado el servicio militar nacional;
 
 VII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables, y;
 
-VIII. Haber aprobado el examen de selección y los cursos de formación inicial o básica que imparta el Instituto de Capacitación Técnica y Profesional de la Procuraduría General de Justicia del Estado u otras instituciones cuyos estudios sean reconocidos por el Instituto.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+VIII. Haber aprobado el examen de selección y los cursos de formación inicial o básica que imparta el Instituto de Capacitación y Profesionalización de la Procuraduría General de Justicia de Estado u otras instituciones cuyos estudios sean reconocidos por el Instituto.
 
 ###### ARTICULO 24.
 
@@ -335,7 +367,9 @@ II. Ser de notoria buena conducta y reconocida solvencia moral, no haber sido co
 
 III. Ser licenciado en derecho con título y cédula legalmente expedidos y registrados por institución legalmente autorizada para ello;
 
-IV. Tener como mínimo 23 años de edad en el momento de presentar su documentación y experiencia profesional mínima de dos años;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+IV. Tener como mínimo 25 años de edad en el momento de presentar su documentación y experiencia profesional mínima de dos años;
 
 V. No ser adicto ni hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
 
@@ -343,13 +377,17 @@ VI. En su caso, tener acreditado el servicio militar nacional;
 
 VII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables; y
 
-VIII. Haber aprobado el examen de selección y los cursos de formación inicial o básica que imparta el Instituto de Capacitación Técnica y Profesional de la Procuraduría General de Justicia del Estado u otras instituciones cuyos estudios sean reconocidos por el Instituto.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+VIII. Haber aprobado el examen de selección y los cursos de formación inicial o básica que imparte el Instituto de Capacitación y Profesionalización de la Procuraduría General de Justicia del Estado u otras instituciones cuyos estudios sean reconocidos por el Instituto.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 25.
 
-De conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Policía Judicial actuará bajo la autoridad y el mando inmediato del Ministerio Público y lo auxiliará en la investigación de los delitos del orden común.
+De conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Policía Ministerial actuará bajo la autoridad y el mando inmediato del Ministerio Público y lo auxiliará en la investigación de los delitos del orden común.
 
-Conforme a las instrucciones que en cada caso dicte el Ministerio Público, la Policía Judicial desarrollará las diligencias que deban practicarse durante la indagatoria, cumplirá las investigaciones, citaciones, notificaciones, detenciones y presentaciones que se le ordenen y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emitan los órganos jurisdiccionales.
+Conforme a las instrucciones que en cada caso dicte el Ministerio Público, la Policía Ministerial desarrollará las diligencias que deban practicarse durante la indagatoria, cumplirá las investigaciones, detenciones y presentaciones que se le ordenen y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emitan los órganos jurisdiccionales.
 
 ###### ARTICULO 26.
 
@@ -371,11 +409,15 @@ El personal a que se refiere el presente capítulo, así como aquellos que seña
 
 ### CAPITULO III. SERVICIO CIVIL DE CARRERA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 30.
 
-El Servicio Civil de Carrera para los Agentes del Ministerio Público, Asesores Jurídicos, Agentes de la Policía Judicial y los Peritos adscritos a los Servicios Periciales de la Institución, se regirá por esta Ley, su Reglamento y demás disposiciones aplicables estará a cargo del Instituto de Capacitación Técnica y Profesional y se sujetará a las siguientes disposiciones:
+El Servicio Civil de Carrera para los Agentes del Ministerio Público, Asesores Jurídicos, Agentes de la Policía Ministerial y los Peritos adscritos a los Servicios Periciales de la Institución, se regirá por esta ley, su reglamento y demás disposiciones aplicables estará a cargo del Instituto de Capacitación y Profesionalización y se sujetará a las siguientes disposiciones:
 
-I. Será el elemento básico para el ingreso y la formación del personal del Ministerio Público, del Asesor Jurídico, de la Policía Judicial y de los Servicios Periciales;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+l. Será el elemento básico para el ingreso y la formación del personal del Ministerio Público, del Asesor Jurídico, de la Policía Ministerial y de los Servicios Periciales;
 
 II. Tendrá carácter obligatorio y permanente;
 
@@ -393,7 +435,9 @@ VIII. El contenido teórico y práctico de los programas de formación en todos 
 
 IX. La formación promoverá la observancia de las disposiciones constitucionales y legales que rigen la actuación del Ministerio Público, fomentando particularmente el respeto irrestricto a los derechos humanos, la legalidad, eficiencia, profesionalismo, honradez y la plena conciencia sobre el efecto social de la responsabilidad; y
 
-X. Promoverá la celebración de convenios de colaboración con los Estados, Municipios y autoridades federales que concurren en el Sistema Nacional de Seguridad Pública, tendientes a la profesionalización del Ministerio Público, Asesor Jurídico, Policía Judicial y Servicios Periciales, o de las instituciones de Seguridad Pública local, municipal o federal.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+X. Promoverá la celebración de convenios de colaboración con los Estados, Municipios y autoridades federales que concurren el Sistema Nacional de Seguridad Publica, tendientes a la profesionalización de Ministerio Público, Asesor Jurídico, Policía Ministerial y Servicios Periciales, o de las instituciones de Seguridad Publica local, municipal o federal.
 
 ###### ARTICULO 31.
 
@@ -403,9 +447,11 @@ Para el ingreso de los servidores públicos a la Procuraduría, los responsables
 
 Los Secretarios del Ministerio Público, los mecanógrafos y el personal administrativo en general, para ingresar y permanecer en la Procuraduría, deberán presentar y aprobar los exámenes de selección, las evaluaciones psicosociales y acreditar los cursos de capacitación y actualización que prevean las normas reglamentarias y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 33.
 
-Las normas reglamentarias y demás disposiciones aplicables establecerán sistemas de estímulos económicos derivados del desempeño, formación profesional, grados académicos y antigüedad de los Agentes del Ministerio Público, Asesores Jurídicos, Agentes de la Policía Judicial y Peritos adscritos a los Servicios Periciales de la Procuraduría.
+Las normas reglamentarias y demás disposiciones aplicables establecerán sistemas de estímulos económicos derivados del desempeño, formación profesional, grados académicos y antigüedad de los Agentes del Ministerio Público, Asesores Jurídicos. Agentes de la Policía Ministerial y Peritos adscritos a los Servicios Periciales de la Procuraduría.
 
 ### CAPITULO IV. DISPOSICIONES GENERALES
 
@@ -421,13 +467,17 @@ Cuando la conducta de que se trate entrañe la posible comisión de un delito, s
 
 Asimismo cuando el Juez que conozca de la comisión de un delito cometido por servidores públicos de la Procuraduría, pedirá al Procurador que lo ponga a su disposición, previa separación del cargo, sin perjuicio de que se adopten las medidas cautelares que correspondan para evitar que el inculpado se sustraiga de la acción de la justicia. El Procurador se atendrá a lo dispuesto por el Organo Jurisdiccional. La detención que se practique en contravención a este precepto, será sancionada en los términos que prevenga el Código Penal.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 36.
 
-Los Agentes del Ministerio Público, de la Policía Judicial, Peritos, Asesores Jurídicos y Secretarios del Ministerio Público, que estén sujetos a proceso penal como probables responsables de delito doloso, o culposo calificado como grave por la ley, serán suspendidos desde que se dicte el auto de formal prisión o de sujeción a proceso y hasta que se emita sentencia ejecutoriada. En caso de que ésta fuese condenatoria serán destituidos; si por el contrario fuese absolutoria, se les restituirá en sus derechos.
+Los Agentes del Ministerio Público de la Policía Ministerial, Peritos, Asesores Jurídicos y Secretarios del Ministerio Público, que estén sujetos a proceso penal como probables responsables de delito doloso, o culposo calificado como grave por la ley, serán suspendidos desde que se dicte el auto de formal prisión o de sujeción a proceso y hasta que se emita sentencia ejecutoriada. En caso de que ésta fuese condenatoria serán destituidos; si por el contrario fuese absolutoria, se les restituirá en sus derechos.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 37.
 
-Los Agentes del Ministerio Público, Asesores Jurídicos, Secretarios del Ministerio Público, Policía Judicial y Peritos adscritos a los Servicios Periciales, serán recusables y deben excusarse del conocimiento de los asuntos en que intervengan cuando exista alguna de las causas de impedimento que la Legislación Orgánica de los Tribunales señalen.
+Las Agentes del Ministerio Público, Asesores Jurídicos, Secretarios del Ministerio Público, Policía Ministerial y Peritos adscritos a los Servicios Periciales, serán recusables y deben excusarse del conocimiento de los asuntos en que intervengan cuando exista alguna de las causas de impedimento que la Legislación Orgánica de los Tribunales señalen.
 
 ###### ARTICULO 38.
 
@@ -437,9 +487,11 @@ El Ministerio Público podrá expedir copias certificadas de constancias o regis
 
 Todo servidor público de la Procuraduría, sin excepción alguna, antes de tomar posesión de su cargo, otorgará ante quien corresponda protesta de cumplir las obligaciones que contrae, guardar y hacer guardar sin reserva alguna la Constitución General de la República, la del Estado y las leyes que de ellas emanen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 40.
 
-Los Agentes del Ministerio Público, de la Policía Judicial, Peritos adscritos a los Servicios Periciales de la Procuraduría, los Asesores Jurídicos y los Secretarios de agencia no podrán:
+Los Agentes del Ministerio Público, de la Policía Ministerial, Peritos adscritos a los Servicios Periciales de la Procuraduría, los Asesores Jurídicos y los Secretarios de agencia no podrán:
 
 I. Desempeñar otro empleo, cargo o comisión de cualquier naturaleza en la administración pública federal, del Estado de Tabasco o de otras entidades federativas y municipios, así como trabajos o servicios en instituciones privadas, salvo los de carácter docente y aquellos que autorice la Procuraduría, siempre y cuando no sean incompatibles con sus funciones en la Institución;
 
@@ -451,9 +503,49 @@ IV. Ejercer ni desempeñar las funciones de depositario o apoderado judicial, s�
 
 La violación a este precepto será motivo de las sanciones administrativas que correspondan conforme a la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de la aplicable en materia penal, en su caso.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 41.
 
-Los Agentes del Ministerio Público y los miembros de la Policía Judicial, con motivo de sus funciones, previa identificación y presentación del oficio de comisión tendrán libre acceso a los centros de espectáculos públicos en todo el Estado y gozarán de pasajes gratuitos en los vehículos concesionados.
+Los Agentes del Ministerio Público y los miembros de la Policía Ministerial con motivo de sus funciones previa identificación y presentación del oficio de comisión tendrán libre acceso a los centros de espectáculos públicos en todo el Estado y gozarán de pasajes gratuitos en los vehículos concesionados.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO V. DEL CONSEJO CONSULTIVO CIUDADANO
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 42.
+
+El Consejo Consultivo Ciudadano, será un cuerpo colegiado integrado por el Procurador General de Justicia, los Servidores Públicos de la Procuraduría y representantes de los sectores social y privado, que se determinen en el Reglamento de esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 43.
+
+En los lugares en que la Procuraduría General de Justicia del Estado, cuente con Delegaciones Regionales habrá un Consejo Consultivo Ciudadano Regional.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 44.
+
+El Conseja Consultivo Ciudadano tendrá las siguientes funciones:
+
+I. Impulsar la relación entre la Procuraduría General de Justicia del Estado y la sociedad; y
+
+II. Promover la participación de la ciudadanía y de representantes de los organismos de los sectores social y privado, en la Procuración de Justicia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 45.
+
+La organización y funcionamiento del Consejo Consultivo Ciudadano, se sujetarán a las bases que al efecto expida el Procurador General de Justicia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 46.
+
+El Procurador General, de Justicia, dentro de la estructura administrativa de la Procuraduría General de Justicia del Estado, contara con las direcciones y unidades que fortalezcan las funciones del Consejo Consultivo Ciudadano.
 
 ## TRANSITORIOS
 
@@ -490,3 +582,11 @@ El presente Decreto que establece el Sistema Integral de Justicia para Adolescen
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
+
+P.O. 13 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+ARTÍCULO TERCERO (SIC).- En tanto el Gobernador del Estado, expide las disposiciones correspondientes, seguirán siendo aplicables, en lo que no se opongan al presente Decreto, las disposiciones del Reglamento de la Procuraduría General de Justicia en vigor.
