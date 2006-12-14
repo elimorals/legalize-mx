@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-los-servicios-administrativos-del-congreso-33997"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-09"
-last_updated: "2004-10-16"
+last_updated: "2006-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el martes 9 de septiembre de 2003.
 
@@ -473,9 +473,17 @@ VII. Mantener en buenas condiciones de uso las instalaciones y servicios de tele
 
 VIII. Administrar el uso de los sistemas y equipos de cómputo y telecomunicaciones del Congreso, así como vigilar su óptimo aprovechamiento;
 
-IX. Proporcionar a los órganos y a las unidades administrativas del Congreso soluciones de tecnología informática a sus problemas de optimización de recursos y de procesos operativos; y
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
 
-X. Las demás que, en el ámbito de su competencia, le instruya la Secretaría General.
+IX. Proporcionar a los órganos y a las unidades administrativas del Congreso soluciones de tecnología informática a sus problemas de optimización de recursos y de procesos operativos;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+X. Operar el Sistema Electrónico de Registro de Asistencia, Votación, Audio y Video, así como brindar apoyo técnico y asesoría en su manejo; y
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+XI. Las demás que, en el ámbito de su competencia, le instruya la Secretaría General.
 
 #### SECCIÓN SÉPTIMA. De la Oficina de Oficialía de Partes
 
@@ -557,7 +565,9 @@ III. Atender y desahogar las consultas que formulen los órganos y las unidades 
 
 IV. Supervisar la elaboración y publicación del Diario de los Debates y de la Gaceta Legislativa e intervenir en la realización de la Crónica Legislativa, así como en la actualización de la página de Internet del Congreso;
 
-V. Dirigir el funcionamiento del sistema legislativo de registro del sentido de las votaciones, del audio y grabación de las sesiones del Pleno, de la Permanente, de las Comisiones y de las comparecencias de los servidores públicos del Poder Ejecutivo, así como del sistema de información de estadística legislativa;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+V. Coordinar el funcionamiento del Sistema Electrónico de Registro de Asistencia, Votación, Audio y Video durante las sesiones del Pleno, de los sistemas de registro similares utilizados en las sesiones de la Permanente, en las reuniones de las Comisiones y en las comparecencias de los servidores públicos del Poder Ejecutivo, así como del sistema de información de estadística legislativa;
 
 VI. Difundir, por medio de las publicaciones oficiales y de la página de Internet del Congreso, la información estadística de las actividades legislativas y culturales de aquél;
 
@@ -1005,7 +1015,9 @@ I. Mantener en buenas condiciones de uso las instalaciones y los servicios de en
 
 II. Elaborar el programa anual de conservación y mantenimiento de los bienes del Congreso y verificar su cumplimiento;
 
-III. Realizar los trabajos de logística y servicios que requieran los eventos oficiales del Congreso;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+III. Auxiliar a la Mesa Directiva y a los diputados en la utilización, mantenimiento e instalación del Sistema Electrónico de Registro de Asistencia, Votación, Audio y Video, así como realizar los trabajos de logística y servicios que requieran los eventos oficiales del Congreso;
 
 IV. Vigilar la ejecución de los servicios de mantenimiento y conservación de mobiliario, equipo e instalaciones, prestados por trabajadores del Congreso o por particulares;
 
@@ -1248,3 +1260,9 @@ PRIMERO.- El presente Decreto entrará en vigor el treinta y uno de octubre de d
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+G.O. 14 DE DICIEMBRE DE 2006.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
