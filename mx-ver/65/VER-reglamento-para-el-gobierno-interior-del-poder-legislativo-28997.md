@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2006-01-04"
+last_updated: "2006-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -67,9 +67,17 @@ VII. Presidente de la Permanente, el Presidente de la Diputación Permanente;
 
 VIII. Presidente, el Presidente del Congreso y de la Directiva;
 
-IX. Reglamento Administrativo, el Reglamento de los Servicios Administrativos del Congreso del Estado; y
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
 
-X. Reglamento, el Reglamento para el Gobierno Interior del Poder Legislativo.
+IX. Reglamento Administrativo, el Reglamento de los Servicios Administrativos del Congreso del Estado;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+X. Reglamento, el Reglamento para el Gobierno Interior del Poder Legislativo; y
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+XI. Sistema Electrónico, el Sistema Electrónico de Registro de Asistencia, Votación, Audio y Video.
 
 La interpretación de este Reglamento se hará por el Pleno durante los periodos de sesiones ordinarias o extraordinarias, o por la Permanente en los recesos del Congreso.
 
@@ -179,7 +187,9 @@ Son obligaciones de los diputados, además de las establecidas por el artículo 
 
 I. Rendir protesta conforme a lo establecido por el artículo 15 de la Ley;
 
-II. Asistir con puntualidad a las sesiones del Pleno, de la Permanente y de las comisiones. Sólo podrán retirarse por causa justificada;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+II. Asistir con puntualidad, y sólo retirarse por causa justificada, cuando se realicen sesiones del Pleno, de la Permanente o de las Comisiones. En las sesiones del Pleno registrarán su asistencia en el Sistema Electrónico que, al efecto, se abrirá treinta minutos antes de la hora fijada para el inicio;
 
 III. Desempeñar los cargos, funciones y comisiones que les encomiende el Pleno, la Permanente o el Presidente;
 
@@ -205,7 +215,9 @@ X. Dar aviso de inmediato al Presidente cuando ocurra alguna incompatibilidad, a
 
 XI. Presentar por escrito a la Directiva o de la Permanente, las solicitudes de licencia;
 
-XII. Los diputados que estén impedidos para concurrir a una sesión del Congreso o de la Permanente, darán aviso por escrito al Presidente;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+XII. Dar aviso por escrito al Presidente, cuando se encuentren impedidos para concurrir a una sesión del Congreso o de la Permanente. De no avisar previamente, en casos de fuerza mayor, contarán con un plazo de hasta dos días hábiles posteriores a la fecha de la sesión para solicitar la justificación de su inasistencia;
 
 XIII. No invocar su condición de diputado para obtener un lucro para sí o para otro;
 
@@ -266,6 +278,10 @@ La privación de los derechos de un diputado podrá abarcar un período ordinari
 ###### Artículo 16.
 
 A los diputados que, injustificadamente o sin permiso del Presidente, faltaren a más de la mitad de las sesiones celebradas durante un mes, no se les cubrirá la dieta correspondiente a las reuniones en que hubiesen estado ausentes. Para efectuar el descuento, la Tesorería dividirá la dieta de cada diputado entre el número de sesiones que el Congreso haya celebrado durante el mes.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+La documentación emitida por el Sistema Electrónico servirá de soporte, en su caso, para aplicar la sanción prevista en el párrafo anterior.
 
 #### SECCIÓN SEGUNDA. De las Sanciones
 
@@ -377,7 +393,9 @@ La Directiva dispondrá la integración de las comisiones de protocolo y cortes�
 
 Son atribuciones del Presidente, además de las establecidas por el artículo 24 de la Ley, las siguientes:
 
-I. Instruir al Secretario para que pase lista de asistencia;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+I. Instruir al Secretario para que verifique la asistencia de los diputados a través, en su caso, del Sistema Electrónico, así como para justificar las ausencias que se le hubieren notificado previamente;
 
 II. Declarar que hay o no quórum al momento de instalar la sesión o cuando haya de efectuarse una votación si previamente lo solicitare un diputado;
 
@@ -399,9 +417,17 @@ X. Exhortar a los diputados que injustificadamente falten a las sesiones, a que 
 
 XI. Decretar recesos durante las sesiones;
 
-XII. Firmar las actas de las sesiones luego que sean aprobadas; y
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
 
-XIII. Las demás que le confieran la Constitución y la Ley, así como los reglamentos y acuerdos legislativos, aprobados por el Pleno; (sic)
+XII. Firmar las actas de las sesiones luego que sean aprobadas;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+XIII. Disponer la apertura o el cierre del Sistema Electrónico y, para votaciones, el tiempo en que éste permanecerá abierto, el que no podrá exceder de cinco minutos; y
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+XIV. Las demás que le confieren la normatividad aplicable y los acuerdos del Pleno.
 
 ###### Artículo 32.
 
@@ -447,9 +473,25 @@ VI. Elaborar las actas de las sesiones del Congreso, firmarlas después de ser a
 
 En caso de que el Congreso sesionare en la víspera de la conclusión del periodo constitucional de la Legislatura correspondiente, antes de terminar la sesión se declarará un receso en el que se elaborará el acta respectiva, se pondrá a consideración y aprobación del Pleno y, una vez aprobada, se firmará y registrará conforme a los dispuesto por el párrafo anterior;
 
-VII. Las actas de cada sesión contendrán el nombre del diputado que la presida, la hora de apertura y clausura, las observaciones, correcciones y aprobación, en su caso, del acta anterior, una relación nominal de los diputados presentes y de los ausentes, con justificación o sin ella, así como una relatoría sucinta, ordenada y clara de cuanto se tratare y resolviere en las sesiones. Al margen de las actas se anotarán los asuntos de que traten; y
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
 
-VIII. Las demás que le confieran la Constitución, las Leyes aplicables, este Reglamento y las que se deriven de otras disposiciones emanadas del Congreso.
+VII. Asentar en las actas de cada sesión el nombre del diputado que la presida, la hora de apertura y clausura, las observaciones, correcciones y aprobación, en su caso, del acta anterior, una relación nominal de los diputados presentes y de los ausentes, con justificación o sin ella, así como una relatoría sucinta, ordenada y clara de cuanto se tratare y resolviere en las sesiones. Al margen de las actas se anotarán los asuntos de que traten;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+VIII. Tener a su cargo los archivos que genere el Sistema Electrónico;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+IX. Registrar, cuando no sea posible hacerlo a través del Sistema Electrónico, la asistencia de los diputados o el sentido de la votación nominal de éstos, lo que hará constar, en su caso, en las relaciones impresas que emita el mismo;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+X. Entregar al Presidente, autorizadas con su firma, las relaciones impresas de asistencias o de votaciones, emitidas por el Sistema Electrónico; y
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
+XI. Las demás que le confieran la normatividad aplicable y los acuerdos del Pleno.
 
 ### CAPÍTULO III. De los Grupos Legislativos
 
@@ -859,9 +901,11 @@ El voto de los diputados es personal e indelegable. Mientras se realiza la votac
 
 Las votaciones pueden ser nominales, económicas o por cédula.
 
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 96.
 
-La votación nominal, se desarrollará de la manera siguiente:
+La votación nominal, en las sesiones del Pleno, se realizará mediante el Sistema Electrónico. En caso de inoperancia general de éste, así como en las sesiones de la Permanente y en las que se celebren en cumplimiento de lo dispuesto por el artículo 28 de la Constitución, la votación nominal se desarrollará de la manera siguiente:
 
 I. Cada diputado, comenzando por el lado derecho del Presidente, se pondrá de pie y dirá en voz alta su apellido y su nombre, expresando el sentido de su voto, que puede ser a favor, en contra o en abstención, sin ninguna otra expresión o fundamento de su postura. La Directiva será la última en votar.
 
@@ -883,9 +927,11 @@ III. Si hubiere duda de algún diputado sobre el sentido de la votación, éste 
 
 IV. El Secretario informará al Presidente de los resultados de la votación y éste, a su vez, hará la declaración de validez de la misma.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 98.
 
-La votación por cédulas se realizará para elegir personas, siendo su procedimiento el siguiente:
+La elección de personas se realizará mediante votación nominal, en términos del artículo 96. Cuando se trate de elegir a los integrantes de la Directiva, tanto del Pleno como de la Permanente, la votación se efectuará por cédulas, conforme al procedimiento siguiente:
 
 I. Cada diputado emitirá su voto por escrito en la cédula que le haya sido entregada y la deberá depositar en el ánfora que se destine para tal fin. El Secretario dará instrucciones al Personal del Cuerpo Técnico de Apoyo para conducir el ánfora en cada curul y entregarlas para su cómputo;
 
@@ -1504,3 +1550,9 @@ G.O. 4 DE ENERO DE 2006.
 Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de gobierno del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 14 DE DICIEMBRE DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
