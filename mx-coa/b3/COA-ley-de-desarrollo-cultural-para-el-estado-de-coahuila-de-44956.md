@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-cultural-para-el-estado-de-coahuila-de-44956"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-29"
-last_updated: "2006-11-07"
+last_updated: "2006-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 29 de abril del 2005.
 
@@ -1205,7 +1205,19 @@ IV. Coadyuvar con el diseño de mecanismos financieros novedosos para dotar de r
 
 V. Las demás que se le asignen.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 128.
+
+EL RÉGIMEN LABORAL. Las relaciones laborales entre el Instituto y su personal se regirán por el Estatuto de los Trabajadores al Servicio del Gobierno del Estado y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+### CAPÍTULO TERCERO. DEL PATRIMONIO DEL INSTITUTO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+###### ARTÍCULO 129.
 
 EL PATRIMONIO DEL INSTITUTO. El patrimonio del Instituto se integrará:
 
@@ -1219,29 +1231,37 @@ IV. Con los derechos, productos, aprovechamientos y rendimientos que obtenga de 
 
 V. En general, los frutos o productos de cualquier clase que obtenga de sus bienes y servicios, así como los subsidios, aportaciones, donativos o productos financieros que por cualquier título legal reciba.
 
-### CAPÍTULO TERCERO. LA PROTECCIÓN DE LOS DERECHOS CULTURALES
-
-###### ARTÍCULO 129.
-
-LOS BENEFICIOS FISCALES. El Instituto gozará de los beneficios fiscales, estatales o municipales que las leyes correspondientes concedan a organismos de naturaleza similar.
-
-En el supuesto de que se efectúe la disolución y liquidación del organismo, los bienes muebles e inmuebles que formen parte de su patrimonio pasarán a formar parte del dominio del Estado, según sea el caso, de conformidad con las disposiciones aplicables de la Ley General de Bienes.
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 130.
 
-EL RÉGIMEN LABORAL. Las relaciones laborales entre el Instituto y su personal se regirán por el Estatuto de los Trabajadores al Servicio del Gobierno del Estado y demás disposiciones legales aplicables.
+LOS BENEFICIOS FISCALES. El Instituto gozará de los beneficios fiscales, estatales o municipales que las leyes correspondientes concedan a organismos de naturaleza similar.
+
+En el supuesto de que se efectúe la disolución y liquidación del organismo, los bienes muebles e inmuebles que formen parte de su patrimonio pasarán a formar parte del dominio del estado, según sea el caso, de conformidad con las disposiciones aplicables de la Ley General de Bienes.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO TERCERO], P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+### CAPÍTULO CUARTO. LA PROTECCIÓN DE LOS DERECHOS CULTURALES
+
+(REPUBLICADO, P.O. 15 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 131.
 
 LA JUNTA DIRECTIVA COMO PROTECTORA DE LOS DERECHOS CULTURALES. La Junta Directiva del Instituto es el cuerpo colegiado de conocer las quejas por violación a los derechos culturales.
 
+(REPUBLICADO, P.O. 15 DE DICIEMBRE DE 2006)
+
 ###### ARTÍCULO 132.
 
 EL DERECHO DE QUEJA. Toda persona podrá presentar ante la Junta Directiva del Instituto, queja por presunta violación a sus derechos culturales.
 
+(REPUBLICADO, P.O. 15 DE DICIEMBRE DE 2006)
+
 ###### ARTÍCULO 133.
 
 EL PROCEDIMIENTO. La Junta Directiva del Instituto, una vez recibida la queja señalará fecha y hora para desahogar una audiencia y pedirá un informe circunstanciado a la autoridad responsable.
+
+(REPUBLICADO, P.O. 15 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 134.
 
@@ -1334,3 +1354,7 @@ C.P. INÉS GARZA ORTA
 P.O. 7 DE NOVIEMBRE DE 2006.
 
 ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2006.
+
+ÚNICO.-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
