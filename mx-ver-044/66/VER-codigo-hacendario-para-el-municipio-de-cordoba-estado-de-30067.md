@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-para-el-municipio-de-cordoba-estado-de-30067"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-18"
-last_updated: "2003-03-21"
+last_updated: "2006-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO HACENDARIO PARA EL MUNICIPIO DE CORDOBA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE DICIEMBRE DE 2006.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el día viernes 21 de marzo de 2003.
 
@@ -3885,7 +3885,9 @@ Las personas que utilicen espacios en mercados, así como en tianguis, deberán 
 
 Los derechos por la ocupación de espacios, se calcularán y pagarán de conformidad con las cuotas siguientes:
 
-I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, a razón de 0.05 salarios mínimos.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE DICIEMBRE DE 2006)</small>
+
+I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, a razón de 0.01 a 0.05 salarios mínimos.
 
 Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
 
@@ -5844,3 +5846,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 15 DE DICIEMBRE DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
