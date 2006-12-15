@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-41378"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-01"
-last_updated: "2004-10-01"
+last_updated: "2006-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 1 de octubre de 2004.
 
@@ -719,7 +719,9 @@ XVI. Reducir la velocidad ante cualquier concentración de peatones y/o vehícul
 
 Los conductores de vehículos tienen prohibido lo siguiente:
 
-I. Conducir en estado de ebriedad o de ineptitud para conducir, así como cuando sus facultades físicas o mentales se encuentren alteradas por el influjo de drogas o estupefacientes o medicamentos. La Autoridad Municipal determinará los medios que se utilizarán para la detección de estos casos;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+I. Conducir en estado de ebriedad o de ineptitud, en estado de ineptitud o de ebriedad y cometer cualquier otra infracción de las estipuladas en este Reglamento, así como cuando sus facultades físicas o mentales se encuentren alteradas por el influjo de drogas o estupefacientes o medicamentos. La Autoridad Municipal determinará los medios que se utilizarán para la detección de estos casos;
 
 II. Llevar entre su cuerpo y los dispositivos de manejo del vehículo, personas, animales u objetos que dificulten la normal conducción del mismo o le reduzcan su campo de visión, audición y libre movimiento;
 
@@ -773,7 +775,7 @@ XXVI. Avanzar a través de un crucero o intersección cuando no halla (sic) espa
 
 XXVII. Manifestar una conducta evidente de hostigamiento hacia otros conductores haciendo mal uso del vehículo que conduce;
 
-XXVIII. Conducir el vehículo con un aparato de televisión encendido, ubicado en el tablero, asiento delantero o adherido al vehículo, de manera que el conductor del mismo pueda observar la pantalla del aparato televisivo; así como sostener el conductor, pasajero o acompañante el aparato de televisión encendido, de manera que el conductor pueda observar la pantalla del mismo;
+XXVIII. Conducir el vehículo con un aparato de televisión encendido, ubicado en el tablero, asiento delantero o adherido al vehículo, de manera que el conductor del mismo pueda observar la pantalla del aparato televisivo; así como sostener el conductor, pasajero o acompañante el aparato de televisión encendido, de manera que el conductor pueda observar la pantalla del mismo.
 
 XXIX. Poseer, en el área de pasajeros de un vehículo, una botella, lata u otro envase que contenga una bebida alcohólica que ha sido abierta o tiene sellos rotos o el contenido parcialmente consumido; no se considerará como área de pasajeros aquella con asientos habitada (sic) habilitada para carga.
 
@@ -1947,7 +1949,9 @@ I. SUSPENSION DE LA LICENCIA DE CONDUCIR.- Se podrá suspender la licencia de co
 
 A) Por abandonar injustificadamente el lugar de un accidente.
 
-B) Por manejar en estado de ebriedad, o en estado de ineptitud para conducir, bajo el influjo de drogas o sustancias tóxicas, en este caso, además de la sanción económica a que se haga acreedor.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+B) Por conducir en estado de ineptitud o de ebriedad, en estado de ineptitud o de ebriedad (sic) y cometer cualquier otra infracción de las estipuladas en este Reglamento, bajo el influjo de drogas o sustancias tóxicas, en este caso, sin menoscabo a las demás sanciones a que se haga acreedor.
 
 En este caso, la autoridad de tránsito al tener conocimiento de la comisión de infracciones por manejar en estado de ebriedad o de ineptitud para conducir, retendrá provisionalmente la licencia al conductor infractor y notificará de inmediato esta situación a la Secretaría de Finanzas y Tesorería General del Estado, enviándole la documentación en la que consten las infracciones cometidas.
 
@@ -1960,6 +1964,10 @@ La Autoridad de Tránsito retendrá la licencia de conducir al infractor, por el
 Para efectos de la reincidencia, la Secretaría de Finanzas y Tesorería General del Estado, elaborará un registro de conductores infractores, el cual deberá contener los datos del conductor, las infracciones cometidas y fechas de las mismas.
 
 Tratándose de menores de edad éstos no podrán tramitar una nueva licencia hasta la obtención de su mayoría de edad.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+En el caso de conducir en estado de ineptitud o de ebriedad y cometer cualquier otra infracción de las estipuladas en este Reglamento, la suspensión de la licencia de conducir será hasta por seis meses.
 
 C) Por orden judicial.
 
@@ -1975,7 +1983,11 @@ A) Por abandonar injustificadamente el lugar de un accidente en más de una ocas
 
 B) Por resultar responsable de más de dos accidentes graves en un período de un año.
 
-C) Al conducir bajo el influjo de drogas o sustancias tóxicas, en tres ocasiones en un periodo de seis meses.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+C) A los menores infractores no emancipados por conducir en estado de ineptitud o de ebriedad, en estado de ineptitud o de ebriedad (sic) y cometer cualquier otra infracción de las estipuladas en este Reglamento, bajo el influjo de drogas o sustancias tóxicas.
+
+Por conducir en estado de ineptitud o de ebriedad, en estado de ineptitud o de ebriedad (sic) y cometer cualquier otra infracción de las estipuladas en este Reglamento, bajo el influjo de drogas o sustancias tóxicas, en tres ocasiones en un periodo de seis meses.
 
 D) Por orden judicial.
 
@@ -2022,6 +2034,26 @@ V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que cor
 TABULADOR DE INFRACCIONES
 
 > <small>N. DE E. VEASE TABULADOR DE INFRACCIONES EN EL P. O. DE 1 DE OCTUBRE DE 2004, PAGINAS DE LA 80 A LA 90.</small>
+
+> <small>N. DE E. VEASE REFORMAS AL TABULADOR DE INFRACCIONES EN EL P.O. 15 DE DICIEMBRE DE 2006, PAGINA 23.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+VI. INHABILITACIÓN.- El conductor que reincida en manejar en estado de ineptitud o de ebriedad, en estado de ineptitud o de ebriedad (sic) y cometer cualquier otra infracción de las estipuladas en este Reglamento, bajo el influjo de drogas o sustancias toxicas, esto en tres ocasiones en un periodo de seis meses quedará inhabilitado para obtenerla hasta por doce meses, sin menoscabo a las sanciones a que se haga acreedor.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+VII. ARRESTO ADMINISTRATIVO.- Por conducir en estado de ineptitud o de ebriedad, de ocho a doce horas.
+
+Por conducir en estado de ineptitud o de ebriedad y cometer cualquier otra infracción de las estipuladas en este Reglamento, de doce a veinticuatro horas.
+
+Por conducir en estado de ineptitud o de ebriedad, en estado de ineptitud o de ebriedad (sic) y cometer cualquier otra infracción de las estipuladas en este Reglamento, en forma reincidente, de veinticuatro a treinta y seis horas.
+
+Cuando la sanción consista en arresto, a fin de que este no le sea aplicado, el infractor podrá solicitar cubrir un servicio a la comunidad de una hora por cada hora de arresto, debiendo acreditarlo ante la Autoridad Municipal, la cual determinará si lo concede o no, tomando en cuenta las circunstancias particulares del caso. Las primeras ocho horas de arresto no serán conmutables. Esta sanción se aplicará, en todos los casos, sin menoscabo a las demás sanciones a que se haga acreedor.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+VIII. TRATAMIENTO.- Por conducir en estado de ineptitud o de ebriedad, en estado de ineptitud o de ebriedad (sic) y cometer cualquier otra infracción de las estipuladas en este Reglamento, además de las sanciones a que se haga acreedor, el infractor deberá asistir a un tratamiento o curso de rehabilitación y acreditar su cumplimiento ante la Autoridad Municipal. Tratándose de menores infractores no emancipados el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, quienes deberán acompañar al infractor a dicho tratamiento o curso. La Autoridad Municipal establecerá la forma en que se deberá cumplir esta sanción.
 
 ###### ARTÍCULO 137.
 
@@ -2172,3 +2204,11 @@ Presidente Municipal
 Lic. Gustavo Ramírez Villarreal
 
 Secretario del Ayuntamiento
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE DICIEMBRE DE 2006.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Publíquese la presente reforma en la Gaceta Municipal para su debida difusión y en el portal electrónico de Internet del Municipio para cumplimiento del artículo 9 de la Ley de Acceso a la Información Pública del Estado de Nuevo León.
