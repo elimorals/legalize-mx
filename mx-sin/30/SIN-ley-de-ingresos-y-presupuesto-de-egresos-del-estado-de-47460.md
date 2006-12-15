@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ingresos-y-presupuesto-de-egresos-del-estado-de-47460"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2005-12-30"
-last_updated: "2005-12-30"
+last_updated: "2006-12-15"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO FISCAL DEL AÑO 2006
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 30 de diciembre de 2005.
 
@@ -39,9 +39,11 @@ LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO
 
 ## TÍTULO PRIMERO. DE LOS INGRESOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 1.
 
-En el ejercicio fiscal del año 2006, el Gobierno del Estado de Sinaloa percibirá los ingresos provenientes de los conceptos y en los importes estimados que a continuación se indican y que totalizan la cantidad de $17,885,990,510 (Diecisiete mil ochocientos ochenta y cinco millones novecientos noventa mil quinientos diez pesos 00/100 M.N.).
+En el ejercicio fiscal del año 2006, el Gobierno del Estado de Sinaloa percibirá los ingresos provenientes de los conceptos y en los importes estimados que a continuación se indican y que totalizan la cantidad de $20,336,995,510 (son veinte mil trescientos treinta y seis millones novecientos noventa y cinco mil quinientos diez pesos 00/100 M.N.).
 
 (VEASE ARCHIVO ANEXO)
 
@@ -137,9 +139,11 @@ La Secretaría estará facultada para interpretar las disposiciones del presente
 
 ### CAPÍTULO SEGUNDO. DE LAS EROGACIONES
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 15.
 
-El gasto neto total previsto en el presente Presupuesto, importa la cantidad de $ 17,885,990,510 (Son diecisiete mil ochocientos ochenta y cinco millones novecientos noventa mil quinientos diez pesos 00/100 M.N.) y corresponde al total de ingresos previstos para 2006 y se distribuyen conforme a las disposiciones que establece el artículo 36 de la Ley.
+El gasto neto total previsto en el presente Presupuesto, importa la cantidad de $20,336,995,510 (son veinte mil trescientos treinta y seis millones novecientos noventa y cinco mil quinientos diez pesos 00/100 M.N.) y corresponde al total de ingresos previstos para 2006 y se distribuyen conforme a las disposiciones que establece el artículo 36 de la Ley.
 
 ###### ARTÍCULO 16.
 
@@ -157,13 +161,15 @@ El Presupuesto distribuido por Grupo, Subgrupo, Ramo, Dependencia, Organismo y/o
 
 El Presupuesto clasificado por Gasto Corriente y de Capital es el siguiente:
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
 Concepto Montos
 
-Total $ 17,885,990,510
+Total $20,336,995,510
 
-Gasto Corriente 15,211,954,179
+Gasto Corriente 15,307,589,179
 
-Gasto de Capital 2,674,036,331
+Gasto de Capital 5,029,406,331
 
 ###### ARTÍCULO 19.
 
@@ -171,7 +177,9 @@ Atendiendo la clasificación del Presupuesto por Objeto del Gasto a nivel global
 
 Capítulo Montos
 
-Total $ 17,885,990,510
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+Total $20,336,995,510
 
 Servicios Personales 3,611,698,011
 
@@ -189,7 +197,9 @@ Inversiones Financieras 1,200,104,804
 
 Participaciones a Municipios 1,451,875,000
 
-Deuda Pública 230,920,844
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+Deuda Pública 2,681,925,844
 
 ###### ARTÍCULO 20.
 
@@ -254,6 +264,10 @@ Partido del Trabajo 4,525,908
 Partido Verde Ecologista de México 3,541,740
 
 Convergencia 3,548,988
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+ARTÍCULO 26 BIS. Los ingresos derivados de endeudamiento a que se refiere el artículo 1, fracción IX, inciso a) de esta Ley, serán destinados exclusivamente al refinanciamiento de la deuda pública directa aprobada con anterioridad por el Congreso del Estado y contraída por el Ejecutivo Estatal, para inversión pública productiva.
 
 ### CAPÍTULO TERCERO. DISPOSICIONES DE RACIONALIDAD Y AUSTERIDAD PRESUPUESTARIA
 
@@ -536,3 +550,9 @@ Lic. Rafael Oceguera Ramos.
 El Secretario de Administración y Finanzas.
 
 Lic. Oscar J. Lara Aréchiga.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE DICIEMBRE DE 2006.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
