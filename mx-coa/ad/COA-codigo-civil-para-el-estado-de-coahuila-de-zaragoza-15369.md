@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2006-12-12"
+last_updated: "2006-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -2251,6 +2251,14 @@ V. La manera de administrar los bienes de la sociedad conyugal durante el proced
 
 El divorcio por mutuo consentimiento no puede pedirse sino pasados dos años de la celebración del matrimonio.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
+ARTÍCULO 369 BIS.- El divorcio administrativo procede cuando habiendo transcurrido un año de la celebración del matrimonio, los cónyuges mayores de edad convienen en divorciarse, no tengan hijos o teniéndolos sean mayores de edad, capaces y no requieran alimentos ellos o alguno de los cónyuges, que la mujer no esté embarazada y se haya liquidado previamente la sociedad conyugal si el matrimonio se contrajo bajo ese régimen. Los cónyuges se presentarán ante el Oficial del Registro Civil de su domicilio, y exhibirán su solicitud por escrito, de la cual levantará acta el funcionario y los citará en un término de 15 días para que se presente a ratificarla.
+
+Una vez ratificada, el Oficial del Registro Civil los declarará divorciados, levantará el acta correspondiente y hará las anotaciones en el acta de matrimonio respectiva.
+
+No surtirá efectos legales el divorcio administrativo, si se comprueba que los cónyuges son menores de edad, tienen hijos menores, o mayores de edad incapaces, o que requieran de alimentos, o si alguno de los cónyuges requiere alimentos, o la sociedad conyugal no está liquidada; además, se harán acreedores a la sanción a que haya lugar.
+
 ###### ARTÍCULO 370.
 
 Mientras que se decrete el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos, y los bienes de los consortes.
@@ -3055,9 +3063,11 @@ II. Que la adopción es benéfica para la persona que trata de adoptarse, atendi
 
 III. Que los adoptantes son personas aptas y adecuadas para adoptar.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 494.
 
-Los cónyuges pueden adoptar, cuando los dos estén conformes en considerar al adoptado como hijo. En el caso de que uno de los contrayentes haya adoptado antes de contraer matrimonio, el otro cónyuge podrá adoptar en la misma fecha del matrimonio o con posterioridad, al hijo adoptivo de su cónyuge, siempre que se cumpla con lo dispuesto por el artículo anterior. Si no se quiere o no se puede adoptar por no cumplir con los requisitos que establece la ley, el hijo o hijos adoptivos del cónyuge que contrajo matrimonio, vivirán con éste en el domicilio conyugal, aun cuando se oponga el otro cónyuge.
+Los cónyuges pueden adoptar, cuando los dos estén conformes en considerar al adoptado como hijo. En el caso de que uno de los contrayentes haya adoptado antes de contraer matrimonio, el otro cónyuge podrá adoptar con posterioridad a la fecha del matrimonio, al hijo adoptivo de su cónyuge, siempre que se cumpla con lo dispuesto por el artículo anterior. Si no se quiere o no se puede adoptar por no cumplir con los requisitos que establece la ley, el hijo o hijos adoptivos del cónyuge que contrajo matrimonio, vivirán con éste en el domicilio conyugal, aun cuando se oponga el otro cónyuge.
 
 ###### ARTÍCULO 495.
 
@@ -3081,9 +3091,9 @@ IV. El Ministerio Público del lugar del domicilio del adoptado, cuando éste no
 
 Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
-El consentimiento otorgado en términos de ley ante la Procuraduría de la Familia, previa identificación fehaciente de quien deba otorgarlo, surtirá todos sus efectos legales sin que se requiera su posterior ratificación ante la presencia judicial.
+El consentimiento otorgado en términos de ley ante la Procuraduría de la Familia o ante Notario Público, previa identificación fehaciente de quien deba otorgarlo, surtirá todos sus efectos legales sin que se requiera su posterior ratificación ante la presencia judicial.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
@@ -20076,3 +20086,17 @@ P.O. 12 DE DICIEMBRE DE 2006.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2006.
+
+DECRETO No. 125
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2006.
+
+DECRETO No. 126
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
