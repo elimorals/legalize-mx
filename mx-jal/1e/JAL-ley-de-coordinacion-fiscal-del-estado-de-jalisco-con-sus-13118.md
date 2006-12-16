@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2006-11-11"
+last_updated: "2006-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -100,7 +100,9 @@ El factor que a cada municipio corresponda en el fondo municipal de participacio
 
 I. De los ingresos Federales. Se aplicarán los siguientes criterios y parámetros:
 
-1) Se garantizarán a los municipios los mismos recursos que recibieron el año inmediato anterior.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
+
+1) Se garantizarán a los Municipios los mismos recursos que recibieron el año inmediato anterior, salvo en el caso de la conformación de uno nuevo.
 
 2) De las cantidades que el Estado reciba en exceso, con respecto al año inmediato anterior, se distribuirán entre los municipios de conformidad con los coeficientes que se determinen tomando los siguientes parámetros:
 
@@ -121,6 +123,10 @@ d) 10% por número de localidades y la extensión territorial en función de la 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 e) 5% en proporción al índice de marginalidad según la información oficial que dé a conocer el Instituto Nacional de Estadística, Geografía e Informática.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
+
+En el caso de que el Congreso del Estado apruebe la creación de nuevos municipios, la garantía señalada en el numeral 1) de esta fracción, se dividirá de manera proporcional a los habitantes que conformen cada municipio resultante de la división.
 
 II. De los impuestos estatales.
 
@@ -381,3 +387,9 @@ P.O. 19 DE DICIEMBRE DE 2000.
 P.O. 11 DE NOVIEMBRE DE 2006.
 
 ÚNICO.- Las reformas y adiciones del presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 16 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1° de enero del año 2007, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Para el caso de que el inicio de vigencia del nuevo municipio no coincida con el año calendario, el cálculo correspondiente de los recursos se aplicará a partir de la entrada en vigor del nuevo municipio y tendrá vigencia durante los meses que restan del ejercicio.
