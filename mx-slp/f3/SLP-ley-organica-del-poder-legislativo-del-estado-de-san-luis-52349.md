@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2006-11-01"
+last_updated: "2006-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1751,13 +1751,13 @@ NOVENO. Los derechos laborales del personal que en virtud de lo dispuesto en la 
 
 DECIMO. Hasta en tanto entre en vigor la ley de la materia, las referencias que en esta Ley se hacen a la "Auditoría Superior del Estado", se entenderán hechas a la "Contaduría Mayor de Hacienda del Estado"; y las que se hacen al "Auditor Superior", al Contador Mayor de Hacienda.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
-DECIMO PRIMERO. El Reglamento Interior del Congreso del Estado seguirá vigente en todo lo que no se oponga a la presente Ley, hasta en tanto la actual Legislatura expida el Reglamento para el Gobierno Interior del Congreso del Estado, lo que deberá hacer en un término que no exceda del 15 de diciembre de 2006: en tanto, las referencias que en esta Ley se hagan al Reglamento para el Gobierno Interior del Congreso del Estado, se entenderán hechas al Reglamento Interior del Congreso del Estado, vigente.
+DECIMO PRIMERO. El Reglamento Interior del Congreso del Estado seguirá vigente en todo lo que no se oponga a la presente Ley, hasta en tanto la Legislatura expida el Reglamento para el Gobierno Interior del Congreso del Estado, lo que deberá hacer a más tardar el 31 de enero de 2007; en tanto, las referencias que en esta Ley se hagan al Reglamento para el Gobierno Interior del Congreso del Estado, se entenderán hechas al Reglamento Interior del Congreso del Estado, vigente.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
-DECIMO SEGUNDO. El Reglamento del Instituto de Investigaciones Legislativas deberá adecuarse en lo conducente a lo dispuesto en la presente Ley, a más tardar el 15 de diciembre de 2006; en tanto, seguirá vigente en lo que no se oponga a este Decreto.
+DECIMO SEGUNDO. El Reglamento del Instituto de Investigaciones Legislativas deberá adecuarse en lo conducente a lo dispuesto en la presente Ley, en un plazo que no exceda del 31 de enero de 2007; en tanto, seguirá vigente en lo que no se oponga a este Decreto.
 
 DECIMO TERCERO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
 
@@ -1788,3 +1788,7 @@ Lic. Alfonso José Castillo Machuca
 P.O. 1 DE NOVIEMBRE DE 2006.
 
 UNICO. Este Decreto entrará en vigor el día uno de noviembre de 2006, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2006.
+
+UNICO. Este Decreto entrará en vigor el día 16 de diciembre de 2006, previa publicación en el Periódico Oficial del Estado.
