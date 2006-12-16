@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2005-02-26"
+last_updated: "2006-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -559,15 +559,19 @@ Durante los primeros cinco meses a partir de la fecha de reanudación de labores
 
 Sindicato es la asociación de trabajadores constituida para el estudio, mejoramiento y defensa de sus intereses.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 58.
 
-El Sindicato único contará con las Delegaciones necesarias, por cada Entidad Pública.
+Los sindicatos podrán contar con las delegaciones necesarias, por cada entidad pública en donde laboren trabajadores afiliados a los mismos.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 59.
 
-Todos los trabajadores de base tendrán derecho a sindicalizarse libremente. Una vez obtenido su ingreso, no dejarán de formar parte de él, salvo en caso de expulsión.
+Los trabajadores de base tendrán derecho a sindicalizarse libremente, así como a separarse del sindicato al que se encuentren afiliados, cuando así convenga a sus intereses. Ningún trabajador podrá ser obligado a formar parte de un sindicato o a no formar parte de él.
 
-Los trabajadores de base del sistema estatal de la educación seguirán rigiendo sus relaciones laborales y sindicales, a través de las condiciones fijadas con su organización ya establecida, (SNTE) sujetándose a la jurisdicción del Tribunal de Conciliación y Arbitraje previsto en la presente Ley.
+Los trabajadores de base de las Entidades Públicas regirán sus relaciones laborales y sindicales a través de las condiciones fijadas por las Entidades, escuchando al sindicato o sindicatos por medio de su directiva, sujetándose a la jurisdicción del Tribunal de Conciliación y Arbitraje previsto en esta Ley.
 
 ###### ARTICULO 60.
 
@@ -577,9 +581,11 @@ Los trabajadores de confianza, de obras y tiempo determinado, no podrán formar 
 
 Cuando los trabajadores de base sindicalizados desempeñen un puesto de confianza o de elección popular, quedarán suspendidas todas las obligaciones y derechos sindicales.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 62.
 
-Para que se constituya el Sindicato se requiere que lo formen cincuenta o más trabajadores de base en servicio activo, de las Entidades Públicas que cumplan con los requisitos que establece esta Ley.
+En las Entidades Públicas podrán constituirse sindicatos con veinte o más trabajadores en servicio activo, siempre y cuando cumplan con los requisitos que establece esta Ley.
 
 ###### ARTICULO 63.
 
@@ -595,7 +601,9 @@ IV.- Estatutos del Sindicato que contengan la denominación, domicilio, objeto s
 
 V.- Padrón de los miembros conteniendo nombre, estado civil, edad, adscripción, categoría, domicilio y salario mensual.
 
-El Tribunal de Conciliación y Arbitraje, al recibir la solicitud de registro comprobará por los medios más prácticos y eficaces, la no existencia de otra asociación sindical y que la peticionaria cuenta con la mayoría de los trabajadores y procederá, en su caso al registro; el cual podrá negarse únicamente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O., 16 DE DICIEMBRE DE 2006)</small>
+
+El Tribunal de Conciliación y Arbitraje, al recibir la solicitud de registro comprobará por los medios más prácticos y eficaces, si la peticionaria cumplió con la presentación de los documentos requeridos y procederá, en su caso al registro, el cual podrá negarse únicamente:
 
 A).- Si el Sindicato no tiene por objeto la finalidad prevista en el artículo 57 de esta Ley.
 
@@ -605,7 +613,7 @@ C).- Si no se exhiben los documentos a que se refiere el presente artículo.
 
 ###### ARTICULO 64.
 
-Solo habrá un Sindicato y en caso de que concurran varios grupos que pretendan ese derecho, el reconocimiento se hará en favor de la asociación mayoritaria.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 65.
 
@@ -753,7 +761,7 @@ La huelga deberá limitarse al mero acto de la suspensión del trabajo. Los acto
 
 Para declarar una huelga se requiere:
 
-I.- Que se ajuste a los términos del artículo 81 de esta Ley; y
+I.- Que se ajuste a los términos del Artículo 81 de esta Ley; y
 
 II.- Que sea declarada expresamente por las dos terceras partes de los trabajadores de la Entidad afectada.
 
@@ -1186,3 +1194,13 @@ P.O. 26 DE FEBRERO DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan a lo ordenado en el presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones de igual rango o naturaleza que se opongan al presente Decreto.
