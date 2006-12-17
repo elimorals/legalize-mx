@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2002-06-06"
+last_updated: "2006-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2006, SE DEROGAN TODAS LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO EN LO QUE SE OPONGAN A LA NUEVA LEY.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -299,9 +301,7 @@ XV.- Las especificaciones en la construcción que garanticen la seguridad de las
 
 El derecho de propiedad, el de posesión o cualquier otro derecho derivado de la tenencia de áreas y predios será ejercido por sus titulares, con apego a lo dispuesto y ordenado en la legislación respectiva y los planes y programas de Desarrollo Urbano.
 
-### CAPITULO II. DE LAS AUTORIDADES COMPETENTES
-
-EN MATERIA DE DESARROLLO URBANO
+### CAPITULO II. DE LAS AUTORIDADES COMPETENTES EN MATERIA DE DESARROLLO URBANO
 
 ###### ARTÍCULO 7.
 
@@ -3622,3 +3622,19 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS VEIN
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER. (Rúbrica)
 
 EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO. (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE DICIEMBRE DE 2006.
+
+PRIMERO.- La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se abroga la Ley de Protección y Fomento a la Construcción de Viviendas de Interés Social, aprobada mediante Decreto No. 199, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango el día 19 de Julio de 1964.
+
+TERCERO.- Se derogan todas las disposiciones de la Ley General de Desarrollo Urbano para el Estado de Durango, publicada en el Periódico Oficial del Gobierno Constitucional del Estado No. 45, de fecha 06 de Junio del año 2002, en lo que se opongan a la presente ley.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias en materia de vivienda que se opongan a la presente ley.
+
+QUINTO.- Las autoridades correspondientes deberán emitir los reglamentos interiores respectivos en un plazo no mayor de 90 días hábiles contados a partir de la entrada en vigor de la presente ley.
+
+SEXTO.- El Ejecutivo del Estado y los ayuntamientos en sus presupuestos de egresos para los ejercicios fiscales del año 2008 y subsecuentes, deberán de incluir una partida presupuestal destinada al Fondo para la Vivienda Digna.
