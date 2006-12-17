@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-y-fomento-a-la-construccion-de-viviendas-5090
 country: "mx"
 rank: "ley"
 publication_date: "1964-07-19"
-last_updated: "1970-01-11"
+last_updated: "2006-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE PROTECCION Y FOMENTO A LA CONSTRUCCION DE VIVIENDAS DE INTERES SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1970.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE VIVIENDA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 19 de julio de 1964.
 
@@ -104,3 +106,17 @@ El Gobernador Constitucional del Estado, ING. ENRIQUE DUPRE CENICEROS. El Secret
 P.O. 11 DE ENERO DE 1970.
 
 UNICO.- El presente Decreto surtirá sus efectos tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2006.
+
+PRIMERO.- La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se abroga la Ley de Protección y Fomento a la Construcción de Viviendas de Interés Social, aprobada mediante Decreto No. 199, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango el día 19 de Julio de 1964.
+
+TERCERO.- Se derogan todas las disposiciones de la Ley General de Desarrollo Urbano para el Estado de Durango, publicada en el Periódico Oficial del Gobierno Constitucional del Estado No. 45, de fecha 06 de Junio del año 2002, en lo que se opongan a la presente ley.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias en materia de vivienda que se opongan a la presente ley.
+
+QUINTO.- Las autoridades correspondientes deberán emitir los reglamentos interiores respectivos en un plazo no mayor de 90 días hábiles contados a partir de la entrada en vigor de la presente ley.
+
+SEXTO.- El Ejecutivo del Estado y los ayuntamientos en sus presupuestos de egresos para los ejercicios fiscales del año 2008 y subsecuentes, deberán de incluir una partida presupuestal destinada al Fondo para la Vivienda Digna.
