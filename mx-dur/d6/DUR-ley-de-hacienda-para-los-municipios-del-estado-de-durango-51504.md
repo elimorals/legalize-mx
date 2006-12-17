@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-para-los-municipios-del-estado-de-durango-51504
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-20"
-last_updated: "2006-07-20"
+last_updated: "2006-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de julio de 2006.
 
@@ -1159,6 +1159,22 @@ Es objeto de este derecho la autorización para la colocación de anuncios lumin
 
 Este derecho se causará y se pagará de conformidad con las cuotas y tarifas que establezca la Ley de Ingresos Municipal.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 17 DE DICIEMBRE DE 2006)</small>
+
+#### SECCIÓN VIGÉSIMA CUARTA. POR ESTACIONAMIENTO DE VEHÍCULOS EN LA VÍA PÚBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES O MEDIDORES DEL TIEMPO
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+
+Artículo 166 bis.- Tendrán carácter de derechos los ingresos que se obtengan en aquellos lugares donde existen aparatos marcadores o medidores del tiempo (estacionómetros), los cuales cobrarán la tarifa que para el caso determine la Ley de Ingresos del Municipio que corresponda.
+
+A la persona que infrinja la obligación contenida en el párrafo anterior, se le aplicará la multa que determine la Ley de Ingresos correspondiente, la cual se sujetará a las siguientes reglas:
+
+a) Si cubre la sanción dentro de los tres días hábiles siguientes a la infracción, se le descontará el 50% de la cantidad a pagar;
+
+b) Si cubre la infracción después del tercer día que se menciona en el inciso anterior, pero hasta antes de 30 días transcurridos desde que se cometió la infracción, no tendrá derecho alguno, y
+
+c) Si paga después de treinta días de haber cometido la infracción, pero antes de cuarenta y cinco, se duplicara la multa; si después de ese período no se hace efectivo tal adeudo; dará inicio el procedimiento de ejecución contra el deudor.
+
 ### CAPÍTULO III. DE LAS CONTRIBUCIONES POR MEJORAS
 
 ###### Artículo 167.
@@ -1227,21 +1243,17 @@ Tendrán carácter de productos los ingresos que se obtengan por la venta de bie
 
 Tendrán carácter de productos los ingresos que se obtengan de la venta de objetos recogidos por autoridades municipales.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO VII. POR ESTACIONAMIENTO DE VEHÍCULOS EN LA VÍA PÚBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES O MEDIDORES DEL TIEMPO
 
 ###### Artículo 176.
 
-Tendrán carácter de productos los ingresos que se obtengan en aquellos lugares donde existen aparatos marcadores o medidores del tiempo (estacionómetros), los cuales cobrarán la tarifa que para el caso determine la Ley de Ingresos del Municipio que corresponda.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2006)
 
 ###### Artículo 177.
 
-A la persona que infrinja la obligación contenida en el artículo anterior, se le aplicará la multa que determine la Ley de Ingresos correspondiente, la cual se sujetará a las siguientes reglas:
-
-a) Si cubre la sanción dentro de los tres días hábiles siguientes a la infracción, se le descontará el 50% de la cantidad a pagar;
-
-b) Si cubre la infracción después del tercer día que se menciona en el inciso anterior, pero hasta antes de 30 días transcurridos desde que se cometió la infracción, no tendrá derecho alguno, y
-
-c) Si paga después de treinta días de haber cometido la infracción, pero antes de cuarenta y cinco, se duplicara la multa; si después de ese periodo no se hace efectivo tal adeudo; dará inicio el procedimiento de ejecución contra el deudor.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2006)
 
 SUBTÍTULO TERCERO
 
@@ -1349,7 +1361,7 @@ SECRETARIO.
 
 POR TANTO MANDO, SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPONDA PARA SU EXACTA OBSERVANCIA
 
-DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS CINCO DIAS DEL MES DE JULIO DEL AÑO DOS MIL SEIS
+DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS CINCO DÍAS DEL MES DE JULIO DEL AÑO DOS MIL SEIS
 
 EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
@@ -1358,3 +1370,17 @@ C.P. ISMAEL ALFREDO HERNÁNDEZ DERAS.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO LÓPEZ PESCADOR.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE DICIEMBRE DE 2006.
+
+Artículo Primero.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- Una vez que entre en vigor el presente decreto, se adecuarán la Leyes de Ingresos y los Presupuestos de Egresos para el ejercicio Fiscal 2007, del municipio que corresponda a efecto de reclasificar como Derechos los ingresos presupuestados y aprobados por el concepto de "ESTACIONAMIENTO DE VEHÍCULOS EN LA VÍA PÚBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES O MEDIDORES DEL TIEMPO".
+
+Artículo Tercero.- Los Ayuntamientos registrarán contablemente como Derechos, los ingresos que recauden por concepto de "ESTACIONAMIENTO DE VEHÍCULOS EN LA VÍA PÚBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES O MEDIDORES DEL TIEMPO".
+
+Artículo Cuarto.- La Entidad de Auditoría Superior del Estado vigilará que los Ayuntamientos cumplan con la obligación preceptuada en el artículo anterior.
+
+Artículo Quinto.- Se derogan todas las disposiciones que se opongan al presente.
