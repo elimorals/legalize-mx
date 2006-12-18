@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-23611"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-26"
-last_updated: "2006-06-05"
+last_updated: "2006-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de marzo de 2001.
 
@@ -797,13 +797,17 @@ XIX.- De Equidad de Género, Social y Humana;
 
 XX. Planeación, Desarrollo Urbano y Obra Pública;
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-XXI.- De Transporte Público; y
+XXI.- Transporte Público;
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-XXII.- De Ciencia y Tecnología.
+XXII.- Ciencia y Tecnología; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+XXIII.- De Asuntos Migratorios, Relaciones Internacionales e Interinstitucionales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
@@ -1154,6 +1158,26 @@ III.- Las normas de esta materia, así como actividades que lleven a cabo las un
 IV.- Las acciones que realicen el Estado y Municipios en materia de ciencia y tecnología; y
 
 V.- Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 96 Ter.
+
+Corresponde a la Comisión de Asuntos Migratorios, Relaciones Internacionales e Interinstitucionales, el conocimiento, análisis y dictamen de los siguientes asuntos:
+
+I.- Las iniciativas relacionadas con los derechos y obligaciones de los migrantes;
+
+II.- Impulsar en coordinación con las diversas autoridades involucradas en la materia, programas de desarrollo regional en las zonas de más alta densidad migratoria, en particular de índole laboral y educativa;
+
+III.- Pugnar por el desarrollo de políticas migratorias integrales, a través de la presencia en espacios gubernamentales y civiles; para que en las agendas nacionales e internacionales se incluya el fenómeno migratorio;
+
+IV.- Actualización del marco legal estatal derivado de los tratados internacionales suscritos por el Ejecutivo Federal con aprobación del Senado y la procuración de los beneficios para el Estado como consecuencia de los mismos;
+
+V.- Coadyuvar con las diferentes instancias tanto nacionales como internacionales, por el respeto de los derechos humanos de los migrantes;
+
+VI.- Los relativos a políticas, planes, programas y estrategias a favor de los migrantes, así como el apoyo a los ciudadanos inmersos en actividades derivadas de los diferentes tratados, convenciones o pactos internacionales; y
+
+VII.- Coadyuvar con las diferentes instancias federales y estatales, en el adecuado cumplimiento y aplicación de los tratados internacionales para impulsar el desarrollo económico de la Entidad.
 
 ###### ARTICULO 97.
 
@@ -2738,3 +2762,9 @@ P.O. 5 DE JUNIO DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE DICIEMBRE DE 2006.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
