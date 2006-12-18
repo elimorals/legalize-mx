@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-republicano-21154"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-12"
-last_updated: "2001-03-12"
+last_updated: "2006-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL R. AYUNTAMIENTO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de marzo de 2001.
 
@@ -341,9 +341,11 @@ II. Extraordinarias.
 
 III. Solemnes.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 27.
 
-Son ordinarias las sesiones que, en los términos de la Ley respectiva, se celebraran los segundos y cuartos miércoles de cada mes, comenzando por regla general a las 8:00 horas y terminando a las 11:00 horas pudiendo cambiarse con previo aviso, notificación y convocatoria realizadas con 48 horas de anticipación, con la facultad de cambiar día y hora según las condiciones correspondientes.
+Son ordinarias las sesiones que, en los términos de la Ley respectiva, se celebraran los segundos y cuartos martes de cada mes, comenzando por regla general a las 8:00 horas y terminando a las 11:00 horas pudiendo cambiarse con previo aviso, notificación y convocatoria realizadas con 48 horas de anticipación, con la facultad de cambiar día y hora según las condiciones correspondientes.
 
 ###### ARTÍCULO 28.
 
@@ -545,193 +547,201 @@ De las comisiones.
 
 Para estudiar, examinar, proponer alternativas de solución a los asuntos municipales y vigilar que se ejecuten las disposiciones y acuerdos del Ayuntamiento, este órgano colegiado se organizará en comisiones, que podrán ser permanentes o transitorias.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 59.
 
-Las Comisiones del Ayuntamiento serán presididas por alguno de sus miembros, elegido por estos mismos, a excepción de la Comisión de Gobierno y Reglamentación y la de Hacienda y Patrimonio Municipal, y estarán integradas por cuando menos tres de sus miembros, siendo necesario que al menos un regidor lo sea por el principio de representación proporcional. El Presidente de una comisión, no podrá presidir más de dos comisiones.
+Las comisiones del Ayuntamiento serán presididas por alguno de sus miembros, elegida por estos mismos, a excepción de la Comisión de Hacienda y Patrimonio Municipal y la de Gobierno y Reglamentación, las cuales serán presididas por el Sindico Primero y el Sindico Segundo respectivamente y estarán integradas por cuando menos tres de sus miembros, siendo necesario que al menos un regidor lo sea por el principio de representación proporcional. Nadie podrá presidir más de dos comisiones.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 60.
 
-Las Comisiones permanentes se nombrarán en la primera sesión del año de gestión, y serán de carácter obligatorio las siguientes:
+Las comisiones permanentes se nombraran en la primera sesión del año de gestión, y serán de carácter obligatorio las siguientes:
 
-I.- De Gobierno y Reglamentación, que será presidida por el Síndico Segundo.
+l. De Gobierno y Reglamentación, que será presidida por el Sindico Segundo.
 
-II.- De Hacienda y Patrimonio Municipal, que será presidida por el Síndico Primero.
+II. De Hacienda y Patrimonio Municipal, que será presidida por el sindico primero.
 
-III.- De Servicios Públicos.
+III. De Infraestructura y Servicios Públicos.
 
-IV.- De Modernización Administrativa.
+IV. De Desarrollo Social.
 
-V.- De Desarrollo Social.
+V. De Espectáculos y Expendios de Bebidas Alcohólicas.
 
-VI.- De Espectáculos y Expendios de Bebidas Alcohólicas.
+VI. De Honor y Justicia.
 
-VII.- De Honor y Justicia.
+VIl. De Participación Ciudadana.
 
-VIII.- De Participación Ciudadana.
+VlII. De Desarrollo Urbano.
 
-IX.- De Nomenclaturas.
+IX. De Seguridad Pública y Vialidad.
 
-X.- De Desarrollo Urbano.
+X. Medio Ambiente e Imagen Urbana.
 
-XI.- De Obras Públicas.
+XI. De Transparencia.
 
-XII.- De Seguridad Pública y Vialidad.
+XII. Todas las demás que determine el Ayuntamiento en el ejercicio de sus atribuciones que se consideren necesarias para el eficaz despacho de los asuntos Municipales.
 
-XIII.- Medio Ambiente e Imagen Urbana.
-
-XIV.- Todas las demás que determine el Ayuntamiento en el ejercicio de sus atribuciones, que se consideren necesarias para el eficaz despacho de los asuntos Municipales.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 61.
 
-Son atribuciones de las Comisiones de carácter obligatorio mencionadas en el artículo anterior, las siguientes:
+Son atribuciones de las comisiones de carácter obligatorio mencionadas en el artículo anterior, las siguientes:
 
 I. De Gobierno y Reglamentación.
 
-a) Vigilar el cumplimiento de los preceptos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Nuevo León, las Leyes que de ella emanen, el presente Reglamento y demás ordenamientos legales que normen la vida jurídica del Municipio.
+1. Vigilar el cumplimiento de los preceptos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Nuevo León, las Leyes que de ella emanen, el presente Reglamento y demás ordenamientos legales que normen la vida jurídica del Municipio.
 
-b). Realizar un dictamen de las iniciativas a Reglamentos Municipales, el cual deberá contener una exposición de motivos.
+2. Realizar un dictamen de las iniciativas a Reglamentos Municipales, el cual deberá contener una exposición de motivos.
 
-c). Proponer al R. Ayuntamiento las iniciativas del Reglamento que formule la propia Comisión.
+3. Proponer al R. Ayuntamiento las iniciativas del Reglamento que formule la propia comisión.
 
-d). Elaborar el Padrón Municipal de los habitantes del Municipio.
+4. Elaborar el Padrón Municipal de los habitantes del Municipio.
 
-e). Llevar el registro de los templos religiosos de conformidad con el artículo 130 Constitucional y las demás que le confiera el Ayuntamiento.
+5. Llevar el registro de los templos religiosos de conformidad con el artículo 130 Constitucional y las demás que le confiera el Ayuntamiento.
 
-f). Recibir las iniciativas que presenten los residentes del Municipio, para su análisis y dictamen y proponerlas al Ayuntamiento.
+6. Recibir las iniciativas que presenten los residentes del Municipio, para su análisis y dictamen y proponerla al Ayuntamiento.
 
-g). Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
+7. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-II.- De Hacienda y Patrimonio Municipal.
+II. De Hacienda y Patrimonio Municipal.
 
-a) Proponer el inventario de bienes municipales.
+1. Proponer el inventario de bienes municipales.
 
-b) Proponer al R. Ayuntamiento proyectos de Reglamentos, acuerdos y demás disposiciones administrativas para el buen manejo de los asuntos hacendarios.
+2. Proponer al R. Ayuntamiento proyectos de Reglamentos, acuerdos y demás disposiciones administrativas para el buen manejo de los asuntos hacendarios.
 
-c) Proponer sistemas de recaudación de impuestos, derechos, productos, aprovechamientos y demás ingresos.
+3. Proponer sistemas de recaudación de impuestos, derechos, productos, aprovechamientos y demás ingresos.
 
-d) Fomentar mecanismos para el correcto cumplimiento de las Leyes Reglamentos y demás disposiciones de carácter fiscal.
+4. Fomentar mecanismos para el correcto cumplimiento de las Leyes Reglamentos y demás disposiciones de carácter fiscal.
 
-e) Vigilar que el ejercicio del gasto público se realice conforme al presupuesto de egresos aprobado.
+5. Vigilar que el ejercicio del gasto público se realice conforme al presupuesto de egresos aprobaba.
 
-f) Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
+6. Promover y vigilar el cumplimiento y observancia oportuna del Plan Municipal de Desarrollo.
 
-III.- De Servicios Públicos.
+7. Promover sistemas de modernización administrativa en todas las Dependencias Municipales.
 
-a) Vigilar que se cumplan los acuerdos del Ayuntamiento en materia de servicios públicos.
+8. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-b) Fomentar la cultura de limpieza y conservación del alumbrado público, calles y banquetas.
+III. De Infraestructura y Servicios Públicos.
 
-c) Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
+1. Vigilar que se cumplan los acuerdos del Ayuntamiento en materia de servicios públicos.
 
-IV.- De Modernización Administrativa.
+2. Fomentar la cultura de limpieza y conservación del alumbrado público, calles y banquetas.
 
-a) Promover sistemas de modernización administrativa en todas las Dependencias Municipales.
+3. Vigilar que se cumplan los acuerdos del Ayuntamiento en materia de obra pública.
 
-b) Promover y vigilar el cumplimiento y observancia oportuna del Plan Municipal de Desarrollo.
+4. Evaluar la obra pública municipal.
 
-c) Proponer la impartición de cursos a los Servidores Públicos.
+5. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-d) Fomentar campañas entre los empleados municipales de conservación de los recursos materiales.
+IV. De Desarrollo Social.
 
-e) Analizar el trato de los empleados municipales con los sampetrinos proponiendo mejorar la imagen de los Servidores Públicos.
+1. Desarrollar actividades educativas, culturales, cívicas y recreativas, tanto a los empleados municipales como a los sampetrinos.
 
-f) Las demás que determine el Ayuntamiento o cualesquier dispositivo legal aplicable.
+2. Fomentar la participación de la ciudadanía en los desfiles cívicos, atléticos y eventos municipales.
 
-V.- De Desarrollo Social.
+3. Promover campañas de salubridad.
 
-a) Desarrollar actividades educativas, culturales, cívicas y recreativas, tanto a los empleados municipales como a los sampetrinos.
+4. Buscar la otorgación de becas a las estudiantes de escasos recursos y altas calificaciones.
 
-b) Fomentar la participación de la ciudadanía en los desfiles cívicos atléticos y eventos municipales.
+5. Fomentar entre los ciudadanos la conservación de los inmuebles municipales.
 
-c) Promover campañas de salubridad.
+6. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-d) Buscar la otorgación de becas a los estudiantes de escasos recursos y altas calificaciones.
+V. De Espectáculos y Expendios de bebidas alcohólicas.
 
-e) Fomentar entre los ciudadanos la conservación de los inmuebles municipales.
+1. Dictaminar sobre las solicitudes para otorgar licencias para el expendio de bebidas alcohólicas y/o cerveza en envase o botella abierta a al copeo.
 
-f) Las demás que determine el Ayuntamiento o cualesquier dispositivo legal aplicable.
+2. Dictaminar sobre las solicitudes para otorgar licencias para el expendio de bebidas alcohólicas y/o cerveza en envase o botella cerrada.
 
-VI.- De Espectáculos y Expendios de bebidas alcohólicas.
+3. Dictaminar sobre la revocación de permisos para el expendio de bebidas alcohólicas y/o cerveza en envase o botella abierta, y en envase o botella cerrada.
 
-a) Dictaminar sobre las solicitudes para otorgar licencias para el expendio de bebidas alcohólicas y/o cerveza en envase o botella abierta o al copeo.
+4. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-b) Dictaminar sobre las solicitudes para otorgar licencias para el expendio de bebidas alcohólicas y/o cerveza en envase o botella cerrada.
+VI. De Honor y Justicia.
 
-c) Dictaminar sobre la revocación de permisos para el expendio de bebidas alcohólicas y/o cerveza en envase o botella abierta, y en envase o botella cerrada.
+1. Auxiliar al Ayuntamiento, en el caso del procedimiento de responsabilidad, establecido en la Ley de Responsabilidades de los Servidores Públicos para el Estado, cuando se trate de un miembro de elección popular.
 
-d) Las demás que determine el Ayuntamiento o cualesquier dispositivo legal aplicable.
+2. Analizar el trato de los empleados municipales con los sampetrinos, proponiendo mejora la imagen de los Servidores Públicos.
 
-VII.- De Honor y Justicia.
+3. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-a) Auxiliar al Ayuntamiento, en el caso del procedimiento de responsabilidad, establecido en la Ley de Responsabilidades de los Servidores Públicos para el Estado, cuando se trate de un miembro de elección popular.
+VII. De Participación Ciudadana.
 
-b) Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
+1. Promover la participación de las juntas de vecinos en las actividades municipales.
 
-VIII.- De Participación Ciudadana.
+2. Vigilar que las solicitudes de los ciudadanos a las diferentes Dependencias municipales, sean debidamente diligenciadas.
 
-a) Promover la participación de las juntas de vecinos en las actividades municipales.
+3. Difundir la función de los Jueces Auxiliares.
 
-b) Vigilar que las solicitudes de los ciudadanos a las diferentes Dependencias municipales sean debidamente diligenciadas.
+4. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-c) Difundir la función de los Jueces Auxiliares.
+VIII. De Desarrollo Urbano.
 
-d) Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
+1. Las conferidas en el Reglamento del Plan Parcial.
 
-IX.- De Nomenclaturas.
+2. Difundir el contenido de planos, programas, leyes y reglamentos urbanísticos al público en general.
 
-a) Diligencias las solicitudes de cambio de nomenclatura.
+3. Buscar la participación de la ciudadanía en la revisión de los planes, programas y proyectos de ordenamiento urbano.
 
-b) Dictaminar sobre las solicitudes de los ciudadanos de cambio de nomenclatura.
+4. Difundir la cartografía municipal.
 
-c) Vigilar que la nomenclatura existente no sea repetitiva.
+5. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-d) Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
+IX. De Seguridad Pública y Vialidad.
 
-X.- De Desarrollo Urbano.
+1. Fomentar medidas de orden publica a los ciudadanos.
 
-a) Las conferidas en el Reglamento del Plan Parcial.
+2. Proponer al uso de tecnología a la prevención de delitos y accidentes viales.
 
-b) Difundir el contenido de planos, programas, leyes y reglamentos urbanísticos al público en general.
+3. Buscar impartir cursos de educación vial.
 
-c) Buscar la participación de la ciudadanía en la revisión de los planes, programas y proyectos de ordenamiento urbano.
+4. Difundir acciones de cultura vial.
 
-d) Difundir la cartografía municipal.
+5. Desarrollar campañas para prevenir delitos y accidentes viales, intensificándolas cuando sean necesarias.
 
-e) Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
+6. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-XI.- Obras Públicas.
+X. De Medio Ambiente e Imagen Urbana.
 
-a) Vigilar que la obra pública se realice conforme a los acuerdos del Ayuntamiento.
+1. Atender, conocer y dictaminar sobre asuntos que se sometan al Ayuntamiento en materia de medio ambiente e imagen urbana.
 
-b) Evaluar y promover la obra pública municipal.
+2. Vigilar que se cumplan los acuerdas del Ayuntamiento en materia de parques y jardines.
 
-c) Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
+3. Conocer y dictaminar lo relacionado a los anuncios.
 
-XII.- De Seguridad Pública y Vialidad.
+4. Promover campañas da Salud.
 
-a) Fomentar medidas de orden público a los ciudadanos.
+5. Fomentar campañas entre los empleados municipales de conservación de los recursos materiales.
 
-b) Proponer el uso de tecnología a la prevención de delitos y accidentes viales.
+6. Dictaminar de oficio o por solicitud de los ciudadanos el cambio de nomenclatura.
 
-c) Buscar impartir cursos de educación vial.
+7. Vigilar que la nomenclatura existente no sea repetitiva.
 
-d) Difundir acciones de cultura vial.
+8. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal o de reglamento.
 
-e) Desarrollar campañas para prevenir delitos y accidentes viales, intensificándolas cuando sean necesarias.
+XI. De Transparencia.
 
-f) Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
+l. Vigilar el cumplimiento del Reglamento da Acceso a la Información Pública Gubernamental del Municipio de San Pedro Garza García, N. L., e Interpretar en el orden administrativo este Ordenamiento, con el propósito de favorecer el principio de publicidad de la información en posesión de la autoridad, así como resolver lo no previsto en el mencionado Reglamento.
 
-XIII.- De Medio Ambiente e Imagen Urbana.
+2. Orientar a los particulares acerca de las solicitudes de acceso a la información.
 
-a) Atender, conocer y dictaminar sobre asuntos que se sometan al Ayuntamiento en materia de medio ambiente e Imagen urbana.
+3. Resolver las solicitudes interpuestas por los solicitantes.
 
-b) Vigilar que se cumplan los acuerdos del Ayuntamiento en materia de parques y jardines.
+4. Recomendar a la Contraloría Municipal las medidas disciplinarias y sanciones a aplicar por el incumplimiento de lo preceptuado al Reglamento de la materia.
 
-c) Conocer y dictaminar lo relacionado a los anuncios.
+5. Garantizar el debido ejercicio del derecho a la privacidad y la Protección de la información que en términos del Reglamento de Acceso a la información Pública Gubernamental de Municipio de San Pedro Garza García, N. L., no podrá ser suministrada estableciendo los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de las dependencias administrativas municipales.
 
-d) Promover campañas de Salud.
+6. Promover la difusión e investigación sobre el derecho de acceso a la información pública, para fomentar la cultura sobre este derecho.
 
-e) Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal o de reglamento.
+7. Promover la capacitación de los servidores públicos municipales en materia de acceso a la información y protección de datos personales.
+
+8. Informar periódicamente a la comunidad, a través del Republicano Ayuntamiento, sobre los asuntos que haya recibido, el estado que guardan y la forma en que hubieran sido resueltos.
+
+9. Proponer la impartición de recursos a los Servidores Públicos.
+
+10. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal o de reglamento.
 
 ###### ARTÍCULO 62.
 
@@ -771,9 +781,11 @@ El procedimiento de reglamentación municipal.
 
 De conformidad con las bases generales para la expedición de los Reglamentos municipales establecidos en la Ley de la materia, el objetivo del presente capítulo, es normar el procedimiento para el ejercicio de la facultad reglamentaria del Ayuntamiento de San Pedro Garza García, Nuevo León.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 70.
 
-Corresponde al Ayuntamiento la derogación o abrogación de los Reglamentos municipales respectivos.
+Corresponde al Ayuntamiento la derogación o abrogación, reforma, adición o modificación de los Reglamentos municipales respectivos.
 
 ###### ARTÍCULO 71.
 
@@ -920,3 +932,9 @@ PRESIDENTE MUNICIPAL
 LIC. ISRAEL HURTADO ACOSTA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE DICIEMBRE DE 2006.
+
+UNICO.- Las presentes Reformas a este Reglamento para el Gobierno Interior del R. Ayuntamiento de San Pedro Garza García, N.L., entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
