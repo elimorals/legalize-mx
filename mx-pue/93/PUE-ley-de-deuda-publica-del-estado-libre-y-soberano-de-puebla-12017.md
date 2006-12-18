@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-deuda-publica-del-estado-libre-y-soberano-de-puebla-1201
 country: "mx"
 rank: "ley"
 publication_date: "1977-11-15"
-last_updated: "2003-10-29"
+last_updated: "2006-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE DEUDA PUBLICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADA EN EL P.O. DE 18 DE DICIEMBRE DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1977.
 
@@ -228,3 +230,15 @@ P.O. 29 DE OCTUBRE DE 2003.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2006.
+
+PRIMERO.- La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente a su publicación.
+
+SEGUNDO.- Se abroga la Ley de Deuda Pública para el Estado Libre y Soberano de Puebla, publicada en el Periódico Oficial del Estado, el quince de noviembre de mil novecientos setenta y siete.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+CUARTO.- Los sujetos a que se refiere esta Ley, elaborarán durante el 2007, sus Programas de Financiamiento Neto para el Ejercicio Fiscal 2008.
+
+QUINTO.- Se reconoce la validez de las operaciones financieras formalizadas con base en las autorizaciones del Honorable Congreso del Estado emitidas con anterioridad a la vigencia de esta Ley.
