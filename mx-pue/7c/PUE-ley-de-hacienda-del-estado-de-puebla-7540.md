@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2006-03-31"
+last_updated: "2006-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -143,21 +143,19 @@ Es base de este impuesto el monto total de los pagos realizados a que se refiere
 
 El impuesto sobre erogaciones por remuneraciones al trabajo personal se determinará aplicando a la base a que se refiere el artículo anterior la tasa que se establezca en la Ley de Ingresos del Estado de Puebla vigente en el ejercicio fiscal que corresponda.
 
-(REFORMADO, P.O. 02 DE AGOSTO DE 1994).
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 5°.
 
-El impuesto sobre erogaciones por remuneraciones al trabajo personal se causará en el momento en que se realicen las erogaciones a que se refiere el artículo 1° de esta Ley y se pagará a más tardar el día 17 de cada mes. Dicho pago se hará mediante declaración que contenga los datos relativos al objeto de este impuesto que correspondan al mes inmediato anterior.
+El impuesto sobre erogaciones por remuneraciones al trabajo personal se causará en el momento en que se realicen las erogaciones a que se refiere el artículo I de esta Ley y se pagará a más tardar el día 17 del mes siguiente a la fecha en que se cause. Dicho pago se hará mediante declaración que contenga los datos relativos al objeto de este impuesto que correspondan al mes inmediato anterior.
 
-> <small>(REFORMADO SEGUNDO PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
+Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente estará obligado a presentar declaraciones dentro de los cinco días hábiles siguientes a aquél en que se cause dicho impuesto. En este caso, los contribuyentes quedan relevados de cumplir con la obligación de presentar el aviso de inscripción al Registro Estatal de Contribuyentes.
 
-Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente estará obligado a presentar declaraciones dentro de los cinco días hábiles siguientes a aquél en que se cause dicho impuesto. En este caso los contribuyentes quedan relevados de cumplir con la obligación a que se refiere la fracción I del artículo 8° de esta Ley.
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 6°.
 
-Los contribuyentes presentarán las declaraciones y efectuarán el entero del impuesto a que se refiere este capítulo, en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago de la Secretaría de Finanzas y Administración del Gobierno del Estado, en las Instituciones Bancarias que éste autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos que apruebe la misma Dependencia, en términos del Código Fiscal del Estado.
+Cuando exista cantidad a pagar, los contribuyentes presentarán las declaraciones normales, complementarias y provisionales; y efectuarán el entero del impuesto a que se refiere este Capítulo, en las Oficinas Recaudadoras y de Asistencia al Contribuyente; Receptoras de Pago; Instituciones Bancarias o Establecimientos que autorice y dé a conocer la Secretaría de Finanzas y Administración, mediante Reglas de carácter General, o a través de medios electrónicos; mediante las formas oficiales que apruebe la misma Dependencia en términos del Código Fiscal del Estado.
 
 ###### ARTICULO 7°.
 
@@ -167,15 +165,15 @@ Las declaraciones deberán de hacerse de acuerdo con las formas o sistemas ofici
 
 Los sujetos de este impuesto están obligados a:
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-I.- Solicitar la Inscripción en el registro de contribuyentes de este impuesto, ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro del mes siguiente a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
+I.- Solicitar la inscripción al Registro Estatal de Contribuyentes ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro del mes siguiente a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-II.- Presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, los avisos respectivos de cambio de nombre o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del registro de contribuyentes de este impuesto.
+II.- Presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, los avisos respectivos de cambio de nombre o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del Registro Estatal de Contribuyentes.
 
-Asimismo, presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago o Instituciones Bancarias que ésta autorice para tal efecto, las declaraciones normales, complementarias, provisionales e informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las Leyes Fiscales del Estado, en las formas autorizadas, con los requisitos y en los plazos que en las mismas se establezcan.
+Asimismo presentar ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, las declaraciones informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas autorizadas, con los requisitos y en los plazos que en las mismas se establezcan;
 
 III.- Presentar los avisos, documentos, datos o información que les soliciten las autoridades fiscales en relación con este impuesto dentro de los plazos y lugares señalados al efecto.
 
@@ -185,7 +183,9 @@ IV.- Expedir y conservar la documentación comprobatoria de las erogaciones grav
 
 a) Nombre, denominación o razón social del contribuyente.
 
-b) Registro estatal.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+b) Registro Estatal de Contribuyentes.
 
 c) Domicilio fiscal.
 
@@ -199,7 +199,9 @@ g) Período que se paga.
 
 h) Conceptos e importes de las remuneraciones y deducciones efectuadas al trabajador.
 
-i) Firma del contribuyente o del representante legal.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+i) Firma del contribuyente o del representante legal o en los casos que proceda, la clave de identificación electrónica.
 
 j) Número total de empleados.
 
@@ -220,6 +222,12 @@ V.- Llevar contabilidad conforme a lo estipulado en el Código Fiscal del Estado
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2004)</small>
 
 VI.- Señalar y comprobar el domicilio fiscal en el Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 8 A.- Los contribuyentes de este impuesto, además de las obligaciones establecidas en el artículo anterior, deberán presentar semestralmente ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, la información relativa a sus proveedores y prestadores de servicios, en la que se deberá señalar el nombre o razón social, el Registro Federal de Contribuyentes y el domicilio fiscal, mediante las formas oficiales autorizadas o medios electrónicos que apruebe la Secretaría de Finanzas y Administración.
+
+Dicha información deberá presentarse a más tardar los días 30 de los meses de enero y julio, con los datos relativos al semestre inmediato anterior.
 
 ###### ARTICULO 9°.
 
@@ -289,9 +297,11 @@ f) Autobuses integrales.
 
 g) Vehículos eléctricos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 12.
 
-Son sujetos de este impuesto las personas físicas y morales, tenedores o usuarias de los vehículos cuyos modelos tengan más de 10 años de fabricación anteriores a la aplicación de esta Ley.
+Son sujetos de este impuesto las personas físicas y morales, tenedores o usuarias de los vehículos cuyos modelos tengan más de 10 años de fabricación.
 
 Para efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo.
 
@@ -311,11 +321,11 @@ IV.- (DEROGADA, P.O. 31 DE MARZO DE 2006)
 
 El impuesto estatal sobre tenencia o uso de vehículos se causará y pagará conforme a la tarifa que anualmente señale la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 15.
 
-Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos lo pagarán anualmente durante los primeros tres meses de cada ejercicio fiscal, en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago, en las Instituciones Bancarias que esta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales autorizadas o medios electrónicos que apruebe la misma Dependencia, en términos del Código Fiscal del Estado.
+Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos lo pagarán anualmente durante los primeros tres meses de cada ejercicio fiscal, en las Oficinas Recaudadoras y de Asistencia al Contribuyente; Receptoras de Pago; Instituciones Bancarias o Establecimientos que autorice y dé a conocer la Secretaría de Finanzas y Administración mediante Reglas de Carácter General, o a través de medios electrónicos; mediante las formas oficiales que apruebe la misma Dependencia en términos del Código Fiscal del Estado.
 
 ###### ARTICULO 16.
 
@@ -343,27 +353,33 @@ A requerimiento de las autoridades fiscales, los contribuyentes del Impuesto Est
 
 I.- Presentar el original del documento que ampare la propiedad del vehículo.
 
-> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-II.- Presentar el comprobante domiciliario del contribuyente.
+II.- Presentar el comprobante domiciliario.
 
-> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-III.- Presentar los comprobantes del pago de este impuesto y los derechos de control vehicular.
+III.- Presentar los comprobantes del pago de este impuesto y de los derechos por servicios de control vehicular, en los que conste el sello del lugar autorizado en que se haya realizado dicho pago o bien, el comprobante de pago computarizado, cuya anterioridad no sea mayor al plazo de 5 años, contados a partir de la fecha en la que se realizó o debió de realizarse el pago que en dichos comprobantes se consigna.
 
-> <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-IV.- Acreditar tratándose de vehículos de procedencia extranjera, además, su legal estancia y definitiva en el país, con la documentación respectiva.
+IV.- Tratándose de vehículos de procedencia extranjera, acreditar, su legal y definitiva estancia en el país, con la documentación respectiva.
 
-V.- Conservar durante 5 años los comprobantes de pago en los que conste el sello y/o golpe de la máquina registradora de la oficina recaudadora o autorizada.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+V.- Presentar copia del contrato de compraventa o de la factura en la que se cedan los derechos de propiedad del vehículo, para el caso de que haya enajenado éste.
 
 > <small>(REFORMADA. P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 VI.- Presentar tratándose del servicio público, además, el acuerdo de otorgamiento y tarjetón de concesión.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-VII.- Anotar en los formatos de este impuesto, al momento de solicitar su incorporación o modificación en el registro establecido por la Secretaría de Finanzas y Administración, su clave del Registro Federal de Contribuyentes, en los casos en que se encuentren inscritos en el mismo, y tratándose de personas físicas, además, señalar su Clave Única del Registro de Población.
+VII.- Anotar en los formatos de este impuesto, al momento de solicitar su incorporación o modificación en el registro establecido por la Secretaría de Finanzas y Administración, su clave de los Registros Federal y Estatal de Contribuyentes en los casos en que se encuentren inscritos en los mismos, y tratándose de personas físicas, además, señalar su Clave Única del Registro de Población, y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+VIII.- Presentar copia del acta del Ministerio Público o del documento en el que conste el robo o siniestro del vehículo, en los casos que proceda.
 
 ###### ARTICULO 18.
 
@@ -417,7 +433,9 @@ II.- Cuando el endoso o cesión a que se refiere la fracción anterior, no conte
 
 a) El vehículo en cuestión circule con placas del Estado de Puebla.
 
-b) La documentación de pago de otros impuestos y/o derechos a que esté afecto el vehículo de que se trate, haya sido tramitada ante las autoridades estatales.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+b) La documentación de pago de otros impuestos y/o derechos a que esté afecto el vehículo de que se trate, haya sido tramitada ante las autoridades de esta Entidad Federativa.
 
 > <small>(REFORMADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
@@ -429,11 +447,11 @@ La base gravable a que se refiere la Ley de Ingresos del Estado de Puebla, será
 
 Este impuesto se pagará conforme a las tasas y tarifas que anualmente fije la Ley de Ingresos del Estado de Puebla.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 24.
 
-El pago de este impuesto deberá efectuarse en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro de los 15 días siguientes a la celebración de la operación mediante declaración en la forma aprobada por la citada Dependencia, acompañando la documentación que en la misma se especifique y que mediante Reglas de Carácter General se dé a conocer al contribuyente.
+El pago de este impuesto deberá efectuarse dentro de los 15 días siguientes a la celebración de la operación en las Oficinas Recaudadoras y de Asistencia al Contribuyente; Receptoras de Pago; Instituciones Bancarias o Establecimientos que autorice y dé a conocer la Secretaría de Finanzas y Administración mediante Reglas de Carácter General, o a través de medios electrónicos; mediante las formas oficiales que apruebe la misma Dependencia en términos del Código Fiscal del Estado.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
@@ -441,9 +459,9 @@ Además de los casos a que se refiere el Código Fiscal del Estado, la autoridad
 
 Los funcionarios o empleados públicos no recibirán ninguna declaración de alta, baja o cambio de propietario sin haberse cerciorado de que esté cubierto el impuesto a que se refiere este capítulo, así como el de tenencia o uso de vehículos tanto federal como estatal y los derechos de control vehicular correspondientes.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-Las personas físicas o morales que enajenen vehículos materia de este impuesto deberán presentar ante la Secretaría de Finanzas y Administración, dentro de los 15 días siguientes a la fecha de enajenación, un aviso en el que se dé a conocer dicho acto, acompañando la documentación que se señale en las Reglas de Carácter General que para estos efectos apruebe y publique dicha Dependencia.
+Las personas físicas o morales que enajenen vehículos materia de este impuesto deberán presentar ante la Secretaría de Finanzas y Administración, dentro de los 15 días siguientes a la fecha de enajenación, un aviso en el que se dé a conocer dicho acto, acompañando la documentación que se señale en las Reglas de Carácter General que para estos efectos apruebe y publique dicha Dependencia; asimismo, deberán conservar copia del contrato de compraventa o de la factura en la que se cedan los derechos de propiedad del vehículo, para el caso de que haya enajenado éste; del acta del Ministerio Público o del documento en el que conste el robo o siniestro del vehículo, en los casos que proceda.
 
 ###### ARTICULO 25.
 
@@ -499,13 +517,13 @@ ARTICULO 26 D.- Los contribuyentes de este impuesto lo calcularán aplicando a l
 
 ARTICULO 26 E.- El impuesto a que se refiere este Capítulo se causará al momento en que se reciba el pago por los servicios de hospedaje y se pagará mediante declaración a más tardar el día diecisiete del mes siguiente al que se cause.
 
-> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 26 F.- Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente deberá presentar declaración dentro de los cinco días hábiles siguientes a aquél en que se cause dicho impuesto. En este caso el contribuyente queda relevado de cumplir con la obligación a que se refiere la Fracción I del Artículo 26 I de esta Ley.
+ARTICULO 26 F.- Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente deberá presentar declaración dentro de los cinco días hábiles siguientes a aquél en que se cause dicho impuesto. En este caso, el contribuyente queda relevado de cumplir con la obligación de presentar el aviso de inscripción al Registro Estatal de Contribuyentes.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 26 G.- Los contribuyentes presentarán las declaraciones y efectuarán el pago del impuesto en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago o en las Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos de pago que apruebe la misma Dependencia, en términos del Código Fiscal del Estado.
+ARTICULO 26 G.- Cuando exista cantidad a pagar, los contribuyentes presentarán las declaraciones normales, complementarias y provisionales; y efectuarán el entero del impuesto en las Oficinas Recaudadoras y de Asistencia al Contribuyente; Receptoras de Pago; Instituciones Bancarias o Establecimientos que autorice y dé a conocer la Secretaría de Finanzas y Administración mediante Reglas de Carácter General, o a través de medios electrónicos; mediante las formas oficiales que apruebe la misma Dependencia en términos del Código Fiscal del Estado.
 
 > <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
 
@@ -515,17 +533,17 @@ ARTICULO 26 H.- Las declaraciones deberán hacerse de acuerdo con las formas o s
 
 ARTICULO 26 I.- Los contribuyentes de este impuesto están obligados a:
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-I.- Solicitar la inscripción en el Registro de Contribuyentes de este impuesto, ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro del mes siguiente a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro del mes siguiente a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
 
-Los obligados al pago de este impuesto que no se hubieran inscrito en el registro de contribuyentes, que presenten una o más declaraciones, quedarán automáticamente inscritos en el mismo; con excepción de aquéllos a que se refiere el Artículo 26 F de esta Ley.
+Los contribuyentes obligados al pago de este impuesto que no se hubieran inscrito en el Registro Estatal de Contribuyentes, que presenten una o más declaraciones, quedarán automáticamente inscritos en el mismo; con excepción de aquellos a que se refiere el artículo 26 F de esta Ley.
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-II.- Presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, los avisos respectivos de cambio de nombre o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del registro de contribuyentes de este impuesto.
+II.- Presentar ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, los avisos respectivos de cambio de nombre o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del Registro Estatal de Contribuyentes.
 
-Asimismo, presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago o Instituciones Bancarias que esta autorice para tal efecto, las declaraciones normales, complementarias, provisionales e informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las Leyes Fiscales del Estado, en las formas autorizadas, con los requisitos y en los plazos que en las mismas se establezcan.
+Asimismo presentar ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, las declaraciones informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas autorizadas, con los requisitos y en los plazos que en las mismas se establezcan.
 
 III.- Presentar los avisos, documentos, datos o información que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y lugares señalados al efecto.
 
@@ -537,7 +555,9 @@ V.- Expedir y conservar la documentación comprobatoria de las operaciones grava
 
 a) Nombre, denominación o razón social del contribuyente.
 
-b) Registro estatal.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+b) Registro Estatal de Contribuyentes.
 
 c) Domicilio.
 
@@ -611,9 +631,9 @@ ARTICULO 26 Ñ.- El impuesto estatal sobre loterías, rifas, sorteos y concursos
 
 ARTICULO 26 O.- El impuesto estatal sobre loterías, rifas, sorteos y concursos se causará en el momento que los sujetos reciban el pago o entrega del premio derivado de eventos organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006) (F. DE E., P.O. 19 DE ENERO DE 2007)
 
-ARTICULO 26 P.- El pago del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos se realizará en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago, en Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos que apruebe la misma Dependencia en términos del Código Fiscal del Estado que presente el retenedor a que se refiere el artículo 26 Q de esta Ley, a más tardar el día 17 del mes siguiente al de su causación.
+ARTICULO 26 P.- El pago del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos se realizará a más tardar el día 17 del mes siguiente al de su causación, en las Oficinas Recaudadoras y de Asistencia al Contribuyente; Receptoras de Pago; Instituciones Bancarias o Establecimientos que autorice y dé a conocer la Secretaría de Finanzas y Administración mediante Reglas de Carácter General, o a través de medios electrónicos; mediante las formas oficiales que apruebe la misma Dependencia en términos del Código Fiscal del Estado y que presente el retenedor a que se refiere el artículo 26 Q de esta Ley.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
 
@@ -623,9 +643,9 @@ ARTICULO 26 Q.- El impuesto estatal sobre loterías, rifas, sorteos y concursos 
 
 ARTICULO 26 R.- Los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública, que celebren loterías, rifas, sorteos y concursos de toda clase, deberán retener y enterar a la Secretaría de Finanzas y Administración el impuesto que se cause. Tratándose de premios en especie, quienes los obtengan deberán enterar al retenedor los recursos necesarios para la retención del impuesto. Asimismo el organismo público descentralizado de que se trate, deberá proporcionar al interesado constancia de retención del impuesto, cuando así lo solicite el contribuyente de este impuesto.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
-Los retenedores deberán solicitar ante la Secretaría de Finanzas y Administración, su inscripción en el registro estatal de contribuyentes de este impuesto, utilizando para tal efecto las formas que mediante Reglas de Carácter General se den a conocer al contribuyente.
+Los retenedores deberán solicitar ante la Secretaría de Finanzas y Administración, su inscripción al Registro Estatal de Contribuyentes, utilizando para tal efecto las formas que mediante Reglas de Carácter General se den a conocer al contribuyente.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
 
@@ -729,7 +749,7 @@ Los contratos de arrendamiento de bienes muebles e inmuebles propiedad del Gobie
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 31.
 
@@ -743,7 +763,7 @@ Son aprovechamientos, los ingresos ordinarios del Estado, no clasificables como 
 
 ###### ARTICULO 32.
 
-Las participaciones en ingresos federales, incentivos económicos, fondos de aportaciones federales, reasignaciones y demás ingresos que correspondan al Estado, se recibirán y ejercerán con arreglo a las disposiciones legales aplicables.
+Las participaciones en ingresos federales, los fondos de aportaciones federales, los incentivos económicos, las reasignaciones y demás ingresos que correspondan al Estado, se recibirán conforme a lo dispuesto por la Ley de Coordinación Fiscal, incluyendo los Convenios que suscriba el Estado con la Federación, así como al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos, al de Colaboración Administrativa en Materia Fiscal Federal, sus anexos y declaratorias y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -972,3 +992,13 @@ TERCERO.- En tanto se realizan las modificaciones conducentes en los formatos, s
 CUARTO.- Los actos y procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto ante las "Oficinas Recaudadoras" de la Secretaría de Finanzas y Administración, se desahogarán hasta su total conclusión por las "Oficinas Recaudadoras y de Asistencia al Contribuyente" de la citada Dependencia a que se refiere esta Ley.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
