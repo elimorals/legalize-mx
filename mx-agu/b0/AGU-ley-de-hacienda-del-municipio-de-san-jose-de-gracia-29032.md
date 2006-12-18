@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-san-jose-de-gracia-29032"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1995-06-04"
+last_updated: "2006-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE SAN JOSE DE GRACIA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Sección Décima Cuarta del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -505,7 +505,9 @@ E).- Caballitos, volantines, rueda de la fortuna, tiro sport, aparato de la risa
 
 II.- Espectáculos:
 
-A).- Cines, circos, comedias, dramas, revistas, variedades, conciertos, conferencias, exhibiciones, charreadas, jaripeos, kermesses y bailes.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+A).- Circos, comedias, dramas, revistar, variedades, conciertos, conferencias, exhibiciones, charreadas, jaripeos, kermesses y bailes.
 
 B).- Box, lucha libre, béisbol, básquetbol, fútbol, carreras de automóviles, bicicletas y deportes similares.
 
@@ -838,3 +840,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Las Asociaciones Religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre adquisición de inmuebles, únicamente por lo que ve a las adquisiciones que realicen hasta el 31 de diciembre de 1995.
+
+P.O. 18 DE DICIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Procédase a efectuar la adecuación al Presupuesto de Egresos del Municipio de San José de Gracia, Aguascalientes, para el Ejercicio Fiscal del Año 2006.
