@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2006-05-15"
+last_updated: "2006-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -199,7 +199,9 @@ II.- Llevar el archivo de la Dirección.
 
 III.- Llevar el registro de las concesiones de servicio público tanto de pasajeros como de carga, comprobando los datos proporcionados en las solicitudes.
 
-IV.- Expedir tarjetas de circulación, permisos para circular sin placas ni tarjeta de circulación, y licencias para conducir vehículos de motor.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+IV.- Expedir tarjetas de circulación, permisos para circular sin placas ni tarjeta de circulación, placas para demostración de vehículos nuevos en el territorio del Estado y licencias para conducir vehículos de motor.
 
 V.- Mantener actualizado el registro de altas, bajas y traslación de dominio de los vehículos, así como de canje de placas de circulación y calcomanía respectiva.
 
@@ -355,7 +357,9 @@ El registro de vehículos ante la Dirección obliga a su propietario al cumplimi
 
 Las placas son de uso individual y corresponden única y exclusivamente para el vehículo para el cual fueron expedidas y son:
 
-I.- (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2003)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+I.- Para demostración de vehículos nuevos;
 
 II.- De servicio particular; y
 
@@ -372,6 +376,12 @@ Las placas deberán mantenerse en buen estado de conservación y libres de objet
 Todo conductor que circule en el Estado de Aguascalientes, con placas expedidas por otras Entidades Federativas que infrinja alguna disposición señalada en la presente Ley, deberá demostrar en forma afirmativa su residencia en el Estado que ostente en sus respectivas placas, o en su defecto, acreditar su residencia en el Estado de Aguascalientes, en un período menor de un año. En caso contrario, el propietario del vehículo tendrá la obligación de dar de alta su vehículo de motor registrándolo con su domicilio actual.
 
 Las placas tendrán las características que determine la norma oficial mexicana.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 21 BIS.- Las placas para demostración de vehículos nuevos exclusivamente se proporcionarán a las personas físicas o morales que acrediten su actividad en la fabricación de vehículos, así como a las agencias distribuidoras autorizadas de los mismos.
+
+Se deberá llevar un registro de la utilización de las placas para demostración de vehículos nuevos.
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2870,3 +2880,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 TERCERO.- Los reglamentos y demás disposiciones complementarias que se refieran a las disposiciones de la presente Ley, deberán ser modificados en un plazo no mayor de sesenta días posteriores a la entrada en vigencia de la misma.
 
 CUARTO.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, deberá ser nombrado en un plazo no mayor a sesenta días contados a partir de la publicación del presente decreto. En tanto se nombra, continuará el Secretario de Seguridad Pública, ejerciendo las funciones del Secretario Ejecutivo.
+
+P.O. 18 DE DICIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
