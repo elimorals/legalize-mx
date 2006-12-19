@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-comision-coordinadora-del-38507"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-30"
-last_updated: "2004-03-30"
+last_updated: "2006-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA COMISION COORDINADORA DEL TRANSPORTE PUBLICO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2004.
 
@@ -69,27 +69,29 @@ IX. Unidades Administrativas: Las unidades administrativas de la Comisión Coord
 
 ### CAPÍTULO II. DE LA COMPETENCIA Y ORGANIZACIÓN DE LA COMISIÓN COORDINADORA DEL TRANSPORTE PÚBLICO DE MICHOACÁN
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 4°.
 
 Para el despacho de los asuntos que le competen a la COCOTRA, contará con las unidades administrativas siguientes:
 
-I. La Coordinación General;
+I. Coordinación General;
 
-II. La Dirección del Transporte;
+II. Dirección del Transporte;
 
-III. La Dirección de Planeación y Proyectos;
+III. Dirección de Planeación y Proyectos;
 
-IV. La Dirección de Operación;
+IV. Dirección de Operación;
 
-V. La Dirección de Informática;
+V. Dirección de Asuntos Jurídicos;
 
-VI. La Subdirección de Asuntos Jurídicos;
+VI. Subdirección de Informática;
 
-VII. La Subdirección Administrativa;
+VII. Subdirección Administrativa;
 
-VIII. La Unidad de Asistencia Técnica; y,
+VIII. Unidad de Asistencia Técnica; y,
 
-IX. Las Delegaciones Regionales.
+IX. Delegaciones Regionales.
 
 ### CAPÍTULO III. DEL COORDINADOR GENERAL
 
@@ -177,7 +179,9 @@ Al Director del Transporte le corresponde el ejercicio de las facultades siguien
 
 I. Someter al Coordinador General la renovación de concesiones y permisos para la prestación de los servicios del transporte público en todas sus modalidades;
 
-II. Proponer al Coordinador General, el establecimiento de los itinerarios, cambios de modalidad, adscripción, sanciones y transferencias, previo cumplimiento de los requisitos establecidos en las disposiciones normativas aplicables;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2006)</small>
+
+II. Proponer al Coordinador General, el establecimiento de los itinerarios, cambios de modalidad, adscripción, sanciones y transmisiones, previo cumplimiento de los requisitos establecidos en las disposiciones normativas aplicables;
 
 III. Proponer al Coordinador General los estudios, planes y programas para la modernización del transporte público;
 
@@ -243,7 +247,7 @@ VI. Verificar y supervisar el adecuado cumplimiento de las disposiciones normati
 
 VII. Elaborar, aplicar y supervisar los programas de vigilancia en las vías de jurisdicción estatal en materia de transporte público;
 
-VIII. Desarrollar, dirigir y supervisar el Programa Permanente de Revisión Médica;
+VIII. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2006)
 
 IX. Desarrollar, dirigir y supervisar el programa de mejoramiento de higiene y seguridad en los vehículos destinados al servicio público del transporte;
 
@@ -253,53 +257,61 @@ XI. Vigilar y supervisar los horarios y frecuencias de operación de los medios 
 
 XII. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
 
-### CAPÍTULO VIII. DE LA DIRECCIÓN DE INFORMÁTICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 2006)</small>
+
+### CAPÍTULO VIII. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 12.
 
-Al Director de Informática le corresponde el ejercicio de las atribuciones siguientes:
+Al Director de Asuntos Jurídicos le corresponde el ejercicio de las facultades siguientes:
 
-I. Autorizar y dirigir las altas, bajas y modificaciones de los equipos de cómputo y telecomunicaciones, así como de los sistemas y aplicaciones informáticas de la COCOTRA;
+I. Representar legalmente a la COCOTRA, previo acuerdo delegatorio de facultades del Coordinador General, de conformidad con la normativa aplicable;
 
-II. Evaluar y proponer tecnologías de informática y telecomunicación, así como alternativas de solución en sistemas, aplicaciones, procesos y proyectos que mejoren la capacidad operativa, táctica y estratégica de la COCOTRA;
+II. Asesorar a las unidades administrativas de la COCOTRA, estableciendo los criterios legales conforme a los cuales deberá realizar sus actividades y el cumplimiento de sus facultades, previo acuerdo con el Director General, de conformidad con la normativa aplicable;
 
-III. Mantener actualizado el registro del transporte público y los datos que deberán contener las bajas, altas, revalidaciones, revistas mecánicas, transmisión de derechos, cambios de modalidad, cambios de adscripción de concesiones y demás información complementaria;
+III. Elaborar o revisar los convenios, contratos y demás actos jurídicos que celebre la COCOTRA, de conformidad con las disposiciones normativas aplicables;
 
-IV. Elaborar estadísticas de antigüedad del parque vehicular, de concesionarios, placas, tarifas por modalidad, por adscripción y todas aquellas que le requiera el Coordinador General;
+IV. Revisar las pólizas de seguro que conforme a la normativa deben adquirir los concesionarios y permisionarios, para garantizar el cumplimiento de su responsabilidad, derivada de los daños que sufran los usuarios;
 
-V. Proporcionar la información y asesoría en materia de informática que le sea requerida por las unidades administrativas de la COCOTRA;
+V. Instruir el procedimiento administrativo y elaborar los proyectos de resolución para la cancelación, suspensión y transmisión referentes a la concesión, en términos de la normativa aplicable;
 
-VI. Elaborar los títulos de concesión, los engomados, los tarjetones y las licencias de conductor, los cuales deberán contar con los elementos electrónicos de seguridad que faciliten el procedimiento de administración y supervisión del servicio del transporte público; y,
-
-VII. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
-
-### CAPÍTULO IX. DE LA SUBDIRECCIÓN DE ASUNTOS JURÍDICOS
-
-###### Artículo 13.
-
-Al Subdirector de Asuntos Jurídicos le corresponde el ejercicio de las atribuciones siguientes:
-
-I. Representar legalmente a la COCOTRA, previo acuerdo delegatorio de facultades del Coordinador General;
-
-II. Asesorar a las unidades administrativas de la COCOTRA, estableciendo los criterios legales conforme a los cuales deberán realizar sus actividades y el cumplimiento de sus facultades;
-
-III. Elaborar y/o revisar los convenios, contratos y demás actos jurídicos que celebre la COCOTRA, de conformidad con las disposiciones normativas aplicables;
-
-IV. Revisar las pólizas de seguro que conforme a la normativa deben adquirir los concesionarios y permisionarios para garantizar el cumplimiento de su responsabilidad, derivada de los daños que sufran los usuarios;
-
-V. Instruir el procedimiento administrativo y elaborar los proyectos de resolución para la cancelación, suspensión y transferencias referentes a la concesión;
-
-VI. Elaborar el proyecto de resolución que permita efectuar modificaciones a la concesión, referentes a los cambios de adscripción, modalidad e itinerarios y remitirlo al Coordinador General para su expedición;
+VI. Elaborar los proyectos de resolución que permitan efectuar modificaciones a las concesiones, referentes a los cambios de adscripción, modalidad e itinerarios y remitirlo al Coordinador General para su expedición, en términos de la normativa aplicable;
 
 VII. Formular denuncias o querellas ante las autoridades competentes por hechos u omisiones delictuosas en los que resulte afectada la COCOTRA, así como por los delitos que afecten el interés común en la prestación del servicio público de transporte y otorgar perdón legal o gestionar desistimientos y acordar conciliaciones en beneficio de la COCOTRA, cuando proceda;
 
-VIII. Formular proyectos de disposiciones normativas en materia del transporte público y revisar los proyectos que sean propuestos a la COCOTRA;
+VIII Formular proyectos de disposiciones normativas en materia del transporte público y revisar los proyectos que sean propuestos a la COCOTRA;
 
 IX. Compilar y promover la difusión de normas jurídicas en materia de vías generales de vialidad, modos de transporte y servicios auxiliares y conexos;
 
-X. Expedir copias certificadas de las constancias que obren en los archivos de la COCOTRA; y,
+X Expedir copias certificadas de las constancias que obren en los archivos de la COCOTRA; y,
 
 XI. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 2006)</small>
+
+### CAPÍTULO IX. DE LA SUBDIRECCIÓN DE INFORMÁTICA
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 13.
+
+Al Subdirector de Informática le corresponde el ejercicio de las facultades siguientes:
+
+I. Autorizar y dirigir las altas, bajas y modificaciones de los equipos de cómputo y telecomunicaciones, así como de los sistemas y aplicaciones informáticas de la COCOTRA, en términos de la normativa aplicable;
+
+II. Evaluar y proponer tecnologías de informática y telecomunicación, así como alternativas de solución en sistemas, aplicaciones, procesos y proyectos que mejoren la calidad operativa, táctica y estratégica de la COCOTRA;
+
+III. Mantener actualizado el registro del transporte público y los datos que deberán contener las bajas, altas, revalidaciones, revistas mecánicas, transmisión de derechos, cambios de modalidad, cambios de adscripción de concesiones y demás información complementaria, en términos de la normativa aplicable;
+
+IV. Elaborar estadísticas de antigüedad del parque vehicular destinado al trasporte público, de los concesionarios, placas, tarifas por modalidad, por adscripción y todas aquellas que le requiera el Coordinador General;
+
+V. Proporcionar la información y asesoría en materia de informática que le sea requerida por las unidades administrativas de la COCOTRA;
+
+VI. Elaborar los títulos de concesión, los engomados, tarjetones y las licencias de conductor, los cuales deberán contar con los elementos electrónicos de seguridad que faciliten el procedimiento de administración y supervisión del servicio del transporte público, en términos de la normativa aplicable; y,
+
+VII. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
 
 ### CAPÍTULO X. DE LA SUBDIRECCIÓN ADMINISTRATIVA
 
@@ -365,9 +377,11 @@ I. Auxiliar a la COCOTRA, en su circunscripción, a fin de atender la problemát
 
 II. Recibir solicitudes de concesión correspondientes a su circunscripción y turnarla a la COCOTRA, para el trámite correspondiente;
 
-III. Operar como ventanilla única de recepción y verificación de documentos, para llevar a cabo los procesos de trámite de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2006)</small>
 
-a) Licencias de conductor para el servicio de transporte público estatal;
+III. Operar como ventanilla única de recepción y verificación de documentos, y para llevar a cabo los procesos de trámite de:
+
+a) (DEROGADO, P.O. 19 DE DICIEMBRE DE 2006)
 
 b) Reposición o renovación de placas, tarjetas de circulación o engomados para el servicio de transporte público estatal;
 
@@ -375,7 +389,9 @@ c) Solicitudes de altas y bajas de vehículos del transporte público estatal; y
 
 d) Recepción y envío de las solicitudes relativas a cambios de modalidad, de adscripción y de beneficiario en la concesión del transporte público estatal.
 
-IV. Elaborar y aplicar, en coordinación con las unidades administrativas de la COCOTRA respectivas, los programas de vigilancia, supervisión y seguimiento, de conformidad con la normativa aplicable en la materia;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2006)</small>
+
+IV. Elaborar y aplicar, en coordinación con las unidades administrativas de la COCOTRA que correspondan, los programas y acciones de vigilancia, supervisión, seguimiento y atención de trámites, de conformidad con la normativa aplicable en la materia;
 
 V. Proporcionar informes y orientación a los usuarios del transporte público que lo soliciten;
 
@@ -438,3 +454,15 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones administrativas en lo que se opongan al presente Decreto.
