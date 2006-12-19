@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "2005-12-14"
+last_updated: "2006-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -1265,11 +1265,11 @@ II. Tratándose de otros bienes muebles, el valor de la operación. Cuando este 
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 115.
 
-El impuesto se causará sobre el importe del 4% sobre su base.
+El impuesto se causará sobre el importe del 2% sobre su base.
 
 DEL PAGO
 
@@ -2891,11 +2891,17 @@ k).- Las despensas en especie. No se considerarán incluidos los vales, bonos u 
 
 Para que las erogaciones mencionadas en esta fracción se excluyan de la base gravable, deberán estar debidamente comprobadas y registradas en la contabilidad del patrón.
 
-II.- Las Erogaciones que efectúen:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2006)</small>
 
-a).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
+II.- Las erogaciones que efectúen:
 
-b).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 1993)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2006)</small>
+
+a).- Las asociaciones de asistencia social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2006)</small>
+
+b).- Las asociaciones religiosas debidamente registradas ante la Secretaría de Gobernación.
 
 c).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 1993)
 
@@ -4594,3 +4600,9 @@ P.O. 14 DE DICIEMBRE DE 2005.
 ###### ARTICULO UNICO.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero de 2006.
+
+P.O. 19 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1 de enero de 2007.
