@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-para-el-estado-de-coahuila-de-12610"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-23"
-last_updated: "2006-11-07"
+last_updated: "2006-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de enero de 1998.
 
@@ -419,9 +419,11 @@ IV.- Talleres protegidos; y
 
 V.- Rehabilitación física.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 28.
 
-Corresponde al estado, a través del Sistema, brindar atención a los menores en situación extraordinaria, entendiendo como tales a aquellos que:
+Corresponde al Estado, a través del sistema, brindar atención a los menores en situación extraordinaria, entendiendo como tales a aquellos que:
 
 I.- Se encuentren físicamente abandonados por estar separados ocasional o definitivamente del seno familiar o, cuando aún sin estarlo, se hallen desamparados o sin un adecuado sostén por la indiferencia, negligencia o falta de recursos económicos de sus padres, tutores o de quienes ejercen la patria potestad;
 
@@ -433,7 +435,9 @@ IV.- Vivan en un hogar desorganizado a causa de la negligencia, depravación o c
 
 V.- Habiten en casa de mala fama o con personas viciosas o de mala reputación;
 
-VI.- Se asocien con delincuentes, homosexuales, prostitutas, viciosos o vagos;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2006)</small>
+
+VI.- Se asocien con delincuentes, personas dedicadas a la prostitución, viciosos o vagos;
 
 VII.- Practiquen actos obscenos o inciten a otros a cometerlos;
 
@@ -1200,3 +1204,11 @@ SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 7 DE NOVIEMBRE DE 2006.
 
 ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
