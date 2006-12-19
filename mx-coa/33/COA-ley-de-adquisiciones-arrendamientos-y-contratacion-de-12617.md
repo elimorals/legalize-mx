@@ -4,7 +4,7 @@ identifier: "COA-ley-de-adquisiciones-arrendamientos-y-contratacion-de-12617"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-28"
-last_updated: "1997-01-28"
+last_updated: "2006-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de enero de 1997.
 
@@ -41,9 +41,15 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL ESTADO 
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 1°.
 
-La presente ley es de orden público e interés social y tiene por objeto reglamentar las disposiciones contenidas en el segundo párrafo del Artículo 171 de la Constitución Política del Estado de Coahuila, en materia de adquisiciones, arrendamientos y contratación de servicios que realicen el estado, los municipios y las entidades paraestatales y paramunicipales.
+La presente ley es de orden público e interés social y tiene por objeto regular las disposiciones contenidas en el segundo párrafo del Artículo 171 de la Constitución Política del Estado de Coahuila, en materia de adquisiciones, arrendamientos y contratación de servicios que realicen las unidades administrativas del Ejecutivo del Estado; las Secretarías de Estado o sus Departamentos Administrativos; las Entidades Paraestatales previstas en la Ley Orgánica, de la Administración Pública del Estado de Coahuila de Zaragoza; y Los (sic) Municipios del Estado de Coahuila.
+
+Los Organismos Públicos que gocen de autonomía derivada de la Constitución Política del Estado de Coahuila de Zaragoza, aplicarán los criterios y procedimientos previstos en esta Ley, en lo que no se contraponga a los ordenamientos legales que los rigen, sujetándose a sus propios órganos de control.
+
+Los contratos celebrados por las dependencias con las entidades, o entre entidades, y los actos jurídicos que se celebren entre dependencias, o bien que se lleven a cabo entre alguna dependencia o entidad de la Administración Pública del Estado con alguna perteneciente a la administración pública federal, no estarán dentro del ámbito de aplicación de esta Ley; no obstante, dichos actos quedarán sujetos a este ordenamiento, cuando la dependencia o entidad obligada a entregar el bien o prestar el servicio, no tenga capacidad para hacerla por sí mismo y contrate un tercero para su realización.
 
 ###### ARTICULO 2°.
 
@@ -567,15 +573,19 @@ XI.- Se trate de servicios profesionales prestados por personas físicas; y
 
 XII.- Se trate de adquisiciones provenientes de personas físicas o morales que, sin ser proveedores habituales en razón de encontrarse en estado de liquidación o disolución, o bien, bajo intervención judicial, ofrezcan bienes en condiciones excepcionalmente favorables.
 
-Tratándose de invitación restringida, la Unidad, la Secretaría, las Dependencias o Entidades invitarán a cuando menos ocho proveedores. En este caso, cualquier persona interesada que reúna los requisitos a que se refiere el artículo 40 de esta ley, podrá participar en el procedimiento formulando sus proposiciones en términos de ley.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2006)</small>
+
+Tratándose de Invitación restringida, la Unidad, la Secretaría, las Dependencias o Entidades invitarán a cuando menos tres proveedores. En este caso, cualquier persona interesada que reúna los requisitos a que se refiere el artículo 40 de esta ley, podrá participar en el procedimiento formulando sus proposiciones en términos de ley.
 
 En cualquier momento se invitará a la o las personas cuyas actividades comerciales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse, además de que cuenten con la capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios.
 
 El procedimiento por invitación restringida se ajustará en lo conducente a lo dispuesto por el Capítulo Segundo, Título III, de esta ley, exceptuando lo referente a la convocatoria. Para estos efectos, la invitación que emita la convocante sustituirá a la convocatoria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 52.
 
-En los casos en que, conforme al artículo que antecede se lleven a cabo las adquisiciones, arrendamientos o contratación de servicios por adjudicación directa, el importe de las operaciones que celebren la Unidad, la Secretaría, las Dependencias o Entidades, no deberán exceder los montos máximos que al efecto se establezcan en el respectivo instrumento jurídico expedido por el Titular del Ejecutivo, siempre que las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la licitación pública.
+Sin perjuicio de lo dispuesto en el artículo anterior, las dependencias y entidades, bajo su responsabilidad, podrán contratar adquisiciones, arrendamientos y servicios, sin sujetarse al procedimiento de licitación pública, a través de los de invitación restringida o de adjudicación directa, cuando el importe de cada operaciones no exceda los montos máximos que al efecto se establecerán en el Presupuesto de Egresos del Estado de Coahuila, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
 
 Cuando los procedimientos de invitación restringida sean declarados desiertos en dos ocasiones, se procederá a la adjudicación directa, previa opinión de la Contraloría.
 
@@ -808,3 +818,13 @@ LIC. OSCAR PIMENTEL GONZALEZ
 EL SECRETARIO DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 
 C.P. JUAN ANTONIO CEDILLO RIOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE DICIEMBRE DE 2006.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para los efectos de lo que se dispone en los Inciso a) y b) del Artículo 14 del Presupuesto de Egreso del Estado, correspondiente al Ejercicio Fiscal de 2006, será aplicable lo establecido conforme a la reforma del Artículo 51 de la Ley de Adquisiciones, Arrendamientos, y Contratación de Servicios para el Estado de Coahuila de Zaragoza, contenido en el presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
