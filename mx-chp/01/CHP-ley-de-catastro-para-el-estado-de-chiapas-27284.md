@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-catastro-para-el-estado-de-chiapas-27284"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-23"
-last_updated: "2005-12-21"
+last_updated: "2006-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE CATASTRO PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de diciembre del 2002.
 
@@ -133,9 +133,11 @@ e) El valor catastral,
 
 f) Los demás datos que se requieran conforme a ésta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 5.
 
-Para los efectos catastrales, los bienes inmuebles se clasifican en urbanos, suburbanos y rústicos.
+Para los efectos catastrales, los bienes inmuebles se clasifican en urbanos y rústicos.
 
 ###### Artículo 5-A.
 
@@ -215,7 +217,7 @@ XXVII. PREDIO RÚSTICO.- El que, fuera de las poblaciones, está dedicado a uso 
 
 XXVIII. PREDIO URBANO.- El ubicado dentro del perímetro urbano de un centro de población, que cuenta con disponibilidad de vialidades y servicios públicos.
 
-XXIX. PREDIO SUBURBANO.- El ubicado dentro de la zona suburbana.
+XXIX. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2006)
 
 XXX. PREDIOS CONSTRUÍDOS. - Los que tengan construcciones permanentes.
 
@@ -267,7 +269,7 @@ XLV. ZONA HOMOGENEA.- Circunscripción territorial que posee características si
 
 XLVI. ZONA URBANA.- El área o superficie comprendida dentro del perímetro urbano y que generalmente cuenta con vialidades y servicios públicos.
 
-XLVII. ZONA SUBURBANA.- Es el área o superficie fuera del perímetro urbano, constituida por el área de crecimiento de una localidad.
+XLVII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2006)
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -741,11 +743,11 @@ La Dirección de Catastro Urbano y Rural, tendrá en cualquier tiempo la atribuc
 
 ### Capítulo Séptimo. De los Fraccionamientos y Condominios
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 53.
 
-Las personas físicas o morales que pretendan llevar a cabo el fraccionamiento, lotificación o relotificación, de bienes inmuebles, así como la constitución del Régimen de Propiedad en Condominio, deberán solicitar a la Dirección de Catastro Urbano y Rural, el deslinde catastral del predio o predios en que se ubiquen y las Reglas para establecer la numeración de lotes o unidades de propiedad en condominio.
+Las personas físicas o morales que pretendan llevar a cabo el fraccionamiento lotificación o relotificación, de bienes inmuebles así como la constitución del Régimen de propiedad en Condominio, deberán solicitar a la Dirección de Catastro Urbano y Rural, el deslinde catastral del predio o predios en que se ubican y las Reglas para establecer la numeración de lotes o unidades de propiedad en condominio y sus manzanas.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -1190,3 +1192,9 @@ P.O. 21 DE DICIEMBRE DE 2005.
 Artículo Primero.- Las modificaciones, adiciones a la presente Ley, entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2006.
+
+Primero.- Las modificaciones de la presente Ley, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cumplimiento.
