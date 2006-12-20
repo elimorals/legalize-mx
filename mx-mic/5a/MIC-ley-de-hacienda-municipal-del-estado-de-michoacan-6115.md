@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1999-12-30"
+last_updated: "2006-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2006.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -1129,17 +1129,19 @@ Se entenderá por servicio de alumbrado público, el que el municipio otorga a t
 
 #### Sección Segunda. Del Objeto
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 101.
 
-Es objeto de este derecho el consumo de energía eléctrica en calles, plazas, jardines y otros lugares públicos de uso común, en los Municipios del Estado de Michoacán.
+Es objeto de este derecho del consumo de energía eléctrica y el mantenimiento y reposición de infraestructura necesaria para la prestación del servicio de alumbrado público, que se otorga en avenidas, calles, callejones, andadores, plazas, semáforos, parques y jardines, así como el alumbrado ornamental de temporada, siempre y cuando sean para lugares o servicios públicos dentro del municipio.
 
 #### Sección Tercera. De los Sujetos
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 102.
 
-Son sujetos de este derecho las personas físicas o morales que hagan uso de la energía eléctrica que suministre la entidades (sic) o entidades competentes para la distribución o comercialización de la misma en el país, de acuerdo con la ley.
+Son sujetos de este derecho las personas físicas o morales propietarias, poseedoras, usufructuarias o usuarias de predios en el municipio, que reciban el servicio de alumbrado público.
 
 #### Sección Cuarta. De las Excepciones
 
@@ -1149,19 +1151,31 @@ No son sujetos de este derecho, las personas físicas o morales que han contrata
 
 #### Sección Quinta. De la Base
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 104.
 
-Es base gravable de este derecho, el importe del consumo mensual o bimestral que se cubra a la entidad o entidades a que se refiere el artículo 102 de esta ley, aplicándose las tasas que determinen la Ley de Ingresos para los Municipios del Estado.
+Es base gravable de este derecho, el gasto total que implica al Municipio la prestación del servicio de alumbrado público, la cual se obtendrá de la suma de los conceptos siguientes:
+
+A. Importe del suministro de energía para alumbrado público;
+
+B. Sueldos del personal encargado de las tareas inherentes a la prestación del servicio de alumbrado público;
+
+C. Gasto que representa al Municipio la instalación de infraestructura de alumbrado público;
+
+D. Gasto que representa el mantenimiento de líneas y postes y gastos de operación del Departamento de Alumbrado Público, al Municipio;
+
+E. Reposición de lámparas; y,
+
+F. Reserva para reposición de materiales y suministros.
 
 #### Sección Sexta. Del Pago del Derecho
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 105.
 
-El pago de este derecho, se hará a través de la entidad o entidades a que se refiere el artículo 102, quienes harán la retención correspondiente, consignando el cargo en los recibos que expidan por el consumo y enterarán al ayuntamiento respectivo el importe de la recaudación efectuada.
+El pago de este derecho, se causará anualmente y se pagará mensualmente o bimestralmente conforme a las tarifas que señale la Ley de Ingresos del Municipio.
 
 #### Sección Séptima. De las Infracciones y Sanciones
 
@@ -1988,3 +2002,9 @@ El presente Decreto iniciará su vigencia el día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan aquellas disposiciones en lo que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el 1 de enero de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
