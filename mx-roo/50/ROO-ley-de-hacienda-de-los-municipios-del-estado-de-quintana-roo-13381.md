@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2006-11-30"
+last_updated: "2006-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -333,13 +333,19 @@ II.- Los inmuebles pertenecientes a los institutos de vivienda del Estado o Muni
 
 III.- El fundo legal.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+IV.- La propiedad comunal ejidal, parcelaria, de dominio pleno, cuando éstos pertenezcan a ejidatarios del núcleo ejidal de que se trate, con excepción de solares urbanos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 17.
 
-Cuando el impuesto causado sea cubierto en una sola emisión por anticipado y cubra todo el año y sea enterado en la Tesorería Municipal correspondiente, se faculta a los Ayuntamientos a conceder un descuento hasta del 25% del total del importe, siempre y cuando el pago se efectúe antes del 31 de enero y si el pago se realiza posteriormente y hasta el último día hábil del mes de febrero, un 15% de descuento del total del importe.
+Cuando el impuesto causado sea cubierto en una sola emisión por anticipado y cubra todo el año y sea enterado en la Tesorería Municipal correspondiente, se faculta a los Ayuntamientos a conceder un descuento hasta del 25% del total del importe, siempre y cuando el pago se efectué antes del 31 de enero y si el pago se realiza posteriormente y hasta el último día hábil del mes de febrero, hasta un 15% de descuento del total del importe, previo acuerdo del Ayuntamiento.
 
-Cuando el contribuyente sea una persona con capacidades diferentes, pensionado, jubilado o cuente con su credencial del INSEN, los Ayuntamientos que así lo consideren, podrán conceder un descuento hasta del 50% del total del importe señalado en el artículo 13 de esta Ley, cuando el importe anual causado sea cubierto en una sola exhibición por anticipado, durante los meses de diciembre, enero y febrero, o el pago se realice de manera bimestral. Este beneficio se aplicará a un solo inmueble del contribuyente, si dicho inmueble corresponde al domicilio de su propia casa habitación y el valor catastral de ésta, no exceda de diez mil quinientos S.M.G. al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en el párrafo anterior.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+Cuando el contribuyente sea una persona con capacidades diferentes, pensionado, jubilado o cuente con su credencial del lNAPAM o INSEN, los Ayuntamientos que así lo consideren, podrán conceder un descuento hasta del 50% del total del importe señalado en el artículo 13 de esta Ley, cuando el importe anual causado sea cubierto en una sola exhibición por anticipado. Este beneficio se aplicará a un solo inmueble del contribuyente, si dicho inmueble corresponde al domicilio de su propia casa habitación y podrá aplicarse hasta por un valor de veinte mil S.M.G. al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2005)</small>
 
@@ -395,7 +401,9 @@ El impuesto se calculará aplicando la tasa señalada en el artículo siguiente,
 
 No se cubrirá el impuesto a que se refiere este capítulo, por el valor de los boletos entregados por cortesía por el contribuyente, siempre que no rebasen el 15% del boletaje total. El contribuyente deberá solicitar a la Tesorería que imponga a estos boletos un sello con la palabra "Cortesía". Sin embargo, tratándose de eventos altruistas no podrán rebasar el 30% del boletaje total.
 
-Los boletos que se utilicen para el acceso a un espectáculo público, estarán foliados y deberán ser presentados ante la Tesorería Municipal, junto con el permiso correspondiente, y con la debida anticipación, para ser sellados y registrados, para que los boletos sellados le sean entregados, el contribuyente deberá enterar el impuesto, o en su caso el anticipo a que se refiere el artículo 26 del presente ordenamiento a elección del contribuyente.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+Los boletos que se utilicen para el acceso a un espectáculo público, estarán foliados y deberán ser presentados ante la Tesorería Municipal, junto con el permiso correspondiente, hasta con tres días de anticipación, para ser sellados y registrados, para que los boletos sellados le sean entregados, el contribuyente deberá enterar el impuesto, o en su caso el anticipo a que se refiere el artículo 26 del presente ordenamiento a elección del contribuyente.
 
 En el caso de máquinas expendedoras de boletos, estas deberán contar con un sistema que permita conocer de manera segura el número de boletos expedidos; el contribuyente deberá dar acceso al personal de la Tesorería para su revisión, así como proporcionarle todas las facilidades para este efecto, incluyendo personal capacitado para operar las mencionadas máquinas.
 
@@ -607,11 +615,15 @@ Son sujetos de este impuesto las personas físicas o morales o unidades económi
 
 El pago de este impuesto se causará anualmente de conformidad con la siguiente:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
-
 TARIFA
 
-(VEASE ARCHIVO ANEXO)
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+I.- Bicicletas y triciclos 1.5 S.M.G.
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+II.- Coches y carros de mano o tracción animal 1.5 S.M.G.
 
 Si el período de circulación del vehículo es menor de un semestre, solo causará el 50% de las cuotas anteriores.
 
@@ -735,11 +747,15 @@ Son sujetos de este impuesto las personas que lleven a cabo las actividades a qu
 
 El impuesto se causará de conformidad con la siguiente:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
-
 TARIFA
 
-(VEASE ARCHIVO ANEXO)
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+I.- Conjuntos musicales, por elemento, cada día de actuación, de 0.5 S.M.G. hasta 4.0 S.M.G.
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+II.- Solistas, pagarán por cada día de función de 0.5 S.M.G. hasta 4.0 S.M.G.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -915,7 +931,9 @@ a).- Automóviles y camiones 2.0 S.M.G.
 
 b).- Motocicletas 1.0 S.M.G.
 
-c).- Bicicletas 0.5 S.M.G.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+c).- Bicicletas y triciclos 0.5 S.M.G.
 
 d).- Carros y carretas de tracción animal 0.5 S.M.G.
 
@@ -1335,7 +1353,9 @@ IV.- Constancia de uso y destino de suelo:
 
 (VEASE ARCHIVO ANEXO)
 
-V.- Por las autorizaciones de cambio de uso de suelo, se pagará aplicando al presupuesto de la obra, según la estimación que a efecto realicen la Dirección responsable de desarrollo urbano municipal, la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+V.- Para la fijación de las tarifas correspondientes a los puntos 3 y 4 de esta fracción, se estará a las características y especificaciones que respecto al uso y destino de los mismos se señalen en el Reglamento o Normatividad Municipal correspondiente.
 
 (VEASE ARCHIVO ANEXO)
 
@@ -1405,11 +1425,13 @@ IV.- La expedición de copias de alineamiento o de los refrendos, causarán un d
 
 ### CAPITULO VIII. LICENCIAS Y REFRENDOS DE FUNCIONAMIENTO COMERCIAL, INDUSTRIAL Y DE SERVICIOS
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 88.
 
-Las personas físicas o morales que realicen actividades comerciales, industriales, de servicios y de inversión de capitales, deberán solicitar su inscripción en el Padrón Municipal de Contribuyentes dentro del mes siguiente a aquél en que se den de alta en el Registro Federal de Contribuyentes y al Padrón Estatal de Contribuyentes; en las formas que para tal efecto apruebe la Tesorería Municipal.
+Las personas físicas o morales que realicen actividades comerciales, industriales, de servicios y de inversión de capitales, salvo disposición expresa en contrario, deberán de solicitar su inscripción en el Padrón Municipal de Contribuyentes dentro de los treinta días siguientes a partir de que se realicen las situaciones jurídicas o de hecho, u obtengan ingresos derivados de sus actividades en el Municipio.
+
+Las licencias deberán tenerse en lugar visible en el establecimiento o local para el cual fueron expedidas.
 
 ###### ARTÍCULO 89.
 
@@ -1419,9 +1441,9 @@ I.- Original y copia de la inscripción en el Registro Federal de Contribuyentes
 
 II.- Croquis de ubicación del establecimiento;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
-III.- Copia del último pago predial actualizado, constancia de no adeudo y los derechos que señala el artículo 121 de esta Ley;
+III.- Copia del recibo del pago del impuesto predial correspondiente al ejercicio fiscal de que se trate, así como el pago de los derechos a que se refiere el artículo 121 de esta Ley;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -1443,23 +1465,27 @@ Las licencias a que se refiere el Artículo 89, son de vigencia anual y los cont
 
 I.- Licencia de funcionamiento del año inmediato anterior;
 
-II.- Copia de los avisos a los Registros Federales y Estatales de Contribuyentes, cuando haya efectuado cambios en lo relativo a nombre, denominación o razón social, domicilio fiscal, actividad preponderante o cualquier otro hecho de los que den motivo a la presentación de dichos avisos;
+II.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
-III.- Copia del último pago predial actualizado, constancia de no adeudo o los derechos que señala el artículo 121 de esta Ley;
+III.- Copia del recibo del pago del impuesto predial correspondiente al ejercicio fiscal de que se trate, así como el pago de los derechos a que se refiere el artículo 121 de esta Ley;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 IV.- Original y copia de la patente con el resello actualizado en el domicilio y nombre de propietario, si se expiden bebidas alcohólicas;
 
-V.- Croquis de ubicación del establecimiento, en caso de que se haya realizado cambio de domicilio; y
+V.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2006)
 
 VI.- Los demás documentos que a juicio de las autoridades fiscales municipales se juzgue necesario, previa a su publicación en los periódicos de mayor circulación en el Estado;
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 VII.- Autorización expedida por la Dirección de Protección Civil Municipal, en caso de que el giro lo requiera por ser considerado de riesgo.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+Así mismo los contribuyentes que modifiquen su domicilio fiscal, su actividad preponderante, denominación o razón social, o Registro Estatal de Contribuyentes deberán presentar adjunto a la forma aprobada por la Tesorería, la licencia de funcionamiento para que la autoridad Municipal proceda a la actualización de la misma; así como quienes suspendan actividades o pretendan cancelar su registro Municipal de Contribuyentes, en todos los casos se sujetarán a los plazos establecidos en el artículo 88 de la presente Ley.
 
 ###### ARTÍCULO 91.
 
@@ -1849,9 +1875,11 @@ LXXVII.- Muebles para el hogar de 3.5 S.M.G. a 10.0 S.M.G.
 
 LXXVIII.- Inmobiliarias de 1.0 S.M.G. a 5.0 S.M.G.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 92.
 
-Los contribuyentes que no se hayan inscrito en el padrón municipal o que no hubieran solicitado la licencia correspondiente, serán requeridos por la autoridad fiscal municipal, según lo dispuesto en el Código Fiscal Municipal.
+Los contribuyentes que no se hayan inscrito en el padrón municipal o que no hubieran solicitado la licencia correspondiente en los plazos establecidos 89 y 90 de esta Ley, serán requeridos por la autoridad fiscal municipal, según lo dispuesto en el Código Fiscal Municipal.
 
 Simultáneamente al requerimiento, la autoridad impondrá la sanción que corresponda en los términos del Código Fiscal Municipal.
 
@@ -2401,11 +2429,23 @@ Se consideran productos aquellos ingresos que obtiene el municipio mediante cré
 
 Los Ayuntamientos podrán obtener ingresos para su hacienda mediante la venta de los objetos recogidos en la prestación del servicio de limpia y transporte.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO VIII. PRODUCTOS DIVERSOS
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+###### ARTÍCULO 146
+
+BIS.- Los productos no especificados en este capítulo se cobrarán conforme a las cuotas que fije la tarifa que expida la Tesorería Municipal, esta tarifa y sus reformas surtirán sus efectos 30 días después de su publicación en el Periódico Oficial del Gobierno del Estado, así como el costo administrativo que origine la impresión o fabricación de formatos, calcomanías y demás valores, cualquiera que sea su tamaño, forma o composición de acuerdo a la siguiente:
+
+TARIFA
+
+a) Por reposición de documento extraviado inclusive licencias de funcionamiento 2.00 S.M.G.
 
 ## TITULO QUINTO. APROVECHAMIENTOS
 
-### CAPITULO ÚNICO
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 147.
 
@@ -2436,6 +2476,8 @@ Como participaciones del estado se entienden aquellos ingresos que el estado ent
 Son ingresos que percibirán los Ayuntamientos en forma independiente y adicional a las participaciones que obtienen de la Federación, con base en las estimaciones que se tengan de la recaudación Federal participable, denominados Fondo de Aportaciones para la Infraestructura Social Municipal, cuyo destino será exclusivamente para financiar obras, acciones sociales básicas e inversiones que beneficien directamente a sectores de su población en condiciones de rezago social y de pobreza extrema.
 
 ## TITULO OCTAVO. OTROS INGRESOS
+
+### CAPITULO ÚNICO
 
 ###### ARTÍCULO 151.
 
@@ -2944,3 +2986,121 @@ P.O. 30 DE NOVIEMBRE DE 2006.
 > <small>(F. DE E., P.O. 5 DE DICIEMBRE DE 2006)</small>
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2006.
+
+PRIMERO.- En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, quedan en suspenso los siguientes
+
+l.- DERECHOS:
+
+A.- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación, de servicios. Por lo anterior, quedan en suspenso los siguientes numerales:
+
+1.- Licencias y refrendos de funcionamiento comercial, industrial y de servicios.
+
+2.- Licencias de funcionamiento en horas extraordinarias.
+
+3.- Rastro e inspección sanitaria.
+
+4.- Registro y búsqueda de fierros y señales para ganado.
+
+5.- Servicios de inspección y vigilancia.
+
+6.- Servicios de promoción y publicidad turística.
+
+B.-. Así mismo, los que resulten a consecuencia de permitir o tolerar las excepciones a una disposición administrativa, tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1.- Licencias de construcción.
+
+2.- Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3.- Licencias para fraccionar o lotificar terrenos.
+
+4.- Licencias para conducir vehículos.
+
+5.- Expedición de placas y tarjetas para la circulación de vehículos.
+
+6.- Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7.- Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
+
+C.- Registro o cualquier acto relacionado con los mismos, a excepción del Registro Civil.
+
+D.- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en este inciso los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública, ni por el uso o tenencia de anuncios.
+
+E.- Actos de inspección y vigilancia.
+
+Los derechos no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los numerales 1) al 7) del segundo párrafo del inciso B y el inciso D.
+
+Los certificados de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidos dentro de lo dispuesto en los incisos B y C de este Artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las entidades federativas o a los municipios.
+
+En ningún caso lo dispuesto en este articulo, limitará la facultad del Estado y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este Artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las características de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2007, en el Municipio de Solidaridad se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el artículo segundo transitorio del decreto número 25 expedido por la XI Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 13 de diciembre del año 2005.
+
+TERCERO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2007, en el Municipio de Cozumel, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el artículo tercero transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
+
+CUARTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2007, en el Municipio de Othón P. Blanco se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el artículo cuarto transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
+
+QUINTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2007, en el Municipio de Isla Mujeres, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el articulo quinto transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
+
+SEXTO.- Para la determinación del impuesto predial en el ejercicio fiscal 2007, en el Municipio de Benito Juárez, se aplicarán las tablas de cálculo anual del mencionado impuesto, siendo las siguientes:
+
+TASAS IMPOSITIVAS PARA LOS VALORES CATASTRALES EN EL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO.
+
+CATEGORÍA CONDICION VOCACION TASAS AL
+
+MILLAR
+
+Urbano y Baldío 6.2
+
+Suburbano
+
+Obra en Habitacional 2.45
+
+construcción
+
+No Habitacional 2.45
+
+Obra en Habitacional 2.45
+
+Funcionamiento
+
+No Habitacional 2.45
+
+Rústico 1.9
+
+TASAS IMPOSITIVAS PARA LOS VALORES DECLARADOS EN EL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO.
+
+CATEGORÍA CONDICION VOCACION TASAS AL
+
+MILLAR
+
+Urbano y Baldío 6.6
+
+Suburbano
+
+Obra en Habitacional 2.8
+
+construcción
+
+No Habitacional 2.8
+
+Obra en Habitacional 2.8
+
+Funcionamiento
+
+No Habitacional 2.8
+
+Rústico 2.9
+
+SÉPTlMO.- En caso de que al 31 de diciembre del año 2007, no se hubieren aprobado las Tablas de cálculo anual para la determinación del impuesto predial en los Municipios de Solidaridad, Cozumel, Othón P. Blanco, Isla Mujeres y Benito Juárez, para el ejercicio fiscal 2008, en tanto se aprueban éstas y entran en vigor, continuarán aplicándose las Tablas de cálculo anual correspondientes al propio ejercicio fiscal 2007.
+
+OCTAVO.- Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+NOVENO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
