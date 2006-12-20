@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-571-hacendario-para-el-municipio-de-34131"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-08-26"
-last_updated: "2003-08-26"
+last_updated: "2006-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO HACENDARIO PARA EL MUNICIPIO DE MINATITLAN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 2006.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 26 de agosto de 2003.
 
@@ -107,9 +107,13 @@ XX. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo
 
 XXI. Síndico: El Síndico del Ayuntamiento;
 
-XXII. Tesorería: La Tesorería del Ayuntamiento; y
+XXII. Tesorería: La Tesorería del Ayuntamiento; y (sic)
 
-XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento.
+XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento;
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2006)</small>
+
+XXIV. Multa: Sanción a la conducta infractora sobre el pago de impuestos, derechos, productos, aprovechamientos, con el fin de que los sujetos pasivos no vuelvan a incurrir en omisión en el cumplimiento de su pago.
 
 ###### Artículo 3.
 
@@ -1533,9 +1537,11 @@ El Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, se causará en tod
 
 Son sujetos de este impuesto, las personas físicas o morales que adquieran inmuebles ubicados dentro del territorio del Municipio, por alguna de las formas señaladas en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 133.
 
-Será base gravable del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, el valor que resulte más alto entre el de operación y el valor catastral o catastral provisional.
+Será base gravable del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles el valor que resulte más alto entre el de operación y el valor catastral o catastral provisional, con base a las tablas de valores publicadas en la Gaceta Oficial, órgano del gobierno del estado, en términos de la Ley número 42 de Catastro del Estado de Veracruz de Ignacio de la Llave.
 
 Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten, bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
 
@@ -1547,9 +1553,11 @@ En los inmuebles adquiridos durante el período de tres años anteriores, contad
 
 En la adquisición por prescripción positiva, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial; en la adquisición por herencia, a la fecha de la adjudicación; y en la información ad perpetuam, a la fecha de la resolución judicial.
 
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 134.
 
-Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo, deberán contar con el Certificado de Valor Catastral o Catastral Provisional, actualizado a la fecha en que se hubiere realizado el acto generador del impuesto.
+Para determinar la base del impuesto los contribuyentes o los fedatarios, ante quienes se hagan constar los actos objeto del mismo, deberán contar con el certificado de valor catastral o catastral provisional, actualizado a la fecha en que se hubiere realizado el acto generador del impuesto, con base a las tablas de valores publicadas en la Gaceta Oficial, órgano del gobierno del estado, en términos de la Ley número 42 de Catastro del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 135.
 
@@ -1599,7 +1607,7 @@ No se causará este impuesto, en las adquisiciones de bienes inmuebles que reali
 
 No causarán este impuesto las adquisiciones de inmuebles que se realicen en los siguientes casos:
 
-I. Por los Partidos Políticos nacionales, siempre y cuando dichos inmuebles sean para el cumplimiento de sus fines;
+I. (DEROGADA, G.O. 20 DE DICIEMBRE DE 2006)
 
 II. La constitución, disolución o liquidación de la sociedad conyugal;
 
@@ -1609,9 +1617,9 @@ IV. La división de la cosa común entre los copropietarios siempre que los valo
 
 V. Los actos constitutivos de fideicomiso de garantía, salvo que se realicen en cumplimiento de los fines de estos fideicomisos. Asimismo, no causarán este impuesto los actos constitutivos de fideicomisos estatales y bursátiles, así como las operaciones que los fideicomisos estatales realicen, cuando precisen la traslación del dominio de bienes inmuebles, con el fin de cumplir con su objeto público o de incorporarlos al dominio público;
 
-VI. Por los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
+VI. (DEROGADA, G.O. 20 DE DICIEMBRE DE 2006)
 
-VII. Por las asociaciones religiosas constituidas en los términos de la ley de la materia, siempre que en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+VII. (DEROGADA, G.O. 20 DE DICIEMBRE DE 2006)
 
 En la enajenación de predios derivada de programas de regularización de la tenencia de la tierra, que realicen organismos federales, estatales o municipales, se pagará este impuesto con una cuota fija equivalente al cincuenta por ciento de un salario mínimo diario.
 
@@ -3765,25 +3773,41 @@ Son objeto de estos derechos los servicios siguientes, que se causarán y pagar�
 
 I. Rectificación o cancelación de los datos asentados en la declaración inicial de traslado de dominio, a solicitud del interesado, 1 salario mínimo;
 
-II. Expedición de una constancia de datos catastrales, 3 salarios mínimos;
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2006)</small>
 
-III. Expedición de cartografía catastral propiedad del Municipio:
+II. Por la expedición de Cédula del Registro Único de Bienes Inmuebles, por predio 7 salarios mínimos;
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2006)</small>
+
+III. Por la expedición de un certificado de valor catastral o catastral provisional; para efecto del impuesto de traslación de dominio u otros, 10 salarios mínimos;
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2006)</small>
+
+IV. Por la expedición de una constancia de datos catastrales, 4 salarios mínimos;
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2006)</small>
+
+V. Por la expedición de constancia de No Adeudo o cualquier otro que se expida, 2 salario mínimos
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 20 DE DICIEMBRE DE 2006)</small>
+
+VI. Expedición de cartografía catastral, propiedad del municipio:
 
 a) Copias en papel heliográfico o bond por plano general de localidad, con curvas de nivel al metro y cuotas de crucero, en escala 1:2,000, por hoja, 4.5 salarios mínimos.
 
 b) Copias en papel heliográfico o bond por plano general de localidad, en escalas aproximadas 1:4,000, 1:5,000, 1:7,500 y 1:10,000, 3 salarios mínimos.
 
-c) Copias en papel heliográfico o bond por plano manzanero de localidades catastradas, en escala 1:500 ó 1:1,000:
+c) Copias en papel heliográfico o bond por plano manzanero de localidades catastradas, en escala 1:500 ó 1:1,000.
 
 1.- De 1 hasta 100 planos, por plano, 4.5 salarios mínimos.
 
-2.- De 101 planos en adelante por plano, 3 salarios mínimos.
+2.- De 101 planos en adelante, por plano, 3 salarios mínimos.
 
-d) Copias del plano de región catastral, sin escala, con nomenclatura y valores catastrales del suelo urbano, por hoja, 3 salarios mínimos.
+d) Copias del plano de región catastral, sin escala, con nomenclatura y valores catastrales del suelo urbano, por hoja; 3 salarios mínimos.
 
-e) Copias del plano perimetral tamaño carta de un predio registrado en la cartografía catastral urbana, en escala 1:500, por plano. 3 salarios mínimos.
+e) Copias del plano perimetral tamaño carta de un predio registrado en la cartografía catastral urbana, en escala 1:500, por plano; 3 salarios mínimos.
 
-f) Cartografía digital en escala 1:1,000 en formatos DXF., DWG. y ARC/INFO., por km2 (sic):
+f) Cartografía digital en escala 1:1,000 en formatos DXF., DWG. y ARC/INFO., por km2:
 
 1.- Cobertura de manzanas, 22 salarios mínimos.
 
@@ -3795,21 +3819,19 @@ f) Cartografía digital en escala 1:1,000 en formatos DXF., DWG. y ARC/INFO., po
 
 g) Copias de contacto de fotografías aéreas, en escalas 1:4,500 1:10,000 y 1:20,000:
 
-1.- En papel bond, imagen blanco y negro, en formato 23 x 23 cm., por copia, 1 salario mínimo.
+1.- En papel bond, imagen blanco y negro. En formato 23 x 23 cm., por copia, 1 salario mínimo.
 
-2.- Grabada con escáner e impresión en papel bond, blanco y negro, en formato 23 x 23 cm., por copia. 1.1 salario mínimo.
+2.- Grabada con escáner e impresión en papel bond blanco y negro, en formato 23 x 23 cm., por copia, 1.1 salario mínimo.
 
-3.- Grabada en diskette de 3.5" o disco compacto, por copia, 3.8 salarios mínimo (sic).
+3.- Grabada en diskette de 3.5" o disco compacto, por copia, 3.8 salarios mínimos.
 
-IV. Por la certificación de cada plano catastral propiedad del Municipio, 3 salarios mínimos.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 20 DE DICIEMBRE DE 2006)</small>
 
-Se exceptúan del pago de derechos por la expedición de cartografía catastral y copias de contacto de fotografías aéreas, las dependencias y organismos Federales, Estatales y Municipales, en los términos de los convenios de colaboración que se suscriban, previo cumplimiento de las disposiciones legales aplicables;
+VII. Por la certificación de cada plano catastral propiedad del municipio, 3 salarios mínimos.
 
-V. La certificación de documentos públicos que obran en el archivo de la tesorería, salario mínimo;
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2006)</small>
 
-VI. Por la expedición de una Cédula Catastral, 7 salarios mínimos; y
-
-VII. Por la expedición de un certificado de Valor Catastral o Catastral Provisional, para efectos del pago de Impuesto Sobre Traslación de Dominio de Bienes Inmuebles u otros, 10 salarios mínimos.
+VIII. La certificación de documentos públicos que obran en el archivo de la Tesorería, 2 salarios mínimos.
 
 ###### Artículo 243.
 
@@ -4102,3 +4124,11 @@ Atentamente
 Sufragio efectivo. No reelección.
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 20 DE DICIEMBRE DE 2006.
+
+Primero. El presente decreto entrará en vigor el día primero de enero de 2007, previa publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas l as disposiciones que se opongan al presente decreto.
