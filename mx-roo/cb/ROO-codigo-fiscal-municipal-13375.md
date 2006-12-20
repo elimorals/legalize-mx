@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-13375"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-15"
-last_updated: "2005-12-13"
+last_updated: "2006-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre 1997.
 
@@ -39,13 +39,13 @@ DECRETA:
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 1o.
 
-Las personas físicas y morales están obligadas a contribuir para el gasto público de los Municipios del Estado de Quintana Roo, conforme a las Leyes fiscales respectivas. Las autoridades Municipales en materia fiscal sólo pueden hacer lo que las Leyes, Reglamentos, Decretos, Acuerdos del Ayuntamiento y Convenios de Colaboración Administrativa en Materia Fiscal expresamente establezcan como de su competencia.
+Las personas físicas y morales o unidades económicas están obligadas a contribuir para el gastó público de los Municipios del Estado de Quintana Roo, conforme a las Leyes fiscales respectivas. Las autoridades Municipales en materia fiscal sólo pueden hacer lo que las Leyes, Reglamentos, Decretos, Acuerdos del Ayuntamiento y Convenios de Colaboración Administrativa en Materia Fiscal expresamente establezcan como de su competencia.
 
-Cuando en este código se haga mención a persona moral, se entienden comprendidas, entre otras, las sociedades mercantiles, los organismos descentralizados que realicen preponderantemente actividades empresariales, las instituciones de crédito, y las sociedades y asociaciones civiles.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 Las personas que de conformidad con las leyes fiscales no estén obligadas a pagar contribuciones, únicamente tendrán las otras obligaciones que establezcan en forma expresa las propias leyes.
 
@@ -145,11 +145,11 @@ APROVECHAMIENTOS.- Son los ingresos que percibe el Municipio por funciones de de
 
 Los recargos, las sanciones, los gastos de ejecución y la indemnización, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 6-B.
 
-PARTICIPACIONES.- Son aquellos ingresos que percibe el Municipio de conformidad con la Ley de Coordinación Fiscal Federal, tales como: Fondo General de Participantes, Fondo de Fomento Municipal, y en adición, aquellos que se perciban por el ejercicio de facultades y obligaciones que se adquieran con motivo de los Anexos que firme al Convenio de Colaboración Administrativa en Materia Fiscal Federal con la Secretaría de Hacienda y Crédito Público, en los términos que dicha legislación establece.
+PARTICIPACIONES.- Son aquellos ingresos que percibe el Municipio de conformidad con la Ley de Coordinación Fiscal Federal, tales como: Fondo General de Participaciones, Fondo de Fomento Municipal, y en adición, aquellos que se perciban por el ejercicio de facultades y obligaciones que se adquieran con motivo del Convenio de Colaboración Administrativa en Materia Fiscal Federal con la Secretaría de Hacienda y Crédito Público y de los Anexos que firme, en los términos que dicha legislación establece.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -307,9 +307,11 @@ Cuando se trate de personas físicas o morales residentes fuera del municipio, e
 
 La autoridad fiscal podrá practicar diligencias en el lugar que conforme a este artículo se considere domicilio fiscal de los contribuyentes, en aquellos casos en que éstos hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 18.
 
-En los plazos fijados en días, no se contarán los sábados, los domingos, el 1 de enero, 5 de febrero, 21 de marzo, 5 de abril de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Estatal, 10 de abril de cada tres años, cuando corresponda la toma de posesión de los Ayuntamientos, 1° y 5 de mayo, 1° y 16 de septiembre, 20 de noviembre, 1° de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo, 5 de abril de cada seis años, cuando corresponda a la transmisión del poder ejecutivo estatal, 1o. y 5 de mayo, 16 de septiembre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, 1o. de diciembre de cada 6 años, cuando corresponda a la transmisión del poder ejecutivo federal, y el 25 de diciembre.
 
 En los plazos establecidos por períodos y aquéllos en los que se señale una fecha determinada para su extinción, se computarán todos los días.
 
@@ -353,9 +355,13 @@ VIII.- Realizar los pagos y cumplir las obligaciones en la forma y términos que
 
 IX.- Las demás que señalen las leyes, reglamentos y acuerdos municipales; así como los decretos y convenios de colaboración en materia Fiscal;
 
-X.- Los contribuyentes que no presenten dentro de los términos legales sus avisos, declaraciones y manifestaciones o no proporcionen los datos correspondientes, se harán acreedores a las sanciones establecidas en este Código, así como a los accesorios a que dé lugar la inspección; y
+X.- Los contribuyentes que no presenten dentro de los términos legales sus avisos, declaraciones y manifestaciones o no proporcionen los datos correspondientes, se harán acreedores a las sanciones establecidas en este Código, así como a los accesorios a que dé lugar la inspección; y (sic)
 
-XI.- Tramitar y obtener autorización de uso de suelo y en su caso autorización de uso de anuncios ante la Dirección de Obras Públicas y Desarrollo Urbano o la oficina facultada para ese acto.
+XI.- Tramitar y obtener autorización de uso de suelo y en su caso autorización de uso de anuncios ante la Dirección de Obras Públicas y Desarrollo Urbano o la oficina facultada para ese acto;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+XII.- Darse de alta en el padrón municipal del impuesto predial dentro del mes siguiente a la adquisición de bienes inmuebles, cualquiera que fuera el título por el cual se adquiere, así como presentar los documentos comprobatorios respectivos.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
 
@@ -393,17 +399,23 @@ Las autoridades se abstendrán de resolver consultas relativas a la interpretaci
 
 En ningún trámite administrativo se admitirá la gestión de negocios; la representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales o Notario Público. Los particulares o sus representantes podrán autorizar por escrito a otras personas para que a su nombre reciban notificaciones. La persona autorizada podrá recibir notificaciones, ofrecer y rendir pruebas y presentar promociones relacionadas con estos propósitos siempre y cuando así le sea expresamente autorizado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+Los particulares o sus representantes podrán autorizar por escrito a otras personas para que a su nombre reciban notificaciones. La persona autorizada podrá además ofrecer y rendir pruebas y presentar promociones relacionadas con estos propósitos siempre y cuando así le sea expresamente autorizado.
+
 Quien promueva a nombre de otro, deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción.
 
 ###### ARTICULO 24.
 
 Las contribuciones y sus accesorios, los productos y aprovechamientos, se causarán y pagarán en moneda nacional.
 
-Tratándose de contribuciones y accesorios determinados por operaciones con moneda extranjera, se considerará el tipo de cambio o que se trate y no habiendo adquisición, se estará al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación, el día anterior a aquél en que se causen las contribuciones. Los días en que el Banco de Mexicano publique dicho tipo de cambio, se aplicará el último publicado con anterioridad al día en que se causen las contribuciones.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+Para que tenga validez el pago de las diversas obligaciones fiscales que establece esta la Ley de Hacienda, el contribuyente deberá obtener en todo caso el recibo oficial o la forma valorada que para el efecto expida la Tesorería Municipal o las oficinas autorizadas por ésta para la recaudación de los gravámenes que dispone la Ley. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito o a través de medios electrónicos por ellas dispuestos se deberá obtener la impresión de la máquina registradora, el sello, la constancia, o el acuse de recibo electrónico con sello digital.
 
-Se aceptarán como medios de pago los cheques certificados o de caja, los giros postales, telegráficos o bancarios; los cheques personales sin certificar deberán ser de la cuenta del deudor y librarse a cargo de instituciones de crédito que se encuentren dentro de la población donde este establecida la autoridad recaudadora y serán recibidos salvo buen cobro. También podrán aceptarse la dación en pago con bienes muebles o inmuebles de la legítima propiedad del deudor, previo avalúo comercial practicado por perito designado por la propia autoridad. Los honorarios correspondientes serán a cargo del deudor. Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y antes del adeudo principal, y a los accesorios en el siguiente orden:
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PARRAFO], P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+Se aceptarán como medios de pago de las contribuciones el efectivo, los cheques certificados o de caja, y la transferencia electrónica de fondos; los cheques personales sin certificar deberán ser de la cuenta del deudor y librarse a cargo de instituciones de crédito que se encuentren dentro de la población donde este establecida la autoridad recaudadora y serán recibidos salvo buen cobro. También podrán aceptarse la dación en pago con bienes muebles o inmuebles de la legítima propiedad del deudor, previo avalúo comercial practicado por perito designado por la propia autoridad. Los honorarios correspondientes serán a cargo del deudor. Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y antes del adeudo principal, y a los accesorios en el siguiente orden:
 
 I.- Honorarios y gastos de ejecución;
 
@@ -825,9 +837,11 @@ En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rinda
 
 Sólo procederá la inconformidad cuando se interpongan contra los hechos u omisiones contenidas en las actas.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 53.
 
-Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, deberán pagarse junto con sus accesorios dentro del mes siguiente a su notificación.
+Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, deberán pagarse junto con sus accesorios dentro de los cuarenta y cinco días siguientes a su notificación.
 
 ###### ARTICULO 54.
 
@@ -889,7 +903,9 @@ Tratándose de infracciones cometidas por servidores públicos, las sanciones se
 
 La aplicación de las multas por infracciones a las disposiciones fiscales se harán independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-Las multas deberán pagarse dentro del mes siguiente a la fecha en que se (sic) surta efecto su notificación.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+Las multas deberán pagarse dentro de los cuarenta y cinco siguientes a la fecha en que se surta efecto su notificación.
 
 Cuando las multas no se paguen en la fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió de hacerse el pago y hasta que el mismo se efectué, en los términos del artículo 26 de éste Código.
 
@@ -1613,7 +1629,9 @@ Si la exigibilidad se origina por cese de la prórroga o de la autorización par
 
 El ejecutor designado por la Tesorería Municipal o sus unidades administrativas, se constituirá en el domicilio del contribuyente y practicará la diligencia del requerimiento de pago y de embargo de bienes, con la intervención de la negociación en su caso, cumpliendo con las formalidades que se señalan para las notificaciones personales en el artículo 109 de éste código. De esta diligencia se levantará acta pormenorizada de la que se entregará copia a la persona con quien se entienda la misma.
 
-Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso se hizo por edictos, la diligencia se entenderá con la autoridad Municipal o local de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor, en cuyo caso se entenderá con él.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso se hizo por edictos o por estrados, la diligencia se entenderá con la autoridad Municipal o local de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor, en cuyo caso se entenderá con él.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O 29 DE DICIEMBRE DE 2000)</small>
 
@@ -2052,3 +2070,9 @@ P.O. 13 DE DICIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del 1° de enero del año 2007, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
