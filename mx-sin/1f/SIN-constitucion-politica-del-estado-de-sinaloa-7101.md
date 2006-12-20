@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2006-07-19"
+last_updated: "2006-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2006.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1541,7 +1541,7 @@ En materia política, sólo podrán ejercer este derecho los ciudadanos mexicano
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
-## TITULO VI. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+## TITULO VI. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1823,7 +1823,7 @@ El Tesorero antes de entrar a ejercer sus funciones, caucionará suficientemente
 
 Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán por la Ley que al efecto expida el Congreso del Estado, acorde a los principios del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 ## TITULO VII
 
@@ -1838,6 +1838,10 @@ Para los efectos de las responsabilidades contenidas en este Título, se entiend
 Todo servidor público será responsable de los actos u omisiones oficiales en que incurra y que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, independientemente de la jerarquía, denominación y origen del cargo. Se concede acción popular para denunciar los delitos y faltas a que se refiere este Título, bajo la más estricta responsabilidad del denunciante y mediante la presentación de elementos de prueba.
 
 Las sanciones procedentes se aplicarán respetando el derecho de audiencia, mediante juicio político, proceso penal o procedimiento administrativo, según sea el caso, en los términos del presente Título y de las leyes aplicables. Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3094,6 +3098,12 @@ P.O. 19 DE JULIO DE 2006.
 ###### ARTICULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 20 DE DICIEMBRE DE 2006.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- La Ley que reglamente la materia del presente decreto deberá ser aprobada y publicada en el lapso que comprende el primer periodo ordinario de sesiones correspondiente al Tercer Año de Ejercicio de la LVIII Legislatura del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
