@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-control-presupuestal-y-gasto-publico-del-estado-de-3514"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-13"
-last_updated: "2004-07-05"
+last_updated: "2006-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE CONTROL PRESUPUESTAL Y GASTO PUBLICO DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 13 de marzo de 1992.
 
@@ -109,9 +109,11 @@ II.- Recompensas y pensiones a cargo del erario del Estado.
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, establecerá las normas generales y excepciones a que se sujetarán las garantías que deban constituirse por terceros en los actos y contratos que celebren con las diversas dependencias y entidades.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 8.
 
-La Secretaría de Finanzas será la beneficiaria de las garantías que se otorguen a favor del Estado, correspondiéndole conservar la documentación respectiva y, en su caso, ejercitar derechos que correspondan al Gobierno.
+La Secretaría de Finanzas y Administración será la beneficiaria de las garantías que se otorguen a favor del Estado; dependencia a quien, en su caso, corresponderá ejercitar los derechos que correspondan a éste.
 
 ###### ARTICULO 9.
 
@@ -367,17 +369,17 @@ El gasto público deberá ajustarse al monto autorizado para los programas y par
 
 Solamente podrán establecerse cuentas de ampliación automática en los casos en que el fondo de las mismas esté constituido por ingresos destinados específicamente a ellas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 33.
 
-Sin autorización expresa del Ejecutivo del Estado, a través de la Comisión Intersecretarial Gasto-Financiamiento, las dependencias del Poder Ejecutivo y los órganos máximos de los Poderes Legislativo y Judicial, no podrán concertar o hacer anticipo de pago alguno, ya sea a corto o largo plazo. A los infractores de lo anterior se les aplicarán las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado, así como las de la legislación penal vigente en la Entidad, si el hecho llegare a constituir delito.
+Sin autorización expresa del Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, las dependencias del Poder Ejecutivo, no podrán concertar o hacer anticipo de pago alguno, ya sea a corto o largo plazo. El incumplimiento a esta disposición ameritará la aplicación de las sanciones establecidas en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 34.
 
-La comprobación del pago de sueldos a funcionarios y empleados del Estado, será por medio de nóminas o recibos donde conste su nombre, el período que abarque y la firma del interesado. Tanto las nóminas como los recibos deberán estar visados por el titular de la dependencia o entidad correspondiente y por la Finanzas y Administración.
+La comprobación del pago de sueldos, a los servidores públicos del Estado, será por medio de nóminas o recibos donde conste su nombre, el período que comprenda y la firma del interesado o, en su caso, a través de medios electrónicos que para el efecto se establezcan con las instituciones financieras que permitan identificar los pagos hechos a los servidores públicos en concepto de sueldos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -750,3 +752,25 @@ P.O. 5 DE JULIO DE 2004.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Las modificaciones a la Ley Orgánica del Instituto Campechano, a la Ley de Control Presupuestal y Gasto Público del Estado de Campeche y a la Ley Orgánica de la Administración Pública del Estado de Campeche, contenidas en el presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Ley de Hacienda del Estado de Campeche contenida en este mismo Decreto, entrará en vigor el día uno de enero de dos mil siete, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Hacienda del Estado de Campeche, publicada en el Periódico Oficial del Estado el 11 de diciembre de 1992, así como todos aquellos decretos que en su oportunidad la modificaron y se derogan todas las demás disposiciones legales, reglamentarias y administrativas de carácter general en lo que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se transfieren al organismo descentralizado creado por este Decreto todos los bienes muebles e inmuebles con los que actualmente cuenta el Instituto Campechano. Igualmente se transfieren a dicho (sic) descentralizado los recursos humanos con que cuenta el referido Instituto, quedando a salvo los derechos laborales de los mismos.
+
+###### ARTÍCULO QUINTO.
+
+Se autoriza al Ejecutivo del Estado por conducto de su Secretario de Finanzas y Administración y, a los Municipios por conducto de sus presidentes y secretarios de sus respectivos Ayuntamientos a celebrar Convenios de Colaboración Administrativa en Materia Hacendaria de Ingresos, para que los Municipios efectúen la administración del Impuesto Sobre Nóminas que éstos mismos causen.
