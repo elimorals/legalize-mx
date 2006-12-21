@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-establece-las-normas-minimas-sobre-readaptacion-12566"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-25"
-last_updated: "1976-12-25"
+last_updated: "2006-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NAY"
 
 LEY QUE ESTABLECE LAS NORMAS MINIMAS SOBRE READAPTACION SOCIAL DE SENTENCIADOS EN EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PENALES PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 21 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el Periódico Oficial del Estado de Nayarit, el 25 de diciembre de 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+
+Ley Publicada en el Periódico Oficial del Estado de Nayarit, el 25 de diciembre de 1976.
 
 CORONEL ROGELIO FLORES CURIEL, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
 
@@ -206,3 +208,25 @@ CORONEL ROGELIO FLORES CURIEL.
 El Secretario General de Gobierno
 
 DR. J. JESUS OSUNA GOMEZ.- (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE DICIEMBRE DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente después de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley que establece las Normas Mínimas sobre Readaptación Social de sentenciados en el Estado de Nayarit, publicada en el Periódico Oficial Órgano Oficial del Gobierno del Estado, con fecha 25 de diciembre de 1976.
+
+TERCERO.- En tanto no se emitan las disposiciones a que se refiere el artículo 3° de esta ley, se estará a lo dispuesto por el Reglamento de Reclusorios y Centros de Readaptación Social del Estado de Nayarit.
+
+El Titular del Poder Ejecutivo contará con un término de 180 días posteriores a la publicación de la presente Ley para expedir el reglamento respectivo del presente ordenamiento.
+
+CUARTO.- En tanto se asigne el presupuesto para realizar la clasificación a que se refiere el artículo 26 de esta Ley, en las instituciones que integran el Sistema Penitenciario del Estado de Nayarit se procurará establecer áreas afines a dicha clasificación.
+
+QUINTO.- Mientras no sea creada la institución a que se refiere el artículo 85 de esta Ley, la autoridad ejecutora por conducto de la Dirección diseñará y aplicará programas de asistencia y atención a los liberados y externados tendientes a la efectiva reinserción social.
+
+SEXTO.- En la aplicación de la presente Ley se estará a lo más favorable para el sentenciado.
+
+SÉPTIMO.- Las Instituciones para el cumplimiento de arrestos se regularán conforme a lo previsto en el Reglamento de Reclusorios y centros de Readaptación Social del Estado de Nayarit.
+
+OCTAVO.- El beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, entrará en vigor noventa días posteriores a la publicación de la presente Ley. El Ejecutivo expedirá dentro de este plazo el Reglamento respectivo que regule dicho beneficio.
