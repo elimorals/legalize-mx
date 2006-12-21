@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2006-05-30"
+last_updated: "2006-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -427,9 +427,13 @@ La Coordinación de Ejecución será la encargada de llevar a efecto el procedim
 
 ### CAPITULO I. Generalidades
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 22.
 
-Los servidores públicos de la Auditoría Superior del Estado, por la naturaleza de las funciones que desempeñan, serán, sin excepción, trabajadores de confianza; seleccionados en atención a su capacidad, eficiencia y calidad, lo que deberán acreditar a través de evaluaciones periódicas para su permanencia en la prestación del servicio.
+Los servidores públicos de la Auditoría Superior del Estado, por la naturaleza de las funciones que desempeñan, serán considerados trabajadores de confianza; seleccionados en atención a su capacidad, eficiencia y calidad, lo que deberán acreditar a través de evaluaciones periódicas para su permanencia en la prestación del servicio.
+
+Se entenderá exceptuado de la anterior medida, el personal de base; así como el personal cuyas actividades no se relacionen directamente con cualquiera de las funciones vinculadas al cumplimiento de las atribuciones esenciales a cargo del órgano de auditoría; o que en los términos de ley corresponda atribuirle otra calidad de empleados.
 
 ###### ARTICULO 23.
 
@@ -1045,7 +1049,9 @@ NOVENO. Todos los bienes, archivos y recursos presupuestales y bienes asignados 
 
 DECIMO. Las disposiciones reglamentarias que se deriven de esta Ley, serán elaboradas por la Auditoría Superior del Estado o el órgano equivalente, dentro de los sesenta días siguientes a la designación del Auditor Superior.
 
-DECIMO PRIMERO. El personal de base de la Contaduría Mayor de Hacienda, a la entrada en vigor de la presente Ley, será reubicado en las distintas áreas del Congreso del Estado, conservando todos sus derechos laborales.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+DECIMO PRIMERO. El personal de la Contaduría Mayor de Hacienda que no se encuentre exceptuado de la medida a que se refiere el segundo párrafo del artículo 22 de esta Ley, a la entrada en vigor de la misma, permanecerá laborando en la Auditoría Superior del Estado.
 
 Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
@@ -1068,3 +1074,9 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE DICIEMBRE DE 2006.
+
+ÚNICO. Previa su publicación en el Periódico Oficial del Estado, este Decreto entrará en vigor en la misma fecha que cobre vigencia el Decreto Legislativo número 499, relativo a la Ley de Auditoría Superior del Estado de San Luis Potosí, publicado en el citado órgano de información oficial, el 30 de mayo de 2006.
