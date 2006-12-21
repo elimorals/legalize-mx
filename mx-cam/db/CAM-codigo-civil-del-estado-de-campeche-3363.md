@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2005-05-03"
+last_updated: "2006-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -917,7 +917,7 @@ Las autoridades judiciales que declaren la ausencia, la presunción de muerte, l
 
 ###### Art. 143.
 
-El Oficial del Registro Civil hará la anotación correspondiente en las actas de nacimiento y de matrimonio, en su caso, e insertará los datos esenciales de la resolución judicial que se le haya comunicado.
+El Oficial del Registro Civil hará la anotación correspondiente en las actas de nacimiento y de matrimonio o en su caso, e insertará los datos esenciales de la resolución judicial que se le haya comunicado.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
 
@@ -1025,29 +1025,33 @@ El matrimonio debe celebrarse ante los funcionarios que establezca la ley y con 
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 ###### Art. 159.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce.
+Para contraer matrimonio se requiere ser mayor de edad. El Juez de lo Familiar puede conceder dispensa de edad por causas graves y justificadas, siempre que quienes pretendan contraer matrimonio no sean menores de dieciséis años y cuenten con el respectivo consentimiento de quienes deben otorgarlo en términos del artículo 160.
 
-El Gobernador del Estado puede conceder dispensas de edad por causas graves y justificadas.
-
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1970)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 160.
 
-El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+El menor de dieciocho años, no puede contraer matrimonio sin el consentimiento de sus padres, si vivieren ambos, o del que sobreviva. A falta de los padres, se necesita el consentimiento de los abuelos paternos, si los dos vivieren, o del que sobreviva. A falta de los abuelos paternos, se necesita el consentimiento de los abuelos maternos si los dos vivieren, o del que sobreviva. A falta de los abuelos maternos, se necesita el consentimiento de su tutor legítimo o dativo, si lo tuviere.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 161.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el Juez de Primera Instancia de la residencia del menor suplirá el consentimiento.
+A falta de padres, abuelos y tutor, la dispensa que otorgue el Juez de lo Familiar suplirá el consentimiento.
 
 ###### Art. 162.
 
-Los interesados pueden ocurrir al Gobernador del Estado, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las autoridades mencionadas, después de levantar una información sobre el particular, suplirán o no el consentimiento.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 163.
 
-Si el juez, en el caso del artículo 161, se niega a suplir el consentimiento para que se celebre un matrimonio, los interesados ocurrirán al Tribunal Superior respectivo, en los términos que disponga el Código de Procedimientos Civiles.
+Las resoluciones que dicte el Juez de lo Familiar en materia de dispensas serán impugnables en apelación.
 
 ###### Art. 164.
 
@@ -1099,11 +1103,11 @@ En la adopción plena el impedimento se extiende sin limitación de grado en lí
 
 La mujer puede contraer nuevo matrimonio, después de la disolución o nulidad del anterior, siempre y cuando presente ante el Oficial del Registro Civil el certificado médico expedido por una Institución de Salud Pública o por dos facultativos debidamente registrados que acredite que no se encuentra en estado de gravidez, cuya fecha no exceda de quince días y sea con posterioridad a dicha disolución o nulidad.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 ###### Art. 170.
 
-El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Gobernador del Estado, sino cuando hayan sido aprobadas las cuentas de la tutela.
-
-Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
+El tutor no puede contraer matrimonio con la persona que haya estado o esté bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Juez de lo Familiar, sino cuando hayan sido aprobadas las cuentas de la tutela. Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
 
 ###### Art. 171.
 
@@ -1621,11 +1625,11 @@ La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
 Si la demanda de nulidad fuere entablada por uno sólo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 298.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 271.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y la custodia de los hijos y el juez resolverá a su criterio de acuerdo con las circunstancias del caso.
+Luego de que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos de la alimentación, custodia y cuidado de los hijos. El juez resolverá apegándose en lo conducente a lo que se previene en los artículos 299, 300 y 301 de este Código. Estas disposiciones también se aplicarán en lo posible, por los elementos de juicio con que cuente en ese momento el Juez de lo Familiar, al dictar las medidas provisionales a que se refiere el artículo 298.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
@@ -1649,7 +1653,7 @@ III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subs
 
 IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho en favor de los hijos.
 
-Si no los tiene no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
+Si no los tiene no podrán hacer los donantes reclamación alguna con motivo de la liberalidad;
 
 V.- Si los dos cónyuges procedieron de buena fe, podrá el consorte donante revocar la donación, pero no tendrá derecho a los productos de los bienes donados.
 
@@ -1785,19 +1789,21 @@ XV.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que se
 
 XVI.- El mutuo consentimiento;
 
-XVII.- El reconocimiento hecho por la mujer casada, sin el consentimiento del marido, de un hijo habido antes de su matrimonio;
+XVII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
 
-XVIII.- Negarse la mujer a acompañar al marido cuando éste traslade su domicilio a otro punto del territorio nacional, y esté separada de él por más de seis meses, a no ser que se le hubiera eximido de ello con areglo (sic) a lo dispuesto en el artículo 174;
+XVIII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
 
-XIX.- Negarse la mujer a acompañar al marido cuando éste traslade su domicilio al extranjero, y esté separada de él por el término de un año, sin que se le hubiera eximido de ello de acuerdo con la disposición citada en la fracción anterior;
+XIX.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
 
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 XX.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 ###### Art. 288.
 
-(DEROGADO, P.O. 24 DE JULIO DE 1998)
+En los juicios de divorcio, si los consortes tuvieren en común hijos menores de edad, desde su inicio se dará la correspondiente intervención a los representantes del Ministerio Público y de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, quienes tendrán el deber de hacer al juez del conocimiento las peticiones y propuestas que consideren pertinentes en beneficio de dichos menores, de conformidad con las disposiciones legales aplicables.
 
 ###### Art. 289.
 
@@ -1859,45 +1865,39 @@ IV.- Dictar, en su caso, las medidas precautorias que la ley establece respecto 
 
 V.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio, propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 ###### Art. 299.
 
-La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
+La sentencia de divorcio fijará la situación de los hijos menores de edad. Ambos padres tendrán la obligación de contribuir económicamente, en proporción a sus bienes e ingresos, a las necesidades de sus hijos y a la subsistencia y a la educación de éstos en los términos y condiciones que este Código dispone. En la sentencia definitiva, el juez determinará el monto de la pensión alimentaria que cada uno de ellos deberá abonar a favor de sus hijos.
 
-Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIII, XIV, XVII, XVIII y XIX del artículo 287, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
+Todas las determinaciones a que este artículo y los artículos 300 y 301 se contraen no tendrán el carácter de definitivas, por lo que el juez a petición de parte legítima podrá modificarlas, con el objeto de adecuarlas a las condiciones y circunstancias que imperen en el momento de dicha petición.
 
-Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones IX, X, XI, XII y XV del Art. 287, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro, al acaecer ésta. Entretanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
-
-Tercera.- Cuando ambos cónyuges sean culpables, pero sólo uno de ellos hubiese dado causa al divorcio conforme a las disposiciones que indica la regla primera, será éste quien no pueda recobrar la patria potestad a la muerte de su consorte.
-
-Cuarta.- En todo caso los hijos y las hijas menores de cinco años quedarán al cuidado de la madre, hasta que cumplan esta edad, a menos que la madre se dedique a la prostitución o al lenocinio, contraiga el hábito de la embriaguez, padezca alguna enfermedad contagiosa u observe una conducta que constituya grave peligro para la salud o la moralidad de los hijos.
-
-Quinta.- En el caso de las fracciones VI y VII del artículo 287, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
-
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
-
-Sexta.- En el caso de la fracción XX del artículo 287 ambos padres conservarán el ejercicio de la patria potestad sobre sus hijos menores, pero el juez gozará de las más amplias facultades para resolver todo lo relativo a la custodia y cuidado de aquellos, debiendo obtener durante el juicio, de oficio, los elementos de juicio necesarios para ello.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 300.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el juez podrá acordar, a petición de los abuelos, tíos o hermanos mayores, cualquier medida que considere benéfica para los menores.
+Los divorciados conservarán en todo caso el ejercicio de la patria potestad sobre sus hijos menores. El juez de lo familiar, oyendo el parecer de los menores respecto de con quien de sus padres o ascendientes deseen quedar, y considerando su edad y sexo, y la preparación cultural, profesión u oficio, situación económica, hábitos y fama pública de los padres, así como otros elementos de juicio que le permitan deducir con quien de ellos los hijos tendrán asegurado su bienestar físico y mental, con las más amplias facultades resolverá en la sentencia todo lo relativo a la custodia y cuidado de dichos hijos.
 
-El juez podrá modificar esta decisión atento a lo dispuesto en los artículos 436, 437 y 458 fracción III.
+Para ese efecto, durante el curso del juicio, de oficio y con auxilio de los representantes del Ministerio Público y de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, el juzgador procurará allegarse esos elementos. Si ninguno de los padres reuniere las condiciones necesarias para garantizar el mencionado bienestar, el juez podrá confiar la custodia y cuidado de los menores a otro de sus ascendientes, paterno o materno, que sí las satisfaga, o les nombrará un tutor o dispondrá su entrega a una institución de beneficiencia (sic) pública o privada.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 301.
 
-El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+El derecho de convivencia entre padres e hijos se protegerá y respetará en todo caso, salvo que tal convivencia ponga en peligro al menor. En consecuencia, el padre o la madre a quien no se haya confiado la custodia y cuidado del menor, tendrá derecho a visitarlo, a llevarlo de paseo y a vivir a su lado en períodos vacacionales, cuando todo lo anterior no ponga en peligro la integridad física o mental de dicho menor. El juez, en ejecución de sentencia, con audiencia de ambos padres y, en su caso, de la persona a quien se haya confiado la custodia y cuidado de los menores, de los propios menores, así como de los representantes del Ministerio Público y de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, procederá a determinar la forma, modo y tiempo en que esos derechos serán ejercidos. La vulneración o desacato de las determinaciones que el juez decrete sobre este particular, será sancionado con la pérdida de la custodia o con la cancelación del derecho de convivencia, según corresponda, y además, en los términos del artículo 158 del Código Penal del Estado.
+
+En su caso, el juez de lo familiar, en protección de los menores, dictará las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar.
 
 ###### Art. 302.
 
 El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 303.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayor edad.
+En ejecución de sentencia se procederá a la división de los bienes comunes y se adoptarán las medidas necesarias para asegurar las obligaciones que queden pendientes entre los divorciados.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
@@ -3051,7 +3051,7 @@ La patria potestad se pierde:
 
 I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derecho, o cuando es condenado dos o más veces por delitos graves;
 
-II.- Eu (sic) los casos de divorcio, teniendo en cuenta lo que dispone el artículo 299;
+II.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
@@ -15964,6 +15964,16 @@ P.O. 3 DE MAYO DE 2005.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2006.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- Las disposiciones de este decreto son aplicables a los juicios de divorcio y de nulidad de matrimonio que se encuentren en trámite a la fecha en que cobre vigencia.
+
+Cuarto.- Todas las solicitudes de dispensa que se encuentren en trámite ante el Gobernador del Estado a la entrada en vigor del presente decreto, se remitirán al H. Tribunal Superior de Justicia del Estado para que éste a su vez las turne al Juzgado Familiar que corresponda para su continuación y resolución. Las solicitudes de suplencia de consentimiento que también se encuentren en trámite ante dicho Gobernador se tendrán como no interpuestas.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
