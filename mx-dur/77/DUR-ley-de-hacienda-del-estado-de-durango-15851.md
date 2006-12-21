@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2006-11-02"
+last_updated: "2006-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -299,9 +299,11 @@ Se entiende que los servicios de hospedaje se prestan en el Estado, siempre que 
 
 No se consideran servicios de hospedaje el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios e internados.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 20.
 
-Son sujetos de este impuesto los usuarios de los servicios de hospedaje mencionados en el artículo anterior.
+Son sujetos de este impuesto, las personas físicas y morales que presten los servicios de hospedaje mencionados en el artículo anterior.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -319,31 +321,33 @@ Cuando los servicios de hospedaje incluyan servicios accesorios, tales como tran
 
 El impuesto se determinará aplicando a la base gravable a que se refiere el artículo anterior, la tasa del 2.0%.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 23.
 
-Los prestadores de los servicios de hospedaje deberán efectuar la retención del impuesto que corresponda a los usuarios de los mismos, cuando sean exigibles las contraprestaciones correspondientes.
+Los sujetos obligados, trasladarán en forma expresa y por separado el impuesto a las personas que reciban los servicios.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+Se entiende por traslado del impuesto, el cobro o cargo que los contribuyentes deben hacer a dichas personas por un monto equivalente al impuesto establecido en este capítulo.
 
-El entero del impuesto se efectuará mediante declaración que los prestadores de los servicios, deberán presentar en la Oficina Recaudadora que corresponda a su domicilio fiscal en el Estado, o bien, en la oficina autorizada correspondiente, a más tardar el día 17 del mes siguiente a aquél en que efectuaron o debió efectuarse la retención del Impuesto, en las formas que para tal efecto apruebe la Secretaría de Finanzas y de Administración, si se elige la opción de pago vía Internet en línea, el impuesto se tendrá por pagado una vez que sea validado por el Sistema.
+El prestador deberá realizar el pago del impuesto en la oficina recaudadora que corresponda a su domicilio fiscal en el Estado, o bien, en la oficina autorizada correspondiente, a más tardar el día 17 del mes siguiente a aquél en que se prestó el servicio, en las formas que para tal efecto apruebe la Secretaría de Finanzas y de Administración, si se elige la opción de pago vía Internet en línea, el impuesto se tendrá por pagado una vez que sea validado por el sistema.
 
-Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la Oficina Recaudadora correspondiente a su domicilio fiscal, o bien, en las oficinas autorizadas que correspondan, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto retenido.
+Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la oficina recaudadora correspondiente a su domicilio fiscal, o bien, en las oficinas autorizadas que correspondan, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto causado.
 
 ###### ARTICULO 24.
 
-Son responsables solidarios del pago de este impuesto, los prestadores de los servicios de hospedaje.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2006)
 
-Los prestadores de servicios de hospedaje están obligados a enterar una cantidad equivalente a la que debieron retener en los términos de este Capítulo, aún cuando no hubieren hecho la retención correspondiente o no hayan recibido el pago de las contraprestaciones relativas al servicio prestado.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 25.
 
-Las personas que presten los servicios de hospedaje a que se refiere este Capítulo, tendrán además las siguientes obligaciones:
+Las personas que presten los servicios de hospedaje a que se refiere este capítulo, tendrán además, las siguientes obligaciones.
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
 
 I. Inscribirse ante la oficina recaudadora correspondiente a su domicilio fiscal en el Estado, dentro del mes siguiente a la fecha de inicio de sus operaciones, haciendo uso de las formas oficiales aprobadas por la Secretaría de Finanzas y de Administración.
 
-II. Retener el impuesto correspondiente, y enterarlo en las oficinas autorizadas por los períodos y fechas establecidas a que se refiere el artículo 23 de este capítulo.
+II (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
@@ -441,9 +445,9 @@ participar en rifas, loterías, sorteos y
 
 concursos de toda clase; y 8%
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-III. Ingresos por la obtención de premios: 4.8%
+III.- Ingresos por la obtención de premios: 4.4%
 
 ###### ARTICULO 36.
 
@@ -483,7 +487,7 @@ Se entiende como vehículos automotores, los automóviles, omnibuses, camiones, 
 
 ###### ARTICULO 40.
 
-Para efectos de este impuesto, la base gravable será la cantidad mayor entre el valor de operación fijado por los contratantes y el de avalúo que determine la Secretaría de Finanzas y de Administración o los peritos autorizados por ésta.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2006)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
@@ -519,27 +523,61 @@ II. Las enajenaciones que realice el Estado y los Municipios, salvo sus organism
 
 El entero del impuesto establecido en este Capítulo deberá pagarse en la oficina recaudadora correspondiente, mediante declaración en la forma oficial autorizada por la Secretaría de Finanzas y de Administración, dentro de los 15 días hábiles siguientes a la fecha de enajenación del vehículo.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO VII. DEL IMPUESTO PARA LA MODERNIZACION DE LOS REGISTROS PUBLICOS
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 44 BIS.- Es objeto del Impuesto para la Modernización de los Registros Públicos, la adquisición de títulos públicos o privados respecto de las operaciones que realicen las personas físicas y morales mediante los cuales se adquiera, transmitan, modifiquen o extingan el dominio o la posesión de bienes inmuebles.
+
+Están obligados al pago del Impuesto para la Modernización de los Registros Públicos toda persona física y moral que realice las operaciones a que se refiere el párrafo anterior.
+
+La base gravable de este impuesto la constituye el monto total de la operación, considerándose como tal, la cantidad más alta que resulte de entre el pactado por las partes, el valor catastral vigente al momento de realizar el pago del impuesto, del avalúo bancario o el practicado por la Secretaría de Finanzas y de Administración.
+
+Todas las operaciones, cuyo monto total no rebase la cantidad de $680,000.00, quedarán exentas del pago de este impuesto.
+
+A los contribuyentes cuyo valor de operación sea superiora la cantidad de $680,000.00, le será aplicable el beneficio a que se refiere el párrafo anterior, sólo hasta la cantidad exenta y calcularán el impuesto a su cargo disminuyendo a la base del impuesto la cantidad sujeta a exención.
+
+El monto de la operación gravable, se ajustará tomando en consideración la exención prevista para este impuesto en el párrafo cuarto de este artículo. Esta exención será aplicable a todos los sujetos obligados al pago del presente impuesto.
+
+A la base del impuesto determinada de conformidad con el párrafo tercero de este artículo, se le aplicará la tasa del 1.5 %.
+
+Los sujetos acreedores al pago del presente impuesto, estarán obligados a enterarlo al momento en que se formalice la operación y deberán cubrirlo en cualquiera de las oficinas autorizadas por la Secretaría de Finanzas y de Administración del Gobierno del Estado.
+
+Se consideran obligados solidarios en el cumplimiento del pago del presente impuesto:
+
+- El Notario Público que formalice la operación.
+
+- El Corredor, en su caso.
+
+- El tercero que participe como parte en la celebración de cualquiera de las operaciones descritas como objeto del impuesto.
+
+- En su caso, los comisionistas y constructores que intervengan en la operación.
+
+Cuando sean varias las operaciones sujetas al presente impuesto, éste se causará sobre el valor de cada uno de ellos.
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ### CAPITULO II. DE LOS DERECHOS POR INSCRIPCION Y DEMAS SERVICIOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO Y EN EL REGISTRO PUBLICO DE TRANSPORTE
 
 ### CAPITULO III. DE LOS DERECHOS POR LEGALIZACION DE FIRMAS, CERTIFICACIONES, EXPEDICION DE COPIAS DE DOCUMENTOS Y OTROS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 ### CAPITULO IV. DE LOS DERECHOS POR ACTOS DEL REGISTRO CIVIL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO V. DE LOS DERECHOS POR SERVICIOS CATASTRALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
-
-### CAPITULO VI. DE LOS DERECHOS POR SERVICIO DE CONTROL DE VEHICULOS Y POR EXPEDIClON DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO VII. DE LOS DERECHOS POR INSCRIPCION EN EL PADRON DE PROPIETARIOS Y POSEEDORES DE VEHICULOS AUTOMOTORES DE PROCEDENCIA EXTRANJERA
+### CAPITULO VI. DE LOS DERECHOS POR SERVICIO DE CONTROL DE VEHICULOS Y POR EXPEDIClON DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 45.
 
@@ -574,6 +612,170 @@ La Federación, las Entidades Federativas, los Municipios, los Organismos Descen
 Para los efectos de este Título, se entiende por salario, el salario mínimo general diario que corresponda al área geográfica del Estado, vigente al momento en que el particular solicite la prestación del servicio.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 8 DE JUNIO DE 2003)</small>
+
+### CAPITULO VII. DE LOS DERECHOS POR INSCRIPCION EN EL PADRON DE PROPIETARIOS Y POSEEDORES DE VEHICULOS AUTOMOTORES DE PROCEDENCIA EXTRANJERA
+
+###### ARTICULO 52.
+
+Los servicios que se presten por el Registro Público de la Propiedad y del Comercio causarán derechos conforme a un porcentaje de la base que corresponda o en días de salario o fracción del mismo de acuerdo a lo siguiente:
+
+DÍAS DE SALARIO
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+I.- La inscripción o registro de títulos, ya sea de documentos públicos o privados. De resoluciones judiciales, administrativas o de cualquier otra naturaleza por virtud de los cuales se adquiera, trasmita, modifique o extinga el dominio o la posesión de bienes inmuebles: 200
+
+> <small>(DEROGADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+Tratándose de la primera enajenación de vivienda, no causarán los derechos por el registro, cuando las mismas se encuentren edificadas en una superficie no mayor de 180m2 de terreno y tenga una superficie construida máxima de 80 m2 y cuyo valor no exceda de la cantidad que resulte de multiplicar por quince el salario mínimo general diario vigente en el Estado elevado al año.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+Tratándose de la primera enajenación de vivienda, que se encuentre edificada en una superficie no mayor de 180m2 y tenga una superficie construida máxima de 100 2m y cuyo valor no exceda de la cantidad que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado elevado al año, tendrán derecho a una reducción del 50% en el monto del derecho que se cause.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+No causarán los derechos por el registro de la primera enajenación de terrenos cuyo valor no exceda de multiplicar tres veces el salario mínimo general diario vigente en el Estado elevado al año, y que tenga una superficie no mayor de 180 m2.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+Tendrán derecho a una reducción del 50% en el monto del derecho que se cauce por el registro de la primera enajenación de los terrenos, cuyo valor no exceda de multiplicar cinco veces el salario mínimo general diario vigente en el Estado, elevado al año y que tenga una superficie no mayor a 180m2.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+Por lo que respecta a los subsidios mencionados en la presente fracción, sólo serán otorgados para aquellos contribuyentes que adquieran inmuebles con finalidad de construcción y ocupación habitacional propia. Por tanto, quedan excluidas las personas físicas o morales cuya actividad habitual sea la compra venta de terrenos con fines de lucro.
+
+II.- La inscripción de gravámenes sobre inmuebles por contratos; por resoluciones judiciales; por disposición testamentaria; por títulos que limiten el dominio del vendedor; por embargos; deudas hipotecarias; servidumbres y fianzas; por títulos en virtud de los cuales se adquieran, trasmitan, modifiquen o extingan derechos reales sobre inmuebles distintos de dominio; sobre el monto de la obligación garantizada o sobre el monto de la operación, según corresponda. 1.0%
+
+III.- La cancelación de la inscripción a que se refiere la fracción anterior, sobre el monto de la obligación garantizada o sobre el monto de la operación, según corresponda. 0.15%
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+IV.- La inscripción de contratos de créditos hipotecarios, prendarios, refaccionarios y de habilitación y avío, celebrados por instituciones de crédito, de seguros o fianzas y organizaciones auxiliares o por sociedades financieras de objeto limitado. 100
+
+La cancelación de inscripción a que se refiere la presente fracción, sobre el monto de la operación: 0.15%
+
+V.- El registro de la reestructuración de créditos, cuando ésta no implique financiamiento adicional o constitución de gravamen, sobre el monto de la operación. 0.25%
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+En los casos a que se refiere esta fracción, las cancelaciones no causarán derecho alguno.
+
+VI.- El registro de la cédula hipotecaria, sobre su valor 1%
+
+VII.- La inscripción de la constitución del patrimonio familiar. Exento
+
+VIII.- La cancelación del registro del patrimonio familiar. Exento
+
+IX.- La inscripción de las informaciones ad-perpetuam, sobre el valor catastral del inmueble. 1.35%
+
+X.- La cancelación del registro de la información ad-perpetuam, sobre el valor catastral del inmueble. 3
+
+Xl.- El depósito de testamentos ológrafos o cualquier otro documento. 5
+
+XlI.- Si el depósito de testamento ológrafo se hace fuera de la oficina del registro 10
+
+XIII.- La inscripción de cualquier clase de testamento. 5
+
+XIV.- La inscripción de resoluciones dictadas en juicios sucesorios. 5
+
+XV.- La cancelación de la inscripción a que se refiere la fracción anterior. 3
+
+XVI.- La inscripción de la autorización de fraccionamientos de terrenos, por cada lote.1
+
+XVII.- La inscripción de la escritura por la cual se constituya el régimen de condominios de un inmueble, por cada departamento, despacho o local. 1
+
+XVIII.- La inscripción de contratos mercantiles o civiles no incluidos en otras fracciones de este artículo. 5
+
+XIX.- La inscripción de contratos relativos a bienes muebles en los que se estipule una condición resolutoria o la transmisión con reserva de dominio, sobre el monto de la operación 0.70%
+
+XX.- La inscripción de contratos de corresponsalía de instituciones de crédito. 5
+
+XXI.- La cancelación de la inscripción a que se refiere la fracción anterior. 3
+
+XXII.- La inscripción de gravámenes sobre bienes muebles, sobre el monto de la operación garantizada. 0.70%
+
+XXIII.- La inscripción de los convenios modificatorios que no afecten capital, o contratos mercantiles que den lugar a inscripción complementaria para su perfeccionamiento. 5
+
+XXIV.- La inscripción de escrituras constitutivas de personas morales y de aumentos de capital o patrimonio, sobre el capital, patrimonio o aumento establecido. 0.60%
+
+En los casos que no se establezca capital o patrimonio. 10
+
+XXV.- La inscripción de cualquier modificación a la escritura constitutiva de personas morales que no implique aumento de capital o patrimonio. 5
+
+XXVI.- La inscripción de actas de emisión de bonos u obligaciones de personas morales, o cualquier otro instrumento bursátil, sobre el valor de la emisión. 1.5%
+
+XXVII.- La inscripción de actas de asambleas de socios, accionistas de consejo de administración o de cualquier otro tipo no estipuladas en otras fracciones de este articulo, referidas a personas morales. 5
+
+XXVIII.- La cancelación de la inscripción del registro de escrituras constitutivas de personas morales. 3
+
+XXIX.- Si como consecuencia de la liquidación de la persona moral se adjudican bienes inmuebles, sobre el valor de adjudicación. 1.35%
+
+XXX.- La inscripción de poderes y sustitución de los mismos, por cada uno. 2
+
+XXXI.- La inscripción de revocación de poderes, por cada uno. 1
+
+XXXII.- La ratificación de documentos públicos o privados o de firmas ante el registro. 2
+
+XXXIII.- La búsqueda de constancias o datos para la expedición de certificados o informes, por cada período de 5 años o fracción. 1
+
+XXXIV. La expedición de certificados o certificaciones relativas a las constancias del registro, independientemente de la búsqueda, por cada hoja. 1
+
+XXXV.- La expedición de copia simple, por cada hoja 0.20
+
+XXXVI.- Los informes que se rindan por escrito, a solicitud de las autoridades incluyendo la búsqueda. 2
+
+XXXVII.- La inscripción de las capitulaciones matrimoniales y sus modificaciones. 1
+
+XXXVlll.- El examen de todo documento, sea público o privado, que se presente al registro para su inscripción, cuando se rehuse ésta por no ser inscribible o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial. 1
+
+XXXIX.- La inscripción de resoluciones judiciales en que se declare una quiebra o suspensión de pagos o se admita una liquidación judicial. 5
+
+XL.- Cada búsqueda de datos o constancias para informes y certificados. 1
+
+XLI.- Cada anotación marginal. 1
+
+XLII.- La expedición de cada certificado de libertad o existencia de gravámenes, incluyendo la búsqueda. 3
+
+XLIII.- La expedición de cada certificado de no propiedad o de existencia de propiedad, incluyendo la búsqueda. 3
+
+XLIV.- En los casos de servicios no previstos expresamente en este artículo, sobre el valor o monto que corresponda. 1.35%
+
+o cuando no exista valor o monto. 5
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+Se entenderá como monto de la operación, a que se refieren distintas fracciones del presente artículo, la cantidad más alta que resulte de entre: el valor de la operación, el valor catastral vigente al momento de solicitar la inscripción, del avalúo bancario o el practicado por la Secretaría de Finanzas y de Administración, salvo que la propia fracción lo determine.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 52 BIS.- Cuando el valor de las operaciones contempladas en la fracción IV del artículo anterior sea superior a $900,000.00, los contribuyentes pagarán el 0.5% sobre el excedente.
+
+###### ARTICULO 53.
+
+En toda transmisión de bienes o derechos reales que se realicen por contrato o por resolución Judicial o Administrativa, cuando en ella queden comprendidos varios bienes, se pagarán derechos sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes y se efectúa por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos.
+
+###### ARTICULO 54.
+
+Cuando un mismo Título origine dos o más inscripciones, los derechos se causarán por cada una de éstas separadamente, en cuyo caso se expedirán tantos recibos como inscripciones se efectúen.
+
+###### ARTICULO 55.
+
+Las fundaciones de beneficencia privada, reconocidas por la Federación o por el Estado, gozarán de una reducción de 50% en el pago de los derechos establecidos en ésta Ley.
+
+###### ARTICULO 56.
+
+No se causarán los derechos a que se refiere el Artículo 52 de esta Ley:
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+
+I. Cuando se trate de inscripciones relativas a bienes inmuebles o derechos reales pertenecientes al Estado o a los Municipios, previa solicitud de la dependencia interesada.
+
+II. Por los informes o certificaciones que soliciten el Gobierno Federal o los Municipios para fines que no sean fiscales, y
+
+III. Por los informes que soliciten las autoridades para asuntos Penales o para Juicios de Amparo.
 
 ### CAPITULO VIII. DE LOS DERECHOS POR LOS SERVICIOS DE LA SECRETARIA DE RECURSOS NATURALES Y MEDIO AMBIENTE
 
@@ -919,157 +1121,11 @@ siguiente criterio:
 
 Por cada 10m3 de material. 3
 
-###### ARTICULO 52.
-
-Los servicios que se presten por el Registro Público de la Propiedad y del Comercio causarán derechos conforme a un porcentaje de la base que corresponda o en días de salario o fracción del mismo de acuerdo a lo siguiente:
-
-DIAS DE SALARIO/ PORCENTAJE
-
-I.- La inscripción o registro de títulos, ya sea de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra naturaleza por virtud de los cuales se adquiera, trasmita, modifique o extinga el dominio o la posesión de bienes inmuebles, sobre el monto que corresponda. 1.35%
-
-En estos casos; el monto que se determine como base para el pago de los derechos será la cantidad más alta que resulte del valor de la operación, valor catastral vigente al momento de solicitar la inscripción de avalúo bancario o el practicado por la Secretaría de Finanzas y de Administración.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
-
-Tratándose de la primera enajenación de vivienda, no causarán los derechos por el registro, cuando las mismas se encuentren edificadas en una superficie no mayor de 180m2 de terreno y tenga una superficie construida máxima de 80 m2 y cuyo valor no exceda de la cantidad que resulte de multiplicar por quince el salario mínimo general diario vigente en el Estado elevado al año.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
-
-Tratándose de la primera enajenación de vivienda, que se encuentre edificada en una superficie no mayor de 180m2 y tenga una superficie construida máxima de 100 2m y cuyo valor no exceda de la cantidad que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado elevado al año, tendrán derecho a una reducción del 50% en el monto del derecho que se cause.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
-
-No causarán los derechos por el registro de la primera enajenación de terrenos cuyo valor no exceda de multiplicar tres veces el salario mínimo general diario vigente en el Estado elevado al año, y que tenga una superficie no mayor de 180 m2.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
-
-Tendrán derecho a una reducción del 50% en el monto del derecho que se cauce por el registro de la primera enajenación de los terrenos, cuyo valor no exceda de multiplicar cinco veces el salario mínimo general diario vigente en el Estado, elevado al año y que tenga una superficie no mayor a 180m2.
-
-II.- La inscripción de gravámenes sobre inmuebles por contratos; por resoluciones judiciales; por disposición testamentaria; por títulos que limiten el dominio del vendedor; por embargos; deudas hipotecarias; servidumbres y fianzas; por títulos en virtud de los cuales se adquieran, trasmitan, modifiquen o extingan derechos reales sobre inmuebles distintos de dominio; sobre el monto de la obligación garantizada o sobre el monto de la operación, según corresponda. 1.0%
-
-III.- La cancelación de la inscripción a que se refiere la fracción anterior, sobre el monto de la obligación garantizada o sobre el monto de la operación, según corresponda. 0.15%
-
-(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
-
-IV.- La inscripción de contratos de créditos hipotecarios, prendarios, refaccionarios y de habilitación y avío, celebrados por instituciones de crédito, de seguros o fianzas y organizaciones auxiliares o por sociedades financieras de objeto limitado, sobre el monto de la operación. 0.50%
-
-V.- El registro de la reestructuración de créditos, cuando ésta no implique financiamiento adicional o constitución de gravamen, sobre el monto de la operación. 0.25%
-
-En los casos a que se refiere la fracción anterior, las cancelaciones no causarán derecho alguno.
-
-VI.- El registro de la cédula hipotecaria, sobre su valor 1%
-
-VII.- La inscripción de la constitución del patrimonio familiar. Exento
-
-VIII.- La cancelación del registro del patrimonio familiar. Exento
-
-IX.- La inscripción de las informaciones ad-perpetuam, sobre el valor catastral del inmueble. 1.35%
-
-X.- La cancelación del registro de la información ad-perpetuam, sobre el valor catastral del inmueble. 3
-
-Xl.- El depósito de testamentos ológrafos o cualquier otro documento. 5
-
-XlI.- Si el depósito de testamento ológrafo se hace fuera de la oficina del registro 10
-
-XIII.- La inscripción de cualquier clase de testamento. 5
-
-XIV.- La inscripción de resoluciones dictadas en juicios sucesorios. 5
-
-XV.- La cancelación de la inscripción a que se refiere la fracción anterior. 3
-
-XVI.- La inscripción de la autorización de fraccionamientos de terrenos, por cada lote. 1
-
-XVII.- La inscripción de la escritura por la cual se constituya el régimen de condominios de un inmueble, por cada departamento, despacho o local. 1
-
-XVIII.- La inscripción de contratos mercantiles o civiles no incluidos en otras fracciones de este artículo. 5
-
-XIX.- La inscripción de contratos relativos a bienes muebles en los que se estipule una condición resolutoria o la transmisión con reserva de dominio, sobre el monto de la operación 0.70%
-
-XX.- La inscripción de contratos de corresponsalía de instituciones de crédito. 5
-
-XXI.- La cancelación de la inscripción a que se refiere la fracción anterior. 3
-
-XXII.- La inscripción de gravámenes sobre bienes muebles, sobre el monto de la operación garantizada. 0.70%
-
-'
-
-XXIII.- La inscripción de los convenios modificatorios que no afecten capital, o contratos mercantiles que den lugar a inscripción complementaria para su perfeccionamiento. 5
-
-XXIV.- La inscripción de escrituras constitutivas de personas morales y de aumentos de capital o patrimonio, sobre el capital, patrimonio o aumento establecido. 0.60%
-
-En los casos que no se establezca capital o patrimonio. 10
-
-XXV.- La inscripción de cualquier modificación a la escritura constitutiva de personas morales que no implique aumento de capital o patrimonio. 5
-
-XXVI.- La inscripción de actas de emisión de bonos u obligaciones de personas morales, o cualquier otro instrumento bursátil, sobre el valor de la emisión. 1.5%
-
-XXVII.- La inscripción de actas de asambleas de socios, accionistas de consejo de administración o de cualquier otro tipo no estipuladas en otras fracciones de este articulo, referidas a personas morales. 5
-
-XXVIII.- La cancelación de la inscripción del registro de escrituras constitutivas de personas morales. 3
-
-XXIX.- Si como consecuencia de la liquidación de la persona moral se adjudican bienes inmuebles, sobre el valor de adjudicación. 1.35%
-
-XXX.- La inscripción de poderes y sustitución de los mismos, por cada uno. 2
-
-XXXI.- La inscripción de revocación de poderes, por cada uno. 1
-
-XXXII.- La ratificación de documentos públicos o privados o de firmas ante el registro. 2
-
-XXXIII.- La búsqueda de constancias o datos para la expedición de certificados o informes, por cada período de 5 años o fracción. 1
-
-XXXIV. La expedición de certificados o certificaciones relativas a las constancias del registro, independientemente de la búsqueda, por cada hoja. 1
-
-XXXV.- La expedición de copia simple, por cada hoja 0.20
-
-XXXVI.- Los informes que se rindan por escrito, a solicitud de las autoridades incluyendo la búsqueda. 2
-
-XXXVII.- La inscripción de las capitulaciones matrimoniales y sus modificaciones. 1
-
-XXXVlll.- El examen de todo documento, sea público o privado, que se presente al registro para su inscripción, cuando se rehuse ésta por no ser inscribible o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial. 1
-
-XXXIX.- La inscripción de resoluciones judiciales en que se declare una quiebra o suspensión de pagos o se admita una liquidación judicial. 5
-
-XL.- Cada búsqueda de datos o constancias para informes y certificados. 1
-
-XLI.- Cada anotación marginal. 1
-
-XLII.- La expedición de cada certificado de libertad o existencia de gravámenes, incluyendo la búsqueda. 3
-
-XLIII.- La expedición de cada certificado de no propiedad o de existencia de propiedad, incluyendo la búsqueda. 3
-
-XLIV.- En los casos de servicios no previstos expresamente en este artículo, sobre el valor o monto que corresponda, 1.35%
-
-o cuando no exista valor o monto. 5
-
-###### ARTICULO 53.
-
-En toda transmisión de bienes o derechos reales que se realicen por contrato o por resolución Judicial o Administrativa, cuando en ella queden comprendidos varios bienes, se pagarán derechos sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes y se efectúa por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos.
-
-###### ARTICULO 54.
-
-Cuando un mismo Título origine dos o más inscripciones, los derechos se causarán por cada una de éstas separadamente, en cuyo caso se expedirán tantos recibos como inscripciones se efectúen.
-
-###### ARTICULO 55.
-
-Las fundaciones de beneficencia privada, reconocidas por la Federación o por el Estado, gozarán de una reducción de 50% en el pago de los derechos establecidos en ésta Ley.
-
-###### ARTICULO 56.
-
-No se causarán los derechos a que se refiere el Artículo 52 de esta Ley:
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
-
-I. Cuando se trate de inscripciones relativas a bienes inmuebles o derechos reales pertenecientes al Estado o a los Municipios, previa solicitud de la dependencia interesada.
-
-II. Por los informes o certificaciones que soliciten el Gobierno Federal o los Municipios para fines que no sean fiscales, y
-
-III. Por los informes que soliciten las autoridades para asuntos Penales o para Juicios de Amparo.
-
-### CAPITULO UNICO
+> <small>(ADICIONADO CON EL APARTADO Y ARTICULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 57.
 
-Los derechos por concepto de legalización de firmas, certificación y expedición de copias de documentos por funcionarios competentes del Gobierno del Estado y registro en el padrón de proveedores, se causarán en base a días de salario o fracción del mismo, conforme a lo siguiente:
+Los Derechos por Concepto de Legalización de Firmas, Certificación y Expedición de Copias de Documentos por funcionarios competentes del Gobierno del Estado y registro en el padrón de proveedores, se causarán en base a días de salario o fracción del mismo, conforme a lo siguiente:
 
 DIAS PORCENTAJE
 
@@ -1155,6 +1211,12 @@ b) Por media plana. 8
 
 c) Por un cuarto de plana o menos. 3
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+XV.- Expedición de constancias de
+
+no inhabilitación: 3
+
 (ADICIONADO, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
 
 ###### ARTÍCULO 57 Bis.
@@ -1203,29 +1265,655 @@ remitido, sin importar la forma de su
 
 impresión. 3.0
 
-### CAPITULO UNICO
+### CAPITULO IX. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE SALUD
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+COMISION PARA LA PROTECCION CONTRA RIESGOS SANITARIOS
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69 Bis.
+
+1.- Los servicios que presta la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Durango, como órgano desconcentrado de la Secretaría de Salud, causarán derechos conforme a una cuota fija representada en salarios mínimos o fracción en los supuestos siguientes:
+
+De las autorizaciones:
+
+a) Por la autorización de Libros de Control de
+
+medicamentos para uso de farmacias, boticas y
+
+droguerías, por cada 100 hojas: 6
+
+b) Autorización de libros de control de
+
+medicamentos para uso intrahospitalario por libro,
+
+por cada 100 hojas: 10
+
+c) Autorización de responsable sanitario
+
+farmacia: 6
+
+d) Cambio de responsable sanitario y libros de
+
+control en farmacias: 9
+
+e) Autorización para recetarios especiales con
+
+códigos de barras: 10
+
+f) Autorización subsecuente para recetarios
+
+especiales con código de barras: 10
+
+g) Autorización anual para responsable
+
+embalsamador: 15
+
+h) Otras autorizaciones no consideradas en esta
+
+fracción: 10
+
+II. De las constancias de los procesos de
+
+destrucción y respectiva expedición:
+
+a) De la destrucción de productos, desde 1 Kg. A
+
+1,000 Kg. Si excede, por cada 1,000 Kg., pagarán
+
+una cuota igual: 10
+
+b) Para la baja y destrucción de medicamentos
+
+controlados: 10
+
+c) De funcionamiento adecuado a establecimientos
+
+de atención médica: 50
+
+d) De funcionamiento adecuado a establecimientos
+
+de asistencia social: 10
+
+e) De no inconveniente para el funcionamiento entre
+
+otros establecimientos de: baños públicos, albercas,
+
+balnearios, centro (sic) recreativos y deportivos con
+
+fines de lucro, salones de belleza y peluquerías,
+
+establecimientos de hospedaje, por habitación y
+
+transporte de agua en cualquier modalidad de vehículo: 15
+
+f). De destrucción de objetos, productos o sustancias
+
+que puedan ser nocivas para la salud de las personas,
+
+hasta cincuenta kilos o litros: 10
+
+g) De destrucción de objetos, productos o sustancias que
+
+puedan ser nocivas para la salud de las personas,
+
+más de cincuenta kilos o litros: 20
+
+h) Otras constancias no consideradas en esta fracción: 15
+
+III. Por Capacitación y asesoría:
+
+a) Capacitación a petición de parte para manejadores
+
+de alimentos, plantas purificadoras y empacadoras de
+
+alimentos, uso y manejo de plaguicidas y control sanitario
+
+de la publicidad, dirigido a personal operativo o directivo;
+
+por persona: 2
+
+b) Capacitación de manejo y dispensación de medicamentos
+
+para personal de farmacias, por persona: 2
+
+c) Capacitación en materia sanitaria al personal médico y
+
+paramédico que labora en hospitales, clínicas, consultorios
+
+médicos y laboratorios de análisis clínicos; entre otros: 5
+
+d) Capacitación a petición de parte para propietarios y
+
+empleados de establecimientos o locales cuyo giro sea el
+
+control de plagas y a los de maquiladoras y empresas con
+
+programas de exportación que utilicen sustancias químicas en
+
+sus procesos; por persona: 5
+
+e) Asesoría en materia de operatividad técnica de
+
+establecimientos de atención médica; por evento: 10
+
+f) Asesoría en materia de normatividad sanitaria de
+
+establecimientos de atención médica; por evento: 10
+
+g) Otras no consideradas en esta fracción; por unidad
+
+o por evento: 10
+
+IV. De los Servicios del Laboratorio Estatal de Salud Pública
+
+a) Prueba Tamiz VIH 2
+
+b) Confirmatorio de VIH CON W BLOT 25
+
+c) VDRL (Sífilis) 1
+
+d) Prueba confirmatoria Sífilis (Treponema Pallidum) 2.5
+
+e) Hepatitis B superficie y core 5.5
+
+f) Hepatitis C 2
+
+g) Hepatitis A 2
+
+h) Hepatitis B 5.5
+
+i) Paludismo 2
+
+j) V.- cholerae, hisopo de Moore e Hisopos rectales: 4
+
+k) Dengue Ig M 2
+
+l) Dengue Ig G 3
+
+m) Sarampión Ig M 4
+
+n) Sarampión Ig G 5
+
+o) Rubéola Ig G 4.5
+
+p) Rubéola Ig M 6
+
+q) TORCH 26
+
+r) Brucella Tamiz con Rosa de Bengala 1
+
+s) Brucella confirmatoria 3
+
+t) Conteo de Linfocitos CD 4 y CD 8 12
+
+u) Carga Viral para VIH 38
+
+v) Aislamiento e identificación de entero bacterias en
+
+muestras fecales 4
+
+w) Identificación del virus de rabia en necropsias 3
+
+x) Cuenta de Mesofílicos Aerobios 3.5
+
+y) Coniformes totales en placa 3
+
+z) Coniformes Totales 3
+
+a.1) Coliformes fecales 3.5
+
+b.1) Escherichia coli 3.5
+
+c.1) Salmonella 5.5
+
+d.1) Staphylococcus Aureus 5.5
+
+e.1) Hongos y levaduras 5.5
+
+f.1) V. Cholerae 4
+
+g.1) Fluor en Agua 3
+
+h.1) Arsénico en agua 3
+
+i.1) Plomo en agua 3
+
+j.1) Tuberculosis (baciloscopia) 1
+
+k.1) Tuberculosis (cultivo Mycobacterium) 6
+
+l.1) Otras pruebas no consideradas 10
+
+V. De las Licencias:
+
+a) Licencia sanitaria estatal anual para microempresa:
+
+ferreteras, tiendas de pinturas con ventas de solventes: 10
+
+b) Licencia sanitaria estatal anual para pequeña empresa:
+
+Ferreteras, tiendas de pinturas con ventas de solventes: 20
+
+c) Licencia sanitaria estatal anual para mediana empresa:
+
+ferreteras, tiendas de pinturas con ventas de solventes 40
+
+d) Licencia sanitaria estatal anual para gran empresa:
+
+Ferreteras, tiendas de pinturas con ventas de solventes: 100
+
+e) Otras licencias no consideradas: 20
+
+VI. Servicios diversos:
+
+a) Visita de verificación de las condiciones sanitarias de
+
+establecimientos: 15
+
+b) Permiso de exhumación y/o reinhumación: 10
+
+c) Expedición de certificado sobre calidad bacteriológica de
+
+pozo de agua para abastecimiento privado: 20
+
+d) Expedición de copias certificadas de documentos; por
+
+cada foja: .2
+
+e) Otros servicios no considerados: 10
 
 ###### ARTICULO 58.
 
-Los servicios que se presten por el Registro Civil causarán el pago de Derechos, en base a días de salario o fracción del mismo, conforme a lo siguiente:
+Los servicios que se presten por Actos del Registro Civil, causarán el pago de Derechos, en base a días de salario o fracción del mismo, conforme a lo siguiente:
 
-(VEASE ARCHIVO ANEXO)
+DIAS DE PORCENTAJE
+
+SALARIO
+
+I Registro de Nacimiento:
+
+a) Dentro de la oficina del Registro Civil. EXENTO
+
+b) Fuera de la oficina del Registro Civil,
+
+salvo en el caso de enfermedad en
+
+menores de 180 días. 3
+
+II Registro de defunciones. 1
+
+III Registro de matrimonios:
+
+a) Dentro de las oficinas del Registro Civil. 5
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+b) Fuera de la oficina del
+
+Registro Civil, salvo en caso
+
+de enfermedad de los
+
+contrayentes: 20
+
+IV Registro de Divorcios. 5
+
+V La corrección de actas y anotaciones
+
+Marginales, cuando el error no sea
+
+propio del registro. 4
+
+VI La inscripción de actas de adopción,
+
+tutela, de ejecutorias que declaren la
+
+ausencia, la presunción de muerte o que
+
+se ha perdido la capacidad legal para
+
+administrar bienes; o bien de las
+
+resoluciones o sentencias que
+
+rectifiquen o modifiquen un acto del
+
+Registro Civil. 5
+
+VII La inscripción de actos o hechos
+
+registrados en el extranjero. 10
+
+VIII La búsqueda de registros o datos. 1
+
+IX Expedición de certificados de
+
+inexistencia de registro de actos del
+
+estado civil. 2
+
+X Expedición de copias certificadas de
+
+actas de registro, por cada hoja. 1
+
+XI Certificación de firmas. 3
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+XII. Registro de reconocimientos: 5
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+XIII. Anotaciones en los registros
+
+por mandato judicial a petición
+
+de la parte interesada: 6
+
+XIV. Otros servicios no especificados
+
+en las fracciones anteriores: 3
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 59.
 
-Los servicios que preste la Dirección General de Catastro, o sus delegaciones, causarán derechos, en días de salario mínimo o fracción del mismo, de acuerdo a lo siguiente:
+Los servicios que preste la Dirección General de Catastro, o sus delegaciones, causarán derechos, conforme a un porcentaje de la base que corresponda, o en días de salario mínimo o fracción del mismo, de acuerdo a lo siguiente:
 
-(VEASE ARCHIVO ANEXO)
+DIAS DE PORCENTAJE
 
-### CAPITULO UNICO
+SALARIO
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+I.- Certificación de inscripción en el padrón
+
+catastral, por cada predio. 2.0
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+II.- Certificación de no inscripción en el
+
+padrón catastral, por cada predio. 2.0
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+III.- Por la expedición del título de propiedad
+
+del lote dentro del fundo legal. 6.0
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+IV.- Certificación de antecedente de
+
+expedición de título de propiedad de lote
+
+dentro de un fundo legal. 6.0
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+IV Bis.- Constancia de antecedentes y/o datos de
+
+lote de fundo legal. 3.0
+
+V.- Por medición de terrenos y elaboración
+
+de plano, tratándose de predios urbanos, en
+
+tamaño carta u oficio, de acuerdo con la
+
+siguiente tabla:
+
+a).- Por terreno:
+
+1) De 1 hasta 200 m2 10
+
+2) De 200.01 hasta 350.0 m2 11
+
+3) De 350.01 hasta 550.0 m2 12
+
+4) De 550.01 hasta 1000.0 m2 14
+
+5) De 1000.01 hasta 3000.0 m2 16
+
+6) De 3000.01 en adelante 21
+
+El excedente del tamaño del plano se
+
+cobrará por centímetro cuadrado a razón de 0.10
+
+b).- Por elaboración del plano de
+
+construcción en planta, por cada 50m2 o
+
+fracción, en tamaño carta u oficio. 1
+
+El excedente del tamaño del plano se
+
+cobrará por centímetro cuadrado a razón de. 0.10
+
+Los costos anteriores se incrementarán de
+
+acuerdo a la distancia que exista entre el
+
+límite urbano de la ciudad donde se
+
+encuentre ubicada la Dirección General de
+
+Catastro o cualquiera de sus delegaciones.
+
+de acuerdo a lo siguiente:
+
+1) Por kilómetro pavimentado 0.17
+
+2) Por kilómetro de brecha o terracería 0.27
+
+La clasificación del terreno y la distancia se
+
+determinarán de acuerdo con las cartas
+
+topográficas elaboradas por ésta Dirección.
+
+VI.- Por medición de terrenos y elaboración
+
+de plano tratándose de predios rústicos, en
+
+tamaño carta u oficio, de acuerdo con la
+
+siguiente tabla:
+
+a).- Terreno plano o lomerio:
+
+1) De 1 a 10 HAS. 55
+
+2) De 10.01 a 50.0 HAS. 100
+
+3) De 50.01 a 100.0 HAS. 1.86 por HA ó fracción
+
+4) De 100.01 A 500.0 HAS. 1.10 por HA ó fracción
+
+5) De 500.01 a 1000.0 HAS. 0.77 por HA ó fracción
+
+6) De 1000.01 a 2000 HAS. 0.55 por HA ó fracción
+
+7) De 2000.01 en adelante 0.39 por HA ó fracción
+
+b).- Terreno quebrado:
+
+1) De 1 a 10 136
+
+2) De 10.01 a 50.0 200
+
+3) De 50.01 a 100.0 HAS. 3.38 por HA ó fracción
+
+4) De 100.01 a 500.0 2.00 por HA ó fracción
+
+5) De 500.01 a 1000.0 HAS. 1.40 por HA ó fracción
+
+6) De 1000.01 a 2000 HAS. 1.00 por HA ó fracción
+
+7) De 2000.01 en adelante. 0.70 por HA ó fracción
+
+El excedente del tamaño del plano, se
+
+cobrará por centímetro cuadrado a razón de. 0.10
+
+Los costos anteriores se incrementarán de
+
+acuerdo a la distancia que exista entre el
+
+límite urbano de la ciudad donde se
+
+encuentre ubicada la Dirección General de
+
+Catastro o cualquiera de sus delegaciones,
+
+de acuerdo a lo siguiente:
+
+1) Por kilómetro pavimentado 0.17
+
+2) Por kilómetro de brecha o terracería 0.27
+
+La clasificación del terreno y la distancia se
+
+determinarán de acuerdo con las cartas
+
+topográficas elaboradas por ésta Dirección.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+VI Bis.- Expedición de plano de localización
+
+tamaño carta. 3.0
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+VII.- Expedición de carta urbana. 4
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+VIII.- Expedición de copia de plano, tamaño
+
+carta. 2
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+IX.- Certificación de documentos. 3
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+X.- Registro catastral de fraccionamientos o
+
+relotificación, por lote. 2.0
+
+XI.- Por la expedición de avaluó catastral:
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
+a) Con valor catastral de 1 hasta 1875 salarios
+
+mínimos. 6.0
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+b) Por el excedente del valor catastral
+
+de 1875 hasta 7200 salarios mínimos. 0.25
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+c) Por el excedente del valor catastral
+
+de 7200 salarios mínimos. 0.20
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+
+XII.- Deslinde catastral simple dentro del
+
+perímetro urbano de la ubicación de la
+
+Dirección General de Catastro o sus
+
+Delegaciones. 5
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+XIII.- Expedición de copias de plano: 4.0
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+XIV.- Por la búsqueda de toda información
+
+relacionada con los predios catastrales
+
+registrados. 2.0
+
+XV.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+XVI.- Por corrección de información remitida por
+
+Usuarios. 2.0
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+XVII.- Por impresión de fotografía aérea blanco y
+
+negro a 4x1 metro cuadrado (aprox.). 10.0
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+XVIII.- Por impresión de fotografía aérea blanco y
+
+negro a 2x50 centímetros cuadrados (aprox.). 5.0
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+XIX.- Por impresión de fotografía aérea blanco y
+
+negro de 23 por 23 centímetros. 2.0
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+XX.- Expedición de croquis de localización de
+
+predio urbano tamaño carta. 3.0
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+XXI.- Llenado de hoja de traslado
+
+de dominio: 1.0
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+XXII.- Expedición de copias de
+
+antecedentes: 1.0
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+XXIII.- Validación de planos para
+
+trámites de actos de traslado
+
+de dominio: 2.0
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+XXIV.- Otros servicios no especificados en las
+
+fracciones anteriores. 3.0
+
+### CAPITULO UNICO
+
 ###### ARTICULO 60.
 
-Los derechos por los servicios que presta el estado relacionados con el tránsito vehicular, deberán ser cubiertos con una cuota representada en base a días de salario mínimo o fracción del mismo, según el servicio que se preste en los términos siguientes:
+Los derechos por los servicios que presta el Estado relacionados con el tránsito vehicular, deberán ser cubiertos con una cuota representada en base a días de salario mínimo o fracción del mismo, según el servicio que se preste en los términos siguientes:
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -1317,27 +2005,79 @@ c) Tercer Permiso hasta por quince días. 50
 
 IV. Reposición de tarjetas de circulación. 7
 
-V. Por los avisos de actualización de datos al padrón de vehículos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+V. Por los avisos de actualización de datos al Padrón de vehículos:
 
 1.- Cambio de propietario 7
 
 2.- Cambio de domicilio exento
 
-3.- Baja del padrón exento
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-4.- Baja de vehículos con placas de otros estados 1
+3.- Cambio del servicio al que se encuentre
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
+destinado: 4
 
-5.- Cambio de vehículo en el servicio
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-público 4
+4.- Cambio de vehículo en el servicio público: 4
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+5.- Robo: exento
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+6.- Recuperación de vehículo robado: exento
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+7.- Baja ocasionada por destrucción o desarme: exento
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+8.- Baja de vehículos con placas de otros estados: 4
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+Los avisos anteriores deberán presentarse ante la
+
+oficina recaudadora correspondiente, dentro de
+
+los 10 días hábiles posteriores a la actualización
+
+de cualquier causa. Su presentación extemporánea
+
+será sancionada con una multa de 5 salarios mínimos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+Para obtener la baja definitiva del vehículo en los
+
+casos de cambio de propietario y cambio de domicilio
+
+fuera del Estado, por destrucción, desarme y cambio
+
+en el servicio a que se destine el vehículo, será
+
+preciso comprobar que no se tiene adeudo con
+
+el fisco del Estado, y devolver las placas y tarjeta
+
+de circulación correspondiente.
 
 VI. Por la inspección o revisión de automóviles,
 
 camionetas, camiones, autobuses, remolques y
 
 similares. 4
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+VII. Por la incorporación al servicio de
+
+control vehicular: 16
 
 B.- LICENCIAS DE MANEJO
 
@@ -1385,15 +2125,11 @@ licencia de chofer de servicio público o
 
 particular. 2
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 61.
 
-Los derechos generado por el servicio de control en la expedición del holograma por refrendo anual; ratificación anual de concesiones, permisos o autorizaciones y explotación de permisos de ruta anual, deberán ser cubiertos dentro de los primeros tres meses de cada año en las oficinas aprobadas por la Secretaría de Finanzas y de Administración. Si se elige la opción de pago vía Internet en línea; el impuesto se tendrá por pagado una vez que sea registrado por el sistema y valorado por la autoridad respectiva
-
-Los derechos por el servicio de control en el canje de placas de circulación, deberán pagarse dentro de los primeros tres meses del año calendario que corresponda.
-
-En tratándose de vehículos nuevos, el pago por el servicio de control vehicular en la dotación inicial de placas y refrendo anual, deberán ser cubiertos de conformidad con lo establecido en el artículo 62 de la presente ley, en cuyo caso, el pago deberá efectuarse dentro del plazo de quince días contados a partir de la fecha de adquisición del vehículo. Dicho pago deberá realizarse en los términos establecidos en el primer párrafo del presente artículo.
+Los derechos por canje de placas de circulación; refrendo anual; ratificación anual de concesiones, permisos o autorizaciones; explotación de permisos de ruta anual; expedición de tarjetas de circulación y engomados, deberán pagarse dentro de los primeros tres meses de cada año de calendario, en las oficinas autorizadas que corresponda, en las formas oficiales que apruebe la Secretaría de Finanzas y de Administración. Si se elige la opción de pago vía Internet en línea, el derecho se tendrá por pagado una vez que sea registrado por el sistema y valorado por la autoridad respectiva.
 
 ###### ARTICULO 62.
 
@@ -1599,6 +2335,8 @@ a que se refiere la fracción IV de este artículo.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
+### CAPITULO UNICO
+
 ###### ARTICULO 67.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
@@ -1612,6 +2350,10 @@ a que se refiere la fracción IV de este artículo.
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE JUNIO DE 2003)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
@@ -1772,3 +2514,7 @@ P.O. 2 DE NOVIEMBRE DE 2006.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO. El canje de placas se llevará a cabo cada tres años independientemente de la fecha de la adquisición del vehículo. Estableciéndose los siguientes años para el canje de placas: 2003, 2006, 2009, 2012 y cada tres años sucesivamente.
+
+P.O. 21 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
