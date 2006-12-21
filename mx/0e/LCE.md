@@ -4,7 +4,7 @@ identifier: "LCE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-27"
-last_updated: "2006-01-24"
+last_updated: "2006-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCE"
 
 LEY DE COMERCIO EXTERIOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 27 de julio de 1993.
 
@@ -660,9 +660,9 @@ A partir del día siguiente a aquel en que se publique la resolución de inicio 
 
 Con la notificación se enviará copia de la solicitud presentada y de los anexos que no contengan información confidencial o, en su caso, de los documentos respectivos tratándose de investigaciones de oficio.
 
-> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2006)</small>
 
-Dentro de los 28 días contados a partir del día siguiente a aquel en que se publique la resolución de inicio, las partes interesadas deberán presentar los argumentos, información y pruebas conforme a lo previsto en la legislación aplicable.
+Se dará a las partes interesadas a quienes se envíen los formularios utilizados en una investigación, un plazo de 23 días para que presenten los argumentos, información y pruebas conforme a lo previsto en la legislación aplicable. Los plazos dados a las partes interesadas se contarán a partir de la fecha de recibo del formulario, el cual a tal efecto se considerará recibido 5 días después de la fecha en que haya sido enviado al destinatario o transmitido al representante diplomático competente del gobierno del país del exportador, o en el caso de un territorio aduanero distinto, a un representante oficial del territorio exportador.
 
 ###### ARTICULO 54.
 
@@ -750,7 +750,9 @@ Las cuotas compensatorias serán consideradas como aprovechamientos en los térm
 
 La Secretaría calculará márgenes individuales de discriminación de precios o de subvenciones para aquellas productoras extranjeras que aporten la información suficiente para ello; dichos márgenes individuales servirán de base para la determinación de cuotas compensatorias específicas.
 
-La Secretaría determinará una cuota compensatoria con base en el margen de discriminación de precios o de subvenciones más alto obtenido con base en los hechos de que se tenga conocimiento, en los siguientes casos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2006)</small>
+
+La Secretaría determinará una cuota compensatoria con base en el margen de discriminación de precios o de subvenciones obtenido con base en la mejor información disponible a partir de los hechos de que se tenga conocimiento, en los siguientes casos:
 
 I. Cuando los productores no comparezcan en la investigación; o
 
@@ -766,6 +768,16 @@ La Secretaría de Hacienda y Crédito Público procederá al cobro de las cuotas
 
 Si en la resolución final se confirma la cuota compensatoria provisional, se requerirá el pago de dicha cuota o, en su defecto, se harán efectivas las garantías que se hubieren otorgado. Si en dicha resolución se modificó o revocó la cuota, se procederá a cancelar o modificar dichas garantías o, en su caso, a devolver, con los intereses correspondientes, las cantidades que se hubieren enterado por dicho concepto o la diferencia respectiva.
 
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 65 A.- En el caso de la discriminación de precios que cause daño a la rama de producción nacional, corresponde a la Secretaría determinar la aplicación de una cuota compensatoria definitiva sobre las mercancías sujetas a investigación que se hayan importado durante los tres meses anteriores a la fecha de aplicación de las medidas provisionales cuando en relación con el producto objeto de discriminación de precios investigado, la autoridad determine:
+
+a) Que hay antecedentes de discriminación de precios causante de daño o que el importador sabía o debía haber sabido que el exportador incurría en discriminación de precios y que ésta causaría daño, y
+
+b) Que el daño se deba a importaciones masivas de un producto objeto de discriminación de precios, efectuadas en un periodo relativamente corto y la Secretaría considere que por su temporalidad, su volumen y otras circunstancias (tales como una rápida acumulación de existencias del producto importado), es probable que socaven gravemente el efecto reparador de la cuota compensatoria definitiva que deba aplicarse, a condición de que se haya dado a los importadores interesados la oportunidad de hacer observaciones.
+
+En el caso de las subvenciones que causen daño a la rama de producción nacional, cuando respecto del producto subvencionado de que se trate la autoridad investigadora concluya que existe un daño difícilmente reparable, es decir, cuando existan circunstancias críticas, causado por importaciones masivas, efectuadas en un período relativamente corto, de un producto que goza de subvenciones pagadas o concedidas de forma incompatible con las disposiciones aplicables y cuando, para impedir que vuelva a producirse el daño, se estime necesario percibir retroactivamente cuotas compensatorias sobre esas importaciones, corresponde a la Secretaría determinar la aplicación de la cuota compensatoria definitiva a las mercancías que se hayan importado tres meses como máximo antes de la fecha de aplicación de las medidas provisionales.
+
 > <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 66.
@@ -778,11 +790,11 @@ Los importadores de una mercancía idéntica o similar a aquélla por la que deb
 
 Las cuotas compensatorias definitivas estarán vigentes durante el tiempo y en la medida necesarios para contrarrestar el daño a la rama de producción nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 68.
 
-Las cuotas compensatorias definitivas deberán revisarse anualmente a petición de parte o en cualquier tiempo de oficio por la Secretaría, al igual que las importaciones provenientes de productoras a quienes en la investigación no se les haya determinado un margen de discriminación de precios o de subvenciones positivo.
+Las cuotas compensatorias definitivas podrán revisarse anualmente a petición de parte o en cualquier tiempo de oficio por la Secretaría, independientemente de que dichas cuotas se encuentren sujetas a un mecanismo alternativo de solución de controversias o a un procedimiento administrativo o judicial.
 
 > <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2003)</small>
 
@@ -790,9 +802,7 @@ En todo caso, las resoluciones que declaren el inicio y la conclusión de la rev
 
 Las resoluciones correspondientes que confirmen, modifiquen o revoquen cuotas compensatorias definitivas tendrán también el carácter de resoluciones finales y se someterán previamente a la opinión de la Comisión.
 
-> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2003)</small>
-
-La solicitante de una revisión deberá demostrar ante la Secretaría que el volumen de las exportaciones realizadas a México durante el período de revisión es representativo.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 69.
 
@@ -1010,7 +1020,9 @@ ARTICULO 89 C.- Las partes interesadas podrán solicitar a la Secretaría, en cu
 
 ARTICULO 89 D.- Los productores cuyas mercancías estén sujetas a una cuota compensatoria definitiva y que no hayan realizado exportaciones de esas mercancías durante el período investigado en el procedimiento que dio lugar a la cuota compensatoria de que se trate, podrán solicitar a la Secretaría el inicio de un procedimiento para nuevos exportadores a efecto de que ésta se pronuncie sobre los márgenes individuales de discriminación de precios, siempre que:
 
-I. Hayan efectuado operaciones de exportación al territorio nacional de la mercancía objeto de cuotas compensatorias con posterioridad al período investigado en el procedimiento que dio lugar a la cuota compensatoria de que se trate. La parte solicitante deberá demostrar ante la Secretaría que el volumen de las exportaciones realizadas durante el período de revisión son representativas; y
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2006)</small>
+
+I. Hayan efectuado operaciones de exportación al territorio nacional de la mercancía objeto de cuotas compensatorias con posterioridad al período investigado en el procedimiento que dio lugar a la cuota compensatoria de que se trate, y
 
 II. Demuestren que no tienen vinculación alguna con los productores o exportadores del país exportador a quienes se les haya determinado cuota compensatoria específica.
 
@@ -1108,15 +1120,15 @@ III. Proporcionar datos o documentos falsos u omitir los reales o alterarlos par
 
 IV. Omitir la presentación a la Secretaría de los documentos o informes en los casos a los que se refiere el artículo 55 dentro del plazo señalado en el requerimiento respectivo, con multa de 180 veces el salario mínimo;
 
-> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2003)</small>
-
-V. Importar, una vez iniciada la investigación, mercancías idénticas o similares en volúmenes significativos, en relación con el total de las importaciones y la producción nacional, en un período relativamente corto, cuando por su temporalidad, su volumen y otras circunstancias, se considere probable que socaven el efecto reparador de la cuota compensatoria, con una multa equivalente al monto que resulte de aplicar la cuota compensatoria definitiva a las importaciones efectuadas hasta por los cinco meses posteriores a la fecha de inicio de la investigación respectiva. Esta sanción sólo será procedente una vez que la Secretaría haya dictado la resolución en la que se determinen cuotas compensatorias definitivas, y
+V. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2006)
 
 VI. Divulgar información confidencial o utilizar ésta para beneficio personal, en los términos del artículo 80 de esta Ley o, en relación a los mecanismos de solución de controversias establecidos en los tratados o convenios internacionales de los que México sea parte, con multa proporcional al perjuicio que se ocasione o al beneficio que se obtenga por la divulgación o uso de dicha información.
 
 Para los efectos de este artículo, se entenderá por salario mínimo el general diario vigente en el Distrito Federal al momento de cometerse la infracción.
 
-Para la aplicación de la multa a que se refieren las fracciones V y VI de este artículo, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, así como los antecedentes, circunstancias personales y situación económica del infractor.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2006)</small>
+
+Para la aplicación de la multa a que se refiere la fracción VI de este artículo, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, así como los antecedentes, circunstancias personales y situación económica del infractor.
 
 Las multas a que se refiere este artículo se impondrán independientemente de las sanciones penales y civiles que corresponda, en los términos de legislación aplicable. Para la imposición de las multas se deberá oír previamente al presunto infractor.
 
@@ -1200,9 +1212,13 @@ En relación a las resoluciones y actos a que se refieren las fracciones IV, V, 
 
 I. No procederá el recurso de revocación previsto en el artículo 94 ni el juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa contra dichas resoluciones, ni contra la resolución de la Secretaría dictada como consecuencia de la decisión que emane de dichos mecanismos alternativos, y se entenderá que la parte interesada que ejerza la opción acepta la resolución que resulte del mecanismo alternativo de solución de controversias;
 
-II. Sólo se considerará como definitiva la resolución de la Secretaría dictada como consecuencia de la decisión que emane de los mecanismos alternativos, y
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2006)</small>
 
-III. Se observará lo establecido en el artículo 238 del Código Fiscal de la Federación.
+II. Sólo se considerará como final la resolución de la Secretaría dictada como consecuencia de la decisión que emane de los mecanismos alternativos. Las partes interesadas que acudan a un mecanismo alternativo de solución de controversias o, en su caso, las partes interesadas sujetas al pago de cuota compensatoria que podría modificarse en virtud de tal mecanismo, podrán garantizar las cuotas compensatorias definitivas en los términos de la fracción III del artículo 98 de esta Ley. Asimismo, en caso de que la cuota compensatoria determinada en las revisiones administrativas sea menor que la vigente al momento en que se inicie el mecanismo alternativo de solución de controversias, deberán garantizar o pagar la diferencia entre dichas cuotas en tanto dicho mecanismo no se resuelva de forma definitiva, y
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2006)</small>
+
+III. Se observará lo establecido en el artículo 51 de la Ley Federal de Procedimiento Contencioso Administrativo.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
@@ -1267,3 +1283,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Para efectos de lo dispuesto por la fracción VII, del artículo 4o. de esta Ley, las Dependencias y Entidades de la Administración Pública Federal que administren o controlen una restricción o regulación no arancelaria, deberán desarrollar en un plazo no mayor a 12 meses, contados a partir de la entrada en vigor del presente Decreto, un plan de trabajo en el que establecerán responsables, metas, plazos comprometidos y además acciones necesarias para interconectarse electrónicamente con la Secretaría de Economía y con la Secretaría de Hacienda y Crédito Público.
 
 Asimismo se establecerá la interconexión electrónica con las entidades prevalidadoras autorizadas en términos de lo dispuesto por el artículo 16-A de la Ley Aduanera, a fin de que el agente o apoderado aduanal estén en posibilidades de verificar el cumplimiento con las restricciones o regulaciones no arancelarias que correspondan.
+
+D.O.F. 21 DE DICIEMBRE DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación, y será aplicable a la totalidad de las importaciones, independientemente de su origen y procedencia, incluidas las de Estados Unidos de América y Canadá.
+
+Segundo. Las disposiciones del Reglamento de la Ley de Comercio Exterior publicado en el Diario Oficial de la Federación el 30 de diciembre de 1993, continuarán aplicándose en todo lo que no se oponga al presente Decreto, hasta que se expidan las reformas correspondientes.
+
+Tercero. Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley de Comercio Exterior publicada en el Diario Oficial de la Federación el 27 de julio de 1993, y de las reformas a dicha ley publicadas en dicho órgano informativo el 13 de marzo de 2003 y 24 de enero de 2006.
