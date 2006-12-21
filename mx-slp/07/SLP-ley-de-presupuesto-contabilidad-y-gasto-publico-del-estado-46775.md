@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-4677
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-16"
-last_updated: "2005-08-16"
+last_updated: "2006-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADA EN EL P.O. DE 21 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de agosto de 2005.
 
@@ -510,3 +512,17 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE DICIEMBRE DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 16 de agosto de 2005.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en esta Ley.
+
+CUARTO. Las disposiciones administrativas en uso a la fecha de entrada en vigor de la presente Ley, seguirán teniendo aplicación en lo que no se opongan al presente Ordenamiento.
+
+QUINTO. El Ejecutivo del Estado deberá emitir el Reglamento de esta Ley dentro de los noventa días siguientes a su entrada en vigor. En tanto, se aplicará el Reglamento de la ley anterior en lo que no se oponga a este Ordenamiento.
