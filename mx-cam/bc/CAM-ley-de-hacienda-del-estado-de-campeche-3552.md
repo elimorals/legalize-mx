@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "2005-12-06"
+last_updated: "2006-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 21 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -1834,3 +1836,25 @@ P.O. 6 DE DICIEMBRE DE 2005.
 PRIMERO.- El presente decreto, entrará en vigor el día uno de enero del año dos mil seis, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Las modificaciones a la Ley Orgánica del Instituto Campechano, a la Ley de Control Presupuestal y Gasto Público del Estado de Campeche y a la Ley Orgánica de la Administración Pública del Estado de Campeche, contenidas en el presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Ley de Hacienda del Estado de Campeche contenida en este mismo Decreto, entrará en vigor el día uno de enero de dos mil siete, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Hacienda del Estado de Campeche, publicada en el Periódico Oficial del Estado el 11 de diciembre de 1992, así como todos aquellos decretos que en su oportunidad la modificaron y se derogan todas las demás disposiciones legales, reglamentarias y administrativas de carácter general en lo que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se transfieren al organismo descentralizado creado por este Decreto todos los bienes muebles e inmuebles con los que actualmente cuenta el Instituto Campechano. Igualmente se transfieren a dicho descentralizado los recursos humanos con que cuenta el referido Instituto, quedando a salvo los derechos laborales de los mismos.
+
+###### ARTÍCULO QUINTO.
+
+Se autoriza al Ejecutivo del Estado por conducto de su Secretario de Finanzas y Administración y, a los Municipios por conducto de sus presidentes y secretarios de sus respectivos Ayuntamientos, a celebrar Convenios de Colaboración Administrativa en Materia Hacendaría de Ingresos, para que los Municipios efectúen la administración del Impuesto Sobre Nóminas que éstos mismos causen.
