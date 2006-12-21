@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-instituto-campechano-3928"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1965-08-31"
-last_updated: "1996-12-27"
+last_updated: "2006-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DEL INSTITUTO CAMPECHANO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 31 de agosto de 1965
 
@@ -43,11 +43,11 @@ LEY ORGANICA DEL INSTITUTO CAMPECHANO
 
 Se restablece el Instituto Campechano, que desapareció al crearse la Universidad de Campeche.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 2o.
 
-El Instituto Campechano es una institución pública, dotada de plena capacidad jurídica y organizada para impartir educación media, media-superior, superior y cursos de posgrado; así como capacitar para el ejercicio de alguna actividad técnica o artística, y poner la cultura, con la mayor amplitud posible, al servicio de la colectividad.
+El Instituto Campechano es un organismo descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propios, dotado de autonomía operativa y de plena capacidad jurídica y organizado para impartir educación técnica profesional, media-superior, superior, este último compuesto por licenciaturas, especialidades, maestrías y doctorados, también por opciones terminales previas a la conclusión de la licenciatura; comprende también la educación normal en todos sus niveles y especialidades, y talleres, cursos, seminarios y diplomados; así como dar capacitación para el ejercicio de actividades técnicas, artísticas o culturales. Este Instituto quedará sectorizado a la Secretaría de Educación, Cultura y Deporte.
 
 ###### Artículo 3o.
 
@@ -290,6 +290,10 @@ I.- Ejercer el supremo gobierno del Instituto Campechano, sujetándose a las pre
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 II.- Administrar los fondos que constituyen el patrimonio del Instituto y expedir el Reglamento para el pago de derechos por actos oficiales de la Institución, tales como inscripciones, exámenes de posgrado, profesionales, extraordinarios y a título de suficiencia, certificados, expedición y registro de títulos y grados, y los demás a que se contrae esta ley;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+II Bis.- Establecer los costos por los servicios educativos que proporcione y, en general, por todos los demás servicios que preste;
 
 III.- Aprobar el presupuesto general anual de ingresos y egresos del Instituto, que abarcará el período comprendido entre el primero de septiembre y el treinta y uno de agosto del año siguiente, el cual será formulado por el Director del Instituto, oyendo para ello a la Comisión de Hacienda del Consejo General;
 
@@ -846,3 +850,25 @@ P.O. 27 DE DICIEMBRE DE 1996.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Las modificaciones a la Ley Orgánica del Instituto Campechano, a la Ley de Control Presupuestal y Gasto Público del Estado de Campeche y a la Ley Orgánica de la Administración Pública del Estado de Campeche, contenidas en el presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Ley de Hacienda del Estado de Campeche contenida en este mismo Decreto, entrará en vigor el día uno de enero de dos mil siete, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Hacienda del Estado de Campeche, publicada en el Periódico Oficial del Estado el 11 de diciembre de 1992, así como todos aquellos decretos que en su oportunidad la modificaron y se derogan todas las demás disposiciones legales, reglamentarias y administrativas de carácter general en lo que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se transfieren al organismo descentralizado creado por este Decreto todos los bienes muebles e inmuebles con los que actualmente cuenta el Instituto Campechano. Igualmente se transfieren a dicho (sic) descentralizado los recursos humanos con que cuenta el referido Instituto, quedando a salvo los derechos laborales de los mismos.
+
+###### ARTÍCULO QUINTO.
+
+Se autoriza al Ejecutivo del Estado por conducto de su Secretario de Finanzas y Administración y, a los Municipios por conducto de sus presidentes y secretarios de sus respectivos Ayuntamientos a celebrar Convenios de Colaboración Administrativa en Materia Hacendaria de Ingresos, para que los Municipios efectúen la administración del Impuesto Sobre Nóminas que éstos mismos causen.
