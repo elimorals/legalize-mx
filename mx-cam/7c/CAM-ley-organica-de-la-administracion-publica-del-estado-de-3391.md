@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-3391"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-26"
-last_updated: "2004-06-15"
+last_updated: "2006-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 26 de octubre de 1991.
 
@@ -156,6 +156,10 @@ Al frente de cada dependencia habrá un titular quien, para el despacho de los a
 > <small>(ADICIONADO, P.O. 11 DE MARZO DE 1995)</small>
 
 El nombramiento, concesión de licencia y remoción de esos titulares corresponderá al Gobernador del Estado, quien en caso de ausencias temporales o accidentales designará al servidor público que deba sustituirlos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+En caso de renuncia o remoción del titular de alguna dependencia, el Gobernador nombrará al nuevo titular o, en su caso, designará al servidor público que con carácter de Encargado del Despacho lo sustituya, hasta en tanto proceda el nombramiento del nuevo titular. El servidor público que sea designado con carácter de Encargado del Despacho, tendrá las mismas facultades que esta Ley otorga a su titular.
 
 ###### Artículo 16.
 
@@ -493,7 +497,13 @@ VII.- Verificar el cumplimiento de las disposiciones en materia de planeación, 
 
 VII-Bis.- Autorizar, conjuntamente con la Secretaría de Finanzas y Administración, en el ámbito de sus respectivas competencias, las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Estatal y sus modificaciones, así como registrar dichas estructuras para efectos de desarrollo y modernización de los recursos humanos;
 
-VIII.- Opinar sobre los nombramientos y en su caso solicitar la remoción de los titulares de las áreas de control de las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+VIII.- Designar y remover con las salvedades que establezcan las leyes relativas, a los titulares y demás personal de los órganos internos de control de las dependencias y entidades de la administración Pública Estatal, titulares y personal que le estarán presupuestal y orgánicamente adscritos;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+VIII-Bis.- Designar y remover con las salvedades que establezcan las leyes relativas, a los comisarios en los órganos de gobierno o vigilancia de las entidades de la administración pública paraestatal, cuyas atribuciones se determinarán en la correspondiente reglamentación;
 
 IX.- Proponer y designar a los auditores externos de las entidades del sector paraestatal;
 
@@ -513,7 +523,9 @@ XIII-Bis.- Procurar la coordinación interinstitucional permanente en las accion
 
 XIV.- Coordinarse con la Auditoría Superior del Estado para la uniformación de criterios y compatibilización de mecanismos de control y evaluación, para el mejor cumplimiento de sus atribuciones;
 
-XV.- Recibir y registrar las declaraciones patrimoniales de los servidores públicos estatales y municipales y practicar las investigaciones pertinentes, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+XV.- Recibir y registrar las declaraciones patrimoniales de los servidores públicos de las dependencias y entidades de la Administración Pública Estatal en los términos de la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
 
@@ -523,7 +535,9 @@ XVII.- Atender las quejas y denuncias que presenten los particulares sobre contr
 
 XVIII.- Dictar las normas internas de la Secretaría y vigilar su cumplimiento y, en su caso, aplicar las medidas correctivas, y, en su caso, hacer las denuncias o acusaciones que corresponda;
 
-XIX.- Vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche, así como conocer e investigar los actos y omisiones de los servidores públicos, y, en su caso, interponer las denuncias de naturaleza administrativa o penal correspondiente;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+XIX.- Identificar, investigar y determinar, por sí o por conducto de los respectivos órganos internos de control, las responsabilidades en que incurran los servidores públicos de las dependencias y entidades de la Administración Pública Estatal, derivadas del incumplimiento de las obligaciones que les impone la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche e imponerles las sanciones previstas en dicha ley y, en su caso, formular las respectivas denuncias o querellas ante la autoridad ministerial;
 
 XX.- Verificar las actas de entrega-recepción de las dependencias y entidades de la Administración Pública Estatal;
 
@@ -1106,3 +1120,25 @@ Sexto.- En lo sucesivo todas las referencias que en las leyes y reglamentos del 
 Séptimo.- El Gobernador del Estado en un plazo no mayor de 90 días, expedirá el acuerdo a que alude el último párrafo del artículo 38 de la Ley Orgánica de la Administración Pública del Estado.
 
 Octavo.- El Gobernador del Estado tomará las previsiones presupuestales necesarias para el debido cumplimiento de lo ordenado por este decreto.
+
+P.O. 21 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Las modificaciones a la Ley Orgánica del Instituto Campechano, a la Ley de Control Presupuestal y Gasto Público del Estado de Campeche y a la Ley Orgánica de la Administración Pública del Estado de Campeche, contenidas en el presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Ley de Hacienda del Estado de Campeche contenida en este mismo Decreto, entrará en vigor el día uno de enero de dos mil siete, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Hacienda del Estado de Campeche, publicada en el Periódico Oficial del Estado el 11 de diciembre de 1992, así como todos aquellos decretos que en su oportunidad la modificaron y se derogan todas las demás disposiciones legales, reglamentarias y administrativas de carácter general en lo que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se transfieren al organismo descentralizado creado por este Decreto todos los bienes muebles e inmuebles con los que actualmente cuenta el Instituto Campechano. Igualmente se transfieren a dicho (sic) descentralizado los recursos humanos con que cuenta el referido Instituto, quedando a salvo los derechos laborales de los mismos.
+
+###### ARTÍCULO QUINTO.
+
+Se autoriza al Ejecutivo del Estado por conducto de su Secretario de Finanzas y Administración y, a los Municipios por conducto de sus presidentes y secretarios de sus respectivos Ayuntamientos a celebrar Convenios de Colaboración Administrativa en Materia Hacendaria de Ingresos, para que los Municipios efectúen la administración del Impuesto Sobre Nóminas que éstos mismos causen.
