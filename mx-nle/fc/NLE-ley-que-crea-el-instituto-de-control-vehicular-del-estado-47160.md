@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2005-12-02"
+last_updated: "2006-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -525,6 +525,16 @@ El Instituto de Control Vehicular recibirá gradualmente la estructura, el perso
 
 Artículo Noveno. En caso de que el Instituto de Control Vehicular modifique su naturaleza jurídica o su denominación, o bien, su patrimonio se transfiera a una entidad diversa o se incorpore a la administración pública centralizada, se deberán respetar los derechos de terceros a los cuales se hayan cedido, o a favor de quienes se haya afectado, los derechos o ingresos que percibe o le correspondan de conformidad de lo dispuesto por la presente Ley, y la persona jurídica que pase a ser titular de dicho patrimonio será también causahabiente del Instituto en los actos jurídicos celebrados con dichos terceros.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+Artículo Décimo Transitorio. Durante el año 2007, los Municipios que se coordinen con el Instituto de Control Vehicular del Estado de Nuevo León para la vigilancia en el cumplimiento de las obligaciones en materia de control vehícular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
+
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los treinta días del mes de noviembre de 2005. PRESIDENTE: DIP. CÉSAR AGUSTÍN SERNA ESCALERA: DIP. SECRETARIA: ALICIA MARGARITA AYALA MEDINA: DIP. SECRETARIO: JULIO REYES RAMÍREZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE DICIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2007.
