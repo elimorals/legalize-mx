@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "2000-05-22"
+last_updated: "2006-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -6983,9 +6983,11 @@ Se tramitará en forma de incidente, que habrá de seguirse en todo caso con el 
 
 El permiso para que los cónyuges celebren contratos entre ellos o para obligarse solidariamente a ser fiador uno del otro, en los casos del artículo 186 del Código Civil, se tramitará también como dispone el artículo anterior.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 ###### Art. 1343.
 
-Las informaciones para obtener dispensa de ley se recibirán oyendo al Ministerio Público; y cuando deban recibirse con audiencia de alguna persona, se le admitirán los testigos y documentos que presente. También será oído el que se oponga a la solicitud, si tuviere interés legítimo en objetarla, dándose conocimiento de lo expuesto por el opositor, al que haya promovido la información y al Ministerio Público. Los escritos y documentos presentados se unirán al expediente y con él se remitirán al Gobierno.
+Las informaciones para obtener dispensa de ley para contraer matrimonio se recibirán oyendo a los representantes del Ministerio Público y de la Procuraduría de la Defensa del Menor, la Mujer y la Familia; y cuando deban recibirse con audiencia de alguna persona, se le admitirán los testigos y documentos que presente. También será oído el que se oponga a la solicitud, si tuviere interés legítimo en objetarla, dándose conocimiento de lo expuesto por el opositor, al que haya promovido la información y a los citados representantes.
 
 ###### Art. 1344.
 
@@ -7264,3 +7266,13 @@ P.O. 22 DE MAYO DE 2000.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2006.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- Las disposiciones de este decreto son aplicables a los juicios de divorcio y de nulidad de matrimonio que se encuentren en trámite a la fecha en que cobre vigencia.
+
+Cuarto.- Todas las solicitudes de dispensa que se encuentren en trámite ante el Gobernador del Estado a la entrada en vigor del presente decreto, se remitirán al H. Tribunal Superior de Justicia del Estado para que éste a su vez las turne al Juzgado Familiar que corresponda para su continuación y resolución. Las solicitudes de suplencia de consentimiento que también se encuentren en trámite ante dicho Gobernador se tendrán como no interpuestas.
