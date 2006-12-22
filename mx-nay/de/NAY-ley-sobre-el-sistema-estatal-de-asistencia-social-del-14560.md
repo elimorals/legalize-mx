@@ -4,7 +4,7 @@ identifier: "NAY-ley-sobre-el-sistema-estatal-de-asistencia-social-del-14560"
 country: "mx"
 rank: "ley"
 publication_date: "1986-11-01"
-last_updated: "2005-06-22"
+last_updated: "2006-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el sábado 1 de noviembre de 1986.
 
@@ -69,7 +69,9 @@ IV.- Mujeres en períodos de gestación o lactancia;
 
 V.- Ancianos en desamparo, incapacidad, marginación o sujetos a mal trato;
 
-VI.- Inválidos, minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-músculo-esquelético, deficiencias mentales, problemas de lenguaje y otras deficiencias;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+VI.- Discapacitados por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-músculo-esquelético, deficiencias mentales, problemas de lenguaje y otras deficiencias;
 
 VII.- Indigentes;
 
@@ -155,7 +157,9 @@ XI.- Las demás que le otorgan las leyes aplicables.
 
 Para los efectos de esta ley, se entienden como servicios básicos de salud en materia de asistencia social, los siguientes:
 
-I.- La atención a personas que por sus carencias socio-económicas o por problemas de invalidez, minusválidos o incapaces sin recursos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+I.- La atención a personas con carencias socio-económicas o por problemas de discapacidad;
 
 II.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -163,7 +167,9 @@ III.- El apoyo a la educación y capacitación para el trabajo de personas con c
 
 IV.- La prestación de servicios funerarios;
 
-V.- La prevención de invalidez, minusvalía o incapacidad y su rehabilitación en centros especializados;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+V.- La prevención de discapacidades y su rehabilitación en centros especializados;
 
 VI.- La orientación nutricional y la alimentación complementaria a personas de escasos recursos y a población de zonas marginadas;
 
@@ -227,9 +233,13 @@ V.- Coordinar las funciones relacionadas con la beneficencia pública y la asist
 
 VI.- Fomentar, apoyar, coordinar y evaluar las actividades que lleven a cabo las instituciones de asistencia o asociaciones civiles y todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-VII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y de minusválidos sin recursos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-VIII.- Llevar a cabo acciones en materia de prevención de invalidez, minusvalía o incapacidad y de rehabilitación de inválidos, en centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
+VII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y de discapacitados sin recursos;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+VIII.- Llevar a cabo acciones en materia de prevención de discapacidad y de su rehabilitación en centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
 
 IX.- Realizar estudios e investigaciones sobre asistencia social, con la participación, en su caso, de las autoridades asistenciales del Gobierno del Estado y de los Municipios;
 
@@ -239,17 +249,23 @@ XI.- Realizar y promover la capacitación de recursos humanos para la asistencia
 
 XII.- Operar el Sistema Estatal de Información Básica en materia de Asistencia Social.
 
-XIII.- Prestar servicios de asistencia jurídica y de orientación social a menores, ancianos y minusválidos, inválidos o incapaces, sin recursos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+XIII.- Prestar servicios de asistencia jurídica y de orientación social a menores, ancianos y discapacitados, sin recursos;
 
 XIV.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos de la Ley respectiva;
 
 XV.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
-XVI.- Realizar estudios e investigaciones en materia de invalidez, minusvalía e incapacidad;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+XVI.- Realizar estudios e investigaciones en materia de discapacidad;
 
 XVII.- Participar en programas de rehabilitación y educación especial.
 
-XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesaria para satisfacer los requerimientos de autonomía de los inválidos, minusválidos e incapaces; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesaria para satisfacer los requerimientos de autonomía de los discapacitados; y
 
 XIX.- Las demás que establezcan las disposiciones aplicables en la materia.
 
@@ -261,7 +277,9 @@ En casos de desastre, como inundaciones, terremotos, derrumbes, explosiones, inc
 
 En la prestación de servicios y en la realización de acciones, el Organismo actuará en coordinación con las dependencias y entidades del Gobierno del Estado y de los Municipios, según la competencia que a éstas otorgan las leyes.
 
-El Organismo promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica social y ocupacional, para las personas que sufran cualquier tipo de invalidez, minusvalía o incapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+El Organismo promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica social y ocupacional, para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
 
 El Organismo observará una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste y los que proporcionen otros establecimientos del Sector Salud y de los sectores Social y Privado.
 
@@ -530,3 +548,9 @@ LIC. RAFAEL PEREZ CARDENAS.- Rúbrica.
 P.O. 22 DE JUNIO DE 2005.
 
 UNICO.- El presente decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 22 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
