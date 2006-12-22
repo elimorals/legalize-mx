@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2006-10-20"
+last_updated: "2006-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -151,9 +151,11 @@ En lo relativo a este impuesto se estará a lo establecido en la Ley del Impuest
 
 ### CAPÍTULO SEGUNDO. DEL IMPUESTO SOBRE TRASLADO DE DOMINIO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 20.
 
-Están obligados al pago del Impuesto Sobre Traslado de Dominio de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicados en territorio del Estado de Querétaro, así como los derechos relacionados con los mismos. El impuesto se calculará aplicando la tasa del 1.6% al valor del inmueble.
+Están obligados al pago del Impuesto Sobre Traslado de Dominio de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo (sic) y las construcciones adheridas a él, ubicados en el territorio del Estado de Querétaro, así como los derechos relacionados con los mismos. El impuesto se calculará aplicando la tasa de dos por ciento al valor del inmueble.
 
 ###### Artículo 21.
 
@@ -207,9 +209,11 @@ XIV.- La adquisición de la propiedad de bienes inmuebles en virtud de remate ju
 
 XV.- La devolución de la propiedad de bienes a consecuencia de la rescisión o terminación del contrato por mutuo acuerdo, o la reversión en caso de expropiaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 24.
 
-No se causa el impuesto a que se refiere este capítulo:
+No se causa el impuesto a que se refiere este Capítulo:
 
 I.- En las adquisiciones de inmuebles que hagan la Federación, las Entidades Federativas y los Municipios para formar parte del dominio Público;
 
@@ -226,6 +230,36 @@ VI.- En la adquisición de propiedad por sucesión, siempre que se realice entre
 VII.- En la transmisión de propiedad que se realice al constituir o disolver el patrimonio familiar, así como al modificar las capitulaciones matrimoniales, con la salvedad que se hace en la fracción XII del Artículo 23 de esta Ley.
 
 VIII.- En las adquisiciones de inmuebles que hagan las Instituciones de Asistencia Privada con domicilio en el Estado, siempre y cuando se encuentren constituidas conforme a la Ley que las regula.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+IX.- En las adquisiciones que hagan las personas físicas de predios que provengan de propiedad federal, estatal o municipal, y que hayan sido regularizados mediante los programas de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT).
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 24 Bis.
+
+Se realizarán los descuentos respectivos en el impuesto a que se refiere este Capítulo en los términos siguientes:
+
+I.- Pagarán el importe de una vez el salario mínimo vigente en el Estado, por concepto de Impuesto Sobre Traslado de Dominio, las personas físicas que hayan adquirido algún predio mediante la regularización de los programas de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT), siempre que no provengan de propiedad federal, estatal o municipal.
+
+II.- Las operaciones traslativas de dominio, en las que intervengan empresas de nueva creación, que inicien la construcción o adquieran instalaciones en operación para generar o mantener empleos en el Estado de Querétaro, o que celebren dichas operaciones empresas que se encuentren establecidas en el Estado de Querétaro, en las que adquieran inmuebles o derechos de dominio sobre los mismos como parte de su patrimonio y propicien con ello la generación de empleos, los Ayuntamientos podrán conceder reducciones de hasta el ochenta por ciento que resulten de aplicar los criterios generales que al efecto determine cada Ayuntamiento, para el pago del Impuesto sobre Traslado de Domino que corresponda.
+
+En los criterios de aplicación general que establezca cada Ayuntamiento deberán considerarse los siguientes aspectos:
+
+a. Importe de la inversión;
+
+b. Número de empleos temporales y permanentes que se originen con la inversión;
+
+c. Que las actividades a desarrollar no generen contaminación;
+
+d. Que se evite el consumo de grandes volúmenes de agua;
+
+e. Que se cuente con planta de tratamiento de agua.
+
+Dichos criterios generales serán aplicables a todos los interesados que reúnan los requisitos, a quienes no podrán requerirse aportaciones adicionales en efectivo o especie para obtener dicha autorización.
+
+Las autorizaciones quedarán sujetas al cumplimiento de los requisitos establecidos en los criterios generales, dentro del plazo que al efecto se establezca, y quedará sin efecto el descuento por falta de uno de ellos.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
@@ -837,15 +871,17 @@ Los propietarios o poseedores de inmuebles de uso habitacional, industrial, come
 
 Ningún acto del Registro Civil se realizará si no se cubre previamente el importe de los derechos que señale la Ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 86.
 
-A petición de los interesados el Oficial del Registro Civil podrá trasladarse a los domicilios de los solicitantes, para celebrar matrimonios y para llevar a cabo el registro de nacimientos, siempre y cuando se cubran previamente los derechos que fije la Ley de Ingresos de los Municipios.
+A petición de los interesados, el Oficial del Registro Civil podrá trasladarse a los domicilios de los solicitantes, para celebrar matrimonios y para llevar a cabo el registro de nacimientos, siempre y cuando se cubran previamente los derechos que fije la Ley de Ingresos de cada Municipio.
 
-En estos casos los Oficiales actuarán con el Secretario respectivo, quedando bajo su exclusiva responsabilidad las formas del registro que deben sacar de las oficinas correspondientes.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 87.
 
-(DEROGADO, P.O. 21 DE JULIO DE 2006)
+Por los servicios extraordinarios de que habla el artículo anterior, los Oficiales percibirán la quinta parte de los que se recaude por concepto de derechos, que les será pagada mensualmente por la dependencia encargada de las finanzas públicas del municipio correspondiente.
 
 ###### Artículo 88.
 
@@ -1505,43 +1541,21 @@ III. Aportaciones extraordinarias de los entes públicos;
 
 IV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ## TITULO DÉCIMO. DE LAS DISPOSICIONES DE VIGENCIA ANUAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
-
 ###### Artículo 157.
 
-Las operaciones traslativas de dominio a que se refiere el Capítulo Segundo del Título Tercero de esta Ley, en que intervengan empresas de nueva creación, que inicien la construcción o adquieran instalaciones en operación para generar o mantener empleos, o que celebren empresas que se encuentren establecidas en el Estado de Querétaro, en las que adquieran inmuebles o derechos de dominio sobre los mismos como parte de su patrimonio y propicien con ello la generación de empleos, los Ayuntamientos podrán conceder durante el ejercicio fiscal del año 2006, reducciones de hasta el 80 por ciento que resulten de aplicar los criterios generales que al efecto determine cada Ayuntamiento, para el pago del impuesto sobre el traslado de dominio que corresponda.
-
-En los criterios de aplicación general que establezca cada Ayuntamiento deberá, considerarse los siguientes aspectos:
-
-a) Importe de la inversión.
-
-b) Número de empleos temporales y permanentes que se originen con la inversión.
-
-c) Que las actividades a desarrollar no generen contaminación.
-
-d) Que se evite el consumo de grandes volúmenes de agua.
-
-e) Que se cuente con planta de tratamiento de agua.
-
-Dichos criterios generales serán aplicables a todos los interesados que reúnen los requisitos, a quienes no podrá requerirse aportaciones adicionales en efectivo o especie para obtener dicha autorización.
-
-Las autorizaciones quedarán sujetas al cumplimiento de los requisitos establecidos en los criterios generales, dentro del plazo que al efecto se establezca, y quedará sin efecto el descuento por falta de uno de ellos.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2006)
 
 ###### Artículo 158.
 
-Solo para el ejercicio fiscal 2006, las personas físicas cuyos predios hayan sido regularizados mediante los Programas de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT), pagaran el importe de una vez el salario mínimo vigente en el Estado, por concepto de impuesto sobre traslado de dominio.
-
-Se exceptúan de lo anterior las personas físicas cuyos predios provengan de propiedad Federal, Estatal o Municipal, y hayan sido regularizados mediante los programas de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT), los cuales no causarán impuesto de traslado de dominio.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2006)
 
 ## TRANSITORIOS
 
@@ -1672,3 +1686,37 @@ P.O. 20 DE OCTUBRE DE 2006.
 PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 22 DE DICIEMBRE DE 2006.
+
+LEY QUE REFORMA LOS ARTICULOS 86 Y 87 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de 2007.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos de la Ley que Regula el Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas en el Estado de Querétaro, quienes sean titulares de licencias para el almacenaje, venta porteo y consumo de bebidas alcohólicas, deberán solicitar la regularización de las mismas de acuerdo la clase que les corresponda en función de su actividad preponderante, tipo, giro y demás elementos que se mencionan en el artículo 12 de la Ley antes mencionada. La regularización que se menciona en el presente no causará derechos durante el ejercicio fiscal del 2007, siempre y cuando se trate de licencias vigentes y sea solicitada dentro de los primeros seis meses del año 2007.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 22 DE DICIEMBRE DE 2006.
+
+LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA.
+
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 01 de Enero de 2007, ordenandose su publicación en el Periódico Oficial de Gobierno del Estado de Queretaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
