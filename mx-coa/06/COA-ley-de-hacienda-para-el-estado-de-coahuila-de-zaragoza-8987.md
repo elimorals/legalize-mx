@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2006-11-21"
+last_updated: "2006-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -221,9 +221,11 @@ Para vehículos cuya enajenación se encuentre parcialmente gravada por el Impue
 
 TASA
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 17.
 
-La tasa correspondiente al Impuesto Sobre Enajenación de Vehículos de Motor, será el 2.5%, aplicado a la base gravable, establecida en el artículo anterior.
+La tasa correspondiente al Impuesto Sobre Enajenación de Vehículos de Motor, será el 1.25%, aplicado a la base gravable, establecida en el artículo anterior.
 
 PAGO
 
@@ -243,9 +245,11 @@ Los automóviles, camiones y demás vehículos de motor transmitidos o adquirido
 
 OBJETO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 21.
 
-Es objeto de este impuesto, la realización de erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado de Coahuila, bajo la dirección y dependencia de un tercero, independientemente de la designación que se les otorgue.
+Es objeto de este impuesto, la realización de erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado de Coahuila, bajo la dirección y dependencia de un patrón, independientemente de la designación que se les otorgue.
 
 SUJETO
 
@@ -443,7 +447,7 @@ III.- Minibuses, microbuses, camiones de carga, autobuses integrales y ómnibuse
 
 IV.- Remolques $125.00 (CIENTO VEINTICINCO PESOS 00/100 M.N.)
 
-Para el caso de vehículos automotores modelo de más de 15 años de fabricación anteriores al ejercicio fiscal en curso, pagarán la tarifa que les corresponda reducida en un 50%.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 PAGO
 
@@ -688,6 +692,10 @@ TASA
 ###### ARTICULO 76.
 
 La tasa correspondiente al impuesto sobre ingresos por premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos será el 6%, aplicado a la base gravable establecida en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+Los contribuyentes de este impuesto, podrán pagar el mismo mediante una cuota fija mensual, la que será determinada por una estimativa que practiquen las autoridades fiscales. Para ello, dichas autoridades obtendrán el valor estimado mensual de las actividades por el que el contribuyente esté obligado al pago de este impuesto, pudiendo considerar el valor estimado de dichas actividades durante un año calendario, en cuyo caso dicho valor se dividirá entre doce para obtener el valor de las actividades mensuales estimadas.
 
 PAGO
 
@@ -1535,7 +1543,7 @@ El pago de este derecho deberá realizarse en las oficinas recaudadoras de la Se
 
 #### SECCION PRIMERA. POR SERVICIOS DE CONTROL VEHICULAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 112.
 
@@ -1569,7 +1577,7 @@ El pago de los derechos a que se refiere esta Sección deberá efectuarse en las
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
-### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARIA DE URBANISMO Y OBRAS PUBLICAS
+### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARIA DE OBRAS PUBLICAS Y TRANSPORTE
 
 ###### ARTICULO 114.
 
@@ -1703,19 +1711,19 @@ EXENCIONES
 
 No se causará este derecho cuando los servicios que se presten tengan por objeto la regularización de la tenencia de la tierra urbana y sean solicitados por Dependencias o Entidades Públicas Estatales, Federales y Municipales, que tengan a su cargo la responsabilidad de este tipo de programas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION PUBLICA
+### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION Y CULTURA
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 #### SECCION SEGUNDA. POR OTROS SERVICIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 118.
 
-Los servicios que presta la Secretaría de Urbanismo y Obras Públicas, relativos a control vehicular causarán derechos conforme a la siguiente:
+Los servicios que presta la Secretaría Obras Públicas y Transporte, relativos a control vehicular causarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -1773,9 +1781,9 @@ V.- Expedición de placa para bicicleta, $47.00 (CUARENTA Y SIETE PESOS 00/100 M
 
 VI.- Dotación de placas metálicas con número identificatorio para los vehículos siguientes:
 
-(ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
+> <small>(REFORMADO [N. DE E. ACTUALIZADO EN SU MONTO], P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-1.- Automóviles, camiones y camionetas, $310.00 (TRESCIENTOS DIEZ PESOS 00/100 M.N.);
+1.- Automóviles, camiones y camionetas, $480.00 (CUATROCIENTOS OCHENTA PESOS 00/100 M.N.);
 
 (ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
 
@@ -1899,7 +1907,7 @@ Si antes de que se agote el procedimiento económico-coactivo, el contribuyente 
 
 ###### ARTICULO 126.
 
-Los servicios prestados por la Secretaría de Urbanismo y Obras Públicas, causarán derechos conforme a la siguiente:
+Los servicios prestados por la Secretaría Obras Públicas y Transporte, causarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -2075,13 +2083,15 @@ Son solidariamente responsables del pago de este derecho los constructores y con
 
 El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-(REUBICADO [N. DE E. ANTES ARTICULO 92], P.O. 24 DE DICIEMBRE DE 1996)
+### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE (SIC) FUNCION PUBLICA
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 129.
 
-Los servicios que presta la Secretaría de Educación Pública causarán derechos, conforme a la siguiente:
+Los servicios que presta la Secretaría de Educación y Cultura causarán derechos, conforme a la siguiente:
 
 TARIFA
 
@@ -2207,6 +2217,8 @@ PAGO
 
 El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ### CAPITULO SEPTIMO. POR SERVICIOS DE LA PROCURADURIA GENERAL DE JUSTICIA
 
 OBJETO
@@ -2219,7 +2231,7 @@ OBJETO
 
 ###### ARTICULO 132.
 
-Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Secretaría de la Contraloría y Modernización Administrativa en la ejecución de obra pública, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
+Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Secretaría de la Función Pública en la ejecución de obra pública, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente de 5 al millar sobre le (sic) importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
@@ -2489,11 +2501,11 @@ La Dependencia, al realizar la liquidación para el pago de los derechos a que s
 
 ## TITULO IV. CONTRIBUCIONES ESPECIALES
 
-### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO Y RAMOS ARIZPE
+### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO, RAMOS ARIZPE Y TORREON
 
 OBJETO
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 141.
 
@@ -2591,11 +2603,11 @@ La base de esta contribución, es el importe de los pagos que se realicen por co
 
 TASA
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 152.
 
-La tasa correspondiente a esta contribución para el fomento a la educación, será el 10% sobre el monto de los pagos por concepto de los impuestos, derechos y cualquier otra contribución y los accesorios de éstos, que se paguen con excepción de los señalados.
+La tasa correspondiente a esta contribución para el fomento a la educación, será el 15% sobre el monto de los pagos por concepto de los impuestos, derechos y cualquier otra contribución y los accesorios de éstos, que se paguen con excepción de los señalados.
 
 PAGO
 
@@ -2605,6 +2617,8 @@ PAGO
 
 El pago de esta contribución deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de esta contribución.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
 
 OBJETO
@@ -2613,7 +2627,9 @@ OBJETO
 
 ###### ARTICULO 154.
 
-Es objeto de esta contribución para el mantenimiento y cconservación (sic) del Centro Histórico de las ciudades de Saltillo y Ramos Arizpe, la realización de pagos por concepto de derechos de control vehicular que se causen en los municipios señalados.
+Es objeto de esta contribución para el mantenimiento y conservación del Centro Histórico de las ciudades de Saltillo, Ramos Arizpe y Torreón, la realización de pagos por concepto de derechos de control vehicular que se causen en los municipios señalados.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 Los ingresos que se obtengan por esta contribución, serán destinados exclusivamente para los fines señalados, asignándose a cada municipio el importe del ingreso que se genere en el mismo.
 
@@ -2979,11 +2995,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Para los efectos del artículo 3 de esta ley, la actualización de las contribuciones se efectuará a partir del 1 de enero de 1997.
 
-(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 28 DE DICIEMBRE DE 2001)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO QUINTO.
 
-Con el propósito de sufragar los gastos que origina al Estado el mejoramiento y modernización de las áreas que tengan a su cargo la prestación de los servicios relacionados con el Registro Público, se causará un impuesto adicional del 15% sobre los derechos que se causen por los servicios que presta el Registro Público de la Propiedad establecidos en esta ley.
+Con el propósito de sufragar los gastos que origina al Estado el mejoramiento y modernización de las áreas que tengan a su cargo la prestación de los servicios relacionados con el Registro Público, se causará un impuesto adicional del 10% sobre los derechos que se causen por los servicios que presta el Registro Público de la Propiedad establecidos en esta ley.
+
+(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 28 DE DICIEMBRE DE 2001)
 
 El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de este impuesto.
 
@@ -3200,3 +3218,13 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE NOVIEMBRE DE 2006.
 
 Único.- Esta reforma entrará en vigor: al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
