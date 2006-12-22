@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-2831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "2003-01-17"
+last_updated: "2006-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
 
@@ -292,6 +292,112 @@ El patrimonio del Sistema D.I.F. Municipal, se integrará con:
 
 4. Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley;
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+## TITULO TERCERO. DEL DEPARTAMENTO DE ATENCION A ESTANCIAS INFANTILES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO ÚNICO. DEPARTAMENTO DE ESTANCIA (SIC) INFANTILES
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 21.
+
+Para los efectos de cumplir con lo preceptuado por el numeral 12 del Reglamento de Estancias Infantiles, publicado en el Periódico Oficial del Gobierno del Estado el día 28 de abril del 2006, se crea el Departamento de Atención a las Estancias Infantiles establecidas y por establecerse en nuestro municipio.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 22.
+
+El departamento de Atención a las Estancias Infantiles se integra por un titular y las siguientes áreas:
+
+I. Area de Autorización y revalidación
+
+II. Area de Capacitación y certificación
+
+III. Area de Inspección y Vigilancia
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 23.
+
+El Titular del Departamento de Estancias Infantiles, tendrá las siguientes funciones:
+
+I. Integrar comités de participación ciudadana, a efecto de que coadyuven en la creación, trámite e integración de estancias infantiles comunitarias;
+
+II. Llevar, actualizar y operar el padrón de Estancias Infantiles, a efecto de mantener el registro de cada una de ellas, de manera ordenada y actualizada;
+
+III. Diseñar, programar y llevar a cabo los cursos de capacitación y talleres para el personal de las estancias infantiles, así como sus contenidos, incluyendo los que se refieren a menores discapacitados;
+
+IV. Formar parte del Consejo de Estancias Infantiles;
+
+V. Conocer, opinar y formular proyectos de resolución que se refieran a la Instalación y operación de Estancias Infantiles en el Municipio de Ensenada;
+
+VI. Llevar y custodiar los expedientes de las Estancias Infantiles, incluyendo el listado del personal y su currícula, así como de las nuevas solicitudes;
+
+VII. Verificar la revalidación anual de cada Estancia Infantil;
+
+VIII. Llevar a cabo, por conducto de los inspectores adscritos al DIF municipal, la Inspección de las estancias infantiles, en los casos y con las formalidades que establece el reglamento de estancias infantiles para el municipio de Ensenada;
+
+IX. En su caso acompañar a los Inspectores en sus órdenes de visita, sin que pueda interferir en la misma o servir como testigo;
+
+X. Turnar de inmediato al Director del DIF el resultado de las Inspecciones realizadas a las Estancias Infantiles;
+
+XI. Las demás que le otorgue el presente Reglamento, el reglamento de Estancias Infantiles del municipio de Ensenada, o le ordene el Director del DIF municipal.
+
+###### ARTICULO 24.
+
+Las funciones del área de autorización y revalidación serán:
+
+I. Otorgar el formato de Solicitud para la autorización de instalación y operación de Estancias Infantiles en el Municipio de Ensenada.
+
+II. Inmediatamente que se reciba una solicitud, se deberá seguir el procedimiento establecido en el Titulo Cuarto Capítulo I, del Reglamento de Estancias Infantiles para el Municipio de Ensenada.
+
+III. Turnar la solicitud recibida, al Director del Sistema para el Desarrollo Integral de la Familia, a efecto de que este la haga del conocimiento del Consejo.
+
+IV. Aprobada o negada una solicitud de autorización para la creación o permanencia de una estancia infantil, realizar la notificación correspondiente; y
+
+V. Las demás que le confieran el presente reglamento, el Reglamento de Estancias infantiles, el director del Sistema Municipal para el desarrollo integral de la Familia y el Titular del departamento de atención a Estancias Infantiles.
+
+###### ARTICULO 25.
+
+Las funciones del área de capacitación y certificación serán:
+
+I. Realizar anualmente cursos de capacitación de conformidad con el programa establecido en el articulo 9 del Reglamento de Estancias Infantiles para el municipio de Ensenada, Baja California;
+
+II. Coordinarse con las instituciones públicas y privadas a efecto de que los cursos que estas impartan, cumplan con el programa aprobado por el Sistema Municipal para el Desarrollo integral de la Familia;
+
+III. Realizar la certificación de las estancias infantiles de conformidad con el Titulo quinto capitulo I y II del Reglamento de Estancias Infantiles del Municipio de Ensenada Baja California;
+
+IV. Publicar anualmente el listado de Estancias Infantiles certificadas; y
+
+V. Las demás que le confieran el presente reglamento, el Reglamento de Estancias infantiles, el director del Sistema Municipal para el desarrollo integral de la Familia, y el titular del Departamento de atención a estancias infantiles.
+
+###### ARTICULO 26.
+
+Las funciones del área de Inspección y vigilancia serán las siguientes:
+
+I. Llevar a cabo las visitas de Inspección;
+
+II. Levantar el acta correspondiente a cada Inspección realizada, pormenorizando los hechos acontecidos;
+
+III. Nombrar dos testigos de asistencia en las Inspecciones, cuando el particular se rehúse a nombrarlos o estos no acepten;
+
+IV. Incluir en el acta las manifestaciones que el particular desee que queden asentadas y anexar a la misma la documentación que se considere pertinente;
+
+V. Cuestionar o requerir a los trabajadores de la Estancia Infantil cualquier información relacionada con la prestación del servicio y la orden de visita;
+
+VI. Cuestionar y solicitar a los usuarios de la Estancia Infantil cualquier información relacionada con la prestación del servicio y la orden de visita;
+
+VII. Informar y remitir en el mismo día de efectuada la Inspección, copia del acta al Titular del departamento de atención a Estancias Infantiles del DIF municipal;
+
+VIII. Si durante el desahogo de la diligencia de inspección y vigilancia, se percaten de la comisión u omisión de un hecho que pudiera constituir delito, deberán comunicarse inmediatamente al servicio de emergencias, a fin de que se logre la intervención de los agentes de seguridad publica municipal, a los cuales se les solicitara dar fe de lo acontecido, así como denunciarlo a la autoridad correspondiente;
+
+IX. Solicitar el auxilio de la fuerza publica para cumplimentar la diligencia de que se trate, cuando la misma contiene el apercibimiento expreso del uso de la fuerza publica; y
+
+X. Las demás contenidas en el Reglamento de Estancias Infantiles para el municipio de Ensenada y aquellas que le ordene el Titular de Estancias Infantiles del DIF o el Director del DIF municipal.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -361,3 +467,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 17 DE ENERO DE 2003.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 22 DE DICIEMBRE DE 2006.
+
+> <small>(F. DE E., P.O. 16 DE MARZO DE 2007)</small>
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
