@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-11036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-26"
-last_updated: "2005-03-23"
+last_updated: "2006-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 26 de diciembre de 1990.
 
@@ -553,7 +553,7 @@ Son sujetos de los Impuestos Adicionales los propios Impuestos, Derechos y Produ
 
 #### SECCION TERCERA. DE LA BASE
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 48.
 
@@ -599,26 +599,6 @@ Este Impuesto se causará y pagará conforme a las tasas que señala la Ley de I
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 65 Son obligaciones de los contribuyentes de este impuesto:
-
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora que corresponda a su domicilio, mediante la forma oficial aprobada para ello por la Secretaría de Finanzas del Estado, proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada, dentro del mes siguiente, al día en que se inicien sus obligaciones de enterar los pagos a que se refiere el artículo 62 de esta Ley.
-
-II.- Presentar ante las autoridades fiscales, dentro del plazo que señala la fracción anterior, los avisos de cambio de domicilio, nombre, razón social o suspensión de actividades.
-
-III.- Presentar cuando así lo soliciten las autoridades fiscales, los avisos, datos, documentos e informes en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
-
-IV.- Enterar en las oficinas autorizadas dentro del plazo señalado en este capítulo el Impuesto al Hospedaje.
-
-Los contribuyentes de este impuesto están obligados a enterarlo, aún cuando no lo hubieren trasladado, pero si hubiesen prestado el servicio.
-
-V.- Los sujetos de este impuesto que se establezcan fuera del domicilio fiscal de la matriz deberán inscribirse al padrón de contribuyentes y presentar sus declaraciones por separado en oficina autorizada por la Secretaría de Finanzas del Estado, que corresponda a su domicilio fiscal determinado de conformidad con lo dispuesto en el Código Fiscal del Estado.
-
-Las personas físicas o morales que para efecto de impuestos federales, su domicilio fiscal se encuentre en otra Entidad Federativa, pero que perciban ingresos en el Estado de Nayarit por la prestación de servicios de hospedaje tendrán la obligación de registrar como domicilio fiscal para efectos de este impuesto el lugar donde se origine el servicio o la contraprestación, además deberán hacer dichos pagos en la oficina autorizada por la Secretaría de Finanzas que corresponda a su jurisdicción.
-
-VI.- Expedir comprobantes por la contraprestación objeto de este impuesto, llevar libros y registros contables de los mismos y conservarlos en los términos previstos en el Código Fiscal del Estado.
-
-(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
-
 ###### ARTICULO 53.
 
 Se exime del pago de los impuestos adicionales a que se refiere este capítulo, al Impuesto Sobre Remuneraciones al Trabajo Personal en Forma Independiente; al Impuesto Sobre Nóminas; al Impuesto al Hospedaje; al Impuesto Sobre Juegos y Apuestas Permitidas, Sobre Rifas, Loterías y Sorteos respecto de los premios obtenidos; y los Derechos por Registro Público de la Propiedad por hipotecas sobre créditos para vivienda de interés social.
@@ -629,17 +609,21 @@ Se exime del pago de los impuestos adicionales a que se refiere este capítulo, 
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
+#### SECCION PRIMERA. DEL IMPUESTO CEDULAR A LOS INGRESOS POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR El USO O GOCE TEMPORAL DE BIENES INMUEBLES
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 54.
 
 Será objeto de este impuesto la prestación de servicio de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido, considerados como el albergue temporal de personas a cambio de una contraprestación, sea cual fuere la denominación que ésta tenga.
 
 Para efectos de la causación de este impuesto, sólo se considerará el albergue sin incluir los alimentos y demás servicios relacionados con los mismos.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 55.
 
-Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tomará como base del impuesto exclusivamente los ingresos percibidos por el albergue a través del pago de cuotas de mantenimiento ordinarias.
+Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tomará como base del impuesto los ingresos percibidos por el albergue a través del pago de cuotas de mantenimiento ordinarias, así como de los obtenidos por venta de membresías.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
@@ -663,7 +647,7 @@ El contribuyente trasladará el impuesto, en forma expresa y por separado, a las
 
 ###### ARTICULO 59.
 
-La base para el cálculo de éste impuesto se integra con el valor total de la contraprestación del servicio de hospedaje y en el caso de los tiempos compartidos, por el monto de la contraprestación que hace el usuario del servicio cada vez que haga uso de sus derechos convenidos sobre un bien, parte del mismo o efectúe el pago de cuotas de mantenimiento.
+La base para el cálculo de este impuesto se integra con el valor total de la contra prestación del servicio de hospedaje y en el caso de los tiempos compartidos, por el monto de la contraprestación que hace el usuario del servicio al pagar su membresía, así como lo pagado cada vez que haga uso de sus derechos convenidos sobre un bien, parte del mismo o efectúe el pago de cuotas de mantenimiento, incluyendo las cantidades que se cobren por intereses normales o moratorias, penas convencionales, cuotas ordinarias o extraordinarias por administración, gastos de toda clase y cualquier otro concepto inherente al mismo.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
@@ -715,21 +699,149 @@ II.- Cuando por los informes que se obtengan se ponga de manifiesto que entre la
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
+###### ARTICULO 65.
+
+Son obligaciones de los contribuyentes de este impuesto:
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora que corresponda a su domicilio, mediante la forma oficial aprobada para ello por la Secretaría de Finanzas del Estado, proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada, dentro del mes siguiente, al día en que se inicien sus obligaciones de enterar los pagos a que se refiere el artículo 62 de esta Ley.
+
+II.- Presentar ante las autoridades fiscales, dentro del plazo que señala la fracción anterior, los avisos de cambio de domicilio, nombre, razón social o suspensión de actividades.
+
+III.- Presentar cuando así lo soliciten las autoridades fiscales, los avisos, datos, documentos e informes en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
+
+IV.- Enterar en las oficinas autorizadas dentro del plazo señalado en este capítulo el Impuesto al Hospedaje.
+
+Los contribuyentes de este impuesto están obligados a enterarlo, aún cuando no lo hubieren trasladado, pero si hubiesen prestado el servicio.
+
+V.- Los sujetos de este impuesto que se establezcan fuera del domicilio fiscal de la matriz deberán inscribirse al padrón de contribuyentes y presentar sus declaraciones por separado en oficina autorizada por la Secretaría de Finanzas del Estado, que corresponda a su domicilio fiscal determinado de conformidad con lo dispuesto en el Código Fiscal del Estado.
+
+Las personas físicas o morales que para efecto de impuestos federales, su domicilio fiscal se encuentre en otra Entidad Federativa, pero que perciban ingresos en el Estado de Nayarit por la prestación de servicios de hospedaje tendrán la obligación de registrar como domicilio fiscal para efectos de este impuesto el lugar donde se origine el servicio o la contraprestación, además deberán hacer dichos pagos en la oficina autorizada por la Secretaría de Finanzas que corresponda a su jurisdicción.
+
+VI.- Expedir comprobantes por la contraprestación objeto de este impuesto, llevar libros y registros contables de los mismos y conservarlos en los términos previstos en el Código Fiscal del Estado.
+
+> <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO IX. DE LOS IMPUESTOS CEDULARES SOBRE LOS INGRESOS DE LAS PERSONAS FISICAS
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 65-A.
+
+Será objeto de este Impuesto, el arrendamiento y en general el otorgamiento del uso o goce temporal de bienes inmuebles ubicados en el territorio del estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 65-B.
+
+Están obligados al pago del impuesto establecido en este capitulo, las personas físicas que perciban ingresos en efectivo, bienes, servicios o en crédito, por otorgar el uso o goce temporal de bienes inmuebles, ubicados dentro del territorio del estado.
+
+Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles, los provenientes del arrendamiento o subarrendamiento y en general por otorgar a título oneroso el uso o goce temporal de bienes inmuebles, en cualquier otra forma.
+
+Los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el mes de calendario en el que sean cobrados.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 65-C.
+
+Las personas que obtengan ingresos por los conceptos a que se refiere este capítulo, podrán efectuar las siguientes deducciones:
+
+I.- Los pagos efectuados por el impuesto predial correspondiente al año de calendario sobre dichos inmuebles, así como por las contribuciones locales de mejoras, de planificación o de cooperación para obras públicas que afecten a los mismos.
+
+II.- Los gastos de mantenimiento que no impliquen adiciones o mejoras al bien de que se trate y por consumo de agua, siempre que no los paguen quienes usen o gocen del inmueble.
+
+III.- Los intereses reales pagados por préstamos utilizados para la compra, construcción o mejoras de los bienes inmuebles. Se considera interés real, el monto en el que los intereses excedan al ajuste por inflación. Para estos efectos, el ajuste por inflación se determinará multiplicando el saldo promedio diario del préstamo o financiamiento que genere los intereses, por el factor que se obtenga de restar la unidad del cociente que resulte de dividir el índice Nacional de Precios al Consumidor del mes mas reciente del periodo de la inversión, entre el citado índice correspondiente al primer mes del periodo. Cuando el cálculo a que se refiere este párrafo se realice por un periodo inferior a un mes o abarque fracciones de mes, el incremento porcentual del citado índice para dicho periodo o fracción de mes se considerará en proporción al número de días por el que se efectúa el cálculo.
+
+IV.- Los salarios, comisiones y honorarios, así como los impuestos, cuotas o contribuciones que conforme a la ley les corresponda cubrir sobre dichos salarios, efectivamente pagados, afectos a los inmuebles a que se refiere la presente sección. Los salarios serán deducibles siempre y cuando se cumpla la obligación de inscribir a sus trabajadores en el Instituto Mexicano del Seguro Social;
+
+V.- El importe de las primas de seguros que amparen los bienes respectivos;
+
+VI.- Las inversiones en construcciones, incluyendo adiciones y mejoras, sobre los inmuebles a que se refiere la presente sección;
+
+Los contribuyentes que otorguen el uso o goce temporal de bienes inmuebles podrán optar por deducir el 35% de los ingresos a que se refiere este capitulo, en substitución de las deducciones a que este artículo se refiere. Quienes ejerzan esta opción podrán deducir, además, el monto de las erogaciones por concepto del impuesto predial de dichos inmuebles correspondiente al año de calendario o al periodo durante el cual se obtuvieron los ingresos según corresponda.
+
+Los contribuyentes que ejerzan la opción prevista en el párrafo anterior, lo deberán hacer por todos los inmuebles por los que otorgue el uso o goce temporal incluso por aquellos que tenga en copropiedad.
+
+Tratándose de subarrendamiento sólo se deducirá el importe de las rentas que pague el arrendatario al arrendador.
+
+Cuando el contribuyente ocupe parte del bien inmueble del cual derive el ingreso por otorgar el uso o goce temporal del mismo u otorgue su uso o goce temporal de manera gratuita, no podrá deducir la parte de los gastos, así como tampoco el impuesto predial y los derechos de cooperación de obras públicas que correspondan proporcionalmente a la unidad por él ocupada o de la otorgada gratuitamente. En los casos de subarrendamiento, el subarrendador no podrá deducir la parte proporcional del importe de las rentas pagadas que correspondan a la unidad que ocupe o que otorgue gratuitamente.
+
+La parte proporcional a que se refiere el párrafo que antecede, se calculará considerando el número de metros cuadrados de construcción de la unidad por él ocupada u otorgada de manera gratuita en relación con el total de metros cuadrados de construcción del bien inmueble.
+
+Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el ejercicio, las deducciones a que se refieren las fracciones I a V de este artículo, se aplicarán únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al que se otorgue dicho uso o goce.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 65-D.
+
+Los contribuyentes que obtengan ingresos de los señalados en este capítulo efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio que se pagará a una tasa del 2% que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles disminuyendo las deducciones autorizadas por esta ley en ese período. El entero de los pagos provisionales se realizará en las oficinas autorizadas por la Secretaría de Finanzas, teniendo como fecha límite de presentación a más tardar el día 17 del mes inmediato siguiente al mes que corresponde el pago.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 65-E.
+
+El impuesto se calculará anualmente y se pagará a una tasa del 2% que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas por esta ley en ese ejercicio. La declaración del ejercicio deberá presentarse a más tardar el día 30 de abril del año siguiente al que corresponda el pago en las oficinas autorizadas por la Secretaría de Finanzas.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 65-F.
+
+En las operaciones de fideicomiso por las que se otorgue el uso o goce temporal de bienes inmuebles, se considera que los rendimientos son ingresos del fideicomitente aun cuando el fideicomisario sea una persona distinta, a excepción de los fideicomisos irrevocables en los cuales el fideicomitente no tenga derecho a readquirir del fiduciario el bien inmueble, en cuyo caso se considera que los rendimientos son ingresos del fideicomisario desde el momento en que el fideicomitente pierda el derecho a readquirir el bien inmueble.
+
+La institución fiduciaria efectuará pagos provisionales de este impuesto por cuenta de aquel a quien corresponda el rendimiento en los términos del párrafo anterior, mediante declaración mensual, que presentará ante las oficinas autorizadas en los términos previstos en el artículo 65-D de esta Ley.
+
+La institución fiduciaria presentará ante las oficinas autorizadas a mas tardar el último día de febrero de cada año, declaración proporcionando información sobre el nombre, clave de registro estatal de contribuyentes, rendimientos, pagos efectuados de este impuesto y deducciones, relacionados con cada una de las personas a las que les correspondan los rendimientos, durante el año de calendario que corresponda.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 65-G.
+
+Los contribuyentes que obtengan ingresos de los señalados en este capítulo, además de efectuar los pagos de este impuesto, tendrán las siguientes obligaciones:
+
+I.- Solicitar su inscripción en el registro estatal de contribuyentes;
+
+II.- Llevar contabilidad de conformidad con el Código Fiscal del Estado y de la Federación. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 35% a que se refiere el artículo 65-C fracción VI, segundo párrafo de esta Ley;
+
+III.- Expedir comprobantes que reúnan los requisitos fiscales previstos en el Código Fiscal de la Federación, por las contraprestaciones recibidas; y
+
+IV.- Presentar declaraciones en los términos de esta Ley.
+
+Cuando los ingresos a que se refiere este capítulo sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los recibos y efectúe los pagos de este impuesto.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 65-H.
+
+Las autoridades fiscales, podrán determinar presuntivamente la utilidad gravable y en su caso determinar el impuesto omitido de los contribuyentes, y para ello podrán aplicar a los ingresos brutos declarados o determinados presuntivamente, el coeficiente deL (sic) 39% por el otorgamiento del uso o goce temporal de inmuebles.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 65-I.
+
+Cuando una persona física realice en el año calendario erogaciones superiores a los ingresos que hubiere declarado en ese mismo año, se procederá de la siguiente forma:
+
+I.- La autoridad comprobará el monto de las erogaciones y la discrepancia con la declaración del contribuyente y darán a conocer a éste el resultado de dicha comprobación;
+
+II.- El contribuyente, en un plazo de quince días, informará por escrito a las autoridades fiscales las razones que tuviera para inconformarse o el origen que explique la discrepancia y ofrecerá las pruebas que estimare convenientes, las que acompañará a su escrito o rendirá a más tardar dentro de los veinte días siguientes. En ningún caso los plazos para presentar el escrito y las pruebas señaladas excederán, en su conjunto, de treinta y cinco días; y
+
+III.- Si no se formula inconformidad o no se prueba el origen de la discrepancia, ésta se estimará ingreso de los señalados en el Capítulo que corresponda a aquél en el cual el contribuyente hubiere obtenido mayores ingresos en el año de que se trate y se formulará la liquidación respectiva;
+
+Para los efectos de este artículo, se consideran erogaciones, los gastos, las adquisiciones de bienes y los depósitos en inversiones financieras. No se tomarán en consideración los depósitos que el contribuyente efectúe en cuentas que no sean propias, que califiquen como erogaciones en los términos de este artículo, cuando se demuestre que dicho depósito se hizo como pago por la adquisición de bienes o de servicios, o como contraprestación para el otorgamiento del uso o goce temporal de bienes o para realizar inversiones financieras ni los traspasos entre cuentas del contribuyente o a cuentas de su cónyuge, de sus ascendientes o descendientes, en línea recta en primer grado.
+
+Cuando el contribuyente obtenga ingresos de los previstos en esta Ley y no presente declaración anual estando obligado a ello, se aplicará este precepto como si la hubiera presentado sin ingresos. Tratándose de contribuyentes que no estén obligados a presentar declaración del ejercicio, se considerarán, para los efectos del presente artículo, los ingresos que los retenedores manifiesten haber pagado al contribuyente de que se trate.
+
+(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+
 ### CAPITULO UNICO. DE LOS DERECHOS
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
-
-### CAPITULO UNICO. DE LOS PRODUCTOS DIVERSOS
-
-(REUBICADO [ANTES ARTICULO 57], P.O. 14 DE DICIEMBRE DE 1996)
 
 ## TITULO SEGUNDO. DERECHOS
 
 (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
 
-### CAPITULO UNICO. DE LOS DIVERSOS APROVECHAMIENTOS
+### CAPITULO UNICO. DE LA CONTRIBUCION POR MEJORAS POR OBRAS DE INFRAESTRUCTURA PUBLICA
 
-(REUBICADO [ANTES ARTICULO 59], P.O. 14 DE DICIEMBRE DE 1996)
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 66.
 
@@ -757,23 +869,183 @@ El funcionario o empleado público que contravenga lo dispuesto anteriormente, s
 
 Los derechos se pagarán de conformidad con las tasas y cuotas que establezca la Ley de Ingresos del Estado y a falta de disposición expresa la autoridad fiscal determinará su monto teniendo en cuenta el costo que para el Estado tenga la prestación del servicio.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+## TITULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO UNICO. DE LOS PRODUCTOS DIVERSOS
+
+(REUBICADO [ANTES ARTICULO 57], P.O. 14 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 69-A.
+
+Es objeto de la presente contribución, las mejoras por obras de infraestructura pública construidas por el gobierno del estado, que benefician en forma directa a personas físicas o morales con carácter de propietarios o poseedores, en su caso, de bienes inmuebles que resulten beneficiados.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-B.
+
+Son sujetos obligados a pagar esta contribución los propietarios o poseedores cuyos inmuebles se encuentran ubicados con frente a la obra o dentro de la zona beneficiada, donde se ejecuten las siguientes obras de infraestructura:
+
+I.- Banquetas y guarniciones.
+
+II.- Pavimento.
+
+III.- Atarjeas.
+
+IV.- Instalación de redes de distribución de agua potable.
+
+V.- Alumbrado público.
+
+VI.- Instalación de drenaje.
+
+VII.- Apertura de nuevas vías públicas; y
+
+VIII.- Jardines u obras en general.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-C.
+
+El monto total de la contribución no podrá exceder del costo de la obra de que se trate.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-D.
+
+El costo por derrama de una obra pública lo constituye el importe de los siguientes conceptos:
+
+I.- Estudios, proyectos y gastos generales.
+
+II.- Indemnizaciones.
+
+III.- Materiales y mano de obra, y
+
+IV.- Intereses y gastos financieros.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-E.
+
+Al costo a que se refiere el artículo anterior se disminuirá, para los efectos de la derrama, con las aportaciones que en su caso, haga la autoridad.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-F.
+
+Operará la compensación cuando un inmueble parcialmente afectado por expropiación, lo sea también por esta contribución, el monto de ésta se abonará al costo de la expropiación en la medida de su respectiva indemnización.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-G.
+
+Las obras de infraestructura pública afectas a esta contribución se llevarán a cabo conforme a las siguientes etapas:
+
+I.- Aprobación de la obra y su costo.
+
+II.- Determinación de la base para el cobro de la contribución y la cuota correspondiente, y
+
+III.- Construcción de la obra y su cobranza.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-H.
+
+Para la aprobación de la obra y su costo, se convocará a una asamblea a los contribuyentes cuyos inmuebles se encuentran ubicados con frente a la obra o dentro de la zona beneficiada.
+
+En dicha asamblea se presentarán los estudios y proyectos de la obra, así como el presupuesto de la misma, y se decidirá por mayoría si se aprueba o no. Si se aprobara, se integrará un comité de cinco miembros que representará a los contribuyentes en asamblea posterior.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-I.
+
+La convocatoria a que se refiere el artículo anterior, se publicará en el Periódico Oficial Órgano del Gobierno del Estado, en uno de los periódicos locales de mayor circulación y en los estrados de las dependencias públicas locales, debiendo contener los siguientes datos:
+
+I- Naturaleza de la Obra.
+
+II.- Costo de la obra: y
+
+III.- Relación de las calles o perímetro en que la obra se vaya a ejecutar.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-J.
+
+El comité de contribuyentes se reunirá dentro de los treinta días siguientes a la celebración de la asamblea a la que se refiere el artículo 69-H para determinar la base de las cuotas correspondientes, mismas que se fijarán en esta reunión por metro de frente o de superficie, o mediante cualquier otra unidad, pero siempre en concordancia con el costo de la obra y en proporción a las medidas del inmueble afecto a la contribución.
+
+El comité convocará a una reunión a todos los contribuyentes para informarles lo anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-K.
+
+Las convocatorias a que se refieren los artículos 69-H y 69-I, deberán hacerse con diez días de anticipación a la fecha en que se vaya a celebrar la reunión y se considerará legalmente instalada cuando por lo menos se encuentre la mitad más uno de los participantes que deban concurrir a ésta, en caso contrario, se convocará a una segunda reunión, dentro de los veinte días siguientes a la fecha en que debió celebrarse la anterior, en este caso se considerará legalmente instalada cualquiera que sea el número de los concurrentes.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-L.
+
+Las decisiones tomadas en las reuniones serán válidas cuando sean aprobadas por mayoría de votos de los contribuyentes beneficiados que representen más del 50% del costo de la obra.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-M.
+
+Las cuotas aprobadas en la reunión a que se refiere el artículo 69-G deberán publicarse en el Periódico Oficial Órgano del Gobierno del Estado, indicando además, los siguientes datos:
+
+I.- Naturaleza de la obra; y
+
+II - Deducciones, tales como:
+
+a).- Aportaciones de los Gobiernos Federal, Estatal y Municipal, y
+
+b).- Costo neto.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-N.
+
+La notificación de la liquidación correspondiente deberá contener:
+
+I.- Nombre del Propietario o Poseedor.
+
+II.- Número de cuenta predial.
+
+III.- Ubicación del Inmueble.
+
+IV.- La superficie afecta a la contribución.
+
+V.- El monto total de la derrama.
+
+VI.- La cuota de imposición según el sistema que se haya determinado, ya sea por metro cuadrado, de frente, superficie, o cualquier otra unidad.
+
+VII.- El importe líquido de la contribución, y
+
+IX (SIC).- Forma de pago.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69
+
+0.- Los Notarios Públicos no autorizarán, ni los Registradores Públicos de la Propiedad inscribirán, actos o contratos que impliquen transmisión de dominio, desmembramiento de la propiedad o constitución voluntaria de servidumbres o garantías reales, que tengan relación con Inmuebles afectos a este tributo, si no se les demuestra que se está al corriente en el pago del mismo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 69-P.
+
+Las obras públicas pueden ser realizadas a iniciativa del Ejecutivo del Estado o de vecinos que tengan interés en su realización.
+
+(REUBICADO [N. DE E. ANTES TITULO TERCERO], P.O. 22 DE DICIEMBRE DE 2006)
+
+## TITULO CUARTO. PRODUCTOS
+
 (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
 
-## TITULO TERCERO. PRODUCTOS
+### CAPITULO UNICO. DE LOS DIVERSOS APROVECHAMIENTOS
 
-(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
-
-### CAPITULO UNICO. DE LAS PARTICIPACIONES FEDERALES
-
-(REUBICADO [ANTES ARTICULO 60], P.O. 14 DE DICIEMBRE DE 1996)
-
-## TITULO CUARTO. APROVECHAMIENTOS
-
-(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
-
-### CAPITULO UNICO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+(REUBICADO [ANTES ARTICULO 59], P.O. 14 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 70.
 
@@ -785,11 +1057,15 @@ Quedan comprendidos como productos, los ingreso que obtiene el Estado por activi
 
 Los productos que perciba el Estado se regularán por los contratos o convenios que se elaboren y su importe deberá enterarse en la Recaudación de Rentas correspondiente, en los plazos, términos y condiciones que en los mismos se establezcan o por disposiciones que al respecto señala la Ley de Ingresos del Estado.
 
+(REUBICADO [N. DE E. ANTES TITULO CUARTO], P.O. 22 DE DICIEMBRE DE 2006)
+
+## TITULO QUINTO. APROVECHAMIENTOS
+
 (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
 
-## TITULO QUINTO. PARTICIPACIONES
+### CAPITULO UNICO. DE LAS PARTICIPACIONES FEDERALES
 
-(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+(REUBICADO [ANTES ARTICULO 60], P.O. 14 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 72.
 
@@ -809,11 +1085,15 @@ f) Gastos de Ejecución
 
 g) Indemnización por cheques, recibidos de particulares y devueltos por las Instituciones Bancarias.
 
+(REUBICADO [N. DE E. ANTES TITULO QUINTO], P.O. 22 DE DICIEMBRE DE 2006)
+
+## TITULO SEXTO. PARTICIPACIONES
+
 (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
 
-## TITULO SEXTO. INGRESOS EXTRAORDINARIOS
+### CAPITULO ÚNICO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
-(REUBICADO [ANTES ARTICULO 61], P.O. 14 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 73.
 
@@ -821,15 +1101,19 @@ Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el E
 
 Quedan comprendidos también en este Capítulo, otros Ingresos que el Gobierno del Estado obtengan de la Federación, por concepto de participación, proveniente de otras fuentes que, en su caso se establezca.
 
-(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+(REUBICADO [N. DE E. ANTES TITULO SEXTO], P.O. 22 DE DICIEMBRE DE 2006)
 
-## TITULO SEPTIMO. (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+## TITULO SEPTIMO. INGRESOS EXTRAORDINARIO (SIC)
+
+(REUBICADO [ANTES ARTICULO 61], P.O. 14 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 74.
 
 Son Ingresos Extraordinarios aquellos que la Hacienda Pública del Estado perciba cuando las circunstancias especiales coloquen al propio Estado frente a necesidades imprevistas que lo obliguen a efectuar erogaciones extraordinarias.
 
-(REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+(REUBICADO [N. DE E. ANTES TITULO SEPTIMO], P.O. 22 DE DICIEMBRE DE 2006)
+
+## TITULO OCTAVO. (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 75.
 
@@ -954,3 +1238,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los entes públicos comenzarán a realizar las retenciones correspondientes al derecho por Servicios de Vigilancia, Inspección y Control de la obra pública a cada una de las estimaciones que se paguen a partir de que hayan transcurrido quince días contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto de adiciones y modificaciones entrará en vigor el día 1º de Enero del año dos mil siete debiéndose publicar en el Periódico Oficial, Órgano del Gobierno del Estado.
