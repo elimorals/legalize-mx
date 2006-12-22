@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-el-almacenaje-venta-porteo-y-consumo-de-26023"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-30"
-last_updated: "2006-12-08"
+last_updated: "2006-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE REGULA EL ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 30 de agosto del año 2002.
 
@@ -237,85 +237,111 @@ La Secretaría de Seguridad Ciudadana, se coordinará con las Unidades de Protec
 
 ### CAPITULO TERCERO. DE LOS ESTABLECIMIENTOS Y LUGARES REGULADOS
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 12.
 
-Los establecimientos y lugares regulados por esta Ley se clasifican en los siguientes giros comerciales:
+La Secretaría de Gobierno podrá expedir las distintas clases de licencias y permisos correspondientes a los establecimientos y lugares regulados por esta Ley, que señale la Ley de Hacienda del Estado de acuerdo a los elementos y clasificación siguiente:
 
-TIPO I. Establecimientos autorizados en los que la actividad preponderante sea la venta de bebidas alcohólicas en envase abierto o al copeo, para consumirse dentro del mismo local, y que pueden ser:
+I. De acuerdo a la ubicación del establecimiento, en las zonas
 
-1. Cantina. Establecimiento con acceso únicamente para personas mayores de edad, en el que se venden bebidas alcohólicas al copeo o en envase abierto, para consumirse en el interior del mismo local.
+a. Urbana.- Tratándose de poblaciones con más de 2500 habitantes;
 
-2. Cervecería. Establecimiento con acceso únicamente para personas mayores de edad, dedicado exclusivamente a la venta de cerveza al menudeo, de cualquier tipo y forma de envase para consumirse en el interior del mismo local.
+b. Rural.- Tratándose de poblaciones con menos de 2500 habitantes;
 
-3. Pulquería. El establecimiento con acceso únicamente para personas mayores de edad, dedicado exclusivamente a la venta de pulque al menudeo, ya sea de barril o envasado, para consumirse en el interior del mismo local.
+II. De acuerdo a su ubicación y capital invertido en infraestructura las categorías serán:
 
-TIPO II. Establecimientos autorizados en los que se venden bebidas alcohólicas en envase abierto o al copeo, para consumirse únicamente con alimentos dentro del mismo local o donde se oferten éstos, y que pueden ser:
+"A" cuando se ubican en zona urbana y su inversión es mayor de, 4000 VSMGZ;
 
-A. Con Consumo de alimentos:
+"B" cuando se ubican en zona urbana y su inversión es de hasta, 4000 VSMGZ;
 
-4. Restaurante. Establecimiento en el que pueden venderse al menudeo, y consumirse bebidas alcohólicas únicamente acompañadas de alimentos dentro del mismo local, el cual deberá contar con instalaciones de cocina para la preparación de éstos.
+"C" cuando se ubican en zona rural cualquiera que sea su inversión;
 
-5. Fonda, Cenaduría, Lonchería, Ostionería, Marisquería y Taquería. Establecimientos en los que de forma accesoria a la venta de alimentos preparados se vende cerveza para consumirse únicamente con éstos dentro del mismo local.
+III. De acuerdo al tipo de establecimiento y al giro autorizado serán:
 
-6. Café Cantante. Establecimiento en el que se realizan actividades de carácter artístico y cultural, con venta de café y en forma accesoria bebidas alcohólicas en envase abierto o al copeo, únicamente con alimentos, para consumirse dentro del mismo local.
+TIPO I. Establecimientos autorizados en los que la venta de bebidas alcohólicas se realiza en envase abierto o al copeo, para consumirse dentro del mismo local o donde se oferten, y que pueden ser:
 
-7. Peña. Establecimiento que proporciona servicio de restaurante con venta de bebidas alcohólicas únicamente con alimentos para consumirse dentro del mismo local, en forma accesoria a otras actividades de carácter artístico o cultural.
+1. Cantina: Establecimiento con acceso únicamente para personas mayores de edad, en el que se venden bebidas alcohólicas.
 
-8. Centro Turístico y Balneario. Aquellos lugares que por sus bellezas naturales, adaptaciones arquitectónicas, tradición folklórica u otras condiciones semejantes, a juicio de la autoridad competente, constituyen sitios de descanso y atracción para los turistas, en donde pueden venderse bebidas alcohólicas en envase abierto o al copeo, únicamente con alimentos, para consumirse dentro de sus instalaciones.
+2. Cervecería: Establecimiento con acceso únicamente para personas mayores de edad, dedicado exclusivamente a la venta de cerveza al menudeo, de cualquier tipo y forma de envase.
 
-B. Con oferta de alimentos:
+3. Pulquería: El establecimiento con acceso únicamente para personas mayores de edad, dedicado exclusivamente a la venta de pulque al menudeo, ya sea de barril o envasado.
 
-9. Club social y otros similares. Aquellos centros de reunión que se sostengan con la cooperación de sus socios, sean de uso exclusivo de los mismos y realicen actividades recreativas, culturales y deportivas, en donde pueden venderse bebidas alcohólicas en envase abierto o al copeo, para consumirse dentro de sus instalaciones.
+TIPO II. Establecimientos autorizados en los que se venden bebidas alcohólicas en envase abierto o al copeo, y que únicamente pueden consumirse acompañadas con alimentos dentro del mismo local o donde se oferten éstos, y que pueden ser:
 
-10. Discoteca. Establecimiento con acceso únicamente para personas mayores de edad, que cuenta con pista para bailar y ofrece música continua, grabada o en vivo, en donde pueden venderse bebidas alcohólicas en envase abierto o al copeo, para su consumo dentro del mismo local.
+4. Restaurante: Establecimiento dedicado a la preparación y venta de alimentos en el que pueden consumirse bebidas alcohólicas, por lo cual deberá contar con instalaciones de cocina.
 
-11. Bar. Establecimiento con acceso únicamente para persona mayores de edad, en donde de manera independiente o formando parte de otro giro, se venden preponderamente bebidas alcohólicas en envase abierto o al copeo, para consumirse dentro del mismo local.
+5. Fonda, Cenaduría, Lonchería, Ostionería, Marisquería y Taquería: Establecimientos en los que de forma accesoria a la venta de alimentos preparados se vende cerveza.
 
-12. Centro nocturno. Establecimiento con acceso únicamente para personas mayores de edad, en donde se presentan espectáculos o variedades y cuenta con pista de baile, música en vivo o grabada, y se venden bebidas alcohólicas en envase abierto o al copeo, para su consumo dentro del mismo local.
+6. Café Cantante; Establecimiento en el que se realizan actividades de carácter artístico y cultural, con venta de café y en forma accesoria bebidas alcohólicas.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+7. Peña: Establecimiento que proporciona servicio de restaurante con venta de bebidas alcohólicas y se realizan otras actividades de carácter artístico o cultural.
 
-13. Salón de Fiestas. Establecimiento en el cual se realizan eventos sociales de carácter privado y donde pueden consumirse bebidas alcohólicas al copeo y en envase abierto.
+8. Centro Turístico y Balneario: Aquellos lugares que por sus características, a juicio de la autoridad, constituyen sitios de descanso o de atracción turística, en donde pueden venderse bebidas alcohólicas.
 
-TIPO III. Establecimientos autorizados en los que se expenden bebidas alcohólicas en envase cerrado, con prohibición de consumirse en el interior del mismo establecimiento y que pueden ser:
+TIPO III. Establecimientos autorizados en los que se venden bebidas alcohólicas en envase abierto o al copeo, con oferta al consumo de alimentos dentro del mismo local, y que pueden ser:
 
-14. Depósito de Cerveza. Establecimiento o lugar en donde se vende y distribuye exclusivamente cerveza en envase cerrado.
+9. Club social y similares: Aquellos centros de reunión que se sostengan con la cooperación de sus socios, sean de uso exclusivo de los mismos y realicen actividades recreativas, culturales y deportivas, en donde pueden venderse bebidas alcohólicas.
 
-15. Vinatería. Establecimiento donde se venden bebidas alcohólicas al menudeo exclusivamente en envase cerrado.
+10. Discoteca: Establecimiento con acceso únicamente para personas mayores de edad, que cuenta con pista para bailar y ofrece música continua, grabada o en vivo, en donde pueden venderse bebidas alcohólicas.
 
-16. Bodega o Almacén de Cerveza, Vinos y Licores. Establecimiento en donde se almacenan bebidas alcohólicas, para su venta y distribución al mayoreo, considerando como tal la venta de una caja o más de cualquiera de estos productos.
+11. Bar: Establecimiento con acceso únicamente para personas mayores de edad, en donde se venden preponderantemente bebidas alcohólicas, salvo que la actividad que se realice en el mismo esté prevista en la presente Ley como un giro específico.
 
-17. Tienda de Autoservicio, Abarrotes, Miscelánea y similares. Establecimiento que venden al público bebidas alcohólicas en envase cerrado, como actividad complementaria a otro giro comercial:
+12. Centro nocturno: Establecimiento con acceso únicamente para personas mayores de edad, en donde se presentan espectáculos o variedades, cuenta con pista de baile, música en vivo o grabada, y se venden bebidas alcohólicas.
 
-Los propietarios y encargados de los establecimientos señalados en los puntos 14, 15, 16 y 17 de éste artículo tendrán la obligación de proporcionar a la Secretaría de Gobierno, cada vez que ésta lo solicite, una copia de su declaración de clientes y proveedores que presente a la Secretaría de Hacienda y Crédito Público.
+13. Salón de Fiestas: Establecimiento en el cual se realizan eventos sociales de carácter privado y donde pueden consumirse bebidas alcohólicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+14. Hotel o Motel: Establecimiento que ofrece hospedaje con servicios complementarios de venta de bebidas alcohólicas en su bar, restaurante o servicio a cuarto;
 
-TIPO IV. Lugares públicos o privados en los que se presenten eventos artísticos y deportivos, se celebren festividades cívicas o tradicionales o se realicen eventos especiales y cuenten con permiso temporal para la venta y consumo de bebidas alcohólicas, debiendo aquella efectuarse al menudeo, en envase de cartón, plástico o cualquier otro material blando o ligero.
+15. Billar: Establecimiento dedicado al esparcimiento mediante la renta de mesas de billar, con acceso exclusivo para personas mayores de edad, en la que se venden bebidas alcohólicas.
 
-Los establecimientos indicados en los puntos 1, 2, 3, 9, 10, 11, 12 y 13 de este artículo, deberán ofertar y promocionar el consumo de alimentos preparados al interior de los mismos, debiendo para ello incluir en su carta alimentos de precio igual o menor al de las bebidas alcohólicas ofertadas al precio más bajo.
+TIPO IV. Establecimientos autorizados en los que se expenden bebidas alcohólicas en envase cerrado, con prohibición de consumirse en el interior del mismo establecimiento o donde se oferten y que pueden ser:
 
-Para los efectos de ésta ley, no se consideran alimentos los siguientes: frituras, frutos secos y similares en cualquier presentación, aunque estos sean preparados dentro del mismo establecimiento.
+16. Depósito de Cerveza: Establecimiento en donde se vende exclusivamente cerveza.
 
-Los propietarios o encargados de los establecimientos y lugares comprendidos en los tipos I y II de esta artículo deberán abstenerse de proporcionar a sus clientes recipientes de cualquier clase o material que les facilite a éstos la transportación de bebidas alcohólicas hacia el exterior de dichos establecimientos o lugares.
+17. Vinatería: Establecimiento cuya actividad preponderante es la venta de bebidas alcohólicas.
+
+18. Bodega o Almacén: Establecimiento en donde se almacenan bebidas alcohólicas, para su venta y distribución al mayoreo.
+
+19. Tienda de Autoservicio. de conveniencia y similares: Establecimiento que vende al público bebidas alcohólicas en envase cerrado, como actividad complementaria a su actividad comercial, por lo que la inversión en producto para tal propósito podrá representar como máximo el veinticinco por ciento de la inversión en mercancía que oferta el establecimiento;
+
+20. Abarrotes, Miscelánea y similares: Establecimiento comercial de venta de abarrotes que vende al público cerveza en envase cerrado como actividad complementaria a su actividad comercial, por lo que la inversión en producto para tal propósito podrá representar como máximo el veinte por ciento de la inversión en mercancía que oferta el establecimiento;
+
+TIPO V. Lugares públicos o privados, cobrando o no cuotas de admisión, en los que se presenten eventos artísticos y deportivos, se celebren festividades cívicas o tradicionales, o se realicen eventos especiales en los que de manera temporal se realiza la venta y consumo de bebidas alcohólicas, debiendo aquella efectuarse al menudeo, en envase de cartón, plástico o cualquier otro material blando o ligero y bajo las condiciones que al efecto señale la Secretaría de Gobierno del Poder Ejecutivo del Estado;
+
+TIPO VI. Establecimientos comerciales que de manera eventual ofrecen para degustación productos con contenido alcohólico para promoción de los mismos;
+
+TIPO VII. Establecimientos comerciales que cuentan con trámite vigente para la obtención de licencia y de manera provisional venden bebidas alcohólicas.
+
+IV. De acuerdo a la bebida alcohólica permitida para su almacenaje, venta, porteo y consumo, podrán ser las autorizaciones siguientes:
+
+a) Pulque: considerando como tal la bebida alcohólica fermentada de maguey;
+
+b) Cerveza: considerando como tal la bebida de contenido alcohólico medio, fermentada de granos de cebada y sus similares;
+
+c) Licor artesanal: considerando como tal la bebida alcohólica normalmente dulce, con sabor a frutas, hierbas, crema o especias, preparado de manera artesanal;
+
+d) Vino de Mesa: considerando como tal la bebida generosa cuyo proceso de preparación es mediante la fermentación de uva, de graduación alcohólica de contenido medio; y
+
+e) Vino: considerando como tal el resto de las bebidas alcohólicas independientemente de cualquiera que sea su proceso de preparación o su graduación alcohólica.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 13.
 
-En los hoteles y moteles se podrán instalar como servicios complementarios, restaurantes y bares, los que quedarán sujetos a los requisitos y condiciones de esta ley y demás disposiciones legales aplicables.
+Los propietarios y encargados de los establecimientos autorizados para el almacenaje, venta, consumo y porteo de bebidas alcohólicas, estarán obligados a lo siguiente:
+
+I. Tratándose de establecimientos del Tipo IV, proporcionar a la Secretaría de Gobierno, cada vez que ésta lo solicite, una copia de sus declaraciones de pago de impuestos, de clientes y de proveedores que presente antes las autoridades hacendarias federales y estatales;
+
+II. Tratándose de establecimientos del Tipo I y del Tipo III, ofertar y promocionar el consumo de alimentos preparados al interior de los mismos, debiendo para ello incluir alimentos de precio igual o menor al de las bebidas alcohólicas ofertadas al precio más bajo. Para los efectos de ésta ley, no se consideran alimentos los siguientes: frituras, frutos secos y similares en cualquier presentación, aunque estos sean preparados dentro del mismo establecimiento;
+
+III. Abstenerse de proporcionar a sus clientes recipientes de cualquier clase o material que les facilite a éstos la transportación de bebidas alcohólicas hacia el exterior de dichos establecimientos;
+
+IV. Tratándose de establecimientos del Tipo IV no exceder el porcentaje máximo señalado de la inversión en bebidas alcohólicas en relación a la mercancía que oferta el establecimiento.
 
 ###### ARTÍCULO 14.
 
-La Secretaría de Gobierno podrá expedir las licencias y permisos correspondientes a los establecimientos y lugares regulados por esta Ley, clasificándolos de acuerdo a su giro, ubicación y capital invertido en infraestructura y mobiliario, en las siguientes categorías:
-
-a) Establecimientos y lugares ubicados en zona urbana que cuenten con un capital mínimo invertido de más del equivalente a 4,000 días del salario mínimo general vigente en el Estado;
-
-b) Establecimientos y lugares ubicados en zona urbana que cuenten con un capital mínimo invertido de más del equivalente a 2,000 y hasta 4,000 días del salario mínimo general vigente en el Estado;
-
-b) (sic) Establecimientos y lugares ubicados en zona urbana que cuenten con un capital mínimo invertido hasta el equivalente de 2,000 días del salario mínimo general vigente en el Estado;
-
-a) (sic) Establecimientos y lugares ubicados en zona rural que cuenten con un capital invertido de más del equivalente a 600 días de salario mínimo general vigente en el Estado; y
-
-b) (sic) Establecimientos ubicados en zona rural que cuenten con un capital mínimo invertido hasta el equivalente de 600 días del salario mínimo general vigente en el Estado.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2006)
 
 ### CAPITULO CUARTO. NORMAS DE FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS Y LUGARES REGULADOS
 
@@ -699,11 +725,11 @@ XXIX. Abstenerse de ofertar y promocionar el consumo de alimentos preparados al 
 
 XXX. Portear bebidas alcohólicas sin haber realizado el empadronamiento a que se refiere la fracción I del artículo 31 de esta Ley; y
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 45.
 
-Las autoridades competentes podrán imponer a los infractores una o más de las siguientes sanciones, tendiendo a la gravedad de la infracción:
+Las autoridades competentes podrán imponer a los infractores una o más de las siguientes sanciones, atendiendo a la gravedad de la infracción:
 
 I. Multa por incurrir en cada una de las prohibiciones previstas en el artículo 19 de la presente Ley, tomando como base el salario mínimo vigente en el Estado, en los siguientes términos:
 
@@ -723,7 +749,9 @@ Al imponer sanciones pecuniarias, la autoridad que emita la resolución deberá 
 
 En el supuesto de que la autoridad competente detecte que el titular de la licencia o permiso respectivo posiblemente ha incurrido en alguna de las causas de suspensión o revocación de los mismos, se abstendrá de imponer sanción alguna y de inmediato dará cuenta a la Secretaría de Gobierno, remitiéndole el expediente respectivo, la cual en su caso iniciará el procedimiento correspondiente.
 
-III. Suspensión por 30 días de los derechos derivados de la licencia, en caso de reincidencia en cualquiera de las fracciones señaladas en el artículo 44 de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+III. Suspensión de treinta días a los derechos derivados de la licencia, en caso de incumplimiento de las obligaciones señaladas en los artículos 12 y 13 de la presente Ley, así como en caso de reincidencia en cualquiera de las fracciones del artículo 44 de la presente Ley;
 
 IV. Suspensión por 60 días de los derechos derivados de la licencia, cuando con motivo de la inspección o verificación realizada por la autoridad competente se detecte que se han cometido dos o más infracciones de las señaladas en el artículo 44 de la presente Ley.
 
@@ -739,9 +767,13 @@ d) Los establecimientos regulados por esta Ley no cumplan con los requisitos de 
 
 e) Se vendan o suministren bebidas alcohólicas fuera de las presentaciones y especificaciones que establece la legislación sanitaria vigente;
 
-f) Se opere con la licencia o permiso suspendidos; y
+f) Se opere con la licencia o permiso suspendidos; y (sic)
 
-g) Cuando se reincida en el supuesto establecido en la fracción XXV del artículo 44 de este ordenamiento.
+g) Cuando se reincida en el supuesto establecido en la fracción XXV del artículo 44 de este ordenamiento;
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+h) Se incurra en el incumplimiento de la obligación establecida en la fracción IV del artículo 13 de la presente ley.
 
 VI. Clausura definitiva del establecimiento, cuando la resolución emitida dentro el Procedimiento Administrativo de Suspensión de los Derechos y Revocación las Licencias y Permisos, sea en el sentido de suspender o revocar los mismos.
 
@@ -989,7 +1021,7 @@ Artículo Quinto.- Se derogan todas aquellas disposiciones que se opongan a la p
 
 Artículo Sexto.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
-P.O. 8 DE DICIEMBRE DE 2006.
+P.O. 8 DE DICIEMBRE DE 2006:
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1010,3 +1042,19 @@ El Reglamento Interior de la Secretaría de Seguridad Ciudadana, se adecuará a 
 ###### ARTÍCULO QUINTO.
 
 Se derogan las disposiciones de igualo menor jerarquía que se opongan a la presente Ley.
+
+P.O. 22 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor el día primero de enero de 2007.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+ARTÍCULO. TERCERO.- Para efectos de la Ley que Regula el Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas en el Estado de Querétaro, quienes sean titulares de licencias para el almacenaje, venta, porteo y consumo de bebidas alcohólicas, deberán solicitar la regularización de las mismas de acuerdo la clase que les corresponda en función de su actividad preponderante, tipo, giro y demás elementos que se mencionan en el artículo 12 de la Ley antes mencionada. La regularización que se menciona en el presente no causará derechos durante el ejercicio fiscal del 2007, siempre y cuando se trate de licencias vigentes y sea solicitada dentro de los primeros seis meses del año 2007.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
