@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2006-11-17"
+last_updated: "2006-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2006.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -887,7 +887,11 @@ XIII. Recibir en acuerdo ordinario a los titulares de las unidades administrativ
 
 XIV. Informar a la comisión respectiva del resultado de las evaluaciones de las unidades administrativas que le correspondan, sobre la ejecución y avance de proyectos y programas;
 
-XV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como certificar las copias que obren en sus archivos;
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE DICIEMBRE DE 2006)</small>
+
+XV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como certificar las copias que obren en sus archivos.
+
+La facultad de certificar documentos relacionados con la competencia y atribuciones del área a su cargo, podrá delegarla en los secretarios técnicos, secretarios de apoyo y directores de área adscritos al área administrativa de que es titular, sin perjuicio de que la ejerza directamente. Para el control de las facultades delegadas, los titulares deberán llevar el registro de los funcionarios autorizados, e informar a la Secretaría Ejecutiva del Pleno del Consejo de la Judicatura Federal, de la delegación que hagan. La fecha en que se reciba la comunicación señalada establecerá el inicio de la eficacia de la delegación otorgada;
 
 XVI. Firmar con el Presidente, los demás consejeros integrantes y el secretario técnico de la comisión respectiva, las actas de las sesiones en las que participe;
 
@@ -1515,7 +1519,9 @@ XV. Presentar ante el Pleno el Informe Anual de Labores correspondiente al área
 
 XVI. Representar al órgano auxiliar del Consejo a su cargo, en todos los actos en la esfera de su competencia;
 
-XVII. Suscribir los documentos relativos al ejercicio de sus atribuciones y, en su caso, expedir copia certificada de aquellos que obren en sus archivos; y
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE DICIEMBRE DE 2006)</small>
+
+XVII. Suscribir los documentos relativos al ejercicio de sus atribuciones y, en su caso, expedir copia certificada de aquellos que obren en sus archivos. La facultad de certificar documentos relacionados con la competencia y atribuciones del área a su cargo, la podrá delegar de conformidad con lo previsto en la fracción XV del artículo 65 de este Acuerdo; y
 
 XVIII. Las demás que determine el acuerdo o reglamento interior del órgano auxiliar del Consejo y demás disposiciones aplicables.
 
@@ -1703,7 +1709,9 @@ XVIII. Registrar y controlar los bienes asignados a la dirección general a su c
 
 XIX. Proporcionar la información, datos o cooperación técnica que les sea requerida;
 
-XX. Certificar los documentos que obren en los archivos de la dirección general a su cargo, que sean expedidos en el ejercicio de sus funciones;
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE DICIEMBRE DE 2006)</small>
+
+XX. Certificar los documentos que obren en los archivos de la dirección general a su cargo, que sean expedidos en el ejercicio de sus funciones. La facultad de certificar documentos relacionados con la competencia y atribuciones del área a su cargo, la podrá delegar de conformidad con lo previsto en la fracción XV del artículo 65 de este Acuerdo;
 
 XXI. Rendir, a través del titular de la secretaría ejecutiva de que dependan, los informes a que estén obligadas, los cuales deberán ser firmados por ambos titulares; y
 
@@ -2903,7 +2911,9 @@ VII. Proponer las políticas para reunir, organizar y difundir el acervo documen
 
 VIII. Proporcionar capacitación técnica en la organización de archivos, sistemas y métodos para el control de documentos, así como asesorar en los asuntos de su competencia a los órganos jurisdiccionales, unidades administrativas y órganos auxiliares del Consejo;
 
-IX. Expedir, de conformidad con las disposiciones jurídicas aplicables, constancia de la existencia de los documentos que obren en sus acervos, así como remitir los expedientes administrativos que requieran los titulares de las unidades administrativas y órganos auxiliares del Consejo;
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ADICIONA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 22 DE DICIEMBRE DE 2006)</small>
+
+IX. Expedir, de conformidad con las disposiciones jurídicas aplicables, constancia de la existencia de los documentos que obren en sus acervos, así como remitir los expedientes administrativos que requieran los titulares de las unidades administrativas y órganos auxiliares del Consejo. La facultad de expedir constancias y certificar documentos relacionados con la competencia y atribuciones del área a su cargo, la podrá delegar de conformidad con lo previsto en la fracción XV del artículo 65 de este Acuerdo;
 
 X. Elaborar los manuales de organización, procedimientos y de servicios al público, de conformidad con las disposiciones normativas aplicables;
 
@@ -3314,3 +3324,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
+
+D.O.F. 22 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
