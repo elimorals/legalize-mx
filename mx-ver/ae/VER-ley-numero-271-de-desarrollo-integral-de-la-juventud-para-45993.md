@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-271-de-desarrollo-integral-de-la-juventud-para-45993
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-15"
-last_updated: "2005-08-15"
+last_updated: "2006-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DESARROLLO INTEGRAL DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el lunes 15 de agosto de 2005.
 
@@ -809,9 +809,11 @@ Las autoridades y servidores públicos considerados en la presente Ley que incum
 
 ### Capítulo Único
 
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 67.
 
-El Instituto promoverá ante el Congreso del Estado, a través de los integrantes de la Comisión Permanente de Juventud y Deporte del Poder Legislativo del Estado, la instalación anual del Parlamento, mismo que se realizará durante la primera semana del mes de octubre.
+El Instituto promoverá ante el Congreso del Estado, a través de los integrantes de la Comisión Permanente de Juventud y Deporte del Poder Legislativo del Estado, la instalación anual del Parlamento, mismo que se realizará durante la primera semana del mes de agosto.
 
 ###### Artículo 68.
 
@@ -823,9 +825,11 @@ II. El Director General del Instituto de la Juventud Veracruzana; y
 
 III. Un representante de la Secretaría de Educación y Cultura.
 
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 69.
 
-La organización, así como, el establecimiento de bases y lineamientos para la convocatoria, selección de aspirantes, logística y desarrollo del Parlamento de la Juventud, estará a cargo del Comité Organizador.
+El Comité Organizador se encargará de establecer las bases y lineamientos de la convocatoria, selección de aspirantes, logística y desarrollo del Parlamento de la Juventud, procurando en todo momento que los temas de la convocatoria sean de actualidad y tengan impacto directo en la juventud veracruzana.
 
 ###### Artículo 70.
 
@@ -868,3 +872,11 @@ A t e n t a m e n t e
 "Sufragio efectivo. No reelección"
 
 Licenciado Fidel Herrera Beltrán, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 22 DE DICIEMBRE DE 2006.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente.
