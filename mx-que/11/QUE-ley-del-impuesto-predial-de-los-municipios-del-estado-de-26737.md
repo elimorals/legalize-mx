@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-de-los-municipios-del-estado-de-26737"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2005-12-29"
+last_updated: "2006-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -317,9 +317,7 @@ Los Municipios acordarán cuál de las dos tarifas se aplicará para cada año, 
 
 Se entiende por predio de producción agrícola, con dominio pleno que provenga de ejido a aquél que se destine a la agricultura independientemente de que cuente con infraestructura urbana.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2005)</small>
-
-En los casos en que la aplicación de los valores catastrales y la tarifa correspondiente, resulte como consecuencia un incremento mayor al 5 por ciento de impuesto causado en el ejercicio fiscal inmediato anterior, únicamente se incrementará hasta un 5 por ciento para el ejercicio fiscal de que se trate.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 25.
 
@@ -692,3 +690,13 @@ El contenido de la Ley se publicará en los diarios de mayor circulación en la 
 ###### ARTÍCULO TERCERO.
 
 Los municipios podrán aplicar cualquiera de las dos tarifas señaladas en el artículo 24 de la presente Ley para el Ejercicio Fiscal 2006, debiendo informar en la cuenta pública el primer trimestre su determinación.
+
+P.O. 22 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1 de enero de 2007 y ordenándose su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones fiscales que se opongan a la presente Ley, y el artículo tercero transitorio de la presente, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", de fecha 9 de diciembre de 2004.
