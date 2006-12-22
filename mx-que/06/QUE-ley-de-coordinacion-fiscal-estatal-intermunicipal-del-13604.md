@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-coordinacion-fiscal-estatal-intermunicipal-del-13604"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "2006-11-17"
+last_updated: "2006-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE COODINACION FISCAL ESTATAL-INTERMUNICIPAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de diciembre de 1996.
 
@@ -185,9 +185,13 @@ III.- La Comisión de Capacitación y Asesoría Fiscal.
 
 La Convención Fiscal de las Tesorerías Municipales del Estado se integrarán por el Titular de la Secretaría de Planeación y Finanzas o su representante y por los Tesoreros Municipales de los Ayuntamientos de la Entidad.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 18.
 
-La Convención Fiscal de las Tesorerías Municipales del Estado llevará a cabo dentro de los dos primeros meses de cada año, excepto en el primer año del trienio constitucional, en el que se realizarán dos, una en el primer mes del ejercicio fiscal aludido y otro durante el lapso comprendido en los dos últimos meses del mismo año, a convocatoria expedida por la Comisión Permanente de Tesoreros Municipales, indicándose los asuntos de que deba ocuparse la Convención.
+La Convención Fiscal de las Tesorerías Municipales del Estado se llevará a cabo durante el mes de octubre de cada año.
+
+La Comisión Permanente de Tesoreros Municipales hará las convocatorias correspondientes, indicando los asuntos que habrán de atenderse en la Convención.
 
 ###### ARTICULO 19.
 
@@ -205,9 +209,11 @@ III.- Proponer al Ejecutivo del Estado por conducto de la Secretaría de Planeac
 
 IV.- Evaluar los planes y programas de los organismos de la colaboración administrativa entre el Estado y sus Municipios y aprobarlos cuando proceda.
 
+> <small>(REFORMADO PRIMER PARRAFO, 22 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 21.
 
-Cuando la Convención Fiscal de las Tesorerías Municipales del Estado se realice dentro de los dos últimos meses del año conocerán de los siguientes asuntos:
+En las reuniones de la Convención Fiscal de las Tesorerías Municipales del Estado, se conocerán de los siguientes asuntos:
 
 I.- Informe de la Comisión Permanente de Tesoreros Municipales respecto de la distribución, liquidación de pagos provisionales y diferencias de participaciones derivadas de ingresos federales y estatales del año precedente.
 
@@ -453,64 +459,20 @@ Artículo Tercero.- Los artículos 93 y 153 de la Ley Orgánica del Poder legisl
 
 Artículo Cuarto.- Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
 
-###### ARTICULO TERCERO.
+P.O. 22 DE DICIEMBRE DE 2006.
 
-Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+###### ARTÍCULO PRIMERO.
 
-###### ARTICULO CUARTO.
+La presente Ley entrará en vigor el día primero de enero de 2007.
 
-Con el objeto de atenuar los efectos de la actualización de las bases de distribución de participaciones federales correspondientes a los Municipios a que se refiere el artículo 4 de esta Ley, se establece un periodo de transición de 4 años para aplicar la diferencia en forma lineal en los términos siguientes:
+###### ARTÍCULO SEGUNDO.
 
-AÑO FORMULA A APLICAR
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
-1997 F+((Fa-F) (0.20))
+###### ARTÍCULO TERCERO.
 
-1998 F+((Fa-F) (0.40))
+Para efectos de la Ley que Regula el Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas en el Estado de Querétaro, quienes sean titulares de licencias para el almacenaje, venta, porteo y consumo de bebidas alcohólicas, deberán solicitar la regularización de las mismas de acuerdo (sic) la clase que les corresponda en función de su actividad preponderante, tipo, giro y demás elementos que se mencionan en el artículo 12 de la Ley antes mencionada. La regularización que se menciona en el presente no causará derechos durante el ejercicio fiscal del 2007, siempre y cuando se trate de licencias vigentes y sea solicitada dentro de los primeros seis meses del año 2007.
 
-1999 F+((Fa-F) (0.60))
+###### ARTÍCULO CUARTO.
 
-2000 F+((Fa-F) (0.80))
-
-Los elementos de la fórmula se entenderán como:
-
-F= FACTOR PONDERADO DEL REPARTO DE PARTICIPACIONES CORRESPONDIENTE A 1996.
-
-MUNICIPIO FACTOR
-
-AMEALCO DE BONFIL 3.23
-
-ARROYO SECO 2.73
-
-CADEREYTA DE MONTES 4.33
-
-COLON 3.34
-
-CORREGIDORA 4.08
-
-EL MARQUES 4.04
-
-EZEQUIEL MONTES 3.71
-
-HUIMILPAN 2.64
-
-JALPAN DE SERRA 3.74
-
-LANDA DE MATAMOROS 2.84
-
-PEDRO ESCOBEDO 3.19
-
-PEÑAMILLER 2.65
-
-PINAL DE AMOLES 2.95
-
-QUERETARO 38.66
-
-SAN JOAQUIN 2.52
-
-SAN JUAN DEL RIO 8.84
-
-TEQUISQUIAPAN 3.69
-
-TOLIMAN 2.82
-
-Fa = FACTOR DETERMINADO PARA CADA AÑO SEGÚN LO ESTABLECIDO EN EL ARTICULO 4 DE ESTA LEY.
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
