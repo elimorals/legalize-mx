@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-proteccion-e-inclusion-de-las-personas-con-22515"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2002-09-28"
+last_updated: "2006-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY PARA LA PROTECCION E INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT -- ANTES LEY DE DISCAPACITADOS DEL ESTADO DE NAYARIT -- ANTES LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT--
 
-LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
+LEY DE DISCAPACITADOS DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 15 de mayo de 1996.
 
@@ -41,7 +41,9 @@ El H. Congreso del Estado Libre y Soberano de Nayarit, representado por su XXIV 
 
 D E C R E T A :
 
-LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+LEY DE DISCAPACITADOS DEL ESTADO DE NAYARIT
 
 ## TITULO PRIMERO. DEL OBJETO DE LA LEY
 
@@ -51,23 +53,61 @@ LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por finalidad, el establecimiento de medidas y acciones que contribuyan al desarrollo integral de las personas que padecen algún tipo y grado de discapacidad en el Estado de Nayarit
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 2o.
 
-Para los efectos de esta Ley se entenderá por discapacitado, a toda persona con capacidad disminuida o limitada para realizar las actividades necesarias en su normal desempaño físico, mental, ocupacional y económico como consecuencia de una insuficiencia somática o psicológica.
+Para los efectos de esta Ley se entenderá por:
+
+I.- Discapacitado.- Toda persona con capacidad disminuida o limitada para realizar las actividades necesarias en su normal desempaño físico, mental, ocupacional y económico como consecuencia de una insuficiencia somática o psicológica;
+
+II.- Asistencia Social.- Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+
+III.- Comunidad de Sordos.- Todo aquel grupo social cuyos miembros tienen como característica fundamental no poseer el sentido auditivo para sostener una comunicación y socialización natural y fluida en lengua oral alguna;
+
+IV.- Consejo Estatal.- Consejo Estatal para las Personas con Discapacidad;
+
+V.- Prevención.- La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
+
+VI.- Rehabilitación.- Proceso de duración limitada y con el objeto definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social; y
+
+VII.- Equiparación de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 3o.
 
-Corresponde al Sistema Integral de la Familia del Estado, en su carácter de coordinador del Sistema Estatal de Asistencia Social, valorar y calificar, por conducto de una Comisión Especial interdisciplinaria, el tipo y grado de discapacidad de las personas a fin de acceder a los diferentes beneficios y servicios que dispone el presente ordenamiento, sin perjuicio de las funciones y atribuciones que corresponda efectuar a otros organismos administrativos, según sea el ámbito competencial.
+Corresponde al Centro de Rehabilitación y Educación Especial, valorar y calificar, por conducto de una Comisión Especial interdisciplinaria, el tipo y grado de discapacidad de las personas a fin de acceder a los diferentes beneficios y servicios que dispone el presente ordenamiento, sin perjuicio de las funciones y atribuciones que corresponda efectuar a otros organismos administrativos, según sea el ámbito competencial.
 
 El diagnóstico que emita la comisión señalada deberá comprender los diversos aspectos de la personalidad y las disminuciones del presunto discapacitado, entorno familiar y orientación terapéutica, determinado las necesidades, aptitudes y posibilidades de recuperación, así como las disposiciones relativas a el seguimiento y revisión.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 4o.
 
-El Gobierno del Estado y los Municipios, prestarán por sí o en coordinación con el gobierno federal, los recursos humanos, técnicos y financieros indispensables para el cumplimiento de los fines y ejercicio de los derechos a que se refiere el artículo 6o. del presente ordenamiento.
+El Gobierno del Estado y los Municipios, prestarán por sí o en coordinación con el gobierno federal, los recursos humanos, técnicos y financieros indispensables para el cumplimiento de los fines y ejercicio de los derechos a que se refiere el artículo 6o. del presente ordenamiento, por lo que deberá contemplarse en el Presupuesto de Egresos del Estado las partidas correspondientes para la aplicación de los programas dirigidos a las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 5o.
 
-Las instituciones y organismos ejecutores de esta Ley, prestarán atención especial a las instituciones, asociaciones y fundaciones promovidas por los propios discapacitados, sus familiares o sus representantes legales, sin ánimo de lucro.
+Las instituciones y organismos ejecutores de esta Ley, prestarán atención especial a las instituciones, asociaciones y fundaciones promovidas por los propios discapacitados, sus familiares o sus representantes legales, sin ánimo de lucro, promoviendo políticas públicas basadas en:
+
+a).- La equidad;
+
+b).- La justicia social;
+
+c).- La equiparación de oportunidades;
+
+d).- El reconocimiento de la igualdad entre humanos;
+
+e).- La dignidad;
+
+f).- La integración;
+
+g).- El respeto; y
+
+h).- La accesibilidad.
 
 ### Capítulo II. De los derechos de los discapacitados
 
@@ -161,9 +201,11 @@ IV.- Rehabilitación socioeconómica y laboral; y
 
 V.- Cultura, recreación y deporte.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 11.
 
-En coordinación con otras instituciones o servicios gubernamentales y la iniciativa social o privada, el Estado fomentará y establecerá un sistema estatal de rehabilitación para la población abierta, acercandolo a los usuarios y comunidades mediante la fundación de centros regionales o municipales bajo la dirección del Sistema para el Desarrollo Integral de la Familia de Nayarit.
+En coordinación con otras instituciones o servicios gubernamentales y la iniciativa social o privada, el Estado fomentará y establecerá un sistema estatal de rehabilitación para la población abierta, acercándolo a los usuarios y comunidades mediante la fundación de centros regionales o municipales bajo la dirección del Centro de Rehabilitación y Educación Especial.
 
 ## TITULO TERCERO. PROCESOS DE REHABILITACION
 
@@ -177,9 +219,11 @@ La rehabilitación médico-funcional dirigida a dotar de las condiciones precisa
 
 Los procesos de rehabilitación se complementarán con la prescripción, adaptación y en su caso suministro de aparatos de prótesis y órtesis, así como de otros elementos auxiliares para los discapacitados cuya condición lo amerite.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 14.
 
-El Sistema para el Desarrollo Integral de la Familia en el Estado de Nayarit, fomentará la formación de profesionales, así como la investigación en materia de rehabilitación médico-funcional, procurando que las personas con discapacidad tengan acceso al equipo y recursos auxiliares de acuerdo a sus necesidades y capacidad financiera.
+Los Servicios de Salud de Nayarit y el Sistema para el Desarrollo Integral de la Familia en el Estado de Nayarit, fomentará la formación de profesionales, así como la investigación en materia de rehabilitación médico-funcional, procurando que las personas con discapacidad tengan acceso a los beneficios que de ello se deriven.
 
 ### Capítulo II. Educación General o Especial
 
@@ -211,6 +255,8 @@ V.- La capacitación de padres o tutores, así como también a los maestros y pe
 
 Los organismos e instituciones de educación del Gobierno del Estado de Nayarit, promoverán programas de estímulos a docentes que atiendan a personas con discapacidad integrados en el sistema educativo general ordinario.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 19.
 
 Cuando dentro del sistema educativo regular se detecte la presencia de menores con algún tipo de discapacidad, por los conductos administrativos correspondientes serán canalizados para seguimiento y valoración al Centro de Rehabilitación y Educación Especial, el Sistema para el Desarrollo Integral de la Familia del Estado y/o a los Centros de Educación Especial inmediatos autorizados, y de resultar procedente, reciban la atención terapéutico educacional en los servicios específicos existentes.
@@ -231,19 +277,25 @@ La orientación y tratamiento psicológico tendrán en cuenta las característic
 
 ### Capítulo IV. Rehabilitación socioeconómica y laboral, y del empleo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 23.
 
-El Sistema para el Desarrollo Integral de la Familia en el Estado, promoverá la integración de las personas con discapacidad en el sistema ordinario de trabajo o, en su caso, la incorporación al sistema productivo en Talleres y Centros Especiales de Empleo.
+El Consejo Estatal, el Sistema Estatal de Empleo y Sistema para el Desarrollo Integral de la Familia en el Estado, en coordinación con las dependencias federales relacionadas con la materia promoverá la integración de las personas con discapacidad en el sistema ordinario de trabajo o, en su caso, la incorporación al sistema productivo en Talleres y Centros Especiales de Empleo.
 
 A este efecto, promoverá la capacitación de las personas con discapacidad con el fin de permitir e incrementar su inserción en el mercado de trabajo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 24.
 
-El Sistema Estatal para el Desarrollo Integral de la Familia velará porque los programas de capacitación dirigidos a las personas con discapacidad se lleven a cabo de acuerdo a las necesidades de éstas y a los requerimientos de la planta laboral o las posibilidades de empleo.
+El Consejo Estatal, el Sistema Estatal de Empleo y el Sistema Estatal para el Desarrollo Integral de la Familia implementarán programas de capacitación dirigidos a las personas con discapacidad se lleven a cabo de acuerdo a las necesidades de éstas y a los requerimientos de la planta laboral o las posibilidades de empleo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 25.
 
-Corresponderá al Sistema Estatal para el Desarrollo Integral de la Familia facilitar la relación entre los organismos de capacitación con las empresas y oficinas públicas y privadas, con el objeto de obtener la colocación en puestos de trabajo de las personas con discapacidad.
+Corresponderá al Consejo Estatal, al Sistema Estatal de Empleo, y la Secretaría de Desarrollo Económico, facilitar la relación entre los organismos de capacitación con las empresas y oficinas públicas y privadas, con el objeto de dar colocación en puestos de trabajo a personas con discapacidad.
 
 ###### Artículo 26.
 
@@ -251,9 +303,11 @@ El Gobierno del Estado y los Ayuntamientos, tanto en su administración centrali
 
 Esta disposición no podrá, en ningún caso, significar creación de empleos ni desplazamiento de trabajadores o servidores públicos ya contratados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 27.
 
-El Gobierno del Estado y los Ayuntamientos, promoverán y apoyarán la creación de Talleres Protegidos y Centros Especiales de empleo para las personas que, en razón de su discapacidad, no puedan provisional o definitivamente, ejercer una actividad laboral en el marco del sistema ordinario de trabajo.
+El Gobierno del Estado y los Ayuntamientos, en coordinación con la iniciativa privada, promoverán y apoyarán la creación de Talleres Protegidos y Centros Especiales de empleo para las personas que, en razón de su discapacidad, no puedan provisional o definitivamente, ejercer una actividad laboral en el marco del sistema ordinario de trabajo.
 
 Los Talleres Protegidos son centros productivos formados por las propias personas con discapacidad, sus familiares u organizaciones constituidas por ellos, para el desarrollo de actividades comerciales, industriales o de servicios, debiéndose orientar a actividades rentables que faciliten su autofinanciamiento.
 
@@ -267,9 +321,11 @@ Los centros especiales de empleo podrán ser creados por el Gobierno del Estado,
 
 El trabajo que realicen las personas con discapacidad en los centros especiales de empleo, deberá ser productivo y remunerado, adecuado a las características individuales del trabajador, en orden a favorecer su adaptación personal y social y facilitar en su caso, su posterior integración en el mercado ordinario de trabajo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 30.
 
-El Sistema para el Desarrollo Integral de la Familia, el Gobernador o los Ayuntamientos del Estado promoverán el otorgamiento de estímulos fiscales para aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes, en virtud de tales contrataciones, realicen adaptaciones, eliminación de barreras físicas o rediseño de sus áreas de trabajo.
+El Gobernador y los Ayuntamientos promoverán el otorgamiento de estímulos fiscales para aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes, en virtud de tales contrataciones, realicen adaptaciones, eliminación de barreras físicas o rediseño de sus áreas de trabajo.
 
 ###### Artículo 31.
 
@@ -315,9 +371,11 @@ III. Sanitarios; y
 
 IV. Los demás bienes y espacios físicos establecidos por esta ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 37.
 
-Quedan exceptuadas de la obligación anterior las reparaciones o modificaciones que exigieran la higiene, el ornato y la normal conservación de los inmuebles existentes, así como las obras de reconstrucción o conservación de los monumentos de interés histórico o artístico.
+Deberán realizarse las adecuaciones de accesibilidad en los edificios que tengan el carácter de históricos, para el disfrute y estudio de las personas con discapacidad.
 
 ###### Artículo 38.
 
@@ -363,9 +421,11 @@ Los conductores de vehículos automotores, que invadan u ocupen los espacios des
 
 Los edificios que tengan escaleras en su acceso desde la vía pública, deberán contar con un sistema de rampas para dar servicio a las personas con discapacidad, instalándose o adecuándose en su caso pasamanos, barandales o elevadores con las características de seguridad y diseño que disponga la autoridad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 47.
 
-El Ejecutivo del Estado procurará que en los programas para el desarrollo urbano del Estado, se establezcan las adecuaciones de facilidades urbanísticas y arquitectónicas que se requieran conforme a las necesidades de las personas con discapacidad debiéndose contemplar las directrices a que deban someterse los proyectos de construcciones o modificaciones respectivas.
+El Ejecutivo del Estado y los Municipios procurarán que en los programas para el desarrollo urbano se establezcan las adecuaciones urbanísticas y arquitectónicas que se requieran conforme a las necesidades de las personas con discapacidad debiéndose contemplar las directrices a que deban someterse los proyectos de construcciones o modificaciones respectivas.
 
 Los proyectos de construcción de zonas urbanas de nueva creación y conjuntos habitacionales que constituyan un complejo arquitectónico, contemplarán las directrices antes señaladas, a fin de que tales inmuebles resulten de fácil acceso para las personas con discapacidad.
 
@@ -375,9 +435,11 @@ Los Ayuntamientos asumirán, en los términos de este ordenamiento y convenios q
 
 ### Capítulo II. Del Servicio Público de Transporte
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 49.
 
-Sin perjuicio de lo dispuesto en otros ordenamientos legales, las personas con discapacidad tienen derecho a contar con preferencias que les permitan su transporte y libre desplazamiento.
+Sin perjuicio de lo dispuesto en otros ordenamientos legales, las personas con discapacidad tienen derecho a contar con preferencias que les permitan el abordaje, libre desplazamiento y descenso en el transporte.
 
 El Ejecutivo del Estado, en los términos de la ley de la materia, otorgará concesiones de Transporte especializado a las organizaciones o particulares que satisfagan los requisitos y condiciones que la misma establece, debiendo reunir además, las especificaciones técnicas y especiales que permitan el acceso y uso adecuado a las personas con capacidad.
 
@@ -387,19 +449,25 @@ Cuando en las poblaciones o localidades del Estado no existan transportes especi
 
 Estos asientos deberán estar situados cerca de la puerta de acceso del vehículo de que se trate y tendrán un emblema y leyenda para su identificación, pudiendo ser utilizados por los usuarios no discapacitados, siempre y cuando no sean requeridos por alguna persona con discapacidad.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 51.
 
-Las autoridades de Tránsito y Transportes del Estado, contribuirán a garantizar el uso adecuado de las zonas preferenciales o exclusivas para estacionamiento de vehículos de servicio público en los que viajen personas con discapacitados, tanto en la vía pública como en lugares de acceso público, cuidando que no se afecte gravemente el libre tránsito de peatones y vehículos.
+Las autoridades de Tránsito y Transportes del Estado y los Municipios, contribuirán a garantizar el uso adecuado de las zonas preferenciales o exclusivas para estacionamiento de vehículos de servicio público en los que viajen personas con discapacitados, tanto en la vía pública como en lugares de acceso público, cuidando que no se afecte gravemente el libre tránsito de peatones y vehículos.
 
 ### Capítulo III. De los programas de educación vial, cortesía urbana y respeto a personas con discapacidad
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 52.
 
-El Gobierno del Estado, por conducto de las autoridades de Tránsito, del Sistema Estatal para el Desarrollo Integral de la Familia y las instituciones u organismos de Educación y Cultura, diseñará e instrumentará campañas y programas permanentes de educación vial y cortesía urbana, orientados a lograr la aceptación y respeto de los derechos de las personas con discapacidad en su tránsito por la vía pública, lugares de acceso al público, centros de trabajo y demás actividades para evitar la discriminación, indiferencia, el abuso y la marginación social.
+El Gobierno del Estado, por conducto de los Consejos Estatal y Municipales, las autoridades de Tránsito, del Sistema Estatal para el Desarrollo Integral de la Familia y las instituciones u organismos de Educación y Cultura, diseñará e instrumentará campañas y programas permanentes de educación vial y cortesía urbana, orientados a lograr la aceptación y respeto de los derechos de las personas con discapacidad en su tránsito por la vía pública, lugares de acceso al público, centros de trabajo y demás actividades para evitar la discriminación, indiferencia, abuso y marginación social.
 
 Estos programas y campañas se difundirán de manera amplia por la radio estatal y los diferentes medios de comunicación existentes en la Entidad.
 
-La Secretaría de Educación y Cultura promoverá la incorporación de estos contenidos en los diversos ciclos educativos, particularmente en el nivel básico o elemental.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+La Secretaría de Educación Pública promoverá la incorporación de estos contenidos en los diversos ciclos educativos, particularmente en el nivel básico o elemental.
 
 ## TITULO QUINTO
 
@@ -411,39 +479,47 @@ De la Promoción y Defensa de los Derechos de las Personas con Discapacidad.
 
 Sin perjuicio de los derechos que consagran la Constitución General de la República, la particular del Estado y las disposiciones que de ambas emanan, el Ejecutivo de la Entidad impulsará con las autoridades competentes de la federación y los municipios, la promoción y defensa de los derechos de las personas con discapacidad.
 
-Al efecto, se crea el Consejo Estatal de personas con discapacidad de Nayarit, como un organismo técnico, normativo y de consulta que coordinará la planeación, organización, operación y control del Programa Estatal para el Bienestar y la Incorporación al Desarrollo de las personas con discapacidad dentro del marco del programa nacional
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+Se crea el Consejo Estatal de Personas con Discapacidad de Nayarit, como el instrumento permanente de coordinación intersecretarial e interinstitucional que tiene por objeto contribuir al establecimiento de una política de Estado en la materia, así como promover, apoyar fomentar, vigilar y evaluar las acciones, estrategias y programas derivados de esta Ley.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 54.
 
 El Consejo Estatal se integrará por:
 
-I.- El Gobernador del Estado;
+I.- Un Secretario Ejecutivo designado por el Gobernador del Estado;
 
-II.- Un Presidente Ejecutivo designado por el Gobernador;
+II.- El Secretario General de Gobierno;
 
-III.- El Titular del Sistema Estatal para el desarrollo Integral de la Familia.
+III.- El Secretario de Desarrollo Económico;
 
-IV.- El Director de Servicios Coordinados de Salud del Estado;
+IV.- El Secretario de Educación Pública;
 
-V.- El Director General de los Servicios de Educación Pública del Estado;
+V.- El titular del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-VI.- El Secretario de Educación y Cultura;
+VI.- El Secretario de Obras Públicas;
 
-VII.- El Secretario de Obras y Servicios Públicos;
+VII.-El Secretario de Planeación;
 
-VIII.- El Director del Centro de Rehabilitación y Educación Especial en el Estado.
+VIII.- El Secretario de Salud;
 
-IX.- El Presidente de la Asociación de Discapacitados del Estado;
+IX.- El Director General del Instituto Nayarita del Deporte y la Juventud;
 
-X.- El Director de Tránsito y Transportes en el Estado;
+X.- El Director General de los Servicios de Educación Pública;
 
-XI.- Un representante de la Universidad Autónoma de Nayarit;
+XI.- El Director del Centro de Rehabilitación y Educación Especial en el Estado;
 
-XII.- Un representante del Ayuntamiento Tepic;
+Los integrantes propietarios designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director.
 
-XIII.- Un representante de los Clubes de Servicio que deseen participar; y
+El Consejo Estatal deberá contar con las unidades administrativas necesarias para el cumplimiento de sus atribuciones.
 
-XIV.- Los representantes que designen las dependencias, instituciones y organizaciones de los sectores públicos, social y privado, a invitación del Presidente del Consejo.
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+Artículo 54 bis.- Podrán participar como miembros del Consejo Estatal seis integrantes del Consejo Consultivo los cuales tendrán derecho a voz y voto.
+
+El Consejo Estatal, con la aprobación de la mayoría de sus asistentes, convocará a otras dependencias públicas federales, estatales o municipales, así como a otros organismos privados y sociales, los que tendrán derecho a voz y no a voto en la sesión o sesiones correspondientes, para tratar asuntos de su competencia.
 
 ###### Artículo 55.
 
@@ -471,9 +547,19 @@ VIII.- Organizar y participar en eventos y foros de discusión y análisis relat
 
 IX.- Los demás que sean necesarias para la consecución de los fines de su creación.
 
-### Capítulo II. Del Cuerpo de Procuradores y de los Comités Municipales de Personas con Discapacidad
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-### Capítulo III. De los Discapacitados de Custodia
+### Capítulo II. Del Consejo Consultivo para las Personas con Discapacidad
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+Artículo 56 bis.- El Consejo Consultivo es un órgano de asesoría y consulta, de carácter honorífico, que tendrá por objeto proponer y opinar sobre los programas o acciones que se emprendan a favor de las personas con discapacidad, así como recabar propuestas y presentarlas al Consejo Estatal.
+
+El Consejo Consultivo estará integrado por representantes de las organizaciones de discapacitados, que participarán en calidad de consejeros de acuerdo con la convocatoria pública que para estos efectos emitirá el Consejo Estatal.
+
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO II], P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+### Capítulo III. Del Cuerpo de Procuradores y de los Comités Municipales de Personas con Discapacidad
 
 ###### Artículo 57.
 
@@ -487,25 +573,33 @@ En cada Municipio del Estado se establecerá y organizará un Comité de persona
 
 En dichos Comités, además de la representación de los discapacitados deberán figurar los sectores social y privado, el Sistema Municipal para el Desarrollo Integral de la Familia correspondiente y el Presidente Municipal, quien presidirá y coordinará las actividades del Comité respectivo.
 
-### Capítulo IV. Del Registro Estatal de Personas con Discapacidad
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO III], P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+### Capítulo IV. De los Discapacitados de Custodia
 
 ###### Artículo 59.
 
 Son discapacitados de Custodia, aquellas personas que por secuelas irreversibles de un padecimiento vascular-cerebral, degenerativo o similares, se encuentra incapacitado para realizar sus actividades básicas cotidianas, tales como comunicarse, alimentarse y desplazarse voluntariamente, dependiendo necesariamente de la ayuda de otra persona para subsistir
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 60.
 
-Es obligación de las instituciones de salud, públicas y privadas, informar el Sistema Estatal para el Desarrollo Integral de la Familia el establecimiento del estado de discapacidad que ocurra en una persona, haciendo señalamiento específico de que se trata de custodia, a efecto de que se inscriba con tal carácter en el registro estatal de la discapacidad.
+Es obligación de las instituciones de salud, públicas y privadas, informar al Consejo Estatal y al Sistema Estatal para el Desarrollo Integral de la Familia el establecimiento del estado de discapacidad que ocurra en una persona, haciendo señalamiento específico de que se trata de custodia, a efecto de que se inscriba con tal carácter en el registro estatal de la discapacidad.
 
 ###### Artículo 61.
 
 Recibido el aviso a que se refiere el artículo anterior, la Titular del Sistema Estatal para el Desarrollo Integral de la Familia, dictará las medidas de evaluación y seguimiento correspondientes con la participación de los especialistas del Centro de Rehabilitación y Educación Especial, prestando además la asesoría jurídica conducente a su tutela y curatela en los casos y términos previstos por el Código Civil.
 
-### Capítulo Unico
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO IV], P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+### Capítulo V. Del Registro Estatal de Personas con Discapacidad
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 62.
 
-Dependiente de Sistema para el Desarrollo Integral de la Familia se crea el Registro Estatal de Personas con discapacidad, con la información que reciba de los ayuntamientos, instituciones de salud, o recabe directamente; o le sea proporcionada mediante convenio por el Instituto Nacional de Estadística, Geografía e Informática.
+El Consejo Estatal llevará el Registro de Personas con discapacidad, donde se asentará la información que reciba de los ayuntamientos, instituciones de salud, o recabe directamente; o le sea proporcionada mediante convenio que signe con otras instituciones, públicas y privadas.
 
 Dicho Registro contendrá, por lo menos, la información siguiente:
 
@@ -533,7 +627,7 @@ Es obligación de las personas con discapacidad y de sus familiares, proporciona
 
 ## TITULO SEXTO. Disposiciones Complementarias
 
-### Capítulo I. De las Sanciones
+### Capítulo Unico
 
 ###### Artículo 64.
 
@@ -549,9 +643,7 @@ Las autoridades del Estado a cuyo cargo se encuentra la prestación de los servi
 
 ## TITULO SEPTIMO. De las Sanciones y Recursos
 
-### Capítulo II. De los Recursos
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+### Capítulo I. De las Sanciones
 
 ###### Artículo 67.
 
@@ -577,11 +669,17 @@ Son autoridades competentes para conocer y resolver acerca de las infracciones q
 
 Al Servidor Público del Estado o municipios que sin fundamento alguno niegue a una persona con discapacidad el acceso a los servicios, o no cumpla dentro del ámbito de su competencia con las obligaciones que esta ley les impone, será sancionado, según sea la culpa, en los términos y bajo los procedimientos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 70.
 
-El Titular del Sistema Estatal para el Desarrollo Integral de la Familia, pondrá en conocimiento de los superiores jerárquicos competentes los actos u omisiones en que incurran los servidores públicos del Estado para el efecto de la aplicación de las sanciones administrativas que deban imponerse.
+El Consejo Estatal en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia, pondrá en conocimiento de los superiores jerárquicos competentes los actos u omisiones en que incurran los servidores públicos del Estado y los municipios para el efecto de la aplicación de las sanciones que conforme a esta u otras leyes deban imponerse.
 
 La autoridad jerárquicamente superior a su vez, informará al Titular sobre las medidas y sanciones impuestas.
+
+### Capítulo II. De los Recursos
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 71.
 
@@ -664,3 +762,9 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 P.O. 28 DE SEPTIEMBRE DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
