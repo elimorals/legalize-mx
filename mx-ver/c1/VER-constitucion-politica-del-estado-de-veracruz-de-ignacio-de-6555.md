@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2005-10-17"
+last_updated: "2006-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2006.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -91,9 +91,19 @@ El Estado tiene una composición pluricultural y multiétnica sustentada origina
 
 Los pueblos indígenas tienen derecho a la libre determinación dentro del marco constitucional. La expresión concreta de ésta es la autonomía de las comunidades indígenas en los términos establecidos por la ley.
 
+> <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
+
+En la regulación y solución de sus conflictos internos, deberán aplicar sus propios sistemas normativos, con sujeción a los principios generales de esta Constitución, respecto a las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres.
+
+> <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
+
+Las comunidades indígenas podrán elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, de modo que se garantice la participación de las mujeres en condiciones de equidad frente a los varones en un marco que respete el pacto federal y la soberanía del estado.
+
 El uso y disfrute colectivo de los recursos naturales por las comunidades indígenas se realizará de acuerdo con las formas y modalidades de propiedad previstas por la Constitución Federal.
 
-El Estado y los municipios, en el ámbito de sus respectivas competencias, reconocerán el derecho de las comunidades indígenas a promover su desarrollo equitativo y sustentable; y a una educación laica, obligatoria, bilingüe y pluricultural. Asimismo, en los términos previstos por la ley, impulsarán el respeto y conocimiento de las diversas culturas existentes en la entidad y combatirán toda forma de discriminación.
+(R(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)
+
+El estado y los municipios en el ámbito de sus respectivas competencias reconocerán el derecho de las comunidades indígenas a promover su desarrollo equitativo y sustentable, y a una educación laica, obligatoria, bilingüe y pluricultural. Asimismo, en los términos previstos por la ley, impulsarán el respeto y conocimiento de las diversas culturas existentes en la entidad, y combatirán toda forma de discriminación.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -280,6 +290,10 @@ El Gobernador del Estado será elegido por el principio de mayoría relativa, me
 Los partidos políticos son entidades de interés público que tienen como finalidad promover la participación de los ciudadanos en la vida democrática y contribuir a la integración de la representación estatal y municipal. La ley reconocerá y regulará otras formas de organización política.
 
 En los términos que señale la ley, los partidos políticos recibirán, en forma equitativa, financiamiento público ordinario, extraordinario o, en su caso, especial, para su sostenimiento y el desarrollo de las actividades tendientes a la obtención del sufragio. Contarán, además, con acceso permanente, en condiciones de equidad, a los medios de comunicación social en el Estado.
+
+(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2006) (F. DE E., G.O. 9 DE FEBRERO DE 2007) (F. DE E., G.O. 26 DE FEBRERO DE 2007)
+
+En periodos electorales las autoridades estatales y municipales cesarán toda campaña publicitaria relativa a obras y programas públicos durante los 30 días previos a la celebración de la jornada electoral local o federal. A las autoridades electorales corresponderá la vigilancia de lo dispuesto en este párrafo.
 
 El financiamiento a los partidos políticos se sujetará a las siguientes bases:
 
@@ -529,7 +543,9 @@ a) La contratación de obras y servicios públicos, cuando produzcan obligacione
 
 b) La celebración de contratos y de obras públicas, cuando su valor exceda del veinte por ciento de la partida presupuestal respectiva;
 
-c) La contratación de empréstitos;
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
+
+c) La contratación de empréstitos y los anticipos que se les otorgue (sic) por concepto de participaciones federales;
 
 (NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1639,7 +1655,9 @@ I. La organización, desarrollo y vigilancia de las elecciones, plebiscitos y re
 
 a) El Instituto se regirá por los principios de legalidad, imparcialidad, objetividad, certeza, independencia, profesionalismo, equidad y definitividad, y tendrá la integración y funcionamiento que señale la ley;
 
-b) El Instituto tendrá las siguientes atribuciones: las actividades relativas a la capacitación y educación cívica, la geografía electoral, los derechos y prerrogativas de los partidos y demás organizaciones políticas, el padrón y la lista de electores, la impresión de materiales electorales, la preparación de la jornada electoral, los cómputos en los términos que señale la ley, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ayuntamientos; así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales, y las demás que señale la ley;
+(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006) (F. DE E., G.O. 9 DE FEBRERO DE 2007) (F. DE E., G.O. 26 DE FEBRERO DE 2007)
+
+b) El Instituto tendrá las siguientes atribuciones: las actividades relativas a la capacitación y educación cívica, la geografía electoral, los derechos y prerrogativas de los partidos y demás organizaciones políticas, las campañas electorales, el acceso en condiciones de equidad a los medios de comunicación por parte de los candidatos, partidos y organizaciones políticas, el padrón y la lista de electores, la impresión de materiales electorales, la preparación de la jornada electoral, los cómputos en los términos que señale la ley, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ayuntamientos; así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales, y las demás que señale la ley;
 
 c) El órgano superior de dirección del Instituto será el Consejo General, que funcionará de manera permanente.
 
@@ -11265,16 +11283,6 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
 
-G.O. 12 DE OCTUBRE DE 1993.
-
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial", Órgano del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan a las reformas a que se refiere el presente decreto.
-
 G.O. 16 DE DICIEMBRE DE 1993.
 
 ###### ARTICULO PRIMERO.
@@ -11344,6 +11352,14 @@ LA PRESENTE LEY ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACIÓN EN LA 'GACE
 G.O. 20 DE MARZO DE 1997.
 
 DECRETO No. 57.
+
+###### ARTICULO SEGUNDO.
+
+El Presidente del Tribunal Superior, continuará en funciones y ejercerá las atribuciones que esta Constitución le otorga hasta en tanto se elige al Presidente de acuerdo con lo dispuesto en el artículo décimo tercero transitorio.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
@@ -11586,6 +11602,32 @@ G.O. 17 DE OCTUBRE DE 2005.
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Las reformas a las Leyes complementarias iniciarán su vigencia en la misma fecha que las reformas a la Constitución.
+
+G.O. 22 DE DICIEMBRE DE 2006.
+
+DECRETO No. 603 DE REFORMA CONSTITUCIONAL.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE DICIEMBRE DE 2006.
+
+DECRETO No. 603 DE REFORMA CONSTITUCIONAL.
+
+(F. DE E., G.O. 9 DE FEBRERO DE 2007) (F. DE E., G.O. 26 DE FEBRERO DE 2007)
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE DICIEMBRE DE 2006.
+
+DECRETO No. 604 DE REFORMA CONSTITUCIONAL.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
