@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-10943"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-04-01"
-last_updated: "2006-08-01"
+last_updated: "2006-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 1 de abril de 1997.
 
@@ -53,9 +53,13 @@ El Poder Judicial en el ejercicio de su función es independiente respecto de lo
 
 La justicia se administra por jueces y magistrados responsables y sometidos únicamente a la Constitución Política Local y al imperio de la Ley.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 3o.
 
-La función jurisdiccional se regirá por los principios de imparcialidad, legalidad, honradez, independencia, veracidad, lealtad, celeridad, eficiencia y eficacia.
+La función judicial se regirá por los principios de independencia judicial, imparcialidad, eficiencia, eficacia, legalidad, excelencia profesional, honestidad invulnerable, diligencia, celeridad, honradez, veracidad, objetividad, competencia, honorabilidad, lealtad, probidad y rectitud.
+
+La evaluación del cumplimiento de dichos principios se realizará en los términos de esta Ley.
 
 ###### Artículo 4o.
 
@@ -69,9 +73,11 @@ Los jueces para adolescentes ejercerán en la circunscripción territorial, deno
 
 Los jueces de ejecución tendrán la competencia que la Ley de Justicia para Adolescentes del Estado de Guanajuato les confiera.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 5o.
 
-El Consejo del Poder Judicial tendrá a su cargo la carrera judicial y será el encargado de la administración, capacitación y disciplina del Poder Judicial conforme a lo dispuesto por la Constitución Política Local y por esta Ley.
+El Consejo del Poder Judicial es el órgano de administración general, tendrá a su cargo la carrera judicial, la capacitación, disciplina y evaluación de los servidores públicos del Poder Judicial conforme a lo dispuesto por la Constitución Política Local y por esta Ley.
 
 ###### Artículo 6o.
 
@@ -99,9 +105,11 @@ VI.- Proporcionar a las autoridades competentes con veracidad los datos e inform
 
 VII.- Las demás que las leyes les confieran.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 8o.
 
-Los magistrados, los consejeros magistrados, los jueces, los secretarios y actuarios no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes sin limitación de grado, ni desempeñar otro empleo o cargo público o privado, a excepción de los docentes.
+Los magistrados, los consejeros, los jueces, los secretarios y actuarios no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes, sin limitación de grado, ni desempeñar otro empleo o cargo público o privado, a excepción de los docentes.
 
 ###### Artículo 9o.
 
@@ -109,9 +117,13 @@ Las autoridades se abstendrán de citar para que comparezcan a su presencia a lo
 
 Cuando una autoridad requiera de datos o declaraciones que puedan proporcionar o emitir un magistrado o juez, por razón o con motivo de su función, se prestará sin tardanza, salvo que el acto a ejecutar no esté legalmente permitido o se perjudique la competencia propia del magistrado o juez. La denegación se comunicará a la autoridad peticionaria con expresión suficiente de la razón que la justifique.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 10.
 
-La condición de magistrado, consejero magistrado o juez sólo se perderá por destitución, suspensión, renuncia o retiro en los términos previstos en esta Ley.
+Los magistrados perderán el cargo en los supuestos del artículo 87 de la Constitución Política Local.
+
+Los jueces podrán ser removidos de su cargo en los supuestos a que se refiere el artículo 94 de la Constitución Política Local.
 
 ###### Artículo 11.
 
@@ -159,11 +171,17 @@ Son atribuciones del Pleno del Supremo Tribunal de Justicia, además de las señ
 
 I.- Vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita, emitiendo los acuerdos y circulares que para tal efecto se requieran;
 
-II.- Formular la terna para consejero magistrado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-III.- Conocer en segunda instancia de los delitos dolosos del fuero común que merezcan pena privativa de libertad, cometidos por los servidores públicos que determina el artículo 126 de la Constitución Política Local, así como de los cometidos por jueces de partido, jueces menores y agentes del Ministerio Público;
+II.- Formular la terna para consejero;
 
-IV.- Conocer de la responsabilidad administrativa de magistrados y consejeros magistrados;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III. Conocer en segunda instancia de los delitos dolosos del fuero común que merezcan pena privativa de libertad, cometidos por los servidores públicos que determina el artículo 126 de la Constitución Política Local, así como de los cometidos por jueces de partido, jueces menores, titulares de los tribunales especializados en la impartición de justicia para adolescentes y agentes del Ministerio Público;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+IV.- Conocer de la responsabilidad administrativa de los consejeros; la resolución que se emita podrá ser impugnada mediante el recurso de revocación que se interponga ante el propio Pleno, mismo que se tramitará conforme a las disposiciones del recurso de revisión previsto en esta Ley;
 
 V.- Conocer y decidir el recurso administrativo de revisión;
 
@@ -191,9 +209,25 @@ XV.- Conocer y resolver cualquier otro asunto de la competencia del Supremo Trib
 
 XVI.- Conocer y resolver los conflictos de competencia que se susciten entre un juez especializado en materia de adolescentes y otro del Estado que no lo sea; y
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XVII.- Nombrar de entre sus miembros, por insaculación, a dos magistrados que integren la Comisión de Evaluación a que se refiere el artículo 83 de la Constitución Política del Estado, en los términos de esta Ley;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XVIII.- Formar y presentar ternas al Congreso del Estado para la designación de magistrados supernumerarios, de entre los jueces de partido, en los términos del artículo 85 de la Constitución Política del Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XIX.- Designar al magistrado supernumerario que supla las faltas temporales de un magistrado;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XX.- Proponer al Congreso del Estado la separación de consejeros del Poder Judicial, en los términos previstos en el artículo 63 de la Constitución Política del Estado; y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2006)</small>
 
-XVII.- Las demás que ésta y otras leyes le confieran.
+XXI.- Las demás que ésta y otras leyes le confieran.
 
 ###### Artículo 18.
 
@@ -221,9 +255,11 @@ De toda sesión del Pleno del Supremo Tribunal de Justicia se levantará acta qu
 
 ### CAPITULO TERCERO. DEL PRESIDENTE DEL SUPREMO TRIBUNAL DE JUSTICIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 23.
 
-En la primera sesión que se celebre durante el mes de enero de cada dos años, el Pleno del Supremo Tribunal de Justicia en sesión pública, en escrutinio secreto y por mayoría de votos de la totalidad de sus integrantes, eligirá (sic) de entre sus miembros, al Presidente del Supremo Tribunal de Justicia, el cual podrá ser reelecto para un periodo más.
+En la primera sesión que se celebre durante el mes de enero de cada dos años, el Pleno del Supremo Tribunal de Justicia en sesión pública, en escrutinio secreto y por mayoría de votos de la totalidad de sus integrantes, elegirá de entre sus miembros, al Presidente del Supremo Tribunal de Justicia, el cual podrá ser reelecto sólo para un periodo más.
 
 El resultado de la elección de Presidente del Supremo Tribunal de Justicia se publicará en el periódico oficial del Gobierno del Estado.
 
@@ -257,9 +293,11 @@ XII.- Rendir, en sesión pública, ante el Pleno del Supremo Tribunal de Justici
 
 XIII.- Las demás que le señalen las leyes.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 25.
 
-Contra los acuerdos del Presidente del Supremo Tribunal de Justicia podrá interponerse el recurso de reclamación ante el Pleno del Supremo Tribunal de Justicia, siempre que se haga por escrito, se funde en derecho y se interponga por la parte interesada, dentro del término de cinco días hábiles contados a partir del siguiente al de la notificación o al que haya tenido conocimiento. El Pleno del Supremo Tribunal de Justicia resolverá la reclamación en un término de quince días hábiles.
+Contra los acuerdos tomados por el Presidente del Supremo Tribunal de Justicia en ese carácter o corno en el del Consejo del Poder Judicial, podrá interponerse el recurso de reclamación ante el Pleno del Supremo Tribunal de Justicia, siempre que se haga por escrito, expresando agravios y se interponga por la parte interesada, dentro del término de cinco días hábiles contados a partir del siguiente al de la notificación o al en que haya tenido conocimiento. El recurso se resolverá en un término de quince días hábiles.
 
 ###### Artículo 26.
 
@@ -271,9 +309,11 @@ II.- Por renuncia aceptada por el Pleno del Supremo Tribunal de Justicia.
 
 ### CAPITULO CUARTO. DEL CONSEJO DEL PODER JUDICIAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 27.
 
-El Consejo del Poder Judicial se integrará por cinco consejeros magistrados en los términos del artículo 83 de la Constitución Política Local y funcionará en Pleno para tomar sus decisiones.
+El Consejo del Poder Judicial se integrará por cinco consejeros en los términos del artículo 83 de la Constitución Política Local y funcionará en Pleno para tomar sus decisiones.
 
 Por acuerdo del Consejo del Poder Judicial se podrán establecer las comisiones y delegaciones que se estimen oportunas.
 
@@ -297,7 +337,11 @@ IV.- Ordenar o realizar visitas a las salas, juzgados y tribunales especializado
 
 V.- Recibir las renuncias que presenten los magistrados que hayan sido propuestos por el propio Consejo, remitiéndolas para su aprobación al Congreso del Estado;
 
-VI.- Recibir las renuncias que presenten los consejeros magistrados, remitiéndolas para su aprobación al Pleno del Supremo Tribunal de Justicia, al titular del Poder Ejecutivo o al Congreso del Estado, según corresponda por el origen de la propuesta para su designación, con excepción del juez de partido insaculado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VI.- Recibir las renuncias que presenten los consejeros, remitiéndolas para su aprobación al Pleno del Supremo Tribunal de Justicia, al titular del Poder Ejecutivo o al Congreso del Estado, según corresponda por el origen de la propuesta para su designación.
+
+Recibir y resolver la renuncia presentada por el juez de partido designado como consejero;
 
 VII.- Designar a su secretario general, al contralor del Poder Judicial, así como al personal técnico y de apoyo;
 
@@ -309,9 +353,13 @@ IX.- Designar, de entre sus miembros, un representante para que integre el jurad
 
 X.- Determinar el número de orden y especialización por materia de los juzgados de partido y menores; así como el número de orden y circunscripción territorial de los juzgados para adolescentes y la distribución de los asuntos de que conocerán los jueces de ejecución;
 
-XI.- Ordenar la práctica de auditorías administrativas y financieras a los órganos jurisdiccionales, sujetándose a las bases que al efecto se establezcan en el reglamento correspondiente;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-XII.- Aplicar y vigilar que se cumplan con las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público y con las de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de servicios relacionados con bienes muebles e inmuebles del Estado;
+XI.- Ordenar la práctica de auditorías de desempeño, calidad, administrativas y financieras en los juzgados del Poder Judicial, así como en los órganos administrativos de dicho poder. Las salas serán evaluadas por la Comisión de Evaluación prevista en el artículo 83 de la Constitución Política del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XII.- Aplicar y vigilar que se cumplan con las disposiciones de la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, y de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
 
 XIII.- Tramitar y resolver los procedimientos disciplinarios y aplicar, cuando así proceda las sanciones, en los términos de esta Ley y sus reglamentos;
 
@@ -351,29 +399,109 @@ XXIX.- Designar a los titulares de los tribunales especializados en la impartici
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-XXX.- Designar a los miembros del Comité Auxiliar Técnico a que se refiere la Ley de Justicia para Adolescentes del Estado; y
+XXX.- Designar a los miembros del Comité Auxiliar Técnico a que se refiere la Ley de Justicia para Adolescentes del Estado; y (sic)
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-XXXI.- Las demás que le señale esta Ley y otras disposiciones aplicables.
+XXXI.- Proponer al Congreso del Estado la separación del cargo de magistrados del Supremo Tribunal de Justicia, en los términos y con los requisitos previstos en el artículo 63 de la Constitución Política Local cuando dejen de actuar con apego a los principios que rigen la función judicial de acuerdo al dictamen de evaluación que se haya emitido;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXXII.- Designar al juez de partido que deba integrar el Consejo del Poder Judicial, en los términos del artículo 83 de la Constitución Política del Estado y de esta Ley;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXXIII.- Nombrar a los consejeros que integren la Comisión de Evaluación a que se refiere el artículo 83 de la Constitución Política Local, en los términos de esta Ley;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXXIV.- Establecer, de acuerdo con la Ley, los criterios, lineamientos y procedimientos para el desempeño y evaluación de los servidores públicos del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXXV.- Realizar el seguimiento constante y permanente de la actuación de los servidores judiciales, así como expedir el dictamen de evaluación correspondiente en términos de esta Ley, excepto respecto de los magistrados y consejeros, cuya evaluación estará a cargo de la Comisión de Evaluación prevista por el artículo 83 de la Constitución Política del Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXXVI.- Resolver sobre la procedencia de la propuesta de reelección o no reelección de un magistrado, cuando le corresponda, atendiendo al origen de la propuesta de designación del mismo, fundándose en el dictamen que emita la Comisión de Evaluación;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXXVII.- Informar periódicamente al Poder Ejecutivo sobre el resultado de la evaluación continua del desempeño del magistrado, cuya propuesta de designación le haya correspondido, a efecto de que determine proponer o no, su reelección;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXXVIII.- Informar periódicamente al Pleno del Supremo Tribunal de Justicia, al Congreso del Estado o al Poder Ejecutivo, sobre el resultado de la evaluación continua del desempeño de los consejeros del Poder Judicial, atendiendo al origen de la designación;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXXIX.- Proponer al Congreso del Estado, cuando por el origen de la propuesta así corresponda, la reelección de un magistrado de acuerdo al dictamen de evaluación que se emita;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XL.- Nombrar al titular del órgano encargado de la mediación y conciliación y al titular del órgano de administración, y removerlos cuando incurran en responsabilidad en los términos de esta Ley. Ambos durarán en su cargo tres años y sólo podrán ser designados por otro periodo consecutivo;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XLI.- Presentar trimestralmente al Congreso del Estado, la Cuenta Pública del Poder Judicial y su concentrado anual, en la forma y términos que establezca la ley;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XLII.- Determinar la adscripción y cambio de adscripción de los jueces y personal de los juzgados conforme a las necesidades del servicio del Poder Judicial; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XLIII.- Las demás que le señalen las leyes.
 
 ###### Artículo 29.
 
 El secretario general del Consejo del Poder Judicial asistirá a las sesiones del Consejo y dará fe de los acuerdos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 30.
 
-La terna para consejero magistrado que formule el Pleno del Supremo Tribunal de Justicia, se deberá integrar con personas que no formen parte del Poder Judicial y se hayan distinguido por su honorabilidad y desempeño en la profesión jurídica.
+La terna para consejero que formule el Pleno del Supremo Tribunal de Justicia, se deberá integrar con personas que no formen parte del Poder Judicial y se hayan distinguido por su honorabilidad y desempeño en la profesión jurídica.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 31.
 
-Los consejeros magistrados estarán sujetos a las mismas responsabilidades en el ejercicio de su función que los magistrados del Supremo Tribunal de Justicia; recibirán los mismos emolumentos y ejercerán su función con independencia e imparcialidad. Durante su encargo sólo podrán ser removidos en los términos que señala el artículo 126 de la Constitución Política del Estado de Guanajuato.
+Los consejeros están sujetos a las mismas responsabilidades en el ejercicio de su función que los magistrados del Supremo Tribunal de Justicia; recibirán el mismo salario y ejercerán su cargo atendiendo a los principios de la función judicial. Sólo podrán ser separados de su cargo en los términos que señala la Constitución Política Local y esta Ley.
 
-Con excepción del Presidente del Consejo del Poder Judicial, los consejeros magistrados, durarán cuatro años en su cargo, serán sustituidos cada año de manera escalonada y no podrán ser nombrados para un nuevo periodo. El juez de partido al concluir su período deberá reintegrarse a su función jurisdiccional.
+Con excepción del Presidente del Consejo del Poder Judicial, los consejeros durarán cuatro años en su encargo, serán sustituidos cada año de manera escalonada, y no podrán ser nombrados para el periodo inmediato siguiente. El juez de partido al concluir su período deberá reintegrarse a su función jurisdiccional.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 32.
 
-El juez de partido será insaculado de entre quienes cuenten con una experiencia de cinco años cuando menos y se hayan distinguido por su probidad, responsabilidad, eficiencia, capacidad, profesionalismo y que su expediente no tenga notas de demérito por faltas graves.
+El juez de partido que integrará el Consejo del Poder Judicial, será aquél que cuente con la mejor calificación de acuerdo al dictamen de evaluación que, para el efecto, se emita por el Pleno del Consejo, el cual quedará sujeto al siguiente procedimiento:
+
+I.- El Pleno del Consejo hará una selección de entre los jueces de partido con nombramiento definitivo, que reúnan además de los requisitos exigidos por el artículo 86 de la Constitución Política Local, los siguientes:
+
+a) No haber sido sujeto de suspensión en los últimos tres años; y
+
+b) Haber cumplido con los cursos de actualización del último año;
+
+II.- El Pleno del Consejo mandará notificar, mediante oficio, a todos los jueces de partido, la selección que haya realizado, haciéndoles saber que cuentan con un plazo de tres días para impugnarla, en caso de que consideren les afecte, y si lo hacen, deberán señalar de manera concreta el motivo y, en su caso, aportar las pruebas documentales correspondientes;
+
+III.- Si hubiere impugnaciones, el Pleno del Consejo deberá resolverlas de plano sin ulterior recurso, teniendo en cuenta el expediente personal del inconforme y las pruebas documentales que en su caso aporte;
+
+IV.- Si no hubiere impugnaciones o una vez resueltas las presentadas, el Pleno del Consejo solicitará al Pleno del Supremo Tribunal de Justicia, un informe de calidad sobre el desempeño de los jueces de partido seleccionados y una vez obtenido el informe, procederá a evaluarlos, teniendo en cuenta lo siguiente:
+
+a) El informe de calidad sobre el desempeño que proporcione el Pleno del Supremo Tribunal de Justicia, conforme a las bases generales emitidas;
+
+b) El resultado de las auditorías y visitas que se hayan realizado a los juzgados a cargo de los seleccionados;
+
+c) El expediente personal de los seleccionados;
+
+d) Su antigüedad en el servicio; y
+
+e) Su preparación académica.
+
+El Pleno del Consejo reflejará la evaluación que realice en una calificación del cinco al diez, de manera fundada y motivada, y el que obtenga la mejor será el juez de partido que como consejero integre el Pleno del Consejo del Poder Judicial, y dicha evaluación será notificada en forma personal, mediante oficio, a los jueces evaluados. En caso de empate, el Consejo deberá decidir por el juez que tenga mayor antigüedad.
+
+La decisión en que el Pleno del Consejo haga la evaluación y designe al juez de partido que será consejero, será irrecurrible.
 
 ###### Artículo 33.
 
@@ -381,9 +509,11 @@ Los servidores públicos del Poder Judicial que sean llamados a colaborar en el 
 
 Quienes ocupen sus plazas serán reintegrados a su anterior plaza o se les asignará una nueva.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 34.
 
-El Consejo del Poder Judicial sesionará en forma ordinaria cuando menos una vez a la semana, en los días que para tal efecto señalen y, extraordinariamente, cuando lo estime necesario el Presidente o lo solicite uno de los consejeros magistrados.
+El Consejo del Poder Judicial sesionará en forma ordinaria cuando menos una vez a la semana, en los días que para tal efecto señalen y, extraordinariamente, cuando lo estime necesario su Presidente o lo solicite uno de los consejeros.
 
 ###### Artículo 35.
 
@@ -405,9 +535,11 @@ V.- Proponer el nombramiento de ponentes para preparar la resolución o despacho
 
 VI.- Las demás previstas en la Ley o sus reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 37.
 
-Las resoluciones del Consejo del Poder Judicial se tomarán por el voto de la mayoría de los consejeros magistrados presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal o cuando fundamenten su excusa para conocer del asunto de que se trate. En caso de empate, el Presidente tendrá voto de calidad.
+Las resoluciones del Consejo del Poder Judicial se tomarán por el voto de la mayoría de los consejeros presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal o cuando fundamenten su excusa de conocer del asunto de que se trate. En caso de empate, el Presidente tendrá voto de calidad.
 
 El Consejo del Poder Judicial calificará los impedimentos y excusas de sus miembros.
 
@@ -423,9 +555,11 @@ Las resoluciones del Consejo del Poder Judicial que deban notificarse, se harán
 
 El Consejo del Poder Judicial atendiendo a la naturaleza del asunto de que se trate, determinará si sus deliberaciones tendrán el carácter de públicas o reservadas, en este caso deberán sus integrantes guardar secreto de las mismas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 41.
 
-El consejero magistrado que no esté de acuerdo con la mayoría, podrá pedir que conste su voto en el acta. Si lo desea, podrá formular voto particular, escrito y fundado, que se agregará al acta, siempre que lo presente dentro de los tres días hábiles siguientes a aquel en que se tomó el acuerdo.
+El consejero que no esté de acuerdo con la mayoría, podrá pedir que conste su voto en el acta. Si lo desea podrá formular voto particular, escrito y fundado, que se agregará al acta, siempre que lo presente dentro de los tres días hábiles siguientes a aquel en que se tomó el acuerdo.
 
 Cuando el Consejo del Poder Judicial notifique sus decisiones, se incorporará al texto del acuerdo el voto particular.
 
@@ -483,17 +617,97 @@ VI.- De los demás asuntos que les confieran esta Ley y otras disposiciones lega
 
 ### CAPITULO SEXTO. DE LOS MAGISTRADOS
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 48.
 
-Los magistrados que integren el Supremo Tribunal de Justicia durarán en su cargo siete años y podrán ser ratificados.
+Los magistrados que integren el Supremo Tribunal de Justicia durarán en su cargo siete años y podrán ser reelectos sólo por un periodo más. Únicamente perderán el cargo en los términos de la Constitución Política Local y de esta Ley.
 
-En caso de ser ratificados en su cargo, solamente podrán ser privados del mismo, en los términos del artículo 126 de la Constitución Política Local.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P. O. 3 DE AGOSTO DEL 2001)</small>
+###### Artículo 48-A.
+
+El cargo de magistrado se pierde:
+
+l.- Por término de su encargo, sin que haya sido reelecto;
+
+II.- Por retiro forzoso al haber tenido el carácter de magistrado por un lapso continúo de catorce años o por haber cumplido setenta y cinco años de edad. Entendiendo por lapso continuo, haber sido reelecto en el cargo de magistrado;
+
+III.- Por incurrir en responsabilidad en los términos del artículo 126 de la Constitución Política Local y de esta Ley, determinada en sentencia ejecutoria;
+
+IV.- Por violación grave a los principios que rigen la función judicial de acuerdo al dictamen de evaluación, en los términos de la Constitución Política Local y de esta Ley;
+
+V.- Por enfermedad o incapacidad física o mental debidamente comprobada, que le impida ejercer el cargo; y
+
+VI.- Por renuncia, calificada por el Congreso.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 48-B.
+
+Para efecto de la fracción IV del artículo que antecede, se incurre en violación grave a los principios que rigen la función judicial, misma que deberá estar debidamente comprobada, en los siguientes casos:
+
+l.- Por realizar conductas que vulneren la independencia de la función judicial que impliquen subordinación respecto de una persona del mismo u otro poder;
+
+II.- Por ejercer cualquiera de las actividades incompatibles con el cargo;
+
+III.- Por desatender o retrasar injustificada y generalizadamente la iniciación, tramitación o resolución de los asuntos a su cargo;
+
+IV.- Por valerse de la condición de magistrado o consejero del Poder Judicial, para traficar influencias;
+
+V.- Por incurrir en falsedad en perjuicio de terceros; y
+
+VI.- Por solicitar, obtener, aceptar o recibir, por sí o por interpósita persona, a cambio de servicios a su cargo, dinero, objetos, ventajas o beneficios indebidos en su favor o en el de su cónyuge, concubinario, concubina, parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, socios o sociedades de las que el magistrado, el consejero o las personas antes referidas formen o hayan formado parte.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 48-C.
+
+El procedimiento para determinar la existencia de la causa de separación del cargo de magistrado o consejero a que se refiere la fracción XXI del artículo 63 de la Constitución Política Local, se realizará por la Comisión de Evaluación, en el que deberá de observarse lo siguiente:
+
+l.- La Comisión cuando por motivo de su encargo advierta una causa grave en el desempeño de la función de un magistrado o consejero, tomará acuerdo de evaluación donde precise y sustente las razones y los hechos que lo motiven, notificando al magistrado o consejero dicho acuerdo. La Comisión podrá recabar las pruebas que estime necesarias para conocer la verdad, respetando siempre el derecho del funcionario de que se trate a contradecirlas;
+
+II.- Con copia de dicho acuerdo y los documentos en los que se apoye el mismo, se le dará vista al funcionario de que se trate, para que en el plazo de treinta días hábiles formule un informe sobre los hechos, rinda las constancias correspondientes y proponga en su defensa las pruebas que estime convenientes. Las que se admitirán y desahogarán ante la Comisión;
+
+III.- El informe deberá referirse a todos y cada uno de los hechos comprendidos en el acuerdo, afirmándolos, negándolos, expresando los que ignore por no ser propios o refiriéndolos como crea que tuvieron lugar. Si no rinde el informe se presumirá la existencia de los hechos imputados, salvo prueba en contrario;
+
+IV.- Con el informe a que se refiere la fracción anterior el magistrado o consejero propondrá las pruebas que estime convenientes para su defensa. Cuando se ofrezca la testimonial de cualquier servidor público ésta se rendirá por oficio, a petición de la Comisión;
+
+V.- Recibido el informe del servidor público o vencido el plazo para su rendición, la Comisión determinará sobre su admisión o la no presentación del mismo. En el primer supuesto, si se ofrecieron pruebas acordará sobre su admisión o no y, en su caso, su recepción o desahogo, el que debe efectuarse en una audiencia que se celebrará dentro de los diez días hábiles que sigan al acuerdo. A la audiencia debe ser citado el magistrado o consejero, pero su inasistencia no dará lugar a diferir la misma, si obra constancia de la citación.
+
+Para el caso de que no se rinda el informe o se haga en forma extemporánea, la Comisión acordará que no existen pruebas por desahogar y en el plazo de treinta días hábiles elaborará el dictamen donde determine sobre la inexistencia o existencia de la causa grave en el desempeño de la función y lo notificará personalmente;
+
+VI.- Celebrada la audiencia y desahogadas las pruebas ofrecidas por la Comisión, elaborará el dictamen a que se refiere el párrafo que antecede;
+
+VII.- Si en el dictamen emitido por la Comisión de Evaluación se determina que un magistrado o consejero ha incurrido en cualquiera de las causas graves previstas por la Ley en el desempeño de su encargo, lo remitirá al Consejo del Poder Judicial o al Pleno del Supremo Tribunal de Justicia, según corresponda, para que dicho órgano resuelva lo conducente;
+
+VIII.- Recibido el dictamen de evaluación, se citará a una audiencia que se celebrará dentro de los diez días hábiles siguientes, para oír al funcionario de que se trate, en alegatos, los que podrá formular de manera oral o escrita; y
+
+IX.- Celebrada la audiencia, el Pleno del Supremo Tribunal de Justicia o del Consejo del Poder Judicial resolverá dentro del plazo de treinta días hábiles siguientes, con base al dictamen y lo alegado por el funcionario, si propone o no su separación.
+
+En lo no previsto en este precepto se aplicará de manera supletoria el Código de Procedimientos Civiles para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 48-D.
+
+El magistrado cuyo cargo termine por retiro forzoso, debe ser notificado por el Presidente del Supremo Tribunal de Justicia, sobre su situación con treinta días hábiles de anticipación a la fecha de terminación del encargo y, para que en su caso, presente la solicitud del haber de retiro que por Ley le corresponda.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 49.
 
-Los Magistrados Supernumerarios serán designados siguiendo los procedimientos previstos para los Magistrados Propietarios.
+El Pleno del Supremo Tribunal de Justicia integrará la terna que propondrá al Congreso del Estado, para la designación de magistrados supernumerarios, quienes durarán en el cargo siete años.
+
+La integración de la terna se realizará de entre los jueces de partido que cumplan con los requisitos a que se refiere el artículo 86 de la Constitución Política Local, además de los siguientes:
+
+I.- No haber sido sujeto de suspensión en los últimos tres años;
+
+II.- Tener calificación aprobatoria en las evaluaciones continuas realizadas por el Consejo del Poder Judicial en los últimos tres años; y
+
+III.- Haber cumplido con los cursos de actualización del último año.
+
+El Pleno del Supremo Tribunal de Justicia seleccionará a los jueces de partido que reúnan los requisitos señalados en este artículo, considerando su experiencia jurisdiccional y profesionalismo.
 
 ###### Artículo 50.
 
@@ -503,91 +717,287 @@ Las ternas que presente el Gobernador del Estado, podrán estar integradas por p
 
 Las ternas que presente el Consejo del Poder Judicial, deberán estar integradas por jueces de partido que hayan satisfecho los requerimientos de la carrera judicial, en los términos que establezca esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 51.
 
-Los magistrados supernumerarios desempeñarán, en el orden en que sean llamados por el Consejo del Poder Judicial, el despacho de los asuntos de la sala, en las faltas temporales del magistrado propietario o en las definitivas, en tanto se hace una nueva designación.
+Los magistrados supernumerarios desempeñarán el despacho de los asuntos de la sala, en las faltas temporales del magistrado o en las definitivas, en tanto se hace una nueva designación.
 
-Los magistrados supernumerarios tendrán las mismas atribuciones y gozarán de la misma retribución que correspondan al propietario.
+Los magistrados supernumerarios en ejercicio tendrán las mismas atribuciones y gozarán de la misma retribución que corresponda al magistrado.
 
 ###### Artículo 52.
 
 Si un magistrado dejare de conocer de algún asunto por excusa o recusación, conocerá de éste el magistrado al que corresponda por turno.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 53.
 
-Los magistrados del Supremo Tribunal de Justicia, de conformidad con el artículo 87 de la Constitución Política del Estado, tendrán derecho a un haber de retiro.
+Los magistrados del Supremo Tribunal de Justicia que terminen su periodo sin haber sido reelectos, tendrán derecho a optar por recibir un haber de retiro o bien adquirir la calidad y retribución de juez de partido, en los términos de esta Ley, pasado el término de un año a partir de la fecha de conclusión de su cargo.
+
+En el supuesto de que se opte por adquirir la calidad de juez de partido, el magistrado de que se trate deberá hacer valer dentro de los treinta días hábiles siguientes de concluido el cargo, este derecho, a efecto de que el Consejo del Poder Judicial determine su adscripción, en su caso, preferentemente en el último lugar de su desempeño como juez de partido, sin perjuicio de que pueda solicitar con posterioridad el haber de retiro, cuando decline a la opción de adquirir la calidad de juez de partido, antes de incorporarse como tal.
+
+En el caso de que se opte por adquirir la calidad de juez de partido, no podrá ser designado para el cargo de magistrado nuevamente.
 
 ###### Artículo 54.
 
 El Consejo del Poder Judicial determinará las bases para la constitución del fondo del haber de retiro, estableciendo las previsiones correspondientes en el presupuesto de egresos del Poder Judicial.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 55.
 
-El Consejo del Poder Judicial, a través del reglamento respectivo, establecerá los términos, cuantía y condiciones del haber de retiro, considerando lo siguiente:
+El Consejo del Poder Judicial tomará en consideración los siguientes criterios para definir los términos, cuantía y condiciones del haber de retiro:
 
-I.- Permanencia en el cargo de magistrado y en el Poder Judicial;
+l.- El magistrado que pretenda el haber de retiro, deberá solicitarlo ante el Consejo del Poder Judicial dentro de los treinta días hábiles anteriores y hasta treinta días hábiles posteriores a la conclusión de su gestión.
 
-II.- Cuantía del haber de retiro, considerando la permanencia a que se refiere la fracción anterior y el último sueldo mensual integrado del magistrado;
+La simple solicitud representa la opción del magistrado por el haber de retiro.
 
-III.- El haber de retiro será vitalicio y bajo la modalidad de pensión mensual, cuando se trate de magistrados que hayan cumplido dos periodos en el cargo.
+Formulada la solicitud, el Consejo del Poder Judicial contará con un término de treinta días para entregar el haber de retiro al magistrado de que se trate;
 
-El haber de retiro será una prestación en dinero y en una sola exhibición, cuando se trate de magistrados que hayan cumplido un periodo en el cargo;
+II.- El magistrado que habiendo concluido el periodo de ejercicio para el que fue nombrado y no fuere reelecto en su cargo en términos de ley, separándose definitivamente del Poder Judicial, recibirá un haber de retiro equivalente a tres meses de su última percepción neta más un mes de su percepción neta por cada año de servicios prestados como magistrado, y se hará en una sola exhibición.
 
-IV.- El magistrado que pretenda el haber de retiro, deberá solicitarlo ante el Consejo del Poder Judicial y cumplir los requisitos que señale el reglamento;
+En el caso de los magistrados supernumerarios, al término de su encargo, se hará la sumatoria correspondiente al tiempo en que se haya desempeñado como magistrado, y recibirá el haber de retiro proporcional de acuerdo a lo establecido en esta fracción en una sola exhibición.
 
-V.- El haber de retiro no se otorgará en los casos en que el magistrado sea removido de su cargo, en aplicación del artículo 126 de la Constitución Política del Estado, la Ley de Responsabilidades de los Servidores Públicos del Estado y esta Ley, según sea el caso;
+En ningún caso el monto a que se refiere esta fracción podrá exceder del equivalente a diez meses de su percepción neta;
 
-VI.- El haber de retiro se incrementará en los porcentajes y plazos que determine el Consejo del Poder Judicial, de conformidad con la situación del fondo del haber de retiro y la disponibilidad presupuestaria;
+III.- Los magistrados que por retiro forzoso se separen por cumplir catorce años en el cargo, por cumplir setenta y cinco años de edad, o por enfermedad o incapacidad que le impida ejercer el cargo, recibirán el haber de retiro en la modalidad de prestación económica mensual equivalente al sesenta por ciento de la percepción neta, hasta por siete años, a partir del día de su retiro.
 
-VII.- Al fallecer el magistrado beneficiario de la pensión por haber de retiro, se otorgará a quienes hayan designado como beneficiarios o, en su defecto, a los herederos legítimos, una cantidad equivalente a seis mensualidades;
+El haber de retiro a que se refiere esta fracción se suspenderá si el interesado se reintegra al servicio público y mientras dure en éste, con excepción de la docencia.
 
-VIII.- Disponibilidad presupuestaria y situación del fondo del haber de retiro; y
+En caso de tener derecho a una pensión por cotizaciones al Instituto de Seguridad Social del Estado de Guanajuato, deberá optar por ésta o por el haber de retiro que le corresponda según esta fracción.
 
-IX.- Otras condiciones que estime el Consejo del Poder Judicial, para cumplir los objetivos del haber de retiro.
+Quienes tengan derecho al haber de retiro a que se refiere esta fracción, deberán nombrar beneficiarios para que en caso de fallecimiento, la pensión se entregue en los términos establecidos, a quienes tengan tal carácter o en su defecto a sus legítimos herederos;
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DEL 2001)</small>
+IV.- En el caso de magistrados que por causas justificadas, renuncien a su cargo, o se separen de manera definitiva, tendrán derecho a un haber de retiro en una sola exhibición equivalente a un mes de su percepción neta por cada año de servicios prestados;
 
-### CAPITULO SEPTIMO. DEL PROCEDIMIENTO PARA RATIFICAR A LOS MAGISTRADOS
+V.- En caso de fallecimiento del magistrado en funciones, se entregará una prestación económica equivalente a seis meses de su última percepción neta en una sola exhibición, así como un mes por cada año de ejercicio como magistrado, a los beneficiarios designados y, a falta de ellos, a quien acredite el carácter de legítimo heredero;
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DEL 2001)</small>
+VI.- El haber de retiro no se otorgará en los casos en que el magistrado sea removido de su cargo, en aplicación del artículo 87, fracciones I y III de la Constitución Política Local y de esta Ley, según sea el caso; y
+
+VII.- No podrán otorgarse préstamos, créditos o anticipos con cargo al haber de retiro.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO SEPTIMO. DE LA COMISION DE EVALUACION
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 55-A.
 
-El Congreso del Estado podrá ratificar, o no, en su cargo a los Magistrados del Supremo Tribunal de Justicia designados en los términos de esta Ley, a propuesta del titular del Poder Ejecutivo o del Consejo del Poder Judicial, según les corresponda.
+La Comisión de Evaluación es el órgano encargado de la evaluación del desempeño de magistrados y consejeros, para garantizar el cumplimiento de los principios que rigen la función judicial.
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DEL 2001)</small>
+Estará integrada por el Presidente del Supremo Tribunal de Justicia, por un magistrado en materia civil, por un magistrado en materia penal y por dos consejeros. Por cada magistrado se elegirá un suplente. Los magistrados así como sus suplentes serán insaculados. En el caso de los consejeros sólo se insaculará un suplente.
+
+El Presidente de la Comisión de Evaluación se elegirá por insaculación. En aquéllos casos en que al presidente le corresponda ser evaluado, se deberá hacer una nueva elección.
+
+La Comisión de Evaluación elegirá de entre sus integrantes, quien deba fungir como Secretario.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 55-B.
 
-El Gobernador del Estado o el Consejo del Poder Judicial, según corresponda por el turno ejercido en la propuesta de designación del Magistrado, podrán determinar no proponer la ratificación del Magistrado o bien someter en propuesta individual su ratificación a consideración del Congreso del Estado.
+El Pleno del Supremo Tribunal de Justicia insaculará a los magistrados que conformarán la Comisión de Evaluación y, por su parte, el Consejo del Poder Judicial elegirá a los consejeros de dicha Comisión.
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DEL 2001)</small>
+Los integrantes de la Comisión de Evaluación, con excepción del Presidente del Supremo Tribunal de Justicia, durarán en el cargo un año y podrán ser reelectos por un periodo más.
+
+No podrán ser designados quienes al momento de integrarse a la Comisión de Evaluación, les falten menos de un año para concluir su encargo, como magistrado o consejero, según sea el caso.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 55-C.
 
-Ante la no ratificación de un Magistrado deberá formularse la propuesta de designación de un nuevo Magistrado en terna, observando los turnos que marca la Constitución Política Local y las disposiciones de esta Ley.
+Los magistrados y los consejeros integrantes de la Comisión de Evaluación se deberán de excusar de conocer y de votar en los asuntos relativos a su propia evaluación, o en los que tuvieren interés personal.
 
-La ratificación o, en su caso, la determinación de no proponerla, deberá quedar concluida antes de que se cumpla el término del nombramiento del Magistrado de que se trate. Si el proceso relativo no ha concluido, en tanto se llamará a un Supernumerario.
+El magistrado o consejero suplente, entrará en funciones cuando sea procedente la excusa o se hubiere concedido licencia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-D.
+
+Para sesionar válidamente la Comisión de Evaluación requerirá de la totalidad de sus integrantes y se deberá de reunir cuando menos una vez al mes para tratar los asuntos de su competencia. Sólo podrán participar hasta dos suplentes en una misma sesión.
+
+Las decisiones de la Comisión de Evaluación se tomarán por mayoría. Sus integrantes no podrán abstenerse de votar, salvo en el caso en el que así lo disponga la Ley.
+
+La Comisión contará con el personal necesario para el desempeño de sus funciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 55-E.
 
-Si un juez de impugnación dejare de conocer de algún asunto por excusa o recusación, lo conocerá el de la misma especialidad que por turno corresponda.
+La Comisión tendrá las siguientes funciones:
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+I.- Acordar los mecanismos y procedimientos de evaluación, ordenando su publicación en el Periódico Oficial del Gobierno del Estado;
 
-Artículo 55 F.- Para ser juez de impugnación deberán cumplirse los mismos requisitos exigidos al juez de partido, además de contar con experiencia profesional de cuando menos siete años y tener especialización en la materia de adolescentes.
+II.- Practicar auditorías de supervisión y evaluación;
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], P.O. 1 DE AGOSTO DE 2006)</small>
+III.- Diseñar instrumentos de medición y evaluación tomando como base los criterios contenidos en esta Ley;
 
-### CAPITULO OCTAVO. DE LOS JUECES DE IMPUGNACION EN MATERIA DE ADOLESCENTES
+IV.- Dar a conocer con anticipación a los magistrados y consejeros, la metodología de la evaluación;
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+V.- Elaborar dictámenes de evaluación; y
 
-Artículo 55 D.- Los jueces de impugnación en materia de adolescentes conocerán:
+VI.- Informar anualmente al Pleno del Supremo Tribunal de Justicia, al Pleno del Consejo del Poder Judicial, al Congreso del Estado y al Poder Ejecutivo, el resultado de las evaluaciones de consejeros y magistrados atendiendo al origen de la propuesta.
 
-l.- De los recursos de apelación y de denegada apelación en los términos de la Ley de Justicia para Adolescentes del Estado, procedentes de los tribunales especializaos que la misma prevé;
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO OCTAVO. DE LA EVALUACION DE MAGISTRADOS, CONSEJEROS Y JUECES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-F.
+
+La evaluación de los magistrados, consejeros y jueces será permanente y continua.
+
+La evaluación tendrá por objetivo fundamental lograr el apego a los siguientes principios que rigen la función judicial:
+
+I.- Independencia Judicial: Consiste en pronunciar resoluciones conforme a convicciones sustentadas, sin obedecer a instrucciones de ninguna otra autoridad y ateniéndose tan sólo a lo que establece la Ley;
+
+II.- Imparcialidad: Es la no adhesión o preferencia a ninguna de las partes; la falta de designio anticipado o de prevención a favor o en contra de alguien o algo, que permite juzgar o proceder con rectitud. En el ejercicio de la función judicial toda actuación debe ser realizada sin preferencias personales;
+
+III.- Eficiencia: Es el aprovechamiento y utilización correcta de los recursos materiales y humanos de que dispone el juzgador para impartir justicia, dedicándolos exclusivamente al fin para el que se le proporcionan, así como la observancia oportuna de los plazos previstos en las leyes para que la función judicial sea pronta y expedita con los menores costos para el Estado, la sociedad y las partes, de modo que las resoluciones se dicten en el menor tiempo posible;
+
+IV.- Eficacia: Es la exigencia de aplicarse debidamente para el cumplimiento de la Ley y la impartición de una justicia pronta, completa e imparcial, obteniéndose los mejores efectos de la actuación del titular del órgano jurisdiccional para cumplir con el mandato contenido en el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos;
+
+V.- Legalidad: Es la conformidad y sujeción estricta de las conductas y decisiones a lo ordenado por la Ley;
+
+VI.- Excelencia profesional: Es la actuación con una calidad superior que sobresale en mérito y que va más allá de lo ordinario o normalmente exigido en la actuación jurisdiccional. El ejercicio de la profesión con relevante capacidad y aplicación;
+
+VII.- Honestidad invulnerable: Es el actuar probo, recto y honrado;
+
+VIII.- Diligencia: Consiste en que los órganos jurisdiccionales se conduzcan en todos sus actos con el cuidado debido y principalmente que impartan justicia pronta y expedita;
+
+IX.- Celeridad: Es actuar con rapidez y velocidad. Se traduce en la capacidad de agilizar los procesos, conforme a la ley, evitando su retraso o demora indebidas, a fin de lograr que la justicia se imparta con prontitud y expeditez;
+
+X.- Honradez: Es la buena fama pública que califica al titular del órgano jurisdiccional como una persona honorable;
+
+XI.- Veracidad: Es la cualidad que supone la sujeción y uso de la verdad;
+
+XII.- Objetividad: Es la actitud analítica que se apoya en datos y situaciones reales, para concluir sobre hechos o conductas, con independencia de la propia manera de pensar o de sentir;
+
+XIII.- Competencia: Es el conjunto de conocimientos y capacidades de una persona que la acreditan para el correcto y adecuado desempeño del cargo, calificándolo como idóneo;
+
+XIV.- Honorabilidad: Es la cualidad moral del juzgador para lograr credibilidad, confianza y respeto hacia su persona y hacia su función;
+
+XV.- Lealtad: Es la entrega a la institución jurisdiccional, preservando y protegiendo los intereses públicos, independientemente de intereses particulares, de partido o de sectas; y
+
+XVI.- Probidad y Rectitud: Es la recta razón o conocimiento práctico de lo que se debe hacer y obrar conforme a ella.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-G.
+
+La Comisión de Evaluación se ajustará para la evaluación a que se refiere el artículo que antecede, a los siguientes criterios como mínimo:
+
+I.- La ausencia de cualquier tipo de relación que atente contra la imparcialidad e independencia;
+
+II.- La ausencia de antecedentes de responsabilidad en el ejercicio de su función;
+
+III.- El cumplimiento en la presentación de declaraciones de situación patrimonial del evaluado;
+
+IV.- El cumplimiento de obligaciones legales o jurisdiccionales distintas a las derivadas del carácter de servidor público del evaluado;
+
+V.- El resultado de las evaluaciones realizadas durante el ejercicio de su función;
+
+VI.- El resultado de exámenes que acrediten que gozan de buena salud para el desempeño de su función;
+
+VII.- La estadística cuantitativa y de calidad;
+
+VIII.- El resultado de las auditorías practicadas en el ejercicio de su cargo; y
+
+IX.- El conocimiento y aplicación de los convenios y demás instrumentos internacionales suscritos y ratificados por nuestro País.
+
+Lo anterior, sin perjuicio de otros criterios que la propia Comisión de Evaluación estime pertinentes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-H.
+
+Los magistrados y consejeros serán evaluados por la Comisión de Evaluación conforme a lo siguiente:
+
+I.- Se les dará a conocer desde el inicio de su cargo la metodología y criterios de evaluación fijados por esta Ley y por la Comisión y, con oportunidad las modificaciones que sufran; y
+
+II.- Los resultados de las evaluaciones se les darán a conocer por escrito y se les otorgará un plazo de treinta días hábiles, para que hagan las manifestaciones que estimen procedentes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-I.
+
+Si de la evaluación se desprende que se actualiza alguna causal de separación, la Comisión de Evaluación emitirá el dictamen respectivo en los términos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-J.
+
+Los jueces serán evaluados por el Consejo del Poder Judicial conforme a lo siguiente:
+
+I.- Se les dará a conocer desde el inicio de su cargo los criterios de la evaluación fijados por esta Ley y por el Consejo y, con oportunidad las modificaciones que sufran;
+
+II.- Serán objeto de evaluación continua;
+
+III.- Los resultados de las evaluaciones se les darán a conocer por escrito y se les otorgará un plazo de treinta días hábiles siguientes a la fecha de la notificación, para que hagan las manifestaciones que estimen procedentes; y
+
+IV.- Las deficiencias o faltas graves que arrojen las evaluaciones serán causa de remoción.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-K.
+
+La violación a lo dispuesto por este Capítulo, dará lugar a responsabilidad en los términos del artículo 156 fracción III de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+### CAPÍTULO NOVENO. DEL PROCEDIMIENTO PARA LA REELECCIÓN DE MAGISTRADOS
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-L.
+
+Los magistrados que tengan la intención de ser reelectos, deberán manifestar bajo protesta de decir verdad, un año antes del término del cargo y mediante escrito, que es su voluntad ser reelecto conforme a lo dispuesto por el artículo 87 de la Constitución Política para el Estado de Guanajuato y la presente Ley. La omisión será considerada como la no aceptación para ser reelecto.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-M.
+
+El Gobernador del Estado o el Consejo del Poder Judicial, según corresponda por el turno ejercido en la propuesta de designación del magistrado, podrán determinar proponer o no, la reelección de éste ante el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-N.
+
+Ante la no reelección de un magistrado deberá formularse la propuesta de designación de un nuevo magistrado en terna, observando los turnos que marca la Constitución Política Local y las disposiciones de esta Ley.
+
+La reelección o, en su caso, la determinación de no proponerla, deberá quedar concluida antes de que se cumpla el término de nombramiento del magistrado de que se trate. Si el proceso relativo no ha concluido, en tanto se llamará a un magistrado supernumerario.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55
+
+Ñ.- El Consejo del Poder Judicial o el Gobernador del Estado, según corresponda, para resolver sobre la propuesta de reelección o no de un magistrado solicitará a la Comisión de Evaluación que emita el dictamen final, la que deberá rendirlo en un plazo que no exceda de treinta días hábiles.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-O.
+
+Emitido el dictamen por la Comisión de Evaluación, el Consejo del Poder Judicial o el Gobernador del Estado, en su caso, dará vista al magistrado por un plazo de treinta días hábiles para que manifieste lo que a sus intereses convenga y rinda las pruebas que estime necesarias para justificar sus afirmaciones.
+
+Asimismo, se le solicitará que en igual plazo rinda un informe sobre el desempeño de su encargo, si así lo considera necesario.
+
+Transcurrido el plazo concedido en el párrafo que antecede el Consejo del Poder Judicial o el Gobernador del Estado, conforme al origen de la propuesta, resolverá mediante un dictamen debidamente fundado y motivado sobre la propuesta de reelección o no, determinación que se deberá notificar personalmente al magistrado.
+
+La propuesta de reelección deberá remitirse al Congreso del Estado con un mes de anticipación al término del encargo del magistrado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES CAPITULO OCTAVO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO DECIMO. DE LOS JUECES DE IMPUGNACION EN MATERIA DE ADOLESCENTES
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTICULO 55-D], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-P.
+
+Los jueces de impugnación en materia de adolescentes conocerán:
+
+I.- De los recursos de apelación y de denegada apelación en los términos de la Ley de Justicia para Adolescentes del Estado, procedentes de los tribunales especializados que la misma prevé;
 
 II.- De las recusaciones y de las excusas de los jueces para adolescentes y de los jueces de ejecución;
 
@@ -599,13 +1009,21 @@ V.- De los conflictos de competencia que se susciten entre jueces para adolescen
 
 VI.- De los demás asuntos que les confieran esta Ley y otras disposiciones legales.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTICULO 55-E], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-### CAPÍTULO NOVENO. DE LOS JUZGADOS DE PARTIDO Y DE LOS TRIBUNALES ESPECIALIZADOS PARA ADOLESCENTES
+###### Artículo 55-Q.
 
-### CAPITULO DECIMO. DE LOS JUECES DE PARTIDO
+Si un juez de impugnación dejare de conocer de algún asunto por excusa o recusación, lo conocerá el de la misma especialidad que por turno corresponda.
 
-### CAPITULO DECIMO PRIMERO. DE LOS JUZGADOS MENORES
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTICULO 55-F], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 55-R.
+
+Para ser juez de impugnación deberán de cumplirse los mismos requisitos exigidos al juez de partido, además de contar con experiencia profesional de cuando menos siete años y tener especialización en la materia de adolescentes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES CAPITULO NOVENO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS JUZGADOS DE PARTIDO Y DE LOS TRIBUNALES ESPECIALIZADOS PARA ADOLESCENTES
 
 ###### Artículo 56.
 
@@ -643,9 +1061,9 @@ III.- Secretarios proyectistas; y
 
 IV.- Actuarios y demás personal de apoyo que determine el Consejo del Poder Judicial.
 
-(REUBICADO [N. DE E. ANTES CAPITULO NOVENO], P.O. 1 DE AGOSTO DE 2006)
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES CAPITULO DECIMO], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO DECIMO SEGUNDO. DE LOS JUECES MENORES
+### CAPÍTULO DÉCIMO SEGUNDO. DE LOS JUECES DE PARTIDO
 
 ###### Artículo 59.
 
@@ -721,9 +1139,9 @@ Para ser titular de un juzgado para adolescentes o para ser juez de ejecución s
 
 En los casos de recusación o excusa del titular de un juzgado para adolescentes o de un juez de ejecución será sustituido por el juzgador de la misma materia más cercano; si éste no puede conocer del asunto, por el juez de partido en materia penal con residencia en el lugar de ubicación del juez originalmente competente.
 
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMO], P.O. 1 DE AGOSTO DE 2006)
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES CAPITULO DECIMO PRIMERO], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO DECIMO TERCERO. DE LOS SECRETARIOS
+### CAPÍTULO DÉCIMO TERCERO. DE LOS JUZGADOS MENORES
 
 ###### Artículo 65.
 
@@ -753,9 +1171,9 @@ III.- Secretarios proyectistas; y
 
 IV.- Los Actuarios y demás personal de apoyo que determine el Consejo del Poder Judicial.
 
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMO PRIMERO], P.O. 1 DE AGOSTO DE 2006)
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES CAPITULO DECIMO SEGUNDO], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO DECIMO CUARTO. DE LOS ACTUARIOS
+### CAPÍTULO DÉCIMO CUARTO. DE LOS JUECES MENORES
 
 ###### Artículo 68.
 
@@ -787,9 +1205,9 @@ En los municipios donde sólo exista un juez menor, el expediente se enviará al
 
 Será aplicable a los jueces menores, en lo conducente, lo dispuesto en esta Ley para los jueces de partido.
 
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMO SEGUNDO], P.O. 1 DE AGOSTO DE 2006)
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES CAPITULO DECIMO TERCERO], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO DÉCIMO QUINTO. DEL PERSONAL DE APOYO
+### CAPÍTULO DÉCIMO QUINTO. DE LOS SECRETARIOS
 
 ###### Artículo 72.
 
@@ -887,9 +1305,9 @@ Los secretarios proyectistas tienen la obligación de elaborar los proyectos de 
 
 Los secretarios de acuerdos adscritos a los juzgados penales y a los tribunales especializados en la impartición de justicia para los adolescentes tienen las obligaciones y atribuciones que establece esta Ley. Asimismo deberán practicar aseguramientos o cualquiera otra diligencia que deba llevarse a cabo con arreglo a la Ley o determinación judicial y ejecutar, en su caso, las decisiones del juez en cuanto a la entrega de los bienes, objetos o instrumentos del delito que no competa hacerlo a autoridad diversa.
 
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMO TERCERO, P.O. 1 DE AGOSTO DE 2006)
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO DECIMO CUARTO], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO PRIMERO. DE LA CARRERA JUDICIAL
+### CAPÍTULO DÉCIMO SEXTO. DE LOS ACTUARIOS
 
 ###### Artículo 81.
 
@@ -933,9 +1351,9 @@ V.- La fecha de devolución del expediente.
 
 Los actuarios tendrán fe pública en el desempeño de sus funciones.
 
-(REUBICADO [N. DE E. ANTES CAPITULO DECIMO CUARTO], P.O. 1 DE AGOSTO DE 2006)
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO DECIMO QUINTO], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO SEGUNDO. DEL INGRESO Y ASCENSO A LA CARRERA JUDICIAL
+### CAPÍTULO DÉCIMO SÉPTIMO. DEL PERSONAL DE APOYO
 
 ###### Artículo 85.
 
@@ -973,7 +1391,7 @@ La ubicación escalafonaria de sus integrantes será determinada por el Consejo 
 
 ## TITULO TERCERO
 
-### CAPITULO TERCERO. DEL INSTITUTO DE FORMACION DE LOS SERVIDORES
+### CAPITULO PRIMERO. DE LA CARRERA JUDICIAL
 
 ###### Artículo 92.
 
@@ -1003,6 +1421,12 @@ VI.- Juez de partido, o titular de tribunal especializado en la impartición de 
 
 VII.- Magistrado.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 94-A.
+
+Los jueces podrán ser adscritos, según su categoría, a cualquier municipio, partido o distrito. El Consejo del Poder Judicial determinará la adscripción y cambio de adscripción de los jueces y personal de los juzgados conforme a las necesidades del servicio del Poder Judicial, atendiendo a los siguientes factores: tiempo en el cargo, funcionamiento del juzgado, oportunidad de desarrollo profesional, estructura organizacional y demás aspectos de naturaleza análoga que el propio Consejo determine en acuerdo general.
+
 ###### Artículo 95.
 
 El Consejo del Poder Judicial para la institucionalización de la carrera judicial establecerá:
@@ -1017,15 +1441,19 @@ IV.- Un sistema de estímulos y recompensas; y
 
 V.- Un sistema de capacitación y desarrollo de los servidores públicos judiciales, en los términos de esta Ley.
 
-### CAPITULO PRIMERO. DE LAS LICENCIAS Y RENUNCIAS
+### CAPITULO SEGUNDO. DEL INGRESO Y ASCENSO A LA CARRERA JUDICIAL
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 96.
 
-El Consejo del Poder Judicial podrá convocar a concursos de oposición libre, o bien, a concursos de oposición internos, atendiendo a las necesidades del servicio y a la naturaleza de la categoría que se concursa.
+El Consejo del Poder Judicial convocará a concursos de oposición libre e internos, atendiendo a las necesidades del servicio y a la naturaleza de la categoría que se concursa.
 
-En los concursos de oposición libre, podrán participar quienes reúnan los requisitos exigidos por esta Ley para la categoría que se concursa y que hayan aprobado el curso de especialización judicial.
+Por cada dos concursos a las plazas de jueces y secretarios uno será libre, emitiéndose para tal efecto convocatoria pública, en la cual podrán participar todos los ciudadanos que no pertenezcan al Poder Judicial, que reúnan los requisitos exigidos por esta Ley para la categoría que se concursa y que hayan aprobado el curso de especialización judicial, que para tal efecto imparta de manera previa y anticipada el Consejo del Poder Judicial.
 
-En los concursos de oposición interna, podrán participar quienes se encuentren en la categoría inmediata inferior a la que se concursa, reúnan los requisitos exigidos por esta Ley y hayan aprobado el curso de especialización judicial.
+En los concursos de oposición interna, podrán participar quienes se encuentren en la categoría inmediata inferior a la que se concursa, reúnan los requisitos exigidos por esta Ley y hayan aprobado el curso de especialización judicial, que para tal efecto haya impartido el Consejo del Poder Judicial.
+
+El curso de especialización judicial deberá abrirse al público en general, al cual podrán inscribirse todos los profesionistas que cumplan con los requisitos legales establecidos para la categoría que se concursa.
 
 ###### Artículo 97.
 
@@ -1131,7 +1559,7 @@ III.- Un representante de la institución académica que imparta el curso de for
 
 Los jueces, secretarios y actuarios al entrar a ejercer su cargo, protestarán guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política Local y las leyes que de ellas emanen; ante el Presidente del Supremo Tribunal de Justicia.
 
-### CAPITULO SEGUNDO. DEL MODO DE SUPLIR LAS FALTAS
+### CAPITULO TERCERO. DEL INSTITUTO DE FORMACION DE LOS SERVIDORES
 
 ###### Artículo 107.
 
@@ -1161,7 +1589,7 @@ El instituto llevará a cabo o promoverá cursos continuos de preparación para 
 
 ## TITULO CUARTO
 
-### CAPITULO PRIMERO. DE LA OFICIALIA COMUN DE PARTES
+### CAPITULO PRIMERO. DE LAS LICENCIAS Y RENUNCIAS
 
 ###### Artículo 111.
 
@@ -1179,11 +1607,13 @@ A los magistrados podrán concederse licencias de más de seis meses por causa d
 
 Concluido el plazo de una licencia que se hubiere concedido, si el interesado no se presenta injustificadamente al desempeño de sus labores, quedará sin efecto su nombramiento.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 115.
 
-Las renuncias de los magistrados serán sometidas a la aprobación del Congreso del Estado, por el Titular del Poder Ejecutivo o por el Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación.
+Las renuncias de los magistrados serán sometidas a la aprobación del Congreso del Estado, por el Titular del Poder Ejecutivo o por el Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación. En el caso de los magistrados supernumerarios, las renuncias deberán ser sometidas por el Pleno del Supremo Tribunal de Justicia.
 
-### CAPITULO SEGUNDO. DE LAS CENTRALES DE ACTUARIOS
+### CAPITULO SEGUNDO. DEL MODO DE SUPLIR LAS FALTAS
 
 ###### Artículo 116.
 
@@ -1191,7 +1621,9 @@ Las faltas temporales de los magistrados, se suplirán:
 
 I.- Las del magistrado Presidente del Supremo Tribunal de Justicia, por un Presidente interino que el Pleno designará si la ausencia fuere menor a seis meses; si fuere mayor a ese término, nombrarán a un nuevo Presidente para que ocupe el cargo hasta el fin del período, pudiendo designarse en este último caso a quien hubiere fungido como presidente interino; y
 
-II.- Las de los magistrados propietarios por los magistrados supernumerarios que corresponda por el orden de su designación.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II.- Las de los magistrados, por los magistrados supernumerarios que determine el Pleno del Supremo Tribunal de Justicia.
 
 ###### Artículo 117.
 
@@ -1213,7 +1645,9 @@ VI.- Las de los demás servidores públicos del Poder Judicial, por quien design
 
 Las faltas por renuncia de los servidores públicos del Poder Judicial, se suplirán en la siguiente forma:
 
-I.- Las de los magistrados o consejeros magistrados por una nueva designación en los términos que señala la Constitución Política Local;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+I.- Las de los magistrados o consejeros por una nueva designación en los términos que señala la Constitución Política Local;
 
 II.- Las del Presidente del Supremo Tribunal de Justicia, por el magistrado que elija el Pleno;
 
@@ -1223,9 +1657,9 @@ IV.- Las de los demás servidores públicos, por quienes designe el Consejo del 
 
 ## TITULO QUINTO
 
-### CAPITULO TERCERO. DEL ARCHIVO DEL PODER JUDICIAL
+### CAPITULO PRIMERO. DE LA OFICIALIA COMUN DE PARTES
 
-### CAPITULO UNICO. DE LA CONTRALORIA
+### CAPITULO SEGUNDO. DE LAS CENTRALES DE ACTUARIOS
 
 ###### Artículo 119.
 
@@ -1247,7 +1681,7 @@ El oficial tendrá fe pública en todo lo relativo al ejercicio de su cargo.
 
 Los turnos de los diversos asuntos deberán ser hechos conforme al sistema que establezca el Consejo del Poder Judicial.
 
-### CAPITULO UNICO. DE LA JURISPRUDENCIA
+### CAPITULO TERCERO. DEL ARCHIVO DEL PODER JUDICIAL
 
 ###### Artículo 124.
 
@@ -1257,7 +1691,7 @@ El Consejo del Poder Judicial designará al titular responsable de la oficina ce
 
 Los actuarios dependerán administrativamente del titular de la oficina central de actuarios, pero estarán sometidos a la autoridad del juez que dicte la resolución que se cumplimente, por lo que a esta se refiere.
 
-### CAPITULO PRIMERO. DE LA AUTONOMIA PRESUPUESTAL
+### CAPITULO UNICO. DE LA CONTRALORIA
 
 ###### Artículo 125.
 
@@ -1317,7 +1751,7 @@ El Consejo del Poder Judicial podrá acordar en todo caso las disposiciones que 
 
 ## TITULO SEXTO
 
-### CAPITULO SEGUNDO. DEL FONDO AUXILIAR PARA LA IMPARTICION DE JUSTICIA
+### CAPITULO UNICO. DE LA JURISPRUDENCIA
 
 ###### Artículo 135.
 
@@ -1339,7 +1773,7 @@ V.- Las demás que determinen las leyes, los reglamentos y acuerdos generales co
 
 ## TITULO SEPTIMO
 
-### CAPITULO TERCERO. DE LAS BASES PARA LA APLICACION DEL FONDO AUXILIAR
+### CAPITULO PRIMERO. DE LA AUTONOMIA PRESUPUESTAL
 
 ###### Artículo 137.
 
@@ -1369,7 +1803,7 @@ La contradicción de tesis deberá denunciarse por escrito al Pleno del Supremo 
 
 ## TITULO OCTAVO
 
-### CAPITULO UNICO. DE LA RESPONSABILIDAD
+### CAPITULO SEGUNDO. DEL FONDO AUXILIAR PARA LA IMPARTICION DE JUSTICIA
 
 ###### Artículo 141.
 
@@ -1379,7 +1813,7 @@ El Poder Judicial tiene facultad para manejar en forma autónoma e independiente
 
 El presupuesto del Poder Judicial se ejercerá por el Consejo, el que deberá sujetarse a las disposiciones previstas en la Ley del Presupuesto, Contabilidad y Gasto Público y demás ordenamientos aplicables.
 
-### CAPITULO UNICO. DEL RECURSO ADMINISTRATIVO DE REVISION
+### CAPITULO TERCERO. DE LAS BASES PARA LA APLICACION DEL FONDO AUXILIAR
 
 ###### Artículo 143.
 
@@ -1417,9 +1851,7 @@ Las sumas o valores depositadas por los particulares, serán reintegradas a los 
 
 El Pleno del Supremo Tribunal de Justicia informará al Congreso del Estado en la cuenta pública semestral que se presente, sobre el manejo y aplicación del fondo.
 
-### CAPITULO UNICO
-
-DE LOS CONFLICTOS LABORALES ENTRE EL PODER JUDICIAL DEL ESTADO Y SUS SERVIDORES.
+### CAPITULO UNICO. DE LA RESPONSABILIDAD
 
 ###### Artículo 147.
 
@@ -1441,23 +1873,29 @@ II.- Compra del mobiliario y equipo que se requiera en las salas, juzgados y ofi
 
 III.- Adquisición de libros para la biblioteca del Poder Judicial;
 
-IV.- Capacitación y especialización profesional de los servidores públicos del Poder Judicial;
+IV.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
 
-V.- Otorgamiento de estímulos y recompensas a la calidad y productividad; y
+V.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
 
-VI.- Los demás que a juicio del Consejo del Poder Judicial se requieran para la mejor impartición de justicia
+VI.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+No podrán emplearse los recursos del fondo auxiliar para el otorgamiento de estímulos y recompensas a la calidad y productividad, ni para el pago o contratación de personas.
 
 ## TITULO NOVENO
 
-### CAPITULO UNICO. DE LAS EXCITATIVAS DE JUSTICIA
+### CAPITULO UNICO. DEL RECURSO ADMINISTRATIVO DE REVISION
 
 ###### Artículo 149.
 
 Los servidores públicos del Poder Judicial estarán sujetos a responsabilidad administrativa en los casos establecidos en esta Ley, sin perjuicio de la responsabilidad civil o penal a que se hagan acreedores.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 150.
 
-La responsabilidad administrativa de los magistrados y consejeros magistrados, sólo podrá decretarse por el Pleno del Supremo Tribunal de Justicia; la de los demás servidores públicos del Poder Judicial se determinará por el Consejo del Poder Judicial, mediante el procedimiento establecido en esta Ley.
+La responsabilidad administrativa de los servidores públicos del Poder Judicial, incluidos los magistrados, se determinará por el Consejo del Poder Judicial, y la de los consejeros por el Pleno del Supremo Tribunal de Justicia, mediante el procedimiento establecido por esta Ley.
 
 ###### Artículo 151.
 
@@ -1557,7 +1995,9 @@ VI.- Celebrada la audiencia y recibidas las pruebas ofrecidas o no existiendo ot
 
 VII.- La resolución se notificará personalmente o por correo certificado con acuse de recibo al servidor público y al promoverte de la queja o denuncia.
 
-El procedimiento a que se refiere este artículo, se tramitará en todas sus etapas por el Pleno del Supremo Tribunal de Justicia, cuando se siga contra un Consejero Magistrado o contra un Magistrado del propio Pleno.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+El procedimiento a que se refiere este artículo, se tramitará en todas sus etapas por el Pleno del Supremo Tribunal de Justicia, cuando se siga contra un consejero.
 
 El Consejo del Poder Judicial, o en su caso, el Pleno del Supremo Tribunal de Justicia, en el mismo auto a que se refiere la fracción I de este artículo, podrá acordar en cada caso, la delegación en cualquiera de sus integrantes, de la facultad para presidir las audiencias de desahogo de pruebas.
 
@@ -1621,9 +2061,11 @@ VI.- El monto del beneficio, daño o perjuicio económico derivado del incumplim
 
 VII.- Las cargas de trabajo del órgano jurisdiccional de adscripción.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 159.
 
-La destitución de magistrados sólo procederá en los términos a que se refieren los artículos 124 y 126 de la Constitución Política para el Estado de Guanajuato.
+La separación de magistrados y consejeros sólo procederá en los términos y en la forma a que se refieren los artículos 63, 83, 87, 124 y 126 de la Constitución Política Local y el artículo 55-K de esta Ley.
 
 ###### Artículo 160.
 
@@ -1633,7 +2075,23 @@ Con independencia de si el motivo de la queja da o no lugar a la responsabilidad
 
 Si el Pleno del Supremo Tribunal de Justicia o el Consejo del Poder Judicial estimaren que la queja fue interpuesta sin motivo, se impondrá al promovente o a su representante o abogado, o a ambos, una multa de treinta a ciento veinte días de salario mínimo, tomando como base el vigente en el Estado de Guanajuato al momento de interponerse.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 161-A.
+
+Quienes hubieren sido sujetos a sanción administrativa consistente en amonestación o suspensión, podrán solicitar al Consejo del Poder Judicial la cancelación del antecedente disciplinario, conforme a las siguientes reglas:
+
+I.- Que se haya cumplido con la sanción impuesta;
+
+II.- Que no se encuentren sujetos a otro procedimiento de responsabilidad administrativa; y
+
+III.- Que haya transcurrido un plazo de tres años, contados a partir de que se impuso la sanción administrativa.
+
 ## TITULO DECIMO
+
+### CAPITULO UNICO
+
+DE LOS CONFLICTOS LABORALES ENTRE EL PODER JUDICIAL DEL ESTADO Y SUS SERVIDORES.
 
 ###### Artículo 162.
 
@@ -1664,6 +2122,8 @@ El Pleno del Supremo Tribunal de Justicia deberá resolver el recurso administra
 Será aplicable supletoriamente el Código de Procedimientos Civiles para el Estado, en la tramitación del recurso administrativo de revisión.
 
 ## TITULO DECIMO PRIMERO
+
+### CAPITULO UNICO. DE LAS EXCITATIVAS DE JUSTICIA
 
 ###### Artículo 169.
 
@@ -1766,3 +2226,17 @@ Artículo Segundo.- Tan luego cobren vigencia las presentes adecuaciones, el Con
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto iniciará su vigencia el día 1° de enero de 2007, previa publicación en el Periódico Oficial de Gobierno del Estado.
+
+Artículo Segundo.- La Comisión de Evaluación deberá quedar integrada a más tardar el 15 de enero de 2007.
+
+Artículo Tercero.- A partir de la entrada en vigor del presente Decreto, y para efectos de constituir el haber de retiro a que se refiere la Constitución Política para el Estado de Guanajuato y esta Ley, los magistrados aportarán mensualmente un ocho punto treinta y tres por ciento de su salario integrado, para dar suficiencia al pago de su haber de retiro, dichas aportaciones se integrarán en su totalidad a la cuenta del fondo del haber de retiro del Poder Judicial.
+
+Los magistrados que cumplan siete años y no sean reelectos, recibirán el total de sus aportaciones sin perjuicio de lo establecido por la fracción II del artículo 55 de la presente Ley. En el caso de los magistrados que se separen de manera definitiva por causa justificada, antes de concluir su cargo, recibirán el total de sus aportaciones sin perjuicio de lo establecido por la fracción IV del artículo 55 de la presente Ley.
+
+Los magistrados que por retiro forzoso se separen del cargo, por cumplir catorce años en el cargo, por cumplir setenta y cinco años de edad o por enfermedad o incapacidad física que le impida desempeñar el cargo, recibirán únicamente lo establecido en la fracción III del artículo 55 de la presente Ley.
+
+Los magistrados que reciban el haber de retiro en el supuesto de la fracción III del artículo 55 de esta Ley, aportarán mensualmente el ocho punto treinta y tres por ciento de la prestación económica a que se refiere dicha fracción al fondo del haber de retiro del Poder Judicial.
