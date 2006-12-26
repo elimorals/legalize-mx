@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-villa-de-alvarez-colima-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2006-04-04"
+last_updated: "2006-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE VILLA DE ALVAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -249,9 +249,9 @@ Los notarios públicos, para autorizar en forma definitiva escrituras en que se 
 
 Se concede el 12 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, siempre que el monto de dicho impuesto sea mayor a 2 unidades de salarios, en predios urbanos y 3 unidades de salarios en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra el salario mínimo general durante el ejercicio correspondiente.
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-En los casos en que el contribuyente acredite estar jubilado o pensionado por alguna institución pública o presente alguna discapacidad o ser un adulto mayor de escasos recursos con la edad de 65 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un predio, este sea de su propiedad y acredite la residencia en el mismo. El descuento anterior se otorgará a los contribuyentes beneficiados por este artículo que paguen este impuesto por anualidad adelantada durante los meses de enero, febrero y marzo. A partir del mes de abril, el beneficio se seguirá otorgando, pero con los recargos y multas generados hasta que se efectúe el pago en los términos de lo dispuesto por el segundo párrafo del artículo 119 de esta Ley y 25 en su último párrafo del Código Fiscal Municipal.
+En los casos en que el contribuyente acredite estar jubilado o pensionado por alguna institución pública o presente alguna discapacidad o ser un adulto mayor de escasos recursos con la edad de 60 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un predio, éste sea de su propiedad y acredite la residencia en el mismo. El descuento anterior se otorgará a los contribuyentes beneficiados por este artículo que paguen este impuesto por anualidad adelantada durante los meses de enero, febrero y marzo. A partir del mes de abril, el beneficio se seguirá otorgando, pero con los recargos y multas generados hasta que se efectúe el pago en los términos de lo dispuesto por el segundo párrafo del artículo 120 de esta Ley y 25 en su último párrafo del Código Fiscal Municipal.
 
 Cabe señalar que si al efectuar el cálculo del beneficio que se menciona en el párrafo anterior, da como resultado una cantidad menor a 2 unidades de salario, el contribuyente deberá pagar el importe de las dos unidades de salario.
 
@@ -2659,13 +2659,21 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO QUINTO.
 
-En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.04 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
 
-En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.08 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.10 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable en los siguientes casos:
+
+a) Cuando cambie la base del impuesto predial en los términos del Artículo 9 de este ordenamiento.
+
+b) Los que sean objeto de transmisión patrimonial.
+
+c) Los que tengan un adeudo en el pago del impuesto predial de cinco años o más.
 
 ###### ARTICULO SEXTO.
 
@@ -2734,3 +2742,7 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 P.O. 4 DE ABRIL DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
