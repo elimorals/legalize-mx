@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2006-04-28"
+last_updated: "2006-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -699,11 +699,9 @@ II. Celebrar convenios con el Gobierno del Estado en materia fiscal relacionadas
 
 III.- Formular y remitir al Congreso del Estado a más tardar el 15 de octubre, sus presupuestos anuales de ingresos, para expedir en su caso, la Ley de Ingresos, junto con la Tabla de Valores Unitarios de Suelo y Construcción del año siguiente. El Congreso del Estado está facultado para incorporar a la Iniciativa de ingresos municipales que al efecto presente el Ejecutivo del Estado, el monto total de ingresos autorizado por Municipio, siempre y cuando los presupuestos se hayan remitido previo acuerdo de los Ayuntamientos. En el caso de que un Ayuntamiento no presente su presupuesto de ingresos, el Congreso suplirá esta deficiencia en los términos de Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 621.</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
-
-IV.- Presentar al Congreso del Estado, a más tardar el último día del mes de enero de cada año, la Cuenta de la Hacienda Pública Municipal, la que contendrá el Informe Financiero correspondiente al tercer cuatrimestre del ejercicio fiscal anterior, consolidando el resultado de las operaciones de ingresos y gastos que se hayan realizado, en los términos que señale la Ley de Fiscalización Superior del Estado de Guerrero;
+IV. Presentar al Congreso del Estado, a través de la Auditoria General del Estado, a más tardar el último día del mes de enero de cada año, la Cuenta de la Hacienda Pública Municipal, la que contendrá el Informe Financiero correspondiente al tercer cuatrimestre del ejercicio fiscal anterior, consolidando el resultado de las operaciones de ingresos y gastos que se hayan realizado, en los términos que señale la Ley de Fiscalización Superior del Estado de Guerrero;
 
 V. Recaudar y administrar los ingresos correspondientes a la Hacienda Pública Municipal;
 
@@ -1817,13 +1815,11 @@ Los sistemas de contabilidad municipal deberán diseñarse y operarse en forma t
 
 Para efectos de la revisión de las cuentas públicas municipales, los Ayuntamientos informarán al Congreso del Estado durante los primeros quince días de cada ejercicio fiscal o durante el mes siguiente a su implantación o modificación, sobre las normas, procedimientos y sistemas de control interno que en materia contable implanten.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 621.</small>
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 169.
 
-Los Ayuntamientos deberán remitir al Congreso del Estado en los términos establecidos en la legislación aplicable, la Cuenta Anual de la Hacienda Pública Municipal y los Informes Financieros cuatrimestrales para su revisión y fiscalización.
+Los Ayuntamientos deberán remitir al Congreso del Estado, a través de la Auditoria General del Estado, en los términos establecidos en la legislación aplicable, la Cuenta Anual de la Hacienda Pública Municipal y los Informes Financieros cuatrimestrales para su revisión y fiscalización.
 
 ## TITULO SEXTO. DEL DESARROLLO MUNICIPAL
 
@@ -3006,3 +3002,11 @@ El presente Decreto entrará en vigor a partir de la fecha en que entre en vigor
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Gobernador del Estado para los efectos constitucionales procedentes y su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+Artículo Primero.- Túrnese al Titular del Ejecutivo del Estado para los efectos legales conducentes.
+
+Artículo Segundo.- Comuníquese el presente Decreto, a los Ayuntamientos Municipales del Estado para su conocimiento y efectos legales procedentes.
+
+Artículo Tercero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
