@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2006-05-06"
+last_updated: "2006-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -257,7 +257,9 @@ La base gravable para la determinación de este impuesto será:
 
 I.- Tratándose de automóviles, camiones y motocicletas:
 
-a).- Para vehículos del último año modelo, el 90% del importe total de la primera facturación, sin incluir intereses por financiamiento.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+a).- Para vehículos del último año, el 80% del importe total de la primera facturación, sin incluir intereses por financiamiento.
 
 b).- Para vehículos de años modelos anteriores al año de calendario en el que se realizo la transmisión: el valor consignado en el Tabulador Oficial que se publique en el Periódico Oficial del Estado.
 
@@ -371,15 +373,15 @@ II.- La prestación de servicios mediante el sistema de tiempo compartido o de c
 
 III.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los cuales se otorga el espacio e instalaciones para el estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
+
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
 
 Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -387,13 +389,15 @@ Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
-Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mensualmente mediante declaración definitiva que presentarán en la Receptoría de Rentas correspondiente a su domicilio o en las instituciones bancarias autorizadas, en las formas oficiales aprobadas para el efecto, a mas tardar el día 15 del mes siguiente a aquel en que se perciban las contraprestaciones.
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
-Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declaración definitiva que presentarán en las Receptorías de Rentas de la Secretaría de Finanzas, en las instituciones de crédito o en los establecimientos autorizados, en las formas oficiales aprobadas para el efecto a más tardar el día 17 del mes siguiente a aquel en que se reciban las contraprestaciones.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
+Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -499,9 +503,11 @@ Artículo 41 P.- Es base de este impuesto el monto total de las erogaciones efec
 
 Artículo 41 Q.- El impuesto se determinará aplicando a la base que resulte conforme al artículo anterior o en su caso el artículo 41 O, la tasa del 2%.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-Artículo 41 R.- El impuesto se causará en el momento en que se realicen las erogaciones que son objeto del mismo, y su pago se efectuará mensualmente, mediante declaración definitiva que deberá presentarse en las Receptorías de Rentas de la Secretaría de Finanzas, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 15 del mes siguiente a aquél en que se causó el impuesto, en los formatos aprobados para tal efecto.
+Artículo 41 R.- El impuesto se causará en el momento en que se realicen las erogaciones que son objeto del mismo, y su pago se efectuará mensualmente, mediante declaración definitiva que deberá presentarse en las Receptorías de Rentas de la Secretaría de Finanzas, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 17 del mes siguiente a aquél en que se causó el impuesto, en los formatos aprobados para tal efecto.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 Los contribuyentes deberán presentar declaraciones aun cuando no exista impuesto a pagar, mientras no se presente el aviso de suspensión, disminución o cancelación en el Registro Estatal de Contribuyentes.
 
@@ -515,7 +521,9 @@ Artículo 41 T.- Los retenedores de este impuesto tendrán, además de las oblig
 
 I.- Presentar aviso de alta o aumento de obligaciones por el inicio de retención del impuesto, dentro de los quince días siguientes a la fecha de la primera retención que efectúen, adjuntando copia del contrato celebrado con el prestador del servicio;
 
-II.- Presentar declaraciones mensuales definitivas del impuesto retenido y hacer el entero del mismo, a más tardar el día 15 del mes siguiente a aquél en que se efectúe la retención.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II.- Presentar declaraciones mensuales definitivas del impuesto retenido y hacer el entero del mismo, a más tardar el día 17 del mes siguiente a aquél en que se efectúe la retención.
 
 Las declaraciones a que se refiere el párrafo anterior, se presentarán aun cuando no exista impuesto a pagar, mientras no se presente el aviso de disminución de obligaciones como retenedor; y
 
@@ -1739,7 +1747,9 @@ Por fraccionamiento 15.760
 
 Más por lote 0.180
 
-e).- Cuando por motivo de una solicitud de rectificación o medición de un predio, sea necesario el traslado del personal técnico para la verificación física respectiva, se cubrirá previamente el siguiente derecho:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+e).- Cuando por motivo de una solicitud de rectificación o asignación de coordenadas geodésicas, sea necesario el traslado del personal técnico para la verificación física respectiva, se cubrirá previamente el siguiente derecho:
 
 1.- En la ciudad de las oficinas catastrales 1.800
 
@@ -1747,9 +1757,9 @@ e).- Cuando por motivo de una solicitud de rectificación o medición de un pred
 
 Más, por cada kilometro recorrido 0.090
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-f).- Por asignar coordenadas geodésicas para la orientación de fraccionamientos 10.000
+f).- Por cada asignación o punto de coordenadas geodésicas para la orientación de fraccionamientos 10.000
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -2623,9 +2633,9 @@ No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII 
 
 Por los servicios prestados en la Dirección de Apoyo a Productores:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-I.- Manutención por cada cabeza de ganado recogido en la vía Pública, cada día o fracción que permanezca en los lugares públicos destinados a su encierro 0.500
+I.- Manutención por cada cabeza de ganado recogido en la vía Pública, cada día o fracción que permanezca en los lugares públicos destinados a su encierro 1.000
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -3518,3 +3528,17 @@ P.O. 4 DE ABRIL DE 2006.
 P.O. 6 DE MAYO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 1° de enero de 2007, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+###### ARTÍCULO SEGUNDO.
+
+Los contribuyentes del Impuesto a la Prestación del Servicio de Enseñanza y del Impuesto sobre Ejercicio de Profesiones, no estarán obligados a presentar la declaración del ejercicio fiscal 2006, siendo por lo tanto optativa su presentación.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2007 el monto se ajustará a la decena de pesos inferior más próxima, con excepción de la cuota señalada en el artículo 64, fracción III, en cuyo caso la cuota será de $5.00 (cinco pesos 00/100 M.N.).
