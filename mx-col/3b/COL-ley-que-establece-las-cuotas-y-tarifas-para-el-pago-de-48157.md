@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48157"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2006-04-04"
+last_updated: "2006-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS, PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE MINATITLAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -69,25 +69,23 @@ El pago de los derechos a que se refiere el artículo anterior, se pagarán dura
 
 Por el servicio doméstico de agua potable se pagarán mensualmente las siguientes tarifas:
 
-a) Para uso doméstico, por casa habitación, cabecera
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-municipal 0.853 MS (sic)
+a) Para uso doméstico, por casa habitación, cabecera municipal 0.761 SM
 
-b) Para uso doméstico, por casa habitación y cada
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-negocio anexo 1.399 SM
+b) Para uso doméstico, por casa habitación y cada negocio anexo 1.427 SM
 
-c) Para uso no doméstico vecindades o casa de
+c) Para uso no doméstico vecindades o casa de huéspedes
 
-huéspedes
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-1).- Por cada habitación con servicio
+1).- por cada habitación con servicio colectivo o privado 0.288 SM
 
-colectivo o privado 0.332 SM
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-d) Para uso doméstico, por casa habitación,
-
-comunidades rurales 0.717 SM
+d) Para uso doméstico, por casa habitación, comunidades rurales 0.572 SM
 
 ###### ARTICULO 4°.
 
@@ -95,27 +93,33 @@ Por el servicio comercial de agua potable se pagarán mensualmente las siguiente
 
 I.- CUOTA FIJA:
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 a) Los comercios que a continuación se mencionan
 
 se describen como “Comercial Bajo Consumo” y
 
-pagarán la cuota de 0.888 SM
+pagarán la cuota de 0.809 SM
 
 Abarrotes con ventas de bebidas alcohólicas; agencia de viajes; almacenes de ropa; boutiques; bufetes, Consultorios, despachos y oficinas; carpinterías en pequeño; cerrajerías; venta de dulces; editoriales y/o venta de libros; venta de periódicos y revistas; estacionamientos; estanquillos; farmacias; ferreterías en pequeño; florerías; foto estudios; funerarias; fabricación y/o venta de huaraches; imprentas, Jugueterías; licorerías; material para construcción (ventas); mini súper; misceláneas; panaderías (Industria y expendio); papelerías; pastelerías; peluquerías; pintura y laminado de vehículos; expendio de pintura; refaccionarías, relojerías; reparación de aparatos electrodomésticos; reparación de llantas; sastrerías; servicio de transporte y flete (sin lavado); fábrica y venta de sombreros; tapicerías; taquerías; talleres; venta de telas; templos; tiendas de regalos; tiendas naturistas; tiendas de semillas y cereales; tlapalerías; alquiler de videocasetes; videojuegos; vidrierías; y zapaterías.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 b) Los comercios que a continuación se mencionan
 
 se describen como “Comercial Consumo Medio” y
 
-pagarán la cuota de 1.298 SM
+pagarán la cuota de 1.050 SM
 
 Academias y escuelas; alquiler de loza, muebles y manteles; Agencia de autos; bares; salones de belleza; billares, bodegas de frutas y verduras; Bodega de almacenamiento; Carnicerías, carpinterías en mayor escala, cenadurías, clubes sociales, sin billar ni restaurante; estacionamiento con caseta de cobro; fábrica de dulces; ferreterías con oficinas; fonda y cocina económicas, lavado de muebles, neverías, peleterías, salas de velación, servicios auxiliares de diagnóstico, servicio de taxis, talleres de artesanías o herrería, tenerías o curtidoras, tiendas de autoservicio; y vulcanizadoras y/o vitalizadoras de llantas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 c) Los comercios que a continuación se mencionan se
 
 describen como “Comercial Consumo Alto”” y pagarán
 
-la cuota de 1.859 SM
+la cuota de 1.523 SM
 
 Cantinas, Bares, Restaurantes, Centro botaneros, Lavanderías, Lavado de Carros, Purificador y Embotelladora de Agua, para consumo humano, toma de Agua para Abrevaderos, Rastros, Taller de Servicio de Lavado y Sopleteado, Gasolinera con servicio de Lavado, Molinos de Nixtamal, Tortillerías, Edificios de Espectáculos, Plaza de toros, Salón de Fiestas.
 
@@ -125,13 +129,15 @@ públicas del gobierno federal, estatal o municipal, tendrán
 
 la cuota siguiente: 0.837 SM
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 e) Instituciones de beneficencia pública y/o social,
 
 mismas que comprenden a los hospitales públicos,
 
 asilos, protección civil, bomberos, centros comunitarios
 
-o de recreación: 2.19 SM
+o de recreación: 0.837 SM
 
 ###### ARTICULO 5°.
 
@@ -139,9 +145,17 @@ Servicio Medido.
 
 Usuarios con Tarifa Popular
 
-Poblado Peña Colorada 0.29 por cada metro cúbico.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-Servicio Industrial 1.43 por cada metro cúbico.
+Poblado Peña Colorada 0.29 SM por cada metro cúbico
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Servicio Industrial 1.43 SM por cada metro cúbico
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+a).- “Uso industrial” de la Ley que establece cuotas y tarifas para el pago de derechos por lo (sic) servicios públicos de agua potable, alcantarillado de Minatitlán, Col. El metro cúbico de agua que se utilice en los procesos de explotación, extracción, molienda lixiviación y concentración de minerales, hasta antes del beneficio secundario pagarán el 2.44% de la tarifa respectiva por metro cúbico.
 
 ###### ARTICULO 6°.
 
@@ -181,7 +195,9 @@ a).- Media pulgada 11.606 SM
 
 b).- Tres cuartos de Pulgada 13.057 SM
 
-c).- Una pulga (sic) 25.524 SM
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c).- Una pulgada 25.524 SM
 
 d).- Una y media y media 59.284 SM
 
@@ -236,6 +252,10 @@ e).- Uso industrial 46.426 SM
 II.- Por derecho de entronque colectivo al sistema de drenaje, además de los gastos de entronque, se cobrará por derechos 50 por ciento al costo señalado en el Artículo 10° Fracción II.
 
 III.- En apoyo a los programas de fomento a la vivienda de interés social y popular con base en el Acuerdo de Coordinación Especial para el Fomento y Desregulación de la Vivienda, se otorgará una reducción, de hasta un 50 por ciento del total del derecho de entronque individual en los fraccionamientos y desarrollos habitacionales de este tipo.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+IV.- Los usuarios del servicio de agua potable que estén conectados a la red de infraestructrura municipal adecuada para proporcionar el servicio, pagarán por saneamiento un 15% adicional a la cantidad que deban de cubrir por la prestación del servicio de agua potable.
 
 DESCARGAS AL DRENAJE:
 
@@ -384,6 +404,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 4 DE ABRIL DE 2006.
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de Enero de 2007, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el Ejercicio Fiscal 2007, en ningún caso el incremento será superior al 6% en relación a las cuotas cobradas en el 2006, por lo que se faculta al Titular del organismo operador a realizar los ajustes correspondientes para el cumplimiento de esta disposición.
 
 ###### ARTICULO UNICO.
 
