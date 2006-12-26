@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fiscalizacion-superior-del-estado-de-guerrero-numero-263
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-06"
-last_updated: "2006-04-28"
+last_updated: "2006-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUERRERO NUMERO 564
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 6 de noviembre de 2002.
 
@@ -203,11 +203,11 @@ Los Poderes del Estado, Ayuntamientos, Entes Públicos Estatales y Municipales, 
 
 También son sujetos de fiscalización, aquellas personas físicas o morales que celebren cualquier tipo de actos, civiles o mercantiles o de prestación de bienes o servicios con las Entidades Fiscalizadas señaladas en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 4.
 
-A falta de disposición expresa en esta Ley se aplicarán en forma supletoria y en lo conducente, la Ley de Ingresos del Estado, la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Deuda Pública, los Códigos Fiscales del Estado de Guerrero y Municipal y, la Ley de Responsabilidades de los Servidores Públicos, así como las disposiciones relativas del Derecho común, sustantivo y procesal.
+A falta de disposición expresa en esta Ley se aplicarán en forma supletoria y en lo conducente, la Ley de Ingresos del Estado, la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Deuda Pública, los Códigos Fiscales del Estado de Guerrero y Municipal, el Código de Procedimientos Contenciosos Administrativos del Estado y, la Ley de Responsabilidades de los Servidores Públicos, así como las disposiciones relativas del Derecho común, sustantivo y procesal, sean estas estatales o federales.
 
 ## TITULO SEGUNDO. DE LA AUDITORIA GENERAL DEL ESTADO
 
@@ -251,9 +251,9 @@ VII. Verificar que las operaciones contables, financieras, presupuestarias, econ
 
 VIII. Inspeccionar obras, bienes adquiridos y servicios contratados para comprobar si las inversiones y gastos autorizados a las Entidades Fiscalizadas se han aplicado legal y eficientemente al cumplimiento de las metas de los programas aprobados;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-IX. Fiscalizar los subsidios que las Entidades hayan otorgado con cargo a su presupuesto a entidades particulares, o en general, a cualquier ente público o privado, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
+IX. Fiscalizar los subsidios que las Entidades Fiscalizadas hayan otorgado con cargo a su presupuesto a entidades particulares, o en general, a cualquier ente público o privado, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
 
 X. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, custodia, administración y aplicación de fondos y recursos públicos;
 
@@ -427,11 +427,11 @@ El Auditor General durará en su encargo ocho años y podrá ser nombrado nuevam
 
 Al Auditor General lo suplirá en sus ausencias temporales el Auditor Especial que el mismo designe, siempre y cuando éstas no excedan de quince días hábiles. Si la ausencia por causas justificadas fuere mayor, se dará aviso a la Comisión de Gobierno del Congreso, para que el Auditor Especial continúe en el encargo. Tratándose de ausencia definitiva, se procederá a la selección y nombramiento del Auditor General, con base al procedimiento establecido en el artículo 10 de esta Ley, en el siguiente período ordinario de sesiones.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 14.
 
-Los Auditores Especiales y los Directores de Asuntos Jurídicos y de Administración y Finanzas serán nombrados a propuesta del Auditor General y con la opinión de la Comisión de Vigilancia, atendiendo lo dispuesto (sic) los artículos 5 segundo párrafo y 24 de la presente Ley. Para ejercer el cargo de Auditor Especial se deberán cubrir los mismos requisitos exigidos para ser Auditor General. Los Directores de Asuntos Jurídicos y de Administración y Finanzas, deberán reunir los requisitos que al efecto establezca el Reglamento Interior de la Auditoria General del Estado.
+Los Auditores Especiales y los Directores de Asuntos Jurídicos y de Administración y Finanzas serán nombrados a propuesta del Auditor General y con la opinión de la Comisión de Vigilancia, atendiendo lo dispuesto por los artículos 5 segundo párrafo y por el artículo 24 fracción VII de la presente Ley. Para ejercer el cargo de Auditor Especial se deberán cubrir los mismos requisitos exigidos para ser Auditor General. Los Directores de Asuntos Jurídicos y de Administración y Finanzas, deberán reunir los requisitos que al efecto establezca el Reglamento Interior de la Auditoría General del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -497,7 +497,9 @@ I. Representar legalmente a la Auditoría General del Estado ante las Entidades 
 
 II. Fungir como representante legal de la Auditoría General del Estado en las controversias donde ésta sea parte, con facultades generales y especiales, pudiendo delegar dichas facultades, de acuerdo con lo establecido en las leyes aplicables;
 
-III. Expedir certificaciones de los documentos que obren en los archivos de la Auditoría General del Estado a quienes acrediten su interés jurídico. Pudiendo delegar esta facultad al Director General de Asuntos Jurídicos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III. Expedir certificaciones de los documentos que obren en los archivos de la Auditoría General del Estado a quienes acrediten su interés jurídico pudiendo delegar esta facultad al Director de Asuntos Jurídicos;
 
 IV. Presentar el proyecto de presupuesto anual de la Auditoría General del Estado;
 
@@ -525,7 +527,9 @@ XIII. Nombrar y remover, contando con la opinión de la Comisión de Vigilancia,
 
 XIV. Nombrar y remover al resto del personal técnico, administrativo y de apoyo de la Auditoría General del Estado;
 
-XV. Promover la capacitación al personal directivo, operativo, de base y de confianza, así como al personal que designen los Sujetos de Fiscalización Superior con el propósito de impulsar una participación adecuada a los fines de la fiscalización; asimismo, procurar el desarrollo de los recursos humanos por medio de acciones específicas, diplomados, talleres y otras actividades análogas;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XV. Promover la capacitación al personal directivo, operativo, de base y de confianza, así como al personal que designen las Entidades Fiscalizadas con el propósito de impulsar una participación adecuada a los fines de la fiscalización; asimismo, procurar el desarrollo de los recursos humanos por medio de acciones específicas, diplomados, talleres y otras actividades análogas;
 
 XVI. Participar en foros, asambleas, congresos, cursos, talleres y demás reuniones que sean acordes con sus atribuciones;
 
@@ -541,9 +545,9 @@ XIX. Solicitar a los Sujetos de Fiscalización Superior y a las Entidades Fiscal
 
 XX. Ordenar la práctica de auditorías, así como la realización de visitas e inspecciones necesarias para la fiscalización de los Informes Financieros cuatrimestrales y de la cuenta pública;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-XXI. Formular y entregar a la Comisión de Presupuesto los Informes Anuales del Resultado de la fiscalización de las Cuentas Públicas, dentro de los ciento veinte días naturales posteriores a la fecha en que le fueron turnadas;
+XXI. Formular y entregar a la Comisión de Presupuesto los Informes Anuales del Resultado de la fiscalización de las Cuentas Públicas, dentro de los ciento veinte días hábiles posteriores a la fecha en que le fueron turnadas;
 
 XXII. Formular informes y pliegos de observaciones sobre los daños y perjuicios que afecten a las haciendas públicas estatal y municipales o al patrimonio de los Entes Públicos;
 
@@ -615,9 +619,11 @@ XI. Promover, mediante dictamen técnico, previo acuerdo del Auditor General, an
 
 XII. Las demás que señalen esta Ley, el Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 21.
 
-El Director General de Asuntos Jurídicos tendrá las facultades siguientes:
+El Director de Administración y Finanzas tendrá las siguientes facultades:
 
 I. Actuar como órgano de consulta y asesoría jurídica de la Auditoría General del Estado;
 
@@ -635,9 +641,11 @@ VI. Expedir los lineamientos de carácter jurídico para la elaboración de conv
 
 VII. Las demás que señalen esta Ley, el Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 22.
 
-El Director General de Administración y Finanzas tendrá las facultades siguientes:
+El Director de Administración y Finanzas tendrá las siguientes facultades:
 
 I. Administrar los recursos financieros, humanos y materiales de conformidad con las disposiciones legales, reglamentarias y las políticas que emita en esta materia el Auditor General;
 
@@ -659,7 +667,9 @@ VI. Administrar, con la autorización del Auditor General, los recursos económi
 
 VII. Las demás que le señale el Auditor General, las disposiciones legales y administrativas respectivas.
 
-El Director General de Administración y Finanzas antes de asumir el cargo, depositará una fianza para garantizar los recursos que se le confíen.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+El Director de Administración y Finanzas antes de asumir el cargo, depositará una fianza para garantizar los recursos que se le confíen.
 
 ## TITULO TERCERO. DE LA COORDINACION, VIGILANCIA Y EVALUACION
 
@@ -769,11 +779,11 @@ Las Cuentas Públicas deberán reportar la información presupuestaria y financi
 
 Para los efectos de lo señalado en el presente artículo, la Auditoría General del Estado remitirá a las Entidades Fiscalizadas, a más tardar el último día del mes de noviembre de cada año, los formatos, criterios y lineamientos correspondientes.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 28.
 
-Los Ayuntamientos deberán remitir a la Auditoría General del Estado toda la documentación comprobatoria de sus Cuentas Públicas, para los efectos de su revisión, la cual una vez que la Auditoría General emita su Informe Anual de Resultados, deberá devolverse al Ayuntamiento dejándolo en calidad de depositario de la misma, quien tendrá la obligación en todo tiempo de proporcionar información parcial o total cuantas veces sea requerido por el Órgano Superior de Fiscalización para el cumplimiento de sus fines. En relación con las demás Entidades Fiscalizadas señaladas en el artículo 2 fracción X de esta Ley, conservarán en custodia y a disposición de la Auditoría General del Estado su documentación comprobatoria.
+Los Ayuntamientos deberán remitir a la Auditoría General del Estado toda la documentación comprobatoria de sus Cuentas Públicas, para los efectos de su revisión y fiscalización. En relación con las demás Entidades Fiscalizadas señaladas en el artículo 2 fracción X de esta Ley, conservarán en custodia y a disposición de la Auditoría General del Estado su documentación comprobatoria.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -783,23 +793,23 @@ Forman parte de las Cuentas Públicas, los Informes Financieros cuatrimestrales 
 
 Cuando la Cuenta Pública se entregue sin apego a las normas establecidas en esta Ley o a los formatos y lineamientos establecidos por la Auditoría General del Estado, ésta será rechazada, imponiendo, en su caso, la sanción que corresponda.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 30.
 
-Las Entidades Fiscalizadas que al efecto señala el artículo 2 fracción X, así como cualquier otro órgano de carácter autónomo, deberán entregar al Congreso un Informe Financiero cuatrimestral del ejercicio de sus recursos presupuestarios a más tardar en la segunda quincena del siguiente mes al que concluya el cuatrimestre respectivo. Los cuatrimestres comprenderán los períodos siguientes:
+Las Entidades Fiscalizadas que al efecto señala el artículo 2 fracción X, así como cualquier otro órgano de carácter autónomo, deberán entregar al Congreso del Estado, a través de la Auditoría General del Estado, un Informe Financiero cuatrimestral del ejercicio de sus recursos presupuestarios a más tardar en la segunda quincena del siguiente mes al que concluya el cuatrimestre respectivo. Los cuatrimestres comprenderán los períodos siguientes:
 
-Primer Cuatrimestre: Enero-Abril.
+Primer Cuatrimestre: Enero-Abril
 
-Segundo Cuatrimestre: Mayo-Agosto.
+Segundo Cuatrimestre: Mayo-Agosto
 
-Tercer Cuatrimestre: Septiembre-Diciembre.
+Tercer Cuatrimestre: Septiembre-Diciembre
 
-La presentación de las Cuentas Anuales de la Hacienda Pública Estatal y Municipales, contendrán el Informe Financiero del tercer cuatrimestre del ejercicio fiscal que corresponda, consolidando el resultado de las operaciones de los ingresos y gastos que se hayan realizado, debiéndose presentar al Congreso del Estado a más tardar el último día del mes de enero del año siguiente al ejercicio fiscal que se informe.
+La presentación de las Cuentas Anuales de la Hacienda Pública Estatal y Municipales, contendrán el Informe Financiero del tercer cuatrimestre del ejercicio fiscal que corresponda, consolidando el resultado de las operaciones de los ingresos y gastos que se hayan realizado, debiéndose presentar al Congreso del Estado, a través de la Auditoría General del Estado, a más tardar el último día del mes de enero del año siguiente al ejercicio fiscal que se informe.
 
-Los Informes Financieros concernientes al inicio y terminación del Poder Ejecutivo Estatal, comprenderán los períodos abril a agosto y enero a marzo, respectivamente; siendo los períodos de entrega al Congreso del Estado a más tardar el treinta de septiembre y el treinta y uno de marzo en forma correspondiente.
+Los Informes Financieros concernientes al inicio y terminación del Poder Ejecutivo Estatal, comprenderán los períodos de abril a agosto y enero a marzo, respectivamente; siendo los períodos de entrega al Congreso del Estado, a través de la Auditoría General del Estado, a más tardar el treinta de septiembre y el treinta y uno de marzo en forma correspondiente.
 
-Los Informes Financieros concernientes al inicio y terminación de la Administración Municipal, comprenderán los periodos de uno de enero al treinta de abril y del uno de septiembre al treinta y uno de diciembre, respectivamente; siendo los períodos de entrega a la Auditoria General del Estado a más tardar las segundas quincenas de los meses de mayo y diciembre en forma correspondiente.
+Los Informes Financieros concernientes al inicio y terminación de la Administración Municipal, comprenderán los periodos de uno de enero al treinta de abril y del uno de septiembre al treinta y uno de diciembre, respectivamente; siendo los períodos de entrega al Congreso del Estado, a través de la Auditoria General del Estado, a más tardar las segundas quincenas de los meses de mayo y diciembre en forma correspondiente.
 
 ###### ARTICULO 31.
 
@@ -877,11 +887,15 @@ VII. Las responsabilidades a que haya lugar, en su caso.
 
 Las observaciones que realice la Auditoría General del Estado deberán notificarse a las Entidades Fiscalizadas, a la conclusión de la revisión de que se trate, con el propósito de que sus aclaraciones se integren al Informe de Resultados de la revisión de la Cuenta Pública correspondiente.
 
-La Auditoria General del Estado, podrá emitir pliegos de observaciones derivados de la fiscalización de los Informes Financieros cuatrimestrales y de las cuentas públicas, sin perjuicio de lo que señala el artículo 66 de esta Ley, mismos que serán aclarados o solventados dentro del término de quince días hábiles contados a partir del día siguiente de su notificación.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+La Auditoría General del Estado, podrá emitir pliegos de observaciones preventivas derivadas de la fiscalización de los Informes Financieros cuatrimestrales, sin perjuicio de lo que señala el artículo 66 de esta Ley, mismos que serán aclarados o solventados dentro del término de quince días hábiles contados a partir del día siguiente de su notificación.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 40.
 
-La Auditoría General del Estado en ejercicio de sus facultades de fiscalización podrá realizar visitas y auditorías durante el ejercicio fiscal en curso, sin menoscabo de la fiscalización que en su oportunidad realice sobre la Cuenta Pública.
+La Auditoría General del Estado en ejercicio de sus facultades de fiscalización podrá realizar visitas, inspecciones, revisiones y auditorías durante el ejercicio fiscal en curso, sin menoscabo de la fiscalización que en su oportunidad realice sobre la Cuenta Pública.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -891,9 +905,9 @@ La fiscalización de los Informes Financieros cuatrimestrales y de las Cuentas P
 
 Sin perjuicio del principio de anualidad a que se refiere el párrafo anterior, la Auditoría General del Estado podrá revisar de manera casuística y concreta información y documentos relacionados con conceptos específicos de gasto, correspondientes a ejercicios anteriores al de la Cuenta Pública en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado abarque, para su ejecución y pago, diversos ejercicios fiscales, sin que con este motivo se entienda abierta nuevamente la Cuenta Pública del ejercicio correspondiente a la revisión específica señalada, salvo que exista la presunción fundada de ilícitos perseguibles de oficio o que hayan prescrito.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 41 BIS.- Para la Auditoria General del Estado, el acta final es el documento que servirá de complemento para la iniciación del procedimiento resarcitorio a través del dictamen técnico correspondiente.
+ARTICULO 41 BIS.- Para la Auditoría General del Estado, el acta final de Auditorías, visitas, inspecciones y revisiones es el documento que servirá de complemento para la iniciación del procedimiento resarcitorio a través del dictamen técnico correspondiente.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -919,11 +933,11 @@ Las personas a que se refiere el párrafo anterior tendrán el carácter de dele
 
 Durante sus actuaciones los auditores que hubieren intervenido en las revisiones deberán levantar actas circunstanciadas en presencia de dos testigos, en las que harán constar hechos u omisiones que hubieren encontrado. Las actas, declaraciones, manifestaciones o hechos en ellas contenidos harán prueba en los términos de ley.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 47.
 
-Los Servidores Públicos de la Auditoría General del Estado y, en su caso, los despachos contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que por disposición legal tengan ese carácter, hasta en tanto no se derive de su revisión el fincamiento de responsabilidades o el señalamiento de las observaciones que correspondan en el Informe de Resultados.
+Los Servidores Públicos de la Auditoría General del Estado y, en su caso, los despachos contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que por disposición legal tengan ese carácter.
 
 ###### ARTICULO 48.
 
@@ -931,13 +945,11 @@ Los Servidores Públicos de la Auditoría General del Estado, cualquiera que sea
 
 ### CAPITULO III. DEL INFORME DEL RESULTADO DE LA REVISION Y FISCALIZACION SUPERIOR DE LAS CUENTAS PUBLICAS
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 49.
 
-La Auditoría General del Estado tendrá un plazo no mayor a ciento veinte días naturales posteriores a la fecha en que fueron presentadas las Cuentas Públicas del Estado y Ayuntamientos para realizar su examen y rendir al Congreso por conducto de la Comisión de Presupuesto, el Informe Anual de Resultados de que se trate, mismo que tendrá carácter público.
-
-En los casos en que las Entidades Fiscalizadas no entreguen la Cuenta Pública en los términos establecidos por esta Ley, el Auditor General del Estado informará a la Comisión de Presupuesto, para que determine lo conducente, con independencia de los procedimientos que se instruyan por la Auditoria General del Estado.
+La Auditoría General del Estado tendrá un plazo no mayor a ciento veinte días hábiles posteriores a la fecha en que fueron presentadas las Cuentas Públicas del Estado y Ayuntamientos para realizar su examen y rendir al Congreso por conducto de la Comisión de Presupuesto, el Informe Anual de Resultados de que se trate.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -1323,13 +1335,13 @@ La Auditoría General del Estado podrá promover las responsabilidades civil, pe
 
 ### CAPITULO I. DEL RECURSO DE RECONSIDERACION
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 77.
 
-Los actos y demás resoluciones que emita la Auditoría General del Estado conforme a esta Ley, podrán ser impugnados por el servidor público o por particulares, personas físicas o morales ante la propia Auditoría General del Estado mediante el recurso de reconsideración. El recurso de reconsideración se interpondrá dentro de los diez días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
+Los actos y demás resoluciones que emita la Auditoría General del Estado conforme a esta Ley, podrán ser impugnados por el servidor público o por particulares, personas físicas o morales ante la propia Auditoría General del Estado mediante el recurso de reconsideración con excepción de los actos derivados del procedimiento para el fincamiento de responsabilidad resarcitoria. El recurso de reconsideración se interpondrá dentro de los diez días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
 
-En las cuestiones relativas a la substanciación y resolución del Juicio de Nulidad, se observarán las disposiciones del Código de Procedimientos Contenciosos Administrativos del Estado. Tratándose de denominación, instancia, discusión y votación, se observarán, en lo aplicable, las reglas parlamentarias.
+En las cuestiones relativas a la substanciación y resolución del Juicio de Nulidad, se observarán las disposiciones del Código de Procedimientos Contenciosos Administrativos del Estado.
 
 ###### ARTICULO 78.
 
@@ -1511,7 +1523,7 @@ TERCERO.- La revisión, análisis y dictamen de la Cuenta Pública Estatal de lo
 
 Por lo que respecta a la revisión de las Cuentas Públicas Municipales del año dos mil dos, se realizará de acuerdo a las disposiciones vigentes anteriores a esta Ley.
 
-CUARTO.- La Auditoría General del Estado iniciará sus funciones el día primero de enero del año dos mil tres y su titular será quien el Congreso designe conforme al procedimiento establecido en esta Ley.
+CUARTO.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 QUINTO.- La Comisión de Vigilancia y Evaluación, se conformará por los Diputados que integraron el Comité de Vigilancia de la Contaduría Mayor de Hacienda y ejercerá sus funciones hasta el término del Ejercicio Constitucional de la LVI Legislatura.
 
@@ -1561,10 +1573,20 @@ Artículo Segundo.- En su oportunidad comuníquese el presente Decreto al Gobern
 
 Artículo Tercero.- Los procedimientos administrativos que se encuentren en trámite a la entrada en vigor del presente Decreto, se desahogarán conforme al procedimiento vigente en su inicio. Los procedimientos administrativos que no se hayan radicado a la entrada en vigor de las presentes reformas y adiciones, se desahogarán conforme a lo estipulado en el presente Decreto.
 
-Artículo Cuarto.- La documentación comprobatoria de las Cuentas Públicas que a la fecha tenga en su poder la Auditoria General del Estado, por transmisión que le realizó la extinta Contaduría Mayor de Hacienda, deberán devolverse a los Ayuntamientos en un plazo máximo de noventa días contados a partir de la entrada en vigor del presente Decreto, dejándolos en calidad de depositarios de la misma, los cuales tendrán la obligación en todo tiempo de mantenerla a disposición de la Auditoria General del Estado.
+Artículo Cuarto.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 Artículo Quinto.- A partir de las auditorias practicadas a las Cuentas Públicas del ejercicio fiscal 2006, los Informes de Resultados de la fiscalización de las Cuentas Públicas, de ser el caso, se remitirán a la Comisión de Presupuesto, en forma anual, conforme a lo previsto en la presente reforma.
 
 Artículo Sexto.- Las Cuentas Públicas concernientes a la terminación e inicio de las Administraciones Municipales 2002-2005, comprenderán los períodos septiembre a noviembre y del primero al treinta y uno de diciembre del 2005; siendo los períodos de entrega a la Auditoria General del Estado las segundas quincenas de los meses de noviembre y diciembre del 2005, respectivamente.
 
 Artículo Séptimo.- El Congreso del Estado a propuesta de la Auditoria General del Estado, expedirá el Reglamento de la presente Ley, en un plazo no mayor de noventa días contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+Túrnese al Titular del Ejecutivo del Estado para los efectos legales conducentes.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
