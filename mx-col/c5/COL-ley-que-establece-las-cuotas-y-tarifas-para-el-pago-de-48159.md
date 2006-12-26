@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48159"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2006-04-04"
+last_updated: "2006-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMAN, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -67,91 +67,103 @@ Por el servicio doméstico se pagarán los derechos de conformidad con las sigui
 
 I) CUOTA FIJA:
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 Comprende:
 
 1.1. Popular uno.
 
-Casas de materiales económicos, no duraderos 1.181 SM
+Casas de materiales económicos,
+
+no duraderos. 1.205 SM
 
 1.2. Popular dos
 
-Casas de Ladrillo con teja de barro, cemento o asbesto 1.690 SM
+Casas de Ladrillo con teja de barro,
+
+cemento o asbesto. 1.724 SM
 
 1.3. Popular tres
 
-Pie de casa, con habitación de vaciado y
+Pie de casa, con habitación de vaciado
 
-acabados económicos 1.806 SM
+y acabados económicos. 1.842 SM
 
 1.4. Popular cuatro
 
-Casa habitación, de vaciado, bóveda y concreto
+Casa habitación, de vaciado, bóveda y
 
-con acabado económico 2.200 SM
+concreto con acabado económico. 2.244 SM
 
 1.5. Popular cinco
 
-Casa habitación con bóveda y vaciado de concreto,
+Casa habitación con bóveda y vaciado de
 
-de dos plantas, de interés social,
+concreto, de dos plantas, de interés social,
 
-acabados económicos 2.431 SM
+acabados económicos. 2.480 SM
 
 1.6. Popular seis
 
-Casa habitación con bóveda y vaciado de concreto,
+Casa habitación con bóveda y vaciado de
 
-de dos plantas, con acabados de primera 2.987 SM
+concreto, de dos plantas, con acabados de
 
-1.7. Servicio Mixto popular
+primera. 3.047 SM
 
-Comprende casas habitación de popular uno a
+1.7. Servicio Mixto popular:
 
-popular cuatro con tendajón 2.223 SM
+Comprende casas habitación de popular
+
+uno a popular cuatro con tendajón. 2.267 SM
 
 1.8. Residencial.
 
-Comprende: Todas aquellas casas habitación que por su tipo de construcción se consideren como residenciales, teniendo un frente mínimo de terreno de 10 metros y una superficie mínima de 300 metros cuadrados; así mismo encuadran en esta categoría las casas habitación de más de dos pisos y casas habitación de vaciado, bóveda y concreto con acabados de primera calidad 4.446 SM
+Comprende: Todas aquellas casas habitación que por su tipo de construcción se consideren como residenciales, teniendo un frente mínimo de terreno de 10 metros y una superficie mínima de 300 metros cuadrados; así mismo encuadran en esta categoría las casas habitación de más de dos pisos y casas habitación de vaciado, bóveda y concreto con acabados de primera calidad. 4.535 SM
 
 1.9. Instituciones de Beneficencia Pública y Social:
 
-a) Consumo Bajo 1.297 SM
+a) Consumo Bajo. 1.323 SM
 
-b) Consumo Alto 2.617 SM
+b) Consumo Alto. 2.669 SM
 
 1.10. En playa
 
-a).- Enramadas 2.339 SM
+a).- Enramadas. 2.386 SM
 
-b).- Construcción pequeña 2.617 SM
+b).- Construcción pequeña. 2.669 SM
 
-c).- Construcción grande 3.751 SM
+c).- Construcción grande. 3.826 SM
 
 II) SERVICIO MEDIDO:
 
-DOMESTICO.- Comprende las señaladas en la fracción anterior y pagarán las cuotas que resulten de conformidad con la siguiente:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+DOMÉSTICO.- Comprende las señaladas en la fracción anterior y pagarán las cuotas que resulten de conformidad con la siguiente:
 
 TARIFA BIMESTRAL
 
-RANGOS DE CONSUMO POR METROS CUBICOS AGUA POTABLE
+RANGOS DE CONSUMO AGUA POTABLE
+
+POR METROS CUBICOS
 
 DE HASTA
 
-00.00 a 10.00 0.521 SM
+00.00 a 10.00 0.531 SM
 
-10.01 a 20.00 0.054 SM
+10.01 a 20.00 0 0.055 SM
 
-20.01 a 30.00 0.060 SM
+20.01 a 30.00 0.061 SM
 
-30.01 a 45.00 0.075 SM
+30.01 a 45.00 0.077 SM
 
-45.01 a 60.00 0.078 SM
+45.01 a 60.00 0.080 SM
 
-60.01 a 90.00 0.112 SM
+60.01 a 90.00 0.114 SM
 
-90.01 a 110.00 0.144 SM
+90.01 a 110.00 0.147 SM
 
-110.01 en adelante 0.179 SM
+110.01 en adelante 0.183 SM
 
 ###### ARTICULO 4.
 
@@ -169,197 +181,217 @@ Por el servicio comercial se pagarán las siguientes cuotas y tarifas:
 
 I) CUOTA FIJA
 
-A) COMERCIAL CONSUMO BAJO: Los comercios que a continuación se mencionan se clasifican como Comercial consumo bajo y pagarán una cuota de 2.223 SM
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-El servicio comercial consumo bajo comprende: Abarrotes, agencias de viaje, almacenes de ropa, salones de belleza, boutiques, bufetes, consultorios, despachos y oficinas, carpinterías en pequeño (operadas únicamente por la familia), cerrajerías, depósitos de cerveza, dulces, estacionamientos, estanquillos, farmacias, ferreterías, florerías, estudios de fotografía, funerarias, huaracherías, imprentas, jugueterías, licorerías, loncherías, materiales para construcción, misceláneas, mini súper, mueblerías, panaderías, papelerías, peluquerías, pintura y laminado de vehículos, refaccionarías, reparación de aparatos electrodomésticos, reparación de llantas, relojerías, sastrerías, servicio de transporte y fletes (sin lavado), talleres mecánicos, eléctricos y tornos, tapicerías, taquerías, telas, templos, tlapalerías, venta de libros, periódicos y revistas, videocasetes, alquiler de videojuegos, vidrierías, y zapaterías.
+A) COMERCIAL CONSUMO BAJO: Los comercios que a continuación se mencionan se clasifican como Comercial consumo bajo y pagarán una cuota de. 2.267 SM
 
-B) COMERCIAL CONSUMO MEDIO: Los comercios que a continuación se mencionan se clasifican como Comercial consumo medio y pagarán una cuota de 3.798 SM
+El servicio comercial consumo bajo comprende: Abarrotes, agencias de viaje, almacenes de ropa, salones de belleza, boutiques, bufetes, consultorios, despachos y oficinas, carpinterías en pequeño (operadas únicamente por la familia), cerrajerías, depósitos de cerveza, dulces, estacionamientos, estanquillos, farmacias, ferreterías, florerías, estudios de fotografía, funerarias, guarachearías (sic), imprentas, jugueterías, licorerías, loncherías, cenadurías, materiales para construcción, misceláneas, mini súper, mueblerías, panaderías, papelerías, peluquerías, pintura y laminado de vehículos, refaccionarías, reparación de aparatos electrodomésticos, reparación de llantas, relojerías, sastrerías, servicio de transporte y fletes (sin lavado), talleres mecánicos, eléctricos y tornos, tapicerías, taquerías, telas, templos, tlapalerías, venta de libros, periódicos y revistas, videocasetes, alquiler de videojuegos, vidrierías, zapaterías, renta ( ciber café ) y venta de equipos de computo, joyerías.
 
-El servicio comercial consumo medio comprende: Academias y escuelas particulares (por cada aula), alquileres de loza, muebles y manteles, billares, bodegas de fruta y verdura, bodegas de almacenamiento, carnicerías, carpinterías que cuenten con trabajadores bajo relación laboral, cenadurías, clubes sociales (sin alberca, no restaurante), fábrica de dulces, fondas y cocinas económicas, obradores, paleterías y reverías, salas de velación y tiendas de autoservicio.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+B) COMERCIAL CONSUMO MEDIO: Los comercios que a continuación se mencionan se clasifican como Comercial consumo medio y pagarán una cuota de. 3.874 SM
+
+El servicio comercial consumo medio comprende: Academias y escuelas particulares (por cada aula), alquileres de loza, muebles y manteles, billares, bodegas de fruta y verdura, bodegas de almacenamiento, carnicerías, carpinterías que cuenten con trabajadores bajo relación laboral, cenadurías, clubes sociales (sin alberca, no restaurante), fábrica de dulces, fondas y cocinas económicas, obradores, paleterías y reverías (sic), salas de velación, pescaderías, tiendas de autoservicio, instituciones bancaria (sic) y demás actividades financieras.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 C) COMERCIAL CONSUMO ALTO: Los comercios cuyos giros a continuación se mencionan se clasifican como “comercial consumo alto” y pagarán los derechos conforme a las siguientes cuotas:
 
 c.1. Casas de Huéspedes
 
-c.1.1. Por cada habitación con baño privado 1.204 SM
+c.1.1. Por cada habitación con baño privado 1.228 SM
 
-c.1.2. Por cada habitación con baño común 1.065 SM
+c.1.2. Por cada habitación con baño común 1.086 SM
 
 c.2. Centros Botaneros
 
-c.2.1. Consumo bajo 20.354 SM
+c.2.1. Consumo bajo 20.761 SM
 
-c.2.2. Consumo medio 24.568 SM
+c.2.2. Consumo medio 25.059 SM
 
 c.3. Edificios de Espectáculos:
 
-c.3.1. Cines 4.608 SM
+c.3.1. Cines 4.700 SM
 
-c.3.2. Plazas de toros 9.239 SM
+c.3.2. Plazas de toros 9.424 SM
 
-c.3.3. Bares y Discotecas 9.239 SM
+c.3.3. Bares y Discotecas 9.424 SM
 
-c.3.4. Otros (por cada sanitario) 2.269 SM
+c.3.4. Otros (por cada sanitario) 2. 314 SM
 
-c.3.5. Salón de fiestas 4.608 SM
+c.3.5. Salón de fiestas 4.700 SM
 
-c.3.6. Salón de fiestas con áreas verdes 9.610 SM
+c.3.6. Salón de fiestas con áreas verdes 9.802 SM
 
 c.4 Viveros de plantas:
 
-c.4.1. De 0.01 m2 hasta 100.00 m2 2.617 SM
+c.4.1. De 0.01 m2 hasta 100.00 m2 2.669 SM
 
-c.4.2. De 100.01 m2 hasta 300.00 m2 3.913 SM
+c.4.2. De 100.01 m2 hasta 300.00 m2 3.991 SM
 
-c.4.3. De 300.01 hasta 500.00 m2 7.827 SM
+c.4.3. De 300.01 hasta 500.00 m2 7.984 SM
 
-c.4.4. Mayores de 500.00 m2 hasta 1,500 m2 15.676 SM
+c.4.4. Mayores de 500.00 m2 hasta 1,500 m2 15.990 SM
 
-c.5. Aserraderos 8.243 SM
+c.5. Aserraderos 8.408 SM
 
 c.6. Hoteles y Moteles. (Se cubrirá el 50 % del total de las habitaciones, pero tratándose de moteles de paso el pago será del 70% del total de sus habitaciones)
 
-c.6.1. Por cada habitación con baño privado 2.385 SM
+c.6.1. Por cada habitación con baño privado 2.433 SM
 
-c.6.2. Por cada habitación con baño común 2.316 SM
+c.6.2. Por cada habitación con baño común 2.362 SM
 
-c.6.3. Servicio de restaurante adicional 1.783 SM
+c.6.3. Servicio de restaurante adicional 1.819 SM
 
 c.7. En Playas:
 
-c.7.1. Fondas 3.149 SM
+c.7.1. Fondas 3.212 SM
 
-c.7.2. Restaurante de bajo consumo 7.688 SM
+c.7.2. Restaurante de bajo consumo 7.842 SM
 
-c.7.3. Restaurante de consumo medio 15.676 SM
+c.7.3. Restaurante de consumo medio 15.990 SM
 
-c.7.4. Restaurante de alto consumo 24.383 SM
+c.7.4. Restaurante de alto consumo 24.871 SM
 
 c.8. Clínicas, Hospitales, Sanatorios:
 
-c.8.1. Por cada habitación con baño privado 2.385 SM
+c.8.1. Por cada habitación con baño privado 2.433 SM
 
-c.8.2. Por cada habitación con baño común 2.316 SM
+c.8.2. Por cada habitación con baño común 2.362 SM
 
-c.8.3. Servicio de cafetería adicional 1.783 SM
+c.8.3. Servicio de cafetería adicional 1.819 SM
 
 c.9. Vecindades, Internados, Conventos y Similares:
 
-c.9.1. Por cada habitación con baño privado 1.088 SM
+c.9.1. Por cada habitación con baño privado 1.110 SM
 
-c.9.2. Por cada habitación con baño común 0.903 SM
+c.9.2. Por cada habitación con baño común 0.921 SM
 
 c.10. Restaurantes
 
-c. 10.1. Consumo bajo 4.376 SM
+c. 10.1. Consumo bajo 4.464 SM
 
-c. 10.2. Consumo medio 8.151 SM
+c. 10.2. Consumo medio 8.314 SM
 
 c.11. Lavado De Carros
 
-c.11.1. Consumo bajo 11.856 SM
+c.11.1. Consumo bajo 12.093 SM
 
-c.11.2. Consumo medio 16.834 SM
+c.11.2. Consumo medio 17.171 SM
 
 c.12. Gasolineras
 
-c.12.1. Sin servicio de lavado 10.953 SM
+c.12.1. Sin servicio de lavado 11.172 SM
 
-c.12.2. Con servicio de lavado 12.296 SM
+c.12.2. Con servicio de lavado 12.542 SM
 
-c.12.3. Servicio de restaurante adicional 2.223 SM
+c.12.3. Servicio de restaurante adicional 2.267 SM
 
-c.13. Lavanderías Automáticas, (Hasta Tres Máquinas) 5.020 SM
+c.13. Lavanderías Automáticas, (Hasta
 
-c.13.1. Por cada máquina excedente de tres 1.042 SM
+Tres Máquinas). 5.120 SM
 
-c.14. Molinos De Nixtamal 4.793 SM
+c.13.1. Por cada máquina excedente de tres 1.063 SM
+
+c.14. Molinos De Nixtamal 4.889 SM
 
 c.15. Tortillerías:
 
-c.15.1. Sin molino 3.659 SM
+c.15.1. Sin molino 3.732 SM
 
-c.15.2. Con molino 8.197 SM
+c.15.2. Con molino 8.361 SM
 
 c.16. Tintorerías:
 
-c.16.1. Chica 5.835 SM
+c.16.1. Chica 5.952 SM
 
-c.16.2. Mediana 7.363 SM
+c.16.2. Mediana 7.510 SM
 
 II) SERVICIO MEDIDO.
 
-A) COMERCIAL CONSUMO BAJO.- Comprende todos los giros comerciales señalados en la fracción I, inciso A) de este artículo y pagarán las cuotas que resulten de conformidad con la siguiente
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+A) COMERCIAL CONSUMO BAJO.- Comprende todos los giros comerciales señalados en la fracción I, inciso A) de este artículo y pagarán las cuotas que resulten de conformidad con la siguiente:
 
 TARIFA BIMESTRAL
 
-RANGOS DE CONSUMO POR METROS CUBICOS AGUA POTABLE
+RANGOS DE CONSUMO AGUA POTABLE
+
+POR METROS CUBICOS
 
 DE HASTA
 
-0 a 10 0.652 SM
+0 a 10 0.665 SM
 
-10.01 a 20.00 0.105 SM
+10.01 a 20.00 0.107 SM
 
-20.01 a 30.00 0.112 SM
+20.01 a 30.00 0.114 SM
 
-30.01 a 45.00 0.119 SM
+30.01 a 45.00 0.121 SM
 
-45.01 a 60.00 0.126 SM
+45.01 a 60.00 0.129 SM
 
-60.01 a 90.00 0.149 SM
+60.01 a 90.00 0.152 SM
 
-90.01 a 110.00 0.179 SM
+90.01 a 110.00 0.183 SM
 
-110.01 en adelante 0.225 SM
+110.01 en adelante 0.230 SM
 
-B) COMERCIAL CONSUMO MEDIO.- Comprende todos los giros comerciales señalados en la fracción I, inciso B) de este artículo y pagarán las cuotas que resulten de conformidad con la siguiente:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+B) COMERCIAL CONSUMO MEDIO.- Comprende los giros comerciales señalados en la fracción I, inciso B) de este artículo y pagarán las cuotas que resulten de conformidad con la siguiente:
 
 TARIFA BIMESTRAL
 
-RANGOS DE CONSUMO POR METROS CUBICOS AGUA POTABLE
+RANGOS DE CONSUMO AGUA POTABLE
+
+POR METROS CUBICOS
 
 DE HASTA
 
-0 a 10 0.704 SM
+0 a 10 0.718 SM
 
-10.01 a 20.00 0.113 SM
+10.01 a 20.00 0.115 SM
 
-20.01 a 30.00 0.121 SM
+20.01 a 30.00 0.123 SM
 
-30.01 a 45.00 0.129 SM
+30.01 a 45.00 0.132 SM
 
-45.01 a 60.00 0.137 SM
+45.01 a 60.00 0.140 SM
 
-60.01 a 90.00 0.161 SM
+60.01 a 90.00 0.164 SM
 
-90.01 a 110.00 0.193 SM
+90.01 a 110.00 0.197 SM
 
-110.01 en adelante 0.243 SM
+110.01 en adelante 0.248 SM
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 C) COMERCIAL CONSUMO ALTO: Comprende todos los giros comerciales señalados en la fracción I, inciso C) de este artículo y pagarán las cuotas que resulten de conformidad con la siguiente:
 
 TARIFA BIMESTRAL
 
-RANGOS DE CONSUMO POR METROS CUBICOS AGUA POTABLE
+RANGOS DE CONSUMO AGUA POTABLE
+
+POR METROS CUBICOS
 
 DE HASTA
 
-0 a 10 0.760 SM
+0 a 10 0.775 SM
 
-10.01 a 20.00 0.122 SM
+10.01 a 20.00 0.124 SM
 
-20.01 a 30.00 0.131 SM
+20.01 a 30.00 0.134 SM
 
-30.01 a 45.00 0.139 SM
+30.01 a 45.00 0.142 SM
 
-45.01 a 60.00 0.148 SM
+45.01 a 60.00 0.151 SM
 
-60.01 a 90.00 0.174 SM
+60.01 a 90.00 0.177 SM
 
-90.01 a 110.00 0.209 SM
+90.01 a 110.00 0.213 SM
 
-110.01 en adelante 0.262 SM
+110.01 en adelante 0.267 SM
 
 ###### ARTICULO 6.
 
@@ -375,53 +407,61 @@ II.- Cuando por cualquier razón no pueda determinarse el consumo de agua potabl
 
 Por el servicio industrial de agua potable se pagarán las siguientes cuotas y tarifas:
 
-I) CUOTA FIJA
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+I.- CUOTA FIJA
 
 1. Fábrica de Materiales para Construcción
 
-1.1. Consumo bajo 7.456 SM
+1.1. Consumo bajo 7.605 SM
 
-1.2. Consumo medio 9.957 SM
+1.2 Consumo medio 10.156 SM
 
 2. Industria de Frutas:
 
-2.1. Empaques 16.417 SM
+2.1. Empaques 16.745 SM
 
-2.2. Armadora de rejas 6.321 SM
+2.2. Armadora de rejas 6.447 SM
 
-2.3. Procesadora de limón y agroindustrias 24.290 SM
+2.3. Procesadora de limón y agroindustrias 24.776 SM
 
 3. Servicios Industriales de Agua y hielo
 
-3.1. Plantas purificadoras con procesos y lavado de garrafón 31.214 SM
+3.1. Plantas purificadoras con procesos y
 
-3.2. Plantas expendedoras de agua 23.086 SM
+lavado de garrafón 31.838 SM
 
-3.3. Fabricas de Hielo 75.417 SM
+3.2. Plantas expendedoras de agua 23.548 SM
+
+3.3. Fabricas de Hielo 76.925 SM
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 II.- SERVICIO MEDIDO.- Comprende las señaladas en la fracción anterior y todas demás las (sic) actividades económicas de transformación y pagarán las cuotas que resulten de conformidad con la siguiente:
 
 TARIFA BIMESTRAL
 
-RANGOS DE CONSUMO POR METROS CUBICOS AGUA POTABLE
+RANGOS DE CONSUMO AGUA POTABLE
+
+POR METROS CUBICOS
 
 DE HASTA
 
-0 a 10 0.760 SM
+0 a 10 0.775 SM
 
-10.01 a 20.00 0.122 SM
+10.01 a 70.0 0.124 SM
 
-20.01 a 30.00 0.131 SM
+70.01 a 170.00 0.134 SM
 
-30.01 a 45.00 0.139 SM
+170.01 a 290.00 0.142 SM
 
-45.01 a 60.00 0.148 SM
+290.01 a 430.00 0.151 SM
 
-60.01 a 90.00 0.197 SM
+430.01 a 570.00 0.201 SM
 
-90.01 a 110.00 0.209 SM
+570.01 a 700.00 0.213 SM
 
-110.01 en adelante 0.262 SM
+700.01 en adelante 0.267 SM
 
 ###### ARTICULO 8.
 
@@ -453,19 +493,23 @@ Tratándose del servicio medido, la cuota mayor se pagará al 100 por ciento del
 
 Los usuarios que pagan los derechos por los servicios de agua potable mediante cuota fija, que cuenten en los inmuebles con instalaciones especiales de las señaladas en los incisos a) y b) siguientes, pagarán en forma adicional las siguientes cuotas:
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 a) Albercas, Chapoteaderos, Fuentes y Espejos de agua, con equipamiento de Purificación y Retorno,
 
-a.1. Hasta 40 m3 2.617 SM
+a.1. Hasta 40 m3 2.669 SM
 
-a.2. Más de 40 m3 2.987 SM
+a.2. Más de 40 m3. 3.047 SM
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 b) Albercas, Chapoteaderos, Fuentes y Espejos de Agua sin equipo de purificación:
 
-b.1. De 0.01 m3 a 25.00 m3 5.303 SM
+b.1. De 0.01 m3 a 25.00 m3 5.409 SM
 
-b.2. De 25.01 m3 hasta 40.00 m3 7.317 SM
+b.2. De 25.01 m3 hasta 40.00 m3 7.463 SM
 
-b.3. Más de 40.00 m3 10.493 SM
+b.3. Más de 40.00 m3 10.703 SM
 
 ###### ARTICULO 11.
 
@@ -489,41 +533,53 @@ Los usuarios de los servicios de agua potable, con excepción de los considerado
 
 I.- Contratación individual:
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 a) Tratándose de tomas de 1/2” de diámetro:
 
-1) Uso doméstico 11.429 SM
+1) Uso doméstico 11.658 SM
 
-2) Uso comercial consumo bajo 18.843 SM
+2) Uso comercial consumo bajo 19.220 SM
 
-3) Uso comercial medio 28.458 SM
+3) Uso comercial medio 29.027 SM
 
-4) Uso comercial alto 45.815 SM
+4) Uso comercial alto 46.731 SM
 
-5) Uso industrial, previo acuerdo de factibilidad 59.211 SM
+5) Uso industrial, previo acuerdo
+
+de factibilidad 60.395 SM
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 b) Tratándose de tomas de 3/4” de diámetro:
 
-1) Uso doméstico 27.422 SM
+1) Uso doméstico 27.970 SM
 
-2) Uso comercial 54.978 SM
+2) Uso comercial 56.078 SM
 
 3) Uso industrial según acuerdo de factibilidad emitido por la COMAPAT.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 c) Tratándose de tomas de 1” de diámetro:
 
-1) Uso comercial 113.897 SM
+1) Uso comercial 116.175 SM
 
 2) Uso industrial según acuerdo de factibilidad emitido por la COMAPAT.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 d) Tratándose de tomas de 1 1/2” de diámetro:
 
-1) Uso comercial 250.566 SM
+1) Uso comercial 255.577 SM
 
 2) Uso industrial según acuerdo de factibilidad emitido por la COMAPAT.
 
-d) (sic) Tratándose de tomas de 2” de diámetro:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-1) Uso comercial 501.131 SM
+e) Tratándose de tomas de 2” de diámetro:
+
+1) Uso comercial 511.154 SM
 
 2) Uso industrial según acuerdo de factibilidad emitido por la COMAPAT.
 
@@ -535,27 +591,39 @@ Las conexiones industriales al sistema se cobrarán según resultado del estudio
 
 Los usuarios pagarán la reconexión a la red de agua potable cuando la suspensión sea por causa imputable al propio usuario conforme a las siguientes cuotas:
 
-I.- Por reconexión al servicio en el uso domestico 5.929 SM
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-II.- Por reconexión al servicio en el uso comercial
+I.- Por reconexión al servicio en el
 
-consumo bajo 7.024 SM
+uso Domestico 6.048 SM
 
-III.- Por reconexión al servicio en el uso comercial
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-consumo medio 8.535 SM
+II.- Por reconexión al servicio en el
 
-IV.- Por reconexión al servicio en el uso comercial
+uso comercial consumo bajo 7.164 SM
 
-consumo alto 10.925 SM
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-V.- Por reconexión al servicio en el uso industrial,
+III.- Por reconexión al servicio en el
 
-la cuota se fijará de acuerdo al estudio de
+uso comercial consumo medio 8.706 SM
 
-factiblidad (sic) emitido por la COMAPAT
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-VI.- En los sistemas rurales y comerciales en playas 8.403 SM
+IV.- Por reconexión al servicio en el
+
+uso comercial consumo alto 11.144 SM
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+V.- Por reconexión al servicio en el uso industrial, la cuota se fijara de acuerdo al estudio de factiblidad (sic) emitido por la COMAPAT
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VI.- En los sistemas rurales y
+
+comerciales en playas 8.571 SM
 
 ###### ARTICULO 16.
 
@@ -571,23 +639,33 @@ II.- Si no se cuenta con fuente de abastecimiento, además de pagarse la incorpo
 
 Los constructores de conjuntos habitacionales o desarrollos comerciales tendrán la obligación de entregar a la COMAPAT las instalaciones y conexiones individuales de agua potable con un sistema de medición de los servicios y el arco respectivo, con las características que señale la COMAPAT, misma que realizará la inspección de las instalaciones, en caso de no existir red.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Todo fraccionamiento carecerá de factibilidad de incorporación a la red municipal de agua potable y drenaje si no formaliza el compromiso por escrito de entrega de lotes o viviendas con su marco de acometida hidráulica y medidor instalado con las especificaciones y autorización de la COMAPAT.
+
 La COMAPAT realizará la inspección de las instalaciones destinadas a los servicios de agua potable y alcantarillado sanitario, por medio de personal que comisione al efecto, debiéndose pagar por este servicio el 2 por ciento del costo de la obra supervisada.
 
 La infraestructura hidráulica se integrará al patrimonio de la COMAPAT una vez que esté en operación y previo pago de los derechos correspondientes.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 18.
 
-Para efectuar las incorporaciones de fraccionamientos al sistema de agua potable y drenaje, se cobrará el 70 por ciento de los derechos de conexión de agua y drenaje por cada lote. Este pago es independiente de los derechos de contratación que deberá pagar el usuario en el momento correspondiente.
+Para efectuar las incorporaciones de fraccionamientos al sistema de agua potable y drenaje, se cobrara el 70 por ciento de los derechos de conexión de agua y drenaje vigentes por cada lote, tratándose de fraccionamientos que no excedan de 200 (doscientos) lotes; y el 50 por ciento para aquellos fraccionamientos cuyo numero de lotes sea mayor de 201. Este pago es independiente de los derechos de contratación que deberá pagar el usuario en el momento correspondiente.
 
 ###### ARTICULO 19.
 
 En la incorporación individual de predios o de predios de fraccionamientos ya adheridos, subdivisión de lotes para construcción de vivienda unifamiliar o construcción de nuevas viviendas en colonias incorporadas a la COMAPAT, se pagarán las siguientes cuotas:
 
-I.- Por los derechos de incorporación, para el otorgamiento de los servicios e incrementar la infraestructura de captación, potabilización y redes de conducción por una sola vez, por metro cuadrado de superficie total del predio:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Por los derechos de incorporación, para el otorgamiento de los servicios e incrementar la infraestructura de captación, potabilización y redes de conducción por una sola vez, por metro cuadrado de superficie total del predio: 0.367 SM
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 20.
 
-En el caso de viviendas de interés social y popular, la COMAPAT otorgará una reducción hasta del 50 por ciento del concepto de contrato de conexión del servicio de agua potable, a los fraccionamientos y desarrollos habitacionales de este tipo.
+En el caso de viviendas de interés social y popular, la COMAPAT podrá otorgar una reducción hasta del 50 por ciento del concepto de contrato de conexión del servicio de agua potable, a los fraccionamientos y desarrollos habitacionales de este tipo, cuando el usuario así lo solicite y se justifique mediante un estudio socioeconómico.
 
 ###### ARTICULO 21.
 
@@ -601,9 +679,11 @@ Para la construcción de cualquier tipo de obra, deberá celebrarse un convenio 
 
 La COMAPAT prestará el servicio requerido para la celebración de espectáculos públicos mediante la elaboración de convenios en los que se estimen los consumos con base en los requerimientos y se realice el pago por adelantado.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 24.
 
-Los fraccionamientos empezarán a cubrir sus cuotas o tarifas a partir de la fecha de incorporación a la red del sistema de agua y tendrán la obligación de entregar mensualmente una relación de los nuevos poseedores o propietarios de lotes, para la actualización del padrón de usuarios.
+Los fraccionamientos empezarán a cubrir sus cuotas o tarifas a partir de la fecha de incorporación a la red del sistema de agua y tendrán la obligación de entregar mensualmente una relación de los nuevos poseedores o propietarios de lotes, para la actualización del padrón de usuarios mediante la celebración de contrato individual de cada poseedor o propietario, en los términos del Artículo 14 del presente ordenamiento.
 
 ### CAPITULO III. DEL ALCANTARILLADO
 
@@ -611,21 +691,23 @@ Los fraccionamientos empezarán a cubrir sus cuotas o tarifas a partir de la fec
 
 Los usuarios de los servicios de agua potable, pagarán por la conexión a la red de alcantarillado cuando la descarga se realice por abajo de las concentraciones permisibles conforme a las normas técnicas ecológicas y las condiciones particulares de descarga vigentes, los derechos conforme a las siguientes cuotas:
 
-I.- Contratación individual tratándose de descargas de aguas residuales con diámetro no mayor a 6”, para usuarios con toma de agua de 1/2”.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-1) Uso doméstico y doméstico residencial 19.974 SM
+I.- Contratación individual tratándose de descargas de aguas residuales con diámetro no mayor a 6”, para usuarios con toma de agua de 1/2”:
 
-2) Uso doméstico en playas 19.974 SM
+1) Uso doméstico y doméstico residencial 20.373 SM
 
-3) Uso comercial consumo bajo 34.215 SM
+2) Uso doméstico en playas 20.373 SM
 
-4) Uso comercial medio 40.690 SM
+3) Uso comercial consumo bajo 34.899 SM
 
-5) Uso comercial alto 51.905 SM
+4) Uso comercial medio 41.504 SM
+
+5) Uso comercial alto 52.943 SM
 
 6) Uso industrial (a reservad (sic) el estudio
 
-de factibilildad (sic) 88.961 SM
+de factibilildad (sic) 90.740 SM
 
 Las cuotas anteriores no incluye el costo de los materiales empleados en las obras necesarias.
 
@@ -635,61 +717,81 @@ Las conexiones industriales al sistema de drenaje se cobrarán según resultado 
 
 Los usuarios pagarán la reconexión a la red de alcantarillado cuando la suspensión sea por causa imputable al propio usuario conforme a las siguientes cuotas:
 
-I.- Por reconexión a la red de drenaje y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-alcantarillado al haberse impedido, obstruido
+I.- Por reconexión a la red de drenaje
 
-o cerrada la posibilidad de descargas de aguas
+y alcantarillado al haberse impedido,
 
-residuales a la red por la aplicación del artículo
+obstruido o cerrada la posibilidad de
 
-99 de la Ley de Aguas para el Estado de Colima 11.854 SM
+descargas de aguas residuales a la
 
-II.- Por reconexión y/o modificación de la descarga 14.241 SM
+red por la aplicación del artículo 99
+
+de la Ley de Aguas para el Estado
+
+de Colima 12.091 SM
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II.- Por reconexión y/o modificación
+
+de la descarga 14.526 SM
 
 ###### ARTICULO 27.
 
 Los usuarios que paguen el servicio de agua potable mediante cuota fija, pagarán por la prestación del servicio de drenaje y alcantarillado, los derechos de conformidad con las siguientes cuotas:
 
-I.- DOMESTICO
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+I .- DOMÉSTICO
 
 1.1. Popular uno.
 
-Casas de materiales económicos, no duraderos 0.236 SM
+Casas de materiales económicos,
+
+no duraderos 0.241 SM
 
 1.2. Popular dos
 
-Casas de Ladrillo con teja de barro, cemento o asbesto. 0.338 SM
+Casas de Ladrillo con teja de barro,
+
+cemento o asbesto 0.345 SM
 
 1.3. Popular tres
 
-Pie de casa, con habitación de vaciado y acabados
+Pie de casa, con habitación de vaciado
 
-económicos 0.361 SM
+y acabados económicos 0.368 SM
 
 1.4. Popular cuatro
 
-Casa habitación, de vaciado, bóveda y concreto
+Casa habitación, de vaciado, bóveda y
 
-con acabado económico 0.440 SM
+concreto con acabado económico 0.449 SM
 
 1.5. Popular cinco
 
-Casa habitación con bóveda y vaciado de concreto,
+Casa habitación con bóveda y vaciado de
 
-de dos plantas, de interés social, acabados económicos 0.486 SM
+concreto, de dos plantas, de interés social,
+
+acabados económicos .0.496 SM
 
 1.6. Popular seis
 
-Casa habitación con bóveda y vaciado de concreto,
+Casa habitación con bóveda y vaciado de
 
-de dos plantas, con acabados de primera 0.597 SM
+concreto, de dos plantas, con acabados de
+
+primera 0.609 SM
 
 1.7. Servicio Mixto popular:
 
-Comprende casas habitación de popular uno a
+Comprende casas habitación de popular
 
-popular cuatro con tendajón 0.445 SM
+uno a popular cuatro con tendajón 0.454 SM
 
 1.8. Residencial.
 
@@ -697,183 +799,189 @@ Comprende: Todas aquellas casas habitación
 
 que por su tipo de construcción se consideren
 
-como residenciales, teniendo un frente
+como residenciales, teniendo un frente mínimo
 
-mínimo de terreno de 10 metros y una superficie
+de terreno de 10 metros y una superficie
 
 mínima de 300 metros cuadrados; así mismo
 
-encuadran en esta categoría las casas habitación
+encuadran en esta categoría las casas
 
-de más de dos pisos y casas habitación de vaciado,
+habitación de más de dos pisos y casas
 
-bóveda y concreto con acabados de primera calidad 0.889 SM
+habitación de vaciado, bóveda y concreto con
+
+acabados de primera calidad 0.907 SM
 
 1.9. Instituciones de Beneficencia Pública y Social:
 
-a) Consumo Bajo 0.259 SM
+a) Consumo Bajo 0.264 SM
 
-b) Consumo Alto 0.523 SM
+b) Consumo Alto 0.533 SM
 
 1.10. En playa
 
-a).- Enramadas 0.468 SM
+a).- Enramadas 0.477 SM
 
-b).- Construcción pequeña 0.523 SM
+b).- Construcción pequeña 0.533 SM
 
-c).- Construcción grande 0.750 SM
+c).- Construcción grande 0.765 SM
 
 II.- COMERCIAL.
 
-A) COMERCIAL CONSUMO BAJO: Los comercios que a continuación se mencionan se clasifican como Comercial consumo bajo y pagarán una cuota de 0.445 SM
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+A) COMERCIAL CONSUMO BAJO: Los comercios que a continuación se mencionan se clasifican como Comercial consumo bajo y pagarán una cuota de 0.454 SM
 
 El servicio comercial consumo bajo comprende: Abarrotes, agencias de viaje, almacenes de ropa, salones de belleza, boutiques, bufetes, consultorios, despachos y oficinas, carpinterías en pequeño (operadas únicamente por la familia), cerrajerías, depósitos de cerveza, dulces, estacionamientos, estanquillos, farmacias, ferreterías, florerías, estudios de fotografía, funerarias, huaracherías, imprentas, jugueterías, licorerías, loncherías, materiales para construcción, misceláneas, minisuper, mueblerías, panaderías, papelerías, peluquerías, pintura y laminado de vehículos, refaccionarias, reparación de aparatos electrodomésticos, reparación de llantas, relojerías, sastrerías, servicio de transporte y fletes (sin lavado), talleres mecánicos, eléctricos y tornos, tapicerías, taquerías, telas, templos, tlapalerías, venta de libros, periódicos y revistas, videocassetes, alquiler de videojuegos, vidrierías, y zapaterías.
 
-B) COMERCIAL CONSUMO MEDIO: Los comercios que a continuación se mencionan se clasifican como Comercial consumo medio y pagarán una cuota de 0.760 SM
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+B) COMERCIAL CONSUMO MEDIO: Los comercios que a continuación se mencionan se clasifican como Comercial consumo medio y pagarán una cuota de 0.775 SM
 
 El servicio comercial consumo medio comprende: Academias y escuelas particulares (por cada aula), alquileres de loza, muebles y manteles, billares, bodegas de fruta y verdura, bodegas de almacenamiento, carnicerías, carpinterías que cuenten con trabajadores bajo relación laboral, cenadurías, clubes sociales (sin alberca, no restaurante), fábrica de dulces, fondas y cocinas económicas, obradores, paleterías y neverías, salas de velación y tiendas de autoservicio.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 C) COMERCIAL CONSUMO ALTO: Los comercios cuyos giros a continuación se mencionan se clasifican como “comercial consumo alto” y pagarán los derechos conforme a las siguientes cuotas
 
 c.1. Casas de Huéspedes
 
-c.1.1. Por cada habitación con baño privado 0.241 SM
+c.1.1. Por cada habitación con baño privado 0.246 SM
 
-c.1.2. Por cada habitación con baño común 0.213 SM
+c.1.2. Por cada habitación con baño común 0.217 SM
 
 c.2. Centros Botaneros
 
-c2.1. Consumo bajo 4.071 SM
+c2.1. Consumo bajo 4.152 SM
 
-c2.2. Consumo medio 4.914 SM
+c2.2. Consumo medio 5.012 SM
 
 c.3. Edificios de Espectáculos:
 
-c.3.1. Cines 0.922 SM
+c.3.1. Cines 0.940 SM
 
-c.3.2. Plazas de toros 1.848 SM
+c.3.2. Plazas de toros 1.885 SM
 
-c.3.3. Bares y Discotecas 1.848 SM
+c.3.3. Bares y Discotecas 1.885 SM
 
-c.3.4. Otros (por cada sanitario) 0.454 SM
+c.3.4. Otros (por cada sanitario) 0.463 SM
 
-c.3.5. Salón de fiestas 0.927 SM
+c.3.5. Salón de fiestas 0.940 SM
 
-c.3.6.Salón de fiestas con áreas verdes 1.922 SM
+c.3.6.Salón de fiestas con áreas verdes 1.960 SM
 
 c.4 Viveros de plantas:
 
-c.4.1. De 0.01 m2 hasta 100.00 m2 0.523 SM
+c.4.1. De 0.01 m2 hasta 100.00 m2 0.533 SM
 
-c.4.2. De 100.01 m2 hasta 300.00 m2 0.783 SM
+c.4.2. De 100.01 m2 hasta 300.00 m2 0.799 SM
 
-c.4.3. De 300.01 hasta 500.00 m2 1.565 SM
+c.4.3. De 300.01 hasta 500.00 m2 1.596 SM
 
-c.4.4. Mayores de 500.00 m2 hasta 1,500 m2 3.135 SM
+c.4.4. Mayores de 500.00 m2 hasta 1,500 m2 3.198 SM
 
-c.5. Aserraderos 1.649 SM
+c.5. Aserraderos 1.682 SM
 
-c.6. Hoteles y Moteles. (Se cubrirá el 50 % del total
+c.6. Hoteles y Moteles. (Se cubrirá el 50 % del total de las habitaciones, pero tratándose de moteles de paso el pago será del 70% del total de sus habitaciones)
 
-de las habitaciones, pero tratándose de moteles de
+c.6.1. Por cada habitación con baño privado 0.643 SM
 
-paso el pago será del 70% del total de sus habitaciones)
+c.6.2. Por cada habitación con baño común 0.472 SM
 
-c.6.1. Por cada habitación con baño privado 0.630 SM
-
-c.6.2. Por cada habitación con baño común 0.463 SM
-
-c.6.3. Servicio de restaurante adicional 0.357 SM
+c.6.3. Servicio de restaurante adicional 0.364 SM
 
 c.7. En Playas:
 
-c.7.1 Fondas 0.630 SM
+c.7.1. Fondas 0.643 SM
 
-c.7.2. Restaurante de bajo consumo 1.538 SM
+c.7.2. Restaurante de bajo consumo 1.569 SM
 
-c.7.3. Restaurante de consumo medio 3.135 SM
+c.7.3. Restaurante de consumo medio 3.198 SM
 
-c.7.4. Restaurante de alto consumo 4.877 SM
+c.7.4. Restaurante de alto consumo 4.975 SM
 
 c.8. Clínicas, Hospitales, Sanatorios:
 
-c.8.1. Por cada habitación con baño 0.477 SM
+c.8.1. Por cada habitación con baño 0.487 SM
 
-c.8.2. Por cada habitación con baño común 0.463 SM
+c.8.2. Por cada habitación con baño común 0.472 SM
 
-c.8.3. Servicio de cafetería adicional 0.357 SM
+c.8.3. Servicio de cafetería adicional 0.364 SM
 
 c.9. Vecindades, Internados, Conventos y Similares:
 
-c.9.1. Por cada habitación con baño privado 0.218 SM
+c.9.1. Por cada habitación con baño privado 0.222 SM
 
-c.9.2. Por cada habitación con baño común 0.181 SM
+c.9.2. Por cada habitación con baño común 0.185 SM
 
 c.10. Restaurantes
 
-c. 10.1. Consumo bajo 0.875 SM
+c. 10.1. Consumo bajo 0.893 SM
 
-c. 10.2. Consumo medio 1.630 SM
+c. 10.2. Consumo medio 1.663 SM
 
 c.11. Lavado De Carros
 
-c.11.1. Consumo bajo 2.371 SM
+c.11.1. Consumo bajo 2.418 SM
 
-c.11.2. Consumo medio 3.367 SM
+c.11.2. Consumo medio 3.434 SM
 
 c.12. Gasolineras
 
-c.12.1. Sin servicio de lavado 2.188 SM
+c.12.1. Sin servicio de lavado 2.232 SM
 
-c.12.2. Con servicio de lavado 2.459 SM
+c.12.2. Con servicio de lavado 2.508 SM
 
-c.12.3. Servicio de restaurante adicional 0.445 SM
+c.12.3. Servicio de restaurante adicional 0.454 SM
 
-c.13. Lavanderías Automáticas, (Hasta Tres Máquinas) 1.204 SM
+c.13. Lavanderías Automáticas,
 
-c.13.1. Por cada máquina excedente de tres 0.208 SM
+(Hasta Tres Máquinas) 1.228 SM
 
-c.14. Molinos De Nixtamal 0.959 SM
+c.13.1. Por cada máquina excedente de tres 0.212 SM
+
+c.14. Molinos De Nixtamal 0.978 SM
 
 c.15. Tortillerías:
 
-c.15.1. Sin molino 0.732 SM
+c.15.1. Sin molino 0.747 SM
 
-c.15.2. Con molino 1.639 SM
+c.15.2. Con molino 1.672 SM
 
 c.16. Tintorerías:
 
-c.16.1. Chica 1.167 SM
+c.16.1. Chica 1.190 SM
 
-c.16.2. Mediana 1.473 SM
+c.16.2. Mediana 1.502 SM
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 III.- INDUSTRIAL
 
 1. Fábrica de Materiales para Construcción
 
-1.1. Consumo bajo 1.491 SM
+1.1. Consumo bajo 1.521 SM
 
-1.2 Consumo medio 1.991 SM
+1.2 Consumo medio 2.031 SM
 
 2. Industria de Frutas:
 
-2.1. Empaques 3.283 SM
+2.1. Empaques 3.349 SM
 
-2.2. Armadora de rejas 1.264 SM
+2.2. Armadora de rejas 1.289 SM
 
-2.3. Procesadora de limón y
-
-agroindustrias 4.858 SM
+2.3. Procesadora de limón y agroindustrias 4.955 SM
 
 3. Servicios Industriales de Agua y hielo
 
 3.1. Plantas purificadoras con procesos y
 
-lavado de garrafón 6.243 SM
+lavado de garrafón 6.368 SM
 
-3.2. Plantas expendedoras de agua 4.617 SM
+3.2. Plantas expendedoras de agua 4.709 SM
 
-3.3. Fabricas de Hielo 15.083 SM
+3.3. Fabricas de Hielo 15.385 SM
 
 ###### ARTICULO 28.
 
@@ -881,15 +989,21 @@ Los usuarios que paguen el servicio de agua potable mediante el régimen de serv
 
 I.- DOMESTICO
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 Comprende las señaladas en la fracción II, del artículo 3 y pagarán las cuotas que resulten de conformidad con la siguiente:
 
 TARIFA BIMESTRAL
 
-RANGOS DE CONSUMO POR METROS CUBICOS ALCANTARILLADO
+RANGOS DE ALCANTARILLADO
+
+CONSUMO POR
+
+METROS CUBICOS
 
 DE HASTA
 
-0 a 10.00 0.104 SM
+0 a 10.00 0.106 SM
 
 10.01 a 20.00 0.011 SM
 
@@ -901,21 +1015,27 @@ DE HASTA
 
 60.01 a 90.00 0.022 SM
 
-90.01 a 110.00 0.029 SM
+90.01 a 110.00 0.030 SM
 
-110.01 en adelante 0.036 SM
+110.01 en adelante 0.037 SM
 
 II.- COMERCIAL.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 A) COMERCIAL CONSUMO BAJO.- Comprende todos los giros comerciales señalados en la fracción I, inciso A) del artículo 5 y pagarán las cuotas que resulten de conformidad con la siguiente:
 
 TARIFA BIMESTRAL
 
-RANGOS DE CONSUMO POR METROS CUBICOS ALCANTARILLADO
+RANGOS DE ALCANTARILLADO
+
+CONSUMO POR
+
+METROS CUBICOS
 
 DE HASTA
 
-0 a 10.00 0.130 SM
+0 a 10.00 0.133 SM
 
 10.01 a 20.00 0.021 SM
 
@@ -923,89 +1043,109 @@ DE HASTA
 
 30.01 a 45.00 0.024 SM
 
-45.01 a 60.00 0.025 SM
+45.01 a 60.00 0.026 SM
 
-60.01 a 90.00 0.130 SM
+60.01 a 90.00 0.031 SM
 
-90.01 a 110.00 0.036 SM
+90.01 a 110.00 0.037 SM
 
-110.01 en adelante 0.045 SM
+110.01 en adelante 0.046 SM
 
-B) COMERCIAL CONSUMO MEDIO.- Comprende todos los giros comerciales señalados en la fracción I, inciso B) del artículo 5 y pagarán las cuotas que resulten de conformidad con la siguiente
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+B) COMERCIAL CONSUMO MEDIO.- Comprende todos los giros comerciales señalados en la fracción I, inciso B) del artículo 5 y pagarán las cuotas que resulten de conformidad con la siguiente:
 
 TARIFA BIMESTRAL
 
-RANGOS DE CONSUMO POR METROS CUBICOS ALCANTARILLADO
+RANGOS DE ALCANTARILLADO
+
+CONSUMO POR
+
+METROS CUBICOS
 
 DE HASTA
 
-0 a 10.00 0.141 SM
+0 a 10.00 0.144 SM
 
 10.01 a 20.00 0.023 SM
 
 20.01 a 30.00 0.024 SM
 
-30.01 a 45.00 0.026 SM
+30.01 a 45.00 0.027 SM
 
-45.01 a 60.00 0.027 SM
+45.01 a 60.00 0.028 SM
 
-60.01 a 90.00 0.032 SM
+60.01 a 90.00 0.033 SM
 
-90.01 a 110.00 0.039 SM
+90.01 a 110.00 0.040 SM
 
-110.01 en adelante 0.049 SM
+110.01 en adelante 0.050 SM
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 C) COMERCIAL CONSUMO ALTO: Comprende todos los giros comerciales señalados en la fracción I, inciso C) del artículo 5 y pagarán las cuotas que resulten de conformidad con la siguiente:
 
 TARIFA BIMESTRAL
 
-RANGOS DE CONSUMO POR METROS CUBICOS ALCANTARILLADO
+RANGOS DE ALCANTARILLADO
+
+CONSUMO POR
+
+METROS CUBICOS
 
 DE HASTA
 
-0 a 10.00 0.152 SM
+0 a 10.00 0.155 SM
 
 10.01 a 20.00 0.024 SM
 
-20.01 a 30.00 0.026 SM
+20.01 a 30.00 0.027 SM
 
-30.01 a 45.00 0.028 SM
+30.01 a 45.00 0.029 SM
 
-45.01 a 60.00 0.030 SM
+45.01 a 60.00 0.031 SM
 
-60.01 a 90.00 0.035 SM
+60.01 a 90.00 0.036 SM
 
-90.01 a 110.00 0.042 SM
+90.01 a 110.00 0.043 SM
 
-110.01 en adelante 0.052 SM
+110.01 en adelante 0.053 SM
 
-III.- INDUSTRIAL.- Comprende las señaladas en la fracción I, del artículo 7 y todas (sic) demás las (sic) actividades económicas de transformación y pagarán las cuotas que resulten de conformidad con la siguiente:
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III.- INDUSTRIAL.- Comprende las señaladas en la fracción I, del artículo 7 y todas demás las (sic) actividades económicas de transformación y pagarán las cuotas que resulten de conformidad con la siguiente:
 
 TARIFA BIMESTRAL
 
-RANGOS DE CONSUMO POR METROS CUBICOS ALCANTARILLADO
+RANGOS DE ALCANTARILLADO
+
+CONSUMO POR
+
+METROS CUBICOS
 
 DE HASTA
 
-0 a 10.00 0.152 SM
+0 a 10.00 0.155 SM
 
 10.01 a 20.00 0.024 SM
 
-20.01 a 30.00 0.026 SM
+20.01 a 30.00 0.027 SM
 
-30.01 a 45.00 0.028 SM
+30.01 a 45.00 0.029 SM
 
-45.01 a 60.00 0.032 SM
+45.01 a 60.00 0.031 SM
 
-60.01 a 90.00 0.035 SM
+60.01 a 90.00 0.036 SM
 
-90.01 a 110.00 0.042 SM
+90.01 a 110.00 0.043 SM
 
-110.01 en adelante 0.052 SM
+110.01 en adelante 0.053 SM
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 29.
 
-Los usuarios que utilicen el servicio de drenaje sanitario para el desalojo de volúmenes de agua provenientes de otras fuentes de abastecimiento, independientemente del agua potable de la COMAPAT, pagarán una cuota por metro cúbico de .040 SM, además de atender a los siguientes lineamientos:
+Los usuarios que utilicen el servicio de drenaje sanitario para el desalojo de volúmenes de agua provenientes de otras fuentes de abastecimiento, independientemente del agua potable de la COMAPAT, pagarán una cuota por metro cúbico de .408 SM, además de atender a los siguientes lineamientos:
 
 I.- Para efectos de facturación del volumen descargado al sistema de alcantarillado, se instalará un dispositivo de medición en la descarga y en caso de no contar con esta medición se aplicará el 60% del volumen mensual correspondiente a la última declaración del pago relativo a los derechos por el uso o aprovechamiento de aguas nacionales que se notifica a la Comisión Nacional del Agua en cumplimiento a la Ley Federal de Derechos.
 
@@ -1021,17 +1161,19 @@ Por la prestación del servicio de drenaje y alcantarillado provenientes de acti
 
 Por incorporaciones colectivas al sistema de drenaje, se pagará el 70 por ciento de los derechos de conexión por cada lote. Este pago es independiente de los derechos de contratación que deberá pagar el usuario en el momento correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 32.
 
-En la incorporación individual de predios (sic) o de predios de fraccionamientos ya adheridos, subdivisión de lotes para construcción de vivienda unifamiliar o construcción de nuevas viviendas en colonias incorporadas a la COMAPAT, se pagarán las siguientes cuotas:
+En la incorporación individual de predios o de predios de fraccionamientos ya adheridos, subdivisión de lotes para construcción de vivienda unifamiliar o construcción de nuevas viviendas en colonias incorporadas a la COMAPAT, se pagarán las siguientes cuotas:
 
 I.- Para incrementar la infraestructura de captación, conducción y alejamiento de aguas residuales por una sola vez, por metro cuadrado de superficie total del predio: 0.367 SM
 
-Todo fraccionamiento carecerá de factibilidad de incorporación a la red municipal de agua potable y drenaje si no formaliza el compromiso por escrito de entrega de lotes o viviendas con su arco y medidor instalado con las especificaciones y autorización de la COMAPAT.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 33.
 
-Los fraccionamientos empezarán a cubrir sus cuotas o tarifas a partir de la fecha de incorporación a la red del sistema de drenaje y tendrán la obligación de entregar mensualmente una relación de los nuevos poseedores o propietarios de lotes, para la actualización del padrón de usuarios.
+Los fraccionamientos empezarán a cubrir sus cuotas o tarifas a partir de la fecha de incorporación a la red del sistema de drenaje y tendrán la obligación de entregar mensualmente una relación de los nuevos poseedores o propietarios de lotes, para la actualización del padrón de usuarios mediante la celebración de contrato individual de cada poseedor o propietario, en los términos del Artículo 14 del presente ordenamiento.
 
 ###### ARTICULO 34.
 
@@ -1045,9 +1187,13 @@ I.- De abastecimiento de agua, y
 
 II.- De servicios de Alcantarillado.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 36.
 
-En el caso de viviendas de interés social y popular, la COMAPAT otorgará una reducción hasta del 50 por ciento del concepto de contrato de conexión del servicio de drenaje, a los fraccionamientos y desarrollos habitacionales de este tipo.
+En el caso de viviendas de interés social y popular, la COMAPAT podrá otorgar una reducción hasta del 50 por ciento del concepto de contrato de conexión del servicio de drenaje, a los fraccionamientos y desarrollos habitacionales de este tipo cuando el usuario así lo solicite y se justifique mediante un estudio socioeconómico.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 37.
 
@@ -1059,21 +1205,31 @@ RECEPCION DE
 
 DESCARGAS.
 
-Aguas de sanitarios portátiles (excretas humanas) 0.370 SM
+Aguas de sanitarios portátiles
 
-Aguas de fosas sépticas (mezcla de residuos
+(excretas humanas) 0.377 SM
 
-domésticos e industriales no peligrosos) 0.380 SM
+Aguas de fosas sépticas (mezcla
 
-Aguas con grasas orgánicas (de origen animal y
+de residuos domésticos e
 
-vegetal provenientes de fosas desgrasadoras
+industriales no peligrosos) 0.388 SM
 
-de restaurantes y giros similares) 1.570 SM
+Aguas con grasas orgánicas
+
+(de origen animal y vegetal
+
+provenientes de fosas
+
+desgrasadoras de restaurantes
+
+y giros similares ) 1.601 SM
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 38.
 
-Para recibir los servicios señalados en el artículo anterior, los solicitantes deberán celebrar contrato de prestación de servicios con la COMAPAT y pagar un derecho de: 4.915 SM
+Para recibir los servicios señalados en el artículo anterior, los solicitantes deberán celebrar contrato de prestación de servicios con la COMAPAT y pagar un derecho de: 5.013 SM
 
 Las empresas dedicadas a la renta de sanitarios portátiles, limpieza de fosas sépticas y fosas desgrasadoras mencionadas deberán de presentar a la COMAPAT el registro y permiso vigente de la autoridad competente, como requisito para la celebración del contrato de servicio que refiere el presente acuerdo.
 
@@ -1083,87 +1239,157 @@ Los usuarios a que se refiere este artículo estarán obligados a que sus descar
 
 ### CAPITULO V (SIC). DE OTROS SERVICIOS NO ESPECIFICADOS
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ### CAPITULO VI. DISPOSICIONES GENERALES
+
+T R A N S I T O R I O S :
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 39.
 
 Los propietarios o poseedores de predios urbanos que no estén conectados a las redes de agua potable y alcantarillado y cuenten con las instalaciones adecuadas para que los servicios sean utilizados, están obligados a contratar los mismos y pagar las cuotas de conformidad con la siguiente tarifa:
 
-De 0.01 m2 hasta 200.00 m2 1.737 SM
+De 0.01 m2 hasta 200.00 m2 1.772 SM
 
-De 200.01 m2 hasta 500.01 m2 2.617 SM
+De 200.01 m2 hasta 500.01 m2 2.669 SM
 
-De 500.01 m2 hasta 1,000.00 m2 3.913 SM
+De 500.01 m2 hasta 1,000.00 m2 3.991 SM
 
-De 1000.01 m2 o más 5.233 SM
+De 1000.01 m2 o más 5.338 SM
 
 ###### ARTICULO 40.
 
 Los interesados en los servicios a que hace referencia este artículo, pagarán los derechos con forme a la siguiente cuota:
 
-I.- Constancia de no adeudo a petición del Usuario: 1.378 SM
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+I.- Constancia de no adeudo a petición
+
+del Usuario: 1.406 SM
 
 II.-Constancia de factibilidad de servicios:
 
-a) fraccionamiento habitacional 43.995 SM
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b) centro comercial 30.102 SM
+a) fraccionamiento habitacional 44.874 SM
 
-c) industrial 34.733 SM
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-d) Otras 1.691 SM
+b) centro comercial 30.704 SM
 
-III.- cambio de propietario 1.691 SM
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c) industrial 35.428 SM
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+d) Otras 1.725 SM
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III.- cambio de propietario 1.725 SM
 
 No tendrá costo cuando el cambio del propietario sea por
 
 actualización del padrón por parte del organismo.
 
-IV.- Certificación de planos de servicios especializados 6.502 SM
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-dependiendo el avalúo emitido por la dirección operativa. hasta
+IV.- Certificación de planos de servicios
 
-65.021 SM
+especializados dependiendo el avaluó
 
-V.- Reposición de empedrado por metro cuadrado 1.158 SM
+emitido por la dirección operativa. 6.632 SM
 
-VI.- Reposición de pavimento por metro cuadrado 2.894 SM
+hasta
 
-VII.- Cancelación de toma de agua 5.326 SM
+66.321 SM
 
-VIII.- Cancelación de toma de drenaje 6.947 SM
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-IX.- Cambio de material de agua 10.953 SM
+V.- Reposición de empedrado
 
-X.- Cambio de material de drenaje 13.477 SM
+por metro cuadrado 1.181 SM
 
-XI.- Instalación de medidor de ½” a 2 “ de diámetro para
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-toma de agua (no incluye material) 21.911 SM
+VI.- Reposición de pavimento
 
-XII.- Servicios especiales de agua en camión de pipa,
+por metro cuadrado 2.952 SM
 
-propiedad de la COMAPAT a domicilio en la ciudad
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-y por viaje hasta una capacidad de 10, 000.00 litros máximo 22.107 SM
+VII.- Cancelación de toma de agua 5.433 SM
 
-XIII.-Servicio de agua por solicitud de particulares a 21.674 SM
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-lugares a circunvecinos en pipa propiedad de la a
+VIII.- Cancelación de toma de drenaje 7.086 SM
 
-COMAPAT de 52.980 SM
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-XIV.- Por cancelación de un recibo emitido por
+IX.- Cambio de material de agua 11.172 SM
 
-error de información por parte del usuario y/o solicitud
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-de devolución 1.691 SM
+X.- Cambio de material de drenaje 13.746 SM
 
-XV.- metro cúbico de agua vendido a particulares 0.390 SM
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XI.- Instalación de medidor de ½” a 2 “ de
+
+diámetro para toma de agua
+
+( no incluye material) 22.349 SM
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XII.- Servicios especiales de agua
+
+En camión de pipa, propiedad de la
+
+COMAPAT a domicilio en la ciudad y
+
+por viaje hasta una capacidad de
+
+10, 000.00 litros máximo 22.549 SM
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XIII.- Servicio de agua por solicitud
+
+de particulares a lugares circunvecinos
+
+en pipa propiedad de la COMAPAT de 22.107 SM
+
+a
+
+54.039 SM
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XIV.- Por cancelación de un recibo
+
+emitido por error de información por
+
+parte del usuario y/o solicitud de
+
+devolución 1.725 SM
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XV.- metro cúbico de agua
+
+vendido a particulares 0.398 SM
+
+(REUBICADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 41.
 
 Con independencia de la periodicidad del pago de los derechos establecidos en la Ley de Aguas del Estado de Colima, los usuarios de los servicios, podrán realizar enteros mensuales a cuenta del pago bimestral.
+
+(REUBICADO Y REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 42.
 
@@ -1175,9 +1401,7 @@ A los usuarios de cuota mínima que paguen por anualidad en los términos de est
 
 II.- En caso de servicio medido, se concede un 12 por ciento de descuento a los usuarios que paguen el servicio de agua potable y alcantarillado de forma anual durante los meses de enero, febrero y marzo. De acuerdo a sus consumos históricos se realizará el cálculo para el registro del pago y, periódicamente se harán supervisiones para la evaluación del consumo, tomando en cuenta que si varía el registro se efectuarán los cargos correspondientes a la cuenta del usuario.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2006)</small>
-
-III.- Los usuarios que acrediten ser mexicanos y tener la calidad de pensionados o jubilados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable y alcantarillado, respecto de la casa que habitan, para lo cual deberán exhibir el Organismo previamente los siguientes documentos:
+III.- Los usuarios que acrediten ser mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 salarios mínimos diarios de la zona económica del Estado de Colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable y alcantarillado, respecto de la casa que habitan, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
 
 a).- Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y
 
@@ -1189,23 +1413,27 @@ IV.- 50 por ciento de descuento a los usuarios de cuota fija mayores de 60 años
 
 V.- Tratándose de los servicios mixtos se estará a lo dispuesto por la fracción II o en su defecto, la Fracción I del presente Artículo.
 
+(REUBICADO, P.O. 26 DE DICIEMBRE DE 2006)
+
 ###### ARTICULO 43.
 
 La COMAPAT a través de su Director General, podrá conceder hasta un 50 por ciento de descuento en la tarifa correspondiente, a los propietarios o poseedores de lotes baldíos o inmuebles no habitados, cuando por escrito lo soliciten y manifiesten bajo protesta de decir verdad, previa inspección y comprobación en el inmueble, que durante el tiempo en mora o parte de él, no se contó con el servicio del agua, o que la casa habitación se encontró deshabitada.
 
-Lo anterior se ajustará al contenido del Reglamento Interior del (sic) la COMAPAT.
+Lo anterior se ajustará al contenido del Reglamento Interior del la (sic) COMAPAT.
+
+(REUBICADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 44.
 
 La COMAPAT queda facultada para celebrar convenios para la recaudación de ingresos.
 
+(REUBICADO, P.O. 26 DE DICIEMBRE DE 2006)
+
 ###### ARTICULO 45.
 
 El Director General del Organismo, bajo su más estricta responsabilidad, estará facultado para realizar ajustes a la facturación por lecturas incorrectamente tomadas, por fugas, problemas de presión, tarifas incorrectamente aplicadas o medidores descalibrados.
 
-T R A N S I T O R I O S :
-
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+> <small>(DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1234,6 +1462,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 4 DE ABRIL DE 2006.
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero de 2007, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el Ejercicio Fiscal 2007, en ningún caso el incremento será superior al 6% en relación a las cuotas cobradas en el 2006, por lo que se faculta al Titular del organismo operador a realizar los ajustes correspondientes para el cumplimiento de esta disposición.
 
 ###### ARTÍCULO UNICO.
 
