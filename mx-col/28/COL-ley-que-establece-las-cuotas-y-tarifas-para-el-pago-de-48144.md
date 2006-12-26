@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2006-04-04"
+last_updated: "2006-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ALVAREZ -- ANTES LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ALVAREZ -- EN EL ESTADO DE COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ALVAREZ EN EL ESTADO DE COLIMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLlMA Y VILLA DE ALVAREZ EN EL ESTADO DE COLlMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -43,13 +43,17 @@ D E C R E T O No. 313
 
 "ARTÍCULO ÚNICO.- Es de aprobarse y se aprueba la Ley que establece las Cuotas y Tarifas para el pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado de los municipios de Colima y Villa de Álvarez, en el Estado de Colima, para quedar en los siguientes términos:
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE y ALCANTARILLADO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, EN EL ESTADO DE COLIMA.
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLlMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLlMA.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 1.
 
-Los usuarios de los servicios públicos de agua potable, alcantarillado, y demás que presta la Comisión Intermunicipal de Agua Potable y Alcantarillado de los Municipios de Colima y Villa de Álvarez, en lo sucesivo “LA CIAPACOV”, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente Ley, expresadas en unidades de salario mínimo general diario del área geográfica en la que está ubicado el Estado de Colima.
+Los usuarios de los servicios públicos de agua potable, alcantarillado, saneamiento y demás que presta la Comisión Intermunicipal de Agua Potable y Alcantarillado de los Municipios de Colima y Villa de Álvarez, en lo sucesivo "LA CIAPACOV", pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente Ley, expresadas en unidades de salario mínimo general diario del área geográfica en la que está ubicado el Estado de Colima.
 
 ###### ARTÍCULO 2.
 
@@ -57,15 +61,23 @@ Los derechos a que se refiere el artículo anterior, se pagarán a más tardar e
 
 Las cuotas y tarifas establecidas en la presente Ley, están determinadas en forma mensual, pero el pago de los derechos se realizará bimestralmente, en los términos del párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Tratándose de los derechos de alcantarillado a que se refiere el artículo anterior, éstos representan el veinticinco por ciento respecto de los derechos de agua potable para los efectos del pago por ese derecho.
+
 ### CAPÍTULO SEGUNDO. DE LAS CUOTAS Y TARIFAS EN SERVICIO MEDIDO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 3.
 
-Por los servicios de agua potable en “servicio medido” y alcantarillado para uso doméstico, se pagarán los derechos de conformidad con las siguientes tarifas:
+Por los servicios de agua potable en "servicio medido", alcantarillado y saneamiento para uso doméstico, se pagarán los derechos de conformidad con las siguientes tarifas:
 
 I.- Popular.- Comprende:
 
-a) En el Municipio de Colima, las colonias de: Albarrada, Ampliación La Guadalupe, Antorchista, Arboledas de la Hacienda, Burocrática, Camino Real I y II, Cuauhtémoc, De los Trabajadores, El Paraíso, El Pedregal, El Porvenir, Francisco I. Madero, Francisco Villa I, II y III, Gregorio Torres Quintero, Ignacio Zaragoza, Insurgentes, Jardines de la Estancia, Jardines del Sol, Josefa Ortiz de Domínguez, Juana de Asbaje, La Guadalupe, La Virgencita Norte, La Virgencita, Las Torres, Lázaro Cárdenas, Los Ángeles, Los Pinos, Luis Donaldo Colosio, Mirador de la Cumbre, Moctezuma, Nuevo Paraíso, Pablo Silva García, Interior Patios del Ferrocarril, Revolución, Rotaria, San José Norte, San José Sur, San Rafael, Santa Amalia, Siglo XXI, Vagones FF CC, Valle Paraíso, Vecindad Aldama, Vicente Guerrero, Miguel Hidalgo I y II, así como las Unidades Habitacionales: Reforma, Lucio Uribe, Matamoros, Lerdo de Tejada, Ignacio Allende, El Salatón, Independencia, Emilio Carranza, Niños Héroes, Balbino Dávalos, Factor Mexicano y todas las comunidades rurales; las colonias de: El Diezmo, El Moralete, El Tecolote, El Tívoli, Fátima, FOVISSSTE, Fraccionamiento Los Volcanes, Fraccionamiento El Yaqui, Fraccionamiento Morelos, Infonavit Camino Real, Infonavit La Estancia, José Pimentel Llerenas, La Armonía, La Oriental, Leonardo B. Gutiérrez, Lomas de Santa Elena, Niños Héroes, Nuevo Milenio, Prados del Sur, Santa Lucia, Villa de San Sebastián, Vivienda Popular. Rinconada de San Pablo, Fraccionamiento Las Fuentes y Fraccionamiento los Jazmines.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+a) En el Municipio de Colima, las colonias de: Albarrada, Ampliación La Guadalupe, Antorchista, Arboledas de la Hacienda, Burocrática, Camino Real I y II, Cuauhtémoc, De los Trabajadores, El Paraíso, El Pedregal, El Porvenir, Francisco I. Madero, Francisco Villa I, II y III, Gregorio Torres Quintero, Ignacio Zaragoza, Insurgentes, Jardines de la Estancia, Jardines del Sol, Josefa Ortiz de Domínguez, Juana de Asbaje, La Guadalupe, La Virgencita Norte, La Virgencita, Las Torres, Lázaro Cárdenas, Los Ángeles, Los Pinos, Luis Donaldo Colosio, Mirador de la Cumbre I y II, Gustavo A. Vázquez Montes, Moctezuma, Nuevo Paraíso, Pablo Silva García, Interior Patios del Ferrocarril, Revolución, Rotaria, San José Norte, San José Sur, San Rafael, Santa Amalia, Siglo XXI, Vagones FF CC, Valle Paraíso, Vecindad Aldama, Vicente Guerrero, Miguel Hidalgo I y II, así como las Unidades Habitacionales: Reforma, Lucio Uribe, Matamoros, Lerdo de Tejada, Ignacio Allende, El Salatón, Independencia, Emilio Carranza, Niños Héroes, Balbino Dávalos, Factor Mexicano y todas las comunidades rurales; las colonias de: El Diezmo, El Moralete, El Tecolote, El Tívoli, Fátima, FOVISSSTE, Fraccionamiento Los Volcanes, Fraccionamiento El Yaqui, Fraccionamiento Morelos, Infonavit Camino Real, Infonavit La Estancia, José Pimentel LIerenas, La Armonía, La Oriental, Leonardo B. Gutiérrez, Lomas de Santa Elena, Niños Héroes, Nuevo Milenio I, II y III, Prados del Sur I y II, Santa Lucia, Villa de San Sebastián, Vivienda Popular.(sic) Rinconada de San Pablo, Fraccionamiento Las Fuentes, Fraccionamiento los Jazmines, El Torreón y Las Haciendas.
 
 b) En el Municipio de Villa de Álvarez, las siguientes colonias: Adolfo López Mateos, Alfredo V. Bonfil I, Arboledas del Carmen, Azteca, Burócratas, El Llano, Gral. Del Valle, Gral. Emiliano Zapata, Haciendita, José MA. Morelos, Juan José Ríos I, II y III, La Gloria, Las Águilas, Leandro Valle, Liberación I, Lomas Altas, Rosario Ibarra, Solidaridad, Villa Izcalli, así como todas las comunidades rurales exceptuando las casas de descanso. Laguna Seca, Pastores, El Chivato, El Naranjal y Peñitas.
 
@@ -75,29 +87,45 @@ II.- Medio.- Comprende:
 
 a) En el Municipio de Colima, la zona ubicada en el primer cuadro de la ciudad, delimitado por las calles Venustiano Carranza, Dr. Miguel Galindo, Ignacio Allende, General Núñez, Revolución, Nicolás Bravo, José Antonio Díaz y Degollado. Las Avenidas Niños Héroes, Insurgentes, Camino Real, Pino Suárez y 20 de Noviembre; las colonias Arboledas, Guadalajarita, Las Palmas, Magisterial, Militar, Placetas Estadio, Viveros, Villas del Bosque, Las Víboras; los condominios ubicados en la Calzada Galván, Condominios Torres de Vista Hermosa y los ubicados en Paseo de las Flores; los fraccionamientos: Del Periodista, Huertas del Sol, Jardines Residenciales, Camino Real, y el área habitacional que está fuera del primer cuadro de la ciudad, que no esté comprendida en las fracciones I y III de este artículo.
 
-b) En el Municipio de Villa de Álvarez, la zona delimitada por las siguientes calles: Dr. Eduardo Álvarez, De la Cruz, Allende hasta la esquina con Guillermo Prieto, Nicolás Bravo, Zaragoza hasta la esquina con Av. Benito Juárez, Enrique Corona Morfín hasta la esquina con Fco. Javier Mina eje poniente, Galeana, Cuauhtémoc, se incluyen las Avenidas: Benito Juárez, Enrique Corona Morfin, María Ahumada de Gómez, Tecnológico, Blv. Rodolfo Chávez Carrillo, Avenidas Gral. Manuel Álvarez y J. Merced Cabrera y las Colonias Alfredo V. Bonfil II, Almendros I, II y III, Alta Villa, Azaleas, Cajita del Agua, Campestre I y II, Carlos de la Madrid Virgen, Colinas del Carmen, Condominios los Arcos, Condominios Diamante, El Centenario, El Cortijo, Floresta, Fraccionamiento San Miguel, Fraccionamiento Santa Cristina, Francisco Hernández Espinoza, Golondrinas, Gral. Manuel Álvarez, Gral. Manuel M. Diéguez, Hacienda del Centenario, Jardines de Bugambilias, Jardines de la Villa, Jardines del Llano, Jardines del Centenario, La Joya, Linda Vista, Liberación II, Loma Bonita, Loma Hermosa, Lomas de las Flores, Loma de la Higuera, Lomas del Centenario, Prados de la Villa, Primaveras, Ramón Serrano García, Real Bugambilias, Real del Centenario, Residencial Tabachines, Rinconada de la Hacienda, Rinconada del Centenario, San Agustín, San Isidro, Santa Cristina, Santa Teresa, Sección FOVISSSTE de Villa Izcalli, Senderos del Carmen, Senderos de Rancho Blanco, Villa de Alba, Villa Real, Villa San José, Villacarlo, Villas Adriana, Villas Bugambilias, Villas Colimán, Villas de Alameda, Villas del Centro, Villas de la Tuna, Villas de Oro, Villas del Río I, II y III, Villa Flores, Villas Providencia y Villas Rancho Blanco, Lomas de La Herradura, Lomas de La Villa, Villas del Palmar, Fraccionamiento Colinas del Sol, La Frontera, Fraccionamiento Bugambilias, Fraccionamiento Alfonso Rolón, Fraccionamiento Cruz de Comala y Fraccionamiento El Ángel.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b) En el Municipio de Villa de Álvarez, la zona delimitada por las siguientes calles: Dr. Eduardo Álvarez, De la Cruz, Allende hasta la esquina con Guillermo Prieto, Nicolás Bravo, Zaragoza hasta la esquina con Av. Benito Juárez, Enrique Corona Morfín hasta la esquina con Fco. Javier Mina eje poniente, Galeana, Cuauhtémoc, se incluyen las Avenidas: Benito Juárez, Enrique Corona Morfín, María Ahumada de Gómez, Tecnológico, Blv. Rodolfo Chávez Carrillo, Avenidas Gral. Manuel Álvarez y J. Merced Cabrera y las Colonias Alfredo V. Bonfil II, Almendros I, II y III, Alta Villa, Azaleas, Cajita del Agua, Campestre I y II, Carlos de la Madrid Virgen, Colinas del Carmen, Condominios los Arcos, Condominios Diamante, El Centenario, El Cortijo, Floresta, Fraccionamiento San Miguel, Fraccionamiento Santa Cristina, Francisco Hernández Espinoza, Golondrinas, Gral. Manuel Álvarez, Gral. Manuel M. Diéguez, Hacienda del Centenario, Jardines de Bugambilias, Jardines de la Villa, Jardines del Llano, Jardines del Centenario, La Joya I y II, Linda Vista I, II y III, Liberación II, Loma Bonita, Loma Hermosa, Lomas de las Flores, Loma de la Higuera, Lomas del Centenario, Prados de la Villa, Primaveras, Ramón Serrano García, Real Bugambilias, Real del Centenario, Residencial Tabachines, Rinconada de la Hacienda, Rinconada del Centenario, San Agustín, San Isidro, Santa Cristina, Santa Teresa, Sección FOVISSSTE de Villa Izcalli, Senderos del Carmen, Senderos de Rancho Blanco, Villa de Alba, Villa Real, Villa San José, Villacarlo, Villas Adriana, Villas Bugambilias, Villas Colimán, Villas de Alameda, Villas del Centro, Villas de la Tuna, Villas de Oro, Villas del Río I, II y III, Villa Flores, Villas Providencia y Villas Rancho Blanco, Lomas de La Herradura, Lomas de La Villa, Villas del Palmar, Fraccionamiento Colinas del Sol, La Frontera, Fraccionamiento Bugambilias, Fraccionamiento Alfonso Rolón, Fraccionamiento Cruz de Comala, Fraccionamiento El Ángel y Fraccionamiento Rancho Santo.
 
 (VEASE ARCHIVO ANEXO)
 
 III.- Residencial.- Comprende:
 
-a) En el Municipio de Colima, los siguientes fraccionamientos: Colinas de Santa Bárbara, Jardines de la Corregidora, Jardines de las Lomas, Jardines Vista Hermosa, Lomas de Circunvalación, Lomas Residenciales, Lomas Verdes, Lomas Vista Hermosa, Puerta del Sol, Residencial Esmeralda, Esmeralda Norte, Residencial Santa Bárbara, San Pablo, Villa Centella, Villas Colinas, Villa Nova, Villa Verde, Cuarta Sección de Vista Hermosa, Granjas y Campestres del Chanal, Girasoles, Parque Royal, Real Vista Hermosa I, II y III, Residencial Bugambilias, Puerta Paraíso y Valle Dorado; las siguientes calles: Calzadas Pedro A. Galván, 20 de Noviembre, Av. Rey de Coliman, Condominios San Rafael y Los Ciruelos.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+a) En el Municipio de Colima, los siguientes fraccionamientos: Colinas de Santa Bárbara, Jardines de la Corregidora, Jardines de las Lomas, Jardines Vista Hermosa, Lomas de Circunvalación, Lomas Residenciales, Lomas Verdes, Lomas Vista Hermosa, Puerta del Sol, Residencial Esmeralda, Esmeralda Norte, Residencial Santa Bárbara, San Pablo, Villa Centella, Villas Colinas, Villa Nova, Villa Verde, Cuarta Sección de Vista Hermosa, Granjas y Campestres del Chanal, Girasoles, Parque Royal, Real Vista Hermosa I, II y III, Residencial Bugambilias, Puerta Paraíso y Valle Dorado; las siguientes calles: Calzadas Pedro A. Galván, 20 de Noviembre, Av. Rey de Coliman, Condominios San Rafael, Los Ciruelos y Condominio La Primavera.
 
 b) En el Municipio de Villa de Álvarez, Residencial las Parotas, así como las casas de descanso localizadas en la zona rural.
 
 (VEASE ARCHIVO ANEXO)
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 4.
 
-El servicio medido de agua potable y alcantarillado para uso comercial, institucional y de servicios, comprende:
+El servicio medido de agua potable, alcantarillado y saneamiento para uso comercial, institucional y de servicios, comprende:
 
 Abarrotes, agencias de viaje, almacenes de ropa, alquiler de loza y manteles, salones de belleza, boutiques, bufetes, consultorios, despachos y oficinas, cerrajerías, depósito de vinos y licores, venta de dulces, estacionamientos, estanquillos, farmacias, ferreterías, florerías, estudios fotográficos, venta de huaraches, zapaterías, imprentas, mini súper, misceláneas, mueblerías, expendio de nieves y paletas, papelerías, peluquería, editoriales de periódicos, refaccionarías, relojerías, reparación de aparatos electrónicos y electrodomésticos, reparación de llantas, sastrerías, servicio de transporte y fletes, servicio auxiliar de diagnóstico, venta de sombreros, talleres mecánicos, de pintura, laminado, eléctrico y torno, tapicería, tienda de regalos, tlapalería, venta de libros, periódicos y revistas, alquiler de videocasetes, vidrierías, clubes deportivos, sindicatos, salones de fiesta, academias, auto baños, bares, carnicerías, instituciones de asistencia privada, instituciones religiosas, clubes sociales, colegios, guarderías y escuelas particulares, cines, instituciones bancarias, fondas y cocinas económicas, funerarias, gasolineras, lavado de muebles, lavanderías y planchadurías, venta de tortillas, vulcanizadoras y vitalizadoras de llantas, lencerías y los que resulten de acuerdo a las características de la toma que se identifiquen como uso comercial.
 
-Los usuarios de los servicios de agua potable en “servicio medido” y alcantarillado en los Municipios de Colima y Villa de Álvarez comprendidos en este artículo, pagarán las cuotas que resulten de aplicar la siguiente:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Los usuarios de los servicios de agua potable en "servicio medido", alcantarillado y saneamiento en los Municipios de Colima y Villa de Álvarez comprendidos en este artículo, pagarán las cuotas que resulten de aplicar la siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Los usuarios a que se refiere este artículo cubrirán adicionalmente, el importe del lVA de conformidad con la Ley del Impuesto al Valor Agregado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 5.
 
-Los servicios de agua potable en “servicio medido” y alcantarillado para uso industrial comprende:
+Los servicios de agua potable en "servicio medido", alcantarillado y saneamiento para uso industrial comprende:
 
 Embotelladoras; fábricas de: dulces, huaraches, sombreros, artesanía, hielo, cubos de hielo, paletas, nieves y telas; purificadora de agua; bloqueras; molinos de nixtamal; pastelerías; panaderías; restaurantes; hoteles; moteles; bungalows; hospitales; clínicas; plantas industriales y establecimientos que por las características de su toma se identifiquen como industriales o altos consumidores.
 
@@ -107,207 +135,219 @@ Los usuarios en los municipios de Colima y Villa de Álvarez comprendidos en ese
 
 Los usuarios a que se refiere este artículo cubrirán adicionalmente, el importe del IVA de conformidad con la Ley del Impuesto al Valor Agregado.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 6.
 
-Por los servicios de agua potable y alcantarillado prestados a instituciones o dependencias públicas en los municipios de Colima y Villa de Álvarez, se pagarán los derechos de acuerdo con la siguiente:
+Por los servicios de agua potable, alcantarillado y saneamiento prestados a instituciones o dependencias públicas en los municipios de Colima y Villa de Álvarez, se pagarán los derechos de acuerdo con la siguiente:
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 7.
 
-Por los servicios de agua potable y alcantarillado en "servicio medido" para uso Mixto, se pagarán los derechos de conformidad con las siguientes tarifas:
+Por los servicios de agua potable, alcantarillado y saneamiento en "servicio medido" para uso Mixto, se pagarán los derechos de conformidad con las siguientes tarifas:
 
-I.- Popular.- Comprende a los usuarios propietarios o poseedores de predios señalados en el artículo 3, fracción I incisos a) y b) de esta Ley, que en la vivienda que habitan, tengan establecido un negocio o industria, abastecidos del servicio de agua potable y alcantarillado de la misma toma y descarga.
-
-(VEASE ARCHIVO ANEXO)
-
-II.- Medio.- Comprende a los usuarios propietarios o poseedores de predios señalados en el artículo 3, fracción II incisos a) y b) de esta Ley, que en la vivienda que habitan, tengan establecido un negocio o industria, abastecidos del servicio de agua potable y alcantarillado de la misma toma y descarga.
+I.- Popular.- Comprende a los usuarios propietarios o poseedores de predios señalados en el artículo 3, fracción I incisos a) y b) de esta Ley, que en la vivienda que habitan, tengan establecido un negocio o industria, abastecidos del servicio de agua potable, alcantarillado y saneamiento de la misma toma y descarga.
 
 (VEASE ARCHIVO ANEXO)
 
-III.- Residencial.- Comprende a los usuarios propietarios o poseedores de predios señalados en el artículo 3, fracción III incisos a) y b) de esta Ley, que en la vivienda que habitan, tengan establecido un negocio o industria, abastecidos del servicio de agua potable y alcantarillado de la misma toma y descarga.
+II.- Medio.- Comprende a los usuarios propietarios o poseedores de predios señalados en el artículo 3, fracción II incisos a) y b) de esta Ley, que en la vivienda que habitan, tengan establecido un negocio o industria, abastecidos del servicio de agua potable, alcantarillado y saneamiento de la misma toma y descarga.
+
+(VEASE ARCHIVO ANEXO)
+
+III.- Residencial.-Comprende a los usuarios propietarios o poseedores de predios señalados en el artículo 3, fracción III incisos a) y b) de esta Ley, que en la vivienda que habitan, tengan establecido un negocio o industria, abastecidos del servicio de agua potable, alcantarillado y saneamiento de la misma toma y descarga.
 
 (VEASE ARCHIVO ANEXO)
 
 ### CAPÍTULO TERCERO. DE LAS CUOTAS Y TARIFAS EN SERVICIO NO MEDIDO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 8.
 
-En el Municipio de Colima, los usuarios de los servicios de agua potable y alcantarillado en el tipo de uso doméstico “sin medidor”, pagarán de acuerdo a la clasificación que les corresponda, las siguientes cuotas fijas mensuales:
+En el Municipio de Colima, los usuarios de los servicios de agua potable, alcantarillado y saneamiento en el tipo de uso doméstico "sin medidor", pagarán de acuerdo a la clasificación que les corresponda, las siguientes cuotas fijas mensuales:
 
-I.- Popular 1.- Comprende las siguientes colonias: Albarrada, Ampliación La Guadalupe, Antorchista, Arboledas de la Hacienda, Burocrática, Camino Real I y II, Cuauhtémoc, De los Trabajadores, El Paraíso, El Pedregal, El Porvenir, Francisco I. Madero, Francisco Villa I, II y III, Gregorio Torres Quintero, Ignacio Zaragoza, Insurgentes, Jardines de la Estancia, Jardines del Sol, Josefa Ortiz de Domínguez, Juana de Asbaje, La Guadalupe, La Virgencita Norte, La Virgencita, Las Torres, Lázaro Cárdenas, Los Ángeles, Los Pinos, Luis Donaldo Colosio, Mirador de la Cumbre, Moctezuma, Nuevo Paraíso, Pablo Silva García, Interior Patios del Ferrocarril, Revolución, Rotaria, San José Norte, San José Sur, San Rafael, Santa Amalia, Siglo XXI, Vagones FF CC, Valle Paraíso, Vecindad Aldama, Vicente Guerrero, Miguel Hidalgo I y II, así como las Unidades Habitacionales: Reforma, Lucio Uribe, Matamoros, Lerdo de Tejada, Ignacio Allende, El Salatón, Independencia, Emilio Carranza, Niños Héroes, Balbino Dávalos, Factor Mexicano y todas las comunidades rurales. Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+l.- Popular 1.- Comprende las siguientes colonias: Albarrada, Ampliación La Guadalupe, Antorchista, Arboledas de la Hacienda, Burocrática, Camino Real I y II, Cuauhtémoc, De los Trabajadores, El Paraíso, El Pedregal, El Porvenir, Francisco I. Madero, Francisco Villa I, II y III, Gregorio Torres Quintero, Ignacio Zaragoza, Insurgentes, Jardines de la Estancia, Jardines del Sol, Josefa Ortiz de Domínguez, Juana de Asbaje, La Guadalupe, La Virgencita Norte, La Virgencita, Las Torres, Lázaro Cárdenas, Los Ángeles, Los Pinos, Luis Donaldo Colosio, Mirador de la Cumbre I y II, Gustavo A. Vazquez Montes, Moctezuma, Nuevo Paraíso, Pablo Silva García, Interior Patios del Ferrocarril, Revolución, Rotaria, San José Norte, San José Sur. San Rafael, Santa Amalia, Siglo XXI, Vagones FF CC, Valle Paraíso. Vecindad Aldama, Vicente Guerrero, Miguel Hidalgo I y II, así como las Unidades Habitacionales: Reforma. Lucio Uribe, Matamoros, Lerdo de Tejada, Ignacio Allende, El Salatón, Independencia, Emilio Carranza, Niños Héroes, Nuevo Milenio I, II y III, Prados del Sur I y II, Balbino Dávalos, Factor Mexicano y todas las comunidades rurales.
 
 CUOTA
 
-AGUA ALCANTARILLADO TOTAL
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE
+0.84730 0.21182 0.00000 1.05913
 
-0.83069 0.20767 1.03836
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-II.- Popular 2.- Comprende: El Diezmo, El Moralete, El Tecolote, El Tívoli, Fátima, FOVISSSTE, Fraccionamiento Los Volcanes, Fraccionamiento El Yaqui, Fraccionamiento Morelos, Infonavit Camino Real, Infonavit La Estancia, José Pimentel Llerenas, La Armonía, La Oriental, Leonardo B. Gutiérrez, Lomas de Santa Elena, Niños Héroes, Nuevo Milenio, Prados del Sur, Santa Lucía, Villa de San Sebastián, Vivienda Popular. Rinconada de San Pablo, Fraccionamiento Las Fuentes y Fraccionamiento los Jazmines.
+II.- Popular 2.- Comprende: El Diezmo, El Moralete, El Tecolote, El Tívoli, Fátima, FOVISSSTE, Fraccionamiento Los Volcanes, Fraccionamiento El Yaqui, Fraccionamiento Morelos, Infonavit Camino Real, Infonavit La Estancia, José Pimentel Llerenas, La Armonía, La Oriental, Leonardo B. Gutiérrez, Lomas de Santa Elena, Niños Héroes, Nuevo Milenio I, II y III, Prados del Sur I y II, Santa Lucía, Villa de San Sebastián, Vivienda Popular. (sic) Rinconada de San Pablo, Fraccionamiento Las Fuentes, Fraccionamiento los Jazmines, El Torreón y Las Haciendas.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 CUOTA
 
-AGUA ALCANTARILLADO TOTAL
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE
-
-1.50172 0.37543 1.87716
+1.53175 0.38294 0.00000 1.91469
 
 III.- Medio 1.- Comprende el área habitacional que está fuera del primer cuadro de la ciudad y las colonias Villas del Bosque y Las Víboras, excluyendo la comprendida en las fracciones I y II que anteceden.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 CUOTA
 
-AGUA ALCANTARILLADO TOTAL
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE
-
-1.94137 0.48534 2.42671
+1.98020 0.49505 0.00000 2.47524
 
 IV.- Medio 2.- Comprende la zona ubicada en el primer cuadro de la ciudad, delimitad (sic) por las calles Venustiano Carranza, Dr. Miguel Galindo, Ignacio Allende, General Núñez, Revolución, Nicolás Bravo, José Antonio Díaz, Degollado, y las Avenidas Niños Héroes, Insurgentes, Camino Real, Pino Suárez, 20 de Noviembre, (con excepción de las colonias consideradas en la zona 2 “A” que se encuentren dentro de las calles antes mencionadas) y las colonias Arboledas, los condominios ubicados en la Calzada Galván, Condominios Torres de Vista Hermosa y los ubicados en Paseo de las flores.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 CUOTA
 
-AGUA ALCANTARILLADO TOTAL
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE
-
-2.24565 0.56141 2.80706
+2.29056 0.57264 0.00000 2.86320
 
 V.- Residencial 1.- Comprende los siguientes fraccionamientos: Del Periodista, Huertas del Sol, Jardines Residenciales, Fraccionamiento Camino Real, Guadalajarita, Las Palmas, Magisterial, Militar, Placetas Estadio y Viveros.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 CUOTA
 
-AGUA
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE ALCANTARILLADO TOTAL
+2.70241 0.67561 0.00000 3.37802
 
-2.64942 0.66236 3.31178
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-VI.- Residencial 2.- Comprende los siguientes Fraccionamientos: Colinas de Santa Bárbara, Jardines de la Corregidora, Jardines de las Lomas, Jardines Vista Hermosa, Lomas de Circunvalación, Lomas Residenciales, Lomas Verdes, Lomas Vista Hermosa, Fraccionamiento Puerta del Sol, Residencial Esmeralda y Esmeralda Norte, Residencial Santa Bárbara, Fraccionamiento San Pablo, Villa Centella, Villas Colinas, Villa Nova, Villa Verde, Cuarta Sección de Vista Hermosa, Granjas y Campestres del Chanal.
+VI.- Residencial 2.- Comprende los siguientes Fraccionamientos: Colinas de Santa Bárbara, Jardines de la Corregidora, Jardines de las Lomas, Jardines Vista Hermosa, Lomas de Circunvalación, Lomas Residenciales, Lomas Verdes, Lomas Vista Hermosa, Fraccionamiento Puerta del Sol, Residencial Esmeralda y Esmeralda Norte, Residencial Santa Bárbara, Fraccionamiento San Pablo, Villa Centella, Villas Colinas, Villa Nova, Villa Verde, Cuarta Sección de Vista Hermosa, Granjas, Campestres del Chanal y Condominio La Primavera.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 CUOTA
 
-AGUA
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE ALCANTARILLADO TOTAL
-
-2.95833 0.73958 3.69791
+3.01750 0.75437 0.00000 3.77187
 
 VII.- Residencial 3.- Comprende las siguientes calles: Calzadas Pedro A. Galván, 20 de Noviembre, Av. Rey de Coliman, y los fraccionamientos: Girasoles, Parque Royal, Real Vista Hermosa I, II y III, Residencial Bugambilias, Condominios San Rafael, Los Ciruelos, Fraccionamiento Puerta Paraíso y Fraccionamiento Valle Dorado.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 CUOTA
 
-AGUA
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE ALCANTARILLADO TOTAL
+3.71847 0.92962 0.00000 4.64809
 
-3.64556 0.91139 4.55695
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 9.
 
-En el Municipio de Villa de Álvarez, los servicios de agua potable y alcantarillado en el tipo de uso doméstico “sin medidor”, pagarán de acuerdo a la clasificación que les corresponda, las siguientes cuotas fijas mensuales:
+En el Municipio de Villa de Álvarez, los servicios de agua potable, alcantarillado y saneamiento en el tipo de uso doméstico "sin medidor", pagarán de acuerdo a la clasificación que les corresponda, las siguientes cuotas fijas mensuales:
 
 I. Popular.- Comprende las siguientes colonias Adolfo López Mateos, Alfredo V. Bonfil I, Arboledas del Carmen, Azteca, Burócratas, El Llano, Gral. Del Valle, Gral. Emiliano Zapata, Haciendita, José MA. Morelos, Juan José Ríos I, II y III, La Gloria, Las Águilas, Leandro Valle, Liberación I, Lomas Altas, Rosario Ibarra, Solidaridad, Villa Izcalli, así como todas las comunidades rurales exceptuando las casas de descanso. Laguna Seca, Pastores, El Chivato, El Naranjal y Peñitas.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 CUOTA
 
-AGUA
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE ALCANTARILLADO TOTAL
+0.76942 0.19235 0.00000 0.96177
 
-0.75433 0.18858 0.94292
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-II.- Medio.- Comprende la zona delimitada por las siguientes calles: Dr. Eduardo Álvarez, De la Cruz, Allende hasta la esquina con Guillermo Prieto, Nicolás Bravo, Zaragoza hasta la esquina con Av. Benito Juárez, Enrique Corona Morfín hasta la esquina con Fco. Javier Mina eje poniente, Galeana, Cuauhtémoc, se incluyen las Avenidas: Benito Juárez, Enrique Corona Morfin, María Ahumada de Gómez, Tecnológico, Blv. Rodolfo Chávez Carrillo, Avenidas Gral. Manuel Álvarez y J. Merced Cabrera y las Colonias Alfredo V. Bonfil II, Almendros I, II y III, Alta Villa, Azaleas, Cajita del Agua, Campestre I y II, Carlos de la Madrid Virgen, Colinas del Carmen, Condominios los Arcos, Condominios Diamante, El Centenario, El Cortijo, Floresta, Fraccionamiento San Miguel, Fraccionamiento Santa Cristina, Francisco Hernández Espinoza, Golondrinas, Gral. Manuel Álvarez, Gral. Manuel M. Diéguez, Hacienda del Centenario, Jardines de Bugambilias, Jardines de la Villa, Jardines del Llano, Jardines del Centenario, La Joya, Linda Vista, Liberación II, Loma Bonita, Loma Hermosa, Lomas de las Flores, Loma de la Higuera, Lomas del Centenario, Prados de la Villa, Primaveras, Ramón Serrano García, Real Bugambilias, Real del Centenario, Residencial Tabachines, Rinconada de la Hacienda, Rinconada del Centenario, San Agustín, San Isidro, Santa Cristina, Santa Teresa, Sección FOVISSSTE de Villa Izcalli, Senderos del Carmen, Senderos de Rancho Blanco, Villa de Alba, Villa Real, Villa San José, Villacarlo, Villas Adriana, Villas Bugambilias, Villas Colimán, Villas de Alameda, Villas del Centro, Villas de la Tuna, Villas de Oro, Villas del Río I, II y III, Villa Flores, Villas Providencia y Villas Rancho Blanco, (se exceptúan las avenidas: Gral. Manuel Álvarez, J. Merced Cabrera, hasta la esquina con Veracruz); Lomas de la Herradura, Lomas de La Villa, Villas del Palmar, Fraccionamiento Colinas del Sol, La Frontera, Fraccionamiento Bugambilias, Fraccionamiento Alfonso Rolón, Fraccionamiento Cruz de Cómala y Fraccionamiento El Ángel.
+II.- Medio.- Comprende la zona delimitada por las siguientes calles: Dr. Eduardo Álvarez, De la Cruz, Allende hasta la esquina con Guillermo Prieto, Nicolás Bravo, Zaragoza hasta la esquina con Av. Benito Juárez, Enrique Corona Morfín hasta la esquina con Fco. Javier Mina eje poniente, Galeana, Cuauhtémoc, se incluyen las Avenidas: Benito Juárez, Enrique Corona Morfin, María Ahumada de Gómez, Tecnológico, Blv. Rodolfo Chávez Carrillo, Avenidas Gral. Manuel Álvarez y J. Merced Cabrera y las Colonias Alfredo V. Bonfil II, Almendros I, II y III, Alta Villa, Azaleas, Cajita del Agua, Campestre I y II, Carlos de la Madrid Virgen, Colinas del Carmen, Condominios los Arcos, Condominios Diamante, El Centenario, El Cortijo, Floresta, Fraccionamiento San Miguel, Fraccionamiento Santa Cristina, Francisco Hernández Espinoza, Golondrinas, Gral. Manuel Álvarez, Gral. Manuel M. Diéguez, Hacienda del Centenario, Jardines de Bugambilias, Jardines de la Villa, Jardines del Llano, Jardines del Centenario, La Joya I y II, Linda Vista I, II y III, Liberación II, Loma Bonita, Loma Hermosa, Lomas de las Flores, Loma de la Higuera, Lomas del Centenario, Prados de la Villa, Primaveras, Ramón Serrano García, Real Bugambilias, Real del Centenario, Residencial Tabachines, Rinconada de la Hacienda, Rinconada del Centenario, San Agustín, San Isidro, Santa Cristina, Santa Teresa, Sección FOVISSSTE de Villa Izcalli, Senderos del Carmen, Senderos de Rancho Blanco, Villa de Alba, Villa Real, Villa San José, Villacarlo, Villas Adriana, Villas Bugambilias, Villas Colimán, Villas de Alameda, Villas del Centro, Villas de la Tuna, Villas de Oro, Villas del Río I, II y III, Villa Flores, Villas Providencia y Villas Rancho Blanco, (se exceptúan las avenidas: Gral. Manuel Álvarez, J. Merced Cabrera, hasta la esquina con Veracruz); Lomas de la Herradura, Lomas de La Villa, Villas del Palmar, Fraccionamiento Colinas del Sol, La Frontera, Fraccionamiento Bugambilias, Fraccionamiento Alfonso Rolón, Fraccionamiento Cruz de Cómala, Fraccionamiento El Ángel, Fraccionamiento Puerta de Hierro y Fraccionamiento Rancho Santo.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 CUOTA
 
-AGUA
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE ALCANTARILLADO TOTAL
-
-1.46695 0.36673 1.83368
+1.49629 0.37406 0.00000 1.87035
 
 III.- Residencial.- Comprende Residencial las Parotas y las casas de descanso localizadas en la zona rural.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 CUOTA
 
-AGUA
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE ALCANTARILLADO TOTAL
+2.11345 0.52842 0.00000 2.64187
 
-2.07201 0.51806 2.59007
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 10.
 
-El servicio de agua potable y alcantarillado para uso comercial, institucional y de servicios “sin medidor” en los Municipios de Colima y Villa de Álvarez, comprende los giros o actividades que se señalan en el artículo 4 y los usuarios de dichos servicios pagarán la siguiente cuota fija mensual:
+El servicio de agua potable, alcantarillado y saneamiento para uso comercial, institucional y de servicios "sin medidor" en los Municipios de Colima y Villa de Álvarez, comprende los giros o actividades que se señalan en el artículo 4 y los usuarios de dichos servicios pagarán la siguiente cuota fija mensual:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 CUOTA
 
-AGUA
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE ALCANTARILLADO TOTAL
-
-2.45158 0.61290 3.06448
+2.50061 0.62516 0.00000 3.12577
 
 Los usuarios a que se refiere este artículo cubrirán adicionalmente, el importe del IVA de conformidad con la Ley del Impuesto al Valor Agregado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 11.
 
-El servicio de agua potable y alcantarillado para uso industrial “sin medidor” en los Municipios de Colima y Villa de Álvarez comprende los giros o actividades señaladas en el artículo 5, segundo párrafo y los usuarios de dichos servicios pagarán la siguiente cuota fija mensual:
+El servicio de agua potable, alcantarillado y saneamiento para uso industrial "sin medidor" en los Municipios de Colima y Villa de Álvarez comprende los giros o actividades señaladas en el artículo 5, segundo párrafo y los usuarios de dichos servicios pagarán la siguiente cuota fija mensual:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 CUOTA
 
-AGUA
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE ALCANTARILLADO TOTAL
-
-2.45158 0.61290 3.06448
+2.50061 0.62516 0.00000 3.12577
 
 Los usuarios a que se refiere este artículo cubrirán adicionalmente, el importe del IVA de conformidad con la Ley del Impuesto al Valor Agregado.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 12.
 
-Por los servicios de agua potable y alcantarillado prestados a instituciones o dependencias públicas “sin medidor” en los municipios de Colima y Villa de Álvarez, se pagará la siguiente cuota fija mensual:
+Por los servicios de agua potable, alcantarillado y saneamiento prestados a instituciones o dependencias públicas "sin medidor" en los municipios de Colima y Villa de Álvarez, se pagará la siguiente cuota fija mensual:
 
 CUOTA
 
-AGUA
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO TOTAL
 
-POTABLE ALCANTARILLADO TOTAL
+0.84730 0.21182 0.00000 1.05913
 
-0.83069 0.20767 1.03836
-
-Quedan comprendidos en este artículo los bienes del dominio privado de la Federación, del Estado y de los Municipios, no así los inmuebles comprendidos en el artículo 115, fracción IV inciso c) de la Constitución Política de los Estados Unidos Mexicanos; lo anterior no exime a sus propietarios de la obligación de hacer un uso racional del agua y cumplir además las siguientes obligaciones:
-
-I.- Permitir la colocación de medidores ya sea de agua potable o de descargas de aguas residuales; y
-
-II.- Cumplir con las demás obligaciones diferentes a las de pago de derechos, previstas en la Ley de Aguas del Estado.
-
-En caso del incumplimiento a estas obligaciones serán sujetos de las sanciones en la referida Ley.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 13.
 
-Para los efectos de la clasificación de los usuarios en el servicio doméstico de agua potable y alcantarillado que se prevé en los capítulos segundo y tercero de esta Ley, se entiende por:
+Para los efectos de la clasificación de los usuarios en el servicio doméstico de agua potable, alcantarillado y saneamiento que se prevé en los capítulos segundo y tercero de esta Ley, se entiende por:
 
 I.- Vivienda de tipo popular 1.- Aquélla que está asentada en un terreno de hasta 90 metros cuadrados, con una superficie construida no mayor a 65 metros cuadrados.
 
@@ -353,9 +393,11 @@ Una vez desahogada la totalidad de las pruebas, el expediente se considera que s
 
 El Director General de “LA CIAPACOV” una vez integrado el expediente respectivo, deberá emitir resolución debidamente fundada y motivada en un plazo no mayor a 30 días hábiles, transcurrido dicho plazo, se considera que existe resolución negativa, caso éste que será optativo para el particular de acudir al Tribunal Contencioso Administrativo o esperar a que se le notifique resolución expresa.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO CUARTO
 
-DISPOSICIONES COMPLEMENTARIAS EN MATERIA DE DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE AGUA POTABLE y ALCANTARILLADO.
+DISPOSICIONES COMPLEMENTARIAS EN MATERIA DE DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO.
 
 ###### ARTÍCULO 15.
 
@@ -365,33 +407,31 @@ Cuando se solicite la instalación de tomas de agua potable o de conexión a la 
 
 Al aplicar las tarifas contenidas en los capítulos segundo y tercero de esta Ley, cuando el consumo se ubique dentro del rango mínimo, se cobrará la cuota que corresponda a dicho rango; al rebasar éste, el importe a pagar se obtendrá de aplicar la cuota correspondiente al rango de consumo multiplicado por la cantidad de metros cúbicos consumidos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 17.
 
-A los predios que cuenten con fuente de abastecimiento de agua propia, “LA CIAPACOV” les instalará un dispositivo de medición de descarga de drenaje y en caso de no contar con esta medición, deberán pagar por el servicio de alcantarillado, el equivalente al 30 por ciento del importe de los consumos de agua de su fuente de abastecimiento, de acuerdo a la tarifa que corresponda según la clasificación del uso, debiendo observar además las siguientes disposiciones:
+A los predios que cuenten con fuente de abastecimiento de agua propia, "LA CIAPACOV" les instalará un dispositivo de medición de descarga de drenaje, siendo por cuenta del usuario el costo de los dispositivos de medición requeridos; así como el mantenimiento y la reposición de los mismos, debiendo pagar los derechos de alcantarillado y saneamiento, de conformidad con las siguientes tarifas:
+
+(VEASE ARCHIVO ANEXO)
+
+En caso de no contar con medición de descarga, deberán pagar por el servicio de alcantarillado y saneamiento, el equivalente al 60 por ciento del volumen mensual correspondiente a la ultima declaración del pago relativo a los derechos por el uso o aprovechamiento de aguas nacionales que se notifican a la Comisión Nacional del Agua en cumplimiento a la ley Federal de Derechos, de acuerdo a la tarifa de descarga que corresponda según la clasificación del uso, debiendo observar además las siguientes disposiciones:
 
 I.- La calidad del agua que se descargue al sistema de alcantarillado o drenaje, deberá cumplir con lo establecido en las normas y reglamentos vigentes referentes a los límites máximos permisibles para descargas en los sistemas de alcantarillado, así como las condiciones particulares de descargas que se tengan;
 
-II.- En el caso de descargas que contengan desechos tales como lodos, ácidos, grasas, substancias químicas y de cualquier otra clase que puedan perjudicar las instalaciones del servicio, se pagarán además, las cuotas establecidas para las descargas contaminantes, las cuales se determinarán en función de las descargas contaminantes por Demanda Bioquímica de Oxígeno (DBO5) y Demanda Química de Oxígeno (DQO) en función del tiempo que excedan sus límites de descarga al sistema de drenaje, de conformidad con la siguiente tarifa:
+II.- En el caso de descargas que contengan desechos tales como Iodos, ácidos, grasas, substancias químicas y de cualquier otra clase que puedan perjudicar las instalaciones del servicio, pagarán además de la tarifa ordinaria, la cuota especial prevista en el presente artículo; para compensar los costos determinados por "LA CIAPACOV", por kilogramo de los excedentes de los contaminantes, las cuales se determinarán en función de las descargas por Demanda Bioquímica de Oxígeno (DB05), Demanda Química de Oxígeno (DQO), pH (Potencial Hidrógeno), Grasas y Aceites y Sólidas (sic) Suspendidos Totales; en función del tiempo que excedan sus límites de descarga al sistema de drenaje, de conformidad con la siguiente tarifa:
 
-Parámetro Límite de Diseño de Cuotas por kilogramo excedentes de acuerdo al tiempo Operación de planta de de permanencia de la descarga
+(VEASE ARCHIVO ANEXO)
 
-Aguas Residuales ($/kg)
+La tarifa anterior dejará de aplicarse cuando el usuario demuestre a "LA CIAPACOV" que ha corregido la calidad de sus descargas y volverá a aplicarse cuando se detecte que ha vuelto a exceder los límites de los parámetros establecidos, en cuyo caso el costo a repercutir será calculado desde la fecha en que se inician las primeras descargas.
 
-(mg/l) (Meses)
+Los estudios de laboratorio que se requieran para determinar los contaminantes de las descargas serán por cuenta del usuario y se realizarán durante el tiempo que se requiera en un laboratorio acreditado y certificado que apruebe "LA CIAPACOV".
 
-0-3 4-6 7-12 3-24
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-(Salarios Mínimos)
+ARTÍCULO 17 BIS.- La aplicación de las cuotas y tarifas contenidas en las tablas anteriores, quedará sujeta a las siguientes bases generales:
 
-DBO5
-
-DQO 0.020 0.040 0.122 0.418
-
-0.010 0.040 0.092 0.387
-
-La aplicación de las cuotas y tarifas de la tabla anterior, quedará sujeta a las siguientes bases generales:
-
-a).-Aguas Negras Crudas:
+a).- Aguas Negras Crudas:
 
 1.- Aplicable al suministro de aguas negras crudas, procedente del sistema de drenaje, en el estado natural, conteniendo agua y residuos orgánicos e inorgánicos, para su tratamiento y reutilización.
 
@@ -399,19 +439,27 @@ a).-Aguas Negras Crudas:
 
 3.- De acuerdo a la demanda requerida por el usuario, se fijará un mínimo de consumo para efectos de cobro equivalente al 10 por ciento de la demanda contratada.
 
-4.- El usuario estará obligado a cumplir con las normas que establece la ley de la materia. Independientemente de las normas y condiciones particulares que establezca “LA CIAPACOV”.
+4.- El usuario estará obligado a cumplir con las normas que establece la ley de la materia. Independientemente de las normas y condiciones particulares que establezca "LA CIAPACOV".
 
-b).- Descargas al Drenaje Sanitario:
+b).- Aguas Negras Tratadas:
 
-1.- Aplicable a todos aquellos usuarios que utilicen el servicio de drenaje para el desalojo de volúmenes de agua provenientes de otras fuentes de abastecimiento, independientemente del agua potable de “LA CIAPACOV”.
+1.- Aplicable al suministro de agua residual tratada, para su rehúso en procesos industriales, riego de áreas verdes y otros usos, proporcionada por "LA CIAPACOV" en el sitio donde se ubica la planta de tratamiento de aguas residuales.
 
-c).- Descargas Contaminantes:
+2.- Para efectos de facturación, se cobrara 0.22 por metro cúbico.
 
-1.- Aplicable a los usuarios cuyas descargas a los colectores, provenientes de la industria, actividades agroindustriales, de servicios, comercios y plantas de tratamiento de aguas residuales, excedan los límites de los parámetros establecidos de DBO5 y DQO (Demanda bioquímica de oxígeno y demanda química de oxígeno).
+3.- De acuerdo a la demanda requerida por el usuario, se fijará un mínimo de consumo para efectos de facturación, por el equivalente al 10 por ciento de la demanda requerida.
 
-2.- En el supuesto anterior, se aplicará a los usuarios además de la tarifa ordinaria, la cuota especial prevista en la fracción III de este artículo; para compensar los costos determinados por “LA CIAPACOV”, por kilogramo de los excedentes de DBO5 Y DQO, que será fijada en función del tiempo en que la calidad de las descargas excedan los límites de los parámetros indicados.
+4.- Será responsabilidad del usuario utilizar el agua residual tratada que se le suministre únicamente para uso industrial, riego de áreas verdes y otros usos que no requieran del agua potable.
 
-3.- La tarifa dejará de aplicarse cuando el usuario demuestre a “LA CIAPACOV” que ha corregido la calidad de sus descargas y volverá a aplicarse cuando se detecte que ha vuelto a exceder los límites de los parámetros en cuyo caso el costo a repercutir será calculado desde la fecha en que se inician las primeras descargas.
+5.- El usuario estará obligado a cumplir con las normas que establece la Ley independientemente de las normas y condiciones que se establezcan en los contratos de suministros que se celebren con "LA CIAPACOV".
+
+c).- Descargas al Drenaje Sanitario:
+
+1.- Aplicable a todos aquellos usuarios que utilicen el servicio de drenaje para el desalojo de volúmenes de agua provenientes de otras fuentes de abastecimiento, independientemente del agua potable de "LA CIAPACOV".
+
+d).- Descargas Contaminantes:
+
+1.- Aplicable a los usuarios cuyas descargas a los colectores, provenientes de la industria, actividades agroindustriales, de servicios, comercios y plantas de tratamiento de aguas residuales, excedan los límites de los parámetros establecidos en la fracción II del artículo 17 y que interfieran en el proceso de tratamiento de aguas residuales que efectúa "LA CIAPACOV".
 
 ### CAPÍTULO QUINTO. DE LAS CUOTAS Y TARIFAS POR LA CONEXIÓN A LA RED DE AGUA POTABLE
 
@@ -423,23 +471,37 @@ I.- Entronque Individual:
 
 a). Por el derecho de conexión a la red de agua potable tratándose de tomas de media pulgada de diámetro, las siguientes cuotas:
 
-Uso doméstico popular 6.59116
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-Uso doméstico medio y residencial 13.83947
+a.1) Uso doméstico popular 6.72298
 
-Uso comercial 21.93814
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+a.2) Uso doméstico medio y residencial 14.11626
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+a.3) Uso comercial 22.37690
 
 b). Por el derecho de conexión a la red de agua potable, tratándose de toma mayor de media pulgada de diámetro, las siguientes cuotas:
 
-De tres cuartos de pulgadas 39.74595
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-De una pulgada 70.80897
+b.1) De tres cuartos de pulgadas 40.54087
 
-De una pulgada y media 159.30891
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b.2) De una pulgada 72.22515
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b.3) De una pulgada y media 162.49509
 
 En el pago de los derechos previstos en los incisos a) y b) de esta fracción, no se incluye la conexión física de la obra, por lo que, el costo de los materiales y los derechos que se causen por la mano de obra, serán por cuenta del interesado.
 
 c).- Por la mano de obra en la instalación de tomas de Agua Potable, se cubrirán las siguientes cuotas:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 Tipo de calle en que se Importe
 
@@ -447,11 +509,11 @@ ubica el predio del
 
 solicitante
 
-Empedrado 13.74807
+Empedrado 14.02303
 
-Asfalto 28.05494
+Asfalto 28.61604
 
-Concreto Hidráulico 32.51500
+Concreto Hidráulico 33.16530
 
 II.- Entronque Colectivo.- En el caso del pago por el derecho de entronque Colectivo a la red de agua potable para abastecer a un fraccionamiento, predio, desarrollo comercial, industrial o habitacional, se aplicará lo siguiente:
 
@@ -459,7 +521,9 @@ a).- Tratándose de fraccionamientos que cuenten con fuente de abastecimiento pr
 
 Una vez que se hayan cumplido las condiciones y pagados los derechos correspondientes, el concesionario hará el traslado de la concesión a “LA CIAPACOV”, mediante acta de entrega recepción.
 
-b). Si el solicitante no cuenta con fuente de abasto, además de los gastos de entronque, pagará en una sola exhibición por concepto de derechos, la cuota de 2,579.83314, por cada litro por segundo de agua potable que requiera como gasto medio anual, sobre la base del proyecto autorizado del desarrollo en cuestión.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b). Si el solicitante no cuenta con fuente de abasto, además de los gastos de entronque, pagará en una sola exhibición por concepto de derechos, la cuota de 2,631.42980, por cada litro por segundo de agua potable que requiera como gasto medio anual, sobre la base del proyecto autorizado del desarrollo en cuestión.
 
 III.- Entronque de viviendas de interés social y popular.
 
@@ -525,17 +589,29 @@ I.- Entronque individual.
 
 a).- Por el derecho de conexión a la red de drenaje o alcantarillado, tratándose de descargas de seis pulgadas de diámetro, se pagarán las siguientes cuotas:
 
-Uso doméstico popular 3.55300
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-Uso doméstico medio y residencial 7.45772
+1.- Uso doméstico popular 3.62406
 
-Uso comercial 23.63539
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+2. -Uso doméstico medio
+
+y residencial 7.60687
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+3. -Uso comercial 24.10810
 
 b).- Tratándose de descargas de ocho a diez pulgadas de diámetro, se pagarán las siguientes cuotas:
 
-Uso comercial 70.87492
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-Uso industrial 94.49989
+1.- Uso comercial 72.29242
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+2.- Uso industrial 96.38989
 
 En este caso se deberá recabar la factibilidad técnica de “LA CIAPACOV”, independientemente de cumplir con lo establecido en la Norma Oficial Mexicana NOM-02-ECOL-1996 que establece los límites máximos permisibles de contaminantes en las descargas de aguas residuales a los sistemas de alcantarillado urbano o municipal.
 
@@ -543,17 +619,23 @@ En el pago de los derechos previstos en los incisos a) y b) de esta fracción, n
 
 c).-Por la mano de obra en la conexión a la red de drenaje y alcantarillado, se pagarán las siguientes cuotas:
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 Tipo de calle en que se Importe
 
-ubica el predio del solicitante
+ubica el predio del
 
-Empedrado 13.60692
+solicitante
 
-Asfalto 27.74257
+Empedrado 13.87906
 
-Concreto Hidráulico 27.61993
+Asfalto 28.29742
 
-II.- Entronque colectivo.- Por conexión colectiva a la red de drenaje se cobrará en una sola exhibición la cuota de 644.95828, por cada litro por segundo de agua potable que requieran como gasto medio anual, sobre la base del proyecto autorizado del desarrollo de que se trate.
+Concreto Hidráulico 28.17233
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II.- Entronque colectivo.- Por conexión colectiva a la red de drenaje se cobrará en una sola exhibición la cuota de 921.00043, por cada litro por segundo de agua potable que requieran como gasto medio anual, sobre la base del proyecto autorizado del desarrollo de que se trate.
 
 III.- Entronque de vivienda de interés social y popular.
 
@@ -575,37 +657,21 @@ Dichas obras se integrarán al patrimonio de “LA CIAPACOV”, una vez que est�
 
 “LA CIAPACOV” realizará la supervisión de la construcción de las redes de drenaje, por medio de personal que comisione al efecto, debiendo pagar el promotor por este servicio el 2 por ciento del costo de la obra supervisada.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 29.
 
-Los usuarios de los servicios de descargas de aguas residuales derivadas de servicios sanitarios portátiles, limpieza de fosas sépticas y fosas desgrasadoras, pagarán por descargar sus desechos, los derechos previstos en la siguiente tarifa:
+Los usuarios de los servicios de descargas de aguas residuales derivadas de servicios sanitarios portátiles, limpieza de fosas sépticas y fosas desgrasadoras, pagarán por descargar y saneamiento de sus desechos, los derechos previstos en la siguiente tarifa:
 
-TIPO DE DESCARGA CUOTA POR METRO CÚBICO
+(VEASE ARCHIVO ANEXO)
 
-Aguas de sanitarios portátiles
-
-(excretas humanas) 0.37700
-
-Aguas de fosas sépticas
-
-(mezcla de residuos domésticos e
-
-industriales no peligrosos) 0.38700
-
-Aguas con grasas orgánicas
-
-(de origen animal y vegetal provenientes de
-
-fosas desgrasadoras de restaurantes
-
-y giros similares) 1.60100
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 30.
 
-Por el traslado y descarga de los residuos a que se refiere el artículo anterior, los solicitantes deberán pagar un derecho de: 245.94149
+Las empresas dedicadas a la renta de sanitarios portátiles, limpieza de fosas sépticas y fosas desgrasadoras, deberán de presentar a "LA CIAPACOV" el registro y permiso vigente de la autoridad competente, las cuales estarán obligadas a descargar las aguas residuales recolectadas en el punto determinado por "LA CIAPACOV" dentro de la zona conurbada Colima-Villa de Álvarez.
 
-Las empresas dedicadas a la renta de sanitarios portátiles, limpieza de fosas sépticas y fosas desgrasadoras, deberán de presentar a “LA CIAPACOV” el registro y permiso vigente de la autoridad competente, las cuales estarán obligadas a descargar las aguas residuales recolectadas en el punto determinado por “LA CIAPACOV” dentro de la zona conurbada Colima-Villa de Álvarez.
-
-Las empresas a que se refiere este artículo estarán obligadas a que sus descargas cumplan con las disposiciones legales aplicables, así como los parámetros más estrictos, condiciones, restricciones y demás estipulaciones que en razón de los tipos y características de las aguas residuales, “LA CIAPACOV” establezca en forma general, pudiéndose realizar por ésta los muestreos y análisis en las aguas residuales a descargar que resulten necesarios, para vigilar el cumplimiento de las disposiciones legales, cuyo costo será con cargo a la empresa. Se rechazarán las descargas que no cuenten con los requisitos mencionados en este artículo.
+Las empresas a que se refiere este artículo estarán obligadas a que sus descargas cumplan con las disposiciones legales aplicables, así como los parámetros más estrictos, condiciones, restricciones y demás estipulaciones que en razón de los tipos y características de las aguas residuales, "LA CIAPACOV" establezca en forma general, pudiéndose realizar por ésta los muestreos y análisis en las aguas residuales a descargar que resulten necesarios, para vigilar el cumplimiento de las disposiciones legales, cuyo costo será con cargo a la empresa. Se rechazarán las descargas que no cuenten con los requisitos mencionados en este artículo.
 
 ### CAPÍTULO SÉPTIMO. DE LOS SERVICIOS EN EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO
 
@@ -653,11 +719,17 @@ III.- Tratándose de tomas de agua clandestinas a que se refiere la fracción V 
 
 Los propietarios o poseedores de predios en cuyo frente se encuentre instalada la infraestructura urbana de las redes de agua potable y drenaje, aún cuando no dispongan del servicio deberán pagar por el derecho de mantenimiento de redes, las siguientes cuotas fijas:
 
-Mantenimiento de redes en zona doméstico popular 0.68839
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-Mantenimiento de redes en zona doméstico medio 0.98341
+Mantenimiento de redes en zona doméstico popular 0.70216
 
-Mantenimiento de redes en zona residencial 1.27988
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006) (F. DE E., P.O. 3 DE MARZO DE 2007)
+
+Mantenimiento de redes en zona doméstico medio 1.00315
+
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006) (F. DE E., P.O. 3 DE MARZO DE 2007)
+
+Mantenimiento de redes en zona residencial 1.30546
 
 ### CAPÍTULO DECIMO. DE LOS DESCUENTOS Y BENEFICIOS EN EL PAGO DE LOS DERECHOS
 
@@ -665,31 +737,65 @@ Mantenimiento de redes en zona residencial 1.27988
 
 Por la prestación de otros servicios se pagarán las siguientes de (sic) cuotas:
 
-I.- Por expedición de constancias de no adeudo. 1.00000
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-II.- Por limpieza y sondeo de descargas domiciliarias
+I.- Por expedición de constancias de no adeudo 1.02000
 
-en forma manual con roto zonda 10.20000
+II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
 
-III.- Limpieza de fosas sépticas con equipo, se cobrará
+III.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
 
-por cada metro cúbico de material extraído 30.60000
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-sin que el mínimo a pagar sea menor al que se cause
+IV.- Por expedición de constancia de factibilidad de servicio de agua potable y alcantarillado 5.00000
 
-por un metro cúbico.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-IV.- Por expedición de constancia de factibilidad de servicio de agua
+V.- Por viaje de agua en pipa en zonas urbanas 11.00000
 
-potable y alcantarillado. 5.00000
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-V.- Por viaje de agua en pipa en zonas urbanas. 11.00000
+VI.- Por instalación y derecho de uso de medidor. 10.20000
 
-VI.- Por instalación y derecho de uso de medidor. 10.00000
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 VII.- Por inspección de nuevas contrataciones 2.00000
 
-VIII.- Por reconexión de servicio de agua. 4.00000
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VIII.- Por reconexión de servicio de agua 4.08000
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+IX.- Por reubicación de medidor 12.00000
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+X.- Por instalación de cuadro 6.00000
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XI.- Por instalación de válvula 2.00000
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XII.- Por revisión de fugas en interiores 4.00000
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XIII.- Por expedición de constancia de descarga de aguas residuales 3.00000
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XIV. - Por cambio de propietario 2.00000
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XV.- Por emisión de estado de cuenta. 0.20000
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XVI.- Por cancelación provisional del servicio de agua potable en predios baldíos. 6.00000
 
 ###### ARTÍCULO 36.
 
@@ -711,11 +817,19 @@ El cálculo se hará con base en el promedio de los consumos registrados durante
 
 En caso de que el consumo medido exceda al estimado, se facturará la diferencia de acuerdo a la tarifa que le corresponda, debiendo pagar el usuario el importe dentro del plazo que se especifique en el estado de cuenta que se emita para el efecto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 38.
 
-Los pensionados, jubilados, adultos mayores y personas con capacidades diferentes, obtendrán un descuento del 50 por ciento en el pago bimestral o anual adelantado o puntual, de los servicios de agua potable y alcantarillado, siempre y cuando sus consumos sean menores a 20 metros cúbicos mensuales.
+los pensionados, jubilados, adultos mayores y personas con capacidades diferentes, obtendrán un descuento del 50 por ciento en el pago bimestral o anual adelantado o puntual, de los servicios de agua potable y alcantarillado, siempre y cuando sus consumos sean hasta 20 metros cúbicos mensuales.
 
-Obtendrán un descuento del 30 por ciento en el pago bimestral o anual adelantado de los servicios de agua potable y alcantarillado, si los consumos rebasan los 20 metros cúbicos mensuales.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Obtendrán un descuento del 30 por ciento en el pago bimestral o anual adelantado de los servicios de agua potable y alcantarillado, si los consumos rebasan los 20 metros cúbicos mensuales y no excedan de 50 metros cúbicos mensuales.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Los usuarios a que se refiere este artículo que excedan los 50 metros cúbicos, pagarán la tarifa al 100 por ciento.
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
 
@@ -725,13 +839,25 @@ I. Que se encuentren al corriente en el pago de los derechos establecidos en la 
 
 II. Presentar la credencial de elector y entregar copia de ésta.
 
-III. En el caso de pensionados y jubilados, presentar: original y copia del talón o recibo de ingreso de la pensión o jubilación que recibe, expedido por institución oficial mexicana.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III. En el caso de pensionados y jubilados, presentar: credencial o documento que lo acredite u original y copia del talón o recibo de ingresos vigente que percibe por su pensión o jubilación, expedidos por institución oficial mexicana.
 
 IV. En el caso de personas con capacidades diferentes, presentar la credencial del Instituto Colimense de la Discapacidad.
 
-V. Que el domicilio del predio sea el mismo que se asienta en su credencial de elector.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+V. Que el domicilio del predio sea el mismo que se asienta en su credencial de elector o carta de residencia actualizada, expedida por la autoridad municipal competente.
 
 VI. Acompañar copia de la cédula de la Clave Única del Registro de Población.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VII. En caso de que el usuario sujeto al beneficio establecido en este artículo, realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado, que concede esta Ley en su artículo 37.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VIII. En caso de personas menores de edad con capacidades diferentes, deberán presentar aparte de lo señalado en los incisos anteriores, acta de nacimiento, acompañada de copia de la credencial de elector de cualquiera de los padres o tutores.
 
 En caso de que el usuario sujeto al beneficio establecido en este artículo, realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado, que concede esta Ley en su artículo 37.
 
@@ -770,6 +896,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 4 DE ABRIL DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero de 2007, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el Ejercicio Fiscal 2007 en ningún caso el incremento será superior al 6% en relación a las cuotas cobradas en el 2006, por lo que se faculta al Titular del organismo operador a realizar los ajustes correspondientes para el cumplimiento de esta disposición.
 
 ###### ARTICULO UNICO.
 
