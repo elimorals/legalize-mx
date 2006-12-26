@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48153"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2006-04-04"
+last_updated: "2006-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERIA, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -67,13 +67,17 @@ Por el servicio doméstico de agua potable, alcantarillado y saneamiento se paga
 
 I.- REGIMEN DE CUOTA FIJA:
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 a).- Popular Habitacional Unifamiliar; comprende las comunidades de Los Reyes, Augusto Gómez Villanueva, Flor de Coco, Periquillos y El Puertecito:
 
 AGUA ALCANTARILLADO SANEAMIENTO TOTAL
 
 POTABLE
 
-2.694 0.943 0.404 4.041
+2.748 0.962 0.412 4.122
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 b).- Popular Habitacional Unifamiliar; comprende la Cabecera Municipal y las comunidades de Rincón de López, Cofradía de Juárez, Cuyutlán y El Paraíso:
 
@@ -81,7 +85,19 @@ AGUA ALCANTARILLADO SANEAMIENTO TOTAL
 
 POTABLE
 
-2.784 0.974 0.418 4.176
+2.840 0.993 0.426 4.259
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c).- Popular: Casas abandonadas y lotes solos:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+2.281 0.799 0.342 3.422
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 II.- REGIMEN DE SERVICIO MEDIDO:
 
@@ -103,31 +119,519 @@ Por el servicio comercial de agua potable, alcantarillado y saneamiento se pagar
 
 I.- REGIMEN DE CUOTA FIJA:
 
-a).- Los Comercios que a continuación se mencionan se describen como "Comercial Bajo
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-Consumo" y pagaran la cuota de:
+a).- Los Comercios que a continuación se mencionan se describen como “Comercial Bajo Consumo” y pagaran la cuota de:
 
 AGUA ALCANTARILLADO SANEAMIENTO TOTAL
 
 POTABLE
 
-3.374 1.181 0.506 5.061
+3.441 1.205 0.516 5.162
 
 Abarrotes con venta de bebidas alcohólicas, agencia de viajes, almacenes de ropa, boutiques, bufetes, consultorios, despachos, oficinas, carpinterías en pequeño, cerrajerías, venta de dulces, editoriales y/o venta de libros, venta de periódicos y/o revistas, estacionamientos, estanquillos, farmacias, ferreterías en pequeño, florerías, foto estudios, funerarias, fabricación y/o venta de huaraches, imprentas, jugueterías, licorerías, venta de material para construcción, mini súper, misceláneas, mueblerías, panaderías (industria y expendio), papelerías, pastelerías, peluquerías, laminado y pintura de vehículos, expendio de pinturas, refaccionarías, relojerías, reparación de aparatos electrodomésticos, reparación de llantas, sastrerías, servicio de transporte y/o flete (sin lavado), fábrica y/o venta de sombreros, tapicerías, taquerías, talleres, venta de telas, templos, tiendas de regalos, tiendas naturistas, tiendas de semillas y cereales, tlapalerías, alquiler de videocasetes, videojuegos, vidrierías y zapaterías.
 
-b).- Los Comercios que a continuación se mencionan se describen como "Comercial Consumo Medio" y pagaran la cuota de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b).- Los Comercios que a continuación se mencionan se describen como “Comercial Consumo Medio” y pagaran la cuota de:
 
 AGUA ALCANTARILLADO SANEAMIENTO TOTAL
 
 POTABLE
 
-4.667 1.633 0.700 7.001
+4.760 1.666 0.714 7.140
 
 Academias y escuelas, alquiler de loza, muebles y/o manteles, agencia de autos, bares, salones de belleza, billares, bodega de frutas y verduras, bodega de almacenamiento, carnicerías, carpinterías en mayor escala, cenadurías, clubes sociales sin restaurante, estacionamiento con caseta de cobro, fábrica de dulces, ferreterías con oficinas, fonda y/o cocina económicas (sic), lavado de muebles, neverías, paleterías, salas de velación, servicios auxiliares de diagnóstico, servicio de taxis, talleres de artesanías o herrería, tenerías o curtidoras, tiendas de autoservicio y vulcanizadoras de llantas.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 c).- Los Comercios que a continuación se mencionan se describen como "Comercial Consumo Alto" y pagarán la cuota asignada de acuerdo a su giro:
 
-(VEASE ARCHIVO ANEXO)
+1.- Casa de huéspedes hasta 5 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+3.911 1.369 0.587 5.867
+
+2.- Casa de huéspedes hasta 10 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+5.678 1.987 0.852 8.517
+
+3.- Casa de huéspedes con más de 10 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+7.520 2.633 1.128 11.281
+
+4.- Centros botaneros:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+24.442 8.555 3.666 36.663
+
+5.- Clínicas, hospitales o sanatorios hasta 3 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+5.678 1.987 0.852 8.517
+
+6.- Clínicas, hospitales o sanatorios hasta 6 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+6.844 2.396 1.027 10.267
+
+7.- Clínicas, hospitales o sanatorios más de 6 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+8.088 2.831 1.213 12.132
+
+8.- Cines, plaza de toros o palenque de gallos:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+8.115 2.841 1.217 12.173
+
+9.- Discotecas o salón de fiesta:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+14.893 5.212 2.234 22.339
+
+10.- Fábrica de materiales para construcción, excepto ladrilleras:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+7.724 2.704 1.159 11.587
+
+11.- Gasolineras sin servicio de lavado:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+14.666 5.133 2.200 21.999
+
+12.- Gasolineras con servicio de lavado:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+21.998 7.699 3.300 32.997
+
+13.- Hoteles sin servicio de restaurante y alberca hasta 5 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+11.750 4.113 1.763 17.626
+
+14.- Hoteles sin servicio de restaurante y alberca hasta 10 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+14.259 4.991 2.139 21.389
+
+15.- Hoteles sin servicio de restaurante y alberca más de 10 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+16.930 5.925 2.540 25.395
+
+16.- Hoteles con servicio de restaurante hasta 5 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+13.161 4.606 1.974 19.741
+
+17.- Hoteles con servicio de restaurante hasta 10 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+15.969 5.590 2.395 23.954
+
+18.- Hoteles con servicio de restaurante más de 10 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+21.796 7.629 3.269 32.694
+
+19.- Hoteles con servicio de restaurante y alberca hasta 5 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+16.250 5.688 2.438 24.376
+
+20.- Hoteles con servicio de restaurante y alberca hasta 10 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+19.663 6.882 2.950 29.495
+
+21.- Hoteles con servicio de restaurante y alberca hasta 15 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+23.792 8.327 3.569 35.688
+
+22.- Hoteles con servicio de restaurante y alberca más de 15 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+43.880 15.358 6.582 65.820
+
+23.- Moteles hasta 4 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+13.548 4.742 2.032 20.322
+
+24.- Moteles hasta 8 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+6.191 2.168 0.929 9.288
+
+25.- Moteles con más de 8 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+22.296 7.804 3.345 33.445
+
+26.- Haciendas:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+3.441 1.205 0.516 5.162
+
+27.- Empaque de frutas:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+15.839 5.544 2.376 23.759
+
+28.- Armadoras de rejas:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+7.170 2.509 1.075 10.754
+
+29.- Peladeros de coco y/o extracción de pulpa hasta 3 parejas:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+3.444 1.206 0.516 5.166
+
+30.- Peladeros de coco y/o extracción de pulpa hasta 6 parejas:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+6.887 2.410 1.033 10.330
+
+31.- Peladeros de coco y/o extracción de pulpa hasta 9 parejas:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+10.331 3.616 1.549 15.496
+
+32.- Peladeros de coco y/o extracción de pulpa más de 9 parejas:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+13.909 4.868 2.086 20.863
+
+33.- Lavado de carros hasta 2 llaves:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+19.815 6.935 2.972 29.722
+
+34.- Lavado de carros hasta 4 llaves:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+26.072 9.125 3.911 39.108
+
+35.- Lavado de carros más de 4 llaves:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+36.649 12.828 5.498 54.975
+
+36.- Lavanderías automáticas hasta 3 máquinas:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+4.561 1.596 0.684 6.841
+
+37.- Lavanderías automáticas hasta 6 máquinas:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+7.170 2.509 1.075 10.754
+
+38.- Lavanderías automáticas más de 6 máquinas:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+16.026 5.609 2.404 24.039
+
+39.- Molino de nixtamal:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+5.678 1.987 0.852 8.517
+
+40.- Restaurante sin alberca:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+8.148 2.852 1.222 12.222
+
+41.- Restaurante con alberca:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+14.809 5.184 2.222 22.215
+
+42.- Ranchos, exclusivo para uso doméstico:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+3.441 1.205 0.516 5.162
+
+43.- Tortillerías sin molino, con una máquina:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+5.677 1.987 0.852 8.516
+
+44.- Tortillerías sin molino, con más de una máquina:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+10.319 3.612 1.548 15.479
+
+45.- Tortillerías con molino, con una máquina:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+10.331 3.616 1.549 15.496
+
+46.- Tortillerías con molino, con más de una máquina:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+18.778 6.573 2.817 28.168
+
+47.- Vecindades hasta 3 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+6.322 2.212 0.949 9.483
+
+48.- Vecindades hasta 6 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+8.800 3.079 1.320 13.199
+
+49.- Vecindades hasta 9 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+10.648 3.727 1.597 15.972
+
+50.- Vecindades hasta más de 9 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+19.153 6.703 2.873 28.729
+
+51.- Internados, conventos o similares hasta 3 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+3.161 1.107 0.474 4.742
+
+52.- Internados, conventos o similares hasta 6 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+4.399 1.540 0.660 6.599
+
+53.- Internados, conventos o similares hasta 9 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+5.323 1.864 0.799 7.986
+
+54.- Internados, conventos o similares con más de 9 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+7.582 2.654 1.137 11.373
+
+55.- Viveros (por metro cuadrado de superficie):
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+0.035 0.012 0.005 0.052
+
+56.- Bungalow hasta 3 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+3.911 1.369 0.587 5.867
+
+57.- Bungalow hasta 6 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+5.678 1.987 0.853 8.518
+
+58.- Bungalow con más de 6 habitaciones:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+7.518 2.632 1.128 11.278
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+d).- Edificios públicos, que comprenden las dependencias públicas del gobierno federal, estatal o municipal, con las excepciones previstas en (sic) Ley, tendrán la cuota siguiente:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+6.844 2.396 1.027 10.267
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+e).- Instituciones de beneficencia pública y/o social, mismas que comprenden a los hospitales públicos, asilos, protección civil, club de leones, bomberos, centros comunitarios o de recreación:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+2.119 0.742 0.318 3.179
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 II.- REGIMEN DE SERVICIO MEDIDO:
 
@@ -149,9 +653,99 @@ Por el Servicio Industrial de agua potable, alcantarillado y saneamiento se paga
 
 I.- REGIMEN DE CUOTA FIJA:
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 a).- Las industrias que a continuación se mencionan pagarán la cuota asignada de acuerdo a su giro:
 
-(VEASE ARCHIVO ANEXO)
+1.- Embotelladora de agua:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+12.974 4.541 1.946 19.461
+
+2.- Fábrica de hielo:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+59.705 20.897 8.956 89.558
+
+3.- Comercializadora de coco:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+44.950 15.732 6.742 67.424
+
+4.- Comercializadoras en general:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+44.950 15.732 6.742 67.424
+
+5.- Procesadoras de limón y/o agroindustrias:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+44.950 15.732 6.742 67.424
+
+6.- Purificadora de agua:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+44.950 15.732 6.742 67.424
+
+7.- Purificadora de agua con venta al público:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+54.691 19.142 8.204 82.037
+
+8.- Industrias procesadoras de carbón:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+44.950 15.732 6.742 67.424
+
+9.- Ladrilleras hasta 3 hornos:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+19.293 6.752 2.894 28.939
+
+10.- Ladrilleras hasta 6 hornos:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+24.442 8.555 3.666 36.663
+
+11.- Ladrilleras con más de 6 hornos:
+
+AGUA ALCANTARILLADO SANEAMIENTO TOTAL
+
+POTABLE
+
+43.569 15.249 6.535 65.353
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 II.- REGIMEN DE SERVICIO MEDIDO:
 
@@ -187,7 +781,9 @@ b).- Refiriéndose del servicio medido, cuando en un mismo predio se localice un
 
 Por el servicio de agua potable destinado para otros usos se pagara la cuota siguiente:
 
-I.- Metro cúbico de agua vendida a pipas particulares: 1.362
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+I.- Metro cúbico de agua vendida a pipas particulares: 1.389
 
 ###### ARTICULO 11.
 
@@ -195,23 +791,39 @@ Los usuarios de los servicios de agua potable, pagarán los derechos por la cone
 
 I.- Contratación individual tratándose de tomas de media pulgada de diámetro:
 
-a).- Uso doméstico: 7.393
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b).- Uso comercial “consumo bajo”: 14.838
+a).- Uso doméstico: 7.541
 
-c).- Uso comercial “consumo medio”: 31.472
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-d).- Uso comercial “consumo alto”: 50.851
+b).- Uso comercial “consumo bajo”: 15.135
 
-e).- Uso industrial: 84.415
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c).- Uso comercial “consumo medio”: 32.101
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+d).- Uso comercial “consumo alto”: 51.868
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+e).- Uso industrial: 86.103
 
 II.- Contratación individual tratándose de tomas de más de media pulgada de diámetro:
 
-a).- tres cuartos de pulgada 82.366
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b).- una pulgada 152.110
+a).- Tres cuartos de pulgada 84.013
 
-c).- una pulgada y media 340.581
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b).- Una pulgada 155.152
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c).- Una pulgada y media 347.393
 
 III.- Por conexiones eventuales a la red de agua potable siempre que se refiera a una toma de media pulagada (sic) de diámetro, se cobrará el tipo de uso del que se trate por el tiempo de utilización del servicio; cuando sea en un plazo menor a seis meses, se cubrirá el costo en una sola exhibición en el momento de celebrar el contrato.
 
@@ -247,27 +859,43 @@ Los usuarios de los servicios de agua potable, pagarán los derechos por la cone
 
 I.- Contratación individual tratándose de descargas de aguas residuales con diámetro no mayor a seis pulgadas.
 
-a).- Uso doméstico: 8.961
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b).- Uso comercial “consumo bajo”: 18.698
+a).- Uso doméstico: 9.140
 
-c).- Uso comercial “consumo medio”: 27.923
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-d).- Uso comercial “consumo alto”: 4.904
+b).- Uso comercial “consumo bajo”: 19.072
 
-e).- Uso industrial: 7.696
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-II.- Por derecho de entronque colectivo al sistema de drenaje, además de los gastos de entronque, se cobrará por derechos 35 por ciento al costo señalado en el Artículo 12° Fracción II;
+c).- Uso comercial “consumo medio”: 28.481
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+d).- Uso comercial “consumo alto”: 35.428
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+e).- Uso industrial: 38.261
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II.- Por derecho de entronque colectivo al sistema de drenaje, además de los gastos de entronque, se cobrará por derechos 50 por ciento al costo señalado en el Artículo 12° Fracción II;
 
 III.- En apoyo a los programas de fomento a la vivienda de interés social y popular con base en el Acuerdo de Coordinación Especial para el fomento y Desregulación de la Vivienda, se otorgará una reducción de hasta un 50 por ciento del total del derecho de entronque individual en los fraccionamientos y desarrollos habitacionales de este tipo;
 
 IV.- Cuando en un predio se cuente con fuente de abastecimiento distinta a la que ofrece el Organismo, el usuario deberá cubrir el pago por los derechos y servicios de alcantarillado y saneamiento en base a las tarifas que se contemplan en los Artículos del 3º al 9º de la presente ley, conforme a las lecturas que registre el medidor de descarga; en caso de no contar con medidor de descarga, el Organismo estimará el volumen de descarga y determinará el importe correspondiente, de conformidad con las siguientes cuotas:
 
-a).- Aguas negras crudas: 0.041 por m³
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+a).- Aguas negras crudas: 0.042 por m³
 
 b).- Aguas tratadas: 0.020 por m³
 
-c).- Descargas al drenaje: 0.082 por m³
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c).- Descargas al drenaje: 0.084 por m³
 
 La aplicación de las cuotas y la tarifa, anteriores, quedará sujeta a las siguientes bases generales:
 
@@ -303,11 +931,15 @@ DESCARGAS AL DRENAJE:
 
 4.- En el caso de descargas que contengan desechos tales como lodos, ácidos, grasas, substancias químicas y de cualquier otra clase que puedan perjudicar las instalaciones del servicio o interferir en los procesos de tratamiento, se pagarán además las cuotas establecidas para las descargas contaminantes.
 
-V.- Por venta de aguas negras semitratadas a particulares según convenios estipulados, por cada metro cúbico se pagará: 041
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+V.- Por venta de aguas negras semitratadas a particulares según convenios estipulados, por cada metro cúbico se pagará: 0.042
 
 ###### ARTICULO 16.
 
 Los usuarios de los servicios de descargas de aguas residuales derivadas de servicios sanitarios portátiles, limpieza de fosas sépticas y desgrasadoras en planta de tratamiento, se pagarán los derechos previstos en la siguiente tarifa:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 TIPO DE DESCARGA CUOTAS POR
 
@@ -315,21 +947,23 @@ METRO CUBICO
 
 Aguas de sanitarios portátiles (excretas
 
-humanas) 0.370
+humanas) 0.377
 
 Aguas de fosas sépticas (mezcla de residuos
 
-domésticos e industriales no peligrosos) 0.380
+domésticos e industriales no peligrosos) 0.388
 
 Aguas con grasas orgánicas (de origen animal y
 
 vegetal provenientes de fosas desgrasadoras de
 
-restaurantes y giros similares) 1.570
+restaurantes y giros similares) 1.601
 
-###### ARTICULO 17.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-Para recibir los servicios señalados en el artículo anterior, los solicitantes deberán celebrar contrato de prestación de servicios para el ejercicio fiscal correspondiente con el Organismo y pagar un derecho de: 10.000
+###### ARTÍCULO 17.
+
+Para recibir los servicios señalados en el artículo anterior, los solicitantes deberán celebrar contrato de prestación de servicios para el ejercicio fiscal correspondiente con el Organismo y pagar un derecho de: 10.200
 
 Las empresas dedicadas a la renta de sanitarios portátiles, limpieza de fosas sépticas y desgrasadotas mencionadas deberán presentar a el Organismo, el registro y permiso vigente de la autoridad competente, como requisito para la celebración de contrato de servicio que refiere la presente ley.
 
@@ -341,13 +975,21 @@ Los usuarios a que se refiere este artículo estarán obligados a que sus descar
 
 Los usuarios de los servicios de agua potable, pagarán la reconexión a la red de agua potable o alcantarillado cuando la suspensión sea por causa imputable al propio usuario conforme a las siguientes cuotas:
 
-I.- Por Reconexión del servicio doméstico: 5.162
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-II.- Por Reconexión del servicio comercial: 6.195
+I.- Por Reconexión del servicio doméstico: 5.263
 
-III.- Por Reconexión del servicio industrial: 10.324
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-IV.- Por Reconexión del servicio mixto: 5.678
+II.- Por Reconexión del servicio comercial: 6.319
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III.- Por Reconexión del servicio industria: 10.530
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+IV.- Por Reconexión del servicio mixto: 5.792
 
 El pago se realizará al momento de solicitar la reconexión.
 
@@ -363,19 +1005,33 @@ Los propietarios o poseedores de predios que no estén conectados a las redes de
 
 Los interesados en los servicios a que hace referencia este artículo, pagarán los derechos con forme (sic) a la siguiente cuota:
 
-I.- Constancia de no adeudo a petición del usuario: 2
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-II.- Constancia de factibilidad de servicios: 20
+I.- Constancia de no adeudo a petición del usuario: 2.040
 
-III.- Cambio de Propietario: 2
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-IV.- Certificación a planos de servicios especializados: 23
+II.- Constancia de factibilidad de servicios: 20.400
 
-V.- Por instalar y derecho de uso de medidor: 5
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-VI.- Por desasolve y sondeo de descargas domiciliarias en forma manual: 15
+III.- Cambio de Propietario: 2.040
 
-VII.- Por cancelación de un recibo emitido por error de información por parte del usuario y/o solicitud de devolución: .1
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+IV.- Certificación a planos de servicios especializados: 23.460
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+V.- Por instalar y derecho de uso de medidor: 5.100
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VI.- Por desasolve y sondeo de descargas domiciliarias en forma manual: 15.300
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VII.- Por cancelación de un recibo emitido por error de información por parte del usuario y/o solicitud de devolución: 1.020
 
 ### CAPITULO VI. DISPOSICIONES GENERALES
 
@@ -446,3 +1102,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 4 DE ABRIL DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero de 2007, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el Ejercicio Fiscal 2007 en ningún caso el incremento será superior al 6% en relación a las cuotas cobradas en el 2006, por lo que se faculta al Titular del organismo operador a realizar los ajustes correspondientes para el cumplimiento de esta disposición.
