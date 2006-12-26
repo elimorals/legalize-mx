@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48149"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2006-04-04"
+last_updated: "2006-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLAN, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -51,11 +51,15 @@ D E C R E T O No. 315
 
 "ARTÍCULO ÚNICO.- Es de aprobarse y se aprueba la Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de Coquimatlán, Colima, para quedar en los siguientes términos:
 
-Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de Coquimatlán, Colima.
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable, Alcantarillado y Saneamiento del Municipio de Coquimatlán, Colima.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 1º.
 
-Los usuarios de los servicios públicos de agua potable y alcantarillado, demás que presta la Comisión de Agua Potable, Drenaje y Alcantarillado del municipio de Coquimatlán, Colima, en lo sucesivo La Comisión, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en unidades de salario mínimo general diario vigente en el área geográfica en el que esta ubicado el Estado de Colima.
+Los usuarios de los servicios públicos de agua potable, alcantarillado, saneamiento y demás que presta la Comisión de Agua Potable, Drenaje y Alcantarillado, saneamiento y demás que presta la Comisión de Agua Potable, Drenaje y Alcantarillado del municipio de Coquimatlán, Colima, en lo sucesivo La Comisión, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en unidades de salario mínimo general diario vigente en el área geográfica en el que esta ubicado el Estado de Colima.
 
 ###### ARTÍCULO 2º.
 
@@ -67,21 +71,29 @@ Por servicio doméstico de agua potable se pagarán las siguientes tarifas.
 
 I.- Cuota Fija:
 
-a) Doméstico zona rural:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-Comprende: Las comunidades de: Aguazarca, El Alcomún, El Algodonal, El Colomo, El Chical, La Esperanza, Jala, Los Limones, El Poblado, Pueblo Juárez y La Sidra. 2.149
+a).- Doméstico zona rural:
 
-El pago correspondiente por los servicios de agua potable y alcantarillado será ajustado en caso de que el servicio no se preste, en los términos que determine la Comisión.
+Comprende: Las comunidades de: Aguazarca, El Alcomún, El Chical, La Esperanza, Jala, Los Limones, El Poblado y Pueblo Juárez. 2.192 S/M.
+
+Agua rodada: Comprende las comunidades de: El Algodonal, El Colomo, y La Sidra 1.090 S/M.
+
+El pago correspondiente por los servicios de agua potable y alcantarillado, será ajustado en caso de que el servicio no se preste, en los términos que determine la Comisión.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 b) Doméstico zona urbana:
 
-Comprende: La cabecera municipal, Las colonias: Camichines I, Camichines II, Cazumba I, Cazumba II, Elías Zamora, Emiliano Zapata, Jardines del Llano, Las Moras y San Miguel. 2.721
+Comprende: La cabecera municipal, Las colonias: Camichines I, Camichines II, Cazumba I, Cazumba II, Las Higueras I, Las Higueras II, Elías Zamora, Emiliano Zapata, Jardines del Llano; Las Moras y San Miguel. 2.775 S/M
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 c) Doméstico colectivo:
 
-1.- Vecindades con un servicio 2.721
+1.- Vecindades con un servicio 2.775 S/M
 
-2.- Por cada servicio adicional. 1.360
+2.- Por cada servicio adicional 1.387.S/M
 
 ###### ARTÍCULO 4º.
 
@@ -89,37 +101,43 @@ Servicio no doméstico
 
 I.- Cuota Fija:
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 a).- Bajo consumo:
 
-Comprenden los negocios que a continuación se describen: abarrotes, abarrotes con venta de bebidas alcohólica, agencias de viajes, almacenes de ropa, alquiler de videocasetes, boutiques, bufetes, consultorios, despachos y oficinas, cerrajerías, dulcerías, estanquillos, expendios de nieves y paletas, fábrica de sombreros, farmacias, ferreterías, florerías, foto estudios, fabricación de huaraches, imprentas, materiales para construcción, misceláneas, mini súper, mueblerías, papelerías, pastelerías, peluquerías, periódicos editoriales de, pintura y laminado de vehículos, refaccionarías, reparación de aparatos electrodomésticos, reparación de llantas, relojerías, sastrerías, servicio de transporte y fletes (sin valor), sombreros, talleres mecánicos, eléctricos y tornos, tapicerías, templos, tiendas de regalos, tlapalerías, venta de libros, periódicos y revistas, vidrierías, videojuegos, zapaterías; pagarán una cuota bimestral de: 2.489
+Comprenden los negocios que a continuación se describen: abarrotes, abarrotes con venta de bebidas alcohólica (sic), agencias de viajes, almacenes de ropa, alquiler de videocasetes, boutiques, bufetes, consultorios, despachos y oficinas, cerrajerías, dulcerías, estanquillos, expendios de nieves y paletas, fábrica de sombreros, farmacias, ferreterías, florerías, foto estudios, fabricación de huaraches, imprentas, materiales para construcción, misceláneas, mini súper, mueblerías, papelerías, pastelerías, peluquerías, periódicos editoriales de, pintura y laminado de vehículos, refaccionarías, reparación de aparatos electrodomésticos, reparación de llantas, relojerías, sastrerías, servicio de transporte y fletes (sin valor), sombreros, talleres mecánicos, eléctricos y tornos, tapicerías, templos, tiendas de regalos, tlapalerías, venta de libros, periódicos y revistas, vidrierías, videojuegos, zapaterías; pagarán una cuota bimestral de: 2.539 S/M
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 b).- Consumo medio:
 
-Comprenden: academias y escuelas, alquiler de loza, muebles y manteles, billares, carnicerías, cenadurías, estacionamientos, fabricación de dulces, fondas y cocinas económicas, funerarias, gasolineras sin servicio de lavado, neverías, paleterías, servicios de auxiliares de diagnóstico, salones de belleza, talleres de artesanías, tenerías y curtidurías, vulcanizadoras y/o vitalizadoras de llantas; cubrirán una cuota bimestral de: 3.558
+Comprenden: academias y escuelas, alquiler de loza, muebles y manteles, billares, carnicerías, cenadurías, estacionamientos, fabricación de dulces, fondas y cocinas económicas, funerarias, gasolineras sin servicio de lavado, neverías, paleterías, servicios de auxiliares de diagnóstico, salones de belleza, talleres de artesanías, tenerías y curtidurías, vulcanizadoras y/o vitalizadoras de llantas; cubrirán una cuota bimestral de: 3.629 S/M
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 c).- Consumo alto:
 
-Comprenden: cantinas, bares, empaques de fruta, hoteles, restaurantes, centros botaneros, lavanderías, lavados de carros, purificador y embotelladora de agua, para consumo humano, rastros, empacadoras, ruedos para jaripeos, plazas de toros y viveros; pagarán una cuota bimestral de: 19.075
+Comprenden: cantinas, bares, empaques de fruta, hoteles, restaurantes, centros botaneros, lavanderías, lavados de carros, purificador y embotelladora de agua, para consumo humano, rastros, empacadoras, ruedos para jaripeos, plazas de toros y viveros; pagarán una cuota bimestral de: 19.457 S/M
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 d).- Servicio mixto:
 
-Comprenden todos aquellos predios donde se en (sic) encuentren negocios de tipo comercial y casa habitación, pagarán una cuota bimestral de: 4.081
+Comprenden todos aquellos predios donde se en (sic) encuentren negocios de tipo comercial y casa habitación, pagarán una cuota bimestral de: 4.163 S/M
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 e).- Edificios públicos:
 
-Comprenden las dependencias públicas del gobierno federal, estatal o municipal, pagarán la siguiente cuota: 3.558
+Comprenden las dependencias públicas del gobierno federal, estatal o municipal, pagarán la siguiente cuota: 3.629 S/M
 
-Quedan comprendidos en este artículo los bienes del dominio privado de la Federación, del Estado y de los Municipios, no así los inmuebles comprendidos en el artículo 115, fracción IV inciso c) de la Constitución Política de los Estados Unidos Mexicanos; lo anterior no exime a sus propietarios de la obligación de hacer un uso racional del agua y cumplir además las siguientes obligaciones:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-I.- Permitir la colocación de medidores ya sea de agua potable o de descargas de aguas residuales; y
+f).- Instituciones de beneficencia pública y/o social:
 
-II.- Cumplir con las demás obligaciones diferentes a las de pago de derechos, previstas en la Ley de Aguas del Estado.
+Comprenden; centros de salud, club de leones, bomberos protección civil, centros comunitarios o de recreación, protección civil y purificadores de agua comunitarios, pagaran la siguiente cuota: 2.192 S/M.
 
-En caso del incumplimiento a estas obligaciones serán sujetos de las sanciones en la referida Ley.
-
-f).- Instituciones de beneficencia pública y /o social:
-
-Comprenden; centros de salud, club de leones, bomberos protección civil, centros comunitarios o de recreación, protección civil y purificadores de agua comunitarios, pagarán la siguiente cuota: 2.149
+(REPUBLICADA, P.O. 26 DE DICIEMBRE DE 2006)
 
 II.- SERVICIO MEDIDO:
 
@@ -143,9 +161,13 @@ I.- Entronque individual
 
 Por conexión a la red se cubrirán las siguientes cantidades.
 
-a).- Por derecho de entronque domiciliario a la red municipal de agua potable se cobrará; 7.033
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b).- Por derecho de entronque domiciliario a la red municipal de drenaje se cobrará. 7.033
+a).- Por derecho de entronque domiciliario a la red municipal de agua potable se cobrará; 7.174 SM
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b).- Por derecho de entronque domiciliario a la red municipal de drenaje se cobrará. 7.174 SM
 
 II.- Entronque colectivo:
 
@@ -155,7 +177,9 @@ Por entronque colectivo de fraccionamiento y desarrollos comerciales, industrial
 
 a).- Si cuenta con fuente de abasto se cobrará el importe de los gastos que origine el entronque.
 
-b).- Si no cuenta con fuente de abasto, además de los gastos de entronque se cobrará por derechos la cantidad de 1,565.75 por cada litro por segundo de agua potable que requiere por gasto medio diario, mismos que serán determinados por la Comisión, en base al proyecto autorizado del desarrollo en cuestión.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b).- Si no cuenta con fuente de abasto, además de los gastos de entronque se cobrará por derechos la cantidad de 34.18 salarios mínimos por cada litro por segundo de agua potable que requiere por gasto medio diario, mismos que serán determinados por la Comisión, en base al proyecto autorizado del desarrollo en cuestión.
 
 c).- Por conexión colectiva a la red de drenaje se cobrará una cantidad igual al 35% del importe a pagar por derecho de entronque a la red de Agua.
 
@@ -193,13 +217,17 @@ Los usuarios del servicio de drenaje sanitario pagarán por este concepto al Org
 
 Los propietarios de predios con superficie hasta 500 M2 que sin estar conectados a las redes de Agua Potable y Alcantarillado cuenten con la disponibilidad de la infraestructura urbana municipal para estos servicios, pagarán el 50% de la cuota que corresponda.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 14.
 
-Las tarifas de agua potable y alcantarillado se cubrirán en forma conjunta de manera bimestral y deberán los usuarios hacer el pago de los derechos en los siguientes quince días al bimestre que corresponda.
+Las tarifas de agua potable, alcantarillado y saneamiento, se cubrirán en forma conjunta de manera bimestral y deberán los usuarios hacer el pago de los derechos en los siguientes quince días al bimestre que corresponda.
 
 ###### ARTÍCULO 15.
 
 Son aprovechamientos: recargos, multas, gastos de ejecución y los demás ingresos que no sean clasificados como derechos, contribuciones especiales, productos o participaciones.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 16.
 
@@ -209,49 +237,61 @@ I.- En caso de tomas domésticas se tomará como base para el cobro, lo que resu
 
 II.- Tratándose de tomas distintas a los del tipo doméstico, se aplicará el factor 0.9 litros por segundo por hectárea, siendo el cobro por estas tomas lo que resulte de multiplicar este factor por un máximo de hasta 24 horas y hasta por 5 años a la tarifa no doméstica vigente en el periodo que se trate salvo que el usuario demuestre que la toma data de un periodo menor.
 
-a).- Por reconexión de los servicio (sic) de Agua Potable o Alcantarillado, cuando por motivo de la morosidad en los pagos el usuario haya sido suspendido. 20
-
-b).- Por entronque a la red de Agua Potable y/o Drenaje sin autorización de la Comisión, independiente de los derechos que correspondan. 50
-
-c).- Por taponamiento a red de drenaje por causa imputable a los usuarios de predios o fincas. 50
-
-d).- Por descargas de Agua residuales por encima de lo normado en tanto se apruebe el Reglamento Estatal de Aguas Residuales. 100
-
-e).- Tiraderos de Agua. 10
-
-f).- Por bombeo directo de la Red. 10
-
-g).- Daños a la red. 30
-
-Más el importe de los trabajos de reparación y cuantificación de los volúmenes de Agua tirada.
-
-h).- Daños, alteración del medidor o violación del sello de los mismos, retiro o variación de colocación de los medidores. 100
-
-i).- A los propietarios o poseedores de predios que impidan el examen de los aparatos medidores o en la práctica o visita de inspección. 50
-
-j).- A quienes teniendo servicio medido y observen fugas en sus instalaciones y no las reparen o no las reporten con oportunidad a La Comisión y que con ello varíe su consumo. 20
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 17.
 
-Por la prestación de otros servicios se pagarán los siguientes derechos:
+Las sanciones que la Comisión imponga en uso de sus facultades, serán aplicadas conforme a las siguientes tarifas:
 
-I.- Expedición de constancias de no adeudo. 0.833
+a).- Por reconexión de los servicios de Agua Potable o Alcantarillado, cuando por motivo de la morosidad en los pagos el usuario haya sido suspendido. 20 S/M
 
-II.- Limpieza y sondeo de descargas domiciliarias en forma manual con varillas. 10
+b).- Por entronque a la red de Agua Potable y/o Drenaje sin autorización de la Comisión, independiente de los derechos que correspondan 50 S/M
 
-III.- Expedición de constancias de factibilidad de servicio de Agua potable y alcantarillado. 20
+c).- Por taponamiento a red de drenaje por causa imputable a los usuarios de predios o fincas. 50 S/M
 
-IV.- Instalación y derecho de uso de medidor. 5
+d).- Por descargas de Agua residuales por encima de lo normado en tanto se apruebe el Reglamento Estatal de Aguas Residuales. 100 S/M
 
-V.- Modificación de contrato por cambio de propietario. 1.366
+e).-Tiraderos o desperdicios de Agua. 10 S/M
+
+f).- Por bombeo directo de la Red. 10 S/M
+
+g).- Daños a la red 30 S/M
+
+Más el importe de los trabajos de reparación y cuantificación de los volúmenes de Agua tirada.
+
+h).- Daños, alteración del medidor o violación del sello de los mismos, retiro o variación de colocación de los medidores. 100 S/M
+
+i).- A los propietarios o poseedores de predios que impidan el examen de los aparatos medidores o en la práctica o visita de inspección. 50 S/M
+
+j).- A quienes teniendo servicio medido y observen fugas en sus instalaciones y no las reparen o no las reporten con oportunidad a La Comisión y que con ello varíe su consumo. 20 S/M
+
+OTROS INGRESOS:
+
+Por la expedición de otros servicios se pagarán los siguientes derechos:
+
+Expedición de constancias de no adeudo. 0.85 S/M
+
+Por certificación de recibo oficial. 0.80 S/M
+
+Limpieza y sondeo de descargas domiciliarias en forma manual con varillas 10.20 S/M
+
+Expedición de constancias de factibilidad de servicio de Agua potable y alcantarillado. 20.40 S/M
+
+Por viaje de agua en pipa en zona urbana. 13 S/M
+
+Por viaje de agua en pipa en zona rural. 10 S/M
+
+Modificación de contrato por cambio de propietario. 1.390 S/M
 
 ###### ARTÍCULO 18.
 
 Al autorizarse nuevas colonias, fraccionamientos y para los negocios que no estén considerados en algún uso de la clasificación señalada en los artículos anteriores del presente ordenamiento, La Comisión determinará la clasificación que les corresponda, en base a la información de que disponga.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 19.
 
-Los usuarios que no tengan consumo, pagarán por concepto de conservación y mantenimiento de la infraestructura de agua potable y alcantarillado la cuota del 50% del tipo de clasificación que le corresponda. El pago del importe acumulado del adeudo será requisito indispensable para la reanudación del servicio.
+Los usuarios que no tengan consumo, pagarán por concepto de conservación y mantenimiento de la infraestructura de agua potable, alcantarillado y saneamiento, la cuota del 50% del tipo de clasificación que le corresponda. El pago del importe acumulado del adeudo será requisito indispensable para la reanudación del servicio.
 
 ###### ARTÍCULO 20.
 
@@ -271,11 +311,13 @@ La Comisión podrá realizar descuentos en el pago de los derechos, de conformid
 
 I.- Se concede un 12% de descuento en el pago de los derechos por el servicio de agua potable y drenaje a los usuarios de cuota fija que sin tener adeudos y paguen la anualidad adelantada en los meses de enero y febrero.
 
-II.- Se concede un 8 por ciento de descuento a los usuarios de cuota fija que paguen el servicio de agua potable y alcantarillado por anualidad durante los meses de marzo y abril.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2006)</small>
+II.- Se concede un 8% de descuento a los usuarios de cuota fija que paguen el servicio de agua potable, alcantarillado y saneamiento por anualidad durante los meses de marzo y abril.
 
-III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable y alcantarillado, respecto de la casa que habitan, para lo cual deberán exhibir a La Comisión previamente los siguientes documentos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 salarios mínimos diarios de la zona económica del Estado de Colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberán exhibir a La Comisión previamente los siguientes documentos:
 
 a).- Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y,
 
@@ -324,6 +366,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 4 DE ABRIL DE 2006.
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero de 2007, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el ejercicio Fiscal 2007 en ningún caso el incremento será superior al 6% en relación a las cuotas cobradas en el 2006, por lo que se faculta al Titular del organismo operador a realizar los ajustes correspondientes para el cumplimiento de esta disposición.
 
 ###### ARTÍCULO UNICO.
 
