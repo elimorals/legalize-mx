@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4570
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-22"
-last_updated: "2005-07-22"
+last_updated: "2006-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 22 de julio del 2005.
 
@@ -313,49 +313,15 @@ La información confidencial no estará sujeta a plazos de vencimiento y tendrá
 
 ###### Artículo 26.
 
-Será confidencial la información que contenga datos personales de una persona física identificada o identificable, relativos a:
-
-I.- Origen étnico o racial;
-
-II.- Características físicas;
-
-III.- Características morales;
-
-IV.- Características emocionales;
-
-V.- Vida afectiva;
-
-VI.- Vida familiar;
-
-VII.- Domicilio particular;
-
-VIII.- Número telefónico particular;
-
-IX.- Patrimonio;
-
-X.- Ideología;
-
-XI.- Opinión política;
-
-XII.- Creencia o convicción religiosa;
-
-XIII.- Creencia o convicción filosófica;
-
-XIV.- Estado de salud física;
-
-XV.- Estado de salud mental;
-
-XVI.- Preferencia sexual, información genética; y,
-
-XVII.- Otras análogas que afecten su intimidad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 27.
 
-Los datos personales serán confidenciales independientemente de que hayan sido obtenidos directamente de su titular o por cualquier otro medio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 28.
 
-La información confidencial que los particulares proporcionen a las Unidades Administrativas o a la Unidad de Acceso para fines estadísticos u otros similares, la que éstas obtengan de registros administrativos o registros que contengan información relativa al estado civil de las personas, no podrá difundirse en forma nominativa, individualizada o de cualquier otra forma que permita la identificación inmediata de los interesados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ### CAPÍTULO CUARTO. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN
 
@@ -439,41 +405,27 @@ III.- Por causa de fuerza mayor ocaso fortuito, a juicio de la Unidad de Acceso.
 
 ###### Artículo 41.
 
-Se procederá a la corrección de datos personales a que se refiere la fracción I del artículo 8 de la Ley, cuando exista solicitud por parte del interesado, dirigida a la Unidad de Acceso.
-
-El procedimiento para la corrección de datos se agotará en un plazo máximo de treinta días hábiles, contados a partir del día siguiente al de la fecha de recepción de la solicitud respectiva.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 42.
 
-La solicitud de corrección de datos deberá contener:
-
-I.- Los datos que se pretenden corregir haciendo referencia en dónde constan los mismos;
-
-II.- La indicación sobre los datos correctos y la acreditación de la exactitud de los que se proporcionan; y,
-
-III.- La información faltante, en caso de que se pretendan complementarlos datos personales.
-
-Los Solicitantes deberán demostrar que son titulares de los datos personales a que hacen referencia; y si lo hacen por conducto de su representante, éste deberá acreditar su personalidad en los términos de la normatividad correspondiente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 43.
 
-La Unidad de Acceso solicitará a la Unidad Administrativa correspondiente, en un plazo de tres días hábiles siguientes al de recepción de la solicitud respectiva, la remisión del expediente o documentos que contengan los datos personales del Solicitante. La Unidad Administrativa señalará cómo se obtuvieron los datos personales que en dicha documentación constan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 44.
 
-La Unidad de Acceso, con el apoyo de la Unidad Administrativa respectiva, analizará la procedencia de dicha modificación. Este análisis se realizará en un término de quince días hábiles a partir de la recepción de la solicitud.
-
-Asimismo, se podrá requerir al Solicitante la información que se considere pertinente a efecto de verificar la exactitud de los datos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 45.
 
-Si resulta procedente la corrección, el Titular requerirá a la Unidad Administrativa correspondiente para que realice la modificación de los datos respectivos, señalando los datos correctos e indicando que se anexe a la corrección del documento el acuerdo de modificación de los mismos.
-
-Asimismo, la Unidad de Acceso notificará al Solicitante en un plazo que no excederá de treinta días hábiles siguientes al de la determinación de procedencia de las modificaciones, que las mismas fueron conducentes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 46.
 
-En caso de resultar improcedente la corrección, la Unidad de Acceso notificará al interesado su determinación, expresando las razones y fundamentos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ### CAPÍTULO SÉPTIMO. DE LAS NOTIFICACIONES
 
@@ -514,3 +466,11 @@ Son causas de responsabilidad administrativa de los servidores públicos del Ins
 A los servidores públicos del Instituto que incurran en las responsabilidades a que se refiere el artículo anterior, se les aplicarán las sanciones y los procedimientos previstos en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, o en otras leyes aplicables.
 
 Las medidas de corrección y las sanciones que se apliquen al servidor público, se impondrán respetando siempre el derecho de audiencia, debiendo, en ambos casos, comunicárselo por escrito, precisando los motivos y fundamentos en que se base.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente reglamento entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO.- Se derogan los artículos 26, 27 y 28, y del artículo 41 al 46, del Reglamento de la Unidad de Acceso a la Información Pública del Instituto Electoral del Estado de Guanajuato.
