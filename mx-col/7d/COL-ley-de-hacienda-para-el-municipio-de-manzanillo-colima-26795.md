@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2006-04-04"
+last_updated: "2006-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -263,9 +263,11 @@ Los notarios públicos, para autorizar en forma definitiva escrituras en que se 
 
 Se concede el 12 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, siempre que el monto de dicho impuesto sea mayor a 2 unidades de salarios, en predios urbanos y 3 unidades de salarios en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra el salario mínimo general durante el ejercicio correspondiente.
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-En los casos en que el contribuyente acredite estar jubilado o pensionado por alguna institución pública o presente alguna discapacidad o ser un adulto mayor de escasos recursos con la edad de 65 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un predio, este sea de su propiedad y acredite la residencia en el mismo. El descuento anterior se otorgará a los contribuyentes beneficiados por este artículo que paguen este impuesto por anualidad adelantada durante los meses de enero, febrero y marzo. A partir del mes de abril, el beneficio se seguirá otorgando, pero con los recargos y multas generados hasta que se efectúe el pago en los términos de lo dispuesto por el segundo párrafo del artículo 119 de esta Ley y 25 en su último párrafo del Código Fiscal Municipal.
+En los casos en que el contribuyente acredite estar jubilado o pensionado por alguna institución pública o presente alguna discapacidad o ser un adulto mayor de escasos recursos con la edad de 60 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un predio, éste sea de su propiedad y acredite la residencia en el mismo. El descuento anterior se otorgará a los contribuyentes beneficiados por éste artículo que paguen este impuesto por anualidad adelantada durante los meses de enero, febrero y marzo. A partir del mes de abril, el beneficio se seguirá otorgando, pero con los recargos y multas generados hasta que se efectué el pago en los términos de lo dispuesto por el segundo párrafo del artículo 119 de ésta Ley y 25 en su último párrafo del Código Fiscal Municipal.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 Cabe señalar que si al efectuar el cálculo del beneficio que se menciona en el párrafo anterior, da como resultado una cantidad menor a 2 unidades de salario, el contribuyente deberá pagar el importe de las dos unidades de salario.
 
@@ -393,7 +395,9 @@ TARIFA
 
 (VEASE ARCHIVO ANEXO)
 
-El pago del impuesto deberá efectuarse dentro de los quince días siguientes a aquél en que se realice cualesquiera de los supuestos que a continuación se señalan:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+El pago del impuesto deberá efectuarse dentro de los treinta días naturales siguientes a aquél en que se realice cualesquiera de los supuestos que a continuación se señalan:
 
 I. Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga;
 
@@ -541,27 +545,41 @@ I. Los giros que a continuación se mencionan se gravarán según el monto de su
 
 1.- Box amateur 0
 
-2.- Lucha libre y box profesional 12
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+2.- Lucha libre y box profesional 8.00
 
 3.- Teatros 5
 
-4.- Corridas de toros 13.5
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+4.- Corridas de toros 8.00
 
 5.- Charreadas 5
 
-6.- Jaripeos 13.5
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+6.- Bailes y Jaripeos 8.00
 
 7.- Circos y carpas 8
 
-8.- Presentaciones artísticas 8
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-9.- Espectáculos deportivos 5
+8.- Presentaciones artísticas 8.00
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-10.- Palenques de gallos 1
+9.- Espectáculos deportivos 8.00
 
-11.- Cualquier otro espectáculo público por el que se cobren derechos de admisión 5 a 13.5
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+10.- Palenques de gallos 1.00
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+11.- Cualquier otro espectáculo público por el
+
+que se cobren derechos de admisión 8.00
 
 II. Cuando no sea posible controlar los ingresos, el impuesto se gravará en unidades de salario:
 
@@ -695,21 +713,27 @@ Las personas físicas o morales que pretendan llevar a cabo la construcción, re
 
 Unidad de salario
 
-I. Permiso de construcción o ampliación incluyendo inspección de la obra, por metro cuadrado, según el tipo, de acuerdo a la siguiente clasificación:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+I. Permiso de construcción o ampliación, reparación o remodelación, incluyendo inspección de la obra, por metro cuadrado, según el tipo, de acuerdo a la siguiente clasificación:
 
 a) Habitacional densidad alta:
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 1.- Vivienda unifamiliar
 
-- Hasta 40 M2 0.00
+Hasta 40 M2. 0.00
 
-- De más de 40 M2 0.03
+De más de 40 M2 0.03
 
-2.- Vivienda plurifamiliar horizontal 0.02
+2.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-3.- Vivienda plurifamiliar vertical 0.04
+3.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-b) Habitacional densidad media:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b) Habitacional densidad media: 0.08
 
 1.- Vivienda unifamiliar 0.08
 
@@ -721,7 +745,9 @@ b) Habitacional densidad media:
 
 4.- Vivienda unifamiliar en usos mixtos 0.08
 
-c) Habitacional densidad baja:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c) Habitacional densidad baja: 0.19
 
 1.- Vivienda campestre o aislada 0.19
 
@@ -731,7 +757,9 @@ c) Habitacional densidad baja:
 
 4.- Vivienda plurifamiliar vertical 0.24
 
-d) Alojamiento temporal 0.08
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+d) Habitación densidad baja en zona rural: 0.08
 
 e) Comercio y servicios 0.24
 
@@ -741,19 +769,17 @@ g) Oficinas administrativas 0.15
 
 h) Abastos, almacenamientos y talleres 0.16
 
-i) Manufacturas y usos industriales:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-1.- Manufacturas domiciliarias 0.03
+i) Manufacturas y usos industriales: 0.16
 
-2.- Manufacturas menores 0.05
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-3.- Industria ligera de bajo impacto 0.08
+j) Plataformas 0.08
 
-4.- Industria de mediano impacto 0.14
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-5.- Industria pesada de alto impacto y riesgo 0.19
-
-j) Otros 0.00 a 0.47
+k) Otros 0.00 a 0.47
 
 Cuando la construcción tenga como consecuencia la demolición por más de 40.00 M2., el pago del derecho por los conceptos anteriores aumentará en un 10 por ciento.
 
@@ -761,43 +787,31 @@ Las áreas de estacionamiento en los anteriores conceptos se consideran en el co
 
 II. Permiso para remodelación o reparación, incluyendo la inspección de la obra según el tipo, por M2, de acuerdo con la siguiente clasificación:
 
-a) Habitacional densidad alta 0.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b) Habitacional densidad media 0.34
+a) Fachadas en general 2.50
 
-c) Habitacional densidad baja 0.63
+b) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-d) Comercio y servicios 0.76
+c) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-e) De fachadas en general 2.50
+d) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-f) Turístico 0.12
+e) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-g) Oficinas administrativas 1.04
+f) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-h) Abastos, almacenamientos y talleres 1.08
+g) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-i) Manufacturas y usos industriales:
+h) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-1.- Manufacturas domiciliarias 0.10
+i) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006):
 
-2.- Manufacturas menores 0.08
+j) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-3.- Industria ligera de bajo impacto 0.12
+k) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-4.- Industria de mediano impacto 0.25
-
-5.- Industria pesada de alto impacto y riesgo 0.50
-
-j) Otros 0.00 a 0.50
-
-(ADICIONADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
-
-k) Habitacional densidad baja zona residencial 0.63
-
-(ADICIONADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
-
-l) Habitacional en usos mixtos 0.34
+l) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 III. Permiso para demolición, incluyendo la inspección de la obra de acuerdo a la siguiente tarifa:
 
@@ -1015,27 +1029,29 @@ j) Zona rural 1.00
 
 k) Otros de 0.36 a 2.47
 
-III. Informe de factibilidad de uso de suelo, por M2 de acuerdo a la siguiente tarifa:
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-a) Habitacional densidad alta 0.05
+III. Informe de factibilidad de uso de suelo, por evento, de acuerdo a la siguiente tarifa:
 
-b) Habitacional densidad media 0.06
+a) Habitacional densidad alta 2.00
 
-c) Habitacional densidad baja 0.07
+b) Habitacional densidad media 2.50
 
-d) Alojamiento temporal 0.05
+c) Habitacional densidad baja 3.00
 
-e) Comercio y servicios 0.10
+d) Alojamiento temporal 2.00
 
-f) Oficinas administrativas 0.15
+e) Comercio y servicios 4.00
 
-g) Abastos, almacenamientos y talleres 0.08
+f) Oficinas administrativas 6.00
 
-h) Manufacturas y usos industriales 0.04
+g) Abastos, almacenamientos y talleres 4.00
 
-i) Turístico 0.19
+h) Manufacturas y usos industriales 3.00
 
-j) Otros de 0.05 a 0.19
+i) Turístico 6.00
+
+j) Otros 6.00
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2003)</small>
 
@@ -1073,17 +1089,29 @@ b) Habitacional densidad media 4.84
 
 c) Habitacional densidad baja 9.68
 
-d) Vivienda campestre o aislada 12.10
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-e) Comercio y servicios 9.68 a 24.20
+d) Habitación en zona rural 2.24
 
-f) Turístico de 14.52 a 24.20
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+e) Comercio y servicios 24.20
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+f) Turístico 24.20
 
 g) Oficinas administrativas 16.94
 
 h) Abastos, almacenamientos y talleres 24.20
 
-i) Manufacturas y usos industriales
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+i) Manufacturas y usos industriales 3.63
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+j) Otros 24.20
 
 1.- Manufacturas domiciliarias 1.21
 
@@ -1171,9 +1199,11 @@ Para que la dependencia municipal competente otorgue el permiso de construcción
 
 En el caso de construcción de edificios en el régimen de condominio, sólo se podrá otorgar la licencia de construcción previa comprobación del pago del derecho de constitución en régimen de condominio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 68.
 
-Las personas físicas o morales que realicen subdivisión o modificación de terrenos en lotes o fraccionamientos o que reciban obras de urbanización deberán obtener previamente la autorización correspondiente de las autoridades competentes y pagar los derechos conforme a la siguiente tarifa:
+Las personas físicas o morales que realicen subdivisión o modificación de terrenos en lotes o fraccionamientos o que ejecuten obras de urbanización deberán obtener previamente la autorización correspondiente de las autoridades competentes y pagar los derechos conforme a la siguiente tarifa:
 
 Unidad de salario
 
@@ -1229,41 +1259,9 @@ j) Otros 0.05 a 423.50
 
 Cuando se trate de fraccionamiento de tipo mixto, se cobrará por la autorización el promedio que resulte de las modalidades que lo compongan.
 
-II. Permiso para subdivisión o fusión de lotes, por metro cuadrado resultante según su categoría:
+II. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
 
-a) Habitacional densidad alta 0.05
-
-b) Habitacional densidad media 0.10
-
-c) Habitacional densidad baja 0.16
-
-d) Habitacional campestre o aislada 0.06
-
-e) Comercio y servicios 0.07
-
-f) Manufacturas y usos industriales 0.06
-
-g) Habitacional en comunidad rural, que cuenten con un programa de desarrollo urbano 0.03
-
-h) Otros de 0.05 a 0.16
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2003)</small>
-
-i) Habitacional densidad baja zona residencial 0.16
-
-III. Permiso para relotificación de predios, por metro cuadrado resultante según su categoría:
-
-a) Habitacional densidad alta 0.08
-
-b) Habitacional densidad media 0.15
-
-c) Habitacional densidad baja 0.23
-
-d) Habitacional campestre o aislada 0.10
-
-e) Manufacturas y usos industriales 0.10
-
-f) Otros de 0.08 a 0.23
+III. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
 
 IV. Permiso para constituir en régimen de condominio por metro cuadrado, independientemente del pago del permiso de construcción:
 
@@ -1367,41 +1365,55 @@ IX. Por la expedición del certificado de habitabilidad de las construcciones, e
 
 3.- Más de 1000.00 M2 20.00
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 69.
 
-Las personas físicas o morales que pretendan inscribirse o refrendar su inscripción como directores responsables de obra y corresponsables de obras de urbanización y edificación, así como peritos urbanos y en edificación, deberán obtener la autorización correspondiente y pagar los derechos conforme a las siguientes tarifas:
+Las personas físicas o morales que pretendan inscribirse o refrendar su inscripción como directores responsables de obra, así como peritos urbanos en urbanización y edificación, deberán obtener la autorización correspondiente y pagar los derechos conforme a las siguientes tarifas:
 
 Unidad de salario
 
-I. Inscripción de directores responsables de obra, corresponsables de obra y peritos urbanos en la dependencia municipal competente, con vigencia de un año, a partir del registro, de acuerdo con la siguiente clasificación:
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-a) Director responsable de obra (persona física) 56.06
+I. Inscripción de directores responsables de obra y peritos urbanos en la dependencia municipal competente, con vigencia a partir del registro, de acuerdo con la siguiente clasificación:
 
-b) Director responsable de obra (persona moral) 112.13
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-c) Corresponsable de obra (persona física) 56.06
+a).- Director responsable de obra
 
-d) Corresponsable de obra (persona moral) 112.13
+(persona física) 60.00
 
-e) Perito Urbano 200.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-f) Perito en edificación 200.00
+b).- Perito urbano en proyecto de
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+urbanización 120.00
 
-g) Perito urbano en proyecto de urbanización 56.06
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+c).- Perito urbano en proyecto de edificación 120.00
 
-h) Perito urbano en proyecto de edificación 56.06
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+d).- Supervisor municipal persona física 180.00
 
-i) Perito urbano en obras de urbanización 56.06
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+e).- Supervisor municipal persona moral 200.00
 
-j) Perito urbano en obras de edificación 56.06
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+f).- Perito ambiental persona física 120.00
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+g).- Perito ambiental persona moral 180.00
+
+h) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+i) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+j) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
 
@@ -1413,7 +1425,7 @@ l) Perito en supervisión municipal de obras de edificación 56.06
 
 Por refrendos a los registros dentro del período autorizado se causará el 50 por ciento del importe de la tarifa en vigor.
 
-II. Inscripción al padrón de contratistas en la dependencia municipal competente, con vigencia de un año calendario 10.00
+II. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
 
 Por refrendos de los registros dentro del período autorizado, se causará 50 por ciento del importe de la tarifa en vigor.
 
@@ -1449,129 +1461,151 @@ Los derechos a que se refiere la presente sección se pagarán de conformidad co
 
 Unidad de salario
 
-A.- PUBLICIDAD PERMANENTE, POR ANUALIDAD:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-1.- Pintado con superficie hasta 2.00 M2 opaco 2.00
+A.- PUBLICIDAD PERMANENTE POR ANUALIDAD, POR METRO CUADRADO.
 
-2.- Pintado con superficie mayor de 2.00 M2 y hasta 4.00 M2 opaco 4.00
+1.- Pintado, Adosado, Colgante o Voladizo
 
-3.- Pintado con superficie mayor de 4.00 M2 opaco 6.00
+opaco o luminoso 1.00
 
-4.- Adosado con superficie hasta 2.00 M2 opaco 2.00
+2.- Autosoportado tipo paleta y tipo
 
-5.- Adosado con superficie mayor de 2.00 M2 y hasta 4.00 M2 opaco 4.00
+bandera opaco 1.50
 
-6.- Adosado con superficie mayor de 4.00 M2 opaco 6.00
+3.- Autosoportado tipo paleta y tipo
 
-7.- Colgante o voladizo con superficie hasta 2.00 M2 opaco 1.00
+bandera luminoso 2.00
 
-8.- Colgante o voladizo con superficie mayor de 2.00 M2 y hasta 4.00 M2 opaco 2.00
+4.- Estructural en azotea, en piso y
 
-9.- Colgante o voladizo con superficie mayor 4.00 M2 opaco 4.00
+pantalla electrónica 2.00
 
-10.- Adosado con superficie de hasta 2.00 M2 luminoso 2.00
+5.- Autoparlantes sonoros móvil, por
 
-11.- Adosado con superficie mayor de 2.00 M2 y hasta 4.00 M2 luminoso 4.00
+vehículo por evento 2.00
 
-12.- Adosado con superficie mayor de 4.00 M2 luminoso 6.00
+6.- Otros no especificados, por M2 o por
 
-13.- Colgante o voladizo con superficie hasta 2.00 M2 luminoso 2.00
+evento, según sea el caso 120.00
 
-14.- Colgante o voladizo con superficie mayor de 2.00 M2 y hasta 4.00 M2 luminoso 4.00
+7.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-15.- Colgante o voladizo con superficie mayor 4.00 M2 luminoso 6.00
+8.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-16.- Autosoportado tipo paleta con superficie de hasta 3.00 M2 opaco 4.00
+9.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-17.- Autosoportado tipo paleta con superficie de más de 3.00 M2 hasta 8.00 M2 opaco 12.00
+10.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-18.- Autosoportado tipo paleta con superficie de más de 8.00 M2 hasta 12.00 M2 opaco 18.00
+11.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-19.- Autosoportado tipo paleta con más de 12.00 M2 opaco
+12.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-Más el 10 por ciento por metro excedente del numeral anterior.
+13.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-20.- Autosoportado tipo bandera con superficie de hasta 3.00 M2 opaco 4.00
+14.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-21.- Autosoportado tipo bandera con superficie de más de 3.00 M2 hasta 8.00 M2 opaco 12.00
+15.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-22.- Autosoportado tipo bandera con superficie de más de 8.00 M2 hasta 12.00 M2 opaco 18.00
+16.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-23.- Autosoportado tipo bandera con superficie de más de 12.00 M2 opaco
+17.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-Más el 10 por ciento por metro excedente del numeral anterior.
+18.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-24.- Autosoportado tipo paleta con superficie de hasta 3.00 M2 luminoso 6.00
+19.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-25.- Autosoportado tipo paleta con superficie de más de 3.00 M2 hasta 8.00 M2 luminoso 16.00
+20.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-26.- Autosoportado tipo paleta con superficie de más de 8.00 M2 hasta 12.00 M2 luminoso 24.00
+21.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-27.- Autosoportado tipo paleta con superficie de más de 12.00 M2 luminoso
+22.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-Más el 10 por ciento por metro excedente del numeral anterior
+23.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-28.- Autosoportado tipo bandera con superficie de hasta 3.00 M2 luminoso 6.00
+24.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-29.- Autosoportado tipo bandera con superficie de más de 3.00 M2 hasta 8.00 M2 luminoso 16.00
+25.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-30.- Autosoportado tipo bandera con superficie de más de 8.00 M2 hasta 12.00 M2 luminoso 24.00
+26.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-31.- Autosoportado tipo bandera con superficie de más de 12.00 M2 luminoso
+27.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-Más el 10 por ciento por metro excedente del numeral anterior.
+28.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-32.- Estructural en azotea hasta 35.00 M2 60.00
+29.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-33.- Estructural en azotea de más de 35.00 M2 y hasta 60.00 M2 90.00
+30.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-34.- Estructural en azotea de más de 60.00 M2 120.00
+31.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-35.- Estructural en piso hasta 35.00 M2 60.00
+32.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-36.- Estructural en piso de más de 35.00 M2 y hasta 60.00 M2 90.00
+33.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-37.- Estructural en piso de más de 60.00 M2 120.00
+34.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-38.- Estructural pantalla electrónica hasta 35.00 M2 52.00
+35.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-39.- Estructural pantalla electrónica de más de 35.00 M2 y hasta 60.00 M2 80.00
+36.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-40.- Estructural pantalla electrónica de más de 60.00 M2 110.00
+37.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-41.- Pintado en caseta telefónica 12.00
+38.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-42.- Adosado en caseta telefónica 12.00
+39.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-43.- Pintado en puesto fijo en la vía pública 2.00
+40.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-44.- Adosado en puesto fijo en la vía pública 2.00
+41.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-45.- Pintado en puesto semifijo en la vía pública 2.00
+42.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-46.- Adosado en puesto semifijo en la vía pública 2.00
+43.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-47.- Autoparlantes sonoros móvil, por vehículo 40.00
+44.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-48.- Otros no especificados, por M2 o por evento, según sea el caso 1.00 a 120.00
+45.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+46.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+47.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+48.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 B.- PUBLICIDAD TRANSITORIA
 
-1.- Manta con una superficie hasta 2.00 M2 por día y hasta por 30 días naturales 1.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-2.- Manta con una superficie de 2.00 M2 por día y hasta 4.00 M2 hasta por 30 días naturales 2.00
+1.- Manta por M2 por día y hasta
 
-3.- Manta con una superficie mayor de 4.00 M2 por día y hasta por 30 días naturales 3.00
+30 días naturales 0.50
 
-4.- Distribución de volantes y/o folletos en vía pública por día 2.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-5.- Carteles publicitarios por día 2.00
+2.- Distribución de volantes y/o folletos
 
-6.- Autoparlantes sonoros fijos por día 1.00
+en vía pública por día 5.00
 
-7.- Autoparlantes sonoros móvil por día 1.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-8.- Otros no especificados transitorios 1.00 a 3.00
+3.- Carteles publicitarios por día 5.00
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+4.- Autoparlantes sonoros fijos por día 5.00
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+5.- Autoparlantes sonoros móvil por día 5.00
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+6.- Otros no especificados transitorios 3.00
+
+7.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+8.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 77.
 
@@ -1629,7 +1663,11 @@ a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por 
 
 8.- Centros nocturnos 500.00
 
-9.- Centros nocturnos con baile de pasarela 1000.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+9.- Centros nocturnos con baile de
+
+pasarela y table dance 1000.00
 
 10.- Clubes sociales 50.00
 
@@ -1657,7 +1695,9 @@ a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por 
 
 22.- Menuderías 25.00
 
-23.- Moteles 500.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+23.- Moteles 400.00
 
 24.- Palenques 500.00
 
@@ -1681,7 +1721,9 @@ a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por 
 
 34.- Tiendas de autoservicio con venta de cerveza vinos y licores 100.00
 
-35.- Tiendas departamentales 500.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+35.- Tiendas departamentales y ancla 500.00
 
 36.- Otros giros no especificados 23.00 a 1000.00
 
@@ -1713,21 +1755,19 @@ a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por 
 
 43.- Casinos, clubes sociales y similares De 50 a 500
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+44.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-44.- Cenadurías A 50
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
-
-45.- Cenadurías B 25
+45.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
 
 46.- Centros de espectáculos 400
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-47.- Cocina económica con venta de cerveza 50
+47.- Cocina económica o cendauría (sic) con
+
+venta de cerveza 50.00
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
 
@@ -1745,25 +1785,19 @@ a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por 
 
 51.- Lonchería con venta de cerveza 23
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+52.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-52.- Marisquería A 50
+53.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+54.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-53.- Marisquería B 25
+55.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-54.- Moteles A 500
+56.- Ramada en zona de playa con
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
-
-55.- Moteles B 200
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
-
-56.- Ramada en zona de playa con venta de cerveza 25
+venta de cerveza 60.00
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
 
@@ -2345,6 +2379,26 @@ Unidades de salario
 
 2.- Sinfonolas 6.00
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 82-A.
+
+Las persona físicas o morales que se establezcan eventualmente en lugares públicos o privados, que enajenen mercancía o alimentos bajo la denominación de expos o similares y que reúnan los requisitos para ser autorizados, deberán pagar diariamente por espacio utilizado de la siguiente manera:
+
+a).- Hasta 10M2 2.00
+
+b).- De 11.00 a 20.00 M2 3.00
+
+c).- De más de 20 M2 5.00
+
+d).- Tratándose de personas físicas o
+
+morales que vendan su mercancía bajo la
+
+dirección de una casa comercial o similar se
+
+cobrará diariamente 25.00
+
 #### SECCION SEGUNDA. DE LOS REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
 
 A) REGISTRO CIVIL
@@ -2415,179 +2469,231 @@ Los derechos que se originen por concepto de campañas de regularización del es
 
 B) CATASTRO
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 84.
 
-Los derechos por servicios que preste el catastro municipal se causarán y pagarán conforme a la siguiente tarifa, por cada pieza:
+Los derechos por servicios que preste el catastro municipal se causarán y pagarán conforme a la siguiente tarifa, por cada pieza o evento:
 
-Unidad de salario
+I.- Copias e impresiones
 
-(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+a).-Por cada copia fotostática simple de
 
-I. Copias e impresiones:
+tarjeta de registro de cuenta catastral 1.00
 
-a) De planos generales 5.00
+b).-Por cada copia fotostática certificada de
 
-b) De plano de un predio con acotaciones 3.60
+tarjeta de registro de cuenta catastral 3.00
 
-c) De plano manzanero 3.60
+c).- Por cada copia fotostática simple de
 
-d) De plano manzanero graficado 5.00
+traslado de dominio 1.00
 
-e) De plano de fraccionamiento 5.00
+d).- Por cada copia fotostática certificada
 
-f) De plano general a diferentes escalas:
+de traslado de dominio 3.00
 
-1.- Graficado, incluyendo, manzanas predios y calles 8.00
+e).- Por cada copia fotostática simple
 
-2.- Por cada impresión hasta de 1.10 x 0.84 mts 8.00
+de cartografía catastral a nivel predio
 
-3.- Por cada copia adicional al plano general 5.00
+o manzana 1.00
 
-g) De planos de predios urbanos con medidas, superficie y nombre de calles:
+f).- Por cada copia fotostática certificada
 
-1.- Sin nombres de colindantes 3.60
+de cartografía catastral a nivel predio
 
-2.- Con nombres de colindantes 4.60
+o manzana 3.00
 
-h) De planos de predios rústicos
+g).- Por cada copia simple de título de
 
-1.- Hasta 5-00-00 hectáreas 15.00
+propiedad ejidal, certificado parcelario o
 
-2.- Más de 5-00-00 hectáreas 25.00
+derecho de posesión 1.00
 
-i) De fotos aéreas, más costo de laboratorio, según tamaño 10.00
+h).- Por cada copia certificada de título de
 
-j) De cada fotografía de contacto en formato 23 x 23 ctms. Escala 1,4500 2.00
+propiedad ejidal, certificado parcelario
 
-k) De tarjetas de registro. 2.50
+o derecho de posesión 3.00
 
-l) Aviso de transmisión patrimonial 2.50
+i).-Por cada plano cartográfico impreso en graficador (plotter) a diferente escala de una manzana, zona o sector catastral:
 
-m) De avalúos catastrales 3.00
+1.- Con medidas y superficies 10.00
 
-(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+2.- En forma gráfica 10.00
 
-II. Certificaciones:
+j).- Por cada plano cartográfico impreso en láser a diferente escala de un predio, manzana, zona o sector catastral
 
-a) Certificaciones de documentos catastrales 1.80
+1.- Con medidas y superficie 1.5
 
-b) Certificación catastral de un predio para tramitar juicio a favor del poseedor 9.00
+2.- En forma gráfica 1.5
 
-c) Constancia certificada de inscripción o no en los registros catastrales 1.80
+II.- Informes y certificaciones
 
-d) Constancia de pago del impuesto predial 1.00
+a).- Informe histórico catastral de un predio 4.00
 
-(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+b).- Certificado de inscripción de un predio
 
-III. Avalúos, asignación de claves y mediciones:
+en el padrón catastral 3.50
 
-a) Por asignación de claves catastrales urbanas en nuevos fraccionamientos o relotificación se cubrirá el siguiente derecho:
+c).- Certificado de inscripción o no de una
 
-1.- DENSIDAD BAJA:
+persona en el padrón catastral 2.00
 
-- Por fraccionamiento 15.76
+III.- Avalúos, asignación de claves y mediciones
 
-- Más por lote 0.27
+a).- Avalúo certificado de un predio urbano a solicitud del interesado
 
-2.- DENSIDAD MEDIA:
+1.- Hasta un valor catastral equivalente
 
-- Por fraccionamiento 11.25
+a 5,578 días de salario mínimo 2.00
 
-- Más por lote 0.18
+2.- Cuando el valor catastral este entre
 
-3.- DENSIDAD ALTA:
+5,578 y 13,947 días de salario mínimo 3.5
+
+3.- Cuando el valor catastral este entre
+
+13,947 y 22,315 días de salario mínimo 5.00
+
+4.- Cuando el valor catastral sea de 22,315
+
+días de salario mínimo en adelante se pagará
+
+sobre dicho valor 0.01%
+
+b).- Avalúo certificado de un predio rústico a solicitud del interesado
+
+1.- Hasta un valor catastral equivalente
+
+a 1,394 días de salario mínimo 2.00
+
+2.- Cuando el valor catastral este entre
+
+1,394 y 2,789 días de salario mínimo 2.50
+
+3.- Cuando el valor catastral este entre
+
+2,789 y 4,184 días de salario mínimo 3.50
+
+4.- Cuando el valor catastral sea de
+
+4,184 días de salario mínimo en adelante
+
+Se pagara sobre dicho valor 0.1%
+
+c).- Por asignación de claves catastrales urbanas en nuevos fraccionamientos se cubrirá el siguiente derecho.
+
+1.- Popular
 
 - Por fraccionamiento 9.00
 
 - Más por lote 0.09
 
-b) Cuando por motivo de una solicitud de rectificación o medición de un predio, urbano o rústico sea necesario el traslado del personal técnico para la verificación física, se cubrirá previamente el siguiente derecho:
+2.-Granjas
 
-1.- En la ciudad en la que se ubican de las oficinas catastrales 1.80
+- Por fraccionamiento 11.25
 
-2.- Fuera de la ciudad en la que se encuentran las oficinas catastrales 1.80
+- Más por lote 0.27
 
-- Más, por cada kilómetro recorrido 0.09
+3.-Industrial
 
-c) Por asignar coordenadas geodésicas para la orientación de fraccionamientos:
+- Por fraccionamiento 11.25
 
-- Por cada punto geodésico 10.00
+- Más por lote 0.27
 
-d) Por medición de terreno, elaboración y expedición de planos, de conformidad con la siguiente clasificación:
+4.-Residencial Campestre
 
-1.- Tratándose de predios urbanos:
+- Por fraccionamiento 13.00
 
-Hasta 120.00 M2. 5.00
+- Más por lote 0.45
 
-De 120.01 a 200.00 M2 6.00
+5.-Residencial
 
-De 200.01 a 300.00 M2 7.00
+- Por fraccionamiento 15.76
 
-De 300.01 a 500.00 M2 7.50
+- Más por lote 0.58
 
-De 500.01 a 1,000.00 M2. 8.50
+d).- Por asignación de claves catastrales en lotificación urbana de un fraccionamiento por motivo de modificación de su área registrada en catastro, se cubrirá el siguiente derecho:
 
-De 1,000.01 a 2,000.00 M2 11.00
+1.-Popular
 
-Más de 2,000.00 M2 15.00
+- Por fraccionamiento 9.00
 
-2.- Tratándose de predios rústicos:
+- Más por lote 0.09
 
-Hasta 10-00-00 hectáreas 8.50
+2.-Granjas
 
-Más de 10-00-00 hectáreas 5.00
+- Por fraccionamiento 11.25
 
-(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+- Más por lote 0.27
 
-IV. Fusiones, subdivisiones, cesiones y registros:
+3.-Industrial
 
-a) Por la fusión o subdivisión de predios, cuando el valor catastral de los predios fusionados o subdivididos sea de:
+- Por fraccionamiento 11.2
 
-1.- Hasta un valor catastral equivalente a 2,250.00 unidades de salario 2.25
+- Más por lote 0.27
 
-2.- Más de un valor catastral equivalente a 2,250.00 unidades de salario, se pagará sobre dicho valor el 0.1 por ciento
+4.-Residencial Campestre
 
-b) Registro de cesión de derechos de predios registrados catastralmente sólo para el pago de impuesto predial 2.25
+- Por fraccionamiento 13.00
 
-c) Por el registro de actas o avisos notariales en los que se constituya o modifique el régimen de propiedad en condominio:
+- Más por lote 45
 
-- Por cada lote, departamento, finca o local 1.80
+5.-Residencial
 
-d) Por inscripción o registro de títulos documentos públicos o privados, en virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o posesión de bienes inmuebles o modifiquen los registros catastrales:
+- Por fraccionamiento 15.76
 
-1.- Cuando el valor del inmueble sea hasta el equivalente a 6,111.00 unidades de salario 1.80
+- Más por lote 0.58
 
-2.- Cuando el valor del inmueble sea mayor al equivalente de 6,111.00 unidades de salario 2.70
+e).- Por la localización de coordenadas
 
-e) Por la búsqueda y expedición de información catastral de predios urbanos 1.80
+geodésicas para orientación de terrenos 40.00
 
-(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+IV.- Por la fusión o subdivisión de predios y renotificación
 
-V. Por modificar registros manifestados erróneamente 1.80
+a).- Cuando el valor de los predios fusionados, subdivididos o renotificados sea de:
 
-(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+1.- Hasta de un valor catastral equivalente
 
-VI. Por cartografía a escala 1:1,000 en forma digital, por cada zona catastral:
+a 11,157 días de salario mínimo 2.50
 
-a) Archivos DXF (manzanas, predios y nomenclaturas) 75.00
+2.- Cuando el valor catastral sea de 11,157
 
-b) Archivos DXF (manzanas, predios, construcciones, nomenclaturas, cotas, fotogramétricas en coordenadas Universal Transversa de Mercator 120.00
+días de salario mínimo en adelante 3.00
 
-(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+V.- inscripción y registro de actas o avisos
 
-VII. Por cartografía del plano general, en formato digital de la zona urbana de la cabecera municipal:
+a).- Por el registro de actas o avisos notariales en los que se constituya o modifique un régimen de propiedad en condominio
 
-a) Archivos DXF (manzanas, predios, construcciones, nomenclatura de calles, hidrografía, vías de comunicación, cotas fotogramétricas en coordenadas Universal Transversa de Mercator 145.00
+Por cada lote, departamento o local
 
-(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+se cobrará 2.00
 
-VIII. Por cartografía 1:10,000 en formato digital por cada población o comunidad:
+b).- Por cada inscripción de títulos o documentos públicos o privados, en virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o posesión de bienes inmuebles o modifiquen los registros catastrales:
 
-a) Archivos DXF (manzanas, predios, construcciones, nomenclatura de calles, hidrografía, vías de comunicación, cotas fotogramétricas en coordenadas Universal Transversa de Mercator. 72.00 a 145.00
+1.- Cuando el valor del inmueble sea
 
-(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
+hasta de 5,578 días de salario mínimo 2.50
 
-IX. Formato de Subdivisión debidamente requisitado 6.00
+2.- Cuando el valor del inmueble sea
+
+de 5,578 días de salario mínimo
+
+en adelante 3.00
+
+c).- Inscripción de programas parciales 3.00
+
+d).- Por la inscripción de un plano
+
+catastral o documento protocolizado
+
+por un notario publico 4.00
+
+e).- Por modificar datos manifestados
+
+erróneamente 3.00
 
 C) ECOLOGIA
 
@@ -2597,33 +2703,43 @@ Los montos establecidos para que la dependencia municipal competente otorgue las
 
 Unidad de salario
 
-I. Por el dictamen del informe de factibilidad ambiental para:
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-a) Obras o actividades con inversión menor de 650.00 unidades de salario 0.00
+I. Por el dictamen del informe de factibilidad o compatibilidad urbana ambiental:
+
+a) Obras o actividades con inversión menor de 650.00 unidades de salario 2.00
 
 b) Obras o actividades con inversión mayor de 650.00 unidades de salario
 
-1.- Por la recepción y evaluación 20.00
+1.- Por la recepción y evaluación 30.00
 
 2.- Por el otorgamiento del dictamen 10.00
 
-3.- Por la revalidación del dictamen 10.00
+3.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 II. Por el dictamen de la manifestación de impacto ambiental modalidad MIA 1:
 
-a) Por la recepción y evaluación 50.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+a) Por la recepción y evaluación 70.00
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 b) Por la (sic) otorgamiento del dictamen 20.00
 
-c) Por la revalidación del dictamen 20.00
+c) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 III. Por el dictamen de la manifestación de impacto ambiental MIA 2:
 
-a) Por la recepción y evaluación 80.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b) Por la (sic) otorgamiento del dictamen 40.00
+a) Por la recepción y evaluación 120.00
 
-c) Por la revalidación del dictamen 30.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b) Por la (sic) otorgamiento del dictamen 30.00
+
+c) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 IV. Por la autorización para la poda o derribo de cada árbol, tomando en cuenta la Norma Oficial Mexicana NOM-059-ECOL-2001, de:
 
@@ -2653,13 +2769,203 @@ a) Especies comerciales (frutales y de ornato) o industriales
 
 - Arboles de más de 121 ctms. de diámetro de fuste principal 25.00
 
-V. Por la expedición de la cédula de calibración de equipo de perifoneo:
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-a) Por la emisión de 1 a 2 mensajes 1.00
+V. Registro de equipos de sonido masivo fijos y móviles al año 15.00
 
-b) Por la emisión de 3 a 4 mensajes 2.00
+Refrendos 50%
 
-VI. Por la expedición de autorizaciones, certificaciones y dictámenes no previstos en este artículo de 1.00 a 100.00
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VI. Licencia de explotación de bancos de material de construcción y sitios de explotación de recursos naturales. Por cada M3 0.20
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VII. Por la licencia para la ubicación de escombreras o depósito de residuos de construcciones 10.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VIII. Licencia de actividades de acopio de material reciclable
+
+a).- Predios o instalaciones menores a 240.00 M2 (pequeña empresa) 10.00
+
+b).- Predios o instalaciones mayores a 240.00 M2 (mediana empresa) 30.00
+
+c).- Industria 30.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+IX. Otras autorizaciones y servicios en materia ambiental 25.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+X. Registro de estudios, manifiestos, informes de impacto de riesgo medio ambiental, municipal, por evento
+
+a).- Predios o instalaciones menores a 240.00 M2 (pequeña empresa) 2.50
+
+b).- Predios o instalaciones mayores a 240.00 M2 (mediana empresa) 3.75
+
+c).- Industria 5.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XI. Registro de descargas de aguas residuales. Por evento
+
+a).- Habitacional 2.50
+
+b).- Comercial 5.00
+
+c).- Turísticos 7.50
+
+d).- Industrial 10.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XII. Registro (sic) prestadores profesionales de servicios ambientales y laboratorios, incluye indicadores ambientales (anual)
+
+a).- Educadores ambientales 2.00
+
+b).- Prestador de servicios ambientales 60.00
+
+c).- Auditores ambientales 120.00
+
+d).- Refrendos 50.00%
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XIII. Cédula de funcionamiento ambiental: Giros o establecimientos de manejo de sustancias contaminantes al aire, suelo, agua
+
+a).- Predios o instalaciones menores a 240.00 M2 (pequeña empresa) 2.00
+
+b).- Predios o instalaciones mayores a 240.00 M2 (mediana empresa) 3.50
+
+c).- Industria 5.00
+
+d).- Refrendo 50.00%
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XIV. Registro municipal de transmisión de derechos de servicios y potencialidades medio ambientales. Por evento 100.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XV. Registro municipal de sitios naturales para el desarrollo y explotación del turismo sustentable. Por unidad
+
+a).- Predios o instalaciones menores a 240.00 M2 (pequeña empresa) 12.50
+
+b).- Predios o instalaciones mayores a 240.00 M2 (mediana empresa) 50.00
+
+c).- Industria 100.00
+
+d).- Refrendo 50.00%
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XVI. Registro municipal de anuncios Publicitarios con mensajería subliminal por unidad por año 500.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XVII. Registro de estacionamientos con servicio público complementario para eventos de espectáculos o recreación masiva. Por día o evento
+
+a).- Predios o instalaciones menores
+
+a 240.00 M2 (pequeña empresa) 10.00
+
+b).- Predios o instalaciones mayores a
+
+240.00 M2 (mediana empresa) 20.00
+
+c).- Predios o instalaciones mayores
+
+a 10000.00 M2 30.00
+
+d).- Otros por auto 0.25
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XVIII. Registro municipal de viveros y establecimientos de producción de especies vegetales. Por unidad anualmente 5.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XIX. Registro municipal de expendio de agua purificada y de consumo humano. Por punto de venta 2.50
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XX. Inspección y verificación de afinación de vehículos automotores de gasolina y diesel, incluye pequeñas embarcaciones. Por unidad al año:
+
+a).- Fuel injection 3.00
+
+b).- Carburador 4.00
+
+c).- Diesel 5.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXI. Registro de fuentes emisoras de humos, olores, vibraciones, energía térmica y lumínica y radiaciones electromagnéticas. Por unidad al año
+
+a).- Predios o instalaciones menores a 240.00 M2 (pequeña empresa) 3.00
+
+b).- Predios o instalaciones mayores a 240.00 M2 (mediana empresa) 4.00
+
+c).- Industria 5.00
+
+d).- Refrendo 50.00%
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXII. Registro de ladrilleras y expendios de material de barro cocido, fijos y móviles. Por unidad anualmente.
+
+a).- Predios o instalaciones menores a 240.00 M2 (pequeña empresa) 5.00
+
+b).- Predios o instalaciones mayores a 240.00 M2 (mediana empresa) 7.50
+
+c).- Instalaciones mayores a 1,000 M2 10.00
+
+d).- Vehículos automotores (venta) 5.00
+
+e).- Refrendo 50.00%
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXIII. Licencia municipal ambiental. Anualmente
+
+a).- Predios o instalaciones menores a 240.00 M2 (pequeña empresa) 3.00
+
+b).- Predios o instalaciones mayores a 240.00 M2 (mediana empresa) 4.00
+
+c).- Industria 5.00
+
+d).- Refrendo 50.00%
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXIV. Registro municipal de talleres de servicios de cambio y reparación de llantas en unidades automotrices. Al año 3.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXV. Registro municipal de provedores (sic) de material de palma para construcción de palapas recreativas y utilitarias. Al año 7.50
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXVI. Registro municipal de empresas, comercios, servicios y desarrollos habitacionales y turísticos que emplean tecnología de cuidado al medio ambiente. Anualmente 2.50
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXVII. Registro de empresas que han entrado a algún programa oficial de certificación como industria limpia.
+
+a).- Predios o instalaciones menores a 240.00 M2 (pequeña empresa) 1.00
+
+b).- Predios o instalaciones mayores a 240.00 M2 (mediana empresa) 2.00
+
+c).- Instalaciones mayores de 1,000 M2 2.50
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXVIII. Registro municipal de fundaciones y asociaciones civiles con actividades de fomento a la cultura medioambiental. Anualmente.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XXX. (SIC) Por la expedición de autorizaciones, certificaciones y dictámenes no previstos en este articulo de 1.00 a 100
 
 D) OTROS
 
@@ -2679,15 +2985,49 @@ IV. Constancias 1.00
 
 #### SECCION PRIMERA. SERVICIOS MEDICOS
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 87.
 
-Los servicios médicos municipales, causarán los siguientes derechos:
+Los servicios médicos y da (sic) salud municipales, causarán los siguientes derechos:
 
 Unidad de salario
 
-a) Examen por persona 1.00
+I.- Autorización de planos
 
-b) Examen por visita 2.00
+a).- Popular y medio por metro cuadrado 0.03
+
+b).- Residencial, comercial, industrial y otros 0.05
+
+II.- Por verificación y vigilancia
+
+a).- Cabarets, centros nocturnos, salones
+
+de baile, discotecas y similares, por visita
+
+programada de acuerdo al riesgo y catalogo
+
+de giros vigentes 16.20
+
+b).- Bares, cantinas, cervecerías, centros
+
+botaneros y similares de acuerdo al riesgo y
+
+catalogo de giros vigente 16.20
+
+c).- Hoteles, moteles, departamentos
+
+amueblados y similares, por visita
+
+programada de acuerdo al riesgo y catalogo
+
+de giros vigente 16.20
+
+III.- Examen por persona 1.00
+
+IV.-Examen por visita 2.00
+
+V.- Examen de alcohol 10.00
 
 El Presidente Municipal podrá autorizar los servicios médicos municipales en forma gratuita a personas indigentes o carentes de recursos económicos.
 
@@ -2740,6 +3080,44 @@ Unidades de salario
 2.- Fiestas particulares 7.00
 
 3.- Otros 10.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+I. Por servicio de patrullaje en vialidades
+
+del municipio por desfiles de promoción de
+
+firmas comerciales y espectáculos.
+
+Por evento 20.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II. Por servicio de patrullaje en vialidades
+
+del municipio por desfiles deportivos,
+
+sociales, culturales y religiosos 0.00
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III. Por servicio de estacionamiento de
+
+autobuses foráneos en áreas autorizadas
+
+durante la semana santa y periodos
+
+vacacionales. Por día 5.00
+
+Tratándose de vehículos particulares será de 0.25
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+IV. Permiso de carga y descarga de
+
+vehículos de carga pesada dentro del
+
+primer cuadro, por cada evento 1.50
 
 ### CAPITULO V. DE LAS CONCESIONES DE BIENES Y SERVICIOS PUBLICOS
 
@@ -2813,29 +3191,79 @@ Unidad de salario
 
 I. Por recolección y traslado de residuos no peligrosos, previo dictamen de la autoridad competente:
 
-(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-a) Los propietarios, poseedores o usuarios de predios destinados a la realización de actividades económicas que generen una cantidad diaria menor a 25 kilogramos 0.00
+a).- Los propietarios, poseedores o
 
-(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+usuarios de inmuebles destinados a la
 
-b) Quienes realicen actividades comerciales, industriales o de prestación de servicios, así como el de los fraccionamientos no municipalizados y que requieren de estos servicios en forma permanente, deberán celebrar convenio con el Ayuntamiento, en el cual se fijará la forma en que se prestarán éstos, cobrándose en base a volumen tal y como se establece en éste artículo, o en base a estimatoria, con respecto al peso o volumen. Respecto a las tarifas mínimas se estará a lo dispuesto por las siguientes:
+realización de actividades económicas
 
-1) Por tonelada 0.50
+que generan o produzcan hasta 4 kgs
 
-(REFORMADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+de basura por día, pagarán anualmente
 
-2) Por metro cúbico 0.40
+como mínimo. El costo de referencia
 
-3) Por metro cúbico sin compactar 0.20
+deberá incluirse en el pago de la licencia
 
-4) Por cada tambo de 200 litros 0.04
+o refrendo correspondiente 3.00
 
-5) Por cada contenedor 0.80
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-II. Cuando se requiera el servicio de camiones de aseo en forma exclusiva, por cada flete 15.00
+b).- Quienes realicen actividades
 
-III. (DEROGADA, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+empresariales, así como fraccionamientos
+
+no municipalizados que requieran de éstos
+
+servicios en forma regular deberán celebrar
+
+convenio con el Ayuntamiento, en el cuál se
+
+fijará la forma en que prestarán éstos
+
+cobrándose en base a tonelada tal y como se
+
+establece en éste artículo 14.00
+
+1.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+2.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+3.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+4.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+5.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c).- Cuando no se pueda realizar el pesaje, entonces se determinará el volumen de la unidad, y se considerará un peso volumétrico de la basura de 200kg/m3, determinando con lo anterior el tonelaje acarreado por la unidad. Con el tonelaje determinado se aplicara la tarifa de la fracción I inciso "b".
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II.- Cuando se requiera el servicio especial
+
+de camiones de aseo de 6m3, en forma
+
+exclusiva por cada flete 15.00
+
+Cuando los camiones tengan capacidad de
+
+más de 6m3, se cobrará por cada m3 un
+
+salario mínimo adicional 1.00
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III.- Cuando un fraccionamiento no municipalizado no preste o deje de prestar el servicio de recolección de residuos sólidos y el fraccionador no realice el contrato respectivo con el Ayuntamiento, obligando a éste a prestar el servicio, se le podrá cobrar de las siguientes maneras:
+
+a).- Número de casas habitadas x 4 habitantes x el número de días de servicio x 0.86 kg./habitante.
+
+El resultado obtenido de la operación anterior, se multiplicará por el factor contemplado en la fracción I inciso b y el resultado es lo que se cobrará.
+
+b).- Durante 14 días continuos se realizará la recolección de la basura del fraccionamiento, pesando el material recolectado, al finalizar éste período, se obtendrá un promedio de peso por día y se multiplicará por el número de días en que se prestó el servicio; al resultado se le multiplicará por el factor contemplado en la fracción I inciso b y el resultado será lo que se cobrará.
 
 IV. Por realizar servicios especiales de limpieza, recolección y transporte de residuos en lotes no edificados o edificaciones ruinosas o inhabitables, en rebeldía de los obligados a mantenerlos limpios, por metro cuadrado, cada vez 0.12
 
@@ -2843,37 +3271,81 @@ Incurrirá en rebeldía el titular del predio que no lleve a cabo la limpieza y 
 
 V. Por depositar residuos en el relleno sanitario:
 
-a) Por tonelada 2.68
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b) Por metro cúbico compactado 3.00
+a).- Por tonelada 4.58
 
-c) Por metro cúbico sin compactar 1.50
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-d) Por cada tambo de 200 litros 0.30
+b).- Si por alguna razón no es posible pesar los residuos, se empleara el procedimiento descrito en la fracción I inciso c.
 
-VI. Por depositar residuos no peligrosos provenientes de rastros y hospitales, en el relleno sanitario:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-a) Por tonelada 5.50
+c).- Si es un usuario frecuente en el uso del relleno sanitario, se sacará su peso volumétrico promedio y se aplicará la fracción I inciso b.
 
-b) Por metro cúbico compactado 3.50
+d).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
-c) Por metro cúbico sin compactar 2.50
+VI.- Por depositar residuos no peligrosos, provenientes de rastros, hospitales en el relleno sanitario.
 
-d) Por cada tambo de 200 litros 0.50
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-VII. Por el confinamiento de residuos especiales no peligrosos, a solicitud de los particulares por orden de las autoridades federales competentes, se pagará de conformidad con la cota por tonelada establecida en la fracción III de este artículo, además por hora máquina que se requiera para su confinamiento a razón de 17 unidades de salario por hora, y por los productos que se requieran aplicar según la norma oficial para neutralizar los efectos contaminantes de los residuos confinados.
+a).- Por tonelada 5.50
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b).- Sí por alguna razón no es posible pesarlo, se medirá el volumen de la fracción I inciso c.
+
+c).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+d).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VII.- Por el confinamiento de residuos especiales no peligrosos a solicitud de los particulares, por orden de las autoridades federales competentes se pagará de conformidad con la cuota por tonelada establecida en la fracción I inciso b de éste artículo, además de cubrir las horas máquina que se requiera para su confinamiento a razón de 17 unidades de salario por hora, y aportar los productos que se requieran aplicar, según la norma oficial, para neutralizar los efectos contaminantes de los residuos confinados.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VIII.- La limpieza de la infraestructura urbana o suburbana en donde se coloque publicidad sin la autorización o que no sea retirada en el plazo establecido, se pagará por pieza conforme a lo siguiente:
+
+a).- Pegada con engrudo o similar 1.00
+
+b).-Amarrada con hilo 0.01
+
+c).- Amarrada con alambre 0.05
+
+El plazo para el retiro de la propaganda de la infraestructura urbana o suburbana será de 3 días hábiles después de su notificación.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+IX. Por depositar residuos de demolición
+
+(como escombro o cascajo) no contaminada
+
+con residuos sólidos, se cobrará por viaje de
+
+6.00 M3 1.00
 
 ###### ARTICULO 98.
 
 El pago de este derecho deberá ser cubierto en las oficinas de la Tesorería Municipal o en el lugar que ésta determine, de la siguiente manera, según clasificación de las fracciones del artículo anterior.
 
-I. En forma mensual, dentro de los primeros cinco días de cada mes los contribuyentes de los supuestos de la fracción I.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-II. Cinco días con antelación a la prestación del servicio, los contribuyentes de las hipótesis previstas en la fracción II.
+I.- En forma mensual, dentro de los primeros cinco días de cada mes los contribuyentes de los supuestos de las fracciones I inciso b), V, VI y IX.
 
-III. Al momento de prestarse el servicio: en los casos señalados en las fracciones III, V y VI.
+Unidad de salario mínimo (sic)
 
-IV. Cinco días posteriores al requerimiento de pago al propietario o poseedor del predio, en el supuesto de la fracción IV.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II.- Cinco días con antelación a la prestación del servicio los contribuyentes de las hipótesis previstas en la fracción II y VII.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III.- Cinco días posteriores al requerimiento del pago los contribuyentes de la hipótesis prevista en la fracción III incisos a y b, IV y VIII.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+IV.- Anualmente al solicitar o refrendar su licencia municipal de conformidad con la fracción I inciso a.
 
 #### SECCION TERCERA. CEMENTERIOS
 
@@ -2951,11 +3423,17 @@ Unidad de salario
 
 I. Por cabeza de ganado:
 
-a) Vacuno 1.20
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b) Porcino 0.71
+a).- Vacuno 1.00
 
-c) Lanar o caprino 0.60
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b).- Porcino 0.60
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c).- Lanar o caprino 0.50
 
 II. Por cabeza de aves: 0.05
 
@@ -3019,15 +3497,37 @@ Unidad de salario
 
 I. Arrendamiento de mercados, se pagará según la tarifa siguiente, por día:
 
-a) Locales interiores 0.40
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b) Accesorias 0.20
+a).- Locales interiores de 0.001 a 9.000 m2.
 
-c) Puestos semifijos 0.40
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-d) Puestos eventuales 0.40
+b).- Locales interiores de 9.001 a 18.000 m2.
 
-e) Otros no especificados, por metro cuadrado 0.40
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c).- Locales interiores de 18.001 a 27.000 m2.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+d).- Locales interiores de 27.001 m2 en adelante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+e).- Accesorías
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+f).- Puestos semifijos
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+g).- Puestos eventuales
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+h).- Otros no especificados
 
 II. Refrendo de concesión de los mercados, anualmente 2.00
 
@@ -3253,8 +3753,6 @@ Con el propósito de elevar la recaudación tributaria y obtener una mayor efici
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
-
 ###### ARTICULO 123.
 
 Las participaciones federales son aquellos ingresos que recibe el municipio de conformidad con las leyes de coordinación fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, al Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos.
@@ -3279,83 +3777,23 @@ Son ingresos extraordinarios los que perciba la hacienda pública municipal, de 
 
 ###### ARTICULO 126.
 
-Se establece el Programa de Estímulos Fiscales y Financieros del Municipio de Manzanillo para las empresas de nueva creación y para aquellas que regularicen su situación ante el fisco municipal, con el objetivo de impulsar y estimular la instalación de nuevas empresas, así como, regularizar aquellas personas físicas o morales que estando establecidas, mantienen una situación irregular ante el fisco municipal y que soliciten su regularización por iniciativa propia.
-
-También tiene como propósito establecer los instrumentos y mecanismos para el otorgamiento de los estímulos, mediante la creación del Consejo de Promoción Económica del Ayuntamiento de Manzanillo.
-
-I. Los incentivos y apoyos que el Gobierno Municipal promoverá y otorgará a las empresas de nueva creación y personas físicas o morales que por iniciativa propia o a invitación del Ayuntamiento regularicen situaciones ante el fisco municipal de las ramas comercial, industrial y de servicios consistirán en: Estímulos fiscales, mediante la reducción temporal del impuesto predial, a las empresas que se inscriban en el programa y califiquen para ello;
-
-II. La reducción temporal del impuesto predial, se aplicará de forma escalonada, siendo para el primer año hasta del 75%, para el segundo año hasta el 50%, para el tercer año hasta del 25%, y para el cuarto año no operará descuento alguno. No aplicando durante el período que opere el programa de estímulos, la bonificación del 12% por pago anticipado.
-
-La aplicación de los descuentos y el período serán determinados por el Consejo de Promoción Económica Municipal, que para el efecto constituya el Ayuntamiento, bajo las bases que se establecen en el Programa de Estímulos Fiscales y Financieros del Municipio de Manzanillo, el Reglamento del Funcionamiento del Consejo de Promoción Económica Municipal del Ayuntamiento de Manzanillo y la presente Ley;
-
-III. En el caso de los Programas de Urbanización de la Zona Industrial de Tapeixtles y su consecuente regularización de situación catastral, se aplicará por única vez la cuota o tarifa según corresponda del 0.0% del pago de las superficies de cesión que genera la transformación de suelo rústico a urbano señaladas en los artículos 131 y 139 fracción IX del Reglamento de Zonificación para el estado de Colima.
-
-Asimismo, para las cuotas que generen la ejecución de las obras mediante el sistema de acciones por colaboración.
-
-Para obtener los beneficios señalados en este punto, es indispensable que los beneficiarios soliciten su regularización a más tardar el 30 de junio del 2003 ante el Secretario Técnico del Consejo de Promoción Económica Municipal.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 127.
 
-Para el otorgamiento de los incentivos y apoyos a las empresas que se inscriban en el Programa de Estímulos, se deberán de utilizar los criterios de rentabilidad social, considerando el Manual de Funcionamiento del Consejo de Promoción Económica Municipal, las bases del programa y los siguientes elementos:
-
-Número de empleos que se generen y su nivel de remuneración.
-
-Monto de inversión.
-
-Período de la ejecución de la inversión e inicio de operación de la empresa.
-
-Programa de capacitación que realice.
-
-Ubicación del proyecto.
-
-Protección y mejoramiento del medio ambiente.
-
-Consumo y tratamiento de agua.
-
-Desarrollo tecnológico.
-
-Volumen de producción destinado al mercado externo.
-
-Integración y fortalecimiento de cadenas productivas locales.
-
-Incorporación de proveedores locales.
-
-Las bases que se fijen por el Consejo de Promoción para el otorgamiento y ejecución de los incentivos y apoyos, indicarán adicionalmente las obligaciones a cumplir por las empresas que gocen de los beneficios que otorga el programa, así como las sanciones a las que se harán acreedoras cuando no cumplan con lo convenido o que se simulen acciones para merecer los incentivos y apoyos.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 128.
 
-Las empresas que obtengan los beneficios del programa serán sancionadas por la autoridad fiscal, cuando incurran en cualquiera de las siguientes infracciones:
-
-a) Dar información falsa para la obtención de incentivos o apoyos;
-
-b) Incumplir los compromisos en los tiempos y formas señaladas en la resolución emitida por el Consejo y acordados en el convenio respectivo;
-
-c) Destinar los apoyos e incentivos otorgados a un uso distinto del autorizado;
-
-d) Ceder los beneficios concedidos en la resolución emitida por el Consejo, sin autorización previa;
-
-e) Omitir la presentación oportuna del aviso para notificar modificaciones a las condiciones registradas para el otorgamiento de los incentivos.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 129.
 
-Las infracciones tendrán el carácter de crédito fiscal y serán sancionadas conforme a la presente Ley, el Código Fiscal Municipal y las bases de operación del programa, así como lo que determine el Consejo de Promoción Económica del Municipio de Manzanillo.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 130.
 
-Independientemente de las sanciones administrativas establecidas en los incisos anteriores, el Consejo, cuando lo juzgue conveniente, por las faltas cometidas, podrá determinar la suspensión o cancelación de los incentivos o apoyos que hubieren otorgado a la empresa beneficiada.
-
-En caso de que se determine la cancelación o suspensión de los incentivos o apoyos, además de las sanciones antes señaladas, el infractor que hubiese gozado de los beneficios del programa, deberá reintegrar a la Tesorería Municipal el monto de los incentivos o apoyos más sus intereses y demás accesorios.
-
-Asimismo, si el empresario inicia la aplicación de su inversión sin tener la resolución favorable por parte del Consejo y cuando ésta se emita y le sea en sentido negativo, el empresario deberá enterar a la Tesorería Municipal las contribuciones que hubiere dejado de pagar, adicionando los recargos, actualizaciones y multas, con base en la presente Ley y el Código Fiscal Municipal, tomando en cuenta para calcularlos, las fechas en que debieron haberse pagado.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 T R A N S I T O R I O S
 
@@ -3381,13 +3819,21 @@ AÑO 2003 2004 2005 2006
 
 BASE 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO QUINTO.
 
-En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.04 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
 
-En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.08 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.10 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable en los siguientes casos:
+
+a) Cuando cambie la base del impuesto predial en los términos del Artículo 9 de este ordenamiento.
+
+b) Los que sean objeto de transmisión patrimonial.
+
+c) Los que tengan un adeudo en el pago del impuesto predial de cinco años o más.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2003)</small>
 
@@ -3404,6 +3850,18 @@ BASE 70% 80% 90% 100%
 ###### ARTICULO SEPTIMO.
 
 Para el ejercicio fiscal 2006, se amplia el plazo hasta el 30 de Abril del citado año, para los casos a que se refiere el Artículo 19 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO OCTAVO.
+
+Para el caso de los predios ubicados en las zonas industriales de Tepeixtles, Francisco Villa, Jalita y Campos, el impuesto predial se cobrará a partir del año 2007 de la siguiente forma:
+
+I.- El 70 por ciento para predios urbanos construidos;
+
+II.- El 80 por ciento para predios urbanos baldíos;
+
+III.- Los estímulos de referencia serán otorgados hasta que dichas zonas, sean incorporadas a el Área Urbana del Municipio.
 
 El Gobernador del Estado dispondrá se imprima, publique, circule y observe.
 
@@ -3454,3 +3912,9 @@ El presente Decreto entrará en vigor el día se su publicación en el Periódic
 P.O. 4 DE ABRIL DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 1º de enero del año 2007, previa publicación en el "Periódico Oficial del Estado".
