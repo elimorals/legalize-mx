@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2006-07-13"
+last_updated: "2006-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -1095,9 +1095,9 @@ XXXII. Disponer lo conducente a efecto de diseñar, desarrollar y mantener los s
 
 XXXIII. Foliar con el número progresivo anual que corresponda, las iniciativas presentadas en la Asamblea y acusar de recibo a los autores; y (sic)
 
-> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-XXXIV. Divulgar la Legislación del Estado de Jalisco, a través de los módulos de información y enlace establecidos por el Congreso del Estado en las distintas regiones de la entidad conforme a la disponibilidad presupuestal; y
+XXXIV. Traducir la Legislación del Estado de Jalisco, al braile y a las lenguas Náhuatl y Wixarica, y ponerla a disposición de la sociedad a través de los módulos de información y enlace establecidos por el Congreso del Estado, en las distintas regiones de la entidad; conforme a la disponibilidad presupuestal; y
 
 XXXV. Las demás que señale este reglamento o acuerde la Asamblea.
 
@@ -2300,3 +2300,11 @@ P.O. 13 DE JULIO DE 2006.
 DECRETO NUMERO 21377-LVII/06, POR EL QUE SE ADICIONA EL ARTICULO 82 DEL REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Secretario General del Congreso del Estado, cantará con 180 días para realizar la traducción de la Constitución Política, Código Civil, Código de Procedimientos Civiles, Código de Asistencia Social, Código Penal y Código de Procedimientos Penales, todos ellos del Estado de Jalisco, al brile (sic) y a las lenguas Náhuatl y Wixarica.
+
+TERCERO. El Poder Legislativo deberá llevar a cabo los ajustes presupuestales en el ejercicio fiscal 2007, para dar cumplimiento al presente decreto.
