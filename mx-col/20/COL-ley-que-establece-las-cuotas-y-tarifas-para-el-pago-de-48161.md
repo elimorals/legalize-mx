@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48161"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2006-04-04"
+last_updated: "2006-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -65,6 +65,34 @@ Por el servicio doméstico se pagarán los derechos de conformidad con las sigui
 
 I.- Doméstico en zona rural.- Comprende las poblaciones de: Las Adjuntas, San Buenaventura, Nuevo Cuyutlán, Venustiano Carranza, Santa Rita, Ejido Francisco Villa, Punta de Agua, Camotlán de Miraflores, Puertecito de Lajas, Ciruelito de la Marina Alto y Bajo, Cedros, Avila Camacho, Chandiablo, La Central, Emiliano Zapata, El Chavarín, El Charco, escuelas oficiales, iglesias, Armada de México, Sedena, Hospital Civil de Manzanillo.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+TARIFA
+
+(VEASE ARCHIVO ANEXO)
+
+II.- Doméstico "A".- Comprende las siguientes zonas, colonias y fraccionamientos: Zona Metropolitana de Manzanillo, Sectores del 1 al 9, Unidad Padre Hidalgo, Colonias El Chamizal, Bonanza, Villa Florida Electricistas, Prolongación Cuahutémoc (sic), Punta Chica zona federal, Punta Chica zona ejidal, El Rocío, Ignacio Zaragoza, Leandro Valle, Burócrata, San Pedrito El Alto, Las Joyas, Bellavista, 16 de Septiembre, Benito Juárez, Indeco, Colonia del Pacífico, Morelos, Brisas del Mar, Las Brisas, Fovissste, Hermosa Provincia, Santiago, Salagua, Valle de las Garzas barrios 1,2,3,4,5 y 6, Campos, Colomos, Tapeixtles, La Cruz, Viveros Pelayo, Barrio Nuevo, La Escondida, Deportiva, Francisco Villa, Sergio Méndez Arceo, Emiliano Zapata, Las Flores, 5 de Mayo, La Gasera, Miguel de la Madrid, Perla de Occidente, Alameda, San Isidro, López Mateos, La Pedregosa, La Parota, Obradores, Las Palmas, Montes Paz, Arboledas y las de nueva creación.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+TARIFA
+
+(VEASE ARCHIVO ANEXO)
+
+III.-Doméstico "B".- Comprende a todas aquellas habitaciones que por su tipo de construcción se consideren como residenciales, con un frente mínimo de terreno de 10 metros y una superficie mínima de 300 metros cuadrados, con un coeficiciente (sic) de ocupación de la superficie del terreno máximo de 0.70 y un coeficiente de utilización del suelo máximo de 1.4, así como las colonias Costera de San Pedrito, Playa Azul, Fraccionamiento Andalucía, Península de Santiago, Abelardo L. Rodríguez, Olas Altas, Miramar, Playa de Santiago, Maeva, Club Santiago, Real del Country, la franja comprendida entre la carretera federal y la playa, desde el canal del puerto interior de San Pedrito hasta Vida del Mar y demás desarrollos turísticos residenciales localizados en ambos lados de la franja antes mencionada.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+TARIFA
+
+(VEASE ARCHIVO ANEXO)
+
+IV.- Condominal.- Comprende los inmuebles inscritos en el Registro Público de la Propiedad bajo el régimen de condominio que se usen con fines habitacionales.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+TARIFA
+
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO 4.
@@ -72,6 +100,18 @@ I.- Doméstico en zona rural.- Comprende las poblaciones de: Las Adjuntas, San B
 Por el servicio comercial se pagarán las siguientes tarifas:
 
 I.- Comercial “A”.- Comprende restaurantes, cines, instituciones de crédito, talleres, y tortillerías.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+TARIFA
+
+(VEASE ARCHIVO ANEXO)
+
+II.- Comercial “B”.- Comprende: farmacias, tiendas de abarrotes, joyerías, tiendas de ropa, papelerías, ferreterías, dulcerías, tiendas de deportes, zapaterías, tiendas de artesanías, refaccionarias, consultorios, mercerías, madererías, librerías, oficinas que no sean parte complementaria de otros servicios y otros giros que no se ubiquen en la clasificación de Comercial “A”.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+TARIFA
 
 (VEASE ARCHIVO ANEXO)
 
@@ -81,11 +121,19 @@ Por el servicio industrial se pagarán las siguientes tarifas:
 
 I.- Industrial.- Comprende: fábricas de hielo y/o de cubos de hielo, paleterías, lavanderías, hoteles, moteles, bungalows, gasolineras, lavados de vehículos, hospitales, clínicas, sanatorios, plantas industriales y otros establecimientos en los que se realicen actividades económicas de transformación.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+TARIFA
+
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO 6.
 
 Todas aquellas tomas destinadas a la prestación de los servicios que combinen dos o más usos en el predio, de los señalados en los artículos 3°, 4° y 5° de esta ley, se ubican en el tipo de servicio mixto y pagarán las cuotas que resulten de promediar las tarifas de los distintos usos que tenga el predio de que se trate.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+TARIFA
 
 (VEASE ARCHIVO ANEXO)
 
@@ -111,29 +159,73 @@ III.- Cuando por cualquier razón no pueda determinarse el consumo de agua potab
 
 IV.- Cuando en un predio se cuente con fuente de abastecimiento distinta a la que ofrece la CAPDAM, el usuario deberá cubrir el pago por los servicios de alcantarillado y saneamiento en base a las tarifas que se contemplan en los artículos del 3º al 6º de la presente ley, conforme a las lecturas que registre el medidor de descarga; en caso de no contar con medidor de descarga, la CAPDAM estimará el volumen de descarga y determinará el importe correspondiente, de conformidad con las siguientes cuotas:
 
-a).- Aguas negras crudas 0.01945 por metro cúbico
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b).- Aguas tratadas 0.09911 por metro cúbico
+a).- Aguas negras crudas 0.01984 por metro cúbico
 
-c).- Descargas al drenaje 0.03866 por metro cúbico
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-d).- Cuotas a pagar por las descargas contaminantes por Demanda Bioquímica de Oxígeno
+b).- Aguas tratadas 0.10109 por metro cúbico
 
-(DBO5) y Demanda Química de Oxígeno (DQO) en función del tiempo que excedan sus límites de descarga al sistema de drenaje, además de la que corresponda conforme a los incisos anteriores, de conformidad a la siguiente tarifa:
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c).- Descargas al drenaje 0.03943 por metro cúbico
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+d).- Cuotas a pagar por las descargas contaminantes por Demanda Bioquímica de Oxígeno (DBO5) y Demanda Química de Oxígeno (DQO) en función del tiempo que excedan sus límites de descarga al sistema de drenaje, además de la que corresponda conforme a los incisos anteriores, de conformidad a la siguiente tarifa:
 
 (VEASE ARCHIVO ANEXO)
+
+La aplicación de las cuotas y la tarifa, anteriores, quedará sujeta a las siguientes bases generales:
+
+A).- Aguas negras crudas:
+
+1.- Aplicable al suministro de aguas negras crudas, procedente del sistema de drenaje sanitario, en el estado natural, conteniendo agua y residuos orgánicos e inorgánicos, para su tratamiento y rehusó (sic).
+
+2.- Para efectos de facturación, se medirá el volumen de agua negra en el sitio del aprovechamiento del sistema de alcantarillado. Los dispositivos de medición conexión y conducción que se tengan o que se requieran en lo sucesivo, serán a cargo del usuario de aguas negras.
+
+3.- De acuerdo a la demanda requerida por el usuario, se fijará un mínimo de consumo para efectos de facturación equivalente al 10 por ciento de la demanda contratada.
+
+4.- El usuario estará obligado a cumplir con las normas que establece la ley de la materia independientemente de las normas y condiciones particulares que se establezcan en los contratos de suministro que se celebren con CAPDAM.
+
+B).- Aguas tratadas:
+
+1.- Aplicable al suministro de agua residual tratada, para su rehusó (sic) en procesos industriales, riego de áreas verdes y otros usos, proporcionada por la CAPDAM a través de una red especial.
+
+2.- Para efectos de facturación se medirá el suministro que se proporcione a través de la red oficial de la CAPDAM, siendo por cuenta del usuario el costo de los dispositivos de medición requeridos; así como el mantenimiento y la reposición de los mismos.
+
+3.- De acuerdo a la demanda requerida por el usuario, se fijará un mínimo de consumo para efectos de facturación, por el equivalente al 10 por ciento de la demanda requerida.
+
+4.- Será responsabilidad del usuario utilizar el agua residual tratada que se le suministre únicamente para usos industriales, riego de áreas verdes y otros usos que no requieran de agua potable.
+
+5.- El usuario estará obligado a cumplir con las normas que establece la Ley independientemente de las normas y condiciones particulares que se establezcan en los contratos de suministro que se celebren con CAPDAM.
+
+C).- Descargas al drenaje:
+
+1.- Aplicable a todos aquellos usuarios que utilicen el servicio de drenaje sanitario para el desalojo de volúmenes de agua provenientes de otras fuentes de abastecimiento, independientemente del agua potable de la CAPDAM.
+
+2.- Para efectos de facturación del volumen descargado al sistema de alcantarillado, se instalará un dispositivo de medición en la descarga y en caso de no contar con esta medición se aplicará el 60 por ciento del volumen mensual correspondiente a la última declaración del pago relativo a los derechos por el uso o aprovechamiento de aguas nacionales que se notifica a la Comisión Nacional del Agua en cumplimiento a la Ley Federal de Derechos.
+
+3.- La calidad del agua que se descargue al sistema de alcantarillado, deberá cumplir con lo establecido en las normas y reglamentos vigentes referentes a los límites máximos permisibles para descargas en los sistemas de alcantarillado municipal, así como las condiciones particulares de descargas que se tengan.
+
+4.- En el caso de descargas que contengan desechos tales como lodos, ácidos, grasas, substancias químicas y de cualquier otra clase que puedan perjudicar las instalaciones del servicio o interferir en los procesos de tratamiento, se pagarán además las cuotas establecidas para las descargas contaminantes.
+
+D).- Descargas contaminantes:
+
+1.- Aplicable a los usuarios cuyas descargas a los colectores, provenientes de la industria, actividades agroindustriales, de servicios, comercios y plantas de tratamiento de aguas residuales, excedan los límites de los parámetros establecidos de DBO5 y DQO (Demanda bioquímica de oxigeno y demanda química de oxígeno) y que interfieran en el proceso de tratamiento de aguas residuales que efectúa CAPDAM.
+
+2.- En el supuesto anterior, se aplicará a los usuarios además de la tarifa ordinaria, la cuota especial prevista la tarifa del inciso d) de este artículo, para compensar los costos determinados por la CAPDAM, por kilogramo de los excedentes de DBO5 Y DQO, que será fijada en función del tiempo en que la calidad de las descargas excedan los límites de los parámetros indicados en la tarifa contenida en el inciso d), de esta fracción.
+
+3.- La tarifa dejará de aplicarse cuando el usuario demuestre a la CAPDAM que ha corregido la calidad de sus descargas y volverá a aplicarse cuando se detecte que ha vuelto a exceder los límites de los parámetros en cuyo caso el costo a repercutir será calculado desde la fecha en que se inician las primeras descargas.
 
 ###### ARTICULO 9.
 
 Por el servicio de agua potable destinado para otros usos se pagará la cuota siguiente:
 
-I.- Suministro de agua a barcos.- Comprende las tomas
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-que sean utilizadas para suministrar el servicio de agua
-
-potable a todo tipo de embarcaciones, por cada metro
-
-cúbico 0.488
+I.- Suministro de agua a barcos.- Comprende las tomas que sean utilizadas para suministrar el servicio de agua potable a todo tipo de embarcaciones, por cada metro cúbico 0.4978
 
 ###### ARTICULO 10.
 
@@ -141,31 +233,41 @@ Los usuarios de los servicios de agua potable pagarán los derechos por la conex
 
 I.- Contratación individual tratándose de tomas de 1/2” de diámetro:
 
-a) Uso doméstico en zona rural 5.389
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b) Uso doméstico popular 6.950
+a) Uso doméstico en zona rural 5.497
 
-c) Uso doméstico residencial 14.235
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-d) Uso condominal de carácter privado 14.235
+b) Uso doméstico popular 7.089
 
-e) Uso comercial 44.339
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-f) Uso industrial 54.113
+c) Uso doméstico residencial 14.520
 
-g) Uso comercial “B“ 18.232
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-h) Uso mixto 12.960
+d) Uso condominal de carácter privado 14.520
 
-II.- En el caso de nuevos fraccionamientos o predios,
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-edificaciones comerciales e industriales, cuyos servicios
+e) Uso comercial 45.226
 
-de agua potable se vayan a conectar a las redes existentes,
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-pagará por cada litro por segundo máximo diario la cantidad
+f) Uso industrial 55.195
 
-de: 1894.25
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+g) Uso comercial “B“ 18.597
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+h) Uso mixto 13.219
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II.- En el caso de nuevos fraccionamientos o predios, edificaciones comerciales e industriales, cuyos servicios de agua potable se vayan a conectar a las redes existentes, pagará por cada litro por segundo máximo diario la cantidad de: 1932.14
 
 El gasto máximo diario equivale a 1.2 veces el gasto medio anual.
 
@@ -175,25 +277,17 @@ III.- Incorporaciones al Sistema.- Urbanizaciones y nuevas áreas que demanden a
 
 a).- Urbanizaciones y nuevas áreas:
 
-1.- Por los derechos de incorporación, para el
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-otorgamiento de los servicios e incrementar la
+1.- Por los derechos de incorporación, para el otorgamiento de los servicios e incrementar la infraestructura de captación, potabilización y redes de conducción por una sola vez, por metro cuadrado de superficie total del predio 0.3587
 
-infraestructura de captación, potabilización y
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-redes de conducción por una sola vez, por metro
+2.- Para incrementar la infraestructura de captación conducción y alejamiento de aguas residuales por una sola vez, por metro cuadrado de superficie total del predio 0.3587
 
-cuadrado de superficie total del predio 0.3517
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-2.- Para incrementar la infraestructura de captación
-
-conducción y alejamiento de aguas residuales por
-
-una sola vez, por metro cuadrado de superficie total
-
-del predio 0.3517
-
-3.- Todas aquellas personas tanto físicas como jurídicas, que resulten beneficiadas y soliciten hacer uso de los servicios que generen todas aquellas obras efectuadas por la CAPDAM, bajo el sistema de cooperación, deberán de cubrir además de lo estipulado en el presente artículo, la cantidad de 1,758.94 por una sola vez por cada litro por segundo que dichas personas requieran.
+3.- Todas aquellas personas tanto físicas como jurídicas, que resulten beneficiadas y soliciten hacer uso de los servicios que generen todas aquellas obras efectuadas por la CAPDAM, bajo el sistema de cooperación, deberán de cubrir además de lo estipulado en el presente artículo, la cantidad de 1,794.119 por una sola vez por cada litro por segundo que dichas personas requieran.
 
 En apoyo a los programas de fomento a la vivienda de interés social y popular con base en el Acuerdo de Coordinación Especial para el fomento y Desregulación de la Vivienda, se otorgará una reducción del 50 por ciento en los derechos de incorporación a los fraccionamientos y desarrollos habitacionales de este tipo.
 
@@ -205,49 +299,55 @@ Los usuarios de los servicios de agua potable, pagarán por la conexión a la re
 
 I.- Contratación individual tratándose de descargas de aguas residuales con diámetro no mayor a 6”, para usuarios con toma de agua de 1/2”.
 
-a) Uso doméstico en zona rural 4.513
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b) Uso doméstico popular 5.819
+a) Uso doméstico en zona rural 4.6033
 
-c) Uso doméstico residencial 11.919
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-d) Uso condominal de carácter privado 11.919
+b) Uso doméstico popular 5.9354
 
-e) Uso comercial 37.842
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-f) Uso industrial 42.883
+c) Uso doméstico residencial 12.1574
 
-g) Uso comercial “B“ 3.605
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-h) Uso mixto 10.000
+d) Uso condominal de carácter privado 12.1574
 
-II.- En el caso de nuevos fraccionamientos o
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-predios, edificios de departamentos de tipo
+e) Uso comercial 38.5988
 
-comercial, condominal o industrial y cuando
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-se espere captar descargas mayores a las
+f) Uso industrial 43.7407
 
-especificadas anteriormente, para contratar
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-los servicios de drenaje se tomará en consideración
+g) Uso comercial “B“ 13.8771
 
-el volumen calculado como excedencia de
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-demanda de agua potable; señalada en el
+h) Uso mixto 10.200
 
-artículo 9o, fracción II, de esta Ley 405.910
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II.- En el caso de nuevos fraccionamientos o predios, edificios de departamentos de tipo comercial, condominal o industrial y cuando se espere captar descargas mayores a las especificadas anteriormente, para contratar los servicios de drenaje se tomará en consideración el volumen calculado como excedencia de demanda de agua potable; señalada en el artículo 9o, fracción II, de esta Ley 414.0282
 
 Por cada litro por segundo que se espere captar en las redes de drenaje, además del costo de las instalaciones y obras necesarias a que hubiere lugar en el momento de la construcción o de su regularización al ser detectada.
 
 En todas aquellas zonas en que no se cuente con el servicio de alcantarillado sanitario, deberá el solicitante de servicios de agua potable construir su respectiva planta de tratamiento de aguas residuales según se requiera de acuerdo a las especificaciones de las autoridades competentes, previo registro de la misma en el padrón de descargas de la Comisión Nacional del Agua.
 
-En caso de que el fraccionador no desee realizar la construcción de la planta de tratamiento en su desarrollo deberá de pagar una cuota adicional de 19.329 por vivienda, a fin de expedir la factibilidad de saneamiento. El monto de lo captado por este concepto será destinado a la construcción de plantas de tratamiento por parte de la CAPDAM.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+En caso de que el fraccionador no desee realizar la construcción de la planta de tratamiento en su desarrollo deberá de pagar una cuota adicional de 19.7156 por vivienda, a fin de expedir la factibilidad de saneamiento. El monto de lo captado por este concepto será destinado a la construcción de plantas de tratamiento por parte de la CAPDAM.
 
 En apoyo a los programas de fomento a la vivienda de interés social y popular con base en el Acuerdo de Coordinación Especial para el fomento y Desregulación de la Vivienda, se otorgará una reducción del 50 por ciento en los derechos de incorporación a los fraccionamientos y desarrollos habitacionales de este tipo.
 
 En cualquiera de los casos comprendidos en este artículo se deberá recabar la factibilidad técnica por parte de la CAPDAM.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 12.
 
@@ -255,9 +355,11 @@ Los usuarios de los servicios de descargas de aguas residuales derivadas de serv
 
 (VEASE ARCHIVO ANEXO)
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 13.
 
-Para recibir los servicios señalados en el artículo anterior, los solicitantes deberán celebrar contrato de prestación de servicios con la CAPDAM y pagar un derecho de: 206.176
+Para recibir los servicios señalados en el artículo anterior, los solicitantes deberán celebrar contrato de prestación de servicios con la CAPDAM y pagar un derecho de: 210.2995
 
 Las empresas dedicadas a la renta de sanitarios portátiles, limpieza de fosas sépticas y fosas desgrasadoras mencionadas, deberán presentar a la CAPDAM el registro y permiso vigente de la autoridad competente, como requisito para la celebración del contrato de servicio a que se refiere el párrafo anterior.
 
@@ -277,7 +379,9 @@ La CAPDAM prestará los servicios de agua potable, alcantarillado y saneamiento 
 
 Los propietarios o poseedores de lotes urbanos con superficie hasta 500 m2, que sin estar conectados a la red de agua potable y alcantarillado cuenten con la disponibilidad de la infraestructura urbana municipal para estos servicios, pagarán el 50 por ciento de la cuota mínima que corresponda al tipo de servicio de acuerdo con la vocación del uso del suelo.
 
-En el caso de los lotes urbanos que cuenten con superficies superiores a 500 m2 y con la infraestructura a que se refiere el párrafo que antecede, cuando no estén conectados a las redes de agua potable y alcantarillado, se pagarán los derechos de conformidad al siguiente factor de 50.123 por cada metro cuadrado de superficie.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+En el caso de los lotes urbanos que cuenten con superficies superiores a 500 m2 y con la infraestructura a que se refiere el párrafo que antecede, cuando no estén conectados a las redes de agua potable y alcantarillado, se pagarán los derechos de conformidad al siguiente factor de 25.123 de la cuota mínima correspondiente por cada metro cuadrado de superficie.
 
 ###### ARTÍCULO 17.
 
@@ -303,31 +407,47 @@ Con independencia de la periodicidad del pago de los derechos establecida en la 
 
 Por la prestación de otros servicios se pagarán los siguientes derechos:
 
-I.- Expedición de constancias de no adeudo 5.000
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+I.- Expedición de constancias de no adeudo 5.100
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 II.- Limpieza y sondeo de descargas domiciliarias
 
-en forma manual con varillas 10.000
+en forma manual con varillas 10.200
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 III.- Limpieza de fosas sépticas con equipo se cobrará
 
 por salida, más lo establecido en el articulo 12 de
 
-este mismo Acuerdo Tarifario 40.000
+este mismo acuerdo tarifario 40.800
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 IV.- Expedición de constancias de factibilidad de
 
-servicios de agua potable y alcantarillado 20.000
+servicios de agua potable y alcantarillado 20.400
 
-V.- Instalación y derecho de uso de medidor 5.000
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-VI.-Reconexión de servicio cortado y/o reducido 5.000
+V.- Instalación y derecho de uso de medidor 5.100
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VI.-Reconexión de servicio cortado y/o reducido 5.100
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 VII.- Realización de inspecciones con equipo
 
-detector de fugas 10.000
+detector de fugas 10.200
 
-VIII.- Expedición de constancias de aguas residuales 5.000
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+VIII.- Expedición de constancias de aguas residuales 5.100
 
 ###### ARTICULO 21.
 
@@ -408,6 +528,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 4 DE ABRIL DE 2006.
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero de 2007, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el Ejercicio Fiscal 2007 en ningún caso el incremento será superior al 6% en relación a las cuotas cobradas en el 2006, por lo que se faculta al Titular del organismo operador al realizar los ajustes correspondientes para el cumplimiento de esta disposición.
 
 ###### ARTICULO UNICO.
 
