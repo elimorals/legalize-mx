@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2005-12-29"
+last_updated: "2006-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -245,6 +245,8 @@ El impuesto se pagará mediante declaración mensual definitiva, que presentará
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
 #### SECCIÓN TERCERA. DE LA BASE
 
 > <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
@@ -265,17 +267,49 @@ El impuesto se pagará mediante declaración mensual definitiva, que presentará
 
 ### CAPÍTULO IV. IMPUESTO SOBRE PREMIOS DERIVADOS DE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
 
+#### SECCIÓN OCTAVA. DE LOS ESTÍMULOS FISCALES
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+ARTÍCULO 27 A.- Las personas físicas y morales, así como los entes económicos sin personalidad jurídica, a que hace referencia el artículo 22 de esta ley, no pagarán el impuesto a que se refiere este capítulo durante su primer año de actividades en el Estado de Yucatán.
+
+La fecha de inicio de actividades será la que se señale en el formulario de registro presentado ante el Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+ARTÍCULO 27 B.- No están comprendidas en el supuesto previsto en el artículo anterior quienes:
+
+I.- Con anterioridad a la entrada en vigor de esta disposición ya estuvieren operando;
+
+II.- Las que provengan de la escisión o fusión de sociedades, en los términos de la legislación aplicable;
+
+III.- Las que reanuden actividades;
+
+IV.- Las que cambien de denominación o razón social, o
+
+V.- Aquellas cuyos trabajadores provengan de sustitución patronal de otras personas morales relacionadas por pertenencia accionaria.
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+ARTÍCULO 27 C.- Los contribuyentes que generen en forma directa nuevos empleos permanentes en el Estado, no pagarán durante el período equivalente a un año, el impuesto establecido en este capítulo, por las erogaciones destinadas a remunerar dichos empleos y a partir de la contratación o registro de los nuevos trabajadores, en cualquiera de las instituciones de seguridad social que operan en el Estado.
+
+Se consideran nuevos empleos los de carácter permanente, que se contraten en forma adicional al promedio mensual de la plantilla de personal que hubiere ocupado el contribuyente durante el año calendario inmediato anterior, al de la contratación del personal.
+
+No están comprendidas en este artículo, las remuneraciones correspondientes a los empleos de carácter eventual y las que tengan por objeto sustituir a otro trabajador.
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+ARTÍCULO 27 D.- Para disfrutar de los beneficios que establece esta sección, los contribuyentes deberán cumplir con las demás disposiciones que para tal efecto expida el Ejecutivo del Estado, para el cumplimiento preciso de sus obligaciones fiscales.
+
 #### SECCIÓN PRIMERA. DEL OBJETO
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
 #### SECCIÓN TERCERA. DE LA BASE
 
-#### SECCIÓN CUARTA. DE LA TASA
-
 ### CAPÍTULO V. IMPUESTO SOBRE HOSPEDAJE
 
-#### SECCIÓN QUINTA. DE LA CAUSACIÓN
+#### SECCIÓN CUARTA. DE LA TASA
 
 ###### ARTÍCULO 21.
 
@@ -289,41 +323,49 @@ Para los efectos del párrafo anterior, se entiende que una persona presta servi
 
 También se entiende por honorarios asimilables a salarios, las remuneraciones que se paguen a miembros de consejos directivos, de vigilancia o consultivos, administradores únicos, comisarios, directores y gerentes generales.
 
-#### SECCIÓN SEXTA. DE LA RESPONSABILIDAD SOLIDARIA
-
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+#### SECCIÓN QUINTA. DE LA CAUSACIÓN
 
 ###### ARTÍCULO 22.
 
-Están obligadas al pago de este impuesto, las personas físicas y las morales que realicen las erogaciones a que se refiere el artículo inmediato anterior.
+Están obligadas al pago de este impuesto las personas físicas, las personas morales y los entes económicos sin personalidad jurídica, residentes en el Estado de Yucatán o fuera de éste, que en él realicen las erogaciones a que se refiere el artículo inmediato anterior.
 
-#### SECCIÓN SÉPTIMA. DE LA ÉPOCA DE PAGO
+Para los fines de este impuesto, son residentes en el Estado de Yucatán las personas físicas, las personas morales y los demás sujetos a que se refiere el presente capítulo, que realicen las erogaciones a que se refiere el artículo 21 de esta ley y que:
+
+I.- Habiten transitoria o permanentemente en el Estado.
+
+II.- Cuenten con una o más sucursales, bodegas, instalaciones, locales u oficinas en el Estado.
+
+III.- Realicen las actividades gravadas conforme al presente capítulo.
+
+#### SECCIÓN SEXTA. DE LA RESPONSABILIDAD SOLIDARIA
+
+> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 23.
 
 La base de este impuesto es el monto total de las erogaciones que se realicen en términos del artículo 21 de esta ley.
 
-#### SECCIÓN PRIMERA. DEL OBJETO
+#### SECCIÓN SÉPTIMA. DE LA ÉPOCA DE PAGO
 
 ###### ARTÍCULO 24.
 
 El impuesto se determinará aplicando a la base la tasa del 2%.
 
-#### SECCIÓN SEGUNDA. DE LOS SUJETOS
+#### SECCIÓN PRIMERA. DEL OBJETO
 
 ###### ARTÍCULO 25.
 
 Este impuesto se causará en el momento en que se efectúen las erogaciones a que se refiere el artículo 21 de esta ley.
 
-#### SECCIÓN TERCERA. DE LA BASE
-
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+#### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
 ###### ARTÍCULO 26.
 
 El impuesto se pagará mediante declaración mensual definitiva, que presentarán los contribuyentes en las oficinas autorizadas por la Secretaría de Hacienda, a más tardar el día diez del mes de calendario siguiente a la fecha de su causación o el día hábil siguiente si aquél no lo fuere.
 
-#### SECCIÓN CUARTA. DE LA TASA
+#### SECCIÓN TERCERA. DE LA BASE
+
+> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 27.
 
@@ -347,7 +389,9 @@ II.- Las erogaciones que efectúen:
 
 a) Las dependencias de las administraciones públicas estatal y municipales;
 
-b) Instituciones y asociaciones sin fines de lucro que promuevan o realicen asistencia social en cualquiera de sus formas, así como actividades deportivas, culturales o sociales;
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b) Instituciones y asociaciones sin fines de lucro que, exclusivamente, promuevan o realicen asistencia social, actividades culturales, sociales o deportivas no profesionales;
 
 c) Sindicatos, agrupaciones de empresarios o de propietarios en cámaras, uniones o asociaciones, agrupaciones de profesionistas en institutos, colegios o asociaciones sin fines de lucro;
 
@@ -361,9 +405,11 @@ g) Ejidos y comunidades;
 
 h) Uniones de ejidos y de comunidades;
 
-i) Empresas sociales constituidas por avecindados e hijos de ejidatarios con derechos a salvo, y
-
 j) Unidades agrícolas industriales de la mujer campesina.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+#### SECCIÓN CUARTA. DE LA TASA
 
 #### SECCIÓN QUINTA. DE LA CAUSACIÓN
 
@@ -375,11 +421,9 @@ j) Unidades agrícolas industriales de la mujer campesina.
 
 > <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
 
-#### SECCIÓN PRIMERA. DEL OBJETO
-
 ### CAPÍTULO VI. IMPUESTO ADICIONAL PARA LA EJECUCIÓN DE OBRAS MATERIALES Y ASISTENCIA SOCIAL
 
-#### SECCIÓN SEGUNDA. DEL SUJETO
+#### SECCIÓN PRIMERA. DEL OBJETO
 
 ###### ARTÍCULO 28.
 
@@ -387,13 +431,13 @@ El objeto de este impuesto, lo constituyen los ingresos obtenidos por premios qu
 
 Para los efectos de este impuesto, no se considera como premio el reintegro correspondiente al billete o boleto que permitió participar en el evento de que se trate.
 
-#### SECCIÓN TERCERA. DE LA BASE
+#### SECCIÓN SEGUNDA. DEL SUJETO
 
 ###### ARTÍCULO 29.
 
 Están obligadas al pago de este impuesto, las personas que obtengan ingresos por premios que deriven de toda clase de loterías, rifas, sorteos y concursos.
 
-#### SECCIÓN CUARTA. DE LA TASA
+#### SECCIÓN TERCERA. DE LA BASE
 
 ###### ARTÍCULO 30.
 
@@ -401,27 +445,27 @@ La base de este impuesto, la constituye el monto total de los ingresos por los p
 
 Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el del avalúo comercial.
 
-#### SECCIÓN QUINTA. DE LA CASUACIÓN (SIC) Y ÉPOCA DE PAGO
-
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+#### SECCIÓN CUARTA. DE LA TASA
 
 ###### ARTÍCULO 31.
 
 Este impuesto se determinará aplicando a la base, la tasa del 6%.
 
-#### SECCIÓN SEXTA. DE LAS EXENCIONES
+#### SECCIÓN QUINTA. DE LA CASUACIÓN (SIC) Y ÉPOCA DE PAGO
+
+> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 32.
 
 Este impuesto se causa, en el momento en que los premios que deriven de toda clase de loterías, rifas, sorteos y concursos, sean pagados o entregados a los sujetos que los obtengan.
 
-#### SECCIÓN PRIMERA. DE LA PROPIEDAD
+#### SECCIÓN SEXTA. DE LAS EXENCIONES
 
 ###### ARTÍCULO 33.
 
 Quienes organicen o celebren loterías, rifas, sorteos o concursos, tendrán la obligación de retener y enterar el impuesto que se cause por la obtención de los ingresos, derivados de los premios que paguen o entreguen y serán responsables solidarios con los contribuyentes.
 
-#### SECCIÓN SEGUNDA. COMERCIO
+#### SECCIÓN PRIMERA. DE LA PROPIEDAD
 
 ###### ARTÍCULO 34.
 
@@ -429,7 +473,9 @@ Los sujetos obligados a retener y enterar el impuesto, realizarán el entero del
 
 ### CAPÍTULO I. DERECHOS POR LOS SERVICIOS QUE PRESTA LA ADMINISTRACIÓN PÚBLICA EN GENERAL
 
-#### SECCIÓN TERCERA
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+#### SECCIÓN SEGUNDA. COMERCIO
 
 ###### ARTÍCULO 35.
 
@@ -439,11 +485,13 @@ Se considera servicio de hospedaje, la prestación de alojamiento o albergue tem
 
 Cuando el servicio de hospedaje incluya servicios accesorios, tales como transporte, alimentación, uso de instalaciones y otros similares, y en la documentación comprobatoria no se desglosen o desagreguen los montos por la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva, corresponde en su totalidad al servicio de hospedaje.
 
-#### SECCIÓN CUARTA
+#### SECCIÓN TERCERA
 
 ###### ARTÍCULO 36.
 
 Están obligadas al pago de este impuesto, las personas físicas y morales que realicen las erogaciones objeto del mismo, mediante las retenciones que deberán efectuarles los prestadores de los servicios de hospedaje.
+
+#### SECCIÓN CUARTA
 
 ###### ARTÍCULO 37.
 
@@ -535,7 +583,7 @@ h) Derechos por el Uso, Goce o Aprovechamiento de bienes de dominio público del
 
 ###### ARTÍCULO 48.
 
-Tratándose de los servicios que a continuación se enumera, y sean prestados por cualquiera de las dependencias de la Administración Pública del Estado, salvo en aquellos casos que esta ley establece expresamente, se pagará derechos, conforme a las cuotas que para cada caso se señala:
+Por los servicios prestados por cualquiera de las dependencias de la Administración Pública del Estado, salvo los que esta ley establece expresamente, se causarán los derechos conforme a las cuotas que para cada caso se señala:
 
 I.- Expedición de copias certificadas, por cada hoja 0.50 S.M.G.
 
@@ -557,7 +605,17 @@ a) Disco magnético o CD (por cada uno) 0.75 S.M.G.
 
 b) DVD 1.50 S.M.G.
 
-c) Expedición de copias simples, por cada hoja 0.11 S.M.G.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c) Expedición de copias simples, a partir de dos años con
+
+anterioridad, por hoja 0.08 S.M.G.
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+d) Expedición de copias simples, para el anterior y actual
+
+ejercicio, por hoja 0.02 S.M.G.
 
 VIII.- Registro de Proveedores
 
@@ -705,23 +763,45 @@ IV.- Remolques y otros vehículos no
 
 especificados en las fracciones anteriores 0.11 S.M.G.
 
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 56.
 
 El servicio de grúa causará derechos de la siguiente forma:
 
-I.- En la ciudad de Mérida, considerando todas sus colonias 5.00 S.M.G.
+I.- En la ciudad de Mérida, considerando todas sus colonias y fraccionamientos:
 
-II.- Cuando el recorrido sea fuera de la ciudad de Mérida, se causará un derecho equivalente a 5 S.M.G. más 0.13 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado.
+a) para vehículos con peso bruto vehicular hasta de 4 toneladas 5.00 S.M.G.
+
+b) Para vehículos con peso bruto vehicular de más de 4 toneladas 14.75 S.M.G.
+
+II.- Cuando el recorrido sea fuera de la ciudad de Mérida:
+
+a) Para vehículos con peso vehicular hasta de 4 toneladas 5.00 S.M.G.
+
+más 0.13 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentre el vehículo objeto del servicio hasta el de su traslado.
+
+b) Para vehículos con peso bruto vehicular de más de 4 toneladas 14.75 S.M.G.
+
+más 0.13 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado.
 
 III.- Salvamento, rescate y traslado de vehículos accidentados:
 
-a) En la ciudad de Mérida 19.75 S.M.G.
+a) En la ciudad de Mérida
 
-b) En carreteras estatales 19.75 S.M.G.
+1.- Para vehículos con peso bruto vehicular hasta de 4 toneladas 19.75 S.M.G.
 
-más 0.13 S.M.G. por kilómetro recorrido.
+2.- Para vehículos con peso bruto vehicular de más de 4 toneladas 31.50 S.M.G.
+
+b) En carreteras estatales
+
+1.- Para vehículos con peso bruto vehicular hasta de 4 toneladas 19.75 S.M.G.
+
+más 0.13 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentre el vehículo objeto del servicio hasta el de su traslado.
+
+2.- Para vehículos con peso bruto vehicular de más de 4 toneladas 31.50 S.M.G.
+
+más 0.13 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado.
 
 ### CAPÍTULO XII. DERECHOS POR SERVICIOS QUE PRESTA LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
@@ -767,7 +847,9 @@ a) Por sentencia judicial 3.75 S.M.G.
 
 b) Las demás 1.00 S.M.G.
 
-XI.- Certificaciones 0.60 S.M.G.
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+XI.- Certificaciones 0.58 S.M.G.
 
 XII.- Registro extemporáneo de nacimiento:
 
@@ -953,7 +1035,65 @@ Cualquier escritura pública o documento que contenga un contrato o convenio, ot
 
 No se causará este derecho, en los casos en que no se causen los establecidos en las fracciones I, II y III del artículo 59 de esta ley.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XVI. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SALUD
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+ARTÍCULO 85 A.- Los servicios que presta la Secretaría de Salud, para la verificación y control sanitario, causarán derechos de conformidad con lo siguiente:
+
+I.- Determinaciones sanitarias:
+
+a) Apertura
+
+1.- Estacionamiento tipo A 63.00 S.M.G.
+
+2.- Estacionamiento tipo B 84.00 S.M.G.
+
+3.- Estacionamiento tipo C 105.00 S.M.G.
+
+4.- Estacionamiento tipo D 126.00 S.M.G
+
+b) Renovaciones
+
+1.- Establecimiento tipo A 10.50 S.M.G.
+
+2.- Establecimiento tipo B 16.75 S.M.G.
+
+3.- Establecimiento tipo C 21.00 S.M.G.
+
+4.- Establecimiento tipo D 63.00 S.M.G.
+
+c) Modificación de horario 21.00 S.M.G.
+
+d) Cambio de denominación 7.35 S.M.G.
+
+e) Cambio de propietario 31.50 S.M.G.
+
+f) Cambio de domicilio 42.00 S.M.G.
+
+II.- Certificado de defunción 0.50 S.M.G.
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+ARTÍCULO 85 B.- Por reposición de las determinaciones sanitarias, se causará el equivalente al 50% del monto de la cuota de expedición de la apertura o renovación.
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+ARTÍCULO 85 C.- Para los fines previstos en los artículos 85-A y 85-B:
+
+I.- Los establecimientos con categoría A, son:
+
+Cantinas, expendio de cerveza, licorería, pizzería, restaurante, tienda de autoservicio con venta de cerveza, sala de recepciones y salón de baile.
+
+II.- Los establecimientos con categoría B son:
+
+Restaurantes de lujo, video bar, y tienda de autoservicio con venta de cerveza y licor.
+
+III.- Los establecimientos con categoría C, son:
+
+Centro nocturno, discoteca, bar, y de almacenamiento y distribución de bebidas alcohólicas, y
+
+IV.- Los cabarets, serán considerados como establecimientos con categoría D.
 
 ###### ARTÍCULO 65.
 
@@ -977,7 +1117,7 @@ testamentario y contestación 3.00 S.M.G.
 
 V.- Registro y archivo de testamentos ológrafos 3.00 S.M.G.
 
-### CAPÍTULO ÚNICO. APROVECHAMIENTOS
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 66.
 
@@ -1015,7 +1155,7 @@ d) Media plana 5.50 S.M.G.
 
 e) Un cuarto de plana 3.00 S.M.G.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. APROVECHAMIENTOS
 
 ###### ARTÍCULO 67.
 
@@ -1207,6 +1347,8 @@ c) Ampliar o mejorar, en su caso, las instalaciones del alumbrado público, a so
 
 La Comisión Federal de Electricidad deberá rendir a la Secretaría de Hacienda y a la Secretaría de Planeación y Presupuesto, los informes relativos a la recaudación del derecho referido y su aplicación, así como los demás que expresamente solicite con relación al particular.
 
+### CAPÍTULO ÚNICO
+
 ###### ARTÍCULO 80.
 
 Los servicios que presta la Procuraduría General de Justicia del Estado, causarán derechos de conformidad con lo siguiente, por:
@@ -1217,11 +1359,11 @@ a) Para trámites consulares 1.00 S.M.G.
 
 b) De antecedentes o no antecedentes penales 0.50 S.M.G.
 
-II.- Análisis toxicológico 12.00 S.M.G.
+II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
 
 III.- La autorización, registro y revalidación del permiso para prestar los servicios de seguridad privada en el Estado, se pagará un derecho equivalente a 20.00 S.M.G.
 
-No se causará el derecho correspondiente a la fracción II de este artículo, cuando el análisis sea requisito para la integración de las averiguaciones previas.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 81.
 
@@ -1337,7 +1479,9 @@ f) Postgrado 4.00 S.M.G.
 
 g) Extraescolar 1.00 S.M.G.
 
-El pago de este derecho se efectuará durante el mes de Octubre.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+El pago de este derecho se efectuará en las fechas que establezca la Secretaría de Educación, con base en el tipo de plan de estudios de que se trate, conforme a los acuerdos de reconocimiento de validez oficial.
 
 Quedan exentos, los alumnos becados por la Secretaría.
 
@@ -1440,6 +1584,8 @@ Por el permiso para la instalación de anuncios publicitarios fuera del derecho 
 I. Por cada metro cuadrado de la superficie total
 
 del anuncio publicitario o señal informativa 1 S.M.G
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
@@ -1544,3 +1690,13 @@ LA SECRETARIA DE HACIENDA
 (RÚBRICA)
 
 C.P. ELSY DEL CARMEN MEZO PALMA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 26 DE DICIEMBRE DE 2006.
+
+PRIMERO.- Este Decreto entrará en vigor el día uno de enero del año dos mil siete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los Derechos por el Uso de Cementerios y Prestación de Servicios Conexos establecidos en el Capítulo IV y los Derechos por Servicios de Alumbrado Público, establecidos en el Capítulo XI, ambos parte del Título III de la Ley General de Hacienda del Estado de Yucatán, estarán vigentes en tanto se establecen dichas contribuciones en los respectivos ordenamientos fiscales municipales, y se celebren los convenios de transferencia relativos.
