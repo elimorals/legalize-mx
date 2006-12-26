@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48151"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2006-04-04"
+last_updated: "2006-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTEMOC, COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE CUAUHTEMOC, COLIMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTEMOC, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -51,7 +51,9 @@ D E C R E T O No. 316
 
 "ARTÍCULO ÚNICO.- Es de aprobarse y se aprueba la Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de Cuauhtémoc, Colima, para quedar en los siguientes términos:
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE CUAUHTEMOC, COLIMA.
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTÉMOC, COLIMA.
 
 ###### ARTÍCULO 1.
 
@@ -65,15 +67,21 @@ El pago de los Derechos a que se refiere el Artículo anterior, se pagarán dura
 
 Por el servicio doméstico de agua potable se pagarán las siguientes tarifas, por cada toma de media pulgada.
 
-I.- CUOTA FIJA ALTA 2.62 SM
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+I.- CUOTA FIJA ALTA 2.67 SM
 
 Comprende la zona Centro de la Cabecera Municipal y las Colonias siguientes: Las Higueras, La Presa, la Griselda Álvarez, Los Monos, El Rastro, Ejidal, San Jerónimo, El Toreo y las Localidades de Quesería, Alcaraces, Palmillas, Alzada, Cóbano, El Parían, El Trapiche, San Joaquín Buenavista, Bajío de la Leona y Ejido Fernández.
 
-II.- CUOTA FIJA BAJA 1.82 SM
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II.- CUOTA FIJA BAJA 1.86 SM
 
 Comprende las Localidades de Chiapa, Ocotillo, Montitlán y Cerro Colorado
 
-III.- CUOTA FIJA RESIDENCIAL 3.66 SM
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III.- CUOTA FIJA RESIDENCIAL 3.73 SM
 
 Comprende el Fraccionamiento San Rafael de la Cabecera Municipal.
 
@@ -81,15 +89,21 @@ Comprende el Fraccionamiento San Rafael de la Cabecera Municipal.
 
 Por el servicio comercial de agua potable se pagarán las siguientes tarifas por cada toma de media pulgada.
 
-I.- CUOTA FIJA COMSUMO (SIC) BAJO 2.62 SM
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+I.- CUOTA FIJA COMSUMO BAJO 2.67 SM
 
 Comprende las agencias de viajes, abarrotes almacenes de ropa, boutiques, carpinterías, cerrajerías, dulcerías, estacionamientos, estanquillos, farmacias, ferreterías, florerías, foto estudio, funerarias, huaracherías, licorerías, loncherías, misceláneas, mini súper, mueblerías, panaderías, papelerías, peluquerías, laminado y pintura, refaccionarias, reparación de aparatos electrodomésticos, reparación de llantas, relojerías, sastrerías, talleres de mecánica y electricidad, tapicerías, templos, tlapalerías, vidrierías y zapaterías.
 
-II.- CUOTA FIJA CONSUMO MEDIO 3.29 SM
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II.- CUOTA FIJA CONSUMO MEDIO 3.36 SM
 
 Comprende las academias, alquiler de loza, muebles y manteles, salones de belleza, bares, billares, bodegas de frutas y verdura, bodegas de almacenamiento, carnicería, cenadurías, fábrica de dulces, fondas y cocinas económicas, obradores.
 
-III.- CUOTA FIJA CONSUMO ALTO 3.86 SM
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III.- CUOTA FIJA CONSUMO ALTO 3.94 SM
 
 Comprende las casas de huéspedes, centros botaneros, edificios públicos de gobierno y espectáculos, fábrica de materiales para construcción, hoteles, moteles, sanitarios, lavado de carros, lavanderías de ropa, molinos de nixtamal, tintorerías, Tortillerías, Albercas.
 
@@ -97,13 +111,15 @@ Comprende las casas de huéspedes, centros botaneros, edificios públicos de gob
 
 Por el servicio de agua potable medido se pagarán las siguientes tarifas:
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 I.- CONSUMO DOMESTICO
 
 DE HASTA TARIFA
 
 M3 C/MTS3
 
-0 30 1.82 SM cuota mínima bimestral
+0 30 1.86 SM cuota mínima bimestral
 
 31 40 0.12 SM
 
@@ -111,7 +127,9 @@ M3 C/MTS3
 
 61 100 0.20 SM
 
-101 En adelante 0.26 SM
+101 En adelante 0.27 SM
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 II.- CONSUMO NO DOMESTICO
 
@@ -119,7 +137,7 @@ DE HASTA TARIFA
 
 M3 C/MTS3
 
-0 30 2.62 SM cuota mínima bimestral
+0 30 2.67 SM cuota mínima bimestral
 
 31 40 0.12 SM
 
@@ -127,7 +145,7 @@ M3 C/MTS3
 
 61 100 0.24 SM
 
-101 En adelante 0.28 SM
+101 En adelante 0.29 SM
 
 Los metros cúbicos de la cuota mínima no son acumulables, tampoco serán acumulables después de cada lectura de bimestre.
 
@@ -135,13 +153,21 @@ Los metros cúbicos de la cuota mínima no son acumulables, tampoco serán acumu
 
 Los usuarios de los servicios de agua potable pagarán los derechos por la conexión individual de media pulgada a la red no incluye mano de obra, ni los materiales, en los entronques o conexiones éstos son cubiertos por los usuarios que solicitan, siendo supervisados por personal de la C.A.P.A.M.C. cumpliendo con la normatividad de la Comisión Nacional del Agua.
 
-I.- Uso Doméstico 5.18 SM
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-II.- Uso Comercial 7.77 SM
+I.- Uso Doméstico 5.28 SM
 
-III.- Reconexiones 6.48 SM
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-IV.- Industrial 11.63 SM
+II.- Uso Comercial 7.93 SM
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+III.- Reconexiones 6.61 SM
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+IV.- Industrial 11.86 SM
 
 ###### ARTÍCULO 7.
 
@@ -149,39 +175,47 @@ Por el servicio de uso mixto de agua potable se pagarán las tarifas a que alude
 
 En el caso de que un mismo predio se localice una vivienda y un negocio y ambos se alimenten de una sola toma de agua potable y no tengan servicio medido, la cuota mayor prevalecerá y se pagará al 60 por ciento y la menor se cobrará un 50 por ciento de la cuota fija.
 
-Los usuarios a que se refiere este artículo pagarán adicionalmente por el servicio público de alcantarillado, una cuota que equivale al 20 por ciento del importe correspondiente al servicio de agua potable.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+Los usuarios a que se refiere este artículo pagarán adicionalmente por el servicio público de alcantarillado, una cuota que equivale al 35 por ciento del importe correspondiente al servicio de agua potable, así mismo pagarán por el servicio público de saneamiento una cuota equivalente al 15 por ciento del importe correspondiente al servicio de agua potable.
 
 ###### ARTÍCULO 8.
 
 Los predios urbanos no construidos y casas solas y que pasen las redes de agua potable y alcantarillado están obligados a pagar el 50 por ciento de la cuota correspondiente al tipo de servicio de acuerdo a la vocación de uso de suelo.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 9.
 
-Los usuarios de Alcantarillado pagarán las siguientes tarifas por el servicio de cada entronque individual a la Red de Alcantarillado.
+Los usuarios de Alcantarillado y Saneamiento pagarán las siguientes tarifas por el servicio de cada entronque individual a la Red de Alcantarillado.
 
-Por mantenimiento al sistema de alcantarillado un 20 por ciento de la tarifa correspondiente al agua potable según su rango.
+I.- Por mantenimiento al sistema de alcantarillado un 20 por ciento de la tarifa correspondiente al agua potable según su rango.
+
+II.- por (sic) el saneamiento, el usuario pagará por cada conexión de alcantarillado a la red un 10 por ciento de la tarifa correspondiente de agua potable.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 10.
 
 Los usuarios del servicio de la red de alcantarillado pagarán las siguientes tarifas por cada entronque individual a la red, no incluye mano de obra ni materiales en los entronques o conexiones estos son cubiertos por los usuarios solicitantes siendo supervisados por personal de la C.A.P.A.M.C.
 
-I.- Uso Doméstico 5.18 SM
+I.- Por Uso Doméstico 5.88 SM
 
-II.- Uso Comercial 7.77 SM
+II.- Por Uso Comercial 7.93 SM
 
-III.- Reconexiones y Modificaciones en las descargas 6.48 SM
+III.- Por Reconexiones y Modificaciones en las descargas 6.61 SM
 
-VI (sic).- Uso Industrial 11.63 SM
+IV.- Por Uso Industrial 11.86 SM
 
-I (sic).- Entronque Colectivo; se entiende por entronque colectivo, la conexión a la línea que abastece a los nuevos fraccionamientos o desarrollo comercial, industrial o habitaciones a la red municipal al cual se aplicará.
+Entronque Colectivo; se entiende por entronque colectivo, la conexión a la línea que abastece a los nuevos fraccionamientos o desarrollo comercial, industrial o habitaciones a la red municipal al cual se aplicará.
 
-II.- Si cuenta con fuente de abasto se cobrará el importe de los gastos que origine el entronque.
+Si cuenta con fuente de abasto se cobrará el importe de los gastos que origine el entronque.
 
-III.- Si no cuenta con fuente de abasto, además de los gastos de entronque se cobrará por derechos ----1,618.49 SM, por cada litro por segundo de agua potable que requiera como gasto medio anual, mismo que será determinado por el organismo operador del Municipio.
+Si no cuenta con fuente de abasto, además de los gastos de entronque se cobrará por derechos ----1,650.86 SM, por cada litro por segundo de agua potable que requiera como gasto medio anual, mismo que será determinado por el organismo operador del Municipio.
 
-IV.- Por entronque colectivo a la red de drenaje se cobrará el 35 por ciento del importe a pagar por derechos del entronque agua potable.
+Por entronque colectivo a la red de drenaje se cobrará el 35 por ciento del importe a pagar por derechos del entronque agua potable.
 
-V.- Como un apoyo a los programa de fomento a la vivienda de interés social y popular con base en el acuerdo de coordinación especial para el fomento y regulación de la vivienda, se otorgará una reducción del 50 por ciento en los derechos de incorporación a los fraccionamientos y desarrollos habitacionales de este tipo.
+Como un apoyo a los programa de fomento a la vivienda de interés social y popular con base en el acuerdo de coordinación especial para el fomento y regulación de la vivienda, se otorgará una reducción del 50 por ciento en los derechos de incorporación a los fraccionamientos y desarrollos habitacionales de este tipo.
 
 En cualquiera de los casos comprendidos en este artículo se deberá recabar la factibilidad técnica por parte de la C.A.P.A.M.C.
 
@@ -203,9 +237,11 @@ De servicios de agua potable y alcantarillado 10 SM
 
 Al autorizarse nuevas colonias, fraccionamientos y para los negocios que no estén considerados en algún uso de la clasificación señalada en el artículo 8, del presente ordenamiento, la C.A.P.A.M.C. determinará la clasificación que les corresponda, en base a la información de que disponga.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 13.
 
-Los usuarios que no tengan consumo, pagarán por concepto de conservación y mantenimiento de la infraestructura de agua potable, alcantarillado, la cuota mínima que para el tipo de clasificación le corresponda. El pago del importe acumulado del adeudo será requisito indispensable para la reanudación del servicio.
+Los usuarios que no tengan consumo, pagarán por concepto de conservación y mantenimiento de la infraestructura de agua potable, alcantarillado y saneamiento, la cuota mínima que para el tipo de clasificación le corresponda. El pago del importe acumulado del adeudo será requisito indispensable para la reanudación del servicio.
 
 ###### ARTÍCULO 14.
 
@@ -215,9 +251,11 @@ Los desarrolladores y/o urbanizadores con obra terminadas (sic), cuando solicite
 
 Los usuarios de los servicios públicos de agua potable, alcantarillado y saneamiento, deberán hacer el pago de los derechos en los siguientes 15 días al bimestre que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 16.
 
-A los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados, jubilados, de la tercera edad y discapacitados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos y 25 por ciento a los sindicalizados del H. Ayuntamiento de este municipio, por servicios públicos de agua potable alcantarillado, respecto de la casa que habitan y que comprueben ser propietarios debiendo exhibir los siguientes documentos:
+A los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados, jubilados, de la tercera edad y discapacitados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos y 25 por ciento a los sindicalizados del H. Ayuntamiento de este municipio, por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan y que comprueben ser propietarios debiendo exhibir los siguientes documentos:
 
 a) Original y copia de credencial que acredite como pensionado, jubilado o de la tercera edad.
 
@@ -262,6 +300,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 4 DE ABRIL DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de Enero de 2007, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el Ejercicio Fiscal 2007, en ningún caso el incremento será superior al 6% en relación a las cuotas cobradas en el 2006, por lo que se faculta al Titular del organismo operador a realizar los ajustes correspondientes para el cumplimiento de esta disposición.
 
 ###### ARTÍCULO UNICO.
 
