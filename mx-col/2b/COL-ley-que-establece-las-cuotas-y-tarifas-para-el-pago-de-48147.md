@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48147"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2006-04-04"
+last_updated: "2006-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COMALA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -51,7 +51,9 @@ D E C R E T O No. 314
 
 "ARTÍCULO ÚNICO.- Es de aprobarse y se aprueba la Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de Comala, Colima, para quedar como sigue:
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COMALA.
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA, COLIMA
 
 ## TITULO PRIMERO. DE LOS DERECHOS
 
@@ -60,6 +62,8 @@ LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIO
 ###### ARTICULO 1.
 
 Es objeto de esta Ley, el que los usuarios de los servicios públicos de agua potable y alcantarillado y demás que presta la Comisión de Agua Potable y Alcantarillado del Municipio de COMALA, en lo sucesivo la COMAPAC, paguen los derechos y aprovechamientos establecidos en unidades de salario mínimo general diario vigente en el área geográfica en el que está ubicado el Estado de Colima, que resulten de aplicar las cuotas y tarifas establecidas en el presente ordenamiento.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 2.
 
@@ -79,19 +83,27 @@ El pago de los derechos a que se refiere el artículo anterior, se pagarán dura
 
 Por el servicio doméstico de agua potable los usuarios de cuota fija tratándose de tomas de media pulgada de diámetro, pagarán los derechos de conformidad con las siguientes cuotas mensuales:
 
-A).- URBANA DEL CENTRO 1.686
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+A).- URBANA DEL CENTRO 1.720 SM
 
 Comprende las zonas delimitadas al sur por las calles, Álvaro Obregón y Cuauhtémoc, al norte, por las calles Zaragoza y 16 de Septiembre, al oriente, por las calles Allende y Miguel Hidalgo, al Poniente, por las calles 5 de Mayo y Benito Juárez.
 
-B).- POPULAR 1.550
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+B).- POPULAR 1.581 SM
 
 Comprende las colonias: Lázaro Cárdenas, Los Aguajes, La Trinidad, Ejido el Pedregal, Cuauhtémoc. Lomas del Pedregal, Solidaridad Aguajitos, Celsa Virgen, Santa Cecilia, Miguel de la Madrid Hurtado así como el Barrio de San Miguel y el Barrio Alto.
 
-C).- RESIDENCIAL 2.349
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+C).- RESIDENCIAL 2.396 SM
 
 Comprende los fraccionamientos existentes sobre la avenida de la Ex Hacienda la Cañada, las Huertas de Comala, Fracc. Lomas de Comala, Fracc. Real Nogueras, Fracc. Campestre San Juan.
 
-D).- COMUNIDADES 1.130
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+D).- COMUNIDADES 1.153 SM
 
 a).- Las comunidades de Nogueras y Los Llanitos.
 
@@ -99,19 +111,27 @@ a).- Las comunidades de Nogueras y Los Llanitos.
 
 Por el servicio no doméstico de agua potable se pagarán las siguientes tarifas:
 
-A).- Los establecimientos comerciales cuyos giros a continuación se mencionan se describen como Bajo Consumo y pagarán una cuota mensual de: 2.656
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+a).- Los establecimientos comerciales cuyos giros a continuación se mencionan se describen como Bajo Consumo y pagarán una cuota mensual de: 2.709 SM
 
 Abarrotes con venta de bebidas alcohólicas, Boutiques, Bufetes, consultorios, despachos y oficinas, Carpinterías, Cerrajerías, Venta de Dulces, Estacionamientos, Estanquillos, Farmacias, Ferreterías, Florerías, Foto estudios, Funerarias, Huaracherías, Fabricación de Huaraches, Jugueterías, Licorerías, Loncherías, Materiales para Construcción (ventas), Misceláneas, Minisupers, Mueblerías, Nieves y paletas, (Industria y expendios) de Panaderías (Industria y Expendio), Papelerías, Pastelerías, Peluquerías, Pintura y laminado de vehículos, Refaccionarías, Relojerías, Reparación de aparatos electrodomésticos, Reparación de llantas, Sastrerías, Servicio de transporte y fletes (sin lavado), Fabricación y venta de sombreros, Talleres mecánicos, eléctricos y tornos, Tapicerías, Taquerías, Templos, Tiendas de regalos, Tlapalerías, Venta de libros, periódicos y revistas, Videocasetes, alquiler de, Videojuegos, Vidrierías, Vinaterías, Zapaterías.
 
-B).- Los establecimientos comerciales cuyos giros a continuación se relacionan están clasificados como Consumo Medio y pagarán una cuota mensual de: 4.349
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b).- Los establecimientos comerciales cuyos giros a continuación se relacionan están clasificados como Consumo Medio y pagarán una cuota mensual de: 4.436 SM
 
 Academias y Escuelas, Alquiler de loza, muebles y manteles, Agencias de Autos, Bares, Belleza, salones de Billares, Bodega de Frutas y Verduras, Bodega de Almacenamiento, Carnicerías, Cenadurías y Birrierías, Elaboración y venta de productos derivados de leche, Estacionamientos con caseta de cobro, Fabricación de dulces, Fondas y cocinas económicas, Lavado de Muebles, Gasolineras sin servicio de lavado, Neverías, Paleterías, Pizzerías, Servicios auxiliares de diagnóstico, Talleres de artesanías, Tenerías y curtidurías, Tiendas de Autoservicio, Tortillerías sin molino, Vulcanizadoras y Vitalizadoras.
 
-C).- Los establecimientos comerciales cuyos giros a continuación se enlistan se consideran grandes consumidores en tanto no tengan medidor instalado pagarán una cuota fija mensual de: 8.804
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c).- Los establecimientos comerciales cuyos giros a continuación se enlistan se consideran grandes consumidores en tanto no tengan medidor instalado pagarán una cuota fija mensual de: 8.980 SM
 
 Locales comerciales, Molinos de nixtamal, Servicio de lavado de vehículos, Tortillerías sin molino, Tortillerías con molino, Gasolineras sin servicio de lavado y con servicio de lavado, Restaurantes con servicio de baños, Hospitales, Casa de huéspedes, Escuelas y Colegios, Hoteles.
 
-D) Por Servicios a Gobierno y Organismos Públicos, mensualmente. 2.656
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+d) Por Servicios a Gobierno y Organismos Públicos, mensualmente. 2.709 SM
 
 Quedan comprendidos en este inciso los bienes del dominio privado de la Federación, del Estado y de los Municipios, no así los inmuebles comprendidos en el artículo 115, fracción IV inciso c) de la Constitución Política de los Estados Unidos Mexicanos; lo anterior no exime a sus propietarios de la obligación de hacer un uso racional del agua y cumplir además las siguientes obligaciones:
 
@@ -135,29 +155,33 @@ Por el servicio de uso mixto de Agua potable en cuota fija se cobrará el 100% d
 
 Los usuarios en el régimen de servicio medido pagarán los derechos de conformidad con las tarifas mensuales siguientes:
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 Rangos de Consumo Doméstico
 
-Hasta 30 mts 1.359 CUOTA MINIMA
+Hasta 30 mts 1.386 CUOTA MINIMA
 
-Hasta 40 mts 0.064 por cada M3 DE CONSUMO
+Hasta 40 mts 0.065 por cada M3 DE CONSUMO
 
-Hasta 60 mts 0.069 por cada M3 DE CONSUMO
+Hasta 60 mts 0.070 por cada M3 DE CONSUMO
 
-Hasta 100 mts 0.088 por cada M3 DE CONSUMO
+Hasta 100 mts 0.090 por cada M3 DE CONSUMO
 
-De 101 en adelante 0.108 por cada M3 DE CONSUMO
+De 101 en adelante 0.110 por cada M3 DE CONSUMO
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 Rangos de Consumo No Doméstico
 
-Hasta 30 mts 2.460 CUOTA MINIMA
+Hasta 30 mts 2.509 CUOTA MINIMA
 
-Hasta 40 mts 0.074 por cada M3 DE CONSUMO
+Hasta 40 mts 0.075 por cada M3 DE CONSUMO
 
-Hasta 60 mts 0.085 por cada M3 DE CONSUMO
+Hasta 60 mts 0.087 por cada M3 DE CONSUMO
 
-Hasta 100 mts 0.115 por cada M3 DE CONSUMO
+Hasta 100 mts 0.117 por cada M3 DE CONSUMO
 
-De 101 en adelante 0.145 por cada M3 DE CONSUMO
+De 101 en adelante 0.148 por cada M3 DE CONSUMO
 
 Los metros cúbicos de la cuota mínima no son acumulables. Al rebasar el rango mínimo, el importe resultará de multiplicar el costo del rango que corresponda por la totalidad de metros consumidos.
 
@@ -179,17 +203,19 @@ Los usuarios de los servicios de agua potable pagarán derechos por el entronque
 
 A.- Entronque individual.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 DIAMETRO EN SERV. NO COMUNIDADES
 
 PULGADAS DOMESTICO DOMESTICO
 
-0.5 15.753 46.242 7.170
+0.5 16.068 47.167 7.313
 
-0.75 35.459 107.787 16.855
+0.75 36.168 109.943 17.192
 
-1.0 63.072 193.277 28.927
+1.0 64.333 197.143 29.506
 
-1.5 142.014 434.873 65.087
+1.5 144.854 443.570 66.389
 
 Los contratos de más de una pulgada serán autorizados por el Consejo de Administración de la Comisión.
 
@@ -205,7 +231,9 @@ Por entronque colectivo de fraccionamientos y desarrollos comerciales, industria
 
 Una vez que se hayan cumplido las condiciones y pagos establecidos, el concesionario hará el traslado de la concesión a La COMAPAC mediante acta de entrega recepción.
 
-2.- Si no cuenta con fuente de abastecimiento, además de los gastos de entronque, se cobrará de contado en una sola exhibición por derechos la cantidad de 1,632.32 por cada litro por segundo de agua potable que requieran como gasto promedio anual, mismo que será determinado por la Comisión, en base al proyecto autorizado del desarrollo de que se trate.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+2.- Si no cuenta con fuente de abastecimiento, además de los gastos de entronque, se cobrará de contado en una sola exhibición por derechos la cantidad de 1,6664.966 por cada litro por segundo de agua potable que requieran como gasto promedio anual, mismo que será determinado por la Comisión, en base al proyecto autorizado del desarrollo de que se trate.
 
 3.- Por entronque colectivo a la red de drenaje se cobrará de contado en una sola exhibición una cuota igual al 35% del importe a pagar por derechos de entronque a la red de agua.
 
@@ -221,6 +249,8 @@ Los constructores de conjuntos habitacionales o desarrollos comerciales tendrán
 
 Los constructores de conjuntos habitacionales o desarrollos comerciales tendrán la obligación de entregar al COMAPAC una planta de tratamiento de aguas residuales y/o laguna de oxidación en función, con uso y beneficio para los propietarios de los lotes, dicha obra será integrada al patrimonio de la Comisión una vez puesta en operación.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 C).- Entronque de viviendas de interés social y popular.
 
 En apoyo a los programas de fomento a la vivienda de interés social y popular con base en el Acuerdo de Coordinación Especial para el fomento y Desregulación de la Vivienda, se otorgará una reducción del 50 por ciento en los derechos de incorporación a los fraccionamientos y desarrollos habitacionales de este tipo.
@@ -233,9 +263,13 @@ Los desarrolladores de vivienda deberán proporcionar e instalar el medidor para
 
 ### CAPITULO IV. DE LAS OBLIGACIONES DE LOS CONSTRUCTORES DE CONJUNTOS HABITACIONALES Y DESARROLLOS COMERCIALES
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 11.
 
-Los constructores de conjuntos habitacionales o desarrollos comerciales deberán construir por cuenta propia las instalaciones y conexiones de agua potable y alcantarillado necesarias y estarán obligados a tramitar ante la Comisión de Agua Potable la revisión y autorización de los proyectos respectivos.
+Los constructores de conjuntos habitacionales o desarrollos comerciales deberán construir por cuenta propia las instalaciones y conexiones de agua potable y alcantarillado necesarias y estarán obligados a:
+
+a).- Tramitar ante la Comisión de Agua Potable la revisión y autorización de los proyectos respectivos.
 
 Dichas obras se integrarán al patrimonio de la Comisión de Agua Potable, una vez que estén en operación y previo pago de las cuotas correspondientes.
 
@@ -265,11 +299,13 @@ Los usuarios de los servicios de agua potable, pagarán por la conexión a la re
 
 I.- Por conexión a la red de alcantarillado.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 Cuando se trate de una descarga de aguas residuales no mayor de 6 pulgadas de diámetro se pagarán los derechos conforme a la siguiente tabla:
 
-Uso Doméstico 17.073
+Uso Doméstico 17.414
 
-Uso No doméstico 71.181
+Uso No doméstico 72.605
 
 II.- Por conexión a la red de Alcantarillado tratándose de descargas de más de 6 pulgadas de diámetro.
 
@@ -277,7 +313,9 @@ En el caso de nuevos fraccionamientos o predios, edificios de departamentos de t
 
 En este caso se deberá recabar la factibilidad técnica de la COMAPAC, independientemente de cumplir con lo establecido en la Norma Oficial Mexicana correspondiente.
 
-c).- (sic) En el pago de estas cuotas, no se incluye la conexión física de la obra, por lo que, el costo de los materiales y la mano de obra serán por cuenta del interesado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+En el pago de estas cuotas, no se incluye la conexión física de la obra, por lo que, el costo de los materiales y la mano de obra serán por cuenta del interesado.
 
 ### CAPITULO VII. DE LAS TARIFAS POR EL MANTENIMIENTO DE LAS REDES
 
@@ -394,6 +432,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 4 DE ABRIL DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de Enero de 2007, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el Ejercicio Fiscal 2007, en ningún caso el incremento será superior al 6% en relación a las cuotas cobradas en el 2006, por lo que se faculta al Titular del organismo operador a realizar los ajustes correspondientes para el cumplimiento de esta disposición.
 
 ###### ARTICULO UNICO.
 
