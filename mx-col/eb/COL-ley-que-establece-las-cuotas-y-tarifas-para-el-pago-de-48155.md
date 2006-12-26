@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48155"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2006-04-04"
+last_updated: "2006-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACAN, COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE IXTLAHUACAN, COLIMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACAN, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento No.80 del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -51,11 +51,15 @@ D E C R E T O No. 318
 
 "ARTÍCULO ÚNICO.- Es de aprobarse y se aprueba la Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de Ixtlahuacán, Colima, para quedar en los siguiente términos:
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE IXTLAHUACAN, COLIMA.
+> <small>(REFORMADO SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 1º.
 
-Los usuarios de los servicios públicos de agua potable y alcantarillado, del municipio de Ixtlahuacán, en lo sucesivo la CAPAI, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en unidades de salarios mínimos general diario vigente del área geográfica a la que pertenece el Estado de Colima.
+Los usuarios de los servicios públicos de agua potable, alcantarillado y saneamiento, del municipio de Ixtlahuacán, en lo sucesivo la CAPAI, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en unidades de salarios mínimos general del Estado.
 
 ###### ARTÍCULO 2º.
 
@@ -71,7 +75,9 @@ Comprende:
 
 Colonia Gobernadores, Carlos de la Madrid, El Mojotal, Colonia Centro, Colonia Daniel Contreras Lara y Llanos de San Gabriel.
 
-CUOTA BIMESTRAL 1.647 cuota mínima
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+CUOTA BIMESTRAL 1.680 SM cuota mínima
 
 b).- Para uso doméstico casa habitación (Zona Rural)
 
@@ -79,7 +85,9 @@ Comprende:
 
 Jiliotupa, Aquiles Serdán (Tamala), Lázaro Cárdenas, La Presa, Las Trancas, Zinacamitlan, Las Conchas, Plan del Zapote, Cautan y 26 de Julio.
 
-CUOTA BIMESTRAL 1.357 cuota mínima
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+CUOTA BIMESTRAL 1.384 SM cuota mínima
 
 ###### ARTÍCULO 4º.
 
@@ -91,7 +99,9 @@ Comprende:
 
 RESTAURANTES, TALLERES, TORTILLERIAS, LOCALES Y ESTABLECIMIENTOS QUE POR SUS CARACTERISTICAS SU TOMA SE IDENTIFIQUE COMO COMERCIAL, EDIFICIOS PUBLICOS Y PRIVADOS Y OTROS SERVICIOS.
 
-CUOTA BIMESTRAL 2.118 cuota mínima
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+CUOTA BIMESTRAL 2.160 SM cuota mínima
 
 b).- Comercial (Zona Rural y Cabecera)
 
@@ -99,7 +109,9 @@ Comprende:
 
 FARMACIAS, TIENDAS DE ABARROTES, JOYERÍAS, TIENDAS DE ROPA, PAPELERÍAS, FERRETERÍAS, DULCERÍAS, TIENDAS DE DEPORTES, ZAPATERÍAS, TIENDAS DE ARTESANÍAS, REFACCIONARIAS, CONSULTORIOS, MERCERÍAS, MADERERÍAS, TALLERES ELÉCTRICOS, MECÁNICOS, LIBRERÍAS, OFINICAS (SIC) (QUE NOS SEAN PARTE COMPLEMENTARIA DE OTROS SERVICIOS) Y OTRAS QUE POR SUS CARACTERÍSTICAS DE USO DE AGUA SE IDENTIFIQUEN QUE NO OBSTANTE DE SER DE TIPO COMERCIAL, SU USO NO FORMA PARTE INTEGRANTE DEL NEGOCIO.
 
-CUOTA BIMESTRAL 2.118 cuota mínima
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+CUOTA BIMESTRAL 2.160 SM cuota mínima
 
 ###### ARTÍCULO 5º.
 
@@ -111,7 +123,9 @@ Comprende:
 
 FABRICAS DE HIELO Y CUBOS DE HIELO, PALETERIAS, LAVANDERIAS, HOTELES, MOTELES, BUNGALOWS, GASOLINERAS, LAVADOS DE VEHICULOS, HOSPITALES, CLINICAS, SANATORIOS, PLANTAS INDUSTRIALES Y ESTABLECIMIENTOS EN LOS CUALES PROCESAN CUALQUIER TIPO DE PRODUCTOS, ASI COMO ESTABLECIMIENTOS QUE POR SUS CARACTERISTICAS SU TOMA SE IDENTIFIQUE COMO INDUSTRIAL O ALTOS CONSUMOS.
 
-CUOTA BIMESTRAL 2.118 cuota mínima
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+CUOTA BIMESTRAL 2.160 SM cuota mínima
 
 ###### ARTÍCULO 6º.
 
@@ -121,35 +135,57 @@ Comprende:
 
 TODOS AQUELLOS PREDIOS DONDE SE ENCUENTREN NEGOCIOS DE TIPO COMERCIAL Y CASA HABITACION.
 
-CUOTA BIMESTRAL 2.118
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+CUOTA BIMESTRAL 2.160 SM cuota mínima
 
 ###### ARTÍCULO 7º.
 
 Los usuarios de los servicios de agua potable, pagarán los derechos por la conexión a la red, de conformidad con las siguientes cuotas:
 
-a).- Domiciliaria de la red de agua potable sin material 2.832
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b).- Reconexiones y/o modificaciones de las formas originales 2.832
+a).- Domiciliaria de la red de agua potable
+
+sin material 2.889 SM cuota mínima
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b).- Reconexiones y/o modificaciones de
+
+las formas originales 2.889 SM cuota mínima
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 c).- Tipo Comercial:
 
-Comercial de ½ pulgada 10.292
+Comercial de ½ pulgada 10.498 SM cuota mínima
 
-Comercial de ¾ pulgada 24.814
+Comercial de ¾ pulgada 25.310 SM cuota mínima
 
-Comercial de 1” pulgada 44.132
+Comercial de 1” pulgada 45.015 SM cuota mínima
 
-Comercial de 1 ½” pulgada 92.193
+Comercial de 1 ½” pulgada 94.037 SM cuota mínima
 
 ###### ARTÍCULO 8º.
 
 Los usuarios de los servicios de agua potable, pagarán por la conexión a la red de alcantarillado cuando la descarga se realice por debajo de las concentraciones permisibles conforme a las normas técnicas ecológicas y las condiciones particulares de descarga vigente, los derechos conforme a las siguientes cuotas:
 
-a).- Conexión domiciliaria del sistema de drenaje sin material 3.140
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-b).- Reconexión y/o modificaciones a las descargas 3.140
+a).- Conexión domiciliaria del sistema de
 
-c).- Conexión comercial de drenaje 12.394
+drenaje sin material 3.203 SM cuota mínima
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+b).- Reconexión y/o modificaciones a
+
+las descargas 3.203 SM cuota mínima
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+c).- Conexión comercial de drenaje 12.642 SM cuota mínima
 
 ###### ARTÍCULO 9º.
 
@@ -199,37 +235,47 @@ servicios de agua potable y alcantarillado: 1 día de salario mínimo.
 
 Al autorizarse nuevas colonias, fraccionamientos y para los negocios que no estén considerados en algún uso de la clasificación señalada en los artículos del 3º al 7º, del presente ordenamiento, la CAPAI, determinará la clasificación que les corresponda, en base a la información de que disponga.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 17º.
 
-Los usuarios que no tengan consumo, pagarán por concepto de conservación y mantenimiento de la infraestructura de agua potable y alcantarillado, la cuota mínima que para el tipo de clasificación le corresponda. El pago del importe acumulado del adeudo será requisito indispensable para la reanudación del servicio.
+Los usuarios que no tengan consumo, pagarán por concepto de conservación y mantenimiento de la infraestructura de agua potable, alcantarillado y saneamiento, la cuota mínima que para el tipo de clasificación le corresponda. El pago del importe acumulado del adeudo será requisito indispensable para la reanudación del servicio.
 
 ###### ARTÍCULO 18º.
 
 Los desarrolladores y/o urbanizadores con obras terminadas, cuando soliciten que las redes permanezcan conectadas al servicio sin que los predios se encuentran habitadas y que se instalen las tomas y descargas respectivas, deberán cubrir el 100 por ciento de la cuota mínima que para el tipo de clasificación le corresponda, en tanto no transmitan la propiedad de los predios.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 19º.
 
-Los usuarios de los servicios públicos de agua potable y alcantarillado, deberán hacer el pago de los derechos en los siguientes 15 días al bimestre que corresponda.
+Los usuarios de los servicios públicos de agua potable, alcantarillado y saneamiento, deberán hacer el pago de los derechos en los siguientes 15 días al bimestre que corresponda.
 
 ###### ARTÍCULO 20º.
 
 En los casos que las tomas tengan un diámetro mayor de media pulgada, los usuarios pagarán de conformidad la determinación del consumo que realice la CAPAI, basados en el artículo 7º.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 21º.
 
-Se concede un 8 por ciento de descuento en el pago de los derechos por los servicios públicos de agua potable y alcantarillado:
+Se concede un 8 por ciento de descuento en el pago de los derechos por los servicios públicos de agua potable, alcantarillado y saneamiento:
 
-I.- A los usuarios de cuota mínima que sin tener adeudos de ejercicios anteriores paguen el servicio de agua potable y alcantarillado por anualidad adelantada durante los meses de enero y febrero.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-II.- A los usuarios de servicio que sin tener adeudos de ejercicios anteriores paguen el servicio de agua potable y alcantarillado, estimado para el ejercicio de 2006 por anualidad adelantada durante los meses de enero y febrero. El cálculo se hará con base en el promedio de los consumos durante 2005 y se continuará tomando lectura de los consumos al usuario. En caso en que el consumo medido exceda al estimado, se facturará la diferencia de acuerdo a la tarifa que le corresponda, debiendo pagar el usuario el importe dentro del plazo que se especifique en el recibo.
+I.- A los usuarios de cuota mínima que sin tener adeudos de ejercicios anteriores paguen el servicio de agua potable, alcantarillado y saneamiento por anualidad adelantada durante los meses de enero y febrero.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
+II.- A los usuarios de servicio que sin tener adeudos de ejercicios anteriores paguen el servicio de agua potable, alcantarillado y saneamiento estimado para el ejercicio de 2006 por anualidad adelantada durante los meses de enero y febrero. El cálculo se hará con base en el promedio de los consumos durante 2005 y se continuará tomando lectura de los consumos al usuario. En caso en que el consumo medido exceda al estimado, se facturará la diferencia de acuerdo a la tarifa que le corresponda, debiendo pagar el usuario el importe dentro del plazo que se especifique en el recibo.
 
 A los usuarios de cuota mínima que paguen por anualidad en los términos de la fracción I de este artículo y que posteriormente se les instale medidor, se les ajustará su facturación en los términos de la fracción anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 22º.
 
-Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable y alcantarillado, respecto de la casa que habitan y que comprueben ser propietarios debiendo exhibir los siguientes documentos.
+Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 salarios mínimos de la zona económica del Estado de Colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan y que comprueben ser propietarios, debiendo exhibir los siguientes documentos:
 
 a) Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y
 
@@ -274,3 +320,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 4 DE ABRIL DE 2006.
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de Enero de 2007, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el Ejercicio Fiscal 2007, en ningún caso el incremento será superior al 6% en relación a las cuotas cobradas en el 2006, por lo que se faculta al Titular del organismo operador a realizar los ajustes correspondientes para el cumplimiento de esta disposición.
