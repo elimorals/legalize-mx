@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2006-11-16"
+last_updated: "2006-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -155,11 +155,7 @@ En ningún caso, este pago excederá del impuesto que correspondería a un vehí
 
 ###### ARTICULO 12.
 
-Quedan exceptuadas del pago de este impuesto:
-
-I. La Federación, el Estado, los Municipios y sus respectivos Organismos Descentralizados; y
-
-II. Las operaciones de compraventa de vehículos usados por cuya enajenación se haya pagado el Impuesto al Valor Agregado.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
 ### CAPITULO II. IMPUESTO SOBRE NEGOCIOS O INSTRUMENTOS JURIDICOS
 
@@ -209,45 +205,117 @@ Cuando en un instrumento jurídico se consignen dos o más negocios de los previ
 
 Los fedatarios deberán cumplir con lo que establece el Código Fiscal del Estado respecto de los actos y contratos que originan este impuesto.
 
-### CAPITULO III. IMPUESTO SOBRE PREMIOS OBTENIDOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO III. IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS, CONCURSOS, APUESTAS Y JUEGOS PERMITIDOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 15.
 
-Es objeto de este impuesto la obtención de premios en efectivo o en especie derivados de la celebración de rifas, sorteos, loterías y concursos de cualquier índole, que organicen y lleven a cabo entidades públicas o privadas, bien sea en el Estado o en toda la República Mexicana, cualquiera que sea la finalidad o el propósito del mismo o el destino de los ingresos por el boletaje vendido.
+Es objeto de este impuesto gravar los ingresos provenientes de la realización o celebración, así como de la obtención de premios en efectivo o en especie, derivados de la celebración de rifas, sorteos, loterías, apuestas, juegos con máquinas de sistemas, programas automatizados o computarizados, concursos de cualquier índole, que lleven a cabo entidades públicas o privadas.
 
-El impuesto se causa al momento en que efectúe el pago o entrega del premio.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+El impuesto se causa al momento en que se efectúe la explotación de las actividades señaladas en el párrafo anterior, así como al instante del pago o entrega del premio.
 
 Para los efectos de este impuesto, no se considera como premio el reintegro correspondiente al billete que permitió participar en la lotería, rifa o sorteo.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 16.
 
-Son sujetos de este impuesto las personas físicas o morales, que obtengan o perciban los premios a que se refiere el artículo anterior.
+Son sujetos de este impuesto, las personas físicas o morales, o unidades económicas sin personalidad jurídica:
+
+I. Que realicen o celebren rifas, sorteos, loterías, apuestas y concursos de toda clase, así como juegos con máquinas de sistemas, programas automatizados o computarizados, aún cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos, y
+
+(NOTA: EL 28 DE SEPTIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+II. QUE OBTENGAN INGRESOS O PREMIOS DERIVADOS O RELACIONADOS CON LAS ACTIVIDADES A QUE SE REFIERE LA FRACCIÓN ANTERIOR, INCLUYENDO LAS PARTICIPACIONES DE BOLSAS FORMADAS CON EL IMPORTE DE LAS INSCRIPCIONES O CUOTAS QUE SE DISTRIBUYAN EN FUNCIÓN DEL RESULTADO DE LAS PROPIAS ACTIVIDADES.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 17.
 
-La base del impuesto es el monto total del premio en efectivo o el valor del bien en que consista el premio, determinado por el organizador del concurso, sorteo, rifa o lotería; o, en su defecto el valor de avalúo practicado por perito autorizado, a solicitud de la Autoridad Fiscal.
+La base del impuesto se determinará conforme a las siguientes disposiciones:
+
+I. Para los sujetos señalados en la fracción I del artículo 16 de esta Ley, se considerará el valor total de la emisión de los boletos, billetes, contraseñas, documentos, objetos, registros o cualquier otro comprobante que permita participar en cualquiera de los eventos objeto de este impuesto, disminuyendo aquéllos no enajenados y que no participen en la posibilidad de obtener premios;
+
+II. Para los sujetos de este impuesto que realicen las actividades señaladas en la fracción anterior fuera del territorio del Estado, se considerará únicamente el valor de los boletos, billetes, contraseñas y cualquier otro comprobante que se haya vendido dentro del Estado, y
+
+III. Para los sujetos señalados en la fracción II del artículo 16 de esta Ley, se considerará el monto total del premio en efectivo, o el valor del bien en que consista el premio, determinado por el organizador del concurso, sorteo, rifa, lotería; y juegos con máquinas de sistemas, programas, automatizados o computarizados, o en su defecto, el valor de avalúo practicado por perito autorizado en la materia, a solicitud de la autoridad fiscal.
+
+En el caso de juegos con máquinas de sistemas, programas automatizados o computarizados, serán los ingresos obtenidos provenientes de la participación en éstos.
+
+Tratándose de premios en especie, será el valor con el que se promocione cada uno de los premios; o en su defecto, el valor de su facturación, siempre y cuando dichos valores coincidan con el valor de mercado de artículos idénticos o semejantes al momento de su causación.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 17 BIS. El impuesto a que se refiere este Capítulo no se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en los eventos objeto de este impuesto.
+
+El pago de este impuesto no libera de la obligación de obtener los permisos o autorizaciones correspondientes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 18.
 
-La tasa del impuesto será del 6% sobre la base antes mencionada y sobre ella no se aplicará ningún impuesto adicional.
+Para efectos del cálculo para la determinación de este impuesto se estará a lo siguiente:
+
+l. El impuesto se determinará aplicando la tasa del 5% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías rifas, concursos, sorteos y juegos con máquinas de sistemas, programas, automatizados o computarizados, y
+
+(NOTA: EL 28 DE SEPTIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+II. EN CUANTO A LOS CONCURSOS, EL IMPUESTO SE DETERMINARÁ APLICANDO LA TASA DEL 6% SOBRE EL MONTO TOTAL DE LOS INGRESOS OBTENIDOS, POR LAS INSCRIPCIONES QUE PERMITAN PARTICIPAR EN EL EVENTO.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 19.
 
-El organizador del sorteo, rifa, concurso o lotería será responsable de efectuar la retención del impuesto al sujeto, al momento de entregarle el premio y, de enterarlo en la oficina Recaudadora dentro de los cinco días siguientes a la entrega del premio.
+Las personas que realicen o exploten de manera habitual las actividades gravadas por este impuesto, deberán presentar su declaración y enterar el pago mensualmente dentro de los quince días del mes inmediato posterior, siguientes al de su causación.
 
-En los casos de premios en especie, el contribuyente deberá proveer al retenedor los recursos necesarios para efectuar la retención previamente a la entrega del bien. Los retenedores son solidariamente responsables con los contribuyentes por el pago de este impuesto.
+Las personas que realicen o exploten actividades eventuales gravadas en este Capítulo, deberán presentar la declaración y enterar el pago dentro de los cinco días hábiles siguientes a la fecha en se que generó el acto, se realicen o celebren las actividades gravadas.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(NOTA: EL 28 DE SEPTIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-ARTICULO 19 BIS. Quienes organicen o realicen los actos o actividades por los que se cause este impuesto, tendrán las siguientes obligaciones:
+LOS SUJETOS A QUE SE REFIERE LA FRACCIÓN I DEL ARTÍCULO 16 DE ESTA LEY, SERÁN RESPONSABLES DE CALCULAR Y RETENER EL IMPUESTO AL SUJETO, AL MOMENTO DE ENTREGARLE EL PREMIO O INGRESO Y, DE ENTERARLO EN LA OFICINA RECAUDADORA, DENTRO DE LOS PLAZOS ESTABLECIDOS EN EL PRIMER Y SEGUNDO PÁRRAFOS DE ESTE ARTÍCULO.
 
-I. Dar aviso a la autoridad fiscal estatal con anticipación de quince días a la fecha del evento;
+En los casos de premios en especie, el contribuyente deberá proveer al retenedor el importe del impuesto previamente a la entrega del bien. Los retenedores son solidariamente responsables con los contribuyentes por el pago de este impuesto.
 
-II. Garantizar el pago del impuesto, con una anticipación no menor de cinco días a la fecha del sorteo;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-III. Llevar un registro por las operaciones que se cause este impuesto, y
+ARTICULO 19 BIS. Son obligaciones de los contribuyentes de este impuesto:
 
-IV. Señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en los actos o actividades el valor de los premios, aun cuando éstos sean en especie.
+I. Quienes exploten o realicen estas actividades habitualmente.
+
+a) Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado; utilizando para el efecto la forma aprobada; las personas morales están obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Finanzas podrá inscribir de oficio a los contribuyentes, cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto.
+
+b) Calcular y retener el impuesto que corresponda a los premios pagados, o entregados, y enterarlo en las oficinas autorizadas mediante las formas aprobadas dentro de los plazos establecidos.
+
+c) Proporcionar al interesado la constancia de retenciones del impuesto causado.
+
+d) Presentar declaraciones mensualmente en las oficinas autorizadas mediante las formas aprobadas, en las que incluirán el impuesto retenido y, en su caso, el que corresponda por su propia actividad.
+
+e) Cuando los sujetos realicen eventos en varios establecimientos acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado.
+
+f) Manifestar ante la autoridad fiscal competente, las reglas para la celebración de las actividades objeto de este impuesto, antes de que inicie la distribución de los boletos o cualquier otro comprobante que permita participar en las mismas. En caso de que se hagan modificaciones a las citadas reglas, deberá dar aviso a más tardar quince días antes de que se celebren dichas actividades.
+
+g) Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados y del pago del impuesto que corresponda, en los términos del Código Fiscal del Estado.
+
+h) Si los premios ofrecidos consisten en bienes distintos de dinero, señalarán en moneda nacional el valor de los mismos, y
+
+II. Tratándose de explotadores eventuales tendrán las obligaciones señaladas en los incisos c), f), g) y h) de la fracción anterior; además, la de garantizar el interés fiscal por el importe estimado de los impuestos que se puedan causar; para este efecto la autoridad fiscal fijará bajo su responsabilidad el importe de la garantía.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 19 TER. No se pagará este impuesto por la celebración de loterías, rifas, sorteos y concursos de toda clase, que lleven a cabo las dependencias del Gobierno Federal, de los Gobiernos de los Estados, y de los municipios; así como los organismos públicos descentralizados de la administración pública federal, estatal y municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+
+No obstante lo anterior, estas instituciones deberán cumplir con la obligación de retener y enterar el impuesto que se cause, por la obtención de los ingresos o premios.
+
+En ningún caso se entenderán exentos del pago del impuesto, los ingresos o premios obtenidos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 19 QUATER. Para los efectos de este impuesto se consideran sujetos habituales, aquéllas personas que realicen dos o más actividades objeto de éste, en cada ejercicio fiscal.
 
 ### CAPITULO IV. IMPUESTOS SOBRE NOMINAS
 
@@ -255,7 +323,9 @@ IV. Señalar en los boletos, billetes, contraseñas o instrumentos que permitan 
 
 Son objeto de este impuesto las erogaciones pagadas dentro del territorio del Estado, en dinero o en especie, por concepto de remuneración al trabajo personal subordinado, considerándose como tales, los siguientes:
 
-I. Salarios y, en general toda remuneración derivada de una relación laboral, con las excepciones a que se refiere el artículo 27, fracción I;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+I. Salarios y, en general, toda remuneración derivada de una relación laboral;
 
 II. Honorarios y todo tipo de pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones; y
 
@@ -309,45 +379,29 @@ Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben 
 
 Están exentas del pago de este impuesto:
 
-I. Las erogaciones que se cubran por concepto de:
-
-a) Aguinaldo;
-
-b) Vacaciones y prima vacacional;
-
-c) Bonos de productividad;
-
-d) Participación de los trabajadores en las utilidades de las empresas;
-
-e) Indemnizaciones por riesgos o enfermedades profesionales, que se conceden de acuerdo con las leyes o contratos respectivos;
-
-f) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
-
-g) Indemnizaciones por rescisión o terminación, que tenga su origen en la prestación de servicios personales subordinados;
-
-h) Pagos por primas de antigüedad;
-
-i) Pagos por gastos funerarios;
-
-f) (sic) Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta.
+I. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2006)
 
 II. Las erogaciones que efectúen:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
-
-a) La Federación, el Estado y los Municipios;
+a) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 b) Instituciones de asistencia o de beneficencia autorizadas por las leyes en la materia, así como las sociedades o asociaciones civiles organizadas sin fines de lucro y autorizadas para recibir donativos en los términos de la Ley del Impuesto Sobre la Renta, que tengan como beneficiarios a personas, sectores y regiones de escasos recursos que realicen actividades para lograr mejores condiciones de subsistencia y desarrollo a las comunidades indígenas y a los grupos vulnerables por edad, sexo, problemas con discapacidad;
 
-c) Partidos políticos;
+c) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-d) Sindicatos de trabajadores, agrupaciones de empresarios o de propietarios en cámaras, uniones, asociaciones, agrupaciones de profesionistas en institutos, colegios y asociaciones sin fines de lucro;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-e) Instituciones de educación con reconocimiento oficial; y
+d) Sindicatos de trabajadores, agrupaciones de empresarios o de propietarios en cámaras, uniones, asociaciones y agrupaciones de profesionistas;
 
-f) Aquellas personas que efectúen pagos por servicios personales subordinados a cinco o menos trabajadores.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+e) Las instituciones de educación con reconocimiento oficial que la impartan de manera gratuita;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+f) Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la ley del Impuesto Sobre la Renta.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -359,7 +413,43 @@ Este beneficio no libera a los contribuyentes de cumplir con las obligaciones fi
 
 ### CAPITULO V. IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
 
-### CAPITULO I. SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
+### CAPITULO VI. IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHICULOS
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 36 BIS. Es objeto de este impuesto gravar la tenencia o uso de vehículos automotrices, de más de diez años de fabricación o ejercicio automotriz, anteriores al ejercicio fiscal en curso, a que se refiere el artículo 5º fracción V de la ley Federal del Impuesto sobre Tenencia o Uso de Vehículos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 36 TER. Son sujetos de este impuesto las personales físicas y morales tenedoras ó usuarias de vehículos automotores.
+
+Para efectos de este impuesto se presume que el propietario es tenedor o usuario del vehículo; y que el año modelo del vehículo es el de fabricación.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 36 QUATER. El impuesto local sobre tenencia o uso de vehículos se pagará mediante declaración, en la forma oficial aprobada, dentro de los tres primeros meses de cada año; conjuntamente con los derechos de control vehicular, en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito, oficinas o establecimientos autorizados. .
+
+Las autoridades competentes no autorizarán registros de vehículos, matrículas, altas o bajas, cambio de placas, o efectuarán la renovación de los mismos, si el tenedor o usuario del vehículo no comprueba el pago del impuesto o, en su caso, acredita que se encuentra liberado de esta obligación.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 36 QUINQUE. Son responsables solidarios del pago del impuesto establecido en esta ley:
+
+l. Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, hasta por el monto del impuesto que en su caso existiera;
+
+II. Quienes reciban en consignación o comisión para su enajenación los vehículos, hasta por el monto del impuesto que se hubiese dejado de pagar;
+
+III. Las autoridades federales, estatales, municipales competentes, que autoricen el registro de vehículos, matrículas, altas o cambios o bajas de placas que efectúen, la renovación de los mismos, sin haberse cerciorado que se haya pagado el impuesto, y.
+
+IV. Las personas que en ejercicio de sus funciones realicen altas o cambios de placas, tarjeta de circulación, calcomanía, sin cerciorase del pago del impuesto.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 36 SEXTIES. El impuesto sobre tenencia o uso de vehículos se pagará conforme a las siguientes tarifas, en salarios mínimos:
+
+I. Vehículos automotores de más de diez años y hasta veinte, pagarán 3, y
+
+II. Motocicletas y motonetas, pagarán 1.5.
 
 ###### ARTICULO 29.
 
@@ -419,19 +509,21 @@ IV. El padrón de contribuyentes estará a cargo de la Secretaría de Finanzas d
 
 Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben pagar los contribuyentes, mediante el ejercicio de sus facultades de comprobación; incluso, en forma presuntiva, en términos del Código Fiscal del Estado.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO I. SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
+
 ### CAPITULO II. SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
 
 ### CAPITULO III. SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO, VIVIENDA Y OBRAS PUBLICAS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
+## TITULO TERCERO. DERECHOS
+
 ### CAPITULO IV. SERVICIOS DE SALUD PUBLICA
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
-
-## TITULO TERCERO. DERECHOS
-
-### CAPITULO V. SERVICIOS PRESTADOS POR LA SECRETARIA DE ECOLOGIA Y GESTION AMBIENTAL
 
 ###### ARTICULO 37.
 
@@ -529,9 +621,9 @@ La inscripción de instrumentos jurídicos en el Registro Público de la Propied
 
 I. Títulos de propiedad:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-a) De bienes inmuebles, cuya base será el avalúo o reavalúo emitido por la Dirección de Catastro Municipal del ayuntamiento correspondiente, o bien el precio de la operación si éste es mayor que el del avalúo o reavalúo catastral y se aplicará la tarifa siguiente:
+a) De bienes inmuebles, cuya base será el avalúo o reavalúo con una antigüedad o vigencia no mayor a seis meses, contados a partir en que se efectúen, emitido por la Dirección de Catastro municipal del ayuntamiento correspondiente; o bien el precio de la operación, si éste es mayor que el del avalúo o reavalúo catastral, y se aplicará la tarifa correspondiente.
 
 1. Hasta $5,000.00 pagará 3.60 salarios mínimos;
 
@@ -563,7 +655,9 @@ I. Resoluciones judiciales o administrativas en las que se constituya un fraccio
 
 II. Régimen de propiedad en condominio o sus modificaciones, por cada unidad departamental, vivienda, casa, despacho o local, se pagarán 2.39;
 
-III. La fusión de predios pagará 2.39; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+III. La fusión de predios pagará por cada uno 2.39, y
 
 IV. Disolución de mancomunidad o copropiedad de bienes. La base para su cobro será el avalúo catastral, al que se aplicará la fracción I, del Artículo 40 de esta Ley.
 
@@ -577,11 +671,15 @@ II. En escrituras privadas, por foja o fracción se pagarán 0.5;
 
 III. Por inscripción de testamentos, por su revocación, declaración de legitimidad de herederos o nombramiento de albacea definitivo en caso de sucesiones, declaraciones de quiebra, suspensión de pagos o intervenciones administrativas o judiciales, se pagarán 2.39;
 
-IV. Inscripción de poderes, sustitución, revocación o prórroga de plazo de los mismos en instrumentos públicos, pagarán 0.5;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+IV. Inscripción de poderes, sustitución, revocación o prórroga de plazo en instrumentos públicos, pagarán por foja o fracción 0.5;
 
 V. En inscripción de escrituras constitutivas de asociaciones civiles, se pagarán 1.76 salarios mínimos diarios generales de la zona por foja o fracción; y
 
-VI. Mandamiento judicial que ordene el embargo de sueldos en los juicios de alimentos; su inscripción causará 0.5.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+VI. Mandamiento judicial que ordene el embargo de sueldos en los juicios de alimentos, su inscripción causará por foja o fracción 0.5.
 
 ###### ARTICULO 43.
 
@@ -741,11 +839,15 @@ Los interesados en este servicio deberán solicitar el servicio cuando menos con
 
 Por la autorización que otorgue la Dirección General de Protección Social y Vialidad a las empresas privadas que se dediquen a prestar servicios particulares de vigilancia, seguridad o custodia, se pagarán derechos por el equivalente a 750 salarios mínimos, por la autorización inicial y 75, por su refrendo anual.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 63.
 
-Para los efectos de la obligación que la Ley de Peritos del Estado establece a peritos dictaminadores, de registrarse en la Secretaría General de Gobierno, se establece como tarifa por derechos de expedición de constancia de registro inicial el importe de diez días de salario mínimo general de la zona y, por revalidación anual de la misma, el importe de cinco días de salario mínimo general de la zona.
+Para los efectos de la obligación que la Ley de Peritos del Estado de San Luis Potosí, impone a peritos dictaminadores y valuadores, de registrarse en la Secretaría General de Gobierno, se establece como tarifa por derechos de expedición de la credencial de identificación de perito, el importe de diez días de salario mínimo general de la zona y, por revalidación y/o refrendo anual de la misma, el importe de cinco días de salario mínimo general de la zona.
 
-### CAPITULO VI. OTROS SERVICIOS
+### CAPITULO V. SERVICIOS PRESTADOS POR LA SECRETARIA DE ECOLOGIA Y GESTION AMBIENTAL
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 64.
 
@@ -753,111 +855,145 @@ Por los servicios de control vehicular se causarán los derechos que se establec
 
 I. Dotación de placas o su reposición (incluye tarjeta de circulación y calcomanía) que, en el primer caso deben adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo y en el segundo caso dentro de los cinco días siguientes al de la notificación de extravío a la autoridad correspondiente:
 
-TIPO Servicio Servicio
+TIPO SERVICIO SERVICIO
 
-Público Particular
+PUBLICO PARTICULAR
 
-a) Automóviles, camiones y 12.90 10.31
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-Ómnibus
+a) Automóviles, camiones y ómnibus 14.19 11.34
 
-b) Remolques 6.62 6.62
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-c) Motocicletas y motonetas
+b) Remolques 7.28 7.28
 
-hasta de 350 c.c. de cilindro 3.10 3.10
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-d) Motocicletas y motonetas 4.23 4.23
+c) Motocicletas y motonetas hasta de
 
-de más de 350 c.c. de cilindro
+350 c.c. de cilindro 3.41 3.41
 
-e) Bicicletas de motor 0.42 0.42
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-f) Placas de demostración (sin 15.50 15.50
+d) Motocicletas y motonetas de más de
 
-calcomanía) cuota anual
+350 c.c. de cilindro 4.65 4.65
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-g) Placas para discapacitados No aplica 10.31
+e) Bicicletas de motor 0.00 0.00
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-h) Placas para autos antiguos No aplica 20.62
+f) Placas de demostración (sin calcomanía)
+
+cuota anual 17.05 17.05
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+g) Placas para discapacitados 0.00 0.00
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+h) Placas para autos antiguos No aplica 22.68
 
 Existe obligación de efectuar canje de placas cada tres años, de conformidad con las disposiciones de la Secretaría de Comunicaciones y Transportes.
 
 II. Expedición de permiso para circular sin placa o sin tarjeta de circulación, por día:
 
-TIPO Servicio Servicio
+TIPO SERVICIO SERVICIO
 
-Público Particular
+PUBLICO PARTICULAR
 
-Automóviles, camiones y 0.17 0.13
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-ómnibus
+a) Automóviles, camiones y ómnibus 0.19 0.14
 
-Remolque 0.13 0.13
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-Motocicletas y motonetas 0.09 0.09
+b) Remolque 0.14 0 14
 
-Bicicletas de motor 0.04 0.04
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+c) Motocicletas y motonetas 0.099 0.099
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+d) Bicicletas de motor 0.044 0.044
 
 III. Reposición de tarjeta de circulación, con igual vigencia a la de las placas, la que deberá efectuarse dentro de los quince días posteriores a la fecha del acta o documento donde conste su extravío o destrucción.
 
-TIPO Servicio Servicio
+TIPO SERVICIO SERVICIO
 
-Público Particular
+PUBLICO PARTICULAR
 
-Automóviles, camiones y 2.39 1.76
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-ómnibus
+a) Automóviles, camiones y ómnibus 2.63 1.94
 
-Remolques 1.76 1.76
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-Motocicletas y motonetas 1.76 1.76
+b) Remolques 1.94 1.94
 
-Bicicletas de motor 0.25 0.25
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+c) Motocicletas y motonetas 1.94 1.94
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+d) Bicicletas de motor 0.28 0.28
 
 IV. Por trámite de baja:
 
-TIPO Servicio Servicio
+TIPO SERVICIO SERVICIO
 
-Público Particular
+PUBLICO PARTICULAR
 
-Automóviles, camiones y 1.76 1.26
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-ómnibus
+a) Automóviles, camiones y ómnibus 1.94 1.39
 
-Remolques 1.26 1.26
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-Motocicletas y motonetas 1.26 1.26
+b) Remolques 1.39 1.39
 
-Bicicletas de motor 0.17 0.17
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+c) Motocicletas y motonetas 1.39 1.39
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+d) Bicicletas de motor 0.19 0.19
 
 V. Dotación de calcomanía anual a vehículos con tarjeta de circulación vigente que debe adquirirse dentro de los tres primeros meses del año:
 
-Servicio Servicio
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-Público Particular
+SERVICIO PUBLICO SERVICIO PARTICULAR
 
-4.77 3.02
+5.25 3.32
 
 VI. Otros servicios no especificados en este artículo:
 
-TIPO Servicio Servicio
+TIPO SERVICIO SERVICIO
 
-Público Particular
+PUBLICO PARTICULAR
 
-Automóviles, camiones y 1.76 1.26
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-ómnibus
+a) Automóviles, camiones y ómnibus 1.94 1.39
 
-Remolques 1.51 1.26
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-Motocicletas y motonetas 1.26 1.26
+b) Remolques 1.66 1.39
 
-Bicicletas de motor 0.17 0.17
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+c) Motocicletas y motonetas 1.39 1.39
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+d) Bicicletas de motor 0.19 0.19
 
 ###### ARTICULO 65.
 
@@ -927,103 +1063,185 @@ El otorgamiento del permiso para la venta de bebidas con contenido alcohólico y
 
 I. Tratándose de bebidas con contenido alcohólico no mayor de 6% de alcohol volumen, para los establecimientos que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará como sigue:
 
-Permiso Refrendo
+TIPO PERMISO REFRENDO
 
-Inicial Anual
+INICIAL ANUAL
 
-a) Almacenes distribuidores o
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-agencias 129.53 32.38
+a) Almacenes distribuidores o agencias 142.48 35.62
 
-b) Bares 129.53 32.38
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-c) Billares 100.00 25.00
+b) Baños públicos 142.48 35.62
 
-d) Cervecerías 129.53 32.38
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-e) Pulquerías 129.53 32.38
+c) Billares, boliches 110.00 27.50
 
-f) Cabarets, discotecas y ladies
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-bar 180.00 85.00
+d) Cervecerías 142.48 35.62
 
-g) Depósitos de cerveza 129.53 32.38
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-h) Mini Súper 65.00 15.00
+e) Pulquerías 142.48 35.62
 
-i) Abarrotes, tiendas, misceláneas
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-y tendajones 65.00 15.00
+f) Cabarets, discotecas 198.00 93.00
 
-j) Supermercados 80.00 20.00
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-k) Restaurante 100.00 25.00
+g) Depósitos de cerveza 142.48 35.62
 
-l) Fondas, cafés, cenadurías,
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-taquerías, antojitos y similares 90.00 23.00
+h) Mini súper 71.50 16.50
 
-m) Centros o clubes sociales,
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-deportivos o recreativos 100.00 25.00
+i) Abarrotes, tiendas, misceláneas y
 
-n) Otros (salones de fiesta, centros
+tendajones 71.50 16.50
 
-sociales o de Convenciones que
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-se renten para eventos; Estadios,
+j) Supermercados 88.00 22.00
 
-arenas de box o lucha libre,
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-boliches, etc.) 100.00 25.00
+k) Restaurantes 110.00 27.50
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+l) Fondas, cafés, cenadurías, loncherías,
+
+taquerías, antojerías y similares 99.00 25. 30
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+m) Centros o clubes sociales, deportivos o
+
+recreativos, que dentro de sus instalaciones
+
+cuenten con áreas destinadas para estas
+
+clasificaciones 110.00 27.50
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+n) Otros (salones de fiesta, centros sociales
+
+o de convenciones que se renten para eventos;
+
+estadios, arenas de box o lucha libre, plazas de
+
+toros, lienzos charros, carriles para carreras de
+
+caballos, palenques, etcétera) 110.00 27.50
 
 Para los demás municipios se cubrirá el 75% de las tarifas señaladas en la fracción I.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-III (sic). Tratándose de bebidas con contenido mayor de 6% de alcohol volumen, se cobrará, para los que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale:
+II. Tratándose de bebidas con contenido mayor de 6% de alcohol volumen, se cobrará, para los que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale:
 
-Permiso Refrendo
+TIPO PERMISO REFRENDO
 
-Inicial Anual
+INICIAL ANUAL
 
-a) Destilerías 647.67 64.76
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-b) Almacenes 647.67 64.76
+a) Destilerías 712.44 71.24
 
-c) Bares 647.67 64.76
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-d) Billares 647.67 64.76
+b) Almacenes 712.44 71.24
 
-e) Cabarets, discotecas y ladies
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-bar 665.00 130.00
+c) Bares . 712.44 71.24
 
-f) Licorerías o vinaterías 647.67 64.76
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-g) Depósitos 647.67 64.76
+d) Cabarets, discotecas y ladies bar 731.50 143.00
 
-h) Mini Súper 440.00 50.00
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-i) Abarrotes, tiendas, misceláneas
+e) Licorerías y vinaterías 712. 44 71.24
 
-y tendajones 324.00 33.00
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-j) Supermercados 500.00 60.00
+f) Mini súper 484.00 55.00
 
-k) Restaurante y restaurante bar 647.67 64.76
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-l) Fondas, cafés, cenadurías,
+g) Abarrotes, tiendas, misceláneas
 
-taquerías, antojitos y similares 400.00 40.00
+y tendajones 356.40 36.30
 
-m) Hoteles y moteles 647.67 64.76
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-n) Centros o clubes sociales,
+h) Supermercados 550.00 66.00
 
-deportivos o recreativos 324.00 33.00
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-o) Otros 200.00 40.00
+i) Restaurante bar 712.44 71.24
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+j) Hoteles y moteles 712.44 71.24
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+k) Centros o clubes sociales, deportivos o
+
+recreativos que dentro de sus instalaciones
+
+cuenten con áreas destinadas para estas
+
+clasificaciones 356.40 36.30
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+I) Otos (salones de fiesta, cetros (sic)
+
+sociales o de convenciones que se
+
+renten para eventos; plazas de toros,
+
+lienzos charros, carriles para
+
+carrera de caballos, palenques, ferias
+
+municipales, estatales, regionales
+
+y nacionales). 220.00 44.00
+
+m) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+n) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+o) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+III. El otorgamiento de licencias temporales para la venta de bebidas con contenido alcohólico, para los establecimientos que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará las tarifas siguientes:
+
+a) Tratándose de bebidas con contenido alcohólico no mayor de 6% de alcohol volumen: quince días de salario mínimo.
+
+b) Tratándose de bebidas con contenido alcohólico mayor de 6% de alcohol volumen: veinte días de salario mínimo.
+
+Para los demás municipios se cubrirá el 75% de las tarifas señaladas.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+IV. El otorgamiento de licencias temporales para degustación de bebidas con contenido alcohólico, para establecimientos que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará las tarifas siguientes:
+
+a) Tratándose de bebidas con contenido alcohólico no mayor de 6% de alcohol volumen: diez días de salario mínimo, por un plazo no mayor a cinco semanas.
+
+b) Tratándose de bebidas con contenido alcohólico mayor de 6% de alcohol volumen: veinte días de salario mínimo, por un plazo no mayor a cinco semanas.
 
 Para los demás municipios se cubrirá el 75% de las tarifas señaladas.
 
@@ -1039,25 +1257,119 @@ El Estado podrá convenir con los municipios, en los términos del artículo 14 
 
 Serán de carácter gratuito el empadronamiento, traspaso, cambio de actividades y de negociaciones mercantiles, industriales o de servicio.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-En el caso de licencias para la venta de bebidas alcohólicas, por el cambio de titular de la licencia o cambio de actividad, deberán cubrirse los derechos equivalentes al otorgamiento de licencia inicial; excepto en el caso de cesión de los derechos de licencia entre cónyuges o ascendientes y descendientes.
+En el caso de licencias para la venta de bebidas alcohólicas, por el cambio de titular de la licencia o cambio de actividad, deberán cubrirse los derechos equivalentes al otorgamiento de licencia inicial; excepto en el caso de cesión o sucesión de los derechos de licencia entre cónyuges o ascendientes y descendientes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 69.
 
-Por los avalúos que practique la Dirección de Catastro se pagarán sobre los montos valuados:
+Por los avalúos que practique la Dirección de Catastro sé pagarán sobre los montos valuados 2.0 al millar.
 
-Hasta $100,000.00, 1.5 al millar.
+La tarifa mínima por avalúo será el equivalente a 4.23 salarios mínimos, excepto lo que señala el último párrafo de este mismo artículo. Cuando sean avalúos de predios fuera de las cabeceras municipales, se incrementará en un 10% la tarifa aplicada, más el importe de los gastos de traslado.
 
-De más de $100,000.00, 2.0 al millar.
-
-La tarifa mínima por avalúo será el equivalente a 4.23 salarios mínimos. Cuando sean avalúos de predios fuera de las cabeceras municipales, se incrementará en un 10% la tarifa aplicada, más el importe de los gastos de traslado.
-
-Tratándose de avalúo para adquisición de vivienda de interés social o popular, o de cualquier otra constancia catastral para el mismo fin, los derechos ascenderán a un máximo de un día de salario mínimo.
-
-En este caso, los contribuyentes deberán comprobar, a satisfacción de la autoridad fiscal, el carácter de interés social o popular de la vivienda objeto de los derechos citados.
+Tratándose de avalúos para adquisición de viviendas de interés social o popular, o de cualquier otra constancia catastral para el mismo fin, los derechos ascenderán a un máximo de un día de salario mínimo.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+### CAPITULO VI. OTROS SERVICIOS
+
+###### ARTICULO 70.
+
+Las concesiones para servicio público de transporte en todas sus modalidades, su adjudicación por herencia, el otorgamiento de permisos especiales o la cesión de derechos de concesión, causarán los siguientes derechos que se expresan en salarios mínimos de la zona económica correspondiente al Estado, por cada uno:
+
+I. Camiones, ómnibus y automóviles de alquiler, de pasajeros:
+
+a) En los Municipios de, San Luis Potosí, Ciudad Valles, Matehuala y Rioverde, 166.4; y
+
+b) En los demás municipios 145.70.
+
+II. Camiones y ómnibus de:
+
+a) Servicio mixto 132.13;
+
+b) Transporte de minerales 140; y
+
+c) Carga y transporte de materiales para construcción 146.04.
+
+III. Los permisos especiales para servicio público causarán 3.60, por mes o fracción; y
+
+IV. Cuando se trate de concesiones para transporte escolar, se cobrará el 50% de las tarifas establecidas en este artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+La adjudicación por herencia que se dé a favor de un pariente en línea recta hasta el primer grado, cónyuge o concubina, no causará el derecho a que se refiere este artículo.
+
+###### ARTICULO 71.
+
+El otorgamiento de permiso de ruta, de sitio, transporte de materiales para construcción o minerales, para transportar carga particular, para carga y descarga en la vía pública, ómnibus, camiones y automóviles de servicio público para salirse de ruta o para realizar viajes especiales serán de carácter gratuito.
+
+###### ARTICULO 72.
+
+La expedición de constancia de ser o no permisionario, del servicio público de transporte, causará un pago de 0.84 salarios mínimos.
+
+###### ARTICULO 73.
+
+La revista anual reglamentaria de vehículos de servicio público, incluyendo calcomanía, causará los siguientes derechos expresados en salarios mínimos: 7.04 por taxis; de 16.76 por camiones de más de tres toneladas de capacidad de carga y ómnibus; y, 8.38 las camionetas de tres toneladas o de menos capacidad de carga.
+
+###### ARTICULO 74.
+
+El refrendo anual de concesión para vehículos de servicio público causará los siguientes derechos expresados en salarios mínimos: 33.52 en el caso de taxis, colectivos y camiones de carga de más de tres toneladas; y, 16.76 las camionetas de tres toneladas o de menos capacidad de carga.
+
+###### ARTICULO 75.
+
+Por los servicios de control vehicular prestados por esta Secretaría a vehículos de servicio público o mercantil se pagarán derechos por el equivalente a las cantidades de salarios mínimos que se expresan a continuación:
+
+I. Por sustitución de vehículos de servicio público de transporte de pasajeros o de carga 4.20;
+
+II. Por la expedición de calcomanía de revista 2.1;
+
+III. Por reposición de calcomanía de revista 2.1;
+
+IV. Por expedición de tarjeta de identificación del conductor de transporte público de pasajeros o de carga;
+
+V. Por un año 1.26;
+
+VI. Por cinco años 4.20;
+
+VII. Por permiso para salir del Estado 1.7; y
+
+VIII. Por permiso anual de operación para transporte, cuando no se esté sujeto a régimen de concesión:
+
+a) De turismo 41.9; y
+
+b) Escolar, funerario y para empleados 8.38.
+
+###### ARTICULO 76.
+
+Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones, secuestro de vehículos o movimiento de éstos, a solicitud de los conductores, los propietarios de vehículos pagarán el derecho de grúa con una cuota de 8.38 salarios mínimos por los primeros diez kilómetros y, 3 salarios mínimos, por cada 5 kilómetros o fracción siguientes.
+
+El derecho a que se refiere este artículo se causará por la sola prestación del servicio, independientemente de las sanciones que procedan.
+
+###### ARTICULO 77.
+
+Por el servicio de almacenaje de cualquier tipo de vehículo se pagará, por cada día, un derecho de 0.84 salarios mínimos, en tanto los propietarios no los retiren.
+
+Si transcurridos dos meses de que el vehículo quedó a disposición del propietario, éste no lo retira, las autoridades fiscales procederán a determinar el crédito fiscal adeudado hasta esa fecha y lo notificarán personalmente al interesado. De no conocerse sus datos, se le notificará mediante publicación que se haga por una sola vez en el Periódico Oficial del Estado, en la que se señalen las características del vehículo.
+
+La erogación por el concepto a que se refiere el párrafo anterior será a cargo del propietario del vehículo y tendrá el carácter de crédito fiscal.
+
+Si al mes siguiente a la publicación, no se presenta el propietario del vehículo a pagar o garantizar el crédito fiscal adeudado, se iniciará el procedimiento administrativo de ejecución, trabándose embargo sobre el vehículo y se procederá, en su caso, al remate del mismo.
+
+Los propietarios de los vehículos a que se refiere este artículo y el anterior, sólo podrán retirarlos una vez cubierto el monto de los derechos a su cargo.
+
+###### ARTICULO 78.
+
+Por el examen anual de medicina preventiva del transporte público se causará un derecho de 10.05 salarios mínimos.
+
+###### ARTICULO 79.
+
+Los cursos de capacitación para conductor del servicio de transporte público, causarán un derecho de 4.2 salarios mínimos por cada curso.
+
+###### ARTICULO 80.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1999)
 
 ### CAPITULO VII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PUBLICO ESTATAL
 
@@ -1377,103 +1689,35 @@ Los comprobantes de pago que se expidan en dichas casetas serán idóneos para a
 
 La recaudación obtenida en términos del presente artículo se destinará en su totalidad, en primer lugar, al mantenimiento y operación de cada carretera; después, a cubrir hasta su total extinción los financiamientos, adeudos y compromisos contraídos por el Estado con fuente de pago y/o garantía fiduciaria de dichos recursos; y, por último, al gasto público del Estado con sujeción a las leyes aplicables. Al efecto, cada año se harán las previsiones presupuestales correspondientes.
 
-###### ARTICULO 70.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-Las concesiones para servicio público de transporte en todas sus modalidades, su adjudicación por herencia, el otorgamiento de permisos especiales o la cesión de derechos de concesión, causarán los siguientes derechos que se expresan en salarios mínimos de la zona económica correspondiente al Estado, por cada uno:
+ARTICULO 93 TER. Las personas que hagan uso del estacionamiento que forman parte de los bienes del Estado, cubrirán los derechos establecidos en pesos, previstos en el presente artículo:
 
-I. Camiones, ómnibus y automóviles de alquiler, de pasajeros:
+ESTACIONA- FUNDA- EJE VIAL MADERO ALAMEDA
 
-a) En los Municipios de, San Luis Potosí, Ciudad Valles, Matehuala y Rioverde, 166.4; y
+MIENTO DORES
 
-b) En los demás municipios 145.70.
+Hora o fracción 10.00 8.00 8.00 10.00
 
-II. Camiones y ómnibus de:
+Exclusivo mensual 1,200.00 600.00 600.00 250.00
 
-a) Servicio mixto 132.13;
+24 Horas
 
-b) Transporte de minerales 140; y
+Pensión nocturna
 
-c) Carga y transporte de materiales para construcción 146.04.
+diaria 30.00 30.00 30.00
 
-III. Los permisos especiales para servicio público causarán 3.60, por mes o fracción; y
+Pensión nocturna 300.00 300.00 300.00 150.00
 
-IV. Cuando se trate de concesiones para transporte escolar, se cobrará el 50% de las tarifas establecidas en este artículo.
+mensual
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+Pensión vespertina 200.00 200.00 200.00
 
-La adjudicación por herencia que se dé a favor de un pariente en línea recta hasta el primer grado, cónyuge o concubina, no causará el derecho a que se refiere este artículo.
+A partir de la segunda hora el cobro es de $5.00.
 
-###### ARTICULO 71.
+Exclusivo mensual 24 horas los niveles 7 y 8 la tarifa es de $250.00.
 
-El otorgamiento de permiso de ruta, de sitio, transporte de materiales para construcción o minerales, para transportar carga particular, para carga y descarga en la vía pública, ómnibus, camiones y automóviles de servicio público para salirse de ruta o para realizar viajes especiales serán de carácter gratuito.
-
-###### ARTICULO 72.
-
-La expedición de constancia de ser o no permisionario, del servicio público de transporte, causará un pago de 0.84 salarios mínimos.
-
-###### ARTICULO 73.
-
-La revista anual reglamentaria de vehículos de servicio público, incluyendo calcomanía, causará los siguientes derechos expresados en salarios mínimos: 7.04 por taxis; de 16.76 por camiones de más de tres toneladas de capacidad de carga y ómnibus; y, 8.38 las camionetas de tres toneladas o de menos capacidad de carga.
-
-###### ARTICULO 74.
-
-El refrendo anual de concesión para vehículos de servicio público causará los siguientes derechos expresados en salarios mínimos: 33.52 en el caso de taxis, colectivos y camiones de carga de más de tres toneladas; y, 16.76 las camionetas de tres toneladas o de menos capacidad de carga.
-
-###### ARTICULO 75.
-
-Por los servicios de control vehicular prestados por esta Secretaría a vehículos de servicio público o mercantil se pagarán derechos por el equivalente a las cantidades de salarios mínimos que se expresan a continuación:
-
-I. Por sustitución de vehículos de servicio público de transporte de pasajeros o de carga 4.20;
-
-II. Por la expedición de calcomanía de revista 2.1;
-
-III. Por reposición de calcomanía de revista 2.1;
-
-IV. Por expedición de tarjeta de identificación del conductor de transporte público de pasajeros o de carga;
-
-V. Por un año 1.26;
-
-VI. Por cinco años 4.20;
-
-VII. Por permiso para salir del Estado 1.7; y
-
-VIII. Por permiso anual de operación para transporte, cuando no se esté sujeto a régimen de concesión:
-
-a) De turismo 41.9; y
-
-b) Escolar, funerario y para empleados 8.38.
-
-###### ARTICULO 76.
-
-Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones, secuestro de vehículos o movimiento de éstos, a solicitud de los conductores, los propietarios de vehículos pagarán el derecho de grúa con una cuota de 8.38 salarios mínimos por los primeros diez kilómetros y, 3 salarios mínimos, por cada 5 kilómetros o fracción siguientes.
-
-El derecho a que se refiere este artículo se causará por la sola prestación del servicio, independientemente de las sanciones que procedan.
-
-###### ARTICULO 77.
-
-Por el servicio de almacenaje de cualquier tipo de vehículo se pagará, por cada día, un derecho de 0.84 salarios mínimos, en tanto los propietarios no los retiren.
-
-Si transcurridos dos meses de que el vehículo quedó a disposición del propietario, éste no lo retira, las autoridades fiscales procederán a determinar el crédito fiscal adeudado hasta esa fecha y lo notificarán personalmente al interesado. De no conocerse sus datos, se le notificará mediante publicación que se haga por una sola vez en el Periódico Oficial del Estado, en la que se señalen las características del vehículo.
-
-La erogación por el concepto a que se refiere el párrafo anterior será a cargo del propietario del vehículo y tendrá el carácter de crédito fiscal.
-
-Si al mes siguiente a la publicación, no se presenta el propietario del vehículo a pagar o garantizar el crédito fiscal adeudado, se iniciará el procedimiento administrativo de ejecución, trabándose embargo sobre el vehículo y se procederá, en su caso, al remate del mismo.
-
-Los propietarios de los vehículos a que se refiere este artículo y el anterior, sólo podrán retirarlos una vez cubierto el monto de los derechos a su cargo.
-
-###### ARTICULO 78.
-
-Por el examen anual de medicina preventiva del transporte público se causará un derecho de 10.05 salarios mínimos.
-
-###### ARTICULO 79.
-
-Los cursos de capacitación para conductor del servicio de transporte público, causarán un derecho de 4.2 salarios mínimos por cada curso.
-
-###### ARTICULO 80.
-
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1999)
-
-### CAPITULO UNICO
+Los derechos anteriores no estarán sujetos a lo dispuesto por el artículo 93 de esta Ley.
 
 ###### ARTICULO 81.
 
@@ -1497,65 +1741,79 @@ En el caso de análisis físico-químico de los productos citados en el párrafo
 
 ###### ARTICULO 84.
 
-Conforme a los artículos 6, fracción XI, 50, 51 y 54 de la Ley de Protección Ambiental y, al Artículo 9 del Reglamento de la Ley General de Equilibrio Ecológico, cuando corresponda al Estado evaluar el impacto ambiental, se cubrirán los siguientes derechos expresados en días de salario mínimo:
+Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental de obras o actividades cuya evaluación corresponda al Gobierno del Estado, conforme a las siguientes tarifas expresadas en salarios mínimos:
 
-I. Obra o actividad que requiera manifestación de impacto ambiental, en su modalidad general, veinte;
+I. Por la recepción, evaluación y, en su caso, el otorgamiento de la resolución del informe preventivo, 100;
 
-II. Obra o actividad que requiera manifestación de impacto ambiental, en su modalidad intermedia, cuarenta; y
+II. Por la recepción y evaluación de la manifestación de impacto ambiental:
 
-III. Obra o actividad que requiera manifestación de impacto ambiental, en su modalidad específica, sesenta.
+a) En su modalidad particular, 150.
+
+b) En su modalidad regional, 200;
+
+III. Por el otorgamiento de la autorización de la manifestación del impacto ambiental, en su modalidad particular, 100;
+
+IV. Por el otorgamiento de la autorización de la manifestación del impacto ambiental, en su modalidad regional, 150;
+
+V. Por la evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental, 50;
+
+VI. Por la evaluación y resolución de la solicitud de ampliación de términos y plazos establecidos en la autorización de impacto ambiental, 30, y
+
+VII. Por la evaluación de la solicitud de exención de presentación de la manifestación de impacto ambiental, de las obras y actividades señaladas en el artículo 5º del Reglamento de la Ley Ambiental del Estado de San Luis Potosí, en Materia de Impacto Ambiental y Riesgo, 30.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 85.
 
-La inscripción en el Registro Estatal de Prestadores de Servicios que realicen estudios de impacto ambiental, así como el aviso de modificación y el refrendo anual causarán los siguientes derechos expresados en salarios mínimos:
+Por el otorgamiento del permiso de operación para la prevención y control de la contaminación de la atmósfera, a las fuentes fijas de jurisdicción estatal que emitan olores, gases o partículas sólidas o Iíquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes tarifas expresadas en salarios mínimos:
 
-I. Por la inscripción en el registro preliminar, 20;
+I. Por la recepción y evaluación de solicitud de permiso, 32, y
 
-II. Por la inscripción en el registro definitivo, siempre y cuando existiere registro preliminar sin modificación a la actividad, 15;
+II. Actualización del permiso de operación, 20.
 
-III. Por la autorización al aviso de modificación de la actividad, 15; y
-
-IV. Por el refrendo anual, 20.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 86.
 
-Por derechos de impacto ambiental se cobrarán los siguientes derechos expresados en salarios mínimos:
+Por los servicios de verificación y certificación de equipos de medición de contaminantes de vehículos automotores en circulación, en centros autorizados, se pagará el derecho de prevención y control de la contaminación conforme a la tarifa de 20 salarios mínimos.
 
-I. Por la recepción y evaluación del informe preventivo 37.70; y
-
-II. Por la evaluación de la manifestación de impacto ambiental:
-
-a) En su modalidad general, sesenta y dos días;
-
-b) En su modalidad intermedia, ciento tres; y
-
-c) En su modalidad específica, ciento cincuenta y seis.
-
-III. La verificación del cumplimiento de las medidas de prevención y mitigación será gratuita;
-
-IV. Por la revalidación de evaluación de la autorización de impacto ambiental (artículo 55 de la Ley de Protección al Ambiente del Estado):
-
-a) En su modalidad general, veintitrés;
-
-b) En su modalidad intermedia, treinta y cinco; y
-
-c) En su modalidad específica, cincuenta y ocho.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 87.
 
-Por el otorgamiento de dictamen para la obtención de estímulos fiscales o créditos de organismos financieros, en las actividades relacionadas con la preservación, restauración y protección del medio ambiente, se pagará la cuota de 83.79 días de salario mínimo.
+Por la autorización de centros de verificación de emisiones contaminantes de vehículos automotores, 60 salarios mínimos.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 88.
 
-Por los servicios de verificación y certificación de equipos de medición de contaminantes de vehículos automotores en circulación en centros autorizados, se pagará la cuota de 25.14 salarios mínimos.
+Por la evaluación de cada solicitud y, en su caso, autorización de las siguientes actividades en materia de residuos industriales no peligrosos, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes tarifas expresadas en salarios mínimos:
+
+I. Operación de unidades para la recolección y transporte de residuos industriales no peligrosos, 40;
+
+II. Instalación y operación de sistemas de acopio y almacenamiento de residuos industriales no peligrosos, 20;
+
+III. Instalación y operación de sistemas de reciclaje, utilización, reutilización y tratamiento de residuos industriales no peligrosos, 15;
+
+IV. Prestación de servicios de manejo de residuos industriales no peligrosos, 40, y
+
+V. Autorización a generadores para el manejo de residuos industriales no peligrosos, 25.
+
+Por las solicitudes de transferencia, modificación o prórroga de la autorización otorgada, se pagará el 50% de la tarifa establecida en el presente artículo.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 89.
 
-Por el servicio de laboratorio en el análisis de muestras industriales, se cubrirán 83.79 salarios mínimos por cada muestra.
+Por la evaluación y, en su caso, aprobación de los programas para la prevención de accidentes, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 30 salarios mínimos.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 90.
 
-Se impondrá una multa de 1,675.72 salarios mínimos por infracciones derivadas de denuncias populares o visitas de verificación en materia de impacto ambiental y de 837.86 salarios mínimos diarios por violaciones a la ley respectiva, detectadas a través de inspección.
+Por la evaluación del estudio de riesgo ambiental, informe preliminar, se pagará el derecho de prevención y control de la contaminación de 15 salarios mínimos.
+
+Por la solicitud de modificación o ampliación de las resoluciones del estudio de riesgo ambiental, se pagará el 50% de la tarifa establecida en el presente artículo.
 
 ### CAPITULO UNICO
 
@@ -1567,19 +1825,29 @@ La búsqueda de antecedentes en expedientes, libros o legajos de los archivos de
 
 Por los servicios que se citan a continuación se causarán los derechos que se mencionan enseguida, expresados en salarios mínimos:
 
-I. Certificado de no adeudo, 0.84;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-II. Carta de no antecedentes penales, 0.34;
+I. Certificado de no adeudo, 2.0;
 
-III. Certificaciones de copias fotostáticas de documentos que obren en los archivos de las diferentes Secretarías de Estado, 0.5; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-IV. Copias fotostáticas simples de códigos, decretos, leyes, y demás documentos a los que pueda tener acceso el público, 0.2.
+II. Carta de no antecedentes penales; 1.0;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+III. Certificaciones de copias fotostáticas de documentos que obren en los archivos de las diferentes secretarías de Estado, 1.0 por foja, y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+IV. Copias fotostáticas simples de códigos, decretos, leyes y demás documentos a los que pueda tener acceso el público, 0.1 por foja.
 
 ###### ARTICULO 93.
 
 Todos los derechos previstos en esta Ley se incrementarán en un 10% adicional, cuyo importe se destinará íntegramente al apoyo de instituciones de asistencia social a la población. Dicho gravamen no estará sujeto a disminución o condonación, aunque lo fueren los principales sobre los que se aplica. El Ejecutivo informará trimestralmente al Congreso del Estado sobre las sumas recaudadas y su aplicación, independientemente de que lo haga en las cuentas públicas correspondientes.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2003)</small>
+
+### CAPITULO UNICO
 
 ## TITULO CUARTO. CONTRIBUCIONES DE MEJORAS
 
@@ -1879,15 +2147,15 @@ III. Juego de formas de solicitud de inspección en el Padrón Mercantil, Indust
 
 IV. Juego de formas de solicitud de licencia para manejo de vehículos motorizados. 0.50
 
-(sic) Juego de formas de preliquidaciones de control vehicular. 0.65
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-(sic) Formas para escritura pública c/u. 0.15
+V. Juego de formas de preliquidaciones de control vehicular, 0.65;
+
+(sic). (DEROGADA, P.O. 27 DE DICIEMBRE DE 2006)
 
 VII. Cartas político-geográficas del Estado en escala 1:500,000 c/u. 4.93
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
-
-VII-A. Juego de formas de declaración para el pago del Impuesto Sobre Adquisición de Inmuebles, en aquellos municipios con los que el Estado haya celebrado Convenio para la Administración de Contribuciones Inmobiliarias 0.50
+VII-A. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2006)
 
 VIII. Planos de cartas urbanas 1:10,000 c/u. 4.32
 
@@ -2092,3 +2360,11 @@ P.O. 16 DE NOVIEMBRE DE 2006.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2006.
+
+PRIMERO. Este Decreto entrará en vigencia a partir del uno de enero del año 2007, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En relación con los ingresos que se obtengan por concepto del impuesto estatal sobre tenencia o uso de vehículos, se recomienda al Ejecutivo del Estado ejercerlos en infraestructura de impacto municipal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
