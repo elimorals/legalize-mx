@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2006-08-09"
+last_updated: "2006-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2006.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -1955,9 +1955,13 @@ Se entiende por acuerdo reparatorio el pacto entre la víctima u ofendido y el i
 
 Procedencia.
 
-Procederán los acuerdos reparatorios en los delitos culposos; aquellos en los que proceda el perdón de la víctima u ofendido; los de contenido patrimonial que se hayan cometido sin violencia sobre las personas; en los que admitan presumiblemente la sustitución de sanciones o condena condicional, así como en aquellos cuya pena media aritmética no exceda de cinco años de prisión y carezcan de trascendencia social.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-Se exceptúan de esta disposición los homicidios culposos en los supuestos a que se refiere el Artículo 62 del Código Penal; los delitos en contra de la libertad y seguridad sexuales y de violencia familiar; los delitos cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas y los realizados por sujetos que pertenezcan a alguna asociación delictuosa de conformidad con el Código Penal. Tampoco procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos de la misma naturaleza.
+Procederán los acuerdos reparatorios en los delitos imprudenciales; aquellos en los que proceda el perdón de la víctima u ofendido; los de contenido patrimonial que se hayan cometido sin violencia sobre las personas; en los que admitan presumiblemente la sustitución de sanciones o condena condicional, así como en aquellos cuya pena media aritmética no exceda de cinco años de prisión y carezcan de trascendencia social.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+Se exceptúan de esta disposición los homicidios imprudenciales en los supuestos a que se refiere el artículo 139 del Código Penal; los delitos en contra de la libertad y seguridad sexuales y el normal desarrollo psicosexual, violencia familiar y los delitos cometidos por los servidores públicos en el ejercicio de sus funciones o con motivo de ellas y los realizados por sujetos que pertenezcan a alguna asociación delictuosa u organización criminal, de conformidad con el Código Penal. Tampoco procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos de la misma naturaleza.
 
 Si el delito afecta intereses difusos o colectivos, el Ministerio Público asumirá la representación para efectos de la conciliación, cuando no se haya apersonado como víctima alguno de los sujetos autorizados en este Código.
 
@@ -2173,7 +2177,9 @@ Querella es la expresión de voluntad de la víctima u ofendido del delito, o de
 
 Delito perseguible por querella.
 
-Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de incumplimiento de las obligaciones de asistencia familiar, adulterio, lesiones que no pongan en peligro la vida, tarden en sanar menos de quince días y no dejen consecuencias médico-legales, peligro de contagio entre cónyuges y concubinos, coacción o amenazas, allanamiento de morada, revelación de secretos, estupro, abusos sexuales, excepto los contemplados en, el Artículo 246 del Código Penal, hostigamiento sexual, inseminación artificial indebida, rapto, difamación, calumnia, abuso de confianza, fraude, daños, despojo, extorsión, administración fraudulenta y falsificación de documentos, prevista en la fracción XI del artículo 168 del Código Penal.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de delitos que atenten contra el cumplimiento de la obligación alimentaria, lesiones que tardan en sanar menos de quince días, lesiones que tardan más de quince días y menos de sesenta, peligro de contagio, amenazas, allanamiento de vivienda, despacho, oficina o establecimiento mercantil, revelación de secretos, estupro, abusos sexuales, excepto los contemplados en los artículos 174 y 175 del Código Penal, hostigamiento sexual, procreación asistida e inseminación artificial, en los términos del artículo 151 del Código Penal, privación de la libertad con fines sexuales, abuso de confianza, fraude, daños, despojo, en lo previsto en el primer párrafo del artículo 231 del Código Penal, administración fraudulenta y falsificación de documentos, de acuerdo con el párrafo segundo del artículo 330 del Código Penal.
 
 Asimismo, se requerirá querella en los delitos de robo, robo de ganado y encubrimiento por receptación de éstos, cuando los mismos sean cometidos por el ascendiente, descendiente, cónyuge, parientes por consanguinidad y afinidad hasta el segundo grado, concubina o concubinario, adoptante o adoptado.
 
@@ -2967,7 +2973,7 @@ Actuación de la víctima u ofendido.
 
 Hasta diez días antes de la fecha fijada para la realización de la audiencia intermedia, la víctima u ofendido podrá constituirse en acusador coadyuvante, y en tal carácter, por escrito, podrá:
 
-I. Señalar los vicios materiales y formales del escrito de acusación y requerir su corrección;
+l. Señalar los vicios materiales y formales del escrito de acusación y requerir su corrección;
 
 II. Ofrecer la prueba que estime necesaria para complementar la acusación del Ministerio Público; y
 
@@ -3093,7 +3099,9 @@ El Juez, luego de examinar las pruebas ofrecidas y escuchar a las partes que com
 
 Si estima que la aprobación en los mismos términos en que las pruebas testimonial y documental hayan sido ofrecidas, produciría efectos puramente dilatorios en la audiencia de debate, dispondrá también que la parte que las ofrezca reduzca el número de testigos o de documentos, cuando mediante ellos desee acreditar los mismos hechos o circunstancias que no guarden pertinencia sustancial con la materia que se someterá a juicio. El juzgador podrá determinar cuántos peritos deban intervenir, según la importancia del caso y la complejidad de las cuestiones por resolver, después de escuchar a las partes o podrá limitar su número cuando resulten excesivos y pudieran entorpecer la realización del juicio.
 
-Del mismo modo, el Juez excluirá las pruebas que provengan de actuaciones o diligencias que hayan sido declaradas nulas y aquéllas que hayan sido obtenidas con inobservancia de garantías fundamentales. Asimismo, en los casos de delitos contra la libertad y seguridad sexuales, el juez de garantía excluirá la prueba que pretenda rendirse sobre la conducta sexual anterior o posterior de la víctima, a menos que sea manifiestamente justificado; en estos casos, se adoptarán las medidas de protección adecuadas para la víctima.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+Del mismo modo, el Juez excluirá las pruebas que provengan de actuaciones o diligencias que hayan sido declaradas nulas y aquéllas que hayan sido obtenidas con inobservancia de garantías fundamentales. Asimismo, en los casos de delitos contra la libertad y seguridad sexuales y el normal desarrollo psicosexual, el Juez de Garantía excluirá la prueba que pretenda rendirse sobre la conducta sexual anterior o posterior de la víctima, a menos que sea manifiestamente justificado; en estos casos, se adoptarán las medidas de protección adecuadas para la víctima.
 
 Las demás pruebas que se hayan ofrecido serán admitidas por el Juez al dictar el auto de apertura de juicio oral.
 
@@ -3831,11 +3839,13 @@ En ningún caso el procedimiento abreviado obstará a la concesión de alguna de
 
 ### CAPÍTULO III. PROCEDIMIENTO PARA INIMPUTABLES
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 393.
 
 Procedimiento para la aplicación exclusiva de medidas de seguridad a inimputables.
 
-Cuando se sospeche que el probable autor de un hecho delictuoso se encuentra en alguno de los supuestos a que se refiere el Artículo 57 Bis del Código Penal del Estado, el Juez, de oficio o a solicitud de alguna de las partes, ordenará la realización de un peritaje para determinar tal circunstancia. El Juez ordenará la suspensión del procedimiento hasta en tanto no se remitiere el informe requerido, sin perjuicio de continuarse respecto de los demás coimputados, si los hubiere.
+Cuando se sospeche que el probable autor de un hecho delictuoso se encuentra en alguno de los supuestos a que se refiere el artículo 59 del Código Penal del Estado, el Juez, de oficio o a solicitud de alguna de las partes, ordenará la realización de un peritaje para determinar tal circunstancia. El Juez ordenará la suspensión del procedimiento hasta en tanto no se remitiere el informe requerido, sin perjuicio de continuarse en perjuicio de los demás coimputados, si los hubiere.
 
 ###### Artículo 394.
 
@@ -4177,7 +4187,9 @@ La revisión procederá contra la sentencia firme, en todo tiempo, y únicamente
 
 I. La sentencia impugnada se haya fundado en prueba cuya falsedad se haya declarado en fallo posterior firme o resulte evidente aunque no exista un proceso posterior;
 
-II. La sentencia condenatoria haya sido pronunciada a consecuencia de cohecho, violencia o en cualquiera de las hipótesis a que se refiere el Código Penal, en lo relativo a los delitos contra la administración de justicia u otros que impliquen conductas fraudulentas, cuya existencia se haya declarado en fallo posterior firme;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+II. La sentencia condenatoria haya sido pronunciada a consecuencia de cohecho, violencia o en cualquiera de las hipótesis a que se refiere el Código Penal, en lo relativo a los delitos en contra del adecuado desarrollo de la justicia u otros que impliquen conductas fraudulentas, cuya existencia se haya declarado en fallo posterior firme;
 
 III. Después de la sentencia sobrevengan hechos nuevos o elementos de prueba que solos o unidos a los ya examinados en el proceso, hagan evidente que el hecho no existió, que el condenado no lo cometió o que el hecho cometido no es punible o corresponda aplicar una norma más favorable; o
 
@@ -4276,3 +4288,13 @@ LIC. JOSÉ REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRÍGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+Inicio de Vigencia.
+
+El presente artículo iniciará su vigencia el primero de enero del dos mil siete, con las modalidades que se precisan en el decreto 611/06 II P.O., de quince de junio de dos mil seis, por el cual se aprobó el nuevo Código de Procedimientos Penales. Lo anterior sin perjuicio de su previa publicación en el Periódico Oficial del Estado.
