@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2006-12-09"
+last_updated: "2006-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -2185,57 +2185,47 @@ III. Conocer de las providencias que sean competencia de los Jueces de Primera I
 
 IV. En materia familiar conocerán de todos aquellos asuntos en los que las prestaciones reclamadas puedan determinarse económicamente, aplicando la regla establecida por la fracción I de este precepto;
 
-V. Conocer, en su caso de los procedimientos penales que se instruyan por alguno de los siguientes delitos:
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-a) Variación u ocultación del nombre o domicilio.
+V. Conocer, en su caso, de los procedimientos penales que se instruyan por alguno de los siguientes delitos:
+
+a) Variación del nombre o domicilio.
 
 b) Desobediencia y resistencia de particulares.
 
-c) Oposición a que se ejecute una obra o trabajo público.
+c) Oposición a que se ejecute una obra o trabajo públicos.
 
 d) Quebrantamiento de sellos.
 
-e) Falsedad ante la autoridad.
+e) Falsedad ante autoridades.
 
-f) Imputaciones falsas.
+f) Violación de correspondencia.
 
-g) Quebrantamiento de sanciones.
+g) Delitos contra la filiación y la Institución del matrimonio.
 
-h) Violación de correspondencia.
+h) Lesiones, excepto las previstas en el artículo 129, fracciones V, VI y VII del Código Penal.
 
-i) Ultrajes a la moral pública.
+i) Delitos de peligro para la vida o la salud de las personas.
 
-j) Delitos contra la filiación y el estado civil.
+j) Allanamiento de vivienda, despacho, oficina o establecimiento mercantil.
 
-k) Lesiones, excepto las previstas en los artículos 200 y 201 del Código Penal.
+k) Amenazas.
 
-l) Delitos de peligro para la vida y la salud personal, en los términos en que lo establece el Título XI del Código Penal.
+l) Estupro.
 
-m) Allanamiento de morada.
+m) Abuso sexual, salvo en las hipótesis de los artículos 174 y 175 del Código Penal.
 
-n) Coacción y amenazas.
+n) Robo, fraude y abuso de confianza, si su monto no excede de mil veces el salario mínimo al momento de la comisión del delito.
 
-o) Adulterio.
+o) Daños dolosos, cuyo monto no exceda de mil veces al salario mínimo y daños imprudenciales, cualquiera que fuere su cuantía.
 
-p) Estupro.
+p) Encubrimiento por favorecimiento y receptación, si el delito principal es de los reservados a su jurisdicción.
 
-q) Abusos sexuales, salvo que merecieren penalidad agravada.
+q) Delitos que tengan pena alternativa o sólo pecuniaria.
 
-r) Robo, fraude y abuso de confianza si su monto no excede de mil veces el salario mínimo al momento de la comisión del delito.
+r) Delitos que atentan contra el cumplimiento de la obligación alimentaria, y
 
-s) Daños dolosos, cuyo monto no exceda de mil veces el salario mínimo y daños culposos, cualquiera que fuere su cuantía.
-
-t) Encubrimiento por favorecimiento y receptación, si el delito principal es de los reservados a su jurisdicción.
-
-u) Delitos que tengan pena alternativa o sólo pecuniaria.
-
-v) Incumplimiento de Obligaciones de Asistencia Familiar.
-
-w) Difamación.
-
-x) Calumnia, y
-
-y) Aquellos que determine el Pleno.
+s) Aquellos que determine el Pleno.
 
 VI. Practicar, en su caso, cuando haya detenido, las primeras diligencias en los procesos por delitos de la competencia de los Jueces de Primera Instancia, donde no los hubiere, hasta resolver sobre la vinculación a proceso.
 
@@ -3188,3 +3178,11 @@ A partir de la entrada en vigor de la presente ley, el Poder Judicial contará c
 ###### ARTÍCULO DÉCIMO.
 
 Para la aplicación de la presente Ley, el Poder Ejecutivo y el Poder Judicial, previo a la remisión de sus respectivos Presupuestos de Egresos, deberán realizar las adecuaciones necesarias y, en su caso, la transferencia de partidas entre programas sectoriales.
+
+P.O. 27 DE DICIEMBRE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+Inicio de Vigencia.
+
+El presente artículo iniciará su vigencia el primero de enero de dos mil siete, sin perjuicio de su publicación en el Periódico Oficial del Estado.
