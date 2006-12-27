@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2006-09-15"
+last_updated: "2006-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -827,7 +827,7 @@ El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, 
 
 No podrán ser electos para el período inmediato:
 
-a) El Gobernador designado por el Congreso del Estado para concluir el periodo en caso de falta absoluta del constitucional; y
+a) El Gobernador, designado por el Congreso del Estado para concluir el periodo en caso de falta absoluta del constitucional; y
 
 b) El Gobernador Interino, el provisional o el ciudadano que, bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
@@ -1709,6 +1709,8 @@ No se efectuará ningún egreso que no este previamente autorizado por Ley o Dec
 
 Prevenciones Generales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### Art. 136.
 
 (DEROGADO, P.O. 16 DE OCTUBRE DE 2000)
@@ -1739,7 +1741,7 @@ De la Reforma de la Constitución.
 
 ###### Art. 141.
 
-Queda prohibido desempeñar a la vez dos o más cargos o empleos remunerados del Estado, de los Municipios, o de uno y otros, sean o no de elección popular, con excepción de los relativos a Instrucción Pública y Beneficencia.
+Queda prohibido desempeñar a la vez dos o más cargos o empleos remunerados del Estado, de los Municipios, o de uno y otros, o cualesquiera de ellos con uno de la Federación, sean o no de elección popular, con excepción de los relativos a la instrucción pública y beneficencia.
 
 Tampoco podrán desempeñarse a la vez dos cargos de elección popular.
 
@@ -3032,3 +3034,7 @@ Artículo Único.- El presente Decreto entrará en vigor el 12 de septiembre de 
 P.O. 15 DE SEPTIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
