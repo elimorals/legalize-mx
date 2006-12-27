@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2005-12-26"
+last_updated: "2006-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFISAN"
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -230,11 +230,13 @@ Los fabricantes, ensambladores o distribuidores autorizados de automóviles nuev
 
 El valor del vehículo enajenado deberá estar expresado en el comprobante correspondiente en moneda nacional.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 14.
 
-Se crea un Fondo de Compensación del Impuesto sobre Automóviles Nuevos, para resarcir a las entidades adheridas al Sistema Nacional de Coordinación Fiscal y que tengan celebrado con la Federación convenio de colaboración administrativa en materia del impuesto sobre automóviles nuevos, de la disminución de ingresos derivada de la ampliación de la exención de este impuesto que se otorga mediante el Artículo Octavo del Decreto por el que se establecen las condiciones para la importación definitiva de vehículos automotores usados, publicado en el Diario Oficial de la Federación del 22 de agosto de 2005, equivalente a $1,262,786,195.00.
+Se crea un Fondo de Compensación del Impuesto sobre Automóviles Nuevos, para resarcir a las entidades adheridas al Sistema Nacional de Coordinación Fiscal y que tengan celebrado con la Federación convenio de colaboración administrativa en materia del impuesto sobre automóviles nuevos, de la disminución de ingresos derivada de la ampliación de la exención de este impuesto que se otorga mediante el Artículo Octavo del Decreto por el que se establecen las condiciones para la importación definitiva de vehículos automotores usados, publicado en el Diario Oficial de la Federación del 22 de agosto de 2005, equivalente a $1,589,492,298.00.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
 Mensualmente se distribuirá la cantidad que resulte de dividir el monto establecido en el primer párrafo de este artículo entre 12 a las Entidades Federativas, de acuerdo a los coeficientes de distribución de la siguiente tabla:
 
@@ -306,7 +308,11 @@ Zacatecas 0.004396
 
 Total 1.000000
 
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
 El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, distribuirá los recursos del fondo a que se refiere el segundo párrafo de este artículo, dentro de los primeros 25 días de cada mes y se considerará como pago definitivo. La entidad federativa de que se trate deberá distribuir cuando menos el 20% de los recursos que reciba de este fondo a los municipios de la entidad, que se distribuirá entre estos últimos, en la forma en que determine la legislatura respectiva.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
 El monto del fondo a que se refiere el primer párrafo de este artículo se determinará anualmente en el Presupuesto de Egresos de la Federación, el cual se actualizará cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de julio del penúltimo año hasta el mes de julio inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación.
 
@@ -367,3 +373,23 @@ D.O.F. 26 DE DICIEMBRE DE 2005.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo.- Para los efectos de lo dispuesto por el tercer párrafo de la fracción II del artículo 8o. de esta Ley Federal del Impuesto sobre Automóviles Nuevos, las cantidades a que se refieren los párrafos primero y segundo de la fracción citada se entiende que se encuentran actualizadas al mes de enero de 2006.
+
+D.O.F. 27 DE DICIEMBRE DE 2006.
+
+Disposición de Vigencia Anual de la Ley Federal del Impuesto sobre Automóviles Nuevos
+
+###### ARTÍCULO DÉCIMO.
+
+En el ejercicio fiscal de 2007, el fondo previsto en el artículo 14 de la Ley Federal del Impuesto sobre Automóviles Nuevos vigente a partir del 1 de enero de 2007, se integrará adicionalmente con un monto de $88,399,701.00, el cual se distribuirá de acuerdo con los coeficientes de distribución establecidos en el segundo párrafo del artículo mencionado y se entregará en una sola exhibición a las Entidades Federativas a más tardar el 31 marzo de 2007.
+
+Disposición transitoria de la Ley Federal del Impuesto sobre Automóviles Nuevos
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Para los efectos de lo dispuesto por los párrafos primero y cuarto del artículo 14 de la Ley Federal del Impuesto sobre Automóviles Nuevos, la cantidad vigente a partir del 1 de enero de 2007 conforme a lo dispuesto por el Artículo Noveno del presente Decreto, se entiende que se encuentra actualizada a la fecha mencionada.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+## Transitorios
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
