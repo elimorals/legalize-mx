@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2004-12-29"
+last_updated: "2006-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -131,15 +131,31 @@ XVII. Predio Suburbano: Los bienes inmuebles ubicados fuera de los perímetros d
 
 XVIII. Sistema de Información Catastral: Elemento fundamental de validación e información jurídica, social y económica respecto a las características y valoración de la propiedad inmobiliaria en el territorio Estatal, con sus consiguientes efectos informativos, fiscales, administrativas y civiles;
 
-XIX. Valor Catastral: El obtenido mediante la aplicación de valores unitarios de suelo y construcción, a las partes integrantes del predio, en combinación con los factores de incremento y demérito correspondientes.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-XX. Valor Real: Es la determinación valorativa en unidades monetarias de un predio, atendiendo a sus elementos cualitativos y cuantitativos a una fecha determinada;
+XIX. Valor de Mercado: Es la determinación valorativa en unidades monetarias de un predio, atendiendo a sus elementos cualitativos y cuantitativos a una fecha determinada;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+XX. Valor Unitario: El determinado por unidad de medida en las Tablas de Valores Unitarios de Suelo y Construcción aprobadas por el H. Congreso del Estado;
 
 XXI. Valor Unitario: El que fija la autoridad catastral municipal por unidad de superficie;
 
-XXII. Valuación: El procedimiento para obtener el valor catastral de un predio; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-XXIII. Zona Catastral: La división geográfica que establece la autoridad catastral municipal con respecto de su territorio y que agrupa a un número determinado de predios en función de su homogeneidad para los efectos legales a que se refiere esta ley.
+XXII. Sistema de Información Catastral.- Conjunto de procesos y datos, respecto a las características y valoración de la propiedad inmobiliaria, que deberán instrumentar los catastros municipales y concentrar en el catastro estatal;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+XXIII. Sector Catastral.- La división geográfica que establece la autoridad catastral municipal con respecto de su territorio y que agrupa a un número determinado de predios en función de su ubicación y características para los efectos legales a que se refiere esta ley;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+XXIV. Zona Homogénea.- La que establece la autoridad catastral municipal y que agrupa a un número determinado de predios en función de su valor unitario de suelo; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+XXV. Valuación Directa: Es el procedimiento utilizado por la Autoridad Catastral Municipal para determinar el valor catastral de un predio con base a la información y a los elementos técnicos con que cuente.
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -155,7 +171,9 @@ Como consecuencia de lo anterior, son Autoridades en materia de Catastro ambos o
 
 a) El Ejecutivo del Estado; y
 
-b) Los Municipios.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+b) Los Presidentes Municipales.
 
 ###### Artículo 5.
 
@@ -187,11 +205,13 @@ II. Efectuar en coordinación con las dependencias del Ejecutivo Estatal y Feder
 
 III. Formular y actualizar la zonificación catastral correspondiente a los predios de su territorio y determinar el valor catastral de los mismos.
 
-IV. Formular y proponer al Ayuntamiento las tablas de valores unitarios para suelo y construcción y su actualización.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2003)</small>
+IV. Formular y proponer al Ayuntamiento las tablas de valores unitarios para suelo y construcción y su actualización, a efecto de remitirlas al H. Congreso del Estado para su aprobación.
 
-La autoridad catastral municipal deberá remitir mensualmente a la Secretaría de Dearrollo (sic) Municipal la información de los movimientos catastrales y de las actualizaciones que se determinen en el reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+La autoridad catastral municipal deberá enviar a la Secretaría de Desarrollo Municipal del Gobierno del Estado, el Padrón Catastral y sus bases de datos con la Información de los movimientos catastrales, así como remitir mensualmente las actualizaciones a los mismos.
 
 El incumplimiento de cualquiera de las anteriores obligaciones genera responsabilidad administrativa, dando lugar a la iniciación del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones que se establecen en la Ley de Responsabilidades de los Servidores Públicos y en el Código Municipal, ambos del Estado de Chihuahua.
 
@@ -213,13 +233,19 @@ XI. Las demás atribuciones que determine esta Ley y otras disposiciones legales
 
 Los Municipios podrán celebrar convenios de coordinación con el Ejecutivo del Estado, cuando así lo estimen conveniente, a fin de organizar su respectiva participación en las tareas de administración del Catastro.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 8.
 
-Para apoyar el ejercicio de las atribuciones del Ejecutivo del Estado y de los Municipios así como el cumplimiento de los compromisos que se deriven de los convenios de coordinación a que se refiere la presente Ley, existirá un Comité de Apoyo Técnico al Catastro, cuyas decisiones se tomarán por mayoría, teniendo el representante del Ejecutivo del Estado voto de calidad. Dicho Comité será presidido por el funcionario que designe el Ejecutivo del Estado; el número de sus miembros, modalidades de organización y funcionamiento se establecerán en el Reglamento de esta Ley.
+Para apoyar el ejercicio de las atribuciones del Ejecutivo del Estado y de los Municipios así como el cumplimiento de los compromisos que se deriven de los convenios de coordinación a que se refiere la presente Ley, existirá un Comité de Apoyo Técnico al Catastro, conformado por un representante del Ejecutivo del Estado, un representante de la Secretaría de Finanzas, uno de la Secretaría de Desarrollo Urbano y Ecología, uno de la Secretaría de Desarrollo Rural, el Director Estatal de Catastro, el Director del Registro Público de la Propiedad y del Notariado, un representante del H. Congreso del Estado, dos representantes de las autoridades catastrales municipales, dos representantes de organizaciones sociales y un representante del Colegio de Notarios.
+
+Las decisiones del Comité, se tomarán por mayoría, teniendo el representante del Ejecutivo del Estado voto de calidad. Dicho Comité será presidido por el funcionario que designe el Ejecutivo del Estado.
+
+El Ejecutivo del Estado podrá Invitar a formar parte del Comité Técnico a otras representaciones con derecho de voz pero sin voto.
 
 ###### Artículo 9.
 
-Las autoridades catastrales operarán los mecanismos de consulta y participación de la sociedad respecto a los procedimientos catastrales que regula la presente Ley.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
 ### CAPITULO TERCERO. DEL OBJETO Y REGISTROS DE INFORMACION DEL CATASTRO
 
@@ -251,9 +277,11 @@ VI. Jurídico: régimen y tenencia de la tierra; y
 
 VII. Histórico: Cronología registral y catastral de los predios.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 12.
 
-Los particulares y entidades públicas, previo pago de los derechos correspondientes al Municipio, podrán solicitar los servicios relacionados con la información catastral, así como las publicaciones, cartografía y reproducciones a cargo de las autoridades catastrales, salvo las excepciones previstas en las disposiciones legales aplicables.
+Los particulares y entidades públicas, previo pago de los derechos correspondientes al Municipio o al Estado, según el caso, podrán solicitar los servicios relacionados con la información catastral, así como las publicaciones, cartografía y reproducciones a cargo de las autoridades catastrales, salvo las excepciones previstas en las disposiciones legales aplicables.
 
 ### CAPITULO CUARTO. DE LA CEDULA CATASTRAL
 
@@ -261,13 +289,19 @@ Los particulares y entidades públicas, previo pago de los derechos correspondie
 
 Los propietarios o poseedores de predios, cualquiera que sea el régimen legal de éstos y sin detrimento de lo que dispongan otros ordenamientos, deberán inscribirlos en el padrón catastral, así como mantener actualizada la cédula correspondiente; para ello, deberán manifestar al Municipio la modificación de los datos de identificación catastral del predio y proporcionar la información para actualizar su registro, sin necesidad de requerimiento alguno y dentro de un plazo máximo de treinta días hábiles a partir de que ocurra el evento.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 14.
 
-La inscripción de un predio en el padrón catastral o la obtención de la cédula catastral, no generan ningún efecto o derecho acerca de la propiedad o posesión en favor de la persona a cuyo nombre aparece inscrito el predio.
+La inscripción de un predio en el padrón catastral y la obtención de la cédula catastral, no generan ningún efecto o derecho acerca de la propiedad o posesión en favor de la persona a cuyo nombre aparece inscrito el predio.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 15.
 
-Es obligatoria la presentación de la cédula catastral para la obtención de cualquier permiso, autorización, licencia o contratos, de carácter municipal.
+Es obligatoria la presentación de la cédula catastral y el recibo actual de pago del Impuesto Predial correspondiente, así como de multas o derechos relativos a la propiedad inmobiliaria, para la obtención de cualquier permiso, autorización, licencia o contratos, de carácter municipal o estatal, así como para la inscripción y participación en programas de apoyo o subvención, relacionados con los bienes inmobiliarios.
+
+Los Catastros Municipal y Estatal, según corresponda, llevarán el registro de los trámites públicos mencionados en el párrafo anterior y se coordinarán con las instancias respectivas, para conjuntamente corroborar el cumplimiento de esta disposición.
 
 ###### Artículo 16.
 
@@ -295,49 +329,119 @@ Las Dependencias y Entidades de la Administración Pública Federal, Estatal y M
 
 El incumplimiento a lo previsto por este artículo se sancionará de conformidad con las disposiciones aplicables en materia de responsabilidades.
 
-### CAPITULO SEXTO. DE LA ZONIFICACION CATASTRAL Y VALUACION DE LOS PREDIOS
+> <small>(REFORMADA SU DENOMINACION, 27 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO SEXTO. DE LA ELAB0RACION Y ACTUALIZACION DE TABLAS DE VALORES UNITARIOS DE SUELO, CONSTRUCCION Y LA VALUACION DE LOS PREDIOS
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 21.
 
-Para la determinación de las zonas catastrales y de los valores unitarios por zona y por vialidad, el territorio de los Municipios se dividirá en áreas con características homogéneas.
+Las tablas de valores unitarios de suelo y construcción deberán reflejar el valor de mercado.
 
-Para la definición de las áreas homogéneas se tomará en consideración lo dispuesto por los planes y programas vigentes que tengan efectos sobre el territorio; el régimen de tenencia de los predios; la existencia, disponibilidad y características del equipamiento y servicios públicos, así como el tipo de construcción y demás factores que incrementen o demeriten el valor de las zonas y predios.
+Para la determinación de las zonas homogéneas de valor y de los valores unitarios de terreno por zona y por vialidad, el territorio de los Municipios se dividirá en áreas con características homogéneas.
 
-Las bases generales y sistemas para la clasificación y valuación de las zonas, predios, construcciones, así como la aplicación de factores de incremento y demérito para la determinación de valores catastrales, se establecerán en el Reglamento respectivo, que hará la distinción de acuerdo al Municipio de que se trate.
+Para la definición de las áreas homogéneas se tomará en consideración lo dispuesto por los planes y programas de desarrollo urbano y rural que tengan efectos sobre el territorio; la existencia, disponibilidad y características del equipamiento y servicios públicos, así como el tipo de construcción y demás factores que incrementen o demeriten el valor de las zonas y predios.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+Cuando la disponibilidad y calidad de los servicios públicos, el uso de suelo, infraestructura urbana y equipamiento, nivel socioeconómico de la población, tipo y calidad de las construcciones; sean similares dentro de una circunscripción territorial, se constituye en un zona homogénea de valor y se le asignará un valor unitario de suelo.
+
+Las Tablas de Valores Unitarios de Suelo y Construcción deberán delimitar con precisión el área que comprenda cada zona homogénea de valor.
+
+Dentro de la zona homogénea de valor pueden existir franjas, denominadas corredores de valor que por sus características dan lugar a que los inmuebles colindantes, puedan tener un valor unitario de suelo diferente a la propia zona homogénea.
+
+Para determinar un corredor de valor se considerarán: las condiciones y factores que puedan modificar el valor de la franja, respecto del que corresponda a la zona homogénea.
+
+Para la determinación de los valores unitarios de suelo y construcción, los predios se clasificarán en urbanos, suburbanos y rústicos.
+
+Las construcciones se clasificarán de acuerdo a su vocación o uso predominante en: Habitacionales, comerciales o de servicios, industriales, especiales y mixtos; éstas a su vez se clasificarán de acuerdo a su tipología de construcción y al estado de conservación de la misma, las cuales se establecerán en la Tabla de Valores Unitarios de Suelo y Construcción.
+
+Las Tablas de Valores Unitarios de Suelo y Construcción deberán contener los factores de incremento y demérito que serán aplicables en el procedimiento valuatorio.
+
+Los valores unitarios de suelo en la zona urbana y suburbana se fijarán por metro cuadrado y en la zona rústica por hectárea.
+
+Las bases generales y sistemas para la clasificación y valuación de las zonas, predios, construcciones, así como la aplicación de factores de incremento y demérito para la determinación de valores unitarios, se establecerán de conformidad con lo dispuesto por esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 22.
 
-De conformidad con la presente ley y las normas técnicas aplicables, los Ayuntamientos en el ámbito de su competencia, enviarán anualmente, antes del treinta y uno de octubre del año anterior al ejercicio, al Congreso del Estado, para su aprobación y posterior publicación en el Periódico Oficial del Estado, las tablas de valores unitarios para suelo y construcción, que servirán de base para el cálculo de los impuestos que graven la propiedad inmobiliaria.
+De conformidad con la presente ley y las normas técnicas aplicables, los Ayuntamientos, enviarán anualmente al H. Congreso del Estado, a más tardar el treinta y uno de octubre, para su aprobación y posterior publicación en el Periódico Oficial del Estado, las Tablas de Valores Unitarios para Suelo y Construcción, que servirán para determinar los valores catastrales y serán la base para él cálculo de los impuestos que graven la propiedad inmobiliaria durante el ejercicio fiscal siguiente.
+
+En caso de no cumplirse con oportunidad, lo previsto en este artículo, las Tablas de Valores Unitarios de Suelo y Construcción aprobadas para el año en curso continuarán vigentes para el ejercicio fiscal siguiente, en caso de omisión por parte de los Ayuntamientos de presentarlas en los términos del párrafo anterior, sin perjuicio de la aplicación de sanciones que correspondan por el incumplimiento conforme a los artículos 23, 27, 30 y demás relativos de la Ley de Responsabilidades de Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 23.
 
-Para determinar el valor catastral de los predios, se aplicarán los valores unitarios de terreno de acuerdo con la zona catastral en que se encuentre ubicado y de la construcción, de acuerdo a la tipología constructiva, considerando en ambos casos los factores de incremento y demérito que correspondan, conforme a los instructivos autorizados.
+Para determinar el valor catastral de los predios, se aplicarán los valores unitarios aprobados, de acuerdo con la siguiente fórmula:
+
+VCAT= VT + VC
+
+Para efectos de la fórmula anterior, se entenderá:
+
+VCAT= Valor Catastral
+
+VT= Valor del Terreno
+
+VC= Valor de la Construcción
+
+El valor del terreno de un inmueble se obtiene de multiplicar su superficie por el valor unitario de suelo, contenido en las Tablas de Valores Unitarios de Suelo y Construcción aprobadas para el Municipio en el cual se encuentra ubicado el predio, de acuerdo con la fórmula siguiente:
+
+VT= ST x VUS
+
+Para efectos de la fórmula anterior, se entenderá:
+
+VT= Valor de Terreno
+
+ST= Superficie del Terreno
+
+VUS= Valor Unitario del Suelo correspondiente a la zona homogénea o corredor de valor donde se ubica el inmueble.
+
+En su caso, deberá considerarse los factores de incremento y demérito, previstos en las tablas, según las características del suelo, una vez determinado el valor unitario de referencia que le corresponda.
+
+El valor de construcción de un inmueble, se obtiene de multiplicar la superficie construida, por el valor unitario de construcción para cada tipo de edificación, contenido en las Tablas de Valores Unitarios de Suelo y Construcción aprobadas para el Municipio en el cual se encuentra ubicado el predio, más el valor de las Instalaciones especiales permanentes, de acuerdo con la fórmula siguiente:
+
+VC= SC x VUC+VIE
+
+Para efectos de la fórmula anterior, se entenderá:
+
+VC= Valor de la Construcción
+
+SC= Superficie de la Construcción
+
+VUC= Valor Unitario de la Construcción
+
+VIE= Valor de las instalaciones especiales.
+
+Según las características del predio deberán aplicarse, en su caso, los factores de incremento y demérito, previstos en las tablas, una vez determinado el valor unitario de referencia que le corresponda.
+
+Para los inmuebles que estén sujetos al régimen de propiedad en condominio, la valuación deberá hacerse respecto a cada unidad privativa, incluyendo la parte proporcional indivisa de los bienes comunes.
 
 ###### Artículo 24.
 
 El valor catastral será el que resulte de sumar el valor del terreno y el de la construcción, obtenidos conforme lo señala el artículo anterior.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-El valor catastral deberá reflejar el valor de mercado del inmueble.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 25.
 
-La asignación y actualización del valor catastral se efectuará por los Municipios, mediante cualquiera de los siguientes procedimientos:
+La asignación y actualización del valor catastral de inmuebles se efectuará por los Municipios, conforme a las Tablas de Valores Unitarios de Suelo y Construcción y con apoyo en la información resultante de los siguientes procedimientos:
 
 I. Por declaración del contribuyente, sujeta a la aprobación de la autoridad municipal;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-II. Por avalúo directo realizado por un valuador. Este deberá ser autorizado por la Comisión Nacional Bancaria y de Valores, o estar debidamente acreditado ante el Departamento Estatal de Profesiones o contar con la autorización de la autoridad municipal correspondiente, a solicitud del contribuyente;
+II.- Por avalúo directo realizado por un perito valuador debidamente registrado o autorizado ante el Departamento Estatal de Profesiones;
 
-III. Valuación directa conforme a los instructivos que se aprueben; y (sic)
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-IV. Determinación del valor con base en la aplicación de valores unitarios de terreno y construcción. Dicha determinación se podrá efectuar con base en la documentación oficial que emitan las Autoridades Catastrales, tomando en consideración la información proporcionada al catastro por los propietarios o poseedores de predios, o con base en los registros de información con que cuenten las mismas Autoridades;
+III.- Valuación directa en base a la información recabada por la Autoridad Catastral Municipal, mediante inspección física, estudios técnicos directos o por medios indirectos como la fotogrametría, aerofotogrametría e imagen satelital;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+IV.- Con base en la documentación oficial que emitan las Autoridades Catastrales, tomando en consideración la información proporcionada al catastro por los propietarios o poseedores de predios, o con base en los registros de información con que cuenten las mismas Autoridades;
 
 > <small>(ADICIONADA, P.O. 11 DE ENERO DE 2003)</small>
 
@@ -347,23 +451,17 @@ V. Por determinación de la autoridad municipal, tomando como referencia el valo
 
 Los valuadores deberán presentarse en horas y días hábiles en el predio objeto de la valuación y mostrar la identificación correspondiente. Si los propietarios, poseedores o encargados se opusieren en cualquier forma a la visita o a que se levante la información para la valuación, ésta se hará administrativamente con base en los elementos de que disponga la autoridad municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 27.
 
-La asignación, modificación y actualización de los valores catastrales por parte de la autoridad municipal, deberá notificarse a los propietarios o poseedores de los predios.
+La asignación, modificación y actualización de los valores catastrales por parte de la autoridad municipal, deberá notificarse a los propietarios o poseedores de los predios, en el domicilio señalado por estos para oír y recibir notificaciones o en su defecto mediante publicación de edictos en los estrados de la oficina de catastro municipal.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-No será necesario hacer la notificación anterior respecto de las revaluaciones que con el carácter de general se hagan a todos los predios en aplicación de las tablas de valores unitarios de suelo y construcciones, que anualmente apruebe el Congreso del Estado.
+No será necesario hacer la notificación anterior en los casos en que dichos valores sean el resultado de las manifestaciones presentadas por los propietarios o poseedores de los predios, ni con respecto a las revaluaciones que con el carácter de general se hagan a todos los predios en aplicación de las Tablas de Valores Unitarios de Suelo y Construcciones, que anualmente apruebe el H. Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
-
-En caso de que dentro del territorio del Municipio existan zonas en que no se hayan asignado valores unitarios o en las que habiéndoseles asignado, cambien de características esenciales en el período de vigencia, las autoridades catastrales podrán determinar provisionalmente valores unitarios con base en los asignados para zonas similares.
-
-Los valores catastrales provisionales que se determinen para los predios con base en dichos valores unitarios, estarán vigentes por el año calendario correspondiente.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2004)</small>
-
-En todo caso, el propietario o poseedor inconforme con la modificación, actualización o asignación de valores realizada por la autoridad catastral, podrá ejercitar el medio de defensa previsto por el artículo 32 de esta Ley.
+> <small>(DEROGADO TERCER Y CUARTO PARRAFOS, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
@@ -371,13 +469,19 @@ En todo caso, el propietario o poseedor inconforme con la modificación, actuali
 
 Los predios a los cuales ya se hubiese fijado un valor catastral, serán revaluados en los siguientes casos:
 
-I. De manera general y anualmente al inicio del ejercicio, adecuándolos a las tablas de valores unitarios de suelo y construcción, que apruebe el Congreso del Estado, para el ejercicio de que se trate;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-II. Cuando el predio sufra un cambio físico o de urbanización que afecte su valor;
+I. De manera general y anualmente al inicio del ejercicio, aplicando las tablas de valores unitarios de suelo y construcción, que apruebe el Congreso del Estado, para el ejercicio de que se trate;
 
-III. Cuando el avalúo existente haya sido dado con carácter provisional; y
+II. Cuando el predio sufra un cambio físico o de urbanización que afecte su valor.
 
-IV. Cuando en las fincas urbanas en construcción o reedificación, hayan transcurrido dos años desde su inicio sin haberse terminado.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+Para efectos de lo establecido en la fracción II de este Artículo, se entiende por cambio físico, la alteración de las características físicas de un predio como: construcciones, reconstrucciones, remodelaciones, ampliaciones, demoliciones parciales o totales, o cualesquiera otra que afecte el valor del predio; y por cambio de urbanización, la modificación de las obras y demás servicios públicos municipales que afectan el valor del predio;
+
+III. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2006)
+
+IV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2006)
 
 ### CAPITULO SEPTIMO. DE LAS INFRACCIONES, SANCIONES Y MEDIOS DE IMPUGNACION DE LOS ACTOS ADMINISTRATIVOS
 
@@ -395,19 +499,27 @@ IV. La falta de presentación de planos y cualquier otro documento que señalen 
 
 V. La negativa para la realización de las actividades relativas a la identificación, registro y valuación de los predios ubicados en el territorio del Municipio; y
 
-VI. Omitir la manifestación de aviso de cambio de domicilio para oír y recibir notificaciones y documentos.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+VI. Omitir la manifestación o aviso de cambio de domicilio para oír y recibir notificaciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 30.
 
-Los infractores a que se refiere el artículo anterior serán sancionados con multa de cinco a veinticinco veces el salario mínimo general vigente para la zona económica en que se ubique el inmueble.
+Los infractores a que se refiere el artículo anterior serán sancionados con multa de cinco a veinticinco veces el salario mínimo general diario, vigente para la zona económica en que se ubique el inmueble.
 
-Para que pueda ser aplicada la anterior sanción, deberá existir constancia de que el presunto infractor ha quedado debidamente impuesto del hecho que se le atribuye, así como del derecho que tiene para alegar lo que a sus intereses convenga en un término de cinco días hábiles, transcurridos los cuales la autoridad decidirá lo conducente.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+Para que pueda ser aplicada la anterior sanción, deberá existir constancia de que el presunto infractor ha quedado debidamente notificado del hecho que se le atribuye, así como del derecho que tiene para alegar lo que a sus intereses convenga en un término de cinco días hábiles, transcurridos los cuales la autoridad decidirá lo conducente.
 
 Para efectos de la aplicación de las sanciones, se considerarán las características del inmueble y la capacidad económica del infractor; en caso de reincidencia se impondrá el doble de la multa original.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 31.
 
-Las infracciones determinadas por esta ley serán sancionadas por la autoridad municipal y se clasificarán independientes de los créditos fiscales y los accesorios, que se determinen con motivo de las omisiones o declaraciones inexactas en que incurrió el propietario o poseedor del predio.
+Las infracciones determinadas por esta ley serán sancionadas por la autoridad municipal, independientemente de los créditos fiscales y los accesorios, que se determinen con motivo de las omisiones.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
@@ -415,15 +527,21 @@ Las infracciones determinadas por esta ley serán sancionadas por la autoridad m
 
 La revaluación, actualización, modificación o asignación de valores catastrales, que resulte de la aplicación general de las tablas de valores unitarios de suelo y construcciones aprobadas por el Congreso del Estado o la que realice por cualquier otra causa la autoridad catastral, serán impugnables por el propietario o poseedor mediante el recurso de inconformidad, en los siguientes términos:
 
-I.- Se substanciará mediante un escrito dirigido a la autoridad catastral, acompañado de un avalúo practicado por un perito valuador autorizado, pidiendo la modificación del valor catastral.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+I.- Se substanciará mediante un escrito dirigido a la autoridad catastral municipal, pidiendo la revisión del valor catastral.
 
 II.- Puede ser presentado en cualquier tiempo.
 
 El pago que haga el poseedor o propietario de cualquier tributo, calculado con base en el valor impugnado, será presunción de la conformidad y precluirá su derecho a inconformarse.
 
-III. La autoridad catastral deberá resolver en un plazo de diez días hábiles el recurso, debiendo el recurrente acudir en ese término a la Tesorería Municipal a notificarse de la resolución.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-IV.- La publicación de la resolución recaída al recurso en un lugar visible de la Tesorería, al décimo día hábil después de presentado el recurso, sufrirá los efectos de notificación al recurrente, para el caso de que no acuda a notificarse.
+III.- La autoridad catastral deberá resolver en un plazo de diez días hábiles, debiendo el recurrente acudir en ese término a la Tesorería Municipal a notificarse de la resolución.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+IV.- La publicación de la resolución recaída al recurso se ubicará en un lugar visible de la Tesorería, a partir del décimo día hábil después de presentado el recurso, surtirá efectos de notificación al recurrente, para el caso de que no acuda a notificarse.
 
 V.- En caso de resultar procedente el recurso, la autoridad catastral aplicará al padrón catastral el valor determinado en la resolución, en un plazo no mayor a diez días hábiles.
 
@@ -439,9 +557,9 @@ Artículo Primero. Esta Ley entrará en vigor el primero de enero de mil novecie
 
 Artículo Segundo. Las Disposiciones de el Código Fiscal del Estado de Chihuahua en su Libro Primero, Título tercero, Capítulo I, Sección Sexta, serán aplicables de manera supletoria, hasta en tanto se expida el Reglamento de la presente Ley.
 
-Artículo Tercero. En el Reglamento que se expida para regular las funciones del Comité Técnico de Apoyo al Catastro, se preverá la constitución de (sic) Instituto Estatal del Catastro.
+Artículo Tercero. (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-Artículo Cuarto. El Reglamento a que se refiere la presente Ley, deberá expedirse en un plazo máximo de seis meses, contados a partir de la fecha de entrada en vigor del presente decreto.
+Artículo Cuarto. (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
 Artículo Quinto. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
@@ -674,3 +792,9 @@ Las actualizaciones que resulten de la aplicación del artículo transitorio ant
 Todos los municipios deberán realizar una investigación con la participación de peritos valuadores autorizados, a fin de obtener el Estudio Integral de Valores de Mercado y con base en ello elaborar las tablas de valores, que someterán a la consideración del Congreso del Estado, en los términos de este decreto, para entrar en vigor en el año 2006. Así mismos, realizarán un programa intensivo de actualización catastral para captar predios omisos y nuevas construcciones.
 
 La inobservancia de lo anterior será sancionado en los términos del artículo 23, fracciones XVII y XVIII de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+
+P.O. 27 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor una vez publicado en el Periódico Oficial del Estado, el día primero de enero del año dos mil siete.
