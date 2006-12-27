@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2005-02-10"
+last_updated: "2006-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 27 de diciembre de 1978.
 
@@ -310,9 +310,9 @@ La Federación por conducto de la Secretaría de Hacienda y Crédito Público in
 
 Las participaciones que correspondan a las Entidades y Municipios son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por las Entidades o Municipios, con autorización de las legislaturas locales e inscritas a petición de dichas Entidades ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, a favor de la Federación, de las Instituciones de Crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981) (F. DE E., D.O.F. 15 DE ABRIL DE 1982)
 
-Las obligaciones de los Municipios se registrarán cuando cuenten con la garantía solidaria del Estado, salvo cundo (sic) a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes participaciones para responder a sus compromisos.
+Las obligaciones de los Municipios se registrarán cuando cuenten con la garantía solidaria del Estado, salvo cuando a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes participaciones para responder a sus compromisos.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -424,7 +424,7 @@ IV.- Actos de inspección y vigilancia.
 
 Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al g) de la fracción I y la fracción III.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981) (F. DE E., D.O.F. 15 DE ABRIL DE 1982)
 
 Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
 
@@ -736,11 +736,15 @@ V.- Fondo de Aportaciones Múltiples;
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VI.- Fondo de Aportaciones para la Educación Tecnológica y de Adultos, y
+VI.- Fondo de Aportaciones para la Educación Tecnológica y de Adultos, y (sic)
 
 (ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998
 
-VII.- Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal.
+VII.- Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
+VIII.- Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1082,59 +1086,129 @@ El Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrit
 
 En el Presupuesto de Egresos de la Federación de cada ejercicio fiscal se hará la distribución de los recursos federales que integran este Fondo entre los distintos rubros de gasto del Sistema Nacional de Seguridad Pública aprobados por el Consejo Nacional de Seguridad Pública.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
-El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, entregará a las Entidades Federativas el Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal con base en los criterios que el Consejo Nacional de Seguridad Pública determine, a propuesta de la Secretaría de Seguridad Pública, utilizando para la distribución de los recursos, criterios que incorporen el número de habitantes de los Estados y del Distrito Federal; el índice de ocupación penitenciaria; la tasa de crecimiento anual de indiciados y sentenciados; así como el avance en la aplicación del Programa Nacional de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura. La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación que corresponderá a la asignación por cada Estado y el Distrito Federal, deberá publicarse en el Diario Oficial de la Federación a más tardar el 31 de enero del ejercicio fiscal de que se trate. Los convenios celebrados entre las partes integrantes del Sistema Nacional, deberán firmarse en un término no mayor a sesenta días contados a partir de la publicación antes mencionada.
+El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, entregará a las Entidades Federativas el Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal con base en los criterios que el Consejo Nacional de Seguridad Pública determine, a propuesta de la Secretaría de Seguridad Pública, utilizando para la distribución de los recursos, criterios que incorporen el número de habitantes de los Estados y del Distrito Federal; el índice de ocupación penitenciaria; la implementación de programas de prevención del delito; así como el avance en la aplicación del Programa Nacional de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura. La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación que corresponderá a la asignación por cada Estado y el Distrito Federal, deberá publicarse en el Diario Oficial de la Federación a más tardar a los 30 días naturales siguientes a la publicación en dicho Diario del Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate. Los convenios celebrados entre las partes integrantes del Sistema Nacional y los anexos técnicos, deberán firmarse en un término no mayor a sesenta días contados a partir de la publicación de la información antes mencionada.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
-Este Fondo se enterará mensualmente por la Secretaría de Hacienda y Crédito Público durante los primeros diez meses del año a los Estados, de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquellas de carácter administrativo.
+Este Fondo se enterará mensualmente por la Secretaría de Hacienda y Crédito Público durante los primeros diez meses del año a los Estados y al Distrito Federal, de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquéllas de carácter administrativo, salvo que no se cumpla lo dispuesto en este artículo.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 Para los efectos del entero a que se refiere el párrafo anterior no procederán los anticipos a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
+Los Estados y el Distrito Federal reportarán trimestralmente a la Secretaría de Seguridad Pública federal el ejercicio de los recursos del Fondo y el avance en el cumplimiento de las metas, así como las modificaciones realizadas a los convenios de colaboración y sus anexos técnicos en la materia; en este último caso deberán incluirse los acuerdos del respectivo Consejo Estatal de Seguridad Pública o el acuerdo correspondiente del Consejo Nacional de Seguridad Pública, así como la justificación sobre las adecuaciones a las asignaciones previamente establecidas.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 45.
 
-Las aportaciones federales que con cargo al Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal reciban dichas entidades se destinarán exclusivamente al reclutamiento, selección, depuración, evaluación y formación de los recursos humanos vinculados con tareas de seguridad pública; a complementar las dotaciones de: agentes del Ministerio Público, los peritos, los policías judiciales o sus equivalentes de las Procuradurías de Justicia de los Estados y del Distrito Federal, de los policías preventivos o de custodia de los centros penitenciarios y de menores infractores; al equipamiento de las policías judiciales o de sus equivalentes, de los peritos, de los ministerios públicos y de los policías preventivos o de custodia de los centros penitenciarios y de menores infractores; al establecimiento y operación de la red nacional de telecomunicaciones e informática para la seguridad pública y el servicio telefónico nacional de emergencia; a la construcción, mejoramiento o ampliación de las instalaciones para la procuración e impartición de justicia, de los centros de readaptación social y de menores infractores, así como de las instalaciones de los cuerpos de seguridad pública y sus centros de capacitación; al seguimiento y evaluación de los programas señalados.
+Las aportaciones federales que con cargo al Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal reciban dichas entidades se destinarán exclusivamente al reclutamiento, formación, selección, evaluación y depuración de los recursos humanos vinculados con tareas de seguridad pública; al otorgamiento de percepciones extraordinarias para los agentes del Ministerio Público, los peritos, los policías judiciales o sus equivalentes de las Procuradurías de Justicia de los Estados y del Distrito Federal, los policías preventivos o de custodia de los centros penitenciarios y de menores infractores; al equipamiento de las policías judiciales o de sus equivalentes, de los peritos, de los ministerios públicos y de los policías preventivos o de custodia de los centros penitenciarios y de menores infractores; al establecimiento y operación de la red nacional de telecomunicaciones e informática para la seguridad pública y el servicio telefónico nacional de emergencia; a la construcción, mejoramiento o ampliación de las instalaciones para la procuración e impartición de justicia, de los centros de readaptación social y de menores infractores, así como de las instalaciones de los cuerpos de seguridad pública y sus centros de capacitación; al seguimiento y evaluación de los programas señalados.
 
-Los recursos para complementar las dotaciones de los agentes del Ministerio Público, los policías judiciales o sus equivalentes, los policías preventivos y de custodia, y los peritos de las procuradurías de justicia de los Estados y del Distrito Federal, tendrán el carácter de no regularizables para los presupuestos de egresos de la Federación de ejercicios subsecuentes y las responsabilidades laborales que deriven de tales recursos estarán a cargo de los gobiernos de los Estados y del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
+Los recursos para el otorgamiento de percepciones extraordinarias para los agentes del Ministerio Público, los policías judiciales o sus equivalentes, los policías preventivos y de custodia, y los peritos de las procuradurías de justicia de los Estados y del Distrito Federal, tendrán el carácter de no regularizables para los presupuestos de egresos de la Federación de los ejercicios subsecuentes y las responsabilidades laborales que deriven de tales recursos estarán a cargo de los gobiernos de los Estados y del Distrito Federal.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 Dichos recursos deberán aplicarse conforme a los programas estatales de seguridad pública derivados del Programa Nacional de Seguridad Pública, acordado por el Consejo Nacional de Seguridad Pública, de acuerdo a la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
 Serán materia de anexos específicos entre la Federación y los Estados y el Distrito Federal, los programas de la red nacional de telecomunicaciones e informática y el servicio telefónico nacional de emergencia del sistema nacional de información.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 Los Estados y el Distrito Federal proporcionarán al Ejecutivo Federal, por conducto de la Secretaría de Gobernación, la información financiera, operativa y estadística que le sea requerida.
 
-(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 46.
 
-Las aportaciones y sus accesorios que con cargo a los Fondos a que se refiere este Capítulo reciban las Entidades Federativas y, en su caso, los Municipios no serán embargables, ni los gobiernos correspondientes podrán, bajo ninguna circunstancia, gravarlas, afectarlas en garantía, ni destinarlas a fines distintos a los expresamente previstos en los artículos 26, 29, 33, 37, 40, 42 y 45 de esta Ley.
+El Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas se determinará anualmente en el Presupuesto de Egresos de la Federación correspondiente con recursos federales por un monto equivalente al 1.40 por ciento de la recaudación federal participable a que se refiere el artículo 2o. de esta Ley.
 
-Dichas aportaciones serán administradas y ejercidas por los gobiernos de las Entidades Federativas y, en su caso, de los Municipios que las reciban, conforme a sus propias leyes. Por tanto, deberán registrarlas como ingresos propios destinados específicamente a los fines establecidos en los citados artículos.
+Los montos de este fondo se enterarán mensualmente por la Secretaría de Hacienda y Crédito Público a los Estados y al Distrito Federal de manera ágil y directa, de acuerdo con el porcentaje que le corresponda a cada entidad federativa conforme a la distribución de dicho Fondo en el Presupuesto de Egresos de la Federación del ejercicio fiscal inmediato anterior.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 47.
+
+Los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas se destinarán:
+
+I. A la inversión en infraestructura física, incluyendo la construcción, reconstrucción, ampliación, mantenimiento y conservación de infraestructura; así como la adquisición de bienes para el equipamiento de las obras generadas o adquiridas; infraestructura hidroagrícola, y hasta un 3 por ciento del costo del programa o proyecto programado en el ejercicio fiscal correspondiente, para gastos indirectos por concepto de realización de estudios, elaboración y evaluación de proyectos, supervisión y control de estas obras de infraestructura;
+
+II. Al saneamiento financiero, preferentemente a través de la amortización de deuda pública, expresada como una reducción al saldo registrado al 31 de diciembre del año inmediato anterior. Asimismo, podrán realizarse otras acciones de saneamiento financiero, siempre y cuando se acredite un impacto favorable en la fortaleza de las finanzas públicas locales;
+
+III. Para apoyar el saneamiento de pensiones y, en su caso, reformas a los sistemas de pensiones de los Estados y del Distrito Federal, prioritariamente a las reservas actuariales;
+
+IV. A la modernización de los registros públicos de la propiedad y del comercio locales, en el marco de la coordinación para homologar los registros públicos; así como para modernización de los catastros, con el objeto de actualizar los valores de los bienes y hacer más eficiente la recaudación de contribuciones;
+
+V. Para modernizar los sistemas de recaudación locales y para desarrollar mecanismos impositivos que permitan ampliar la base gravable de las contribuciones locales, lo cual genere un incremento neto en la recaudación;
+
+VI. Al fortalecimiento de los proyectos de investigación científica y desarrollo tecnológico, siempre y cuando las aportaciones federales destinadas a este rubro sean adicionales a los recursos de naturaleza local aprobados por las legislaturas locales en dicha materia;
+
+VII. Para los sistemas de protección civil en los Estados y el Distrito Federal, siempre y cuando las aportaciones federales destinadas a este rubro sean adicionales a los recursos de naturaleza local aprobados por las legislaturas locales en dicha materia;
+
+VIII. Para apoyar la educación pública, siempre y cuando las aportaciones federales destinadas a este rubro sean adicionales a los recursos de naturaleza local aprobados por las legislaturas locales para dicha materia y que el monto de los recursos locales se incremente en términos reales respecto al presupuestado en el año inmediato anterior, y
+
+IX. Para destinarlas a fondos constituidos por los Estados y el Distrito Federal para apoyar proyectos de infraestructura concesionada o aquéllos donde se combinen recursos públicos y privados; al pago de obras públicas de infraestructura que sean susceptibles de complementarse con inversión privada, en forma inmediata o futura, así como a estudios, proyectos, supervisión, liberación del derecho de vía, y otros bienes y servicios relacionados con las mismas.
+
+Los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, tienen por objeto fortalecer los presupuestos de las mismas y a las regiones que conforman. Para este fin y con las mismas restricciones, las Entidades Federativas podrán convenir entre ellas o con el Gobierno Federal, la aplicación de estos recursos, los que no podrán destinarse para erogaciones de gasto corriente o de operación, salvo en los casos previstos expresamente en las fracciones anteriores. Las Entidades Federativas deberán presentar a la Secretaría de Hacienda y Crédito Público un informe trimestral detallado sobre la aplicación de los recursos a más tardar 20 días naturales después de terminado el trimestre.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 48.
+
+Los Estados y el Distrito Federal enviarán al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, informes sobre el ejercicio y destino de los recursos de los Fondos de Aportaciones Federales a que se refiere este Capítulo.
+
+Para los efectos del párrafo anterior, los Estados y el Distrito Federal reportarán tanto la información relativa a la Entidad Federativa, como aquélla de sus respectivos Municipios o Demarcaciones Territoriales para el caso del Distrito Federal, en los Fondos que correspondan, así como los resultados obtenidos; asimismo, remitirán la información consolidada a más tardar a los 20 días naturales posteriores a la terminación de cada trimestre del ejercicio fiscal.
+
+La Secretaría de Hacienda y Crédito Público incluirá los reportes señalados en el párrafo anterior, por Entidad Federativa, en los informes trimestrales que deben entregarse al Congreso de la Unión en los términos del artículo 107, fracción I, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; asimismo, pondrá dicha información a disposición para consulta en su página electrónica de Internet, la cual deberá actualizar a más tardar en la fecha en que el Ejecutivo Federal entregue los citados informes.
+
+Los Estados, el Distrito Federal, los Municipios y las Demarcaciones Territoriales del Distrito Federal, publicarán los informes a que se refiere el párrafo primero de este artículo en los órganos locales oficiales de difusión y los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de Internet o de otros medios locales de difusión, a más tardar a los 5 días hábiles posteriores a la fecha señalada en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
+###### ARTÍCULO 49.
+
+Las aportaciones y sus accesorios que con cargo a los Fondos a que se refiere este Capítulo reciban las Entidades Federativas y, en su caso, los Municipios y las Demarcaciones Territoriales del Distrito Federal, no serán embargables, ni los gobiernos correspondientes podrán, bajo ninguna circunstancia, gravarlas ni afectarlas en garantía o destinarse a mecanismos de fuente de pago, salvo por lo dispuesto en el artículo 50 de esta Ley. Dichas aportaciones y sus accesorios en ningún caso podrán destinarse a fines distintos a los expresamente previstos en los artículos 26, 29, 33, 37, 40, 42, 45 y 47 de esta Ley.
+
+Las aportaciones federales serán administradas y ejercidas por los gobiernos de las Entidades Federativas y, en su caso, de los Municipios y las Demarcaciones Territoriales del Distrito Federal que las reciban, conforme a sus propias leyes. Por tanto, deberán registrarlas como ingresos propios que deberán destinarse específicamente a los fines establecidos en los artículos citados en el párrafo anterior.
 
 El control y supervisión del manejo de los recursos a que se refiere este Capítulo quedará a cargo de las siguientes autoridades, en las etapas que se indican:
 
-I.- Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes a las Entidades Federativas, corresponderá a la Secretaría de Contraloría y Desarrollo Administrativo;
+I.- Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes a las Entidades Federativas, corresponderá a la Secretaría de la Función Pública;
 
-II.- Recibidos los recursos de los fondos de que se trate por las Entidades Federativas y los Municipios, hasta su erogación total, corresponderá a las autoridades de control y supervisión interna de los gobiernos de las Entidades Federativas y a las autoridades de los Gobiernos Municipales según corresponda.
+II.- Recibidos los recursos de los fondos de que se trate por las Entidades Federativas, los Municipios y las Demarcaciones Territoriales del Distrito Federal, hasta su erogación total, corresponderá a las autoridades de control y supervisión interna de los gobiernos locales.
 
-La supervisión y vigilancia no podrán implicar limitaciones, ni restricciones, de cualquier índole, en la administración y ejercicio de dichos Fondos.
+La supervisión y vigilancia no podrán implicar limitaciones ni restricciones, de cualquier índole, en la administración y ejercicio de dichos Fondos;
 
-III.- La fiscalización de las Cuentas Públicas de las Entidades Federativas y los municipios, será efectuada por el Congreso local que corresponda, por conducto de su Contaduría Mayor de Hacienda conforme a sus propias leyes, a fin de verificar que las dependencias del Ejecutivo Local y de los Municipios, respectivamente aplicaron los recursos de los fondos para los fines previstos en esta Ley; y,
+III.- La fiscalización de las Cuentas Públicas de las Entidades Federativas, los Municipios y las Demarcaciones Territoriales del Distrito Federal, será efectuada por el Poder Legislativo local que corresponda, por conducto de su Contaduría Mayor de Hacienda u órgano equivalente conforme a lo que establezcan sus propias leyes, a fin de verificar que las dependencias del Ejecutivo Local y, en su caso, de los Municipios y las Demarcaciones Territoriales del Distrito Federal, respectivamente aplicaron los recursos de los fondos para los fines previstos en esta Ley; y
 
-IV.- La Contaduría Mayor de Hacienda de la Cámara de Diputados al fiscalizar la Cuenta Pública Federal que corresponda, verificará que las dependencias del Ejecutivo Federal cumplieron con las disposiciones legales y administrativas federales, y por lo que hace a la ejecución de los recursos de los Fondos a los que se refiere este capítulo, la misma se realizará en términos del artículo 3o., fracción III, de su Ley Orgánica.
+IV.- La Auditoria Superior de la Federación de la Cámara de Diputados del Congreso de la Unión, al fiscalizar la Cuenta Pública Federal que corresponda, verificará que las dependencias del Ejecutivo Federal cumplieron con las disposiciones legales y administrativas federales y, por lo que hace a la ejecución de los recursos de los Fondos a los que se refiere este capítulo, la misma se realizará en términos del Título Tercero de la Ley de Fiscalización Superior de la Federación.
 
-Cuando las autoridades Estatales o Municipales que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos de los Fondos no han sido aplicados a los fines que por cada Fondo se señale en la Ley, deberán hacerlo del conocimiento de la Secretaría de Contraloría y Desarrollo Administrativo en forma inmediata.
+Cuando las autoridades de las Entidades Federativas, de los Municipios o de las Demarcaciones Territoriales del Distrito Federal, que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos de los Fondos no han sido aplicados a los fines que por cada Fondo se señale en la Ley, deberán hacerlo del conocimiento de la Secretaría de la Función Pública en forma inmediata.
 
-Por su parte, cuando la Contaduría Mayor de Hacienda de un Congreso Local detecte que los recursos de los Fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de la Contaduría Mayor de Hacienda de la Cámara de Diputados del Congreso de la Unión.
-
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2002)</small>
+Por su parte, cuando la Contaduría Mayor de Hacienda o el órgano equivalente del Poder Legislativo local, detecte que los recursos de los Fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
 
 Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos federales o locales por el manejo o aplicación indebidos de los recursos de los Fondos a que se refiere este Capítulo, serán determinadas y sancionadas por las autoridades federales o locales, según corresponda conforme a las etapas a que se refiere este artículo, de conformidad con sus propias legislaciones.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 50.
+
+Las aportaciones que con cargo a los Fondos a que se refiere el artículo 25, en sus fracciones III y VIII, de esta Ley correspondan a las Entidades Federativas o Municipios, podrán afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones que contraigan con la Federación, las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con autorización de las legislaturas locales y se inscriban a petición de las Entidades Federativas o los Municipios, según corresponda, ante la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, así como en el registro único de obligaciones y empréstitos a que se refiere el tercer párrafo del artículo 9o del presente ordenamiento.
+
+Los financiamientos que den origen a las obligaciones a que hace referencia el párrafo anterior únicamente podrán destinarse a los fines establecidos en el artículo 33 de esta Ley, para el caso de las aportaciones con cargo al Fondo de Aportaciones para la Infraestructura Social, y a los fines establecidos en el artículo 47 de esta Ley por lo que se refiere al Fondo de Aportaciones Federales para el Fortalecimiento de las Entidades Federativas.
+
+Las Entidades Federativas y los Municipios que contraigan obligaciones al amparo de este artículo, no podrán destinar más del 25% de los recursos que anualmente les correspondan por concepto de los fondos a que se refiere el párrafo anterior, para servir dichas obligaciones.
+
+Las obligaciones de los Municipios a que se refiere el segundo párrafo de este artículo se inscribirán en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, cuando cuenten con la garantía del Gobierno del Estado respectivo, salvo cuando a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes aportaciones con cargo al Fondo a que se refiere el artículo 25, fracción III, de esta Ley, para responder a sus compromisos.
+
+Las Entidades Federativas y Municipios efectuarán los pagos de las obligaciones contraídas en los términos de este artículo, con cargo a las aportaciones que les correspondan de los Fondos a que el mismo se refiere, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos y sistemas de registro establecidos, en su caso, en las leyes estatales de deuda.
 
 ## TRANSITORIOS
 
@@ -1228,7 +1302,9 @@ A partir del ejercicio de 1982, se aplicará en sus términos la fórmula del ar
 
 Durante 1982, 1983 y 1984, la participación en el impuesto adicional del 3% sobre el impuesto general de exportación de petróleo crudo y gas natural y sus derivados, a que se refiere el artículo 2o. A de la Ley de Coordinación Fiscal se dividirá en la forma siguiente:
 
-I.- Una tercera parte corresponderá al Fondo de Fomento Municipal y a los Municipios donde se encuentren ubicadas las aduanas fronterizas o marítimas por las que se efectúe la exportación, en los siguientes por cientos conforme a los años que señalan:
+> <small>(F. DE E., D.O.F. 15 DE ABRIL DE 1982)</small>
+
+I.- Una tercera parte corresponderá al Fondo de Fomento Municipal y a los Municipios donde se encuentren ubicadas las aduanas fronterizas o marítimas por las que se efectúe la exportación, en los siguientes por cientos conforme a los años que se señalan:
 
 a).- En 1982, en un 50% al Fondo de Fomento Municipal y en un 50% a los Municipios donde estén ubicadas las aduanas.
 
@@ -1639,3 +1715,11 @@ D.O.F. 26 DE AGOSTO DE 2004.
 D.O.F. 10 DE FEBRERO DE 2005.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE DICIEMBRE DE 2006.
+
+Primero. El presente Decreto entrará en vigor el primero de enero de 2007.
+
+Segundo. Durante el ejercicio fiscal 2007, en tanto se expide el Programa Nacional de Seguridad Pública, lo dispuesto en el artículo 44 de la Ley de Coordinación Fiscal se sujetará a los acuerdos y resoluciones que establezca el Consejo Nacional de Seguridad Pública en los términos del artículo 11 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
+
+Tercero. Para el ejercicio fiscal 2007, la distribución entre los Estados y el Distrito Federal de los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, a que se refiere el artículo 46 de la Ley de Coordinación Fiscal, se realizará de acuerdo con los porcentajes que a cada entidad federativa le haya correspondido conforme a la distribución del Programa de Apoyos para el Fortalecimiento de las Entidades Federativas en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 2006.
