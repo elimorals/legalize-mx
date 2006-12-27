@@ -4,7 +4,7 @@ identifier: "LFPCA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2005-12-01"
-last_updated: "2005-12-01"
+last_updated: "2006-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46997&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPCA"
 
 LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2005.
 
@@ -930,6 +930,8 @@ Existiendo resolución administrativa definitiva, si la Sala Regional, la Secci�
 
 ### CAPÍTULO II. De la Revisión
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
 ### CAPÍTULO I. De las Notificaciones
 
 ## TÍTULO III. De los Recursos
@@ -960,9 +962,11 @@ Una vez remitido el recurso de reclamación en los términos antes señalados, s
 
 ###### ARTÍCULO 63.
 
-Las resoluciones emitidas por el Pleno, las Secciones de la Sala Superior o por las Salas Regionales que decreten o nieguen el sobreseimiento y las sentencias definitivas que dicten, podrán ser impugnadas por la autoridad a través de la unidad administrativa encargada de su defensa jurídica, interponiendo el recurso de revisión ante el Tribunal Colegiado de Circuito competente en la sede del Pleno, Sección o Sala Regional a que corresponda, mediante escrito que se presente ante la responsable, dentro de los quince días siguientes a aquél en que surta sus efectos la notificación respectiva, siempre que se refiera a cualquiera de los siguientes supuestos:
+Las resoluciones emitidas por el Pleno, las Secciones de la Sala Superior o por las Salas Regionales que decreten o nieguen el sobreseimiento, las que dicten en términos de los artículos 34 de la Ley del Servicio de Administración Tributaria y 6° de esta Ley, así como las que se dicten conforme a la Ley Federal de Responsabilidad Patrimonial del Estado y las sentencias definitivas que emitan, podrán ser impugnadas por la autoridad a través de la unidad administrativa encargada de su defensa jurídica o por la entidad federativa coordinada en ingresos federales correspondiente, interponiendo el recurso de revisión ante el Tribunal Colegiado de Circuito competente en la sede del Pleno, Sección o Sala Regional a que corresponda, mediante escrito que se presente ante la responsable, dentro de los quince días siguientes a aquél en que surta sus efectos la notificación respectiva, siempre que se refiera a cualquiera de los siguientes supuestos:
 
-I. En el caso de contribuciones que deban determinarse o cubrirse por periodos inferiores a doce meses, para determinar la cuantía del asunto se considerará el monto que resulte de dividir el importe de la contribución entre el número de meses comprendidos en el periodo que corresponda y multiplicar el cociente por doce.
+I. Sea de cuantía que exceda de tres mil quinientas veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal, vigente al momento de la emisión de la resolución o sentencia.
+
+En el caso de contribuciones que deban determinarse o cubrirse por periodos inferiores a doce meses, para determinar la cuantía del asunto se considerará el monto que resulte de dividir el importe de la contribución entre el número de meses comprendidos en el periodo que corresponda y multiplicar el cociente por doce.
 
 II. Sea de importancia y trascendencia cuando la cuantía sea inferior a la señalada en la fracción primera, o de cuantía indeterminada, debiendo el recurrente razonar esa circunstancia para efectos de la admisión del recurso.
 
@@ -980,13 +984,19 @@ e) Violaciones cometidas en las propias resoluciones o sentencias.
 
 f) Las que afecten el interés fiscal de la Federación.
 
-III (SIC). Sea una resolución dictada en materia de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+IV. Sea una resolución dictada en materia de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
-IV. Sea una resolución dictada en materia de Comercio Exterior.
+V. Sea una resolución dictada en materia de comercio exterior.
 
-V. Sea una resolución en materia de aportaciones de seguridad social, cuando el asunto verse sobre la determinación de sujetos obligados, de conceptos que integren la base de cotización o sobre el grado de riesgo de las empresas para los efectos del seguro de riesgos del trabajo o sobre cualquier aspecto relacionado con pensiones que otorga el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+VI. Sea una resolución en materia de aportaciones de seguridad social, cuando el asunto verse sobre la determinación de sujetos obligados, de conceptos que integren la base de cotización o sobre el grado de riesgo de las empresas para los efectos del seguro de riesgos del trabajo o sobre cualquier aspecto relacionado con pensiones que otorga el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-En los juicios que versen sobre resoluciones de las autoridades fiscales de las Entidades Federativas coordinadas en ingresos federales, el recurso sólo podrá ser interpuesto por el Servicio de Administración Tributaria.
+VII. Sea una resolución en la cual, se declare el derecho a la indemnización, o se condene al Servicio de Administración Tributaria, en términos del artículo 34 de la Ley del Servicio de Administración Tributaria.
+
+VIII. Se resuelva sobre la condenación en costas o indemnización previstas en el artículo 6º de la Ley Federal de Procedimiento Contencioso Administrativo.
+
+IX. Sea una resolución dictada con motivo de las reclamaciones previstas en la Ley Federal de Responsabilidad Patrimonial del Estado.
+
+En los juicios que versen sobre resoluciones de las autoridades fiscales de las entidades federativas coordinadas en ingresos federales, el recurso podrá ser interpuesto por el Servicio de Administración Tributaria, y por las citadas entidades federativas en los juicios que intervengan como parte.
 
 Con el escrito de expresión de agravios, el recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes que hubiesen intervenido en el juicio contencioso administrativo, a las que se les deberá emplazar para que, dentro del término de quince días, comparezcan ante el Tribunal Colegiado de Circuito que conozca de la revisión a defender sus derechos.
 
@@ -1141,3 +1151,11 @@ Cuarto.- Los juicios que se encuentren en trámite ante el Tribunal Federal de J
 México, D.F., a 4 de octubre de 2005.- Dip. Heliodoro Díaz Escárraga, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Patricia Garduño Morales, Secretaria.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de noviembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 27 DE DICIEMBRE DE 2006.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
