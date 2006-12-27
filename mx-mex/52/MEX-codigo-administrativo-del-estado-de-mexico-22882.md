@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2006-08-21"
+last_updated: "2006-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -482,6 +482,10 @@ V. Contendrán las demás estipulaciones que las partes consideren necesarias pa
 ###### Artículo 1.
 
 41.- Toda persona tiene derecho a que las autoridades, en las materias reguladas en este código le proporcionen información en términos de la ley de la materia.
+
+> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2006)</small>
+
+Para facilitar el acceso a la información, las autoridades implementarán un sistema electrónico para recibir y contestar solicitudes de acceso y recursos de revisión conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
 
 ## TITULO DECIMO. De la acción popular
 
@@ -1731,7 +1735,7 @@ VII. Publicar anualmente en la Gaceta del Gobierno una relación de las asociaci
 
 ### CAPITULO CUARTO. De la información ambiental
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 3.
 
@@ -2389,7 +2393,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 8.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-> <small>(DEROGADA CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO CUARTO. De la protección al ambiente
 
@@ -2781,7 +2785,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 117.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
@@ -8999,7 +9003,7 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 ###### Artículo 14.
 
-53.- El Director General del IGECEM será nombrado y removido por el Gobiernador del Estado por sí o a propuesta del Presidente del Consejo Directivo.
+53.- El Director General del IGECEM será nombrado y removido por el Gobernador del Estado por sí o a propuesta del Presidente del Consejo Directivo.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -10043,13 +10047,13 @@ II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o 
 
 III. Aquellos proveedores que, conforme al Registro que para tal efecto lleve la Contraloría, se encuentren en situación de incumplimiento respecto de otro u otros contratos de Proyecto o en términos de los Libros Décimo Segundo y Décimo Tercero de este Código, siempre y cuando el incumplimiento pudiere ocasionar la rescisión de dicho Contrato o que constantemente tenga un desempeño no deseable;
 
-IV. Aquéllas que estén sujetas a concurso de acreedores;
+IV. Aquellas que estén sujetas a concurso de acreedores;
 
 V. Aquellas que ya participen o cuyas afiliadas, subsidiarias o matrices ya participen en la licitación que corresponda;
 
 VI. Las que pretendan participar en un procedimiento de adjudicación cuando hayan realizado, se encuentren realizando o las personas que participaron en la elaboración de sus ofertas se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, trabajos de análisis, preparación de especificaciones, presupuesto o la elaboración de cualquier documento vinculado con el Proyecto materia de la licitación o invitación en que estén interesadas en participar. Tampoco se recibirán propuestas de aquellas personas que reciban directamente, o a través de las personas que participan con ellos en la elaboración de su oferta, información confidencial o privilegiada respecto del Proyecto materia de la licitación o invitación en la que pretendan participar;
 
-VII. Aquellas que por sí o a través de empresas que formen parte del mismo grupo empresarial pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte;
+VII. Aquéllas que por sí o a través de empresas que formen parte del mismo grupo empresarial pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte;
 
 VIII. Las que celebren contratos sobre la materia regulada por este Libro sin estar facultadas para hacer uso de derechos de propiedad intelectual que se hayan especificado como necesarios para el Proyecto;
 
@@ -10558,3 +10562,11 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este decreto entrará en vigor al día siguiente a aquél en que inicie la vigencia el Decreto que adiciona un quinto párrafo a la fracción XXX, reforma la fracción XLVII y adiciona la fracción XLVIII al articulo 61 de la Constitución Política del Estado Libre y Soberano de México.
 
 TERCERO.- El Titular del Ejecutivo Estatal expedirá el Reglamento y los Lineamientos para la aplicación del Libro Décimo Sexto del Código Administrativo del Estado de México, en un término de ciento veinte días posteriores a la entrada en vigor del mismo.
+
+G.G. 27 DE DICIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las autoridades dispondrán de un plazo de 90 días a partir del inicio de la vigencia del presente decreto para implementar el sistema electrónico correspondiente.
