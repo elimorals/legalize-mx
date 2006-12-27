@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2006-07-05"
+last_updated: "2006-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -289,7 +289,9 @@ El impuesto a que se refiere este Capítulo se causará y trasladará en el mome
 
 Los recursos que genere el Impuesto sobre la Prestación de Servicios de Hospedaje serán aplicados en los siguientes términos: un mínimo del setenta y seis por ciento a la publicidad, promoción y difusión turística; hasta el diez por ciento como máximo a la realización de obras de infraestructura de interés turístico; el cinco por ciento a la administración del Fideicomiso Público constituido para la administración y aplicación de los recursos que genere el impuesto a que se refiere este artículo; tres por ciento destinado a programas de verificación fiscal de los recursos y el seis por ciento restante para cubrir los gastos administrativos que la recaudación genere. Estas dos últimas cantidades quedarán a favor del Gobierno del Estado.
 
-El Comité Técnico del Fideicomiso Público a que se refiere el párrafo que antecede, se conformará por un Presidente que será el Gobernador del Estado, quien tendrá voto de calidad, siete representantes más del Poder Ejecutivo, siete miembros de la iniciativa privada que representen a todas las agrupaciones de prestadores de servicios de hospedaje y un integrante que representen a todas las agrupaciones de Parques Acuáticos y Balnearios legalmente constituidas en el Estado de Morelos.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+El Comité Técnico del Fideicomiso Público a que se refiere el párrafo que antecede, se conformará por un presidente que será el Gobernador del Estado, quién tendrá voto de calidad, siete representantes más del Poder Ejecutivo, seis miembros de la iniciativa privada que representen a todas las agrupaciones de prestadores de servicios de hospedaje y dos integrantes que represente a todas las agrupaciones de parques acuáticos y balnearios legalmente constituidas en el Estado de Morelos.
 
 La Secretaría de Finanzas y Planeación del Estado enterará bimestralmente al fideicomiso el noventa y uno por ciento de los recursos recaudados durante el período, a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero.
 
@@ -521,9 +523,11 @@ Las personas jurídico individuales o físicas y jurídico colectivas o morales,
 
 TASA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 45.
 
-Los retenedores calcularán el impuesto sobre la prestación de los servicios de parques acuáticos y balnearios, aplicando la tasa del 2% al total del valor de las cantidades recibidas por concepto de servicios de parques acuáticos y balnearios y deberán pagarlo mediante declaración que se presentará tomando en cuenta lo siguiente:
+Los retenedores calcularan el impuesto sobre la prestación de los servicios de parques acuáticos y balnearios, aplicando la tasa del 2% utilizando como base la cantidad que se reciba por cada boleto efectivamente pagado por concepto de servicios de parques acuáticos y balnearios y deberán pagarlo mediante declaración que se presentará tomando en cuenta lo siguiente:
 
 I. El impuesto se calculará por ejercicios fiscales, presentando la declaración anual en el primer bimestre del siguiente año. Los pagos provisionales se acreditarán en la declaración anual;
 
@@ -557,9 +561,13 @@ Los recursos que genere el Impuesto sobre los servicios de parques acuáticos y 
 
 La Secretaría de Finanzas y Planeación del Estado enterará bimestralmente al Fideicomiso Público, los recursos recaudados durante el período, a más tardar el día veintisiete de los meses de enero, marzo, mayo, julio, septiembre y noviembre, debiendo publicar trimestralmente el monto que por concepto de estos ingresos participables.
 
-### CAPÍTULO OCTAVO. DEL IMPUESTO ADICIONAL
+### CAPÍTULO SÉPTIMO BIS. DEL IMPUESTO SOBRE NÓMINAS
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 OBJETO
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 49.
 
@@ -647,6 +655,172 @@ EXENCIONES
 
 No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, conforme a la Ley Federal de Juegos y Sorteos, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, sin embargo, deberán cumplir con las obligaciones de retención que éste u otros impuestos les obliguen.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+### CAPÍTULO OCTAVO. DEL IMPUESTO ADICIONAL
+
+OBJETO
+
+###### Artículo 58 Bis
+
+1.- Es objeto de este impuesto, el pago que en efectivo o en especie, realicen las personas jurídico-individuales (físicas) y jurídico-colectivas (morales) en el Estado de Morelos, por concepto de remuneraciones al trabajo personal prestado bajo la subordinación de las mismas con carácter de patrón.
+
+Quedan incluidas las personas jurídico-individuales (físicas) y jurídico-colectivas (morales) que sin estar domiciliadas en el Estado de Morelos, tengan personal subordinado dentro del Estado en sucursales, bodegas, agencias y otras dependencias.
+
+Para efectos de este impuesto, se consideran remuneraciones al trabajo personal subordinado, las contraprestaciones ordinarias o extraordinarias, que realicen los patrones a favor de sus empleados, siendo las siguientes:
+
+I. Sueldos y salarios;
+
+II. Tiempo extraordinario de trabajo;
+
+III. Compensaciones;
+
+IV. Gratificaciones y aguinaldos;
+
+V. Comisiones;
+
+VI. Indemnizaciones por despido o terminación de la relación laboral.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 58 Bis
+
+2.- Son sujetos de este impuesto las personas jurídico-individuales (físicas) y jurídico-colectivas (morales), obligadas a efectuar los pagos a que se refiere el artículo anterior.
+
+Serán responsables solidarios del pago de este impuesto las personas jurídico-individuales (físicas) y jurídico-colectivas (morales) que contraten y reciban la prestación del trabajo personal subordinado, aún cuando el pago del salario se realice por otra persona.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+BASE
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 58 Bis
+
+3.- Es base del impuesto sobre nóminas, el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal subordinado.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+TASA
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 58 Bis
+
+4.- El Impuesto Sobre Nóminas se determinará aplicando la tasa del 2% sobre el monto total de las erogaciones efectuadas por concepto de remuneraciones al trabajo personal subordinado.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+PAGO
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 58 Bis
+
+5.- El pago de este impuesto deberá efectuarse a más tardar el día 17 del mes siguiente en que se causó.
+
+Dicho pago se hará mediante declaración en las oficinas de recaudación fiscal que correspondan, en las formas oficiales o ante las instituciones de crédito autorizadas por la Secretaría de Finanzas y Planeación del Gobierno del Estado.
+
+La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+EXENCIONES
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 58 Bis
+
+6.- Están exentas del pago de este impuesto:
+
+I. Las erogaciones que se cubran por concepto de:
+
+a) Participaciones de los trabajadores en las utilidades de las empresas;
+
+b) Indemnizaciones por riesgos o enfermedades de trabajo, que se concedan de acuerdo con las leyes o contratos respectivos;
+
+c) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
+
+d) Indemnizaciones por rescisión o terminación de la relación laboral, que tenga su origen en la prestación de servicios personales subordinados;
+
+e) Pagos por gastos funerarios;
+
+f) Gastos de viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto Sobre la Renta;
+
+g) Aportaciones al INFONAVIT, Fondos para el retiro constituidos con arreglo a las Leyes de la materia y cuotas al IMSS a cargo del patrón;
+
+h) Pagos a trabajadores domésticos; e,
+
+i) Remuneración al trabajo personal subordinado a favor de empleados mayores de 60 años de edad o personas con capacidades diferentes.
+
+Para que los conceptos mencionados se exenten deberán estar debidamente comprobados.
+
+II. Las erogaciones que efectúen:
+
+a) La Federación, Estado y Municipios, así como sus organismos auxiliares de la administración pública;
+
+b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas y que se encuentren registradas ante las autoridades estatales competentes del ramo;
+
+c) Asociaciones de trabajadores y colegios de profesionistas; y
+
+d) Empresas de nueva creación, durante el primer año calendario, contado a partir de que inicien sus operaciones en el Estado de Morelos.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 58 Bis
+
+7.- Son obligaciones de los sujetos de este impuesto, además de las establecidas en la presente Ley o en cualquier otra disposición legal, las siguientes:
+
+I. Presentar aviso de inscripción ante la oficina de recaudación fiscal correspondiente a su domicilio fiscal, dentro del mes siguiente al día en que inicie actividades por las cuales deban efectuar los pagos objeto del impuesto;
+
+II. Presentar ante las mismas autoridades, dentro del plazo que señala la fracción anterior, los avisos de cambio de domicilio, nombre, razón social, traslado y reanudación o suspensión de actividades;
+
+III. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales, en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
+
+IV. Las sucursales, bodegas, agencias y otras dependencias de la matriz que se establezcan fuera del domicilio fiscal de ésta, deberán presentar su aviso de inscripción y pago por separado.
+
+En el caso de que dos o más establecimientos se encuentren ubicados en la misma localidad, uno deberá registrarse, para efectos de pago y los demás para efectos de control;
+
+V. Los contribuyentes que teniendo sus matrices fuera del Estado, establezcan dentro del territorio del mismo, sucursales, bodegas, agencias, oficinas y otras dependencias, cuando se encuentren gravadas por este impuesto o cuando no lo estén, deberán registrarse para efectos de pago y control;
+
+VI. Conservar la documentación comprobatoria del pago de las remuneraciones objeto de este impuesto, y
+
+VII. Las personas jurídico-individuales (físicas) y jurídico-colectivas (morales) que reciban las prestaciones del trabajo personal subordinado y que no hagan las erogaciones objeto de este impuesto deberán de presentar su aviso de inscripción para efectos de control, exhibiendo copia del contrato de prestación de servicio ante la oficina de recaudación fiscal que corresponda a su domicilio y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 58 Bis
+
+8.- La realización de pagos por concepto del Impuesto Sobre Nóminas, no causará el Impuesto Adicional, a que se refiere esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 58 Bis
+
+9.- Los recursos que genere el Impuesto Sobre Nóminas serán destinados para integrar el Fondo de Competitividad y Promoción del Empleo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 58 Bis
+
+10.- Para la administración de los recursos a que se refiere el artículo anterior, se constituirá un Fideicomiso Ejecutivo.
+
+Para la aplicación y destino de los recursos del Fideicomiso, se conformará un Comité Técnico, integrado por un Presidente, que será el Titular del Poder Ejecutivo del Estado, quien tendrá voto de calidad, dos representantes más del Poder Ejecutivo y tres miembros del sector empresarial organizado.
+
+La Secretaría de Finanzas y Planeación del Estado, enterará mensualmente al Fideicomiso los recursos que le corresponden a más tardar el último día de cada mes, respecto a la recaudación del mes inmediato anterior.
+
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO SEGUNDO. CONTRIBUCIONES ESPECIALES POR OBRAS PÚBLICAS DE BENEFICIO DIRECTO
@@ -656,8 +830,6 @@ No causarán este impuesto la Federación, los Estados, los Municipios, los Part
 ### CAPÍTULO PRIMERO. REGISTRO PÚBLICO DE LA PROPIEDAD
 
 ### CAPÍTULO SEGUNDO. REGISTRO PÚBLICO DEL COMERCIO
-
-### CAPÍTULO TERCERO. SERVICIOS DE ARCHIVO Y NOTARIALES
 
 ###### Artículo 59.
 
@@ -699,7 +871,7 @@ El entero del impuesto se hará en el momento en que se realicen los pagos objet
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPÍTULO CUARTO. SERVICIOS DE LA DIRECCIÓN ESTATAL DEL REGISTRO CIVIL
+### CAPÍTULO TERCERO. SERVICIOS DE ARCHIVO Y NOTARIALES
 
 ###### Artículo 65.
 
@@ -715,7 +887,7 @@ Las autoridades fiscales podrán autorizar, conforme a reglas de carácter gener
 
 Los contribuyentes que prefieran hacer el pago total de la liquidación a su cargo en una sola exhibición, tendrán derecho a un descuento del 12% sobre el monto del pago anticipado.
 
-### CAPÍTULO QUINTO. SERVICIOS DE CONTROL VEHICULAR
+### CAPÍTULO CUARTO. SERVICIOS DE LA DIRECCIÓN ESTATAL DEL REGISTRO CIVIL
 
 ###### Artículo 67.
 
@@ -785,7 +957,7 @@ El monto de las cuotas, en cada caso concreto deben pagarse, distribuyendo el co
 
 Para los efectos de este Capítulo cuando se trate de obra de pavimentación o reparación, su duración mínima será de diez años y en consecuencia, no se podrá acordar un nuevo cobro por el mismo concepto durante este plazo.
 
-### CAPÍTULO SEXTO. SERVICIOS DE LA COMISIÓN ESTATAL DEL AGUA Y MEDIO AMBIENTE
+### CAPÍTULO QUINTO. SERVICIOS DE CONTROL VEHICULAR
 
 ###### Artículo 70.
 
@@ -899,7 +1071,7 @@ En ningún caso se pagarán contribuciones de mejoras por obras iguales realizad
 
 ## TÍTULO CUARTO. DE LOS DERECHOS
 
-### CAPÍTULO SÉPTIMO. SERVICIOS DE VERIFICACIÓN VEHICULAR
+### CAPÍTULO SEXTO. SERVICIOS DE LA COMISIÓN ESTATAL DEL AGUA Y MEDIO AMBIENTE
 
 ###### Artículo 76.
 
@@ -1035,9 +1207,11 @@ X. Los contratos y operaciones relacionados con bienes inmuebles que en cumplimi
 
 XI. Por la verificación en campo de un inmueble, deberá cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que se determine en el Reglamento Interno del Registro Público de la Propiedad y del Comercio y la normatividad vigente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 79.
 
-No se causarán los derechos a que se refiere el artículo 63 de esta Ley, en los casos siguientes:
+No se causarán los derechos ni tendrán aplicación las reglas a que se refieren los artículos 77 y 78 del presente capítulo en los casos siguientes:
 
 I. Cuando se trate de inscripciones relativas a transmisión o adquisición de bienes inmuebles o derechos reales en favor de la Federación, el Estado de Morelos o de sus Municipios;
 
@@ -1051,7 +1225,7 @@ V. Los instrumentos jurídicos, bien sean públicos o privados, que otorguen las
 
 VI. Cuando se trate de inscripciones relativas a transmisión o adquisición de bienes inmuebles o derechos reales a favor de asociaciones de asistencia y beneficencia pública legalmente constituidas, siempre que sean destinados al cumplimiento de su objetivo.
 
-### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
+### CAPÍTULO SÉPTIMO. SERVICIOS DE VERIFICACIÓN VEHICULAR
 
 ###### Artículo 80.
 
@@ -1121,7 +1295,7 @@ IV. En los casos no previstos expresamente, los derechos por servicios que se pr
 
 V. Están exentos del pago de los derechos que establece este Capítulo: la Federación, el Gobierno del Estado y sus Municipios, siempre que hayan sido parte en la operación de que se trate.
 
-### CAPÍTULO NOVENO. DEL CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
 
 ###### Artículo 82.
 
@@ -1173,15 +1347,13 @@ no precisada, por cada año que
 
 comprenda la búsqueda
 
-Se agregará a la tarifa un día
+Se agregará a la tarifa un día más de
 
-más de salario mínimo general vigente
+salario mínimo general vigente en el área
 
-en el área geográfica en el Estado
+geográfica en el Estado de Morelos a dicho
 
-de Morelos a dicho importe, si éste se
-
-proporciona por oficio.
+importe, si éste se proporciona por oficio.
 
 10. Por el informe sobre la existencia 10
 
@@ -1203,7 +1375,7 @@ derechos establecidos en el Capítulo
 
 Décimo Séptimo del presente Título:
 
-### CAPÍTULO DÉCIMO. DE LOS SERVICIOS DE EDUCACIÓN POR INSTITUCIONES PRIVADAS
+### CAPÍTULO NOVENO. DEL CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
 ###### Artículo 83.
 
@@ -1305,11 +1477,9 @@ derechos establecidos en el Capítulo Décimo
 
 Séptimo del presente Título.
 
+### CAPÍTULO DÉCIMO. DE LOS SERVICIOS DE EDUCACIÓN POR INSTITUCIONES PRIVADAS
+
 ### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
-
-### CAPÍTULO DÉCIMO SEGUNDO. REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS
-
-RELATIVOS A INMUEBLES
 
 ###### Artículo 84.
 
@@ -1617,7 +1787,9 @@ AUTOS Y CAMIONES DEL SERVICIO
 
 PÚBLICO: $100.00
 
-### CAPÍTULO DÉCIMO TERCERO. SERVICIOS CATASTRALES
+### CAPÍTULO DÉCIMO SEGUNDO. REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS
+
+RELATIVOS A INMUEBLES
 
 ###### Artículo 85.
 
@@ -1629,27 +1801,43 @@ mínimo general vigente en
 
 el Estado
 
-I. Por otorgamiento de autorización para establecer, 400
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+I. Por otorgamiento de autorización para establecer, 650
 
 equipar y operar un Centro de Verificación Vehicular
 
 en el Estado de Morelos, por cada equipo analizador
 
-de gases;
+de gases, con vigencia de cinco años;
 
-II. Por otorgamiento de revalidación de la autorización 5
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+II. Por otorgamiento de revalidación de la autorización 40
 
 anual para operar un Centro de Verificación Vehicular
 
-en el Estado de Morelos;
+en el Estado de Morelos; por cada equipo analizador
 
-III. Por la alta o la baja del registro de un técnico 5
+de gases;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+III. Por la renovación de la autorización para establecer 100
+
+equipar y operar un Centro de Verificación Vehicular
+
+en el Estado de Morelos, por cada equipo analizador
+
+de gases, con vigencia de cinco años;
+
+IV. Por la alta o la baja del registro de un técnico 5
 
 verificador de Centro de Verificación Vehicular;
 
-IV. Por evaluación y autorización de informe preventivo; 100
+V. Por evaluación y autorización de informe preventivo; 100
 
-V. Por evaluación y autorización de manifestación de
+VI. Por evaluación y autorización de manifestación de
 
 impacto ambiental de obras o actividades, en las siguientes
 
@@ -1661,77 +1849,93 @@ B) Intermedia 250
 
 C) Específica 350
 
-VI. Por la calibración de equipo analizador de gases;
+VII. Por la calibración de equipo analizador de gases;
 
-VII. Por asesoría para la recepción, clasificación y tratamiento
+VIII. Por asesoría para la recepción, clasificación y tratamiento
 
 de residuos sólidos;
 
-VIII. Por asesoría para la elaboración de compostas;
+IX. Por asesoría para la elaboración de compostas;
 
-IX. Por asesoría sobre proyectos de aprovechamientos forestales;
+X. Por asesoría sobre proyectos de aprovechamientos forestales;
 
-X. Por asesoría sobre aprovechamiento florístico y faunístico;
+XI. Por asesoría sobre aprovechamiento florístico y faunístico;
 
-XI. Asesorías sobre manejo, conservación y aprovechamiento
+XII. Asesorías sobre manejo, conservación y aprovechamiento
 
 de flora y fauna silvestre;
 
-XII. Por asesoría en el suministro de dietas alimenticias para
+XIII. Por asesoría en el suministro de dietas alimenticias para
 
 especies silvestres;
 
-XIII. Por asesoría en la identificación de especies
+XIV. Por asesoría en la identificación de especies
 
 florísticas y faunísticas;
 
-XIV Por asesoría en propagación, fertilización,
+XV. Por asesoría en propagación, fertilización,
 
 control fitosanitario y comercialización;
 
-XV. Asesoría en podas de árboles urbanos; formación,
+XVI. Asesoría en podas de árboles urbanos; formación,
 
 rejuvenecimiento y saneamiento;
 
-XVI. Asesoría en construcción de invernaderos y viveros,
+XVII. Asesoría en construcción de invernaderos y viveros,
 
 comerciales y de traspatio para producción de especies
 
 ornamentales, hortalizas, esquejes, etc.;
 
-XVII. Asistencia técnica integral a parques y jardines;
+XVIII. Asistencia técnica integral a parques y jardines;
 
-XVIII. Asistencia técnica para proyectos productivos
+XIX. Asistencia técnica para proyectos productivos
 
 de árboles de navidad;
 
-XIX. Asistencia técnica para producción de plantas
+XX. Asistencia técnica para producción de plantas
 
 en sistema copperblock;
 
-XX. Asistencia técnica en control de plagas
+XXI. Asistencia técnica en control de plagas
 
 y enfermedades de especies forestales;
 
-XXI. Asistencia de derrames de sustancias químicas;
+XXII. Asistencia de derrames de sustancias químicas;
 
-XXII. Asesoría para la atención y recuperación
+XXIII. Asesoría para la atención y recuperación
 
 de superficies forestales desmontadas y
 
 ecosistemas afectados;
 
-XXIII. Servicios de maquinaria y personal
+XXIV. Servicios de maquinaria y personal
 
-en el combate de incendios; y
+en el combate de incendios; y (sic)
 
-XXIV. Venta de material didáctico y videos
+XXV. Venta de material didáctico y videos
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+XXVI. Por la autorización para la realización de
+
+combustible a cielo abierto, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+XXVII. Por la expedición de dictamen para no
+
+sujetarse al procedimiento de evaluación de
+
+impacto ambiental.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 86.
 
-Los montos del cobro por los conceptos de derechos contemplados en las fracciones VI a XXIV del artículo anterior, serán aprobados anualmente por el Congreso a propuesta de la Junta del Gobierno del Organismo y los costos de los derechos se incluirán en la Ley de Ingresos del Estado del ejercicio fiscal que corresponda.
+Los montos del cobro por los conceptos de derechos contemplados en las fracciones VI a XXVII del artículo anterior, serán aprobados anualmente por el Congreso a propuesta de la Junta del Gobierno del Organismo y los costos de los derechos se incluirán en la Ley de Ingresos del Estado del ejercicio fiscal que corresponda.
 
-### CAPÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS TÉCNICOS EN MATERIA INMOBILIARIA
+### CAPÍTULO DÉCIMO TERCERO. SERVICIOS CATASTRALES
 
 ###### Artículo 87.
 
@@ -1749,21 +1953,25 @@ Todos los vehículos automotores en circulación registrados en el Estado de Mor
 
 Los Derechos por concepto de verificación vehicular los administrará el Organismo Público Descentralizado denominado, Comisión Estatal de Agua y Medio Ambiente.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 91.
 
-Los vehículos que no hayan sido verificados en los plazos y condiciones estipulados en el Programa Anual de Verificación Vehicular Obligatoria para el Estado de Morelos, serán considerados extemporáneos y los propietarios o poseedores de los mismos, se harán acreedores al pago de los recargos que acumulen en cada periodo incumplido, los recargos se causarán mensualmente a la tasa que se establezca en la Ley de Ingresos del Estado de Morelos.
+Los vehículos que no hayan sido verificados en los plazos y condiciones estipuladas en el Decreto por el que se establezca el Programa Anual de Verificación Vehicular Obligatoria para el Estado de Morelos, serán considerados extemporáneos y los propietarios o poseedores de los mismos, se harán acreedores al pago de la multa o multas acumuladas, correspondiendo una multa por cada periodo incumplido.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 92.
 
-El importe de los recargos por extemporaneidad y en su caso, de las sanciones a que se hagan acreedores los sujetos obligados al pago de estos derechos, se liquidarán directamente en las oficinas recaudadoras del Estado.
+El importe de las sanciones a que se hagan acreedores los sujetos obligados al pago de estos derechos, deberá ser liquidado directamente, en los términos que establezca para el caso el Programa de Verificación Vehicular Obligatoria para el Estado de Morelos.
 
 ###### Artículo 93.
 
 Los ingresos que perciba el Estado por los servicios de verificación vehicular, se recaudarán por el Organismo Público Descentralizado denominado, Comisión Estatal de Agua y Medio Ambiente y registrarán contablemente como propios e invariablemente sólo podrán ser destinados a los Programas de mejoramiento del medio ambiente que tenga autorizados dicho organismo, estos recursos por ningún motivo podrán aplicarse al gasto operativo.
 
-### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS QUE PRESTA EL ORGANISMO DESCENTRALIZADO DENOMINADO OPERADOR DE CARRETERAS DE CUOTA
+### CAPÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS TÉCNICOS EN MATERIA INMOBILIARIA
 
-### CAPÍTULO DÉCIMO SEXTO. DE LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE LA CONTRALORÍA
+### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS QUE PRESTA EL ORGANISMO DESCENTRALIZADO DENOMINADO OPERADOR DE CARRETERAS DE CUOTA
 
 ###### Artículo 94.
 
@@ -1843,7 +2051,7 @@ VI. Por la prestación del Servicio de Escolta, por cada elemento:
 
 3. Tarifa mensual $22,500.00
 
-### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
+### CAPÍTULO DÉCIMO SEXTO. DE LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE LA CONTRALORÍA
 
 ###### Artículo 95.
 
@@ -1893,9 +2101,9 @@ la autorización: $300.00
 
 IX. Otros servicios: $2,000.00
 
-### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
+### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 97.
 
@@ -2087,11 +2295,9 @@ Por concepto de certificación de documentos y firmas se causarán los derechos 
 
 Cuando los trabajos anteriores deban realizarse fuera de la población donde radique la autoridad que los proporciona, deberá cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que determine el Reglamento Interior.
 
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
 ### CAPÍTULO SEGUNDO. ENAJENACIÓN, ARRENDAMIENTO, USO O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES
-
-### CAPÍTULO TERCERO
-
-UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO POR OTRAS INVERSIONES EN CRÉDITOS Y VALORES, Y RECUPERACIONES DE INVERSIONES EN ACCIONES, CRÉDITOS Y VALORES
 
 ###### Artículo 100.
 
@@ -2163,7 +2369,9 @@ X. Otros servicios: 0.5 días de salario.
 
 Están exentos del pago de derechos los profesores que ejerzan su actividad, única y exclusivamente al servicio de establecimientos oficiales o incorporados al Gobierno Federal o al Gobierno del Estado de Morelos.
 
-### CAPÍTULO CUARTO. PRODUCTOS DE PUBLICACIONES
+### CAPÍTULO TERCERO
+
+UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO POR OTRAS INVERSIONES EN CRÉDITOS Y VALORES, Y RECUPERACIONES DE INVERSIONES EN ACCIONES, CRÉDITOS Y VALORES
 
 ###### Artículo 103.
 
@@ -2185,15 +2393,27 @@ d) De 31 días de salario en adelante 2.50
 
 II. Los actos, contratos y convenios no incluidos en la fracción anterior: 1.50
 
-### CAPÍTULO QUINTO. ALMACENAJE
+### CAPÍTULO CUARTO. PRODUCTOS DE PUBLICACIONES
 
 ###### Artículo 104.
 
 Los derechos por servicios catastrales que presta el Gobierno del Estado por convenio o en términos de las leyes en materia catastral, se causarán conforme a lo siguiente:
 
-I. Por la elaboración de avalúos catastrales, tasa del:
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-2.5 al millar sobre el valor total;
+I. Por la elaboración de avalúo catastral 3 días de
+
+que incluya nombre del propietario salario mínimo
+
+o poseedor, ubicación, clave, general
+
+superficies y valores de terreno y vigente en la
+
+construcción en los casos de cambio zona
+
+de nombre de propietario o poseedor
+
+y modificaciones físicas o legales;
 
 II. Certificación de valores en zonas no catastradas que incluya: nombre del propietario, ubicación, clave, superficie y valor: 3 días de salario mínimo general vigente en el Estado;
 
@@ -2282,6 +2502,8 @@ Los derechos por servicios no especificados en esta Ley serán determinados por 
 ###### Artículo 105.
 
 Están exentos del pago de estos derechos las dependencias del Gobierno del Estado, siempre y cuando la solicitud de su servicio sea mediante oficio, en el cual motive la razón de su petición.
+
+### CAPÍTULO QUINTO. ALMACENAJE
 
 ###### Artículo 106.
 
@@ -2826,3 +3048,47 @@ SECRETARIO DE GOBIERNO
 GERMÁN CASTAÑÓN GALAVIZ
 
 RÚBRICAS.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 27 DE DICIEMBRE DE 2006.
+
+DECRETO NUMERO 108
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
+
+P.O. 27 DE DICIEMBRE DE 2006.
+
+DECRETO NUMERO 132
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente decreto.
+
+TERCERO.- Remítase al Titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
+
+P.O. 27 DE DICIEMBRE DE 2006.
+
+DECRETO NUMERO 137
+
+> <small>(F. DE E., P.O. 14 DE FEBRERO DE 2007)</small>
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero del año 2007.
+
+> <small>(F. DE E., P.O. 14 DE FEBRERO DE 2007)</small>
+
+SEGUNDO.- Remítase el presente Decreto al Poder Ejecutivo, para los efectos a que se refieren los artículos 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Durante el ejercicio fiscal de 2007, la tasa a que se refiere el artículo 58 B1S-4 será del 1.5%.
+
+CUARTO.- Durante los ejercicios fiscales de 2007 y 2008 tendrá plena vigencia la fracción VI del párrafo tercero del artículo 58 BIS-1 y quedará derogada a partir del 1 de enero del año 2009.
+
+QUINTO.- El Poder Ejecutivo, integrará a la Cuenta Pública del Gobierno del Estado, un informe del origen y destino de los recursos del Fideicomiso a que se refiere el artículo 58 BIS-10.
+
+SEXTO.- Se faculta al Poder Ejecutivo para que realice todos los actos jurídicos necesarios para dar cumplimiento a la integración del Comité Técnico del Fideicomiso Ejecutivo a que se refiere el artículo 58 BIS-10.
+
+SÉPTIMO.- En un plazo no mayor a 30 días, contados a partir del 1 de enero de 2007, deberá integrarse el Comité Ejecutivo, mediante convocatoria pública que realice el Titular del Poder Ejecutivo Estatal al sector empresarial organizado.
+
+OCTAVO.- En un plazo no mayor a 60 días, contados a partir del 1 de enero de 2007, deberá expedirse el Reglamento del Comité Ejecutivo del Fideicomiso, a que se refiere el artículo 58 BIS-10.
