@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2005-03-02"
+last_updated: "2006-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -199,15 +199,21 @@ Los recursos de los fondos de aportaciones federales que correspondan al Gobiern
 
 El Congreso del Estado a través del Órgano técnico de fiscalización será el responsable de supervisar, vigilar, fiscalizar, constatar e informar de la correcta aplicación de los recursos de los fondos de aportaciones federales que reciban el estado y los municipios, así como fincar, en su caso, las responsabilidades correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 15.
 
-Se instituye el Fondo de Aportaciones Estatales para el Desarrollo Económico de los Municipios que se determinará aplicando el 1.5% al monto total que resulte de la suma de los ingresos propios, participaciones federales e ingresos coordinados señalados en la Ley de Ingresos para el Gobierno del Estado de Morelos, que se distribuirá entre los municipios con base a los coeficientes de participación que a continuación se indican:
+Se instituye el Fondo de Aportaciones Estatales para el Desarrollo Económico de los Municipios que se constituirá con el 1.5% del monto total que resulte de la suma de los ingresos propios, participaciones federales e ingresos coordinados ejercidos con motivo de la aplicación de la Ley de Ingresos para el Gobierno del Estado de Morelos, que se distribuirá entre los municipios con base a los coeficientes de participación que a continuación se indican:
 
 (VER TABLA ANEXA)
 
-Los recursos que de este fondo reciban los municipios se invertirán incrementando la productividad económica, única y exclusivamente en infraestructura, equipamiento y capital de trabajo en las ramas agropecuarias y artesanales, si fuera necesario para apoyar estas áreas podrá ser, en ese caso, lo relacionado al comercio, industria y servicios en la proporción y conforme a los programas previamente aprobados por el ayuntamiento, en ningún caso podrá ser utilizado para el pago de nóminas o su equivalente en el gasto corriente o de operación, su ingreso y su aplicación en el gasto lo registrarán en la cuenta pública municipal.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-En caso de desviación de los recursos señalados en este párrafo y determinado por la Auditoría Superior Gubernamental, el funcionario público responsable reintegrará de su peculio, el monto de los recursos desviados, independientemente de otras sanciones a que se haga acreedor.
+Los recursos que de este fondo reciban los municipios se invertirán (sic) incrementando la productividad económica en las ramas agropecuarias y artesanales, única y exclusivamente en infraestructura, equipamiento, capital de trabajo y si fuere necesario en apoyo a comercialización de los productos, en la proporción que se determine en el Presupuesto respectivo. Los Municipios sin producción agrícola aplicarán el recurso en lo relacionado al ramo pecuario y artesanal en la proporción y conforme a los programas previamente aprobados por el cabildo. En aquellos municipios cuya actividad económica preponderante sea la agrícola, el Ayuntamiento garantizará prioritariamente el subsidio de fertilizante necesario para la producción en sus dos ciclos agrícolas en los términos que se señale en el Reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+En ningún caso los recursos de este fondo podrán ser utilizados para el pago de nóminas o su equivalente en el gasto corriente o de operación de la administración pública municipal; su ingreso y su aplicación en el gasto lo registrarán en la cuenta pública municipal.
 
 En caso de desastres naturales o presencia de brotes epidémicos que pongan en grave riesgo la vida o la salud de los habitantes de la localidad, será factible utilizar los recursos reales y existentes de este fondo, previa autorización del cabildo municipal. En tales casos se dará aviso inmediato a las autoridades competentes y al Congreso del Estado, que valorará tal medida.
 
@@ -386,3 +392,11 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 27 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Con las Reformas a que se refiere el Presente Decreto, las Reglas de Operación para el Gasto Público del Fondo de Aportaciones Estatales para el Desarrollo Económico, publicados en el Periódico Oficial "Tierra y Libertad" número 4341, de fecha 31 de julio de 2004, continuarán vigentes hasta en tanto no sean modificadas por el Congreso del Estado.
+
+TERCERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para sus efectos constitucionales correspondientes.
