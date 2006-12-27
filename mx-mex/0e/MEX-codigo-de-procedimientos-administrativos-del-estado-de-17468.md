@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2005-12-27"
+last_updated: "2006-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -103,11 +103,13 @@ Para documentar el procedimiento y proceso administrativo podrán utilizarse imp
 
 En las actuaciones, se escribirán con letra las fechas y cantidades. No se emplearán abreviaturas ni se enmendarán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose con toda precisión el error cometido.
 
+> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 9.
 
-Toda promoción deberá contener la firma autógrafa de quien la formule, requisito sin el cual no se le dará curso. Cuando el promovente no sepa o no pueda firmar, estampará su huella digital.
+Toda promoción que sea presentada por escrito deberá contener la firma autógrafa de quien la formule, requisito sin el cual no se le dará curso. Cuando el promovente no sepa o no pueda firmar, estampará su huella digital.
 
-En caso de duda sobre la autenticidad de la firma, la autoridad administrativa o el Tribunal podrán llamar al interesado, dándole un plazo de tres días, para que en su presencia ratifique la firma y el contenido de la promoción. Si el interesado negare la firma o el contenido del escrito, se rehusare a contestar o no compareciere, se tendrá por no presentada la promoción.
+En materia de transparencia también podrán presentarse promociones por medios electrónicos.
 
 ###### Artículo 10.
 
@@ -2280,3 +2282,11 @@ Los procedimientos administrativos de ejecución que se encuentren en términos 
 ###### ARTICULO SEXTO.
 
 Las iniciativas que se presenten a consideración de la Legislatura, sobre tarifas por el suministro de agua en bloque a que se refiere el artículo 95 del Código Financiero del Estado de México y Municipios, para los ejercicios fiscales subsecuentes, se deberá acompañar el soporte técnico financiero que justifique la propuesta de las mismas.
+
+G.G. 27 DE DICIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las autoridades dispondrán de un plazo de 90 días a partir del inicio de la vigencia del presente decreto para implementar el sistema electrónico correspondiente.
