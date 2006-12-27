@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2006-02-15"
+last_updated: "2006-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -251,7 +251,9 @@ Son contribuciones especiales las prestaciones legalmente obligatorias que se es
 
 Son productos los ingresos que percibe el Estado por actividades que no corresponden al desarrollo de sus funciones propias de derecho público o por la explotación de sus bienes patrimoniales.
 
-Son aprovechamientos los recargos, las multas y los demás ingresos de derecho público, no clasificables como impuestos, derechos, contribuciones especiales, productos o participaciones.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+Son aprovechamientos: Los recargos, las multas, los gastos de ejecución y los demás ingresos de derecho público no clasificables como impuestos, derechos, contribuciones especiales o participaciones.
 
 32.- Son participaciones las que con tal carácter concedan las leyes federales o locales al Fisco del Estado, sobre los rendimientos federales o municipales, de acuerdo con las disposiciones especiales que las regulan.
 
@@ -3099,13 +3101,17 @@ c).- Las bebidas que procedan de fuera del Estado de Chihuahua deberán venir am
 
 #### SECCION PRIMERA. REQUERIMIENTO DE PAGO Y EMBARGO
 
-329.- Para el cobro de los créditos fiscales exigibles, por concepto de impuestos, derechos, productos y aprovechamientos, la Tesorería General del Estado y las oficinas recaudadoras de la misma están investidas de la facultad económico-coactiva.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+329.- Para el cobro de los créditos fiscales exigibles, por concepto de impuestos, derechos, productos, aprovechamientos, la Secretaría de Finanzas y sus oficinas recaudadoras o colecturías están investidas de la facultad económico-coactiva que se ejerce a través del procedimiento administrativo de ejecución.
 
 También ejercerán la facultad económico-coactiva, de acuerdo con las disposiciones de este capítulo, para hacer efectivas:
 
 I.- La responsabilidad civil en que incurran los manejadores de fondos públicos del Estado.
 
-II.- Las fianzas constituídas por disposición de ley o por acuerdo de las autoridades judiciales o administrativas, cuando sean exigibles y cuyo cobro ordene la autoridad competente.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+II.- Las fianzas u otras garantías constituidas por disposición de ley o por acuerdo ante las autoridades judiciales o administrativas, cuando sean exigibles y cuyo cobro ordene la autoridad competente.
 
 III.- Las sanciones pecuniarias impuestas por las autoridades judiciales o administrativas.
 
@@ -3585,13 +3591,15 @@ II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la 
 
 ### CAPITULO XIV. DERECHOS
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-308.- Los derechos por la prestación de los servicios públicos que realizan las Dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento que provoquen por parte del Estado el gasto que deba ser remunerado por aquel. Tratándose de revalidación de engomados de derechos de control vehiculas (sic) y canje de placas, cuando éste deba realizarse con carácter general, la prestación a cargo de los usuarios se causará dentro de los tres primeros meses del año, salvo que la disposición que fije el derecho señale un plazo distinto.
+308.- Los derechos por la prestación de los servicios públicos que realizan las dependencias de Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento que provoquen por parte del Estado el gasto que deba ser remunerado por aquel.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+Los derechos de control vehicular por canje o dotación de placas incluirán la tarjeta de circulación, la cual tendrá la misma vigencia de las placas; cuando el canje deba realizarse con carácter general, se causará dentro de los tres primeros meses del año, salvo que la disposición que fije el derecho señale un plazo distinto.
 
-308-A.- Los derechos que señale la Ley de Ingresos del Estado, deberán ser cubiertos en la recaudación de rentas de la jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+308-A.- Los derechos que señale la tarifa anexa a la Ley de Ingresos del Estado, deberán ser cubiertos en la recaudación de rentas de la jurisdicción donde se preste el servicio o en los establecimientos que al efecto autorice la Secretaría de Finanzas.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
@@ -3605,201 +3613,35 @@ II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la 
 
 308-D.- En caso de existir discrepancia en cuanto a la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+308-E.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-308-E.- De los servicios prestados por el Departamento de Gobernación, se causarán derechos por:
+308-F.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-I.- Legalización de firmas, expedición de certificaciones, constancias y copias certificadas.
+308-G.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-II.- Opinión para la adquisición de muebles inmuebles (sic) conforme a la fracción IV del artículo 27 de la Constitución Federal.
+308-H.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-III.- Expedición de constancias de no antecedentes penales.
+308-I.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-IV.- Opinión para la autorización de usos de explosivos y sus artificios.
+308-J.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-V.- Opinión para la realización de carreras de caballos, peleas de gallos y palenques.
+308-K.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-VI.- Opinión para la realización de rifas y sorteos.
+308-L.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-VII.- Opinión para la desincorporación de inmuebles del régimen de colonias para destinarlos a un fin distinto, a solicitud de parte interesada.
+308-M.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+308-N.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-308-F.- Por los servicios prestados por el Departamento del Registro Público de la Propiedad y del Notariado:
+308-Ñ.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-I.- Expedición de Patente de Aspirante al ejercicio del Notariado.
+308-O.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-II.- Expedición de Patente de Notario.
+308-P.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-III.- Autorización de Protocolos Notariales y Libros de Registro de actos fuera de protocolo.
+308-Q.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-IV.- Inscripciones en el Registro Público de la Propiedad y del Notariado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-G.- Por los servicios prestados por el Departamento del Registro Civil:
-
-I.- Actos del Registro Civil.
-
-II.- Expedición de copia certificada.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-H.- Por los servicios prestados por el Departamento de Educación Pública:
-
-I.- Matrícula de Títulos Profesionales.
-
-II.- Expedición de certificados por estudios realizados en escuelas clausuradas que hayan estado incorporadas al Departamento de Educación.
-
-III.- Revalidaciones, equivalencias y convalidaciones, por materia.
-
-IV.- Expedición de duplicado de la relación de estudios de escuelas a nivel elemental y medio básico.
-
-V.- Matrícula anual de establecimientos educativos particulares autorizados.
-
-VI.- Expedición de copias certificadas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-I.- Por los servicios prestados por la Oficina de Transporte:
-
-I.- Otorgamiento de concesiones de ruta para explotar el servicio de autotransporte de pasajeros en carreteras estatales, transporte urbano, transporte de materiales para construcción, transporte de carga, establecimiento de sitio de autos, transporte de servicio de pasajeros cuando el concesionario sea persona distinta al público usuario, incluyendo vehículos para servicio especial de turismo y de grúa.
-
-II.- Supervisión de transferencia de concesiones entre particulares.
-
-III.- Revalidación de concesiones.
-
-IV.- Ampliación de ruta del servicio público de transporte de pasajeros.
-
-V.- Extensión o cambio de ubicación de sitio de autos o de carga.
-
-VI.- Sustitución de vehículos del servicio público con vigencia de quince días.
-
-VII.- Expedición de tarjetón anual para concesionarios.
-
-VIII.- Expedición de copias certificadas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-J.- Por los servicios prestados directamente por la Dirección General de Comunicaciones y Obras Públicas:
-
-I.- Inscripción en el Padrón de Contratistas.
-
-II.- Modificación a los datos de inscripción.
-
-III.- Expedición de copias certificadas.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-308-K.- Por los servicios prestados por la Dirección General de Finanzas y Administración:
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-I.- Reposición de cédulas de empadronamiento.
-
-> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-II.- Inscripción en el padrón de proveedores.
-
-> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-III.- Revalidación al padrón de proveedores.
-
-> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-IV.- Expedición de constancias relativas al padrón vehicular y
-
-> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-V.- Expedición de certificados de inexistencia de registro de actas del estado civil por el Archivo General del Estado.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-VI.- Expedición de copias certificadas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-L.- Por los servicios prestados por la Procuraduría General de Justicia del Estado:
-
-I.- Expedición de constancias de no antecedentes penales.
-
-> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-II.- Expedición de constancias relativas a robo de vehículos y
-
-III.- Expedición de copias certificadas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-M.- Por los servicios prestados por la Dirección General de Desarrollo Rural:
-
-I.- Expedición de constancias de control ganadero y de fierro de herrar.
-
-II.- Expedición de mica de control ganadero y de fierro de herrar.
-
-III.- Duplicado de mica de fierro de herrar.
-
-IV.- Expedición de copias certificadas.
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-308-N.- Por los servicios prestados por la Dirección General de Educación y Cultura:
-
-I.- Control de ejercicios profesionales.
-
-II.- Expedición de constancias relativas al registro de títulos profesionales.
-
-III.- Matrícula a prácticos para ejercer una profesión en las localidades en donde no haya profesionistas titulados.
-
-IV.- Expedición de cédulas por estudios técnicos.
-
-V.- Duplicado de cédulas profesionales y
-
-VI.- Expedición de constancias y copias certificadas.
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-308-Ñ.- Por los servicios prestados por la Dirección General de Fomento Social:
-
-I.- Expedición de copias certificadas.
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-308-O.- Por los servicios prestados por la Dirección General de Desarrollo Urbano y Ecología:
-
-I.- Por acceso a parques nacionales, reservas y áreas ecológicas cuya administración se haya otorgado al Estado.
-
-II.- Inscripción en el registro estatal de prestadores de servicios que realicen estudios de impacto ambiental.
-
-III.- Otorgamiento de licencias de funcionamiento a fuentes fijas que emitan olores, gases, partículas sólidas o líquidas a la atmósfera y
-
-IV.- Expedición de engomados.
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-308-P.- Por los servicios prestados por la Imprenta de Gobierno:
-
-I.- Publicaciones en el Periódico Oficial del Estado y
-
-II.- Suscripciones anuales al Periódico Oficial del Estado.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-308-Q.- Por los servicios prestados por las autoridades de tránsito:
-
-I.- Expedición de licencias de manejo.
-
-II.- Exámenes médicos.
-
-III.- Control vehicular.
-
-IV.- Servicio de grúa para vehículos mal estacionados y
-
-V.- Expedición de copias certificadas y constancias.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
-
-309.- Por la prestación de los servicios indicados en el artículo anterior, se cobrarán las cuotas que fije el Congreso local en la tarifa que para el efecto expida, tomando en cuenta el valor de la erogación que los servicios ocasionen.
+309.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
@@ -3896,6 +3738,12 @@ I.- Personalmente los requerimientos de pago y la notificación del crédito det
 II.- Mediante oficio entregado por mensajero o por correo certificado con acuse de recibo los restantes actos.
 
 III.- Por edictos que se publiquen por dos veces consecutivas en el Periódico Oficial del Estado, únicamente en los casos en que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio, se encuentre fuera del Estado sin haber dejado representante legal acreditado ante las autoridades fiscales o hubiere fallecido y no se conozca el albacea de la sucesión. En estos casos los edictos contendrán un resumen de las resoluciones por notificar.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+IV.- Por estrados, cuando la persona a quien deba notificarse desaparezca después de iniciadas las facultades de comprobación, se oponga a la diligencia de notificación, desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al registro estatal de contribuyentes, después de la notificación de la orden de visita y antes de un año contado a partir de dicha notificación o bien, después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos; o tratándose de personas morales que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente se tenga obligación de presentar dicho aviso y en los demás casos que señale este Código.
+
+Las notificaciones por estrado se harán fijando durante quince días consecutivos el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad fiscal que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo quinto día siguiente al primer día en que se hubiera fijado el documento.
 
 321.- Los acuerdos distintos a los señalados en el artículo anterior, se notificarán por medio de oficio o telegrama.
 
@@ -4964,3 +4812,9 @@ Los contribuyentes que antes de la entrada en vigor del presente Decreto hayan e
 P.O. 15 DE FEBRERO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
