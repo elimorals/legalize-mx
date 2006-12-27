@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-al-activo-antes-ley-del-impuesto-al-activo-258
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "2004-12-01"
+last_updated: "2006-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-12-30"
 
 LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1988.
 
@@ -63,11 +63,11 @@ También están obligados al pago de este impuesto, los residentes en el extranj
 
 Las empresas que componen el sistema financiero están obligadas al pago del impuesto por su activo no afecto a su intermediación financiera.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 2o.
 
-El contribuyente determinará el impuesto por ejercicios fiscales aplicando al valor de su activo en el ejercicio, la tasa del 1.8%.
+El contribuyente determinará el impuesto por ejercicios fiscales aplicando al valor de su activo en el ejercicio, la tasa del 1.25%.
 
 El valor del activo en el ejercicio se calculará sumando los promedios de los activos previstos en este artículo, conforme al siguiente procedimiento:
 
@@ -183,45 +183,15 @@ IV.- Los intereses devengados a favor, no cobrados.
 
 Los activos financieros denominados en moneda extranjera, se valuarán al tipo de cambio del primer día de cada mes. Para este efecto, cuando no sea aplicable el tipo controlado de cambio, se estará al tipo de cambio promedio para enajenación con el cual inicien operaciones en el mercado las instituciones de crédito de la ciudad de México.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-###### ARTICULO 5.
-
-Los contribuyentes podrán deducir del valor del activo en el ejercicio, las deudas contratadas con empresas residentes en el país, con establecimientos permanentes ubicados en México de residentes en el extranjero o en el extranjero, siempre que se trate de deudas no negociables. También podrán deducirse las deudas negociables en tanto no se le notifique al contribuyente la cesión del crédito correspondiente a dichas deudas a favor de una empresa de factoraje financiero, y aun cuando no habiéndosele notificado la cesión el pago de la deuda se efectúe a dicha empresa o a cualquier otra persona no contribuyente de este impuesto.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-Para los efectos de este artículo, los contribuyentes deducirán el valor promedio de las deudas en el ejercicio de que se trate. Dicho promedio se calculará sumando los promedios mensuales de los pasivos y dividiendo el resultado entre el número de meses que comprende el ejercicio. Los promedios se determinarán sumando los saldos al inicio y al final del mes y dividiendo el resultado entre dos.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-Las personas físicas podrán deducir del valor del activo en el ejercicio, además, un monto equivalente a quince veces el salario mínimo general del área geográfica del contribuyente levado al año. Cuando dicho monto sea superior al valor del activo del ejercicio, sólo se podrá efectuar la deducción hasta por una cantidad equivalente a dicho valor.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
 ###### ARTICULO 5o.
 
-Los contribuyentes podrán deducir del valor del activo en el ejercicio, las deudas contratadas con empresas residentes en el país o con establecimientos permanentes ubicados en México de residentes en el extranjero, siempre que se trate de deudas no negociables. También podrán deducirse las deudas negociables en tanto no se le notifique al contribuyente la cesión del crédito correspondiente a dichas deudas a favor de una empresa de factoraje financiero, y aun cuando no habiéndosele notificado la cesión el pago de la deuda se efectúe a dicha empresa o a cualquier otra persona no contribuyente de este impuesto.
+(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
-No son deducibles las deudas contratadas con el sistema financiero o con su intermediación.
+###### ARTICULO 5o.-A.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-Para los efectos de este artículo, los contribuyentes deducirán el valor promedio de las deudas en el ejercicio de que se trate. Dicho promedio se calculará sumando los promedios mensuales de los pasivos y dividiendo el resultado entre el número de meses que comprende el ejercicio. Los promedios se determinarán sumando los saldos al inicio y al final del mes y dividiendo el resultado entre dos.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-Las personas físicas podrán deducir del valor del activo en el ejercicio, además, un monto equivalente a quince veces el salario mínimo general del área geográfica del contribuyente levado al año. Cuando dicho monto sea superior al valor del activo del ejercicio, sólo se podrá efectuar la deducción hasta por una cantidad equivalente a dicho valor.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-###### ARTICULO 5o-A.
-
-Los contribuyentes podrán determinar el impuesto del ejercicio, considerando el que resulte de actualizar el que les hubiera correspondido en el cuarto ejercicio inmediato anterior de haber estado obligados al pago del impuesto en dicho ejercicio, sin incluir, en su caso, el beneficio que se deriva de la reducción a que se refiere la fracción I del artículo 23 del Reglamento de esta Ley. En el caso en que el cuarto ejercicio inmediato anterior haya sido irregular, el impuesto que se considerará para los efectos de este párrafo será el que hubiere resultado de haber sido éste un ejercicio regular.
+Los contribuyentes podrán determinar el impuesto del ejercicio, considerando el que resulte de actualizar el que les hubiera correspondido en el cuarto ejercicio inmediato anterior de haber estado obligados al pago del impuesto en dicho ejercicio, sin incluir, en su caso, el beneficio que se deriva de la reducción a que se refiere la fracción I del artículo 23 del Reglamento de esta Ley ni las deudas correspondientes al mismo ejercicio. En el caso en que el cuarto ejercicio inmediato anterior haya sido irregular, el impuesto que se considerará para los efectos de este párrafo será el que hubiere resultado de haber sido éste un ejercicio regular.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -235,11 +205,11 @@ Para los efectos de lo dispuesto en el primer párrafo de este artículo los con
 
 Una vez ejercida la opción que establece este artículo, el contribuyente deberá pagar el impuesto con base en la misma por los ejercicios subsecuentes, incluso cuando se deba pagar este impuesto en el periodo de liquidación.
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 5o.- B.
+###### ARTICULO 5o.-B.
 
-Las empresas que componen el sistema financiero considerarán como activo no afecto a su intermediación financiera, los activos fijos, los terrenos, los gastos y cargos diferidos, que no respalden obligaciones con terceros resultantes del desarrollo de su actividad de intermediación financiera de conformidad con la legislación aplicable. No se incluirán los activos que por disposición legal no puedan conservar en propiedad. Estos contribuyentes sólo podrán deducir del valor del activo, las deudas contratadas para la adquisición de los activos mencionados, siempre que reúnan los requisitos a que se refiere el artículo 5o. de esta Ley.
+Las empresas que componen el sistema financiero considerarán como activo no afecto a su intermediación financiera, los activos fijos, los terrenos, los gastos y cargos diferidos, que no respalden obligaciones con terceros resultantes del desarrollo de su actividad de intermediación financiera de conformidad con la legislación aplicable. No se incluirán los activos que por disposición legal no puedan conservar en propiedad.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -401,7 +371,9 @@ Los contribuyentes podrán también acreditar contra los pagos provisionales que
 
 Las personas morales que tengan en su activo acciones emitidas por sociedades residentes en el extranjero podrán acreditar contra el impuesto al activo, el impuesto sobre la renta pagado en el extranjero por dichas sociedades, hasta por el monto que resulte conforme a lo previsto en el segundo párrafo del artículo 6o. de la Ley del impuesto mencionado.
 
-Los derechos al acreditamiento y a la devolución previstos en este artículo son personales del contribuyente y no podrán ser transmitidos a otra persona ni como consecuencia de fusión. En el caso de escisión, estos derechos se podrán dividir entre la sociedad escindente y las escindidas, en la proporción en que se divida el valor del activo de la escindente en el ejercicio en que se efectúa la escisión, determinado éste después de haber efectuado la disminución de las deudas deducibles en los términos del artículo 5o. de esta Ley.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
+Los derechos al acreditamiento y a la devolución previstos en este artículo son personales del contribuyente y no podrán ser transmitidos a otra persona ni como consecuencia de fusión. En el caso de escisión, estos derechos se podrán dividir entre la sociedad escindente y las escindidas, en la proporción en la que se divida el valor del activo de la escindente en el ejercicio en que se efectúa la escisión.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -457,23 +429,13 @@ La Secretaría de Hacienda y Crédito Público dará a conocer anualmente la tab
 
 Los contribuyentes a que se refiere este artículo, que obtengan ingresos exclusivamente por la realización de actividades agrícolas, ganaderas o silvícolas, considerarán como valor de su activo en el ejercicio, el valor catastral de sus terrenos que sirva de base para determinar el impuesto predial. El cálculo de este impuesto se hará sin incluir maquinaria y equipo.
 
-(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 2 DE MARZO DE 2001)
-
 ###### ARTICULO 12-A.
 
-Los contribuyentes personas físicas a que se refiere el artículo anterior, que hayan obtenido en el año de calendario inmediato anterior ingresos que no excedieron de $1'517,709.00 y cumplan con la obligación establecida en la fracción III del artículo 119-I de la Ley del Impuesto sobre la Renta, llevando el cuaderno de entradas y salidas y el registro de bienes y deudas a que se refiere el Reglamento del Código Fiscal de la Federación, podrán determinar el impuesto al activo aplicando la tasa del 1.8%, al valor de los bienes que hubieran asentado en la relación de bienes y deudas formulada para los efectos del impuesto sobre la renta al 31 de diciembre del ejercicio por el que se calcule el impuesto, sin deducción alguna.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-El límite de ingresos a que se refiere el párrafo anterior se actualizará en los términos del artículo 7o-C de la Ley del Impuesto sobre la Renta.
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 12-B.
 
-Para los efectos de la determinación del impuesto al activo, los contribuyentes que dejen de tributar conforme al régimen simplificado de las personas morales o al régimen simplificado a las actividades empresariales y estén a lo dispuesto por los artículos 67-G o 119-J de la Ley del Impuesto sobre la Renta, podrán optar por no incluir las inversiones que hubieran considerado en su saldo inicial de salidas conforme a los artículos 67-D o 119-F de la citada Ley, según corresponda, así como aquéllas que hubieran considerado como salidas en los citados regímenes. En este caso, no procederá la deducción a que se refiere el artículo 5o. de esta Ley, del saldo de las deudas derivadas de la adquisición de tales inversiones que se tenga a la fecha en que dejen de pagar el impuesto sobre la renta conforme al Título II-A o a la Sección II del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta.
-
-Al impuesto al activo pagado durante los ejercicios anteriores a aquél en que los contribuyentes se incorporaron a tributar conforme al Título II o Sección I del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta según corresponda, le será aplicable lo dispuesto en el artículo 9o. de esta Ley, a partir del ejercicio en que comiencen a pagar el impuesto sobre la renta conforme al Título II o al Título IV, Capítulo VI, Sección I de la mencionada Ley. En este caso, también se considerará como impuesto sobre la renta del ejercicio para los efectos del artículo 9o. antes mencionado, el monto que resulte a su cargo en dicho ejercicio en los términos de la fracción III de los artículos 67-G o de la fracción III del artículo 119-J, según corresponda.
+(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -485,9 +447,11 @@ La controladora que consolide para efectos del impuesto sobre la renta, estará 
 
 I.- Calculará el valor del activo en el ejercicio, en forma consolidada, sumando el valor de su activo con el del activo de cada una de las controladas, en proporción a la participación accionaria promedio en que la controladora participe, directa o indirectamente, en su capital social.
 
-Para los efectos del párrafo anterior, el valor de los activos de la controladora y de cada una de las controladas se determinará considerando el valor y la fecha en que se adquirieron por primera vez por las sociedades que consoliden. En caso de que existan cuentas y documentos por cobrar o por pagar de la controladora o controladas, con otras empresas del grupo que no causen el impuesto consolidado, no se incluirán en proporción a la participación accionaria promedio por día en que la controladora participe, directa o indirectamente, en su capital social. Tampoco se incluirán en el valor de los activos de la controladora, las acciones de sus controladas residentes en el extranjero.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
-Del valor del activo a que se refieren los párrafos anteriores, se podrá deducir el valor de las deudas a que se refiere el artículo 5o. de esta Ley, que correspondan a la controladora y a cada una de las controladas que deban pagar el impuesto a que se refiere esta Ley, en proporción a la participación accionaria promedio por día en que la controladora participe, directa o indirectamente, en su capital social.
+Para los efectos del párrafo anterior, el valor de los activos de la controladora y de cada una de las controladas se determinará considerando el valor y la fecha en que se adquirieron por primera vez por las sociedades que consoliden. En caso de que existan cuentas y documentos por cobrar de la controladora o controladas, con otras empresas del grupo que no causen el impuesto consolidado, no se incluirán en proporción a la participación accionaria promedio por día en que la controladora participe, directa o indirectamente, en su capital social. Tampoco se incluirán en el valor de los activos de la controladora, las acciones de sus controladas residentes en el extranjero.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -503,9 +467,9 @@ IV.- En caso de que alguna de las sociedades controladas, presenten declaración
 
 Cuando se trate de declaraciones complementarias de las controladas, originadas por el dictamen a sus estados financieros, la controladora podrá presentar una sola declaración complementaria, agrupando las modificaciones a que haya lugar, a más tardar a la fecha de presentación del dictamen relativo a la declaración de consolidación.
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
-V.- La controladora deberá tener a disposición de las autoridades fiscales, la información y documentos que comprueben los valores de los activos y pasivos que se tomaron como base para calcular el impuesto consolidado en el ejercicio.
+V.- La controladora deberá tener a disposición de las autoridades fiscales, la información y documentos que comprueben los valores de los activos que se tomaron como base para calcular el impuesto consolidado en el ejercicio.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -529,15 +493,17 @@ Para efectos de este impuesto, la controladora y las controladas estarán a lo d
 
 En la escisión de sociedades, las sociedades escindentes y las escindidas estarán a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
-I.- En el ejercicio en que se efectúe la escisión y el siguiente, para efectos de los párrafos tercero y quinto del artículo 7o. de esta Ley, determinarán el monto de los pagos provisionales del período que corresponda, considerando el impuesto actualizado del último ejercicio de 12 meses de la sociedad antes de la escisión, en la proporción en que, a la fecha de la escisión, participe cada una de ellas del valor de su activo a que se refiere el artículo 2o. de la misma, después de disminuirle en la misma proporción las deudas deducibles, existentes a la misma fecha, en los términos del artículo 5o. de este ordenamiento. El impuesto del último ejercicio de 12 meses se actualizará por el periodo comprendido desde el último mes del ejercicio inmediato anterior al de 12 meses, hasta el último mes del ejercicio inmediato anterior a aquél por el cual se calcula el impuesto.
+I.- En el ejercicio en el que se efectúe la escisión y el siguiente, para efectos de los párrafos tercero y quinto del artículo 7o. de esta Ley, determinarán el monto de los pagos provisionales del periodo que corresponda, considerando el impuesto actualizado del último ejercicio de 12 meses de la sociedad antes de la escisión, en la proporción en que, a la fecha de la escisión, participe cada una de ellas del valor de su activo a que se refiere el artículo 2o. de la misma. El impuesto del último ejercicio de 12 meses se actualizará por el periodo comprendido desde el último mes del ejercicio inmediato anterior al de 12 meses, hasta el último mes del ejercicio inmediato anterior a aquél por el cual se calcula el impuesto.
 
 > <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
 II.- La sociedad escindente acreditará en el ejercicio de que se trate, la totalidad de los pagos provisionales enterados en dicho ejercicio, con anterioridad a la escisión, incluso cuando los pagos provisionales los hubiera efectuado de conformidad con lo dispuesto en el artículo 7o.-A de esta Ley. En ningún caso las sociedades escindidas podrán acreditar los pagos provisionales realizados por la escindente.
 
-III.- La sociedad escindente y las escindidas deberán continuar con la opción a que se refiere el artículo 5o-A de esta Ley, cuando la hubiera ejercido la escindente, en cuyo caso en el ejercicio en que se efectúa la escisión y el siguiente, deberán considerar ambas sociedades, el impuesto del penúltimo y último ejercicio inmediato anterior al de la escisión, en la proporción a que se refiere la fracción I de este artículo. A partir del tercer ejercicio en que se efectuó la escisión considerarán el impuesto que le hubiera correspondido a la sociedad en el penúltimo ejercicio inmediato anterior.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
+III.- La sociedad escindente y las escindidas deberán continuar con la opción a que se refiere el artículo 5o.-A de esta Ley, cuando la hubiera ejercido la escindente, en cuyo caso en el ejercicio en el que se efectúe la escisión y en los tres siguientes, deberán considerar dichas sociedades, el impuesto correspondiente a la escindente determinado de conformidad con lo señalado en la citada disposición, en la proporción a que se refiere la fracción I de este artículo. En el cuarto ejercicio inmediato posterior al de la escisión, las referidas sociedades dejarán de aplicar la proporción antes referida y considerarán el impuesto que les hubiera correspondido a cada una de ellas en el cuarto ejercicio inmediato anterior de acuerdo con el artículo antes citado.
 
 En caso de que la escindente no haya ejercido la opción a que se refiere el artículo 5o-A de esta Ley con anterioridad a la escisión y la escindente y las escindidas ejerzan dicha opción en el ejercicio en que se efectúa la escisión o en el siguiente, deberán hacerlo en los términos que establece el párrafo anterior.
 
@@ -756,3 +722,27 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA MODIFICACION QUE SE RELACIONAN 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del 1 de enero del 2005, con excepción de lo dispuesto en los Artículos Quinto y Sexto de este Decreto que entrarán en vigor a partir del 1 de enero de 2006.
+
+D.O.F. 27 DE DICIEMBRE DE 2006.
+
+Disposiciones Transitorias de la Ley del Impuesto al Activo
+
+###### ARTÍCULO SÉPTIMO.
+
+En relación con la Ley del Impuesto al Activo, se estará a lo siguiente:
+
+I. Para los efectos del artículo 5o.-A de la Ley del Impuesto al Activo, a partir del ejercicio fiscal de 2007, los contribuyentes que apliquen la opción a que se refiere el citado precepto considerarán el impuesto actualizado que les hubiera correspondido en el cuarto ejercicio inmediato anterior, sin deducir del valor del activo de dicho ejercicio las deudas correspondientes al mismo ejercicio.
+
+II. Para los efectos de los artículos 7o. y 13 fracción II, de la Ley del Impuesto al Activo, los contribuyentes determinarán los pagos provisionales correspondientes al ejercicio fiscal de 2007 con base en el impuesto actualizado que les hubiera correspondido en el ejercicio inmediato anterior, sin deducir del valor del activo de dicho ejercicio las deudas correspondientes al mismo ejercicio.
+
+Asimismo, para los efectos del sexto párrafo del artículo 7o. de la Ley del Impuesto al Activo, los pagos provisionales correspondientes a los meses de enero y febrero del ejercicio fiscal de 2007, se deberán efectuar en la cantidad que hubiera correspondido para los pagos provisionales del ejercicio inmediato anterior, de no haberse deducido del valor del activo del ejercicio que sirvió de base para dichos pagos, las deudas correspondientes al mismo ejercicio.
+
+III. Para los efectos del artículo 13, fracción V de la Ley del Impuesto al Activo, la controladora deberá tener a disposición de las autoridades fiscales, la información y documentos que compruebe los valores de los activos y pasivos que se tomaron como base para calcular el impuesto consolidado en los ejercicios anteriores al 1 de enero de 2007.
+
+IV. Para los efectos del artículo 13-A, fracción I, de la Ley del Impuesto al Activo, los contribuyentes determinarán el impuesto al activo del último ejercicio de doce meses que le hubiera correspondido a la sociedad antes de la escisión, sin deducir del valor del activo del ejercicio, las deudas correspondientes al mismo ejercicio.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+## Transitorios
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
