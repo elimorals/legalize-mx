@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2006-03-30"
+last_updated: "2006-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -814,7 +814,7 @@ m) La información que permita distinguir el gasto regular de operación; el gas
 
 n) El destino que corresponda a los ingresos provenientes del aprovechamiento por rendimientos excedentes de Petróleos Mexicanos y organismos subsidiarios o de la contribución que por el concepto equivalente, en su caso, se prevea en la legislación fiscal, el cual corresponderá a las entidades federativas para gasto en programas y proyectos de inversión en infraestructura y equipamiento, conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente, y
 
-ñ) Las erogaciones correspondientes al Programa de Apoyo para el Fortalecimiento de las Entidades Federativas. Dichos recursos se destinarán a las entidades federativas conforme a la distribución de dicho Programa en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior al que se presupuesta.
+ñ) (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 III. Los anexos informativos, los cuales contendrán:
 
@@ -1402,25 +1402,7 @@ El Ejecutivo Federal deberá señalar en el proyecto de Presupuesto de Egresos l
 
 ###### Artículo 85.
 
-Los subsidios correspondientes al Programa de Apoyos para el Fortalecimiento de las Entidades Federativas se destinarán:
-
-I. Cuando menos el 50 por ciento a la inversión en infraestructura física, incluyendo la construcción, reconstrucción, ampliación, mantenimiento y conservación de infraestructura; así como la adquisición de bienes para el equipamiento de las obras generadas o adquiridas; infraestructura hidroagrícola, y hasta un 3 por ciento del costo del programa o proyecto programado en el ejercicio fiscal correspondiente, para gastos indirectos por concepto de realización de estudios, elaboración y evaluación de proyectos, supervisión y control de estas obras de infraestructura;
-
-II. Saneamiento financiero, preferentemente a través de la amortización de deuda pública, expresada como una reducción del principal al saldo registrado al 31 de diciembre del año inmediato anterior. Asimismo, podrán realizarse otras acciones de saneamiento financiero, siempre y cuando se acredite un impacto favorable en la fortaleza de las finanzas públicas locales;
-
-III. Apoyo para sanear y reformar los sistemas de pensiones de las entidades federativas, prioritariamente a las reservas actuariales;
-
-IV. Modernización de los catastros, con el objeto de actualizar los valores de los bienes y hacer más eficiente la recaudación de contribuciones;
-
-V. Modernización de los sistemas de recaudación locales;
-
-VI. Desarrollar mecanismos impositivos que permitan ampliar la base gravable de las contribuciones locales;
-
-VII. Fortalecimiento de los Proyectos de Investigación Científica y Desarrollo Tecnológico, y
-
-VIII. Para los Sistemas de Protección Civil en las Entidades Federativas.
-
-Los recursos del Programa de Apoyos para el Fortalecimiento de las Entidades Federativas, tienen por objeto fortalecer los presupuestos de las entidades federativas y de las regiones. Para este fin y con las mismas restricciones, las entidades federativas podrán convenir entre ellas o con el Gobierno Federal, la aplicación de estos recursos, los que no podrán destinarse para erogaciones de gasto corriente o de operación, salvo en los casos previstos expresamente en las fracciones anteriores.
+(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 ## TÍTULO QUINTO. De la Contabilidad Gubernamental
 
@@ -1701,3 +1683,13 @@ OCTAVO. Las unidades de administración de los Poderes Legislativo y Judicial y 
 México, D.F., a 9 de marzo de 2006.- Sen. Carlos Chaurand Arzate, Vicepresidente.- Dip. Marcela González Salas P., Presidenta.- Sen. Saúl López Sollano, Secretario.- Dip. Patricia Garduño Morales, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de marzo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 27 DE DICIEMBRE DE 2006.
+
+Primero. El presente Decreto entrará en vigor el primero de enero de 2007.
+
+Segundo. Durante el ejercicio fiscal 2007, en tanto se expide el Programa Nacional de Seguridad Pública, lo dispuesto en el artículo 44 de la Ley de Coordinación Fiscal se sujetará a los acuerdos y resoluciones que establezca el Consejo Nacional de Seguridad Pública en los términos del artículo 11 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
+
+Tercero. Para el ejercicio fiscal 2007, la distribución entre los Estados y el Distrito Federal de los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, a que se refiere el artículo 46 de la Ley de Coordinación Fiscal, se realizará de acuerdo con los porcentajes que a cada entidad federativa le haya correspondido conforme a la distribución del Programa de Apoyos para el Fortalecimiento de las Entidades Federativas en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 2006.
