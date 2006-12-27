@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-egresos-del-estado-de-nuevo-leon-para-el-ano-2006-47444"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-22"
-last_updated: "2005-12-22"
+last_updated: "2006-12-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EGRESOS DEL ESTADO DE NUEVO LEON PARA EL AÑO 2006
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 22 de diciembre de 2005.
 
@@ -307,7 +307,9 @@ I.- Para el Gobernador, el Presidente del Tribunal Superior de Justicia, los sec
 
 II.- Para los magistrados del Tribunal Superior de Justicia, los consejeros de la Judicatura, los subsecretarios y demás funcionarios de nivel equivalente, de una cantidad mínima de $87,552.00 y una cantidad máxima de $124,130.00.
 
-III.- Para los Diputados de una cantidad mínima de $76,440.00 y una cantidad máxima de $85,720.000.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+III.- Para los Diputados el monto de la percepción será de $76,440.00.
 
 En los supuestos anteriores, y con la finalidad de garantizar la transparencia de las remuneraciones de los funcionarios públicos, el monto exacto de las percepciones y sus aumentos salariales serán acordados por el Gobernador en el caso del Poder Ejecutivo, por el Presidente del Tribunal Superior de Justicia, tratándose del Poder Judicial. En el caso del Poder Legislativo, será acordado por el Pleno del H. Congreso del Estado a propuesta de la Comisión de Coordinación y Régimen Interno del Congreso del Estado. La cantidad que en su caso se asigne como aumento salarial o retribución no deberá exceder, en ninguno de los supuestos, del total de las percepciones en efectivo que en el ejercicio fiscal inmediato anterior hayan sido pagadas a cada funcionario o su equivalente.
 
@@ -332,3 +334,9 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
