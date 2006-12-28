@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-acanceh-yucatan-48198"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2006-01-03"
+last_updated: "2006-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ACANCEH, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el 3 de enero de 2006.
 
@@ -61,9 +61,11 @@ II.- Establecer y regular las obligaciones y derechos que en materia administrat
 
 III.- Determinar las reglas para la realización del cobro de las contribuciones municipales y las multas a que se hagan acreedores quienes incumplan las disposiciones de esta ley.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 2.
 
-El Ayuntamiento del Municipio de Acanceh, Yucatán, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirá, por conducto de su respectiva hacienda, los ingresos por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones, aportaciones e ingresos extraordinarios que se establecen en esta ley y en la Ley de Ingresos, en los términos de lo dispuesto en la Constitución Política y en la Ley Orgánica de los Municipios, ambas del Estado de Yucatán.
+El Ayuntamiento deL Municipio de Acanceh, Yucatán, para cubrir los gastos de su administración y demás obligaciones a su cargo percibirá, por conducto de su respectiva hacienda, los ingresos por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones, aportaciones e ingresos extraordinarios que se establecen en esta ley y en la Ley de Ingresos, en términos de lo dispuesto en la Constitución Política y en la Ley de Gobierno de los Municipios, ambas del Estado de Yucatán.
 
 DE LAS DISPOSICIONES FISCALES MUNICIPALES
 
@@ -133,11 +135,15 @@ a) El Ayuntamiento de Acanceh, Yucatán.
 
 b) El Presidente Municipal de Acanceh, Yucatán.
 
-c) El Tesorero Municipal.
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-d) El Director o encargado de la oficina recaudadora de ingresos.
+c).- El Síndico;
 
-e) El Titular de la oficina encargada de aplicar el procedimiento administrativo de ejecución.
+d).- El Tesorero Municipal;
+
+e) El Director o encargado de la oficina recaudadora de ingresos, y
+
+f) el Titular de la oficina encargada de aplicar el procedimiento administrativo de ejecución.
 
 Corresponde al Tesorero Municipal, determinar, liquidar y recaudar los ingresos municipales y ejercer, en su caso, la facultad económico-coactiva. Estas facultades las ejercerá conjunta o separadamente con las autoridades mencionadas en los incisos d) y e) de este artículo según se trate de recaudación o ejecución, respectiva.
 
@@ -545,9 +551,11 @@ Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a
 
 DE LA TARIFA
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 44.
 
-Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará multiplicando la tasa del 1.5 % en los términos de lo dispuesto en la Ley General de Hacienda para los Municipios del Estado de Yucatán.
+Cuando la Dirección del Catastro del Municipio de Acanceh, Yucatán, expidiere una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir de la expedición de la cedula respectiva.
 
 TABLA DE VALORES CATASTRALES DE TERRENO
 
@@ -573,7 +581,9 @@ Estarán exentos de pago de Impuesto Predial, los bienes de dominio público de 
 
 Cuando en un mismo inmueble, se realicen simultáneamente actividades propias del objeto público, de las entidades u organismos mencionados en el párrafo anterior, y otras actividades distintas o accesorias, para que la Tesorería Municipal correspondiente esté en condiciones de determinar el impuesto a pagar, los organismos descentralizados, las empresas de participación estatal o quienes posean bajo cualquier título inmuebles del dominio público de la Federación, Estado o Municipio, deberán declarar, durante los primeros quince días del mes de diciembre de cada año, ante la propia Tesorería Municipal, la superficie ocupada efectivamente para la realización de su objeto principal señalando claramente la superficie que del mismo inmueble sea utilizado para fines administrativos o distintos a los de su objeto público.
 
-La Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación, de la declaración de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencia. En caso afirmativo, se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley Orgánica de los Municipios del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+La Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación, de la declaración de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencia. En caso afirmativo, se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 Sólo en los casos de que la estructura de algún inmueble no admita una cómoda delimitación o cuando no se presente la declaratoria a que se refiere el párrafo anterior, será la oficina de catastro municipal o estatal en caso de que el Municipio no cuente con este servicio, la que, tomando como base los datos físicos y materiales que objetivamente presente el inmueble, fije el porcentaje que corresponda a la superficie gravable, calcule su valor catastral y éste último, servirá de base a la Tesorería Municipal, para la determinación del impuesto a pagar.
 
@@ -947,7 +957,9 @@ El pago de los derechos deberá hacerse previamente a la prestación del servici
 
 Los derechos que establece esta ley se pagarán por los servicios que preste el Municipio en sus funciones de derecho público o por el uso o aprovechamiento de los bienes del dominio público del mismo.
 
-Cuando de conformidad con la Ley Orgánica de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta del mismo Municipio, se seguirán cobrando los derechos en los términos establecidos por esta ley.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta del mismo Municipio, se seguirán cobrando los derechos en los términos establecidos por esta ley.
 
 ###### Artículo 74.
 
@@ -1427,59 +1439,95 @@ El objeto de estos derechos está constituido por los servicios que presta el Ca
 
 La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa.
 
-I.-Emisión de copias fotostáticas simples.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-a) Por cada hoja simple tamaño carta, de cédulas, planos, parcelas, formas de manifestación de traslación de dominio o cualquier otra manifestación $10.00
+I.-Emisión de copias fotostáticas:
 
-b) Por cada copia simple tamaño oficio $15.00
+a) Por cada hoja simple tamaño carta, de cédulas, planos,
 
-II.- Por expedición de copias fotostáticas certificadas de:
+parcelas, formas de manifestación de traslación de dominio
 
-a) Cédulas, planos, parcelas, manifestaciones, tamaño carta. $25.00
+o cualquier otra manifestación. $10.00
 
-b) Fotostáticas de plano tamaño oficio, por cada una. $30.00
+b) Por cada copia simple tamaño oficio. $15.00
 
-c) Fotostáticas de plano hasta 4 veces tamaño oficio, por cada una. $55.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-d) fotostáticas de planos mayores de 4 veces de tamaño oficio por cada una $105.00
+II.- Por expedición de copias certificadas de:
 
-III.- Por expedición de oficios de:
+a) Cédulas, planos, parcelas, manifestaciones, tamaño
 
-a) División (por cada parte) $20.00
+carta. $25.00
 
-b) Unión, rectificación de medidas, urbanización y cambio de nomenclatura $30.00
+b) Plano tamaño oficio, por cada una. $30.00
 
-c) Cédulas catastrales $30.00
+c) Plano hasta 4 veces tamaño oficio, por
 
-d) Constancias de no propiedad, única propiedad, valor catastral, número oficial de predio, certificado de inscripción vigente, información de bienes inmuebles $70.00
+cada una. $55.00
 
-e) Certificado de inscripción vigente, constancias de valor catastral $80.00
+d) Planos mayores de 4 veces de tamaño oficio por
+
+cada una. $105.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+III.- Por expedición de constancias de:
+
+a) División (por cada parte). $20.00
+
+b) Unión, rectificación de medidas, urbanización y
+
+cambio de nomenclatura $30.00
+
+c) Cédulas catastrales. $30.00
+
+d) No propiedad, única propiedad, valor catastral,
+
+número oficial de predio, información de bienes
+
+inmuebles. $70.00
+
+e) Inscripción vigente. $80.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 IV.- Por elaboración de planos:
 
-a) Catastrales a escala $160.00
+a) Catastrales a escala. $160.00
 
-b) Planos topográficos hasta 100 has $280.00
+b) Topográficos hasta 100 hectáreas. $280.00
 
-V.- Por revalidación de oficios de división, unión y rectificación de medidas $20.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-VI.- Por reproducción de documentos microfilmados
+V.- Por revalidación de oficios de división, unión
 
-a) Tamaño carta $45.00
+y rectificación de Medidas. $20.00
 
-b) Tamaño oficio $55.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios $140.00
+VI.- Por reproducción de documentos microfilmados:
 
-VIII.- Por actualizaciones de predios urbanos se causarán y pagarán los siguientes derechos.
+a) Tamaño carta. $45.00
 
-De un valor de $0.01 A $4,000.00 $20.00
+b) Tamaño oficio. $55.00
 
-De un valor de $4,001.00 A $7,000.00 $25.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-De un valor de $7,001.00 A $9,000.00 $30.00
+VII.- Por diligencias de verificación de medidas físicas
 
-De un valor de $9,001.00 A En adelante $35.00
+y de colindancias de predios $140.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+VIII.- Por actualizaciones de predios urbanos y rústicos se causarán y pagarán los siguientes derechos:
+
+De un valor de $0.01 A $4,000.00 $23.00
+
+De un valor de $4,001.00 A $7,000.00 $28.00
+
+De un valor de $7,001.00 A $9,000.00 $35.00
+
+De un valor de $9,001.00 En adelante $40.00
 
 ###### Artículo 97.
 
@@ -1799,19 +1847,25 @@ IV.- Por los daños que sufrieron las vías públicas o los bienes del patrimoni
 
 DE LOS ARRENDAMIENTOS Y LAS VENTAS
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 126.
 
-Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Municipio se llevarán a cabo conforme a la Ley Orgánica de los Municipios del Estado de Yucatán.
+Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Municipio se llevarán a cabo conforme a la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
-El arrendamiento de bienes a que se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente y el Secretario Municipio (sic) previa la aprobación del Cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato, época y lugar de pago.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+El arrendamiento de bienes a que se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente y el Síndico previa la aprobación del Cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato, época y lugar de pago.
 
 Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párrafo anterior.
 
 DE LA EXPLOTACIÓN
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 127.
 
-Los bienes muebles e inmuebles propiedad del Municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de la Ley Orgánica de los Municipios del Estado de Yucatán.
+Los bienes muebles e inmuebles propiedad del Municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 DEL REMATE DE BIENES MOSTRENCOS O ABANDONADOS
 
@@ -2011,6 +2065,8 @@ La Hacienda Pública Municipal percibirá las Participaciones Estatales y Federa
 
 ### Capítulo I. De los Recursos Administrativos
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 146.
 
 Son ingresos extraordinarios los empréstitos, subsidios y los decretados excepcionalmente.
@@ -2021,9 +2077,11 @@ El Municipio podrá percibir ingresos extraordinarios cuando así lo decrete de 
 
 ### Capítulo II. De las Garantías Fiscales
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 147.
 
-Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley Orgánica de los Municipios del Estado de Yucatán.
+Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 Cuando se trate de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación o en juicio de nulidad, de conformidad con lo dispuesto en el Código Fiscal de la Federación.
 
@@ -2033,7 +2091,7 @@ En este caso, los recursos que se promueven se tramitarán y resolverán en la f
 
 ###### Artículo 148.
 
-Interpuesto en tiempo algún recurso, en los términos de la Ley Orgánica de los Municipios del Estado de Yucatán o del Código Fiscal de la Federación, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgue garantía suficiente a juicio de la autoridad.
+Interpuesto en tiempo algún recurso, en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán o del Código Fiscal de la Federación, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgue garantía suficiente a juicio de la autoridad.
 
 Las garantías que menciona este artículo serán estimadas por la autoridad como suficientes, siempre que cubran, además de las contribuciones o créditos actualizados, los accesorios causados como los recargos y las multas, así como los que se generen en los doce meses siguientes a su otorgamiento.
 
@@ -2092,3 +2150,11 @@ OFICIAL MAYOR
 Q.I. RAÚL ARCEO ALONZO
 
 Quienes firman por la ausencia temporal del C. Gobernador del Estado, de conformidad a lo dispuesto por el artículo 25 de la Ley Orgánica de la Administración Pública del Estado de Yucatán.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 28 DE DICIEMBRE DE 2006.
+
+###### ARTICULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
