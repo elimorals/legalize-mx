@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2002-04-22"
+last_updated: "2006-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -45,25 +45,29 @@ LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
 Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto regular la organización, funcionamiento y control de las entidades paraestatales de la Administración Pública Estatal.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 2o.
 
-Son entidades paraestatales los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos a que se refiere la Ley Orgánica del Poder Ejecutivo.
+Las entidades paraestatales a que se refiere el Artículo 2° de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, son los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos señalados, respectivamente, en las fracciones I, II y III siguientes:
 
-Son:
+I. Son organismos descentralizados las entidades creadas por ley o decreto del Congreso del Estado con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura que adopten.
 
-I.- Organismos descentralizados las entidades creadas por ley o decreto del Congreso del Estado con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten.
+II. Son empresas de participación estatal aquellas en las que:
 
-II.- Empresas de participación estatal mayoritaria, aquellas en las que:
+a) El Gobierno Estatal aporte o sea propietario del 51 % o más del capital social o de las acciones de la empresa;
 
-a).- El Gobierno Estatal aporte o sea propietario del 51% o más del capital social o de las acciones de la empresa,
+b) En la construcción de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el Gobierno Estatal; o
 
-b).- En la construcción de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el Gobierno Estatal, y
+c) Al Gobierno Estatal corresponda la facultad de nombrar a la mayoría de los miembros del Consejo de Administración, Junta Directiva u órgano equivalente o de designar al Presidente, Director o al Gerente, o tenga facultades para vetar los acuerdos de la Asamblea General de Accionistas, del Consejo de Administración o de la Junta Directiva u órgano equivalente.
 
-c).- Al Gobierno Estatal corresponda la facultad de nombrar a la mayoría de los miembros del Consejo de Administración, Junta Directiva u órgano equivalente o de designar al Presidente, Director o al Gerente, o tenga facultades para vetar los acuerdos de la Asamblea General de Accionistas, del Consejo de Administración o de la Junta Directiva u órgano equivalente.
+III. Son fideicomisos públicos aquellos creados mediante ley o decreto del Congreso del Estado, o mediante decreto del Ejecutivo del Estado, con el propósito de auxiliar a este último en el ejercicio de las facultades o el cumplimiento de las obligaciones que le señalen las leyes, cuando se organizan de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria y el fideicomitente sea el Gobierno Estatal, algunas de sus dependencias, organismos descentralizados, empresas de participación estatal mayoritaria o cualquier institución fiduciaria cuando ésta actúe en cumplimiento de los fines de otro fideicomiso de cualquier dependencia o entidad de la Administración Pública Estatal.
 
-III.- Fideicomisos públicos:
+La Secretaría de Finanzas y las demás dependencias y entidades de la Administración Pública del Estado que cuenten con la autorización de la Secretaría de Finanzas, por conducto de sus respectivos titulares, podrán constituir o adherirse a fideicomisos privados cuando así lo permitan las disposiciones presupuestales aplicables, sea necesario o conveniente para el ejercicio de las facultades o para el cumplimiento de las obligaciones que les señalen las leyes y no se amerite crear una entidad paraestatal.
 
-a).- Aquellos en los que el fideicomitente sea el Gobierno Estatal, algunas de sus dependencias, organismos descentralizados, empresas de participación estatal mayoritaria o cualquier institución fiduciaria cuando ésta actúe en cumplimiento de los fines de otro fideicomiso de cualquier dependencia o entidad de la Administración Pública Estatal.
+Los fideicomisos privados no serán considerados entidades paraestatales; su organización, funcionamiento y control se regirá, exclusivamente, por las leyes mercantiles y sus contratos constitutivos, mismos que deberán sujetarse a las condiciones que para cada caso establezca la Secretaría de Finanzas en su autorización, y ésta incluirá los lineamientos que deban observarse para garantizar la rendición de cuentas e informes y la comprobación del manejo transparente de los recursos públicos estatales que sean aportados o queden afectos a los fideicomisos privados, salvaguardando así el derecho a la información que corresponde a los gobernados conforme a la ley.
+
+Las dependencias y entidades que constituyan fideicomisos privados deberán registrarlos ante la Secretaría de Finanzas, y deberán proporcionarle a ésta toda la información y documentación que solicite para garantizar una adecuada rendición de cuentas e informes. Las dependencias y entidades deberán informar trimestralmente a la Secretaría de Finanzas el monto de recursos públicos estatales ingresados durante el trimestre a los fideicomisos privados en los que participen, así como los rendimientos, usos, aplicaciones y saldos de dichos recursos.
 
 ###### ARTICULO 3o.
 
@@ -560,3 +564,13 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 22 DE ABRIL DE 2002.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 28 DE DICIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Las referencias a los fideicomisos públicos en las leyes, decretos y demás normativa del Estado de Aguascalientes, se entenderán hechas exclusivamente a los fideicomisos a que se refiere el primer párrafo, de la Fracción III, del Artículo 2°, de la Ley de Control de Entidades Paraestatales.
