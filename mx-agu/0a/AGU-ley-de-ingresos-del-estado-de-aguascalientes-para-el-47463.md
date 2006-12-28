@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-47463"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2005-12-31"
-last_updated: "2005-12-31"
+last_updated: "2006-12-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2006
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Primera Sección, Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el sábado 31 de diciembre de 2005.
 
@@ -51,11 +51,15 @@ La Hacienda Pública del Estado, percibirá durante el Ejercicio Fiscal 2006, de
 
 (Montos en pesos)
 
-I IMPUESTOS 146´300,000
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
-I.1 Sobre Instrumentos Públicos y
+I IMPUESTOS $ 165'700,000
 
-Operaciones Contractuales 15´800,000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+I.1 Sobre Instrumentos Públicos
+
+y Operaciones Contractuales 24'800,000
 
 I.2 Sobre Diversiones y
 
@@ -65,25 +69,37 @@ I.3 Sobre Adquisición de Vehículos
 
 Usados de Motor 15´400,000
 
-I.4 Sobre Tenencia o Uso de Vehículos
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
-Automotores 20´300,000
+1.4 Sobre Tenencia o Uso de
+
+Vehículos Automotores 23'300.000
 
 I.5 Sobre Prestación de Servicios
 
 de Hospedaje 5´300,000
 
-I.6 Sobre Loterías, Rifas,
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
-Sorteos y Concursos 1´700,000
+1.6 Sobre Loterías, Rifas, Sorteos
 
-I.7 Sobre Nóminas 82´500,000
+y Concursos 2'000,000
 
-II DERECHOS 144´500,000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+1.7 Sobre Nóminas 92'300,000
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+II DERECHOS 149'500,000
 
 Por los servicios prestados por las siguientes Dependencias y Unidades Administrativas:
 
-II.1 La Secretaría de Seguridad Pública 92´600,000
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+II.1 La Secretaría de Seguridad
+
+Pública. 97'600,000
 
 II.2 El Registro Público de la
 
@@ -107,11 +123,15 @@ y Desarrollo Regional 10´500,000
 
 II.8 La Secretaría de Turismo 3´200,000
 
-III PRODUCTOS 40´490,000
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+III PRODUCTOS 49'900,000
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 III.1 Rendimientos o Intereses de
 
-Capitales y Valores del Estado 34´990,000
+Capitales y Valores del Estado 43'990,000
 
 III.2 Explotación de cualquier naturaleza 0
 
@@ -143,29 +163,37 @@ IV.5 Fianzas hechas efectivas 200,000
 
 IV.6 Otros no especificados 2´500,000
 
-INGRESOS ESTATALES 338´990,000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+INGRESOS ESTATALES 375'090,000
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 V PARTICIPACIONES FEDERALES
 
-AL ESTADO 3,352´800,000
+AL ESTADO 3,576'300,000
 
-V.1 Participaciones Federales al Estado:
+V.1 Participaciones Federales al
 
-a) Fondo General de Participaciones 2,650´000,000
+Estado
 
-b) Fondo de Fomento Municipal 365´400,000
+a) Fondo General de Participaciones 2,804'500,000
+
+b) Fondo de Fomento Municipal 390'400,000
 
 c) Impuesto Sobre Tenencia o
 
-Uso de Vehículos 164´100,000
+Uso de Vehículos $ 181'100,000
 
 d) Impuesto Especial Sobre
 
-Producción y Servicios 50´200,000
+Producción y Servicios 52'200,000
 
-e) Impuesto Sobre Automóviles Nuevos 55´200,000
+e) Impuesto Sobre Automóviles
 
-f) Coordinación Fiscal Federal 67´900,000
+Nuevos 70'200,000
+
+f) Coordinación Fiscal Federal 77'900,000
 
 VI FONDOS DE APORTACIONES
 
@@ -217,7 +245,9 @@ VII APOYOS PARA EL FORTALECIMIENTO
 
 DE LAS ENTIDADES FEDERATIVAS 216´800,000
 
-TOTAL DE INGRESOS 7,449´490,000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+TOTAL DE INGRESOS 7,709'090,000
 
 VIII INGRESOS EXTRAORDINARIOS -92´000,000
 
@@ -233,7 +263,9 @@ IX.1 Saldo del Ejercicio Fiscal Anterior 110´950,000
 
 IX.2 Otros Ingresos 0
 
-SUBTOTAL 7,468´440,000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+SUBTOTAL 7,728'040,000
 
 X INGRESOS DE LAS ENTIDADES PARAESTATALES
 
@@ -453,7 +485,9 @@ XI.2 Comisión Estatal de
 
 Derechos Humanos 0
 
-TOTAL 7,988´342,000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+TOTAL 8,247'969,000
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
@@ -24698,3 +24732,11 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P. O. 28 DE DICIEMBRE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
