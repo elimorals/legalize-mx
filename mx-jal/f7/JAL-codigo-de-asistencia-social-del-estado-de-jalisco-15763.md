@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2006-08-22"
+last_updated: "2006-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -93,9 +93,9 @@ Para los efectos de este Código se consideran servicios de asistencia social lo
 
 I. La atención a personas que por sus problemas de discapacidad o indigencia, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
-II. La atención en establecimientos especializados a menores, adultos mayores y discapacitados en estado de abandono o maltrato;
+II. La atención en establecimientos especializados a menores, adultos mayores y discapacitados en estado de abandono, maltrato o que tengan que ver en investigaciones del Ministerio Público o de procedimientos judiciales en los que se pretenda acreditar su estado de abandono o maltrato;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -127,11 +127,15 @@ XIV. La prevención del desamparo, abandono o maltrato; y la protección a los s
 
 XV. Los demás servicios que tiendan a atender y complementar el desarrollo de aquellas personas que por sí mismas no pueden satisfacer sus necesidades personales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 5.
 
-Son sujetos de asistencia social, de manera prioritaria, los siguientes:
+son (sic) sujetos de asistencia social, de manera prioritaria, los siguientes:
 
-I. Menores en estado de abandono, desamparo, desnutrición o maltrato;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+I. Menores en estado de abandono, desamparo, desnutrición, maltrato o que tengan que ver en investigaciones del Ministerio Público o de procedimientos judiciales en los que se pretenda acreditar su estado de abandono o maltrato;
 
 II. Alcohólicos y farmacodependientes, cuando por estas causas se encuentren en estado de abandono o indigencia;
 
@@ -3073,13 +3077,15 @@ El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la
 
 Artículo 255 bis.- Queda prohibida toda discriminación que atente contra la dignidad y los derechos de los adultos mayores.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 # LIBRO OCTAVO. DE LA DONACION DE ALIMENTOS
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO UNICO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. Del Objeto y de las Disposiciones Generales
 
@@ -3238,8 +3244,6 @@ III. Los que teniendo conocimiento de que los alimentos no se encuentran aptos p
 ###### Artículo 272.
 
 Para lo no previsto en el presente Libro se estará a lo señalado en el Libro Tercero de este Código.
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ## TRANSITORIOS
 
@@ -3417,4 +3421,8 @@ P.O. 22 DE JUNIO DE 2006.
 
 P.O. 22 DE AGOSTO DE 2006.
 
-ÚNICO.- el (sic) presente decreto entrará en vigor treinta días después de su publicacion en el Periódico Oficial "El Estado de Jalisco".
+ÚNICO.- el (sic) presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
