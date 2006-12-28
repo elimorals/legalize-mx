@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2006-09-14"
+last_updated: "2006-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -329,9 +329,15 @@ Para ser titular de las secretarías y dependencias del Ejecutivo a que se refie
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos políticos;
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
 II. Ser mayor de 21 años; y
 
-III. Reunir, además, los requisitos que la Constitución Política del Estado u otras leyes dispongan.
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+III. Contar con titulo profesional preferentemente en la materia que se trate o acredite experiencia en la misma al momento de su designación; y
+
+IV. Reunir, además, los requisitos que la Constitución Política del Estado u otras leyes dispongan.
 
 ###### Art. 30.
 
@@ -1842,3 +1848,7 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007
 SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
 
 TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
