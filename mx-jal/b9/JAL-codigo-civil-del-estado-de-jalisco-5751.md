@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2006-09-14"
+last_updated: "2006-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2729,9 +2729,17 @@ III. El tutor;
 
 IV. Los hermanos;
 
-V. El ministerio público; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2006)</small>
 
-VI. El Consejo de Familia.
+V. El pariente que lo tenga en custodia definitiva declarada judicialmente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+VI. El ministerio público; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+VII. El Consejo de Familia.
 
 ###### Art. 447.
 
@@ -3279,6 +3287,10 @@ III. El Consejo de Familia; o
 
 IV. El ministerio público.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+El juez deberá garantizar el derecho de audiencia y defensa de los parientes que tengan bajo su custodia al menor.
+
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### Art. 536.
@@ -3719,7 +3731,9 @@ IV. Por la revocación de la adopción simple.
 
 La patria potestad se pierde:
 
-I. Cuando quien la ejerce comete algún delito intencional que afecte al menor o a su patrimonio;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+I. Cuando quien la ejerce comete el delito de abandono de personas, u otro delito doloso, en perjuicio del menor o su patrimonio;
 
 II. Cuando el que la ejerce es condenado expresamente a su pérdida;
 
@@ -17638,3 +17652,7 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007
 SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
 
 TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
