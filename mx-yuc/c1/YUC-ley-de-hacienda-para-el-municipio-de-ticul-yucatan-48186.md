@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-ticul-yucatan-48186"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2006-01-03"
+last_updated: "2006-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TICUL, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -111,11 +111,15 @@ I.- El Ayuntamiento;
 
 II.- El Presidente Municipal;
 
-III.- El Tesorero Municipal;
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-IV.- El Titular de la oficina recaudadora, y
+III.- El Síndico;
 
-V.- El Titular de la oficina encargada de aplicar el procedimiento administrativo de ejecución.
+IV.- El Tesorero Municipal;
+
+V.- El Titular de la oficina recaudadora, y
+
+VI.- El Titular de la oficina encargada de aplicar el procedimiento administrativo de ejecución.
 
 ### Capítulo IV. De los Contribuyentes y sus Obligaciones
 
@@ -123,9 +127,11 @@ V.- El Titular de la oficina encargada de aplicar el procedimiento administrativ
 
 Las personas físicas o morales, mexicanas o extranjeras, domiciliadas dentro del Municipio de Ticul, Yucatán, o fuera de él, que tuvieren bienes o celebren actos dentro del territorio del mismo, están obligadas a contribuir para los gastos públicos del Municipio y a cumplir con las disposiciones administrativas y fiscales que se señalen en la presente ley, en la Ley de Ingresos del Municipio de Ticul, en el Código Fiscal del Estado de Yucatán, y en los Reglamentos Municipales.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 8.
 
-Para los efectos de esta ley, se entenderá por territorio municipal, el área geográfica que, para cada uno de los Municipios del Estado señala la Ley Orgánica de los Municipios del Estado de Yucatán o bien el área geográfica que delimite el Congreso del Estado en cualquiera de los casos previstos en la propia Ley Orgánica.
+Para los efectos de esta ley, se entenderá por territorio municipal, el área geográfica que, para cada uno de los Municipios del Estado señala la Ley de Gobierno de los Municipios del Estado de Yucatán; o bien el área geográfica que delimite el Congreso del Estado.
 
 ###### Artículo 9.
 
@@ -367,7 +373,9 @@ Estarán exentos de pago de Impuesto Predial, los bienes de dominio público de 
 
 Cuando en un mismo inmueble, se realicen simultáneamente actividades propias del objeto público, de las entidades u organismos mencionados en el párrafo anterior, y otras actividades distintas o accesorias, para que la Tesorería Municipal correspondiente esté en condiciones de determinar el impuesto a pagar, los organismos descentralizados, las empresas de participación estatal o quienes posean bajo cualquier título inmuebles del dominio público de la Federación, Estado o Municipio, deberán declarar, durante los primeros quince días del mes de diciembre de cada año, ante la propia Tesorería Municipal, la superficie ocupada efectivamente para la realización de su objeto principal señalando claramente la superficie que del mismo inmueble sea utilizado para fines administrativos o distintos a los de su objeto público.
 
-La Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación, de la declaración de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencia. En caso afirmativo, se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley Orgánica de los Municipios del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+La Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación, de la declaración de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencia. En caso afirmativo, se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 Sólo en los casos de que la estructura de algún inmueble no admita una cómoda delimitación o cuando no se presente la declaratoria a que se refiere el párrafo anterior, será la oficina de catastro municipal o estatal en caso de que el Municipio no cuente con este servicio, la que, tomando como base los datos físicos y materiales que objetivamente presente el inmueble, fije el porcentaje que corresponda a la superficie gravable, calcule su valor catastral y éste último, servirá de base a la Tesorería Municipal, para la determinación del impuesto a pagar.
 
@@ -621,7 +629,9 @@ II.- Las licencias, permisos o autorizaciones para el funcionamiento de establec
 
 III.- Las licencias para instalación de anuncios de toda índole, conforme a la reglamentación municipal correspondiente, y
 
-IV.- Otro tipo de permisos y autorizaciones de tipo eventual que se señalen en las leyes de ingresos de los Municipios.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+IV.- Los permisos y autorizaciones de tipo provisional señalados en los reglamentos municipales de Ticul.
 
 ###### Artículo 60.
 
@@ -637,11 +647,19 @@ Es base para el pago de los derechos a que se refiere la presente Sección:
 
 I.- En relación con el funcionamiento de giros relacionados con la venta de bebidas alcohólicas, la base del gravamen será el tipo de autorización, licencia, permiso o revalidación de estos, así como el número de días y horas, tratándose de permisos eventuales o de funcionamiento en horarios extraordinarios;
 
-II.- En relación con el funcionamiento de establecimientos o locales comerciales o de servicios el tipo de autorización, licencia, permiso o revalidación de estos, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+II.- En relación con el funcionamiento de establecimientos o locales comerciales o de servicios, el tipo de autorización, licencia, permiso o revalidación de éstos;
 
 III.-. Tratándose de licencias para anuncios, el metro cuadrado de superficie del anuncio;
 
-IV.- En el caso de las fracciones señaladas en este artículo, la autoridad municipal podrá determinar una cuota única por cada permiso otorgado, sin tomar en cuenta la base señalada en dichas fracciones.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+IV.- Para los permisos o autorizaciones de tipo provisional señalados en los reglamentos municipales, el tipo de solicitud, así como el tiempo de vigencia de la misma, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+V.- En el caso de las fracciones señaladas en este artículo, la autoridad municipal podrá determinar una cuota única por cada permiso otorgado, sin tomar en cuenta la base señalada en dichas fracciones.
 
 ###### Artículo 63.
 
@@ -1019,6 +1037,46 @@ Solamente quedarán exentos del pago de este derecho los bienes de dominio públ
 
 Los usuarios de este servicio están obligados a permitir que las autoridades fiscales verifiquen la información proporcionada con motivo de este servicio, pudiendo para ello practicar visitas domiciliarias o valerse de medios técnicos que permitan determinar con mayor precisión los consumos realizados.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+#### Sección Décimo (sic) Tercera. Derechos por el Servicio de Supervisión Sanitaria de Matanza de Animales de Consumo
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Artículo 124 A.- Es objeto de este derecho, la supervisión realizada por el ayuntamiento para la autorización de matanza de animales de consumo.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Artículo 124 B.- Son sujetos de estos derechos, las personas que soliciten la autorización para matanza de animales de consumo, en domicilio particular.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Artículo 124 C.- Será base de este derecho el número de animales a sacrificar.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Artículo 124 D.- El pago se realizará al recibir la autorización, y de conformidad con las cuotas fijadas en la Ley de Ingresos del Municipio.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+#### Sección Décimo (sic) Cuarta. Derechos por Servicio de Depósito Municipal de Vehículos
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Artículo 124 E.- Es objeto del Derecho de depósito municipal de vehículos, el servicio de guarda en dicho lugar de vehículos pesados, automóviles, motocicletas motonetas, triciclos y bicicletas.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Artículo 124 F.- Son sujetos de este derecho, las personas físicas o morales propietarias de los vehículos mencionados en el artículo anterior, que soliciten el servicio, o cuando la autoridad municipal determine el arrastre y depósito de los mismos.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Artículo 124 G.- Será base para el cobro de este derecho el número de días que cada vehículo permanezca en guarda.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Artículo 124 H.- El pago de los derechos a que se refiere esta sección se hará una vez proporcionado el servicio, y de acuerdo a las cuotas establecidas en la Ley de Ingresos del municipio.
+
 ### Capítulo III. Contribuciones de Mejoras
 
 ###### Artículo 125.
@@ -1121,17 +1179,23 @@ III.- Por los remates de bienes mostrencos;
 
 IV.- Por los daños que sufrieron las vías públicas o los bienes del patrimonio municipal afectados a la prestación de un servicio público, causados por cualquier persona.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 134.
 
-Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Municipio se llevarán a cabo conforme a lo establecido en la Ley Orgánica de los Municipios del Estado de Yucatán.
+Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Municipio se llevarán a cabo conforme a lo establecido en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
-El arrendamiento de bienes a que se refiere la fracción II del Artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente Municipal y el Secretario Municipal previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar de pago.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+El arrendamiento de bienes a que se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente Municipal y el Síndico previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar de pago.
 
 Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 135.
 
-Los bienes muebles e inmuebles propiedad del Municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de lo establecido en la Ley Orgánica de los Municipios del Estado de Yucatán.
+Los bienes muebles e inmuebles propiedad del Municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de lo establecido en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 ###### Artículo 136.
 
@@ -1327,9 +1391,11 @@ En todo caso, se aplicarán a los remates las reglas que para tal efecto fije el
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 157.
 
-Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley Orgánica de los Municipios del Estado de Yucatán y el Código Fiscal del Estado de Yucatán.
+Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley de Gobierno de los Municipios del Estado de Yucatán y el Código Fiscal del Estado de Yucatán.
 
 Cuando se trate de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación o en juicio de nulidad, de conformidad con lo dispuesto en el Código Fiscal de la Federación. En este caso, los recursos que se promueven se tramitarán y resolverán en la forma prevista en dicho Código.
 
@@ -1384,3 +1450,11 @@ OFICIAL MAYOR
 Q.I.- RAÚL ARCEO ALONZO
 
 Quienes firman por la ausencia temporal del C. Gobernador del Estado, de conformidad a lo dispuesto por el artículo 25 de la Ley Orgánica de la Administración Pública del Estado de Yucatán.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 28 DE DICIEMBRE DE 2006.
+
+###### ARTICULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
