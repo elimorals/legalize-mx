@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2005-12-14"
+last_updated: "2006-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -1799,15 +1799,17 @@ Los vehículos automotores cuyos niveles de emisión de contaminantes a la atmó
 
 ###### Artículo 145.
 
-La Agencia, en coordinación con los Municipios, podrá establecer y operar sistemas de verificación vehicular con el objeto de controlar las emisiones contaminantes provenientes de los vehículos automotores destinados al transporte privado. Dicha verificación deberá efectuarse conforme a los programas estatales y municipales que se establezcan, y de acuerdo al procedimiento que establezca el Reglamento de la presente Ley.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2006)
 
 ###### Artículo 146.
 
-La Agencia, en coordinación con los Municipios, podrá emitir lineamientos técnicos para el establecimiento y operación de los sistemas de verificación de vehículos automotores destinados al transporte privado, de conformidad con lo que establezca el Reglamento de la presente Ley, así como las Normas Oficiales Mexicanas y Normas Ambientales Estatales que en su caso, correspondan.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 147.
 
-La Agencia podrá establecer y operar sistemas de verificación vehicular para prevenir y controlar las emisiones contaminantes provenientes de los vehículos automotores destinados al servicio público de transporte estatal y al de servicio privado de uso intensivo. Dicha verificación deberá efectuarse conforme al programa que al efecto establezca la Agencia, y al procedimiento que establezca el Reglamento de esta Ley, en coordinación con las autoridades correspondientes.
+La Agencia, previa justificación de que las emisiones de contaminantes a la atmósfera rebasen los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas o Normas Ambientales Estatales, podrá establecer y operar sistemas de verificación vehicular para prevenir y controlar las emisiones contaminantes provenientes de los vehículos automotores destinados al servicio de transporte estatal. Dicha verificación deberá efectuarse conforme al programa que al efecto establezca la Agencia, y al procedimiento que fije el Reglamento de esta ley, en coordinación con las autoridades correspondientes.
 
 ###### Artículo 148.
 
@@ -1819,7 +1821,7 @@ La Agencia, con la intervención de los Municipios, establecerá los requisitos,
 
 ###### Artículo 150.
 
-La Agencia, con la participación en su caso, de la autoridad municipal correspondiente, podrá limitar la circulación de vehículos automotores en el Estado, incluyendo los que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes, por otras entidades federativas o por el extranjero, en casos de contaminación ostensible, o para prevenir y reducir las emisiones contaminantes, en los términos de los ordenamientos aplicables.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2006)
 
 ###### Artículo 151.
 
@@ -2906,3 +2908,7 @@ NAPOLEÓN CANTÚ CERNA
 P.O. 14 DE DICIEMBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
