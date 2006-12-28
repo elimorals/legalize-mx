@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2004-12-04"
+last_updated: "2006-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -185,9 +185,23 @@ XIV. Prevenir y tratar los trastornos alimenticios en adolescentes.
 
 Las niñas, los niños y adolescentes tienen derecho a un ambiente familiar sano que favorezca su desarrollo integral. En caso de que se encuentren separados de uno o de ambos padres, tienen derecho a mantener relaciones personales con cualquiera de ellos, salvo los casos previstos por las leyes correspondientes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Las niñas, los niños y adolescentes no podrán ser separados de sus padres sino mediante orden de autoridad competente que así lo declare, escuchándose de ser posible su opinión.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 11.
 
-Las niñas, los niños y adolescentes no podrán ser separados de sus padres sino mediante orden judicial que así lo declare, escuchándose de ser posible su opinión.
+Son obligaciones de madres, padres y de todas las personas que tengan a su cuidado niñas, niños y adolescentes:
+
+A. Proporcionarle una vida digna, procurando la satisfacción de alimentación, así como el pleno y armónico desarrollo de su personalidad en el seño de la familia, la escuela, la sociedad y las instituciones, de conformidad con lo dispuesto en el presente artículo.
+
+Para los efectos de este precepto, la alimentación competente esencialmente la satisfacción de las necesidades de comida, habitación, educación, vestido, asistencia en caso de enfermedad y recreación.
+
+B. Protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata y explotación. Lo anterior implica que la facultad que tienen quienes ejercen la patria potestad o la custodia de niñas, niños y adolescentes no podrán al ejercerla atentar contra su dignidad física o mental, ni actuar en menoscabo de su desarrollo.
+
+El hecho de que los padres no vivan en el mismo hogar, no impide que cumplan con las obligaciones que le impone la ley.
 
 ###### Artículo 12.
 
@@ -728,3 +742,7 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 P.O. 4 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
