@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2006-08-15"
+last_updated: "2006-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -299,7 +299,13 @@ XIX. Internamiento o tratamiento en libertad vigilada de sujetos con imputabilid
 
 XX. Tratamiento de deshabituación o desintoxicación;
 
-XXI. Trabajo en libertad en beneficio de la comunidad; y
+XXI. Trabajo en libertad en beneficio de la comunidad; y (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+XXII. Pérdida definitiva de la patria potestad, tutela o custodia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 XXII. Las demás que fijen las leyes.
 
@@ -2383,7 +2389,7 @@ Se impondrán de dos a seis años de prisión al que exponga en una casa de exp�
 
 ### CAPITULO IX. Abandono de personas
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 179.
 
@@ -3067,7 +3073,11 @@ Tampoco lo será cuando, de no provocarse el aborto, la mujer embarazada corra p
 
 ###### Art. 230.
 
-Se impondrán de un mes a cuatro años de prisión, suspensión hasta por cinco años de los derechos de patria potestad o tutela, según el caso y privación del derecho a heredar del ofendido, al que abandone un niño menor de doce años, a una persona enferma, o que padezca enajenación mental, poniendo en peligro la salud o la vida de ellos, siempre que tuviere la obligación de cuidarlos.
+Se impondrá de un mes a cuatro años de prisión, suspensión hasta por cinco años de los derechos de tutela, a quien abandone a persona enferma o que padezca enajenación mental, siempre que tuviera la obligación de cuidarlo.
+
+Además de la pena privativa de libertad, señalada en el párrafo anterior, se impondrá al activo la pérdida definitiva del derecho de tutela y a heredar del ofendido, cuando el abandono ponga en peligro su vida.
+
+A quien en el ejercicio de la patria potestad, tutela o custodia, abandone a un menor de edad sin causa justificada, además de la pena de prisión que establece el párrafo primero, se impondrá la pérdida de la patria potestad, tutela o custodia en forma definitiva; y si se pusiera intencionalmente en peligro la salud o la vida, podrá incrementarse la sanción hasta el doble de la pena máxima establecida en el primer párrafo de este artículo.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -3171,7 +3181,9 @@ II. El objeto del robo sea un libro, un expediente o algún documento de una ofi
 
 III. Se cometa aprovechando alguna relación de servidumbre, trabajo, hospedaje, hospitalidad, confianza, amistad o parentesco;
 
-IV. Se cometa en lugar cerrado o en edificio, vivienda, aposento o cuarto que estén destinados para habitación, comprendiéndose en esta denominación no solo los que estén fijos en la tierra, sino también movibles, sea cual fuere la materia de que estén construidos;
+IV. De seis a diez años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
+
+En todos los casos de robo para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por Perito; y
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -3260,8 +3272,6 @@ II. De siete años seis meses a trece años de prisión y multa por el importe d
 III. De nueve a quince años de prisión y multa por el importe de cuarenta a ciento veinte días de salario, cuando el valor de lo robado exceda del monto de mil días de salario;
 
 IV. De seis a diez años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
-
-En todos los casos de robo para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por Perito; y
 
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 1998)</small>
 
@@ -4404,3 +4414,7 @@ Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Sec
 P.O. 15 DE AGOSTO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE DICIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
