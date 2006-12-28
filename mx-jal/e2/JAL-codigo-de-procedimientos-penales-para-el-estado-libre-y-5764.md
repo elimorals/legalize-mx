@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2006-01-12"
+last_updated: "2006-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -736,6 +736,14 @@ e) Tan luego lo solicite, si procede, se le otorgue el beneficio de la libertad 
 f) Si el detenido desconoce el castellano, se le designará un traductor para que lo asista, quien le hará saber los derechos que tiene; si éste perteneciere a una etnia, se informará al Instituto Nacional Indigenista. Si se tratare de extranjeros la detención se comunicará de inmediato a la representación diplomática o consular que corresponda, o a la delegación de servicios migratorios; y
 
 IV. En todo caso se mantendrán separados los hombres y las mujeres en los lugares de detención o reclusión.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+En los casos en que el Ministerio Público tenga conocimiento de la probable existencia de un delito en agravio de un menor en el que se atente contra su integridad física, psíquica o psicológica de manera evidente, cometido presuntamente por alguna de las personas que ejerzan la patria potestad o la custodia, se podrá decretar el depósito provisional del menor por un plazo máximo de treinta días a cargo de familiares del menor, prefiriendo a los parientes consanguíneos o a instituciones de asistencia social. De lo anterior el Ministerio Público notificará al Consejo Estatal de Familia, para los efectos legales correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Las instituciones de asistencia social o de salud que reciban recursos públicos, tendrán la obligación de recibir a los menores en depósito provisional por acuerdo del Ministerio Público que así lo ordene, todos los días del año, las veinticuatro horas del día, sin limitación de edad, ni condición física, mental o emocional de los menores, con supervisión del Consejo Estatal de Familia.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2003)</small>
 
@@ -3672,3 +3680,7 @@ Segundo.- Previa la entrada en vigor el Titular del Poder Ejecutivo implementar�
 > <small>(F. DE E., P.O. 6 DE ABRIL DE 2006)</small>
 
 Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Secretarías de Finanzas y Administración, en coordinación con la de Vialidad y Transporte, para realizar las adecuaciones presupuéstales y las adquisiciones necesarias de los instrumentos de medición y capacitación al personal en el manejo de estos, para el debido cumplimiento del presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
