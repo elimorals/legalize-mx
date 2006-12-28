@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-acanceh-yucatan-48198"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2006-01-03"
+last_updated: "2006-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,1151 +23,547 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE ACANCEH, YUCATAN
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY DE HACIENDA DEL MUNICIPIO DE ACANCEH, YUCATAN
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2026.
+Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el 3 de enero de 2006.
 
-Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
+GOBIERNO DEL ESTADO
 
-PASCUAL ORTIZ RUBIO, Gobernador Constituciodal (sic) del Estado de Michoacán de Ocampo, a todos sus habitantes hace saber que.
+PODER EJECUTIVO
 
-La XXXVI Legislatura del Estado, en su carácter de Constituyente, ha tenido a bien expedir la siguiente Constitución.
+DECRETO NÚMERO 645
 
-El Pueblo Michoacano representado por su XXXVI Legislatura Constitucional, con carácter de Constituyente, ha tenido a bien expedir la siguiente
+ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ Y Q. I. RAÚL ARCEO ALONZO, POR AUSENCIA TEMPORAL DEL C. GOBERNADOR DEL ESTADO DE YUCATÁN, A SUS HABITANTES HACEMOS SABER:
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
+EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN EL ARTÍCULO 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, AMBAS DEL ESTADO DE YUCATÁN;
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+D E C R E T A:
+
+Artículo Primero.- Se aprueban las Leyes de Hacienda de los Municipios de: Acanceh, que contiene 154 artículos; Izamal, que contiene 164 artículos; Oxkutzcab, que contiene 163 artículos; Tecoh, que contiene 165 artículos; y Ticul, que contiene 160 artículos; todos del Estado de Yucatán.
+
+Artículo Segundo.- Las Leyes de Hacienda a que se refiere el artículo anterior, se describen en cada una de las fracciones siguientes:
+
+I.- LEY DE HACIENDA DEL MUNICIPIO DE ACANCEH, YUCATÁN.
 
 ## TÍTULO PRIMERO
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+### Capítulo I. Disposiciones Generales
 
-### CAPÍTULO I. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
+###### Artículo 1.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2019)</small>
+La presente ley es de orden público y tiene por objeto:
 
-###### Artículo 1º.
+I.- Establecer las contribuciones y demás ingresos que percibirá la Hacienda Pública del Municipio de Acanceh, Yucatán, conforme a la normatividad establecida en materia recaudatoria de la Federación y del Estado de Yucatán, para el cumplimiento de sus funciones y facultades municipales;
 
-En el Estado de Michoacán de Ocampo todas las personas gozarán de los derechos humanos que reconoce la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Federal señala, así como de los demás derechos establecidos en esta Constitución y en las leyes que de ambas emanen.
+II.- Establecer y regular las obligaciones y derechos que en materia administrativa y fiscal municipal tendrán las autoridades y los sujetos que por disposición de esta ley se encuentren en alguna situación generadora de una contribución municipal, y
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+III.- Determinar las reglas para la realización del cobro de las contribuciones municipales y las multas a que se hagan acreedores quienes incumplan las disposiciones de esta ley.
 
-Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Federal, con los tratados internacionales de la materia y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+###### Artículo 2.
 
-Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+El Ayuntamiento deL Municipio de Acanceh, Yucatán, para cubrir los gastos de su administración y demás obligaciones a su cargo percibirá, por conducto de su respectiva hacienda, los ingresos por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones, aportaciones e ingresos extraordinarios que se establecen en esta ley y en la Ley de Ingresos, en términos de lo dispuesto en la Constitución Política y en la Ley de Gobierno de los Municipios, ambas del Estado de Yucatán.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+DE LAS DISPOSICIONES FISCALES MUNICIPALES
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, la identidad y la expresión de género, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+###### Artículo 3.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+Son disposiciones fiscales municipales:
 
-###### Artículo 2º.
+I.- La presente Ley de Hacienda;
 
-Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
+II.- La Ley de Ingresos del Municipio de Acanceh, Yucatán;
 
-La familia tendrá la protección del Estado. El matrimonio se funda en la igualdad de derechos para ambos cónyuges, y podrá disolverse por mutuo acuerdo o a petición de cualquiera de los consortes en los términos que establezcan las leyes.
+III.- Las disposiciones que autoricen ingresos extraordinarios, y
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+IV.- Los reglamentos municipales y las demás leyes, que contengan disposiciones de carácter hacendaria.
 
-La mujer y el hombre son iguales ante la ley. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres. Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños.
+DE LA LEY DE INGRESOS
 
-Los padres están obligados a alimentar, educar e instruir a sus hijos, fomentando su desarrollo cultural. El Estado velará por el cumplimiento de estos deberes, y dictará normas para el logro de la suficiencia económica de la familia; para evitar el abandono de los acreedores alimentarios, por sus deudores; y, para instituir proteger el patrimonio de familia.
+###### Artículo 4.
 
-En todas las decisiones y actuaciones del Estado, en el ámbito de su competencia, se velará y cumplirá con el principio del interés superior de la niñez, reconociendo y garantizando de manera plena sus derechos. Además de los que se establezcan en la ley de la materia, los niños y las niñas, tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación, inclusión, a la identidad, a la familia, a recibir los servicios para la atención, cuidado y desarrollo integral infantil en condiciones de calidad, calidez, seguridad, sano esparcimiento para su desarrollo integral. Este principio, deberá guiar todas las acciones afirmativas, la protección integral, el diseño, presupuesto, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez, las cuales deberán contribuir a su formación física, psicológica, económica, social, cultural, ambiental, ética, cívica, además de evitar y sancionar el maltrato y abusos que afecten su desarrollo.
+La Ley de Ingresos del Municipio de Acanceh, Yucatán, será publicada en el Diario Oficial del Estado de Yucatán, a más tardar el día treinta y uno de diciembre de cada año y entrará en vigor a partir del primero de enero del año siguiente y contendrá los montos y el origen de los recursos que ejercerá el Ayuntamiento durante cada ejercicio presupuestal con base en las contribuciones establecidas en la presente ley y demás ingresos por financiamiento o que de manera extraordinaria reciba.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2021)</small>
+DE LA SUJECIÓN A LA LEY
 
-Toda persona tiene derecho a una existencia digna, a la alimentación, a la educación, a la cultura, al trabajo y a la protección de la salud. El Estado promoverá el desarrollo físico, moral, intelectual, social y económico del pueblo.
+###### Artículo 5.
 
-Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.
+Cualquier disposición dictada o convenio celebrado por autoridad fiscal competente, deberá sujetarse al tenor de la presente ley y ordenamientos Estatales y Federales. En consecuencia carecerá de valor y será nulo de pleno derecho toda disposición dictada o convenio celebrado, en contravención con lo establecido en esta ley y las demás disposiciones normativas señaladas.
 
-Toda persona podrá ejercer el derecho de petición ante las autoridades del Estado y sus municipios, siempre que está se formule por escrito de manera pacífica y respetuosa; a toda petición deberá recaer un acuerdo por escrito de la autoridad a quien se haya dirigido, la cual tiene la obligación de hacerlo conocer en breve término al peticionario.
+DE LA APLICACIÓN ESTRICTA DE LA LEY
 
-Este derecho podrá ser ejercido por vía electrónica, correo postal, mensajería o telégrafo o en los medios y casos en que las autoridades así lo determinen.
+###### Artículo 6.
 
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2026)</small>
+Las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que definen las infracciones y fijan sanciones, son de aplicación estricta. Se considerará que establecen cargas a los particulares, las normas que se refieren a sujeto, objeto, base, tasa o tarifa y exenciones.
 
-Toda persona tiene el derecho humano a vivir en una sociedad libre de corrupción y buena administración, a la fiscalización y a la rendición de cuentas públicas.
+Para efectos de ley se entiende por:
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+OBJETO.- Al elemento económico sobre el que se asienta la contribución.
 
-La movilidad es el derecho humano a trasladarse y a disponer de un sistema de movilidad de calidad, suficiente y accesible que, en condiciones de igualdad y sostenibilidad, permita el desplazamiento de personas, bienes y mercancías, el cual deberá contribuir al ejercicio y garantía de los demás derechos humanos, por lo que las personas serán el centro del diseño y del desarrollo de los planes, programas, estrategias y acciones en la materia.
+SUJETO.- A la persona física o moral, obligada al pago de la contribución.
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2025)</small>
+BASE.- Al valor asignado en efectivo, en especie, en servicios o en crédito que esta ley señala como monto gravable y al cual se aplica una tasa, cuota o tarifa determinada.
 
-Esta Constitución, reconoce a la Lengua de Señas Mexicana como un medio de comunicación y un derecho de las personas sordas, de conformidad con los principios de transversalidad, accesibilidad y no discriminación. En el Estado de Michoacán de Ocampo, se identifica a la Lengua de Señas Mexicana como una lengua oficial y que forma parte del patrimonio lingüístico.
+TASA.- Al porcentaje que se aplica a la base para determinar el monto de la contribución.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2020)</small>
+TARIFA.- Al agrupamiento ordenado de cuotas y tasas, que contienen límites inferiores y superiores en rangos progresivos.
 
-Artículo 2° bis.- En el Estado de Michoacán de Ocampo, las personas tienen derecho al disfrute pleno de la ciudad, de sus espacios públicos, bajo los principios de sustentabilidad, justicia social, respeto a la diversidad cultural y equilibrio entre lo urbano y lo rural. El ejercicio del derecho a la ciudad se basa en la gestión democrática de ésta, en la función social, ambiental de la propiedad y de la distribución equitativa de bienes públicos de la ciudad.
+EXENCIONES.- A determinadas circunstancias que, de manera particular, eximen a ciertos sujetos de las contribuciones, no obstante que exista la realización del hecho generador del tributo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+###### Artículo 7.
 
-###### Artículo 1°.
+Cualquier disposición dictada o convenio celebrado por autoridad fiscal competente, deberá sujetarse al tenor de la presente ley, en caso contrario serán nulos de pleno derecho.
 
-Esta Constitución se publicará con la mayor solemnidad y comenzará a regir el día 5 de febrero del año en curso, fecha en la cual rendirán la protesta de ley ante la Legislatura, que para ese efecto se reunirá el Gobernador, los Magistrados Propietarios del Supremo Tribunal de Justicia del Estado y el Secretario General del Despacho.
+###### Artículo 8.
 
-Los demás Funcionarios y empleados protestarán al día siguiente ante las autoridades que corresponda.
+A falta de norma fiscal expresa se aplicarán supletoriamente el Código Fiscal de la Federación, la Ley General de Hacienda para los Municipios del Estado de Yucatán y el Código Fiscal ambos del Estado de Yucatán, y las demás disposiciones fiscales y normas legales del Estado de Yucatán, en cuanto sean aplicables y siempre que su aplicación no sea contraria a la naturaleza propia del derecho fiscal.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1918)</small>
+###### Artículo 9.
 
-###### Artículo 2o.
+La ignorancia de la presente Ley de Hacienda y demás disposiciones fiscales de observancia general debidamente publicadas, no servirá de excusa, ni aprovechará a persona alguna.
 
-El actual período constitucional terminará para el Gobernador y los Magistrados del Supremo Tribunal de Justicia el quince de sedtiembre (sic) de mil novecientos veinte y para la XXXVI Legislatura, el 15 de septiembre de mil novecientos dieciocho.
-
-###### Artículo 3°.
-
-El Congreso del Estado, el día primero de febrero del presente año se erigirá en Colegio Electoral para designar los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia.
-
-###### Artículo 3°.
-
-El Estado de Michoacán tiene una composición pluricultural, pluriétnica y multilingüe sustentada originalmente en sus pueblos y comunidades indígenas.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Se reconoce la existencia de los pueblos indígenas, originarios, P’urhépecha, Nahua, Hñahñú u Otomí, Jñatjo o Mazahua, Matlatzinca o Pirinda y a todos aquellos que preservan todas o parte de sus instituciones económicas, sociales, culturales, políticas y territoriales, garantizándole los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y los Instrumentos Internacionales relacionados en la materia.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Ninguno de los derechos previstos en esta Constitución o en la legislación local, podrá ser invocado para conculcar otras prerrogativas obtenidas por los pueblos y comunidades indígenas del país en otras normas y/o resoluciones.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Las comunidades indígenas son aquellas que se autodeterminan pertenecientes a un pueblo indígena, las cuales constituyen estructuras de organización política, social, económica y cultural, asentadas en un territorio, que tienen autoridades, formas de elección y representación propias, de acuerdo a sus sistemas normativos y de gobierno interno.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Esta Constitución reconoce la composición pluricultural del Estado y en consecuencia, la demodiversidad materializada en los diferentes sistemas, principios, normas, instituciones, prácticas democráticas y de gobierno de los pueblos y de las comunidades indígenas del Estado.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-La conciencia de identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas. En la aplicación serán considerados los principios de autoidentidad y autoadscripción.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-El derecho a la libre determinación de los pueblos indígenas, asentados en el Estado de Michoacán, se ejercerá en un marco constitucional de autonomía y autogobierno en sus ámbitos comunal, municipal, regional y como pueblo indígena.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-El Estado reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Los pueblos y las comunidades indígenas tendrán los derechos siguientes:
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
-
-I. A decidir y ejercer sus formas internas de gobierno, sus propios sistemas de participación, elección y organización social, económica, política y cultural, a través de las diversas formas y ámbitos de autonomía comunal, regional y como pueblo indígena;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-II. A decidir y ejercer sus formas de autogobierno indígena;
-
-Se reconocen como dimensiones mínimas del derecho al autogobierno indígena, las siguientes:
-
-a) La elección por sistemas normativos o usos y costumbres de sus autoridades y Gobiernos Comunales;
-
-b) La integración de los Gobiernos Comunales, como manifestación de las formas de gobierno y organización políticas propias de las comunidades;
-
-c) La administración directa del presupuesto y el ejercicio de funciones de gobierno por parte de comunidades indígenas con carácter de tenencias y encargaturas del orden independientes, de conformidad con lo señalado en la Ley; y,
-
-d) Contar con representación dentro de los ayuntamientos que cuenten con población indígena privilegiando para tal efecto los sistemas normativos o usos y costumbres de las comunidades y observando el principio de paridad de género conforme a las normas aplicables.
-
-El Estado garantiza el derecho de las mujeres indígenas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud y demás derechos humanos.
-
-Se reconoce al Concejo Mayor de Gobierno Comunal de Cherán, así como aquellos que logren dicha categoría, a los Concejos Comunales, a los Concejos de Autogobierno y a la Coordinación Comunal como expresiones de Gobierno Comunal y autoridades representativas investidas de personalidad jurídica y patrimonio propio. La máxima autoridad al interior de las comunidades bajo el régimen del autogobierno indígena en el Estado de Michoacán es la Asamblea General de Habitantes.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-I. Bis. Las faenas y servicios comunales son reconocidas por esta constitución como una institución, un valor y una práctica de fundamental importancia para la vida de las comunidades indígenas y para la demodiversidad de Michoacán. Las faenas derivadas de acuerdos de asambleas y en favor del beneficio general de las comunidades serán consideradas como contribuciones a la hacienda municipal y estatal, sin que la práctica de éstas excluyan o sustituyan de algún modo la responsabilidad de los gobiernos estatal y municipal de asignar las partidas necesarias para garantizar el desarrollo de los pueblos indígenas;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-II (SIC). A la libre asociación y coordinación de sus acciones y aspiraciones como comunidades, regiones y pueblos indígenas;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-III. A participar en la integración plural en los órganos y entidades de gobierno estatal y municipal;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-IV. A la seguridad, en tanto derecho humano garantizado por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales, y especialmente a la seguridad comunal entendida como un conjunto de principios, instituciones, autoridades, procedimientos y prácticas que tienen como objetivo principal salvaguardar a la comunidad indígena como unidad integral; a las personas que en ella habitan, a los territorios donde se asientan, a los valores, culturas, idiomas y conocimientos.
-
-Esta Constitución reconoce a las kuarichas, a las K’uajpirichas, a las guardias comunales y a los rondines comunales en comunidades indígenas, integrados conforme a los sistemas normativos o usos y costumbres y a la legislación aplicable federal y estatal en materia de seguridad, como instituciones de la seguridad comunal;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-V. A la consulta y a los mecanismos de participación ciudadana previstos en esta Constitución, cuando se prevean ejecutar acciones y medidas administrativas o legislativas que los afecten;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-VI. A la aplicación de sus sistemas normativos para la regulación y solución de sus conflictos en la jurisdicción interna, respetando la interpretación intercultural de los derechos humanos y los principios generales de esta Constitución. La ley establecerá los casos y procedimientos de validación por los jueces y tribunales correspondientes;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-VII. Al acceso a la procuración e impartición de justicia en su propia lengua; en los juicios y procedimientos en que sean parte de forma individual o colectiva, se considerarán durante todo el proceso y en las resoluciones, sus sistemas normativos y especificidades culturales; serán asistidos preferentemente con defensores, y con traductores intérpretes en lenguas, culturas y sistemas normativos indígenas;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-VIII. Al acceso, uso, disfrute, protección y conservación de sus tierras, territorios, recursos naturales y biodiversidad, conforme a las formas y modalidades de propiedad y tenencia de la tierra;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-IX. Al reconocimiento, ejercicio y salvaguarda de los derechos de propiedad, posesión de tierras, territorios y recursos naturales, donde se encuentren asentados los pueblos, comunidades y regiones indígenas. La Gobernadora o Gobernador del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-X. A preservar, desarrollar, controlar, difundir y promover su patrimonio cultural tangible e intangible. La ley reglamentaria y las autoridades indígenas establecerán las medidas que permitan proteger la titularidad de los derechos sobre el patrimonio de los pueblos indígenas;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-XI. Al ejercicio, fortalecimiento y desarrollo de la medicina tradicional e indígena; y a los sistemas de salud comunitaria;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-XII. Al reconocimiento, uso, rescate, preservación, fortalecimiento y difusión de las lenguas indígenas. El Estado y los pueblos indígenas fomentarán las políticas públicas y creación de instancias para el estudio y desarrollo de las lenguas originarias;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-XIII. A una educación indígena, intercultural, multilingüe y multicultural, en todos los niveles educativos, a través de un sistema que defina y reconozca sus propios modelos y métodos culturales de enseñanza y aprendizaje, cuyos enfoques y contenidos serán diseñados, reconocidos y garantizados de manera conjunta entre el Estado y los pueblos indígenas siempre acorde con lo establecido en la Constitución Federal y las disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-XIV. A adquirir, desarrollar, operar y administrar medios y sistemas de comunicación y difusión, de conformidad con las leyes de la materia. La Gobernadora o Gobernador del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-XV. Al desarrollo local con identidad cultural y territorial, a partir de modelos propios de economía, en los ámbitos comunal y regional, que de forma coordinada se implementen con los diferentes órdenes de gobierno;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-XVI. A la participación y consulta en la elaboración del Plan Estatal de Desarrollo y en los Planes de Desarrollo Municipales, incorporando las recomendaciones y propuestas que se realicen en los presupuestos;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-XVII. Al reconocimiento y protección de derechos de las mujeres indígenas, a través de normas, políticas y acciones que garanticen su desarrollo y la igualdad de oportunidades en los ámbitos económico, social, cultural, político, educativo, civil y agrario; considerando la especificidad cultural comunitaria y promoviendo su participación ciudadana;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-XVIII. A la protección de derechos de los migrantes indígenas, mediante normas, políticas y acciones que garanticen el desarrollo de las personas, familias y comunidades migrantes. Los migrantes indígenas de otras entidades federativas, que residan temporal o permanentemente en el Estado, gozarán de los mismos derechos;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-XIX. A que la normatividad en la materia, procure asegurar el acceso a la representación política de los pueblos y comunidades indígenas en los cargos de elección y representación popular;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-XX. A que los partidos políticos, bajo los principios del pluralismo político y cultural, procuren la participación de los pueblos y comunidades indígenas para el acceso a los cargos de elección y representación popular;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-XXI. La Gobernadora o Gobernador del Estado, establecerá los mecanismos para el reconocimiento de una instancia estatal de representación y vinculación de autoridades indígenas ante los órganos de gobierno; para participar en las instituciones y determinaciones de políticas públicas de atención a los pueblos y comunidades indígenas.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-XXII. A que los Ayuntamientos respectivos, sesionen y emitan el Acuerdo de cabildo correspondiente en aquellos casos en los que las comunidades indígenas decidan ejercer su derecho al autogobierno y administrar directamente el presupuesto público, conforme a lo señalado en la Ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-El presupuesto anual del Gobierno del Estado relativo a programas establecidos de infraestructura social, educativa e hídrica deberá contemplar presupuesto para ser administrado por las comunidades indígenas de autogobierno y presupuesto directo, con base en los criterios poblacional, compensatorios, equitativos, justos y proporcionales, en los términos de las leyes aplicables.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Asimismo, el presupuesto anual deberá de contemplar dentro de los programas de seguridad pública estatal un rubro en seguridad pública para garantizar sus prácticas de seguridad comunal, el cual deberá ser administrado directamente por el Gobierno Comunal de Autogobierno en términos de la legislación aplicable.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Las leyes correspondientes fijarán los medios, formas y términos para garantizar el ejercicio de los derechos de los pueblos y comunidades indígenas establecidos en esta Constitución.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 4°.
-
-Por esta única vez, la Legislatura se reunirá en sesiones ordinarias el día dos de abril del corriente año, y el período respectivo terminará el 31 de mayo del mismo año.
-
-###### Artículo 5°.
-
-El Estado de Michoacán de Ocampo se reserva los derechos que le otorga la Constitución General de la República, para rectificar sus límites con el Estado de Guerrero.
-
-###### Artículo 6°.
-
-Se ratifican todas las leyes y los acuerdos dictados por la XXXVI Legislatura, desde el 10 de julio de 1917 hasta la fecha de esta Constitución.
-
-###### Artículo 7°.
-
-Quedan extinguidas de pleno derecho las deudas que por razón de trabajo hayan contraído los trabajadores con sus patrones o los familiares o intermediarios de éstos hasta la fecha de la presente Constitución.
-
-###### Artículo 8°.
-
-El Congreso expedirá con preferencia y a la mayor brevedad, las leyes que conforme a los artículos 27, 117 fracción VIII, 123 y 130 de la Constitución General, le compete dictar.
-
-###### Artículo 8°.
-
-Son derechos de los ciudadanos votar y ser votados en las elecciones populares en condiciones de paridad de género; intervenir y participar, individual o colectivamente, en las decisiones públicas, en la formulación, ejecución y evaluación de las políticas, programas y actos de gobierno a través de los mecanismos de participación ciudadana previstos por la ley de la materia; desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, atendiendo el principio de paridad de género conforme a las normas aplicables y cuando se reúnan las condiciones que la ley exija para cada caso; y los demás que señala el artículo 35 de la Constitución Federal. Las dependencias y entidades de la Administración Pública, Estatal y municipales, así como, los órganos constitucionales autónomos que se determinen en la ley, en el ámbito de sus respectivas atribuciones, en concordancia con esta Constitución y las normas que las regulan, están obligadas a establecer los mecanismos de participación ciudadana y garantizar el derecho de los ciudadanos a utilizarlos en los términos que establezcan las normas que al efecto se emitan.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-Toda persona tendrá derecho a expresar sus ideas, las cuales no serán objeto de ninguna inquisición judicial o administrativa, de conformidad a lo previsto en la Constitución Federal. El derecho de réplica será ejercido en los términos dispuestos por la Ley.
-
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
-
-A fin de garantizar el derecho a difundir información y a la defensa de los derechos humanos, el Estado implementará un conjunto de mecanismos y medidas para garantizar la vida, integridad, libertad y seguridad de las personas que ejerzan el periodismo, la libertad de expresión y la defensa de los derechos humanos, con el fin de inhibir los factores de riesgo que favorezcan las agresiones o daño a la integridad física o psicológica de estas.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO CON SUS FRACCIONES], P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-Toda persona tendrá derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión, el que se regirá por los siguientes principios y bases:
-
-I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2025)</small>
-
-II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
-
-Por lo que hace a la información relacionada con los datos personales en posesión de particulares, la legislación secundaria aplicable en la materia determinará la competencia para conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones;
-
-III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2025)</small>
-
-IV. La ley establecerá los mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes;
-
-V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2025)</small>
-
-VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2025)</small>
-
-VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes; y,
-
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2025)</small>
-
-VIII. Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos en el ámbito estatal y municipal para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
-
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2025)</small>
-
-Este derecho a la información deberá ser garantizado por el Estado. La ley establecerá aquella información que se considere reservada o confidencial.
-
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2025)</small>
-
-Los sujetos obligados se regirán por la legislación en materia de transparencia y acceso a la información pública y protección de datos personales, en términos que ésta sea emitida por la autoridad competente para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
-
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2025)</small>
-
-El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 9º.
-
-Son obligaciones de los ciudadanos, desempeñar los cargos de elección popular del Estado y del Municipio, para los que fueren designados, y las contenidas en el artículo 36 de la Carta Fundamental del país.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 9°.
-
-La presente Constitución substituye a la del Estado expedida en 21 de enero de 1858.
+### Capítulo II. De las Autoridades Fiscales
 
 ###### Artículo 10.
 
-Se derogan las leyes, decretos y Reglamentos vigentes en el Estado, en todo lo que se oponga al cumplimiento de la presente Constitución.
+Para los efectos de la presente ley, son autoridades fiscales municipales:
 
-Salón de Sesiones del H. Congreso.- Morelia, enero 31 de 1918 mil novecientos dieciocho.- PRESIDENTE, Diputado Suplente por el décimo quinto Distrito Electoral, Zamora, M. Jiménez.- VICE-PRESIDENTE, Diputado por el sexto Distrito Electoral, Zitácuaro, Miguel Reyes.- SECRETARIO, Diputado por los Distritos Electorales octavo y décimo primero, correspondientes a Tacámbaro y Uruapan, J. Silva.- PRO SECRETARIO, Diputado por el décimo cuarto Distrito Electoral, Jiquilpan, F. R. Castellanos.- PRO SECRETARIO, Diputado por el quinto Distrito Electoral, Maravatío, Timoteo Guerrero.- Diputado por el primer Distrito Electoral de Morelia, S. Herrejón.- Diputado por el segundo Distrito electoral de Morelia, Carlos García de León.- Diputado por el tercer Distrito Electoral de Morelia, Francisco R. Córdoba.- Diputado por el cuarto Distrito Electoral Zinapecuáro, Elias Contreras.- Diputado por el séptimo Distrito Electoral Huetamo, S. Sánchez Pineda.- Diputado Suplente por el octavo Distrito Electoral, Tacámbaro, F. A. Martínez.- Diputado Suplente por el noveno Distrito Electoral, Ario, C. Pérez.- Diputado por el décimo Distrito Electoral, Pátzcuaro, Félix C. Ramírez.- Diputado por el décimo Distrito Electoral, Coalcomán, J. Matilde Pimentel.- Diputado por el décimo sexto Distrito Electoral, La Piedad, Vicente Gutiérrez.- Diputado por el décimo séptimo Distrito Electoral, Puruándiro, J. E Vázqnez (sic).
+a) El Ayuntamiento de Acanceh, Yucatán.
 
-Por tanto, mando se imprima, publique por bando solemne, circule y se le dé el debido cumplimiento.
+b) El Presidente Municipal de Acanceh, Yucatán.
 
-Dado en el Palacio del Poder Ejecutivo del Estado en Morelia, a los cinco días del mes de febrero de mil novecientos diecisiete.- El Gobernador Constitucional, PASCUAL ORTIZ RUBIO.- El Secretario General de Gobierno, ADOLFO CORTES.
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
+c).- El Síndico;
 
-P.O. 15 DE AGOSTO DE 1918.
+d).- El Tesorero Municipal;
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
+e) El Director o encargado de la oficina recaudadora de ingresos, y
 
-P.O. 13 DE SEPTIEMBRE DE 1928.
+f) el Titular de la oficina encargada de aplicar el procedimiento administrativo de ejecución.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
+Corresponde al Tesorero Municipal, determinar, liquidar y recaudar los ingresos municipales y ejercer, en su caso, la facultad económico-coactiva. Estas facultades las ejercerá conjunta o separadamente con las autoridades mencionadas en los incisos d) y e) de este artículo según se trate de recaudación o ejecución, respectiva.
 
-P.O. 30 DE SEPTIEMBRE DE 1928.
+Dichas autoridades contarán además con los interventores, visitadores, auditores, peritos, inspectores y ejecutores necesarios para verificar el cumplimiento de las obligaciones fiscales municipales, llevar a cabo notificaciones, requerir documentación, practicar auditorías, visitas de inspección, visitas domiciliarias y practicar embargos, mismas diligencias que, se ajustarán a los términos y condiciones que, para cada caso, disponga el Código Fiscal del Estado de Yucatán y en su falta o defecto a las disposiciones del Código Fiscal de la Federación.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
+Las facultades discrecionales del Tesorero Municipal no podrán ser delegadas en ningún caso o forma.
 
-P.O. 7 DE OCTUBRE DE 1928.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
-
-P.O. 25 DE OCTUBRE DE 1928.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
-
-P.O. 27 DE OCTUBRE DE 1930.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
-
-P.O. 15 DE ENERO DE 1931.
-
-Habiendo quedado satisfechos todos los requisitos exigidos por el artículo 175 de la Constitución Local para quedar debidamente hecha la reforma del artículo 68 de la misma, la modificación del citado artículo, contenida en la presente ley, entrará en vigor el día 16 de enero del año de 1931.
-
-P.O. 27 DE FEBRERO DE 1933.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
-
-P.O. 21 DE FEBRERO DE 1944.
-
-Unico.- Esta Ley empezará a regir desde la fecha de su publicación en el Periódico Oficial.
-
-P.O. 27 DE OCTUBRE DE 1947.
-
-### CAPITULO II. De los Habitantes del Estado
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 4º.
-
-Son obligaciones de los habitantes del Estado:
-
-I.- Si son mexicanos, las que se señalen en esta Constitución y en el artículo 31 de la General de la República, y
-
-II.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido por las leyes y sujetarse a las resoluciones de los tribunales, sin poder intentar otros recursos que los que se conceden a los mexicanos, y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 10.
-
-Los derechos de los ciudadanos se pierden y se suspenden, respectivamente, en los términos previstos por los artículos 37 y 38 de la Constitución Política de los Estados Unidos Mexicanos, o en los casos que determinen las leyes del Estado.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+El Tesorero Municipal y las demás autoridades a que se refiere este artículo gozarán, en el ejercicio de las facultades de comprobación y ejecución, de las facultades que el Código Fiscal del Estado de Yucatán otorga al Tesorero del Estado y las demás autoridades estatales.
 
 ###### Artículo 11.
 
-El Estado de Michoacán de Ocampo es libre, independiente y soberano en su régimen interior, de conformidad con lo prescrito en esta Constitución y en la General de la República.
+La Tesorería Municipal del Municipio de Acanceh, Yucatán es el único órgano de la Administración facultado para recibir los ingresos y realizar los egresos, la Hacienda Pública de este Municipio, será administrada libremente por el propio Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+DE LAS FACULTADES DEL PRESIDENTE Y TESORERO MUNICIPAL
 
 ###### Artículo 12.
 
-La soberanía del Estado reside esencial y originariamente en el pueblo, y se ejerce por medio de los poderes públicos, en los términos que establece esta Constitución.
+El Presidente Municipal y el Tesorero Municipal, son las autoridades competentes en el orden administrativo para:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2013)</small>
+a) Cumplir y hacer cumplir las disposiciones legales de naturaleza fiscal, aplicables al Municipio.
 
-### CAPITULO III. De los Michoacanos
+b) Dictar las disposiciones administrativas que se requieran para la mejor aplicación y observancia de la presente ley.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+c) Emitir o modificar, mediante disposiciones de carácter general, los sistemas o procedimientos administrativos, estableciendo las dependencias recaudadoras, técnicas y administrativas necesarias o suficientes, señalándoles sus funciones y delegándoles las facultades que considere convenientes, excepto las que les corresponden como autoridad fiscal.
 
-###### Artículo 5º.
-
-Son michoacanos: los mexicanos nacidos en el Estado, los hijos de michoacanos nacidos fuera de él y los que se avecinen de manera continua durante un año.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 6º.
-
-Son derechos de los michoacanos:
-
-I.- Los que conceda la Constitución Federal a los mexicanos, y
-
-II.- Ser preferidos para los empleos, cargos o comisiones de nombramiento de las autoridades y en las concesiones que otorgue el Estado.
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
-
-La ley determinará las formas y modalidades que correspondan, para garantizar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Estatal y sus equivalentes en las administraciones municipales. En la integración de los organismos autónomos se observará el mismo principio.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+### Capítulo III. De las Características de los Ingresos y su Clasificación
 
 ###### Artículo 13.
 
-El Estado adopta para su régimen interior, la forma de gobierno republicano, democrático, laico, representativo y popular, de conformidad con el Pacto Federal.
+La presente ley establece las características generales que tendrán los ingresos de la Hacienda Pública del Municipio de Acanceh, Yucatán, tales como objeto, sujeto, tasa o tarifa, base, exenciones, y obligaciones específicas de cada contribución. Los conceptos anteriores deben entenderse en los mismos términos que previene la Ley General de Hacienda para los Municipios y el Código Fiscal del Estado de Yucatán.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
-
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de la representación estatal y municipal y como organizaciones de ciudadanos, hacer posible el acceso de estos al ejercicio del poder público, observando las reglas para garantizar la paridad entre los géneros en candidaturas a los cargos de elección popular, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible, con la salvedad de las candidaturas independientes, así como garantizando las condiciones de seguridad e igualdad a las mujeres en el ejercicio de sus derechos-político electorales, evitando en todo momento que se discrimine y/o violente políticamente a las mujeres por razones de género, promoviendo la contienda equitativa, segura y respetuosa, tanto dentro como fuera de sus institutos políticos.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
-
-Los partidos políticos tienen derecho a participar en las elecciones estatales, distritales y municipales, teniendo el derecho de solicitar el registro de candidatas y candidatos a cargos de elección popular por ambos principios. Los ciudadanos tendrán derecho de solicitar su registro como candidatos independientes a cargos de elección popular únicamente por el principio de mayoría relativa. Los partidos políticos locales que no alcancen el 3 por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo, le será cancelado su registro.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-Los partidos políticos contarán de manera equitativa y gratuita con elementos para llevar a cabo sus actividades, por lo tanto, tendrán derecho al uso de los medios de comunicación, de acuerdo a la legislación aplicable. Además la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, así como las reglas para el acceso de los candidatos independientes a dichas prerrogativas, a efecto de que se encuentren en aptitud de participar en la elección en la cual se hayan registrado.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus militantes y simpatizantes, las cuales no excederán el diez por ciento del tope de gastos de campaña que se determine para la elección de la Gobernadora o Gobernador. La Ley establecerá los procedimientos para la fiscalización oportuna, control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos y los ciudadanos que participen de manera independiente, así como las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-Las campañas electorales no excederán de sesenta días para la elección de la Gobernadora o Gobernador, ni de cuarenta y cinco días para la elección de diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. La Ley fijará las reglas para las precampañas y las campañas electorales de los partidos políticos y de los ciudadanos registrados que participen de manera independiente, así como las sanciones para quienes las infrinjan.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
-
-La propaganda política o electoral, deberá abstenerse de expresiones que denigren a las instituciones, a los propios partidos o a los ciudadanos registrados como candidatos, o que calumnien a las personas, así como todas aquellas que violenten políticamente a las mujeres por medio de cualquier expresión que las denigre, con el objeto o resultado de menoscabar su imagen pública y/o limitar o anular sus derechos políticos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión de toda propaganda gubernamental, tanto de los poderes estatales y municipales, así como cualquier otro ente público del Estado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Las únicas excepciones a lo anterior, serán las campañas de información de las autoridades electorales, las relativas a servicios educativos, promoción turística y de salud, o las necesarias para la protección civil en casos de emergencia, en los términos que determine la Ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Los servidores públicos del Estado y los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de las contiendas electorales.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Sin menoscabo de los demás principios, el de equidad que rige a los procesos electorales, se extiende a la actuación de los órganos del Estado y a sus integrantes en todos sus niveles, por lo que deben ejercer sus funciones con la intensidad y calidad tanto de trabajo como de difusión de éste, y en la misma proporción que en períodos no electorales; por lo que no debe incrementarse la difusión dentro del proceso electoral. El Instituto Electoral de Michoacán velará por el cumplimiento de este principio y cualquier persona con elementos de prueba podrá denunciar los hechos que lo vulneren.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-El derecho a la información en los procesos electorales constituye un elemento fundamental para la celebración democrática de elecciones periódicas, libres, justas, equitativas y basadas en el sufragio universal y secreto; esto tiene fundamento en el hecho de que toda persona tiene derecho a buscar, recibir y difundir información y opiniones, para lo cual deben contar con igualdad de oportunidades propiciadas por cualquier medio de comunicación sin discriminación alguna y por ningún motivo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-El voto es universal, libre, secreto, directo y personal. Quedan prohibidos los actos que atenten contra estas características y generen presión o coacción a los electores.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Esta Constitución garantiza que los ciudadanos con discapacidad ejerzan plenamente su derecho al voto; en la Ley se preverán las condiciones y mecanismos que faciliten su ejercicio.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Asimismo, se garantiza el derecho al voto de los michoacanos que radican en el extranjero, en los términos que establezca la Ley.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-En las comunidades indígenas que hayan decidido, mediante las leyes correspondientes, hacer ejercicio de su derecho al autogobierno indígena para elegir a sus autoridades por sistema normativo o usos y costumbres, los partidos políticos, sus dirigentes, militantes o simpatizantes, así como sus diputados locales, presidentes municipales, síndicos o regidores, deberán abstenerse de realizar cualquier acción u omisión que ponga en riesgo tal decisión comunal. Cualquier acción que contradiga esta disposición deberá ser considerada como violatoria de los derechos humanos de los pueblos y comunidades indígenas de Michoacán, por lo que será sancionada administrativa o penalmente conforme a la normativa aplicable.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-De la misma forma, reconoce, protege y promueve la demodiversidad derivada de la pluriculturalidad del Estado y concretizada en los diferentes sistemas, principios, normas, instituciones y prácticas democráticas, de participación política y de gobierno de los pueblos y de las comunidades indígenas que se asientan en el Estado de Michoacán de Ocampo.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+DE LAS CONTRIBUCIONES
 
 ###### Artículo 14.
 
-El Estado de Michoacán de Ocampo es parte integrante de los Estados Unidos Mexicanos, y está constituído por la porción de territorio nacional que le reconozcan la Constitución Federal, las leyes y los convenios.
+Las contribuciones se clasifican en Impuestos, Derechos y Contribuciones de Mejoras.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+I.- Son Impuestos: las contribuciones establecidas en esta ley que deben pagar las personas físicas y las morales que se encuentren en las situaciones jurídicas o de hecho, previstas por la misma y que sean distintas de las señaladas en las fracciones II y III de este artículo;
 
-El Estado puede arreglar con las entidades federativas limítrofes, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación del Congreso de la Unión.
+II.- Son Derechos: las contribuciones establecidas en esta ley por el uso y aprovechamiento de los bienes y servicios que presta el Ayuntamiento en sus funciones de Derecho Público, y
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+III.- Son Contribuciones de mejoras: las cantidades que fija la Ley de Hacienda Pública Municipal a las personas físicas y morales y que tiene derecho a percibir como aportación a los gastos que ocasionen la realización de obras de mejoramiento o la prestación de un servicio de interés general, emprendidos para el beneficio común.
+
+Los recargos de los créditos fiscales, las multas, las indemnizaciones y los gastos de ejecución derivadas de las contribuciones, son accesorios de éstas y participan de su naturaleza.
+
+DE LOS APROVECHAMIENTOS
 
 ###### Artículo 15.
 
-El Estado tendrá como base de su división territorial y de su organización política y administrativa el Municipio Libre.
+Son aprovechamientos los ingresos que percibe el Ayuntamiento por sus funciones de Derecho Público, distintos de las contribuciones, de los ingresos derivados de financiamiento y de los que obtienen los organismos descentralizados y las empresas de participación municipal.
 
-El Estado de Michoacán está conformado por los siguientes municipios: Acuitzio, Aguililla, Álvaro Obregón, Angamacutiro, Angangueo, Apatzingán, Áporo, Aquila, Ario, Arteaga, Briseñas, Buenavista, Carácuaro, Coahuayana, Coalcomán, Coeneo, Cojumatlán, Contepec, Copándaro, Cotija, Cuitzeo, Charapan, Charo, Chavinda, Cherán, Chilchota, Chinicuila, Chucándiro, Churintzio, Churumuco, Ecuandureo, Epitacio Huerta, Erongarícuaro, Gabriel Zamora, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Ixtlán, Jacona, Jiménez, Jiquilpan, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Lázaro Cárdenas, Los Reyes, Madero, Maravatío, Marcos Castellanos, Morelia, Morelos, Múgica, Nahuatzen, Nocupétaro, Nuevo Parangaricutiro, Nuevo Urecho, Numarán, Ocampo, Pajacuarán, Panindícuaro, Parácuaro, Paracho, Pátzcuaro, Penjamillo, Peribán, Purépero, Puruándiro, Queréndaro, Quiroga, Sahuayo, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tarímbaro, Tepalcatepec, Tingambato, Tingüindín, Tiquicheo, Tlalpujahua, Tlazazalca, Tocumbo, Tumbiscatío, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zacapu, Zamora, Zináparo, Zinapécuaro, Ziracuaretiro y Zitácuaro.
+Las indemnizaciones, los recargos, los gastos de ejecución y las multas derivadas de los aprovechamientos, son accesorios de éstas y participan de su naturaleza.
 
-Cada Municipio conservará la extensión y límites que le señale la legislación correspondiente.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-En caso de que un Municipio tenga comunidades indígenas y éstas decidan ejercer su derecho al autogobierno y administrar directamente el presupuesto, éstas serán responsables de las atribuciones que ejercía el Ayuntamiento del Municipio, a través de un Gobierno Comunal que será un cuarto orden de gobierno, en su territorio en el que se aplicarán sus sistemas normativos o usos y costumbres en términos de la ley correspondiente.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+DE LOS PRODUCTOS
 
 ###### Artículo 16.
 
-La creación de nuevos municipios se sujetará a las prescripciones de esta Constitución.
+Son productos las contraprestaciones que recibe el Ayuntamiento por los servicios que presta en funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes de dominio privado, que deben pagar las personas físicas y morales de acuerdo con lo previsto en los contratos convenios o concesiones correspondientes.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+PARTICIPACIONES
 
 ###### Artículo 17.
 
-El Poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial, los cuales actuarán separada y libremente, pero cooperando, en forma armónica, a la realización de los fines del Estado.
+Son participaciones las cantidades que el Municipio tiene derecho a percibir de los ingresos federales conforme a lo dispuesto en la Ley de Coordinación Fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos; el Convenio de Colaboración Administrativa en Materia Fiscal o cualesquiera otros convenios que se suscribieren para tal efecto, así como aquellas que de los ingresos estatales se designen con ese carácter por el H. Congreso del Estado de Yucatán a favor del Municipio.
 
-No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo o el Judicial en un individuo.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+APORTACIONES
 
 ###### Artículo 18.
 
-La ciudad de Morelia es la residencia habitual de los Poderes, y éstos no podrán trasladarse a otro lugar del Estado sino por causa grave, cuando lo acuerden así las dos terceras partes de los miembros del Congreso, a iniciativa de la persona Titular del Ejecutivo del Estado.
+Las aportaciones son los recursos que la federación transfiere a las haciendas públicas de los estados y en su caso, el Municipio, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de recurso establece la Ley de Coordinación Fiscal.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+INGRESOS EXTRAORDINARIOS
 
 ###### Artículo 19.
 
-Se deposita el ejercicio del Poder Legislativo en una asamblea que se denominará: Congreso del Estado de Michoacán de Ocampo.
+Son ingresos extraordinarios los recursos que puede percibir la Hacienda Pública Municipal, distintos de los anteriores, por los conceptos siguientes:
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+I.- Los Empréstitos que le autorice el Congreso del Estado de Yucatán para el pago de obras y servicios;
 
-El Congreso del Estado se regirá por los principios de transparencia, de rendición de cuentas y de parlamento abierto, en términos de su ley orgánica.
+Cuando el vencimiento exceda su período de gestión;
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+II.- Los empréstitos aprobados por el Cabildo Municipal, cuyo vencimiento no exceda el período de su gestión;
 
-### CAPITULO IV. De los Ciudadanos
+III.- Los recibidos del Estado y la Federación por conceptos diversos a Participaciones o Aportaciones;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+IV.- Donativos;
 
-###### Artículo 7º.
+V.- Cesiones;
 
-Son ciudadanos los que reúnan los requisitos que señala el artículo 34 de la Constitución Federal.
+VI.- Herencias;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
+VII.- Legados;
+
+VIII.- Por Adjudicaciones Judiciales;
+
+IX.- Por Adjudicaciones Administrativas, y
+
+X.- Por Subsidios de Organismos Públicos y Privados.
+
+### Capítulo IV. De los Créditos Fiscales
 
 ###### Artículo 20.
 
-El Congreso del Estado se integra con representantes del pueblo, electos en su totalidad cada tres años, con opción de ser electos hasta por cuatro periodos consecutivos. La elección se celebrará el primer domingo del mes de junio del año en que concluya su función la Legislatura.
+Serán créditos fiscales aquellos que el Ayuntamiento del Municipio de Acanceh, Yucatán y sus organismos descentralizados tengan derecho de percibir y que provengan de contribuciones, de aprovechamientos y de sus accesorios, incluyendo todos aquellos de los que se deriven las responsabilidades que el Ayuntamiento tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que la ley otorgue ese carácter y el Municipio tenga derecho a percibir, por cuenta ajena.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
-
-Por cada diputado propietario, se elegirá un suplente.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
-
-El Congreso del Estado estará integrado por veinticuatro diputadas y diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales y dieciséis diputadas y diputados que serán electos según el principio de representación proporcional, mediante el sistema de lista de candidatos votados en una circunscripción plurinominal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
+DE LA CAUSACIÓN Y DETERMINACIÓN
 
 ###### Artículo 21.
 
-Para la elección de las diputadas y diputados de mayoría relativa, el Estado se dividirá en veinticuatro distritos electorales, cuya denominación y demarcación territorial señalaraì (sic) la ley.
+Las contribuciones se causan, conforme se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes durante el lapso en que ocurran.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+Dichas contribuciones se determinarán de acuerdo con las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimientos que se expidan con posterioridad.
 
-Ningún partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Este supuesto no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+La determinación de las contribuciones corresponde a las autoridades fiscales, los contribuyentes deberán proporcionar a dichas autoridades la información necesaria y suficiente para determinar las citadas contribuciones en un plazo máximo de quince días siguientes a la fecha de su causación, salvo en los casos que la propia ley fije a otro plazo señalado en las disposiciones respectivas. A falta de disposición expresa, los contribuyentes deberán presentar la causación, siempre que el contribuyente cuente con establecimiento fijo, o bien, al término de las operaciones de cada día o a más tardar el día hábil siguiente, cuando se trate de contribuciones que se originaron por actos o actividades eventuales y la autoridad no hubiere designado interventor o persona autorizada para el cobro.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+Como excepción a lo establecido en este precepto, el Impuesto Sobre Adquisición de inmuebles corresponderá determinarlo a los fedatarios públicos y a las personas que por disposición legal tengan funciones notariales; y la del Impuesto Predial, Base Contraprestación, que corresponde a los sujetos obligados.
+
+DE LOS SUJETOS OBLIGADOS Y DE LOS OBLIGADOS SOLIDARIOS
 
 ###### Artículo 22.
 
-El diputado suplente que haya ejercido el cargo de propietario, para efectos del artículo 20 de esta Constitución, se le contabilizará como un periodo.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Las personas domiciliadas dentro del Municipio de Acanceh, Yucatán, o fuera de él y que tuvieren bienes o celebren actos de comercio dentro del territorio del mismo, están obligados a contribuir para los gastos públicos del Municipio y a cumplir con las disposiciones administrativas y fiscales que se señalen en la presente ley, en el Código Fiscal del Estado de Yucatán y en los reglamentos municipales que correspondan.
 
 ###### Artículo 23.
 
-Para ser Diputado se requiere:
+Son solidariamente responsables del pago de un crédito fiscal:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE MARZO DE 2026)</small>
+I.- Las personas físicas y morales, que adquieran bienes o negociaciones ubicadas dentro del territorio municipal, que reporten adeudos a favor del Municipio de Acanceh, Yucatán y, que correspondan a períodos anteriores a la adquisición;
 
-I.- Ser ciudadano mexicano por nacimiento y ser michoacano en ejercicio de sus derechos;
+II.- Los albaceas, copropietarios, fideicomitentes o fideicomisarios de un bien determinado por cuya administración, copropiedad o derecho, se cause una contribución a favor del Municipio;
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
+III.- Los retenedores de impuestos, y
 
-II.- Ser originario del distrito por el que haya de ser electo por el principio de mayoría relativa, o tener una residencia efectiva en el mismo no menor a dos años previos al día de la elección.
+IV.- Los funcionarios, fedatarios públicos y demás personas que señala la presente ley y que en el ejercicio de sus funciones, no cumplan con las obligaciones que las leyes y disposiciones fiscales les imponen, de exigir, a quienes están obligados a hacerlo, que acrediten que están al corriente en el pago de sus contribuciones o créditos fiscales al Municipio.
 
-Los oriundos o residentes de los municipios cuyo territorio comprende más de un distrito, podrán ser electos en cualquiera de ellos; y,
-
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
-
-III.- Tener dieciocho años cumplidos el día de la elección.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+DE LA ÉPOCA DE PAGO
 
 ###### Artículo 24.
 
-No podrán ser electos diputados:
+Los créditos fiscales a favor del Municipio, serán exigibles a partir del día siguiente al del vencimiento fijado para su pago. Cuando no exista fecha o plazo para el pago de dichos créditos, éstos deberán cubrirse dentro de los quince días siguientes contados desde el momento en que se realice el acto o se celebre el contrato, que dio lugar a la causación del crédito fiscal, si el contribuyente tuviere establecimiento fijo, en caso contrario y siempre que se trate de contribuciones que se originaron por actos o actividades eventuales, el pago deberá efectuarse al término de las operaciones de cada día a más tardar el día hábil siguiente si la autoridad no designó interventor o autorizado para el cobro.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1980)</small>
+En los términos establecidos en el párrafo anterior, para el pago de los créditos fiscales municipales, se computarán sólo los días hábiles, entendiéndose por éstos, aquellos que establezcan las leyes de la materia y en que se encuentren abiertas al público las oficinas recaudadoras.
 
-I.- Los ciudadanos que tengan mando de fuerza pública en el Estado;
+La existencia del personal de guardia no habilita los días en que se suspendan las labores. Si al término del vencimiento fuere día inhábil, el plazo se prorrogará al siguiente día hábil.
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
-
-II.- Los funcionarios de la Federación, los titulares de las dependencias básicas y de las entidades de la organización administrativa del Ejecutivo y los ayuntamientos, los consejeros del Poder Judicial, los Magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral y del Tribunal en materia Anticorrupción y Administrativa;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-III.- Los jueces de primera instancia, los recaudadores de rentas, los presidentes municipales, los síndicos y los regidores;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-IV.- Los ministros de cualquier culto religioso;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-V.- Los consejeros y funcionarios electorales federales o estatales, a menos que se separen un año antes del día de la elección; y,
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-VI.- Los que se encuentren suspendidos de sus derechos políticos.
-
-Los ciudadanos enumerados en las fracciones I, II y III pueden ser electos, siempre que se separen de sus cargos noventa días antes de la elección.
+DEL PAGO A PLAZOS
 
 ###### Artículo 25.
 
-(DEROGADO, P.O. 27 DE ABRIL DE 1995)
+El Tesorero Municipal conjuntamente con el Presidente Municipal, a petición de los contribuyentes, podrán autorizar convenios de pago en parcialidades de los créditos fiscales sin que dicho plazo pueda exceder de doce meses. Para el cálculo de la cantidad a pagar, se determinará el crédito fiscal omitido a la fecha de la autorización. Durante el plazo concedido no se generarán actualización ni recargos.
+
+La falta de pago de alguna parcialidad ocasionará la revocación de la autorización, en consecuencia, se causarán actualización y recargos en los términos de la presente ley y la autoridad procederá al cobro del crédito mediante procedimiento administrativo de ejecución.
+
+DE LOS PAGOS EN GENERAL
 
 ###### Artículo 26.
 
-(DEROGADO, P.O. 27 DE ABRIL DE 1995)
+Los contribuyentes deberán efectuar los pagos de sus créditos fiscales municipales, en las cajas recaudadoras de la Tesorería Municipal o en los lugares que la misma designe para tal efecto; sin aviso previo o requerimiento alguno, salvo en los casos en que las disposiciones legales determinen lo contrario.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2018)</small>
+Los créditos fiscales que las autoridades determinen y notifiquen, deberán pagarse o garantizarse dentro del término de quince días hábiles contados a partir del siguiente a aquel en que surta sus efectos la notificación, conjuntamente con las multas, recargos y los gastos correspondientes, salvo en los casos en que la ley señale otro plazo y además, deberán hacerse en moneda nacional y de curso legal.
+
+Se aceptarán como medios de pago, además del pago en efectivo, los cheques certificados y los giros postales, telegráficos o bancarios. Los cheques no certificados se aceptarán, salvo buen cobro o para abono en cuenta del Municipio, únicamente cuando sean expedidos por el propio contribuyente o por los fedatarios cuando estén cumpliendo con su obligación de enterar contribuciones a cargo de tercero.
+
+Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de una misma contribución y, antes del adeudo principal, a los accesorios, en el siguiente orden:
+
+I- Gastos de ejecución;
+
+II.- Recargos;
+
+III.- Multas;
+
+IV.- La indemnización a que se refiere el artículo 36 de esta ley.
+
+DE LOS FORMULARIOS
 
 ###### Artículo 27.
 
-Los diputados no podrán ser reconvenidos ni serán sujetos de responsabilidad por las opiniones, propuestas legislativas o votos que emitan en el ejercicio de su encargo.
+Los avisos, declaraciones, solicitudes, memoriales o manifestaciones, que presenten los contribuyentes para el pago de alguna contribución o producto, se harán en los formularios que apruebe la Tesorería Municipal en cada caso, debiendo consignarse los datos, y acompañar los documentos que se requieran.
 
-El Presidente del Congreso velará por la inviolabilidad del recinto en donde se reúnan a sesionar. Toda fuerza pública está impedida de tener acceso al Recinto Legislativo, salvo con permiso del Presidente del Congreso, bajo cuyo mando quedará la seguridad del mismo.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+DE LAS OBLIGACIONES EN GENERAL
 
 ###### Artículo 28.
 
-Los diputados propietarios, durante el período de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, del Estado o del Municipio por los cuales se disfrute sueldo, a excepción de los de instrucción pública y beneficencia, sin licencia previa del Congreso. En su caso, cesarán en sus funciones representativas mientras dure la nueva ocupación.
+Las personas físicas y morales, además de las obligaciones especiales contenidas en la presente ley, deberán cumplir con las siguientes:
 
-La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de Diputado.
+I.- Empadronarse en la Tesorería Municipal, a más tardar treinta días naturales después de la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades, si realizan actividades permanentes con el objeto de obtener la licencia municipal de funcionamiento;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
+II.- Recabar de la Dirección de Obras Públicas y Desarrollo Urbano la carta de uso de suelo en donde se determine que el giro del comercio, negocio o establecimiento que se pretende instalar, es compatible con la zona de conformidad con el Plan Director de Desarrollo Urbano del Municipio y que cumple además, con lo dispuesto en el Reglamento de Construcciones del propio Municipio;
+
+III.- Dar aviso por escrito, en un plazo de quince días, de cualquier modificación, aumento de giro, traspaso, cambio de domicilio, cambio de denominación, suspensión de actividades, clausura y baja;
+
+IV.- Recabar autorización de la Tesorería Municipal, si realizan actividades eventuales y con base en dicha autorización, solicitar la determinación de las contribuciones que estén obligados a pagar;
+
+V.- Utilizar las formas o formularios elaborados por la Tesorería Municipal, para comparecer, solicitar o liquidar créditos fiscales y/o administrativos;
+
+VI.- Permitir las visitas de inspección, atender los requerimientos de documentación y auditorías que determine la Tesorería Municipal, en la forma y dentro de los plazos que señala el Código Fiscal del Estado de Yucatán;
+
+VII.- Exhibir los documentos públicos y privados que requiera la Tesorería Municipal, previo mandamiento por escrito que funde y motive esta medida;
+
+VIII.- Proporcionar con veracidad los datos que requiera la Tesorería Municipal, y
+
+IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y términos que señala la presente ley.
+
+DE LAS LICENCIAS DE FUNCIONAMIENTO
 
 ###### Artículo 29.
 
-El Congreso se renovará totalmente cada tres años, y se instalará el día quince del mes de septiembre del año en que se celebre la elección ordinaria.
+Las licencias de funcionamiento serán expedidas por la Tesorería Municipal, de conformidad con la tabla de derechos vigentes, en su caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2003)</small>
+Tendrán una vigencia que iniciará en la fecha de su expedición y terminará el último día del período constitucional de la administración municipal que la expidió.
+
+No obstante lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento cuando por la actividad de la persona física o moral se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En cuyo caso, el plazo de vigencia o la condición serán iguales a las expresadas por dichas dependencias. En ningún caso la vigencia de la licencia de funcionamiento excederá del período de la administración municipal que la expidió.
+
+Los titulares de las licencias de funcionamiento, deberán revalidarlas durante los cuatro primeros meses de cada año de la administración municipal.
+
+Las personas físicas o morales que deban obtener la licencia municipal de funcionamiento, tendrán que anexar a la solicitud que presentarán a la Tesorería Municipal los siguientes documentos:
+
+a) El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio, contrato u otro documento que compruebe la legal posesión del mismo;
+
+b) Licencia de uso de suelo;
+
+c) Determinación sanitaria, en su caso;
+
+d) El recibo de pago del derecho correspondiente en su caso,
+
+e) Copia del comprobante de inscripción en el Registro Federal de Contribuyentes;
+
+f) Copia del comprobante de su Clave Única de Registro de Población en su caso;
+
+g) Autorización de Ocupación en los casos previstos en el Reglamento de Construcciones del Municipio de Acanceh, Yucatán;
+
+Para la revalidación de la licencia municipal de funcionamiento deberán presentarse:
+
+a) Licencia de funcionamiento expedida por la administración municipal inmediata anterior;
+
+b) Documento que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio, contrato u otro documento que compruebe la legal posesión del mismo;
+
+c) El recibo de pago del derecho correspondiente en su caso;
+
+d) Determinación sanitaria, en su caso;
+
+e) Copia del comprobante de inscripción en el Registro Federal de Contribuyentes;
+
+f) Copia del comprobante de su Clave Única de Registro de Población en su caso;
+
+g) Para el caso de revalidación, los requisitos de los incisos e) y f) se presentarán solo en caso de que esos datos no estén registrados en el padrón municipal;
+
+La licencia cuya vigencia termine de manera anticipada de conformidad con este artículo, deberá ser revalidada dentro de los treinta días naturales siguientes a su vencimiento.
+
+DE LA ACTUALIZACIÓN
 
 ###### Artículo 30.
 
-El Congreso no podrá abrir sus sesiones ni ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros. Si no se reuniere esa mayoría el día designado por la Ley, los diputados presentes exhortarán a los ausentes para que concurran, dentro de los ocho días siguientes. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante sesenta días, y si los suplentes no se presentaren en el mismo plazo de ocho días arriba señalado, se declarará vacante el puesto y se convocará a nuevas elecciones.
+El monto de las contribuciones, aprovechamientos y los demás créditos fiscales, así como las devoluciones a cargo del fisco municipal, no pagados en fechas o plazos fijados para ello en esta ley, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización de acuerdo a lo que se menciona en el Código Fiscal de la Federación. Además de la actualización se pagarán recargos en concepto de indemnización al Municipio, por la falta de pago oportuno.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización.
 
-Se entiende también que los diputados que falten a cuatro sesiones consecutivas, sean del Pleno o en comisiones legislativas, sin causa justificada o sin previa licencia del Presidente del Congreso, se sancionarán conforme a la Ley.
-
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
-
-Si no hubiese quórum para instalar el Congreso, o para que ejerza sus funciones una vez instalado, se convocará inmediatamente a los suplentes para que se presenten a la brevedad a desempeñar su cargo, entre tanto transcurren los ocho días de que antes se habla.
-
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
-
-Incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley señale, quienes habiendo sido electos diputados, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo señalado en el primer párrafo de este artículo.
-
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
-
-También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que habiendo postulado candidatos en una elección para diputados, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
-
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
-
-En el Congreso del Estado, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
+DE LOS RECARGOS
 
 ###### Artículo 31.
 
-El Congreso sesionará por años legislativos, comprendidos del día quince del mes de septiembre al día catorce del mes de septiembre del año siguiente.
+Los recargos se calcularán y aplicarán en la forma y términos establecidos en el Código Fiscal del Estado de Yucatán no (sic) en su defecto del Código Fiscal de la Federación. No causarán recargos las multas no fiscales
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
-
-En los meses de septiembre a diciembre, se ocupará de examinar, discutir y aprobar el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo. En el supuesto de que la Ley de Ingresos y el Presupuesto de Egresos no sean aprobados por el Congreso, en el nuevo ejercicio fiscal se continuarán aplicando los ordenamientos vigentes en el año inmediato anterior, mientras se lleve a cabo la aprobación respectiva.
-
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
-
-También se ocupará de revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las haciendas municipales, correspondientes al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales y a otras que dispongan de autonomía.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
-
-La revisión y dictamen de las cuentas públicas se hará con base en el Informe de Resultados que para tal efecto realice la Auditoría Superior de Michoacán, en los términos de ley.
+DE LA CAUSACIÓN DE RECARGOS
 
 ###### Artículo 32.
 
-(DEROGADO, P.O. 7 DE MARZO DE 2003)
+Los recargos se causarán hasta por cinco años y se calcularán sobre el total de las contribuciones o de los créditos fiscales, excluyendo los propios recargos, la indemnización que se menciona en el artículo 33 de esta ley, los gastos de ejecución y multas por infracción a las disposiciones de la presente ley.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+Los recargos se causarán por cada mes o fracción que transcurra desde el día en que debió hacerse el pago y hasta el día en que el mismo se efectúe.
+
+Cuando el pago de las contribuciones o de los créditos fiscales, hubiese sido menor al que corresponda, los recargos se causarán sobre la diferencia.
+
+En los casos de garantía de obligaciones fiscales a cargo de tercero, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se pague dentro del plazo legal.
+
+DEL CHEQUE PRESENTADO EN TIEMPO Y NO PAGADO
 
 ###### Artículo 33.
 
-La Gobernadora o Gobernador del Estado asistirá a la apertura de cada año legislativo del Congreso del Estado. A esta sesión deberán asistir el Presidente y los Magistrados del Supremo Tribunal de Justicia.
+El cheque recibido por la Tesorería Municipal de Acanceh, Yucatán, en pago de algún crédito fiscal o garantía en términos de la presente ley, que sea presentado en tiempo al librado y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del importe del propio cheque, y se exigirá independientemente de los otros conceptos a que se refiere este Capítulo.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de siete días efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes que realizó el pago o que no se realizó, por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal municipal requerirá y cobrará el monto del cheque, la indemnización y, en su caso, los recargos, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal, que en su caso, proceda.
+
+DE LOS RECARGOS EN PAGOS ESPONTÁNEOS
 
 ###### Artículo 34.
 
-Toda resolución del Congreso tendrá el carácter de ley o decreto.
+Cuando el contribuyente pague en una sola exhibición, el total de las contribuciones o de los créditos fiscales omitidos y actualizados, en forma espontánea, sin mediar notificación alguna por parte de las autoridades fiscales, los recargos no podrán exceder de un tanto igual, al importe del impuesto omitido.
 
-El primer nombre corresponde a las resoluciones que versen sobre materia de interés común, dentro de la órbita de atribuciones del Poder Legislativo; el segundo, a las que sean solo relativas a determinados tiempos, lugares, corporaciones, establecimientos o personas.
-
-Las resoluciones administrativas del Congreso tendrán el carácter de acuerdos.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+DEL PAGO EN EXCESO
 
 ###### Artículo 35.
 
-Las sesiones del Congreso serán de conformidad a lo que determine su Ley Orgánica.
+Las autoridades fiscales municipales están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo para abono a la cuenta del contribuyente.
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+Si el pago de lo indebido, se hubiese efectuado en el cumplimiento de un acto de autoridad, el derecho a la devolución nace, cuando dicho acto hubiere quedado insubsistente.
+
+Las autoridades fiscales tendrán un plazo máximo de treinta días naturales, para efectuar las devoluciones mencionadas en este artículo.
+
+Las autoridades fiscales municipales deberán pagar la devolución que proceda, actualizada conforme al procedimiento establecido en el artículo 30 de esta ley, desde el mes en que se efectuó el pago en exceso hasta aquel en que la devolución se efectúe. Si la devolución no se hubiese efectuado en el plazo previsto en este artículo, las mismas autoridades fiscales municipales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a la tasa que se aplicará sobre la devolución actualizada y que será igual a la prevista para los recargos en los términos del artículo 31 de esta propia ley.
+
+DEL REMATE EN PÚBLICA SUBASTA
 
 ###### Artículo 36.
 
-El derecho de iniciar leyes corresponde:
+Todos los bienes que con motivo de un procedimiento de ejecución sean embargados por la autoridad municipal, serán rematados en pública subasta y el producto de la misma, aplicado al pago del crédito fiscal de que se trate.
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+En caso de que habiéndose publicado la tercera convocatoria para la almoneda, no se presentaren postores, los bienes embargados, se adjudicarán al Municipio de Acanceh, Yucatán, en pago del adeudo correspondiente, por el valor equivalente al que arroje su avalúo pericial. Para el caso de que el valor de adjudicación no alcanzare a cubrir el adeudo de que se trate, éste se entenderá pagado parcialmente, quedando a salvo los derechos del Municipio, para el cobro del saldo correspondiente.
 
-I. La persona Titular del Ejecutivo del Estado;
+En todo caso, se aplicarán a los remates las reglas que para tal efecto fije el Código Fiscal del Estado de Yucatán y en su defecto las del Código Fiscal de la Federación y su reglamento.
 
-II.- A los Diputados;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-III.- Al Supremo Tribunal de Justicia;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-IV.- A los Ayuntamientos;
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-IV.- bis. A los Gobiernos Comunales; y,
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-V.- A los ciudadanos michoacanos, de conformidad con los procedimientos y formalidades que establezca la ley de la materia. No podrán ser objeto de iniciativa popular la materia tributaria o fiscal, de Egresos y la regulación interna de los órganos del Estado.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-Las iniciativas presentadas por la persona Titular del Ejecutivo del Estado o por el Supremo Tribunal de Justicia pasarán desde luego a comisión. Las que presentaren los diputados, ayuntamientos o los ciudadanos, se sujetarán a los trámites que señale el reglamento.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-En caso de que exista una crisis evidente en temas de derechos humanos, la persona Titular del Ejecutivo del Estado podrá presentar en cualquier momento, hasta dos iniciativas preferentes que correspondan a tal problemática, por cada año legislativo. Cada iniciativa con el carácter preferente, deberá ser discutida y votada por el Pleno del Congreso del Estado en un plazo máximo de treinta días naturales.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+DEL COBRO DE LAS MULTAS
 
 ###### Artículo 37.
 
-Las iniciativas de ley o decreto se sujetarán a los siguientes trámites:
+Las multas por infracciones a las disposiciones municipales sean éstas de carácter administrativo o fiscal, serán cobradas mediante el procedimiento administrativo de ejecución.
 
-I. El dictamen de comisión será leído una o dos veces en los términos que establezca el reglamento de debates;
-
-II. La discusión del dictamen se llevará a cabo en la fecha que sea agendado en el orden del día, el cual deberá ser aprobado por el Pleno;
-
-III. El dictamen deberá ser aprobado o desechado por mayoría absoluta del número de diputados presentes, o por las dos terceras partes cuando así lo exija esta Constitución;
-
-IV. Aprobado un dictamen, se remitirá la Minuta con proyecto de ley o de decreto al Titular del Poder Ejecutivo, quien, si no tuviere observaciones que hacer, la publicará inmediatamente;
-
-V. Se considerará aprobada por el Titular del Poder Ejecutivo, toda Minuta con proyecto de ley o de decreto que no sea devuelta con observaciones dentro de los quince días hábiles siguientes a su recepción; vencido este plazo, procederá a su promulgación y publicación inmediata;
-
-VI. La Minuta con proyecto de ley o de decreto, desechada en todo o en parte por el Titular del Poder Ejecutivo, será devuelta, con sus observaciones al Congreso y deberá ser discutida nuevamente por éste, pudiendo el Titular del Poder Ejecutivo mandar su orador, para lo cual se le dará aviso previo; y,
-
-VII. Si la Minuta con proyecto de ley o de decreto, fuese confirmada por las dos terceras partes del número total de los diputados presentes, volverá al Titular del Poder Ejecutivo para su promulgación y publicación inmediata.
-
-Toda iniciativa o proyecto de ley o decreto que fuere desechado por el Congreso no podrá presentarse otra vez en el mismo año legislativo.
-
-Para efectos de las fracciones IV, V y VII de este artículo, se entenderá por inmediata la publicación del proyecto de ley o decreto, que no podrá exceder de un plazo mayor a diez días hábiles. Si transcurrido el plazo la Minuta con proyecto de ley o decreto aprobado no fuera publicada, será considerada promulgada la ley o decreto y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al Titular del Periódico Oficial del Estado su publicación, sin que se requiera refrendo alguno.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+DEL SALARIO MÍNIMO
 
 ###### Artículo 38.
 
-En los casos de urgencia notoria, calificada por el voto de las dos terceras partes de los diputados presentes, el Congreso podrá dispensar la lectura o lecturas del dictamen que hubiere formulado la comisión respectiva.
+Cuando en la presente ley se haga mención de las palabras “salarios” o “salarios mínimos” dichos términos se entenderán indistintamente como los salarios mínimos vigente en el Estado de Yucatán, en el momento de realización de la situación jurídica o de hecho prevista en la misma. Tratándose de multas, el salario mínimo que servirá de base para su cálculo sea el vigente al momento de individualizar la sanción.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
-## TITULO SEGUNDO
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-### CAPITULO I. De la Soberanía del Estado y de la forma de Gobierno
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+### Capítulo I. Impuesto Predial
 
 ###### Artículo 39.
 
-Siempre que concurra la Gobernadora o Gobernador del Estado, o la Presidenta o Presidente del Supremo Tribunal de Justicia o los representantes de ambos para apoyar sus opiniones, tendrán voz en las discusiones pero no voto.
+Son sujetos del impuesto predial:
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+I.- Los propietarios o usufructuarios de predios urbanos, rústicos, ejidales y comunales ubicados dentro del territorio municipal, así como de las construcciones permanentes edificadas en ellos;
+
+II.- Los fideicomitentes por todo el tiempo que el fiduciario no transmitiere la propiedad o el uso de los inmuebles a que se refiere la fracción anterior, al fideicomisario o a las demás personas que correspondiere, en cumplimiento del contrato de fideicomiso;
+
+III.- Los fideicomisarios, cuando tengan la posesión o el uso del inmueble;
+
+IV.- Los fiduciarios, cuando por virtud del contrato del fideicomiso tengan la posesión o el uso del inmueble;
+
+V.- Los organismos descentralizados, las empresas de participación estatal que tengan en propiedad o posesión bienes inmuebles del dominio público de la Federación, Estado, o Municipio, utilizados o destinados para fines administrativos o propósitos distintos a los de su objeto público;
+
+VI.- Las personas físicas o morales que posean por cualquier título bienes inmuebles del dominio público de la Federación, Estado o Municipio utilizados o destinados para fines administrativos o propósitos distintos a los de su objeto público, y
+
+VII.- Los subarrendadores, cuya base será la diferencia que resulte a su favor entre la contraprestación que recibe y la que paga.
+
+Los propietarios de los predios a los que se refiere la fracción I del artículo 41 de esta ley, deberán manifestar a la Tesorería Municipal, el número total y la dirección de los predios de su propiedad ubicados en el Municipio correspondiente. Asimismo, deberán comunicar si el predio de que se trata se encuentra en alguno de los supuestos mencionados en cualquiera de las fracciones anteriores.
+
+DE LOS OBLIGADOS SOLIDARIOS
 
 ###### Artículo 40.
 
-La derogación de las leyes se hará con los mismos requisitos y formalidades que se prescriben para su formación.
+Son sujetos solidariamente responsables del impuesto predial:
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+I.- Los funcionarios o empleados públicos, los notarios o fedatarios públicos y las personas que por disposición legal tengan funciones notariales, que inscriban o autoricen algún acto o contrato jurídico, sin cerciorarse de que se hubiese cubierto el impuesto respectivo, mediante la acumulación o anexo del certificado expedido por la Tesorería Municipal que corresponda;
+
+II.- Los empleados de la Tesorería Municipal, que formulen certificados de estar al corriente en el pago del impuesto predial, que alteren el importe de los adeudos por este concepto, o los dejen de cobrar;
+
+III.- Los enajenantes de bienes inmuebles a que se refiere el artículo 41 de esta ley, mientras no transmitan el dominio de los mismos;
+
+IV.- Los representantes legales de las sociedades, asociaciones, comunidades y particulares respecto de los predios de sus representados;
+
+V.- El vencido en un procedimiento judicial o administrativo por virtud del cual el predio de que se trate deba adjudicarse a otra persona, hasta el día en que, conforme a la ley del caso, se verifique dicha adjudicación. Las autoridades judiciales y administrativas se cerciorarán previamente a la adjudicación del inmueble del cumplimiento de esta obligación;
+
+VI.- Los comisarios o representantes ejidales en los términos de las leyes agrarias, y
+
+VII.- Los titulares y/o representantes de los organismos descentralizados, empresas de participación estatal y particulares que posean bienes del dominio público de la Federación, Estado o Municipio, en términos de las fracciones VI y VII del artículo anterior.
+
+DEL OBJETO
 
 ###### Artículo 41.
 
-Las votaciones de las leyes o decretos serán nominales; las de los acuerdos serán económicas.
+Es objeto del impuesto predial:
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+I.- La propiedad, el usufructo o la posesión a título distinto de los anteriores, de predios urbanos, rústicos, ejidales y comunales ubicados dentro del territorio municipal;
+
+II.- La propiedad y el usufructo, de las construcciones edificadas, en los predios señalados en la fracción anterior;
+
+III.- Los derechos de fideicomisario, cuando el inmueble se encuentre en posesión o uso del mismo;
+
+IV.- Los derechos del fideicomitente, durante el tiempo que el fiduciario estuviera como propietario del inmueble, sin llevar a cabo la transmisión al fideicomiso;
+
+V.- Los derechos de la fiduciaria, en relación con lo dispuesto en el artículo 39 de esta ley, y
+
+VI.- La propiedad o posesión por cualquier título de bienes inmuebles del dominio público de la Federación, Estado o Municipio, utilizados o destinados para fines administrativos o propósitos distintos a los de su objeto público.
+
+DE LAS BASES
 
 ###### Artículo 42.
 
-Las leyes o decretos se comunicarán al Ejecutivo firmados por el Presidente y los secretarios, y los acuerdos sólo por éstos. Las leyes o decretos se promulgarán en esta forma: "El Congreso de Michoacán de Ocampo decreta": (Texto de la Ley o decreto).
+Las bases del impuesto predial son:
 
-> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ESTE PÁRRAFO QUEDÓ INTEGRADO CON LOS PÁRRAFOS ANTERIORES SEGUNDO Y TERCERO. VÉASE LITERALIDAD DEL DECRETO NÚMERO 248, PUBLICADO EN EL P.O. 7 DE MARZO DE 2003, PÁGINA 6.]</small>
+I.- El valor catastral del inmueble, y
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+II.- La contraprestación que produzcan los inmuebles, los terrenos o las construcciones ubicadas en los mismos y que por el uso o goce fuere susceptible de ser cobrada por el propietario, el fideicomisario o el usufructuario, independientemente de que se pacte en efectivo, especie o servicios.
 
-El Congreso expedirá la Ley Orgánica que regulará su estructura y funcionamiento internos, así como la Ley de Fiscalización Superior del Estado de Michoacán. Estas leyes no podrán ser vetadas, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia.
+DE LA BASE: VALOR CATASTRAL
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+###### Artículo 43.
 
-Artículo. 43.- El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando éste se encuentre erigido en Gran Jurado.
+Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dicha base estará determinada por el valor consignado en la cédula, que de conformidad con la Ley del Catastro y su reglamento, expedirá la Dirección del Catastro del Municipio o la Dirección del Catastro del Estado de Yucatán, en caso de que el Municipio no contara con este servicio.
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+Cuando la dirección de Catastro del Municipio de Acanceh, Yucatán o la Dirección del Catastro del Estado de Yucatán, en caso de que el Municipio no contara con este servicio, expidiere una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir del bimestre siguiente al mes que se recepcione la citada cédula.
+
+Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a la fecha de la recepción de la nueva cédula catastral ya hubieren pagado el impuesto predial correspondiente. En este caso, el nuevo valor consignado en la cédula servirá como base del cálculo del impuesto predial para el siguiente bimestre no cubierto.
+
+DE LA TARIFA
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 44.
 
-Son facultades del Congreso:
+Cuando la Dirección del Catastro del Municipio de Acanceh, Yucatán, expidiere una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir de la expedición de la cedula respectiva.
 
-I.- Legislar sobre todos los ramos de la administración que sean de la competencia del Estado y reformar, abrogar y derogar las leyes y decretos que se expidieren, así como participar en las reformas de esta Constitución, observando para el caso los requisitos establecidos;
+TABLA DE VALORES CATASTRALES DE TERRENO
 
-II.- Iniciar ante el Congreso de la Unión leyes o decretos, y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados;
+VALORES UNITARIOS DE TERRENO Y CONSTRUCCIONES
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE MARZO DE 1992)</small>
+(VEASE ARCHIVO ANEXO)
 
-III.- Legislar sobre el fraccionamiento y expropiación de tierras, conforme a las bases que fija el artículo 27 de la Constitución General de la República; sobre educación, ejercicio de profesiones, salubridad y asistencia pública; protección al ambiente y de preservación y restauración del equilibrio ecológico.
-
-IV.- Crear municipios dentro de los límites territoriales de los existentes, lo que deberá hacerse conforme a estas bases:
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
-
-a) La solicitud de erección deberá presentarse por escrito ante el Congreso del Estado por un grupo de ciudadanos en número no menor al cincuenta por ciento, más uno de los vecinos inscritos en el padrón electoral del territorio demandante que pretenda establecerse en nuevo Municipio; y con residencia en la localidad de tres años, cuando menos;
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
-
-b) La solicitud deberá contener un expediente técnico con el diagnóstico económico, social, político; los proyectos de plan de desarrollo municipal, desarrollo urbano, desarrollo sustentable y presupuesto de ingresos y egresos que garantice su existencia económica y administrativa, así como que el municipio de que se escinda, pueda seguir subsistiendo sin grave menoscabo de su hacienda municipal, además de la estructura organizacional propuesta;
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
-
-c) La fracción territorial que haya de constituirse en nuevo municipio, debe contar con una población no menor de cuarenta mil habitantes;
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
-
-d) Que el poblado que se elija como cabecera municipal tenga una población no inferior a veinte mil habitantes y cuente con la infraestructura que garantice la prestación de los servicios públicos; y,
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-e) El Congreso debe solicitar la opinión del ayuntamiento de cuyo territorio pretenda formarse la nueva circunscripción municipal, así como de la persona Titular del Ejecutivo del Estado, quienes deberán emitirla dentro de los treinta días hábiles siguientes a la fecha en que les fuere requerida;
-
-V.- Agrupar dos o más Municipios en uno solo, cuando a su juicio no reunan las condiciones expresadas en la fracción anterior. El acuerdo debe ser aprobado por las dos terceras partes de los Diputados presentes;
-
-VI.- Facultar al Ejecutivo, con las limitaciones que estime necesarias, para que por sí o por apoderado especial, represente al Estado en actos o contratos para los que no esté facultado expresamente por esta Constitución;
-
-VII.- Fijar la jurisdicción política, administrativa y judicial del Estado;
-
-VIII.- Dictar normas para la administración, conservación y enajenación de los bienes del Estado.
-
-IX.- Expedir leyes en materia de Hacienda, tanto en lo relativo al Estado como al Municipio. Estas leyes en ningún caso podrán ordenar que el Estado disponga de los fondos municipales;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-X.- Aprobar las leyes de ingresos de los municipios, así como revisar, fiscalizar y dictaminar las cuentas públicas de las haciendas municipales y de los Concejos Municipales a más tardar el treinta y uno de marzo del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, a que se refiere el artículo 134 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior de Michoacán, seguirá su curso en términos de lo dispuesto en dicho artículo;
-
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
-
-X-A.- Expedir las leyes en materia municipal que tengan por objeto establecer:
-
-a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
-
-b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento;
-
-c) Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones II y V del artículo 123, como el último párrafo del artículo 130 de esta Constitución;
-
-d) El procedimiento y condiciones para que el Gobierno Estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y,
-
-e) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
-
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
-
-X-B.- Emitir las normas que establezcan los procedimientos para resolver los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquéllos, con motivo de los actos derivados de los incisos c) y d) de la fracción anterior;
-
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2020)</small>
-
-X-B bis.- Resolver los conflictos por límites territoriales entre los municipios del Estado;
-
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-X-C.- Expedir la ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción;
-
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
-
-XI.- Legislar en materia de ingresos del Estado, y analizar y discutir anualmente el Presupuesto de Egresos, así como revisar, fiscalizar y dictaminar la Cuenta Pública de la Hacienda Estatal. De igual manera, revisar, fiscalizar y dictaminar sobre la aplicación de los recursos otorgados a las entidades paraestatales y otros que dispongan de autonomía.
-
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-El Congreso deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Estado o de las entidades paraestatales que cuenta con la garantía del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados por el Congreso conforme a las leyes aplicables;
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-La revisión de las Cuentas Públicas la realizará el Congreso del Estado de Michoacán de Ocampo a través de la Auditoría Superior de Michoacán. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y partidas respectivas o no existiere exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
-
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
-
-Para expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos, egresos, patrimonio y deuda, para los poderes del Estado y sus Municipios, así como los organismos que por disposición de ley se consideren autónomos y cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes de la materia a fin de garantizar su armonización.
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-XII.- Dar las bases para que el Ejecutivo y los Ayuntamientos contraten deuda pública y afecten como garantía, fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes y con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2026)</small>
-
-La contratación de deuda pública por parte del Poder Ejecutivo del Estado y de los Ayuntamientos deberá realizarse bajo los principios de responsabilidad hacendaria, sostenibilidad financiera y transparencia.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2026)</small>
-
-En el caso del Poder Ejecutivo del Estado, queda prohibida la contratación de deuda pública de largo plazo que exceda la duración de la administración en curso;
-
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
-
-XIII.- Pedir cuentas al Ejecutivo de la recaudación e inversión de los caudales públicos cuando lo estime conveniente. Esta revisión tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y el cumplimiento de los objetivos contenidos en los programas.
-
-XIV.- Legislar sobre toda clase de aranceles;
-
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
-
-XV.- Vigilar, por conducto de la Comisión correspondiente, el correcto funcionamiento y rendimiento de la Auditoría Superior de Michoacán.
-
-XVI.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la administración así como aumentar o disminuir los emolumentos de que éstos gozan, teniendo en cuenta las condiciones de la hacienda pública, y nombrar y remover libremente a los empleados del Poder Legislativo;
-
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2007)</small>
-
-XVI bis.- Legislar en materia de políticas de sueldos, salarios y prestaciones, bajo los principios de racionalidad, austeridad, proporcionalidad, equidad, certeza y motivación, que eviten excesos y discrecionalidad de las autoridades, garantizando la participación de órganos colegiados en la definición de criterios, políticas y lineamientos en la materia. A lo que se sujetarán los poderes Legislativo, Ejecutivo y Judicial, órganos autónomos y entidades de la Administración Pública Paraestatal.
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2009)</small>
-
-XVII.- Conceder honores, premios y recompensas a las personas que presten servicios eminentes a la República o al Estado, con la aprobación de las dos terceras partes de los diputados presentes.
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2009)</small>
-
-XVII bis.- Conceder pensiones, en casos de excepción, conforme a los procedimientos y formalidades que establezca la ley de la materia, con la aprobación de las dos terceras partes de los diputados presentes.
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
-
-XVIII.- Citar a los titulares y directores de las dependencias de la Administración Pública Estatal Centralizada y Paraestatal, al Fiscal General del Estado, así como (sic) los titulares de los organismos autónomos, para comparecer y rendir informe sobre asuntos concernientes a su respectiva competencia;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos o consejos municipales en su caso, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros de conformidad con la Ley.
-
-Los miembros de los ayuntamientos y, en su caso, de los concejos municipales, tendrán siempre oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
-
-En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso designará de entre los vecinos, a los miembros de los concejos municipales que concluirán los períodos respectivos; estos concejos, estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XX.- Designar a las personas que han de integrar los ayuntamientos o los concejos municipales, en su caso, cuando falte definitivamente alguna de ellas, por cualquier causa, y no sea posible que los suplentes electos entren en funciones. Los ciudadanos designados deberán cumplir los requisitos de elegibilidad que para el cargo respectivo establezca esta Constitución y las leyes de la materia;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2024)</small>
-
-XXI. Aprobar o negar las solicitudes de licencia o renuncia de las personas servidoras públicas que le corresponda conforme a esta Constitución y en los términos que establezcan las leyes;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2024)</small>
-
-XXI A. Elegir al integrante del Órgano de Administración del Poder Judicial que le compete;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2024)</small>
-
-XXI B. Designar a los integrantes del Comité de Evaluación a que hace referencia el artículo 69 de esta Constitución;
-
-XXII. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2024)
-
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
-
-XXIII.- Nombrar a las personas que cubran las vacantes temporales de alguno de los magistrados que integran el Tribunal Electoral del Estado;
-
-XXIII bis.- (DEROGADA, P.O. 23 DE MAYO DE 2006)
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
-
-XXIII-A.- Elegir, reelegir y destituir del encargo, a las magistradas y magistrados del Tribunal en materia Anticorrupción y Administrativa, y aprobar o negar las solicitudes de licencia y renuncia de los mismos;
-
-XXIII-B.- (DEROGADA, P.O. 3 DE ABRIL DE 2025)
-
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-XXIII-C.- Elegir y destituir del encargo, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos de control de los organismos autónomos previstos en el Capítulo I del Título Tercero A de esta Constitución;
-
-> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2021)</small>
-
-XXIII-D. Elegir de entre la terna que envíe el Titular del Poder Ejecutivo, al titular del Centro de Conciliación Laboral del Estado Michoacán de Ocampo, por el voto de las dos terceras partes de los diputados presentes; así como destituirlo por la misma mayoría calificada;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-XXIV.- Conceder las licencias que soliciten para separarse temporalmente de sus cargos, y admitir o rechazar las renuncias que hagan de sus respectivos puestos los diputados y los funcionarios y empleados que fueren de su nombramiento. Igualmente, aceptar o rechazar la renuncia que presente la Gobernadora o Gobernador del Estado, o las licencias que éste solicite para separarse de sus funciones por más de treinta días;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-XXV.- Designar Gobernadora o Gobernador interino del Estado cuando la separación del titular sea mayor de treinta días;
-
-(NOTA: EL 23 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO VIII.1 Y IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 165/2018, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXVI DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: ”XXVI.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 106 de esta Constitución.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XXVI.- (DEROGADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2018)
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE JULIO DE 2018)</small>
-
-Conocer de las imputaciones que se hagan a los servidores públicos y erigirse en Jurado de Sentencia, para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 108 de esta Constitución.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
-
-Las declaraciones y resoluciones del Congreso del Estado son inatacables;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXVII.- Expedir la Ley Orgánica del Congreso y dictar resoluciones económicas relativas a su régimen interno;
-
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2010)</small>
-
-XXVIII.- Comunicarse con el Ejecutivo o Judicial por medio de comisiones de su seno;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXIX.- Expedir convocatoria a elecciones extraordinarias para cubrir las vacantes de diputados;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXX.- Conceder, por el voto de las dos terceras partes de los diputados presentes, amnistías o indultos por delitos que deben conocer o hayan conocido los tribunales del Estado;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXXI.- Establecer el juicio de jurados para los delitos cometidos por medio de la prensa contra el orden público y cuando lo creyere conveniente, respecto a los demás delitos;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-XXXII. Aprobar o rechazar las concesiones otorgadas y los contratos de interés general celebrados por la persona Titular del Ejecutivo del Estado;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXXIII.- Rehabilitar, con arreglo a la ley, a las personas a quienes se haya impuesto como pena, la pérdida o suspensión de los derechos de ciudadanía, civiles o de familia;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXXIV.- Expedir todas las leyes que sean necesarias a fin de hacer efectivas las facultades anteriormente expresadas, y todas las otras concedidas por esta Constitución a los Poderes del Estado;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XXXV.- Someter a referéndum las leyes y decretos que considere sean trascendentales para el orden público o el interés social del Estado, conforme a los procedimientos y formalidades que establezca la ley de la materia. No podrán ser objeto de referéndum las reformas a esta Constitución, normas de carácter tributario o fiscal, de Egresos y las relativas a la regulación interna de los órganos del Estado; y,
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE AGOSTO DE 2018)</small>
-
-XXXVI.- Integrar la lista de diez candidatos para enviarla al Ejecutivo, y elegir, de entre la terna que remita éste, al Fiscal General del Estado, en los términos de esta Constitución;
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
-
-XXXVII.- Aprobar la licencia o renuncia del Fiscal General del Estado;
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
-
-XXXVIII.- Remover al Fiscal General del Estado mediante el voto de las dos terceras partes de los diputados presentes;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-XXXIX.- Ratificar el nombramiento que haga la Gobernadora o Gobernador del Estado del titular de la dependencia de control interno, por el voto de las dos terceras partes de los diputados presentes;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-XL.- Dictaminar de manera prioritaria y con carácter de preferente las leyes o reformas que envíe la Gobernadora o Gobernador, en el supuesto de crisis evidente de derechos humanos; y,
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE AGOSTO DE 2018)</small>
-
-XLI.- Las demás que le confiera expresamente esta Constitución.
-
-> <small>(DEROGADA, P.O. 7 DE MARZO DE 2003)</small>
-
-#### SECCION V. De la Diputación Permanente
+DEL PAGO
 
 #### SECCION I. De la Formación del Poder Legislativo
 
@@ -1187,2183 +583,1597 @@ XLI.- Las demás que le confiera expresamente esta Constitución.
 
 ###### Artículo 45.
 
-(DEROGADO, P.O. 7 DE MARZO DE 2003)
+El impuesto predial sobre la base de valor catastral deberá cubrirse por bimestres anticipados dentro de los primeros quince días de cada uno de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
+
+Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante los meses de enero y febrero de dicho año, gozará de un descuento del 10% sobre el importe de dicho impuesto.
+
+La tabla de valores unitarios de predios urbanos y rústicos con o sin construcción que de manera general se establecen en esta ley, podrán ser disminuidos, modificados o aumentados en la Ley de Ingresos del Municipio que apruebe el H. Congreso del Estado de Yucatán.
+
+EXENCIONES
 
 ###### Artículo 46.
 
-(DEROGADO, P.O. 7 DE MARZO DE 2003)
+Estarán exentos de pago de Impuesto Predial, los bienes de dominio público de la Federación, Estado o Municipio, salvo que tales bienes sean utilizados por entidades paraestatales, por organismos descentralizados o particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público. En este caso, el impuesto predial se pagará en la forma, términos y conforme a la tarifa establecida en la presente ley.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Cuando en un mismo inmueble, se realicen simultáneamente actividades propias del objeto público, de las entidades u organismos mencionados en el párrafo anterior, y otras actividades distintas o accesorias, para que la Tesorería Municipal correspondiente esté en condiciones de determinar el impuesto a pagar, los organismos descentralizados, las empresas de participación estatal o quienes posean bajo cualquier título inmuebles del dominio público de la Federación, Estado o Municipio, deberán declarar, durante los primeros quince días del mes de diciembre de cada año, ante la propia Tesorería Municipal, la superficie ocupada efectivamente para la realización de su objeto principal señalando claramente la superficie que del mismo inmueble sea utilizado para fines administrativos o distintos a los de su objeto público.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+La Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación, de la declaración de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencia. En caso afirmativo, se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán.
+
+Sólo en los casos de que la estructura de algún inmueble no admita una cómoda delimitación o cuando no se presente la declaratoria a que se refiere el párrafo anterior, será la oficina de catastro municipal o estatal en caso de que el Municipio no cuente con este servicio, la que, tomando como base los datos físicos y materiales que objetivamente presente el inmueble, fije el porcentaje que corresponda a la superficie gravable, calcule su valor catastral y éste último, servirá de base a la Tesorería Municipal, para la determinación del impuesto a pagar.
+
+DE LA BASE CONTRAPRESTACIÓN
 
 ###### Artículo 47.
 
-Se deposita el ejercicio del Poder Ejecutivo en un solo individuo que se denominará «Gobernadora del Estado» o «Gobernador del Estado».
+El impuesto predial se causará sobre la base de rentas, frutos civiles o cualquier otra contraprestación pactada, cuando el inmueble de que se trate, hubiese sido otorgado en arrendamiento, subarrendamiento, convenio de desocupación o cualquier otro título o instrumento jurídico por virtud del cual se permitiere su uso y con ese motivo, se genere dicha contraprestación, aún cuando el título en el que conste la autorización o se permita el uso no se hiciere constar el monto de la contraprestación respectiva.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+El impuesto predial sobre la base contraprestación se pagará única y exclusivamente en el caso de que al determinarse el impuesto conforme a la tarifa establecida en el artículo 49 de esta ley, diere como resultado un impuesto mayor al que se pagaría sobre la base del valor catastral calculado conforme a la tarifa del artículo 44 de esta ley.
+
+No será aplicada esta base cuando los inmuebles sean destinados a sanatorios de beneficencia y centros de enseñanza reconocidos por la autoridad educativa correspondiente.
+
+DE LAS OBLIGACIONES DEL CONTRIBUYENTE
 
 ###### Artículo 48.
 
-La elección del Gobernador o Gobernadora será popular y directa en los términos que disponga la Ley Electoral.
+Los propietarios, fideicomisarios, fideicomitentes o usufructuarios de inmuebles, que se encuentren en cualquiera de los supuestos previstos en el artículo anterior, estarán obligados a empadronarse en la Tesorería Municipal en un plazo máximo de treinta días, contados a partir de la fecha de celebración del contrato correspondiente, entregando copia del mismo a la propia Tesorería.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+Cualquier cambio en el monto de la contraprestación que generó el pago del impuesto predial sobre la base a que se refiere el artículo 47 de esta ley, será notificado a la Tesorería Municipal, en un plazo de quince días, contados a partir de la fecha en que surta efectos la modificación respectiva. En igual forma, deberá notificarse la terminación de la relación jurídica que dio lugar a la contraprestación mencionada en el propio numeral 47 de esta ley, a efecto de que la autoridad determine el impuesto predial sobre la base del valor catastral.
+
+Cuando de un inmueble formen parte dos o más departamentos y éstos se encontraren en cualquiera de los supuestos del citado artículo 47 de esta ley, el contribuyente deberá empadronarse por cada departamento.
+
+Los fedatarios públicos ante quienes se otorgare, firmare o rectificare el contrato, el convenio o el documento, que dio lugar a la situación jurídica, que permita al propietario, fideicomisario, fideicomitente, o usufructuario obtener una contraprestación, en los términos señalados en el artículo 47 de esta ley, estarán obligados a entregar una copia simple del mismo a la Tesorería Municipal, en un plazo de treinta días, contados a partir de la fecha del otorgamiento, de la firma o de la ratificación del documento respectivo.
+
+DE LA TARIFA
 
 ###### Artículo 49.
 
-Para ser Gobernador o Gobernadora se requiere:
+Cuando la base del impuesto predial, sean las rentas, frutos civiles o cualquier otra contraprestación generada por el uso, goce o por permitir la ocupación de un inmueble por cualquier título, el impuesto se pagará mensualmente conforme a la siguiente tarifa:
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+DESTINO FACTOR
 
-I.- Ser ciudadano michoacano en pleno goce de sus derechos;
+HABITACIONAL 2 % mensual sobre el monto de la Contraprestación.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 1977)</small>
+PREDIOS 5 % mensual sobre el monto de la Contraprestación.
 
-II.- Haber cumplido treinta años el día de la elección;
+UTILIZADOS PARA ACTIVIDADES COMERCIALES
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+El factor del valor catastral del inmueble en términos de lo dispuesto en el artículo 47 de este ordenamiento legal.
 
-III.- Haber nacido en el Estado o tener residencia efectiva no menor de cinco años anteriores al día de la elección.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+DEL PAGO
 
 ###### Artículo 50.
 
-No pueden desempeñar el cargo de Gobernador o Gobernadora:
+Cuando el impuesto predial se cause sobre la base de la contraprestación pactada por usar, gozar o permitir la ocupación de un inmueble, el impuesto deberá cubrirse durante la primera quincena del mes siguiente a aquél en que se cumpla alguno de los siguientes supuestos:
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+I.- Que sea exigible el pago de la contraprestación;
 
-I.- Los individuos que pertenezcan o hayan pertenecido al estado eclesiástico o que hayan sido o sean ministros de algún culto religioso;
+II.- Que se expida el comprobante de la misma;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2025)</small>
+III.- Que se cobre el monto pactado por el uso o goce.
 
-II.- No pueden ser electos para ocupar el cargo de la persona Titular del Ejecutivo del Estado:
+Salvo el caso en que los propietarios, usufructuarios, fideicomisarios o fideicomitentes estuviesen siguiendo un procedimiento judicial para el cobro de la contraprestación pactada, en contra del ocupante o arrendatario.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+En este caso, para que los propietarios, usufructuarios, fideicomisarios o fideicomitentes tributen sobre la base del valor catastral del inmueble objeto, deberán notificar dicha situación, a la Tesorería Municipal, dentro de los quince días siguientes a la fecha de inicio del procedimiento correspondiente, anexando copia del memorial respectivo.
 
-a).- Los que tengan mando de fuerza pública;
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
-
-b).- Aquellos que desempeñen algún cargo o comisión del Gobierno Federal;
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
-
-c).- Los titulares de las dependencias básicas del Ejecutivo; los Magistrados del Supremo Tribunal de Justicia, del Tribunal en materia Anticorrupción y Administrativa y del Tribunal Electoral; los Consejeros del Poder Judicial; el Fiscal General del Estado; y,
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
-
-d).- Los consejeros y funcionarios electorales federales o estatales, a menos que se separen un año antes del día de la elección.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
-
-Las personas a que se refieren los incisos a), b) y c) anteriores, podrán ser electas si se separan de sus cargos noventa días antes de la elección.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+DE LAS OBLIGACIONES DE TERCEROS
 
 ###### Artículo 51.
 
-La elección de Gobernadora o Gobernador se celebrará el primer domingo del mes de junio del año en que concluya el período constitucional. La persona Titular del Ejecutivo del Estado entrará a ejercer su cargo el día primero del mes de octubre del año de la elección y no podrá durar en él más de seis años. La persona que haya desempeñado el cargo de la titularidad del Ejecutivo del Estado, cuyo origen sea el de elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+Los fedatarios públicos, las personas que por disposición legal tengan funciones notariales y los funcionarios ante quienes se ratifiquen las firmas, no deberán autorizar o ratificar escrituras o contratos que se refieran a predios urbanos o rústicos ubicados en el territorio municipal o a construcciones edificadas en dicho territorio, sin obtener un certificado expedido por la Tesorería Municipal. El certificado que menciona el presente artículo deberá anexarse al documento, testimonio o escritura en la que conste el acto o contrato y los escribanos estarán obligados a acompañarlos a los informes que remitan al Archivo Notarial del Estado de Yucatán.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Los contratos, convenios o cualquier otro título o instrumento jurídico que no cumplan con el requisito mencionado en el párrafo anterior, no se inscribirán en el Registro Público de la Propiedad y de Comercio del Estado.
 
-### CAPITULO II. Del Territorio del Estado
+La Tesorería Municipal, expedirá los certificados de no adeudar impuesto predial, conforme a la solicitud que por escrito presente el interesado, quien deberá señalar el inmueble, el bimestre y el año, respecto de los cuales solicite la certificación.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Cada Tesorería emitirá la forma correspondiente para solicitar el certificado mencionado en el párrafo que antecede.
+
+### Capítulo II. Del Impuesto Sobre Adquisición de Inmuebles
 
 ###### Artículo 52.
 
-Nunca podrán ser electos para el período inmediato;
+Son sujetos de este impuesto, las personas físicas o morales que adquieran inmuebles, en términos de las disposiciones de este capítulo con excepción de los enajenantes.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+Los sujetos obligados al pago de este impuesto, deberán enterarlo en la Tesorería Municipal, dentro del plazo señalado en este capítulo a la fecha en que se realice el acto generador del tributo, mediante declaración, utilizando las formas que para tal efecto emita la propia Tesorería Municipal.
 
-a) La Gobernadora o Gobernador substituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación; y,
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-b) La Gobernadora o Gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los últimos años del período.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+DE LOS OBLIGADOS SOLIDARIOS
 
 ###### Artículo 53.
 
-La Gobernadora o Gobernador cesará en el ejercicio de su encargo al terminar su período de gobierno, aun cuando no se haya hecho la elección del que deba substituirlo, o éste no se haya presentado.
+Son sujetos solidariamente responsables del pago del Impuesto Sobre Adquisición de Inmuebles:
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+I.- Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, cuando autoricen una escritura que contenga alguno de los supuestos que se relacionan en el artículo 54 de la presente ley y no hubiesen constatado el pago del impuesto, y
+
+II.- Los funcionarios o empleados del Registro Público de la Propiedad y del Comercio del Estado, que inscriban cualquier acto, contrato o documento relativo a algunos de los supuestos que se relacionan en el mencionado artículo 54 de esta ley, sin que les sea exhibido el recibo correspondiente al pago del impuesto.
+
+DEL OBJETO
 
 ###### Artículo 54.
 
-Si al comenzar un período constitucional no se presentare la Gobernadora o Gobernador electo, la elección no estuviere hecha o no sea declarada su legalidad y validez, cesará, sin embargo, el Gobernador cuyo período haya concluido, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso del Estado.
+Es objeto del Impuesto sobre Adquisición de Inmuebles, toda adquisición del dominio de bienes inmuebles, que consistan en el suelo, en las construcciones adheridas a él, en ambos, o de derechos sobre los mismos, ubicados en el Municipio de Acanceh, Yucatán. Para efectos de este impuesto, se entiende por adquisición:
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+I.- Todo acto por el que se adquiera la propiedad, incluyendo la donación, y la aportación a toda clase de personas morales;
+
+II.- La compraventa en la que el vendedor se reserve la propiedad del inmueble, aún cuando la transferencia de ésta se realice con posterioridad;
+
+III.- El convenio, promesa, minuta o cualquier otro contrato similar, cuando se pacte que el comprador o futuro comprador, entrará en posesión del inmueble o que el vendedor o futuro vendedor, recibirá parte o la totalidad del precio de la venta, antes de la celebración del contrato definitivo de enajenación del inmueble, o de los derechos sobre el mismo;
+
+IV.- La cesión de derechos del comprador o del futuro comprador, en los casos de las fracciones II y III que anteceden;
+
+V.- La fusión o escisión de sociedades;
+
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles y mercantiles;
+
+VII.- La constitución de usufructo y la adquisición del derecho de ejercicios del mismo;
+
+VIII.- La prescripción positiva;
+
+IX.- La cesión de derechos del heredero o legatario. Se entenderá como cesión de derechos la renuncia de la herencia o del legado, efectuado después del reconocimiento de herederos y legatarios;
+
+X.- La adquisición que se realice a través de un contrato de fideicomiso, en los supuestos relacionados en el Código Fiscal de la Federación;
+
+XI.- La disolución de la copropiedad y de la sociedad conyugal, por la parte que el copropietario o el cónyuge adquiera en demasía del porcentaje que le corresponde;
+
+XII.- La adquisición de la propiedad de bienes inmuebles, en virtud de remate judicial o administrativo, y
+
+XIII.- En los casos de permuta se considerará que se efectúan dos adquisiciones.
+
+DE LAS EXENCIONES
 
 ###### Artículo 55.
 
-El cargo de Gobernadora o Gobernador del Estado sólo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia.
+No se causará el Impuesto Sobre Adquisición de Inmuebles en las adquisiciones que realice la Federación, los Estados, el Distrito Federal, el Municipio, las Instituciones de Beneficencia Pública, la Universidad Autónoma de Yucatán y en los casos siguientes:
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+I.- La transformación de sociedades, con excepción de la fusión;
+
+II.- En la adquisición que realicen los Estados Extranjeros, en los casos que existiera reciprocidad;
+
+III.- Cuando se adquiera la propiedad de Inmuebles, con motivo de la constitución de la sociedad conyugal;
+
+IV.- La disolución de la copropiedad, siempre que las partes adjudicadas no excedan de las porciones que a cada uno de los copropietarios corresponda. En caso contrario, deberá pagarse el impuesto sobre el exceso o la diferencia;
+
+V.- Cuando se adquieran inmuebles por herencia o legado, y
+
+VI.- La donación entre consortes, ascendientes o descendientes en línea directa, previa comprobación del parentesco ante la Tesorería Municipal.
+
+DE LA BASE
 
 ###### Artículo 56.
 
-La designación de la Gobernadora o Gobernador Provisional, Interino y Substituto debe recaer en persona que reúna los requisitos a que se refiere el artículo 49 y que no esté comprendida en alguna de las prohibiciones aplicables de los artículos 50 y 52 de esta Constitución.
+La base del impuesto Sobre Adquisición de Inmuebles, será el valor que resulte mayor entre el precio de adquisición, el valor contenido en la cédula catastral vigente, el valor contenido en el avalúo pericial tratándose de las operaciones consignadas en las fracciones IX, XI y XII del artículo 54 de esta ley, el avalúo expedido por las autoridades fiscales, las Instituciones de Crédito, la Comisión de Avalúos de Bienes Nacionales o por corredor público o perito valuador que se registre en la Tesorería Municipal, previo cumplimiento de los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+a) ser ciudadano mexicano en pleno goce de sus derechos.
+
+b) Acreditar con documentación fehaciente, experiencia valuatoria mínima de tres años inmediatos anteriores a la fecha de solicitud de registro.
+
+Cuando el adquiriente asuma la obligación de pagar alguna deuda del enajenante o de perdonarla, el importe de dicha deuda, se considerará parte del precio pactado.
+
+En todos los casos relacionados con el artículo 54, se deberá practicar avalúo sobre los inmuebles objetos de las operaciones consignadas en ese artículo y a ellos deberá anexarse el resumen valuatorio que contendrá:
+
+I.- ANTECEDENTES:
+
+a) Valuador
+
+b) Registro Municipal
+
+c) Fecha de Avalúo
+
+II.- UBICACIÓN:
+
+a) Localidad
+
+b) Sección Catastral
+
+c) Calle y Número
+
+d) Colonia
+
+e) Observaciones (en su caso)
+
+III.- RESUMEN VALUATORIO:
+
+A).- TERRENO
+
+1) Superficie Total M2
+
+2) Valor Unitario
+
+3) Valor del terreno
+
+B).- CONSTRUCCIÓN
+
+1) Superficie Total M2
+
+2) Valor Unitario
+
+3) Valor Comercial
+
+IV.- UNIDAD CONDOMINAL:
+
+a) Superficie Privativa M2
+
+b) Valor Unitario
+
+c) Valor Comercial
+
+La autoridad fiscal municipal estará facultada para practicar, ordenar o tomar en cuenta el avalúo del inmueble, objeto de la adquisición referido a la fecha de adquisición y, cuando el valor del avalúo practicado, ordenado o tomado en cuenta, excediera en más de un 10 por ciento, del valor mayor, el total de la diferencia se considerará como parte del precio pactado.
+
+Para los efectos del presente artículo, el usufructo y la nuda propiedad tienen cada uno el valor equivalente al .5 del valor de la propiedad.
+
+En la elaboración de los avalúos referidos así como para determinar el costo de los mismos con cargo a los contribuyentes, la autoridad fiscal municipal observará las disposiciones del Código Fiscal del Estado de Yucatán o, en su defecto, las disposiciones relativas del Código Fiscal de la Federación y su reglamento.
+
+VIGENCIA DE LOS AVALÚOS
 
 ###### Artículo 57.
 
-En caso de falta absoluta de la persona Titular del Ejecutivo del Estado, ocurrida en los dos primeros años del período respectivo, el Congreso concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría absoluta de votos, una Gobernadora o Gobernador interino; en un plazo no mayor a diez días, siguientes a la designación de la persona Titular de la Gubernatura Interina, expedirá la convocatoria de elecciones para gobernador substituto que termine el período constitucional, debiendo mediar entre la fecha de la convocatoria y la que se señale para las elecciones, un plazo no menor de tres meses ni mayor de seis.
+Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquisición de Bienes Inmuebles, tendrán una vigencia de seis meses a partir de la fecha de su expedición.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-Cuando la falta de la persona Titular del Ejecutivo del Estado ocurriere en los cuatro últimos años del período para el cual fue electo, el Congreso del Estado, concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría calificada de votos, a la Gobernadora o Gobernador substituto que deberá concluir el período respectivo.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-Cuando la falta de la persona Titular del Ejecutivo del Estado fuese temporal, el Congreso del Estado designará una Gobernadora o Gobernador Interino para que despache durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario de Gobierno se encargará del despacho del Poder Ejecutivo, y a falta de éste lo hará el Secretario de Finanzas.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+DE LA TASA
 
 ###### Artículo 58.
 
-En caso de que se declaren desaparecidos los Poderes del Estado, será Gobernadora o Gobernador a quien corresponda, de acuerdo con lo dispuesto por el artículo 160 de esta Constitución, o en su defecto, el que designe la Cámara de Senadores o la Comisión Permanente del Congreso de la Unión, en los términos de la Constitución General de la República.
+El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 2 % a la base señalada en el artículo 56 de esta ley.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+DEL MANIFIESTO A LA AUTORIDAD
 
 ###### Artículo 59.
 
-La Gobernadora o Gobernador, al tomar posesión de su cargo, prestará ante el Congreso del Estado, la siguiente protesta: «Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Titular del Ejecutivo del Estado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de Michoacán; y si así no lo hiciere, que la Nación y el Estado me lo demanden».
+Los fedatarios públicos, las personas que por disposición legal tengan funciones notariales y las autoridades judiciales o administrativas, deberán manifestar a la Tesorería Municipal por duplicado, dentro de los treinta días siguientes a la fecha del acto o contrato, la adquisición de inmuebles realizados ante ellos, expresando:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2025)</small>
+I.- Nombre y domicilio de los contratantes;
 
-#### SECCION II. De las Facultades y Obligaciones de la Gobernadora o Gobernador del Estado
+II.- Nombre del fedatario público y número que le corresponda a la notaría o escribanía. En caso de tratarse de persona distinta a los anteriores y siempre que realice funciones notariales, deberá expresar su nombre y el cargo que detenta;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+III.- Firma y sello, en su caso, del autorizante;
+
+IV.- Fecha en que se firmó la escritura de adquisición del inmueble o de los derechos sobre el mismo;
+
+V.- Naturaleza del acto, contrato o concepto de adquisición;
+
+VI.- Identificación del inmueble;
+
+VII.- Valor de la operación, y
+
+VIII.- Liquidación del impuesto.
+
+A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto.
+
+Cuando los fedatarios públicos y quienes realizan funciones notariales no cumplan con la obligación a que se refiere este artículo, serán sancionados con una multa de uno a diez salarios mínimos vigentes en el Estado de Yucatán.
+
+Los jueces o presidentes de las juntas de conciliación y arbitraje federales o estatales, únicamente tendrán la obligación de comunicar a la Tesorería Municipal, el procedimiento que motivó la adquisición, el número de expediente, el nombre o razón social de la persona a quien se adjudique el bien y la fecha de adjudicación.
+
+DE LOS RESPONSABLES SOLIDARIOS
 
 ###### Artículo 60.
 
-Las facultades y obligaciones de la Gobernadora o Gobernador son:
+Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, acumularán al instrumento donde conste la adquisición del inmueble o de los derechos sobre el mismo, copia del recibo donde se acredite haber pagado el impuesto o bien, copia del manifiesto sellado, cuando se trate de las operaciones consignadas en el artículo 55 de esta ley. Para el caso de que las personas obligadas a pagar este impuesto, no lo hicieren, los fedatarios y las personas que por disposición legal tengan funciones notariales, se abstendrán de autorizar el contrato o escritura correspondiente.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+Por su parte, los registradores, no inscribirán en el Registro Público de la Propiedad y del Comercio del Estado, los documentos donde conste la adquisición de inmuebles o de derechos sobre los mismos, sin que el solicitante compruebe que no cumplió con la obligación de pagar el Impuesto Sobre Adquisición de Inmuebles.
 
-I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado, y proveer en la esfera administrativa a su exacta observancia;
+En caso contrario, los fedatarios públicos, las personas que tengan funciones notariales y los registradores, serán solidariamente responsables del pago impuesto y sus accesorios legales, sin perjuicio de la responsabilidad administrativa o penal en que incurran con ese motivo.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+Los fedatarios y las demás personas que realicen funciones notariales no estarán obligados a enterar el impuesto cuando consignen en las escrituras o documentos públicos, operaciones por las que ya se hubiese cubierto el impuesto y acompañen a su declaración copia de aquélla con la que se efectuó dicho pago.
 
-II.- Poner a la disposición del Poder Judicial los medios necesarios para el ejercicio expedito de sus funciones;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2024)</small>
-
-III. Designar al integrante del Órgano de Administración del Poder Judicial que le compete;
-
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2024)</small>
-
-III Bis. Designar a los integrantes del Comité de Evaluación a que hace referencia el artículo 69 de esta Constitución;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-IV.- Fomentar el turismo y promover el desarrollo agrícola, industrial y comercial de Michoacán;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-V.- Iniciar ante el Congreso leyes y decretos que tiendan al mejoramiento de la administración pública;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-VI.- Expedir los reglamentos interiores de las oficinas a su cargo;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-VII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-VIII.- Presentar cada año al Congreso, a más tardar el treinta de abril, la Cuenta Pública de la Hacienda Estatal correspondiente al ejercicio fiscal próximo anterior, sólo se podrá ampliar el plazo de presentación hasta por treinta días naturales cuando medie solicitud de la persona Titular del Ejecutivo del Estado, suficientemente justificada a juicio del Congreso; y a más tardar el veintiuno de noviembre las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el año siguiente;
-
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
-
-IX.- Dar informes al Congreso cuando le fueren pedidos, sobre cualquier ramo de la administración pública, por sí o a través de los titulares de las dependencias básicas;
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
-
-X.- Presentar al Congreso del Estado, un informe por escrito, dentro del período comprendido entre el día 15 y 30 de septiembre de cada año, en el que manifieste el estado general que guarde la Administración Pública del Estado y señale con precisión, el ejercicio del presupuesto y su vinculación con el Plan Estatal de Desarrollo, estableciendo en su caso las incidencias por las que éste se hubiese modificado y proponiendo los medios para mejorarla.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE AGOSTO DE 2018)</small>
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XI.- Instruir a la Guardia Nacional, de acuerdo con los reglamentos que expida el Congreso de la Unión;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XII.- Supervisar la formación e instrucción de las fuerzas de seguridad pública del Estado y apoyar, en su caso, a los cuerpos de seguridad pública municipal, policía preventiva y tránsito municipales.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-La policía preventiva municipal, acatará las órdenes que la Gobernadora o Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XIII.- Disponer de las fuerzas de seguridad y de la Guardia Nacional, y ordenar que pase ésta a otros Estados, en los términos que establezca la Constitución Federal;
-
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
-
-XIV.- Nombrar y remover a los funcionarios y empleados de la administración pública estatal cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución o en las leyes, observando el principio de paridad de género.
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XV.- Aplicar sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas. Pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
-
-Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
-
-Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
-
-XVI.- Presentar terna al Congreso del Estado, para la elección del Fiscal General del Estado;
-
-XVII.- (DEROGADA, P.O. 13 DE AGOSTO DE 2018)
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XVIII.- Visitar los municipios del Estado para imponerse de sus necesidades, y proponer al Congreso los medios para remediarlas;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XIX.- Cuidar de la conservación de los ejidos, tierras y aguas comunales, en los términos de la ley;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-XX.- Promover el fraccionamiento de los latifundios y la formación de la pequeña propiedad;
-
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2021)</small>
-
-XXI.- Consultar a los ciudadanos, a través de plebiscito, sobre actos o decisiones, cuando lo considere trascendental para la vida pública y el interés social del Estado, conforme a los procedimientos y formalidades que establezca la Ley de la materia. No podrán someterse a plebiscito, los actos o decisiones relativos a materia tributaria o Fiscal, de Egresos, régimen interno de la Administración Pública del Estado y los demás que determine la Ley;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE DICIEMBRE DE 2021)</small>
-
-XXII.- Presentar terna al Congreso del Estado, para la elección del titular del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo; y,
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE DICIEMBRE DE 2021)</small>
-
-XXIII.- Todas las demás atribuciones que le confieran la Constitución Federal, la del Estado y las leyes que de ellas emanen.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+DEL PAGO
 
 ###### Artículo 61.
 
-La Gobernadora o Gobernador del Estado no podrá:
+El pago del Impuesto Sobre Adquisición de Inmuebles, deberá hacerse, dentro de los treinta días hábiles siguientes a la fecha en que, según el caso, ocurra primero alguno de los siguientes supuestos:
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+a) Se celebre el acto contrato;
 
-I.- Negarse a promulgar y publicar las leyes y decretos de la Legislatura;
+b) Se eleve a escritura pública;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+c) Se inscriba en el Registro Público de la Propiedad y de Comercio del Estado.
 
-II.- Imponer contribución alguna que no esté previamente establecida por la ley;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-III.- Distraer los caudales públicos del objeto a que estén destinados por la ley;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-IV.- Impedir a retardar las elecciones populares o la instalación de la Legislatura;
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-V.- Intervenir por sí o a través de persona física o moral, o en cualquier forma, en las elecciones para favorecer a partido político o candidato alguno;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2025)</small>
-
-VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso. Cuando la persona Titular del Ejecutivo del Estado, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho del Poder Ejecutivo, y a falta de éste el encargado será el Secretario de Finanzas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-Cuando el Gobernador salga del territorio nacional con motivos oficiales, deberá informar a su regreso, por escrito al Congreso, en un plazo no mayor de quince días, sobre las acciones realizadas en el extranjero y los resultados obtenidos;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-VII.- Mezclarse en asuntos judiciales, ni disponer, durante la tramitación de un juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia, y
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-VIII.- Autorizar la ocupación de la propiedad de persona alguna, ni privarla de la posesión, uso o goce de lo que le pertenece.
-
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-#### SECCION III. Del Despacho del Poder Ejecutivo
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+DE LA SANCIÓN
 
 ###### Artículo 62.
 
-Para el despacho de los negocios del orden político-administrativo, la Gobernadora o Gobernador del Estado contará con las dependencias básicas y organismos que determinen esta Constitución, la Ley Orgánica del Poder Ejecutivo del Estado y demás leyes.
+Cuando el Impuesto Sobre Adquisición de Inmuebles no fuere cubierto dentro del plazo señalado en el artículo inmediato anterior, los contribuyentes o los obligados solidarios, en su caso, se harán acreedores a una sanción equivalente al importe de los recargos que se determinen conforme al artículo 31 de esta ley. Lo anterior, sin perjuicio de la aplicación del recargo establecido para las contribuciones fiscales pagadas en forma extemporánea.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)</small>
+### Capítulo III. Impuesto Sobre Diversiones y Espectáculos Públicos
 
-Asimismo, contará con una Agencia de Coordinación de los Pueblos y Comunidades Indígenas en Michoacán, la cual estará encargada de coordinar los trabajos de las comunidades indígenas y los Gobiernos Comunales con las diversas dependencias y entidades de la administración pública estatal.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-La persona Titular del Poder Ejecutivo del Estado, observará y garantizará el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de estado, así como en la integración de los organismos autónomos, descentralizados se observará el mismo principio.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-### CAPITULO I. De la División de Poderes
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+DE LOS SUJETOS
 
 ###### Artículo 63.
 
-Para ser Secretario de Gobierno se requiere:
+Son sujetos del Impuesto Sobre Diversiones y Espectáculos Públicos, las personas físicas o morales que perciban ingresos derivados de la comercialización de actos, diversiones o espectáculos públicos, ya sea en forma permanente o temporal.
 
-I.- Ser mexicano y michoacano por nacimiento, o tener residencia efectiva en el Estado, no menor de dos años anteriores a la fecha del nombramiento;
+Los sujetos de este impuesto además de las obligaciones a que se refieren los artículos 28 y 29 de esta ley, deberán:
 
-II.- Ser ciudadano en pleno ejercicio de sus derechos;
+I.- Proporcionar a la Tesorería los datos señalados a continuación:
 
-III.- Haber cumplido veinticinco años de edad el día de su designación;
+a) Nombre y domicilio de quien promueve la diversión o espectáculo;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 1978)</small>
+b) Clase o Tipo de Diversión o Espectáculo;
 
-IV.- No haber sido condenado por delito no culposo.
+c) Ubicación del lugar donde se llevará a cabo el evento.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+II.- Cumplir con las disposiciones que para tal efecto fije el Ayuntamiento del Municipio de Acanceh, Yucatán, en el caso del Municipio que no hubiere el reglamento respectivo, y
 
-Los mismos requisitos serán necesarios para ser Secretario de Finanzas.
+III.- Presentar a la Tesorería Municipal, cuando menos tres días antes de la realización del evento, la emisión total de los boletos de entrada, señalando el número de boletos que corresponden a cada clase y su precio al público, a fin que se autoricen con el sello respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+DEL OBJETO
 
 ###### Artículo 64.
 
-El Secretario de Gobierno será el órgano por el cual el Ejecutivo comunique sus resoluciones y llevará en el Congreso la representación de la Gobernadora o Gobernador cuando éste lo crea conveniente.
+Es objeto del Impuesto Sobre Diversiones y Espectáculos Públicos, el ingreso derivado de la comercialización de actos, diversiones y espectáculos públicos, siempre y cuando dichas actividades sean consideradas exentas de pago de Impuesto al Valor Agregado.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+Para los efectos de este capítulo se consideran:
 
-Al Secretario de Gobierno le corresponde representar al Titular del Poder Ejecutivo del Estado, por sí o por medio de representante designado al efecto, en los juicios y procedimientos en que sea parte.
+Diversiones Públicas: Son aquellos eventos a los cuales el público asiste mediante el pago de una cuota de admisión, con la finalidad de participar o tener la oportunidad de participar activamente en los mismos.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+Espectáculos Públicos: Son aquellos eventos a los que el público asiste, mediante el pago de una cuota de admisión, con la finalidad de recrearse y disfrutar con la presentación del mismo, pero sin participar en forma activa.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+Cuota de Admisión: Es el importe o boleto de entrada, donativo, cooperación o cualquier otra denominación que se le dé a la cantidad de dinero por la que se permita el acceso a las diversiones y espectáculos públicos.
+
+DE LA BASE
 
 ###### Artículo 65.
 
-La promulgación y la orden de publicación de las leyes se harán constar mediante la firma de la persona Titular del Ejecutivo del Estado y del Secretario de Gobierno. Todos los decretos reglamentos; órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por la Gobernadora o Gobernador, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda; requisito sin el cual no serán obligatorios.
+La base del Impuesto Sobre Diversiones y Espectáculos Públicos, será la totalidad del ingreso percibido por los sujetos del impuesto, en la comercialización correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+DE LA TASA
 
 ###### Artículo 66.
 
-Los titulares de las dependencias serán responsables con la Gobernadora o Gobernador en todos aquellos asuntos que lleven su firma.
+La tasa del Impuesto Sobre Diversiones y Espectáculos Públicos, será de 8% misma que se aplicará sobre la base determinada, conforme al artículo inmediato anterior.
 
-> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS Y PUBLICADAS EN EL P.O. DE 23 DE MAYO DE 2006, MEDIANTE DECRETO NÚMERO 44, SE MODIFICA SUSTANCIALMENTE EL CONTENIDO DEL PRESENTE CAPÍTULO; MOTIVO POR EL CUAL SE PRESENTA EL TEXTO DEL MISMO PUBLICADO EN EL PERIÓDICO QUE SE MENCIONA.</small>
+Cuando el espectáculo público consista en la puesta en escena de obras teatrales la tasa será de cero, en espectáculos de circo la tasa será del 5%, aplicada a la totalidad del ingreso percibido.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+DE LA FACULTAD DE DISMINUIR LA TASA
 
 ###### Artículo 67.
 
-Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial, en los términos que establezca la Ley Orgánica.
+Cuando las Diversiones y Espectáculos Públicos sean organizados con motivo (sic) exclusivamente culturales, de beneficencia o en promoción del deporte, el Tesorero Municipal conjuntamente con el Presidente Municipal, estará facultado para disminuir las tasas previstas en el artículo que antecede.
 
-La administración del Poder Judicial del Estado estará a cargo de un Órgano de Administración Judicial, mientras que la vigilancia y disciplina de su personal estará a cargo del Tribunal de Disciplina Judicial, el cual contará con independencia técnica, de gestión y para emitir sus resoluciones.
-
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
-
-###### Artículo 67 Bis.
-
-El Tribunal de Disciplina Judicial se integrará por cinco personas electas por la ciudadanía a nivel estatal por un período único de 6 años. Las magistradas y magistrados del Tribunal de Disciplina Judicial deberán reunir los requisitos señalados para ser integrante del Supremo Tribunal de Justicia. Cada dos años se renovará la presidencia del Tribunal de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
-
-El Tribunal de Disciplina Judicial funcionará en Pleno y en comisiones. El Pleno será la autoridad substanciadora en los términos que establezca la Ley y resolverá en segunda instancia los asuntos de su competencia. Podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos, ordenar medidas cautelares y de apremio y sancionar a las personas servidoras públicas que incurran en actos u omisiones contrarias a la Ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia, además de los asuntos que la Ley determine.
-
-El Tribunal de Disciplina Judicial desahogará el Procedimiento de Responsabilidades Administrativas en primera instancia a través de comisiones conformadas por tres de sus integrantes, que fungirán como autoridad substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones podrán ser impugnadas ante el Pleno, que resolverá por mayoría de cuatro votos, en los términos que señale la Ley. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de estas.
-
-El Tribunal de Disciplina Judicial conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
-
-El Tribunal de Disciplina Judicial deberá dar vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de las magistradas y magistrados del Poder Judicial, y de los integrantes del Pleno Órgano de Administración Judicial, ante el Congreso del Estado.
-
-Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, y de las juezas y jueces del Poder Judicial del Estado, con excepción de las magistradas y magistrados del Supremo Tribunal de Justicia, que sólo podrán ser removidos en los términos del Título Cuarto de esta Constitución.
-
-El Tribunal de Disciplina Judicial evaluará el desempeño de los integrantes del Poder Judicial del Estado que resulten electos en la elección estatal que corresponda durante su primer año de ejercicio. La Ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
-
-La Ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
-
-a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación; y,
-
-b) Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, jueza o juez sin responsabilidad para el Poder Judicial, y en su caso, procederá de conformidad para solicitar la destitución de la Magistrada o Magistrado.
-
-Las Magistradas y Magistrados del Tribunal de Disciplina ejercerán su función bajo los principios de excelencia, profesionalismo, objetividad, imparcialidad e independencia. Durante su encargo, sólo podrán ser removidos en los términos del Título Cuarto de esta Constitución.
-
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
-
-###### Artículo 67 Ter.
-
-El Órgano de Administración Judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo la determinación del número de juzgados y salas, competencia territorial, división en distritos y regiones judiciales, especialización por materia, ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño, la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial, y las demás que establezcan las leyes.
-
-El Pleno del Órgano de Administración Judicial se integrará por cinco personas que durarán en su encargo 6 años improrrogables, de las cuales una será designada por el Poder Ejecutivo, por conducto de la persona titular, una por el Congreso del Estado mediante votación calificada de dos tercios de sus integrantes presentes, y tres por el Pleno del Supremo Tribunal de Justicia, con mayoría de votos. La presidencia del Órgano durará dos años y será rotatoria, en términos de lo que establezcan las leyes.
-
-Quienes integren el Pleno del Órgano de Administración Judicial deberán ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos, contar con experiencia profesional mínima de cinco años, y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del Órgano de Administración Judicial, con antigüedad mínima de cinco años, y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
-
-Durante su encargo, las personas integrantes del Pleno del órgano de administración sólo podrán ser removidas en los términos del Título Cuarto de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
-
-La Ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
-
-El Órgano de Administración Judicial contará con un órgano auxiliar con autonomía técnica y de gestión denominado Escuela Estatal de Formación Judicial responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, y en su caso, del personal de las fiscalías, defensorías públicas, organismos de protección de los derechos humanos, instituciones de seguridad pública y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
-
-De conformidad con lo que establezca la Ley, el Órgano de Administración Judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal de Disciplina Judicial podrá solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en los asuntos de su competencia.
-
-El Órgano de Administración Judicial, a solicitud del Pleno del Supremo Tribunal de Justicia, podrá concentrar competencia en uno o más órganos jurisdiccionales para que conozcan de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos. La decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia.
-
-El Órgano de Administración Judicial elaborará el presupuesto del Poder Judicial del Estado. Los presupuestos serán remitidos por dicho órgano para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+DEL PAGO
 
 ###### Artículo 68.
 
-La independencia económica del Poder Judicial la garantizará el Congreso del Estado, asignándole un presupuesto suficiente para el adecuado cumplimiento de sus funciones.
+El pago de este impuesto se sujetará a lo siguiente:
 
-La independencia de los magistrados y jueces en el ejercicio de sus funciones está garantizada por esta Constitución, la Ley Orgánica y demás ordenamientos jurídicos aplicables.
+a) Si pudiera determinarse previamente el monto del ingreso y se trate de contribuyentes eventuales, el pago se efectuará antes de la realización de la diversión o espectáculo respectivo;
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+b) Si no pudiera determinarse previamente el monto del ingreso, se garantizará el interés del Municipio mediante depósito ante la Tesorería Municipal, del 50% del importe del impuesto determinado sobre el total de los boletos autorizados para el espectáculo que se trate y el pago del impuesto, se efectuará al término del propio espectáculo, pagando el contribuyente la diferencia que existiere a su cargo, o bien, reintegrándose al propio contribuyente, la diferencia que hubiere a su favor;
 
-Las magistradas y magistrados, juezas y jueces, y demás personal del Poder Judicial del Estado, percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo. En el ámbito del Poder Judicial, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la Ley.
+Cuando los sujetos obligados a otorgar la garantía a que se refiere el párrafo anterior, no cumplan con tal obligación, la Tesorería Municipal, podrá suspender el evento hasta en tanto no se otorgue dicha garantía, para ello la autoridad fiscal municipal podrá solicitar el auxilio de la fuerza pública.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+c) Tratándose de contribuyentes establecidos o registrados en el Padrón Municipal, el pago se efectuará dentro los primeros quince días de cada mes;
+
+En todo caso, la Tesorería Municipal podrá designar interventor para que, determine y recaude las contribuciones causadas. En este caso, el impuesto se pagará a dicho interventor al finalizar el evento, expidiendo éste último el recibo provisional respectivo, mismo que será canjeado por el recibo oficial en la propia Tesorería Municipal, el día hábil siguiente al de la realización del evento.
 
 ###### Artículo 69.
 
-La elección de las juezas y jueces, así como de magistradas y magistrados del Poder Judicial, será de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones ordinarias del año que corresponda conforme al siguiente procedimiento:
-
-I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El Órgano de Administración Judicial hará del conocimiento del Congreso del Estado los cargos sujetos a elección, competencia territorial, especialización por materia y demás información que requiera.
-
-II. Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme al párrafo anterior. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
-
-a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
-
-b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
-
-Para definir criterios uniformes y homologados, los Comités de Evaluación de los tres poderes deberán integrarse en un Comité Estatal de Evaluación, en el cual podrán generar los acuerdos sobre mecanismos, requisitos y otros criterios, que deberán observar los Comités de Evaluación de cada poder, para elegir a los perfiles mejor evaluados; y,
-
-c) Los Comités de Evaluación de cada poder, integrarán un listado de las personas mejor evaluadas para cada cargo; los resultados obtenidos, en el que se destacarán a las dos personas mejor evaluadas observando la paridad de género, se remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso del Estado.
-
-III. El Congreso del Estado recibirá las postulaciones, e incorporará a los listados a las personas que se encuentren en funciones al cierre de la convocatoria respectiva, a menos que manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo judicial diverso; remitirá los listados al órgano electoral competente a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
-
-Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente.
-
-IV. El órgano electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado, los cuales podrán ser impugnados, y el Tribunal competente deberá resolver las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas electas tomarán protesta de su encargo ante dicho órgano legislativo.
-
-V. En el caso de las magistradas y magistrados, y de juezas y jueces en materia penal, su elección será estatal, en una sola circunscripción en el Estado, en los términos señalados por la Ley.
-
-La postulación de los candidatos a los cargos de magistradas y magistrados, y juezas y jueces penales, será conforme el procedimiento señalado en esta Constitución y la Ley, mediante una sola lista de todos los candidatos en el Estado. El Instituto Electoral de Michoacán entregará las constancias de mayoría a magistradas y magistrados o juezas y jueces a partir de los resultados que se obtengan en cada elección, por lo que el órgano electoral, designará de la lista a los primeros lugares que de conformidad con el número de cargos que sean motivo de la elección. En el caso de las magistraturas penales, serán en Salas Unitarias.
-
-El Órgano de Administración Judicial deberá de emitir un programa de rotación entre los jueces en materia penal, a efecto de que un juez no dure más de 3 años en el mismo juzgado.
-
-VI. Para el caso de la elección de las magistradas y magistrados y juezas y jueces en materias civil, familiar y laboral, se elegirán por las circunscripciones, distritos o regiones acordadas por el Órgano de Administración Judicial, por lo cual se seguirá lo señalado en la fracción III del presente artículo.
-
-En el caso de las magistraturas, serán en salas regionales colegiadas con 3 integrantes. En estos casos, la elección de cada titular será la sala respectiva.
-
-En caso de ausencias o vacantes, la ocupará la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo. En dichos casos, la persona nombrada para la sustitución cubrirá el periodo que faltare al titular.
-
-VII. El Instituto Electoral de Michoacán emitirá los acuerdos necesarios para el debido cumplimiento de la elección en los términos antes señalados.
-
-La etapa de preparación de la elección estatal correspondiente, iniciará con la primera sesión que realice el Consejo General del Instituto Electoral de Michoacán en los primeros siete días del mes de septiembre del año anterior a la elección.
-
-Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la Ley y determine el Instituto Nacional Electoral. Podrán, además, participar en foros de debate organizados por el propio Instituto o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
-
-Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
-
-La duración de las campañas para los cargos señalados en el presente artículo será de cuarenta y cinco días y en ningún caso habrá etapa de precampaña. La Ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
-
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-#### SECCION I. De la Integración y Funcionamiento del Supremo Tribunal
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+Los empresarios, promotores, y/o representantes de las empresas de espectáculos y diversiones públicas, están obligados a permitir que los inspectores, interventores, liquidadores y/o comisionados de la Tesorería Municipal, desempeñen sus funciones, así como a proporcionarles los libros, datos o documentos que se les requiera para la correcta determinación del impuesto a que se refiere este capítulo.
 
 ###### Artículo 70.
 
-La facultad de aplicar e interpretar las leyes reside exclusivamente en el Poder Judicial, en el Tribunal Electoral y en el Tribunal en materia Anticorrupción y Administrativa, en el ámbito de su competencia y ninguna otra autoridad podrá avocarse al conocimiento de causas pendientes, ni mandar abrir los juicios fenecidos.
+La Tesorería Municipal tendrá facultad para suspender o intervenir la venta de boletos de cualquier evento, cuando los organizadores, promotores o empresarios, no cumplan con la obligación contenida en la fracción III del artículo 63 de esta ley, no proporcionen la información que se les requiera para la determinación del impuesto o de alguna manera obstaculicen las facultades de las autoridades municipales.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+Los impuestos que de manera general se establecen en esta Ley, podrán ser diminuidos, modificados o aumentados en la Ley de ingresos del Municipio que apruebe el H. Congreso del Estado de Yucatán.
 
-## TITULO TERCERO
+## TÍTULO TERCERO. DERECHOS
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-### CAPITULO II. Del Poder Legislativo
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+### Capítulo I. Disposiciones Comunes
 
 ###### Artículo 71.
 
-Las leyes fijarán los términos en que sea obligatoria la jurisprudencia que se establezca en ejercicio de la facultad jurisdiccional, así como los requisitos para su interrupción y modificación.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+El Municipio percibirá ingresos en concepto de derechos en términos de lo dispuesto en este título. Las cuotas que deban pagarse por los derechos contenidos en este título se calcularán hasta donde sea posible, en atención al costo de los servicios procurando la proporcionalidad y equidad en el pago de tal manera, que las cuotas varíen únicamente cuando los usuarios se beneficien de los servicios en distinta cantidad, proporción o calidad.
 
 ###### Artículo 72.
 
-Son auxiliares de los órganos encargados de administrar justicia:
+Las personas físicas y morales pagarán los derechos que se establecen en esta ley, en la caja recaudadora de la Tesorería Municipal o en las que ella misma autorice para tal efecto.
 
-I. La Secretaría de Seguridad Pública del Estado;
-
-II. El Registro Civil;
-
-III. El Registro Público de la Propiedad Raíz en el Estado;
-
-IV. Los consejos tutelares;
-
-V. Los médicos legistas;
-
-VI. Los intérpretes y peritos;
-
-VII. Los síndicos e interventores de concursos, quiebras y suspensión de pagos;
-
-VIIII. (sic) Los albaceas, interventores, depositarios, tutores, curadores y notarios, en las funciones que les encomienden las leyes correspondientes;
-
-IX. Los cuerpos policíacos del Estado y de los municipios; y,
-
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2012)</small>
-
-X. Los auxiliares de vigilancia comunitaria en aquellos distritos jurisdiccionales con presencia de comunidades indígenas;
-
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2012)</small>
-
-XI. Los traductores intérpretes en lenguas, culturas y sistemas normativos indígenas; y,
-
-XII. Los demás a quienes las leyes les confieran este carácter.
-
-Los auxiliares estarán obligados a desempeñar las funciones que les encomienden los órganos de la administración de justicia, y sus superiores tendrán el deber de facilitarles el ejercicio de las mismas.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+El pago de los derechos deberá hacerse previamente a la prestación del servicio, salvo en los casos expresamente señalados en esta ley.
 
 ###### Artículo 73.
 
-El Supremo Tribunal de Justicia funcionará en Pleno, Salas Unitarias en materia penal, Salas colegiadas con tres magistrados regionales y especializadas, en los términos que disponga el Órgano de Administración Judicial y la Ley Orgánica.
+Los derechos que establece esta ley se pagarán por los servicios que preste el Municipio en sus funciones de derecho público o por el uso o aprovechamiento de los bienes del dominio público del mismo.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta del mismo Municipio, se seguirán cobrando los derechos en los términos establecidos por esta ley.
 
 ###### Artículo 74.
 
-La Ley Orgánica distribuirá las competencias señalando las atribuciones que correspondan al Pleno, al Presidente, a las Salas Unitarias y Colegiadas. El Órgano de Administración Judicial, determinará la regionalización y especialización de éstas, observando el principio de paridad de género.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+No serán exigibles los impuestos y derechos a que se refiere la presente ley, cuando hayan sido derogados o suspendidos para cumplir con los requisitos establecidos en las leyes federales y los convenios suscritos entre la Federación y el Estado o Municipio, a partir de la fecha de su celebración.
 
 ###### Artículo 75.
 
-En caso de que se declaren desaparecidos los Poderes del Estado, el Órgano de Administración Judicial propondrá al Congreso del Estado, la designación de las magistradas y magistrados del Supremo Tribunal de Justicia.
+Los derechos que de manera general se establecen en esta ley, podrán ser disminuidos, modificados o aumentados en la Ley de Ingresos del Municipio que apruebe el H. Congreso del Estado de Yucatán.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
-
-### CAPITULO III. Del Poder Ejecutivo
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-#### SECCIÓN I. De la Elección de la Gobernadora o Gobernador del Estado
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+### Capítulo II. Derechos por Licencias y Permisos
 
 ###### Artículo 76.
 
-Para ser electa Magistrada o Magistrado del Supremo Tribunal de Justicia del Estado, se requiere:
-
-I. Ser ciudadano mexicano por nacimiento, y michoacano, en pleno ejercicio de sus derechos políticos y civiles;
-
-II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, al día de la elección;
-
-III. Poseer al día de la convocatoria señalada en la fracción I del artículo 69 de esta Constitución, título profesional de licenciado en derecho, expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por autoridad o institución legalmente facultada para ello, un promedio general de calificación de cuando menos ocho puntos o su equivalente, y/o de nueve puntos o su equivalente en las materias relacionadas con el cargo que se postula en la licenciatura, especialidad, maestría y doctorado, y práctica profesional de cuando menos tres años en el ejercicio de la actividad jurídica;
-
-IV. Gozar de buena reputación y no haber sido sentenciado por delito doloso;
-
-V. Haber residido en Michoacán durante los dos años anteriores al día de la convocatoria señalada en la fracción I del artículo 69 de esta Constitución;
-
-VI. No ocupar el cargo de titular de las dependencias básicas de la Administración Pública Centralizada o su equivalente, Fiscal General del Estado, o Diputado Local, siempre que se separen de sus cargos noventa días antes de la elección; y,
-
-VII. Presentar "Declaratoria 3 de 3 contra la violencia".
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+Por el otorgamiento de licencias o permisos a que hace referencia la Ley General de Hacienda para los Municipios del Estado de Yucatán en su artículo 57, se causarán y pagarán derechos de conformidad con las tarifas señaladas en los siguientes artículos.
 
 ###### Artículo 77.
 
-Las magistradas y magistrados, así como las juezas y jueces durarán en el ejercicio de su encargo nueve años; podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus cargos en los términos que establece esta Constitución y las leyes, y no podrán en ningún caso, aceptar o desempeñar cualquier empleo o encargo de la Federación, entidades federativas, municipios o particulares, salvo las actividades no remuneradas de la academia, docencia, investigación o de beneficencia.
+Para las licencias señaladas en el artículo 57 fracción I de la Ley General de Hacienda para los Municipios del Estado de Yucatán, se aplicarán las tarifas señaladas en los incisos siguientes:
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+I.- Para el otorgamiento de licencias para el funcionamiento de establecimientos con giros relacionados con la venta de bebidas alcohólicas, se cobrará una cuota de acuerdo a la siguiente tarifa:
+
+a).- Vinatería o licorería $ 3,000.00
+
+b).- Expendio de cerveza $ 3,000.00
+
+c).- Área de bebidas alcohólicas en supermercados y minisuper $3,000.00
+
+II.- A los permisos eventuales para el funcionamiento de giros relacionados con la venta de bebidas alcohólicas, se les aplicará la tarifa diaria de $250.00.
+
+III.- Para la autorización de funcionamiento en horario extraordinario de giros relacionados con la venta de bebidas alcohólicas se aplicará por cada hora la siguiente tarifa:
+
+a).- Vinaterías $200.00
+
+b).- Expendio de cerveza $200.00
+
+c).- Departamento de licores en supermercados $200.00
+
+d).- Otros $200.00
+
+IV.- Para el otorgamiento de licencias de funcionamiento de giros relacionados con la prestación de servicios que incluyan el expendio de bebidas alcohólicas se aplicarán las tarifas siguientes:
+
+a).- Centros nocturnos y cabarets $ 3,000.00
+
+b).- Cantinas y bares $ 3,000.00
+
+c).- Restaurantes y bares $ 3,000.00
+
+d).- Discotecas y clubes sociales $ 3,000.00
+
+e).- Salones de baile, billar o boliche $ 3,000.00
+
+f).- Restaurantes en general, fondas y loncherías $ 3,000.00
+
+g).- Hoteles, moteles y posadas $ 3,000.00
+
+V.- Para el otorgamiento de permisos eventuales de funcionamiento de giros relacionados con la prestación de servicios que incluyan el expendio de bebidas alcohólicas, se aplicarán las tarifas diarias que a continuación se señalan:
+
+a).- Centros nocturnos $ 1,000.00
+
+b).- Cantinas y bares $ 1,000.00
+
+c).- Discotecas y clubes sociales $ 1,000.00
+
+d).- Salones de baile, billar o boliche $ 800.00
+
+e).- Fondas, taquerías, loncherías y similares $ 250.00
+
+VI.- Por el otorgamiento de la revalidación anual de licencias para el funcionamiento de los establecimientos que se relacionan en lo incisos a) y d) de éste artículo de la ley se pagará un derecho conforme a las siguientes tarifas:
+
+a).- Vinaterías y Licorerías $ 1,500.00
+
+b).- Expendios de cervezas $ 1,500.00
+
+c).- Departamento de licores en supermercados y minisuper $ 1,500.00
+
+d).- Cantinas y bares $ 1,500.00
+
+e).- Restaurantes y bares $ 1,500.00
+
+f).- Centros nocturnos y cabarets $ 1,500.00
+
+g).- Discotecas y clubes sociales $ 1,500.00
+
+h).- Salones de baile, de billar o boliche $ 1,500.00
+
+i).- Restaurantes en general, fondas, loncherías, hoteles y moteles $1,500.00
+
+Los establecimientos con venta de bebidas alcohólicas que no cuenten con licencia de funcionamiento vigente en el ejercicio de que se trate podrán ser clausurados por la autoridad municipal por el perjuicio que pueden causar al interés general.
+
+Para efectos de la expedición de licencias de funcionamiento se deberá cumplir con lo dispuesto en el Reglamento relativo a los establecimientos con giros relacionados con la venta de bebidas alcohólicas del Municipio de Acanceh, Yucatán.
 
 ###### Artículo 78.
 
-Es causa de retiro forzoso para las magistradas y magistrados, y para juezas y jueces, cuando:
+Para las Licencias señaladas en el artículo 57 fracción II de la Ley General de Hacienda para los Municipios del Estado de Yucatán se cobrarán de acuerdo a lo siguiente:
 
-I. Cumplan setenta años de edad; o,
+CLASIFICACIÓN DE LOS ANUNCIOS.
 
-II. Padezcan incapacidad física o mental permanente para el desempeño de su encargo.
+1. Por su posición o ubicación.
 
-### CAPITULO IV. Del Poder Judicial
+De fachadas, muros, y bardas. 0.70 salario mínimo por m2.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+De vehículos. Triciclo 0.25 salario mínimo por día.
+
+Automóvil 0.50 salario mínimo por día.
+
+2. Por su duración.
+
+Anuncios temporales: Duración que no exceda los setenta días. 0.30 salario mínimo por m2.
+
+Anuncios permanentes: Anuncios pintados, placas denominativas, fijados en cercas y muros, cuya duración exceda los setenta días. 1.40 salario mínimo por m2.
+
+3. Por su colocación.
+
+Colgantes 0.30 salario mínimo por m2.
+
+De azotea. 0.30 salario mínimo por m2.
+
+Pintados. 0.70 salario mínimo por m2.
+
+4. Anuncios con aparatos de sonido.
+
+Anuncios que se realicen por medio de aparatos de sonido, ya sean fijos o semi-fijos.
+
+Fijos 0.50 salario mínimo por día
+
+Triciclo 0.25 salario mínimo por día.
+
+Automóvil 0.50 salario mínimo por día
+
+En el caso que no se retiren los anuncios al vencimiento del plazo concedido se cobrará una multa del 50% del permiso concedido más los gastos que le ocasione al ayuntamiento el retirarlo.
+
+### Capítulo III. De los Servicios por la Regulación de uso de Suelo o Construcciones de los Sujetos
 
 ###### Artículo 79.
 
-(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2024)
+Son sujetos obligados al pago de derechos, por los servicios que presta la Dirección de Desarrollo Urbano o la Dependencia Municipal que realice las funciones de regulación de uso del suelo o construcciones cualquiera que sea el nombre que se le dé, las personas físicas o morales que soliciten, cualesquiera de los servicios a que se refiere este capítulo.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+DE LA CLASIFICACIÓN
 
 ###### Artículo 80.
 
-Cada Magistrado del Supremo Tribunal, al entrar a ejercer su encargo, protestará ante el Congreso del Estado, en la forma siguiente:
+Los sujetos pagarán los derechos por los servicios que soliciten a la Dirección de Desarrollo Urbano, consistentes en:
 
-Presidente: <<¿Protesta desempeñar leal y patrióticamente el cargo de Magistrado del Supremo Tribunal de Justicia del Estado de Michoacán de Ocampo, que se le ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado?>>
+a) Licencia de construcción;
 
-Magistrado: <<Sí, protesto>>
+b) Constancia de terminación de obra;
 
-Presidente: <<Si no lo hace así, la Nación y el Estado se lo demanden>>
+c) Licencia para realización de una demolición;
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+d) Constancia de Alineamiento;
 
-#### SECCION II. De los Juzgados de Primera Instancia
+e) Sellado de planos;
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+f) Licencia para hacer cortes en banquetas, pavimento y guarniciones;
+
+g) Otorgamiento de constancia a que se refiere la Ley Sobre el Régimen de Propiedad y Condominio Inmobiliario del Estado de Yucatán;
+
+h) Constancia para obras de urbanización;
+
+i) Constancia de uso de suelo;
+
+j) Constancia de unión y división de inmuebles;
+
+k) Licencia para efectuar excavaciones o para la construcción de pozos o albercas;
+
+l) Licencia para construir bardas o colocar pisos;
+
+m) Licencia para la instalación de antenas para el funcionamiento de sistemas de telecomunicación vía satélite, telefonía celular, televisión restringida y todas aquellas que requieran la licencia correspondiente de la Secretaría de Comunicaciones y Transportes;
+
+n) Licencia para instalar postes para el funcionamiento de sistemas de televisión por cable.
+
+DE LAS BASES
 
 ###### Artículo 81.
 
-Cuando la falta de una magistrada o magistrado, o de una jueza o juez del Poder Judicial del Estado excediere un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de la separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá el orden de prelación la persona que haya obtenido mayor votación. Para lo anterior, deberán seguir las reglas señaladas en el artículo 69 de esta Constitución.
+Las bases para el cobro de los derechos mencionados en el artículo que antecede, serán:
 
-El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
+a) El número de metros lineales;
 
-Las renuncias de las magistradas y magistrados, y de juezas y jueces del Poder Judicial del Estado, solamente procederán por causas graves, y en su caso, serán aprobadas por el Congreso del Estado.
+b) El número de metros cuadrados;
 
-Las licencias de las personas servidoras públicas señaladas en el párrafo primero de este artículo, cuando no excedan más de un mes, podrán ser concedidas por el Órgano de Administración Judicial. Las licencias que excedan de ese tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado. Ninguna licencia podrá exceder del término de 1 año.
+c) El número de metros cúbicos;
+
+d) El número de predios, departamentos o locales resultantes;
+
+e) El servicio prestado.
+
+DE LA CLASIFICACIÓN DE LAS CONSTRUCCIONES
 
 ###### Artículo 82.
 
-(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2024)
+Para los efectos de este capítulo, las construcciones se clasificarán en dos tipos:
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+Construcción Tipo A:
+
+Es aquella construcción estructurada, cubierta con concreto armado o cualquier otro elemento especial, con excepción de las señaladas como tipo B.
+
+Construcción tipo B:
+
+Es aquella construcción estructurada cubierta de madera, cartón, paja, lámina metálica, lámina de asbesto o lámina de cartón.
+
+DE LA TARIFA
 
 ###### Artículo 83.
 
-Corresponde al Supremo Tribunal de Justicia del Estado:
+La tarifa del derecho por el servicio mencionado, se pagará por metro cuadrado, conforme lo siguiente:
 
-I. Conocer en Pleno:
+Por el otorgamiento de los permisos de construcción, reconstrucción, ampliación, demolición de inmuebles; de fraccionamientos; construcción de pozos y albercas; ruptura de banqueta, empedrados o pavimento, causarán y pagarán derechos de acuerdo con las siguientes tarifas:
 
-a).- De las cuestiones de competencia y de la acumulación entre los jueces de cuantía menor de diversos distritos judiciales, entre los jueces de primera instancia del Estado y entre éstos y los jueces de cuantía menor de otros distritos;
+I.- Permisos de construcción de particulares:
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+Láminas de zinc, cartón, madera, paja
 
-b).- De los negocios civiles, penales comunes y laborales, como tribunal de revisión;
+1.- Por cada permiso de construcción de hasta 40 metros cuadrados $ 5.00 por M2
 
-c).- De las recusaciones y excusas de los magistrados y secretarios del Tribunal, en los negocios de la competencia del mismo;
+2.- Por cada permiso de construcción de 41 a 120 metros cuadrados $ 5.00 por M2
 
-d).- Del recurso de queja, en los términos que dispongan las leyes;
+3.- Por cada permiso de construcción de 121 a 240 metros cuadrados $ 5.00 por M2
 
-e) De la expedición y modificación de su reglamento interior;
+4.- Por cada permiso de construcción de 241 metros cuadrados en adelante $ 5.00 por M2
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+b) Vigueta y bovedilla.
 
-f) La designación a los integrantes del Órgano de Administración Judicial que le competen;
+1.- Por cada permiso de construcción de hasta 40 m2 $ 6.00 por M2.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+2.- Por cada permiso de construcción de 41 a 120 m2 $ 6.00 por M2.
 
-g) De la autorización a las juezas y jueces del Estado a sostener competencias con los jueces de otros Estados, de la Federación y de la Ciudad de México;
+3.- Por cada permiso de construcción de 121 a 240 m2 $ 6.00 por M2.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2024)</small>
+4.- Por cada permiso de construcción de 241 m2. en adelante $6.00 por M2.
 
-h) La designación de los integrantes del Comité de Evaluación, a que hace referencia el artículo 69 de esta Constitución; y,
+II.- Permisos de construcción de INFONAVIT, Bodegas, Industrias, comercios y grandes construcciones:
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE NOVIEMBRE DE 2024)</small>
+Láminas de zinc, cartón, madera, paja.
 
-i) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva.
+1.- Por cada permiso de construcción de hasta 40 metros cuadrados. $ 5.40 por M2.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2024)</small>
+2.- Por cada permiso de construcción de 41 a 120 metros cuadrados. $ 5.40 por M2.
 
-II. Conocer en Salas regionales colegiadas y unitarias:
+3.- Por cada permiso de construcción de 121 a 240 metros cuadrados. $ 5.40 por M2.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+4.- Por cada permiso de construcción de 241 metros cuadrados en adelante. $ 5.40 por M2.
 
-a) De los negocios civiles, penales, laborales y de jurisdicción concurrente como tribunal de apelación y casación;
+b) Vigueta y bovedilla.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+1.- Por cada permiso de construcción de hasta 40 metros cuadrados. $ 6.5 por M2
 
-b) De los recursos de queja en negocios civiles, penales y laborales; y,
+2.- Por cada permiso de construcción de 41 a 120 metros cuadrados. $ 6.50 por M2.
 
-c) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva.
+3.- Por cada permiso de construcción de 121 a 240 metros cuadrados. $ 6.5 por M2.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+4.- Por cada permiso de construcción de 241 metros cuadrados en adelante. $ 6.50 por M2.
+
+III.- Por cada permiso de remodelación $ 6.50 por M2.
+
+IV.- Por cada permiso de ampliación $6.50 por M2.
+
+V.- Por cada permiso de demolición $6.50 por M2.
+
+VI.- Por cada permiso para la ruptura de banquetas, empedrados o pavimento $45.00 por M2.
+
+VII.- Por construcción de albercas $45.00 por M3.
+
+VIII.- Por construcción de pozos $45.00 por Metro lineal
+
+IX.- Por cada autorización para la construcción o demolición de bardas u obras lineales $ 3.50 por Metro lineal
+
+X.- Por inspección para el otorgamiento de la constancia de terminación de obra.
+
+Láminas de zinc, cartón, madera, paja.
+
+1.- Hasta 40 metros cuadrados Dos Salarios Mínimos Vigente
+
+2.- De 41 a 120 metros cuadrados Dos Salarios Mínimos Vigente
+
+3.- De 121 a 240 metros cuadrados Tres Salarios Mínimos Vigente
+
+4- De 241 metros cuadrados en adelante Cuatro Salarios Mínimos Vigente
+
+b) Vigueta y bovedilla.
+
+1.- Hasta 40 metros cuadrados Tres Salarios Mínimos Vigente
+
+2.- De 41 a 120 metros cuadrados Cuatro Salarios Mínimos Vigente
+
+3.- De 121 a 240 metros cuadrados Cinco Salarios Mínimos Vigente
+
+4- De 241 metros cuadrados en adelante Seis Salarios Mínimos Vigente
+
+XI.- Por inspección, revisión de planos y alineamientos del terreno para el otorgamiento de la licencia o permiso de construcción para viviendas de tipo INFONAVIT o cuyo uso sea para bodegas, industrias, comercio, etc.
+
+Láminas de zinc, cartón, madera, paja
+
+1.- Hasta 40 metros cuadrados Tres Salarios Mínimos Vigente
+
+2.- De 41 a 120 metros cuadrados Tres Salarios Mínimos Vigente
+
+3.- De 121 a 240 metros cuadrados Tres Salarios Mínimos Vigente
+
+4- De 241 metros cuadrados en adelante Tres Salarios Mínimos Vigente
+
+b) Vigueta y bovedilla.
+
+1.- Hasta 40 metros cuadrados Tres Salarios Mínimos Vigente
+
+2.- De 41 a 120 metros cuadrados Tres Salarios Mínimos Vigente
+
+3.- De 121 a 240 metros cuadrados Tres Salarios Mínimos Vigente
+
+4.- De 241 metros cuadrados en adelante Tres Salarios Mínimos Vigente
+
+XII.- Por el derecho de inspección para el otorgamiento exclusivamente de la constancia de alineamiento de un predio Tres Salarios Mínimos Vigente
+
+XIII.- Certificado de cooperación Tres Salarios Mínimos Vigente
+
+XIV.- Licencia de uso del suelo Tres Salarios Mínimos Vigente
+
+XV.- Inspección para expedir licencia para efectuar excavaciones o zanjas en vía pública Tres Salarios Mínimos Vigente
+
+XVI.- Inspección para expedir licencia o permiso para el uso de andamios o tapiales. Tres Salarios Mínimos Vigente
+
+XVII.- Constancia de factibilidad de uso del suelo apertura de una vía pública, unión, división, rectificación de medidas o fraccionamiento de inmuebles. Tres Salarios Mínimos Vigente
+
+XVIII.- Inspección para el otorgamiento de la licencia que autorice romper o hacer cortes del pavimento, las banquetas y las guarniciones, así como ocupar la vía pública para instalaciones provisionales. Tres Salarios Mínimos Vigente
+
+XIX.- Carta de liberación de energía eléctrica Tres Salarios Mínimos Vigente
+
+XX.- Revisión de planos, supervisión y expedición de constancia para obras de urbanización (vialidad, aceras, guarnición, drenaje, alumbrado, placas de nomenclatura, agua potable, etc. Tres Salarios Mínimos Vigente
+
+XXI.- Por el sellado de planos. Un salario mínimo
+
+XXII.- Revisión de planos para trámites de uso de suelo. Un salario mínimo
+
+Quedarán exentos del pago de este Derecho, las construcciones de cartón, madera o paja, siempre que se destinen a casa habitación.
+
+Por el permiso para el cierre de calles por fiestas o cualquier evento o espectáculo en la vía pública, se pagará la cantidad de $ 200.00 por día.
+
+Por el otorgamiento de los permisos para luz y sonido, bailes populares con grupos locales y otros se causarán y pagarán derecho de $ 200.00 por día.
+
+Por el otorgamiento de los permisos para cosos taurinos, se causarán y pagarán derecho de $ 20.00 por día por cada uno de los palqueros.
+
+DE LAS EXENCIONES
 
 ###### Artículo 84.
 
-La presidencia del Supremo Tribunal de Justicia se renovará cada tres años de manera rotatoria, las magistradas y magistrados integrantes del Pleno del Supremo Tribunal de Justicia elegirán de entre ellos a su Presidente, sin posibilidad de reelección.
+Quedará exenta de pago, la inspección para el otorgamiento de la licencia que se requiera, por los siguientes conceptos:
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+UNO.- Las construcciones que sean edificadas físicamente por sus propietarios.
 
-El Presidente del Supremo Tribunal de Justicia y el Presidente del Órgano de Administración de Justicia, rendirán ante y en nombre de sus Plenos, el tercer jueves del mes de febrero de cada año, informe del estado que guarde la administración de justicia. A este acto asistirán la persona Titular del Ejecutivo del Estado y los diputados al Congreso del Estado.
+DOS.- Las construcciones de Centros Asistenciales y Sociales, propiedad de la Federación, el Estado o Municipio.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+TRES.- La construcción de aceras, fosas sépticas, pozos de absorción, resanes, pintura de fachadas y obras de jardinería. Destinadas al mejoramiento de la vivienda.
+
+DE LA FACULTAD PARA DISMINUIR LA TARIFA
 
 ###### Artículo 85.
 
-El Presidente del Supremo Tribunal será responsable de la buena marcha de la administración de justicia; tendrá la representación del Poder Judicial y las facultades que le señale la Ley Orgánica.
+El Presidente Municipal y el Tesorero Municipal a solicitud escrita del Director de Obras Públicas o del Titular de la Dependencia respectiva, podrá disminuir la tarifa a los contribuyentes de ostensible pobreza, que tengan dependientes económicos.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+Se considera que el contribuyente es de ostensible pobreza, en los casos siguientes:
+
+I.- Cuando el ingreso familiar del contribuyente es inferior a un salario mínimo vigente en el Estado de Yucatán y el solicitante de la disminución del monto del derecho, tenga algún dependiente económico; y
+
+II.- Cuando el ingreso familiar del contribuyente no exceda de 2 veces el salario mínimo vigente en el Estado de Yucatán y los dependientes de él sean más de dos.
+
+El solicitante de la disminución del monto del derecho deberá justificar a satisfacción de la autoridad, que se encuentra en algunos de los supuestos mencionados.
+
+La dependencia competente del Ayuntamiento realizará la investigación socioeconómica de cada solicitante y remitirá un dictamen aprobando o negando la necesidad de la reducción, así mismo deberá anexarse un ejemplar del dictamen al comprobante de ingresos y ambos documentos formarán parte de la cuenta pública que se rendirá al Congreso del Estado de Yucatán.
+
+En la Tesorería Municipal y las oficinas recaudadoras que así disponga el Ayuntamiento de Acanceh, Yucatán, se instalarán cartelones en lugares visibles, informando al público los requisitos y procedimientos para obtener una reducción del importe de los derechos
+
+Lo dispuesto en este artículo, no libera a los responsables de las obras o de los actos relacionados en este capítulo, de la obligación de solicitar los permisos o autorizaciones correspondientes.
 
 ###### Artículo 86.
 
-La administración de justicia en primera instancia estará a cargo de juezas y jueces. El número de éstos, su residencia, su competencia, sus atribuciones y la manera de cubrir sus faltas absolutas o temporales, será determinada por el Órgano de Administración Judicial, en los términos que fije la Ley.
+Son responsables solidarios del pago de estos derechos, los ingenieros, contratistas, arquitectos y/o encargados de la realización de las obras.
 
-En materia penal la primera instancia corresponde, además, a los juzgados de control de garantías y tribunales de juicio oral; los que el Órgano de Administración Judicial podrá acordar que sean itinerantes, cuando así se requiera, en todo el Estado. También son jueces de primera instancia los especializados en justicia penal para adolescentes y los de ejecución de sanciones.
-
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
-
-###### Artículo 86 Bis.
-
-La resolución de las diferencias o los conflictos entre trabajadores y patrones que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación, estará a cargo de los juzgados en materia laboral del Poder Judicial del Estado.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
-
-La Ley determinará el número de éstos y su residencia; sus integrantes deberán de contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones se dictarán con perspectiva de género y deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
-
-### CAPITULO I. De los Organismos Autónomos
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2024)</small>
-
-#### SECCION I. Del Tribunal en Materia Anticorrupción y Administrativa
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+### Capítulo IV. Derechos Por Servicios De Seguridad Pública
 
 ###### Artículo 87.
 
-Las Juezas y Jueces de Primera Instancia serán electos en los términos previstos en el artículo 69 de esta Constitución.
+Son objeto de estos derechos, los servicios que presta el Municipio a través de la Dirección de Protección y Vialidad municipal. Estos servicios comprenden las actividades de vigilancia que se preste a las personas físicas o morales que lo soliciten, para la atención de establecimientos que proporcionen servicios al público en general o de eventos o actividades públicas lícitas destinadas a la comercialización
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+Por los Derechos de Seguridad Pública se pagarán las cuotas siguientes:
 
-### CAPITULO II. Del Ministerio Público y Defensoría de Oficio
+I.- Por día de servicio $ 160.00 por cada elemento
 
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
+II.- Por hora $ 10.00 por cada elemento
 
-#### SECCION I. Del Ministerio Público
+III.- Por mes de servicio $ 2,500.00 por cada elemento
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
+### Capítulo V. Otros Servicios Prestados por el Ayuntamiento
 
 ###### Artículo 88.
 
-Para ser Juezas o Juez de Primera Instancia se requiere, cumplir con los requisitos previstos para ser Magistrada o Magistrado del Supremo Tribunal de Justicia, con excepción de la edad que será de veinticinco años cumplidos al día de la elección.
+Son objeto de estos derechos los servicios prestados por las autoridades municipales, por concepto de la expedición de:
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+I.- Certificados de residencia, y
+
+II.- Constancias y copias certificadas.
 
 ###### Artículo 89.
 
-Son atribuciones de los tribunales y jueces de primera instancia:
+Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2021)</small>
+Servicio Cantidad (Pesos)
 
-I. Conocer en primera instancia de los negocios civiles, penales, laborales y de jurisdicción concurrente de su región o distrito judicial, según corresponda;
+A) Por participar en licitaciones $ 600.00
 
-II. Conocer de las cuestiones de competencia y de acumulación que se susciten entre los jueces menores de materia civil del mismo distrito;
+B) Certificaciones de residencia, constancias y copias certificadas $ 30.00
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente al .34 del importe de un salario mínimo vigente en el Estado de Yucatán, en la fecha de la expedición, salvo en aquellos casos en que ésta propia ley señale de manera expresa otra tasa o tarifa y el certificado de estar al corriente en el pago del impuesto predial, que para su expedición requerirá el anexo del recibo de pago de este derecho.
 
-III. Tener a su cargo al personal de su juzgado y poner en conocimiento del Tribunal de Disciplina Judicial las irregularidades cometidas por éstos;
+### Capítulo VI. Derechos por Servicio de Rastro
 
-IV. Conocer, a los que corresponda, de la ejecución del cumplimiento de las sanciones penales, medidas de seguridad y de las inconformidades que conforme a la Ley, deban conocer; y,
-
-V. Desempeñar las demás funciones que les confieran las leyes.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2006)</small>
-
-#### SECCION III. De los Jueces Menores y Comunales
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+DE LOS SUJETOS
 
 ###### Artículo 90.
 
-Habrá juezas y jueces menores en las circunscripciones, distritos o regiones y municipios que determine el Órgano de Administración Judicial, serán electos en los términos previstos en el artículo 69 de esta Constitución, durarán en su encargo nueve años, con la competencia y atribuciones que la Ley les señale.
+Son sujetos obligados al pago de estos derechos, las personas físicas o morales que utilicen los servicios que presta el Municipio en términos de lo dispuesto en este capítulo.
 
-El Órgano de Administración Judicial establecerá juzgados comunales en las poblaciones que por sus características lo requieran. La competencia y atribuciones de estos juzgados, y los requisitos para ser Juez Comunal se establecerá en la Ley.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+DEL OBJETO
 
 ###### Artículo 91.
 
-Para ser Juezas o Juez menor se requiere, cumplir con los requisitos previstos para ser Magistrada o Magistrado del Supremo Tribunal de Justicia, con excepción de la edad que será de veintiún años cumplidos al día de la elección.
-
-(REFORMADO, P.O. 16 DE MARZO DE 1998) (REUBICADO, P.O. 23 DE MAYO DE 2006)
+Es objeto de este derecho, el transporte, matanza, guarda en corrales, peso en básculas e inspección fuera del rastro de animales y de carne fresca o en canal.
 
 ###### Artículo 92.
 
-Ninguna persona podrá hacerse justicia por sí misma ni ejercer violencia para reclamar su derecho.
+Los derechos por los servicios de Rastro se causarán de conformidad con lo siguiente:
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+SERVICIO TARIFA
 
-Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y con perspectiva de género; cuidando que los procedimientos y los términos establecidos por la ley hagan eficaz esta garantía. Su servicio será gratuito.
+I.- Por Transporte 0.10 de salarios mínimos vigente en el Estado de Yucatán
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+II.- Por matanza de ganado 0.30 de salarios mínimos vigente en el Estado de Yucatán
 
-Las juezas y jueces, y las magistradas y magistrados del Poder Judicial del Estado, deberán resolver en los plazos marcados por la Constitución Federal, contados a partir del conocimiento del asunto por parte de la autoridad competente. En caso de incumplirse con el plazo señalado y que no se haya dictado sentencia, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato al Tribunal de Disciplina Judicial y justificar las razones de dicha demora.
+Por cada cabeza de ganado:
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+a) Vacuno 0.15 salarios mínimos vigente en el Estado de Yucatán
 
-El Estado adopta e incorpora el sistema procesal penal acusatorio y oral; la Ley establecerá las garantías y procedimientos que regulen la forma y términos en que se sustanciará, rigiéndose en todo momento, por los principios de publicidad, contradicción, concentración, continuidad e inmediación.
+b) Porcino 0.15 salarios mínimos vigente en el Estado de Yucatán
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+c) Equino y Caprino 0.05 salarios mínimos vigente en el Estado de Yucatán
 
-La Ley establecerá medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+III.- Guarda en corrales 0.05 salarios mínimos vigente en el Estado de Yucatán
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
+IV.- Peso en básculas 0.10 salarios mínimos vigente en el Estado de Yucatán
 
-Nadie puede ser aprisionado por deudas de carácter puramente civil.
+V.- Inspección fuera del rastro 0.25 salarios mínimos vigente en el Estado de Yucatán
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)</small>
+La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Acanceh, Yucatán, deberán pasar por esa inspección. Dicha inspección se practicará en términos de lo dispuesto en la Ley de Salud del Estado de Yucatán. Esta disposición es de orden público e interés social.
+
+En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren por la inspección mencionada, se harán acreedoras a una sanción cuyo importe será de uno a diez salarios mínimos vigente en el Estado de Yucatán por pieza de ganado introducida o su equivalente.
+
+En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
+
+DE LA MATANZA FUERA DE LOS RASTROS PÚBLICOS
 
 ###### Artículo 93.
 
-Los negocios judiciales serán decididos dentro del Estado en todas sus instancias, las que nunca podrán ser más de dos. Cada instancia será sentenciada por diferentes jueces.
+El Ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva y sin cobro alguno, la matanza de ganado fuera de los Rastros Públicos del Municipio, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
 
-La Ley determinará la competencia de los juzgados menores.
+En todo caso, se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez salarios mínimos vigente en el Estado de Yucatán. En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
 
-En todos los casos se procederá con audiencia de parte y comprobación de los hechos.
-
-El Órgano de Administración Judicial, en el ámbito de su competencia, tomará las medidas para que existan en el Estado centros especializados en mecanismos alternativos de solución de controversias.
-
-Toda persona está en libertad para terminar sus diferencias con otra, ya sea por convenio o por medio de árbitro o mediador, aun cuando se haya sometido a juicio y sea cual fuere el estado que éste guarde.
-
-Toda sentencia arbitral se ejecutará sin recurso, a menos que las partes se hayan reservado alguno.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+### Capítulo VII. De los Derechos por los Servicios que Presta el Catastro Municipal
 
 ###### Artículo 94.
 
-En el curso de los procesos penales no se emplearán con los acusados promesas, amenazas o violencias.
-
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2022)</small>
-
-Las penas privativas de la libertad no podrán en ningún caso exceder de sesenta años. Esta sanción podrá contemplarse como máxima para delitos calificados como graves por la Ley y, también, en el caso de los concursos.
-
-En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y, los demás que señalen las leyes.
-
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2012)</small>
-
-Se procurará que los agentes del Ministerio Público, los Jueces y Defensores Públicos tengan conocimientos en lenguas, culturas y sistemas normativos indígenas.
-
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2018)</small>
-
-El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
-
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-Artículo 94 bis.- Los organismos autónomos contarán con un órgano de control interno, cuyo titular será electo por el Congreso del Estado, con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
+Son sujetos de estos derechos las personas físicas o morales que soliciten los servicios que presta el Catastro Municipal.
 
 ###### Artículo 95.
 
-El Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, será un órgano autónomo, independiente en sus resoluciones y de jurisdicción plena en materia administrativa con sujeción a los principios de igualdad, publicidad, audiencia, legalidad y perspectiva de género.
-
-Se integrará por cinco magistradas o magistrados, los que conocerán de materia de anticorrupción, responsabilidades administrativas y materia administrativa ordinaria, de entre los cuales uno será su Presidente, electo por sus pares en los términos que disponga la Ley.
-
-Tendrá competencia para dirimir y resolver, las controversias que se susciten por actos u omisiones de naturaleza administrativa o fiscal entre el Poder Ejecutivo, los ayuntamientos, los organismos autónomos, las entidades u organismos descentralizados o desconcentrados, estatales o municipales y los particulares.
-
-Será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la Ley determine como graves, y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos; así como imponer sanciones a servidores públicos y particulares que incumplan gravemente en resoluciones del organismo garante en materia de acceso a la información y protección de datos personales. Lo anterior no será aplicable a los servidores públicos que formen parte del Poder Judicial del Estado, quienes se regirán en términos de su propio Tribunal de Disciplina Judicial.
-
-Para ser Magistrada o Magistrado del Tribunal en materia Anticorrupción y Administrativa, se deberán satisfacer los mismos requisitos que señala esta Constitución para ser designado Magistrada o Magistrado del Supremo Tribunal de Justicia del Estado.
-
-El Poder Legislativo elegirá a las magistradas o magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, mediante convocatoria pública y observando el principio de paridad de género. Las magistradas o magistrados tendrán un periodo constitucional de nueve años en el ejercicio del cargo y podrán ser reelectos por una única ocasión. Al término de su periodo cesarán en sus funciones.
-
-El Congreso del Estado conocerá de las quejas en contra de las magistradas o magistrados, y podrá privarlos de su encargo, en términos del Título Cuarto de esta Constitución.
-
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
-
-#### SECCION II. De la Comisión Estatal de los Derechos Humanos
-
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
+El objeto de estos derechos está constituido por los servicios que presta el Catastro Municipal.
 
 ###### Artículo 96.
 
-La protección y defensa de los Derechos Humanos es una función estatal que se realiza a través de un organismo constitucional autónomo, tanto presupuestal y de gestión, con personalidad jurídica y patrimonio propio denominado Comisión Estatal de los Derechos Humanos.
+La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa.
 
-El Congreso del Estado, en el ámbito de su competencia, establecerá el organismo de protección de los Derechos Humanos que ampara el orden jurídico mexicano, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-Formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que le presente este organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado, podrá llamar, a solicitud de este organismo, a las autoridades o servidores públicos responsables para que comparezcan ante dicho órgano legislativo, a efecto de que expliquen el motivo de su negativa.
+I.-Emisión de copias fotostáticas:
 
-Este organismo no será competente tratándose de asuntos electorales o jurisdiccionales.
+a) Por cada hoja simple tamaño carta, de cédulas, planos,
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+parcelas, formas de manifestación de traslación de dominio
 
-La Comisión Estatal de los Derechos Humanos tendrá una presidenta o presidente, que será elegido por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, La Ley determinará los procedimientos para la presentación de las propuestas por el propio Congreso. Durará en su encargo cuatro años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Cuarto de esta Constitución.
+o cualquier otra manifestación. $10.00
 
-La elección del Presidente de la Comisión Estatal de los Derechos Humanos, se ajustará a un procedimiento de consulta pública, que deberá cumplir con el principio de máxima transparencia, en los términos y condiciones que determine la Ley.
+b) Por cada copia simple tamaño oficio. $15.00
 
-El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los Poderes del Estado un informe de actividades. Al efecto, comparecerá ante el Congreso del Estado en los términos que disponga la Ley.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 3 DE ABRIL DE 2025)</small>
+II.- Por expedición de copias certificadas de:
 
-#### SECCION III. Del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales
+a) Cédulas, planos, parcelas, manifestaciones, tamaño
+
+carta. $25.00
+
+b) Plano tamaño oficio, por cada una. $30.00
+
+c) Plano hasta 4 veces tamaño oficio, por
+
+cada una. $55.00
+
+d) Planos mayores de 4 veces de tamaño oficio por
+
+cada una. $105.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+III.- Por expedición de constancias de:
+
+a) División (por cada parte). $20.00
+
+b) Unión, rectificación de medidas, urbanización y
+
+cambio de nomenclatura $30.00
+
+c) Cédulas catastrales. $30.00
+
+d) No propiedad, única propiedad, valor catastral,
+
+número oficial de predio, información de bienes
+
+inmuebles. $70.00
+
+e) Inscripción vigente. $80.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+IV.- Por elaboración de planos:
+
+a) Catastrales a escala. $160.00
+
+b) Topográficos hasta 100 hectáreas. $280.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+V.- Por revalidación de oficios de división, unión
+
+y rectificación de Medidas. $20.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+VI.- Por reproducción de documentos microfilmados:
+
+a) Tamaño carta. $45.00
+
+b) Tamaño oficio. $55.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+VII.- Por diligencias de verificación de medidas físicas
+
+y de colindancias de predios $140.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+VIII.- Por actualizaciones de predios urbanos y rústicos se causarán y pagarán los siguientes derechos:
+
+De un valor de $0.01 A $4,000.00 $23.00
+
+De un valor de $4,001.00 A $7,000.00 $28.00
+
+De un valor de $7,001.00 A $9,000.00 $35.00
+
+De un valor de $9,001.00 En adelante $40.00
 
 ###### Artículo 97.
 
-(DEROGADO, P.O. 3 DE ABRIL DE 2025)
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-#### SECCION IV. Del Instituto Electoral de Michoacán
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rústicas que sean destinadas plenamente a la producción agrícola o ganadera.
 
 ###### Artículo 98.
 
-La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios denominado Instituto Electoral de Michoacán, en cuya integración participan el Poder Legislativo, los partidos políticos y los ciudadanos, según lo disponga la Ley. La certeza, legalidad, máxima publicidad, objetividad, imparcialidad, independencia, equidad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+Los fraccionamientos causarán derechos de deslindes, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con lo siguiente:
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+I.- Hasta 160,000 m2 $50.00 por m2
 
-El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones, contará en su estructura con órganos de dirección, ejecutivos, técnicos, de vigilancia y desconcentrados. El órgano superior de dirección se integrará por un Consejero Presidente y seis consejeros electorales en la forma y términos que establezca la Ley de la materia.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Las autoridades estatales y municipales están obligadas a proporcionar información, previo requerimiento fundado, a los órganos electorales del Estado.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-El organismo público cubrirá en su desempeño, además de lo que determine la Ley, las actividades relativas a la preparación y desarrollo de la jornada electoral, otorgamiento de constancias e impresión de materiales electorales, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos y de los candidatos que de manera independiente participen en el proceso electoral. Deberá tomar las medidas cautelares que considere convenientes para hacer prevalecer los principios que rigen el proceso electoral, en los términos señalados en la Ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Las sesiones de los órganos colegiados electorales deben ser públicas en los términos que disponga la Ley.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-El Consejero Presidente y los Consejeros Electorales del órgano superior de dirección, serán designados por un periodo improrrogable de siete años debiendo satisfacer los requisitos de elegibilidad y cumplir con el procedimiento que señala la Constitución Política de los Estados Unidos Mexicanos y la normatividad de la materia.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-#### SECCION V. Del Tribunal Electoral del Estado
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
-
-Artículo 98 A.- Se establecerá un sistema de medios de impugnación, en los términos que señale esta Constitución y la Ley, de los que conocerá el organismo público previsto en el artículo anterior y el Tribunal Electoral del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad y se dictarán con perspectiva de género.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-En materia electoral, la interposición de los recursos, en ningún caso produce efectos suspensivos del acto o resolución impugnado.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-El Tribunal Electoral del Estado será órgano permanente, autónomo y máxima autoridad jurisdiccional electoral.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-El Tribunal Electoral cubrirá en su desempeño, además de lo que determine la Ley, las actividades relativas al fomento de la cultura de la legalidad en materia de justicia electoral y participación ciudadana, consistentes en tareas de capacitación, investigación y difusión.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-El Pleno del Tribunal Electoral declarará la legalidad y validez de la elección de la Gobernadora o Gobernador del Estado, una vez resueltos, en su caso, los medios de impugnación que se hubieren interpuesto en contra de la misma.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-El Tribunal Electoral del Estado se organizará en los términos que señale la ley de la materia.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-El Tribunal Electoral del Estado funcionará en Pleno con cinco magistrados, quienes serán electos por un período de siete años conforme a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y la normatividad de la materia.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-Deberá sesionar por lo menos una vez al mes y todas sus determinaciones serán tomadas por mayoría. En el caso de las sesiones de resolución jurisdiccional serán siempre públicas, en los términos que establezca la Ley.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-Las personas que cubran las vacantes temporales de alguno de los magistrados que integran el Tribunal, deberán satisfacer los mismos requisitos que para ser magistrado electoral, conforme al procedimiento que se establezca en la ley de la materia.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
+II.- Más de 160,000 m2 por metros excedentes $50.00 por m2
 
 ###### Artículo 99.
 
-La investigación de los delitos corresponde al Ministerio Público y a las policías, quienes actuarán bajo la conducción y mando de aquél en el ejercicio de esta función. Corresponde al Ministerio Público la consecución, ante los tribunales de los delitos. Asimismo, podrá solicitar las medidas cautelares contra los imputados; buscar y presentar las pruebas que acrediten la participación de éstos en hechos que la ley señale como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas.
+Por la revisión de la documentación de construcción en régimen de propiedad en condominio, se causarán derechos de acuerdo a su tipo:
 
-Intervendrá en todos los asuntos que la ley determine.
+I.- Comercial $50.00 por departamento
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en esta Constitución.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
+II.- Habitacional $50.00 por departamento
 
 ###### Artículo 100.
 
-El Ministerio Público estará a cargo de un Fiscal General del Estado.
+Quedan exentas del pago de los derechos que establecen esta sección, las instituciones públicas.
 
-La Fiscalía General del Estado es un órgano autónomo, con personalidad jurídica, patrimonio propio, autonomía financiera, presupuestaria, técnica y de gestión en los términos que determine la Ley.
-
-El Fiscal General durará en su encargo nueve años y, no podrá ser reelecto; será designado y removido conforme a lo establecido por esta Constitución; será sujeto de responsabilidad política, penal o administrativa, en términos de la legislación aplicable.
-
-El Fiscal Estatal Anticorrupción durará en su encargo siete años y será nombrado por el Congreso del Estado, de conformidad con el procedimiento que para tal efecto se determine; podrá ser removido en los términos que la Ley establezca.
-
-La Ley Orgánica de la institución fijará la adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren, entre los cuales se incluirá la Fiscalía Especializada en Combate a la Corrupción; asimismo establecerá centros especializados en mecanismos alternativos de solución de controversias y determinará los casos que requieran supervisión judicial.
-
-El Fiscal General del Estado, deberá rendir al Congreso del Estado, un informe anual y cuando sea requerido respecto a las acciones y resultados de la institución a su cargo.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-Para proteger el derecho de las mujeres a una vida libre de violencias, la Fiscalía General del Estado, contará con la Fiscalía Especializada en Delitos relacionados con las Violencias de Género contra las Mujeres.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
+### Capítulo VIII. De los Derechos por el Uso y Aprovechamiento de los Bienes De Dominio Público del Patrimonio Municipal
 
 ###### Artículo 101.
 
-Para ser Fiscal General del Estado se requiere:
-
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Tener cuando menos treinta y cinco años cumplidos;
-
-III. Contar con residencia en el Estado de Michoacán al menos de tres años, el día de su designación;
-
-IV. Contar al día de su designación con una antigüedad de diez años en el ejercicio de su profesión y tener título profesional de licenciado en derecho expedido por universidad, autoridad o institución legalmente facultada para ello;
-
-V. Gozar de buena reputación; y,
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
-
-VI. No haber sido sentenciado por delito doloso o inhabilitado para ejercer el cargo público.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
+Están sujetos al pago de los derechos por el uso y aprovechamiento de bienes del dominio público municipal, las personas físicas o morales a quienes se les hubiera otorgado en concesión, o hayan obtenido la posesión por cualquier otro medio, así como aquéllas personas que hagan uso de las unidades deportivas, parques zoológicos, acuáticos, museos, bibliotecas y en general que usen o aprovechen los bienes del domino público municipal.
 
 ###### Artículo 102.
 
-Para la elección del Fiscal General del Estado, se observará el siguiente procedimiento:
+Es objeto de este derecho el uso y aprovechamiento de cualquiera de los bienes del dominio público del patrimonio municipal mencionados en el artículo anterior, así como el uso y aprovechamiento de locales o piso en los mercados y centrales de abasto propiedad del Municipio.
 
-I. El Congreso del Estado emitirá convocatoria pública para ocupar el cargo de Fiscal General del Estado, noventa días antes del término del encargo;
+Para los efectos de este artículo y sin perjuicio de lo dispuesto en los Reglamentos Municipales se entenderá por:
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+a) Mercado.- El inmueble edificado o no, donde concurran diversidad de personas físicas o morales, oferentes de productos básicos y a los que accedan sin restricción los consumidores en general.
 
-II. De entre los concurrentes a esa convocatoria, que cumplan todos los requisitos, elegirá diez propuestos en una lista que enviará la persona Titular del Ejecutivo del Estado;
+b) Central de Abasto.- El inmueble en que se distribuyan al mayoreo diversidad de productos y cuyas actividades principales son la recepción, exhibición, almacenamiento especializado y venta al mayoreo de productos.
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-III. La Gobernadora o Gobernador del Estado contará hasta con diez días a partir de la recepción de las propuestas, para formar una terna, misma que remitirá al Congreso del Estado;
-
-IV. El Congreso del Estado deberá, de entre la terna propuesta elegir a quien será Fiscal General del Estado por el voto de las dos terceras partes de sus integrantes;
-
-V. De no enviarse la terna dentro del plazo de diez días el Congreso del Estado integrará la terna correspondiente;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-VI. De no lograr la votación requerida para elegir de entre los propuestos integrantes de la terna hasta en dos ocasiones, se solicitará a la persona Titular del Ejecutivo del Estado la integración de una nueva terna, que será integrada por personas de la lista inicial;
-
-VII. El Fiscal General del Estado tomará protesta ante el Congreso; y,
-
-VIII. Las ausencias del Fiscal General del Estado serán suplidas en los términos que determina la Ley.
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2006)</small>
-
-#### SECCION II. De la Defensoría de Oficio
-
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+DE LA BASE
 
 ###### Artículo 103.
 
-La Defensoría de Oficio proporcionará la defensa necesaria en materia penal a los procesados que no tengan defensor particular y patrocinará en los asuntos civiles y administrativos a las personas que lo soliciten y acrediten no tener suficientes recursos económicos.
+La base para determinar el monto de estos derechos, será el número de metros cuadrados concesionados o los que tenga en posesión por cualquier otro medio, la persona obligada al pago.
 
-La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y deberes inherentes a su organización.
-
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2012)</small>
-
-Las leyes establecerán los mecanismos para la instauración de la defensoría indígena, a través de la formación, capacitación y prestación de servicios jurídicos y administrativos, mediante un sistema interdisciplinario de traductores intérpretes en lenguas originarias y extranjeras, y expertos en culturas y sistemas normativos indígenas.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+DE LA TASA Y DEL PAGO
 
 ###### Artículo 104.
 
-Se consideran servidores públicos a los representantes de elección popular, a los funcionarios, empleados y; en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier índole en los Poderes Legislativo, Ejecutivo y Judicial, sean de naturaleza centralizada o paraestatal, así como a los servidores públicos de los ayuntamientos y entidades paramunicipales y de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones y por el manejo indebido de recursos públicos y la deuda pública.
+Los derechos de servicios de mercados y centrales de abasto se causarán y pagarán de conformidad con la siguiente tarifa:
 
-Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de conflicto de intereses ante las autoridades competentes y en los términos que determine la ley.
+I.- En los casos a que hace referencia la fracción I del artículo 97 de la Ley General de Hacienda para los Municipios del Estado de Yucatán, se pagarán $180.00 mensual por locales cerrados;
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+II.- En los casos en que hace referencia la fracción II del artículo 97 de la Ley General de Hacienda para los Municipios del Estado de Yucatán, se pagarán $ 30.00 por día;
 
-Los servidores públicos señalados en el presente artículo están obligados a atender directamente a los integrantes de los Gobiernos Comunales. Será motivo de sanción a dichos servidores públicos, cualquier intento de intervención en los procesos de consulta previa, libre e informada, así como la falta de cumplimiento en lo señalado en el presente párrafo, para lo cual se establecerá un procedimiento en la Ley de la materia, a efecto de sancionar las conductas por violaciones a derechos humanos de las comunidades indígenas del Estado.
+III.- En los casos a que hace referencia la fracción I del artículo 97 de la Ley General de Hacienda para los Municipios del Estado de Yucatán, se pagarán $ 5.00 m2, y
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+IV.- En los casos de ferias, fiestas tradicionales, verbenas o cualquier otro tipo de acto que realice el Ayuntamiento de Acanceh, se cobrará a razón de $ 200.00 el m2, excepto de los que tengan venta de bebidas alcohólicas, los cuales tendrán el tratamiento previsto en otros apartados.
 
-Los integrantes de los Ayuntamientos y Gobiernos Comunales deberán de atender, dar trámite y coadyuvar, en los términos de las leyes aplicables, las peticiones de las comunidades indígenas con carácter de tenencia para acceder al ejercicio del derecho al autogobierno indígena. En caso de no hacerlo serán sujetos a sanciones administrativas o penales, en términos de la legislación aplicable.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+DE LA RENUNCIA Y OTORGAMIENTO DE CONCESIONES
 
 ###### Artículo 105.
 
-Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo dispuesto en este Título y a lo siguiente:
+El otorgamiento de concesiones para el uso y aprovechamiento de superficies de los mercados públicos municipales, causará un derecho inicial que se calculará aplicando la tasa del 10% sobre el valor comercial del área concesionada.
 
-I. Se aplicarán las sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones y, en su caso, a los particulares que participen en faltas administrativas que la ley califique como graves. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones;
+Cuando algún concesionario ilegalmente haya pretendido enajenar sus derechos, el contrato que contenga la operación será nulo de pleno derecho, será causa de revocación de la concesión y de la aplicación al adquiriente de una multa consistente en el 30% del valor comercial del área concesionada. El Ayuntamiento podrá concesionar discrecionalmente, al presunto adquiriente la superficie en cuestión mediante un nuevo acto administrativo, y previo pago de los derechos y la multa a que se refiere este artículo.
 
-II. La ley determinará los casos de procedencia de la responsabilidad civil de los servidores públicos y patrimonial del Estado por actos u omisiones atribuibles a los primeros.
+DE LA OBLIGACIÓN DE TERCEROS
 
-La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes; y,
+###### Artículo 106.
 
-III. Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, Auditoría Superior de Michoacán o los órganos de control respecto de las conductas a las que se refiere el presente artículo. La ley establecerá los mecanismos para incentivar la denuncia pública y su salvaguarda.
+Los fedatarios públicos y las personas que tengan funciones notariales, no autorizarán escrituras que se refieran a adquisición de inmuebles ubicados en el Municipio que corresponda ni el personal del Registro Público de la Propiedad y del Comercio del Estado, de Yucatán, harán las inscripciones respectivas, si no se comprueba, mediante certificado expedido por la Tesorería Municipal, que se han pagado los derechos a que se refiere este capítulo.
 
-(NOTA: EL 23 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO VIII.1 Y IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 165/2018, DECLARÓ LA INVALIDEZ DE LA REFORMA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Artículo 106.- Para proceder penalmente por la comisión de delitos del orden común, contra el Gobernador, el Secretario de Gobierno, el Procurador General de Justicia, los Diputados al Congreso, los Magistrados, los Consejeros Electorales y del Poder Judicial, así como el Auditor Superior; el Congreso del Estado erigido en Jurado de Sentencia, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría absoluta, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo, el servidor público podrá ser separado de su encargo y sujeto a la acción de los tribunales comunes."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Para el caso de que, alguna de las personas mencionadas en este artículo, viole lo dispuesto en el párrafo inmediato anterior, quien o quienes hubiesen incurrido en la violación, serán solidariamente responsables, con el contribuyente, del pago de los derechos que se hubiesen omitido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2018)</small>
-
-###### ARTÍCULO 106.
-
-EN EL ESTADO DE MICHOACÁN, NO SE REQUERIRÁ DECLARATORIA DE PROCEDENCIA PARA EL INICIO DE PROCESO PENAL CONTRA FUNCIONARIOS Y SERVIDORES PÚBLICOS, PARA LO CUAL SE ESTARÁ A LO ESTABLECIDO POR LAS LEYES PENALES CORRESPONDIENTES.
-
-(NOTA: EL 23 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO VIII.1 Y IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 165/2018, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Cuando se trate del Gobernador, sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito realizado dentro de su función o que con motivo de ella viole la ley que señala las atribuciones inherentes al cargo que desempeña. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde el día en que inicie su encargo, hasta el momento en que concluya por cualquier motivo su mandato."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE JULIO DE 2018)</small>
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente a aquel servidor público al que se le haya acreditado la comisión del delito de enriquecimiento ilícito. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
-
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2018)</small>
+### Capítulo IX. Derechos por Servicio de Limpia
 
 ###### Artículo 107.
 
-En los casos previstos por los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos, la resolución o declaración emitidas por el Congreso de la Unión, deberá conocerse por el Congreso, para que éste proceda en la primera sesión que se celebre después de recibida, conforme a las disposiciones de la Constitución Federal, de la Constitución Estatal y las leyes correspondientes, considerándose un procedimiento autónomo a la declaración de procedencia antes prevista en esta Constitución.
-
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2018)</small>
+Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios de limpia y recolección de basura que preste el Municipio.
 
 ###### Artículo 108.
 
-El juicio político es el procedimiento para fincar responsabilidad política a un servidor público. Implica el ejercicio material de una función jurisdiccional llevada a cabo por el Congreso del Estado y sus sanciones serán de carácter eminentemente político y administrativo.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-Podrán ser sujetos de juicio político, la Gobernadora o Gobernador, los Diputados al Congreso, el Auditor Superior, las magistradas y magistrados del Poder Judicial, las magistradas y magistrados del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial, los titulares de las dependencias centralizadas y entidades paraestatales de la administración pública estatal, y los integrantes o titulares de los organismos a los que esta Constitución otorgue autonomía, asimismo los integrantes y funcionarios de los ayuntamientos que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho públicos o cuando interfieran indebidamente a favor de partido político o candidato durante los procesos electorales. No procede juicio político por mera expresión de ideas.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
-
-Las sanciones consistirán en la suspensión, destitución e inhabilitación del servidor público para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal o municipal de acuerdo a la Ley de la materia.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
-
-Se dará a conocer el resolutivo del juicio a todos los gobiernos de las Entidades Federativas y a los tres Poderes del Gobierno Federal, para los efectos legales y administrativos correspondientes.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
-
-El procedimiento de juicio político estará reglamentado por la Ley.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
-
-Las declaraciones y resoluciones del Congreso erigido en Jurado de Sentencia serán definitivas e inatacables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+Es objeto de este derecho el servicio de limpia y recolección de basura a domicilio o en los lugares que al efecto se establezcan en los Reglamentos Municipales correspondientes, así como la limpieza de predios baldíos que sean aseados por el Ayuntamiento a solicitud del propietario de los mismos, fuera de este último caso, se estará a lo dispuesto en la reglamentación municipal respectiva.
 
 ###### Artículo 109.
 
-Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior de Michoacán y los órganos internos de control estatales o municipales, según corresponda, y serán resueltas por el Tribunal en materia Anticorrupción y Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+Servirá de base el cobro de este derecho:
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+I.- Tratándose del servicio de recolección de basura, la periodicidad y forma en que se preste el servicio, y
 
-El Tribunal en materia Anticorrupción y Administrativa impondrá a los servidores públicos sanciones que consistirán en apercibimiento, amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-A los particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, podrá imponerles las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Además de lo anterior, a las personas morales también podrá ordenársele la suspensión de actividades, disolución o intervención de la sociedad; en estos supuestos, la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-Los procedimientos para la aplicación de las sanciones mencionadas con anterioridad se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia este artículo. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
-
-Artículo 109 bis.- Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la Ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas distintas a las que son competencia del Tribunal en materia Anticorrupción y Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales y, en su caso, municipales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución.
-
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-Artículo 109 ter.- El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2025)</small>
-
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de: Auditoría Superior de Michoacán, Fiscalía Especializada en Combate a la Corrupción y el Órgano Estatal de Control del Ejecutivo; el Presidente del Tribunal en materia Anticorrupción y Administrativa; un representante del Poder Judicial del Estado y otro del Comité de Participación Ciudadana; así como tres titulares de las contralorías municipales, electos por sus pares.
-
-II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que acrediten conocimiento y/o contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley; y,
-
-III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
-
-a) La operación de mecanismos de coordinación con el sistema federal y la aplicación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes estatales y municipales, en los términos que determine el Sistema Nacional;
-
-b) A nivel local, el diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y actos de corrupción, en especial sobre las causas que los generan y el establecimiento de bases y principios para la efectiva coordinación de las autoridades estatales y municipales en materia de fiscalización y control de los recursos públicos; y,
-
-c) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
-
-Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y actos de corrupción, así como el mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+II.- La superficie total del predio que deba limpiarse, a solicitud del propietario.
 
 ###### Artículo 110.
 
-El Procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+Por los servicios correspondientes al (sic) recolecta de basura se causará y pagarán las siguientes cantidades:
 
-(NOTA: EL 23 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO VIII.1 Y IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 165/2018, DECLARÓ LA INVALIDEZ DE LA REFORMA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 106 de esta Constitución."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+I.- Por cada viaje de recolección $ 50.00
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2018)</small>
+II.- En el caso de predios baldíos (por metro cuadrado) $ 5.00
 
-LA RESPONSABILIDAD POR DELITOS COMETIDOS DURANTE EL TIEMPO DEL ENCARGO POR CUALQUIER SERVIDOR PÚBLICO, SERÁ EXIGIBLE DE ACUERDO CON LOS PLAZOS DE PRESCRIPCIÓN CONSIGNADOS EN LA LEY PENAL, QUE NUNCA SERÁN INFERIORES A TRES AÑOS.
+III.- Tratándose de servicio contratado, se aplicará las siguientes tarifas:
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+a) Habitacional
+
+1.- Por recolección esporádica $ 5.00
+
+2.- Por recolección periódica $ 5.00
+
+Tratándose de la recoja de desechos metálicos, enseres de cocina, cacharros, fierros, troncos y ramas, se causará y cobrará una tarifa fija diaria adicional de $ 15.00
+
+b) Comercial
+
+1.- Por recolección esporádica $ 5.00 por cada viaje
+
+2.- Por recolección periódica $ 5.00 semanal
+
+c) Industrial
+
+1.- Por recolección esporádica $ 50.00 por cada viaje
+
+2.- Por recolección periódica $ 400.00 semanal
+
+El derecho por el uso de basureros propiedad del municipio se causará y cobrará de acuerdo a la siguiente clasificación:
+
+a) Basura domiciliaria $ 35.00 por viaje
+
+b) Desechos orgánicos $ 70.00 por viaje
+
+c) Desechos industriales $ 70.00 por viaje
 
 ###### Artículo 111.
 
-El Estado adopta como base de su división territorial y de su organización política y administrativa el Municipio Libre. Su funcionamiento se sujetará a las disposiciones de esta Constitución y de la legislación reglamentaria respectiva.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2001)</small>
+El pago se realizará en la caja de la Tesorería Municipal o con la persona que el Ayuntamiento designe.
 
 ###### Artículo 112.
 
-Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que deberá residir en la cabecera que señala la Ley. La competencia que esta Constitución otorga al gobierno municipal se ejercerá de manera exclusiva por el Ayuntamiento y no habrá autoridad intermedia entre éste y el Gobierno del Estado.
+Los predios relacionados con la prestación del servicio de limpia en cualquiera de las modalidades señaladas en este capítulo, responden de manera objetiva por el pago de créditos fiscales que se generen con motivo de la prestación de dichos servicios.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-En el caso de que la cabecera del municipio corresponda a una comunidad indígena; esta podrá gobernarse por un Gobierno Comunal, en función del derecho al autogobierno que esta Constitución reconoce y garantiza. El procedimiento para hacer esta transición deberá observar los preceptos de las leyes correspondientes.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+### Capítulo X. Derechos por Servicios de Agua
 
 ###### Artículo 113.
 
-El Ayuntamiento y en su caso el Gobierno Comunal tendrá personalidad jurídica para todos los efectos legales.
+Son sujetos obligados al pago de estos derechos las personas físicas o morales que hagan uso de este servicio, ya sea que se preste directamente por el Ayuntamiento o por conducto de un organismo descentralizado, y siempre que no se cuente con medidores de conformidad con lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
+I.- $ 20.00 por toma doméstica.
+
+II.- $ 40.00 por toma comercial.
+
+III.- $ 40.00 por toma industrial.
+
+IV.- Por conexión a la red municipal de Agua Potable se pagarán 10 salarios mínimos vigente en el Estado de Yucatán, incluyendo servicio y materiales.
+
+### Capítulo XI. Derechos por Servicios de Panteones
 
 ###### Artículo 114.
 
-Cada Ayuntamiento estará integrado por una Presidenta o Presidente Municipal y el número de síndicos y regidores que la Ley determine, de conformidad con el principio de paridad de género.
+Los Derechos por los servicios de panteones se pagaran de conformidad con la siguiente:
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
+T A R I F A
 
-La Ley introducirá el principio de representación proporcional en la elección de los ayuntamientos.
+I.- Por renta de bóveda:
 
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+a) Por renta de bóveda grande por un período de dos años o su prorroga por el mismo período se pagará $240.00
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+b) Por renta de bóveda grande por un período de dos años o su prorroga por el mismo período se pagará $104.00
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2012)</small>
+II.- Por concesión para utilizar a perpetuidad una sepultura en los cementerios:
 
-La ley de la materia establecerá los mecanismos para que en los municipios con presencia de comunidades indígenas, se instituyan órganos colegiados de autoridades representantes de las comunidades indígenas, garantizando su participación y pleno respeto a la autonomía y personalidad jurídica comunal.
+a) Osario o cripta mural $120.00
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+b) Bóveda chica $704.00
 
-Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes que expida la Legislatura del Estado, con base en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+c) Bóveda grande $1,625.00
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+III.- Mausoleos por metro cuadrado $95.00
 
-En municipios donde la cabecera corresponda a una comunidad indígena, el Gobierno Comunal será integrado de conformidad al sistema normativo o usos y costumbres de la comunidad indígena cabecera. Su integración deberá observar desde una perspectiva intercultural la paridad de género. Los servicios prestados al Gobierno Comunal serán considerados como parte del trabajo y servicio comunal que prestan sus habitantes a sus poblaciones; esto es como una faena.
+IV.- Servicio de inhumación o exhumación $75.00
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
+El pago de los derechos correspondientes se hará en el momento en que se solicite el servicio.
 
 ###### Artículo 115.
 
-Los presidentes, los síndicos y los regidores de los ayuntamientos, serán electos por el pueblo; sus facultades y obligaciones, serán las determinadas por esta Constitución y por la Ley de la materia.
+Por el permiso de construcción de cripta o bóveda para constructores de criptas o marmoleros en los panteones municipales se cobrará una cuota de $ 20.00 el metro cuadrado por cada fosa
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
-
-Si alguno de los miembros de los ayuntamientos dejare de desempeñar su cargo, el Ayuntamiento valorará y acordará el tipo de ausencia en la sesión inmediata siguiente, procediendo de acuerdo a lo dispuesto en esta Constitución y en la Ley Orgánica Municipal del Estado de Michoacán de Ocampo.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+### Capítulo XII. Derechos Diversos
 
 ###### Artículo 116.
 
-Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos electos directa o indirectamente que desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser reelectos para el período inmediato.
+El Municipio podrá percibir aprovechamientos derivados de otros conceptos no previstos en los capítulos anteriores, cuyo rendimiento, ya sea en efectivo o en especie, deberá ser ingresado al erario municipal, expidiendo de inmediato el recibo oficial respectivo.
 
-Los funcionarios antes mencionados, cuando teniendo el carácter de suplentes, hayan ejercido el cargo de propietarios, se les contabilizará como un período. Lo anterior, también será aplicable a las autoridades electas por los sistemas normativos y de gobierno interno de las comunidades indígenas.
+### Capítulo Único. De los Sujetos
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+## TÍTULO CUARTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
-## TITULO TERCERO A
-
-> <small>(ADICIONADO CON LAS SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
+### Capítulo Único. De la Clasificación
 
 ###### Artículo 117.
 
-Los ayuntamientos y los Gobiernos Comunales establecidos en municipios donde la cabecera corresponda a una comunidad indígena tendrán un período de ejercicio de tres años, con opción de elegirse por un periodo más. La elección de la totalidad de sus integrantes se celebrará el primer domingo del mes de junio del año en que concluya el período constitucional, y tomarán posesión de su cargo el día primero del mes de septiembre del año de su elección.
+Son sujetos obligados al pago de las contribuciones de mejoras las personas físicas o morales que sean propietarios, fideicomisarios, fideicomitentes, fiduciarios o poseedores por cualquier título de los predios beneficiados con obras realizadas por el Ayuntamiento, sin importar si están destinados a casa-habitación, o se trate de establecimientos comerciales, industriales y/o de prestación de servicios.
 
-Por cada Síndico y Regidor, se elegirá un suplente.
+Para los efectos de este artículo se consideran beneficiados con las obras que efectúe el Ayuntamiento los siguientes:
 
-El periodo de duración de los Gobiernos Comunales de aquellas comunidades indígenas que ejerzan el derecho al autogobierno, será determinado por la asamblea, y en ningún caso podrá durar más de 3 años.
+Los predios exteriores, que colinden con la calle en la que se hubiese ejecutado las obras.
+
+Los predios interiores, cuyo acceso al exterior, fuera por la calle en donde se hubiesen ejecutado las obras.
+
+En el caso de edificios sujetos a régimen de propiedad en condominio, el importe de la contribución calculado en términos de este capítulo, se dividirá a prorrata entre el número de locales.
+
+DE LA CLASIFICACIÓN
 
 ###### Artículo 118.
 
-(DEROGADO, P.O. 27 DE ABRIL DE 1995)
+Las contribuciones de mejoras se pagarán por la realización de obras públicas de urbanización consistentes en:
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+I.- Pavimentación;
+
+II.- Construcción de banquetas;
+
+III.- Instalación de alumbrado público;
+
+IV.- Introducción de agua potable;
+
+V.- Construcción de drenaje y alcantarillado público;
+
+VI.- Electrificación en baja tensión, y
+
+VII.- Cualesquier otra obra distinta de las anteriores que se lleven a cabo para el fortalecimiento del Municipio o el mejoramiento de la infraestructura social municipal.
+
+DEL OBJETO
 
 ###### Artículo 119.
 
-Para ser electo Presidente Municipal, Síndico o Regidor se requiere:
+El objeto de la contribución de mejoras, es el beneficio diferencial que obtengan todos los bienes inmuebles que colinden con las obras y servicios de urbanización mencionados en el artículo anterior, llevados a cabo por el Ayuntamiento.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-I.- Ser ciudadano mexicano por nacimiento y michoacano en pleno ejercicio de sus derechos;
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
-
-II.- Haber cumplido veintiún años el día de la elección, para el cargo de Presidente y Síndico; y dieciocho años para el cargo de Regidor;
-
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
-
-III.- Haber nacido en el Municipio respectivo o haber adquirido la vecindad en el mismo por lo menos dos años antes al día de la elección;
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
-
-IV.- No ser funcionario de la Federación, del Estado o del Municipio, ni tener mando de fuerza en el Municipio en que pretenda ser electo, durante los noventa días anteriores a la fecha de la elección; si se trata del Tesorero Municipal, es preciso que hayan sido aprobadas sus cuentas por el Cabildo o por el Congreso del Estado, según corresponda;
-
-V.- No ser ni haber sido ministro o delegado de algún culto religioso;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-VI.- No estar comprendido en ninguno de los casos que señala el artículo 116; y,
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-VII.- No ser consejero o funcionario electoral federal o estatal, a menos que se separe un año antes del día de la elección.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+DE LA CUOTA UNITARIA
 
 ###### Artículo 120.
 
-Los ayuntamientos no pueden impedir la entrada o salida de mercancías o productos de cualquier clase por el territorio de su municipio.
+Para calcular el importe de las contribuciones de mejoras, el costo de la obra comprenderán (sic) los siguientes conceptos:
 
-> <small>(REFORMADO, P.O., 3 DE JULIO DE 2001)</small>
+I.- El costo del proyecto de la obra;
+
+II.- La ejecución material de la obra;
+
+III.- El costo de los materiales empleados en la obra;
+
+IV.- Los gastos de financiamiento para la ejecución de la obra;
+
+V.- Los gastos de administración del financiamiento respectivo;
+
+VI.- Los gastos indirectos.
+
+Una vez determinado el costo de la obra, se aplicará la tasa que la autoridad haya convenido con los beneficiarios, teniendo en cuenta las circunstancias económicas de los beneficiados, procurando que la aportación económica no sea ruinosa o desproporcionada y, la cantidad que resulte se dividirá entre el número de metros lineales, cuadrados o cúbicos, según corresponda al tipo de la obra, con el objeto de determinar la cuota unitaria que deberán pagar los sujetos obligados, de acuerdo con las fórmulas especificadas en los artículos siguientes.
+
+DE LA BASE PARA LA DETERMINACIÓN DEL IMPORTE DE LAS OBRAS DE PAVIMENTACIÓN Y CONSTRUCCIÓN DE BANQUETAS
 
 ###### Artículo 121.
 
-La Ley establecerá los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período constitucional del Ayuntamiento.
+Para determinar el importe de la contribución en caso de obras y pavimentación o por construcción de banquetas en los términos de este capítulo, se estará a lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
+I.- En los casos de construcción, total o parcial de banquetas la contribución se cobrará a los sujetos obligados independientemente de la clase de propiedad, de los predios ubicados en la acera en la que se hubiesen ejecutado las obras.
+
+El monto de la contribución se determinará, multiplicando la cuota unitaria, por el número de metros lineales de lindero de la obra, que corresponda a cada predio beneficiado.
+
+II.- Cuando se trate de pavimentación, se estará a lo siguiente:
+
+a) Si la pavimentación cubre la totalidad del ancho, se considerarán beneficiados los predios ubicados en ambos costados de la vía pública.
+
+b) Si la pavimentación cubre la mitad del ancho, se considerarán beneficiados los predios ubicados en el costado, de la vía pública que se pavimente.
+
+En ambos casos, el monto de la contribución se determinará, multiplicando la cuota unitaria que corresponda, por el número de metros lineales, de cada predio beneficiado.
+
+III.- Si la pavimentación cubre una franja que comprenda ambos lados, sin que cubra la totalidad de éste, los sujetos obligados pagarán, independientemente de la clase de propiedad de los predios ubicados, en ambos costados, en forma proporcional al ancho de la franja de la vía pública que se pavimente.
+
+El monto de la contribución, se determinará, multiplicando la cuota unitaria que corresponda, por el número de metros lineales que existan, desde el límite de la pavimentación, hasta el eje y el producto así obtenido, se multiplicará por el número de metros lineales de lindero con la obra, por cada predio beneficiado.
+
+DE LAS DEMÁS OBRAS
 
 ###### Artículo 122.
 
-Todo Ayuntamiento tendrá un Secretario y un Tesorero, que serán nombrados por sus miembros por mayoría absoluta de votos a propuesta del Presidente Municipal, y contará con la estructura administrativa que determine su Bando de Gobierno Municipal, garantizando el principio de paridad de género.
+Respecto de las obras de instalación de alumbrado público, introducción de agua potable, construcción de drenaje o alcantarillado público y electrificación en baja tensión, pagarán las contribuciones a que se refiere este capítulo, los propietarios, fideicomitentes, fideicomisarios o poseedores de los predios beneficiados, y ubicados en ambos costados de la vía pública, donde se hubiese realizado la obra, y se determinará su monto, multiplicando la cuota unitaria que corresponda, por el número de metros lineales de lindero con la obra de cada predio.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+En el caso de predios interiores beneficiados el importe de la cuota unitaria será determinado en cada caso por la Dirección de Obras Públicas o la Dependencia Municipal encargada de la realización de tales obras.
 
-Ningún regidor podrá desempeñar estos empleos y las personas designadas llenarán los mismos requisitos que los regidores, con excepción del de vecindad. El Tesorero deberá otorgar fianza para garantizar el manejo de fondos públicos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+DE LA ÉPOCA Y LUGAR DE PAGO
 
 ###### Artículo 123.
 
-Son facultades y obligaciones de los ayuntamientos, de los concejos Municipales y de los Gobiernos Comunales:
+El pago de las contribuciones de mejoras se realizará a más tardar dentro de los treinta días siguientes a la fecha en que el Ayuntamiento inicie la obra de que se trate. Para ello, el Ayuntamiento, publicará en un periódico de los que se editan en el Estado, la fecha en que se iniciará la obra respectiva.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+Transcurrido el plazo mencionado en el párrafo anterior, sin que se hubiere efectuado el pago, el Ayuntamiento por conducto de la Tesorería Municipal procederá a su cobro por la vía coactiva.
 
-I.- Representar jurídicamente al municipio;
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
-
-II.- Administrar libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor y, en todo caso:
-
-a) Percibir las contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Los ayuntamientos y los Gobiernos Comunales podrán celebrar convenios con la Secretaría de Finanzas, para que ésta se haga cargo de las funciones relacionadas con la administración de esas contribuciones.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
-
-b) Las participaciones federales y estatales, que serán cubiertas con arreglo a las bases, montos y plazos que anualmente apruebe el Congreso del Estado, conforme a los criterios que el mismo determine
-
-c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
-
-No se establecerán exenciones o subsidios respecto de los incisos a) y c) en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo estarán exentos los bienes de dominio público de la Federación, del Estado y de los municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos y los Gobiernos Comunales, o bien por quien ellos autoricen, conforme a la Ley. Esta atribución incluye la transferencia del presupuesto a las comunidades indígenas en los términos de las leyes correspondientes.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-En el caso de que una comunidad indígena decida ejercer su derecho al autogobierno y administrar directamente el presupuesto público conforme lo señalado en la Ley, el Ayuntamiento respectivo está obligado a sesionar para emitir el acuerdo de cabildo correspondiente. De no hacerlo en los tiempos establecidos, serán sujetos a sanciones administrativas o penales, en términos de la legislación aplicable.
-
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
-
-II Bis.- Proponer al Congreso del Estado, en el ámbito de su competencia, las cuotas y tarifas aplicables e impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-III.- Aprobar su presupuesto de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley. Entregar al Congreso del Estado los informes trimestrales del ejercicio dentro de un plazo de treinta días naturales después de concluido el trimestre. La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado de Michoacán de Ocampo a más tardar el treinta y uno de marzo del año siguiente;
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Cada Ayuntamiento y Gobierno Comunal deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Municipio o de las entidades paramunicipales que cuenta con la garantía del Municipio o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados conforme a las leyes aplicables;
-
-> <small>(REFORMADA, P.O., 3 DE JULIO DE 2001)</small>
-
-IV.- Aprobar y expedir de conformidad con las leyes que emita el Congreso, el Bando de Gobierno Municipal, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
-
-V.- Proporcionar en sus jurisdicciones los servicios de:
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
-
-a) Agua potable, drenaje y alcantarillado, así como el tratamiento y disposición de sus aguas residuales;
-
-b) Alumbrado público.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
-
-c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
-
-d) Mercados y centrales de abasto.
-
-e) Panteones.
-
-f) Rastros.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
-
-g) Calles, parques y jardines y su equipamiento.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
-
-h) Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que la Gobernadora o Gobernador del Estado le transmita en aquellos casos que éste juzgue de fuerza mayor o alteración grave del orden público. El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde éste resida habitual o transitoriamente; e
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-En el caso de las Comunidades Indígenas con autogobierno, la seguridad comunal será brindada por los Gobiernos Comunales a sus poblaciones y tendrán el mando de las kuarichas, k’uajpirichas, guardias, rondas o rondines comunales de las comunidades indígenas, en términos de las normas generales federales y leyes estatales en materia de seguridad.
-
-i) Los demás que el Congreso del Estado determine según las condiciones territoriales y socio-económicas de los municipios, así como su capacidad administrativa y financiera.
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2001)</small>
-
-Sin perjuicio de su competencia constitucional, en el desempeño de las funciones, o la prestación de los servicios a su cargo, los municipios observarán lo dispuesto en las leyes federales y estatales.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Los municipios o comunidades indígenas con autogobierno, previo acuerdo de sus ayuntamientos o Gobiernos Comunales respectivamente y con sujeción a la Ley, podrán coordinarse y asociarse entre sí o con los de otras Entidades Federativas, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan; en este último caso, deberán contar con la aprobación del Congreso.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Cuando a juicio del ayuntamiento o Gobierno Comunal respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-Las controversias que se susciten entre los ayuntamientos, los Gobiernos Comunales o entre éstos y el Gobierno del Estado, con motivo de los convenios que se celebren en materia de servicios públicos, se dirimirán conforme a lo que establezca la Ley.
-
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
-
-VI. Formular, evaluar, aprobar, administrar, y difundir la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial de conformidad con la normatividad correspondiente;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-VII.- Participar en la creación y administración de sus reservas territoriales;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-VIII.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Gobierno del Estado elabore proyectos de desarrollo regional deberá asegurar la participación de los municipios;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-IX.- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales e intervenir en la regularización de la tenencia de la tierra urbana;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-X.- Otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XI.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XII.- Celebrar convenios para la administración y custodia de las zonas federales. Para tal efecto y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XIII.- Vigilar las escuelas públicas y las particulares, tomando empeño para que en sus respectivas circunscripciones asistan a las escuelas todos los niños en edad escolar;
-
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-XIII Bis.- Prevenir y erradicar la violencia contra las mujeres, así como la aplicación de los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezcan su desarrollo integral y bienestar conforme a los principios de igualdad y de no discriminación, el respeto a la dignidad humana, la libertad y su empoderamiento.
-
-Para tal fin los Municipios en el ámbito de sus respectivas competencias deberán expedir las normas legales correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
-
-Para el cumplimiento de esta fracción, las instancias municipales de la mujer deben de contar con personal especializado para brindar la debida atención;
-
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
-
-XIV.- Conocer anualmente, en pleno, el estado que guarda la administración municipal, por informe que rendirá el Presidente o Concejero respectivo;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XV.- Procurar que los pueblos de su jurisdicción tengan las tierras y aguas necesarias para su subsistencia, cuidando de la conservación de sus arbolados, ejidos, tierras comunales y patrimonios de familia;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XVI.- Participar, en su ámbito de competencia, en la protección, preservación y restauración de los recursos naturales y del equilibrio ecológico;
-
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XVII.- Cumplir y dictar disposiciones para fomentar el desarrollo de la agricultura e industrias rurales;
-
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XVIII.- Promover el fraccionamiento de latifundios;
-
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XIX.- Supervisar la aplicación de las disposiciones que en materia de desarrollo urbano le competan, para impulsar un crecimiento adecuado de los núcleos de población;
-
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XX.- Fomentar la participación ciudadana para el cumplimiento de sus fines;
-
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XXI.- Formar sus cuerpos de policía preventiva municipal y tránsito;
-
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XXII.- Colaborar ampliamente con los organismos electorales, en los términos de la Ley;
-
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XXIII.- Consultar a los ciudadanos, a través de plebiscito, sobre actos o decisiones, cuando considere que sean trascendentales para la vida pública y el interés social del municipio, conforme a los procedimientos y formalidades que establezca la Ley de la materia. No podrán someterse a plebiscito los actos o decisiones relativos a materia tributaria o fiscal, de Egresos, régimen interno de la administración pública municipal y los demás que determine la Ley; y,
-
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
-
-XXIV.- Las demás que señalen las leyes.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+DE LA FACULTAD PARA DISMINUIR LA CONTRIBUCIÓN
 
 ###### Artículo 124.
 
-La administración pública, fuera de la cabecera municipal, estará a cargo de jefes de tenencia o encargados del orden; sus facultades y obligaciones serán determinadas por la ley. Por cada propietario habrá un suplente y serán nombrados en plebiscito.
+El Tesorero Municipal previa solicitud por escrito del interesado y una vez realizado el estudio socioeconómico del contribuyente; podrá disminuir la contribución a aquellos contribuyentes de ostensible pobreza y que dependa de él más de tres personas y devengue un ingreso no mayor a dos salarios mínimos vigentes en el Estado de Yucatán.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+## TÍTULO QUINTO. DE LOS PRODUCTOS
 
-En las comunidades indígenas con carácter de tenencia o encargatura del orden independiente de que conforme a las leyes aplicables hayan determinado autogobernarse, la administración comunal estará a cargo de un Gobierno Comunal integrado y renovado conforme al sistema normativo o usos y costumbres de la comunidad en específico y en concordancia con un principio intercultural de paridad de género. Los servicios prestados al Gobierno Comunal serán considerados como parte del trabajo y servicio comunal que prestan sus habitantes a sus poblaciones, esto es, como una Faena. En ejercicio de su derecho al autogobierno indígena reconocido por esta Constitución contarán, al interior de su comunidad, con las mismas funciones que un gobierno municipal, con la misma personalidad jurídica y con la administración y ejercicio directo del presupuesto público que les corresponda.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-El porcentaje poblacional del municipio, junto a otros que compensen la marginación y pobreza, serán determinantes para establecer un criterio de dispersión de las participaciones, rubros y recursos económicos a las comunidades indígenas con carácter de tenencias o de encargaturas del orden independientes que se autogobiernen.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
-
-## TITULO CUARTO. De las Responsabilidades de los Servidores Públicos, Particulares Vinculados con Faltas Administrativas Graves o Hechos de Corrupción y Patrimonial del Estado
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+### Capítulo I. De las Multas Administrativas
 
 ###### Artículo 125.
 
-El cargo de Presidente, Síndico y Regidores es obligatorio y sólo podrá renunciarse por causa grave que califique el Ayuntamiento.
+Los productos que percibirá el Ayuntamiento a través de la Tesorería Municipal, serán:
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)</small>
+I.- Por arrendamiento, enajenación y explotación de bienes muebles e inmuebles, del dominio privado del patrimonio municipal;
+
+II.- Por arrendamiento, enajenación y explotación de bienes que siendo del dominio público municipal, su uso ha sido restringido a determinada persona a través de un contrato de arrendamiento o de uso, regido por las disposiciones del derecho privado y por el cual no se exige el pago de una contribución;
+
+III.- Por los remates de bienes mostrencos, y
+
+IV.- Por los daños que sufrieron las vías públicas o los bienes del patrimonio municipal afectados a la prestación de un servicio público, causados por cualquier persona.
+
+DE LOS ARRENDAMIENTOS Y LAS VENTAS
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 126.
 
-Los ayuntamientos distribuirán entre los regidores la atención de los servicios municipales, en comisiones colegiadas permanentes, las que emitirán dictámenes en todo caso para que el pleno de aquellos dicte los acuerdos convenientes y oportunos. La ejecución de tales acuerdos estará a cargo de los presidentes municipales. Los regidores no tendrán mando directo sobre los empleados municipales.
+Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Municipio se llevarán a cabo conforme a la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+El arrendamiento de bienes a que se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente y el Síndico previa la aprobación del Cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato, época y lugar de pago.
+
+Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párrafo anterior.
+
+DE LA EXPLOTACIÓN
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 127.
 
-Las controversias entre la administración municipal y los particulares, se dirimirán de acuerdo a lo establecido en las leyes.
+Los bienes muebles e inmuebles propiedad del Municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+DEL REMATE DE BIENES MOSTRENCOS O ABANDONADOS
 
 ###### Artículo 128.
 
-Los presidentes Municipales tomarán empeño para que en sus respectivas circunscripciones asistan a las escuelas públicas o privadas todos los niños en edad escolar.
+Corresponderá al municipio, el 75% del producto obtenido, por la venta en pública subasta, de bienes mostrencos o abandonados, denunciados ante la autoridad municipal en los términos del Código Civil del Estado de Yucatán. Corresponderá al denunciante el 25% del producto obtenido, siendo a su costa el avalúo del inmueble y la publicación de los avisos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 1983)</small>
+DE LOS PRODUCTOS FINANCIEROS
 
 ###### Artículo 129.
 
-Es obligación del poder público garantizar el desarrollo integral estatal, mediante el fomento del crecimiento económico, una más justa distribución de la riqueza y el ingreso de la población estatal, evitando concentraciones o acaparamientos que impidan la distribución adecuada de bienes y servicios a la población y en el Estado.
-
-En el desarrollo económico estatal, concurrirán los sectores público, social y privado, correspondiendo al Gobierno del Estado procurar la armonía entre ellos para cumplir con su responsabilidad social. El sector público cuidará de impulsar por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo del Estado.
-
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2025)</small>
-
-Todas las autoridades estatales y municipales, de los poderes Ejecutivo, Legislativo y Judicial, Órganos Autónomos, la Universidad Michoacana de San Nicolás de Hidalgo, las Universidades e Institutos Tecnológicos Públicos, partidos políticos, fideicomisos fondos públicos; así como cualquier persona física o moral que ejecute y ejerza recursos públicos o realice actos de autoridad en el Estado, implementarán el Gobierno Digital mediante el uso de las Tecnologías de la Información y Comunicación, así como de internet, en la realización de los trámites y servicios que presta el Gobierno; a fin de fortalecer la transparencia, la rendición de cuentas, promover la participación ciudadana, optimizar la eficiencia en el uso de los recursos públicos y garantizar la protección de los datos personales, así como la seguridad de la información.
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2017)</small>
-
-A fin de contribuir al cumplimiento de los objetivos señalados en los párrafos primero y segundo de este artículo, todas las autoridades en el ámbito de su competencia, deberán implementar políticas públicas de mejora regulatoria para la simplificación de trámites, servicios y demás objetivos que establezca la Ley en la materia.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
-
-Los recursos económicos de que dispongan los Gobiernos Estatal y Municipales así como sus respectivas administraciones públicas paraestatales y paramunicipales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
-
-Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatorias, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
-
-Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficiencia, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y Municipios.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
-
-El manejo de recursos económicos del Estado y Municipios, se sujetarán a las bases de este artículo.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
-
-Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Cuarto de esta Constitución.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-La propaganda gubernamental que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público, con independencia del origen de los recursos económicos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-En los casos de infracción a lo dispuesto en el párrafo anterior, será competente en todo momento el Instituto Electoral de Michoacán, quien conocerá y sancionará de manera pronta y expedita, sin menoscabo de las responsabilidades a que pueda ser acreedor.
-
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
+El Municipio percibirá productos derivados de las inversiones financieras que realice transitoriamente con motivo de la percepción de ingresos extraordinarios o períodos de alta recaudación. Dichos depósitos deberán hacerse eligiendo la alternativa que sin poner en riesgo los recursos del Municipio, represente mayor rendimiento financiero y permita disponibilidad de los mismos en caso de urgencia.
 
 ###### Artículo 130.
 
-El Ejecutivo del Estado y los Ayuntamientos establecerán los mecanismos y adoptarán las medidas necesarias para planear el desarrollo estatal y municipal.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
-
-La Federación y el Estado, en los términos de ley, podrán convenir la asunción por parte de éste del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
-
-El Estado está facultado para celebrar esos convenios con sus municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior.
-
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
+Corresponde al Tesorero Municipal realizar las inversiones financieras previa aprobación del Presidente Municipal, en aquellos casos en que los depósitos se hagan por plazos mayores de tres meses naturales.
 
 ###### Artículo 131.
 
-En el Estado de Michoacán de Ocampo quedan prohibidos los monopolios, las prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que señalan la Constitución General de la República, esta Constitución y las leyes que de ambas emanen.
+Los recursos que se obtengan por rendimiento de inversiones financieras en instituciones de crédito, por compra de acciones o título de empresas o por cualquier otra forma, invariablemente se ingresarán al erario municipal como productos financieros.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
-
-Pertenecen al Estado, además de los bienes de dominio público, de las contribuciones decretadas por el Congreso y de los impuestos, derechos, productos, aprovechamientos y participaciones que deba percibir, los inmuebles mostrencos, previa declaración que haga la Secretaría de Finanzas conforme lo determine la Ley.
-
-El Congreso expedirá las leyes fiscales en los ámbitos estatal y municipales, que establecerán las bases, tanto para la fijación de los impuestos, derechos, productos y aprovechamientos, como para la manera de hacerlos efectivos y los medios que permitan la defensa de los contribuyentes.
-
-El Presupuesto formará siempre un sólo cuerpo distribuido en partidas, según los conceptos de erogación y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos, según los planes y programas establecidos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2013)</small>
-
-#### SECCION I. De la Secretaría de Finanzas
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2013)</small>
+DE LOS DAÑOS
 
 ###### Artículo 132.
 
-Habrá en el Estado, una Secretaría de Finanzas a quien corresponderá la recaudación, guarda, manejo, distribución y el fortalecimiento de los caudales públicos, así como la regulación de la actividad financiera, fiscal y tributaria de la Administración Pública. El Secretario de Finanzas hará la distribución de los recursos públicos, según el Presupuesto de Egresos y previa autorización, en los términos que establezcan las leyes.
+Los productos que percibirá el Municipio por los daños que sufrieren las vías públicas o los bienes de su propiedad, serán cuantificados de acuerdo al peritaje que se elabore al efecto, sobre los daños sufridos. El perito será designado por la autoridad fiscal municipal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
+## TÍTULO SEXTO. APROVECHAMIENTOS
 
-#### SECCION II. De la Auditoría Superior de Michoacán
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-## TITULO QUINTO. De los Municipios del Estado
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+### Capítulo II. Aprovechamientos Derivados de Recursos Transferidos al Municipio
 
 ###### Artículo 133.
 
-La Auditoría Superior de Michoacán, como entidad de fiscalización dependiente del Congreso del Estado, tendrá autonomía técnica, de gestión y capacidad para que en el ejercicio de sus atribuciones decida sobre su organización interna, ejercicio de su presupuesto, funcionamiento y resoluciones, en los términos que disponga la Ley.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gestión de los poderes del Estado, de los ayuntamientos, de los Gobiernos Comunales y de todas las demás entidades públicas estatales y municipales que manejan fondos públicos, y de aquellos organismos que por disposición de ley se consideren autónomos, así como cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes, bajo los principios de legalidad, definitividad, imparcialidad, interculturalidad y confiabilidad, en forma simultánea, anual, posterior, externa, independiente y autónoma.
-
-Sin perjuicio del principio de anualidad, la Auditoría Superior de Michoacán podrá solicitar y revisar de manera casuística y concreta, la información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejecución y pago, diversos ejercicios fiscales, o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que respectivamente la Auditoría Superior de Michoacán emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
-
-Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias, la Auditoría Superior de Michoacán, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior de Michoacán rendirá un informe específico al Congreso del Estado de Michoacán de Ocampo y, en su caso, promoverá las acciones que correspondan ante el Tribunal en materia Anticorrupción y Administrativa, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+De conformidad con lo establecido en la Ley de Coordinación Fiscal y en los convenios de Colaboración Administrativa en Materia Fiscal Federal, el Municipio de Acanceh, Yucatán, tendrá derecho a percibir los ingresos derivados del cobro de multas administrativas, impuestos por autoridades federales no fiscales. Estas multas tendrán el carácter de aprovechamientos y se actualizarán en los términos de las disposiciones respectivas.
 
 ###### Artículo 134.
 
-La Auditoría Superior de Michoacán tendrá a su cargo:
+Las multas impuestas por el Ayuntamiento por infracciones a los reglamentos administrativos, tendrán el carácter de aprovechamientos y se turnarán a la Tesorería Municipal para su cobro. Cuando éstas multas no fueren cubiertas dentro del plazo señalado serán cobradas mediante el procedimiento administrativo de ejecución.
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
-
-I. Fiscalizar los ingresos, egresos, patrimonio, deuda y el manejo, la custodia y la aplicación de fondos y recursos de las entidades a que se refiere el artículo anterior, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas, subprogramas, obras y acciones;
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
-
-II. Realizar auditorías, visitas, inspecciones, y revisiones de ingresos y gastos de las entidades señaladas en el artículo 133, a partir de la revisión de los informes que se rindan y, en el curso de un ejercicio;
-
-III. Fiscalizar los fondos y valores públicos que ejerzan los particulares;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-IV. De conformidad con lo que disponga el Congreso del Estado de Michoacán de Ocampo, suscribir convenios con la Auditoría Superior de la Federación para la fiscalización de recursos federales, que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, recursos, fondos y mandatos, públicos y privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-V. Entregar al Congreso del Estado de Michoacán de Ocampo, el informe general ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, el cual se someterá a la consideración del Pleno del Congreso del Estado de Michoacán de Ocampo. El Informe General Ejecutivo será de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior de Michoacán, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
-
-Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que presenten las justificaciones y aclaraciones que correspondan.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
-
-Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal en materia Anticorrupción y Administrativa, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
-
-La Auditoría Superior de Michoacán deberá pronunciarse en un plazo de ciento veinte días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrá por atendidas las recomendaciones y acciones promovidas.
-
-En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoría Superior de Michoacán las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
-
-La Auditoría Superior de Michoacán deberá entregar al Congreso del Estado de Michoacán de Ocampo, los días uno de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes. Dicho informe tendrá carácter público e incluirá los montos efectivamente resarcidos a la Hacienda Pública o al patrimonio de los entes públicos, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal en materia Anticorrupción y Administrativa;
-
-VI. Investigar los actos u omisiones que pudieran implicar irregularidades o conductas ilícitas en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos, y efectuar visitas domiciliarias para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones;
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
-
-VII. Imponer los medios de apremio que establezca la ley; y derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal en materia Anticorrupción y Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos;
-
-VIII. Presentar al Congreso del Estado el proyecto de plan anual de fiscalización;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-IX. Emitir los lineamientos y procedimientos técnicos, que deberán observar las entidades fiscalizables, conforme a las leyes y normas que expida el Congreso.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-En el caso de los Gobiernos Comunales los lineamientos y procedimientos técnicos que se establezcan deberán respetar los mecanismos propios de rendición de cuentas de las comunidades indígenas y crear un modelo especifico de fiscalización que sea culturalmente adecuado y tome en cuenta sus realidades económicas; y,
-
-> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2006)</small>
-
-X. Determinar los montos, recibir, registrar y custodiar las fianzas que deban presentar los empleados que manejen fondos públicos.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-La Auditoría Superior de Michoacán, la Comisión de Vigilancia de la Auditoría Superior de Michoacán y el Congreso del Estado, deberán guardar reserva de sus actuaciones y observaciones hasta la presentación del Informe General Ejecutivo; o en su caso, en los términos del artículo 8° de esta Constitución, la ley fijará las sanciones aplicables a quienes infrinjan esta disposición.
-
-El Poder Ejecutivo del Estado y los ayuntamientos aplicarán el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
-
-El Congreso del Estado designará al Titular de la Auditoría Superior de Michoacán con el voto de las dos terceras partes de los diputados presentes. El Congreso del Estado emitirá convocatoria pública, a efecto de recibir propuestas de aspirantes a ocupar este cargo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2011)</small>
-
-El Auditor Superior del Estado de Michoacán, durará en su encargo siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2006)</small>
+### Capítulo I. Generalidades
 
 ###### Artículo 135.
 
-Toda cuenta de fondos públicos quedará fiscalizada y dictaminada a más tardar un año después de su presentación. La Auditoría expedirá en la forma que la ley prevenga el finiquito de las cuentas que fiscalice, y rendirá cada tres meses al Congreso, por conducto de la Comisión de Vigilancia, un informe de las operaciones que haya practicado y el seguimiento de los informes de resultados de cada ejercicio.
+Corresponderán a este capítulo de aprovechamientos, los que perciba el municipio por cuenta de:
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+I.- Cesiones;
 
-La falta de cumplimiento de este precepto, será causal de responsabilidad del Auditor Superior y de la Comisión de Vigilancia de la Auditoría Superior de Michoacán.
+II.- Herencias;
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+III.- Legados;
 
-La intromisión de cualquier persona en relación a las funciones de la Auditoría, para entorpecer o influir en el desempeño de la misma, será sancionada conforme a la Ley Reglamentaria.
+IV.- Donaciones;
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+V.- Adjudicaciones Judiciales;
 
-Los poderes del Estado y demás sujetos de fiscalización facilitarán los auxilios que requiera la Auditoría Superior para el ejercicio de sus funciones.
+VI.- Adjudicaciones Administrativas;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+VII.- Subsidios de otro nivel de gobierno;
 
-## TITULO SEXTO. De la Economía Pública y la Planeación Económica y Social
+VIII.- Subsidios de otros organismos públicos y privados, y
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
+IX.- Multas impuestas por Autoridades administrativas federales no fiscales.
+
+## TÍTULO SÉPTIMO. PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN, ORDENAMIENTO APLICABLE
 
 ###### Artículo 136.
 
-Los empleados que manejen fondos públicos otorgarán fianza en la forma que la ley señale.
+La autoridad fiscal municipal exigirá el pago de las contribuciones y de los créditos fiscales que no hubiesen sido cubiertos o garantizados en las fechas y plazos señalados en la presente ley, mediante el procedimiento administrativo de ejecución, sujetándose en todo caso, a lo dispuesto en el Código Fiscal del Estado de Yucatán y a falta de disposición expresa en este último, se estará a lo dispuesto en el Código Fiscal de la Federación.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)</small>
+En todo caso, la autoridad fiscal municipal deberá señalar en los mandamientos escritos correspondientes al texto legal en el que se fundamente.
 
-En el caso de los Gobiernos Comunales las leyes específicas establecerán un modelo de fianza que sea culturalmente adecuado y responda a la realidad socioeconómica de las comunidades indígenas.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+DE LOS GASTOS DE EJECUCIÓN
 
 ###### Artículo 137.
 
-La educación pública dependerá directamente de la persona Titular del Ejecutivo del Estado, quien cuidará de fomentarla por todos los medios posibles.
+Cuando la autoridad fiscal utilice el procedimiento administrativo de ejecución, para el cobro de una contribución o de un crédito fiscal, el contribuyente estará obligado a pagar el 3% de la contribución o del crédito fiscal correspondiente, por concepto de gastos de ejecución, y, además, pagará los gastos erogados, por cada una de las diligencias que a continuación, se relacionan:
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+I.- Requerimiento;
+
+II.- Embargo, y
+
+III.- Honorarios o enajenación fuera de remate.
+
+Cuando el 3% del importe del crédito omitido, fuere inferior al importe de un salario mínimo vigente en el Estado de Yucatán, se cobrará el monto de un salario en lugar del mencionado 3% del crédito omitido.
+
+DE LOS GASTOS EXTRAORDINARIOS DE EJECUCIÓN
 
 ###### Artículo 138.
 
-Todo individuo tiene derecho a recibir educación. El Estado y sus Municipios están obligados a impartir educación inicial, educación preescolar, primaria, secundaria, media superior y superior, así como la educación inclusiva y la educación especial que sea requerida. Toda educación que el Estado imparta será gratuita.
+Además de los gastos mencionados en el artículo inmediato anterior, el contribuyente, queda obligado a pagar los gastos extraordinarios que se hubiesen erogado, por los siguientes conceptos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
+a).- Gastos de transporte de los bienes embargados;
+
+b).- Gastos de impresión y publicación de convocatorias;
+
+c).- Gastos de inscripción o de cancelación de gravámenes, en el Registro Público de la Propiedad y de Comercio del Estado de Yucatán;
+
+d).- Gastos del certificado de libertad de gravamen.
+
+DE LA DISTRIBUCIÓN
 
 ###### Artículo 139.
 
-La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+Los gastos de ejecución mencionados en los artículos 129 y 130 de esta ley, no serán objeto de exención, disminución, condonación o convenio.
 
-(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
+El importe corresponderá a los empleados y funcionarios de la Tesorería Municipal, dividiéndose dicho importe, mediante el siguiente procedimiento:
 
-Garantizada la libertad de creencias, el criterio que orientará a dicha educación se mantendrá por completo ajeno a cualquier doctrina religiosa y, basado en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
+Para el caso de que el ingreso por gastos de ejecución, fueren generados en el cobro de multas federales no fiscales:
 
-a).- Será democrática, considerando la democracia no sólo como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
+.10 Tesorero Municipal.
 
-b).- Será nacional, en cuanto, sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
+.15 Jefe o encargado del Departamento de Ejecución.
 
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+.06 Cajeros.
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+.03 Departamento de Contabilidad.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+.56 Empleados del Departamento.
 
-c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción general de la sociedad por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de las personas, evitando cualquier forma de discriminación.
+Para el caso de que los ingresos por gastos de ejecución, fueren generados en el cobro de cualesquiera otras multas:
 
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+.10 Tesorero Municipal.
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+.15 Jefe o encargado del Departamento de Ejecución.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2012)</small>
+.20 Notificadores.
 
-d).- Será intercultural, indígena, multilingüe y multicultural en todos los niveles en las regiones con presencia de pueblos y comunidades indígenas, garantizando la incorporación de los conocimientos indígenas, bajo modelos y programas apropiados de contenido regional, que reconozcan la historia e identidades indígenas; y fomentará la conciencia de la composición multicultural y pluriétnica. El Estado garantizará también la promoción y reconocimiento de la educación tradicional no oficializada a favor de los pueblos y comunidades indígenas.
+.45 Empleados del Departamento Generados.
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+## TÍTULO OCTAVO. INFRACCIONES Y MULTAS
 
-Además de impartir la educación preescolar, primaria y secundaria, el Estado promoverá y atenderá todos los tipos y modalidades educativas incluyendo la educación media superior y superior necesarios para el desarrollo del Estado, apoyará la investigación e innovación científica y tecnológica, y alentará el fortalecimiento y difusión de la diversidad cultural en el Estado, así como los contenidos de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
-
-## TITULO SEPTIMO. De la Educación Pública
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+### Capítulo II. Infracciones y Sanciones De los Responsables
 
 ###### Artículo 140.
 
-Los particulares podrán impartir educación en todos sus tipos y modalidades, sujetos a lo previsto por la fracción VI del artículo 3o. de la Constitución General de la República.
+La aplicación de las multas por infracciones a las disposiciones municipales y a la presente ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+### Capítulo Único
 
 ###### Artículo 141.
 
-El Ejecutivo deberá proceder al establecimiento de escuelas rurales, de artes y oficios y de agricultura.
+Son responsables de la comisión de las infracciones previstas en esta ley, las personas que realicen cualesquiera de los supuestos, que en este capítulo, se consideran como tales, así como las que omitan el cumplimiento de las obligaciones previstas en esta propia ley, incluyendo a aquellas personas, que cumplan sus obligaciones, fuera de las fechas o de los plazos establecidos.
+
+DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS EMPLEADOS
 
 ###### Artículo 142.
 
-(DEROGADO, P.O. 3 DE ENERO DE 1994)
-
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2025)</small>
+Los funcionarios y empleados públicos, que en ejercicio de sus funciones, conozcan hechos u omisiones que entrañen o puedan entrañar infracciones a la presente ley, lo comunicarán por escrito al Tesorero Municipal, para no incurrir en responsabilidad, dentro de los tres días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
 
 ###### Artículo 143.
 
-Las Universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este Título, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas, fijarán los términos de ingreso, promoción y permanencia de su personal docente; y administrarán su patrimonio. Las relaciones laborales tanto del personal docente como del administrativo, se normarán conforme lo dispone la fracción VII del artículo 3o. de la Constitución General de la República.
+Son infracciones:
 
-La Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo es una institución de servicio, con personalidad jurídica y patrimonio propio; con autonomía plena dedicada a la educación media superior y superior, en sus diversos niveles y modalidades, la investigación científica, la difusión de la cultura y la extensión universitaria.
+a).- La falta de presentación o la presentación extemporáneo (sic) de los avisos o manifestaciones que exige esta ley;
 
-La Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo contará con un presupuesto pleno para el desarrollo de sus funciones, el cual deberá ser por lo menos el 4.5% del Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, en la lógica, que no podrá ser inferior al otorgado en el ejercicio inmediato anterior.
+b).- La falta de cumplimiento de las obligaciones establecidas en esta ley; a los fedatarios públicos; las personas que tengan funciones notariales; los empleados y funcionarios del Registro Público de la Propiedad y de Comercio del Estado de Yucatán, y a los que por cualquier medio evadan o pretendan evadir, dicho cumplimiento;
 
-La elección del cargo de rectora o rector de la Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo, se realizará de forma democrática, para lo cual, se deberá contar con la participación de sus órganos de gobierno y los tres sectores de la comunidad universitaria, siendo éstos, el de estudiantes, el de docentes y el de administrativos, los cuales deberán encontrarse en activo.
+c).- La falta de empadronamiento de los obligados a ello, en la Tesorería Municipal;
 
-La Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo contará con un sistema propio de pensiones y jubilaciones para el personal docente y administrativo.
+d).- La falta de revalidación de la licencia municipal de funcionamiento;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+e).- La falta de presentación de los documentos que conforme a esta ley, se requieran para acreditar el pago de las contribuciones municipales;
+
+f).- La ocupación de la vía pública, con el objeto de realizar alguna actividad comercial;
+
+g).- La matanza de ganado fuera de los rastros públicos municipales, sin obtener la licencia o la autoridad respectiva.
 
 ###### Artículo 144.
 
-Para ejercer una profesión en el Estado, se requiere la posesión de un título legalmente expedido y registrado.
+Serán sancionadas con multa de 1 a 5 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan las infracciones contenidas en los incisos a), c), d) y e) del artículo 143 de esta ley.
 
-La ley determinará las profesiones que requieran título, la forma de su registro, el procedimiento para expedir licencias a los prácticos, y en general, reglamentará todo lo relativo al ejercicio de las profesiones.
+Serán sancionadas con multas de 1 a 10 salarios mínimos vigente en el Estado de Yucatán, las personas que cometan la infracción, contenidas en el inciso f) del artículo 143 de esta ley.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Serán sancionadas con multas de 1 a 50 salarios mínimos vigente en el Estado de Yucatán, las personas que cometan la infracción, contenida en el inciso b) del artículo 143 de esta ley.
 
-## TITULO OCTAVO. De la Propiedad, del Trabajo y de la Previsión Social
+Serán sancionadas con multas de 1 a 15 salarios mínimos vigente en el Estado de Yucatán, las personas que cometan la infracción, contenidas en el inciso g) del artículo 143 de esta ley.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario mínimo vigente en el Estado de Yucatán de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+
+Cuando se aplique una sanción la autoridad deberá fundar y motivar su resolución. Se considerará agravante el hecho de que el infractor sea reincidente. Habrá reincidencia cuando:
+
+a) Tratándose de infracciones que tengan como consecuencia la omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione el infractor por ese motivo.
+
+b) Tratándose de infracciones que impliquen la falta de cumplimiento de obligaciones administrativas y/o fiscales distintas del pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por ese motivo.
+
+## TÍTULO NOVENO. PARTICIPACIONES Y APORTACIONES
+
+### Capítulo Único. De los Empréstitos, Subsidios y los Provenientes del Estado o la Federación
 
 ###### Artículo 145.
 
-El Estado reconoce y garantiza el derecho de propiedad en los términos que establece la Constitución Federal; con entera sujeción a ésta el Congreso expedirá leyes para regular el aprovechamiento de las aguas que no sean de propiedad nacional y se localicen en dos o más predios, para vigilar, dentro del territorio del Estado, el respeto a las disposiciones constitucionales sobre capacidad para adquirir el dominio de las tierras, aguas, bosques y sus accesiones y para fijar la extensión máxima de la propiedad rural y llevar a cabo el fraccionamiento de los excedentes, procurando el fomento y desarrollo de la auténtica pequeña propiedad.
+Son participaciones y aportaciones, los ingresos provenientes de contribuciones y aprovechamientos federales o municipales que tienen derecho a percibir el Estado y sus Municipios, en virtud de adhesión al Sistema Nacional de Coordinación Fiscal o de las Leyes Fiscales relativas y conforme a las Normas que establezcan y regulen su distribución.
 
-También dictará las leyes necesarias para determinar los casos en que sea de utilidad pública la ocupación de la propiedad privada, facultando al Ejecutivo para hacer la declaración correspondiente.
+La Hacienda Pública Municipal percibirá las Participaciones Estatales y Federales determinadas en los convenios relativos a la Ley de Coordinación Fiscal del Estado de Yucatán.
 
-Los núcleos de población que de hecho o por derecho guarden el estado comunal, tienen plena capacidad para adquirir, poseer y administrar tierras, bosques, aguas y sus accesiones. A fin de que puedan acreditar su personalidad y ejercer sus derechos, la Legislatura del Estado dictará una ley que regule su funcionamiento y proteja debidamente los bienes que constituyan su patrimonio, conforme a las siguientes bases generales:
+## TÍTULO DÉCIMO. INGRESOS EXTRAORDINARIOS
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+### Capítulo I. De los Recursos Administrativos
 
-I.- Siguiendo un procedimiento democrático y de acuerdo con las costumbres establecidas, se hará la designación de los representantes legales de las comunidades, los cuales acreditarán su personalidad con credenciales que deberá expedirles la Gobernadora o Gobernador del Estado.
-
-II.- Se formulará el censo de las personas que deben ser reconocidas como comuneros, dando amplia oportunidad de defensa a todos los que se crean con tal derecho y se establecerán las bases para determinar la forma en que se trasmitan los derechos de cada comunero.
-
-III.- La autoridad suprema de los núcleos de población comunal será la Asamblea General de Comuneros. Las funciones de ésta, así como las facultades de los representantes que legalmente elijan, serán fijadas en la ley respetando las limitaciones establecidas en este artículo.
-
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
-
-IV.- Son inexistentes todos los actos de particulares y todas las resoluciones, decretos, acuerdos, Leyes o cualquier acto de las autoridades municipales o del Estado, así como de las autoridades judiciales del orden común que hayan tenido o tengan por consecuencia privar total o parcialmente de sus derechos a los núcleos de población comunal. Se exceptúa únicamente el caso de expropiaciones por causa de utilidad pública que en forma muy limitada y expresa se establecerán en dicha ley y que se tramitarán y resolverán, oyendo los puntos de vista de la asamblea general de comuneros. La indemnización se destinará a la adquisición de otros terrenos.
-
-V.- Las tierras, pastos, bosques, aguas, plantas, canteras, arenas y demás recursos propiedad de las comunidades, se explotarán directamente por ellas mismas con el asesoramiento técnico del Gobierno o de las instituciones u organismos que para tal efecto se funden.
-
-VI.- Se establecerá en favor de las comunidades un régimen fiscal de protección, semejante al de los ejidos.
-
-VII.- Con la participación de las propias comunidades, se crearán organismos adecuados que, por medios conciliatorios, busquen la resolución amistosa de los conflictos entre las comunidades.
-
-VIII.- Se formularán también las normas que regulen el manejo honrado y el conveniente destino de los fondos comunales que deriven de la explotación o aprovechamiento de los terrenos comunales.
-
-IX.- El Estado dictará también, dentro de la esfera de su competencia y en auxilio del Gobierno Federal, las disposiciones necesarias para vigilar que no se lesionen los ejidos ni la auténtica pequeña propiedad, que no se realicen falsas clasificaciones de tierras o de explotaciones agrícolas y ganaderas, ni se realicen maniobras o simulaciones para ocultar acaparamientos de la propiedad territorial, que no se violen en perjuicio de los campesinos, las disposiciones relativas al crédito y al correcto manejo del patrimonio ejidal y, en general, para lograr el cumplimiento efectivo de la Reforma Agraria.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-## TITULO NOVENO. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 152.
-
-Los cargos de elección popular y empleos de que habla esta Constitución, sólo podrán recaer en individuos que pertenezcan al estado seglar.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 153.
-
-Los funcionarios de elección popular que sin causa justificada y sin la correspondiente licencia faltaren al desempeño de sus funciones, perderán la dotación remuneratoria que disfruten por ellas o por cualquier otro empleo que desempeñen; quedarán suspensos en sus derechos de ciudadanos y no podrán obtener ningún empleo que toque al servicio público. Estas privaciones las sufrirán por el tiempo que dure la omisión y no más.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
-
-###### Artículo 154.
-
-Todo cargo de elección popular es incompatible con el ejercicio de cualquier otro empleo del Estado en que se disfrute sueldo, excepción hecha de los de instrucción y beneficencia, si no es que para desempeñarlo se obtenga licencia del Congreso.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
-
-Hay también incompatibilidad en el Fiscal General del Estado y los individuos del Poder Judicial para servir durante su encargo como abogados, procuradores, árbitros o asesores, si no es en negocios propios o de su familia.
-
-La infracción a lo prevenido en este artículo y en los demás que tratan de las prohibiciones impuestas a los funcionarios públicos, será causa de responsabilidad que castigarán las leyes.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 155.
-
-Ningún individuo podrá desempeñar, a la vez, dos cargos de elección popular; pero podrá elegir entre ambos el que quiera desempeñar cuando resulte electo para los dos.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-El cargo de Gobernadora o Gobernador prefiere a cualquier otro.
-
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
-
-Ningún individuo podrá ser registrado simultáneamente como candidato a dos cargos de elección popular.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
-
-###### Artículo 156.
-
-Todos los funcionarios de elección popular, a excepción de aquellos cuyo cargo es consejil, recibirán una compensación por sus servicios, que será determinada por la Ley y pagada por los fondos públicos. Esta compensación no es renunciable.
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
-
-###### Artículo 157.
-
-Todo funcionario público, sin excepción alguna, antes de tomar posesión de su encargo, protestará guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente su encargo, ante la autoridad que lo haya designado o ratificado.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 158.
-
-Los Poderes Supremos del Estado residirán en el mismo lugar, a menos que por circunstancias extraordinarias, calificadas por el voto de las dos terceras partes de los individuos presentes en el Congreso, sea necesaria la separación.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-###### Artículo 159.
-
-No podrá hacerse cargo alguno que no esté comprendido en el Presupuesto de Egresos o determinado por la Ley. El Secretario de Finanzas se negará a obedecer cualquier orden de la persona Titular del Ejecutivo del Estado contraria a este respecto; pero si le fuere reiterada, la cumplirá dando cuenta inmediatamente al Congreso del Estado; de lo contrario, será responsable personal y pecuniariamente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
-
-###### Artículo 160.
-
-En el caso de la fracción V del artículo 76 de la Constitución Federal, asumirá el Poder Ejecutivo cualquiera de los funcionarios siguientes por el orden de designación:
-
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
-
-I.- El Presidente de la última Legislatura.
-
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2013)</small>
-
-II.- El Secretario de Gobierno, o el Secretario de Finanzas, conforme a los artículos 57 y 61, fracción VI, de esta Constitución;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-III.- El último Presidente del Supremo Tribunal de Justicia.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-La persona que asuma el Poder Ejecutivo convocará desde luego a elecciones, sujetándose en lo posible a la forma y términos prescritos por esta Constitución.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 161.
-
-Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución o por las leyes, como principio del período que les corresponda, sólo durarán en sus funciones el tiempo que les faltare para completar dicho período.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 162.
-
-Queda prohibida en el Estado de Michoacán la pena de muerte.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 163.
-
-Los Poderes del Estado no podrán reconocer, bajo ningún concepto, a los individuos que se apoderen tanto del Poder Ejecutivo de la Unión como del Estado, por medio de alguna asonada, motín o cuartelazo. Tampoco podrán reconocer la renuncia del Presidente de los Estados Unidos Mexicanos, que se hubiere obtenido por medio de la fuerza o de la coacción.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 146.
 
-La persona Titular del Ejecutivo vigilará por la seguridad de los obreros haciendo que los patrones adopten las medidas necesarias, a fin de evitar los peligros para su salud o integridad física.
+Son ingresos extraordinarios los empréstitos, subsidios y los decretados excepcionalmente.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+El Municipio podrá percibir ingresos extraordinarios cuando así lo decrete de manera excepcional el Congreso del Estado, o cuando los reciba de la Federación o del Estado, por conceptos diferentes a participaciones o aportaciones.
 
-## TITULO DECIMO. De las Reformas a la Constitución
+## TÍTULO DÉCIMO PRIMERO
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+### Capítulo II. De las Garantías Fiscales
 
-###### Artículo 164.
-
-Esta Constitución puede ser adicionada o reformada en cualquier tiempo, concurriendo los requisitos siguientes:
-
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
-
-I.- Que la proposición de adiciones o reformas, se haga por escrito y por quienes con arreglo a ella tienen derecho a iniciar leyes;
-
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
-
-II.- Que sea examinada por la Comisión respectiva del Congreso, la cual emitirá dictamen sobre si ha lugar a admitirla a discusión;
-
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
-
-III.- Que el dictamen de adiciones o reformas se someta a discusión y se apruebe con el voto de la mayoría absoluta de los miembros del Congreso;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)</small>
-
-IV.- Que una vez aprobado en los términos de la fracción anterior, se someta a discusión y aprobación de la mayoría de los Ayuntamientos Municipales y de los Gobiernos Comunales del Estado;
-
-Si transcurre un mes después de recibido el decreto por los Ayuntamientos y de los Gobiernos Comunales, sin que remitan al Congreso el resultado de su votación, se entenderá que aceptan la adicción (sic) o reforma; y,
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
-
-V.- Las adiciones o reformas constitucionales que fueren aprobadas, se publicarán dentro de los siguientes diez días hábiles y no podrá la persona Titular del Ejecutivo del Estado hacer observaciones acerca de ellas.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 147.
 
-La persona Titular del Ejecutivo tomará las medidas necesarias para que el salario mínimo señalado por las juntas competentes, se haga efectivo en todo el Estado.
+Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)</small>
+Cuando se trate de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación o en juicio de nulidad, de conformidad con lo dispuesto en el Código Fiscal de la Federación.
+
+En este caso, los recursos que se promueven se tramitarán y resolverán en la forma prevista en dicho Código.
+
+### Capítulo Único
 
 ###### Artículo 148.
 
-La Gobernadora o Gobernador cuidará con todo empeño de que sean obedecidas las prescripciones relativas al trabajo y a la previsión social, en los términos de la Ley Federal del Trabajo y de la Constitución General de la República.
+Interpuesto en tiempo algún recurso, en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán o del Código Fiscal de la Federación, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgue garantía suficiente a juicio de la autoridad.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+Las garantías que menciona este artículo serán estimadas por la autoridad como suficientes, siempre que cubran, además de las contribuciones o créditos actualizados, los accesorios causados como los recargos y las multas, así como los que se generen en los doce meses siguientes a su otorgamiento.
 
-Las relaciones de trabajo entre el Estado y sus trabajadores, se regirán por las leyes que expida la Legislatura del Estado, con base en lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+Dichas garantías serán:
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+a).- Depósito de dinero, en efectivo o en cheque certificado ante la propia autoridad o en una Institución Bancaria autorizada, entregando el correspondiente recibo o billete de depósito;
 
-A todo trabajo igual corresponderá salario igual, sin tener en cuenta el sexo ni género. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
+b).- Fianza, expedida por compañía debidamente autorizada para ello;
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+c).- Hipoteca;
 
-La función conciliatoria en materia laboral estará a cargo del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, como organismo público descentralizado, especializado e imparcial, el cual contará con personalidad jurídica y patrimonio propio, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinarán en la Ley que al efecto se expida.
+d).- Prenda.
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
+Respecto de la garantía prendaria, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 salarios mínimos vigentes en el Estado de Yucatán, al momento de la determinación del crédito.
 
-El titular del organismo descentralizado a que se refiere el párrafo anterior, durará en su encargo por un período de seis años y podrá ser reelecto por una sola ocasión; sólo podrá ser removido por causa grave en los términos del Título Cuarto de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
+En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen en el Código Fiscal de la Federación y el reglamento de dicho Código.
 
-(NOTA: EL 27 DE SEPTIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 23/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
-
-El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; y que goce de buena reputación Y NO HAYA SIDO CONDENADO POR DELITO DOLOSO. Asimismo, deberá cumplir los requisitos que establezca la ley.
-
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
-
-###### Artículo 148 Bis.
-
-La designación del titular del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, será con previa comparecencia de las personas propuestas por el Titular del Poder Ejecutivo del Estado ante el Congreso del Estado. A falta absoluta, el sustituto será nombrado para concluir el periodo respectivo.
-
-La designación se hará dentro del improrrogable plazo de treinta días. Si el Congreso del Estado no resolviere dentro de dicho plazo ocupará el cargo aquél que, dentro de dicha terna, designe el Titular del Ejecutivo Estatal.
-
-En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Titular del Poder Ejecutivo Estatal someterá una nueva, en los términos que marca la Ley. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe (sic) Titular del Poder Ejecutivo Estatal.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-## TITULO DECIMO PRIMERO. De la Observancia e Inviolabilidad de la Constitución
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 165.
-
-Esta Constitución no perderá su fuerza y vigor, aun cuando, por alguna rebelión o estado grave de emergencia, se interrumpa su observancia.
-
-Si se estableciere un gobierno surgido en contravención a los principios que ella contiene, tan pronto como el pueblo recobre su libertad, se restablecerá su observancia y con sujeción a la misma y a las leyes que de ella hayan emanado, serán juzgados aquellos que la hubieren infringido.
-
-## Artículos Transitorios.
+## TÍTULO DÉCIMO SEGUNDO. FINANCIAMIENTOS
 
 ###### Artículo 149.
 
-Se establece en el Estado la institución del patrimonio de familia o bien familiar. El Congreso del Estado organizará dicha institución sobre las siguientes bases:
+El Ayuntamiento de Acanceh, Yucatán estará facultado a solicitar financiamiento de alguna Banca Oficial del Gobierno Federal y Estatal y particular, previa autorización del Cabildo siempre y cuando no exceda del período de la administración constitucional, y si excediera del mismo previa autorización del Congreso del Estado de Yucatán.
 
-I.- La cuantía de los bienes que formen el patrimonio de familia se fijará atendiendo a las condiciones sociales y económicas del Estado;
+TRANSITORIOS:
 
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+Artículo Primero.- Esta Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-II.- Los bienes que lo constituyan no podrán ser enajenados, gravados o embargados, ni afectos a responsabilidad alguna civil o criminal;
+Artículo Segundo.- Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en esta Ley.
 
-III.- El acto que en cada caso formalice la constitución del patrimonio de familia, estará exento de toda clase de impuestos, derechos y aprovechamientos, y
+Artículo Tercero.- Los sujetos obligados por esta Ley deberán contar con licencia de funcionamiento, y tramitar su obtención ante la Tesorería municipal en un plazo de cuatro meses, contados a partir de la entrada en vigor del presente ordenamiento.
 
-IV.- Se simplificarán las formalidades y trámites en los juicios sucesorios que tengan por objeto el bien familiar o patrimonio de familia.
+Artículo Cuarto.- El cobro de los derechos por los servicios de cementerios, alumbrado público y agua potable, podrán ser realizados una vez celebrado el convenio de transferencia respectivo entre el Municipio y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Artículo Quinto.- En lo no previsto en esta Ley, se aplicará supletoriamente, lo establecido por la Ley General de Hacienda para los Municipios del Estado de Yucatán, en su parte relativa.
 
-###### Artículo 150.
+TRANSITORIO:
 
-El Congreso del Estado expedirá todas las leyes relativas a previsión social en consonancia con los preceptos y espíritu de la Constitución General de la República.
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS VEINTINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL CINCO.- PRESIDENTE DIPUTADO JORGE MANUEL PUGA RUBIO.- SECRETARIA DIPUTADA ALICIA MAGALLY DEL SOCORRO CRUZ NUCAMENDI.- SECRETARIO DIPUTADO JORGE ESMA BAZÁN.- RÚBRICAS.
 
-###### Artículo 151.
+Y POR TANTO, MANDAMOS SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
 
-Todas las leyes relativas a previsión social se considerarán de orden público, y sus preceptos no serán renunciables, a menos de que en ellas mismas se indique que lo pueden ser.
+DADO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS TRES DÍAS DEL MES DE ENERO DEL AÑO DOS MIL SEIS
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+EL SECRETARIO GENERAL DE GOBIERNO
 
-###### ARTICULO UNICO.
+(RÚBRICA)
 
-Habiendo quedado satisfechos los requisitos exigidos por el artículo 175 de la Constitución Política del Estado, para quedar debidamente hecha la reforma del artículo 93 de la misma, la presente reforma constitucional entrará en vigor 10 días después de la fecha de su publicación en el Periódico Oficial.
+ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
 
-P.O. 30 DE OCTUBRE DE 1947.
+OFICIAL MAYOR
 
-Artículo 1° El primer domingo de diciembre del corriente año se elegirán Regidores por las Secciones impares, los cuales durarán en su cargo el período que comprende la citada reforma.
+(RÚBRICA)
 
-Artículo 2º Los ciudadanos que resulten electos por las Secciones pares del primer domingo de diciembre de 1948, durarán en su cargo solamente dos años.
+Q.I. RAÚL ARCEO ALONZO
 
-Artículo 3º Esta Ley entrará en vigor desde la fecha de su publicación en el Periódico Oficial.
+Quienes firman por la ausencia temporal del C. Gobernador del Estado, de conformidad a lo dispuesto por el artículo 25 de la Ley Orgánica de la Administración Pública del Estado de Yucatán.
 
-P.O. 16 DE AGOSTO DE 1954.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 28 DE DICIEMBRE DE 2006.
+
+###### ARTICULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 ###### ARTICULO UNICO.
 
@@ -3388,1303 +2198,3 @@ P.O. 27 DE DICIEMBRE DE 1965.
 Este Decreto entrará en vigor, a los 3 días de su publicación en el Periódico Oficial del Estado.
 
 P.O. 17 DE ABRIL DE 1967.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor al mismo tiempo que la Nueva Ley Orgánica del Poder Judicial del Estado, que habrá de expedirse como consecuencia de la presente reforma.
-
-P.O. 25 DE NOVIEMBRE DE 1971.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor, a los quince días de su publicación en el Periódico Oficial de la Entidad.
-
-P.O. 10 DE MARZO DE 1977.
-
-UNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
-
-P.O. 13 DE MARZO DE 1978.
-
-UNICO.- Este Decreto entrará en vigor a los 15 quince días siguientes al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 25 DE SEPTIEMBRE DE 1980.
-
-UNICO.- El Decreto respectivo entrará en vigor a los 5 días siguientes a su publicación del Periódico Oficial del Estado.
-
-P.O. 22 DE DICIEMBRE DE 1980.
-
-UNICO. Este Decreto entrará en vigor a los 5 cinco días de su publicación en el Periódico Oficial del Estado.
-
-P.O. 26 DE ENERO DE 1981.
-
-UNICO. El Decreto respectivo entrará en vigor a los 5 días siguientes a su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE MARZO DE 1982.
-
-PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
-
-TERCERO. Reserve la Secretaría del H. Congreso del Estado el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura, para los efectos del artículo 164, fracciones III y IV de la Constitución Particular del Estado de Michoacán.
-
-P.O. 31 DE DICIEMBRE DE 1982.
-
-PRIMERO. Este Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. La honorable Sexagésima Segunda Legislatura Constitucional del Estado, aprueba el proyecto de reformas y adiciones a la Constitución Política de la Entidad.
-
-TERCERO. Reserve la Secretaría del H. Congreso del Estado el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Constitución Particular del Estado de Michoacán.
-
-P.O. 7 DE JULIO DE 1983.
-
-PRIMERO. Este Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Reserve la Secretaría del Honorable Congreso del Estado, el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Constitución Política del Estado de Michoacán.
-
-P.O. 7 DE JULIO DE 1983.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
-
-PRIMERO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Reserve la Secretaría del H. Congreso del Estado el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Constitución Política del Estado de Michoacán.
-
-P.O. 11 DE AGOSTO DE 1983.
-
-PRIMERO. Este Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Reserve la Secretaría del H. Congreso del Estado, el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Constitución Política del Estado de Michoacán.
-
-P.O. 28 DE SEPTIEMBRE DE 1983.
-
-UNICO. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 8 DE DICIEMBRE DE 1983.
-
-UNICO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
-
-P.O. 8 DE FEBRERO DE 1984.
-
-UNICO.- Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
-
-P.O. 18 DE FEBRERO DE 1985.
-
-UNICO. Este Decreto entrará en vigor a los 5 cinco días después de su publicación en el Periódico Oficial del Estado.
-
-P.O. 26 DE DICIEMBRE DE 1985.
-
-###### ARTICULO PRIMERO.
-
-Las reformas y adiciones contenidas en el presente Decreto, son aprobadas por una sola Legislatura de conformidad con el artículo 164 fracción VII, de la Constitución Política del Estado.
-
-###### ARTICULO SEGUNDO.
-
-En consecuencia, como lo dispone la fracción V del artículo 164 de la Constitución Política del Estado, estas reformas y adiciones deberán publicarse como ley constitucional.
-
-###### ARTICULO TERCERO.
-
-El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 12 DE FEBRERO DE 1987.
-
-PRIMERO. Este decreto entrará en vigor a los ocho días de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Conforme a lo que dispone la fracción VII del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, ténganse por aprobadas estas adiciones y reformas, por ser adecuaciones a la Constitución Política de los Estados Unidos Mexicanos, con la sola aprobación de la LXIV Legislatura.
-
-P.O. 11 DE ABRIL DE 1988.
-
-###### ARTICULO UNICO.
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, por tratarse de adecuaciones a la Constitución Política de los Estados Unidos Mexicanos, con la sola aprobación de la Sexagésima Cuarta Legislatura.
-
-P.O. 14 DE AGOSTO DE 1989.
-
-UNICO. Este decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Estado.
-
-P.O. 24 DE DICIEMBRE DE 1990.
-
-###### ARTICULO UNICO.
-
-El presente decreto entrará en vigor el día 1º. de enero de 1991, previa publicación en el Periódico Oficial del Estado.
-
-P.O. 12 DE DICIEMBRE DE 1991.
-
-UNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 26 DE MARZO DE 1992.
-
-UNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 7 DE SEPTIEMBRE DE 1992.
-
-UNICO. Este Decreto deberá imprimirse y publicarse con las reformas aprobadas.
-
-P.O. 8 DE FEBRERO DE 1993.
-
-UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 3 DE ENERO DE 1994.
-
-UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 27 DE ABRIL DE 1995.
-
-PRIMERO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Para ser operante la presente reforma constitucional, se requiere adecuar los tiempos de este año de elección; por lo cual, la Sexagésima Sexta Legislatura prolongará sus funciones en el Congreso hasta el 15 de diciembre del presente año, de modo que se pueda articular con la fecha de instalación de la Sexagésima Séptima Legislatura a elegir el segundo domingo de noviembre del año actual.
-
-TERCERO.- El titular del Poder Ejecutivo del Estado, por esta única ocasión, concluirá su período constitucional el día 15 de febrero de 1996, fecha en la que entrará a ejercer su cargo del Gobernador del Estado electo para el período Constitucional a iniciarse en esa fecha.
-
-CUARTO.- Para desahogar el trabajo legislativo propio de su competencia, la Legislatura actual en funciones lo hará bajo los mecanismos del artículo 32 de la Constitución vigente.
-
-QUINTO.- La revisión de la cuenta pública anual de 1994, dispuesta en el artículo 31 de la Constitución Política Local, por esta sola ocasión, se efectuará en sesión extraordinaria convocada para tal efecto por la actual Legislatura.
-
-SEXTO.- Los informes a cargo del Presidente del Supremo Tribunal de Justicia y del Titular del Poder Ejecutivo, según los numerales 33 y 78 de la Constitución Particular de Michoacán, serán rendidos en la nueva fecha que se contempla en la presente reforma constitucional.
-
-SEPTIMO.- Remítase la presente Minuta Proyecto de Decreto a los Honorables Ayuntamientos del Estado para los efectos del artículo 164 fracción IV de la Constitución Política del Estado.
-
-OCTAVO.- Se derogan todas las disposiciones normativas y reglamentarias que se opongan al presente Decreto.
-
-P.O. 10 DE ABRIL DE 1997.
-
-UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 16 DE MARZO DE 1998.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO N° 130.- SE REFORMAN LOS ARTÍCULOS 64, 95, 97, 99 Y 100; SE ADICIONAN LOS ARTÍCULOS 64 Y 95 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-> <small>(F. DE E., P.O. 16 DE MARZO DE 1998)</small>
-
-###### ARTICULO PRIMERO.
-
-EI presente Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
-
-> <small>(F. DE E., P.O. 16 DE MARZO DE 1998)</small>
-
-###### ARTICULO SEGUNDO.
-
-Los juicios y procedimientos relacionados con los artículos que se reforman y adicionan, iniciados con anterioridad, continuarán tramitándose conforme a las disposiciones vigentes al entrar en vigor el presente Decreto.
-
-> <small>(F. DE E., P.O. 16 DE MARZO DE 1998)</small>
-
-###### ARTICULO TERCERO.
-
-Se derogan todas las disposiciones jurídicas que se opongan a este Decreto.
-
-P.O. 16 DE MARZO DE 1998.
-
-DECRETO NÚMERO 131 POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 1o., 2o., 3o., 44 FRACCIONES DE LA XIX-A, A LA XXXIII; 46 FRACCIONES VII, IX Y X; 60, FRACCIONES DE LA III A LA XXIII; 67; 69; 70; 71, FRACCIONES I, III, V Y VI; 72; 73; 74; 75; 83; 92; Y, 108 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
-
-###### ARTICULO UNICO.
-
-El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
-
-P.O. 7 DE DICIEMBRE DE 1998.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 8 DE NOVIEMBRE DE 2000.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-De conformidad a lo dispuesto en el artículo 31 reformado, de esta Constitución, el Tercer Período Ordinario de Sesiones correspondiente al Segundo Año de Ejercicio Legal, de la LXVIII Legislatura Constitucional, iniciará el 15 de noviembre y terminará el 15 de diciembre del presente año; durante este periodo el Congreso se ocupará de los asuntos a que se refieren las fracciones I y III del artículo 31 reformado.
-
-###### ARTICULO TERCERO.
-
-Por esta única ocasión, el Gobernador del Estado, deberá presentar al Congreso del Estado, a más tardar el 30 de noviembre del presente año, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el ejercicio fiscal del año 2001.
-
-###### ARTICULO CUARTO.
-
-De conformidad a lo dispuesto en el artículo 29 reformado, de esta Constitución, la LXVIII Legislatura Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, terminará sus funciones el 15 de enero del año 2002, fecha en la cual iniciará sus funciones la LXIX Legislatura Constitucional.
-
-###### ARTICULO QUINTO.
-
-En tanto se expidan las disposiciones legales reglamentarias que se deriven de las reformas contenidas en el presente Decreto, seguirán aplicándose las vigentes en lo que no se opongan a éstas.
-
-###### ARTICULO SEXTO.
-
-Los consejeros ciudadanos que actualmente integran el Instituto Electoral de Michoacán, continuarán en el ejercicio del cargo como tales, hasta en tanto se realicen las designaciones de consejeros electorales, de acuerdo con la ley de la materia.
-
-###### ARTICULO SEPTIMO.
-
-Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-P.O. 3 DE JULIO DE 2001.
-
-Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- Tratándose de funciones y servicios que conforme al presente decreto sean competencia de los municipios y que a la entrada en vigor de estas reformas sean presentados por el Gobierno del Estado, o de manera coordinada con los municipios, éstos podrán asumirlos previa aprobación del ayuntamiento. El Gobierno del Estado dispondrá lo necesario para que la función o servicio público de que se trate se transfiera al municipio de manera ordenada, conforme al programa de transferencia que para tal efecto presente, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud del Ayuntamiento.
-
-En el caso del inciso a) de la fracción V del artículo 123, de la Constitución Política del Estado, dentro del plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar al Congreso, conservar en su ámbito de competencia los servicios a los que se refiere el citado inciso, cuando la transferencia al Municipio afecte su prestación, en perjuicio de la población. El Congreso resolverá lo conducente.
-
-En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
-
-Artículo Tercero.- El Gobierno del Estado y los municipios realizarán los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este decreto y a las leyes de la materia.
-
-Artículo Cuarto.- Antes del ejercicio fiscal del año 2002, el Congreso del Estado en coordinación con los municipios, adoptará las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad, y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
-
-Artículo Quinto.- En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
-
-P.O. 7 DE MARZO DE 2003.
-
-DECRETO NÚMERO 246 POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO, Y SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO DEL ARTÍCULO 101 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
-
-Artículo Segundo.- En tanto se reforman las disposiciones legales reglamentarias que se deriven del presente decreto, seguirán aplicándose las disposiciones de la Ley de la Comisión Estatal de los Derechos Humanos publicada (sic) Sección Segunda del Periódico Oficial, el día 8 de febrero de 1993.
-
-Artículo Tercero.- Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría de inmediato hacer llegar a los Ayuntamientos del Estado la presente minuta de proyecto de decreto, para que se someta a discusión y aprobación, haciendo del conocimiento del Congreso su resultado.
-
-P.O. 7 DE MARZO DE 2003.
-
-DECRETO NÚMERO 247 POR EL QUE SE REFORMA: LA DENOMINACIÓN DE LA SECCION II, DEL CAPITULO II DEL TITULO TERCERO: LOS ARTÍCULOS 30, PÁRRAFOS PRIMERO Y SEGUNDO. 31, 33, 37, FRACCIÓN V Y ULTIMO PÁRRAFO, 54, 57, 59, 60 FRACCIONES III Y IX, 61 FRACCIÓN VI, 72, 73, 157, 159 Y 160 FRACCIÓN I; SE DEROGA: EL PÁRRAFO DECIMO TERCERO DEL ARTÍCULO 13, LOS ARTÍCULOS 32, LA SECCION V, DEL CAPITULO II, DEL TITULO TERCERO, 45, 46 Y 60 FRACCIONES XVI Y XVII; DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Artículo Segundo.- En tanto se reforman las disposiciones legales reglamentarias que se deriven del presente decreto, cuando se haga referencia al Tercer Período Ordinario de Sesiones, se entenderá el período comprendido del 15 de septiembre al 15 de diciembre.
-
-Artículo Tercero.- En tanto se reforman las disposiciones legales reglamentarias que se deriven del presente decreto, se seguirán aplicando las disposiciones de la Ley Orgánica del Congreso del Estado y su Reglamento.
-
-Artículo Cuarto.- Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado de Michoacán de Ocampo, se ordena a la Secretaría de inmediato hacer llegar a los Ayuntamientos del Estado la presente minuta de proyecto de decreto de reforma a la Constitución, para que en el término de un mes después de recibido el mismo, emitan su voto.
-
-P.O. 7 DE MARZO DE 2003.
-
-DECRETO NÚMERO 248 POR EL QUE SE REFORMAN LOS ARTÍCULOS 42, 44 FRACCIONES XI, XIII Y XV, 105, 109, LA DENOMINACIÓN DE LA SECCION II DEL TITULO SEXTO, LOS ARTÍCULOS 133, 134 Y 135 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto en los siguientes transitorios.
-
-Artículo Segundo. La Auditoría Superior de Michoacán, iniciará sus funciones el 1 de abril del año 2003. La revisión de las cuentas públicas y las funciones de fiscalización a que refieren las fracciones I a VIII del artículo 134 y 135 reformados por este decreto, se llevarán a cabo, en los términos del propio decreto, a partir de la revisión de las cuentas públicas del segundo trimestre correspondientes al año 2003.
-
-Las referencias que se hacen a la Contaduría General de Glosa en las disposiciones legales, se entenderán hechas a la Auditoría Superior de Michoacán.
-
-Artículo Tercero. En tanto la Auditoría Superior de Michoacán no empiece a ejercer las atribuciones a que se refiere este decreto, la Contaduría General de Glosa continuará ejerciendo las atribuciones que actualmente tiene conforme a los artículos 133 a 136 de la Constitución, su Ley Orgánica y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en vigor del presente decreto.
-
-Los servidores públicos de la Contaduría General de Glosa no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de este decreto y de las leyes que en consecuencia se emitan.
-
-Una vez creada la Auditoría Superior de Michoacán, todos lo (sic) recursos humanos, materiales y patrimoniales en general de la Contaduría General de Glosa, pasarán a formar parte de dicha entidad.
-
-Artículo Cuarto. El Contador General de Glosa, será titular de la Auditoría Superior de Michoacán hasta en tanto se haga una nueva designación; podrá ser ratificado para continuar en dicho encargo hasta completar el período de 4 años a que se refiere el artículo 134 reformado de esta Constitución.
-
-Artículo Quinto. Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría de inmediato hacer llegar a los Ayuntamientos del Estado la presente minuta de proyecto de decreto, para que se someta a discusión y aprobación, haciendo del conocimiento del Congreso su resultado.
-
-P.O. 31 DE DICIEMBRE DE 2004.
-
-Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Artículo Segundo.- Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
-
-P.O. 21 DE OCTUBRE DE 2005.
-
-DECRETO NÚMERO 489 POR EL QUE SE ADICIONA LA FRACCIÓN XXIII BIS AL ARTÍCULO 44; Y SE REFORMAN LOS ARTÍCULOS 96, PÁRRAFO PRIMERO DEL 104, PÁRRAFO PRIMERO DEL 105, PÁRRAFO PRIMERO DEL 108, PÁRRAFO PRIMERO DEL 109 Y PÁRRAFO SEXTO DEL 110, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Artículo Segundo. Para la elección por primera y única vez de los magistrados del Tribunal de lo Contencioso Administrativo del Estado, la lista que someta el Titular del Poder Ejecutivo al Congreso del Estado, será tomada del padrón de aspirantes a magistrados que remita el Supremo Tribunal de Justicia del Estado, mismos que deberán cubrir los requisitos que señale la Ley de la materia.
-
-Artículo Tercero. Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
-
-P.O. 21 DE OCTUBRE DE 2005.
-
-DECRETO NÚMERO 12 POR EL QUE SE REFORMA LA FRACCIÓN XXXVI DEL ARTÍCULO 44 Y EL ARTÍCULO 100; Y SE ADICIONAN LAS FRACCIONES XXXVII Y XXXVIII AL ARTÍCULO 44, LAS FRACCIONES XVI Y XVII AL ARTÍCULO 60 Y LOS PÁRRAFOS, SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 98, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
-
-Artículo Segundo. Remítase a los Ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-Artículo Tercero. Se dejan sin efecto todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
-
-Artículo Cuarto. El Gobernador del Estado nombrará al Procurador General de Justicia y enviará el nombramiento, al Congreso del Estado para su ratificación, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
-
-P.O. 23 DE MAYO DE 2006.
-
-Artículo Primero.- Remítase a los ayuntamientos del Estado, a efecto de que, en el término de un mes después de recibida, envíen al Congreso del Estado, el resultado de la votación correspondiente, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-Artículo Segundo.- El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Artículo Tercero.- Con la finalidad de preservar la experiencia de los integrantes del Consejo y escalonar su permanencia, para su integración y por única vez, los Consejeros del Poder Judicial durarán en su encargo: el elegido por el Congreso del Estado, cinco años; el designado por el Titular del Poder Ejecutivo, cuatro años; el elegido por los magistrados, tres años, el elegido por los jueces de primera instancia, dos años.
-
-Artículo Cuarto.- El individuo que haya sido electo magistrado antes de la entrada en vigor del presente Decreto y se encuentre en funciones al inicio de vigencia del mismo, durará en su encargo el tiempo por el que fue designado; y si, se retira voluntariamente a los quince años de servicios efectivos en ese cargo y cumpla sesenta años de edad o cuando tenga más de diez años de servicios efectivos en ese cargo y su retiro forzoso haya sido aprobado, disfrutará de una pensión mensual equivalente a la remuneración que perciban los magistrados.
-
-Artículo Quinto.- Con el fin de escalonar su permanencia y por esta sola ocasión, los Magistrados del Tribunal de Justicia Administrativa tendrán una duración, por su orden de elección, el primero, de cinco años; el segundo, de cuatro años; el tercero, de tres años.
-
-Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 24 DE AGOSTO DE 2006.
-
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 22 DE SEPTIEMBRE DE 2006.
-
-DECRETO NÚMERO 36 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1o DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-Artículo Primero.- El presente Derecho (sic) entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Artículo Segundo.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre (sic) Soberano de Michoacán de Ocampo.
-
-P.O. 22 DE SEPTIEMBRE DE 2006.
-
-DECRETO NÚMERO 69 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 20; EL ARTÍCULO 29; EL PÁRRAFO PRIMERO DEL ARTÍCULO 31, EL ARTÍCULO 33, EL ARTÍCULO 51; EL ARTÍCULO 54; LA FRACCIÓN X DEL ARTÍCULO 60; EL ARTÍCULO 117; Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo los artículos 20, 29, 31 párrafo primero, 33, 51, 54, 60 fracción X, 112 párrafo segundo y 117, que entrarán en vigor el día primero del mes de enero del año dos mil quince.
-
-SEGUNDO. (DEROGADO, P.O. 25 DE JUNIO DE 2014)
-
-TERCERO. (DEROGADO, P.O. 25 DE JUNIO DE 2014)
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2007)</small>
-
-CUARTO. El Gobernador del Estado que se elija el segundo domingo del mes de noviembre del año dos mil siete, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de febrero del año dos mil ocho, al día catorce de febrero del año dos mil doce.
-
-El Gobernador del Estado que se elija el segundo domingo del mes de noviembre del año dos mil once, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de febrero del año dos mil doce al día treinta de septiembre del año dos mil quince.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2007)</small>
-
-QUINTO.- La Septuagésima Primera Legislatura del Congreso del Estado, que se elija el segundo domingo del mes de noviembre del año dos mil siete, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de enero del año dos mil ocho, al día catorce de enero del año dos mil doce.
-
-La Septuagésima Segunda Legislatura del Congreso del Estado, que se elija el segundo domingo del mes de noviembre del año dos mil once, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de enero del año dos mil doce, al día catorce de septiembre del año dos mil quince.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2007)</small>
-
-SEXTO.- Los integrantes de los ayuntamientos del Estado que se elijan el segundo domingo del mes de noviembre del año dos mil siete, tendrán un periodo de ejercicio constitucional que comprenderá del día primero de enero del año dos mil ocho, al día treinta y uno de diciembre del año dos mil once.
-
-Los integrantes de los ayuntamientos del Estado que se elijan el segundo domingo del mes de noviembre del año dos mil once, tendrán un periodo de ejercicio constitucional que comprenderá del día primero de enero del año dos mil doce, al día treinta y uno de agosto del año dos mil quince.
-
-SÉPTIMO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que, en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 29 DE DICIEMBRE DE 2006.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 9 DE FEBRERO DE 2007.
-
-DECRETO NÚMERO 126 POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 44; SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XI Y EL ACTUAL PÁRRAFO SEGUNDO SE CONVIERTE EN PÁRRAFO TERCERO DEL ARTÍCULO 44; SE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN III DEL ARTÍCULO 123, Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 9 DE FEBRERO DEL 2007.
-
-DECRETO NÚMERO 127 POR EL QUE SE REFORMAN LOS ARTÍCULOS PRIMERO, CUARTO, QUINTO Y SEXTO TRANSITORIOS, DEL DECRETO NUMERO 69, SE REFORMA EL ARTÍCULO 13; SE ADICIONA AL TITULO TERCERO A, CAPITULO I, SECCION IV, CON LA DENOMINACIÓN "DEL INSTITUTO ELECTORAL DE MICHOACÁN", CON ARTÍCULO 98; Y SECCION V, CON LA DENOMINACIÓN "DEL TRIBUNAL ELECTORAL DEL ESTADO", CON ARTÍCULO 98 A; Y SE REFORMA EL ARTÍCULO 117 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 6 DE JULIO DE 2007.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase a los ayuntamientos del Estado, a efecto de que, en el término de un mes después de recibida la minuta proyecto de Decreto, envíen al Congreso del Estado el resultado de la votación correspondiente, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Transcurrido el mes concedido a los ayuntamientos, se dará cuenta al Pleno con el resultado de su votación, para efectuar la declaratoria correspondiente.
-
-###### ARTÍCULO TERCERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 31 DE AGOSTO DE 2007.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 6 DE DICIEMBRE DE 2007.
-
-DECRETO NÚMERO 71 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 119 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 6 DE DICIEMBRE DE 2007.
-
-DECRETO NÚMERO 76 POR EL QUE SE ADICIONA LA FRACCIÓN II, REORDENANDO CONSECUTIVAMENTE LA ACTUAL FRACCIÓN SEGUNDA QUE SE ADICIONA COMO FRACCIÓN III DEL ARTÍCULO 23 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 6 DE DICIEMBRE DE 2007.
-
-DECRETO NÚMERO 77 POR EL QUE SE ADICIONA UNA FRACCIÓN III, REORDENANDO CONSECUTIVAMENTE LAS ACTUALES FRACCIONES III, IV, V Y VI, BAJO LOS NÚMEROS IV, V, VI Y VII, RESPECTIVAMENTE; Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 119 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 29 DE DICIEMBRE DE 2007.
-
-PRIMERO. El presente Decreto entrará en vigor el día 15 de febrero del año 2008 previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. En tanto se reforme la normatividad correspondiente, cuando se haga mención a la Tesorería General y a la Oficialía Mayor, se entenderá la Secretaría de Finanzas y Administración.
-
-TERCERO. Remítase a los Ayuntamientos del Estado la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 11 DE SEPTIEMBRE DE 2008.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase a los ayuntamientos del Estado, el presente Decreto, para que en el término de Ley, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 14 DE ABRIL DE 2009.
-
-###### ARTÍCULO PRIMERO.
-
-Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para su conocimiento general y efectos legales procedentes.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase a los ayuntamientos del Estado, el Proyecto de Decreto, para que, en los términos del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibido el Proyecto de Decreto, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación.
-
-###### ARTÍCULO TERCERO.
-
-Las comisiones de Gobernación y Puntos Constitucionales del Congreso del Estado contarán con un término de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, para presentar ante el Pleno la Iniciativa con carácter de Dictamen de la Ley Reglamentaria en materia de pensiones previstas en la fracción XVII bis.
-
-P.O. 31 DE MARZO DE 2010.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado, para que procedan en términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 6 DE AGOSTO DE 2010.
-
-###### ARTÍCULO PRIMERO.
-
-Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para su conocimiento general y efectos legales procedentes.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase a los ayuntamientos del Estado, el Decreto, para que, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibido, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
-
-###### ARTÍCULO TERCERO.
-
-Las obligaciones derivadas del presente Decreto, serán cumplidas de manera gradual progresiva, inicialmente la gratuidad implicará el pago de inscripción en las instituciones públicas de media superior y superior hasta el grado de licenciatura, otros servicios como exámenes, cursos, certificados, credenciales, cartas de pasantía, titulación y constancias, se otorgarán de acuerdo a la disponibilidad presupuestal del Estado.
-
-###### ARTÍCULO CUARTO.
-
-Se derogan todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
-
-###### ARTÍCULO QUINTO.
-
-Dese cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo. Para los efectos legales correspondientes.
-
-P.O. 14 DE OCTUBRE DE 2010.
-
-DECRETO NÚMERO 220, POR EL QUE SE REFORMAN LOS ARTÍCULOS 39 Y 44 FRACCIÓN XXVIII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-###### ARTÍCULO PRIMERO.
-
-Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para su conocimiento general y efectos legales procedentes.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación.
-
-P.O. 14 DE OCTUBRE DE 2010.
-
-DECRETO NÚMERO 224, POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA SECCIÓN III DEL TÍTULO TERCERO A, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-###### ARTÍCULO PRIMERO.
-
-Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para su conocimiento general y efectos legales procedentes.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, dentro del término de un mes, después de su notificación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 1 DE MARZO DE 2011.
-
-DECRETO NÚMERO 248, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 133; FRACCIÓN I Y ÚLTIMO PÁRRAFO DE LA FRACCIÓN X DEL ARTÍCULO 134. SE ADICIONA UN CUARTO PÁRRAFO A LA FRACCIÓN XI DEL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-###### ARTÍCULO PRIMERO.
-
-Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para su conocimiento general y efectos legales procedentes.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase a los ayuntamientos del Estado, el presente Decreto, para que, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibida, envíen al Congreso del Estado el resultado de su votación.
-
-###### ARTÍCULO TERCERO.
-
-Aprobado por la mayoría de los ayuntamientos, el presente Decreto entrará en vigor a los noventa días hábiles siguientes de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO CUARTO.
-
-El Congreso del Estado deberá aprobar las reformas necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, a más tardar en un plazo de noventa días, contados a partir de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 1 DE MARZO DE 2011.
-
-DECRETO NÚMERO 263, POR EL QUE SE REFORMAN LOS ARTÍCULOS 44 FRACCIÓN XXVI, 104, 105, 106, 107, 108, 109 Y 110 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, dentro del término de un mes, después de su notificación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO TERCERO.
-
-El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO CUARTO.
-
-Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones constitucionales y legales vigentes, hasta su total conclusión.
-
-P.O. 22 DE JULIO DE 2011.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase a los ayuntamientos del Estado, la Minuta proyecto de Decreto, para que, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo, con excepción de lo dispuesto en el artículo transitorio siguiente.
-
-###### ARTÍCULO TERCERO.
-
-El nuevo sistema de reinserción social previsto en el párrafo segundo del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder el plazo de tres años, contados a partir del día siguiente de la publicación de este Decreto.
-
-P.O. 22 DE SEPTIEMBRE DE 2011.
-
-###### ARTÍCULO PRIMERO.
-
-Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para su conocimiento general y efectos legales procedentes.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase a los ayuntamientos del Estado, el presente Decreto, para que, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibida, envíen al Congreso del Estado el resultado de su votación.
-
-P.O. 5 DE DICIEMBRE DE 2011.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, dentro del término de un mes, después de su notificación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, así como su entrada en vigor al día siguiente.
-
-###### ARTÍCULO TERCERO.
-
-En cumplimiento a lo establecido en el párrafo sexto del artículo 98 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, relativo a la renovación escalonada de los consejeros del Instituto Electoral de Michoacán, los nuevos consejeros serán nombrados a partir de la conclusión del proceso electoral del año 2011, por lo que los actuales consejeros electorales continuarán en sus funciones, sin que ello implique ratificación en el cargo. La elección de los nuevos consejeros se realizará de la siguiente manera: dos, para un proceso electoral y los tres restantes, para dos procesos electorales. Al concluir éstos su período, quienes los sustituyan, en todos los casos, serán electos por seis años.
-
-###### ARTÍCULO CUARTO.
-
-En cumplimiento a lo establecido en el artículo 98-A de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, relativo a la renovación escalonada de los Magistrados del Tribunal Electoral del Estado de Michoacán, la elección de los nuevos magistrados se realizará de la siguiente manera: dos, para un proceso electoral y los tres restantes, para dos procesos electorales. Al concluir éstos su período, quienes los sustituyan, en todos los casos, serán electos por seis años.
-
-###### ARTÍCULO QUINTO.
-
-Se derogan los decretos legislativos 174, 175, 176, 177 y 178, emitidos por la Septuagésima Legislatura del Estado de Michoacán en el año 2007 dos mil siete por el que se nombraron a los actuales consejeros del Instituto Electoral de Michoacán.
-
-P.O. 13 DE ENERO DE 2012.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-P.O. 16 DE MARZO DE 2012.
-
-DECRETO NÚMERO 391, POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTICULO 2°; SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO, Y SE ADICIONA UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFO CON XXI FRACCIONES, Y UN OCTAVO PÁRRAFO FINAL AL ARTICULO 3°; SE ADICIONAN LAS FRACCIONES X Y XI Y SE RECORRE EN SU ORDEN LA FRACCIÓN X DEL ARTICULO 72; SE ADICIONA UN PÁRRAFO CUARTO AL ARTICULO 94; SE ADICIONA UN TERCER PÁRRAFO AL ARTICULO 103; SE ADICIONA UN TERCER PÁRRAFO, RECORRIENDO EL ANTERIOR PARA QUE SEA EL CUARTO PÁRRAFO EN EL ARTICULO 114; SE REFORMA EL INCISO C) DEL SEGUNDO PÁRRAFO, SE HACE LA ADICIÓN DE UN INCISO D) Y SE REFORMA EL TERCER PÁRRAFO DEL ARTICULO 139 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase a los ayuntamientos del Estado, el presente Decreto, para que, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibida, envíen al Congreso del Estado el resultado de su votación.
-
-###### ARTÍCULO TERCERO.
-
-El Congreso del Estado expedirá la Ley de la materia.
-
-P.O. 16 DE MARZO DE 2012.
-
-DECRETO NÚMERO 420, POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 164 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
-
-P.O. 16 DE MARZO DE 2012.
-
-DECRETO NÚMERO 446, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 96 Y 139 PRIMER PÁRRAFO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
-
-PRIMERO. Remítase a los ayuntamientos el presente Decreto para efectos de lo dispuesto en el Artículo 164 de la Constitución Política del Estado de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 28 DE ENERO DE 2013.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO TERCERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
-
-###### ARTÍCULO CUARTO.
-
-El Congreso del Estado deberá aprobar las reformas necesarias en las leyes secundarias relacionadas con la materia del presente, para dar cumplimiento a esta reforma constitucional, a más tardar en un plazo de noventa días, contados a partir de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 25 DE JUNIO DE 2013.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO TERCERO.
-
-Los artículos 57, 61, 63, 123, 131, 132, 159 y 160, en lo que ve a la nueva denominación y atribuciones de la Secretaría de Finanzas, entrarán en vigor al momento en que inicie la vigencia de la normatividad que la regule.
-
-###### ARTÍCULO CUARTO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
-
-P.O. 16 DE DICIEMBRE DE 2013.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los Ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO TERCERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
-
-P.O. 25 DE JUNIO DE 2014.
-
-PRIMERO. Remítase a los Ayuntamientos del Estado, la Minuta con Proyecto de Decreto para que, en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. Transcurrido el mes concedido a los ayuntamientos, se dará cuenta al Pleno el resultado de su votación, para efectuar la declaratoria correspondiente.
-
-TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-> <small>(F. DE E., P.O. 30 DE JUNIO DE 2014)</small>
-
-CUARTO. En relación con la salvedad dispuesta para los artículos 20 párrafo primero, 29, 31 párrafo primero, 33, 51, 54, 112 párrafo segundo y 117, señalados en el PRIMERO, del ARTÍCULO PRIMERO del Decreto Legislativo número 127 aprobado por la Septuagésima Legislatura del Congreso del Estado de Michoacán de Ocampo con fecha 25 de enero de 2007 y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo con fecha 09 de febrero de 2007, correspondiente a su entrada en vigor; queda sin efectos, para ser ahora, al día siguiente de la publicación del presente decreto. Lo anterior, con excepción del artículo 60 fracción X, que mantendrá como fecha de entrada en vigor, la de primero de enero del año dos mil quince.
-
-QUINTO. La celebración de las próximas elecciones, una vez que haya entrado en vigor el presente Decreto conforme al artículo transitorio precedente, será en los términos de esta Constitución, salvo aquellas que se verifiquen en el año 2018, las cuales se llevarán a cabo el primer domingo del mes de julio.
-
-SEXTO. La presente reforma, por lo que ve a la reelección, no será aplicable a los Legisladores, Presidentes Municipales, Síndicos y Regidores, que hayan protestado el cargo en la Legislatura o Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
-
-P.O. 24 DE DICIEMBRE DE 2014.
-
-PRIMERO. Remítase la Minuta con Proyecto de Decreto a los Ayuntamientos del Estado, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 31 DE JULIO DE 2015.
-
-Primero. Por única ocasión los Ayuntamientos actuales, y los Concejos Municipales, realizarán el último informe de su periodo dentro de la segunda quincena del mes de agosto de 2015, fecha en la que concluye su periodo constitucional.
-
-Segundo. Por única ocasión el Gobernador y los Diputados al Congreso del Estado, miembros de la LXXII legislatura realizarán su último informe dentro del período comprendido por la segunda quincena del mes de agosto y la primera semana de septiembre de 2015, mes en el que concluye el periodo constitucional.
-
-Tercero. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-Cuarto. El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
-
-P.O. 13 DE NOVIEMBRE DE 2015.
-
-PRIMERO. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen a los artículos 8°, 44 fracción XXIII-B, 97 y 123 primer párrafo de la fracción III; así como la denominación de la Sección III del Título Tercero A; entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
-
-SEGUNDO. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen a los artículos 44 fracciones X, X-C, XI párrafo tercero, XXIII-C, XXVI, XXXVIII y XXXIX, 60 fracción VIII, 67 párrafo segundo, 94 bis, 95, 100, 104, 105, 106, 107, 108 párrafos primero y segundo, 109, 109 bis, 109 ter, 110 párrafos segundo y tercero, 133 párrafos primero, segundo, tercero y cuarto; 134 fracciones IV, V, VII y X párrafo segundo, así como la denominación del Título Cuarto, entrarán en vigor en la misma fecha en que lo hagan las leyes generales a que se refiere el Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de combate a la corrupción, publicado el 27 de junio de 2015 en el Diario Oficial de la Federación, en tanto, continuará aplicándose la legislación en materia de responsabilidades de los servidores públicos, así como de fiscalización y control de recursos públicos, en el ámbito estatal y municipal, que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
-
-TERCERO. Los Consejeros que actualmente conforman el Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán (ITAIMICH), formarán parte del nuevo organismo Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, únicamente por el tiempo que reste al nombramiento del que fueron objeto en el Instituto que se extingue.
-
-CUARTO. El Congreso del Estado en un término no mayor a 60 días naturales a partir de la publicación del presente Decreto, deberá expedir las modificaciones necesarias a la legislación relacionada; en tanto, el organismo garante que establece esta Constitución ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la vigente Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo.
-
-QUINTO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto se sustanciarán de conformidad con la Ley aplicable al momento de su inicio.
-
-SEXTO. Una vez constituido el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, serán transferidos a éste, los recursos humanos, financieros y materiales, adscritos al Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán (ITAIMICH), en los términos que dispongan las leyes.
-
-SÉPTIMO. El Congreso del Estado deberá realizar las modificaciones al Presupuesto y los ordenamientos que regulan la estructura y el funcionamiento del Tribunal de Justicia Administrativa a más tardar dentro de los 90 días naturales posteriores a la entrada en vigor de las disposiciones a que se refiere el artículo segundo transitorio del presente Decreto, así como llevar a cabo el procedimiento para la elección de los dos nuevos Magistrados.
-
-OCTAVO. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 24 DE OCTUBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 153 POR EL QUE “SE REFORMA EL ARTÍCULO 94 PÁRRAFO SEGUNDO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase la Minuta con Proyecto de Decreto a los Ayuntamientos del Estado, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 24 DE OCTUBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 157 POR EL QUE “SE REFORMAN LAS FRACCIONES V Y VII, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida envíen, al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
-
-P.O. 18 DE NOVIEMBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 170.- MEDIANTE EL CUAL SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
-
-P.O. 24 DE OCTUBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 379 POR EL QUE "SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 129 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, RECORRIÉNDOSE EN EL ORDEN SUBSECUENTE LOS EXISTENTES".]
-
-Primero. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-Segundo. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales y realizada la Declaratoria correspondiente, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Tercero. Si transcurrido el plazo marcado por la normativa vigente, la Ley o Decreto aprobado no fuera publicado, será considerado promulgado y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al Titular del Periódico Oficial del Estado su publicación, sin que se requiera refrendo alguno.
-
-Cuarto. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 381 POR EL QUE "SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-P.O. 29 DE MARZO DE 2018.
-
-PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales y realizada la Declaratoria correspondiente, notifíquese al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-TERCERO. Si transcurrido el plazo marcado por la normativa vigente, la Ley o Decreto aprobado no fuera publicado, será considerado promulgado y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al titular del Periódico Oficial del Estado su publicación, sin que se requiera refrendo alguno.
-
-CUARTO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
-
-P.O. 29 DE MARZO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 387.- SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase a los Ayuntamientos y Consejos Municipales de Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales y realizada la Declaratoria correspondiente, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-TERCERO. Si transcurrido el plazo marcado por la normativa vigente, la Ley o Decreto aprobado no fuera publicado, será considerado promulgado y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al titular del Periódico Oficial del Estado, su publicación, sin que se requiera refrendo alguno.
-
-CUARTO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
-
-P.O. 24 DE JULIO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 403 POR EL QUE “SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 94 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase a los Ayuntamientos del Estado y al Concejo Mayor de Cherán, la Minuta con proyecto de Decreto, en materia constitucional para que en el término de un mes después de recibirla, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. Transcurrido el mes concedido a los Ayuntamientos y al Concejo Mayor de Cherán, se dará cuenta al Pleno con el resultado de su votación, para efectuar la declaratoria correspondiente.
-
-TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 24 DE JULIO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 425 POR EL QUE “SE REFORMA EL ARTÍCULO 27, EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XXVI DEL ARTÍCULO 44, EL PRIMER PÁRRAFO DEL ARTÍCULO 106, EL ARTÍCULO 107, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 110; SE DEROGA EL PÁRRAFO PRIMERO DE LA FRACCIÓN XXVI DEL ARTÍCULO 44, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 106 Y SE ADICIONA UN PRIMER PÁRRAFO AL ARTÍCULO 108 RECORRIÉNDOSE EN EL ORDEN LOS SIGUIENTES, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida envíen, al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
-
-P.O. 24 DE JULIO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 584.- SE ADICIONAN DIVERSOS PÁRRAFOS AL ARTÍCULO 143 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. En caso de que el Presupuesto de Egresos del Estado se vea disminuido, ya sea en las participaciones federales o en algún otro concepto y que haga necesaria la atención prioritaria de esta soberanía para atender necesidades específicas, se hará un ejercicio ponderativo del monto equivalente proporcional al asignado al año inmediato anterior.
-
-SEGUNDO. En el entendido de que una de las variables para determinar el presupuesto que se asigna a la Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo es la propia matrícula de alumnos de dicha institución, cuando ésta se vea reducida, se deberán realizar ajustes necesarios con base a la disminución de la matrícula.
-
-TERCERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cheran, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-CUARTO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva.
-
-QUINTO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 13 DE AGOSTO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 631 POR EL QUE "SE REFORMAN LAS FRACCIONES XVIII, XXXVI, XXXVII, XVIII, XXXIX Y SE ADICIONA LA FRACCIÓN XL AL ARTÍCULO 44, SE REFORMA LA FRACCIÓN II INCISO C) DEL ARTÍCULO 50, SE DEROGA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN X, SE MODIFICA LA FRACCIÓN XVI Y SE DEROGA LA FRACCIÓN XVII DEL ARTÍCULO 60, SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 76, LOS ARTÍCULOS 99, 100, 101, 102 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 154, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-PRIMERO. Remítase a los Ayuntamientos del Estado y al Concejo Municipal de Cherán, Michoacán, la Minuta con proyecto de Decreto para que, en el término de hasta 30 treinta días después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-TERCERO. El Congreso del Estado contará con un plazo de ciento ochenta días para expedir la Ley Orgánica de la Fiscalía General del Estado de Michoacán de Ocampo.
-
-CUARTO. A partir de la entrada en vigor del Decreto que contenga la Ley Orgánica de la Fiscalía General del Estado de Michoacán de Ocampo, a que se refiere el artículo anterior, los recursos humanos, presupuestales, financieros, materiales y de operatividad de la Procuraduría General de Justicia del Estado pasarán a la Fiscalía General del Estado.
-
-QUINTO. El Congreso del Estado, por única ocasión a través de las Comisiones de Justicia y de Gobernación, emitirá convocatoria pública para llevar acabo el procedimiento de elección del Fiscal General del Estado a que se refiere el artículo 102 del presente Decreto, en un término no mayor a sesenta días siguientes al de su publicación.
-
-SEXTO. El Procurador General de Justicia del Estado que se encuentre en funciones al momento de la promulgación de la presente reforma, continuará en su encargo hasta en tanto el Congreso del Estado designe al Fiscal General del Estado.
-
-P.O. 27 DE AGOSTO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 556 POR EL QUE “SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 60 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 22 DE FEBRERO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 632 POR EL QUE "SE ADICIONA UN PÁRRAFO AL ARTÍCULO 36 Y SE ADICIONA LA FRACCIÓN XL RECORRIENDO EN LO SUBSECUENTE EN SU ORDEN AL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 22 DE MARZO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 01 POR EL QUE "SE REFORMA EL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 20 DE ENERO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 148.- SE ADICIONA LA FRACCIÓN X-B BIS AL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto entrará en vigor al dia siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 20 DE ENERO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 149.- SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 139 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 20 DE ENERO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 193.- PRIMERO.- SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 1°; LA FRACCIÓN IV DEL ARTÍCULO 3°; EL ARTÍCULO 8º; LOS PÁRRAFOS TERCERO, CUARTO Y OCTAVO DEL ARTÍCULO 13; EL PÁRRAFO TERCERO DEL ARTÍCULO 20; EL ARTÍCULO 21; LA FRACCIÓN XIV DEL ARTÍCULO 60; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 69; LOS ARTÍCULOS 73 Y 74; EL PÁRRAFO CUARTO DEL ARTÍCULO 95; EL PÁRRAFO QUINTO DEL ARTÍCULO 96; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 97; EL PÁRRAFO PRIMERO DEL ARTÍCULO 114; Y EL ARTÍCULO 122; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 6° Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.- SEGUNDO.- SE REFORMAN LAS FRACCIONES XI, XII Y XIII DEL ARTÍCULO 3, LOS ARTÍCULOS 4 Y 71; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 3; Y UN PÁRRAFO SEGUNDO AL INCISO M) DEL ARTÍCULO 230 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- TERCERO.- SE REFORMA EL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO.- SE REFORMAN LOS ARTÍCULOS 49; 92 Y 93 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
-
-PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-TERCERO. El Congreso del Estado deberá, en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en esta Constitución.
-
-CUARTO. La observancia del principio de paridad de género a que se refiere el presente Decreto, será aplicable a quienes tomen posesión de su cargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
-
-Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva y escalonada a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-
-P.O. 24 DE JUNIO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 296.- ÚNICO.- SE REFORMA EL ARTÍCULO 138 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-TERCERO. El Congreso del Estado deberá, en un plazo de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes en materia de educación inicial de acuerdo con el Transitorio Décimo Segundo de la reforma constitucional a nivel federal publicada en el Diario Oficial de la Federación el 15 de mayo de 2019.
-
-P.O. 24 DE JUNIO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 311.- ÚNICO.- SE REFORMA EL ARTÍCULO 2° Y SE ADICIONA EL ARTÍCULO 2° BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 13 DE ABRIL DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 383 POR EL QUE “SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 101 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 30 DE NOVIEMBRE DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 515 QUE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO".]
-
-PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 2 DE DICIEMBRE DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 586 POR EL QUE "SE REFORMAN LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 60; EL ARTÍCULO 67; LOS INCISOS B) Y G) DE LA FRACCIÓN I Y LOS INCISOS A) Y B) DE LA FRACCIÓN II DEL ARTÍCULO 83; LA FRACCIÓN I DEL ARTÍCULO 89; SE ADICIONAN LA FRACCIÓN XXIII-D AL ARTÍCULO 44; LA FRACCIÓN XXIII AL ARTÍCULO 60; EL ARTÍCULO 86 BIS; LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 148 Y EL ARTÍCULO 148 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. Concluido el procedimiento de reforma Constitucional mandatado por el artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-CUARTO. Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto, el Congreso del Estado deberá adecuar la normativa vigente para la organización y funcionamiento de las leyes que regularán la organización y el funcionamiento de los juzgados en materia laboral del Poder Judicial del Estado; y, se expedirá la Ley Orgánica del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, para dar cumplimiento con el Artículo Segundo Transitorio del Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral publicada en el Diario Oficial de la Federación en fecha 24 de febrero de 2017.
-
-QUINTO. Una vez entrado en vigor el presente Decreto, se realizarán en su caso, los ajustes al Presupuesto de Egresos del Estado, tendientes a la implementación, infraestructura y capacitación de la reforma al Sistema de Justicia Laboral en el Estado.
-
-SEXTO. En tanto se instituyan e inicien operaciones los juzgados laborales y el Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, la Junta Local de Conciliación y Arbitraje y, en su caso, la Secretaría de Gobierno, continuarán atendiendo las diferencias o conflictos que se presenten en materia laboral.
-
-Los asuntos que estuvieren en trámite al momento de iniciar sus funciones los juzgados o tribunales y el Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
-
-P.O. 13 DE JULIO DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 156.- PRIMERO. SE REFORMA EL ARTÍCULO 94 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO. SEGUNDO. SE REFORMA EL ARTÍCULO 31 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
-
-PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo,
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 20 DE OCTUBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 364.-ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 126 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, al Concejo Mayor de Cherán y al Concejo Ciudadano de Penjamillo, Michoacán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 20 DE OCTUBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 383.- ARTÍCULO ÚNICO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19; Y, SE REFORMA EL ARTÍCULO 35 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, al Concejo Mayor de Cherán y al Concejo Municipal de Penjamillo, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 20 DE OCTUBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 447.- ARTÍCULO ÚNICO.- SE ADICIONA UN NOVENO PÁRRAFO AL ARTÍCULO 2°; Y, SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO."
-
-PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, al Concejo Mayor de Cherán así como al Concejo Municipal de Penjamillo, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 20 DE OCTUBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 437.- ARTÍCULO PRIMERO.- SE ADICIONA UN TERCER PÁRRAFO RECORRIÉNDOSE EN ORDEN LOS SUBSECUENTES AL ARTÍCULO 8° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE ADICIONA LA FRACCIÓN XVI Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 28; LA FRACCIÓN VI Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 141; Y, SE REFORMA EL ARTÍCULO 157, TODOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMAN LOS ARTÍCULOS 19, FRACCIÓN III Y 31 DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS”.]
-
-PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, al Concejo Mayor de Cherán y al Concejo Municipal de Penjamillo, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 20 DE OCTUBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 430.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA EL ARTÍCULO 274 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, al Concejo Mayor de Cherán así como al Concejo Municipal de Penjamillo, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 20 DE OCTUBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 431.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 1º, CUARTO PÁRRAFO; 86 BIS, PÁRRAFO SEGUNDO; 92, PÁRRAFO SEGUNDO; 95, PÁRRAFO PRIMERO; Y, 98-A, PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, al Concejo Mayor de Cherán así como al Concejo Municipal de Penjamillo, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-TERCERO. Notifíquese a los Poderes Ejecutivo y Judicial, al Tribunal de Justicia Administrativa del Estado de Michoacán, Tribunal Electoral del Estado de Michoacán, Tribunal de Conciliación y Arbitraje en el Estado de Michoacán, y Junta Local de Conciliación y Arbitraje del Estado de Michoacán, para su conocimiento y debido cumplimiento.
-
-CUARTO. Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
-
-P.O. 13 DE NOVIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 03 POR EL QUE “SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 24; LAS FRACCIONES XXI, XXI A Y XXI B, DEL ARTÍCULO 44; EL INCISO C) DE LA FRACCIÓN II, DEL ARTÍCULO 50; LA FRACCIÓN III DEL ARTÍCULO 60; LOS ARTÍCULOS 67, 69, 73, 74, 75, 76, 77, 78 Y 81; LOS INCISOS F), G) Y H) DE LA FRACCIÓN I, Y LA FRACCIÓN II DEL ARTÍCULO 83; LOS ARTÍCULOS 84, 86, 87 Y 88; LA FRACCIÓN III DEL ARTÍCULO 89; LOS ARTÍCULOS 90, 91 Y 93; Y, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 108; SE ADICIONAN LA FRACCIÓN III BIS AL ARTÍCULO 60; LOS ARTÍCULOS 67 BIS Y 67 TER; UN TERCER PÁRRAFO AL ARTÍCULO 68; EL INCISO I) A LA FRACCIÓN I, DEL ARTÍCULO 83; Y, UN TERCER PÁRRAFO AL ARTÍCULO 92, RECORRIENDO EN EL ORDEN LOS PÁRRAFOS SUBSECUENTES; Y, SE DEROGAN LA FRACCIÓN XXII DEL ARTÍCULO 44; Y, LOS ARTÍCULOS 79 Y 82, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. El Proceso Electoral Extraordinario 2024-2025 dará inicio el día de la entrada en vigor del presente Decreto. La etapa de preparación de la elección extraordinaria iniciará con la primera sesión que celebre el Consejo General del Instituto Electoral de Michoacán dentro de los siete días posteriores a la entrada en vigor del presente Decreto.
-
-En dicha elección se elegirán la mitad de los cargos de juezas y jueces, así como, todos los cargos de magistradas y magistrados del Supremo Tribunal de Justicia.
-
-En todas las salas que a la entrada en vigor del presente Decreto se encuentren vacantes, el Consejo del Poder Judicial del Estado, por única ocasión deberá nombrar como titular provisional de la Sala de Segunda Instancia, a alguna de las juezas o jueces que se encuentren en funciones. Las juezas o jueces que sean elegidos como titular provisional de sala, concluirán su encargo en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección extraordinaria del año 2025, por lo que regresarán a su asignación original y deberán sujetarse al procedimiento previsto para la elección de jueces.
-
-Para el caso de juezas y jueces, la elección será escalonada, renovándose la mitad de los cargos de los distritos judiciales en la elección extraordinaria del año 2025, y la parte restante en la elección del año 2027.
-
-El Congreso del Estado, para seleccionar los cargos a renovar en la elección extraordinaria del año 2025, considerará en primer término las vacancias, renuncias y retiros programados de las juezas y jueces, los cargos restantes serán seleccionados mediante insaculación pública tomando como base la renovación de la mitad de los cargos de juezas y jueces.
-
-Las magistradas y magistrados, juezas y jueces que se encuentren en funciones, y cuyo cargo se vaya a renovar en la elección extraordinaria del año 2025, al cierre de la convocatoria que emita el Congreso del Estado serán integrados a listados para participar en la elección extraordinaria del año 2025, excepto cuando manifiesten la declinación de su candidatura previo al cierre de la convocatoria o sean postuladas para un cargo judicial diverso. En caso de no resultar electas por la ciudadanía para ejercer su encargo por un nuevo periodo, concluirán su encargo en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección extraordinaria conforme a las disposiciones transitorias aplicables del presente Decreto.
-
-Las magistradas y magistrados, juezas y jueces que concluyan su encargo por haber declinado su candidatura o no resultar electas por la ciudadanía para un nuevo periodo, serán acreedoras al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado, así como a las demás prestaciones a que tengan derecho.
-
-El Congreso del Estado tendrá un plazo de treinta días naturales posteriores a la entrada en vigor del presente Decreto para emitir la convocatoria para integrar los listados de las personas candidatas que participen en la elección extraordinaria para renovar los cargos del Poder Judicial del Estado, conforme al procedimiento previsto en el artículo 69 de este Decreto. En este caso, el Consejo del Poder Judicial del Estado hará del conocimiento del Congreso del Estado la totalidad de los cargos de magistradas, magistrados, juezas y jueces, indicando su circuito, distrito o región judicial, especialización por materia, género, vacancias, renuncias y retiros programados y la demás información que se le requiera.
-
-La Jornada del Proceso Electoral Extraordinario 2025 del Estado de Michoacán se celebrará el primer domingo de junio del año 2025, de manera concurrente con el proceso Electoral Extraordinario para la elección de integrantes del Poder Judicial de la Federación.
-
-En la Jornada Electoral Podrán participar como observadoras las personas o agrupaciones acreditadas por el Instituto, con excepción de representantes o militantes de un partido político. Las y los representantes de los partidos políticos ante el Consejo General no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
-
-El Consejo General del Instituto Electoral de Michoacán firmará el convenio de apoyo y colaboración con el Instituto Nacional Electoral a efecto de realizar la elección de integrantes del Poder Judicial del Estado de Michoacán de manera concurrente en casilla única para la recepción de la votación, de conformidad con las competencias y reglas que la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales establecen para la organización de las elecciones de los poderes ejecutivos y legislativos, y demás normativa aplicable al Proceso Electoral Extraordinario.
-
-El Consejo General del Instituto Electoral de Michoacán podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo y vigilancia del proceso electoral extraordinario del año 2025 y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales concurrentes, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género.
-
-Para la Elección extraordinaria de 2025 y la elección de 2027, las elecciones a los cargos que correspondan se deberán garantizar que se realicen en al menos siete regiones o circunscripciones judiciales, las cuales se integrarán conforme a la carga laboral.
-
-Las boletas electorales contendrán, entre otros datos, el cargo, en su caso, distrito o región judicial, tipo de elección. Llevarán impresos los nombres completos numerados de las personas candidatas distribuidos por orden alfabético y progresivo iniciando por el apellido paterno, e indicando la especialización por materia cuando corresponda.
-
-El listado de personas candidatas distinguirá la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar y deseen participar en la elección.
-
-El Instituto Electoral de Michoacán efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, iniciando por mujer. También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal Electoral del Estado de Michoacán, que resolverán las impugnaciones a más tardar el 28 de agosto de 2025.
-
-Las personas que resulten electas tomarán protesta de su encargo ante el Congreso del Estado el día 15 de septiembre de 2025. El Órgano de Administración Judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar el día 15 de septiembre de 2025.
-
-TERCERO. El periodo de las magistradas y magistrados, y de las juezas y jueces que resulten electos en la elección extraordinaria que se celebre en el año 2025 conforme al artículo Segundo transitorio del presente Decreto durará ocho años, por lo que vencerá en el año 2033, con el propósito de homologar los procesos electorales locales con los federales.
-
-CUARTO. Las juezas y jueces que estén próximos a jubilarse o decidan acceder a un programa de retiro anticipado, gozarán de un haber por retiro en los términos que se señale en la Ley, cuando manifiesten su interés antes de la emisión de la Convocatoria para la elección extraordinaria del año 2025, así como aquellos que manifiesten su interés antes de la emisión de la Convocatoria para la elección del año 2027, quienes deberán permanecer en el ejercicio de sus funciones hasta la fecha que tomen protesta las personas servidoras públicas que emanen de la elección extraordinaria conforme a las disposiciones transitorias aplicables del presente Decreto.
-
-El programa de retiro anticipado deberá ser expedido con al menos 15 días de anticipación a la fecha de la emisión de la Convocatoria, para efectos de que el Consejo del Poder Judicial y en su caso el Órgano de Administración Judicial pueda hacer del conocimiento del Congreso del Estado los cargos sujetos a elección, competencia territorial, especialización por materia y demás información que requiera.
-
-QUINTO. El Consejo del Poder Judicial continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, hasta en tanto entren en funciones el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial.
-
-SEXTO. El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial iniciarán sus funciones en la fecha en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección extraordinaria que se celebre en el año 2025. En esta misma fecha, el Consejo del Poder Judicial quedará extinto.
-
-Durante el periodo de transición, el cual abarca desde la entrada en vigor del presente Decreto hasta la fecha de extinción del Consejo del Poder Judicial, el Consejo del Poder Judicial implementará un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial; y al Órgano de Administración Judicial en lo que corresponde a sus funciones administrativas y de carrera judicial.
-
-El Consejo del Poder Judicial aprobará los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables.
-
-El Consejo del Poder Judicial continuará la substanciación de los procedimientos que se encuentren pendientes de resolución y entregará la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental, al Tribunal de Disciplina Judicial o al órgano de administración judicial, según corresponda.
-
-Las personas que integren el Pleno del Órgano de Administración Judicial a que se refiere el artículo 67 Ter del presente Decreto deberán ser designadas para iniciar sus funciones el mismo día en que tomen protesta las magistradas y magistrados del Tribunal de Disciplina Judicial.
-
-SÉPTIMO. Todos los derechos laborales de las personas trabajadoras del Poder Judicial del Estado serán respetados en su totalidad. Los presupuestos de egresos del ejercicio fiscal que corresponda considerarán los recursos necesarios para el pago de pensiones complementarias, apoyos médicos y otras obligaciones de carácter laboral, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables.
-
-Se respetará el ingreso, permanencia y promoción de los servidores públicos del Poder Judicial mediante la Carrera Judicial en todas las categorías que lo conforman, desde escribiente hasta secretarios de acuerdos de juzgado, Proyectista de Sala y de acuerdos de Sala, con excepción de los cargos de jueces y magistrados que se elegirán en los términos del presente Decreto.
-
-OCTAVO. Se deberá implementar un Programa de Movilidad, para efectos de que las juezas y jueces de las diversas materias a la penal, puedan ser trasladados de un juzgado a otro, dentro de su misma circunscripción, distrito o región, en los términos que disponga el Órgano de Administración Judicial.
-
-NOVENO. Los procedimientos iniciados con anterioridad a la entrada en vigencia de la presente reforma, se seguirán sustanciando conforme a las disposiciones normativas vigentes al momento de la concurrencia de los hechos que los suscitaron.
-
-DÉCIMO. Conforme al Artículo Transitorio Décimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, publicado en el Diario Oficial de la Federación el 15 de septiembre de 2024, el Poder Judicial del Estado de Michoacán deberá llevar a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos que no se encuentren previstos en una ley secundaria, por lo que tienen un plazo máximo de noventa días naturales posteriores a la entrada en vigor del Decreto Federal mencionado, para enterar la totalidad de los recursos remanentes en dichos instrumentos, así como los productos y aprovechamientos derivados de los mismos, a la Secretaría de Finanzas y Administración, y se dispondrá de dicho recurso en los términos que señala el propio Artículo Décimo Transitorio.
-
-DÉCIMO PRIMERO. El Congreso del Estado tendrá un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la normativa que correspondan para dar cumplimiento al mismo. En tanto, se aplicarán las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga al presente Decreto.
-
-DÉCIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 13 DE DICIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 05 POR EL QUE "SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 24; LA FRACCIÓN XXIII A DEL ARTÍCULO 44; EL INCISO C) DE LA FRACCIÓN II, DEL ARTÍCULO 50; EL ARTÍCULO 70; LA DENOMINACIÓN DE LA SECCIÓN I, DEL CAPÍTULO I, DEL TÍTULO TERCERO A; EL ARTÍCULO 95; EL CUARTO PÁRRAFO DEL ARTÍCULO 97; EL PRIMERO Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 109; EL ARTÍCULO 109 BIS; LA FRACCIÓN I DEL ARTÍCULO 109 TER; ÚLTIMO PÁRRAFO DEL ARTÍCULO 133; TERCERO Y SEXTO PÁRRAFOS DE LA FRACCIÓN V, Y LA FRACCIÓN VII DEL ARTÍCULO 134, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. A partir de la entrada en vigor del presente Decreto, el Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, sustituirá las funciones que desempeñaba el Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
-
-Todo lo relacionado legalmente al Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, será substanciado, tramitado y resuelto por el Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo.
-
-TERCERO. Los procedimientos iniciados con anterioridad a la entrada en vigencia de la presente reforma, se seguirán sustanciando conforme a las disposiciones normativas vigentes al momento de la concurrencia de los hechos que los suscitaron.
-
-CUARTO. Los recursos humanos, financieros, materiales, bienes muebles e inmuebles del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, pasarán a formar parte desde la entrada en vigor del presente Decreto al Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo. El Órgano Interno de Control y la Secretaría de Administración, deberán llevar a cabo las acciones necesarias para la transferencia de dichos recursos en el ámbito de sus competencias.
-
-QUINTO. A partir de la entrada en vigor del presente Decreto, el Congreso del Estado contará con un plazo de ciento veinte días hábiles para iniciar el proceso de designación de quienes ocuparán las titularidades de las Magistraturas que habrán de integrar el Pleno del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, en los términos que establece esta Constitución.
-
-Una vez que el Congreso del Estado realice la designación de los cinco nuevos Magistrados que habrán de integrar el Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, dejarán de surtir efecto los nombramientos de los Magistrados integrantes del extinto Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
-
-SEXTO. El Pleno del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, deberá de emitir un programa de liquidación conforme al cual se realizarán las indemnizaciones correspondientes, tomando en consideración el tiempo restante de cada Magistrado, y de acuerdo a la suficiencia presupuestal con la que cuente el órgano constitucional autónomo, en los términos de lo establecido en el Presupuesto de Egresos para el ejercicio fiscal correspondiente.
-
-SÉPTIMO. El Congreso del Estado tendrá un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la normativa que correspondan para dar cumplimiento al mismo. Hasta en tanto se emitan nuevas disposiciones, los nuevos integrantes del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, deberán apegar sus funciones en lo que corresponda a la legislación vigente.
-
-OCTAVO. El Congreso del Estado deberá realizar las acciones necesarias para que se asigne dentro del Presupuesto de Egresos del Estado de Michoacán al Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, los recursos que le correspondían al Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, esto con el objeto de que se respete la autonomía constitucional de este organismo.
-
-NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 17 DE DICIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 252 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 3°; 36 FRACCIÓN IV; 62; 113; 117; 123 PRIMER PÁRRAFO, SEGUNDO PÁRRAFO DEL INCISO A) Y PÁRRAFO TERCERO DEL INCISO C), PÁRRAFO SEGUNDO DE LA FRACCIÓN III Y PÁRRAFOS TERCERO, CUARTO Y QUINTO DEL INCISO I); Y 133 SEGUNDO PÁRRAFO; 164 FRACCIÓN IV; Y, SE ADICIONAN UN PENÚLTIMO Y ÚLTIMO PÁRRAFO AL ARTÍCULO 13; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 15; UNA FRACCIÓN IV BIS AL ARTÍCULO 36; UN PENÚLTIMO Y ÚLTIMO PÁRRAFO AL ARTÍCULO 104; UN SEGUNDO PÁRRAFO AL ARTÍCULO 112; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 114; UN ÚLTIMO PÁRRAFO AL INCISO C) DE LA FRACCIÓN II, UN TERCER PÁRRAFO AL INCISO H) DE LA FRACCIÓN V DEL ARTÍCULO 123; UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 124; UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 134 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 136, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado, la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. Transcurrido el mes concedido a los Ayuntamientos y los Concejos Municipales, se dará cuenta al Pleno con el resultado de su votación, para efectuar la declaratoria correspondiente.
-
-TERCERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-CUARTO. El Congreso del Estado tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes que correspondan para dar cumplimiento al mismo.
-
-QUINTO. A la entrada en vigor del presente Decreto, las autoridades responsables de la aplicación del mismo, deberán de destinar los recursos necesarios para su cumplimiento.
-
-SEXTO. El Ejecutivo del Estado, contará con un término no mayor a 180 días hábiles para la creación de la Agencia de Coordinación de los Pueblos y Comunidades Indígenas en Michoacán.
-
-P.O. 8 DE ENERO DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 19 POR EL QUE "SE REFORMA EL ARTÍCULO 143 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
-
-TERCERO. La Secretaría de Finanzas y Administración deberá hacer el ajuste presupuestal en el momento de la aprobación del presente Decreto, haciendo llegar a la Universidad Michoacana de San Nicolás de Hidalgo, el superávit variante que deberá ejercer ésta.
-
-CUARTO. El Consejo Universitario deberá adecuar y aprobar en un plazo no mayor a 120 días naturales la armonización con el Estatuto Universitario y demás legislación universitaria. Mientras no se realicen estas adecuaciones y se aprueben, prevalecerán en todo aquello que no se oponga a este Decreto.
-
-QUINTO. La Universidad Michoacana de San Nicolás de Hidalgo, tendrá un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto para realizar la consulta previa, libre e informada a su comunidad universitaria y a los órganos de gobierno competentes, asambleas generales y cuerpos colegiados por dependencia en términos de lo dispuesto por la Ley General de Educación Superior, para efectos de realizar las adecuaciones a la normativa que corresponda.
-
-SEXTO. Todos los derechos y obligaciones de los trabajadores de la Universidad Michoacana de San Nicolás de Hidalgo, así como jubilaciones y pensiones concedidas con anterioridad al presente Decreto, adquiridas por la reforma del año 2020, así como todas las que abonen a los derechos laborales de los trabajadores mencionados, se respetarán en términos de la legislación aplicable al momento de su contratación.
-
-SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 3 DE ABRIL DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 97 POR EL QUE "SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Artículo Segundo. Notifíquese el Presente Decreto a los Ayuntamientos del Estado de Michoacán y al Concejo Mayor de Cherán, para su conocimiento y aprobación de conformidad con el Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para los efectos constitucionales correspondientes.
-
-Artículo Tercero. El Congreso del Estado tendrá un plazo de ciento ochenta días, contado a partir de su entrada en vigor, para armonizar la normatividad conforme a lo establecido en el presente Decreto.
-
-P.O. 3 DE ABRIL DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 108 POR EL QUE "SE REFORMAN LAS FRACCIONES II, IV, VI Y VII DEL ARTÍCULO 8 Y LA FRACCIÓN I DEL ARTÍCULO 109 TER; SE ADICIONA UNA FRACCIÓN VIII Y DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 8°; Y, SE DEROGA LA FRACCIÓN XXIII-B DEL ARTÍCULO 44; LA SECCIÓN III DEL CAPÍTULO I DEL TÍTULO TERCERO A Y SU ARTÍCULO 97, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. El Congreso del Estado tendrá un plazo no mayor a 120 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a las leyes que correspondan de conformidad con la Ley General que expida el Congreso de la Unión, en tanto se continuará aplicando supletoriamente la legislación vigente en la materia, en lo que no se oponga al presente Decreto.
-
-TERCERO. El Ejecutivo del Estado dentro del término de 120 días posteriores a la entrada en vigor del presente Decreto deberá extinguir al Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, por lo que, corresponderá a la Contraloría Interna del Congreso del Estado; al Órgano Estatal de Control del Ejecutivo; al Órgano responsable de Control Interno del Poder Judicial; a los Órganos de Control de los Organismos Autónomos; al Órgano de Control Interno del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo; y, a los Órganos Internos de Control de los Entes Públicos Estatales y Municipales, asumir las funciones de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en los términos del presente Decreto y la legislación referida en el artículo Segundo Transitorio anterior.
-
-El Ejecutivo del Estado designará al Órgano Estatal de Control para que funja como liquidador del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales.
-
-Los actos jurídicos emitidos por el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, con anterioridad a que entre en vigor la legislación secundaria, surtirán todos sus efectos legales, por lo que seguirán atendiendo los asuntos hasta en tanto no se extinga al Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, en los términos establecidos en el artículo Tercero Transitorio del presente Decreto.
-
-En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las instituciones que asuman las funciones del extinto Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
-
-Los recursos materiales, así como los registros, padrones, plataformas y sistemas electrónicos del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales pasarán a formar parte del Órgano Estatal de Control del Ejecutivo, en los términos del presente Decreto y de la legislación secundaria que al efecto se emita.
-
-CUARTO. Los Comisionados del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, concluirán sus funciones al momento de la extinción del mismo, por lo que en un plazo no mayor a 45 días hábiles serán liquidados conforme a la legislación aplicable, respetándose en su totalidad los derechos adquiridos.
-
-QUINTO. Las personas servidoras públicas del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales concluirán sus funciones al momento de la extinción del mismo, por lo que en un plazo no mayor a 45 días hábiles serán liquidados conforme a la legislación aplicable, respetándose en su totalidad los derechos adquiridos, al momento de su contratación.
-
-SEXTO. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
-
-SÉPTIMO. El Titular del Ejecutivo del Estado a través de la Secretaría de Finanzas y Administración remitirá al Congreso del Estado en un plazo no mayor de 30 días hábiles, a la entrada en vigor del presente Decreto, las reformas y las reasignaciones presupuestales necesarias para su aprobación e implementación.
-
-P.O. 23 DE JULIO DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 164 POR EL QUE “SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 129, Y SE RECORREN LOS SUBSECUENTES EN SU ORDEN DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado, la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-TERCERO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
-
-CUARTO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para el cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
-
-QUINTO. El Gobierno del Estado, las autoridades del Poder Judicial y Legislativo, así como las autoridades municipales, garantizarán la inamovilidad de los trabajadores de base en su fuente de empleo, así como todos los derechos laborales y constitucionales; y, establecerán los instrumentos de capacitación y asesoría para garantizar la adaptación, aprendizaje y el uso adecuado de las tecnologías de la información y comunicación de las personas trabajadoras de los diferentes órdenes de gobierno, con el fin que de manera progresiva se implemente el gobierno digital.
-
-P.O. 8 DE OCTUBRE DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 176.- ARTÍCULO ÚNICO.- SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 1°; SE ADICIONAN UN PÁRRAFO TERCERO AL ARTÍCULO 2°, RECORRIÉNDOSE LOS DEMÁS EN SU ORDEN SUBSECUENTE; UN PÁRRAFO TERCERO AL ARTÍCULO 99, UN PÁRRAFO SÉPTIMO AL ARTÍCULO 100; LA FRACCIÓN XIII BIS AL ARTÍCULO 123; Y, UN PÁRRAFO TERCERO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES DEL ARTÍCULO 148 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. Una vez que sea aprobado el presente proyecto de Decreto, remítase a los 112 ayuntamientos y al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-TERCERO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 8 DE OCTUBRE DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 179.- ARTÍCULO ÚNICO.- SE REFORMAN, LAS FRACCIONES IX, XIV Y XXI AL ARTÍCULO 3°; PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 13; ARTÍCULO 18; ARTÍCULO 33; FRACCIÓN I, PÁRRAFOS SEGUNDO Y TERCERO DE LA FRACCIÓN V AL ARTÍCULO 36; ARTÍCULO 39; INCISO E), DE LA FRACCIÓN IV, FRACCIONES XXIV, XXV, XXXII, XXXIX Y XL DEL ARTÍCULO 44; LA DENOMINACIÓN DE LA SECCIÓN I, DEL CAPÍTULO III «DE LA ELECCIÓN DE LA GOBERNADORA O GOBERNADOR»; ARTÍCULO 47; ARTÍCULO 48; PÁRRAFO PRIMERO DEL ARTÍCULO 49; PÁRRAFO PRIMERO Y FRACCIÓN II DEL ARTÍCULO 50; ARTÍCULO 51; INCISOS A) Y B) DEL ARTÍCULO 52; ARTÍCULO 53; ARTÍCULO 54; ARTÍCULO 55; ARTÍCULO 56; PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 57; ARTÍCULO 58; ARTÍCULO 59; LA DENOMINACIÓN DE LA SECCIÓN II «DE LAS FACULTADES Y OBLIGACIONES DE LA GOBERNADORA O GOBERNADOR DEL ESTADO»; PÁRRAFO PRIMERO, FRACCIÓN VIII, Y PÁRRAFO SEGUNDO DE LA FRACCIÓN XII AL ARTÍCULO 60; PÁRRAFO PRIMERO Y FRACCIÓN VI DEL ARTÍCULO 61; PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 62; PÁRRAFO PRIMERO DEL ARTÍCULO 64; ARTÍCULO 65; ARTÍCULO 66; SEGUNDO PÁRRAFO DEL ARTÍCULO 84; PÁRRAFO QUINTO DEL ARTÍCULO 98 A; FRACCIONES II, III Y VI DEL ARTÍCULO 102; PÁRRAFO SEGUNDO DEL ARTÍCULO 108; PÁRRAFO SEGUNDO DEL INCISO H) DE LA FRACCIÓN V, DEL ARTÍCULO 123; ARTÍCULO 137; FRACCIÓN PRIMERA DEL ARTÍCULO 145; ARTÍCULO 146; ARTÍCULO 147; PRIMER PÁRRAFO DEL ARTÍCULO 148; PÁRRAFO SEGUNDO AL ARTÍCULO 155; ARTÍCULO 159; Y, FRACCIÓN V, DEL ARTÍCULO 164, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase el presente Decreto a 112 ayuntamientos y al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 2 DE DICIEMBRE DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 196 POR EL QUE "SE ADICIONA UN PÁRRAFO DÉCIMO PRIMERO AL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado y al Concejo Mayor de Cherán, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 6 DE MARZO DE 2026.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 249 POR EL QUE “SE REFORMAN LAS FRACCIONES I Y III DEL ARTÍCULO 23 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado y al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 6 DE MARZO DE 2026.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 256 POR EL QUE “SE ADICIONA UN PÁRRAFO AL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
-
-PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado y al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 16 DE MARZO DE 2026.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 411 POR EL QUE "SE ADICIONAN DOS PÁRRAFOS A LA FRACCIÓN XII DEL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
-
-PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado de Michoacán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-TERCERO. El Congreso del Estado, dentro de un plazo no mayor a ciento ochenta días, deberá armonizar el marco estatal en términos del presente Decreto.
