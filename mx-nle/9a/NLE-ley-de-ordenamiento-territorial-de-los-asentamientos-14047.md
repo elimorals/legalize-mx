@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ordenamiento-territorial-de-los-asentamientos-14047"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-03"
-last_updated: "2006-01-25"
+last_updated: "2006-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de marzo de 1999.
 
@@ -1963,9 +1963,11 @@ V.- Funerarios o cementerios; y,
 
 VI.- Campestres.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 149.
 
-En la autorización de construcciones para nuevas edificaciones en terrenos no comprendidos en fraccionamiento autorizado, se deberá ceder una superficie a favor del municipio conforme a lo siguiente:
+En construcciones para nuevas edificaciones en terrenos no comprendidos en fraccionamiento autorizado, se deberá ceder una superficie a favor del Municipio conforme a lo siguiente:
 
 a) Los predios habitacionales, cederán el 17% del área que resulte de restar al área total del predio, las áreas de afectación y vialidades, o 22-veintidós metros cuadrados por unidad de vivienda, lo que resulte mayor.
 
@@ -2307,7 +2309,9 @@ Los predios ubicados en área urbanizable o en áreas de crecimiento de un centr
 
 En los casos concretos, sólo se podrán establecer o cambiar los usos y destinos del suelo de predios, lotes y edificaciones, conforme a los planes y programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial, previa licencia de uso de suelo que otorgue la autoridad municipal competente de conformidad con la presente Ley.
 
-Para llevar a cabo un cambio de uso de suelo que no sea compatible con el de los autorizados en la zona en que se encuentre, la autoridad municipal deberá contar preferentemente con la opinión favorable de la mayoría de los propietarios o poseedores de los lotes o predios que se encuentren colindantes al lote en cuestión y deberán ser tres para cada lado, cinco enfrente y el lote posterior. Los consultados deberán tener uso habitacional. En todo caso, la autoridad competente deberá velar por que no se lesionen intereses o derechos jurídicos adquiridos con anterioridad.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Para llevar a cabo un cambio de uso de suelo que no sea compatible con el de los autorizados en la zona en que se encuentre, la autoridad municipal deberá contar con la opinión favorable de la mayoría de los propietarios o poseedores de los lotes o predios que reencuentren colindantes al lote en cuestión y deberán ser tres para cada lado, cinco enfrente y el lote posterior, los consultados deberán tener uso habitacional. En todo caso la autoridad competente deberá velar porque no se lesionen intereses o derechos jurídicos adquiridos con anterioridad.
 
 ###### Artículo 178.
 
@@ -3924,3 +3928,15 @@ P.O. 25 DE ENERO DE 2006.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Las normas, sistemas, procedimientos y sanciones establecidas por incumplimiento a lo dispuesto para las zonas de riesgo se aplicarán al día siguiente a la fecha en que se publique el Atlas de Riesgo en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2006.
+
+DECRETO Núm. 30
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2006.
+
+DECRETO Núm. 31
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Estado.
