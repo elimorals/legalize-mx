@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2005-12-31"
+last_updated: "2006-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -1195,6 +1195,10 @@ El contribuyente que tenga diversas sucursales en el territorio del Estado, podr
 
 Los contribuyentes que realicen pagos concentrados deberán tener un solo registro por la matriz y sus sucursales.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Cuando así lo autorice el Congreso del Estado, sin exceder el plazo que éste señale en su autorización, el Gobernador del Estado podrá afectar como fuente de pago o como garantía de un determinado financiamiento o empréstito, o de otro fin o gasto público especial, los ingresos que correspondan al Estado por concepto de impuesto sobre nómina y sus accesorios. Para tales efectos el Gobernador del Estado podrá constituir uno o más fideicomisos privados irrevocables que, ya sea por conducto de las oficinas recaudadoras de la Secretaría de Finanzas del Estado o de terceros autorizados, perciban el producto de la recaudación del Impuesto Sobre Nómina y lo apliquen de conformidad con los fines que se establezcan en dichos fideicomisos, sujetándose a las condiciones que para cada caso establezca el Congreso del Estado en su autorización.
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 69.
@@ -1560,3 +1564,13 @@ Las disposiciones del Título Segundo, Capítulo VII, que contiene lo referente 
 ###### ARTICULO TERCERO.
 
 La tasa prevista en el Artículo 67 del presente Decreto, se aplicará a razón del 1% mensual para el ejercicio fiscal del año calendario 2006.
+
+P.O. 28 DE DICIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Las referencias a los fideicomisos públicos en las leyes, decretos y demás normativa del Estado de Aguascalientes, se entenderán hechas exclusivamente a los fideicomisos a que se refiere el primer párrafo, de la Fracción III del Artículo 2°, de la Ley de Control de Entidades Paraestatales.
