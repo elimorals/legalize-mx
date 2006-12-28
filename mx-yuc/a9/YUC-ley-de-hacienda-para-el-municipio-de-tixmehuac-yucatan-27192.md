@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-tixmehuac-yucatan-27192"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2004-12-31"
+last_updated: "2006-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TIXMEHUAC, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE TIXMEHUAC, YUCATAN, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 31 de diciembre de 2002.
 
@@ -1373,8 +1375,26 @@ ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-D.O. 31 DE DICIEMBRE DE 2004.
+D. 31 DE DICIEMBRE DE 2004.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Decreto número 205, publicado en el Diario Oficial del Estado de Yucatán, el día 31 de Diciembre del año 2002, correspondiente a la Ley de Hacienda para el Municipio de Tixméhuac, Yucatán, de fecha treinta de diciembre del año dos mil dos.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Atribuciones conferidas al Síndico en la presente Ley, empezarán a regir a partir del próximo proceso electoral local y del inicio del ejercicio constitucional 2007-2010.
+
+###### ARTÍCULO TERCERO.
+
+Los sujetos obligados por esta Ley, deberán contar con la licencia de funcionamiento y tramitar su obtención ante la Tesorería Municipal en un plazo de cuatro meses, contados a partir de la entrada en vigor del presente ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley, no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
