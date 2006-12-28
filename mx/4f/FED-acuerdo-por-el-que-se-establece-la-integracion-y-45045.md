@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establece-la-integracion-y-45045"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-11"
-last_updated: "2003-06-11"
+last_updated: "2006-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45045&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-06-05"
 
 ACUERDO POR EL QUE SE ESTABLECE LA INTEGRACION Y FUNCIONAMIENTO DEL COMITE DE INFORMACION DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO TRANSITORIO DEL ACUERDO POR EL QUE SE ESTABLECE LA INTEGRACION Y FUNCIONAMIENTO DEL COMITE DE TRANSPARENCIA Y ACCESO A LA INFORMACION DE LA AUDITORIA SUPERIOR DE LA FEDERACION, PUBLICADO EN EL D.O.F. DE 28 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -336,3 +338,9 @@ SEGUNDO. El Comité de Información de la Auditoría Superior de la Federación,
 TERCERO. Con motivo de la difusión en medios electrónicos de las obligaciones de transparencia establecidas en el artículo 7o. de la Ley, por única vez el Comité sesionará mensualmente durante los meses de febrero a junio de 2003.
 
 México, D.F., a 5 de junio de 2003.- El Auditor Superior de la Federación, Arturo González de Aragón O.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 28 DE DICIEMBRE DE 2006.
+
+Unico. El presente Acuerdo por el que se establece la integración y funcionamiento del Comité de Transparencia y Acceso a la Información de la Auditoría Superior de la Federación, entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación, abrogando el Acuerdo por el que se establece la Integración y Funcionamiento del Comité de Información de la Auditoría Superior de la Federación de fecha 5 de junio de 2003.
