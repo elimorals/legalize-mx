@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-muna-yucatan-47960"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2006-01-03"
+last_updated: "2006-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -57,15 +57,19 @@ III.- LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATÁN:
 
 La presente ley es de orden público y tiene por objeto establecer las contribuciones y demás ingresos que percibirá la hacienda pública de Muna, Yucatán, así como regular las obligaciones y derechos que en materia administrativa y fiscal municipal tendrán las autoridades y los sujetos a que se refiere la propia ley.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 2.
 
-El Ayuntamiento de Muna, Yucatán, para cubrir los gastos de su administración y demás obligaciones a su cargo percibirá, por conducto de su respectiva hacienda, los ingresos por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones, aportaciones e ingresos extraordinarios que se establecen en esta ley y en la ley de Ingresos, en términos de lo dispuesto en la Constitución Política del Estado de Yucatán y en la Ley Orgánica de los Municipios del Estado de Yucatán.
+El Ayuntamiento de Muna, Yucatán, para cubrir los gastos de su administración y demás obligaciones a su cargo percibirá, por conducto de su respectiva hacienda, los ingresos por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones, aportaciones e ingresos extraordinarios que se establecen en esta Ley y en la Ley de Ingresos, en términos de lo dispuesto en la Constitución Política del Estado de Yucatán y en la Ley de Gobierno de los Municipios del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 3.
 
-Las Leyes de Ingresos tendrán una vigencia anual que iniciará el día uno de enero y concluirá al expirar el treinta y uno de diciembre de cada año. Por esta razón, el Ayuntamiento deberá presentar su iniciativa de Ley de Ingresos ante el Congreso del Estado, para su aprobación, a más tardar el día quince de diciembre de cada año. La Legislatura Local tendrá a su vez la obligación de efectuar los trámites necesarios para que dicha ley se publique a más tardar, el día treinta y uno de diciembre del año que corresponda.
+Las (sic) Ley de Ingresos del Municipio de Muna, Yucatán, tendrá una vigencia anual, que iniciará el día uno de enero y concluirá el treinta y uno de diciembre de cada ejercicio fiscal.
 
-Si por alguna circunstancia una iniciativa no fuere aprobada o publicada dentro de los plazos que señala este artículo, entonces continuará vigente la ley de Ingresos del ejercicio fiscal inmediato anterior.
+Cuando no se expida la Ley de Ingresos para el ejercicio fiscal que corresponda, continuará vigente la del ejercicio fiscal inmediato anterior.
 
 ### Capítulo II. De las Disposiciones Fiscales Municipales
 
@@ -101,9 +105,11 @@ La ignorancia de las leyes y de las demás disposiciones fiscales de observancia
 
 ### Capítulo III. De los Recursos
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 9.
 
-Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley Orgánica de los Municipios del Estado de Yucatán.
+Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 Cuando se trate de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación o en juicio de nulidad, de conformidad con lo dispuesto en el Código Fiscal de la Federación.
 
@@ -111,9 +117,11 @@ En este caso, los recursos que se promueven se tramitarán y resolverán en la f
 
 ### Capítulo IV. De las Garantías
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 10.
 
-Interpuesto en tiempo algún recurso, en los términos de la Ley Orgánica de los Municipios del Estado de Yucatán o del Código Fiscal de la Federación, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgue garantía suficiente a juicio de la autoridad.
+Interpuesto en tiempo algún recurso, en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán o del Código Fiscal de la Federación, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgue garantía suficiente a juicio de la autoridad.
 
 Las garantías que menciona este artículo serán estimadas por la autoridad como suficientes, siempre que cubran, además de las contribuciones o créditos actualizados, los accesorios (recargos y las multas) causados, así como lo que se generen en los doce meses siguientes a su otorgamiento.
 
@@ -137,15 +145,19 @@ En el procedimiento de constitución de estas garantías se observarán en cuant
 
 Para los efectos de la presente ley, son autoridades fiscales municipales:
 
-a).- El Ayuntamiento.
+a).- El Ayuntamiento;
 
-b).- El Presidente Municipal.
+b).- El Presidente Municipal;
 
-c).- El Tesorero Municipal.
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-d).- El Titular de la oficina recaudadora.
+c).- El Síndico;
 
-e).- El Titular de la oficina encargada de aplicar el procedimiento administrativo de ejecución.
+d).- El Tesorero Municipal;
+
+e).- El Titular de la Oficina Recaudadora, y
+
+f) El Titular de la Oficina Recaudadora encargada de aplicar el Procedimiento Administrativo de Ejecución.
 
 Corresponde al Tesorero Municipal, determinar, liquidar y recaudar los ingresos municipales y ejercer, en su caso, la facultad económico-coactiva. Estas facultades las ejercerá conjunta o separadamente con las autoridades mencionadas en los incisos d) y e) de este artículo según se trate de recaudación o ejecución, respectiva.
 
@@ -219,9 +231,11 @@ Las aportaciones son los recursos que la federación transfiere a las haciendas 
 
 INGRESOS EXTRAORDINARIOS
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 20.
 
-Los ingresos extraordinarios son aquellos distintos de los anteriores que las haciendas públicas municipales estiman percibir como partes integrantes del presupuesto municipal, como por ejemplo los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueran aprobados por la Legislatura del Estado en términos de lo dispuesto en la Ley Orgánica de los Municipios del Estado de Yucatán y en la Constitución Política del Estado de Yucatán. Los donativos también se considerarán ingresos extraordinarios.
+Los ingresos extraordinarios son aquellos distintos de los anteriores que las haciendas públicas municipales estiman percibir como partes integrantes del presupuesto municipal, como por ejemplo los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueran aprobados por la Legislatura del Estado en términos de lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán y en la Constitución Política del Estado de Yucatán. Los donativos también se considerarán ingresos extraordinarios.
 
 ### Capítulo VII. De los Créditos Fiscales
 
@@ -247,9 +261,11 @@ DE LOS SUJETOS OBLIGADOS Y DE LOS OBLIGADOS SOLIDARIOS
 
 Las personas domiciliadas dentro del Municipio de Muna, Yucatán o fuera de él que tuvieren bienes o celebren actos dentro del territorio del mismo, están obligados a contribuir para los gastos públicos del Municipio y a cumplir con las disposiciones administrativas y fiscales que se señalen en la presente Ley, en el Código Fiscal del Estado de Yucatán y en los Reglamentos Municipales que correspondan.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 24.
 
-Para los efectos de esta Ley se entenderá por territorio municipal, el área geográfica que, para cada uno de los Municipios del estado señala, la Ley Orgánica de los Municipios del Estado de Yucatán o bien el área geográfica que delimite el Congreso del Estado en cualquiera de los casos previstos en la propia Ley Orgánica.
+Para los efectos de esta Ley se entenderá por territorio municipal, el área geográfica que, para cada uno de los Municipios del estado señala, la Ley de Gobierno de los Municipios del Estado de Yucatán o, en su caso, el área geográfica que decrete el Congreso del Estado.
 
 ###### Artículo 25.
 
@@ -535,35 +551,41 @@ El impuesto predial se causará de acuerdo con la siguiente tarifa:
 
 Por predios urbanos y rústicos con o sin construcción.
 
-Límite Límite Cuota aplicable al limite inferior Factor para aplicar
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-Inferior superior al excedente del
+Límite Límite Cuota fija anual Factor para aplicar
+
+Inferior Superior al Excedente del
 
 límite inferior
 
-00.01 2,000.00 50 % de 1 salario mínimo vigente 0
+.0001 10,000.00 50 % de un
 
-2,000.01 4,000.00 60 % de 1 salario mínimo vigente 0
+salario mínimo 0.0025
 
-4,000.01 6,000.00 70 % de 1 salario mínimo vigente 0
+10,000.01 20,000.00 100 % de un
 
-6,000.01 8,000.00 80 % de 1 salario mínimo vigente 0
+salario mínimo 0.0025
 
-8,000.01 10,000.00 90 % de 1 salario mínimo vigente 0
+20,000.01 30,000.00 150 % de un
 
-10,000.01 15,000.00 100 % de 1 salario mínimo vigente 0
+salario mínimo 0.001
 
-15,000.01 20,000.00 110 % de 1 salario mínimo vigente 0
+30,000.01 40,000.00 200 % de un
 
-20,000.01 30,000.00 150 % de 1 salario mínimo vigente 0
+salario mínimo 0.001
 
-30,000.01 40,000.00 180 % de 1 salario mínimo vigente 0
+40,000.01 50,000.00 250 % de un
 
-40,000.01 50,000.00 200 % de 1 salario mínimo vigente 0
+salario mínimo 0.0013
 
-50,000.01 100,000.00 300 % de 1 salario mínimo vigente 0
+50,000.01 60,000.00 300 % de un
 
-100,000.01 En adelante 450 % de 1 salario mínimo vigente 0.003
+salario mínimo 0.0013
+
+70,000.01 En adelante 350 % de un
+
+salario mínimo 0.0013
 
 A la cantidad que exceda del límite inferior le será aplicado el factor determinado en esta tarifa y el resultado se incrementará con la cuota fija anual respectiva.
 
@@ -601,7 +623,9 @@ Cuando en un mismo inmueble se realicen simultáneamente actividades propias del
 
 La Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación de la declaración de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencia.
 
-En caso afirmativo se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley Orgánica de los Municipios del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+En caso afirmativo se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 Solo en los casos de que la estructura de algún inmueble no admita una cómoda delimitación o cuando no se presente la declaratoria a que se refiere el párrafo anterior, será la oficina de catastro municipal o estatal en caso de que el Municipio no cuente con este servicio, la que, tomando como base los datos físicos y materiales que objetivamente presente el inmueble, fije el porcentaje que corresponda a la superficie gravable, calcule su valor catastral y éste último servirá de base a la Tesorería Municipal, para la determinación del impuesto a pagar.
 
@@ -961,7 +985,9 @@ El pago de los derechos deberá hacerse previamente a la prestación del servici
 
 Los derechos que establece esta Ley se pagarán por los servicios que preste el Municipio en sus funciones de derecho público o por el uso o aprovechamiento de los bienes del dominio público del mismo.
 
-Cuando de conformidad con la Ley Orgánica de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta del mismo Municipio, se seguirán cobrando los derechos en los términos establecidos por esta Ley.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta del mismo Municipio, se seguirán cobrando los derechos en los términos establecidos por esta Ley.
 
 ###### Artículo 78.
 
@@ -1323,9 +1349,11 @@ III.- Toma industrial $ 30.00
 
 PAGO
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 102.
 
-El pago de este derecho deberá efectuarse en la caja de la Tesorería Municipal o en el domicilio de los contribuyentes a través de una persona que el Ayuntamiento designe para tal efecto.
+El pago de este derecho deberá efectuarse mensualmente en la caja de la Tesorería Municipal o en el domicilio de los contribuyentes a través de una persona que el Ayuntamiento designe para tal efecto.
 
 ###### Artículo 103.
 
@@ -1691,13 +1719,65 @@ Los fedatarios públicos y las personas que tengan funciones notariales, no auto
 
 Para el caso de que, alguna de las personas mencionadas en este artículo, viole lo dispuesto en el párrafo inmediato anterior, quien o quienes hubiesen incurrido en la violación, serán solidariamente responsables, con el contribuyente, del pago de los derechos que se hubiesen omitido.
 
-### Capítulo Único. DE LOS SUJETOS
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULO QUE LO INTEGRAN, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
-### Capítulo Único. De la Clasificación
+### Capítulo XII. De los Derechos por los Servicios de la Unidad de Acceso a la Información Pública
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+DE LOS SUJETOS
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 132-A.
+
+Son sujetos al pago de este derecho las personas físicas y morales que soliciten la reproducción de la información a que se refiere la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, de acuerdo al Manual de Procedimientos para la Atención a las Solicitudes de Acceso a la Información Pública del Municipio de Muna, Yucatán.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+OBJETO
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 132-B.
+
+Es objeto de este derecho los gastos que se generan por los servicios que presta la Unidad de Acceso a la Información Pública del H. Ayuntamiento de Muna, Yucatán.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+BASE
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 132-C.
+
+Es base para el cálculo del derecho, el costo de cada uno de los insumos que sirven para reproducir la información solicitada de acuerdo a la Ley de Acceso a la Información Pública para el Estado y Municipios de Yucatán.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+CUOTA
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 132.
+
+D.- La cuota que se pagara por los derechos mencionados en este Capítulo serán:
+
+I.- Por copia simple $2.00
+
+II.- Por copia certificada $10.00
+
+III.-Por Diskette $15.00
+
+IV.- Por Disco Compacto $30.00
+
+V.- Por DVD $50.00
+
+### Capítulo Único. DE LOS SUJETOS
 
 ## TÍTULO QUINTO. De las Contribuciones de Mejoras (sic)
 
-### Capítulo I. De las Multas Administrativas
+### Capítulo Único. De la Clasificación
 
 ###### Artículo 133.
 
@@ -1827,7 +1907,7 @@ El Tesorero Municipal previa solicitud por escrito del interesado y una vez real
 
 ## TÍTULO SEXTO. De los Productos (sic)
 
-### Capítulo I. Generalidades
+### Capítulo I. De las Multas Administrativas
 
 ###### Artículo 145.
 
@@ -1843,19 +1923,25 @@ IV.- Por los daños que sufrieron las vías públicas o los bienes del patrimoni
 
 DE LOS ARRENDAMIENTOS Y LAS VENTAS
 
+> <small>(REFORMADO PRIMER PARRAFO, 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 146.
 
-Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Municipio se llevarán acabo conforme a la Ley Orgánica de los Municipios del Estado de Yucatán.
+Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Municipio se llevarán acabo (sic) conforme a la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
-El arrendamiento de bienes a que se refiere la fracción II del Artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente Municipal y el Secretario previa la aprobación del Cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar de pago.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
+El arrendamiento de bienes a que se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente Municipal y el Síndico previa la aprobación del Cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar de pago.
 
 Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párrafo anterior.
 
 DE LA EXPLOTACIÓN
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 147.
 
-Los bienes muebles e inmuebles propiedad del Municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de la Ley Orgánica de los Municipios del Estado de Yucatán.
+Los bienes muebles e inmuebles propiedad del Municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 DEL REMATE DE BIENES MOSTRENCOS O ABANDONADOS
 
@@ -1885,7 +1971,7 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ## TÍTULO SÉPTIMO. APROVECHAMIENTOS
 
-### Capítulo II. Infracciones y Sanciones de los Responsables
+### Capítulo I. Generalidades
 
 ###### Artículo 153.
 
@@ -1962,6 +2048,8 @@ Para el caso de que los ingresos por gastos de ejecución, fueren generados en e
 .45 Empleados del Departamento Generados.
 
 ## TÍTULO NOVENO. INFRACCIONES Y MULTAS
+
+### Capítulo II. Infracciones y Sanciones de los Responsables
 
 ###### Artículo 159.
 
@@ -2046,3 +2134,11 @@ OFICIAL MAYOR
 Q.I. RAÚL ARCEO ALONZO
 
 Quienes firman por la ausencia temporal del C. Gobernador del Estado, de conformidad a lo dispuesto por el artículo 25 de la Ley Orgánica de la Administración Pública del Estadio de Yucatán.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 28 DE DICIEMBRE DE 2006.
+
+###### ARTICULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
