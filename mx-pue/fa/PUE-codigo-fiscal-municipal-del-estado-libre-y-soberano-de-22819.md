@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-municipal-del-estado-libre-y-soberano-de-22819"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-05"
-last_updated: "2001-12-05"
+last_updated: "2006-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 5 de diciembre de 2001.
 
@@ -239,7 +239,9 @@ La ignorancia de las leyes, reglamentos y demás disposiciones de observancia ge
 
 En los términos fijados en días, por las disposiciones legales, se computarán solamente los días hábiles, considerándose así aquéllos en que se encuentren abiertas al público las oficinas, durante el horario de 8:00 a 15:30 horas. En los casos en que las oficinas del Municipio tengan un horario de atención distinto, el Cabildo acordará la habilitación de las horas que correspondan, al inicio del ejercicio. Asimismo, las autoridades fiscales que correspondan podrán habilitar los días y las horas inhábiles para la práctica de diligencias. En los términos fijados en periodos y aquéllos en que se señala una fecha para su extinción, se comprenderán para su cómputo todos los días.
 
-En los plazos fijados en días, no se contarán los sábados, los domingos ni el 1o. de enero, el 5 de febrero, el 21 de marzo, el 1o. y el 5 de mayo, el 16 de septiembre, el 20 de noviembre, el 1o. de diciembre de cada 6 años, cuando corresponda la transmisión del Poder Ejecutivo Federal, 25 de diciembre y los que señale y dé a conocer el Presidente Municipal.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1 de enero, el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; el 1 y el 5 de mayo; el 16 de septiembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; el 1 de diciembre de cada seis años, cuando corresponda la transmisión del Poder Ejecutivo Federal; el 25 de diciembre; los que determinen las leyes federales y locales, en el caso de elecciones ordinarias, para efectuar la jornada electoral, y los que señale y dé a conocer el Presidente Municipal.
 
 Tampoco se contarán en dichos plazos, los días en que el personal del Municipio goce de vacaciones generales, excepto cuando se trate de plazos para presentación de declaraciones y pago de contribuciones exclusivamente, en cuyos casos esos días se considerarán hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
 
@@ -449,9 +451,13 @@ Transcurrido el plazo señalado, sin que se obtenga el pago o se demuestre cualq
 
 El pago de las contribuciones y de sus accesorios se realizará en la Tesorería del Municipio o en sus oficinas autorizadas, de acuerdo al domicilio fiscal del contribuyente, en las formas autorizadas por las autoridades fiscales.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 33.
 
-Los contribuyentes deberán pagar recargos por concepto de indemnización al fisco municipal por la falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones actualizadas por el periodo a que se refiere el párrafo siguiente, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos el periodo de actualización de la contribución de que se trate. La tasa de recargos para cada uno de los meses de mora, será la que resulte de incrementar el 50% a la que mediante Ley fije anualmente el Congreso de la Unión.
+Los contribuyentes deberán pagar recargos por concepto de indemnización al fisco municipal por la falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones actualizadas por el periodo a que se refiere el párrafo siguiente, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos el periodo de actualización de la contribución deque (sic) se trate. La tasa de recargos para cada uno de los meses de mora, será la que se fije en la Ley de Ingresos del Municipio, en su caso, la equivalente al 1%.
+
+En los casos de pago de plazas de créditos fiscales, ya sea diferido o en parcialidades, se causarán recargos a la tasa que se fije en la Ley de Ingresos del Municipio, o en su caso la del 1.5% mensual sobre el saldo insoluto durante el Ejercicio Fiscal correspondiente.
 
 Los recargos se causarán por cada mes o fracción que transcurra, a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
@@ -462,8 +468,6 @@ Cuando el pago hubiera sido menor al que corresponda, los recargos se computará
 Cuando el contribuyente pague en forma espontánea los créditos omitidos y los recargos, dichos recargos no excederán de los causados durante un año.
 
 Cuando el contribuyente deba pagar recargos o las autoridades fiscales intereses, la tasa aplicable en el mismo periodo mensual o fracción de éste, será siempre la que se encuentre vigente el primer día del mes o fracción de que se trate calculada conforme a este artículo, independientemente de que dentro de dicho periodo las tasas de recargos o de interés varíen.
-
-En los casos en que la tasa de recargos que deba aplicarse en el mes no haya sido publicada, se aplicará y tomará para el cálculo al que se refiere este artículo, la última tasa publicada por la Secretaría de Hacienda y Crédito Público.
 
 ###### Artículo 34.
 
@@ -1500,3 +1504,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Código.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los veintidós días del mes de noviembre de dos mil uno.- Diputado Presidente.- MARTÍN FUENTES MORALES.- Rúbrica.- Diputado Vicepresidente.- IGNACIO SERGIO TÉLLEZ OROZCO.- Rúbrica.- Diputado Secretario.- ENRIQUE GUEVARA MONTIEL.- Rúbrica.- Diputado Secretario.- JULIO LEOPOLDO DE LARA VALERA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintisiete días del mes de noviembre del año dos mil uno.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO HÉCTOR JIMÉNEZ Y MENESES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto por el presente Decreto.
