@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2006-12-27"
+last_updated: "2006-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE DICIEMBRE DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1735,7 +1735,7 @@ VII. Publicar anualmente en la Gaceta del Gobierno una relación de las asociaci
 
 ### CAPITULO CUARTO. De la información ambiental
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 3.
 
@@ -2427,7 +2427,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 10.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO QUINTO. De los prestadores de servicios ambientales
 
@@ -2785,7 +2785,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 117.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
@@ -4345,19 +4345,23 @@ II. Que se cuente con transporte seguro, eficiente y de calidad.
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2002)</small>
 
 II. La Secretaría de Comunicaciones a quien corresponden las atribuciones relativas a las comunicaciones de jurisdicción local;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-III. La Secretaría de Transporte, a quien corresponden las atribuciones relativas al transporte público, de uso particular y comercial;
+III. La Secretaría de Transporte, a quien corresponden las atribuciones relativas al transporte público y mixto;
 
-IV. La Junta de Caminos del Estado de México, que tendrá a su cargo las atribuciones que le confiere este Libro en materia de infraestructura vial primaria libre de peaje;
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-V. El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, al que corresponden las atribuciones que le confiere este Libro en materia de infraestructura vial primaria de cuota;
+IV. La Secretaría de Finanzas, a quien corresponde las atribuciones relativas al transporte de carga, de uso particular y comercial;
 
-VI. Los municipios, que tendrán a su cargo las facultades relativas a la infraestructura vial local.
+V. La Junta de Caminos del Estado de México, que tendrá a su cargo las atribuciones que le confiere este Libro en materia de infraestructura vial primaria libre de peaje;
+
+VI. El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, al que corresponden las atribuciones que le confiere este Libro en materia de infraestructura vial primaria de cuota;
+
+VII. Los municipios, que tendrán a su cargo las facultades relativas a la infraestructura vial local.
 
 ## TITULO OCTAVO. De la vigilancia
 
@@ -4517,6 +4521,8 @@ III. Cubrir los daños que ocasionen a la infraestructura vial.
 
 ### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 7.
 
 18.- La Junta de Caminos del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la planeación, programación, presupuestación, ejecución, conservación, mantenimiento y administración de la infraestructura vial primaria libre de peaje.
@@ -4651,15 +4657,17 @@ V. De uso comercial, que es el destinado al servicio particular de carga de un e
 
 En la normatividad reglamentaria respectiva podrán establecerse otras modalidades que esta clase de servicios requieran.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 7.
 
 25.- La Secretaría de Transporte expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos que transiten por la infraestructura vial.
 
-Corresponde a la Secretaría de Transporte matricular los vehículos destinados al transporte de pasajeros, de carga y mixto, así como al de uso particular y uso comercial, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
+Corresponde a la Secretaría de Transporte matricular los vehículos destinados al transporte de pasajeros y mixto, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
 
-Tratándose de transporte de uso particular y comercial, en tanto se expiden las placas y documentos a que se refiere el párrafo anterior, la Secretaría de Transporte podrá otorgar permisos provisionales.
+Corresponde a la Secretaría de Finanzas matricular los vehículos destinados al transporte de carga, de uso particular y comercial, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
+
+Tratándose de transporte de uso particular y comercial, en tanto se expiden las placas y documentos a que se refiere el párrafo anterior, la Secretaría de Finanzas podrá otorgar permisos provisionales.
 
 ###### Artículo 7.
 
@@ -4689,9 +4697,9 @@ d) Otorgar un servicio eficiente y un trato amable a los usuarios.
 
 I. Contar con el equipo de seguridad y accesorios necesarios de acuerdo al tipo de vehículo que se trate;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-II. Tramitar ante la Secretaría de Transporte los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo;
+II. Tramitar ante la Secretaría de Finanzas los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo;
 
 III. Responder por los daños y perjuicios causados a terceros y a la infraestructura vial por el uso del vehículo;
 
@@ -4707,7 +4715,7 @@ b) Utilizar vehículos que reúnan las condiciones de peso, dimensión, capacida
 
 ###### Artículo 7.
 
-28.- El transporte de pasajeros colectivo, de alta capacidad e individual, así como el mixto, constituye un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o través de personas físicas o sociedades mercantiles constituidas conforme a las leyes mexicanas, mediante concesiones, que se otorguen en términos del presente Libro.
+28.- El transporte de pasajeros colectivo, de alta capacidad e individual, así como el mixto y demás modalidades previstas en el Reglamento del Transporte Público y Servicios Conexos del Estado de México, constituye un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o través de concesiones, que se otorguen en términos del presente Libro y de dicho Reglamento.
 
 En caso de concurrencia de dos o más personas físicas o morales para obtener concesiones, el otorgamiento se hará a quienes garanticen un mejor servicio en razón de las condiciones de seguridad, higiene y comodidad de los vehículos, mejor equipo e instalaciones, así como de la eficiencia y buen trato del personal con los usuarios.
 
@@ -4791,9 +4799,9 @@ II. Prestar el servicio obligatoriamente cuando lo requieran las secretarías de
 
 III. Vigilar que sus conductores y personal relacionado con el servicio cumpla con las disposiciones legales en materia de infraestructura vial y transporte;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-IV. Proporcionar en todo tiempo a la Secretaría de Comunicaciones o a la de Transporte los datos, informes y documentos que le sean solicitados relacionados con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
+IV. Proporcionar en todo tiempo a las secretarías de Comunicaciones, de Transporte o de Finanzas, en su caso, los datos informes y documentos que le sean solicitados relacionados con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
@@ -4823,9 +4831,9 @@ XIII. Cumplir con la cromática y demás elementos de identificación de los veh
 
 XIV. Abstenerse de realizar actos que impliquen competencia desleal respecto de otros concesionarios o permisionarios;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-XV. Obtener autorización previa de la secretarías de Comunicaciones o de Transporte para la cesión de derechos derivados de la concesión o permiso, así como para la constitución de hipoteca o demás garantías sobre los derechos de la concesión o permiso y los bienes destinados a la prestación del servicio;
+XV. Obtener autorización previa de las secretarías de Comunicaciones, de Transporte o de Finanzas, en su caso, para la cesión de derechos derivados de la concesión o permiso, así como para la constitución de hipoteca o demás garantías sobre los derechos de la concesión o permiso y los bienes destinados a la prestación del servicio;
 
 XVI. Cooperar con el Estado para el mantenimiento de los caminos, calzadas, avenidas y calles por donde transiten;
 
@@ -10047,13 +10055,13 @@ II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o 
 
 III. Aquellos proveedores que, conforme al Registro que para tal efecto lleve la Contraloría, se encuentren en situación de incumplimiento respecto de otro u otros contratos de Proyecto o en términos de los Libros Décimo Segundo y Décimo Tercero de este Código, siempre y cuando el incumplimiento pudiere ocasionar la rescisión de dicho Contrato o que constantemente tenga un desempeño no deseable;
 
-IV. Aquellas que estén sujetas a concurso de acreedores;
+IV. Aquéllas que estén sujetas a concurso de acreedores;
 
 V. Aquellas que ya participen o cuyas afiliadas, subsidiarias o matrices ya participen en la licitación que corresponda;
 
 VI. Las que pretendan participar en un procedimiento de adjudicación cuando hayan realizado, se encuentren realizando o las personas que participaron en la elaboración de sus ofertas se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, trabajos de análisis, preparación de especificaciones, presupuesto o la elaboración de cualquier documento vinculado con el Proyecto materia de la licitación o invitación en que estén interesadas en participar. Tampoco se recibirán propuestas de aquellas personas que reciban directamente, o a través de las personas que participan con ellos en la elaboración de su oferta, información confidencial o privilegiada respecto del Proyecto materia de la licitación o invitación en la que pretendan participar;
 
-VII. Aquéllas que por sí o a través de empresas que formen parte del mismo grupo empresarial pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte;
+VII. Aquellas que por sí o a través de empresas que formen parte del mismo grupo empresarial pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte;
 
 VIII. Las que celebren contratos sobre la materia regulada por este Libro sin estar facultadas para hacer uso de derechos de propiedad intelectual que se hayan especificado como necesarios para el Proyecto;
 
@@ -10570,3 +10578,17 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Las autoridades dispondrán de un plazo de 90 días a partir del inicio de la vigencia del presente decreto para implementar el sistema electrónico correspondiente.
+
+G.G. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día uno de enero del año 2007.
+
+TERCERO.- Las reformas relativas a los artículos 91 Bis y 97 B del Código Financiero del Estado de México y Municipios, así como las correspondientes a los artículos Segundo y Tercero del presente Decreto entrarán en vigor el primero de febrero de 2007.
+
+CUARTO.- Las Secretarías de Comunicaciones, de Finanzas y de Transporte, proveerán lo necesario para el cumplimiento de los artículos segundo y tercero del presente Decreto.
+
+QUINTO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor de las reformas relativas a los artículos 91 Bis y 97 B del Código Financiero del Estado de México y Municipios, así como las correspondientes a los artículos segundo y tercero del presente Decreto en las unidades administrativas de la Secretaría de Transportes, se tramitarán y resolverán, según corresponda, por las unidades administrativas que, en su caso, las sustituyan conforme a la estructura organizada y a este Decreto.
+
+SEXTO.- Por acuerdo de los integrantes de las Comisiones Legislativas, se determinó solicitar a la Junta de Coordinación Política de la "LVI" Legislatura, la creación de una comisión especial que le dé seguimiento el Fideicomiso a que hace referencia el artículo Cuarto del Presente Decreto, así como al Ejecutivo Estatal, para que por conducto de la Secretaría de Finanzas, informe a la legislatura, sobre las modificaciones que, en su caso, se efectúen al Fideicomiso autorizado en el Decreto N° 135 publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, el 16 de junio del año 2005.
