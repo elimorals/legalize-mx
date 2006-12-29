@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2004-12-31"
+last_updated: "2006-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -1543,11 +1543,11 @@ Cuando los ayuntamientos tengan contratado seguro por la pérdida o los daños c
 
 ### CAPITULO DECIMO SEGUNDO. Desarrollo Urbano
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 131.
 
-El Congreso del Estado, a propuesta de los Ayuntamientos, aprobará las cuotas y tasas por los servicios que, en materia de Desarrollo Urbano, Catastro y Bomberos presten los Ayuntamientos.
+El Congreso del Estado, a propuesta de los Ayuntamientos, aprobará las cuotas y tasas por los servicios que, en materia de Desarrollo Urbano, Protección Civil, Catastro y Bomberos presten los Ayuntamientos.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1599,11 +1599,15 @@ Por la expedición del documento que contenga la enajenación de inmuebles que r
 
 Los dueños o poseedores de los fraccionamientos ilegales pagarán, en el procedimiento de regularización de los mismos, por los servicios señalados en este Capítulo, un derecho adicional conforme a la tasa que apruebe el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 136 BIS.- Por los servicios que se presten en materia de bomberos, se causarán los derechos conforme a la siguiente base:
+ARTÍCULO 136 BIS.- Por los servicios que se presten en materia de protección civil y bomberos, se causarán los derechos conforme a la siguiente base:
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 I.- Por la expedición de constancia de zonificación.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 II.- Por los servicios que se presten por los cuerpos de bomberos, en relación con los conceptos que adelante se indican:
 
@@ -1689,9 +1693,15 @@ I) Por traslados en servicios de ambulancias:
 
 2.- Fuera de la ciudad. Previa elaboración de estudio socioeconómico,
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
 III.- Por la expedición de certificaciones de número oficial.
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
 IV.- Por la expedición de certificados de seguridad, en los términos de los artículos 35, inciso g) y 38, inciso e) del reglamento de la Ley Federal de Armas de Fuego y Explosivos.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 V.- Por la autorización para la fusión, subdivisión o relotificación de terrenos:
 
@@ -1701,7 +1711,29 @@ B) Por la subdivisión de predios, por cada lote resultante de la subdivisión; 
 
 C) Por relotificación, por cada lote.
 
-VI.- Por la expedición de los certificados a que se refiere el artículo 170 de la Ley de Desarrollo Urbano para el Estado de Sonora, en virtud del cual se haga constar el cumplimiento de lo dispuesto en las licencias respectivas.
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+VI.- Por la utilización de insumos especializados y materiales especializados en el control y extinción de incendios, así como en la atención de emergencias ocasionadas por sustancias y residuos peligrosos.
+
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+VII.- Por la autorización de diagnóstico de riesgo en materia de protección civil que deberán presentar las personas que pretendan construir los siguientes inmuebles, que por su uso y destino concentren o reciban una afluencia masiva de personas o bien representen un riesgo de daños para la población:
+
+a).- Edificios departamentales de hasta cuatro unidades de vivienda.
+
+b).- Internados o casas de asistencia que sirvan como habitación colectiva para un número de hasta veinte personas.
+
+c) Dispensarios y consultorios médico (sic) y capillas de velación.
+
+d).- Lienzos charros.
+
+e).- Rastros de semovientes, aves y empacadoras.
+
+f).- Estacionamientos.
+
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+VIII.- Por la expedición de las constancias a que se refiere el artículo 124 de la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de Sonora.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1909,7 +1941,7 @@ W).- Abarrotes.
 
 Deberá considerarse el caso de expedición de anuencias municipales por cambio de domicilio.
 
-lI.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
+Il.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
 
 A).- Fiestas sociales o familiares,
 
@@ -2832,3 +2864,9 @@ De 500 a 750 cm 3 $ 36.00
 De 751 a 1000 cm 3 $ 68.00
 
 De 1001 en adelante $ 103.00
+
+B.O. 29 DE DICIEMBRE DE 2006.
+
+Artículo Primero.- El presente decreto entrará en vigor a partir del 1? (sic) de enero de 2007, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Dentro de los treinta días siguientes a la entrada en vigor de esta Ley, el Ejecutivo Estatal deberá emitir las disposiciones administrativas correspondientes que contemplen y regulen el Registro Único de Personas Acreditadas (RUPA) a que se refiere este Decreto.
