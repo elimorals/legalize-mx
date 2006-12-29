@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-catastro-municipal-del-estado-de-guerrero-numero-676-51
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2005-12-27"
+last_updated: "2006-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -220,6 +220,18 @@ II.- Apoyar a las Direcciones o Áreas de Catastro de los Ayuntamientos de la En
 III.- Unificar los criterios y lineamientos de valuación inmobiliaria a (sic) conforme a las disposiciones de la presente Ley y su Reglamento, y
 
 IV.- Ejercer las atribuciones técnicas, administrativas y normativas cuando los Ayuntamientos celebren convenios de Coordinación o Colaboración con el Gobierno del Estado, para que los Ayuntamientos realicen con mayor eficiencia el cobro y administración del impuesto predial.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 5
+
+BIS I.- El Gobierno del Estado a través de (sic) Secretaría de Fianzas y Administración y de la Coordinación General de Catastro, podrá realizar en el territorio de la Entidad, por iniciativa propia o de manera conjunta con los ayuntamientos municipales, trabajos de elaboración y actualización de cartografía, de programas informáticos para la operación de cartografía digital y de software para la recaudación y control de ingresos que realice cada uno de los municipios, por concepto de impuesto predial.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 5
+
+BIS II.- Los Ayuntamientos municipales podrán solicitar al Gobierno del Estado a través de la Secretaría de Finanzas y Administración y de la Coordinación General de Catastro, material cartográfico y sistemas informáticos, con la finalidad de eficientar la actividad catastral y la administración del impuesto predial.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -868,5 +880,15 @@ El presente Decreto entrará en vigor a partir del 1 de enero del año 2006.
 Los Ayuntamientos para efectos de llevar a cabo la reevaluación catastral masiva de la propiedad inmueble en sus municipios, la aplicará una vez que el Honorable Congreso del Estado haya autorizado las Tablas de Valores Unitarios de Suelo y Construcción catastrales, surtiendo sus efectos legales de notificación a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del primero de enero del año dos mil siete.
+
+###### ARTÍCULO SEGUNDO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
