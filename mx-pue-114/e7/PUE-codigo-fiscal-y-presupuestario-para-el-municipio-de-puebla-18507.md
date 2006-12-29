@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2006-06-14"
+last_updated: "2006-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -497,17 +497,45 @@ IV. El Tesorero, y los titulares de las siguientes unidades administrativas que 
 
 a) El Director de Ingresos Municipal.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-b) El Director de Catastro.
+b) El Jefe del Departamento de Ejecución u Oficina Ejecutora.
 
-c) El Jefe del Departamento de Ejecución u Oficina Ejecutora.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+c) El Director de Catastro.
 
-d) El Jefe del Departamento de Registro y Fiscalización.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-e) El Jefe de la Oficina Jurídica.
+d) El Jefe del Departamento del Impuesto Sobre Adquisición de Bienes Inmuebles.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+e) El Jefe del Departamento del Impuesto Predial.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+f) El Titular del Sistema Municipal de Registro y Fiscalización.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+g) El Titular del área de Padrón de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+h) El Titular de cada área de Coordinación Operativa de Comercios Establecidos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+i) El Titular de cada área de Coordinación Operativa de Vía Pública.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+j) El Titular de cada área de Coordinación Operativa de Espectáculos Públicos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+k) El Director Jurídico de la Tesorería Municipal.
 
 V. Los demás servidores públicos a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
 
@@ -801,9 +829,9 @@ Cuando el pago hubiere sido menor al que corresponda, los recargos se calculará
 
 Cuando el contribuyente pague en forma espontánea los créditos omitidos, los recargos que se causen por dicho crédito, no excederán de los que resulten de aplicar la suma de la tasa de los doce meses anteriores a dichos créditos.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-Lo previsto en el párrafo anterior será aplicable en el caso de que el pago lo realicen los retenedores.
+Lo previsto en el párrafo anterior no será aplicable en el caso de que el pago lo realicen los retenedores.
 
 ###### Artículo 44.
 
@@ -1061,71 +1089,255 @@ Las autoridades fiscales, están obligadas a comprobar que los contribuyentes o 
 
 La determinación de los créditos fiscales y de las bases para su liquidación, su fijación en cantidad líquida, su percepción y cobro, corresponderá a la Tesorería o a los organismos públicos descentralizados si es que así lo establece el decreto de creación de estos últimos.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 66 Bis.
 
-La Dirección de Catastro calculará la base de los impuestos Predial y Sobre Adquisición de Bienes Inmuebles, a través de la determinación del valor catastral de los inmuebles con apego a la zonificación catastral y los valores unitarios para suelo y construcción que resulten aplicables.
+La Dirección de Catastro calculará la base de los Impuestos Predial y Sobre Adquisición de Bienes Inmuebles, a través de la determinación del valor catastral de cada inmueble con apego a la zonificación catastral y los valores unitarios para suelo y construcción que resulten aplicables en la época de su causación.
 
-La valorización catastral se hará considerando separadamente el suelo y las construcciones o cualquier tipo de mejoras existentes.
+La valorización catastral se hará considerando separadamente el valor del suelo y valor de las construcciones o cualquier tipo de mejoras existentes.
 
-El Municipio se dividirá en zonas catastrales. Tratándose de predios urbanos las zonas se dividirán en manzanas y lotes. Si se-trata de predios rústicos, las regiones se dividirán en lotes.
+La Dirección de Catastro dividirá el territorio del Municipio, para efectos del presente artículo en zonas catastrales. Tratándose de predios urbanos las zonas se dividirán en colonias, manzanas y lotes. Si se trata de predios rústicos las zonas catastrales se dividirán en regiones y éstas se dividirán en lotes.
 
-La zonificación catastral y las tablas de valores unitarios de suelo y construcción, que serán aprobadas por el Ayuntamiento y sometidas anualmente a la consideración del Congreso se elaborarán conforme a las siguientes bases:
+La Dirección al obtener las zonas catastrales identificará colonias agrupadas con el fin de obtener una unidad uniforme de valuación colectiva.
 
-l. La determinación de la zonificación catastral en zonas urbanas se hará conforme al siguiente procedimiento:
+La zonificación catastral y las tablas de valores unitarios de suelo y construcción, que serán aprobadas por el Ayuntamiento y sometidas anualmente a la consideración del Congreso se elaborarán por la Dirección de Catastro conforme a las siguientes bases:
 
-Se demarcará el territorio en zonas catastrales, de acuerdo a las características de homogeneidad de las mismas, determinadas mediante verificaciones de campo, el uso de suelo actual y potencial, grado de urbanización, características de los servicios públicos, infraestructura y equipamiento, tipo y calidad de las construcciones, valores de mercado de la propiedad inmobiliaria, características de las colonias colindantes e índices socio-económicos de los habitantes;
+I. La determinación de la zonificación catastral en zonas urbanas se hará conforme al siguiente procedimiento:
+
+Se determinará una fecha de estudio que corresponderá a los meses de agosto y septiembre de cada ejercicio previo al de la aprobación de las zonas catastrales y las tablas de valores unitarios de suelo y construcción.
+
+Se demarcará el territorio en zonas catastrales, de acuerdo a las características de homogeneidad de las colonias, determinadas mediante verificaciones de campo, considerando:
+
+a. La naturaleza del terreno y del subsuelo.
+
+b. Tipo, estado, actividad y tendencias del desarrollo urbano.
+
+c. Características de lotificación y distribución de las áreas verdes.
+
+d. Uso de suelo actual y potencial.
+
+e. Topografía, hidrografía y geología.
+
+f. Densidad, tipo, calidad, condición, tamaño, edad y evolución de las edificaciones.
+
+g. Capacidad tipo y servicio del sistema vial.
+
+h. Características de los servicios públicos, infraestructura y equipamiento.
+
+i. Valores de mercado obtenidos de una muestra de la propiedad inmobiliaria.
+
+j. Características de las colonias colindantes.
+
+k. Índices socio-económicos de los habitantes.
 
 II. La determinación de la zonificación catastral en zonas rústicas se hará conforme al siguiente procedimiento:
 
-Se delimitará el territorio en zonas rústicas, de acuerdo a las características de las mismas, determinadas mediante las verificaciones de campo, las características de la zona; uso de suelo actual y potencial, profundidad del suelo, accesibilidad, distancia a la zona urbana más próxima, erosión, topografía, pedregosidad, régimen de propiedad y valores de mercado de la propiedad inmobiliaria por hectárea;
+Se determinará una fecha de estudio que corresponderá a los meses de agosto y septiembre de cada ejercicio previo al de la aprobación de las zonas catastrales y las tablas de valores unitarios de suelo y construcción.
 
-III. La determinación de valores unitarios de suelo se hará conforme al siguiente procedimiento:
+Se delimitará el territorio en zonas rústicas, de acuerdo a las características de las mismas, determinadas mediante las verificaciones de campo, considerando:
 
-Se delimitará de acuerdo a una zona de estudio, dentro de la cual se recopilarán antecedentes de valor de fuentes disponibles para la zona en cuestión, tomando en cuenta las características del terreno, fecha de operación u oferta y datos del informante, por su parte se inspeccionará la zona, calle por calle, comparando, combinando y ponderando los valores y demás factores observados, tomando en cuenta las características predominantes que influyen considerablemente en el valor; área, irregularidad, fondo, frente, pendiente, valores de demérito e incremento de acuerdo a sus características físicas o de ubicación y que influyan significativamente en la variación del valor unitario. Una vez realizado lo anterior, se determinará el valor unitario para dicha zona.
+a. La naturaleza del terreno y del subsuelo.
 
-El valor resultante será equiparable al valor de mercado.
+b. Topografía, hidrografía y geología.
 
-La representación de los valores unitarios se realizará en forma numérica y gráfica.
+c. Las características de la zona.
 
-En las zonas urbanas, la unidad de superficie que se tome para el avalúo de la tierra será el metro cuadrado.
+d. Uso de suelo actual y potencial.
 
-En las zonas rústicas, la unidad de superficie será, en todo caso, por hectárea o metro cuadrado cuando por su ubicación colinde con la traza de una carretera estatal o federal.
+e. Régimen de la tenencia de la tierra.
 
-La unidad de avalúo que se tome en consideración en las tablas de valores aplicables a construcciones será por metro cuadrado o metro cúbico; y
+f. Profundidad del suelo.
 
-IV. La determinación de valores unitarios de construcción se hará conforme al siguiente procedimiento:
+g. Accesibilidad.
 
-Se llevará a cabo una clasificación por tipo y calidad de construcción, determinando el valor unitario efectuando un estudio detallado de presupuesto; considerando el costo de mano de obra, materiales utilizados, instalaciones especiales, accesorios y obras complementarias de cada tipo y calidad de construcción clasificada, considerando factores de ajuste, tales como: depreciación; grado de conservación, edad, deterioro físico reparables e irreparables, obsolescencia funcional y obsolescencia económica.
+h. Distancia a la zona urbana más próxima.
 
-Los valores unitarios de mano de obra y materiales, equipamiento y uso de construcciones se analizarán a detalle dentro de los presupuestos de obtención del valor unitario de construcción.
+i. Erosión, topografía, pedregosidad, régimen de propiedad.
 
-Para efecto de este artículo se entenderá por:
+j. Valores de mercado obtenidos de una muestra de la propiedad inmobiliaria por hectárea.
 
-Equipamiento.- Al conjunto de instalaciones, construcciones y mobiliario destinado a dotar a una localidad de servicios educativos, culturales, deportivos, recreativos, de comercio, abasto, salud, asistencia, comunicaciones, trasportes, de administración pública y en general de satisfactores de necesidades colectivas.
+k. Índices socio-económicos de los habitantes.
 
-Índice Socioeconómico.- Al indicador de tendencia central que expresa la relación entre un grupo de habitantes y su capacidad adquisitiva.
+La Dirección de Catastro podrá utilizar una media conjetural como punto de posición, con el objeto de obtener el desvío de una observación, respecto de la media, a fin de identificar sus desvíos y utilizar la información resultante, aunada al resto de los elementos a que se refiere el presente artículo, en la zonificación catastral.
 
-Lote.- Al bien inmueble conformado por un terreno cuyos linderos forman un perímetro continuo.
+III. Con el objeto de determinar el valor unitario de suelo y construcción, la Dirección de Catastro determinará una fecha de estudio que corresponderá a los meses de agosto y septiembre de cada ejercicio previo al de la aprobación de las zonas catastrales y las tablas de valores unitarios de suelo y construcción.
 
-Manzana.- El área territorial delimitada por vías públicas o límites naturales o semejantes, la cual está dividida en lotes de terreno.
+Posteriormente la Dirección de Catastro identificará los insumos regulares que requiere una construcción promedio en cada zona catastral y obtendrá tanto la demanda derivada de cada insumo como su oferta, así como la forma en que éstos interactúan entre sí, incluso los efectos de la utilización de insumos complementarios y sustitutos y en particular la sustitución de tierra por capital y su repercusión en el precio de la tierra y la demanda de los insumos para la construcción.
 
-Predio.- El inmueble constituido por el suelo o por éste y las construcciones adheridas a él.
+IV. Con el objeto de determinar el valor unitario del suelo, la Dirección de Catastro además de lo previsto en la fracción III del presente artículo, procederá conforme a lo siguiente:
 
-Tabla de Valores.- Es el conjunto de elementos y valores unitarios aprobados por el Congreso para un ejercicio fiscal, contenidos en los planos de las zonas en que se divide el Municipio, respecto al valor del predio, así como la relación con las clasificaciones de construcción y demás elementos que deberán de tomarse en consideración para la valuación de los predios
+a. Utilizará como referencia territorial a las zonas catastrales obtenidas conforme a este artículo.
 
-Valor Catastral.- Es el valor administrativo referenciado en tablas que sirve de base para determinar los impuestos sobre la propiedad inmobiliaria que, considerado como indicador de la riqueza de los habitantes de un inmueble, es la consecuencia de un proceso técnico de valoración que tome en cuenta las características intrínsecas y extrínsecas de un predio, y se obtiene de aplicar para cada predio la operación aritmética consistente en multiplicar las unidades de construcción con las que cuente el predio, por el valor unitario de construcción que le corresponda de entre los decretados por el Congreso para cada ejercicio fiscal; adicionado con el producto que resulte de multiplicar el número de unidades de suelo con las que cuenta el predio, por el valor unitario de suelo que le corresponda de entre los decretados por el Congreso para cada ejercicio fiscal.
+b. Identificará la oferta del suelo en el Municipio y en cada zona catastral, así como los usos, destinos y uso potencial del mismo, para lo cual examinará también la oferta para un uso determinado ocurrida por el cambio de destino del suelo.
 
-Valor de mercado.- Es el resultado homologado de una investigación de mercado de bienes comparables al del estudio, donde imperan condiciones justas y equitativas entre la oferta y la demanda, lo que a la postre se traduce en un valor comercial, entendiéndose por éste la cantidad expresada en términos monetarios, mediante la cual se intercambiaría un bien en el mercado corriente de bienes entre un comprador y un vendedor que actúan sin presiones ni ventajas entre uno y otro, en un mercado abierto y competido, en las circunstancias prevalecientes a la fecha del avalúo y en un plazo razonable de exposición.
+c. Una vez conocida la oferta fija del suelo, determinará su demanda en el mercado de la construcción, considerando la ubicación, características productivas o usos potenciales del suelo, valores de demérito e incremento, relacionando el comportamiento de la demanda con el incremento o reducción de su precio.
 
-Uso de la construcción.- Son los fines particulares a los que se dedica la edificación de un predio determinado.
+Los valores de incremento serán considerados a partir de la localización, forma, topografía y tamaño de cada lote.
 
-Valor unitario.- Es el valor por unidad de superficie para terrenos y construcciones aprobado por el Congreso.
+- Dentro de la localización de los predios se considerará si se trata de predios en esquina, intermedios, en cabecera, manzaneros interiores o ubicados en callejones.
 
-Valor unitario de construcción.- Es el valor determinado por la Dirección de Catastro y aprobado por el Congreso, conforme a los parámetros a que se refiere la fracción IV de este artículo y que permite que el valor de una construcción sea obtenido a partir de la siguiente fórmula:
+- Dentro de la forma se considerará si ésta es preponderantemente regular o irregular.
 
-Vc=VUCxSC
+- Por su topografía se considerarán los lotes a nivel, escarpados hacia arriba o hacia abajo, accidentados o rugosos y hundidos.
+
+- Por su tamaño se considerará el tipo de lotes en atención a su frente, su fondo, y el área o superficie en planta de un lote.
+
+Los valores de demérito serán considerados a partir de la depreciación de las construcciones atendiendo a su deterioro físico reparable o irreparable, su obsolescencia funcional reparable o irreparable y a su obsolescencia económica.
+
+d. Identificará el precio de las construcciones realizadas en el Municipio para cada zona de estudio y obtendrá la demanda derivada y la demanda de mercado del suelo.
+
+Para efectos de este inciso, considerará los usos y destinos que se hayan autorizado preponderantemente en los predios de la zona y su infraestructura.
+
+e. Identificará la demanda de suelo para su especulación y la forma en que incide en el precio del mismo.
+
+f. Con base en la oferta fija y el comportamiento de la demanda obtendrá el valor resultante que será equiparable al valor de mercado.
+
+La representación de los valores unitarios de suelo y construcción se realizará en forma numérica y gráfica.
+
+En las zonas catastrales urbanas, la unidad de superficie que se tome para el avalúo de la tierra será el metro cuadrado.
+
+En las zonas catastrales rústicas, la unidad de superficie será, en todo caso, por hectárea o metro cuadrado cuando por su ubicación colinde con la traza de una carretera estatal o federal.
+
+La unidad de avalúo que se tome en consideración en las tablas de valores aplicables a construcciones será por metro cuadrado o metro cúbico.
+
+V. Con el objeto de determinar el valor unitario de construcción, la Dirección de Catastro además de lo previsto en la fracción III del presente artículo, procederá conforme a lo siguiente:
+
+a. Llevará a cabo una clasificación por tipo y calidad de construcción, para cada zona catastral obtenida conforme a este artículo.
+
+b. Considerará dentro de este rubro a los materiales utilizados en la edificación incluyendo instalaciones especiales, accesorios y obras complementarias de cada tipo y calidad de construcción clasificada.
+
+c. Analizará la productividad de los materiales, considerada a partir del volumen de productos que se obtienen por cada unidad de insumo y su interacción.
+
+d. Analizará el comportamiento de la curva de demanda de los insumos incluyendo la mano de obra, a partir de los cambios en la demanda de los productos, la demanda de insumos complementarios y sustitutos, las alteraciones en los precios de otros insumos y los cambios tecnológicos.
+
+En el caso concreto de la mano de obra, analizará además de los aspectos referidos para los demás insumos, los incrementos en la tasa salarial y su repercusión en la oferta, los ingresos del producto del trabajo, los cambios tecnológicos, los precios de la producción y la acumulación de capital en su relación con el producto marginal, la intensidad del uso del trabajo en el proceso de producción y su relación con la elasticidad de la demanda, así como la relación entre el tamaño de la población y la oferta de trabajo.
+
+e. Con base en la oferta y el comportamiento de la demanda obtendrá el valor resultante de los insumos excluyendo el valor del suelo. Para el caso de la construcción, el resultado será impactado considerando los factores que corresponden a la depreciación, grado de conservación, edad, deterioro físico reparable e irreparable, obsolescencia funcional y obsolescencia económica.
+
+VI. Una vez obtenida la información relacionada a los valores numéricos de suelo y de construcción para cada zona, la Dirección de Catastro, para la clasificación de las colonias, podrá utilizar medidas de posición con el objeto de obtener una medida de tendencia central o fragmentar la cantidad de datos en partes iguales, eliminando o no previamente los valores mínimos y máximos obtenidos.
+
+Para tal efecto la Dirección de Catastro podrá realizar cualquiera de las siguientes operaciones:
+
+a. Obtener la media aritmética con el objeto de formalizar el concepto intuitivo de punto de equilibrio de las observaciones, a través de la división de la suma de todos los datos de valores unitarios de suelo por una parte y los valores medios de construcción por tipo, por el número de ellos.
+
+El resultado proporcionará a la Dirección de Catastro el valor central del recorrido de la variable según la cantidad de observaciones, mismo que una vez obtenido, permitirá realizar una estratificación equitativa de cada zona, ubicando a cada colonia dentro del número de subagrupaciones catastrales necesarias para tal efecto.
+
+En su caso la Dirección de Catastro podrá obtener el número de variables diferentes, con el objeto de sumarlas y obtener la media de la suma que será la suma de sus respectivas medias.
+
+b. Determinar el valor que tiene una observación que divide la cantidad de observaciones en dos mitades iguales.
+
+Para tal efecto la Dirección atenderá a la ordenación de los datos, definiendo su posición de menor a mayor.
+
+c. Podrá obtener subagrupaciones dividiendo cada mitad de la mediana en dos, de tal manera que resulten partes iguales y así sucesivamente hasta obtener la agrupación de datos a partir de una proporción razonable o en su caso obtener otro dividendo que refleje datos más proporcionales atendiendo a las condiciones de cada subagrupación.
+
+Podrá obtener el valor de la variable con una frecuencia mayor.
+
+También podrá obtener la agrupación de los datos obtenidos de mayor a menor, distribuyéndolos conforme a una constante obtenida del análisis de los valores mínimos y máximos obtenidos y ubicando a cada colonia en dichas subagrupaciones conforme a los valores promedio obtenidos para cada una.
+
+VII. Una vez aprobadas las Tablas de Valores, serán utilizadas por la autoridad competente para el cálculo de la base de los impuestos sobre la propiedad inmobiliaria, aplicando para cada predio la operación aritmética consistente en multiplicar las unidades de construcción con las que cuente el predio, por el valor unitario de construcción que le corresponda de entre los decretados por el Congreso para cada ejercicio fiscal; adicionado con el producto que resulte de multiplicar el número de unidades de suelo con las que cuenta el predio, por el valor unitario de suelo que le corresponda de entre los decretados por el Congreso para cada ejercicio fiscal.
+
+El contribuyente podrá realizar ante la Dirección de Catastro las aclaraciones que considere procedentes, cuando considere que el resultado no corresponde a las características individualizadas de su propiedad, al diferenciarse sustancialmente de los resultados obtenidos a través de la investigación y aplicación de medidas de posición realizadas por la propia Dirección de Catastro, conforme a lo previsto en este artículo o cuando los datos de la clave catastral resulten erróneos.
+
+Las aclaraciones deberán ser solicitadas por el interesado, mediante escrito, dentro de los primeros 5 días hábiles siguientes a la publicación de las Tablas de Valores Unitarios de Suelo y Construcción y contendrán los siguientes requisitos:
+
+I.- Autoridad a la que se dirige;
+
+II.- Nombre y domicilio del propietario o poseedor;
+
+III.- Clave catastral del bien inmueble;
+
+IV.- Ubicación, colindancias, superficie y linderos del bien inmueble;
+
+V.- Los motivos de su aclaración.
+
+A la solicitud de aclaración respectiva deberán acompañarse los documentos que la fundamenten y acreditar la personalidad del interesado.
+
+Corresponde a la autoridad catastral resolver las aclaraciones en un término no mayor de diez días hábiles, contados a partir de la fecha de recepción de la solicitud.
+
+La promoción de una aclaración, no constituye un medio de defensa, forma parte del proceso de valuación e individualización del valor y suspende el término para promover el recurso de revisión.
+
+Si el contribuyente no opta por promover la aclaración, podrá promover el recurso de revisión en forma directa, pero no podrá argumentar errores en la individualización del predio respectivo.
+
+VIII. Para efectos de este artículo se entenderá por:
+
+a. DEMANDA DE MANO DE OBRA. Es la relación entre una tasa salarial y la cantidad de mano de obra que los productores (en este caso constructores) están dispuestos y en posibilidades de contratar, si se mantienen constantes otros factores.
+
+b. DEMANDA DE MERCADO. Es la suma de todas las cantidades demandadas de un bien o servicio en un periodo determinado.
+
+c. DEMANDA DE MERCADO DEL SUELO. La suma de las demandas de ese recurso en sus diferentes usos.
+
+d. DEMANDA DERIVADA. Demanda de insumos que depende de la demanda de los productos para cuya producción pueden usarse esos productos.
+
+e. DESTINOS. Los fines públicos previstos para determinadas zonas o centros de población.
+
+f. DETERIORO FÍSICO. Es, por un lado, la pérdida de valor por el uso en servicio; o por otro, la desintegración de una propiedad reproducible por las fuerzas de la naturaleza.
+
+g. EQUIPAMIENTO. Al conjunto de instalaciones, construcciones y mobiliario destinado a dotar a una localidad de servicios educativos, culturales, deportivos, recreativos, de comercio, abasto, salud, asistencia, comunicaciones, trasportes, de administración pública y en general de satisfactores de necesidades colectivas.
+
+h. ELASTICIDAD DE LA DEMANDA. Es el grado de respuesta de la cantidad demandada de un insumo a un cambio de su precio, con otras cosas constantes.
+
+i. ÍNDICE SOCIOECONÓMICO. Al indicador de tendencia central que expresa la relación entre un grupo de habitantes y su capacidad adquisitiva.
+
+j. INSUMO. Cualquier cosa proporcionada por la naturaleza o las generaciones precedentes que puede usarse directa o indirectamente para satisfacer las necesidades destinadas a la construcción.
+
+k. INSUMO COMPLEMENTARIO. Factores de producción que pueden usarse juntos para que se refuercen entre sí.
+
+I. INSUMO SUSTITUTO. Factores de producción que pueden usarse unos en lugar de otros.
+
+m. LOTE. Al bien inmueble conformado por un terreno cuyos linderos forman un perímetro continuo, delimitado física o legalmente.
+
+n. LOTE A NIVEL. Aquél cuya superficie se encuentra parcialmente a nivel medio de la calle en el frente del lote.
+
+ñ. LOTE ACCIDENTADO O RUGOSO. Aquél cuya superficie en su totalidad presenta depresiones o promontorios.
+
+o. LOTE ELEVADO. Aquél cuya superficie media está notoriamente horizontal y en un nivel superior con respecto al nivel de la calle en el frente del lote.
+
+p. LOTE EN CABECERA. Aquél que tiene por lo menos tres frentes en tres calles contiguas diferentes, dos de las cuales no forman esquina entre ellas.
+
+q. LOTE EN ESQUINA. Aquél que tiene frentes contiguos en las dos calles que forman la esquina de una manzana.
+
+r. LOTE ESCARPADO HACIA ABAJO. Aquél cuya superficie media tiene pendiente hacia abajo, con respecto al nivel de la calle en el frente del lote.
+
+s. LOTE ESCARPADO HACIA ARRIBA. Aquél cuya superficie media tiene pendiente hacia arriba, con respecto al nivel de la calle en el frente del lote.
+
+t. LOTE HUNDIDO. Aquél cuya superficie media está perceptiblemente horizontal y en un nivel inferior con respecto al nivel de la calle en el frente del lote.
+
+u. LOTE INTERMEDIO. Aquél que tiene frente a una sola calle o a un acceso legalmente garantizado.
+
+v. LOTE INTERIOR. Aquél que sólo tiene linderos con otros lotes.
+
+w. LOTE MANZANERO. Aquél que colinda con calles en todo su perímetro.
+
+x. MANZANA. El área territorial delimitada por vías públicas o límites naturales o semejantes, la cual está dividida en lotes de terreno.
+
+y. MEDIDAS DE POSICIÓN. Son aquellos valores numéricos que nos permiten o bien dar alguna medida de tendencia central, dividiendo el recorrido de la variable en dos, o bien fragmentar la cantidad de datos en partes iguales.
+
+z. OBSOLESCENCIA ECONÓMICA. Constituye la merma de la utilidad de las construcciones causada por diferentes fuerzas económicas.
+
+z.1. OBSOLESCENCIA FUNCIONAL. Es la pérdida de valor de una construcción debido al cambio de estilos, gustos, tecnología, necesidades y demandas.
+
+z.2. OFERTA DE MANO DE OBRA. Es la relación entre la tasa salarial y la cantidad de mano de obra que los trabajadores están dispuestos y en posibilidades de ofrecer, si se mantienen constantes otros factores.
+
+z.3. OFERTA DE MERCADO. Suma total de los que ofrecen en cada periodo, todos los productores de un producto determinado.
+
+z.4. PREDIO. El inmueble constituido por el suelo o por éste y las construcciones adheridas a él.
+
+z.5. TABLA DE VALORES. Es el conjunto de elementos y valores unitarios aprobados por el Congreso para un ejercicio fiscal, contenidos en los planos de las zonas en que se divide el Municipio, respecto al valor del predio, así como la relación con las clasificaciones de construcción y demás elementos que deberán de tomarse en consideración para la valuación de los predios.
+
+z.6. USOS. Los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población y su área de expansión.
+
+z.7. VALOR CATASTRAL. Es el valor administrativo referenciado en tablas que sirve de base para determinar los impuestos sobre la propiedad inmobiliaria que, considerado como indicador de la riqueza de los habitantes de un inmueble, es la consecuencia de un proceso técnico de valoración que tome en cuenta las características intrínsecas y extrínsecas de un predio, y se obtiene de aplicar para cada predio la operación aritmética consistente en multiplicar las unidades de construcción con las que cuente el predio, por el valor unitario de construcción que le corresponda de entre los decretados por el Congreso para cada ejercicio fiscal; adicionado con el producto que resulte de multiplicar el número de unidades de suelo con las que cuenta el predio, por el valor unitario de suelo que le corresponda de entre los decretados por el Congreso para cada ejercicio fiscal.
+
+z.8. VALOR DE MERCADO. Es el resultado homologado de una investigación de mercado de bienes comparables al del estudio, donde imperan condiciones justas y equitativas entre la oferta y la demanda, lo que a la postre se traduce en un valor comercial, entendiéndose por éste la cantidad expresada en términos monetarios, mediante la cual se intercambiaría un bien en el mercado corriente de bienes entre un comprador y un vendedor que actúan sin presiones ni ventajas entre uno y otro, en un mercado abierto y competido, en las circunstancias prevalecientes a la fecha del avalúo y en un plazo razonable de exposición.
+
+z.9. USO DE LA CONSTRUCCIÓN. Son los fines particulares a los que se dedica la edificación de un predio determinado.
+
+z.10. VALOR UNITARIO. Es el valor por unidad de superficie para terrenos y construcciones aprobado por el Congreso.
+
+z.11. VALOR UNITARIO DE CONSTRUCCIÓN. Es el valor determinado por la Dirección de Catastro y aprobado por el Congreso, conforme a los parámetros a que se refiere la fracción IV de este artículo y que permite que el valor de una construcción sea obtenido a partir de la siguiente fórmula:
+
+Vc = VUCxSC
 
 Donde:
 
@@ -1135,19 +1347,19 @@ VUC = Valor Unitario de Construcción.
 
 Sc = Superficie de construcción.
 
-Valor de demérito.- Es el resultado de la aplicación, bajo criterios técnicos, de coeficientes que reducen el valor unitario de un predio, a partir del análisis del tipo o clase de la tierra, calidad, ubicación, cercanía a vías de comunicación y centros de población, así como las condiciones hidrológicas, humedad, o cualquier otra circunstancia que pueda influir negativamente en el resultado de la valuación.
+z.12. VALOR DE DEMÉRITO. Es el resultado de la aplicación, bajo criterios técnicos, de coeficientes que reducen el valor unitario de un predio, a partir del análisis del tipo o clase de la tierra, calidad, ubicación, cercanía a vías de comunicación y centros de población, así como las condiciones hidrológicas, humedad, o cualquier otra circunstancia que pueda influir negativamente en el resultado de la valuación.
 
-Valor de incremento.- Es el resultado de la aplicación, bajo criterios técnicos, de coeficientes que incrementan el valor unitario de un predio, a partir del análisis del tipo o clase de la tierra, calidad, ubicación, cercanía a vías de comunicación y centros de población, así como las condiciones hidrológicas, humedad, o cualquier otra circunstancia que pueda influir positivamente en el resultado de la valuación.
+z.13. VALOR DE INCREMENTO. Es el resultado de la aplicación, bajo criterios técnicos, de coeficientes que incrementan el valor unitario de un predio, a partir del análisis del tipo o clase de la tierra, calidad, ubicación, cercanía a vías de comunicación y centros de población, así como las condiciones hidrológicas, humedad, o cualquier otra circunstancia que pueda influir positivamente en el resultado de la valuación.
 
-Valor unitario de mano de obra.- El costo de las erogaciones que implica la ejecución de una construcción por el pago de salarios reales al personal que intervine (sic) directamente en ella, incluyendo a quienes ejercen funciones de dirección, y que incluyen todas las prestaciones a cargo de un patrón.
+z.14. VALOR UNITARIO DE MANO DE OBRA. El costo de las erogaciones que implica la ejecución de una construcción por el pago de salarios reales al personal que interviene directamente en ella, considerando a quienes ejercen funciones de dirección, y que incluyen todas las prestaciones a cargo de un patrón.
 
-El salario real considera los salarios tabulados de cada categoría de trabajadores de acuerdo con la zona o región en que se ejecutan los trabajos, mientras que para la obtención del valor resultante para cada predio se considera el rendimiento, representado por la cantidad de trabajo que desarrolla el personal que interviene directamente en la ejecución de la construcción.
+El salario real considera los salarios tabulados de cada categoría de trabajadores, de acuerdo con la zona o región en que se ejecutan los trabajos, mientras que para la obtención del valor resultante para cada predio se considera el rendimiento, representado por la cantidad de trabajo que desarrolla el personal que interviene directamente en la ejecución de la construcción.
 
-Valor unitario de materiales.- Es el costo que implican los materiales en la ejecución de inmueble, obtenidos a partir de la base de presupuestos pormenorizados, a cuyo valor resultante es restada la depreciación correspondiente.
+z.15. VALOR UNITARIO DE MATERIALES. Es el costo que implican los materiales en la ejecución de un inmueble, obtenidos a partir de la base de presupuestos pormenorizados, a cuyo valor resultante es restada la depreciación correspondiente.
 
-Valor unitario de suelo.- Es el valor determinado por la Dirección de Catastro y aprobado por el Congreso, conforme a los parámetros a que se refiere la fracción II de este artículo y que permite que el valor de una construcción sea obtenido a partir de la siguiente fórmula:
+z.16. VALOR UNITARIO DE SUELO. Es el valor determinado por la Dirección de Catastro y aprobado por el Congreso, conforme a los parámetros a que se refiere la fracción II de este artículo y que permite que el valor de una construcción sea obtenido a partir de la siguiente fórmula:
 
-Vs= VUs x Ss
+Vs = VUs x Ss
 
 Donde:
 
@@ -1157,13 +1369,19 @@ VUS = Valor unitario de suelo.
 
 Ss = Superficie del terreno.
 
-Zona Catastral.- La circunscripción del territorio municipal determinada con fines de control catastral de inmuebles, la cual está formada por un grupo de colonias o de manzanas y es elaborada bajo criterios de delimitación, obtenida con base en la homogeneidad que presentan.
+z.17. ZONA CATASTRAL. La circunscripción del territorio municipal determinada con fines de control catastral de inmuebles, la cual está formada por un grupo de colonias o de manzanas y es elaborada bajo criterios de delimitación, obtenida con base en la homogeneidad que presentan.
 
-Zona Rústica.- Es la superficie de suelo que se ubica fuera de las zonas urbanas.
+z.18. ZONA RÚSTICA. Es la superficie de suelo que se ubica fuera de las zonas urbanas.
 
-Zona Urbana.- La superficie de suelo ubicada dentro de los centros de población, que forma parte del conjunto de edificaciones y trazado de calles, y las superficies que aún no estando edificadas han sido objeto de traza vial y urbanización o que cuente al menos con un servicio público de los siguientes: agua potable, drenaje sanitario, drenaje pluvial, alumbrado público y energía eléctrica.
+z.19. ZONA URBANA. La superficie de suelo ubicada dentro de los centros de población, que forma parte del conjunto de edificaciones y trazado de calles, y las superficies que aun no estando edificadas han sido objeto de traza vial y urbanización, o que cuenta al menos con un servicio público de los siguientes: agua potable, drenaje sanitario, drenaje pluvial, alumbrado público y energía eléctrica.
 
 También se considera Área Urbana la adyacente o periférica a un poblado dotado de alguno de los servicios mencionados, que sean susceptibles de ser dotadas de dichos servicios, partiendo de la infraestructura existente.
+
+IX. Los índices socioeconómicos obtenidos para cada zona rural o urbana serán utilizados adicionalmente por el Ayuntamiento, con el objeto de preservar el principio de proporcionalidad de las contribuciones sobre la propiedad inmobiliaria, al momento de proponer sus tasas o tarifas.
+
+Conforme a lo previsto en el párrafo anterior los sujetos pasivos deben aportar al gasto público en función de su respectiva capacidad contributiva de tal forma que el resultado de la zonificación e identificación de valores unitarios y la aplicación misma de la tasa arrojen un resultado tal que, la tributación sea creciente en función del valor catastral de la propiedad de cada uno y su potencialidad real de contribuir al gasto público.
+
+Para cada ejercicio el Ayuntamiento propondrá tasas progresivas o tarifas para el cobro de los Impuestos Predial y Sobre Adquisición de Bienes Inmuebles o podrá incorporar un porcentaje mínimo y/o otro máximo de incremento después de aplicar una tasa, con el objeto de adaptar la carga del impuesto a la capacidad contributiva del sujeto pasivo, cuando la progresión resulte un imperativo para preservar el principio de la capacidad contributiva del obligado y al mismo tiempo obtener los ingresos necesarios para mantener el equilibrio presupuestario.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -1659,25 +1877,31 @@ II. Con prisión de dos a cinco años y multa de cien a doscientos cincuenta dí
 
 Comete el delito de quebrantamiento de sellos o marcas oficiales, quien sin derecho los altere, destruya o retire, habiendo sido colocados con finalidad fiscal para identificar o asegurar documentación, negociaciones o establecimientos sujetos a comprobación de obligaciones fiscales o impida por cualquier medio que se logre el propósito para el que fueron colocados.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 97.
 
-Al que cometa el delito de quebrantamiento de sellos o marcas oficiales colocados por autoridad fiscal en el ejercicio de sus facultades, se le impondrá la pena de dos meses a tres años de prisión y multa de cuarenta veces el salario mínimo diario general vigente en el Municipio.
+Al que cometa el delito de quebrantamiento de sellos o marcas oficiales colocados por autoridad fiscal en el ejercicio de sus facultades, se le impondrá la pena de dos meses a tres años de prisión y multa de cuarenta a ochenta veces el salario mínimo diario general vigente en el Municipio, calculados al momento en que se impone la sanción.
 
 ###### Artículo 98.
 
 Comete el delito de falsificación o uso de medios de control fiscal, quien sin autorización grabe, manufacture, imprima, troquele, altere o forme con fragmentos de aquéllos las matrices, punzones, dados, clichés, negativos, engomados, placas o comprobantes de pago, que se utilicen como medio de control fiscal; o los use, los ponga en circulación, los venda a sabiendas de su falsificación o los ostente como pago de contribuciones, en perjuicio del Erario del Municipio.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 99.
 
-El delito de falsificación o uso de medios de control fiscal, se sancionará con prisión de seis meses a cinco años y multa de sesenta veces el salario mínimo diario general vigente en el Municipio.
+El delito de falsificación o uso de medios de control fiscal, se sancionará con prisión de seis meses a cinco años y multa de sesenta a ciento veinte veces el salario mínimo diario general vigente en el Municipio, calculados al momento en que se impone la sanción.
 
 ###### Artículo 100.
 
 Comete el delito de usurpación de funciones fiscales, la persona que ordene o practique actos propios de la autoridad fiscal, sin estar autorizado para hacerlo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 101.
 
-El delito de usurpación de funciones fiscales, se sancionará con prisión de uno a seis años y multa de ochenta veces el salario mínimo diario general vigente en el Municipio.
+El delito de usurpación de funciones fiscales, se sancionará con prisión de uno a seis años y multa de ochenta a ciento sesenta veces el salario mínimo diario general vigente en el Municipio, calculados al momento en que se impone la sanción.
 
 ###### Artículo 102.
 
@@ -2407,9 +2631,11 @@ Cuando con motivo de la adquisición, el adquirente asuma la obligación de paga
 
 Para los fines de este capítulo, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del cincuenta por ciento del valor de la propiedad.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 188.
 
-TASA. El Impuesto Sobre Adquisición de Bienes Inmuebles, se causará y pagará aplicando a la base gravable determinada, la tasa que señale la Ley de Ingresos del Municipio, en el ejercicio fiscal correspondiente.
+TASA O TARIFA. El Impuesto Sobre Adquisición de Bienes Inmuebles, se causará y pagará aplicando a la base gravable determinada, la tasa o la tarifa que señale la Ley de Ingresos del Municipio, en el ejercicio fiscal correspondiente.
 
 ###### Artículo 189.
 
@@ -2501,19 +2727,31 @@ TASA. El Impuesto Sobre Diversiones y Espectáculos Públicos, se causará y pag
 
 MOMENTO DE PAGO. El pago del Impuesto Sobre Diversiones y Espectáculos Públicos, se realizará en la forma siguiente:
 
-I. Diariamente al finalizar cada función de la diversión o espectáculo público de que se trate; o
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-II. Previa a la realización de la diversión o espectáculo público, en el caso de que se pueda determinar anticipadamente el monto del mismo.
+I. Diariamente al finalizar cada función de la diversión o espectáculo público de que se trate en los casos en que el boletaje haya sido expedido en el momento de su realización y/o parcialmente en forma previa a su realización y en las taquillas del evento;
 
-El entero del Impuesto Sobre Diversiones y Espectáculos Públicos, deberá hacerse invariablemente ante la Tesorería a más tardar el día hábil siguiente a aquél en que se haya recaudado por el inspector o interventor designado para tal efecto.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+II. Previa a la realización de la diversión o espectáculo público, en el caso de que se pueda determinar anticipadamente el monto del mismo, en estos casos el contribuyente se encuentra obligado a conservar en el lugar en que se realiza el espectáculo el comprobante de pago expedido por la Tesorería.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+En los casos de las fracciones I y II de este artículo el entero del Impuesto Sobre Diversiones y Espectáculos Públicos, deberá hacerse invariablemente ante la Tesorería a más tardar el día hábil siguiente a aquél en que se haya recaudado por el inspector o interventor designado para tal efecto.
 
 ###### Artículo 198.
 
 REDUCCIONES O CONDONACIONES. El Presidente podrá conceder mediante acuerdo, la reducción o condonación del Impuesto Sobre Diversiones y Espectáculos Públicos, cuando los productos de los eventos de referencia se destinen íntegramente para fines de asistencia social o de instrucción pública.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 199.
 
-RESPONSABLES SOLIDARIOS. Son solidariamente responsables del pago del Impuesto Sobre Diversiones y Espectáculos Públicos, los propietarios o poseedores de inmuebles o establecimientos, en los que en forma permanente u ocasional, por cualquier acto o contrato se autorice a personas sujetas al pago de este impuesto, para que exploten diversiones o espectáculos públicos, si el propietario o poseedor no manifiesta a la Tesorería la celebración del acto o contrato formulado, por lo menos un día hábil antes de la iniciación de dichos eventos.
+RESPONSABLES SOLIDARIOS. Son solidariamente responsables del pago del Impuesto Sobre Diversiones y Espectáculos Públicos:
+
+I. Los propietarios o poseedores de inmuebles o establecimientos, en los que en forma permanente u ocasional, por cualquier acto o contrato se autorice a personas sujetas al pago de este impuesto, para que exploten diversiones o espectáculos públicos, si el propietario o poseedor no manifiesta a la Tesorería la celebración del acto o contrato formulado, por lo menos un día hábil antes de la iniciación de dichos eventos; y
+
+II. Los servidores públicos que tengan a su cargo el otorgamiento de los permisos o licencias para la celebración de la actividad gravada o su fiscalización y que por acción u omisión propicien la evasión de la contribución.
 
 ###### Artículo 200.
 
@@ -2530,6 +2768,14 @@ II. Entregar a la Tesorería por duplicado y dentro del término a que se refier
 III. Los sujetos al pago de este impuesto, deberán otorgar toda clase de facilidades a los inspectores o interventores comisionados por la Tesorería, para que desempeñen su cometido proporcionándoles los documentos, datos e informes que se requieran para la determinación de este impuesto, la cual se efectuará al terminar cada función.
 
 El pago de este impuesto no libera a las personas físicas o morales que exploten o realicen diversiones o espectáculos públicos, de la obligación de tramitar y obtener cuando otros ordenamientos jurídicos lo determinen, las licencias o autorizaciones que se requieran para el desarrollo de las actividades a que se refiere este capítulo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+En caso de que los contribuyentes expidan el boletaje por sí o por terceros, con anterioridad al evento y el organizador del evento o un tercero autorizado por el mismo, utilicen medios electrónicos de impresión y/o venta de boletos, se tomará como base para la determinación y liquidación del impuesto el documento que contiene el reporte electrónico de la venta en las diferentes localidades, el costo de cada una de ellas y el acumulado correspondiente. Los emisores y vendedores del boletaje electrónico serán solidariamente responsables con los organizadores del evento ante el Municipio, de la presentación de toda la documentación necesaria para la determinación y liquidación del Impuesto Sobre Diversiones y Espectáculos Públicos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Cuando no se expida el boletaje del evento con anterioridad, y no se utilicen los medios electrónicos a que se refiere el párrafo anterior, el aforo o capacidad de ocupación del recinto en el que se celebre el espectáculo público y el precio de entrada al evento, será la base para determinar y liquidar el impuesto, salvo los casos en que los sujetos pasivos acrediten la entrada bruta por otros medios aceptados por la autoridad.
 
 ###### Artículo 201.
 
@@ -3227,9 +3473,29 @@ III. Las licencias que para eventos esporádicos se expidan con el carácter de 
 
 Son sujetos de estos derechos, las personas físicas o morales que sean propietarios o poseedores de establecimientos o locales cuyo giro implique la enajenación o expendio de bebidas alcohólicas realizada total o parcialmente con el público en general.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO XVIII. ESTACIONAMIENTO DE VEHÍCULOS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 274 Ter 1.
+
+Es objeto del presente Capítulo normar el servicio público de estacionamiento, la recepción, custodia, protección y devolución de vehículos automotores, y regular el estacionamiento en la vía pública del Municipio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 274 Ter 2.
+
+El servicio de estacionamiento y guarda de vehículos en el Municipio de Puebla, podrá ser prestado directamente por el H. Ayuntamiento del Municipio de Puebla, y por los particulares que obtengan del mismo, la licencia correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 274 Ter 3.
+
+Para la obtención de las licencias que autoricen la prestación del servicio público de estacionamiento y guarda de vehículos, así como su regulación, se estará a lo dispuesto en el Capítulo 24 denominado ESTACIONAMIENTOS, del Título Único, del Libro Cuarto del Código Reglamentario para el Municipio de Puebla.
+
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005) (REUBICADO, P.O. 29 DE DICIEMBRE DE 2006)
 
 ###### Artículo 274 Quáter.
 
@@ -3277,7 +3543,7 @@ XX. Cualquier otro giro que implique enajenación o expendio de bebidas alcohól
 
 Los giros comerciales contemplados en las tracciones anteriores, quedarán sujetos al horario establecido en los reglamentos, acuerdos que expida el Ayuntamiento, o conforme a los acuerdos de coordinación que celebre con otros gobiernos, a efectos de regular y homologar el funcionamiento y horario de diversos establecimientos comerciales con venta de bebidas alcohólicas o de establecer programas de interés público.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005) (REUBICADO, P.O. 29 DE DICIEMBRE DE 2006)
 
 Artículo 274 Qinquies (sic).- Este derecho se causará conforme a la cuota que señale anualmente la Ley de Ingresos del Municipio, aplicado a la base a que se refiere el artículo anterior.
 
@@ -3355,7 +3621,7 @@ PARTE I
 
 DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO MUNICIPAL
 
-### CAPÍTULO II. DE LOS PRESUPUESTOS DE EGRESOS
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 284.
 
@@ -3457,7 +3723,7 @@ La Tesorería será fideicomitente del Ayuntamiento en todos los contratos de fi
 
 La contratación de operaciones de financiamiento por las dependencias y entidades se regulará por lo previsto en la parte II del Libro II de este ordenamiento.
 
-### CAPÍTULO III. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
+### CAPÍTULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
 ###### Artículo 294.
 
@@ -3539,7 +3805,7 @@ Una vez aprobado el presupuesto de egresos y por causas supervinientes, podrá s
 
 Las entidades a que se refieren las fracciones II a IV del artículo 286 de este Código, presentarán sus proyectos de presupuestos anuales y sus modificaciones en su caso, a la Tesorería para su aprobación a más tardar el 31 de julio del año anterior al de su vigencia. Los proyectos se presentarán de acuerdo con las normas que el Presidente establezca a través de la Tesorería.
 
-### CAPÍTULO IV. DE LA CONTABILIDAD
+### CAPÍTULO III. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
 ###### Artículo 304.
 
@@ -3581,7 +3847,7 @@ Lo anterior sin perjuicio de las atribuciones del Síndico, en el caso de que el
 
 Quienes efectúen gasto público municipal, estarán obligados a proporcionar a la Tesorería la información que les solicite y a permitirle a su personal la práctica de visitas para verificar el cumplimiento de las obligaciones derivadas de este ordenamiento y de la normatividad expedida con base en ella.
 
-### CAPÍTULO V. DE LAS RESPONSABILIDADES
+### CAPÍTULO IV. DE LA CONTABILIDAD
 
 ###### Artículo 311.
 
@@ -3627,7 +3893,7 @@ VII. Participar en la depuración de cuentas y activos fijos; y
 
 VIII. Las demás que le indique el Presidente y las que se deriven de otros ordenamientos.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO V. DE LAS RESPONSABILIDADES
 
 ###### Artículo 316.
 
@@ -3681,7 +3947,7 @@ PARTE II
 
 DE LA DEUDA PÚBLICA
 
-### CAPÍTULO II. DE LAS FACULTADES DE LA TESORERÍA
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 322.
 
@@ -3735,7 +4001,7 @@ La deuda pública ordinaria se contratará y ejercerá con base en el programa d
 
 Las entidades públicas a que se refieren las fracciones II a IV del artículo 323, contratarán su deuda pública, con base en los decretos específicos que autorice el Congreso.
 
-### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
+### CAPÍTULO II. DE LAS FACULTADES DE LA TESORERÍA
 
 ###### Artículo 327.
 
@@ -3769,7 +4035,7 @@ A fin de que las entidades a que refieren las fracciones II a IV del artículo 3
 
 Para la contratación de financiamientos, sin garantía municipal, a cargo de las entidades a que se refieren las fracciones II a IV del artículo 323 de este ordenamiento, bastará la autorización de sus respectivos órganos de gobierno.
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
+### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
 ###### Artículo 329.
 
@@ -3811,7 +4077,7 @@ El Ayuntamiento al someter al Congreso la iniciativa correspondiente a la Ley de
 
 El Congreso al aprobar la Ley de Ingresos, podrá autorizar al Ayuntamiento a ejercer o autorizar montos adicionales de financiamiento cuando, a juicio del propio Ayuntamiento, se presenten circunstancias económicas extraordinarias que así lo exijan. Cuando se haga uso de esta autorización, informará de inmediato al Congreso a través de la Tesorería.
 
-### CAPÍTULO V. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
 
 ###### Artículo 331.
 
@@ -3839,7 +4105,7 @@ Se podrá otorgar en garantía cualquier bien, derecho o ingreso que se encuentr
 
 Las entidades públicas previstas en el artículo 323 de este Capítulo, podrán otorgar en garantía ingresos hacendarios presentes y futuros.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO V. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
 
 ###### Artículo 336.
 
@@ -3869,7 +4135,7 @@ PARTE III
 
 DE LOS BIENES MUNICIPALES
 
-### CAPÍTULO II. DE LA ADQUISICIÓN Y ARRENDAMIENTO DE BIENES INMUEBLES
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 340.
 
@@ -4009,7 +4275,7 @@ Tratándose de inmuebles municipales o del dominio público de los organismos qu
 
 Para efectos administrativos, la interpretación y aplicación de este Código corresponde al Ayuntamiento a través del Presidente en los casos de bienes municipales, y al titular de cada organismo respecto de bienes que le sean propios.
 
-### CAPÍTULO III. DE LOS BIENES DE DOMINIO PÚBLICO
+### CAPÍTULO II. DE LA ADQUISICIÓN Y ARRENDAMIENTO DE BIENES INMUEBLES
 
 ###### Artículo 356.
 
@@ -4055,7 +4321,7 @@ El Presidente previa propuesta de la SAU, propondrá al Cabildo las normas y cri
 
 Los titulares de los organismos serán responsables de aplicar, en lo conducente, las disposiciones de este Capítulo.
 
-### CAPÍTULO IV. DE LOS BIENES DEL DOMINIO PRIVADO
+### CAPÍTULO III. DE LOS BIENES DE DOMINIO PÚBLICO
 
 ###### Artículo 362.
 
@@ -4347,9 +4613,7 @@ No se permitirá a funcionarios públicos, empleados o agentes de la Administrac
 
 Estará a cargo de las dependencias o instituciones que tengan destinados a su servicio los inmuebles municipales o de los organismos, la observancia y aplicación de este precepto.
 
-### CAPÍTULO V. DE LAS INSCRIPCIONES DE LOS BIENES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+### CAPÍTULO IV. DE LOS BIENES DEL DOMINIO PRIVADO
 
 #### SECCIÓN II. DE LOS MUEBLES DEL DOMINIO PRIVADO
 
@@ -4505,9 +4769,9 @@ También será aplicable en lo conducente, para dichos bienes lo previsto por el
 
 El Presidente previó acuerdo del Ayuntamiento, podrá donar bienes muebles de propiedad municipal que figuren en sus respectivos inventarios, a la Federación, al Estado, a Municipios, organismos públicos, instituciones de beneficencia, educativas o culturales, a quienes atiendan la prestación de servicios sociales por encargo del propio Ayuntamiento, a beneficiarios de algún servicio asistencial público, a las comunidades agrarias y ejidos, previa justificación de la medida y con ello atender necesidades del orden social.
 
-### CAPÍTULO VI. DEL SISTEMA MUNICIPAL DE INFORMACIÓN INMOBILIARIA
+### CAPÍTULO V. DE LAS INSCRIPCIONES DE LOS BIENES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 413.
 
@@ -4551,7 +4815,7 @@ III. Cuando se declare la nulidad del título en cuya virtud se haya hecho la in
 
 En la cancelación de las inscripciones, se asentarán los datos necesarios a fin de que se conozca con toda exactitud cuál es la inscripción que se cancela y las causas de la misma.
 
-### CAPÍTULO VII. SANCIONES
+### CAPÍTULO VI. DEL SISTEMA MUNICIPAL DE INFORMACIÓN INMOBILIARIA
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -4570,6 +4834,10 @@ Lo anterior, sin perjuicio de la integración y actualización de los propios ca
 ###### Artículo 420.
 
 El Ayuntamiento determinará las normas y procedimientos para la integración y envío a la SAU de la información para el funcionamiento y actualización del Sistema Municipal de Información Inmobiliaria.
+
+### CAPÍTULO VII. SANCIONES
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 421.
 
@@ -4678,3 +4946,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día primero de enero de dos mil siete.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En los ordenamientos, actos administrativos, procesos y demás documentos en que se cite al Jefe del Departamento de Fiscalización o al Departamento de Fiscalización, se entenderá, a partir del inicio de la vigencia del presente Decreto que se refiere al Titular del Sistema Municipal de Registro y Fiscalización o al Sistema Municipal de Registro y Fiscalización, respectivamente.
+
+###### ARTÍCULO CUARTO.
+
+En los ordenamientos, actos administrativos, procesos y demás documentos en que se cite al Jefe de la Oficina Jurídica, se entenderá, a partir del inicio de la vigencia del presente Decreto que se refiere al Director Jurídico de la Tesorería Municipal.
