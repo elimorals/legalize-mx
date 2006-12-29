@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-contaduria-general-del-estado-15268"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-03-08"
-last_updated: "1972-03-08"
+last_updated: "2006-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ORGANICA DE LA CONTADURIA GENERAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 29 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 8 de marzo de 1972.
 
@@ -372,3 +374,17 @@ Dado en el Salón de Sesiones del H. Congreso del Estado en Pachuca de Soto, a l
 Por tanto mando de (sic) imprima, publique y circule para su debido cumplimiento.
 
 DADO en el Palacio del Poder Ejecutivo de la ciudad de Pachuca de Soto, Hidalgo, a los once días del mes de diciembre de mil novecientos setenta y uno.- El Gobernador Constitucional del Estado, Lic. MANUEL SANCHEZ VITE.- El Secretario General de Gobierno, Lic. GABRIEL ROMERO REYES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día dos de Abril de 2007, previa Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Al entrar en vigor la presente Ley, quedará abrogada la Ley Orgánica de la Contaduría General del Estado, Publicada en el Periódico Oficial del Estado, el 8 de marzo de 1972.
+
+TERCERO.- La revisión y fiscalización de las Cuentas Públicas correspondientes al Ejercicio 2006, será concluida conforme a las disposiciones establecidas en la Ley Orgánica de la Contaduría General del Estado y demás Leyes aplicables.
+
+CUARTO.- La recepción, revisión y fiscalización de las Cuentas Públicas correspondientes a los meses de enero, febrero y marzo de 2007, se llevará a cabo en la forma y términos que establece la Ley Orgánica de la Contaduría General del Estado, en el entendido de que el resultado de dicha fiscalización deberá ajustarse a lo dispuesto en el presente ordenamiento legal.
+
+QUINTO.- Las disposiciones reglamentarias de esta Ley, deberán ser expedidas en un plazo no mayor en 90 días posteriores a su entrada en vigor.
