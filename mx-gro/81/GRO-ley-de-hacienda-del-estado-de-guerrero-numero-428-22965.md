@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2005-12-27"
+last_updated: "2006-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE 2006.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -205,13 +205,9 @@ II. Las comisiones que reciban los Agentes, derivados del aseguramiento contra r
 
 III. Los prestados por agentes y corresponsales de instituciones de crédito por las comisiones que perciban en el ejercicio de su actividad.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+IV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2006)
 
-IV. Los Ingresos que obtengan los administradores únicos, los miembros del consejo de administración, de vigilancia, consultivos o de cualquier otra denominación que se les dé.
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-V. Los horarios que se asimilen a salarios de conformidad con la Ley del Impuesto sobre la Renta.
+V. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 2o.
 
@@ -367,11 +363,15 @@ VI.- Frontón, en cualquiera de sus modalidades en que se juegue, sobre el bolet
 
 VII.- Balnearios, balnearios con juegos recreativos y otras diversiones análogas, sobre el boletaje vendido 5.17%
 
-VIII.- Por cualquier otra diversión o espectáculo no especificado en las fracciones anteriores, sobre el monto de los ingresos, siempre y cuando no se cause el impuesto al valor agregado 5.17%
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+VIII.- Tenis y squash en cualquiera de sus modalidades en que se juegue, sobre el boletaje vendido 5.0%.
+
+IX.- Por cualquier otra diversión o espectáculo no especificado en las fracciones anteriores, sobre el monto de los ingresos, siempre y cuando no se cause el impuesto al valor agregado 5.17%
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-IX.- En el caso de espectáculos realizados de manera promocional en el que se regale el boleto, condicionado a la compra de determinados productos y/o servicios, se causara el impuesto sobre el valor determinado para su obtención, a la tasa del 5.17%
+X.- En el caso de espectáculos realizados de manera promocional en el que se regale el boleto, condicionado a la compra de determinados productos y/o servicios, se causara el impuesto sobre el valor determinado para su obtención, a la tasa del 5.17%
 
 En el caso de que en una misma función se presenten dos o más espectáculos de los gravados, se causará el impuesto según el espectáculo que tenga señalada la mayor tasa.
 
@@ -405,13 +405,17 @@ En los casos en que no se garantice el pago del impuesto, los interventores debe
 
 La oficina recaudadora podrá nombrar interventores para cada uno de los espectáculos y diversiones en las distintas funciones, pagando los organizadores los honorarios correspondientes por dicha intervención, el equivalente a 10 salarios mínimos diarios, por cada uno de ellos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 20.
 
 Se exceptúan del pago de este Impuesto las funciones de cine y cursos y congresos educativos; así como las representaciones teatrales, que se realicen con propósitos culturales, siempre que no persigan finalidades lucrativas y que tengan reconocimiento oficial y de enseñanza.
 
-Las instituciones de asistencia, de beneficencia pública o privada con residencia en el Estado, que cuenten con registro oficial de la Federación o del Estado, así como también que tengan autorización del Servicio de Administración Tributaria para recibir donativos y sin fines de lucro que organicen espectáculos públicos deberán solicitar por escrito a la Secretaría de Finanzas y Administración, la exención del pago del impuesto dentro de los 10 días anteriores a la fecha de la realización del mismo, anexando copia legible del o los contratos celebrados con los representantes de los participantes en el evento y presentar su debida constitución autorizada por las leyes en la materia.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Las instituciones de asistencia, de beneficencia pública o privada con residencia en el Estado, que cuenten con registro oficial de la Federación o del Estado, y que cumplan con los requisititos establecidos en la Ley de Instituciones Privadas para el Estado de Guerrero, que acrediten por lo menos un año de residencia en el Estado, que tengan autorización del Servicio de Administración Tributaria para recibir donativos y sin fines de lucro, así como también que han realizado obras o programas sociales en el Estado, que organicen espectáculos públicos deberán solicitar por escrito a la Secretaría de Finanzas y Administración, la exención del pago del impuesto dentro de los 10 días anteriores a la fecha de la realización del mismo, anexando copia legible del o los contratos celebrados con los representantes de los participantes en el evento y presentar su debida constitución autorizada por las leyes en la materia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 En el caso de exención para el pago de este impuesto que soliciten los Partidos Políticos u Organizaciones Políticas, deberá exhibirse ante la Secretaria de Finanzas y Administración del Estado el boletaje y propaganda del evento de que se trate, a fin de dejar constancia en el expediente que se integre con motivo de la autorización; si la gestión de exención se hace por cuenta de terceros, la autorización se otorgará sólo por el porcentaje que reciba del promotor, debiéndose exhibir los contratos correspondientes.
 
@@ -513,11 +517,11 @@ La base gravable para efectos de este impuesto, será determinada conforme a las
 
 Las autoridades fiscales, mediante reglas de carácter general, podrán emitir criterios y procedimientos que simplifiquen la práctica de la determinación del valor comercial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 32.
 
-El impuesto sobre la compra-venta de vehículos de motor usados, se causará con la tasa del 1%.
+El impuesto sobre la compra-venta de vehículos de motor usados, se causará con la tasa del 0.5%.
 
 En el caso de la venta de motocicletas, yates, lanchas, motonetas náuticas y otros vehículos de motor acuáticos, su impuesto se causará con la tasa del 1.5% sobre el valor de la operación.
 
@@ -567,7 +571,11 @@ II.- Llevar contabilidad y efectuar los registros en la misma de las remuneracio
 
 III.- Inscribirse en el Registro Estatal de Contribuyentes, ante la Administración o Agencia Fiscal que le corresponda dentro de los treinta días siguientes a la fecha de inicio de sus actividades, utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Administración.
 
-IV.- Presentar declaraciones mensuales del pago de este Impuesto, ante las Administraciones o Agencias Fiscales Estatales o Instituciones Bancarias autorizadas en cuya jurisdicción se encuentre ubicado su establecimiento, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+IV.- Presentar declaraciones mensuales del pago de este impuesto, ante las Administraciones o Agencias Fiscales Estatales o Instituciones Bancarias autorizadas en cuya jurisdicción se encuentre ubicado su establecimiento, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago.
+
+Los contribuyentes que tributen en el Régimen de Pequeños Contribuyentes de la Ley del Impuesto Sobre la Renta deberán presentar las declaraciones de este impuesto bimestralmente, a más tardar el día 17 del mes de calendario posterior al bimestre que corresponda el pago, y
 
 V.- Presentar ante la Administración o Agencia Fiscal que le corresponda a la jurisdicción de su domicilio fiscal, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, dentro de los treinta días siguientes a la fecha en que ocurra cualquiera de estas situaciones.
 
@@ -635,9 +643,9 @@ l) Prima de seguros por gastos médicos o de vida.
 
 m) Premios por asistencia.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-En este caso, se considerará exento hasta un importe del 10% del salario mínimo del área geográfica del trabajador.
+En este caso, se considerará exento hasta un importe del 10% de un salario mínimo del área geográfica del contribuyente elevado al año.
 
 > <small>(REFORMADO, P.O. 24 DICIEMBRE 2002)</small>
 
@@ -652,6 +660,10 @@ p) Cuotas al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y 
 q) Intereses por créditos al personal.
 
 En el caso de personas morales para que los conceptos mencionados en este precepto se excluyan como integrantes de la base del impuesto sobre remuneraciones al trabajo personal, deberán estar registrados en la contabilidad del contribuyente, si fuera el caso.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+r) Los pagos realizados a un trabajador cuyo salario no exceda de un salario mínimo general del área geográfica del contribuyente elevado al año, siempre y cuando este sea su ascendiente o descendiente en línea recta, por contribuyentes que tributen en el Régimen de Pequeños Contribuyentes de la Ley del Impuesto Sobre la Renta.
 
 II.- Las erogaciones que efectúen:
 
@@ -713,25 +725,33 @@ El presente impuesto adicional no se causará sobre los premios derivados de la 
 
 Los impuestos adicionales se pagarán en el mismo acto en que se pague el concepto principal. Si el pago de créditos fiscales se realiza en forma extemporánea, estos impuestos causarán recargos de Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 47 Bis.
+
+Las personas morales que paguen a personas físicas los conceptos señalados en este Capítulo, serán responsables de llevar a cabo la retención de los impuestos adicionales citados, y enterarlos a más tardar el día 17 del mes inmediato posterior al que corresponda el pago mediante declaración que presentarán en las Administraciones, Agencias Fiscales u oficinas autorizadas.
+
 ### CAPITULO VIII. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 48.
 
-Es objeto del Impuesto sobre la Prestación de Servicios de Hospedaje, la percepción de ingresos, dentro del territorio del Estado, por la prestación del servicio de hospedaje o albergue temporal, en hoteles, moteles, en las edificaciones regidas por la modalidad de uso en tiempo compartido o multipropiedad, campamentos, hosterías, posadas, mesones, paraderos de casas rodantes, casas de huéspedes, suites, villas, bungalows, casas y departamentos amueblados y todo tipo de construcción en que se proporcione alojamiento.
+Es objeto del Impuesto sobre la Prestación de Servicios de Hospedaje, la percepción de ingresos, dentro del territorio del Estado, por la prestación del servicio de hospedaje, en hoteles, moteles, tiempo compartido o multipropiedad, campamentos, hosterías, posadas, mesones, paraderos de casas rodantes, casas de huéspedes, suites, villas, bungaloes, casas y departamentos amueblados y todo tipo de construcción en que se proporcione alojamiento.
 
 Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación.
 
-De los ingresos que genere este impuesto, el 93 % será destinado para la promoción turística nacional e internacional, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos que determinen los Comités Técnicos de los Fideicomisos que se constituirán para la administración de los recursos recaudados por este impuesto y se integrarán como representantes de la Secretaría de Finanzas y Administración del Gobierno del Estado y del Sector Turístico.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+De los ingresos que genere este impuesto, el 93 % será destinado para la promoción turística nacional e internacional, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos que determinen los Comités Técnicos de los Fideicomisos de Promoción Turística a los que corresponderá la administración de los recursos recaudados por este impuesto y en los que se integrarán representantes de la Secretaría de Finanzas y Administración del Gobierno del Estado y del Sector Turístico.
 
 El 7% de los ingresos que genere la recaudación de este impuesto, se destinará a la Secretaría de Finanzas y Administración para absorber los gastos de administración del mismo.
 
 El Estado entregará a los Fideicomisos, que se establezcan en los Municipios los ingresos netos captados en cada uno de ellos, en un término de treinta días siguientes al mes en que se deba enterar este impuesto.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-Los fideicomisos presentarán en el mes de enero al Comité Técnico sus proyectos del ejercicio de recursos financieros y su programa operativo anual; y a la Secretaría de Finanzas y Administración un informe semestral en los meses de enero y julio de cada año, en el que se indique su situación financiera, los resultados de operación cualitativa y cuantitativa, así como el origen y aplicación de los recursos entregados por el Gobierno del Estado y por los particulares.
+Los fideicomisos presentarán en el mes de enero al Comité Técnico sus proyectos del ejercicio de recursos financieros y su programa operativo anual; y a la Secretaría de Finanzas y Administración un informe semestral en los meses de enero y julio de cada año, en el que se indique su situación financiera, los resultados de operación que incluyan el de gestión del periodo respecto de la ocupación, comparado con su programa operativo anual, así como el origen y aplicación de los recursos entregados por el Gobierno del Estado y por los particulares.
 
 ###### ARTICULO 49.
 
@@ -751,9 +771,9 @@ En ningún caso se considerará que el impuesto al valor agregado que se cause p
 
 Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-Tratándose de los servicios proporcionados bajo el régimen del sistema de tiempo compartido, la base del impuesto será el valor de la contraprestación, que el usuario pague por concepto de cuotas de mantenimiento, cada vez que haga uso de sus derechos convenidos sobre un bien o parte del mismo.
+Tratándose de los servicios proporcionados bajo el sistema de tiempo compartido, y propiedad fraccional, la base de impuesto será el valor de la contraprestación, que el usuario pague por concepto de cuotas de mantenimiento, cada vez que haga uso de sus derechos convenidos sobre un bien o parte del mismo.
 
 Para efectos del párrafo que antecede, se entenderá por tiempo compartido, lo que al respecto establezca la Ley de Regulación y Fomento del Sistema de Tiempo Compartido del Estado de Guerrero.
 
@@ -1131,9 +1151,9 @@ E).- Constancia certificada de documento 0.73
 
 F).- Constancia de baja de servicio 5.96
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-G).- Sustitución de vehículos, mensualmente 5.10
+G).- Sustitución de vehículos, mensualmente 3.45
 
 H).- Cambio y/o ampliación de ruta 47.17
 
@@ -1229,7 +1249,9 @@ DERECHOS POR LEGALIZACIÓN DE FIRMAS, CERTIFICACIONES, EXPEDICIÓN DE DOCUMENTOS
 
 Los Servicios que presta la Dirección del Registro Público de la Propiedad, del Comercio y Crédito Agrícola, causarán derechos conforme a las tasas, tarifas y cuotas siguientes:
 
-I.- Por la inscripción de sociedades mercantiles o incremento de su capital social; 4 al millar
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+I.- Por la inscripción de sociedades mercantiles o incremento de su capital social; 4 al millar, sobre el monto del capital o de su incremento.
 
 II.- Por el registro de documentos inscribibles, concernientes a todo tipo de bienes inmuebles, excepto los señalados en las fracciones XXII y XXIII de este artículo siempre y cuando dichos documentos sean elaborados en el Estado, el cobro se hará con base en el valor más alto que resulte entre el avalúo catastral, el valor de la operación consignado en la escritura respectiva y el avalúo con fines fiscales, el cual deberá ser elaborado por perito valuador debidamente autorizado por la Secretaría de Finanzas y Administración; 4 al millar
 
@@ -1537,13 +1559,15 @@ Por cada solicitud de visita de verificación para constatar la destrucción de 
 
 El monto de las cuotas señaladas en esta fracción, se cobrarán conforme al tabulador de cobros que publique la Secretaría de finanzas y Administración.
 
-### CAPITULO XI. DERECHOS POR LA EXPEDICIÓN DE LOS CERTIFICADOS DE OPERACIÓN DE LOS DESARROLLADORES DEL SISTEMA DE TIEMPO COMPARTIDO Y MULTIPROPIEDAD
+### CAPITULO XI. DERECHOS POR LA EXPEDICIÓN ANUAL DE LOS CERTIFICADOS DE OPERACIÓN DE LOS DESARROLLADORES DEL SISTEMA DE TIEMPO COMPARTIDO Y PROPIEDAD FRACCIONAL
 
 ###### ARTICULO 87.
 
 Los derechos por el servicio de expedición de constancia por parte del Ejecutivo del Estado, de no existencia de riesgos para el transporte o uso de explosivos en la Entidad, se liquidarán conforme a la siguiente:
 
 VEASE TABLA ANEXA
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO XII. DERECHOS DE AUTORIZACION DE LA PROCURADURÍA DE PROTECCIÓN ECOLOGICA DEL ESTADO
 
@@ -1595,7 +1619,9 @@ Por los servicios de inscripción o por la renovación al registro Estatal de pr
 
 Por la reposición de documentos expedidos por esta Procuraduría tales como, autorizaciones en materia de Impacto Ambiental e inscripciones y/o renovaciones como prestadores de servicios de Impacto Ambiental. 10.0
 
-### CAPITULO UNICO
+### CAPITULO XIV. DERECHOS POR REPRODUCCION Y ENVIO DE MATERIALES QUE CONTENGAN INFORMACION PUBLICA DEL GOBIERNO DEL ESTADO DE GUERRERO Y DE SUS ENTIDADES PUBLICAS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 97.
 
@@ -1617,25 +1643,53 @@ I.- Expedición Inicial 155.59
 
 II.- Refrendo Anual 51.83
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 99 Bis.
 
-Para el cobro de los derechos por el servicio de certificación de avalúos con fines fiscales, se aplicara una tarifa general del 2.0 al millar sobre el valor fiscal del avalúo, bajo la siguiente clasificación:
+Para el cobro de los derechos por el servicio de certificación de avalúos con fines fiscales, se aplicará una tarifa general del 2.0 al millar sobre el valor fiscal del avalúo, bajo la siguiente clasificación:
 
-a).- Valor fiscal menor a 800.00 salarios mínimos, se cobrará un salario mínimo;
+a).- Valor fiscal menor hasta 800, se aplicará sobre el 60% del valor fiscal; la cantidad base a cobrar no será menor a un salario mínimo del área geográfica “A”.
 
-b).- Valor fiscal mayor a 800.01 salarios mínimos y hasta 1,100.00 salarios mínimos, se aplicará sobre el 60% del Valor fiscal; la cantidad a cobrar no será menor a un Salario mínimo.
+b).- Valor fiscal mayor a 800 salarios mínimos del área geográfica “A” y hasta 1,100 salarios mínimos del área geográfica “A” se aplicará sobre el 60% del valor fiscal; la cantidad base a cobrar no será menor a 1.32 salarios mínimos del área geográfica “A”.
 
-c).- Valor fiscal mayor a 1,100.01 salarios mínimos y hasta 2,150.00 salarios mínimos, se aplicará sobre el 50% del Valor fiscal; la cantidad a cobrar no será menor a 1.10 salarios mínimos.
+c).- Valor fiscal mayor a 1, 000 salarios mínimos del área geográfica “A” y hasta 2,150 salarios mínimos del área geográfica “A”, se aplicará sobre el 50% del valor fiscal; la cantidad base a cobrar no será menor a 2.15 salarios mínimos del área geográfica “A”.
 
-d).- Valor fiscal mayor a 2,150.01 salarios mínimos y hasta 10,600.00 salarios mínimos, se aplicará sobre el 40% del Valor fiscal; la cantidad a cobrar no será menor a 1.72 salarios mínimos.
+d).- Valor fiscal mayor a 2,150 salarios mínimos del área geográfica “A” y hasta 10,600 salarios mínimos del área geográfica “A”, se aplicará sobre el 40% del valor fiscal; la cantidad base a cobrar no será menor a 8.48 salarios mínimos del área geográfica “A”.
 
-e).- Valor fiscal mayor a 10,600.01 salarios mínimos y hasta 32,050.00 salarios mínimos, se aplicará sobre del (sic) 30% del Valor fiscal; la cantidad a cobrar no será menor a 6.36 salarios mínimos.
+e).- Valor fiscal mayor a 10,600 salarios mínimos hasta 32,050 salarios mínimos del área geográfica “A”, se aplicará sobre el 30% del valor fiscal; la cantidad base a cobrar no será menor a 19.23 salarios mínimos del área geográfica “A”.
 
-f).- Valor fiscal mayor a 32,050.01 salarios mínimos y hasta 85,500.00 salarios mínimos, se aplicará sobre el 25% del valor fiscal; la cantidad a cobrar no será menor a 16.02 salarios mínimos.
+f).- Valor fiscal mayor a 32,050 salarios mínimos hasta 86,500 salarios mínimos del área geográfica “A”, se aplicará sobre el 25% del valor fiscal; la cantidad base a cobrar no será menor a 42.75 salarios mínimos del área geográfica “A”.
 
-g).- Valor fiscal mayor a 85,500.01 salarios mínimos, se aplicará sobre el 20% del valor fiscal; y; la cantidad a cobrar no será menor a 34.20 salarios mínimos.
+g).- Valor fiscal mayor a 86,500 salarios mínimos del área geográfica “A” hasta 164,500 salarios mínimos, se aplicará sobre el 20% del valor fiscal; la cantidad base a cobrar no será menor a 65.80 salarios mínimos del área geográfica “A”.
+
+h).- Valor fiscal mayor a 164,500 salarios mínimos del área geográfica “A” se aplicará sobre el 15% del calor fiscal; la cantidad base a cobrar no será menor a 65.80 salarios mínimos del área geográfica “A”.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 99 Bis I.- Para el cobro de los derechos por el servicio de cartografía digital e impresa, se aplicará conforme a la siguiente tarifa:
+
+Concepto Tarifa
+
+Ortofoto (Plano 45 cm x 30 cm).
+
+8 Salarios Mínimos Diarios del Área Geográfica “A”.
+
+Curvas de Nivel (Plano 45 cm x 30 cm).
+
+6 Salarios Mínimos Diarios del Área Geográfica “A”.
+
+Plano 45 cm x 30 cm (de una a tres coberturas).
+
+4 Salarios Mínimos Diarios del Área Geográfica “A”.
+
+Cada capa o cobertura adicional.
+
+1 Salarios Mínimos Diarios del Área Geográfica “A”.
+
+Renta de computadora y cartografía por hora o fracción.
+
+2 Salarios Mínimos Diarios del Área Geográfica “A”.
 
 ###### ARTICULO 100.
 
@@ -1693,7 +1747,45 @@ BIS-1.- Por el Registro y Acreditación como Director Responsable de Obra y/o Co
 
 Los diversos derechos no especificados en esta Ley se causarán aplicando los días de salario mínimo regional que determine la Secretaría de Finanzas y Administración, para el efecto, el pago resultante no excederá la tarifa aplicable a otro servicio con el cual tenga similitud, siempre y cuando no se oponga a lo dispuesto en el artículo 10-A de la Ley de Coordinación Fiscal.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ### CAPITULO UNICO
+
+###### ARTICULO 102 Bis.
+
+El cobro de este Derecho, esta fundamentado en el Art. 47 de la Ley de Acceso a la Información Pública del Estado de Guerrero Por la reproducción de materiales que contengan información pública del Gobierno del Estado de Guerrero o de sus entidades públicas, se causarán derechos conforme a la siguiente tarifa, de acuerdo al medio en que se proporcione:
+
+Copia simple 0.04
+
+Copia certificada 0.31
+
+Hoja impresa por medio de dispositivo informático 0.08
+
+En disco compacto 0.41
+
+En disco flexible de 3.5 0.21
+
+En audiocaset 0.31
+
+En videocasete 0.72
+
+Copia heliográfica de planos de hasta un metro
+
+cuadrado 1.03
+
+Copia a color de planos de hasta un metro
+
+cuadrado 3.08
+
+Por el servicio de acuse de recibo, notificación envío de materiales que contengan información pública del Gobierno del Estado de Guerrero y de sus entidades públicas, al domicilio del solicitante, se causarán derechos por una cantidad equivalente a 2.05 pesos si es por Servicio postal mexicano y 3.08 si es por mensajería de empresa privada.
+
+Cuando en esta Ley o algún Organismo Autónomo tenga fijado el cobro de derecho por la reproducción de materiales que contengan información pública del Gobierno del Estado o de sus entidades públicas, prevalecerá aquella tarifa.
+
+Los derechos que señale este Ordenamiento deberán ser enterados en la Oficina Recaudadora de la Jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Finanzas y de Administración.
+
+La reproducción de la información se entregará al presentar el particular el recibo que acredite su pago ante la Oficina Recaudadora respectiva o en el lugar que al efecto señale la Secretaría de Finanzas y de Administración.
+
+Las mismas cuotas y tarifas serán aplicables por la expedición de los documentos físicos o que en medio magnético realicen los Poderes Legislativo y Judicial y que le sean solicitados en materia de acceso a la información pública. Lo anterior sin perjuicio de lo que determinen sus respectivas leyes orgánicas y las exenciones o no causación de derechos por estos conceptos previstas en otras leyes.
 
 ## TITULO TERCERO. DE LOS PRODUCTOS
 
@@ -1721,9 +1813,11 @@ VEASE TABLA ANEXA
 
 Están exentas del pago de las cuotas respectivas, las publicaciones que se hagan en el Periódico Oficial del Estado a solicitud de las dependencias de los poderes Legislativo, Ejecutivo y Judicial, siempre que se trate de asuntos oficiales que estén comprendidos dentro de la esfera de su atribución.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 106.
 
-Para la conversión de los factores a que se refiere esta Ley, cada uno de éstos deberá multiplicarse por el salario mínimo diario vigente determinado por la Comisión Nacional de Salarios Mínimos y publicados en el Diario Oficial de la Federación. El salario mínimo aplicable será el de la zona A. El producto resultante será la cuota o tarifa a cobrar por cada uno de los conceptos referidos.
+Para la conversión de los factores a que se refiere esta Ley, cada uno de éstos deberá multiplicarse por el salario mínimo diario vigente determinado por la Comisión Nacional de Salarios Mínimos y publicados en el Diario Oficial de la Federación. El salario mínimo aplicable será el del Área Geográfica “A”. El producto resultante será la cuota o tarifa a cobrar por cada uno de los conceptos referidos.
 
 ## TITULO CUARTO. DE LOS APROVECHAMIENTOS
 
@@ -1751,9 +1845,9 @@ c).- Por actos de fiscalización concurrente y verificación.
 
 d).- Por la regularización de automóviles extranjeros.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-e).- Aplicación de los anexos 3 y 7 al Convenio de Colaboración Administrativa en Materia Fiscal Federal (Ley del I.S.R.: régimen de pequeños contribuyentes, régimen intermedio de las personas físicas con actividad empresarial, e ingresos por la enajenación de terrenos, construcciones o terrenos y construcciones).
+e).- Aplicación del Convenio de Colaboración Administrativa en Materia Fiscal Federal y de sus anexos 1, 4, 5, 8, 9, 11 y 13.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE 2003)</small>
 
@@ -1773,7 +1867,7 @@ Se pagaran invariablemente en las cajas de las Administraciones o Agencias Fisca
 
 ## TITULO QUINTO. PARTICIPACIONES EN INGRESOS FEDERALES
 
-### CAPITULO I. IMPUESTOS SOBRE PRODUCTOS AGRICOLAS
+### CAPITULO UNICO
 
 ###### ARTICULO 109.
 
@@ -1823,9 +1917,7 @@ g) Fondo de aportación para la Educación Tecnológica y de Adultos.
 
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
-### CAPITULO II. IMPUESTO SOBRE COMPRAVENTA DE GANADO
-
-Y SUS ESQUILMOS
+### CAPITULO I. IMPUESTOS SOBRE PRODUCTOS AGRICOLAS
 
 ###### ARTICULO 112.
 
@@ -1899,7 +1991,9 @@ Se faculta al Gobernador del Estado, para celebrar convenios con instituciones d
 
 ## TITULO DECIMO PRIMERO. DISPOSICIONES SUSPENDIDAS EN TANTO EL ESTADO DE GUERRERO PERMANEZCA COORDINADO CON LA FEDERACION EN MATERIA DEL IMPUESTO AL VALOR AGREGADO
 
-### CAPITULO III. IMPUESTO SOBRE PRODUCTOS DE CAPITALES
+### CAPITULO II. IMPUESTO SOBRE COMPRAVENTA DE GANADO
+
+Y SUS ESQUILMOS
 
 ###### ARTICULO 118.
 
@@ -1943,7 +2037,7 @@ Asimismo, establecerá las medidas reglamentarias conducentes para el debido con
 
 Para los efectos del pago de este impuesto, se considerara realizada la compraventa de los productos agrícolas por el solo hecho de que los productos sean sacados de los lugares de producción o donde se encuentran almacenados, salvo prueba fehaciente en contrario, exceptuándose del gravamen aquellos productos que se demuestre son para consumo familiar.
 
-### CAPITULO IV. IMPUESTO SOBRE ARRENDAMIENTO Y SUBARRENDAMIENTO DE BIENES INMUEBLES
+### CAPITULO III. IMPUESTO SOBRE PRODUCTOS DE CAPITALES
 
 ###### ARTICULO 126.
 
@@ -1979,7 +2073,7 @@ Las autoridades municipales y las asociaciones locales ganaderas, no autorizará
 
 Las operaciones de compraventa de animales destinados expresamente al mejoramiento de las especies, no causarán el impuesto a que se refiere este capitulo, siempre que se justifique ante la Dirección de Fomento Agropecuario del Estado que los animales de que se trata deben exceptuarse del gravamen por su calidad y el objeto a que se destine.
 
-### CAPITULO V. IMPUESTO SOBRE OPERACIONES MERCANTILES E INDUSTRIALES
+### CAPITULO IV. IMPUESTO SOBRE ARRENDAMIENTO Y SUBARRENDAMIENTO DE BIENES INMUEBLES
 
 ###### ARTICULO 134.
 
@@ -2145,7 +2239,7 @@ Cuando se revoque o rescinda un contrato a plazo fijo, del que se deriven ingres
 
 En los casos de que la adjudicación de bienes hecha en remate judicial, en pago de créditos que incluyen ingresos por alguno de los conceptos a que se refiere el artículo 134 ya sea que la adjudicación se haga al acreedor o a un tercero, el impuesto se pagara sobre la totalidad de los intereses vencidos hasta la fecha de la adjudicación, y se hará efectivo, a más tardar, al momento de cubrirse el impuesto de translación de dominio correspondiente.
 
-### CAPITULO VI. IMPUESTO SOBRE VENTA DE GASOLINA Y DEMAS DERIVADOS DEL PETROLEO
+### CAPITULO V. IMPUESTO SOBRE OPERACIONES MERCANTILES E INDUSTRIALES
 
 ###### ARTICULO 154.
 
@@ -2181,7 +2275,7 @@ III.- Registrar cada uno de los contratos de arrendamiento o subarrendamiento de
 
 IV.- Dar aviso de las modificaciones o rescisiones de los contratos, dentro de los quince días naturales siguientes a la fecha en que esto ocurra.
 
-### CAPITULO VII. IMPUESTO SOBRE ALCOHOL Y BEBIDAS ALCOHOLICAS
+### CAPITULO VI. IMPUESTO SOBRE VENTA DE GASOLINA Y DEMAS DERIVADOS DEL PETROLEO
 
 ###### ARTICULO 160.
 
@@ -2447,7 +2541,7 @@ En los casos de clausura, traspaso, o cambio de domicilio de algún establecimie
 
 Los presidentes municipales dentro de los primeros cinco días de cada mes remitirán a las oficinas de rentas respectivas, un informe de las licencias que hayan otorgado durante el mes anterior para negociaciones comerciales o industriales, el que contendrá: nombre de negociación y de su propietario, clase de giro y su ubicación.
 
-### CAPITULO VIII. IMPUESTO SOBRE FUNCIONES NOTARIALES
+### CAPITULO VII. IMPUESTO SOBRE ALCOHOL Y BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 191.
 
@@ -2465,9 +2559,7 @@ Petróleos Mexicanos y sus agencias, así como los expendedores de gasolina y de
 
 El Ejecutivo del Estado está facultado para adoptar la medidas pertinentes a efecto de que este impuesto sea percibido por conducto de Petróleos Mexicanos, de acuerdo con el procedimiento que se convenga al efecto.
 
-### CAPITULO I
-
-DE LOS DERECHOS POR REGISTRO DE GIROS COMERCIALES E INDUSTRIALES.
+### CAPITULO VIII. IMPUESTO SOBRE FUNCIONES NOTARIALES
 
 ###### ARTICULO 195.
 
@@ -2603,9 +2695,9 @@ Los contribuyentes cuyos ingresos anuales no rebasen el total de $ 3 000,000.00 
 
 Por expendio accidental del alcohol, aguardiente y bebidas alcohólicas, se pagara por el derecho de permiso, impuesto y vigilancia especial, de $300.00 a $ 3,000.00 diarios. La cuota asignada se pagará por adelantado, debiéndose solicitar permiso previo correspondiente, ante la Oficina Recaudadora respectiva.
 
-### CAPITULO II
+### CAPITULO I
 
-DE DERECHOS POR SERVICIOS DE SALUBRIDAD, EXCEPTO LOS SEÑALADOS EN EL ARTÍCULO 86 Y SUS FRACCIONES, DE ESTA LEY.
+DE LOS DERECHOS POR REGISTRO DE GIROS COMERCIALES E INDUSTRIALES.
 
 ###### ARTICULO 212.
 
@@ -2630,6 +2722,10 @@ Los recaudadores de rentas y auditores fiscales están autorizados para efectuar
 ## TITULO DECIMO SEGUNDO
 
 DERECHOS SUSPENDIDOS EN TANTO EL ESTADO DE GUERRERO PERMANEZCA COORDINADO CON LA FEDERACIÓN EN ESTA MATERIA.
+
+### CAPITULO II
+
+DE DERECHOS POR SERVICIOS DE SALUBRIDAD, EXCEPTO LOS SEÑALADOS EN EL ARTÍCULO 86 Y SUS FRACCIONES, DE ESTA LEY.
 
 ### CAPITULO III
 
@@ -2728,5 +2824,31 @@ Se hará aplicable a todo tipo de servicio público, así como el servicio parti
 Los propietarios de automóviles que no se encuentre, debidamente regularizados, contarán con un plazo de tres meses para realizar los trámites y el pago correspondientes, contados a partir de la entrada en vigor del presente Decreto.
 
 ###### ARTÍCULO SEXTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de 2007.
+
+###### ARTÍCULO SEGUNDO.
+
+Se otorgarán Estímulos Fiscales de hasta el 25% de descuento en los conceptos de corridas de toros y novilladas que señala el artículo 16, fracciones II y III.
+
+###### ARTÍCULO TERCERO.
+
+Se otorgarán Estímulos Fiscales de hasta el 40% de descuento en los conceptos que señala el artículo 82, fracción I, inciso A) punto 1 sobre la expedición inicial; inciso B) fracción II, inciso C, D) y G); fracción III inciso A, punto 1, número 4 y número 5, inciso C) número 1, inciso D) número 1, 4 y 5; fracción IV inciso A, numero 1 y 2.
+
+###### ARTÍCULO CUARTO.
+
+Para el cumplimiento del pago de la Revista Electromecánica y de Confort, que señala el artículo 82 Fracción IV, inciso "A", Subinciso 1 y 2:
+
+1.1ª. Revista se aplicará el pago dentro de los 3 primeros meses del año, enero, febrero y marzo.
+
+2.2ª. Revista se aplicará el pago de los meses julio, agosto y septiembre. Se hará aplicable a todo tipo de servicio público, así como el servicio particular de carga, incluyendo el tarjetón.
+
+###### ARTÍCULO QUINTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
