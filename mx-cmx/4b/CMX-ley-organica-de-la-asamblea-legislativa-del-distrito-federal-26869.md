@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2006-10-23"
+last_updated: "2006-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -302,7 +302,9 @@ Son obligaciones de los Diputados:
 
 I.- Rendir la protesta y tomar posesión de su encargo;
 
-II.- Formar parte de hasta cuatro comisiones y/o comités de la Asamblea;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2006)</small>
+
+II. Formar parte de hasta cinco comisiones ordinarias y/o comités de la Asamblea;
 
 III.- Cumplir con diligencia los trabajos que les sean encomendados por el Pleno, La Diputación Permanente, la Comisión de Gobierno, las comisiones y los comités;
 
@@ -1088,9 +1090,21 @@ I. Administración;
 
 II. Asuntos Editoriales;
 
-III. Atención, Orientación y Quejas Ciudadanas, y
+III. Atención, Orientación y Quejas Ciudadanas, y (sic)
 
-IV. De la Biblioteca "Francisco Zarco".
+IV. De la Biblioteca "Francisco Zarco";
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2006)</small>
+
+V. Comité de Asuntos Internacionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2006)</small>
+
+VI. Comité de Capacitación, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2006)</small>
+
+VII. Comité para la promoción y seguimiento de la Cultura de la Legalidad.
 
 Los Comités son órganos auxiliares de carácter administrativo, para realizar tareas diferentes a las de las comisiones.
 
@@ -1497,3 +1511,9 @@ El presente Decreto entrará en vigor al momento de su aprobación por el Pleno 
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
