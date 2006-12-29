@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "2005-12-30"
+last_updated: "2006-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -1191,15 +1191,125 @@ Es objeto de este derecho, las licencias para la construcción del Registro de P
 
 Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+#### SECCION NOVENA BIS. DERECHOS POR EL OTORGAMIENTO DE LICENCIAS DE USO DE SUELO Y AUTORIZACION DE FRACCIONAMIENTOS EN SUS DIVERSAS MODALIDADES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 118 Bis.
+
+Por el otorgamiento de Licencias de Uso del Suelo en sus diversas modalidades:
+
+1.- Licencias de uso de suelo unifamiliares, cuya ubicación del predio se localice dentro o fuera de un fraccionamiento:
+
+a).- Habitacional popular
+
+b).- Habitacional de interés social
+
+c).- Habitacional de tipo medio
+
+d).- Habitacional de tipo residencial
+
+2.- Licencias de uso del suelo para efectos de construir fraccionamientos o subdivisiones conforme a los siguientes tipos:
+
+a).- Subdivisión sin alterar el uso
+
+b).- Subdivisión sin trazo de calles
+
+c).- Subdivisión con trazos de calles
+
+d).- Fraccionamiento de interés social
+
+e).- Fraccionamiento de tipo medio
+
+f).- Fraccionamiento de tipo residencial
+
+g).- fraccionamiento de tipo campestre
+
+h).- Fraccionamiento Industrial
+
+3.- Licencias de uso del suelo comercial y de servicios, de acuerdo con las siguientes superficies:
+
+a).- Comercial de hasta 30 M2
+
+b).- Comercial de 31 M2 hasta 120M2
+
+c).- Comercial de más de 120M2
+
+d).- Servicios de hasta 30 M2
+
+e).- Servicios de 31 M2 hasta 120M2
+
+f).- Servicios de más de 120M2 Por cada 30 m2 adicionales.
+
+4.- Licencia de uso de suelo industrial, con base en la clasificación normativa de la Secretaría del Ramo:
+
+a).- Microindustria
+
+b).- Pequeña Industria
+
+c).- Mediana Industria
+
+d).- Gran Industria
+
+5.- Licencia de usos del suelo segregados.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 118 Ter.
+
+Por la revisión y evaluación de los siguientes expedientes técnicos:
+
+a).- Subdivisiones sin trazo de calles
+
+b).- Subdivisiones para vivienda de interés social
+
+c) - Subdivisiones para vivienda de tipo medio
+
+d).- Subdivisiones para la vivienda tipo residencial
+
+e).- Subdivisiones para industria
+
+f).- Subdivisiones con trazos de calles de usos mixto
+
+g).- Fraccionamiento de interés social
+
+h).- Fraccionamiento de tipo medio
+
+i).- Fraccionamiento de tipo residencial
+
+j).- Fraccionamiento industrial
+
+k).- Fraccionamiento campestre
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 118 Quater.
+
+por la expedición de las licencias de subdivisión y autorización de fraccionamientos:
+
+1.- Por la autorización de fraccionamientos, subdivisiones de vivienda de interés social o de tipo popular, renotificaciones y régimen de propiedad en condominio:
+
+a).- Los que se ubiquen en zona metropolitana (por lote)
+
+b).- Para los que se ubiquen en el resto del territorio del Municipio: (por lote)
+
+c).- Renotificaciones en subdivisiones o fraccionamientos, pagarán en forma proporcional a la superficie a renotificar, sobre el costo de los derechos causados por la expedición de la licencia.
+
+d).- Constitución de Régimen de propiedad en condominio se pagará tomando como base la suma de las áreas de propiedad.
+
+e).- Por autorización y certificación de libros de actas de régimen de propiedad en condominio.
+
+2.- Para la autorización de fraccionamiento o subdivisiones que tipo residencial, campestre Industrial y comercial se cobrarán derechos a razón de 8% del valor catastral de la superficie del terreno, más el 7.5% del valor de las obras de urbanización.
+
+Los derechos contenidos en el presente Artículo y los que anteceden, se causarán y pagarán de acuerdo con las cuotas y tarifas del Municipio que correspondan, de conformidad con el Título Octavo de la presente Ley.
+
 #### SECCION DECIMA. DERECHOS POR AUTORIZACION DE REPARACION DE CASAS, EDIFICIOS Y FACHADAS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
-
-#### SECCION DECIMA PRIMERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BARDAS
-
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 119.
 
@@ -1211,11 +1321,9 @@ Es objeto de este derecho las licencias para la reparación de casas, edificios 
 
 Estos derechos de (sic) causarán y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA SEGUNDA. DERECHOS POR AUTORIZACION PARA DEMOLICIONES POR METRO CUBICO
+#### SECCION DECIMA PRIMERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BARDAS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 121.
 
@@ -1227,7 +1335,7 @@ Es objeto de este derecho la autorización para la construcción de toda clase d
 
 Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA TERCERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BANQUETAS
+#### SECCION DECIMA SEGUNDA. DERECHOS POR AUTORIZACION PARA DEMOLICIONES POR METRO CUBICO
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1243,9 +1351,11 @@ Es objeto de este derecho las licencias para la construcción para la demolició
 
 Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el municipio que corresponda se contengan en el Título Octavo de ésta Ley.
 
-#### SECCION DECIMA CUARTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE GUARNICIONES
+#### SECCION DECIMA TERCERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BANQUETAS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 125.
 
@@ -1257,11 +1367,9 @@ Es objeto de este derecho, las licencias para la construcción de banquetas.
 
 Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA QUINTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE PAVIMENTO
+#### SECCION DECIMA CUARTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE GUARNICIONES
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 127.
 
@@ -1273,7 +1381,11 @@ Es objeto de este derecho las licencias para la construcción de guarniciones.
 
 Este derecho se causará y pagará de acuerdo con la tarifa que para cada Municipio se contienen en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA SEXTA. DERECHOS POR LA AUTORIZACION PARA LA INTRODUCCION DE TOMAS DE AGUA
+#### SECCION DECIMA QUINTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE PAVIMENTO
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 129.
 
@@ -1285,7 +1397,7 @@ Es objeto de este derecho las licencias para la construcción de toda clase de p
 
 Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA OCTAVA. DERECHOS POR AUTORIZACION PARA ESTACIONAMIENTO EN VIA PUBLICA
+#### SECCION DECIMA SEXTA. DERECHOS POR LA AUTORIZACION PARA LA INTRODUCCION DE TOMAS DE AGUA
 
 ###### ARTICULO 131.
 
@@ -1311,9 +1423,7 @@ Es objeto de este derecho la autorización para la consturcción (sic), instalac
 
 Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para cada Municipio se contienen en el Título Octavo de esta Ley.
 
-#### SECCION PRIMERA. DERECHOS POR SERVICIOS DE VIGILANCIA A RASTROS PARTICULARES
-
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+#### SECCION DECIMA OCTAVA. DERECHOS POR AUTORIZACION PARA ESTACIONAMIENTO EN VIA PUBLICA
 
 ###### ARTICULO 135.
 
@@ -1327,7 +1437,7 @@ Este derecho se causará y pagará de conformidad con las cuotas y tarifas que p
 
 ### CAPITULO CUARTO. DE LOS SERVICIOS DE VIGILANCIA
 
-#### SECCION SEGUNDA. DERECHOS POR SERVICIO DE VIGILANCIA A ESTACIONAMIENTOS PUBLICOS CONCESIONADOS A PARTICULARES
+#### SECCION PRIMERA. DERECHOS POR SERVICIOS DE VIGILANCIA A RASTROS PARTICULARES
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1347,7 +1457,7 @@ Son sujetos de este derecho, las personas físicas, morales o unidades económic
 
 Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para cada Municipio se contienen en el Título Octavo de esta Ley.
 
-#### SECCION TERCERA. DERECHOS POR SERVICIO DE INSPECCION Y VIGILANCIA A CABARETS Y CENTROS NOCTURNOS
+#### SECCION SEGUNDA. DERECHOS POR SERVICIO DE VIGILANCIA A ESTACIONAMIENTOS PUBLICOS CONCESIONADOS A PARTICULARES
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1372,6 +1482,10 @@ Este derecho se causará y pagará de conformidad con las cuotas y tarifas que p
 ###### ARTICULO 143.
 
 El pago de este derecho, deberá hacerse ante la Tesorería Municipal correspondiente, dentro de los días 1o. al 20 de los meses de Febrero, abril, junio, agosto, octubre y diciembre de cada ejercicio.
+
+#### SECCION TERCERA. DERECHOS POR SERVICIO DE INSPECCION Y VIGILANCIA A CABARETS Y CENTROS NOCTURNOS
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 144.
 
@@ -1862,3 +1976,15 @@ P.O. 30 DE DICIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor el día 1º. de enero de 2006, previa su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las contribuciones establecidas en el cuerpo de este Decreto serán objeto de recaudación por parte de los Municipios una vez que sea aprobado y entre en vigor, el nuevo ordenamiento estatal que regula el desarrollo urbano y los asentamientos humanos.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+CUARTO.- En tanto la presente adición entre en vigor, las disposiciones legales Municipales que deberán adecuarse por virtud de este mandato, continuarán aplicándose en todo lo que no se oponga a esta reforma.
+
+QUINTO.- Los Municipios que no cuenten con la capacidad técnica, económica y administrativa, para atender las funciones relacionadas con la administración de las contribuciones establecidas en el presente Decreto podrán celebrar Convenios con el Estado, para que éste se haga cargo de las mismas.
