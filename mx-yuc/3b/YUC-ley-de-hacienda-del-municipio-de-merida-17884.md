@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-17884"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2006-01-02"
+last_updated: "2006-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 30 de diciembre de 1999.
 
@@ -105,25 +105,31 @@ A falta de norma fiscal expresa se aplicarán supletoriamente el Código Fiscal 
 
 La ignorancia de las leyes y de las demás disposiciones fiscales de observancia general debidamente publicadas, no servirá de excusa, ni aprovechará a persona alguna.
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 8.
 
-Contra las resoluciones que dicten las autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley Orgánica de los Municipios del Estado de Yucatán.
+Contra las resoluciones que dicten las autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-Cuando se trate de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación o en juicio contencioso administrativo, de conformidad con lo dispuesto en el Código Fiscal de la Federación.
-
-En este caso, los recursos que se promuevan se tramitarán y resolverán en la forma prevista en dicho Código.
+Cuando se trate de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación, de conformidad con lo dispuesto en el Código Fiscal de la Federación; o mediante juicio contencioso administrativo, de conformidad con lo dispuesto en la Ley Federal de Procedimiento Contencioso Administrativo.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
+En este caso, los recursos que se promuevan se tramitarán y resolverán en la forma prevista en dicho Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 9.
 
-Interpuesto en tiempo algún recurso, en los términos de la Ley Orgánica de los Municipios del Estado de Yucatán o del Código Fiscal de la Federación, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgare garantía suficiente a juicio de la autoridad.
+Interpuesto en tiempo algún recurso, en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán, del Código Fiscal de la Federación o de la Ley Federal de Procedimiento Contencioso Administrativo, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgare garantía suficiente a juicio de la autoridad.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 Las garantías que menciona este artículo serán estimadas por la autoridad como suficientes, siempre que cubran, además de las contribuciones o créditos actualizados, los accesorios (recargos y las multas) causados, así como los que se generen en los doce meses siguientes a su otorgamiento.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 Dichas garantías serán:
 
@@ -139,11 +145,15 @@ d).-Prenda.
 
 e).- Embargo en la vía administrativa.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 Respecto de la garantía prendaria, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 salarios mínimos diarios vigentes en el municipio al momento de la determinación del crédito.
 
 > <small>(ADICIONADO, D.O. 8 DE ENERO DE 2005)</small>
 
 En caso de otorgarse la garantía señalada en el inciso e) deberán pagarse los gastos de ejecución que se establecen en el artículo 152 de esta Ley.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen el Código Fiscal de la Federación y el reglamento de dicho Código.
 
@@ -161,11 +171,29 @@ a).- El Ayuntamiento de Mérida.
 
 b).- El Presidente Municipal de Mérida.
 
-c).- El Director de Finanzas y Tesorero Municipal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-d).- El Subdirector, jefe o encargado de la Oficina de ingresos.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-e).- El titular de la oficina encargada de aplicar el procedimiento administrativo de ejecución.
+c).- El Síndico.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+d).- El Director de Finanzas y Tesorero Municipal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+e).- El Subdirector, jefe o encargado de la Oficina de ingresos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+f).- El titular de la oficina encargada de aplicar el procedimiento administrativo de ejecución.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -419,7 +447,11 @@ La falta de pago de alguna parcialidad ocasionará la revocación de la autoriza
 
 (*) Los contribuyentes deberán efectuar los pagos de sus créditos fiscales municipales, en las cajas recaudadoras de la Dirección de Finanzas y Tesorería Municipal, en las instituciones de crédito autorizadas, ya sea acudiendo o por transferencia electrónica de fondos, o en los lugares que la propia Dirección designe para tal efecto; sin aviso previo o requerimiento alguno, salvo en los casos en que las disposiciones legales determinen lo contrario.
 
-Se aceptarán como medio de pago, el dinero en efectivo en moneda nacional y curso legal, la transferencia electrónica de fondos y los cheques para abono en cuenta a favor del "Municipio de Mérida Yucatán"; éstos últimos deberán ser certificados cuando correspondan a una sucursal de institución de crédito ubicada fuera del Municipio de Mérida. Se entiende por transferencia electrónica de fondos, el pago que se realice por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor del "Municipio de Mérida Yucatán", que se realice por las instituciones de crédito, en forma electrónica.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Se aceptarán como medio de pago, el dinero en efectivo en moneda nacional y curso legal, la transferencia electrónica de fondos y los cheques para abono en cuenta a favor del "Municipio de Mérida Yucatán"; éstos últimos deberán ser certificados cuando correspondan a una sucursal de institución de crédito ubicada fuera del Municipio de Mérida o bien exceda el importe de $2,000.00. Se entiende por transferencia electrónica de fondos, el pago que se realice por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor del "Municipio de Mérida Yucatán", que se realice por las instituciones de crédito, en forma electrónica.
 
 Igualmente, se aceptará el pago mediante tarjeta de crédito del contribuyente, débito o monedero electrónico, cuando en las cajas recaudadoras se encuentren habilitados los dispositivos necesarios para la recepción de dichos medios de pago y para las contribuciones o grupo de contribuyentes que determine la Dirección de Finanzas y Tesorería Municipal.
 
@@ -517,9 +549,9 @@ f).- Copia del comprobante de su Clave Única de Registro de Población en su ca
 
 g).- Autorización de Ocupación en los casos previstos en el Reglamento de Construcciones del Municipio de Mérida;
 
-> <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-h).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente del pago de derechos, acreditándolo con copia del recibo oficial correspondiente.
+h).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente del pago de derechos, acreditándolo con copia del recibo oficial correspondiente o bien del recibo que emita el organismo paramunicipal administrador del servicio.
 
 Para la revalidación de la licencia municipal de funcionamiento deberán presentarse:
 
@@ -535,11 +567,11 @@ e).- Copia del comprobante de inscripción en el Registro Federal de Contribuyen
 
 f).- Copia del comprobante de su Clave Única de Registro de Población en su caso.
 
-> <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
-
-g).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente del pago de derechos, acreditándolo con copia del recibo oficial correspondiente.
-
 Para el caso de revalidación, los requisitos de los incisos e) y f) se presentarán solo en caso de que esos datos no estén registrados en el padrón municipal.
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+g).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente del pago de derechos, acreditándolo con copia del recibo oficial correspondiente o bien del recibo que emita el organismo paramunicipal administrador del servicio.
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -591,7 +623,9 @@ Cuando el pago de las contribuciones o de los créditos fiscales, hubiese sido m
 
 (*) El cheque recibido por el Municipio de Mérida, en pago de alguna contribución, aprovechamiento, crédito fiscal o garantía, en términos de la presente ley, que sea presentado en tiempo al librado y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización suficiente para resarcirlo de los daños y perjuicios que con ello le ocasionó. En ningún caso la indemnización será menor del 20% del importe del propio cheque en caso de que no haya sido pagado por motivo de fondos insuficientes en la cuenta del librador o bien del 10% en caso de que no haya sido pagado por una causa diferente a la insuficiencia de fondos en la cuenta del librador, y se exigirá independientemente de los otros conceptos a que se refiere este título. En todos los casos la indemnización a que se refiere este párrafo deberá ser de cuando menos en un importe suficiente para cubrir las comisiones y gastos que le hayan ocasionado al Municipio de Mérida con motivo de la presentación para cobro o depósito en cuenta bancaria del Municipio de dicho cheque.
 
-Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de siete días efectúe el pago de su importe junto con la mencionada indemnización, o bien, acredite fehacientemente, con las pruebas documentales procedentes que se realizó el pago o que éste no se realizó, por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal municipal requerirá y cobrará el monto del cheque, la indemnización y, en su caso, los recargos mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal, que en su caso, proceda.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de siete días efectúe el pago de su importe junto con la mencionada indemnización. Transcurrido el plazo señalado sin que se obtenga el pago, la autoridad fiscal municipal requerirá y cobrará el monto del cheque, la indemnización y, en su caso, los recargos mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal, que en su caso, proceda.
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -839,6 +873,10 @@ Del pago.
 
 Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante los meses de enero y febrero de dicho año, gozará de una bonificación del 0.10 sobre el importe de dicho impuesto.
 
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Cuando el último de los plazos a que se refieren los párrafos anteriores fuere día inhábil, el plazo se entenderá prorrogado hasta el día hábil siguiente.
+
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 De la base Contraprestación
@@ -894,6 +932,10 @@ Del pago
 (*) Cuando el impuesto predial se cause sobre la base de la contraprestación pactada por usar, gozar o permitir la ocupación de un inmueble, el impuesto deberá cubrirse durante la primera quincena del mes siguiente a aquél en que se cumpla alguno de los siguientes supuestos: que sea exigible el pago de la contraprestación; que se expida el comprobante de la misma o se cobre el monto pactado por el uso o goce, lo que suceda primero, salvo el caso en que los sujetos de este impuesto estuviesen siguiendo un procedimiento judicial para el cobro de la contraprestación pactada, en contra del ocupante o arrendatario.
 
 En este caso, para que los propietarios, usufructuarios, fideicomisarios o fideicomitentes tributen sobre la base del valor catastral del inmueble objeto, deberán notificar dicha situación a la Dirección de Finanzas y Tesorería Municipal, dentro de los quince días siguientes a la fecha de inicio del procedimiento correspondiente, anexando copia del memorial respectivo, sin perjuicio de que al término del procedimiento judicial mencionado pague la diferencia que resulte entre la base valor catastral y la base contraprestación. En este caso no se causará actualización ni recargos.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Cuando el último de los plazos a que se refieren los párrafos anteriores fuere día inhábil, el plazo se entenderá prorrogado hasta el día hábil siguiente.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTICULO 48], D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1239,7 +1281,9 @@ El pago de los derechos deberá hacerse previamente a la prestación del servici
 
 Los derechos que establece esta Ley se pagarán por los servicios que preste el Ayuntamiento de Mérida en sus funciones de derecho público o por el uso o aprovechamiento de los bienes del dominio público del Municipio destinados a la prestación de un servicio público.
 
-Cuando de conformidad con la Ley Orgánica de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta o bien por un organismo descentralizado o paramunicipal, se seguirán cobrando los derechos en los términos establecidos por esta Ley.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Cuando de conformidad con la Ley Gobierno (sic) de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta o bien por un organismo descentralizado o paramunicipal, se seguirán cobrando los derechos en los términos establecidos por esta Ley.
 
 ###### ARTICULO 71.
 
@@ -1311,6 +1355,10 @@ XI. Visitas de inspección
 
 XII. Por peritaje arqueológico y ecológico.
 
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+XIII. Por Factibilidad de instalación de anuncio.
+
 De las bases
 
 ###### ARTICULO 75.
@@ -1331,7 +1379,9 @@ De la Base y de las Cuotas
 
 Los derechos por los servicios indicados en el artículo 74 se pagarán conforme lo siguiente:
 
-> <small>N. DE E. VEASE TABLA EN EL D.O. DE 2 DE ENERO DE 2006, PAGINAS DE LA 42 46.</small>
+N. DE VEASE TABLA EN EL D.O. DE 2 DE ENERO DE 2006, PAGINAS DE LA 42 46.
+
+> <small>N. DE E. VEASE REFORMAS A LA TABLA, D.O. 29 DE DICIEMBRE DE 2006, PAGINAS 7 Y 8.</small>
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1343,7 +1393,9 @@ De las exenciones
 
 Quedarán exentos del pago de los derechos establecidos en la presente Sección Segunda, los servicios que se soliciten a la Dirección de Desarrollo Urbano directamente relacionados con aquellos bienes inmuebles que se encuentran catalogados como Monumentos Históricos por el Instituto Nacional de Antropología e Historia, misma exención será aplicable a los sitios patrimoniales a que se refiere la Ley de Preservación y Promoción de la Cultura de Yucatán.
 
-Así mismo, se estará exento del pago del derecho por los servicios previstos en la fracción IV del articulo 74, en los siguientes casos:
+> <small>(REFORMADA [N. DE E. ANTES SEGUNDO PARRAFO], D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+I.- Estarán exentos del pago del derecho por los servicios previstos en la fracción IV del artículo 74, de esta Ley, en los siguientes casos:
 
 a).- Las construcciones para vivienda unifamiliar que sean edificadas físicamente por sus propietarios.
 
@@ -1351,7 +1403,23 @@ b).- Las construcciones de Centros Asistenciales y Sociales, propiedad de la Fed
 
 c).- La construcción de fosa séptica y de pozos de absorción.
 
-No pagarán derechos por los servicios previstos en la fracción X del articulo 74, los anuncios y propaganda de carácter político, los cuales se regirán conforme a las leyes electorales federal, estatal y los convenios correspondientes.
+> <small>(REFORMADA [N. DE E. ANTES TERCER PARRAFO], D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+II.- No se pagarán los derechos por los servicios previstos en la fracción IX del artículo 74 de esta Sección, en los siguientes casos:
+
+a).- Los anuncios y propaganda de carácter político, los cuales se regirán conforme a las leyes electorales federal, estatal y los convenios correspondientes.
+
+b).- Periódicos en tableros sobre edificios que estén ocupados por la casa editora de los mismos.
+
+c).- Programas o anuncios de espectáculos o diversiones públicas fijadas en tableros, cuya superficie en conjunto no exceda de dos metros cuadrados, adosados precisamente en los edificios, en que se presente el espectáculo.
+
+d).- Anuncios referentes a cultos religiosos, cuando estén sobre tableros en las puertas de los templos o en lugares específicamente diseñados para éste efecto.
+
+e).- Adornos navideños, anuncios y adornos para fiestas cívicas nacionales o para eventos oficiales.
+
+f).- Anuncios de eventos culturales o educativos organizados por instituciones que no persiguen propósitos de lucro.
+
+g).- Anuncios transitorios colocados o fijados en el interior de escaparates y vitrinas comerciales.
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -1609,9 +1677,11 @@ c).- Rectificación de medidas, urbanización y cambio
 
 de nomenclatura: 1.0
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-d).- Cédulas catastrales (cada una): 2.0.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+d).- Cédulas catastrales (cada una): 4.0.
 
 e).- Constancias ó certificados de no propiedad,
 
@@ -1634,6 +1704,14 @@ de 11 hasta 20 predios 5.0
 de 21 predios en adelante 5.25 de base más 0.25 por cada predio excedente.
 
 g).- Certificado de no inscripción predial: 4.0
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+h).- Inclusión por Omisión: 2.0
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+i).- Historial del Predio y su Valor 1.5
 
 > <small>(REFORMADA, D.O. 8 DE ENERO DE 2005)</small>
 
@@ -1661,11 +1739,11 @@ IV (SIC).- (DEROGADA, D.O. 8 DE ENERO DE 2005)
 
 V.- (DEROGADA, D.O. 8 DE ENERO DE 2005)
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-VI.- Por diligencias de verificación de colindancias
+VI.- Por cada diligencia de verificación de colindancias de predios, o de medidas físicas:
 
-de predios o de medidas físicas por cada una: 5.0
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 a).- Para la factibilidad de división, urbanización, cambio de nomenclatura, estado de conservación del predio, ubicación física, no inscripción, mejora o demolición de construcción o rectificación de medidas. 5.0
 
@@ -1673,9 +1751,9 @@ a).- Para la factibilidad de división, urbanización, cambio de nomenclatura, e
 
 b).- Para la elaboración de actas circunstanciadas por cada predio colindante que requiera de investigación documental. 15.0
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 2 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-VII.- Cuando la elaboración de planos o la diligencia de verificación requiera trabajos de topografía, adicionalmente a la tasa de las fracciones III inciso f), V y VI, se causarán los siguientes derechos de acuerdo a la superficie:
+VII.- Por los trabajos de topografía que se requieran para la elaboración de planos o la diligencia de verificación, se causarán derechos de acuerdo a la superficie, conforme a lo siguiente:
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1731,21 +1809,15 @@ a).- Cuando se trate de la ubicación de un predio dentro de una manzana, se apl
 
 b).- Cuando se trate de la ubicación de una manzana, se aplicará el cobro por metro lineal con base en la distancia existente desde el punto de referencia catastral más cercano a la manzana solicitada por cada metro lineal 0.050
 
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 85], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 88-A.
+
+El derecho a que se refiere el inciso d) de la fracción III del artículo 88, se considerará reducido en un 50% cuando la emisión de la cédula catastral se derive de licencia para construcción con superficie de hasta 40 m2 y la solicitud de expedición de la cédula catastral se realice dentro de un plazo no mayor de 30 días naturales, considerando la fecha de expedición de la licencia de construcción.
 
 ###### ARTICULO 89.
 
-(*) Por la actualización o mejoras de predios se causarán y pagarán los siguientes derechos de acuerdo a la mejora a manifestar.
-
-Veces Salario Mínimo
-
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
-
-De 0.01 a 20.00 m2 Por m2 0.00
-
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
-
-De 20.01 en adelante Por m2 excedente 0.075
+(DEROGADO, D.O. 29 DE DICIEMBRE DE 2006)
 
 > <small>(REFORMADO [N. DE E. ANTES ARTICULO 86], D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1753,11 +1825,13 @@ De 20.01 en adelante Por m2 excedente 0.075
 
 (*) No causarán derecho alguno las divisiones o fracciones de terrenos en las zonas rústicas cuya superficie sea utilizada plenamente para la producción agrícola o ganadera.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 87], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 91.
+###### ARTÍCULO 91.
 
-(*).- Las divisiones y los fraccionamientos causarán derechos de deslindes, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con lo establecido en la fracción VII del artículo 88.
+Los deslindes, las divisiones y los fraccionamientos causarán derechos de conformidad con lo establecido en la fracción VII del artículo 88, con excepción de lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 No causarán los derechos establecidos en este artículo, las divisiones hasta en dos partes, cuando el predio original no exceda de 400 metros cuadrados.
 
@@ -1819,15 +1893,25 @@ de posicionamiento global (G.P.S.) por cada punto
 
 posicionando geográficamente. 12.0 salarios
 
-VIII.- Cuando la diligencia de verificación requiera
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-de trabajos de investigación en el Registro
+VIII.- Cuando los servicios catastrales solicitados,
+
+requieran de trabajos de verificación en el Registro
 
 Público de la Propiedad del Estado de Yucatán. 3.0 salarios
 
 IX.- Plano del municipio de Mérida (No georeferenciado)
 
 hasta nivel manzana, en disco compacto. 5.0 salarios
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+X.- Asignación de nomenclaturas en planos de
+
+fraccionamientos y divisiones de predios que formen al
+
+menos una vialidad, por cada fracción. 0.1 salarios
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1895,9 +1979,9 @@ De las obligaciones de terceros
 
 TARIFA
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-I.- Por el uso o servicio de la cámara de refrigeración por cadáver o resto humano, por día 4.0 salarios
+I.- Por el uso o servicio de la cámara de refrigeración por cadáver o resto humano a solicitud de particular, por día 4.0 salarios
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -2003,6 +2087,18 @@ c) Carroza 8.3 salarios
 
 d) Preparación 2.4 salarios
 
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+e) Cremación y disposición de cenizas:
+
+1) Adulto (uso de ataúd y entrega en urna) 69.3 salarios
+
+2) Niño (uso de ataúd y entrega en urna) 37.1 salarios
+
+3) Restos áridos (entrega en urna) 29.7 salarios
+
+4) Órganos humanos (entrega en urna) 35.3 salarios
+
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 II.- Por el uso de la sala de embalsamamiento: 3 salarios
@@ -2019,13 +2115,19 @@ Cuando sea fuera del Estado de Yucatán, se pagarán 3.6 salarios más 0.2 salar
 
 Para el cómputo del número de kilómetros recorridos señalados en esta fracción, se considerará como kilómetros recorridos, las distancias establecidas por la Secretaría de Comunicaciones y Transportes, entre el punto de origen hasta el punto de destino del traslado.
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-IV.- Cremación:
+IV.- Por el servicio de Cremación prestado a empresas funerarias:
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 a) Adulto 54.6 salarios
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 b) Niño 28.5 salarios
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 c) Restos áridos: 21.4 salarios
 
@@ -2036,14 +2138,6 @@ d) Por Órganos Humanos, hasta 2 órganos. 25.0 salarios
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
 
 Cuando el servicio de cremación sea prestado por un particular, este deberá informar a la Subdirección de Cementerios del Ayuntamiento de Mérida, previamente a la prestación de dicho servicio, y cubrir el 0.20 de las tarifas señaladas en esta fracción.
-
-> <small>(DEROGADO TERCER PARRAFO D.O. 2 DE ENERO DE 2006)</small>
-
-> <small>(DEROGADO CUARTO PARRAFO D.O. 2 DE ENERO DE 2006)</small>
-
-> <small>(DEROGADO QUINTO PARRAFO D.O. 2 DE ENERO DE 2006)</small>
-
-> <small>(DEROGADO SEXTO PARRAFO D.O. 2 DE ENERO DE 2006)</small>
 
 > <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -2581,6 +2675,84 @@ En aquellos casos en los que no se haya instalado el aparato medidor para cuanti
 
 Los derechos a que se refiere la presente sección deberán cubrirse dentro del mes siguiente al cual correspondan, no se causará actualización ni recargos sobre los mismos.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+#### Sección Décima Novena. Derechos por los Servicio de la Central de Abastos
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+De los sujetos
+
+###### ARTICULO 129-G.
+
+Son sujetos obligados al pago de los derechos establecidos en esta Sección, las personas físicas o morales que se dediquen a la comercialización, entrega o almacenamiento de productos, o prestación de servicios, en la central de abasto de Mérida.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Del objeto
+
+###### ARTICULO 129-H.
+
+Es objeto de este derecho, la prestación de los servicios de administración de central de abasto, que proporcione la Administración Pública Municipal, a través de alguna dependencia u organismo descentralizado o paramunicipal.
+
+Por el servicio de administración de central de abasto se entenderá, la asignación de lugares o espacios para la instalación de lugares fijos o semifijos y el control de los mismos, así como los servicios de aseo, mantenimiento, vigilancia, de entrada de vehículos, y otros relacionados con la operación y funcionamiento de las áreas e instalaciones de uso común.
+
+Los ingresos que se obtengan por los servicios señalados en esta Sección, serán administrados por el organismo municipal descentralizado del Ayuntamiento de Mérida denominado "Central de Abasto de Mérida", en los términos del Decreto Número 526 publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 5 de Enero de 1982.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+De la base y cuotas
+
+###### ARTICULO 129-I.
+
+Los derechos por los servicios a que se refiere la presente sección, se pagarán conforme a lo siguiente:
+
+I.- Por cada vehículo que entre con carga a las instalaciones de la Central de Abasto de Mérida, se pagará por concepto de acceso las siguientes cuotas, con base al número de ejes y capacidad del mismo, incluyendo en su caso el remolque o semiremolque que arrastre:
+
+a) De dos ejes, de hasta 3 toneladas 30.00 pesos
+
+b) De dos ejes, de más de 3 toneladas 75.00 pesos
+
+c) De tres ejes 100.00 pesos
+
+d) De más de tres ejes 200.00 pesos
+
+II.- Por cada día de uso de andén para
+
+la exhibición o venta de productos, por cada
+
+área de frente a la bodega, de hasta 4 metros
+
+lineales: 20.00 pesos
+
+III.- Por cada 4 metros de frente de bodega,
+
+por concepto de mantenimiento y limpieza
+
+de las áreas e instalaciones de uso común,
+
+por mes: Cuando derivado de la aplicación
+
+de esta fracción III resulte un importe mayor
+
+a 1,100 pesos por mes, el derecho se
+
+considerará causado hasta por 1,100 pesos
+
+del pago. 90.00 pesos
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Del pago
+
+###### ARTICULO 129-J.
+
+Las cuotas a que se refiere la fracción I del artículo 129-I, deberán ser pagadas previamente a la entrada del vehículo a las instalaciones de la central de abasto de Mérida.
+
+En el caso a que se refiere la fracción II del articulo 129-I, las cuotas deberán ser pagadas en forma diaria a más tardar en el día al cual correspondan. Las cuotas a que se refiere la fracción III del mencionado artículo 129-I, deberán ser cubiertas en forma mensual dentro de los primeros diez días del mes siguiente al cual correspondan.
+
+No se causarán actualización ni recargos sobre las cuotas a que se refiere el artículo 129-I.
+
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 #### Sección Única. Contribuciones por Mejoras
@@ -2597,6 +2769,10 @@ De la clasificación
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 8 DE ENERO DE 2005)</small>
 
+### CAPÍTULO III. CONTRIBUCIONES ESPECIALES
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 #### Sección Única. Aprovechamientos
 
 > <small>(ADICIONADA SU DENOMINACION, D.O. 2 DE ENERO DE 2006)</small>
@@ -2604,14 +2780,6 @@ De la clasificación
 Multas Federales No Fiscales
 
 > <small>(ADICIONADO [N. DE E. ANTES ARTICULO 116], D.O. 31 DE DICIEMBRE DE 2004)</small>
-
-### CAPÍTULO III. CONTRIBUCIONES ESPECIALES
-
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
-
-#### Sección Primera. De los Gastos de Ejecución
-
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 118], D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 130.
 
@@ -2773,9 +2941,9 @@ Para tal efecto, la Dirección o dependencia, a que se refiere el párrafo anter
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
-#### Sección Segunda. De los Gastos Extraordinarios de Ejecución
+#### Sección Primera. De los Gastos de Ejecución
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 119], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 142.
 
@@ -2811,21 +2979,25 @@ VII.- Por la enajenación y venta de bases de licitación.
 
 VIII.- Por otros productos no especificados en las fracciones anteriores.
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 109], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 De los arrendamientos y las ventas
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 143.
 
-Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del municipio, se llevarán a cabo, conforme a lo dispuesto en la Ley Orgánica de los Municipios del Estado.
+Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del municipio, se llevarán a cabo conforme a lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 110], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 De la explotación
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 144.
 
-Los bienes muebles e inmuebles propiedad del municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de la Ley Orgánica de los Municipios del Estado.
+Los bienes muebles e inmuebles propiedad del municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 > <small>(ADICIONADO [N. DE E. ANTES ARTICULO 111], D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -2865,9 +3037,9 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 2 DE ENERO DE 2006)</small>
 
-#### Sección Primera. Generalidades
+#### Sección Segunda. De los Gastos Extraordinarios de Ejecución
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 122], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 119], D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 150.
 
@@ -2891,7 +3063,29 @@ IV.- Multas federales no fiscales.
 
 V.- Multas por infracciones previstas en el Reglamento de la Ley de Transporte del Estado de Yucatán.
 
-VI.- Aprovechamientos Diversos.
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+VI.- Honorarios por notificación.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+VII.- Aprovechamientos Diversos.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+De los honorarios por notificación
+
+###### ARTICULO 150-B.
+
+Cuando las autoridades fiscales realicen notificaciones personales, de conformidad con lo establecido en el Código Fiscal del Estado de Yucatán o el Código Fiscal de la Federación, para requerir el cumplimiento de obligaciones no satisfechas dentro de los plazos legales; se causarán y cobrarán a cargo de quien incurrió en el incumplimiento el equivalente a tres veces el salario mínimo vigente en la fecha de la diligencia, por concepto de honorarios por notificación.
+
+Tratándose de los honorarios a que se refiere este artículo, la autoridad recaudadora los determinará conjuntamente con la notificación y se pagarán al cumplir con el requerimiento.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 150-C.
+
+Los honorarios por notificación mencionados en el artículo inmediato anterior, no serán objeto de exención, disminución, condonación o convenio; las cantidades cobradas por ese concepto corresponderán a los empleados de la Dirección de Finanzas y Tesorería Municipal, que intervengan en el proceso y se encuentren adscritos a los departamentos involucrados y se distribuirán de conformidad con el acuerdo que al efecto emita el Director de Finanzas y Tesorero Municipal.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -2911,27 +3105,35 @@ En todo caso las autoridades fiscales municipales deberán señalar en los manda
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
-#### Sección Segunda. De los responsables
+#### Sección Primera. Generalidades
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 123], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 122], D.O. 31 DE DICIEMBRE DE 2004)</small>
 
-###### ARTICULO 152.
+###### ARTÍCULO 152.
 
-(*) Cuando las autoridades fiscales municipales utilicen el procedimiento administrativo de ejecución, para el cobro de una contribución o de un crédito fiscal, el contribuyente estará obligado a pagar el .02 de la contribución o del crédito fiscal correspondiente, por concepto de gastos de ejecución, y, además, pagará los gastos erogados, por cada una de las diligencias que a continuación, se relacionan:
+Cuando las autoridades fiscales municipales utilicen el procedimiento administrativo de ejecución, para el cobro de una contribución o de un crédito fiscal, el contribuyente estará obligado a pagar el .02 de la contribución o del crédito fiscal correspondiente, por concepto de gastos de ejecución, por cada una de las diligencias que a continuación, se relacionan:
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 I.- Por la de requerimiento.
 
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 II.- Por la de embargo, incluyendo el señalado en el inciso e) del artículo 9 de esta Ley.
 
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco municipal.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 Cuando el .02 del importe del crédito omitido, fuere inferior al importe de tres salarios mínimos, se cobrará esta cantidad en lugar del mencionado .02 del crédito omitido.
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
-#### Sección Tercera. De las infracciones y sanciones
+#### Sección Segunda. De los responsables
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 125], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 123], D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 153.
 
@@ -2975,15 +3177,21 @@ El importe de los gastos previstos en el artículo 152, corresponderá a los emp
 
 Para el caso de que el ingreso por gastos de ejecución, fueren generados en el cobro de multas federales no fiscales:
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
 .15 Jefe del Departamento de ejecución.
 
 .07 Cajeros.
 
 .04 Departamento de Contabilidad.
 
-.74 Empleados del Departamento de ejecución.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-Para el caso de que los ingresos por gastos de ejecución, fueren generados en el cobro de cualesquiera otras multas:
+.85 Empleados del Departamento de ejecución.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Para el caso de que los ingresos por gastos de ejecución, fueren generados en el cobro de cualesquiera otros créditos fiscales:
 
 .15 Jefe del Departamento de Ejecución.
 
@@ -3002,6 +3210,10 @@ Los ingresos mencionados en los artículos 152 y 153, serán recaudados por la D
 ### CAPÍTULO II. DE LAS INFRACCIONES Y MULTAS
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+#### Sección Tercera. De las infracciones y sanciones
+
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 125], D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 157.
 
@@ -3043,31 +3255,31 @@ g).- La matanza de ganado fuera de las instalaciones de alguna de las prestadora
 
 h).- La falta de cumplimiento o cumplimiento extemporáneo de las obligaciones previstas en el tercer párrafo del artículo 29 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 8 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 161.
+i).- Resistirse por cualquier medio a las visitas de inspección, no suministrar los datos e informes que legalmente puedan exigir las autoridades fiscales y, en general, negarse a proporcionar los elementos que se requieran para el desarrollo de las visitas domiciliarias.
 
-Serán sancionadas con multa de 10 salarios mínimos, las personas que cometan las infracciones contenidas en los incisos a), c), d), e) y h) del artículo 160.
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+j).- Proporcionar o manifestar datos falsos a la autoridad fiscal, de conformidad con lo establecido en esta Ley.
 
-Serán sancionadas con multas de 25 salarios mínimos, las personas que cometan la infracción, contenidas en el inciso f) del artículo 160.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+###### ARTÍCULO 161.
 
-Serán sancionadas con multas de 50 salarios mínimos, las personas que cometan la infracción, contenidas en los incisos b) del artículo 160.
+A quien cometa las infracciones a que se refiere el artículo 160, se hará acreedor de las siguientes sanciones:
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+I.- Multa de 10 a 15 salarios mínimos, a las comprendidas en los incisos a), c), d), e) y h).
 
-Serán sancionadas con multas de 150 salarios mínimos, las personas que cometan la infracción, contenida en el inciso g) del artículo 160.
+II.- Multa de 25 a 30 salarios mínimos, a la establecida en el inciso f).
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+III.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso b).
 
-Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+IV.- Multa de 150 a 170 salarios mínimos, a la establecida en el inciso g).
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+V.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso i).
 
-Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+VI.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso j).
 
 T R A N S I T O R I O S
 
@@ -3148,3 +3360,51 @@ Los derechos establecidos en la Sección Décima Tercera del Capítulo II del T�
 ###### ARTÍCULO TERCERO.
 
 En caso de que durante el transcurso del ejercicio sean modificadas mediante sesión de cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Sexta del Capítulo II del Título Segundo se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+D.O. 29 DE DICIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor el día 1 de enero de 2007, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTICULO SEGUNDO.
+
+Las siguientes reformas contenidas en este Decreto, entrarán en vigor en las fechas siguientes:
+
+I.- La reforma al artículo 88 en su fracción III inciso d), entrará en vigor el día 1º. de febrero de 2007.
+
+II.- La reforma al artículo 25, entrará en vigor el día 1º. de febrero de 2007.
+
+III.- Las disposiciones referentes al Síndico en el artículo 10, entrarán en vigor el día 1 de julio de 2007.
+
+###### ARTICULO TERCERO.
+
+Para efectos de lo dispuesto en el artículo 77 fracción X inciso b), y en tanto no se modifique el Reglamento de Anuncios e Imagen Publicitaria del Municipio de Mérida, no se causará el derecho que se establece cuando el anuncio sea hasta de un metro cuadrado.
+
+###### ARTICULO CUARTO.
+
+Los derechos establecidos en la Sección Décima Tercera del Capítulo II del Título Segundo de la Ley de Hacienda del Municipio de Mérida, serán aplicables únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+###### ARTICULO QUINTO.
+
+Cuando, durante el ejercicio fiscal 2007, sean modificadas en sesión de cabildo, las tarifas para la prestación del Servicio de Recolección de Residuos Sólidos no Peligrosos o Basura; las cuotas establecidas en la Sección Décima Sexta del Capítulo II del Título Segundo, se verán incrementadas o en su caso decrementadas, en la misma proporción que las tarifas autorizadas, lo sean para dichos concesionarios.
+
+###### ARTICULO SEXTO.
+
+Los contribuyentes del impuesto predial, podrán acreditar el saldo del estímulo a que se refiere el Artículo Cuarto Transitorio de la Ley de Ingresos del Municipio de Mérida, en el ejercicio fiscal 2007, contra el impuesto causado en los términos de la Sección Primera del Capítulo I del Título Segundo de esta Ley con relación al inmueble en el cual se realizaron los trabajos a que se refiere el artículo 20 de la mencionada Ley de Ingresos, conforme a lo siguiente:
+
+I.- Cuando el impuesto se cause con base al valor catastral del inmueble. El acreditamiento del saldo del estímulo se aplicará al impuesto causado por los períodos comprendidos entre el mes de enero del 2008 y el mes de diciembre de 2011.
+
+II.- Cuando el impuesto se cause con base a la contraprestación que produzcan los inmuebles, el acreditamiento del saldo del estimulo se aplicará al impuesto causado por los períodos comprendidos entre el mes de enero del 2008 y el mes de diciembre de 2009
+
+Para efectos de este artículo, se entenderá por acreditamiento, el restar del impuesto causado en el periodo un importe igual al saldo del estímulo; la diferencia resultante entre el impuesto causado y el acreditamiento derivado saldo del estímulo, en caso de que éste sea menor, deberá ser pagada. La suma de los acreditamientos aplicados no podrá ser mayor al saldo del estímulo a que se refiere el primer párrafo de este artículo.
+
+Una vez concluidos los trabajos señalados en el proyecto por el cual se dio el dictamen aprobatorio a que se refiere el artículo 20 de la multicitada Ley de Ingresos, el contribuyente obtendrá constancia de esto emitida por la Dirección de Desarrollo Urbano, y constancia de aplicación definitiva del estímulo emitida por la Dirección de Finanzas y Tesorería Municipal.
+
+De no concluirse en su totalidad los trabajos señalados en el proyecto por el cual se obtuvo dictamen a que se refiere el artículo 20 de la multicitada Ley de Ingresos en los plazos que el mismo señale, se considerará que el contribuyente ha perdido los beneficios a que se refiere el presente artículo, siendo improcedentes los importes acreditados, y se le hará exigible el impuesto causado con su respectiva actualización y recargos.
+
+Se faculta al Director de Finanzas y Tesorero Municipal a emitir los acuerdos, en materia fiscal, necesarios para la mejor aplicación de este estímulo.
+
+La aplicación saldo del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial, tales como las de presentar avisos y declaraciones.
+
+En ningún caso la aplicación saldo del estímulo a que se refiere este artículo dará lugar a devolución de cantidad alguna.
