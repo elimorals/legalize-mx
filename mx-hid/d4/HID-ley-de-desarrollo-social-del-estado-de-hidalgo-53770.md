@@ -1,0 +1,924 @@
+---
+title: "LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO"
+identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
+country: "mx"
+rank: "ley"
+publication_date: "2006-12-29"
+last_updated: "2006-12-29"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-hid"
+scjn_id: "53770"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "53 BIS"
+reform_count: "20"
+scjn_last_update: "2026-04-22"
+issue_date: "2006-12-29"
+state: "HID"
+---
+# LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
+
+LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
+
+MIGUEL ANGEL OSORIO CHONG, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
+
+QUE LA LIX LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+
+DECRETO NUM. 328
+
+QUE CONTIENE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
+
+El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, DECRETA:
+
+A N T E C E D E N T E S
+
+1.- En sesión ordinaria de fecha 28 de diciembre del año dos mil cinco, por instrucciones del Presidente de la Directiva del Congreso del Estado, nos fue turnado para su estudio y dictamen, la Iniciativa de Ley de Desarrollo Social del Estado de Hidalgo.
+
+2.- Las Comisiones Legislativas actuantes registraron el presente asunto en el Libro de Gobierno con el número 056/2005.
+
+C O N S I D E R A N D O.
+
+POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+
+D E C R E T O
+
+QUE CONTIENE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
+
+### CAPITULO I. NATURALEZA Y OBJETO DE LA LEY
+
+###### Artículo 1.
+
+Las disposiciones de la presente Ley son de orden público, interés social y de observancia obligatoria en el Estado de Hidalgo.
+
+###### Artículo 2.
+
+La presente Ley tiene por objeto:
+
+I.- Fomentar el desarrollo social y humano, garantizar el pleno ejercicio de los derechos sociales y crear los mecanismos necesarios para lograr la cabal realización y concreción de los mismos;
+
+II.- Coordinar y armonizar la Política Estatal y Municipal de desarrollo social, en el marco de la Política Nacional de Desarrollo Social;
+
+III.- Establecer las bases y principios generales para la planeación, instrumentación, ejecución, seguimiento y evaluación de las políticas públicas en materia de desarrollo social;
+
+IV.- Garantizar la calidad de los programas sociales a cargo del Gobierno del Estado y de los Municipios, así como su eficiente aplicación con apego a los principios de equidad y justicia;
+
+V.- Impulsar la participación ciudadana, abriendo espacios para que la sociedad en sus diferentes formas de organización coadyuve con la Política Estatal en materia de Desarrollo Social;
+
+VI.- Establecer los criterios de coordinación de las acciones que se realicen entre el Gobierno del Estado y los Municipios y ambos con la Federación, en materia de Desarrollo Social;
+
+VII.- Impulsar el desarrollo económico que promueva el desarrollo social de las Zonas de Atención Prioritaria en el Estado; y
+
+VIII.- Crear y regular el Consejo Estatal de Desarrollo Social.
+
+###### Artículo 3.
+
+Para los efectos de la presente Ley se entenderá por:
+
+I.- Beneficiarios: Las personas que cumplen los requisitos de la normatividad correspondiente, formando parte de la población atendida por los programas sociales;
+
+II.- COPLADEHI: El Comité de Planeación para el Desarrollo del Estado de Hidalgo, regulado por la Ley de Planeación para el Desarrollo del Estado de Hidalgo;
+
+III.- COPLADEM: El Comité de Planeación para el Desarrollo Municipal regulado en la Ley de Planeación para el Desarrollo del Estado de Hidalgo;
+
+IV.- Dependencias: Las Secretarías que conforman al Poder Ejecutivo y que constituyen la Administración Pública Central en términos de la Ley Orgánica de la Administración Pública;
+
+V.- Desarrollo Social: El proceso de mecanismos y políticas públicas permanentes que generen condiciones para la incorporación plena de individuos, grupos y sectores de la sociedad, comunidades y regiones, al mejoramiento integral y sustentable de sus capacidades productivas y que su calidad de vida, garantice el disfrute de los derechos constitucionales, a fin de erradicar la desigualdad social;
+
+VI.- El Consejo: El Consejo Estatal de Desarrollo Social;
+
+VII.- Entidades: Los Organismos Descentralizados creados por Ley o Decreto del Congreso del Estado o por Decreto del Poder Ejecutivo Local, con personalidad jurídica y patrimonio propios;
+
+VIII.- Equidad de Género: La construcción cultural que se hace a partir de la diferencia de sexos y que da lugar a una serie de valores, atributos y roles distintos para hombres y mujeres;
+
+IX.- Estado: El Estado Libre y Soberano de Hidalgo;
+
+X.- Ley: La presente Ley de Desarrollo Social del Estado de Hidalgo;
+
+XI.- Marginación: La dinámica mediante la cual las personas se encuentran fuera del acceso y disponibilidad de bienes, servicios y opciones para el desarrollo social;
+
+XII.- Organizaciones: Las asociaciones civiles y sociales legalmente constituidas, cuyo objeto sea realizar actividades relacionadas con el desarrollo social, y todas aquellas que aunque no cuenten con registro reciban recursos del erario público;
+
+XIII.- Padrón: La relación oficial de beneficiarios que incluye a las personas habitantes del Estado, atendidas por los Programas, Municipales, Estatales y Federales de desarrollo social;
+
+XIV.- PED: Plan Estatal de Desarrollo;
+
+XV.- Pobreza: La carencia de lo necesario para el sustento de la vida por la baja capacidad de ingreso o condiciones de desigualdad, dependencia, explotación o falta de desarrollo de las capacidades o de un patrimonio;
+
+XVI.- Política Social: El conjunto de políticas, estrategias, programas y acciones de Gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el desarrollo sostenible y con equidad que se transforme en bienestar y calidad de vida para la sociedad;
+
+XVII.- Programas Sociales: Aquellos programas públicos, privados o mixtos, que sustenten la operación de alguna de las políticas definidas en el marco de esta Ley;
+
+XVIII.- Registro Social: La base de datos de la sociedad que en coordinación con las Autoridades Estatales y Municipales contribuyen al desarrollo y/o a la asistencia social en la Entidad;
+
+XIX.- Secretaría: La Secretaría de Desarrollo Social del Gobierno del Estado de Hidalgo, como dependencia coordinadora de programas, políticas y acciones en materia de Desarrollo Social;
+
+XX.- Sistema: El Sistema Estatal de Desarrollo Social;
+
+XXI.- Zonas de Atención Prioritaria: Las áreas o regiones de carácter rural o urbano, definidas por la Secretaría, cuya población registra pobreza y altos grados de marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en esta Ley; y
+
+XXII.- Contraloría Social: Son los Comités Ciudadanos encargados de supervisar, vigilar y verificar la correcta aplicación de los recursos públicos destinados a cada programa.
+
+### CAPITULO II. DE LOS DERECHOS SOCIALES
+
+###### Artículo 4.
+
+Sin perjuicio de lo que señalen otras disposiciones legales en el Estado de Hidalgo, se reconocen y consideran como derechos sociales los siguientes:
+
+I.- El derecho a la salud;
+
+II.- El derecho a la educación;
+
+III.- El derecho a la alimentación y nutrición adecuada;
+
+IV.- El derecho a vivienda digna y decorosa;
+
+V.- El derecho a un ambiente sano;
+
+VI.- El derecho a la no-discriminación;
+
+VII.- El derecho al trabajo y la seguridad social; y
+
+VIII.- El derecho a la equidad y la igualdad.
+
+### CAPITULO III. DE LA APLlCACION E INTERPRETACION DE LA NORMA
+
+###### Artículo 5.
+
+La aplicación de la presente Ley corresponde al Ejecutivo Estatal a través de la Secretaría, como órgano coordinador de Dependencias, Organismos y a los Municipios en el ámbito de sus respectivas competencias, sin perjuicio de las que correspondan a otras Dependencias y Entidades de la Administración Pública Federal.
+
+###### Artículo 6.
+
+Para efectos de lo no previsto por esta Ley, se tendrá la aplicación supletoria, de los siguientes ordenamientos legales:
+
+I.- La Ley de Planeación para el Desarrollo del Estado de Hidalgo;
+
+II.- La Ley de Responsabilidades de los Servidores Públicos; y
+
+III.- Los demás ordenamientos aplicables.
+
+### CAPITULO IV. DE LOS SUJETOS DEL DESARROLLO SOCIAL
+
+###### Artículo 7.
+
+Toda persona tiene derecho a participar y a beneficiarse de los programas sociales, de acuerdo con los principios rectores de la Política Social, en los términos que establezca la normatividad de cada programa.
+
+###### Artículo 8.
+
+Son sujetos de esta norma, las personas que residen en el Estado, las Dependencias y Entidades de la Administración Pública del Estado y los Municipios, en el ámbito de su competencia.
+
+###### Artículo 9.
+
+Las personas que formen parte de alguno de los siguientes grupos vulnerables y que se encuentren en condiciones de pobreza, tendrán derecho a recibir apoyos para superar su condición de vulnerabilidad, de manera prioritaria:
+
+I.- Madres solteras y jefas de familias con el objeto de generar condiciones de equidad de género;
+
+II.- Personas con discapacidad;
+
+III.- Migrantes;
+
+IV.- Indígenas;
+
+V.- Jornaleros agrícolas;
+
+VI.- Trabajadores de zonas urbanas y campesinos en condiciones de pobreza alimentaria y patrimonial;
+
+VII.- Niñas y niños de hasta 5 años, en condición de pobreza alimentaria;
+
+VIII.- Adultos mayores, de 70 años y más, que habiten en localidades de alta y muy alta marginación de zonas urbanas y rurales en condiciones de pobreza alimentaria o patrimonial.
+
+Esta prohibida toda práctica discriminatoria en el otorgamiento de subsidios y beneficios que se otorguen como parte de los programas sociales.
+
+### CAPITULO V. DE LAS ATRIBUCIONES
+
+###### Artículo 10.
+
+Son atribuciones del Ejecutivo Estatal en materia de Desarrollo Social, las siguientes:
+
+I.- Destinar con base a esta Ley, la Ley de Planeación y el Presupuesto de Egresos del Estado, los recursos necesarios a fin de cubrir las metas en materia de programas sociales, considerando las recomendaciones emitidas por el Consejo a fin de crear, modificar o eliminar Programas Estatales de acuerdo a las evaluaciones de impacto que se realicen;
+
+II.- Participar en el Sistema Nacional de Desarrollo Social y coordinar el Sistema Estatal de Desarrollo Social;
+
+III.- Formular y aplicar políticas sociales en beneficio de las personas, familias y grupos sociales en situación de vulnerabilidad;
+
+IV.- Coordinar en los términos de la Ley de Planeación del Estado de Hidalgo y de esta Ley, junto con el Comité de Planeación para el Desarrollo del Estado de Hidalgo y los de Desarrollo Regional y Municipal, mecanismos de concertación y participación para la formulación, aprobación y aplicación de los programas sociales;
+
+V.- Elaborar a través de la Secretaría, el Programa Sectorial de Desarrollo Social y los programas que de éste deriven;
+
+VI.- Vigilar a través de las Autoridades competentes, que los recursos públicos aprobados se ejerzan con honradez, oportunidad, transparencia y equidad;
+
+VII.- Prever en el Presupuesto de Egresos del Estado, las partidas necesarias para complementar programas de orden Federal;
+
+VIII.- Aplicar los programas de la Secretaría de Desarrollo Social del Gobierno Federal a través de la Secretaría o de las Dependencias y Entidades de la Administración Publica Estatal de acuerdo a las atribuciones que correspondan;
+
+IX.- Integrar y administrar el registro social y el padrón único de beneficiarios;
+
+X.- Informar a la sociedad sobre las acciones en torno al desarrollo social;
+
+XI.- Fomentar la participación de instituciones académicas, de investigación, organizaciones no gubernamentales y de la sociedad en general en la creación, desarrollo e instrumentación de estrategias y programas sociales;
+
+XII.- Promover y ejecutar por sí o con la participación de los diversos órdenes de gobierno y de la sociedad programas, proyectos, estrategias y acciones para el desarrollo social, con enfoque sostenible, territorial, urbano, rural, local, Municipal, regional y/o metropolitano;
+
+XIII.- Promover el impulso económico, la promoción de la productividad, la generación del empleo, la distribución equitativa de la riqueza y el impulso a la competitividad.
+
+###### Artículo 11.
+
+La Secretaría tendrá las atribuciones que le confiere la Ley Orgánica de la Administración Pública del Estado de Hidalgo; y sin perjuicio de éstas le corresponderán además:
+
+I.- Formular el Programa Sectorial de Desarrollo Social y Combate a la
+
+Pobreza y los programas que emanen de él;
+
+II.- Implementar y vigilar el cumplimiento de los principios y políticas para el desarrollo social de la Entidad;
+
+III.- Participar y promover la celebración de Convenios de Coordinación con los tres órdenes de Gobierno y de concertación con Organizaciones Civiles y con los beneficiarios de los programas sociales;
+
+IV.- Informar públicamente sobre las zonas que sean declaradas como de atención prioritaria;
+
+V.- Coordinar conjuntamente con la Federación y Municipios los programas y apoyos en las zonas de atención prioritaria;
+
+VI.- Establecer un Programa de Investigación e Información para el Desarrollo Social en coordinación con las Dependencias y Organismos Gubernamentales que contribuyen al desarrollo social de la Entidad;
+
+VII.- Promover y ejecutar por sí o con la participación de los diversos órdenes de Gobierno y de la sociedad programas para el desarrollo social, y
+
+VIII.- Generar la interacción de los diversos sectores de la sociedad, para contribuir en la implementación de programas productivos y de financiamiento para el desarrollo social.
+
+###### Artículo 12.
+
+Son atribuciones de los Municipios en materia de desarrollo social las siguientes:
+
+I.- Formular, dirigir e implementar la Política Municipal de Desarrollo Social, con acuerdo del COPLADEM;
+
+II.- Coordinar con el Gobierno del Estado, la ejecución de los programas sociales;
+
+III.- Convenir acciones con otros Municipios de la Entidad, en materia de desarrollo social;
+
+IV.- Presupuestar anualmente recursos para el desarrollo social;
+
+V.- Ejecutar los programas sociales que deriven del Plan Municipal de Desarrollo;
+
+VI.- Recabar información de los beneficiarios para la integración del padrón;
+
+VII.- Informar a la sociedad sobre las acciones de desarrollo social;
+
+VIII.- Concertar acciones con los sectores público, social y privado en materia de desarrollo social;
+
+IX.- Establecer mecanismos para incluir la participación social organizada, en los programas y acciones de desarrollo social; y
+
+X.- Las demás que le señala la Ley, su Reglamento y demás disposiciones aplicables.
+
+### CAPITULO VI. DE LOS OBJETIVOS Y PRINCIPIOS DE LA POLlTICA SOCIAL
+
+###### Artículo 13.
+
+La Política Social Estatal, tiene los objetivos siguientes:
+
+I.- Propiciar las condiciones que aseguren a toda persona el disfrute de los derechos sociales, individuales y colectivos, garantizando el acceso a los programas sociales y la igualdad de oportunidades, así como la superación de la exclusión social;
+
+II.- Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución entre los distintos sectores de la población;
+
+III.- Fortalecer el desarrollo regional equilibrado;
+
+IV.- Garantizar formas de participación social, en la formulación, ejecución, instrumentación, evaluación y control de los programas sociales.
+
+###### Artículo 14.
+
+La Política Social, se sujetará a los siguientes principios:
+
+I.- Libertad: Capacidad de las personas para elegir y participar en los medios de desarrollo humano y social;
+
+II.- Justicia Distributiva: Establece y garantiza que los beneficiarios reciban de manera equitativa los beneficios del desarrollo social conforme a sus necesidades;
+
+III.- Solidaridad: Colaboración entre las personas, grupos sociales y órdenes de Gobierno, de manera corresponsable para el mejoramiento de la calidad de vida de la sociedad;
+
+IV.- Sostenibilidad: Principio que vigila que la satisfacción de las necesidades del presente no comprometan las capacidades de las generaciones futuras, para cubrir sus propias necesidades, con respeto y cuidado del entorno natural;
+
+V.- Participación social: Derecho de las personas y organizaciones a participar corresponsablemente en la ejecución y evaluación de las políticas, programas y acciones del desarrollo social;
+
+VI.- Dignidad: Reconocimiento de los derechos y libertades inherentes a la calidad de persona;
+
+VII.- Integralidad: Articulación, coordinación y complementariedad de programas y acciones que vinculen los diferentes beneficios sociales, en el marco de la Política Nacional y Estatal de Desarrollo Social;
+
+VIII.- Transparencia: Derecho de las personas para acceder a la información relativa al desarrollo social que será pública en los términos de las Leyes en la materia. Las Autoridades Locales garantizarán que la información Gubernamental sea objetiva, oportuna, sistemática y veraz;
+
+IX.- Diversidad: Reconocimiento de la condición pluricultural del Estado de Hidalgo que presupone el reto de construir la igualdad social en el marco de la diferencia de sexos, cultura, edades, capacidades, de ámbitos territoriales, de formas de organización y participación ciudadana, de preferencias y de necesidades;
+
+X.- Efectividad: Obligación de la autoridad de ejecutar los programas sociales de manera austera, con el menor costo administrativo, la mayor celeridad, los mejores resultados e impacto;
+
+XI.- Exigibilidad: Derecho de los habitantes a que, a través de un conjunto de normas y procedimientos, los derechos sociales sean progresivamente exigibles en el marco de las diferentes políticas y programas y de la disposición presupuestal con que se cuenta;
+
+XII.- Universalidad: La política de desarrollo social esta destinada para todos los habitantes del Estado de Hidalgo y tiene por propósito el acceso de todos al ejercicio de los derechos sociales, al uso y disfrute de los bienes públicos y a una creciente calidad de vida.
+
+###### Artículo 15.
+
+La Política Social deberá de incluir, al menos las siguientes vertientes:
+
+I.- Políticas compensatorias: Aquellas orientadas a beneficiar a un grupo social en un territorio determinado, para lograr equiparlo e incluirlo en las mismas condiciones y oportunidades que el promedio de la población tiene;
+
+II.- Políticas de Desarrollo Regional: Aquellas dirigidas a la promoción del desarrollo equilibrado entre las regiones del Estado, procurando la sustentabilidad de las obras y acciones de desarrollo social;
+
+III.- Políticas de Fomento: Aquellas orientadas a beneficiar a un grupo social en un territorio determinado, generando las condiciones necesarias para incorporarlo al sector productivo y lograr su autosuficiencia económica.
+
+### CAPITULO VII. DE LA PLANEACION, PROGRAMACION Y EJECUCION
+
+###### Artículo 16.
+
+La planeación es el proceso por el cual se fijarán los objetivos, estrategias, metas, indicadores y evaluaciones mediante las cuales se llevará el adecuado funcionamiento de la Política Social Estatal.
+
+###### Artículo 17.
+
+La planeación del desarrollo social en el Estado, estará a cargo del Poder Ejecutivo a través del COPLADEHI, la Secretaría y la Secretaría de Planeación y Desarrollo Regional, y deberá estar en concordancia con la Política Nacional de Desarrollo Social y de conformidad con las disposiciones contenidas en la Ley de Planeación para el Desarrollo del Estado de Hidalgo y se establecerá dentro del Plan Estatal de Desarrollo.
+
+###### Artículo 18.
+
+La planeación del Desarrollo Social será clara y concisa, para que permita vincular la operación e instrumentación de los programas específicos con los objetivos generales establecidos en el PED, y contendrá la opinión de los grupos sociales involucrados.
+
+La planeación se concretará a través del PED y los Planes Municipales, y los programas sectoriales o especiales derivados de él, en materia de Desarrollo Social.
+
+En la planeación del Desarrollo Social Estatal y Municipal, deberán tomarse en cuenta los datos e indicadores que se contengan en el Programa de Investigación e Información para el Desarrollo Social.
+
+###### Artículo 19.
+
+Dentro del PED y los Planes Municipales de Desarrollo existirá un apartado para el programa sectorial para el desarrollo social que contendrá, lo siguiente:
+
+I.- El diagnóstico del desarrollo social y de la situación económica así como de los grados de marginación en el Estado o en el Municipio, considerando factores de sexo, edad y entorno socioeconómico;
+
+II.- Las determinaciones de otros programas que incidan en el Estado y que estén vinculados con el Desarrollo Social;
+
+III.- Los programas sociales que se tiene planeado implementar;
+
+IV.- Los métodos, formas y líneas de acción para la aplicación de los programas sociales;
+
+V.- Los esquemas de atención para los grupos sociales en situación de vulnerabilidad;
+
+VI.- Las metas y objetivos que se pretenden alcanzar en el corto, mediano y largo plazo;
+
+VII.- Los criterios y estrategias de colaboración y corresponsabilidad con la sociedad y las organizaciones;
+
+VIII.- Las prioridades en materia de Desarrollo Social, en las áreas de educación, salud, nutrición e infraestructura social básica, que requieren los habitantes del Estado; y
+
+IX.- Los demás puntos que señalen las disposiciones legales aplicables.
+
+###### Artículo 20.
+
+Los Municipios serán entes primordiales en la ejecución de los Programas Sociales, que en coordinación con los Gobiernos Federal y Estatal, establecerán las líneas de acción y celebrarán los acuerdos o convenios necesarios.
+
+###### Artículo 21.
+
+Los Planes Municipales de Desarrollo, siempre deberán apegarse a los lineamientos que señalan ésta Ley y el PED.
+
+###### Artículo 22.
+
+La programación, aplicación y distribución de los recursos destinados a financiar los programas sociales, se basarán en los criterios de eficacia, eficiencia y calidad en la prestación de los servicios.
+
+###### Artículo 23.
+
+La programación del Desarrollo Social, incluirá los Programas Estatales, Institucionales Especiales y Municipales de Desarrollo Social, contemplando prioritariamente las siguientes vertientes:
+
+I.- Alimentación, nutrición materno-infantil y abasto social de productos básicos;
+
+II.- Atención médica de primer contacto, dotación de aparatos funcionales, capacitación para el autoempleo, apoyo a proyectos productivos, desarrollo de actividades deportivas, recreativas y culturales, para adultos mayores;
+
+III.- Superación de la pobreza, atención a personas en situación de vulnerabilidad como indígenas, niños en estado de abandono, madres solteras, jornaleros agrícolas y en general toda persona en situación desfavorable por razón de edad, sexo o grupo étnico;
+
+IV.- Obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano;
+
+V.- Salud;
+
+VI.- Educación Básica;
+
+VII.- Vivienda;
+
+VIII.- Generación, conservación y capacitación para el trabajo y el incremento de la competitividad.
+
+###### Artículo 24.
+
+De conformidad con lo estipulado en la Ley de la Administración Pública del Estado de Hidalgo, las Dependencias y Entidades ejecutarán los programas que en el ámbito de sus competencias incidan en el desarrollo social.
+
+###### Artículo 25.
+
+Los Recursos Estatales y Municipales presupuestados para los programas sociales, podrán ser complementados con recursos provenientes del Gobierno Federal o de las organizaciones civiles o sociales, fondos Internacionales, donativos, o generados por cualquier otro acto jurídico.
+
+###### Artículo 26.
+
+El Congreso del Estado de conformidad con sus atribuciones, destinará los recursos suficientes para financiar los Programas Sociales Estatales.
+
+###### Artículo 27.
+
+Los criterios de ejecución del Programa Sectorial de Desarrollo Social especificarán anualmente las estrategias para alcanzar sus objetivos, y serán la base para la presupuestación del gasto público en Desarrollo Social, en cuyo contenido se observarán:
+
+I.- Las prioridades en materia de Desarrollo Social que requieren los habitantes del Estado;
+
+II.- Los objetivos, que se pretenden alcanzar en cada uno los aspectos de las acciones para el Desarrollo Social; y
+
+III.- El monto del gasto que se ejercerá en cada uno de los aspectos de las acciones para el Desarrollo Social.
+
+### CAPITULO VIII. DE LA EVALUACION
+
+###### Artículo 28.
+
+La evaluación sobre las acciones de la política social, estará encaminada a conocer la operación y resultados de los programas y proyectos de Desarrollo Social con la finalidad de identificar problemas en la implementación de programas y en su caso, reorientar y reforzar la Política Estatal de Desarrollo Social.
+
+###### Artículo 29.
+
+La evaluación y seguimiento de los Programas Sociales que implemente el Ejecutivo Estatal y los Municipios será realizada por el Consejo, así como el COPLADEHI y COPLADEM en el ámbito de sus competencias, con el apoyo de las Instituciones Académicas de Educación Media Superior y Superior.
+
+###### Artículo 30.
+
+Las Dependencias y Organismos del Ejecutivo Estatal así como los Municipios contarán con sus propios órganos de evaluación de acuerdo a su organización y de conformidad con las disposiciones y procedimientos establecidos en la Ley de Planeación, los cuales facilitarán en todo momento al Consejo la información relativa a los programas.
+
+###### Artículo 31.
+
+Los programas sociales deberán evaluarse, considerando por los menos los siguientes rubros:
+
+I.- Cumplimiento del objetivo social;
+
+II.- Cumplimiento de los principios rectores de esta Ley;
+
+III.- Población objetivo;
+
+IV.- Procedimientos debidamente documentados;
+
+V.- Zonas de atención prioritaria;
+
+VI.- Indicadores de resultados, gestión y servicios;
+
+VII.- Gasto social destinado;
+
+VIII.- Impacto social y beneficio; y
+
+IX.- Consideraciones generales cualitativas.
+
+###### Artículo 32.
+
+Los resultados de dichas evaluaciones permitirán actualizar las políticas públicas, las estrategias y las líneas de acción de los programas prioritarios; establecer las consideraciones necesarias para la determinación de las zonas de atención prioritaria; incluir, en su caso, los proyectos o programas propuestos por la sociedad; y establecer los sistemas de mejora continua necesarios.
+
+###### Artículo 33.
+
+El Consejo conocerá los resultados de las evaluaciones que a su vez remita La Contraloría Social y aquellas que se soliciten a las Dependencias y Organismos Estatales, además de los Municipios al menos una vez al año.
+
+### CAPITULO IX. DEL PRESUPUESTO
+
+###### Artículo 34.
+
+El Presupuesto para el Desarrollo Social, y los Programas Sociales, se integrará procurando mantener siempre incrementos reales, privilegiando los sectores y localidades definidos como prioritarios en el marco de esta Ley.
+
+###### Artículo 35.
+
+Dentro del Presupuesto de Egresos del Estado, se establecerán detalladamente:
+
+I.- Las partidas presupuestales específicas para los Programas Sociales Estatales;
+
+II.- El nombre de los programas a que se destinarán; y
+
+III.- Los programas sociales que estarán sujetos a reglas de operación.
+
+### CAPITULO X. DEL FONDO SOCIAL
+
+###### Artículo 36.
+
+En el Presupuesto de Egresos del Estado de Hidalgo, se proveerá, según la disponibilidad presupuestaria, una partida especial para constituir un Fondo Social, bajo la figura de un Fideicomiso, el cual estará a cargo del Ejecutivo por conducto de la Secretaría, cuyos lineamientos determinarán el monto mínimo para su operación, distribución y aplicación, incluyendo las previsiones para garantizar que los recursos del Fondo sean utilizados en el ejercicio fiscal correspondiente, como respuesta a fenómenos económicos y presupuestarios imprevistos, así como al financiamiento de programas y proyectos productivos de desarrollo social.
+
+El Fondo Social podrá conformarse además, con recursos que aporten los Organismos Internacionales, los sectores público, social y privado.
+
+###### Artículo 37.
+
+Las reglas para la constitución y operación del fideicomiso serán aprobadas por el Consejo, así como la normatividad para la selección de los programas y proyectos que se financien por el Fondo.
+
+### CAPITULO XI. DEL FOMENTO A LAS ACTIVIDADES PRODUCTIVAS
+
+###### Artículo 38.
+
+El Gobierno del Estado, en coordinación con los Municipios y con el fin de estimular el crecimiento de las actividades productivas de beneficio social, efectuará las siguientes acciones:
+
+I.- Realizar las gestiones necesarias a fin de que se instalen en el Estado empresas que generen empleo;
+
+II.- Promover las actividades productivas, el empleo y el cooperativismo, como medios para generar ingresos para los grupos en situación de vulnerabilidad;
+
+III.- Fomentar la organización de personas, familias y grupos sociales en proyectos productivos;
+
+IV.- Promover alternativas de financiamiento y créditos para la creación de microempresas y pequeños negocios, particularmente en las Zonas que sean consideradas de Atención Prioritaria; y
+
+V.- Fomentar dentro del sector empresarial del Estado la inclusión en el esquema de empresa socialmente responsable, impulsando su participación activa en los programas sociales.
+
+###### Artículo 39.
+
+Con el fin de promover el desarrollo integral de las familias asentadas en las regiones con mayor grado de marginación, el Gobierno del Estado deberá procurar los siguientes incentivos, a las empresas que se instalen en las zonas que sean consideradas de Atención Prioritaria:
+
+I.- Programas especiales de capacitación;
+
+II.-Otorgamiento de becas para capacitación y adiestramiento;
+
+III.- Apoyo financiero para programas de capacitación y adiestramiento;
+
+IV.- Aportación Estatal para obras de infraestructura pública;
+
+V.- Aportación Estatal para la creación, instalación o mejoramiento de servicios públicos;
+
+VI.- Programas para promover exportaciones; y
+
+VII.- Apoyo para que puedan participar en ferias y eventos Nacionales e Internacionales.
+
+### CAPITULO XII. DEL PADRON
+
+###### Artículo 40.
+
+El Gobierno del Estado y los Municipios, en sus ámbitos de competencia, integrarán sus padrones de beneficiarios y complementarán los derivados de los Programas Sociales Federales.
+
+###### Artículo 41.
+
+El padrón será administrado y actualizado por la Secretaría y podrá ser remitido al Consejo a solicitud de éste.
+
+###### Artículo 42.
+
+El Ejecutivo Estatal por conducto de la Secretaría, dará a conocer y Publicará en el Periódico Oficial de Gobierno del Estado, los lineamientos generales para la integración y actualización del padrón de beneficiarios de los ámbitos Estatal y Municipal, en un plazo no mayor de treinta días posteriores a la Publicación del Reglamento de la presente Ley.
+
+###### Artículo 43.
+
+Los Municipios darán a conocer en sesión de cabildo, los lineamientos y requisitos para la integración y actualización del padrón de beneficiarios de los Programas Municipales, instruyendo la difusión correspondiente.
+
+### CAPITULO XIII. DEL REGISTRO SOCIAL
+
+###### Artículo 44.
+
+La Secretaría constituirá y mantendrá actualizado el Registro Social Estatal con el objeto de asentar los datos de las Organizaciones Civiles, que facilite la supervisión, el control y el conocimiento de los resultados de los programas y acciones que operen, emitiendo los reportes necesarios al Consejo, Dependencias y Asociaciones inscritas en el mismo.
+
+###### Artículo 45.
+
+La Secretaría implementará los mecanismos de coordinación necesarios, para que el Registro Social Estatal sea alimentado, en el ámbito de sus respectivas competencias por los tres órdenes de Gobierno.
+
+###### Artículo 46.
+
+El Registro Social Estatal tiene como objetivos los siguientes:
+
+I.- Establecer y administrar un (sic) una base de datos de las Organizaciones Civiles que contribuyan al desarrollo social;
+
+II.- Contar con bases de datos fidedignas que permitan medir el impacto de la promoción y participación social para el desarrollo social;
+
+III.- Reconocer oficialmente las acciones que lleve a cabo las organizaciones civiles para el otorgamiento de apoyos y estímulos públicos;
+
+IV.- Ofrecer los elementos de información social que garanticen la interacción corresponsable de datos con la debida transparencia para la aplicación de recursos públicos ejercidos por la sociedad; y
+
+V.- Dar seguimiento a las acciones y cumplimiento de responsabilidades de las organizaciones civiles que manejen o administren recursos públicos para el desarrollo social en la Entidad.
+
+###### Artículo 47.
+
+Las Organizaciones Civiles que soliciten ser beneficiarias o participantes de programas o acciones para el desarrollo social, para inscribirse en el Registro Social Estatal deberán presentar su solicitud por escrito, acompañada de los siguientes documentos:
+
+I.- Copia certificada del acta constitutiva, acta de asamblea, contrato o documento generador de la organización, debidamente inscrito en el Registro Público competente;
+
+II.- Denominación, objeto, estatutos y domicilio legal;
+
+III.- Copia certificada actualizada del poder del representante, debidamente inscrito en el Registro Público correspondiente.
+
+###### Artículo 48.
+
+La participación de las Organizaciones Civiles en el manejo y administración de recursos públicos podrá ser negada en los siguientes supuestos:
+
+I.- No se cumpla con alguno de los requisitos establecidos en esta Ley;
+
+II.- La documentación exhibida presente irregularidades o sea falsa;
+
+III.-Exista antecedentes debidamente sustentados de haber cometido en el desarrollo de sus actividades, desviación de recursos, infracciones graves o reiteradas a esta Ley o a otras disposiciones jurídicas; y
+
+IV.- Existan pruebas del incumplimiento de su objeto.
+
+###### Artículo 49.
+
+Las Organizaciones inscritas en el Registro Social, tendrán además de las obligaciones previstas en otras disposiciones jurídicas relativas y aplicables, las siguientes:
+
+I.- Informar por escrito a la Secretaría, cualquier modificación a su objeto, domicilio, representación legal o estatutos en un plazo no mayor a treinta días hábiles contados a partir de la misma, a efecto de mantener actualizado el Registro Social a que se refiere este título;
+
+II.-Mantener, a disposición de las Autoridades competentes, la información relativa a las actividades que realicen, así como las facilidades para la supervisión correspondiente;
+
+III.- Destinar la totalidad de los recursos programados al cumplimiento de las acciones concertadas o respecto de las cuales se expida la constancia de objeto social;
+
+IV.- Promover la capacitación y profesionalización de sus integrantes;
+
+V.- Abstenerse de efectuar actividades políticas o partidistas, así como realizar proselitismo o propaganda con fines religiosos con los recursos asignados al cumplimiento de las acciones concertadas o respecto de las inherentes a su objeto social;
+
+VI.- Cumplir con su objeto social con base en los principios rectores de la Política de Desarrollo Social establecidos en la presente Ley;
+
+VII.- Llevar a cabo las operaciones correspondientes conforme a las disposiciones que rigen el sistema financiero y aduanal mexicano en caso de obtener recursos económicos del extranjero; y
+
+VIII.- Las demás inherentes al cumplimiento de su objeto social en los términos de las disposiciones jurídicas relativas y aplicables.
+
+### CAPITULO XIV. DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
+
+###### Artículo 50.
+
+Son derechos de los beneficiarios de los programas sociales los siguientes:
+
+I.- Recibir la información acerca de los programas y servicios que promuevan la Secretaría y los Municipios; así como de aquéllos que la Federación aplique en la Entidad;
+
+II.- Recibir por parte de los oferentes de programas sociales un trato oportuno, respetuoso y con calidad, asimismo, ser asesorado respecto a los mecanismos para acceder a los programas y alcanzar su desarrollo integral;
+
+III.- Solicitar su inclusión, participación y acceso en los programas sociales;
+
+IV.- Recibir los servicios y prestaciones de los programas conforme a sus lineamientos generales y requisitos, salvo que les sean suspendidos por resolución administrativa o judicial debidamente fundada y motivada; y
+
+V.- Presentar denuncias y quejas por el incumplimiento de esta Ley.
+
+###### Artículo 51.
+
+Los beneficiarios de los programas sociales, tendrán las siguientes obligaciones:
+
+I.- Proporcionar la información socioeconómica que le sea requerida por las Dependencias de la Administración Pública Estatal y Municipal, para ser sujetos de apoyo. Dicha información deberá ser veraz y tendrá manejo confidencial;
+
+II.- Participar corresponsablemente en los programas sociales a que tengan acceso;
+
+III.- Cumplir la normatividad y requisitos de los programas sociales;
+
+IV.- Informar a la instancia correspondiente si se es beneficiario de Programas Federales, Estatales o Municipales; y
+
+V.- Estar inscrito en el padrón de beneficiarios.
+
+### CAPITULO XV. DEL SISTEMA ESTATAL DE DESARROLLO SOCIAL
+
+###### Artículo 52.
+
+El Sistema Estatal se adherirá al Sistema Nacional de Desarrollo Social y se coordinará con éste, mediante la designación de un representante del titular del Ejecutivo Estatal en términos de la Ley Orgánica de la Administración Pública del Estado de Hidalgo.
+
+###### Artículo 53.
+
+El Sistema Estatal, es un mecanismo permanente de concurrencia, colaboración, coordinación y concertación de los Gobiernos Federal, Estatal y Municipal, y tiene por objeto:
+
+I.- Establecer la colaboración para la formulación, ejecución e instrumentación de planes, programas, acciones e inversiones en materia de desarrollo social;
+
+II.- Promover la concurrencia, vinculación y congruencia de los programas, acciones e inversiones del Estado, con los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social;
+
+III.- Incentivar la participación de las personas, familias y organizaciones y, en general, de los sectores público, social y privado en el desarrollo social;
+
+IV.- Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social;
+
+V.- Promover estrategias de desconcentración y descentralización de recursos y acciones para los Programas Federales de Desarrollo Social hacia el Estado y de éste hacia los Municipios; y
+
+VI.- Vigilar y asegurar que los recursos asignados para el desarrollo social sean ejercidos con honradez, oportunidad, transparencia y equidad, garantizando la rendición de cuentas de las políticas públicas de Desarrollo Social.
+
+###### Artículo 54.
+
+Para el adecuado funcionamiento del Sistema y con base a lo dispuesto en las fracciones I y II del Artículo anterior, la Secretaría coordinará acciones de desarrollo social con las Dependencias, Entidades, Municipios y Organizaciones Civiles ejecutores.
+
+### CAPITULO XVI. DEL CONSEJO ESTATAL DE DESARROLLO SOCIAL
+
+###### Artículo 55.
+
+El Consejo es un órgano de consulta, vinculación y coordinación para el Desarrollo Social, entre el Ejecutivo Estatal, los Municipios, la Legislatura, la Sociedad Organizada, la Comunidad Académica y la Iniciativa Privada, sin perjuicio de lo que establece la Ley de Planeación para el Desarrollo del Estado de Hidalgo y otras disposiciones; y tendrá las siguientes atribuciones:
+
+I.- Participar en las instancias del Sistema Estatal de Desarrollo Social;
+
+II.- Opinar sobre la aplicación de los Programas Federales, Estatales y Municipales de desarrollo social conforme a la normatividad;
+
+III.- Proponer acciones Convenios y Programas Sociales;
+
+IV.- Analizar y proponer esquemas de financiamiento para los programas sociales y superación de la pobreza;
+
+V.- Revisar el marco normativo del desarrollo social y, en su caso proponer modificaciones ante las instancias competentes;
+
+VI.- Asesorar al Ejecutivo Estatal en materia de desarrollo social para la implementación de acciones de vinculación y cooperación entre Gobierno y sociedad;
+
+VII.- Promover la interacción de los diversos sectores de la sociedad para contribuir en la implementación de programas productivos y de financiamiento para el desarrollo social;
+
+VIII.- Establecer mecanismos de captación y canalización de recursos humanos, financieros y materiales para el desarrollo social;
+
+IX.- Solicitar a la Secretaría, Dependencias, Entidades, Municipios y Organizaciones Civiles, información relativa al Padrón de Beneficiarios, Registro Social y al Programa de Investigación e Información de Desarrollo Social;
+
+X.- Proponer y compartir información e investigaciones relacionadas al Desarrollo Social con los tres órdenes de Gobierno, a través de los órganos establecidos en la Ley General de Desarrollo Social; y
+
+XI.- Evaluar y dar seguimiento a la operación y resultados de los programas y proyectos de desarrollo social.
+
+###### Artículo 56.
+
+El Consejo estará integrado por:
+
+I.- El Gobernador del Estado, quien lo presidirá;
+
+II.- Un Secretario Ejecutivo, que será el titular de la Secretaría;
+
+III.- Los Secretarios de Gobierno, Finanzas, Planeación y Desarrollo Regional, Administración, Educación, Salud, Contraloría, Obras Públicas, Comunicaciones, Transportes y Asentamientos, Agricultura y Desarrollo Rural, Seguridad Pública, Turismo, Desarrollo Económico, y el Sistema Estatal para el Desarrollo Integral de la Familia;
+
+IV.- El Congreso del Estado de Hidalgo, que será representado por su Coordinador General de la Junta de Coordinación Legislativa y los miembros integrantes de la Comisión de Desarrollo Regional, además de un Diputado representante de cada Grupo Parlamentario de la Legislatura;
+
+V.- Los 84 Presidentes Municipales;
+
+VI.- Un Secretario Técnico, que será designado por el Gobernador del Estado;
+
+VII.- Los Delegados o Representantes de las Dependencias Federales, relacionadas con el Desarrollo Social;
+
+VIII.- Tres representantes de Organizaciones Civiles constituidas y cuyo objeto sea el propiciar el desarrollo social;
+
+IX.- Tres representantes de la Iniciativa Privada; y
+
+X.- Tres representantes de Instituciones Académicas o de Investigación relacionados con el desarrollo social.
+
+###### Artículo 57.
+
+Los Consejeros señalados en las fracciones I, II, III, IV, V, VI y VII contarán con voz y voto en las reuniones y por cada titular se designará un suplente y los señalados en las fracciones VIII, IX y X solo tendrán voz.
+
+###### Artículo 58.
+
+A las sesiones del Consejo podrán asistir representantes de los sectores público, social y privado y de la sociedad en general y cualquier investigador o invitado que aporte sus conocimientos al desarrollo social del Estado.
+
+###### Artículo 59.
+
+El Consejo se reunirá de manera ordinaria dos veces al año y con carácter extraordinario a convocatoria de su Presidente.
+
+### CAPITULO XVII. DE LOS CONSEJOS REGIONALES DE DESARROLLO SOCIAL
+
+###### Artículo 60.
+
+El Consejo podrá acordar la creación de Consejos Regionales de Desarrollo Social para la mejor programación y ejecución del Programa, debiendo atender en su integración las características demográficas, sociales, culturales y económicas de cada región del Estado.
+
+###### Artículo 61.
+
+Los Consejos Regionales se integrarán con los Presidentes Municipales y Funcionarios Municipales de la región acordada por el Consejo, así como de representantes de los demás miembros del Consejo, que en el caso de las Dependencias Públicas Estatales y Federales deberán contar con el nivel de Subsecretario y Subdelegado respectivamente o su equivalente.
+
+###### Artículo 62.
+
+Los Consejos Regionales mantendrán en lo posible la integración del Consejo.
+
+La Presidencia de los mismos recaerá en el Titular de la Secretaría Ejecutiva del Consejo.
+
+El Secretario Técnico será designado por el Presidente debiendo ser funcionario con nivel de Director General o equivalente.
+
+En todo momento el Titular del Poder Ejecutivo del Estado podrá presidir sesiones de los Consejos Regionales, permaneciendo el Secretario Ejecutivo y el Secretario Técnico en sus encargos.
+
+###### Artículo 63.
+
+El Consejo aprobará los Reglamentos Internos de los Consejos Regionales que normarán su integración y funcionamiento.
+
+### CAPITULO XVIII. DE LA PARTICIPACION SOCIAL
+
+###### Artículo 64.
+
+La Secretaría y los Municipios fomentarán el derecho de la sociedad a participar de manera activa y corresponsable en la planeación, ejecución, evaluación y supervisión de la política social.
+
+###### Artículo 65.
+
+Las Dependencias y Entidades Estatales y Municipales encargadas de desarrollo social promoverán y propiciarán la organización social, como el medio idóneo de acercar programas, servicios y acciones del desarrollo humano colectivo.
+
+###### Artículo 66.
+
+Las Organizaciones podrán participar corresponsablemente con el Gobierno, en la ejecución de políticas sociales, así como, generar iniciativas de proyectos y programas que serán presentadas a la Secretaría, quien determinará la factibilidad y en su caso, aplicación.
+
+###### Artículo 67.
+
+Para efecto de lo estipulado en el Artículo anterior, las Organizaciones Civiles que cumplan con lo establecido en el capítulo XIII de esta Ley, podrán solicitar recursos o fondos públicos para realizar acciones de desarrollo social, quedando sujetas a la supervisión, control y vigilancia de las autoridades competentes, a la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo y a las disposiciones establecidas en la presente Ley, sin perjuicio de lo que establezcan las Leyes respectivas para el uso de fondos públicos.
+
+###### Artículo 68.
+
+El Gobierno del Estado y los Municipios para la aplicación de esta Ley, en el ámbito de sus respectivas competencias, deberán apoyar la organización, promoción y participación social mediante:
+
+I.- La creación de condiciones que estimulen la realización de programas, estrategias y orientación de recursos a los programas;
+
+II.- La regulación de mecanismos transparentes de información, coordinación, concertación, participación y consulta de la información pública que permita vincular los programas, estrategias y recursos para el desarrollo social;
+
+III.- El establecimiento de procedimientos documentados, ágiles y sencillos;
+
+IV.- La inscripción de las Organizaciones Civiles en el registro social a cargo de la Secretaría; y
+
+V.- El otorgamiento de constancias, apoyos y estímulos públicos, asesoría y capacitación para implementar programas y proyectos para el desarrollo social.
+
+### CAPITULO XIX. DE LA INVESTIGACION E INFORMACION
+
+###### Artículo 69.
+
+El Programa de Investigación e Información para el Desarrollo Social, estará a cargo de la Secretaría, con la colaboración y asesoría de las Dependencias y Entidades facultadas por la Ley Orgánica de la Administración Pública Estatal y las Instituciones Académicas de nivel Medio Superior y Superior del Estado, tiene por objeto generar los indicadores de desarrollo social, los parámetros de efectividad de los programas estatales en la materia y los estudios necesarios para tener las bases e instrumentos, para planear y aplicar eficazmente la Política Social.
+
+###### Artículo 70.
+
+El Programa de Investigación e Información para el Desarrollo Social deberá contener lo siguiente:
+
+I.- Los niveles Estatales de desarrollo social por Municipio y Región;
+
+II.- Indicadores del desarrollo social Nacional e Internacional que tengan relación con los Estatales;
+
+III.- La pobreza y grados de marginación tomando en cuenta factores de sexo, edad, condición migratoria y entorno socioeconómico;
+
+IV.- Los resultados de los sondeos de opinión o consultas públicas que tengan relación con el Desarrollo Social;
+
+V.- Los resultados de la evaluación anual que realice el Consejo de los programas sociales en los que participe el Gobierno del Estado o los Municipios; y
+
+VI.- Estudios e investigaciones sobre el desarrollo social en el Estado.
+
+###### Artículo 71.
+
+La información contenida en el Programa de Investigación e Información para el Desarrollo Social será pública y deberá estar sistematizada.
+
+###### Artículo 72.
+
+La Secretaría, revisará las mediciones de la pobreza y el desarrollo social en el Estado con una periodicidad anual, con la finalidad de implementar políticas sociales acorde a las circunstancias que prevalezcan en la Entidad.
+
+### CAPITULO XX. DE LA DIFUSION DE LOS PROGRAMAS
+
+###### Artículo 73.
+
+El Gobierno del Estado a través de la Secretaría y las Dependencias y Entidades, en un plazo máximo de 90 días a partir de la aprobación de su Presupuesto de Egresos, deberá elaborar y publicar en el Periódico Oficial, así como en su página electrónica, las reglas de operación de los Programas Sociales Estatales.
+
+###### Artículo 74.
+
+Los Municipios en el mismo plazo que señala el Artículo anterior, deberán Publicar en los estrados de la Presidencia Municipal, los programas sociales de los que puedan ser beneficiados sus habitantes, además del monto y la distribución de los recursos que les fueron entregados para la implementación de estos programas.
+
+###### Artículo 75.
+
+Además de las obligaciones que señalan los Artículos anteriores, el Gobierno del Estado y los Municipios implementarán campañas de difusión masivas, para que toda la población se entere del contenido, reglas de operación y beneficios de los programas sociales que se aplican en el Estado.
+
+###### Artículo 76.
+
+La Publicidad e información relativa a los Programas Sociales Federales, Estatales o Municipales deberán identificarse con el Escudo Nacional, Estatal y Municipal que corresponda en los términos que señala la Ley en la materia y tendrá la siguiente leyenda: "Este programa es de carácter público, no es patrocinado ni promovido por partido político alguno y sus recursos provienen de los impuestos que pagan los contribuyentes. Está prohibido el uso de este programa con fines políticos, electorales, de lucro y otros distintos a los establecidos. Quien haga uso indebido de los recursos de este programa deberá ser denunciado y sancionado de acuerdo a la ley aplicable".
+
+###### Artículo 77.
+
+Cuando en un Municipio exista población indígena, las Autoridades Municipales deberán difundir en la lengua o dialecto que hable este grupo de la población, los programas sociales y los mecanismos para acceder a ellos.
+
+###### Artículo 78.
+
+La Secretaría, realizará la difusión de los programas sociales, en donde puedan ser beneficiadas personas con discapacidad.
+
+### CAPITULO XXI. DE LA CONTRALORIA SOCIAL
+
+###### Artículo 79.
+
+La Contraloría Social es el instrumento de que disponen los beneficiarios y la sociedad, para verificar el cumplimiento de los programas y de desarrollo social y la correcta aplicación de los recursos destinados a esta materia.
+
+###### Artículo 80.
+
+El Gobierno del Estado y los Municipios impulsarán la contraloría social y facilitarán la información necesaria para el cumplimiento de sus funciones a través de Comités Ciudadanos, los que tendrán la facultad de acudir en forma directa ante el Órgano de Fiscalización Superior del Congreso y la Secretaría de Contraloría del Gobierno del Estado, bien sea para interponer quejas o denuncias o para recibir apoyo y asesoría.
+
+###### Artículo 81.
+
+Toda persona u organización podrán presentar las quejas y denuncias ante la Autoridad competente, de acuerdo a la materia, respecto a los hechos, actos u omisiones que probablemente constituyan irregularidades o conductas ilícitas o impliquen incumplimiento con lo dispuesto en la presente Ley.
+
+### CAPITULO XXII. DE LA DENUNCIA POPULAR
+
+###### Artículo 82.
+
+Los ciudadanos que adviertan irregularidades, omisiones o desviación de recursos en la operación y atención de programas y acciones en materia de Desarrollo Social, por parte de los servidores públicos o Dependencias, además de cualquier otro hecho que atente contra los derechos sociales consignados en la presente Ley, podrán denunciarlo ante la Secretaría de Contraloría del Estado sin menoscabo de aquellos concertados con el Gobierno Federal.
+
+###### Artículo 83.
+
+Toda denuncia siempre tendrá una respuesta por escrito. La forma en la que se presentará la denuncia que señala el Artículo anterior, los plazos para responder la misma y el procedimiento de desahogo quedarán sujetos a los lineamientos establecidos por la Secretaría de la Contraloría.
+
+En caso de que la Secretaría reciba una denuncia sobre hechos que no sean de su competencia, esta deberá remitirla a la Autoridad competente para su seguimiento respectivo.
+
+### CAPITULO XXIII. DE LAS INFRACCIONES Y SANCIONES
+
+###### Artículo 84.
+
+El beneficiario u organización que contravenga las disposiciones de la presente Ley o de la normatividad de algún programa, se identificará en el padrón y la Secretaría le suspenderá el apoyo social hasta por dieciocho meses.
+
+###### Artículo 85.
+
+Los recursos destinados al desarrollo social y combate a la pobreza, no podrán ser utilizados para fines distintos a los establecidos. El servidor público Estatal o Municipal, que valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de un partido político y, en general contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley de Responsabilidades de Servidores Públicos para el Estado de Hidalgo y demás ordenamientos relativos, en el caso de ser Servidor Público Federal, se deberá informar al órgano de control interno competente.
+
+###### Artículo 86.
+
+Constituyen además infracciones a la presente Ley, las siguientes:
+
+I.- Realizar actividades de autobeneficio o de beneficio mutuo con recursos públicos;
+
+II.- No aplicar los recursos públicos que reciban a los fines para los que fueron autorizados; y
+
+III.- No cumplir con el objeto social para el cual fue asignado el recurso público o destinarlo a un fin distinto.
+
+## TRANSITORIOS
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- El Poder Ejecutivo emitirá el Reglamento de la presente Ley, en un plazo no mayor a 120 días hábiles, posteriores al inicio de su vigencia.
+
+TERCERO.- El Consejo Estatal de Desarrollo Social, será instalado en un plazo no mayor a 180 días hábiles, después de la entrada en vigor del presente ordenamiento.
+
+CUARTO.- El Reglamento Interior del Consejo Estatal de Desarrollo Social, deberá ser expedido en un término no mayor de 120 días hábiles posteriores a su instalación.
+
+QUINTO.- El Fondo Social será presupuestado para la constitución del Fideicomiso respectivo, a partir del ejercicio fiscal de 2008.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+AL EJECUTIVO DE LA ENTIDAD PARA SU SANCION Y PUBLlCACION.- DADO EN LA SALA DE SESIONES DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS VEINTIOCHO DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SEIS.
+
+PRESIDENTE
+
+DIP. CARLOS TREJO CARPIO.
+
+SECRETARIA
+
+DIP. TATIANA TONANTZIN P. ANGELES MORENO.
+
+SECRETARIO
+
+DIP. JESUS PRIEGO CALVA.
+
+EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 51 DE LA CONSTITUCION POLlTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
+
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS VEINTINUEVE DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SEIS.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
+
+LIC. MIGUEL ANGEL OSORIO CHONG
