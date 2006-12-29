@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2005-10-19"
+last_updated: "2006-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -623,6 +623,58 @@ VI.- Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre la
 VII.- Actuar de forma conjunta con las Comisiones correspondientes, para la solución de los problemas que se le presenten, y
 
 VIII.- Solicitar a las autoridades del Distrito Federal la información que considere procedente para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 56 Bis.
+
+Corresponde al Comité de Asuntos Internacionales:
+
+I. Coadyuvar en la difusión, promoción y ejecución de Convenios y Tratados Internacionales signados por los Estados Unidos Mexicanos, en los que tenga intervención el Distrito Federal;
+
+II. Emitir opinión a las autoridades de la Administración Pública Local, respecto de las materias en que tenga injerencia el Distrito Federal dentro de los Convenios Internacionales;
+
+III. Proponer la celebración de Convenios Internacionales con autoridades relacionadas con la Seguridad Pública, Desarrollo Social, Desarrollo Urbano, Medio Ambiente, y otras dependencias y autoridades, de las cuales se desprenda la necesidad de la celebración y vinculación de los mismos; asimismo, apoyar y dar atención a las observaciones que deriven de la aplicación a la normatividad en materia internacional, relacionadas con el Distrito Federal;
+
+IV. Realizar visitas y giras de trabajo, por si o conjuntamente con las autoridades de la administración pública local, y/o comisiones de la Asamblea Legislativa para supervisar el cumplimiento de la normatividad y los Convenios celebrados en materia internacional, y en los cuales tenga competencia el Distrito Federal;
+
+V. Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre las peticiones y quejas presentadas por los ciudadanos y las gestiones realizadas ante los Órganos Internacionales y otras autoridades en los cuales tenga competencia el Distrito Federal;
+
+VI. Actuar de forma conjunta con las Comisiones correspondientes integrantes de la Asamblea, para la solución de los problemas en materia internacional que se le presenten, y
+
+VII. Solicitar a las autoridades Delegacionales y demás dependencias del Gobierno del Distrito Federal, así como Organismos Desconcentrados y Autónomos de la Ciudad, información sobre el cumplimiento de la normatividad en materia internacional, en los cuales tenga injerencia el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 56 Ter.
+
+Corresponde al Comité de Capacitación:
+
+I. Ser el órgano administrativo que vincule la búsqueda de herramientas teórico-formativas para el adecuado desempeño de las funciones de esta Asamblea;
+
+II. Proponer a la Comisión de Normatividad Legislativa, Estudios y Practicas Parlamentarias la implementación de programas institucionales de capacitación, para formar servidores públicos profesionales, a partir de la definición de las temáticas, contenidos, espacios y niveles de capacitación, que conllevan al desarrollo institucional;
+
+III. Generar en coordinación con la Comisión de Normatividad Legislativa, Estudios y Practicas Parlamentarias mecanismos de vinculación con instituciones educativas, áreas de investigación y especialistas en la problemática de la ciudad, que coadyuven la creación y promoción de cursos, talleres y conferencias para la formación y el desarrollo institucional de la Asamblea, y
+
+IV. Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre la organización y resultados de los programas ejercidos en materia de capacitación.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 56 Quater.
+
+Corresponde al Comité para la promoción y seguimiento de la Cultura de la Legalidad:
+
+I. Actuar como un canal de comunicación con las Comisiones de la Asamblea, para atender las quejas referentes a la inobservancia de la normatividad aplicable en el Distrito Federal;
+
+II. Cumplir con los mandatos y apoyos necesarios que emitan las Comisiones de la Asamblea sobre el cumplimiento de la normatividad aplicable en el Distrito Federal;
+
+III. Llevar a cabo y proponer recorridos, por instrucciones de las Comisiones correspondientes de esta Asamblea, para indagar sobre el cumplimiento de la legislación vigente;
+
+IV. Promover y fomentar entre la ciudadanía y las dependencias y órganos de gobierno, la cultura de la corresponsabilidad en la observancia de las leyes que emita la Asamblea;
+
+V. Mantener una vinculación y comunicación estrecha con el Comité de Atención, Orientación y Quejas Ciudadanas a fin de atender los asuntos que se presenten derivados de la inobservancia de la normatividad aplicable en el Distrito Federal, y
+
+VI. Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre las peticiones y quejas presentadas por los ciudadanos y las gestiones realizadas ante las autoridades.
 
 SEGUNDA PARTE
 
@@ -2282,13 +2334,11 @@ Cuando una persona o institución decida formular una candidatura, la misma se a
 
 Solamente por causa de fuerza mayor, no imputable al interesado, previa justificación a entera satisfacción de la Comisión dictaminadora, podrán recibirse propuestas fuera del término señalado en la convocatoria respectiva, pero de ninguna manera una vez aprobadas por la Comisión dictaminadora.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 215.
 
 Se tomará en cuenta de preferencia que los candidatos al reconocimiento respectivo sean habitantes del Distrito Federal.
-
-El candidato al reconocimiento no deberá ser servidor público, con excepción hecha a la medalla al mérito policial, ni tener parentesco con algún servidor público.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2419,3 +2469,9 @@ G.O. 19 DE OCTUBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
