@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2005-12-29"
+last_updated: "2006-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -421,7 +421,7 @@ V.- Los obtenidos por la enajenación de segunda o ulteriores manos de fertiliza
 
 ###### Artículo 71.
 
-Son ingresos gravados en los términos de la Fracción II del artículo 69 de ésta(sic) capítulo:
+Son ingresos gravados en los términos de la Fracción II del artículo 69 de ésta (sic) capítulo:
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1463,7 +1463,9 @@ II.- Para vehículos de propulsión mecánica:
 
 a).- El 80% del valor total del vehículo de la primera facturación, para vehículos cuyo modelo corresponda al año de aplicación de esta Ley;
 
-b).- El valor que se establezca en las diversas guías o publicaciones sobre precios de automóviles usados del mes de noviembre del año anterior al de aplicación de la Ley, para vehículos hasta 10 años modelo anteriores al año de aplicación de esta Ley;
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+b).- El valor de compra que se establezca en las diversas guías o publicaciones sobre precios de automóviles usados del mes de noviembre del año anterior al de aplicación de la Ley, para vehículos hasta 10 años modelo (sic) anteriores al año de aplicación de esta Ley;
 
 c).- El avalúo pericial presentado por el contribuyente cuando se trate de vehículos no clasificados en las Guías o Publicaciones a que se refiere el inciso anterior, accidentados o en condiciones de avanzado deterioro. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente y rechazarlo en caso de que no se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
 
@@ -1473,6 +1475,8 @@ c).- El avalúo pericial presentado por el contribuyente cuando se trate de veh�
 
 BIS.- Los vehículos de más de 10 años modelo anteriores al año de aplicación de esta Ley, pagarán el impuesto conforme a la siguiente:
 
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
 TARIFA
 
 TIPOS DE VEHÍCULO AÑOS DE ANTIGÜEDAD
@@ -1481,29 +1485,25 @@ DE 11 A 15 DE 16 A 20 DE 21 AÑOS
 
 AÑOS AÑOS EN ADELANTE
 
-Automóviles:
+Automóviles de
 
-4 Cilindros. $450.00 $350.00 $200.00
-
-6 Cilindros. 550.00 450.00 250.00
-
-8 Cilindros. 650.00 550.00 300.00
+Pasajeros: $ 500.00 $ 350.00 $ 150.00
 
 Camiones:
 
-Pick Up. 450.00 350.00 250.00
+Pick Up. $ 500.00 $ 350.00 $ 150.00
 
-Hasta 8 toneladas. 950.00 650.00 350.00
-
-Más de 8 toneladas. 1900.00 950.00 550.00
+Tonelada y rabón $ 950.00 $ 650.00 $ 350.00
 
 Tractores no agrícolas
 
-5ta. rueda, autobuses,
+tipo 5ta. rueda,
 
-minibuses y microbuses: 2,800.00 1,900.00 1,000.00
+autobuses, torton,
 
-Motocicletas. 250.00 150.00 100.00
+minibuses y microbuses: $ 2,500.00 $ 1,600.00 $ 900.00
+
+Motocicletas: $ 180.00 $120.00 $90.00
 
 ###### Artículo 189.
 
@@ -1513,9 +1513,9 @@ La tasa del impuesto, será:
 
 I.- Cuando por la naturaleza de la operación o por las condiciones pactadas no fuere posible determinar el valor de los bienes muebles al realizarse la operación $1,000.00, salvo que se trate de vehículos de propulsión mecánica;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-II.- Sobre la base determinada conforme a las fracciones I y II del Artículo 188 del presente ordenamiento, el 2%;
+II.- Sobre la base determinada conforme a las fracciones I y II del Artículo 188 del presente ordenamiento, el 1.5%;
 
 III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
@@ -1523,9 +1523,9 @@ III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
 IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 3%.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 65 años o más edad, en los términos del artículo 298, fracción II del presente ordenamiento, se aplicará la tasa correspondiente, reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año.
+Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad, en los términos del Artículo 298 fracción II del presente ordenamiento, se aplicará la tasa correspondiente, reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año.
 
 ###### Artículo 189 Bis.
 
@@ -1549,11 +1549,11 @@ IV.- Las autoridades federales, estatales o municipales competentes en el Estado
 
 (DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 192.
 
-El impuesto deberá pagarse en la Oficina Recaudadora del domicilio de cualquiera de los sujetos o del lugar en que se celebró la operación.
+El impuesto deberá pagarse en la oficina recaudadora o en las instituciones autorizadas para tal efecto, del domicilio de cualquiera de los sujetos o del lugar en que se celebró la operación.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -1891,9 +1891,9 @@ V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un m�
 
 VI.- Contraprestaciones pagadas a personas con discapacidad;
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-VII.- Participación en las utilidades de los trabajadores;
+VII.- Participación de los trabajadores en las utilidades;
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -1925,9 +1925,13 @@ XIII.- Pagos que resulten del crédito al salario conforme a la Ley del Impuesto
 
 Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración mensual dentro de los primeros veinte días del mes siguiente a aquél en que se causó, ante la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio del contribuyente o de quién perciba los pagos cuando quién los efectúa resida fuera del Estado.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-Los contribuyentes dedicados a actividades agrícolas, silvícolas o de pesca, previa autorización de la Secretaría de Finanzas, podrán efectuar el pago del impuesto dentro de los veinte días inmediatos posteriores al término de sus respectivos ciclos productivos, siempre que los productos no hayan sido objeto de transformación industrial.
+Los contribuyentes dedicados a actividades agrícolas, silvícolas o de pesca, previa autorización de la Secretaría de Hacienda, podrán efectuar el pago del impuesto dentro de los veinte días inmediatos posteriores al término de sus respectivos ciclos productivos tratándose de trabajadores contratados por tiempo determinado, siempre que los productos no hayan sido objeto de transformación industrial.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Cuando los contribuyentes realicen el pago del impuesto con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales o de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, podrán efectuar el pago del impuesto mediante la presentación de declaraciones periódicas hasta de doce meses, y de anexo que contenga el monto de las remuneraciones pagadas por el contribuyente, el número de empleados, el impuesto causado, el Impuesto para el Sostenimiento de la Universidad de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública y recargos, desglosados en forma mensual, así como las sanciones que correspondan.
 
 ###### Artículo 220.
 
@@ -2275,9 +2279,9 @@ VII.- Contribuciones para obras públicas;
 
 VIII.- Impuesto a la prestación de servicios bajo la Dirección y dependencia de un tercero;
 
-> <small>(ADICIONADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-IX.- Impuesto sobre traslación de dominio de bienes muebles, en los supuestos a que se refiere el Artículo 189 último párrafo, de este ordenamiento y por el pago de los derechos a que se refiere el Artículo 298 fracción I, de esta Ley, que realicen las personas adultas de 65 años o más edad o que tengan el carácter de pensionados o jubilados.
+IX.- Impuesto sobre traslación de dominio de bienes muebles, en los supuestos a que se refiere el artículo 189 último párrafo, de este ordenamiento y por el pago de los derechos a que se refiere el artículo 298 fracción I, de esta Ley, que realicen las personas adultas de 60 años o más edad o que tengan el carácter de pensionados o jubilados.
 
 ###### Artículo 252.
 
@@ -2667,9 +2671,9 @@ c).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
 No causará la contribución a que se refiere este capítulo, el impuesto por la prestación de un servicio prestado bajo la Dirección y Dependencia de un tercero; el impuesto al ejercicio de profesiones liberales, artísticas e innominadas; e impuesto del 10% para la Universidad de Sonora.
 
-> <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)
 
-Asimismo no causará esta contribución, el impuesto sobre traslación de dominio de bienes muebles, en las operaciones a que se refiere el Artículo 189 último párrafo y los derechos a que se refiere el Artículo 298 fracción I, de este ordenamiento, tratándose de personas adultas de 65 años o más edad o que tengan el carácter de pensionados o jubilados.
+Así mismo no causará esta contribución, el impuesto sobre traslación de dominio de bienes muebles, en las operaciones a que se refiere el artículo 189 último párrafo y los derechos a que se refiere el artículo 298 fracción I de este ordenamiento, tratándose de personas adultas de 60 años o más edad o que tengan el carácter de pensionados o jubilados.
 
 ###### Artículo 292.
 
@@ -2683,7 +2687,7 @@ Toda la recaudación que por concepto de ésta contribución se obtenga en cada 
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-### Capítulo Cuarto. Servicios de Ganadería
+### Capítulo Cuarto. Servicios de Ganadería y de Vida Silvestre
 
 ### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
 
@@ -2819,7 +2823,9 @@ Las cuotas de los derechos serán iguales, para quienes reciban servicios análo
 
 Para la determinación de las cuotas de los derechos, se tendrá en cuenta el costo de dichos servicios o el uso que se haga de ellos y la situación económica del obligado, conforme a las siguientes bases:
 
-I.- Cuando el solicitante del servicio acredite su calidad de jubilado, pensionado o persona adulta de 65 años o más edad y sea el beneficiario directo del mismo, se aplicarán las cuotas correspondientes a los servicios que a continuación se detallan, reducidas en un 50%, excepto tratándose de aquéllos cuyas cuotas o tarifas contemplen reducciones en los términos de esta Ley.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+I.- Cuando el solicitante del servicio acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad y sea el beneficiario directo del mismo, se aplicarán las cuotas correspondientes a los servicios que a continuación se detallan, reducidas en un 50%, excepto tratándose de aquéllos cuyas cuotas o tarifas contemplen reducciones en los términos de esta Ley.
 
 a).- Derechos por expedición, transferencia, canje o revalidación de placas de transporte privado, para un solo vehículo de su propiedad.
 
@@ -2831,7 +2837,9 @@ c).- Derechos por los servicios que presta el Registro Público de la Propiedad,
 
 d).- En general por la legalización de firmas, expedición de certificados y certificaciones por cuyos servicios deban pagarse derechos en los términos de la presente Ley.
 
-II.- Para los efectos anteriores, se consideran jubilados, pensionados o persona adulta de 65 años o más edad, aquéllas que acrediten la calidad correspondiente mediante la documentación oficial expedida por las instituciones públicas de seguridad social que a continuación se señalan:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+II.- Para los efectos anteriores, se consideran jubilados, pensionados o persona adulta de 60 años o más edad, aquéllas que acrediten la calidad correspondiente mediante la documentación oficial expedida por las instituciones públicas que a continuación se señalan:
 
 a).- Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado de Sonora.
 
@@ -2845,7 +2853,9 @@ e).- Instituto Nacional para las Personas Adultas Mayores, y
 
 f).- Otras instituciones de seguridad social de la federación, estados o municipios que presten estos servicios.
 
-Las personas mayores de 65 años de edad que no cuenten con alguna identificación de las señaladas en los incisos anteriores, podrán demostrar su edad y hacerse acreedores a los beneficios correspondientes mediante la presentación de la credencial para votar expedida por el Instituto Federal Electoral.
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Las personas mayores de 60 años de edad que no cuenten con alguna identificación de las señaladas en los incisos anteriores, podrán demostrar su edad y hacerse acreedores a los beneficios correspondientes mediante la presentación de la credencial para votar expedida por el Instituto Federal Electoral.
 
 ###### Artículo 299.
 
@@ -2875,9 +2885,15 @@ Los incrementos en las cuotas o tarifas de los Derechos se calcularán sobre el 
 
 Para determinar las cuotas de los derechos establecidos en esta Ley, se considerarán, inclusive, las fracciones del nuevo peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del nuevo peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos se ajusten a la unidad del nuevo peso inmediata superior.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 300.
 
-El pago de los derechos se efectuará al momento de la prestación del servicio, salvo que en alguno de los Capítulos se señale otro momento.
+El pago de los derechos que establece esta Ley deberá hacerse por el contribuyente previamente a la presentación de los servicios, salvo los casos en que expresamente se señale otro momento.
+
+Cuando no se compruebe que el pago de derechos se ha efectuado previamente a la presentación del servicio y se trate de derechos que deban pagarse por anticipado, el servicio, no se proporcionará.
+
+Cuando el pago de derechos deba efectuarse con posterioridad a la prestación del servicio por tratarse de servicios continuos o por que así se establezca, éste dejará de prestarse si no se efectúa dicho pago.
 
 ### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
 
@@ -3029,6 +3045,8 @@ Cuando se compruebe la transmisión del permiso sin que para ello se haya seguid
 
 Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y cambios de domicilio, con autorización de la Secretaría de Fianzas del Estado, quedarán los permisionarios sujetos a los derechos que se señalen, los que serán equivalentes a los que haya venido pagando el propietario anterior. Se cobrarán estos derechos en forma proporcional a los meses o fracciones del año fiscal de que se trate.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
@@ -3083,6 +3101,32 @@ N$ .030 N$ .020
 
 IV.- Por la acreditación anual de expendios de carnes clasificadas. $406.00
 
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+V.- Para la conservación, promoción, investigación y vigilancia de la vida silvestre, se cobrará por servicios para el aprovechamiento extractivo de ejemplares de fauna silvestre, por ejemplar y de acuerdo a las diferentes especies, las siguientes cuotas:
+
+ESPECIE CUOTA
+
+a) Borrego cimarrón $ 5,000.00
+
+b) Venado bura de Sonora $ 2,500.00
+
+c) Venado cola blanca $ 1,500.00
+
+d) Pequeños mamíferos $ 200.00
+
+e) Jabalí de collar $ 200.00
+
+f) Guajolote silvestre $ 200.00
+
+g) Otras aves (codornices y palomas) $ 80.00
+
+h) Aves migratorias $ 80.00
+
+i) Depredadores (coyote, puma y
+
+gato montés) $ 1,000.00
+
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
@@ -3117,9 +3161,19 @@ del punto anterior, por cada prórroga. N$ 50.00
 
 Los derechos por estos servicios se cobrarán conforme a las siguientes cuotas:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-1.- Por los servicios de expedición de cédula para acreditar la inscripción en el registro simplificado de proveedores y prestadores de servicios del Gobierno del Estado, a petición del solicitante. $50.00
+1.- Por los servicios de expedición, reposición y revalidación anual de la cédula para acreditar la inscripción en el Registro Único de Personas Acreditadas (RUPA), a cargo de licitantes, proveedores y contratistas que participen en procedimientos de licitaciones y contrataciones en materia de obras públicas, adquisiciones y servicios, a petición del solicitante:
+
+a) Primera expedición Gratuito
+
+b) Primera expedición con firma
+
+electrónica $ 300.00
+
+c) Por reposición $ 500.00
+
+d) Por revalidación anual $ 200.00
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -3131,9 +3185,23 @@ b).- Por cada disco flexible de 3.5 pulgadas. $20.00
 
 c) Por cada disco compacto. $25.00
 
-d).- Por cada copia simple. $5.00
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-e).- Por cada hoja impresa por medio de dispositivo informático. $10.00
+d).- Por cada copia simple. $1.00
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+e).- Por cada hoja impresa por medio de dispositivo informático. $8.00
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+f) Por reproducción de documentos De la primera a la
+
+mediante digitalización de imágenes vigésima hoja, GRATUITO.
+
+y textos (scanner) A partir de la vigésima primera
+
+hoja, $ 1.00, por cada hoja.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3597,15 +3665,17 @@ Los servicios relativos a información en materia vehicular y de otros registros
 
 Los servicios que la Dirección General de Transporte del Estado, preste a los particulares, causarán el pago de derechos conforme a las especificaciones y tarifas siguientes:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-1.- Por la expedición o adjudicación de concesión para la explotación del servicio público de transporte, por unidad.
+1.- Por la expedición de concesión para la explotación del servicio público de transporte, por unidad.
 
-I.- De jurisdicción estatal:
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-a).- Pasaje. $3,300.00
+I.- De jurisdicción estatal o municipal:
 
-b).- Carga. $1,800.00
+a).- Pasaje. $3,4110.00
+
+b).- Carga. $1,861.00
 
 II.- De jurisdicción municipal;
 
@@ -3641,9 +3711,13 @@ b).- Carga. $450.00
 
 5.- Autorización de alta y baja de la unidad para la explotación del servicio público de transporte anto de jurisdicción estatal, como municipal, por unidad:
 
-a).- Pasaje N$ 30.00
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-b).- Carga N$ 30.00
+a).- Pasaje $ 100.00
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+b).- Carga $ 100.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3657,21 +3731,27 @@ b).- Carga. $330.00
 
 7.- Expedición de permisos que amparen el servicio particular de transporte, de jurisdicción estatal o municipal, por unidad:
 
-a).- Personas físicas. $300.00
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-b).- Personas morales. $500.00
+a).- Hasta por tres meses $317.00
 
-8.- Por estudios que realice el Departamento Técnico adscrito a la Dirección, a solicitud de
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-particulares para determinar las necesidades de servicio público de transporte de jurisdicción
+b).- Hasta por seis meses $527.00
 
-estatal o municipal.
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+c) Hasta por un año $715.00
+
+8.- Por estudios que realice el Departamento Técnico adscrito a la Dirección, a solicitud de particulares para determinar las necesidades de servicio público de transporte de jurisdicción estatal o municipal.
 
 a).- Pasaje N$ 600.00
 
 b).- Carga N$ 600.00
 
-9.- Por la expedición de concesiones con motivo de ampliación de ruta o radios de jurisdicción en la explotación de servicio público de transporte de jurisdicción estatal o municipal.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+9.- Por la modificación de concesiones con motivo de ampliación de ruta o radios de jurisdicción en la explotación de servicio público de transporte de jurisdicción estatal o municipal.
 
 I.- Pasaje
 
@@ -3707,21 +3787,47 @@ b).- Por la búsqueda N$ 20.00
 
 15.- Por cesión de derechos de explotación de concesión del servicio público de transporte, estatal o municipal, por unidad:
 
-a).- Pasaje:
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-Urbano, suburbano y foráneo. $4,850.00
+a) Pasaje
 
-Taxi. $2,400.00
+Urbano, suburbano y foráneo. $5,014.00
 
-b).- Carga. $2,650.00
+Exclusivo de turismo, automóvil $2,740.00
+
+de alquiler (taxi) especializado de
+
+personal, escolar, para trabajadores
+
+agrícolas y especializado para
+
+personas con discapacidad y de la
+
+tercera edad.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+b) Carga. $2,481.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 16.- Por autorización para arrendamiento de derechos de explotación de concesión estatal o municipal, por unidad:
 
-a).- Pasaje, por cada período de hasta 30 días. $800.00
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-b).- Carga, por cada período de hasta 30 días. $800.00
+a) Pasaje
+
+Por cada autorización hasta por un año $800.00
+
+Por cada autorización hasta por seis meses $400.00
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+b).- Carga
+
+Por cada autorización hasta por un año $800.00
+
+Por cada autorización hasta por seis meses $400.00
 
 > <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
@@ -3734,6 +3840,46 @@ b).- Por la búsqueda $41.00
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 18.- Por aplicación de examen psicométrico a operadores que presten el servicio público de transporte en la modalidad de pasaje. $50.00
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+19.- Por reposición de título de concesión y tarjetón de revalidación del servicio público de transporte.
+
+a) Pasaje $180.00
+
+b) Carga $180.00
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+20.- Por autorización de cambio de sucesor en el formato de concesión.
+
+a) Pasaje $60.00
+
+b) Carga $60.00
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+21.- Por modificación o ampliación a los términos de explotación de la concesión:
+
+a) Por los que requieren
+
+estudio técnico $841.00
+
+b) Por los que no requieren
+
+estudio técnico $560.00
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+22.- Por la adjudicación de concesión para la explotación del servicio público de transporte, por unidad.
+
+a) Pasaje $180.00
+
+b) Carga $180.00
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Las personas físicas o morales titulares de concesiones o permisos para operar algunas de las concesiones en cualquier modalidad contemplada en la Ley de Transporte para el Estado de Sonora, deberán presentar el aviso de inscripción ante el registro estatal de contribuyentes, en la oficina recaudadora que corresponda a su domicilio fiscal.
 
 ### Capítulo Unico
 
@@ -3825,17 +3971,19 @@ reducirán en un 50%.
 
 5.- Por la inscripción de embargos laborales, se causarán y pagarán los derechos conforme a la tasa de 5 al millar, por cada operación, y si el importe a pagar es mayor a la cantidad de $1,500.00, deberá aplicarse esta última.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-6.- Por el depósito de testamento ológrafo. $304.00
+6.- Por el depósito de testamento ológrafo. $200.00
 
 Se exceptúa del pago de derechos el registro de testamento público simplificado.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 7.- Por capitulaciones matrimoniales, su modificación,
 
 disolución o liquidación, cuando no contenga inmuebles
 
-o valores estimables en moneda nacional. $ 320.00
+o valores estimables en moneda nacional. $ 250.00
 
 8.- Por registro de cédula hipotecaria. $ 425.00
 
@@ -3971,6 +4119,10 @@ f).- Todos los demás certificados. $145.00
 
 Tratándose de operaciones relativas a vivienda de interés social y popular cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 25 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, las cuotas a que se refiere este punto se reducirán en un 50%.
 
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Cuando alguna de las certificaciones a que se refiere este punto se solicite con motivo de programas oficiales para satisfacer necesidades de vivienda, se exceptuará del pago de estos derechos a los particulares beneficiados con tales programas, debiendo el interesado acreditar dicho beneficio mediante constancia expedida por la responsable del programa.
+
 19.- Por la expedición de copias fotostáticas:
 
 a).- Simples, hasta las primeras cinco hojas. $ 32.00
@@ -3993,9 +4145,11 @@ subsecuentes. $ 19.00
 
 21.- Por la prestación del servicio anual de consulta en línea, en la forma y términos en que se contrate. $1.000.00
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-22.- Por la prestación de servicios registrales en línea se causará un derecho adicional del 20% sobre la cantidad fijada para el servicio solicitado. Independientemente de los derechos que se causen deberán pagarse el costo de envío que determine el usuario.
+Independientemente de los derechos a que se refiere el párrafo anterior deberá pagarse, en su caso, el costo de envío que determine el usuario.
+
+22.- (DEROGADO, B.O. 29 DE DICIEMBRE DE 2006)
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -4009,11 +4163,13 @@ La tasa expresada en 5 al millar, por los servicios a que se refiere este Capít
 
 Las tarifas de este Capítulo cuando comprendan dos o más cuotas y ya sean especificadas o proporcionales, se aplicarán progresivamente y acumulativamente.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 323.
 
-Se exceptúan de los derechos a que se refiere este Capítulo, al Estado, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado e instituciones de asistencia privada autorizadas por la Junta de Asistencia Privada de la Secretaría de Salud.
+Se exceptúan de los derechos por registro de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles y cualquier derecho real sobre los mismos, a que se refiere el punto 1 del Artículo 321 de este ordenamiento, al Estado, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, e instituciones de asistencia privada autorizadas por la Junta de Asistencia Privada de la Secretaría de Salud, cuando intervengan como parte activa en los actos jurídicos en ellos contenidos.
+
+Para efectos de este artículo se entenderá pro “Estado” a los Poderes Ejecutivo, Legislativo y Judicial del Estado de Sonora, con excepción de los organismos descentralizados y empresas de participación estatal, así como cualquier ente de la Administración Pública Federal o Municipal.
 
 > <small>(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -4173,7 +4329,9 @@ La información digitalizada que se produzca por el sistema estatal inmobiliario
 
 El Estado procederá a cobrar los derechos enunciados en esta fracción, siempre que exista convenio expreso con el municipio respectivo.
 
-II.- Servicios Prestados por la Secretaría de Infraestructura Urbana y Ecología.
+> <small>(REFORMADA PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+II.- Servicios en materia de desarrollo urbano y ecología.
 
 1.- Trabajos de revisión de documentación
 
@@ -4229,13 +4387,13 @@ c).- Para lotes con superficie total a fusionar de
 
 100,001 m2 en adelante $700.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 5.- Por relotificación a desarrollos industriales,
 
 turísticos o campestres ya autorizados por la
 
-Secretaría de Infraestructura Urbana y Ecológica,
+Secretaría de Infraestructura y Desarrollo Urbano,
 
 por lote.
 
@@ -4251,15 +4409,15 @@ c).- Por el proceso de relotificación donde intervengan
 
 12 (sic) lotes en adelante. $70.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 6.- Por la aprobación por parte de la Secretaría de
 
-Infraestructura Urbana y Ecología, de la publicidad
+Infraestructura y Desarrollo Urbano, de la publicidad
 
 destinada a promover un desarrollo industrial,
 
-turístico o campestre, autorizado. $525.00
+turístico o campestre, autorizado. $616.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -4397,6 +4555,10 @@ prestadores de servicios de estudio de impacto
 
 ambiental. $ 1,396.00
 
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Los servicios a que se refieren los puntos 8, 9, 11, 12, 13, 14, 15, 17 Y 18 de esta fracción se prestarán por conducto de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
+
 III.- Servicios Prestados por la Secretaría de Salud Pública del Estado.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
@@ -4411,21 +4573,29 @@ III.- Servicios Prestados por la Secretaría de Salud Pública del Estado.
 
 3.- Diligencias de muestreo de productos solicitadas por los interesados. $500.00
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-4.- Asesorías en materia administrativa y procesos higiénicos solicitadas por los interesados. $500.00
+4.- Asesorías en materia administrativa y procesos higiénicos solicitadas por los interesados. $1,500.00
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 5.- Verificación de balance de medicamentos controlados por la Secretaría de Salud, solicitados por los interesados. $1.000.000
 
-6.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-7.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
+6.- Capacitación en manejo y dispensación de medicamentos a los operadores de farmacias, droguerías, boticas, almacenes de medicamentos, tanto públicos como privados $ 600.00
 
-8.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-9.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
+7.- Por autorización de cremación de cadáveres, de seres humanos, sus partes y restos áridos. $169.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+8.- Capacitación en la preparación y elaboración, en el manejo de alimentos para establecimientos semifijo. $ 80.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+9.- Capacitación en la preparación, elaboración, conservación y manejo de alimentos, de acuerdo a las actividades que corresponden a las Normas Oficiales Mexicanas y Normas Técnicas. $400.00
 
 10.- Autorización para técnico en embalsamamiento. N$ 160.00
 
@@ -4469,9 +4639,13 @@ J).- Agua N$ 105.00
 
 K).- Otros N$ 160.00
 
-17.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-18.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
+17.- Capacitación en materia de seguridad y sanidad, manejo de sustancias tóxicas o peligrosas, de acuerdo a las Normas Oficiales Mexicanas y Normas Técnicas de la materia. $400.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+18.- Capacitación sobre especificaciones técnicas y sanitarias de las albercas, de acuerdo a la norma técnica de la materia. $400.00
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -4702,8 +4876,6 @@ b).- Por los programas de mantenimiento $500.00
 c).- Por los planes de contingencias por metro cuadrado, como sigue:
 
 c). 1 Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas. $2.00
-
-|
 
 c). 2 Edificios públicos y salas de espectáculos. $2.00
 
@@ -5270,3 +5442,9 @@ B.O. 29 DE DICIEMBRE DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del 1º de enero de 2006, previa su publicación en el boletín Oficial del Gobierno del Estado.
+
+B.O. 29 DE DICIEMBRE DE 2006.
+
+Artículo Primero.- El presente decreto entrará en vigor a partir del 1? (sic) de enero de 2007, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Dentro de los treinta días siguientes a la entrada en vigor de esta Ley, el Ejecutivo Estatal deberá emitir las disposiciones administrativas correspondientes que contemplen y regulen el Registro Único de Personas Acreditadas (RUPA) a que se refiere este Decreto.
