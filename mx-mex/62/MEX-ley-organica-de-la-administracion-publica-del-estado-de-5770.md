@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2005-12-08"
+last_updated: "2006-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -405,7 +405,7 @@ XII. Dirigir la negociación y llevar el registro y control de la deuda pública
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
-XIII. Dictar la normatividad necesaria para el control, supervisión, vigilancia y evaluación de las actividades de todas sus oficinas recaudadoras, locales y foráneas
+XIII. Dictar la normatividad necesaria para el control, supervisión, vigilancia y evaluación de las actividades de todas sus oficinas recaudadoras, locales y foráneas.
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
@@ -487,83 +487,89 @@ XXXII. Vigilar que el desarrollo económico y social de la entidad sea armónico
 
 > <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXIII.- Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre el Gobierno del Estado y los servidores públicos;
+XXXIII.- Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre el Gobierno del Estado y los servidores públicos.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXIV.- Seleccionar, contratar, capacitar y controlar al personal del Poder Ejecutivo del Estado;
+XXXIV.- Seleccionar, contratar, capacitar y controlar al personal del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXV.- Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los funcionarios y trabajadores del Poder Ejecutivo del Estado;
+XXXV.- Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los funcionarios y trabajadores del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXVI.- Mantener al corriente el escalafón de los trabajadores al servicio del Gobierno del Estado;
+XXXVI.- Mantener al corriente el escalafón de los trabajadores al servicio del Gobierno del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXVII.- Adquirir los bienes y servicios que requiera el funcionamiento del Poder Ejecutivo del Estado;
+XXXVII.- Adquirir los bienes y servicios que requiera el funcionamiento del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXVIII.- Proveer oportunamente a las dependencias del ejecutivo de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones;
+XXXVIII.- Proveer oportunamente a las dependencias del ejecutivo de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XXXIX.- Levantar y tener al corriente el inventario general de los bienes muebles e inmuebles propiedad del Gobierno del Estado;
+XXXIX.- Levantar y tener al corriente el inventario general de los bienes muebles e inmuebles propiedad del Gobierno del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XL.- Administrar y asegurar la conservación y mantenimiento del patrimonio del Gobierno del Estado;
+XL.- Administrar y asegurar la conservación y mantenimiento del patrimonio del Gobierno del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLI.- Establecer por acuerdo del Gobernador las normas para la recepción y entrega de las dependencias que incluirá necesariamente el levantamiento de inventarios;
+XLI.- Establecer por acuerdo del Gobernador las normas para la recepción y entrega de las dependencias que incluirá necesariamente el levantamiento de inventarios.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLII.- Administrar, controlar y vigilar los almacenes generales del gobierno;
+XLII.- Administrar, controlar y vigilar los almacenes generales del gobierno.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLIII.- Coordinar y supervisar en conjunto con las dependencias interesadas, la emisión de publicaciones oficiales del ejecutivo del Estado, excepto el periódico oficial;
+XLIII.- Coordinar y supervisar en conjunto con las dependencias interesadas, la emisión de publicaciones oficiales del ejecutivo del Estado, excepto el periódico oficial.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLIV.- Organizar, dirigir y controlar la intendencia del Poder Ejecutivo;
+XLIV.- Organizar, dirigir y controlar la intendencia del Poder Ejecutivo.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLV.- Organizar y controlar la oficialía de partes;
+XLV.- Organizar y controlar la oficialía de partes.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLVI.- Administrar los talleres gráficos del Estado;
+XLVI.- Administrar los talleres gráficos del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLVII.- Administrar el Archivo General del Poder Ejecutivo del Estado;
+XLVII.- Administrar el Archivo General del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLVIII.- Elaborar e implantar programas de mejoramiento administrativo en coordinación con las demás dependencias del ejecutivo, que permita revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa a los programas de Gobierno;
+XLVIII.- Elaborar e implantar programas de mejoramiento administrativo en coordinación con las demás dependencias del ejecutivo, que permita revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa a los programas de Gobierno.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XLIX.- Autorizar, previo acuerdo del Gobernador la creación de las nuevas unidades administrativas que requieran las dependencias del Ejecutivo;
+XLIX.- Autorizar, previo acuerdo del Gobernador la creación de las nuevas unidades administrativas que requieran las dependencias del Ejecutivo.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-L.- Elaborar con el concurso de las demás dependencias del ejecutivo, los manuales administrativos de las mismas y auxiliar en la formulación de los anteproyectos de sus reglamentos interiores;
+L.- Elaborar con el concurso de las demás dependencias del ejecutivo, los manuales administrativos de las mismas y auxiliar en la formulación de los anteproyectos de sus reglamentos interiores.
 
 > <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-LI.- Emitir normas, políticas y procedimientos para el establecimiento y la operación de las unidades de informática de las dependencias y vigilar su observancia;
+LI.- Emitir normas, políticas y procedimientos para el establecimiento y la operación de las unidades de informática de las dependencias y vigilar su observancia.
 
-> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-LII.- Las demás que les señalen las Leyes y Reglamentos vigentes en el Estado.
+LII.- Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados a transporte de carga, de uso particular y comercial, que no sean competencia de otras autoridades.
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+LIII.- Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de carga.
+
+LIV.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2000)</small>
 
@@ -1011,13 +1017,15 @@ I. Formular y ejecutar programas y acciones para el desarrollo del transporte y 
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-II.- Otorgar, modificar, revocar, rescatar, revertir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, individual y mixto y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el periódico oficial "Gaceta del Gobierno" mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
+II. Otorgar, modificar, revocar, rescatar, revertir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, individual y mixto y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el periódico oficial "Gaceta del Gobierno" mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
 
-III. Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros especializado y el de carga; de servicios auxiliares de arrastre, de arrastre y salvamento, y depósito de vehículos; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos;
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+III. Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros especializado; de servicios auxiliares de arrastre, de arrastre y salvamento, y depósito de vehículos; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos;
 
 IV. Autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos afectos al servicio público de transporte;
 
-V. Vigilar el cumplimiento de las disposiciones legales en materia de transporte público dictando al respecto, las medidas administrativas que sean necesarias para el mejoramiento de la prestación del servicio.
+V. Vigilar el cumplimiento de las disposiciones legales en materia de transporte público dictando al respecto, las medidas administrativas que sean necesarias para el mejoramiento de la prestación del servicio;
 
 > <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
 
@@ -1025,7 +1033,7 @@ VI. Ejecutar las acciones técnicas de seguimiento, evaluación y control de ava
 
 VII. Autorizar y modificar las tarifas a que se sujete el servicio público de transporte;
 
-VIII. Prevenir y sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público.
+VIII. Prevenir y sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público;
 
 > <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
 
@@ -1033,7 +1041,7 @@ IX. Opinar respecto del uso de la infraestructura vial primaria por los servicio
 
 > <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
 
-X. Autorizar las bases, paraderos y terminales del servicio público de transporte, previa opinión de la Secretaría de Comunicaciones, en los casos de uso de la infraestructura vial primaria.
+X. Autorizar las bases, paraderos y terminales del servicio público de transporte, previa opinión de la Secretaría de Comunicaciones, en los casos de uso de la infraestructura vial primaria;
 
 XI. Realizar las tareas relativas a ingeniería del transporte, coordinándose con otras autoridades cuando así fuere procedente;
 
@@ -1047,17 +1055,17 @@ XIV. Emitir las disposiciones administrativas necesarias para la desconcentraci�
 
 XV. Aplicar las medidas de seguridad en términos de la legislación vigente;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-XVI.- Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte de pasajeros, de carga y mixto, así como al de uso particular y uso comercial, que no sean competencia de otras autoridades;
-
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
-
-XVII.- Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte en sus diversas clases y modalidades;
+XVI. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte de pasajeros y mixto, que no sean competencia de otras autoridades;
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-XVIII.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+XVII. Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte en sus diversas clases y modalidades;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XVIII. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
@@ -1716,6 +1724,20 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- En todos los ordenamientos legales en que se haga alusión a las Secretarías de Finanzas, Planeación y Administración; del Trabajo y de la Previsión Social; de Educación, Cultura y Bienestar Social; de Desarrollo Urbano y Vivienda; de Agua, Obra Pública e Infraestructura para el Desarrollo; y de Turismo y Desarrollo Artesanal, se entenderá que se refiere a las Secretarías de Finanzas; del Trabajo; de Educación; de Desarrollo Urbano; del Agua y Obra Pública; y de Turismo, respectivamente.
 
 CUARTO.- Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
+
+G.G. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día uno de enero de 2007.
+
+TERCERO.- Las reformas relativas a los artículos 91 Bis y 97 B del Código Financiero del Estado de México y Municipios, así como las correspondientes a los artículos Segundo y Tercero del presente Decreto entrarán en vigor el primero de febrero de 2007.
+
+CUARTO.- Las Secretarías de la Contraloría, de Finanzas y Transporte, proveerán lo necesario para el cumplimiento de los artículos segundo y tercero del presente Decreto.
+
+QUINTO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor de las reformas relativas a los artículos 91 Bis y 97 B del Código Financiero del Estado del Estado de México y Municipios, así como las correspondientes a los artículos segundo y tercero del presente Decreto en las unidades administrativas de la Secretaría de Transporte, se tramitarán y resolverán, según corresponda, por las unidades administrativas que, en su caso, las sustituyan conforme a la estructura orgánica autorizada a este Decreto.
+
+SEXTO.- Por acuerdo de los integrantes de las Comisiones Legislativas, se determinó solicitar a la Junta de Coordinación Política de la "LVI" Legislatura, la creación de una comisión especial que le dé seguimiento al Fideicomiso a que hace referencia el artículo Cuarto del Presente Decreto, así como al Ejecutivo Estatal, para que por conducto de la Secretaría de Finanzas, informe a la legislatura, sobre las modificaciones que, en su caso, se efectúen al Fideicomiso autorizado en el Decreto No 135 publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, el 16 de junio del año 2005.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
