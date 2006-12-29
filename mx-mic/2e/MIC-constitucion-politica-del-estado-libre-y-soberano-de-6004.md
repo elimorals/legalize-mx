@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2006-09-22"
+last_updated: "2006-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 69, PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2006, LA REFORMAS A LOS ARTICULOS 31, 33 Y LA FRACCION X DEL ARTICULO 60, ENTRARAN EN VIGOR EL DIA CATORCE DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL OCHO.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -411,9 +409,9 @@ Los diputados propietarios, durante el período de su encargo, no podrán desemp
 
 La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de Diputado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
 
-#### SECCION II. De la Reunión y Renovación del Congreso
+#### SECCIÓN II. De la Reunión y Renovación del Congreso
 
 (REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
 
@@ -711,11 +709,11 @@ XXI B.- Privar del cargo a los integrantes del Consejo del Poder Judicial, por l
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de Justicia, de plano y sin substanciación de procedimiento, a la conclusión de los períodos constitucionales, mediante el voto de las dos terceras partes de sus miembros;
+XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de Justicia, de plano y sin substanciación de procedimiento, a la conclusión de los períodos constitucionales mediante el voto de las dos terceras partes de sus miembros;
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
-XXIII.- Nombrar a los consejeros electorales del Instituto Electoral de Michoacán y a los magistrados del Tribunal Electoral del Estado, conforme al procedimiento que establezca la ley;
+XXIII.- Nombrar a los consejeros electorales del Instituto Electoral de Michoacán y a los magistrados del Tribunal Electoral del estado, conforme al procedimiento que establezca la ley;
 
 XXIII bis.- (DEROGADA, P.O. 23 DE MAYO DE 2006)
 
@@ -2885,29 +2883,31 @@ DECRETO No. 69
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo los artículo 31, 33 y la fracción X del artículo 60, que entrarán en vigor el día catorce del mes de septiembre del año dos mil ocho.
 
-> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-SEGUNDO. Por única vez, el Congreso del Estado, mediante el voto de las dos terceras partes de la totalidad de sus integrantes, en los primeros quince días del mes de enero del año dos mil ocho, nombrará al Gobernador del Estado, para un periodo de transición comprendido entre el día quince del mes de febrero del año dos mil ocho y el día treinta del mes de septiembre del año dos mil nueve.
+SEGUNDO. El Gobernador del Estado en funciones, concluirá su ejercicio constitucional el día catorce de febrero de dos mil ocho, periodo para el que fue electo.
 
-> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)</small>
+La Septuagésima Legislatura, concluirá su ejercicio constitucional el día catorce de enero del año dos mil ocho, periodo para el que fue electa.
 
-TERCERO. Para los efectos de la presente reforma constitucional, la Septuagésima Legislatura, concluirá su periodo de ejercicio el catorce de septiembre del año dos mil ocho, de modo que coincida con la fecha de instalación de la Septuagésima Primera Legislatura.
+Los ayuntamientos del Estado, concluirán su ejercicio constitucional el día treinta y uno de diciembre del año dos mil siete, periodo para el que fueron electos.
 
-En virtud de lo anterior, el último año legislativo de la Septuagésima Legislatura concluirá el catorce de septiembre del año dos mil ocho.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)</small>
+TERCERO. La elección de Gobernador del Estado, diputados y ayuntamientos, se celebrará el segundo domingo del mes de noviembre del año dos mil siete, y tomarán posesión de su encargo al concluir el periodo de los actuales.
 
-CUARTO. La Septuagésima Primera Legislatura del Congreso del Estado, se elegirá el primer domingo del mes de julio del año dos mil ocho y tendrá un periodo de ejercicio que comprenderá del día quince del mes de septiembre del año dos mil ocho, al día catorce del mes de septiembre del año dos mil doce.
+CUARTO. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2006)
 
-> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)</small>
+QUINTO. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2006)
 
-QUINTO. Para los efectos de la presente reforma constitucional, los actuales ayuntamientos del Estado, concluirán su periodo de ejercicio el día treinta y uno del mes de agosto del año dos mil ocho, de modo que coincida con la fecha de instalación de quienes deban sucederlos.
-
-> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)</small>
-
-SEXTO. Los integrantes de los ayuntamientos que se elijan el primer domingo del mes de julio del año dos mil ocho, ejercerán en el periodo comprendido entre el día primero de septiembre de ese año, hasta el día treinta y uno de agosto del año dos mil doce.
+SEXTO. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2006)
 
 SÉPTIMO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que, en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### ARTÍCULO OCTAVO.
 
