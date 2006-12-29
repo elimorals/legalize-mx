@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-ciudad-41966
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2004-11-26"
+last_updated: "2006-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo de León, el viernes 26 de noviembre del 2004.
 
@@ -1983,7 +1983,9 @@ A) Por abandonar injustificadamente el lugar de un accidente en más de una ocas
 
 B) Por resultar responsable de más de dos accidentes graves en un período de un año.
 
-C) Al conducir bajo el influjo de drogas o sustancias toxicas, en tres ocasiones en un período de seis meses.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+C) Al conducir en estado de ebriedad o eneptitud bajo el influjo de drogas o sustancias toxicas, en tres ocasiones en un período de seis meses.
 
 D) Por orden judicial.
 
@@ -2028,6 +2030,8 @@ IV. RETIRO DE LA LICENCIA DE CONDUCIR.- La licencia de conducir podrá ser retir
 V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del Área Metropolitana de Monterrey, y/o municipio donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
 > <small>N. DE E. VEASE TABULADOR EN EL P.O. DE 26 DE NOVIEMBRE DE 2004, PAGS. 122-129.</small>
+
+> <small>N. DE E. VEASE REFORMAS AL TABULADOR DE INFRACCIONES, P.O. 29 DE DICIEMBRE DE 2006, PAGS. 102-133.</small>
 
 ###### ARTÍCULO 137.
 
@@ -2174,3 +2178,13 @@ LIC. JUAN FRANCISCO RIVERA BEDOYA
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 ING. IGNACIO RODRÍGUEZ ZUÑIGA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO: Las presentes reformas y modificaciones entraran en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones reglamentarias, circulares, acuerdos, y normas que contravengan el contenido de las presentes reformas y modificaciones.
+
+TERCERO: Cúmplase.
