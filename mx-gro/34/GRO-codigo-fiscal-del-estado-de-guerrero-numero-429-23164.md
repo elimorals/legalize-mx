@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2005-12-27"
+last_updated: "2006-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -189,9 +189,9 @@ En los plazos establecidos por períodos y aquellos en que se señale una fecha 
 
 Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario se entenderá que en el primer caso el plazo concluye el mismo día del mes de calendario posterior a aquel en que se inició; y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquel en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
 
-No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-> <small>(DEROGADO SEXTO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autoricen a las instituciones de crédito para recibir declaraciones. También se prorrogará el plazo hasta el siguiente día hábil, cuando sea viernes el último día del plazo en que se deba presentar la declaración respectiva, ante las instituciones de crédito autorizadas.
 
 ###### ARTICULO 15.
 
@@ -963,15 +963,15 @@ Las autoridades fiscales del Estado a fin de comprobar que los contribuyentes, l
 
 I.- Ordenar y practicar visitas en el domicilio o dependencia de los sujetos pasivos, de los responsables solidarios o de los terceros y revisar sus libros, documentos y correspondencia, que tenga relación con las obligaciones fiscales y; en su caso, asegurarlos dejando en calidad de depositario al visitado, previo inventario que al efecto se formule.
 
-Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en las oficinas de las propias autoridades, la contabilidad, así como proporcionen los datos, otros documentos o informes que se requieran;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en las oficinas de las propias autoridades, la contabilidad, así como proporcionen los datos, otros documentos o informes que se requieran, así como revisar los dictámenes formulados por los contadores públicos en materia del Impuesto Sobre Remuneraciones al Trabajo Personal e Impuesto Sobre la Prestación de Servicios de Hospedaje y cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por Contador Público y su relación con el cumplimiento de disposiciones fiscales estatales;
 
 II.- Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos, para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para la rectificación del error u omisión de que se trate;
 
 III.- Proceder a la verificación física, clasificación, valuación o comprobación de toda clase de bienes;
 
-IV.- Solicitar de sujetos pasivos, responsables solidarios o terceros, datos o informes relacionados con el cumplimiento de las disposiciones fiscales. Cuando se conozcan éstos de terceros, en ejercicio de las facultades de comprobación, hechos de omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario, al que le estén practicando una visita domiciliaria, darán a conocer a éste el resultado de aquella actuación, en el acta final de la citada visita domiciliaria.
-
-> <small>(DEROGADO SEDUNDO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+IV.- Solicitar de sujetos pasivos, responsables solidarios o terceros, datos o informes relacionados con el cumplimiento de las disposiciones fiscales. Cuando se conozcan éstos de terceros, en ejercicio de las facultades de comprobación, hechos de omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario, al que le estén practicando una visita domiciliaria, darán a conocer a éste el resultado de aquella actuación, en el acta final de la citada visita domiciliaria;
 
 V.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones;
 
@@ -989,7 +989,11 @@ Para los efectos de este inciso, los cuerpos de seguridad o policiales del estad
 
 VIII.- Allegarse de las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales o en su caso, para formular la querella respectiva;
 
-IX.- Las actuaciones que practique la Secretaría de Finanzas y Administración tendrán el mismo valor probatorio que la Ley relativa les conceda y la misma Dependencia continuará aportando los elementos y datos que le solicite el Ministerio Público;
+IX.- Las actuaciones que practique la Secretaría de Finanzas y Administración tendrán el mismo valor probatorio que la Ley relativa les conceda y la misma Dependencia continuará aportando los elementos y datos que le solicite el Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente;
 
 X.- Para la comprobación de la base de los gravámenes a que se encuentren afectos los contribuyentes, se presumirá, salvo pruebas en contrario:
 
@@ -1085,11 +1089,11 @@ VI.- Cuando en el desarrollo de una visita domiciliaria, las autoridades fiscale
 
 Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia, o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que estos se encuentran en poder de una autoridad.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-VII.- La Secretaría de Finanzas y Administración deberá concluir la visita que se desarrolla en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos, que se efectúe en las propias oficinas de las autoridades, dentro de un plazo máximo de seis meses, contados a partir de la fecha en que se le notifique a los contribuyentes el inicio de las facultades de comprobación.
+VII.- La Secretaría de Finanzas y Administración deberá concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos, que se efectúen en las propias oficinas de las autoridades, dentro de un plazo máximo de doce meses, contados a partir de la fecha en que se le notifique a los contribuyentes el inicio de las facultades de comprobación.
 
-El plazo a que se refiere el párrafo anterior, podrá ampliarse por una ocasión más, siempre que en el oficio mediante el cual se le notifique la prórroga correspondiente, haya sido expedido por la autoridad fiscal que ordenó la visita o revisión.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante la visita o revisión;
 
@@ -1161,9 +1165,25 @@ Las personas físicas y las personas morales que no se encuentren en alguno de l
 
 Los contribuyentes que estén obligados a dictaminarse, así como los que opten por dictaminar el cumplimiento de sus obligaciones fiscales, deben hacerlo por los conceptos de Impuesto Sobre Remuneraciones al Trabajo Personal Subordinado y por el Impuesto sobre Hospedaje.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+III.- Para efectos de determinar si se está en los supuestos previstos por las fracciones I y II de este artículo, se tratará como a una sola persona moral el conjunto de aquellas que reúna alguna de las características que se señalan a continuación, caso en el cual cada una de estas personas morales deberá cumplir con la obligación establecida por este artículo:
+
+a) Que sean poseídas por una misma persona física o moral en más del 50% de las acciones o partes sociales con derecho, a voto de las mismas.
+
+b) Cuando una misma persona física o moral ejerza control efectivo de ellas, aun cuando no determinen resultado fiscal consolidado. Se entiende que existe control efectivo, cuando se de algunos de los siguientes supuestos:
+
+1.- Cuando las actividades mercantiles de la sociedad de que se trate realizan preponderantemente con la sociedad controladora o las controladas.
+
+2.- Cuando la controladora o las controladas tengan junto con otras personas físicas o morales vinculadas con ellas, una participación superior al 50 % en las acciones con derecho a voto de la sociedad de que se trate. En el caso de residentes en el extranjero, solo se considerarán cuando residan en algún país con el que se tenga acuerdo amplio de intercambio de información.
+
+3.- Cuando la controladora o las controladas tengan una inversión en la sociedad de que se trate, de tal magnitud que de hecho les permita ejercer una influencia preponderante en las operaciones de la empresa.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 92.
 
-Los hechos afirmados en los dictámenes y declaraciones respecto a los mismos, que formulen los contadores públicos sobre estados financieros de los contribuyentes y su relación con las disposiciones fiscales, se presumirán ciertos salvo prueba en contrario, si se reúnen los siguientes requisitos:
+Los hechos afirmados en los dictámenes y declaraciones respecto a los mismos, que formulen los contadores públicos en materia de Impuesto Sobre Remuneraciones al Trabajo Personal e Impuesto Sobre la Prestación de Servicios de Hospedaje y cualquier otro impuesto que tenga repercusión para efectos fiscales de los contribuyentes que se encuentren obligados así como a los que opten por dictaminar de sus obligaciones fiscales estatales, se presumirán ciertos salvo prueba en contrario, si se reúnen los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -1175,11 +1195,37 @@ III.- Los contribuyentes que opten o estén obligados a dictaminar sus estados f
 
 Las opiniones o interpretaciones contenidas en los dictámenes no obligan a las autoridades fiscales. La Secretaría de Finanzas y Administración, podrá ejercer directamente sus facultades de comprobación sobre los dictámenes y demás documentos relativos al mismo, pudiendo también ejercerlas en forma previa o simultánea, sobre los contribuyentes dictaminados o responsables solidarios y demás obligados, en lo que respecta a las contribuciones estatales vigentes. Así como determinar las contribuciones y sus accesorios legales a cargo de los contribuyentes o responsables solidarios, en términos de las disposiciones fiscales del Estado.
 
-IV.- Cuando la Secretaría de Finanzas y Administración revise el dictamen fiscal y demás información, para cerciorarse de la veracidad de los datos contenidos en éste, podrá requerir indistintamente:
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-a).- Al contador público que haya formulado el dictamen fiscal, cualquier información relacionada con las contribuciones estatales en vigor, la solicitud se hará por escrito con copia para el contribuyente;
+IV. - Cuando la Secretaría de Finanzas y Administración revise el dictamen fiscal estatal y demás información para cerciorarse de la veracidad de los datos contenidos en este, estará a lo siguiente:
 
-b).- Al contribuyente dictaminado, la información necesaria para cerciorarse del cumplimiento de sus obligaciones fiscales, en lo que respecta a las contribuciones citadas en el inciso anterior, la solicitud se hará por escrito con copia al contador público;
+a) Primeramente se requerirá al contador público que haya formulado el dictamen lo siguiente:
+
+1.- Cualquier información que conforme a este Código y a las Reglas de Carácter general debiera estar incluida en el dictamen fiscal estatal.
+
+2.- La exhibición de los papeles de trabajo elaborados con motivo de la auditoria practicada, los cuales, en todo caso, se entiende que son propiedad del contador público.
+
+3.- La información que se considere pertinente para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente.
+
+La revisión a que se refiere esta fracción se llevará a cabo con el contador público que hubiere formulado el dictamen. Esta revisión no deberá exceder de un plazo de doce meses contados a partir de la fecha en que se notifique al contador público la solicitud de información.
+
+Cuando la Secretaría de Finanzas, dentro del plazo mencionado, no requiera directamente al contribuyente la información a que se refiere el punto 3 del inciso a) o no ejerza directamente con el contribuyente las facultades a que se refiere el inciso b) de la presente fracción, no se podrá volver a revisar el mismo dictamen, salvo cuando se revisen hechos diferentes de los ya revisados.
+
+b) Habiéndose requerido al contador público que hubiere formulado el dictamen la información y los documentos a que se refiere el inciso anterior, después de haberlos recibido o si estos no fueran suficientes a juicio de la Secretaría de Finanzas para conocer la situación fiscal del contribuyente o si estos no se presentan dentro de los plazos que establece la fracción V de este artículo, o dicha información y documentos son incompletos, la Secretaría de Finanzas podrá, a su juicio, ejercer directamente con el contribuyente sus facultades de comprobación.
+
+El plazo a que se refiere el penúltimo párrafo del inciso a) de esta fracción es independiente al que se establece en el Artículo 88, fracción VII de este Código.
+
+Las facultades de comprobación a que se refiere esta fracción, se podrán ejercer sin perjuicio de lo dispuesto en el artículo 86, fracción VIII, segundo párrafo de este Código.
+
+Para el ejercicio de las facultades de la Secretaría de Finanzas, no se deberá observar el orden establecido en esta fracción, cuando en el dictamen exista abstención de opinión, opinión negativa o salvedades que tengan implicaciones fiscales, tampoco se seguirá el mencionado orden en el caso de que se determinen diferencias de impuestos a pagar y éstos no se enteran de conformidad con lo dispuesto en las reglas de carácter general.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+V.- Cuando la Secretaría de Finanzas revise el dictamen y demás información a que se refiere la fracción IV de este artículo, y soliciten al contador público registrado que lo hubiera formulado información o documentación, la misma se deberá presentar en los siguientes plazos:
+
+1.- Quince días, tratándose de los papeles de trabajo elaborados con motivo del dictamen realizado.
+
+2.- Quince días, tratándose de otra documentación o información relacionada con el dictamen que esté en poder del contribuyente.
 
 ###### ARTICULO 93.
 
@@ -1395,7 +1441,11 @@ b).- El 100% de las contribuciones omitidas actualizadas, en los demás casos;
 
 Si las autoridades fiscales determinan una omisión mayor que la considerada por el contribuyente para calcular la multa en los términos del inciso a) de esta fracción, aplicarán el porciento que corresponda en los términos del inciso b) sobre el remanente no pagado de las contribuciones.
 
-Las multas a que se refiere esta fracción se aumentarán en un 50% de las contribuciones omitidas a los contribuyentes omisos y a los reincidentes.
+Las multas a que se refiere esta fracción se aumentarán en un 50% de las contribuciones omitidas a los contribuyentes omisos y a los reincidentes;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+XVIII. - Omitir dictaminar sus contribuciones fiscales estatales en los casos y de conformidad con lo previsto en el articulo 91 BIS de este Código, o abstenerse de presentar dicho dictamen dentro del término previsto por las leyes fiscales; de 158 a 1580 días de salario mínimo general vigente en la zona "A".
 
 #### SECCION QUINTA. DE LAS INFRACCIONES Y SANCIONES RELACIONADAS CON LAS RESPONSABILIDADES DE LOS FUNCIONARIOS REVESTIDOS DE FE PUBLICA
 
@@ -2622,5 +2672,19 @@ Todas las tramitaciones y los recursos interpuestos con anterioridad a la vigenc
 La revalidación de incentivos o estímulos fiscales, otorgados dentro de los últimos cinco años en términos de la Ley de Fomento Económico, estará condicionada a que las personas físicas y morales que hayan recibido el beneficio, deberán probar a más tardar el 31 de marzo del ejercicio fiscal 2006, ante la Secretaría de Finanzas y Administración del Estado, que cumplieron con cada una de las circunstancias que se tomaron en cuenta para su otorgamiento, así como que el beneficio fue aplicado en términos de lo señalado en el Certificado de Promoción Fiscal que se les otorgó para tal efecto.
 
 ###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+.El presente Decreto entrará en vigor el día primero de enero del año dos mil siete.
+
+###### ARTICULO SEGUNDO.
+
+Lo dispuesto en el artículo 88, fracción VII, se aplicará al ejercicio de las facultades de comprobación que se inicien a partir de la entrada en vigor del presente Decreto.
+
+###### ARTICULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
