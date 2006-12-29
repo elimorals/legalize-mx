@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2005-12-30"
+last_updated: "2006-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -71,7 +71,7 @@ La Hacienda Pública del Estado, para el cumplimiento de las funciones que le at
 
 ###### ARTICULO 4.
 
-Son objeto de este Impuesto, los ingresos que perciban las personas físicas y morales dentro del Territorio del Estado, derivados de la prestación de servicios profesionales y otras actividades artísticas, deportivas, culturales y similares.
+Son objeto de este Impuesto, los ingresos que perciban las personas físicas, dentro del territorio del Estado, derivados de la prestación de servicios médicos profesionales independientes, que requieran título profesional, y otras actividades artístico culturales y deportivas.
 
 Para los efectos de este impuesto, se considera percibido el ingreso dentro del Territorio del Estado:
 
@@ -83,19 +83,23 @@ III.- Cuando el domicilio de quien ejerza la actividad gravada, se encuentre en 
 
 DEL SUJETO:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO PRIMERO. DEL IMPUESTO SOBRE HONORARIOS PROFESIONALES Y OTRAS ACTIVIDADES LUCRATIVAS SIMILARES
+### CAPITULO PRIMERO. DEL IMPUESTO SOBRE HONORARIOS PROFESIONALES Y OTRAS ACTIVIDADES LUCRATIVAS
 
 DEL OBJETO:
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 5.
 
-Son sujetos de este impuesto, las personas físicas o morales que en forma habitual u ocasional perciban los ingresos a que se refiere el artículo anterior, siempre que no sean sujetos al pago del Impuesto al Valor Agregado.
+Son sujetos de este impuesto las personas físicas que realicen las actividades objeto de este impuesto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 Cuando las personas a que se refiere el párrafo anterior operen organizadas en agrupaciones profesionales, asociaciones o sociedades, serán las personas físicas los sujetos del impuesto.
 
@@ -115,7 +119,9 @@ La Secretaria de Finanzas del Estado podrá determinar presuntivamente la base d
 
 I.- Cuando no se presenten las declaraciones, no lleven los libros de registros o no expidan la documentación comprobatoria a que están obligados por las disposiciones federales o las establecidas en este capítulo;
 
-II.- Cuando por los informes o documentos de los que se disponga, se conozca la obtención de un ingreso superior, en un cinco por ciento, cuando menos al declarado, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+II.- Cuando por los informes o documentos de los que se disponga, se ponga de manifiesto la obtención de un ingreso superior cuando menos en un cinco por ciento, al declarado por el causante, en cualquiera de los bimestres del período declarado; y
 
 III.- Cuando los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales.
 
@@ -125,11 +131,11 @@ Para la determinación presuntiva de la base del impuesto, se considerarán las 
 
 DE LA TASA:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 7.
 
-Este impuesto se causará y pagará mediante la aplicación de la tasa del 4% a la base gravable.
+Este impuesto se causará y pagará mediante la aplicación de la tasa del 1.6% a la base gravable.
 
 I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2004)
 
@@ -143,13 +149,15 @@ DEL PAGO:
 
 La presentación de declaraciones de este impuesto deberá realizarse, vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de manera bimestral, a más tardar el día 20 del mes correspondiente por los ingresos percibidos en el bimestre inmediato anterior.
 
-El pago de este impuesto podrá efectuarse en las Instituciones Bancarias autorizadas por la Secretaría de Finanzas o mediante transferencia electrónica de fondos, a las cuentas autorizadas por dicha Dependencia.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+El pago de este impuesto podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas aperturadas en las Instituciones Bancarias autorizadas.
 
-ARTICULO 8 BIS.- Son responsables solidarios quienes realicen pagos a contribuyentes eventuales de este impuesto y que deban retenerlo, así como enterarlo a las oficinas autorizadas, dentro del término de quince días siguientes al en que se causen.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-Los responsables solidarios, deberán cumplir con las obligaciones establecidas en el Artículo 9 del presente capítulo.
+ARTICULO 8 BIS.- Son responsables solidarios. quienes realicen pagos a contribuyentes eventuales de este impuesto por lo que deberán retenerlo, así como enterarlo a través de los medios autorizados por la Secretaría de Finanzas, dentro de los veinte días siguientes al bimestre al en que se causen.
+
+Los responsables solidarios, deberán cumplir con lo dispuesto en el Artículo 9 del presente capítulo, con excepción de la fracción IV.
 
 DE LAS OBLIGACIONES:
 
@@ -357,7 +365,9 @@ I.- Los contribuyentes que se encuentran en el supuesto establecido en la fracci
 
 II.- Los contribuyentes que se encuentren en el supuesto establecido en las fracciones II y III del Artículo referido en la fracción anterior, deberán realizar la declaración vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de manera mensual, dentro del término que no rebase el día 20 del mes calendario siguiente al período de su causación.
 
-El pago podrá efectuarse as Instituciones Bancarias autorizadas por la Secretaría de Finanzas o mediante transferencia electrónica de fondos a las cuentas autorizadas por dicha Dependencia.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+El pago podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas aperturadas en las Instituciones Bancarias autorizadas.
 
 DE LAS OBLIGACIONES:
 
@@ -411,15 +421,15 @@ h).- El fondo de ahorro: Cuando se integre por un depósito de cantidad semanari
 
 i).- Despensas, alimentación y transporte: Cuando en su conjunto no rebasen el 40% del total del salario y se hayan otorgado de manera general a la totalidad de los trabajadores; y
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-j).- Los pagos por tiempo extraordinario: Cuando el tiempo extraordinario no rebase 3 horas diarias o 9 horas a la semana de trabajo.
+j).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2006)
 
 II.- Las erogaciones que efectúen:
 
 a).- El Estado, los Municipios, los Organismos de la Administración Pública Descentralizada Estatal y los Fideicomisos donde intervenga el Estado, así como sus Entidades;
 
-b).- Las personas morales sin fines de lucro, que promuevan o realicen las actividades siguientes:
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+b).- Las personas morales, cuando en su Acta Constitutiva conste expresamente que no persiguen fines de lucro, y que promuevan o realicen las actividades siguientes:
 
 1.- Asistencia social en cualquiera de sus formas;
 
@@ -447,7 +457,7 @@ j).- Las asociaciones patronales y
 
 k).- Los colegios de profesionales y los organismos que los agrupen.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 26.
 
@@ -461,7 +471,7 @@ Son sujetos al pago de este impuesto, las personas físicas o morales que dentro
 
 DE LA BASE:
 
-### CAPITULO CUARTO. DEL IMPUESTO POR LA PRESTACION DEL SERVICIO DE HOSPEDAJE
+### CAPITULO CUARTO. DEL IMPUESTO POR LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
 DEL OBJETO:
 
@@ -489,9 +499,9 @@ Los prestadores del servicio de hospedaje, trasladarán en forma expresa y por s
 
 Se entenderá por traslado del impuesto, el cobro a cargo que los contribuyentes realicen a las personas que reciban el servicio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-Los prestadores de los servicios a que se refiere este capítulo, deberán realizar el pago de este impuesto en las Instituciones Bancarias autorizadas por la Secretaría de Finanzas, o a través de transferencia electrónica de fondos, dentro de los veinte días siguientes al mes inmediato posterior al en que se generó el impuesto.
+Los prestadores de los servicios a que se refiere este capítulo, podrán efectuar el pago en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas aperturadas en las Instituciones Bancarias autorizadas, dentro de los veinte días siguientes al mes inmediato posterior al en que se generó el impuesto.
 
 DE LAS OBLIGACIONES:
 
@@ -1143,11 +1153,11 @@ En las certificaciones, no se procederá a la búsqueda, ni a su expedición, si
 
 Para efecto del pago de derechos al Registro Público de la Propiedad y del Comercio, en los que se establezca como referencia salarios mínimos, se tomará como base el salario mínimo diario vigente en el Estado y Distrito Judicial en el momento en que se cause.
 
-### CAPITULO PRIMERO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE GOBIERNO (SIC)
+### CAPITULO PRIMERO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE GOBERNACION
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO PRIMERO BIS. DE LAS DEPENDENCIAS DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
@@ -1275,35 +1285,89 @@ Los derechos por la prestación de los servicios del Estado a través de la Coor
 
 I.- Por derecho a examen para obtener la Constancia de aspirante a Fiat de Notario. 4 salarios mínimos
 
-II.- Por derecho a examen de oposición para obtener el Fiat de Notario. 5 salarios mínimos
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-III.- Por informe de aviso de testamento. 2 salarios mínimos
+II.- Por solicitud de examen de oposición para encargado de Notario Público o Adscrito. 10 salarios mínimos
 
-a).- Por las primeras dos hojas. 0.5 salario mínimo
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-b).- Por cada hoja excedente. $5.00
+III.- Por informe de Avisos de Testamentos 2.64 salarios mínimos
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 IV.- Por la expedición de copias certificadas de escrituras existentes en el Archivo General de Notarías:
 
-a).- Por la primera hoja. 0.5 salario mínimo
+a).- Hasta 10 hojas 4.66 salarios mínimos
 
-b).- Por cada hoja excedente. $5.00
+b).- Hojas subsiguientes $ 10.00 cada una.
 
-V.- Por la búsqueda y expedición de testimonios existentes en el Archivo General de Notarías:
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-a).- Por la primera hoja. 1 salario mínimo
+V.- Por la búsqueda de instrumentos notariales:
 
-b).- Por cada hoja excedente. $5.00
+a).- Hasta por cinco años 4.66 salarios mínimos
+
+b).- Por diez años 5.43 salarios mínimos
+
+c).- Por quince años 6.21 salarios mínimos
+
+d).- Por veinte años en adelante 7.76 salarios mínimos
 
 VI.- Por expedición de constancias de inscripción o de no inscripción de testamentos
 
 1 salario mínimo
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+VII.- Por autorización de apertura
+
+por libro 1 salario mínimo
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+VIII.- Por incumplimiento de aviso de testamento en términos de la Ley del Notariado para el Estado de Hidalgo 2 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+IX.- Por presentar libros para cierre fuera del término legal 2 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+X.- Autorización por libro del Patrimonio Inmobiliario Federal 2 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+XI.- Por registro de Patente de Notario Público 50 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+XII.- Designación de Adscritos para actuar en funciones de Notario en una Notaría Pública 25 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+XIII.- Por autorización de cambio de sellos a Notarios 3 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+XIV.- Por expedición de Segundos Testimonios.
+
+a).- Hasta diez hojas 4.66 salarios mínimos
+
+b).- Hojas subsiguientes $10.00 cada una
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+XV.- Por búsquedas de Testamento 2.64 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+XVI.- Por depósito de testamento Ológrafo 5 salarios mínimos
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 79.
 
-Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General de Auditoría y Ejecución Fiscal, se causarán y pagarán de la siguiente forma:
+Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General de Auditoría Fiscal, se causarán y pagarán de la siguiente forma:
 
 I.- Por certificaciones. 0.5 salario mínimo
 
@@ -1381,9 +1445,9 @@ f).- Permiso anual para el uso de placas de demostración. 12 salarios mínimos.
 
 g).- Refrendo del registro anual de control vehicular 2 salarios mínimos
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-h).- Permiso provisional para circular sin placas 4 salarios mínimos.
+h).- Permiso Provisional para circulación en traslado 4 salarios mínimo (sic)
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -1509,6 +1573,8 @@ Asimismo, los Derechos por la prestación de los servicios del Estado a través 
 
 Los contratistas con quienes se celebren contratos de obra pública y de servicios en los que participe el Estado, pagarán por el servicio de vigilancia, inspección y control que corresponda a la Secretaría: 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 83.
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Conservación de Carreteras Estatales, se causarán y pagarán de la siguiente forma:
@@ -1538,6 +1604,358 @@ De $130,000.001.00 en adelante. 120 salarios mínimos
 II.- Por el otorgamiento del título de concesión para la proyección, construcción, reconstrucción, ampliación, modernización, operación, administración, rehabilitación, perforación, explotación, extracción, conservación o explotación de obras públicas y de los servicios relacionados con estas: 500 salarios mínimos
 
 III.- Por la adquisición de las bases de licitación tendrán un costo, que deberá determinarse dividiendo el monto de los gastos en que haya incurrido la Dependencia, Entidad o Ayuntamientos, exclusivamente por concepto de publicación de la convocatoria en el Periódico Oficial y los de mayor circulación en el Estado y de reproducción de los documentos que integran las bases, entre el número de interesados que se estima las adquirirán.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 84 BIS.- Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Asentamientos y Desarrollo Urbano, se causarán y pagarán de la siguiente forma:
+
+I.- Por el otorgamiento de Licencias de Uso del Suelo y autorización de Fraccionamientos en sus diversas modalidades:
+
+1.- Unifamiliares, cuya ubicación del predio se localice dentro o fuera de un fraccionamiento:
+
+a).- Habitacional popular 3 s.m.d.
+
+b).- Habitacional de interés social 5 s.m.d.
+
+c).- Habitacional de tipo medio 7 s.m.d.
+
+d).- Habitacional de tipo residencial 9 s.m.d.
+
+2.- Licencias de uso del suelo para efectos de construir fraccionamientos o subdivisiones conforme a los siguientes tipos:
+
+a).- Subdivisión sin alterar el uso 20 s.m.d
+
+b).- Subdivisión sin trazo de calles 50 s.m.d
+
+c).- Subdivisión con trazos de calles 70 s.m.d.
+
+d).- Fraccionamiento de interés social 100 s.m.d.
+
+e).- Fraccionamiento de tipo medio 120 s.m.d.
+
+f).- Fraccionamiento de tipo residencial 140 s.m.d.
+
+g).- Fraccionamiento de tipo campestre 100 s.m.d.
+
+h).- Fraccionamiento industrial 140 s.m.d.
+
+3.- Licencia de uso del suelo comercial y de servicios, de acuerdo con las siguientes superficies:
+
+a).- Comercial de hasta 30 M2 7 s.m.d.
+
+b).- Comercial de 31 M2 hasta 120 M2 10 s.m.d.
+
+c).- Comercial de más de 120 M2 base 10 s.m.d.
+
++ 1 s.m.d. por
+
+cada 30 m2
+
+adicionales
+
+d).- Servicios de hasta 30 M2 7 s.m.d.
+
+e).- Servicios de 31 M2 hasta 120 M2 base 10 s.m.d.
+
++ 1 s.m. (sic)
+
+Servicios de más de 120 M2 por cada 30 m2
+
+adicionales
+
+4.- Licencia de uso del suelo industrial, con base a la clasificación emitida por la Secretaría de Comercio y Fomento Industrial:
+
+a).- Microindustria 50 s.m.d.
+
+b).- Pequeña Industria 100 s.m.d.
+
+c).- Mediana Industria 200 s.m.d.
+
+d).- Gran Industria 300 s.m.d.
+
+5.- Licencia de usos del suelo segregados: 140 s.m.d.
+
+II.- Por la revisión y evaluación de los siguientes expedientes técnicos, se cobrarán a razón de lo siguiente:
+
+a).- Subdivisiones sin trazo de calles 30 s.m.d.
+
+b).- Subdivisiones para vivienda de
+
+interés social 50 s.m.d.
+
+c).- Subdivisiones para vivienda de tipo
+
+medio 80 s.m.d.
+
+d).- Subdivisiones para vivienda tipo
+
+residencial 90 s.m.d.
+
+e).- Subdivisiones para industria 90 s.m.d.
+
+f).- Subdivisiones con trazos de calles
+
+de usos mixto 70 s.m.d.
+
+g).- Fraccionamiento de interés social 120 s.m.d.
+
+h).- Fraccionamiento de tipo medio 140 s.m.d.
+
+i).- Fraccionamiento de tipo residencial 180 s.m.d.
+
+j).- Fraccionamiento industrial 180 s.m.d.
+
+k).- Fraccionamiento campestre 120 s.m.d.
+
+III.- Por. la expedición de las licencias de subdivisión y autorización de accionamientos, los derechos se cobrarán conforme a lo siguiente:
+
+1.- Para la autorización de fraccionamientos, subdivisiones de vivienda de interés social o de tipo popular, relotificaciones y régimen de propiedad en condominio se cobrará:
+
+a).- Los que se ubiquen en la zona
+
+metropolitana (por lote) 55 s.m.d.
+
+b).- Para los que se ubiquen en el interior
+
+del Estado (por lote) 39 s.m.d.
+
+c).- Relotificaciones en subdivisiones
+
+o fraccionamientos, pagarán en forma
+
+proporcional a la superficie a relotificar,
+
+sobre el costo de los derechos causados
+
+por la expedición de la licencia. 30% sobre la licencia.
+
+d).- Constitución de régimen de propiedad
+
+en condominio se pagará tomando como
+
+base la suma de las áreas de propiedad 0.17 s.m.d. x m2.
+
+e).- Por autorización y certificación de libros
+
+de actas de régimen de propiedad en
+
+condominio. 10 s.m.d.
+
+2.- Para la autorización de fraccionamiento o subdivisiones de tipo residencial, campestre Industrial y comercial se cobrarán derechos a razón de 8% del valor catastral de la superficie del terreno, más el 7.5% del valor de las obras de urbanización.
+
+IV.- Por los derechos que causan los servicios que a continuación se indican, se-cobrarán en los términos siguientes:
+
+1.- Por expedición de diversas constancias 3 s.m.d
+
+2.- Por renovación de las licencias
+
+pagará respecto del costo establecido
+
+en el trámite inicial del documento que
+
+se pretende renovar 30% del valor
+
+3.- Registro para ejercer como perito
+
+responsable de obra en materia de
+
+construcción, planificación urbanística y
+
+régimen de propiedad en condominio 9 s.m.d
+
+4.- Registro de perito valuador 9 s.m.d
+
+5.- Refrendo anual de registro de
+
+Director responsable de obra 5 s.m.d
+
+6.- Refrendo anual de registro de
+
+perito valuador 5 s.m.d
+
+7.- Copias de contacto, (foto aéreas)
+
+formato 23 X23 cms. 1 s.m.d.
+
+Peso sencillo, color blanco y negro,
+
+resolución 600 DPI
+
+8.- Foto de contacto 23X23 cms,
+
+resoluciones 600 DPI, Formato TIF o JPG 8 s.m.d.
+
+9.- Hoja de mosaico (fotografías) en papel
+
+heliográfico tamaño 50x60 cms. 10 s.m.d
+
+10.- Copias de croquis de localización en
+
+puntos topográficos, en papel bond de
+
+área solicitada 2 s.m.d
+
+11.- Copia de plano manzanero
+
+(heliográfica escala 1: 1 000 3 s.m.d
+
+12.- Inspección de predios y examen de los
+
+planos de notificación 10 s.m.d.
+
+En relación con' las construcciones de
+
+fraccionamientos urbanizados, antes de ser
+
+municipalizados X manzana
+
+13.- Verificación de la poligonal de
+
+fraccionamiento 13 s.m.d. x Ha
+
+14.- Levantamiento topográfico de poligonales
+
+(incluye planos y cálculos)
+
+a).- Hasta 5,000 M2 20 s.m.d.
+
+b).- De 5,001 hasta menos de 10,000 M2 30 s.m.d.
+
+c).- De 1 a 2 has. 32 s.m.d. x Ha.
+
+d).- De más de 2 a 5 has 22 s.m.d. x Ha.
+
+e).- De más de 5 a 10 has 16 s.m.d. x Ha
+
+f).- De más de 10 a 20 has 13 s.m.d. x Ha.
+
+g).- De más 20 a 50 has 9 s.m.d. x Ha.
+
+h).- De más 50 a 100 has 6 s.m.d. x Ha.
+
+i).- De más de 100 has 5 s.m.d. x Ha.
+
+15.- Levantamiento topográfico de predio
+
+con área de terreno y edificación:
+
+a).- Hasta 150 m2 0.11 s.m.d. xm2
+
+b).- De 151 a 250 m2 0.10 s.m.d. xm2
+
+c).- De 251 a 500 m2 0.08 s.m.d xm2
+
+d).- De 501 a 750 m2 0.06 s.m.d xm2
+
+e).- De 751 a 1,000 m2 0.05 s.m.d xm2
+
+f).- De 1,001 a 1,500 m2 0.04 s.m.d xm2
+
+g).- De 1,501 a 2,000m2 0.04 s.m.d xm2
+
+h).- De 2,001 a 2,500 m2 0.03 s.m.d xm2
+
+i).- Más de 2,500 m2 0.03 s.m.d xm2
+
+16.- Levantamiento topográfico en calle:
+
+a).- Por los primeros 2,000 M2 0.04 s.m.d. xm2
+
+b).- De 2,001 a 10, 000 m2 0.03 s.m.d. xm2
+
+c).- De 10,001 a 50,000 m2 0.02 s.m.d. xm2
+
+d).- De 50,000 a 100,00 m2 0.01 s.m.d xm2
+
+17.- El certificado o certificación del valor
+
+catastral, el Importe de los derechos será de: 3 s.m.d
+
+18.- Certificado o certificación de la ubicación
+
+del predio en fraccionamiento autorizado 7 s.m.d. x predio
+
+19.- Aprobación, registro de planos y
+
+otorgamiento de claves catastrales 0.1 s.m.d. xm2
+
+20.- Avalúos catastrales:
+
+a).- Por los primeros $ 5,000.00 se cobrará 3 s.m.d.
+
+b).- Por el excedente de 5,00.01 se cobrarán,
+
+de la cantidad que resulte el valor catastral. 2 al millar
+
+21.- Por revisión, certificación de avalúo
+
+comercial a Peritos valuadores 30% de11.5 al millar
+
+del monto Revisado, pago
+
+Mínimo de 3.33 s.m.d
+
+22.- Expedición de información no
+
+confidencial sobre datos de la Dirección
+
+General de Desarrollo Urbano 2 s.m.d. x hoja carta
+
+23.- Expedición de copias compulsadas de
+
+cualquier documento que obre en el archivo
+
+de la Secretaría de Obras Públicas,
+
+Comunicaciones, Transportes y Asentamientos.
+
+a).- Por la primera Hoja, 0.6 s.m.d.
+
+b).- Por cada hoja adicional 0.3 s.m.d.
+
+24.- Restitución fotogramétrica escala
+
+1: 1 000 con vuelo autorizado (1990) con
+
+curvas de nivel a un metro en heliográfica,
+
+formato 90x60 cms. 39 s.m.d x pieza
+
+25.- Copia de plano de la localidad, en
+
+papel bond, formato 60x90 cms. 3 s.m.d.
+
+26.- Documentos impresos:
+
+a).- Ley de Catastro 1 s.m.d.
+
+b).- Instructivo de valuación 9 s.m.d.
+
+c).- Otros, según el número de fojas de 1 a 10 s.m.d.
+
+d.- Actualización de solicitudes de avalúo y
+
+traslado de dominio 4 s.m.d
+
+27.- Por concepto de asistencia técnica, asesoría y supervisión en la actualización o modernización del catastro, la Secretaría recibirá:
+
+a).- El 8% sobre el monto anual cobrado (factura), derivado de la evaluación de los predios y determinado por la Dirección de Catastro, adicionado por el 1.5% sobre la cantidad que recaudó el Municipio, por concepto de impuesto por adquisición de bienes inmuebles, durante el año anterior.
+
+b).- La suma de ambos conceptos se dividirá entre doce para determinar la cantidad mensual que el Municipio enterará a la Secretaría, a través de la Secretaría de Finanzas, quien efectuará las operaciones correspondientes, a partir del siguiente mes a la aprobación del Convenio que sea suscrito por la Secretaría y los Municipios.
+
+Los trabajos para la modernización del catastro serán a cargo del presupuesto de los Municipios.
+
+28.- Por concepto de asistencia técnica, asesoría, elaboración y/o supervisión, en la elaboración de planes y programas de desarrollo urbano, la Secretaría percibirá hasta un 25% del costo total de los trabajos para la elaboración del plan o programas, que sean objeto de supervisión.
+
+29.- Por concepto de asistencia técnica, asesoría, elaboración y/o supervisión, de los dictámenes de uso de suelo en general, la Secretaría percibirá hasta un 50% de los derechos a pagar, resultado de los trabajos respectivos.
+
+30.- Expedición de constancias de no invasión o fraccionamientos, áreas verdes u otros:
+
+a).-En todo el Territorio de la Entidad 10 s.m.d
+
+Cuando la prestación de los servicios sean solicitados por, jornaleros, obreros o trabajadores o cuando éstos sean no asalariados, el pago que efectúen no podrá exceder del importe de su jornal o salario de un día, o del equivalente a un día de su ingreso, respectivamente, cuando la tarifa correspondiente del derecho, resulte mayor.
+
+V.- Todos los conceptos de cobro a que se refiere este Artículo, deberán cubrirse en la Secretaría de Finanzas del Gobierno del Estado.
 
 ###### ARTICULO 85.
 
@@ -1683,11 +2101,13 @@ Los contratistas y destajistas que realicen obras para el Gobierno del Estado, a
 
 ### CAPITULO SEGUNDO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE FINANZAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+
 ### CAPITULO TERCERO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE CONTRALORIA
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO CUARTO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE OBRAS PUBLICAS
+### CAPITULO CUARTO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE OBRAS PUBLICAS, COMUNICACIONES, TRANSPORTES Y ASENTAMIENTOS
 
 ### CAPITULO QUINTO. DE LAS DEPENDENCIAS DE LA PROCURADURIA GENERAL DE JUSTICIA
 
@@ -1756,3 +2176,11 @@ P.O. 30 DE DICIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor el día 1º. de enero de 2006, previa su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1°. de enero de 2007, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las contribuciones a las que refiere el Art. 84 Bis. en sus apartados I, II y III estarán en vigor hasta en tanto sea aprobado y entre en vigor el nuevo Ordenamiento Estatal que regula el desarrollo urbano y los asentamientos humanos.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
