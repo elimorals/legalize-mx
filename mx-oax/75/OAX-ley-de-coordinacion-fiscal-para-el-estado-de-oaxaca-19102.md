@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2005-12-26"
+last_updated: "2006-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -399,15 +399,15 @@ SEGUNDO.- Para los efectos de lo dispuesto en los artículos 6 y 7 de esta Ley, 
 
 DEL DECRETO NUM. 190. (sic)
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-Durante el año 2006 los factores a que se refieren los artículos arriba citados, se calcularán conforme a las proporciones que se señalan a continuación:
+Durante el año 2007 los factores a que se refieren los artículos arriba citados, se calcularán conforme a las proporciones que se señalan a continuación:
 
 AÑO FACTORES FACTORES
 
 1999 LEY
 
-2006 70% 30%
+2007 70% 30%
 
 El factor de distribución del Fondo Municipal de Participaciones y el del Fondo de Fomento Municipal que corresponda a cada Municipio será el que resulte de sumar el factor de distribución aplicado en 1999 multiplicado por el porcentaje arriba señalado para cada año, más el factor resultante del procedimiento establecido en la presente Ley para cada uno de los fondos multiplicado por el porcentaje arriba señalado.
 
@@ -484,3 +484,7 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 26 DE DICIEMBRE DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2006, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2007, previa publicación en el Periódico Oficial del Gobierno del Estado.
