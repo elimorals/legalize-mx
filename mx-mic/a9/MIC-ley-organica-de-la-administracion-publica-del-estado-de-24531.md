@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-24531"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-04-12"
-last_updated: "2004-03-31"
+last_updated: "2006-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 12 de abril de 2002.
 
@@ -355,63 +355,59 @@ XXX. Administrar equitativamente los recursos financieros, humanos y materiales 
 
 XXXI. Las demás que le confieran las leyes.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 22.
 
 A la Secretaría de Planeación y Desarrollo Estatal le corresponde el ejercicio de las siguientes atribuciones:
 
 I. Elaborar el Plan Estatal de Desarrollo y actualizarlo periódicamente, con la participación de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal;
 
-II. Elaborar el proyecto anual del Presupuesto de Egresos del Estado y someterlo a la consideración del Gobernador del Estado, del Poder Legislativo y del Judicial en la parte que a ellos corresponde;
+II. Celebrar los convenios o contratos con los ayuntamientos que resulten de los programas de Desarrollo Institucional Municipal, de Desarrollo Regional y de Desarrollo Integral Municipal, evaluando el cumplimiento de los mismos;
 
-III. Diseñar, implementar y actualizar el sistema para el ejercicio presupuestal, asesorar y apoyar a las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, en la integración de sus programas específicos, con base en las políticas, objetivos y lineamientos que emita el Gobernador del Estado;
+III. Formular y proponer al Gobernador del Estado, en coordinación con la Tesorería General del Estado, previa certificación de la disponibilidad presupuestaria y financiera, la celebración de convenios de coordinación con las dependencias y entidades de la administración pública federal y otras entidades federativas;
 
-IV. Autorizar los convenios o contratos que resulten de los programas de inversión del Estado, evaluando el cumplimiento de los mismos;
+IV. Diseñar, establecer, difundir y aplicar los criterios para la formulación y evaluación de los proyectos de inversión de obra pública del Gobierno del Estado;
 
-V. Formular y proponer al Gobernador del Estado en coordinación con la Tesorería General del Estado, la celebración de convenios de coordinación con las dependencias y entidades de la administración pública federal y otras entidades federativas;
+V. Diseñar, establecer y aplicar los mecanismos de evaluación que requieran los programas de inversión pública estatal y federal convenidos, en coordinación con la Secretaría de Contraloría y Desarrollo Administrativo y en congruencia con el Presupuesto de Egresos del Estado;
 
-VI. Diseñar, establecer, difundir y aplicar los criterios para la formulación, financiamiento y evaluación de los proyectos de inversión pública del Gobierno del Estado;
+VI. Desarrollar, establecer, difundir y aplicar un sistema de seguimiento y evaluación del desempeño e impacto socioeconómico de los programas estatales;
 
-VII. Formular, coordinar y autorizar los programas y presupuestos de inversión pública del Gobierno del Estado;
+VII. Orientar a las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
 
-VIII. Diseñar, establecer y aplicar los mecanismos de evaluación que requieran los programas de inversión pública estatal y federal convenidos, revisar el ejercicio del gasto público correspondiente y su congruencia con el Presupuesto de Egresos del Estado, en coordinación con la Secretaría de Contraloría y Desarrollo Administrativo;
+VIII. Representar al Gobierno del Estado ante el Comité de Planeación para el Desarrollo de Michoacán y fungir como Coordinador General del Organismo, en los términos del decreto correspondiente;
 
-IX. Desarrollar, establecer, difundir y aplicar un sistema de seguimiento y evaluación del desempeño e impacto socioeconómico de los programas estatales;
+IX. Coordinar e integrar en una programación con congruencia regional, las acciones que realice la administración pública estatal, centralizada y paraestatal, a través de sus diversas dependencias y entidades;
 
-X. Orientar a las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
+X. Proponer al Gobernador del Estado, a través de la Tesorería General, acciones y obras para incluirlas en el proyecto anual de Presupuesto de Egresos del Estado;
 
-XI. Representar al Gobierno del Estado ante el Comité de Planeación para el Desarrollo del Estado de Michoacán y fungir como Coordinador General del Organismo, en los términos del decreto correspondiente;
+XI. Coordinar las acciones que la Federación y el Ejecutivo del Estado convengan con los gobiernos municipales para el desarrollo integral de las diversas regiones del Estado;
 
-XII. Coordinar e integrar en una programación con congruencia regional, las acciones que realice la administración pública estatal, centralizada y paraestatal, a través de sus diversas dependencias y entidades;
+XII. Promover la construcción de la infraestructura y el equipamiento indispensables para el desarrollo de los municipios ejecutando las acciones que le correspondan;
 
-XIII. Coordinar las acciones que la Federación y el Ejecutivo del Estado convengan con los gobiernos municipales para el desarrollo integral de las diversas regiones del Estado;
+XIII. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios, proyectos, obras, prestación de servicios públicos y en general cualquier propósito de beneficio común;
 
-XIV. Promover la construcción de la infraestructura y el equipamiento indispensables para el desarrollo de los municipios ejecutando las acciones que le correspondan;
+XIV. Fortalecer el desarrollo en los municipios del Estado y mejorar la capacidad de gestión de las administraciones municipales;
 
-XV. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios, proyectos, obras, prestación de servicios públicos y en general cualquier propósito de beneficio común;
+XV. Participar en los comités, consejos y demás órganos de coordinación de la administración pública estatal, vinculados con la promoción del desarrollo municipal;
 
-XVI. Fortalecer el desarrollo en los municipios del Estado y mejorar la capacidad de gestión de las administraciones municipales;
+XVI. Proporcionar a los ayuntamientos cuando lo soliciten, asesoría y apoyo técnico para la elaboración de programas de inversión;
 
-XVII. Participar en los comités, consejos y demás órganos de coordinación de la administración pública estatal, vinculados con la promoción del desarrollo municipal;
+XVII. Apoyar a los ayuntamientos a fin de que fortalezcan su capacidad administrativa y con ello estén en condiciones de que la Federación o el Estado, les transfieran funciones o programas federales o estatales, así como los recursos financieros correspondientes, para que se consolide el proceso de descentralización;
 
-XVIII. Proporcionar a los ayuntamientos cuando lo soliciten, asesoría y apoyo técnico para la elaboración de programas de inversión;
+XVIII. Coordinar con las dependencias de la administración pública estatal y los ayuntamientos, la elaboración de los programas de capacitación para los servidores públicos municipales;
 
-XIX. Apoyar a los ayuntamientos a fin de que fortalezcan su capacidad administrativa y con ello estén en condiciones de que la Federación o el Estado les transfieran funciones o programas federales o estatales, así como los recursos financieros correspondientes, para que se consolide el proceso de descentralización;
+XIX. Integrar el inventario de programas, obras e inversiones que realicen en el Estado, las dependencias y entidades de la Administración Pública Federal y Estatal, y obtener la información necesaria para la elaboración del informe de la administración pública estatal;
 
-XX. Coordinar con las dependencias de la administración pública estatal y los ayuntamientos, la elaboración de los programas de capacitación para los servidores públicos municipales;
+XX. Establecer un sistema estatal de información, generar, procesar, presentar y difundir la información estadística y geográfica del Estado;
 
-XXI. Participar conjuntamente con la Tesorería General del Estado, en la evaluación anual del ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes de la materia;
+XXI. Elaborar, divulgar y actualizar, los lineamientos y políticas para el desarrollo de la informática, vigilando se cumplan las normas técnicas mínimas de calidad y de seguridad en la materia, y el adecuado mantenimiento a los sistemas informáticos de la administración pública estatal;
 
-XXII. Integrar el inventario de programas, obras e inversiones que realicen en el Estado las dependencias y entidades de la Administración Pública Federal y Estatal, y obtener la información necesaria para la elaboración del informe de la administración pública estatal;
+XXII. Promover, normar y participar en los estudios para actualizar los sistemas e infraestructura de cómputo en las áreas administrativas y de servicios;
 
-XXIII. Establecer un sistema estatal de información, generar, procesar, presentar y difundir la información estadística y geográfica del Estado;
+XXIII. Proponer las medidas necesarias para estandarizar el uso de los bienes informáticos de todas las dependencias y entidades, en cuanto a personal, ubicación, equipo, recursos, sistemas y programas, así como para evaluar y poner en marcha un plan integral para la modernización del uso de tecnologías de información del Gobierno del Estado; y,
 
-XXIV. Elaborar, divulgar y actualizar los lineamientos y políticas para el desarrollo de la informática, vigilando se cumplan las normas técnicas mínimas de calidad y de seguridad en la materia y el adecuado mantenimiento a los sistemas informáticos de la administración pública estatal;
-
-XXV. Promover, normar y participar en los estudios para actualizar los sistemas e infraestructura de cómputo en las áreas administrativas y de servicios;
-
-XXVI. Proponer las medidas necesarias para estandarizar el uso de los bienes informáticos de todas las dependencias y entidades, en cuanto a personal, ubicación, equipo, recursos, sistemas y programas, así como para evaluar y poner en marcha un plan integral para la modernización del uso de tecnologías de información del Gobierno del Estado;
-
-XXVII. Las demás que le confieran las leyes.
+XXIV. Las demás que le confieran las leyes.
 
 ###### ARTÍCULO 23.
 
@@ -903,6 +899,8 @@ XXI. Vigilar y supervisar la entrega y recepción que se haga de los asuntos y b
 
 XXII. Las demás que le confieran las leyes.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 32.
 
 A la Tesorería General le corresponde el ejercicio de las siguientes atribuciones:
@@ -911,69 +909,75 @@ I. Elaborar y proponer al Gobernador del Estado, los proyectos de leyes, reglame
 
 II. Dictar las políticas, normas y lineamientos relacionados con el manejo de fondos y valores de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, y custodiar los documentos que constituyan valores, acciones y demás derechos que formen parte del patrimonio del Estado;
 
-III. Ejecutar y controlar el ejercicio del presupuesto del Gobierno del Estado, en materia de gasto corriente con base en los programas y presupuestos elaborados por la Secretaría de Planeación y Desarrollo Estatal, para cada una de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, de conformidad con las políticas, objetivos y lineamientos establecidos por el Gobernador del Estado;
+III. Diseñar, establecer y actualizar el sistema para el ejercicio presupuestal, asesorar y apoyar a las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, en la integración de sus programas específicos, con base en las políticas, objetivos y lineamientos que emita el Gobernador del Estado;
 
-IV. Emitir los lineamientos que en materia contable deben observar las dependencias y entidades de la administración pública estatal, centralizada y paraestatales, en coordinación con la Secretaría de Contraloría y Desarrollo Administrativo;
+IV. Ejecutar y controlar el ejercicio del presupuesto del Gobierno del Estado, con base en los programas, para cada una de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, de conformidad con las políticas, objetivos y lineamientos establecidos por el Gobernador del Estado;
 
-V. Vigilar que los funcionarios y empleados al servicio del Estado, que manejen fondos públicos, otorguen fianza que garantice debidamente su manejo;
+V. Formular, coordinar y autorizar los programas y presupuestos de inversión pública del Gobierno del Estado;
 
-VI. Mantener el control, registro y seguimiento de la deuda pública del Gobierno del Estado, que permita vigilar su adecuado cumplimiento, informando al Gobernador del Estado periódicamente sobre el estado de la deuda pública, de las amortizaciones de capital y pago de intereses;
+VI. Emitir los lineamientos que en materia presupuestal y contable deben observar las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, en coordinación con la Secretaría de Contraloría y Desarrollo Administrativo;
 
-VII. Llevar el control y seguimiento de la deuda pública contratada por los municipios y sus entidades paramunicipales, cuando estos cuenten con la responsabilidad solidaria del Gobierno del Estado;
+VII. Vigilar que los funcionarios y empleados al servicio del Estado, que manejen fondos públicos, otorguen fianza que garantice debidamente su manejo;
 
-VIII. Intervenir en todas las operaciones en que el Estado haga uso del crédito público;
+VIII. Mantener el control, registro y seguimiento de la deuda pública del Gobierno del Estado, que permita vigilar su adecuado cumplimiento, informando al Gobernador del Estado, periódicamente, sobre el estado de la deuda pública, de las amortizaciones de capital y pago de intereses;
 
-IX. Efectuar los pagos de acuerdo a los programas y presupuestos aprobados;
+IX. Llevar el control y seguimiento de la deuda pública contratada por los municipios y sus entidades paramunicipales, cuando éstos cuenten con la responsabilidad solidaria del Gobierno del Estado;
 
-X. Emitir o autorizar, según el caso, los catálogos de cuentas para la contabilidad del gasto público del Estado, en coordinación con la Secretaría de Contraloría y Desarrollo Administrativo;
+X. Intervenir en todas las operaciones en que el Estado haga uso del crédito público;
 
-XI. Organizar y mantener la contabilidad de la Hacienda Pública Estatal y formular las estadísticas financieras;
+XI. Efectuar los pagos de acuerdo a los programas y presupuestos aprobados;
 
-XII. Formular mensualmente el estado de origen y aplicación de los fondos públicos del Gobierno del Estado;
+XII. Emitir o autorizar, según el caso, los catálogos de cuentas para la contabilidad del gasto público del Estado, en coordinación con la Secretaría de Contraloría y Desarrollo Administrativo;
 
-XIII. Formular los informes trimestrales de los ingresos y ejercicio del gasto;
+XIII. Organizar y mantener la contabilidad de la Hacienda Pública Estatal y formular las estadísticas financieras;
 
-XIV. Formular la cuenta pública que debe rendir el Gobernador del Estado, en los términos de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
+XIV. Formular mensualmente el estado de origen y aplicación de los fondos públicos del Gobierno del Estado;
 
-XV. Proponer al Gobernador del Estado, la cancelación de créditos incobrables;
+XV. Formular los informes trimestrales de los ingresos y ejercicio del gasto;
 
-XVI. Participar en el establecimiento de los criterios y montos de los estímulos fiscales, en coordinación con las dependencias a quienes corresponde el fomento de actividades productivas;
+XVI. Formular la cuenta pública que debe rendir el Gobernador del Estado, en los términos de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
 
-XVII. (DEROGADA, P.O. 31 DE MARZO DE 2004)
+XVII. Proponer al Gobernador del Estado, la cancelación de créditos incobrables;
 
-XVIII. Elaborar los proyectos anuales de Ley de Ingresos del Gobierno del Estado y someterlos a la consideración del Gobernador del Estado, en su caso, el proyecto de ley de ingresos para su aplicación en aquellos Municipios del Estado cuyos ayuntamientos no presenten sus iniciativas, conforme a la ley;
+XVIII. Participar en el establecimiento de los criterios y montos de los estímulos fiscales, en coordinación con las dependencias a quienes corresponde el fomento de actividades productivas;
 
-XIX. Controlar las actividades de todas sus oficinas recaudadoras;
+XIX. Atender las observaciones emitidas por el Congreso del Estado, a través de la Auditoría Superior de Michoacán;
 
-XX. Recaudar los impuestos, derechos, productos, aprovechamientos, contribuciones especiales y demás conceptos que al Gobierno del Estado correspondan, tanto por ingresos propios como los que por ley o convenios reciba de la Federación y de los Municipios;
+XX. Elaborar el proyecto anual de Ley de Ingresos del Gobierno del Estado y someterlo a la consideración del Gobernador del Estado, en su caso, el proyecto de Ley de Ingresos para su aplicación en aquellos municipios del Estado cuyos ayuntamientos no presenten sus iniciativas, conforme a la ley;
 
-XXI. Ejercer las atribuciones y funciones que en materia de administración fiscal federal y municipal contengan los convenios respectivos;
+XXI. Elaborar el proyecto anual del Presupuesto de Egresos del Estado y someterlo a la consideración del Gobernador del Estado, del Poder Legislativo y del Judicial, en la parte que a ellos corresponde;
 
-XXII. Integrar y mantener actualizado el registro de contribuyentes que establezcan las leyes fiscales del Estado;
+XXII. Controlar las actividades de todas sus oficinas recaudadoras;
 
-XXIII. Ordenar y practicar visitas de auditoría a los contribuyentes;
+XXIII. Recaudar los impuestos, derechos, productos, aprovechamientos, contribuciones especiales y demás conceptos que al Gobierno del Estado correspondan, tanto por ingresos propios como los que por ley o convenios reciba de la Federación y de los municipios;
 
-XXIV. Imponer y en su caso, condonar las multas por infracciones a las leyes y demás disposiciones fiscales aplicables;
+XXIV. Ejercer las atribuciones y funciones que en materia de administración fiscal federal y municipal contengan los convenios respectivos;
 
-XXV. Ejercer la facultad económico coactiva, conforme a las leyes;
+XXV. Integrar y mantener actualizado el registro de contribuyentes que establezcan las leyes fiscales del Estado;
 
-XXVI. Ejercer la función catastral del Estado de conformidad con las leyes de la materia;
+XXVI. Ordenar y practicar visitas de auditoría a los contribuyentes;
 
-XXVII. Proporcionar asesoría en materia de interpretación y aplicación de las leyes fiscales estatales que le sea solicitada por las dependencias, por las entidades, empresas del Estado y por los contribuyentes, y realizar una labor permanente de difusión, orientación y asistencia fiscal;
+XXVII. Imponer y, en su caso, condonar las multas por infracciones a las leyes y demás disposiciones fiscales aplicables;
 
-XXVIII. Coadyuvar en la formulación del programa general de obras del Gobierno del Estado;
+XXVIII. Ejercer la facultad económico coactiva, conforme a las leyes;
 
-XXIX. Formular y proponer al Gobernador del Estado, en coordinación con la Secretaría de Planeación y Desarrollo Estatal, la celebración de convenios de coordinación con las dependencias y entidades de la Administración Pública Federal y con los Municipios, tendientes a la realización de obras, prestación de servicios públicos y en general cualquier propósito de beneficio común;
+XXIX. Ejercer la función catastral del Estado de conformidad con las leyes de la materia;
 
-XXX. Conjuntamente con la Secretaría de Planeación y Desarrollo Estatal, participar en la evaluación del ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes de la materia;
+XXX. Proporcionar asesoría en materia de interpretación y aplicación de las leyes fiscales estatales, que le sea solicitada por las dependencias, entidades, empresas del Estado y contribuyentes, y realizar una labor permanente de difusión, orientación y asistencia fiscal;
 
-XXXI. Intervenir en los juicios y procedimientos que se ventilen ante cualquier tribunal o autoridad competente, cuando lo disponga la ley o tenga interés la Hacienda Pública del Estado y su atención no corresponda a otra dependencia;
+XXXI. Coadyuvar en la formulación del programa general de obras del Gobierno del Estado;
 
-XXXII. Proporcionar a solicitud de parte, la asistencia técnica que requieran los municipios para la ejecución de sus programas de mejoramiento administrativo;
+XXXII. Formular y proponer al Gobernador del Estado, en coordinación con la Secretaría de Planeación y Desarrollo Estatal, la celebración de convenios de coordinación con las dependencias y entidades de la administración pública federal y con los municipios, tendientes a la realización de obras, prestación de servicios públicos y en general cualquier propósito de beneficio común;
 
-XXXIII. Intervenir conjuntamente con la Secretaría de Planeación y Desarrollo Estatal y demás dependencias que correspondan, en la suscripción de los actos o convenios que se celebren con relación a los programas de inversión de la administración pública estatal; y,
+XXXIII. Evaluar el ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes de la materia;
 
-XXXIV. Las demás que le confieran las leyes.
+XXXIV. Intervenir en los juicios y procedimientos que se ventilen ante cualquier tribunal o autoridad competente, cuando lo disponga la ley o tenga interés la Hacienda Pública del Estado y su atención no corresponda a otra dependencia;
+
+XXXV. Proporcionar a solicitud de parte, la asistencia técnica que requieran los municipios para la ejecución de sus programas de mejoramiento administrativo;
+
+XXXVI. Formular y proponer al Gobernador del Estado en coordinación con la Secretaría de Planeación y Desarrollo Estatal, previa certificación de la disponibilidad presupuestaria y financiera, la celebración de convenios de coordinación con las dependencias y entidades de la administración pública federal y de otras entidades federativas; y,
+
+XXXVII. Las demás que le confieran las leyes.
 
 ###### ARTÍCULO 33.
 
@@ -1123,7 +1127,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- MTRO. LEONEL GODOY RANGEL. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE MARZO DE 2004.
 
@@ -1138,3 +1142,25 @@ Se dejan sin efecto todas aquellas disposiciones legales y administrativas en lo
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo del Estado, con pleno respeto a lo dispuesto por los artículo 13, 15, 20, 21 y 22 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo, realizará las transferencias de recursos humanos, materiales y financieros, así como activos patrimoniales que se deriven del presente Decreto, incluyendo las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, dentro de los noventa días siguientes a la entrada en vigor de este Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se dejan sin efecto todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, con pleno respeto a lo dispuesto por los artículos 13 y 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo, realizará las transferencias de recursos, humanos, materiales y financieros, así como activos patrimoniales que se deriven del presente Decreto, incluyendo las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, a partir del día en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que con motivo de las reformas a que se refiere este Decreto, deban pasar de la Secretaría de Planeación y Desarrollo Estatal a la Tesorería General, permanecerán en el último trámite que hubieren alcanzado, a fin de que se traspasen de una a otra en un término máximo de cinco días después de la entrada en vigor de este Decreto, a excepción de aquellos urgente (sic) o sujetos a término, los cuales se atenderán por la Secretaría de Planeación y Desarrollo Estatal.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras leyes, reglamentos y en generan (sic) en cualquier disposición, respecto de las funciones que se transfieren por virtud de este Decreto, se entenderán referidas a las dependencias que respectivamente asuman tales funciones.
