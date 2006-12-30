@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-notariado-para-el-estado-de-tabasco-35499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-20"
-last_updated: "2003-12-20"
+last_updated: "2006-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2003.
 
@@ -915,9 +915,11 @@ La ejecución de las sanciones administrativas impuestas en resolución firme, s
 
 Las sanciones económicas que se impongan constituirán créditos fiscales a favor del erario estatal, que en caso de incumplimiento voluntario, se harán efectivas mediante el procedimiento económico coactivo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables a esta materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 125.
 
-Para todo lo no previsto en esta Ley y en el ejercicio de su función pública, los Notarios estarán sujetos al Reglamento de está Ley y a los Estatutos del Órgano Técnico Desconcentrado del Gobierno del Estado, denominado Colegio de Notarios del Estado de Tabasco.
+Para todo lo no previsto en esta Ley y en el ejercicio de su función pública, los Notarios estarán sujetos al Reglamento de está Ley y a los Estatutos de la Asociación Civil, denominada “Colegio de Notarios del Estado de Tabasco A.C”, así como sus actuales órganos legalmente electos.
 
 Lo anterior, independientemente de otras vías, en que las acciones y omisiones en que incurra un Notario puedan dar lugar al procedimiento previsto en la ley de que se trate.
 
@@ -999,11 +1001,15 @@ Los visitadores harán constar en el acta las irregularidades que observen, cons
 
 ### CAPÍTULO XII. DEL COLEGIO DE NOTARIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 138.
 
-En el Estado de Tabasco habrá un Colegio integrado por todos los Notarios en ejercicio en la Entidad. Cuando funjan dos Notarios de una misma Notaría, solamente podrá votar el Titular.
+En el Estado de Tabasco existirá un Colegio integrado por los Notarios en ejercicio en la Entidad, y para la realización de sus fines actuará como Asociación Civil.
 
-El Colegio de Notarios del Estado de Tabasco, es un Órgano Técnico Desconcentrado, que depende directamente del titular del Poder Ejecutivo del Estado, contará con personalidad jurídica y patrimonio propios, tendrá las funciones que se deriven de la presente Ley y se regirá por las disposiciones de la misma, por su Reglamento y por sus Estatutos, los cuales serán sancionados, expedidos y publicados por el Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+El Colegio de Notarios del Estado de Tabasco, se regirá por las estipulaciones de sus Estatutos y tendrá los derechos y obligaciones que en esta Ley se le confieren.
 
 El Colegio de Notarios tendrá su sede en la capital de la entidad o en el lugar que designe el Ejecutivo del Estado.
 
@@ -1027,63 +1033,43 @@ VII. Las demás que le confiere esta Ley, sus Reglamentos y Estatutos.
 
 ###### ARTÍCULO 140.
 
-Todos los Notarios están obligados a contribuir a los gastos de sostenimiento del Colegio y al efecto cubrirán puntualmente las cuotas que éste acordare. Si no cubrieren dos cuotas consecutivas, el Ejecutivo, a solicitud del Consejo Directivo, los sancionará de acuerdo con lo previsto en esta Ley.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 141.
 
-El Colegio será dirigido por siete de sus miembros que desempeñarán los cargos de Presidente, Secretario, Tesorero y cuatro Vocales y en su conjunto constituirán el Consejo Directivo del propio Colegio.
-
-El cargo de miembro directivo del Colegio es gratuito e irrenunciable, sin causa justificada, a juicio del Consejo Directivo. Los directivos solamente podrán estar separados de su cargo durante el tiempo en que legalmente lo estén del desempeño de sus funciones notariales. La cesación en el ejercicio del notariado importa la del cargo de miembro directivo.
-
-El Consejo Directivo sesionará cuantas veces sea necesario, previa convocatoria del Presidente.
-
-Toda vacante por más de un mes de un miembro directivo, será cubierta por un Notario que nombrará el Consejo Directivo a mayoría de votos.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 142.
 
-Los miembros directivos del Colegio serán electos en Asamblea General que se celebrará durante los primeros quince días del mes de diciembre de cada dos años, por mayoría del voto individual, escrito y público de cada Notario en funciones, emitido directamente o por envío postal certificado, con acuse de recibo, a las Oficinas del Colegio. El procedimiento de elección será regulado en el Reglamento y el Estatuto correspondiente.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 143.
 
-Son atribuciones del Consejo Directivo:
-
-I. Dirigir las actividades del Colegio de Notarios;
-
-II. Administrar los bienes que integran el patrimonio del Colegio;
-
-III. Resolver las consultas que le hicieren los Notarios, referentes al ejercicio de sus funciones;
-
-IV. Llevar a su realización las funciones del Colegio de Notarios; y
-
-V. Las demás que le confieran las leyes relativas y los Estatutos del Colegio de Notarios.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 144.
 
-El Presidente tendrá la representación del Colegio; proveerá la ejecución de los acuerdos del Gobernador del Estado en materia de notariado y la de las resoluciones del Colegio y del Consejo Directivo; presidirá las sesiones; y vigilará el exacto cumplimiento de los deberes de los Consejeros y la recaudación y empleo de los fondos.
-
-El Presidente será sustituido en caso de falta o impedimento, primero por Secretario después por el Tesorero y por último por cualquiera de los vocales.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 145.
 
-El Secretario dará cuenta al Presidente de los asuntos y comunicará sus acuerdos; redactará las actas de las sesiones; llevará la correspondencia y los libros de registro y tendrá a su cargo el Archivo y la Biblioteca; en caso de falta o impedimento será sustituido por el (sic) uno de los vocales.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 146.
 
-El Tesorero hará los pagos, previo acuerdo del Presidente; llevará la contabilidad y rendirá cuenta justificada al término de cada ejercicio. El Tesorero será suplido en sus faltas por uno de los vocales.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 147.
 
-La Asamblea General es el órgano supremo de la institución y deberá constituirse por lo menos cada dos años, mediante convocatoria hecha por citación personal.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 148.
 
-La Asamblea General se tendrá por legalmente constituida por virtud de primera convocatoria, cuando esté presente por lo menos el cincuenta por ciento de los Notarios en funciones. Si no hubiere el quórum indicado, se convocará para nueva fecha dentro de los quince días siguientes y en este caso se tendrá por constituida cualquiera que sea el número de Notarios que concurran.
-
-Para la elección de los miembros directivos del Colegio, el quórum se determinará computando los Notarios presentes y los que hubieren emitido su voto por envío postal certificado en los términos del artículo 142.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO 149.
 
-El Consejo Directivo funcionará en el lugar señalado como sede del Colegio de Notarios, quedando facultado para formular el Reglamento de sus funciones.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
 
 ## TRANSITORIOS
 
@@ -1117,7 +1103,7 @@ El Ejecutivo Estatal, deberá emitir las disposiciones reglamentarias para regul
 
 ###### ARTÍCULO OCTAVO.
 
-El Colegio de Notarios, en la conformación que actualmente se encuentra desempeñando sus funciones, se transforma en Órgano Técnico Desconcentrado denominado "Colegio de Notarios de Tabasco", adquiriendo todos los derechos y obligaciones señalados en esta Ley y continuará en ejercicio de sus funciones hasta el día 31 de diciembre del año 2004, en que concluyen las mismas; los Estatutos que rijan las funciones del citado Colegio, deberán ser expedidos por el titular del Poder Ejecutivo, en un término no mayor a ciento veinte días hábiles a partir de la entrada en vigor de la presente Ley. En consecuencia, los bienes, derechos y obligaciones de la Asociación Civil, pasarán a formar parte del patrimonio del Órgano Técnico Desconcentrado que se crea en esta Ley.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
 
 ###### ARTÍCULO NOVENO.
 
@@ -1138,3 +1124,23 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Toda referencia que en la Ley se haga del Colegio de Notarios, se entenderá hecha al "COLEGIO DE NOTARIOS DEL ESTADO DE TABASCO, ASOCIACIÓN CIVIL".
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal deberá adecuar conforme al presente Decreto, las disposiciones relativas del Reglamento de la Ley del Notariado para el Estado de Tabasco, publicado en Periódico Oficial, suplemento D 6528 del 30 de Marzo de 2005.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
