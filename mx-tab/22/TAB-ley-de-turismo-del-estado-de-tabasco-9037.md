@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-turismo-del-estado-de-tabasco-9037"
 country: "mx"
 rank: "ley"
 publication_date: "1959-08-01"
-last_updated: "1959-08-01"
+last_updated: "2006-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE TURISMO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE DESARROLLO TURISTICO DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SICO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 1 de agosto de 1959.
 
@@ -248,3 +250,31 @@ LIC. CARLOS A. MADRAZO.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 LIC. MANUEL GURRIA ORDOÑEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el 1 de enero del año 2007.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la vigencia de la presente Ley, el titular del Poder Ejecutivo, a través de la Secretaría, contará con noventa días para expedir el Reglamento de la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Esta Ley abroga la Ley de Turismo del Estado de Tabasco promulgada en el Periódico Oficial del Gobierno del Estado de Tabasco el 1° de Agosto de 1959, que dejó en vigor el Decreto Número 0053, de fecha 10 de Febrero de 1990, promulgado en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+###### ARTICULO CUARTO.
+
+Esta Ley abroga el Decreto Número 018 del 24 de Mayo de 1995, y la parte conducente del Decreto Número 200 publicado el16 de julio de 1999, ambos publicados en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+###### ARTICULO QUINTO.
+
+Para efectos del contrato de Fideicomiso para la Promoción Turística del Estado de Tabasco, celebrado entre el Gobierno del Estado de Tabasco y la entonces institución de crédito Bancomer S. A., con fecha 8 de abril de 1999, el fideicomitente único confirme a la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, contara con hasta ciento veinte días a partir de la vigencia de la presente ley, para llevar a cabo las adecuaciones respectivas.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones legales y reglamentarias en el ámbito estatal que se opongan a la presente Ley.
