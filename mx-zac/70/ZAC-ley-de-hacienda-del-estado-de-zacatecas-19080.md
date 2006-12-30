@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2005-12-31"
+last_updated: "2006-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -137,13 +137,11 @@ V. Tratándose de otros bienes muebles distintos a los señalados en las fraccio
 
 DE LA TASA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 8.
 
-Este impuesto se determinará aplicando a la base gravable, la tasa del 2%. En ningún caso el impuesto determinado será menor de 1 cuota.
-
-> <small>(REFORMADO [N. DE E ADICIONADO], P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-El impuesto se determinará aplicando a la base gravable, la tasa del 1.75%. En ningún caso el impuesto determinado será menor de 1 cuota.
+Este impuesto se determinará aplicando a la base gravable, la tasa del 1.60%. En ningún caso el impuesto determinado será menor a 1 cuota.
 
 DEL PAGO
 
@@ -505,9 +503,9 @@ El Impuesto Sobre Tenencia o Uso de Vehículos Estatal, se pagará conforme a lo
 
 Salario Mínimo
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-I. Para los vehículos a que se refiere el artículo 35 de esta Ley: 6 cuotas
+I. Para los vehículos a que se refiere el artículo 35 de esta Ley: 8 cuotas
 
 II. Remolques 2 cuotas
 
@@ -935,57 +933,57 @@ El refrendo de la tarjeta de circulación y expedición de calcomanía con vigen
 
 I. Vehículos de servicio particular:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-a) Modelos 2006. 14.5 cuotas;
+a) Modelos 2007. 16.5 cuotas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-b) Modelos 2005. 13.5 cuotas;
+b) Modelos 2006. 15.5 cuotas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-c) Modelos 2004 12.5 cuotas;
+c) Modelos 2005. 14.5 cuotas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-d) Modelos 2003 11.5 cuotas;
+d) Modelos 2004. 13.5 cuotas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-e) Modelos 2002 10.5 cuotas;
+e) Modelos 2003 12.5 cuotas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-f) Modelos 2001 y anteriores 9.5 cuotas;
+f) Modelos 2002 y anteriores 11.5 cuotas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-II. Vehículos de servicio público:
+II. Vehículos al servicio público:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-a) Modelos 2006 14.5 cuotas;
+a) Modelos 2007 16.5 cuotas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-b) Modelos 2005 13.5 cuotas;
+b) Modelos 2006 15.5 cuotas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-c) Modelos 2004 12.5 cuotas;
+c) Modelos 2005 14.5 cuotas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-d) Modelos 2003 11.5 cuotas;
+d) Modelos 2004 13.5 cuotas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-e) Modelos 2002 10.5 cuotas;
+e) Modelos 2003 12.5 cuotas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-f) Modelos 2001 y anteriores 9.5 cuotas;
+f) Modelos 2002 y anteriores 11.5 cuotas;
 
 III. Remolques 5 cuotas;
 
@@ -1603,11 +1601,11 @@ Salarios Mínimos
 
 I. Inscripción con vigencia de un año en el padrón de
 
-proveedores y contratistas: 22 cuotas
+proveedores y contratistas: 22 cuotas;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-II. Revalidación de la inscripción: 11 cuotas
+II. Revalidación de la inscripción: 11 cuotas ;
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -1615,11 +1613,15 @@ III. Reposición de la cédula de registro 5 cuotas;
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-IV. Inscripción a concursos de adquisición por invitación 12 cuotas
+IV. Inscripción a concursos de adquisición por invitación 12 cuotas;
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 V. Inscripción a concursos de obra por invitación 22 cuotas;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+VI. Expedición de constancia de no inhabilitación 7 cuotas
 
 ### CAPITULO IX. SERVICIOS DE OFICIALIA MAYOR
 
@@ -2243,7 +2245,7 @@ d) Otras formas impresas, cada una $ 2.50
 
 e) Leyes, reglamentos, folletos y demás publicaciones, su costo se determinará de conformidad con el tiraje de la edición, número de hojas y calidad de impresión y encuadernación;
 
-f) Juego de 150 fojas de protocolo notarial abierto. 10 cuotas;
+f) Juego de 150 fojas de protocolo notarial abierto 10 cuotas;
 
 g) Formas de solicitud para inicio, renovación, cambio de domicilio, cambio de giro o transferencia del derecho de licencia, de establecimientos con venta de bebidas
 
@@ -2312,6 +2314,10 @@ Los ingresos por productos se determinarán en los actos, convenios, contratos o
 ###### ARTICULO 73.
 
 Quedan comprendidos dentro de este título los ingresos que el Estado perciba por concepto de multas, recargos, rezagos, gastos de ejecución, donativos, herencias, legados, bienes vacantes, tesoros ocultos, indemnizaciones, reintegros por responsabilidades administrativas, concesiones, fianzas, depósitos, subsidios federales, empréstitos y financiamientos, aportaciones para obras y servicios públicos, ingresos que cubran los municipios, por la administración de impuestos y servicios públicos municipales y aportaciones federales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+También se considera aprovechamiento, la recaudación obtenida por el pago de las sanciones pecuniarias que imponga la Dirección de Seguridad Pública y Tránsito, por violaciones a lo establecido en el artículo 94, capítulo XIV del Reglamento de la Ley de Transito.
 
 > <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2004)</small>
 
@@ -2396,6 +2402,12 @@ P.O. 22 DE DICIEMBRE DE 2004.
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 P.O. 31 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 30 DE DICIEMBRE DE 2006.
 
 ###### ARTÍCULO ÚNICO.
 
