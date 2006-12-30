@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-41958"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-30"
-last_updated: "2006-10-07"
+last_updated: "2006-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2004.
 
@@ -313,11 +313,13 @@ III.- Establecer programas permanentes para la vigilancia del orden público y p
 
 IV.- Reglamentar y aplicar normas técnicas y operativas para el tránsito de vehículos en las poblaciones, carreteras y caminos de jurisdicción estatal;
 
-V.- Elaborar y ejecutar los programas de readaptación social de los infractores;
+V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2006)
 
 VI.- Administrar, en coordinación con la Dirección de Prevención y Readaptación Social del Gobierno del Estado, los centros de readaptación social y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de reos;
 
-VII.- Vigilar las instituciones y la aplicación de las normas preventivas tutelares de menores infractores;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+VII.- Supervisar a la Dirección de Ejecución de Medidas Sancionadoras parea Adolescentes;
 
 VIII.- Celebrar convenios con los sectores productivos, para el efecto de establecer centros de trabajo dentro y fuera del los centros de readaptación social, para beneficio de los procesados sentenciados y liberados.
 
@@ -1136,3 +1138,13 @@ P.O. 7 DE OCTUBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los instrumentos de creación de las entidades paraestatales vigentes a la fecha, se ajustarán a los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca, por lo que el poder público al que corresponda, en un término que no excederá de 12 meses contados a partir de la entrada en vigor del presente Decreto, deberá promover o promulgar, en lo conducente, que dichos instrumentos se ajusten a dicha Ley.
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Sala Especializada de Adolescentes resolverá los recursos de apelación e inconformidad a que se refiere la ley de la materia de manera unitaria, y se integrará con dos Magistrados más, además del Presidente, para el único efecto de resolver los recursos de casación y el procedimiento de reconocimiento de inocencia a que se refiere el Código Procesal Penal para el Estado.
+
+TERCERO.- Los órganos que se instituyen por virtud de este Decreto, deberán funcionar al inicio de la vigencia de la Ley de Justicia para Adolescentes, para lo cual las dependencias de los Poderes relacionados, adoptarán las medidas reglamentarias y de infraestructura para tal efecto.
+
+CUARTO.- Los Juzgados Especializados en adolescentes, con residencia en el Distrito Judicial del Centro, tendrán competencia en todo el Estado, hasta en tanto se instalen en otros Distritos Judiciales, en cuyo caso el Pleno del Tribunal Superior de Justicia determinará la jurisdicción territorial que les corresponda.
