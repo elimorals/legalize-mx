@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-catastro-para-el-estado-de-oaxaca-10646"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2005-12-26"
+last_updated: "2006-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 16 de diciembre de 1996.
 
@@ -109,6 +109,10 @@ A falta de disposición expresa, se consideran como normas supletorias las dispo
 
 Todos los propietarios o poseedores de bienes inmuebles ubicados en el territorio del Estado, están obligados a manifestar la existencia de dichos bienes, así como las características y las modificaciones que sufran dichos inmuebles, para lograr la integración del padrón catastral y su actualización permanente.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+Para los mismos fines los gobiernos federal, estatal y municipal a través de sus dependencias, entidades, organismos, instituciones, programas, convenios y cualquier otro que tenga funciones relacionadas con la propiedad inmobiliaria o tenencia de la tierra incluida su regularización, deben manifestar los bienes inmuebles, áreas, zonas, vías o cualquier otro concepto que se encuentre vinculado con la propiedad inmobiliaria.
+
 ###### ARTÍCULO 7.
 
 Todos los bienes inmuebles ubicados en el territorio del Estado, sin excepción, deberán estar inscritos en el padrón catastral a cargo del Instituto Catastral del Estado de Oaxaca.
@@ -122,6 +126,10 @@ Para efectos de esta Ley y su Reglamento, la propiedad inmueble se clasifica en:
 I. Predios Urbanos: los que se encuentran dentro del área de Influencia de un centro de población y cuenta con equipamiento, servicios públicos y su destino predominante es habitacional, industrial, comercial o de servicios.
 
 II. Predios Rústicos: los que se ubican fuera de los centros de población y su uso habitual es agrícola, ganadero, forestal, pesquero o de preservación ecológica, entre otros que señale el Reglamento.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+III. Predios Susceptibles de Transformación: los que se encuentran fuera del área a que se refiere la fracción I de este artículo y su destino o uso es para el desarrollo urbano o que se encuentran contemplados dentro de los planes de desarrollo de un centro de población, para crecimiento futuro, que no cuentan con servicios públicos.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -723,11 +731,11 @@ Los Notarios y Registradores deben de requerir a los particulares la certificaci
 
 Las autoridades registrales no harán inscripción alguna de contratos que tengan por objeto transmitir o modificar el dominio de un bien inmueble, mientras no les sea acreditado el registro de Catastro correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 61.
 
-Los particulares están obligados a manifestar ante las autoridades catastrales, los permisos y licencias que obtengan de parte de las autoridades competentes, así como los actos celebrados ante los notarios públicos y los procedimientos ante registradores.
+Los particulares están obligados a manifestar ante las autoridades catastrales, los permisos y licencias que obtengan de parte de las autoridades competentes, así como los actos celebrados ante los notarios públicos y los procedimientos ante registradores en un plazo de 30 días naturales, contados a partir de la obtención y celebración de los supuestos a que se refiere esta disposición.
 
 Las autoridades judiciales deberán proporcionar al Instituto la información sobre sentencias ejecutorias, que impliquen traslado de dominio.
 
@@ -990,3 +998,7 @@ P.O. 26 DE DICIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2006, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- En caso de que las tablas de valores unitarios de suelo y construcciones aprobadas por el Congreso del Estado y aplicables al municipio de que se trate no sean equiparables a los valores de mercado en el ejercicio fiscal que corresponda, el Instituto Catastral del Estado de Oaxaca, podrá someter a consideración de las autoridades municipales los valores de mercado del suelo y construcciones correspondientes a dichas tablas de valores unitarios, a efecto de que en un plazo máximo de 45 días naturales contados a partir de la fecha en que se le sometan a su consideración, procedan a adecuarlas o a ratificarlas y las propongan a la aprobación del Congreso del Estado; si transcurrido dicho plazo no existe pronunciamiento al respecto, se entenderán como ratificadas por las autoridades municipales, procediéndose a su aprobación por parte del Congreso del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2007, previa publicación en el Periódico Oficial del Gobierno del Estado.
