@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-del-estado-de-oaxaca-19106"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2005-12-26"
+last_updated: "2006-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre del 2000.
 
@@ -253,9 +253,9 @@ I.- La orden de intervención se notificará al sujeto obligado, su representant
 
 II.- El sujeto obligado, su representante legal o apoderado legal, estará presente durante la celebración del evento y en caso de no hacerlo, el interventor o interventores practicarán la diligencia con quien se encuentre, levantando acta circunstanciada en la que se asentarán los hechos u omisiones conocidos por el interventor, en presencia de dos testigos designados por la persona con quien se entienda la diligencia o en su ausencia o ante su negativa, se nombrarán por el interventor o interventores mencionados.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-III.- El interventor procederá a contabilizar los ingresos que por boletos vendidos obtenga el sujeto obligado, procediendo a emitir la liquidación de (sic) impuesto correspondiente, cuyo importe deberá ser cubierto al término del evento al interventor, quien expedirá el recibo oficial que ampare el pago.
+III.- El interventor procederá a contabilizar los ingresos que por boletos vendidos obtenga el sujeto obligado, procediendo a emitir la liquidación de (sic) impuesto correspondiente, cuyo importe deberá ser cubierto al cierre de la taquilla o al término del evento al interventor, quien expedirá el recibo oficial que ampare el pago.
 
 IV.- En caso de que no se cubra el impuesto que se haya liquidado en términos de la fracción anterior, el interventor estará facultado para proceder a embargar precautoriamente bienes suficientes del sujeto obligado, que garanticen el crédito; sujetándose para tal efecto, a las formalidades que establece el Código Fiscal del Estado.
 
@@ -593,9 +593,11 @@ ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DICIEMBRE DE 200
 
 DEL OBJETO
 
-> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 36 H.- Es objeto de este impuesto la realización de pagos por concepto de impuestos y derechos, que se causen conforme a la presente ley y demás disposiciones estatales.
+ARTICULO 36 H.- Es objeto de este impuesto, las erogaciones que se efectúen por los impuestos y derechos incluyendo sus accesorios, que se causen conforme a la presente ley y demás disposiciones estatales.
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
 
 No son objeto de este impuesto los pagos correspondientes a:
 
@@ -609,33 +611,35 @@ IV Impuesto sobre la Prestación de Servicios de Hospedaje; y,
 
 V Impuesto Cedular a los Ingresos por el Otorgamiento del Uso o Goce Temporal de Bienes Inmuebles.
 
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+
 El rendimiento de este impuesto será destinado a los programas de fomento a la alfabetización en el Estado.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
 
 DE LOS SUJETOS
 
-> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 36 I.- Son sujetos de este impuesto, las personas físicas y morales, que realicen pagos por los conceptos de impuestos y derechos que se causen conforme a la presente ley y demás disposiciones estatales.
+ARTICULO 36 I.- Son sujetos de este impuesto, las personas físicas y morales, que efectúen las erogaciones a que se refiere el artículo 36 H.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
 
 DE LA BASE
 
-> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 36 J.- La base de este impuesto, es el importe de los pagos que se realicen por concepto de impuestos y derechos incluyendo sus accesorios, excepto los pagos de los impuestos que se exceptúan en el artículo 36 H de esta ley.
+ARTICULO 36 J.- La base de este impuesto, será el monto total de las erogaciones que realicen los contribuyentes por concepto de impuestos y derechos incluyendo sus accesorios, en términos del artículo 36 H de esta Ley.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
 
 DE LA TASA Y EPOCA DE PAGO
 
-> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 36 K.- Este impuesto, se calculará aplicando a la base referida en el artículo que antecede, la tasa que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+ARTICULO 36 K.- Este impuesto se calculará aplicando a la base referida en el artículo 36 J, la tasa que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de crédito o establecimientos autorizados, cuando se realicen los pagos objeto de este impuesto, debiendo reflejarse el impuesto pagado en el recibo oficial correspondiente.
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de crédito o establecimientos autorizados, cuando se realicen las erogaciones objeto de este impuesto, debiendo reflejarse el impuesto pagado en el recibo oficial correspondiente.
 
 > <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DICIEMBRE DE 2005)</small>
 
@@ -1076,3 +1080,7 @@ UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del a
 P.O. 26 DE DICIEMBRE DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2006, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2007, previa publicación en el Periódico Oficial del Gobierno del Estado.
