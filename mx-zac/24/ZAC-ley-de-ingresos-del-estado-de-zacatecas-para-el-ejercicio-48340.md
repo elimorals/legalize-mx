@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-48340
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2005-12-31"
-last_updated: "2005-12-31"
+last_updated: "2006-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS, PARA EL EJERCICIO FISCAL DEL AÑO 2006
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL DEL AÑO 2007, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2005.
 
@@ -302,3 +304,15 @@ EL SECRETARIO DE FINANZAS
 L. C. NICOLAS CASTAÑEDA TEJEDA.
 
 Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ingresos para el año 2006 contenida en el Decreto No. 225, publicado en el tomo CXV suplemento número 105 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 31 de Diciembre del año 2005.
