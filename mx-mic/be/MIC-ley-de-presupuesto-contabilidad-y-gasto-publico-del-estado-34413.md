@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3441
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2003-10-14"
+last_updated: "2006-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2003.
 
@@ -77,29 +77,35 @@ XI. Plantillas de personal: Inventario de plazas autorizadas por la autoridad co
 
 La programación del Gasto Público en el ámbito estatal, se sustentará en el Plan de Desarrollo Integral del Estado de Michoacán, en los programas sectoriales, regionales y especiales que apruebe el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 4°.
 
-La Secretaría, con base en la información que sobre los ingresos disponibles le proporcione la Tesorería, realizará las actividades de programación y presupuestación del Gasto Público del Gobierno del Estado.
+La Tesorería, con base en los ingresos disponibles, realizará las actividades de programación y presupuestación del Gasto Público del Gobierno del Estado.
 
-Durante el ejercicio del Gasto Público, la Secretaría y la Tesorería, realizarán las acciones necesarias para su control y evaluación. Para el ejercicio de esta última función, contarán con el apoyo de la Secretaría de la Contraloría y Desarrollo Administrativo.
+Durante el ejercicio del Gasto Público, la Tesorería realizará las acciones necesarias para su control e igualmente lo hará para su evaluación. Para el ejercicio de esta última función, contará con el apoyo de la Secretaría de Contraloría y Desarrollo Administrativo, de acuerdo con lo que señala la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo y de la Auditoría Superior de Michoacán, de acuerdo a lo que señala la Ley de Fiscalización Superior del Estado de Michoacán.
 
-Para la evaluación del ejercicio del Gasto Público, la Secretaría y Tesorería contarán, en su caso, con el apoyo de la Secretaría de la Contraloría y Desarrollo Administrativo, de acuerdo con lo que señala la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo y de la Auditoria Superior de Michoacán, de acuerdo a lo que señala la Ley de Fiscalización Superior del Estado de Michoacán.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 5°.
 
-La Secretaría dictará las disposiciones procedentes a que se sujetarán las Dependencias y Entidades de la administración pública estatal, en la elaboración de los proyectos de presupuestos necesarios para el financiamiento de sus programas.
+La Tesorería dictará las disposiciones procedentes a que se sujetarán las dependencias y entidades de la Administración Pública Estatal, en la elaboración de los proyectos de presupuestos necesarios para el financiamiento de sus programas.
 
-Los programas que contengan nuevos proyectos, fortalecimiento de acciones y todos los de inversión, se deberán someter a la aprobación del Ejecutivo del Estado. Los demás programas deberán contar con la aprobación de los titulares de las Dependencias y tratándose de Entidades y Organismos Autónomos, de su órgano de gobierno.
+Los programas que contengan nuevos proyectos, fortalecimiento de acciones y todos los de inversión, se deberán someter a la aprobación del Ejecutivo del Estado. Los demás programas deberán contar con la aprobación de los titulares de las dependencias y tratándose de entidades y organismos autónomos, de su órgano de gobierno.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 6°.
 
-El Ejecutivo del Estado, además de las erogaciones que autorice para el fomento de las actividades económicas, podrá autorizar, por conducto de la Secretaría y Tesorería, la participación estatal en empresas, para aumentar su capital social o bien para adquirirlo todo o parte de éste, siempre y cuando su objeto sea la producción y comercialización de alimentos y granos básicos, actividades forestales, agrícolas, ganaderas, pesqueras y las demás que el Ejecutivo del Estado determine como prioritarias.
+El Ejecutivo del Estado, además de las erogaciones que autorice para el fomento de las actividades económicas, podrá autorizar, por conducto de la Tesorería, la participación estatal en empresas, para aumentar su capital social o bien para adquirirlo todo o parte de éste, siempre y cuando su objeto sea la producción y comercialización de alimentos y granos básicos, actividades forestales, agrícolas, ganaderas, pesqueras y las demás que el Ejecutivo del Estado determine como prioritarias.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 7°.
 
-Sólo se podrán constituir fideicomisos o incrementar la aportación al patrimonio de los existentes, previa autorización del Ejecutivo del Estado, emitida por conducto de la Secretaría y Tesorería, las que en su caso propondrán al Ejecutivo del Estado la modificación o disolución de los mismos cuando así convenga al interés público.
+Sólo se podrán constituir fideicomisos o incrementar la aportación al patrimonio de los existentes, previa autorización del Ejecutivo del Estado, emitida por conducto de la Tesorería, la que en su caso propondrá al Ejecutivo del Estado la modificación o disolución de los mismos cuando así convenga al interés público.
 
-El Ejecutivo del Estado, a través de la Tesorería, será el fideicomitente único en los fideicomisos en que sea parte el Gobierno del Estado o cualquier Entidad.
+El Ejecutivo del Estado, a través de la Tesorería, será el fideicomitente único en los fideicomisos en que sea parte el Gobierno del Estado o cualquier entidad.
 
 ###### Artículo 8°.
 
@@ -133,15 +139,17 @@ Las asignaciones presupuestales en materia de gasto corriente, deberán realizar
 
 Las asignaciones presupuestales en materia de inversión pública, deberán realizarse a nivel de unidad programática, unidad responsable de la ejecución de los programas, programa y partida presupuestal.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 14.
 
-Los proyectos de presupuesto de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, se elaborarán para cada año calendario, con base en los lineamientos de carácter técnico y financiero que emita la Secretaría y se enviarán a ésta.
+Los proyectos de presupuesto de los Poderes Legislativo, Ejecutivo y Judicial, de las dependencias, entidades y organismos autónomos, se elaborarán para cada año calendario, con base en los lineamientos de carácter técnico y financiero que emita la Tesorería y se enviarán a ésta.
 
-La Secretaría, realizará los ajustes que procedan e integrará el Proyecto de Presupuesto de Egresos que se someterá a la consideración del Ejecutivo del Estado, para su envío al Congreso a más tardar el día veinte de noviembre del año inmediato anterior al que corresponda, mismo que lo discutirá con posterioridad a la Ley de Ingresos.
+La Tesorería, realizará los ajustes que procedan e integrará el Proyecto de Presupuesto de Egresos que se someterá a la consideración del Ejecutivo del Estado, para su envío al Congreso, de acuerdo a lo establecido en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, mismo que lo discutirá con posterioridad a la Ley de Ingresos.
 
 Los proyectos de presupuesto que presenten los Poderes Legislativo y Judicial, que se elaboren de conformidad con los lineamientos de carácter financiero a que se refiere el primer párrafo de este artículo, se integrarán al Proyecto de Presupuesto Egresos que presente el Ejecutivo del Estado al Congreso.
 
-Cuando los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismo Autónomos, no presenten su proyecto de presupuesto, la Secretaría propondrá en el proyecto correspondiente únicamente el importe de la asignación autorizada, para el año inmediato anterior.
+Cuando los Poderes Legislativo, Ejecutivo y Judicial, las dependencias, entidades y organismo autónomos, no presenten su proyecto de presupuesto, la Tesorería propondrá en el proyecto correspondiente únicamente el importe de la asignación autorizada, para el año inmediato anterior.
 
 ###### Artículo 15.
 
@@ -149,9 +157,11 @@ Los presupuestos por concepto de servicios personales, se sustentarán en las pl
 
 En los proyectos de presupuesto que presenten los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomas, se adjuntarán los tabuladores y las plantillas autorizadas por la autoridad competente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 16.
 
-La Secretaría, realizará estudios pertinentes con el propósito de formular una política de Gasto Público razonable respecto al desenvolvimiento de los indicadores de impacto en la sociedad y de contar con criterios financieros que permitan incrementar la eficiencia en el aprovechamiento de los arbitrios del Estado.
+La Tesorería, realizará estudios pertinentes con el propósito de formular una política de gasto público razonable respecto al desenvolvimiento de los indicadores de impacto en la sociedad y de contar con criterios financieros, que permitan incrementar la eficiencia en el aprovechamiento de los arbitrios del Estado.
 
 ###### Artículo 17.
 
@@ -193,21 +203,21 @@ El Ejecutivo del Estado publicará, en el Periódico Oficial del Gobierno Consti
 
 ### CAPÍTULO III. Del Ejercicio del Gasto Público Estatal
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 20.
 
-El ejercicio del Gasto Público con cargo al Presupuesto de Egresos del Gobierno del Estado, deberá ajustarse a la asignación de cada unidad programática presupuestaria, en los términos de lo dispuesto por el artículo 13 de esta Ley, conforme al calendario de ministración de fondos que les proporcione la Secretaría, con base en la estacionalidad de los ingresos estimados que le proporcione la Tesorería.
+El ejercicio del gasto público con cargo al Presupuesto de Egresos del Gobierno del Estado, deberá ajustarse a la asignación de cada unidad programática presupuestaria, en los términos de lo dispuesto por el artículo 13 de esta Ley, con base en la estacionalidad de los ingresos estimados por la Tesorería.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 21.
 
-Con excepción de lo señalado en la presente Ley, el Ejecutivo del Estado presentará iniciativa de autorización al Congreso, para efectuar transferencias, ampliación, reducción, modificación, creación o supresión de partidas que afecten el Presupuesto de Egresos del Estado aprobado, antes de ejercer la afectación.
-
-El Congreso, resolverá la procedencia de la afectación, dentro de los quince días naturales siguientes a la recepción de la iniciativa.
-
-La falta de resolución del Congreso, dentro del término señalado, causa la aprobación tácita de la Iniciativa, salvo que medie requerimiento de información, en cuyo caso se prorrogará por el mismo término y por una sola ocasión, a partir de la recepción de la información solicitada.
+Con excepción de lo señalado en la presente Ley, el Ejecutivo del Estado informará al Congreso sobre las transferencias, ampliación, reducción, modificación, creación o supresión de partidas que afecten el Presupuesto de Egresos del Estado aprobado.
 
 ###### Artículo 22.
 
-A la Iniciativa de autorización para modificación presupuestal, se deberá acompañar la información y documentación relativa a los programas y subprogramas involucrados.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
 
 ###### Artículo 23.
 
@@ -219,21 +229,25 @@ El Gobierno del Estado, realizará erogaciones adicionales a las previstas en el
 
 Estas erogaciones serán independientes de las que se tengan que realizar por concepto de participaciones y aportaciones federales que correspondan a los municipios, en los términos de las disposiciones aplicables y las que se deriven de ingresos destinados a un fin específico.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 25.
 
-Los titulares de las unidades de apoyo del Ejecutivo, de las Dependencias, de las Entidades; así como los funcionarios u órganos competentes de los Organismos Autónomos, en el ejercicio del gasto público autorizado, durante el año de calendario a que corresponda el presupuesto, previa autorización de la Secretaría, podrán realizar transferencias presupuestales conforme a lo siguiente:
+Los titulares de las unidades de apoyo del Ejecutivo, de las dependencias, de las entidades; así como los funcionarios y órganos competentes de los organismos autónomos, en el ejercicio del gasto público autorizado, durante el año de calendario a que corresponda el presupuesto, previa autorización de la Tesorería podrán realizar transferencias presupuestales conforme a lo siguiente:
 
 I. Entre partidas de los capítulos de gasto corriente, para otorgar suficiencia a los requerimientos de sus unidades administrativas;
 
-II. De los capítulos de gasto corriente a los capítulos de inversión, con el objeto de fortalecer el desarrollo institucional y la ampliación de metas en los programas de obras y acciones, como producto de los ahorros efectivos respecto de la asignación autorizada;
+II. De los capítulos de gasto corriente a los capítulos de inversión, con el objeto de fortalecer el desarrollo institucional y la ampliación de metas de los programas de obras y acciones, como producto de los ahorros efectivos respecto de la asignación autorizada;
 
-III. La Tesorería, en coordinación con la Secretaría, podrá realizar los movimientos presupuestarios necesarios en la Unidad Programática Presupuestaria de Deuda Pública y Obligaciones Financieras, con el objeto de que se cumpla con los compromisos asumidos; y
+III. La Tesorería, podrá realizar los movimientos presupuestarios necesarios en la Unidad Programática Presupuestaria de Deuda Pública y Obligaciones Financieras, con el objeto de que se cumpla con los compromisos asumidos; y
 
-IV. Dentro de los capítulos de gasto de inversión, los titulares de las unidades programáticas presupuestarias a cuyo cargo esté la ejecución de los programas de inversión en obras y acciones de acuerdo a las prioridades que determine el Ejecutivo del Estado, podrán realizar transferencias entre programas de la misma Dependencia o Entidad.
+IV. Dentro de los capítulos de gasto de inversión, los titulares de las unidades programáticas presupuestarias a cuyo cargo esté la ejecución de los programas de inversión en obras y acciones, de acuerdo a las prioridades que determine el Ejecutivo del Estado, podrán realizar transferencias entre programas de la misma dependencia o entidad.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 26.
 
-La Secretaría podrá realizar ampliaciones automáticas cuando existan incrementos salariales o en los precios de servicios básicos, de materiales, suministros, servicios generales y servicios de deuda, adicionales al gasto corriente presupuestado por ser indispensables para el cumplimento de las funciones de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos.
+La Tesorería podrá realizar ampliaciones automáticas cuando existan incrementos salariales o en los precios de servicios básicos, de materiales, suministros, servicios generales y servicios de deuda, adicionales al gasto corriente presupuestado por ser indispensables para el cumplimento de las funciones de los Poderes Legislativo, Ejecutivo y Judicial, de las dependencias, entidades y organismos autónomos.
 
 ###### Artículo 27.
 
@@ -243,11 +257,13 @@ Estas reducciones deberán realizarse en forma selectiva, sin afectar los progra
 
 Tratándose de los Poderes Legislativo y Judicial y de los Organismos Autónomos, las reducciones que en su caso se requiera realizar en sus presupuestos, serán definidas por ellos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 28.
 
-La afectación presupuestal y la ministración de los fondos con cargo al Presupuesto de Egresos del Gobierno del Estado, será autorizada y ejecutada por la Secretaría y Tesorería, con base en los documentos de afectación presupuestaria autorizados.
+La afectación presupuestal y la ministración de los fondos con cargo al Presupuesto de Egresos del Gobierno del Estado, será autorizada y ejecutada por la Tesorería, con base en los documentos de afectación presupuestaria.
 
-Los titulares y demás funcionarios competentes de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, serán los responsables de la aplicación y uso de los recursos que ejerzan.
+Los titulares y demás funcionarios competentes de los Poderes Legislativo, Ejecutivo y Judicial, de las dependencias, entidades y organismos autónomos, serán los responsables de la aplicación y uso de los recursos que ejerzan.
 
 ###### Artículo 29.
 
@@ -269,21 +285,25 @@ La documentación comprobatoria del ejercicio del gasto se conservará por los P
 
 La documentación comprobatoria de la adquisición de bienes de dominio privado, deberá enviarse a la Oficialía Mayor, para su guarda y custodia, hasta que los bienes de que se trate, sean desincorporados del patrimonio del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 32.
 
-Se autorizarán las ministraciones de fondos con cargo al presupuesto de egresos, en los supuestos siguientes:
+Se autorizarán las ministraciones de fondos con cargo al Presupuesto de Egresos, en los supuestos siguientes:
 
 I. Se ejerza el presupuesto conforme a las disposiciones legales y administrativas respectivas;
 
-II. Los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades u Organismos Autónomos, a los que se asignan recursos en el Presupuesto de Egresos del Gobierno del Estado, envíen a la Secretaría, los informes o documentos que les sean requeridos con relación a la ejecución del mismo y al avance de las metas señaladas en los programas que estén a su cargo; y,
+II. Los Poderes Legislativo, Ejecutivo y Judicial, las dependencias, entidades y organismos autónomos, a los que se asignan recursos en el Presupuesto de Egresos del Gobierno del Estado, envíen a la Tesorería los informes o documentos que les sean requeridos con relación a la ejecución del mismo y al avance de las metas señaladas en los programas que estén a su cargo; y,
 
-III. Cuando del análisis de la ejecución del presupuesto de egresos, que realice la Secretaría, resulte que se cumplió con las metas de los programas establecidos, y no se detecten desviaciones en su ejecución o en la aplicación de los fondos correspondientes.
+III. Cuando del análisis de la ejecución del presupuesto de egresos, que realice la Tesorería, resulte que se cumplió con las metas de los programas establecidos, y no se detecten desviaciones en su ejecución o en la aplicación de los fondos correspondientes.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 33.
 
-Concluida la vigencia del Presupuesto de Egresos del Gobierno del Estado para cada año, sólo procederá hacer con base en este, pago por los conceptos efectivamente devengados en el año que corresponda.
+Concluida la vigencia del Presupuesto de Egresos del Gobierno del Estado para cada año, sólo procederá hacer con base en éste, pago por los conceptos efectivamente devengados en el año que corresponda.
 
-Para estos efectos, los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomos, presentarán a la Secretaría y a la Tesorería, los documentos de afectación presupuestaria, por gastos devengados en el ejercicio, a más tardar el treinta y uno de enero del ejercicio siguiente, en los términos de esta Ley.
+Para estos efectos, los Poderes Legislativo, Ejecutivo y Judicial, las dependencias, entidades y organismos autónomos, presentarán a la Tesorería, los documentos de afectación presupuestaria, por gastos devengados en el ejercicio, a más tardar el treinta y uno de diciembre del ejercicio vigente, en los términos de esta Ley.
 
 En caso de incumplimiento, las obligaciones se cubrirán con cargo al presupuesto que se asigne para el año siguiente.
 
@@ -291,21 +311,25 @@ En caso de incumplimiento, las obligaciones se cubrirán con cargo al presupuest
 
 Los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomos, que habiendo recibido recursos para el financiamiento de su operación y que al treinta y uno de diciembre no hayan sido devengados, deberán reintegrar el importe disponible a la Tesorería, durante los primeros cinco días hábiles del mes de enero siguiente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 35.
 
-Los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomos, no podrán contraer obligaciones que comprometan recursos financieros adicionales a los montos que se autoricen en el Presupuesto de Egresos del Gobierno del Estado; no podrán celebrar convenios o contratos que comprometan recursos financieros con cargo a ejercicios futuros, sin contar con la previa autorización de la Secretaria y Tesorería.
+Los Poderes Legislativo, Ejecutivo y Judicial, las dependencias, entidades y organismos autónomos, no podrán contraer obligaciones que comprometan recursos financieros adicionales a los montos que se autoricen en el Presupuesto de Egresos del Gobierno del Estado; no podrán celebrar convenios o contratos que comprometan recursos financieros con cargo a ejercicios futuros, sin contar con la previa autorización de la Tesorería.
 
-Será indispensable la autorización previa y expresa de la Secretaría y Tesorería, en los casos siguientes:
+Será indispensable la autorización previa y expresa de la Tesorería, en los casos siguientes:
 
-I. Para la celebración de convenios o acuerdos de coordinación de acciones entre la Federación, el Gobierno del Estado y los municipios, en los que se comprometan recursos financieros estatales, para lo que será indispensable la comparecencia, en su caso, del Tesorero General o del Secretario de Planeación y Desarrollo Estatal; y,
+I. Para la celebración de convenios o acuerdos de coordinación de acciones entre la Federación, el Gobierno del Estado y los municipios, en los que se comprometan recursos financieros estatales, para lo que será indispensable la comparecencia del Tesorero General; y,
 
 II. Para la modificación de las proporciones de aportación estatal, que se deriven de los convenios o acuerdos, o cuando el incremento de la aportación de un año para otro, sea superior al incremento medio del Presupuesto de Egresos del Gobierno del Estado, para el año de que se trate.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 36.
 
-Para el ejercicio del Gasto Público, los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias y Entidades, además de sujetarse a las previsiones de esta Ley, deberán observar las disposiciones que al efecto expidan la Secretaría y la Tesorería.
+Para el ejercicio del Gasto Público, los Poderes Legislativo, Ejecutivo y Judicial, las dependencias y entidades, además de sujetarse a las previsiones de esta Ley, deberán observar las disposiciones que al efecto expida la Tesorería.
 
-Los Poderes Legislativo y Judicial, y los Organismos Autónomos del Estado, se sujetarán a las disposiciones de esta Ley y a las administrativas que emitan la Secretaría y la Tesorería, que en lo conducente les sean aplicables.
+Los Poderes Legislativo y Judicial, y los organismos autónomos del Estado, se sujetarán a las disposiciones de esta Ley y a las administrativas que emitan la Tesorería, que en lo conducente les sean aplicables.
 
 ### CAPÍTULO IV. De la Contabilidad
 
@@ -313,15 +337,17 @@ Los Poderes Legislativo y Judicial, y los Organismos Autónomos del Estado, se s
 
 La contabilidad de la Hacienda Pública Estatal, consistirá en el registro sistematizado de las operaciones financieras, en las cuentas de activo, pasivo, patrimonio, ingreso, costo y gasto, y será llevada por la Tesorería.
 
-Artículos 38. El registro del Gasto Público, comprenderá las asignaciones, compromisos y ejercicio de las partidas presupuestarias por unidad programática presupuestaria, unidad responsable de la ejecución de los programas y partidas, tratándose del gasto corriente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-Por lo que se refiere al gasto de inversión, el registro del Gasto Público, comprenderá las asignaciones, compromisos y ejercicio de las partidas presupuestarias por unidad programática presupuestaria, unidad responsable de la ejecución de los programas, programa, obra o acción y partidas.
+Artículos 38. El registro del gasto público, comprenderá las asignaciones, compromisos y ejercicio de las partidas presupuestarias por unidad programática presupuestaria, unidad responsable de la ejecución de los programas y partidas, tratándose del gasto corriente.
 
-Lo dispuesto en los dos párrafos que anteceden, se realizará de conformidad con las normas de carácter administrativo que establezcan la Secretaría y la Tesorería, para la operación del sistema del ejercicio presupuestal y de los sistemas contables de las Dependencias y Entidades.
+Por lo que se refiere al gasto de inversión, el registro del gasto público, comprenderá las asignaciones, compromisos y ejercicio de las partidas presupuestarias por unidad programática presupuestaria, unidad responsable de la ejecución de los programas, programa, obra o acción y partidas.
 
-Las Entidades y los Organismos Autónomos, llevarán su contabilidad con la amplitud establecida en esta Ley y las normas administrativas que en esta materia expida la Tesorería.
+Lo dispuesto en los dos párrafos que anteceden, se realizará de conformidad con las normas de carácter administrativo que establezca la Tesorería, para la operación del sistema de ejercicio presupuestal y de los sistemas contables de las dependencias y entidades.
 
-Las Dependencias y las unidades de apoyo directo del Ejecutivo del Estado, únicamente llevarán los registros a que se refiere los párrafos primero y segundo de este artículo.
+Las entidades y los organismos autónomos, llevarán su contabilidad con la amplitud establecida en esta Ley y las normas administrativas que en esta materia expida la Tesorería.
+
+Las dependencias y las unidades de apoyo directo del Ejecutivo del Estado, únicamente llevarán registros a que se refiere (sic) los párrafos primero y segundo de este artículo.
 
 ###### Artículo 39.
 
@@ -347,11 +373,13 @@ En el supuesto de que existan cambios que afecten la comparabilidad de la inform
 
 La contabilidad se llevará con base acumulativa, para determinar costos y facilitar la formulación de los estados financieros y demás informes, que permitan conocer la situación y el resultado de la gestión financiera, así como evaluar el ejercicio del Gasto Público de acuerdo con los programas, objetivos, metas y unidades responsables de su ejecución.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 44.
 
-Para evaluar el cumplimiento de las normas en materia de contabilidad y el ejercicio del Gasto Público, las Dependencias, Entidades y Organismos Autónomos, presentarán los informes que se les requieran, en la forma y plazos que se determine.
+Para evaluar el cumplimiento de las normas en materia de contabilidad y el ejercicio del gasto público, las dependencias, entidades y organismos autónomos, presentarán los informes que les requiera la Tesorería, en la forma y plazos que se determine.
 
-Las Entidades y los Organismos Autónomos, además de los informes específicos que se les requiera, presentarán los estados financieros básicos, en la forma y plazos que se determinen.
+Las entidades y los organismos autónomos, además de los informes específicos que se les requiera, presentarán los estados financieros básicos, en la forma y plazos que se determinen.
 
 Los Poderes Legislativo y Judicial, presentarán los informes únicamente para efectos de su incorporación en la Cuenta Pública de la Hacienda Estatal, que debe rendirse al Congreso.
 
@@ -544,3 +572,23 @@ SECRETARIO.- DIP. MARCO ANTONIO LAGUNAS VÁZQUEZ.- SECRETARIO.- DIP. JUANA TORRE
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 09 nueve días del mes de octubre del año 2003 dos mil tres.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Presupuesto, la Contabilidad y el Gasto Público del ejercicio 2006, deberá ejercerse conforme a las disposiciones legales y administrativas de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo, así como a lo dispuesto por las reformas del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos de lo dispuesto en los artículos 13, 18 y 19 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo, las asignaciones por servicios personales y las plantillas de personal, para los ejercicios fiscales subsecuentes, se presentarán y publicarán únicamente a nivel de unidad programática presupuestaria.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador del Estado, deberá adecuar los reglamentos y manuales que deriven del presente Decreto, dentro de los seis meses siguientes a su entrada en vigor.
