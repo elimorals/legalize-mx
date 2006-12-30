@@ -4,7 +4,7 @@ identifier: "TAB-decreto-que-crea-el-instituto-de-turismo-de-tabasco-14671"
 country: "mx"
 rank: "decreto"
 publication_date: "1995-05-24"
-last_updated: "1999-06-16"
+last_updated: "2006-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 DECRETO QUE CREA EL INSTITUTO DE TURISMO DE TABASCO, COMO ORGANISMO PUBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO DE TABASCO, CON PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE DESARROLLO TURISTICO DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Decreto publicado en el Periódico Oficial del Estado de Tabasco, el 24 de mayo de 1995.
 
@@ -222,3 +224,29 @@ CUARTO.- Las disposiciones del presente ordenamiento serán incorporadas en lo c
 QUINTO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 SEXTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el 1 de enero del año 2007.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la vigencia de la presente Ley, el titular del Poder Ejecutivo, a través de la Secretaría, contará con noventa días para expedir el Reglamento de la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Esta Ley abroga la Ley de Turismo del Estado de Tabasco promulgada en el Periódico Oficial del Gobierno del Estado de Tabasco el 1° de Agosto de 1959, que dejó en vigor el Decreto Número 0053, de fecha 10 de Febrero de 1990, promulgado en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+###### ARTICULO CUARTO.
+
+Esta Ley abroga el Decreto Número 018 del 24 de Mayo de 1995, y la parte conducente del Decreto Número 200 publicado el16 de julio de 1999, ambos publicados en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+###### ARTICULO QUINTO.
+
+Para efectos del contrato de Fideicomiso para la Promoción Turística del Estado de Tabasco, celebrado entre el Gobierno del Estado de Tabasco y la entonces institución de crédito Bancomer S. A., con fecha 8 de abril de 1999, el fideicomitente único confirme a la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, contara con hasta ciento veinte días a partir de la vigencia de la presente ley, para llevar a cabo las adecuaciones respectivas.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones legales y reglamentarias en el ámbito estatal que se opongan a la presente Ley.
