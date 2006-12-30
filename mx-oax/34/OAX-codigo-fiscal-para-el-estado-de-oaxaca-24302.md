@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-24302"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-30"
-last_updated: "2005-12-26"
+last_updated: "2006-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el domingo 30 de diciembre de 2001.
 
@@ -41,7 +41,9 @@ CODIGO FISCAL PARA EL ESTADO DE OAXACA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO UNICO
+> <small>(REFORMADA SU NUMERACION, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO I
 
 ###### ARTICULO 1.
 
@@ -175,9 +177,11 @@ Los ordenamientos fiscales y reglamentos, así como las disposiciones generales 
 
 La Secretaría de Finanzas del Gobierno del Estado, podrá dictar las disposiciones correspondientes a la administración, control, formas y lugares de pago, así como a los procedimientos recaudatorios, relativos a los ingresos tributarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 11.
 
-En los plazos fijados en días, no se contarán los sábados, los domingos y las siguientes fechas: 1° de enero; 5 de febrero; 21 de marzo; 1° y 5 de mayo; 18 de julio; 16 de septiembre; 20 de noviembre; 1° de diciembre de cada seis años, cuando corresponda a la transmisión del poder ejecutivo estatal; y, el 25 de diciembre.
+En los plazos fijados en días, no se contarán los sábados, los domingos y las siguientes fechas: 1 de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; 1 y 5 de mayo; 18 de julio; 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; 1 de diciembre de cada seis años, cuando corresponda a la transmisión del poder ejecutivo estatal; y el 25 de diciembre.
 
 Tampoco se contarán en dichos plazos, los días de descanso general de las autoridades fiscales estatales. No se consideran días de descanso general, cuando se trate de vacaciones otorgadas en forma escalonada.
 
@@ -188,6 +192,10 @@ Cuando los plazos se fijen por mes o por año, sin especificar que sean de calen
 No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores, o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil.
 
 Las autoridades fiscales podrán habilitar los días inhábiles, lo que deberá hacerse del conocimiento de los sujetos obligados y esta circunstancia no alterará el cálculo de los plazos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+También se prorrogará el plazo hasta el siguiente día hábil, cuando sea viernes el último día del plazo en que se deba presentar la declaración respectiva.
 
 ###### ARTICULO 12.
 
@@ -231,15 +239,35 @@ Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcia
 
 Cuando de conformidad con este artículo se entienda que hay enajenación, el adquirente se considerará propietario de los bienes, para efectos fiscales.
 
-### CAPITULO I. DEL NACIMIENTO DE LA OBLIGACION TRIBUTARIA Y DEL CREDITO FISCAL
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO II. DE LOS SUJETOS Y EL DOMICILIO
+### CAPITULO II. DE LOS MEDIOS ELECTRONICOS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 13 A.- Cuando las disposiciones fiscales obliguen a los contribuyentes a presentar documentos o declaraciones, podrán optar por cumplir con sus obligaciones a través de los medios electrónicos que señale la Secretaría de Finanzas del Gobierno del Estado.
+
+Asimismo, y tratándose del pago de sus contribuciones, éstas podrán ser mediante transferencia electrónica de fondos a favor de la Secretaría de Finanzas del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 13 B.- La Secretaría de Finanzas del Gobierno del Estado establecerá mediante reglas de carácter general, los requisitos y procedimientos que deberán observar los contribuyentes que opten por cumplir con sus obligaciones conforme al artículo anterior.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 13 C.- El uso de las claves de identificación personal que se establezcan para la presentación de documentos, declaraciones y realización de pagos a través de los medios electrónicos, sustituye a la firma autógrafa y producirá los mismos efectos que las leyes otorgan a las declaraciones y pagos efectuados en las recaudaciones o establecimientos autorizados, en consecuencia, las declaraciones y pagos realizados mediante el uso de la red electrónica tendrán el mismo valor probatorio.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO III. DEL SERVICIO FISCAL
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 13 D.- La Secretaría de Finanzas del Gobierno del Estado instrumentará los mecanismos para la evaluación del desempeño, los requisitos de formación académica y experiencia, entre otros elementos en materia tributaria, proponiendo al titular del Poder Ejecutivo los nombramientos de aquellos servidores públicos que demuestren profesionalismo y experiencia en el desempeño de sus actividades, conforme al reglamento que al efecto se expida.
 
 ## TITULO SEGUNDO. LA OBLIGACION TRIBUTARIA Y EL CREDITO FISCAL
 
-### CAPITULO III. DE LA RESPONSABILIDAD
+### CAPITULO I. DEL NACIMIENTO DE LA OBLIGACION TRIBUTARIA Y DEL CREDITO FISCAL
 
 ###### ARTICULO 14.
 
@@ -271,7 +299,9 @@ Cuando el resultado de la operación a que se refiere el primer párrafo de este
 
 Para los efectos de este artículo, el factor de actualización a que el mismo se refiere deberá calcularse hasta el diezmilésimo.
 
-### CAPITULO IV. DE LA EXTINCION DE LA OBLIGACION FISCAL
+### CAPITULO II. DE LOS SUJETOS Y EL DOMICILIO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 17.
 
@@ -325,7 +355,7 @@ A falta de domicilio conforme a las disposiciones que anteceden, el lugar en que
 
 Los sujetos pasivos u obligados, para la substanciación de algún procedimiento, excepto el administrativo de ejecución, podrán señalar domicilio dentro del territorio del estado, distinto al que conforme al artículo anterior les correspondiere.
 
-### CAPITULO UNICO
+### CAPITULO III. DE LA RESPONSABILIDAD
 
 ###### ARTICULO 20.
 
@@ -367,7 +397,7 @@ XI Los representantes de los sujetos obligados que hayan librado cheques para cu
 
 XII Las demás personas que señalen las disposiciones fiscales.
 
-### CAPITULO UNICO
+### CAPITULO IV. DE LA EXTINCION DE LA OBLIGACION FISCAL
 
 #### SECCION PRIMERA. DEL CUMPLIMIENTO
 
@@ -405,9 +435,7 @@ Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional.
 
 Cuando en este Código se haga referencia a salario mínimo, se entenderá el último salario mínimo general vigente en el Estado de Oaxaca.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-Los contribuyentes podrán efectuar el pago de sus contribuciones mediante transferencia electrónica de fondos, a favor de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, de conformidad con las reglas de carácter general que al efecto se expidan.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 > <small>(REFORMADO PRIMERO PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -415,21 +443,47 @@ Los contribuyentes podrán efectuar el pago de sus contribuciones mediante trans
 
 La Secretaría de Finanzas del Gobierno del Estado, a petición del interesado, podrá autorizar el pago de los créditos fiscales a plazos, ya sea diferido o en parcialidades, cuando la situación económica de los deudores sea insuficiente para cubrir en su totalidad las contribuciones fiscales que adeuden, de acuerdo a lo siguiente:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-I El contribuyente deberá solicitarlo por escrito, para lo cual celebrará convenio en el que además de precisarse la naturaleza y monto del adeudo actualizado, la periodicidad o fecha en que deban efectuarse los pagos y monto de éstos o la mecánica para su determinación, se autorizará el plazo de la prórroga que en ningún caso podrá exceder de cuarenta y ocho meses.
+I El contribuyente deberá solicitarlo por escrito, para lo cual celebrará convenio en el que además de precisarse la naturaleza y monto del adeudo actualizado, la periodicidad o fecha en que deban efectuarse los pagos y monto de éstos o la mecánica para su determinación, se autorizará el plazo de la prórroga que en ningún caso podrá exceder de doce meses para pago diferido y de treinta y seis meses para pago en parcialidades;
 
-La primera parcialidad será el resultado de dividir el saldo del adeudo inicial a la fecha de autorización, entre el número de parcialidades autorizadas.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-El saldo que se utilizará para el cálculo de las parcialidades restantes, será el resultado de restar la primera parcialidad al saldo del adeudo inicial, debiendo calcularse para el número de las parcialidades restantes, montos idénticos;
+II La primera parcialidad será el 20% del monto total del crédito fiscal a la fecha de autorización del pago a plazos. El monto total del adeudo se integrará por la suma de los siguientes conceptos:
 
-II Solamente se concederá previo otorgamiento de la garantía del interés fiscal, en los términos del presente Código y a satisfacción de las autoridades fiscales que deban autorizarlo;
+a) El monto de las contribuciones omitidas actualizado desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización;
 
-III Durante el lapso concedido, se causarán recargos sobre saldos insolutos, incluyendo los accesorios, excepto los propios recargos, a la tasa que fije la Ley de Ingresos del Estado del ejercicio fiscal que corresponda; y,
+b) Las multas que correspondan, actualizadas desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización,
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que se solicite la autorización.
 
-IV El pago extemporáneo de alguna de las parcialidades convenidas dará lugar a la causación y pago de recargos por prórroga, a la tasa que fije la Ley de Ingresos de Estado del ejercicio fiscal que corresponda.
+La actualización que corresponda al periodo mencionado se efectuará conforme a lo previsto por el artículo 16 de este Código;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+III Tratándose de la autorización del pago a plazos en parcialidades, el saldo que se utilizará para el cálculo de las parcialidades restantes, será el resultado de disminuir el pago correspondiente al 20% señalado en la fracción II del presente artículo, del monto total del adeudo a que hace referencia dicha fracción.
+
+El monto de cada una de las parcialidades restantes deberá ser igual, y pagadas en forma mensual y sucesiva, para lo cual se tomará como base el saldo del párrafo anterior, el plazo elegido por el contribuyente en su solicitud de autorización de pago a plazos y la tasa mensual de recargos por prórroga, que incluye actualización de acuerdo a la tasa que fije la Ley de Ingresos del Estado vigente en la fecha de la solicitud de autorización de pago a plazos en parcialidades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+IV Solamente se celebrará Convenio para autorización del pago a plazo en parcialidades o diferido, previo otorgamiento de la garantía del interés fiscal, en los términos del presente Código y a satisfacción de las autoridades fiscales que deban autorizarlo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+V El pago extemporáneo de alguna de las parcialidades convenidas dará lugar a la causación y pago de recargos por prórroga, a la tasa que fije la Ley de Ingresos del Estado del ejercicio fiscal que corresponda;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+VI Tratándose de la autorización del pago a plazos en forma diferida, el monto inicial del pago será el 20% del total del crédito fiscal al momento de la solicitud del pago a plazos en esta modalidad. El monto que se diferirá será el resultado de restar el pago inicial antes mencionado, del monto total del adeudo a que hace referencia esta fracción.
+
+El monto a liquidar por el contribuyente, se calculará adicionando al monto referido en el párrafo anterior, la cantidad que resulte de multiplicar la tasa de recargos por prórroga que incluye actualización de acuerdo a la Ley de Ingresos del Estado y al artículo 16 de este Código, vigente en la fecha de la solicitud de autorización de pago a plazos de forma diferida, por el número de meses, o fracción de mes transcurridos desde la fecha de la solicitud de pago a plazo en forma diferida y hasta la fecha señalada por el contribuyente para liquidar su adeudo y por el monto que se diferirá.
+
+El monto para liquidar el adeudo a que se refiere el párrafo anterior, deberá cubrirse en una sola exhibición, a más tardar en la fecha de pago especificada por el contribuyente en su solicitud de autorización de pago a plazos; y,
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+VII Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo, que es el resultado de disminuir el 20% del pago inicial al total del crédito fiscal, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado de acuerdo con la fracción IV de este artículo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -520,6 +574,16 @@ Cuando se efectúe parcialmente la compensación, se podrá continuar compensand
 Si la compensación se hubiera efectuado y no procediera o se hiciere en cantidad mayor a la que legalmente se tuviere derecho, se causarán recargos sobre la cantidad compensada indebidamente y su correspondiente actualización, en términos de este Código, por el periodo transcurrido a partir de la fecha de la citada compensación y hasta que se efectúe el reintegro respectivo. Lo anterior sin perjuicio de las sanciones que en su caso haya lugar en los términos de los ordenamientos fiscales aplicables tanto para el contribuyente como para el responsable solidario en su caso.
 
 No se podrán compensar las cantidades cuya devolución haya sido solicitada o cuando hubiere prescrito la obligación a devolverlas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 32 Bis.
+
+Los contribuyentes obligados a pagar mediante declaración periódica podrán acreditar el importe de los estímulos fiscales a que tengan derecho, contra las cantidades que están obligados a pagar, siempre que cumplan con los demás requisitos formales que se establezcan en las disposiciones que otorguen los estímulos.
+
+En los casos en que las disposiciones que otorguen los estímulos establezcan la obligación de cumplir con requisitos formales, se entenderá que nace el derecho para obtener el estímulo, a partir del día en que se otorga la autorización o el documento respectivo.
+
+Cuando los contribuyentes acrediten cantidades por concepto de estímulos fiscales a los que no tuvieran derecho, se causarán recargos en los términos del artículo 30 de este Código, sobre las cantidades acreditadas indebidamente y a partir de la fecha del acreditamiento.
 
 #### SECCION CUARTA. DE LA CONDONACION
 
@@ -613,15 +677,21 @@ La propia Secretaría, dictará las normas y procedimientos para llevar a cabo l
 
 #### SECCION SEPTIMA. DE LAS RESOLUCIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 38 Bis.
 
-El Ejecutivo del Estado, mediante resoluciones de carácter general podrá eximir total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo diferido o en parcialidades cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado una rama de actividad, la producción o venta de productos o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias. Del ejercicio de esta facultad y su justificación, el Ejecutivo del Estado dará cuenta al Congreso de la Entidad en el período siguiente de sesiones.
+El Ejecutivo del Estado podrá, mediante resoluciones de carácter general:
+
+I Eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación económica de algún lugar o región del Estado, una rama de la actividad, la producción o venta de productos, o la realización de una actividad, así como en caso de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias. Del ejercicio de esta facultad y su justificación, el Ejecutivo del Estado dará cuenta al Congreso de la Entidad, en el periodo siguiente de sesiones; y.
+
+II Otorgar subsidios o estímulos fiscales.
+
+Las resoluciones que conforme a este artículo se dicten, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
 ## TITULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS SUJETOS PASIVOS
 
-### CAPITULO I. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO UNICO
 
 ###### ARTICULO 39.
 
@@ -713,11 +783,33 @@ Son obligaciones de los sujetos pasivos:
 
 I Obtener previamente al ejercicio de sus actividades o inicio de operaciones, los permisos, licencias o registros que al efecto prevengan los ordenamientos fiscales, así como cumplir los requisitos señalados en los mismos y exhibirlos o acreditarlos ante las autoridades competentes, cuando éstas así lo requieran;
 
-II Inscribirse en la Secretaría de Finanzas del Gobierno del Estado en un plazo que no excederá de diez días, a partir de la fecha de inicio de operaciones o actividades;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-III Presentar ante la Secretaría de Finanzas, bajo protesta de decir verdad, los formatos, avisos por cambio de nombre, denominación o razón social; de domicilio; de aumento, disminución o cambio de actividades u obligaciones fiscales; de apertura o cierre de establecimientos o locales; de traspaso, clausura, baja o suspensión de actividades; cancelación del registro en el padrón correspondiente; así como cualquier otro señalado en los ordenamientos respectivos;
+II Inscribirse en la Secretaría de Finanzas del Gobierno del Estado dentro del mes siguiente, a partir de la fecha de inicio de operaciones o actividades;
 
-De no fijarse plazo para el cumplimiento de estas obligaciones, se tendrá por establecido el de quince días a partir de la realización del hecho de que se trate;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+III Presentar ante la Secretaría de Finanzas del Gobierno del Estado, los siguientes avisos:
+
+a) De inscripción al padrón de contribuyentes;
+
+b) De cambio de nombre, denominación o razón social;
+
+c) De cambio de domicilio;
+
+d) De aumento o disminución de obligaciones;
+
+e) De fusión, escisión, liquidación o transformación de personas morales;
+
+f) De apertura o cierre de establecimientos o locales;
+
+g) De liquidación o apertura de sucesión;
+
+h) De cancelación del registro estatal de contribuyentes; y,
+
+i) De suspensión o reanudación de actividades u operaciones o de cualquier otra circunstancia que modifique los datos aportados en la solicitud de inscripción, dentro de los plazos establecidos en este artículo; asimismo, tratándose del aviso de cambio de actividad preponderante, éste se presentará mediante escrito que deberá reunir los requisitos que establece el artículo 45 de este Código.
+
+De no fijarse plazo para el cumplimiento de estas obligaciones, se tendrá por establecido el de un mes a partir de la realización del hecho de que se trate;
 
 IV Manifestar y pagar los créditos fiscales, en los términos que dispongan los ordenamientos fiscales;
 
@@ -745,7 +837,7 @@ La Secretaría de Finanzas llevará registros de contribuyentes, basándose en l
 
 ## TITULO CUARTO. OBLIGACIONES Y FACULTADES DE LAS AUTORIDADES FISCALES
 
-### CAPITULO II. DE LOS DELITOS FISCALES
+### CAPITULO UNICO
 
 ###### ARTICULO 48.
 
@@ -757,9 +849,13 @@ II Mantener módulos de información en sus oficinas, tanto en el ámbito centra
 
 III Difundir los derechos y obligaciones de los sujetos obligados;
 
-IV Efectuar en distintas partes del estado, reuniones de información de carácter general, especialmente con motivo de reformas a las disposiciones fiscales; y
+IV Efectuar en distintas partes del estado, reuniones de información de carácter general, especialmente con motivo de reformas a las disposiciones fiscales; y (sic)
 
-V Resolver las consultas que formulen los interesados sobre situaciones reales y concretas, de acuerdo a las disposiciones fiscales.
+V Resolver las consultas que formulen los interesados sobre situaciones reales y concretas, de acuerdo a las disposiciones fiscales;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+VI Publicar las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su cumplimiento por parte de los contribuyentes.
 
 ###### ARTICULO 49.
 
@@ -1073,27 +1169,41 @@ VI Cuando no hubiere observaciones, la autoridad fiscalizadora comunicará media
 
 VII Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio de observaciones, a que se refiere la fracción IV el contribuyente o responsable solidario podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 68.
 
-Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes, o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de seis meses contados a partir de que se le notifique a los contribuyentes el inicio de las facultades de comprobación, plazo que podrá ampliarse por un periodo igual hasta por una sola ocasión por el superior jerárquico del servidor público que haya expedido el oficio mediante el cual se notifique la orden respectiva. En su caso, el plazo se entenderá prorrogado hasta que transcurra el término a que se refiere el segundo párrafo de la fracción III del artículo 66 de este Código.
+Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes, o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de doce meses contados a partir de que se le notifique a los contribuyentes el inicio de las facultades de comprobación.
 
-Los plazos para concluir las visitas domiciliarias o las revisiones que se efectúen en las oficinas de las propias autoridades fiscales a que se refiere el primer párrafo, y los plazos de las prorrogas que proceden conforme a este artículo, se suspenderán en los casos de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+El plazo para concluir las visitas domiciliarias o las revisiones que se efectúen en las oficinas de las propias autoridades fiscales a que se refiere el primer párrafo, se suspenderán en los casos de:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 I Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga.
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
 II Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 III Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice.
 
-Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, o las prorrogas que procedan de conformidad con este artículo los contribuyentes interponen algún medio de defensa contra los actos o actividades que deriven del ejercicio de las facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, los contribuyentes interponen algún medio de defensa contra los actos o actividades que deriven del ejercicio de las facultades de comprobación, dicho plazo se suspenderá desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, en las leyes fiscales, o bien, que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades administrativas, podrán servir para motivar las resoluciones que emita la autoridad fiscal.
 
-Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones o en su caso el de conclusión de la revisión dentro de los plazos mencionados esta se entenderá concluida en esta fecha, quedando sin efectos la orden las actuaciones que de ella se derivaron durante dicha visita o revisión.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones o en su caso el de conclusión de la revisión dentro del plazo mencionado, Ésta (sic) se entenderá concluida en esta fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 67 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales determinaran las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluya el plazo de 20 días a que se refiere la fracción IV del artículo 67 de este Código.
 
@@ -1123,7 +1233,7 @@ Los servidores públicos que intervengan en los diversos trámites relativos a l
 
 ## TITULO QUINTO. DE LAS INFRACCIONES, SANCIONES Y DELITOS FISCALES
 
-### CAPITULO UNICO
+### CAPITULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 72.
 
@@ -1455,7 +1565,7 @@ De toda ejecución de una orden de clausura se levantará un acta, en la que se 
 
 Una vez clausurado el establecimiento en los términos señalados, ninguna autoridad administrativa distinta a la Secretaría de Finanzas del Gobierno del Estado, podrá levantar la clausura.
 
-### CAPITULO UNICO
+### CAPITULO II. DE LOS DELITOS FISCALES
 
 ###### ARTICULO 90.
 
@@ -1611,7 +1721,7 @@ En todo lo no previsto por el presente Código, se aplicarán las disposiciones 
 
 ## TITULO SEXTO. DE LAS NOTIFICACIONES
 
-### CAPITULO I. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+### CAPITULO UNICO
 
 ###### ARTICULO 109.
 
@@ -1671,9 +1781,7 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 ## TITULO SEPTIMO. DE LA GARANTIA DEL INTERES FISCAL
 
-### CAPITULO II. DEL RECURSO DE REVOCACION
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 116.
 
@@ -1735,6 +1843,8 @@ No se exigirá garantía adicional si en el procedimiento administrativo de ejec
 
 ## TITULO OCTAVO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
+### CAPITULO I. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTICULO 121.
@@ -1763,9 +1873,9 @@ La autoridad que practique el embargo precautorio, levantará acta circunstancia
 
 La autoridad requerirá al obligado en el caso de la fracción IV de este artículo, para que dentro del término de tres días desvirtúe el monto por el que se realizó el embargo. Transcurrido el plazo antes señalado sin que se hubiere desvirtuado dicho monto, el embargo precautorio quedará firme.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-El embargo precautorio quedará sin efectos, si la autoridad no emite dentro del plazo de seis meses a que se refiere el artículo 68 de este Código, en el caso de las fracciones II y III, y de dieciocho meses en el de la fracción I de este artículo, contados desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro de los plazos señalados la autoridad los determina, el embargo precautorio se convertirá en definitivo y se continuará con el procedimiento administrativo de ejecución de conformidad con lo previsto en el presente capítulo, debiendo dejar constancia de la resolución y de su notificación en el expediente de ejecución. Si el obligado garantiza el interés fiscal por cualquiera de las formas previstas en el artículo 116 de este Código, se levantará el embargo.
+El embargo precautorio quedará sin efectos si la autoridad no emite dentro del plazo de doce meses a que se refiere el artículo 68 de este Código, en el caso de las fracciones II y III; y de dieciocho meses en el de la fracción I de este artículo, contados desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro de los plazos señalados la autoridad los determina, el embargo precautorio se convertirá en definitivo y se continuará con el procedimiento administrativo de ejecución de conformidad con lo previsto en el presente capítulo, debiendo dejar constancia de la resolución y de su notificación en el expediente de ejecución. Si el obligado garantiza el interés fiscal por cualquiera de las formas previstas en el artículo 116 de este Código, se levantará el embargo.
 
 El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de su exigibilidad y se aplicará el procedimiento administrativo de ejecución.
 
@@ -2277,6 +2387,10 @@ I Que el deudor se conforme con ello por escrito, ante la oficina ejecutora corr
 
 II Que medie orden de autoridad competente. En caso de conflicto, las cantidades de dinero o valores que constituyan el remanente, se enviarán en depósito a la Secretaría de Finanzas del Gobierno del Estado, mientras resuelven las autoridades competentes.
 
+### CAPITULO II. DEL RECURSO DE REVOCACION
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 169.
 
 Contra los actos y procedimientos administrativos dictados en materia fiscal estatal, se podrá interponer el recurso de revocación, el cual se regirá por las disposiciones de este capítulo; a falta de disposición expresa se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado Libre y Soberano de Oaxaca.
@@ -2429,7 +2543,9 @@ En el recurso de revocación se admitirá toda clase de pruebas, excepto la test
 
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
-Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos, incluyendo los digitales; pero si en los documentos públicos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
 
 Las demás pruebas quedarán a la prudente apreciación de la autoridad fiscal.
 
@@ -2534,3 +2650,13 @@ UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del a
 P.O. 26 DE DICIEMBRE DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2006, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2007, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Lo dispuesto en el artículo 68 del presente Código, se aplicará al ejercicio de las facultades de comprobación que se inicien a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- Lo dispuesto en el artículo 121, penúltimo párrafo del presente Código, se aplicará a los embargos precautorios que hayan sido trabados a partir de la fecha de entrada en vigor del presente Decreto, siempre y cuando la autoridad haya iniciado facultades de comprobación a partir de la misma fecha.
+
+CUARTO.- La Secretaría de Finanzas contará con un plazo de hasta 180 días contados a partir de la entrada en vigor del presente decreto, para emitir las reglas generales a que se refiere el artículo 13 B.
