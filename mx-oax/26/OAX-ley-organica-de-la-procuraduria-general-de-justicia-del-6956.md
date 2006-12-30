@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-procuraduria-general-de-justicia-del-6956"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-12-31"
-last_updated: "2005-03-22"
+last_updated: "2006-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 1983.
 
@@ -83,39 +83,43 @@ IV. SubProcuradores Regionales;
 
 V. Fiscalía Especial para la Atención de Delitos Electorales;
 
-VI. Director de Averiguaciones Previas y Consignaciones,
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-VII. Director de Control de Procesos;
+VI. Fiscalía Especializada en Justicia para Adolescentes;
 
-VIII. Director Jurídico Consultivo;
+VII. Director de Averiguaciones Previas y Consignaciones;
 
-IX. Director de Derechos Humanos;
+VIII. Director de Control de Procesos;
 
-X. Director de Servicios a la Comunidad y Participación Ciudadana;
+IX. Director Jurídico Consultivo;
 
-XI. Director de Servicios Periciales;
+X. Director de Derechos Humanos;
 
-XII. Director de la Policía Ministerial;
+XI. Director de Servicios a la Comunidad y Participación Ciudadana;
 
-XIII. Director de Organización y Métodos;
+XII. Director de Servicios Periciales;
 
-XIV. Director de la Academia de Formación Profesional;
+XIII. Director de la Policía Ministerial;
 
-XV. Subdirectores;
+XIV. Director de Organización y Métodos;
 
-XVI. Visitador General y Visitadores;
+XV. Director de la Academia de Formación Profesional;
 
-XVII. Agentes del Ministerio Público, Auxiliares del Procurador, Auxiliares de Area, Investigadores, Adscritos y Fiscales Especiales que requiera la Institución;
+XVI. Subdirectores;
 
-XVIII. Unidad de Apoyo Administrativo;
+XVII. Visitador General y Visitadores;
 
-XIX. Unidad de Informática;
+XVIII. Agentes del Ministerio Público, Auxiliares del Procurador, Auxiliares de Area, Investigadores, Adscritos y Fiscales Especiales que requiera la Institución;
 
-XX. Unidad del Fondo para la Procuración de Justicia;
+XIX. Unidad de Apoyo Administrativo;
 
-XXI. Cuerpo de Agentes de la Policía Ministerial; y
+XX. Unidad de Informática;
 
-XXII. Jefes de Departamento y Oficina, así como todo el personal que se requiera para el cabal logro de sus objetivos.
+XXI. Unidad del Fondo para la Procuración de Justicia;
+
+XXII. Cuerpo de Agentes de la Policía Ministerial; y
+
+XXIII. Jefes de Departamento y Oficina, así como todo el personal que se requiera para el cabal logro de sus objetivos.
 
 ###### ARTICULO 4o.
 
@@ -150,6 +154,10 @@ Para ser Procurador General de Justicia se requieren los requisitos señalados p
 ###### ARTICULO 9o.
 
 Para ser Procurador General, Subprocurador general, Subprocurador Regional, Director de Averiguaciones Previas, de Control de Procesos, de Derechos Humanos, de Servicios a la Comunidad, Visitador General y de la Academia de Formación Profesional, se requiere: Ser Mexicano en pleno ejercicio de sus derechos, mayor de veinticinco años de edad, Licenciado en Derecho con título legalmente expedido, con tres años de ejercicio profesional como mínimo y de buena conducta.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+Para ser Fiscal y Agente del Ministerio Público Especializado en Adolescentes, además de los requisitos anteriores, deberán contar con estudios y conocimientos relacionados al tema de justicia juvenil.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
@@ -281,29 +289,33 @@ XVIII.- Autorizar o no la modificación de la clasificación del tipo delictivo 
 
 XIX.- Autorizar el no ejercicio de la acción penal y el Archivo de las diligencias practicadas en el período de averiguación previa.
 
-XX.- Turnar a las autoridades correspondientes en los casos de incompetencia, las diligencias practicadas, poniendo, en su caso, a su disposición a los detenidos y los objetos relacionados con aquellas.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-XXI.- Recibir las manifestaciones de bienes de los funcionarios y empleados del Gobierno del Estado y proceder de acuerdo con la Ley de la Materia.
+XX.- Ejercer a través de la Fiscalía Especializada en Justicia para Adolescentes las funciones y facultades previstas en la Ley de la Materia.
 
-XXII.- Dispensar la autopsia en los casos a que se refiere el artículo 33, Tercer Párrafo del Código de Procedimientos Penales del Estado.
+XXI.- Turnar a las autoridades correspondientes en los casos de incompetencia, las diligencias practicadas, poniendo, en su caso, a su disposición a los detenidos y los objetos relacionados con aquellas.
+
+XXII.- Recibir las manifestaciones de bienes de los funcionarios y empleados del Gobierno del Estado y proceder de acuerdo con la Ley de la Materia.
+
+XXIII.- Dispensar la autopsia en los casos a que se refiere el artículo 33, Tercer Párrafo del Código de Procedimientos Penales del Estado.
 
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2004)</small>
 
-XIII.- Crear centros de mediación públicos;
+XIV.- Crear centros de mediación públicos;
 
-XXIV.- Nombrar al Jefe de la Unidad del Fondo para la Procuración de Justicia.
-
-> <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
-
-XXV.- Celebrar convenios y expedir acuerdos, circulares, instructivos, manuales de organización, de procedimientos y demás disposiciones jurídicas y administrativas que sean de su competencia, conducentes al buen despacho de las funciones de la Procuraduría para lograr la acción efectiva del Ministerio Público.
+XXV.- Nombrar al Jefe de la Unidad del Fondo para la Procuración de Justicia.
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
 
-XXVI.- Verificar la licitud de la enajenación de objetos y valores, que de acuerdo con el Código Penal del Estado, sean subastados públicamente; y
+XXVI.- Celebrar convenios y expedir acuerdos, circulares, instructivos, manuales de organización, de procedimientos y demás disposiciones jurídicas y administrativas que sean de su competencia, conducentes al buen despacho de las funciones de la Procuraduría para lograr la acción efectiva del Ministerio Público.
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
 
-XXVII.- Las demás que con ese carácter le confieran las disposiciones legales aplicables y las demás que le otorgue el Gobernador del Estado.
+XXVII.- Verificar la licitud de la enajenación de objetos y valores, que de acuerdo con el Código Penal del Estado, sean subastados públicamente; y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DEL 2000)</small>
+
+XXVIII.- Las demás que con ese carácter le confieran las disposiciones legales aplicables y las demás que le otorgue el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
@@ -483,11 +495,11 @@ En caso de que se solicite el servicio por otra Autoridad o Institución, se pre
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MAYO DEL 2000)</small>
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-DE LA VISITADURIA.
+DE LA DIRECCION DE LA POLICIA MINISTERIAL.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ### CAPITULO IV.
 
@@ -496,6 +508,10 @@ IMPEDIMENTOS, EXCUSAS E INCOMPATIBILIDADES.
 ###### ARTICULO 31.
 
 La Policía Ministerial es la Corporación Auxiliar del Ministerio Público para la investigación y persecución de los delitos, ejecución de las órdenes de aprehensión y determinaciones judiciales y de los acuerdos que dicte el Ministerio Público para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+Tratándose de la investigación y persecución de delitos cometidos por adolescentes, de la ejecución de órdenes de presentación, de la ejecución de detenciones, así como de las demás determinaciones que dicten las autoridades judiciales y el Ministerio Público, la policía dispondrá de un grupo especializado en adolescentes de conformidad con los principios que rigen la materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DEL 2000)</small>
 
@@ -559,9 +575,11 @@ Los cuerpos de seguridad y demás autoridades destinadas a mantener la tranquili
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 1993)</small>
 
-### CAPITULO VIII.
+### CAPITULO VII.
 
-DE LOS AGENTES DEL MINISTERIO PUBLICO AUXILIARES DEL PROCURADOR.
+DE LA VISITADURIA.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
 
 ###### ARTICULO 36.
 
@@ -587,9 +605,9 @@ III.- Dar cuenta al Procurador o a los Subprocuradores, de la visita y sus resul
 
 IV.- Desempeñar las comisiones especiales que el Procurador le encomiende y las demás que le señalen las Leyes.
 
-### CAPITULO IX.
+### CAPITULO VIII.
 
-DE LOS AGENTES DEL MINISTERIO PUBLICO ADSCRITOS.
+DE LOS AGENTES DEL MINISTERIO PUBLICO AUXILIARES DEL PROCURADOR.
 
 ###### ARTICULO 38.
 
@@ -607,11 +625,9 @@ c).- Sobre la formulación de conclusiones no acusatorias o contrarias a las con
 
 III.- Intervenir en los demás asuntos en materia penal, civil o familiar que determine el Procurador.
 
-### CAPITULO X.
+### CAPITULO IX.
 
-DE LOS SUBPROCURADORES REGIONALES.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+DE LOS AGENTES DEL MINISTERIO PUBLICO ADSCRITOS.
 
 ###### ARTICULO 39.
 
@@ -659,11 +675,11 @@ Los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia, 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO XI.
+### CAPITULO X.
 
-DE LA ACADEMIA DE FORMACION PROFESIONAL.
+DE LOS SUBPROCURADORES REGIONALES.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 43.
 
@@ -739,11 +755,11 @@ En cada Subprocuraduría habrá un Subdirector de cada una de las áreas señala
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MAYO DEL 2000)</small>
 
-### CAPITULO XII.
+### CAPITULO XI.
 
-DEL FONDO PARA LA PROCURACIÓN DE JUSTICIA.
+DE LA ACADEMIA DE FORMACION PROFESIONAL.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 45.
 
@@ -785,49 +801,11 @@ X.- Llevará a cabo todas las actividades que el procurador le encomiende.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DEL 2000)</small>
 
-### CAPITULO XIII.
+### CAPITULO XII.
 
-DE LA OFICIALÍA DE PARTES.
-
-> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
-
-ARTICULO 46 (III) Bis.- La Oficialía de Partes tendrá a su cargo:
-
-a).- La recepción de escritos, querellas o denuncias, que serán distribuidos a la mesa del Sector Central de Averiguaciones Previas que por turno le toque conocer, para el correspondiente inicio de la Averiguación Previa y asignarle el número de control correspondiente;
-
-b).- La recepción y distribución de promociones dirigidas a las diversas Agencias del Ministerio Público del Sector Central;
-
-c).- La recepción y distribución de promociones, que vayan dirigidas a cualquiera de los funcionarios dependientes de la Procuraduría General de Justicia del Estado;
-
-d).- La recepción y envío de correspondencia oficial que sea tomada de las distintas áreas de la institución. Así como turnar la correspondencia que se recibe a través de los servicios de correo;
-
-e).- La recepción de Averiguaciones Previas, que sean enviadas por las diversas agencias investigadoras de la Ciudad y del área foránea, para su control y distribución a las mesas del Sector Central de Averiguaciones Previas o a donde correspondan y asignarles el número de control correspondiente;
-
-f).- La remisión de averiguaciones previas donde el Ministerio Público haya acordado la Consignación para enviarlas a Juzgados Penales en turno del Distrito del Centro, o bien a los Juzgados del interior del Estado;
-
-g).- La remisión de Averiguaciones Previas al Archivo de la Procuraduría general del Estado, donde se haya acordado la reserva o el no ejercicio de al acción penal;
-
-h).- La recepción y entrega de los oficios, donde las autoridades que integran la Institución del Ministerio Público rindan informes previos y justificados a la Autoridad Judicial Federal correspondiente, dentro de los diversos juicios de amparo;
-
-i).- Asentar el día y hora de presentación en los documentos recibidos e imprimir el sello oficial con la firma de la persona que reciba el documento, expresando claramente el número de anexos y especificar si es acompañado con algunos objetos, así como devolver a los interesados copia en que se asienten estos datos; y
-
-j).- Registrar en los Libros de Control toda la documentación que reciba y distribuya.
+DEL FONDO PARA LA PROCURACIÓN DE JUSTICIA.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
-
-ARTICULO 46 (IV) Bis.- La Oficialía de Partes dependerá directamente de la Unidad Administrativa de la Procuraduría General de Justicia del Estado y estará a cargo de un Jefe de Departamento, y contará con los Jefes de Oficina y personal necesario para el buen funcionamiento del área.
-
-> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
-
-ARTICULO 46 (V) Bis.- El Jefe de la Oficialía de Partes deberá rendir un informe diario del conjunto de asuntos que se tramiten a través de la misma.
-
-> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
-
-ARTICULO 46 (VI) Bis.- Son Obligaciones del Jefe de la Oficialía de Partes:
-
-a).- Dar cumplimiento a las instrucciones que sobre la mejor marcha de los asuntos inherentes a Oficialía de Partes establezca el Procurador; y
-
-b).- Velar por la exacta observancia de las funciones preceptuadas a la Dependencia por la presente Ley Orgánica.
 
 ###### ARTICULO 46 Bis.
 
@@ -885,17 +863,57 @@ V.- Sufragar aquellos gastos que permitan la buena marcha de la Procuración de 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DEL 2000)</small>
 
-### CAPITULO I.
+### CAPITULO XIII.
 
-DE LA AVERIGUACION PREVIA.
+DE LA OFICIALÍA DE PARTES.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+ARTICULO 46 (III) Bis.- La Oficialía de Partes tendrá a su cargo:
+
+a).- La recepción de escritos, querellas o denuncias, que serán distribuidos a la mesa del Sector Central de Averiguaciones Previas que por turno le toque conocer, para el correspondiente inicio de la Averiguación Previa y asignarle el número de control correspondiente;
+
+b).- La recepción y distribución de promociones dirigidas a las diversas Agencias del Ministerio Público del Sector Central;
+
+c).- La recepción y distribución de promociones, que vayan dirigidas a cualquiera de los funcionarios dependientes de la Procuraduría General de Justicia del Estado;
+
+d).- La recepción y envío de correspondencia oficial que sea tomada de las distintas áreas de la institución. Así como turnar la correspondencia que se recibe a través de los servicios de correo;
+
+e).- La recepción de Averiguaciones Previas, que sean enviadas por las diversas agencias investigadoras de la Ciudad y del área foránea, para su control y distribución a las mesas del Sector Central de Averiguaciones Previas o a donde correspondan y asignarles el número de control correspondiente;
+
+f).- La remisión de averiguaciones previas donde el Ministerio Público haya acordado la Consignación para enviarlas a Juzgados Penales en turno del Distrito del Centro, o bien a los Juzgados del interior del Estado;
+
+g).- La remisión de Averiguaciones Previas al Archivo de la Procuraduría general del Estado, donde se haya acordado la reserva o el no ejercicio de al acción penal;
+
+h).- La recepción y entrega de los oficios, donde las autoridades que integran la Institución del Ministerio Público rindan informes previos y justificados a la Autoridad Judicial Federal correspondiente, dentro de los diversos juicios de amparo;
+
+i).- Asentar el día y hora de presentación en los documentos recibidos e imprimir el sello oficial con la firma de la persona que reciba el documento, expresando claramente el número de anexos y especificar si es acompañado con algunos objetos, así como devolver a los interesados copia en que se asienten estos datos; y
+
+j).- Registrar en los Libros de Control toda la documentación que reciba y distribuya.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+ARTICULO 46 (IV) Bis.- La Oficialía de Partes dependerá directamente de la Unidad Administrativa de la Procuraduría General de Justicia del Estado y estará a cargo de un Jefe de Departamento, y contará con los Jefes de Oficina y personal necesario para el buen funcionamiento del área.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+ARTICULO 46 (V) Bis.- El Jefe de la Oficialía de Partes deberá rendir un informe diario del conjunto de asuntos que se tramiten a través de la misma.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DEL 2000)</small>
+
+ARTICULO 46 (VI) Bis.- Son Obligaciones del Jefe de la Oficialía de Partes:
+
+a).- Dar cumplimiento a las instrucciones que sobre la mejor marcha de los asuntos inherentes a Oficialía de Partes establezca el Procurador; y
+
+b).- Velar por la exacta observancia de las funciones preceptuadas a la Dependencia por la presente Ley Orgánica.
 
 ## TITULO TERCERO.
 
 FUNCIONES DEL MINISTERIO PUBLICO.
 
-### CAPITULO II.
+### CAPITULO I.
 
-DEL EJERCICIO DE LA ACCION PENAL.
+DE LA AVERIGUACION PREVIA.
 
 ###### ARTICULO 47.
 
@@ -1145,15 +1163,33 @@ XII.- Proponer a los Jefes de Departamento que le auxiliarán;
 
 XIII.- Las demás que expresamente le encomiende el Procurador.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+### CAPITULO IV (6) BIS.
+
+DE LA FISCALIA ESPECIALIZADA EN JUSTICIA PARA ADOLESCENTES.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 28 (9) Bis.- La Fiscalía Especializada en Justicia para adolescentes contará con la siguiente estructura:
+
+I.- Un Fiscal Especializado que estará al frente de la Fiscalía;
+
+II.- Agentes del Ministerio Público;
+
+III.- Policía Ministerial;
+
+IV.- Facilitadotes (mediadores y conciliadores);
+
+V.- Peritos, y
+
+VI.- Auxiliares administrativos.
+
+Esta Fiscalía actuará con plena autonomía técnica y sus atribuciones, funciones, deberes y obligaciones las ejercerá en los términos previstos en la Ley de Justicia para Adolescentes. Y conforme el presupuesto lo permita, se establecerá en las regiones una estructura similar.
+
 ### CAPITULO V.
 
 DE LA DIRECCION DE SERVICIOS PERICIALES.
-
-### CAPITULO VI.
-
-DE LA DIRECCION DE LA POLICIA MINISTERIAL.
-
-> <small>(REFORMADO, P.O. 9 DE MAYO DEL 2000)</small>
 
 ###### ARTICULO 51.
 
@@ -1393,9 +1429,9 @@ Para los efectos del artículo 49 de esta Ley, la persona ofendida por un delito
 
 El Ministerio Público está facultado para conceder el beneficio de la Libertad Provisional Bajo Caución, en los delitos culposos por tránsito de vehículos, en los términos del artículo 272 del Código de Procedimientos Penales del Estado.
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LA VIGILANCIA DE LA LEGALIDAD.
+DEL EJERCICIO DE LA ACCION PENAL.
 
 ###### ARTICULO 93.
 
@@ -1437,9 +1473,9 @@ Estará presente en todas las diligencias que se practiquen, interrogará a los 
 
 Cuando el Ministerio Público no esté conforme con alguna resolución judicial, deberá interponer los recursos legales procedentes, debiendo expresar y fundar legalmente los agravios que se causen a su representación.
 
-### CAPITULO UNICO.
+### CAPITULO III.
 
-DE LAS CORRECCIONES DISCIPLINARIAS Y DE LOS MEDIOS DE APREMIO.
+DE LA VIGILANCIA DE LA LEGALIDAD.
 
 ###### ARTICULO 99.
 
@@ -1461,7 +1497,7 @@ El Ministerio Público cuidará así mismo, de la estricta aplicación de las Le
 
 ### CAPITULO UNICO.
 
-DISPOSICIONES GENERALES.
+DE LAS CORRECCIONES DISCIPLINARIAS Y DE LOS MEDIOS DE APREMIO.
 
 ###### ARTICULO 103.
 
@@ -1488,6 +1524,10 @@ III.- Arresto hasta por quince días.
 Si fuere insuficiente el apremio, se procederá contra el rebelde por desobediencia a un mandato legítimo de la Autoridad.
 
 ## TITULO QUINTO.
+
+### CAPITULO UNICO.
+
+DISPOSICIONES GENERALES.
 
 ###### ARTICULO 105.
 
@@ -1604,3 +1644,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Sala Especializada en Adolescentes resolverá los recursos de apelación e inconformidad a que se refiere la ley de la materia unitaria, y se integrará con dos Magistrados más, además del Presidente, para el único efecto de resolver los recursos de casación y el procedimiento de reconocimiento de inocencia a que se refiere el Código Procesal Penal para el Estado.
+
+TERCERO.- Los órganos que se instituyen por virtud de este Decreto, deberán funcionar al inicio de la vigencia de la Ley de Justicia para Adolescentes, para lo cual las dependencias de los Poderes relacionados, adoptarán las medidas reglamentarias y de infraestructura para tal efecto.
+
+CUARTO.- Los Juzgados Especializados en adolescentes, con residencia en el Distrito Judicial del Centro, tendrán competencia en todo el Estado, hasta en tanto se instalen en otros Distritos Judiciales, en cuyo caso el Pleno del Tribunal Superior de Justicia determinará la jurisdicción territorial que les corresponda.
