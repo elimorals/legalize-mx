@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-117
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-16"
-last_updated: "2004-04-12"
+last_updated: "2006-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 16 de octubre de 1999.
 
@@ -47,9 +47,11 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 El Poder Judicial del Estado Libre y Soberano de Oaxaca, desarrolla sus funciones en forma separada, pero concomitante y armónicamente con los otros Poderes en los términos del artículo 30 de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 2.
 
-Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las Leyes en los asuntos del orden civil, familiar y penal del fuero común, lo mismo que del orden federal, en los casos en que expresamente los ordenamientos legales que resulten aplicables les confieran jurisdicción.
+Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las Leyes en los asuntos del orden civil, familiar, de adolescentes y penal del fuero común y en jurisdicción concurrente del orden federal, lo mismo que del orden federal, en los casos en que expresamente los ordenamientos legales que resulten aplicables les confieran jurisdicción.
 
 ###### ARTICULO 3.
 
@@ -61,9 +63,13 @@ La función jurisdiccional de Poder Judicial del Estado Libre y Soberano de Oaxa
 
 I. El Pleno del Honorable Tribunal Superior de Justicia del Estado;
 
-II. Las Salas Centrales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-III. La Sala Auxiliar;
+II. Las Salas Especializadas en razón de la materia;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
+III. Los Juzgados de Primera Instancia en las materias civil, penal, familiar, de garantía y juicio oral, especializados para adolescentes, de ejecución de sanciones y, mixtos;
 
 IV. Las Salas Regionales y Tribunales Unitarios;
 
@@ -257,11 +263,15 @@ XXIV. Las demás que señale esta Ley, su Reglamento y otros ordenamientos que r
 
 ### CAPITULO IV. DE LAS SALAS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 16.
 
-El Tribunal Superior de Justicia, funcionará con las Salas que sean necesarias para la pronta y expedita administración de justicia. Las Salas podrán ser Penales, Civiles, Familiares o Mixtas y se enumeraran progresivamente según lo acuerde el Pleno. Cada una de las Salas se integrará con un número impar de Magistrados, quienes en la primera sesión del mes de enero de cada año, elegirán a quien las presida. El Presidente de Sala durará en su cargo un año y podrá ser reelecto.
+El Tribunal Superior de Justicia, funcionará con las Salas que sean necesarias para la pronta y expedita administración de justicia. Las Salas podrán ser Especializadas en razón de la materia, y se enumeraran progresivamente según lo acuerde el Pleno. Cada una de las Salas se integrará con un número impar de Magistrados, quienes en la primera sesión del mes de enero de cada año, elegirán a quien las presida. El Presidente de Sala durará en su cargo un año y podrá ser reelecto.
 
 Las ausencias del Magistrado Presidente de Sala serán cubiertas por el Magistrado Decano de cada Sala.
+
+Las Salas del Honorable Tribunal Superior de Justicia del Estado, conocerán de los recursos y medios de impugnación que la ley de la materia determine, en los procesos seguidos en los Juzgados de todo el Estado.
 
 ###### ARTICULO 17.
 
@@ -433,15 +443,19 @@ III. Las demás que les señale esta Ley y el Reglamento. En ausencia del Ejecut
 
 ### CAPITULO I. DEL TERRITORIO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 ## TITULO TERCERO. DE LOS DISTRITOS JUDICIALES
 
 ### CAPITULO II. DE LOS JUZGADOS
 
 ###### ARTICULO 32.
 
-En el Estado habrá los Juzgados Penales, Civiles, Familiares y Mixtos que sean necesarios para la pronta y expedita administración de justicia.
+En el Estado habrá los Juzgados Penales, Civiles, Familiares, Especializados de Adolescentes, de Ejecución de Sanciones y Mixtos que sean necesarios para la pronta y expedita administración de justicia.
 
-Los Juzgados se identificarán por el orden que les corresponda, según la materia y por el lugar de su residencia; podrán agruparse en Distritos Judiciales si fuere necesario.
+Los Juzgados de Adolescentes serán de Garantía, de Juicio y de Ejecución de Medida Sancionadora.
+
+Los Juzgados se identificarán por el orden que les corresponda, según la materia y por el lugar de su residencia; podrán agruparse en distritos judiciales en la forma y términos que determine el Pleno.
 
 ###### ARTICULO 33.
 
@@ -1102,3 +1116,13 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 12 DE ABRIL DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del estado Libre y Soberano de Oaxaca.
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Sala Especializada de Adolescentes resolverá los recursos de apelación e inconformidad a que se refiere la ley de la materia de manera unitaria, y se integrará con dos Magistrados más, además del Presidente, para el único efecto de resolver los recursos de casación y el procedimiento de reconocimiento de inocencia a que se refiere el Código Procesal Penal para el Estado.
+
+TERCERO.- Los órganos que se instituyen por virtud de este Decreto, deberán funcionar al inicio de la vigencia de la Ley de Justicia para Adolescentes, para lo cual las dependencias de los Poderes relacionados, adoptarán las medidas reglamentarias y de infraestructura para tal efecto.
+
+CUARTO.- Los Juzgados Especializados en adolescentes, con residencia en el Distrito Judicial del Centro, tendrán competencia en todo el Estado, hasta en tanto se instalen en otros Distritos Judiciales, en cuyo caso el Pleno del Tribunal Superior de Justicia determinará la jurisdicción territorial que les corresponda.
