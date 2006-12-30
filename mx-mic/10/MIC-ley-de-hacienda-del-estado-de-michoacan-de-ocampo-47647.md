@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-47647"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2005-12-28"
+last_updated: "2006-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 28 de diciembre de 2005.
 
@@ -471,9 +471,9 @@ II. El refrendo anual de calcomanía de circulación:
 
 a) Para vehículos cuyo modelo corresponda a los diez últimos años, incluido el de aplicación de la Ley de Ingresos del Estado, dentro de los primeros tres meses del año de calendario de que se trate; y
 
-> <small>(F. DE E., P.O. 26 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-b) Para vehículos cuyo modelo corresponda a más de diez años anteriores al de aplicación de la Ley de Ingresos del Estado, dentro del segundo trimestre del año de calendario de que se trate.
+b) Para vehículos cuyo modelo corresponda a más de diez años anteriores al de aplicación de la Ley de Ingresos del Estado, dentro de los primeros cuatro meses del año de que se trate.
 
 > <small>(F. DE E., P.O. 26 DE ENERO DE 2006)</small>
 
@@ -756,3 +756,11 @@ PRESIDENTE.- DIP. GUILLERMO VALENCIA REYES.-SECRETARIA.-DIP. MINERVA BAUTISTA G�
 En cumplimiento a lo dispuesto por la fracción I, del articulo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 21 días del mes de diciembre del año 2005 dos mil cinco.
 
 SUFRAGIO EFECTIVO NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día 1º de enero de 2007, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
