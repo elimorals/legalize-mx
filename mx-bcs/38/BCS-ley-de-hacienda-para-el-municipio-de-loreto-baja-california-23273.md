@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-loreto-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2005-12-28"
+last_updated: "2006-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -185,25 +185,29 @@ El Impuesto Predial sobre la propiedad urbana se causara:
 
 a). A razón de 3.75 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
 
-En lo que corresponde al área de Nopoló, Puerto Escondido y demás zonas susceptibles de desarrollo turístico se aplicará una tasa a razón del 6.5 al millar anual.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
 b). A razón de 6.5 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
-En lo que corresponde al área de Nopoló, Puerto Escondido y demás zonas susceptibles de desarrollo turístico se aplicará una tasa a razón del 13 al millar anual.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
-
-c). A razón de 26 al millar sobre el valor catastral de los predios no edificados o baldíos.
+c).- A razón de 26 al millar sobre el valor catastral de los previos no edificados o baldíos, incrementándose actualmente en un 2.6 al millar hasta en tanto no sea Construida una edificación. La tasa no excederá de 52 al millar.
 
 d). A razón del 13 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
-Se considerará lote baldío, aquel que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+Se considera lote baldío, aquél que teniendo construcciones, estas representen menos del 30% del valor catastral del terreno.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 Los terrenos que cuenten con construcciones menores tales como palapas y/o bardas, casetas de vigilancia con buena calidad de construcción y/o acabados, no se consideraran lotes baldíos para efectos de cobro del impuesto predial.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+El valor del terreno de un predio regular se determinará multiplicando la superficie obtenida por el valor unitario fijado a la calle de su ubicación y tratándose de predios ubicados en esquina, el valor de éstos se determinará multiplicando su superficie, por el mayor de los valores unitarios fijados a las calles que forman la esquina.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -265,7 +269,9 @@ En el caso de adquisición por donación o sucesión entre cónyuges o parientes
 
 Al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el impuesto correspondiente a la adquisición por causa de muerte se calculara aplicando la tasa prevista en el primer párrafo de este Articulo, independientemente de que cause por el cesionario, por la sucesión o por el adquirente. En el caso de que un inmueble este en proceso de transmisión por herencia pero no este completado el tramite y se realice su enajenación por el heredero, este deberá pagar el impuesto aplicando una tasa del 2% sobre el valor del inmueble después de reducirlo en cinco veces el Salario Mínimo General de la zona elevado al año.
 
-Se considera vivienda de interés social aquella que su costo de adquisición no rebase 4,450 veces el salario mínimo general de la zona. Siempre y cuando el adquirente o su cónyuge demuestren no ser propietarios de otro inmueble.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+Se considera vivienda de interés social aquélla que su costo de adquisición no rebase 5000 veces el salario mínimo general de la zona. Siempre y cuando el adquirente o su cónyuge demuestren no ser propietarios de otro inmueble.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -359,7 +365,9 @@ VIII. Los notarios o autoridades ante quienes se celebren los contratos o actos 
 
 En el caso de construcciones o contratos de compraventa No Manifestados se hará el cobro de una multa de 50 salarios mínimos a la fecha del descubrimiento de la ocultación, salvo que el interesado compruebe que la omisión fue por causas ajenas a el.
 
-El contribuyente podrá pagar el impuesto por anticipado.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+En el caso de no realizarse el pago correspondiente en los términos previstos por este artículo, la autoridad municipal independientemente de que exija el pago de las contribuciones respectivas y sus demás accesorios, aplicará una multa del 3.0 % sobre el monto a pagar, por cada mes transcurrido contados a partir de la fecha de su vencimiento.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -375,9 +383,15 @@ Cuando por el avalúo practicado, ordenado o tomado en consideración por la aut
 
 Las autoridades fiscales se reservan el derecho de ejercer sus facultades de comprobación sobre los avalúos periciales, aun cuando hayan sido considerados con anterioridad por la autoridad municipal.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+El Registro Público de la Propiedad no inscribirá acto alguno, contrato o documento traslativo de dominio de bienes inmuebles, mientras no se exhiba el comprobante de pago del impuesto que establece este capítulo, o de que no se causó el impuesto porque dicha operación se encuentra en alguno de los supuestos que se establecen en esta Ley.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 23.
 
-(DEROGADO, B.O. 28 DE DICIEMBRE DE 2005)
+Para efectuar la reducción a que se refiere el Artículo 18 de esta Ley, se aplicará el salario mínimo general de la zona económica en que se encuentra localizado el Municipio correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el Artículo 21 de esta Ley.
 
 ###### Artículo 24.
 
@@ -625,45 +639,23 @@ a). Cuota fija para toda clase de inscripciones, inclusive las de valor determin
 
 b). Por el valor de la operación...2.5 al millar.
 
-> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
-Por la inscripción o registro de documentos
-
-públicos, por virtud de los cuales se transmitan
-
-los derechos hereditarios de bienes muebles,
-
-se cobrará el doble de lo establecido en la
-
-fracción anterior.
+Por la inscripción o registro de documentos públicos, por virtud de los cuales se trasmitan los derechos hereditarios de bienes inmuebles, se cobrará el doble de lo establecido en esta fracción.
 
 III. Por la inscripción de la escritura constitutiva o de los aumentos de capital social de sociedades y asociaciones civiles, sobre el importe del capital social de los aumentos del mismo, en los términos de la fracción anterior.
 
 Cuando no tengan capital establecido o se trate de reformas al acta constitutiva...10 días salario mínimo.
 
-> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
-IV. Por la inscripción sobre bienes inmuebles.
+IV.- Por la adscripción sobre bienes inmuebles de toda clase de gravamen, por contrato, resolución judicial, por disposición testamentaria, o por cualquier título mediante los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos de dominio; y todos aquellos que limiten la propiedad o posesión ordinaria de inmuebles; las de embargo, cédulas hipotecarias, servidumbres, fianza y reserva de dominio, se cobrará lo siguiente:
 
-a). De toda clase de gravamen, por
+a).- Cuota fija por toda clase de inscripción 8 días salario
 
-contrato, por resolución judicial, por
+mínimo
 
-disposición testamentaria. o por cualquier
-
-título mediante los cuales se adquieran,
-
-transmitan, modifiquen, o extingan derechos
-
-reales sobre inmuebles, distintos de dominio;
-
-y todos aquellos que limiten la propiedad o
-
-posesión ordinaria de inmuebles; las de
-
-embargo, cédulas hipotecarias, servidumbres
-
-y fianza 8 días de salario mínimo
+b).- Por valor de la operación 1.5 al millar
 
 V. Inscripciones de poderes, substitución o revocación de los mismos en forma total o parcial por cada poderante (sic) o apoderado...5 días salario mínimo.
 
@@ -716,6 +708,18 @@ en horas extraordinarias. 8 días salario mínimo
 XII. Por depósito de cualquier otro documento...5 días salario mínimo.
 
 XIII. Las inscripciones de fraccionamientos de terrenos, debidamente autorizados, por cada lote el 50% de las cuotas que señala la Fracción II del presente Artículo.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+Tratándose de inscripciones de Constitución
+
+de Régimen de propiedad en condominio
+
+debidamente dictaminado y autorizados,
+
+por cada unidad de lote o superficie indivisa, 5 días salario
+
+se cobrará mínimo
 
 > <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -945,9 +949,15 @@ XXI. Ratificaciones de documentos y firmas ante el Registrador...5 días salario
 
 XXII. Búsqueda de datos y revisión de libros para informes y certificaciones...3 días salario mínimo.
 
-XXIII. Expedición de certificados relativos a constancia de registro...5 días salario mínimo.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
-b) Por cada hoja adicional...1 día salario mínimo.
+XXIII.- Expedición de certificados relativos
+
+al registro de sociedades mercantiles 5 días salario
+
+Mínimo
+
+b).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2006)
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -1139,7 +1149,9 @@ I.- Registro de nacimientos:
 
 a). En horas inhábiles, en la oficina 2 días salario mínimo.
 
-b). Fuera de la oficina 10 días salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+b). Fuera de la Oficina 15 días salario mínimo.
 
 > <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -1161,23 +1173,63 @@ c) Reconocimientos 2 días de salario mínimo.
 
 III.- Matrimonios:
 
-a) En horas hábiles en oficina 1 día de salario mínimo
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
-b). En horas inhábiles en la oficina 3 días de salario mínimo.
+a).- En horas hábiles en la oficina 2 días salario
 
-c) Fuera de las oficinas (a domicilio) 2 días de salario mínimo.
+mínimo
 
-d). Registro de matrimonios contraídos por
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
-mexicanos fuera de la República 15 días salario mínimo.
+b).- En horas inhábiles en la oficina 6 días salario
 
-e). Registro de matrimonios contraídos
+mínimo
 
-por extranjeros fuera de la República 15 días salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
-f) Registro de nacimiento de hijos mexicanos
+c).- En horas inhábiles fuera de la oficina 15 días salario
 
-nacidos en el extranjero 5 días de salario mínimo
+mínimo
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+d).- En horas inhábiles fuera de la oficina 20 días salario
+
+mínimo
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+e).- Registro de matrimonios contraído por 6 días salario
+
+extranjeros en horas hábiles en la oficina mínimo
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+f).- Registro de matrimonios contraídos por 25 días salario
+
+extranjeros en horas inhábiles mínimo
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+g).- Registro de matrimonios contraídos por
+
+extranjero con ciudadano mexicano (a), en 6 días salario
+
+horas hábiles mínimo
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+h).- Registro de matrimonios contraídos por
+
+extranjero con ciudadano mexicano (a), en 25 días salario
+
+horas inhábiles mínimo
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+i).- Por asiento de resolución judicial de 5 días salario
+
+cambio de régimen matrimonial mínimo
 
 Cualquiera de los actos anteriores que requieran tramitación especial adicional se cobrara 5 salarios mínimos
 
@@ -1185,25 +1237,29 @@ Cualquiera de los actos anteriores que requieran tramitación especial adicional
 
 IV.- Divorcios:
 
-a) Por el divorcio administrativo contemplado en
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
-el artículo 278 del Código Civil vigente 10 días de salario mínimo
+a).- Por el divorcio administrativo contemplado 20 días salario
 
-b) Por el registro de divorcio dictado por la
+en el Artículo 278 del Código Civil Vigente mínimo
 
-Autoridad Judicial: 10 días de salario mínimo
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
-(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
+b).- Por el registro de divorcio dictado 10 días salario
 
-V.- Actas de supervivencia levantadas
+por la Autoridad Judicial mínimo
 
-a domicilio 2 día de salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+V.- Actas de supervivencia levantadas a 1 días salario
+
+domicilio mínimo
 
 > <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 V (sic). Cualquier otro acto del Registro Civil 1 día salario mínimo.
 
-VI.- Expedición de actas de nacimiento 50% día salario mínimo.
+VII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2006)
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -1327,11 +1383,13 @@ El pago de los derechos a que se refieren los Artículos anteriores, se hará al
 
 Las personas que posean fosa a perpetuidad en los panteones Municipales, podrán inhumar a otros cadáveres siempre que haya vencido el término que señalen las Leyes y reglamentos para la exhumación.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 69.
 
-El ayuntamiento solo concederá licencias para la exhumación y traslado de cadáveres o restos, siempre que se satisfagan previamente los requisitos de salubridad y se hayan pagado los derechos del Artículo 72 de esta Ley.
+El ayuntamiento sólo concederá licencias para la exhumación y traslado de cadáveres o restos, siempre que se satisfagan previamente los requisitos de salubridad y se hayan pagado los derechos del Artículo 66 de esta Ley.
+
+A quien teniendo obligación de dar aviso al Oficial del Registro Civil en términos de lo dispuesto por el artículo 126 del Código Civil vigente en el Estado, dentro de las veinticuatro horas siguientes al fallecimiento y este no lo realice, se le sancionará al responsable con multa de 20 a 50 días de salario mínimo.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1345,9 +1403,13 @@ El derecho relativo a la utilización de mesa de matanza Municipal, serán pagad
 
 T A R I F A :
 
-I. Ganado vacuno, equino, porcino, lanar y asnal por cada uno...1 días (sic) salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
-II. Ganado caprino, por cada uno...50% de un salario mínimo.
+I. Ganado vacuno, equino, porcino, y asnal 1 días salario por cada uno mínimo
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+II. Ganado caprino, lanar por cada 15% de salario Uno mínimo
 
 III. Si se sacrifican entre una y cincuenta cabezas...10% de un salario mínimo por cabeza.
 
@@ -3050,3 +3112,7 @@ Artículo Segundo.- Se derogan todas las disposiciones que contravengan a la pre
 Artículo Tercero.- Se deja sin efecto la facultad otorgada a los directores de los consejos operativos de los sistemas de agua potable y alcantarillado para fijar las tarifas de agua potable.
 
 Artículo Cuarto.- Se exhorta al Municipio de Loreto Baja California Sur, a que cumpla con el artículo Quinto Transitorio del Decreto de Reforma del Artículo 115 Constitucional, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1999 a efecto de que realice las adecuaciones correspondientes a los valores unitarios del suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, para que sean equiparables a los valores de mercado.
+
+P.O. 31 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
