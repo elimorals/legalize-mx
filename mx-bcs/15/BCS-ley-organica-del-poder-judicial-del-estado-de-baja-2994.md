@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "2006-10-05"
+last_updated: "2006-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -1331,13 +1331,23 @@ Las cantidades que reciba el Fondo en los términos del artículo anterior será
 
 El patrimonio del Fondo se destinará:
 
-I. A sufragar los gastos que origine su administración;
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
-II. A la adquisición de bienes para el Tribunal Superior de Justicia y Órganos Auxiliares de la Administración de Justicia;
+I.- A reparar el daño cuando se dicte sentencia que así lo ordene o cuando el indiciado o inculpado se sustraiga a la acción de la justicia, siempre y cuando se hubiese garantizado mediante fianza dicha reparación;
 
-III. A la capacitación y mejoramiento profesional de los integrantes del Poder Judicial y Órganos Auxiliares de la Administración de Justicia; y
+II. A sufragar los gastos que origine su administración;
 
-IV. Para otorgar estímulos económicos y sociales a la planta de servidores públicos del Poder Judicial.
+III. A la adquisición de bienes para el Tribunal Superior de Justicia y Órganos Auxiliares de la Administración de Justicia;
+
+IV. A la capacitación y mejoramiento profesional de los integrantes del Poder Judicial y Órganos Auxiliares de la Administración de Justicia; y
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+V. Para otorgar estímulos económicos y sociales a la planta de servidores públicos del Poder Judicial, con excepción de los magistrados.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+Los depósitos e intereses obtenidos por garantías de reparación del daño, deberán destinarse al fin contemplado en la fracción I. Los depósitos por otros conceptos se destinarán de la siguiente manera: el 50% para estímulos económicos de conformidad a lo establecido en la fracción V, y el 50% para capacitación y mejoramiento profesional, adquisición de bienes y administración del Fondo.
 
 ###### ARTICULO 116.
 
@@ -2640,3 +2650,7 @@ B.O. 11 DE JULIO DE 2006.
 B.O. 5 DE OCTUBRE DE 2006.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
