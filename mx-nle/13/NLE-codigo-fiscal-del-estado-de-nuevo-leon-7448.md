@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2006-10-16"
+last_updated: "2006-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -161,13 +161,19 @@ I.- Tratándose de personas físicas:
 
 A).- El local en que se encuentre el principal asiento de sus negocios, cuando realizan actividades empresariales.
 
-B).- El local que utilicen como base fija para el desempeño de sus actividades, cuando no realicen las actividades señaladas en el inciso anterior.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
 
-C).- El lugar donde tengan el asiento principal de sus actividades en los demás casos.
+B).- El lugar que utilicen como base para el desempeño de sus actividades, cuando no realicen las actividades señaladas en el inciso anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+C).- En los demás casos, el lugar que ocupen como casa habitación.
 
 II.- En el caso de personas morales:
 
 A).- El local en donde se encuentre la administración principal del negocio, cuando sean residentes en la Entidad; en su defecto, donde se encuentre el principal establecimiento.
+
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2007)</small>
 
 B).- El lugar donde se establezcan, si se trata de sucursales o agencias de empresas establecidas fuera del Estado o de negociaciones extranjeras. En el caso de existir varios establecimientos, el local en donde se encuentre la administración principal del negocio en la Entidad, o en su defecto el que designen.
 
@@ -193,9 +199,11 @@ En los casos en que una sociedad entre en liquidación o sea fusionada, el ejerc
 
 Cuando una sociedad no se encuentre en los supuestos del párrafo anterior y desee anticipar la fecha de terminación de sus ejercicios deberá presentar aviso ante las autoridades fiscales. Tratándose de la segunda y posteriores ocasiones en que se desee efectuar dicho cambio, deberán haber transcurrido cuando menos cinco años desde el último cambio, para que éste se pueda efectuar con la simple presentación de un aviso.
 
+> <small>(REFORMADO PRIMER PARRAFO, 31 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 13.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de Enero; el 5 de Febrero; el 21 de Marzo; el 1o. de Mayo; el 1o. de Agosto de cada seis años, cuando corresponda a la transmisión del poder Ejecutivo Local; el 1o. de Septiembre; el 16 de Septiembre; el 12 de Octubre; el 20 de Noviembre; el 1o. de Diciembre de cada seis años, cuando corresponda a la transmisión del poder Ejecutivo Federal; y, el 25 de Diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o. y 5 de mayo; el 3 de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Local; el 16 de septiembre; el 12 de octubre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
 
 Tampoco se contará en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales. No son vacaciones generales si se llegan a otorgar en forma escalonada.
 
@@ -591,6 +599,12 @@ Cuando se inicie el ejercicio de facultades de comprobación, únicamente se pod
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del Artículo 22 de este Código, a partir de la fecha en que se debió hacer el pago.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 33 Bis.
+
+La Administración Pública Estatal y Paraestatal, así como la Administración Pública Municipal y Paraestatal de los Municipios, en el ámbito de su competencia, contratarán sus adquisiciones, arrendamientos, servicios u obra pública, únicamente con los proveedores que acrediten encontrarse al corriente en el cumplimiento de sus obligaciones fiscales, tanto federales, como estatales y municipales.
+
 ## TITULO III. De las Facultades de las Autoridades Fiscales
 
 ### CAPITULO UNICO
@@ -612,6 +626,10 @@ V.- Los Presidentes y Tesoreros Municipales, así como los Directores, Jefes o R
 VI.- Los funcionarios federales, estatales y municipales, cuando los convenios celebrados así lo establezcan.
 
 VII.- Quienes conforme a las disposiciones Estatales o Municipales, tengan facultades para administrar contribuciones.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+VIII.- El Director del Instituto de Control Vehicular, así como los titulares de las unidades administrativas y los jefes o encargados de las oficinas recaudadoras del propio Instituto.
 
 ###### ARTICULO 35.
 
@@ -1197,19 +1215,13 @@ Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a
 
 En el caso de que la multa se pague dentro del mes siguiente a la fecha en que se le notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 25% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTICULO 76.
 
-Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
+Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicará una multa del 75% al 100% de las contribuciones omitidas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-I.- Hasta el 75% de las contribuciones omitidas cuando el infractor las pague junto con sus accesorios dentro de los treinta días siguientes a la fecha en que surta efectos la notificación de la resolución que determinó el monto de las mismas. No será aplicable esta fracción cuando en la comisión de la infracción se dé alguno de los supuestos de la fracción II del artículo anterior.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
-
-II.- Hasta el 200% de las contribuciones omitidas, en los demás casos.
-
-El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Finanzas y Tesorería General del Estado.
+Si el infractor paga las contribuciones omitidas junto con sus accesorios después de que se inicie el ejercicio de las facultades de comprobación y hasta antes de que se le notifique el acta final o el oficio de observaciones, según sea el caso pagará una multa equivalente al 20% de las contribuciones omitidas. Si el pago se realiza antes de la notificación de la resolución que determine el monto de las contribuciones omitidas pagará una multa equivalente al 30% de las contribuciones omitidas.
 
 ###### ARTICULO 77.
 
@@ -1944,6 +1956,10 @@ Se podrá practicar embargo precautorio para garantizar el interés fiscal, ante
 El embargo quedará sin efecto si la autoridad no emite, dentro del plazo de tres meses contados desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá procedimiento administrativo de ejecución conforme a las disposiciones de este Capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución. Si el particular garantiza el interés fiscal en los términos del artículo 139, se levantará el embargo.
 
 En ningún caso se aplicará el procedimiento administrativo de ejecución para cobrar créditos derivados de productos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+La Secretaría de Finanzas y Tesorería General del Estado podrá habilitar a terceros para que realicen las notificaciones que se requieran para el cobro de los créditos fiscales cumpliendo con las formalidades previstas en este Código y conforme a las reglas generales que establezca al efecto.
 
 ###### ARTICULO 144.
 
@@ -2860,3 +2876,7 @@ Artículo Segundo.- Los procedimientos promovidos con anterioridad al inicio de 
 P.O. 16 DE OCTUBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del año 2007.
