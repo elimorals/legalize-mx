@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transito-terrestre-del-estado-y-municipios-de-baja-44507
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2005-07-10"
+last_updated: "2006-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSITO TERRESTRE DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -238,6 +238,10 @@ III. Modificar los partes informativos que hayan sido levantados bajo croquis en
 ###### ARTÍCULO 18.
 
 Para efectos de esta Ley se entenderán por vías públicas: las avenidas, calzadas, plazas, calles, parques, andadores, caminos, callejones de acceso y sus banquetas, así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, los puentes que unan vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+Para los efectos de este artículo, los accesos a las playas, denomínense caminos vecinales, brechas, desviaciones, veredas o senderos, en términos de lo ordenado por el Código Civil para el Estado Libre y Soberano de Baja California Sur, son servidumbres legales de paso.
 
 ###### ARTÍCULO 19.
 
@@ -912,3 +916,7 @@ Los municipios del Estado a través de sus ayuntamientos deberán convenir con e
 ###### ARTICULO CUARTO.
 
 Las placas para la circulación vehicular que fueron dotadas con anterioridad a esta reforma, estarán vigentes en tanto los ayuntamientos cumplen con lo dispuesto en el artículo 25 de la ley y en el transitorio segundo del presente Decreto.
+
+B.O. 31 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
