@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2006-12-28"
+last_updated: "2006-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2006.
 
-Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
+Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 1 de enero de 1984.
 
 RODOLFO LANDEROS GALLEGOS, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 
@@ -615,13 +615,43 @@ El presente impuesto se causará por la tenencia o uso de automóviles, motocicl
 
 #### SECCION CUARTA. Del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 33.
 
 Este impuesto se causará y pagará de acuerdo a la siguiente:
 
-(VEASE TABLA ANEXA)
+A. Motocicletas de cualquier $85.00
+
+B. Demás vehículos:
+
+Determinarán el Impuesto a pagar aplicando el porcentaje de reducción establecido en la siguiente tarifa, dependiendo de los años de antigüedad que tenga el vehículo.
+
+Años de Impuesto Factor de
+
+antigüedad Reducción
+
+de Impuesto
+
+por Antigüedad
+
+Límite Límite
+
+Inferior Superior
+
+11 21 235 0
+
+22 27 235 0.6
+
+28 En adelante 235 0.74
+
+Cuando el contribuyente de este impuesto sufra el robo, descompostura parcial que implique la no utilización del vehículo o pérdida total del vehículo registrado, pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo.
+
+En los casos de robo del automóvil, descompostura parcial o pérdida total por accidente, el propietario del mismo podrá acreditar la parte de la tenencia pagada no usada en el ejercicio fiscal de que se trate para el pago de este impuesto del año inmediato siguiente, presentando los documentos que acrediten tal situación.
+
+Las compañías aseguradoras no podrán acreditar el impuesto correspondiente, tratándose de vehículos recuperados y vendidos, que fueron propiedad de sus asegurados.
+
+El importe a acreditar no será sujeto de devolución.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1574,3 +1604,9 @@ El presente Decreto entrará en vigencia al día siguiente al de su publicación
 ###### ARTICULO SEGUNDO.
 
 Las referencias a los fideicomisos públicos en las leyes, decretos y demás normativa del Estado de Aguascalientes, se entenderán hechas exclusivamente a los fideicomisos a que se refiere el primer párrafo, de la Fracción III del Artículo 2°, de la Ley de Control de Entidades Paraestatales.
+
+P.O. 31 DE DICIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entra en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
