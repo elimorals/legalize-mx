@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2006-07-11"
+last_updated: "2006-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2006.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -5839,6 +5839,10 @@ Cuando para el mejor aprovechamiento del agua que se tiene derecho de disponer f
 
 El propietario de un predio enclavado entre otros ajenos sin salida a la vía pública, tiene derecho de exigir paso, para el aprovechamiento de aquélla, por los predios vecinos, sin que sus respectivos dueños puedan reclamarle otra cosa que una indemnización equivalente al perjuicio que les ocasione este gravamen.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
+Los accesos a las Playas Públicas del Estado, son servidumbres legales de paso, los Ayuntamientos del Estado tienen la obligación de exigir el que se respete este derecho, mismo que se regirá por los Reglamentos Municipales respectivos.
+
 ###### Artículo 1103.
 
 La acción para reclamar esta indemnización es prescriptible; pero aunque prescriba, no cesa por este motivo el paso obtenido.
@@ -5855,9 +5859,15 @@ Si el Juez califica el lugar señalado de impracticable o de muy gravoso al pred
 
 Si este lugar es calificado de la misma manera que el primero, el Juez señalará el que crea más conveniente, procurando conciliar los intereses de los dos predios.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1107.
 
-Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designará cual de los dos predios ha de dar el paso.
+Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designará cual de los predios ha de dar el paso.
+
+Los propietarios de los terrenos colindantes con la zona federal marítimo terrestre, terrenos ganados al mar o a cualquier otro depósito de aguas marítimas, deben permitir a la generalidad de las personas, cuando no existan vías públicas u otros accesos para ello, el libre transito y accesibilidad a dichos bienes de dominio público.
+
+Si existieren varios inmuebles por donde pueda darse el paso a dichos bienes de dominio público, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, a petición del municipio correspondiente, el Juez designará cual de los predios ha de dar el paso o bien, si la servidumbre se prestará de manera compartida y proporcional.
 
 ###### Artículo 1108.
 
@@ -15268,3 +15278,7 @@ B.O. 15 DE DICIEMBRE DE 2005.
 B.O. 11 DE JULIO DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
