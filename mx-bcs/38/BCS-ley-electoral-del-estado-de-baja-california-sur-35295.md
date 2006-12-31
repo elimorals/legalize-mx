@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-35295"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-20"
-last_updated: "2004-02-10"
+last_updated: "2006-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL. 10 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL. 31 DE DICIEMBRE DE 2006.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de noviembre de 2003.
 
@@ -2795,9 +2795,11 @@ Las autoridades harán constar la detención y su causa de manera fehaciente.
 
 El día de la jornada electoral, exclusivamente, pueden portar armas los miembros uniformados de las fuerzas públicas encargadas del orden, los que tendrán la obligación, a petición de los funcionarios electorales o de cualquier ciudadano, de desarmar a quien infrinja esta disposición.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+
 ###### ARTÍCULO 245.
 
-El día de la jornada electoral y el precedente, estará prohibida la venta de bebidas embriagantes y deberán de permanecer cerrados todos los establecimientos que únicamente se dediquen a la venta de éstas.
+El día de la elección y el precedente, a juicio de las autoridades municipales mediante acuerdo de cabildo y con arreglo a las disposiciones vigentes en la materia, se ordenará, cuando sea indispensable para preservar el orden de la jornada, el cierre de los establecimientos que expendan bebidas embriagantes.
 
 ###### ARTÍCULO 246.
 
@@ -3276,3 +3278,7 @@ C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 B.O. 10 DE FEBRERO DE 2004.
 
 ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El Presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
