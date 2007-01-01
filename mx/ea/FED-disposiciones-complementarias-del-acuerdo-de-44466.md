@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44466"
 country: "mx"
 rank: "otro"
 publication_date: "1999-04-19"
-last_updated: "2006-11-29"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44466&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,67 +19,43 @@ issue_date: "1999-03-23"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 6 (ARGENTINA, 2004)
 
-DECRETO PARA LA APLICACION DEL DECIMOQUINTO PROTOCOLO ADICIONAL AL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 6, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA DE ARGENTINA
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA REPUBLICA ARGENTINA, DURAZNOS EN ALMIBAR EXCLUSIVAMENTE ENLATADOS O ENVASADOS Y PRODUCTOS DE HIERRO Y ACERO, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CON LA PREFERENCIA ARANCELARIA ESTABLECIDA EN EL ANEXO III DEL DECIMOQUINTO PROTOCOLO ADICIONAL AL ACUERDO DE COMPLEMENTACION ECONOMICA No. 6, CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ARGENTINA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO PARA LA APLICACION DEL DECIMOQUINTO PROTOCOLO ADICIONAL AL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 6, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ARGENTINA, PUBLICADO EN EL D.O.F. DE 30 DE MARZO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 1 de enero de 2007.
 
-Decreto publicado en la Quinta Sección del Diario Oficial de la Federación, el miércoles 29 de noviembre de 2006.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
-
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o. y 14 de la Ley de Comercio Exterior, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos II-2 del Acuerdo de Complementación Económica No. 53; 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracciones III y V, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 2o. del Decreto por el que se dispone la importación de mercancías originarias y provenientes de los países miembros de la Asociación Latinoamericana de Integración; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
 Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración (ALADI);
 
-Que en el marco del Tratado de Montevideo 1980, los Gobiernos de los Estados Unidos Mexicanos y de la República Argentina suscribieron el 24 de octubre de 1986 el Acuerdo de Alcance Parcial de Complementación Económica No. 6 (ACE No. 6);
+Que en el marco del Tratado de Montevideo 1980, el 24 de agosto de 2006, los gobiernos de los Estados Unidos Mexicanos y de la República Argentina suscribieron el Decimoquinto Protocolo Adicional al Acuerdo de Complementación Económica No. 6 (ACE No. 6) mediante el cual se adopta el texto ordenado y consolidado del ACE No. 6;
 
-Que en el marco del Tratado de Montevideo 1980, los Gobiernos de los Estados Unidos Mexicanos y de la República Argentina suscribieron el 28 de noviembre de 1993 el Protocolo de Adecuación del ACE No. 6 mediante el cual se adecuó a la Nomenclatura de la ALADI (NALADISA) la clasificación de los productos negociados y se consolidó en un solo texto las disposiciones del ACE No. 6;
+Que los días 22 y 29 de noviembre de 2006 se publicaron en el Diario Oficial de la Federación, el Acuerdo por el que se da a conocer el Decimoquinto Protocolo Adicional al Acuerdo de Complementación Económica No. 6, suscrito entre los Estados Unidos Mexicanos y la República Argentina, y el Decreto para la aplicación del Decimoquinto Protocolo Adicional al Acuerdo de Complementación Económica No. 6, suscrito entre los Estados Unidos Mexicanos y la República Argentina;
 
-Que en el marco del Tratado de Montevideo 1980, los Gobiernos de los Estados Unidos Mexicanos y de la República Argentina han suscrito diversos Protocolos Adicionales posteriores al Protocolo de Adecuación, que establecen las preferencias arancelarias otorgadas por México a los bienes originarios de la República Argentina;
+Que de acuerdo a lo establecido en el Artículo 4 del Decimoquinto Protocolo Adicional al ACE No. 6, se incorporaron al Programa de liberación del Acuerdo las preferencias arancelarias que otorga la República Argentina a los Estados Unidos Mexicanos en el Anexo III;
 
-Que el 24 de agosto de 2006, los Gobiernos de los Estados Unidos Mexicanos y de la República Argentina suscribieron el Decimoquinto Protocolo Adicional al ACE No. 6 mediante el cual se adopta el texto ordenado y consolidado de dicho Acuerdo. La versión ordenada y consolidada de Decimoquinto Protocolo Adicional constituye las disposiciones vigentes que rigen el comercio bilateral de los Estados Unidos Mexicanos y de la República Argentina;
+Que es una estrategia prioritaria del Gobierno Federal fortalecer los mecanismos regionales de diálogo político y de integración económica, así como establecer los mecanismos adecuados para la administración de los acuerdos comerciales internacionales suscritos por los Estados Unidos Mexicanos, y
 
-Que el artículo 3 del Decimoquinto Protocolo Adicional del ACE No. 6 confirma la vigencia de los Anexos I y Il del Programa de Liberación, exclusivamente en lo que se refiere a las preferencias arancelarias pactadas con anterioridad en el Acuerdo original y sus protocolos, mismos que forman parte integrante del ACE No.6. Dichos Anexos conforman los Anexos I y II del texto ordenado y consolidado del ACE No. 6;
+Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
 
-Que de conformidad con lo previsto en el artículo 5 del Decimoquinto Protocolo Adicional se incorporaron al Programa de Liberación del Acuerdo las preferencias arancelarias que los Estados Unidos Mexicanos otorgan a la República Argentina en el Anexo IV, del texto ordenado y consolidado del ACE No. 6;
-
-Que de conformidad con el artículo 8 del Decimoquinto Protocolo Adicional del ACE No. 6, a la entrada en vigor de este Protocolo se dejarán sin efecto el Acuerdo de Complementación Económica entre los Estados Unidos Mexicanos y la República Argentina suscrito el 24 de octubre de 1986 y los protocolos adicionales a éste suscritos, a excepción de las preferencias pactadas en los Anexos I y II; el artículo 2 del Protocolo de Adecuación; y el Decimotercer Protocolo Adicional del ACE No. 6;
-
-Que el 22 de noviembre de 2006 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el Decimoquinto Protocolo Adicional al Acuerdo de Complementación Económica No. 6, suscrito entre los Estados Unidos Mexicanos y la República Argentina;
-
-Que para efectos exclusivamente de otorgar las preferencias pactadas en el Decimoquinto Protocolo Adicional del ACE No. 6, es necesario establecer la tabla de equivalencias de la Nomenclatura de la ALADI, denominada NALADISA 2002, con la de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, he tenido a bien expedir el siguiente:
-
-DECRETO
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA REPUBLICA ARGENTINA, DURAZNOS EN ALMIBAR EXCLUSIVAMENTE ENLATADOS O ENVASADOS Y PRODUCTOS DE HIERRO Y ACERO, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CON LA PREFERENCIA ARANCELARIA ESTABLECIDA EN EL ANEXO III DEL DECIMOQUINTO PROTOCOLO ADICIONAL AL ACUERDO DE COMPLEMENTACION ECONOMICA No. 6, CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ARGENTINA
 
 ###### ARTICULO 1.
 
-Para los efectos del presente Acuerdo se entenderá por:
+Los cupos para internar a la República Argentina, duraznos en almíbar, exclusivamente enlatados o envasados y productos de hierro y acero, originarios y procedentes de los Estados Unidos Mexicanos, con la preferencia arancelaria establecida en el Anexo III del Decimoquinto Protocolo Adicional al Acuerdo de Complementación Económica No. 6, suscrito entre los Estados Unidos Mexicanos y la República Argentina, de enero a diciembre de cada año, son los que se mencionan a continuación:
 
-I. Dólares.- Dólares de los Estados Unidos de América;
-
-II. TIGIE.- Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
-
-III. Importadores tradicionales.- Personas físicas y morales establecidas en los Estados Unidos Mexicanos que hayan registrado importaciones durante el ejercicio del cupo inmediato anterior;
-
-IV. Nuevos importadores.- Personas físicas y morales establecidas en los Estados Unidos Mexicanos que no hayan registrado importaciones durante el ejercicio del cupo inmediato anterior, y
-
-V. Franja Fronteriza Norte, Región Fronteriza y Región parcial del Estado de Sonora.- Conceptos establecidos en el artículo 2 fracciones I, II y III respectivamente del Decreto por el que se establece el Impuesto General de Importación para la Región Fronteriza y la Franja Fronteriza Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002.
-
-> <small>N. DE E. EL PRESENTE ARTICULO FUE DEROGADO POR AL ARTICULO CUARTO TRSNSITORIO DEL ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA ARGENTINA, PUBLICADO EN EL D.O.F. EL 14 DE FEBRERO DE 2007.</small>
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO 2.
 
-Los cupos para importar productos originarios y provenientes de la República Argentina con la preferencia arancelaria establecida en los artículos primero y tercero del Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo de Complementación Económica No. 6, publicado en el Diario Oficial de la Federación el 19 de abril de 1999, en el periodo del 3 de agosto de un año al 2 de agosto del año siguiente, son los que se enlistan a continuación:
-
-(VEASE ARCHIVO ANEXO)
+De conformidad con lo dispuesto en los artículos 24 segundo párrafo de la Ley de Comercio Exterior y 31 de su Reglamento, y con objeto de promover las corrientes comerciales entre los Estados Unidos Mexicanos y la República Argentina, se aplica a los cupos a que se refiere el presente Acuerdo, el procedimiento de asignación directa mediante la modalidad de "Primero en tiempo, primero en derecho".
 
 ###### ARTICULO 3.
 
-Los cupos para importar productos originarios y provenientes de la República de Cuba con la preferencia arancelaria establecida en los artículos primero y segundo del Decreto para la Aplicación del Acuerdo de Complementación Económica No. 51, suscrito entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Cuba, publicado en el Diario Oficial de la Federación el 13 de febrero de 2001 y en el Artículo Unico del Decreto para la Aplicación del Primer Protocolo Adicional al Acuerdo de Complementación Económica No. 51, suscrito entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Cuba, publicado en el Diario Oficial de la Federación el 24 de octubre de 2001, en el periodo del 4 de noviembre de un año al 3 de noviembre del año siguiente, son los que se enlistan a continuación:
-
-(VEASE ARCHIVO ANEXO)
+Podrán solicitar asignación de los cupos a que se refiere el presente Acuerdo, las personas físicas o morales establecidas en los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -95,14 +71,6 @@ Las mercancías originarias y procedentes de la República Argentina que se impo
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTÍCULO TERCERO.
-
-Los Estados Unidos Mexicanos otorgarán las preferencias pactadas a las importaciones originarias y procedentes de la República Argentina clasificadas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y Exportación listadas en la columna (2), con las acotaciones correspondientes, en su caso, de la columna (7), de conformidad con la canasta que establece el cronograma de desgravación de la columna (6) de la siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-Este artículo establece las bases para la aplicación de las preferencias arancelarias porcentuales otorgadas en el Anexo IV del Decimoquinto Protocolo Adicional del Acuerdo de Complementación Económica No. 6 suscrito entre los Estados Unidos Mexicanos y la República de Argentina.
-
 ###### ARTICULO 12.
 
 La solicitud de asignación de los cupos a que se refiere el punto 3 del artículo 7 del presente Acuerdo, deberá presentarse en el formato SE-03-014, “Solicitud de autorización para certificados de cupos de importación para la Franja Fronteriza Norte y Región Fronteriza” directamente en la Representación Federal que corresponda a cada una de éstas, quienes se encargarán de expedir el certificado de cupo respectivo, dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
@@ -111,23 +79,23 @@ La hoja de requisitos específicos se establece como anexo II a este Acuerdo.
 
 ###### ARTICULO 4.
 
-Los cupos para importar productos originarios y provenientes de la República de Panamá con la preferencia arancelaria establecida en el artículo primero del Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo de Alcance Parcial, suscrito entre los Estados Unidos Mexicanos y la República de Panamá, publicado en el Diario Oficial de la Federación el 23 de noviembre de 1998, en el periodo del 24 de abril de un año al 23 de abril del año siguiente, son los que se enlistan a continuación:
-
-(VEASE ARCHIVO ANEXO)
+La solicitud de asignación del cupo a que se refiere este Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud.
 
 ###### ARTICULO 5.
 
-Los cupos para importar durante el 1 de enero al 31 de diciembre de cada año, en el periodo 2005-2007 productos originarios y provenientes de la República del Perú con la preferencia arancelaria establecida en el artículo primero del Decreto para la aplicación del Acuerdo de Complementación Económica No. 8 suscrito entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno del Perú, publicado en el Diario Oficial de la Federación el 3 de septiembre de 2002, son los que se enlistan a continuación:
+Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo por embarque mediante la presentación del formato "Solicitud de certificados de cupo (obtenido por asignación directa)" SE-03-013-5, adjuntando la copia de la factura comercial y del conocimiento de embarque o carta de porte o guía aérea, según sea el caso, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
 
-(VEASE ARCHIVO ANEXO)
+Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes, deberá haber ejercido por lo menos una de las expediciones otorgadas, de forma tal que, durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin comprobar.
+
+La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será al 31 de diciembre de cada año.
 
 ###### ARTICULO 6.
 
-De conformidad con lo dispuesto en los párrafos segundo y tercero del artículo 24 de la Ley de Comercio Exterior y 31 del Reglamento de la Ley de Comercio Exterior, y con objeto de promover las corrientes comerciales entre los Estados Unidos Mexicanos y la República Argentina, la República de Cuba, la República del Perú y la República de Panamá, se aplican los siguientes mecanismos de asignación:
+Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría de Economía y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
 
-a) Para los cupos descritos en la fracción I de los artículos 2, 3, 4 y 5, y fracción III del artículo 3 del presente Acuerdo, se aplicará el procedimiento de asignación directa, y
+a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
 
-b) Para los cupos descritos en la fracción II de los artículos 2, 3, 4 y 5 del presente Acuerdo, se aplicará el mecanismo de asignación directa en la modalidad de “primero en tiempo, primero en derecho”.
+b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
 ###### ARTICULO 7.
 
@@ -185,34 +153,8 @@ Podrán solicitar asignación del cupo, las empresas ubicadas en la franja front
 
 La solicitud de asignación de los cupos a que se refiere el punto 1 del artículo 7 del presente Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que le corresponda. La Dirección General de Comercio Exterior emitirá la respuesta dentro de los siete días hábiles siguientes a la presentación de la solicitud.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Decreto entrará en vigor el primero de enero de 2007.
+UNICO.- El presente Acuerdo iniciará su vigencia el día de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Se derogan las disposiciones publicadas en el Diario Oficial de la Federación que a continuación se indican:
-
-- Artículo 13 del Decreto por el que se crean, modifican y suprimen diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y se actualiza la tasa aplicable de diversos Tratados y Acuerdos Comerciales suscritos por los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003.
-
-- Artículo 19 del Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial, de los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza y se reforman y adicionan los diversos que establecen la Tasa Aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de algunos países con los que México ha celebrado Tratados y Acuerdos Comerciales, publicado en el Diario Oficial de la Federación el 17 de marzo de 2005.
-
-- Artículos quinto y noveno del Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial, de los diversos por los que se establece el esquema de importación a la franja fronteriza Norte y región fronteriza y se reforman y adicionan los diversos que establecen la tasa aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de algunos países con los que México ha celebrado tratados y acuerdos comerciales, publicado en el Diario Oficial de la Federación el 7 de diciembre de 2005.
-
-- Artículo octavo del Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial, de los diversos por los que se establece el Esquema de Importación a la Franja Fronteriza Norte y Región Fronteriza y se reforman y adicionan los diversos que establecen la Tasa Aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de algunos países con los que México ha celebrado Tratados y Acuerdos Comerciales, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2006.
-
-TERCERO.- Se abrogan los decretos publicados en el Diario Oficial de la Federación que a continuación se indican:
-
-- Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo de Complementación Económica número 6, publicado en el Diario Oficial de la Federación el 19 de abril de 1999.
-
-- Decreto para la Aplicación del Decimosegundo Protocolo Adicional al Acuerdo de Complementación Económica No. 6 suscrito entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República Argentina, publicado en el Diario Oficial de la Federación el 4 de julio de 2001.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de noviembre de dos mil seis .- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
-
-D.O.F. 30 DE MARZO DE 2009.
-
-PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Las preferencias arancelarias establecidas en el presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del primero de julio de 2007.
-
-TERCERO.- A la entrada en vigor del presente Decreto se abroga el Decreto para la aplicación del Decimoquinto Protocolo Adicional al Acuerdo de Complementación Económica No. 6, suscrito entre los Estados Unidos Mexicanos y la República de Argentina, publicado en el Diario Oficial de la Federación el 29 de noviembre de 2006, así como cualquier otro que se oponga al presente Decreto.
+México, D.F., a 22 de diciembre de 2006.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
