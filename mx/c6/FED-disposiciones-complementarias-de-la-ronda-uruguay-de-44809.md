@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-de-la-ronda-uruguay-de-44809"
 country: "mx"
 rank: "otro"
 publication_date: "2005-01-24"
-last_updated: "2006-11-24"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,33 +19,25 @@ issue_date: "2005-01-21"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DE LA RONDA URUGUAY DE NEGOCIACIONES COMERCIALES MULTILATERALES Y, EL ACUERDO POR EL QUE SE ESTABLECE LA ORGANIZACION MUNDIAL DEL COMERCIO (MULTILATERAL, 1994)
 
-ACUERDO POR EL QUE SE DETERMINA LA CUOTA ADICIONAL DEL CONTINGENTE MINIMO PARA IMPORTAR EN 2006, LECHE EN POLVO ORIGINARIA DE LOS PAISES MIEMBROS DE LA ORGANIZACION MUNDIAL DEL COMERCIO
+ACUERDO POR EL QUE SE DA A CONOCER EL MECANISMO DE ASIGNACION DE LOS CONTINGENTES ARANCELARIOS PARA IMPORTAR EN 2007, CON LOS ARANCELES PREFERENCIALES ESTABLECIDOS EN EL MARCO DE LOS COMPROMISOS CONTRAIDOS POR MEXICO EN LA ORGANIZACION MUNDIAL DEL COMERCIO
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de noviembre de 2006.
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 1 de enero de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA, Secretario de Economía, con fundamento en los artículos I y II del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio y en la lista de concesiones de México (Lista LXXVII-México); en los artículos 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26 al 36 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos I y II del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio y en la parte III artículo 4 de su Acuerdo sobre la Agricultura; en la lista de concesiones de México (Lista LXXVII-México); artículo 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1o. y 5o. fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio fue aprobado por el Senado de la República el 13 de julio de 1994 y el Decreto Promulgatorio, publicado en el Diario Oficial de la Federación el 30 de diciembre de ese mismo año;
+Que el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio fue aprobado por el Senado de la República el 13 de julio de 1994, y publicado en el Diario Oficial de la Federación el 30 de diciembre de ese mismo año;
 
-Que en el artículo 4 parte III del Acuerdo sobre la Agricultura de la Organización Mundial del Comercio se establece que México aplicará como parte de sus compromisos de acceso a los mercados, contingentes arancelarios de importación a bienes originarios de los países miembros de la Organización Mundial del Comercio, conforme a lo dispuesto en la Lista LXXVII-México Sección I-B, en la que se incluye la leche en polvo o en pastillas;
+Que el Acuerdo sobre la Agricultura del Acta Final de la Ronda Uruguay de Negociaciones Comerciales Multilaterales, que forma parte del Acuerdo citado en el considerando anterior establece, en su parte III artículo 4, que México aplicará como parte de sus compromisos de acceso a mercados, contingentes arancelarios de importación a bienes originarios de los países miembros de la Organización Mundial del Comercio (OMC);
 
-Que la oferta nacional de leche y derivados lácteos es insuficiente, por lo que es necesario complementarla con importaciones a efecto de que las industrias que los utilizan en sus procesos productivos tengan acceso a insumos en condiciones similares a las que tienen en el exterior;
-
-Que el 29 de diciembre de 2005 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el contingente mínimo para importar en 2006, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio; así como su modificación publicada en el Diario Oficial de la Federación el 15 de marzo de 2006;
-
-Que los cupos mínimos de importación de leche en polvo negociados en los tratados de libre comercio fueron asignados en su totalidad para cubrir las necesidades de la empresa del sector público y de la industria, por lo que es necesario satisfacer sus requerimientos para el resto del año 2006;
-
-Que el Artículo Sexto Transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006 establece en la fracción IV, párrafo tercero, que los cupos adicionales equivalentes a un 46% de los cupos libres de arancel se asignarán directamente a la industria;
-
-Que la Secretaría de Economía y la Secretaría de Agricultura, Ganadería y Desarrollo Rural, Pesca y Alimentación están de acuerdo en el incremento de este cupo y han consultado a los productores y consumidores de la cadena productiva sobre dicha cuota adicional, y
+Que el procedimiento de asignación del contingente arancelario de importación de productos agropecuarios, es un instrumento de la política sectorial para promover la competitividad de las cadenas productivas de dichos productos, y
 
 Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
 
-ACUERDO POR EL QUE SE DETERMINA LA CUOTA ADICIONAL DEL CONTINGENTE MINIMO PARA IMPORTAR EN 2006, LECHE EN POLVO ORIGINARIA DE LOS PAISES MIEMBROS DE LA ORGANIZACION MUNDIAL DEL COMERCIO
+ACUERDO POR EL QUE SE DA A CONOCER EL MECANISMO DE ASIGNACION DE LOS CONTINGENTES ARANCELARIOS PARA IMPORTAR EN 2007, CON LOS ARANCELES PREFERENCIALES ESTABLECIDOS EN EL MARCO DE LOS COMPROMISOS CONTRAIDOS POR MEXICO EN LA ORGANIZACION MUNDIAL DEL COMERCIO
 
 ###### ARTICULO 1.
 
@@ -419,63 +411,35 @@ Medidas de salvaguardia de transición provisionales en circunstancias críticas
 
 ###### ARTICULO PRIMERO.
 
-La cuota adicional para importar en 2006, leche en polvo originaria de los países miembros de la Organización Mundial de Comercio es la que se especifica en el cuadro siguiente:
+Los contingentes arancelarios para importar en 2007, con los aranceles preferenciales establecidos para bienes originarios de los países miembros de la Organización Mundial del Comercio, que se señala en la Lista LXXVII-México, Sección I-A Aranceles y Sección I-B Contingentes Arancelarios, para efecto de lo dispuesto en la parte III, artículo 4 del Acuerdo sobre la Agricultura, publicado en el Diario Oficial de la Federación el 30 de diciembre de 1994, son los que se incluyen en el siguiente cuadro:
 
 (VEASE ARCHIVO ANEXO)
 
-Para la distribución de la cuota adicional se aplicará el mecanismo de asignación directa, conforme al cuadro siguiente:
+a/ De acuerdo a las listas negociadas por México LXXVII-México Sección I-A Aranceles y Sección I-B Contingentes arancelarios publicadas en el Diario Oficial de la Federación el 30 de diciembre de 1994.
 
-(VEASE ARCHIVO ANEXO)
-
-Para efecto del presente Acuerdo, se entenderá por transformación sustancial aquélla en donde la materia prima sufre un cambio importante a través de un proceso industrial, donde el producto que resulta de dicho proceso tiene características distintas a las de la materia prima de donde proviene. Dicha materia prima es un insumo importante dentro del proceso industrial pero no el único, además de que no puede comercializarse en el mismo estado físico en que se importa.
-
-La asignación de la cuota adicional se realizará a través de la Dirección General de Comercio Exterior (DGCE), conforme se señala en el artículo segundo de este Acuerdo.
-
-Para la aplicación general de los criterios que se mencionan en este Acuerdo, la Dirección General de Comercio Exterior, podrá solicitar la opinión de la Dirección General de Industrias Básicas (DGIB).
-
-La mercancía no podrá comercializarse en el mismo estado físico en que se importa.
+b/ La asignación de cantidades a EUA y Canadá se hace en virtud y de acuerdo con los términos y condiciones del Tratado de Libre Comercio de América del Norte.
 
 ###### ARTICULO SEGUNDO.
 
-Para las empresas con antecedentes de asignación directa de leche en polvo durante 2006, la asignación se realizará a través de la Dirección General de Comercio Exterior (DGCE), previa opinión de la Dirección General de Desarrollo de Mercados de ASERCA-SAGARPA quien la emitirá señalando el monto para asignar al beneficiario, en un plazo máximo de dos días hábiles contados a partir de que haya recibido la solicitud de la DGCE.
-
-La opinión emitida por ASERCA-SAGARPA considerará la captación de leche fluida nacional por cada empresa, los requerimientos de abasto complementario, así como los periodos en que los solicitantes obtuvieron las asignaciones de los cupos mínimos (OMC y TLCAN) de leche en polvo durante 2006.
-
-La asignación para este tipo de beneficiarios se realizará hasta agotar el monto del cupo disponible para estas empresas.
-
-Para las personas físicas o morales que utilicen la leche en polvo como insumo en sus procesos productivos, sin antecedentes de asignación en 2006, se distribuirán 1,000 toneladas, la DGCE asignará la cantidad menor entre el monto solicitado, el consumo anual auditado de leche y 100 toneladas, hasta agotar el volumen total previsto para empresas sin antecedentes.
-
-En ningún caso el monto asignado deberá ser superior a su consumo auditado.
+De conformidad con lo dispuesto en el párrafo segundo del artículo 24 de la Ley de Comercio Exterior y con el objeto de promover la competitividad de las cadenas productivas, se aplicará a los contingentes arancelarios de importación a que se refiere el presente instrumento, el procedimiento de asignación directa bajo la modalidad de “primero en tiempo, primero en derecho”.
 
 ###### ARTICULO TERCERO.
 
-Las solicitudes de asignación de la cuota adicional a que se refiere el presente Acuerdo, deberán presentarse, en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la Representación Federal de esta Secretaría que corresponda. El plazo máximo de resolución de dicha solicitud será de siete días hábiles contados a partir del día hábil siguiente a la fecha de recepción de la solicitud.
+En caso de que México de manera unilateral haya establecido o establezca aranceles-cupo con tasas menores a las establecidas en el mencionado Acuerdo sobre la Agricultura, no se podrán solicitar contingentes de importación al amparo del presente Acuerdo para realizar importaciones sujetas a dichas tasas.
 
 ###### ARTICULO CUARTO.
 
-Una vez asignado el monto para importar la cuota adicional, la Secretaría a través de la representación federal correspondiente, expedirá los certificados de cupo que correspondan, previa solicitud del interesado en el formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”. El plazo máximo de resolución de dicha solicitud será de siete días hábiles contados a partir del día hábil siguiente a la fecha de recepción de la solicitud.
-
-El certificado de cupo es nominativo e intransferible.
-
-La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será al 31 de diciembre de 2006, y será improrrogable.
+El presente Acuerdo no aplica sobre importaciones de leche en polvo.
 
 ###### ARTICULO QUINTO.
 
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en las representaciones federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica:
-
-Para el formato SE-03-011-1 “solicitud de asignación de cupo”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
-
-Para el formato SE-03-013-5 “Solicitud de certificados de cupo” (obtenido por asignación directa):
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
+Podrán solicitar asignación de los contingentes arancelarios de importación a que se refiere el presente instrumento, las personas físicas y morales establecidas en los Estados Unidos Mexicanos.
 
 ###### ARTICULO SEXTO.
 
 Para la obtención del cupo el solicitante deberá presentar en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda lo siguiente:
 
-a) Solamente la primera ocasión que se tramite la obtención del cupo a que se refiere el presente Acuerdo, se presentará la solicitud de asignación del cupo en el formato SE-03-011-1 “Solicitud de asignación de cupo”. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud. La vigencia de la constancia de asignación será al 31 de diciembre de 2006.
+a) Solamente la primera ocasión que se tramite la obtención del cupo a que se refiere el presente Acuerdo, se presentará la solicitud de asignación del cupo en el formato SE-03-011-1 “Solicitud de asignación de cupo”. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud. La vigencia de la constancia de asignación será al 31 de diciembre de 2007, y
 
 b) Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato SE-03-013-5, "Solicitud de certificados de cupo (obtenido por asignación directa)" adjuntando la copia de la factura comercial y del conocimiento de embarque o de la carta de porte o de la guía aérea, según sea el caso. La Representación Federal de la Secretaría de Economía, emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
 
@@ -485,7 +449,7 @@ Siempre que exista saldo en el cupo, el monto a expedir por solicitante será el
 
 Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes, deberá demostrar el ejercicio total de por lo menos una de las expediciones otorgadas, adjuntando copia del pedimento de importación. De forma tal que, durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin ejercer.
 
-La vigencia de los certificados de cupo a que se refiere este Acuerdo, será lo que sea primero entre 60 días naturales a partir de su expedición o al 31 de diciembre de 2006. El certificado de cupo es nominativo e intransferible.
+La vigencia de los certificados de cupo a que se refiere este Acuerdo, será lo que sea primero entre 60 días naturales a partir de su expedición o al 31 de diciembre de 2007. El certificado de cupo es nominativo e intransferible.
 
 ###### ARTICULO OCTAVO.
 
@@ -523,7 +487,7 @@ Para llevar a cabo el canje de los certificados de cupo los beneficiarios deber�
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2006.
+UNICO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
 
 ###### ARTICULO PRIMERO.
 
@@ -541,36 +505,4 @@ la Ronda Uruguay.
 
 Azúcar refinada. 2,954
 
-México, D.F., a 22 de noviembre de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-REQUISITOS PARA LA ASIGNACION DE LA CUOTA ADICIONAL DEL CONTINGENTE MINIMO PARA IMPORTAR EN 2006, LECHE EN POLVO ORIGINARIA DE LOS PAISES MIEMBROS DE LA ORGANIZACION MUNDIAL DEL COMERCIO CON ANTECEDENTES DE ASIGNACION EN 2006
-
-(0402.10.01 Y 0402.21.01)
-
-PAISES MIEMBROS DE LA OMC
-
-Asignación Directa
-
-(VEASE ARCHIVO ANEXO)
-
-El auditor externo deberá firmar el reporte e indicar su número de registro, así como rubricar todas las hojas de los anexos que integren su reporte. Este reporte será válido para la solicitud de la cuota adicional del cupo de importación de leche en polvo OMC.
-
-NOTA: La Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-REQUISITOS PARA LA ASIGNACION DE LA CUOTA ADICIONAL DEL CONTINGENTE MINIMO PARA IMPORTAR EN 2006, LECHE EN POLVO ORIGINARIA DE LOS PAISES MIEMBROS DE LA ORGANIZACION MUNDIAL DEL COMERCIO SIN ANTECEDENTES DE ASIGNACION EN 2006
-
-(0402.10.01 Y 0402.21.01)
-
-PAISES MIEMBROS DE LA OMC
-
-(VEASE ARCHVIO ANEXO)
-
-NOTA: La Secretaría de Economía podrá verificar en cualquier momento la veracidad de la información presentada, así como realizar visitas de inspección a las instalaciones de los beneficiarios de este cupo, de conformidad con los artículos 62 al 69 de la Ley Federal de Procedimiento Administrativo.
+México, D.F., a 22 de diciembre de 2006.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
