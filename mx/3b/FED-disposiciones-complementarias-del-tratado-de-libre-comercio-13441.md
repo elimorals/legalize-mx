@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2006-11-10"
+last_updated: "2007-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,31 +18,27 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL ANEXO 2006, QUE ESTABLECE LAS REGLAS DE ASIGNACION DEL MONTO DEL REMANENTE DEL CUPO MINIMO DE IMPORTACION TLCAN PARA 2006, DEL ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
+ACUERDO POR EL QUE SE MODIFICA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
 
-Acuerdo publicado en el Diario Oficial de la Federación, el viernes 10 de noviembre de 2006.
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 1 de enero de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; numeral II del sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 31 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, y sus reformas del 5 de agosto y 1 de diciembre de 2004;
+Que el 31 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, reformado mediante diversos dados a conocer en el mismo órgano informativo, los días 5 de agosto y 1 de diciembre de 2004;
 
-Que para dar cabal cumplimiento a los compromisos comerciales adquiridos por nuestro país bajo el Tratado de Libre Comercio con América del Norte entre los Estados Unidos Mexicanos, Estados Unidos de América y Canadá, es menester publicar en el Diario Oficial de la Federación el saldo disponible del cupo mínimo negociado de maíz;
+Que el artículo 302 párrafo 4 del propio tratado, establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecido en el Anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones adicionales a los derivados de la imposición del arancel-cuota;
 
-Que en el numeral II del artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, se establece que “No se autorizarán cuotas de importación de maíz blanco en la República Mexicana excepto en casos comprobados de desabasto nacional para los estados de Baja California, Coahuila, Chihuahua, Nuevo León, Tamaulipas, Veracruz, Yucatán y Chiapas. En los estados en los que se autoricen dichas cuotas, éstas serán asignadas de acuerdo con los lineamientos publicados por la Secretaría de Economía. ASERCA aplicará un esquema de planeación de cosechas regionales y sus zonas de influencia, que garanticen el mejor proceso de comercialización en consulta con productores y comercializadores para el desarrollo equitativo de mercados regionales en el seno del Comité Sistema Producto Maíz”;
+Que el procedimiento de asignación de los cupos de importación referidos, es un instrumento de la política sectorial para promover las corrientes comerciales;
 
-Que en el numeral II del artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, se establece que “Las cuotas autorizadas de maíz blanco para los estados mencionados en el párrafo anterior serán por un equivalente a cinco veces el consumo mensual promedio auditado en el 2005 y se otorgarán dentro de la cuota mínima, excepto para Chiapas donde dicho cupo será de dos veces el consumo mensual promedio auditado de 2005 y Yucatán donde dicho cupo será 10 veces el consumo mensual. Dichos montos serán reducidos en función de la producción nacional y de los apoyos autorizados por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para la movilización de las cosechas nacionales y conforme a la metodología de determinación de déficit de abasto regional establecida por la Secretaría de Economía y ASERCA”;
+Que derivado de los requerimientos actuales de las cadenas productivas, es necesario adoptar acciones que permitan prevenir situaciones de desabasto de maíz, en apoyo de los sectores que utilizan este producto como materia prima en sus procesos productivos, y
 
-Que en el numeral II del artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, se establece que “El Ejecutivo Federal creará una reserva de cuota mínima para cubrir los requerimientos de importación de maíz blanco para el segundo semestre de 2006; la cual, para estar etiquetada para los consumidores de esta variedad específica de grano, no interferirá con la asignación de las cuotas adicionales para los solicitantes de cupo de maíz amarillo”;
+Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
 
-Que en el numeral II del artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, se establece que “Los industriales y comercializadores consumidores de maíz blanco presentarán con antelación sus compromisos de adquisición de cosecha nacional, a través de agricultura por contrato o contratos de compra-venta, los cuales deberán quedar registrados ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación. Para tal efecto se dará prioridad en el ciclo Primavera-Verano a los Estados de Jalisco y Chiapas y en el ciclo Otoño-Invierno a Sinaloa y Tamaulipas en cuyos casos los contratos se firmarán por el 50% de las compras auditadas en 2005 de cada empresa en dichos estados”, y
-
-Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
-
-ACUERDO POR EL QUE SE DA A CONOCER EL ANEXO 2006, QUE ESTABLECE LAS REGLAS DE ASIGNACION DEL MONTO DEL REMANENTE DEL CUPO MINIMO DE IMPORTACION TLCAN PARA 2006, DEL ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
+ACUERDO POR EL QUE SE MODIFICA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
 
 ###### ARTICULO PRIMERO.
 
@@ -52,27 +48,31 @@ El cupo mínimo para importar azúcar en 2006, con el arancel-cupo establecido e
 
 ###### ARTICULO UNICO.
 
-Se da a conocer el anexo 2006 que establece las Reglas de Asignación del monto del remanente del cupo mínimo de importación TLCAN para 2006, del Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, como a continuación se indica:
+Se modifica la apertura de ventanilla del cuadro correspondiente a maíz blanco del artículo tercero del Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003, y sus reformas dadas a conocer en el mismo medio informativo, los días 5 de agosto y 1 de diciembre de 2004, para quedar como sigue:
 
-Podrán solicitar la asignación del monto del remanente del cupo mínimo de importación TLCAN, las personas físicas o morales establecidas en los Estados Unidos Mexicanos que utilicen maíz, excepto para siembra, como insumo en sus procesos productivos y se encuentren en operación, conforme a lo siguiente:
+“ARTICULO TERCERO.- . . .
 
-I. Maíz blanco: Las personas físicas o morales de las industrias harinera y molinera de nixtamal, conforme a los siguientes criterios:
+. . .
 
-Se asignará maíz blanco, tomando en cuenta el desabasto nacional que conjuntamente la Secretaría de Economía y ASERCA/SAGARPA, determinen en los estados de: Baja California, Coahuila, Chihuahua, Chiapas, Nuevo León, Tamaulipas, Veracruz y Yucatán.
+. . .
 
-Para la asignación de maíz blanco se considerarán los consumos*/ auditados anuales de 2005 (enero-diciembre) de las plantas ubicadas en los estados antes señalados. La Dirección General de Industrias Básicas y la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA informarán a la Dirección General de Comercio Exterior el resultado del análisis de desabasto previsible o existente de maíz blanco.
+. . .
 
-*/ (Los consumos anuales auditados a los que se refieren los criterios de asignación, son aquellos que presentaron las empresas solicitantes para la primera asignación de este año, o en su caso, el que presenten, conforme a la hoja de requisitos correspondiente, si no han sido beneficiarias del cupo mínimo de maíz blanco en el presente año. El consumo a considerar excluye los consumos de maíz blanco, realizados bajo los programas de importación temporal, Regla octava, etc.)
+Maíz Blanco:
 
-La respuesta de la Dirección General de Desarrollo de Mercados, deberá considerar lo establecido en el artículo sexto transitorio de la Ley de Ingresos de la Federación para el año Fiscal 2006.
+. . .
 
-El periodo de recepción de solicitudes de asignación de maíz blanco será de diez días hábiles a partir de la entrada en vigor del presente instrumento. La hoja de requisitos específicos que deberán presentar los solicitantes, se establecen como anexos en el Acuerdo publicado el 31 de diciembre de 2003.
+(VEASE ARCHIVO ANEXO)
 
-La vigencia de los certificados será hasta el 31 de diciembre de 2006, salvo en el caso de Chiapas, cuya vigencia será del 1 de noviembre al 15 de diciembre de 2006.
+. . .
 
-La asignación será otorgada por la Dirección General de Comercio Exterior, previa opinión favorable de la Dirección General de Industrias Básicas de esta Secretaría, quien lo emitirá conjuntamente con la opinión de la Dirección General de Desarrollo de Mercados, de Apoyos y Servicios a la Comercialización Agropecuaria ASERCA/SAGARPA de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, dentro de los siete días hábiles siguientes a la fecha en que la Dirección General de Industrias Básicas haya recibido de la Dirección General de Comercio Exterior para su dictamen, las solicitudes debidamente requisitadas.
+. . .
 
-En todos los casos se deberá señalar el monto y plazo para ejercer la asignación, así como las condiciones a que deben de sujetarse los beneficiarios.
+. . .
+
+. . .
+
+. . .”.
 
 ###### ARTICULO 15.
 
@@ -360,6 +360,6 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor el 8 de enero de 2007 y concluirá su vigencia el 31 de diciembre de 2007.
 
-México, D.F., a 6 de noviembre de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 22 de diciembre de 2006.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
