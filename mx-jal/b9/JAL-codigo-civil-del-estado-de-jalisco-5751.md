@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2006-12-28"
+last_updated: "2007-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2500,6 +2500,18 @@ XIX. El mutuo consentimiento.
 ###### Art. 405.
 
 Cuando un cónyuge demande el divorcio o la ilegitimidad del matrimonio por causas que no justifique o que hayan resultado insuficientes, el demandado tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la sentencia que cause estado o de la resolución que decrete la caducidad de la instancia. Durante esos tres meses, los cónyuges no están obligados a vivir juntos.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
+
+Art. 405 bis.- El divorcio administrativo procede cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, no tengan hijos vivos o concebidos dentro de matrimonio, de común acuerdo hubieren liquidado la sociedad conyugal o legal en los términos del presente documento y tengan más de un año de casados.
+
+Se presentarán personalmente al Oficial del Registro Civil del lugar de su domicilio, comprobarán con las copias certificadas respectivas que son casados, mayores de edad, que han liquidado su sociedad legal o conyugal si fuera el caso, la ingravidez de la cónyuge y manifestarán bajo protesta de decir verdad que los hechos declarados son ciertos y de manera terminante y explícita, su voluntad de divorciarse.
+
+El Oficial del Registro Civil, previa identificación de los cónyuges, levantará un acta en la que hará constar la solicitud de divorcio y citará a los cónyuges transcurridos treinta días naturales para que la ratifiquen personalmente. Durante ese lapso, los solicitantes deberán acudir al Sistema para el Desarrollo Integral de la Familia, estatal o municipal, con personal de trabajo social con capacitación en terapia de pareja o a cualquier otra institución acreditada, quienes procurarán avenirlos y se les extenderá una constancia que deberá entregar al Oficial del Registro Civil en la audiencia de ratificación. Ratificada la solicitud, el Oficial del Registro Civil los declarará divorciados, levantará el acta de divorcio y hará las anotaciones correspondientes.
+
+Las personas así divorciadas podrán volver a contraer matrimonio civil transcurrido un año de que se haya levantado el acta de divorcio.
+
+Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divorcio así obtenido no surtirá efectos legales, independientemente de las sanciones previstas en las leyes.
 
 ###### Art. 406.
 
@@ -17656,3 +17668,7 @@ TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto r
 P.O. 28 DE DICIEMBRE DE 2006.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
