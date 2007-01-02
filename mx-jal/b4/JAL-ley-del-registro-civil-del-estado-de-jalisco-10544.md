@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2006-07-04"
+last_updated: "2007-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -235,17 +235,17 @@ Artículo 22 bis.- Las autoridades municipales deberán pagar horas extras a los
 
 ### CAPITULO IV. De los procedimientos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### Artículo 23.
 
-Estará a cargo de los oficiales del Registro Civil hacer constar los hechos y actos del estado civil, y extender las actas relativas a:
+Estará a cargo de los oficiales del Registro Civil, hacer constar los hechos y actos del estado civil y extender las actas relativas a:
 
 I. Nacimiento, reconocimiento de hijo y adopción;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-II. Matrimonio e inscripción de divorcio;
+II. Matrimonio y divorcio;
 
 III. Defunción, declaración de ausencia y presunción de muerte;
 
@@ -505,7 +505,7 @@ Con las excepciones de ley, será registro extemporáneo de nacimiento, el efect
 
 ###### Artículo 57.
 
-Las solicitudes de registros extemporáneos se tramitarán y resolverán de conformidad a lo establecido en el reglamento respectivo, por el Oficial Jefe del Registro Civil de cada Municipio, quien se cerciorará de la identidad de los interesados, de la vecindad de los mismos y del cumplimiento de los demás requisitos que para el nacimiento se exigen, anotando en la propia acta la razón de su certeza.
+Las solicitudes de registros extemporáneos se tramitarán y resolverán de conformidad a lo establecido en el reglamento respectivo, por el Oficial Jefe del Registro Civil de cada municipio, quien se cerciorará de la identidad de los interesados, de la vecindad de los mismos y del cumplimiento de los demás requisitos que para el nacimiento se exigen, anotando en la propia acta la razón de su certeza.
 
 ###### Artículo 58.
 
@@ -829,17 +829,23 @@ También podrá exigir declaración bajo protesta de decir verdad, a los testigo
 
 La sentencia ejecutoria que declare un divorcio, se remitirá en copia certificada al Archivo General del Registro Civil y al oficial del Registro Civil del lugar donde se celebró el matrimonio, para que levante el acta correspondiente.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2006)</small>
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
+
+Artículo 98 bis.- El Oficial del Registro Civil quien (sic) se presente una solicitud de divorcio administrativo que reúna los requisitos previstos por el Código Civil del Estado, dará curso a la misma en los términos establecidos por dicho ordenamiento, resolverá lo conducente y en su caso, los declarará divorciados, levantará el acta de divorcio y hará las anotaciones correspondientes.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### Artículo 99.
 
-Las actas de divorcio expresarán el nombre, apellidos, edad, domicilio y nacionalidad de los divorciados, su Clave Única de Registro Nacional de Población, si las tuvieren, los datos de ubicación de las actas de nacimiento y matrimonio de los mismos, la parte resolutiva de la sentencia judicial, fecha de la misma, autoridad que la dictó y fecha en que causó ejecutoria.
+Las actas de divorcio expresarán el nombre, apellidos, edad, domicilio y nacionalidad de los divorciados, su clave única de registro de Población, si las tuvieren, los datos de ubicación de las actas de nacimiento y matrimonio de los mismos, la parte resolutiva de la sentencia judicial o resolución administrativa, fecha de la misma, autoridad que la dictó y fecha en que causó ejecutoria, en su caso.
 
 (NOTA: EL 21 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 3/2025, DECLARÓ LA INCONSTITUCIONALIDAD DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### Artículo 100.
 
-Extendida el acta de divorcio se anotarán las actas de NACIMIENTO Y matrimonio de los divorciados; la copia de la sentencia mencionada, se archivará con el mismo número del acta de divorcio en el apéndice correspondiente.
+Extendida el acta de divorcio se anotará en las actas de NACIMIENTO Y matrimonio de los divorciados; la copia de la sentencia mencionada o resolución administrativa, se archivará con el mismo número del acta de divorcio en el apéndice correspondiente.
 
 ### CAPITULO XIII. De las actas de defunción
 
@@ -989,7 +995,9 @@ c) De las actas de adopción: Nombre, apellidos, sexo, edad, fecha de nacimiento
 
 d) De las actas de reconocimiento: Nombre, apellidos, sexo, edad, lugar y fecha de nacimiento del reconocido; nombre, apellidos, edad y nacionalidad del reconocedor; nombre del representante legal que otorgó el consentimiento para el reconocimiento, si lo hubiere; y fecha en que causó estado la sentencia, tribunal que la dictó y número de expediente, en su caso;
 
-e) De las actas de divorcio: Nombre, apellidos, edad y nacionalidad de los divorciados; fecha en que causó estado la sentencia, tribunal que la dictó y número de expediente, datos de ubicación del acta de matrimonio y lugar en que lo contrajeron;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+e) De las actas de divorcio: Nombre, apellidos, edad y nacionalidad de los divorciados; fecha en que causó estado la sentencia, tribunal que la dictó y número de expediente; fecha de resolución administrativa en que se resolvió, Oficial que resolvió y número de expediente; datos de ubicación del acta de matrimonio y lugar en que lo contrajeron;
 
 f) De las actas de defunción: Nombre, apellidos, fecha de nacimiento, sexo, edad, estado civil y nacionalidad del finado; lugar, fecha y hora de la defunción; nombre apellidos y cédula profesional del médico que la certificó; causas de la muerte; nombre y apellidos del declarante; y
 
@@ -1282,3 +1290,7 @@ P.O. 27 DE DICIEMBRE DE 2005.
 P.O. 4 DE JULIO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
