@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2006-11-21"
+last_updated: "2007-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -490,6 +490,14 @@ III. Realizar la entrega-recepción de la situación que guarda la administraci�
 Al término del período constitucional de la Administración Pública Municipal, los integrantes del Ayuntamiento, así como los titulares de las dependencias, organismos y entidades, entregarán a los servidores públicos entrantes, el documento que contenga la situación que guarda la Administración Pública Municipal, a la que se anexarán los documentos establecidos en el artículo siguiente.
 
 En la entrega-recepción de las dependencias, organismos y entidades, la Contaduría Mayor de Hacienda, podrá designar un representante, el cual participará sólo como observador del proceso.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
+
+Los Presidentes Municipales interinos y sustitutos, al concluir sus funciones harán entrega del documento que contenga la situación que guarda la Administración Pública Municipal, mediante el procedimiento de entrega-recepción, al ciudadano que sea electo para concluir el periodo, o sea designado por el Congreso del Estado como sustituto.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
+
+Así mismo, los Consejos Municipales que sean designados para concluir el periodo municipal correspondiente en los supuestos establecidos en el Artículo 61 del Código Municipal para el Estado de Coahuila, deberán llevar acabo (sic) el procedimiento de entrega-recepción al término de su periodo.
 
 ###### ARTÍCULO 65.
 
@@ -4016,3 +4024,9 @@ P.O. 21 DE NOVIEMBRE DE 2006.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 2 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
