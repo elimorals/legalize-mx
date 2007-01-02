@@ -4,7 +4,7 @@ identifier: "COA-ley-de-entrega-recepcion-del-estado-y-municipios-de-44955"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-29"
-last_updated: "2005-04-29"
+last_updated: "2007-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ENTREGA-RECEPCION DEL ESTADO Y MUNICIPIOS DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 29 de abril del 2005.
 
@@ -87,7 +87,9 @@ II. En el Poder Ejecutivo a: el Titular del Ejecutivo, los titulares de las depe
 
 III. En el Poder Judicial a: el Presidente del Tribunal Superior de Justicia del Estado, los Magistrados de las Salas y de los Tribunales Unitarios, los Jueces de Primera Instancia, los Jueces Letrados, los titulares de sus dependencias y unidades y los servidores públicos adscritos a este poder.
 
-IV. En los Gobiernos Municipales a: el Presidente Municipal, los Síndicos, los Regidores, los titulares de las dependencias y entidades y los servidores públicos adscritos a éstas.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IV. En los Gobiernos Municipales a: el Presidente Municipal electo, interino o sustituto, los Síndicos, los Regidores, los titulares de las dependencias y entidades, los servidores públicos adscritos a éstas y los Concejos Municipales.
 
 V. En los Organismos Públicos Autónomos a: el titular del mismo y los servidores públicos adscritos a éste, de conformidad con la ley o decreto de su creación.
 
@@ -117,7 +119,9 @@ También estará sujeto a entrega general:
 
 I. El Gobernador del Estado, los Presidentes Municipales, los Diputados del Congreso del Estado y los Magistrados del Tribunal Superior de Justicia del Estado, en el caso de que soliciten y le sea concedida, licencia por tiempo indefinido para separarse de su cargo o comisión.
 
-II. Los Presidentes Municipales, los titulares de las dependencias y entidades y los servidores públicos adscritos a éstas, en caso que se declare la desaparición o suspensión del Ayuntamiento.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II. Los Presidentes Municipales electos, interinos o sustitutos, los titulares de las dependencias y entidades, los servidores públicos adscritos a éstas y los Concejos Municipales, en caso que se declare la desaparición o suspensión del Ayuntamiento o de un Concejo Municipal.
 
 III. Cualquier servidor público de los Ayuntamientos, en caso que se declare la suspensión o revocación de su mandato, y
 
@@ -494,3 +498,11 @@ EL GOBERNADOR DEL ESTADO
 LIC. ENRIQUE MARTÍNEZ Y MARTÍNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
