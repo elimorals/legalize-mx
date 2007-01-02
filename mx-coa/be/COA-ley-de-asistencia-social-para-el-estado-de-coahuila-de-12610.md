@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-para-el-estado-de-coahuila-de-12610"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-23"
-last_updated: "2006-12-19"
+last_updated: "2007-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de enero de 1998.
 
@@ -45,17 +45,23 @@ LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 Las disposiciones de la presente ley son de orden público e interés social, y tienen por objeto promover la prestación de los servicios de asistencia social en el estado, proveyendo las medidas para la eficaz concurrencia y colaboración de los sectores público, social y privado, en los términos de la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 2°.
 
-Para los efectos de esta ley se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva, todo ello, en lo posible, dentro de un marco de corresponsabilidad, temporalidad y selectividad.
+Para los efectos de esta ley se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan a la mujer y al hombre su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva, todo ello, en lo posible, dentro de un marco de corresponsabilidad, temporalidad y selectividad.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 3°.
 
-El Gobierno del Estado, en forma prioritaria, proporcionará servicios de asistencia social encaminados al desarrollo integral de la familia, a fin de promover la atención y protección de los menores, el bienestar de la familia y el desarrollo de la comunidad, así como apoyar, en su formación y subsistencia, a individuos con carencias familiares esenciales, no superables en forma autónoma por ellos.
+El Gobierno del Estado, en forma prioritaria, proporcionará servicios de asistencia social encaminados al desarrollo integral de la familia, a fin de promover la atención y protección de los menores, el bienestar de la familia y el desarrollo de la comunidad, así como apoyar, en su formación y subsistencia, a quienes tengan carencias familiares esenciales, no superables en forma autónoma por ellos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 4°.
 
-El estado asume la atención y protección de los menores en sus aspectos físico, mental y moral, como coadyuvante de los deberes y derechos de los padres, tutores o de quienes ejerzan la patria potestad, sin perjuicio de las disposiciones previstas sobre la materia en los ordenamientos civiles correspondientes.
+El estado asume la atención y protección de los menores en sus aspectos físico, mental y moral, como coadyuvante de los deberes y derechos del padre, madre y los de las personas que ejerzan la tutela o la patria potestad, sin perjuicio de las disposiciones previstas sobre la materia en los ordenamientos civiles correspondientes.
 
 En cuanto al desarrollo de la familia, el estado lo asume en forma subsidiaria, realizando para tal objeto, acciones tendientes a la investigación, educación, prevención y asistencia de los núcleos familiares.
 
@@ -64,6 +70,10 @@ A través de la realización de actividades de prevención, educación e impleme
 Los servicios de asistencia social previstos en esta ley, los realizará el estado a través del Sistema para el Desarrollo Integral de la Familia, quien coordinará el Sistema Estatal de Asistencia Social.
 
 Para los efectos de esta ley se entenderá por Sistema al Sistema para el Desarrollo Integral de la Familia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ENERO DE 2007)</small>
+
+En todos los casos, las acciones encaminadas a los fines citados, habrán de llevarse a cabo en condiciones de igualdad y equidad de tal forma que a nadie se le discrimine.
 
 ###### ARTICULO 5°.
 
@@ -85,7 +95,9 @@ I.- Menores en situación extraordinaria, ya sea por encontrarse en estado de ab
 
 II.- Mujeres en período de gestación o lactancia;
 
-III.- Ancianos en desamparo, incapacidad, marginación o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+III.- Personas adultas mayores en desamparo, incapacidad, marginación o sujetos a maltrato;
 
 IV.- Las personas con discapacidad;
 
@@ -95,15 +107,33 @@ VI.- Personas que por su extrema ignorancia requieran de servicios asistenciales
 
 VII.- Víctimas de la comisión de delitos, que se encuentren en estado de abandono;
 
-VIII.- Familiares que dependen económicamente de quienes se encuentran detenidos por causas penales y que, por tanto, queden en estado de abandono;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-IX.- Habitantes del medio rural o urbano marginados, que carezcan de lo indispensable para su subsistencia; y
+VIII.- Familiares que dependen económicamente de quienes se encuentran detenidos por causas penales, personas que padezcan enfermedades en etapa terminal, alcoholismo o fármaco dependencia;
 
-X.- Personas afectadas por desastres.
+IX.- Habitantes del medio rural o urbano marginados, que carezcan de lo indispensable para su subsistencia; y (sic)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+X.- Personas afectadas por desastres naturales;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XI.- Mujeres en situación de maltrato o abandono y en situación de explotación incluyendo la sexual;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XII.- Migrantes, desplazados o en situación vulnerable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ENERO DE 2007)</small>
+
+XIII.- Las demás personas consideradas en otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 7°.
 
-Los servicios de asistencia social dirigidos al desarrollo de los menores, de la familia y al desarrollo de la comunidad serán de carácter preventivo y se prestarán en todos los casos en que resulten necesarios o exigibles, aún cuando no lo soliciten los presuntos beneficiados, salvo disposición en contrario.
+Los servicios de asistencia social dirigidos al desarrollo de menores, de la familia y al desarrollo de la comunidad serán de carácter preventivo y se prestarán en todos los casos en que resulten necesarios o exigibles, aún cuando no lo soliciten los presuntos beneficiados, salvo disposición en contrario.
 
 Las medidas que, para los efectos anteriores, se adopten constituirán medios formativos y no tendrán carácter represivo, ni atentarán contra la salud o dignidad de las personas.
 
@@ -113,13 +143,21 @@ Son servicios básicos de asistencia social los siguientes:
 
 I.- La atención a personas que, por sus carencias socioeconómicas o por problemas de discapacidad o incapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-II.- La atención en establecimientos especializados a menores en situación extraordinaria y a los ancianos en estado de abandono o desamparo;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
+II.- La atención en establecimientos especializados a menores en situación extraordinaria y a las personas adultas mayores en estado de abandono o desamparo; así como, para mujeres víctimas de violencia familiar;
 
-IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables, cuando conforme a las mismas proceda;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores en situación extraordinaria, mujeres, ancianos, personas con discapacidades o incapaces sin recursos;
+III.- La promoción del bienestar de las personas adultas mayores y el desarrollo de acciones de preparación para la senectud;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IV.- El ejercicio de la tutela a menores, en los términos de las disposiciones legales aplicables, cuando conforme a las mismas proceda;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores en situación extraordinaria, mujeres, personas adultas mayores, personas con discapacidades o incapaces sin recursos;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -137,11 +175,17 @@ XII.- El desarrollo comunitario en localidades y zonas social y económicamente 
 
 XIII.- La promoción e impulso del sano crecimiento físico mental y social de la niñez;
 
-XIV.- El establecimiento y manejo del Sistema Estatal de Información Básica en Materia de Asistencia Social;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-XV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a los menores;
+XIV.- El establecimiento y manejo del Sistema Estatal de Información Básica en Materia de Asistencia Social; en el cual, además de los criterios establecidos para su elaboración, se desagreguen o distingan los datos por sexo;
 
-XVI.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a menores;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XVI.- El fomento de acciones de paternidad y maternidad responsable, que propicien la preservación de los derechos de menores a la satisfacción de sus necesidades y a la salud física y mental;
 
 XVII.- La promoción, supervisión, vigilancia y evaluación de las instituciones de asistencia privada; y
 
@@ -159,23 +203,33 @@ Los servicios de salud conectados con la asistencia social estarán a cargo de l
 
 #### SECCION PRIMERA. DE LOS PROGRAMAS Y ACCIONES DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 11.
 
-Las funciones de prevención en favor de la comunidad, de la familia y del menor, encomendadas por el estado al Sistema para el Desarrollo Integral de la Familia, tendrán por objeto:
+Las funciones de prevención en favor de la comunidad, de la familia y la infancia, encomendadas por el estado al Sistema para el Desarrollo Integral de la Familia, tendrán por objeto:
 
 I.- La promoción del bienestar social;
 
 II.- La promoción del desarrollo de la comunidad y el fomento del bienestar familiar;
 
-III.- El apoyo y fomento de la nutrición dirigida a los lactantes y en general a la infancia, así como a las madres gestantes;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+III.- El apoyo y fomento a la nutrición dirigida a lactantes y en general a la infancia, así como a las madres gestantes;
 
 IV.- El fomento del sano crecimiento físico y mental de la niñez y la formación de su conciencia crítica;
 
-V.- La investigación de la problemática del niño, de la madre y la familia, a fin de proponer las soluciones adecuadas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-VI.- La prestación de servicios asistenciales a los menores en situación extraordinaria;
+V.- La investigación de la problemática de menores, de la madre, del padre y la familia, a fin de proponer las soluciones adecuadas;
 
-VII.- La prestación permanente y organizada de servicios de asistencia jurídica a los menores y a las familias, así como la implementación de todas aquellas actividades en favor de la prevención social;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+VI.- La prestación de servicios asistenciales a menores en situación extraordinaria;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+VII.- La prestación permanente y organizada de servicios de asistencia jurídica a menores y a las familias, así como la implementación de todas aquellas actividades en favor de la prevención social;
 
 VIII.- El fomento de la formación y la capacitación de grupos promotores sociales voluntarios, así como la coordinación de las acciones para su participación organizada en los programas del Sistema y otros afines;
 
@@ -199,9 +253,11 @@ V.- Desarrollo de la comunidad; y
 
 VI.- Las demás que se establezcan para la realización de esas acciones.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 13.
 
-Los servicios que preste el Sistema podrán ser de carácter recuperable mediante el pago de las cuotas fijas o proporcionales que el propio Sistema establezca, atendiendo a la situación económica del beneficiado o de su familia.
+Los servicios que preste el Sistema podrán ser de carácter recuperable mediante el pago de las cuotas fijas o proporcionales que el propio Sistema establezca, atendiendo a la situación económica de la persona beneficiada o de su familia.
 
 #### SECCION SEGUNDA. DE LA ATENCION A LA FAMILIA
 
@@ -253,7 +309,9 @@ El fomento a la educación tendrá por objeto:
 
 I.- Establecer centros de educación pre-matrimonial;
 
-II.- Formar escuelas para padres y centros de orientación familiar;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II.- Formar escuelas para madres y padres biológicos y adoptivos y, centros de orientación familiar;
 
 III.- Orientar a las familias sobre la adecuada administración del ingreso familiar;
 
@@ -267,9 +325,11 @@ VII.- Elevar el nivel cultural de la familia promoviendo las actividades necesar
 
 VIII.- Las demás que con ese propósito se establezcan.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 18.
 
-El Sistema a través de la Procuraduría de la Familia, vigilará que los menores concurran a las escuelas primarias y secundarias, exhortando a sus padres, tutores o custodios para que los inscriban y los hagan asistir a ellas.
+El Sistema a través de la Procuraduría de la Familia, vigilará que las y los menores concurran a las escuelas primarias y secundarias, exhortando a sus padres, madres, quienes ejerzan la tutela, la patria potestad o custodia para que les inscriban y hagan que asistan a ellas.
 
 ###### ARTICULO 19.
 
@@ -277,7 +337,9 @@ La promoción social y el bienestar familiar tendrán por objeto:
 
 I.- Promover permanentemente la legalización de las uniones concubinarias mediante el matrimonio;
 
-II.- Fomentar en forma permanente el registro de nacimiento de los menores;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II.- Fomentar de manera permanente el registro de nacimiento de menores;
 
 III.- Establecer servicios de albergues y estancias infantiles que auxilien a las madres que trabajen fuera de su domicilio;
 
@@ -285,7 +347,9 @@ IV.- Promover y difundir entre las familias la constitución del patrimonio fami
 
 V.- Fomentar y desarrollar campañas de prevención social, orientadas a evitar la desintegración familiar;
 
-VI.- Implementar programas de apoyo dirigidos a los ancianos;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+VI.- Implementar programas de apoyo dirigidos a las personas adultas mayores;
 
 VII.- Establecer y proporcionar servicios funerarios que, a bajo costo, sean accesibles a la mayoría de la población;
 
@@ -299,19 +363,25 @@ XI.- Fomentar la participación activa de la población dentro de los planes y p
 
 XII.- Las demás que se establezcan con ese propósito.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 20.
 
-Para el cumplimiento de las acciones previstas en el presente capítulo, el Sistema se auxiliará de los censos que levanten las dependencias y entidades competentes, a fin de que dichas acciones se orienten a las personas que requieran de asistencia social.
+Para el cumplimiento de las acciones previstas en el presente capítulo, el Sistema se auxiliará de los censos que levanten las dependencias y entidades competentes, a fin de que dichas acciones se orienten a las personas que requieran de asistencia social. Se habrá de prever que dichos censos reflejen datos desagregados o diferenciados por sexo que permitan reorientar si fuese el caso, las acciones o políticas públicas en congruencia con el principio de equidad de tal forma que ninguna persona o segmento de la población quede al margen de los beneficios.
 
 #### SECCION TERCERA. DEL DESARROLLO DE LA COMUNIDAD
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 21.
 
-Se considera de interés general regular el desarrollo armónico e integral de la comunidad en función de sus miembros, por lo que el Sistema, en coordinación con la autoridad competente, implementará los programas, acciones y actividades necesarios para crear condiciones propicias al desarrollo social y al incremento de oportunidades para mejorar las condiciones de vida individuales y colectiva de la población del estado.
+Se considera de interés general regular el desarrollo armónico e integral de la comunidad en función de sus integrantes, por lo que el Sistema, en coordinación con la autoridad competente, implementará los programas, acciones y actividades necesarias para crear condiciones propicias al desarrollo social donde se atienda, entre otros, el principio de equidad entre los géneros y también al incremento de oportunidades para mejorar las condiciones de vida individuales y colectiva de la población del estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 22.
 
-El desarrollo de la comunidad que garantice al menor y a su familia mejores condiciones de vida tendrá por objeto:
+El desarrollo de la comunidad que garantice a la infancia y a su familia mejores condiciones de vida tendrá por objeto:
 
 I.- Investigar la situación económica, social y cultural de las comunidades del estado para detectar, comprobar y catalogar sus necesidades y recursos humanos, naturales y técnicos, así como detectar sus problemas, determinar su origen, analizarlos y jerarquizarlos;
 
@@ -327,41 +397,55 @@ VI.- Elaborar y desarrollar programas en el área de saneamiento ambiental;
 
 VII.- Brindar a la comunidad los beneficios de la cultura mediante la promoción de festivales cívicos y tradicionales, obras de teatro, conciertos, exposiciones, cine-clubes y demás manifestaciones de arte;
 
-VIII.- Establecer centros de capacitación para promotores rurales que auxilien a las comunidades en su desarrollo;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+VIII.- Establecer centros de capacitación para las y los promotores rurales que auxilien a las comunidades en su desarrollo;
 
 IX.- Ofrecer educación a la comunidad sobre formas de organización cooperativa o empresarial, para enmarcar el proceso productivo regional;
 
 X.- Establecer centros para el desarrollo de la comunidad como factores de mejoramiento comunal;
 
-XI.- Fomentar la participación y colaboración de los pasantes profesionales que efectúen su servicio social en instituciones orientadas a la atención de programas de interés social;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XI.- Fomentar la participación y colaboración de pasantes profesionales que efectúen su servicio social en instituciones orientadas a la atención de programas de interés social;
 
 XII.- Promover la utilización de los recursos existentes en las comunidades, incrementando su valor mediante su transformación en pequeñas industrias;
 
 XIII.- Suministrar prendas de vestir a precios económicos a las familias de escasos recursos, mediante la creación de bazares;
 
-XIV.- Promover la creación y mantenimiento de parques, jardines, áreas verdes y otros lugares de recreo en donde los menores puedan disfrutar de juegos seguros y adecuados a su edad;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XIV.- Promover la creación y mantenimiento de parques, jardines, áreas verdes y otros lugares de recreo en donde las y los menores puedan disfrutar de juegos seguros y adecuados a su edad;
 
 XV.- Establecer hogares de retiro para la vejez;
 
 XVI.- Fomentar y fortalecer la conciencia de la nacionalidad y solidaridad humana, así como el amor a la patria mediante la exaltación de nuestros símbolos y valores y el reconocimiento de los universales;
 
-XVII.- Establecer programas de trabajo y ocupación para las personas senectas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XVII.- Establecer programas de trabajo y ocupación para las personas adultas mayores;
 
 XVIII.- Establecer programas de trabajo y ocupación para personas jubiladas; y
 
 XIX.- Las demás que se establezcan con ese propósito.
 
-#### SECCION CUARTA. DE LA ATENCION A LOS MENORES
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2007)</small>
+
+#### SECCION CUARTA. DE LA ATENCION A LAS Y LOS MENORES
 
 ###### ARTICULO 23.
 
 Para los efectos de las acciones preventivas previstas en la presente ley, se considera como menores a todas las personas físicas, desde el momento de su concepción hasta los dieciocho años de edad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 24.
 
-La asistencia de los menores encomendada al Sistema comprenderá las siguientes acciones:
+La asistencia a menores encomendada al Sistema comprenderá las siguientes acciones:
 
-I.- El fomento del sano crecimiento físico y mental del menor;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+I.- El fomento del sano crecimiento físico y mental de menores;
 
 II.- La educación para la integración social y la formación de la conciencia crítica;
 
@@ -369,35 +453,55 @@ III.- La asistencia a menores en situación extraordinaria; y
 
 IV.- El apoyo jurídico, requerido para solucionar los problemas vinculados con situaciones que les afecten.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 25.
 
-El Sistema pugnará por el fomento del sano crecimiento físico y mental de los menores; para cuyo efecto llevará a cabo las siguientes medidas:
+El Sistema pugnará por el fomento del sano crecimiento físico y mental de menores; para cuyo efecto llevará a cabo las siguientes medidas:
 
-I.- Contribuir al mejoramiento del estado nutricional del menor, a través de la ministración de los alimentos adecuados;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-II.- Proporcionar alimentación complementaria a los menores en comunidades rurales;
+I.- Contribuir al mejoramiento del estado nutricional de menores, a través de la ministración de alimentos adecuados;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II.- Proporcionar alimentación complementaria a menores en comunidades rurales;
 
 III.- Proporcionar información y educación sexual; y
 
 IV.- Las demás que con ese propósito se establezcan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 26.
 
-El sistema atenderá a la educación para la integración social y la formación de la conciencia crítica de los menores, para lo que llevará a cabo las siguientes medidas:
+El sistema atenderá a la educación para la integración social y la formación de la conciencia crítica de menores, para lo que llevará a cabo las siguientes medidas:
 
-I.- Vigilar que los menores concurran a las escuelas primarias y secundarias, exhortando a sus representantes legales para que los inscriban y los hagan asistir;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-II.- Inculcar en los niños y jóvenes el sentimiento de que la educación no es un fin en sí mismo, sino un medio de servir a la colectividad;
+I.- Vigilar que concurran a las escuelas primarias y secundarias, exhortando a sus representantes legales para que les inscriban y hagan que asistan;
 
-III.- Organizar grupos juveniles e infantiles con el fin de encauzar y desarrollar las aptitudes de los niños y jóvenes principalmente en actividades culturales, artísticas y deportivas que permitan el mejor aprovechamiento de su tiempo libre;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II.- Inculcar el sentimiento de que la educación no es un fin en sí mismo, sino un medio de servir a la colectividad;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+III.- Organizar grupos juveniles e infantiles con el fin de encauzar y desarrollar las aptitudes, principalmente en actividades culturales, artísticas y deportivas que permitan el mejor aprovechamiento de su tiempo libre;
 
 IV.- Patrocinar toda clase de espectáculos aptos para menores;
 
-V.- Promover exposiciones y crear bibliotecas que permitan a los menores tener a su alcance literatura que los conduzca a su superación intelectual;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-VI.- Asistir a los menores que por causas diversas no puedan proseguir sus estudios, buscando su capacitación técnica o manual;
+V.- Promover exposiciones y crear bibliotecas que permitan tener a su alcance literatura que fomente la superación intelectual;
 
-VII.- Otorgar becas para continuar con estudios dentro del ciclo básico de la educación escolar, previo análisis de las condiciones socioeconómicas del solicitante y examen de sus habilidades e intereses;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+VI.- Asistir a menores que por causas diversas no puedan proseguir sus estudios, buscando su capacitación técnica o manual;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+VII.- Otorgar becas para continuar con estudios dentro del ciclo básico de la educación escolar, previo análisis de las condiciones socioeconómicas de quien solicita y examen de sus habilidades e intereses;
 
 VIII.- Fomentar la sana recreación y el deporte durante periodos vacacionales;
 
@@ -405,9 +509,11 @@ IX.- Auxiliar a las autoridades competentes en las campañas de educación vial;
 
 X.- Las demás que se establezcan con ese propósito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 27.
 
-El Sistema coadyuvará con las dependencias y entidades que corresponda en el desarrollo de programas de apoyo para los menores que presenten impedimentos físicos o mentales, entre otras, en las áreas siguientes:
+El Sistema coadyuvará con las dependencias y entidades que corresponda en el desarrollo de programas de apoyo para menores que presenten impedimentos físicos o mentales, entre otras, en las áreas siguientes:
 
 I.- Audición y lenguaje;
 
@@ -419,19 +525,23 @@ IV.- Talleres protegidos; y
 
 V.- Rehabilitación física.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 28.
 
-Corresponde al Estado, a través del sistema, brindar atención a los menores en situación extraordinaria, entendiendo como tales a aquellos que:
+Corresponde al estado, a través del Sistema, brindar atención a menores en situación extraordinaria, entendiendo como tales a quienes:
 
-I.- Se encuentren físicamente abandonados por estar separados ocasional o definitivamente del seno familiar o, cuando aún sin estarlo, se hallen desamparados o sin un adecuado sostén por la indiferencia, negligencia o falta de recursos económicos de sus padres, tutores o de quienes ejercen la patria potestad;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+I.- Se encuentren físicamente en estado de abandonado, separación ocasional o definitiva del seno familiar o, cuando aún sin estarlo, se hallen en desamparo o sin un adecuado sostén por la indiferencia, negligencia o falta de recursos económicos del padre, la madre o de quienes ejerzan la tutela o la patria potestad;
 
 II.- Carezcan de familia, sufran de maltrato físico o mental o rechazo familiar;
 
 III.- Sean objeto de explotación o de cualquier tipo de abuso;
 
-IV.- Vivan en un hogar desorganizado a causa de la negligencia, depravación o crueldad de sus padres, tutores o quien (sic) ejerzan sobre ellos la patria potestad;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IV.- Vivan en un hogar desorganizado a causa de la negligencia, depravación o crueldad de su padre, madre o de quienes ejerzan la tutela o la patria potestad;
 
 V.- Habiten en casa de mala fama o con personas viciosas o de mala reputación;
 
@@ -457,41 +567,91 @@ XIII.- Presenten otra situación análoga a juicio de la Procuraduría de la Fam
 
 XIV.- Siendo menores de doce años de edad, hayan realizado una conducta prevista como delito en la ley.
 
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XV.- Vivan en la calle;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XVI.- Sean infractores y víctimas del delito;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XVII.- Presenten deficiencias en su desarrollo físico o mental, cuando este sea afectado por condiciones familiares adversas;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XVIII.- Sean migrantes y repatriados;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XIX. Sean victimas de conflictos armados y de persecución étnica o religiosa;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XX. Sean madres adolescentes;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XXI. Sean hijos o hijas de padre y/o madre que padezcan enfermedades en etapa terminal o en condiciones de extrema pobreza.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 29.
 
-También serán objeto de atención, por el potencial peligro en que se encuentren, los menores cuya salud se encuentre en riesgo por la notaria (sic) incapacidad de los padres, representantes legales o de quienes ejerzan la patria potestad sobre aquéllos.
+También serán objeto de atención, por el potencial peligro en que se encuentren, las y los menores cuya salud se encuentre en riesgo por la notaria (sic) incapacidad de los padres, representantes legales o de quienes ejerzan la patria potestad sobre aquéllos.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 30.
 
-El Sistema atenderá a los menores en situación extraordinaria hasta en tanto se les reincorpore a su familia cuando se logre su localización, se mejore el medio ambiente familiar o se les confíe a una nueva familia mediante su adopción.
+El Sistema atenderá a menores en situación extraordinaria hasta en tanto se les reincorpore a su familia cuando se logre su localización, se mejore el medio ambiente familiar o se les confíe a una nueva familia mediante su adopción.
 
 Para el logro de este propósito el Sistema establecerá casas de cuna y fundará albergues y estancia infantiles.
 
-### CAPITULO TERCERO. DE OTRAS MEDIDAS DE PREVENCION RESPECTO A LOS MENORES
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2007)</small>
+
+### CAPITULO TERCERO. DE OTRAS MEDIDAS DE PREVENCION RESPECTO A LAS Y LOS MENORES
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 31.
 
-Es obligación de los padres o tutores, velar por la seguridad y alimentación, salud, alojamiento, educación, protección y cuidado de los menores sujetos a su custodia.
+Es obligación de los padres, madres, quienes ejercen la patria potestad o la tutela, velar por la seguridad y alimentación, salud, alojamiento, educación, protección y cuidado de menores sujetos a su custodia.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 32.
 
-Los abusos o desviaciones que los representantes legales o terceros cometan al amparo de la debilidad de los menores y afecten su integridad física o moral serán sancionados conforme a lo previsto por esta ley.
+Los abusos o desviaciones que representantes legales o terceras personas cometan al amparo de la debilidad de menores y afecten su integridad física o moral, se sancionará conforme a lo previsto por esta ley.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 33.
 
-Los directores y/o los administradores de hospitales públicos o privados, médicos particulares, maestros o cualquier otra persona u organismo que tenga conocimiento de hechos relacionados con menores en situación extraordinaria, tendrán la obligación de comunicarlo a la Procuraduría de la Familia.
+La directiva y/o personal responsable de la administración de hospitales públicos o privados, personal médico particular, docentes o cualquier otra persona u organismo que tenga conocimiento de hechos relacionados con menores en situación extraordinaria, tendrán la obligación de comunicarlo a la Procuraduría de la Familia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 34.
 
-Serán sancionados conforme lo establecido por esta ley, sin perjuicio de la responsabilidad penal en la que incurran, quienes procuren o faciliten la corrupción de un menor. Se considerarán como responsables a quienes:
+Se sancionará conforme lo establecido por esta ley, sin perjuicio de la responsabilidad penal en la que incurran, quienes procuren o faciliten la corrupción de menores. Se considerarán como responsables a quienes:
 
-I.- Propicien la participación de los menores en la vida sexual, si se trata de impúberes;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-II.- Induzcan a la depravación de los menores, si son púberes;
+I.- Propicien la participación de menores en la vida sexual, si se trata de impúberes;
 
-III.- Propicien en los menores la mendicidad, vagancia, malvivencia, obscenidad en el lenguaje, prostitución, ebriedad, uso de tóxicos, pandillerismo, asociación delictuosa o cualquier otro comportamiento contrario al derecho, a la moral o a las buenas costumbres;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-IV.- Editen, distribuyan, hagan circular o muestren, en forma gratuita u onerosa, en público o en privado, historietas, folletos, dibujos, grabados, pinturas, fotografías, películas, cintas o cualquier otro medio de difusión pornográfica en perjuicio de un menor; y
+II.- Induzcan a la depravación de menores, si son púberes;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+III.- Propicien en menores la mendicidad, vagancia, malvivencia, obscenidad en el lenguaje, prostitución, ebriedad, uso de tóxicos, pandillerismo, asociación delictuosa o cualquier otro comportamiento contrario al derecho, a la moral o a las buenas costumbres;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IV.- Editen, distribuyan, hagan circular o muestren, en forma gratuita u onerosa, en público o en privado, historietas, folletos, dibujos, grabados, pinturas, fotografías, películas, cintas o cualquier otro medio de difusión pornográfica, que presente desnudez o actos que induzcan a la excitación erótico - sexual y produzcan daño al desarrollo físico, mental y/o moral en perjuicio de menores; y
 
 V.- No eviten la realización de los actos mencionados en la fracción que antecede, cuando así pudieren hacerlo.
 
@@ -499,39 +659,55 @@ V.- No eviten la realización de los actos mencionados en la fracción que antec
 
 Queda prohibido emplear a menores en cantinas, bares, tabernas, cervecerías, billares, cabarets, centros de vicio o en cualquier otro lugar que por su naturaleza comprometa su moralidad.
 
-Los representantes legales que tengan conocimiento y acepten o no eviten que un menor bajo su cuidado se emplee en alguno de esos centros, serán responsables solidariamente con el empleador.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
+Quienes ostentes la representación legal que tengan conocimiento y acepten o no eviten que una o un menor bajo su cuidado se emplee en alguno de esos centros, serán responsables solidariamente con quien les dio empleo.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 36.
 
-No se permitirá la entrada de menores a las cantinas, bares, tabernas, cervecerías, billares, cabarets, centros de vicio u otros sitios análogos, quedando a cargo de los propietarios o encargados de tales establecimientos la obligación de fijar en las puertas de los mismos un rótulo que exprese dicha prohibición y hacer que se cumpla.
+No se permitirá la entrada de menores a las cantinas, bares, tabernas, cervecerías, billares, cabarets, centros de vicio u otros sitios análogos, quedando a cargo de las o los propietarios o personas encargadas de tales establecimientos la obligación de fijar en las puertas de los mismos un rótulo que exprese dicha prohibición y hacer que se cumpla.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 37.
 
-Se prohibe la venta o suministro de bebidas embriagantes, tóxicos, solventes comerciales, cementos plásticos o cualquier otra sustancia inhalante a los menores de edad.
+Se prohíbe la venta o suministro de bebidas embriagantes, tóxicos, solventes comerciales, cementos plásticos o cualquier otra sustancia inhalante a menores de edad.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 38.
 
-Se prohibe permitir la entrada de menores de edad a funciones cinematográficas o teatrales, conferencias y exposiciones que inciten a la violencia o sean nocivas a su formación moral. También se prohibe vender, rentar o suministrar de cualquier forma, videograbaciones reservadas o clasificadas para adultos.
+Se prohíbe permitir la entrada de menores de edad a funciones cinematográficas o teatrales, conferencias y exposiciones que inciten a la violencia o sean nocivas a su formación moral. También se prohíbe vender, rentar o suministrar de cualquier forma, videograbaciones reservadas o clasificadas para personas adultas.
 
-Igualmente se prohibe que en los espectáculos propios para menores se anuncien o exhiban, a manera de propaganda por medios de avances o carteles, escenas obscenas de futuros espectáculos permitidos sólo para adultos.
+Igualmente se prohíbe que en los espectáculos propios para menores se anuncien o exhiban, a manera de propaganda por medios de avances o carteles, escenas obscenas de futuros espectáculos permitidos sólo para personas adultas.
 
-Los propietarios o encargados de las salas o teatros fijarán en las taquillas y en su propaganda dicha prohibición e impedirán el acceso a los menores, cuidando la exacta observancia de esta norma.
+Las y los propietarios o personas encargadas de las salas o teatros fijarán en las taquillas y en su propaganda dicha prohibición e impedirán el acceso a los menores, cuidando la exacta observancia de esta norma.
 
-La propaganda de espectáculos aptos para mayores que se haga a través de la presa (sic) y revistas o programas, no deberá contener grabados impúdicos.
+La propaganda de espectáculos aptos para personas mayores que se haga a través de la prensa y revistas o programas, no deberá contener grabados impúdicos.
 
-### CAPITULO CUARTO. DE LAS SANCIONES APLICABLES A QUIENES ATENTEN CONTRA LA INTEGRIDAD FISICA O MORAL DE LOS MENORES
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2007)</small>
+
+### CAPITULO CUARTO. DE LAS SANCIONES APLICABLES A QUIENES ATENTEN CONTRA LA INTEGRIDAD FISICA O MORAL DE LAS Y LOS MENORES
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 39.
 
-Los padres, tutores o encargados de la patria potestad que se mostraren negligentes en el cuidado y educación de los menores confiados a su potestad o custodia serán sancionados con amonestación y multa de entre 50 a 300 veces el salario mínimo diario general vigente en la entidad.
+Las madres y padres, encargados de la tutela o de la patria potestad que se mostraren negligentes en el cuidado y educación de menores confiados a su potestad o custodia recibirán sanción con amonestación y multa de entre 50 a 300 veces el salario mínimo diario general vigente en la entidad.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 40.
 
-Se amonestará e impondrá multa de entre 100 y 500 veces el salario mínimo diario general vigente en la entidad, sin perjuicio de las acciones que correspondan conforme a esta ley a la Procuraduría de la Familia para solicitar la pérdida de los derechos inherentes a la patria potestad o tutela cuando proceda y, en su caso, la responsabilidad penal que fuere exigible a los padres, tutores o encargados de la patria potestad de los menores o a cualquier persona, cuando los maltraten física o mentalmente; les diesen órdenes, consejos o ejemplos corruptores; los expongan o abandonen o cuando por cualquier otro acto comprometan la salud, seguridad o moralidad de sus hijos o custodios.
+Se amonestará e impondrá multa de entre 100 y 500 veces el salario mínimo diario general vigente en la entidad, sin perjuicio de las acciones que correspondan conforme a esta ley a la Procuraduría de la Familia para solicitar la pérdida de los derechos inherentes a la patria potestad o tutela cuando proceda y, en su caso, la responsabilidad penal que fuere exigible a las madres, los padres, encargados de la tutela o de la patria potestad de las y los menores o a cualquier persona, cuando se les maltrate física o mentalmente; les diesen órdenes, consejos o ejemplos corruptores; se les exponga o abandonen o cuando por cualquier otro acto comprometan la salud, seguridad o moralidad de sus hijas, hijos o custodios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 41.
 
-A quienes incurran en algunas de las faltas previstas en los artículos 33 a 38 de esta ley, serán sancionados con amonestación y multa de entre 300 a 800 veces el salario mínimo diario general vigente en la entidad, sin perjuicio de la responsabilidad penal en que pudiesen incurrir. Cuando los infractores sean reincidentes a estas disposiciones, dará lugar, por parte de las autoridades competentes, a la clausura de los establecimientos o locales donde se cometan.
+A quienes incurran en algunas de las faltas previstas en los artículos 33 a 38 de esta ley, serán sancionados con amonestación y multa de entre 300 a 800 veces el salario mínimo diario general vigente en la entidad, sin perjuicio de la responsabilidad penal en que pudiesen incurrir. Cuando quienes incurran en infracción sean reincidentes a estas disposiciones, dará lugar, por parte de las autoridades competentes, a la clausura de los establecimientos o locales donde se cometan.
 
 Para los efectos del párrafo que antecede, se considera como reincidente a quien incurra dos o más veces en las infracciones previstas en dichos dispositivos, en cualquier tiempo.
 
@@ -539,11 +715,17 @@ Para los efectos del párrafo que antecede, se considera como reincidente a quie
 
 Las sanciones a que se refiere este capítulo serán impuestas por la Procuraduría de la Familia en la forma y términos siguientes:
 
-I.- Se citará al interesado personalmente o por correo certificado, con acuse de recibo, para que dentro de un plazo no menor de cinco ni mayor de quince días naturales comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes en relación con los hechos asentados en el acta de inspección respectiva.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-II.- Una vez oído al presunto infractor y desahogadas las pruebas que ofreciere y fueren admitidas, se procederá dentro de los cinco días hábiles siguientes a dictar, por escrito, el monto de la sanción que proceda, el cual será notificado en forma personal o por correo certificado con acuse de recibo al interesado; y
+I.- Se citará a la persona interesada por correo certificado con acuse de recibo, o de forma personal para que dentro de un plazo no menor de cinco ni mayor de quince días naturales comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes en relación con los hechos asentados en el acta de inspección respectiva.
 
-III.- Al imponer una sanción la Procuraduría fundará y motivará la resolución considerando, para tal efecto, la gravedad de la infracción, las condiciones personales y socioeconómicas del infractor y la calidad de reincidente.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II.- Una vez oído a quien se presume haya cometido infracción y desahogadas las pruebas que ofreciere y fueren admitidas, se procederá dentro de los cinco días hábiles siguientes a dictar, por escrito, el monto de la sanción que proceda, el cual será notificado en forma personal o por correo certificado con acuse de recibo de la parte interesada; y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+III.- Al imponer una sanción la Procuraduría fundará y motivará la resolución considerando, para tal efecto, la gravedad de la infracción, las condiciones personales y socioeconómicas de quien cometa infracción y la calidad de la persona reincidente.
 
 ###### ARTICULO 43.
 
@@ -553,15 +735,19 @@ Las amonestaciones podrán ser públicas o privadas.
 
 El importe de las multas impuestas deberá pagarse en la recaudación de rentas respectiva en el plazo que señale la propia Procuraduría de la Familia, el que no deberá exceder de quince días naturales. Si transcurrido el plazo no se paga la multa, la propia recaudación de rentas que corresponda las hará efectivas conforme al procedimiento administrativo de ejecución.
 
-El importe de las multas que se recabe con motivo de la aplicación de las sanciones a que se refiere este capítulo se enterará al Sistema, a efecto de que éste lo destine exclusivamente a los programas que implemente en beneficio de los menores.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
+El importe de las multas que se recauden con motivo de la aplicación de las sanciones a que se refiere este capítulo se enterará al Sistema, a efecto de que éste lo destine exclusivamente a los programas que implemente en beneficio de menores.
 
 ###### ARTICULO 45.
 
 El Sistema, a través de la Procuraduría de la Familia, podrá solicitar en cualquier tiempo a las autoridades estatales o municipales competentes, la suspensión de patentes, licencias o concesiones, así como la clausura o cambio de ubicación de establecimientos mercantiles en que se expendan bebidas alcohólicas o que los mismos constituyan un centro de vicio y que por su funcionamiento se afecte a la comunidad.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 46.
 
-El Sistema, a través de la Procuraduría de la Familia, podrá denunciar ante las autoridades competentes en la materia, a los patrones que infrinjan las disposiciones relativas a la protección de las mujeres y menores trabajadores, en los términos previstos por la Ley Federal del Trabajo y demás ordenamientos aplicables.
+El Sistema, a través de la Procuraduría de la Familia, podrá denunciar ante las autoridades competentes en la materia, a quienes en su calidad de jefes o patrones infrinjan las disposiciones relativas a la protección de las mujeres y menores que trabajan, en los términos previstos por la Ley Federal del Trabajo y demás ordenamientos aplicables.
 
 ###### ARTICULO 47.
 
@@ -589,7 +775,9 @@ IV.- Coordinar y proponer programas, para el establecimiento y apoyo de la benef
 
 Los convenios y contratos que celebre el Sistema con los sectores social y privado, deberán ajustarse a las siguientes bases:
 
-I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+I.- Definición de las responsabilidades que asuman integrantes de los sectores social y privado;
 
 II.- Determinación de las acciones de orientación, estímulo y apoyo, que llevará a cabo el Gobierno del Estado, por conducto del Sistema;
 
@@ -611,7 +799,9 @@ A propuesta del Sistema, el Gobierno del Estado dictaminará el otorgamiento de 
 
 El Gobierno del Estado, a través del Sistema y mediante la inducción, promoverá la organización y participación activa de la comunidad, en la atención de aquellos casos que, por sus características, requieran de acciones de asistencia social basadas en el apoyo y solidaridad social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente, en el caso de comunidades afectadas de marginación.
 
-El Gobierno del Estado y el Sistema, pondrán especial atención en la promoción de acciones que beneficien a menores en situación extraordinaria y discapacitados.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
+El Gobierno del Estado y el Sistema, pondrán especial atención en la promoción de acciones que beneficien a menores en situación extraordinaria y quienes padezcan alguna discapacidad.
 
 ###### ARTICULO 54.
 
@@ -619,7 +809,9 @@ El Gobierno del Estado, directamente o a través del Sistema, promoverá la orga
 
 La participación a que se refiere este artículo, será a través de las siguientes acciones:
 
-I.- Promoción de hábitos de conducta y de valores, que contribuyan a la protección de los grupos vulnerables, a su superación y a la prevención de la discapacidad;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+I.- Promoción de hábitos de conducta y de valores, que contribuyan a la protección de grupos vulnerables, a su superación y a la prevención de la discapacidad;
 
 II.- Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social, bajo la dirección y control de las autoridades correspondientes;
 
@@ -647,7 +839,9 @@ I.- Promover y prestar servicios de asistencia social;
 
 II.- Apoyar el desarrollo de la familia y de la comunidad;
 
-III.- Realizar acciones de apoyo educativo, para la integración social, y de capacitación para el trabajo, a los sujetos de la asistencia social;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+III.- Realizar acciones de apoyo educativo, para la integración social, y de capacitación para el trabajo, a las y los sujetos de la asistencia social;
 
 IV.- Promover e impulsar el sano crecimiento físico, mental y social de la niñez;
 
@@ -655,11 +849,17 @@ V.- Proponer programas de asistencia social que contribuyan al uso eficiente de 
 
 VI.- Fomentar, apoyar, coordinar y evaluar las actividades que lleven a cabo las instituciones de asistencia o asociaciones civiles y todo tipo de entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias de la Administración Pública Estatal;
 
-VII.- Operar establecimientos de asistencia social en beneficio de menores en situación extraordinaria, de ancianos desamparados y de personas con discapacidad de escasos recursos;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+VII.- Operar establecimientos de asistencia social en beneficio de menores en situación extraordinaria, de personas adultas mayores en desamparo y de personas con discapacidad de escasos recursos;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
 VIII.- Llevar a cabo acciones en materia de prevención de personas con discapacidad o incapacidad, así como de rehabilitación de personas con discapacidad, en centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
 
-IX.- Realizar estudios e investigaciones sobre asistencia social, con la participación, en su caso, de las autoridades asistenciales de la federación y de los municipios;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IX.- Realizar estudios e investigaciones sobre asistencia social, con la participación, en su caso, de las autoridades asistenciales de la federación y de los municipios considerando la variable relativa al genero;
 
 X.- Elaborar y proponer, en los términos de las disposiciones aplicables, los proyectos de reglamentos que se requieran en materia de asistencia social;
 
@@ -667,9 +867,13 @@ XI.- Realizar y promover la capacitación de recursos humanos para la asistencia
 
 XII.- Operar el Sistema Estatal de Información Básica en Materia de Asistencia Social, a que se refiere el artículo 8, fracción XIV, de esta ley;
 
-XIII.- Prestar servicios de asistencia jurídica y de orientación social y familiar a menores, ancianos y personas con discapacidad de escasos recursos;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-XIV.- Apoyar el ejercicio de la tutela de los incapaces que corresponda al estado, en los términos de las disposiciones aplicables;
+XIII.- Prestar servicios de asistencia jurídica y de orientación social y familiar a menores, personas adultas mayores y personas con discapacidad de escasos recursos;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XIV.- Apoyar el ejercicio de la tutela de las personas incapaces que corresponda al estado, en los términos de las disposiciones aplicables;
 
 XV.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecte, de acuerdo con las disposiciones legales correspondientes;
 
@@ -685,17 +889,23 @@ XX.- Apoyar la coordinación entre las instituciones que presten servicios de as
 
 XXI.- Promover la investigación científica y tecnológica, que tienda a desarrollar y mejorar la prestación de los servicios asistenciales;
 
-XXII.- Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-XXIII.- Promover, supervisar y vigilar el desempeño de la (sic) instituciones de asistencia privada;
+XXII.- Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social; en el que se agregue la variable del género;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XXIII.- Promover, supervisar y vigilar el desempeño de las instituciones de asistencia privada;
 
 XXIV.- Prestar servicios de asistencia social cuya atención no esté reservada a la federación o a la acción coordinada de ésta con el estado; y
 
 XXV.- Las demás que establezcan las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 57.
 
-En casos de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de naturaleza similar, por los que se causen daños a la población, el Sistema, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, coadyuvará, en el ámbito de su competencia, en la atención y coordinación de las acciones de los distintos sectores sociales que actúen en beneficio de aquéllos.
+En casos de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de naturaleza similar, por los que se causen daños a la población, el Sistema, sin perjuicio de las atribuciones que en auxilio de las personas damnificadas lleven a cabo otras dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, coadyuvará, en el ámbito de su competencia, en la atención y coordinación de las acciones de los distintos sectores sociales que actúen en beneficio de ellas.
 
 ###### ARTICULO 58.
 
@@ -737,15 +947,19 @@ II.- Una Junta de Gobierno; y
 
 III.- Una Dirección General.
 
-La vigilancia de la operación del Sistema, estará a cargo de un Comisario.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
+La vigilancia de la operación del Sistema, estará a cargo de una Comisaría.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 61.
 
-El patronato estará integrado por un Presidente Ejecutivo y cuatro miembros designados y removidos libremente por el Gobernador del Estado.
+El patronato estará integrado por una Presidencia Ejecutiva y cuatro integrantes que designará y removerá libremente por el Gobernador del Estado.
 
-El Patronato podrá designar un Presidente Honorario que no formará parte del mismo para los efectos de las facultades y obligaciones que la ley le asigna, pero participará en las sesiones y eventos especiales que tengan lugar, con voz pero sin voto.
+El Patronato podrá designar una Presidencia o Presidente Honorario que no formará parte del mismo para los efectos de las facultades y obligaciones que la ley le asigna, pero participará en las sesiones y eventos especiales que tengan lugar, con voz pero sin voto.
 
-Los miembros del patronato no percibirán remuneración alguna y se seleccionarán de entre los sectores público, social y privado.
+Quienes integran el patronato no percibirán remuneración alguna y se seleccionarán de entre los sectores público, social y privado
 
 ###### ARTICULO 62.
 
@@ -757,7 +971,9 @@ II.- Emitir opinión y recomendaciones sobre los presupuestos y estados financie
 
 III.- Apoyar las actividades del Sistema y formular sugerencias tendientes a su mejor desempeño;
 
-IV.- Designar de entre sus miembros al Secretario del mismo; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IV.- Designar de entre sus integrantes a la Secretaria o Secretario del mismo; y
 
 V.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
@@ -765,21 +981,33 @@ V.- Las demás que sean necesarias para el ejercicio de las facultades anteriore
 
 El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran en cualquier tiempo, de conformidad con el reglamento respectivo.
 
-A las sesiones podrá asistir el Director General del Sistema con voz, pero sin voto.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2004)</small>
+A las sesiones podrá asistir la Directora o Director General del Sistema con voz, pero sin voto.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 64.
 
-La Junta de Gobierno será el órgano superior de gobierno del Sistema y estará integrada por:
+La Junta de Gobierno será el órgano superior del Sistema y estará integrada por:
 
-I. La o el titular de la Secretaría de Desarrollo Social, quien la presidirá; y,
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-II. Por cuatro vocales que serán las o los titulares de las Secretarías del Ejecutivo del Estado, que sean designados (as) y removidos (as) libremente por el Gobernador.
+I. La o el titular de la Secretaría de Desarrollo Social, quien habrá de presidirla; y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II. Por cuatro vocales que serán las o los titulares de las Secretarías del Ejecutivo del Estado, cuya designación o remoción hará libremente el Gobernador.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2004)</small>
 
 Las o los titulares de la Presidencia de la Junta de Gobierno y de la Dirección del Sistema, representarán a la misma frente al Patronato.
 
-Las o los integrantes de la Junta de Gobierno, no percibirán remuneración alguna. Serán suplidos en sus ausencias por quienes sean designados para este efecto por las o los titulares.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
+Las o los integrantes de la Junta de Gobierno no percibirán remuneración alguna. Las ausencias se suplirán por quienes designen sus titulares.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2004)</small>
 
 La Junta de Gobierno contará con una Secretaría Técnica, que estará a cargo de la persona que sea designada por misma, a propuesta de su Presidenta o Presidente.
 
@@ -789,25 +1017,29 @@ La Junta de Gobierno tendrá las siguientes facultades:
 
 I.- Establecer las directrices generales para el eficaz funcionamiento del Sistema;
 
-II.- Aprobar el programa anual de trabajo que someta a su consideración el Director General;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II.- Aprobar el programa anual de trabajo que someta a su consideración la persona a cargo de la Dirección General;
 
 III.- Conocer y aprobar, en su caso, el presupuesto anual de egresos y la estimación de ingresos para el siguiente año;
 
-IV.- Examinar y aprobar, en su caso, los estados financieros mensuales, los balances ordinarios y extraordinarios y los informes generales y especiales que someta a su consideración el Director General;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IV.- Examinar y aprobar, en su caso, los estados financieros mensuales, los balances ordinarios y extraordinarios y los informes generales y especiales que someta a su consideración quien ostente la Dirección General;
 
 V.- Conocer los convenios y contratos que el Sistema celebre con la federación, municipios y demás instituciones, públicas o privadas, a fin de coadyuvar en la prestación de los servicios de asistencia social que le competen;
 
 VI.- Planear y autorizar la gestión de los créditos que requieran el Sistema para su adecuado funcionamiento;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-VII.- Otorgar al Director General o a personas distintas a éste, poder general para pleitos y cobranzas y actos de administración con todas las facultades aún las que requieran poder especial conforme a la ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila. Estará facultado además, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito.
-
-El mandato podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas o judiciales;
+VII.- Otorgar a la Directora o Director General o personas distintas, poder general para pleitos y cobranzas y actos de administración con todas las facultades aún las que requieran poder especial conforme a la ley, en los términos del artículo 2554 del Código Civil Federal y su correlativo, el artículo 3008 del Código Civil del Estado de Coahuila Zaragoza. Tendrá facultades además, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito;
 
 VIII.- Otorgar poderes especiales y generales a las personas que juzgue conveniente, con todas sus facultades, aún las que conforme a la ley requieran cláusula especial;
 
-IX.- Conocer los informes, dictámenes y recomendaciones del Comisario y de las auditorias externas que, en su caso, se practiquen;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IX.- Conocer los informes, dictámenes y recomendaciones de quien esta a cargo de la Comisaría y de las auditorias externas que, en su caso, se practiquen;
 
 X.- Determinar la integración de comités técnicos y grupos de trabajo temporales que se requieran;
 
@@ -815,73 +1047,107 @@ XI.- Emitir opinión, ante las instancias respectivas, sobre el otorgamiento de 
 
 XII.- Aceptar herencias, legados, donaciones y demás aportaciones;
 
-XIII.- Proponer en terna al titular del Ejecutivo Estatal la designación del Procurador de la Familia;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-XIV.- Designar al Subprocurador y a los delegados regionales de la Procuraduría de la Familia;
+XIII.- Proponer en terna al titular del Ejecutivo Estatal la designación de la Procuradora o Procurador de la Familia;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XIV.- Designar a las personas responsables de la Subprocuraduría y las Delegaciones Regionales de la Procuraduría de la Familia;
 
 XV.- Aprobar el reglamento interior del Sistema y los manuales de organización y de procedimientos; y
 
 XVI.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 66.
 
-La Junta de Gobierno podrá integrar los comités técnicos necesarios para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en la atención de las tareas asistenciales, los que someterán a la consideración de la propia Junta, las observaciones y recomendaciones que estimen convenientes en relación con dichas tareas. Estos comités estarán formados por los representantes que, al efecto, designen las dependencias y entidades competentes.
+La Junta de Gobierno podrá integrar los comités técnicos necesarios para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en la atención de las tareas asistenciales, los que someterán a la consideración de la propia Junta, las observaciones y recomendaciones que estimen convenientes en relación con dichas tareas. Estos comités estarán formados por representantes que, al efecto, designen las dependencias y entidades competentes.
 
 ###### ARTICULO 67.
 
 La Junta de Gobierno celebrará sesiones ordinarias bimestrales y las extraordinarias que se requieran en cualquier tiempo, de conformidad con lo previsto en el reglamento respectivo.
 
-Las sesiones de la Junta serán válidas cuando el quórum se integre con la mitad más uno de sus miembros, siempre que estuviere presente su Presidente o quien legalmente deba suplirlo.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
-Los acuerdos se tomarán por mayoría de votos de los miembros asistentes a las sesiones. En caso de empate el Presidente de la Junta tendrá voto de calidad.
+Las sesiones de la Junta serán válidas cuando el quórum se constituya con la mitad más uno de sus integrantes, siempre que estuviere presente su titular o quien legalmente deba hacer la suplencia.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
+Los acuerdos se tomarán por mayoría de votos de quienes asistan a las sesiones. En caso de empate su titular tendrá voto de calidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 68.
 
-El Presidente de la Junta tendrá las atribuciones siguientes:
+La Presidencia de la Junta tendrá las atribuciones siguientes:
 
-I.- Convocar, a través del Secretario Técnico de la Junta, a los miembros del mismo, al Director General y al Comisario a las sesiones que se desarrollen conforme al Orden del Día que para ese efecto se elabore;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+I.- Convocar, a través de la Secretaría Técnica de la Junta, a integrantes de la misma, a la persona que ocupe la Dirección General y la Comisaría a las sesiones que se desarrollen conforme al Orden del Día que para ese efecto se elabore;
 
 II.- Dirigir las sesiones de la Junta y declarar resueltos los asuntos en el sentido de las votaciones;
 
 III.- Resolver, bajo su más estricta responsabilidad aquellos asuntos de los que deba conocer la Junta de Gobierno, que obedezcan a caso fortuito o fuerza mayor y no admitan demora, debido a que sus consecuencias sean irreparables. En estos casos, deberá la Junta de Gobierno reunirse cuando (sic) antes para adoptar las medidas procedentes;
 
-IV.- Suscribir y autorizar, en unión del Secretario Técnico, las actas que se levanten de las sesiones que celebre la Junta; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IV.- Suscribir y autorizar, en unión de la Secretaría Técnica, las actas que se levanten de las sesiones que celebre la Junta; y
 
 V.- En general, realizar todos aquellos actos que fuesen necesarios para el eficiente funcionamiento de la Junta y del Sistema, así como aquellos que emanen de otras leyes y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 69.
 
-El Secretario Técnico de la Junta tendrá las siguientes facultades:
+La Secretaría Técnica de la Junta tendrá las siguientes facultades:
 
-I.- Comunicar a los miembros de la Junta, al Director General y al Comisario las convocatorias para las sesiones que se lleven a cabo;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-II.- Tomar las votaciones de los miembros facultados para ello y que estén presentes en cada sesión;
+I.- Comunicar a integrantes de la Junta, a la Dirección General y a la Comisaría las convocatorias para las sesiones que se lleven a cabo;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II.- Tomar las votaciones de quienes son integrantes con facultades para ello presentes en cada sesión;
 
 III.- Levantar y autorizar con su firma las actas correspondientes a las sesiones que celebre la Junta; y
 
-IV.- Las demás facultades que le sean expresamente señaladas por el reglamento interior del Sistema y por el Presidente de la Junta.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IV.- Las demás facultades que le sean expresamente señaladas por el reglamento interior del Sistema y por la Presidenta o Presidente de la Junta.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 70.
 
-Los Vocales tendrán las siguientes atribuciones:
+Quienes son Vocales tendrán las siguientes atribuciones:
 
 I.- Asistir con voz y voto a las sesiones que celebre la Junta;
 
-II.- Integrar los grupos de trabajo y desarrollar las comisiones que sean necesarias para el cumplimiento del objeto del Sistema;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II.- Integrar grupos de trabajo y desarrollar las comisiones que sean necesarias para el cumplimiento del objeto del Sistema;
 
 III.- Suscribir las actas de las sesiones a las que asistieren;
 
-IV.- Someter a la consideración del Presidente de la Junta los asuntos que estimen convenientes desahogar en las sesiones, que no se encuentren considerados en el Orden del Día; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IV.- Someter a la consideración de la Presidencia de la Junta los asuntos que estimen convenientes desahogar en las sesiones, que no se encuentren considerados en el Orden del Día; y
 
 V.- Las demás facultades que les sean expresamente señaladas por el reglamento interior del Sistema y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 71.
 
-El Director General será designado y removido libremente por el Gobernador del Estado. Deberá ser ciudadano mexicano por nacimiento, mayor de edad y con experiencia en materia administrativa y de asistencia social.
+La Directora o Director General se designará y removerá libremente por el Gobernador del Estado. Deberá tener la ciudadanía mexicana por nacimiento, la mayoría de edad, así como la experiencia en materia administrativa y de asistencia social.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 72.
 
-El Director General tendrá las siguientes facultades:
+La Directora o Director General tendrá las siguientes facultades:
 
 I.- Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
 
@@ -899,7 +1165,9 @@ VII.- Llevar la contabilidad del Sistema, a través de las oficinas que al efect
 
 VIII.- Asistir a las sesiones que celebre la Junta de Gobierno, sin tener voto en los acuerdos que se tomen en las mismas;
 
-IX.- Designar y remover a los servidores de mandos medios y superiores, informando de ello a la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IX.- Designar y remover a mandos medios y superiores, informando de ello a la Junta de Gobierno;
 
 X.- Nombrar, remover y reubicar al personal de base del Sistema, así como establecer y coordinar las relaciones laborales, en los términos de las disposiciones legales aplicables;
 
@@ -907,15 +1175,19 @@ XI.- Otorgar a las personas que juzgue conveniente poderes especiales y generale
 
 XII.- Las demás que por acuerdo de la Junta se le atribuyan, así como las que le competan conforme al reglamento interior del Sistema y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 73.
 
-El Ejecutivo del Estado designará y removerá libremente a un Comisario, que tendrá las atribuciones siguientes:
+El Ejecutivo del Estado designará y removerá libremente a la Comisaria o Comisario, que tendrá las atribuciones siguientes:
 
 I.- Vigilar que la administración de los recursos se haga de acuerdo con lo que disponga la ley, los programas y presupuestos aprobados por la Junta de Gobierno;
 
 II.- Practicar las auditorias de los estados financieros y las de carácter administrativo al término del ejercicio o antes si así lo estima conveniente;
 
-III.- Rendir anualmente en sesión de la Junta de Gobierno un dictamen respecto de la información presentada por el Director General;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+III.- Rendir anualmente en sesión de la Junta de Gobierno un dictamen respecto de la información presentada por la persona titular de la Dirección General;
 
 IV.- Solicitar que se inserten en el Orden del Día de las sesiones de la Junta de Gobierno los asuntos que crea convenientes;
 
@@ -923,11 +1195,15 @@ V.- Solicitar que se convoque a sesiones en los casos en que lo juzgue pertinent
 
 VI.- Asistir con voz, pero sin voto a las sesiones que celebre la Junta del Gobierno;
 
-VII.- Recomendar a la Junta de Gobierno y/o al Director General del Sistema, las medidas preventivas y correctivas que sean convenientes para el mejoramiento del propio Sistema; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+VII.- Recomendar a la Junta de Gobierno y/o Dirección General del Sistema, las medidas preventivas y correctivas que sean convenientes para el mejoramiento del propio Sistema; y
 
 VIII.- Vigilar ilimitadamente, en cualquier tiempo, las operaciones del Sistema.
 
-El Comisario, para el debido cumplimiento de sus atribuciones se podrá auxiliar del personal técnico que requiera.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
+La persona titular de la Comisaría, para el debido cumplimiento de sus atribuciones se podrá auxiliar del personal técnico que requiera.
 
 ### CAPITULO CUARTO. DE LAS RELACIONES LABORALES DEL SISTEMA
 
@@ -935,13 +1211,17 @@ El Comisario, para el debido cumplimiento de sus atribuciones se podrá auxiliar
 
 Las relaciones de trabajo entre el Sistema y su personal, se regirán por el Estatuto Jurídico para los Trabajadores al Servicio del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 75.
 
-Los trabajadores del Sistema quedarán sujetos al régimen de la Ley de Pensiones y otros Beneficios Sociales de los Trabajadores al Servicio del Gobierno del Estado de Coahuila y disfrutarán de las demás prestaciones de seguridad social que determine la Junta de Gobierno.
+Quienes son trabajadores del Sistema quedarán sujetos al régimen de la Ley de Pensiones y otros Beneficios Sociales de los Trabajadores al Servicio del Gobierno del Estado de Coahuila y disfrutarán de las demás prestaciones de seguridad social que determine la Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 76.
 
-Además de las facultades y atribuciones consignadas en la presente ley, la Junta de Gobierno del Sistema, con apoyo de la Dirección General del mismo, establecerá las condiciones generales de trabajo del personal; determinará qué trabajadores serán de base y de confianza, atendiendo a la naturaleza de las funciones que tengan asignadas. Elaborará la plantilla de personal y expedirá las demás disposiciones que estime necesarias para la organización y administración de los recursos humanos del Sistema.
+Además de las facultades y atribuciones consignadas en la presente ley, la Junta de Gobierno del Sistema, con apoyo de la Dirección General del mismo, establecerá las condiciones generales de trabajo del personal; determinará quienes serán de base y de confianza, atendiendo a la naturaleza de las funciones que tengan asignadas. Elaborará la plantilla de personal y expedirá las demás disposiciones que estime necesarias para la organización y administración de los recursos humanos del Sistema.
 
 ### CAPITULO QUINTO. DE LOS SISTEMAS MUNICIPALES DE ASISTENCIA SOCIAL
 
@@ -951,19 +1231,27 @@ Cada uno de los municipios de la entidad contará con un organismo descentraliza
 
 Los organismos municipales a que se refiere el presente artículo tendrán, para el adecuado cumplimiento de su objeto, los siguientes órganos de dirección y administración:
 
-I.- Una Junta de Gobierno que será presidida por el Presidente Municipal correspondiente, así como por vocales que no serán menos de cuatro ni más de ocho, mismos que serán designados y removidos libremente por el Ayuntamiento;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-II.- Un Director General, que será designado por la Junta de Gobierno.
+I.- Una Junta de Gobierno que será presidida por la Presidenta o Presidente Municipal correspondiente, así como por vocales que no serán menos de cuatro ni más de ocho, a quienes el Ayuntamiento designará y removerá libremente;
 
-La Junta de Gobierno podrá designar un Presidente Honorario que no formará parte de la misma para los efectos de las atribuciones y obligaciones que las disposiciones legales le asignen, pero podrá participar en las sesiones y eventos especiales que se verifiquen, con voz pero sin voto.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II.- Una Directora o Director General, que será designado por la Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
+La Junta de Gobierno podrá designar una Presidenta o Presidente Honorario que no formará parte de la misma para los efectos de las atribuciones y obligaciones que las disposiciones legales le asignen, pero podrá participar en las sesiones y eventos especiales que se verifiquen, con voz pero sin voto.
 
 ## TITULO TERCERO. DE LA PROCURADURIA DE LA FAMILIA
 
 ### CAPITULO PRIMERO. DEL OBJETO Y ATRIBUCIONES DE LA PROCURADURIA
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 78.
 
-La Procuraduría de la Familia es un órgano del Sistema para el Desarrollo Integral de la Familia, que tiene por objeto la asistencia, defensa, asesoría, protección y orientación del menor en situación extraordinaria, así como de la familia.
+La Procuraduría de la Familia es un órgano del Sistema para el Desarrollo Integral de la Familia, que tiene por objeto la asistencia, defensa, asesoría, protección y orientación de menores en situación extraordinaria, así como de la familia.
 
 ###### ARTICULO 79.
 
@@ -971,21 +1259,35 @@ Para el cumplimiento de su objeto, la Procuraduría de la Familia tendrá las si
 
 I.- Prestar asesoría jurídica a la familia, siempre que su intervención sea conveniente para mantener la estabilidad familiar;
 
-II.- Recibir toda denuncia de maltrato o abandono de menores, de ancianos, de discapacitados, de incapaces y de mujeres;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II.- Recibir toda denuncia de maltrato o abandono de menores, de personas adultas mayores, de personas con discapacidad, de incapaces, de mujeres y de cualquier integrante de la familia;
 
 III.- Realizar las investigaciones tendientes a conocer el abandono o maltrato a que se refiere la fracción anterior;
 
-IV.- Conocer de los actos de violencia intrafamiliar y llevar las constancias administrativas correspondientes;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-V.- Proporcionar, en coordinación con los programas que al efecto establezca el Sistema, la atención psicoterapéutica especializada en los casos en que se presente violencia intrafamiliar o maltrato a los miembros de la familia;
+IV.- Conocer de los actos de violencia familiar y llevar las constancias administrativas correspondientes;
 
-VI.- Establecer los procedimientos administrativos procedentes para la prevención y atención de la violencia intrafamiliar e imponer las sanciones conducentes, conforme a la ley de la materia;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-VII.- Solicitar la práctica de exámenes médicos o psicológicos necesarios para determinar si un menor se encuentra en situación extraordinaria;
+V.- Proporcionar, en coordinación con los programas que al efecto establezca el Sistema, la atención psicoterapéutica especializada en los casos en que se presente violencia familiar o maltrato a quienes integran familia;
 
-VIII.- Disponer la separación provisional y preventiva del seno familiar, o de quienes ejerzan la patria potestad, de aquellos menores que se encuentren en situación extraordinaria y se presuma la existencia de un peligro inminente e inmediato a su salud o seguridad;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-IX.- Determinar la custodia por parte del Sistema, a través del depósito de los menores en las casas cuna o albergues que coordine, a efecto de salvaguardar la integridad física y moral de los mismos; hasta en tanto sea resuelta en definitiva su situación legal;
+VI.- Establecer los procedimientos administrativos procedentes para la prevención y atención de la violencia familiar e imponer las sanciones conducentes, conforme a la ley de la materia;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+VII.- Solicitar la práctica de exámenes médicos o psicológicos necesarios para determinar si una o un menor se encuentra en situación extraordinaria;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+VIII.- Disponer la separación provisional y preventiva del seno familiar, o de quienes ejerzan la patria potestad, de menores que se encuentren en situación extraordinaria y se presuma la existencia de un peligro inminente e inmediato a su salud o seguridad;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IX.- Determinar la custodia por parte del Sistema, a través del depósito de menores en las casas cuna o albergues que coordine, a efecto de salvaguardar su integridad física y moral, hasta en tanto sea resuelta en definitiva su situación legal;
 
 X.- Promover ante las autoridades judiciales que correspondan, la tramitación de los juicios relativos a la pérdida de la patria potestad y de la custodia, en su caso, de menores;
 
@@ -993,21 +1295,33 @@ XI.- Iniciar ante las instancias judiciales competentes los trámites de adopci�
 
 XII.- Llevar a cabo visitas de inspección para verificar que en los sitios o establecimientos a que se refieren los artículos 35 a 38 de la presente ley, se cumplan con las disposiciones previstas en esta ley, así como vigilar que se coloquen los rótulos alusivos a las prohibiciones y sanciones relativas.
 
-En las diligencias de inspección el representante de la Procuraduría deberá identificarse como tal y presentar la orden expresa, fundada y motivada, de dicha función.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
-XIII.- Promover las acciones que resulten necesarias ante las autoridades correspondientes, en favor del menor, en los casos de incumplimiento de proporcionar alimentos por parte de quien tenga la obligación de ministrarlos;
+En las diligencias de inspección quien represente a la Procuraduría deberá identificarse como tal y presentar la orden expresa, fundada y motivada, de dicha función;
 
-XIV.- Coadyuvar con las autoridades educativas para que los menores concurran a las escuelas primarias y secundarias, exhortando a sus representantes legales, para que los inscriban y los obliguen a asistir;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-XV.- Vigilar que los menores reciban atención adecuada a sus aptitudes y posibilidades, gestionando ante las autoridades correspondientes las becas necesarias, para que los de escasos recursos que demuestren habilidad e interés, prosigan estudios superiores;
+XIII.- Promover las acciones que resulten necesarias ante las autoridades correspondientes, en favor de menores, en los casos de incumplimiento de proporcionar alimentos por parte de quien tenga la obligación de ministrarlos;
 
-XVI.- Supervisar a los menores que por cuenta propia realicen trabajos en sitios públicos, verificando los datos referentes a su persona y a la de sus padres, o tutores, su escolaridad, estado de salud y destino que dan a sus ingresos, para determinar si las labores que desempeñan les son perjudiciales o si son explotados. En este último caso, se solicitará de la autoridad competente la cancelación de permiso o licencia correspondiente del empleador;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-XVII.- Gestionar ante la unidad estatal encargada de llevar a cabo la función del registro civil la regularización de las uniones libres y el registro del nacimiento de menores, siempre y cuando se acredite que los interesados sean de escasos recursos económicos;
+XIV.- Coadyuvar con las autoridades educativas para que las y los menores concurran a las escuelas primarias y secundarias, exhortando a sus representantes legales, para que les inscriban y los obliguen a asistir;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XV.- Vigilar que las y los menores reciban atención adecuada a sus aptitudes y posibilidades, gestionando ante las autoridades correspondientes las becas necesarias, para que quienes sean de escasos recursos que demuestren habilidad e interés, prosigan estudios superiores;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XVI.- Supervisar a menores que por cuenta propia realicen trabajos en sitios públicos, verificando los datos referentes a la persona y a la del padre, madre o quienes ejerzan la patria potestad o la tutela, su escolaridad, estado de salud y destino que dan a sus ingresos, para determinar si las labores que desempeñan son perjudiciales o representan algún tipo de explotación. En este último caso, se solicitará de la autoridad competente la cancelación de permiso o licencia correspondiente de quien les haya dado el empleo;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+XVII.- Gestionar ante la unidad estatal encargada de llevar a cabo la función del registro civil la regularización de las uniones libres y el registro del nacimiento de menores, siempre y cuando se acredite que las o los interesados sean de escasos recursos económicos;
 
 XVIII.- Promover y fomentar la creación de brigadas para la detención y prevención de problemas sociales;
 
-XIX.- Difundir por los medios más eficaces el contenido y sentido de la presente ley, a efecto de lograr su plena observancia; y
+XIX.- Difundir por los medios más eficaces el contenido y sentido de la presente ley, a efecto de lograr su plena observancia; y (sic)
 
 XX.- Vigilar que los recursos se utilicen de acuerdo con los fines y propósitos previstos en ésta ley, denunciando las desviaciones de otro carácter; y
 
@@ -1019,43 +1333,65 @@ XXI.- Las demás que le confiera la presente ley y otras disposiciones aplicable
 
 La Procuraduría estará integrada de la siguiente manera:
 
-I.- Por un Procurador, que será designado y removido libremente por el titular del Ejecutivo Estatal, a propuesta en terna de la Junta de Gobierno del Sistema;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-II.- Por un Subprocurador, que será designado y removido libremente por la Junta de Gobierno del Sistema, a propuesta del Procurador;
+I.- Por una Procuradora o Procurador, a quien designará y removerá libremente (sic) Ejecutivo Estatal, a propuesta en terna de la Junta de Gobierno del Sistema;
 
-III.- Por Delegados Regionales que se requieran y que serán designados por la Junta de Gobierno del Sistema, a propuesta del Procurador; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-IV.- Por el personal técnico y administrativo que determine el presupuesto de egresos correspondiente.
+II.- Por una Subprocuradora o Subprocurador, que designará y removerá libremente la Junta de Gobierno del Sistema, a propuesta de la o el Titular de la Procuraduría;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+III.- Por Delegadas o Delegados Regionales que se requieran cuya designación la hará la Junta de Gobierno del Sistema, a propuesta de la o el Titular de la Procuraduría; y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+IV.- Por personal técnico y administrativo que determine el presupuesto de egresos correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 81.
 
-El Procurador, el Subprocurador y los Delegados Regionales deberán satisfacer los siguientes requisitos;
+Las personas que ocupen la titularidad de la Procuraduría, Subprocuraduría y Delegaciones Regionales deberán satisfacer los siguientes requisitos;
 
-I.- Ser mexicanos en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
-II.- Tener título de Licenciado en Derecho;
+I.- Ser mexicano o mexicana en pleno goce de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+II.- Tener título de Licenciatura en Derecho;
 
 III.- Ser de reconocida honorabilidad; y
 
 IV.- Tener vocación y conocimiento sobre la materia de asistencia social.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 82.
 
-El Procurador ejercerá las atribuciones a que se refiere el artículo 79 de esta ley y distribuirá las que correspondan al Subprocurador y demás personal a su cargo.
+Quien ocupe la titularidad de la Procuraduría ejercerá las atribuciones a que se refiere el artículo 79 de esta ley y distribuirá las que correspondan a la Subprocuradoría y demás personal a su cargo.
 
-Los Delegados Regionales ejercerán las mismas atribuciones que el Procurador de la Familia, siempre que sean compatibles con su cargo, pero en todo caso estarán sujetos a las instrucciones que reciban de éste.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
+Las personas titulares de las Delegaciones Regionales ejercerán las mismas atribuciones que la Procuradora o Procurador de la Familia, siempre que sean compatibles con su cargo, pero en todo caso atenderán a las instrucciones que reciban de su titular.
 
 Las Delegaciones Regionales contarán con el personal técnico y administrativo necesario para el desempeño de sus funciones y que prevea el presupuesto de egresos respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 83.
 
-El Procurador de la Familia tendrá además las facultades y obligaciones siguientes:
+La Procuradora o Procurador de la Familia tendrá además las facultades y obligaciones siguientes:
 
 I.- Informar en forma periódica la Junta de Gobierno y a la Dirección General del Sistema, el despacho general de los asuntos de su competencia, así como rendir los informes que le sean solicitados en cualquier tiempo;
 
 II.- Adoptar las medidas que juzgue pertinentes para el eficaz y eficiente desarrollo de las actividades de la Procuraduría;
 
-III.- Designar, en caso de ausencia, falta o excusa de los Delegados Regionales, a la persona que temporalmente desempeñará las funciones inherentes al cargo;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+
+III.- Designar, en caso de ausencia, falta o excusa de las personas titulares de las Delegaciones Regionales, a la persona que temporalmente desempeñará las funciones inherentes al cargo;
 
 IV.- Dirigir, coordinar, supervisar y evaluar el desempeño y funcionamiento de las unidades administrativas que le estén adscritas;
 
@@ -1067,9 +1403,11 @@ VII.- Elaborar y someter a la aprobación de la Junta de Gobierno el reglamento 
 
 VIII.- Las demás que le confiera el presente ordenamiento y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 84.
 
-A todas las actuaciones practicadas por el Procurador, el Subprocurador y los Delegados Regionales de la Procuraduría de la Familia, en ejercicio de sus atribuciones, se les concederá el valor que se otorga a los testimonios de personas investidas de fe pública.
+A todas las actuaciones practicadas por quienes ocupen la titularidad de la Procuraduría, Subprocuraduría y las Delegaciones Regionales de la Procuraduría de la Familia, en ejercicio de sus atribuciones, se les concederá el valor que se otorga a los testimonios de personas investidas de fe pública.
 
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO DE ACTUACION DE LA PROCURADURIA DE LA FAMILIA
 
@@ -1079,47 +1417,63 @@ La Procuraduría y las Delegaciones Regionales, en su caso, deberán recibir tod
 
 Recibido el reporte procederán a su investigación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 86.
 
-Para determinar si el menor sufre de maltrato o se encuentra en situación extraordinaria conforme a esta ley, la Procuraduría solicitará a las correspondientes unidades que le estén adscritas, la práctica de exámenes médicos o psicológicos que sean necesarios.
+Para determinar si la o el menor sufre de maltrato o se encuentra en situación extraordinaria conforme a esta ley, la Procuraduría solicitará a las correspondientes unidades que le estén adscritas, la práctica de exámenes médicos o psicológicos que sean necesarios.
 
 Igualmente, la Procuraduría levantará acta circunstanciada de las diligencias que lleve a cabo para la investigación de cada uno de los casos, y recabará las pruebas fehacientes que fueren necesarias para dar cumplimiento a las disposiciones previstas en este capítulo.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 87.
 
-La Procuraduría podrá, por acuerdo de su titular, del Subprocurador o de los Delegados Regionales, separar preventivamente al menor de su hogar o de quien ejerza la patria potestad, cuando aparezcan motivos fundados que hagan presumir la existencia de un peligro eminente e inmediato a su seguridad o salud, aún cuando no se hayan concluido los exámenes a que se refiere el artículo anterior.
+La Procuraduría podrá, por acuerdo de su titular, de quienes ocupen la Subprocuraduría o las Delegaciones Regionales, separar preventivamente a la o el menor de su hogar o de quien ejerza la patria potestad, cuando aparezcan motivos fundados que hagan presumir la existencia de un peligro eminente e inmediato a su seguridad o salud, aún cuando no se hayan concluido los exámenes a que se refiere el artículo anterior.
 
-Al llevar a cabo la medida a que se refiere este artículo, la Procuraduría deberá notificarla a las autoridades judiciales correspondientes, acompañando copia de las constancias respectivas, en un plazo que no excederá de cuarenta y ocho horas, a efecto de que dicha medida sea ratificada, en su caso, por aquéllas.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 88.
 
-La Procuraduría podrá tener la custodia de los menores en los centros con que el Sistema cuente para ello, en las instalaciones de asistencia privada o en hogares provisionales que determine la Procuraduría, hasta en tanto se resuelva en definitiva la situación en que habrá de quedar el menor en situación extraordinaria.
+La Procuraduría podrá tener la custodia de menores en los centros con que el Sistema cuente para ello, en las instalaciones de asistencia privada o en hogares provisionales que determine la Procuraduría, hasta en tanto se resuelva en definitiva la situación en que habrán de quedar las o los menores en situación extraordinaria.
 
-El personal de la Procuraduría realizará visitas periódicas a los lugares a que se refiere el párrafo que antecede, a efecto de vigilar la atención y cuidados que se brinden a los menores, pudiendo llevar a cabo las acciones conducentes a su protección y salvaguarda.
+El personal de la Procuraduría realizará visitas periódicas a los lugares a que se refiere el párrafo que antecede, a efecto de vigilar la atención y cuidados que se brinden a menores, pudiendo llevar a cabo las acciones conducentes a su protección y salvaguarda.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 89.
 
-Toda persona o institución que tenga bajo su custodia o cuidado a un menor en situación extraordinaria, deberá permitir el contacto del personal de la Procuraduría con aquél; así mismo deberán presentarlo para las entrevistas y diligencias que deban llevarse a cabo.
+Toda persona o institución que tenga bajo su custodia o cuidado a menores en situación extraordinaria, deberán permitir el contacto del personal de la Procuraduría con dichos menores; así mismo deberán presentarlo para las entrevistas y diligencias que deban llevarse a cabo.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 90.
 
-La autoridad judicial en el caso a que se refiere el artículo 87 de esta ley, dentro de un plazo de quince días, contados a partir de la fecha de separación, deberá ratificar la medida de la Procuraduría o, en su caso, resolver sobre la integración del menor a su núcleo familiar.
+La autoridad judicial en el caso a que se refiere el artículo 87 de esta ley, dentro de un plazo de quince días, contados a partir de la fecha de separación, deberá ratificar la medida de la Procuraduría o, en su caso, resolver sobre la integración de menores a su núcleo familiar.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 91.
 
-Para la investigación de la situación extraordinaria en que se encuentren los menores, la Procuraduría realizará todas las acciones conducentes al esclarecimiento del caso, pudiendo solicitar tratándose de notoria urgencia y bajo su responsabilidad, el auxilio de la fuerza pública para la seguridad en la práctica de sus diligencias.
+Para la investigación de la situación extraordinaria en que se encuentren las y los menores, la Procuraduría realizará todas las acciones conducentes al esclarecimiento del caso, pudiendo solicitar tratándose de notoria urgencia y bajo su responsabilidad, el auxilio de la fuerza pública para la seguridad en la práctica de sus diligencias.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 92.
 
 En caso de oposición de particulares para que se lleve a cabo una medida de protección a un menor en situación extraordinaria o de investigación de un probable maltrato, la Procuraduría podrá solicitar a la autoridad judicial competente la autorización para llevar a cabo tales acciones, en los términos de las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 93.
 
-Una vez conocido el resultado de la investigación, la cual no podrá exceder de treinta días hábiles y mediante la que se compruebe que un menor se encuentra en grave peligro por su situación extraordinaria, la Procuraduría procederá a solicitar de la autoridad judicial competente la pérdida de la patria potestad.
+Una vez conocido el resultado de la investigación, la cual no podrá exceder de treinta días hábiles y mediante la que se compruebe que una o un menor se encuentra en grave peligro por su situación extraordinaria, la Procuraduría procederá a solicitar de la autoridad judicial competente la pérdida de la patria potestad.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 94.
 
-Determinada la imposibilidad de reintegración del menor al núcleo familiar y habiendo resolución de la autoridad judicial competente sobre la pérdida de la patria potestad sobre el menor, la Procuraduría podrá iniciar el procedimiento de adopción correspondiente, previa opinión del Consejo Técnico de Adopciones, en los términos de las disposiciones jurídicas aplicables.
+Determinada la imposibilidad de reintegración de menores al núcleo familiar y habiendo resolución de la autoridad judicial competente sobre la pérdida de la patria potestad sobre menores, la Procuraduría podrá iniciar el procedimiento de adopción correspondiente, previa opinión del Consejo Técnico de Adopciones, en los términos de las disposiciones jurídicas aplicables.
 
 ###### ARTICULO 95.
 
@@ -1212,3 +1566,9 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 2 DE ENERO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
