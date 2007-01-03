@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2006-09-11"
+last_updated: "2007-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ENERO DE 2007.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1291,13 +1291,19 @@ a) La víctima del delito sea menor de edad, mayor de sesenta años o por cualqu
 
 b) El activo sea o haya sido, o se ostente, sin serlo, integrante de alguna institución policiaca o servidor público en alguna de las áreas de prevención o persecución de delitos, administración de justicia o readaptación social; o tenga alguna relación de confianza, laboral, de parentesco o de negocios con el pasivo o con sus familiares; cometa el delito en pandilla o asociación delictuosa o con la intervención de inimputables o mutile cualquier parte del cuerpo de la víctima.
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+
+###### Artículo 163 Bis.
+
+Comete el delito de privación de la libertad en su modalidad de secuestro exprés, el que disponga de otro reteniéndolo sin su consentimiento el tiempo estrictamente indispensable para cometer los delitos de robo, extorsión o para obtener algún beneficio económico.
+
+Se le impondrá de siete a veinte años de prisión y multa de cien a mil días de salario mínimo, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación de concurso para la imposición de sanciones.
+
+> <small>(REFORMADO, G.O. 3 DE ENERO DE 2007)</small>
 
 ###### Artículo 164.
 
-Si el secuestrador libera espontáneamente a la víctima dentro de los tres días siguientes a la consumación del delito, sin causarle daño, se le impondrán de cuatro a ocho años de prisión y multa hasta de cuarenta días de salario.
-
-Cuando el inculpado proporcione datos que permitan localizar a la víctima con vida, la pena será de cinco a doce años de prisión y multa hasta de cien días de salario.
+Si el secuestrador libera espontáneamente a la víctima dentro de las cuarenta y ocho horas siguientes a la privación de su libertad, sin causarle daño y sin haber satisfecho ninguna de las pretensiones a que se refiere el artículo 163 de este Código, se le impondrán de ocho a quince años de prisión y multa de cien a trescientos días de salario.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE NOVIEMBRE DE 2004)</small>
 
@@ -3082,3 +3088,19 @@ Segundo. Se derogan todas las disposiciones legales que se opongan al presente D
 G.O. 11 DE SEPTIEMBRE DE 2006.
 
 ÚNICO. El presente Decreto entrará en vigor seis meses después de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 3 DE ENERO DE 2007.
+
+DECRETO No. 622 POR EL QUE SE ADICIONA EL ARTICULO 163 BIS DEL CODIGO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 3 DE ENERO DE 2007.
+
+DECRETO No. 623 POR EL QUE SE REFORMA EL ARTICULO 164 DEL CODIGO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
