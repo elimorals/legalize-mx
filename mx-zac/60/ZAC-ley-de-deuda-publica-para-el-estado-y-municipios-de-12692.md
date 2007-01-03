@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-deuda-publica-para-el-estado-y-municipios-de-12692"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-31"
-last_updated: "1997-12-31"
+last_updated: "2007-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE ZACATECAS, PUBLICADA EN EL P.O. DE 3 DE ENERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 31 de diciembre de 1997.
 
@@ -618,3 +620,13 @@ Lic. Arturo Romo Gutiérrez
 El Secretario General de Gobierno.
 
 Profr. José Manuel Maldonado Romero
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE ENERO DE 2006.
+
+Primero. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Las solicitudes de autorización para la contratación de deuda pública que se encuentren en proceso de análisis en la Legislatura, serán resueltas conforme a las disposiciones de la Ley de Deuda Pública para el Estado y Municipios de Zacatecas, vigente al momento de su presentación.
+
+Tercero.- Se abroga la Ley de Deuda Pública para el Estado y Municipios de Zacatecas, contenida en el Decreto Número 220 y publicada en el suplemento No. 3 al 105 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 31 de diciembre de 1997.
