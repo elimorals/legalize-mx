@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-fomento-economico-51134
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-21"
-last_updated: "2006-06-21"
+last_updated: "2007-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO ECONOMICO -ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO-
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO ECONOMICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2007.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 21 de junio de 2006.
 
@@ -35,19 +35,25 @@ Considerando.
 
 Por lo anterior, el Ejecutivo a mi cargo, tiene a expedir el siguiente:
 
-Reglamento Interior de la Secretaría de Desarrollo Económico
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 2007)</small>
+
+Reglamento Interior de la Secretaría de Fomento Económico.
 
 ## Título Primero. Disposiciones Generales
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2007)</small>
+
 ###### Artículo 1°.
 
-Las disposiciones de este reglamento son de orden público y tienen por objeto establecer las bases para la organización, funcionamiento y administración de la Secretaría es Desarrollo Económico.
+Las disposiciones de este Reglamento son de orden público, y tienen por objeto establecer las bases para la organización, funcionamiento y administración de la Secretaría de Fomento Económico.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2007)</small>
 
 ###### Artículo 2°.
 
-La Secretaría de Desarrollo Económico, es una dependencia del Ejecutivo del Estado, a la cual le corresponde el despacho de los asuntos que le encomienda la Ley Orgánica de la Administración Pública del Estado de Chiapas, así como las leyes relativas, decretos, acuerdos y demás disposiciones del Ejecutivo del Estado.
+La Secretaría de Fomento Económico, es una Dependencia del Ejecutivo del Estado, a la cual le corresponde el despacho de los asuntos que le encomienda la Ley Orgánica de la Administración Publica del Estado de Chiapas, así como, las leyes relativas, decretos, acuerdos y demás disposiciones del Ejecutivo del Estado.
 
 ###### Artículo 3°.
 
@@ -55,7 +61,9 @@ Para los efectos e interpretación de este reglamento se entenderá por:
 
 I.- Ejecutivo: Al Gobernador del Estado.
 
-II.- Secretaría: A la Secretaría de Desarrollo Económico.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2007)</small>
+
+II.- Secretaría: A la Secretaría de Fomento Económico.
 
 III.- Secretario: Al titular de esta Secretaría.
 
@@ -163,13 +171,17 @@ I.- Proponer y dirigir la Política de la Secretaría; así como elaborar, plane
 
 II.- Someter a acuerdo del Ejecutivo del Estado, los asuntos encomendados a la Secretaría y cuando proceda, los de las entidades sectorizadas a ésta, así como desempeñar las comisiones y funciones específicas que le confiera el Ejecutivo estatal.
 
-III.- Presentar al Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, el presupuesto anual de egresos de gasto corriente e inversión de la Secretaría.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2007)</small>
+
+III.- Presentar al Ejecutivo del Estado, a través de la Secretaría de Finanzas, el presupuesto anual de egresos de gasto corriente e inversión de la Secretaría.
 
 IV.- Emitir las medidas técnicas y administrativas para la mejor organización y funcionamiento de la Secretaría, así como refrendar los reglamentos y manuales administrativos, necesarios para el eficiente despacho de los asuntos de la Secretaría.
 
 V.- Proponer al Ejecutivo del Estado, para su aprobación, las unidades de coordinación, asesoría y de apoyo técnico que requiera para el funcionamiento administrativo de la Secretaría, así como los órganos operativos y el personal necesario para la ejecución de sus planes y programas autorizados.
 
-VI.- Proponer al Ejecutivo del Estado, los pr9gramas relativos al desarrollo económico y financiero, de conformidad con los planes y programas nacionales, estatales, regionales y sectoriales, previo dlctan1en de la Secretaría de Planeación y Finanzas, vigilando su congruencia con el Plan de Desarrollo Chiapas 2001-2006.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2007)</small>
+
+VI.- Proponer al Ejecutivo del Estado, los programas relativos al desarrollo económico y financiero, de conformidad con los planes y programas nacionales, estatales, regionales y sectoriales, previo dictamen de la Secretaría de Planeación y Desarrollo Sustentable, vigilando su congruencia con el Plan Estatal de Desarrollo.
 
 VII.- Suscribir e intervenir en la celebración de los convenios, contratos y demás actos jurídicos en materia de desarrollo económico que celebre el Ejecutivo del Estado, con la federación, los municipios, el sector público, privado y social, de conformidad con las leyes aplicables; debiendo atender las propuestas de las dependencias y entidades que tengan funciones operativas relacionadas con la materia objeto de los mismos.
 
@@ -177,7 +189,9 @@ VIII.- Designar cuando proceda a los representantes de la Secretaría en las com
 
 IX.- Establecer las políticas y mecanismos en materia de desregulación económica, con el objeto de concertar acciones con los sectores sociales y privados e identificar las medidas que permitan mejorar el marco regulatorio de la actividad económica estatal y propiciar el desarrollo sustentable de la entidad.
 
-X.- Ejercer las funciones que le corresponden como coordinador del subcomité sectorial en el ámbito de su competencia, dentro de la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2007)</small>
+
+X.- Ejercer las funciones que le corresponden como Coordinador del Subcomité Sectorial en el ámbito de su competencia, dentro de la Secretaría de Planeación y Desarrollo Sustentable.
 
 XI.- Proponer al Ejecutivo del Estado los proyectos de iniciativa de ley, reglamentos, decretos y acuerdos para su aplicación en los asuntos de la competencia de la Secretaría y del sector respectivo.
 
@@ -241,7 +255,9 @@ C) Área de Recursos Materiales y Servicios Generales
 
 El Titular de la Unidad de Apoyo Administrativo tendrá las facultades siguientes:
 
-I.- Aplicar y supervisar el cumplimiento de las políticas, normas y procedimientos que en materia de administración de recursos humanos, financieros y materiales establezcan la Secretaría de Planeación y Finanzas y la Secretaría de Administración.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2007)</small>
+
+l.- Aplicar y supervisar el cumplimiento de las políticas, normas y procedimientos que en materia de administración de recursos humanos, financieros y materiales establezcan la Secretaría de Planeación y Desarrollo Sustentable, la Secretaría de Finanzas y la Secretaría de Administración.
 
 II.- Elaborar y participar en el establecimiento de las condiciones generales de trabajo, así como difundirlas y vigilar su cumplimiento.
 
@@ -255,7 +271,9 @@ VI.- Proveer la capacitación y adiestramiento del personal de la Secretaría, d
 
 VII.- Proporcionar la información para la elaboración del proyecto anual de su presupuesto de egresos ante la unidad de planeación de la Secretaría, en las formas y tiempos establecidos.
 
-VIII.- Supervisar el correcto ejercicio del presupuesto y presentar los informes presupuestales y financieros de la Secretaría, ante la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2007)</small>
+
+VIII.- Supervisar el correcto ejercicio del presupuesto y presentar los informes presupuéstales y financieros de la Secretaría, ante las instancias correspondientes.
 
 IX.- Las demás que en el ámbito de su competencia le sean asignadas.
 
@@ -279,9 +297,13 @@ II.- Elaborar los análisis comparativos entre los programas sectoriales e insti
 
 III.- Establecer en coordinación con los Subsecretarios, Directores, Jefes de Unidad y Titulares de los Órganos desconcentrados de la Secretaría, los objetivos, metas, recursos y distribución presupuestal que se considere en el proyecto de presupuesto de egresos de la Secretaría.
 
-IV.- Aplicar los criterios y lineamientos normativos del gasto que fije la Secretaría de Planeación y Finanzas, en la asignación de los recursos a los programas de acción de la Secretaría.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2007)</small>
 
-V.- Integrar los programas de inversión y validarlos en el seno de Ja Secretaría de Planeación y Finanzas
+IV.- Aplicar los criterios y lineamientos normativos del gasto que fije la Secretaría de Planeación y Desarrollo Sustentable y la Secretaría de Finanzas en la asignación de los recursos a los programas de acción de la Secretaría.
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2007)</small>
+
+V.- Integrar los programas de inversión y validarlos en el seno de la Secretaría de Planeación y Desarrollo Sustentable y la Secretaría de Finanzas.
 
 VI.- Elaborar los análisis y evaluaciones de los ejercicios presupuestales e instrumentar los procedimientos de planeación para operar los ajustes y modificaciones en los programas sectorizados a la Secretaría.
 
@@ -815,19 +837,21 @@ IX.- Coordinar la elaboración del presupuesto anual de egresos de gasto corrien
 
 X.- Las demás que en el ámbito de su competencia les sean asignadas.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2007)</small>
+
 ###### Artículo 44.
 
-El Servicio Estatal de Empleo tendrá los órganos administrativos siguientes:
+El Servicio Estatal de Empleo, es un órgano desconcentrado adscrito a la Secretaría de Fomento Económico, con plena autonomía técnica, administrativa, de gestión, operativa, presupuestal y de ejecución, para el adecuado desarrollo de sus atribuciones, misma que atenderá los asuntos que este instrumento y la normatividad aplicable le señalen, y contará con los órganos administrativos siguientes:
 
-A) Delegación Administrativa
+A) Delegación Administrativa.
 
-B) Departamento Operativo
+B) Departamento Operativo.
 
-C) Área de Informática
+C) Área de Informática.
 
-D) Departamento Técnico
+D) Departamento Técnico.
 
-Áreas Operativas Desconcentradas:
+Áreas Operativas Concentradas:
 
 A) Área Operativa Tapachula.
 
@@ -981,6 +1005,10 @@ XII.- Las demás que en el ámbito de su competencia le sean asignadas.
 
 El Secretario será suplido en sus ausencias temporales menores de 15 días por el Subsecretario o por el servidor público que el mismo designe mediante acuerdo.
 
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2007)</small>
+
+El Ejecutivo del Estado podrá nombrar a un encargado del Despacho de la Secretaría de Fomento Económico, en aquellas ausencias mayores al término establecido en el párrafo anterior, o bien, en aquellos casos en que no exista nombramiento expreso, quien tendrá las facultades y atribuciones que señalan los artículos 8° y 9°, de este Reglamento.
+
 ###### Artículo 52.
 
 Los Subsecretarios, Directores, Coordinador de Delegaciones y Jefes de Unidad serán suplidos en sus ausencias temporales menores de 15 días por el servidor público que designen, previo acuerdo del C. Secretario.
@@ -998,3 +1026,15 @@ Segundo.- Se abroga el reglamento interior de la Secretaría de Desarrollo Econ�
 Dado en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 13 días del mes de marzo del año dos mil seis.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado de Chiapas.- Roger Grajales González, Secretario de Gobierno.- Francisco Marín Salazar, Secretario de Desarrollo Económico.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE ENERO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir de la fecha de su expedición, y será publicado en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Las Secretarías de Administración, de Finanzas y de Planeación y Desarrollo Sustentable, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que sean necesarias para la adecuación de la estructura funcional del Servicio Estatal de Empleo y de sus proyectos de inversión.
+
+Artículo Cuarto.- En cumplimiento al artículo 8°, de la Ley Orgánica de la Administración Publica del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
