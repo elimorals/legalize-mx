@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2006-08-31"
+last_updated: "2007-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ENERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -314,6 +314,12 @@ IV.- Vigilar en la esfera de su competencia, el cumplimiento de esta Ley y demá
 V.- Celebrar con la Federación los acuerdos de coordinación en materia de salubridad general concurrente y los convenios en los que, en los términos de la fracción IV del artículo 116 de la Constitución General de la República, el Estado asuma el ejercicio de funciones y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario.
 
 VI.- Las demás que sean necesarias para hacer efectivas las facultades anteriores, las que se deriven de la Ley General de Salud, de esta Ley y de otras disposiciones legales aplicables.
+
+> <small>(ADICIONADA, G.O. 3 DE ENERO DE 2007)</small>
+
+VII. Para los efectos señalados en la fracción anterior, el titular de la Secretaría de Salud nombrará una comisión integrada por médicos epidemiólogos de esa institución, quienes estarán atentos en todo tiempo a los acontecimientos epidemiológicos que se susciten en el Estado de Veracruz, para determinar y, en su caso, emitir conjuntamente con el Secretario de Salud, la solicitud al Gobernador del Estado, para que emita una declaratoria de emergencia, fundada y motivada, cuyo propósito será exclusivamente el de llevar a cabo las tareas de fumigación, abatización y descacharrización, siempre que subsista el estado de contingencia expresamente señalado en la declaratoria y se encuentre normado su procedimiento.
+
+Para los efectos del párrafo anterior, el titular de la Secretaría de Salud expedirá un reglamento en el que se establezcan los tiempos y procedimientos en que dichas acciones se puedan llevar a cabo, así como las correlativas sanciones en caso de incumplimiento por parte de los ciudadanos del reglamento respectivo.
 
 ###### ARTICULO 13.
 
@@ -2752,3 +2758,13 @@ G.O. 31 DE AGOSTO DE 2006.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Artículo Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este Decreto.
+
+G.O. 3 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO. El titular de la Secretaría de Salud deberá expedir en un tiempo no mayor de tres días naturales, el reglamento que determine los tiempos y procedimientos de operación de la fracción VII del artículo 12 de la Ley de Salud del Estado de Veracruz de Ignacio de la Llave.
+
+TERCERO. Los actos y acciones que se encuentren en trámite al publicarse el presente decreto se substanciarán de acuerdo a la competencia y previsiones que señale el reglamento respectivo.
+
+CUARTO. Se derogan todas las disposiciones de observancia general que se opongan a este decreto.
