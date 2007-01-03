@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-adquisiciones-arrendamientos-y-prestacion-de-8204"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-25"
-last_updated: "2002-06-05"
+last_updated: "2007-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2007.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 25 de mayo de 1988
 
@@ -411,6 +411,10 @@ En la aplicación de este precepto, cada operación deberá considerarse individ
 
 Los montos máximos y límites, se fijarán atendiendo a la cuantía de la adquisición, arrendamiento y servicio considerado individualmente y en función de la inversión total autorizada a las dependencias y entidades.
 
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2007)</small>
+
+Tratándose de adquisiciones, arrendamientos y prestación de servicios multianuales las dependencias y entidades de la administración pública, podrán fincar pedidos y/o celebrar contratos sin que se encuentren obligadas a observar los requisitos que se establecen para tales actos, observando las mejores condiciones y modalidades en cuanto a precio, calidad y financiamiento.
+
 ###### ARTICULO 42.
 
 Los pedidos o contratos que deban formalizarse como resultado de su adjudicación deberán suscribirse en un término no mayor de veinte días hábiles, contados a partir de la fecha en que se hubiese notificado al proveedor el fallo o decidido la adjudicación de aquéllos, salvo que las dependencias y entidades consideren indispensable la celebración de contratos preparatorios para garantizar la operación; en cuyo caso la formalización del contrato definitivo deberá llevarse a cabo en un plazo no mayor de treinta días hábiles, contados a partir de la misma fecha a que se refiere este artículo.
@@ -440,6 +444,14 @@ III. Los demás que por cualquier causa se encuentren impedidos para ello por di
 ###### ARTICULO 45.
 
 Las dependencias y entidades, en los actos, pedidos y contratos que celebren respecto a adquisiciones, arrendamientos o servicios, deberán estipular las condiciones que garanticen su correcta operación y funcionamiento; la obtención de las pólizas de seguro del bien o bienes de que se trate para garantizar su integridad; y, en caso de ser necesario, la capacitación del personal que operará los equipos.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2007)</small>
+
+En las adquisiciones, arrendamientos y prestación de servicios multianuales las dependencias o entidades deberán de presupuestar los costos a cubrir en los ejercicios subsecuentes, para el efecto de incluirlos en la iniciativa de decreto del presupuesto del ejercicio que corresponda.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2007)</small>
+
+Para los efectos de este artículo, las dependencias y entidades observarán lo dispuesto en el artículo 31 de la Ley de Administración y Finanzas del Estado de Zacatecas.
 
 ###### ARTICULO 46.
 
@@ -634,3 +646,7 @@ LIC. ROGELIO HERNANDEZ QUINTERO
 P.O. 5 DE JUNIO DE 2002.
 
 UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL, ORGANO DEL GOBIERNO DEL ESTADO.
+
+P.O. 3 DE ENERO DE 2007.
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
