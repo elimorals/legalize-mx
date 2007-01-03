@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-29-de-premios-del-estado-de-veracruz-22427"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-12"
-last_updated: "2004-11-02"
+last_updated: "2007-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE NOVIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ENERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 12 de octubre de 2001.
 
@@ -125,7 +125,9 @@ VIII. Al Desarrollo Económico; y
 
 IX. Al Deporte.
 
-#### Sección Única. De las Categorías
+> <small>(REFORMADA SU NUMERACION, G.O. 3 DE ENERO DE 2007)</small>
+
+#### Sección Primera. De las Categorías
 
 ###### Artículo 9.
 
@@ -153,9 +155,11 @@ La Medalla Veracruz a las Ciencias, se otorgará a las personas cuyas produccion
 
 La Medalla Veracruz a las Artes y Humanidades, se otorgará a las personas cuyas producciones o trabajos docentes, de investigación, divulgación o de aplicación, hayan contribuido al progreso artístico y humanístico.
 
+> <small>(REFORMADO, G.O. 3 DE ENERO DE 2007)</small>
+
 ###### Artículo 15.
 
-La Medalla Veracruz a la Juventud se otorgará a los jóvenes menores de 29 años, que hayan destacado por su conducta o dedicación al estudio, actividades cívicas o culturales.
+La Medalla Veracruz a la Juventud será entregada a jóvenes menores de 29 años. En materia del presente es aplicable lo dispuesto en la Sección Segunda de este Capítulo.
 
 ###### Artículo 16.
 
@@ -168,6 +172,58 @@ La Medalla Veracruz al Desarrollo Económico se otorgará a las personas que en 
 ###### Artículo 18.
 
 La Medalla Veracruz al Deporte se otorgará a las personas cuya dedicación al deporte en cualquiera de sus ramas pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 3 DE ENERO DE 2007)</small>
+
+#### Sección Segunda. De la Medalla Veracruz a la Juventud
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+
+###### Artículo 18 Bis.
+
+La Medalla Veracruz será entregada a jóvenes menores de 29 años, cuando su conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos y pueda considerarse un ejemplo estimulante para crear y desarrollar motivos de superación personal o de progreso de la comunidad.
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+
+###### Artículo 18 Ter.
+
+El otorgamiento de este reconocimiento tiene por objetivos:
+
+I.- Impulsar el desarrollo físico e integral de la juventud;
+
+II.- Fomentar los valores nacionales e incorporar a la juventud a las tareas de desarrollo estatal, a través de las acciones que fortalecen a la comunidad;
+
+III.- Estimular la incorporación de la juventud en actividades que la impulsen al mejor aprovechamiento de su capacidad;
+
+IV.- Coadyuvar a la formación personal y creatividad de los jóvenes, propiciando el desarrollo de su capacidad en áreas que tiendan al mejoramiento de su comunidad.
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+
+Artículo 18 Cuarter. Este reconocimiento se otorgará en las siguientes distinciones:
+
+I. Actividades Académicas
+
+II. Actividades Artísticas;
+
+III. Méritos Cívicos;
+
+IV. Labor Social;
+
+V. Protección al Ambiente;
+
+VI. Actividades Productivas;
+
+VII. Oratoria;
+
+VIII. Discapacidad e Integración;
+
+IX. Artes populares, y
+
+X. Aportación a la Cultura Política y la Democracia.
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+
+Artículo 18 Quinter. Exclusivamente para el otorgamiento de la Medalla Veracruz a la Juventud, se incorporará un representante del Consejo de Jóvenes del Instituto de la Juventud Veracruzana dentro del Comité Estatal establecido en el artículo 4 de la presente ley.
 
 ### Capítulo Tercero. De la Medalla Adolfo Ruíz Cortines
 
@@ -269,7 +325,7 @@ Artículo Cuarto. La Secretaría de Gobierno expedirá una Convocatoria pública
 
 Artículo Quinto. El Reglamento de la Medalla Veracruz se expedirá dentro de los treinta días siguientes a la publicación de esta Ley.
 
-Artículo Sexto. El Reglamento del Premio Veracruz 2025 se expedirá dentro de los treinta días siguientes a la publicación de esta Ley. En dicho Reglamento se dispondrá que la Oficina del Programa de Gobierno será la encargada de establecer los lineamientos y bases para su otorgamiento.
+Artículo Sexto. El Reglamento del Premio Veracruz 2025 se expedirá dentro de los treinta días siguientes a la publicación de esta Ley. En dicho Reglamento se dispondrá que la Oficina del Programa de Gobierno será (sic) la encargada de establecer los lineamientos y bases para su otorgamiento.
 
 DADA EN EL SALÓN DE SESIONES DE LA H. LIX LEGISLATURA DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ, A LOS ONCE DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL UNO.
 
@@ -308,3 +364,9 @@ G.O. 2 DE NOVIEMBRE DE 2004.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se abrogan el Decreto por el que se crea la Condecoración a la Excelencia Naval Militar "General Ignacio de la Llave", publicado en la Gaceta Oficial del Estado el día dieciocho de junio de dos mil dos, así como el Decreto por el que se crea la Condecoración al Mérito Deportivo "General Ignacio de la Llave", publicado en la Gaceta Oficial del Estado el día dieciocho de junio de dos mil tres; y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE ENERO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
