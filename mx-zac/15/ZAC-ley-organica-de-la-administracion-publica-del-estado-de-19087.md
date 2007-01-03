@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-19087"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2006-07-15"
+last_updated: "2007-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2000.
 
@@ -349,7 +349,11 @@ IX. Coordinar y expedir la normatividad necesaria para el control y funcionamien
 
 X. Proponer al Gobernador del Estado, en coordinación con la Contraloría Interna, la cancelación de créditos y cuentas incobrables, así como los criterios y montos globales de los subsidios y estímulos fiscales que otorgue el Estado;
 
-XI. Formular y presentar al Gobernador del Estado, el anteproyecto de Presupuesto de Egresos en coordinación con la Secretaría de Planeación y Desarrollo Regional;
+XI. Formular y presentar al Gobernador del Estado, el anteproyecto de Presupuesto de Egresos en coordinación con la Secretaría de Planeación y Desarrollo Regional.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2007)</small>
+
+En el que deberán incluirse las obligaciones multianuales derivadas de los contratos de prestación de servicios a largo plazo que hayan celebrado las dependencias o entidades de la administración pública;
 
 XII. Estructurar y calendarizar, en coordinación con la Secretaría de Planeación y Desarrollo Regional, los presupuestos de cada una de las dependencias y entidades de la administración pública estatal;
 
@@ -879,6 +883,10 @@ XXV. Intervenir en los actos de apertura de concursos y emisión de fallos de la
 
 XXVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2007)</small>
+
+Las anteriores atribuciones de inspección y vigilancia, incluyen las obligaciones multianuales derivadas de los contratos de prestación de servicios de largo plazo.
+
 ### CAPÍTULO CUARTO. De la Coordinación General Jurídica
 
 ###### Artículo 34.
@@ -1100,3 +1108,7 @@ P.O. 10 DE DICIEMBRE DE 2005.
 P.O. 15 DE JULIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 3 DE ENERO DE 2007.
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
