@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-obras-publicas-y-servicios-relacionados-con-las-46972"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2005-11-19"
+last_updated: "2007-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE ZACATECAS
 
-LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE ZACATECAS
+LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2007.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 19 de noviembre de 2005.
 
@@ -202,6 +202,10 @@ IX. Las obras que coadyuven a la conservación del medio ambiente;
 X. Las obras necesarias ante contingencias derivadas de caso fortuito o fuerza mayor; y
 
 XI. Las obras de naturaleza análoga a las anteriores.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2007)</small>
+
+Se exceptúa de lo establecido en este artículo, la creación de infraestructura pública mediante contratos para prestación de servicios a largo plazo.
 
 ###### Artículo 14.
 
@@ -1534,3 +1538,11 @@ Atentamente
 "SUFRAGIO EFECTIVO. NO REELECCIÓN".
 
 LA GOBERNADORA DEL ESTADO DE ZACATECAS: LIC. AMALIA D. GARCÍA MEDINA.- SECRETARIO GENERAL DE GOBIERNO: TOMÁS TORRES MERCADO. Rúbricas
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE ENERO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
