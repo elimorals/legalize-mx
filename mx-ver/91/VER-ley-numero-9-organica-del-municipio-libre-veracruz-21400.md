@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2006-03-02"
+last_updated: "2007-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ENERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -481,9 +481,17 @@ XLIV. Integrar, de conformidad con lo dispuesto por esta ley y demás disposicio
 
 XLV. Aprobar el funcionamiento interno de la Unidad Municipal de Protección Civil, con base en la propuesta que ésta le presente;
 
-XLVI. Aprobar el programa municipal de protección civil, con base en los lineamientos que establezca el Sistema Estatal de Protección Civil; y
+> <small>(REFORMADA, G.O. 3 DE ENERO DE 2007)</small>
 
-XLVII. Las demás que expresamente señalen la Constitución Local, esta ley y demás leyes del Estado.
+XLVI. Aprobar el Programa Municipal de Protección Civil, con base en los lineamientos que establezca el Sistema Estatal de Protección Civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE ENERO DE 2007)</small>
+
+XLVII. Nombrar al Cronista Municipal quien deberá llevar el registro escrito del acontecer histórico local, que preserve y fomente la identidad de los pobladores con su Municipio y con el Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE ENERO DE 2007)</small>
+
+XLVIII. Las demás que expresamente señalen la Constitución local, esta Ley y demás leyes del Estado.
 
 ### CAPÍTULO V. DEL SÍNDICO
 
@@ -543,13 +551,17 @@ XXIII. Presidir el Consejo Municipal de Protección Civil;
 
 XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, G.O. 3 DE ENERO DE 2007)</small>
 
-XXV. Tener bajo su mando al personal que preste en el municipio el servicio público de tránsito, cuando éste se encuentre a cargo del Ayuntamiento; y
+XXV. Tener bajo su mando al personal que preste en el Municipio el Servicio Público de Tránsito, cuando éste se encuentre a cargo del Ayuntamiento;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 2 DE MARZO DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE ENERO DE 2007)</small>
 
-XXVI. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
+XXVI. Proponer al Cabildo a la persona que ejercerá las funciones de Cronista Municipal, misma que deberá cumplir los requisitos que establece esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE ENERO DE 2007)</small>
+
+XXVII. Las demás que expresamente le confieran esta Ley y las demás leyes del Estado.
 
 ### CAPÍTULO VI. DE LOS REGIDORES
 
@@ -1025,7 +1037,9 @@ X. Solicitar al Ayuntamiento los medios que estimen necesarios para el desempeñ
 
 XI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO X. DE LOS CRONISTAS MUNICIPALES
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
 
 ###### Artículo 63.
 
@@ -1061,11 +1075,101 @@ IX. Procurar todo aquello que tienda al bienestar de la comunidad.
 
 Son organismos auxiliares de los Ayuntamientos los Comités y Patronatos que constituyan sus habitantes para la realización de obras de beneficio colectivo.
 
-### CAPÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 3 DE ENERO DE 2007)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### Artículo 66-A.
+
+Los Municipios designarán a un Cronista Municipal, tendrá la responsabilidad de elaborar la crónica sobre los acontecimientos más relevantes de la vida municipal. El nombramiento recaerá en la persona que cumpla con los siguientes requisitos:
+
+I. Ser oriundo del Municipio o con una residencia cuando menos de 10 años en el Municipio;
+
+II. Contar con prestigio en los aspectos históricos y culturales del Municipio.
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+
+###### Artículo 66-B.
+
+El nombramiento del Cronista Municipal será por el término de tres años, pudiendo ser ratificado en virtud de su desempeño y productividad.
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+
+###### Artículo 66-C.
+
+Son facultades del Cronista Municipal:
+
+I. Llevar el registro cronológico de los sucesos notables de su Municipio;
+
+II. Investigar, conservar, exponer y promover la Cultura e Historia Municipal;
+
+III. Elaborar la monografía del Municipio actualizándola regularmente; compilar tradiciones y leyendas o crónicas;
+
+IV. Levantar un inventario de monumentos arqueológicos, artísticos e históricos de su municipio;
+
+V. Elaborar el calendario cívico municipal, derivándose de éste la promoción de eventos cívicos a conmemorarse;
+
+VI. Proponer la creación, modificación o cambio de escudos y lemas del Municipio;
+
+VII. Participar en eventos culturales, académicos y conferencias donde se promueva al Municipio;
+
+VIII. Asistir a Congresos y Convenciones;
+
+IX. Establecer comunicación eficiente con los medios de comunicación impresos y electrónicos; y
+
+X. Las demás que le confiera el Ayuntamiento, esta Ley, Reglamentos o disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+
+###### Artículo 66-D.
+
+El Ayuntamiento podrá acordar, dentro de su presupuesto, la remuneración económica, que en ningún caso será mayor a una jefatura de área, así como otorgar apoyos materiales y de operación.
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+
+###### Artículo 66-E.
+
+Son causas de remoción del nombramiento de Cronista Municipal:
+
+I. El incumplimiento de sus obligaciones;
+
+II. El cambio de residencia; y
+
+III. La renuncia.
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+
+###### Artículo 66-F.
+
+El Cronista Municipal tendrá las siguientes obligaciones:
+
+I. Dar asesoramiento histórico, cívico y cultural a quien se lo solicite, por medio del archivo municipal;
+
+II. Realizar investigaciones históricas del Municipio;
+
+III. Publicar periódicamente sus investigaciones en prensa, folletos y libros, así como en el órgano de difusión del Ayuntamiento;
+
+IV. Poner a disposición del público en general la información recopilada;
+
+V. Promover la conservación y cuidado del Patrimonio Histórico-Cultural; y
+
+VI. Promover el reconocimiento de los ciudadanos que se distingan por sus acciones e investigaciones históricas del Municipio.
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+
+###### Artículo 66-G.
+
+El Cronista Municipal tendrá la obligación de:
+
+I. Publicar las crónicas, folletos y libros respetando el derecho de autor, de la historia municipal;
+
+II. Asistir a Congresos y Convenciones; y
+
+III. Crear un Consejo de la Crónica, con los ciudadanos de mayor reconocimiento y que por su avanzada edad, experiencia, conocimiento, aporten sus conocimientos para enriquecer la historia municipal.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-### CAPITULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
+### CAPÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
 
 ###### Artículo 67.
 
@@ -1077,7 +1181,7 @@ Estarán exceptuados de lo dispuesto por el párrafo anterior, los actos y proce
 
 Con base en lo dispuesto en esta ley, el Ayuntamiento podrá aprobar disposiciones reglamentarias para el nombramiento de servidores públicos titulares de las dependencias centralizadas o de órganos desconcentrados, así como de aquellos que desempeñen un empleo, cargo o comisión de confianza de naturaleza directiva en el Ayuntamiento, que realicen funciones relativas a los servicios públicos municipales. Al efecto, dichos servidores públicos deberán contar con experiencia o estudios para desempeñar el cargo que corresponda.
 
-### CAPITULO I. DE LAS FUNCIONES Y SERVICIOS PÚBLICOS MUNICIPALES
+### CAPITULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DEL AYUNTAMIENTO
 
@@ -1211,9 +1315,7 @@ El Congreso del Estado informará a los Ayuntamientos el resultado de las accion
 
 #### SECCIÓN TERCERA. DE LOS FIDEICOMISOS PÚBLICOS
 
-### CAPÍTULO II. DE LAS CONCESIONES
-
-> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2005)</small>
+### CAPITULO I. DE LAS FUNCIONES Y SERVICIOS PÚBLICOS MUNICIPALES
 
 ###### Artículo 74.
 
@@ -1371,7 +1473,9 @@ IV. Cumplir con los demás requerimientos que se fijen de común acuerdo con el 
 
 ## TÍTULO CUARTO. DE LAS FUNCIONES Y SERVICIOS PÚBLICOS MUNICIPALES, CONCESIONES, CONTRIBUCIÓN PARA OBRAS PÚBLICAS Y CONVENIOS
 
-### CAPÍTULO III. DE LA CONTRIBUCIÓN DE LOS PARTICULARES PARA OBRAS PÚBLICAS
+### CAPÍTULO II. DE LAS CONCESIONES
+
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 92.
 
@@ -1399,7 +1503,7 @@ IV. Que se trate de la casa habitación del beneficiario.
 
 Por ningún motivo se extenderá este beneficio a más de un inmueble por persona y, en todo caso, corresponderá al Ayuntamiento, concesionario u organismo prestador del servicio, establecer con claridad los mecanismos o documentos con las que deban satisfacer los requisitos exigidos. Este beneficio se otorgará aún cuando el servicio sea concesionado.
 
-### CAPÍTULO IV. DE LOS CONVENIOS, LA COORDINACIÓN Y LA ASOCIACIÓN MUNICIPAL
+### CAPÍTULO III. DE LA CONTRIBUCIÓN DE LOS PARTICULARES PARA OBRAS PÚBLICAS
 
 ###### Artículo 96.
 
@@ -1555,7 +1659,7 @@ A petición formulada por los concesionarios de servicios públicos municipales 
 
 En caso de extinción de la concesión de servicios públicos municipales, los bienes con que se preste el servicio podrán revertirse en favor del municipio. El Congreso del Estado o la Diputación Permanente, oyendo al interesado y al Ayuntamiento, podrán determinar el pago de la indemnización que proceda cuando, durante la vigencia de la concesión, no hubiera existido amortización de los bienes afectos al servicio, siempre y cuando así lo demuestre el concesionario.
 
-### CAPÍTULO I
+### CAPÍTULO IV. DE LOS CONVENIOS, LA COORDINACIÓN Y LA ASOCIACIÓN MUNICIPAL
 
 ###### Artículo 102.
 
@@ -1599,7 +1703,7 @@ XI. A partir de la fecha de publicación del Decreto expropiatorio, no deberán 
 
 XII. El costo de las obras se dividirá en partes iguales entre el Municipio y los particulares que resulten beneficiados con las obras realizadas, incluyendo intereses sobre saldos insolutos, señalados por las instituciones bancarias en el momento de generarse. La forma de pago se fijará por el Ayuntamiento con autorización del Congreso del Estado o de la Diputación Permanente.
 
-### CAPÍTULO I. DE SUS DERECHOS Y OBLIGACIONES
+### CAPÍTULO I
 
 ###### Artículo 103.
 
@@ -1625,7 +1729,7 @@ Tratándose de convenios con otros municipios de la entidad, sólo se requerirá
 
 ## TÍTULO QUINTO. DE LA HACIENDA MUNICIPAL
 
-### CAPÍTULO II. DE LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS MIEMBROS DEL AYUNTAMIENTO
+### CAPÍTULO I. DE SUS DERECHOS Y OBLIGACIONES
 
 ###### Artículo 104.
 
@@ -1691,7 +1795,7 @@ Cuando las licitaciones a que hace referencia el párrafo anterior, no sean idó
 
 ## TÍTULO SEXTO. DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
-### CAPÍTULO III. DE LA SUSPENSIÓN Y DECLARACIÓN DE DESAPARICIÓN DE LOS AYUNTAMIENTOS
+### CAPÍTULO II. DE LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS MIEMBROS DEL AYUNTAMIENTO
 
 ###### Artículo 114.
 
@@ -1817,7 +1921,7 @@ El Congreso del Estado o la Diputación Permanente harán al Ministerio Público
 
 Se concede acción popular para denunciar ante el Procurador General de Justicia del Estado, la malversación de fondos municipales o cualquier otro hecho que importe menoscabo de la Hacienda Municipal.
 
-### CAPÍTULO IV. DEL PROCEDIMIENTO PARA LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS MIEMBROS DEL AYUNTAMIENTO Y SUSPENSIÓN DE AYUNTAMIENTOS
+### CAPÍTULO III. DE LA SUSPENSIÓN Y DECLARACIÓN DE DESAPARICIÓN DE LOS AYUNTAMIENTOS
 
 ###### Artículo 124.
 
@@ -1863,7 +1967,7 @@ Cuando proceda la revocación del mandato, el Congreso del Estado podrá sancion
 
 De los delitos del orden común cometidos por los Presidentes o Síndicos Municipales, conocerán los Tribunales del mismo orden, previo su desafuero. Los demás Ediles deberán ser suspendidos por el Congreso del Estado, cuando se haya dictado en su contra auto de formal prisión y la revocación del mandato procederá si resulta culpable del delito, por sentencia que cause ejecutoria.
 
-### CAPÍTULO V. DEL PROCEDIMIENTO PARA DECLARAR LA DESAPARICIÓN DE UN AYUNTAMIENTO
+### CAPÍTULO IV. DEL PROCEDIMIENTO PARA LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS MIEMBROS DEL AYUNTAMIENTO Y SUSPENSIÓN DE AYUNTAMIENTOS
 
 ###### Artículo 128.
 
@@ -1887,7 +1991,7 @@ II. Cuando el Ayuntamiento abandone sus funciones; o
 
 III. La renuncia o separación mayoritaria de los Ediles, declarada procedente por el Congreso del Estado.
 
-### CAPÍTULO VI. DEL JUICIO DE PROCEDENCIA
+### CAPÍTULO V. DEL PROCEDIMIENTO PARA DECLARAR LA DESAPARICIÓN DE UN AYUNTAMIENTO
 
 ###### Artículo 131.
 
@@ -1985,13 +2089,13 @@ Dicha resolución se notificará a los acusados y se publicará en la Gaceta Ofi
 
 Dictada la resolución a que se refiere este artículo se continuará con el procedimiento ordenado en el presente Capítulo.
 
-### CAPÍTULO VII. DE LA RESPONSABILIDAD ADMINISTRATIVA
+### CAPÍTULO VI. DEL JUICIO DE PROCEDENCIA
 
 ###### Artículo 148.
 
 Cuando el Congreso del Estado al recibir la denuncia, tenga conocimiento de que se han presentado las causas previstas en el artículo 130 de esta ley, de inmediato la turnará a la Comisión Instructora, para que sin demora notifique al Ayuntamiento, reciba las pruebas y alegatos que éste ofrezca y emita un dictamen sobre la procedencia o improcedencia de la declaración de desaparición del Ayuntamiento. Con vista en el dictamen, el Congreso del Estado resolverá lo procedente.
 
-### CAPÍTULO VIII. DISPOSICIONES COMUNES A LOS PROCEDIMIENTOS ENUNCIADOS EN EL PRESENTE TÍTULO
+### CAPÍTULO VII. DE LA RESPONSABILIDAD ADMINISTRATIVA
 
 ###### Artículo 149.
 
@@ -2007,7 +2111,7 @@ IV. De encontrarse el Congreso en receso, la Diputación Permanente convocará d
 
 V. De aprobarse el dictamen por el voto de las dos terceras partes de la totalidad de los integrantes del Congreso, el munícipe cesará de inmediato en sus funciones.
 
-### CAPÍTULO I
+### CAPÍTULO VIII. DISPOSICIONES COMUNES A LOS PROCEDIMIENTOS ENUNCIADOS EN EL PRESENTE TÍTULO
 
 ###### Artículo 150.
 
@@ -2123,8 +2227,6 @@ Las facultades para ejecutar las sanciones que esta Ley prevé, prescribirán en
 
 ### CAPÍTULO I
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
-
 ###### Artículo 165.
 
 Los Ediles y los servidores públicos municipales que hayan de intervenir en algún acto de procedimiento, podrán excusarse o ser recusados por algunas de las causas de impedimento que señale el Código de Procedimientos Administrativos para el Estado; los Diputados, para los mismos efectos, lo harán de conformidad con lo señalado por la Ley Orgánica del Poder Judicial del Estado.
@@ -2149,9 +2251,9 @@ Todas las comunicaciones oficiales que deban girarse para la práctica de las di
 
 ## TÍTULO SÉPTIMO. DE LOS CONCEJOS MUNICIPALES
 
-### CAPITULO I
+### CAPÍTULO I
 
-> <small>(REFORMADO, G.O. 11 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 169.
 
@@ -2164,6 +2266,10 @@ Los miembros del Concejo Municipal, tendrán las mismas obligaciones y derechos 
 El Congreso del Estado, podrá suspender o remover a los miembros del Concejo Municipal, conforme a lo dispuesto por los artículos 125, 129 y 130 de esta Ley, y designará a quien los sustituya.
 
 ## TÍTULO OCTAVO. DE LA ELECCIÓN DE AGENTES Y SUBAGENTES MUNICIPALES
+
+### CAPITULO I
+
+> <small>(REFORMADO, G.O. 11 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 171.
 
@@ -2562,3 +2668,9 @@ G.O. 2 DE MARZO DE 2006.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este decreto.
+
+G.O. 3 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
