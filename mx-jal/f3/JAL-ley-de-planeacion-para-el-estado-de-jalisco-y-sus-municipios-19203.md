@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-para-el-estado-de-jalisco-y-sus-municipios-19
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-19"
-last_updated: "2004-09-18"
+last_updated: "2007-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PLANEACION PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de Diciembre de 2000.
 
@@ -57,23 +57,63 @@ III. Las bases para que el Titular del Ejecutivo Estatal coordine las actividade
 
 IV. Las bases para promover y fomentar la participación activa y responsable de la sociedad, en la elaboración y ejecución de los planes y programas de desarrollo a que hace referencia esta ley.
 
-###### Artículo 3°.
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
-La planeación estatal del desarrollo estará orientada por los siguientes principios:
+###### Artículo 2° Bis.
 
-I. La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos, de la calidad de la vida, para lograr una sociedad más igualitaria;
+Para efectos de esta ley tendrán aplicación los siguientes términos:
 
-II. La apertura de espacios y mecanismos para la participación democrática, activa y responsable de la sociedad y su incorporación al proceso de desarrollo de la entidad;
+l. Enunciados conceptuales:
 
-III. El uso y aprovechamiento óptimo y racional de los recursos naturales, humanos, técnicos, y financieros de los municipios y de las regiones para su desarrollo;
+a) Planeación: la ordenación racional y sistemática de las acciones del Gobierno y la sociedad para coadyuvar a mejorar la calidad de vida de la población en el Estado.
 
-IV. El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de crecimiento económico y de fomento de la calidad de vida de la población.
+b) Desarrollo: la evolución integral, sustentable, progresiva y permanente de la población hacia mejores niveles de vida.
+
+c) Instrumentos de planeación: los planes, programas y proyectos contemplados en esta ley.
+
+d) Programas Operativos Anuales: son instrumentos que convierten los lineamientos de la planeación y programación del desarrollo de mediano y largo y (sic) plazo en objetivos, acciones y metas concretas de corto plazo.
+
+e) Programas Sectoriales: son instrumentos que abordan una materia determinada y que vinculan el funcionamiento de diversas instituciones públicas, sociales y privadas que comparten fines similares con el Plan Estatal de Desarrollo.
+
+II. Enunciados orgánicos:
+
+a) COPLADE: es el Comité de Planeación para el Desarrollo del Estado de Jalisco;
+
+b) COPLADEMUN: es el Comité de Planeación para el Desarrollo Municipal, de cada uno de los Municipios del Estado; y
+
+c) SEIJAL: es el Sistema Estatal de Información Jalisco.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
+
+###### Artículo 3º.
+
+La planeación para el desarrollo estará orientada por los siguientes principios:
+
+I. La igualdad de derechos y oportunidades: sustentados en la atención de las necesidades prioritarias de la población, la mejora integral de la calidad de vida y el combate preferente la pobreza y a la exclusión social para lograr una sociedad más igualitaria;
+
+II. Sustentabilidad: Los planes de desarrollo deberán considerar en sus estrategias, programas y proyectos, criterios de evaluación que les permitan estimar los costos y beneficios ambientales para definir las acciones que garanticen a las actuales y futuras generaciones una adecuada estabilidad ambiental;
+
+III. Integralidad: como la relación coordinada de los esfuerzos del gobierno y la sociedad en redes interinstitucionales, para coadyuvar a satisfacer las necesidades sociales;
+
+IV. Coordinación: como medio de enlace de los objetivos, estrategias y acciones, de los tres niveles de gobierno y de la sociedad para la consecución de los fines de la planeación;
+
+V. Continuidad: como resultado de la institucionalización de la planeación;
+
+VI. Congruencia: originada a partir de la correspondencia de los planes, programas, proyectos e instrumentos de planeación, con el Plan Estatal de Desarrollo;
+
+VII. Transparencia: como disponibilidad y libre acceso de la información producida durante la planeación, de conformidad con la legislación aplicable;
+
+VIII. Regionalización: como estrategia encauzada al desarrollo equilibrado de las regiones, sustentado en sus respectivas potencialidades; y
+
+IX. Participación Gubernamental y Ciudadana: a partir de la acción sistemática, objetiva, plural y voluntaria de los Poderes Legislativo y Judicial, así como de la sociedad en el proceso de planeación para el desarrollo.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
 
 ###### Artículo 4°.
 
 Son autoridades, instancias u organismos encargados de la aplicación de esta ley, dentro de su ámbito de competencia:
 
-I. El Titular del Poder Ejecutivo del Estado;
+l. El Titular del Poder Ejecutivo del Estado;
 
 II. El Comité de Planeación para el Desarrollo del Estado;
 
@@ -83,13 +123,35 @@ IV. Los Comités de Planeación para el Desarrollo Municipal;
 
 V. Los Subcomités Regionales; y
 
-VI. Las demás dependencias, entidades, instancias u organismos de la administración pública estatal y municipal.
+VI. Las demás dependencias, entidades instancias u organismos de la administración pública estatal y municipal.
 
-Para efectos de esta ley se entenderá por COPLADE al Comité de Planeación para el Desarrollo del Estado de Jalisco y por COPLADEMUN a los Comités de Planeación para el Desarrollo Municipal.
+Es obligación del titular del Poder Ejecutivo del Estado, organizar y conducir la planeación del desarrollo del Estado, con la participación democrática y plural de la ciudadanía.
+
+Los Poderes Legislativo y Judicial serán partícipes del proceso de planeación durante la etapa de consulta gubernamental, de conformidad con lo previsto en esta Ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+###### Artículo 4º Bis.
+
+Corresponde al titular del Poder Ejecutivo en materia de planeación para el desarrollo:
+
+I. Aprobar el Plan Estatal de Desarrollo su modificación o actualización;
+
+II. Aprobar los programas intersectoriales, sectoriales y operativos anuales, de las dependencias y entidades de la administración pública estatal;
+
+III. Fijar los lineamientos a las dependencias y entidades de la administración pública estatal, para la elaboración y ejecución de los instrumentos que se derivan de la aplicación de esta ley;
+
+IV. Ejecutar los planes y programas correspondientes, por sí o a través de las dependencias competentes;
+
+V. Elaborar, aprobar, ejecutar, supervisar, evaluar y rendir informe del Plan General del Poder Ejecutivo, su actualización o modificación; y
+
+VI. Las que además establece la presente ley y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
 
 ###### Artículo 5°.
 
-Es responsabilidad de las autoridades, instancias y organismos mencionados en el artículo anterior, en sus respectivos ámbitos de competencia, conducir la planeación del desarrollo, fomentando la participación de los sectores público, social y privado, instituyendo para ello el Sistema Estatal de Planeación Democrática.
+Es responsabilidad de las autoridades, instancias y organismos mencionados en el artículo 4° de esta Ley, en sus respectivos ámbitos de competencia, conducir sus actividades, fomentando la participación de los sectores público, social y privado, instituyendo para ello el Sistema Estatal de Planeación Democrática.
 
 ###### Artículo 6°.
 
@@ -101,9 +163,11 @@ En caso de duda sobre la interpretación, en el ámbito estatal, de las disposic
 
 En los casos de duda sobre la interpretación de las disposiciones de esta ley, para efectos administrativos, en el ámbito municipal, se estará a lo que resuelva el síndico del ayuntamiento del que se trate, con la participación del coordinador del Comité de Planeación para el Desarrollo Municipal.
 
-###### Artículo 8º.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
 
-Los servidores públicos de las dependencias y entidades de la Administración Pública Estatal y Municipal, que en el ejercicio de sus funciones contravengan esta ley y las disposiciones que de ella se deriven, se sujetarán a lo previsto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+###### Artículo 8°.
+
+Los instrumentos de planeación aprobados conforme a este ordenamiento son de interés público, por lo que los servidores públicos de las dependencias y entidades de la Administración Pública Estatal y Municipal, que en el ejercicio de sus funciones contravengan esta ley y las disposiciones que de ella se deriven, se sujetarán a lo previsto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
 ### CAPITULO SEGUNDO. Del Sistema Estatal de Planeación Democrática
 
@@ -115,6 +179,10 @@ El Sistema Estatal de Planeación Democrática es el conjunto de condiciones, ac
 
 Para efectos de esta ley la participación de las dependencias y entidades de la administración pública federal, estatal y municipal; los sistemas de información y consulta; los organismos de los sectores privado y social y la sociedad en general en el Sistema Estatal de Planeación Democrática, se hará a través del COPLADE, de los COPLADEMUN y de los Subcomités Regionales, en el ámbito de sus respectivas competencias.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Los coordinadores de los subcomités sectoriales, regionales y, en su caso, especiales, serán convocados para sesionar en el pleno del COPLADE cuando menos cada año, asegurando la participación social y privada de cada uno de ellos, para dar seguimiento a los avances de los planes y programas derivados de esta ley.
+
 ###### Artículo 11.
 
 Las disposiciones reglamentarias de esta ley, precisarán las normas de organización y funcionamiento del Sistema Estatal de Planeación Democrática y el proceso de planeación.
@@ -125,9 +193,13 @@ El proceso de planeación deberá integrarse cuando menos con las etapas de cons
 
 Las dependencias y entidades de la administración pública estatal y municipal, deberán participar en la formulación, evaluación y actualización o sustitución de los planes y programas de gobierno, conforme a lo establecido en esta ley.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
+
 ###### Artículo 13.
 
-Los planes Estatal, Municipales y Regionales y los programas de gobierno, serán elaborados tomando en cuenta en lo conducente la información que al respecto generen el Sistema Estatal de Información, el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Estatal de Población y las instituciones de educación superior y de investigación, así como cualquier tipo de información que se considere necesaria.
+Los planes estatal, municipales y regionales y los programas de gobierno, serán elaborados tomando en cuenta en lo conducente la información que al respecto generen el SEIJAL, el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Estatal de Población, el Instituto de Información Territorial del Estado de Jalisco y las instituciones de educación superior y de investigación, así como cualquier otra que se considere necesaria para el proceso de planeación.
+
+La información útil para el proceso de planeación del Estado de Jalisco y sus Municipios será concentrada, sistematizada y ministrada por el SEIJAL.
 
 ###### Artículo 14.
 
@@ -145,13 +217,13 @@ El Ejecutivo Estatal deberá entregar al Congreso del Estado a más tardar el pr
 
 ### CAPITULO TERCERO. De la Planeación Estatal del Desarrollo
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
+
 ###### Artículo 16.
 
-El Plan Estatal precisará los objetivos generales, directrices, políticas, estrategias y líneas de acción que coadyuven al desarrollo integral del Estado a corto, mediano y largo plazo; establecerá los lineamientos para el desarrollo estatal, sectorial y regional; sus previsiones se referirán al conjunto de la actividad económica y social, y regirá la orientación de los programas de gobierno, considerando las propuestas del ámbito municipal.
+El Plan Estatal precisará los objetivos generales, directrices, políticas, estrategias y líneas de acción que coadyuven al desarrollo integral del Estado a corto, mediano y largo plazo; establecerá los lineamientos para el desarrollo estatal, sectorial y regional; sus previsiones se referirán al conjunto de la actividad económica y social, y regirá la orientación de los programas de gobierno, considerando las propuestas del ámbito municipal. Además de las precisiones y lineamientos señalados en el párrafo anterior, el Plan Estatal contendrá un análisis social, demográfico y económico del Estado, así como el criterio para establecer objetivos y una prospectiva anual de alcance de metas y objetivos.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
-
-Además de las precisiones y lineamientos señalados en el párrafo anterior, el Plan Estatal contendrá un análisis social, demográfico y económico del Estado, así como el criterio para establecer objetivos y una prospectiva anual de alcance de metas y objetivos.
+Los planes institucionales para el desarrollo de la gestión pública deberán ser congruentes con el Plan Estatal de Desarrollo.
 
 ###### Artículo 17.
 
@@ -163,7 +235,9 @@ El COPLADE tendrá las siguientes atribuciones:
 
 I. Coordinar las actividades de la planeación estatal del desarrollo;
 
-II. Coordinar la elaboración, evaluación y en su caso actualización o sustitución del Plan Estatal de Desarrollo y los programas especiales, considerando las propuestas de las dependencias y entidades de la administración pública estatal y municipal, del sector privado y de la sociedad en general;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
+
+II. Coordinar la elaboración, evaluación y en su caso actualización o sustitución del Plan Estatal de Desarrollo y los programas especiales, considerando las propuestas de los Poderes Legislativo y Judicial, las dependencias y entidades de la administración pública estatal y municipal, del sector privado y de la sociedad en general, de conformidad con lo estipulado en la presente Ley;
 
 III. Asesorar y coordinar la planeación regional y municipal, con la participación que corresponda a los gobiernos municipales;
 
@@ -171,7 +245,9 @@ IV. Verificar que los planes y los programas que se generen en el Sistema, mante
 
 V. Coordinar las actividades que en materia de investigación y capacitación para la planeación del desarrollo, realicen las dependencias y entidades de la Administración Pública Estatal;
 
-VI. Coordinar la integración de los programas operativos anuales para la ejecución del Plan Estatal, los planes regionales y los programas sectoriales, considerando las propuestas que para el efecto realicen las dependencias y entidades de la administración pública estatal y municipal, así como los organismos representativos del sector privado y social;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
+
+VI. Coordinar la integración de los programas operativos anuales para la ejecución del Plan Estatal, los planes regionales y los programas sectoriales, considerando las propuestas que para el efecto realicen los Poderes Legislativo y Judicial, las dependencias y entidades de la administración pública estatal y municipal, así como los organismos representativos del sector privado y social, de conformidad con lo establecido en la presente Ley;
 
 VII. Verificar la relación que guarden los programas de las diversas dependencias de la administración pública estatal, así como los resultados de su ejecución, con los objetivos y prioridades de los planes a que se refiere esta ley, a fin de adoptar las medidas necesarias para corregir y replantear, en su caso, los programas respectivos; y
 
@@ -291,11 +367,11 @@ El Titular del Ejecutivo Estatal, al informar ante el Congreso sobre la situaci�
 
 Los titulares de las dependencias y entidades de la administración pública estatal, a solicitud del Congreso, darán cuenta de la situación que guardan sus respectivos ramos, informando del avance y grado de cumplimiento de los objetivos, directrices, políticas y prioridades fijados en el Plan Estatal y los programas que de él se deriven y que por razón de su competencia les correspondan.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
+
 ###### Artículo 34.
 
-El Plan Estatal de Desarrollo tendrá en principio una vigencia indefinida con proyecciones a corto, mediano y largo plazo, debiendo ser evaluado y en su caso actualizado o sustituido conforme a lo establecido en esta ley y en sus disposiciones reglamentarias.
-
-Los programas que se deriven del Plan Estatal deberán tener una vigencia que no podrá exceder al término constitucional que le corresponda al Ejecutivo.
+El Plan Estatal de Desarrollo y los programas que de él se deriven, tendrán en principio una vigencia indefinida con proyecciones, según sea el caso, a corto, mediano y largo plazo, debiendo ser evaluado y en su caso actualizado o sustituido conforme a lo establecido en esta ley y en sus disposiciones reglamentarias.
 
 ###### Artículo 35.
 
@@ -397,15 +473,17 @@ Aprobado el Plan Municipal de Desarrollo, o en su caso, sus actualizaciones o su
 
 El Plan Municipal y los programas que de él se deriven, serán obligatorios para toda la administración pública municipal en el ámbito de sus respectivas competencias, conforme a las disposiciones legales que resulten aplicables, a partir de su publicación.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
+
 ###### Artículo 49.
 
-Los municipios deberán observar el Plan Municipal de Desarrollo y los programas que de él se deriven como base para realizar los proyectos de Ley de Ingresos y de Presupuesto de Egresos.
+Los Ayuntamientos deberán observar el Plan Municipal de Desarrollo y los programas que de él se deriven como base para realizar los proyectos de Ley de Ingresos y de Presupuesto de Egresos.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
 
 ###### Artículo 50.
 
-El Plan Municipal de Desarrollo tendrá en principio una vigencia indefinida, con proyecciones a corto, mediano y largo plazo, debiendo ser evaluado y en su caso actualizado o sustituido conforme a lo establecido en esta ley y en sus disposiciones reglamentarias.
-
-Los programas que se deriven del Plan Municipal deberán tener una vigencia que no podrá exceder al término constitucional que le corresponda a la administración municipal.
+El Plan Municipal de Desarrollo y los programas que de él se deriven, se tendrá en principio una vigencia indefinida, con proyecciones, según sea el caso, a corto, mediano y largo plazo, debiendo ser evaluado y en su caso actualizado o sustituido conforme a lo establecido en esta ley y en sus disposiciones reglamentarias.
 
 ###### Artículo 51.
 
@@ -433,9 +511,11 @@ El Ejecutivo del Estado y los municipios se organizarán y coordinarán para fin
 
 La conformación de las regiones del Estado, responderá a los fines de crecimiento económico y desarrollo social y sustentable de los respectivos municipios y sus habitantes.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
+
 ###### Artículo 56.
 
-El esquema de integración de los municipios del Estado en regiones, será emitido por acuerdo del Titular del Ejecutivo Estatal y publicado en el Periódico Oficial "El Estado de Jalisco".
+Para la integración de las regiones de la entidad o su modificación, el Poder Ejecutivo requerirá sustentar su dictamen en estudios técnicos que justifiquen su pertinencia. El esquema de integración de los municipios del Estado en regiones, será emitido por acuerdo del Titular del Ejecutivo Estatal y publicado en el Periódico Oficial "El Estado de Jalisco".
 
 ###### Artículo 57.
 
@@ -483,11 +563,15 @@ IV. Informar a los habitantes de la región y al Comité de Planeación para el 
 
 V. Las demás que se establezcan en el reglamento de la ley y en su respectiva reglamentación interna.
 
-### CAPITULO SEXTO. De la Participación Social en la Planeación
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE ENERO DE 2007)</small>
+
+### CAPITULO SEXTO. De la Consulta Gubernamental y la Participación Social
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
 
 ###### Artículo 65.
 
-Dentro del Sistema Estatal de Planeación Democrática, tendrá lugar la participación y consulta de la sociedad, con el propósito de que intervenga directamente en la elaboración, instrumentación, control y evaluación de los planes, programas y sus actualizaciones a que se refiere esta ley.
+Dentro del Sistema Estatal de Planeación Democrática, tendrá lugar la participación y consulta de la sociedad, con el propósito de que intervenga directamente en la elaboración, instrumentación, control y evaluación de los planes, programas y sus actualizaciones a que se refiere esta ley. Asimismo, Una vez desahogada la consulta y participación social, los Poderes Legislativo y Judicial deberán ser parte del proceso de planeación durante la etapa de elaboración de dichos instrumentos por medio de la Consulta Gubernamental.
 
 ###### Artículo 66.
 
@@ -495,9 +579,11 @@ Todos los particulares podrán participar con sus opiniones y propuestas en las 
 
 Solo las organizaciones privadas y sociales legalmente constituidas podrán participar directamente en el proceso de la planeación, a través de su integración en los respectivos Comités de Planeación para el Desarrollo del Estado y de los Municipios y de los Subcomités Regionales.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
+
 ###### Artículo 67.
 
-El Reglamento de la presente ley y los reglamentos internos de los Subcomités del COPLADE y los COPLADEMUN, contendrán las disposiciones que normarán la organización, funcionamiento, formalidades, periodicidad y términos de la consulta y participación social en el Sistema Estatal de Planeación Democrática, y deberán garantizar la participación en las instancias de coordinación de los diversos grupos sociales del Estado, región o Municipio según corresponda.
+Los reglamentos de la presente ley y de los internos de los Subcomités del COPLADE y los COPLADEMUN, contendrán las disposiciones que normarán la organización, funcionamiento, formalidades, periodicidad y términos de la consulta y participación social en el Sistema Estatal de Planeación Democrática, así como de la Consulta Gubernamental, para que una vez que se encuentra agotada la etapa de participación social, se dé entrada a dicha Consulta Gubernamental, debiéndose garantizar la participación en las instancias de coordinación, de los Poderes Legislativo y Judicial, y de los diversos grupos sociales del Estado, región o Municipio según corresponda.
 
 ###### Artículo 68.
 
@@ -534,6 +620,14 @@ El Titular del Ejecutivo Estatal ordenará la publicación de los convenios que 
 ###### Artículo 75.
 
 Para los efectos de esta ley, las etapas de control y evaluación consistirán en el conjunto de actividades de verificación, medición, así como de detección y corrección de desviaciones o insuficiencias de carácter cualitativo y cuantitativo, tanto en la instrumentación como en la ejecución de los planes y los programas, centrándose en los correspondientes objetivos, metas y acciones.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+El desarrollo del Estado, regiones y municipios se medirá en base a indicadores cuya aplicación se regulará en el reglamento de esta ley.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 75 bis.- El control y evaluación de la planeación del desarrollo estará a cargo de una Unidad de Evaluación que deberá integrarse conforme al reglamento de la presente ley y deberá garantizar la participación de técnicos, académicos y profesionistas expertos en la materia de los sectores público, privado y social.
 
 ###### Artículo 76.
 
@@ -578,6 +672,84 @@ d) Informes, relatorías o registros resultantes de los foros de consulta y part
 ###### Artículo 77.
 
 Las metodologías y procedimientos de control, seguimiento y evaluación de los objetivos, estrategias y líneas de acción del Plan Estatal y de las metas contenidas en los programas de gobierno que de él se deriven, serán establecidas por el Comité de Planeación para el Desarrollo del Estado a través de la Coordinación General y habrán de especificarse en las disposiciones reglamentarias de esta ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2007)</small>
+
+### CAPITULO NOVENO. De la Planeación de la Gestión Institucional
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+###### Artículo 78-A.
+
+Los poderes públicos, ayuntamientos y organismos públicos descentralizados y constitucionales autónomos, programarán sus actividades institucionales en un plan general.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+###### Artículo 78-B.
+
+El Plan General es un instrumento con proyecciones de corto, mediano y largo plazo y sus prevenciones contendrán las estrategias y acciones para el mejoramiento del desempeño de las funciones públicas.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+###### Artículo 78-C.
+
+La evaluación de la eficacia y eficiencia de los orgánicos, organismos y entidades de gobierno se hará con base en indicadores de desempeño de la función pública.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+###### Artículo 78-D.
+
+Los planes generales podrán ser actualizados o modificados en virtud a consideraciones justificativas del propio poder, ayuntamiento u organismo, que corresponda.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+###### Artículo 78-E.
+
+Los planes generales, su actualización o modificación, deberán ser publicados en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+###### Artículo 78-F.
+
+Los planes generales constituyen información fundamental por lo que su divulgación deberá realizarse en los términos de la Ley de Transparencia e Información Pública.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+###### Artículo 78-G.
+
+Los poderes públicos, ayuntamientos y organismos constitucionales autónomos deberán integrar un órgano interno de planeación de la gestión pública.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+###### Artículo 78-H.
+
+Cada órgano interno de planeación de la gestión pública tendrá las siguientes atribuciones:
+
+I. Realizar el proyecto de Plan General, su actualización o modificación;
+
+II. Realizar los proyectos de los programas operativos anuales;
+
+III. Hacer observaciones al proyecto de presupuesto de egresos para verificar que sea conforme a las disposiciones del Plan General y los programas operativos anuales;
+
+IV. Coordinar los trabajos de evaluación del Plan General y programas operativos anuales: y
+
+V. Las demás que le sean compatibles con su naturaleza.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+###### Artículo 78-I.
+
+En su respectivo espacio de competencia, la aprobación del Plan General será facultad de los siguientes órganos:
+
+I. El Gobernador del Estado;
+
+II. El Congreso del Estado;
+
+III. El Supremo Tribunal de Justicia con la aprobación de cuando menos dos de los plenos de los tribunales Administrativo y Electoral y del Consejo General del Poder Judicial;
+
+IV. El ayuntamiento; y
+
+V. El órgano directivo de mayor jerarquía del organismo público de que se trate.
 
 T R A N S I T O R I O S
 
@@ -634,3 +806,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 P.O. 18 DE SEPTIEMBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE ENERO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El reglamento de la Ley de Planeación para el Estado de Jalisco y sus Municipios deberá normar la periodicidad y formalidades para el funcionamiento del COPLADE en pleno y los Subcomités.
