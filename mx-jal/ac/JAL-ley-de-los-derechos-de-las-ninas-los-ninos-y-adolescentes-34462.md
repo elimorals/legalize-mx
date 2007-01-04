@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2006-12-28"
+last_updated: "2007-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -155,7 +155,9 @@ III. Promover la alimentación directa de la madre al recién nacido;
 
 IV. Combatir la desnutrición mediante la promoción de una alimentación adecuada;
 
-V. Ofrecer atención pre y postnatal a las madres, de conformidad con lo establecido en las leyes aplicables en la materia;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
+
+V. Ofrecer atención pre y post natal a las madres, especialmente a las adolescentes de conformidad con lo establecido en las leyes de la materia;
 
 VI. Atender de manera especial las enfermedades endémicas, epidémicas y de transmisión sexual, impulsando programas de protección e información sobre ellas;
 
@@ -287,9 +289,15 @@ II. Garantizar el acceso de las niñas, los niños y adolescentes a la educació
 
 III. Establecer programas educativos que fomenten los valores de la democracia;
 
-IV. Implementar programas para sensibilizar al personal que interviene en el proceso educativo sobre el respeto de los derechos de las niñas, los niños y adolescentes; y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
 
-V. Las demás que les confieran otros ordenamientos en la materia.
+IV. Implementar programas para sensibilizar al personal que interviene en el proceso educativo sobre el respeto de los derechos de las niñas, los niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2007)</small>
+
+V. Promover que las niñas, niños y adolescentes que sean padres, finalicen la educación obligatoria, garantizando una atención adecuada; y
+
+VI. Las demás que les confieran otros ordenamientos en la materia.
 
 Las medidas disciplinarias que implementen los planteles educativos deben favorecer el diálogo. Queda prohibido emplear medidas disciplinarias que no se establezcan previamente con la anuencia de los padres, o que atenten contra la dignidad o integridad de las niñas, los niños y adolescentes.
 
@@ -453,9 +461,15 @@ VII. Hijos de los presos;
 
 VIII. Víctimas de delito;
 
-IX. Refugiados; y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
 
-X. Demás niñas, niños y adolescentes que sean considerados como grupo vulnerable.
+IX. Refugiados;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2007)</small>
+
+X. Las adolescentes embarazadas o que sean madres y que no cuenten con el respaldo de su familia ni con el sustento necesario para su manutención y la de sus hijos; y
+
+XI. Demás niñas, niños y adolescentes que sean considerados como grupo vulnerable.
 
 ###### Artículo 37.
 
@@ -744,5 +758,9 @@ P.O. 4 DE DICIEMBRE DE 2004.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 28 DE DICIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
