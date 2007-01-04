@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2006-09-14"
+last_updated: "2007-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -177,7 +177,95 @@ El Magistrado, Juez y Secretario que pasen a formar parte del Consejo General de
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
-### CAPÍTULO I. INTEGRACIÓN Y FUNCIONAMIENTO
+### CAPÍTULO V. DE LA PLANEACIÓN INSTITUCIONAL DEL PODER JUDICIAL
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 A.- Le corresponde al Poder Judicial del Estado de Jalisco, en materia de planeación institucional:
+
+I. Elaborar, aprobar, ejecutar, supervisar, evaluar y rendir informe del Plan General del Poder Judicial a COPLADE, su modificación o actualización;
+
+II. Aprobar su programa operativo anual, para la conducción de acciones administrativas;
+
+III. Aprobar su proyecto de presupuesto de egresos conforme al programa operativo anual que corresponda;
+
+IV. Evaluar por conducto de sus Plenos una vez al año; y
+
+V. Las demás que establezcan las leyes y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 B.- El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral y el Consejo General del Poder Judicial precisarán en el Plan General del Poder Judicial sus objetivos, directrices, políticas, estrategias y líneas de acción que coadyuven a la mejora de la administración de la justicia en la Entidad.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 C.- Las previsiones del Plan General del Poder Judicial se referirán a las medidas administrativas para el mejoramiento del servicio público de justicia.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 D.- Los acuerdos tomados por el Comité de Planeación del Poder Legislativo o el COPLADE, deberán respetar íntegramente el Programa Operativo Anual del Poder Judicial, por lo que cualquiera de ellos se pueda afectar la esfera competencial de los Tribunales del Estado o al Consejo General del Poder Judicial, se harán del conocimiento de estos, para su correspondiente aceptación y aprobación.
+
+En caso de rechazo por parte del Poder Judicial en lo que le afecte no surtirán efecto alguno.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 E.- El Poder Judicial a través del Presidente del Supremo Tribunal de Justicia, rendirá un informe anual del desarrollo del Plan General y los programas operativos anuales, el cual podrá enviarlo al Congreso del Estado y al titular del Ejecutivo, para que sea tomado en cuenta por el primero para el presupuesto de egresos del año siguiente y el segundo para que fije el techo financiero sin modificación alguna.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 F.- Previo a la aprobación de su Programa Operativo Anual, el Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral y el Consejo General del Poder Judicial, podrán recabar opinión del COPLADE, y/o del Comité de Planeación para el Desarrollo del Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 G.- El proceso de planeación del Poder Judicial será conducido por el Presidente del Supremo Tribunal de Justicia, quien presidirá el Comité de Planeación del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 H.- El Comité de Planeación del Poder Judicial estará integrado de la siguiente forma:
+
+I. El Presidente del Supremo Tribunal de Justicia;
+
+II. El Presidente del Tribunal de lo Administrativo;
+
+III. El Presidentes del Tribunal Electoral;
+
+IV. Un magistrado del Supremo Tribunal de Justicia electo por el Pleno; y
+
+V. Un consejero ciudadano del Consejo General del Poder Judicial.
+
+El comité sesionará con la presencia de todos sus integrantes y sus decisiones se aprobarán por mayoría simple de votos.
+
+En caso de ausencia de alguno de los integrantes señalados en las fracciones I, II y III, deberán acudir el Suplente por Ministerio de Ley, y en caso de ausencia de los integrantes indicados en las fracciones IV y V deberán ser suplidos por los que designen los Plenos respectivos.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 I.- El Comité de Planeación del Poder Judicial será el encargado de elaborar el Plan General del Poder Judicial, y podrá promover la participación de los colegios o barras de abogados, universidades, colegio de notarios y demás organismos sociales y privados, en el diseño de los planes y programas que norman el funcionamiento del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 J.- Para que adquiera vigencia el Plan General del Poder Judicial, su actualización o modificación, y sus programas operativos anuales, deberán ser aprobados por el Pleno del Supremo Tribunal de Justicia y cuando menos por otro de los plenos de los tribunales de lo Administrativo y Electoral y del Consejo General del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 K.- En la elaboración del Plan General del Poder Judicial y los programas operativos anuales, se podrá convocar a las siguientes instituciones:
+
+I. El Colegio de Notarios;
+
+II. A tres de los colegios de abogados o barras de abogados registrados en la Dirección de Profesiones del Estado; y
+
+III. A la Universidad de Guadalajara a través del Director de la División de Estudios Jurídicos y a dos de las universidades locales más representativas que cuenten con escuela o facultad de derecho.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 L.- En las reuniones que se lleven a cabo para la elaboración del Plan General del Poder Judicial y los programas operativos anuales, las instituciones referidas en los artículos 16 I y 16 K tendrán derecho a voz en la discusión de los temas, pero carecerán del derecho al voto.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 16 M.- El Poder Judicial del Gobierno del Estado se sujetará a los siguientes términos:
+
+I. El Plan General del Poder Judicial, su actualización o modificación, se publicará dentro de los seis meses a partir de su aprobación; y
+
+II. El programa operativo anual será aprobado a más tardar el día 25 de octubre, del año anterior a su aplicación.
 
 ###### Artículo 15.
 
@@ -201,11 +289,13 @@ VI. Departamento de Auxiliares de la Administración de Justicia.
 
 Para su organización y funcionamiento, las dependencias a que se refiere el presente artículo, se sujetarán a lo que establezca el reglamento interno de cada tribunal.
 
-### CAPÍTULO II. DEL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2007)</small>
+
+### CAPÍTULO I. INTEGRACIÓN Y FUNCIONAMIENTO
 
 ## TÍTULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-### CAPÍTULO III. DEL PRESIDENTE DEL SUPREMO TRIBUNAL DE JUSTICIA
+### CAPÍTULO II. DEL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 ###### Artículo 17.
 
@@ -249,7 +339,7 @@ El Supremo Tribunal de Justicia del Estado tendrá un Presidente que durará en 
 
 La Presidencia de las salas será rotatoria por designación entre los magistrados que la integren, lo que comunicarán al Pleno al inicio del año judicial para su sanción.
 
-### CAPÍTULO IV. DE LAS SALAS DEL SUPREMO TRIBUNAL DE JUSTICIA
+### CAPÍTULO III. DEL PRESIDENTE DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 ###### Artículo 21.
 
@@ -427,7 +517,7 @@ III. Vigilar el cumplimiento en el desempeño de las funciones asignadas al pers
 
 IV. Las demás que le confiera la Presidencia, y le señale el reglamento.
 
-### CAPÍTULO V. DEL PROCEDIMIENTO PARA LAS SUPLENCIAS DE LOS MAGISTRADOS
+### CAPÍTULO IV. DE LAS SALAS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 ###### Artículo 33.
 
@@ -489,7 +579,7 @@ XXI. Las demás que le confieran las leyes y el Pleno.
 
 La Presidencia del Supremo Tribunal contará con el personal de apoyo que permita el Presupuesto de Egresos correspondiente.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO V. DEL PROCEDIMIENTO PARA LAS SUPLENCIAS DE LOS MAGISTRADOS
 
 ###### Artículo 36.
 
@@ -645,7 +735,7 @@ Las salas auxiliares y regionales mixtas en su caso, tendrán jurisdicción en l
 
 La Sala Auxiliar se integrará con los magistrados supernumerarios de mayor antigüedad en el cargo.
 
-### CAPÍTULO II. DE LA INTEGRACIÓN DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 52.
 
@@ -677,7 +767,7 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 ## TÍTULO TERCERO. DEL TRIBUNAL DE LO ADMINISTRATIVO
 
-### CAPÍTULO III. DEL PRESIDENTE DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO II. DE LA INTEGRACIÓN DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 57.
 
@@ -687,7 +777,7 @@ El Tribunal de lo Administrativo, es el órgano especializado del Poder Judicial
 
 El Tribunal de lo Administrativo, residirá en la capital del Estado, asimismo tendrá Salas Regionales que funcionarán en las cabeceras municipales que autorice el Pleno del Tribunal, Así como Sala Auxiliar en la capital del estado, con base en la disponibilidad presupuestal, con la competencia y jurisdicción que el Pleno del Tribunal les asigne y dictará sus resoluciones con base en los principios de autonomía, independencia e imparcialidad.
 
-### CAPÍTULO IV. DEL PLENO DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO III. DEL PRESIDENTE DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 58.
 
@@ -747,9 +837,7 @@ V. No haber sido Gobernador, titular de alguna de las secretarías de despacho d
 
 VI. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes del día que tenga verificativo la elección.
 
-### CAPÍTULO V. DE LAS SALAS DEL TRIBUNAL DE LO ADMINISTRATIVO
-
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2000)</small>
+### CAPÍTULO IV. DEL PLENO DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 63.
 
@@ -811,7 +899,9 @@ XVIII. Tener voto de calidad, en caso de empate en las resoluciones del Pleno de
 
 XIX. Las demás que le confiera el Pleno del Tribunal.
 
-### CAPÍTULO VI. DE LOS SECRETARIOS Y ACTUARIOS DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO V. DE LAS SALAS DEL TRIBUNAL DE LO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2000)</small>
 
 ###### Artículo 65.
 
@@ -865,7 +955,7 @@ XVIII. El conocimiento y resolución de las reclamaciones presentadas por partic
 
 XIX. Las demás que determinen las leyes.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VI. DE LOS SECRETARIOS Y ACTUARIOS DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 66.
 
@@ -941,7 +1031,7 @@ VI. Emitir opinión, respecto a las solicitudes de licencia que presente el pers
 
 VII. Las demás atribuciones que le confiera el Pleno del Tribunal de lo Administrativo.
 
-### CAPÍTULO II. DE LOS REQUISITOS PARA SER MAGISTRADO ELECTORAL, SECRETARIO GENERAL DE ACUERDOS Y SECRETARIOS RELATORES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 69.
 
@@ -997,9 +1087,7 @@ III. Las demás que señalen las disposiciones legales aplicables.
 
 ## TÍTULO CUARTO. DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL
 
-### CAPÍTULO III. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
-
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+### CAPÍTULO II. DE LOS REQUISITOS PARA SER MAGISTRADO ELECTORAL, SECRETARIO GENERAL DE ACUERDOS Y SECRETARIOS RELATORES
 
 ###### Artículo 73.
 
@@ -1091,7 +1179,9 @@ También podrán desahogarse diligencias, por medio de los juzgados de primera i
 
 El Tribunal Electoral, al resolver los asuntos de su competencia, garantizará que los actos y las resoluciones que emitan, se sujeten invariablemente a los principios constitucionales que rigen la función electoral.
 
-### CAPÍTULO IV. DEL PLENO DEL TRIBUNAL ELECTORAL
+### CAPÍTULO III. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 83.
 
@@ -1133,7 +1223,7 @@ V. No haber sido dirigente nacional, estatal o municipal de algún partido polí
 
 VI. Tener credencial para votar con fotografía.
 
-### CAPÍTULO V. DE LAS SESIONES
+### CAPÍTULO IV. DEL PLENO DEL TRIBUNAL ELECTORAL
 
 ###### Artículo 85.
 
@@ -1161,7 +1251,7 @@ I. En caso de ausencias no mayores de sesenta días, por el magistrado propietar
 
 II. En el caso que exceda del plazo que se indica en la fracción anterior, deberá elegirse nuevo presidente.
 
-### CAPÍTULO VI. DE LAS SALAS DE PRIMERA INSTANCIA DEL TRIBUNAL ELECTORAL
+### CAPÍTULO V. DE LAS SESIONES
 
 ###### Artículo 88.
 
@@ -1273,7 +1363,7 @@ XVII. Proponer al Pleno del Tribunal Electoral el representante de este último,
 
 XVIII. Las demás que le confiera el Pleno del Tribunal.
 
-### CAPÍTULO VII. DE LA SALA DE SEGUNDA INSTANCIA DEL TRIBUNAL ELECTORAL
+### CAPÍTULO VI. DE LAS SALAS DE PRIMERA INSTANCIA DEL TRIBUNAL ELECTORAL
 
 ###### Artículo 90.
 
@@ -1301,9 +1391,7 @@ El Presidente del Tribunal Electoral tendrá la obligación de ordenar que se fi
 
 El Tribunal determinará la hora y días de sus sesiones públicas.
 
-### CAPÍTULO VIII. DE LA JURISPRUDENCIA
-
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+### CAPÍTULO VII. DE LA SALA DE SEGUNDA INSTANCIA DEL TRIBUNAL ELECTORAL
 
 ###### Artículo 92.
 
@@ -1317,7 +1405,9 @@ El Tribunal determinará la hora y días de sus sesiones públicas.
 
 (DEROGADO, P.O. 17 DE JULIO DE 2001)
 
-### CAPÍTULO IX. DE LOS PROCEDIMIENTOS ESPECIALES
+### CAPÍTULO VIII. DE LA JURISPRUDENCIA
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 95.
 
@@ -1330,6 +1420,12 @@ El Tribunal determinará la hora y días de sus sesiones públicas.
 ###### Artículo 97.
 
 (DEROGADO, P.O. 17 DE JULIO DE 2001)
+
+### CAPÍTULO IX. DE LOS PROCEDIMIENTOS ESPECIALES
+
+###### Artículo 98.
+
+Los criterios fijados por el Tribunal Electoral del Estado sentarán jurisprudencia cuando se sustenten en el mismo sentido, cinco resoluciones consecutivas.
 
 ### CAPÍTULO X. DEL INSTITUTO DE INVESTIGACIONES Y CAPACITACIÓN ELECTORAL
 
@@ -1441,12 +1537,6 @@ Los salarios de los magistrados y personal comisionado del Tribunal Electoral no
 
 Será prueba del grado de eficiencia de los Directores del Instituto, la obtención de más y mejores resultados con el mínimo de gasto con cargo al presupuesto del Tribunal.
 
-###### Artículo 98.
-
-Los criterios fijados por el Tribunal Electoral del Estado sentarán jurisprudencia cuando se sustenten en el mismo sentido, cinco resoluciones consecutivas.
-
-### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS JUZGADOS DE PRIMERA INSTANCIA
-
 ###### Artículo 99.
 
 Las diferencias o conflictos entre el Consejo Electoral del Estado y sus servidores serán resueltas por el Tribunal Electoral conforme al siguiente procedimiento:
@@ -1509,11 +1599,11 @@ En el supuesto de que la resolución ordene dejar sin efectos la destitución de
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JULIO DE 2001)</small>
 
-### CAPÍTULO II. DE LOS JUZGADOS MENORES Y DE PAZ
+### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
 ## TÍTULO QUINTO. DE LOS JUZGADOS Y JURADO POPULAR
 
-### CAPÍTULO III. DEL JURADO POPULAR
+### CAPÍTULO II. DE LOS JUZGADOS MENORES Y DE PAZ
 
 ###### Artículo 101.
 
@@ -1735,7 +1825,7 @@ En los juzgados especializados y mixtos fuera del Primer Partido Judicial en los
 
 Los notificadores deberán hacer las notificaciones y citaciones con la debida oportunidad, y con las formalidades prescritas por el procedimiento respectivo, sin dar preferencia a ninguna de las partes, devolviendo inmediatamente los expedientes al Secretario.
 
-### CAPÍTULO IV. DE LAS AUSENCIAS Y SUPLENCIAS DE LOS JUECES Y DEMÁS SERVIDORES
+### CAPÍTULO III. DEL JURADO POPULAR
 
 ###### Artículo 116.
 
@@ -1789,7 +1879,7 @@ IV. Los demás que prevengan las leyes.
 
 Por cada Juez Menor o de Paz propietario, se nombrará un suplente que lo sustituya en sus faltas temporales, en tanto se nombra su propietario y éste tome posesión.
 
-### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+### CAPÍTULO IV. DE LAS AUSENCIAS Y SUPLENCIAS DE LOS JUECES Y DEMÁS SERVIDORES
 
 ###### Artículo 121.
 
@@ -1861,9 +1951,7 @@ V. En general todos aquellos impedimentos o excusas que prevén las leyes proces
 
 El procedimiento, recusación, el orden que debe seguirse en las audiencias y en general todo lo relativo a las obligaciones y funciones de los jurados, se regirán por lo que dispongan las leyes aplicables.
 
-### CAPÍTULO II. DEL PLENO DEL CONSEJO GENERAL
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
+### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
 ###### Artículo 130.
 
@@ -1899,7 +1987,9 @@ De presentarse esa hipótesis en salas regionales mixtas, lo suplirá el Secreta
 
 ## TÍTULO SEXTO. DEL CONSEJO GENERAL DEL PODER JUDICIAL
 
-### CAPÍTULO III. DEL PRESIDENTE DEL PLENO DEL CONSEJO DEL PODER JUDICIAL
+### CAPÍTULO II. DEL PLENO DEL CONSEJO GENERAL
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
 
 ###### Artículo 136.
 
@@ -1929,7 +2019,7 @@ La notificación y ejecución de las resoluciones que emita el Consejo General f
 
 Cuando a juicio del Pleno del Consejo General del Poder Judicial, los reglamentos, acuerdos o resoluciones que emita sean de interés general, deberán publicarse en el Boletín Judicial.
 
-### CAPÍTULO IV. DE LAS COMISIONES DEL CONSEJO
+### CAPÍTULO III. DEL PRESIDENTE DEL PLENO DEL CONSEJO DEL PODER JUDICIAL
 
 ###### Artículo 142.
 
@@ -2043,7 +2133,7 @@ XXXVII. Desempeñar cualquier otra función que la ley encomiende al Consejo Gen
 
 El Pleno del Consejo General del Poder Judicial del Estado contará con los servidores públicos superiores que establece el presente ordenamiento y el personal subalterno que permita el Presupuesto, los cuales podrán ser nombrados y removidos de conformidad con lo previsto en la presente ley.
 
-### CAPÍTULO V. DE LA SECRETARIA GENERAL DEL CONSEJO
+### CAPÍTULO IV. DE LAS COMISIONES DEL CONSEJO
 
 ###### Artículo 150.
 
@@ -2073,7 +2163,7 @@ IX. Firmar las resoluciones y acuerdos del Pleno del Consejo General del Poder J
 
 X. Las demás que determinen las leyes, los correspondientes reglamentos interiores y acuerdos generales.
 
-### CAPÍTULO VI. DE LA CAPACITACIÓN DE LOS INTEGRANTES DEL PODER JUDICIAL
+### CAPÍTULO V. DE LA SECRETARIA GENERAL DEL CONSEJO
 
 ###### Artículo 152.
 
@@ -2101,7 +2191,7 @@ Cada comisión nombrará a su respectivo Presidente y determinarán, por medio d
 
 En todos aquellos casos en que no fuere posible la dictaminación de un asunto en comisiones, su conocimiento y resolución pasará directamente al Pleno del Consejo General del Poder Judicial.
 
-### CAPÍTULO VII. DE LAS VISITAS DE INSPECCIÓN JUDICIAL
+### CAPÍTULO VI. DE LA CAPACITACIÓN DE LOS INTEGRANTES DEL PODER JUDICIAL
 
 ###### Artículo 158.
 
@@ -2153,7 +2243,7 @@ V. No haber sido condenado por delito doloso.
 
 Los directores de Investigación y Capacitación, de Visitaduría y Carrera Judicial, de Disciplina y Responsabilidades y de Archivo, Ediciones y Boletín Judicial, además de reunir los requisitos que contemplan las fracciones I, III, IV y V del artículo anterior, deberán tener título profesional de licenciado en derecho o abogado expedido legalmente.
 
-### CAPÍTULO VIII. DE LA ADMINISTRACIÓN Y CONTRALORÍA DEL PODER JUDICIAL
+### CAPÍTULO VII. DE LAS VISITAS DE INSPECCIÓN JUDICIAL
 
 ###### Artículo 162.
 
@@ -2191,7 +2281,7 @@ La Dirección de Investigación y Capacitación programará e impartirá cursos 
 
 La dirección contará con un área de investigación, la cual tendrá como función primordial la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado.
 
-### CAPÍTULO IX. DE LA CARRERA JUDICIAL
+### CAPÍTULO VIII. DE LA ADMINISTRACIÓN Y CONTRALORÍA DEL PODER JUDICIAL
 
 ###### Artículo 167.
 
@@ -2283,7 +2373,7 @@ Del acta elaborada por el Visitador, deberán ser entregadas copias al titular d
 
 El Pleno del Consejo General del Poder Judicial y el Titular de la Dirección de Visitaduría podrán ordenar en cualquier momento la celebración de visitas extraordinarias de inspección, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por cualquier servidor público adscrito al Juzgado de Primera Instancia, Menor o de Paz.
 
-### CAPÍTULO X. DEL INGRESO A LA CARRERA JUDICIAL
+### CAPÍTULO IX. DE LA CARRERA JUDICIAL
 
 ###### Artículo 178.
 
@@ -2299,9 +2389,9 @@ II. Elaborar los dictámenes de proyectos de Presupuesto de Egresos, planeación
 
 III. Comprobar el cumplimiento por parte de los órganos administrativos de cada órgano jurisdiccional, respecto de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos.
 
-### CAPÍTULO XI. DE LA ADSCRIPCIÓN Y RATIFICACIÓN DE FUNCIONARIOS JUDICIALES
+### CAPÍTULO X. DEL INGRESO A LA CARRERA JUDICIAL
 
-### CAPÍTULO XII. DEL ARCHIVO Y BOLETÍN JUDICIAL
+### CAPÍTULO XI. DE LA ADSCRIPCIÓN Y RATIFICACIÓN DE FUNCIONARIOS JUDICIALES
 
 ###### Artículo 180.
 
@@ -2347,7 +2437,7 @@ XIII. Juez Menor y Juez de Paz.
 
 El Consejo General del Poder Judicial del Estado establecerá, de acuerdo con su Presupuesto de Egresos y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos de especialización realizados, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios, respetando los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación.
 
-### CAPÍTULO I. DE LOS MAGISTRADOS Y CONSEJEROS
+### CAPÍTULO XII. DEL ARCHIVO Y BOLETÍN JUDICIAL
 
 ###### Artículo 183.
 
@@ -2413,7 +2503,7 @@ IV. El director de Investigación y Capacitación.
 
 Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento correspondiente.
 
-### CAPÍTULO II. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS FUNCIONARIOS JUDICIALES
+### CAPÍTULO I. DE LOS MAGISTRADOS Y CONSEJEROS
 
 ###### Artículo 189.
 
@@ -2463,7 +2553,7 @@ IV. No haber sido sancionado por falta grave, con motivo de una queja de caráct
 
 V. Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la ratificación.
 
-### CAPÍTULO III. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+### CAPÍTULO II. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS FUNCIONARIOS JUDICIALES
 
 ###### Artículo 193.
 
@@ -2485,7 +2575,7 @@ Para los efectos de la Ley de Prensa, el impresor será responsable de su actuac
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES Y CONFLICTOS LABORALES
 
-### CAPÍTULO IV. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
+### CAPÍTULO III. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
 ###### Artículo 196.
 
@@ -2499,9 +2589,9 @@ También se procederá en los términos del párrafo anterior cuando los magistr
 
 Los magistrados del Supremo Tribunal, del Tribunal de lo Administrativo y del Tribunal Electoral, serán responsables al establecer o fijar la interpretación de los preceptos legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe.
 
-### CAPÍTULO V. DEL PROCEDIMIENTO EN CONFLICTOS LABORALES
+### CAPÍTULO IV. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
 
-### CAPÍTULO I. DE LOS TRIBUNALES
+### CAPÍTULO V. DEL PROCEDIMIENTO EN CONFLICTOS LABORALES
 
 ###### Artículo 198.
 
@@ -2641,7 +2731,7 @@ VI. Incumplir las instrucciones de sus superiores jerárquicos relacionadas con 
 
 VII. Retirarse de su área de trabajo sin autorización o causa justificada.
 
-### CAPÍTULO II. DE LOS JUZGADOS
+### CAPÍTULO I. DE LOS TRIBUNALES
 
 ###### Artículo 201.
 
@@ -2715,7 +2805,7 @@ Si el Pleno de los Tribunales correspondientes, el Consejo General del Poder Jud
 
 Las resoluciones por las que el Pleno del Consejo General del Poder Judicial del Estado imponga sanciones administrativas consistentes en la destitución del cargo de Juez de Primera Instancia, Menor o de Paz, podrán ser impugnadas por el servidor público ante el Pleno del Tribunal de lo Administrativo mediante el recurso de revisión administrativa.
 
-### CAPÍTULO III. DE LOS PERITOS E INTÉRPRETES
+### CAPÍTULO II. DE LOS JUZGADOS
 
 ###### Artículo 207.
 
@@ -2759,7 +2849,7 @@ La nulidad del acto que se reclame no producirá la invalidez de las actuaciones
 
 La interposición de la revisión administrativa no interrumpirá en ningún caso, los efectos de la resolución impugnada.
 
-### CAPÍTULO IV. DE LOS SÍNDICOS DE CONCURSO
+### CAPÍTULO III. DE LOS PERITOS E INTÉRPRETES
 
 ###### Artículo 214.
 
@@ -2811,7 +2901,7 @@ III. Otras en que quede sin materia el procedimiento administrativo iniciado.
 
 ## TÍTULO OCTAVO. DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO V. DE LOS ALBACEAS, INTERVENTORES, DEPOSITARIOS, TUTORES Y CURADORES
+### CAPÍTULO IV. DE LOS SÍNDICOS DE CONCURSO
 
 ###### Artículo 222.
 
@@ -2823,7 +2913,7 @@ II. Vigilar la conducta de los auxiliares de la administración de justicia en l
 
 III. Las demás que le asignen las leyes, el reglamento y el Pleno del Tribunal respectivo en el ámbito de su competencia.
 
-### CAPÍTULO ÚNICO. DE LA JURISPRUDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA Y DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO V. DE LOS ALBACEAS, INTERVENTORES, DEPOSITARIOS, TUTORES Y CURADORES
 
 ###### Artículo 223.
 
@@ -2860,6 +2950,8 @@ Sólo en el caso de que no existiere lista de peritos en el arte o ciencia de qu
 ###### Artículo 227.
 
 Los auxiliares de justicia, en la prestación de sus servicios, devengarán honorarios de acuerdo a la ley o aranceles aplicables.
+
+### CAPÍTULO ÚNICO. DE LA JURISPRUDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA Y DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 228.
 
@@ -3102,3 +3194,9 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007
 SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
 
 TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE ENERO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El reglamento de la Ley de Planeación para el Estado de Jalisco y sus Municipios deberá normar la periodicidad y formalidades para el funcionamiento del COPLADE en pleno y los Subcomités.
