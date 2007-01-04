@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2006-12-28"
+last_updated: "2007-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2007.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -103,9 +103,9 @@ III. La promoción de bienestar del adulto mayor y el desarrollo de acciones de 
 
 IV. El ejercicio de la tutela de los menores e incapaces, en los términos de las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
 
-V. La prestación de servicios de asistencia jurídica y de orientación social, a las personas que lo necesiten, especialmente a menores, adultos mayores, personas con discapacidad, incapaces o indigentes;
+V. La prestación de servicios de asistencia jurídica y de orientación social, a las personas que lo necesiten, especialmente a menores, adultos mayores, personas con discapacidad, incapaces, indigentes o jefes de familias monoparentales con hijos menores de edad;
 
 VI. La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -153,9 +153,17 @@ VIII. Familiares directos, hasta el primer grado, ascendientes, descendientes o 
 
 IX. Las víctimas de la comisión de delitos en estado de abandono;
 
+(REPUBLICADA, P.O. 4 DE ENERO DE 2007)
+
 X. Las personas afectadas por un desastre y que queden en estado de necesidad o desamparo;
 
-XI. Personas que por alguna enfermedad se encuentren en estado de abandono o indigencia.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
+
+XI. Personas que por alguna enfermedad se encuentren en estado de abandono o indigencia; y
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2007)</small>
+
+XII. Los jefes de familias monoparentales con hijos menores de edad, carentes de recursos económicos o que se encuentren en estado de desamparo, marginación o maltrato.
 
 ###### Artículo 6.
 
@@ -1789,11 +1797,21 @@ El aviso deberá notificarse al interesado con el término suficiente para que s
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
 
 ###### Artículo 141.
 
-Este libro tiene por objeto regular las medidas y acciones tendientes a procurar el desarrollo integral de las personas con discapacidad, su bienestar físico y mental, así como la igualdad de oportunidades y equidad, a fin de facilitar su integración plena a la sociedad.
+Este libro tiene por objeto:
+
+I. Regular las medidas y acciones tendientes a procurar el desarrollo integral de las personas con discapacidad, su bienestar físico y mental, así como la igualdad de oportunidades y equidad, a fin de facilitar su integración plena a la sociedad;
+
+II. Establecer los derechos de las personas con discapacidad;
+
+III. Regular la actuación de las distintas instancias de gobierno, instituciones privadas y de las organizaciones de la sociedad civil en la protección de los derechos de las personas con discapacidad;
+
+IV. Establecer las bases y lineamientos para la implementación de las políticas públicas tendientes a garantizar los derechos de la persona con discapacidad; y
+
+V. Establecer las bases para la creación y operación de la Comisión y el Consejo Estatal de Atención para las personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -1801,7 +1819,9 @@ Este libro tiene por objeto regular las medidas y acciones tendientes a procurar
 
 Para efectos de este Código se entiende por:
 
-I. Persona con discapacidad: Todo ser humano que tiene una carencia o disminución, congénita o adquirida de alguna aptitud o capacidad funcional, de tipo sensorial, psicomotora o mental, de manera parcial o total que le impida o dificulte su desarrollo e integración al medio que le rodea, por un periodo de tiempo definido o indefinido y de manera transitoria o permanente;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
+
+I. Persona con discapacidad: Todo ser humano que presenta una deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad para ejercer normalmente una o más actividades de la vida diaria;
 
 II. Habilitación: Aplicación coordinada de un conjunto de acciones médicas, psicológicas, educativas y ocupacionales, por tiempo determinado, que permitan a las personas con discapacidad congénita desarrollar su máximo grado de funcionalidad, a fin de ser aptos para realizar, en la medida de sus posibilidades, actividades que los integren familiar y socialmente;
 
@@ -1817,21 +1837,57 @@ VI. El Consejo Estatal: El Consejo de Valoración de las Personas con Discapacid
 
 ### CAPITULO II. De los Derechos de las Personas con Discapacidad
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2007)</small>
 
 ###### Artículo 143.
 
-Sin perjuicio de lo que dispongan otras disposiciones legales aplicables, las personas con discapacidad tendrán derecho a:
+Sin perjuicio de lo que señalen otras disposiciones legales aplicables, las personas con discapacidad tendrán derecho a:
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
 
 I. La asistencia médica, elementos técnicos, habilitación, rehabilitación y programas que les permitan la superación de sus discapacidades;
 
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
+
 II. La educación en todas sus modalidades;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
 
 III. Un empleo digno y remunerado y tener oportunidades de desarrollo laboral, así como capacitación adecuada, de conformidad con su perfil, capacidades y aptitudes;
 
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
+
 IV. Las consideraciones especiales y preferencias en la utilización de los servicios públicos de transporte; tener acceso y libre desplazamiento en los lugares públicos, así como facilidades al personal, equipo, animales y cualquier otro instrumento de auxilio; y
 
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
+
 V. La recreación, el deporte, la cultura y el turismo.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 143 bis.- El Estado procurará las mejores condiciones de vida posible de salud, educación, nutrición, vivienda, desarrollo integral y seguridad social para las personas con discapacidad, así como proporcionarles información y asesoría tanto sobre las garantías consagradas en esta Ley como sobre los derechos establecidos en otras disposiciones a favor de las personas con discapacidad.
+
+A través de la Secretaría de Desarrollo Humano, la Secretaría de Educación, la Secretaría de Salud y la Secretaría del Trabajo, promoverá la difusión de esta Ley para que la sociedad y las familias respeten a las personas con discapacidad e invariablemente otorguen el reconocimiento a su dignidad.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 143 ter.- La familia de la persona con discapacidad deberá ser el principal apoyo afectivo y formativo para ella, siendo responsable en primera instancia de proporcionar los satisfactores necesarios para su atención y desarrollo.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 143 quáter.- Son principios rectores de la Política Pública Estatal para las personas con discapacidad los siguientes:
+
+I. Impulsar su realización plena en todas las áreas de su vida, propiciando las condiciones necesarias a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su autoestima y preservar su dignidad como ser humano;
+
+II. Garantizar el pleno ejercicio de sus derechos, la igualdad de oportunidades y una vida digna, promoviendo la defensa y representación de sus intereses;
+
+III. Establecer los mecanismos de acciones entre las instituciones públicas y privadas, así como elaborar los programas y servicios para la atención de sus necesidades;
+
+IV. Fomentar la solidaridad y la participación de toda la sociedad en la solución de toda la problemática de las personas con discapacidad;
+
+V. Propiciar su incorporación al trabajo remunerado y digno, tanto en el sector público como en el privado, de acuerdo a sus capacidades y aptitudes; y
+
+VI. Promover el acceso a los servicios de salud, habilitación y rehabilitación, así como su incorporación a la educación general o especial según se requiera.
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -1855,7 +1911,7 @@ La Comisión estará integrada por los siguientes miembros permanentes:
 
 I. Un coordinador general que será la persona que la Secretaría designe;
 
-II. Un secretario técnico que será designado por el coordinador general;
+II. (DEROGADA, P.O. 4 DE ENERO DE 2007)
 
 III. Un representante de las siguientes dependencias y organismos estatales:
 
@@ -1881,7 +1937,13 @@ IV. Un representante por cada una de las cinco organizaciones de personas con di
 
 La elección de las organizaciones de personas con discapacidad corresponde al Gobernador del Estado, en base al registro que posea el Instituto y procurando que estén representados los distintos grupos de personas con discapacidad.
 
-Además de los miembros permanentes, cuando la naturaleza de los asuntos a tratar se relacione con determinadas áreas, la Comisión podrá invitar a participar con voz a las demás dependencias, instituciones y organismos públicos, privados y sociales que se requieran.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Además de los miembros permanentes, la Comisión contará con un Secretario Técnico, el cual sólo participará con voz; y cuando la naturaleza de los asuntos a tratar se relacione con determinadas áreas, se podrá invitar a participar con voz a las demás dependencias, instituciones y organismos públicos, privados y sociales que se requieran, para efectos de que apoyen a los discapacitados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2007)</small>
+
+Los cargos de los integrantes de la Comisión serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -1909,11 +1971,33 @@ VIII. Celebrar convenios de colaboración con las instituciones de educación me
 
 IX. Impulsar estudios e investigaciones científicas y tecnológicas en materia de prevención y rehabilitación de las diversas discapacidades físicas, sensoriales y mentales;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
 
-X. Promover, gestionar y coordinar acciones ante las instituciones públicas o privadas, para la organización de cooperativas de producción, consumo, ahorro y préstamo, en beneficio de los discapacitados; y
+X. Promover, gestionar y coordinar acciones ante las instituciones públicas o privadas, para la organización de cooperativas de producción, consumo, ahorro y préstamo, en beneficio de los discapacitados;
 
-XI. Las demás que señalen este libro y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2007)</small>
+
+XI. Elaborar campañas de difusión y sensibilización de los derechos de las personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2007)</small>
+
+XII. Promover la obtención de recursos provenientes de fuentes alternas de financiamiento, para el cumplimiento de este Libro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2007)</small>
+
+XIII. Impulsar acuerdos de colaboración con organismos públicos y privados, nacionales e internacionales, para el desarrollo de proyectos que beneficien a las personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2007)</small>
+
+XIV. Proponer al ejecutivo estatal la celebración de convenios de colaboración con el gobierno federal, los municipios de la entidad y con los sectores público, social y privado, en materia de beneficios fiscales para las personas con discapacidad en los términos de esta ley; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE ENERO DE 2007)</small>
+
+XV. Las demás que señalen este libro y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 146 bis.- Las resoluciones o acuerdos de la Comisión se tomarán por mayoría de los miembros presentes, teniendo el Coordinador General voto de calidad en caso de empate.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -2163,9 +2247,9 @@ III. Tener en cuenta las características propias de la persona con discapacidad
 
 IV. Iniciar en el seno familiar, con la participación de los padres, tutores o responsables de la persona con discapacidad, comprendiendo las distintas fases del proceso habilitador y rehabilitador.
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE ENERO DE 2007)</small>
 
-#### Sección Cuarta. De la Educación General y Especial
+#### Sección Cuarta. De la Educación
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -2174,6 +2258,12 @@ IV. Iniciar en el seno familiar, con la participación de los padres, tutores o 
 Las personas con discapacidad tendrán acceso al Sistema Educativo Estatal en la forma que señalan las leyes en materia educativa.
 
 De acuerdo con el resultado del diagnóstico, las personas con discapacidad se integrarán al sistema educativo general ordinario recibiendo, en su caso, los programas de apoyo y recursos que el presente código y otras disposiciones legales aplicables señalen.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Su discapacidad no será causa de rechazo o exclusión de ninguna institución educativa en Jalisco, salvo que por circunstancias particulares les sea imposible incorporarse.
+
+El Gobierno del Estado a través de la Secretaría de Educación fomentará la creación y equipamiento de escuelas de educación especial que se requieran, proporcionando a las existentes material didáctico, equipo e infraestructura.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -2189,9 +2279,9 @@ II. Desarrollar las habilidades, capacidades, aptitudes y la adquisición de con
 
 III. Incorporar a la persona con discapacidad a la vida social y al sistema de trabajo que le permitan ser autosuficiente.
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE ENERO DE 2007)</small>
 
-#### Sección Quinta. De la Habilitación y Rehabilitación Laboral
+#### Sección Quinta. Del Empleo
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -2251,9 +2341,17 @@ VI. La asistencia técnica a las empresas que contraten personas con discapacida
 
 VII. La celebración de convenios en donde se otorguen incentivos fiscales y de otra índole a las personas físicas o jurídicas que contraten personas con discapacidad;
 
-VIII. La implementación de mecanismos de financiamiento y coinversión para la ejecución de proyectos productivos y sociales, a favor de las personas con discapacidad; y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
 
-IX. La promoción del establecimiento de centros de trabajo o talleres protegidos, cuya base laboral sea integrada básicamente por personas con discapacidad.
+VIII. La implementación de mecanismos de financiamiento y coinversión para la ejecución de proyectos productivos y sociales, a favor de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
+
+IX. La promoción del establecimiento de centros de trabajo o talleres protegidos, cuya base laboral sea integrada básicamente por personas con discapacidad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2007)</small>
+
+X. La contratación de un porcentaje que, por el tipo y grado de sus capacidades puedan ser incorporadas a la actividad laboral.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -2293,11 +2391,11 @@ En las bibliotecas públicas del Estado, existirá una área que permita a las p
 
 ### CAPITULO VI. De las Medidas y Facilidades Urbanísticas y Arquitectónicas
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
 
 ###### Artículo 174.
 
-Las construcciones o modificaciones de edificios e infraestructura urbana, deberán contemplar facilidades urbanísticas y arquitectónicas adecuadas a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
+Los Planes y Programas de Desarrollo Urbano deberán contemplar que las construcciones o modificaciones de edificios e infraestructura urbana y arquitectónica se adecuen a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -2314,6 +2412,14 @@ II. Contemplar en el programa que regule su desarrollo urbano, la adecuación de
 ###### Artículo 176.
 
 En los auditorios, cines, teatros, salas de concierto y de conferencias, centros recreativos, deportivos y en general cualquier recinto en que se presenten espectáculos públicos, los administradores u organizadores, deberán establecer preferencialmente espacios reservados para las personas con discapacidad, que no puedan ocupar las butacas o asientos ordinarios, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 176 bis.- Los reglamentos de autorización de proyectos para la construcción, adaptación o remodelación, así como la apertura de espacios destinados a prestar servicios al público, especialmente clínicas, hospitales, hoteles, restaurantes, oficinas públicas, bancos, terminales de pasajeros, plazas comerciales y tiendas de autoservicio, entre otros deberán contemplar se instalen, según corresponda a la magnitud y clase de proyectos, sanitarios, estacionamientos, elevadores, rampas y salidas de emergencia adaptados a las personas que se desplacen en silla de ruedas o cualquier otro elemento ortopédico.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 176 ter.- Las personas con discapacidad tienen derecho a una vivienda digna. Los programas de vivienda Estatales y Municipales incluirán proyectos arquitectónicos de construcciones que consideren las necesidades propias de las personas con discapacidad. De la misma manera, los organismos encargados de la promoción de la vivienda podrán otorgar facilidades a las personas con discapacidad para recibir créditos, o subsidios, en su caso, para la adquisición, construcción o remodelación de vivienda.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -2344,6 +2450,14 @@ La Secretaría de Vialidad y Transporte deberá:
 I. Impulsar el diseño e instrumentación permanente de programas y campañas de educación vial y cortesía urbana, encaminados a motivar los hábitos de respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable; y
 
 II. Procurar que existan unidades de servicio público de transporte urbano colectivo de pasajeros, con implementos y características para personas con discapacidad, de acuerdo a los estudios correspondientes, en consulta con las asociaciones de personas con discapacidad y de conformidad con los datos que arroje el padrón estatal de personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 179 bis.- El Ejecutivo del Estado a través de la Secretaría de Vialidad y Transporte, deberá impulsar el diseño e instrumentación permanente de programas y campañas de educación vial y cortesía urbana, encaminados a motivar los hábitos de respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable. El Ejecutivo del Estado deberá garantizar que existan unidades de servicio público de transporte urbano colectivo de pasajeros, con implementos y características para personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 179 ter.-Los municipios, al expedir la autorización a las empresas del ramo, para colocar teléfonos en la vía pública, vigilarán que no invadan el libre tránsito de las personas discapacitadas y que se instalen teléfonos públicos especiales que permitan su utilización para personas discapacitadas.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
 
@@ -3426,3 +3540,15 @@ P.O. 22 DE AGOSTO DE 2006.
 P.O. 28 DE DICIEMBRE DE 2006.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE ENERO DE 2007.
+
+DECRETO NUMERO 21688.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE ENERO DE 2007.
+
+DECRETO NUMERO 21690.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
