@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2006-09-14"
+last_updated: "2007-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -231,9 +231,115 @@ XI. La Presidencia levanta la sesión, citando para la siguiente sesión.
 
 1. El Congreso del Estado, a través de su Presidente debe rendir en sesión solemne el 31 de enero de cada año a la que se invite al Gobernador del Estado y al representante del Poder Judicial del Estado, un informe anual de actividades, el cual debe celebrarse de conformidad con lo que establezca el reglamento.
 
-### CAPÍTULO V. Clausura de la Legislatura
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2007)</small>
 
-### CAPÍTULO I. Obligaciones de los Diputados
+### CAPÍTULO V. De la Planeación Institucional del Poder Legislativo
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 A.
+
+En materia de planeación institucional del Poder Legislativo, le corresponde al Congreso del Estado:
+
+I. Elaborar, aprobar, ejecutar, supervisar, evaluar y rendir un informe del Plan General del Poder Legislativo, su actualización o modificación;
+
+II. Aprobar su Programa Operativo Anual para la conducción de acciones administrativas;
+
+III. Realizar acciones derivadas de sus facultades legales, coordinadas en el marco de los programas intersectoriales;
+
+IV. Evaluar una vez al año el cumplimiento de los objetivos y metas contenidos en el Plan General del Poder Legislativo y el Programa Operativo; y
+
+V. Las demás que establezcan las leyes y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 B.
+
+El Congreso del Estado precisará en el Plan General del Poder Legislativo, los objetivos generales, directrices, políticas, estrategias, líneas de acción y las bases para el mejoramiento de las funciones que le son encomendados por la ley, en condiciones de calidad.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 C.
+
+Las previsiones del Plan General del Poder Legislativo se referirán a las medidas necesarias para el mejoramiento de la actividad legislativa y de la administración del Congreso del Estado, las cuales deberán ser compatibles con la visión y disposiciones del Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 D.
+
+Cuando de los acuerdos tomados por el COPLADE, se derive la realización de acciones que requieran modificaciones legislativas, dichos acuerdos podrán ser tomados en consideración en el Programa Operativo Anual y la Agenda Legislativa, para su debida programación e inclusión en el proceso legislativo, en su caso.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 E.
+
+El Plan General del Poder Legislativo será actualizado o modificado en virtud de consideraciones justificativas del propio Congreso, pudiendo solicitar para tal efecto, la opinión del COPLADE y del Comité de Planeación del Poder Judicial, en cuyo caso sus lineamientos no podrán ser incompatibles con la visión establecida en el Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 F.
+
+El Congreso del Estado, a través del presidente de la Mesa Directiva, rendirá un informe anual del desarrollo del Plan General del Poder Legislativo, los Programas Operativos Anuales y la Agenda Legislativa.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 G.
+
+El informe anual del desarrollo del Plan General del Poder Legislativo deberá ser enviado al Titular del Poder Ejecutivo, por conducto del COPLADE, y al Comité de Planeación del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 H.
+
+El Comité de Planeación del Poder Legislativo estará integrada (sic) de la siguiente forma:
+
+I Los Diputados Integrantes de la Comisión de Planeación para el Desarrollo;
+
+II. Los Diputados Presidentes de las Comisiones de Puntos Constitucionales, Estudios Legislativos y Reglamentos; de Justicia; de Hacienda y Presupuestos; y de Administración; y
+
+III. El Diputado Presidente de la Mesa Directiva del Congreso;
+
+IV. El Diputado Presidente de la Junta de Coordinación Política; (sic)
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 I.
+
+Previo a la aprobación de la agenda legislativa, el Comité de Planeación del Poder Legislativo podrá recabar opinión del Poder Judicial del Estado, colegios y barras de abogados, universidades, colegio de notarios y demás organismos sociales y privados, respecto a su visión de las tareas legislativas que a su criterio requieran de atención prioritaria, o bien de mediano o largo plazo.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 J.
+
+El proceso de planeación en el Poder Legislativo será organizado y conducido por la Comisión de Planeación para el Desarrollo con el auxilio del Secretario General del Congreso.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 K.
+
+El Comité de Planeación del Poder Legislativo propondrá la incorporación de temas a la agenda legislativa provenientes de alguno de los agentes referidos en el artículo 19 I.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 L.
+
+Los proyectos que elabore el Comité de Planeación del Poder Legislativo deberán ser puestos a consideración del Pleno para su discusión y aprobación, en su caso.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+
+Artículo 19 M.
+
+En el proceso de planeación, el Congreso del Estado se sujetará a los siguientes términos:
+
+I. La elaboración del Plan General del Poder Legislativo, su actualización o modificación, se publicará dentro de los primeros siete meses de iniciada la legislatura;
+
+II. La Agenda Legislativa deberá publicarse dentro de los primeros dos meses de iniciada la legislatura; y
+
+III. Los programas operativos anuales serán aprobados a más tardar el día primero de noviembre de cada año.
+
+(REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 4 DE ENERO DE 2007)
+
+### CAPÍTULO VI. Clausura de la Legislatura
 
 ###### Artículo 20.
 
@@ -241,7 +347,7 @@ XI. La Presidencia levanta la sesión, citando para la siguiente sesión.
 
 ## TÍTULO TERCERO. DIPUTADOS
 
-### CAPÍTULO II. Derechos de los Diputados
+### CAPÍTULO I. Obligaciones de los Diputados
 
 ###### Artículo 21.
 
@@ -283,7 +389,7 @@ XIV. Las demás que le señalen las leyes y disposiciones reglamentarias aplicab
 
 2. El incumplimiento de cualquiera de estas obligaciones, constituye causal de responsabilidad, misma que es sancionada de conformidad con la legislación aplicable.
 
-### CAPÍTULO III. Suplencia de los Diputados
+### CAPÍTULO II. Derechos de los Diputados
 
 ###### Artículo 22.
 
@@ -317,7 +423,7 @@ XIII. Contar con el apoyo del Congreso del Estado en el caso de enfermedad o fal
 
 XIV. Los demás que les confieran la Constitución Política del Estado de Jalisco, las leyes y disposiciones reglamentarias aplicables.
 
-### CAPÍTULO IV. De las Fracciones o Grupos Parlamentarios
+### CAPÍTULO III. Suplencia de los Diputados
 
 ###### Artículo 23.
 
@@ -325,7 +431,7 @@ XIV. Los demás que les confieran la Constitución Política del Estado de Jalis
 
 2. En el caso de los diputados de representación proporcional, la suplencia se llevará a cabo de conformidad con lo dispuesto por la Ley Electoral.
 
-### CAPÍTULO I. Mesa Directiva
+### CAPÍTULO IV. De las Fracciones o Grupos Parlamentarios
 
 ###### Artículo 24.
 
@@ -371,7 +477,7 @@ I. Los grupos parlamentarios a través de sus coordinadores, deberán entregar a
 
 ## TÍTULO CUARTO. ÓRGANOS DE DIRECCIÓN
 
-### CAPÍTULO II. Junta de Coordinación Política
+### CAPÍTULO I. Mesa Directiva
 
 ###### Artículo 29.
 
@@ -487,7 +593,7 @@ VIII. Verificar y dar cuenta al presidente del sentido del voto de los diputados
 
 IX. Las demás que les confiere la presente Ley y su reglamento.
 
-### CAPÍTULO I. Secretaría General del Congreso del Estado
+### CAPÍTULO II. Junta de Coordinación Política
 
 ###### Artículo 38.
 
@@ -567,7 +673,7 @@ III. Asistir a las reuniones de la Junta.
 
 ## TÍTULO QUINTO. ORGANIZACIÓN ADMINISTRATIVA DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO II. Auditoria Superior del Estado
+### CAPÍTULO I. Secretaría General del Congreso del Estado
 
 ###### Artículo 46.
 
@@ -693,7 +799,7 @@ d) Dirección de Servicios Generales, responsable del mantenimiento de los biene
 
 3. La autonomía técnica que esta ley reconoce a los órganos técnicos auxiliares, deberá consistir en el ejercicio, bajo principios de independencia, imparcialidad profesional de sus integrantes de acuerdo a las facultades que establezcan las leyes, el Reglamento y los manuales de operación respectivos.
 
-### CAPÍTULO III. Órgano Técnico de Responsabilidades
+### CAPÍTULO II. Auditoria Superior del Estado
 
 ###### Artículo 52.
 
@@ -705,7 +811,7 @@ d) Dirección de Servicios Generales, responsable del mantenimiento de los biene
 
 1. La función fiscalizadora del Congreso del Estado, así como la organización, obligaciones y atribuciones de la Auditoria Superior del Estado, se establecen en las leyes y reglamentos respectivos.
 
-### CAPÍTULO IV. Órgano Técnico de Hacienda Pública
+### CAPÍTULO III. Órgano Técnico de Responsabilidades
 
 ###### Artículo 54.
 
@@ -757,7 +863,7 @@ VI. Recibir, revisar, resguardar y en su caso remitir a la Comisión de Responsa
 
 VII. Las demás que le correspondan de acuerdo con las leyes y reglamentos.
 
-### CAPÍTULO V. Instituto de Investigación y Estudios Legislativos
+### CAPÍTULO IV. Órgano Técnico de Hacienda Pública
 
 ###### Artículo 56.
 
@@ -795,7 +901,7 @@ V. Instrumentar prospectivas y analizar el efecto económico de la legislación 
 
 VI. Las demás que señalen las leyes y reglamentos de la materia.
 
-### CAPÍTULO VI. De las Propuestas de los Órganos Auxiliares
+### CAPÍTULO V. Instituto de Investigación y Estudios Legislativos
 
 ###### Artículo 59.
 
@@ -855,6 +961,8 @@ VI. Rendir un informe mensual al Comité de Proceso Legislativo para los efectos
 
 VII. Las demás que señale esta Ley y las disposiciones reglamentarias.
 
+### CAPÍTULO VI. De las Propuestas de los Órganos Auxiliares
+
 ### CAPÍTULO I. Comisiones Legislativas
 
 ### CAPÍTULO II. Procedimiento En Comisiones Legislativas
@@ -869,15 +977,13 @@ VII. Las demás que señale esta Ley y las disposiciones reglamentarias.
 
 ### CAPÍTULO I. Disposiciones Preliminares
 
-### CAPÍTULO II. Iniciativas
-
 ###### Artículo 63.
 
 1. Las propuestas que emitan los órganos técnicos auxiliares del Congreso del Estado deberán ser remitidas a la Comisión Legislativa o Comité correspondiente para que esta a su vez los examine y acuerde la presentación del dictamen correspondiente, ante la Asamblea.
 
 ## TÍTULO SEXTO. COMISIONES LEGISLATIVAS Y COMITÉS
 
-### CAPÍTULO III. Dictámenes
+### CAPÍTULO II. Iniciativas
 
 ###### Artículo 64.
 
@@ -1453,7 +1559,7 @@ V. La construcción y funcionamiento de las vías de comunicación estatales; y
 
 VI. Las políticas, planes y programas para la difusión y fortalecimiento de la cultura y educación vial.
 
-### CAPÍTULO IV. Lecturas de dictámenes
+### CAPÍTULO III. Dictámenes
 
 ###### Artículo 104.
 
@@ -1565,7 +1671,7 @@ La mayoría de los vocales de una comisión pueden convocar a sesión con las fo
 
 1. Los presidentes de las comisiones deben informar al Comité de Proceso Legislativo, de las ausencias de los diputados a las reuniones de trabajo, siempre que las faltas sean injustificadas.
 
-### CAPÍTULO V. Discusiones
+### CAPÍTULO IV. Lecturas de dictámenes
 
 ###### Artículo 117.
 
@@ -1655,7 +1761,7 @@ IV. Los planes, programas y convenios con otros Congresos y cuerpos parlamentari
 
 ## TÍTULO SÉPTIMO. SESIONES
 
-### CAPÍTULO VI. Mociones
+### CAPÍTULO V. Discusiones
 
 ###### Artículo 125.
 
@@ -1745,7 +1851,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 1. Las sesiones del Congreso del Estado son públicas, por regla general, salvo aquellas que por causas justificadas y previo acuerdo de la Asamblea, se celebren de forma reservada, es decir, sin permitir el acceso al público, ni a los servidores públicos del Congreso del Estado, a excepción del Secretario General y del personal administrativo que éste último autorice.
 
-### CAPÍTULO VII. Votaciones
+### CAPÍTULO VI. Mociones
 
 ###### Artículo 134.
 
@@ -1777,7 +1883,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 2. De igual forma, siempre se destina un lugar especial en el Recinto, a los magistrados del Poder Judicial, a los consejeros de la Comisión Estatal de Derechos Humanos y del Consejo Electoral del Estado, a los secretarios de despacho, a los titulares de los organismos públicos descentralizados, a los representantes de los ayuntamientos de la entidad, los representantes militares y a los integrantes de los cuerpos diplomático y consular.
 
-### CAPÍTULO VIII. Minutas
+### CAPÍTULO VII. Votaciones
 
 ###### Artículo 140.
 
@@ -1803,7 +1909,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 ## TÍTULO OCTAVO. PROCEDIMIENTO LEGISLATIVO ORDINARIO
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VIII. Minutas
 
 ###### Artículo 145.
 
@@ -1815,7 +1921,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 1. Las decisiones del Congreso del Estado que, para su validez y eficacia plenas requieren ser sancionadas, promulgadas y publicadas por el Ejecutivo, no generan obligación o derecho alguno en tanto no se efectúen tales condiciones, salvo lo establecido por el último párrafo del artículo 33 de la Constitución Política del Estado.
 
-### CAPÍTULO II. Procedimiento en Caso de Observaciones Formuladas por el Gobernador del Estado
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 147.
 
@@ -1911,7 +2017,7 @@ III. Disposiciones transitorias.
 
 2. Las leyes y decretos deben ser publicados por el Gobernador del Estado en el Periódico Oficial "El Estado de Jalisco", en los plazos que señala la ley.
 
-### CAPÍTULO III. Expedición del Bando Solemne que declara Gobernador Electo
+### CAPÍTULO II. Procedimiento en Caso de Observaciones Formuladas por el Gobernador del Estado
 
 ###### Artículo 157.
 
@@ -1951,7 +2057,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 3. En el caso de que se rechace un dictamen y no se solicite que regrese a comisión o que siendo solicitado no sea aprobado por la Asamblea, se tiene por desechada la iniciativa.
 
-### CAPÍTULO IV. Designación de Gobernador Interino o Sustituto
+### CAPÍTULO III. Expedición del Bando Solemne que declara Gobernador Electo
 
 ###### Artículo 161.
 
@@ -1987,7 +2093,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 4. Aprobada la moción, el dictamen se presenta a la Asamblea y se procede a su discusión y a su votación.
 
-### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
+### CAPÍTULO IV. Designación de Gobernador Interino o Sustituto
 
 ###### Artículo 166.
 
@@ -2123,7 +2229,7 @@ III. Por desórdenes en el Recinto Oficial.
 
 1. Lo preceptuado por este capítulo, se aplica en lo conducente a las demás discusiones que se presenten durante el desarrollo de las sesiones.
 
-### CAPÍTULO VI. Glosa del Informe
+### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
 
 ###### Artículo 187.
 
@@ -2167,7 +2273,7 @@ XI. Las demás que se señalen en esta ley y su reglamento.
 
 1. La moción de orden, en el supuesto de que algún diputado esté en el uso de la voz, se regula de conformidad con lo establecido en la presente ley.
 
-### CAPÍTULO VII. Substanciación Del Trámite Para La Desintegración De Ayuntamientos Y Suspensión O Revocación Del Mandato A Alguno De Sus Miembros
+### CAPÍTULO VI. Glosa del Informe
 
 ###### Artículo 191.
 
@@ -2251,7 +2357,7 @@ I. Empieza por el Secretario situado a la derecha del Presidente y sigue en el s
 
 6. Para los casos de los párrafos 2, 3 y 4 del presente artículo, se entiende que es cuando menos la cantidad señalada.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. Substanciación Del Trámite Para La Desintegración De Ayuntamientos Y Suspensión O Revocación Del Mandato A Alguno De Sus Miembros
 
 ###### Artículo 204.
 
@@ -2314,6 +2420,8 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 3. La clave utilizada una vez para identificar una minuta no podrá volverse a imponer a otra, no obstante que se trate de alguna que hubiere sido anulada.
 
 ## TÍTULO NOVENO. PROCEDIMIENTOS ESPECIALES
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 210.
 
@@ -2672,3 +2780,9 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007
 SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
 
 TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE ENERO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El reglamento de la Ley de Planeación para el Estado de Jalisco y sus Municipios deberá normar la periodicidad y formalidades para el funcionamiento del COPLADE en pleno y los Subcomités.
