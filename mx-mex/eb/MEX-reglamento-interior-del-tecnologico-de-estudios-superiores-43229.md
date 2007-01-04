@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-4322
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-11"
-last_updated: "2005-01-11"
+last_updated: "2007-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE CHALCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ENERO DE 2007.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 11 de enero de 2005.
 
@@ -123,9 +123,19 @@ III. Subdirección de Servicios Administrativos;
 
 IV. División de Ingeniería Electromecánica;
 
-V. División de Ingeniería Industrial; y
+V. División de Ingeniería Industrial; y (sic)
 
-VI. División de Ingeniería en Sistemas Computacionales.
+> <small>(REFORMADA, G.G. 4 DE ENERO DE 2007)</small>
+
+VI. División de Ingeniería en Sistemas Computacionales;
+
+> <small>(ADICIONADA, G.G. 4 DE ENERO DE 2007)</small>
+
+VII. División de Ingeniería Electrónica;
+
+> <small>(ADICIONADA, G.G. 4 DE ENERO DE 2007)</small>
+
+VIII. Contraloría Interna.
 
 El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su manual general de organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto de egresos autorizado.
 
@@ -167,19 +177,25 @@ XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aque
 
 XIV. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende su superior inmediato.
 
-### CAPITULO V. DE LAS SUBDIRECCIONES Y DIVISIONES
+> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE ENERO DE 2007)</small>
+
+### CAPITULO V. DE LAS SUBDIRECCIONES, DIVISIONES Y CONTRALORIA INTERNA
+
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2007)</small>
 
 ###### Artículo 14.
 
-A la Subdirección Académica le corresponde dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las divisiones del Tecnológico, coordinar los servicios de control escolar y del centro de cómputo, y promover el desarrollo académico del Organismo.
+A la Subdirección Académica le corresponde dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las Divisiones del Tecnológico, así como coordinar los servicios de control escolar y promover el desarrollo académico del Organismo.
 
-Quedan adscritas a la Subdirección Académica:
+Quedan adscritas a la Subdirección Académica, las Divisiones siguientes:
 
 I. División de Ingeniería Electromecánica.
 
-II. División de Ingeniería Industrial, y
+II. División de Ingeniería Industrial.
 
-III. División de Ingeniería en Sistemas Computacionales e Ingeniería Electrónica.
+III. División de Ingeniería en Sistemas Computacionales.
+
+IV. División de Ingeniería Electrónica.
 
 ###### Artículo 15.
 
@@ -197,11 +213,13 @@ V. Integrar y, en su caso, presidir los órganos colegiados académicos previsto
 
 VI. Orientar el proceso de selección de alumnos de nuevo ingreso al Tecnológico, con el apoyo de las unidades administrativas correspondientes;
 
-VII. Dirigir y vigilar el cumplimiento de las funciones del Tecnológico relativas al control escolar e informática;
+> <small>(REFORMADA, G.G. 4 DE ENERO DE 2007)</small>
 
-VIII. Promover, con la participación de las cernas unidades administrativas del Tecnológico, la aplicación de sistemas informáticos que permitan eficientar el desempeñe de las actividades del. Organismo;
+VII. Dirigir y vigilar el cumplimiento de las funciones del Tecnológico relativas al control escolar;
 
-IX. Proponer al Director programas para operar, controlar y vigilar el uso adecuado de los Sistemas y equipos informáticos; y
+VIII. (DEROGADA, G.G. 4 DE ENERO DE 2007)
+
+IX. (DEROGADA, G.G. 4 DE ENERO DE 2007)
 
 X. Las demás que le confieran otras disposiciones aplicables y aquellas que le encomiende el Director.
 
@@ -267,13 +285,25 @@ VIII. Coordinar y, en su caso, ejecutar los procedimientos de adquisición y arr
 
 IX. Suscribir los contratos y convenios derivados de los procesos adquisitivos de bienes, servicios, obra pública y servicios relacionados con la misma, con base en la normatividad aplicable, previo acuerdo con el Director;
 
-X. Supervisar el registro, mantenimiento y conservación de los bienes muebles e inmuebles asignados a las unidades administrativas del Tecnológico; y
+X. Supervisar el registro, mantenimiento y conservación de los bienes muebles e inmuebles asignados a las unidades administrativas del Tecnológico; y (sic)
 
-XI. Las demás que le confieran otras disposiciones aplicables y aquellas que le encomiende el Director.
+> <small>(REFORMADA, G.G. 4 DE ENERO DE 2007)</small>
+
+XI. Proponer al Director programas para operar, controlar y vigilar el uso adecuado de los sistemas y equipos informáticos del Tecnológico;}
+
+> <small>(ADICIONADA, G.G. 4 DE ENERO DE 2007)</small>
+
+XII. Promover, con la participación de las demás unidades administrativas del Tecnológico, la aplicación de sistemas informáticos que permitan eficientar el desempeño de las actividades del Organismo;
+
+> <small>(ADICIONADA, G.G. 4 DE ENERO DE 2007)</small>
+
+XIII. Las demás que le confieran otras disposiciones aplicables y aquellas que le encomiende el Director.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE ENERO DE 2007)</small>
 
 ###### Artículo 19.
 
-Corresponde a las Divisiones de Ingeniería Electromecánica, de Ingeniería Industrial y de Ingeniería en Sistemas Computacionales e Ingeniería Electrónica, en el ámbito de su competencia:
+Corresponde a las Divisiones, en el ámbito de su competencia:
 
 I. Coordinar y difundir los planes y programas académicos y de investigación de la carrera a su cargo.
 
@@ -309,6 +339,44 @@ XVI. Promover y vigilar la conservación y el funcionamiento de los talleres lab
 
 XVII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Subdirector Académico y el Director.
 
+> <small>(ADICIONADO, G.G. 4 DE ENERO DE 2007)</small>
+
+###### Artículo 19 Bis.
+
+Corresponde a la Contraloría Interna:
+
+I. Vigilar, en el ámbito de su competencia, el cumplimiento de los programas de las unidades administrativas del Tecnológico e informar al Director de los resultados obtenidos.
+
+II. Realizar supervisiones, revisiones, auditorías y evaluaciones administrativas, financieras, contables, operacionales, técnicas y jurídicas a las unidades administrativas del Tecnológico, tendientes a verificar su desempeño institucional y el cumplimiento de las normas y disposiciones que regulan la prestación del servicio encomendado, así como las relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, programas de inversión, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos asignados al Organismo, y dar seguimiento a la atención de las observaciones derivadas de tales acciones.
+
+III. Participar en los actos de entrega y recepción de las unidades administrativas del Tecnológico, verificando su apego a la normatividad en la materia.
+
+IV. Vigilar el adecuado ejercicio del presupuesto autorizado al Tecnológico, de acuerdo con el avance programático y las disposiciones de racionalidad, austeridad y disciplina presupuestaria.
+
+V. Supervisar el cumplimiento de los lineamientos que emita la Secretaría de la Contraloría para la ejecución, preparación y entrega de los dictámenes e informes por parte de los despachos de auditoría externa asignados al Tecnológico.
+
+VI. Recibir, tramitar y dar seguimiento a las quejas y denuncias que se interpongan en contra de los servidores públicos del Tecnológico, por probable responsabilidad administrativa.
+
+VII. Iniciar, tramitar y resolver los procedimientos administrativos disciplinarios y resarcitorios e imponer, en su caso, las sanciones que correspondan en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+VIII. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno y tramitarlos ante la Secretaría de la Contraloría para su instrucción y resolución.
+
+IX. Ordenar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos del Tecnológico.
+
+X. Promover la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos adscritos al Tecnológico, sujetos a esta obligación.
+
+XI. Proponer al Director la implementación de normas complementarias en materia de control.
+
+XII. Elaborar e informar periódicamente a la Secretaría de la Contraloría, así como al Director, los diagnósticos sobre el desempeño del Tecnológico, con base en los actos de control y evaluación realizados.
+
+XIII. Difundir entre el personal del Tecnológico las disposiciones en materia de control que incidan en el desarrollo de sus labores.
+
+XIV. Promover acciones de control preventivo y de autocontrol tendientes a modernizar la gestión de las unidades administrativas del Tecnológico.
+
+XV. Evaluar las acciones de modernización administrativa que realice el Tecnológico y, en su caso, proponer mejoras que contribuyan a su cumplimiento.
+
+XVI. Las demás que le confieren otras disposiciones legales y las que le encomiende el Secretario de la Contraloría.
+
 ### CAPITULO VI. DEL CONSEJO CONSULTIVO ACADEMICO
 
 ###### Artículo 20.
@@ -335,7 +403,9 @@ El cargo de miembro del Consejo Consultivo Académico será honorífico.
 
 Corresponde al Consejo Consultivo Académico las funciones siguientes:
 
-I. Dictaminar los programas y proyectos académicos presentados a la Junta Directiva y los que ésta le proponga, sometiéndolos a la consideración de la Secretaría de Educación, Cultura y Bienestar Social, a través del Director.
+> <small>(REFORMADA, G.G. 4 DE ENERO DE 2007)</small>
+
+I. Dictaminar los programas y proyectos académicos presentados a la Junta Directiva y los que ésta le proponga, sometiéndolos a la consideración de la Secretaría de Educación, a través del Director.
 
 II. Supervisar que el Tecnológico cumpla con los planes y programas de estudio aprobados por las autoridades educativas;
 
@@ -382,3 +452,15 @@ ING. ROGELIO GARCIA GARCIA
 DIRECTOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE CHALCO Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 4 DE ENERO DE 2007.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Los asuntos que se encuentren en trámite en la División de Ingeniería en Sistemas Computacionales e Ingeniería Electrónica, en la fecha de entrada en vigor del presente Acuerdo, serán atendidos por la División de Ingeniería en Sistemas Computacionales y por la División de Ingeniería Electrónica, de acuerdo con las atribuciones que les son conferidas en este ordenamiento jurídico.
+
+CUARTO.-Se derogan las disposiciones de igualo menor jerarquía que sean contrarias al presente Acuerdo.
