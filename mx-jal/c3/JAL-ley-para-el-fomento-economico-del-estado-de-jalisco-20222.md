@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-fomento-economico-del-estado-de-jalisco-20222"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-17"
-last_updated: "2004-12-25"
+last_updated: "2007-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL FOMENTO ECONOMICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2007.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Jalisco, el sábado 17 de febrero del 2001.
 
@@ -839,9 +839,13 @@ VIII. Organizar seminarios, cursos, conferencias y otros actos de difusión y ca
 
 IX. Realizar los estudios especiales que se encomienden;
 
-X. Proporcionar información a los particulares que lo soliciten, previo pago de las cuotas correspondientes; y
+X. Proporcionar información a los particulares que lo soliciten, previo pago de las cuotas correspondientes; y (sic)
 
-XI. Las demás que determine este ley y su reglamento.
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2007)</small>
+
+XI. Ser la entidad encargada de concentrar, sistematizar y ministrar la información generada por el propio SEIJAL, el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Estatal de Población y las Instituciones de educación superior y de investigación, así como cualquier tipo de información que se considere necesaria, para ser otorgada al titular del Ejecutivo en los términos de la Ley de Planeación para el Estado de Jalisco y sus Municipios; y
+
+XII. Las demás que determine esta ley y su reglamento.
 
 ###### Artículo 43.
 
@@ -1250,3 +1254,9 @@ Tercero.- Los procedimientos administrativos de verificación e inspección que 
 Cuarto.- El Reglamento de la Ley para el Fomento Económico de Jalisco deberá expedirse en un plazo de noventa días a partir de la entrada en vigor del presente Decreto.
 
 Quinto.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 4 DE ENERO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El reglamento de la Ley de Planeación para el Estado de Jalisco y sus Municipios deberá normar la periodicidad y formalidades para el funcionamiento del COPLADE en pleno y los Subcomités.
