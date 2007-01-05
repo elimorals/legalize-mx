@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2004-12-25"
+last_updated: "2007-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -711,7 +711,13 @@ En las dependencias y organismos de la administración pública estatal, así co
 
 En el ámbito de sus atribuciones, las autoridades señaladas en el artículo 3º de esta ley estarán facultadas para establecer las normas y procedimientos para los efectos de que las instancias públicas sean atendidas y resueltas de manera pronta y expedita; quedando obligadas a turnar a la autoridad correspondiente aquellas que no sean de su competencia, orientando al particular la instancia y el seguimiento que corresponda.
 
-No se dará trámite a denuncias anónimas.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
+
+###### Artículo 62 Bis.
+
+El denunciante puede coadyuvar con la autoridad que practique la auditoria, aportándole las pruebas e información que estime pertinentes. Dichas dependencias deben manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
 
 ###### Artículo 63.
 
@@ -821,7 +827,11 @@ I. Conocida una irregularidad por la autoridad competente, le solicitará inform
 
 La autoridad competente notificará además, a la dependencia o entidad pública en la que el acusado preste sus servicios;
 
-II. Transcurrido el término mencionado en la fracción que antecede y dentro de los quince días siguientes, se señalará día y hora para la celebración de una audiencia, en la que se desahogarán las pruebas ofrecidas y se expresarán los alegatos, citándose al denunciante, a la autoridad que hubiere practicado la auditoría, a la dependencia o entidad pública en que el presunto responsable preste sus servicios y al servidor público denunciado. El orden de la audiencia será el siguiente:
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II, PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+
+II. TRANSCURRIDO EL TÉRMINO MENCIONADO EN LA FRACCIÓN QUE ANTECEDE SE CORRERÁ TRASLADO INMEDIATAMENTE AL DENUNCIANTE DEL INFORME RENDIDO POR EL SERVIDOR PÚBLICO ASÍ CONO DE LAS PRUEBAS OFERTADAS, PARA QUE DENTRO DE LOS QUINCE DÍAS SIGUIENTES SE SEÑALE DÍA Y HORA PARA LA CELEBRACIÓN DE UNA AUDIENCIA, EN LA QUE SE DESAHOGARÁN LAS PRUEBAS OFRECIDAS Y SE EXPRESARÁN LOS ALEGATOS, CITÁNDOSE AL DENUNCIANTE, A LA AUTORIDAD QUE HUBIERE PRACTICADO LA AUDITORIA, A LA DEPENDENCIA O ENTIDAD PÚBLICA EN QUE EL PRESUNTO RESPONSABLE PRESTE SUS SERVICIOS Y AL SERVIDOR PÚBLICO DENUNCIADO. EL ORDEN DE LA AUDIENCIA SERÁ EL SIGUIENTE:
 
 a) Se dará cuenta con el acuerdo en el que se establece la incoación del procedimiento administrativo.
 
@@ -829,7 +839,11 @@ b) Se dará lectura al informe que haya presentado el servidor público denuncia
 
 c) Se recibirán las pruebas en el orden en que se hayan ofrecido.
 
-d) Las partes expresarán alegatos los cuales podrán ser formulados en forma verbal o por escrito. El concluir, se declarará por visto el asunto y se turnará para su resolución.
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II, INCISO D) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+D) LAS PARTES EXPRESARÁN ALEGATOS LOS CUALES PODRÁN SER FORMULADOS EN FORMA VERBAL O POR ESCRITO. AL CONCLUIR, SE DECLARARÁ POR VISTO EL ASUNTO Y SE TURNARÁ PARA SU RESOLUCIÓN.
 
 III. La audiencia a que se refiere la fracción anterior podrá ser suspendida o prorrogada en los siguientes casos:
 
@@ -841,11 +855,23 @@ c) Por contradicción de dictámenes periciales, encontrándose la necesidad de 
 
 d) Por la ausencia del servidor público denunciado, de peritos o testigos, siempre que esté motivada por alguna causa justificada.
 
-Si de la denuncia se desprende que no existen elementos suficientes para resolver o se descubre que existen algunos que impliquen nueva responsabilidad del servidor público denunciado o de otras personas, para mejor proveer, se podrá disponer la práctica de nuevas diligencias y citar para otra u otras audiencias, así como incoar nuevos procedimientos de responsabilidad administrativa en contra de los servidores públicos involucrados;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III, PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-IV. Desahogadas las pruebas y expresados los alegatos, se resolverá dentro de los treinta días naturales siguientes, sobre la existencia o inexistencia de responsabilidad, imponiendo al infractor, en su caso, las sanciones administrativas correspondientes. La resolución deberá notificarse al servidor público procesado, al superior jerárquico y al órgano encargado del registro de sanciones disciplinarias, dentro de las setenta y dos horas siguientes al momento en que se pronuncie la resolución;
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
-V. De todas las diligencias que se practiquen, se levantarán actas circunstanciadas que deberán firmar quienes en ella intervengan. En caso de negativa, se asentará tal circunstancia, sin que esto afecte su valor probatorio.
+SI DE LA DENUNCIA SE DESPRENDE QUE NO EXISTEN ELEMENTOS SUFICIENTES PARA RESOLVER O SE DESCUBRE QUE EXISTEN ALGUNOS QUE IMPLIQUEN NUEVA RESPONSABILIDAD DEL SERVIDOR PÚBLICO DENUNCIADO O DE OTRAS PERSONAS, PARA MEJOR PROVEER, SE PODRÁ DISPONER LA PRÁCTICA DE NUEVAS DILIGENCIAS Y CITAR PARA OTRA U OTRAS AUDIENCIAS, ASÍ COMO INCOAR NUEVOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA EN CONTRA DE LOS SERVIDORES PÚBLICOS INVOLUCRADOS, DE CUYAS CIRCUNSTANCIAS SE NOTIFICARÁ OPORTUNAMENTE AL DENUNCIANTE A EFECTO DE QUE ÉSTE EMITA LAS OBSERVACIONES QUE JUZGUE CONVENIENTE.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+IV. DESAHOGADAS LAS PRUEBAS Y EXPRESADOS LOS ALEGATOS, SE RESOLVERÁ DENTRO DE LOS TREINTA DÍAS NATURALES SIGUIENTES, SOBRE LA EXISTENCIA O INEXISTENCIA DE RESPONSABILIDAD, IMPONIENDO AL INFRACTOR, EN SU CASO, LAS SANCIONES ADMINISTRATIVAS CORRESPONDIENTES. LA RESOLUCIÓN DEBERÁ NOTIFICARSE DE FORMA PERSONAL AL SERVIDOR PÚBLICO PROCESADO, AL SUPERIOR JERÁRQUICO, AL ÓRGANO ENCARGADO DEL REGISTRO DE SANCIONES DISCIPLINARIAS Y AL DENUNCIANTE, DENTRO DE LAS SETENTA Y DOS HORAS SIGUIENTES AL MOMENTO EN QUE SE PRONUNCIE LA RESOLUCIÓN;
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+V. DE TODAS LAS DILIGENCIAS QUE SE PRACTIQUEN, ASÍ COMO DE SUS RESULTADOS SE INFORMARÁ CON OPORTUNIDAD AL DENUNCIANTE A EFECTO DE QUE ÉSTE EMITA LAS OBSERVACIONES QUE JUZGUE CONVENIENTES, SE LEVANTARÁN ACTAS CIRCUNSTANCIADAS QUE DEBERÁN FIRMAR QUIENES EN ELLA INTERVENGAN. EN CASO DE NEGATIVA, SE ASENTARÁ TAL CIRCUNSTANCIA, SIN QUE ESTO AFECTE SU VALOR PROBATORIO; Y
 
 VI. Si el servidor público reconociera su responsabilidad en la audiencia, son aplicables las siguientes disposiciones:
 
@@ -853,7 +879,11 @@ a) Se procederá de inmediato a dictar resolución.
 
 b) Se impondrá al infractor dos tercios de la sanción aplicable si fuere de naturaleza económica, pero, en todo caso, deberá ser suficiente para cubrir la indemnización por daños causados.
 
-c) De conformidad con la gravedad de la falta, la autoridad que resuelve podrá abstenerse de sancionar al infractor por una sola vez, siempre que se trate de hechos que no constituyan delito, lo ameriten los antecedentes y circunstancias particulares del infractor y el daño causado no exceda de cien veces el salario mínimo vigente en la zona económica correspondiente y, en su caso, sea reparado el daño.
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI, INCISO C) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+C) DE CONFORMIDAD CON LA GRAVEDAD DE LA FALTA, LA AUTORIDAD QUE RESUELVE PODRÁ ABSTENERSE DE SANCIONAR AL INFRACTOR POR UNA SOLA VEZ, SIEMPRE QUE SE TRATE DE HECHOS QUE NO CONSTITUYAN DELITO, LO AMERITEN LOS ANTECEDENTES Y CIRCUNSTANCIAS PARTICULARES DEL INFRACTOR Y EL DAÑO CAUSADO NO EXCEDA DE CINCUENTA VECES EL SALARIO MÍNIMO VIGENTE EN LA ZONA ECONÓMICA CORRESPONDIENTE Y, EN SU CASO, SEA REPARADO EL DAÑO.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2004)</small>
 
@@ -910,6 +940,16 @@ Las resoluciones por las que se impongan las sanciones administrativas previstas
 La interposición del recurso suspenderá, en tanto se resuelve, los efectos de la resolución en cuanto a las sanciones económicas. Tratándose de sanciones de distinta naturaleza a las económicas, sólo procederá la suspensión si no trae como consecuencia la consumación de actos que perjudiquen al interés social o al servicio público.
 
 La ejecución de las sanciones administrativas impuestas en resolución firme se llevará a cabo de inmediato en los términos que establezca la resolución, surtirán sus efectos al notificarse la misma y se considerarán de orden público.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
+
+###### Artículo 76 Bis.
+
+La resolución que declare el no inicio del procedimiento, puede ser impugnada por el denunciante a través del Recurso de Revisión, que deberá presentar dentro de los quince días hábiles siguientes a la fecha en que le sea notificada la resolución, en escrito que contenga expresión de agravios, acompañado con copia de la notificación.
+
+El recurso de revisión se interpondrá directamente ante la autoridad que emitió la resolución impugnada, quien en su caso, acordará su admisión turnando la instancia al superior jerárquico para su resolución definitiva, dentro de los 30 días siguientes a aquel en que le fue turnado el recurso.
 
 ###### Artículo 77.
 
@@ -1188,3 +1228,13 @@ P.O. 9 DE DICIEMBRE DE 2004.
 P.O. 25 DE DICIEMBRE DE 2004.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE ENERO DE 2007.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL TRANSITORIO PRIMERO INDICADO CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+primero. el presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "el estado de jalisco".
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL TRANSITORIO SEGUNDO INDICADO CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+segundo. se derogan todas las disposiciones legales que se opongan al presente decreto.
