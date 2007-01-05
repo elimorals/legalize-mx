@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "2005-05-10"
+last_updated: "2007-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -573,19 +573,21 @@ La elección del Gobernador será directa, en la forma que dispone esta ley, su 
 
 Los ayuntamientos de cada municipio del Estado se integrarán por un Presidente Municipal, un Síndico y el número de regidores de mayoría relativa y de representación proporcional que se señalan en el presente capítulo. Para los efectos de esta ley, se entenderá que todos los integrantes del ayuntamiento tienen el carácter de regidores, munícipes o ediles.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
-Los partidos políticos deberán registrar una planilla de candidatos ordenada en forma progresiva, que contenga el número de regidores propietarios a elegir por el principio de mayoría relativa, iniciando con el Presidente, Regidores y terminando con el Síndico; con sus respectivos suplentes. La integración de los suplentes en las planillas que presenten los partidos se integrarán con el mismo número de candidatos de un mismo sexo que señala el artículo 42 de esta Ley.
+Los partidos políticos deberán registrar una planilla de candidatos ordenada en forma progresiva, que contenga el número de regidores propietarios a elegir por el principio de mayoría relativa, iniciando con el Presidente, Regidores y terminando con el Síndico; con sus respectivos suplentes. La integración de los suplentes en las planillas que presenten los partidos se integrarán con el mismo número de candidatos de un mismo sexo que señala el artículo 42 de esta Ley. El suplente del Presidente Municipal se considera como un regidor más, para los efectos de la suplencia que establece esta ley.
 
 Los regidores integrantes de los ayuntamientos, con independencia del principio de votación por el que fueron electos, tendrán los mismos derechos y obligaciones.
 
 Las comisiones municipales electorales, al aplicar la fórmula electoral que se define en este ordenamiento, asignarán a los partidos políticos el número de regidores por el principio de representación proporcional que les corresponda de acuerdo con la votación obtenida, de la planilla registrada ante el propio organismo electoral, en el orden de prelación establecido.
 
-Para suplir a los regidores de mayoría relativa se mandará llamar a su respectivo suplente. En el supuesto de que el suplente que sea llamado no comparezca, se llamará al siguiente suplente de la planilla registrada, de conformidad al orden de prelación establecido.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+Para suplir al síndico, así como a los regidores de mayoría relativa se mandará llamar a su respectivo suplente. En el supuesto de que el suplente que sea llamado no comparezca, se llamará al siguiente suplente de la planilla registrada, de conformidad al orden de prelación establecido.
 
-En caso de ausencia definitiva del Presidente Municipal, se estará a lo que disponga la ley que establezca las bases generales de la administración pública municipal.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+En cualquier caso de ausencia definitiva del Presidente Municipal, se estará a lo que disponga la ley que establece las bases generales de la administración pública municipal.
 
 Para suplir a los regidores de representación proporcional, será llamado el ciudadano que, de acuerdo a la planilla registrada por el partido, fuera el siguiente en el orden de prelación establecido, considerándose para tal orden, en primer lugar, a la lista de regidores propietarios y en segundo, a la lista de regidores suplentes, siempre que reúnan los requisitos de elegibilidad que contemplen la Constitución Política del Estado de Jalisco y esta ley.
 
@@ -5954,3 +5956,9 @@ CUARTO. El Instituto Electoral deberá formar una comisión especial encargada d
 QUINTO. EL Instituto Electoral deberá implementar una prueba piloto de votación electrónica en una muestra a nivel estatal para el proceso electoral de 2006.
 
 SEXTO. El Instituto deberá informar semestralmente al Congreso del Estado sobre los avances del proyecto de votación electrónica, a partir de la constitución de la comisión especial y hasta que se envíe un informe final sobre el resultado operativo a implementarse en el proceso de 2006, con el objeto de que se cuente con los elementos necesarios para valorar su aplicación en el proceso electoral de 2009.
+
+P.O. 5 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
