@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3094
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-08"
-last_updated: "2006-05-29"
+last_updated: "2007-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30942&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-24"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE ENERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de mayo de 2003.
 
@@ -800,19 +800,29 @@ El personal que preste sus servicios al Instituto, se regirá por las disposicio
 
 Todos los servidores públicos que integran la planta del Instituto, son trabajadores de confianza debido a la naturaleza de las funciones que éste desempeña.
 
-> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE ENERO DE 2007)</small>
 
-###### Articulo 58.
+###### Artículo 58.
 
-El Instituto se integrará por cinco representantes de la sociedad civil, denominados Comisionados Ciudadanos, mismos que serán designados por la Asamblea Legislativa del Distrito Federal de conformidad con las siguientes bases.
+El Instituto se integrará por seis representantes de la sociedad civil, denominados Comisionados Ciudadanos, mismos que serán designados por la Asamblea Legislativa del Distrito Federal de conformidad con las siguientes bases.
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2005)</small>
 
 I. La Asamblea Legislativa del Distrito Federal, a través de la Comisión de Administración Pública Local, emitirá convocatoria pública abierta por la que se invite a organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación a presentar propuestas de candidatos comisionados ciudadanos, siempre que cumplan con los requisitos señalados por el artículo 59 de esta Ley;
 
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2005)</small>
+
 II. La convocatoria deberá publicarse en la Gaceta Oficial del Distrito Federal y para su mayor difusión en tres diarios de mayor circulación en el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2005)</small>
 
 III. La Comisión realizará la selección de aspirantes a comisionados ciudadanos y remitirá su propuesta al Pleno de la Asamblea Legislativa del Distrito Federal para que éste, con base en la trayectoria y experiencia de los candidatos, realice la designación correspondiente; y
 
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2005)</small>
+
 IV. Una vez designados los comisionados ciudadanos, éstos deberán rendir protesta ante el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2005)</small>
 
 La designación de los representantes ciudadanos que integrarán el Instituto de Acceso a la Información Pública del Distrito Federal, se publicará en la Gaceta Oficial del Distrito Federal y para su mayor difusión en tres diarios de mayor circulación en el Distrito Federal.
 
@@ -1355,3 +1365,19 @@ G.O. 29 DE MAYO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 5 DE ENERO DE 2007.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- En cumplimiento a las resoluciones dictadas en el amparo 1296/2005 y amparo en revisión 1426/2006, dictadas por el Juez Decimoprimero de Distrito en Materia Administrativa en el Distrito Federal y la Segunda Sala de la Suprema Corte de Justicia de la Nación, respectivamente, se reinstala a la Licenciada María Elena Pérez-Jaén Zermeño, como Comisionada Ciudadana del Instituto de Acceso a la Información Pública del Distrito Federal, por cumplir con el periodo que fue designada y que concluye el 11 de julio de 2009.
+
+Tercero.- La Comisionada Ciudadana María Elena Pérez-Jaén Zermeño, deberá iniciar el ejercicio de sus atribuciones el día hábil siguiente a la entrada en vigor del presente decreto, conforme a los días laborales y horarios establecidos, para tal efecto, por el Pleno del Instituto de Acceso a la Información Pública del Distrito Federal.
+
+Cuarto.- Una vez que entre en vigor el presente Decreto, el Pleno del Instituto de Acceso a la Información Pública del Distrito Federal deberá realizar de inmediato los trámites y acciones necesarias para que la Licenciada María Elena Pérez-Jaén Zermeño ejerza el cargo de Comisionada Ciudadana.
+
+Quinto.- El Instituto de Acceso a la Información Pública del Distrito Federal deberá realizar, dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, las modificaciones a su reglamento interior y demás disposiciones normativas.
+
+Sexto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+Séptimo.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
