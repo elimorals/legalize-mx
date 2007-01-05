@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-seguridad-publica-para-el-estado-de-jalisco-13178"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-28"
-last_updated: "2004-07-03"
+last_updated: "2007-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de diciembre de 1993.
 
@@ -697,6 +697,12 @@ El Consejo Estatal impulsará las acciones necesarias para que el Estado y los M
 
 El servicio tendrá comunicación directa con las instituciones de seguridad pública, salud, protección civil, y las demás instancias de asistencia, públicas y privadas.
 
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
+
+Artículo 34 bis.- Se sancionará con multa equivalente de uno a cinco días de salario mínimo general vigente en la zona en que se cometa la infracción a quien llame anunciando emergencias falsas; o llame con fines ociosos que distraigan los fines del servicio telefónico de emergencia. El procedimiento para imponer y ejecutar la sanción se sujetará a lo dispuesto por la Ley de Procedimiento Administrativo del Estado de Jalisco y sus Municipios; y por el reglamento de la presente Ley.
+
+Cuando por motivo de la falsa información proporcionada a las autoridades Estatales o Municipales, éstas realicen acciones u operativos para atender una emergencia falsa y con motivo de éstos ocasionen accidentes o perjuicios de cualquier índole, el responsable tendrá que cubrir la reparación del daño causado al Gobierno Estatal o Municipal a través del procedimiento de responsabilidad por las obligaciones que nacen de hechos ilícitos, a que se refiere el Código Civil del Estado de Jalisco.
+
 ###### Artículo 35.
 
 Se implementarán los mecanismos computarizados que permitan, con estricto respeto a la autonomía municipal, contar con un centro de información estatal de las personas privadas de su libertad, por los cuerpos de seguridad pública.
@@ -1200,3 +1206,9 @@ SEGUNDO.- Conforme a lo establecido en la fracción V del artículo 13, el Estad
 P.O. 3 DE JULIO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El reglamento correspondiente deberá ser adecuado en un término no mayor de 90 días posteriores a la publicación del presente decreto.
