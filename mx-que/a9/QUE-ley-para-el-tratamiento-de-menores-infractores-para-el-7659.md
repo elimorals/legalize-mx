@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-tratamiento-de-menores-infractores-para-el-7659"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-16"
-last_updated: "2006-09-15"
+last_updated: "2007-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 LEY PARA EL TRATAMIENTO PARA MENORES INFRACTORES PARA EL ESTADO DE QUERETARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA MENORES PARA EL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 15 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA MENORES PARA EL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 15 DE SEPTIEMBRE DE 2006, REFORMADA EL 5 DE ENERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 16 de diciembre de 1993.
 
@@ -1227,14 +1227,28 @@ P.O. 14 DE JULIO DE 2006.
 
 P.O. 15 DE SEPTIEMBRE DE 2006.
 
-PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
-SEGUNDO. Se abroga la Ley para el Tratamiento de Menores Infractores para el Estado, publicado en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga" el 16 de diciembre de 1993.
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
 
-TERCERO. Los órganos y autoridades que se establecen en la presente Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
-CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
+SEGUNDO. La Ley para el Tratamiento de Menores Infractores para el Estado, publicado el 16 de diciembre de 1993, en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga", quedará abrogada a partir del 30 de abril de 2007.
 
-QUINTO. Las autoridades y organismos que participan en el Sistema Integral de Justicia para Menores, están obligados a aplicar lo dispuesto por la presente Ley, en la medida de los recursos humanos y materiales con que cuenten. No obstante lo anterior, tendrán un plazo de ocho meses, contados a partir del inicio de la vigencia de la Ley, a efecto de implementar lo necesario para la total aplicación de la misma.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+TERCERO. Los órganos y autoridades establecidos en esta Ley, iniciarán su pleno funcionamiento, a más tardar el día 1 de mayo de 2007.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie. El Consejo de Menores Infractores continuará conociendo de los asuntos de justicia de menores, hasta en tanto inicien su funcionamiento los juzgados especializados en la materia
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+QUINTO. Las autoridades y organismos que participan en el Sistema Integral de Justicia para menores, están obligados a aplicar lo dispuesto por la presente Ley, en la medida de los recursos humanos y materiales con que cuenten. No obstante lo anterior, tendrán un plazo de doce meses, contados a partir del inicio de la vigencia de la Ley, a efecto de implementar lo necesario para la total aplicación de la misma.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ENERO DE 2007.
+
+ÚNICO. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
