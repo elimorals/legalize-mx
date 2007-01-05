@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2006-12-08"
+last_updated: "2007-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1215,15 +1215,27 @@ XIII.- Asignar a las dependencias y entidades el uso y administración de los bi
 
 XIV.- Resguardar los bienes muebles e inmuebles municipales, de los que deberá mantener actualizado un inventario físico;
 
-XIV (sic).- Prestar el servicio médico a cargo del gobierno municipal;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-XV.- Mantener en buen estado de funcionamiento los vehículos y equipo de transporte con que cuenten las dependencias; y,
+XV.- Prestar el servicio médico a cargo del gobierno municipal;
 
-XVI.- Prestar el servicio de grúas a las dependencias.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+XVI.- Mantener en buen estado de funcionamiento los vehículos y equipo de transporte con que cuenten las dependencias;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+XVII.- Prestar el servicio de grúas a las dependencias; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+
+XVIII.- Mantener en buen estado las instalaciones e inmuebles a cargo del gobierno municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 60.
 
-La Oficialía Mayor para el cumplimiento de sus atribuciones contará con una coordinación administrativa, y tendrá bajo su cargo los siguientes Departamentos:
+La Oficialía Mayor para el cumplimento de sus atribuciones contará con una Coordinación Administrativa y una Coordinación de Mesa Técnica, y tendrá bajo su cargo los siguientes Departamentos:
 
 I.- Recursos Humanos;
 
@@ -1231,11 +1243,21 @@ II.- Recursos Materiales;
 
 III.- Servicios Médicos Municipales;
 
-IV.- Talleres Municipales; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2005)</small>
+IV.- Talleres Municipales;
 
-V.- Depósitos Vehiculares.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+V.- Depósitos Vehiculares; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+
+VI.- Departamento de Mantenimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+La Coordinación de Mesa Técnica, tendrá como función participar en las licitaciones y adjudicaciones de contratos de obra pública municipal, de conformidad con lo dispuesto por el marco jurídico aplicable.
 
 ###### ARTICULO 61.
 
@@ -1283,15 +1305,13 @@ VIII.- Celebrar contratos de arrendamiento de bienes inmuebles, para el uso de �
 
 IX.- Salvaguardar el uso público de los edificios que estén bajo la responsabilidad de las dependencias;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
-
-X.- Participar en las licitaciones y adjudicaciones de contratos de obra pública municipal, de conformidad con lo dispuesto por el marco jurídico aplicable.
+X.- (DEROGADA, P.O. 5 DE ENERO DE 2007)
 
 XI.- Realizar la contratación de los servicios necesarios para el funcionamiento y mantenimiento adecuado de los edificios a su cargo, dando seguimiento a las cuentas que se generen;
 
-XII.- Efectuar el mantenimiento e intendencia de los edificios a su cargo;
+XII.- (DEROGADA, P.O. 5 DE ENERO DE 2007)
 
-XIII.- Asegurar que se cuente con el mobiliario y demás materiales necesarios en los eventos que lleve a cabo el gobierno municipal, así como el aseo de las áreas que se ocupen con éstos; y,
+XIII.- (DEROGADA, P.O. 5 DE ENERO DE 2007)
 
 XIV.- Brindar el servicio de imprenta para la elaboración de folletos, trípticos, carteles, formatos administrativos, y demás documentación para las diferentes dependencias y entidades.
 
@@ -1350,6 +1370,24 @@ IV.- Supervisar el funcionamiento de los depósitos vehiculares concesionados;
 > <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2005)</small>
 
 V.- Auxiliar al Departamento de Recaudación de Rentas en el proceso de remate de vehículos embargados.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
+
+ARTICULO 65 BIS.- El Departamento de Mantenimiento, tendrá como función, administrar los servicios de mantenimiento y conservación de las instalaciones para el funcionamiento de las Dependencias y Entidades de la Administración Pública Municipal, encargándose de:
+
+I. Brindar apoyo logístico a las diferentes dependencias y entidades para la realización de eventos públicos;
+
+II. Asegurar que se cuente con el mobiliario y demás materiales necesarios en los eventos que lleve a cabo el gobierno municipal, así como el aseo de las áreas que se ocupen con éstos;
+
+III. Efectuar el mantenimiento preventivo y correctivo de las instalaciones y bienes muebles de la administración municipal;
+
+IV. Efectuar el trabajo de intendencia de las oficinas y edificios para el óptimo funcionamiento interno de las mismas;
+
+V. Distribuir garrafones de agua purificada para consumo interno de las oficinas.
+
+VI. Administrar y resguardar los insumos y bienes destinados a la conservación, limpieza y mantenimiento de espacios administrativos; y
+
+VII. Remodelar y remozar oficinas y espacios administrativos.
 
 ### CAPITULO SEPTIMO. DE LA DIRECCION DE SERVICIOS PUBLICOS MUNICIPALES
 
@@ -3080,5 +3118,11 @@ SEGUNDO.- QUE EL ESQUEMA FUNCIONAL SERÁ ANALIZADO POR LAS COMISIONES CONJUNTAS 
 P.O. 8 DE DICIEMBRE DE 2006.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 5 DE ENERO DE 2007.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
+
+SEGUNDO.- Transfiéranse el presupuesto, los expedientes, los activos fijos y bienes en general con que cuente la Coordinación de Mantenimiento e Intendencia y la Coordinación de Mesa Técnica del Departamento de Recursos Materiales, al nuevo Departamento de Mantenimiento de la misma Oficialía Mayor, de igual forma a la Coordinación de Mesa Técnica como área de apoyo a la Oficina del Titular de Oficialía Mayor.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
