@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2006-09-14"
+last_updated: "2007-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO EL DECRETO DE NO. 21432-LVII/06, PUBLICADO EN EL P.O. DE 14 DE SEPTIEMBRE DE 2006, POR EL QUE SE REFORMA LA PRESENTE LEY, ENTRARA EN VIGOR EL DIA 1 DE ENERO DE 2007.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -319,23 +317,35 @@ Los municipios deben conservar los límites que tengan en la fecha de expedició
 
 El Congreso del Estado puede constituir nuevos Municipios, de acuerdo con las bases siguientes:
 
-I. La superficie territorial, en donde se pretenda constituir, no sea menor de 180 kilómetros cuadrados;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-II. La población que habite en esa superficie, sea mayor de 20,000 habitantes;
+I. La superficie territorial en donde se pretenda constituir no sea menor a doscientos cincuenta kilómetros cuadrados, y que el municipio escindente no resulte con una superficie menor a ésta;
 
-III. Lo soliciten, cuando menos, la mitad de los ciudadanos que radiquen en la región en donde pretenda establecerse un nuevo Municipio;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-IV. El poblado que se elija como cabecera municipal, tenga una población no inferior a 10,000 habitantes; y
+II. La población que habite en esa superficie sea mayor a treinta mil habitantes, y que el municipio escindente no resulte con una población menor a esta;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+III. Lo solicitud debe ser suscrita por cuanto menos las dos terceras partes de los habitantes que radiquen en la superficie donde se pretenda constituir el municipio, y que tengan una residencia comprobable de al menos cinco años anteriores a la presentación de la solicitud. Para los efectos de esta fracción se debe crear un comité o asociación promotora la cual da seguimiento al procedimiento realizado por el Congreso del Estado;
+
+IV. El poblado que se elija como cabecera municipal, tenga una población no inferior a 10,000 habitantes; y (sic)
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 V. El poblado cuente con los servicios públicos indispensables y, que tenga además, suficiente capacidad económica para atender a los gastos de la administración pública municipal; y
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-VI. Tener la opinión de los municipios afectados mediante acuerdo de los ayuntamientos respectivos.
+VI. La opinión de los municipios afectados, debe constar en el acta de la sesión de ayuntamiento correspondiente.
 
-El Congreso del Estado puede declarar la extinción, o la fusión de los municipios, cuando no alcancen la población requerida, modificando, para ello, los límites de los municipios existentes, y concediendo previamente el derecho de audiencia y defensa a los Ayuntamientos de que se trate.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+Siempre que se constituya un nuevo Municipio, se debe cuidar que el o los Municipios que resulten afectados, sigan reuniendo los requisitos mínimos que establece este ordenamiento.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+El Congreso del Estado puede declarar la extinción, o la fusión de los municipios, cuando no alcancen la población requerida, modificando para ello, los límites de los municipios existentes, y concediendo previamente el derecho de audiencia y defensa a los Ayuntamientos de que se trate.
 
 ### CAPITULO II. De las Delegaciones y Agencias
 
@@ -353,33 +363,29 @@ IV. Que tenga un local apropiado para la delegación, o que cuente con un terren
 
 V. Que cuente, cuando menos, con una escuela primaria en funciones; y
 
-VI. Que tenga capacidad suficiente para prestar los servicios mínimos municipales.
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+VI. QUE TENGA CAPACIDAD SUFICIENTE PARA APOYAR LA PRESTACIÓN DE LOS SERVICIOS MUNICIPALES CORRESPONDIENTES.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 8.
 
-Los delegados municipales deben ser designados por el Ayuntamiento y removidos por éste mismo con causa justificada, previo respeto de su derecho de audiencia y defensa.
-
 El Ayuntamiento debe reglamentar el procedimiento de designación de los delegados, sus requisitos, obligaciones y facultades.
 
-Para ser delegado municipal se requiere por lo menos cumplir con los siguientes requisitos:
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-I. Tener dieciocho años cumplidos;
-
-II. Tener un modo honesto de vivir;
-
-III. Tener su residencia en la delegación correspondiente;
-
-IV. No haber sido condenado por delito doloso.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 9.
 
 En los demás centros de población, pueden constituirse agencias municipales, si el Ayuntamiento lo considera necesario.
 
-Los agentes municipales deben ser nombrados por el Ayuntamiento a propuesta del Presidente Municipal, y removidos por el Ayuntamiento con causa justificada.
-
-El Ayuntamiento debe reglamentar los requisitos para ser agente municipal, así como sus obligaciones y facultades.
+El Ayuntamiento debe reglamentar los requisitos para ser agente municipal, el procedimiento para su designación, así como sus obligaciones y facultades.
 
 ## TITULO SEGUNDO. DE LOS AYUNTAMIENTOS
 
@@ -413,15 +419,23 @@ El Presidente Municipal saliente debe convocar a los integrantes electos del Ayu
 
 Si el Presidente Municipal saliente no cumple con esa obligación, el Presidente Municipal entrante debe rendir la protesta de ley ante el resto de los integrantes electos del Ayuntamiento y a continuación, el propio Presidente debe tomar dicha protesta a los demás miembros del Ayuntamiento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+En caso de falta absoluta por defunción del Presidente entrante, debe tomar protesta el Presidente entrante suplente, quien ejerce la función de Presidente Municipal Provisional, y se procede a nombrar a un Presidente Municipal Sustituto en los términos del artículo 70 de esta ley, dentro de los siguientes treinta días.
+
 El Ayuntamiento debe iniciar sus funciones al día siguiente de que les fue tomada la protesta a sus integrantes.
 
 Los integrantes electos del Ayuntamiento que no se presenten en la fecha indicada, deben rendir la protesta de ley en la próxima sesión del Ayuntamiento.
 
 Cuando exista causa justificada pueden rendir la protesta de ley dentro de los 90 días siguientes.
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 15.
 
-El Ayuntamiento debe nombrar al servidor público encargado de la Secretaría del Ayuntamiento y al funcionario encargado de la Hacienda Municipal, dentro de los términos y conforme al procedimiento que dispone esta ley.
+El Ayuntamiento debe nombrar al servidor público encargado de la Secretaría del Ayuntamiento y al funcionario encargado de la Hacienda Municipal, dentro de los términos y conforme al procedimiento que dispone esta ley, así como al titular del órgano de control interno, cuando esto sea contemplado por los reglamentos municipales respectivos.
 
 ###### Artículo 16.
 
@@ -435,13 +449,21 @@ La obligación contenida en el párrafo anterior debe cumplirse el día siguient
 
 Los documentos firmados por los nuevos titulares a manera de recibos, sólo acreditan la recepción material de los bienes entregados, sin que esto los exima de las responsabilidades que puedan proceder.
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 17.
 
-Al renovarse los Ayuntamientos, los munícipes entrantes se deben reunir, a más tardar, el día treinta y uno de enero del año posterior al de la elección, para cotejar el inventario de los bienes del Municipio con el de la administración anterior. Se debe anexar al inventario una relación del estado en que se encuentren los bienes de dominio público con que cuenta el Municipio.
+El Ayuntamiento entrante debe proceder, a través de sus dependencias y entidades, a realizar el inventario del patrimonio municipal existente, anexando al mismo una relación del estado en que se encuentren los bienes de dominio público con que cuenta el Municipio; a fin de cotejar el inventario de los bienes del Municipio con el de la administración anterior a más tardar el día treinta y uno de enero del año posterior al de la elección.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 18.
 
-Al instalarse el nuevo Ayuntamiento, debe comunicar los nombres del Presidente Municipal, Síndico y regidores, del servidor público encargado de la Secretaría del Ayuntamiento y del funcionario encargado de la Hacienda Municipal, al Ejecutivo de la entidad, al Congreso del Estado, a los tribunales del Poder Judicial, y a las oficinas federales y estatales, que estén establecidas en el Municipio, en un plazo no mayor de 30 días.
+Al instalarse el nuevo Ayuntamiento, debe comunicar los nombres del Presidente Municipal, Síndico y regidores, del servidor público encargado de la Secretaría del Ayuntamiento y del funcionario encargado de la Hacienda Municipal, así como del titular del órgano de control interno, cuando lo contemplen los reglamentos municipales, al Ejecutivo de la entidad, al Congreso del Estado, a los tribunales del Poder Judicial, y a las oficinas federales y estatales, que estén establecidas en el Municipio, en un plazo no mayor de 30 días.
+
+Así mismo, debe notificarse al Congreso del Estado la toma de posesión del suplente de cualquiera de los servidores mencionados en el primer párrafo de este artículo, cuando dicha suplencia se prolongue por más de un mes.
 
 ### CAPITULO III. De la Desintegración
 
@@ -455,11 +477,19 @@ Son causas de desintegración del Ayuntamiento:
 
 I. La falta absoluta de la mayoría de sus miembros, tanto propietarios como suplentes, de tal manera que no pueda integrarse el mismo;
 
-II. Por renuncia de la mayoría de sus integrantes, tanto propietarios como suplentes, de tal manera que no pueda integrarse el mismo.
+II. Por renuncia de la mayoría de sus integrantes, tanto propietarios como suplentes, de tal manera que no pueda integrarse el mismo;
 
-III. Por la comisión de hechos ilícitos que culminen por declaratoria de responsabilidad, hecha por el Congreso del Estado, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado, respecto de la mayoría de los integrantes del Ayuntamiento y no pueda integrarse éste, aún con los suplentes;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-IV. Cuando no sea posible el ejercicio de las funciones de un Ayuntamiento conforme el orden Constitucional, Federal o Estatal.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+III. POR LA COMISIÓN DE HECHOS QUE CULMINEN POR DECLARATORIA DE RESPONSABILIDAD POLÍTICA, HECHA POR EL CONGRESO DEL ESTADO, EN LOS TÉRMINOS DE LA LEY ESTATAL EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, RESPECTO DE LA MAYORÍA DE LOS INTEGRANTES DEL AYUNTAMIENTO Y NO PUEDA INTEGRARSE ÉSTE, AÚN CON LOS SUPLENTES; Y
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+IV. CUANDO NO SEA POSIBLE EL EJERCICIO DE LAS FUNCIONES DE UN AYUNTAMIENTO CONFORME LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
 
 ###### Artículo 21.
 
@@ -483,17 +513,37 @@ II. Por abandonar sus funciones en un término de treinta días consecutivos, si
 
 III. Por faltar consecutivamente a más de tres sesiones del Ayuntamiento, sin existir causa justificada, si se le citó en la forma prevista por esta ley, siempre y cuando transcurran diez días entre cada una de las sesiones;
 
-IV. Por la instauración de los procedimientos a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-V. Por abuso de autoridad o realización de actos que alteren el orden, la tranquilidad o la seguridad de la comunidad o de los habitantes del Municipio, declarada por el Ayuntamiento;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-VI. Por desatender de manera constante el cumplimiento de sus funciones o las decisiones del Ayuntamiento;
+IV. POR LA REALIZACIÓN DE ACTOS QUE ALTEREN EL ORDEN, LA TRANQUILIDAD O LA SEGURIDAD DE LA COMUNIDAD O DE LOS HABITANTES DEL MUNICIPIO, DECLARADA POR EL AYUNTAMIENTO, MEDIANTE PROCEDIMIENTO ADMINISTRATIVO DE CONFORMIDAD CON LA LEY ESTATAL EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS;
 
-VII. Porque se dicte auto de formal prisión por la comisión de delito doloso, previa declaración de procedencia por parte del Congreso del Estado. En este caso, la suspensión surtirá efectos a partir del momento en que se dicte el auto de formal prisión y quedará sin efectos al dictarse la sentencia absolutoria; y
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-VIII. Por incapacidad física o legal por un término de sesenta días, que le impida cumplir con su responsabilidad.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-En caso de suspensión del mandato, los integrantes del Ayuntamiento suspendidos deben asumir de nuevo sus cargos una vez vencido el término de la suspensión, apercibidos por el Congreso del Estado de que en caso de reincidencia se procederá a la revocación del mandato.
+V. POR DESATENDER DE MANERA CONSTANTE EL CUMPLIMIENTO DE SUS FUNCIONES O LAS DECISIONES DEL AYUNTAMIENTO; Y
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+VI. POR INCAPACIDAD MENTAL DECLARADA JUDICIALMENTE O INCAPACIDAD LEGAL POR UN TÉRMINO DE MÁS DE SESENTA DÍAS, QUE LE IMPIDA CUMPLIR CON SU RESPONSABILIDAD.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DEROGADA DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+vii. (reformada [n. de e. derogada], p.o. 5 de enero de 2007)
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DEROGADA DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+viii. (reformada [n. de e. derogada], p.o. 5 de enero de 2007)
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE ENERO DE 2007)</small>
+
+EN CASO DE SUSPENSIÓN DEL MANDATO, LOS INTEGRANTES DEL AYUNTAMIENTO SUSPENDIDOS DEBEN ASUMIR DE NUEVO SUS CARGOS UNA VEZ VENCIDO EL TÉRMINO DE LA SUSPENSIÓN, APERCIBIDOS POR EL CONGRESO DEL ESTADO DE QUE EN CASO DE REINCIDENCIA SE PROCEDERÁ A LA REVOCACIÓN DEL MANDATO.
 
 ###### Artículo 24.
 
@@ -505,17 +555,27 @@ II. Por incapacidad permanente física o mental;
 
 III. Porque exista sentencia judicial por delito doloso que haya causado estado, en la que se imponga como sanción la inhabilitación o cuando la pena impuesta exceda del término de su ejercicio; y
 
-IV. Por sentencia de juicio político en la que se imponga como sanción la destitución o inhabilitación.
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEROGADA DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+iv. (derogada, p.o. 5 de enero de 2007)
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 25.
 
-Cuando se declare la suspensión o revocación del mandato de alguno de los miembros del Ayuntamiento, el Congreso del Estado deberá requerir al suplente o suplentes según corresponda, para que en el término de 72 horas, contadas a partir de que se de a conocer la resolución, asuman el cargo y rindan la protesta de ley ante el Ayuntamiento.
+Cuando se declare la suspensión o revocación del mandato de alguno de los miembros del Ayuntamiento, el Congreso del Estado debe requerir al suplente o suplentes según corresponda, para que en el término de setenta y dos horas, contadas a partir de que se de a conocer la resolución, asuman el cargo y rindan la protesta de ley ante el Ayuntamiento.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 26.
 
-Cuando exista una situación que por su gravedad haga imposible el gobierno ó la gestión administrativa de un Ayuntamiento, o en caso de declararse la desintegración del Ayuntamiento por el Congreso del Estado, éste deberá proceder a designar e instalar un Concejo Municipal, formado por un número igual de regidores al que debe tener ese Municipio. Los miembros designados deben reunir los mismos requisitos establecidos en la Constitución Política del Estado y en la Ley Electoral del Estado para ser regidor.
+Cuando se hubiere presentado empate o las instancias judiciales competentes hayan anulado las elecciones correspondientes, exista una situación que por su gravedad haga imposible el gobierno o la gestión administrativa de un Ayuntamiento, o en caso de declararse la desintegración del Ayuntamiento por el Congreso del Estado, éste debe proceder a designar e instalar un Concejo Municipal, formado por un número igual de munícipes al que debe tener ese Municipio. El presidente del concejo, así como los miembros designados deben reunir los mismos requisitos establecidos en la Constitución Política del Estado y en la ley estatal en materia electoral para ser regidor.
 
-El Concejo designado tendrá la misma organización interna y funciones que corresponden a los Ayuntamientos, y terminará el período constitucional correspondiente al Ayuntamiento desintegrado o suspendido, salvo que a juicio del Congreso del Estado, en cualquiera de ambos casos, proceda convocar a elecciones extraordinarias de acuerdo con lo establecido en la fracción XIV, del artículo 35 de la Constitución Política del Estado de Jalisco.
+El Concejo designado tiene la misma organización interna y funciones que corresponden a los Ayuntamientos, y termina el período constitucional correspondiente al Ayuntamiento desintegrado o suspendido, salvo que a juicio del Congreso del Estado, en cualquiera de ambos casos, proceda convocar a elecciones extraordinarias de acuerdo con lo establecido en la Constitución Política del Estado de Jalisco.
 
 ### CAPITULO V. De las Comisiones
 
@@ -523,17 +583,41 @@ El Concejo designado tendrá la misma organización interna y funciones que corr
 
 Los Ayuntamientos, para el estudio, vigilancia y atención de los diversos asuntos que les corresponda conocer, deben funcionar mediante comisiones.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
-Cada regidor debe estar integrado por lo menos a una Comisión.
+Los ediles pueden eximirse de presidir comisiones, pero cada munícipe debe estar integrado por lo menos a una comisión, en los términos de la reglamentación respectiva.
 
 La denominación de las comisiones, sus características, obligaciones y facultades, deben ser establecidas en los reglamentos que para tal efecto expida el Ayuntamiento.
 
-Las comisiones pueden ser permanentes y transitorias, con desempeño unipersonal o colegiado, y bajo ninguna circunstancia pueden tener facultades ejecutivas.
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+LAS COMISIONES PUEDEN SER PERMANENTES O TRANSITORIAS, CON INTEGRACIÓN PREFERENTEMENTE COLEGIADA PARA SU FUNCIONAMIENTO Y DESEMPEÑO, Y BAJO NINGUNA CIRCUNSTANCIAS PUEDEN TENER FACULTADES EJECUTIVAS.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+LAS REUNIONES QUE CELEBREN LAS COMISIONES SON PÚBLICAS POR REGLA GENERAL, SALVO QUE SUS INTEGRANTES DECIDAN, POR CAUSAS JUSTIFICADAS Y DE CONFORMIDAD CON SUS DISPOSICIONES REGLAMENTARIAS APLICABLES, QUE SE CELEBREN DE FORMA RESERVADA.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+EN LOS AYUNTAMIENTOS QUE TENGAN QUINCE EDILES O MÁS, LAS COMISIONES PERMANENTES SIEMPRE SON COLEGIADAS.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+LOS AYUNTAMIENTOS ESTABLECEN EN SUS RESPECTIVOS REGLAMENTOS EL PLAZO EN QUE CADA COMISIÓN EDILICIA DEBE DAR CUENTA DE LOS ASUNTOS QUE LE SEAN TURNADOS. A FALTA DE DISPOSICIÓN REGLAMENTARIA, LOS ASUNTOS DEBEN DICTAMINARSE EN UN PLAZO NO MAYOR A CUARENTA Y CINCO DÍAS NATURALES CONTADOS A PARTIR DEL DÍA POSTERIOR A QUE LE SEAN TURNADOS, MISMOS QUE PUEDEN SER PRORROGABLES EN LOS TÉRMINO DE LA REGLAMENTACIÓN MUNICIPAL.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 28.
 
-En su primera sesión, el Ayuntamiento debe asignar las comisiones de acuerdo a los reglamentos correspondientes, a propuesta del Presidente Municipal.
+En su primera sesión, el Ayuntamiento debe asignar las comisiones de acuerdo a los reglamentos correspondientes, a propuesta del Presidente Municipal, o en su defecto, por el órgano de coordinación a que se refiere esta ley, cuando así lo contemplen los ordenamientos municipales.
 
 ### CAPITULO VI. De las Sesiones
 
@@ -561,9 +645,13 @@ Cuando el público asistente a las sesiones no guarde el orden debido, el Presid
 
 La forma, periodicidad, ceremonial y demás asuntos que tengan que ver con el desarrollo de las sesiones, se deben establecer en el reglamento que para tal efecto expida el Ayuntamiento, con la obligación para éste de celebrar, por lo menos, dos sesiones ordinarias al mes.
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 32.
 
-El Ayuntamiento sesiona válidamente con la asistencia de la mayoría de sus integrantes, pero contando necesariamente con la presencia del Presidente Municipal.
+El Ayuntamiento sesiona válidamente con la asistencia de la mayoría de sus integrantes, pero contando necesariamente con la presencia del Presidente Municipal o del munícipe que designe el Ayuntamiento para conducir la sesión en ausencia del mismo, en los términos dispuestos por el tercer párrafo del artículo 68.
 
 ###### Artículo 33.
 
@@ -587,7 +675,9 @@ Se entiende por mayoría calificada de votos, la correspondiente a las dos terce
 
 Cuando por la integración del Ayuntamiento, las dos terceras partes resulten en cantidad fraccionaria, se considerará la cantidad inmediata superior.
 
-Las abstenciones se suman al voto de la mayoría.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+En los términos de la reglamentación municipal, en cada votación debe determinarse con claridad los votos a favor y en contra, así como las abstenciones.
 
 ###### Artículo 36.
 
@@ -595,7 +685,11 @@ Se requiere el voto favorable de la mayoría calificada de los integrantes del A
 
 I. Celebrar actos jurídicos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;
 
-II. Crear organismos públicos descentralizados municipales;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+II. CREAR ORGANISMOS PÚBLICOS DESCENTRALIZADOS MUNICIPALES O CONSTITUIR EMPRESAS DE PARTICIPACIÓN MUNICIPAL MAYORITARIA;
 
 III. Adquirir bienes inmuebles a título oneroso;
 
@@ -631,37 +725,59 @@ Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, e
 
 II. Aprobar y aplicar su presupuesto de egresos, bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-III. Remitir al Organo Fiscalizador correspondiente antes del día quince de cada mes, la cuenta detallada de los movimientos de fondos ocurridos en el mes anterior; antes del día último de julio, la cuenta del primer semestre; y antes del día último de enero, la general del año inmediato anterior;
+III. Remitir al Congreso del Estado, a través de su órgano fiscalizador, antes del día quince de cada mes, la cuenta detallada de los movimientos de fondos ocurridos en el mes anterior; antes del día último de julio, la cuenta del primer semestre; y antes del día último de enero, la general del año inmediato anterior;
 
-IV. Conservar y acrecentar los bienes materiales del Municipio y llevar el Registro Público de Bienes Municipales, en el que se señalen los bienes del dominio público y del dominio privado del Municipio y de sus Organismos Públicos Descentralizados;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+IV. CONSERVAR Y ACRECENTAR LOS BIENES MATERIALES DEL MUNICIPIO Y LLEVAR EL REGISTRO PÚBLICO DE BIENES MUNICIPALES, EN EL QUE SE SEÑALEN LOS BIENES DEL DOMINIO PÚBLICO Y DEL DOMINIO PRIVADO DEL MUNICIPIO Y DE SUS ORGANISMOS PÚBLICOS DESCENTRALIZADOS;
 
 V. Cuidar de la prestación de todos los servicios públicos de su competencia;
 
 VI. Observar las disposiciones de las leyes federales y estatales en el desempeño de las funciones o en la prestación de los servicios a su cargo;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2003)</small>
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-VII. Instalar, ampliar y operar el sistema Municipal de Protección Civil, así como integrar a la estructura orgánica del Municipio la Unidad de Protección Civil conforme a las disposiciones y lineamientos federales y estatales de la materia;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+VII. CUMPLIR LAS DISPOSICIONES FEDERALES Y ESTATALES EN MATERIA DE PROTECCIÓN CIVIL;
 
 VIII. Expedir y aplicar los reglamentos relativos a la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, conforme a las bases generales definidas por las leyes federales y estatales en la materia;
 
-IX. Apoyar la educación y la asistencia social en la forma que las leyes de la materia dispongan;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+IX. APOYAR LA EDUCACIÓN, LA CULTURA, LA ASISTENCIA SOCIAL Y DEMÁS FUNCIONES PÚBLICAS EN LA FORMA QUE LAS LEYES Y REGLAMENTOS DE LA MATERIA DISPONGAN;
 
 X. Atender la seguridad en todo el Municipio y dictar las medidas tendientes a mantener la seguridad, el orden público y la preservación de los derechos humanos;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-XI. Realizar la fiscalización, control y evaluación de la administración pública municipal, mediante los órganos y dependencias creadas para tal efecto;
+XI. Realizar la fiscalización y evaluación de la administración pública municipal, mediante los órganos, dependencias o entidades creadas para tal efecto;
 
-XII. Realizar las funciones encomendadas a la Institución del Registro Civil; y
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-XIII. Colaborar con el Congreso del Estado, de conformidad con las disposiciones legales aplicables, para la realización en los municipios, de las sesiones de la Asamblea y las reuniones de trabajo de las comisiones que esta designe; y
+XII. REALIZAR LAS FUNCIONES DEL REGISTRO CIVIL; Y
 
-XIV. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+XIII. REGULAR LOS PROCEDIMIENTOS INTERNOS, PARA LA ADQUISICIÓN DE BIENES O LA CONTRATACIÓN DE SERVICIOS, ASEGURANDO QUE CUBRAN LAS MEJORES CONDICIONES DE PRECIO, CALIDAD, FINANCIAMIENTO, OPORTUNIDAD Y DEMÁS CONDICIONES PERTINENTES Y EVITANDO QUE ESTOS ACTOS SE REALICEN EN BENEFICIO DE SERVIDORES PÚBLICOS DEL PROPIO MUNICIPIO, A LAS PAR DE FOMENTAR LA TRANSPARENCIA Y LA PARTICIPACIÓN CIUDADANA EN LA VIGILANCIA DEL USO DE LOS RECURSOS PÚBLICOS;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+
+XIV. Formular, evaluar y revisar el Programa Municipal de Desarrollo Urbano y los planes de desarrollo urbano de centros de población, en los términos de las disposiciones legales y reglamentarias aplicables. Los citados instrumentos deben observarse en la zonificación, el otorgamiento de licencias y permisos de construcción y en el ejercicio de las demás atribuciones que en materia de desarrollo urbano detenta la autoridad municipal; y
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+XV. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
 
 ###### Artículo 38.
 
@@ -669,37 +785,73 @@ Son facultades de los Ayuntamientos:
 
 I. Proponer ante el Congreso del Estado, iniciativas de leyes o decretos en materias municipales;
 
-II. Celebrar convenios con instituciones públicas y privadas tendientes a la realización de obras de interés común, siempre que no corresponda su realización al Estado;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+II. Celebrar convenios con organismos públicos y privados tendientes a la realización de obras de interés común, siempre que no corresponda su realización al Estado;
 
 III. Adquirir bienes en cualquiera de las formas previstas por la Ley;
 
-IV. Crear los empleos públicos y las dependencias que se estimen necesarias para cumplir con sus fines;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-V. Celebrar convenios con el Estado a fin de que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguna de las funciones o servicios que los municipios tengan a su cargo o se ejerzan coordinadamente por el Estado y el propio Municipio;
+IV. Crear los empleos públicos, así como las dependencias y entidades que se estimen necesarias para cumplir con sus fines;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+V. Celebrar convenios con el Poder Ejecutivo del Estado a fin de que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguna de las funciones o servicios que los municipios tengan a su cargo o se ejerzan coordinadamente por el Poder Ejecutivo del Estado y el propio Municipio;
 
 VI. Celebrar convenios de coordinación y asociación con otros Municipios para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden;
 
-> <small>(REFORMADO, [N. DE E. ANTES FRACCIÓN VII], P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
 
 Tratándose de la asociación de los municipios de dos o más Estados, deben contar con la aprobación de las legislaturas de los estados respectivas;
 
-> <small>(REFORMADA, [N. DE E. ANTES FRACCIÓN VIII], P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
 
-VII. Señalar las garantías que en su caso deban otorgar los servidores públicos municipales que designe, para responder por el ejercicio de sus funciones; y
+VII. Señalar las garantías que en su caso deban otorgar los servidores públicos municipales que designe, para responder por el ejercicio de sus funciones; y (sic)
 
-> <small>(REFORMADA, [N. DE E. ANTES FRACCIÓN IX], P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-VIII. Las demás que les establezcan la Constitución Federal, la particular del Estado y demás leyes y reglamentos.
+VIII. Fomentar la participación ciudadana y vecinal a través de los mecanismos y figuras que para tal efecto establezcan en sus ordenamientos municipales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+
+IX. Implementar instrumentos para la modernización administrativa y la mejora regulatoria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+
+X. Contribuir a la generación de empleos dentro del Municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+
+XI. Promover el registro y difusión del acontecer histórico y las tradiciones del Municipio, a través de las dependencias, órganos o entidades correspondientes, en los términos de la reglamentación respectiva; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+
+XII. Las demás que les establezcan la Constitución Federal, Estatal y demás leyes, tanto federales y locales, y reglamentos.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+Artículo 38 bis. Los Ayuntamientos pueden conformar consejos consultivos ciudadanos, para que apoyen y asesoren a la autoridad municipal en las áreas que para tal efecto establezcan los ordenamientos municipales respectivos.
+
+Dichos órganos de participación son creados libremente por los Ayuntamientos y al ser organismos de naturaleza ciudadana, no forman parte del Ayuntamiento, ni de las dependencias y entidades que le auxilian, por lo que en ningún caso pueden asumir funciones que constitucional y legalmente le correspondan al órgano de gobierno del Municipio o a la administración pública municipal que le deriva.
+
+El cargo de integrante de estos órganos es honorífico por lo que no se recibe remuneración económica por su ejercicio y tratándose de servidores públicos, sus funciones son inherentes al cargo que desempeñen. Los representantes de la sociedad civil que forman parte de estos consejos carecen de la calidad de servidores públicos.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/IndicesCCAI/ControversiasConstitucionales/DetalleControversias.aspx?AsuntoID=89613).
 
 ###### Artículo 39.
 
 Los actos o disposiciones de carácter administrativo que impliquen la realización de obra pública o enajenación del patrimonio municipal, pueden ser sometidos previamente a plebiscito, en los términos de la Constitución Política del Estado de Jalisco y de la legislación en la materia.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Artículo 39 bis. Con el objeto de simplificar, facilitar y agilizar las comunicaciones, actos jurídicos y procedimientos administrativos entre los Ayuntamientos del Estado de Jalisco y sus respectivas dependencias, y entidad de la Administración Pública municipal, entre éstos y los poderes del Estado, así como entre los primeros y los particulares, se podrán hacer uso de medios electrónicos, ópticos o de cualquier otra tecnología de conformidad a lo establecido por las disposiciones jurídicas aplicables y el reglamento que para tal efecto expida la entidad respectiva.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
-El uso de la firma electrónica certificada para los servidores públicos se establecerá en el reglamento respectivo o se determinará por medio de los titulares de las entidades públicas municipales.
+Artículo 39 bis. Con el objeto de simplificar, facilitar y agilizar las comunicaciones, actos jurídicos y procedimientos administrativos entre los Ayuntamientos del Estado de Jalisco y sus respectivas dependencias y entidades de la administración pública municipal, entre éstos y los poderes del Estado, así como entre los primeros y los particulares, se puede hacer uso de medios electrónicos, ópticos o de cualquier otra tecnología de conformidad a lo establecido por las disposiciones jurídicas aplicables y el reglamento que para tal efecto expida la entidad pública respectiva.
+
+El uso de la firma electrónica certificada para los servidores públicos se establece en el reglamento respectivo.
 
 ### CAPITULO I. Del Presidente Municipal
 
@@ -722,6 +874,24 @@ II. Los regidores;
 III. El Síndico; y
 
 IV. Las comisiones del Ayuntamiento, colegiadas o individuales.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ANTEPENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+LOS AYUNTAMIENTOS PUEDEN ESTABLECER, A TRAVÉS DE SUS REGLAMENTOS MUNICIPALES, LA INICIATIVA POPULAR COMO MEDIO PARA FORTALECER LA PARTICIPACIÓN CIUDADANA Y VECINAL.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+EL EJERCICIO DE LA FACULTAD DE INICIATIVA, EN CUALQUIERA DE LOS CASOS SEÑALADOS EN LOS NUMERALES INMEDIATOS ANTERIORES, NO SUPONE QUE LOS AYUNTAMIENTOS DEBAN APROBAR LAS INICIATIVAS ASÍ PRESENTADAS, SINO ÚNICAMENTE QUE LAS MISMAS DEBEN SER VALORADAS MEDIANTE EL PROCEDIMIENTO ESTABLECIDO EN LA PRESENTE LEY Y EN LOS REGLAMENTOS CORRESPONDIENTES.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+LA PRESENTACIÓN DE UNA INICIATIVA NO GENERA DERECHOS A PERSONA ALGUNA, ÚNICAMENTE SUPONE EL INICIO DEL PROCEDIMIENTO RESPECTIVO QUE DEBE AGOTARSE EN VIRTUD DEL INTERÉS PÚBLICO.
 
 ###### Artículo 42.
 
@@ -749,21 +919,53 @@ Los ordenamientos municipales de carácter general, en los términos de la Const
 
 Los ordenamientos municipales deben señalar por lo menos:
 
-a) Materia que regulan;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-b) Fundamento jurídico;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-c) Objeto y fines;
+I. MATERIA QUE REGULAN;
 
-d) Atribuciones de las autoridades competentes;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-e) Derechos y obligaciones de los administrados;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-f) Faltas e infracciones;
+II. FUNDAMENTO JURÍDICO;
 
-g) Sanciones; y
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-h) Vigencia.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+III. OBJETO Y FINES;
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+IV. ATRIBUCIONES DE LAS AUTORIDADES;
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+V. DERECHOS Y OBLIGACIONES DE LOS ADMINISTRADOS;
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+VI. FALTAS E INFRACCIONES;
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+VII. SANCIONES; Y
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+VIII. VIGENCIA.
 
 ###### Artículo 45.
 
@@ -799,19 +1001,13 @@ V. Ordenar la publicación de bandos de policía y gobierno, reglamentos, circul
 
 VI. Cuidar el buen estado y mejoramiento de los bienes pertenecientes al Municipio;
 
-VII. Vigilar que las comisiones encargadas de los distintos servicios municipales cumplan eficazmente con su cometido;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-El Presidente Municipal debe estar atento a las labores que realizan los demás servidores públicos de la administración pública municipal, debiendo dar cuenta al Ayuntamiento cuando la gravedad del caso lo amerite, de las faltas u omisiones que advierta;
-
-Con respeto a la garantía de audiencia, debe imponer a los servidores públicos municipales, las correcciones disciplinarias que fijen las leyes y reglamentos, con motivo de las faltas y responsabilidades administrativas en que incurran en el desempeño de sus funciones;
+VII. VIGILAR QUE LAS DEPENDENCIAS Y ENTIDADES ENCARGADAS DE LOS DISTINTOS SERVICIOS MUNICIPALES CUMPLAN EFICAZMENTE CON SU COMETIDO;
 
 VIII. Rendir informe al Ayuntamiento del ejercicio de la administración dentro de los primeros quince días del mes de diciembre de cada año, en la fecha que se fije con la oportunidad necesaria, la que se hará saber a las autoridades estatales y a los ciudadanos en general;
-
-IX. Comunicar al Ayuntamiento cuando pretenda ausentarse del Municipio por más de setenta y dos horas, y hasta por quince días consecutivos. Cuando la ausencia exceda de este término, debe solicitar la autorización correspondiente al Ayuntamiento;
-
-X. Pasar diariamente al funcionario encargado de la Hacienda Municipal, en forma directa o a través del servidor público que prevean los reglamentos, noticia detallada de las multas que impusiere y vigilar que en ningún caso, omita esa dependencia expedir recibo de los pagos que se efectúen;
 
 IX. Comunicar al Ayuntamiento cuando pretenda ausentarse del Municipio por más de setenta y dos horas, y hasta por quince días consecutivos. Cuando la ausencia exceda de este término, debe solicitar la autorización correspondiente al Ayuntamiento;
 
@@ -821,13 +1017,27 @@ X. Pasar diariamente al funcionario encargado de la Hacienda Municipal, en forma
 
 XI. Vigilar que el destino y monto de los caudales municipales se ajusten a los presupuestos de egresos y de la correcta recaudación, custodia y administración de los impuestos, derechos, productos, aprovechamientos, participaciones y demás ingresos propios del Municipio, así como ejercer la facultad económico coactiva para hacer efectivos los créditos fiscales, por conducto de las dependencias municipales correspondientes;
 
-> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-XII. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y
+XII. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación;
 
-> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-XIII. Las demás que establezcan las Constituciones federal, estatal y demás leyes y reglamentos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+XIII. EJECUTAR Y HACER QUE SE EJECUTEN LOS ORDENAMIENTOS MUNICIPALES; Y
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+XIV. LAS DEMÁS QUE ESTABLEZCAN LAS NORMAS CONSTITUCIONALES, LEGALES Y REGLAMENTARIAS.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+EL PRESIDENTE MUNICIPAL DEBE ESTAR ATENTO A LAS LABORES QUE REALIZAN LOS DEMÁS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, DEBIENDO DAR CUENTA AL AYUNTAMIENTO CUANDO LA GRAVEDAD DEL CASO LO AMERITE, DE LAS FALTAS U OMISIONES QUE ADVIERTA. CON RESPECTO A LA GARANTÍA DE AUDIENCIA, DEBE IMPONER A LOS SERVIDORES PÚBLICOS MUNICIPALES, LAS CORRECCIONES DISCIPLINARIAS QUE FIJEN LAS LEYES Y REGLAMENTOS, CON MOTIVO DE LAS FALTAS Y RESPONSABILIDADES ADMINISTRATIVAS EN QUE INCURRAN EN EL DESEMPEÑO DE SUS FUNCIONES.
 
 ###### Artículo 48.
 
@@ -841,7 +1051,11 @@ III. Nombrar y remover a los servidores públicos municipales cuya designación 
 
 IV. Coordinar todas las labores de los servicios públicos del Municipio, así como las actividades de los particulares que revistan interés público;
 
-V. Proponer al Ayuntamiento los nombramientos de los funcionarios encargados de la Secretaria del Ayuntamiento y de la Hacienda Municipal. La propuesta que presente el Presidente Municipal debe ser sometida a la aprobación del Ayuntamiento dentro de un término de tres días improrrogables. Si éste rechaza la propuesta, el Presidente Municipal debe presentar una terna de candidatos para cada puesto, de los cuales se hará la designación por el Ayuntamiento dentro de los tres días siguientes. Transcurrido este plazo sin que dicho cuerpo colegiado haga la elección o niegue la aprobación de los candidatos, el Presidente puede expedir inmediatamente el nombramiento en favor de cualesquiera de los que hubiesen formado parte de las ternas correspondientes; y
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+V. PROPONER AL ÓRGANO DE GOBIERNO, EN LA PRIMERA SESIÓN DE AYUNTAMIENTO LOS NOMBRAMIENTOS DE LOS FUNCIONARIOS ENCARGADOS DE LA SECRETARIA DEL AYUNTAMIENTO Y DE LA HACIENDA MUNICIPAL, ASÍ COMO DEL TITULAR DEL ÓRGANO DE CONTROL INTERNO CUANDO ASÍ LO CONTEMPLEN LOS REGLAMENTOS MUNICIPALES. SI EL AYUNTAMIENTO RECHAZA LA PROPUESTA, EL PRESIDENTE MUNICIPAL DEBE PRESENTAR UNA TERNA DE CANDIDATOS PARA CADA PUESTO, DE LOS CUALES SE HACE LA DESIGNACIÓN POR EL AYUNTAMIENTO DENTRO DE LOS TRES DÍAS SIGUIENTES. TRANSCURRIDO ESTE PLAZO SIN QUE DICHO CUERPO COLEGIADO HAGA LA ELECCIÓN O NIEGUE LA APROBACIÓN DE LOS CANDIDATOS, EL PRESIDENTE PUEDE EXPEDIR INMEDIATAMENTE EL NOMBRAMIENTO EN FAVOR DE CUALESQUIERA DE LOS QUE HUBIESEN FORMADO PARTE DE LAS TERNAS CORRESPONDIENTES; Y
 
 VI. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
 
@@ -851,25 +1065,33 @@ VI. Las demás que establezcan las Constituciones Federal, Estatal y demás leye
 
 Son obligaciones de los Regidores:
 
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
 I. Asistir puntualmente a las sesiones del Ayuntamiento y dar cuenta en las mismas de los asuntos que correspondan a sus comisiones;
 
-II. Acordar con el Presidente Municipal los asuntos especiales que se les hubiesen encomendado y los correspondientes a sus comisiones;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+II. Acordar con el Presidente Municipal los asuntos especiales que se les hubiesen encomendado;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+III. Asistir a las reuniones de las comisiones edilicias y cumplir con el trabajo encomendado en ellas;
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
-III. Asistir a las reuniones de las Comisiones y cumplir con el trabajo encomendado en éstas;
+IV. Acatar en todo momento las decisiones del Ayuntamiento; y (sic)
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-IV. Acatar en todo momento las decisiones del Ayuntamiento; y
+V. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y (sic)
 
-> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
 
-V. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y
+VI. Informar a la sociedad de sus actividades, a través de la forma y mecanismos que establezcan los ordenamientos municipales; y
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2007)</small>
 
-VI. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
+VII. Las demás que establezcan las constituciones federal, estatal y demás leyes y reglamentos.
 
 ###### Artículo 50.
 
@@ -893,13 +1115,59 @@ VI. Tomar parte en las discusiones que se originen en las sesiones del Ayuntamie
 
 VII. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 51.
 
-La falta de asistencia de los regidores a las sesiones debe tener causa justificada a juicio del Ayuntamiento, por lo que se le debe notificar a éste con anticipación, para que en la sesión se apruebe o se rechace su inasistencia.
+La falta de asistencia de los ediles a las sesiones debe tener causa justificada a juicio del Ayuntamiento, por lo que se le debe notificar a éste con anticipación, para que en la sesión se apruebe o se rechace su inasistencia.
 
-La inasistencia sin causa justificada será objeto de amonestación por parte del Presidente Municipal.
+La inasistencia sin causa justificada será objeto de amonestación por parte del Ayuntamiento.
 
-Si persisten las faltas injustificadas se debe estar a lo dispuesto por esta ley.
+Si persisten las faltas injustificadas los munícipes incurren en responsabilidad, por lo que se debe estar a lo dispuesto por las leyes y reglamentos aplicables.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/juridica/engroses/cerrados/289/07000190.009.doc).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+Artículo 51 bis. Los munícipes pueden organizarse en fracciones edilicias, a efecto de garantizar la libre expresión de las corrientes ideológicas en los ayuntamientos, de conformidad con lo establecido en la reglamentación de la materia.
+
+Sólo puede existir una fracción por partido político con representación en cada Ayuntamiento.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/juridica/engroses/cerrados/289/07000190.009.doc).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+Artículo 51 ter. (sic)
+
+Al renovarse los Ayuntamientos, acorde a los procedimientos que establezca la reglamentación de la materia, cada fracción edilicia debe entregar al servidor público encargado de la Secretaría la siguiente documentación:
+
+I. El acta en la que conste la decisión de sus miembros de constituirse en fracción edilicia, así como el nombre y firma de sus integrantes;
+
+II. El acta en donde consten las normas acordadas por los miembros de la fracción para su funcionamiento interno, según dispongan los estatutos de cada partido político en el que militen; y
+
+III. El acta en la que conste el nombre del edil que haya sido designado o electo, conforme a los estatutos de cada Partido Político, como coordinador de la fracción y los nombres de los munícipes que desempeñen otras actividades directivas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+Artículo 51 quater. (sic)
+
+Los coordinadores son los munícipes que expresan la voluntad de la fracción edilicia a la que pertenecen, promueven los entendimientos necesarios para el adecuado trámite y resolución de los asuntos municipales, integran el órgano de coordinación que en su caso, desarrollen los reglamentos municipales y como representantes de sus fracciones, participan en los consejos y organismos previstos en los reglamentos municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+Artículo 51 quinquies. (sic)
+
+El órgano de coordinación a que se refiere el artículo anterior es plural y colegiado; en él se impulsan entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios a fin de alcanzar acuerdo que coadyuven para que el Ayuntamiento adopte las decisiones que constitucional y legalmente le corresponden.
+
+Dicho órgano se integra con los coordinadores de cada fracción edilicia, con presencia en el Ayuntamiento
+
+Preside este órgano el Coordinador de la fracción edilicia que cuente con el mayor número de ediles
+
+El órgano de coordinación adopta sus acuerdos de carácter interno por mayoría absoluta mediante el sistema de voto ponderado, en el cual los respectivos munícipes representan tantos votos como integrantes tenga su fracción edilicia.
+
+El órgano de coordinación a que se refiere esta ley en ningún caso pueden asumir las atribuciones que de conformidad al marco jurídico aplicables corresponden al Ayuntamiento, a los ediles en lo particular o a las comisiones edilicias.
 
 ### CAPITULO IV. De los Jueces Municipales
 
@@ -913,13 +1181,11 @@ II. Representar al Municipio en los contratos que celebre y en todo acto en que 
 
 III. Representar al Municipio en todas las controversias o litigios en que éste sea parte, sin perjuicio de la facultad que tiene el Ayuntamiento para designar apoderados o procuradores especiales;
 
-IV. Revisar la situación de los rezagos fiscales para que estos sean liquidados y cobrados;
+IV. (DEROGADA, P.O. 5 DE ENERO DE 2007)
 
-V. Cuidar que la recaudación de los impuestos y la aplicación de los gastos se hagan cumpliendo los requisitos legales y conforme a la Ley de Ingresos y al presupuesto respectivo;
+V. (DEROGADA, P.O. 5 DE ENERO DE 2007)
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
-
-VI. Conocer de las condonaciones o reducciones de créditos fiscales que realicen el Presidente Municipal y el funcionario encargado de la Hacienda Municipal;
+VI. (DEROGADA, P.O. 5 DE ENERO DE 2007)
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -941,17 +1207,29 @@ III. Solicitar se cite a sesiones ordinarias y extraordinarias al Ayuntamiento;
 
 IV. Asistir a las visitas de inspección que se hagan a la oficina encargada de la Hacienda Municipal;
 
-V. Intervenir en la formulación y actualización de los inventarios de bienes del Municipio, procurando que se establezcan los registros administrativos necesarios para su control y vigilancia;
+V. (DEROGADA, P.O. 5 DE ENERO DE 2007)
 
-VI. Participar en las comisiones cuando se trate de resoluciones o dictámenes que afecten a todo el Municipio; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-VII. Las demás que establezcan las Constituciones Federal, Estatal, y demás leyes y reglamentos.
+VI. Integrar las comisiones edilicias en los términos de las disposiciones reglamentarias aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+
+VII. Informar a la sociedad de sus actividades, a través de la forma y mecanismos que establezcan los ordenamientos municipales; y
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+VIII. Las demás que establezcan las Constituciones Federal, Estatal y demás disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 54.
 
 El Síndico se debe apoyar en los servidores públicos municipales necesarios para cumplir su función, conforme al presupuesto de egresos y a los reglamentos que al efecto se expidan.
 
 ### CAPITULO V. De los Servidores Públicos Auxiliares del Ayuntamiento
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/juridica/engroses/cerrados/289/07000190.009.doc).
+
+(REFORMADO, P.O. 5 DE ENERO DE 2007) (F. DE E., P.O. 1 DE MARZO DE 2007)
 
 ###### Artículo 55.
 
@@ -999,9 +1277,21 @@ Las faltas temporales de los jueces municipales hasta por dos meses, serán cubi
 
 ### CAPITULO UNICO. Del Modo de Suplir las Faltas
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 60.
 
-Para el despacho de los asuntos administrativos y para auxiliar en sus funciones al Ayuntamiento, en cada Municipio se pueden crear, mediante ordenamiento municipal, las dependencias y oficinas que se consideren necesarias, atendiendo a las posibilidades económicas y a las necesidades de cada municipio, así como establecer las obligaciones y facultades de los servidores públicos municipales.
+Para el despacho de los asuntos administrativos y para auxiliar en sus funciones al ayuntamiento, en cada Municipio se pueden crear, mediante ordenamiento municipal, las dependencias y entidades que se consideren necesarias, mismas que integran la administración centralizada y paramunicipal, respectivamente, atendiendo a las posibilidades económicas y a las necesidades de cada municipio.
+
+> <small>(F. DE E., P.O. 1 DE MARZO DE 2007)</small>
+
+Los ordenamientos municipales deben regular las atribuciones de las dependencias y entidades que integran la administración pública municipal en sus dos vertientes, así como establecer las obligaciones y facultades de los servidores públicos municipales.
+
+> <small>(F. DE E., P.O. 1 DE MARZO DE 2007)</small>
+
+Los organismos públicos descentralizados y las empresas de participación municipal mayoritaria, así como los contratos de fideicomiso público, todos denominados entidades, se crean de conformidad con lo establecido en los ordenamientos municipales y en las disposiciones legales, federales y estatales, aplicables a la materia.
 
 ###### Artículo 61.
 
@@ -1015,7 +1305,11 @@ I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y político
 
 II. No haber sido condenado por delitos dolosos;
 
-III. No tener parentesco por consanguinidad ni por afinidad con alguno de los miembros del Ayuntamiento;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+III. NO SER PARIENTE CONSANGUÍNEO EN LÍNEA RECTA, COLATERAL NI POR AFINIDAD HASTA EL CUARTO GRADO DE ALGÚN MIEMBRO DEL AYUNTAMIENTO; Y
 
 IV. Tener la siguiente escolaridad:
 
@@ -1053,7 +1347,11 @@ a) En los municipios en los que el Ayuntamiento esté integrado hasta por catorc
 
 b) En los municipios en que el Ayuntamiento esté integrado por más de catorce regidores, se requiere tener título profesional preferentemente en las áreas económico administrativas y acreditar experiencia o conocimientos en la materia;
 
-IV. No tener parentesco por consanguinidad ni por afinidad con alguno de los miembros del Ayuntamiento;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+IV. NO SER PARIENTE CONSANGUÍNEO EN LÍNEA RECTA, COLATERAL NI POR AFINIDAD HASTA EL CUARTO GRADO DE ALGÚN MIEMBRO DEL AYUNTAMIENTO;
 
 V. Otorgar las garantías que le señale el Ayuntamiento para responder del ejercicio de sus funciones; y
 
@@ -1067,11 +1365,17 @@ El funcionario encargado de la Hacienda Municipal es responsable ante el Ayuntam
 
 Compete al funcionario encargado de la Hacienda Municipal:
 
-I. Verificar por sí mismo o por medio de sus subalternos, la recaudación de las contribuciones municipales, así como cuidar de la puntualidad de los cobros, de la exactitud de las liquidaciones, de la prontitud en el despacho de los asuntos de su competencia y del buen orden y debida comprobación de las cuentas de ingresos y de egresos;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-II. Enviar al Organo Fiscalizador, las cuentas detalladas de los movimientos de fondos, en los términos del (sic) la fracción III del artículo 37, de esta Ley y notificar por escrito al Congreso del Estado que se ha cumplido con esta disposición;
+I. VERIFICAR POR SÍ MISMO O POR MEDIO DE SUS SUBALTERNOS, LA RECAUDACIÓN DE LAS CONTRIBUCIONES MUNICIPALES, ASÍ COMO CUIDAR DE LA PUNTUALIDAD DE LOS COBROS, DE LA EXACTITUD DE LAS LIQUIDACIONES, DE LA PRONTITUD EN EL DESPACHO DE LOS ASUNTOS DE SU COMPETENCIA Y DEL BUEN ORDEN Y DEBIDA COMPROBACIÓN DE LAS CUENTAS DE INGRESOS Y DE EGRESOS;
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+II. ENVIAR AL CONGRESO DEL ESTADO, A TRAVÉS DE SU ÓRGANO DE FISCALIZACIÓN, LAS CUENTAS DETALLADAS DE LOS MOVIMIENTOS DE FONDOS, EN LOS TÉRMINOS DE LA FRACCIÓN III DEL ARTÍCULO 37, DE ESTA LEY Y NOTIFICAR POR ESCRITO AL CONGRESO DEL ESTADO QUE SE HA CUMPLIDO CON ESTA DISPOSICIÓN;
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
 
@@ -1085,15 +1389,21 @@ IV. Las demás que señale esta Ley, otras leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
-###### Artículo 68.
+###### ARTÍCULO 68.
 
-Las faltas temporales del Presidente Municipal, hasta por dos meses, deben ser suplidas por el Regidor que para tal efecto sea designado por el Ayuntamiento.
+LAS FALTAS TEMPORALES DEL PRESIDENTE MUNICIPAL, HASTA POR DOS MESES, DEBEN SER SUPLIDAS POR EL REGIDOR QUE PARA TAL EFECTO SEA DESIGNADO POR EL AYUNTAMIENTO, EL CUAL, ASUME LAS ATRIBUCIONES QUE ESTABLEZCAN LOS REGLAMENTOS MUNICIPALES O QUE, EN SU DEFECTO, DETERMINE EL ÓRGANO DE GOBIERNO.
 
 El Ayuntamiento debe reglamentar quién suplirá las ausencias menores a setenta y dos horas del Presidente Municipal, para efectos de la toma de decisiones administrativas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+De igual forma, el órgano de gobierno municipal debe designar por mayoría absoluta de votos, al munícipe de debe conducir las sesiones del Ayuntamiento en las que el Presidente Municipal no pueda asistir por motivo de compromisos oficiales o urgentes que requieran de su presencia por causas de fuerza mayor. En estos casos, el edil designado por el Ayuntamiento tiene facultades únicamente para conducir la sesión pero no suple al Presidente Municipal para la toma de decisiones ejecutivas, ni para el ejercicio del voto de calidad.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 69.
 
-Las faltas del Presidente Municipal, por licencia de más de dos meses, deben ser cubiertas con el nombramiento de un Presidente Interino, hecho por el Ayuntamiento de entre sus miembros en funciones, a mayoría absoluta de votos.
+Las faltas del Presidente Municipal, por licencia de más de dos meses, deben ser cubiertas con el nombramiento de un Presidente Interino, hecho por el Ayuntamiento de entre sus miembros en funciones, con excepción del Síndico, a mayoría absoluta de votos.
 
 ###### Artículo 70.
 
@@ -1101,15 +1411,27 @@ El Ayuntamiento debe proceder a nombrar de entre sus miembros en funciones, por 
 
 I. Por falta absoluta o interdicción definitiva, legalmente declarada, del Presidente Municipal; y
 
-II. Por privación del cargo, en los casos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+II. Por privación del cargo, en los casos previstos en la ley estatal en materia de responsabilidades de los servidores públicos.
 
 ###### Artículo 71.
 
 Antes de efectuar la elección de Presidente Municipal Substituto se debe llamar al regidor suplente de la planilla registrada. Una vez completo el Ayuntamiento se debe efectuar la elección del Presidente Municipal Substituto.
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 72.
 
-Las faltas definitivas y temporales de un munícipe propietario, en caso de licencia por más de dos meses o por cualquiera otra causa, se suplen conforme a lo dispuesto por la ley estatal en materia electoral.
+Las faltas definitivas y temporales de regidores y síndicos en funciones, con excepción de lo previsto en este ordenamiento, se suplen conforme a lo dispuesto por la ley estatal en materia electoral.
+
+En ningún caso, los ediles a los que se conceda licencia temporal o definitiva, pueden desempeñar cargo o comisión alguna en el Municipio en que fueron electos.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+artículo 73. (derogado, p.o. 5 de enero de 2007)
 
 ###### Artículo 73.
 
@@ -1161,7 +1483,11 @@ V. La mención del costo, por la administración de esas contribuciones y la for
 
 VI. La mención de los documentos que deben incorporarse al convenio.
 
-Los convenios deben ser suscritos por el Ayuntamiento representado por el Presidente Municipal, el Síndico, el Regidor que presida la Comisión de Hacienda y el funcionario encargado de la Hacienda Municipal.
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+LOS CONVENIOS DEBEN SER SUSCRITOS POR EL AYUNTAMIENTO REPRESENTADO POR EL PRESIDENTE MUNICIPAL, EL SÍNDICO, Y EL FUNCIONARIO ENCARGADO DE LA HACIENDA MUNICIPAL.
 
 ###### Artículo 78.
 
@@ -1177,7 +1503,17 @@ El Congreso del Estado debe aprobar las leyes de Ingresos de los municipios y re
 
 I. Los Ayuntamientos deben elaborar y aprobar sus presupuestos de egresos, a más tardar, el día 15 de diciembre del año anterior al en que deben regir, considerando su actividad económica preponderante, la extensión de su territorio, las actividades prioritarias de sus habitantes, la amplitud de sus servicios públicos, la forma de distribución de la población, la prioridad de la obra pública y sus endeudamientos;
 
-Los recursos que integran la hacienda municipal deben ser ejercidos en forma directa por los Ayuntamientos, o bien, por quienes ellos autoricen en sus reglamentos;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I, PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+EN CASO DE QUE PARA EL DÍA 15 DE DICIEMBRE NO SEA APROBADO EL PRESUPUESTO DE EGRESOS CORRESPONDIENTE, SE APLICA EL EJERCIDO EL AÑO INMEDIATO ANTERIOR, INCLUYENDO SUS MODIFICACIONES.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I, PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 5 DE ENERO DE 2007)</small>
+
+LOS RECURSOS QUE INTEGRAN LA HACIENDA MUNICIPAL DEBEN SER EJERCIDOS EN FORMA DIRECTA POR LOS AYUNTAMIENTOS, O BIEN, POR QUIENES ELLOS AUTORICEN EN SUS REGLAMENTOS;
 
 II. Los presupuestos de egresos de los municipios, deben contener:
 
@@ -1187,39 +1523,51 @@ a) La información detallada de la situación hacendaria del Municipio durante e
 
 b) La estimación de los ingresos que se estimen recaudar, para el próximo ejercicio fiscal;
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
-c) Las previsiones de egresos en relación a cada ramo para el sostenimiento de las actividades oficiales, obras o servicios públicos, en el siguiente ejercicio fiscal;
+c) Las previsiones de egresos en relación a cada capítulo, concepto, partida y programa, para el sostenimiento de las actividades oficiales, obras o servicios públicos, en el siguiente ejercicio fiscal;
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 d) Las plantillas de personal en las que se especifiquen los empleos públicos del municipio y se señale el total de las percepciones económicas a que tenga derecho cada uno de los servidores públicos municipales, sin que se realice la incorporación, bajo ninguna circunstancia, de bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración que deben recibir legalmente los servidores públicos, cualquiera que sea su denominación, para efectos de la fiscalización de la cuenta pública; y
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II, INCISO E), DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-e) Los informes financieros y datos estadísticos que se estimen convenientes para la mejor determinación de la política hacendaria y del programa de gobierno y administración pública municipal; y
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+E) LOS INFORMES FINANCIEROS Y DATOS ESTADÍSTICOS QUE SE ESTIMEN CONVENIENTES PARA LA MEJOR DETERMINACIÓN DE LA POLÍTICA HACENDARIA Y DEL PROGRAMA DE GOBIERNO; Y
 
 III. Las previsiones de egresos se deben clasificar conforme a su naturaleza de acuerdo con las siguientes bases:
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 a) Grupos fundamentales de autorización:
 
-1. Gastos de administración;
+1. Servicios Personales;
 
-2. Construcciones y prestación de servicios públicos;
+2. Materiales y Suministros;
 
-3. Adquisiciones;
+3. Servicios Generales;
 
-4. Inversiones;
+4. Subsidios y Subvenciones;
 
-5. Cancelaciones de pasivo; y
+5. Bienes Muebles e Inmuebles;
 
-6. Erogaciones especiales;
+6. Obras Públicas;
+
+7. Erogaciones Diversas; y
+
+8. Deuda Pública.
 
 b) Los capítulos respectivos se dividen en conceptos, o sea, en grupos de autorización de naturaleza semejante;
 
-c) Los conceptos se dividen a su vez en partidas que representen las autorizaciones orgánicas del presupuesto.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
-Si alguna de las asignaciones vigentes en el presupuesto de egresos resultan insuficientes para cubrir las necesidades que originen las funciones encomendadas al gobierno y administración pública municipal, el Ayuntamiento puede decretar las ampliaciones necesarias previa justificación que de éstas se haga.
+c) Los conceptos se dividen a su vez en partidas que representen en forma específica el gasto público.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+Si alguna de las asignaciones vigentes en el presupuesto de egresos resulta insuficiente para cubrir las necesidades que originen las funciones encomendadas a la administración pública municipal, el Ayuntamiento puede decretar las ampliaciones necesarias previa justificación que de éstas se haga.
 
 Si en el curso del ejercicio se observa que determinadas partidas tienen una asignación mayor de la que sea suficiente para la atención de las necesidades a que ellas se refieren hasta fin de año, en tanto que otras partidas acusen notorias deficiencias, en tal caso, el Presidente Municipal puede acordar, previa autorización del Ayuntamiento, que se hagan las transferencias, reducciones, cancelaciones o adiciones que se estimen necesarias en las partidas del presupuesto de egresos aprobado en la mejor forma posible.
 
@@ -1229,11 +1577,15 @@ Estas modificaciones se deben hacer en forma compensatoria, de tal manera que no
 
 Para los efectos del inciso d) de la fracción II del presente artículo, los Ayuntamientos deben recibir, estudiar y analizar las recomendaciones que sobre percepción salarial emita el Comité Técnico de Transparencia y Valoración Salarial, así mismo deben responder al mismo en el término de treinta días hábiles, contados a partir de que reciban la notificación oficial de las mismas, fundando, motivando su posición ante las mismas, procediendo de conformidad con la ley estatal en materia de servidores públicos.
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 80.
 
 La oficina encargada de la Hacienda Municipal no debe hacer ningún pago sin la orden expresa del Presidente Municipal, que debe autorizar el servidor público encargado de la Secretaría del Ayuntamiento.
 
-Unicamente el Presidente Municipal está autorizado a condonar multas, pudiendo delegar esta facultad en otro servidor público en la forma en que señalen los reglamentos. Igualmente, dicho servidor público queda facultado para autorizar al funcionario encargado de la Hacienda Municipal a que firme convenios tendientes al pago a plazos de créditos fiscales, cuando de exigirse el pago total de los mismos se causare la insolvencia del deudor, previo estudio del caso. Los plazos mencionados nunca podrán exceder de seis meses, y debe asegurarse siempre el interés fiscal.
+Únicamente el Presidente Municipal está autorizado a condonar multas, así como a autorizar al funcionario encargado de la Hacienda Municipal a que firme convenios tendientes al pago a plazos de créditos fiscales, cuando de exigirse el pago total de los mismos se causare la insolvencia del deudor, previo estudio del caso. Los plazos mencionados nunca podrán exceder de seis meses, y debe asegurarse siempre el interés fiscal. Las atribuciones que establece este párrafo podrán ser delegadas por el Presidente Municipal, en los términos de lo dispuesto por los reglamentos respectivos.
 
 ###### Artículo 81.
 
@@ -1321,13 +1673,29 @@ Sobre los bienes de dominio privado de los municipios se pueden celebrar y ejecu
 
 Cuando se trate de actos de transmisión de dominio de los bienes del dominio privado de los municipios, se deben observar los requisitos siguientes:
 
-I. Se debe justificar que la enajenación responde a la ejecución de un programa cuyo objetivo sea la satisfacción de un servicio público, pago de deuda o cualquier otro fin que busque el interés general;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/)
 
-II. En el caso de venta, realizar un avalúo por perito autorizado, para determinar el precio mínimo de venta; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+I. JUSTIFICAR QUE LA ENAJENACIÓN RESPONDE A LA EJECUCIÓN DE UN PROGRAMA CUYO OBJETIVO SEA LA SATISFACCIÓN DE UN SERVICIO PÚBLICO, PAGO DE DEUDA O CUALQUIER OTRO FIN QUE BUSQUE EL INTERÉS GENERAL;
 
-III. Que la enajenación se haga en subasta pública al mejor postor, salvo que por las circunstancias que rodeen al acto, el Ayuntamiento decida por mayoría calificada cualquier otro procedimiento de enajenación.
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/)
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+II. REALIZAR, EN EL CASO DE VENTA, UN AVALÚO POR PERITO AUTORIZADO, PARA DETERMINAR EL PRECIO MÍNIMO DE VENTA; Y
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/)
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+III. REALIZAR LA ENAJENACIÓN MEDIANTE SUBASTA PÚBLICA AL MEJOR POSTOR, SALVO QUE POR LAS CIRCUNSTANCIAS QUE RODEEN AL ACTO, EL AYUNTAMIENTO DECIDA POR MAYORÍA CALIFICADA CUALQUIER OTRO PROCEDIMIENTO DE ENAJENACIÓN.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/)
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+EN EL CASO DE CALLES, AVENIDAS, PASEOS Y CUALQUIER OTRA VIALIDAD PÚBLICA, SE DEBE CUMPLIR CON LO DISPUESTO EN LAS NORMAS Y PLANES EN MATERIA DE DESARROLLO URBANO Y CON LOS REQUISITOS PREVISTOS EN LA LEGISLACIÓN SUSTANTIVA CIVIL DEL ESTADO.
 
 ###### Artículo 89.
 
@@ -1369,6 +1737,18 @@ Los municipios deben preservar los predios, fincas y espacios públicos en condi
 
 Toda persona puede denunciar ante el Ayuntamiento la ocupación irregular de predios, fincas y espacios destinados a fines públicos o al uso común.
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+LOS AYUNTAMIENTOS DEBEN ASEGURAR Y GARANTIZAR QUE LOS BIENES DE USO COMÚN A QUE SE REFIERE LA PRESENTE LEY SEAN USADOS LIBRE Y GRATUITAMENTE POR TODOS LOS HABITANTES DE SUS MUNICIPIOS, CON LAS RESTRICCIONES ESTABLECIDAS POR LAS DISPOSICIONES LEGALES Y REGLAMENTARIAS APLICABLES O DERIVADAS DE LOS ACTOS ADMINISTRATIVOS AUTORIZADOS POR LAS AUTORIDADES COMPETENTES.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+Artículo 93 bis. Los Ayuntamientos deben regular, en sus respectivos ordenamientos municipales, la adquisición de bienes y servicios, cumpliendo con lo dispuesto en esta ley y estableciendo para tal efecto la licitación pública y demás procedimientos aplicables, así como sus fases, requisitos y dependencias o entidades participantes.
+
 ## TITULO SEXTO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
 ### CAPITULO II. De la Seguridad Pública
@@ -1399,15 +1779,21 @@ X. Centros deportivos municipales;
 
 XI. Centros culturales municipales; y
 
-XI. Los demás que el Congreso del Estado determine en atención a las condiciones territoriales y socioeconómicas de los Municipios, así como a su capacidad administrativa y financiera.
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+XII. LOS DEMÁS QUE EL CONGRESO DEL ESTADO DETERMINE EN ATENCIÓN A LAS CONDICIONES TERRITORIALES Y SOCIOECONÓMICAS DE LOS MUNICIPIOS, ASÍ COMO A SU CAPACIDAD ADMINISTRATIVA Y FINANCIERA.
 
 Los Municipios deben expedir los ordenamientos municipales que regulen la prestación de estos servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-###### Artículo 95.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
 
-Cuando a juicio de los Ayuntamientos sea necesario, pueden solicitar al Poder Ejecutivo del Estado la celebración de convenios, para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de la ejecución y operación de obras y la prestación de servicios públicos.
+###### ARTÍCULO 95.
+
+CUANDO A JUICIO DE LOS AYUNTAMIENTOS SEA NECESARIO, PUEDEN SOLICITAR AL PODER EJECUTIVO DEL ESTADO LA CELEBRACIÓN DE CONVENIOS, PARA QUE ÉSTE, DE MANERA DIRECTA O A TRAVÉS DEL ORGANISMO CORRESPONDIENTE, SE HAGA CARGO EN FORMA TEMPORAL DE LA EJECUCIÓN Y OPERACIÓN DE OBRAS Y LA PRESTACIÓN DE SERVICIOS PÚBLICOS.
 
 Los convenios a que se refiere el párrafo anterior deben reunir los siguientes requisitos:
 
@@ -1449,9 +1835,17 @@ El Poder Ejecutivo del Estado debe asumir una función o un servicio público mu
 
 Para que el Congreso del Estado conozca de estos asuntos se requiere:
 
-I. Solicitud al Congreso del Estado, por parte del Ayuntamiento, firmada por el Presidente Municipal y el encargado de la Secretaría del Ayuntamiento, acompañada de copia certificada del acta de la sesión en la que consta la aprobación por mayoría calificada de sus integrantes, para que el Poder Ejecutivo del Estado asuma una función o un servicio público municipal; y
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-II. Que el Ayuntamiento demuestre haber solicitado al Poder Ejecutivo del Estado que se hiciera cargo, por vía de convenio, de una función o servicio público municipal y éste no hubiera contestado en el plazo de cuarenta y cinco días o lo hubiera negado expresamente.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+I. LA SOLICITUD AL CONGRESO DEL ESTADO, POR PARTE DEL AYUNTAMIENTO, FIRMADA POR EL PRESIDENTE MUNICIPAL Y EL ENCARGADO DE LA SECRETARÍA DEL AYUNTAMIENTO, ACOMPAÑADA DE COPIA CERTIFICADA DEL ACTA DE LA SESIÓN EN LA QUE CONSTA LA APROBACIÓN POR MAYORÍA CALIFICADA DE SUS INTEGRANTES, PARA QUE EL PODER EJECUTIVO DEL ESTADO ASUMA UNA FUNCIÓN O UN SERVICIO PÚBLICO MUNICIPAL; Y
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+II. LA CONSTANCIA MEDIANTE LA CUAL, EL AYUNTAMIENTO DEMUESTRE HABER SOLICITADO AL PODER EJECUTIVO DEL ESTADO QUE SE HICIERA CARGO, POR VÍA DE CONVENIO, DE UNA FUNCIÓN O SERVICIO PÚBLICO MUNICIPAL Y ÉSTE NO HUBIERA CONTESTADO EN EL PLAZO DE CUARENTA Y CINCO DÍAS O LO HUBIERA NEGADO EXPRESAMENTE.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
 
@@ -1489,11 +1883,19 @@ En todo caso, para asegurar la continuidad de los servicios y de las funciones p
 
 ### CAPITULO III. De la Concesión de Bienes y Servicios Públicos Municipales
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 101.
 
 En cada Municipio debe existir la policía preventiva municipal, bajo el mando del Presidente Municipal.
 
 La policía preventiva municipal debe acatar las órdenes que el Gobernador les transmita, sólo en los casos que éste juzgue de fuerza mayor o alteración grave del orden público.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 102.
 
@@ -1505,11 +1907,17 @@ Al frente de dicha policía debe estar un servidor público designado por el Pre
 
 ###### Artículo 103.
 
-Los bienes y servicios públicos municipales, con excepción de los servicios de seguridad pública y policía preventiva municipal, previa autorización del Ayuntamiento, pueden ser materia de concesión a particulares, sujetándose a lo establecido por esta ley, las cláusulas del contrato de concesión y demás leyes aplicables.
+Los bienes y servicios públicos municipales, con excepción de los servicios de seguridad pública y policía preventiva municipal, así como de los bienes inmuebles con valor histórico o cultural relevante en los términos de la ley de la materia, previa autorización del Ayuntamiento, pueden ser materia de concesión a particulares, sujetándose a lo establecido por esta ley, las cláusulas del contrato de concesión y demás leyes aplicables.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 104.
 
-Para la concesión de bienes y servicios públicos municipales, cuando el Ayuntamiento no los concesione a personas jurídicas con funciones de representación ciudadana y vecinal, debe emitir una convocatoria suscrita por el Presidente Municipal y el funcionario encargado de la Secretaría del Ayuntamiento, que debe publicarse en la Gaceta Municipal o en el medio oficial de divulgación previsto por el reglamento aplicable, además de la publicidad que el Ayuntamiento considere conveniente.
+Para la concesión de bienes y servicios públicos municipales, el Ayuntamiento debe emitir una convocatoria suscrita por el Presidente Municipal y el funcionario encargado de la Secretaría del Ayuntamiento, que debe publicarse en la Gaceta Municipal o en el medio oficial de divulgación previsto por el reglamento aplicable, además de la publicidad que el Ayuntamiento considere conveniente.
+
+El Ayuntamiento, acorde a la naturaleza del bien o servicio, puede utilizar un mecanismo distinto a la convocatoria pública, siempre y cuando la decisión se encuentre fundada y motivada y sea aprobada por el Ayuntamiento por mayoría absoluta.
 
 ###### Artículo 105.
 
@@ -1539,13 +1947,19 @@ I. Determinar con precisión el bien o servicio materia de la concesión y los b
 
 II. Señalar las medidas que deba tomar el concesionario para asegurar el buen funcionamiento y continuidad del servicio, así como las sanciones que le serán impuestas, en el caso de incumplimiento;
 
-III. Determinar el régimen especial al que deba someterse la concesión y el concesionario, fijando el término de la duración de la concesión, las causas de caducidad o pérdida anticipada de la misma, la forma de vigilar el Ayuntamiento, la prestación del servicio, y el pago de los impuestos y prestaciones que se causen.
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-El titular de la concesión puede solicitar antes de su vencimiento, la prórroga correspondiente respecto de la cual tendrá preferencia sobre cualquier otro solicitante;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+III. DETERMINAR EL RÉGIMEN ESPECIAL AL QUE DEBA SOMETERSE LA CONCESIÓN Y EL CONCESIONARIO, FIJANDO EL TÉRMINO DE LA DURACIÓN DE LA CONCESIÓN, LAS CAUSAS DE CADUCIDAD O PÉRDIDA ANTICIPADA DE LA MISMA, LA FORMA DE VIGILAR EL AYUNTAMIENTO, LA PRESTACIÓN DEL SERVICIO, Y EL PAGO DE LOS IMPUESTOS Y PRESTACIONES QUE SE CAUSEN. EL TITULAR DE LA CONCESIÓN PUEDE SOLICITAR ANTES DE SU VENCIMIENTO, LA PRÓRROGA CORRESPONDIENTE RESPECTO DE LA CUAL TENDRÁ PREFERENCIA SOBRE CUALQUIER OTRO SOLICITANTE;
 
 IV. Fijar las condiciones bajo las cuales los usuarios pueden utilizar los bienes y servicios;
 
-V. Determinar las tarifas, forma de modificarlas y las contraprestaciones que deba cubrir el beneficiario;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+V. ESTABLECER QUE LAS TARIFAS SON AQUELLAS QUE PARA CADA EJERCICIO FISCAL ESTABLEZCA LA LEY DE INGRESOS RESPECTIVA, ASÍ COMO LAS CONTRAPRESTACIONES QUE DEBA CUBRIR EL BENEFICIARIO;
 
 VI. Establecer, en su caso, cuándo se ha de solicitar la expropiación por causa de utilidad pública, o de imponer restricciones a la propiedad privada, en los términos de la Constitución Política del Estado y de la ley de la materia; y
 
@@ -1649,9 +2063,13 @@ En la declaratoria de rescate se deben establecer las bases generales que sirvan
 
 Si el afectado está conforme con el monto de la indemnización, la cantidad que se señale por este concepto tiene carácter definitivo. Si no está conforme, el importe de la indemnización se determina por la autoridad judicial a petición del interesado.
 
-###### Artículo 119.
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-El Ayuntamiento debe fijar anualmente, las tarifas o precios de los servicios públicos municipales concesionados, y publicarlos en la Gaceta Municipal o en el medio oficial de comunicación del Municipio previsto por el reglamento aplicable.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO 119.
+
+EL CONGRESO DEL ESTADO DEBE FIJAR ANUALMENTE LAS TARIFAS O PRECIOS DE LOS SERVICIOS PÚBLICOS MUNICIPALES CONCESIONADOS A TRAVÉS DE LAS LEYES DE INGRESOS CORRESPONDIENTES.
 
 Si para el primero de enero de cada año, no se ha hecho la publicación de precios o tarifas, se debe proceder de la siguiente forma:
 
@@ -1662,6 +2080,10 @@ II. Si ya han venido operando bajo precio o tarifa, éstos se prorrogarán por e
 ## TITULO SEPTIMO. DE LA ORGANIZACION Y PARTICIPACION CIUDADANA Y VECINAL
 
 ### CAPITULO UNICO. De los Comités de Planeación para el Desarrollo Municipal
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 120.
 
@@ -1675,11 +2097,25 @@ I. Solamente pueden formar parte los habitantes y los propietarios de predios y 
 
 II. Las personas jurídicas que tengan funciones de representación ciudadana y vecinal deben respetar el derecho individual de sus miembros de pertenecer a cualquier partido político o asociación religiosa y por tanto, los miembros deben participar en las actividades de su asociación, sin distinción de raza, nacionalidad, ideas sociales, políticas, ideológicas, culturales o religiosas;
 
-III. Corresponde al Ayuntamiento establecer los límites de la colonia, barrio, zona o centro de población que constituyan el ámbito territorial donde las formas de organización ciudadana y vecinal ejercen sus atribuciones;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-IV. No pueden ser propuestos como miembros de las directivas, personas que sean integrantes del ayuntamiento o que desempeñen cargos en la administración pública municipal; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-V. Los conflictos que se presenten entre los vecinos y las personas jurídicas que los representen, entre los integrantes de éstas y las directivas, así como entre las diversas personas jurídicas con funciones de representación ciudadana y vecinal, serán resueltos mediante arbitraje de la dependencia municipal designada para coordinar las relaciones del Municipio con las personas jurídicas que señala este título. En caso de persistir el conflicto, debe resolver el Ayuntamiento conforme a la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+III. CORRESPONDE AL AYUNTAMIENTO ESTABLECER LOS LÍMITES DE LA COLONIA, BARRIO, ZONA O CENTRO DE POBLACIÓN QUE CONSTITUYAN EL ÁMBITO TERRITORIAL DONDE LAS FORMAS DE ORGANIZACIÓN CIUDADANA Y VECINAL EJERCEN SUS ATRIBUCIONES, ESCUCHANDO LA OPINIÓN DE LOS VECINOS EN LOS TÉRMINOS DE LA REGLAMENTACIÓN DE LA MATERIA;
+
+IV. No pueden ser propuestos como miembros de las directivas, personas que sean integrantes del ayuntamiento o que desempeñen cargos en la administración pública municipal; y (sic)
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+
+V. LAS PERSONAS JURÍDICAS QUE TENGAN FUNCIONES DE REPRESENTACIÓN CIUDADANA Y VECINAL DEBEN PROMOVER LA CONSERVACIÓN Y MEJORAMIENTO DEL MEDIO AMBIENTE, CON EL FIN DE PROPICIAR UNA MEJOR CALIDAD DE VIDA DE LOS HABITANTES DE SU ZONA, BARRIO O COLONIA; Y
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+VI. LOS CONFLICTOS QUE SE PRESENTEN ENTRE LOS VECINOS Y LAS PERSONAS JURÍDICAS QUE LOS REPRESENTEN, ENTRE LOS INTEGRANTES DE ÉSTAS Y LAS DIRECTIVAS, ASÍ COMO ENTRE LAS DIVERSAS PERSONAS JURÍDICAS CON FUNCIONES DE REPRESENTACIÓN CIUDADANA Y VECINAL, SERÁN RESUELTOS MEDIANTE ARBITRAJE DE LA DEPENDENCIA MUNICIPAL DESIGNADA PARA COORDINAR LAS RELACIONES DEL MUNICIPIO CON LAS PERSONAS JURÍDICAS QUE SEÑALA ESTE TÍTULO. EN CASO DE PERSISTIR EL CONFLICTO, DEBE RESOLVER EL AYUNTAMIENTO CONFORME A LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
 
 ###### Artículo 122.
 
@@ -1705,55 +2141,89 @@ V. Las demás que les confiere esta ley, los reglamentos municipales respectivos
 
 ### CAPITULO I. De los Servidores Públicos Municipales
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 124.
 
 Para los efectos de la presente ley, los comités de planeación para el desarrollo municipal se consideran como organismos auxiliares de los Ayuntamientos, en la planeación y programación del desarrollo municipal.
 
+Cada ayuntamiento determina si estos comités forman parte de la administración pública municipal o funcionan exclusivamente como órganos ciudadanos de consulta.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 125.
 
-Los comités de planeación para el desarrollo municipal están integrados por representantes de los sectores público, privado y social, presididos por el Presidente Municipal y tendrán las atribuciones que establezca la Ley de Planeación para el Estado de Jalisco y sus Municipios.
+Los comités de planeación para el desarrollo municipal están integrados por representantes de los sectores público, privado y social del Municipio, son presididos por el Presidente Municipal y cuentan con las atribuciones que establezca la ley estatal en materia de planeación y los reglamentos aplicables.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 126.
 
-La forma de integración, organización y funcionamiento de los comités de planeación para el desarrollo municipal será establecida por la Ley de Planeación para el Estado de Jalisco y sus Municipios.
+La forma de integración, organización y funcionamiento de los comités de planeación para el desarrollo municipal se regula en los reglamentos municipales, atendiendo además, a lo dispuesto por la ley estatal en materia de planeación.
 
 ## TITULO NOVENO. DE LAS RELACIONES DEL MUNICIPIO CON SUS SERVIDORES Y DE LA SEGURIDAD SOCIAL
 
 ### CAPITULO II. De las Sanciones Administrativas
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 127.
 
-Los servidores públicos del Municipio se dividen en servidores públicos de base y servidores públicos de confianza, de acuerdo con las funciones que desempeñen según la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+Los servidores públicos del Municipio se dividen de conformidad con la naturaleza de su encargo y a las funciones que desempeñen, atendiendo a lo dispuesto por la ley estatal que regula a los servidores públicos.
 
-###### Artículo 128.
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Las relaciones laborales entre el Municipio y sus servidores públicos se rigen por la Ley para los Servidores Públicos del Estado de Jalisco y de sus Municipios y por los reglamentos interiores de trabajo que expidan los Ayuntamientos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO 128.
+
+LAS RELACIONES LABORALES ENTRE EL MUNICIPIO Y SUS SERVIDORES PÚBLICOS SE RIGEN POR LA LEY ESTATAL DE LA MATERIA Y POR LOS REGLAMENTOS INTERIORES DE TRABAJO QUE EXPIDAN LOS AYUNTAMIENTOS.
 
 Los integrantes de los cuerpos policiales, se rigen por sus leyes y reglamentos respectivos.
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 129.
 
-Cada servidor público es directamente responsable de su actuación ante el titular de la dependencia municipal en que labore.
+Cada servidor público es directamente responsable de su actuación ante el titular de la dependencia o entidad municipal en que labore.
 
 ### CAPITULO III. De la Seguridad Social
 
 ###### Artículo 130.
 
-Incurren en responsabilidad administrativa los servidores públicos que infrinjan las obligaciones establecidas en el Título Quinto, Capítulo I, de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y sus Municipios.
+Incurren en responsabilidad administrativa los servidores públicos que infrinjan las obligaciones establecidas en las leyes y reglamentos de la materia.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 131.
 
-Los presidentes municipales, o los presidentes de los concejos, para el buen funcionamiento de la administración pública municipal y por incumplimiento de las obligaciones a que se refiere el artículo anterior, pueden imponer las siguientes sanciones:
+Los presidentes municipales, o los presidentes de los consejos, para el buen funcionamiento de la administración pública municipal y por incumplimiento de las obligaciones a que se refiere el artículo anterior, pueden imponer las siguientes sanciones a los servidores públicos que integran la administración pública municipal:
 
 I. Amonestación por escrito;
 
 II. Suspensión en el empleo, cargo o comisión, hasta por treinta días;
 
-III. Destitución; y
+III. Destitución;
 
-IV. Destitución con inhabilitación, hasta por seis años, para desempeñar empleos, cargos o comisiones en el servicio público.
+IV. Destitución con inhabilitación, hasta por seis años, para desempeñar empleos, cargos o comisiones en el servicio público; y
 
-Los propios Presidentes Municipales pueden autorizar a los jefes de las dependencias municipales, para aplicar la primera de las sanciones señaladas. La sanción prevista en la fracción IV, se aplicará, conforme lo dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+V. Las demás que para tal efecto establezcan las leyes de la materia.
+
+Los propios Presidentes Municipales pueden autorizar a los jefes de las dependencias municipales, para aplicar la primera de las sanciones señaladas. La sanción prevista en la fracción IV, se aplicará, conforme lo dispone la ley estatal en materia de responsabilidades de los servidores públicos.
+
+Cuando un edil incurra en responsabilidad administrativa, será sancionado por el Ayuntamiento, de conformidad al procedimiento establecido en la legislación estatal aplicable, así como a lo dispuesto por los reglamentos de la materia.
 
 ###### Artículo 132.
 
@@ -1761,19 +2231,49 @@ Para la aplicación de las sanciones establecidas en este capítulo, con excepci
 
 I. Conocida una irregularidad, se debe solicitar informe al servidor público presunto responsable de la misma, haciéndole llegar, en su caso, copia de la denuncia o acta administrativa, así como de la documentación en que se funden, concediéndole un término de cinco días hábiles para que produzca por escrito, su contestación, y ofrezca pruebas;
 
-II. Transcurrido el término mencionado en la fracción que antecede, se debe señalar día y hora para la celebración de una audiencia, en la que se desahogarán las pruebas ofrecidas y se expresarán los alegatos, citándose al denunciante y servidor público para la resolución, que debe ser pronunciada, dentro de los quince días hábiles siguientes;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-III. La resolución que se dicte debe notificarse al encausado, así como al denunciante, dentro de los tres días hábiles siguientes a aquel en que se pronuncie. Cuando no se cuente con elementos suficientes para resolver, o se descubran algunos que impliquen nueva responsabilidad a cargo del denunciado, o de otras personas, y hasta antes de la citación para pronunciar resolución, puede ordenarse la práctica de diligencias para mejor proveer, así como el emplazamiento de los servidores públicos involucrados; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-IV. De todas las diligencias que se practiquen, se debe levantar acta circunstanciada, que deben suscribir quienes en ella intervengan. En caso de negativa, se debe asentar tal circunstancia, sin que esto afecte su valor probatorio.
+II. EL TÉRMINO MENCIONADO EN LA FRACCIÓN QUE ANTECEDE, UNA VEZ TRANSCURRIDO, SE CORRE TRASLADO INMEDIATAMENTE AL DENUNCIANTE DEL INFORME RENDIDO POR EL SERVIDOR PÚBLICO ASÍ COMO DE LAS PRUEBAS OFERTADAS, PARA SEÑALAR EL DÍA Y HORA PARA LA CELEBRACIÓN DE UNA AUDIENCIA, EN LA QUE SE DESAHOGAN LAS PRUEBAS OFRECIDAS Y SE EXPRESAN LOS ALEGATOS, CITÁNDOSE AL DENUNCIANTE Y SERVIDOR PÚBLICO PARA LA RESOLUCIÓN, QUE DEBE SER PRONUNCIADA, DENTRO DE LOS QUINCE DÍAS HÁBILES SIGUIENTES;
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+III. LA RESOLUCIÓN QUE SE DICTE DEBE NOTIFICARSE AL ENCAUSADO, ASÍ COMO AL DENUNCIANTE, DENTRO DE LOS TRES DÍAS HÁBILES SIGUIENTES A AQUEL EN QUE SE PRONUNCIE. CUANDO NO SE CUENTE CON ELEMENTOS SUFICIENTES PARA RESOLVER, O SE DESCUBRAN ALGUNOS QUE IMPLIQUEN NUEVA RESPONSABILIDAD A CARGO DEL DENUNCIADO, O DE OTRAS PERSONAS, Y HASTA ANTES DE LA CITACIÓN PARA PRONUNCIAR RESOLUCIÓN, PUEDE ORDENARSE LA PRÁCTICA DE DILIGENCIAS PARA MEJOR PROVEER, ASÍ COMO EL EMPLAZAMIENTO DE LOS SERVIDORES PÚBLICOS INVOLUCRADOS, DE CUYAS CIRCUNSTANCIAS SE NOTIFICA OPORTUNAMENTE AL DENUNCIANTE A EFECTO DE QUE ESTE EMITA LAS OBSERVACIONES QUE JUZGUE CONVENIENTES; Y
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+
+IV. EL DENUNCIANTE DEBE SER INFORMADO CON OPORTUNIDAD DE TODAS LAS DILIGENCIAS QUE SE PRACTIQUEN, ASÍ COMO DE SUS RESULTADOS, DEBIÉNDOSE LEVANTAR ACTA CIRCUNSTANCIADA, QUE DEBEN SUSCRIBIR QUIENES EN ELLA INTERVENGAN. EN CASO DE NEGATIVA, SE DEBE ASENTAR TAL CIRCUNSTANCIA, SIN QUE ESTO AFECTE SU VALOR PROBATORIO.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+Artículo 132 bis. El denunciante puede coadyuvar con la autoridad que practique la auditoria, aportándosele las pruebas, documentación e información que estime pertinentes. Dicha dependencia debe manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
 
 ###### Artículo 133.
 
 Las resoluciones por las que se impongan las sanciones administrativas previstas en las fracciones II, III y IV, del artículo 131, de esta ley, pueden ser impugnadas por el servidor público, ante el Tribunal de Arbitraje y Escalafón, sin perjuicio de otros medios de defensa con que cuente el servidor público.
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+
+Artículo 133 bis. Si en la resolución se declara la inexistencia de responsabilidad, esta puede ser impugnada por el denunciante por escrito mediante recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación, o ante las autoridades jurisdiccionales competentes.
+
+El recurso de revisión se presenta con expresión de agravios acompañado de la constancia de notificación y se interpone directamente ante la autoridad que emitió la resolución impugnada, quien en su caso, acordará su admisión, turnando la instancia al superior jerárquico para su resolución definitiva dentro de los treinta días hábiles siguientes a aquel en que se les haya turnado el recurso.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 134.
 
-En todo lo no previsto en este capítulo, se debe estar a lo que al efecto dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+En todo lo no previsto en este capítulo, se debe estar a lo establecido en la ley estatal en materia de responsabilidades de los servidores públicos.
 
 ### CAPITULO I. De los Medios de Apremio
 
@@ -1781,9 +2281,13 @@ En todo lo no previsto en este capítulo, se debe estar a lo que al efecto dispo
 
 La seguridad social tiene por finalidad garantizar el derecho a la salud; la asistencia médica; la protección de los medios de subsistencia, y los servicios sociales necesarios para el bienestar individual y colectivo.
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 136.
 
-El Ayuntamiento, esta obligado a la prestación de los servicios de seguridad social para sus servidores públicos, pudiendo a ese efecto celebrar convenios con dependencias y organismos federales, estatales o privados dedicados a la realización de la seguridad social.
+El Ayuntamiento, está obligado a la prestación de los servicios de seguridad social para sus servidores públicos, pudiendo a ese efecto celebrar convenios con dependencias y entidades federales, estatales o con organismos privadas (sic) dedicados a la realización de la seguridad social.
 
 ## TITULO DECIMO. MEDIOS DE APREMIO, RESPONSABILIDADES Y DE LA DECLARACION DE SITUACION PATRIMONIAL
 
@@ -1815,23 +2319,35 @@ La Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios e
 
 ### CAPITULO III. DE LA DECLARACION DE SITUACION PATRIMONIAL
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 141.
 
 Para los efectos de las responsabilidades a que alude este capítulo, se consideran como servidores públicos municipales a los miembros del Ayuntamiento o del Concejo Municipal en su caso, y en general a toda persona que desempeñe un cargo o comisión, de cualquier naturaleza en la administración pública municipal, así como a quienes presten servicios en los organismos públicos descentralizados municipales, órganos derivados de contratos de fideicomiso público y empresas de participación municipal mayoritaria, quienes son responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones, pudiendo en consecuencia proceder en su contra la autoridad respectiva.
 
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 142.
 
-La acción para exigir dichas responsabilidades puede ejercitarse, durante el desempeño del cargo y dentro de los plazos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+La acción para exigir dichas responsabilidades puede ejercitarse, durante el desempeño del cargo y dentro de los plazos establecidos en la ley estatal en materia de responsabilidades de los servidores públicos.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 143.
 
-Cuando algún miembro del Ayuntamiento comete un delito del orden común no puede ser procesado, sino previo el cumplimiento de los requisitos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, a través del procedimiento establecido al respecto en dicha ley.
+Cuando algún miembro del Ayuntamiento comete un delito del orden común no puede ser procesado, sino previo el cumplimiento de los requisitos establecidos en la ley estatal en materia de responsabilidades de los servidores públicos, a través del procedimiento establecido al respecto en dicha ley.
 
-En los juicios del orden civil, ningún servidor público, ni funcionario municipal goza de fuero o inmunidad.
+En los juicios del orden civil, ningún servidor público municipal goza de fuero o inmunidad.
 
-###### Artículo 144.
+###### ARTÍCULO 144.
 
-Tienen obligación de presentar declaración de situación patrimonial ante el Ayuntamiento:
+TIENEN OBLIGACIÓN DE PRESENTAR DECLARACIÓN DE SITUACIÓN PATRIMONIAL ANTE EL AYUNTAMIENTO, A TRAVÉS DEL ÓRGANO O DEPENDENCIA QUE DETERMINEN LOS REGLAMENTOS MUNICIPALES:
 
 I. El Presidente Municipal;
 
@@ -1841,15 +2357,31 @@ III. El Síndico;
 
 IV. El Servidor Público encargado de la secretaría del Ayuntamiento;
 
-V. El funcionario encargado de la Hacienda Municipal;
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
-VI. Los demás servidores públicos municipales señalados para tal efecto por la ley estatal en materia de responsabilidades o los reglamentos municipales.
+V. EL FUNCIONARIO ENCARGADO DE LA HACIENDA MUNICIPAL;
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+
+VI. EL TITULAR DEL ÓRGANO DE CONTROL INTERNO, CUANDO LOS REGLAMENTOS MUNICIPALES CONTEMPLEN DICHA FIGURA;
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2001)</small>
+
+VII. LOS DEMÁS SERVIDORES PÚBLICOS MUNICIPALES SEÑALADOS PARA TAL EFECTO POR LA LEY ESTATAL EN MATERIA DE RESPONSABILIDADES O LOS REGLAMENTOS MUNICIPALES.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 145.
 
-La declaración de situación patrimonial debe presentarse en los plazos y términos que al efecto señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+La declaración de situación patrimonial debe presentarse en los plazos y términos que al efecto señala la ley estatal en materia de responsabilidades de los servidores públicos.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
@@ -1857,21 +2389,11 @@ La declaración de situación patrimonial debe presentarse en los plazos y térm
 
 En caso de incumplimiento de las obligaciones consignadas en los artículos de este capítulo, el Ayuntamiento debe exhortar al omiso para que, en un término de quince días, cumpla con su obligación. Si transcurrido dicho término no cumple, se debe determinar su destitución en el empleo, cargo o comisión.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
 ###### Artículo 147.
 
-Para efectos de registro y control, el Ayuntamiento debe remitir al órgano competente del Congreso del Estado, las declaraciones de situación patrimonial que le sean presentadas.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2001)</small>
-
-Al renovarse los Ayuntamientos, éstos deben remitir un padrón de servidores públicos municipales obligados a presentar declaración patrimonial.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2001)</small>
-
-Los Ayuntamientos deben informar al Congreso del Estado de cualquier movimiento en el citado padrón, dentro de los quince días siguientes a que se efectúe el movimiento.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2001)</small>
-
-Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, en los términos de la ley estatal en materia de responsabilidades de los servidores públicos.
+Para efectos de registro y control, el Ayuntamiento debe remitir al órgano competente del Congreso del Estado, las declaraciones de situación patrimonial que le sean presentadas, en un plazo de diez días hábiles a partir de su recepción.
 
 T R A N S I T O R I O S
 
@@ -2037,7 +2559,7 @@ La designación del Consejo Municipal deberá hacerse en Sesión Ordinaria del C
 
 Quinto.- Los miembros del Concejo Municipal de Capilla de Guadalupe rendirán protesta el día 1º de enero de 2006, en sesión solemne de Ayuntamiento que se realizará en la cabecera municipal denominada Capilla de Guadalupe, ante la representación del Congreso, con la presencia del ciudadano Gobernador Constitucional del Estado y del Presidente del Supremo Tribunal de Justicia.
 
-El Concejo Municipal iniciará sus funciones el día 1º de enero del año 2006. A partir de la instalación, el Delegado Municipal de Capilla de Guadalupe cesará en sus funciones, mientras que los demás delegados y agentes municipales que funcionen dentro de la circunscripción del nuevo municipio continuarán en su cargo hasta su ratificación o remoción justificada por parte del propio Concejo.
+El Concejo Municipal iniciará sus funciones el día 1º de enero del año 2006. A partir de la instalación, el Delegado Municipal de Capilla de Guadalupe cesará en sus funciones, mientras que los demás delegados y agentes municipales que funcionen dentro de la circunscripción del nuevo municipio continuarán en su cargo hasta su ratificación o remoción justificada por parte del propio Conc ejo.
 
 Sexto. En su primera sesión ordinaria el Concejo Municipal de Capilla de Guadalupe deberá nombrar al servidor público encargado de la Secretaría del Ayuntamiento y al funcionario encargado de la Hacienda Municipal.
 
@@ -2074,3 +2596,13 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007
 SEGUNDO.- Las autoridades obligadas deberán emitir las disposiciones reglamentarias correspondientes, con anterioridad a la entrada en vigor del presente Decreto.
 
 TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto relativas a la Ley del Registro Público de la Propiedad del Estado de Jalisco, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE ENERO DE 2007.
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL TRANSITORIO PRIMERO INDICADO CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+primero. el presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "el estado de jalisco".
+
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL TRANSITORIO SEGUNDO INDICADO CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+segundo. se derogan todas las disposiciones legales que se opongan al presente decreto.
