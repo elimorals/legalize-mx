@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-justicia-para-menores-para-el-estado-de-queretaro-51857"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-15"
-last_updated: "2006-09-15"
+last_updated: "2007-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE JUSTICIA PARA MENORES PARA EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 15 de septiembre de 2006.
 
@@ -1485,15 +1485,25 @@ La interposición del recurso de reclamación suspenderá la aplicación de la r
 
 ## TRANSITORIOS
 
-PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
-SEGUNDO. Se abroga la Ley para el Tratamiento de Menores Infractores para el Estado, publicado en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga" el 16 de diciembre de 1993.
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
 
-TERCERO. Los órganos y autoridades que se establecen en la presente Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
-CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
+SEGUNDO. La Ley para el Tratamiento de Menores Infractores para el Estado, publicado el 16 de diciembre de 1993, en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga", quedará abrogada a partir del 30 de abril de 2007.
 
-QUINTO. Las autoridades y organismos que participan en el Sistema Integral de Justicia para Menores, están obligados a aplicar lo dispuesto por la presente Ley, en la medida de los recursos humanos y materiales con que cuenten. No obstante lo anterior, tendrán un plazo de ocho meses, contados a partir del inicio de la vigencia de la Ley, a efecto de implementar lo necesario para la total aplicación de la misma.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+TERCERO. Los órganos y autoridades establecidos en esta Ley, iniciarán su pleno funcionamiento, a más tardar el día 1 de mayo de 2007.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie. El Consejo de Menores Infractores continuará conociendo de los asuntos de justicia de menores, hasta en tanto inicien su funcionamiento los juzgados especializados en la materia
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+
+QUINTO. Las autoridades y organismos que participan en el Sistema Integral de Justicia para menores, están obligados a aplicar lo dispuesto por la presente Ley, en la medida de los recursos humanos y materiales con que cuenten. No obstante lo anterior, tendrán un plazo de doce meses, contados a partir del inicio de la vigencia de la Ley, a efecto de implementar lo necesario para la total aplicación de la misma.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -1532,3 +1542,9 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE ENERO DE 2007.
+
+ÚNICO. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
