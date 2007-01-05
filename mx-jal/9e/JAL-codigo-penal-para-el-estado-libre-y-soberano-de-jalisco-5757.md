@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2006-12-28"
+last_updated: "2007-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1573,7 +1573,7 @@ Cuando la revelación punible sea hecha por cualquier servidor público que pres
 
 ### CAPITULO V. Falsedad en declaraciones y en informes dados a una autoridad
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ### CAPITULO VI. Variación del nombre o del domicilio
 
@@ -2133,13 +2133,11 @@ Para que sea punible el delito a que se refiere el artículo anterior, se necesi
 
 Comete el delito de falsedad en declaraciones:
 
-I. Quien al declarar o informar ante cualquier autoridad en ejercicio de sus funciones o con motivo de ellas, faltare dolosamente a la verdad en relación con los hechos que motivan la intervención de la autoridad, será sancionado con pena de uno a cinco años de prisión y multa por el importe de cien a trescientos días de salario mínimo;
+I. Quien al declarar o informar ante cualquier autoridad en ejercicio de sus funciones o con motivo de ellas, faltare dolosamente a la verdad en relación con los hechos que motivan la intervención de una autoridad, será sancionado con pena de uno a cinco años de prisión y multa por el importe de cien a trescientos días de salario mínimo.
 
-II. A quien con el propósito de exculpar a alguien indebidamente en un proceso penal, simule pruebas o declare falsamente en calidad de testigo ante cualquier autoridad, se aplicará la pena de dos meses a dos años de prisión y multa por el importe de dos a ocho días de salario;
+II. A quien con el propósito de exculpar a alguien indebidamente en un proceso penal, simule pruebas o declare falsamente en calidad de testigo ante cualquier autoridad, se aplicará la pena de dos meses a dos años de prisión y multa por el importe de dos a ocho días de salario; y
 
 III. Al que examinado como perito por cualquier autoridad, en el ejercicio de sus funciones, faltare dolosamente a la verdad en su dictamen, se le impondrán de dos a seis años de prisión y multa por el importe de cien a trescientos días de salario mínimo.
-
-Cuando por motivo de la falsa información proporcionada a las autoridades Estatales o Municipales, éstas realicen acciones u operativos para atender una emergencia falsa y con motivo de estos se ocasionen accidentes o perjuicios de cualquier índole, se le aplicará al responsable la sanción señalada en la fracción primera de este artículo y tendrá que cubrir la reparación del daño causado al Gobierno Estatal o Municipal.
 
 ### CAPITULO VI. Privación ilegal de la libertad y de otros derechos
 
@@ -2481,9 +2479,9 @@ III. Que retenga o se apodere de un cadáver, sin la anuencia de los deudos del 
 
 Si la retención del cadáver ocurre en un hospital particular, la pena que se aplique al responsable será de seis meses a tres años de prisión y multa por el importe de cuatro a ochenta días de salario.
 
-### CAPITULO VI. Administración Fraudulenta
+### CAPITULO VI. Delitos contra el Desarrollo Urbano
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Art. 187.
 
@@ -2495,7 +2493,9 @@ II. Que profane un cadáver o restos humanos con actos de vilipendio, obscenidad
 
 ## TITULO DECIMO OCTAVO. ENCUBRIMIENTO Y ADQUISICION ILEGITIMA DE BIENES MATERIALES DE UN DELITO
 
-### CAPITULO VII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
+### CAPITULO VII. Administración Fraudulenta
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 188.
 
@@ -2511,7 +2511,7 @@ Si cumple la amenaza, se le impondrán además las penas que procedan por los de
 
 A quien, una vez consumado un secuestro, sin ser partícipe del mismo, de modo persistente y mediante cualquier acción, amenace a la víctima, a sus familiares o representantes, para que no colaboren con las autoridades competentes, se le impondrá de seis meses a tres años de prisión y multa por el importe de trescientos a seiscientos días de salario.
 
-### CAPITULO VIII. Usura
+### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
 
 ###### Art. 189.
 
@@ -2535,7 +2535,7 @@ Al agente del Ministerio Público, de la Policía Investigadora o de las policí
 
 Si se aplica la violencia en la detención, la pena se aumentará de uno a tres años de prisión.
 
-### CAPITULO IX. Daños en las cosas
+### CAPITULO IX. Usura
 
 ###### Art. 190.
 
@@ -2543,9 +2543,7 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-### CAPITULO X. Daño al patrimonio urbano
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+### CAPITULO X. Daños en las cosas
 
 ###### Art. 191.
 
@@ -2553,7 +2551,9 @@ Se impondrán de seis meses a dos años de prisión al que, sin motivo justifica
 
 Si en el allanamiento media la furtividad, el engaño o la violencia, la pena aplicable será de uno a tres años de prisión.
 
-### CAPITULO XI. Despojo de inmuebles y aguas
+### CAPITULO XI. Daño al patrimonio urbano
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 192.
 
@@ -2561,9 +2561,7 @@ Se impondrán de uno a ocho años de prisión y multa por el importe de cinco a 
 
 Las sanciones a que se refiere este artículo se impondrán independientemente de las penas que procedan por los demás delitos que resulten.
 
-### CAPITULO XII. Del pillaje
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+### CAPITULO XII. Despojo de inmuebles y aguas
 
 ###### Art. 193.
 
@@ -2575,7 +2573,9 @@ II. Al que obligue a otro a prestar trabajos o servicios personales, ya sea empl
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 1999)</small>
 
-### CAPITULO I. Encubrimiento
+### CAPITULO XIII. Del pillaje
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 194.
 
@@ -2727,9 +2727,7 @@ V. Efectúe el cambio de moneda nacional por divisas, sabiendo que es con el pro
 
 VI. Intimide a la víctima, a sus familiares hasta el segundo grado o a sus representantes o gestores durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
-### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+### CAPITULO I. Encubrimiento
 
 ###### Art. 195.
 
@@ -2747,15 +2745,15 @@ Cuando el raptor se case con la ofendida, no se procederá contra él ni contra 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO I. De las Definiciones
+### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 197.
 
 Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o multa por el importe de cinco a veinte días de salario mínimo, al que públicamente diere a otro, fuera de riña, una bofetada, o cualquier otro golpe simple que no cause lesiones, si no lo hiciere en ejercicio del derecho de corrección.
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO I. De las Definiciones
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2763,7 +2761,7 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 Se impondrán de diez a cincuenta jornadas de trabajo a favor de la comunidad o multa por el importe de cinco a veinte días de salario, al que por medio de cualquier expresión o acción, causare alguna ofensa grave a alguien.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2781,7 +2779,7 @@ II. Si el imputado fuera una persona que haya obrado con carácter público y la
 
 III. Si el hecho imputado está declarado cierto por sentencia irrevocable y el inculpado obre por un interés legítimo sin ánimo de dañar.
 
-### CAPITULO IV. Delitos Cometidos por Representantes de Partido
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2799,11 +2797,11 @@ Aunque se acredite la inocencia del calumniado, o que son falsos los hechos en q
 
 Tampoco se aplicará sanción alguna al autor de una denuncia, queja o acusación, si los hechos que en ella se imputan son ciertos, aunque no constituyan un delito y él, errónea o falsamente, les haya atribuido ese carácter.
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO IV. Delitos Cometidos por Representantes de Partido
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2835,7 +2833,9 @@ Lo prevenido en esta fracción no comprende el caso en que la imputación sea ca
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
+### CAPITULO VI. Disposiciones Comunes
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 205.
 
@@ -2852,6 +2852,8 @@ Cuando por el número de disparos o la prolongación del ataque grave haya base 
 ###### Art. 205 Bis.
 
 Se impondrá una pena de tres meses a tres años de prisión y de veinte a cien jornadas de trabajo a favor de la comunidad, a quien agreda a un menor de edad causándole, alteración en la salud o integridad física, ya sea con o sin objeto contundente o arma. Independientemente de las penas que correspondan en su caso, por otros delitos, aplicando al caso específico las reglas del concurso.
+
+### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
 
 ###### Art. 224.
 
@@ -3181,9 +3183,7 @@ II. El objeto del robo sea un libro, un expediente o algún documento de una ofi
 
 III. Se cometa aprovechando alguna relación de servidumbre, trabajo, hospedaje, hospitalidad, confianza, amistad o parentesco;
 
-IV. De seis a diez años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
-
-En todos los casos de robo para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por Perito; y
+IV. Se cometa en lugar cerrado o en edificio, vivienda, aposento o cuarto que estén destinados para habitación, comprendiéndose en esta denominación no solo los que estén fijos en la tierra, sino también movibles, sea cual fuere la materia de que estén construidos;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -3272,6 +3272,8 @@ II. De siete años seis meses a trece años de prisión y multa por el importe d
 III. De nueve a quince años de prisión y multa por el importe de cuarenta a ciento veinte días de salario, cuando el valor de lo robado exceda del monto de mil días de salario;
 
 IV. De seis a diez años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
+
+En todos los casos de robo para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por Perito; y
 
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 1998)</small>
 
@@ -3577,7 +3579,7 @@ XXIII. Al que suplantando al propietario de bienes o al titular de derechos de �
 
 Tratándose de bienes inmuebles, este delito se considera como grave y el procesado no tendrá derecho a la libertad provisional bajo caución.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Art. 253.
 
@@ -3592,6 +3594,10 @@ I. A quien sin tener derecho de propiedad, efectúe los ilícitos previstos en e
 II. Se impondrán de uno a tres años de prisión al que a sabiendas ordene cualquier tipo de publicidad ofreciendo lotes sobre predios de un fraccionamiento no autorizado; y
 
 III. Cuando al ofendido se le prive de la posesión, la reparación del daño consistirá, a su elección, en el pago del doble de las cantidades recibidas por el responsable, o el valor del inmueble con sus accesorios, según el avalúo bancario referido a la fecha en que sufrió la evicción.
+
+No cometerá delito previsto en el párrafo primero de este artículo el propietario de un terreno de hasta mil metros cuadrados que lo divida y enajene en no más de tres fracciones, siempre y cuando hayan transcurrido más de cinco años entre la fecha comprobada de adquisición y la de la división.
+
+(REUBICADO, P.O. 5 DE ENERO DE 2007)
 
 ###### Art. 254.
 
@@ -4418,3 +4424,17 @@ P.O. 15 DE AGOSTO DE 2006.
 P.O. 28 DE DICIEMBRE DE 2006.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE ENERO DE 2007.
+
+DECRETO NUMERO 21701/LVII/06
+
+ÚNICO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE ENERO DE 2007.
+
+DECRETO NUMERO 21697/LVII/06
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El reglamento correspondiente deberá ser adecuado en un término no mayor de 90 días posteriores a la publicación del presente decreto.
