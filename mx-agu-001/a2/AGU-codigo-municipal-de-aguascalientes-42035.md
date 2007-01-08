@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-42035"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-13"
-last_updated: "2006-10-16"
+last_updated: "2007-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de diciembre de 2004.
 
@@ -583,7 +583,9 @@ III. Seguridad Pública y Vialidad;
 
 IV. Desarrollo Humano;
 
-V. Desarrollo Económico y Turismo;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2007)</small>
+
+V. Desarrollo Económico, Turismo Y Asuntos Internacionales;
 
 VI. Planeación Urbana y Rural;
 
@@ -20344,3 +20346,7 @@ TERCERO.- El actual Director General de Seguridad Pública y Tránsito Municipal
 P.O. 16 DE OCTUBRE DE 2006.
 
 PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 2007.
+
+ÚNICO: La Presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
