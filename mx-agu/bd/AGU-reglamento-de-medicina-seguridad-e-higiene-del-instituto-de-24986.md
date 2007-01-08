@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-medicina-seguridad-e-higiene-del-instituto-de-249
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-10"
-last_updated: "2002-06-10"
+last_updated: "2007-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # REGLAMENTO DE MEDICINA, SEGURIDAD E HIGIENE DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO DE MEDICINA, SEGURIDAD E HIGIENE DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO DE MEDICINA, SEGURIDAD E HIGIENE DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE SEGURIDAD E HIGIENE DE LAS ENTIDADES INCORPORADAS AL REGIMEN DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLlCOS DEL ESTADO DE AGUASCALlENTES, PUBLICADO EN EL P.O. DE 8 DE ENERO DE 2007, SE DEROGAN LAS DISPOSICIONES RELATIVAS A SEGURIDAD E HIGIENE CONTENIDAS EN EL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2002.
 
@@ -267,3 +269,23 @@ Lic. Abelardo Reyes Sahagún.
 EL DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
 L.A. y E.C.F. Fernando Carrillo López.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE ENERO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Queda sin efecto cualquier circular de tipo administrativo emitida con anterioridad a la entrada en vigor de la presente normatividad que se oponga a las normas establecidas en este Reglamento.
+
+###### ARTICULO TERCERO.
+
+En un plazo no mayor a tres meses contados a partir de la vigencia del presente Reglamento deberá sesionar y quedar debidamente constituido el Consejo Técnico de Seguridad e Higiene.
+
+###### ARTICULO CUARTO.
+
+Se derogan las disposiciones relativas a Seguridad e Higiene contenidas en el Reglamento de Medicina Seguridad e Higiene del ISSSSPEA, publicado en el Periódico Oficial del Estado en fecha 10 de junio del 2002.
