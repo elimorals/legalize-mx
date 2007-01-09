@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-541-hacendario-para-el-municipio-de-boca-del-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-02-19"
-last_updated: "2006-12-07"
+last_updated: "2007-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RIO, ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2007.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 19 de febrero de 2003.
 
@@ -2429,47 +2429,45 @@ En el caso de que el servicio se preste en rebeldía del usuario, se notificará
 
 Los servicios de deslinde de predios tendrán como base la superficie del predio y se realizarán por peritos designados por el Ayuntamiento. Si practicado el deslinde resulta una diferencia en la superficie del predio, superior o inferior, sobre la que se utilizó como base para el pago de los derechos, se hará el ajuste correspondiente, procediendo al cobro o devolución, según el caso.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 9 DE ENERO DE 2007)</small>
+
 ### CAPÍTULO IV. DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE Y DRENAJE DEL MUNICIPIO
 
 ###### Artículo 212.
 
-Es objeto de los derechos a que se refiere este Capítulo la prestación de los servicios de distribución de agua potable, así como de conexión a los sistemas de drenaje y de distribución, realizada directamente por el Ayuntamiento.
+(DEROGADO, G.O. 9 DE ENERO DE 2007)
 
 ###### Artículo 213.
 
-Es sujeto de estos derechos el propietario o poseedor del predio que solicite su conexión al sistema de distribución de agua potable o de drenaje, así como quien, con un carácter distinto, haga uso de estos servicios.
-
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+(DEROGADO, G.O. 9 DE ENERO DE 2007)
 
 ###### Artículo 214.
 
-Por los servicios que preste directamente el Ayuntamiento, en términos de este capítulo, se causarán los derechos correspondientes, determinados y actualizados por el Cabildo, en acatamiento a las metodologías que al efecto expida el Consejo del Sistema Veracruzano del Agua y en términos de lo dispuesto por el Capítulo VI del Título Cuarto de la Ley de Aguas del Estado de Veracruz de Ignacio de la Llave.
+(DEROGADO, G.O. 9 DE ENERO DE 2007)
 
 ###### Artículo 215.
 
-El pago de los derechos previstos en este Capítulo se realizará sin perjuicio de cubrir las reparaciones necesarias al pavimento, cuyo costo será equivalente al de los materiales empleados y los de mano de obra, debiendo pagarse ambos conceptos antes de que se preste el servicio.
+(DEROGADO, G.O. 9 DE ENERO DE 2007)
 
 ###### Artículo 216.
 
-Los predios responderán preferentemente del pago de los derechos por el servicio de agua. En consecuencia, el Ayuntamiento tendrá acción real que podrá ejercitar contra el propietario o poseedor del inmueble.
+(DEROGADO, G.O. 9 DE ENERO DE 2007)
 
 ###### Artículo 217.
 
-Estarán exentos de pago de los derechos por servicio de agua potable los gobiernos Federal, Estatal y Municipal, cuando dicho servicio se preste en locales o edificios pertenecientes a los mismos, que estén destinados a servicios públicos.
+(DEROGADO, G.O. 9 DE ENERO DE 2007)
 
 ###### Artículo 218.
 
-Las instituciones que tengan derecho a gozar de exención de pago de la contribución por el servicio de agua deberán solicitarla al Ayuntamiento.
-
-Las mismas instituciones darán aviso al Ayuntamiento, en un plazo de diez días, cuando dejaren de existir las circunstancias que motivaron la exención para que, a partir de esa fecha, se cobre la contribución correspondiente.
+(DEROGADO, G.O. 9 DE ENERO DE 2007)
 
 ###### Artículo 219.
 
-Los Notarios y demás fedatarios públicos, salvo mandamiento judicial, no autorizarán los testimonios que contengan los actos traslativos de dominio de bienes inmuebles, cuando no se acredite estar al corriente en el pago de los derechos previstos en este Capítulo.
+(DEROGADO, G.O. 9 DE ENERO DE 2007)
 
 ###### Artículo 220.
 
-Las autoridades municipales no autorizarán el traspaso o traslado de un giro mercantil o industrial o el cambio de giro, mientras no se les acredite estar al corriente en el pago de derechos previstos en este Capítulo.
+(DEROGADO, G.O. 9 DE ENERO DE 2007)
 
 ### CAPÍTULO V. DE LOS DERECHOS POR EXPEDICIÓN DE CERTIFICADOS Y CONSTANCIAS
 
@@ -4739,7 +4737,7 @@ El Ayuntamiento, para recuperar los inmuebles como consecuencia de la rescisión
 
 PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, publicado en la Gaceta Oficial del Estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Boca del Río, Veracruz, a partir de la vigencia del presente Código.
+SEGUNDO.- (DEROGADO, G.O. 9 DE ENERO DE 2007)
 
 TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del Estado de Veracruz-Llave y a la Ley de Hacienda Municipal del Estado de Veracruz-Llave, abrogada y derogada, respectivamente, por el Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, así como a este último, se entenderán referidos al presente Código.
 
@@ -4791,6 +4789,10 @@ OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 G.O. 7 DE DICIEMBRE DE 2006.
 
-Primero. El presente decreto entrará en vigor al día siguiente de su publicació9n en la Gaceta Oficial del estado.
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 9 DE ENERO DE 2007.
+
+Único. Este Decreto entrará en vigor a los tres días siguiente de su publicación en la Gaceta Oficial del gobierno del estado.
