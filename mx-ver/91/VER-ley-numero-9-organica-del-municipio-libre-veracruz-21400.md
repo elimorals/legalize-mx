@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2007-01-03"
+last_updated: "2007-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1347,6 +1347,10 @@ Las entidades paramunicipales deberán informar al Ayuntamiento, por conducto de
 
 Al efecto, el Ayuntamiento designará miembros en los Órganos de Gobierno, Consejos de Administración, Comités Técnicos, o sus equivalentes, de las entidades paramunicipales.
 
+(ADICIONADO, G.O. 9 DE ENERO DE 2007) (F. DE E., G.O. 26 DE ENERO DE 2007)
+
+Se exceptúa lo señalado en este artículo cuando se trate de entidades paramunicipales creadas por dos o más ayuntamientos, en cuyo caso se estará a lo dispuesto en el instrumento de creación o en la legislación que regula el objeto de dicha entidad. Para el ingreso y egreso de recursos, así como para su vigilancia, control y evaluación, se sujetará al Código Hacendario Municipal del Estado de Veracruz de Ignacio de la Llave, aun cuando los ayuntamientos participantes tengan su propio Código Hacendario Municipal.
+
 ###### Artículo 78.
 
 Son organismos descentralizados las entidades creadas por acuerdo del Ayuntamiento, previa autorización del Congreso, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten y cuyo objeto sea:
@@ -1735,9 +1739,9 @@ Tratándose de convenios con otros municipios de la entidad, sólo se requerirá
 
 La Hacienda Municipal se formará por los bienes de dominio público municipal y por los que le pertenezcan, de conformidad con la legislación aplicable; así como por las aportaciones voluntarias, los impuestos, derechos, productos, aprovechamientos, participaciones, contribuciones, tasas adicionales que decrete el Estado sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, las que tengan por base el cambio de valor de los inmuebles y todos los demás ingresos fiscales que el Congreso del Estado establezca a su favor, en términos de las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2003)</small>
+(REFORMADO, G.O. 9 DE ENERO DE 2007) (F. DE E., G.O. 26 DE ENERO DE 2007)
 
-El presidente y el tesorero del Ayuntamiento serán directamente responsables de la administración de todos los recursos públicos municipales.
+El presidente, el síndico, el regidor de la Comisión de Hacienda y Patrimonio Municipal y el tesorero del Ayuntamiento serán directamente responsables de la administración de los recursos públicos municipales. Tratándose de entidades paramunicipales, lo será su titular y el del área de finanzas.
 
 ###### Artículo 105.
 
@@ -2674,3 +2678,7 @@ G.O. 3 DE ENERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 9 DE ENERO DE 2007.
+
+Único. Este Decreto entrará en vigor a los tres días de su publicación en la Gaceta Oficial del gobierno del estado.
