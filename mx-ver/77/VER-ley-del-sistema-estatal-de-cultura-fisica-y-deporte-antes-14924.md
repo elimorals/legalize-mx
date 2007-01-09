@@ -4,7 +4,7 @@ identifier: "VER-ley-del-sistema-estatal-de-cultura-fisica-y-deporte-antes-14924
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-12"
-last_updated: "2006-07-06"
+last_updated: "2007-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY DEL SISTEMA ESTATAL DE CULTURA FISICA Y DEPORTE -ANTES LEY DEL SISTEMA ESTATAL DE DEPORTE-
 
-LEY DEL SISTEMA ESTATAL DEL DEPORTE
+LEY DEL SISTEMA ESTATAL DE CULTURA FISICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 12 de agosto de 1999.
 
@@ -33,9 +33,9 @@ Miguel Alemán Velazco, Gobernador Constitucional del Estado Libre y Soberano de
 
 Que la Honorable Quincuagésima Octava Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 68 fracción I de la Constitución Política local; 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo expide la siguiente:
 
-LEY NÚMERO 36
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE ENERO DE 2007)</small>
 
-DEL SISTEMA ESTATAL DEL DEPORTE
+LEY DEL SISTEMA ESTATAL DE CULTURA FISICA Y DEPORTE
 
 ### CAPÍTULO I. Disposiciones generales
 
@@ -55,19 +55,25 @@ Los municipios podrán coordinarse dentro del Sistema en los términos de esta l
 
 Los sectores social y privado podrán participar en el Sistema conforme a lo previsto en este ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE ENERO DE 2007)</small>
+
 ###### Artículo 4.
 
-En el marco del Sistema Estatal del Deporte, el órgano competente, señalado en el artículo 6 de esta ley, tendrá las siguientes funciones:
+En el marco del Sistema Estatal del Deporte, el Instituto Veracruzano del Deporte, tendrá las siguientes funciones:
 
 I. Proponer, formular y ejecutar las políticas que orienten el fomento y desarrollo del deporte a nivel estatal;
 
-II. Establecer los procedimientos que se requieren para la mejor coordinación en materia deportiva, en la entidad en relación con el Ejecutivo federal, con otras entidades y con los gobiernos municipales;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+II. Establecer los procedimientos que se requieren para mejor coordinación en materia deportiva, en la entidad en relación con el Ejecutivo Federal, con otros estados, con gobiernos municipales, los sectores sociales y privados, así como celebrar convenios para la inversión en infraestructura deportiva y equipamiento, difusión, promoción, fomento, investigación y supervisión del deporte;
 
 III. Propiciar la participación de los organismos deportivos y de los deportistas en la determinación y ejecución de las políticas a que se refiere la fracción I, y establecer los procedimientos para esos fines;
 
 IV. Promover una mayor conjunción de esfuerzos entre los sectores social y privado;
 
-V. Determinar los espacios que deban destinarse a la creación de áreas deportivas públicas, así como supervisar y apoyar el mejoramiento de las instalaciones públicas deportivas del estado;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+V. Determinar los espacios que deban destinarse a la creación de áreas deportivas públicas, así como supervisar y apoyar el mejoramiento de las instalaciones públicas deportivas del estado, las cuales tendrán que prever la adaptación para el uso de personas con discapacidades diferentes, poblaciones especiales y para el deporte en todas las edades;
 
 VI. Formular el Programa Operativo Estatal del Deporte y llevar a cabo las acciones que se deriven del mismo;
 
@@ -89,11 +95,29 @@ XIV. Fungir como órgano asesor en materia deportiva;
 
 XV. Ser órgano rector para la ejecución de la política deportiva estatal;
 
-XVI. Determinar los espacios que deban destinarse a la creación de áreas deportivas públicas, así como supervisar y apoyar el mejoramiento de las instalaciones deportivas públicas en el estado;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
 
-XVII. Otorgar apoyo económico a los deportistas destacados para que asistan a las competencias nacionales de acuerdo a las reglas que para tal efecto se expidan, y
+XVI. Realizar un censo de instalaciones y actividades deportivas, con la colaboración de organismos públicos y privados;
 
-XVIII. Las demás que le atribuyan las leyes y reglamentos, o que le confiera el titular del Poder Ejecutivo.
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XVII. Otorgar apoyo económico con recursos del gobierno estatal, a deportistas destacados para que asistan a las competencias nacionales, de acuerdo a las reglas que para tal efecto se expidan. De igual manera se otorgarán a asociaciones, ligas, clubes, equipos y deportistas con registro que soliciten el pago de preparadores físicos y que cumplan con el perfil acorde a la disciplina deportiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2007)</small>
+
+XVIII. Auspiciar la creación de bibliotecas, hemerotecas y museos deportivos;
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XIX. Establecer las acciones necesarias para la coordinación con autoridades educativas estatales, a fin de promover la cultura del deporte entre los educandos del Sistema Educativo Estatal;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XX. Organizar foros regionales en materia deportiva con la periodicidad que acuerden la Comisión Permanente de Juventud y Deporte y el Instituto Veracruzano del Deporte, mediante convocatoria acordada y asignada por ambas instancias;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE ENERO DE 2007)</small>
+
+XXI. Las demás que conforme a esta ley, reglamentos y acuerdos correspondan.
 
 > <small>(REFORMADO, G.O. 26 DE MAYO DE 2005)</small>
 
@@ -115,7 +139,21 @@ El órgano competente del Ejecutivo estatal en materia deportiva es el Instituto
 
 I. El Consejo del Sistema Estatal del Deporte, cuyas atribuciones son las mencionadas en el artículo 10 de esta ley;
 
-II. El Director General de Instituto, quien será designado por el Gobernador del Estado y tendrá las siguientes facultades:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE ENERO DE 2007)</small>
+
+II. El director general de instituto será designado por el gobernador del estado y deberá contar con los siguientes requisitos:
+
+a) Ser mayor de edad, mexicano, preferentemente veracruzano, en pleno ejercicio de sus derechos;
+
+b) Contar con experiencia y conocimientos en materia deportiva, así como haber destacado como deportista o en la difusión, promoción o investigación del deporte;
+
+c) No tener cargo público, ni pertenecer a ningún club u organismo deportivo que participe en competencias organizadas por el Sistema Estatal del Deporte o el Instituto Veracruzano del Deporte;
+
+d) Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama de concepto público, se considerará inhabilitado para el cargo, cualquiera que haya sido la pena;
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2007)</small>
+
+El director general tendrá las siguientes facultades:
 
 1. Presentar a la consideración del Gobernador del Estado el Programa Estatal para el Desarrollo del Deporte.
 
@@ -137,7 +175,9 @@ II. El Director General de Instituto, quien será designado por el Gobernador de
 
 10. Promover la creación del Patronato de Fomento Deportivo y procurar su consolidación y desarrollo, y
 
-11. Las demás que resulten aplicables así como las que le asigne el Gobernador del Estado.
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+
+11. Las demás que resulten aplicables así como las que le asigne el gobernador del estado.
 
 III. El patrimonio del Instituto se integrará con:
 
@@ -205,6 +245,22 @@ Igualmente afiliar a todos los centros deportivos de las diversas especialidades
 
 X. Evaluar permanentemente la práctica del deporte y la cultura física en el estado, proponiendo las recomendaciones que considere adecuadas para alcanzar los fines de esta ley, y
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2007)</small>
+
+XI. Promover la actividad física entre toda la población cuando menos de 30 minutos diarios en instituciones educativas, centros de trabajo y áreas de recreación, asimismo la difusión del deporte a través de los medios de comunicación;
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XII. Dar vista a la autoridad competente cuando presuma la comisión de un delito;
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XIII. Coordinar las acciones de las instituciones de educación superior que tienen que ver con la cultura física y el deporte con las autoridades deportivas estatales, en lo referente a la prestación del servicio social en los municipios de la entidad, particularmente en los municipios de menos desarrollo económico y social.
+
+Buscando que el prestador del servicio social cuente con un incentivo mensual en dinero o en especie que le permita trasladarse al municipio que le corresponda, el cual será otorgado por el Sistema Estatal del Deporte, mediante un fondo que será constitutito por el Ejecutivo estatal y manejado por el Instituto Veracruzano del Deporte, quien procurará la participación del sector privado en el mismo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 9 DE ENERO DE 2007)</small>
+
 XI. Las demás que le otorguen esta ley, su reglamento y demás normas reglamentarias y estatutarias.
 
 ###### Artículo 11.
@@ -219,7 +275,9 @@ III. Fungirán como consejeros:
 
 a) El presidente del Patronato de Fomento Deportivo;
 
-b) Un representante de las siguientes secretarías: Desarrollo Regional, Finanzas y Planeación, y Salud;
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+
+b) Un representante de las siguientes secretarías: Desarrollo Social y Medio Ambiente, Finanzas y Planeación, Salud y Educación;
 
 c) Un representante del Sistema para el Desarrollo Integral de la Familia (DIF) y de las asociaciones deportivas estatales y de los comités municipales del deporte.
 
@@ -243,13 +301,43 @@ IV. Otorgar estímulos, reconocimientos y apoyos para el desarrollo y fomento de
 
 V. Proveer a las personas integrantes del Programa del Deporte adaptado los recursos necesarios para realizar adecuadamente sus actividades deportivas;
 
-VI. Determinar los espacios que deban destinarse a la creación de áreas deportivas públicas y a apoyar el mejoramiento de las instalaciones deportivas públicas del estado;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+VI. Determinar los espacios que deban destinarse a la creación de áreas deportivas públicas y a apoyar el mejoramiento de las instalaciones deportivas públicas del estado, estas mejoras deberán adaptarse para el uso de personas con capacidades diferentes, de la tercera edad y demás población;
 
 VII. Impulsar el desarrollo del deporte del sector rural;
 
-VIII. Destinar de sus recursos territoriales los espacios necesarios para áreas dedicadas a la práctica deportiva, y
+VIII. Destinar de sus recursos territoriales los espacios necesarios para áreas dedicadas a la práctica deportiva, y (sic)
 
-IX. Conformar el Sistema Municipal del Deporte.
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+IX. Conformar el Sistema Municipal del Deporte. La autoridad deportiva estatal y municipal elaborará un registro de las instalaciones públicas y privadas donde se practique el deporte, además que las mismas cuenten con las condiciones técnicas idóneas, y
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
+
+X. Las autoridades deportivas estatal y municipal promoverán entre la sociedad, alternativas de financiamiento que permitan incrementar los recursos propuestos al sector deportivo.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2007)</small>
+
+###### Artículo 13 Bis.
+
+Corresponde a los ayuntamientos:
+
+I. Crear la Comisión Municipal del Deporte en sus respectivos territorios;
+
+II. Reservarse los espacios y zonas para la práctica del deporte, en sus proyectos y programas de desarrollo urbano;
+
+III. Considerar dentro de su presupuesto invertir al menos 3% de sus ingresos propios para la difusión, promoción, construcción de infraestructura y equipamiento, fomento, investigación, ejecución y supervisión del deporte;
+
+IV. Determinar las necesidades en materia deportiva y crear los medios para satisfacerlas;
+
+V. Prever que las personas con capacidades diferentes, de la tercera edad y demás grupos especiales, tengan las facilidades e instalaciones deportivas adecuadas;
+
+VI. Organizar y coordinar las actividades deportivas en las colonias, barrios, zonas y centros de población a través de las asociaciones y juntas de vecinos, con el fin de fomentar y desarrollar el deporte;
+
+VII. Llevar el registro de las instalaciones deportivas en su municipio, dotando a éstas del personal adecuado para su conservación, utilización y mantenimiento, y
+
+VIII. Las demás que conforme a esta ley, reglamento y acuerdos le correspondan.
 
 ###### Artículo 14.
 
@@ -262,6 +350,42 @@ Los Comudes, que constituyen la estructura deportiva municipal, serán estableci
 ###### Artículo 16.
 
 El Comité Municipal del Deporte (Comude) deberá solicitar su incorporación al Instituto Veracruzano del Deporte con solicitud por escrito, el acta de cabildo respectiva y la del Registro Municipal del Deporte.
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
+
+I. Los Comudes administrarán las cuotas de recuperación por inscripción de los equipos u órganos que participan en sus campeonatos o torneos para cubrir los gastos de los mismos, para el caso de que quedare algún remanente, para el mantenimiento de las instalaciones deportivas;
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
+
+II. Los Comudes realizarán su estatuto con sujeción a lo establecido en esta ley y el reglamento, previa autorización del Instituto Veracruzano del Deporte; y
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
+
+III. Deben enviar a la autoridad correspondiente un informe económico y de actividades realizadas; cada dos meses, dentro de los cinco primeros días del bimestre.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2007)</small>
+
+###### Artículo 16 Bis.
+
+Los consejos municipales del deporte se integrarán por:
+
+I. Un presidente, que será nombrado por el H. Cabildo, mediante la propuesta de una terna que hará el C. presidente municipal;
+
+II. Un secretario y tres vocales quienes deberán ser por la sociedad civil, empresarios y comerciantes, debiendo contar con conocimientos deportivos;
+
+El Comité Municipal funcionará en pleno y celebrará sesiones ordinarias por lo menos una vez cada mes y extraordinarias cuando sean convocadas por el presidente del Comité.
+
+El patrimonio del Comité Municipal del Deporte, se integrará con:
+
+I. Los recursos que en su favor se establezcan en el Presupuesto de Egresos del Municipio;
+
+II. Las aportaciones y subsidios que a su favor hagan la Federación y demás dependencias, entidades u organismos públicos y privados;
+
+III. Los bienes muebles e inmuebles que se le asignen;
+
+IV. Los rendimientos, recuperaciones, derechos y demás ingresos que le generen sus inversiones, bienes, operaciones y servicios; y
+
+V. Las que adquiera por cualquier otro título.
 
 ### CAPÍTULO IV. De la participación de los sectores social y privado en el Sistema Estatal del Deporte
 
@@ -321,6 +445,18 @@ Igualmente, podrán registrarse como organismos deportivos las agrupaciones de i
 
 Dentro del Sistema Estatal del Deporte las asociaciones deportivas serán la máxima instancia dentro del deporte federado de su respectiva especialidad deportiva.
 
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2007)</small>
+
+###### Artículo 23 Bis.
+
+Las asociaciones deportivas con registro tendrán prohibido:
+
+I. Realizar actividades deportivas con objetivos religiosos o políticos;
+
+II. Excluir a sus miembros por su credo, raza, militancia, política, género o condición social;
+
+III. Suspender temporal o definitivamente en sus derechos a los agremiados sin concederles la oportunidad de defensa o sin ajustarse a sus estatutos.
+
 ###### Artículo 24.
 
 Para formar parte del Sistema Estatal del Deporte las organizaciones deportivas deberán, además de satisfacer los requisitos que para su admisión establezcan el reglamento de esta ley, cumplir con lo siguiente:
@@ -373,9 +509,15 @@ XII. Infraestructura y equipamiento;
 
 XIII. Contra el uso de sustancias prohibidas;
 
-XIV. Seguro de accidentes, y
+XIV. Seguro de accidentes, y (sic)
 
-XV. Financiamiento del deporte.
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+
+XV. Financiamiento del deporte; y
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XVI. Deporte para la prevención de las adicciones y para la prevención del delito.
 
 ###### Artículo 29.
 
@@ -411,9 +553,21 @@ La inscripción en el Registro Estatal del Deporte será condición necesaria pa
 
 El Ejecutivo del estado y los ayuntamientos determinarán la utilización de los espacios y la creación de las instalaciones necesarias para la práctica de las actividades físicas, de acuerdo con lo dispuesto por la Ley de Desarrollo Regional y Urbano, así como otros ordenamientos relativos, para lo cual promoverán la participación de los sectores social y privado.
 
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+
 ###### Artículo 36.
 
-La infraestructura deportiva pública deberá reunir las condiciones necesarias para su adecuada utilización y tendrán acceso a ella todos los deportistas que la requieran, con sujeción a los reglamentos internos de la misma.
+La infraestructura deportiva pública deberá reunir las condiciones necesarias para su adecuada utilización. Los predios deberán ser topográficamente aptos y con características de ubicación que no pongan en riesgo la salud de los usuarios.
+
+Tendrán acceso a las instalaciones deportivas todos los deportistas que la requieran, con sujeción a los reglamentos internos de las mismas.
+
+En la construcción de instalaciones deportivas deberán tomarse en cuenta las especificaciones técnicas y arquitectónicas que sean necesarias para el deporte infantil y demás poblaciones especiales, así como en la rehabilitación de los actuales espacios deberán acondicionarse las modificaciones necesarias de acceso y servicios para la realización del deporte adaptado.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2007)</small>
+
+###### Artículo 36 Bis.
+
+La autoridad estatal o municipal, podrá clausurar cualquier instalación deportiva que no cumpla con las condiciones de seguridad a sus usuarios.
 
 ###### Artículo 37.
 
@@ -435,11 +589,17 @@ IV. Proponer la adecuación o reconstrucción, en su caso, de las instalaciones 
 
 El Patronato se integrará por un representante del sector privado, quien fungirá como presidente, a propuesta del Ejecutivo del estado; un secretario, nombrado por el Director del Instituto Veracruzano del Deporte; un tesorero, que será designado por el Presidente del Patronato y dos representantes nombrados por las asociaciones deportivas.
 
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2007)</small>
+
+Durarán en su cargo en (sic) el término de 6 años o menos si no cumple los objetivos que este órgano persigue.
+
 ### CAPÍTULO X. De los Fomentos y Estímulos al Deporte
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
 
 ###### Artículo 39.
 
-El Gobierno del estado asignará los recursos necesarios para el funcionamiento del Programa Operativo Estatal del Deporte, los que serán ejercidos por medio del Instituto Veracruzano del Deporte.
+El Gobierno del Estado asignará el 0.2% de sus arbitrios del año fiscal que corresponda para el funcionamiento del Programa Operativo Estatal del Deporte, los que serán ejercidos por medio del Instituto Veracruzano del Deporte, tomando en consideración el artículo 5 de esta ley y el resto será asignado al deporte amateur.
 
 ###### Artículo 40.
 
@@ -471,9 +631,39 @@ XI. Recibir becas, estímulos, premios, reconocimientos y recompensas a las que 
 
 XII. Disfrutar del seguro de accidentes deportivos;
 
-XIII. Los deportistas con discapacidad dispondrán de los espacios adecuados para el pleno desarrollo de sus actividades, y
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
 
-XIV. Los demás que les otorguen esta ley u otros ordenamientos legales.
+XIII. Los deportistas de la tercera edad con discapacidades diferentes y demás poblaciones especiales dispondrán de los espacios adecuados para el pleno desarrollo de sus actividades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2007)</small>
+
+XIV. Recibir becas deportivas, estímulos, premios, reconocimientos, recompensas y becas académicas a las que se hagan merecedores.
+
+A fin de concretar lo anterior, el Gobierno del Estado a través del Instituto Veracruzano del Deporte celebrará convenios con las instituciones de educación básica, media superior y superior, tanto públicas como privadas, con la finalidad de otorgar becas a los talentos deportivos y atletas de alto rendimiento y conocer las facilidades necesarias para que dichos deportistas puedan continuar sus estudios, practicar y participar en eventos deportivos, según sus necesidades; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 9 DE ENERO DE 2007)</small>
+
+XV. Los demás que les otorguen esta ley u otros ordenamientos legales.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2007)</small>
+
+###### Artículo 40 Bis.
+
+Dentro del Sistema Estatal del Deporte los deportistas tendrán las siguientes obligaciones:
+
+I. Desempeñar eficaz y adecuadamente sus actividades físicas y deportivas, a fin de ser un ejemplo de la niñez, la juventud y la sociedad en general;
+
+II. Cumplir con lo dispuesto en esta ley y con los reglamentos del o los deportes que practiquen;
+
+III. Asistir a competencias de distintos niveles respetando dignamente a su equipo, club, liga o asociación deportiva, al municipio o al estado;
+
+IV. Cuidar y vigilar que las instalaciones en que practiquen su deporte se conserven en buen estado, enterando a las autoridades de las deficiencias y daños que presenten las mismas;
+
+V. Abstenerse de usar sustancias, grupos farmacológicos o métodos considerados como prohibidos o restringidos por los órganos deportivos nacionales o internacionales;
+
+VI. Fomentar la práctica del deporte en todas las formas y medios a su alcance; y
+
+VII. Las demás que le señale esta ley, su reglamento y otros ordenamientos legales.
 
 ###### Artículo 41.
 
@@ -513,7 +703,9 @@ El otorgamiento y goce de los beneficios a que se refiere este capítulo estará
 
 El Ejecutivo estatal, en el marco del Sistema Estatal del Deporte, promoverá las acciones necesarias para la formación profesional capacitación y actualización de los recursos humanos para la enseñanza y práctica del deporte, de la medicina y ciencias aplicadas al deporte, de acuerdo con las recomendaciones establecidas por el Sistema Nacional del Deporte.
 
-Los planes de capacitación deberán incluir programas que fomenten la enseñanza del deporte a personas con discapacidad a fin de que puedan practicarlo.
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+
+Los planes de capacitación deberán incluir programas que fomenten la enseñanza del deporte a personas de (sic) tercera edad con discapacidades diferentes y demás poblaciones especiales, a fin de que puedan practicarlo.
 
 ### CAPÍTULO XI. Contra el uso de Sustancias Prohibidas (Antidoping)
 
@@ -567,9 +759,15 @@ II. A las autoridades deportivas municipales, en el ámbito de su competencia;
 
 III. A la autoridad deportiva que designe el Ejecutivo estatal;
 
-IV. A las federaciones deportivas nacionales en el deporte que le corresponda, y
+IV. A las federaciones deportivas nacionales en el deporte que le corresponda, y (sic)
 
-V. A la Comisión de Apelación y Arbitraje del Deporte en el ámbito federal.
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+V. A la Comisión de Apelación y Arbitraje del Deporte en el ámbito federal, y
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
+
+VI. Al Comité Estatal contra el uso de sustancias prohibidas.
 
 ###### Artículo 55.
 
@@ -611,9 +809,15 @@ V. A los organismos deportivos:
 
 3. Suspensión temporal o definitiva del uso de instalaciones deportivas oficiales.
 
-> <small>(F. DE E., G.O. 31 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE ENERO DE 2007)</small>
 
 ###### Artículo 56.
+
+Las personas que desempeñen cargos directivos y de fiscalización en las organizaciones e instituciones deportivas contraerán responsabilidad personal y solidaria por los importes o valores que deban ingresar como agentes de retención, así como el cumplimiento de los fines para los cuales fueron constituidos los mismos.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTICULO 56], G.O. 9 DE ENERO DE 2007)</small>
+
+###### Artículo 56 Bis.
 
 Contra las resoluciones de las autoridades y organismos deportivos que impongan sanciones procederá el recurso de reconsideración ante quien la emitió, a fin de que revoque, confirme o modifique la resolución; sin perjuicio de promover el recurso de inconformidad que establezca el reglamento respectivo.
 
@@ -702,3 +906,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 6 DE JULIO DE 2006.
 
 Único.- Este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 9 DE ENERO DE 2007.
+
+Único.- Este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
