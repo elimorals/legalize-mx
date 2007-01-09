@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2006-07-14"
+last_updated: "2007-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO NUMERO 554 HACENDARIO PARA EL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 14 DE JULIO DE 2006, EL PRESENTE ORDENAMIENTO QUEDARA SIN APLICACION EN DICHO MUNICIPIO A LA ENTRADA EN VIGOR DEL CITADO CODIGO.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2007.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -43,11 +41,11 @@ HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE ENERO DE 2007)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de este Código son de orden público, interés general y observancia obligatoria en los Municipios del Estado de Veracruz de Ignacio de la Llave, excepto en aquellos a quienes el Congreso les hubiere aprobado un Código Hacendario propio, y tienen por objeto regular:
+Este Código rige en el orden municipal del Estado de Veracruz de Ignacio de la Llave, y tiene por objeto reglamentar:
 
 I. La planeación, programación y presupuestación del gasto público;
 
@@ -62,6 +60,18 @@ V. La integración de la cuenta pública municipal;
 VI. La administración y contratación de su deuda pública; y
 
 VII. El dominio y la administración de sus bienes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE ENERO DE 2007)</small>
+
+Las entidades paramunicipales creadas por dos o más ayuntamientos se sujetarán a las disposiciones de este Código, aun cuando los ayuntamientos participantes tengan su propio ordenamiento en las materias que este Código regula.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE ENERO DE 2007)</small>
+
+Quedan excluidos de la aplicación de este Código los municipios del estado a los cuales el Congreso les ha aprobado su propio ordenamiento en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE ENERO DE 2007)</small>
+
+Este Código fija las bases administrativas que observarán los ayuntamientos que opten por proponer al Congreso el que regirá en su municipio.
 
 ###### Artículo 2.
 
@@ -138,6 +148,12 @@ Todos los recursos públicos pertenecientes al Municipio ingresarán a la Tesore
 ###### Artículo 5.
 
 La Tesorería ejercerá los recursos públicos de acuerdo con las disposiciones de la Ley Orgánica del Municipio Libre y de este Código y con base en el presupuesto de egresos aprobado por el Cabildo.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2007)</small>
+
+###### Artículo 5 Bis.
+
+Tratándose de entidades paramunicipales creadas por dos o más ayuntamientos, las atribuciones y competencia conferidas en este Código al Ayuntamiento, al cabildo, a la Comisión de Hacienda y Patrimonio Municipal y a la Tesorería, se entenderán conferidas a la entidad paramunicipal la primera de ellas, al órgano de gobierno las dos siguientes, y al área de finanzas de la respectiva entidad paramunicipal la última señalada.
 
 ###### Artículo 6.
 
@@ -3579,21 +3595,27 @@ De servicio 1
 
 La modificación de proyectos también causará derechos, a razón de un cincuenta por ciento sobre las cuotas que correspondan.
 
-### CAPÍTULO IV. DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE Y DRENAJE DEL MUNICIPIO
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE ENERO DE 2007)</small>
+
+### CAPÍTULO IV. DE LOS DERECHOS POR EL SERVICIO PUBLICO DE SUMINISTRO DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
 
 ###### Artículo 213.
 
-Es objeto de los derechos a que se refiere este Capítulo la prestación de los servicios de distribución de agua potable, así como de conexión a los sistemas de drenaje y de distribución, realizada directamente por el Ayuntamiento.
+Es objeto de los derechos a que se refiere este Capítulo la prestación del servicio público de suministro de agua potable, drenaje y alcantarillado, proporcionado conforme lo dispone la ley de la materia.
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
 
 ###### Artículo 214.
 
-Es sujeto de estos derechos el propietario o poseedor del predio que solicite su conexión al sistema de distribución de agua potable o de drenaje, así como quien, con un carácter distinto, haga uso de estos servicios.
+Es sujeto pasivo el propietario o poseedor del predio que solicite su conexión al sistema de distribución de agua potable, drenaje o alcantarillado, así como quien con un carácter distinto, haga uso de estos servicios.
 
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
 
 ###### Artículo 215.
 
-Por los servicios que preste directamente el Ayuntamiento, en términos de este capítulo, se causarán los derechos correspondientes, determinados y actualizados por el Cabildo, en acatamiento a las metodologías que al efecto expida el Consejo del Sistema Veracruzano del Agua y en términos de lo dispuesto por el Capítulo VI del Título Cuarto de la Ley de Aguas del Estado de Veracruz de Ignacio de la Llave.
+Por la prestación del servicio público que refiere este capítulo se causarán los derechos correspondientes, conforme a las cuotas o tarifas aprobadas, en términos de la ley de la materia.
 
 ###### Artículo 216.
 
@@ -4153,6 +4175,8 @@ Los ingresos extraordinarios se causarán y recaudarán de conformidad con los o
 
 # LIBRO CUARTO. DE LA ADMINISTRACIÓN FINANCIERA MUNICIPAL
 
+(REFORMADA SU DENOMINACION, G.O. 9 DE ENERO DE 2007) (F. DE E., G.O. 26 DE ENERO DE 2007)
+
 ## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
@@ -4235,17 +4259,25 @@ La Tesorería y las entidades solamente autorizarán el pago de anticipos que es
 
 Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
 
-### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE ENERO DE 2007)</small>
+
+### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y VALORES
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE ENERO DE 2007)</small>
 
 ###### Artículo 278.
 
-Los depósitos al cuidado o a disposición del Ayuntamiento, constituidos en dinero o en valores, prescribirán en los mismos términos del crédito fiscal, según dispone el presente Código.
+Los depósitos al cuidado o a disposición del Ayuntamiento o sus entidades, constituidos en dinero o en valores, prescribirán en los mismos términos del crédito fiscal, según dispone el presente Código.
 
-En los asuntos sobre los cuales se hayan constituido depósitos, que no se hubieren exigido por determinación judicial a favor de beneficiario, la Tesorería tendrá en cuenta el plazo fijado en el párrafo anterior y declarará de oficio la prescripción, así como la disposición de los depósitos respectivos a beneficio del fisco municipal.
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+
+En los asuntos sobre los cuales se hayan constituido depósitos que no se hubieren exigido por determinación judicial a favor de beneficiario, la Tesorería o la entidad que corresponda tendrán en cuenta el plazo fijado en el párrafo anterior y declararán de oficio la prescripción, así como la disposición de los depósitos respectivos a beneficios (sic) del fisco municipal o del patrimonio de las entidades, en su caso.
 
 Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la devolución del depósito, se tomará como base la de la constitución del mismo, para efectos de la prescripción.
 
-Los depósitos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+
+Los depósitos de los particulares en las cuentas del Ayuntamiento o de las entidades paramunicipales no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
 
 ### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
 
@@ -4277,7 +4309,15 @@ Las garantías que reciba el Ayuntamiento por contratos administrativos, en conc
 
 Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
 
-### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2007)</small>
+
+###### Artículo 283 Bis.
+
+Tratándose de entidades paramunicipales creadas por dos o más ayuntamientos, las garantías se constituirán a favor de dichas entidades y se harán efectivas en términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE ENERO DE 2007)</small>
+
+### CAPÍTULO VI (SIC). DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
 
 ###### Artículo 284.
 
@@ -4287,9 +4327,11 @@ La Tesorería ejercerá los derechos patrimoniales de los valores que represente
 
 Tratándose de empresas de participación municipal y de aquellas en que el Municipio tenga una participación minoritaria, el Cabildo designará al representante del Ayuntamiento ante los órganos de gobierno o las asambleas generales de accionistas o de socios de la entidad.
 
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+
 ###### Artículo 286.
 
-La Tesorería concentrará, revisará, integrará y custodiará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Ayuntamiento y elaborará los estados contables para su integración en la cuenta pública municipal.
+La Tesorería concentrará, revisará, integrará y custodiará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Ayuntamiento, y elaborará los estados contables para su integración en la cuenta pública municipal, excepto en las entidades paramunicipales, en cuyo caso se estará a lo dispuesto en el instrumento de su creación.
 
 ###### Artículo 287.
 
@@ -4307,17 +4349,23 @@ IV. Aportar los elementos que permitan determinar la responsabilidad de los serv
 
 Los ingresos resultantes de la recaudación se reflejarán de inmediato en los registros de la oficina receptora, salvo que se trate de instituciones bancarias, crediticias o comerciales autorizadas, en cuyo caso éstas efectuarán el registro en los plazos establecidos en las autorizaciones relativas que emita la Tesorería.
 
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+
 ###### Artículo 289.
 
-Los bienes que excepcionalmente se reciban para el pago de adeudos a favor del Ayuntamiento, conforme a lo dispuesto en este Código, se registrarán en las cuentas de ingresos de la Tesorería.
+Los bienes que excepcionalmente se reciban para el pago de adeudos a favor del Ayuntamiento, conforme a lo dispuesto en este Código, se registrarán en las cuentas de ingresos de la Tesorería. Tratándose de entidades paramunicipales creadas por dos o más ayuntamientos se registrarán en las cuentas de ingreso de su respectiva área financiera.
 
 ###### Artículo 290.
 
 Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes a los valores que representen inversiones financieras del Ayuntamiento, deberán registrarse en el sistema de contabilidad de fondos municipales.
 
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+
 ###### Artículo 291.
 
-Los créditos no fiscales a cargo del Municipio se registrarán en la contabilidad de las dependencias de la Administración Pública Municipal. La Tesorería comunicará a las dependencias y entidades la forma y plazos en que deban rendir cuenta del manejo de fondos, bienes y valores municipales.
+Los créditos no fiscales a cargo del municipio se registrarán en la contabilidad de las dependencias de la Administración Pública Municipal. La Tesorería comunicará a las dependencias y entidades la forma y plazos en que deban rendir cuenta del manejo de fondos, bienes y valores municipales.
+
+En las entidades paramunicipales creadas por dos o más ayuntamientos los créditos no fiscales se registrarán en su contabilidad.
 
 ###### Artículo 292.
 
@@ -5994,3 +6042,7 @@ SEGUNDO. En términos de lo dispuesto en el artículo 1 del Código número 302 
 TERCERO. El Código número 302 hacendario Municipal para el Estado de Veracruz-Llave así como las referencias que se hacen en los reglamentos y demás disposiciones legales vigentes en el municipio de Xalapa, Estado de Veracruz de Ignacio de la Llave, se entenderá referidos al presente Código.
 
 CUARTO. Las contribuciones, los créditos fiscales y los procedimientos administrativos generados bajo la vigencia del Código Hacendario municipal para el Estado de Veracruz de Ignacio de la Llave, se cobrarán, tramitarán y resolverán, conforme a dicho ordenamiento legal hasta su conclusión.
+
+G.O. 9 DE ENERO DE 2007.
+
+Único. Este Decreto entrará en vigor a los tres días de su publicación en la Gaceta Oficial del gobierno del estado.
