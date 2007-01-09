@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-59-de-fiscalizacion-superior-para-el-estado-de-16460
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2004-11-26"
+last_updated: "2007-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 26 de mayo de 2000.
 
@@ -65,7 +65,9 @@ Para efectos de la presente Ley, se entenderá por:
 
 I. Poderes del Estado: Los Poderes Legislativo, Ejecutivo y Judicial;
 
-II. Ayuntamientos: Los Órganos de Gobierno de los Municipios;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+II. Ayuntamientos: Los órganos de gobierno de los municipios del estado;
 
 III. Órgano: El Órgano de Fiscalización Superior del Estado;
 
@@ -75,25 +77,41 @@ V. Comisión: La Comisión de Vigilancia del Congreso del Estado;
 
 VI. Secretaría: La Secretaría de Finanzas y Planeación;
 
-VII. Unidades de Control Interno: La Contraloría General, y los Órganos de Control Interno de los Poderes Legislativo y Judicial, de los Ayuntamientos, y de los Organismos;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+VII. Unidades de Control Interno: La Contraloría General y los Órganos de Control Interno de los poderes Legislativo y Judicial, de los ayuntamientos, de las entidades paramunicipales y de los organismos;
 
 VIII. Organismos: Los Organismos Autónomos de Estado;
 
-IX. Entes Fiscalizables: Los Poderes del Estado, los Ayuntamientos y, en general, cualquier persona física o moral, pública o privada, que recaude, administre, maneje o ejerza recursos públicos;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
 
-X. Cuentas Públicas: Las que rinden el Gobierno del Estado, los Ayuntamientos y los Organismos cada año al Congreso, a fin de darle a conocer los resultados de su gestión financiera durante el ejercicio fiscal comprendido del 1 de enero al 31 de diciembre, para comprobar si se ha dado cumplimiento a los objetivos contenidos en sus planes y programas, de conformidad con los criterios señalados en el presupuesto;
+IX. Entes fiscalizables: El Poder Público, los organismos, los ayuntamientos, las entidades paramunicipales, incluidas las creadas por dos o más ayuntamientos, y cualquier persona que recaude, administre, maneje o ejerza recursos públicos;
 
-XI. Gestión Financiera: La administración, manejo, custodia y aplicación de los recursos públicos que los Poderes del Estado, Ayuntamientos y los Organismos utilicen anualmente para el cumplimiento de los objetivos contenidos en sus planes y programas, de conformidad con las leyes y demás disposiciones en la materia; y
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
 
-XII. Informe del Resultado: El informe del resultado de la revisión de las Cuentas públicas que el Órgano, por conducto de la Comisión, presenta al Congreso.
+X. Cuenta pública: El documento que rinden el Poder Público, los organismos, los ayuntamientos y las entidades paramunicipales, cada año al Congreso, a fin de darle a conocer los resultados de su gestión financiera durante el ejercicio fiscal comprendido del uno de enero al treinta y uno de diciembre, para comprobar si se ha dado cumplimiento a los objetivos contenidos en sus planes y programas, conforme a los criterios señalados en el presupuesto;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XI. Gestión Financiera: La administración, manejo, custodia y aplicación de los recursos públicos que el Poder Público, los ayuntamientos, las entidades paramunicipales y los organismos utilicen anualmente para el cumplimiento de los objetivos contenidos en sus planes y programas de conformidad con las leyes y demás disposiciones en la materia;
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XII. Informe del Resultado: El informe del resultado de la revisión de las cuentas públicas que el órgano, por conducto de la Comisión, presenta al Congreso; y
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XIII. Poder Público: Los poderes Legislativo, Ejecutivo y Judicial, conforme al artículo 17 de la Constitución Política del Estado.
 
 ###### Artículo 4.
 
 La fiscalización superior se realizará en forma posterior a la presentación de las Cuentas Públicas, de manera externa, independiente y autónoma de cualquier forma de control interno de las entidades fiscalizables.
 
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+
 ###### Artículo 5.
 
-Son sujetos de fiscalización los Poderes del Estado, los Ayuntamientos y, en general, cualquier persona física o moral, pública o privada, que recaude, administre, maneje o ejerza recursos públicos. Los Organismos y el Órgano sólo serán fiscalizados por el Congreso del Estado.
+Son sujetos de fiscalización el Poder Público, los ayuntamientos, las entidades paramunicipales y, en general, cualquier persona física o moral, pública o privada, que recaude, administre, maneje o ejerza recursos públicos. Los organismos y el órgano sólo serán fiscalizados por el Congreso del Estado.
 
 > <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -109,17 +127,23 @@ En el caso del Poder Ejecutivo, se estará a lo dispuesto por la Ley de Obras P�
 
 El Órgano será competente para:
 
-I. Fiscalizar en forma posterior a la presentación de las Cuentas Públicas, los ingresos y egresos, el manejo, custodia y aplicación de los fondos y recursos del Gobierno del Estado y los Ayuntamientos, así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+I. Fiscalizar en forma posterior a la presentación de las cuentas públicas los ingresos y egresos, el manejo, custodia y aplicación de los fondos y recursos del Gobierno del Estado, los ayuntamientos y las entidades paramunicipales, así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos;
 
 II. Apoyar al Congreso del Estado en la revisión de las Cuentas Públicas y entregar, a través de la Comisión, el Informe del Resultado de dicha revisión al propio Congreso;
 
-III. Verificar, en forma posterior, si la Gestión Financiera de los Poderes del Estado y de los Ayuntamientos se efectuó conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental: contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+III. Verificar, en forma posterior, si la gestión financiera del Poder Público, de los ayuntamientos, así como de las entidades paramunicipales, se efectuó conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental: contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
 
 IV. Comprobar si la recaudación, administración, manejo y aplicación de recursos estatales y municipales; los actos, contratos, convenios, concesiones u operaciones que los Entes Fiscalizables celebraron o realizaron, se ajustaron a la legalidad, y si no causaron daños o perjuicios en contra de las Haciendas Públicas estatal y municipales, al patrimonio de las entidades paraestatales y al de los demás Organismos;
 
 V. Verificar que los Entes Fiscalizables que hubieren recaudado, manejado, administrado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados; así como, en el caso de los egresos, con cargo a las partidas correspondientes, con apego a las disposiciones aplicables;
 
-VI. Verificar obras, bienes adquiridos y servicios contratados, para comprobar que las inversiones y gastos autorizados al Gobierno del Estado y a los Ayuntamientos, se hayan aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+VI. Verificar obras, bienes adquiridos y servicios contratados, para comprobar que las inversiones y gastos autorizados al Gobierno del Estado, a los ayuntamientos y a las entidades paramunicipales, se hayan aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
 
 VII. Establecer los criterios para las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las Cuentas Públicas, verificando que sea presentada, en los términos de esta ley y de conformidad con los principios de contabilidad aplicables al Sector Público;
 
@@ -137,9 +161,9 @@ XI BIS. Fiscalizar la aplicación de los recursos federales durante el ejercicio
 
 XII. Celebrar convenios con autoridades federales y de otras entidades federativas, así como con personas físicas o morales, tanto públicas como privadas, con el propósito de dar cumplimiento al objeto de esta ley;
 
-> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
 
-XIII. Determinar, conforme al procedimiento señalado en esta ley, en su caso, los daños y perjuicios que afecten a las Haciendas Públicas estatal y municipales, al patrimonio de las entidades paraestatales y al de los demás Organismos; y fincar directamente a los responsables de las irregularidades, las indemnizaciones y sanciones correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Quinto de la Constitución Política del Estado y presentar las denuncias y querellas penales, en términos de la legislación aplicable;
+XIII. Determinar, conforme al procedimiento señalado en esta ley, en su caso, los daños y perjuicios que afecten a las haciendas públicas estatal y municipales, al patrimonio de las entidades paraestatales y paramunicipales, así como al de los demás organismos; y fincar directamente a los responsables de las irregularidades, las indemnizaciones y sanciones correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Quinto de la Constitución Política del Estado y presentar las denuncias y querellas penales, en términos de la legislación aplicable;
 
 XIV. Requerir, en su caso, a los prestadores de servicios profesionales que contrate, los informes o dictámenes de las auditorías y revisiones por ellos practicadas;
 
@@ -251,9 +275,9 @@ XI. Entregar al Congreso, en forma separada y por conducto de la Comisión, el i
 
 XII. Ordenar, en su caso, la práctica de visitas, auditorías e inspecciones necesarias para la realización de investigaciones;
 
-> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
 
-XIII. Substanciar el procedimiento de determinación de responsabilidades y fincamiento de indemnizaciones y sanciones, y determinar en su caso, los daños y perjuicios que afecten a las Haciendas Públicas estatal y municipales, al patrimonio de las entidades paraestatales y al de los Organismos;
+XIII. Substanciar el procedimiento de determinación de responsabilidades y fincamiento de indemnizaciones y sanciones, y determinar en su caso, los daños y perjuicios que afecten a las haciendas públicas estatal y municipales, al patrimonio de las entidades paraestatales y paramunicipales, así como al de los organismos;
 
 > <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -403,7 +427,109 @@ IV. (DEROGADA, G.O. 22 DE ABRIL DE 2003)
 
 El Órgano solicitará la información general que permita el análisis de resultados, en la que se incluyan los datos económicos.
 
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
+
+#### Sección Primera
+
+> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, G.O. 9 DE ENERO DE 2007)</small>
+
+###### Artículo 21.
+
+El Poder Público, los ayuntamientos y las entidades paramunicipales presentaran para su revisión, la Cuenta Pública al Congreso durante el mes de mayo del año siguiente al ejercicio presupuestal que será objeto de fiscalización.
+
 > <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2004)</small>
+
+El Congreso, a través de la Comisión turnará formalmente dichas Cuentas al Órgano para que proceda conforme a lo dispuesto en el artículo 6 de esta Ley.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2004)</small>
+
+El Órgano solo podrá fiscalizar las Cuentas Públicas del ejercicio anual correspondiente.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2004)</small>
+
+El Informe del Resultado de la Revisión de las Cuentas Públicas se remitirá a la Comisión.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2004)</small>
+
+Tratándose del último año del ejercicio constitucional de los Ayuntamientos, las Cuentas Públicas consolidadas se presentarán al Congreso el 30 de diciembre del año respectivo, y la documentación comprobatoria de dichas cuentas a más tardar el 30 de enero del año siguiente.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2004)</small>
+
+Los Ayuntamientos que fueren auditados por despachos externos habilitados por el Órgano, únicamente deberán presentar, en los términos del párrafo anterior, la cuenta pública consolidada y el dictamen emitido por el auditor externo, debiendo conservar en custodia la documentación comprobatoria durante el lapso y en las condiciones que establece la Ley.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2004)</small>
+
+La no presentación en tiempo de las cuentas públicas consolidadas por parte del Ayuntamiento saliente, o de los documentos comprobatorios de dichas cuentas por parte del Ayuntamiento entrante, será sancionada en los términos de la legislación penal correspondiente. Los responsables de la omisión serán considerados responsables de los delitos de incumplimiento de un deber legal o abuso de autoridad.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2004)</small>
+
+La Comisión de vigilancia determinará en todos los casos el procedimiento, calendario y lugar de la entrega de la documentación comprobatoria.
+
+(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003) (REUBICADO, G.O. 9 DE ENERO DE 2007)
+
+###### Artículo 22.
+
+El Órgano, conjuntamente con la Secretaría y las Unidades de Control Interno de los Poderes del Estado, de los Ayuntamientos y de los Organismos, establecerán reglas técnicas para que los documentos justificatorios y comprobatorios puedan darse de baja o destruirse, siempre que tenga una antigüedad de cinco años y, en su caso, para la guarda o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia.
+
+Los microfilmes y los archivos guardados mediante procesamiento electrónico, tendrán el valor que, en su caso, establezcan las disposiciones legales relativas a las operaciones en que aquellos se apliquen.
+
+(REUBICADO, G.O. 9 DE ENERO DE 2007)
+
+###### Artículo 23.
+
+El Órgano conservará en su poder las Cuentas Públicas y el Informe del Resultado, mientras sean exigibles, conforme a los plazos de prescripción que señalen la Constitución y leyes del Estado, las responsabilidades derivadas de las irregularidades que, en su caso, se detecten en las operaciones objeto de revisión, así como las copias autógrafas de las resoluciones en las que se finquen responsabilidades y documentos que contengan las denuncias o querellas penales que se hubieren formulado, como consecuencia de los hechos presuntamente delictivos que se hubieren evidenciado durante la referida revisión.
+
+(REUBICADO, G.O. 9 DE ENERO DE 2007)
+
+###### Artículo 24.
+
+Cuando los programas abarquen en su ejecución dos o más ejercicios fiscales, sólo podrán ser revisados y fiscalizados anualmente en la parte ejecutada precisamente en ese ejercicio, al rendirse las Cuentas Públicas.
+
+(REUBICADO, G.O. 9 DE ENERO DE 2007)
+
+###### Artículo 25.
+
+El Órgano podrá solicitar a las Unidades de Control Interno de los Poderes del Estado y de los Ayuntamientos, los datos, libros y documentos justificativos y comprobatorios del ingreso y gasto público, y la demás información que resulte necesaria, siempre que se expresen los fines a que se destine dicha información.
+
+La información y datos que se proporcionen estarán afectos exclusivamente al objeto de esta ley y demás ordenamientos aplicables.
+
+(REUBICADO, G.O. 9 DE ENERO DE 2007)
+
+###### Artículo 26.
+
+Cuando conforme a esta ley, las Unidades de Control Interno de los Poderes del Estado y los Ayuntamientos deban colaborar con el Órgano, establecerán una estrecha coordinación a fin de garantizar el debido intercambio de información que al efecto se requiera, y otorgar las facilidades que permitan al Órgano realizar sus funciones. Asimismo, deberán proporcionar la documentación que les solicite el Órgano sobre los resultados de la fiscalización que efectúe, o cualquier otra que se les requiera.
+
+(REUBICADO, G.O. 9 DE ENERO DE 2007)
+
+###### Artículo 27.
+
+Las auditorías, visitas e inspecciones que se efectúen en los términos de esta ley, se practicarán por el personal expresamente comisionado para el efecto por el Órgano o mediante la contratación de prestadores de servicios profesionales, habilitados por el mismo para efectuar auditorías, visitas o inspecciones, siempre y cuando no exista conflicto de intereses.
+
+Las personas a que se refiere el párrafo anterior tendrán el carácter de representantes del Órgano, en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente el oficio de comisión respectivo y, en su caso, orden de visita, e identificarse plenamente como personal actuante del Órgano.
+
+(REUBICADO, G.O. 9 DE ENERO DE 2007)
+
+###### Artículo 28.
+
+Durante sus actuaciones, los representantes del Órgano que hubieren intervenido en las revisiones deberán levantar actas circunstanciadas en presencia de dos testigos propuestos por el representante del Ente Fiscalizable o, en su ausencia o negativa, por la autoridad que practique la diligencia, en las que se harán constar, en su caso, los hechos u omisiones que se hubieren detectado. Las actas, así como las declaraciones, manifestaciones o hechos en ellas contenidos, harán prueba en términos de ley.
+
+(REUBICADO, G.O. 9 DE ENERO DE 2007)
+
+###### Artículo 29.
+
+Los servidores públicos del Órgano, así como los prestadores de servicios que contrate, deberán guardar estricta reserva y confidencialidad, sobre las actuaciones, observaciones e información de que tengan conocimiento, excepto en los casos en que sean requeridos expresamente por la Comisión y cuando exista una resolución definitiva debidamente notificada. La violación a esta disposición se sancionará en los términos que dispongan esta ley y demás leyes del Estado.
+
+(REUBICADO, G.O. 9 DE ENERO DE 2007)
+
+###### Artículo 30.
+
+El Órgano será responsable solidariamente por los daños y perjuicios que cause la actuación ilícita de sus servidores públicos, así como por la de los prestadores de servicios que contrate para el ejercicio de sus funciones.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+### CAPÍTULO V. Del proceso de fiscalización
+
+> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
 
 #### Sección Primera. Del Pliego de Observaciones
 
@@ -447,81 +573,9 @@ Cuando por causas imputables al Ente Fiscalizable, no pudiere llevarse a cabo el
 
 > <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
 
-###### Artículo 21.
-
-Las Cuentas Públicas del Gobierno del Estado y de los Ayuntamientos, deberán ser presentadas al Congreso para su revisión, durante el mes de mayo del año siguiente al ejercicio fiscal.
-
-El Congreso, a través de la Comisión turnará formalmente dichas Cuentas al Órgano para que proceda conforme a lo dispuesto en el artículo 6 de esta Ley.
-
-El Órgano solo podrá fiscalizar las Cuentas Públicas del ejercicio anual correspondiente.
-
-El Informe del Resultado de la Revisión de las Cuentas Públicas se remitirá a la Comisión.
-
-Tratándose del último año del ejercicio constitucional de los Ayuntamientos, las Cuentas Públicas consolidadas se presentarán al Congreso el 30 de diciembre del año respectivo, y la documentación comprobatoria de dichas cuentas a más tardar el 30 de enero del año siguiente.
-
-Los Ayuntamientos que fueren auditados por despachos externos habilitados por el Órgano, únicamente deberán presentar, en los términos del párrafo anterior, la cuenta pública consolidada y el dictamen emitido por el auditor externo, debiendo conservar en custodia la documentación comprobatoria durante el lapso y en las condiciones que establece la Ley.
-
-La no presentación en tiempo de las cuentas públicas consolidadas por parte del Ayuntamiento saliente, o de los documentos comprobatorios de dichas cuentas por parte del Ayuntamiento entrante, será sancionada en los términos de la legislación penal correspondiente. Los responsables de la omisión serán considerados responsables de los delitos de incumplimiento de un deber legal o abuso de autoridad.
-
-La Comisión de vigilancia determinará en todos los casos el procedimiento, calendario y lugar de la entrega de la documentación comprobatoria.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
-
-###### Artículo 22.
-
-El Órgano, conjuntamente con la Secretaría y las Unidades de Control Interno de los Poderes del Estado, de los Ayuntamientos y de los Organismos, establecerán reglas técnicas para que los documentos justificatorios y comprobatorios puedan darse de baja o destruirse, siempre que tenga una antigüedad de cinco años y, en su caso, para la guarda o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia.
-
-Los microfilmes y los archivos guardados mediante procesamiento electrónico, tendrán el valor que, en su caso, establezcan las disposiciones legales relativas a las operaciones en que aquellos se apliquen.
-
-###### Artículo 23.
-
-El Órgano conservará en su poder las Cuentas Públicas y el Informe del Resultado, mientras sean exigibles, conforme a los plazos de prescripción que señalen la Constitución y leyes del Estado, las responsabilidades derivadas de las irregularidades que, en su caso, se detecten en las operaciones objeto de revisión, así como las copias autógrafas de las resoluciones en las que se finquen responsabilidades y documentos que contengan las denuncias o querellas penales que se hubieren formulado, como consecuencia de los hechos presuntamente delictivos que se hubieren evidenciado durante la referida revisión.
-
-###### Artículo 24.
-
-Cuando los programas abarquen en su ejecución dos o más ejercicios fiscales, sólo podrán ser revisados y fiscalizados anualmente en la parte ejecutada precisamente en ese ejercicio, al rendirse las Cuentas Públicas.
-
-###### Artículo 25.
-
-El Órgano podrá solicitar a las Unidades de Control Interno de los Poderes del Estado y de los Ayuntamientos, los datos, libros y documentos justificativos y comprobatorios del ingreso y gasto público, y la demás información que resulte necesaria, siempre que se expresen los fines a que se destine dicha información.
-
-La información y datos que se proporcionen estarán afectos exclusivamente al objeto de esta ley y demás ordenamientos aplicables.
-
-###### Artículo 26.
-
-Cuando conforme a esta ley, las Unidades de Control Interno de los Poderes del Estado y los Ayuntamientos deban colaborar con el Órgano, establecerán una estrecha coordinación a fin de garantizar el debido intercambio de información que al efecto se requiera, y otorgar las facilidades que permitan al Órgano realizar sus funciones. Asimismo, deberán proporcionar la documentación que les solicite el Órgano sobre los resultados de la fiscalización que efectúe, o cualquier otra que se les requiera.
-
-###### Artículo 27.
-
-Las auditorías, visitas e inspecciones que se efectúen en los términos de esta ley, se practicarán por el personal expresamente comisionado para el efecto por el Órgano o mediante la contratación de prestadores de servicios profesionales, habilitados por el mismo para efectuar auditorías, visitas o inspecciones, siempre y cuando no exista conflicto de intereses.
-
-Las personas a que se refiere el párrafo anterior tendrán el carácter de representantes del Órgano, en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente el oficio de comisión respectivo y, en su caso, orden de visita, e identificarse plenamente como personal actuante del Órgano.
-
-###### Artículo 28.
-
-Durante sus actuaciones, los representantes del Órgano que hubieren intervenido en las revisiones deberán levantar actas circunstanciadas en presencia de dos testigos propuestos por el representante del Ente Fiscalizable o, en su ausencia o negativa, por la autoridad que practique la diligencia, en las que se harán constar, en su caso, los hechos u omisiones que se hubieren detectado. Las actas, así como las declaraciones, manifestaciones o hechos en ellas contenidos, harán prueba en términos de ley.
-
-###### Artículo 29.
-
-Los servidores públicos del Órgano, así como los prestadores de servicios que contrate, deberán guardar estricta reserva y confidencialidad, sobre las actuaciones, observaciones e información de que tengan conocimiento, excepto en los casos en que sean requeridos expresamente por la Comisión y cuando exista una resolución definitiva debidamente notificada. La violación a esta disposición se sancionará en los términos que dispongan esta ley y demás leyes del Estado.
-
-###### Artículo 30.
-
-El Órgano será responsable solidariamente por los daños y perjuicios que cause la actuación ilícita de sus servidores públicos, así como por la de los prestadores de servicios que contrate para el ejercicio de sus funciones.
-
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 22 DE ABRIL DE 2003)</small>
-
-### CAPÍTULO V. Del proceso de fiscalización
-
-> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
-
 #### Sección Segunda. Del Informe del Resultado
 
 > <small>(REFORMADO Y REUBICADO, G.O. 22 DE ABRIL DE 2003)</small>
-
-#### Sección Primera. De la Legitimación
-
-> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
 
 ###### Artículo 31.
 
@@ -603,21 +657,25 @@ A partir de que inicie la investigación, el Órgano fincará las indemnizacione
 
 Para los efectos de esta ley incurren en responsabilidad:
 
-> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
 
-I. Los servidores públicos y, en su caso, los particulares, por actos u omisiones que causen daño o perjuicio estimable en dinero en contra de las Haciendas Públicas estatal y municipales, del patrimonio de las entidades paraestatales y del de los Organismos;
+I. Los servidores públicos y, en su caso, los particulares por actos u omisiones que causen daño o perjuicio estimable en dinero en contra de las haciendas públicas estatal y municipales, así como del patrimonio de las entidades paraestatales y paramunicipales, y del de los organismos;
 
 II. Los servidores públicos de los Entes Fiscalizables que no rindan sus informes acerca de la solventación de los pliegos de observaciones formulados y remitidos por el Órgano, y
 
 III. Los servidores públicos del Órgano cuando, con motivo de la revisión y fiscalización superior de las Cuentas Públicas, no formulen las observaciones sobre las situaciones irregulares que detecten.
 
-> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
+(REFORMADO PRIMER PARRAFO, G.O. 9 DE ENERO DE 2007) (F. DE E., G.O. 26 DE ENERO DE 2007)
 
 ###### Artículo 41.
 
-El Órgano, con base en las responsabilidades que se determinen conforme al procedimiento previsto en esta ley, fincará a los responsables de las irregularidades, las sanciones y las indemnizaciones correspondientes, a fin de resarcir a las Haciendas Públicas estatal y municipales, al patrimonio de las entidades paraestatales y al de los Organismos, el monto de los daños y perjuicios cuantificables en dinero que se hayan causado.
+El órgano, con base en las responsabilidades que se determinen conforme al procedimiento previsto en esta ley, fincará a los responsables de las irregularidades, las sanciones y las indemnizaciones correspondientes, a fin de resarcir a las haciendas públicas estatal y municipales, así como al patrimonio de las entidades paraestatales o paramunicipales y al de los organismos, el monto de los daños y perjuicios cuantificables en dinero que se hayan causado.
+
+(REFORMADO, G.O. 22 DE ABRIL DE 2003) (F. DE E., G.O. 26 DE ENERO DE 2007)
 
 Para el efecto anterior, el Órgano solicitará a la autoridad correspondiente que proceda a la aplicación del procedimiento administrativo de ejecución.
+
+(REFORMADO, G.O. 22 DE ABRIL DE 2003) (F. DE E., G.O. 26 DE ENERO DE 2007)
 
 Las indemnizaciones se fincarán independientemente de aquellas que sean objeto de otras leyes, y de las sanciones correspondientes.
 
@@ -709,15 +767,21 @@ II. Promover ante las autoridades competentes el fincamiento de otras responsabi
 
 III. Promover las acciones de responsabilidad a que se refiere el Título Quinto de la Constitución Política del Estado y la ley de la materia;
 
-IV. En los casos en que se determine que los actos o hechos materia de irregularidades, presumen la existencia de ilícitos penales, deberá presentarse la denuncia correspondiente, solicitando al Ministerio Público que llame al Titular de la Unidad Presupuestal del Ente Fiscalizable y/o en su caso, al representante legal de los Ayuntamiento para que acudan a deducir sus derechos patrimoniales; y
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
 
-V. Coadyuvar con los titulares de los Entes Fiscalizables o representantes legales de los Ayuntamientos y con el Ministerio Público en los procesos penales correspondientes.
+IV. En los casos en que se determine que los actos o hechos materia de irregularidades, presumen la existencia de ilícitos penales, deberá presentarse la denuncia correspondiente, solicitando al Ministerio Público que llame al titular de la unidad presupuestal del ente fiscalizable o, en su caso, al represente (sic) legal de los ayuntamiento o entidades paramunicipales para que acudan a deducir sus derechos patrimoniales; y
+
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+V. Coadyuvar con los titulares de los entes fiscalizables, así como los representantes legales de los ayuntamientos o entidades paramunicipales y con el Ministerio Público, en los procesos penales correspondientes.
 
 ###### Artículo 45.
 
 Las indemnizaciones y sanciones a que se refiere la presente ley, tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, haciéndose efectivas conforme al procedimiento administrativo de ejecución que establece la legislación aplicable.
 
-El importe de las indemnizaciones y de las sanciones que se recuperen en los términos de esta Ley, quedará a disponibilidad de los Poderes del Estado, Ayuntamientos u Organismos que sufrieron el daño o perjuicio, y sólo podrá ser ejercido de conformidad con lo establecido en el presupuesto.
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
+
+El importe de las indemnizaciones y de las sanciones, que se recuperen en los términos de esta ley, quedará a disponibilidad de los poderes del estado, ayuntamientos, entidades paramunicipales u organismos que sufrieron el daño o perjuicio y sólo podrá ser ejercido de conformidad con lo establecido en el presupuesto.
 
 ###### Artículo 46.
 
@@ -951,7 +1015,7 @@ En caso de duda sobre la autenticidad de la firma, el Órgano podrá llamar al i
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
 
-#### Sección Segunda. De las Actuaciones
+#### Sección Primera. De la Legitimación
 
 > <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -967,7 +1031,7 @@ Los titulares de los Entes Fiscalizables, mediante escrito auténtico, podrán a
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
 
-#### Sección Tercera. De los Términos y Notificaciones
+#### Sección Segunda. De las Actuaciones
 
 > <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -1001,7 +1065,7 @@ En el procedimiento administrativo de fiscalización no se producirá la caducid
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
 
-#### Sección Segunda. De las Actuaciones
+#### Sección Tercera. De los Términos y Notificaciones
 
 > <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -1226,3 +1290,7 @@ G.O. 26 DE NOVIEMBRE DE 2004.
 Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 9 DE ENERO DE 2007.
+
+Único. Este Decreto entrará en vigor a los tres días de su publicación en la Gaceta Oficial del gobierno del estado.
