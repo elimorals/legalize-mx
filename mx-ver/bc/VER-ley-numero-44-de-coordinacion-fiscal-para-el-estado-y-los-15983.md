@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2006-01-11"
+last_updated: "2007-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -461,7 +461,9 @@ DISTRIBUCIÓN
 
 47. COSAMALOAPAN 0.00832913875
 
-48. COSAUTLAN DE CARVAJAL 0.00255052140
+48. COSAUTLAN DE
+
+CARVAJAL 0.00255052140
 
 49. COSCOMATEPEC 0.00201918088
 
@@ -489,7 +491,9 @@ DISTRIBUCIÓN
 
 61. CHINAMECA 0.00219104423
 
-62. CHINAMPA DE GOROSTIZA 0.00159202964
+62. CHINAMPA DE
+
+GOROSTIZA 0.00159202964
 
 63. CHOAPAS LAS 0.00766486189
 
@@ -635,7 +639,7 @@ DISTRIBUCIÓN
 
 134. PLAYA VICENTE 0.00451235289
 
-135. POZA RICA DE HIDALGO 0.02702781510
+135. POZA RICA DE HIDALG 0.02702781510
 
 136. PUEBLO VIEJO 0.00375506531
 
@@ -785,17 +789,19 @@ DISTRIBUCIÓN
 
 209. ZONTECOMATLAN 0.00131932621
 
-210. ZOZOCOLCO DE HIDALGO 0.00157628307
+210. ZOZOCOLCO DE
+
+HIDALGO 0.00157628307
 
 TOTAL 1.00000000000
 
-> <small>(REFORMADO, G.O. 11 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
 
-Artículo tercero. Para el ejercicio fiscal del año 2006, los fondos de participaciones que establece el artículo 9, así como las participaciones que señala el artículo 14 de esta ley, se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2005, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
+Artículo tercero. Para el ejercicio fiscal del año 2007, los fondos de participaciones que establece el artículo 9, así como las participaciones que señala el artículo 14 de esta ley, se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2006, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
 
-> <small>(REFORMADO, G.O. 11 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
 
-Artículo cuarto. Para el ejercicio fiscal del año 2006, las participaciones federales que correspondan a los municipios por concepto del impuesto sobre tenencia o uso de vehículos se les distribuirán mediante la aplicación de los factores señalados en el artículo tercero transitorio de esta ley, que sustituirán a la fórmula a que se refiere el artículo 15 de este mismo ordenamiento.
+Artículo cuarto. Para el ejercicio fiscal del año 2007, las participaciones federales que correspondan a los municipios por concepto del Impuesto sobre Tenencia o Uso de Vehículos se les distribuirán mediante la aplicación de los factores señalados en el artículo tercero transitorio de esta ley, que sustituirán a la fórmula a que se refiere el artículo 15 de este mismo ordenamiento.
 
 Artículo quinto. Para efecto de la determinación del Coeficiente de Participación Municipal (CPM i t-1) señalado en el artículo 12, y el coeficiente de recaudación municipal (CISTUV i t-1) señalado en el artículo 15, correspondiente al ejercicio fiscal del año 2001, se utilizarán los factores de distribución que se señalan en el artículo segundo transitorio de esta Ley.
 
@@ -874,3 +880,9 @@ G.O. 11 DE ENERO DE 2006.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE ENERO DE 2007.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este decreto.
