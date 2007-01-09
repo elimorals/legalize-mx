@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-21-de-aguas-del-estado-de-veracruz-de-ignacio-de-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2006-06-06"
+last_updated: "2007-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2007.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 29 de junio de 2001.
 
@@ -797,13 +797,17 @@ XIX. Aplicar a los usuarios las sanciones por infracciones a esta ley y su regla
 
 XX. Conocer y resolver los recursos administrativos que se interpongan en contra de sus actos o resoluciones, en términos de lo dispuesto por el Código de Procedimientos Administrativos del Estado;
 
-XXI. Rendir anualmente al Ayuntamiento un informe de las labores realizadas durante el ejercicio anterior, así como el estado general del organismo y sobre las cuentas de su gestión, el cual deberá presentarse dentro de los sesenta días siguientes al término del ejercicio anterior;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XXI. Entregar anualmente al Ayuntamiento un informe de las labores realizadas durante el ejercicio anterior, así como el estado general del organismo y sobre las cuentas de su gestión, el cual deberá presentarse dentro de los sesenta días siguientes al término del ejercicio anterior, salvo que se trate de organismos operadores intermunicipales, en cuyo caso se estará a lo que dispone el instrumento de creación correspondiente;
 
 XXII. Establecer las oficinas necesarias dentro de su ámbito territorial de competencia;
 
 XXIII. Formular y mantener actualizado el inventario de bienes y recursos que integren su patrimonio;
 
-XXIV. Elaborar sus estados financieros;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XXIV. Elaborar sus estados financieros, así como los informes de avance de la gestión financiera y su respectiva cuenta pública;
 
 XXV. Utilizar los ingresos que recaude, obtenga o reciba, exclusivamente en los servicios públicos, destinándolos en forma prioritaria a eficientar su administración y operación y ampliar la infraestructura hidráulica; y
 
@@ -832,6 +836,8 @@ Los bienes de los Organismos Operadores afectos directamente a la prestación de
 ###### Artículo 35.
 
 El Gobierno del Estado, en el ámbito de su competencia, podrá otorgar concesiones en términos de lo dispuesto por esta ley y demás legislación aplicable.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE ENERO DE 2007)</small>
 
 #### SECCIÓN SEGUNDA. DEL PRESIDENTE DEL CONSEJO
 
@@ -877,7 +883,9 @@ IV. Resolver sobre los asuntos que en materia de servicios públicos someta a su
 
 V. Otorgar poderes, con todas las facultades generales o especiales que requieran poder o cláusula especial conforme a la ley, así como delegarlos, revocarlos o sustituirlos;
 
-VI. Aprobar las solicitudes de desincorporación de bienes muebles e inmuebles que se pretendan enajenar, así como de los bienes muebles que causen baja por cualquier motivo;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+VI. Aprobar las solicitudes de desincorporación de bienes que se pretendan enajenar, así como los bienes muebles que causen baja por algún motivo, y solicitar su autorización al Congreso del Estado o la diputación permanente, en su caso;
 
 VII. Administrar el patrimonio del organismo y cuidar de su adecuado manejo;
 
@@ -895,9 +903,19 @@ XIII. Acordar la propuesta de extensión de los servicios públicos a otras loca
 
 XIV. Expedir el reglamento interior del organismo, así como los manuales de organización, de procedimientos y de servicios al público y ordenar su publicación;
 
-XV. Proponer al Director del organismo, y
+XV. Proponer al Director del organismo, y (sic)
 
-XVI. Las demás que le atribuyan la presente Ley y demás legislación aplicable.
+> <small>(REFORMADA [N. DE ADICIONADA], G.O. 9 DE ENERO DE 2007)</small>
+
+XVI. Examinar y, en su caso, aprobar los informes de avance de la gestión financiera y la cuenta pública que presente el director general;
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XVII. Entregar mensualmente al Congreso del Estado los informes de avance de la gestión financiera aprobados, y en el mes de mayo la cuenta pública aprobada; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE ENERO DE 2007)</small>
+
+XVIII. Las demás que le atribuyen esta ley y demás legislación aplicable.
 
 ###### Artículo 39.
 
@@ -917,7 +935,9 @@ II. Elaborar el programa operativo anual del organismo y someterlo a la aprobaci
 
 III. Ejecutar el programa operativo anual aprobado por el Órgano de Gobierno;
 
-IV. Ordenar la publicación en la Tabla de Avisos y en el periódico de mayor circulación del municipio de que se trate, de las cuotas y tarifas determinadas por el Órgano de Gobierno;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+IV. Ordenar la publicación de las cuotas y tarifas determinadas por el órgano de gobierno en la tabla de avisos del Ayuntamiento del municipio de que se trate, así como en la Gaceta Oficial;
 
 V. Coordinar las actividades técnicas, administrativas y financieras del organismo para lograr una mayor eficiencia, eficacia y economía del mismo;
 
@@ -933,7 +953,9 @@ IX. Ordenar el pago de los derechos de conformidad con la legislación aplicable
 
 X. Ejecutar los acuerdos del Órgano de Gobierno;
 
-XI. Rendir al Ayuntamiento los informes sobre el cumplimiento de acuerdos de su Órgano de Gobierno; resultados de los estados financieros; avance en las metas establecidas en el programa operativo anual y en los programas de operación aprobados por el Órgano de Gobierno; cumplimiento de los programas de obras y erogaciones en las mismas; presentación anual del programa de labores y los proyectos del presupuesto de ingresos y egresos para el siguiente período;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2007)</small>
+
+XI. Elaborar y entregar al órgano de gobierno los informes sobre los avances de la gestión financiera, de la cuenta pública y de los estados financieros; avance en las metas establecidas en el programa operativo anual, en los programas de operación y en los acuerdos aprobados por dicho órgano; cumplimiento de los programas de obras y erogaciones en las mismas; y los proyectos del presupuesto de ingresos y egresos para el siguiente ejercicio;
 
 XII. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
 
@@ -961,17 +983,29 @@ El informe a que se refiere el párrafo anterior, deberá contener en forma expl
 
 ###### Artículo 42.
 
-Cuando así lo acuerden, dos o más Ayuntamientos podrán formar un Organismo Operador Intermunicipal. Tratándose de entidades paramunicipales que funjan como Organismos Operadores Municipales en alguno de los Ayuntamientos interesados, éstos solicitarán, previo acuerdo de Cabildo, autorización del Congreso del Estado para coordinarse en la prestación de los servicios públicos a que se refiere esta ley.
+Dos o más ayuntamientos podrán crear un Organismo Operador Intermunicipal, en términos de lo dispuesto en la Ley Orgánica del Municipio Libre.
 
-Cuando se trate de la formación de organismos operadores intermunicipales con Municipios de otros Estados, los Ayuntamientos requerirán también que el convenio respectivo sea aprobado por el Congreso del Estado.
+Tratándose de entidades paramunicipales que funjan como Organismos Operadores Municipales en alguno de los ayuntamientos interesados, éstos solicitarán, previo acuerdo de cabildo, autorización del Congreso del Estado para coordinarse en la prestación de los servicios públicos a que se refiere esta ley.
+
+Cuando se trate de la formación de organismos Operadores Intermunicipales con municipios de otros estados, los ayuntamientos requerirán que el convenio respectivo sea aprobado por el Congreso del Estado.
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
 
 ###### Artículo 43.
 
-El organismo operador intermunicipal tendrá, en lo conducente, la estructura, operación y administración de los organismos operadores municipales, el cual se subrogará en las responsabilidades y asumirá los derechos y obligaciones de los organismos que se extingan.
+El instrumento de creación de la entidad paramunicipal determinará, conforme a la legislación las condiciones para prestar el servicio público en forma intermunicipal.
 
-En el convenio respectivo, se determinarán las reglas para designar al Presidente del órgano de gobierno y la duración del encargo, el cual podrá ejercerse de manera rotativa.
+Dicho instrumento precisará las reglas para designar al presidente del órgano de gobierno y la duración del encargo, el cual podrá ejercerse de manera rotativa. El comisario será designado por el órgano de gobierno a propuesta de los ayuntamientos participantes.
 
-El reglamento que al efecto se expida, determinará, de conformidad con las disposiciones legales aplicables, las condiciones para prestar los servicios de forma intermunicipal. El comisario del organismo operador intermunicipal será designado por el órgano de gobierno, a propuesta de los ayuntamientos participantes.
+El Organismo Operador Intermunicipal tendrá, en lo aplicable, la estructura, operación y administración de los organismos operadores municipales, el cual se subrogará en las responsabilidades y asumirá los derechos y obligaciones de los organismos que se extingan.
+
+> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2007)</small>
+
+###### Artículo 43 Bis.
+
+Las normas que regulan los derechos por la prestación del servicio público; la aplicación de las sanciones por infracciones a esta ley; la planeación, programación y presupuestación del gasto público; la administración financiera, así como de recursos humanos y materiales; la contabilidad gubernamental y la integración de la cuenta pública; la administración y contratación de deuda pública, así como el dominio y administración de los bienes del Organismo Operador Intermunicipal, se sujetarán a lo dispuesto en el Código Hacendario Municipal del Estado de Veracruz de Ignacio de la Llave, aun cuando los ayuntamientos participantes tengan su propio Código Hacendario Municipal.
+
+Los Organismos Operadores Intermunicipales entregarán mensualmente al Congreso del Estado los informes sobre el avance de la gestión financiera y anualmente la cuenta pública del año inmediato anterior, conforme a la ley de la materia.
 
 ## TÍTULO TERCERO. DE LA PARTICIPACIÓN DE LOS SECTORES SOCIAL Y PRIVADO
 
@@ -1009,7 +1043,7 @@ II. Contratos administrativos de: conservación; mantenimiento; ampliación; o r
 
 #### SECCIÓN PRIMERA. DE LAS CONCESIONES
 
-#### SECCIÓN PRIMERA. DE LOS ORGANISMOS OPERADORES DE NATURALEZA PARAMUNICIPAL
+#### SECCIÓN PRIMERA. DE LOS ORGANISMOS OPERADORES DE NATURALEZA MUNICIPAL
 
 ###### Artículo 47.
 
@@ -1070,6 +1104,8 @@ Los particulares podrán realizar el tratamiento y disposición de sus aguas res
 #### SECCIÓN SEGUNDA. DE LAS OBRAS DE INFRAESTRUCTURA HIDRÁULICA
 
 #### SECCIÓN SEGUNDA. DE LOS ORGANISMOS OPERADORES INTERMUNICIPALES
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
 
 ###### Artículo 55.
 
@@ -1421,9 +1457,11 @@ Como complemento a esta tarifa media de equilibrio, el Consejo emitirá la metod
 
 El órgano de gobierno del organismo operador, o el concesionario podrán, a su juicio otorgar subsidios por cuanto al pago de los servicios que regula esta Ley, a particulares de escasos recursos económicos, dependencias o entidades federales, estatales o municipales, instituciones educativas o de asistencia pública o privada.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE ENERO DE 2007)</small>
+
 ###### Artículo 101.
 
-Las tarifas para el cobro de los servicios de suministro de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales, se aprobarán y publicarán en la Gaceta Oficial del Estado o en la tabla de avisos del Municipio correspondiente. El Consejo vigilará la correcta aplicación de las metodologías y dictaminará lo conducente previo a la publicación de las tarifas y cuotas, pudiendo hacer observaciones al prestador de los servicios.
+Las tarifas para el cobro de los servicios de suministro de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales, una vez aprobadas se publicarán en la Gaceta Oficial y en la tabla de avisos del Ayuntamiento del municipio correspondiente. El Consejo vigilará la correcta aplicación de las metodologías y dictaminará lo conducente, pudiendo hacer observaciones al prestador de los servicios.
 
 Las revisiones a las metodologías, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán por el Consejo cada cinco años, cuando menos. Dichas revisiones podrán hacerlas a petición de uno o varios prestadores de servicios, quienes deberán anexar una propuesta y un estudio técnico que la justifique.
 
@@ -2064,3 +2102,7 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Los organismos operadores de carácter municipal o regional creados como descentralizados, y en donde los municipios aún no hayan formalizado la transferencia del servicio, se integrarán a la Comisión del Agua del Estado, como oficinas operadoras de ésta, la Contraloría del Estado, supervisará esta incorporación en términos de la legislación aplicable.
+
+G.O. 9 DE ENERO DE 2007.
+
+Único. Este Decreto entrará en vigor a los tres días de su publicación en la Gaceta Oficial del gobierno del estado.
