@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-universidad-tecnologica-de-nayarit-23
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2002-02-16"
+last_updated: "2007-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2007.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -126,11 +126,15 @@ I.- El Consejo Directivo;
 
 II.- El Rector;
 
-III.- Los Directores de Carrera;
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2007)</small>
 
-IV.- El Director de Administración y Finanzas, y
+III.- El Secretario Académico;
 
-V.- El Director de Vinculación.
+IV.- Los Directores de Carrera;
+
+V.- El Director de Administración y Finanzas, y
+
+VI.- El Director de Vinculación.
 
 ###### ARTÍCULO 10.
 
@@ -225,6 +229,54 @@ Las ausencias temporales del Rector serán cubiertas por quien designe el Consej
 En las ausencias definitivas será sustituido por quien designe el Gobernador del Estado, en los términos establecidos por el artículo 14 del Decreto de Creación, el cual establece:
 
 El Rector de la Universidad será designado por el Gobernador del Estado, a partir de una terna propuesta por el Consejo Directivo, durará en su cargo cuatro años, el cual podrá ser reelecto por un período igual y removido por causa justificada que discrecionalmente apreciará el Consejo Directivo.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2007)</small>
+
+ARTÍCULO 16 bis.- El Secretario Académico, tendrá las siguientes facultades y obligaciones:
+
+En lo general, mantener la calidad académica de los programas educativos de la universidad, optimizando los recursos humanos, materiales y financieros, para la formación de Técnicos Superiores Universitarios que satisfagan las necesidades del sector productivo, y contribuyan al desarrollo económico y social del estado, la región y el país.
+
+Específicas:
+
+I.- Dirigir el proceso de planeación estratégica, con la colaboración del personal directivo a su cargo, para definir la misión, visión, estrategias, metas y objetivos, congruentes con las expectativas del sector productivo y las instancias superiores;
+
+II.- Implementar acciones de mejora con la colaboración de los Directores de Carrera, para contribuir al fortalecimiento de los indicadores de cada uno de los programas educativo (sic);
+
+III.- Dirigir el Comité Académico y de Vinculación;
+
+IV.- Evaluar el comportamiento de los indicadores de calidad, implementando programas integrales de capacitación;
+
+V.- Establecer, conjuntamente con el Director de Vinculación, la planeación y programación de visitas, prácticas y estadías, que los alumnos deberán realizar en las empresas de la región;
+
+VI.- Promover el desarrollo del personal académico, diseñando e implementando programas integrales de capacitación;
+
+VII.- Coordinar el apoyo de las direcciones de carrera en las actividades de promoción y difusión para la captación de alumnos;
+
+VIII.- Supervisar los servicios proporcionados por la Coordinación Médica, a través de los métodos que considere pertinentes;
+
+IX.- Supervisar el desarrollo de actividades deportivas y culturales, que promuevan la formación integral de los estudiantes;
+
+X.- Coordinar el desarrollo del Programa Operativo Anual del área académica;
+
+XI.- Supervisar la operación del Centro de Lenguas Extranjeras;
+
+XII.- Supervisar el cumplimiento de los planes y programas de estudio de la Institución;
+
+XIII.- Verificar la adecuada provisión de recursos para el cumplimiento de los planes y programas de estudio de la Institución;
+
+XIV.- Participar en la adquisición de tecnología de punta que permita el cumplimiento del saber hacer contemplado en los planes de estudio;
+
+XV.- Impulsar el uso de material bibliohemerográfico y software especializado en el proceso de enseñanza-aprendizaje;
+
+XVI.- Impulsar la formación de cuerpos académicos que contribuyan a la generación de conocimiento, a través de la participación de los profesores de tiempo completo;
+
+XVII.- Asumir la responsabilidad de los bienes muebles e inmuebles asignada a su cargo, de conformidad con los procedimientos establecidos;
+
+XVIII.- Atender las necesidades y problemas de trabajo relacionadas con el personal a su cargo;
+
+XIX.- Representar a la universidad en eventos externos cuando así le sea requerido por el Rector;
+
+XX.- Las demás funciones que le confiera el Rector.
 
 ###### ARTÍCULO 17.
 
@@ -683,3 +735,9 @@ II.- Para que las reformas sean aprobadas se requerirá cuando menos del 75% de 
 PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su aprobación por el Consejo Directivo.
 
 SEGUNDO.- Los aspectos no previstos en este Reglamento serán objeto de análisis y resolución por parte del Consejo Directivo.
+
+A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P.O. 10 DE ENERO DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.
