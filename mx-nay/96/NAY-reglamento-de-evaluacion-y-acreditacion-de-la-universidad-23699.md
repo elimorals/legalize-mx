@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-evaluacion-y-acreditacion-de-la-universidad-23699
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2006-03-15"
+last_updated: "2007-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE EVALUACION Y ACREDITACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2007.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -251,11 +251,11 @@ Cuando un alumno no presente una Evaluación Remedial se asentará en el concent
 
 La Evaluación Extraordinaria, es aquella que se lleva a cabo conforme al artículo 2°; cuando el alumno no acreditó la asignatura en la Evaluación Remedial.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 35.
 
-El alumno tendrá derecho a presentar evaluaciones extraordinarias en dos asignaturas como máximo, en cada cuatrimestre.
+Un alumno tendrá derecho a presentar evaluaciones extraordinarias en dos asignaturas como máximo en cada cuatrimestre, excediendo este número, causará baja académica y no podrá ser admitido nuevamente en la Universidad.
 
 ###### ARTÍCULO 36.
 
@@ -506,5 +506,9 @@ P.O. 16 DE FEBRERO DE 2005.
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
 
 P.O. 15 DE MARZO DE 2006.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
+
+P.O. 10 DE ENERO DE 2007.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
