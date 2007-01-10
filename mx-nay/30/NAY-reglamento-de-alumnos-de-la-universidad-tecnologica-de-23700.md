@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-alumnos-de-la-universidad-tecnologica-de-23700"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2005-02-16"
+last_updated: "2007-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE ALUMNOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2007.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -183,9 +183,9 @@ I. Presentarse a clases debidamente aseados;
 
 II. Los pantalones que usen deberán ser convencionales, (no con tiro largo ni demasiado flojos o rotos);
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2007)</small>
 
-III. Usar el uniforme reglamentario, (pantalón o falda de mezclilla color azul y playera gris con el logotipo de la Universidad, fajada);
+III. Usar el uniforme reglamentario, (pantalón o falda de mezclilla color azul y playera verde con el logotipo de la Universidad, fajada);
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2003)</small>
 
@@ -201,9 +201,13 @@ VII. No usar bermudas, y (sic)
 
 VIII. No usar lentes obscuros dentro del salón;
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2003)</small>
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2007)</small>
 
-IX. Y no usar todo lo que vaya en contra de la presentación que deban observar dentro del campo laboral.
+IX. No usar teléfono celular en clase, y
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2007)</small>
+
+X. No usar todo lo que vaya en contra de la presentación que deban observar dentro del campo laboral.
 
 ### CAPÍTULO CUARTO. DEL HORARIO DE CLASES
 
@@ -582,5 +586,9 @@ P.O. 31 DE ENERO DE 2004.
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
 
 P.O. 16 DE FEBRERO DE 2005.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
+
+P.O. 10 DE ENERO DE 2007.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
