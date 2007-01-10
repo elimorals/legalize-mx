@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-finanzas-20246"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-10"
-last_updated: "2006-06-30"
+last_updated: "2007-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ENERO DE 2007.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de febrero de 2001.
 
@@ -39,43 +39,59 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS.
 
 La Secretaría de Finanzas, como dependencia del Poder Ejecutivo Estatal, tiene a su cargo el desempeño de las atribuciones y facultades que le encomiendan la Constitución Política del Estado de Baja California Sur, la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, la Ley de Deuda Pública del Estado y Municipios de Baja California Sur, la Ley del Presupuesto y Control del Gasto Público Estatal, la Ley de Adquisiciones y Obras Públicas, la Ley de Adquisiciones Arrendamientos y Prestaciones de Servicios Relacionados con Bienes Muebles del Gobierno del Estado de Baja California Sur, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur, la Ley de Fomento Económico del Estado de Baja California Sur, la Ley de Hacienda del Estado de Baja California Sur, el Código Fiscal para el Estado y Municipios de Baja California Sur, la Ley de Coordinación Fiscal Federal y los convenios que en materia fiscal celebre el Estado con la Federación o con los Municipios, así como otras Leyes, Reglamentos, Decretos, Acuerdos y Ordenes del Ejecutivo del Estado.
 
+> <small>(REFORMADO, B.O. 10 DE ENERO DE 2007)</small>
+
 ###### ARTÍCULO 2.
 
 Al frente de la Secretaría de Finanzas estará el Secretario, quien para el desahogo de su competencia se auxiliará de:
 
-A).- Los Servidores Públicos siguientes:
+Las Unidades Administrativas siguientes:
 
-I.- Subsecretario de Finanzas:
+I. Dirección General de Administración, Modernización, Innovación y Control Interno;
 
-B).- Las Unidades Administrativas siguientes:
+II. Dirección de Ingresos;
 
-I.- Dirección de Ingresos;
+III. Dirección de Política Presupuestal;
 
-II.- Dirección de Política Presupuestal;
+IV. Dirección de Administración de Recursos Descentralizados;
 
-III.- Dirección de Administración de Recursos Descentralizados;
+V. Dirección de Contabilidad;
 
-IV.- Dirección de Contabilidad;
+VI. Dirección de Auditoria Fiscal;
 
-V.- Dirección de Auditoría Fiscal;
+VII. Unidad Jurídica Fiscal;
 
-VI.- Unidad Jurídica Fiscal;
+VIII. Unidad de Asesoría Técnica;
 
-VII.- Unidad de Asesoría Técnica;
+IX. Dirección de Informática;
 
-VIII.- Coordinación de Informática;
+X. Caja General; y
 
-IX.- Coordinación Administrativa y Financiera;
+XI. El Consejo Consultivo Fiscal, que estará integrada (sic) por las Direcciones de Ingresos, Auditoria y Unidad Jurídica, todas de la Secretaria de Finanzas, y estará facultada para operar el anexo 10 del Convenio de Colaboración Administrativa en Materia Fiscal Federal.
 
-X.- Caja General.
+Le estarán subordinados en forma directa la Dirección General de Administración, Modernización, Innovación y Control Interno, la Unidad Jurídica Fiscal, la Unidad de Asesoría Técnica, la Caja General. Asimismo, estará bajo su coordinación sectorial, el Fondo Social para el Desarrollo de Baja California Sur.
 
-Le estarán subordinados en forma directa la Unidad Jurídica Fiscal, la Unidad de Asesoría Técnica, la Caja General y la Coordinación Administrativa y Financiera. Asimismo, estará bajo su coordinación sectorial, la Comisión Estatal de Promoción y Recuperación de Créditos.
+Los Servidores Públicos y las Unidades Administrativas, ejercerán sus funciones, de acuerdo con las directrices y programas que establezca e: Ejecutivo Estatal, por conducto del Secretario de Finanzas y conforme a los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo.
+
+EI Secretario, con fundamento en las atribuciones determinadas por el presente Reglamento, dispondrá en Manuales de Organización, la distribución interna de funciones en niveles jerárquicos inferiores a las direcciones y unidades.
+
+> <small>(REFORMADO, B.O. 10 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 3.
 
-Los Servidores Públicos y las Unidades Administrativas a que se refiere el Artículo anterior, ejercerán sus funciones, de acuerdo con las directrices y programas que establezca el Ejecutivo Estatal, por conducto del Secretario de Finanzas y conforme a los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo.
+El Consejo Consultivo Fiscal tendrá las siguientes facultades:
 
-El Secretario, con fundamento en las atribuciones determinadas por el presente Reglamento, dispondrá en Manuales de Organización, la distribución interna de funciones en niveles jerárquicos inferiores a las direcciones y unidades.
+I. Autorizar la condonación total o parcial de recargos y multas derivadas de contribuciones estatales y federales coordinadas, respecto de los recargos por:
+
+a) Autoderminaciones del contribuyente en forma espontánea;
+
+b) Determinados en el dictamen elaborado por contador público registrado;
+
+c) Liquidadas por la Autoridad, y
+
+d) Derivados de autocorrección.
+
+II. Recibir por conducto de la Unidad Jurídica Fiscal, las solicitudes que presenten los particulares, cuidando que estás cubran los requisitos previstos en código fiscal del Estado.
 
 ### CAPÍTULO II. DEL TITULAR DE LA SECRETARÍA
 
@@ -123,53 +139,109 @@ XVII. Participar conjuntamente con la Secretaría de Promoción y Desarrollo Eco
 
 XVIII. Las demás que las disposiciones legales y Reglamentos le confieran, así como aquellas que le confiera el Gobernador del Estado.
 
-### CAPÍTULO III. DEL TITULAR DE LA SUBSECRETARÍA
+> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE ENERO DE 2007)</small>
+
+### CAPÍTULO III. DEL TITULAR DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN; MODERNIZACIÓN, INNOVACIÓN Y CONTROL INTERNO
+
+> <small>(REFORMADO, B.O. 10 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 6.
 
-Al frente de la Subsecretaría de Finanzas habrá un Subsecretario, el cual tendrá las funciones que le asigne este Reglamento y coordinará las siguientes Unidades Administrativas:
+Al frente de la Dirección General de Administración, Modernización, Innovación y Control Interno habrá un Director General, quien para el desahogo de sus funciones se auxiliara de las siguientes unidades y departamentos:
 
-A).- Unidades Administrativas:
+I. Unidad de enlace administrativo; a la que le estarán subordinados jerárquicamente los siguientes departamentos:
 
-Dirección de Ingresos;
+a) Departamento de Recursos Humanos y Materiales, y
 
-Dirección de Política Presupuestal;
+b) Departamento de Recursos Financieros.
 
-Dirección de Auditoría Fiscal;
+II. Departamento de Modernización e Innovación y;
 
-Dirección de Administración de Recursos Descentralizados;
+III. Departamento de Auditoria y Control Interno.
 
-Dirección de Contabilidad; y
-
-Coordinación de Informática.
+> <small>(REFORMADO, B.O. 10 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 7.
 
-Corresponden al Subsecretario de Finanzas las siguientes funciones:
+La Dirección General de Administración, Modernización, Innovación y Control Interno, tendrá las siguientes funciones:
 
-I. Acordar con el Secretario el despacho de los asuntos de las Unidades Administrativas adscritas a la Subsecretaría;
+I. Planear, programar, presupuestar, controlar y evaluar las actividades de administración y gasto público.
 
-II. Coordinar las labores encomendadas y dictar medidas necesarias para el mejoramiento de las Unidades Administrativas adscritas a la Subsecretaría, ejerciendo en su caso, en forma directa, las atribuciones que le otorga este Reglamento;
+II. Procurar el óptimo aprovechamiento de los recursos.
 
-III. Proponer al Secretario la delegación, en funcionarios subalternos, de facultades de su competencia;
+III. Apoyar eficiente y oportunamente las actividades administrativas.
 
-IV. Desempeñar las funciones y comisiones que le confiera el Gobernador del Estado y las que el Secretario le delegue y encomiende, manteniéndolos informados sobre el desarrollo de las mismas;
+IV. Controlar los recursos humanos, materiales y financieros.
 
-V. Sustituir al Secretario en sus ausencias temporales, excepto en el despacho y resolución de los asuntos que por disposición constitucional se consideren no delegables;
+V. Acordar con el Secretario, los asuntos cuyo tramite se le encomiende.
 
-VI. Auxiliar directamente al Secretario en el cumplimiento de las obligaciones que le señale este Reglamento y las demás disposiciones legales;
+VI. Informar periódicamente sobre la Administración interna de la Secretaria.
 
-VII. Suscribir documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le corresponda por suplencia, así como efectuar los pagos correspondientes, de conformidad con las políticas establecidas a este respecto por el Secretario de Finanzas;
+VII. Elaborar informes y estadísticas de los asuntos administrativos de la Secretaria.
 
-VIII. Formular el presupuesto de egresos de la Subsecretaría y enviarlo a la Coordinación Administrativa y Financiera para su integración correspondiente;
+VIII. Revisar, tramitar y autorizar, las requisiciones de materiales y financieras hechas por las dependencias de la Secretaria.
 
-IX. Vigilar la correcta recepción de las participaciones federales, en los términos de las disposiciones respectivas;
+IX. Asesorar a dependencias ejecutoras de programas sociales, sobre la normatividad aplicable.
 
-X. Recibir en acuerdo a los funcionarios y servidores públicos adscritos a la subsecretaria y conceder audiencias a los particulares de conformidad con las políticas establecidas al respecto;
+X. Diseñar y proponer los diversos instrumentos jurídicos que permitan la operación de los programas sociales de manera transparente y eficaz.
 
-XI. Participar en la instrumentación de las políticas fiscales, crediticias y de gasto público del Gobierno del Estado; y
+XI. Fiscalizar la aplicación de los recursos destinados a programas sociales, así como el manejo de los recursos públicos, la prestación transparente, pronta y eficiente de los servicios que presta la Secretaria.
 
-XII. Las demás que le señalen otras disposiciones legales o le confiera el Gobernador o el Secretario de Finanzas, de acuerdo a sus atribuciones.
+XII. Informar al Secretario sobre los resultados de las fiscalizaciones, revisiones e inspecciones efectuadas.
+
+XIII. Remitir a la Contraloría los expedientes de las auditorias si detecta irregularidades, para su seguimiento.
+
+XIV. Coordinar las medidas de control, ejecución y avance en la recuperación de los apoyos otorgados.
+
+XV. Vigilar el cumplimiento de la normatividad que regula el proceso de otorgamiento de apoyos con cargo a los programas sociales.
+
+XVI. Participar y dar seguimiento al establecimiento de directrices relacionadas con la ejecución y la fiscalización de los Fondos de aportaciones y demás mecanismos de transferencia de recursos.
+
+XVII. Coordinar aquellos trabajos relacionados con el seguimiento de los recursos entregados al Estado por concepto de incentivos, según lo dispuesto por el Convenio de Colaboración de (sic) Administrativa en Materia Fiscal Federal.
+
+XVIII. Establecer un programa permanente de reforma institucional administrativa.
+
+XIX. Requerir a las Direcciones, Coordinaciones y Unidades Administrativas de la Secretaria, información para clasificarla, asignarle valores y elaborar la información estadística que deba publicarse en Internet y otros medios.
+
+XX. Vigilar, evaluar, diseñar y sugerir las medidas necesarias para la modernización de los procesos operativos internos de las Direcciones y Unidades de la Secretaria, proponiendo técnicas, métodos y mecanismos que mejoren y eficienten los servicios públicos y reflejen un transparente ejercicio presupuestal.
+
+XXI. Requerir a las Direcciones y Unidades administrativas trimestralmente un informe de las labores desarrolladas de tal manera que nos permita evaluar sus alcances y dictaminar lo conducente para mejorar la operación.
+
+XXII. Recibir y conceder audiencias a los particulares en relación a la consulta y solicitud de información generada por la Secretaria de Finanzas, en apego a la Ley de Transparencia y Acceso a la Información Publica para el Estado de Baja California Sur.
+
+XXIII. Coordinarse con la Contraloría General del Estado con la finalidad de que ese órgano monitoree el avance del ejercicio presupuestal y de manera coordinada se implementen las medidas necesarias para alcanzarlas (sic) metas presupuestales.
+
+XXIV. Coordinar y evaluar las funciones y labores de las Direcciones, Coordinaciones, Unidades Administrativas de la Secretaria de Finanzas, mediante revisiones anuales, vigilando que cumplan con la normatividad vigente.
+
+XXV. Participar conjuntamente con la Dirección de Informática en la elaboración de bases de datos con la información proporcionada por las áreas que integran la Secretaria de Finanzas, con el fin de prever a las Secretarías de Despacho con información oportuna para la toma de decisiones.
+
+XXVI. Promover una administración publica cuyo modelo de gestión se caracterice por su eficacia, eficiencia, legalidad, transparencia, apertura a la participación social y facilitelas (sic) relaciones entre ciudadanos y servidores públicos.
+
+XXVII. Acordar con el Secretario los asuntos que involucren la participación de otras Direcciones, Coordinaciones y Unidades Administrativas de la Secretaria.
+
+XXVIII. Establecer las políticas, lineamientos, directrices y métodos de trabajo que deben seguir las dependencias de la Secretaría.
+
+XXIX. Integrar y proponer al Secretario de Finanzas el programa anual de mejora continua, así como las acciones para su instrumentación.
+
+XXX. Integrar los indicadores de desempeño y metas que apruebe anualmente la Junta de Gobierno de la Secretaría de Finanzas.
+
+XXXI. Promover y establecer comités de planeación y evaluación para integrar y dar seguimiento a los programas operativos anuales de las distintas dependencias de la Secretaría.
+
+XXXII. Recabar, inventariar y mantener actualizado el marco de referencia de procesos y organización de la Secretaría de Finanzas.
+
+XXXIII. Definir, implantar y mantener actualizados los indicadores de información fiscal para su operación en la Secretaría de Finazas (sic).
+
+XXXIV. Elaborar, en coordinación con las áreas involucradas, el diagnostico organizacional de la Secretaría de Finazas (sic).
+
+XXXV. Ejecutar, en coordinación con las dependencias de la Secretaria, la capacitación necesaria para los agentes del cambio o los responsables de la coordinación de los proyectos o procesos estratégicos.
+
+XXXVI. Determinar y establecer los métodos, técnicas, herramientas y mediciones de calidad institucional.
+
+XXXVII. Apoyar a las dependencias de la Secretaría en la planeación presupuestal de los proyectos estratégicos del propio órgano.
+
+XXXVIII. Coordinar los proyectos que le sean asignados por la Secretaría de Finanzas, que se requieran para promover la transformación conforme a los objetivos estratégicos del citado órgano.
+
+XXXIX. Las demás que le confieren las disposiciones legales aplicables y el Secretario de Finanzas.
 
 ### CAPÍTULO IV. DE LAS FUNCIONES GENÉRICAS DE LAS DIRECCIONES
 
@@ -391,13 +463,13 @@ VII. Captar, clasificar y analizar la información sobre el ejercicio del gasto 
 
 VIII. Emitir los reportes analíticos por concepto del ejercicio del Gasto Público;
 
-> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2007)</small>
 
-IX. Tramitar el pago de la documentación que presenten proveedores y prestadores de servicios, vigilando que toda erogación esté debidamente comprobada, requisitada y que exista asignación presupuestal suficiente dentro del Presupuesto de Egresos, de conformidad con el esquema de corresponsabilidad en el Gasto Público Estatal, cuando el importe del pago a realizar exceda a una cantidad equivalente a 100 salarios mínimos diarios vigentes en el Estado de Baja California Sur;
+IX. Tramitar el pago de la documentación que presenten los proveedores y prestadores de servicios, vigilando que toda erogación este debidamente comprobada, requisitada y que exista asignación presupuestal suficiente dentro del Presupuesto de Egresos, de conformidad con le (sic) esquema de corresponsabilidad en el Gasto Público Estatal, cuando el importe del pago a realizar exceda a una cantidad equivalente a 1500 salarios mínimos diarios vigentes en el Estado de Baja California Sur;
 
-> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2007)</small>
 
-X. Tramitar y autorizar el pago de la documentación que presenten proveedores, prestadores de servicios, vigilando que toda erogación esté debidamente comprobada, requisitada y que exista asignación presupuestal suficiente dentro del Presupuesto de Egresos, de conformidad con el esquema de corresponsabilidad en el Gasto Público Estatal, cuando el importe del pago a realizar no exceda a una cantidad equivalente a 100 salarios mínimos diarios vigentes en el Estado de Baja California Sur;
+X.-Tramitar y autorizar el pago de la documentación que presenten proveedores y prestadores de servicios, vigilando que toda erogación este debidamente comprobada, requisitada y que exista asignación presupuestal suficiente dentro del Presupuesto de Egresos, de conformidad con le (sic) esquema de corresponsabilidad en el Gasto Público Estatal, cuando el importe del pago a realizar no exceda a una cantidad equivalente a 1500 salarios mínimos diarios vigentes en el Estado de Baja California Sur;
 
 > <small>(REFORMADA, B.O. 30 DE JUNIO DE 2006)</small>
 
@@ -719,33 +791,53 @@ Las funciones anteriores se encomiendan sin afectar las facultades que el Secret
 
 La Unidad de Asesoría Técnica del Secretario de Finanzas estará a cargo de un Coordinador de Asesores y será asistido en sus funciones por los asesores que se designen para las especialidades y asuntos que se estimen necesarios.
 
-### CAPÍTULO VII. DE LA COORDINACIÓN DE INFORMÁTICA
+> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE ENERO DE 2007)</small>
+
+### CAPÍTULO VII. DE LA DIRECCIÓN DE INFORMÁTICA
+
+(REFORMADO, B.O. 10 DE ENERO DE 2007) (F. DE E., B.O. 10 DE FEBRERO DE 2007)
 
 ###### ARTÍCULO 28.
 
-La Coordinación de Informática tendrá las siguientes facultades:
+La Dirección de Informática estará a cargo de un director, quien tendrá las siguientes facultades:
 
-I.- La instalación y configuración de servidores a las distintas dependencias de la Secretaría;
+I. La instalación y configuración de servidores a las distintas dependencias de la Administración Pública del Estado;
 
-II.- La administración de bases de datos financieras, para el mejor logro de los objetivos de Recaudación Estatal, así como para el pago de los servicios personales que se presten al Gobierno del Estado;
+II. La administración de bases de datos financieras, para el mejor logro de los objetivos de Recaudación Estatal, así como para el pago de los servicios personales que se presten al Gobierno del Estado;
 
 III. La Administración de Servidores de Internet y Correos Electrónicos;
 
-IV.- La investigación de tecnologías y tendencias informáticas encaminadas a optimizar las actividades de las distintas dependencias de la Secretaría;
+IV. La investigación de tecnologías y tendencias informáticas encaminadas a optimizar las actividades de las distintas dependencias de la Secretaría;
 
-V.- La instalación de redes, telecomunicaciones y servicios informáticos;
+V. La instalación de redes, telecomunicaciones y servicios informáticos;
 
-VI.- La instalación y configuración de los equipos de cómputo y telecomunicación de las dependencias de la Secretaría, así como la instalación y cableado de redes locales;
+VI. La Instalación y configuración de los equipos de computo y telecomunicación de las dependencias de la Secretaría, así como la instalación y cableado de redes locales;
 
-VIII (sic).- El mantenimiento preventivo y correctivo a los Equipos de Cómputo;
+VII. El mantenimiento preventivo y correctivo a los Equipos de Computo;
 
-IX.- El Desarrollo y creación de páginas de Internet para el Gobierno del Estado y sus dependencias;
+VIII. El Desarrollo y creación de páginas de Internet para el Gobierno del Estado y sus dependencias;
 
-X.- El análisis y diseño de sistemas de información;
+IX. El análisis y diseño de sistemas de información;
 
-XI.- La instalación y capacitación en sistemas de información desarrollados; y
+X. La instalación y capacitación en sistemas de información desarrollados;
 
-XII.- Las demás que le confieran las disposiciones legales aplicables y se requieran para el mejor desempeño de las actividades propias de la Secretaría.
+XI. Acordar con el Secretario de Finanzas las actividades relacionadas con la Dirección de Informática;
+
+XII. Ejecutar las Políticas, normas, estándares y procedimientos que regulen la actividad de informática del Gobierno del Estado;
+
+XIII. Dirigir y vigilar el cumplimiento del Plan de Desarrollo Informático del Gobierno del Estado;
+
+XIV. Coordinar y supervisar las actividades de los departamentos bajo su responsabilidad;
+
+XV. Administrar y controlar los servicios de Internet e Intranet del Gobierno del Estado;
+
+XVI. Proporcionar servicios de informática para eventos especiales del Gobierno del Estado;
+
+XVII. Analizar, diseñar y programar sistemas de información requerida por las unidades y áreas del Gobierno del Estado;
+
+XVIII. Administrar y proporcionar servicio técnico al sistema telefónico del Gobierno del Estado; y
+
+XIX. Las demás que le confieran las disposiciones legales aplicables y se requieran para el mejor desempeñe de las actividades propias de la Secretaría.
 
 ###### ARTÍCULO 29.
 
@@ -826,3 +918,13 @@ B.O. 30 DE JUNIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE ENERO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Finanzas, la Secretaría de Promoción y Desarrollo Económico y la Oficialía Mayor, dispondrán de 30 días naturales contados a partir del día siguiente a la entrada en vigor del presente decreto, para elaborar las propuestas de modificación a los ordenamientos jurídicos que permitan facilitar la operatividad y el cumplimiento de las facultades contenidas en las Direcciones General de Administración, Modernización, Innovación y Control Interno, e Informática.
