@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-de-cultura-fisica-342
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-10-20"
-last_updated: "2006-05-30"
+last_updated: "2007-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34258&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-25"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL DE CULTURA FISICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 2007.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 20 de octubre de 2003.
 
@@ -281,9 +281,17 @@ XII. Participar en colaboración con las demás Subdirecciones Generales, en la 
 
 XIII. Fomentar la formación, capacitación y actualización de los recursos humanos necesarios y suficientes para llevar a cabo, con un incremento sostenido de calidad, la promoción y el fomento del deporte y la cultura física de la población nacional;
 
-XIV. Instrumentar acciones que permitan dar seguimiento al avance de resultados de los proyectos estratégicos de la Comisión Nacional de Cultura Física y Deporte, y
+XIV. Instrumentar acciones que permitan dar seguimiento al avance de resultados de los proyectos estratégicos de la Comisión Nacional de Cultura Física y Deporte, y (sic)
 
-XV. Administrar racionalmente los recursos informáticos existentes en la CONADE, para proporcionar una comunicación electrónica adecuada y confiable mediante el uso de modernas herramientas tecnológicas de información.
+XV. Administrar racionalmente los recursos informáticos existentes en la CONADE, para proporcionar una comunicación electrónica adecuada y confiable mediante el uso de modernas herramientas tecnológicas de información;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2007)</small>
+
+XVI. Dirigir, administrar, instruir y evaluar las actividades para la operación de la Escuela Nacional de Entrenadores Deportivos, así como para validar los planes y programas de estudio, para su autorización por parte de las instancias competentes de la Secretaría de Educación Pública;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2007)</small>
+
+XVII. Administrar, facilitar y supervisar el uso de las instalaciones y estancias deportivas ubicadas en “Villas Tlalpan”.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
 
@@ -309,9 +317,13 @@ VII. Participar en el Programa de Innovación y Calidad Institucional;
 
 VIII. Participar en colaboración con las demás Subdirecciones Generales, en la elaboración de convenios de coordinación, colaboración y concertación que la CONADE realice con los órganos estatales del deporte y organizaciones de la iniciativa privada, procediendo a dar seguimiento a los mismos en el ámbito de su competencia;
 
-IX. Establecer metodologías e instrumentos que fomenten la realización de actividades físicas, deportivas y recreativas para personas con algún tipo de discapacidad, y
+IX. Establecer metodologías e instrumentos que fomenten la realización de actividades físicas, deportivas y recreativas para personas con algún tipo de discapacidad, y (sic)
 
-X. Realizar aquellas tareas que le encomiende expresamente el Director General de la CONADE.
+X. Realizar aquellas tareas que le encomiende expresamente el Director General de la CONADE;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2007)</small>
+
+XI. Dirigir, administrar, instruir y evaluar las actividades para la operación del Centro Nacional de Desarrollo de Talentos Deportivos y Alto Rendimiento, así como establecer las acciones de coordinación con la Secretaría de Educación Pública, respecto de los programas académicos en apoyo a los Deportistas.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
 
@@ -524,5 +536,9 @@ D.O.F. 15 DE JULIO DE 2004.
 UNICO.- Las presentes Modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 30 DE MAYO DE 2006.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE ENERO DE 2007.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
