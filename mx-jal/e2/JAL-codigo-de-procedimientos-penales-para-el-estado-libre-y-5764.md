@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2006-12-28"
+last_updated: "2007-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -191,9 +191,9 @@ Cuando el inculpado, el ofendido, los testigos o los peritos no hablen castellan
 
 Cuando no pudiere encontrarse un intérprete mayor de edad, podrá designarse a un menor que haya cumplido catorce años.
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
 
-Cuando un indígena o un grupo de indígenas comparezcan ante cualquier autoridad, se deberán tomar en cuenta sus prácticas y costumbres, a fin de integrar la averiguación previa, así como dentro de las demás etapas del proceso penal, siempre y cuando no contravengan las disposiciones positivas en los ordenamientos vigentes.
+Cuando intervengan en las actuaciones personas pertenecientes a los pueblos o comunidades indígenas, deberán ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura, debiendo asentarse tal circunstancia en el acta respectiva y se deberán tomar en cuenta sus prácticas y costumbres, a fin de integrar la averiguación previa, así como dentro de las demás etapas del proceso penal, siempre y cuando no contravengan las disposiciones positivas en los ordenamientos vigentes.
 
 ###### Art. 17.
 
@@ -733,7 +733,9 @@ d) Se le reciban los testigos y demás pruebas que ofrezca, que se tomarán en c
 
 e) Tan luego lo solicite, si procede, se le otorgue el beneficio de la libertad provisional bajo caución, conforme lo señalado en la fracción I del artículo 20 de la Constitución General de la República y en términos de lo que al respecto dispone este Código;
 
-f) Si el detenido desconoce el castellano, se le designará un traductor para que lo asista, quien le hará saber los derechos que tiene; si éste perteneciere a una etnia, se informará al Instituto Nacional Indigenista. Si se tratare de extranjeros la detención se comunicará de inmediato a la representación diplomática o consular que corresponda, o a la delegación de servicios migratorios; y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
+
+f) Si el detenido desconoce el castellano, se le designará un traductor para que lo asista, quien le hará saber los derechos que tiene; tratándose de personas pertenecientes a los pueblos o comunidades indígenas, tanto el defensor como el intérprete correspondiente deberán tener pleno conocimiento de su lengua y cultura. Si se tratare de extranjeros la detención se comunicará de inmediato a la representación diplomática o consular que corresponda, o a la delegación de servicios migratorios; y
 
 IV. En todo caso se mantendrán separados los hombres y las mujeres en los lugares de detención o reclusión.
 
@@ -2016,6 +2018,12 @@ Todas las oficinas públicas, estatales y municipales, así como las institucion
 ###### Art. 259.
 
 Los documentos redactados en idioma extranjero se presentarán originales, acompañados de su traducción al castellano. Si ésta fuere objetada se ordenará que sean traducidos por los peritos que designe quien practique las diligencias.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
+
+###### Art. 259 Bis.
+
+Al aprobar o solicitar una prueba genética, el juez deberá precisar los puntos a los que debe concretarse el examen, y los peritos deberán entregar al juzgador el resultado de la prueba que contenga únicamente los datos que les fueron requeridos, en un formato que no permita la deducción de cualquier otra información genética del individuo.
 
 ### CAPITULO X. Indicios y presunciones
 
@@ -3684,3 +3692,33 @@ Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Sec
 P.O. 28 DE DICIEMBRE DE 2006.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE ENERO DE 2007.
+
+DECRETO NUMERO 21700/LVII/06
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE ENERO DE 2007.
+
+DECRETO NUMERO 21746/LVII/07
+
+PRIMERO. El presente decreto entrará en vigor noventa días después al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se deroga el decreto número 14,156 que crea a la Procuraduría para Asuntos Indígenas del Gobierno del Estado, sin embargo ésta, seguirá funcionando en tanto se integra y entra en funciones la Comisión.
+
+TERCERO. El Presupuesto de Egresos del Estado para el ejercicio Fiscal 2007 deberá establecer la partida presupuestal asignada a la Comisión Estatal Indígena.
+
+CUARTO. El Ejecutivo deberá de integrar la Comisión Estatal Indígena dentro de los 45 días siguientes a la entrada en vigor de la presente Ley.
+
+QUINTO. La Junta de Gobierno de la Comisión Estatal Indígena expedirá el Reglamento Interno de dicha entidad en un plazo de noventa días, contados a partir de la entrada en vigor de esta Ley.
+
+SEXTO. Los bienes en posesión o los adquiridos por la Procuraduría para Asuntos Indígenas del Gobierno del Estado, pasarán a formar parte del patrimonio de la Comisión Estatal Indígena.
+
+SEPTIMO. El Consejo Consultivo de la Comisión Estatal Indígena deberá estar instalado dentro de los 180 días siguientes a la entrada en vigor de la presente Ley.
+
+OCTAVO. Los asuntos pendientes de trámite de la Procuraduría para Asuntos Indígenas seguirán a cargo de la Comisión Estatal Indígena.
+
+NOVENO. Si para la fecha de entrada en vigencia de esta Ley, el Estado y los municipios con población indígena hubieren ya concluido su Plan de Desarrollo sin haber incorporado el sentir de los pueblos indígenas, se procederá a escuchar a las comunidades indígenas e incorporar a dichos planes las aportaciones en su caso.
+
+DECIMO. El titular del Poder Ejecutivo Estatal dispondrá que el presente decreto, se traduzca a las lenguas de los pueblos indígenas del Estado y ordenará su difusión en sus comunidades.
