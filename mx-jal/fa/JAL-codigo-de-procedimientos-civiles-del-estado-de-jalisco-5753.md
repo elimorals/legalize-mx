@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2006-12-02"
+last_updated: "2007-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -484,6 +484,14 @@ De las Formalidades y de las Actuaciones Judiciales.
 
 Las actuaciones judiciales y los ocursos deberán escribirse en idioma español. Los documentos redactados en idioma extranjero deberán ser acompañados con la correspondiente traducción; en caso de que sea objetada dicha traducción, el juez designará un perito. Para darle curso a la objeción, deberá estarse a lo establecido al respecto a la Sección Segunda del Capítulo IV del Título Sexto de este código.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ENERO DE 2007)</small>
+
+Las actuaciones dictadas en los juicios en los que una o ambas partes sean indígenas, que no supieran leer el español, el tribunal deberá traducirlas a su lengua, por conducto de la persona autorizada para ello.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ENERO DE 2007)</small>
+
+Las promociones que los pueblos o comunidades indígenas o los indígenas en lo individual, asentados en el territorio del Estado, hicieren en su lengua, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio por conducto de la persona autorizada para ello.
+
 Las fechas y cantidades se escribirán con número y con letra, en caso de discrepancia, prevalecerá lo escrito con letra. Si la cantidad estuviere varias veces en palabras y cifras, el documento valdrá, en caso de diferencia, por la suma menor.
 
 Si el interesado no supiere o no pudiere firmar, estampará al calce sus huellas digitales y firmará una persona a su ruego; en caso de que exista también impedimento para estampar huellas, bastará que se haga constar esa circunstancia en el ocurso respectivo bajo protesta de decir verdad por el impedido y la persona que firme a su ruego ante dos testigos. Los escritos ilegibles y los que carezcan de firma sin ajustarse a lo antes establecido, no serán admitidos.
@@ -645,6 +653,10 @@ Queda expresamente prohibido dictar otros trámites que los que para cada caso d
 Las audiencias de los negocios serán públicas, exceptuándose las que se refieran a divorcio, nulidad de matrimonio y las demás en que, a juicio del tribunal, se considere que sean privadas.
 
 El acuerdo será reservado, sin perjuicio de que las actuaciones anteriores puedan ser consultadas por los interesados.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
+
+ARTICULO 68 bis.- En los procedimientos en que intervengan personas que aleguen tener la calidad de indígenas, la misma se acreditará con la sola manifestación de quien la haga. Cuando el juez tenga duda de ella o fuere cuestionada en juicio, se solicitará por conducto de la Comisión Estatal indígena a las autoridades comunitarias la expedición de la constancia que acredite la pertenencia del individuo a un determinado pueblo o comunidad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -849,6 +861,10 @@ Las sentencias deberán expresar: el lugar, fecha y juez o tribunal que las pron
 Las sentencias deberán ser claras, precisas y congruentes con la demanda y su contestación, con las demás pretensiones deducidas oportunamente y con las pruebas recibidas en el pleito que tengan relación con los hechos sujetos a debate, condenando o absolviendo al demandado y decidiendo todos los puntos litigiosos que hubieren sido controvertidos sin tomar en consideración hechos, ni pruebas distintas. Cuando los puntos litigiosos objeto del debate sean varios, se hará el pronunciamiento correspondiente a cada uno de ellos.
 
 Los jueces y tribunales tienen la obligación de examinar de oficio los presupuestos procesales y los elementos de la acción ejercitada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ENERO DE 2007)</small>
+
+A fin de garantizarle a los indígenas, el acceso pleno a la jurisdicción del Estado en los procedimientos en que sean parte, el juez deberá considerar, al momento de dictar la resolución, sus usos, costumbres y especificidades culturales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2636,11 +2652,11 @@ Los autos en que se niegue alguna providencia de prueba, son apelables en ambos 
 
 Los hechos notorios no necesitan ser probados, y el Juez puede invocarlos aunque no hayan sido alegados por las partes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 293.
 
-Cuando una de las partes se oponga a la inspección o reconocimiento ordenados por el tribunal, para conocer sus condiciones físicas o mentales, o no conteste a las preguntas que el tribunal le dirija, éste debe tener por ciertas las afirmaciones de la contraparte, salvo prueba en contrario, si previo el apercibimiento que se le haga de estos efectos, insiste en su oposición. Lo mismo hará si una de las partes no exhibe a la inspección del tribunal, la cosa o documento que tiene en su poder, si la tenencia está acreditada legalmente, salvo disposición en contrario, expresamente prevista por la ley.
+Cuando una de las partes se oponga a la prueba pericial, o a la inspección o reconocimiento ordenados por el tribunal, para conocer sus condiciones físicas o mentales, o no conteste a las preguntas que el tribunal le dirija, éste debe tener por ciertas las afirmaciones de la contraparte, salvo prueba en contrario, si previo el apercibimiento que se le haga de estos efectos, insiste en su oposición. Lo mismo hará si una de las partes no exhibe a la inspección del tribunal, la cosa o documento que tiene en su poder, si la tenencia está acreditada legalmente, salvo disposición en contrario, expresamente prevista por la ley.
 
 ###### ARTICULO 294.
 
@@ -2861,6 +2877,10 @@ Si fueren varios los que hubieren de absolver posiciones, al tenor de un mismo i
 ###### ARTICULO 316.
 
 En ningún caso se permitirá que la parte que ha de absolver posiciones esté asistida por su abogado, procurador ni otra persona, ni se le dará traslado ni copia de las posiciones ni término para que se aconseje; pero si el absolvente fuere extranjero, podrá ser asistido por un intérprete que el Juez le nombrará.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ENERO DE 2007)</small>
+
+Cuando el que haya de absolver posiciones fuere indígena y no hable el español, o hablándolo no lo sepa leer, deberá asistirle un intérprete con conocimiento de su lengua y cultura, asentándose su declaración en español y en su propio idioma.
 
 ###### ARTICULO 317.
 
@@ -3203,6 +3223,12 @@ A éste efecto, al aceptar su nombramiento, manifestará, bajo protesta de decir
 ###### ARTICULO 359.
 
 Los honorarios del perito nombrado por las partes, serán pagados por la que lo nombró, sin perjuicio de lo que disponga la sentencia definitiva sobre condenación en costas.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
+
+ARTICULO 359 bis.- El juez admitirá la prueba pericial en materia de genética solamente para acreditar la paternidad de los hijos no reconocidos.
+
+Tras efectuar la prueba, los peritos deberán presentar al juzgado el original del estudio científico acompañado de un formado donde se explique de forma clara el resultado del mismo que no permita la deducción de cualquier otra información genética del individuo.
 
 Sección 4a.
 
@@ -5646,13 +5672,19 @@ Serán aplicables las disposiciones de este capítulo a los juicios relativos al
 
 ARTICULO 692 bis.- Cuando durante el juicio, antes de que se dicte sentencia, se informe que el bien inmueble materia de la litis fue abandonado por el inquilino, el Juez o Tribunal que conozca de los autos, ordenará la inspección del inmueble en la que se cumplan los requisitos aplicables al cateo, para constatar tal hecho en los de acuerdo a lo siguiente:
 
-I. El arrendador o fiador, podrá presentar el informe de abandono del bien inmueble arrendado, apoyado en la declaración de dos testigos, que por su vecindad o parentesco con el arrendatario tengan conocimiento de este hecho y lo señalen así en comparecencia ante el personal del juzgado;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
+
+I. El arrendador o fiador, podrán presentar el informe de abandono del bien inmueble arrendado, apoyado en la certificación de hechos realizada por notario público o en la declaración de testigos, que por su vecindad o parentesco con el arrendatario tenga conocimiento de este hecho y lo señalen así en la comparecencia ante el personal del Juzgado;
 
 II. El juez ordenará la inspección del bien inmueble materia de la litis, para comprobar tal hecho. Para esta diligencia, el juez autoriza al funcionario judicial que ejecute el mandato, para que rompa las cerraduras del inmueble con cargo al denunciante;
 
-III. El secretario de acuerdos que practica la diligencia de inspección, debe hacer una relación pormenorizada del estado de (sic) inmueble, si se encuentran bienes muebles del arrendatario pero es notorio el abandono, el funcionario señala tal situación en el acta correspondiente, hace inventario pormenorizado de tales bienes y señala el estado en el que se encuentran; estos bienes quedan en custodia del denunciante, hasta que el arrendatario los reclame o, en su caso, declarada la sentencia en el expediente principal, podrán ser destinados al pago de las obligaciones señaladas en la sentencia; y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
 
-IV. El secretario de acuerdos, hará constar en su caso, que el bien inmueble sigue ocupado por el arrendatario, hecho que asentará en el acta circunstanciada.
+III. El secretario que practica la diligencia de inspección, debe hacer una relación pormenorizada del estado del inmueble, si se encuentran bienes muebles del arrendatario pero es notorio el abandono, el funcionario señala tal situación en el acta correspondiente, hace inventario pormenorizado de tales bienes y señala el estado en el que se encuentran; estos bienes quedan en custodia del denunciante, hasta que el arrendatario los reclame o, en su caso, declarada la sentencia en el expediente principal, podrán ser destinados al pago de las obligaciones señaladas en la sentencia; y
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
+
+IV. El secretario, hará constar en su caso, que el bien inmueble sigue ocupado por el arrendatario, hecho que asentará en el acta circunstanciada.
 
 Concluida la diligencia, el Juez con base en el acta circunstanciada determinará si en efecto el bien fue abandonado, declara que en ese momento cesan de correr las rentas y se restituye al arrendador el uso y disfrute del bien inmueble. En caso contrario, impondrá a quien informó falsamente, una multa (sic) veinte a doscientos días de salario mínimo y le condenará al pago de los daños que en su caso se ocasionen. Esta determinación no admite recurso alguno.
 
@@ -8539,3 +8571,33 @@ TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto r
 P.O. 2 DE DICIEMBRE DE 2006.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE ENERO DE 2007.
+
+DECRETO NUMERO 21700/LVII/06
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE ENERO DE 2007.
+
+DECRETO NUMERO 21746/LVII/06
+
+PRIMERO. El presente decreto entrará en vigor noventa días después al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se deroga el decreto número 14,156 que crea a la Procuraduría para asuntos Indígenas del Gobierno del Estado, sin embargo ésta, seguirá funcionando en tanto se integra y entra en funciones la Comisión.
+
+TERCERO. El presupuesto de Egresos del Estado para el ejercicio Fiscal 2007 deberá establecer la partida presupuestal asignada a la Comisión Estatal Indígena.
+
+CUARTO. El Ejecutivo deberá de integrar la Comisión Estatal Indígena dentro de los 45 días siguientes a la entrada en vigor de la presente Ley.
+
+QUINTO. La Junta de Gobierno de la Comisión Estatal Indígena expedirá el Reglamento Interno de dicha enditad en un plazo de noventa días, contados a partir de la entrada en vigor de esta Ley.
+
+SEXTO. Los bienes en posesión a los adquiridos por la Procuraduría para Asuntos Indígenas del Gobierno del Estado, pasarán a formar parte del patrimonio de la Comisión Estatal Indígena.
+
+SEPTIMO. El Consejo Consultivo de la Comisión Estatal Indígena deberá estar instalado dentro de los 180 días siguientes a la entrada en vigor de la presente Ley.
+
+OCTAVO. Los asuntos pendientes de trámite de la Procuraduría para Asuntos Indígenas seguirán a cargo de la Comisión Estatal Indígena.
+
+NOVENO. Si para la fecha de entrada en vigencia de esta Ley, el Estado y los municipios con población indígena hubieren ya concluido su Plan de Desarrollo sin haber incorporado el sentir de los pueblos indígenas, se procederá a escuchar a las comunidades indígenas e incorporar a dichos planes las aportaciones en su caso.
+
+DECIMO. El titular del Poder Ejecutivo Estatal dispondrá que el presente decreto, se traduzca a las lenguas de los pueblos indígenas del Estado y ordenará su difusión en sus comunidades.
