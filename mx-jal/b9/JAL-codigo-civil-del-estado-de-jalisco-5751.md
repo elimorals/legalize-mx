@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2007-01-02"
+last_updated: "2007-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -131,11 +131,15 @@ VII. El Derecho extranjero será aplicable en el Estado en casos de reciprocidad
 
 Los habitantes del Estado de Jalisco, quienes en él se encuentren de manera accidental, y las personas jurídicas, tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes en forma que no perjudique a la colectividad, bajo las sanciones establecidas en este código y en las leyes relativas.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1998)</small>
 
 ###### Art. 17.
 
 Los servidores públicos, teniendo en cuenta la falta de instrucción de algunas personas, su conformación cultural, su pertenencia a un pueblo indígena, su acceso a los medios de comunicación o su extrema pobreza, podrán eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraron o de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten directamente el interés público, ni se lesionen derechos de tercero.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ENERO DE 2007)</small>
+
+Tratándose de personas pertenecientes a los pueblos o comunidades indígenas, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos establecidos en la Constitución del Estado.
 
 # LIBRO SEGUNDO. De las personas y de las instituciones de familia
 
@@ -1029,7 +1033,9 @@ Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada l
 
 Cuando hayan transcurrido tres años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
 
-Cuando la desaparición sea consecuencia de incendio, explosión, inundación, terremoto o catástrofe aérea, ferroviaria o de automotores u otro siniestro semejante y exista fundada presunción de que el desaparecido se encontraba en el lugar del siniestro o catástrofe, o a bordo de las naves y vehículos accidentados, bastará el transcurso de tres meses contados a partir del acontecimiento para que el juez declare la presunción de muerte. En estos casos la autoridad judicial acordará la publicación de la solicitud de declaración de presunción de muerte en un periódico de amplia circulación en el Estado, por dos veces con un intervalo de quince días.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
+
+Cuando la desaparición sea consecuencia de incendio, explosión, inundación, terremoto o catástrofe aérea, ferroviaria o de automotores u otro siniestro semejante o se trate de la víctima en el delito de secuestro y exista fundada presunción de que el desaparecido se encontraba en el lugar del siniestro o catástrofe, o a bordo de las naves y vehículos accidentados, bastará el transcurso de tres meses contados a partir del acontecimiento para que el juez declare la presunción de muerte. En estos casos la autoridad judicial acordará la publicación de la solicitud de declaración de presunción de muerte en un periódico de amplia circulación en el Estado, por dos veces con un intervalo de quince días.
 
 ###### Art. 147.
 
@@ -2503,7 +2509,7 @@ Cuando un cónyuge demande el divorcio o la ilegitimidad del matrimonio por caus
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
 
-Art. 405 bis.- El divorcio administrativo procede cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, no tengan hijos vivos o concebidos dentro de matrimonio, de común acuerdo hubieren liquidado la sociedad conyugal o legal en los términos del presente documento y tengan más de un año de casados.
+Art. 405 bis.- el divorcio administrativo procede cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, no tengan hijos vivos o concebidos dentro de matrimonio, de común acuerdo hubieren liquidado la sociedad conyugal o legal en los términos del presente documento y tengan más de un año de casados.
 
 Se presentarán personalmente al Oficial del Registro Civil del lugar de su domicilio, comprobarán con las copias certificadas respectivas que son casados, mayores de edad, que han liquidado su sociedad legal o conyugal si fuera el caso, la ingravidez de la cónyuge y manifestarán bajo protesta de decir verdad que los hechos declarados son ciertos y de manera terminante y explícita, su voluntad de divorciarse.
 
@@ -2997,9 +3003,13 @@ Adquieren el derecho que les concede el artículo 486 y los derechos que de ello
 
 Adquieren también ese derecho los hijos no nacidos, si el padre al casarse declara que reconoce al hijo de quien la mujer está encinta, o que lo reconoce si aquélla estuviere embarazada.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
+
 ###### Art. 491.
 
 La filiación de los hijos procreados fuera de matrimonio, sólo se establece por el reconocimiento voluntario hecho por los progenitores o por una sentencia que así lo declare.
+
+Si dentro del procedimiento correspondiente se oferta una prueba científica a fin de acreditar la filiación y el presunto progenitor se niega a proporcionar la muestra necesaria, se presumirá, salvo prueba en contrario, que es la madre o el padre.
 
 ###### Art. 492.
 
@@ -4029,9 +4039,17 @@ La tutela dativa tiene lugar:
 
 I. Cuando no hay tutor testamentario ni persona a quien conforme a la ley corresponda la tutela legítima;
 
-II. Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo y no hay ningún pariente de los designados en el artículo 636; y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
 
-III. En los demás casos establecidos por la ley.
+II. Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo y no hay ningún pariente de los designados en el artículo 636;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ENERO DE 2007)</small>
+
+III. Cuando es designada por persona mayor de edad en instrumentos público, para el caso en que se le declare estado de incapacidad; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ENERO DE 2007)</small>
+
+IV. En los demás casos establecidos por la ley.
 
 ###### Art. 649.
 
@@ -4052,6 +4070,14 @@ Siempre será dativa la tutela para asuntos judiciales del menor de edad emancip
 ###### Art. 653.
 
 A los menores de edad que no estén sujetos a patria potestad ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso, tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo de Familia, del ministerio público, del mismo menor y aún de oficio por el juez.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
+
+Art. 653 bis.- El tutor dativo a que se refiere la fracción III del artículo 648, tendrá la obligación de desempeñar la tutela en los términos del instrumentos público respectivo y recibirá en su caso los emolumentos ahí establecidos, previa declaración judicial que así lo establezca.
+
+En caso de no constar las obligaciones, ni la forma de llevar la tutela en el instrumento público, se estará a lo que establece el presente título.
+
+En el procedimiento de declaración del estado incapacidad, el juez deberá nombrar como tutor interino al designado en el instrumento público.
 
 ### CAPITULO IX. Del desempeño de la tutela
 
@@ -10807,7 +10833,9 @@ Puede pactarse que el bien comprado no se venda a determinada persona; pero es n
 
 Puede en el momento de formalizarse el contrato de compraventa que verse sobre inmuebles, señalarse por el comprador que el mismo pase en propiedad a su cónyuge o a sus ascendientes o sus descendientes cuando ocurra su fallecimiento.
 
-Al fallecimiento del comprador, bastará que se exhiban ante el encargado de la oficina del Registro Público de la Propiedad el pago de los impuestos que se causaren por la trasmisión de dominio y copia certificada de la partida de defunción para que se hagan las anotaciones que corresponden.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
+
+Al fallecimiento del comprador, bastará que se exhiban ante el encargado de la oficina del Registro Público de la Propiedad el pago de los impuestos que se causaren por la transmisión de dominio, copia certificada de la partida de defunción y la constancia expedida por el Registro Público de la Propiedad y del Director del Archivo de Instrumentos Públicos, en la que conste que no ha sido revocada o modificada la designación, para que se hagan las anotaciones que corresponden.
 
 ###### Art. 1894.
 
@@ -17431,6 +17459,10 @@ OCTAVO.- Los derechos y obligaciones derivados de hechos y actos jurídicos cele
 
 NOVENO.- Cuando en alguna ley o documento conste un acto jurídico y se haga referencia a una disposición específica del código que se deroga, se considerará hecha a la que corresponda en este código.
 
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
+
+DECIMO.- Lo dispuesto por lo (sic) artículos 1893 y 1894 del presente código será aplicable a los contratos de compraventa formalizados con anterioridad al día 14 de septiembre de 1995, si la declaración se realiza a través de testamento o instrumento público.
+
 SALON DE SESIONES DEL CONGRESO DEL ESTADO
 
 Guadalajara, Jalisco, a 8 de febrero de 1995.
@@ -17672,3 +17704,33 @@ P.O. 28 DE DICIEMBRE DE 2006.
 P.O. 2 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE ENERO DE 2007.
+
+DECRETO NUMERO 21700/LVII/06
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE ENERO DE 2007.
+
+DECRETO NUMERO 21746/LVII/06
+
+PRIMERO. El presente decreto entrará en vigor noventa días después al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se deroga el decreto número 14,156 que crea a la Procuraduría para Asuntos Indígenas del Gobierno del Estado, sin embargo ésta, seguirá funcionando en tanto se integra y entra en funciones la Comisión.
+
+TERCERO. El Presupuesto de Egresos del Estado para el ejercicio Fiscal 2007 deberá establecer la partida presupuestal asignada a la Comisión Estatal Indígena.
+
+CUARTO. El Ejecutivo deberá de integrar la Comisión Estatal Indígena dentro de los 45 días siguientes a la entrada en vigor de la presente Ley.
+
+QUINTO. La Junta de Gobierno de la Comisión Estatal Indígena expedirá el Reglamento Interno de dicha entidad en un plazo de dentro noventa días, contados a partir de la entrada en vigor de esta Ley.
+
+SEXTO. Los bienes en posesión o los adquiridos por la Procuraduría para Asuntos Indígenas del Gobierno del Estado, pasarán a formar parte del patrimonio de la Comisión Estatal Indígena.
+
+SEPTIMO. El Consejo Consultivo de la Comisión Estatal Indígena deberá estar instalado dentro de los 180 días siguientes a la entrada en vigor de la presente Ley.
+
+OCTAVO. Los asuntos pendientes de trámite de la Procuraduría para Asuntos Indígenas seguirán a cargo de la Comisión Estatal Indígena.
+
+NOVENO. Si para la fecha de entrada en vigencia de esta Ley, el Estado y los municipios con población indígena hubieren ya concluido su Plan de Desarrollo sin haber incorporado el sentir de los pueblos indígenas, se procederá a escuchar a las comunidades indígenas e incorporar a dichos planes las aportaciones en su caso.
+
+DECIMO. El titular del Poder Ejecutivo Estatal dispondrá que el presente decreto, se traduzca a las lenguas de los pueblos indígenas del Estado y ordenará su difusión en sus comunidades.
