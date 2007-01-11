@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-turistica-del-estado-de-jalisco-24644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-28"
-last_updated: "2004-12-25"
+last_updated: "2007-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROMOCION TURISTICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el martes 28 de mayo de 2002.
 
@@ -47,9 +47,11 @@ LEY DE PROMOCIÓN TURÍSTICA DEL ESTADO DE JALISCO
 
 ### CAPITULO UNICO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto establecer las bases para la planeación, promoción y fomento del turismo nacional y extranjero del Estado de Jalisco.
+La presente Ley es de orden público e interés general y tiene por objeto establecer las bases para la planeación, promoción y fomento del turismo nacional y extranjero del Estado de Jalisco y sus municipios.
 
 ###### Artículo 2.
 
@@ -59,13 +61,19 @@ La aplicación de esta Ley corresponde al Ejecutivo del Estado, a través de la 
 
 Esta Ley tiene por objeto establecer las bases para:
 
-I. La planeación, promoción y fomento de las actividades turísticas del Estado;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
+
+I. La planeación, promoción y fomento de las actividades turísticas del Estado y sus municipios;
 
 II. Promover el aprovechamiento eficiente de los recursos turísticos de la Entidad, así como el turismo social;
 
-III. Contribuir al desarrollo turístico de Jalisco, en congruencia con los ordenamientos de ecología, protección al medio ambiente, desarrollo urbano, rural y protección civil;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
 
-IV. Fomentar de manera prioritaria las acciones de planeación, promoción, programación, capacitación, concertación, verificación y vigilancia del desarrollo turístico del Estado;
+III. Contribuir al desarrollo turístico de Jalisco, en congruencia con los ordenamientos de ecología, protección al medio ambiente, desarrollo urbano, rural y protección civil y reglamentos municipales;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
+
+IV. Fomentar de manera prioritaria las acciones de planeación, promoción, programación, capacitación, concertación, verificación y vigilancia del desarrollo turístico del Estado y sus municipios;
 
 V. Propiciar el desarrollo coordinado de las actividades de los servicios turísticos;
 
@@ -89,9 +97,9 @@ IX. Fomentar la profesionalización y capacitación de las personas físicas que
 
 X. Optimizar la calidad de los servicios turísticos del Estado; y
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
 
-XI. La coordinación y participación de las autoridades federales, municipales y organismo del sector público, privado y social para el desarrollo turístico de la entidad.
+IX (SIC). La coordinación y participación de las autoridades federales, municipales y organismo del sector público, privado y social para el desarrollo turístico de la entidad y sus municipios.
 
 ###### Artículo 4.
 
@@ -161,11 +169,11 @@ III. El desarrollo turístico se fundará esencialmente en la coordinación de a
 
 La Secretaría llevará a cabo todas las acciones, estrategias y esfuerzos que sean necesarios para lograr los objetivos que se hayan fijado en el Programa Estatal de Turismo.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
 
 ###### Artículo 8.
 
-La Secretaría promoverá y participará en los acuerdos que celebre el Ejecutivo del Estado, con los prestadores de servicios turísticos. Asimismo, tratándose de la difusión de los valores artísticos, históricos, ecológicos y arqueológicos, el Ejecutivo Estatal, podrá suscribir los convenios necesarios a nivel nacional.
+La Secretaría promoverá y participará en los acuerdos que celebre el Ejecutivo del Estado, con los prestadores de servicios turísticos, informándole a los municipios. Asimismo, tratándose de la difusión de los valores artísticos, históricos, ecológicos y arqueológicos, el Ejecutivo Estatal, podrá suscribir los convenios necesarios a nivel nacional.
 
 ###### Artículo 9.
 
@@ -175,9 +183,11 @@ La Secretaría promoverá a través del Ejecutivo, la creación de comisiones in
 
 La Secretaría participará y coadyuvará en los esfuerzos que realizan los gobiernos municipales, sin perjuicio de las facultades que les otorgue la Ley, dentro del proceso de planeación turística, promoviendo también la participación de los sectores social y privado.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
+
 ###### Artículo 11.
 
-La Secretaría promoverá ante el Ejecutivo del Estado la coordinación con la Secretaría de Turismo Federal, a efecto de participar en los programas de promoción turística e inversión, que se lleven a cabo a nivel nacional, así como en el extranjero, con el fin de impulsar y facilitar el intercambio y desarrollo turístico en el Estado.
+La Secretaría promoverá ante el Ejecutivo del Estado la coordinación con la Secretaría de Turismo Federal, a efecto de participar en los programas de promoción turística e inversión, que se lleven a cabo a nivel nacional, así como en el extranjero, con el fin de impulsar y facilitar el intercambio y desarrollo turístico en el Estado y sus municipios.
 
 ###### Artículo 12.
 
@@ -203,9 +213,13 @@ VI. El Programa Estatal de Turismo especificará los casos en que para realizar 
 
 El Programa Estatal de Turismo deberá contener los siguientes objetivos y líneas de acción:
 
-I. Para investigar y analizar la oferta y la demanda de todos los servicios turísticos en el Estado, así como la infraestructura necesaria para la elaboración de registros, inventarios, estadísticas, anuarios u otros medios de información que tengan difusión;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
 
-II. Para operar y actualizar un sistema de información estatal y regional; así como la investigación, captura y procesamiento de la información para el Sistema Nacional de Información Turística a los que puedan tener acceso los miembros del Sector y el público en general;
+I. Para investigar y analizar la oferta y la demanda de todos los servicios turísticos en el Estado y sus municipios, así como la infraestructura necesaria para la elaboración de registros, inventarios, estadísticas, anuarios u otros medios de información que tengan difusión con la participación activa de los entes municipales;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
+
+II. Para operar y actualizar un sistema de información estatal, regional y municipal; así como la investigación, captura y procesamiento de la información para el Sistema Nacional de Información Turística a los que puedan tener acceso los miembros del Sector y el público en general;
 
 III. Encaminados a lograr inversiones turísticas, tomando en cuenta las necesidades y prioridades de cada región; y
 
@@ -227,9 +241,13 @@ La Secretaría realizará la promoción de la oferta turística con la participa
 
 La promoción turística comprenderá entre otros aspectos, los siguientes:
 
-I. La participación de la Secretaría en eventos, congresos y exposiciones estatales, nacionales e internacionales;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
 
-II. La promoción de los atractivos naturales y culturales, nuevos destinos, zonas turísticas y servicios turísticos que ofrezca el Estado de Jalisco a nivel nacional y en el extranjero;
+I. La participación de la Secretaría en eventos, congresos y exposiciones estatales, nacionales e internacionales y se invitará a los municipios que tengan relación con la actividad a promover;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
+
+II. La promoción de los atractivos naturales y culturales, nuevos destinos, zonas turísticas y servicios turísticos que ofrezca el Estado de Jalisco y sus municipios a nivel nacional y en el extranjero;
 
 III. El apoyo técnico y la participación en la creación de material informativo, promocional y publicitario del Sector;
 
@@ -247,13 +265,17 @@ IX. El apoyo al Sector en la producción de material promocional e informativo; 
 
 X. El otorgamiento de reconocimientos por parte de la Secretaría a los prestadores de servicios turísticos que se destaquen por su interés, creatividad, inversión, promoción y capacitación en la actividad turística o en la captación de turistas.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
+
 ###### Artículo 18.
 
-La promoción de atractivos y servicios turísticos que ofrece el Estado de Jalisco en el extranjero, se realizará en coordinación con las oficinas de representación del gobierno en el extranjero, mediante los mecanismos que la Secretaría de Turismo Federal y la Secretaría de Relaciones Exteriores establezcan para tal efecto, en los términos del Título Cuarto, Capítulo Segundo de la Ley Federal de Turismo.
+La promoción de atractivos y servicios turísticos que ofrece el estado de Jalisco y sus municipios en el extranjero, se realizará en coordinación con las oficinas de representación del gobierno en el extranjero, mediante los mecanismos que la Secretaría de Turismo Federal y la Secretaría de Relaciones Exteriores establezcan para tal efecto, en los términos del Título Cuarto, Capítulo Segundo de la Ley Federal de Turismo.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
 
 ###### Artículo 19.
 
-La Secretaría podrá apoyar y coordinar conjuntamente con las dependencias del Estado de Jalisco, organismos públicos y privados del sector turístico, la celebración de eventos turísticos, deportivos, culturales, sociales y demás relacionados con actividades propias del sector.
+La secretaría podrá apoyar y coordinar conjuntamente con las dependencias del estado de Jalisco, organismos públicos y privados del sector turístico, la celebración de eventos turísticos, deportivos, culturales, sociales y demás relacionados con actividades propias del sector y de los municipios que lo soliciten.
 
 ###### Artículo 20.
 
@@ -534,5 +556,9 @@ DECRETO 20871 QUE REFORMA EL ARTICULO 28.
 P.O. 25 DE DICIEMBRE DE 2004.
 
 DECRETO 20872 QUE REFORMA DIVERSOS ARTICULOS.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE ENERO DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
