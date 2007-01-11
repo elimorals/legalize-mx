@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2007-01-04"
+last_updated: "2007-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -86,6 +86,10 @@ Para tal efecto, los tribunales estarán expeditos para impartir justicia a toda
 ###### Artículo 5.
 
 Los tribunales de justicia del fuero común del Estado de Jalisco, ejercerán su jurisdicción para aplicar las leyes en asuntos penales, familiares, civiles, mercantiles y cuanta especialidad lo permita el presupuesto, con las limitaciones en el lugar, grado y términos que señala esta ley y su reglamento. En los asuntos del orden federal podrán intervenir en los casos que expresamente las leyes de esa materia les confieran jurisdicción.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
+
+En términos del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, los tribunales de justicia del fuero común del Estado de Jalisco conocerán de los delitos que las leyes federales les otorguen jurisdicción.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3200,3 +3204,9 @@ P.O. 4 DE ENERO DE 2007.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El reglamento de la Ley de Planeación para el Estado de Jalisco y sus Municipios deberá normar la periodicidad y formalidades para el funcionamiento del COPLADE en pleno y los Subcomités.
+
+P.O. 11 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La aplicación del presente decreto esta condicionada a la entrada en vigor de las reformas a las leyes federales que establecen competencia al Estado de Jalisco, para conocer y resolver delitos federales.
