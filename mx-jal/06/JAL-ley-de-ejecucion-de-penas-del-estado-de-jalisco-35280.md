@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ejecucion-de-penas-del-estado-de-jalisco-35280"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-29"
-last_updated: "2003-11-29"
+last_updated: "2007-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EJECUCION DE PENAS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 29 de noviembre de 2003.
 
@@ -225,6 +225,10 @@ VI. Permisos de salida diaria y reclusión de fin de semana; y
 
 VII. Libertad vigilada con la obligación de prestar jornadas de trabajo a favor de la comunidad y las demás obligaciones que la Dirección General de Prevención y Readaptación Social determine al momento de la resolución del Consejo de Evaluación y Seguimiento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ENERO DE 2007)</small>
+
+Para la aplicación de los tratamientos preliberatorios a que tengan derecho los internos indígenas, las autoridades considerarán los usos y costumbres de aquellos.
+
 ###### Artículo 15.
 
 La prelibertad, se aplicará dentro del término de un año anterior a la fecha considerada para que el interno obtenga su libertad condicional o absoluta o la reducción parcial de la pena. En cada caso, el Consejo de Evaluación y Seguimiento juzgará el momento preciso, dentro del término fijado, en que se deba iniciar esta fase de reintegración social.
@@ -257,9 +261,11 @@ Las mujeres y hombres, tendrán los mismos derechos, poniendo a su disposición 
 
 Se entiende por visita especial toda aquella que no queda comprendida dentro del concepto de familiar o íntima.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
+
 ###### Artículo 22.
 
-En los reglamentos de los establecimientos destinados a prisión preventiva y a la compurgación de sanciones, se consignará específicamente los derechos, obligaciones y el régimen interno, así como las medidas de seguridad interior a que están sujetos los internos y los visitantes en general.
+En los reglamentos de los establecimientos destinados a prisión preventiva y a la compurgación de sanciones, se consignará específicamente los derechos, obligaciones y el régimen interno, así como las medidas de seguridad interior a que están sujetos los internos y los visitantes en general. Tratándose de internos indígenas, el reglamento se les dará traducido a su lengua.
 
 ###### Artículo 23.
 
@@ -321,9 +327,11 @@ En los casos señalados por los artículos 29, 30 y 31, los internos deberán se
 
 En el Hospital Penitenciario se albergarán a juicio del Consejo Técnico Interdisciplinario respectivo, los internos que por su estado de salud y previo dictamen que emita el área médica del centro penitenciario correspondiente lo requieran; quienes deberán ser reintegrados a su respectiva institución, cuando sean dados de alta por parte de las autoridades responsables de dichos espacios.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
+
 ###### Artículo 33.
 
-Los reos sentenciados por delitos del orden común serán trasladados al centro de reclusión más cercano a su lugar de origen cuando sea factible de acuerdo a las circunstancias y atendiendo a los convenios establecidos.
+Los reos sentenciados por delitos del orden común serán trasladados al centro de reclusión más cercano a su lugar de origen cuando sea factible de acuerdo a las circunstancias, sus usos y costumbres tratándose de internos indígenas y atendiendo a los convenios establecidos.
 
 ### CAPÍTULO III. De la Reclusión Preventiva
 
@@ -539,9 +547,13 @@ Toda persona que ingrese a algún establecimiento penitenciario será sometida, 
 
 La enseñanza primaria y secundaria será obligatoria. A quienes ya la hayan cursado se les facilitará, de ser esto posible, el acceso a los estudios superiores adecuados a su vocación y aptitud. En todo caso, quedarán sujetos a los programas culturales que se establezcan.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
+
 ###### Artículo 63.
 
-La educación que se imparte a los internos tendrá, además de carácter académico, elementos cívicos, sociales, artísticos, físicos, éticos y de higiene.
+La educación se imparte a los internos tendrá, además de carácter académico, elementos cívicos, sociales, artísticos, físicos, éticos y de higiene.
+
+Tratándose de internos indígenas, la educación que se les imparta será bilingüe y la introducción deberá ser proporcionada por maestros bilingües.
 
 ###### Artículo 64.
 
@@ -775,7 +787,7 @@ X. Vigilancia de policía;
 
 XI. Tratamiento de deshabituación o desintoxicación; y
 
-XII. Trabajo en libertad en beneficio de la comunidad;
+XII. Trabajo en libertad en beneficio de la comunidad; (sic)
 
 ###### Artículo 92.
 
@@ -868,3 +880,27 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor noventa días después al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se deroga el decreto número 14,156 que crea a la Procuraduría para Asuntos Indígenas del Gobierno del Estado, sin embargo ésta, seguirá funcionado en tanto se integra y entra en funciones la Comisión.
+
+TERCERO. El Presupuesto de Egresos del Estado para el ejercicio Fiscal 2007 deberá establecer la partida presupuestal asignada a la Comisión Estatal Indígena.
+
+CUARTO. El Ejecutivo deberá de integrar la Comisión Estatal Indígena dentro de los 45 días siguientes a la entrada en vigor de la presente Ley.
+
+QUINTO. La Junta de Gobierno de la Comisión Estatal Indígena expedirá el Reglamento Interno de dicha entidad en un plazo de noventa días, contados a partir de la entrada en vigor de esta Ley.
+
+SEXTO. Los bienes de posesión o los adquiridos por la Procuraduría para Asuntos Indígenas del Gobierno del Estado, pasarán a formar parte del patrimonio de la Comisión Estatal Indígena.
+
+SEPTIMO. El Consejo Consultivo de la Comisión Estatal Indígena deberá estar instalado dentro de los 180 días siguientes a la entrada en vigor de la presente Ley.
+
+OCTAVO. Los asuntos pendientes de trámite de la Procuraduría para Asuntos Indígenas seguirán a cargo de la Comisión Estatal Indígena.
+
+NOVENO. Si para la fecha de entrada en vigencia de esta Ley, el Estado y los municipios con población indígena hubieren ya concluido su Plan de Desarrollo sin haber incorporado el sentir de los pueblos indígenas, se procederá a escuchar a las comunidades indígenas e incorporar a dichos planes de aportaciones en su caso.
+
+DECIMO. El titular del Poder Ejecutivo Estatal dispondrá que el presente decreto, se traduzca a las lenguas de los pueblos indígenas del Estado y ordenará su difusión en sus comunidades.
