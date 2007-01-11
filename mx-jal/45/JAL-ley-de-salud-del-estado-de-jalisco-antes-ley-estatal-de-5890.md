@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2006-10-31"
+last_updated: "2007-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -1512,6 +1512,16 @@ El Ejecutivo Estatal y los Ayuntamientos podrán convenir con las instituciones 
 ###### Art. 91.
 
 La Secretaría de Salud y Bienestar Social del Estado, en coordinación con la Dirección de Profesiones, vigilará el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos procurando la coordinación con las autoridades educativas, estatales y federales.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
+
+Art. 91 bis.- Los establecimientos de salud, de segundo y tercer nivel, del sector público y privado del Sistema Estatal de Salud, podrán contar con un comité hospitalario, el cual será responsable del análisis, discusión y apoyo en la toma de decisiones respecto de los problemas o dilemas bioéticos que se presenten en la práctica clínica, así como de la educación bioética permanente de sus miembros y del personal del establecimiento. Las opiniones del Comité lo relevan de las obligaciones al médico tratante.
+
+Los comités hospitalarios de bioética serán interdisciplinarios y podrán estar integrados por personal médico de distintas especialidades y personas de las profesiones de psicología, enfermería, trabajo social, filosofía o especialistas en bioética, abogados con conocimientos en derecho de la salud y aquellas personas que aporten elementos inherentes a las convicciones espirituales del paciente. Además, podrán participar el paciente o sus familiares, si están interesados.
+
+La Dirección o el órgano administrador de los establecimientos brindarán los elementos necesarios para el correcto funcionamiento de su respectivo Comité. Los integrantes de los Comités no quedan sujetos, en su actuación, a las recomendaciones de la Dirección o el órgano administrador del establecimiento.
+
+Los integrantes del Comité Hospitalario correspondiente elaborarán los lineamientos para su funcionamiento y deberán dar aviso, semestralmente, a la Secretaría de Salud de las opiniones que emitan, a fin de que ésta elabore criterios y guías éticas para la atención médica.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3670,3 +3680,7 @@ P.O. 26 DE AGOSTO DE 2006.
 P.O. 31 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
