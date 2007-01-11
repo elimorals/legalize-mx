@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-general-de-justicia-del-12026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-05"
-last_updated: "2006-04-08"
+last_updated: "2007-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -47,7 +47,9 @@ Esta ley tiene por objeto la organización de la Procuraduría General de Justic
 
 El Ministerio Público en el Estado, estará a cargo del Procurador General de Justicia del Estado, al cual le corresponde las siguientes atribuciones, que podrá delegar o ejercer por sí mismo, de conformidad con lo que establezca el presente ordenamiento y su reglamento:
 
-I. Perseguir los delitos del orden común cometidos en el Estado;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
+
+I. Perseguir los delitos del orden común cometidos en el Estado y los federales autorizados por las leyes de conformidad con el artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Velar por la legalidad y por el respeto de los derechos humanos en la esfera de su competencia, así como promover la pronta, completa y debida impartición de justicia;
 
@@ -666,3 +668,9 @@ P.O. 30 DE SEPTIEMBRE DE 2004.
 P.O. 8 DE ABRIL DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La aplicación del presente decreto esta condicionada a la entrada en vigor de las reformas a las leyes federales que establecen competencia al Estado de Jalisco, para conocer y resolver delitos federales.
