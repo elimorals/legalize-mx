@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-33401"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-25"
-last_updated: "2006-11-21"
+last_updated: "2007-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de julio de 2003.
 
@@ -425,9 +425,11 @@ La Dirección analizará y revisará cada solicitud, así como la documentación
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2007)</small>
+
 ###### ARTÍCULO 55.
 
-Las actas del Registro Civil se recopilarán en seis libros que se llevarán por quintuplicado. Las formas respectivas podrán constar por escrito o en medios magnéticos o electrónicos. En ellas se estampará la firma autógrafa o electrónica.
+Las actas del Registro Civil se recopilarán en ocho libros que se llevarán por quintuplicado. Las formas respectivas podrán constar por escrito o en medios magnéticos o electrónicos. En ellas se estampará la firma autógrafa o electrónica.
 
 Los libros deberán contener:
 
@@ -443,13 +445,25 @@ V. El quinto, actas de divorcio.
 
 VI. El sexto, actas de defunción e inscripción de las ejecutorias que declaren la ausencia o la presunción de muerte, así como las que declaren la pérdida o limitación de la capacidad legal para administrar bienes.
 
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+
+VII.- El Séptimo, actas del pacto civil de solidaridad.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+
+VIII.- El Octavo, actas de disolución o terminación de los pactos civiles de solidaridad.
+
 ###### ARTÍCULO 56.
 
 Toda acta deberá asentarse en los cinco ejemplares del registro y en ellos, deberán constar las firmas autógrafas, facsimilares o electrónicas del Oficial del Registro Civil y de los comparecientes, cuando así corresponda.
 
+(REFORMADO, P.O. 12 DE ENERO DE 2007) (F. DE E., P.O. 19 ENERO DE 2007)
+
 ###### ARTÍCULO 57.
 
-Las actas del Registro Civil sólo se asentarán en las formas siguientes: nacimiento, reconocimiento de hijos, adopción semiplena, matrimonio, defunción, divorcio y de inscripción de las sentencias ejecutoriadas que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes.
+Las actas del Registro Civil sólo se asentarán en las formas siguientes: nacimiento, reconocimiento de hijos, adopción semiplena, matrimonio, defunción, divorcio, registro de pacto civil de solidaridad y terminación del mismo, de inscripción de las sentencias ejecutoriadas que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes.
+
+> <small>(F. DE E., P.O. 19 ENERO DE 2007)</small>
 
 En caso de adopción plena sólo se asentará acta de nacimiento. Tratándose de emancipación por efecto de matrimonio, no se formará acta separada, sino que el Oficial del Registro Civil realizará las anotaciones correspondientes en las respectivas actas de nacimiento del cónyuge o de los cónyuges emancipados, expresándose esa circunstancia y la fecha en que el matrimonio se celebró, así como el número y la foja del acta relativa.
 
@@ -463,9 +477,11 @@ Ninguna autoridad podrá ordenar, cualquiera que sea su categoría y/o competenc
 
 Los Oficiales del Registro Civil, salvo las excepciones a que se refiere el párrafo que antecede, no obedecerán las órdenes que se libren para tal efecto, debiendo únicamente remitir bajo su estricta responsabilidad los apéndices y demás documentos al taller en donde deban ser encuadernados y otorgar copia cuando se les solicite por autoridad competente.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
 ###### ARTÍCULO 60.
 
-Además de los seis libros quintuplicados a que se refiere el artículo 55 de esta ley, los Oficiales del Registro Civil formarán los apéndices que sean necesarios, con los apuntes y documentos que presenten los interesados y con la constancia del pago de los derechos correspondientes, foliándose progresivamente y anotando en cada documento el número del acta respectiva y el sello de la Oficialía.
+Además de los ocho libros quintuplicados a que se refiere el artículo 55 de esta ley, los Oficiales del Registro Civil formarán los apéndices que sean necesarios, con los apuntes y documentos que presenten los interesados y con la constancia del pago de los derechos correspondientes, foliándose progresivamente y anotando en cada documento el número del acta respectiva y el sello de la Oficialía.
 
 ###### ARTÍCULO 61.
 
@@ -747,13 +763,59 @@ La autoridad judicial deberá enviar copia certificada por duplicado de su resol
 
 Cuando se recobre la capacidad legal para administrar bienes o se presente la persona declarada ausente o cuya muerte se presumía, la autoridad que corresponda y/o, en su caso, el mismo interesado, darán aviso al Oficial del Registro Civil y a la Dirección, para que se cancele el acta relativa y la anotación que se hubiere hecho en el acta de nacimiento respectiva.
 
-### CAPÍTULO PRIMERO. LAS ANOTACIONES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
-### CAPÍTULO SEGUNDO. LA RECTIFICACIÓN Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
+### CAPÍTULO VIII (SIC). EL LIBRO DE LAS ACTAS DE INSCRIPCIÓN DE LOS PACTOS CIVILES DE SOLIDARIDAD
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO 116
+
+1.- La celebración del pacto civil de solidaridad se sujetará a las formalidades y solemnidades que establece el Código Civil para el Estado de Coahuila.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO 116
+
+2.- Los Oficiales del Registro Civil proporcionarán a quienes pretendan contraer pactos civiles de solidaridad, las formas de solicitudes de pacto civil, sin perjuicio de la libertad que tienen los interesados de formular este documento de manera distinta y de acuerdo con sus circunstancias particulares.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO 116
+
+3.- Si alguno de los pretendientes hubiere estado bajo tutela por padecer alguno de los estados de incapacidad a que se refiere la fracción II del artículo 48 del Código Civil para el Estado de Coahuila, se deberá acompañar a la solicitud, la resolución del juicio que haya declarado la cesación de la tutela por haber desaparecido la causa que la motivó.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO 116
+
+4.- El Oficial del Registro Civil tendrá la obligación de anotar en las actas de nacimiento de los contratantes, la razón de que han celebrado pacto civil de solidaridad, el Oficial que autoriza el mismo, remitirá copia del acta relativa, al encargado de la oficina que haya registrado el nacimiento y a la Dirección, para que realice la anotación marginal correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO 116
+
+5.- En caso de que se declare la nulidad del pacto civil de solidaridad, el Oficial del Registro Civil tendrá la obligación de hacer la anotación correspondiente en las actas de pacto civil.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
+
+### CAPÍTULO IX. EL LIBRO DE LAS TERMINACIONES DE LOS PACTOS CIVILES DE SOLIDARIDAD
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO 116
+
+6.- Las actas de terminación de pactos civiles de solidaridad se levantarán de acuerdo con las disposiciones relativas del Código Civil para el Estado de Coahuila.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO 116
+
+7.- La copia certificada a que se refieren el artículo anterior y los demás documentos relativos, pasarán a formar parte del apéndice que corresponda.
 
 ## TÍTULO CUARTO. LAS ANOTACIONES Y RECTIFICACIONES DE LAS ACTAS DEL REGISTRO CIVIL
 
-### CAPÍTULO ÚNICO. BASES GENERALES
+### CAPÍTULO PRIMERO. LAS ANOTACIONES
 
 ###### ARTÍCULO 117.
 
@@ -768,6 +830,8 @@ Cuando habiéndose remitido el libro original respectivo a la Dirección y tuvie
 ###### ARTÍCULO 119.
 
 Si concluida y firmada un acta se hubiere dejado de asentar algún dato, el Oficial hará al margen la anotación correspondiente, firmándola en unión de los que intervinieron en el acto, siempre que con dicha anotación no se contradiga la esencia del acto registrado.
+
+### CAPÍTULO SEGUNDO. LA RECTIFICACIÓN Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -850,6 +914,8 @@ Cuando la Dirección tenga conocimiento de una duplicidad de asientos, en la mis
 En todo lo no previsto en esta sección, se aplicarán supletoriamente las disposiciones conducentes del Código Procesal Civil para el Estado.
 
 ## TÍTULO QUINTO. LAS RESPONSABILIDADES Y SANCIONES
+
+### CAPÍTULO ÚNICO. BASES GENERALES
 
 ###### ARTÍCULO 131.
 
@@ -1022,3 +1088,11 @@ SEGUNDO. Se deroga cualquier otra disposición que se oponga al presente decreto
 P.O. 21 DE NOVIEMBRE DE 2006.
 
 ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Dentro de los cuarenta y cinco días a la fecha de su publicación de este Decreto se expedirán, por conducto del Ejecutivo del Estado, las adecuaciones reglamentarias que sean necesarias para la ejecución cabal de este Decreto, especialmente, las que regule el registro del pacto civil de solidaridad.
+
+TERCERO.- Publíquese el presente Decreto, al igual que la exposición de motivos, en el Periódico Oficial del Gobierno del Estado.
