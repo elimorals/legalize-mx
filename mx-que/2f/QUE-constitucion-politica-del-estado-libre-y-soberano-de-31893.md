@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2006-01-31"
+last_updated: "2007-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2007.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -42,6 +42,8 @@ del Estado Libre y Soberano de Querétaro Arteaga
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 ### CAPITULO ÚNICO.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 1°.
 
@@ -125,25 +127,33 @@ Las autoridades estatales y municipales colaborarán con la familia en la adopci
 
 ###### ARTICULO 10°.
 
-Toda persona tiene derecho a que se le administre justicia por los tribunales del Estado, los que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y gratuita.
+Toda persona tiene derecho a que se le procure y administre justicia por los tribunales y órganos del Estado, los que estarán expeditos para impartirla, utilizando los principios y normas aplicables, en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y gratuita.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+El Estado instruirá un sistema integral de justicia aplicable a quienes, teniendo entre doce años cumplidos y menos de dieciocho años de edad, se les atribuya la realización de una conducta tipificada como delito por las leyes penales. Los menores de doce años de edad que hayan realizado alguna conducta prevista como delito en la ley, sólo serán sujetos a rehabilitación y asistencia social, en los términos que señale la ley.
+
+La operación del sistema estará a cargo de instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para adolescentes, quienes, en los términos de las leyes conducentes, podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso en particular, atendiendo a la protección integral y el interés superior del adolescente, sin demérito de los derechos de la víctima.
+
+Cuando resulte procedente, deberá observarse la aplicación de las formas alternativas de justicia. En los procesos seguidos a los adolescentes, se observarán las garantías del debido proceso y la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas serán proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento sólo se utilizará como medida extrema y por el tiempo más breve que proceda y podrá aplicarse únicamente a los mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves, en los términos de ley.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 11°.
 
-Esta Constitución reconoce el carácter plural de la sociedad de Querétaro. En consecuencia, las autoridades están obligadas a fortalecerla, alentando la participación democrática de individuos, organizaciones y partidos políticos en el desarrollo integral del Estado.
+Los valores de la cultura constituyen un bien irrenunciable de los gobernados y un derecho fundamental, las autoridades estatales y municipales, con la participación responsable de la sociedad civil, promoverán el rescate, preservación, enriquecimiento, protección, restauración y difusión del patrimonio cultural, que define al pueblo queretano, mismos que son inalienables e imprescriptibles. Las leyes del Estado protegen el patrimonio cultural de los queretanos.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+Las culturas populares gozarán de atención especial, el Estado garantizará la emisión, recepción y circulación de la información cultural.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPITULO TERCERO. DE LA POBLACION
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 20o.
 
 Son queretanos quienes nazcan en territorio del Estado.
 
-Son residentes del Estado, los que habiten en su territorio por más de seis meses consecutivos.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
+Son residentes del Estado, los que establezcan su domicilio personal de forma permanente en su territorio.
 
 Son ciudadanos del Estado:
 
@@ -151,9 +161,13 @@ a) Los nacidos en su territorio que hayan cumplido 18 años y tengan un modo hon
 
 b) Los ciudadanos mexicanos con más de tres años de residencia.
 
-La calidad de ciudadano de Querétaro se pierde por dejar de ser ciudadano mexicano, o por residir más de tres años consecutivos fuera de la Entidad, en caso de que la ciudadanía se haya adquirido por residencia, salvo en los casos de estudios, empleo, cargo o comisión de la Federación, del Estado o de los Municipios de la Entidad o instituciones descentralizadas de los mismos y en los demás casos que expresamente prevenga la ley.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
-La declaratoria de ciudadano, así como la pérdida de tal condición, se tramitará y resolverá ante el Ayuntamiento que corresponda. Suspendida o perdida la ciudadanía queretana sólo se recobrará en la forma y términos que previene la Constitución o las leyes respectivas.
+La calidad de ciudadano de Querétaro se adquiere por el sólo cumplimiento de los requisitos anteriores, y se pierde por dejar de ser ciudadano mexicano, o por residir más de tres años consecutivos fuera de la Entidad, en caso de que la ciudadanía se haya adquirido por residencia, salvo en los casos de estudios y empleo o cargo o comisión de la Federación, del Estado o de los Municipios de la Entidad o instituciones descentralizadas de los mismos y en los demás casos que expresamente prevenga la ley.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
+La declaratoria de la pérdida de la ciudadanía queretana se tramitará y resolverá ante el Ayuntamiento que corresponda. Suspendida o perdida la ciudadanía queretana sólo se recobrará en la forma y términos que previene la Constitución o las leyes respectivas.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
@@ -199,9 +213,13 @@ Los residentes mayores de 18 años tendrán las mismas obligaciones que los ciud
 
 ###### ARTICULO 12°.
 
-Las leyes del Estado protegerán el patrimonio cultural de los queretanos. Las autoridades estatales y municipales, con la participación responsable de la sociedad civil, promoverán el rescate, conservación y difusión de la cultura que define al pueblo queretano.
+La sociedad de Querétaro tiene una composición pluricultural y multiétnica sustentada originalmente en sus pueblos indígenas. Las leyes y las autoridades promoverán y protegerán el desarrollo de sus lenguas, culturas, usos y costumbres, recursos y formas específicas de organización social y garantizará a sus integrantes el acceso efectivo a la jurisdicción del Estado. En los juicios y procedimientos en que aquellos sean parte, se tomarán en cuenta sus prácticas y costumbres en los términos que establezca la ley.
 
-Las leyes propiciarán el desarrollo económico, político y social de los grupos étnicos de la entidad, sobre la base del respeto a sus lenguas, tradiciones, costumbres, creencias y valores que los caracterizan.
+Los pueblos indígenas tienen derecho a la libre determinación dentro del marco constitucional. La expresión concreta de su libertad se hará efectiva mediante la autonomía de las comunidades y la potestad para elegir a sus autoridades según los usos y costumbres aplicables, sin perjuicio de la unidad nacional y estatal, en los términos establecidos por la ley.
+
+El uso y disfrute de los recursos naturales por las comunidades indígenas se realizará de acuerdo con las formas y modalidades de la propiedad previstas en la Constitución Política de los Estados Unidos Mexicanos.
+
+El Gobierno del Estado y los programas de los Municipios, en el ámbito de sus respectivas competencias y conforme a la ley de la materia, reconocerán el derecho de las comunidades indígenas a promover su desarrollo equitativo y sustentable y a una educación laica, obligatoria y pluricultural. Asimismo, impulsarán el respeto y conocimiento de las diversas culturas existentes en el estado.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -651,9 +669,9 @@ La Legislatura podrá celebrar periodos extraordinarios de sesiones cuando para 
 
 La Legislatura reunida en periodo extraordinario de sesiones sólo se ocupará del asunto para el cual fue convocada. Si llegado el tiempo de periodo ordinario hubiere sesión extraordinaria, ésta cesará; y el motivo que le dio origen se continuará en sesión ordinaria.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ENERO DE 2007)</small>
 
-#### SECCIÓN SEXTA. DE LA CONTADURÍA MAYOR DE HACIENDA
+#### SECCIÓN SEXTA. DE LA ENTIDAD SUPERIOR DE FISCALIZACIÓN
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
@@ -687,7 +705,9 @@ Durante el ejercicio de su encargo y tres años anterior a su designación el ti
 
 Los Poderes del Estado y los sujetos de fiscalización estarán obligados, en los términos de ley, a rendir cuentas del ejercicio presupuestal que corresponda ante la Entidad Superior de Fiscalización del Estado, así como a facilitar los auxilios que requiera la misma para el ejercicio de sus funciones.
 
-El Poder Ejecutivo aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
+El Poder Ejecutivo aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo; para el caso de los municipios este procedimiento será aplicado por la autoridad fiscal correspondiente.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1049,11 +1069,11 @@ Dicho Consejo se integrará por el Magistrado Presidente del Tribunal Superior, 
 
 El Poder Judicial contará con un centro encargado de la mediación como medio alterno de solución de conflictos, cuyas funciones, competencias y estructura serán determinados en ley.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 64°.
 
-Compete al Poder Judicial la facultad de resolver controversias a través de la aplicación de los principios y las leyes, en asuntos judiciales del fuero común en materia civil, familiar, penal y electoral. De igual forma lo harán en materia federal cuando así lo faculten las leyes. Los juzgadores privilegiarán la mediación en todo momento cuando las características del juicio lo permita.
+Compete al Poder Judicial la facultad de resolver controversias a través de la aplicación de los principios y las leyes, en asuntos judiciales del fuero común en materia civil, familiar, penal, de menores y electoral. De igual forma lo harán en materia federal cuando así lo faculten las leyes. Los juzgadores privilegiarán la mediación en todo momento cuando las características del juicio lo permitan.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
@@ -1185,11 +1205,11 @@ Cuando se discuta una iniciativa, la Legislatura podrá solicitar a los titulare
 
 El Tribunal de lo Contencioso Administrativo estará dotado de plena autonomía y será independiente de cualquier autoridad administrativa. Tiene a su cargo dirimir las controversias de carácter administrativo que se susciten entre las dependencias administrativas estatales y municipales con los particulares. Tendrá la organización, jurisdicción y competencia que le atribuya la ley que apruebe la Legislatura.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 73º.
 
-Este tribunal residirá en la ciudad de Santiago de Querétaro y estará integrado por un magistrado propietario y los supernumerarios que se requieran.
+Este tribunal residirá en la ciudad de Santiago de Querétaro y estará integrado por el o los Magistrados propietarios y supernumerarios respectivos que determine la ley.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1331,17 +1351,33 @@ Para ser miembro del ayuntamiento se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Tener residencia en el Municipio de por lo menos cinco años anteriores al día de la elección y estar en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
 
-III. Ser mayor de veintiún años;
+II. Tener residencia en el Municipio de por lo menos cinco años y en el Municipio de por lo menos tres años, en ambos casos anteriores al día de la elección;
 
-IV. Estar inscrito en el padrón electoral y tener credencial de elector;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ENERO DE 2007)</small>
 
-V. No ser o haber sido cuando menos en los tres años anteriores al día de la elección, consejero electoral o director general del Instituto Electoral del Estado o magistrado del órgano jurisdiccional que conozca de la materia electoral;
+III. Estar en pleon goce de sus derechos civiles y políticos;
 
-VI. No desempeñar ningún cargo público en el que se ejerzan funciones de autoridad en ningún Municipio, ni pertenecer al ejército, ni tener mando de fuerzas en el mismo Municipio, a menos que en todos estos casos se separe definitivamente de su empleo o cargo noventa días antes de la elección; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE ENERO DE 2007)</small>
 
-VII. No ser ministro de algún culto religioso.
+IV. Ser mayor de veintiún años;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE ENERO DE 2007)</small>
+
+V. Estar inscrito en el padrón electoral y tener credencial de elector;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+
+VI. En los tres años anteriores al día de la elección no haber ejercido el cargo de consejero electoral o director general del Instituto Electoral del Estado o magistrado del órgano jurisdiccional que conozca de la materia electoral;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+
+VII. No desempeñar ningún cargo público en el que se ejerzan funciones de autoridad en ningún Municipio, ni pertenecer al ejército, ni tener mando de fuerzas en el mismo Municipio, a menos que en estos casos se solicite licencia o se renuncie al empleo, cargo o comisión cuando menos noventa días antes de la elección; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE ENERO DE 2007)</small>
+
+VIII. No ser ministro de algún culto religioso.
 
 Los miembros de los Concejos Municipales que sean designados por la Legislatura del Estado, en los casos previstos por esta Constitución, deberán cumplir con los mismos requisitos que señala este artículo.
 
@@ -1505,9 +1541,9 @@ No podrán contratarse empréstitos sino cuando se destinen a inversiones públi
 
 Ningún impuesto podrá establecerse si no se destina a los gastos públicos y ningún pago podrá hacerse si no está expresamente autorizado por el Presupuesto de Egresos del Estado o de los Municipios.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ENERO DE 2007)</small>
 
-## TITULO SÉPTIMO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
+## TITULO SÉPTIMO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1523,9 +1559,9 @@ Para los efectos de las responsabilidades a que alude este título, se considera
 
 El Gobernador del Estado, durante su ejercicio constitucional, sólo podrá ser acusado por traición a la Patria y delitos graves del orden común. Podrá también ser sujeto de juicio político en los términos del artículo 110, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
-Los diputados a la Legislatura del Estado, los magistrados del Tribunal Superior de Justicia, los magistrados de los Tribunales Administrativos, los titulares de las Secretarías, el Oficial Mayor, el Procurador General de Justicia, los Presidentes Municipales y el Presidente, Secretario Ejecutivo y Consejeros Electorales del Consejo General del Instituto Electoral del Estado, son responsables por violación a la Constitución Política de los Estrados Unidos Mexicanos, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de los fondos y recursos del Estado o de los Municipios.
+Los diputados a la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados de los Tribunales Administrativos, los Titulares de las Secretarías, el Oficial Mayor, el Procurador General de Justicia, los Presidentes Municipales y el Presidente, Secretario Ejecutivo y Consejeros Electorales del Consejo General del Instituto Electoral del Estado, son responsables por violación a la Constitución Política de los Estrados Unidos Mexicanos, a esta Constitución y a las Leyes que de ella emanen, así como por el manejo indebido de los fondos y recursos del Estado o de los Municipios.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1545,11 +1581,11 @@ Las leyes determinarán los casos y circunstancias en los que deba sancionarse p
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrán formular denuncia ante la Legislatura del Estado respecto de las conductas a que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 97º.
 
-Podrán ser sujetos a juicio político los diputados a la Legislatura, los magistrados del Tribunal Superior de Justicia, los jueces, los titulares de las Secretarías, el Oficial Mayor, los directores de Administración Pública Estatal, el Procurador General de Justicia, los sub-procuradores, los agentes del ministerio público, los magistrados de los Tribunales Administrativos, los presidentes y síndicos de los Ayuntamientos, los directores generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, de sociedades y asociaciones asimiladas a éstas y de fideicomisos públicos; el Presidente, Secretario Ejecutivo y Consejeros Electorales del Consejo General del Instituto Electoral de Querétaro.
+Podrán ser sujetos a Juicio Político los Diputados a la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces, los Titulares de las Secretarías, el Oficial Mayor, los Directores de Administración Pública Estatal, el Procurador General de Justicia, los Sub-procuradores, los Agentes del Ministerio Público, los Magistrados de los Tribunales Administrativos, los Presidentes Municipales y Síndicos de los Ayuntamientos, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, de sociedades y asociaciones asimiladas a éstas y de fideicomisos públicos; el Presidente, Secretario Ejecutivo y Consejeros Electorales del Consejo General del Instituto Electoral de Querétaro.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1607,6 +1643,10 @@ Si el servidor público ha vuelto a desempeñar sus funciones o ha sido nombrado
 
 La Ley de Responsabilidades determinará las obligaciones de los servidores públicos a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos o comisiones y las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución o inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 96, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa, se causen en los bienes o derechos de los particulares será objetiva y directa.
+
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 101°.
@@ -1633,13 +1673,17 @@ Para los efectos de lo previsto en este título, las declaraciones y resolucione
 
 ### CAPITULO ÚNICO
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 103°.
 
-Esta Constitución es la Ley fundamental del Estado y sólo podrá reformarse por el voto de las dos terceras partes del número total de integrantes de la Legislatura y por las dos terceras partes de los Ayuntamientos.
+Esta Constitución es la Ley fundamental del Estado y deberá estar conforme con las normas y principios de la Constitución Política de los Estados Unidos Mexicanos, las leyes de distribución de competencias y los tratados internacionales firmados por el Presidente de la República y sólo podrá reformarse por voto de las dos terceras partes del número total de integrantes de la Legislatura y por las dos terceras partes de los Ayuntamientos y en caso de rechazo, éstos deberán fundar y motivar su determinación, de lo contrario se entenderá como aprobada.
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 La Legislatura del Estado, al discutir reformas a la Constitución, se sujetará a los trámites establecidos para la formación de las leyes.
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 Si transcurrieren más de treinta días naturales después de que los ayuntamientos recibieron la propuesta de reformas para su consideración y, en su caso, aprobación, sin que la Legislatura reciba el acuerdo municipal respectivo, se entenderá que las reformas quedan aprobadas.
 
@@ -1933,43 +1977,59 @@ P.O. 6 DE DICIEMBRE DE 1979
 
 ###### ARTICULO 1º.
 
-El Estado de Querétaro Arteaga es parte integrante de la Federación Mexicana. Es Libre y Soberano en lo que se refiere a su régimen interior, y sólo delega sus facultades en los Supremos Poderes Federales, para el bien procomunal de la Nación, en todos aquellos puntos que ha fijado o fije expresamente la Constitución Política de los Estados Unidos Mexicanos.
+El Estado de Querétaro Arteaga es parte integrante de la Federación Mexicana. Es libre y soberano en lo que se refiere a su régimen interno y sólo delega sus facultades el Supremo Poder de la Federación en aquellos que fije expresamente la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 2º.
 
-Además de los derechos que establece la Constitución Política de los Estados Unidos Mexicanos, en el Estado de Querétaro toda persona, por el solo hecho de encontrarse en su territorio, gozará de los que establece esta Constitución, siendo obligación fundamental de las autoridades salvaguardar su cumplimiento.
+En el Estado de Querétaro toda persona gozará de los derechos que establece la Constitución Política de los Estados Unidos Mexicanos, las leyes federales, los tratados internacionales, esta Constitución y las leyes que de ella emanen. Los derechos establecidos en estos ordenamientos no podrán ser limitados o restringidos mediante plebiscito o referéndum. Las autoridades del Estado salvaguardarán el régimen de derechos y libertades de todas las personas por el sólo hecho de encontrarse en el territorio estatal.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 3º.
 
-Los órganos del poder público del Estado proveerán las condiciones para el cabal ejercicio de la libertad de individuos y grupos que integran la sociedad y propiciarán la participación de todos los habitantes en la vida política, económica, cultural y social de la Entidad.
+Las autoridades estatales y municipales promoverán la integración, desarrollo y fortalecimiento de la familia, sus fines de unidad, convivencia armónica y ayuda mutua, imponiendo derechos y obligaciones recíprocas entre ambos cónyuges, y la preservación de los valores de la comunidad; adoptarán medidas que propicien el desarrollo físico, emocional y mental de los menores, de los jóvenes y de todas aquellas que por circunstancias particulares lo requieran; fomentarán la participación de la niñez y la juventud en actividades culturales, cívicas, sociales, ecológicas, políticas y deportivas; establecerán un sistema permanente de tutela, apoyo e integración social de los adultos mayores y de las personas discapacitadas que se encuentren en condiciones de desventaja física o mental, para facilitar una vida de mayor calidad, digna, decorosa y su pleno desarrollo, y promoverán la difusión del deporte, la recreación y la cultura entre la población. Toda forma de discriminación será sancionada por la Ley.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+Las autoridades promoverán las condiciones de equidad necesarias para el pleno goce de la libertad, la igualdad, la seguridad y la no discriminación de las personas y garantizarán el derecho al honor, a la intimidad personal y familiar y al libre desarrollo de la personalidad.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 4º.
 
-La educación que impartan los gobiernos estatal y municipales, los organismos descentralizados y los particulares con autorización o reconocimiento de validez de estudios cualquiera que sea su tipo o modalidad, se ajustará a los principios que se establecen en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y a las leyes que de ella emanen, y promoverá, además, el conocimiento de la geografía y la cultura del Estado; de sus valores arqueológicos, históricos y artísticos; de las tradiciones, lengua y creencias de los grupos étnicos, así como de su papel en la configuración y desarrollo de la historia e identidad de la Nación Mexicana.
+La educación que impartan los gobiernos estatal y municipales, los organismos descentralizados y los particulares con autorización o reconocimiento de validez de estudios, cualquiera que sea su tipo o modalidad, se ajustará a los principios que se establecen en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y a las leyes que de ella emanen. Además, promoverá el conocimiento de la geografía, la cultura y las características sociales y económicas del Estado, de sus valores arqueológicos arquitectónicos e históricos; las tradiciones, lenguas y creencias de los grupos étnicos y el papel de éstos en la configuración y desarrollo de la historia e identidad de la Nación Mexicana.
 
-El sistema educativo estatal estará orientado a exaltar los valores cívicos y a fomentar el trabajo productivo para una convivencia social armónica.
+El sistema educativo estatal estará orientado a formar en los valores cívicos y democráticos a fomentar el trabajo productivo para una convivencia social armónica, promoviendo además el desarrollo de la ciencia y tecnología.
 
-Las universidades e instituciones públicas estatales de educación superior tendrán derecho a recibir del Estado un subsidio suficiente y oportuno para el eficaz cumplimiento de sus fines.
+Las Universidades e Instituciones Públicas Estatales de Educación Superior tendrán derecho a recibir del Estado un subsidio suficiente y oportuno para el eficaz cumplimiento de sus fines, sin detrimento de su armonía académica.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 5º.
 
-Corresponde al Estado planear, participar, conducir, coordinar y orientar el desarrollo integral de la Entidad para que, mediante el fomento del crecimiento económico y el empleo y una justa distribución del ingreso y la riqueza, se permita el pleno ejercicio de la libertad y la dignidad de individuos y grupos sociales cuya seguridad y bienestar protege ésta Constitución.
+Corresponde al Ejecutivo planear, participar, conducir, coordinar y orientar el desarrollo integral de la Entidad para que, mediante el fomento del crecimiento económico y el empleo y una justa distribución del ingreso y la riqueza se permita el pleno ejercicio de la libertad y la dignidad de individuos y grupos sociales cuya seguridad y bienestar protege ésta Constitución.
 
-El Ejecutivo del Estado, con el concurso de los sectores públicos, social y privado, organizará el sistema de planeación democrática y expedirá el Plan Estatal de Desarrollo.
+El Ejecutivo del Estado, con el concurso de los sectores de la sociedad, organizará el Sistema de Planeación Democrática y expedirá el Plan Estatal de Desarrollo que servirá de base a los programas de la administración pública estatal.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
+###### ARTICULO 6º.
+
+Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar integral, por lo que es obligación del Gobierno del Estado, los Municipios y sus habitantes protegerlo en beneficio de las presentes y futuras generaciones.
+
+La protección y conservación de los recursos naturales será prioritario en el Estado de Querétaro, y su explotación sólo será permitida en los términos y modalidades que establezcan las leyes.
+
+La ley establecerá las sanciones correspondientes cuando se violen los principios establecidos en este artículo, así como la obligación de reparar el daño y perjuicios ocasionados.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 7º.
 
-La población tiene derecho a estar informada de manera continua y suficiente sobre las actividades que lleven a cabo las autoridades estatales y municipales y, en general, sobre los acontecimientos de su entorno local y regional.
+El Gobierno del Estado y los municipios garantizarán a los individuos el derecho a la información, otorgando el derecho de rectificación conforme a la ley.
+
+Esta Constitución privilegia el establecimiento de Archivos Públicos, cuya función primordial será el acopio, resguardo y difusión de documentos públicos, mismos que serán regulados por una ley especial de la materia. Los Archivos Públicos serán de libre acceso y sin más limitaciones que el interés estatal y en concordancia con las garantías consagradas a los queretanos en esta Constitución y en la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1979,13 +2039,17 @@ Todo individuo tiene derecho al trabajo, a la salud y a disfrutar de vivienda di
 
 El Gobierno del Estado y los gobiernos municipales promoverán la construcción de viviendas e inducirán a los sectores privado y social hacia éste objeto, de conformidad con las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 9º.
 
-Las autoridades del Estado velarán por la defensa de los derechos humanos e instituirán los medios adecuados para su salvaguarda.
+El Estado garantizará el respeto a los derechos humanos, promoverá su defensa y proveerá las condiciones necesarias para el cabal ejercicio de los mismos.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+La libertad de expresión y de imprenta son derechos fundamentales de los queretanos, sin más límites que el respeto a la vida privada, la moral, la paz pública, los derechos de terceros o la provocación de algún delito.
+
+Esta Constitución reconoce los derechos de los profesionales de la comunicación, privilegiando el respeto a la integridad de su trabajo y el secreto de sus fuentes de información.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO PRIMERO.
 
@@ -2192,3 +2256,15 @@ TERCERO. Una vez que entre en vigor la Ley reglamentaria de la Entidad, el perso
 La Legislatura, una vez que entre en vigor la ley reglamentaria de la Entidad, designará conforme a los procedimientos y requisitos señalados en el texto constitucional y legal al titular de la Entidad Superior de Fiscalización del Estado.
 
 Las reformas realizadas a los artículos 41 fracciones XV y XXV, 47 y 87 por la presente Ley, entrarán en vigor una vez que inicie su vigencia la Ley reglamentaria de la Entidad.
+
+P.O. 12 DE ENERO DE 2007.
+
+LEY QUE REFORMA LOS ARTICULOS 1, 2, 3, 4, 5, 6, 7, 9, 10, 11 Y 12 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO DE ARTEAGA.
+
+ÚNICO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 12 DE ENERO DE 2007.
+
+LEY QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO DE ARTEAGA
+
+ÚNICO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
