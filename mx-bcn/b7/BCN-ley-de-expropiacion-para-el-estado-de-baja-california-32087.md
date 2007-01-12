@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-expropiacion-para-el-estado-de-baja-california-32087"
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-13"
-last_updated: "2003-06-13"
+last_updated: "2007-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 13 de junio de 2003.
 
@@ -35,9 +35,11 @@ LEY DE EXPROPIACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
 ###### Artículo 1.
 
-Esta Ley tiene por objeto regular la expropiación por parte del Ejecutivo Estatal, de la propiedad privada, por las causas de utilidad pública, de conformidad a lo dispuesto por el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+Las disposiciones de la presente ley son de orden público, y reglamentan la fracción XVII, del artículo 49, de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 ###### Artículo 2.
 
@@ -45,9 +47,11 @@ La propiedad privada en el Estado podrá ser expropiada, por causa de utilidad p
 
 Los bienes muebles sólo pueden ser expropiados por las causas de utilidad pública previstas en las fracciones VII, IX, XI y XVIII del artículo 6 de esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
 ###### Artículo 3.
 
-A falta de la disposición expresa en la presente Ley, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Baja California, siempre y cuando se trate de instituciones previstas en esta Ley.
+A falta de la disposición expresa en la presente Ley, se aplicará supletoriamente la Ley de Procedimientos para los Actos de la Administración Pública para el Estado de Baja California, siempre y cuando se trate de instituciones previstas en esta Ley.
 
 ###### Artículo 4.
 
@@ -59,7 +63,9 @@ II.- Autoridad Expropiante: El titular del Poder Ejecutivo del Estado;
 
 III.- Secretaría: La Secretaría de Infraestructura y Desarrollo Urbano del Estado;
 
-IV.- Entidades: Organismos Públicos Descentralizados, Empresas de participación y/o Fideicomisos, de la administración pública estatal;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+
+IV.- Entidades: Organismos Públicos Descentralizados, Empresas o Fideicomisos, de la Administración Pública Estatal;
 
 V.- Dependencia: Toda oficina centralizada de la administración pública estatal;
 
@@ -91,29 +97,31 @@ II.- La apertura, ampliación, prolongación y alineación de calles, la constru
 
 III.- La constitución de un derecho de vía y áreas necesarias para la construcción o introducción de infraestructura hidráulica, drenaje sanitario, pluviales, gas, electricidad, y cualquier otra red de servicio;
 
-IV.- El embellecimiento, ampliación y saneamiento de las poblaciones y puertos;
+IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 12 DE ENERO DE 2007)
 
-V.- La construcción y ampliación de hospitales, dispensarios médicos, centros de recuperación de la salud, asilos, hospicios, guarderías, escuelas para cualquier grado o clase de enseñanza, plazas, parques, jardines, áreas deportivas, auditorios, centros para la difusión de la cultura, estaciones de transporte, centros de readaptación social, panteones, rellenos sanitarios, campos de aterrizaje, edificios para oficina de gobierno, o cualquier otra obra destinada a prestar servicios de beneficio colectivo;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
 
-VI.- Las acciones necesarias para la ejecución de algún Programa o Plan de Desarrollo Urbano;
+V.- La construcción y ampliación de hospitales, dispensarios médicos, centros de recuperación de la salud, asilos, hospicios, guarderías, escuelas para cualquier grado o clase de enseñanza, plazas, parques, jardines, áreas deportivas, auditorios, centros para la difusión de la cultura, área natural protegida, estaciones de transporte, de seguridad pública, centros de readaptación social, panteones, rellenos sanitarios, campos de aterrizaje, edificios para oficina de gobierno, y cualquier obra destinada a prestar servicios de beneficio colectivo;
+
+VI.- (REFORMADA [N. DE E. DEROGADA], P.O. 12 DE ENERO DE 2007)
 
 VII.- La conservación de los lugares de belleza panorámica, de las antigüedades y objetos de arte, edificios y monumentos arqueológicos o históricos y de las cosas que se consideren características notables de la cultura nacional, regional o estatal;
 
-VIII.- La conservación, ampliación y creación de áreas y terrenos propios para el desarrollo de la industria, vivienda, comercio e industria turística;
+VIII.- (REFORMADA [N. DE E. DEROGADA], P.O. 12 DE ENERO DE 2007)
 
 IX.- Los procedimientos empleados para combatir o impedir la propagación de epidemias, epizootias, incendios, plagas, inundaciones u otro caso fortuito;
 
-X.- La adquisición de tierra para la creación de provisiones y reservas territoriales que satisfagan las necesidades de suelo urbano, para la creación, fundación, conservación, ampliación, mejoramiento y crecimiento de los centros de población, colonias urbanas o agrícolas y de sus propias fuentes de vida, así como para la vivienda, su equipamiento e infraestructura;
+X.- (REFORMADA [N. DE E. DEROGADA], P.O. 12 DE ENERO DE 2007)
 
 XI.- La satisfacción de necesidades de reubicación de familias que por motivos de desastres ocasionados por elementos de la naturaleza o atribuibles a la acción humana, pierdan sus hogares o se encuentren en zonas que por el alto riesgo que representan, se inminente la pérdida de vidas humanas;
 
 XII.- La regularización de la tenencia de terrenos destinados a vivienda popular y ocupados por grupos sociales de escasos recursos económicos o la reubicación de las mismas por causas de beneficio colectivo o interés social;
 
-XIII.- La defensa, conservación, desarrollo o aprovechamiento de los elementos naturales susceptibles de explotación;
+XIII.- (REFORMADA [N. DE E. DEROGADA], P.O. 12 DE ENERO DE 2007)
 
 XIV.- Las medidas necesarias para evitar la destrucción de elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la colectividad;
 
-XV.- La restauración o demolición total o parcial de construcciones que representen un peligro, para la sociedad;
+XV.- (REFORMADA [N. DE E. DEROGADA], P.O. 12 DE ENERO DE 2007)
 
 XVI.- La captación, conducción tratamiento y distribución de agua potable, la construcción y obras de protección de instalaciones para el tratamiento de aguas negras, de canales, drenajes sanitarios, obras de irrigación, desperdicios, pozos, drenajes pluviales, así como de cualquier obra de infraestructura hidráulica que beneficie a la colectividad;
 
@@ -121,9 +129,15 @@ XVII.- El aprovechamiento y la transformación de basuras y saneamiento de terre
 
 XVIII.- La satisfacción de necesidades colectivas en caso de protección, guerra o trastornos interiores, así como el abastecimiento de las ciudades o centros de población, de víveres o de otros artículos de consumo necesario, y los medios empleados para el mantenimiento de la paz y seguridad pública;
 
-XIX.- En aquellos casos cuyo fin sea proporcionar al Estado, Municipios o a sus poblaciones, cualquier obra de beneficio colectivo;
+XIX.- (REFORMADA [N. DE E. DEROGADA], P.O. 12 DE ENERO DE 2007)
 
-XX.- Los demás casos previstos por las leyes especiales.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+
+XX.- La necesidad de víveres, medicinas, y demás objetos indispensables para hacer frente a los casos de riesgo, siniestro o desastre en el caso en que el Estado se encuentre imposibilitado para proveerlos por sus propios medios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ENERO DE 2007)</small>
+
+XXI.- Los demás casos previstos por las leyes especiales.
 
 ### CAPITULO II. AUTORIDADES COMPETENTES
 
@@ -137,9 +151,11 @@ La Autoridad Expropiante podrá declarar de oficio o a petición de parte, la ut
 
 La declaración de utilidad Pública se hará, previa la formación del expediente técnico respectivo, con los datos e informes que precisa la presente Ley, que serán aportados por el Ejecutivo del Estado, Dependencia, Entidad, las organizaciones de ciudadanos o por el particular que hubiese solicitado la medida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2007)</small>
+
 ###### Artículo 9.
 
-Es facultad de la Autoridad Expropiante:
+Es obligación de la Autoridad Expropiante:
 
 I.- Recabar la información y documentación necesaria para comprobar y determinar la existencia de la causa o causas que la presente Ley determine como de utilidad pública;
 
@@ -149,7 +165,9 @@ III.- Conocer y tramitar los medios de defensa interpuestos por los particulares
 
 IV.- Requerir de las autoridades, dependencias y entidades, la información y documentación que se encuentre a su alcance, relacionada con el procedimiento de expropiación;
 
-V.- Ejercer las demás facultades que establezcan otras leyes relacionadas con la materia.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+
+V.- Cumplir las demás obligaciones que establezcan otras leyes relacionadas con la materia.
 
 ### CAPITULO III. SOLICITUD DE EXPROPIACIÓN Y REQUISITOS
 
@@ -203,9 +221,11 @@ Los medios probatorios para acreditar la propiedad o la posesión de los bienes 
 
 Cuando el bien inmueble o derecho afectado esté sujeto a decisión judicial, no procederá el pago de la indemnización, en tanto no cause ejecutoria la resolución que emita la autoridad competente y que resuelva la situación jurídica del mismo.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
 ###### Artículo 15.
 
-La Autoridad Expropiante fijará la forma en que la indemnización deberá pagarse, en un período no mayor a cinco años y será en moneda nacional, sin perjuicio de que se convenga su pago en especie, de conformidad con la presente Ley.
+La autoridad Expropiante fijará la forma en que la indemnización deberá pagarse, en un período no mayor a dos años y será en moneda nacional, sin perjuicio de que se convenga su pago en especie, de conformidad con la presente Ley.
 
 ###### Artículo 16.
 
@@ -219,15 +239,23 @@ III.- Compensación en el pago de contribuciones que debe efectuar el titular de
 
 IV.- La combinación de cualquiera de las anteriores.
 
-La forma de indemnización será aquella que acepte el propietario.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
+La forma de indemnización será aquella que acepte el afectado.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### Artículo 17.
 
-El importe de la indemnización será cubierto por la Autoridad Expropiante cuando la cosa expropiada pase a su patrimonio. Cuando la cosa expropiada pase al patrimonio de una Entidad o Municipio, en los términos de la presente Ley, éstas cubrirán el importe de la indemnización.
+El importe de la indemnización será cubierto por la Autoridad Expropiante cuando la cosa expropiada pase al patrimonio del Estado. Cuando la cosa expropiada pase al patrimonio de una Entidad o Municipio, en los términos de la presente Ley, éstas cubrirán el importe de la indemnización.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### Artículo 18.
 
-El exceso de valor o el demérito que haya tenido una propiedad por las mejoras o deterioros ocurridos, con posterioridad a la fecha de fijación del valor de la indemnización, o que éste sea inferior al valor fiscal del inmueble, será lo único que deberá quedar sujeto a juicio pericial y resolución judicial.
+La determinación del valor, el exceso de valor o el demérito que haya tenido una propiedad por las mejoras o deterioros ocurridos, con posterioridad a la fecha de fijación del valor fiscal del inmueble, será lo único que podrá quedar sujeto a juicio pericial y resolución judicial.
+
+El importe del valor fijado al bien expropiado, una vez que quede firme en su caso, será actualizado a la fecha de pago de acuerdo con el valor unitario catastral aprobado, a fin de que se pague al afectado el valor determinado por concepto de expropiación mas los aumentos inflacionarios, y de esta forma no pierda valor adquisitivo el precio que se fijó por la expropiación.
 
 ###### Artículo 19.
 
@@ -255,7 +283,9 @@ Contra la resolución del Tribunal de lo Contencioso Administrativo que fije el 
 
 La declaratoria de utilidad pública se hará mediante Acuerdo Expropiatorio, que deberá publicarse en el Periódico Oficial del Estado y notificarse personalmente al afectado, indicando el lugar en el que el expediente técnico respectivo estará a su disposición para efecto de que puedan consultarlo. En caso de ignorarse el nombre o el domicilio, surtirá efectos de notificación personal, una segunda publicación del Acuerdo en el Periódico Oficial del Estado, la que se hará dentro de un plazo no mayor de quince días después de la primera.
 
-A efecto de acreditar que se desconoce el nombre o el domicilio del afectado, deberá solicitarse por escrito a la recaudación de Rentas del Estado, la Dirección de Seguridad Pública Municipal, la Oficina Catastral Municipal y la Recaudación de Rentas Municipal, si en sus archivos cuenta con la información relativa al nombre y domicilio.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
+A efecto de acreditar que se desconoce el nombre o el domicilio del afectado, deberá solicitarse por escrito a la recaudación de Rentas del Estado, la Dirección de Seguridad Pública Municipal a la Oficina Catastral Municipal y a Recaudación de Rentas Municipal, en donde se ubique el bien expropiado, si en sus archivos cuenta con la información relativa al nombre y domicilio.
 
 ###### Artículo 25.
 
@@ -265,13 +295,15 @@ Si la persona a quien se va a notificar no fuere encontrada en su domicilio, el 
 
 Las notificaciones surtirán sus efectos al día siguiente hábil al que se hubieren efectuado.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
 ###### Artículo 26.
 
-La Autoridad Expropiante en el Acuerdo Expropiatorio, determinará si el bien formará parte de su patrimonio, y el régimen de dominio al que quedará sujeto, según el destino o uso que se le vaya a dar.
+La Autoridad Expropiante en el Acuerdo Expropiatorio, determinará si el bien formará parte del patrimonio del Estado, y el régimen de dominio al que quedará sujeto, según el destino o uso que se le vaya a dar.
 
-Los inmuebles expropiados para la regularización de la tenencia de la tierra para su uso habitacional, se consideran del patrimonio privado de la Autoridad Expropiante.
+Los inmuebles expropiados para la regularización de la tenencia de la tierra para su uso habitacional, se consideran del patrimonio privado del Estado de Baja California.
 
-Los bienes formarán parte del patrimonio de la Autoridad Expropiante, del Municipio, o de la Entidad a favor de la cual se haya realizado la expropiación, desde la publicación del Acuerdo Expropiatorio en el Periódico Oficial del Estado, el cual servirá de título de propiedad, debiendo inscribirse en el Registro Público de la Propiedad y del Comercio, así como registrarse en la oficina catastral municipal correspondiente.
+Los bienes formarán parte del patrimonio del Estado de Baja California, del Municipio, o de la Entidad a favor de la cual se haya realizado la expropiación, desde la publicación del Acuerdo Expropiatorio en el Periódico Oficial del Estado, el cual servirá de título de propiedad, debiendo inscribirse en el Registro Público de la Propiedad y del Comercio, así como registrarse en la oficina catastral municipal correspondiente.
 
 ###### Artículo 27.
 
@@ -371,13 +403,17 @@ II.- Los hechos en que se sustente;
 
 III.- Las pruebas que se ofrezcan para acreditar los hechos, con excepción de la confesional a cargo de la Autoridad Expropiante y de sus dependencias y entidades.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
 ###### Artículo 36.
 
-Si la Autoridad Expropiante determina que es procedente la reversión del bien expropiado a favor del afectado, éste deberá restituir a quien corresponda, el importe de la indemnización que se le hubiere pagado y una vez efectuado esto, ordenará la cancelación de la inscripción del Acuerdo Expropiatorio en el Registro Público de la Propiedad y del Comercio, y el Registro ante la oficina catastral municipal que corresponda, así como la restitución de la posesión cuando se trate de bienes inmuebles.
+Si la Autoridad Expropiante determina que es procedente la reversión del bien expropiado a favor del afectado, éste deberá restituir a quien corresponda, el importe de la indemnización que se le hubiere pagado y una vez efectuado esto, ordenará la cancelación de la inscripción del Acuerdo Expropiatorio en el Registro Público de la Propiedad y del Comercio, y el Registro ante la oficina catastral municipal que corresponda, sin costo alguno para el expropiado. Así como la restitución de la posesión física y jurídica del bien expropiado, y en consecuencia la titularidad jurídica volverá automáticamente a los términos que se encontraban antes de la expropiación.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### Artículo 37.
 
-Corresponderá el derecho del tanto al último propietario de un bien inmueble expropiado, cuando vaya a ser vendida por la Autoridad Expropiante una superficie de inmueble no destinada a la causa de utilidad pública, al valor que mediante dictamen pericial se determine.
+Cuando la autoridad expropiante pretenda vender alguna superficie del inmueble no destinada a la causa de utilidad pública, corresponderá el derecho del tanto al último propietario del bien inmueble expropiado, en cuyo caso el valor de dicha operación de venta será determinado tomando como base para su cálculo el valor unitario catastral aprobado y el dictamen de perito autorizado en la materia.
 
 ### CAPITULO VIII. RECURSO ADMINISTRATIVO DE REVOCACIÓN
 
@@ -514,3 +550,11 @@ GOBERNADOR DEL ESTADO.
 BERNARDO H. MARTINEZ AGUIRRE.
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 12 DE ENERO DE 2007.
+
+PRIMERO.- Las presentes reformas a la Ley de Expropiación para el Estado de Baja California, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Todos los procedimientos de expropiación que se hayan iniciado con motivo de la aplicación de la Ley que se reforma, y que no se encuentren concluidos a la fecha de entrada de la presente Ley, se regirán por las disposiciones vigentes al momento de la publicación del Acuerdo Expropiatorio.
