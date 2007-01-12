@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-prevencion-y-atencion-de-la-violencia-familiar-del-14735
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-13"
-last_updated: "2004-07-13"
+last_updated: "2007-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE GUERRERO, NUM. 280
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de abril de 1999.
 
@@ -77,9 +77,11 @@ La aplicación de esta Ley corresponde al Gobierno del Estado a través del Cons
 
 Las demás dependencias, instituciones u organismos públicos, auxiliarán al Consejo en la observancia de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 3o.
 
-Violencia intrafamiliar es el acto u omisión intencional realizado con el fin de dominar, someter o controlar, o maltratar física, verbal, psico-emocional o sexualmente, a cualquiera de las personas señaladas en las fracciones del artículo 4o., de la presente Ley, independientemente de que pueda o no producir otro delito.
+Violencia intrafamiliar es el acto u omisión intencional realizado con el fin de dominar, someter o controlar, o maltratar física, verbal, económicamente, psico-emocional o sexualmente, a cualquiera de las personas señaladas en las fracciones del artículo 4º de la presente Ley, independientemente de que pueda o no producir otro delito.
 
 Se entiende por:
 
@@ -88,6 +90,10 @@ a).- Maltrato físico. Toda agresión intencional y reiterada, en la que se util
 b).- Maltrato psico-emocional. Al patrón de conducta consistente en actos u omisiones, cuyas formas de expresión pueden ser prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, que provoquen en quien las reciba deterioro, disminución o afectación a su personalidad.
 
 c).- Maltrato Sexual. Los actos u omisiones reiteradas para el control, manipulación o dominio de la pareja y que generen un daño, cuyas formas de expresión pueden ser entre otras: negar las necesidades afectivas, inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ENERO DE 2007)</small>
+
+d).- Maltrato económico. Todo acto tendiente a despojar, controlar, manejar o disponer de dinero, propiedades, recursos o cualquier otro bien económico, del patrimonio familiar, de su pareja, descendientes, ascendientes o parientes de manera que se les cause perjuicio en su patrimonio, y con ello se les prive de alimento, educación, vestimenta, asistencia médica o transporte.
 
 ###### ARTICULO 4o.
 
@@ -514,3 +520,9 @@ P.O. 13 DE JULIO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su expedición.
 
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para sus efectos respectivos y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE ENERO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
