@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-comision-estatal-de-los-derechos-humanos-del-7587"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-24"
-last_updated: "1997-09-05"
+last_updated: "2007-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7587&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE QUERETARO -ANTES "LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS" REGLAMENTARIA DEL ARTICULO 9 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA-
 
-LEY DE LA "COMISION ESTATAL DE DERECHOS HUMANOS" REGLAMENTARIA DEL ARTICULO 9º DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA
+LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 24 de diciembre de 1992.
 
@@ -31,7 +31,9 @@ Lic. ENRIQUE BURGOS GARCÍA, Gobernador Constitucional del Estado Libre y Sobera
 
 LA QUINCUAGESIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 DE LA CONSTITUCION POLITICA DEL ESTADO... ha tenido a bien expedir la siguiente:
 
-LEY DE LA "COMISION ESTATAL DE DERECHOS HUMANOS" REGLAMENTARIA DEL ARTICULO 9º DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA.
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ENERO DE 2007)</small>
+
+LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO
 
 ## TITULO PRIMERO
 
@@ -117,9 +119,15 @@ XI. Expedir su Reglamento Interior;
 
 XII. Elaborar y ejecutar programas preventivos en materia de protección de los derechos humanos;
 
-XIII. Supervisar el respeto de los derechos humanos en el sistema penitenciario y de readaptación social del Estado, y
+XIII. Supervisar el respeto de los derechos humanos en el sistema penitenciario y de readaptación social del Estado, y (sic)
 
-XIV. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ENERO DE 2007)</small>
+
+XIV. Observar el seguimiento, evaluación y monitoreo, en materia de equidad de género; y
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+
+XV. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
 
 ###### ARTICULO 9.
 
@@ -141,9 +149,9 @@ V.- Resoluciones de carácter Legislativo emitidas por la H. Cámara de Diputado
 
 Sólo podrán admitirse o conocerse quejas o inconformidades contra actos u omisiones de autoridades judiciales, cuando dichos actos u omisiones tengan carácter administrativo. La Comisión por ningún motivo podrá examinar actos jurisdiccionales.
 
-> <small>(F. DE E., P.O. 21 DE ENERO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ENERO DE 2007)</small>
 
-### CAPITULO II. NOMBRAMIENTO, FACULTADES Y OBLIGACIONES DEL PRESIDENTE DE LA COMISION
+### CAPITULO II. DE LA ELECCIÓN, FACULTADES Y OBLIGACIONES DEL PRESIDENTE DE LA COMISIÓN
 
 ###### ARTICULO 11.
 
@@ -161,7 +169,9 @@ IV. No desempeñar o haber desempeñado cargo de elección popular en los últim
 
 V. Ser de reconocida honradez y rectitud además de no haber sido condenado por delito intencional, y
 
-VI. Estar vinculado y tener conocimiento de las condiciones sociales, políticas, económicas y culturales del Estado.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+
+VI. Contar con experiencia en materia de derechos humanos o actividades afines reconocidas por las leyes mexicanas y los instrumentos jurídicos internacionales.
 
 > <small>(REFORMADO, P.O., 5 DE SEPTIEMBRE DE 1997)</small>
 
@@ -169,15 +179,17 @@ VI. Estar vinculado y tener conocimiento de las condiciones sociales, políticas
 
 El Presidente de la Comisión Estatal de Derechos Humanos será nombrado por la Legislatura del Estado, con el voto de la mayoría de los integrantes de esta.
 
-> <small>(REFORMADO, P.O., 5 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 13.
 
-El Presidente de la Comisión Estatal de Derechos Humanos durará en sus funciones 3 años y podrá ser ratificado por la Legislatura.
+El Presidente de la Comisión Estatal de Derechos Humanos durará en sus funciones 3 años y podrá ser ratificado por la Legislatura del Estado, por una sola vez.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 14.
 
-El Presidente de la Comisión tendrá las siguientes facultades:
+El Presidente de la Comisión tendrá las siguientes facultades y obligaciones:
 
 I. Ejercer la representación legal de la Comisión;
 
@@ -187,11 +199,13 @@ III. Nombrar, dirigir y coordinar a los funcionarios y al personal bajo su autor
 
 IV. Dictar las medidas específicas que juzgue convenientes para el mejor desempeño de las funciones de la Comisión;
 
-V. Distribuir y delegar funciones al Visitador General, en los términos de esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
+V. Distribuir y delegar funciones en los términos de esta Ley y del Reglamento Interior;
 
-VI. Enviar un informe anual a la Legislatura del Estado, al Titular del Poder Ejecutivo y al Presidente del Poder Judicial de la Entidad, durante la última semana del mes de abril de cada año, sobre las actividades de la Comisión, haciéndolo público a la sociedad.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+
+VI. Enviar un informe anual a la Legislatura del Estado, al Titular del Poder Ejecutivo y al Presidente del Poder Judicial de la Entidad, durante la última semana del mes de enero de cada año, sobre las actividades de la Comisión, haciéndolo público a la sociedad;
 
 VII. Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades de organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
@@ -205,7 +219,9 @@ XI. Presidir al Consejo de la Comisión, y
 
 XII. Cualesquiera otras que le señale esta Ley y demás ordenamientos aplicables.
 
-### CAPITULO III. INTEGRACION, NOMBRAMIENTO Y FACULTADES DEL CONSEJO
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ENERO DE 2007)</small>
+
+### CAPITULO III. DE LA INTEGRACIÓN Y FACULTADES DEL CONSEJO
 
 ###### ARTICULO 15.
 
@@ -229,7 +245,9 @@ II. Aprobar el Reglamento Interior de la Comisión;
 
 III. Aprobar las normas de carácter interno relacionadas con la Comisión;
 
-IV. Opinar sobre el proyecto de informe semestral que el Presidente de la Comisión presente a la Legislatura del Estado y al Titular del Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+
+IV. Opinar sobre el proyecto de informe anual que la Comisión presente a los Poderes del Estado;
 
 V. Solicitar al Presidente de la Comisión, información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión, y
 
@@ -267,7 +285,9 @@ III. Preparar los anteproyectos de iniciativa de leyes y reglamentos que la Comi
 
 IV. Realizar estudios e investigaciones en materia de derechos humanos;
 
-V. Colaborar con la Presidencia de la Comisión en la elaboración de los informes semestrales, así como de los especiales;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+
+V. Colaborar con la Presidencia de la Comisión, en la elaboración del informe anual, así como de los especiales;
 
 VI. Enriquecer, mantener y custodiar el acervo documental de la Comisión, y
 
@@ -421,9 +441,9 @@ Las pruebas que se presenten, tanto por los interesados como por las autoridades
 
 Las conclusiones del expediente que será la base de las recomendaciones, estarán fundamentadas exclusivamente en la documentación y pruebas que obren en el propio expediente.
 
-> <small>(F. DE E., P.O. 21 DE ENERO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ENERO DE 2007)</small>
 
-### CAPITULO II. ACUERDOS Y RECOMENDACIONES
+### CAPITULO II. DE LOS ACUERDOS Y RECOMENDACIONES
 
 ###### ARTICULO 43.
 
@@ -471,13 +491,17 @@ La Comisión notificará inmediatamente a los quejosos los resultados de la inve
 
 El Presidente de la Comisión deberá publicar, en su totalidad o en forma resumida, las Recomendaciones y los Acuerdos de No Responsabilidad de la Comisión. En casos excepcionales, podrá determinar si los mismos sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 52.
 
-El Presidente de la Comisión deberá enviar un informe semestral, tanto a la Legislatura como al Ejecutivo del Estado, sobre las actividades que haya realizado en el período respectivo. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
+El Presidente de la Comisión Estatal de Derechos Humanos, deberá enviar anualmente a los Poderes del Estado, un informe sobre las actividades que haya realizado en el año inmediato anterior. Dicho informe será difundido en la forma más amplia posible, para conocimiento de la sociedad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 53.
 
-Los informes semestrales del Presidente de la Comisión deberán comprender una descripción del número y características de las quejas y denuncias que se hayan presentado; los efectos de la labor de conciliación; las investigaciones realizadas; las Recomendaciones y los Acuerdos de No Responsabilidad que se hubiesen formulado; los resultados obtenidos; así como las estadísticas, los programas desarrollados; y demás datos que se consideren convenientes.
+El informe anual del Presidente de la Comisión, deberá comprender una descripción del número y características de las quejas y denuncias que se hayan presentado, los efectos de la labor de conciliación, las investigaciones realizadas, las Recomendaciones y los Acuerdos de No Responsabilidad que se hubiesen formulado, los resultados obtenidos, los demás datos que se consideren convenientes y la información pormenorizada de aquellos programas de difusión y promoción de la cultura de los derechos humanos en la ciudadanía y del resultado en la aplicación de los mismos.
 
 Asimismo, el informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos competentes, estatales y municipales, para promover la expedición o modificación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes, con el objeto de tutelar de manera más efectiva los derechos humanos de los gobernados y lograr una mayor eficiencia en las funciones de los servidores públicos.
 
@@ -622,3 +646,13 @@ La presente Ley entrará en vigor a partir del día siguiente al de su publicaci
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 12 DE ENERO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
