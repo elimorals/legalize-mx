@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2006-09-25"
+last_updated: "2007-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -92,6 +92,10 @@ Cuando los adolescentes mayores de doce años cometen conductas antisociales cal
 En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas;
 
 VII. De investigar, recibir y difundir hechos de interés público, salvo los casos previstos por la Ley;
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+
+Asimismo, el Estado garantizará el derecho a la intimidad y protección de los datos personales, conforme lo disponga la ley de la materia;
 
 VIII. Los agraviados por los delitos serán tratados con dignidad y respeto, informados de sus derechos, oídos desde el inicio del procedimiento penal hasta la conclusión del mismo y notificados de los actos procesales. El Estado les brindará protección y seguridad;
 
@@ -823,9 +827,19 @@ La infracción de esta disposición será castigada con la pérdida del carácte
 
 (REUBICADO [N. DE E. ANTES CAPITULO II], P.O. 18 DE MAYO DE 2001)
 
-### CAPITULO XI. DEL PODER JUDICIAL
+### CAPITULO X BIS. DE LA COMISION DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE TLAXCALA
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+
+###### ARTICULO 78
+
+BIS.- La Comisión de Acceso a la Información Pública y Protección de Datos Personales, es un organismo autónomo con personalidad jurídica y patrimonio propios, fungirá como órgano de autoridad, promoción, difusión e investigación sobre el derecho de acceso a la información pública y protección de datos personales, conforme al procedimiento que la ley de la materia señale.
+
+La Comisión contará con un Consejo General integrado por tres comisionados propietarios y sus respectivos suplentes, mismos que serán electos por el voto de las dos terceras partes de los miembros integrantes de la legislatura que corresponda, mediante convocatoria pública abierta, expedida por el propio Congreso en la forma y términos que la ley señale.
+
+Los comisionados durarán en su encargo seis, cinco y cuatro años, respectivamente, y no podrán ser reelectos. Los comisionados no podrán ser cesados de sus cargos durante el periodo para el que fueron nombrados, salvo por causa grave que calificará el Congreso del estado, conforme lo disponga la Ley de Responsabilidades de los Servidores Públicos para el Estado. Este cargo es incompatible con cualquier otro empleo o actividad, con excepción de la docencia y la investigación académica.
+
+(REUBICADO [N. DE E. ANTES CAPITULO IX], P.O. 18 DE MAYO DE 2001)
 
 ###### ARTICULO 38.
 
@@ -883,7 +897,9 @@ Las resoluciones del Congreso tendrán el carácter de Leyes, Decretos o Acuerdo
 
 (REUBICADO [N. DE E. ANTES CAPITULO III], P.O. 18 DE MAYO DE 2001)
 
-### CAPITULO II.. De las facultades y obligaciones del Gobernador
+### CAPITULO XI. DEL PODER JUDICIAL
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 46.
 
@@ -1639,7 +1655,7 @@ La Comisión Estatal de Derechos Humanos es un organismo autónomo, con personal
 
 Este organismo tendrá un Consejo Consultivo integrado por cinco consejeros, que serán electos por el voto de las dos terceras partes de los miembros presentes en la sesión del Congreso, mediante convocatoria pública abierta, expedida por el propio Congreso en la forma y términos que la Ley señale. El Presidente de la Comisión quien lo será también del Consejo, será designado por los propios consejeros de entre ellos mismos, quien deberá ser de preferencia, licenciado en derecho o tener una profesión afín. Los consejeros durarán en su encargo cinco años.
 
-(REUBICADO [N. DE E. ANTES CAPITULO IX], P.O. 18 DE MAYO DE 2001)
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPITULO UNICO.
 
@@ -2886,3 +2902,25 @@ Remítase, a través del diputado presidente de la Mesa Directiva de este Congre
 ###### ARTÍCULO NOVENO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE ENERO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A más tardar en los primeros quince días del mes de enero del año dos mil siete, se realizará la designación de los miembros del Consejo General de la Comisión de Acceso a la Información Pública y Protección de Datos Personales en los términos de este Decreto, quienes rendirán protesta ante el Pleno del Consejo del Estado y entrarán en funciones el día dieciséis de enero del año dos mil siete.
+
+###### ARTÍCULO TERCERO.
+
+Los integrantes de la actual Comisión de Transparencia del Estado de Tlaxcala y Secretario Técnico de la misma, terminarán su encargo en la fecha señalada para el que fueron nombrados y ratificados por el Pleno del Congreso del Estado; en tal virtud la autoridad máxima en esta materia hasta el nombramiento de los miembros del Consejo General de la Comisión de Acceso a la información (sic) Pública y Protección de Datos Personales, será la Sala Electoral-Administrativa del Honorable Tribunal Superior de Justicia del Estado.
+
+###### ARTÍCULO CUARTO.
+
+El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, hará la prevención presupuestal en el Decreto de Presupuesto para el ejercicio fiscal 2007, a efecto de que los miembros del Consejo General y demás personal operativo de la Comisión de Acceso a la Información Pública y Protección de Datos Personales realice sus funciones de forma eficaz.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones vigentes de leyes secundarias y de los reglamentos que hagan referencia a la Comisión de Transparencia del Estado de Tlaxcala, se entenderán hechas a la Comisión de Acceso a la Información Pública y Protección de Datos Personales.
