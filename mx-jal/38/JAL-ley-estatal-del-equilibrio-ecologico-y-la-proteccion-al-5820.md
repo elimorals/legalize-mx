@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2005-01-06"
+last_updated: "2007-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -153,11 +153,15 @@ XIX. Residuos sólidos municipales: Residuos sólidos que resulten de las activi
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-XXX. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así como la afectación significativa al ambiente, que se pueda generar con motivo de los peligros naturales o antropogénicos existentes y la vulnerabilidad de la población y los ecosistemas; y
+XXX. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así como la afectación significativa al ambiente, que se pueda generar con motivo de los peligros naturales o antropogénicos existentes y la vulnerabilidad de la población y los ecosistemas; y (sic)
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-XXXI. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales.
+XXXI. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2007)</small>
+
+XXXII. Procuraduría: Órgano desconcentrado de la Secretaria de Medio Ambiente para el Desarrollo Sustentable, denominado Procuraduría Estatal de Protección al Ambiente; (sic)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -1397,6 +1401,8 @@ La Secretaría y los gobiernos municipales llevarán el inventario de confinamie
 
 Disposiciones generales.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
 ###### Artículo 102.
 
 Quedan prohibidas las emisiones de ruidos, vibraciones, energía térmica y lumínica y la generación de olores, en cuanto rebasen los límites máximos contenidos en las normas oficiales mexicanas, o en su caso, la normatividad reglamentaria que para ese efecto expida el Titular del Ejecutivo del Estado. Los gobiernos municipales, mediante las acciones de inspección y vigilancia correspondientes, adoptarán las medidas para impedir que se transgredan dichos límites y, en su caso, aplicarán las sanciones correspondientes.
@@ -1521,11 +1527,13 @@ De las sanciones administrativas.
 
 ###### Artículo 116.
 
-Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad; determinación de infracciones administrativas y de comisión de delitos y sus sanciones, y procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal y municipal normados por esta ley, los reglamentos y bandos de policía y buen gobierno, salvo que otras leyes los regulen en forma específica, en relación con las materias de que trata éste ordenamiento.
+Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad; determinación de infracciones administrativas y de comisión de delitos y sus sanciones, y procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal y municipal normados por esta ley, por los reglamentos y bandos de policía y buen gobierno, salvo que otras leyes los regulen en forma específica, en relación con las materias de que trata éste ordenamiento.
 
-En las materias anteriormente señaladas se aplicará supletoriamente las disposiciones del Código de Procedimiento (sic) Civiles del Estado de Jalisco.
+Corresponde a la Procuraduría ejercer las atribuciones de inspección y vigilancia del cumplimiento de la (sic) disposiciones competencia del Estado contenidas en la presente Ley, así como en las demás disposiciones legales, normativas y reglamentarias aplicables, incluyendo todas aquellas que se desprendan de los acuerdos o convenios que se suscriban entre el Estado, la Federación y/o los municipios, que tiendan a la preservación del equilibrio ecológico y a la prevención y disminución de la contaminación ambiental.
 
-Tratándose de materias referidas en esta ley que se encuentren reguladas por leyes especiales, el presente ordenamiento será de aplicación supletoria por lo que se refiere a los procedimientos administrativos.
+El Titular de la Procuraduría será designado por el Gobernador del Estado a propuesta del Titular de la Secretaría.
+
+Tratándose de las materias referidas en esta ley que se encuentren reguladas por leyes especiales, se aplicará supletoriamente la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
 
 ###### Artículo 117.
 
@@ -2200,3 +2208,15 @@ SEXTO.- Antes de la entrada en vigor de la Ley, los sujetos obligados deberán i
 SEPTIMO.- De no designarse las unidades de transparencia e información en el plazo establecido en el artículo anterior, se considerará como tal, en lo relativo a la recepción y entrega de solicitudes, a la Oficialía de partes de cada una de las entidades que, de acuerdo a la normatividad aplicable, conforman la estructura orgánica de los sujetos obligados.
 
 OCTAVO.- A la entrada en vigor del presente decreto, quedará abrogada la Ley de Transparencia e Información Pública del Estado de Jalisco publicada el 22 de enero de 2002 mediante decreto número 19446.
+
+P.O. 13 DE ENERO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- Se autoriza al Titular del Ejecutivo del Estado a que realice las adecuaciones presupuestarias para el debido cumplimiento del presente decreto y deberá expedir el reglamento interior de la Procuraduría Estatal de Protección al Ambiente, en el que se especifiquen su estructura interna, su organización y demás atribuciones, adecuar los reglamentos, acuerdos y demás dispositivos reglamentarios relacionados con las materias cuyas disposiciones se reforman, modifican o derogan a partir del presente decreto.
+
+CUARTO.- La Procuraduría Estatal de Protección al Ambiente deberá entrar en funciones a más tardar el primero de julio del año 2007 y hasta entonces, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado realizará las atribuciones encomendadas a aquélla, por el presente Decreto y por las disposiciones que de éste se deriven.
+
+QUINTO.- En el cumplimiento del presente Decreto, se respetarán los derechos laborales y de seguridad social de los trabajadores que sean transferidos de una dependencia a otra.
