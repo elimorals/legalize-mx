@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2005-12-27"
+last_updated: "2007-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -543,6 +543,10 @@ d) Personas incapacitadas físicamente para trabajar.
 
 e) Jubilados y pensionados con ingresos propios, cuyo monto diario no exceda de dos cuotas y media. En este caso únicamente se exigirá para acreditar este supuesto, la credencial o el documento expedido por Institución Oficial correspondiente y el recibo de ingresos respectivo.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2007)</small>
+
+f) Personas de 60 años y de más edad, con ingresos propios cuyo monto no exceda de dos cuotas y media o sin ingresos. En este caso únicamente se exigirá para acreditar este supuesto, la credencial de elector y el recibo de ingresos respectivo en su caso.
+
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 Si el valor catastral del predio excede de 7,354 cuotas y no de 14,708 cuotas, se pagará por concepto de impuesto predial anual el doble de tarifa especial.
@@ -803,9 +807,11 @@ X.- En las adquisiciones, derechos o renta a perpetuidad de los lotes en los pan
 
 XI.- En las adquisiciones de bienes del dominio privado que realicen los Municipios y las entidades paraestatales de los Municipios.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
 
-XII.- En las adquisiciones de viviendas cuyo valor gravable, no exceda de 15 cuotas elevadas al año, siempre que el adquirente sea persona física.
+XII.- En las adquisiciones de viviendas cuyo valor gravabable (sic), no exceda de 15 cuotas elevadas al año, siempre que el adquiriente sea una persona física y que no sea propietario o poseedor de otro bien inmueble en el Estado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 También se cubrirá la tarifa especial en las adquisiciones de vivienda cuyo valor más alto entre el valor de adquisición y el valor catastral, no exceda de 9,398 cuotas, siempre que el adquirente sea jubilado o pensionado y que no sea propietario o poseedor de otro bien inmueble en el Estado.
 
@@ -843,19 +849,19 @@ Para efectos de la no-propiedad de predios, bastará que el interesado manifiest
 
 Para efectos de este impuesto se entiende por adquisición, la que se derive de:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-I.- Todo acto por el que se trasmita la propiedad, incluyendo la donación que no se haga en los términos del Artículo 28 Bis I Fracción XIV, y la aportación a toda clase de asociaciones y sociedades.
+I.- Todo acto por el que se transmita la propiedad, o cualquiera de sus modalidades, incluyendo derechos de copropiedad, así como la aportación a toda clase de asociaciones y sociedades.
 
-II.- La compra–venta en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
+II.- La compra-venta en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
 
 III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él antes de que se celebre el contrato prometido.
 
 IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las Fracciones II y III que anteceden.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-V.- Fusión o escisión de sociedades, salvo lo dispuesto en el Código Fiscal del Estado en esta materia.
+V.- Fusión y escisión de sociedades. En el caso de escisión no se considera adquisición cuando los accionistas propietarios de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos y con la misma participación, durante un periodo de cinco años posteriores a la fecha en que se realice la escisión; siempre y cuando mantengan la misma participación en el capital.
 
 VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
@@ -881,15 +887,19 @@ XII.- La realizada a través de la celebración de poderes irrevocables para act
 
 XIII.- La adjudicación mediante laudo laboral.
 
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2007)</small>
+
+XIV.- La que se realiza en la constitución, transmisión o extinción de un derecho real de superficie.
+
 En las permutas se considerará que se efectúan dos adquisiciones.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
 En las adquisiciones efectuadas a través de arrendamiento financiero, cuando el arrendatario ejerza su opción de compra, se considerarán como una sola adquisición las realizadas por la arrendadora y por el arrendatario financieros (sic), siempre que se demuestre que fue cubierto el impuesto correspondiente a la adquisición efectuada por la arrendadora financiera. Consecuentemente, en estos casos no se generará el impuesto a cargo del arrendatario financiero.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-Si el arrendatario financiero se encuentra en los supuestos previstos en el artículo 28 Bis-1, fracciones I a XIV, provisionalmente se aplicará la tarifa especial a la adquisición efectuada por la arrendadora financiera. En caso de que al enajenarse el inmueble por parte de la arrendadora financiera, el adquirente no se encuentre en los supuestos previstos en el precepto jurídico a que hace referencia este párrafo, se cubrirá el impuesto definitivo a cargo tanto de la arrendadora como del adquirente, conforme a lo dispuesto en el artículo 28 Bis y en el párrafo anterior, según sea el caso.
+Si el arrendatario financiero se encuentra en los supuestos previstos en el artículo 28 Bis 1, fracciones I a XIV, se aplicará la tarifa especial a la adquisición efectuada por la arrendadora financiera.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -901,9 +911,9 @@ En la determinación de este impuesto se deberán seguir las reglas siguientes:
 
 I.- Para efectos de este impuesto, se utilizará el salario mínimo general de la zona económica en donde se encuentre ubicado el inmueble, vigente al momento en que se pague el impuesto.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-El Valor Catastral que se utilice para la determinación de este impuesto, será el vigente al momento en que se protocolice la escritura, y en los casos en que no se requiera o no se cumpla esta formalidad, se aplicará el que esté vigente al momento en que se pague el impuesto. Cuando se trate de las operaciones a que se refieren las fracciones II, III y IV, del Artículo 28 bis-2 se aplicará el factor de actualización a que se refiere el Artículo 18 bis del Código Fiscal del Estado para referenciar el Valor Catastral a la fecha de firma del contrato, para tales efectos el Valor Catastral vigente se dividirá entre el factor de actualización mencionado y el resultado será el Valor Catastral vigente a la fecha de firma del contrato. Dicho valor referenciado servirá para determinar el valor gravable del inmueble, al cual se le aplicará la tasa vigente en aquella fecha, debiendo generarse los recargos y demás accesorios en los términos legales.
+El Valor Catastral que se utilice para la determinación de este impuesto, será el vigente al momento en que se pague el impuesto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -913,7 +923,9 @@ II.- Cuando con motivo de la adquisición, el adquiriente asuma la obligación d
 
 Cuando no exista valor de operación, el impuesto se calculará con base en el valor catastral.
 
-Para los fines del Impuesto Sobre Adquisición de Inmuebles, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
+Para los fines del Impuesto sobre Adquisición de Inmuebles, se considera que el usufructo, la nuda propiedad y el derecho real de superficie tiene un valor, cada uno de ellos del 50% del valor del inmueble.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -957,9 +969,9 @@ En caso de que no se presente la declaración del impuesto ante la Tesorería Mu
 
 En el supuesto de que en la declaración del Impuesto Sobre Adquisición de Inmuebles, se hubiere omitido el pago correspondiente a la construcción, ya sea por causas imputables al enajenante o adquirente, se impondrá una multa al adquirente de tres cuotas hasta el 100% de la contribución omitida, determinando ésta sobre el valor de la construcción no declarada.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-Los Notarios Públicos tendrán la obligación de presentar a las Tesorerías Municipales que correspondan, un informe detallado a más tardar durante los meses de enero de cada año, correspondiente al año anterior, sobre las escrituras públicas y cualquier otro documento en el que se transmita la propiedad de bienes inmuebles, en los que hubiesen intervenido y que por alguna razón, no fueron inscritos en el Registro Público de la Propiedad y del Comercio y que por consecuencia no estuviese cubierto el Impuesto Sobre Adquisición de Inmuebles. Cuando no se cumpla con la presentación del informe se entenderá para todos los efectos legales que no existen escrituras u otros documentos pendientes de pago del Impuesto.
+Los Notarios Públicos tendrán la obligación de presentar a las Tesorerías Municipales que correspondan, conjuntamente con la declaración del impuesto, todos los elementos que se requieran para la determinación del impuesto, así como una copia del pago del impuesto predial, y en su caso del impuesto sobre aumento de valor y mejoría específica de la propiedad. También tendrán la obligación de presentar un informe detallado a más tardar durante el mes de enero de cada año, correspondiente al año anterior, sobre las escrituras públicas y cualquier otro documento en que se transmita la propiedad de bienes inmuebles, en los que hubiesen intervenido y que por alguna razón, no fueron inscritos en el Registro Público de la Propiedad y del Comercio y que por consecuencia no estuviese cubierto el Impuesto Sobre Adquisición de Inmuebles. Cuando no se cumpla con la presentación del informe se entenderá para todos los efectos legales que no existen escrituras u otros documentos pendientes de pago del Impuesto.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1011,9 +1023,9 @@ La autoridad fiscal municipal por sí no podrá modificar el valor catastral; si
 
 El impuesto se cubrirá en efectivo o mediante cheque certificado ante las oficinas receptoras de las Tesorerías Municipales donde se ubique el bien materia del impuesto o en las instituciones bancarias autorizadas por el Municipio correspondiente, localizadas en la circunscripción territorial del propio Municipio de que se trate. Cuando el pago se efectúe extemporáneamente, no podrá enterarse en instituciones bancarias.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-La Tesorería Municipal recibirá la nota oficial del impuesto sobre adquisición de inmuebles y devolverá al contribuyente una copia en la que se haga constar su recepción, debiendo aceptarse o rechazarse en un plazo no mayor de diez días hábiles, contados a partir del día siguiente al de su presentación. Transcurrido dicho plazo sin que se notifique el rechazo, la nota se tendrá por aceptada, sin perjuicio de las facultades de fiscalización que conserva la autoridad. Una vez aceptada la nota oficial, el municipio dará el aviso correspondiente a la Dirección de Catastro dentro de los 5 días hábiles siguientes a dicho evento, a fin de que se proceda a la actualización del padrón catastral.
+La Tesorería Municipal recibirá la nota oficial del impuesto sobre adquisición de inmuebles y devolverá al contribuyente una copia en la que se haga constar su recepción, debiendo aceptarse o rechazarse en un plazo no mayor de diez días hábiles, contados a partir del día siguiente al de su presentación. Transcurrido dicho plazo sin que se notifique el rechazo, la nota se tendrá por aceptada, sin perjuicio de las facultades de fiscalización que conserva la autoridad. Una vez aceptada la nota oficial, la Tesorería Municipal registrará la operación, dando el aviso correspondiente a la Dirección de Catastro de la Secretaría de Finanzas y Tesorería General del Estado dentro de los 5 días hábiles siguientes a dicho evento a fin de que se proceda a la actualización del padrón catastral.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1993,17 +2005,17 @@ C.- Lotes con superficie mayor de 300 m2 0.172 cuotas
 
 2.- Industriales ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina 0.107 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-3.- Campestres ubicados en los Municipios de Apodaca, Guadalupe, García, Monterrey, San Pedro Garza García, Santa Catarina y Santiago 0.107 cuotas
+3.- Campestres ubicados en los Municipios de Apodaca, García, Guadalupe, Juárez, Monterrey, San Pedro Garza García, Santa Catarina y Santiago 0.107 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 4.- Campestres ubicados en el resto del Estado 0.007 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-5.- Otros ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina 0.107 cuotas
+5.- Otros ubicados en los municipios de Apodaca, Escobedo, García Guadalupe (sic), Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina 0.107 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2091,9 +2103,9 @@ b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros 
 
 c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados .009 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-d) Cementerios ubicados en los municipios de Apodaca, Guadalupe, Monterrey, San Nicolás de los Garza y San Pedro Garza García .012 cuotas
+d) Cementerios ubicados en los Municipios de Apodaca, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza y San Pedro Garza García 0.012 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -2627,9 +2639,9 @@ III.- Por servicios de inspección sanitaria de animales que se transporten en v
 
 IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, 10 cuotas por cada inmueble.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-Este derecho se cubrirá únicamente en los casos en que no exista cantidad a pagar por concepto de Impuesto Sobre Adquisición de Inmuebles. En los casos en que el monto de impuesto sea menor a la cuota señalada en el párrafo que antecede, se cubrirá únicamente la diferencia que resulte entre el impuesto generado y el derecho de revisión.
+Este derecho se cubrirá únicamente en los casos en que no exista cantidad a pagar por concepto de Impuesto Sobre Adquisición de Inmuebles.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
@@ -2747,9 +2759,9 @@ Los propietarios de predios baldíos deberán efectuar el desmonte, desyerba o l
 
 Independientemente de la (sic) fechas señaladas en el párrafo anterior, la Autoridad Municipal podrá requerir en cualquier momento al propietario o poseedor del predio baldío, para que realice la limpieza, desmonte y desyerba de su predio, cuando el mismo esté provocando condiciones de insalubridad o inseguridad.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-De no cumplirse con lo dispuesto en los dos párrafos anteriores el Municipio podrá efectuar el servicio de desmonte, desyerba o limpieza del predio baldío, según sea el caso; circunstancias en las cuales el propietario estará obligado a pagar al Municipio la prestación del servicio. Así mismo la Autoridad Municipal competente le impondrá una multa de uno a tres tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia.
+De no cumplirse con lo dispuesto en los dos párrafos anteriores el Municipio podrá por sí mismo o mediante contratación de terceros, efectuar el servicio de desmonte, desyerba o limpieza del predio baldío, según sea el caso; circunstancias en las cuales el propietario estará obligado a pagar al Municipio la prestación del servicio. Así mismo la Autoridad Municipal competente le impondrá una multa de uno a tres tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -2759,9 +2771,13 @@ El pago de la multa que se impusiere al infractor no lo exime de las obligacione
 
 Cuando el Municipio efectúe los servicios a los que se refiere el párrafo anterior, se causarán los derechos conforme a la siguiente tarifa por metro cuadrado:
 
-a) Predios con superficie hasta 1,000 metros cuadrados 0.150 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente 0.140 cuotas
+a) Predios con superficie hasta 1,000 metros cuadrados 0.30 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
+b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente 0.26 cuotas
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -2769,7 +2785,7 @@ Para los efectos de este artículo deberá entenderse por:
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-Desmonte.- Es la acción de cortar y retirar del predio baldío aquellos arbustos de tallo leñoso, cuyo diámetro sea inferior a 5 centimetros.
+Desmonte.- Es la acción de cortar y retirar del predio baldío aquellos arbustos de tallo leñoso, cuyo diámetro sea inferior a 5 centímetros.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -2779,9 +2795,9 @@ Desyerba.- Es la acción de cortar y retirar del predio baldío aquellas plantas
 
 Reincidencia.- Se considera que se presenta la reincidencia cuando no se cumpla en más de una ocasión con la obligación que establece el primer párrafo de este artículo, habiéndose requerido previamente por el Municipio.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-El propietario podrá solicitar al Municipio el servicio de recolección de basura producto de la limpieza de su predio, siendo el costo de este servicio la cantidad de 2 cuotas por metro cúbico o fracción de materia recolectada.
+El propietario podrá solicitar al Municipio el servicio de recolección, traslado y disposición final de basura producto de la limpieza de su predio, siendo el costo de este servicio la cantidad de 6 cuotas por metro cúbico o fracción de materia recolectada.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -2905,9 +2921,9 @@ CONTRIBUCIONES POR NUEVOS FRACCIONAMIENTOS, EDIFICACIONES, RELOTIFICACIONES Y SU
 
 Los fraccionadores, en la autorización de nuevos fraccionamientos, cederán suelo al Municipio para destinos, en los mismos términos a que se refiere la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado, en los términos de los artículos 151, 156, 162, 163 y 165, según el tipo de fraccionamiento. En los conjuntos urbanos o desarrollos sujetos al régimen de propiedad en condominio, los desarrolladores cederán suelo al Municipio en los términos de lo dispuesto por el artículo 185 de la citada Ley.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-Las personas a quienes se les autoricen construcciones para nuevas edificaciones en terrenos no comprendidos en fraccionamientos autorizados, deberán ceder la superficie o pagar al municipio, en los términos a que se refiere el Artículo 149 de la misma Ley.
+Las personas que realicen construcciones para nuevas edificaciones en terrenos no comprendidos en fraccionamientos autorizados, deberán ceder la superficie o pagar al municipio, en los términos a que se refiere el artículo 149 de la misma Ley.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -3610,3 +3626,7 @@ Artículo Único.- El presente Decreto entrará en vigor el 1º de Enero del añ
 P.O. 27 DE DICIEMBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1º de Enero del año 2006.
+
+P.O. 13 DE ENERO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
