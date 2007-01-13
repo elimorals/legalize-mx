@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ingresos-de-los-municipios-de-nuevo-leon-para-el-ano-526
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-31"
-last_updated: "2006-12-31"
+last_updated: "2007-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE INGRESOS DE LOS MUNICIPIOS DE NUEVO LEON PARA EL AÑO 2007
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INGRESOS DE LOS MUNICIPIOS DE NUEVO LEON PARA EL AÑO 2007, PUBLICADA EN EL P.O. DE 13 DE ENERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 31 de diciembre de 2006.
 
@@ -160,3 +162,21 @@ ROGELIO CERDA PÉREZ
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE ENERO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- A partir de la vigencia del presente Decreto se abroga la Ley de Ingresos de los Municipios de Nuevo León para el año 2007, publicada en el Periódico Oficial del Estado el 31 de diciembre de 2006.
+
+Artículo Tercero.- El presente Decreto no afecta los derechos ni obligaciones de los contribuyentes que antes de su entrada en vigor hubieren realizado el pago de algún Impuesto, Derecho, Contribuciones por Nuevos Fraccionamientos, Edificaciones, Parcelaciones, Relotificaciones y Subdivisiones previstas en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado, Productos o Aprovechamientos bajo el amparo de la Ley de Ingresos de los Municipios.
+
+Artículo Cuarto.- Durante el año 2007 y mientras permanezca en vigor la adhesión del Estado de Nuevo León al Sistema Nacional de Coordinación Fiscal a que se contrae el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado y suscrito por el Estado de Nuevo León y la Secretaría de Hacienda y Crédito Público en la ciudad de Mazatlán, Sinaloa, el 19 de octubre de 1979; se suspende la vigencia de los impuestos sobre el ejercicio de actividades mercantiles, a la adquisición de cítricos, sobre diversiones y espectáculos públicos, únicamente en materia de espectáculos cinematográficos por los que se cause el impuesto al valor agregado, y de los derechos de expedición de cédula de empadronamiento y patente mercantil.
+
+Artículo Quinto.- Si se da por terminado el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, mencionado en el transitorio que antecede, entrarán en vigor nuevamente desde el día siguiente en que surta sus efectos la terminación de dicho convenio, los impuestos sobre el ejercicio de actividades mercantiles, a la adquisición de cítricos, sobre diversiones y espectáculos públicos, únicamente en materia de espectáculos cinematográficos por los que se cause el impuesto al valor agregado, así como los derechos de expedición de cédula de empadronamiento y patente mercantil, que quedaron suspendidos por el Artículo Segundo transitorio de esta Ley.
+
+Artículo Sexto.- Durante el año 2007 y mientras esté en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, mencionado en el transitorio segundo de esta Ley; el impuesto sobre juegos permitidos permanecerá en vigor en la forma y términos establecidos en el Artículo Quinto transitorio de la vigente Ley de Hacienda para los Municipios del Estado de Nuevo León. En caso de que se den por terminados los convenios de referencia, el impuesto sobre juegos permitidos permanecerá en vigor en la forma y términos previstos en el Artículo Sexto transitorio de la vigente Ley de Hacienda para los Municipios del Estado.
+
+Artículo Séptimo.- Durante el año 2007 y mientras permanezca en vigor la Coordinación en Materia Federal de Derechos entre la Federación y el Estado de Nuevo León a que se contrae la declaratoria emitida por el Secretario de Hacienda y Crédito Público, con fecha 12 de septiembre de 1994, en los términos previstos por la Ley de Coordinación Fiscal; se suspende la vigencia de los derechos por certificaciones, autorizaciones, constancias y registros; por inscripción y refrendo; por revisión, inspección y servicios, por expedición de licencias, por ocupación de la vía pública, contenidos en los Artículos 57, fracción II; 58, fracciones VI a XVIII; 59, fracciones VI a XVIII; 62, fracciones II y III; 63, último párrafo; 64, fracciones I a IV y 65 Bis-1, fracción V, de la Ley de Hacienda para los Municipios del Estado y se suspende la aplicación del Artículo 91 de dicha Ley; no obstante, volverán a entrar en vigor al día siguiente al en que surta sus efectos la terminación de la citada Coordinación.
