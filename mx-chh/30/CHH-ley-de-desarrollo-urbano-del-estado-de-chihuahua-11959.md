@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-del-estado-de-chihuahua-11959"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2005-06-08"
+last_updated: "2007-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -521,7 +521,9 @@ a) La determinación básica de espacios dedicados a la conservación, mejoramie
 
 b) La estructura carretera, los libramientos y los caminos rurales;
 
-c) Las fuentes de captación de agua potable y sistemas de abastecimiento y distribución primaria de agua en bloque;
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
+c) Las fuentes de captación y almacenamiento de agua potable y sistemas de abastecimiento y distribución primaria de agua en bloque;
 
 d) Sistemas de alcantarillado sanitario y drenaje pluvial, de saneamiento y disposición o reuso de aguas residuales;
 
@@ -571,7 +573,9 @@ a) La determinación básica de espacios dedicados a la conservación, mejoramie
 
 b) La estructura carretera, los libramientos y los caminos rurales;
 
-c) Las fuentes de captación de agua potable y sistemas de abastecimiento y distribución primaria de agua en bloque;
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
+c) Las fuentes de captación y almacenamiento de agua potable y sistemas de abastecimiento y distribución primaria de agua en bloque;
 
 d) Sistemas de alcantarillado sanitario y drenaje pluvial, de saneamiento y disposición o reuso de aguas residuales;
 
@@ -603,7 +607,9 @@ II.- Fundamentación y análisis de congruencia con el Plan Estatal de Desarroll
 
 III.- Análisis y diagnóstico de la habitabilidad del territorio, estructura urbana, redes de infraestructura y equipamiento primario;
 
-IV.- Estrategia de desarrollo urbano, que incluye: objetivos, metas y prioridades; límite del Centro de Población; aprovechamientos principales del suelo; áreas urbanas, urbanizables y no urbanizables; derechos de vía e infraestructura básica de comunicaciones y transportes; suministro de agua y saneamiento y energía; medidas para la conservación de los recursos naturales y mejoramiento del medio ambiente y del patrimonio cultural; políticas de crecimiento, mejoramiento y conservación urbanas;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
+
+IV.- Estrategia de desarrollo urbano, que incluye: objetivos, metas y prioridades; Límite del Centro de Población; aprovechamientos principales del suelo; áreas urbanas, urbanizables y no urbanizables; derechos de vía e infraestructura básica de comunicaciones y transportes; suministro y almacenamiento de agua y saneamiento y energía; medidas para la conservación de los recursos naturales y mejoramiento del medio ambiente y del patrimonio cultural; políticas de crecimiento, mejoramiento y conservación urbanas;
 
 V.- Lineamientos programáticos;
 
@@ -1537,15 +1543,31 @@ La garantía estará vigente durante los dos años siguientes a la recepción de
 
 V.- Donar al Ayuntamiento las áreas que se requieran para el equipamiento urbano de acuerdo a lo que se establece en los artículos 165 y 166 del capítulo quinto de este apartado;
 
-VI.- Pagar en tiempo y forma, las cargas fiscales que les correspondan, de acuerdo con lo dispuesto en la legislación fiscal estatal y municipal; y
+VI.- Pagar en tiempo y forma, las cargas fiscales que les correspondan, de acuerdo con lo dispuesto en la legislación fiscal estatal y municipal; y (sic)
 
-VII.- Rehacer a su costa, sujetándose al proyecto autorizado, todas las obras de urbanización que haya ejecutado en forma indebida.
+VII.- Rehacer a su costa, sujetándose al proyecto autorizado, todas las obras de urbanización que haya ejecutado en forma indebida;
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 2005)</small>
 
 VIII. Cuando se construyan fraccionamientos de hipo habitacional de interés social, deberán garantizar que el 1% del total de las viviendas a construir, sean adaptables y accesibles para que las personas con algún impedimento para caminar puedan habitar en ellas adecuadamente.
 
-En los fraccionamientos menores a 100 viviendas, el fraccionador estará obligado a construir al menos una vivienda, siempre y cuando exista una solicitud expresa de alguna persona que así lo requiera.
+En los fraccionamientos menores a 100 viviendas, el fraccionador estará obligado a construir al menos una vivienda, siempre y cuando exista una solicitud expresa de alguna persona que así lo requiera;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2007)</small>
+
+IX. En caso de construcciones de fraccionamientos, desarrollos habitacionales y viviendas en general, la instalación de tinacos a una altura mínima de dos metros arriba de la salida del inmueble sanitario más alto, y deberán ser de materiales impermeables e inocuos y tener registros con cierre hermético.
+
+Las instalaciones hidráulicas de baños y sanitarios deberán de ser de bajo consumo y tener llaves de cierre automático o aditamentos economizadores de agua; los inodoros tendrán una descarga máxima de seis litros en cada servicio; las regaderas, los mingitorios, los lavabos, las tinas, lavaderos de ropa y fregaderos tendrán llaves que no consuman más de diez litros por minuto;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2007)</small>
+
+X. Para los conjuntos habitacionales, las edificaciones de dos niveles o más y las edificaciones ubicadas en zonas cuya red pública de agua potable tenga una presión inferior a diez metros de columna de agua, la instalación de cisternas calculadas para almacenar dos veces la demanda mínima diaria de agua potable de la edificación y equipada con sistemas de bombeo.
+
+Las cisternas deberán ser completamente impermeables, tener registro con cierre hermético y sanitario y ubicarse a tres metros, cuando menos, de cualquier tubería permeable de aguas negras;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2007)</small>
+
+XI. En caso de edificaciones de fraccionamientos, desarrollos habitacionales y viviendas en general, las construcciones deberán realizarse a una distancia de un kilómetro de los Centros de Readaptación Social.
 
 ###### ARTICULO 125.
 
@@ -2582,3 +2604,21 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 8 DE JUNIO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ENERO DE 2007.
+
+DECRETO No. 702/06 I P.O.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ENERO DE 2007.
+
+Decreto No. 703/06 I P.O.
+
+Artículo Primero.- El costo de la instalación de tinacos en todas las unidades habitacionales en construcción, corre a cargo de los fraccionadores y en coordinación con la Secretaría de Fomento Social del Gobierno del Estado, para atender cualquier problema que pueda surgir respecto a la calidad del agua.
+
+Artículo Segundo.- Para todos aquellos derechohabientes que ya cuentan con vivienda y pretendan incluirse a un programa de oferta de tanques elevados de almacenamiento o tinacos, se harán acreedores a ellos todos aquellos usuarios que no tengan adeudo alguno con la Junta de Central de Aguas y Saneamiento; siempre y cuando se entreguen los tinacos al usuario con un anticipo razonable y el resto lo pague en mensualidades incluidas en su recibo de pago de agua, previa firma de un contrato de compra-venta.
+
+Artículo Tercero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
