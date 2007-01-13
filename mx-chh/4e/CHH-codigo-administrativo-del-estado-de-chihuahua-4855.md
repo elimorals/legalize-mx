@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2005-12-28"
+last_updated: "2007-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -1643,7 +1643,7 @@ IV.- Rendir los informes que soliciten las autoridades legalmente facultadas par
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-V.- Rendir a la Secretaría de Finanzas, dentro de los primeros cinco días hábiles de cada mes, una noticia pormenorizada del número de escrituras registradas en cada Sección, el valor de las operaciones correspondientes al ramo y el monto de los derechos causados. Las Oficinas de los Registros Públicos de la Propiedad enviarán esta misma información al Departamento del Registro Público de la Propiedad y del Notariado.
+V.- Rendir a la Secretaría de Finanzas, dentro de los primeros cinco días hábiles de cada mes, una noticia pormenorizada del número de escrituras registradas en cada Sección, el valor de las operaciones correspondientes al ramo y el monto de los derechos causados. Las Oficinas de los Registros Públicos de la Propiedad enviarán esta misma información al Departamento del Registro Público de la Propiedad y del Notariado;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
 
@@ -1651,7 +1651,7 @@ VI.- Permitir, en los términos del artículo 2893 del Código Civil, que cualqu
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
 
-VII.- Las demás que establezcan este Código y otras disposiciones legales.
+VII.- Las demás que establezcan este Código y otras disposiciones legales;
 
 VIII.- (DEROGADA, P.O. 26 DE FEBRERO DE 1997)
 
@@ -3782,6 +3782,10 @@ El sistema penal se organizará sobre la base de trabajo, la capacitación para 
 ###### ARTICULO 685.
 
 Toda persona que se encuentre en prisión preventiva y sujeta a un proceso penal, tiene derecho a que se le confine en un lugar totalmente separado y distinto al sitio destinado para extinguir la pena. Las mujeres quedarán recluidas en lugares separados de los destinados a los hombres. Los menores infractores serán internados, en su caso, en instituciones diversas de las asignadas a los adultos.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2007)</small>
+
+El Gobernador del Estado podrá decidir el establecimiento de instituciones penitenciarias en las demarcaciones territoriales de las zonas urbanas, las cuales sólo podrán ser de baja y mínima seguridad. Las de alta y media se ubicarán fuera de la zona urbanizada.
 
 El incumplimiento de este precepto será sancionado de conformidad con las leyes.
 
@@ -10996,3 +11000,9 @@ Las personas que actualmente se encuentran ocupando los cargos de Presidente, Vo
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ENERO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
