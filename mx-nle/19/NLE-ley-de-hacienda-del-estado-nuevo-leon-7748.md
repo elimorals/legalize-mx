@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2006-01-25"
+last_updated: "2007-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -83,19 +83,21 @@ La ignorancia de las leyes, reglamentos, circulares y demás disposiciones fisca
 
 Las leyes, reglamentos y demás disposiciones fiscales de alcance general, relativas a la Hacienda Pública del Estado de Nuevo León, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial, o en la fecha que señalen las mismas leyes, reglamentos o disposiciones, siempre que su vigencia no sea anterior a la publicación.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 9o.
 
-La administración y recaudación de los impuestos, contribuciones especiales, derechos, productos y aprovechamientos que establece la Ley de Ingresos del Estado, serán de la competencia de la Secretaría de Finanzas y Tesorería General del Estado, la cual podrá ser auxiliada por otras Dependencias Oficiales o por organismos públicos o privados, por disposición de la Ley o a petición de la propia Secretaría de Finanzas y Tesorería General del Estado.
+La administración y recaudación de los impuestos, contribuciones especiales, derechos, productos y aprovechamientos que establece la Ley de Ingresos del Estado, serán de la competencia de la Secretaría de Finanzas y Tesorería General del Estado, la cual podrá ser auxiliada por otras dependencias oficiales o por organismos públicos o por personas morales de naturaleza privada, en los términos de las disposiciones legales respectivas. La implementación, desarrollo, administración, control, operación, mantenimiento, actualización, respaldo y custodia de los sistemas y programas de cómputo, equipos informáticos y de comunicación, equipos de impresión y almacenamiento de bases de datos y documentos digitalizados, relacionados con la administración financiera, fiscal y tributaria de la Hacienda Pública del Estado, corresponderá a la propia Secretaría de Finanzas y Tesorería General del Estado en coordinación con la Oficialía Mayor del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 Cuando en esta Ley o en alguna otra se dé una denominación nueva o distinta a la Secretaría de Finanzas y Tesorería General del Estado o a alguna de las Direcciones, Unidades, Departamentos o Dependencias que la integran, se entenderá que dicha disposición legislativa se está refiriendo a la denominación que para cada caso concreto, de acuerdo con las funciones y atribuciones respectivas, establece el Reglamento Interior de la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 9o. Bis.
 
-El pago de los créditos fiscales deberá hacerse en efectivo, salvo disposición expresa de una ley particular. Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo.
+El pago de los créditos fiscales deberá hacerse en efectivo, salvo disposición expresa en contrario. Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo y deberán expedirse a favor de la Secretaría de Finanzas y Tesorería General del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2049,7 +2051,7 @@ Estos servicios podrán ser prestados por profesionistas independientes con tít
 
 El profesionista que realice la inspección deberá presentar ante la Secretaría del Trabajo, dentro de los meses de Enero y Julio del semestre correspondiente, o en su caso, dentro del mes siguiente al inicio de actividades, una constancia en la que se certifique que ha cumplido con las disposiciones previstas en el reglamento respectivo. Esto no libera al contribuyente de permitir inspecciones ordenadas por la Secretaría del Trabajo, para verificar el cumplimiento de las disposiciones aplicables en esta materia.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003.</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2069,7 +2071,7 @@ Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres a
 
 Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de N$55.00.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2463,7 +2465,7 @@ II.- Balances de Empresas 7.50 cuotas.
 
 La publicación de Leyes, Decretos, Reglamentos, Acuerdos, Resoluciones y Circulares de carácter general y demás disposiciones a que se refiere el Artículo 10 de la Ley del Periódico Oficial del Estado, emitidos por las autoridades, estará exenta de los derechos previstos en este Artículo.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
@@ -2575,7 +2577,7 @@ g) Constancias de Servicio Social de escuelas desaparecidas ….. 1.5 cuotas
 
 a) Trámite de Cédula Profesional, así como Autorización para el ejercicio de especialidad, por cada trámite ….. 5 cuotas
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003.</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
 
 II.- Instituciones Educativas:
 
@@ -2877,13 +2879,13 @@ En caso de que estos servicios sean prestados a trabajadores de patrones con má
 
 El examen médico, el análisis sanguíneo y el catastro torácico podrán ser practicados por personas o establecimientos públicos o particulares, autorizados para prestar servicios médicos. Una vez acreditado lo anterior, el certificado de salud se expedirá en forma gratuita.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 III.- Por verificación semestral del cumplimiento de las disposiciones en materia de seguridad, ecología, salud e higiene, por metro cuadrado de área de trabajo, de servicios y de atención al público, N$0.50, sin que la cantidad a pagar por establecimiento sea inferior a N$50.00, ni mayor a N$850.00.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2951,13 +2953,13 @@ h) Predios que no formen parte de un fraccionamiento autorizado por las autorida
 
 Tratándose de fraccionamientos, cuando soliciten su incorporación únicamente a las redes de agua o sólo a las redes de drenaje, pagará el 50% de los derechos establecidos.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VIII.- Por clasificación de carne de res, por canal N$3.80
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -3578,3 +3580,21 @@ P.O. 25 DE ENERO DE 2006.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Las autoridades contarán con un plazo de treinta días, contados a partir de la entrada en vigor del presente Decreto, para publicar en internet los correos electrónicos oficiales que destinarán para efecto de recibir las solicitudes de información a que se refiere al Artículo 13 de la Ley de Acceso a la Información Pública, reformado a través del presente Decreto.
+
+P.O. 13 DE ENERO DE 2007.
+
+DECRETO No. 58
+
+Artículo Primero.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Durante el año 2007, y mientras permanezca en vigor la Adhesión del Estado de Nuevo León al Sistema Nacional de Coordinación Fiscal a que se contrae el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado y suscrito por el Estado de Nuevo León y la Secretaría de Hacienda y Crédito Público en la ciudad de Mazatlán, Sinaloa, el 19 de octubre de 1979, se suspende la vigencia de los impuestos sobre ingresos mercantiles, sobre expendio de bebidas alcohólicas, sobre compraventa o permuta de ganado, sobre venta de gasolina y demás derivados del petróleo y sobre ganado y aves que se sacrifiquen.
+
+Artículo Tercero.- Si se da por terminado el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal mencionado en el transitorio que antecede, entrarán en vigor nuevamente desde el día siguiente al en que surta sus efectos la terminación de dicho Convenio, los impuestos sobre ingresos mercantiles, sobre expendio de bebidas alcohólicas, sobre compraventa o permuta de ganado, sobre venta de gasolina y demás derivados del petróleo y sobre ganado y aves que se sacrifiquen.
+
+Artículo Cuarto.- Durante el año 2007, y mientras permanezca en vigor la Coordinación en Materia Federal de Derechos entre la Federación y el Estado de Nuevo León a que se contrae la declaratoria emitida por el Secretario de Hacienda y Crédito Público, con fecha 12 de septiembre de 1994, en los términos previstos en la Ley de Coordinación Fiscal, se suspende la vigencia de los derechos contenidos en los Artículos 267; 268; 274; 275 bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado. Y volverán a entrar en vigor al día siguiente al en que surta sus efectos la terminación de la citada Coordinación.
+
+P.O. 13 DE ENERO DE 2007.
+
+DECRETO No. 59
+
+Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
