@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2007-01-11"
+last_updated: "2007-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1737,9 +1737,9 @@ Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio
 
 El Consejo de Familia que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento una vez que lo haya otorgado, sino por justa causa superveniente.
 
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-Art. 267 bis.- El hombre y la mujer, acreditarán ante el Oficial del Registro Civil, el haber recibido el curso prematrimonial que no será menor de dos horas, cuyo contenido versará sobre los derechos y obligaciones que se contraen con el vínculo del matrimonio de acuerdo a los capítulos correspondientes de este Código. Dicho curso será diseñado e impartido por el Sistema Estatal para el Desarrollo Integral de la Familia.
+Art. 267 bis.- El hombre y la mujer, acreditarán ante el Oficial del Registro Civil, el haber recibido el curso prematrimonial que no será menor de dos horas, cuyo contenido versará sobre la igualdad del varón y la mujer ante la ley y la equidad de género en el matrimonio, el significado legal del matrimonio, los fines del matrimonio, el derecho de todo ser humano de ejercer la actividad profesional que desee y todos los derechos y deberes que nacen del matrimonio de acuerdo a los capítulos correspondientes de este Código. Dicho curso será diseñado e impartido por el Sistema Estatal para el Desarrollo Integral de la Familia de Jalisco.
 
 ###### Art. 268.
 
@@ -17734,3 +17734,7 @@ OCTAVO. Los asuntos pendientes de trámite de la Procuraduría para Asuntos Ind�
 NOVENO. Si para la fecha de entrada en vigencia de esta Ley, el Estado y los municipios con población indígena hubieren ya concluido su Plan de Desarrollo sin haber incorporado el sentir de los pueblos indígenas, se procederá a escuchar a las comunidades indígenas e incorporar a dichos planes las aportaciones en su caso.
 
 DECIMO. El titular del Poder Ejecutivo Estatal dispondrá que el presente decreto, se traduzca a las lenguas de los pueblos indígenas del Estado y ordenará su difusión en sus comunidades.
+
+P.O. 13 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
