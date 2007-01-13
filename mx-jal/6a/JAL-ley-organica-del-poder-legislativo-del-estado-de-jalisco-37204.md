@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2007-01-04"
+last_updated: "2007-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -45,7 +45,7 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
 
 1. Esta ley es de orden e interés público y tiene por objeto establecer la organización y el funcionamiento del Poder Legislativo del Estado de Jalisco conforme a las atribuciones que le señala la Constitución Política del Estado.
 
-2. La (sic) reformas, adiciones, derogación o abrogación de la Ley Orgánica del Poder Legislativo y sus disposiciones reglamentarias, requieren de mayoría calificada y no son objeto de observaciones por parte del Gobernador del Estado, de conformidad a lo dispuesto por la Constitución Política del Estado de Jalisco, por lo que una vez aprobadas por la Asamblea deben enviarse para su publicación de forma inmediata en el órgano de difusión oficial del Poder Legislativo, denominado Gaceta Legislativa.
+2. Las reformas, adiciones, derogación o abrogación de la Ley Orgánica del Poder Legislativo y sus disposiciones reglamentarias, requieren de mayoría calificada y no son objeto de observaciones por parte del Gobernador del Estado, de conformidad a lo dispuesto por la Constitución Política del Estado de Jalisco, por lo que una vez aprobadas por la Asamblea deben enviarse para su publicación de forma inmediata en el órgano de difusión oficial del Poder Legislativo, denominado Gaceta Legislativa.
 
 ###### Artículo 2.
 
@@ -695,11 +695,15 @@ II. Haber cumplido treinta años de edad;
 
 III. Contar con título profesional legalmente expedido, en las áreas de ciencias sociales, humanidades o económico administrativas con una antigüedad mínima de cinco años;
 
-IV. Acreditar conocimientos y experiencia para el desempeño de las tareas inherentes al cargo;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-V. No haber desempeñado cargo alguno en la dirigencia nacional, estatal o municipal de un partido político, ni haber ocupado o sido postulado a un cargo de elección popular, durante los tres años inmediatos anteriores a la instalación de la Legislatura; y
+IV. Acreditar conocimientos y experiencia para el desempeño de las tareas inherentes al cargo; y
 
-VI. No haber sido condenado por delito intencional que amerite pena de privación de la libertad.
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCION VI], P.O. 13 DE ENERO DE 2007)</small>
+
+V. No haber sido condenado por delito intencional que amerite pena de privación de la libertad.
+
+VI. (REFORMADA [N. DE E. DEROGADA], P.O. 13 DE ENERO DE 2007)
 
 ###### Artículo 49.
 
@@ -2786,3 +2790,7 @@ P.O. 4 DE ENERO DE 2007.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El reglamento de la Ley de Planeación para el Estado de Jalisco y sus Municipios deberá normar la periodicidad y formalidades para el funcionamiento del COPLADE en pleno y los Subcomités.
+
+P.O. 13 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
