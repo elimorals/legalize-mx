@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2006-12-02"
+last_updated: "2007-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -101,6 +101,10 @@ II. Secretaría: la Secretaría de Desarrollo Rural del Estado de Jalisco.
 
 Los Gobiernos Estatal y Municipal ejercerán sus atribuciones y obligaciones en materia forestal de conformidad con la distribución de competencias previstas en la Ley General de Desarrollo Forestal Sustentable, en la presente Ley y las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE ENERO DE 2007)</small>
+
+Las atribuciones de inspección y vigilancia del cumplimiento de las disposiciones de la presente ley y las demás que resulten aplicables, serán ejercidas por la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado, a través de la Procuraduría Estatal de Protección al Ambiente.
+
 ###### Artículo 7.
 
 Corresponde al Gobierno del Estado, de conformidad con lo dispuesto en esta Ley, las siguientes atribuciones:
@@ -167,9 +171,13 @@ XII. Promover e invertir en el mejoramiento de la infraestructura en las áreas 
 
 XIII. Promover el desarrollo de plantaciones forestales comerciales, así como la inducción de transferencia de tecnología;
 
-XIV. Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico Estatal; y
+XIV. Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico Estatal; y (sic)
 
-XV. Hacer del conocimiento de las autoridades competentes, y en su caso denunciar, las infracciones, faltas administrativas, o delitos que se cometan en materia forestal.
+XV. Hacer del conocimiento de las autoridades competentes, y en su caso denunciar, las infracciones, faltas administrativas, o delitos que se cometan en materia forestal;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2007)</small>
+
+XVI. Realizar las acciones tendientes para la prevención de incendios y combate a la extracción ilegal y la tala clandestina de los recursos forestales.
 
 ###### Artículo 9.
 
@@ -617,9 +625,11 @@ La integración de los Consejos, así como los objetivos específicos de acción
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
 ###### Artículo 59.
 
-La vigilancia forestal será una responsabilidad de la Secretaría, deberá desarrollarse de conformidad con los acuerdos y convenios que se celebren con la Federación y consistirá en una revisión e inspección de todas las áreas forestales, así como de los establecimientos mercantiles o civiles que tengan relación con las actividades forestales.
+La inspección y vigilancia forestal será una responsabilidad de la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado, deberá desarrollarse de conformidad con las atribuciones que esta Ley confiere a través de la Procuraduría Estatal de Protección al Ambiente, así como los acuerdos y convenios que se celebren con la Federación.
 
 ###### Artículo 60.
 
@@ -627,15 +637,19 @@ El Gobierno del Estado, en coordinación con los Municipios y con la colaboraci�
 
 ### CAPÍTULO II. De la Denuncia Ciudadana
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
 ###### Artículo 61.
 
-Todo ciudadano deberá denunciar ante el Municipio, la Secretaria o ante otras autoridades, todo hecho, acto u omisión que atente contra el equilibrio ecológico o contra el ecosistema forestal, se causen daños a los recursos forestales o se contravengan las disposiciones legales relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
+Todo ciudadano deberá denunciar ante el Municipio, la Secretaría (sic), ante la Secretaría de Medio Ambiente para el Desarrollo Sustentable, ante la Procuraduría Estatal de Protección al Ambiente, ante el Ministerio Público, o ante otras autoridades, todo hecho, acto u omisión que atente contra el equilibrio ecológico o contra el ecosistema forestal, que causen daños a los recursos forestales o que contravengan las disposiciones legales relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
 
 ### CAPÍTULO III. De los Operativos de Inspección y Medidas de Prevención
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
 ###### Artículo 62.
 
-Con base en los acuerdos y convenios establecidos entre la Federación y el Estado, éste podrá a través de la Secretaría, conforme a lo establecido en la Ley General de Desarrollo Forestal Sustentable, llevar a cabo los operativos de inspección y las medidas de prevención necesarias para la efectiva aplicación de las disposiciones legales.
+De conformidad con las atribuciones que esta Ley confiere y los acuerdos y convenios establecidos entre la Federación y el Estado, éste podrá a través de la Procuraduría Estatal de Protección al Ambiente, de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, conforme a lo establecido en la Ley General de Desarrollo Forestal Sustentable, llevar a cabo los operativos de inspección y las medidas de prevención necesarias para la efectiva aplicación de las disposiciones legales.
 
 ### CAPÍTULO IV. De las Infracciones
 
@@ -645,9 +659,11 @@ Se consideran infracciones a esta Ley las que se realicen contra lo establecido 
 
 ### CAPÍTULO V. De las Sanciones
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
 ###### Artículo 64.
 
-Con base en los acuerdos y convenios establecidos entre la Federación y el Estado, éste podrá a través de la Secretaría, conforme a lo establecido en la Ley General de Desarrollo Forestal Sustentable, imponer las sanciones para la efectiva aplicación de esa Ley.
+De conformidad con las atribuciones que esta Ley confiere y los acuerdos y convenios establecidos entre la Federación y el Estado, éste podrá a través de la procuraduría Estatal de Protección al Ambiente de la Secretaría de Medio Ambiente y Desarrollo Sustentable, conforme a lo establecido en la Ley General de Desarrollo Forestal Sustentable, imponer las sanciones para la efectiva aplicación de esta Ley.
 
 ### CAPÍTULO VI. De los Recursos
 
@@ -708,5 +724,25 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE DICIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE ENERO DE 2007.
+
+DECRETO NUMERO 21696/LVII/06
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Se autoriza al Titular del Ejecutivo del Estado a que realice las adecuaciones presupuestarias para el debido cumplimiento del presente decreto y deberá expedir el reglamento interior de la Procuraduría Estatal de Protección al Ambiente en el que se especifiquen su estructura interna su organización y demás atribuciones, adecuar los reglamentos, acuerdos y demás dispositivos reglamentarios relacionados con las materias cuyas disposiciones se reforman, modifican o derogan a partir del presente decreto.
+
+CUARTO. La Procuraduría Estatal de Protección al Ambiente deberá entrar en funciones a más tardar el primero de julio del año 2007 y hasta entonces la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado realizará las atribuciones encomendadas a aquella por el presente Decreto y por las disposiciones que de este se deriven.
+
+Quinto (sic).- En el cumplimiento del presente Decreto, se respetarán los derechos laborales y de seguridad social de los trabajadores que sean transferidos de una dependencia a otra.
+
+P.O. 13 DE ENERO DE 2007.
+
+DECRETO NUMERO 21703/LVII/06
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
