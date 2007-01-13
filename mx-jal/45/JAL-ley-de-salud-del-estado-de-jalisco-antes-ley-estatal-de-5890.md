@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2007-01-11"
+last_updated: "2007-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -2551,6 +2551,10 @@ El control sanitario de los rastros estará a cargo de la autoridad sanitaria co
 
 Los animales deberán ser examinados en pie y en canal por la autoridad sanitaria competente, la que determinará qué carne puede destinarse al consumo humano.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2007)</small>
+
+Queda prohibido el sacrificio de animales destinados al consumo humano que hayan sido alimentados con sustancias cuyo uso esté prohibido por las disposiciones legales aplicables.
+
 ###### Art. 168.
 
 Queda prohibida la matanza de animales en casas o domicilios particulares. Cuando el sacrificio de animales sea destinado para el consumo familiar, sólo se permitirá por la autoridad municipal correspondiente cuando en el lugar no exista rastro municipal. Este permiso será concedido bajo la condición de que el animal y sus carnes sean inspeccionadas por la autoridad sanitaria correspondiente.
@@ -3275,6 +3279,10 @@ Se sancionará con multa equivalente de cien hasta quinientas veces el salario m
 
 Se sancionará con multa (sic) con multa equivalente de quinientas hasta mil veces el salario mínimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos: 122 y 123 de esta ley.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2007)</small>
+
+Se sancionará con multa equivalente de quinientos hasta tres mil veces el salario mínimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en el segundo párrafo del artículo 167 de esta ley.
+
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 249.
@@ -3684,3 +3692,9 @@ P.O. 31 DE OCTUBRE DE 2006.
 P.O. 11 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El reglamento correspondiente deberá ser adecuado en un término no mayor de 90 días posteriores a la publicación del presente decreto.
