@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2006-12-28"
+last_updated: "2007-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -619,7 +619,9 @@ I. Formular, revisar y ejecutar el Programa Estatal de Desarrollo Rural, directa
 
 II. Participar en la elaboración del Plan Estatal de Desarrollo, respecto a la definición de las políticas agropecuarias, forestal, de la fauna y pesquera, así como el desarrollo rural integral del Estado;
 
-III. Elaborar y vigilar el cumplimiento de los Programas en materia de desarrollo rural;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
+
+II (sic). Elaborar los programas en materia de desarrollo rural;
 
 IV. Proyectar y ejecutar el programa de obra pública rural del Gobierno del Estado, con la participación de manera concertada con Municipios, Comunidades y Organizaciones;
 
@@ -641,9 +643,15 @@ IX. Evaluar los proyectos que se formulen, utilizando indicadores que muestren s
 
 X. Coordinar las actividades operativas de los organismos distritales de desarrollo rural, e implementar los mecanismos requeridos para la eficiente operación de los planes y programas que en materia agropecuaria, forestal e hidráulica, se establezcan en la Entidad;
 
-XI. Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funciones que, en materia pesquera, se convengan con la administración pública federal, así como las particulares de competencia local; y
+XI. Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funciones que, en materia pesquera, se convengan con la administración pública federal, así como las particulares de competencia local; y (sic)
 
-XII. Las demás que le concedan las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ENERO DE 2007)</small>
+
+XII. Coadyuvar con la Secretaría de Medio Ambiente para el Desarrollo Sustentable en las acciones de inspección y vigilancia del cumplimiento de los programas en materia de desarrollo rural, así como de las disposiciones en materia forestal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE ENERO DE 2007)</small>
+
+XIII. Las demás que le concedan las leyes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -689,97 +697,99 @@ XV. Participar, en coordinación con las autoridades competentes, en la planeaci
 
 XVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000) (REPUBLICADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)
 
 ###### Art. 33 Bis.
 
-La Secretaría de Medio Ambiente para el Desarrollo Sustentable es la dependencia responsable de normar y formular la política ambiental estableciendo los criterios y los programas para el desarrollo sustentable del Estado, fomentando la protección, conservación y restauración de los recursos naturales de la entidad y la prevención y disminución de la contaminación ambiental, de conformidad con la distribución de competencias que establecen las leyes federales y estatales aplicables en la materia. A esta Secretaría le corresponden particularmente el despacho de los siguientes asuntos:
+La Secretaría de Medio Ambiente para el Desarrollo Sustentable es la dependencia responsable de normar y formular la política ambiental estableciendo los criterios y los programas para el desarrollo sustentable del Estado, fomentando la protección, conservación, preservación y restauración de los recursos naturales de la entidad y la prevención y disminución de la contaminación ambiental, de conformidad con la distribución de competencias que establecen las leyes federales y estatales aplicables en la materia. A esta Secretaría le corresponde particularmente el despacho de los siguientes asuntos:
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 I. Planear la conducción de la política ambiental del Estado en congruencia con las disposiciones legales, los planes y programas que se establezcan por la Federación, con la participación que corresponda, a otras dependencias del Poder Ejecutivo Estatal y particularmente a los gobiernos municipales;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 II. Participar en la elaboración del Plan Estatal de Desarrollo, definiendo las políticas de protección, restauración y conservación de los recursos naturales de la entidad, fomentando el aprovechamiento sustentable de los recursos naturales y culturales ante la sociedad, así como la prevención y disminución de la contaminación ambiental, de conformidad a las estrategias de planeación ambiental, en coordinación con las demás dependencias del Poder Ejecutivo del Estado;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 III. Fomentar la elaboración y aplicación de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como para disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales, gestionando la participación que le corresponda a otras dependencias del Poder Ejecutivo Estatal y a los gobiernos municipales, en congruencia con las disposiciones federales;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-IV. Proponer y coordinar las acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Estado, en acuerdo con el gobierno federal, las dependencias del Poder Ejecutivo Estatal y los gobiernos municipales, de conformidad con la distribución de competencias existente;
+IV. Proponer y coordinar las acciones y medidas necesarias de protección al ambiente con el fin de proteger, conservar, preservar y restaurar el equilibrio ecológico y la estabilidad ambiental de los ecosistemas del Estado, en acuerdo con el gobierno federal, las dependencias del Poder Ejecutivo Estatal y los gobiernos municipales, de conformidad con la distribución de competencias existente;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 V. Promover y certificar el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales y de prevención y disminución de la contaminación ambiental;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 VI. Gestionar con las dependencias federales, estatales y municipales correspondientes, el otorgamiento de incentivos y estímulos en favor de los particulares que contribuyan a la protección ambiental y el equilibrio de los ecosistemas de la entidad;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-VII. Gestionar ante las dependencias federales, estatales y municipales, los particulares y la sociedad organizada, según les corresponda, su participación en la realización, aprobación y acatamiento del ordenamiento ecológico regional del territorio estatal, asegurando su observancia permanente;
+VII. Gestionar ante las dependencias federales, estatales y municipales, los particulares y la sociedad organizada, según les corresponda, su participación en la elaboración del ordenamiento ecológico regional del territorio estatal, así como su evaluación, realizando las acciones de vigilancia del cumplimiento y aplicación de las disposiciones legales y reglamentarias en la materia que se requieran;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-VIII. Participar en coordinación con la Secretaría de Desarrollo Urbano y los gobiernos municipales, en la regulación ambiental de los asentamientos humanos;
+VII (sic). Participar en coordinación con la Secretaría de Desarrollo Urbano y los gobiernos municipales, en la regulación y vigilancia de los asentamientos humanos en materia ambiental;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-IX. Evaluar el impacto ambiental de aquellas obras y actividades que no sean competencia de la Federación o de los gobiernos municipales, emitir los dictámenes correspondientes y asegurar su cumplimiento;
+IX. Evaluar el impacto ambiental de aquellas obras y actividades que no sean competencia de la Federación o de los gobiernos municipales, emitir los dictámenes correspondientes y realizar las acciones de inspección y vigilancia que se requieran para asegurar su cumplimiento;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 X. Elaborar las propuestas de modificaciones y adecuaciones que resulten pertinentes a las disposiciones reglamentarias y normativas en materia ambiental, atendiendo los lineamientos existentes en materia de mejora regulatoria;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
-XI Asegurar el cabal cumplimiento de las disposiciones estatales en materia ambiental a través de los procedimientos administrativos que correspondan, imponiendo las medidas de seguridad, correctivas o de urgente aplicación y sanciones procedentes;
+XI. Asegurar el cabal cumplimiento de las disposiciones estatales en materia ambiental a través de los procedimientos administrativos que correspondan, imponiendo las medidas de seguridad, correctivas o de urgente aplicación y sanciones procedentes;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 XII. Promover en coordinación con la Secretaría de Educación y la Secretaría de Cultura, la incorporación de contenidos ambientales en la política educativa del Estado y en los planes y programas de estudios, así como la formación de actitudes y valores de protección y conservación del patrimonio natural, así como concertar institucionalmente la capacitación de todos los sectores de la sociedad, con actividades dinámicas de información y educación ambiental, para contribuir, de manera acelerada a integrar las acciones de mejoramiento del ambiente, encauzadas hacia el desarrollo sustentable del Estado;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 XIII. Estructurar y mantener actualizada la información ambiental del Estado, en coordinación con las dependencias y organismos del Poder Ejecutivo Estatal que correspondan, con la participación de los gobiernos municipales;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 XIV. Fomentar ante los particulares la realización de procesos voluntarios de autorregulación y auditorías ambientales, supervisando su ejecución, con el apoyo que corresponda de los gobiernos municipales;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 XV. En coordinación con las autoridades federales, estatales y municipales y otorgando la participación que corresponda a las Universidades, centros de investigación y los particulares, promover las declaratorias de las áreas naturales protegidas de interés estatal, y aprobar los programas de aprovechamiento conforme lo dispongan las leyes en materia de equilibrio ecológico y protección al ambiente y las demás disposiciones aplicables;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 XVI. Conformar y planear la operación del Sistema Estatal de Areas Naturales Protegidas en el Estado, con la participación que corresponda a los gobiernos municipales;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 XVII. Participar con las autoridades federales, estatales y municipales que correspondan, de conformidad a la distribución de competencias que establecen las leyes en materia de equilibrio ecológico y protección al ambiente, en la formulación y desarrollo de programas y acciones de fomento para el aprovechamiento y uso sustentable de los recursos naturales de la entidad y prevenir, controlar y reducir la contaminación de la atmósfera, suelo y aguas;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 XVIII. Evaluar la calidad del ambiente y operar sistemas de monitoreo atmosférico, de suelos y de aguas de jurisdicción estatal, con la cooperación de los gobiernos municipales y las instituciones de investigación y educación superior;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 XIX. Promover la participación social y de la comunidad científica en la formulación y aplicación de la política ambiental, y emitir opiniones a la Secretaría de Promoción Económica para la concertación de acciones e inversiones con los sectores social y privado dirigidas a la protección y restauración del ambiente;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 XX. Ejecutar y resolver los actos administrativos de inspección y vigilancia que dispongan las leyes estatales en materia de equilibrio ecológico y protección al ambiente, y resolver los recursos de revisión que formulen los particulares de conformidad a las disposiciones aplicables;
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 XXI. Ejercer, por Acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia ambiental, contengan los convenios celebrados con la Administración Pública Federal y los gobiernos municipales; y
 
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
-XXII.- Las demás que le confieran esta Ley y otras disposiciones legales aplicables.
+XXII. Las demás que le confieran esta Ley y otras disposiciones legales aplicables.
 
 (REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
@@ -1852,3 +1862,15 @@ TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto r
 P.O. 28 DE DICIEMBRE DE 2006.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE ENERO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- Se autoriza al Titular del Ejecutivo del Estado a que realice las adecuaciones presupuestarias para el debido cumplimiento del presente decreto y deberá expedir el reglamento interior de la Procuraduría Estatal de Protección al Ambiente, en el que se especifiquen su estructura interna, su organización y demás atribuciones, adecuar los reglamentos, acuerdos y demás dispositivos reglamentarios relacionados con las materias cuyas disposiciones se reforman, modifican o derogan a partir del presente decreto.
+
+CUARTO.- La Procuraduría Estatal de Protección al Ambiente deberá entrar en funciones a más tardar el primero de julio del año 2007 y hasta entonces, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado realizará las atribuciones encomendadas a aquélla, por el presente Decreto y por las disposiciones que de éste se deriven.
+
+QUINTO.- En el cumplimiento del presente Decreto, se respetarán los derechos laborales y de seguridad social de los trabajadores que sean transferidos de una dependencia a otra.
