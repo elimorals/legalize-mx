@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2005-05-10"
+last_updated: "2007-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -519,13 +519,13 @@ V. No ser Presidente o Consejero ciudadano de la Comisión Estatal de Derechos H
 
 VI. No estar en servicio activo en el Ejército Nacional, ni tener mando en la policía o en cuerpo de seguridad pública en el distrito en que se pretenda su elección, cuando menos sesenta días antes de ella;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Procurador Social, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, integrante del Consejo General del Poder Judicial o Magistrado del Tribunal de Arbitraje y Escalafón. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos, y
+VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, integrante del Consejo de la Judicatura o Magistrado del Tribunal de Arbitraje y Escalafón. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos; y (sic)
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-VIII. No ser Juez, Secretario de Juzgado, Secretario del Consejo General del Poder Judicial, Presidente Municipal, Regidor o Síndico de Ayuntamiento, titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el distrito por el cual se postule, a menos que se separe de su cargo noventa días antes del día de la elección;
+VIII. No ser Juez, Secretario de Juzgado, Secretario del Consejo de la Judicatura, Presidente Municipal, Regidor o Síndico de Ayuntamiento, titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el distrito por el cual se postule, a menos que se separe de su cargo noventa días antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
 
@@ -771,9 +771,9 @@ VII. Solicitar al Instituto Electoral del Estado someta a plebiscito, en los té
 
 VIII. Solicitar al Instituto Electoral del Estado, someta a referéndum derogatorio, en los términos que disponga la ley, los reglamentos y decretos emanados del Gobernador que sean considerados como trascendentes para la vida pública o el interés social del Estado;
 
-> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-IX. Elegir a los magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral y del Tribunal de lo Administrativo, así como a los titulares del Consejo General del Poder Judicial, en la forma y términos que dispongan esta Constitución y las leyes de la materia;
+IX. Elegir a los magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral y del Tribunal de lo Administrativo, así como a los titulares del Consejo de la Judicatura, en la forma y términos que dispongan esta Constitución y las leyes de la materia;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
 
@@ -797,9 +797,9 @@ XIII. Designar, en los términos que previene esta Constitución, al ciudadano q
 
 XIV. Convocar a elecciones extraordinarias cuando fuere necesario y decidir conforme a sus atribuciones;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-XV. Conocer y resolver sobre las renuncias de los Diputados; del Gobernador del Estado, de los Magistrados del Poder Judicial, de los consejeros integrantes del Consejo General del Poder Judicial, del Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos y de los Consejeros Electorales, del Presidente y consejeros ciudadanos del Instituto de Transparencia e Información Pública de Jalisco;
+XV. Conocer y resolver sobre las renuncias de los Diputados; del Gobernador del Estado, de los Magistrados del Poder Judicial; de los consejeros integrantes del Consejo de la Judicatura, del Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos y de los Consejeros Electorales, del Presidente y consejeros ciudadanos del Instituto de Transparencia e Información Pública de Jalisco;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1175,7 +1175,9 @@ En tratándose de personas de escasos recursos, dependientes económicos, jornal
 
 El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, en el Tribunal Electoral, en el Tribunal de lo Administrativo, en los juzgados de primera instancia, menores y de paz y jurados. Se compondrá además por un órgano denominado Consejo General del Poder Judicial del Estado.
 
-La representación del Poder Judicial recae en el Presidente del Supremo Tribunal de Justicia, el cual será electo, de entre sus miembros, por el pleno. El Presidente desempeñará su función por un período de dos años y no podrá ser reelecto para el período inmediato.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
+La representación del Poder Judicial recae en el Presidente del Supremo Tribunal de Justicia, el cual será electo, de entre sus miembros, por el pleno. El Presidente desempeñará su función por un período de tres años y podrá ser reelecto para el período inmediato.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1187,9 +1189,9 @@ Los tribunales del Poder Judicial resolverán con plenitud de jurisdicción toda
 
 Los magistrados, consejeros y jueces percibirán una remuneración adecuada e irrenunciable que no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-El pleno del Supremo Tribunal, el del Tribunal de lo Administrativo y el Tribunal Electoral, elaborarán sus propios proyectos de presupuesto. El Consejo General lo hará para el resto del Poder Judicial. Con ellos se integrará el del Poder Judicial, que será remitido por el Presidente del Supremo Tribunal al titular del Poder Ejecutivo, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado. Una vez aprobado, será ejercido con plena autonomía y de conformidad con la ley.
+El pleno del Supremo Tribunal, el del Tribunal de lo Administrativo y el Tribunal Electoral, elaborarán sus propios proyectos de presupuesto. El Consejo de la Judicatura lo hará para el resto del Poder Judicial. Con ellos se integrará el del Poder Judicial, que será remitido por el Presidente del Supremo Tribunal al titular del Poder Ejecutivo, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado. Una vez aprobado, será ejercido con plena autonomía y de conformidad con la ley.
 
 A la iniciativa de Presupuesto de Egresos del Estado que presente el titular del Poder Ejecutivo ante el Congreso, se deberá adjuntar, para su valoración, invariablemente, el proyecto de presupuesto elaborado por el Poder Judicial.
 
@@ -1227,21 +1229,27 @@ III. Poseer el día de la elección, con antigüedad mínima de diez años, tít
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, Presidente, Síndico o Regidor de Ayuntamiento, durante el año previo al día de la elección; y
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo (sic) la Judicatura, Diputado local, Presidente, Síndico o Regidor de Ayuntamiento, durante el año previo al día de la elección; y
 
 VI. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes al día en que tenga verificativo la elección.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
 
 ###### Art. 60.
 
-Para la elección de los magistrados del Supremo Tribunal de Justicia, el Consejo General, previa convocatoria realizada por el Congreso del Estado a la sociedad en general, con excepción de los partidos políticos, someterá a consideración del Congreso del Estado una lista de candidatos que contenga, cuando menos, el doble del número de magistrados a elegir, remitiendo los expedientes para acreditar que los ciudadanos propuestos cumplen con los requisitos establecidos en el presente capítulo y tienen aptitud para ocupar dicho cargo.
+Para la elección de los magistrados del Supremo Tribunal de Justicia, el Consejo de la Judicatura, previa convocatoria realizada por el Congreso del Estado a la sociedad en general, con excepción de los partidos políticos, someterá a consideración del Congreso del Estado una lista de candidatos que contenga, cuando menos, el doble del número de magistrados a elegir, remitiendo los expedientes para acreditar que los ciudadanos propuestos cumplen con los requisitos establecidos en el presente capítulo y tienen aptitud para ocupar dicho cargo.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de los diputados presentes, elegirá al Magistrado que deba cubrir la vacante, dentro de un término improrrogable de treinta días. En caso de que el Congreso no resolviere dentro de dicho término, se entenderá que rechaza la totalidad de los candidatos propuestos.
 
-En caso de que el Congreso rechace la totalidad de los candidatos propuestos, el Consejo General del Poder Judicial someterá una nueva propuesta integrada por personas distintas a la inicial, en los términos de este artículo; si también fuera rechazada, ocupará el cargo la persona que dentro de dichas listas hubiere obtenido mayor número de votos.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
+En caso de que el Congreso rechace la totalidad de los candidatos propuestos, el Consejo de la Judicatura someterá una nueva propuesta integrada por personas distintas a la inicial, en los términos de este artículo.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
 En igualdad de circunstancias, los nombramientos de magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
@@ -1289,35 +1297,55 @@ X. Elegir, de entre sus miembros, al Presidente del Supremo Tribunal de Justicia
 
 XI. Las demás que determinen esta Constitución y las leyes.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
 
 ###### Art. 63.
 
-Los jueces de primera instancia, menores y de paz, serán elegidos por el Consejo General, con base en los criterios, requisitos y procedimientos que establezca la Ley Orgánica del Poder Judicial; durarán en el ejercicio de su cargo cuatro años, al vencimiento de los cuales podrán ser reelectos. Los jueces que sean reelectos sólo podrán ser privados de su puesto en los términos establecidos por esta Constitución y las leyes secundarias en materia de responsabilidad de los servidores públicos. Durante su ejercicio, los jueces sólo podrán ser removidos o cambiados de adscripción por acuerdo del Consejo General del Poder Judicial dictado en los términos que establezca la ley.
-
-En los casos de promoción, la inamovilidad en el nuevo empleo se adquirirá al transcurrir el plazo correspondiente a su ejercicio.
+Los jueces de primera instancia, menores y de paz, serán elegidos por el Consejo de la Judicatura, con base en los criterios, requisitos y procedimientos que establezca esta Constitución, la Ley Orgánica del Poder Judicial; durarán en el ejercicio de su cargo cuatro años, al vencimiento de los cuales podrán ser reelectos. Los jueces que sean reelectos sólo podrán ser privados de su puesto en los términos establecidos por esta Constitución y las leyes secundarias en materia de responsabilidad de los servidores públicos. Durante su ejercicio, los jueces sólo podrán ser removidos o cambiados de adscripción por acuerdo del Consejo de la Judicatura dictado en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
+En los casos de promoción, la inamovilidad en el nuevo empleo se adquirirá al transcurrir el plazo correspondiente a su ejercicio.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
+
 ###### Art. 64.
 
-La administración, vigilancia y disciplina del Poder Judicial, con excepción del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, estarán a cargo del Consejo General en los términos que establezcan las leyes, con base en esta Constitución.
+La administración, vigilancia y disciplina del Poder Judicial, con excepción del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, estarán a cargo del Consejo de la Judicatura en los términos que establezcan las leyes, con base en esta Constitución.
 
-El Consejo General estará integrado con siete miembros, de los cuales uno será el Presidente del Supremo Tribunal de Justicia, quien tendrá el carácter de Presidente, y seis consejeros electos cuando menos por las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta de los grupos parlamentarios, previa convocatoria a la sociedad. Uno de los consejeros deberá ser Magistrado del Supremo Tribunal de Justicia, otro se elegirá de entre los jueces de dicho Tribunal y uno más de entre los secretarios de Juzgado.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
+El Consejo de la Judicatura estará integrado con cinco miembros, de los cuales uno será el Presidente del Supremo Tribunal de Justicia, quien lo presidirá, uno se elegirá de entre los jueces de primera instancia inamovibles que tengan más de cuatro años en la judicatura y los otros tres serán de origen ciudadano que no hubieren desempeñado un cargo dentro de la carrera judicial durante los cuatro años anteriores. La elección será por cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta de los grupos parlamentarios, previa convocatoria a la sociedad.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 Los consejeros deberán distinguirse por su capacidad, honestidad, honorabilidad en el ejercicio de las actividades jurídicas y reunir los requisitos exigidos para poder ser Magistrado del Supremo Tribunal de Justicia de la entidad.
 
-Salvo el Presidente del Consejo, los demás consejeros durarán en su encargo seis años, serán substituidos de manera escalonada y no podrán ser nombrados para un nuevo período.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
+Salvo el Presidente del Consejo, los demás consejeros durarán en su encargo cuatro años, serán substituidos de manera escalonada y no podrán ser nombrados para un nuevo período.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 Los consejeros ejercerán sus funciones con independencia e imparcialidad, y sólo podrán ser removidos de su cargo en los términos establecidos por esta Constitución y las leyes secundarias, en materia de responsabilidad de los servidores públicos.
 
-El Consejo General deberá funcionar en pleno o en comisiones. Sólo el pleno podrá elaborar y presentar la integración de las listas de candidatos que para la elección de magistrados prevé esta Constitución. Así mismo, resolverá sobre la designación y remoción de los jueces de primera instancia, menores y de paz. Además, desarrollará el sistema de insaculación que prevea la Ley Orgánica del Poder Judicial para la elección de los jurados populares.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
+El Consejo de la Judicatura deberá funcionar en pleno o en comisiones, sus resoluciones serán definitivas; las de las comisiones se someterán al Pleno, si éste tuviere observaciones las regresará a la comisión para que elabore una nueva resolución que deberá aprobarse por unanimidad para ser presentada al Pleno, en caso de no haber observaciones o resueltas éstas, se procederá a su ejecución. La comisión respectiva elaborará y presentará la integración de las listas de candidatos que para la elección de magistrados prevé esta Constitución. Así mismo, resolverá sobre la designación y remoción de los jueces de primera instancia, menores y de paz; y desarrollará el sistema de insaculación que prevea la Ley Orgánica del Poder Judicial para la elección de los jurados populares, que se enviarán al Pleno, que podrá hacer observaciones en los términos anteriores.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 En la designación de los jueces se preferirá, en igualdad de circunstancias, a aquellas personas que hayan prestado sus servicios en el Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+
 La ley establecerá las bases para la formación y actualización de los servidores públicos del Poder Judicial, así como la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-El Consejo General estará facultado para determinar el número y competencia de los juzgados de primera instancia, menores y de paz, así como para expedir los acuerdos necesarios para el ejercicio adecuado de sus funciones, de conformidad con lo que establezca la ley.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
+El Consejo de la Judicatura estará facultado para determinar el número y competencia de los juzgados de primera instancia, menores y de paz, así como para expedir los acuerdos necesarios para el ejercicio adecuado de sus funciones, de conformidad con lo que establezca la ley.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 Las decisiones del Consejo General serán definitivas e inatacables.
 
@@ -1501,9 +1529,9 @@ V. No ser Consejero Ciudadano de la Comisión Estatal de Derechos Humanos, a men
 
 VI. No estar en servicio activo en el Ejército Nacional ni tener mando en la policía o en cuerpo de seguridad pública en el municipio en que se pretenda su elección, cuando menos noventa días antes de ella;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, del Tribunal de Arbitraje y Escalafón o miembro del Consejo General del Poder Judicial. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
+VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, del Tribunal de Arbitraje y Escalafón o miembro del Consejo de la Judicatura. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1861,9 +1889,9 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 El procedimiento del juicio político se regirá conforme a las siguientes prevenciones:
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado, el Contralor del Estado, el Procurador General de Justicia y el Procurador Social; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Instituto Electoral del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Auditor Superior del Estado; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la secretaría general de los Ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
+I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado, el Contralor del Estado, el Procurador General de Justicia y el Procurador Social; los integrantes del Consejo de la Judicatura, los consejeros electorales del Instituto Electoral del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros ciudadanos del Instituto de Transparencia e Información Pública de Jalisco; el Auditor Superior del Estado; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la secretaría general de los Ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
 
 II. Se determinará la responsabilidad de los servidores públicos mediante juicio político, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
 
@@ -1939,11 +1967,11 @@ VI. Las sanciones económicas no podrán exceder de tres tantos de los beneficio
 
 El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado ante el Congreso y exclusivamente por delitos dolosos graves del orden común.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
 ###### Art. 102.
 
-Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo General del Poder Judicial del Estado. Una vez dictada la declaración, quedarán separados del ejercicio y serán sometidos a los tribunales competentes.
+Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo de la Judicatura. Una vez dictada la declaración, quedarán separados del ejercicio y serán sometidos a los tribunales competentes.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1965,9 +1993,9 @@ Contra las declaraciones de procedencia penal no procede juicio o recurso alguno
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO I. Prevenciones generales
+### CAPITULO III. De la inviolabilidad de esta Constitución
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 106.
 
@@ -1987,11 +2015,11 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE JUNIO DE 2003)</small>
 
+### CAPITULO I. Prevenciones generales
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+
 ### CAPITULO II. De las reformas a la Constitución
-
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
-
-### CAPITULO III. De la inviolabilidad de esta Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2097,13 +2125,13 @@ Las reformas y adiciones a esta Constitución podrán ser sometidas a referéndu
 
 Las reformas hechas en la Constitución Federal que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y promulgadas sin más trámite.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
-
 ###### Art. 119.
 
 Esta Constitución conservará su vigor aunque un trastorno público interrumpa su observancia.
 
 Si se estableciere un gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad volverá a ser acatada y, con sujeción a la misma y a las leyes que de ella emanen, serán juzgados todos los que la hubieran infringido.
+
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ## TRANSITORIOS
 
@@ -2612,3 +2640,11 @@ P.O. 10 DE MAYO DE 2005.
 PRIMERO. El presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. La presente reforma constitucional deja a salvo los derechos de los actuales consejeros para presentarse como candidatos a integrar el Instituto Electoral del Estado de Jalisco.
+
+P.O. 13 DE ENERO DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial el "Estado de Jalisco".
+
+SEGUNDO.- Los consejeros designados con anterioridad al presente decreto terminarán su encargo, de conformidad a las normas con las que fueron electos.
+
+TERCERO.- Las reformas al artículo 56 de la Constitución Política del Estado, contenidas en el Artículo Único del presente decreto, aplicarán en beneficio del Presidente del Supremo Tribunal de Justicia electo para el período en vigencia.
