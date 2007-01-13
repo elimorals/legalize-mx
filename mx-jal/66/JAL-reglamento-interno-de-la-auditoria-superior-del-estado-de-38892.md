@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-de-la-auditoria-superior-del-estado-de-38892
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-08"
-last_updated: "2004-04-08"
+last_updated: "2007-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERNO DE LA AUDITORIA SUPERIOR DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de abril de 2004.
 
@@ -311,7 +311,9 @@ I. Elaborar y dictaminar los métodos de control presupuestal, con el objeto de 
 
 II. Formular y presentar para su aprobación al Auditor Superior los pliegos de recomendaciones, respecto de la eficiencia y eficacia de los recursos públicos manejados por las entidades fiscalizadas;
 
-III. Registrar, y dar seguimiento a las erogaciones por ramo, partida y clave específica del gasto ejecutado; por las entidades fiscalizadas;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
+
+III. Registrar, y dar seguimiento a las erogaciones por capítulo, concepto y partida del gasto ejecutado; por las entidades fiscalizadas;
 
 IV. Revisar mensualmente los ingresos de las cuentas públicas, los Fondos de Aportaciones Federales de Infraestructura Social Municipal y Fortalecimiento Municipal de las entidades fiscalizadas;
 
@@ -886,3 +888,13 @@ GUADALAJARA, JAL. MEXICO
 MTRO. GABRIEL GALLO ALVAREZ
 
 SECRETARIO GENERAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE ENERO DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL ORDENAMIENTO.
+
+.
+
+SEGUNDO. La reforma aprobada en el Artículo anterior entrará en vigencia el día de su publicación en el Periódico Oficial "El Estado de Jalisco", en consecuencia remítase la minuta correspondiente, en los términos establecidos en el artículo 33, último párrafo de la Constitución Política del Estado de Jalisco.
