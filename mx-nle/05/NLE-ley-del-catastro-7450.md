@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "2005-12-27"
+last_updated: "2007-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DEL CATASTRO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE ENERO DE 2007 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -457,11 +459,13 @@ Las autoridades, dependencias e instituciones que otorguen autorizaciones relati
 
 ARTICULO 28o BIS.- Los organismos y entidades públicos y privados, que realicen actividades relativas a la construcción de obras para el desarrollo urbano y de vivienda, así como los que tengan como finalidades la regularización de la tenencia legal de la tierra, deberán informar por escrito a la Dirección de Catastro la realización de actividades que impliquen un cambio en las características físicas del inmueble, así como en los datos del propietario o poseedor, que obren en el padrón catastral, en un plazo no mayor de 15 días contados a partir de que tengan conocimiento de dichos cambios.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 29o.
 
-En caso de trasmisión de propiedad de bienes raíces, la Dirección del Registro Público de la Propiedad y del Comercio, los notarios públicos, jueces y demás fedatarios que por disposición legal tengan funciones notariales, estarán obligados a dar aviso a la Dirección de Catastro sobre cada uno de los actos de transmisión de dominio de bienes inmuebles en que hubieren intervenido, así como de los actos de cancelación en el caso de no llevarse a cabo la operación de trasmisión de dominio.
+En caso de transmisión de propiedad de bienes raíces, la Dirección del Registro Público de la Propiedad y del Comercio, los notarios públicos, jueces y demás fedatarios que por disposición legal tengan funciones notariales, estarán obligados a dar aviso a las Tesorerías Municipales y a la Dirección de Catastro de la Secretaría de Finanzas y Tesorería General del Estado sobre cada uno de los actos de transmisión de dominio de bienes inmuebles en que hubieren intervenido, así como de los actos de cancelación en el caso de no llevarse a cabo la operación de transmisión de dominio.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 En el caso de los notarios públicos, jueces y demás fedatarios que por disposición legal tengan funciones notariales, los avisos se darán dentro del plazo de un mes siguiente a la fecha en que se cubra el impuesto sobre adquisición de inmuebles, en el caso de la Dirección de Registro Público de la Propiedad y del Comercio, estos deberán ser presentados en un plazo de un mes siguiente a la fecha de inscripción o cancelación. Los avisos mencionados deberán presentarse utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Tesorería General del Estado.
 
@@ -477,11 +481,25 @@ ARTICULO 30 BIS.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2001)
 
 ARTICULO 30 BIS 1.- Los propietarios de predios tienen la obligación de manifestarlos y de presentar a la Dirección de Catastro, las declaraciones, avisos, solicitudes, planos, manifestaciones y datos conforme a lo dispuesto en el Reglamento de esta Ley.
 
-La solicitud de inscripción de un predio en el padrón catastral, sólo procederá en caso de que no se encuentre registrado antecedente o dato alguno sobre dicho predio.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+La solicitud de inscripción de un predio en el padrón catastral, sólo procederá con título de propiedad debidamente inscrito ante el Registro Público de la Propiedad y del Comercio, y siempre que no se encuentre registrado diverso título.
 
-Tratándose de predios ya inscritos en el padrón catastral, sólo se aceptarán los trámites de subdivisión, fusión, relotificación, o cualquier otro trámite que implique la modificación de la superficie ya registrada, siempre y cuando los datos de ubicación, medidas y colindancias coincidan con las que ya se encuentren inscritas; se cuente con la autorización que corresponda, emitida por la autoridad competente o en su caso inscritos en el Registro Público de la Propiedad y que exista identidad entre el registro existente del propietario o poseedor, con el que se señale en el trámite respectivo. En el caso de detectarse que el predio objeto de cualquiera de los trámites antes mencionados presente confusión de límites por traslape parcial o total con otro predio, se les notificará por la autoridad competente a los propietarios de ambos, para que actúen conforme a derecho debiendo suspenderse en los términos del presente artículo cualquier trámite en el padrón catastral, hasta en tanto no se aclare o legalice dicha situación.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+
+Tratándose de predios que cumplan con los requisitos anteriores, sólo se aceptarán los trámites de subdivisión, fusión, relotificación, o cualquier otro trámite que implique la modificación de la inscripción, siempre y cuando los datos de ubicación, medidas y colindancias coincidan con el registro existente del propietario respectivo.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2007)</small>
+
+En caso de detectarse que el predio objeto de cualquiera de los trámites antes mencionados presente confusión de límites con predios colindantes o de otros propietarios, se suspenderá la inscripción catastral hasta en tanto se decida por la autoridad competente la titularidad y la superficie y/o demás características del inmueble.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2007)</small>
+
+En caso de que la confusión sea parcial, sólo podrá ser objeto de trámites catastrales la superficie que esté libre de confusión, debiéndose efectuar previamente una subdivisión ante la autoridad competente, a fin de separar la porción correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2007)</small>
+
+La cancelación de una inscripción catastral por falta de título de propiedad revocará todos los efectos anteriores del registro.
 
 ### CAPITULO CUARTO
 
@@ -511,11 +529,17 @@ Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios
 
 Son infractores de la presente Ley:
 
-I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones, avisos, solicitudes, planos, o manifestaciones, con excepción del relativo al valor del predio.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, solicitudes, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o sean requeridos por las autoridades catastrales, en un plazo no mayor a treinta días contados a partir del inicio de los citados eventos.
+I.- Los fedatarios, los propietarios, poseedores, arrendatarios, usufructuarios o superficiarios de predios que consignen datos falsos en sus declaraciones, avisos, solicitudes, planos o manifestaciones, con excepción del relativo al valor del predio.
 
-III.- Los propietarios o poseedores de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
+
+II.- Los fedatarios, los propietarios, poseedores, arrendatarios, usufructuarios o superficiarios de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, solicitudes, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o sean requeridos por las autoridades catastrales, en un plazo no mayor a treinta días contados a partir del inicio de los citados eventos.
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
+
+III.- Los fedatarios, los propietarios, poseedores, arrendatarios, usufructuarios o superficiarios de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones.
 
 IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando le sea solicitada.
 
@@ -540,6 +564,14 @@ IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2001)
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Para efectos del presente artículo al hacer referencia a cuota, se entenderá por ésta, el equivalente a un salario mínimo general diario vigente en la zona geográfica del Municipio de que se trate.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2007)</small>
+
+En el caso de incumplimiento de las fracciones I, II y III, del artículo 31, además de las sanciones a que se refiere este artículo, se suspenderá la inscripción catastral correspondiente, durante el plazo en que se mantenga el incumplimiento de los propietarios, poseedores, arrendatarios, usufructuarios o superficiarios.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2007)</small>
+
+En el caso de incumplimiento de fedatarios públicos, además de las sanciones a que se refiere este artículo, se dará vista a la autoridad competente en la materia a fin de que sean sancionados en los términos de la Ley que regule las actividades de los fedatarios públicos.
 
 ARTICULO 32o BIS.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2001)
 
@@ -896,3 +928,15 @@ Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del añ
 P.O. 27 DE DICIEMBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del año 2006.
+
+P.O. 13 DE ENERO DE 2007.
+
+DECRETO No. 55
+
+Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ENERO DE 2007.
+
+DECRETO No. 57
+
+Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
