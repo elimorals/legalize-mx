@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-estatal-electoral-de-35805"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-12"
-last_updated: "2004-12-06"
+last_updated: "2007-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2007.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2004.
 
@@ -164,13 +164,15 @@ VI. Las demás que le indique el Presidente.
 
 ### CAPITULO IV. De la Secretaría Técnica del Consejo General
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 13.
 
 La Secretaría Técnica, a fin de instrumentar los mecanismos necesarios para el cumplimiento de sus funciones, contará con la siguiente estructura:
 
 I. Secretario Técnico;
 
-II. Coordinación de Secretaría Técnica;
+II. (REFORMADA [N. DE E. DEROGADA], P.O. 15 DE ENERO DE 2007)
 
 III. Coordinación de Organismos Electorales;
 
@@ -178,11 +180,13 @@ IV. Jefatura de Prerrogativas a Partidos Políticos y Asociaciones Políticas;
 
 V. Jefatura de Gestión, Estudios y Proyectos;
 
-VI. Secretario de Estudio y Cuenta;
+VI. (REFORMADA [N. DE E. DEROGADA], P.O. 15 DE ENERO DE 2007)
 
-VII. Oficialía de Partes; y
+VII. Oficialía de Partes;
 
-VIII. Notificador.
+VIII. Notificador; y
+
+IX. Coordinación de la Secretaría Técnica.
 
 Contará además con el personal necesario para el desarrollo de sus funciones.
 
@@ -237,6 +241,42 @@ III. Supervisar el desarrollo de las actividades de las demás áreas integrante
 IV. Prestar asesoría a las distintas áreas de la Secretaría Técnica, respecto de la elaboración y presentación de los trabajos y proyectos de las mismas; y
 
 V. Coordinar el funcionamiento de la Secretaría Técnica, en función de las metas que se pretendan alcanzar en cada área.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2007)</small>
+
+ARTICULO 16 BIS. La Coordinación de la Secretaría Técnica, tendrá las siguientes funciones:
+
+I. Organizar y distribuir las actividades de cada área de la Secretaría Técnica, en tiempo y forma;
+
+II. Supervisar el buen desarrollo de las actividades que le competen a la Secretaría Técnica;
+
+III. Supervisar el desarrollo de las actividades de las demás áreas integrantes de la Secretaría Técnica;
+
+IV. Prestar asesoría a las distintas áreas de la Secretaría Técnica, respecto de la elaboración y presentación de los trabajos y proyectos de las mismas;
+
+V. Coordinar las actividades de la Secretaría Técnica, con las demás áreas del Instituto;
+
+VI. Integrar el proyecto de agenda para el proceso electoral respectivo;
+
+VII. Elaborar el programa anual de actividades de la Secretaría Técnica;
+
+VIII. Recabar e integrar información sobre hechos, actos, acuerdos o normas relacionadas con el proceso electoral;
+
+IX. Elaborar con la ayuda de la Dirección Jurídica, los estudios necesarios py presentar los proyectos respectivos, en relación con los acuerdos y resoluciones que emita el Consejo General;
+
+X. Recabar información y documentación que sirva de base para la elaboración de la estadística y memoria del proceso electoral, ejecutando ambos proyectos para darle difusión;
+
+XI. Promover, gestionar y coordinar la elaboración y publicación de investigaciones, ensayos y artículos sobre temas político-electorales;
+
+XII. Promover y gestionar convenios de servicio social y prácticas profesionales con diferentes instituciones de educación;
+
+XIII. Diseñar el sistema de información para la Jornada Electoral;
+
+XIV. Elaborar el proyecto para el registro de candidatos y de representantes de partidos políticos y coaliciones para el proceso electoral;
+
+XV. Elaborar las notificaciones y certificaciones que le sean requeridas a la Secretaría Técnica; y
+
+XVI. Todas aquellas que le sean encomendadas por el Secretario Técnico.
 
 ###### ARTICULO 17.
 
@@ -328,41 +368,79 @@ V. Rendir informe de manera semanal al Secretario Técnico del Consejo General d
 
 La Jefatura de Gestión, Estudios y Proyectos, tendrá las siguientes funciones:
 
-I. Integrar el proyecto de agenda para el proceso electoral respectivo;
+I. (REFORMADA [N. DE E. DEROGADA], P.O. 15 DE ENERO DE 2007)
 
-II. Elaborar el programa anual de actividades de la Secretaría Técnica;
+II. (REFORMADA [N. DE E. DEROGADA], P.O. 15 DE ENERO DE 2007)
 
-III. Recabar e integrar información sobre hechos, actos, acuerdos o normas relacionadas con el proceso electoral;
+III. (REFORMADA [N. DE E. DEROGADA], P.O. 15 DE ENERO DE 2007)
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
 
 IV. En coadyuvancia con la Dirección Jurídica, formular proyectos sobre normatividad electoral;
 
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
+
 V. Ejecutar lo relativo a la aplicación de las Bases de Colaboración con el Instituto Federal Electoral, en relación con los apoyos, información y documentación que proporciona ese organismo para la elección local;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
 
 VI. Recibir la documentación de los ciudadanos que soliciten su acreditación como observadores electorales, verificar requisitos y elaborar, en su caso, las acreditaciones y gafetes correspondientes;
 
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
+
 VII. Preparar la información que solicitan los observadores electorales y dar seguimiento a sus actividades, registrando los informes correspondientes;
 
-VIII. Elaborar con la ayuda de la Dirección Jurídica, los estudios necesarios y presentar los proyectos respectivos, en relación con los acuerdos y resoluciones que emita el Consejo General;
+VIII. (REFORMADA [N. DE E. DEROGADA], P.O. 15 DE ENERO DE 2007)
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
 
 IX. Elaborar los proyectos de documentación y materiales electorales que apruebe el Consejo General para el proceso electoral;
 
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
+
 X. Elaborar el manual de procedimientos de operación;
 
-XI. Recabar y analizar conjuntamente con la Dirección Jurídica, información para la elaboración del proyecto de reglamento del servicio profesional estatal electoral;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
 
-XII. Recabar información y documentación que sirva de base para la elaboración de la estadística y memoria del proceso electoral, ejecutando ambos proyectos para darle difusión;
+XI. Recabar y analizar conjuntamente con la Dirección Jurídica, información para la elaboración del proyecto de Reglamento del Servicio Profesional Estatal Electoral;
+
+XII. (REFORMADA [N. DE E. DEROGADA], P.O. 15 DE ENERO DE 2007)
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
 
 XIII. Dar seguimiento a la publicación de encuestas por muestreo para dar a conocer preferencias electorales;
 
-XIV. Integrar el expediente de los recursos que dé trámite la Dirección Jurídica, de inconformidades que se interpongan en contra de los actos y resoluciones de los Consejos Distritales Electorales;
+XIV. (REFORMADA [N. DE E. DEROGADA], P.O. 15 DE ENERO DE 2007)
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
 
 XV. Apoyar en lo relativo a la supervisión de los procesos de ubicación de casillas, integración de mesas directivas de casillas y capacitación de los funcionarios de las mismas;
 
-XVI. Apoyar en la captura y revisión de la transcripción de las actas de las sesiones del Consejo General;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
 
-XVII. Coordinar lo relativo a la instrumentación del programa de resultados electorales preliminares; y
+XVI. Apoyar en la captura y revisión de la trascripción de las actas de las sesiones del Consejo General;
 
-XVIII. Todas aquellas que le sean encomendadas por el Secretario Técnico.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
+
+XVII. Coordinar lo relativo a la instrumentación del programa de resultados electorales preliminares;
+
+XVIII. (REFORMADA [N. DE E. DEROGADA], P.O. 15 DE ENERO DE 2007)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ENERO DE 2007)</small>
+
+XIX. Elaborar análisis comparados en materia de sistemas electorales y de partidos políticos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA](ADICIONADA, P.O. 15 DE ENERO DE 2007)</small>
+
+XX. Realizar estudios comparativos sobre resultados electorales locales y nacionales; y (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA](ADICIONADA, P.O. 15 DE ENERO DE 2007)</small>
+
+XXI. General el proyecto de elaboración, custodia y traslado de la documentación y material electoral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ENERO DE 2007)</small>
+
+XXII. Las demás que le sean encomendadas por el Secretario Técnico.
 
 ###### ARTICULO 20.
 
@@ -764,7 +842,7 @@ La Comisión de Capacitación y Organización Electoral, tiene por objeto el de 
 
 La Comisión del Servicio Profesional Estatal Electoral, tiene por objeto la integración del Servicio Profesional Estatal Electoral, así como supervisar la observancia del Título Quinto, Libro Segundo del Código Electoral en vigor.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 49.
 
@@ -861,5 +939,15 @@ PRIMERO. Se aprueban la adición del artículo 18 Bis, así como la reforma al n
 SEGUNDO. El presente Acuerdo entrará en vigor a partir del día siguiente de su aprobación.
 
 TERCERO. Notifíquese el presente Acuerdo en términos de lo establecido por los artículos 268 Fracción III, 271 y 273 del Código Electoral vigente en el Estado.
+
+CUARTO. Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE ENERO DE 2007.
+
+PRIMERO. Se aprueban la adición del Artículo 16 BIS y las reformas a los Artículos 13 y 19, del Reglamento Interior del Instituto Estatal Electoral, en términos de lo señalado en los considerandos tercero y cuarto del Acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor a partir del día siguiente de su aprobación.
+
+TERCERO. Notifíquese el presente Acuerdo en términos de lo establecido por los Artículos 268 Fracción III, 271 y 273 del Código Electoral vigente en el Estado.
 
 CUARTO. Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Aguascalientes.
