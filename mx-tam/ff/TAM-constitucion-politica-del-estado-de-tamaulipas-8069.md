@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2006-12-05"
+last_updated: "2007-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -863,7 +863,7 @@ XLIV. Concurrir a la reforma de la Constitución Política de los Estados Unidos
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
 
-XLV. Legislar en materia de desarrollo sustentable, conforme a los siguientes principios:
+XLV.- Legislar en materia de desarrollo sustentable, conforme a los siguientes principios:
 
 a).- El derecho de los habitantes del Estado a una vida saludable y productiva en armonía con la naturaleza;
 
@@ -879,7 +879,7 @@ e).- La obligación de restaurar los daños ocasionados al medio ambiente y al e
 
 XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el Supremo Tribunal de Justicia, sólo cuando tengan carácter puramente administrativo;
 
-XLVII.- Dictar leyes tendentes a combatir con la mayor energía el alcoholismo;
+XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1351,41 +1351,41 @@ XII.- Iniciar ante el Congreso las Leyes y los Decretos que estime convenientes 
 
 XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
 
-XIV.- Enviar al Congreso del Estado, para su estudio y, en su caso aprobación, las propuestas para designar a los Magistrados de número del Supremo Tribunal de Justicia, de acuerdo con lo dispuesto por los artículos 58 fracción XXI; 106, 108 y 111, de esta Constitución. Asimismo, la propuesta de designación del Magistrado del Tribunal Fiscal del Estado;
+XIV. Proponer al Congreso del Estado para su estudio y aprobación en su caso, el nombramiento de Magistrados del Supremo Tribunal de Justicia del Estado, así como la propuesta de designación del Magistrado del Tribunal Fiscal del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
-XV.- Auxiliar a los Tribunales y Juzgados del Estado para que la justicia se administre pronta y cumplidamente, y que se ejecuten las sentencias, prestando a aquéllos el apoyo que requieran para el mejor ejercicio de sus funciones. Esta atribución no lo autoriza para intervenir directa o indirectamente en el examen y decisión de los juicios en trámite, ni para disponer en forma alguna de los procesados;
+XV. Auxiliar a los Tribunales y Juzgados del Estado para que la justicia se administre pronta y cumplidamente, y que se ejecuten las sentencias, prestando a aquéllos el apoyo que requieran para el mejor ejercicio de sus funciones. Esta atribución no lo autoriza para intervenir directa o indirectamente en el examen y decisión de los juicios en trámite, ni para disponer en forma alguna de los procesados;
 
 > <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1989)</small>
 
-XVI.- Cuidar que la justicia administrativa se aplique de manera pronta, completa e imparcial por el Tribunal de lo Contencioso-Administrativo;
+XVI. Cuidar que la justicia administrativa se aplique de manera pronta, completa e imparcial por el Tribunal de lo Contencioso-Administrativo;
 
 XVII. Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso;
 
 > <small>(REFORMADA, P.O. 03 DE JUNIO DE 2003)</small>
 
-XVIII.- Celebrar, con la aprobación del Congreso del Estado y, posteriormente, del Congreso de la Unión, convenios amistosos con los Estados vecinos en materia de límites;
+XVIII. Celebrar, con la aprobación del Congreso del Estado y, posteriormente, del Congreso de la Unión, convenios amistosos con los Estados vecinos en materia de límites;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XIX.- Convocar a los miembros del Congreso para el desempeño de sus funciones, cuando por alguna causa no hubiere Diputación Permanente;
+XIX. Convocar a los miembros del Congreso para el desempeño de sus funciones, cuando por alguna causa no hubiere Diputación Permanente;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-XX.- Ejercer la superior inspección de la Hacienda Pública del Estado y velar por su recaudación, custodia, administración e inversión;
+XX. Ejercer la superior inspección de la Hacienda Pública del Estado y velar por su recaudación, custodia, administración e inversión;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-XXI.- Celebrar, en los términos de ley, con el Ejecutivo Federal, las dependencias y entidades de la Administración Pública, las Entidades Federativas y los Municipios los convenios y acuerdos necesarios para el desarrollo económico y social de la Nación, el Estado y los Municipios. Asimismo, podrá inducir y concertar con los particulares acciones destinadas al mismo objeto;
+XXI. Celebrar, en los términos de ley, con el Ejecutivo Federal, las dependencias y entidades de la Administración Pública, las Entidades Federativas y los Municipios los convenios y acuerdos necesarios para el desarrollo económico y social de la Nación, el Estado y los Municipios. Asimismo, podrá inducir y concertar con los particulares acciones destinadas al mismo objeto;
 
-XXII.- (DEROGADA, P.O. 14 DE MARZO DE 2001)
+XXII. (DEROGADA, P.O. 14 DE MARZO DE 2001)
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXIII.- Visitar durante su período los Municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas para su mejor desarrollo y dar cuenta al Congreso, cuando así fuere necesario;
+XXIII. Visitar durante su período los Municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas para su mejor desarrollo y dar cuenta al Congreso, cuando así fuere necesario;
 
 XXIV. Dictar las disposiciones necesarias para combatir los juegos prohibidos;
 
@@ -1395,11 +1395,11 @@ XXVI. Conceder indulto de las penas en los términos y con los requisitos que ex
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXVII.- Organizar las Dependencias y Entidades de la Administración Pública Estatal, sin alterar los presupuestos, salvo que lo apruebe el Congreso;
+XXVII. Organizar las Dependencias y Entidades de la Administración Pública Estatal, sin alterar los presupuestos, salvo que lo apruebe el Congreso;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXVIII.- Sancionar a quienes le falten al respeto o infrinjan los reglamentos gubernativos con arresto o multa, en los términos del Artículo 19 de esta Constitución;
+XXVIII. Sancionar a quienes le falten al respeto o infrinjan los reglamentos gubernativos con arresto o multa, en los términos del Artículo 19 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1409,19 +1409,19 @@ XXX. Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna ini
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXXI.- Pedir al Congreso, o a la Diputación Permanente, sí aquel no estuviere reunido, las facultades extraordinarias que sean necesarias para restablecer el orden en el Estado, cuando por causa de invasión o de conmoción interior se hubiere alterado. Del uso que haya hecho de tales facultades dará cuenta detallada al Congreso;
+XXXI. Pedir al Congreso, o a la Diputación Permanente, sí aquel no estuviere reunido, las facultades extraordinarias que sean necesarias para restablecer el orden en el Estado, cuando por causa de invasión o de conmoción interior se hubiere alterado. Del uso que haya hecho de tales facultades dará cuenta detallada al Congreso;
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2003)</small>
 
-XXXIII.- Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración pública a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre la misma en sesión pública, extraordinaria y solemne del Congreso que se verificará el último domingo del mes de noviembre de cada año;
+XXXIII. Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración pública a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre la misma en sesión pública, extraordinaria y solemne del Congreso que se verificará el último domingo del mes de noviembre de cada año;
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXXV.- Conceder licencias a los servidores públicos o suspenderlos de conformidad con lo expresado en la Ley Reglamentaria relativa;
+XXXV. Conceder licencias a los servidores públicos o suspenderlos de conformidad con lo expresado en la Ley Reglamentaria relativa;
 
 XXXVI. Tomar en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar el Estado, sujetándolas lo más pronto posible a la aprobación del Congreso o de la Diputación Permanente;
 
@@ -1429,7 +1429,7 @@ XXXVII. En caso de sublevación o de trastorno interior en el Estado, excitar, d
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XXXVIII.- Recibir la protesta de Ley a los servidores públicos de nombramiento del Ejecutivo, cuando no estuviere determinada otra cosa en la Ley;
+XXXVIII. Recibir la protesta de Ley a los servidores públicos de nombramiento del Ejecutivo, cuando no estuviere determinada otra cosa en la Ley;
 
 XXXIX. Acordar la expropiación por causas de utilidad pública con los requisitos de ley;
 
@@ -1439,21 +1439,21 @@ XLI. Conceder pensiones dentro o fuera del Estado a los estudiantes que acredite
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-XLII.- Dar cuenta al Congreso para que resuelva sobre los acuerdos de los Ayuntamientos que fueren contrarios a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución local o cualquiera otra Ley, o cuando lesionen los intereses municipales;
+XLII. Dar cuenta al Congreso para que resuelva sobre los acuerdos de los Ayuntamientos que fueren contrarios a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución local o cualquiera otra Ley, o cuando lesionen los intereses municipales;
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2001)</small>
 
-XLIII.- Respetar y hacer que se respete la libre emisión del voto popular en las elecciones y la voluntad expresada en los procesos de participación directa de la ciudadanía;
+XLIII. Respetar y hacer que se respete la libre emisión del voto popular en las elecciones y la voluntad expresada en los procesos de participación directa de la ciudadanía;
 
 XLIV. Conceder con arreglo a las leyes habilitaciones de edad a los menores para contraer matrimonio;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
-XLV.- Adoptar, en casos graves, las medidas que juzgue necesarias para salvaguardar el orden público o la paz social, o la economía del Estado o la de los Municipios, dando cuenta inmediata al Congreso o en su receso a la Diputación Permanente, para que resuelvan en definitiva;
+XLV. Adoptar, en casos graves, las medidas que juzgue necesarias para salvaguardar el orden público o la paz social, o la economía del Estado o la de los Municipios, dando cuenta inmediata al Congreso o en su receso a la Diputación Permanente, para que resuelvan en definitiva;
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
 
-XLVI.- Celebrar convenios de colaboración con la Federación, las entidades federativas y los municipios del Estado en materia de desarrollo sustentable, con base en las leyes de la materia; y
+XLVI. Celebrar convenios de colaboración con la Federación, las entidades federativas y los municipios del Estado en materia de desarrollo sustentable, con base en las leyes de la materia; y
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
 
@@ -1557,7 +1557,11 @@ La ausencia temporal del Secretario General de Gobierno será cubierta por uno d
 
 ### CAPITULO I. De la Administración de Justicia
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
+
+Art .100.- El Poder Judicial se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los Juzgados Menores, en los Juzgados de Paz y en el Jurado Popular.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Art. 100.
 
@@ -1595,25 +1599,23 @@ Los servidores públicos del Poder Judicial del Estado, al entrar a ejercer su e
 
 Los delitos imputables a los servidores públicos de la administración de justicia producen acción popular contra los mismos y contra sus cómplices, de acuerdo con lo dispuesto por el Título XI de esta Constitución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O.3 DE JUNIO DE 2003)</small>
+(REUBICADO, P.O. 15 DE ENERO DE 2007)
 
 ###### Art. 106.
 
-El Supremo Tribunal de Justicia funcionará en Pleno o por Salas, en la forma que determine la ley, y se integrará por nueve Magistrados de Número y los Supernumerarios que sus funciones requieran, y actuaran en Pleno o por Salas Unitarias, quienes serán nombrados por un periodo de cuatro años, pudiendo ser ratificados hasta en dos ocasiones por otro periodo igual, por el voto de por lo menos las dos terceras partes de los miembros presentes del Congreso del Estado, hasta completar un máximo de doce años contados a partir de la fecha de su designación inicial. En el caso de no ratificarse su nombramiento quedarán separados automáticamente de su cargo.
+El Supremo Tribunal de Justicia se integrará por diez Magistrados de Número, quienes integrarán Pleno, así como por los Magistrados Supernumerarios y los Magistrados Regionales que sus funciones requieran conforme a la ley y sustente el presupuesto de egresos.
+
+Los Magistrados de Número y los Supernumerarios residirán en la Capital del Estado y desahogarán sus funciones en Pleno, en Salas Colegiadas o en Salas Unitarias, según corresponda y de acuerdo a lo que disponga la ley. Los Magistrados Regionales actuarán en Salas Unitarias y resolverán los asuntos que señale la ley.
+
+Los Magistrados del Supremo Tribunal de Justicia serán nombrados por un periodo de seis años y podrán ser ratificados hasta completar un máximo de doce años contados a partir de la fecha inicial de su designación. Sólo podrán ser removidos de su encargo en los términos del Título XI de esta Constitución y, al término de su desempeño, tendrán derecho a un haber por retiro conforme a lo que disponga la ley.
+
+Las personas que hayan ocupado el cargo de Magistrado del Supremo Tribunal de Justicia no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado.
+
+Quien haya sido ratificado para un segundo periodo no podrá ser propuesto nuevamente como Magistrado, salvo que hubiere ejercido el cargo con carácter de provisional.
+
+Los Magistrados y Jueces serán nombrados preferentemente entre aquellas personas que hayan servido con eficacia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-El Congreso del Estado, a solicitud del Pleno del Supremo Tribunal de Justicia, deberá resolver sobre la ratificación, con una anticipación de por lo menos sesenta días a la fecha en que expire el plazo de ejercicio del Magistrado que corresponda.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-En caso de que el Pleno del Supremo Tribunal de Justicia considere necesario el nombramiento de uno o varios Magistrados Supernumerarios, enviará al Congreso del Estado la propuesta correspondiente a fin de que, si no hubiere inconveniente legal para ello, sean designados.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
-
-El Pleno funcionará con el quórum que establezca la ley, bajo la presidencia de uno de los Magistrados, electo de entre ellos, en la forma que se determine en la ley. El Presidente designado será el órgano de representación del Poder Judicial, durará cuatro años en su encargo y no podrá ser reelecto para el periodo inmediato.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE ENERO DE 1966)</small>
 
 ###### Art. 107.
 
@@ -1625,21 +1627,19 @@ El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Just
 
 El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, quien a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe anual sobre el estado que guarda la administración de justicia, y dentro de los informes trimestrales de cuenta pública correspondientes, los que deberá remitir dentro de la segunda quincena del mes siguiente a la terminación de cada trimestre, para su revisión por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
 
 ###### Art. 108.
 
-Los Magistrados serán designados por el Congreso del Estado, por el voto de por lo menos las dos terceras partes de los Diputados presentes en la sesión.
+El Pleno elegirá de entre sus miembros, en la forma que determine la ley, al Presidente del Supremo Tribunal de Justicia, quien ejercerá el cargo por un período de seis años sin poder ser reelecto para otro período. El Presidente será el órgano de representación del Poder Judicial.
 
-En caso de encontrarse en receso el Congreso del Estado, la Diputación Permanente lo convocará de inmediato a periodo extraordinario de sesiones para conocer de dicho asunto.
-
-Los Magistrados y Jueces serán nombrados preferentemente entre aquellas personas que hayan prestado sus servicios con eficacia y probidad en la administración de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
 
 ###### Art. 109.
 
-La ley establecerá las bases para la formación y actualización de los servidores públicos del Poder Judicial. Deberá prever la creación de un Centro de Actualización Jurídica para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia. También regulará los sistemas de ascenso, escalafón y provisión de vacantes, además de reglamentar lo relativo al examen de oposición o concurso de méritos, como requisito de ingreso al Poder Judicial.
+Los Magistrados del Supremo Tribunal de Justicia serán nombrados o ratificados a propuesta del Gobernador del Estado mediante el voto de las dos terceras partes de los diputados presentes en la sesión correspondiente del Congreso. El Gobernador hará la propuesta y el Congreso resolverá dentro de los siguientes treinta días naturales. En caso de que no resuelva o la persona propuesta no obtenga la mayoría referida, el Gobernador hará una nueva propuesta, debiendo resolver el Congreso dentro de los quince días naturales siguientes, pero si no lo hace dentro de ese período o la persona no obtiene la mayoría necesaria, el Ejecutivo hará la designación de Magistrado con carácter provisional y formulará una nueva propuesta en el siguiente Período de Sesiones Ordinarias.
+
+Si la vacante para la integración del Supremo Tribunal de Justicia se produce encontrándose en receso el Congreso del Estado, la Diputación Permanente lo convocará de inmediato a Sesiones Extraordinarias para conocer de dicho asunto.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -1663,23 +1663,23 @@ Los Magistrados solo podrán ser removidos de su encargo por el Congreso del Est
 
 Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
 
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
+
+I.- Ser mexicano por nacimiento, ciudadano del Estado en pleno ejercicio de sus derechos políticos y civiles y haber residido en el país durante los dos años anteriores al día de la designación, si es nativo del Estado o haber residido en el Estado por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación en caso de no ser nativo, salvo que en esas hipótesis la ausencia obedezca al cumplimiento de un servicio público;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
+
+II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+
 > <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
-
-I.- Ser ciudadano en pleno ejercicio de sus derechos políticos y civiles; mexicano por nacimiento; nativo del Estado o con residencia en el mismo por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación, salvo el caso de ausencia en cumplimiento de un servicio público;
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
-
-II.- Ser mayor de 35 y menor de 65 años el día de la designación;
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
 III.- Poseer título profesional de Licenciado en Derecho o su equivalente, expedido por lo menos con diez años de anterioridad al día de la designación, por autoridad o institución legalmente facultada para ello;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
 
-IV.- No haber ocupado, por lo menos un año antes de la fecha de la designación, los cargos de Gobernador, Secretario de Despacho del Ejecutivo, Procurador General de Justicia, Senador, Diputado Federal o Diputado Local; y
+IV.- No haber ocupado por lo menos durante el año previo al día de la designación, los cargos de Gobernador, Secretario o su equivalente, Procurador General de Justicia o Diputado local en el Estado; y
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
@@ -1697,11 +1697,11 @@ Ningún servidor público del Poder Judicial, aun con licencia, podrá ser aboga
 
 Las faltas temporales y definitivas de los Magistrados serán cubiertas en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2007)</small>
 
 ###### Art. 114.
 
-Son atribuciones del Supremo Tribunal de Justicia:
+Son atribuciones del Pleno del Supremo Tribunal de Justicia:
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1729,13 +1729,15 @@ XI.- Elegir Presidente del Pleno en los términos que determine la ley;
 
 XII.- Delegar al Presidente las atribuciones que estime pertinentes;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
 
-XIII.- Recibir, en Sesión plenaria, extraordinaria, pública y solemne, el informe anual de labores que deberá rendir su Presidente sobre el estado que guarda la administración de justicia, que se verificará antes de la segunda quincena del mes de marzo de cada año;
+XIII.- Recibir, en Sesión plenaria, extraordinaria, pública y solemne, el informe anual de labores que deberá rendir su Presiente sobre el estado que guarda la administración de justicia, que se verificará antes de la segunda quincena del mes de marzo de cada año. Asimismo, deberá entregar por escrito dicho informe al Congreso del Estado, en la modalidad que éste acuerde;
 
-XIV.- Enviar al Congreso del Estado, por lo menos noventa días antes de que concluya el plazo de ejercicio de cada Magistrado, la solicitud de ratificación que corresponda;
+XIV.- (DEROGADA, P.O. 15 DE ENERO DE 2007)
 
-XV.- Acordar, en los casos que considere necesario, remitir solicitud por escrito al Congreso del Estado con la propuesta para designar a los Magistrados Supernumerarios;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
+
+XV.- Acordar, en los casos que considere necesario, la propuesta al Gobernador del Estado para la creación de Magistraturas Supernumerarias y de Magistraturas Regionales;
 
 XVI.- Nombrar, cesar o suspender a los Jueces de Primera Instancia; Jueces Menores; Secretarios de Acuerdos; Relatores y Actuarios del Pleno, de las Salas y de los Juzgados; y al personal subalterno, en los casos y con las condiciones que establezca la ley; así como, en su caso, confirmar a los Jueces de Primera Instancia y Menores;
 
@@ -1777,9 +1779,13 @@ XXXII.- Promover y aplicar la mediación entre las partes, en las diversas mater
 
 XXXIII.- Las demás facultades y obligaciones que las leyes le otorguen.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2007)</small>
 
 ###### Art. 115.
+
+La ley establecerá las bases para la formación y actualización de los servidores públicos del Poder Judicial. Deberá prever la creación de un Centro de Actualización Jurídica para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia. También regulará los sistemas de ascenso, escalafón y provisión de vacantes, además de reglamentar lo relativo al examen de oposición o concurso de méritos, como requisito de ingreso al Poder Judicial.
+
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prestaciones a los servidores públicos del Poder Judicial se cubrirán en los términos que determinen las disposiciones jurídicas aplicables.
 
@@ -1789,19 +1795,19 @@ En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prest
 
 En las causas que hubieren de formarse a los Magistrados en funciones, una vez que el Congreso del Estado, actuando como órgano de acusación, declare por la afirmativa, se remitirá la causa en los términos previstos por esta Constitución y la ley, al Pleno del Supremo Tribunal de Justicia, el cual emitirá la resolución que corresponda en cada caso. Deberá resolverse cada asunto por separado y el Procurador General de Justicia tendrá en ellas la intervención que le confiere la legislación aplicable.
 
-### CAPITULO II.. DEL SUPREMO TRIBUNAL DE JUSTICIA
+### CAPITULO II. Del Supremo Tribunal de Justicia
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ENERO DE 2007)</small>
 
 ###### Art. 117.
 
-Los Tribunales inferiores para la administración de justicia, estarán a cargo de los Jueces de Primera Instancia y de los Jueces Menores.
+Los tribunales inferiores para la administración de justicia estarán a cargo de los Jueces de Primera Instancia, de los Jueces Menores y de los Jueces de Paz.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
 
 ###### Art. 118.
 
-Los Jueces de Primera Instancia y los Menores serán nombrados por el Supremo Tribunal de Justicia en Pleno.
+Los Jueces de Primera Instancia, los Jueces Menores y los Jueces de Paz, serán nombrados por el Pleno del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -1809,25 +1815,29 @@ Los Jueces de Primera Instancia y los Menores serán nombrados por el Supremo Tr
 
 Los Juzgados Menores funcionarán en aquellos Municipios que el Pleno del Supremo Tribunal de Justicia considere necesario.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2007)</small>
 
 ###### Art. 120.
 
-La ley determinará los distritos judiciales en que se dividirá el Estado, el número de Jueces de Primera Instancia y de Jueces Menores, sus requisitos, competencia, jurisdicción, duración en sus funciones, y regulará todo lo relativo a su organización.
-
-Para su modificación el Presidente del Supremo Tribunal de Justicia propondrá un proyecto de iniciativa que, una vez analizado y aceptado por el Pleno, será remitido al Congreso del Estado para su aprobación.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
-
-###### Art. 121.
-
-Los Juzgados de Primera Instancia y los Menores serán sostenidos por el Poder Judicial del Estado.
+La ley determinará los distritos judiciales en que se dividirá el Estado, el número de Jueces de Primera Instancia, de Jueces Menores y de Jueces de Paz, así como los requisitos para desempeñar esa función y la duración de la misma. La ley también señalará la competencia y jurisdicción de dichas autoridades judiciales, y regulará todo lo relativo a la organización de los tribunales a su cargo.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
+Para su modificación el Presidente del Supremo Tribunal de Justicia propondrá un proyecto de iniciativa que, una vez analizado y aceptado por el Pleno, será remitido al Congreso del Estado para su aprobación.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
+
+###### Art. 121.
+
+Los Juzgados de Primera Instancia, los Juzgados Menores y los Juzgados de Paz serán sostenidos por el Poder Judicial del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2007)</small>
+
 ###### Art. 122.
 
-Los Jueces de Primera Instancia y Menores serán los necesarios para el despacho pronto y expedito de los asuntos de su competencia. El Pleno del Supremo Tribunal de Justicia resolverá sobre su designación, adscripción y remoción; además determinará el número, competencia territorial y especialización por materia de los Juzgados de Primera Instancia.
+Los Jueces de Primera Instancia, los Jueces Menores y los Jueces de Paz serán los necesarios para el despacho pronto y expedito de los asuntos de su competencia. El Pleno del Supremo Tribunal de Justicia resolverá sobre su designación, adscripción y remoción; además, determinará el número, competencia territorial y especialización por materia de los Juzgados de Primera Instancia.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 Los Jueces de Primera Instancia durarán en su encargo tres años. Podrán ser ratificados por períodos iguales por el Pleno del Supremo Tribunal de Justicia.
 
@@ -1847,7 +1857,7 @@ DE LA PROCURACION DE JUSTICIA Y PROTECCION DE LOS DERECHOS HUMANOS.
 
 ### CAPITULO III. De los Tribunales Inferiores
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
 
 ###### Art. 124.
 
@@ -2579,7 +2589,7 @@ P.O. 27 DE MARZO DE 1943.
 
 ###### Artículo 1º.
 
-Se abroga el Decreto 223 de fecha 13 e enero de 1942.
+Se abroga el Decreto 223 de fecha 13 de enero de 1942.
 
 ###### Artículo 2º.
 
@@ -2871,7 +2881,7 @@ P.O. 31 DE DICIEMBRE DE 1983.
 
 PRIMERO.- El presente Decreto entrará en vigor el día 1o. de enero de 1984.
 
-SEGUNDO.- Los servicios públicos que actualmente presta el Estado y deban pasar al Municipio en los términos del Articulo 132, fracción XV, se trasladarán gradualmente conforme lo autorice la ley y lo permita la capacidad técnica, administrativa y financiera de los Municipios, conviniendo éstos con el Gobierno del Estado la mejor forma de prestarlos entre tanto se les trasladan íntegramente.
+SEGUNDO.- Los servicios públicos que actualmente presta el Estado y deban pasar al Municipio en los términos del Artículo 132, fracción XV, se trasladarán gradualmente conforme lo autorice la ley y lo permita la capacidad técnica, administrativa y financiera de los Municipios, conviniendo éstos con el Gobierno del Estado la mejor forma de prestarlos entre tanto se les trasladan íntegramente.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -3270,3 +3280,17 @@ P.O. 5 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación, salvo lo dispuesto por el artículo segundo transitorio.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado, dentro de los ciento veinte días posteriores a la publicación del presente Decreto realizará las reformas y adecuaciones pertinentes a las leyes reglamentarias, que con motivo de la presente reforma deban efectuarse, mismo término en que deberán establecerse las Salas Colegiadas y las Salas Regionales, entre tanto, el Supremo Tribunal de Justicia continuará actuando en Pleno y en Salas Unitarias.
+
+###### ARTÍCULO TERCERO.
+
+Los Magistrados del Supremo Tribunal de Justicia en funciones podrán ser objeto de ratificación para un nuevo período por el número de años precisos para completar el término de doce años de desempeño previsto Constitucionalmente al inicio de su nombramiento, en su caso, conforme a lo dispuesto por el artículo 106 de la Constitución Política del Estado.
