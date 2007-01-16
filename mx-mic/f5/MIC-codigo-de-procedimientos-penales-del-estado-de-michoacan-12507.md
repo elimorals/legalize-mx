@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-penales-del-estado-de-michoacan-12507"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-08-31"
-last_updated: "2006-08-24"
+last_updated: "2007-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2007.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 31 de agosto de 1998.
 
@@ -1477,7 +1477,9 @@ Costas de la reposición.- La reposición se hará a costa del responsable, quie
 
 # LIBRO SEGUNDO. DESARROLLO DEL PROCESO PENAL
 
-## TITULO PRIMERO. DESARROLLO DEL PROCESO ANTE LOS JUECES DE PRIMERA INSTANCIA
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ENERO DE 2007)</small>
+
+## TITULO PRIMERO. DESARROLLO DEL PROCESO PENAL ANTE LOS JUECES DE PRIMERA INSTANCIA
 
 ### CAPITULO I. REGLAS GENERALES
 
@@ -1837,9 +1839,13 @@ Plazo adicional.- Si las partes y el defensor al contestar el requerimiento ofre
 
 #### SECCION SEGUNDA. CONFESIÓN DEL INCULPADO
 
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE TRANSITORIO UNICO DEL DECRETO NUMERO 89.</small>
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 262.
 
-Naturaleza de la confesión.- La confesión es la declaración voluntaria hecha por persona mayor de dieciséis años, en pleno uso de sus facultades mentales, rendida ante el Ministerio Público, el juez o tribunal de la causa, sobre hechos propios constitutivos del tipo delictivo materia de la imputación, emitida con las formalidades señaladas por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+La confesión es la declaración voluntaria hecha por persona mayor de dieciocho años, en pleno uso de sus facultades mentales, rendida ante el Ministerio Público, el juez o tribunal de la causa, sobre hechos propios constitutivos del tipo delictivo materia de la imputación, emitida con las formalidades señaladas por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 263.
 
@@ -4300,3 +4306,7 @@ P.O. 24 DE AGOSTO DE 2006.
 DECRETO NUMERO 66.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE ENERO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor a los ciento veinte días siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
