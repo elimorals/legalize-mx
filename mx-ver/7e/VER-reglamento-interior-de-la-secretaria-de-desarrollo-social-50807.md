@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-desarrollo-social-50807
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2006-11-09"
+last_updated: "2007-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL - ANTES SECRETARIA DE DESARROLLO SOCIAL Y MEDIO AMBIENTE -
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2007 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE REPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y MEDIO AMBIENTE DEL ESTADO DE VERACRUZ
 
 ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2006.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL EL 16 DE ENERO DE 2007.</small>
 
 Reglamento publicado en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
 
@@ -895,12 +895,12 @@ SECRETARIO DE GOBIERNO
 
 G.O. 9 DE NOVIEMBRE DE 2006.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTOS ARTICULOS DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2007 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE REPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones reglamentarias y de menor jerarquía que se opongan al presente Decreto.
 
-Tercero. Las funciones que estaban previstas en el artículo 19 de este ordenamiento deberán ser incorporadas, en un término no mayor a 30 días, al Reglamento Interior del Instituto Veracruzano de Fomento al Desarrollo Regional, exceptuando la fracción XXVIII del citado precepto, cuyo contenido subsistirá pero ahora trasladado a la fracción XXXI del artículo 23 del Reglamento Interior de la Secretaría de Desarrollo Social y Medio Ambiente.
+> <small>(F. DE E., G.O. 16 DE ENERO DE 2007)</small>
+
+Tercero. Las funciones que estaban previstas en el artículo 19 de este ordenamiento deberán ser incorporadas, en un término no mayor a 90 días, al Reglamento Interior del Instituto Veracruzano de Fomento al Desarrollo Regional, exceptuando la fracción XXVIII del citado precepto, cuyo contenido subsistirá pero ahora trasladado a la fracción XXXI del artículo 23 del Reglamento Interior de la Secretaría de Desarrollo Social y Medio Ambiente.
 
 Cuarto. El titular de la Secretaría de Desarrollo Social y Medio Ambiente y la Subsecretaría de Finanzas y Planeación transferirán, en un plazo no mayor a 60 días, los recursos financieros materiales y humanos con los cuales hasta el momento ha venido operando la Dirección General de Ordenamiento Urbano, al Instituto Veracruzano de Fomento al Desarrollo Regional, observando estrictamente las disposiciones administrativas y laborales vigentes y aplicables en la materia.
