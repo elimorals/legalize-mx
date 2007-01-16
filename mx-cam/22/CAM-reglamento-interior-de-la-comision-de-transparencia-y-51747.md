@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-comision-de-transparencia-y-51747"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-14"
-last_updated: "2006-09-14"
+last_updated: "2007-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el jueves 14 de septiembre de 2006.
 
@@ -175,9 +175,17 @@ XVI. Acordar los lineamientos y proyectos de difusión, estudio, enseñanza y di
 
 XVII. Presentar anualmente informe por escrito a la Legislatura Local, en los términos de lo que establece la Ley;
 
-XVIII. Interpretar la Ley, favoreciendo el interés general de la información en posesión de los sujetos obligados por la misma, y
+> <small>(REFORMADA, P.O.16 DE ENERO DE 2007)</small>
 
-XIX. Las demás que le señalen la Ley, este Reglamento y demás disposiciones legales y administrativas aplicables.
+XVIII. Interpretar la Ley, favoreciendo el interés general de la información en posesión de los sujetos obligados por la misma.
+
+> <small>(REFORMADA, P.O.16 DE ENERO DE 2007)</small>
+
+XIX. Aprobar la aplicación de los recursos que, al cierre de cada ejercicio fiscal, queden en poder de la Comisión y que provengan de las partidas aprobadas en su correspondiente presupuesto de egresos; y
+
+> <small>(ADICIONADA, P.O.16 DE ENERO DE 2007)</small>
+
+XX. Las demás que le señalen la Ley, este Reglamento y demás disposiciones legales y administrativas aplicables.
 
 ### CAPÍTULO IV. DE LAS SESIONES DEL PLENO
 
@@ -1086,3 +1094,11 @@ TERCERO.- Publíquese este Acuerdo en el Periódico Oficial del Estado.
 El presente Acuerdo fue aprobado por unanimidad de votos, por el Pleno de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, en Sesión Ordinaria celebrada el día 20 de julio del 2006.
 
 C.D.O. Gonzalo E. Bojórquez Risueño, Comisionado Presidente.- C.P. Tirso A. R. de la Gala Gómez, Comisionado.- Licda. Teresa del J. León Buenfil, Comisionada.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE ENERO DE 2007 .
+
+PRIMERO. La presente Modificación entrará en vigor el mismo día de su aprobación por el Pleno de la Comisión.
+
+SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial del Estado.
