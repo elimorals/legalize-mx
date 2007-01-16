@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2004-09-07"
+last_updated: "2007-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE ENERO DE 2007.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -45,17 +45,17 @@ CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. Jurisdicción
 
-Inicio dispositivo e impulso procesal oficioso
-
-###### Artículo 1.
-
-2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
-
 Ejercicio de la jurisdicción
 
 ###### Artículo 1.
 
 1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
+
+Inicio dispositivo e impulso procesal oficioso
+
+###### Artículo 1.
+
+2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
 
 Normas genéricas de la jurisdicción
 
@@ -461,7 +461,11 @@ XI. Para lo relativo al matrimonio y cuestiones familiares, el del domicilio con
 
 XII. En los juicios de divorcio, el del último domicilio de los cónyuges, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado;
 
-XIII. En los casos de alimentos, el del domicilio del acreedor alimentario.
+XIII. En los casos de alimentos, el del domicilio del acreedor alimentario;
+
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+
+XIV. En los procedimientos de violencia familiar, el del domicilio del receptor de violencia.
 
 Competencia en la reconvención
 
@@ -5559,19 +5563,167 @@ Impugnación de la resolución
 
 344.- La sentencia sobre estado de interdicción es apelable sin efecto suspensivo.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+345.- Las parte de un conflicto de violencia familiar podrán resolver sus diferencias mediante los procedimientos de:
+
+I. Conciliación; y
+
+II. Controversia de violencia familiar.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+346.- Los procedimientos a los que se refiere este capítulo, se llevarán a cabo en forma sumarísima sin omitir allegarse todos los elementos de convicción necesarios para apoyar las propuestas de las partes.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+347.- Tratándose de menores, incapaces y adultos mayores de sesenta años, deberá oírseles durante el procedimiento, tomando en consideración su edad, grado de madurez, capacidad para opinar y en todos los asuntos que les afecten con la intervención del Ministerio Público.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+348.- Los procedimientos que señala este Capítulo se iniciarán por escrito, mediante queja que se elaborará ante el Tribunal Superior de Justicia y será distribuido en los siguientes lugares públicos; Oficialía de Registro Civil, Oficialía Calificadora y las mediadoras conciliadoras en los municipios, Comisión Municipal de Derechos Humanos y Sistemas Municipales de Desarrollo Integral de la Familia, Juzgados de lo Familiar. Esta queja podrá ser presentada por:
+
+I. El receptor de la violencia familiar;
+
+II. Cualquier miembro del grupo familiar; y
+
+III. Cualquier persona que tenga conocimiento de la violencia familiar.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+349.- El escrito de queja deberá contener:
+
+I. El Juzgado ante el cual se promueve;
+
+II. La naturaleza del procedimiento que insta;
+
+III. Nombre y domicilio del que interpone la queja en los supuestos de las fracciones II y III del artículo anterior;
+
+IV. Nombre y domicilio del receptor de violencia;
+
+V. Nombre y domicilio del generador de violencia;
+
+VI. Vínculo o relación que exista entre el receptor y el generador de violencia;
+
+VII. Narración sucinta de los hechos, expresando las circunstancias de lugar, tiempo y modo;
+
+VIII. El ofrecimiento de las pruebas conducentes a acreditar su queja; y
+
+IX. Protesta y firma del que interpone la queja o del receptor de violencia.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+350.- Recibida la queja, la autoridad integrará el expediente respectivo y citará dentro de los nueve días siguientes al generador de violencia y al receptor de violencia familiar para que acudan a una audiencia de avenencia.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+351.- La citación contendrá fecha, hora y lugar para la celebración de la audiencia la que deberá practicarse con las formalidades del emplazamiento, la citación sólo podrá practicarse en dos ocasiones.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+352.- En la audiencia de conciliación, el juez después de oír a las partes, procurará obtener la avenencia entre éstas y las invitará para que se sometan a terapia médica y psicológica, de ser necesario, les proporcionará alternativas de solución y las exhortará para que lleguen a un acuerdo, y en caso de no lograrlo, les dará a conocer las consecuencias e inconvenientes que ello representa para el grupo familiar.
+
+Si las partes llegan a un acuerdo se elaborará el convenio correspondiente que será firmado por quiénes intervengan en el mismo; en caso contrario se dará por concluido el procedimiento de conciliación, al igual que agotadas las dos citaciones no concurra alguno de los interesados.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+353.- Los convenios que den por concluido el procedimiento serán vinculatorios y exigibles para las partes en vía de apremio.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
+
+### CAPITULO VII. De los Procedimientos de Violencia Familiar
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+354.- Recibida la demanda se correrá traslado al agresor, emplazándolo para que conteste dentro del plazo de cinco días.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+355.- Al admitirse la demanda de violencia familiar, si hubiere urgencia, podrán dictarse mientras dure el procedimiento las medidas de protección siguientes:
+
+I. Ordenar al presunto generador de violencia que salga inmediatamente del domicilio común, aunque fuera propietario del inmueble. Si se resiste se utilizará la fuerza pública;
+
+II. Autorizar al receptor o agredido un domicilio diferente de aquél en el que se genera la violencia, si así lo solicita;
+
+III. Prohibir al presunto generador de violencia el acceso al domicilio del grupo familiar, así como a los lugares de trabajo o de estudio de la víctima;
+
+IV. Prohibir al presunto generador de violencia familiar y a aquellas personas que estén de acuerdo con él, acercarse a una distancia determinada de cualquier lugar donde se encuentre la víctima u otro miembro del grupo familiar; y cualquier contacto físico, verbal, telefónico o de otra índole;
+
+V. Ordenar la exclusión del agresor y el reingreso de la víctima al domicilio del grupo familiar, cuando ésta, por razones de seguridad personal ha debido salir del mismo;
+
+VI. Fijar una pensión alimenticia provisional a favor de la víctima (s) y los menores; y
+
+VII. Emitir una orden de protección y auxilio policial, dirigida a las autoridades de seguridad pública de la que se expedirá copia a la víctima para que pueda acudir a la autoridad más cercana en caso de amenaza de agresión fuera de su domicilio.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+356.- El generador de violencia al contestar deberá referirse a cada uno de los hechos narrados en la queja y ofrecerá las pruebas respectivas. El silencio y las evasivas harán que se tengan por admitidos aquellos hechos sobre los que se suscitó controversia.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+357.- Contestada o no la demanda, se señalará fecha para el desahogo de las pruebas y alegatos dentro de los ocho días siguientes. Transcurrido el plazo para contestar la queja, sin haberse presentado o contestado, se tendrán por presuntamente aceptados los hechos.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+358.- Concluida la audiencia, el Juez procederá a dictar resolución dentro de los cinco días siguientes.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+359.- En la sentencia se determinará la forma de restablecer la paz, y el orden familiar, mediante la adopción de las medidas señaladas en el artículo 2.355 del presente ordenamiento o las que el Juez considere pertinentes, conducentes a la integración del grupo familiar conforme a la ley.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+###### Artículo 2.
+
+360.- Son apelables, sin efecto suspensivo, las resoluciones que decreten una de las medidas de protección previstas en el artículo 2.355 de este Código.
+
 ### CAPITULO I. Disposiciones Comunes
 
 Disposiciones aplicables
+
+#### SECCION PRIMERA. De la Conciliación
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+#### SECCION SEGUNDA. De la Controversia de Violencia Familiar
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
 
 ### CAPITULO II. De la Autorización para Vender, Gravar Bienes y Transigir
 
 Derechos de Menores o Sujetos a Interdicción
 
 Autorización judicial para vender o gravar
-
-#### Sección primera
-
-#### Sección segunda
 
 ### CAPITULO III. De la Adopción
 
@@ -5585,19 +5737,15 @@ Requisitos para la información de dominio
 
 Procedencia
 
-### CAPITULO I. Reglas Generales
-
-Procedencia del concurso de acreedores
-
 # LIBRO TERCERO. Procedimientos Judiciales no Contenciosos
 
 ## TITULO UNICO. Actos que por Disposición de la Ley a Solicitud de los Particulares
 
 Requieren Intervención del Juez cuando no Exista Litigio
 
-### CAPITULO II. De las Funciones del Síndico
+### CAPITULO I. Reglas Generales
 
-Funciones del síndico
+Procedencia del concurso de acreedores
 
 ###### Artículo 3.
 
@@ -5671,9 +5819,9 @@ IV. Derechos de patentes, marcas, autorales y otros análogos.
 
 Requisitos para conceder la autorización
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De las Funciones del Síndico
 
-Medidas urgentes en caso de fallecimiento
+Funciones del síndico
 
 ###### Artículo 3.
 
@@ -5725,9 +5873,9 @@ Requisitos de la solicitud
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2004)</small>
 
-### CAPITULO II. De las Testamentarias
+### CAPITULO I. Disposiciones Generales
 
-Inicio de juicio testamentario
+Medidas urgentes en caso de fallecimiento
 
 ###### Artículo 3.
 
@@ -5767,9 +5915,9 @@ IV. Constancia del comisariado ejidal o comunal de que el inmueble no está suje
 
 Personas que deberán ser citadas
 
-### CAPITULO III. De los Intestados
+### CAPITULO II. De las Testamentarias
 
-Denuncia intestamentaria
+Inicio de juicio testamentario
 
 ###### Artículo 3.
 
@@ -5829,9 +5977,9 @@ Protocolización de las informaciones
 
 Legitimación
 
-### CAPITULO IV. Del Inventario y Avalúo
+### CAPITULO III. De los Intestados
 
-Plazo para el inventario
+Denuncia intestamentaria
 
 ###### Artículo 3.
 
@@ -5897,9 +6045,9 @@ V. El Juez mandará que se fijen las señales convenientes en los puntos deslind
 
 ## TITULO PRIMERO. Concurso
 
-### CAPITULO V. De la Administración y la Rendición de Cuentas
+### CAPITULO IV. Del Inventario y Avalúo
 
-Enajenación de bienes inventariados
+Plazo para el inventario
 
 ###### Artículo 4.
 
@@ -6027,9 +6175,9 @@ Impedimentos para ser síndico
 
 13.- El síndico tendrá los mismos impedimentos respecto del concursado y del Juez que los que tienen los tutores que administren bienes.
 
-### CAPITULO VI. De la Liquidación y Partición de la Herencia
+### CAPITULO V. De la Administración y la Rendición de Cuentas
 
-Distribución provisional
+Enajenación de bienes inventariados
 
 ###### Artículo 4.
 
@@ -6081,9 +6229,9 @@ V. Terminado el reconocimiento y graduación, los acreedores, por mayoría de cr
 
 ## TITULO SEGUNDO. Sucesiones
 
-### CAPITULO VII. De la Transmisión Hereditaria del Patrimonio Familiar
+### CAPITULO VI. De la Liquidación y Partición de la Herencia
 
-Adjudicación del patrimonio familiar
+Distribución provisional
 
 ###### Artículo 4.
 
@@ -6165,6 +6313,8 @@ Secciones del juicio
 
 28.- En el juicio sucesorio se formarán cuatro secciones, las que podrán iniciarse simultáneamente.
 
+#### Sección primera
+
 ###### Artículo 4.
 
 29.- La primera sección es de sucesión y contendrá, en sus respectivos casos:
@@ -6180,6 +6330,8 @@ IV. El reconocimiento de derechos hereditarios;
 V. Los incidentes sobre nombramiento o remoción de tutores;
 
 VI. Las resoluciones sobre la validez del testamento, la capacidad legal para heredar y la preferencia de derechos.
+
+#### Sección segunda
 
 ###### Artículo 4.
 
@@ -6239,9 +6391,9 @@ Existencia de testamento en caso de intestado
 
 35.- Si durante la tramitación de un intestado se exhibe el testamento, se sobreseerá aquél, para iniciar el juicio testamentario, a no ser que se refiera a una parte de los bienes hereditarios. En este caso se acumularán los juicios y el albacea será el testamentario; la liquidación y partición serán comunes; los inventarios lo serán cuando se acumulen antes de su formación.
 
-### CAPITULO VIII. De la Tramitación por Notarios
+### CAPITULO VII. De la Transmisión Hereditaria del Patrimonio Familiar
 
-Tramitación notarial
+Adjudicación del patrimonio familiar
 
 ###### Artículo 4.
 
@@ -6277,9 +6429,9 @@ Impugnación de testamento
 
 41.- Si se impugna la validez del testamento o la capacidad de algún heredero, se continuará el juicio hasta antes de la adjudicación, en tanto se dicta sentencia definitiva sobre la impugnación.
 
-### CAPITULO IX. De la Tramitación Especial
+### CAPITULO VIII. De la Tramitación por Notarios
 
-Tramitación especial
+Tramitación notarial
 
 ###### Artículo 4.
 
@@ -6331,9 +6483,9 @@ Entrega de documentos
 
 49.- Al albacea se le entregarán todos los documentos inherentes a los bienes que forman la masa hereditaria, y los herederos le concederán facilidades y auxilio para el desempeño de su cargo.
 
-### CAPITULO X. Disposiciones Comunes
+### CAPITULO IX. De la Tramitación Especial
 
-Oposición al tramite especial o notarial
+Tramitación especial
 
 ###### Artículo 4.
 
@@ -6362,6 +6514,10 @@ Modificación de inventario y avalúo
 ###### Artículo 4.
 
 54.- Aprobado el inventario y avalúo, sólo podrá modificarse cuando aparezcan o se excluyan bienes o se declare operante la oposición.
+
+### CAPITULO X. Disposiciones Comunes
+
+Oposición al tramite especial o notarial
 
 ###### Artículo 4.
 
@@ -6626,3 +6782,11 @@ G.G. 7 DE SEPTIEMBRE DE 2004.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 16 DE ENERO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
