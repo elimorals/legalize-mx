@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-contraloria-general-del-estado-27908"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-12-17"
-last_updated: "2002-12-17"
+last_updated: "2007-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2007.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de diciembre de 2002.
 
@@ -47,43 +47,45 @@ La Contraloría General del Estado como Dependencia del Poder Ejecutivo Estatal,
 
 La Contraloría General del Estado ejecutará sus programas de acuerdo con sus atribuciones y con los objetivos y metas considerados en el Plan Estatal de Desarrollo, y con base en las políticas y prioridades que establezca el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 3°.
 
 Para el despacho de los asuntos de su competencia, la Contraloría General del Estado contará con las siguientes unidades administrativas:
 
 I.- El Contralor General del Estado.
 
-II.- La Dirección General de Control, integrada por:
+II.- La Dirección General de Control, integrada por: Dirección de Auditoría Gubernamental; y
 
-A) Dirección de Auditoría Gubernamental; y
+III.- La Dirección General de Auditoria de Obra Pública, integrada por: la Dirección de Fiscalización de Obra.
 
-B) Dirección de Fiscalización de Obra.
+IV.- La Dirección General de Normatividad:
 
-III.- La Dirección General de Normatividad integrada por:
+a) Dirección Jurídica;
 
-A) Dirección Jurídica;
+b) Dirección de Responsabilidades e Inconformidades; y
 
-B) Dirección de Responsabilidades e Inconformidades; y
+c) Dirección de Registro y Auditoría Patrimonial.
 
-C) Dirección de Registro y Auditoría Patrimonial.
+V.- La Dirección General de Evaluación y Vinculación Ciudadana, integrada por:
 
-IV.- La Dirección General de Evaluación y Vinculación Ciudadana, integrada por:
+a) Dirección de Contraloría Social;
 
-A) Dirección de Contraloría Social;
+b) Dirección de Control de Gestión; y
 
-B) Dirección de Control de Gestión; y
+c) Dirección de Evaluación Gubernamental.
 
-C) Dirección de Evaluación Gubernamental.
+VI.- La Dirección General de Coordinación de Contralorías Internas y Comisarías, integrada por:
 
-V.- La Dirección General de Coordinación de Contralorías Internas y Comisarías, integrada por:
+a) Las Contralorías Internas;
 
-A) Las Contralorías Internas;
+b) Las Comisarías; y
 
-B) Las Comisarías; y
+c) La Visitaduría.
 
-C) La Visitaduría.
+VII.- La Dirección Administrativa y,
 
-VI.- La Dirección Administrativa.
+VIII.- La Contraloría Interna.
 
 ###### ARTICULO 4°.
 
@@ -185,23 +187,73 @@ XVIII.- Las demás que le señalen las Leyes, Reglamentos, Decretos, Acuerdos y 
 
 Corresponde en lo específico y de manera enunciativa, a cada una de las Direcciones Generales, las siguientes atribuciones:
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO ADMINISTRATIVO PUBLICADO EN EL P.O. DE 16 DE ENERO DE 2007, SE MODIFICA LA ESTRUCTURA DEL PRESENTE APARTADO, PARA QUEDAR CONFORMADO POR SEIS FRACCIONES.</small>
+
 A) Dirección General de Control:
 
 I.- Coordinar, operar y evaluar las actividades del Subcomité de Control y Evaluación del Comité de Planeación para el Desarrollo del Estado.
 
-II.- Preparar los informes que deben presentarse a la Secretaría de Contraloría y Desarrollo Administrativo, u otros órganos de control que lo requieran, relativos al ejercicio y aplicación de los recursos federales transferidos al Estado para la ejecución de Obras Públicas convenidas.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
 
-III.- Verificar, por si o a través de sus áreas de adscripción, que los actos de la administración pública estatal, se ajusten a las disposiciones legales vigentes, en materia de planeación, presupuestacion, ingresos, egresos, financiamiento, inversión, adquisiciones, obras públicas y servicios relacionados con las mismas, deuda, sistemas de registro, contabilidad y de administración de personal; asignación, uso, transferencia, afectación, enajenación y baja de muebles e inmuebles y demás activos y recursos materiales, fondos y valores de la propiedad o al cuidado del Estado;
+II.- Verificar, por si o a través de sus áreas de adscripción, que los actos de la administración pública estatal, se ajusten a las disposiciones legales vigentes, en materia de planeación, presupuestacion, ingresos, egresos, financiamiento, inversión, adquisiciones, deuda, sistemas de registro, contabilidad y de administración de personal; asignación, uso, transferencia, afectación, enajenación y baja de muebles e inmuebles y demás activos y recursos materiales, fondos y valores de la propiedad o al cuidado del Estado.
 
-IV.- Elaborar, en el ámbito de su competencia y para la aprobación del contralor General, el programa sectorial de vigilancia y control de la administración pública estatal, y participar en el programa anual de trabajo de la Contraloría General del Estado;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
 
-V.- Presentar al Contralor General para su aprobación en el mes de enero de cada año, el plan selectivo de auditorías y fiscalización a realizar en el respectivo ejercicio a las dependencias y entidades, respecto de obras públicas, servicios relacionados con las mismas y demás acciones.
+III.- Elaborar, en el ámbito de su competencia y para la aprobación del contralor General, el programa sectorial de vigilancia y control de la administración Pública estatal, y participar en el programa anual de trabajo de la Contraloría General del Estado.
 
-VI.- Fungir como enlace ante la Contaduría Mayor de Hacienda del H. Congreso del Estado, con la Secretaría de Contraloría y Desarrollo Administrativo y la Auditoria Superior de la Federación, para realizar acciones conjuntas en materia de auditorías y fiscalización, así como seguimiento de sus observaciones y recomendaciones.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
 
-VII.- Elaborar y proponer al Contralor General del Estado, los proyectos de reformas, adiciones o modificación del Reglamento Interior de la Contraloría, así como los Manuales Administrativos y demás documentos que tiendan a regular el funcionamiento de las áreas a su cargo.
+IV.- Presentar al Contralor General para su aprobación en el mes de enero de cada año, el plan selectivo de auditorías a realizar en el respectivo ejercicio a las Dependencias y Entidades con relación al ejercicio del gasto público.
 
-B) Dirección General de Normatividad:
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
+
+V.- Fungir como enlace ante la Contaduría Mayor de Hacienda del H. Congreso del Estado, con la Secretaría de la Función Pública y la Auditoria Superior de la Federación y del Estado en su caso, para realizar acciones conjuntas en materia de auditorías, así como seguimiento de sus observaciones y recomendaciones.
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
+
+VI.- Elaborar y proponer al Contralor General del Estado, los proyectos de reformas, adiciones o modificación del Reglamento Interior de la Contraloría, así como los Manuales Administrativos y demás documentos que tiendan a regular el funcionamiento de las áreas a su cargo.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO 2007)</small>
+
+B) Dirección General de Auditoria de Obra Pública:
+
+I.- Coordinar con la Dirección General de Coordinación de Contralorías Internas y comisarias, la fiscalización de los recursos en materia de obras públicas y servicios relacionados con las mismas, en las dependencias y Entidades del Estado.
+
+II.- Participar en la coordinación, operación y evaluación de las actividades del Subcomité de Control y Evaluación del Comité de Planeación para el Desarrollo del Estado en temas relacionados con la obra pública y servicios relacionados con las mismas.
+
+III.- Preparar los informes que deban presentarse a la Secretaria de la Función Pública, u otros órganos de control que lo requieran, relativos al ejercicio y aplicación de los recursos federales transferidos al estado para la ejecución de Obras Públicas convenidas.
+
+IV.- Verificar, por si o a través de sus áreas de adscripción, que los actos de la administración pública estatal, se ajusten a las disposiciones legales vigentes, en materia de planeación, presupuestacion, ingresos, egresos, financiamiento, inversión y adquisiciones relativos a obras públicas y servicios relacionados con las mismas.
+
+V.- Coadyuvar con la Dirección General de Normatividad en la Substanciación de los procedimientos de responsabilidades administrativas, disciplinarios y resarcitorios de servidores públicos, terceros, derivados de las investigaciones, revisiones, auditorias, o fiscalización de obras públicas que se practiquen en la Dirección de Fiscalización de Obra.
+
+VI.- Elaborar, en el ámbito de su competencia y para la aprobación del Contralor General, el programa sectorial de vigilancia y control de la administración pública estatal en materia de obras públicas y servicios relacionados con las mismas, y participar en el programa anual de trabajo de la Contraloría General del Estado.
+
+VII.- Presentar al Contralor General del Estado para su aprobación en el mes de enero de cada año, el plan selectivo de la fiscalización a realizar en el respectivo ejercicio a las dependencias y entidades, respecto de obras públicas y servicios relacionados con las mismas.
+
+VIII.- Fungir como enlace ante la Contaduría Mayor de Hacienda del H. Congreso del Estado, con la secretaria de la Función Pública y la Auditoria Superior de la Federación y del estado, en su caso para realizar acciones conjuntas en materia de fiscalización de obra pública y servicios relacionados con las mismas así como seguimiento de sus observaciones y recomendaciones.
+
+IX.- Intervenir en coordinación con la Dirección General de Normatividad, en las revisiones de los proyectos de convocatorias y Bases de licitación previas al inicio de concursos, así como en los procedimientos de licitaciones públicas, invitación restringida, adjudicación directa y contratación de obras públicas y servicios relacionados con las mismas, en la tarea de vigilar que se cumpla con las disposiciones legales y requisitos técnicos correspondientes.
+
+X.- Coadyuvar con la Dirección General de Normatividad en la substanciación de los procedimientos relacionados con inconformidades que formulen particulares conforme a la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado.
+
+XI.- Contribuir con la Dirección General de Normatividad de la tarea de proponer a la superioridad la instrumentación de medidas preventivas y disposiciones de carácter general que deban sugerirse a las dependencias y entidades de la administración Pública Estatal, a fin de propiciar la adecuada aplicación de las Leyes de Obras Públicas y Servicios Relacionados con las Mismas.
+
+XII.- Elaborar y proponer al Contralor General del Estado, los proyectos de reformas , adiciones o modificaciones del Reglamento Interior de la Contraloría, así como los Manuales de Organización y procedimientos y demás documentos que tiendan a regular el funcionamiento de las áreas a su cargo.
+
+XIII.- En coordinación con la Dirección General de Normatividad, atender por sí o a través de sus áreas de adscripción, la expedición, negación, reposición, suspensión o cancelación del registro estatal Único de contratistas en el Estado (REUC) e integrar el Registro estatal correspondiente, así como coadyuvar con esa área en la atención de los recursos derivados de ese mismo Registro.
+
+XIV.- Colaborar con la Dirección General de Normatividad en la revisión de convocatorias y Bases de Licitación previas al inicio de los concursos respectivos, así como de licitaciones para el otorgamiento de concesiones relacionadas con los Bienes del Estado, en la tarea de vigilar que se cumpla con las disposiciones legales y requisitos técnicos correspondientes.
+
+XV.- Proponer al titular del Órgano Estatal de Control, lineamientos y criterios de observancia general relacionados con la aplicación de la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado y Municipios de San Luis Potosí y su Reglamento.
+
+XVI.- Las demás que señalen las Leyes, Reglamentos, Decretos, Acuerdos y manuales aplicables, así como aquellas que le confiera la superioridad.
+
+Para realizar esas funciones se le asignara el personal que sea necesario para tal efecto.
+
+(REUBICADO [N. DE E. ANTES APARTADO B], P.O. 16 DE ENERO DE 2007)
+
+C) Dirección General de Normatividad:
 
 I.- Representar legalmente al Contralor General del Estado ante todo tipo de autoridades, por sí o a través de los titulares de las áreas jurídicas a su cargo.
 
@@ -219,7 +271,9 @@ VII. Intervenir en los procedimientos de contratación de adquisiciones, arrenda
 
 VIII.- Conducir por acuerdo del Contralor, las negociaciones con los representantes de los Gobiernos Federal, Estatales o Municipales, y en su caso con instituciones privadas, para la suscripción de convenios y acuerdos de colaboración.
 
-C) Dirección General de Evaluación y Vinculación Ciudadana:
+(REUBICADO [N. DE E. ANTES APARTADO C], P.O. 16 DE ENERO DE 2007)
+
+D) Dirección General de Evaluación y Vinculación Ciudadana:
 
 I.- Establecer, desarrollar y operar el Sistema Estatal de Control y Evaluación de la Gestión Pública.
 
@@ -235,9 +289,11 @@ VI.- Evaluar la información relativa al ejercicio de recursos federales, en rel
 
 VII.- Recabar, compilar y sistematizar para efectos estadísticos, de divulgación a la ciudadanía y evaluación de la gestión pública, la información que generen las diferentes dependencias y entidades de la Administración Pública Estatal.
 
-VIII.- Proporcionar a las diversas unidades de la Contraloría General, el apoyo informático y sistematización de la información
+VIII.- Proporcionar a las diversas unidades de la Contraloría General, el apoyo informático y sistematización de la información.
 
-D) Dirección General de Coordinación de Contralorías Internas y Comisarías:
+(REUBICADO [N. DE E. ANTES APARTADO D], P.O. 16 DE ENERO DE 2007)
+
+E) Dirección General de Coordinación de Contralorías Internas y Comisarías:
 
 I.- Conocer, atender y coordinar en su caso, los asuntos y trámites que la Contraloría General del Estado, en el ejercicio de sus atribuciones y facultades, instruya a las Contralorías Internas y Comisarías de las Dependencias y Entidades.
 
@@ -299,23 +355,71 @@ II.- Fiscalizar y evaluar el uso de los fondos federales en programas de inversi
 
 III.- Coadyuvar en la operación y evaluación de las actividades del Subcomité de Control y Evaluación del Comité de Planeación para el Desarrollo del Estado.
 
-IV.- Dar seguimiento y evaluar las observaciones formuladas por la Secretaría de Contraloría y Desarrollo Administrativo, como resultado de las revisiones efectuadas por esta última a los programas de inversión ejecutados con recursos federales, rindiendo los informes respectivos sobre su solventación y cumplimiento.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
+
+IV.- Dar seguimiento y evaluar las observaciones formuladas por la Secretaría de Contraloría y Desarrollo Administrativo o de la Función Pública, como resultado de las revisiones efectuadas por esta última a los programas de inversión ejecutados con recursos federales, rindiendo los informes respectivos sobre su solventación y cumplimiento.
 
 V.- Verificar que las dependencias y entidades estatales y federales ejecutoras de obras públicas con cargo a recursos estatales o federales convenidos en acuerdos de coordinación, cumplan con las disposiciones legales aplicables en materia de planeación, programación, presupuestación, ejecución, control y evaluación de las obras públicas.
 
 VI.- Llevar el inventario de la obra pública ejecutada en el Estado con recursos estatales y federales convenidos con el Estado en el marco del Convenio de Desarrollo Social, y demás convenios que el Estado celebre con las dependencias y entidades del Gobierno Federal.
 
-VII.- Fiscalizar, conjuntamente con funcionarios de la Secretaría de Contraloría y Desarrollo Administrativo el uso de los recursos federales transferidos al Estado, de conformidad con el Convenio de Desarrollo Social y demás convenios que el Estado celebre con las dependencias y entidades del Gobierno Federal.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
 
-VIII.- Preparar los informes que deban presentarse a la Secretaría de la Contraloría y Desarrollo Administrativo, relativos al ejercicio y aplicación de los recursos federales transferidos al Estado para la ejecución de Obras Públicas convenidas;
+VII.- Fiscalizar, conjuntamente con funcionarios de la Secretaría de la Función Pública el uso de los recursos federales transferidos al Estado, de conformidad con el Convenio de Desarrollo Social y demás convenios que el Estado celebre con las dependencias y entidades del Gobierno Federal.
 
-IX.- Emitir los dictámenes relativos a los resultados de la fiscalización de las obras públicas, remitiéndolos a las dependencias y entidades correspondientes para su conocimiento y solventación en caso de existir irregularidades, así como a las instancias competentes que lo requieran, previo acuerdo con el Contralor General del Estado.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
 
-X.- Turnar a la Dirección de Responsabilidades e Inconformidades, previa autorización del Contralor General, los expedientes relativos a las investigaciones y fiscalizaciones practicadas, en aquellos casos donde una vez que se haya dado vista con los informes o dictámenes a los responsables para solventar las observaciones y recomendaciones respectivas, no se haya obtenido dicha solventación ni el resarcimiento del daño patrimonial causado al Estado; o bien, cuando con la conducta desplegada se presuma responsabilidad administrativa, aún cuando estén solventadas las observaciones o restituido el daño patrimonial ocasionado.
+VIII.- Preparar los informes que deban presentarse a la Secretaría de la Función Pública Contraloría y Desarrollo Administrativo, relativos al ejercicio y aplicación de los recursos federales transferidos al Estado para la ejecución de Obras Públicas convenidas.
 
-XI.- Llevar la estadística de los montos asignados a obra pública en dinero, fiscalizándolos en forma trimestral y anual; y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
 
-XII.- Las demás que le señalen las Leyes, Reglamentos, Decretos, Acuerdos y Manuales aplicables, así como aquéllas que le confiera la Superioridad.
+IX.- Emitir los informes o dictámenes relativos a los resultados de la fiscalización de las obras públicas, remitiéndolos a las dependencias y entidades correspondientes para su conocimiento y solventación en caso de existir irregularidades, así como a las instancias competentes que lo requieran, previo acuerdo con el Contralor General del Estado.
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
+
+X.- Turnar a la Dirección de Responsabilidades e Inconformidades, previa autorización del Contralor General, los expedientes relativos a las investigaciones, revisiones, auditorias, o fiscalización de obras públicas y servicios relacionados con las mismas practicadas, en aquellos casos donde una vez que se haya dado vista con los informes o dictámenes a los responsables para solventar las observaciones y recomendaciones respectivas, no se haya obtenido dicha solventación ni el resarcimiento del daño patrimonial causado al Estado; o bien, cuando con la conducta desplegada se presuma responsabilidad administrativa, aún cuando estén solventadas las observaciones o restituido el daño patrimonial ocasionado.
+
+XI.- Llevar la estadística de los montos asignados a obra pública en dinero, fiscalizándolos en forma trimestral y anual; y (sic)
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
+
+XII.- Coadyuvar con las contralorías internas de las dependencias y entidades, en la tarea de fiscalizar los recursos federales derivados de los Acuerdo o convenio respectivos, ejercidos por estas en materia de obras públicas.
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2007)</small>
+
+XIII.- Elaborar, de acuerdo a las normas que dicte la Oficialía Mayor del Poder Ejecutivo, los manuales de organización y de procedimientos de la Dirección, realizando las adecuaciones y modificaciones cuando así proceda.
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2007)</small>
+
+XIV.- Notificar los actos, acuerdos y resoluciones que se dicten en todos los procedimientos y actos celebrados en el ejercicio de sus facultades.
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2007)</small>
+
+XV.- Ordenar, conservar el archivo que se genere en el área, de conformidad con las normas y políticas que para tal efecto señale la Oficialía Mayor del Poder Ejecutivo.
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2007)</small>
+
+XVI.- Coadyuvar, por si o a través de sus áreas de adscripción con la Dirección General de Normatividad en la substanciación de los procedimientos de responsabilidades administrativas, disciplinarios y resarcitorios de servidores públicos y terceros derivados de las investigaciones, revisiones, auditorias, o fiscalización de obras públicas que se practiquen en la Dirección de Fiscalización de Obra.
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2007)</small>
+
+XVII.- Coadyuvar por sí o a través de sus áreas de adscripción y en coordinación con la Dirección General de Normatividad, en los procedimientos de licitación y contratación de obras públicas y servicios relacionados con las mismas, en la tarea de vigilar que se cumpla con las disposiciones legales y requisitos técnicos correspondientes.
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2007)</small>
+
+XVIII.- Coadyuvar por si o a través de sus áreas de adscripción, con la Dirección General de Normatividad en la substanciación de los procedimientos relacionados con inconformidades que formulen particulares conforme a la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado y Municipios de San Luis Potosí.
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2007)</small>
+
+XIX.- Coadyuvar por si o a través de sus áreas de adscripción con la dirección de Responsabilidades e Inconformidades en la tarea de proponer a la superioridad la instrumentación de medidas preventivas y disposiciones de carácter general que deban sugerirse a las dependencias y entidades de la Administración Pública Estatal, a fin de propiciar la adecuada aplicación de las Leyes de Obras Públicas y Servicios Relacionados con las Mismas tanto estatal como federal en el ámbito de su competencia.
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2007)</small>
+
+XX.- En coordinación con la Dirección General de Normatividad, atender por sí o a través de sus áreas de adscripción , la expedición, negación, reposición, suspensión o cancelación del Registro Estatal Único de Contratistas en el estado (REUC) e integrar el registro correspondiente, así como coadyuvar con esa área en la atención de los recursos derivados de ese Registro y,
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2007)</small>
+
+XXI.- Las demás que le señalen las Leyes, Reglamentos, Decretos, Acuerdos y Manuales aplicables, así como aquéllas que le confiera la Superioridad.
 
 ###### ARTICULO 11.
 
@@ -664,3 +768,13 @@ EL CONTRALOR GENERAL DEL ESTADO.
 C.P.C. OSCAR ALARCÓN GUERRERO.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE ENERO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales que se opongan al entrar en vigor el presente Decreto.
+
+Artículo Tercero.- En tanto se actualizan los manuales referidos en el Reglamento Interior de la Contraloría General del Estado publicado el 17 de diciembre de 2002 en el Periódico Oficial del Estado, el titular del ramo queda facultado para resolver las cuestiones, que conforme a los mismos se deben regular.
