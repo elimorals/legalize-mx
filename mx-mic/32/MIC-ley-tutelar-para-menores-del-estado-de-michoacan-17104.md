@@ -4,7 +4,7 @@ identifier: "MIC-ley-tutelar-para-menores-del-estado-de-michoacan-17104"
 country: "mx"
 rank: "ley"
 publication_date: "1979-08-27"
-last_updated: "2003-03-14"
+last_updated: "2007-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY TUTELAR PARA MENORES DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 16 DE ENERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 27 de agosto de 1979.
 
@@ -816,3 +818,37 @@ P.O. 14 DE MARZO DEL 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE ENERO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los ciento veinte días siguientes al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Tutelar para Menores del Estado de Michoacán, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el27 de agosto de 1979.
+
+###### ARTÍCULO TERCERO.
+
+Las autoridades ministeriales y jurisdiccionales que a la entrada en vigor de la presente Ley, tengan instaurados procedimientos a personas que tenían entre dieciséis años cumplidos y menos de dieciocho años, al momento de la realización de la conducta tipificada como delito, procederán de la siguiente forma:
+
+I. Las averiguaciones previas serán remitidas al Ministerio Público Especializado a que se refiere esta Ley, para que éste, haga suyas esas actuaciones, las continúe y determine lo que a derecho proceda.
+
+II. El Juez que esté instruyendo el proceso se declarará incompetente y remitirá la causa al Juez Especializado competente, poniendo inmediatamente a su disposición al detenido, si lo hubiere. Si está pendiente de cumplimentarse la orden de comparecencia, aprehensión o reaprehensión, procederá a cancelarla; y,
+
+III. Los recursos de apelación que se encuentren en trámite, serán remitidos al Juez Especializado de Apelación, para que resuelva lo que a derecho proceda.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Poder Ejecutivo deberá emitir el Reglamento del Centro de Integración, dentro del plazo de quince días, contados a partir de la entrada en vigencia de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal y el Consejo del Poder Judicial, en sus respectivos ámbitos de competencia, establecerán programas de capacitación inicial y permanente de los servidores públicos que se especializarán en la procuración y administración de justicia para adolescentes, así como para aquellos que se incorporen al Centro de Integración.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Planeación y Desarrollo Estatal, la Tesorería General y la Oficialía Mayor instrumentarán las acciones conducentes a efecto de asignar los recursos humanos, materiales y presupuestales necesarios para el cumplimiento a la presente Ley.
+
+El Titular del Poder Ejecutivo del Estado dispondrá se publique y observe.
