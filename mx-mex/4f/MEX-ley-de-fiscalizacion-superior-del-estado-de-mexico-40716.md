@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2006-09-14"
+last_updated: "2007-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE ENERO DE 2007.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -71,9 +71,13 @@ XI. Informe Mensual: Al documento que mensualmente envían para su análisis al 
 
 XII. Informe de Resultados: Al documento que contiene el resultado de la fiscalización de las cuentas públicas, que el Organo Superior, por conducto de la Comisión, presenta a la Legislatura;
 
-XIII. Informes Especiales: Aquellos que en cualquier momento solicite la Legislatura, a través de la Comisión, al Organo Superior del Estado, en uso de sus facultades de fiscalización; y
+XIII. Informes Especiales: Aquellos que en cualquier momento solicite la Legislatura, a través de la Comisión, al Organo Superior del Estado, en uso de sus facultades de fiscalización; y (sic)
 
-XIV. Reglamento: Al Reglamento Interior del Organo Superior de Fiscalización.
+XIV. Reglamento: Al Reglamento Interior del Organo Superior de Fiscalización;
+
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+
+XV. Revisiones contemporáneas: Aquellas que realice el Órgano Superior de Fiscalización del Estado de México de manera contemporánea a la ejecución de los actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales, sin perjuicio de aquellas que realice de manera posterior a la presentación de cuentas públicas.
 
 ###### Artículo 3.
 
@@ -97,9 +101,11 @@ IV. Los organismos auxiliares;
 
 V. Los demás entes públicos que manejen recursos del Estado y Municipios y, en su caso, de la Federación.
 
+> <small>(REFORMADO, G.G. 16 DE ENERO DE 2007)</small>
+
 ###### Artículo 5.
 
-La fiscalización superior se realizará en forma posterior a la presentación de las cuentas públicas, de manera externa, independiente y autónoma de cualquier forma de control y evaluación internos de las entidades fiscalizables y de conformidad con lo establecido en la presente Ley.
+La fiscalización superior se podrá realizar de manera contemporánea a la ejecución de actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales en los casos que corresponda, así como de manera posterior a la presentación de las cuentas públicas, de manera externa, independiente y autónoma de cualquier forma de control y evaluación internos de las entidades fiscalizables y de conformidad con lo establecido en la presente ley.
 
 ###### Artículo 6.
 
@@ -119,9 +125,13 @@ A falta de disposición expresa en esta Ley, se aplicará en forma supletoria, e
 
 El Organo Superior tendrá las siguientes atribuciones:
 
-I. Fiscalizar los ingresos y egresos de las entidades fiscalizables a efecto de comprobar que su recaudación, administración y aplicación se llevó con apego a las disposiciones legales, administrativas, presupuestales, financieras y de planeación aplicables;
+> <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
 
-II. Fiscalizar el ejercicio, la custodia y aplicación de los recursos estatales y municipales, así como los recursos federales, en términos de los convenios respectivos;
+I. Fiscalizar en todo momento los ingresos y egresos de las entidades fiscalizables a efecto de comprobar que su recaudación, administración y aplicación se apegue a las disposiciones legales, administrativas, presupuestales, financieras y de planeación aplicables;
+
+> <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
+
+II.- Fiscalizar, en todo momento, el ejercicio, la custodia y aplicación de los recursos estatales y municipales así como los recursos federales en términos de los convenios correspondientes;
 
 III. Revisar las cuentas públicas de las entidades fiscalizables y entregar a la Legislatura, a través de la Comisión, el informe de resultados;
 
@@ -131,7 +141,9 @@ V. Verificar que las entidades fiscalizables que hubieren recaudado, manejado, a
 
 VI. Evaluar la eficacia en el logro de los objetivos contenidos en los programas y la eficiencia en el uso de los recursos públicos utilizados, la congruencia del ejercicio de los presupuestos con los programas y de éstos con los planes;
 
-VII. Realizar revisiones que comprendan periodos trimestrales concluidos del ejercicio fiscalizado, las cuales tendrán carácter provisional, lo anterior, sin perjuicio del principio de anualidad al que hace referencia la fracción XXXII del Artículo 61 de la Constitución Política del Estado Libre y Soberano de México;
+> <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
+
+VII.- Realizar revisiones que comprendan periodos trimestrales concluidos del ejercicio fiscalizado, las cuales tendrán carácter provisional, lo anterior, sin perjuicio del principio de anualidad al que hace referencia la fracción XXXII del Artículo 61 de la Constitución Política del Estado Libre y Soberano de México y lo establecido en las fracciones I y II del presente artículo;
 
 VIII. Corroborar que las operaciones realizadas por las entidades fiscalizables sean acordes con las leyes de ingresos y presupuestos de egresos del Estado y municipios, y se hayan efectuado con apego a las disposiciones legales aplicables;
 
@@ -147,7 +159,9 @@ XIII. Conocer los informes de programas y procesos concluidos;
 
 XIV. Verificar que las cuentas públicas y los informes trimestrales se hayan presentado en los términos de las disposiciones legales y reglamentarias conducentes, y se hayan elaborado conforme a los principios de contabilidad aplicables al sector público;
 
-XV. Rendir los informes a la Comisión sobre el resultado de la verificación de los informes trimestrales y de los estados de origen y aplicación de recursos de las entidades fiscalizables;
+> <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
+
+XV. Rendir los informes a la Comisión sobre el resultado de la verificación de los informes trimestrales, los estados de origen y aplicación de recursos de las entidades fiscalizables, así como de las revisiones a las que se refieren las fracciones II y II del presente artículo;
 
 XVI. Requerir, según corresponda, a los titulares de la Secretaría de la Contraloría del Poder Ejecutivo y de los demás órganos de control interno de las entidades fiscalizables, en términos de las disposiciones legales aplicables, los dictámenes de acciones de control y evaluación por ellos practicadas, relacionados con las cuentas públicas que el Organo Superior esté fiscalizando, así como las observaciones y recomendaciones formuladas, las sanciones impuestas y los seguimientos practicados;
 
@@ -393,7 +407,9 @@ I. Planear, conforme a los programas aprobados por el Auditor Superior, las acti
 
 II. Requerir a las entidades fiscalizables y a los terceros que hubieren celebrado operaciones con aquéllas, la información y documentación que sea necesaria para realizar la función de fiscalización;
 
-III. Ordenar y practicar auditorías, visitas e inspecciones a las entidades fiscalizables, conforme al programa aprobado por el Auditor Superior;
+> <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
+
+III. Ordenar y practicar auditorias, visitas e inspecciones a las entidades fiscalizables, en todo momento y conforme al programa aprobado por el Auditor Superior;
 
 IV. Formular pliegos de observaciones, en los términos de esta Ley;
 
@@ -415,13 +431,19 @@ XI. Las demás que señale esta Ley, el Reglamento y demás disposiciones aplica
 
 Sin perjuicio del ejercicio directo por parte del Auditor Superior, el Auditor Especial de Cumplimiento Financiero, tendrá las facultades siguientes:
 
-I. Revisar y fiscalizar las cuentas públicas del año anterior, incluidos los informes mensuales y trimestrales, que rindan las entidades fiscalizables;
+> <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
 
-II. Realizar, conforme a los programas, las actividades relacionadas con la revisión de las cuentas públicas; y elaborar los análisis que sirvan para la preparación de los informes de resultados;
+I. Revisar y fiscalizar las cuentas públicas del año anterior, incluidos los informes mensuales y trimestrales, que rindan las entidades fiscalizables, así como de manera contemporánea a la ejecución de actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales, en los casos que corresponda;
+
+> <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
+
+II. Realizar en todo momento y conforme a los programas, las actividades relacionadas con la revisión de las cuentas públicas; y elaborar los análisis que sirvan para la preparación de los informes de resultados en el ámbito de su competencia;
 
 III. Revisar y analizar la información programática incluida en las cuentas públicas;
 
-IV. Ordenar y practicar auditorías, visitas e inspecciones a las entidades fiscalizables, conforme al programa aprobado por el Auditor Superior;
+> <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
+
+IV. Ordenar y practicar auditorias, visitas e inspecciones a las entidades fiscalizables, en todo momento y de acuerdo al programa aprobado por el Auditor Superior;
 
 V. Designar al personal encargado de practicar las auditorías, visitas e inspecciones a su cargo o, en su caso, celebrar los contratos de prestación de servicios de conformidad con la presente Ley y el Reglamento;
 
@@ -674,6 +696,10 @@ VI. Los comentarios de los auditados;
 VII. Las irregularidades que se detecten en el uso y manejo de los recursos; y
 
 VIII. Las observaciones y recomendaciones que se deriven de la revisión.
+
+> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+
+Para el caso de las revisiones especiales que puedan realizarse de manera contemporánea a la ejecución de actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales de conformidad con el Artículo 5 y 8 en sus fracciones I y II de esta Ley, el Órgano Superior de Fiscalización del Estado de México, deberá informar a la Comisión de la Legislatura en un plazo no mayor a quince días hábiles posteriores a que concluya la revisión, sobre los resultados obtenidos de la misma.
 
 El informe de resultados deberá elaborarse considerando los principios de contabilidad gubernamental y las disposiciones legales aplicables.
 
@@ -980,3 +1006,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación.
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.G. 16 DE ENERO DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
