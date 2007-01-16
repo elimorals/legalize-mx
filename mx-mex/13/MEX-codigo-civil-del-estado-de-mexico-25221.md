@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2004-09-07"
+last_updated: "2007-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO CIVIL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DEL 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE ENERO DEL 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -675,7 +675,7 @@ III. Para corregir algún dato esencial.
 
 Legitimación para pedir la modificación o rectificación de acta
 
-### CAPITULO VII. De la rectificación de las Actas de estado civil
+### CAPITULO VII. De la rectificación de las Actas del Estado Civil
 
 Rectificación de actas del estado civil
 
@@ -1429,7 +1429,11 @@ XVII. El grave o reiterado maltrato físico o mental de un cónyuge hacia los hi
 
 XVIII. Permitir ser instrumento, de un método de concepción humana artificial, sin el consentimiento de su cónyuge;
 
-XIX. La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos.
+XIX. La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos;
+
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+
+XX. Incumplimiento injustificado de las determinaciones judiciales que se hayan ordenado, tendientes a corregir los actos de Violencia Familiar hacia el otro cónyuge o a los hijos, por el cónyuge obligado a ello.
 
 Legitimación y plazo de la acción de divorcio
 
@@ -2483,11 +2487,15 @@ V. Cuando los menores se encuentren albergados y abandonados por sus familiares,
 
 > <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
-VI. Cuando el que la ejerza sea condenado a la pérdida de ese derecho; y
+VI. Cuando el que la ejerza sea condenado a la pérdida de ese derecho; y (sic)
 
 > <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
-VII. Por la exposición que la madre o el padre hiciera de sus hijos.
+VII. Por la exposición que la madre o el padre hiciera de sus hijos;
+
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+
+VIII. Por el incumplimiento injustificado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir actos de violencia familiar, cuando estos actos hayan afectado a sus descendientes.
 
 Suspensión de la patria potestad
 
@@ -3707,6 +3715,8 @@ Obligación de la familia
 
 Denuncia de violencia familiar
 
+> <small>(REFORMADO, G.G. 16 DE ENERO DE 2007)</small>
+
 ###### Artículo 4.
 
 388.- Constituido el patrimonio de familia, ésta tiene obligación de habitar la casa y de cultivar la parcela. El Juez del lugar en que esté constituido el patrimonio puede, por justa causa autorizar para que se dé en arrendamiento o aparcería, hasta por un año.
@@ -3771,53 +3781,45 @@ Efectos de la extinción del patrimonio familiar
 
 ###### Artículo 4.
 
-396.- Toda persona que sufriese lesiones o maltrato físico o psíquico por parte de alguno de los integrantes del grupo familiar, podrá denunciar estos hechos ante el juez de lo familiar y solicitar las medidas cautelares correspondientes.
+396.- Toda persona que sufra violencia familiar por parte de alguno de los integrantes del grupo familiar, podrá interponer queja de estos hechos ante el órgano jurisdiccional, en términos del Código de Procedimientos Civiles.
 
 Concepto de grupo familiar
 
-###### Artículo 4.
-
-397.- Para los efectos de lo dispuesto en el artículo anterior, se entiende por grupo familiar el originado en el matrimonio o en las uniones de hecho.
-
-Obligación de denunciar la violencia sobre menores o incapaces
+> <small>(REFORMADO, G.G. 16 DE ENERO DE 2007)</small>
 
 ###### Artículo 4.
 
-398.- Cuando los afectados sean menores de edad o incapaces, los hechos deberán ser denunciados por sus representantes o por el Ministerio Público. Estarán obligados a efectuar la denuncia las instituciones públicas o privadas, que presten servicios de salud, asistenciales o educativos, los profesionales de la salud y todo servidor público que en razón de sus funciones tenga conocimiento de hechos que sean constitutivos de violencia familiar.
+397.- Para los efectos del presente título se entiende por:
 
-Auxilio de peritos para determinar daños físicos y psíquicos
+I. Violencia familiar: Toda acción, omisión o abuso, que afecte la integridad física, psicológica, moral, sexual, patrimonial y la libertad de una persona en el ámbito del grupo familiar, aún cuando se configure un delito;
 
-###### Artículo 4.
+II. Grupo familiar: Conjunto de personas vinculadas por relaciones de intimidad, de mutua consideración, y apoyo derivados del parentesco, filiación o convivencia fraterna;
 
-399.- El juez se auxiliará de peritos para obtener un diagnóstico de interacción familiar, en el que se determinen los daños físicos y psíquicos sufridos por la víctima, la situación de peligro, así como el medio social y ambiental de la familia. Las partes podrán aportar otros estudios técnicos.
+III. Receptor de violencia: Persona que sufre el maltrato físico, psicológico, sexual y daño patrimonial;
 
-Adopción de medidas cautelares
+IV. Generador de violencia: Persona que a través de su acción, omisión o abuso lesiona los derechos de los miembros del grupo familiar; y
 
-###### Artículo 4.
-
-400.- Además de las previstas por el Código de Procedimientos Civiles, el juez al tomar conocimiento de los hechos motivo de la denuncia, podrá adoptar las medidas cautelares siguientes:
-
-I. Ordenar la exclusión del agresor del domicilio del grupo familiar;
-
-II. Prohibir al agresor el acceso al domicilio del grupo familiar, así como a los lugares de trabajo o de estudio de la víctima;
-
-III. Ordenar la exclusión del agresor y el reingreso de la víctima al domicilio del grupo familiar, cuando ésta por razones de seguridad personal ha debido salir del mismo;
-
-IV. Decretar provisionalmente alimentos.
-
-El juez establecerá la duración de las medidas dispuestas de acuerdo con los antecedentes de la denuncia.
-
-Audiencia de avenencia
+V. Consejo: Entidad especializada para la prevención y protección integral contra la Violencia Familiar.
 
 ###### Artículo 4.
 
-401.- El juez dentro de las cuarenta y ocho horas de adoptadas las medidas precautorias, avenirá al grupo familiar en presencia del Ministerio Público y asistir a programas educativos o terapéuticos, teniendo en cuenta el diagnóstico de interacción familiar.
-
-Asistencia a las victimas
+398.- (DEROGADO, G.G. 16 DE ENERO DE 2007)
 
 ###### Artículo 4.
 
-402.- Los sistemas estatal y municipales para el desarrollo integral de la familia e instituciones y asociaciones con estos fines, legalmente registradas, prestarán al agresor, a la víctima y al grupo familiar asistencia médica, psicológica y social, estableciendo programas para evitar y superar las causas de maltrato, abusos y todo tipo de violencia dentro de la familia.
+399.- (DEROGADO, G.G. 16 DE ENERO DE 2007)
+
+###### Artículo 4.
+
+400.- (DEROGADO, G.G. 16 DE ENERO DE 2007)
+
+###### Artículo 4.
+
+401.- (DEROGADO, G.G. 16 DE ENERO DE 2007)
+
+###### Artículo 4.
+
+402.- (DEROGADO, G.G. 16 DE ENERO DE 2007)
 
 ## TITULO PRIMERO. Disposiciones Generales
 
@@ -16698,3 +16700,11 @@ G.G. 7 DE SEPTIEMBRE DE 2004.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 16 DE ENERO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
