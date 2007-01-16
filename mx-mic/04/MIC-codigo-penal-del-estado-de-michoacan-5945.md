@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2006-10-31"
+last_updated: "2007-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -209,21 +209,17 @@ Las sanciones penales sólo podrán aplicarse a las personas imputables y las me
 
 ### CAPITULO II. Causas de Imputabilidad
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2007)</small>
+
 ###### Artículo 16.
 
 Son causas de inimputabilidad:
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 1998)</small>
+I. Ser menor de dieciocho años;
 
-I. La condición de persona menor de dieciséis años;
+II. El trastorno mental temporal o permanente en el momento de la comisión del hecho, a no ser que el agente hubiere provocado su trastorno mental; y,
 
-II. (DEROGADA, P.O. 3 DE AGOSTO DE 1998)
-
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 1998)</small>
-
-III. El trastorno mental temporal o permanente en el momento de la comisión del hecho, a no ser que el agente hubiere provocado su trastorno mental; y;
-
-IV. La sordomudez y la ceguera de nacimiento, cuando haya falta total de instrucción.
+III. La sordomudez y la ceguera de nacimiento, cuando haya falta total de instrucción.
 
 ### CAPITULO III. Participación en el Delito
 
@@ -3836,3 +3832,7 @@ DECRETO NUMERO 66
 P.O. 31 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE ENERO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor a los ciento veinte días siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
