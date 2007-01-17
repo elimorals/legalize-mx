@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2006-06-09"
+last_updated: "2007-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS, ENTRARA EN VIGOR A LOS 60 DIAS SIGUIENTES DE SU PUBLICACION EN LA G.O. DEL D.F.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2007.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1492,7 +1490,7 @@ Este delito se perseguirá por querella.
 
 ### CAPÍTULO ÚNICO. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO, G.O. 22 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 180.
 
@@ -1660,47 +1658,73 @@ Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en in
 
 Los delitos previstos en este Título se perseguirán por querella.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 22 DE JULIO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE ENERO DE 2007)</small>
 
-## TÍTULO OCTAVO. DELITOS COMETIDOS EN CONTRA DE UN MIEMBRO DE LA FAMILIA
+## TÍTULO OCTAVO. DELITOS COMETIDOS EN CONTRA DE UN INTEGRANTE DE LA FAMILIA
 
 ### CAPÍTULO III. FRAUDE
 
 ###### ARTÍCULO 200.
 
-Se impondrán de seis meses a cuatro años de prisión, pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio y en su caso, a juicio del juez, prohibición de ir a lugar determinado o de residir en él, además se le sujetará a tratamiento psicológico, que en ningún caso excederá del tiempo impuesto en la pena de prisión, independientemente de las sanciones que correspondan por las lesiones inferidas o por cualquier otro delito: al cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, al pariente colateral consanguíneo o afín hasta el cuarto grado, al adoptante o adoptado, que maltrate física o psicoemocionalmente a un miembro de la familia.
+Al que, por acción u omisión, ejerza cualquier tipo de violencia física o psicoemocional, dentro o fuera del domicilio familiar en contra de:
 
-Para los efectos de este Artículo se considera maltrato físico: a todo acto de agresión intencional en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro;
+I. El o la cónyuge, la concubina o el concubinario;
 
-Maltrato psicoemocional: a los actos u omisiones repetitivos cuyas formas de expresión pueden ser: prohibiciones, coacciones, condicionamientos, intimidaciones, actitudes devaluatorias que provoquen en quien las recibe, deterioro, disminución o afectación a alguna o todas las áreas que integran la estructura psíquica.
+II. El pariente consanguíneo en línea recta ascendente o descendente sin límite de grado, o el pariente colateral consanguíneo o afín hasta el cuarto grado;
 
-Se entiende por miembro de familia: a la persona que se encuentra unida por una relación de matrimonio, concubinato, o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, o parentesco colateral o afín hasta el cuarto grado, así como por parentesco civil.
+III. El adoptante o adoptado, y
 
-La educación o formación del menor no será en ningún caso considerada justificación como forma de maltrato.
+IV. El incapaz sobre el que se es tutor o curador.
 
-En el caso de que el agresor sea reincidente, se aumentará en una mitad la pena privativa de libertad.
+Se le impondrá de seis meses a seis años de prisión, pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio, patria potestad, tutela y en su caso a juicio del Juez, prohibición de ir a lugar determinado o de residir en él; además se le sujetará a tratamiento especializado que para generadores de violencia familiar, refiere la Ley de Asistencia y Prevención de la Violencia Familiar, que en ningún caso excederá del tiempo impuesto en la pena de prisión, independientemente de las sanciones que correspondan por cualquier otro delito.
 
-Este delito se perseguirá por querella, salvo que la víctima sea menor de edad o incapaz.
+Este delito se perseguirá por querella, salvo que la víctima sea menor de edad; o incapaz.
 
-> <small>(REFORMADO, G.O. 22 DE JULIO DE 2005)</small>
+No se justifica en ningún caso como forma de educación o formación el ejercicio de la violencia hacia los menores.
+
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO IV. ADMINISTRACIÓN FRAUDULENTA
 
 ###### ARTÍCULO 201.
 
-Se equipara a la violencia familiar y se sancionará con las mismas penas y medidas de seguridad, al que realice cualquiera de los actos u omisiones señalados en el Artículo anterior en contra de la persona que esté sujeta a su custodia, protección o cuidado, o tenga el cargo de tutor o curador sobre la persona, o de aquellas personas que no reúnen los requisitos para considerarse como concubinato, siempre y cuando hagan vida en común.
+Para los efectos del artículo anterior, se entiende por:
+
+I. Violencia física: a todo acto intencional en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro, y
+
+II. Violencia psicoemocional: a todo acto u omisión consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos amenazas, celotipia, desdén, indiferencia, abandono, o actitudes devaluatorias, que provoquen en quien las recibe alteración auto cognitiva y auto valorativa que integran su autoestima o alteraciones en alguna esfera o área de la estructura psíquica de esa persona.
+
+> <small>(ADICIONADO, G.O. 17 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO 201 Bis.
+
+Se equipara a la violencia familiar y se sancionará con las mismas penas y medidas de seguridad, al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado o con quien tenga una relación de hecho o la haya tenido en un período hasta de dos años antes de la comisión del acto u omisión.
+
+Se entenderá por relación de hecho, la que exista entre quienes:
+
+I. Haga la vida en común, en forma constante y permanente, por un período mínimo de seis meses;
+
+II. Mantengan una relación de pareja, aunque no vivan en el mismo domicilio;
+
+III. Se encuentren unidos por vínculos de padrinazgo o madrinazgo;
+
+IV. Se incorporen a un núcleo familiar aunque no tengan parentesco con ninguno de sus integrantes;
+
+V. Tengan relación con los hijos de su pareja, siempre que no los hayan procreado en común, y
+
+VI. Tengan relación con la pareja de alguno de sus progenitores.
 
 Este delito se perseguirá por querella.
 
-> <small>(REFORMADO, G.O. 22 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO V. INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES
 
-###### ARTÍCULO 202.
+###### Artículo 202.
 
-El Agente del Ministerio Público apercibirá al indiciado para que se abstenga de cualquier conducta que pudiera resultar ofensiva para la víctima, debiendo de aplicar las medidas de apremio que concede la ley, para su cumplimiento.
+En los casos previstos en este Título, el Ministerio Público apercibirá al inculpado para que se abstenga de ejecutar cualquier tipo de violencia contra la víctima y decretará, de inmediato, bajo su mas estricta responsabilidad, las medidas precautorias necesarias para salvaguardar la integridad física y psíquica de la víctima durante la integración de la averiguación previa y hasta la conclusión de ésta.
 
-Al ejercitarse la acción penal, el Representante Social, solicitará a la Autoridad Judicial, la aplicación de medidas de protección para la víctima y el Juez resolverá sin dilación.
+En caso de determinarse el ejercicio de la acción penal, el Ministerio Público solicitará al Juez la confirmación, ampliación o cancelación, en su caso, de las medidas precautorias referidas en el párrafo que antecede, quién deberá resolver lo conducente sin dilación.
 
 ## TÍTULO NOVENO. DELITOS CONTRA LA FILIACIÓN Y LA INSTITUCIÓN DEL MATRIMONIO
 
@@ -3815,3 +3839,9 @@ SEGUNDO.- El presente Decreto entrará en vigor sesenta días naturales siguient
 TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 CUATRO.- El Jefe de Gobierno del Distrito Federal expedirá el Reglamento que regule el Beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, a más tardar sesenta días naturales después de la publicación del presente Decreto en la Gaceta oficial del Distrito Federal.
+
+G.O. 17 DE ENERO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
