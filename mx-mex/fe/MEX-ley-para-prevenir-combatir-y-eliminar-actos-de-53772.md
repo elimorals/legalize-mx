@@ -1,0 +1,340 @@
+---
+title: "LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACION EN EL ESTADO DE MEXICO"
+identifier: "MEX-ley-para-prevenir-combatir-y-eliminar-actos-de-53772"
+country: "mx"
+rank: "ley"
+publication_date: "2007-01-17"
+last_updated: "2007-01-17"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53772&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mex"
+scjn_id: "53772"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "12 SECCION CUARTA"
+reform_count: "14"
+scjn_last_update: "2025-12-17"
+issue_date: "2007-01-17"
+state: "MEX"
+---
+# LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACION EN EL ESTADO DE MEXICO
+
+LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACION EN EL ESTADO DE MEXICO
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 2007.
+
+ENRIQUE PEÑA NIETO, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+
+DECRETO NUMERO 27
+
+LA H. "LVI" LEGISLATURA DEL ESTADO DE MÉXICO.
+
+DECRETA:
+
+LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+Las disposiciones de esta ley son de orden público, interés social y observancia general en el Estado de México, y tiene por objeto prevenir y eliminar toda forma de discriminación que se ejerza en contra de cualquier persona, para proteger el goce y ejercicio de sus derechos fundamentales en los términos de los artículos 1 de la Constitución Política de los Estados Unidos Mexicanos, 5 de la Constitución Política del Estado Libre y Soberano de México, Tratados Internacionales en los que México es parte y de las leyes que de ellas emanan; así como promover condiciones de equidad e igualdad de oportunidades y de trato.
+
+###### Artículo 2.
+
+Corresponde a los poderes públicos del Estado, a los ayuntamientos, a los organismos públicos autónomos, así como a los organismos auxiliares de la administración pública estatal y municipal observar, regular, intervenir, salvaguardar y promover, el goce y ejercicio efectivo de los derechos fundamentales en condiciones de equidad e igualdad de las personas, consagrados por el orden jurídico mexicano y que tutela la presente ley.
+
+Los sujetos obligados en ésta ley, deberán eliminar aquellos obstáculos que limiten el ejercicio e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, cultural y social de la entidad federativa y del país. Promoverán la participación de la sociedad mexiquense en la eliminación de dichos obstáculos.
+
+###### Artículo 3.
+
+Los servidores públicos y las autoridades estatales y municipales indicadas, adoptarán las medidas que estén a su alcance, tanto por separado como coordinadamente, de conformidad con la disponibilidad de recursos que se haya determinado para tal fin en el Presupuesto de Egresos del Estado en el ejercicio correspondiente.
+
+En el Presupuesto de Egresos del Estado, para cada ejercicio fiscal, se incluirán, las asignaciones correspondientes para promover las medidas positivas y compensatorias a favor de la igualdad justa de oportunidades y de trato a que se refiere esta ley.
+
+###### Artículo 4.
+
+Estarán sujetos a la aplicación de la presente ley, las autoridades, dependencias y órganos públicos de los gobiernos estatal y municipales, así como los particulares que presten u ofrezcan servicios al público o presten algunos servicios permisionados o concesionados por los gobiernos estatal o municipales.
+
+### CAPÍTULO II. DE LA DISCRIMINACIÓN
+
+###### Artículo 5.
+
+Para los efectos de esta ley se entenderá por discriminación toda forma de preferencia, distinción, exclusión, repudio, desprecio, incomprensión, rechazo o restricción que, basada en el origen étnico o nacional como el antisemitismo o cualquier otro tipo de segregación; sexo o género; edad; discapacidad; condición social o económica; condiciones de salud; embarazo; lengua; religión; opiniones; predilecciones de cualquier índole; estado civil o alguna otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos fundamentales en condiciones de equidad e igualdad de oportunidades y de trato de las personas.
+
+También se entenderá como discriminación toda forma de xenofobias.
+
+###### Artículo 6.
+
+No se considerarán conductas discriminatorias de manera enunciativa y no limitativa, las siguientes:
+
+I. Las acciones legislativas, educativas o de políticas públicas positivas o compensatorias que sin afectar derechos de terceros, establezcan tratos diferenciados con el objeto de promover condiciones de equidad e igualdad de oportunidades;
+
+II. Las distinciones basadas en capacidades o conocimientos especializados para desempeñar una actividad determinada;
+
+III. La distinción establecida por las instituciones públicas de seguridad social entre sus asegurados y la población en general;
+
+IV. En el ámbito educativo, los requisitos académicos, de evaluación y los límites por razón de edad;
+
+V. Las que se establezcan como requisitos de ingreso o permanencia para el desempeño del servicio público y cualquier otro señalado en los ordenamientos legales;
+
+VI. El trato diferenciado que en su beneficio reciba una persona que padezca alguna enfermedad mental; y
+
+VII. Las distinciones, exclusiones, restricciones o preferencias que se hagan entre ciudadanos y no ciudadanos.
+
+No se considerarán actos de discriminación los que fundados o motivados, emitan las autoridades competentes por la aplicación de una sanción que implique privación de la libertad, propiedad o algún otro derecho.
+
+###### Artículo 7.
+
+Queda prohibida en el Estado de México cualquier forma de discriminación que tenga por objeto impedir o anular a cualquier persona en el goce y el ejercicio de los derechos fundamentales a que se refiere el orden jurídico mexicano y protege la presente ley.
+
+### CAPÍTULO III. DE LAS MEDIDAS POSITIVAS Y COMPENSATORIAS PARA ERRADICAR LA DISCRIMINACIÓN
+
+###### Artículo 8.
+
+Las autoridades estatales y municipales están obligadas a adoptar las medidas positivas y compensatorias que tiendan a favorecer condiciones de equidad e igualdad real de oportunidades y de trato, así como para prevenir y eliminar toda forma de discriminación de las personas.
+
+###### Artículo 9.
+
+Para los efectos del artículo anterior, las autoridades estatales o municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas siguientes:
+
+I. Para fomentar la igualdad de oportunidades para las mujeres:
+
+a) Promover la educación para todas las personas;
+
+b) Proporcionar información sobre salud reproductiva;
+
+c) Reforzar el conocimiento del derecho a decidir sobre el número y espaciamiento de sus hijos;
+
+d) Promover la creación de centros de desarrollo infantil y guarderías que garanticen el acceso de sus hijos;
+
+e) Impulsar la creación de centros de atención y apoyo integral a la mujer; y
+
+f) Generar políticas de respeto del derecho de las mujeres embarazadas o madres solteras a otorgarles un empleo para el cual demuestren capacidad de desarrollo y procurar el respeto de sus derechos laborales.
+
+II. Para fomentar la igualdad de las niñas y los niños:
+
+a) Impartir educación para la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar, la paternidad responsable y el respeto a los derechos humanos;
+
+b) Promover el acceso a centros de desarrollo infantil, incluyendo a menores con discapacidad;
+
+c) Promover las condiciones necesarias para que los menores puedan convivir con sus padres, abuelos o tutores cuando se encuentren en condiciones de vulnerabilidad por problemas de disolución del vínculo familiar;
+
+d) Implementar programas de becas cuyo otorgamiento sea en igualdad de circunstancias para todos los menores;
+
+e) Promover la creación de instituciones que procuren la reinserción a la sociedad a los menores privados de su medio familiar, como hogares de guarda y albergues para estancias temporales; y
+
+f) Proporcionar la atención médica necesaria para la recuperación física, psicológica y la integración social de todo menor víctima de abandono, explotación, malos tratos o conflictos armados;
+
+III. Para garantizar la igualdad de oportunidades para las personas mayores de 60 años:
+
+a) Garantizar el acceso a los servicios de atención médica y seguridad social;
+
+b) Procurar un nivel de ingresos a través de programas de apoyo financiero y ayudas en especie; y
+
+c) Establecer programas de capacitación para el trabajo y de fomento a la creación de empleos.
+
+IV. Para garantizar la igualdad de oportunidades para las personas con discapacidad:
+
+a) Promover un entorno que permita el libre acceso, desplazamiento y de recreación adecuados;
+
+b) Procurar su incorporación, permanencia y participación en las actividades educativas regulares en todos los niveles otorgándoles las ayudas técnicas necesarias para cada discapacidad;
+
+c) Crear programas permanentes de capacitación para el empleo y fomento a la integración laboral; promover que todos los espacios en inmuebles públicos tengan las adecuaciones físicas y de señalización para su acceso, libre desplazamiento y uso; y
+
+d) Promover que en las unidades del Sistema Estatal de Salud y de Seguridad Social se les proporcione el tratamiento y medicamentos necesarios para mantener y aumentar su capacidad funcional y su calidad de vida.
+
+e) Recomienda a las instituciones bancarias otorguen facilidades para que las personas con discapacidad puedan gozar de los servicios que éstas otorguen, por conducto propio o sus padres o tutores.
+
+V. Para garantizar la igualdad de oportunidades para la población indígena:
+
+a) Establecer programas educativos bilingües y que promuevan el intercambio cultural;
+
+b) Fortalecer los programas de becas que fomenten la alfabetización, la conclusión de la educación en todos los niveles y la capacitación para el empleo;
+
+c) Promover el respeto a las culturas indígenas;
+
+d) Crear programas de capacitación para los funcionarios públicos sobre la diversidad cultural mexiquense;
+
+e) Procurar que para los casos en que se les impute la comisión de un delito, reciban en igualdad de circunstancias los beneficios que otorga la ley en cuanto a la preliberación o a la remisión de la pena;
+
+f) Garantizar que en todos los juicios y procedimientos en que sean parte, se tomen en cuenta sus costumbres y especificidades culturales, respetando los preceptos de la Constitución Federal y Local; y
+
+g) Garantizar en cualquier proceso legal, el derecho a ser asistidos, por defensores de oficio con apoyo de intérpretes que tengan conocimiento de su lengua.
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO EN MATERIA DE PREVENCIÓN Y ELIMINACIÓN DE TODAS LAS FORMAS DE DISCRIMINACIÓN
+
+###### Artículo 10.
+
+La Comisión de Derechos Humanos del Estado de México, en materia de prevención y eliminación de todas las formas de discriminación, tiene las atribuciones siguientes:
+
+I. Diseñar estrategias e instrumentos, así como promover programas, proyectos y acciones para prevenir y eliminar la discriminación;
+
+II. Verificar la adopción de medidas y programas para prevenir y eliminar la discriminación en las instituciones públicas, así como expedir los reconocimientos respectivos;
+
+III. Desarrollar, fomentar y difundir estudios sobre las prácticas discriminatorias en los ámbitos político, económico, social y cultural;
+
+IV. Realizar estudios sobre los ordenamientos jurídicos y administrativos vigentes en la materia, y proponer, en su caso, de conformidad con las disposiciones aplicables, las modificaciones que correspondan;
+
+V. Emitir opinión en relación con los proyectos de reformas en la materia, así como de los proyectos de reglamentos sobre la misma que elaboren las instituciones públicas estatales y municipales;
+
+VI. Divulgar los compromisos asumidos por el Estado en la materia; así como promover su cumplimiento en el ámbito municipal;
+
+VII. Difundir y promover contenidos para prevenir y eliminar las prácticas discriminatorias en los medios de comunicación;
+
+VIII. Investigar presuntos actos y prácticas discriminatorias, en el ámbito de su competencia;
+
+IX. Brindar asesoría y orientación a los individuos o grupos objeto de discriminación;
+
+X. Formular denuncias por actos u omisiones de conductas ilícitas de contenido discriminatorios que cometan las autoridades y los particulares, que impliquen una responsabilidad penal prevista en las disposiciones legales aplicables;
+
+XI. Conocer y resolver las quejas por violación a derechos humanos, con motivo de actos discriminatorios cometidos por autoridades estatales o municipales;
+
+XII. Establecer relaciones de coordinación con instituciones públicas federales, estatales y municipales, personas y organizaciones; con el propósito de que en los programas de gobierno, se prevean medidas positivas y compensatorias para cualquier persona o grupo, objeto de discriminación;
+
+XIII. Solicitar a las instituciones públicas la información para verificar el cumplimiento de este ordenamiento, en el ámbito de su competencia;
+
+XIV. Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, federales, estatales y municipales en el ámbito de su competencia; y
+
+XV. Las demás establecidas en esta ley y demás disposiciones legales aplicables.
+
+###### Artículo 11.
+
+La Comisión difundirá los avances, resultados e impactos de los programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad.
+
+### CAPÍTULO V. DEL CONSEJO CIUDADANO PARA LA PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN
+
+###### Artículo 12.
+
+La Comisión de Derechos Humanos del Estado de México, integrará un órgano ciudadano de opinión y asesoría de las acciones, políticas públicas, programas y proyectos que desarrollen en materia de prevención y eliminación de la discriminación, el cual se denominará Consejo Ciudadano para la Prevención y Eliminación de la Discriminación.
+
+###### Artículo 13.
+
+El Consejo, cuyo funcionamiento y trabajos serán supervisados por la propia Comisión de Derechos Humanos del Estado de México, estará integrado por un número no menor de diez, ni mayor de quince ciudadanos, representantes de los sectores privado, social y de la comunidad académica, uno de ellos, por lo menos, deberá ser de extracción indígena y que por su experiencia en prevención y eliminación de la discriminación puedan contribuir al logro de los objetivos de la Comisión, así como por un integrante designado por la Comisión Legislativa de Derechos Humanos.
+
+Los miembros de este Consejo serán propuestos por los representantes de los sectores y las instituciones académicas reconocidas y serán designados por decisión de la Comisión de Derechos Humanos del Estado de México.
+
+El Consejo sesionará por lo menos una vez cada dos meses.
+
+###### Artículo 14.
+
+El cargo de integrante del Consejo, será honorífico, por lo que no recibirá retribución, emolumento, o compensación alguna por su participación.
+
+###### Artículo 15.
+
+Los Consejeros no podrán arrogarse la representación del Consejo, ni de la Comisión de Derechos Humanos, ni difundir los asuntos que sean del conocimiento de esos órganos, ni prejuzgar públicamente sobre su fundamento o pertinencia.
+
+###### Artículo 16.
+
+Los integrantes del Consejo, durarán en su cargo tres años, y podrán ser ratificados por una sola vez, por otro período igual.
+
+###### Artículo 17.
+
+Las reglas de funcionamiento y organización del Consejo se precisarán en el Reglamento Interno de la Comisión de Derechos Humanos del Estado de México.
+
+###### Artículo 18.
+
+La Comisión proveerá al Consejo de los recursos necesarios para el desempeño de sus actividades, de acuerdo con su disposición presupuestal.
+
+### CAPÍTULO VI. DEL PROCEDIMIENTO DE SUSTANCIACIÓN DE LAS QUEJAS SOBRE ACTOS DISCRIMINATORIOS
+
+###### Artículo 19.
+
+El procedimiento de queja, que se tramite por actos u omisiones administrativas por presuntas violaciones a derechos humanos de contenido discriminatorio, cometidas por autoridades y servidores públicos estatales y municipales en el ejercicio de sus funciones, se ajustará a las prescripciones de la Ley que crea la Comisión de Derechos Humanos del Estado de México.
+
+### CAPÍTULO VII. DE LAS MEDIDAS PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
+
+###### Artículo 20.
+
+La Comisión podrá recomendar a las autoridades o servidores públicos estatales o municipales, la adopción de las siguientes medidas para prevenir y eliminar la discriminación:
+
+I. La impartición o toma de cursos o seminarios que promuevan la igualdad de oportunidades;
+
+II. La fijación de carteles en cualquier establecimiento de quienes incumplan alguna disposición de esta ley, en los que se promueva la modificación de conductas discriminatorias;
+
+III. La presencia del personal de la Comisión para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento, por el tiempo que disponga;
+
+IV. La publicación íntegra de la recomendación por la Comisión a través de sus órganos de difusión; y
+
+V. La publicación o difusión de una síntesis de la Resolución por Disposición en los medios impresos o electrónicos de comunicación.
+
+###### Artículo 21.
+
+A las instituciones públicas que se distingan por llevar a cabo programas y medidas para prevenir la discriminación, la Comisión podrá otorgar un reconocimiento por sus prácticas. El reconocimiento será otorgado previa solicitud de parte interesada, en su caso, la Comisión llevará a cabo una verificación.
+
+### CAPÍTULO VIII. DE LAS SANCIONES
+
+###### Artículo 22.
+
+Será causa de responsabilidad administrativa, los actos u omisiones de carácter discriminatorio en que incurran los servidores públicos estatales y municipales, por lo que serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+###### Artículo 23.
+
+Los particulares que incurran en conductas de discriminación serán sancionados con una o más de las sanciones siguientes:
+
+I. Sanción económica de 10 (diez) hasta 1,000 (un mil) salarios mínimos;
+
+II. Clausura temporal o definitiva;
+
+III. Suspensión de permisos, licencias, autorizaciones o concesiones otorgadas por autoridades municipales o estatales; y
+
+IV. Revocación de permisos, licencias, autorizaciones o concesiones otorgadas por autoridades municipales o estatales.
+
+###### Artículo 24.
+
+Toda persona tiene derecho a presentar denuncia ante las autoridades estatales o municipales, por hechos, actos u omisiones de carácter discriminatorio.
+
+###### Artículo 25.
+
+Serán competentes para conocer de las denuncias y para imponer las sanciones establecidas en esta ley, las autoridades municipales que hayan expedido los permisos, licencias, autorizaciones o concesiones, con excepción de los casos en que concurran permisos, licencias, autorizaciones o concesiones otorgadas por las autoridades estatales, en cuya hipótesis corresponderá a éstas últimas conocer de las denuncias y de las sanciones procedentes.
+
+###### Artículo 26.
+
+La Comisión de Derechos Humanos proporcionará a las personas que lo soliciten, asesoría y orientación para presentar ante la autoridad competente las denuncias por actos u omisiones de carácter discriminatorio.
+
+###### Artículo 27.
+
+Cuando la denuncia sea presentada ante una autoridad incompetente, ésta la remitirá de oficio a la que sea competente, aunque ésta última pertenezca a otra administración o nivel de gobierno.
+
+###### Artículo 28.
+
+Para la imposición de las sanciones, las autoridades competentes se ajustarán a lo establecido por los artículos 129, 130, 131 y 137 del Código de Procedimientos Administrativos del Estado de México.
+
+###### Artículo 29.
+
+En contra de las sanciones impuestas en términos de esta ley, el particular afectado podrá optar por promover recurso administrativo de inconformidad o presentar demanda ante el Tribunal de lo Contencioso Administrativo.
+
+T R A N S I T O R I O S
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los veintiséis días del mes de diciembre del año dos mil seis.- Presidente.- Dip. Heriberto Enrique Ortega Ramírez.- Secretarios.- Dip. Oscar Guillermo Ceballos González.- Dip. Everardo Pedro Vargas Reyes.- Dip. Armando Bautista Gómez.- Rúbricas.
+
+Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 17 de enero del 2007.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
+
+LIC. ENRIQUE PEÑA NIETO
+
+(RUBRICA).
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+DR. VICTOR HUMBERTO BENITEZ TREVIÑO
+
+(RUBRICA).
