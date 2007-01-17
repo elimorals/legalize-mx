@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2006-06-07"
+last_updated: "2007-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2007.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2349,7 +2349,7 @@ El derecho que otorga este artículo podrá ejercitarse solo durante el año sig
 
 ### CAPITULO III. De la Violencia Familiar
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 292.
 
@@ -2621,21 +2621,31 @@ El deudor alimentario deberá informar de inmediato al Juez de lo Familiar y al 
 
 ###### ARTICULO 323 Ter.
 
-Los integrantes de la familia tienen derecho a desarrollarse en un ambiente de respeto a su integridad física y psíquica, y obligación de evitar conductas que generen violencia familiar.
+Los integrantes de la familia tienen derecho a desarrollarse en un ambiente de respeto a su integridad física, psicoemocional, económica y sexual y tienen la obligación de evitar conductas que generen violencia familiar.
 
 A tal efecto, contarán con la asistencia y protección de las instituciones públicas, de acuerdo a las leyes para combatir y prevenir conductas de violencia familiar.
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 323 Quáter.
 
-Por violencia familiar se considera el uso de la fuerza física o moral, así como la omisión grave que se ejerce contra un miembro de la familia por otro integrante de la misma, que atente contra su integridad física, psíquica o ambas, independientemente del lugar en que se lleve a cabo y que pueda producir o no lesiones.
+La violencia familiar es aquel acto u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, o sexualmente a cualquier integrante de la familia dentro o fuera del domicilio familiar, y que tiene por efecto causar daño, y que puede ser cualquiera de las siguientes clases:
 
-La educación o formación del menor no será en ningún caso considerada justificación para alguna forma de maltrato.
+I. Violencia física: a todo acto intencional en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro;
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
+II. Violencia psicoemocional: a todo acto u omisión consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos amenazas, celotipia, desdén, abandono o actitudes devaluatorias, que provoquen en quien las recibe alteración auto cognitiva y auto valorativa que integran su autoestima o alteraciones en alguna esfera o área de la estructura psíquica de esa persona;
 
-ARTICULO 323 Quintus.- También se considera violencia familiar la conducta descrita en el artículo anterior llevada a cabo contra la persona con que se encuentra unida fuera de matrimonio, de los parientes de ésta, o de cualquier otra persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado, siempre y cuando el agresor y el ofendido convivan o hayan convivido en la misma casa.
+III. Violencia económica: a los actos que implican control de los ingresos, el apoderamiento de los bienes propiedad de la otra parte, la retención, menoscabo, destrucción o desaparición de objetos, documentos personales, bienes, valores, derechos o recursos económicos de la pareja o de un integrante de la familia. Así como, el incumplimiento de las obligaciones alimentarías por parte de la persona que de conformidad con lo dispuesto en éste Código tiene obligación de cubrirlas, y
+
+IV. Violencia sexual: a los actos u omisiones y cuyas formas de expresión pueden ser: inducir a la realización de prácticas sexuales no deseadas o que generen dolor, practicar la celotipia para el control, manipulación o dominio de la pareja y que generen un daño.
+
+No se justifica en ningún caso como forma de educación o formación el ejercicio de la violencia hacia las niñas y niños.
+
+Para efectos de éste artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado, así como de parentesco civil.
+
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2007)</small>
+
+ARTICULO 323 Quintus.- También se considera violencia familiar la conducta descrita en el artículo anterior llevada a cabo contra la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado, siempre y cuando el agresor y el ofendido convivan o hayan convivido en la misma casa.
 
 > <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -6369,9 +6379,9 @@ ARTICULO 1,022.- Si el usufructuario quiere hacer en este caso las reparaciones,
 
 ARTICULO 1,023.- La omisión del aviso al propietario, hace responsable al usufructuario de la destrucción, pérdida o menoscabo de la cosa por falta de las reparaciones, y le priva del derecho de pedir indemnización si él las hace.
 
-ARTICULO 1,024.- Toda diminución (sic) de los frutos que provenga de imposición de contribuciones, o cargas ordinarias sobre la finca o cosa usufructuada, es de cuenta del usufructuario.
+ARTICULO 1,024.- Toda diminución de los frutos que provenga de imposición de contribuciones, o cargas ordinarias sobre la finca o cosa usufructuada, es de cuenta del usufructuario.
 
-ARTICULO 1,025.- La diminución (sic) que por las propias causas se verifique, no en los frutos, sino en la misma finca o cosa usufructuada, será de cuenta del propietario; y si éste, para conservar íntegra la cosa, hace el pago, tiene derecho de que se le abonen los intereses de la suma pagada, por todo el tiempo que el usufructuario continúe gozando de la cosa.
+ARTICULO 1,025.- La diminución que por las propias causas se verifique, no en los frutos, sino en la misma finca o cosa usufructuada, será de cuenta del propietario; y si éste, para conservar íntegra la cosa, hace el pago, tiene derecho de que se le abonen los intereses de la suma pagada, por todo el tiempo que el usufructuario continúe gozando de la cosa.
 
 ARTICULO 1,026.- Si el usufructuario hace el pago de la cantidad, no tiene derecho de cobrar intereses, quedando compensados éstos con los frutos que reciba.
 
@@ -9557,7 +9567,7 @@ II.- Si la pérdida fuere por culpa de alguno de los contratantes, el importe se
 
 III.- A falta de convenio o de culpa, cada interesado sufrirá la pérdida que le corresponda, en todo, si la cosa perece totalmente, o en parte, si la pérdida fuere solamente parcial;
 
-IV.- En el caso de la fracción que precede, si la pérdida fuere parcial y las partes no se convinieren en la diminución (sic) de sus respectivos derechos, se nombrarán peritos que la determinen.
+IV.- En el caso de la fracción que precede, si la pérdida fuere parcial y las partes no se convinieren en la diminución de sus respectivos derechos, se nombrarán peritos que la determinen.
 
 ARTICULO 2,024.- En los contratos en que la prestación de la cosa no importe la traslación de la propiedad, el riesgo será siempre de cuenta del acreedor, a menos que intervenga culpa o negligencia de la otra parte.
 
@@ -10691,9 +10701,9 @@ ARTICULO 2,418.- Lo dispuesto en la fracción IV del artículo 2,412 no comprend
 
 ARTICULO 2,419.- El arrendatario está obligado a poner en conocimiento del propietario, en el más breve término posible, toda usurpación o novedad dañosa que otro haya hecho o abiertamente prepare en la cosa arrendada, so pena de pagar los daños y perjuicios que cause con su omisión. Lo dispuesto en este artículo no priva al arrendatario del derecho de defender, como poseedor, la cosa dada en arrendamiento.
 
-ARTICULO 2,420.- Si el arrendador fuere vencido en juicio sobre una parte de la cosa arrendada, puede el arrendatario reclamar una diminución (sic) en la renta o la rescisión del contrato y el pago de los daños y perjuicios que sufra.
+ARTICULO 2,420.- Si el arrendador fuere vencido en juicio sobre una parte de la cosa arrendada, puede el arrendatario reclamar una diminución en la renta o la rescisión del contrato y el pago de los daños y perjuicios que sufra.
 
-ARTICULO 2,421.- El arrendador responde de los vicios o defectos de la cosa arrendada que impidan el uso de ella, aunque él no los hubiese conocido o hubiesen sobrevenido en el curso del arrendamiento, sin culpa del arrendatario. Este puede pedir la diminución (sic) de la renta o la rescisión del contrato, salvo que se pruebe que tuvo conocimiento antes de celebrar el contrato, de los vicios o defectos de la cosa arrendada.
+ARTICULO 2,421.- El arrendador responde de los vicios o defectos de la cosa arrendada que impidan el uso de ella, aunque él no los hubiese conocido o hubiesen sobrevenido en el curso del arrendamiento, sin culpa del arrendatario. Este puede pedir la diminución de la renta o la rescisión del contrato, salvo que se pruebe que tuvo conocimiento antes de celebrar el contrato, de los vicios o defectos de la cosa arrendada.
 
 ARTICULO 2,422.- Si al terminar el arrendamiento hubiere algún saldo a favor del arrendatario, el arrendador deberá devolverlo inmediatamente, a no ser que tenga algún derecho que ejercitar contra aquél; en este caso depositará judicialmente el saldo referido.
 
@@ -13743,13 +13753,13 @@ SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actual
 
 D.O.F. 21 DE JULIO DE 1993.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DEL 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
 PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DEL 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
 
@@ -13761,7 +13771,7 @@ II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para us
 
 III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DEL 17 DE ABRIL DE 1999.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
@@ -13916,3 +13926,9 @@ PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Feder
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE ENERO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
