@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2006-06-09"
+last_updated: "2007-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2007.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -1030,13 +1030,35 @@ En caso de muerte, practicarán, además, la autopsia del cadáver.
 
 En todos los casos de robo, se harán constar en la descripción todas aquellas señales que puedan servir para determinar si hubo escalamiento, horadación o fractura, o si se usaron llaves falsas, haciendo cuando fuere necesario, que peritos emitan su opinión sobre estas circunstancias.
 
-> <small>(REFORMADO, G.O. 22 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 115.
 
-Para comprobar el cuerpo del delito de violencia familiar deberán acreditarse las calidades especificas de los sujetos señalados en los Artículos 200 y 201 del Nuevo Código Penal para el Distrito Federal, además deberán agregarse a la averiguación previa los dictámenes correspondientes de los especialistas en el área de salud física ó psíquica, según lo señalan los Artículos 95, 96 y 121 del presente Código.
+Para comprobar el cuerpo del delito y la probable responsabilidad de violencia familiar, el Ministerio Público investigador, además de integrar los medios de prueba reconocidos por la ley deberá:
 
-Los profesionales que presten sus servicios en las instituciones legales constituidas, especializadas en atención de problemas relacionados con la violencia familiar podrán rendir los informes por escrito que les sean solicitados por las autoridades. Asimismo dichos profesionistas podrán colaborar en calidad de peritos, sujetándose a lo dispuesto en este Código.
+I. Acreditar las calidades de sujetos activo y pasivo del delito, señaladas en los artículos 200 y 201 Bis del Código Penal para el Distrito Federal;
+
+II. Agregar a la indagatoria, el dictamen psicológico victimal mediante el cual se establezca, en su caso, la sintomatología indicativa de alteración, en las diferentes esferas y áreas del individuo y de los componentes de la autoestima, en el cual se razonen los antecedentes de violencia familiar que pudieran haber generado dichos síntomas, independientemente de los hechos que dieron lugar a la indagatoria correspondiente;
+
+III. Agregar las actuaciones y certificaciones médicas con las que se acredite, en su caso, la violencia física ejercida sobre la víctima, si éste fuera el tipo de violencia ejercido, y
+
+IV. Solicitar al Sistema de Auxilio a Víctimas y a la Secretaría de Desarrollo Social, los antecedentes que existan sobre hechos relacionados con violencia familiar y el indicado, y agregarlos a la averiguación previa.
+
+Para efectos de las fracciones I y II, se estará a lo dispuesto en los artículos 95, 96 y 121 del presente Código.
+
+> <small>(ADICIONADO, G.O. 17 DE ENERO DE 2007)</small>
+
+###### ARTICULO 115 Bis.
+
+El dictamen psicológico victimal a que se refiere la fracción II del artículo anterior, deberá ser ofrecido como prueba pericial en psicología victimal; mismo que será solicitado mediante oficio al Sistema de Auxilio a Víctimas.
+
+Para lo cual, el perito designado, no estará obligado a protestar el cargo ante el órgano Jurisdiccional de manera inmediata; pudiendo hacerlo al momento de ratificar su dictamen. Siendo suficiente la simple designación del superior jerárquico y la aceptación del perito.
+
+> <small>(ADICIONADO, G.O. 17 DE ENERO DE 2007)</small>
+
+###### ARTICULO 115 Ter.
+
+Siempre que se trate de acreditar la existencia de rasgos que integran el perfil psicológico del probable responsable, el Ministerio Público solicitará mediante oficio, el Dictamen Psicológico correspondiente al Sistema de Auxilio a Víctimas, de conformidad con la Ley de Atención y Apoyo a Víctimas del Delito para el Distrito Federal y su Reglamento.
 
 ###### ARTICULO 116.
 
@@ -2502,7 +2524,9 @@ En ningún caso, y por ningún motivo, podrá la autoridad emplear la incomunica
 
 La declaración preparatoria comenzará por las generales del indiciado, en las que se incluirán también los apodos que tuviere, el grupo étnico indígena al que pertenezca, en su caso, y si habla y entiende suficientemente el idioma castellano y sus demás circunstancias personales. Acto seguido se le hará saber el derecho a una defensa adecuada por sí, por abogado o por personas de su confianza, advirtiéndole que si no lo hiciere, el juez le nombrará un defensor de oficio.
 
-Si el indiciado no hubiese solicitado su libertad bajo caución en averiguación previa, se le hará saber nuevamente de ese derecho en los términos del artículo 20 fracción I de la Constitución Política de los Estados Unidos Mexicanos y del artículo 566 de este código.
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2007)</small>
+
+Si el indiciado no hubiese solicitado su libertad bajo caución en averiguación previa, se le hará saber nuevamente de ese derecho en los términos del artículo 20 fracción I de la Constitución Política de los Estados Unidos Mexicanos y del artículo 556 de este código.
 
 A continuación se le hará saber en qué consiste la denuncia, acusación o querella; así como los nombres de sus acusadores, denunciantes o querellantes y de los testigos que declaren en su contra; se le preguntará si es su voluntad declarar y en caso de que así lo desee se le examinará sobre los hechos consignados. Si el inculpado decidiere no declarar, el juez respetará su voluntad dejando constancia de ello en el expediente.
 
@@ -5717,3 +5741,19 @@ SEGUNDO.- El presente Decreto entrará en vigor sesenta días naturales siguient
 TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 CUATRO.- El Jefe de Gobierno del Distrito Federal expedirá el Reglamento que regule el Beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, a más tardar sesenta días naturales después de la publicación del presente Decreto en la Gaceta oficial del Distrito Federal.
+
+G.O. 17 DE ENERO DE 2007.
+
+DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 17 DE ENERO DE 2007.
+
+DECRETO QUE REFORMA EL ARTICULO 290, PARRAFO SEGUNDO DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
