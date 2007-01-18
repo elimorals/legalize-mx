@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2006-09-19"
+last_updated: "2007-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 2007.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -5538,29 +5538,35 @@ IV.- La calidad de reincidente del infractor;
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 419.
 
-Se sancionará con multa hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 55, 56, 83, 103, 107, 137, 138, 139, 161, 200 Bis, 202, 259, 260, 263, 268 Bis-1, 282 Bis-1, 342, 346, 348, segundo párrafo, 350 Bis-6, 391 y 392 de esta Ley.
+Se sancionará con multa hasta dos mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 55, 56, 83, 103, 107, 137, 138, 139, 161, 200 bis, 202, 263, 268 bis 1, 282 bis 1, 346, 350 bis 6, 391 y 392 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
-###### Artículo 420.
+###### ARTICULO 420.
 
-Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 127, 142, 147, 149, 153, 198, 200, 204, 233, 241, 258, 265, 267, 304, 307, 308, 315, 341, 348, tercer párrafo, 349, 350 bis, 350 bis 1, 350 bis 2, 350 bis 3, 373, 376 y 413 de esta Ley.
+Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
-###### Artículo 421.
+###### ARTICULO 421.
 
-Se sancionará con una multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones contenidas en los artículos 67, 100, 101, 122, 125, 126, 146, 193, 205, 210, 212, 213, 218, 220, 230, 232, 235, 237, 238, 240, 242, 243, 247, 248, 251, 252, 254, 255, 256, 264, 266, 276, 277, 277 bis, 281, 289, 293, 298, 306, 308 bis, 309, 309 bis, 317, 325, 327, 330, 331, 332, 333, 334, 335, 336, 338, último párrafo, 348, primer párrafo, 365, 367, 375, 400 y 411 de esta Ley.
+Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 276, 277, 277 bis, 306, 308, 308 bis, 309, 309 bis, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2007)</small>
+
+###### ARTICULO 421 Bis.
+
+Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos, 100, 122, 126, 146, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 422.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 418 de esta ley.
+Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 418 de esta Ley.
 
 ###### ARTICULO 423.
 
@@ -6209,5 +6215,9 @@ D.O.F. 6 DE JUNIO DE 2006.
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 19 DE SEPTIEMBRE DE 2006.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE ENERO DE 2007.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
