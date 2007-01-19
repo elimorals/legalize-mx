@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-centro-civico-y-cultural-riviera-de-ensenada-4159
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-08"
-last_updated: "2004-10-08"
+last_updated: "2007-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DEL CENTRO CIVICO Y CULTURAL RIVIERA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2007.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2004.
 
@@ -85,7 +85,9 @@ Un tesorero, que será el director de la dependencia municipal que tenga a su ca
 
 Un primer vocal, que será el Regidor coordinador de la Comisión de Educación y Cultura cualquier otro Regidor miembro de dicha Comisión designado por el Cabildo.
 
-Un vocal, que será el segundo del consejo representante de la asociación “Amigos del Riviera”, Asociación Civil designado en su asamblea a solicitud del Presidente del Consejo.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+
+Un segundo vocal, representante de alguna Asociación Civil que tenga entre sus objetivos la procuración de fondos económicos, en dinero o en especie para la conservación y remodelación del Centro Social Cívico y Cultural Riviera de Ensenada.
 
 Los vocales tercero y cuarto, serán elegibles por el C. Presidente Municipal de cualquier organismo educativo de la localidad.
 
@@ -117,7 +119,9 @@ el consejo tiene las responsabilidades que a continuación se indican:
 
 I.- La vigilancia permanente del Riviera.
 
-II.- Establecer los lineamientos necesarios al director administrativo respecto para mantener la estructura y estilo arquitectónico del inmueble, de acuerdo con los planos originales, asimismo los jardines, bardas y demás infraestructura, deberán ser armónicas con el mismo estilo.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+
+II.- Establecer los lineamientos necesarios al director administrativo respecto para mantener la estructura y estilo arquitectónico del inmueble, de acuerdo con los planos originales, asimismo los jardines, bardas y demás infraestructura, deberán ser (sic).
 
 III.- Promover y divulgar las instalaciones y las facilidades que tiene el Riviera para la realización de actividades sociales, educativas, culturales y recreativas.
 
@@ -133,7 +137,9 @@ VIII.- Determinar en el presupuesto anual el monto de las rentas por el uso temp
 
 IX.- El Consejo, el director y los responsables de sus diversos departamentos, tienen estrictamente prohibido:
 
-a).- La condonación del pago de renta del Riviera, con excepción hecha al presidente municipal, cuando en atención al interés social lo considere conveniente se exentara hasta en 50% del pago total de la renta.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+
+a).- La condonación del pago de renta del Riviera, con excepción hecha al Presidente Municipal, cuando en atención al interés social así lo requiera podrá exentar hasta un 50%, los días lunes, martes y miércoles exclusivamente en los salones Catedral, Casino, y Salón Rojo.
 
 b).- La fijación de carteleras o cualquier tipo de propaganda política-partidista y religiosa dentro o fuera del Riviera.
 
@@ -520,3 +526,9 @@ PRESIDENTE MUNICIPAL
 LIC. GUILLERMO BERNARDO ISLAS LEON.
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE ENERO DE 2007.
+
+LA PRESENTE REFORMA ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
