@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-47316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-28"
-last_updated: "2005-12-28"
+last_updated: "2007-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47316&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-12-20"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ENERO DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 28 de diciembre de 2005.
 
@@ -140,7 +140,9 @@ VI. Designar cada cuatro años a los tres Magistrados que integrarán la Comisi�
 
 VII. Efectuar las adecuaciones necesarias al presupuesto autorizado al Tribunal, para el mejor cumplimiento de sus programas, en términos de lo previsto en el Código Financiero del Distrito Federal;
 
-VIII. Emitir las políticas, bases y lineamientos para las Adquisiciones, Arrendamientos y Prestación de Servicios que contrate el Tribunal, así como las que regulen la administración y baja de sus bienes;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+
+VIII. Emitir las políticas, bases y lineamientos para las Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública que contrate el Tribunal, así como las que regulen la administración y baja de sus bienes;
 
 IX. Aprobar los lineamientos y formatos a que se sujetará la entrega-recepción de los cargos desempeñados por los servidores públicos del Tribunal;
 
@@ -880,7 +882,9 @@ III. Elaborar el proyecto de los lineamientos a que se refiere el artículo 227,
 
 IV. Elaborar el proyecto de disposiciones generales relativas a escalafón y estímulos del personal del Tribunal y someterlo a la aprobación del Pleno;
 
-V. Proponer al Pleno las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios, así como la creación de los comités que sean necesarios para su ejecución, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+
+V. Proponer al Pleno las políticas, bases y lineamientos en Materia de adquisiciones, arrendamientos, prestación de servicios y obra pública, así como la creación de los comités que sean necesarios para su ejecución, de conformidad con las disposiciones jurídicas aplicables;
 
 VI. Rendir al Pleno por escrito un informe anual detallado de sus actividades;
 
@@ -2148,9 +2152,11 @@ La demanda presentada por el servidor del Instituto o del Tribunal se considerar
 
 Si el actor omite expresar los agravios que le causa el acto o resolución, el Magistrado Instructor o la Comisión Instructora, lo requerirá, para que proceda a subsanar dicha omisión en un plazo de cinco días contados a partir del día siguiente al en que surta sus efectos la notificación respectiva, bajo el apercibimiento de que de no hacerlo así, se resolverá con los que pudieran desprenderse de su escrito de demanda y sobre todo, tomando en cuenta las prestaciones reclamadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 2007)</small>
+
 ###### Artículo 186.
 
-Si la demanda reúne todos los requisitos, el Magistrado Instructor o la Comisión Instructora la admitirá y tendrá por ofrecidas las pruebas, ordenando que dentro de los tres días hábiles siguientes, se corra traslado con copia certificada de la misma, acompañando copia simple de los anexos correspondientes, al Instituto o al Tribunal, para que a través de sus respectivos representantes legales, contesten en un plazo de diez días hábiles, bajo apercibimiento de que, en caso de no hacerlo en el plazo señalado, o de no referirse a todos y cada uno de los hechos manifestados por el servidor en su escrito inicial, se tendrán por contestados en sentido afirmativo.
+Si la demanda reúne todos los requisitos, el Magistrado Instructor o la Comisión Instructora la admitirá y tendrá por ofrecidas las pruebas, ordenando que dentro de los tres días hábiles siguientes, se emplace y corra traslado con copia certificada de la misma, acompañando copia simple de los anexos correspondientes, al Instituto o al Tribunal, para que a través de sus respectivos representantes legales, contesten en un plazo de diez días hábiles, bajo apercibimiento de que, en caso de no hacerlo en el plazo señalado, o de no referirse a todos y cada uno de los hechos manifestados por el servidor en su escrito inicial, se tendrán por contestados en sentido afirmativo.
 
 En su contestación, el Instituto o el Tribunal, deberán ofrecer las pruebas que estimen pertinentes, sin perjuicio de lo dispuesto en el artículo 331 del Código.
 
@@ -2521,3 +2527,11 @@ LIC. GERARDO RAFAEL SUÁREZ GONZÁLEZ
 SECRETARIO GENERAL
 
 (Al margen derecho un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Tribunal Electoral del Distrito Federal)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 19 DE ENERO DE 2007.
+
+PRIMERO. Se ordena la publicación del presente Decreto por el que se reforman diversas disposiciones del Reglamento Interior del Distrito Federal, en la Gaceta Oficial del Distrito Federal, así como en los estrados y en la página de Internet de este Tribunal.
+
+SEGUNDO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
