@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-41958"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-30"
-last_updated: "2006-12-30"
+last_updated: "2007-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2007.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2004.
 
@@ -163,7 +163,7 @@ I.- Coordinación General de Delegaciones de Gobierno,
 
 II.- Coordinación General del Transporte,
 
-III.- Coordinación General de Comunicación Social,
+III.- (DEROGADA, P.O. 19 DE ENERO DE 2007)
 
 IV.- Coordinación General de Proyectos Estratégicos,
 
@@ -515,7 +515,11 @@ VII.- Coordinar y supervisar los Programas de Atención Ciudadana a cargo de las
 
 VIII.- Definir, previo Acuerdo del Gobernador del Estado, los criterios y políticas de descentralización estatal, coordinando los procesos respectivos con las diferentes dependencias y entidades de la Administración Pública.
 
-IX.- Los demás que le señalen las leyes, decretos y reglamentos.
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2007)</small>
+
+IX.- Formular, coordinar y ejecutar la política de comunicación social y la promoción de las políticas públicas del Poder Ejecutivo del Estado; y
+
+X.- Los demás que le señalen las leyes, decretos y reglamentos.
 
 ###### Artículo 27.
 
@@ -1148,3 +1152,9 @@ SEGUNDO.- La Sala Especializada de Adolescentes resolverá los recursos de apela
 TERCERO.- Los órganos que se instituyen por virtud de este Decreto, deberán funcionar al inicio de la vigencia de la Ley de Justicia para Adolescentes, para lo cual las dependencias de los Poderes relacionados, adoptarán las medidas reglamentarias y de infraestructura para tal efecto.
 
 CUARTO.- Los Juzgados Especializados en adolescentes, con residencia en el Distrito Judicial del Centro, tendrán competencia en todo el Estado, hasta en tanto se instalen en otros Distritos Judiciales, en cuyo caso el Pleno del Tribunal Superior de Justicia determinará la jurisdicción territorial que les corresponda.
+
+P.O. 19 DE ENERO DE 2007.
+
+PRIMERO.- EL presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los recursos humanos, materiales y financieros de la Coordinación de Comunicación Social del Poder Ejecutivo del Estado de Oaxaca, pasarán a la Dirección de Comunicación Social de la Secretaría Técnica del Ejecutivo, lo que tendrá entendido el Gobernador del Estado para los efectos legales y administrativos correspondientes.
