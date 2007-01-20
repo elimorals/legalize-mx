@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2007-01-19"
+last_updated: "2007-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 21756/LVII/06, PUBLICADO EN EL P.O. DE 20 DE ENERO DE 2007, SE ABROGA EL DECRETO NO. 21455-LVII/06 APROBADO EL 7 DE SEPTIEMBRE DEL 2006, QUE CONTIENE REFORMAS Y ADICIONES A LA PRESENTE LEY, PUBLICADO EN EL P.O. DE 19 DE ENERO DE 2007.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -45,11 +47,9 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
 La presente Ley Orgánica del Poder Judicial, es reglamentaria de los artículos de la Constitución Política relativos a la administración de justicia en el Estado Libre y Soberano de Jalisco.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 2.
 
-Esta ley tiene por objeto regular la organización y funcionamiento del Supremo Tribunal de Justicia, Tribunal Electoral, Tribunal de lo Administrativo, Juzgados de Primera Instancia, Especializados y Mixtos, Juzgados Menores y de Paz, Jurado Popular, Consejo de la Judicatura y demás órganos y dependencia que lo integren.
+Esta ley tiene por objeto regular la organización y funcionamiento del Supremo Tribunal de Justicia, Tribunal Electoral, Tribunal de lo Administrativo, Juzgados de Primera Instancia, Especializados y Mixtos, Juzgados Menores y de Paz, Jurado Popular, Consejo General del Poder Judicial del Estado y demás órganos y dependencias que lo integren.
 
 ### CAPÍTULO II. DEL EJERCICIO, OBJETO Y JURISDICCIÓN
 
@@ -71,9 +71,7 @@ VI. Los Juzgados de Paz; y
 
 VII. El Jurado Popular.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
-El Poder Judicial contará además con un órgano denominado Consejo de la Judicatura del Estado.
+El Poder Judicial contará además con un órgano denominado Consejo General del Poder Judicial del Estado.
 
 ###### Artículo 4.
 
@@ -107,21 +105,15 @@ Con el objeto de simplificar, facilitar y agilizar las comunicaciones, actos jur
 
 Para el ingreso, promoción y permanencia de los servidores públicos del Poder Judicial, se estará a lo dispuesto por la Constitución Política del Estado, esta ley, su reglamento y demás ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 7.
 
-Los magistrados del Poder Judicial del Estado, previamente a ejercer su cargo, rendirá la protesta de ley ante el Congreso del Estado; los jueces protestarán ante el Pleno del Consejo de la Judicatura y los demás servidores públicos del Poder Judicial, lo harán ante la autoridad de quien dependan.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
+Los magistrados del Poder Judicial del Estado, previamente a ejercer su cargo, rendirán la protesta de ley ante el Congreso del Estado; los jueces protestarán ante el Pleno del Consejo General del Poder Judicial y los demás servidores públicos del Poder Judicial, lo harán ante la autoridad de quien dependan.
 
 ###### Artículo 8.
 
-Los jueces de primera instancia, especializados y mixtos, menores y de paz serán electos por el Consejo de la Judicatura y durarán en el ejercicio de su cargo cuatro años.
+Los jueces de primera instancia, especializados y mixtos, menores y de paz serán electos por el Consejo General y durarán en el ejercicio de su cargo cuatro años.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
-El plazo se computará a partir de la fecha en que rindan la protesta, el cual deberá ser de servicio efectivo y, si a su vencimiento fueren ratificados, sólo podrán ser privados de su cargo en los términos que establece la Constitución Política del Estado y las leyes secundarias en materia de responsabilidad de los servidores públicos. Durante su ejercicio, los jueces sólo podrán ser removidos o cambiados de adscripción por acuerdo del Consejo de la Judicatura, dictado en los términos que establezca esta ley.
+El plazo se computará a partir de la fecha en que rindan la protesta, el cual deberá ser de servicio efectivo y, si a su vencimiento fueren ratificados, sólo podrán ser privados de su cargo en los términos que establece la Constitución Política del Estado y las leyes secundarias en materia de responsabilidad de los servidores públicos. Durante su ejercicio, los jueces sólo podrán ser removidos o cambiados de adscripción por acuerdo del Consejo General del Poder Judicial, dictado en los términos que establezca esta ley.
 
 En los casos de promoción, la inamovilidad en el nuevo empleo se adquirirá al transcurrir el plazo correspondiente a su ejercicio.
 
@@ -131,17 +123,13 @@ En los casos de promoción, la inamovilidad en el nuevo empleo se adquirirá al 
 
 Los magistrados, consejeros, jueces y demás servidores públicos del Poder Judicial percibirán una remuneración adecuada e irrenunciable, misma que deberá encontrarse establecida en el Presupuesto de Egresos respectivo y ser acorde a la ley, sin que bajo ninguna circunstancia, puedan recibir bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación, de conformidad con lo dispuesto por el artículo 111 de la Constitución Política del Estado de Jalisco, y demás normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 9.
 
-El retiro de los magistrados será forzoso en los términos que establece la Constitución Política del Estado; mientras que para los jueces será voluntario al cumplir sesenta y cinco años y forzoso a los setenta, para cuyo efecto hará la declaración correspondiente el Consejo de la Judicatura a instancia del interesado o de oficio. En ambos casos los funcionarios judiciales tendrán derecho a un haber por retiro, conforme lo disponga la ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
+El retiro de los magistrados será forzoso en los términos que establece la Constitución Política del Estado; mientras que para los jueces será voluntario al cumplir sesenta y cinco años y, forzoso a los setenta, para cuyo efecto hará la declaración correspondiente el Consejo General a instancia del interesado o de oficio. En ambos casos los funcionarios judiciales tendrán derecho a un haber por retiro, conforme lo disponga la ley.
 
 ###### Artículo 10.
 
-Se consideran empleados de confianza a los servidores públicos que indique esta ley, y su reglamento, la de los Servidores Públicos del Estado de Jalisco y sus Municipios; así como los directores, subdirectores, jefes de departamento, coordinadores o encargados de oficialías comunes de partes, personal técnico adscrito a la Dirección de Administración, de Finanzas, Contraloría e Informática, pagadores y encargados de inventario, jefes de sección, el personal de apoyo y asesoría a los magistrados, Secretario General de Acuerdos, Oficial Mayor, así como el personal que labore en las presidencias de cada tribunal y la del Consejo de la Judicatura.
+Se consideran empleados de confianza a los servidores públicos que indique esta ley, y su reglamento, la de los Servidores Públicos del Estado de Jalisco y sus Municipios; así como los directores, subdirectores, jefes de departamento, coordinadores o encargados de oficialías comunes de partes, personal técnico adscrito a la Dirección de Administración, de Finanzas e Informática, pagadores y encargados de inventario, jefes de sección, el personal de apoyo y asesoría a los magistrados, Secretario General de Acuerdos, Oficial Mayor, así como el personal que labore en las presidencias de cada tribunal y la del Consejo General.
 
 El personal no especificado como de confianza en este precepto será considerado de base.
 
@@ -149,9 +137,9 @@ El personal no especificado como de confianza en este precepto será considerado
 
 El año judicial, se inicia el día primero de enero y termina el día treinta y uno de diciembre del mismo año.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
 
-Para la elección del Presidente del Suprema Tribunal de Justicia, el último día hábil de diciembre de cada tres años, los magistrados de número en funciones, presididos por el de más antigüedad como magistrado, se reunirán en el Salón de Plenos del Supremo Tribunal de Justicia.
+Para la elección del Presidente del supremo Tribunal de Justicia, el último día hábil de diciembre de cada dos años, los magistrados de número en funciones, presididos por el de más antigüedad como magistrado, o el de más edad si hubiere varios con igual antigüedad, se reunirán en el Salón de Plenos de (sic) Supremo Tribunal de Justicia.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
 
@@ -175,31 +163,25 @@ Serán inhábiles los sábados, domingos y demás días que establezca el Códig
 
 Los servidores públicos del Poder Judicial, a excepción de los del Tribunal Electoral, disfrutarán anualmente de dos períodos de vacaciones con goce de sueldo. El primero, será del dieciséis al treinta y uno de julio, y el segundo, del dieciséis al treinta y uno de diciembre.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
-Los juzgados penales, mixtos, familiares y civiles que por disposición de la ley deban conocer actuaciones para las cuales no haya días y horas inhábiles, harán uso de ese derecho conforme lo disponga el Consejo de la Judicatura.
+Los juzgados penales, mixtos, familiares y civiles que por disposición de la ley deban conocer actuaciones para las cuales no haya días y horas inhábiles, harán uso de ese derecho conforme lo disponga el Consejo General.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 El personal del Tribunal Electoral disfrutará de vacaciones por un período igual al señalado en el primer párrafo del presente artículo, en los tiempos y términos que determine el Pleno de dicho Tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 14.
 
-Los magistrados, consejeros, jueces, secretarios, Oficial Mayor, directores, jefes de departamento y notificadores, están impedidos para desempeñar otro empleo, cargo o comisión de la Federación, del Estado o de los municipios, de organismos descentralizados o de particulares cuando se perciba sueldo; tampoco podrán ejercer libremente la profesión de abogado, ni patrocinar negocios judiciales por sí o por interpósita persona, ante los tribunales de cualquier fuero, aún gozando de licencia, salvo en causa propia, del cónyuge, de ascendiente o descendientes en línea recta hasta el primer grado.
+Los magistrados, consejeros generales, jueces, secretarios, Oficial Mayor, directores, jefes de departamentos y notificadores, están impedidos para desempeñar otro empleo, cargo o comisión de la Federación, del Estado o de los municipios, de organismos descentralizados o de particulares cuando se perciba sueldo; tampoco podrán ejercer libremente la profesión de abogado, ni patrocinar negocios judiciales por sí o por interpósita persona, ante los tribunales de cualquier fuero, aún gozando de licencia, salvo en causa propia, del cónyuge, de ascendientes o descendientes en línea recta hasta el primer grado.
 
 Quedan exceptuados de esta prohibición los cargos docentes, siempre y cuando no sean incompatibles con la carga horaria.
 
 La infracción de estas disposiciones será sancionada con la separación definitiva del infractor, mediante el procedimiento que esta ley señale.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
-El Juez que pasa a formar parte del Consejo de la Judicatura, disfrutará de licencia por el tiempo y términos que prevé la Constitución local; al concluir su encargo podrá reintegrarse a la actividad jurisdiccional.
+El Magistrado, Juez y Secretario que pasen a formar parte del Consejo General del Poder Judicial del Estado, disfrutarán de licencia por el tiempo y términos que prevé la Constitución local; al concluir su encargo, en su caso, podrán reintegrarse a la actividad jurisdiccional.
 
 ### CAPÍTULO IV. DE LOS ÓRGANOS ADMINISTRATIVOS AUXILIARES DE LOS TRIBUNALES
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 ### CAPÍTULO V. DE LA PLANEACIÓN INSTITUCIONAL DEL PODER JUDICIAL
 
@@ -293,7 +275,7 @@ II. El programa operativo anual será aprobado a más tardar el día 25 de octub
 
 ###### Artículo 15.
 
-El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral y el Consejo de la Judicatura, para el cabal desempeño de sus funciones, podrán crear las direcciones, unidades departamentales y órganos auxiliares que consideren necesarios, en sus respectivos ámbitos de competencia, conforme lo permitan sus respectivos Presupuestos de Egresos, que deberán ejercer con plena autonomía y de conformidad con la ley.
+El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral y el Consejo General del Poder Judicial del Estado de Jalisco, para el cabal desempeño de sus funciones, podrán crear las direcciones, unidades departamentales y órganos auxiliares que consideren necesarios, en sus respectivos ámbitos de competencia, conforme lo permitan su respectivo Presupuesto de Egresos, que deberán ejercer con plena autonomía y de conformidad con la ley.
 
 ###### Artículo 16.
 
@@ -339,9 +321,7 @@ III. Poseer el día de la elección, con una antigüedad mínima de diez años, 
 
 IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho, del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, Consejero del Consejo de la Judicatura, Diputado local, Presidente o Regidor de ayuntamiento, durante el año previo al día del nombramiento; y
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, Presidente, Vicepresidente Municipal o Regidor de ayuntamiento, durante el año previo al día del nombramiento; y
 
 VI. No haber sido secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes al día que tenga verificativo el nombramiento.
 
@@ -359,11 +339,11 @@ III. La de Adquisiciones.
 
 Estas comisiones serán colegiadas en la forma que determine el Pleno y nombradas al inicio del año judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 20.
 
-El Supremo Tribunal de Justicia del Estado tendrá un Presidente que durará en su cargo tres año y podrá se reelecto para el periodo inmediato.
+El Supremo Tribunal de Justicia del Estado, tendrá un Presidente que durará en su cargo tres años y podrá ser reelecto por una sola vez para el periodo inmediato.
 
 La Presidencia de las salas será rotatoria por designación entre los magistrados que la integren, lo que comunicarán al Pleno al inicio del año judicial para su sanción.
 
@@ -415,23 +395,19 @@ XII. Acordar, cuando se considere conveniente por las necesidades del servicio, 
 
 XIII. Nombrar a propuesta de su Presidente, a los servidores públicos de carácter judicial, y administrativo del Supremo Tribunal, con excepción de los secretarios relatores adscritos a los magistrados que serán nombrados a propuesta de éstos y el personal de cada Sala que lo hará su Presidente previo consenso de sus integrantes. Así como removerlos en los términos que determinen las leyes.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
-Para estos efectos, antes de designar a la persona que deba ocupar el cargo, el Supremo Tribunal, su Presidente, las salas o el magistrado respectivo, deberán solicitar al Consejo de la Judicatura, la relación de las personas que se encuentren en aptitud de ocupar la vacante;
+Para estos efectos, antes de designar a la persona que deba ocupar el cargo, el Supremo Tribunal, su Presidente, las salas o el magistrado respectivo, deberán solicitar al Consejo General la relación de las personas que se encuentren en aptitud de ocupar la vacante;
 
 XIV. Aprobar, modificar o rechazar, los convenios que el Presidente en representación del Supremo Tribunal de Justicia celebre;
 
 XV. Resolver los conflictos de competencia que se susciten entre las salas; en este caso sus integrantes sólo tendrán voz, pero no voto;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-XVI. Discutir y aprobar el Presupuesto de Egresos del Supremo Tribunal de Justicia, el cual se remitirá a su Presidente para que, junto con los elaborados por los Tribunales Electoral, de lo Administrativo y Consejo de la Judicatura, los envíe al Titular del Poder Ejecutivo;
+XVI. Discutir y aprobar el Presupuesto de Egresos del Supremo Tribunal de Justicia, el cual se remitirá a su Presidente para que, junto con los elaborados por los Tribunales Electorales, de lo Administrativo y Consejo General los envíe al Titular del Poder Ejecutivo;
 
 XVII. Presentar al Poder Legislativo iniciativas de ley, en el ramo de justicia;
 
 XVIII. Formular y expedir el reglamento y demás disposiciones necesarias para el funcionamiento interno del Supremo Tribunal de Justicia;
 
-XIX. (DEROGADA, P.O. 19 DE ENERO DE 2007)
+XIX. Conceder licencia al magistrado que pase a formar parte del Consejo General del Poder Judicial del Estado;
 
 XX. Nombrar las comisiones que sean necesarias para la atención de los asuntos de su competencia;
 
@@ -443,9 +419,7 @@ XXIII. Establecer los criterios y las medidas conducentes para el mejoramiento d
 
 XXIV. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Supremo Tribunal de Justicia, se ajusten a los criterios contemplados en la ley de la materia;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-XXV. Solicitar al Consejo de la Judicatura, el cambio de adscripción de jueces y en su caso, su remoción del cargo por causa justificada;
+XXV. Solicitar al Consejo General del Poder Judicial, el cambio de adscripción de jueces y en su caso, su remoción del cargo por causa justificada;
 
 > <small>(ADICIONADA, P.O. 1 DE MAYO DE 2003)</small>
 
@@ -471,9 +445,7 @@ h) Las quejas presentadas en contra del magistrado y el sentido de su resolució
 
 El dictamen técnico, así como los demás datos, informaciones y opiniones que se hagan llegar al Congreso del Estado, tanto del Supremo Tribunal de Justicia, como de particulares, servirán para el proceso de ratificación de los magistrados. Estos elementos no limitan la facultad soberana del Congreso del Estado, de ratificar o no ratificar a los magistrados del Supremo Tribunal de Justicia del Estado.
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-XXVII. Sugerir al Consejo de la Judicatura, la modificación en el número y limites territoriales de los partidos judiciales en que se divide el territorio del Estado; y
+XXVII. Sugerir al Consejo General la modificación en el número y límites territoriales de los partidos judiciales en que se divide el territorio del Estado, y
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
 
@@ -581,9 +553,7 @@ VIII. Sugerir al Pleno las medidas necesarias para la organización y funcionami
 
 IX. Proponer con aprobación del Pleno a los magistrados supernumerarios que deban suplir a los numerarios en los casos previstos por la ley;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-X. Formular anualmente el proyecto del Presupuesto de Egresos para someterlo a la aprobación del Tribunal Pleno y enviarlo conjuntamente con los del Tribunal Electoral, Tribunal Administrativo y Consejo de la Judicatura, al Titular del Poder Ejecutivo para su inclusión en el proyecto de Presupuesto de Egreso del Estado;
+X. Formular anualmente el proyecto del Presupuesto de Egresos para someterlo a la aprobación del Tribunal Pleno y enviarlo conjuntamente con los del Tribunal Electoral, Tribunal Administrativo y Consejo General, al Titular del Poder Ejecutivo para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 
 XI. Integrar y presidir la Comisión de Gobierno y Administración del Supremo Tribunal de Justicia;
 
@@ -845,9 +815,7 @@ El Tribunal de lo Administrativo estará integrado por la cantidad de Magistrado
 
 El procedimiento para la elección de los magistrados del Tribunal de lo Administrativo, se sujetará a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-I. El Consejo de la Judicatura, previa convocatoria realizada por el Congreso del Estado a la sociedad en general, exceptuando a los partidos políticos, someterá a consideración del Poder Legislativo del Estado, una lista de candidatos que contenga por lo menos el doble del número de magistrados a elegir, anexando los documentos que sean necesarios para acreditar que tienen la aptitud para ocupar el cargo y que cumplen con los requisitos de ley;
+I. El Consejo General del Poder Judicial, previa convocatoria realizada por el Congreso del Estado a la sociedad en general, exceptuando a los partidos políticos, someterá a consideración del Poder Legislativo del Estado, una lista de candidatos que contenga por lo menos el doble del número de magistrados a elegir, anexando los documentos que sean necesarios para acreditar que tienen la aptitud para ocupar el cargo y que cumplen con los requisitos de ley;
 
 II. La elección del Magistrado que deba cubrir una vacante, se realizará por el Congreso del Estado, por acuerdo de las dos terceras partes de los diputados presentes, dentro de un término improrrogable de treinta días; de lo contrario, se entenderá rechazada la totalidad de los candidatos propuestos, en cuyo caso, el Consejo General del Poder Judicial, someterá una nueva propuesta ante el Congreso del Estado, la cual estará integrada por personas distintas a la inicial, para lo cual se deberán cumplir los requisitos señalados en el presente artículo;
 
@@ -873,9 +841,7 @@ III. Poseer el día de la elección, con antigüedad mínima de diez años, tít
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, Jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo de la Judicatura, Diputado local, Presidente o Regidor del Ayuntamiento, durante el año previo al día de la elección; y
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, Jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, Presidente, Vicepresidente Municipal o Regidor del Ayuntamiento, durante el año previo al día de la elección; y
 
 VI. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes del día que tenga verificativo la elección.
 
@@ -1007,7 +973,7 @@ En caso de procedencia de recusaciones, excusas o impedimentos el Pleno del Trib
 
 En los casos de licencia de los magistrados, el Pleno designará a un magistrado de entre los suplentes, para que integre la sala que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 67.
 
@@ -1243,9 +1209,7 @@ VI. No haber sido ministro de algún culto religioso en los últimos cinco años
 
 VII. No haber desempeñado algún cargo público de elección popular, ni haber sido dirigente nacional, estatal o municipal de algún partido político, dentro de los cinco años inmediatos a su nombramiento;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-VIII. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo de la Judicatura, Diputado local, Presidente o Regidor del Ayuntamiento, durante el año previo al día de la elección, ni miembro del Consejo Electoral del Estado, con derecho a voz y voto, dentro de los dos años anteriores a su designación;
+VIII. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, Presidente, Vicepresidente Municipal o Regidor del Ayuntamiento, durante el año previo al día de la elección, ni miembro del Consejo Electoral del Estado, con derecho a voz y voto, dentro de los dos años anteriores a su designación;
 
 IX. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes del día en que tenga verificativo la elección; y
 
@@ -1645,21 +1609,17 @@ En el supuesto de que la resolución ordene dejar sin efectos la destitución de
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
-
 ## TÍTULO QUINTO. DE LOS JUZGADOS Y JURADO POPULAR
 
 ### CAPÍTULO II. DE LOS JUZGADOS MENORES Y DE PAZ
 
 ###### Artículo 101.
 
-Los juzgados de la Entidad conocerán asuntos de materia penal, civil, familiar y mercantil según determine el Pleno del Consejo de la Judicatura, conforme a las reglas siguientes:
+Los juzgados de la Entidad conocerán asuntos de materia penal, civil, familiar y mercantil según determine el Pleno del Consejo General, conforme a las reglas siguientes:
 
 I. En materia penal, conocerán de toda clase de delitos del fuero común, sea cual fuere la pena que les corresponda;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-II. Los del ramo civil, conocerán de toda clase de juicios o trámites que determine el Consejo de la Judicatura, dentro de sus facultades;
+II. Los del ramo civil, conocerán de toda clase de juicios o trámites que determine el Consejo General dentro de sus facultades;
 
 III. En materia familiar, conocerán:
 
@@ -1697,9 +1657,7 @@ IV. Actuarios;
 
 V. Un Notificador o notificadores; y
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-VI. Los servidores públicos de la administración de justicia que determine el Consejo de la Judicatura y que permita el Presupuesto de Egresos.
+VI. Los servidores públicos de la administración de justicia, que determine el Consejo General y que permita el Presupuesto de Egresos.
 
 ###### Artículo 103.
 
@@ -1715,9 +1673,7 @@ IV. Un Secretario o secretarios;
 
 V. Un Notificador o notificadores;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-VI. Los servidores públicos de la administración de justicia que determine el Consejo de la Judicatura y el Presupuesto de Egresos.
+VI. Los servidores públicos de la administración de justicia que determinen el Consejo General y el Presupuesto de Egresos.
 
 ###### Artículo 104.
 
@@ -1733,9 +1689,7 @@ II. Un Secretario o secretarios;
 
 III. Un Notificador o notificadores; y
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-IV. Los servidores públicos de la administración de justicia que autorice el Consejo de la Judicatura y que permita el Presupuesto de Egresos.
+IV. Los servidores públicos de la administración de justicia que autorice el Consejo General y que permita el Presupuesto de Egresos.
 
 ###### Artículo 106.
 
@@ -1763,11 +1717,9 @@ Para el nombramiento de jueces, en igualdad de circunstancias, se preferirá al 
 
 Para ser Secretario de Acuerdos o Conciliador, es necesario satisfacer los mismos requisitos exigidos para ser Secretario de Acuerdos de Sala.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 108.
 
-Para ser Secretario de juzgado de primera instancia se requieren los mismos requisitos exigidos en el artículo anterior de esta ley, con excepción de la edad mínima, que será de veinticinco años y de la práctica profesional. El Pleno del Consejo de la Judicatura podrá dispensar el requisito del título en caso de designación en los juzgados mixtos.
+Para ser Secretario de juzgado de primera instancia se requieren los mismos requisitos exigidos en el artículo anterior de esta ley, con excepción de la edad mínima, que será de veinticinco años y de la práctica profesional. El Pleno del Consejo General podrá dispensar el requisito del título en caso de designaciones en los juzgados mixtos.
 
 ###### Artículo 109.
 
@@ -1775,9 +1727,7 @@ Para ser Notificador se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-II. Haber cursado cuando menos la mitad del plan de estudios de la carrera de abogado o licenciado en derecho. El Pleno del Consejo de la Judicatura podrá dispensar este requisito cuando por los conocimientos y capacidad que resulte de los exámenes aplicados, se le considere apto para el desempeño de la función; y
+II. Haber cursado cuando menos la mitad del plan de estudios de la carrera de abogado o licenciado en derecho. El Pleno del Consejo General podrá dispensar este requisito cuando por los conocimientos y capacidad que resulte de los exámenes aplicados, se le considere apto para el desempeño de la función; y
 
 III. No haber sido condenado por delito doloso que amerite pena corporal.
 
@@ -1805,9 +1755,7 @@ IX. Cursar la correspondencia del juzgado;
 
 X. Acatar la jurisprudencia de la Suprema Corte de Justicia de la Nación y del Supremo Tribunal de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-XI. Proponer al Pleno del Consejo de la Judicatura, el personal del juzgado a su cargo; y
+XI. Proponer al Pleno del Consejo General, el personal del juzgado a su cargo; y
 
 XII. Las demás que les impongan las leyes.
 
@@ -1815,11 +1763,9 @@ XII. Las demás que les impongan las leyes.
 
 En el caso de la fracción XI, los jueces al proponer el personal del juzgado deberán hacerlo preferentemente a favor de quien tenga mejor derecho de acuerdo al sistema de Carrera Judicial, de no ser así, podrán hacerlo a favor de persona ajena al Poder Judicial, en cuyo caso deberá motivarse la propuesta. Si el Consejo no aprueba al candidato, el juez presentará otra y hasta una tercera propuesta, de ser necesario. De ser rechazadas el Consejo elegirá para el cargo a quien hubiere obtenido mayor votación.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 111.
 
-El Juez Mixto de Primera Instancia o Especializado en materia penal del partido judicial que corresponda, propondrá candidatos al Pleno del Consejo de la Judicatura para que se elija a los jueces menores o de paz.
+El Juez Mixto de Primera Instancia o Especializado en materia penal del partido judicial que corresponda, propondrá candidatos al Pleno del Consejo General para que se elija a los jueces menores o de paz.
 
 ###### Artículo 112.
 
@@ -1943,8 +1889,6 @@ Por cada Juez Menor o de Paz propietario, se nombrará un suplente que lo sustit
 
 ### CAPÍTULO IV. DE LAS AUSENCIAS Y SUPLENCIAS DE LOS JUECES Y DEMÁS SERVIDORES
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 121.
 
 En el Estado se establecerán jurados, solamente para conocer de los procesos que se instruyan por delitos cometidos por medio de la prensa, contra el orden público.
@@ -1971,19 +1915,15 @@ VII. No haber sido condenado por delito doloso que amerite pena corporal.
 
 Todo ciudadano residente en el Estado de Jalisco que reúna los requisitos señalados por el artículo anterior, tiene la obligación de desempeñar el cargo de Jurado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 124.
 
-En el Primer Partido Judicial, se nombrarán por el Consejo de la Judicatura, cincuenta ciudadanos que desempeñen el cargo de jurados durante un año contado desde el primero de enero. También se nombrarán veinticinco ciudadanos para cada uno de los demás partidos judiciales en el Estado que deban desempeñar por un año el cargo de jurados.
+En el Primer Partido Judicial, se nombrarán por el Consejo General, cincuenta ciudadanos que desempeñen el cargo de jurados durante un año contado desde el primero de enero. También se nombrarán veinticinco ciudadanos para cada uno de los demás partidos judiciales en el Estado que deban desempeñar por un año el cargo de jurados.
 
 En ambos casos la designación se hará en los primeros quince días del mes de octubre y la lista de los nombramientos se publicará en el Boletín Judicial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 125.
 
-El Jurado se integrará por siete ciudadanos electos mediante un sistema de insaculación por el Pleno del Consejo de la Judicatura, sujeto a las siguientes bases:
+El Jurado se integrará por siete ciudadanos electos mediante un sistema de insaculación por el Pleno del Consejo General, sujeto a las siguientes bases:
 
 I. La insaculación de jurados se hará en público el día anterior al en que deba celebrarse el juicio, debiendo estar presentes el Juez, su Secretario de Acuerdos, el Ministerio Público, el acusado y su defensor. La ausencia de los dos últimos no impedirá la insaculación;
 
@@ -1993,11 +1933,9 @@ III. Tanto el acusado o su defensor podrán recusar sin expresión de causa, has
 
 IV. Concluida la diligencia se ordenará se cite a los jurados designados, para la audiencia que deba celebrarse en lugar, día y hora determinados, a efecto de substanciar el juicio respectivo.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 126.
 
-El Consejo de la Judicatura y el Juez, tomarán las medidas necesarias para la seguridad y sigilo que deben tener los miembros del Jurado durante el proceso de insaculación y la instrucción de la causa.
+El Consejo General y el Juez, tomarán las medidas necesarias para la seguridad y sigilo que deben tener los miembros del Jurado durante el proceso de insaculación y la instrucción de la causa.
 
 ###### Artículo 127.
 
@@ -2023,11 +1961,9 @@ El procedimiento, recusación, el orden que debe seguirse en las audiencias y en
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 130.
 
-Los jueces de primera instancia del Estado serán suplidos en sus faltas temporales o absolutas por los que nombre el Consejo de la Judicatura del Poder Judicial. En tanto se haga el nombramiento, en los juzgados especializados los sustituirán los secretarios de acuerdos, y en los juzgados mixtos el Secretario.
+Los jueces de primera instancia del Estado serán suplidos en sus faltas temporales o absolutas por los que nombre el Consejo General del Poder Judicial. En tanto se haga el nombramiento, en los juzgados especializados los sustituirán los secretarios de acuerdos, y en los juzgados mixtos el Secretario.
 
 ###### Artículo 131.
 
@@ -2057,417 +1993,301 @@ Los notificadores de salas y juzgados especializados, en caso de faltas temporal
 
 De presentarse esa hipótesis en salas regionales mixtas, lo suplirá el Secretario de la misma.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ENERO DE 2007)</small>
+## TÍTULO SEXTO. DEL CONSEJO GENERAL DEL PODER JUDICIAL
 
-## TÍTULO SEXTO. DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE JALISCO
+### CAPÍTULO II. DEL PLENO DEL CONSEJO GENERAL
 
-### CAPÍTULO II. DEL PLENO DEL CONSEJO DE LA JUDICATURA
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 136.
 
-La administración, vigilancia, disciplina y Carrera Judicial del Poder Judicial del Estado de Jalisco, con excepción del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, estarán a cargo del Consejo de la Judicatura del Poder Judicial, en los términos que establecen la Constitución Política del Estado de Jalisco y la presente ley.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+La administración, vigilancia, disciplina y Carrera Judicial del Poder Judicial del Estado de Jalisco, con excepción del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, estarán a cargo del Consejo General del Poder Judicial, en los términos que establecen la Constitución Política del Estado de Jalisco y la presente ley.
 
 ###### Artículo 137.
 
-El Consejo de la Judicatura del Poder Judicial velará en todo momento por la autonomía de los órganos jurisdiccionales y por la independencia e imparcialidad de sus integrantes.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+El Consejo General del Poder Judicial velará en todo momento por la autonomía de los órganos jurisdiccionales y por la independencia e imparcialidad de sus integrantes.
 
 ###### Artículo 138.
 
-El Consejo de la Judicatura estará integrado por cinco consejeros, de los cuales, uno será el Presidente del Supremo Tribunal de Justicia, y los cuatro restantes, serán electos por votación de cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta de los grupos parlamentarios, previa convocatoria a la sociedad, de conformidad con lo que establezcan la Constitución Política del Estado y la Ley Orgánica del Poder Legislativo de la Entidad. Uno de los consejeros se elegirá de entre los jueces inamovibles de primera instancia y los otros tres serán ciudadanos que no hubieren desempeñado un cargo dentro de la carrera judicial durante los cuatro años anteriores a su elección.
+El Consejo General del Poder Judicial estará integrado por siete consejeros, de los cuales, uno será el Presidente del Supremo Tribunal de Justicia, y los seis restantes, serán electos por votación de cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta de los grupos parlamentarios, previa convocatoria a la sociedad, de conformidad a lo que establezcan la Constitución Política del Estado y la Ley Orgánica del Poder Legislativo de la Entidad. Uno de los consejeros deberá ser Magistrado del Supremo Tribunal de Justicia, otro se elegirá de entre los jueces de primera instancia y uno más de entre los secretarios de juzgado.
 
-En la licencia que se otorgue al Juez electo como consejero, deberá garantizar el cargo y adscripción que viniere desempeñando.
+En la licencia que se otorgue al Secretario, Juez y Magistrado electos como consejeros, deberá garantizarse el cargo y adscripción que vinieren desempeñando.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 139.
 
-El Consejo de la Judicatura funcionará en Pleno o a través de comisiones, sus resoluciones serán definitivas, las de las comisiones se someterán al Pleno, si éste tuviere observaciones, las regresará a la comisión para que elabore una nueva resolución, que deberá aprobarse por unanimidad para ser presentada al Pleno.
+El Consejo de la Judicatura funcionará en Pleno o a través de comisiones, sus resoluciones serán definitivas; y las de las comisiones se someterán al Pleno cuando así lo determine por acuerdo previo del mismo; si éste tuviere observaciones, las regresará a la comisión para que elabore una nueva resolución atendiendo las mismas.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 140.
 
-Las resoluciones del Pleno, constarán en acta y deberán contar siempre con las firmas del presidente y el secretario debiendo notificarse a la brevedad posible a las partes interesadas.
+Las resoluciones del Pleno, constarán en acta y deberán contar siempre con las firmas de los consejeros asistentes y del secretario, debiendo notificarse a la brevedad posible a las partes interesadas.
 
-La notificación y ejecución de las resoluciones que emita el Pleno (sic)
-
-Consejo de la Judicatura, deberán realizarse por conducto de los órganos del propio Consejo o del juzgado que actúe en auxilio de éste.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+La notificación y ejecución de las resoluciones que emita el Consejo General funcionando en Pleno o en comisiones, deberán realizarse por conducto de los órganos del propio Consejo o del juzgado que actúe en auxilio de éste.
 
 ###### Artículo 141.
 
-Cuando a juicio del Pleno del Consejo de la Judicatura los reglamentos, acuerdos o resoluciones que emita sean de interés general, deberán publicarse en el Boletín Judicial.
+Cuando a juicio del Pleno del Consejo General del Poder Judicial, los reglamentos, acuerdos o resoluciones que emita sean de interés general, deberán publicarse en el Boletín Judicial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ENERO DE 2007)</small>
-
-### CAPÍTULO III. DEL PRESIDENTE DEL PLENO DEL CONSEJO DE LA JUDICATURA
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+### CAPÍTULO III. DEL PRESIDENTE DEL PLENO DEL CONSEJO DEL PODER JUDICIAL
 
 ###### Artículo 142.
 
-El Pleno del Consejo de la Judicatura se integrará con los cinco consejeros; pero bastará con la presencia de tres de ellos, entre los cuales deberá estar el presidente, para funcionar legalmente.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
-
-###### Artículo 143.
-
-Las sesiones del pleno del Consejo de la Judicatura serán públicas y por excepción reservadas, cuando así lo acuerden la mayoría de sus integrantes y se celebrarán en los días y horas que el mismo Consejo determine, mediante acuerdos generales.
+El Pleno del Consejo de la Judicatura se integrará con los cinco consejeros; pero bastará la presencia de tres de ellos, para funcionar legalmente. En el supuesto de que no se encuentre el Consejero Presidente, de entre los presentes se nombrará a quien deba desempeñar esa función para dirigir la sesión por única ocasión.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
 
-Las discusiones y documentos relacionados con las sesiones reservadas, sólo pueden ponerse a la vista de quienes demuestren su interés jurídico y no son susceptibles de publicarse, salvo las resoluciones finales, que tienen carácter público, con excepción de aquellas que de conformidad con la ley, reciban clasificación distinta.
+###### Artículo 143.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+Las sesiones del pleno del Consejo General serán públicas y por excepción reservadas, cuando así lo acuerden la mayoría de sus integrantes y se celebrarán en los días y horas que el mismo Consejo determine, mediante acuerdos generales.
+
+Las discusiones y documentos relacionados con las sesiones reservadas, sólo pueden ponerse a la vista de quienes demuestren su interés jurídico y no son susceptibles de publicarse, salvo las resoluciones finales, que tienen carácter público, con excepción de aquellas que de conformidad con la ley, reciban clasificación distinta.
 
 ###### Artículo 144.
 
-El Pleno del Consejo de la Judicatura podrá sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes.
-
-Dicha solicitud deberá presentarse por escrito ante el Presidente del propio Consejo a fin de que emita la convocatoria correspondiente.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
+El Pleno del Consejo General podrá sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes. Dicha solicitud deberá presentarse por escrito ante el Presidente del propio Consejo a fin de que emita la convocatoria correspondiente.
 
 ###### Artículo 145.
 
-Las resoluciones del Pleno se tomarán por el voto de la mayoría de los consejeros presentes, y por mayoría calificada de cuatro votos, tratándose de los casos que así lo determine el presente ordenamiento.
+Las resoluciones del Pleno se tomarán por el voto de la mayoría de los consejeros presentes, y por mayoría calificada de cinco votos, tratándose de los casos que así lo determine el presente ordenamiento.
 
 Los consejeros no podrán abstenerse de votar, a excepción de que exista o sobrevenga una causa de impedimento legal o cuando no hayan asistido a la sesión en que se haya discutido el asunto de que se trate. En caso de empate, el Presidente tendrá voto de calidad.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 146.
 
-El Pleno del Consejo calificará las excusas e impedimentos de sus miembros para conocer de asuntos de su competencia. Si el consejero inmediato fuere el Presidente, de entre los cuatro consejeros restantes elegirán entre sí, por cuando menos tres votos, al consejero que fungirá como Presidente en el caso exclusivo de que se trate.
+El Pleno del Consejo calificará las excusas e impedimentos de sus miembros para conocer de asuntos de su competencia. Si el consejero impedido fuere el Presidente, de entre los seis consejeros restantes elegirán entre sí, por cuando menos cuatro votos, al consejero que fungirá como Presidente en el caso exclusivo de que se trate.
 
 ###### Artículo 147.
 
 El Consejero que en cualquier asunto disintiere de la mayoría, podrá formular voto particular, el cual se deberá insertar en el acta respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 148.
 
 Son atribuciones del Pleno del Consejo de la Judicatura:
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-I. Establecer las comisiones que estime convenientes para su adecuado funcionamiento, y designar a los consejeros que deban integrarlas.
+I. Establecer las comisiones que estime convenientes para su adecuado funcionamiento, y designar a los consejeros que deban integrarlas;
 
 II. Expedir los reglamentos interiores en materia administrativa, de Carrera Judicial, de escalafón y régimen disciplinario del Poder Judicial del Estado, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-III.- Dictar las bases generales de organización y funcionamiento de sus direcciones;
+III. Dictar las bases generales de organización y funcionamiento de sus direcciones;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-IV. Nombrar, a propuesta del Presidente, al Secretario General, a los directores y jefes de departamento del Consejo de la Judicatura, de conformidad con los requisitos establecidos en esta ley; resolver sobre sus renuncias y licencias; removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncia o querella en los casos que procedan;
+IV. Nombrar a propuesta del Presidente, al Secretario General; y a propuesta de cualquier integrante del Pleno a los directores y jefes de departamento del Consejo de la Judicatura, de conformidad con los requisitos establecidos en esta ley; resolver sobre sus renuncias y licencias; removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncia o querella en los casos que procedan;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-V. Conceder licencias a los directores, al Secretario General y a los Consejeros, en los términos previstos en esta ley;
+V. Conceder licencias a los directores, al Secretario General y a los consejeros, en los términos previstos en esta ley;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-VI. Resolver los conflictos de trabajo suscitados entre el Poder Judicial del Estado y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del Consejo de la Judicatura con excepción de los conflictos relativos a los servidores públicos del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral del Estado;
+VI. Resolver los conflictos de trabajo suscitados entre el Poder Judicial del Estado y sus servidores públicos en términos del la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del Consejo de la Judicatura con excepción de los conflictos relativos a los servidores públicos del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-VII. Designar, a propuesta de su Presidente, al representante del Consejo de la Judicatura ante la Comisión substanciadora para los efectos señalados en la fracción anterior; y
+VII. Designar, a propuesta de su Presidente, al representante del Consejo de la Judicatura ante la Comisión Substanciadora para los efectos señalados en la fracción anterior; y (sic)
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
 VIII. Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2007)</small>
+
 Las resoluciones que se tomen en ejercicio de estas atribuciones, deberán ser por mayoría calificada.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2007)</small>
+IX. Suspender en sus funciones a los jueces de primera instancia, menores y de paz que aparecieren involucrados en la comisión de un delito, y formular denuncia o querella contra ellos en los casos en que proceda;
 
-###### Artículo 148 Bis.
+X. Resolver sobre las quejas administrativas y sobre la responsabilidad de los servidores públicos del Poder Judicial en términos de lo que disponen la Constitución Política del Estado y la ley;
 
-Es atribución del Pleno del Consejo de la Judicatura, conocer y en su caso observar las resoluciones de las comisiones relativas a:
+XI. Aprobar el proyecto del Presupuesto de Egresos del Poder Judicial del Estado con excepción de los del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, el cual se remitirá al presidente del Supremo Tribunal de Justicia para que, junto con los elaborados por los tribunales, se envíe al Titular del Poder Ejecutivo;
 
-I. Determinar el número y los límites territoriales de los partidos judiciales en que se divida el territorio del Estado;
+XII. Dictar las bases generales de organización y funcionamiento de sus órganos auxiliares;
 
-II. Determinar el número y, en su caso, especialización por materia de los juzgados de primera instancia, menores y de paz, en cada uno de los partidos judiciales a que se refiere la fracción anterior;
+XIII. Nombrar, a propuesta que haga su Presidente, al Secretario General, a los directores y a los titulares de los órganos auxiliares del Consejo General del Poder Judicial del Estado; resolver sobre sus renuncias y licencias; removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncia o querella en los casos que procedan;
 
-III. Resolver sobre las quejas administrativas y sobre la responsabilidad de los servidores públicos del Poder Judicial en términos de lo que dispone la Constitución Política del Estado y la ley;
+XIV. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Poder Judicial de la Entidad, a excepción del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, en ejercicio de su Presupuesto de Egresos, se ajusten a los criterios contemplados en la Constitución Política del Estado y los ordenamientos que de ella emanan;
 
-IV. Nombrar a los jueces de primera instancia, menores y de paz, y resolver sobre su ratificación, adscripción, remoción y licencias;
+XV. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público;
 
-V. Acordar las renuncias que presenten los jueces de primera instancia, menores y de paz.
+XVI. Establecer las disposiciones generales necesarias para el ingreso, estímulos, capacitación, ascensos y promociones por escalafón y remoción del personal administrativo de los juzgados de primera instancia, menores y de paz;
 
-VI. Acordar el retiro forzoso de los jueces de primera instancia, menores y de paz;
+XVII. Cambiar la residencia de los juzgados de primera instancia, menores y de paz;
 
-VII. Suspender en sus cargos a los jueces de primera instancia, menores y de paz a solicitud del Procurador General de Justicia del Estado, cuando determine el ejercicio de la acción penal en su contra;
+XVIII. Conceder licencias en los términos previstos en esta ley;
 
-VIII. Suspender en sus funciones a los jueces de primera instancia, menores y de paz que aparecieren involucrados en la comisión de un delito, y formular denuncia o querella contra ellos en los casos en que proceda;
+XIX. Autorizar a los secretarios de los juzgados para desempeñar las funciones de los jueces, en las ausencias temporales de los titulares y facultarlos para designar secretarios interinos;
 
-IX. Aprobar el proyecto del Presupuesto de Egresos del Poder Judicial del Estado con excepción de los del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, el cual se remitirá al presidente del Supremo Tribunal de Justicia para que, junto con los elaborados por los tribunales, se envíe al Titular del Poder Ejecutivo;
+XX. Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los juzgados, cuando en un mismo lugar haya varios de ellos;
 
-X. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Poder Judicial de la Entidad, a excepción del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, en ejercicio de su Presupuesto de Egresos, se ajusten a los criterios contemplados en la Constitución Política del Estado y los ordenamientos que de ella emanen;
+XXI. Resolver los conflictos de trabajo suscitados entre el Poder Judicial del Estado y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del Consejo General, con excepción de los conflictos relativos a los servidores públicos del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral del Estado;
 
-XI. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público;
+XXII. Designar, a propuesta de su Presidente, al representante del Consejo General ante la Comisión Substanciadora para los efectos señalados en la fracción anterior;
 
-XII. Establecer las disposiciones generales necesarias para el ingreso, estímulos, capacitación, ascensos y promociones por escalafón y remoción del personal administrativo de los juzgados de primera instancia, menores y de paz;
+XXIII. Convocar a congresos estatales o regionales de jueces, asociaciones profesionales representativas e instituciones de educación superior, a fin de evaluar el funcionamiento de los órganos del Poder Judicial de la Entidad y proponer las medidas pertinentes para mejorarlos;
 
-XIII. Cambiar la residencia de los juzgados de primera instancia, menores y de paz;
+XXIV. Apercibir, amonestar e imponer multas, hasta de ciento ochenta días del importe del salario mínimo general vigente en la zona metropolitana de Guadalajara al día de cometerse la falta, a quienes falten al respeto a algún órgano o miembro del Poder Judicial del Estado en las promociones que hagan ante el Consejo General del Poder Judicial del Estado;
 
-XIV. Autorizar a los secretarios de los juzgados para desempeñar las funciones de los jueces, en las ausencias temporales de los titulares y facultarlos para designar secretarios interinos;
+XXV. Elaborar anualmente una lista con los nombres de las personas que puedan fungir como auxiliares de la administración de justicia ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y partidos judiciales;
 
-XV. Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los juzgados, cuando en un mismo lugar haya varios de ellos;
+XXVI. Ejercer el Presupuesto de Egresos del Poder Judicial del Estado, con excepción del que corresponde al Supremo Tribunal de Justicia, al Tribunal de lo Administrativo y al Tribunal Electoral;
 
-XVI. Convocar a congresos estatales o regionales de jueces, asociaciones profesionales representativas e instituciones de educación superior, a fin de evaluar el funcionamiento de los órganos del Poder Judicial de la Entidad y proponer las medidas pertinentes para mejorarlos;
+XXVII. Coordinar y supervisar el funcionamiento de los órganos auxiliares del Consejo General del Poder Judicial del Estado;
 
-XVII. Apercibir, amonestar e imponer multas, hasta de ciento ochenta días del importe del salario mínimo general vigente en la zona metropolitana de Guadalajara al día de cometerse la falta, a quienes falten al respecto a algún órgano o miembro del Poder Judicial del Estado en las promociones que hagan ante el Consejo de la Judicatura del Poder Judicial del Estado;
+XXVIII. Nombrar a los servidores públicos de los órganos auxiliares del Consejo General del Poder Judicial del Estado, y acordar lo relativo a sus ascensos, licencias, remociones y renuncias;
 
-XVIII. Elaborar anualmente una lista con los nombres de las personas que puedan fungir como auxiliares de la administración de justicia ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y partidos judiciales;
+XXIX. Fijar los períodos vacacionales de los jueces de primera instancia, menores y de paz;
 
-XIX. Ejercer el Presupuesto de Egresos del Poder Judicial del Estado, con excepción del que corresponde al Supremo Tribunal de Justicia, al Tribunal de lo Administrativo y al Tribunal Electoral;
+XXX. Administrar los bienes muebles e inmuebles del Poder Judicial de la Entidad, a excepción de los que correspondan al Supremo Tribunal de Justicia, al Tribunal de lo Administrativo y al Tribunal Electoral, cuidando su mantenimiento, conservación y acondicionamiento;
 
-XX. Coordinar y supervisar el funcionamiento de las direcciones del Consejo de la Judicatura del Estado;
+XXXI. Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial del Estado;
 
-XXI. Nombrar a los servidores públicos de las direcciones del Consejo de la Judicatura, de conformidad con lo que establece esta ley; y acordar lo relativo a sus ascensos, licencias, remociones y renuncias;
+XXXII. Investigar y determinar las responsabilidades de los servidores públicos del propio Consejo, de los juzgados de primera instancia, menores y de paz; en su caso, imponer las sanciones, en los términos y mediante los procedimientos establecidos en las leyes, en los reglamentos y acuerdos que el Consejo dicte en materia disciplinaria;
 
-XXII. Fijar los períodos vacacionales de los jueces de primera instancia, menores y de paz.
+XXXIII. Realizar visitas extraordinarias o integrar comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno del Supremo Tribunal de Justicia, sin perjuicio de las facultades que correspondan a la Visitaduría Judicial o a la Contraloría del Poder Judicial del Estado;
 
-XXIII. Administrar los bienes muebles e inmuebles del Poder Judicial de la Entidad, a excepción de los que correspondan al Supremo Tribunal de Justicia, al Tribunal de lo Administrativo y al Tribunal Electoral, cuidando su mantenimiento, conservación y acondicionamiento;
+XXXIV. Dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de los juzgados de primera instancia, menores y de paz y órganos auxiliares del Consejo General del Poder Judicial del Estado;
 
-XXIV. Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial del Estado;
+XXXV. Regular las autorizaciones para abandonar el lugar de residencia de los funcionarios judiciales en los casos contemplados en el presente ordenamiento;
 
-XXV. Investigar y determinar las responsabilidades de los servidores públicos del propio Consejo, de los juzgados de primera instancia, menores y de paz; en su caso, imponer las sanciones, en los términos y mediante los procedimientos establecidos en las leyes, en los reglamentos y acuerdos que el Consejo dicte en materia disciplinaria;
+XXXVI. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados; y
 
-XXVI. Realizar visitas extraordinarias o integrar comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno del Supremo Tribunal de Justicia, sin perjuicio de las facultades que correspondan a la Visitaduría Judicial o a la Contraloría del Poder Judicial del Estado;
+XXXVII. Desempeñar cualquier otra función que la ley encomiende al Consejo General del Poder Judicial del Estado.
 
-XXVII. Dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de los juzgados de primera instancia, menores y de paz y direcciones del Consejo de la Judicatura;
-
-XXVIII. Regular las autorizaciones para abandonar el lugar de residencia de los funcionarios judiciales en los caos contemplados en el presente ordenamiento; y
-
-XXIX. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 149.
 
 El Pleno del Consejo de la Judicatura contará con los servidores públicos superiores que establece el presente ordenamiento y el personal subalterno que permita el Presupuesto, los cuales podrán ser nombrados y removidos de conformidad con lo previsto en la presente ley.
 
-En todo caso, los servidores Públicos de confianza, serán nombrados mediante concurso de oposición de conformidad con las disposiciones establecidas en la presente ley, con la salvedad de que el Director de Formación y Actualización Judicial será sustituido en el comité que elaborará los cuestionarios, por el Director de Planeación, administración y Finanzas o por el Director de Contraloría y Evaluación, cuando la vacante a cubrirse sea de sus áreas respectivas.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ENERO DE 2007)</small>
-
 ### CAPÍTULO IV. DE LAS COMISIONES DEL CONSEJO
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
 
 ###### Artículo 150.
 
-El Pleno del Consejo de la Judicatura estará presidido por el magistrado que funja como Presidente del Supremo Tribunal de Justicia, quien ejercerá las atribuciones que le confiere el presente ordenamiento.
+El Pleno del Consejo General del Poder Judicial del Estado estará presidido por el magistrado que funja como Presidente del Supremo Tribunal de Justicia, quien ejercerá las atribuciones que le confiere el presente ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 151.
 
 Son atribuciones del Presidente del Consejo de la Judicatura, las siguientes:
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
 I. Representar al Consejo de la Judicatura del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-II. Tramitar los asuntos de la competencia del Pleno del Consejo de la Judicatura, y turnar los expedientes entre sus integrantes para que formulen los correspondientes proyectos de resolución;
+II. Tramitar los asuntos de la competencia del pleno del Consejo de la Judicatura, y turnar los expedientes entre sus integrantes para que formulen los correspondientes proyectos de resolución;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
 III. Presidir el Pleno del Consejo de la Judicatura del Estado, dirigir los debates y conservar el orden en las sesiones;
 
 IV. Despachar la correspondencia oficial del Consejo, salvo la reservada a los presidentes de las comisiones;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-V. Proponer al Pleno del Consejo de la Judicatura del Estado los nombramientos del Secretario General, de los directores y del representante del Consejo, ante la correspondiente Comisión Substanciadora;
+V. Proponer al Pleno del Consejo de la Judicatura del Estado, el nombramiento del Secretario General;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
 VI. Vigilar el funcionamiento de las direcciones del Consejo de la Judicatura del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
 VII. Informar al Congreso del Estado de las vacantes que se produzcan en el Consejo de la Judicatura que deban ser cubiertas mediante sus respectivos nombramientos;
 
 VIII. Otorgar licencias en los términos previstos en esta ley;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-IX. Firman las resoluciones y acuerdos del Pleno del Consejo de la Judicatura del Estado, y legalizar, por sí o por conducto del Secretario General, la firma de los servidores públicos del Poder Judicial del Estado en los casos en que la ley exija este requisito; y
+IX. Firmar las resoluciones y acuerdos del Pleno del Consejo de la Judicatura del Estado, y legalizar, por sí o por conducto del Secretario General, la firma de los servidores públicos del Poder Judicial del Estado en los casos en que la ley exija este requisito; y
 
 X. Las demás que determinen las leyes, los correspondientes reglamentos interiores y acuerdos generales.
 
 ### CAPÍTULO V. DE LA SECRETARIA GENERAL DEL CONSEJO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 152.
 
-El Consejo de la Judicatura del Estado contará con las siguientes comisiones permanentes:
+El Consejo General del Poder Judicial del Estado contará con las comisiones permanentes o transitorias que determine el Pleno del mismo, debiendo existir en todo caso las de administración, Carrera Judicial, disciplina, creación de nuevos órganos y la de adscripción.
 
-I.- Administración;
-
-II.- Carrera Judicial; y
-
-III.- Vigilancia.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2007)</small>
-
-###### Artículo 152 Bis.
-
-Es facultad de la Comisión de Administración conocer y resolver de los asuntos competencia del Consejo de la Judicatura, relativos a:
-
-I. La administración de los recursos financieros, humanos y materiales;
-
-II. El proyecto de presupuesto de egresos;
-
-III. La planeación de las actividades; y
-
-IV. El conocimiento de los asuntos que establezca el reglamento.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2007)</small>
-
-###### Artículo 152 Ter.
-
-Es facultad de la Comisión de Carrera Judicial conocer y resolver de los asuntos competencia del Consejo de la Judicatura, relativos a:
-
-I. La carrera Judicial;
-
-II. El nombramiento y adscripción de jueces;
-
-III. Determinar el número y ubicación de juzgados; y
-
-IV. El conocimiento de los asuntos que establezca el reglamento.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2007)</small>
-
-###### Artículo 152 Quáter.
-
-Es facultad de la Comisión de Vigilancia conocer y resolver de los asuntos competencia del Consejo de la Judicatura, relativos a:
-
-I. La disciplina de los Servidores Públicos del Poder Judicial, mediante su vigilancia e imposición de sanciones;
-
-II. La evaluación del desempeño de los Servidores Públicos del Poder Judicial; y
-
-III. El conocimiento de los asuntos que establezca el reglamento.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 153.
 
-Cada Comisión será presidida por uno de los Consejeros Ciudadanos, y se integrará además por el Consejero Juez y el Consejero Presidente, ambos con el carácter de vocales.
+Cada comisión se integrará por dos Consejeros ciudadanos, el Consejero Juez y el Consejero Presidente.
 
 ###### Artículo 154.
 
 Son atribuciones de cada comisión, elaborar dictámenes de resoluciones de los asuntos que les sean turnados por acuerdo del Pleno del Consejo, así como emitir los acuerdos necesarios para el adecuado desempeño de sus atribuciones.
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2007)</small>
 
-Los dictámenes de las comisiones, serán turnados con su expediente completo al Pleno.
+Los dictámenes de las comisiones que así establezca el Pleno, serán turnados con su expediente completo al Pleno.
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2007)</small>
 
-En caso de que el Pleno regrese un dictamen con observaciones, la Comisión deberá aprobarlo por unanimidad. Si el dictamen no obtuviere la votación requerida se tiene por rechazado y no puede presentarse en el mismo sentido, hasta después de transcurridos 30 días.
+En caso de que el Pleno regrese un dictamen con observaciones, la Comisión deberá realizar un nuevo proyecto atendiendo las mismas.
 
 ###### Artículo 155.
 
 Los dictámenes y acuerdos de las comisiones se tomarán por mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal. Las comisiones calificarán las excusas e impedimentos de sus miembros.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 156.
 
-Cuando alguno de los consejeros se excuse de conocer un asunto en comisión, se informará al pleno para que designe otro consejero que lo supla en la misma, exclusivamente para ese asunto. Si la comisión es incompetente para conocer del asunto, deberá regresarlo al pleno para que este lo turne a la comisión competente. En ambos casos deberá ser dentro de los quince días siguientes a aquél en que le fue turnado.
+Cada comisión nombrará a su respectivo Presidente y determinarán, por medio de acuerdos, el tiempo que deba permanecer en el cargo y las funciones que deba ejercer.
 
-Las comisiones deben resolver los asuntos que les sean turnados, en un término de treinta días, que el pleno podrá prorrogar por otros quince, a solicitud de la comisión. En caso de no cumplir con el término, el pleno podrá crear una comisión especial para que resuelva el asunto.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 157.
 
-(DEROGADO, P.O. 19 DE ENERO DE 2007)
+Cada comisión nombrará su respectivo presidente y determinarán de conformidad a sus acuerdos el tiempo que deba permanecer en el cargo y las funciones que deba ejercer.
 
-### CAPÍTULO VI. DE LA FORMACIÓN Y ACTUALIZACIÓN JUDICIAL
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+### CAPÍTULO VI. DE LA CAPACITACIÓN DE LOS INTEGRANTES DEL PODER JUDICIAL
 
 ###### Artículo 158.
 
-El Consejo de la Judicatura del Estado contará con un Secretario General que se encargará de:
+El Consejo General del Poder Judicial del Estado contará con un Secretario General que se encargará de:
 
 I. Formular las actas de las sesiones y presentarlas a los consejeros para que las revisen y en su caso las firmen;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-II. Coordinar las actividades de las direcciones del Consejo de la Judicatura;
+II. Coordinar las actividades de las direcciones y organismos auxiliares del Consejo General;
 
 III. Actuar como jefe de personal, asumiendo la responsabilidad de los trabajos encargados a éste;
 
-I(REFORMADA, P.O. 19 DE ENERO DE 2007)
+IV. Cuidar que se cumplimenten los acuerdos del Consejo General del Poder Judicial del Estado;
 
-IV. Cuidar que se cumplimenten los acuerdos del Consejo de la Judicatura del Estado;
+V. Dar cuenta al Pleno del Consejo General de las faltas cometidas por los empleados en el desempeño de sus funciones para que acuerde lo conducente;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-V. Dar cuenta al Pleno del Consejo de la Judicatura de las faltas cometidas por los empleados en el desempeño de sus funciones para que acuerde lo conducente;
-
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-VI. Llevar al corriente el libro de actas de sesiones y el registro de los documentos recibidos por el Consejo de la Judicatura, así como de los documentos que se turnen a los consejeros para su estudio y proyecto;
+VI. Llevar al corriente el libro de actas de sesiones y el registro de los documentos recibidos por el Consejo General, así como de los documentos que se turnen a los consejeros para su estudio y proyecto;
 
 VII. Asistir y colaborar con la Presidencia para el desarrollo de las sesiones y ejecutar las órdenes que ésta le dicte;
 
 VIII. Asistir a los consejeros para el correcto desarrollo de sus funciones, ya sea en comisiones o individualmente;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+IX. Elaborar programas de trabajo administrativo de conformidad con los acuerdos y disposiciones aprobadas por el Pleno del Consejo General del Poder Judicial;
 
-IX. Elaborar programas de trabajo administrativo de conformidad con los acuerdos y disposiciones aprobadas por el Pleno del Consejo de la Judicatura;
+X. Coordinar, supervisar y evaluar el trabajo de las diversas direcciones y demás dependencias integrantes del Consejo General;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+XI. Por acuerdo del Pleno, certificar los originales y copias de los documentos que obren en el archivo del Consejo General del Poder Judicial; y
 
-X. Coordinar, supervisar y evaluar el trabajo de las diversas direcciones y demás dependencias integrantes del Consejo de la Judicatura;
-
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-XI. Por acuerdo del Pleno, certificar los originales y copias de los documentos que obren en el archivo del Consejo de la Judicatura; y
-
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-XII. Las demás que le sean conferidas por la presente ley, el reglamento interno del Consejo de la Judicatura y los acuerdos que el Pleno del mismo emita.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+XII. Las demás que le sean conferidas por la presente ley, el reglamento interno del Consejo General del Poder Judicial y los acuerdos que el Pleno del mismo emita.
 
 ###### Artículo 159.
 
-Para el adecuado funcionamiento de sus atribuciones, el Consejo de la Judicatura del Estado, contará con las direcciones de:
-
-I. Visitaduría, Disciplina y Responsabilidades;
-
-II. Planeación, Administración y Finanzas;
-
-III. Contraloría y Evaluación;
-
-IV. Formación y Actualización Judicial; y
-
-V. Oficialía de Partes y Archivo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
+Para el adecuado funcionamiento de sus atribuciones, el Consejo General del Poder Judicial del Estado, contará con las direcciones de Investigación y Capacitación, de Visitaduría, de Administración y Contraloría del Poder Judicial, de Disciplina, Responsabilidades y Carrera Judicial, y la Dirección de Archivo, Ediciones y Boletín Judicial.
 
 ###### Artículo 160.
 
-Los titulares de las Direcciones de Planeación, Administración y Finanzas y de Contraloría y Evaluación deberán reunir los siguientes requisitos:
+El titular de la Dirección de Administración y de Contraloría del Poder Judicial deberá reunir los siguientes requisitos:
 
 I. Tener al día del nombramiento cuando menos treinta años cumplidos;
 
@@ -2479,35 +2299,27 @@ IV. Gozar de reconocida probidad y honradez; y
 
 V. No haber sido condenado por delito doloso.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 161.
 
-El Secretario General del Consejo y los directores de Visitaduría, Disciplina y Responsabilidades, Formación y Actualización Judicial, y de Oficialía de Partes y Archivo, además de reunir los requisitos que contemplan las fracciones I, III, IV y V del artículo anterior, deberán tener título profesional de licenciado en derecho o abogado expedido legalmente con anterioridad mínima de cinco años y deberán ser electos mediante concurso de oposición de conformidad con las disposiciones de la presente ley.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ENERO DE 2007)</small>
+El Secretario General del Consejo y los directores de Visitaduría, Disciplina y Responsabilidades, Formación y Actualización Judicial, y de Oficialía de Partes y Archivo, además de reunir los requisitos que contemplar (sic) las fracciones I, III, IV y V del artículo anterior, deberán tener título profesional de licenciado en derecho o abogado expedido legalmente con anterioridad mínima de cinco años.
 
 ### CAPÍTULO VII. DE LAS VISITAS DE INSPECCIÓN JUDICIAL
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 162.
 
-El Instituto de Formación y Actualización Judicial es la dependencia de la dirección de Formación y Actualización Judicial, encargada de la investigación, formación, capacitación y actualización de los miembros del Poder Judicial y de quienes aspiren a pertenecer a éste.
+Corresponde a la Dirección de Investigación y Capacitación auxiliar al Consejo General del Poder Judicial del Estado en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial y de quienes aspiren a pertenecer a éste.
 
-El Consejo de la Judicatura podrá coordinarse y convenir con el Instituto General de Capacitación del Consejo de la Judicatura Federal y con las universidades del Estado, para que auxilien al Instituto de Formación y Actualización Judicial con apoyos académicos para la realización de las tareas señaladas en el párrafo anterior.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+El Consejo General del Poder Judicial podrá coordinarse y convenir con el Instituto General de Capacitación del Consejo de la Judicatura Federal y con las universidades del Estado, para que auxilien a la Dirección de Investigación y Capacitación con apoyos académicos para la realización de las tareas señaladas en el párrafo anterior.
 
 ###### Artículo 163.
 
-El Instituto de Formación y Actualización Judicial contará con un Comité Académico que tendrá como función determinar los programas de investigación, preparación y capacitación de los servidores públicos del Poder Judicial, los mecanismos de evaluación y rendimiento y la participación de los exámenes de oposición.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
+La Dirección de Investigación y Capacitación contará con un Comité Académico que tendrá como función determinar los programas de investigación, preparación y capacitación de los servidores públicos del Poder Judicial, los mecanismos de evaluación y rendimiento y la participación en los exámenes de oposición.
 
 ###### Artículo 164.
 
-Los programas y cursos que imparta tendrán como objeto lograr que los integrantes del Poder Judicial del Estado o quienes aspiren a ingresar a éste, fortalezcan los conocimientos y habilidades necesarios para el adecuado desempeño de la función judicial. Para ello, el Instituto de Formación y Actualización Judicial establecerá los programas y cursos tendientes a:
+Los programas y cursos que imparta tendrán como objeto lograr que los integrantes del Poder Judicial del Estado o quienes aspiren a ingresar a éste, fortalezcan los conocimientos y habilidades necesarios para el adecuado desempeño de la función judicial. Para ello, la Dirección de Investigación y Capacitación establecerá los programas y cursos tendientes a:
 
 I. Desarrollar el conocimiento práctico de los trámites, diligencias y actuaciones que forman parte de los procedimientos y asuntos de la competencia del Poder Judicial del Estado;
 
@@ -2523,11 +2335,9 @@ VI. Contribuir al desarrollo de la vocación de servicio así como al ejercicio 
 
 VII. Promover intercambios académicos con instituciones de educación superior.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 165.
 
-El Instituto de Formación y Actualización Judicial programará e impartirá cursos de preparación para los exámenes correspondientes a las distintas categorías de la Carrera Judicial.
+La Dirección de Investigación y Capacitación programará e impartirá cursos de preparación para los exámenes correspondientes a las distintas categorías de la Carrera Judicial.
 
 ###### Artículo 166.
 
@@ -2535,17 +2345,17 @@ La dirección contará con un área de investigación, la cual tendrá como func
 
 ### CAPÍTULO VIII. DE LA ADMINISTRACIÓN Y CONTRALORÍA DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 167.
 
-La Dirección de Visitaduría, Disciplina y Responsabilidades es el órgano encargado de inspeccionar el funcionamiento de los juzgados de primera instancia, menores y de paz y para supervisar la conducta de los integrantes de estos órganos.
+La Dirección de Visitaduría Judicial es el órgano encargado de inspeccionar el funcionamiento de los juzgados de primera instancia, menores y de paz y para supervisar la conducta de los integrantes de éstos órganos.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
 
 ###### Artículo 168.
 
-La dirección de Visitaduría, Disciplina y Responsabilidades contará con un cuerpo de servidores públicos denominados visitadores, quienes tendrán el carácter de autoridad del Consejo de la Judicatura para los efectos de sus funciones.
+La Dirección de Visitaduría contará con un cuerpo de servidores públicos denominados visitadores, quienes tendrán el carácter de autoridad del Consejo General del Poder Judicial para los efectos de sus funciones.
 
 ###### Artículo 169.
 
@@ -2561,19 +2371,17 @@ IV. No haber sido condenado por delito doloso; y
 
 V. Gozar de reconocida probidad y honradez.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 170.
 
-La designación de los visitadores se hará por el Pleno del Consejo de la Judicatura del Estado, mediante el concurso de oposición que se lleve a cabo en los términos previstos en el presente ordenamiento para el nombramiento de jueces.
+La designación de los visitadores se hará por el Pleno del Consejo de la Judicatura del Estado.
 
-El Pleno del Consejo de la Judicatura establecerá, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los visitadores para los efectos del adecuado cumplimiento de sus funciones.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+El Pleno del Consejo de la Judicatura establecerá mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los visitadores para los efectos del adecuado cumplimiento de sus funciones.
 
 ###### Artículo 171.
 
-Los visitadores deberán inspeccionar de manera ordinaria los juzgadores de primera instancia, menores y de paz, cuando menos dos veces por año, de acuerdo con los sorteos periódicos que realice el Director. Las visitas se realizarán ajustándose en todo momento con las disposiciones generales que emita el Pleno del Consejo de la Judicatura al respecto.
+Los visitadores deberán inspeccionar de manera ordinaria los juzgados de primera instancia, menores y de paz, cuando menos dos veces por año, de acuerdo con los sorteos periódicos que realice el Director. Las visitas se realizarán ajustándose en todo momento con las disposiciones generales que emita el Pleno del Consejo General del Poder Judicial al respecto.
 
 ###### Artículo 172.
 
@@ -2599,9 +2407,7 @@ V. Hacer constar el número de asuntos penales y civiles, mercantiles y de lo fa
 
 VI. Examinar los expedientes formados con motivo de las causas penales, civiles mercantiles y de lo familiar que estimen convenientes a fin de verificar que se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y despachos han sido diligenciados y se han observado los términos constitucionales y demás garantías procesales; y
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-VII. Las demás que le determine el Pleno del Consejo de la Judicatura por medio de acuerdos generales.
+VII. Las demás que le determine el Pleno del Consejo General por medio de acuerdos generales.
 
 ###### Artículo 174.
 
@@ -2623,49 +2429,35 @@ V. Las manifestaciones que respecto de la visita o del contenido del acta quisie
 
 VI. La firma del Visitador y del titular del órgano jurisdiccional correspondiente.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 176.
 
-Del acta elaborada por el Visitador, deberán ser entregadas copias al titular del órgano jurisdiccional visitado y al Director de Visitaduría, Disciplina y Responsabilidades, para que proceda de conformidad con sus facultades y obligaciones.
+Del acta elaborada por el Visitador, deberán ser entregadas copias al titular del órgano jurisdiccional visitado y al Director de Disciplina y Responsabilidades, para que proceda de conformidad con sus facultades y obligaciones.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
 
 ###### Artículo 177.
 
-El Pleno del Consejo de la Judicatura y el Titular de la dirección de Visitaduría, Disciplina y Responsabilidades podrán ordenar en cualquier momento la celebración de visitas extraordinarias de inspección, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por cualquier servidor público adscrito al juzgado de Primera Instancia, Menor y de Paz.
+El Pleno del Consejo General del Poder Judicial y el Titular de la Dirección de Visitaduría podrán ordenar en cualquier momento la celebración de visitas extraordinarias de inspección, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por cualquier servidor público adscrito al Juzgado de Primera Instancia, Menor o de Paz.
 
 ### CAPÍTULO IX. DE LA CARRERA JUDICIAL
 
 ###### Artículo 178.
 
-Las Direcciones de Planeación, Administración y Finanzas y de Contraloría y Evaluación, tendrá a su cargo el control y la inspección respectivamente del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos, servidores públicos y empleados del propio Poder Judicial del Estado, con excepción de aquéllas que correspondan al Supremo Tribunal de Justicia, al Tribunal de lo Administrativo y al Tribunal Electoral.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+Las Direcciones de Planeación, Administración y Finanzas y de Contraloría y Evaluación, tendrán a su cargo el control y la inspección respectivamente del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos, servidores públicos y empleados del propio Poder Judicial del Estado, con excepción de aquellas que correspondan al Supremo Tribunal de Justicia, al Tribunal de lo Administrativo y al Tribunal Electoral.
 
 ###### Artículo 179.
 
-La Dirección de Planeación, Administración y Finanzas, contará con las siguientes atribuciones:
+La Dirección de Administración y Contraloría del Poder Judicial contará con las siguientes atribuciones:
 
-I. Vigilar el cumplimiento de las normas de control establecidas por el Consejo de la Judicatura del Estado; y
+I. Vigilar el cumplimiento de las normas de control establecidas por el Consejo General del Poder Judicial del Estado;
 
-II. Elaborar los dictámenes de proyectos de Presupuesto de Egresos, planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos de los órganos jurisdiccionales dependientes del Consejo de la Judicatura, para que sean sometidos a la aprobación del Pleno del propio Consejo.
+II. Elaborar los dictámenes de proyectos de Presupuesto de Egresos, planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos de los órganos jurisdiccionales dependientes del Consejo General del Poder Judicial, para que sean sometidos a la aprobación del Pleno del propio Consejo; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2007)</small>
-
-###### Artículo 179 Bis.
-
-La Dirección de Contraloría y Evaluación contará con las siguientes atribuciones:
-
-I. Comprobar el cumplimiento por parte de los órganos administrativos de cada órgano jurisdiccional, respecto de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos.
+III. Comprobar el cumplimiento por parte de los órganos administrativos de cada órgano jurisdiccional, respecto de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos.
 
 ### CAPÍTULO X. DEL INGRESO A LA CARRERA JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
-
 ### CAPÍTULO XI. DE LA ADSCRIPCIÓN Y RATIFICACIÓN DE FUNCIONARIOS JUDICIALES
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
 
 ###### Artículo 180.
 
@@ -2705,35 +2497,31 @@ XII. Actuario; y
 
 XIII. Juez Menor y Juez de Paz.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 182.
 
-El Consejo de la Judicatura del Estado establecerá, de acuerdo con su Presupuesto de Egresos y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos de especialización realizados, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios, respetando los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación.
+El Consejo General del Poder Judicial del Estado establecerá, de acuerdo con su Presupuesto de Egresos y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos de especialización realizados, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios, respetando los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación.
 
-### CAPÍTULO XII. DE LA OFICIALÍA DE PARTES Y ARCHIVO
+### CAPÍTULO XII. DEL ARCHIVO Y BOLETÍN JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 183.
 
-El ingreso y promoción para las categorías de Juez de Primera Instancia, especializados y mixtos, se realizará a través de concurso interno de oposición y oposición libre en la proporción que fije el Pleno del Consejo de la Judicatura del Estado.
+El ingreso y promoción para las categorías de Juez de Primera Instancia, especializados y mixtos, se realizará a través de concurso interno de oposición y oposición libre en la proporción que fije el Pleno del Consejo General del Poder Judicial del Estado.
 
 En los concursos internos de oposición para la plaza de Juez de Primera Instancia Especializado, únicamente podrán participar los jueces de primera instancia mixtos.
 
 Para los concursos internos de plaza de Juez Mixto de Primera Instancia, podrán participar el Secretario General de Acuerdos de Tribunal, el Subsecretario General de Acuerdos de Tribunal, los secretarios relatores de magistrados, los secretarios de acuerdos de Sala, los secretarios de juzgado de primera instancia, los notificadoree (sic), actuarios y los jueces menores y de paz.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
-El Consejo de la Judicatura del Estado tendrá la facultad de obtener y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
+El Consejo General del Poder Judicial del Estado tendrá la facultad de obtener y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
 
 ###### Artículo 184.
 
 Los concursos de oposición para el ingreso a las categorías de Juez Especializado o Juez Mixto de Primera Instancia, se sujetarán al siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-I.- El Consejo de la Judicatura del Estado emitirá una convocatoria que deberá ser publicada por una vez en el Boletín Judicial, y en tres de los diarios de mayor circulación en el Estado. En la convocatoria, se deberá especificar si el concurso se trata de concurso abierto de oposición o de concurso interno de oposición.
+I. El Consejo General del Poder Judicial del Estado emitirá una convocatoria que deberá ser publicada por una vez en el Boletín Judicial, y en tres de los diarios de mayor circulación en el Estado. En la convocatoria, se deberá especificar si el concurso se trata de concurso abierto de oposición o de concurso interno de oposición.
 
 La convocatoria señalará las categorías y número de vacantes sujetas a concurso, el lugar, día y hora en que se llevarán a cabo los exámenes, así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios;
 
@@ -2743,45 +2531,35 @@ De entre el número total de aspirantes sólo tendrán derecho a pasar a la sigu
 
 III. Los aspirantes seleccionados, en términos de la fracción anterior, resolverán los casos prácticos que se les asignen mediante la redacción de sentencias. Posteriormente se procederá a la realización del examen oral y público que practique el jurado, mediante preguntas e interpelaciones que realicen sus miembros sobre toda clase de cuestiones relativas a la función que se les encomendaría. La calificación final se determinará con el promedio de los puntos que cada miembro del jurado le asigne al sustentante.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+Al llevar a cabo su evaluación, el Jurado tomará en consideración los cursos y estudios que haya realizado el sustentante, la antigüedad en el Poder Judicial del Estado, el desempeño, el grado académico y los cursos de actualización y especialización que haya acreditado, en términos del reglamento que dicte el Consejo General del Poder Judicial. Cuando ningún sustentante alcance el puntaje mínimo requerido, el concurso se declarará desierto; y
 
-Al llevar a cabo su evaluación, el Jurado tomará en consideración los cursos y estudios que haya realizado el sustentante, la antigüedad en el Poder Judicial del Estado, el desempeño, el grado académico y los cursos de actualización y especialización que haya acreditado, en términos del reglamento que dicte el Consejo de la Judicatura. Cuando ningún sustentante alcance el puntaje mínimo requerido, el concurso se declarará desierto; y
-
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-IV. Concluidos los exámenes orales, se levantará un acta final y el presidente del Jurado declarará quiénes son los concursantes que hubieren resultado aprobados y el medio de selección utilizado, e informará de inmediato al Consejo de la Judicatura para que expida los nombramientos respectivos y los publique en el Boletín Judicial del Estado.
+IV. Concluidos los exámenes orales, se levantará un acta final y el presidente del Jurado declarará quienes son los concursantes que hubieren resultado aprobados y el medio de selección utilizado, e informará de inmediato al Consejo General para que expida los nombramientos respectivos y los publique en el Boletín Judicial del Estado.
 
 ###### Artículo 185.
 
 Para acceder a las categorías de Secretario General de Acuerdos de Tribunal, Subsecretario General de Acuerdos de Tribunal, Secretario Relator, Secretario de Acuerdos de Sala, Secretario de Juzgado Especializado de Primera Instancia, Secretario de Juzgado Mixto de Primera Instancia, Notificador, Actuario del Poder Judicial del Estado, Juez Menor y Juez de Paz, se requerirá el acreditamiento de un examen de aptitud.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
-El Consejo de la Judicatura del Estado tendrá la facultad de obtener y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+El Consejo General del Poder Judicial del Estado tendrá la facultad de obtener y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
 
 ###### Artículo 186.
 
-La celebración y organización de los exámenes de aptitud para las categorías a que se refiere el artículo anterior, estarán a cargo de el Instituto de Formación y Actualización Judicial en términos de las bases que determina el Consejo de la Judicatura del Estado, de conformidad con lo que disponen esta ley y el reglamento respectivo.
+La celebración y organización de los exámenes de aptitud para las categorías a que se refiere el artículo anterior, estarán a cargo de la Dirección de Investigación y Capacitación en términos de las bases que determine el Consejo General del Poder Judicial del Estado, de conformidad con lo que disponen esta ley y el reglamento respectivo.
 
-Los exámenes de aptitud se realizarán a petición del titular del órgano que deba llevar a cabo la correspondiente designación, debiendo preferir a quienes se encuentren en las categorías inmediatas inferiores. Igualmente podrán solicitar que se practique un examen de aptitud, las personas interesadas en ingresar a las categorías señaladas en el primer párrafo de este artículo, quienes de aprobarlo serán consideradas en la lista que deba integrar el Consejo de la Judicatura del Estado, para ser tomados en cuenta en caso de presentarse una vacante en alguna de esas categorías.
+Los exámenes de aptitud se realizarán a petición del titular del órgano que deba llevar a cabo la correspondiente designación, debiendo preferir a quienes se encuentren en las categorías inmediatas inferiores. Igualmente podrán solicitar que se practique un examen de aptitud, las personas interesadas en ingresar a las categorías señaladas en el primer párrafo de este artículo, quienes de aprobarlo serán consideradas en la lista que deba integrar el Consejo General del Poder Judicial del Estado, para ser tomados en cuenta en caso de presentarse una vacante en alguna de esas categorías.
 
-El Consejo de la Judicatura del Estado establecerá, mediante disposiciones generales, el tiempo máximo en que las personas aprobadas en los términos del párrafo anterior permanezcan en dicha lista.
+El Consejo General del Poder Judicial del Estado establecerá, mediante disposiciones generales, el tiempo máximo en que las personas aprobadas en los términos del párrafo anterior permanezcan en dicha lista.
 
-Antes de designar a la persona que deba ocupar el cargo, el titular del órgano deberá solicitar al Consejo de la Judicatura, que le ponga a la vista la relación de las personas que se encuentren en aptitud de ocupar la vacante.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+Antes de designar a la persona que deba ocupar el cargo, el titular del órgano deberá solicitar al Consejo General del Poder Judicial del Estado, que le ponga a la vista la relación de las personas que se encuentren en aptitud de ocupar la vacante.
 
 ###### Artículo 187.
 
-Los cuestionarios y casos prácticos serán elaborados por un comité integrado por un miembro del Consejo de la Judicatura (sic) Estado, quien lo presidirá, por un Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo o del Tribunal Electoral, dependiendo de la categoría para la cual se concursa, y por el Director de Formación y Actualización Judicial. La designación de los miembros del comité se hará en los términos que establezca el reglamento respectivo.
+(DEROGADO, P.O. 20 DE ENERO DE 2007)
 
 ###### Artículo 188.
 
 El Jurado encargado de los exámenes orales se integrará por:
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
 I. Un miembro del Consejo de la Judicatura del Estado, quien lo presidirá;
 
@@ -2789,27 +2567,23 @@ II. Un Magistrado del Supremo Tribunal de Justicia;
 
 III. Un Juez de Primera Instancia ratificado; y
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-IV. El director de Formación y Actualización Judicial.
+IV. El titular del Instituto de Formación y Actualización Judicial.
 
 Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento correspondiente.
 
 ### CAPÍTULO I. DE LOS MAGISTRADOS Y CONSEJEROS
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 189.
 
-Corresponde al Pleno del Consejo de la Judicatura del Estado, asignar la competencia territorial y el órgano en que deban ejercer sus funciones los jueces especializados y mixtos de primera instancia y jueces menores y de paz. Asimismo, le corresponde readscribirlos a una competencia territorial o a un órgano de materia distinta, siempre que las necesidades del servicio así lo requieran y exista causa fundada y suficiente para ello.
+Corresponde al Pleno del Consejo General del Poder Judicial del Estado, asignar la competencia territorial y el órgano en que deban ejercer sus funciones los jueces especializados y mixtos de primera instancia y jueces menores y de paz. Asimismo, le corresponde readscribirlos a una competencia territorial o a un órgano de materia distinta, siempre que las necesidades del servicio así lo requieran y exista causa fundada y suficiente para ello.
 
-Siempre que fuere posible, y en términos de lo dispuesto en este capítulo, el Consejo de la Judicatura del Estado establecerá las bases para que los jueces puedan elegir la plaza y materia del órgano de adscripción.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
+Siempre que fuere posible, y en términos de lo dispuesto en este capítulo, el Consejo General del Poder Judicial del Estado establecerá las bases para que los jueces puedan elegir la plaza y materia del órgano de adscripción.
 
 ###### Artículo 190.
 
-En aquellos casos en que para la primera adscripción de jueces hubieran varias plazas vacantes, el Consejo de la Judicatura del Estado tomará en consideración, de conformidad con el acuerdo respectivo, los siguientes elementos:
+En aquellos casos en que para la primera adscripción de jueces hubieran varias plazas vacantes, el Consejo General del Poder Judicial del Estado tomará en consideración, de conformidad con el acuerdo respectivo, los siguientes elementos:
 
 I. La calificación obtenida en el concurso de oposición;
 
@@ -2818,10 +2592,6 @@ II. La antigüedad en el Poder Judicial del Estado o la experiencia profesional;
 III. En su caso, el desempeño en el Poder Judicial de la Entidad; y
 
 IV. El grado académico que comprende el nivel de estudios con que cuente el servidor público así como los diversos cursos de actualización y especialización acreditados de manera fehaciente.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2007)</small>
-
-El valor de cada elemento se determinará en el reglamento respectivo y deberá constar en las resoluciones del Consejo de la Judicatura del Estado en que se acuerde un cambio de adscripción.
 
 ###### Artículo 191.
 
@@ -2837,15 +2607,11 @@ IV. Los resultados de las visitas de inspección; y
 
 V. La disciplina y desarrollo profesional.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
-El valor de cada elemento se determinará en el reglamento respectivo y deberá constar en las resoluciones del Consejo de la Judicatura del Estado en que se acuerden un cambio de adscripción.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
+El valor de cada elemento se determinará en el reglamento respectivo y deberá constar en las resoluciones del Consejo General del Poder Judicial del Estado en que se acuerde un cambio de adscripción.
 
 ###### Artículo 192.
 
-Para la ratificación de los jueces de primera instancia, el Consejo de la Judicatura del Estado tomará en consideración, de conformidad con el reglamento respectivo, los siguientes elementos:
+Para la ratificación de los jueces de primera instancia, el Consejo General del Poder Judicial del Estado tomará en consideración, de conformidad con el reglamento respectivo, los siguientes elementos:
 
 I. El desempeño que se haya tenido en el ejercicio de su función;
 
@@ -2857,8 +2623,6 @@ IV. No haber sido sancionado por falta grave, con motivo de una queja de caráct
 
 V. Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la ratificación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ENERO DE 2007)</small>
-
 ### CAPÍTULO II. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS FUNCIONARIOS JUDICIALES
 
 ###### Artículo 193.
@@ -2867,23 +2631,21 @@ La dirección de Oficialía de Partes y Archivo, tendrá las siguientes atribuci
 
 I. En el área de archivo, organizar, custodiar y conservar los expedientes así como los documentos que formen parte de los juicios;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-II. Capturar, almacenar, proporcionar y distribuir sistemáticamente los datos de registro general, iniciación de juicios su conclusión por sentencia u otras causas, registradas en salas y juzgados;
+II. Capturar, almacenar, proporcional y distribuir sistemáticamente los datos de registro general, iniciación de juicios su conclusión por sentencia y otras causas, registradas en salas y juzgados;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-III. Editar el Boletín Judicial, cuyo objeto es publicar ciertos actos y con efectos de notificación a las partes en juicio; y
+III. Editar el boletín Judicial, cuyo objeto es publicitar ciertos actos y con efectos de notificación a las partes en juicio; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2007)</small>
 
-IV. Operar la Oficialía de Partes Común, que deberá recibir promociones y escritos fuera de las horas hábiles, entregando copias con el acuse de recibo, y remitirlos al día siguiente hábil, a primera hora a la autoridad correspondiente.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+IV. Operar la Oficialía de Partes Común, que deberá recibir promociones y escritos de término judicial, fuera de las horas hábiles, entregando copias con el acuse de recibo, y remitirlos al día siguiente hábil, a primera hora a la autoridad correspondiente.
 
 ###### Artículo 194.
 
-El Consejo de la Judicatura podrá concesionar a particulares, la edición y venta del Boletín Judicial.
+El Consejo General del Poder Judicial podrá concesionar a particulares, la edición y venta del Boletín Judicial.
 
 ###### Artículo 195.
 
@@ -2895,9 +2657,11 @@ Para los efectos de la Ley de Prensa, el impresor será responsable de su actuac
 
 ###### Artículo 196.
 
-Los magistrados del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, así como los miembros del Consejo de la Judicatura del Estado, sólo podrán ser privados de sus puestos en la forma y términos que determina la Constitución Política del Estado de Jalisco y el presente ordenamiento.
+Los magistrados del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, así como los miembros del Consejo General del Poder Judicial del Estado, sólo podrán ser privados de sus puestos en la forma y términos que determina la Constitución Política del Estado de Jalisco y el presente ordenamiento.
 
-También se procederá en los términos del párrafo anterior cuando los magistrados del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral y los titulares del Consejo de la Judicatura acepten o desempeñen cargo o empleo de la Federación, de los Estados, del Distrito Federal o de los particulares, salvo los casos de docencia o los que desempeñen sin remuneración en asociaciones científicas, literarias o de beneficencia, imponiéndose además como sanción la pérdida de las prestaciones y beneficios que les correspondan y las señaladas por la comisión de delitos contra la administración de la justicia, en su caso.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
+
+También se procederá en los términos del párrafo anterior cuando los magistrados del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral y los titulares del Consejo General del Poder Judicial acepten o desempeñen cargo o empleo de la Federación, de los Estados, del Distrito Federal o de los particulares, salvo los casos de docencia o los que desempeñen sin remuneración en asociaciones científicas, literarias o de beneficencia, imponiéndose además como sanción la pérdida de las prestaciones y beneficios que les correspondan y las señaladas por la comisión de delitos contra la administración de la justicia, en su caso.
 
 ###### Artículo 197.
 
@@ -2905,11 +2669,7 @@ Los magistrados del Supremo Tribunal, del Tribunal de lo Administrativo y del Tr
 
 ### CAPÍTULO IV. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ### CAPÍTULO V. DEL PROCEDIMIENTO EN CONFLICTOS LABORALES
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
 
 ###### Artículo 198.
 
@@ -2927,9 +2687,7 @@ V. Conocer de algún asunto o participar en algún acto para el cual se encuentr
 
 VI. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-VII. No poner en conocimiento del Consejo de la Judicatura del Estado cualquier acto tendiente a vulnerar la independencia de la función judicial;
+VII. No poner en conocimiento del Consejo General del Poder Judicial del Estado cualquier acto tendiente a vulnerar la independencia de la función judicial;
 
 VIII. No preservar la dignidad, imparcialidad y profesionalismo propios de la función judicial en el desempeño de sus labores;
 
@@ -2945,9 +2703,9 @@ XI. Dictar resoluciones o trámites infundados o notoriamente improcedentes o in
 
 XII. Fijar cauciones o fianzas notoriamente excesivas o insuficientes;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XIII. Desobedecer injustificadamente las circulares expedidas por el Supremo Tribunal de Justicia, Tribunal Electoral, Tribunal Administrativo, así como las expedidas por el Consejo de la Judicatura;
+XIII. Desobedecer injustificadamente las circulares expedidas por el Supremo Tribunal de Justicia, Tribunal Electoral, Tribunal Administrativo, así como las expedidas por el Consejo General;
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
@@ -3061,19 +2819,13 @@ I. El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo o el Tribun
 
 II. El respectivo Presidente del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Tribunal Electoral, cuando respectivamente se trate de servidores públicos de esos órganos, en los casos no comprendidos en la fracción anterior;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
+III. El Pleno del Consejo General del Poder Judicial del Estado, tratándose de faltas graves de jueces de primera instancia, menores y de paz, cuando las sanciones aplicables sean las de destitución o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público; y
 
-III. El Pleno del Consejo de la Judicatura del Estado, tratándose de faltas graves de jueces de primera instancia, menores y de paz, cuando las sanciones aplicables sean las de destitución o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público; y
-
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-IV. El órgano colegiado que determine el Consejo de la Judicatura del Estado, en los casos no comprendidos en la fracción anterior.
+IV. El órgano colegiado que determine el Consejo General del Poder Judicial del Estado, en los casos no comprendidos en la fracción anterior.
 
 Siempre que de un mismo acto se derive responsabilidad por una falta grave de un Juez de Primera Instancia, Menor o de Paz, y otro u otros servidores públicos del Poder Judicial del Estado, se estará a lo previsto en la fracción III de este artículo.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
-El Consejo de la Judicatura del Estado podrá señalar, mediante acuerdos generales, los casos en que la Contraloría del Poder Judicial sea competente para conocer de los procedimientos de responsabilidad comprendidos en la fracción IV de este artículo.
+El Consejo General del Poder Judicial del Estado podrá señalar, mediante acuerdos generales, los casos en que la Contraloría del Poder Judicial sea competente para conocer de los procedimientos de responsabilidad comprendidos en la fracción IV de este artículo.
 
 ###### Artículo 202.
 
@@ -3093,23 +2845,17 @@ I. Se enviará una copia del escrito de denuncia y sus anexos al servidor públi
 
 II. Recibido el informe y desahogadas las pruebas, si las hubiere, se resolverá dentro de los treinta días hábiles siguientes sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y se notificará la resolución al interesado dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad señalados en las fracciones IX y XI del artículo 198;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
-
-III. Cuando se trate de los casos comprendidos en las fracciones VIII y X del artículo 198, el presidente del Tribunal competente o, en su caso, el órgano que determine el Consejo de la Judicatura del Estado, remitirán el asunto al Pleno del Tribunal respectivo o al del Consejo de la Judicatura del Estado, para que cite al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga por sí o por medio de un defensor.
+III. Cuando se trate de los casos comprendidos en las fracciones VIII y X del artículo 198, el presidente del Tribunal competente o, en su caso, el órgano que determine el Consejo General del Poder Judicial del Estado, remitirán el asunto al Pleno del Tribunal respectivo o al del Consejo General del Poder Judicial del Estado, para que cite al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga por sí o por medio de un defensor.
 
 Entre la fecha de citación y la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
 
 IV. Si del informe o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar la celebración de otra u otras audiencias en su caso; y
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-V. En cualquier momento, previo o posteriormente a la recepción del informe o celebración de la audiencia, el Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral o el Consejo de la Judicatura del Estado, o sus respectivos presidentes, o el órgano que, determine el Consejo de la Judicatura del Poder Judicial del Estado, según corresponda, podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones, la cual cesará cuando así lo resuelvan independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo. La suspensión temporal no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la suspensión.
+V. En cualquier momento, previo o posteriormente a la recepción del informe o celebración de la audiencia, el Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral o el Consejo General del Poder Judicial del Estado, o sus respectivos presidentes, o el órgano que determine el Consejo General del Poder Judicial del Estado, según corresponda, podrán determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones, la cual cesará cuando así lo resuelvan independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo. La suspensión temporal no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la suspensión.
 
 Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que se hallare suspendido.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
-Cuando la falta motivo de la queja fuere leve, los presidentes de los tribunales respectivos o el órgano que determine el Consejo de la Judicatura del Estado impondrá la sanción que corresponda y dictarán las medidas para su corrección o remedio inmediato; si la falta fuere grave, remitirán el asunto al Pleno del correspondiente Tribunal o al del Consejo de la Judicatura del Estado según sea el caso, a fin de que procedan de acuerdo con sus facultades.
+Cuando la falta motivo de la queja fuere leve, los presidentes de los tribunales respectivos o el órgano que determine el Consejo General del Poder Judicial del Estado impondrán la sanción que corresponda y dictarán las medidas para su corrección o remedio inmediato; si la falta fuere grave, remitirán el asunto al Pleno del correspondiente Tribunal o al del Consejo General del Poder Judicial del Estado según sea el caso, a fin de que procedan de acuerdo con sus facultades.
 
 ###### Artículo 204.
 
@@ -3127,29 +2873,23 @@ V. Cese o destitución; y
 
 VI. Destitución con inhabilitación hasta por seis años.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 205.
 
-Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Presidente del Tribunal correspondiente o del Consejo de la Judicatura del Estado, en su caso, dictará las providencias oportunas para su corrección o remedio inmediato, y si de la propia queja se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, dará cuenta al Pleno del órgano que corresponda para que proceda en los términos previstos en este Título.
+Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Presidente del Tribunal correspondiente o del Consejo General del Poder Judicial del Estado, en su caso, dictará las providencias oportunas para su corrección o remedio inmediato, y si de la propia queja se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, dará cuenta al Pleno del órgano que corresponda para que proceda en los términos previstos en este Título.
 
-Si el Pleno de los Tribunales correspondientes, el Consejo de la Judicatura del Estado o sus presidentes estimaren que la queja fue interpuesta sin motivo, se impondrá al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte días de salario mínimo tomando como base el vigente en la zona metropolitana de Guadalajara al momento de interponerse la queja.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+Si el Pleno de los Tribunales correspondientes, el Consejo General del Poder Judicial del Estado o sus presidentes estimaren que la queja fue interpuesta sin motivo, se impondrá al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte días de salario mínimo tomando como base el vigente en la zona metropolitana de Guadalajara al momento de interponerse la queja.
 
 ###### Artículo 206.
 
-Las resoluciones por las que el Pleno del Consejo de la Judicatura del Estado imponga sanciones administrativas consistentes en la destitución del cargo de Juez de Primera Instancia, Menor o de Paz, podrán ser impugnadas por el servidor público ante el Pleno del Tribunal de lo Administrativo mediante el recurso de revisión administrativa.
+Las resoluciones por las que el Pleno del Consejo General del Poder Judicial del Estado imponga sanciones administrativas consistentes en la destitución del cargo de Juez de Primera Instancia, Menor o de Paz, podrán ser impugnadas por el servidor público ante el Pleno del Tribunal de lo Administrativo mediante el recurso de revisión administrativa.
 
 ### CAPÍTULO II. DE LOS JUZGADOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 207.
 
-Las resoluciones dictadas por el Consejo de la Judicatura del Estado serán definitivas e inatacables, salvo las que se refieran al nombramiento, adscripción, cambios de adscripción y remoción de jueces de primera instancia, las cuales podrán impugnarse ante el Pleno del Tribunal de lo Administrativo, mediante el recurso de revisión administrativa.
+Las resoluciones dictadas por el Consejo General del Poder Judicial del Estado serán definitivas e inatacables, salvo las que se refieran al nombramiento, adscripción, cambios de adscripción y remoción de jueces de primera instancia, las cuales podrán impugnarse ante el Pleno del Tribunal de lo Administrativo, mediante el recurso de revisión administrativa.
 
-El recurso de revisión administrativa tendrá como único objeto que el Pleno del Tribunal de lo Administrativo determine si el Consejo de la Judicatura del Estado nombró, adscribió, readscribió o removió a un Juez, con estricto apego a los requisitos formales previstos en esta ley, o en los reglamentos interiores y acuerdos generales expedidos por el propio Consejo General.
+El recurso de revisión administrativa tendrá como único objeto que el Pleno del Tribunal de lo Administrativo determine si el Consejo General del Poder Judicial del Estado nombró, adscribió, readscribió o removió a un Juez, con estricto apego a los requisitos formales previstos en esta ley, o en los reglamentos interiores y acuerdos generales expedidos por el propio Consejo General.
 
 ###### Artículo 208.
 
@@ -3161,11 +2901,9 @@ II. Tratándose de las resoluciones de remoción, por el servidor público afect
 
 III. Tratándose de las resoluciones de cambio de adscripción, por el funcionario judicial que hubiera solicitado el cambio de adscripción y se le hubiere negado.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 209.
 
-El recurso de revisión administrativa (sic) deberá presentarse por escrito ante el Presidente del Consejo de la Judicatura del Estado, dentro de los cinco días hábiles siguientes a la fecha en que hubiere surtido sus efectos la notificación de la resolución que haya de combatirse. El escrito de revisión y el informe correspondiente será turnado al Tribunal de lo Administrativo, dentro de los cinco días hábiles siguientes, donde se le dará curso según el turno que corresponda. El Informe mencionado deberá ir acompañado de todos aquellos elementos probatorios que permitan la resolución del asunto y será rendido por uno de los consejeros que hubiere votado a favor de la decisión, quien representará al Consejo de la Judicatura del Estado durante el procedimiento.
+El recurso de revisión administrativa deberá presentarse por escrito ante el Presidente del Consejo General del Poder Judicial del Estado, dentro de los cinco días hábiles siguientes a la fecha en que hubiere surtido sus efectos la notificación de la resolución que haya de combatirse. El escrito de revisión y el informe correspondiente será turnado al Tribunal de lo Administrativo, dentro de los cinco días hábiles siguientes, donde se le dará curso según el turno que corresponda. El informe mencionado deberá ir acompañado de todos aquellos elementos probatorios que permitan la resolución del asunto y será rendido por uno de los consejeros que hubiere votado a favor de la decisión, quien representará al Consejo General del Poder Judicial del Estado durante el procedimiento.
 
 ###### Artículo 210.
 
@@ -3181,11 +2919,9 @@ En caso de que el recurso de revisión administrativa se presente en contra de r
 
 Cuando alguna de las partes ofrezcan una prueba documental que no obre en su poder, solicitará al Magistrado ponente para que requiera a la autoridad que cuente con ella a fin de que la proporcione a la brevedad posible.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 213.
 
-Las resoluciones del Pleno del Tribunal de lo Administrativo que declaren fundado el recurso planteado, se limitarán a declarar la nulidad del acto impugnado para el efecto de que el Consejo de la Judicatura del Estado dicte una nueva resolución en un plazo no mayor a treinta días naturales.
+Las resoluciones del Pleno del Tribunal de lo Administrativo que declaren fundado el recurso planteado, se limitarán a declarar la nulidad del acto impugnado para el efecto de que el Consejo General del Poder Judicial del Estado dicte una nueva resolución en un plazo no mayor a treinta días naturales.
 
 La nulidad del acto que se reclame no producirá la invalidez de las actuaciones del Juez de Primera Instancia, Menor o de Paz nombrado o adscrito.
 
@@ -3195,13 +2931,11 @@ La interposición de la revisión administrativa no interrumpirá en ningún cas
 
 ###### Artículo 214.
 
-Tratándose de conflictos relacionados con los servidores públicos de base, el procedimiento se substanciará a través de una comisión constituida con carácter permanente, la cual emitirá un dictamen que pasará al Pleno del Tribunal correspondiente o del Consejo de la Judicatura, para que éste resuelva lo conducente.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+Tratándose de conflictos relacionados con los servidores públicos de base, el procedimiento se substanciará a través de una comisión constituida con carácter permanente, la cual emitirá un dictamen que pasará al Pleno del Tribunal correspondiente o del Consejo General, para que éste resuelva lo conducente.
 
 ###### Artículo 215.
 
-Cada Comisión Substanciadota, se integrará con un representante ya sea del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo y del Consejo de la Judicatura, nombrado por el Pleno respectivo; otro que designará el Sindicato de Trabajadores del Poder Judicial y un tercero, nombrado de común acuerdo por ambos. El dictamen de la Comisión se emitirá por unanimidad o mayoría de votos.
+Cada Comisión Substanciadora, se integrará con un representante ya sea del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, y del Consejo General del Poder Judicial, nombrado por el Pleno respectivo; otro que designará el Sindicato de Trabajadores del Poder Judicial y un tercero, nombrado de común acuerdo por ambos. El dictamen de la Comisión se emitirá por unanimidad o mayoría de votos.
 
 ###### Artículo 216.
 
@@ -3211,11 +2945,9 @@ La Comisión Substanciadora funcionará con un Secretario de Acuerdos que autori
 
 Los miembros de la Comisión Substanciadora que no sean magistrados, deberán reunir, para ser designados los requisitos que para ser Secretario del Supremo Tribunal, durarán en su cargo tres años y podrán ser removidos libremente por quienes los designaron.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 218.
 
-En el caso de servidores públicos de confianza, el procedimiento se substanciará por los magistrados instructores que designe el Pleno respectivo, sus resoluciones, serán autorizadas por el Secretario General de Acuerdos del respectivo Tribunal o del Consejo de la Judicatura.
+En el caso de servidores públicos de confianza, el procedimiento se substanciará por los magistrados instructores que designe el Pleno respectivo, sus resoluciones, serán autorizadas por el Secretario General de Acuerdos del respectivo Tribunal o del Consejo General.
 
 ###### Artículo 219.
 
@@ -3263,15 +2995,13 @@ III. Las demás que le asignen las leyes, el reglamento y el Pleno del Tribunal 
 
 ###### Artículo 223.
 
-El Instituto de Formación y Actualización Judicial tendrá a su cargo, por medio de un Departamento de los Auxiliares de la Administración de Justicia, las siguientes atribuciones:
+La Dirección e Investigación tendrá a su cargo, por medio de un Departamento de los Auxiliares de la Administración de Justicia, las siguientes atribuciones:
 
 I. Integrar y mantener actualizados los expedientes de los auxiliares de la administración de justicia;
 
 II. Vigilar la conducta de los auxiliares de la administración de justicia en los términos del reglamento de esta ley; y
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2007)</small>
-
-III. Las demás que le asignen las leyes, el reglamento y el Pleno del Consejo de la Judicatura del Poder Judicial o la comisión respectiva.
+III. Las demás que le asignen las leyes, el reglamento y el Pleno del Consejo General del Poder Judicial o la comisión respectiva.
 
 ###### Artículo 224.
 
@@ -3285,17 +3015,15 @@ III. Los albaceas, interventores, depositarios, tutores y curadores.
 
 Estos auxiliares quedan obligados al cabal cumplimiento del cargo de acuerdo a la ley y serán responsables de los daños y perjuicios que causaren, con independencia de las sanciones procesales y administrativas.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 225.
 
-El Pleno del Consejo de la Judicatura determinará el número de auxiliares, sancionará su ingreso y permanencia, y para ello, formulará anualmente en el mes de abril, una lista de las personas que pueden ejercer dichas funciones, según las diversas ramas del conocimiento humano.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
+El Pleno del Consejo General del Poder Judicial determinará el número de auxiliares, sancionará su ingreso y permanencia, y para ello, formulará anualmente en el mes de abril, una lista de las personas que pueden ejercer dichas funciones, según las diversas ramas del conocimiento humano.
 
 ###### Artículo 226.
 
-Los jueces únicamente deben designar como auxiliares de la justicia a las personas que haya autorizado el Pleno del Consejo de la Judicatura.
+Los jueces únicamente deben designar como auxiliares de la justicia a las personas que haya autorizado el Pleno del Consejo General.
+
+Sólo en el caso de que no existiere lista de peritos en el arte o ciencia de que trate, o que los enlistados estuvieren impedidos para ejercer el cargo, las autoridades podrán nombrarlos libremente.
 
 ###### Artículo 227.
 
@@ -3375,9 +3103,7 @@ En asuntos de competencia del Pleno del Supremo Tribunal de Justicia y del Tribu
 
 El Pleno del Supremo Tribunal de Justicia y el Pleno del Tribunal de lo Administrativo en el ámbito de sus competencias declararán, con arreglo a la presente ley y su reglamento, los casos en que exista jurisprudencia definida y ordenarán su publicación en el Boletín Judicial, para que desde luego surta efectos.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2007)</small>
-
-Para tales efectos, el Pleno del Tribunal correspondiente remitirá de inmediato los criterios obligatorios al Consejo de la Judicatura para su publicación.
+Para tales efectos, el Pleno del Tribunal correspondiente remitirá de inmediato los criterios obligatorios al Consejo General del Poder Judicial para su publicación.
 
 En caso de que llegare a existir contradicción en la jurisprudencia de las salas, será el Pleno del Supremo Tribunal de Justicia o del Tribunal de lo Administrativo quien resuelva sin más trámite la que debe prevalecer.
 
@@ -3572,3 +3298,9 @@ TERCERO.- La Oficialía de Partes Común del Supremo Tribunal de Justicia deber�
 CUARTO.- Las reformas al artículo 20 y demás relativos, de la Ley Orgánica del Poder Judicial del Estado, contenidas en el Artículo Único del presente decreto, aplicarán en beneficio del Presidente del Supremo Tribunal de Justicia electo para el periodo en vigencia.
 
 QUINTO.- A partir de la entrada en vigor del presente decreto, las referencias que hagan las leyes estatales al Consejo General del Poder Judicial, se entenderán hechas al Consejo de la Judicatura del Estado de Jalisco.
+
+P.O. 20 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el decreto 21455 aprobado el día 7 de septiembre del año 2006, que contiene reformas y adiciones a la Ley Orgánica del Poder Judicial del Estado de Jalisco.
