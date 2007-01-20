@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-del-instituto-colimense-para-la-15247"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-04"
-last_updated: "1999-09-04"
+last_updated: "2007-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO COLIMENSE PARA LA DISCAPACIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2007.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 4 de septiembre de 1999.
 
@@ -229,15 +229,29 @@ Además de las atribuciones que señala el artículo 9° del Decreto, el Directo
 
 I.- Convocar y notificar por escrito a los integrantes del Consejo de la fecha y hora de cada reunión, así como de las suspensiones de las mismas;
 
-II.- Proponer los Representantes Municipales;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-III.- Proponer al secretario de actas;
+II. Suscribir previa aprobación del Consejo, convenios con organizaciones o fundaciones nacionales o internacionales, que favorezcan el desarrollo de las personas con discapacidad;
 
-IV.- Proponer al Consejo nuevo personal; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-V.- Las demás que le confiera el Consejo.
+III. Proponer los Representantes Municipales;
 
-#### SECCION CUARTA. DE LOS INTEGRANTES DEL CONSEJO DIRECTIVO
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
+
+IV. Proponer al Secretario de Actas;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
+
+V. Proponer al Consejo nuevo Personal; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2007)</small>
+
+VI. Las demás que le confiera el Consejo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ENERO DE 2007)</small>
+
+#### SECCION CUARTA. DE LAS FUNCIONES DEL CONSEJO DIRECTIVO
 
 ###### ARTICULO 21°.
 
@@ -279,13 +293,39 @@ I.- El Consejo Directivo;
 
 II.- La Dirección General;
 
-III.- Coordinación Administrativa;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
 
-IV.- Comisión Estatal Coordinadora.
+III.- Coordinación de Administración;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
+
+IV.- Coordinación de Educación y Cultura;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2007)</small>
+
+V.- Coordinación de Salud;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2007)</small>
+
+VI.- Coordinación de Accesibilidad y Transporte;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2007)</small>
+
+VII.- Coordinación de Capacitación y Trabajo;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2007)</small>
+
+VIII.- Coordinación de Asuntos Jurídicos y Derechos Humanos; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2007)</small>
+
+IX.- Coordinación de Deporte y Recreación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 24º.
 
-La Coordinación Administrativa tendrá las siguientes atribuciones:
+La Coordinación de Administración, tendrá las siguientes atribuciones:
 
 I.- Dar seguimiento a los planes de trabajo del Instituto;
 
@@ -321,33 +361,159 @@ XVI.- Fungir como Secretario de Actas; y
 
 XVII.- Las demás que sean necesarias para el buen funcionamiento del Instituto.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 25º.
 
-La Comisión Estatal Coordinadora tendrá las siguientes atribuciones:
+La Coordinación de Educación y Cultura, tendrá las siguientes atribuciones:
 
-I.- Contactar con las Dependencias y entidades del Gobierno del Estado, Sector Privado y Social, con el propósito de gestionar los apoyos y programas que se requieran para lograr el pleno desarrollo de las personas con discapacidad;
+I. Promover, según las necesidades de cada caso, la integración de los niños y jóvenes con alguna discapacidad a la escuela regular y a las escuelas especiales;
 
-II.- Llevar el control, seguimiento y evaluación de las acciones del Programa Estatal que se integren en cada uno de los sectores gubernamentales y la sociedad organizada;
+II. Impulsar la generación de material educativo especial, tomando en cuenta las necesidades de las diferentes discapacidades, garantizando con ello la instrucción regular a quienes no leen o escuchan de manera convencional;
 
-III.- Proporcionar al Director información suficiente sobre asuntos de su competencia;
+III. Proponer la adición a las estructuras curriculares de las escuelas de formación de profesores y educadores, apartados académicos que les adiestre y les capacite en el trabajo con necesidades especiales, y en el trato equitativo a situaciones personales que no son iguales;
 
-IV.- Acordar de manera inmediata con el Director, los asuntos que requieran su atención;
+IV. Promover la conformación de profesionales y equipos especializados, de apoyo para el trabajo docente con personas con discapacidad, en escuelas especiales y regulares;
 
-V.- Concertar acuerdos y convenios para la realización de estudios necesarios para el Instituto en la toma de decisiones, con entidades internacionales, estatales y municipales, con instituciones y organizaciones de los sectores privados, social y personas físicas;
+V. Promover la evaluación educativa, real e integral, que diagnostique las debilidades y fortalezas del educando en el plano físico, cognoscitivo, comunicativo y social, para garantizar la integración eficaz;
 
-VI.- Recopilar, concentrar y analizar la información nacional y estatal, de la materia, así como los diagnósticos municipales existentes y por generar;
+VI. Impulsar a la institución de la familia, como la principal responsable de la educación de los hijos y de la estimulación para su desarrollo integral; y
 
-VII.- Sistematizar la información disponible; y
+VII. Las que sean necesarias para el buen funcionamiento de la Coordinación a su cargo.
 
-VIII.- Las demás que sean necesarias para el buen funcionamiento del Instituto y para el cumplimiento de los objetivos del Programa Estatal.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 26º.
 
-Las relaciones de trabajo entre el Instituto y los trabajadores que éste contrate, se regirán conforme a lo dispuesto en el artículo 13 del Decreto.
+La Coordinación de Salud, tendrá las siguientes atribuciones:
+
+I. Coordinar la elaboración de contenidos para difundir información sobre prevención de procesos discapacitantes, prevención de abusos físicos y psicológicos, y atención y cuidados en la discapacidad;
+
+II. Promover talleres y cursos de orientación nutricional, higiene y medicina preventiva;
+
+III. Elaborar directorios de servicios médicos profesionales que brinden descuentos y/o otros beneficios a pacientes con alguna discapacidad;
+
+IV. Promover convenios de colaboración con instituciones médicas públicas y privadas para la atención de la salud física y mental;
+
+V. Proponer a la Dirección General sus planes, programas, proyectos y estrategias anuales de trabajo;
+
+VI. Presentar informe anual de actividades, y/o cuando la Dirección General lo requiera; y
+
+VII. Las que sean necesarias para el buen funcionamiento de la Coordinación a su cargo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 27º.
 
-El patrimonio del Instituto se integrará conforme a lo establecido en el artículo 11º del Decreto. Los bienes inmuebles propiedad del Instituto, sólo podrán ser gravados o enajenados, previa autorización del Consejo. Las escrituras respectivas deberán ser firmadas por la Presidenta y el Director del Instituto. Los actos que se celebren en contravención con este dispositivo serán nulos de pleno derecho.
+La Coordinación de Accesibilidad y Transporte, tendrá las siguientes atribuciones:
+
+I. Proponer y coordinar programas permanentes de eliminación de barreras arquitectónicas en espacios públicos y privados con acceso público, y garantizar el libre tránsito;
+
+II. Elaborar catálogos de especificaciones y medidas técnicas de adaptación de la infraestructura pública y privada, para homogenizar la arquitectura adaptada, y promover su reconocimiento y aceptación entre las instancias estatales y municipales;
+
+III. Elaborar catálogos de especificaciones técnicas de adaptación de vehículos, para facilitar el uso de tecnología especializada y segura, y promover su reconocimiento y aceptación en las instancias reguladoras del transporte público;
+
+IV. Proveer de información técnica al público en general, para eliminar de manera eficaz las barreras arquitectónicas y la adaptación de vehículos;
+
+V. Promover programas de descuento permanente en los servicios de transporte público en el estado;
+
+VI. Diseñar programas y campañas permanentes de educación vial, cortesía urbana y respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso público;
+
+VII. Proponer a la dirección General sus planes, programas, proyectos y estrategias anuales de trabajo; y
+
+VIII. Las que sean necesarias para el buen funcionamiento de la Coordinación a su cargo.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2007)</small>
+
+###### ARTICULO 28º.
+
+La Coordinación de Capacitación y Trabajo, tendrá las siguientes atribuciones:
+
+I. Promover el adiestramiento y la capacitación laboral, así como el diseño de contenidos curriculares en programas de educación técnica y universitaria que posibiliten esos objetivos;
+
+II. Establecer procesos de evaluación de aptitudes y habilidades físicas, cognoscitivas, comunicativas y sociales, para favorecer la rehabilitación laboral y el impulso a la empleabilidad;
+
+III. Promover, en el sector empresarial, la responsabilidad social de empresas privadas;
+
+IV. Promover e instrumentar la formación previa al empleo, del empresario y del trabajador, para combatir la exclusión y la deserción;
+
+V. Proponer incentivos fiscales y un entorno económico favorable para facilitar las adaptaciones seguras, mobiliarias e inmobiliarias, dentro de la empresa, así como la creación de oportunidades de empleo;
+
+VI. Promover oportunidades laborables, para que las personas con alguna discapacidad se integren a la vida productiva como empleados, trabajadores independientes o empresarios;
+
+VII. Promover las oportunidades de ocupación laboral a personas con discapacidad que buscan empleo; de mantener en el empleo a personas que quedan discapacitados en su vida laboral; y de reincorporar laboralmente a personas que perdieron su empleo por causa de discapacidad;
+
+VIII. Proponer a la Dirección General sus planes, programas, proyectos y estrategias anuales de trabajo;
+
+IX. Presentar informe anual de actividades, y/o cuando la Dirección General lo requiera; y
+
+X. Las que sean necesarias para el buen funcionamiento de la Coordinación a su cargo.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2007)</small>
+
+###### ARTICULO 29º.
+
+La Coordinación de Asuntos Jurídicos y Derechos Humanos, tendrá las siguientes atribuciones:
+
+I. Revisar y analizar el marco jurídico vigente con el propósito de proponer ante las instancias legislativas correspondientes, la creación, adición y reformas de leyes, códigos y reglamentos federales, estatales y municipales;
+
+II. Coordinar la elaboración de convenios y contratos que el instituto haga con organismos públicos o privados;
+
+III. Coordinar la elaboración de contenidos para difundir, dentro y fuera del colectivo de personas de alguna discapacidad y sus familias, los derechos humanos y los nuevos logros legales, a fin de impulsar la cultura de equidad y respeto;
+
+IV. Defender y promover el respeto a los derechos políticos, económicos y sociales de las personas con alguna discapacidad;
+
+V. Brindar asesoría jurídica gratuita a los grupos y personas del sector;
+
+VI. Atender a las personas con discapacidad que acuden a esta coordinación con problemas de índole jurídico-legal;
+
+VII. Atender todo tipo de gestión legal que envíen Instituciones Gubernamentales o no Gubernamentales;
+
+VIII. Gestionar ante las autoridades competentes los asuntos que se le encomienden por parte de las personas que a ésta Institución acuden;
+
+IX. Darle seguimiento a cada uno de los expedientes y buscar dar una respuesta positiva a las necesidades surgidas de cada uno de ellos;
+
+X. Presentar informe anual de actividades y/o cuando el Director lo requiera; y
+
+XI. Las que sean necesarias para el buen funcionamiento de la Coordinación a su cargo.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2007)</small>
+
+###### ARTICULO 30º.
+
+La Coordinación de Deporte y Recreación, tendrá las siguientes atribuciones:
+
+I. Promover la Educación física (gimnasia, recreaciones y vida en la naturaleza) en el colectivo de personas con discapacidad, como estrategia de integración social;
+
+II. Diseñar estrategias para promover el deporte adaptado con sentido recreativo, terapéutico y competitivo;
+
+III. Integrar una base de datos con información clínica de los deportistas de alto rendimiento y talentos deportivos;
+
+IV. Coordinar la elaboración de instrumentos didácticos, fundamentación, expectativas de logros, metodología, recursos y evaluación) (sic), para el trabajo con el deporte adaptado;
+
+V. Promover la adaptación de la infraestructura deportiva en los diferentes municipios del estado;
+
+VI. Proponer a la Dirección General sus planes, programas, proyectos y estrategias anuales de trabajo;
+
+VII. Presentar informe anual de actividades, y/o cuando la Dirección General lo requiera; y
+
+VIII. Las que sean necesarias para el buen funcionamiento de la Coordinación a su cargo.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2007)</small>
+
+###### ARTICULO 31º.
+
+Las relaciones de Trabajo entre el Instituto y los trabajadores que éste contrate, se regirán conforme a lo dispuesto en el artículo 13 del Decreto.
+
+### CAPITULO V. DEL PATRIMONIO DEL INSTITUTO
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2007)</small>
+
+###### ARTICULO 32º.
+
+El patrimonio del Instituto se integrará conforme a lo establecido en el artículo 11 del Decreto. Los bienes inmuebles propiedad del Instituto, solo podrán ser gravados o enajenados, previa autorización del Consejo.
+
+Las escrituras respectivas deberán ser firmadas por la Presidenta y el Director del Instituto. Los actos que se celebren en contravención con este dispositivo serán nulos de pleno derecho.
 
 T R A N S I T O R I O
 
@@ -357,4 +523,10 @@ Dado en la ciudad de Colima, a los 11 días del mes de Junio de 1999.
 
 EL DIRECTOR GENERAL, NICOLÁS ROSENDO GARCÍA.- Rúbrica.
 
-### CAPITULO V. DEL PATRIMONIO DEL INSTITUTO
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE ENERO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- A partir del presente, al referirse a la numeración de algún artículo del Decreto que crea el Instituto Colimense para la Discapacidad, se podrá citar con número arábigo, ejemplo 1, 2, etc., en lugar de Primero, Segundo, etc., anteponiendo en ambos casos la palabra Artículo.
