@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-ayuntamiento-de-santa-catarina-35228"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-15"
-last_updated: "2003-12-15"
+last_updated: "2007-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SANTA CATARINA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de diciembre de 2003.
 
@@ -43,9 +43,11 @@ REGLAMENTO INTERIOR DEL AYUNTAMIENTO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
+
 ###### Artículo 1º.
 
-El presente Reglamento tiene por objeto normar e ilustrar a los integrantes del R. Ayuntamiento, en la formación de la estructura, atribuciones, funcionamiento y responsabilidades.
+El presente Reglamento tiene por objeto normar la forma de la estructura, atribuciones, funcionamiento y responsabilidades de los integrantes del R. Ayuntamiento.
 
 ###### Artículo 2º.
 
@@ -71,17 +73,47 @@ Para efecto de su instalación, el R. Ayuntamiento saliente convocará a una Ses
 
 a).- Lista de asistencia;
 
-b).- Exposición de motivos de la Sesión;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
 
-c).- Invitación para que se integren los miembros del R. Ayuntamiento entrante;
+b).- Receso para recibir a los invitados de honor al presidium;
 
-d).- Toma de protesta;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
 
-e).- Mensaje del Presidente Municipal entrante; y
+c).- Honores a los símbolos patrios;
 
-f).- Clausura.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
 
-Declarado el Quórum Legal y explicados los motivos de la Sesión Solemne, se invitará al Ayuntamiento entrante para que estando todos de pie, el Presidente Municipal saliente les tome la protesta de ley; cumplido lo anterior se declarará formal y legítimamente instalado el nuevo Ayuntamiento.
+d).- Motivo de la Sesión;
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
+
+e).- Presentación del Ayuntamiento electo para el periodo constitucional correspondiente;
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
+
+f).- Mensaje y toma de protesta por el Presidente Municipal saliente al Presidente Municipal entrante y su cabildo;
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2007)</small>
+
+g).- Mensaje del Presidente Municipal entrante;
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2007)</small>
+
+h).- Mensaje del representante de Gobierno del Estado;
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2007)</small>
+
+i).- Despedida de invitados;
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2007)</small>
+
+j).- Aprobación de actas de sesiones anteriores y la presente sesión;
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2007)</small>
+
+k).- Clausura.
+
+Declarado el Quórum Legal y explicados los motivos de la Sesión Solemne, se invitará al Ayuntamiento entrante para que, estando todos de pie, el Presidente Municipal saliente les tome la protesta de ley; cumplido lo anterior se declarará formal y legítimamente instalado el nuevo Ayuntamiento.
 
 De no asistir el Presidente Municipal saliente a la Sesión o de negarse a tomar la Protesta de Ley y/o a la entrega-recepción o a cualquier acto propio de la integración del R. Ayuntamiento entrante, a solicitud del Presidente Municipal electo, se solicitará la presencia de un miembro del H. Congreso del Estado, para que dé cumplimiento a lo anterior.
 
@@ -181,13 +213,17 @@ Las Comisiones desempeñarán con esmero y plena responsabilidad los asuntos enc
 
 a) Hacienda, Patrimonio y Reglamentación Especial;
 
-b) Obras Públicas;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
 
-c) Servicios Municipales;
+b) Obras Públicas y Desarrollo Urbano;
+
+c) Servicios Públicos;
 
 d) Nomenclatura;
 
-e) Desarrollo Urbano;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
+
+e) Participación Ciudadana;
 
 f) Ecología;
 
@@ -199,11 +235,17 @@ i) Recreación y Deporte;
 
 j) Salud y DIF;
 
-k) Comercio y Espectáculos;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
 
-l) Alcoholes;
+k) Comercio, Espectáculos y Alcoholes;
 
-m) Seguridad Pública y Vialidad;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
+
+l) Modernización Administrativa;
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
+
+m) Seguridad Pública, Vialidad y Tránsito;
 
 n) Desarrollo Económico y Turismo;
 
@@ -261,9 +303,11 @@ XXIII.- Conocer de todos los reglamentos que no competan a las demás comisiones
 
 XXIV.- Las demás que le fueren conferidos por el R. Ayuntamiento o que deriven de otros ordenamientos legales; (sic)
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2007)</small>
+
 ###### Artículo 17º.
 
-A la Comisión de Obras Públicas, le compete:
+A la Comisión de Obras Públicas y Desarrollo Urbano, le compete:
 
 I.- Participar en la planeación de las obras públicas municipales;
 
@@ -277,11 +321,39 @@ V.- Proponer medidas suficientes para la conservación de los sistemas de desag�
 
 VI.- Vigilar que se integre y actualice el padrón de contratistas en obra pública;
 
-VII.- Las demás que le fueren conferidas por el R. Ayuntamiento o que deriven de otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2007)</small>
+
+VII.- Vigilar la observación de los ordenamientos legales aplicables al ramo y al estricto cumplimiento de los planes de Desarrollo Urbano;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2007)</small>
+
+VIII.- Emitir opinión en torno a la instalación de monumentos y estatuas que deben colocarse en lugares públicos y colaborar en el cumplimiento de las disposiciones que se tomen para la conservación de monumentos arquitectónicos y edificaciones históricas;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2007)</small>
+
+IX.- Participar en la elaboración del Plan General de Desarrollo Urbano;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2007)</small>
+
+X.- Vigilar la realización de los planes generales y especiales de Desarrollo Urbano;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2007)</small>
+
+XI.- Vigilar que los fraccionamientos cumplan con los requisitos y condiciones señaladas en el reglamento de construcción y demás ordenamientos legales aplicables;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2007)</small>
+
+XII.- Vigilar que los fraccionadores y organismos promotores de vivienda cumplan con los requisitos que establezca al respecto la Ley y Reglamentos de la materia;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2007)</small>
+
+XIII.- Las demás que le fueren conferidos por el R. Ayuntamiento o que deriven de otros ordenamientos legales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2007)</small>
 
 ###### Artículo 18°.
 
-A la Comisión de Servicios Municipales, le compete:
+A la Comisión de Servicios Públicos, le compete:
 
 I.- Solicitar estudios sobre zonas o colonias del Municipio, para determinar la instalación y mantenimiento del sistema de alumbrado público;
 
@@ -315,23 +387,23 @@ IV.- Proponer la uniformidad de las características que deba observar la nomenc
 
 V.- Las demás que le fueren conferidas por el R. Ayuntamiento o que deriven de otros ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
+
 ###### Artículo 20°.
 
-A la Comisión de Desarrollo Urbano, le compete:
+A la Comisión de Participación Ciudadana, le compete:
 
-I.- Vigilar la observación de los ordenamientos legales aplicables al ramo y al estricto cumplimiento de los planes de Desarrollo Urbano;
+I.- Vigilar que se fomente y promueva la participación de la Comunidad en los programas de obras y servicios públicos del Gobierno Municipal.
 
-II.- Emitir opinión en torno a la instalación de monumentos y estatuas que deben colocarse en lugares públicos y colaborar en el cumplimiento de las disposiciones que se tomen para la conservación de monumentos arquitectónicos y edificaciones históricas;
+II.- Vigilar que se garantice la participación social y comunitaria en la toma de decisiones colectivas, a través de medios institucionales de consulta y que se realice la descentralización de funciones de control y vigilancia en la construcción de obras o prestación de servicios.
 
-III.- Participar en la elaboración del Plan General de Desarrollo Urbano;
+III.- Vigilar que se promueva entre los habitantes del Municipio las diversas formas de participación comunitaria.
 
-IV.- Vigilar la realización de los planes generales y especiales de Desarrollo Urbano;
+IV.- Vigilar la realización de programas municipales para el mejoramiento de la economía familiar.
 
-V.- Vigilar que los fraccionamientos cumplan con los requisitos y condiciones señaladas en el reglamento de construcción y demás ordenamientos legales aplicables;
+V.- Vigilar que se promueva la participación de la Comunidad a través de grupos de trabajo con niños y adolescentes en las que se desarrollen los valores humanos.
 
-VI.- Vigilar que los fraccionadores y organismos promotores de vivienda cumplan con los requisitos que establezca al respecto la Ley y Reglamentos de la materia;
-
-VII.- Las demás que le fueren conferidos por el R. Ayuntamiento o que deriven de otros ordenamientos legales.
+VI.- Las demás que le fueren conferidos por el R. Ayuntamiento o que deriven de otros ordenamientos legales.
 
 ###### Artículo 21°.
 
@@ -447,9 +519,11 @@ XI.- Fomentar la participación de Autoridades de salud y de la población con e
 
 XII.- Las demás que le fueren conferidos por el R. Ayuntamiento o deriven de otros ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2007)</small>
+
 ###### Artículo 26º.
 
-A la Comisión de Comercio y Espectáculos, le compete:
+A la Comisión de Comercio, Espectáculos y Alcoholes, le compete:
 
 I.- Vigilar el cumplimiento del Reglamento de Mercados, Vía Pública, Mercados Rodantes y las disposiciones de cualquier otro ordenamiento legal aplicable.
 
@@ -469,21 +543,45 @@ VIII.- Formular estudios para realizar espectáculos gratuitos o de precios mód
 
 IX.- Supervisar las labores en la inspección del ramo.
 
-X.- Las demás que le fueren conferidas por el R. Ayuntamiento o que deriven de otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2007)</small>
+
+X.- Vigilar la exacta observancia de las leyes y reglamentos relativos a la venta y/o consumo de bebidas alcohólicas y cerveza, en envase cerrado o al copeo.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2007)</small>
+
+XI.- Visitar regularmente los lugares en donde se expendan estas bebidas para cerciorarse de que se cumpla estrictamente las regulaciones respectivas.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2007)</small>
+
+XII.- Las demás que le fueren conferidas por el R. Ayuntamiento o que deriven de otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
 
 ###### Artículo 27°.
 
-A la Comisión de Alcoholes, le compete:
+A la Comisión de Modernización Administrativa, le compete:
 
-I.- Vigilar la exacta observancia de las leyes y reglamentos relativas a la venta y/o consumo de bebidas alcohólicas y cerveza, en envase cerrado o al copeo;
+I.- Vigilar la selección, capacitación y adiestramiento del personal de las dependencias del Gobierno Municipal, y que esta se lleva a cabo a través de las normas y criterios que para el efecto se establezcan.
 
-II.- Visitar regularmente los lugares en donde se expendan estas bebidas para cerciorarse de que se cumpla estrictamente las regulaciones respectivas;
+II.- Vigilar que se tenga al corriente el escalafón de los trabajadores municipales y que se programen estímulos y recompensas al personal.
 
-III.- Las demás que le fueren conferidas por el R. Ayuntamiento o que deriven de otros ordenamientos legales.
+III.- Vigilar la debida celebración de los contratos de arrendamiento que tengan por objeto proporcionar espacios de operatividad para las oficinas de la administración y que estos estén apegados a derecho.
+
+IV.- Vigilar que se estudie y establezcan sistemas de organización administrativa que enfaticen el desempeño de las actividades de los servicios municipales.
+
+V.- Vigilar el oportuno y correcto otorgamiento de prestaciones a los trabajadores municipales.
+
+VI.- Vigilar la correcta aplicación de los servicios de asistencia medica a los empleados municipales y sus familiares.
+
+VII.- Vigilar la aplicación de programas que tiendan a la modernización de la administración municipal bajo esquemas de calidad total.
+
+VIII.- Las demás que le fueren conferidas por el R. Ayuntamiento o que deriven de otros ordenamientos legales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2007)</small>
 
 ###### Artículo 28º.
 
-A la Comisión de Seguridad Pública y Vialidad, le compete:
+A la Comisión de Seguridad Pública, Vialidad y Tránsito, le compete:
 
 I.- Vigilar el exacto cumplimiento del Reglamento de Policía y Buen Gobierno, Reglamento Interior de Seguridad Pública Municipal, Barandilla y Cárcel Municipal, Tránsito y los demás aplicables.
 
@@ -729,9 +827,11 @@ Durante la etapa de votación, queda prohibido a los Munícipes ausentarse del r
 
 ### CAPITULO SÉPTIMO. DE LA REVOCACIÓN DE ACUERDOS
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
+
 ###### Artículo 64°.
 
-Los acuerdos que tomare el R. Ayuntamiento, podrán ser revocados mediante la votación de las dos terceras partes del total de sus integrantes.
+Los acuerdos que tomare el R. Ayuntamiento, podrán ser revocados por el voto de la mayoría de sus miembros.
 
 ###### Artículo 65°.
 
@@ -769,9 +869,11 @@ V.- Avisar al Presidente Municipal en caso de enfermedad; y
 
 VI.- Las demás que establece la Ley Orgánica de Administración Pública Municipal del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
+
 ###### Artículo 70°.
 
-Más de dos integrantes del R. Ayuntamiento no podrán gozar de licencia al mismo tiempo y no podrán separarse del desempeño de su cargo por más de tres meses.
+Los integrantes del R. Ayuntamiento no podrán gozar de licencia ni podrán separarse del desempeño de su cargo por más de tres meses en ambos casos.
 
 ###### Artículo 71°.
 
@@ -804,3 +906,13 @@ PRESIDENTA MUNICIPAL
 C. TOMAS G. CANDIA VALDIVIEZO
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE ENERO DE 2007.
+
+Artículo Primero.- Las presentes Reformas y Adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abrogan todas las disposiciones contenidas en el Reglamento Interior publicado en el Periódico Oficial del Estado el 15 de Diciembre de 2003 en todo lo que se oponga al presente Reglamento.
+
+Artículo Tercero.- Envíese para su publicación en el Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno.
