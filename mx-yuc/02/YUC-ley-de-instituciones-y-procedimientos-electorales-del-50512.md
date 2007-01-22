@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-50512"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-24"
-last_updated: "2006-05-24"
+last_updated: "2007-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATAN
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO QUINTO TRANSITORIO, SUBSISTEN TODOS LOS PLAZOS Y TERMINOS RELATIVOS AL PROCESO ELECTORAL QUE CONTEMPLA EL CODIGO ELECTORAL DEL ESTADO DE YUCATAN ABROGADO; UNICAMENTE PARA ORGANIZAR LOS COMICIOS LOCALES QUE SE LLEVARAN A CABO EN EL AÑO 2007 Y 2010.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ENERO DE 2007.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 24 de mayo de 2006.
 
@@ -1535,7 +1533,9 @@ Para ser Secretario Ejecutivo del Consejo General, se deben satisfacer los mismo
 
 Los partidos políticos y las coaliciones acreditarán, ante el Consejo General, un representante propietario, con su respectivo suplente, designados conforme a lo previsto en sus estatutos, mismos que podrán asistir a las sesiones del Consejo General y de las comisiones, con derecho a voz, pero sin voto.
 
-Los representantes, de los partidos políticos acreditados ante el Consejo General, recibirán el equivalente a un 25% del sueldo que perciban los consejeros electorales, mismo que provendrá de las prerrogativas del partido político, conforme a los lineamientos que al efecto acuerde el Consejo General.
+> <small>(REFORMADO, D.O. 22 DE ENERO DE 2007)</small>
+
+Los representantes de los partidos políticos acreditados ante el Consejo General, recibirán el equivalente a un 20% de las percepciones de los Consejeros Electorales, conforme a los lineamientos que al efecto acuerde el Consejo General, que de ninguna manera provendrán del financiamiento de los Partidos Políticos.
 
 El Consejo General proveerá lo necesario para los representantes de los partidos políticos representados que no dispongan de prerrogativas.
 
@@ -4459,9 +4459,11 @@ Subsisten todos los plazos y términos relativos al proceso electoral que contem
 
 A partir de la entrada en vigor de este Decreto, quedarán insubsistentes los nombramientos efectuados por el Consejo Electoral del Instituto Electoral del Estado de Yucatán, respecto del Secretario Técnico y demás integrantes del Comité Técnico Electoral; excepto el personal auxiliar, que seguirá siendo del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, conservando sus derechos y condiciones laborales.
 
+> <small>(REFORMADO, D.O. 22 DE ENERO DE 2007)</small>
+
 ###### ARTÍCULO SÉPTIMO.
 
-Por esta única ocasión, los partidos políticos nacionales a quienes se les hubiere suspendido su inscripción estatal con motivo de las elecciones en el Estado del año 2004, gozarán a partir del mes de enero del año 2007, de sus prerrogativas y financiamiento público a que se refiere esta Ley.
+Para esta única elección, los partidos políticos nacionales a quienes se les hubiere suspendido sus prerrogativas con motivo de las elecciones en el Estado del año 2004, por no haber cumplido con el artículo 51 inciso a); gozarán a partir del mes de enero del año en curso, de las prerrogativas a que se refiere esta Ley en su artículo 72, de acuerdo al porcentaje obtenido en las elecciones estatales del año 2004. Lo anterior sin perjuicio de los derechos adquiridos por los demás partidos políticos.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -4514,3 +4516,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+D.O. 22 DE ENERO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del gobierno del Estado de Yucatán.
