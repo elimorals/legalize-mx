@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-municipal-de-la-juventud-del-52699"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-29"
-last_updated: "2006-12-29"
+last_updated: "2007-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 29 de diciembre de 2006.
 
@@ -167,9 +167,13 @@ a) Secretario del Ayuntamiento Municipal.
 
 b) Secretario de Finanzas y Tesorería Municipal.
 
-c) Secretario de Desarrollo Social.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
 
-d) Secretario de Desarrollo Económico.
+c) Secretaría de Bienestar Social y Desarrollo Comunitario.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
+
+d) Secretaría de Fomento Económico y Productivo.
 
 e) Dirección General del Sistema para el Desarrollo Integral de la Familia (DIF).
 
@@ -277,9 +281,13 @@ a) 4 Vocales, que serán los titulares de tas siguientes dependencias administra
 
 2) Dirección General del Sistema para el Desarrollo integral de la Familia (DIF).
 
-3) Secretaria del Desarrollo Humano y Social.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
 
-4) Secretaría de Seguridad Pública y Tránsito.
+3) Secretaria de Bienestar Social y Desarrollo Comunitario.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2007)</small>
+
+4) Secretaría de Fomento Económico y Productivo.
 
 Los referidos vocales integrantes del Consejo de Participación Juvenil, serán ejercidos por las personas que ocupen los cargos correspondientes en el Gobierno Municipal y son permanentes y durarán en funciones por el período del desempeño en su cargo. Por cada vocal consejero se podrá designar su respectivo suplente.
 
@@ -456,3 +464,13 @@ C. PRESIDENTA MUNICIPAL.
 LIC. ALFONSO RODRÍGUEZ OCHOA.
 
 C. SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE ENERO DE 2007.
+
+PRIMERO: Estas modificaciones entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
+
+TERCERO: Envíese al C. Secretario General de Gobierno, para que por su conducto se publique en el Periódico Oficial del Estado. Y publíquese en la Gaceta Municipal.
