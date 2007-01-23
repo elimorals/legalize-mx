@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-ecologia-del-estado-48249"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-22"
-last_updated: "2005-12-22"
+last_updated: "2007-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ECOLOGIA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el jueves 22 de diciembre de 2005.
 
@@ -111,9 +111,13 @@ XV.- Las demás análogas que conforme a su competencia le correspondan.
 
 ### CAPÍTULO TERCERO. DE LA SEDE Y PATRIMONIO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2007)</small>
+
 ###### Artículo 6o.
 
-El Instituto tendrá su sede en la capital del Estado de Guanajuato.
+El Instituto tendrá su sede en la ciudad de Salamanca, Guanajuato, y podrá establecer oficinas en otras ciudades que requieran las necesidades del servicio y permita su presupuesto. En su sede se realizarán los trámites, licenciamientos y registros.
 
 ###### Artículo 7o.
 
@@ -1156,3 +1160,11 @@ RICARDO TORRES ORIGEL
 EL SECRETARIO DE DESARROLLO ECONÓMICO SUSTENTABLE
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE ENERO DE 2007.
+
+Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el primero de febrero de 2007 dos mil siete.
+
+Artículo Segundo.- Las promociones para la obtención de autorizaciones, licencias y registros iniciados por los particulares ante el Instituto de Ecología del Estado antes de la entrada en vigencia del presente decreto, serán tramitados y concluidos en la ciudad de Salamanca.
