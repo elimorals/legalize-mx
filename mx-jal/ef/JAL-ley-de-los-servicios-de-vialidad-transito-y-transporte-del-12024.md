@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2006-01-12"
+last_updated: "2007-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -343,9 +343,9 @@ XXII. Establecer nuevos servicios; eliminar, sustituir y reformar los ya existen
 
 XXIII. Establecer en todo tiempo y con la participación del ayuntamiento que afecte su ámbito territorial, las condiciones técnicas conforme a las cuales se preste o pretenda prestar un servicio público de transporte;
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2007)</small>
 
-XXIV. Incorporar a las condiciones conforme a las cuales se lleva a cabo un servicio público, todas las modalidades que redunden en beneficio del interés público, para lo cual tomará en cuenta las opiniones, estudios y datos proporcionados por los organismos auxiliares y de consulta, así como la intervención de los ayuntamientos afectados;
+XXIV. Incorporar a las condiciones conforme a las cuales se lleva a cabo un servicio público, todas las modalidades que redunden en beneficio del interés público, considerando las necesidades de todos los ciudadanos, para lo cual tomará en cuenta las opiniones, estudios y datos proporcionados por los organismos auxiliares y de consulta, así como la intervención de los ayuntamientos afectados;
 
 XXV. Determinar, señalar, ampliar o reducir en cada camino, ruta o tramo de vía pública de jurisdicción local, el número, capacidad y demás características de los vehículos que en ella deban de operar, según las necesidades del servicio de transporte y las exigencias de su mejoramiento, en los términos de la fracción precedente;
 
@@ -1393,9 +1393,9 @@ Los titulares de concesiones y permisos de autos de alquiler, taxi o radio taxi 
 
 I. Prestar el servicio público de transporte, acatando las normas de calidad y operación correspondientes a su modalidad y clase, que se establecen en esta Ley y su reglamento;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2007)</small>
 
-II. En el caso del transporte público, deberán destinar al menos dos asientos debidamente identificados para el uso preferente de personas con discapacidad, embarazo o de la tercera edad;
+II. En el caso del transporte público, deberán destinar al menos tres asientos debidamente identificados para el uso preferente de personas con discapacidad, embarazo o de la tercera edad;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2215,6 +2215,14 @@ V. En los supuestos del artículo 156, fracciones I, II y III de esta ley, cuand
 
 Las autoridades de vialidad y tránsito, en ningún otro caso de los antes previstos, podrán retener un vehículo.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2007)</small>
+
+###### Artículo 158 Bis.
+
+Cuando sólo existan daños materiales entre los involucrados o entre éstos y algún tercero afectado en sus bienes y no haya lesionados y personas fallecidas, si los conductores cuentan con todo sus documentos en regla, siempre y cuando las partes afectadas celebren convenio y firmen el desistimiento respectivo, no se les incautarán los vehículos siniestrados ni se les levantarán folios de infracción. Se exceptúa de lo anterior cuando se hayan cometido infracciones distintas en forma independiente al accidente.
+
+Si uno o más de los involucrados no portan sus documentos en regla, sí procederá la aplicación del retiro de circulación del vehículo sólo para tales personas.
+
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 1999)</small>
 
 ###### Artículo 159.
@@ -2557,9 +2565,17 @@ IV. Los vehículos de carga pesada y los destinados al servicio público foráne
 
 V. Negarse injustificadamente a recibir carga o a levantar pasaje;
 
-VI. No usar taxímetro o cobrar una cuota mayor a la que resulte de aplicar la tarifa correspondiente; y
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2007)</small>
 
-VII. Aplicar condiciones diferentes de las autorizadas en la prestación del servicio.
+VI. No usar taxímetro o cobrar una cuota mayor a la que resulte de aplicar la tarifa correspondiente;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2007)</small>
+
+VII. Aplicar condiciones diferentes de las autorizadas en la prestación del servicio; y
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2007)</small>
+
+VIII. Incumplir lo establecido en el artículo 97 fracción II.
 
 > <small>(ADICIONADO, P.O. 9 DE MARZO DE 2002)</small>
 
@@ -3006,3 +3022,15 @@ Segundo.- Previa la entrada en vigor el Titular del Poder Ejecutivo implementar�
 > <small>(F. DE E., P.O. 6 DE ABRIL DE 2006)</small>
 
 Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Secretarías de Finanzas y Administración, en coordinación con la de Vialidad y Transporte, para realizar las adecuaciones presupuestales y las adquisiciones necesarias de los instrumento de medición y capacitación al personal en el manejo de éstos, para el debido cumplimiento del presente decreto.
+
+P.O. 23 DE ENERO DE 2007.
+
+DECRETO NUMERO 21738/LVII/06
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE ENERO DE 2007.
+
+DECRETO NUMERO 21742/LVII/06
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
