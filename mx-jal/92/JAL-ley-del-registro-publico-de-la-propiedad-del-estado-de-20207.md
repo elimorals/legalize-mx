@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2006-11-16"
+last_updated: "2007-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -525,6 +525,10 @@ La inscripción registral no convalida los actos o contratos que sean nulos de c
 
 No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en la Institución aparezcan con derecho para ello, no se invalidarán en cuanto a terceros de buena fe, una vez inscritos, aunque después se anulen o resuelva el derecho del otorgante mediante sentencia de autoridad competente.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2007)</small>
+
+Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos, ó contratos que se ejecuten u otorguen, violando una ley prohibitiva ó de interés público.
+
 ###### Artículo 35.
 
 Cuando se hubiere hecho alguna anotación en los registros de la Institución respecto al carácter litigioso de los bienes, o porque se haya reclamado la nulidad del título del otorgante, el adquirente sufrirá las consecuencias de la nulidad, una vez declarada.
@@ -790,6 +794,34 @@ Los testamentos ológrafos serán depositados en los términos que dispone el C�
 El registrador deberá autorizar un libro o medio especial de registro de testamentos ológrafos, para los efectos previstos en el Código y proveerá lo necesario, bajo su responsabilidad, para la debida custodia del ejemplar del testamento depositado, hasta su entrega al mismo testador o al juez competente.
 
 De la misma forma el Registro llevará mediante índices el control de los inmuebles sujetos a la disposición que señala el artículo 1893 del Código.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2007)</small>
+
+Artículo 55 bis.- Dentro de los cinco días siguientes al depósito o retiro de los testamentos ológrafos en el Registro Público de la Propiedad, el encargado dará aviso por escrito al Archivo de Instrumentos y a la Procuraduría General de Justicia del Estado acerca de dicha circunstancia.
+
+Igualmente el Encargado del Registro Público de la Propiedad dentro del plazo señalado en el párrafo que antecede, remitirá vía fax o electrónica el aviso de todo testamento ológrafo que reciba a la base de datos del Registro Nacional de Avisos de Testamento, conforme a los convenios que se celebren para tal efecto, en el que se expresarán en caso de tenerlos, los datos siguientes:
+
+I. Nombre completo del testador (apellido paterno, materno y nombres);
+
+II. Nacionalidad;
+
+III. Fecha de nacimiento;
+
+IV. Lugar de nacimiento;
+
+V. Clave Única del Registro Nacional de Población (CURP);
+
+VI. Estado civil;
+
+VII. Nombre completo del padre;
+
+VIII. Nombre completo de la madre;
+
+IX. Tipo de testamento;
+
+X. Lugar y fecha de su otorgamiento; y
+
+XI. Datos del registro.
 
 ## TITULO TERCERO
 
@@ -1456,3 +1488,19 @@ II. Se realizarán insertando el certificado de libertad o gravamen con cautelar
 III. En caso de escrituras sucesivas que se refieren al mismo inmueble, y que se encuentren en trámite de registro, se podrán realizar insertando un solo certificado de libertad de gravamen o bien el certificado de libertad o gravamen con cautelar inserto, siempre y cuando se encuentren vigentes éstos, de lo que deberá cerciorarse el notario bajo su responsabilidad.
 
 El Titular del Ejecutivo, a través de la Secretaria General de Gobierno, mediante acuerdo administrativo, podrá establecer, en su caso, las bases para la debida aplicación y cumplimiento del presente artículo.
+
+P.O. 23 DE ENERO DE 2007.
+
+DECRETO NUMERO 21737/LVII/06
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE ENERO DE 2007.
+
+DECRETO NUMERO 21743/LVII/06
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. En las sucesiones iniciadas con anterioridad a la entrada en vigor de este decreto, deberá seguirse el proceso conforme a las disposiciones vigentes en la fecha de fallecimiento del autor de la sucesión.
+
+TERCERO. El archivo de Instrumentos Públicos adoptará los lineamientos generales que expida el titular del Poder Ejecutivo con relación a los avisos de testamento que remitirá al Registro Nacional de Avisos de Testamento.
