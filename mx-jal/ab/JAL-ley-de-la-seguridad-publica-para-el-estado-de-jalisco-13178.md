@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-seguridad-publica-para-el-estado-de-jalisco-13178"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-28"
-last_updated: "2007-01-05"
+last_updated: "2007-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de diciembre de 1993.
 
@@ -127,7 +127,7 @@ El Procurador General de Justicia del Estado, en el ejercicio de las atribucione
 
 ###### Artículo 6°.
 
-El cuerpo operativo de la Secretaría de Vialidad y Transporte del Estado, tendrá el carácter de autoridad auxiliar de la seguridad pública cuando para ello sea requerido.
+(DEROGADO, P.O. 23 DE ENERO DE 2007)
 
 ## TITULO SEGUNDO. DE LOS CUERPOS DE SEGURIDAD PUBLICA DEL ESTADO
 
@@ -159,7 +159,7 @@ Se exceptúa de lo dispuesto en éste artículo, a los cuerpos municipales de se
 
 ###### Artículo 8°.
 
-Los cuerpos de seguridad pública del Estado, son:
+Los cuerpos de Seguridad Pública del Estado, son:
 
 I. La Dirección General de Seguridad Pública del Estado, con todas las unidades y agrupamientos que prevea su reglamento;
 
@@ -169,11 +169,15 @@ III. Los cuerpos de seguridad pública Municipales, con todas las unidades y agr
 
 IV. El Cuerpo Operativo de la Unidad Estatal de Protección Civil, con carácter de auxiliar;
 
-V. Los Cuerpos de Bomberos Municipales sólo con el carácter de auxiliar; y
+V. Los Cuerpos de Bomberos Municipales sólo con el carácter de auxiliar; y (sic)
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2007)</small>
+
+VI. El cuerpo operativo de la Secretaría de Vialidad y Transporte del Estado, en el ámbito de su competencia;
 
 > <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
 
-VI. Los demás que existan o en el futuro se constituyan con estricto respeto a la Ley.
+VII. Los demás que existan o en el futuro se constituyan con estricto respeto a la Ley.
 
 > <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
 
@@ -1212,3 +1216,9 @@ P.O. 5 DE ENERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El reglamento correspondiente deberá ser adecuado en un término no mayor de 90 días posteriores a la publicación del presente decreto.
+
+P.O. 23 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
