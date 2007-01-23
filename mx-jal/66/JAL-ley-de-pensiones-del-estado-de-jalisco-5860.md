@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-pensiones-del-estado-de-jalisco-5860"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2006-09-09"
+last_updated: "2007-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PENSIONES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -176,6 +176,10 @@ Para los efectos de este artículo, la Dirección de Pensiones calculará el mon
 ###### Artículo 17.
 
 Cuando las Entidades Públicas incorporadas no cumplan con las obligaciones establecidas en los Arts. 13 y 16 de esta Ley, deberán pagar intereses a la Dirección de Pensiones, conforme a una tasa equivalente al costo porcentual promedio de captación de recursos del Sistema Nacional Bancario.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2007)</small>
+
+Tratándose de los sujetos obligados, la Dirección de Pensiones deberá requerir de manera inmediata el cumplimiento de dichas obligaciones, además, deberá informar al Congreso del Estado, cuando omitan dar cuenta de las aportaciones y descuentos a que se refiere el artículo 16 de esta ley por más de tres meses.
 
 ###### Artículo 18.
 
@@ -880,3 +884,7 @@ Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 9 DE SEPTIEMBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor el día 1º de enero de 2008.
+
+P.O. 23 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
