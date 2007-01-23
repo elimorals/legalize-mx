@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-18421"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-05"
-last_updated: "2001-12-15"
+last_updated: "2007-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
 
 Ley publicada en Sección Octava del Periódico Oficial del Estado de Jalisco, el sábado 5 de agosto de 2000.
 
@@ -757,7 +757,7 @@ Ninguna toma se podrá instalar de otra parte que no sea la red de distribución
 
 ###### Artículo 66.
 
-Los predios no edificados y sin uso, si tienen tomas instaladas pagarán la misma cuota que los domésticos.
+(DEROGADO, P.O. 23 DE ENERO DE 2007)
 
 ###### Artículo 67.
 
@@ -892,6 +892,10 @@ V. Denunciar ante la autoridad competente cualquier acción u omisión relaciona
 ###### Artículo 86.
 
 Los reglamentos municipales establecerán los mecanismos para la determinación y actualización de las cuotas y tarifas que se cobren por concepto de la prestación de los servicios establecidos en la presente ley, las cuales se someterán a la aprobación del Ayuntamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2007)</small>
+
+Respecto de los predios ubicados en las calles donde haya redes de agua potable y alcantarillado, aún cuando no tengan toma instalada, se aprobarán cuotas para el mantenimiento, conservación y reposición de dicha infraestructura. Los predios no edificados que cuenten con toma instalada, también se aprobarán cuotas de conformidad a lo dispuesto por este capítulo.
 
 ###### Artículo 87.
 
@@ -1190,3 +1194,7 @@ P.O. 15 DE DICIEMBRE DE 2001.
 > <small>(F. DE E., P.O. 23 DE FEBRERO DE 2002)</small>
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
