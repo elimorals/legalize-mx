@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2007-01-04"
+last_updated: "2007-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -277,9 +277,11 @@ a) Fomento de hábitos de conducta y valores que contribuyan a la dignificación
 
 b) Promoción del servicio voluntario para la realización de tareas básicas de asistencia social bajo la dirección de las autoridades correspondientes;
 
-IV. Promoverán acciones tendientes a la obtención de recursos económicos y materiales en apoyo a los programas asistenciales; y
+IV. Promoverán acciones tendientes a la obtención de recursos económicos y materiales en apoyo a los programas asistenciales; y (sic)
 
-V. Gestionarán estímulos fiscales para las personas físicas o jurídicas que apoyen los programas de asistencia social.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2007)</small>
+
+V. Gestionarán estímulos fiscales para las personas físicas o jurídicas que apoyen los programas de asistencia social, siempre y cuando se encuentren registradas ante el instituto; y
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1999)</small>
 
@@ -1676,6 +1678,10 @@ El Secretario y Procurador Jurídico del Instituto ejercerá su vigilancia con e
 ###### Artículo 121.
 
 Las fundaciones y asociaciones de asistencia social privada constituidas con arreglo a este Código, gozarán de la reducción de un noventa por ciento en las contribuciones que deban al Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2007)</small>
+
+El Gobierno del Estado y los municipios podrán establecer estímulos de la misma naturaleza de conformidad con lo que señalen sus presupuestos de egresos.
 
 ## TITULO SEGUNDO. DE LA INTERVENCION DE LAS AUTORIDADES EN LOS ACTOS DE LA ASISTENCIA SOCIAL PRIVADA
 
@@ -3552,3 +3558,7 @@ P.O. 4 DE ENERO DE 2007.
 DECRETO NUMERO 21690.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
