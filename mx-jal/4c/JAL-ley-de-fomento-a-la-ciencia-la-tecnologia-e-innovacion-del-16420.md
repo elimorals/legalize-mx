@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-ciencia-la-tecnologia-e-innovacion-del-1642
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-06"
-last_updated: "2000-05-06"
+last_updated: "2007-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LA LEY DE FOMENTO A LA CIENCIA Y LA TECNOLOGIA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 6 de mayo de 2000.
 
@@ -165,7 +165,15 @@ El COECYTJAL fomentará el desarrollo de la investigación científica y tecnol�
 
 I. La administración de fondos federales destinados a promover y fortalecer la investigación científica y tecnológica;
 
-II. El establecimiento y administración de una partida presupuestal anual destinada exclusivamente al impulso de la investigación científica y tecnológica;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2007)</small>
+
+II. El establecimiento y administración de una partida presupuestal anual destinada exclusivamente al impulso de:
+
+a) La investigación científica y tecnológica;
+
+b) La difusión y divulgación de la ciencia y la tecnología; y
+
+c) El apoyo a las tareas de atracción de inversiones de base tecnológica.
 
 III. Los estímulos y exenciones que se fijen anualmente en las leyes de ingresos del Estado y sus municipios;
 
@@ -262,6 +270,10 @@ El Consejo Directivo en pleno, y las comisiones especiales, se reunirán en sesi
 ###### Artículo 12.
 
 Corresponde al Secretario Ejecutivo del Consejo Directivo, convocar por instrucciones de su Presidente a las sesiones del mismo, así como de las comisiones especiales, proponiendo para tal efecto el orden del día correspondiente, y levantar las actas respectivas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2007)</small>
+
+El director General de COECYTJAL podrá convocar a las sesiones del Consejo Directivo por instrucciones del Presidente o del Secretario Ejecutivo, debiendo observarse en este último supuesto, lo previsto por el párrafo anterior del presente artículo.
 
 ###### Artículo 13.
 
@@ -419,9 +431,11 @@ III. Recibir las propuestas y recomendaciones que se formulen en el seno de la C
 
 IV. Las demás que le encomienden el Consejo Directivo o el Coordinador de la Comisión Consultiva.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2007)</small>
+
 ###### Artículo 20.
 
-La Comisión Consultiva, celebrará sesiones ordinarias mensualmente, y extraordinarias cuando exista algún asunto que así lo amerite, previa convocatoria del Coordinador, o cuando lo soliciten por escrito una tercera parte del total de sus integrantes; debiendo comparecer a ellas cuando menos la mitad más uno de sus miembros para que exista quórum legal en la primera convocatoria, y en la segunda que mediará como mínimo veinticuatro horas para su celebración y a la que concurran por lo menos la tercera parte de sus integrantes. Asimismo, los acuerdos que emanen de la Comisión Consultiva, se adoptarán por mayoría simple.
+La Comisión Consultiva, celebrará sesiones ordinarias trimestralmente, y extraordinarias cuando exista algún asunto que así lo amerite, previa convocatoria del Coordinador, o cuando lo soliciten por escrito una tercera parte del total de sus integrantes; debiendo comparecer a ellas cuando menos la mitad más uno de sus miembros para que exista quórum legal en la primera convocatoria, y en la segunda que mediará como mínimo veinticuatro horas para su celebración y a la que concurran por lo menos la tercera parte de sus integrantes. Asimismo, los acuerdos que emanen de la Comisión Consultiva, se adoptarán por mayoría simple.
 
 ###### Artículo 21.
 
@@ -565,9 +579,29 @@ VII. Los apoyos de organismos e instituciones extranjeras; y
 
 VIII. Otros recursos que determine el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2007)</small>
+
 ###### Artículo 32.
 
-El objeto del Fondo será el otorgamiento de apoyos para el desarrollo de proyectos de investigación científica y tecnológica; equipo, instrumentos y materiales; becas para especialización que no excedan el término de dos años; proyectos de modernización, innovación y desarrollo tecnológicos; divulgación de la ciencia y la tecnología, así como para otorgar estímulos y reconocimientos a instituciones, empresas, así como a investigadores y tecnólogos que destaquen en estas áreas.
+El objeto del fondo será el otorgamiento de apoyos para:
+
+I. El desarrollo de proyectos de investigación científica y tecnológica;
+
+II. La adquisición o desarrollo de equipo, instrumentos y materiales;
+
+III. El otorgamiento de becas para especialización que no excedan el término de dos años;
+
+IV. La realización de proyectos de modernización, innovación y desarrollo tecnológicos;
+
+V. La investigación, estudio y divulgación de la ciencia y la tecnología;
+
+VI. El otorgamiento de estímulos y reconocimientos a organizaciones, empresas, así como a investigadores y tecnólogos que destaquen en estas áreas;
+
+VII. El apoyo a los investigadores para el registro de sus patentes;
+
+VIII. La construcción de prototipos de bienes de capital; y
+
+IX. Cualquier otra actividad que sea congruente con el objeto del fondo y de la presente ley.
 
 ###### Artículo 33.
 
@@ -660,3 +694,9 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
