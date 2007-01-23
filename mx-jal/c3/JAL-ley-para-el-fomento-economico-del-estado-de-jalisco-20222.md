@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-fomento-economico-del-estado-de-jalisco-20222"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-17"
-last_updated: "2007-01-04"
+last_updated: "2007-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL FOMENTO ECONOMICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Jalisco, el sábado 17 de febrero del 2001.
 
@@ -545,15 +545,15 @@ En el Presupuesto de Egresos del Poder Ejecutivo del Estado, se deberá establec
 
 El Consejo Estatal de Promoción Económica contará con una Junta de Gobierno, que será su máximo órgano de gobierno; y contará además con un Director General, el cual será nombrado por el titular del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2007)</small>
 
 ###### Artículo 25.
 
-La Junta de Gobierno se integrará por un Presidente que será el Gobernador del Estado o la persona que éste designe, y;
+La Junta de Gobierno se integrará por un Presidente que será el Gobernador del Estado la persona que éste designe:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2007)</small>
 
-I. Los titulares, o sus respectivos representantes debidamente acreditados, de cada una de las secretarías, dependencias y ayuntamientos e siguientes:
+I. Los titulares, o sus respectivos representantes debidamente acreditados, de cada una de las secretarías, dependencias y ayuntamientos siguientes:
 
 1. Secretaría de Promoción Económica del Gobierno del Estado;
 
@@ -565,15 +565,19 @@ I. Los titulares, o sus respectivos representantes debidamente acreditados, de c
 
 5. Secretaría de Desarrollo Rural del Gobierno del Estado;
 
-6. Ayuntamiento de Guadalajara;
+6. Secretaría de Desarrollo Humano;
 
-7 Ayuntamiento de Tlaquepaque;
+7. Secretaría de Trabajo y Previsión Social;
 
-8. Ayuntamiento de Tonalá;
+8. Ayuntamiento de Guadalajara;
 
-9. Ayuntamiento de Zapopan;
+9. Ayuntamiento de Tlaquepaque;
 
-10. Cuando se traten asuntos relacionados con el resto de los municipios de la entidad, se invitará al Ayuntamiento del municipio respectivo para que acredite un representante a la sesión correspondiente.
+10. Ayuntamiento de Tonalá;
+
+11. Ayuntamiento de Zapopan; y
+
+12. Cuando se traten de asuntos relacionados con el resto de los municipios de la entidad, se invitará al Ayuntamiento del municipio respectivo para que acrediten un representante a la sesión correspondiente.
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -1260,3 +1264,7 @@ P.O. 4 DE ENERO DE 2007.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El reglamento de la Ley de Planeación para el Estado de Jalisco y sus Municipios deberá normar la periodicidad y formalidades para el funcionamiento del COPLADE en pleno y los Subcomités.
+
+P.O. 23 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
