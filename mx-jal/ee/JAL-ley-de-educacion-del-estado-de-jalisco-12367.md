@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2006-11-25"
+last_updated: "2007-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -337,13 +337,17 @@ XVIII.- Cumplir y hacer cumplir esta ley y sus disposiciones reglamentarias;
 
 XXIX.- Promover, coordinar, ejecutar y evaluar un programa anual de capacitación, orientación y formación dirigido a los padres de familia o tutores en los centros de educación básica, incluyendo la indígena y educación especial. Estableciendo en cada institución educativa o zona escolar la escuela de padres;
 
-XXX.- Prestar los servicios de formación, actualización y superación profesional en gestión y administración escolar para los directores, supervisores, jefes de sector de educación básica, incluyendo la inicial, indígena y especial.
+XXX.- Prestar los servicios de formación, actualización y superación profesional en gestión y administración escolar para los directores, supervisores, jefes de sector de educación básica, incluyendo la inicial, indígena y especial;
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2007)</small>
 
-XXXI. Difundir los derechos de las niñas, los niños y adolescentes, así como los mecanismos y canales de prevención y denuncia de abusos en su integridad física y mental, entre el alumnado de las escuelas de educación básica obligatoria en el Estado, en colaboración con la Comisión Estatal Coordinadora para el Desarrollo y Protección de los derechos de las niñas, los niños y adolescentes y demás autoridades competentes; y
+XXXI. Difundir los derechos de las niñas, los niños y adolescentes, así como los mecanismos y canales de prevención y denuncia de abusos en su integridad física y mental, entre el alumnado de las escuelas de educación básica obligatoria en el Estado, en colaboración con la Comisión Estatal Coordinadora para el Desarrollo y Protección de los Derechos de las Niñas, los Niños y Adolescentes y demás autoridades competentes;
 
-XXXII.- Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2007)</small>
+
+XXXII.- Coordinarse con la Secretaría de Salud para implementar programas que fomenten en los educandos y su familia, el consumo de alimentos con alto valor nutricional, así como establecer lineamientos generales para evitar la venta de alimentos con bajo o nulo valor nutricional en las tiendas escolares y, en general, en los espacios donde se expenden alimentos en las instituciones de nivel básico. Asimismo, realizar las inspecciones necesarias a fin de vigilar el cumplimiento de las disposiciones relativas; y
+
+XXXIII.- Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -1519,7 +1523,9 @@ VI.- Dar a conocer antes de su aplicación los exámenes o cualesquiera otros in
 
 VII.- Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables;
 
-VIII.- Realizar o permitir se realice publicidad dentro del plantel escolar que fomente consumismo, así como realizar o permitir la comercialización de bienes o servicios notoriamente ajenos al proceso educativo. En el caso de venta de alimentos, se cuidará que los mismos sean de alto valor nutricional y coadyuven a una dieta balanceada;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2007)</small>
+
+VIII.- Realizar o permitir publicidad dentro del plantel escolar que fomente consumismo, así como realizar o permitir la comercialización de bienes o servicios notoriamente ajenos al proceso educativo. En el caso de venta de alimentos, se cuidará que los mismos sean de alto valor nutricional y coadyuven a una dieta balanceada, de conformidad con los lineamientos que emita la Secretaría en coordinación con la Secretaría de Salud;
 
 IX.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos;
 
@@ -1856,3 +1862,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En la presentación del Presupuesto para el ejercicio fiscal 2007 el ejecutivo del Estado deberá proponer la partida presupuestal para el debido cumplimiento del presente decreto.
 
 TERCERO. A partir de la entrada en vigor del presente decreto, la Secretaría de Educación conjuntamente con las asociaciones de padres de familia buscará la mejor forma de resolver los accidentes escolares que se presenten en los 3 meses posteriores a la entrada en vigor del presente decreto.
+
+P.O. 23 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Educación en coordinación con la Secretaría de Salud emitirá los lineamientos a que se refiere este decreto, a más tardar en 180 días después de su publicación.
