@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2007-01-11"
+last_updated: "2007-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -6468,9 +6468,11 @@ II.- Cuando haya menores interesados;
 
 III.- Cuando haya peligro de que se oculten o dilapiden los bienes.
 
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2007)</small>
 
-ARTICULO 817 bis.- En los juicios sucesorios el Juez pedirá informe al Procurador de Justicia del Estado, al Director de Archivo de Instrumentos Públicos y al Director del Registro Nacional de Testamentos, acerca de si en su oficina se ha depositado algún testamento del autor de la sucesión, para que en caso de que así sea, se le remita copia autorizada del mismo.
+ARTICULO 817 bis.- En los juicios sucesorios el Juez pedirá informe al Procurador de Justicia del Estado, al Director del Archivo de Instrumentos Públicos y al Director del Registro Nacional de Avisos de Testamentos, acerca de si en su oficina se ha depositado o registrado algún testamento del autor de la sucesión, para que en caso de que así sea, se le remita copia autorizada del mismo.
+
+La petición que se realice al Registro Nacional de Avisos de Testamentos, se efectuará vía fax o electrónica.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
 
@@ -8601,3 +8603,11 @@ OCTAVO. Los asuntos pendientes de trámite de la Procuraduría para Asuntos Ind�
 NOVENO. Si para la fecha de entrada en vigencia de esta Ley, el Estado y los municipios con población indígena hubieren ya concluido su Plan de Desarrollo sin haber incorporado el sentir de los pueblos indígenas, se procederá a escuchar a las comunidades indígenas e incorporar a dichos planes las aportaciones en su caso.
 
 DECIMO. El titular del Poder Ejecutivo Estatal dispondrá que el presente decreto, se traduzca a las lenguas de los pueblos indígenas del Estado y ordenará su difusión en sus comunidades.
+
+P.O. 23 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. En las sucesiones iniciadas con anterioridad a la entrada en vigor de este decreto, deberá seguirse el proceso conforme a las disposiciones vigentes en la fecha de fallecimiento del autor de la sucesión.
+
+TERCERO. El archivo de Instrumentos Públicos adoptará los lineamientos generales que expida el titular del Poder Ejecutivo con relación a los avisos de testamento que remita el Registro Nacional de Avisos de Testamento.
