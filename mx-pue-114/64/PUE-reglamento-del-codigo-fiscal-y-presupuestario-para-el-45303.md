@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-codigo-fiscal-y-presupuestario-para-el-45303"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-13"
-last_updated: "2006-03-27"
+last_updated: "2007-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,1832 +23,2430 @@ state: "PUE"
 ---
 # REGLAMENTO DEL CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-REGLAMENTO DEL CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
+LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2026.
 
-Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 13 de junio de 2005.
+Ley publicada en la Sección Segunda al Número 146 del Periódico Oficial del Estado de Sinaloa, el viernes 4 de diciembre de 2020.
 
-ACUERDO del H. Cabildo del Municipio de Puebla de fecha 31 de marzo de 2005, que aprueba el Dictamen de la Comisión de Patrimonio y Hacienda Municipal, por el cual se expide el REGLAMENTO DEL CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA.
+El Ciudadano LIC. QUIRINO ORDAZ COPPEL, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
 
-Al margen de un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Ayuntamiento del Municipio de Puebla.- Periodo 2005-2008.- Secretaria General.
+Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
 
-ENRIQUE DOGER GUERRERO, Presidente Municipal Constitucional del H. Ayuntamiento del Municipio de Puebla, a sus habitantes hace saber:
+El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Sexagésima Tercera Legislatura, ha tenido a bien expedir el siguiente,
 
-Que los Integrantes de la Comisión de Patrimonio y Hacienda Pública Municipal, con fundamento en lo establecido en los artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos; 102, 103 y 105 fracciones III y XII de la Constitución Política del Estado Libre y Soberano de Puebla; y 78 fracción IV y 84 de la Ley Orgánica Municipal, y;
+DECRETO NÚMERO: 517
 
-PRIMERO.- Que en Sesión Ordinaria de Cabildo de fecha 31 de marzo de dos mil cinco, el H. Ayuntamiento de Puebla, de Acuerdo con el Dictamen presentado por la Comisión de Patrimonio y Hacienda Municipal; se aprueba lo siguiente:
+Que expide la Ley de Educación para el Estado de Sinaloa.
 
-HONORABLE CABILDO:
+###### ARTÍCULO ÚNICO.
 
-Los suscritos Pablo Fernández del Campo Espinosa, José Manuel Janeiro Fernández, César José Sotomayor Sánchez y Luz María Montserrat Cabrera Montaño, Regidores integrantes de la Comisión de Patrimonio y Hacienda Municipal del Honorable Ayuntamiento del Municipio de Puebla, con fundamento en lo dispuesto por los artículos 115 fracciones II y IV de la Constitución Política de los Estados Unidos Mexicanos; 102, 103 y 105 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, y 78 fracción IV y 84 de la Ley Orgánica Municipal, sometemos a la discusión y aprobación de este Honorable Cuerpo Colegiado, el Dictamen por el que se expide el Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla; por lo que:
+Se expide la Ley de Educación para el Estado de Sinaloa, para quedar de la manera siguiente:
 
-CONSIDERANDO.
+LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-Por lo anteriormente expuesto y con fundamento en los dispositivos legales invocados, se somete a la consideración del Honorable Ayuntamiento del Municipio de Puebla, el siguiente:
-
-DICTAMEN
-
-PRIMERO.- Que toda vez que el presente dictamen se presenta por escrito y firmado por los suscritos regidores que integramos la Comisión de Hacienda, se solicita que dada la naturaleza de orden público e interés social del presente asunto, se discuta y en su caso sea aprobado.
-
-SEGUNDO.- Que se aprueba en todos sus términos la presente propuesta del Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla, para quedar como sigue:
-
-REGLAMENTO DEL CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
-
-## TÍTULO PRIMERO (SIC). DE LAS DISPOSICIONES GENERALES Y DE LA JUSTICIA ADMINISTRATIVA
-
-Objeto del Reglamento.
+## Título Primero. Del Derecho a la Educación
 
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto proveer a la exacta observancia del Código Fiscal y Presupuestario para el Municipio de Puebla.
+La presente Ley garantiza el derecho a la educación reconocido en el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte y en la Constitución Política del Estado de Sinaloa, cuyo ejercicio es necesario para alcanzar el bienestar de todas las personas.
 
-Definiciones.
+Las disposiciones de esta Ley son de orden público, interés social y observancia general en el Estado de Sinaloa y tienen por objeto regular la educación que imparta el Estado, los municipios, sus organismos desconcentrados y descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios. También son de interés social las actividades e inversiones que estos realicen en materia educativa.
+
+Los órganos descentralizados y desconcentrados de la Administración Pública Estatal, con funciones eminentemente educativas, regularán su operación y funcionamiento de conformidad con el instrumento jurídico que los haya creado, siempre que no se opongan a la presente Ley.
 
 ###### Artículo 2.
 
-Para la aplicación de este Reglamento se entenderá por:
-
-I. Autoridades fiscales.- Las autoridades fiscales del Municipio de Puebla;
-
-II. Ayuntamiento.- El Honorable Ayuntamiento del Municipio de Puebla;
-
-III. Cabildo.- El Cabildo del Honorable Ayuntamiento del Municipio de Puebla;
-
-IV. Código.- El Código Fiscal y Presupuestario para el Municipio de Puebla;
-
-V. Concedente.- La autoridad que emita un acuerdo para la concesión de un bien del dominio público;
-
-VI. Congreso.- El Honorable Congreso del Estado Libre Y Soberano de Puebla;
-
-VII. Contraloría.- La Contraloría del Honorable Ayuntamiento del Municipio de Puebla;
-
-VIII. Contraloría Interna.- El órgano de control de cada entidad auxiliar de la Administración Pública Municipal;
-
-IX. Dependencias.- Las dependencias de la Administración Pública Centralizada del Honorable Ayuntamiento del Municipio de Puebla y sus órganos desconcentrados;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-X. SAU.- Secretaria de Administración Urbana;
-
-XI. Dirección Jurídica.- La Dirección General Jurídica Consultiva del Honorable Ayuntamiento del Municipio de Puebla;
-
-XII. Entidades.- Los organismos, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la Administración Pública del Municipio de Puebla;
-
-XIII. Erario.- Conjunto de recursos monetarios y medios de pago que tiene el Municipio de Puebla, para el cumplimiento de sus fines;
-
-XIV. Estado.- El Estado Libre y Soberano de Puebla;
-
-XV. Fisco.- La autoridad fiscal u órgano encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio de Puebla;
-
-XVI. Municipio.- El Municipio de Puebla;
-
-XVII. Organismos.- Los organismos públicos descentralizados de la Administración Pública del Municipio de Puebla;
-
-XVIII. Órgano Desconcentrado.- El órgano dependiente de la Administración Pública Centralizada del Municipio de Puebla, en el que las dependencias descongestionan parte de su competencia;
-
-XIX. Oficina Ejecutara.- El órgano de la Tesorería Municipal, encargado del cobro coactivo de un crédito fiscal;
-
-XX. Periódico Oficial.- El Periódico Oficial del Estado de Puebla;
-
-XXI. Presidente.- El Presidente Constitucional el Honorable Ayuntamiento del Municipio de Puebla;
-
-XXII. Sindico.- El Titular de la Sindicatura, del Honorable Ayuntamiento del Municipio de Puebla;
-
-XXIII. Sindicatura.- La Sindicatura del Honorable Ayuntamiento del Municipio de Puebla;
-
-XXIV. Tesorería.- La Tesorería del Honorable Ayuntamiento del Municipio de Puebla, y (sic)
-
-XXV. Tesorero.- El Titular de la Tesorería del Honorable Ayuntamiento del Municipio de Puebla;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
-
-XXVI. Código Reglamentario.- El Código Reglamentario para el Municipio de Puebla.
-
-Derecho a la legalidad.
+La distribución de la función social educativa, se funda en la obligación de cada orden de gobierno de participar en el proceso educativo y de aplicar los recursos económicos que se asignan a esta materia por las autoridades competentes para cumplir los fines y criterios de la educación.
 
 ###### Artículo 3.
 
-El Ayuntamiento reconoce y debe procurar el derecho de los particulares a la legalidad y dar prontitud y eficacia a los asuntos en trámite.
-
-Obligación de la autoridad de hacer saber al particular la procedencia del recurso de revisión.
+La autoridad educativa estatal fomentará la participación de los educandos, madres y padres de familia o tutores, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo y, en general, de todo el Sistema Educativo Estatal, para asegurar que éste extienda sus beneficios a todos los sectores sociales y las regiones de Sinaloa, a fin de contribuir al desarrollo económico, social y cultural de sus habitantes.
 
 ###### Artículo 4.
 
-Al momento de notificar un acto que pueda ser recurrido a través del recurso de revisión previsto en el Código, la autoridad emisora debe hacer saber esta circunstancia a quien va dirigido, señalando los artículos aplicables.
+Para efectos de la presente Ley, se entenderá por:
 
-Promoción del recurso.
+I. Autoridad educativa federal: a la Secretaría de Educación Pública de la Administración Pública Federal;
+
+II. Autoridad educativa estatal: El Ejecutivo del Estado, a través de la Secretaría de Educación Pública y Cultura del Estado de Sinaloa;
+
+III. Autoridad educativa municipal: al Ayuntamiento de cada Municipio del Estado de Sinaloa;
+
+IV. Autoridades escolares: al personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares;
+
+V. Estado: al Estado de Sinaloa;
+
+VI. Ley General: a la Ley General de Educación; y
+
+VII. Ley: a la Ley de Educación para el Estado de Sinaloa.
 
 ###### Artículo 5.
 
-Para efectos del artículo 4 del Código, se entenderá que el recurso de revisión es interpuesto ante la autoridad que emitió el acto, en los siguientes casos:
+La interpretación, aplicación y vigilancia del cumplimiento de esta Ley corresponde a las autoridades educativas del Estado y de los municipios, en los términos que este ordenamiento establece en el Título Octavo, en el marco de distribución de competencias, y en las demás disposiciones en la materia.
 
-I. Tratándose de actos emanados por las autoridades fiscales, por el hecho de que el escrito que contenga el recurso, sea depositado en la mesa receptora de correspondencia de la autoridad emisora que corresponda, de las referidas en el artículo 26 del Código, o directamente en las oficinas de la Tesorería;
-
-II. En el caso de los actos previstos en los artículos 365, 366 y 368 del Código:
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
-
-a) Tratándose de actos del Presidente a través de la SAU tendientes a la remoción de cualquier obstáculo creado natural o artificialmente para el uso y destino de los bienes del dominio público, por el hecho de que el escrito que contenga el recurso, sea depositado en la Oficialía de Partes de la Secretaria del Ayuntamiento o en la mesa receptora de correspondencia de la SAU.
-
-b) En el caso de actos del titular de un organismo, tendientes a la remoción de cualquier obstáculo creado natural o artificialmente para el uso y destino de los bienes del dominio público, por el hecho de que el escrito que contenga el recurso, sea depositado en la mesa receptora de correspondencia del organismo.
-
-c) En el caso de actos de la Sindicatura, que contengan medidas administrativas encaminadas a obtener, mantener o recuperar la posesión de los bienes del dominio público, por el hecho de que el escrito que contenga el recurso, sea depositado en la Oficialía de Partes de la Secretaria del Ayuntamiento o en la mesa receptora de correspondencia de la propia Sindicatura.
-
-d) Tratándose de actos del representante jurídico del organismo de que se trate, que contengan medidas administrativas encaminadas a obtener, mantener o recuperar la posesión de los bienes del dominio público, por el simple hecho de que el escrito que contenga el recurso, sea depositado en la mesa receptora de correspondencia del propio organismo.
-
-Los responsables de la recepción del recurso, deberán remitir los escritos y anexos que los contengan, a las autoridades encargadas de rendir los informes y enviar los expedientes a que se refiere el artículo 5 del Código, dentro del improrrogable término de 12 horas hábiles, contadas a partir de la recepción del mismo.
-
-Remisión del expediente e informe por parte de la autoridad emisora del acto o resolución.
+Las autoridades educativas estatal y municipales, en el ámbito de su competencia, podrán establecer coordinación interestatal e intermunicipal para el desarrollo de proyectos regionales educativos que contribuyan a los principios y fines establecidos en esta Ley.
 
 ###### Artículo 6.
 
-La autoridad emisora del acto o de la resolución, al recibir el recurso de revisión, contará, a partir de ese día, con un término improrrogable de tres días hábiles, para remitir a la Dirección Jurídica, el expediente y el informe a que se refiere el artículo 5 del Código.
-
-En el caso que existan razones suficientes, que impidan la remisión de los expedientes originales, la autoridad que rinda el informe lo hará saber a la Dirección Jurídica, remitiendo copia autorizada legible de las actuaciones.
-
-En el caso que por su costo, volumen u otra razón justificada, no sea posible la remisión de la copia autorizada a que se refiere el párrafo inmediato anterior, la autoridad que rinda su informe lo hará saber a la Dirección Jurídica, remitiendo una relación pormenorizada de los documentos que obran en el expediente, poniéndolo para su consulta, a la vista de la propia Dirección Jurídica y del recurrente, en la oficina de la autoridad responsable.
-
-Los recurrentes podrán ampliar el recurso administrativo de revisión, al momento de dar contestación al traslado que en términos del artículo 9 del Código ordena la Dirección Jurídica, siempre y cuando del mismo se desprendan actos que haya manifestado desconocer.
-
-Notificaciones personales.
+Para el cumplimiento de los fines y criterios previstos en esta Ley y de conformidad con las necesidades de la población en sus contextos locales y situacionales, la autoridad educativa estatal podrá llevar a cabo una regionalización en la prestación del servicio educativo, garantizando a las personas el acceso a una educación con equidad y excelencia.
 
 ###### Artículo 7.
 
-Durante la tramitación del recurso de revisión, se notificarán en forma personal los siguientes actos:
+Toda persona tiene derecho a recibir educación de excelencia en condiciones de equidad y, para ello, tendrán las mismas oportunidades de acceso, permanencia y promoción en el Sistema Educativo Estatal, cumpliendo con los requisitos que establezcan las disposiciones aplicables. Las instituciones oficiales que forman parte del Sistema Educativo Estatal no podrán negarse a admitir a alumnos por motivos políticos, económicos, raciales, ideológicos, orientación sexual, religiosos, o cualquier otro que atente contra la dignidad humana, o por causas imputables a sus progenitores o a quienes tuvieren su guarda, tutela o patria potestad.
 
-I. El requerimiento que la Dirección Jurídica realice al promovente, en los términos del artículo 6 del Código, para el efecto de que subsane los requisitos legales omitidos en la formulación del recurso;
+La educación es un medio para que las personas adquieran, actualicen, completen y amplíen sus conocimientos, capacidades, habilidades y aptitudes que permitan su desarrollo personal y profesional; como consecuencia de ello contribuir a su bienestar y a la transformación y el mejoramiento de la sociedad de la que forman parte.
 
-II. La resolución por la que se deseche o se tenga por no presentado el recurso;
-
-III. El auto por el que se admite el recurso a trámite y aquél en que se tengan por perdidos los derechos del recurrente para señalar hechos controvertidos o para ofrecer pruebas, según el caso;
-
-IV. El requerimiento que la Dirección Jurídica realice al promovente, para que presente los documentos previstos en el artículo 7 del Código;
-
-V. El acuerdo que dé a conocer al promovente del recurso, el informe que rinda la autoridad cuyos actos son impugnados;
-
-VI. El auto que abra el periodo probatorio y el auto por el que la Dirección Jurídica ordene la práctica de diligencias para mejor proveer, y
-
-VII. Las resoluciones que pongan fin al procedimiento.
-
-Si el recurrente omitió señalar domicilio, las notificaciones se realizaran por estrados.
-
-Diligencias para mejor proveer.
+Con el ejercicio de este derecho, inicia un proceso permanente centrado en el aprendizaje del educando, que contribuye a su desarrollo humano integral y a la transformación de la sociedad; es factor determinante para la adquisición de conocimientos significativos y la formación integral para la vida de las personas con un sentido de pertenencia social basado en el respeto de la diversidad, y es medio fundamental para la construcción de una sociedad equitativa y solidaria.
 
 ###### Artículo 8.
 
-Las diligencias para mejor proveer, constituyen actos discrecionales de la Dirección Jurídica, que tienen por objeto que la propia Dirección Jurídica, aclare algún punto dudoso o ratifique algún hecho, con el propósito de tener mejor conocimiento de la cuestión que debe fallar, siendo potestativo de esta autoridad fiscal, tomar en cuenta o no, las pruebas allegadas en esa forma, apreciarlas según su criterio y aun considerar que son innecesarias para resolver el asunto, lo que deberá fundar y motivar.
+Todas las personas habitantes del Estado deben cursar la educación preescolar, la primaria, la secundaria y la media superior. Las madres y padres o quienes ejerzan la patria potestad o la tutela, tienen la responsabilidad de hacer que sus hijas, hijos o pupilos menores de dieciocho años asistan a las escuelas, para recibir educación obligatoria, en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo.
 
-Desistimiento expreso del recurso.
+La educación inicial es un derecho de la niñez; es responsabilidad del Estado concientizar sobre su importancia y garantizarla conforme a lo dispuesto en la Ley General y en esta Ley.
+
+La obligatoriedad de la educación superior corresponde al Estado en los términos dispuestos por la fracción X del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y las leyes en la materia.
+
+Además de impartir educación en los términos establecidos en la Constitución Política del Estado, la autoridad educativa estatal apoyará la investigación e innovación científica, humanística y tecnológica, y alentará el fortalecimiento y la difusión de la cultura nacional y universal, en los términos que las leyes en la materia determinen.
 
 ###### Artículo 9.
 
-En el caso de que el recurrente se desista expresamente del recurso de revisión, la autoridad podrá citarla para su ratificación, bajo el apercibimiento que de no comparecer se tendrá por ratificado el desistimiento.
+Los Gobiernos del Estado y municipales están obligados a prestar servicios de educación inicial, preescolar, primaria, secundaria, media superior y superior. Dichos servicios se otorgarán en el marco del federalismo y la concurrencia de competencias previstas en la Constitución Política de los Estados Unidos Mexicanos y en la distribución de la función social educativa establecida en la Ley General.
 
-Hechos que hacen cesar los efectos de los actos reclamados en el recurso.
+El Gobierno del Estado y los municipios deberán considerar, invariablemente en sus presupuestos de egresos, las partidas anuales necesarias al sostenimiento de la educación pública, las que de ninguna manera podrán ser inferiores, en términos reales a las cantidades y porcentajes fijados para el ejercicio fiscal inmediato anterior.
 
 ###### Artículo 10.
 
-Para efectos de la fracción IV del artículo 15 del Código, los promoventes del recurso de revisión, están obligados a manifestar a la Dirección Jurídica, los hechos que surjan durante el procedimiento que hagan cesar los efectos de los actos reclamados.
-
-Ilegalidad manifiesta vinculada directamente con el acto o resolución que se impugna.
+Las autoridades educativas del Estado buscarán la equidad, la excelencia y la mejora continua en la educación, para lo cual colocarán al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes. Las acciones que desarrollen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
 
 ###### Artículo 11.
 
-Para efectos del artículo 16 del Código, la Dirección Jurídica podrá anular los actos o resoluciones impugnados cuando advierta que existe ilegalidad manifiesta, siempre y cuando ésta se vincule directamente con el acto o resolución impugnado, sin que la Dirección se ocupe de actos o resoluciones no propuestos en el recurso, bastando que la misma cumpla con el principio de congruencia.
+En la prestación de los servicios educativos se impulsará el desarrollo humano integral para:
 
-Una vez que la Dirección Jurídica emita resolución que ponga fin al recurso administrativo de revisión, los recurrentes podrán solicitar por escrito la aclaración de la misma dentro de los tres días hábiles siguientes a aquel en que cause efectos la notificación respectiva.
+I. Contribuir a la formación del pensamiento crítico, a la transformación y al crecimiento solidario de la sociedad, enfatizando el trabajo en equipo y el aprendizaje colaborativo;
 
-La Dirección Jurídica dará contestación a la solicitud de aclaración de resolución dentro de los tres días hábiles siguientes, interrumpiendo el término para que la misma cause ejecutoria. La aclaración de la resolución integrará la resolución definitiva.
+II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia, la tecnología y la innovación como factores del bienestar y la transformación social;
 
-Consultas de autoridades fiscales.
+III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+IV. Combatir las causas de discriminación y violencia en las diferentes regiones del Estado, especialmente la que se ejerce contra la niñez y la de género;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2026)</small>
+
+VI. Promover y fomentar en la educación la integración de conocimientos básicos sobre salud mental, aprendizaje socioemocional y autocuidado, como eje transversal.
 
 ###### Artículo 12.
 
-La Dirección Jurídica al desahogar las consultas que le formulen las demás autoridades fiscales, se limitará a emitir dictámenes y dar su opinión sobre las cuestiones de carácter legal que se sometan a su estudio, sin que en ningún caso las opiniones tengan el carácter de resoluciones.
+En el Estado se fomentará en las personas una educación basada en:
 
-La Contraloría practicará auditoría cada mes sobre los libros, expedientes, procedimientos y resoluciones que en materia del Recurso Administrativo de Revisión se tramita ante la Dirección Jurídica, con la finalidad de verificar su debido control y la legalidad de su actuación.
+I. La identidad y el sentido de pertenencia como sinaloense, además del respeto desde la interculturalidad, para considerarse como parte de una nación pluricultural y plurilingüe con una historia que cimienta perspectivas del futuro, que promueva la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;
 
-## TÍTULO II
+II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la justicia, la solidaridad, la reciprocidad, la lealtad, la libertad, entre otros;
 
-DE LAS RELACIONES JURÍDICAS FÍSICO-CONTRIBUYENTES Y DE LA COLABORACIÓN ADMINISTRATIVA.
+III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles, y
 
-Materia del título.
+V. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del Estado.
+
+## Título Segundo. Del Sistema Educativo Estatal
+
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 13.
 
-Es materia del presente titulo, la reglamentación de las disposiciones del Código, vinculadas a las relaciones Jurídicas entre el fisco y los contribuyentes y a la Colaboración Administrativa.
+En términos de la Constitución Política de los Estados Unidos Mexicanos, corresponde a la Federación la rectoría de la educación.
 
-Interpretación y aplicación del Reglamento.
+La educación que imparta el Estado, conforme a lo establecido en el artículo 7 de la Ley General, además de obligatoria, será:
+
+I. Universal, al ser un derecho humano que corresponde a todas las personas por igual, por lo que:
+
+a) Extenderá sus beneficios sin discriminación alguna, de conformidad con lo dispuesto en el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, y
+
+b) Tendrá especial énfasis en el estudio de la realidad y las culturas nacionales y estatales;
+
+II. Inclusiva, eliminando toda forma de discriminación y exclusión, así como las demás condiciones estructurales que se convierten en barreras al aprendizaje y la participación, por lo que:
+
+a) Atenderá las capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de los educandos;
+
+b) Eliminará las distintas barreras al aprendizaje y a la participación que enfrentan cada uno de los educandos, para lo cual las autoridades educativas, en el ámbito de su competencia, adoptarán medidas en favor de la accesibilidad y los ajustes razonables;
+
+c) Proveerá de los recursos técnicos-pedagógicos y materiales necesarios para los servicios educativos, y
+
+d) Establecerá la educación especial disponible para todos los tipos, niveles, modalidades y opciones educativas, la cual se proporcionará en condiciones necesarias, a partir de la decisión y previa valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, por una condición de salud;
+
+III. Pública, al ser impartida y administrada por el Estado, por lo que:
+
+a) Asegurará que el proceso educativo responda al interés social y a las finalidades de orden público para el beneficio de la Nación y del Estado, y
+
+b) Vigilará que la educación impartida por los particulares, cumpla con las normas de orden público que rigen al proceso educativo y al Sistema Educativo Estatal que se determinen en esta Ley y demás disposiciones aplicables;
+
+IV. Gratuita, al ser un servicio público garantizado por el Estado, por lo que:
+
+a) Se prohíbe el pago de cualquier contraprestación que impida o condicione la prestación de este servicio en la educación que imparta el Estado;
+
+b) No se podrá condicionar la inscripción, el acceso a los planteles, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos al pago de contraprestación alguna, ni afectar en cualquier sentido la igualdad en el trato a los educandos, y
+
+c) Las donaciones o aportaciones voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestación del servicio educativo. Las autoridades educativas, en el ámbito de su competencia, definirán los mecanismos para su regulación, destino, aplicación, transparencia y vigilancia, además tendrán la facultad de apoyarse en instituciones que se determinen para tal fin, y
+
+V. Laica, al mantenerse por completo ajena a cualquier doctrina religiosa.
+
+La educación impartida por los particulares con autorización o con reconocimiento de validez oficial de estudios, se sujetará a lo previsto en la fracción VI del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, al Título Décimo Primero de la Ley General y a lo dispuesto en el Título Décimo Segundo de esta Ley.
 
 ###### Artículo 14.
 
-La interpretación y aplicación del presente titulo, para efectos administrativos corresponde a las autoridades fiscales en los términos de este Reglamento.
+La educación impartida en el Estado, persigue los siguientes fines:
 
-### CAPÍTULO SEGUNDO. DE LA ESTRUCTURA Y ATRIBUCIONES DE LA TESORERÍA Y DE LA DIRECCIÓN JURÍDICA
+I. Contribuir al desarrollo integral y permanente de los educandos, para que ejerzan de manera plena sus capacidades, a través de la mejora continua del Sistema Educativo Estatal;
 
-Competencia del Ayuntamiento.
+II. Promover el respeto irrestricto de la dignidad humana, como valor fundamental e inalterable de la persona y de la sociedad, a partir de una formación humanista que contribuya a la mejor convivencia social, en un marco de respeto por los derechos de todas las personas y la integridad de las familias, el aprecio por la diversidad y la corresponsabilidad con el interés general;
+
+III. Inculcar el enfoque de derechos humanos y de igualdad sustantiva, y promover el conocimiento, respeto, disfrute y ejercicio de todos los derechos, con el mismo trato y oportunidades para las personas;
+
+IV. Fomentar el amor a la Patria, el aprecio por sus culturas, el conocimiento de su historia y el compromiso con los valores, símbolos patrios, las instituciones nacionales y estatales;
+
+V. Formar a los educandos en la cultura de la paz, el respeto, la tolerancia, los valores democráticos que favorezcan el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la solución no violenta de conflictos y la convivencia en un marco de respeto a las diferencias;
+
+VI Propiciar actitudes solidarias en los ámbitos nacional e internacional, en la independencia y en la justicia para fortalecer el ejercicio de los derechos de todas las personas, el cumplimiento de sus obligaciones y el respeto entre las naciones;
+
+VII. Promover la comprensión, el aprecio, el conocimiento y enseñanza de la pluralidad étnica, cultural y lingüística de la nación, el diálogo e intercambio intercultural sobre la base de equidad y respeto mutuo; así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país y del Estado;
+
+VIII. Inculcar el respeto por la naturaleza, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación y el aprovechamiento de los recursos naturales, el respeto a la vida de las especies animales, el desarrollo sostenible y la resiliencia frente al cambio climático. Asimismo, promover la reducción en la generación de contaminantes, a partir de fomentar e incorporar técnicas y procedimientos para el reciclaje y reúso de residuos sólidos, en las escuelas del Sistema Educativo Estatal.
+
+IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país. Se promoverá, asimismo, el estudio y análisis de los contenidos de la Constitución Política de los Estados Unidos Mexicanos, y de la Constitución Política del Estado, entre la población estudiantil de los diferentes niveles educativos; y
+
+X. Todos aquellos que contribuyan al bienestar y desarrollo de México y del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo II. Del Ejercicio del Derecho a la Educación
 
 ###### Artículo 15.
 
-Es competencia del Ayuntamiento:
+La educación impartida en el Estado, se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra la niñez y la de género, así como personas con discapacidad o en situación de vulnerabilidad social, debiendo implementar políticas públicas orientadas a garantizar la transversalidad de estos criterios en todos los ámbitos de gobierno del Estado.
 
-l. Establecer la política municipal en materia financiera, fiscal, de gasto público, crediticia, de inversión y las demás de su competencia;
+Además, responderá a los siguientes criterios:
 
-II. Conocer y en su caso, aprobar los planes de desarrollo y los programas sectoriales, regionales, especiales y los que en materia fiscal y presupuestaria correspondan al Municipio;
+I. Será democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-III. Analizar y en su caso, aprobar la suscripción y ejecución de los convenios que celebre el gobierno del Municipio en los términos del artículo 280 del Código;
+II. Será nacional, en cuanto que, sin hostilidades ni exclusivismos, la educación atenderá a la comprensión y solución de nuestros problemas, al aprovechamiento sustentable de nuestros recursos naturales, a la defensa de nuestra soberanía e independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
 
-IV. Conocer y en su caso, aprobar los proyectos de iniciativas de leyes o decretos, así como los proyectos de reglamentos, acuerdos, circulares y órdenes de los asuntos de la competencia de la Tesorería;
+III. Será humanista, al fomentar el aprecio y respeto por la dignidad de las personas, sustentado en los ideales de fraternidad e igualdad de derechos, promoviendo el mejoramiento de la convivencia humana y evitando cualquier tipo de privilegio de razas, religión, grupos, sexo o de personas;
 
-V. Estudiar y en su caro, aprobar la creación, modificación, supresión o adscripción orgánica de unidades administrativas a la Tesorería;
+IV. Promoverá el respeto al interés general de la sociedad, por encima de intereses particulares o de grupo, así como el respeto a las familias, a efecto de que se reconozca su importancia como los núcleos básicos de la sociedad y constituirse como espacios libres de cualquier tipo de violencia;
 
-VI. Aprobar la zonificación catastral y los valores unitarios de suelo y construcción, para la determinación de la base de los impuestos a la propiedad inmobiliaria y de otros conceptos de ingreso y remitirla al Congreso en forma de iniciativa, y
+V. Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
 
-VII. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos, decretos, convenios y sus anexos.
+VI. Será equitativa, al favorecer el pleno ejercicio del derecho a la educación de todas las personas, para lo cual combatirá las desigualdades socioeconómicas, regionales, de capacidades y de género, respaldará a estudiantes en condiciones de vulnerabilidad social y ofrecerá a todos los educandos una educación pertinente que asegure su acceso, tránsito, permanencia y, en su caso, egreso oportuno en los servicios educativos;
 
-Representación, trámite y resolución de los asuntos de la Tesorería.
+VII. Será inclusiva, al tomar en cuenta las diversas capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de los educandos, y así eliminar las distintas barreras al aprendizaje y a la participación, para lo cual adoptará medidas en favor de la accesibilidad y los ajustes razonables;
+
+VIII. Será intercultural, al promover la convivencia armónica entre personas y comunidades sobre la base del respeto a sus diferentes concepciones, opiniones, tradiciones, costumbres y modos de vida y del reconocimiento de sus derechos, en un marco de inclusión social;
+
+IX. Será integral porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social, y
+
+X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad.
 
 ###### Artículo 16.
 
-La representación, trámite y resolución de los asuntos de la Tesorería, corresponde originalmente al Presidente, quien es auxiliado por el Tesorero.
-
-Competencia del Presidente.
+El Sistema Educativo Estatal es el conjunto de actores, instituciones y procesos para la prestación del servicio público de la educación que imparta el Estado, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, desde la educación básica hasta la superior, así como por las relaciones institucionales de dichas estructuras y su vinculación con la sociedad, sus organizaciones, comunidades, pueblos, sectores y familias.
 
 ###### Artículo 17.
 
-Es competencia del Presidente:
-
-l. Dirigir la política municipal en materia financiera, fiscal, de gasto público, crediticia, de inversión y las demás de su competencia;
-
-II. Someter a la consideración y en su caso, a la aprobación del Ayuntamiento, los planes de desarrollo y los programas sectoriales, regionales, especiales y los demás que sean de su competencia, en materia fiscal y presupuestaria conforme al Código;
-
-III. Proponer al Ayuntamiento y en su caso, suscribir en representación del Municipio, los convenios que celebre el Municipio en los términos del artículo 280 del Código;
-
-IV. Proponer al Ayuntamiento, los proyectos de iniciativas de leyes o decretos, así como los proyectos de reglamentos, acuerdos, circulares y órdenes de los asuntos de la competencia de la Tesorería;
-
-V. Proponer al Ayuntamiento, la creación, modificación, supresión o adscripción orgánica de unidades administrativas a la Tesorería;
-
-VI. Conocer y resolver las solicitudes de exención, materia de ingresos municipales;
-
-VII. Designar a los titulares de las unidades administrativas de la Tesorería;
-
-VIII. Representar al Municipio ante las instancias, órganos y autoridades de Coordinación en Materia Hacendaria del Estado y de la Federación;
-
-IX. Proponer al Ayuntamiento la zonificación y los valores unitarios de suelo y construcción para la determinación de la base de los impuestos a la propiedad inmobiliaria y de otros conceptos de ingreso, y
-
-X. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos, decretos, convenios y sus anexos y las que le confiera el Ayuntamiento.
-
-Ejercicio directo de facultades por parte del Presidente.
+A través del Sistema Educativo Estatal se articularán y coordinarán los esfuerzos de las autoridades educativas estatal y municipales, de los sectores social y privado, para el cumplimiento de los principios, fines y criterios de la educación establecidos en esta Ley.
 
 ###### Artículo 18.
 
-El Presidente cuando lo juzgue necesario, podrá ejercer directamente cualquiera de las facultades del Tesorero o de los titulares de las unidades administrativas que conforman la Tesorería, sin necesidad de acuerdo por escrito.
-
-Facultades conferidas al Tesorero.
+El Sistema Educativo Estatal participará en la programación estratégica que se realice en el marco del Sistema Educativo Nacional para que la formación docente y directiva, la infraestructura, así como los métodos y materiales educativos, se armonicen con las necesidades de la prestación del servicio público de educación y contribuya a su mejora continua en el Estado.
 
 ###### Artículo 19.
 
-El Tesorero ejerce las facultades que le son conferidas en materia fiscal al Municipio, en la Ley Orgánica Municipal, en el Código, en los convenios de colaboración y en los demás ordenamientos y acuerdos vigentes.
+En el Sistema Educativo Estatal participarán, con sentido de responsabilidad social, los actores, instituciones y procesos que lo componen y será constituido por:
 
-Facultades conferidas por el Tesorero a servidores públicos subalternos.
+I. Los educandos;
+
+II. Las maestras y los maestros;
+
+III. Las madres y padres de familia o tutores, así como sus asociaciones;
+
+IV. Las autoridades educativas del Estado;
+
+V. Las autoridades escolares;
+
+VI. Las personas que tengan relación laboral con las autoridades educativas, en la prestación del servicio público de educación;
+
+VII. Las instituciones educativas del Estado, los Sistemas y subsistemas establecidos en la presente Ley y demás disposiciones aplicables en materia educativa;
+
+VIII. Las instituciones de los particulares con autorización o con reconocimiento de validez oficial de estudios;
+
+IX. Las instituciones de educación superior a las que la ley otorga autonomía;
+
+X. Los planes y programas de estudio;
+
+XI. Los muebles e inmuebles, servicios o instalaciones destinados a la prestación del servicio público de educación;
+
+XII. Los Consejos Técnicos Escolares de Educación Básica y Media Superior;
+
+XIII. Los Consejos de Participación Escolar o sus equivalentes creados conforme a esta Ley;
+
+XIV. Los Comités Escolares de Administración Participativa que se conformen de acuerdo con las disposiciones aplicables;
+
+XV. El Consejo de Autoridades Educativas del Estado; como órgano de asesoría y consulta, auxiliar de la Autoridad Educativa Estatal en materia de programas, normatividad y planeación educativa;
+
+XVI. Todos los actores que participen en la prestación del servicio público de educación en el Estado; y
+
+XVII. Reglamentos, normas, lineamientos que se expidan por las autoridades educativas federal y estatal, para armonizar el servicio educativo en la tendencia hacia la excelencia educativa.
+
+La persona titular de la Secretaría de Educación Pública y Cultura presidirá el Sistema Educativo Estatal; los lineamientos para su funcionamiento y operación se determinarán en las disposiciones reglamentarias correspondientes.
+
+Los Consejos Técnicos Escolares son órganos colegiados de decisión técnico-pedagógica de cada plantel educativo. Su funcionamiento atenderá a lo estipulado en los artículos 108 y 109 de la Ley General.
+
+Las instituciones del Sistema Educativo Estatal impartirán educación de manera que permita al educando su plena inclusión y participación en la sociedad y, en su oportunidad, el desarrollo de una actividad productiva y que permita, asimismo, al trabajador estudiar.
 
 ###### Artículo 20.
 
-Para la mejor distribución y desarrollo de las facultades de la Tesorería, el Tesorero podrá conferir su desempeño a los servidores públicos subalternos, excepto aquellas que por disposición legal, reglamentaria o por acuerdo del Ayuntamiento o del Presidente, deban ser ejecutadas directamente por él.
+La educación que se imparta en el Sistema Educativo Estatal se organizará en tipos, niveles, modalidades y opciones educativas, conforme a lo siguiente:
 
-Ejercicio directo de facultades por el Tesorero.
+I. Tipos, los de educación básica, media superior y superior;
+
+II. Niveles, los que se indican para cada tipo educativo en esta Ley;
+
+III. Modalidades, la escolarizada, no escolarizada y mixta, y
+
+IV. Opciones educativas, las que se determinen para cada nivel educativo en los términos de esta Ley y las disposiciones que de ella deriven, entre las que se encuentran la educación abierta y a distancia.
+
+Además de lo anterior, se consideran parte del Sistema Educativo Estatal la formación para el trabajo, la educación indígena, la educación especial, la educación para personas adultas, la educación física, la educación artística, la educación tecnológica y la destinada a la formación de docentes en estas materias.
+
+La educación especial buscará la equidad y la inclusión, la cual deberá estar disponible para todos los tipos, niveles, modalidades y opciones educativas establecidas en esta Ley.
+
+De acuerdo con las necesidades educativas específicas de la población, podrá impartirse educación comunitaria con programas o contenidos particulares para ofrecerle una oportuna atención.
 
 ###### Artículo 21.
 
-El Tesorero cuando lo juzgue necesario, podrá ejercer directamente cualquiera de las facultades de los titulares de las unidades administrativas que conforman la Tesorería, sin necesidad de acuerdo por escrito.
-
-Los Directores, Jefes de Departamento y Jefes de Oficina, cuando lo juzguen necesario, podrán ejercer directamente las facultades de las áreas a su cargo sin necesidad de acuerdo por escrito.
-
-Los titulares de cada unidad administrativa, están obligados a coordinarse con otras unidades, con el objeto de cumplir con las atribuciones y obligaciones a cargo de la Tesorería.
-
-Competencia del Tesorero.
+Los reglamentos, lineamientos, manuales e instructivos respectivos determinarán los requisitos de ingreso de los educandos en cada uno de los tipos, niveles y modalidades del Sistema Educativo Estatal, así como las condiciones de su impartición, evaluación, acreditación y certificación.
 
 ###### Artículo 22.
 
-Es competencia del Tesorero:
-
-I. Auxiliar al Presidente en la elaboración de las propuestas de los planes de desarrollo y los programas sectoriales, regionales, especiales en las materias que sean de su competencia, conforme al Código;
-
-II. Auxiliar y sustituir al Presidente ante las instancias, órganos y autoridades de Coordinación en materia Hacendaria del Estado y de la Federación;
-
-III. Participar en la suscripción y ejecución de los convenios que celebre el Municipio, en los términos del artículo 280 del Código;
-
-IV. Participar como fideicomitente en los fideicomisos públicos en que sea parte el Municipio, e intervenir en los convenios que celebre el propio Municipio, en el caso de que el objeto de los mismos se relacione con la competencia de la Tesorería o exista acuerdo del Presidente para la participación del Tesorero;
-
-V. Vigilar el cumplimiento de leyes, reglamentos, convenios y demás disposiciones de su competencia, que sean aplicables en el Municipio;
-
-VI. Proponer al Presidente los proyectos de iniciativas de leyes o decretos, así como los proyectos de reglamentos, acuerdos, circulares y órdenes de los asuntos de la competencia de la Tesorería;
-
-VII. Rendir los informes derivados de la promoción del recurso de revisión previsto en el artículo 2 del Código;
-
-VIII. Proporcionar a la Sindicatura, los elementos necesarios para el ejercicio de sus atribuciones vinculadas a la intervención en los procedimientos judiciales o administrativos en que se controvierta el interés fiscal del Municipio;
-
-IX. Recibir en acuerdo a los titilares de las unidades administrativas de la Tesorería para el trámite y resolución de los asuntos de su respectiva competencia;
-
-X. Proponer al Presidente la creación, modificación, supresión o adscripción orgánica de unidades administrativas a la Tesorería;
-
-XI. Proporcionar orientación gratuita a los contribuyentes, en los casos permitidos por la ley y, realizar una labor permanente de difusión y orientación fiscal;
-
-XII. Ejercer las facultades que las leyes y demás disposiciones legales confieran a la Tesorería, para dictar reglas de carácter general, acuerdos, circulares y demás disposiciones en las materias competencia de la misma;
-
-XIII. Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias, presupuestales y administrativas de su competencia que le sea solicitada por las dependencias y entidades;
-
-XIV. Otorgar mandatos y poderes generales y especiales a personas físicas o morales diferentes de los titulares de las unidades administrativas de la Tesorería, para el cumplimiento de los objetivos de la misma, salvo que se trate de funciones no delegables;
-
-XV. Recibir, conservar y en su caso, hacer efectivas las garantías que las personas físicas o morales, otorguen bajo cualquier titulo en favor del Municipio o ante el Ayuntamiento, auxiliado por el Síndico en los casos que proceda;
-
-XVI. Participar en la elaboración y establecimiento de los estímulos fiscales, con las dependencias a las que corresponda el fomento de las actividades productivas;
-
-XVII. Recaudar y administrar los ingresos del Municipio, los que se deriven de la suscripción de convenios a que se refiere el artículo 280 del Código, los que correspondan a transferencias otorgadas a favor del Municipio, los que le correspondan en el marco del Sistema Nacional o Estatal de Coordinación Fiscal o los que reciba por cualquier otro concepto;
-
-XVIII. En términos de los acuerdos, convenios y decretos correspondientes, recaudar el importe de las sanciones por infracciones impuestas por las autoridades competentes, por la inobservancia de las diversas disposiciones y ordenamientos jurídicos, constituyendo los créditos fiscales correspondientes;
-
-XIX. Conocer y resolver de las solicitudes de condonación de multas fiscales municipales, cuando reciba delegación del Presidente y las que le corresponda condonar al Municipio, en términos de los convenios que suscriba de conformidad con lo previsto en el artículo 280 del Código;
-
-XX. Conocer y resolver las solicitudes de exención, materia de ingresos municipales, en el caso de que reciba acuerdo delegatorio del Presidente;
-
-XXI. Conocer y resolver las solicitudes de exención de ingresos coordinados, en el caso en que corresponda esta atribución al Municipio, en términos de los convenios suscritos de conformidad con lo previsto en el artículo 280 del Código, de la legislación o de los acuerdos que resulten aplicables;
-
-XXII. Conocer y resolver las solicitudes de pago a plazos, dispensa de la garantía del interés fiscal en materia de contribuciones municipales, así como las que presenten los contribuyentes para que se autorice la devolución de las cantidades pagadas indebidamente al fisco;
-
-XXIII. Conocer y resolver las solicitudes de caducidad de las facultades y prescripción de los créditos fiscales;
-
-XXIV. Normar las actividades de las oficinas receptoras de pago y demás órganos desconcentrados de la Tesorería;
-
-XXV. Normar y ejecutar las funciones que correspondan al Municipio en materia catastral, de conformidad con los ordenamientos y convenios vigentes;
-
-XXVI. Definir y dar a conocer a los contribuyentes, la circunscripción territorial de las oficinas receptoras de pago y demás órganos desconcentrados de la Tesorería;
-
-XXVII. Ordenar las visitas domiciliarias, inspecciones y de verificación, así como solicitar datos, informes o documentos a los contribuyentes, responsables solidarios o terceros; realizar los demás actos de fiscalización determinando en su caso, créditos fiscales y responsabilidad solidaria, de conformidad con las facultades que le confiere el Código, los ordenamientos fiscales federales, estatales, así como los convenios, sus anexos celebrados y acuerdos que otorguen facultades al Municipio en estas materias;
-
-XXVIII. Imponer sanciones por infracciones al Código, a los demás ordenamientos jurídicos en materia fiscal que deba aplicar el Municipio, incluso los derivados de la suscripción de convenios y sus anexos o de la emisión de acuerdos; así como ejercer la facultad económico-coactiva conforme a las leyes vigentes;
-
-XXIX. Proponer al Presidente la designación de los titulares de las unidades administrativas de la Tesorería;
-
-XXX. Certificar los documentos competencia de la Tesorería;
-
-XXXI. Realizar operaciones catastrales;
-
-XXXII. Proponer al Presidente, los términos en que deberán ser emitidos los manuales de operación, para que los someta a la consideración del Cabildo;
-
-XXXIII. Auxiliar al Presidente en la elaboración de la propuesta de zonificación catastral y valores unitarios de suelo y construcción que sirvan de base para el cálculo de los impuestos a la propiedad inmobiliaria y de otros conceptos de ingreso;
-
-XXXIV. Autorizar que la recepción del pago y la expedición de comprobantes, sea realizada por oficinas diversas de las extractoras, y (sic)
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXV. Orientar y coordinar la planeación, programación, presupuestación y control contable del Gasto Publico Municipal;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXVI. Asesorar al Presidente en aspectos relacionados a la planeación, la definición de la estrategia económica y social del Gobierno Municipal y en la formulación de los planes, programas y políticas consistentes con ella, así como en la elaboración de los proyectos de normatividad interna relacionada al presupuesto y rendición de cuentas que sean sometidos al Cabildo;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXVII. Propiciar que los proyectos de las entidades se ejecuten previo análisis costo-beneficio o con la evaluación suficiente y que permita el gasto en inversión, incluyendo en lo conducente el gasto de capital diferido, definiendo el alcance de los mismos;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXVIII. Proveer lo necesario para administrar un registro sistemático de proyectos de inversión considerables en el anteproyecto de presupuesto;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXIX. Asesorar al Presidente y al Cabildo en la formulación de los programas de inversiones públicas y de su financiamiento, ajustándose a los límites de endeudamiento acordado por el Congreso;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XL. Establecer los lineamientos internos a fin de que cada entidad previamente a la conformación del proyecto de presupuesto, identifique sus productos y objetivos estratégicos, a través del logro de metas anuales definidas;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XLI. Proponer anualmente al Presidente los criterios y propiciar que, se realice una revisión de actividades y metas, para el o los ejercicios siguientes, que permita adecuar la distribución de las partidas presupuestales sobre la base de cambios o ajustes en las metas y actividades programadas, bajo una visión de planeación multianual;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XLII. Proponer al Presidente las políticas de racionalización de la administración;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XLIII. Proponer al Presidente la reducción proporcional del gasto en el caso de que los ingresos sean menores a los previstos;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XLIV. Proponer al Presidente los mecanismos para reducir los costos de recaudación y cumplimiento, propiciando la modernización y el alimento de la eficiencia de la administración tributaria;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XLV. Asignar los recursos que se obtengan en exceso de los previstos en el Presupuesto de Egresos del Municipio, a los programas que considere convenientes y autorizará los traspasos de Partidas y Capitulas. Tratándose de ingresos extraordinarios derivados de empréstitos se estará a lo establecido en el Código Fiscal y Presupuestario pira el Municipio de Puebla;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XLVI. Expedir las licencias de funcionamiento municipales, previo cumplimiento de los requisitos exigidos por la reglamentación respectiva;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XLVII. Las demás que establezca el Código a favor de las autoridades fiscales, así como las que contenga la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos, y los que le confiera el Ayuntamiento o el Presidente;
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Las atribuciones no delegables del Tesorero, son las previstas en las fracciones I, III, IV, VI, X, XIV, XXI, XXIII, XXIX, XXXIV, XLV, XLVI de este artículo.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Competencia común del Director de Ingresos y el Director de Catastro.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
+La educación en sus distintos tipos, niveles, modalidades y opciones educativas responderá a la diversidad lingüística, regional, sociocultural y biocultural, así como de la población rural dispersa y grupos migratorios, además de las características y necesidades de los distintos sectores de la población del Estado.
 
 ###### Artículo 23.
 
-Es competencia común del Director de Ingresos y el Director de Catastro:
+La educación básica está compuesta por el nivel inicial, preescolar, primaria, y secundaria.
 
-I. Programar, organizar, dirigir y evaluar las actividades de la Dirección a su cargo;
+Los servicios que comprende este tipo de educación, entre otros, son:
 
-II. Acordar con el Tesorero el despacho de los asuntos que sean de su competencia;
+I. Inicial escolarizada y no escolarizada;
 
-III. Proponer al Tesorero en el ámbito de su competencia, las aportaciones que permitan instrumentar los anteproyectos de iniciativas de leyes, decretos, reglamentos, convenios, acuerdos y circulares;
+II. Preescolar general, indígena y comunitaria;
 
-IV. Coordinarse entre sí y con las demás unidades administrativas de la Tesorería, para el mejor desempeño de sus facultades, de acuerdo con los lineamientos que establezca el Tesorero;
+III. Primaria general, indígena y comunitaria;
 
-V. Proponer al Tesorero, las medidas que procedan sobre la organización y procedimientos de las unidades administrativas a su cargo;
+IV. Secundaria, entre las que se encuentran la general, técnica, comunitaria o las modalidades regionales aprobadas por la autoridad educativa estatal;
 
-VI. Proponer al Tesorero la designación, promoción o remoción de los servidores públicos adscritos a la Dirección a su cargo;
+V. Secundaria para trabajadores; y
 
-VII. Ejercer las atribuciones y funciones que se deriven de los Sistemas Nacional y Estatal de Coordinación Fiscal, de Planeación o de cualquier otra índole, cuando sean congruentes con el ámbito de competencia que les confiere este Reglamento, así como las que se deriven de los convenios y acuerdos que se celebren dentro del esquema de dicha coordinación, con el Estado, los gobiernos municipales, entidades paraestatales y con las entidades paramunicipales de otros municipios;
+VI. Telesecundaria.
 
-VIII. Cumplir en el ámbito de su competencia las leyes, decretos, reglamentos, convenios, acuerdos, circulares y demás disposiciones vigentes;
-
-IX. Hacer del conocimiento del Síndico, la comisión de infracciones o delitos que tengan conocimiento a través de sus actuaciones o de los servidores públicos adscritos a las unidades administrativas a su cargo;
-
-X. Recibir los recursos de revisión que sean promovidos en contra de los actos que emitan, turnándolos a la Dirección Jurídica, en la forma y términos establecidos en el Código y en el presente Reglamento;
-
-XI. Recibir y turnar el día de su recepción al Síndico, las resoluciones y demás documentación vinculada con trámites y procedimientos formal o materialmente jurisdiccionales y de cualquier otra índole, que debe conocer dicha dependencia, haciéndolo del conocimiento del Jefe de la Oficina Jurídica, para efectos propios de su competencia;
-
-XII. Autorizar mediante su firma el trámite y despacho de los asuntos de su competencia;
-
-XIII. Certificar los documentos de la Tesorería, en el área de su competencia;
-
-XIV. Cancelar las fianzas y garantías del interés fiscal que se hayan otorgado ante la Tesorería, cuyo objeto se encuentren bajo la supervisión y/u operación de la Dirección de que se trate, una vez que el mismo haya sido cumplido en su totalidad o exista resolución definitiva;
-
-XV. Proponer al Tesorero, los términos en que deberán emitirse los manuales de operación;
-
-XVI. Conocer y someter a la consideración del Tesorero las solicitudes de pago a plazos, ya sea diferido o en parcialidades de las contribuciones omitidas y sus accesorios, conforme a lo dispuesto en el Código y la legislación fiscal aplicable;
-
-XVII. Someter a consideración del Tesorero, previa propuesta del Jefe de la Oficina Jurídica, las formas oficiales de avisos, declaraciones y demás documentos requeridos por las disposiciones fiscales en el ámbito de su competencia, así como vigilar su publicación, reproducción y distribución, y
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XVIII. Las demás que les señale el Código, este Reglamento, las disposiciones legales y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
-
-Competencia de la Dirección de Ingresos.
+De manera adicional, se considerarán aquellos para impartir educación especial, incluidos los Centros de Atención Múltiple.
 
 ###### Artículo 24.
 
-Es competencia de la Dirección de Ingresos:
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-I. Proponer al Tesorero los lineamientos, programas, normas, políticas y procedimientos relacionados a las materias de recaudación, fiscalización y administración de ingresos tributarios;
-
-II. Auxiliar al Tesorero en el diseño de los sistemas, métodos, procedimientos de recaudación y los demás de su competencia;
-
-III. Determinar los pronósticos anuales de ingresos, fijar y determinar las metas de recaudación para cada ejercicio fiscal;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-IV. Programar, organizar, dirigir y evaluar las actividades de las áreas a su cargo relacionadas a los actos de recaudación y fiscalización de ingresos, orientación al contribuyente, así como de estudios relacionados con los sistemas de coordinación fiscal en el ámbito de su competencia;
-
-V. Proponer al Tesorero los acuerdos de condonación o exención total o parcial de contribuciones y sus accesorios, pago a plazos, dispensa de la garantía del interés fiscal, prescripción de créditos, devolución de pagos realizados indebidamente al fisco, otorgamiento de estímulos o subsidios y los demás que sean de su competencia, así como las resoluciones a las consultas que presenten los interesados;
-
-VI. Participar en los trabajos preparatorios para la celebración de convenios a que se refiere el artículo 280del Código;
-
-VII. Participar por acuerdo del Tesorero ante las instancias, órganos y autoridades de Coordinación en Materia Hacendaria del Estado y de la Federación;
-
-VIII. Proponer al Tesorero la creación, modificación, supresión o definición de la circunscripción de las Oficinas Receptoras de Pago y demás órganos desconcentrados de la Tesorería, que ejerzan atribuciones en el ámbito de su competencia;
-
-IX. Ejercer por sí o a través de sus áreas correspondientes, las atribuciones y funciones que se deriven de los Sistemas Nacional y Estatal de Coordinación Fiscal, así como las que se deriven de los convenios y acuerdos que se celebren dentro del esquema de dicha coordinación y en general de los convenios a que se refiere el artículo 280 del Código;
-
-X. Ejercer en el área de su competencia, las facultades para vigilar el cumplimento y aplicación de la normatividad en materia de ingresos, conforme a la legislación aplicable, convenios y acuerdos que se celebren dentro del esquema de coordinación y en general de los convenios a que se refiere el artículo 280 del Código;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XI. Aprobar el diseño, integración, mantenimiento, actualización y depuración de los registros de contribuyentes a cargo del Municipio, a excepción de los que le competen a la Dirección de Catastro;
-
-XII. Proponer al Tesorero los documentos que deberán considerarse como formas oficiales valoradas, así como los lineamientos para su vigilancia, publicación, reproducción y distribución;
-
-XIII. Dar a conocer la normatividad emitida por el Ayuntamiento, a las áreas administrativas a su cargo y evaluar sus resultados;
-
-XIV. Coordinar los servicios de orientación y asistencia técnica que se proporcione a los contribuyentes para el cumplimiento de sus obligaciones fiscales, así como proponer o resolver las solicitudes y consultas que formulen los interesados individualmente y por escrito sobre situaciones reales y concretas, en relación a la aplicación de las disposiciones fiscales:
-
-XV. Fijar en cantidad liquida, el importe de los créditos provenientes de las contribuciones y aprovechamientos y demás ingresos municipales y coordinados:
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XVI. Determinar y emitir las diferencias aritméticas u omisiones que procedan respecto de contribuciones y demás ingresos municipales y coordinados, así como los productos y aprovechamientos a excepción de las que competan a la Dirección de Catastro;
-
-XVII. Integrar los expedientes respectivos para el cobro de fianzas y turnarlos a la Oficina Jurídica, para efectos de requerimiento a las Instituciones que las expidan;
-
-XVIII. Determinar mediante resolución y de acuerdo al Código y demás ordenamientos fiscales vigentes, la responsabilidad solidarla.
-
-XIX. Comprobar y vigilar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales y en su caso, determinar y liquidar créditos fiscales e imponer sanciones respecto de contribuciones municipales e ingresos coordinados, así como de sus accesorios:
-
-XX. Recibir de los contribuyentes los avisos, declaraciones, manifestaciones y demás documentación que conforme a las leyes fiscales debe presentarse, imponer cuando proceda, las medidas de apremio y sanciones que establece la legislación fiscal aplicable;
-
-XXI. Recaudar directamente o a través de las oficinas receptoras de pago, el impone de las contribuciones, productos, aprovechamientos, y sus accesorios derivados de ingresos municipales o coordinados, y las sanciones impuestas por autoridades administrativas no fiscales; así como vigilar que los créditos garantizados para pagarse a plazos se encuentren al corriente, de conformidad con las disposiciones fiscales aplicables y los convenios de coordinación que se encuentren vigentes;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXII. Vigilar la emisión de las diferencias aritméticas u omisiones respecto de contribuciones, productos o aprovechamientos municipales y demás ingresos coordinados;
-
-XXIII. Autorizar el catálogo de cuenta y el diseño del informe diario de recaudación;
-
-XXIV. Vigilar el procedimiento de recaudación, concentración de fondos y manejo de valores realizados por las Oficinas Receptoras de Pago e Instituciones de Crédito autorizadas al efecto, provenientes de la aplicación de la Ley de Ingresos del Municipio y los que se deriven de conceptos de ingreso coordinados que tenga derecho a percibir el Municipio por cuenta propia o ajena;
-
-XXV. Conocer y analizar los montos diarios, mensuales y anuales de recaudación, así como los factores que influyen en el incumplimiento de las obligaciones fiscales de los contribuyentes, y del resultado de la evaluación, proponer al Tesorero las medidas correctivas que procedan;
-
-XXVI. Conocer y presentar al Tesorero, las solicitudes de devolución de cantidades pagadas indebidamente, de conformidad con las leyes fiscales, vigilando la entrega oportuna de su importe;
-
-XXVII. Conocer y someter a la consideración del tesorero, las solicitudes de condonación y exención total o parcial del pago de contribuciones, accesorios y aprovechamientos consistentes en multas fiscales;
-
-XXVIII. Ejercer las facultades vinculadas a la recepción de la garantía del interés fiscal;
-
-XXIX. Vigilar que las garantías que se otorguen en relación a créditos fiscales, le sean turnadas para su custodia, y en cuanto estos hayan sido satisfechos o se tenga conocimiento de la resolución definitiva por la que se deje sin efectos el crédito, proceder a su cancelación y devolución;
-
-XXX. Ordenar y supervisar la aplicación del procedimiento administrativo de ejecución, para el cobro de créditos fiscales en favor del Municipio, así como los relativos a créditos fiscales coordinados que sean materia de su competencia;
-
-XXXI. Proponer al Tesorero alternativas para la vigilancia del cumplimiento de obligaciones fiscales de los contribuyentes, estableciendo programas para la emisión de requerimientos;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXII. Conocer y resolver las solicitudes que realicen los contribuyentes que conlleven a la depuración de los registros, competencia de la Tesorería, salvo el Registro Catastral y los Padrones de Predial e Impuesto Sobre Adquisición de Bienes Inmuebles;
-
-XXXIII. Proponer al Tesorero la cancelación de créditos fiscales incobrables municipales, así como los federales y estatales coordinados, cuando esta atribución corresponda al Municipio;
-
-XXXIV. Preparar o rendir, en el ámbito de su competencia, los informes que deba rendir la Tesorería, derivados de los convenios que celebre el Municipio en materia de coordinación;
-
-XXXV. Emitir y distribuir el boletaje del impuesto predial, y (sic)
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXVI. Proponer al Tesorero los acuerdos de caducidad de las facultades de las autoridades fiscales, y los demás que sean de su competencia, así como las resoluciones a las consultas que presenten los interesados;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXVII. Conocer y resolver sobre las solicitudes de los contribuyentes, respecto a la expedición de certificaciones, constancias y demás vinculadas al ejercicio de sus atribuciones;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXVIII. Expedir a solicitud del interesado de alguna autoridad, previo el pago de los derechos cuando corresponda, la constancia o certificación de documentos relativos a los asuntos que se tramiten en el área de su competencia;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXIX. Registrar, actualizar y controlar la inscripción, refrendos y notificaciones de las licencias de funcionamiento de giros comerciales con o son venta de bebidas alcohólicas;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XL. Autorizar mediante el sello correspondiente la emisión total del boletaje de entrada a la diversión o espectáculo Publico, debiendo reunir los requisitos establecidos en el Código Fiscal y Presupuestario para el Municipio de Puebla;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XLI. Realizar el estudio y seguimiento relacionados al comportamiento de la fórmula de distribución de participaciones de los sistemas nacional y estatal de coordinación fiscal, de sus políticas de pago anticipado y las oportunidades de coordinación para el aprovechamiento de espacios impositivos o de los incentivos o apoyos para en desarrollo institucional del Municipio;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XLII. Realizar el estudio, seguimiento y proyecciones presupuestarias derivadas de la pítica monetaria nacional, los fondos integrados por excedentes en ingresos de otros niveles de gobierno o derivados de los convenios de coordinación fiscal y el ajuste a los presupuestos federal y estatal;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XLIII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y Sus Anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
-
-La Dirección de Ingresos estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los Jefes de Departamento de Ejecución u Oficina Ejecutora y del Jefe del Departamento de Registro y Fiscalización, así como de los Jefes de las Oficinas Receptoras de Pago y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Competencia del Departamento de Registro y Fiscalización.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Artículo 24 bis.- Es competencia del Departamento de Registro y Fiscalización:
-
-I. Vigilar que las Unidades Administrativas determinen en el ámbito de su competencia, mediante resolución y de acuerdo a los ordenamientos fiscales vigentes, la responsabilidad solidaria.
-
-II. Participar en la actualización de los Padrones de Contribuyentes de todas las actividades económicas del Municipio.
-
-III. Ordenar y practicar las visitas domiciliarias, inspecciones y verificaciones, realizar los demás actos que establezcan las Leyes Fiscales, los Convenios, sus anexos y las demás disposiciones que resulten aplicables, para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, productos, aprovechamientos y accesorios; practicar el embargo precautorio; así como expedir oficios de prórroga sobre el plazo en que se deban concluir los actos de fiscalización.
-
-IV. Requerir a los contribuyentes, responsables solidarios y demás obligados, las declaraciones correspondientes a los conceptos de ingresos coordinados, a fin de comprobar el cumplimiento de sus obligaciones fiscales.
-
-V. Requerir a los contribuyentes, responsables solidarios y a terceros con ellos relacionados, para que exhiban o proporcionen la contabilidad, declaraciones y avisos, documentos e informes, así como papeles de trabajo; recabar de los servidores públicos y de los fedatarios los informes y datos que tengan con motivo de sus funcione, para proceder a su revisión a fin de comprobar el cumplimiento de las obligaciones, así como autorizar o negar prorrogas para su presentación, Tratándose de las revisiones previstas en esta fracción; emitir los oficios de observaciones, el de conclusión de la revisión y en su caso el de prórroga de la revisión.
-
-VI. Habilitar días y horas inhábiles para el ejercicio de sus atribuciones.
-
-VII. Comunicar al Tesorero y a las demás áreas que legalmente lo soliciten, los resultados obtenidos en la revisión de la documentación e información, en las oficinas de las autoridades, así como de las visitas domiciliarias de auditoría, inspección y de verificación.
-
-VIII. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a estos, conocidos con motivo de la revisión de dictámenes, de la revisión de la documentación e información en las oficinas de las autoridades o de las visitas domiciliarias, inspecciones y verificaciones que les practiquen, y hacer constar dichos hechos u omisiones en el oficio de observaciones o en la última acta parcial que se levante.
-
-IX. Recibir las promociones y documentos que presenten los contribuyentes, responsables solidarios y demás obligados, así como las pruebas que ofrezcan, respecto de los hechos consignados en las actas de visita domiciliaria, tomando en cuenta las mismas, en su caso, al practicar la liquidación de créditos fiscales.
-
-X. Determinar la existencia de créditos fiscales, precisar las bases para su liquidación y fijarlos en cantidad liquida, imponer las sanciones fiscales que correspondan, respecto de los ingresos municipales, así como de los coordinados y demás accesorios, a cargo de los contribuyentes obligados y responsables solidarios.
-
-XI. Verificar que los contribuyentes, responsables solidarios y terceros con ellos relacionados, cumplan con la obligación de observar los medios de control previstos en el Código y las leyes fiscales de la competencia del Municipio.
-
-XII. Investigar las denuncias de infracciones fiscales y tratándose de delitos fiscales, reunir los elementos necesarios para que la autoridad competente formule la denuncia o querella que corresponda.
-
-XIII. Remitir al Director de Ingresos las solicitudes que presenten los contribuyentes para declarar la caducidad de las facultades de las autoridades fiscales, para determinar contribuciones omitidas y sus accesorios, para imponer sanciones a dichas disposiciones, salvo que se haga valer como excepción, en cuyo caso se remitirá a la Dirección Jurídica para su resolución.
-
-XIV. Remitir al Director de Ingresos las solicitudes que presenten los contribuyentes para declarar la prescripción de los créditos fiscales, salvo que se haga valer como excepción, en cuyo caso se remitirá a la Dirección Jurídica para su resolución.
-
-XV. Colocar sellos y marcas oficiales, con el fin de identificar o asegurar documentación, negociones, o establecimientos sujetos a comprobación de obligaciones fiscales.
-
-XVI. Colocar sellos y marcas oficiales, con el fin de suspender o clausurar cualquier división o espectáculos públicos, cuando los sujetos de este impuesto se nieguen a permitir que los inspectores o interventores cumplan con su comisión, o cuando no se cumplan o se violen las disposiciones que al respecto estables el Código.
-
-XVII. Colocar sellos y marcas oficiales, con el fin de clausurar establecimientos que incumplan con la obligación de contar con licencia de funcionamiento, después de transcurrido el termino que establece el Código.
-
-XVIII. Colocar sellos y marcas oficiales, una vez que se haya dado cumplimiento a las disposiciones fiscales.
-
-XIX. Nombrar a los inspectores o inventores para que realicen los actos de inspección, verificación y clausura a que se refiere este artículo.
-
-XX. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus Anexos y las que le confiera el Ayuntamiento, el Presidente, el Tesorero o el Director de Ingresos.
-
-El Departamento de Registro y Fiscalización, estará adscrito a la Dirección de Ingresos y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejerció de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
-
-Artículo 24 ter.- Además de las facultades señaladas en el artículo que antecede el Departamento de Registro y Fiscalización, con el fin de verificar el cumplimiento de obligaciones fiscales derivadas de diversas disposiciones reglamentarias, así como la presentación de documentos e informes relacionados con el cumplimiento de las mismas, es competente:
-
-I. En materia de protección civil, para:
-
-a) Verificar, en coordinación con la Unidad Operativa Municipal de Protección Civil que los propietarios, administradores o responsables de sitios públicos, cuenten con los equipos e instalaciones para prevenir y combatir incendios, en términos de lo establecido por el Código Reglamentario; y
-
-b) Ejercer las funciones de vigilancia e inspección en materia de Protección Civil en todo tipo de establecimientos tanto industriales como comerciales o de servicios, de conformidad al acuerdo de coordinación que en su caso se suscriba con la Unidad Operativa Municipal de Protección Civil.
-
-II. En materia de espectáculos, para:
-
-a) Otorgar la autorización escrita para la presentación de diversiones o espectáculos públicos eventual o habituales en el Municipio, debidamente firmada por el Tesorero, previo cumplimiento de los requisitos aplicables, establecidos en el Código, el Código Reglamentario y la Ley de Ingresos del Municipio;
-
-b) Una vez autorizada la presentación del espectáculo, remitir a la Dirección de Ingresos de la Tesorería, para el sellado, el boletaje y los pases o cortesías que la empresa utilizará en cada función, debiendo reunir los requisitos establecidos en el artículo 200 del Código;
-
-c) Vigilar e inspeccionar que las diversiones o espectáculos públicos, cumplan con lo establecido en el Código Reglamentario y la Ley de Ingresos del Municipio aplicable; y
-
-d) Intervenir, la taquilla, suspender o clausurar cualquier diversión o espectáculo público, cuando los responsables del espectáculo se nieguen a permitir que se desarrollen las actividades de fiscalización, o cuando no se cumplan o se violen las disposiciones que establece el Código, el Código Reglamentario y la Ley de Ingresos del Municipio aplicable.
-
-III. En materia de espectáculos taurinos, para:
-
-a) Otorgar el permiso para destinar una Plaza de Toros a cualquier otro espectáculo distinto al taurino, debidamente firmado por el Tesorero, previa verificación de que se ha cumplido con los requisitos previos establecidos en el artículo 510 del Código Reglamentario;
-
-b) Previo al inicio de cada temporada taurina, verificar que el Empresario de la Plaza de Toros cuente con el documento en el que se certifique que tiene las condiciones técnicas y de seguridad inherentes, expedido por la Autoridad Municipal;
-
-c) Revisar en todo momento, los documentos en que consten los nombres de los tenedores del derecho de abono o apartado para el espectáculo taurino y ordenar la cancelación de los derechos correspondientes, cuando compruebe que son o han sido de origen de una reventa ilegal observando la garantía de audiencia; y
-
-d) Otorgar a los Empresarios el permiso correspondiente, debidamente firmado por el Tesorero, cuando por causas de fuerza mayor sea necesario hacer algún cambio al programa correspondiente.
-
-IV. En materia de venta de bebidas alcohólicas, para:
-
-a) Verificar que no se lleve a cabo la venta, enajenación y consumo de bebidas alcohólicas en días y horarios prohibidos;
-
-b) Verificar que los establecimientos autorizados para la venta o consumo de bebidas alcohólicas cumplan las disposiciones, obligaciones, restricciones o condiciones especiales, que en la materia establece el Código Reglamentario;
-
-c) Verificar que los establecimientos autorizados para la venta o consumo de bebidas alcohólicas, no ocurran hechos que incidan en la seguridad de los clientes o personas que concurran al establecimiento que pudieran derivar en graves consecuencias para éstos; y
-
-d) Dar seguimiento a las denuncias populares relativas a los establecimientos que violen las disposiciones señaladas en el Código Reglamentario.
-
-V. En materia de Comercio Establecido, Ambulante, Semifijo y Prestadores Ambulantes de Servicios en la Vía Pública del Municipio de Puebla, para:
-
-a) Autorizar las licencias de funcionamiento de los establecimientos industriales, comerciales y de servicios en el Municipio de Puebla;
-
-b) Verificar que los establecimientos industriales, comerciales y de servicios en el Municipio de Puebla, cuenten con licencia vigente expedida por la Tesorería;
-
-c) Verificar que los establecimientos industriales, comerciales y de servicios, comercio ambulante, semifijo y prestadores ambulantes de servicios en la vía pública del Municipio cumplan con las disposiciones, obligaciones, restricciones o condiciones especiales, que en la materia establece el Código Reglamentario;
-
-d) Autorizar la expedición de permisos para la actividad comercial de vendedores ambulantes, semifijos y prestadores ambulantes de servicios en la vía pública; así como las credenciales correspondientes;
-
-e) Llevar a cabo las acciones que en materia de actividad comercial de vendedores ambulantes, semifijos y prestadores ambulantes de servicios en la vía pública, señala el artículo 641 del Código Reglamentario;
-
-f) Autorizar la expedición de permisos especiales, para la celebración de fiestas populares y eventos especiales (juegos deportivos o espectáculos extraordinarios);
-
-g) Verificar que los establecimientos comerciales y de servicios, comercio ambulante, semifijo y prestadores ambulantes de servicios en la vía pública del Municipio, que se dediquen a la distribución o comercialización de productos no tengan dicho material a la vista del público en general, ni realicen su distribución o comercialización a menores de edad, debiéndose entender por pornografía, toda representación, por cualquier medio, de hombres y/o mujeres dedicados a actividades sexuales explicitas, reales o simuladas, o toda representación de sus partes genitales fines primordialmente sexuales; y
-
-h) Verificar que los establecimientos comerciales y de servicios, comercio ambulante, semifijo y prestadores ambulantes de servicios en la vía pública del Municipio, no vendan, distribuyan o tengan en posesión productos de cualquier índole en donde se presente o reproduzca pornografía infantil, debiéndose entender por pornografía infantil, toda representación, por cualquier medio, de un niño o niña dedicado a actividades sexuales explicitas, reales o simuladas, o toda representación de las partes genitales de un niño o niña con fines primordialmente sexuales.
-
-VI. En materia de Mercados Municipales, para:
-
-a) Operar y vigilar el funcionamiento de los Mercados Municipales, en términos de lo establecido por el Código Reglamentario;
-
-b) Verificar que en los mercados y zonas de mercados no se ejerza el comercio sin la autorización correspondiente, se altere el orden público; se practique cualquier deporte, juegos de azar, con o sin cruce de apuestas; o se tire basura fuera de los depósitos respectivos;
-
-c) Verificar que los mercados se dividan en las zonas adecuadas para su mejor funcionamiento, exclusivamente y para efectos de regularización, se podrá autorizar el expendio de mercancías en zonas que no correspondan a lo señalado en el Código Reglamentario, siempre y cuando no afecte de forma alguna la naturaleza, salubridad y condiciones de cada zona;
-
-d) Determinar y autorizar en base al giro comercial, el lugar dentro del mercado municipal en donde operará cada comerciante;
-
-e) Vigilar que los prestadores de servicios dentro de los mercados proporcionen éstos de forma ininterrumpida y de manera adecuada, así como que mantengan en su caso las instalaciones en condiciones óptimas;
-
-f) Verificar que los servicios complementarios de carga y descarga, estiba, transporte de carga ligera y taxis, funcionen en los términos y condiciones que determine la normatividad aplicable;
-
-g) Verificar los locales que permanezcan cerrados o inactivos por un periodo consecutivo mayor de 30 días naturales y sin justificación procediéndose a la revocación de la licencia y a la cancelación en el registro del padrón correspondiente;
-
-h) Verificar que los comerciantes que ejerzan su actividad en los mercados sujetos al régimen de propiedad en condominio, cumplan con las obligaciones que se establecen en el Código Reglamentario, disposiciones civiles y demás aplicables;
-
-i) Verificar que los locatarios ocupantes de los locales en los mercados públicos, cumplan con las disposiciones, obligaciones, restricciones o condiciones establecidas en el Código Reglamentario; y
-
-j) Otorgar a los comerciantes de los mercados municipales y previo cumplimiento de las disposiciones señaladas en el Código Reglamentario, la autorización para traspasar sus derechos sobre locales y giros a que se destine, así como para cambiar el giro de las actividades comerciales que se les hubiere autorizado.
-
-VII. En materia de Estacionamientos, para:
-
-Verificar que los particulares que lleven a cabo el servicio de estacionamiento y guarda de vehículos en el municipio, cuenten con la licencia o concesión correspondiente y que cumplan con las disposiciones, obligaciones, restricciones o condiciones establecidas en el Código Reglamentario y el acto administrativo que les otorgue el derecho a la prestación del servicio.
-
-VIII. En materia de control para el expendio de pinturas en aerosol y substancias con efectos tóxicos en el Municipio.
-
-a) Dar seguimiento a las denuncias populares en la materia, conforme a lo establecido en el Código Reglamentario;
-
-b) Verificar que no se vendan, proporcionen u obsequien a un menor de edad, substancias de efectos tóxicos por inhalación que le puedan provocar una alteración en su estado físico o mental;
-
-c) Verificar que no se vendan, proporcionen u obsequien a un menor de edad pinturas en aerosol;
-
-d) Verificar que en los centros de trabajo que requieran para el desempeño de su trabajo del uso de alguna de las substancias de efectos tóxicos por inhalación señaladas en la fracción I del artículo 1930, del Código Reglamentario, éstas se encuentren bajo el control y vigilancia de los responsables o encargados;
-
-e) Verificar que el propietario o encargado de un establecimiento o la persona que se dedique a la comercialización de las substancias mencionadas en las fracciones I y II del artículo 1930, del Código Reglamentario, lleve un registro de la venta de dichos productos;
-
-f) Verificar que el propietario o encargado de un establecimiento mercantil o personas que expendan cualquiera de las substancias y pinturas en aerosol previstas en el artículo 1930, del Código Reglamentario, cuenten con la autorización para vender o distribuir dichas substancias emitida por el Ayuntamiento, y las licencias que deban expedirles las autoridades sanitarias federales y estatales;
-
-g) Verificar que todo establecimiento mercantil que venda o distribuya las substancias referidas en este inciso, tenga en un lugar visible al publico las autorizaciones correspondientes, así como un letrero con la leyenda: “PROHIBIDA LA VENTA U OBSEQUIO A MENORES DE EDAD DE PINTURAS EN AEROSOL, ASÍ COMO SUBSTANCIAS TÓXICAS CUYO CONSUMO POR CUALQUIER VÍA O INHALACIÓN PROLONGADA O REITERADA ORIGINE GRANDES DAÑO PARA LA SALUD”;
-
-h) Para conocer y verificar el cumplimiento de obligaciones fiscales derivadas de diversas disposiciones reglamentarias, que deriven de otros ordenamientos legales, o de los acuerdos o convenios de coordinación administrativa; y
-
-i) Para determinar infracciones, calificarlas e imponer las sanciones correspondientes por violaciones al marco normativo aplicable.
-
-El Jefe del Departamento de Registro y Fiscalización estará obligado a llevar un registro y control de todas y cada una de las licencias, permisos, autorizaciones o refrendos expresamente otorgados o negados, así como aquéllas otorgadas o negadas por falta de contestación a las solicitudes respectivas, en los plazos correspondientes, debiendo remitir mensualmente un reporte de dicho registro, al Tesorero Municipal, con copia al Contralor Municipal, la inobservancia a lo dispuesto en el presente artículo, será causa de responsabilidad administrativa.
-
-DE LAS NOTIFICACIONES
-
-Las notificaciones que deba realizar el Departamento de Registro y Fiscalización con motivo de la solicitud de licencias, permisos, autorizaciones o refrendos, se harán en los estrados que se colocarán por un término de tres días hábiles en lugar visible dentro de la Tesorería Municipal.
-
-Competencia del Departamento de Ejecución u Oficina Ejecutora.
+La edad mínima para ingresar a la educación básica en el nivel preescolar es de tres años, y para nivel primaria seis años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
 
 ###### Artículo 25.
 
-Es competencia del Departamento de Ejecución u Oficina Ejecutora:
+La autoridad educativa estatal impartirá la educación multigrado, la cual se ofrecerá, dentro de un mismo grupo, a estudiantes de diferentes grados académicos, niveles de desarrollo y de conocimientos, en centros educativos en zonas de alta y muy alta marginación.
 
-l. Diseñar y proponer a la Dirección de Ingresos, los sistemas y procedimientos en materia de notificación y cobro coactivo de créditos municipales y de los derivados de ingresos coordinados;
-
-II. Emitir requerimientos, solicitudes de informes y otros actos administrativos que sean de su competencia, así como vigilar las notificaciones de éstos y los demás actos administrativos que se les encomienden;
-
-III. Aplicar el procedimiento administrativo de ejecución, respecto de créditos fiscales municipales y los derivados de ingresos coordinados;
-
-IV. Aplicar los procedimientos de calificación y aceptación de garantías del interés fiscal, y en su caso someter a la Dirección de ingresos las solicitudes de su dispensa;
-
-V. Recibir y calificar las garantías del interés fiscal, turnarlas a la Dirección de Ingresos para su custodia, cuidando que se encuentren vigentes y sean suficientes;
-
-VI. Ordenar y practicar el embargo precautorio para asegurar el interés fiscal, en los términos previstos en el Código y los demás ordenamientos aplicables;
-
-VII. Notificar los actos administrativos y los demás que se les encomienden, en los casos y en la forma que determinen las leyes aplicables;
-
-VIII. Nombrar y remover a los notificadores, depositarios o interventores y vigilar que éstos cumplan con las obligaciones de sus cargos;
-
-IX. Proponer al Director de Ingresos, la cancelación de créditos fiscales incobrables municipales, así como derivados de ingresos coordinados de conformidad con la normatividad, lineamientos y requisitos señalados por las autoridades competentes;
-
-X. Expedir a solicitud de los interesados o de autoridad competente, constancia o certificación de documentos relativos a los asuntos del área de su competencia;
-
-XI. Habilitar días y horas inhábiles para el ejercicio de sus atribuciones, y
-
-XII. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos, decretos, convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente, el Tesorero o el Director de Ingresos.
-
-El Departamento de Ejecución u Oficina Ejecutora, estará adscrita a la Dirección de Ingresos y a cargo de un titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Competencia del Director de Catastro Municipal.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
+Para dar cumplimiento a esta disposición, las autoridades educativas del Estado atenderán los criterios establecidos en el artículo 43 de la Ley General.
 
 ###### Artículo 26.
 
-Es competencia del Director de Catastro Municipal:
+La educación básica, en todos sus niveles, responderá a las características lingüísticas y culturales de los grupos indígenas del Estado, así como de la población rural dispersa y, para ello, cumplirán los objetivos siguientes:
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+I. Coadyuvar a preservar los valores culturales de los grupos étnicos y, en particular, de sus lenguas; y
 
-I. Proponer al Tesorero los lineamientos para realizar altas, bajas y cambios en materia de impuestos territoriales;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-II. Calcular y determinar la base de los impuestos Predial y Sobre Adquisición de Bienes Inmuebles, a través de la determinación del valor catastral de los inmuebles con apego a la zonificación catastral y los valores unitarios para suelo y construcción que resulten aplicables, en los términos establecidos en el Código y sus disposiciones supletorias;
-
-III. Asignar valores provisionales, la determinación estimada de los mismos o su revaluación, en los casos previstos en la legislación en materia de catastro vigente y aplicable;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-IV. Revisar o confrontar las manifestaciones o avisos presentados por los propietarios o poseedores de inmuebles, con los datos que obren en su poder o de terceros;
-
-V. Realizar la localización y levantamiento de predios para determinar sus características;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-VI. Practicar y ordenar inspecciones a predios con el objeto de obtener información para conformar el Catastro y determinar la base de las contribuciones sobre la propiedad inmobiliaria, y en su caso, expedir las rectificaciones e inscripciones correspondientes en los registros catastrales;
-
-VII. Practicar las operaciones de deslinde catastral y de rectificación o aclaración de linderos;
-
-VIII. Practicar las notificaciones de las operaciones catastrales, en los términos previstos en los ordenamientos aplicables;
-
-IX. En general el ejercicio de las acciones previstas en la legislación en materia de catastro vigente y aplicable, para la mejor valuación de los inmuebles;
-
-X. Asignar registro catastral, a cada uno de los predios materia de valuación;
-
-XI. Recibir de parte de las autoridades competentes y de los particulares la información mensual sobre las autorizaciones que hubieren otorgado para fraccionar, subdividir, relotificar o fusionar un predio;
-
-XII. Recibir de parte de las autoridades competentes, la información relativa a la terminación de obras de urbanización o fraccionamientos o, en su caso, las autorizaciones para la venta de predios sin que se hubieren concluido las obras de urbanización;
-
-XIII. Ejercer las atribuciones previstas en la legislación en materia de catastro vigente y aplicable, a efecto de practicar operaciones catastrales en los casos de condominios, fraccionamientos, subdivisiones, relotificaciones o fusiones de bienes inmuebles que se realicen total o parcialmente, sin la licencia o autorización respectiva;
-
-XIV. Recibir las manifestaciones y demás documentación de los propietarios o poseedores de inmuebles, responsables solidarios o terceros, en los casos previstos en la legislación en materia de catastro vigente y aplicable y las demás disposiciones hacendarias que resulten aplicables;
-
-XV. Requerir para la corrección de las omisiones en que incurran quienes realicen manifestaciones y en caso de incumplimiento, la obtención de los datos omitidos a costa del interesado;
-
-XVI. Realizar investigaciones directas en el caso de que los propietarios o poseedores de algún predio ubicado en el Municipio, omita realizar las manifestaciones a que se encuentra obligado;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XVII. Autorizar a los servidores públicos de la Dirección de Catastro o a los peritos valuadores, para que realicen actividades específicas en materia catastral;
-
-XVIII. Solicitar a las dependencias, organismos federales y estatales, así como a los propietarios o poseedores de bienes inmuebles, los datos, documentos e informes que estime convenientes el Municipio, para lograr los objetivos del catastro;
-
-XIX. Certificar copias de las manifestaciones, planos y demás documentos relacionados con los predios a solicitud de los interesados;
-
-XX. Imponer sanciones por infracciones a las disposiciones de la legislación en materia de catastro vigente y aplicable;
-
-XXI. Recibir y enviar al Director Jurídico el recurso de revisión, previsto en el artículo 2 del Código, y (sic)
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXII. Practicar u ordenar la verificación física de toda clase de bienes, así como determinar sus valores correspondientes y revisar o aprobar avalúos;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXIII. Calificar las manifestaciones o avisos y requerir a los interesados aclaraciones o comprobaciones;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXIV. Administrar el Sistema de Información Catastral;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXV. Administrar, conservar, actualizar y archivar los registros catastrales;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXVI. Realizar altas, bajas y cambios, en los registros catastrales;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXVII. Desarrollar acciones de:
-
-a) Identificación y clasificación.
-
-b) Valuación.
-
-c) Nueva valuación o reevaluación.
-
-d) Ordenar y ejecutar operaciones catastrales, que permitan obtener la descripción, clasificación, mensura, características físicas y de ubicación de cada predio, de su uso, valor y demás datos necesarios para el cumplimiento de los fines del catastro.
-
-e) Ordenar la inscripción de los bienes inmuebles en el padrón catastral y asignarles registro catastral.
-
-f) Y en general realizar acciones y trabajos para determinar sus características, tales como dimensiones, ubicación, uso y la información socioeconómica y estadística que requiere el catastro municipal.
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXVIII. Participar en la elaboración del proyecto de zonificación catastral y las tablas de valores unitarios de suelo y constricción, que serán aprobadas por el Ayuntamiento y sometidas anualmente a la consideración del Congreso, así como en sus actualizaciones;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXIX. Realizar la investigación e la infraestructura, equipamiento urbano, valor de zona, de los costos de mano de obra y materiales de construcción, así como los valores del mercado inmobiliario y los demás elementos que servirán de base a la propuesta de tablas de valores y zonificación;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXX. Proporcionar acceso a la información que administre a las diversas áreas del Ayuntamiento con el objeto de dar al Catastro un uso multifinalitario;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXI. Participar en los términos del Código en el Consejo Municipal de Catastro;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXII. Ejercer por si o a través de sus áreas de Catastro correspondientes, las atribuciones y funciones que se deriven de los Sistemas Nacional y Estatal de Coordinación Fiscal en materia catastral, así como las que se deriven de los Convenios y Acuerdos que se celebren dentro del esquema de dicha coordinación y en general de los Convenios a que se refiere el artículo 280 del Código;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXIII. Coordinar los servicios de orientación y asistencia técnica en materia catastral que se proporcione a los contribuyentes para el cumplimiento de sus obligaciones fiscales, así como proponer o resolver las solicitudes y consultas que formulen los interesados individualmente y por escrito sobre las altas, bajas y cambios al Registro Catastral;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXIV. Determinar y emitir las diferencias aritméticas u omisiones que procedan respecto de los impuestos de Predial y Sobre Adquisición de Bienes Inmuebles;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXV. Recibir de los contribuyentes los avisos, declaraciones, manifestaciones y demás documentación en materia de impuestos territoriales que conforme a las leyes fiscales debe presentarse, e imponer cuando proceda, las medidas de apremio y sanciones que establece la legislación fiscal aplicable;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXVI. Fijar en cantidad liquida, el importe de los créditos provenientes de los impuestos de Predial y Sobre Adquisición de Bienes Inmuebles, así como de derechos, productos y aprovechamientos relacionados con la función catastral;
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-XXXVII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le confiere el Ayuntamiento, el Presidente o el Tesorero.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
-
-La Direccione Catastro estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los Jefes de Departamento de Actualizaciones de Predial y de Impuestos Inmobiliarios y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conformes a las normas presupuestales respectivas.
-
-Competencia de la Dirección de Registro y Fiscalización.
+II. Propiciar, con pleno respeto a la idiosincrasia de los grupos étnicos, su incorporación a la vida cultural, política, social y económica del Estado y del país.
 
 ###### Artículo 27.
 
-(DEROGADO, P.O. 24 DE FEBRERO DE 2006)
-
-Competencia del Jefe de la Oficina Jurídica.
+Los servicios educativos que se instrumenten de manera específica para la población indígena, se vincularán y coordinarán con los programas de desarrollo que las dependencias gubernamentales establezcan en beneficio de la misma.
 
 ###### Artículo 28.
 
-Es competencia del Jefe de la Oficina Jurídica:
-
-I. Elaborar los anteproyectos de leyes, decretos, reglamentos, convenios, acuerdos y circulares de la competencia de la Tesorería;
-
-II. Proponer al Tesorero, la normatividad que deba emitir relacionada con las materias de su competencia;
-
-III. Vigilar la publicación oficial de los actos que sean competencia de la Tesorería, compilar dichas publicaciones y darlas a conocer oportunamente a las autoridades fiscales;
-
-IV. Auxiliar al Síndico para el ejercicio de las facultades que le corresponden, vinculadas a las controversias y trámites que sean de competencia de la Tesorería;
-
-V. Auxiliar al Síndico para la promoción de denuncias o querellas ante las autoridades competentes, respecto de hechos presuntivamente ilícitos que conozca de manera oficial, que sean perpetrados en contra del interés fiscal;
-
-VI. Auxiliar a las autoridades fiscales que lo requieran, a efecto de rendir el informe y remitir a la Dirección Jurídica el expediente relativo al recurso de revisión a que se refiere el artículo 2 del Código;
-
-VII. Coordinarse con el Síndico, las autoridades fiscales de otros niveles de gobierno o entidades públicas, para la defensa de los intereses de carácter tributario, respecto de ingresos municipales u otros sujetos a convenio;
-
-VIII. Preparar los informes periódicos que deba rendir la Tesorería relacionados con los juicios en que intervenga, de conformidad con los convenios de colaboración administrativa y sus anexos, que celebre el Gobierno del Municipio;
-
-IX. Auxiliar al Sindico para hacer efectivos los depósitos, títulos de crédito y en general cualquier garantía, o derecho otorgados en favor del erario, salvo el caso de las fianzas;
-
-X. Auxiliar al Tesorero a efecto de hacer efectivas las fianzas otorgadas en favor del erario;
-
-XI. Elaborar los formatos que utilice la Tesorería, en el ejercicio de sus facultades;
-
-XII. En general atender o auxiliar en los asuntos de naturaleza Jurídica de la competencia de la Tesorería, y
-
-XIII. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos, decretos, convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
-
-La Jefatura de la Oficina Jurídica, esta adscrita al Tesorero y a cargo de un Titular, auxiliado por las áreas administrativas y los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Competencia de la Dirección de Egresos.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Artículo 28 bis 1.- Es competencia del Director de Egresos:
-
-I. Participar en la elaboración del Presupuesto de Egresos.
-
-II. Vigilar el correcto ejercicio del presupuesto de todas las dependencias de la Administración Pública Municipal.
-
-III. Evaluar y sistematizar el presupuesto anual de egresos del Municipio.
-
-IV. Analizar los estados financieros y elaboración de reportes financieros para la Tesorería.
-
-V. Elaborar y mantener actualizado un sistema de información de las finanzas municipales, cubriendo todas las etapas del proceso de ingreso-gasto.
-
-VI. Cancelar fianzas, una vez que la dependencia ejecutara emita la instrucción correspondiente.
-
-VII. Programar y calendarizar las erogaciones de acuerdo a las prioridades y liquidez del erario municipal.
-
-VIII. Realizar corte diario de caja y supervisar los depósitos efectuados a las cuentas bancarias.
-
-IX. Programar inversiones financieras a corto o a mediano plazo, asegurando el mejor rendimiento y menor riesgo en ellas.
-
-X. Registrar y controlar las inversiones bancarias, así como los intereses generados por las mismas.
-
-XI. Analizar con el Tesorero las variaciones importantes en las políticas presupuestales a fin de realizar las medidas correctivas pertinentes.
-
-XII. Coordinar los pagos correspondientes a la deuda pública y a cualquiera otra, de acuerdo a lo establecido en cada contrato.
-
-XIII. Controlar y reponer los fondos fijos autorizados a otras Direcciones de la Tesorería o a otras dependencias de acuerdo a los lineamientos establecidos para su manejo.
-
-XIV. Equilibrar y comprobar los presupuestos deficitarios.
-
-XV. Auxiliar al Tesorero en el control y debida aplicación de los ingresos recibidos por concepto de aportaciones y participaciones federales.
-
-XVI. Orientar a las dependencias y entidades de la Administración Pública Municipal, para que en la ejecución de sus programas y acciones concurran al cumplimiento de la normatividad presupuestal podrá Ejercicio del Gasto Público.
-
-XVII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos. Decretos, Convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
-
-La Dirección de Egresos, estará adscrita al Tesorero y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Competencia de la Dirección de Contabilidad.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Artículo 28 bis 2.- Es competencia del Director de Contabilidad:
-
-I. Llevar la contabilidad que se derive de la aplicación de la Ley de Ingresos y del ejercicio del Presupuesto de Egresos.
-
-II. Organizar la contabilidad del Municipio de conformidad con el Código Fiscal y Presupuestario para el Municipio de Puebla.
-
-III. Registrar las operaciones de ingresos, egresos y movimientos de fondos públicos.
-
-IV. Conciliar los registros de las nominas.
-
-V. Determinar los ingresos obtenidos por el Ayuntamiento.
-
-VI. Registrar los ingresos y los depósitos.
-
-VII. Analizar los saldos de las cuentas que arrojan la balanza de comprobación.
-
-VIII. Vigilar y dar seguimiento a lo ejercido en las obras ejecutadas con recursos federales; así como realizar la comprobación de los recursos ante el Órgano de Fiscalización Superior.
-
-IX. Glosar con base en las leyes y en la normatividad para el ejercicio del gasto, los comprobantes de los egresos de las dependencias de la Administración Pública Municipal y solicitar a las dependencias la debida comprobación.
-
-X. Auxiliar al Tesorero en la solvencia de las observaciones y pliegos que le remite el Órgano de Fiscalización Superior.
-
-XI. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos. Decretos, Convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
-
-La Dirección de Contabilidad, estará adscrita a la Tesorería a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Competencia de la Dirección de Financiamiento.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Artículo 28 bis 3.- Es competencia del Director de Financiamiento:
-
-I. Coordinar los trabajos para la definición de esquemas y estrategias para el Financiamiento de proyectos y programas municipales.
-
-II. Desarrollar instrumentos de captación de recursos financieros para el fortalecimiento de la Hacienda Municipal.
-
-III. Identificar y analizar fuentes de financiamiento público y privado.
-
-IV. Participar en la elaboración y estudio de programas de inversión que impulsen la participación comunitaria.
-
-V. Elaborar y diseñar las estrategias de financiamiento crediticio.
-
-VI. Participar en la creación y operación de los fideicomisos en que el Municipio sea fideicomitente.
-
-VII. Realizar el estudio a programas de apoyo financiero, programas que impliquen transferencias, subsidios, incentivos o reasignaciones a los municipios de recursos distintos de los derivados de los convenios de coordinación fiscal, así como las opciones para la obtención de ingresos de capital, y las demás fuentes de ingresos del erario municipal.
-
-VIII. Llevar a cabo el registro de proyectos de inversión.
-
-IX. Realizar el análisis costo-beneficio de los proyectos de inversión.
-
-X. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
-
-La Dirección de Financiamiento, estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
-
-Naturaleza de la Dirección Jurídica.
+La educación inicial, tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los infantes menores a tres años de edad. Incluye orientación a madres y padres de familia o tutores para la educación de sus hijas, hijos o pupilos. Su objetivo es apoyar a los niños en sus primeros años de vida, mediante trabajos preliminares y propedéuticos que mejoren sus condiciones de ingreso a los siguientes niveles educativos.
 
 ###### Artículo 29.
 
-La Dirección Jurídica es una dependencia, cuyo titular goza de facultades delegadas y no retenidas para la substanciación y resolución del recurso de revisión.
+En educación inicial, el Estado, de manera progresiva, generará las condiciones para la prestación universal de ese servicio.
 
-Competencia del Director Jurídico.
+Las autoridades educativas estatal y municipal impartirán educación inicial de conformidad con los principios rectores y objetivos que determine la autoridad educativa federal en términos de la Ley General.
+
+Además fomentarán una cultura a favor de la educación inicial con base en programas, campañas, estrategias y acciones de difusión y orientación, con el apoyo de los sectores social y privado, organizaciones de la sociedad civil y organismos internacionales. Para tal efecto, promoverán diversas opciones educativas para ser impartidas, como las desarrolladas en el seno de las familias y a nivel comunitario, en las cuales se proporcionará orientación psicopedágogica y serán apoyadas por las instituciones encargadas de la protección y defensa de la niñez.
 
 ###### Artículo 30.
 
-Es competencia del Director Jurídico:
+La educación preescolar es un nivel obligatorio escolarizado del tipo básico, y es responsabilidad del Estado que los menores de edad cursen todos los grados de ese nivel. De manera general, la educación preescolar se propone coadyuvar a la formación integral de las niñas y de los niños de tres a cinco años de edad, en los términos fijados en la presente Ley, mediante los objetivos específicos siguientes:
 
-I. Elaborar las propuestas tendientes a proporcionar seguridad jurídica a los particulares y remitirla oportunamente al Presidente por conducto del Tesorero, para la integración de los anteproyectos de leyes, decretos, reglamentos, convenios, acuerdos y circulares de la competencia de la Tesorería;
+I. Desarrollo de su autonomía e identidad personal;
 
-II. Emitir la normatividad que sea necesaria para garantizar el control indirecto de la legalidad, vinculada a los actos que le corresponde revisar de conformidad con lo previsto en los articulas 2 al 18 del Código;
+II. Adquisición de formas sencillas de relación con la naturaleza y de socialización con otros niños y con el mundo adulto; y
 
-III. Proporcionar orientación a los particulares, vinculada a la forma y términos para la interposición del recurso de revisión;
-
-IV. Proporcionar en forma permanente capacitación a las autoridades fiscales respecto al ejercicio de sus atribuciones;
-
-V. Informar oportunamente a las autoridades fiscales, respecto del inicio de la vigencia de disposiciones de carácter legal que se encuentren vinculadas al ejercicio de sus atribuciones;
-
-VI. Substanciar y resolver el recurso de revisión, y los demás recursos en materia fiscal que se deriven de ordenamientos diversos al Código, y de los convenios de coordinación que celebre el Municipio;
-
-VII. Coordinarse con el Síndico, para la defensa de los intereses del Municipio, en los casos en que sean impugnadas ante autoridades formal o materialmente jurisdiccionales, las resoluciones emitidas al substanciar el recurso de revisión;
-
-VIII. Rendir dentro de los plazos establecidos, los informes solicitados por las autoridades competentes;
-
-IX. Conocer y substanciar las solicitudes promovidas por los contribuyentes para declarar la caducidad de las facultades o la prescripción de los créditos fiscales, competencia de la Dirección Jurídica, cuando se hagan valer en vía de excepción, y
-
-X. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos, decretos, convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
-
-La Dirección Jurídica esta a cargo de un Titular, auxiliado por las áreas administrativas y los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las nomas presupuestales respectivas.
-
-Suplencia del Tesorero en ausencias.
+III. Obtención de formas de expresión creativas y un acercamiento sensible a los distintos campos del arte y la cultura.
 
 ###### Artículo 31.
 
-El Tesorero será suplido en sus ausencias por el Director que ejerza la competencia de que se trate, o por el servidor público municipal que designe el Presidente.
-
-Suplencia de Directores de Ingresos y Fiscalización en ausencias.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
+La educación preescolar requerirá de la aplicación de dinámicas biológicas, psicológicas y sociales interdependientes, que influyan positivamente en la manera de ser y actuar del niño, para fincar las bases de su desarrollo educativo.
 
 ###### Artículo 32.
 
-Los Directores de Ingresos, Catastro, Egresos, Contabilidad y Financiamiento serán suplidos en sus ausencias por los Titulares de las Unidades Administrativas adscritas a la Dirección de que se trate, o por el servidor público que designe el Presidente o el Tesorero por acuerdo del Presidente.
-
-Suplencia en ausencias de los Jefes de Departamento y Titulares de Oficinas Receptoras de pago.
+La educación preescolar hará énfasis en los aspectos afectivo, social, psicométrico, de creatividad y lenguaje lógico-matemático. Asimismo, promoverá el conocimiento del idioma inglés.
 
 ###### Artículo 33.
 
-Los Jefes de Departamento y titulares de las Oficinas Receptoras de Pago, serán suplidos en sus ausencias por el servidor público que designe el Presidente o el Tesorero por acuerdo del Presidente.
-
-Del Titular de la Dirección Jurídica.
+La educación primaria es obligatoria y tiene por objeto, dentro de los límites impuestos por la edad, el desarrollo armónico e integral de los educandos y su preparación para el trabajo en beneficio propio, de su familia, de la colectividad, de la Patria y de la humanidad.
 
 ###### Artículo 34.
 
-El Titular de la Dirección Jurídica, será suplido en sus ausencias por el servidor público que designe el Presidente.
+De manera particular, la educación primaria permitirá a los alumnos:
 
-### CAPÍTULO TERCERO. OTRAS DISPOSICIONES EN MATERIA HACENDARIA
+I. Iniciar su formación en el estudio sistemático;
 
-Domicilio fiscal de personas morales.
+II. Cultivar y orientar su curiosidad científica;
+
+III. Adquirir las primeras nociones metodológicas del trabajo intelectual;
+
+IV. Adquirir la formación de valores, habilidades y actitudes, así como apreciar la importancia del trabajo manual. Asimismo, promoverá el espíritu emprendedor mediante la formación de competencias básicas, laborales y empresariales;
+
+V. Obtener conocimientos objetivos y suficientes adecuados al nivel;
+
+VI. Conocer su sociedad, Estado y país y tomar conciencia de la pertenencia a una comunidad internacional;
+
+VII. Adquirir conciencia ciudadana, inculcándoles los principios, valores y derechos fundamentales del hombre;
+
+VIII. Obtener las nociones fundamentales de la estructura y manejo del lenguaje y de los instrumentos matemáticos;
+
+IX. Desarrollar un sentimiento humanístico y solidario;
+
+X. Satisfacer sus propias necesidades;
+
+XI. Manejar sencillos instrumentos de trabajo;
+
+XII. Acceder a la comprensión y creación de formas diversas de expresión cultural; y
+
+XIII. Prepararse para estudios de educación secundaria.
+
+### Capítulo III. De la Educación en el Estado
 
 ###### Artículo 35.
 
-Para efectos de la fracción II del artículo 30 del Código, tratándose de personas morales residentes en el Municipio, se entenderá que si la persona moral se encuentra administrativamente descentralizada, operando por divisiones o sucursales ubicadas en áreas geográficas diferentes del Municipio, su domicilio fiscal se encuentra en el local u oficina que se ubique, dentro de la circunscripción territorial del Municipio.
-
-De ser diversas las divisiones o sucursales ubicadas en el Municipio, se entenderá como domicilio fiscal el que señale el contribuyente ante las autoridades fiscales o en su omisión, aquel en que las propias autoridades fiscales ejerzan sus atribuciones.
-
-Habilitación de días y horas inhábiles.
+La educación primaria se impartirá a las personas que hayan cumplido seis años de edad al 31 de diciembre del año de inicio del ciclo escolar, sin perjuicio de que las madres y padres de familia o tutores, en ejercicio del derecho que garantiza el artículo 128, fracción I de la Ley General, determinen que lo más conveniente es diferir el ingreso a la educación básica o a un nivel o grado educativo determinado; así como, que también se impartirá a quienes cumplan 15 años y no la hayan cursado, a los adultos iletrados y a quienes presenten necesidades educativas especiales. En estos últimos casos se impartirá educación para adultos y primaria especial, respectivamente.
 
 ###### Artículo 36.
 
-Para los efectos del artículo 35 del Código, la habilitación de horas y días inhábiles para la aplicación del Procedimiento Administrativo de Ejecución, de embargo precautorio o para la formulación del acta de inicio de una visita domiciliaria, debe constar en acuerdo escrito en el que se establezcan las razones que la obligaron a realizar la habilitación.
-
-Avisos.
+La educación primaria comprenderá seis grados, los cuales se enlazarán progresivamente de manera sistemática.
 
 ###### Artículo 37.
 
-Para los efectos de la fracción IV del artículo 36 del Código, se entenderá que cuando las disposiciones fiscales señalen la obligación de presentar avisos ante las autoridades fiscales, salvo que dichas disposiciones señalen una regla diferente, estos deberán presentarse ante la autoridad recaudadora que corresponda.
-
-Sanción por falta de pago en caso de cheque.
+De conformidad con la Ley General, la impartición de la educación primaria se sujetará a los planes de estudio, programas y métodos de enseñanza determinados por la autoridad educativa federal, en los cuales, y previa autorización de ésta, se incorporarán los contenidos regionales que proponga el Estado.
 
 ###### Artículo 38.
 
-La sanción que establece el artículo 42 del Código, derivada de la falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, está condicionada a la culpa o dolo de quien pagó con el cheque, sin perjuicio de la facultad del fisco municipal para exigir a la Institución de Crédito de que se trate el pago de los daños y perjuicios causados.
-
-Requisitos que debe contener el cheque mediante el cual se pagan contribuciones.
+El personal de los planteles de educación primaria, para realizar sus actividades educativas, fomentará la colaboración de las madres y padres de familia o tutores, de los Consejos de Participación Social en la Educación, de la comunidad educativa y de las demás instituciones sociales.
 
 ###### Artículo 39.
 
-El cheque mediante el cual se paguen las contribuciones y sus accesorios deberá expedirse a favor de la Tesorería; en el caso de ingresos de un organismo, se expedirán a favor del mismo. El cheque deberá librarse a cargo de instituciones de crédito que se encuentren dentro del Municipio. La Tesorería en casos singulares, debidamente justificados, podrá autorizar que el cheque se libre a cargo de instituciones de crédito que se encuentren fuera del Municipio.
+La educación secundaria se impartirá a los jóvenes que hayan cursado la educación primaria, que se acreditará con certificado expedido por la autoridad competente, y será antecedente para cursar la educación media-superior o equivalente. Dicha educación se sujetará a los lineamientos siguientes:
 
-Inscripciones que deben contener los cheques.
+I. Desarrollará el conocimiento de las matemáticas, que enseñan a pensar con lógica y precisión, y el del idioma español, para que el educando amplíe su capacidad de comunicación, así como el conocimiento del idioma inglés;
+
+II. Fomentará la adquisición de enseñanzas especiales mediante el trabajo directo en talleres y laboratorios. Asimismo, promoverá el espíritu emprendedor mediante la formación de competencias básicas, laborales y empresariales;
+
+III. Pondrá especial atención en la educación física y en la creación de hábitos de higiene, de salud, de cooperación y en la importancia de la buena condición física del educando;
+
+IV. Contribuirá a la formación del futuro ciudadano, con base en los valores éticos universales, mediante la educación cívica, a fin de que tenga una participación efectiva y patriótica, respetuosa de nuestros símbolos patrios y en aquellos que dicta la solidaridad humana, así como conciencia de sus deberes con la familia y la sociedad;
+
+V. Proporcionará al educando una clara información sobre la geografía, la historia del país y del mundo; de las ciencias biológicas y las físico-químicas; el aprendizaje de una lengua extranjera y una efectiva oportunidad de expresión estética; y
+
+VI. Contribuirá, a la preparación de los educandos para cursar estudios posteriores a este nivel, mediante la adecuada orientación vocacional.
 
 ###### Artículo 40.
 
-Cuando las contribuciones se paguen con cheque, a favor de la Tesorería, éste deberá contener las inscripciones siguientes:
-
-I. En el anverso, "Para abono en cuenta bancaria de la Tesorería", y
-
-II. En el reverso, "Cheque librado para el pago de conceptos de ingreso a cargo del contribuyente (nombre o razón social del contribuyente). Para abono en cuenta bancaria de la Tesorería".
-
-Los cheques a que se refiere este artículo no serán negociables y su importe deberá abonarse exclusivamente en la cuenta bancaria de la Tesorería.
-
-Pago con cheque, por conducto de notificadores.
+La educación secundaria es obligatoria para todas las personas habitantes del Estado y se cursará en tres grados enlazados en forma progresiva, correspondientes a tres años escolares o ciclos lectivos.
 
 ###### Artículo 41.
 
-Podrá hacerse el pago de créditos fiscales con cheques personales del contribuyente que cumplan con los requisitos a que se refieren los articulas 39 y 40 del presente Reglamento, por conducto de los notificadores ejecutores en el momento de realizarse cualquier diligencia del procedimiento administrativo de ejecución. En el acta respectiva se harán constar los datos de identificación y valor del cheque y el número del recibo oficial que se expida.
-
-Compensación.
+La educación secundaria se regirá por los planes de estudio, programas y métodos de enseñanza que determine la autoridad educativa federal, en los cuales, previa autorización de ésta, se incorporarán los contenidos regionales propuestos por la autoridad educativa estatal.
 
 ###### Artículo 42.
 
-Para efectos de la compensación prevista en el artículo 46 del Código, los ejecutores en el acto de la diligencia de embargo, no emitirán resolución alguna acerca de la compensación que oponga el demandado, la que sólo podrá ser determinada oficiosamente por el Tesorero.
-
-Consultas.
+La educación secundaria, para llevar a cabo sus programas de trabajo, fomentará, en la forma más amplia, la colaboración de los padres de familia o tutores y de las instituciones sociales y privadas.
 
 ###### Artículo 43.
 
-Las consultas que respondan las autoridades fiscales, planteadas en los términos de la fracción II del artículo 50 del Código, no encierran ningún principio de ejecución.
-
-Circulares.
+Los alumnos de las escuelas de educación secundaria podrán organizarse en asociaciones, cuya finalidad será prioritariamente promover su conciencia democrática, el mejoramiento académico y cultural del plantel y de sí mismos, y ejercer en la comunidad, como acción social escolar, servicios y trabajos de mejoramiento material, ético y cívico.
 
 ###### Artículo 44.
 
-Las circulares que emitan las autoridades fiscales en los términos de la fracción III del artículo 50 del Código, deberán contener instrucciones generales o especiales, que obligan dentro del ramo en que han sido expedidas. Las propias autoridades fiscales, al emitir una circular se cerciorarán de que con la misma no contravengan disposiciones de observancia general, no se invadan jurisdicciones administrativas extrañas, para imponer obligaciones, ni menos aún para dar facultades que las leyes no confieren a determinados funcionarios.
+La educación media superior comprende los niveles de bachillerato, de profesional técnico bachiller y los equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes y se ofrecen a quienes han concluido estudios de educación básica.
 
-Fundamentación y motivación de los actos de autoridad en documentos anexos.
+Las autoridades educativas del Estado podrán ofrecer, entre otros, los siguientes servicios educativos:
+
+I. Bachillerato General;
+
+II. Bachillerato Tecnológico;
+
+III. Bachillerato Intercultural;
+
+IV. Bachillerato Artístico;
+
+V. Profesional técnico bachiller;
+
+VI. Telebachillerato comunitario;
+
+VII. Educación media superior a distancia; y
+
+VIII. Tecnólogo.
+
+Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en la presente Ley, como la educación dual con formación en escuela y empresa. La modalidad no escolarizada estará integrada, entre otros servicios, por la educación a distancia y aquellos que operen con base en la certificación por evaluaciones parciales.
 
 ###### Artículo 45.
 
-Para efectos del artículo 51 fracción III del Código, se entenderá que las resoluciones de las autoridades fiscales pueden fundarse y motivarse en documentos anexos a la misma, en los que se detallen las razones, fundamentos y motivos por los que procedió la afectación, siempre y cuando esos documentos, se notifiquen debidamente al particular.
-
-Firma autógrafa en actos de molestia.
+La educación media-superior tiene la finalidad de proporcionar a los alumnos una formación cultural integral, una preparación adecuada para desempeñar un oficio o trabajo específico y un desarrollo completo de su personalidad. Estos estudios constituyen requisito indispensable para ingresar a la educación de tipo superior.
 
 ###### Artículo 46.
 
-Los actos de molestia que emitan las autoridades fiscales y el que sea entregado al notificado deberá contener firma autógrafa de quien los emite.
+Las autoridades educativas del Estado, en el ámbito de sus competencias, establecerán, de manera progresiva, políticas para garantizar la inclusión, permanencia y continuidad en este tipo educativo, poniendo énfasis en los jóvenes, a través de medidas tendientes a fomentar oportunidades de acceso para las personas que así lo decidan, puedan ingresar a este tipo educativo, así como disminuir la deserción y abandono escolar, como puede ser el establecimiento de apoyos económicos.
 
-Carga de la prueba.
+De igual forma, implementarán un programa de capacitación y evaluación para la certificación que otorga la instancia competente, para egresados de bachillerato, profesional técnico bachiller o sus equivalentes, que no hayan ingresado a educación superior, con la finalidad de proporcionar herramientas que les permitan integrarse al ámbito laboral.
 
 ###### Artículo 47.
 
-En el caso de que el recurrente al promover el recurso de revisión previsto en el artículo 2 del Código, argumente que el documento que se le notificó no contiene firma autógrafa del funcionario que la signó, debe exhibir dicho documento para demostrar que el mismo no contiene firma autógrafa. Si el recurrente aporta como prueba fotocopia simple de la resolución, existiendo constancia de que recibió el original de la misma, la Dirección Jurídica deberá presumir la legalidad del acto administrativo.
-
-Obligación de pago en parcialidades.
+Las áreas, asignaturas y actividades que deba cursar o realizar el educando en este nivel se distribuirán e impartirán, como mínimo, durante tres ciclos lectivos anuales enlazados en forma progresiva, salvo los servicios de educación preparatoria abierta que presta el Estado o la opción educativa, virtual o en línea, que utilice plataformas de internet o software debidamente autorizados por la autoridad educativa estatal, así como aquellos que hayan sido debidamente autorizados por la autoridad educativa correspondiente.
 
 ###### Artículo 48.
 
-Para efectos del artículo 56 del Código se entenderá que el contribuyente que opte por efectuar el pago de un adeudo en parcialidades, previa autorización de la autoridad fiscal, queda obligado con ésta y en consecuencia, no le es dable legalmente desistir de su obligación de pago.
+Las instituciones o subsistemas adecuarán sus planes y programas de estudio y otros elementos de su oferta, a los lineamientos generales del Sistema Nacional de Educación Media Superior; cuyos programas satisfarán los requisitos siguientes:
 
-Caducidad de las facultades de autoridades fiscales.
+I. Precisarán sus objetivos generales por tipo, modalidad, nivel, grado, área y asignatura;
+
+II. Vincularán las áreas, asignaturas y actividades para el cumplimiento de los objetivos;
+
+III. Enlazarán los estudios para establecer una continuidad en los niveles educativos, procurando fortalecer las aptitudes, capacidades y habilidades de los alumnos en todas las modalidades y vertientes, que les permitan identificar sus vocaciones con el objeto de elegir asertivamente una carrera profesional;
+
+IV. Capacitarán al alumno para el trabajo social útil;
+
+V. Permitirán el reingreso de quienes, habiendo suspendido sus estudios, pretendan reanudarlos, según los límites de temporalidad que determine la normatividad;
+
+VI. Procurarán el desarrollo de habilidades, destrezas y capacidades para la aplicación de los conocimientos y para la adquisición de otros;
+
+VII. Se sustentarán en la enseñanza, fomento y práctica de los valores éticos universales, principios y derechos fundamentales del hombre, que conlleven a un espíritu de solidaridad social;
+
+VIII. Fijarán el tiempo lectivo que requiera cada área, asignatura o actividad;
+
+IX. Incluirán una preparación terminal adecuada a las necesidades regionales; y
+
+X. Asegurarán, en lo general, que los educandos adquieran ciertas competencias comunes para una vida productiva y ética, un universo común de conocimientos y destrezas que deberán dominar en ciertos campos formativos o ejes transversales esenciales, como: valores éticos universales, lenguaje, capacidad de comunicación, pensamiento matemático, razonamiento científico, comprensión de los procesos históricos, toma de decisiones, desarrollo personal, espíritu emprendedor y conocimiento del idioma inglés, entre otros.
 
 ###### Artículo 49.
 
-Son aplicables a la caducidad de las facultades de las autoridades fiscales, a que se refiere el artículo 60 del Código, los siguientes lineamientos:
-
-I. La caducidad no podrá ser convencional;
-
-II. Si la autoridad fiscal ejercitó en el término de cinco años la facultad para determinar obligaciones de esa misma naturaleza, a cargo de los sujetos pasivos y responsables solidarios, pero con vicios de legalidad que originaron se declarara la nulidad de la actuación, la autoridad podrá válidamente volver a ejercer sus facultades, pero siempre dentro del término no sujeto a interrupción ni suspensión de cinco años;
-
-III. Para el cómputo del término de la caducidad de las facultades para imponer sanciones, cometidas en una declaración, debe realizarse a partir de la fecha de su presentación, y
-
-IV. Las autoridades fiscales computaran el plazo de cinco años para que opere la caducidad, tratándose de infracciones continuas, a partir del día siguiente a aquel en que cesa su consumación.
-
-Prescripción de los créditos fiscales.
+Las escuelas que impartan estudios de tipo de educación media superior procurarán realizar sus actividades educativas fomentando, la colaboración de alumnos, madres y padres de familia o tutores e instituciones afines.
 
 ###### Artículo 50.
 
-Son aplicables a la prescripción de créditos fiscales, a que se refiere el artículo 61 del Código, los siguientes lineamientos:
+El tipo de educación media superior en el Estado se organizará en un sistema estatal. Dicho sistema responderá, en términos de la Ley General, al marco curricular común a nivel nacional establecido por la autoridad educativa federal con la participación de la Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Sinaloa.
 
-I. Los sujetos pasivos obligados a la determinación y liquidación de los créditos fiscales, pueden solicitar que se declare prescrito el crédito fiscal hasta antes de que las autoridades fiscales hayan determinando el crédito o realizado el cobro. Posteriormente la prescripción sólo podrá oponerse como excepción al interponerse el recurso de revisión que deberá substanciarse y resolverse ante la Dirección Jurídica;
+El Sistema Estatal de Educación Media Superior, se integrará por todas aquellas instituciones que impartan los programas de:
 
-II. Se entenderá que para que se interrumpa el término de prescripción, por un acto de la autoridad fiscal que tienda a la determinación o cobro del crédito fiscal, dicho acto deberá ser notificado al deudor y la notificación haya surtido sus efectos legales;
+I. Bachillerato Centro de Estudios Bachillerato;
 
-III. En el caso de que el sujeto pasivo solicite la declaración de prescripción o pretenda hacerla valer como excepción, deberá exponer los elementos que considera que deben ser tomados en cuenta para su procedencia y los fundamentos legales que la apoyan, y
+II. Bachillerato Centros de Bachillerato Juvenil:
 
-IV. No correrá el término de prescripción, de la facultad del Fisco, para efectuar el cobro del crédito, a partir de la orden de suspensión del cobro, por haberse otorgado la garantía correspondiente, en el recurso de revisión interpuesto por el deudor, ante la autoridad que fincó el crédito fiscal.
+III. Bachillerato Colegio de Bachilleres del Estado presencial y a distancia;
 
-Orden de visita domiciliaria.
+IV. Bachillerato Colegio Nacional de Educación Profesional Técnica;
+
+V. Bachillerato General Autónomo en todas sus opciones y modalidades;
+
+VI. Bachillerato General Particular;
+
+VII. Bachillerato Intercultural;
+
+VIII. Bachillerato por Cooperación Federal;
+
+IX. Bachillerato Tecnológico Agropecuario Federal;
+
+X. Bachillerato Tecnológico del Mar Federal;
+
+XI. Bachillerato Tecnológico Industrial Federal;
+
+XII. Bachillerato Centro de Atención para Personas con Discapacidad;
+
+XIII. Bachillerato Tecnológico Industrial y de Servicios; y
+
+XIV. Telebachillerato Comunitario;
 
 ###### Artículo 51.
 
-La orden de visita domiciliaria a que se refiere el artículo 68 del Código, debe precisar el objeto o propósito de la misma, de tal forma que la persona visitada conozca en forma precisa las obligaciones a su cargo que se van a revisar, y que los visitadores se ajusten estrictamente a la verificación de los renglones establecidos en la orden.
+Con la finalidad de formular políticas, estrategias, programas y metas en materia de educación media superior, se crea la Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Sinaloa.
 
-La notificación que se hace a la persona que debe ser visitada, respecto del día y hora en que se practicara la visita, no forma parte de la visita.
-
-Visita domiciliaria.
+La autoridad educativa estatal emitirá los lineamientos de su organización y su funcionamiento.
 
 ###### Artículo 52.
 
-La visita domiciliaria a que se refiere el artículo 69 del Código, se regirá por las siguientes disposiciones:
+El Gobierno del Estado, por conducto de la autoridad educativa estatal, supervisará en forma permanente que la impartición de la educación media superior se ajuste a las disposiciones legales.
 
-I. Se entenderá que las facultades de comprobación de la autoridad fiscal se inician con el primer acto de investigación que se notifique legalmente al quejoso;
-
-II. Al iniciar la visita se le dará a conocer al visitado lo referente a la fundamentación y motivación de la visita, así como las cuestiones relativas a la personalidad, representación y competencia de quienes intervienen en la diligencia respectiva y se le hará saber su derecho a designar testigos, lo que se asentara en el acta inicial;
-
-III. Cuando se ignore el nombre de una persona a la que va dirigida una orden de visita domiciliaria, deben señalarse datos suficientes que permitan su identificación;
-
-IV. Los visitadores deben asentar en el acta de inicio que formulen, los pormenores del documento con el cual se identifiquen;
-
-V. Las actas de visita levantadas por la autoridad fiscal deberán ser firmadas por los visitadores, debiéndose considerar como tales, a quienes habiendo sido legalmente designados en la orden de visita comparecieron a cumplir con su cargo. Si durante el periodo que durara la visita fuera sustituido alguno de los visitadores, quien debe firmar el acta es el visitador, que legalmente es designado sustituto y no el sustituido;
-
-VI. No será requisito que al levantarse las actas parciales y la final se identifiquen los auditores y se designen testigos nuevamente, bastando que se haya hecho al inicio de la visita;
-
-VII. Las actas de auditoría pueden conformarse por un número indeterminado de hojas o anexos. Los visitadores pueden elaborar cédulas o papeles de trabajo adjuntos en los que se detalle la documentación exhibida por la contribuyente, o bien, en los que sustenten sus observaciones;
-
-VIII. Tratándose de actuaciones o resoluciones vinculadas, en que la fundamentación y motivación no conste en el cuerpo de la resolución, sino en documento distinto, la autoridad fiscal competente se cerciorara que se haga remisión a ella en forma expresa;
-
-IX. En el caso de que durante la práctica de una visita domiciliaria aumenta el personal actuante, la autoridad que expidió la orden de visita debe comunicarlo por escrito a la persona visitada;
-
-X. En su caso, en las actas de visitas domiciliarias, debe asentarse de manera expresa que se requirió al ocupante para designar a dos testigos y en su caso, que éste se negó a hacerlo;
-
-XI. En los casos en que procede la substitución de testigos, el personal autorizado para practicar dichas visitas deberá asentar en el acta respectiva el porqué de la substitución;
-
-XII. En ningún caso los testigos pueden ser sustituidos al cerrar el acta final de auditoría;
-
-XIII. Cualquiera de los visitadores puede exigir la información o documentación que estime necesarias con independencia de los demás auditores que intervengan;
-
-XIV. Las personas que aun habiendo sido designadas como visitadores, no se presenten en el domicilio del visitado ni practiquen la visita respectiva, no tienen obligación alguna de firmar el acta relativa;
-
-XV. Las actas parciales o complementarias, podrán ser formuladas para hacer constar hechos, omisiones o circunstancias de carácter concreto de los que se tenga conocimiento en el desarrollo de la visita o después de concluida;
-
-XVI. En las actas parciales o complementarias, los visitadores no tendrán obligación de hacer constar los pormenores del documento con el que se identificaron, siempre y cuando este requisito haya sido satisfecho al iniciase la visita en el domicilio fiscal;
-
-XVII. Los papeles de trabajo deberán ser firmados por el visitador, los testigos, y las personas que practicaran la visita, o en su caso, asentarse por parte del visitador, la negativa del contribuyente o de los testigos para firmar, y
-
-XVIII. El acta circunstanciada de la visita se debe levantar precisamente en el lugar visitado.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
-
-Artículo 52 bis.- Para verificar el cumplimiento de las obligaciones fiscales derivadas de disposiciones reglamentarias a que se refiere el artículo 70 del Código, se regirá por las siguientes disposiciones:
-
-I. La orden de verificación deberá contener: la autoridad que lo emite, su competencia, la fecha y lugar en que se practicará la verificación y estar debidamente fundada y motivada;
-
-II. Una vez que se hayan identificado los verificadores ante la persona física propietaria o poseedora, representante legal, encargado o con quien se encuentre al frente del establecimiento, puestos fijos o semifijos en la vía pública o sucursales, se hará entrega de la Carta de Derechos del Visitado y procederá redactar acta circunstanciada;
-
-III. En los casos en que procede la sustitución de testigos, el personal autorizado deberá asentar en el acta respectiva el porqué de la sustitución;
-
-IV. En ningún caso los testigos pueden ser sustituidos al cerrar el acta;
-
-V. Los verificadores deben asentar en el acta que formulen, los pormenores del documento con el cual se identifiquen;
-
-VI. Las actas de verificación levantadas por el personal del Departamento de Registro y Fiscalización deberán ser firmadas por los verificadores, debiéndose considerar como tales, a quienes se hayan identificado debidamente al inicio de la diligencia administrativa, así como por los testigos designados, si los hubiera;
-
-VII. Las actas de verificación pueden conformarse por un número indeterminado de hojas o anexos. Los verificadores pueden elaborar cédulas o papeles de trabajo adjuntos en los que se detalle la documentación exhibida por el visitado, o bien, en los que sustenten sus observaciones, las cuales deberán ser firmadas por los que intervinieron en la verificación. Si alguna de las personas que intervino en la verificación se niega a firmar dichos documentos, los visitadores lo asentarán en el acta respectiva señalando las causas de tal situación;
-
-VIII. En el caso de que durante el periodo en que se desarrolle la verificación fuera sustituido alguna de los verificadores; quien debe firmar el acta es el verificador que legalmente se designe sustituto;
-
-IX. En el caso de que durante la práctica de una verificación aumente el personal actuante, la autoridad que expidió la orden de verificación debe comunicarlo por escrito a la persona visitada;
-
-X. En caso de resistencia o agresión por parte del visitado, el visitador puede pedir el auxilio de la fuerza pública para el eficaz desempeño de la visita; y
-
-XI. En caso de que durante la verificación, el verificador o verificadores observen en el lugar donde se realice la verificación, condiciones de riesgo para las personas o sus bienes, éstos requerirán a quien resulte responsable para que realice las medidas correctivas necesarias, y en caso de no encontrarse al responsable, el verificador dará aviso a la autoridad competente a costa del obligado, sin perjuicio de las sanciones administrativas que procedan, ni de la responsabilidad civil o penal en que éste incurra.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Requisitos que debe Observar la Credencial Oficial que Contenga Identificación de Visitadores, Inspectores, Interventores y Notificadores.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
+La autoridad educativa estatal determinará la procedencia de las nuevas instituciones de este tipo educativo que promuevan su constitución o ampliación, previa aprobación de los estudios técnicos de factibilidad y viabilidad emitidos por la Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Sinaloa.
 
 ###### Artículo 53.
 
-La credencial oficial que contenga la identificación de los visitadores, inspectores, interventores y notificadores deberá satisfacer los siguientes requisitos:
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-I. Será expedida por el Tesorero;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
-
-II. Contendrá la fotografía, el nombre y la firma del visitador, inspector, interventor y notificador;
-
-III. Ostentará un número de credencial;
-
-REFORMADA, P.O. 24 DE FEBRERO DE 2006)
-
-IV. Señalara el cargo que desempeña el visitador, inspector, interventor y notificador;
-
-V. Indicara la vigencia del cargo y de la credencial.
-
-Valor probatorio de las actas de auditoría.
+La educación superior está compuesta por licenciatura, especialidad, maestría y doctorado, así como por opciones terminales previas a la conclusión de la licenciatura, tales como los técnicos superiores universitarios o profesionales asociados. Comprende también la educación normal en todos sus niveles y especialidades.
 
 ###### Artículo 54.
 
-Las actas de auditoría gozarán de valor probatorio pleno.
+La obligatoriedad de la educación superior corresponde al Estado, el cual la garantizará para todas las personas que cumplan con los requisitos solicitados por las instituciones respectivas.
 
-Nulidad delo actuado.
+Las políticas que lleven a cabo las autoridades educativas del Estado se realizarán con base en lo establecido en la Ley General de Educación Superior.
 
 ###### Artículo 55.
 
-Será nulo lo actuado en exceso cuando se efectúa una revisión traspasando los limites señalados por la orden de visita.
-
-Visita domiciliaria para verificar el cumplimiento de obligaciones fiscales reglamentarias.
+En el ámbito de su competencia, las autoridades educativas estatal y de los municipios, concurrirán con la autoridad educativa federal, para garantizar la gratuidad de la educación en este tipo educativo de manera gradual, comenzando con el nivel de licenciatura y, progresivamente, con los demás niveles de este tipo educativo, en los términos que establezca la ley de la materia, priorizando la inclusión de los pueblos indígenas y los grupos sociales más desfavorecidos para proporcionar la prestación de este servicio educativo en todo el territorio nacional. En todo momento se respetará el carácter de las instituciones a las que la ley otorga autonomía.
 
 ###### Artículo 56.
 
-La visita domiciliaria para verificar el cumplimiento de obligaciones fiscales derivadas de disposiciones fiscales reglamentarias, así como de la presentación de documentos e informes relacionados con el cumplimiento de obligaciones fiscales, se regirá en lo conducente por lo previsto en el artículo 52 de este Reglamento.
-
-Requisitos que debe contener el acto que contenga una multa.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2023)
 
 ###### Artículo 57.
 
-Para efectos de la fracción I del artículo 81 del Código, el acto que contenga la multa deberá expresar con precisión el precepto legal aplicable al caso. Señalando con las circunstancias especiales, razones particulares o causas inmediatas que se hayan tomando en consideración para la imposición de sanción, debiendo existir adecuación entre la razón sustancial aducida y las normas aplicables.
-
-Casos en que es improcedente la imposición de multas.
+Las instituciones de educación superior, incluidas las de normal en todos sus niveles y especialidades, que pretendan establecerse o ampliarse en el Estado, deberán obtener previamente la opinión de procedencia emitida expresamente por la Comisión Estatal para la Planeación de la Educación Superior, con base en estudios técnicos de factibilidad y viabilidad.
 
 ###### Artículo 58.
 
-No procede la imposición de multas cuando se haya incurrido en infracción a causa de fuerza mayor o caso fortuito.
-
-Resolución procesalmente inexistente.
+Las autoridades educativas estatal y municipales, en el ámbito de sus competencias, establecerán políticas para fomentar la inclusión, continuidad y egreso oportuno de estudiantes inscritos en educación superior, poniendo énfasis en los jóvenes. Determinarán medidas que amplíen el ingreso y permanencia a toda aquella persona que, en los términos que señale la ley en la materia, decida cursar este tipo de estudios, tales como el establecimiento de mecanismos de apoyo académico y económico que responda a las necesidades de la población estudiantil. Las instituciones podrán incluir, además, opciones de formación continua y actualización para responder a las necesidades de la transformación del conocimiento y cambio tecnológico.
 
 ###### Artículo 59.
 
-Se considera que una resolución es procesalmente inexistente, hasta en tanto no se haga del conocimiento de los interesados.
+Las autoridades educativas respetarán el régimen jurídico de las universidades a las que la ley les otorga autonomía, en los términos establecidos en la fracción VII del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, lo que implica, entre otros, reconocer su facultad para ejercer la libertad de cátedra e investigación, crear su propio marco normativo, la libertad para elegir sus autoridades, gobernarse a sí mismas, y administrar su patrimonio y recursos.
 
-Requisitos que deben contener las acta (sic) levantadas con motivo de notificación personal.
+### Capítulo IX. De la Educación Normal
 
 ###### Artículo 60.
 
-Las actas levantadas con motivo de una notificación personal deberán reunir los siguientes requisitos:
+La educación normal, cualquiera que sea su nivel, especialidad o modalidad, tiene por objeto la formación de maestros para satisfacer las necesidades educativas de la entidad.
 
-I. Deberá asentarse la hora en que se practicó la diligencia;
-
-II. Deberá contener una exposición pormenorizada de los hechos conforme a los cuales se hayan practicado las diligencias, entre los que deben señalarse:
-
-a) Que el notificador se constituyó en el domicilio indicado para tal efecto.
-
-b) Cómo fue que se cercioró de que la persona que debía ser notificada vive o tiene su domicilio fiscal en el lugar en que ha de practicarse la diligencia.
-
-c) Que una vez constituido en ese lugar, el notificador requirió la presencia de tal persona o de su representante legal.
-
-d) En su caso, que el día anterior le dejó citatorio, o bien, cómo fue que verifico que en realidad era la persona a notificar.
-
-e) Una relación de lo acontecido durante la diligencia.
-
-Notificaciones por correo.
+La educación normal que se imparte en el Estado se sujetará en lo concerniente a planes y programas de estudio; proyectos de desarrollo institucional, administrativos y académicos, a las directrices y lineamientos autorizados por la autoridad educativa federal y demás autoridades competentes.
 
 ###### Artículo 61.
 
-Para efectos del artículo 104 fracciones I y II del Código, tratándose de notificaciones por correo, siempre será necesario el acuse de recibo, para tenerla por comprobada, en los casos en que, el dar por hecha la notificación implique la pérdida de un derecho dentro de un procedimiento.
+La educación que se imparta en las escuelas normales tendrá las características siguientes:
 
-Casos en que se debe dejar citatorio.
+I. Desarrollará y afianzará en los alumnos la vocación magisterial;
+
+II. Dotará a los normalistas de una cultura general y pedagógica, que asentada en suficientes bases teóricas, les proporcione elementos requeridos para la práctica docente y les capacite para realizar eficazmente la obra educativa en los medios rural y urbano del Estado;
+
+III. Infundirá en los estudiantes un alto espíritu profesional y un concepto claro de la responsabilidad social que contraerán en el ejercicio de la docencia, pugnando hacia el progreso, la armonía y el bienestar;
+
+IV. Formará a las futuras maestras y maestros sobre el conocimiento y práctica de los valores éticos universales y de una sólida conciencia social;
+
+V. Pugnará porque se comprendan e interpreten los principios básicos de nuestras relaciones internacionales, fundamentadas en la no intervención y la autodeterminación de los pueblos;
+
+VI. Contribuirá a darle mayor plenitud a los conceptos de nacionalidad, solidaridad y conciencia patriótica;
+
+VII. Fomentará la idea del mundo y sus estrechas relaciones globales, independientemente de sus regímenes económicos, políticos y sociales; y
+
+VIII. Formará en las futuras maestras y maestros una sólida conciencia para la interpretación y aplicación de las normas emanadas de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, y sus leyes reglamentarias.
 
 ###### Artículo 62.
 
-En los casos de notificación personal previsto en el artículo 107 primer párrafo del Código, en que el notificador no encuentre al representante legal de la persona moral a quien deba notificar, no será necesario que en el citatorio que emita para que se le espere a hora fija el día hábil siguiente o para que se acuda a notificarse a las oficinas de la autoridad, se precise el nombre del representante legal, bastando que se señale la denominación o razón social.
-
-En todos los casos en que medie citatorio, el notificador asentará esta circunstancia.
-
-Notificación por instructivo.
+Los alumnos normalistas prestarán su servicio social en el término de un año, preferentemente durante el último año de la carrera profesional.
 
 ###### Artículo 63.
 
-Cuando se practique una notificación por instructivo, en el caso a que se refiere el artículo 107 segundo y tercer párrafo del Código, será necesario que el notificador haga constar que habiéndose dejado citatorio a quien deba notificarse, a su representante legal o a la persona autorizada para ello, no atendieron al mismo, o en su caso que la persona que se encuentre en el domicilio en que se realice la diligencia o el vecino, se nieguen a recibirla.
+El servicio social que presten los egresados de otras instituciones formadoras de docentes en el Estado, se sujetará a lo dispuesto en el Capítulo IX, de este Título.
 
-No será necesario que el notificador haga constar lo referido con anterioridad, en el caso de que existan diversos elementos que lleven a la convicción de que se presentaron las circunstancias referidas en el párrafo anterior.
-
-### CAPÍTULO CUARTO. EL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN DE LA GARANTÍA DEL INTERÉS FISCAL
-
-Garantía del interés fiscal.
+### Capítulo I. De la Naturaleza del Sistema Educativo Estatal
 
 ###### Artículo 64.
 
-La garantía del interés fiscal relativo a los créditos fiscales, a que se refiere el artículo 111 del Código, según el caso, se otorgará a favor de la Tesorería o del organismo que sea competente para cobrar coactivamente créditos fiscales.
-
-Cuando la garantía se otorgue mediante fianza, se hará a favor de la Tesorería o del organismo, según sea el caso.
-
-Las garantías subsistirán hasta que proceda su cancelación en los términos del Código y este Reglamento.
-
-Los gastos que se originen con motivo de la garantía serán por cuenta del interesado.
-
-Depósito en garantía.
+Los estudiantes normalistas podrán organizarse en asociaciones, cuya finalidad será prioritariamente promover su conciencia democrática, el mejoramiento académico, político y cultural del plantel y de sí mismos, y ejercer en la comunidad, como acción social escolar, servicios y trabajos de mejoramiento material, ético y cívico-cultural; pero no podrán formar parte del gobierno de la institución, participar en el nombramiento de las autoridades ni profesores del plantel ni en la selección de los alumnos de nuevo ingreso.
 
 ###### Artículo 65.
 
-Para los efectos de la fracción I del artículo 111 del Código, La cantidad exhibida deberá permanecer en depósito, mientras subsista la obligación de garantizar.
+Las maestras y maestros son promotores, coordinadores y agentes directos del proceso educativo. Se les proporcionarán los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
 
-Las cantidades recibidas se invertirán en los términos que determine el Tesorero, y los intereses se sumarán a la garantía.
+Para ejercer la docencia en instituciones normales establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o reconocimiento de validez oficial de estudios, las maestras y maestros deberán satisfacer los requisitos que, en su caso, señalen las autoridades competentes. En los casos de maestras y maestros de educación indígena, que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la autoridad educativa y certificar su bilingüismo en la lengua indígena que corresponda y en español.
 
-Hipoteca y prenda como garantía.
+El Estado otorgará un salario profesional digno, que permita al profesorado de los planteles alcanzar un nivel de vida decoroso para ellos y su familia; que les permita arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan, su perfeccionamiento profesional y para realizar actividades destinadas a su desarrollo personal y profesional.
+
+### Capítulo X. Del Servicio Social
 
 ###### Artículo 66.
 
-Para los efectos de la fracción II del artículo 111 del Código, la prenda o hipoteca se constituirá sobre los siguientes bienes:
+Las personas beneficiadas directamente por los servicios educativos de instituciones de los tipos de educación media superior que así lo establezcan, deberán prestar servicio social o sus equivalentes, en los casos y términos que señalen las disposiciones legales aplicables. En éstas se preverá la prestación del servicio social o sus equivalentes como requisito previo para obtener grado académico de Bachillerato.
 
-I. Bienes muebles por el 75% de su valor siempre que estén libres de gravámenes hasta por ese (sic) por ciento. La Tesorería podrá autorizar a instituciones o a corredores públicos para valuar o mantener en depósito determinados bienes. Deberá inscribirse la prenda en el registro que corresponda cuando los bienes en que recaiga estén sujetos a esta formalidad.
-
-No serán admisibles como garantía los bienes que se encuentren en dominio fiscal o en el de acreedores. Los de procedencia extranjera, solo se admitirán cuando se compruebe su legal estancia en el país, y
-
-II. Bienes inmuebles por el 75% del valor catastral. Para estos efectos se deberá acompañar a la solicitud respectiva, el certificado del registro público de la propiedad en el que no aparezca anotado algún gravamen ni afectación urbanística o agraria, que hubiera sido expedido cuando más con tres meses de anticipación. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar, no podrá exceder del 75% del valor.
-
-En la hipoteca, el otorgamiento de la garantía se hará en escritura pública que deberá inscribirse en el registro público de la propiedad y contener los datos relacionados con el crédito fiscal. El otorgante podrá garantizar con la misma hipoteca los recargos futuros o ampliar la garantía cada año.
-
-Póliza en que se haga constar la fianza que queda en guarda y custodia de la Dirección de Ingresos.
+La autoridad educativa estatal, en coordinación con las instituciones de educación respectivas, promoverá lo necesario a efecto de establecer diversos mecanismos de acreditación del servicio social o sus equivalentes y que éste sea reconocido como parte de su experiencia en el desempeño de sus labores profesionales técnicos.
 
 ###### Artículo 67.
 
-Para efectos de la fracción III del artículo 111 del Código, la póliza en que se haga constar la fianza deberá quedar en poder y guarda de la Dirección de Ingresos o del organismo descentralizado que sea competente para cobrar coactivamente créditos fiscales.
+La autoridad educativa estatal, en coordinación con las autoridades competentes, establecerá mecanismos para que cuente como prestación de servicio social, las tutorías y acompañamientos que realicen estudiantes a los educandos de preescolar, primaria, secundaria y media superior que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
 
-Tercero que garantiza un crédito fiscal.
+La prestación de servicios docentes que lleven a cabo en forma gratuita los maestros y demás profesionales técnicos, en cualquiera de las escuelas e instituciones del Sistema Educativo Estatal, podrá ser considerada como servicio social.
 
 ###### Artículo 68.
 
-Para efectos de la fracción IV del artículo 111 del Código, para que un tercero asuma la obligación de garantizar el interés fiscal, deberá sujetarse a lo siguiente:
+Los alumnos de institutos técnicos e instituciones de educación media-superior y superior, incluidas las formadoras y actualizadoras de docentes, estarán obligados a prestar servicio social, el cual se orientará, preferentemente, a cumplir con tareas propias al perfil profesional de su carrera, y con los programas de asistencia social que determinen las autoridades competentes. Las tareas de alfabetización serán prioritarias para los prestadores del servicio social de las escuelas normales y similares.
 
-I. Manifestar su aceptación, mediante escrito firmado ante notario público o ante la autoridad recaudadora que tenga encomendado el cobro del crédito fiscal, requiriéndose en este caso la presencia de dos testigos, y
-
-II. Las personas físicas o morales deberán acreditar su solvencia a satisfacción de la Tesorería.
-
-Requisitos que debe cubrir el tercero, para que garantice un crédito fiscal.
+### Capítulo XI. Del Fomento de la Investigación, la Ciencia, las Humanidades, la Tecnología y la Innovación
 
 ###### Artículo 69.
 
-Para que un tercero asuma la obligación de garantizar por cuenta de otro en alguna de las formas a que se refieren las fracciones II y V del artículo 111 del Código, deberá cumplir con los requisitos que para cada una se establecen en este Reglamento.
+En el Estado se reconoce el derecho de toda persona a gozar de los beneficios del desarrollo científico, humanístico, tecnológico y de la innovación, considerados como elementos fundamentales de la educación y la cultura.
 
-Embargo administrativo
+Las autoridades educativas estatales y municipales, en el ámbito de su competencia, promoverán el desarrollo, la vinculación y divulgación de la investigación científica para el beneficio social y el desarrollo de las actividades productivas de la entidad.
 
 ###### Artículo 70.
 
-Para los efectos de la fracción V del artículo 111 del Código, el embargo en la vía administrativa se sujetará a las siguientes reglas:
-
-I. Se practicara a solicitud del contribuyente, quien deberá acompañar los documentos que establezca la Tesorería;
-
-II. El contribuyente señalara los bienes en que deba trabarse, debiendo ser suficientes para garantizar el interés fiscal a juicio del Tesorero;
-
-III. No serán susceptibles de embargo los bienes de fácil descomposición, deterioro o inflamables;
-
-IV. Tratándose de personas físicas el depositario de los bienes será el propietario y en el caso de personas morales el representante legal. Cuando a juicio del jefe de la Oficina Ejecutora exista peligro de que el depositario se ausente, enajene u oculte sus bienes o realice maniobras tendientes a evadir el cumplimiento de sus obligaciones, podrá removerlo del cargo; en este supuesto los bienes se depositaran con la persona que designe el jefe de la oficina;
-
-V. Deberá inscribirse en el registro público que corresponda, el embargo de los bienes que estén sujetos a esta formalidad, y
-
-VI. Deberá cubrirse, con anticipación a la práctica de la diligencia de embargo en la vía administrativa, los gastos de ejecución por embargo. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.
-
-Garantía del interés fiscal.
+El fomento de la investigación, la ciencia, las humanidades, la tecnología y la innovación que realicen las autoridades educativas estatales y municipales se realizará de conformidad con lo establecido en la legislación aplicable en materia de (sic) en la Ley de Ciencia y Tecnología la cual es reglamentaria de la Fracción V, del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 71.
 
-La garantía del interés fiscal se ofrecerá por el interesado ante la Oficina Ejecutora, para que la califique, acepte si procede y le dé el trámite correspondiente.
+El desarrollo tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyará en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto.
 
-La Oficina Recaudadora para calificar la garantía ofrecida deberá verificar que se cumplan los requisitos que establecen el Código y este Reglamento en cuanto a la clase de la garantía ofrecida, el motivo por el cual se otorgó y que su importe cubre los conceptos que señala el artículo 111 del Código; cuando no se cumplan, la autoridad requerirá al promovente, a fin de que en un plazo de cinco días contados a partir del día siguiente a aquél en que se le notifique dicho requerimiento, cumpla con el requisito omitido; en caso contrario no se aceptará la garantía.
-
-Combinación y substitución de la garantía del interés fiscal.
+### Capítulo XII. De la Educación Indígena
 
 ###### Artículo 72.
 
-Para garantizar el interés fiscal sobre un mismo crédito, podrán combinarse las diferentes formas que al efecto establece el artículo 111 del Código, así como sustituirse entre sí, caso en el cual, antes de cancelarse la garantía original deberá constituirse la sustituta, cuando no sea exigible la que se pretende sustituir.
+En el Estado se garantizará el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas o afromexicanas, migrantes y jornaleros agrícolas. Las acciones educativas de las autoridades respectivas contribuirán al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas del Estado como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
 
-La garantía constituida podrá garantizar uno o varios créditos fiscales, siempre que la misma comprenda los conceptos previstos en el segundo párrafo del artículo 111 del Código.
-
-La garantía deberá ampliarse dentro del mes siguiente a aquél en que concluya el periodo a que se refiere el segundo párrafo del artículo 111 del Código, por el importe de los recargos correspondientes a los doce meses siguientes. Lo dispuesto en este párrafo será aplicable a aquellos casos en que por cualquier circunstancia resulte insuficiente la garantía.
-
-Cancelación del la garantía.
+La educación indígena debe atender las necesidades educativas de las personas, pueblos y comunidades indígenas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y las culturas del Estado.
 
 ###### Artículo 73.
 
-La cancelación de la garantía procederá en los siguientes casos:
-
-I. Por sustitución de garantía;
-
-II. Por el pago del crédito fiscal;
-
-III. Cuando en definitiva quede sin efectos la resolución que dio origen al otorgamiento de la garantía, y
-
-IV. En cualquier otro caso en que deba cancelarse de conformidad con las disposiciones fiscales.
-
-La garantía podrá disminuirse o substituirse por una menor en la misma proporción en que se reduzca el crédito fiscal por pago de una parte del mismo.
-
-Solicitud de cancelación de la garantía.
+Las autoridades educativas del Estado consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas o afromexicanas, respetando su autodeterminación en los términos del artículo 2° de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 74.
 
-Para los efectos del artículo anterior el contribuyente o el tercero que tenga interés jurídico, deberá presentar solicitud de cancelación de garantía ante la autoridad fiscal que la haya exigido o recibido, acompañando los documentos que en la misma se señalen.
+En materia de educación indígena, las autoridades educativas estatal y municipales podrán realizar, entre otras acciones, lo siguiente:
 
-La cancelación de las garantías en las que con motivo de su otorgamiento, se hubiera efectuado inscripción en el registro público, se hará mediante oficio de la autoridad fiscal al registro público que corresponda.
+I. Fortalecer las escuelas de educación indígena, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar, los servicios básicos y la conectividad;
 
-Pago de gastos extraordinarios.
+II. Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos indígenas y comunidades indígenas o afromexicanas, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías;
+
+III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas de la entidad;
+
+IV. Fortalecer las instituciones públicas de formación docente, en especial las normales bilingües interculturales, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen, así como impulsar programas de formación, actualización y certificación de maestras y maestros en las lenguas de las regiones correspondientes;
+
+V. Tomar en consideración, en las opiniones que emitan para la elaboración de los planes y programas de estudio, los sistemas de conocimientos de los pueblos y comunidades indígenas y afromexicanas, para favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar;
+
+VI. Crear mecanismos y estrategias para incentivar el acceso, permanencia, tránsito, formación y desarrollo de los educandos con un enfoque intercultural y plurilingüe, y
+
+VII. Establecer esquemas de coordinación entre las diferentes instancias de gobierno para asegurar que existan programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas o afromexicanas, en un marco de inclusión y enriquecimiento de las diferentes culturas.
+
+### Capítulo XIII. De la Educación Humanista
 
 ###### Artículo 75.
 
-En el caso de que los contribuyentes deban pagar gastos extraordinarios por el procedimiento administrativo de ejecución, la autoridad recaudadora determinará el monto de los mismos, acompañando copia de los documentos que acrediten dicho monto.
+En la educación que se imparta en el Estado se promoverá un enfoque humanista, el cual favorecerá en el educando sus habilidades socioemocionales que le permitan adquirir y generar conocimientos, fortalecer la capacidad para aprender a pensar, sentir, actuar y desarrollarse como persona integrante de una comunidad y en armonía con la naturaleza.
 
-Los honorarios de los depositarios incluirán los reembolsos por gastos de guarda, mantenimiento y conservación del bien; cuando los bienes se depositen en los locales de las autoridades recaudadoras, los honorarios serán iguales a los mencionados reembolsos.
-
-Los gastos extraordinarios deben ser estrictamente indispensables.
+De igual forma, para resolver situaciones problemáticas de manera autónoma y colectivamente, aplicar los conocimientos aprendidos a situaciones concretas de su realidad y desarrollar sus actitudes y habilidades para su participación en los procesos productivos, democráticos y comunitarios.
 
 ###### Artículo 76.
 
-La autoridad recaudadora vigilará que los gastos extraordinarios que se efectúen sean los estrictamente indispensables y que no excedan a las contraprestaciones normales del mercado debiendo contratar a las personas que designe el deudor, salvo que a juicio del jefe de la oficina ejecutora, la persona propuesta no tenga los medios para prestar el servicio o exista peligro de que el depositario se ausente, enajene u oculte los bienes o realice maniobras tendientes a evadir el cumplimiento de sus obligaciones.
+La autoridad educativa estatal generará mecanismos para apoyar y promover la creación y difusión artística, propiciar el conocimiento crítico, así como la difusión del arte y las culturas. En coordinación con la autoridad educativa federal, adoptará medidas para que, dentro de la orientación integral del educando, se promuevan métodos de enseñanza aprendizaje, con la finalidad de que exprese sus emociones a través de manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitivo de las personas.
 
-Casos en que no se cobrarán los gastos de ejecución.
+### Capítulo XIV. De la Educación Inclusiva
 
 ###### Artículo 77.
 
-No se cobrarán los gastos de ejecución a que se refiere el artículo 118 del Código, cuando los créditos fiscales respecto de los cuales se ejercitó el procedimiento administrativo de ejecución que dio lugar a dichos gastos, hayan quedado insubsistentes en su totalidad mediante resolución o sentencia definitiva dictada por autoridad competente.
+La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
 
-Determinación del monto de gastos de ejecución.
+La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
 
 ###### Artículo 78.
 
-Las autoridades fiscales, para la determinación del monto de los gastos de ejecución a que se refiere el artículo 118 del Código, considerarán como un solo crédito la totalidad de los adeudos que se determinen en una resolución, así como la totalidad de los adeudos por los que se solicite, en un mismo acto, el pago en parcialidades, aun cuando provengan de diferentes contribuciones o correspondan a años distintos.
+La educación inclusiva tiene como finalidad favorecer el aprendizaje de todos los educandos en los tipos y niveles educativos, con énfasis en los que están excluidos, marginados o en riesgo de estarlo. Para tal efecto, las acciones de la autoridad educativa estatal en la materia procurarán:
 
-Apertura de cerraduras.
+I. Favorecer el máximo logro de aprendizaje de los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
+
+II. Desarrollar al máximo la personalidad, los talentos y la creatividad de los educandos;
+
+III. Favorecer la plena participación de los educandos, su educación y facilitar la continuidad de sus estudios en la educación obligatoria;
+
+IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, orientación sexual o de género, condición de salud, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, y cualquier otro motivo o condición que atente contra la dignidad humana;
+
+V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación; y
+
+VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
 
 ###### Artículo 79.
 
-En los casos en que el deudor o su representante legal no se presenten a abrir las cerraduras de los bienes muebles embargados a que se refiere el segundo párrafo del artículo 131 del Código, la autoridad recaudadora encomendará a un experto para que las abra en presencia de dos testigos designados previamente por la autoridad.
+En la aplicación de esta Ley, se garantizará el derecho a la educación a las personas con condiciones especiales, aptitudes sobresalientes o que enfrenten barreras para el aprendizaje y la participación.
 
-El ejecutor levantará un acta haciendo constar el inventario completo de los bienes, la cual deberá ser firmada por el, los testigos y el depositario designado. En la propia oficina quedara a disposición del deudor una copia del acta a que se refiere este párrafo.
+La autoridad educativa estatal, en el ámbito de su competencia y de conformidad a los criterios orientadores para la prestación de los servicios de educación especial que emita la autoridad educativa federal, para atender a los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, realizará lo siguiente:
 
-Convenio en materia sanitaria.
+I. Prestar educación especial en condiciones necesarias, previa decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación;
+
+II. Ofrecer formatos accesibles para prestar educación especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
+
+III. Prestar educación especial para apoyar a los educandos con alguna discapacidad o aptitudes sobresalientes en los niveles de educación obligatoria;
+
+IV. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación;
+
+V. Garantizar la formación de todo el personal docente, así como la orientación a las madres, padres o tutores, para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y presten los apoyos que los educandos requieran;
+
+VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva; y
+
+VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación.
 
 ###### Artículo 80.
 
-Para los efectos del artículo 247 del Código, se entenderá que, en el caso de que Industrial de Abasto de Puebla, tenga suscrito un convenio con el Estado, en materia de control sanitario de carnes, las personas cuyos productos deban ser materia de dicho control, deberán realizarlo en las instalaciones de Industrial de Abasto de Puebla.
+Para garantizar la educación inclusiva, la autoridad educativa estatal, en el ámbito de su competencia, ofrecerá las medidas pertinentes, entre ellas:
 
-### CAPÍTULO QUINTO. DISPOSICIONES REGLAMENTARIAS EN MATERIA DE COORDINACIÓN
+I. Facilitar el aprendizaje del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario;
 
-De los convenios de coordinación.
+II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas Mexicana, dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas;
+
+III. Asegurar que los educandos ciegos, sordos o sordociegos reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
+
+IV. Facilitar el apoyo con maestras o maestros sombra para las niñas y niños con Trastorno del Espectro Autista;
+
+V. Asegurar que se realicen ajustes razonables para las personas con discapacidad; y
+
+VI. Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
+
+### Capítulo II. Del Tipo de Educación Básica
 
 ###### Artículo 81.
 
-En los casos en que el Municipio suscriba convenios de Coordinación en materia de gasto o deuda, la constitución de fondos a que se refiere el artículo 281 del Código, se regirá por las siguientes disposiciones:
+En el Sistema Educativo Estatal se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación y en las demás normas aplicables.
 
-I. La constitución de fondos podrá corresponder a una mezcla de recursos del Municipio, con los que corresponden a otros niveles de Gobierno o entidades de la administración pública de diversos municipios o niveles de Gobierno;
+### Capítulo XV. De la Educación para Personas Adultas
 
-II. El objeto de dichos fondos deberá encaminarse a la satisfacción de necesidades de interés público;
+### Capítulo III. De la Educación Inicial
 
-III. Podrán ser complejos, entendiéndose por esto que la coordinación en gasto o deuda, sea el medio para el cumplimiento de un fin superior de interés público, y
+## Título Tercero. Del Proceso Educativo
 
-IV. Al constituirse fideicomisos, el Municipio podrá afectar en patrimonio fiduciario sus recursos fiscales o financieros, presentes o futuros, siempre y cuando:
-
-a) El contrato respectivo sea aprobado en los términos y condiciones que establece la Constitución Política de los Estados Unidos Mexicanos.
-
-b) En el caso de que el Municipio deposite en cualquier órgano de gobierno diverso al Municipal, la decisión del destino especifico de los recursos, tenga acceso oportuno y continuo a los resultados de la administración del patrimonio fiduciario.
-
-El Presidente, atendiendo a las particularidades del caso, instruiría al Tesorero a efecto de que integre el Comité Técnico del fideicomiso del que se trate.
-
-El Presidente podrá otorgar los actos jurídicos necesarios, para el entero oportuno de recursos al patrimonio fiduciario.
-
-## TÍTULO III. DISPOSICIONES REGLAMENTARIAS EN MATERIA DEL RÉGIMEN DE BIENES DEL MUNICIPIO
-
-La concesión es un acto administrativo discrecional.
+### Capítulo I. De la Orientación Integral en el Proceso Educativo
 
 ###### Artículo 82.
 
-Para efectos de este Reglamento, se entenderá que la concesión constituye un acto administrativo de carácter discrecional, que se materializa hasta el momento que de conformidad con lo previsto en el artículo 370 del Código, el título de concesión es expedido por el Presidente, previo acuerdo del Ayuntamiento o por el titular del organismo, previo acuerdo de su órgano de gobierno. Titulo que es fuente de derechos y obligaciones para el particular y el concedente.
+La autoridad educativa estatal ofrecerá acceso a programas y servicios educativos para personas adultas en distintas modalidades que consideren sus contextos familiares, comunitarios, laborales y sociales.
 
-La voluntad del concesionario, sólo concurrirá al momento en que acepta las condiciones para el uso o explotación del bien, que le es confiado por el concedente.
-
-Procedimiento para la asignación de concesiones.
+Esta educación proporcionará los medios para erradicar el rezago educativo y analfabetismo a través de diversos tipos y modalidades de estudio, así como una orientación integral para la vida que posibilite a las personas adultas formar parte activa de la sociedad, a través de las habilidades, conocimientos y aptitudes que adquiera con el proceso de enseñanza aprendizaje que el Estado facilite para este fin.
 
 ###### Artículo 83.
 
-Para efectos del artículo 370 del Código, el procedimiento para la asignación de concesiones se rige por los siguientes lineamientos:
-
-l. Podrá iniciarse a solicitud de un particular o a instancia del concedente;
-
-II. En el caso de que la intención de concesionar un bien emane del concedente, se publicará una convocatoria, por dos veces consecutivas en un diario de mayor circulación nacional durante el lapso de 5 días hábiles;
-
-III. Se integrara un Comité Técnico de licitación de la concesión, mismo que será un órgano colegiado que tiene por objeto la recepción, análisis y aprobación de las solicitudes de las personas físicas o morales interesadas en la explotación de bienes propiedad pública del Municipio o de un organismo;
-
-IV. El Comité Técnico de licitación de la concesión, se integrará por los titulares de las áreas administrativas que por su competencia, aporten elementos para la determinación final sobre la propuesta más conveniente para el convocante. En todo caso, ningún servidor público del concedente, podrá ser licitante;
-
-V. En todo caso, formará parte del Comité Técnico de licitación, el Contralor o el Contralor Interno, según el caso, quien tendrá voz pero no voto;
-
-VI. La convocante exigirá a los licitantes los siguientes requisitos:
-
-a) Capital contable mínimo;
-
-b) Testimonio del acta constitutiva, cuando se trate de personas morales;
-
-c) Declaración escrita, bajo protesta de decir verdad, que no existen circunstancias que vicien la imparcialidad del procedimiento, tales como tener parentesco o intereses de orden económico, con los miembros del Comité Técnico de Licitación;
-
-VII. Habrá bases de licitación que expresarán las condiciones en que habrá de prestarse la concesión, y
-
-VIII.- El convocante establecerá un sistema que permita la aclaración de bases; el otorgamiento de garantías de seriedad; la transparencia en los actos de apertura de la propuesta técnica y de la económica; la elaboración de un dictamen que establezca las bases para la resolución y la forma en que se hará del conocimiento de los licitantes el fallo respectivo.
-
-El procedimiento que instrumente el concedente, por si mismo no obliga al otorgamiento de un título de concesión, cuando los participantes no satisfagan las condiciones necesarias para garantizar que la explotación del bien de que se trate, beneficiará al interés público.
-
-Contenido del título de concesión.
+La educación para personas adultas será considerada una educación a lo largo de la vida y está destinada a la población de quince años o más que no haya cursado o concluido la educación primaria y secundaria; además de fomentar su inclusión a la educación media superior y superior. Se presta a través de servicios de alfabetización, educación primaria y secundaria, así como de formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la participación y la solidaridad social.
 
 ###### Artículo 84.
 
-El título de concesión contendrá, lo conducente, los siguientes aspectos:
+Las personas beneficiarias de la educación referida en este Capítulo podrán acreditar los conocimientos adquiridos, mediante evaluaciones parciales o globales, conforme a los procedimientos a que aluden los artículos 83 y 145 de la Ley General. Cuando al presentar una evaluación no acrediten los conocimientos, habilidades, capacidades y destrezas, recibirán un informe que indique las asignaturas y unidades de aprendizaje en las que deban profundizar y tendrán derecho a presentar nuevas evaluaciones hasta lograr la acreditación respectiva.
 
-I. La identificación del o los concesionarios de bienes;
+La autoridad educativa estatal organizará servicios permanentes de promoción y asesoría de educación para personas adultas. Se darán facilidades necesarias a trabajadores y sus familiares para estudiar y acreditar la educación primaria, secundaria y media superior.
 
-II. Señalará las disposiciones de las que emane la competencia de la autoridad para emitir el título de concesión;
+Quienes participen voluntariamente proporcionando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
 
-III. La manifestación expresa e indudable del concesionario de aceptar las condiciones de la concesión;
-
-IV. La voluntad expresa e indudable del concedente, de otorgar en concesión un bien público;
-
-V. Los documentos que acreditan la propiedad del bien y la identificación física del mismo. En todo caso, el concedente emitirá un inventario pormenorizado del bien principal y sus accesorios otorgados en concesión;
-
-VI. El concedente expresará las causas que llevan al otorgamiento de la concesión y la forma en que se garantizara el interés público;
-
-VII. La cantidad, forma y plazos en que el concesionario remunerara al concedente por el otorgamiento de la concesión;
-
-VIII. Las condiciones de mantenimiento que se harán al bien materia de la concesión, que aseguren la regularidad, permanencia y continuidad en la explotación de dicha concesión;
-
-IX. La forma en que el concedente, verificará la solvencia económica del concesionario, así como su capacidad jurídica y técnica;
-
-X. Los derechos y obligaciones a cargo del concedente y del concesionario;
-
-XI. La declaración expresa e indudable del concesionario, de liberar de responsabilidades de carácter laboral al concedente, respecto del personal que contrate para la explotación de la concesión;
-
-XII. Se establecerá expresamente el carácter de intransferible de la concesión, con las salvedades previstas en el artículo 377 del Código;
-
-XIII. Se establecerá expresamente y en forma indudable la obligación del concesionario de no gravar la concesión, con las salvedades previstas en el artículo 377 del Código;
-
-XIV. El otorgamiento de garantías para asegurar el cumplimiento de las obligaciones a cargo del concesionario;
-
-XV. La forma y términos en que al concluir la concesión, se hará entrega del bien y en su caso, se ejercerá el derecho de reversión de los bienes con los que fue explotada;
-
-XVI. Las penas convencionales por el incumplimiento de las obligaciones del concesionario;
-
-XVII. La vigencia de la concesión;
-
-XVIII. Las causas de terminación anticipada de la concesión;
-
-XIX. Los procedimientos para la modificación del título de concesión, y
-
-XX. Los demás que para cada caso concreto sean establecidas por el concedente.
-
-Tarifa a cobrar, por el concesionario.
+### Capítulo XVI. De la Imposición de Nombres a Planteles Públicos del Sistema Educativo Estatal
 
 ###### Artículo 85.
 
-En los casos en que proceda, la tarifa que habrá de cobrar el concesionario, será determinada unilateralmente por el concedente.
-
-Sólo en casos excepcionales, debidamente justificados y aprobados por el concedente, se podrá autorizar al concesionario a determinar la tarifa, pero en el acuerdo respectivo se deberán establecer las condiciones que aseguren la salvaguarda del interés público.
-
-Nulidad, revocación y caducidad de la concesión.
+Los planteles educativos de cualquier nivel que formen parte del Sistema Educativo Estatal, sean oficiales, incorporados o desconcentrados, no deberán de consignar los nombres del Gobernador del Estado, de los funcionarios públicos y representantes populares, durante el desempeño de su encargo, el de sus cónyuges o parientes hasta el segundo grado, ni el de los representantes sindicales del magisterio en funciones o por haber ocupado cargos de representación gremial.
 
 ###### Artículo 86.
 
-Para efectos de los artículos 372, 373 y 374 del Código, se entenderá que:
-
-I. Operará la nulidad de la concesión, cuando para su otorgamiento medie error del concedente, dolo o mala fe del concesionario;
-
-II. Operará la revocación de la concesión, en los casos previstos en el artículo 373 del Código, y
-
-III. Operará la caducidad de la concesión, en el caso en que el concesionario se encuentre obligado a cumplir determinados requisitos previos al uso o explotación de la concesión, y habiéndose fijado plazo para el cumplimiento de los mismos requisitos o para el inicio de la concesión, no cumple los primeros o no ejerza la concesión.
-
-Terminación de la concesión, por extinción de su objeto o materia.
+En las denominaciones oficiales de los planteles del sistema educativo estatal se deberá hacer referencia a los valores nacionales, maestros eméritos o nombres de personas ameritadas a quienes la Nación o el Estado deba exaltar, para engrandecer, de esta manera, nuestra esencia popular y el culto a los símbolos patrios.
 
 ###### Artículo 87.
 
-La concesión termina sin responsabilidad para las partes al extinguirse el objeto o materia de la concesión o el plazo por el que fue concedida.
+La autoridad educativa estatal será la entidad encargada de autorizar la imposición de nombres, para lo cual se cumplirá con el procedimiento siguiente:
 
-Procedimientos a seguir, en el caso de revocación, nulidad o caducidad de la concesión.
+I. Para obtener la autorización de la imposición del nombre a los planteles educativos oficiales del Estado se conformará, en cada comunidad de aprendizaje, una comisión que se integrará por el director de la escuela, un docente, dos madres o padres de familia, dos miembros del Consejo Escolar de Participación Social en la Educación y un representante de la autoridad municipal, la cual se encargará de convocar a la comunidad escolar para seleccionar la terna de personajes o valores nacionales que se propondrá;
+
+II. La documentación relativa a la terna de propuestas, necesaria para realizar las evaluaciones correspondientes, se presentará ante la entidad o área educativa del nivel correspondiente, conteniendo lo siguiente:
+
+a) Semblanza biográfica, profesional o curricular de cada una de las propuestas, que encuadren en las características idóneas preferenciales;
+
+b) Acta Administrativa del consejo técnico pedagógico del plantel que apruebe el propósito de la designación; y
+
+c) Pronunciamiento conjunto de adhesión a la nominación, firmado por representantes de la asociación de madres y padres de familia del plantel y el Consejo Escolar de Participación Social en la Educación;
+
+III. El nivel educativo de que se trate, emitirá el dictamen valorativo dentro de los cinco días hábiles siguientes a la fecha de recepción; y
+
+IV. Dentro de los quince días siguientes, la autoridad educativa estatal resolverá sobre la propuesta para la denominación del plantel, para cuyo efecto procederá a designar representante a la imposición del nombre, la cual se efectuará en acto público solemne que se desarrollará en la institución educativa objeto de la distinción.
 
 ###### Artículo 88.
 
-Para efectos de los artículos 373 y 374 del Código, el procedimiento que instrumente el Síndico o el representante legal del organismo de que se trate, según el caso, para la revocación, nulidad o caducidad de una concesión, se rige por los siguientes lineamientos:
-
-I. El procedimiento puede ser iniciado de oficio o a petición de parte afectada;
-
-II. El Sindico o el representante del organismo de que se trate, según el caso, notificará al concesionario el inicio del procedimiento y las causales de revocación, nulidad o caducidad, otorgándole un término de 5 días hábiles contados a partir del siguiente a aquél en que reciba la notificación, para manifestar por escrito lo que a su derecho e interés convenga;
-
-III. Al contestar el concesionario, deberá señalar domicilio para recibir notificaciones dentro del territorio del Municipio, de no hacerlo, será notificado por estrados de la Sindicatura;
-
-IV. Transcurrido el plazo de cinco días, haya o no contestado el concesionario, el Sindico o el representante legal del organismo de que se trate, abrirá un periodo a prueba de 20 días hábiles, haciendo saber al concesionario que dentro de los cinco primeros, podrá ofrecer pruebas, y los quince restantes serán para su desahogo, sin que sea admisible la confesional y las que atenten contra la moral o el orden público, y
-
-V. Agotado el término probatorio, el Síndico o el representante legal del organismo de que se trate, dictará la resolución que corresponda, haciéndola saber en forma personal al concesionario.
-
-Ejecutividad de la resolución que emita el Síndico.
+Para la selección de nombres a bibliotecas, centros de cómputo, plazas cívicas, aulas o cualquier anexo que distinga a una institución educativa; así como, auditorios, salas, salones, plazas y otras instalaciones donde funcionen y operen las autoridades educativas, se implementará el proceso previsto en el artículo anterior.
 
 ###### Artículo 89.
 
-La resolución que emita el Síndico o el representante del organismo de que se trate, en los términos previstos en la fracción V del artículo anterior, gozará de la característica de ejecutividad, y contra ella no procederá recurso alguno.
-
-Terminación de la concesión, por renuncia del concesionario.
+La orientación integral en el proceso educativo comprende la formación para la vida de los educandos, así como los contenidos de los planes y programas de estudio, la vinculación de la escuela con la comunidad y la adecuada formación de las maestras y maestros en los procesos de enseñanza aprendizaje, acorde con este criterio.
 
 ###### Artículo 90.
 
-La terminación de la concesión por renuncia del concesionario, será optativa para el concedente.
+La orientación integral, en la formación de los educandos, considerará lo siguiente:
 
-Régimen financiero de la concesión y del concedente.
+I. El pensamiento lógico matemático y la alfabetización numérica;
+
+II. La comprensión lectora, la expresión oral y escrita, con elementos de la lengua que permitan la construcción de conocimientos correspondientes a distintas disciplinas y favorezcan la interrelación entre ellos;
+
+III. El conocimiento tecnológico, con el empleo de tecnologías de la información, comunicación, conocimiento y aprendizaje digital, manejo de diferentes lenguajes y herramientas de sistemas informáticos, y de comunicación;
+
+IV. El conocimiento científico, a través de la apropiación de principios, modelos y conceptos científicos fundamentales, empleo de procedimientos experimentales y de comunicación;
+
+V. El pensamiento filosófico, histórico y humanístico;
+
+VI. Las habilidades socioemocionales, como el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización;
+
+VII. El pensamiento crítico, como una capacidad de identificar, analizar, cuestionar y valorar fenómenos, información, acciones e ideas, así como tomar una posición frente a los hechos y procesos para solucionar distintos problemas de la realidad;
+
+VIII. El logro de los educandos de acuerdo con sus capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos;
+
+IX. Los conocimientos, habilidades motrices y creativas, a través de la activación física, la práctica del deporte y la educación física vinculadas con la salud, la cultura, la recreación y la convivencia en comunidad;
+
+X. La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas; y
+
+XI. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica.
 
 ###### Artículo 91.
 
-El régimen financiero de la concesión, es siempre diferente del régimen financiero del concedente, por lo que la quiebra del concesionario no obliga al concedente.
+Las maestras y los maestros acompañarán a los educandos en sus trayectorias formativas en los distintos tipos, niveles, modalidades y opciones educativas, propiciando la construcción de aprendizajes interculturales, tecnológicos, científicos, humanísticos, sociales, biológicos, comunitarios y plurilingües, para acercarlos a la realidad, a efecto de interpretarla y participar en su transformación positiva.
 
-## ARTÍCULOS TRANSITORIOS
+###### Artículo 92.
 
-PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial.
+La evaluación de los educandos será integral y comprenderá la valoración de los conocimientos, las habilidades, las destrezas y, en general, el logro de los propósitos establecidos en los planes y programas de estudio.
 
-SEGUNDO.- Se derogan las disposiciones que se opongan al presente Reglamento.
+Las instituciones educativas deberán informar periódicamente a los educandos y a las madres y padres de familia o tutores, los resultados de las evaluaciones parciales y finales, así como las observaciones sobre el desempeño académico y conducta de los educandos que les permitan lograr un mejor aprovechamiento.
 
-TERCERO.- En tanto el Ayuntamiento no apruebe nuevos manuales de operación, se seguirán aplicando los vigentes.
+### Capítulo II. De los Planes y Programas de Estudio
 
-Atentamente.- "Sufragio Efectivo. No Reelección".- H. Puebla de Z., a 28 de marzo de 2005.- Presidente.- CIUDADANO PABLO FERNÁNDEZ DEL CAMPO ESPINOSA.-Rúbrica.- Secretario.- CIUDADANO JOSÉ MANUEL JANEIRO FERNÁNDEZ.- Rúbrica: Vocal 1.- CIUDADANO CÉSAR JOSÉ SOTOMAYOR SÁNCHEZ- Rúbrica Vocal 2.- CIUDADANA LUZMARIA CABRERA MONTAÑO.- Rúbrica.
+###### Artículo 93.
 
-Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Ayuntamiento del Municipio de Puebla.- Periodo 2005-2008.- Secretaria General.
+Los planes y programas a los que se refieren en la Ley General favorecerán el desarrollo integral y gradual de los educandos en los niveles preescolar, primaria, secundaria, el tipo media superior y la normal, considerando la diversidad de saberes, con un carácter didáctico y curricular diferenciado, que responda a las condiciones personales, sociales, culturales, económicas de los estudiantes, docentes, planteles, comunidades y regiones del país.
 
-El suscrito IGNACIO MIER VELASCO Secretario General del Honorable Ayuntamiento del Municipio de Puebla, en uso de las facultades que me confiere el artículo 138 fracción VII, de la Ley Orgánica Municipal, CERTIFICA: Que las presentes copias fotostáticas, compuestas de cuarenta y dos fojas útiles por su frente, son copia fiel de sus originales, a las que me remito, tengo a la vista y cotejé, mismas que obran en el archivo de la Dirección Jurídica de la Secretaria General de este Honorable Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza, a los seis días del mes de abril del año dos mil cinco para los efectos legales a que haya lugar.- El Secretario General del H. Ayuntamiento del Municipio de Puebla.- IGNACIO MIER VELASCO.- Rúbrica.
+Sus propósitos, contenidos, procesos y estrategias educativas, recursos didácticos y evaluación del aprendizaje y de acreditación, se establecerán de acuerdo con cada tipo, nivel, modalidad y opción educativa, así como a las condiciones territoriales, culturales, sociales, productivas y formativas de las instituciones educativas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+El proceso educativo que se genere a partir de la aplicación de los planes y programas de estudio se basará en la libertad, creatividad y responsabilidad que aseguren una armonía entre las relaciones de educandos y docentes; a su vez, promoverá el trabajo colaborativo para asegurar la comunicación y el diálogo entre los diversos actores de la comunidad educativa.
 
-P.O. 24 DE FEBRERO DE 2006.
+Los libros de texto que se utilicen para cumplir con los planes y programas de estudio para impartir educación por el Estado y que se derive de la aplicación del presente Capítulo, serán los autorizados por la autoridad educativa federal en los términos de la Ley General, por lo que queda prohibida cualquier distribución, promoción, difusión o utilización de los que no cumplan con este requisito. Las autoridades escolares, madres y padres de familia o tutores harán del conocimiento de las autoridades educativas estatal o municipales cualquier situación contraria a este precepto.
 
-PRIMERO.- Se derogan las disposiciones que se opongan a la presente reforma.
+###### Artículo 94.
 
-SEGUNDO.- La Dirección de Catastro, a efecto de determinar la zonificación de todo conjunto habitacional nuevo que se encuentre construido y ubicado en zonas con clasificación I-1 a II-1 y que no aparezca en la Tabla de Valores Unitarios de Suelo Urbano para el año 2006 publicada en el Periódico Oficial del Estado, lo valuará como zona II-2.
+En términos de la Ley General, la autoridad educativa federal determinará los planes y programas de estudio, aplicables y obligatorios en toda la República Mexicana, de la educación preescolar, la primaria, la secundaria, la educación normal y demás aplicables para la formación de maestras y maestros de educación básica, de conformidad a los fines y criterios establecidos en los artículos 14 y 15 de esta Ley.
 
-TERCERO.- Las credenciales oficiales de visitadores, inspectores e interventores, así como su refrendo, expedidas por la Dirección de Recursos Humanos del Ayuntamiento, surtirán sus efectos legales conforme al presente Reglamento. Una vez que finalice su vigencia se librara una nueva de acuerdo a las disposiciones del presente ordenamiento.
+De conformidad a las disposiciones que se emitan, la autoridad educativa estatal emitirá su opinión para que se considere en los planes y programas de estudio el contenido, los proyectos y programas educativos que contemplen las realidades y contextos, regionales y locales del Estado.
 
-P.O. 27 DE MARZO DE 2006.
+La autoridad educativa estatal podrá solicitar a la autoridad educativa federal actualizaciones y modificaciones de los planes y programas de estudio, para atender el carácter regional, local, contextual y situacional del proceso de enseñanza aprendizaje.
 
-PRIMERO. El presente Dictamen deberá publicarse en el Periódico Oficial del Estado y entrará en vigor sesenta días hábiles posteriores a su publicación.
+Los planes y programas de estudio en educación media superior atenderán el marco curricular común que sea establecido por la autoridad educativa estatal con la participación de la Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Sinaloa, con el propósito de contextualizarlos a sus realidades regionales. La elaboración de planes y programas de estudio de los bachilleratos de universidades públicas autónomas por ley se sujetará a las disposiciones correspondientes.
 
-SEGUNDO. Se instruye al Tesorero Municipal, para que en un periodo máximo de sesenta días hábiles, contados a partir del día siguiente de la publicación del presente dictamen en el Periódico Oficial del Estado, remita a este Honorable Cabildo para su aprobación, la carta de derechos del visitado.
+En la elaboración de los planes y programas de estudio a los que se refiere este artículo, se podrán fomentar acciones para que emitan su opinión las maestras y los maestros, así como las niñas, niños, adolescentes y jóvenes. De igual forma, serán consideradas las propuestas que se formulen de acuerdo con el contexto de la prestación del servicio educativo y respondan a los enfoques humanista, social, crítico, comunitario e integral de la educación, entre otros, para la recuperación de los saberes locales.
 
-TERCERO. Se instruye al Tesorero Municipal, para que en un periodo máximo de sesenta días hábiles, contados a partir del día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Estado, remita a este Honorable Cabildo para su aprobación, el Programa Integral, normas, políticas y procedimientos del Departamento de Registro y Fiscalización, adscrito a la Dirección de Ingresos de la Tesorería Municipal, departamento creado mediante Sesión Ordinaria de Cabildo de fecha catorce de diciembre de dos mil cinco y establecido en los artículos 24 y 24 bis del Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla. Así como la circunscripción territorial del Municipio de Puebla, dividida por zonas de fiscalización y el Programa de Capacitación del Personal Operativo de la Dirección citada.
+## Título Cuarto. Del Educando
 
-CUARTO. Corresponderá conocer y resolver de las solicitudes de condonación, exención total o parcial, reducciones o prorrogas en el pago de contribuciones, productos, aprovechamientos y sus accesorios, única y exclusivamente al Presidente Municipal Constitucional del Municipio de Puebla y a las Autoridades Fiscales señaladas en el artículo 53 del Código Fiscal y Presupuestario para el Municipio de Puebla, las cuales resolverán apreciando las circunstancias del caso que justifiquen la respectiva condonación. en atención a las especificas circunstancias de cada caso y a las causas que originaron los impuestos, derechos, aprovechamientos o sus accesorios, ajustándose a las reglas de la lógica y la razón, mediante el análisis de los motivos y fundamentos expresados como sustento de su decisión.
+### Capítulo I. Del Educando como Prioridad en el Sistema Educativo Estatal
 
-La Contraloría Municipal, dará seguimiento a todas las condonaciones que realice el Presidente Municipal Constitucional del Municipio de Puebla o las Autoridades Fiscales, para lo cual éstas le remitirán en un término no mayor a diez días hábiles no prorrogables, el expediente respectivo, así como la resolución que haya recaído en la solicitud de condonación que se realice.
+### Capítulo IV. De la Educación Preescolar
 
-Toda solicitud de condonación que sea no resuelta por las Autoridades Fiscales, será nula en todas y cada una de sus partes, en caso de que Otra Autoridad no fiscal realice algún tipo de condonación o prórroga de pago, será fuente de responsabilidad administrativa.
+###### Artículo 95.
 
-QUINTO. Se revocan los acuerdos emitidos por autoridades municipales, en los cuales se delegan funciones a diversos titulares de las Dependencias y Entidades que integran la Administración Pública Municipal, Centralizada y Descentralizada, a efecto de que conozcan y resuelvan; las solicitudes de condonación, exención total o parcial, reducciones o prórrogas en el pago de contribuciones, productos, aprovechamientos, y sus accesorios y/o realicen funciones que competen de forma exclusiva a las Autoridades Fiscales Municipales, referidas en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+En los planes de estudio deberán establecerse: los propósitos de formación general, y en su caso, la adquisición de conocimientos, habilidades, capacidades y destrezas que correspondan a cada nivel educativo; los contenidos fundamentales de estudio serán organizados en asignaturas, en áreas u otras unidades de aprendizaje que, como mínimo, el educando deberá acreditar para cumplir con los propósitos de cada nivel educativo; la secuencia o seriación indispensable que deban respetarse entre las asignaturas, áreas o unidades de aprendizaje que constituyen un nivel educativo; y los criterios y procedimientos de evaluación y acreditación para verificar que el educando cumplió con los propósitos de cada nivel educativo.
 
-Se instruye a la Contraloría Municipal, a efecto de que haga del conocimiento de las Dependencias y Entidades que integran la Administración Pública Municipal, Centralizada y Descentralizada, el contenido del presente artículo.
+En los programas de estudio se establecerán: los propósitos específicos de aprendizaje de las asignaturas u otras unidades de aprendizaje dentro de un plan de estudios; los criterios y procedimientos para evaluar y acreditar su cumplimiento; y las sugerencias sobre métodos y actividades para alcanzar dichos propósitos.
 
-SEXTO. Se incluye al Tesorero Municipal, para que en un periodo máximo de sesenta días hábiles, contados a partir del día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Estado, remita a este Honorable Cabildo para su aprobación, las bases, para crear uno o más Fondos de Productividad, distribuible entre los servidores públicos adscritos al Departamento de Registro y Fiscalización de la Dirección de ingresos de la Tesorería Municipal, que intervienen de forma directa o indirecta en el ejercicio de las facultades de comprobación, determinación, notificación y ejecución de multas fiscales o aquellas derivadas del incumplimiento a disposiciones reglamentarias. Departamento creado mediante Sesión Ordinaria de Cabildo de fecha catorce de diciembre de dos mil cinco y establecido en los artículos 24 párrafo primero, y 24 bis párrafo primero del Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla.
+###### Artículo 96.
 
-SÉPTIMO. Se derogan las disposiciones que se opongan al presente Acuerdo.
+Los planes y programas que la autoridad educativa federal determine en cumplimiento de la Ley General, así como sus modificaciones, se publicarán en el Periódico Oficial “El Estado de Sinaloa” y, previo a su aplicación, se deberá capacitar a las maestras y los maestros respecto de su contenido y métodos, así como generar espacios para el análisis y la comprensión de los referidos cambios.
+
+En el caso de los planes y programas para la educación media superior, podrán publicarse en los medios informativos oficiales del Estado y de los organismos descentralizados correspondientes.
+
+###### Artículo 97.
+
+La opinión que se emita por la autoridad educativa estatal sobre el contenido de los planes y programas de estudio será, entre otros, respecto a lo siguiente:
+
+I. El aprendizaje de las matemáticas;
+
+II. El conocimiento de la lecto-escritura y la literacidad, para un mejor aprovechamiento de la cultura escrita;
+
+III. El aprendizaje de la historia, la geografía, el civismo y la filosofía;
+
+IV. El fomento de la investigación, la ciencia, la tecnología y la innovación, así como su comprensión, aplicación y uso responsables;
+
+V. El conocimiento y, en su caso, el aprendizaje de lenguas indígenas de nuestro país, la importancia de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas;
+
+VI. El aprendizaje de las lenguas extranjeras;
+
+VII. El fomento de la activación física, la práctica del deporte y la educación física;
+
+VIII. La promoción de estilos de vida saludables, la educación para la salud, y la importancia de la donación de órganos, tejidos y sangre;
+
+IX. El fomento de la igualdad de género para la construcción de una sociedad justa e igualitaria;
+
+X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos en adolescentes y de las infecciones de transmisión sexual;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+XI. La educación socioemocional, y la integración de conocimientos básicos sobre salud mental;
+
+XII. La prevención del consumo de sustancias psicoactivas, el conocimiento de sus causas, riesgos y consecuencias;
+
+XIII. El reconocimiento de la diversidad de capacidades de las personas, a partir de reconocer su ritmo, estilo e intereses en el aprendizaje, así como el uso del Lenguaje de Señas Mexicanas, y fortalecer el ejercicio de los derechos de todas las personas;
+
+XIV. La promoción del emprendimiento, el fomento de la cultura del ahorro y la educación financiera;
+
+XV. El fomento de la cultura de la transparencia, la rendición de cuentas, la integridad, la protección de datos personales, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
+
+XVI. La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental;
+
+XVII. El aprendizaje y fomento de la cultura de protección civil, integrando los elementos básicos de prevención, autoprotección y resiliencia, así como la mitigación y adaptación ante los efectos que representa el cambio climático y los riesgos inherentes a otros fenómenos naturales;
+
+XVIII. El fomento de los valores y principios del cooperativismo que propicien la construcción de relaciones, solidarias y fraternas;
+
+XIX. La promoción de actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general;
+
+XX. El fomento de la lectura y el uso de los libros, materiales diversos y dispositivos digitales;
+
+XXI. La promoción del valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como la práctica de los valores y el conocimiento de los derechos humanos para garantizar el respeto a los mismos;
+
+XXII. El conocimiento de las artes, la valoración, la apreciación, preservación y respeto del patrimonio musical, cultural y artístico, así como el desarrollo de la creatividad artística por medio de los procesos tecnológicos y tradicionales;
+
+XXIII. La enseñanza de la música para potencializar el desarrollo cognitivo y humano, así como la personalidad de los educandos;
+
+XXIV. El fomento de los principios básicos de seguridad y educación vial, y
+
+XXV. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
+
+### Capítulo III. De las Tecnologías de la Información, Comunicación, Conocimiento y Aprendizaje Digital en el Proceso Educativo
+
+###### Artículo 98.
+
+En la educación que se imparta en el Estado, se utilizará el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de fortalecer los modelos pedagógicos de enseñanza aprendizaje, la innovación educativa, el desarrollo de habilidades y saberes digitales de los educandos, además del establecimiento de programas de educación a distancia y semipresencial para cerrar la brecha digital y las desigualdades en la población.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
+
+Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos. Asimismo, se procurará el uso responsable, consciente y seguro, así como el máximo provecho de dichas tecnologías, para prevenir y mitigar los riesgos asociados en el entorno educativo, como herramientas en el proceso de enseñanza-aprendizaje.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2026)</small>
+
+###### Artículo 98 Bis.
+
+En las instituciones educativas de tipo básico y medio superior, el uso de teléfonos celulares y demás dispositivos electrónicos por parte del educando, estará limitado durante el horario de clases, solo podrán utilizarse para fines pedagógicos o en situaciones de emergencia personales, previa autorización expresa del personal docente o directivo.
+
+En ningún caso podrá permitirse que interfieran con el desarrollo de las actividades escolares, la convivencia armónica de la comunidad educativa o el ejercicio de los derechos de niñas, niños y adolescentes.
+
+La autoridad educativa estatal deberá emitir protocolos con enfoque de protección integral de derechos humanos, priorizando el interés superior de la niñez, la inclusión y la igualdad sustantiva, que regulen el uso responsable y seguro de teléfonos celulares y demás dispositivos electrónicos en instituciones de educación básica y media superior, con el objeto de garantizar un ambiente propicio para su desarrollo integral, bienestar emocional y adecuado aprovechamiento del proceso del aprendizaje y salvaguardar el derecho a la educación.
+
+Además, deberá promover campañas de sensibilización y capacitación dirigidos a estudiantes, madres y padres de familia, tutoras y tutores, así como al personal docente, sobre el uso responsable de la tecnología y los riesgos asociados a su uso excesivo.
+
+###### Artículo 99.
+
+La autoridad educativa estatal, en el ámbito de su competencia, promoverá la formación y capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para favorecer el proceso educativo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+Asimismo, fortalecerán los sistemas de educación a distancia, mediante el aprovechamiento de las multiplataformas digitales, la televisión educativa y las tecnologías antes referidas.
+
+### Capítulo IV. De la Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación Básica y Media Superior
+
+###### Artículo 100.
+
+La autoridad educativa estatal emitirá una Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación Básica y Media Superior, el cual será un documento de carácter operativo y normativo que tendrá la finalidad de apoyar la planeación, organización y ejecución de las actividades docentes, pedagógicas, directivas, administrativas y de supervisión de cada plantel educativo enfocadas a la mejora escolar, atendiendo al contexto regional de la prestación de los servicios educativos en el Estado.
+
+###### Artículo 101.
+
+La elaboración de la Guía a la que se refiere este Capítulo se apegará a las disposiciones y lineamientos de carácter general que emita la autoridad educativa federal. En dicha Guía se establecerán los elementos de normalidad mínima de la operación escolar, cuyo objetivo es dar a conocer las normas y los procedimientos institucionales y, con ello, facilitar la toma de decisiones para fortalecer la mejora escolar.
+
+### Capítulo V. Del Calendario Escolar
+
+###### Artículo 102.
+
+La autoridad educativa federal determinará el calendario escolar aplicable a toda la República, para cada ciclo lectivo de la educación básica y normal y demás para la formación de maestros de educación básica, necesarios para cubrir los planes y programas aplicables. El calendario deberá contener un mínimo de ciento ochenta y cinco días y un máximo de doscientos días efectivos de clase para los educandos.
+
+Las autoridades escolares, previa autorización de la autoridad educativa estatal y de conformidad con los lineamientos que expida la autoridad educativa federal, podrán ajustar el calendario escolar al que se refiere el párrafo anterior. Dichos ajustes deberán prever las medidas para cubrir los planes y programas aplicables.
+
+###### Artículo 103.
+
+La autoridad educativa estatal podrá ajustar el calendario escolar, respecto del establecido por la autoridad educativa federal, cuando ello resulte necesario de acuerdo con requerimientos específicos del Estado. Los maestros serán debidamente remunerados si la modificación al calendario escolar implica más días de clase para los educandos, que los citados en el artículo anterior.
+
+###### Artículo 104.
+
+En días escolares, las horas de labor escolar se dedicarán a la orientación integral del educando, a través de la práctica docente, actividades educativas y otras que contribuyan a los principios, fines y criterios de la educación, conforme a lo previsto en los planes y programas de estudio aplicables.
+
+Las actividades no previstas en los planes y programas de estudio, o bien la suspensión de clases, sólo podrán ser autorizadas por la autoridad que haya establecido o, en su caso, ajustado el correspondiente calendario escolar. Estas autorizaciones únicamente podrán concederse en casos extraordinarios y si no implican incumplimiento de los planes y programas ni, en su caso, del calendario señalado por la autoridad educativa federal.
+
+De presentarse interrupciones por caso extraordinario o fuerza mayor, la autoridad educativa tomará las medidas para recuperar los días y horas perdidos.
+
+###### Artículo 105.
+
+El calendario que la autoridad educativa federal determine para cada ciclo lectivo de educación preescolar, de primaria, de secundaria, de normal y demás para la formación de maestros de educación básica, será el que se haya publicado en el Diario Oficial de la Federación.
+
+La autoridad educativa estatal publicará en el Periódico Oficial “El Estado de Sinaloa”, las autorizaciones de ajustes al calendario escolar determinado por la autoridad educativa federal.
+
+### Capítulo VI. De la Participación de Madres y Padres de Familia o Tutores en el Proceso Educativo
+
+###### Artículo 106.
+
+Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
+
+###### Artículo 107.
+
+La autoridad educativa estatal desarrollará actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+
+### Capítulo VII. De Otros Complementos del Proceso Educativo
+
+###### Artículo 108.
+
+Las negociaciones o empresas a que se refiere la fracción XII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos están obligadas a establecer y sostener escuelas cuando el número de educandos que las requiera sea mayor de veinte. Estos planteles quedarán bajo la dirección administrativa de la autoridad educativa estatal.
+
+Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior contarán con edificio, instalaciones accesibles y demás elementos necesarios para realizar su función, en los términos que señalen las disposiciones aplicables.
+
+El sostenimiento de dichas escuelas comprende la obligación patronal de proporcionar las aportaciones para la remuneración del personal y las prestaciones que dispongan las leyes y reglamentos, que no serán inferiores a las que otorgue la autoridad educativa local en igualdad de circunstancias.
+
+La autoridad educativa estatal podrá celebrar con los patrones convenios para el cumplimiento de las obligaciones que señala el presente artículo.
+
+###### Artículo 109.
+
+La formación para el trabajo deberá estar enfocada en la adquisición de conocimientos, habilidades, destrezas y actitudes, que permitan a la persona desempeñar una actividad productiva, mediante alguna ocupación o algún oficio calificado. Se realizará poniendo especial atención a las personas con discapacidad con el fin de desarrollar capacidades para su inclusión laboral.
+
+La autoridad educativa federal, en términos de la Ley General, establecerá un régimen de certificación referido a la formación para el trabajo aplicable en toda la República, conforme al cual sea posible ir acreditando conocimientos, habilidades, destrezas y capacidades -intermedios o terminales- de manera parcial y acumulativa, independientemente de la forma en que hayan sido adquiridos.
+
+La autoridad educativa federal, conjuntamente con las demás autoridades federales competentes, determinará los lineamientos generales aplicables en toda la República para la definición de aquellos conocimientos, habilidades, destrezas y actitudes susceptibles de certificación, así como de los procedimientos de evaluación correspondientes, sin perjuicio de las demás disposiciones que emitan las autoridades locales en atención a requerimientos específicos. Los certificados serán otorgados por las instituciones públicas y los particulares señalados en estos lineamientos, en cuya determinación, así como en la decisión sobre los servicios de formación para el trabajo que sean ofrecidos, las autoridades competentes establecerán procedimientos que permitan considerar las necesidades, propuestas y opiniones de los diversos sectores productivos, a nivel nacional, estatal o municipal.
+
+Podrán celebrarse convenios para que la formación para el trabajo se imparta por la autoridad educativa estatal, los ayuntamientos, las instituciones privadas, las organizaciones sindicales, los patrones y demás particulares. La formación para el trabajo que se imparta en términos del presente artículo será adicional y complementaria a la capacitación prevista en la fracción XIII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### Artículo 110.
+
+En la educación impartida en el Estado se priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el ejercicio de su derecho a la educación. Para tal efecto, la autoridad educativa estatal garantizará el desarrollo de programas y políticas públicas que hagan efectivo ese principio constitucional.
+
+###### Artículo 111.
+
+Los educandos son los sujetos más valiosos de la educación con pleno derecho a desarrollar todas sus potencialidades de forma activa, transformadora y autónoma.
+
+Como parte del proceso educativo, los educandos tendrán derecho a:
+
+I. Recibir una educación de excelencia;
+
+II. Ser respetados en su integridad, identidad y dignidad, además de la protección contra cualquier tipo de agresión física o moral;
+
+III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad;
+
+IV. Ser respetados por su libertad de convicciones éticas, de conciencia y de religión;
+
+V. Recibir una orientación educativa y vocacional;
+
+VI. Tener un docente frente a grupo que contribuya al logro de su aprendizaje y desarrollo integral;
+
+VII. Participar de los procesos que se deriven en los planteles educativos como centros de aprendizaje comunitario;
+
+VIII. Recibir becas y demás apoyos económicos priorizando a los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
+
+IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas, y
+
+X. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás disposiciones aplicables.
+
+La autoridad educativa estatal establecerá los mecanismos que contribuyan a su formación integral, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales específicos en la elaboración y aplicación de las políticas educativas en sus distintos tipos y modalidades.
+
+###### Artículo 112.
+
+La autoridad educativa estatal creará para cada educando desde educación inicial hasta media superior, un expediente único en el que se contengan los datos sobre su trayectoria académica. En todo momento, la autoridad educativa estatal deberá atender las disposiciones aplicables en materia de transparencia y protección de datos personales.
+
+La información del expediente al que se refiere este artículo se proporcionará a la autoridad educativa federal en los términos que señale para actualizar el Sistema de Información y Gestión Educativa previsto en la Ley General.
+
+### Capítulo V. De la Educación Primaria
+
+###### Artículo 113.
+
+La autoridad educativa estatal ofrecerá servicios de orientación educativa, de trabajo social y de psicología desde la educación básica hasta la educación superior, de acuerdo con la suficiencia presupuestal y a las necesidades de cada plantel, a fin de fomentar una conciencia crítica que perfile a los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+###### Artículo 113 Bis.
+
+La autoridad educativa estatal se coordinará con la Secretaría de Salud y el Instituto Sinaloense de Salud Mental, ofrecerá servicios de atención integral a la salud mental de los educandos, mediante la implementación de acciones, programas o protocolos permanentes de promoción, prevención, detección temprana, atención y canalización de casos que requieran intervención especializada, conforme a la Ley General de Salud y la Ley de Salud Mental del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+Artículo 113 Bis A. Para tal efecto implementará campañas de difusión, promoción, concientización y sensibilización a través del uso de las Tecnologías de la Información y Comunicación, conocimiento y aprendizaje digital, con accesibilidad y diseño universal para niñas, niños y adolescentes con discapacidades físicas, hablantes de lenguas indígenas y afrodescendientes.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+Artículo 113 Bis B. Las escuelas de educación básica y media superior para la atención de la salud mental de los educandos deberán contar con áreas de atención, personal especializado en psicología, trabajo social o áreas afines, de acuerdo a la disponibilidad presupuestaria.
+
+Implementarán evaluaciones psicoemocionales periódicas con base en protocolos científicos y con consentimiento informado de madres, padres o personas tutoras. Los resultados tendrán carácter confidencial, preventivo y no punitivo, y se utilizarán exclusivamente para orientación y canalización a los servicios de salud correspondientes para su atención especializada.
+
+Asimismo, deberán integrar equipos de respuesta inmediata para situaciones de crisis, capacitados en técnicas para atenuar su escalamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+Artículo 113 Bis C. La autoridad educativa estatal en el ámbito de su competencia, promoverá la formación y capacitación permanente de personal docente y directivo con conocimientos básicos sobre salud mental, aprendizaje socioemocional y autocuidado, así como trastornos del neurodesarrollo, incluido el espectro autista, que permitan identificar signos de alerta y la canalización a los servicios especializados.
+
+Asimismo, desarrollará programas y cursos para brindar a los educandos conocimientos básicos sobre salud mental, aprendizaje socioemocional y autocuidado.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+Artículo 113 Bis D. La autoridad educativa estatal en la educación básica y media superior procurará ofrecer servicios remotos de atención, a través de una línea pública telefónica u otros medios electrónicos, para ayuda psicológica y de intervención en crisis, brindar orientación y canalización, en su caso, a los educandos, la cual deberá estar disponibles (sic) durante el ciclo escolar.
+
+### Capítulo II. Del Fomento de Estilos de Vida Saludables en el Entorno Escolar
+
+###### Artículo 114.
+
+La autoridad educativa estatal, en el ámbito de su competencia, aplicará y vigilará el cumplimiento de los lineamientos que emitan las autoridades educativas federal y estatal sobre la distribución de los alimentos y bebidas preparados y procesados dentro de toda escuela.
+
+La autoridad educativa estatal realizará acciones de vigilancia para que en los alimentos y bebidas que se preparen y procesen al interior de las escuelas cumplan con el valor nutritivo para la salud de los educandos.
+
+### Capítulo VI. De la Educación Secundaria
+
+###### Artículo 115.
+
+Dentro de las escuelas queda prohibida la distribución y comercialización de los alimentos que no favorezcan la salud de los educandos, así como las bebidas energizantes.
+
+Las autoridades educativas estatal y municipales promoverán ante las autoridades correspondientes, la prohibición de la venta de alimentos con bajo valor nutritivo y alto contenido calórico en las inmediaciones de los planteles escolares.
+
+###### Artículo 116.
+
+La autoridad educativa estatal establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, la autoridad educativa escolar considerará las Normas Oficiales Mexicanas respectivas.
+
+El Gobierno del Estado dispondrá las medidas para que los certificados médicos de los educandos que se requieran para sus trámites escolares, se emitan sin costo alguno.
+
+###### Artículo 117.
+
+Las cooperativas que funcionen con la participación de la comunidad educativa tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de los educandos y su operación será con apego a los lineamientos que establezca la autoridad educativa federal y a las demás disposiciones aplicables.
+
+### Capítulo VII. Del Tipo de Educación Media Superior
+
+###### Artículo 118.
+
+La autoridad educativa estatal, de acuerdo con la suficiencia presupuestal, impulsará programas alimentarios para los educandos a partir de microempresas locales, en escuelas ubicadas en zonas de pobreza, alta marginación y vulnerabilidad social.
+
+### Capítulo III. De la Cultura de la Paz, Convivencia Democrática en las Escuelas y Entornos Escolares Libres de Violencia
+
+###### Artículo 119.
+
+En la impartición de educación para menores de dieciocho años, la autoridad educativa estatal en coordinación con otras áreas de gobierno, tomará medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
+
+Los docentes y el personal que labora en los planteles de educación deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
+
+En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
+
+Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia o tutores, las autoridades escolares de las escuelas públicas y privadas del tipo básico informarán a la autoridad educativa estatal, la cual emitirá una Alerta Temprana y será remitida a las Procuradurías Municipales para la Protección de Niñas, Niños y Adolescentes para los efectos correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+### Capítulo VIII. Del Tipo de Educación Superior
+
+###### Artículo 120.
+
+Las autoridades educativas, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos, y fomentarán la prevención de cualquier conducta que provoque, incite, apoye a difundir acciones o expresiones verbales o escritas de cualquier tipo basadas en odio, violencia o discriminación contra cualquier persona, grupos o comunidades. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
+
+Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las siguientes acciones:
+
+I. Diseñar y aplicar estrategias educativas que generen ambientes basados en una cultura de la paz, para fortalecer la cohesión comunitaria y una convivencia democrática;
+
+II. Promover en la formación docente contenidos y prácticas relacionados con la cultura de la paz y la resolución pacífica de conflictos;
+
+III. Proporcionar atención psicosocial y, en su caso, orientación sobre las vías legales a la persona agresora y a la víctima de violencia o maltrato escolar, ya sea psicológico, físico o cibernético, así como a las receptoras indirectas de maltrato dentro de las escuelas;
+
+IV. Establecer los mecanismos gratuitos de asesoría, orientación, reporte de casos y de protección para las niñas, niños, adolescentes y jóvenes que estén involucrados en violencia o maltrato escolar, ya sea psicológico, físico o cibernético, procurando ofrecer servicios remotos de atención, a través de una línea pública telefónica u otros medios electrónicos;
+
+V. Solicitar a la Comisión Nacional para la Mejora Continua de la Educación estudios, investigaciones, informes y diagnósticos que permitan conocer las causas y la incidencia del fenómeno de violencia o maltrato entre escolares en cualquier tipo, ya sea psicológica, física o cibernética, así como su impacto en el entorno escolar en la deserción de los centros educativos, en el desempeño académico de los educandos, en sus vínculos familiares y comunitarios y el desarrollo integral de todas sus potencialidades, así como las medidas para atender dicha problemática;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
+
+VI. Celebrar convenios de cooperación, coordinación y concertación con los sectores públicos, privados y sociales, para promover los derechos de las niñas, niños, adolescentes y jóvenes, y el fomento de la cultura de la paz, resolución no violenta de conflictos, prevención de conductas que enaltezcan actividades ilícitas, fortalecimiento de la cohesión comunitaria y convivencia armónica dentro de las escuelas;
+
+VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
+
+VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
+
+IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2026)</small>
+
+X. Prohibir la reproducción, difusión o realización de contenidos que enaltezcan actividades ilícitas o a personas vinculadas a ellas, por cualquier medio, en los espacios de las instituciones de educación básica y media superior.
+
+###### Artículo 121.
+
+La autoridad educativa estatal, en el ámbito de su respectiva competencia, emitirá protocolos de actuación que sean necesarios para el cumplimiento del artículo 120 de esta Ley. Entre los protocolos que emita, deberán encontrarse para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
+
+###### Artículo 122.
+
+La autoridad educativa estatal emitirá los lineamientos para la contratación optativa de un seguro escolar contra accidentes personales para educandos que cursen el tipo básico. Dichas disposiciones contendrán los esquemas de subsidios que, en su caso, contemple el Gobierno del Estado.
+
+## Título Quinto. De la Revalorización de las Maestras y los Maestros
+
+### Capítulo I. Del Magisterio como Agente Fundamental en el Proceso Educativo
+
+###### Artículo 123.
+
+Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la transformación social.
+
+Los esfuerzos y las acciones de las autoridades educativas del Estado en la revalorización de las maestras y los maestros para efectos de esta Ley, perseguirá los siguientes fines:
+
+I. Priorizar su labor para el logro de metas y objetivos centrados en el aprendizaje de los educandos;
+
+II. Fortalecer su desarrollo y superación profesional mediante la formación, capacitación y actualización;
+
+III. Fomentar el respeto a la labor docente y a su persona por parte de las autoridades educativas, de los educandos, de las madres y padres de familia o tutores y sociedad en general; así como fortalecer su liderazgo en la comunidad;
+
+IV. Reconocer su experiencia, así como su vinculación y compromiso con la comunidad y el entorno donde labora, para proponer soluciones de acuerdo a su contexto educativo;
+
+V. Priorizar su labor pedagógica y el máximo logro de aprendizaje de los educandos sobre la carga administrativa;
+
+VI. Promover su formación, capacitación y actualización de acuerdo con su evaluación diagnóstica y en el ámbito donde desarrolla su labor;
+
+VII. Impulsar su capacidad para la toma de decisiones cotidianas respecto a la planeación educativa;
+
+VIII. Otorgar, en términos de las disposiciones aplicables, un salario profesional digno, que permita a las maestras y los maestros de los planteles del Estado alcanzar un nivel de vida decoroso para ellos y su familia; arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y realizar actividades destinadas a su desarrollo personal y profesional, y
+
+IX. Respetar sus derechos reconocidos en las disposiciones legales aplicables.
+
+###### Artículo 124.
+
+La autoridad educativa estatal colaborará con la autoridad educativa federal en la revisión permanente de las disposiciones, los trámites y procedimientos, con objeto de simplificarlos, de reducir las cargas administrativas de los docentes, de alcanzar más horas efectivas de clase y de fortalecimiento académico y, en general, de lograr la prestación del servicio educativo con mayor pertinencia y eficiencia.
+
+En las actividades de supervisión las autoridades educativas darán prioridad, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente. Asimismo, se fortalecerá la capacidad de gestión de las autoridades escolares y la participación de las madres y padres de familia o tutores.
+
+###### Artículo 125.
+
+La autoridad educativa estatal y los municipios que impartan educación básica, efectuarán las acciones necesarias para que los movimientos y pagos de ese personal, se realicen a través de un sistema de administración de nómina, en el cual se deberá identificar al menos el tipo, nivel, modalidad educativa y la clave de la plaza y del centro de trabajo correspondiente, conforme a los lineamientos que al efecto emitan conjuntamente la autoridad educativa federal y la Secretaría de Hacienda y Crédito Público.
+
+El sistema de administración de nómina deberá observar los criterios de control presupuestario de servicios personales, así como los principios de transparencia, publicidad y de rendición de cuentas, y para lo cual la autoridad educativa estatal y los municipios, mediante los convenios respectivos, se coordinarán con la autoridad educativa federal y la Secretaría de Hacienda y Crédito Público. Los pagos se deberán realizar preferentemente mediante medios electrónicos.
+
+### Capítulo II. De los Procesos de Admisión, Promoción y Reconocimiento en Educación Básica y en Educación Media Superior
+
+###### Artículo 126.
+
+Para ejercer la docencia en instituciones establecidas por las autoridades educativas del Estado, en educación básica y media superior, las promociones en la función y en el servicio, así como para el otorgamiento de reconocimientos, se estará a lo dispuesto por la Ley General del Sistema para la Carrera de las Maestras y los Maestros.
+
+En el caso de los docentes de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la autoridad educativa estatal y certificar su bilingüismo en la lengua indígena que corresponda y el español.
+
+### Capítulo III. Del Sistema Integral de Formación, Capacitación y Actualización
+
+###### Artículo 127.
+
+La autoridad educativa estatal constituirá el Sistema Integral de Formación, Capacitación y Actualización del Estado de Sinaloa, para que las maestras y los maestros ejerzan su derecho de acceder a éste, en términos de lo establecido en la Ley Reglamentaria del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación.
+
+Las opciones de formación, capacitación y actualización tendrán contenidos con perspectiva de género, enfoque de derechos humanos, además de tomar en cuenta los contextos locales y regionales de la prestación de los servicios educativos, así como las condiciones de vulnerabilidad social.
+
+###### Artículo 128.
+
+El sistema integral de formación, capacitación y actualización tendrá los siguientes fines:
+
+I. La formación, con nivel de licenciatura, de maestras y maestros de educación básica con los conocimientos y aptitudes necesarios para el aprendizaje y el desarrollo integral de los educandos;
+
+II. La formación continua, la actualización de conocimientos de las humanidades, las artes, la ciencia, la tecnología e innovación y otras que contribuyan a la superación docente de las maestras y los maestros en servicio;
+
+III. La promoción de programas de especialización, maestría y doctorado para una orientación integral, adecuados a las necesidades, contextos regionales y locales de la prestación de los servicios educativos y de los recursos disponibles;
+
+IV. La realización de programas de inducción, actualización, capacitación y superación profesional para las maestras y maestros de educación media superior;
+
+V. La promoción del enfoque de derechos humanos, de igualdad sustantiva, la cultura de la paz y la integridad en la práctica de las funciones de las maestras y los maestros, y
+
+VI. El desarrollo de la investigación pedagógica y la difusión de la cultura educativa.
+
+La implementación del sistema integral de formación, capacitación y actualización será progresiva y se ajustará a la suficiencia presupuestaria del ejercicio fiscal correspondiente.
+
+###### Artículo 129.
+
+La autoridad educativa estatal podrá suscribir convenios de colaboración con instituciones dedicadas a la formación pedagógica de los profesionales de la educación e instituciones de educación superior nacionales o extranjeras, para ampliar las opciones de formación, capacitación y actualización que para tal efecto establezca la Comisión Nacional para la Mejora Continua de la Educación.
+
+Asimismo, impulsarán los proyectos pedagógicos y de desarrollo de la docencia generados por las instituciones de formación docente y los sectores académicos, de conformidad con los criterios que emita la Comisión Nacional para la Mejora Continua para la Educación.
+
+### Capítulo IV. De la Formación Docente
+
+###### Artículo 130.
+
+Las personas egresadas de las instituciones formadoras de docencia del Estado contarán con el conocimiento de diversos enfoques pedagógicos y didácticos que les permita atender las necesidades de aprendizaje de niñas, niños, adolescentes y jóvenes.
+
+En los planes y programas de estudio de las instituciones de formación docente, se promoverá el desarrollo de competencias en educación inicial y con enfoque de inclusión para todos los tipos educativos; asimismo, se considerarán modelos de formación docente especializada en la educación especial que atiendan los diversos tipos de discapacidad.
+
+###### Artículo 131.
+
+La autoridad educativa estatal fortalecerá a las instituciones públicas de formación docente, para lo cual, tendrá a su cargo, entre otras, las siguientes acciones:
+
+I. Propiciar la participación de la comunidad de las instituciones formadoras de docentes, para la construcción colectiva de sus planes y programas de estudio, con especial atención en los contenidos regionales y locales, además de los contextos escolares, la práctica en el aula y los colectivos docentes, y la construcción de saberes para contribuir a los fines de la nueva escuela mexicana;
+
+II. Promover la movilidad de los docentes en los diferentes sistemas y subsistemas educativos, particularmente en aquellas instituciones que tengan amplia tradición y experiencia en la formación pedagógica y docente;
+
+III. Fomentar la creación de redes académicas para el intercambio de saberes y experiencias entre las maestras y los maestros de los diferentes sistemas y subsistemas educativos;
+
+IV. Proporcionar las herramientas para realizar una gestión pedagógica y curricular que priorice el máximo logro del aprendizaje y desarrollo integral de los educandos;
+
+V. Promover la integración de un acervo físico y digital en las instituciones formadoras de docentes, de bibliografía actualizada que permita a las maestras y los maestros acceder a las propuestas pedagógicas y didácticas innovadoras;
+
+VI. Promover la acreditación de grados académicos superiores de los docentes;
+
+VII. Promover la investigación educativa y su financiamiento, a través de programas permanentes y de la vinculación con instituciones de educación superior y centros de investigación, y
+
+VIII. Garantizar la actualización permanente, a través de la capacitación, la formación, así como programas e incentivos para su desarrollo profesional.
+
+###### Artículo 132.
+
+La autoridad educativa estatal emitirá los lineamientos para proporcionar la formación inicial en el Estado, los cuales atenderán la programación estratégica que se realice en el marco del Sistema Educativo Nacional prevista en la Ley General.
+
+## Título Sexto. De los Planteles Educativos
+
+### Capítulo Único. De las Condiciones de los Planteles Educativos para Garantizar su Idoneidad y la Seguridad de las Niñas, Niños, Adolescentes y Jóvenes
+
+###### Artículo 133.
+
+Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza aprendizaje, donde se presta el servicio público de educación por parte de las autoridades educativas del Estado o por los particulares con autorización o reconocimiento de validez oficial de estudios.
+
+Con el acuerdo de las autoridades, madres y padres de familia o tutores y la comunidad, en la medida de sus posibilidades, funcionarán como un centro de aprendizaje comunitario, donde además de educar a niñas, niños, adolescentes y jóvenes, se integrará a las familias y a la comunidad para colaborar en grupos de reflexión, de estudio y de información sobre su entorno.
+
+###### Artículo 134.
+
+Los muebles e inmuebles destinados a la educación impartida por las autoridades educativas estatal y municipales y por los particulares con autorización o con reconocimiento de validez oficial de estudios en el Estado, durante el tiempo que estén destinados a este servicio público, así como los servicios e instalaciones necesarios para proporcionar educación, forman parte del Sistema Educativo Estatal.
+
+Dichos muebles e inmuebles deberán cumplir con los requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, resiliencia, pertinencia, integralidad, accesibilidad, inclusividad e higiene, incorporando los beneficios del desarrollo de la ciencia y la innovación tecnológica, para proporcionar educación de excelencia, con equidad e inclusión, conforme a los lineamientos que para tal efecto emita la autoridad educativa federal.
+
+La autoridad educativa estatal coadyuvará con la autoridad educativa federal para mantener actualizado el Sistema Nacional de Información de la Infraestructura Física Educativa, a fin de realizar diagnósticos sobre ésta y definir acciones de prevención en materia de seguridad, protección civil y de mantenimiento de los muebles o inmuebles que se destinen al servicio educativo.
+
+###### Artículo 135.
+
+Con la finalidad de garantizar el cumplimiento de los requisitos de construcción, diseño, seguridad, estructura, condiciones específicas o equipamiento que sean obligatorios para cada tipo de obra, las autoridades educativas estatal y municipales, los Comités Escolares de Administración Participativa o sus equivalentes y los particulares que impartan educación en términos de esta Ley, atenderán las disposiciones que en la materia establezca la Ley General para la Inclusión de Personas con Discapacidad, la Ley General de Bienes Nacionales, la Ley General de Protección Civil, la Ley General de Responsabilidades Administrativas, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley Federal para Prevenir y Erradicar la Discriminación, así como aquellas que se refieran a la materia de obra pública y servicios relacionados con la misma, adquisiciones, arrendamientos y servicios, además de los lineamientos emitidos por la autoridad educativa federal a los que se refiere el artículo 103 de la Ley General y las disposiciones legales y reglamentarias aplicables a nivel federal, local y municipal.
+
+Las universidades y demás instituciones de educación superior autónomas a que se refiere la fracción VII del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, se regularán en materia de infraestructura por sus órganos de gobierno y su normatividad interna.
+
+###### Artículo 136.
+
+Para que en un inmueble puedan prestarse servicios educativos, deben obtenerse las licencias, autorizaciones, avisos de funcionamiento y demás relacionados para su operación a efecto de garantizar el cumplimiento de los requisitos de construcción, diseño, seguridad, estructura, condiciones específicas o equipamiento que sean obligatorios para cada tipo de obra, en los términos y las condiciones de la normatividad municipal, estatal y federal aplicable. Además de lo anterior, deberá obtenerse un certificado de seguridad y operatividad escolar expedido por las autoridades correspondientes, en los términos que para tal efecto emita la autoridad educativa federal. Los documentos que acrediten el cumplimiento de dichos requisitos, deberán publicarse de manera permanente en un lugar visible del inmueble.
+
+Todos los planteles educativos, públicos o privados, deben cumplir con las normas de protección civil y de seguridad que emitan las autoridades de los ámbitos federal, local y municipal competentes, según corresponda.
+
+En la educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, debe demostrarse además el cumplimiento de las obligaciones señaladas en el artículo 147, fracción II de la Ley General.
+
+###### Artículo 137.
+
+Las autoridades educativas estatal y municipales atenderán de manera prioritaria las escuelas que, por estar en localidades aisladas, zonas urbanas marginadas, rurales y en pueblos y comunidades indígenas, tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades.
+
+En materia de inclusión se realizarán acciones, de manera gradual, orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos que mejoren las condiciones para la infraestructura educativa.
+
+A partir de los programas que emita la Federación, se garantizará la existencia de baños y de agua potable para consumo humano con suministro continuo en cada inmueble de uso escolar público conforme a los lineamientos que emita la Secretaría de Salud en coordinación con la autoridad educativa federal, así como de espacios para la activación física, la recreación, la práctica del deporte y la educación física.
+
+###### Artículo 138.
+
+La autoridad educativa estatal, a través de la instancia que determine, realizará las actividades correspondientes en materia de infraestructura educativa para efecto de ejercer sus atribuciones referidas en este Capítulo y demás disposiciones legales aplicables.
+
+###### Artículo 139.
+
+La autoridad educativa estatal, en el ámbito de su respectiva competencia, deberá´ desarrollar la planeación financiera y administrativa que contribuya a optimizar los recursos en materia de espacios educativos al servicio del Sistema Educativo Estatal, realizando las previsiones necesarias para que los recursos económicos destinados para ese efecto, sean prioritarios y oportunos, y las respectivas obligaciones se atiendan de manera gradual y progresiva, de acuerdo con la disponibilidad presupuestal, debiendo establecer las condiciones fiscales, presupuestales, administrativas y jurídicas para facilitar y fomentar la inversión en la materia.
+
+Asimismo, promoverán mecanismos para acceder a fuentes alternas de financiamiento conforme lo establezcan las disposiciones aplicables.
+
+###### Artículo 140.
+
+Para el mantenimiento de los muebles e inmuebles, así como los servicios e instalaciones necesarios para proporcionar los servicios educativos, concurrirán los gobiernos federal, estatal, municipales y, de manera voluntaria, madres y padres de familia o tutores y demás integrantes de la comunidad.
+
+La autoridad educativa estatal promoverá la participación directa de los municipios para dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales. Los municipios coadyuvarán en el mantenimiento de los planteles educativos y de los servicios de seguridad, agua y luz.
+
+Los particulares, ya sea personas físicas o morales, podrán coadyuvar en el mantenimiento de las escuelas públicas, previo acuerdo con la autoridad educativa estatal. Las acciones que se deriven de la aplicación de este párrafo, en ningún caso implicarán la sustitución de los servicios del personal de la escuela, tampoco generarán cualquier tipo de contraprestación a favor de los particulares.
+
+###### Artículo 141.
+
+Los colores que se utilicen en los inmuebles destinados al servicio público educativo serán de color neutro.
+
+La autoridad educativa estatal será la facultada para establecer las denominaciones oficiales de los planteles públicos del Sistema Educativo Estatal y deberá´ hacer referencia a los valores nacionales, maestros eméritos o nombres de personas ameritadas a quienes la Nación o el Estado deba exaltar para engrandecer, nuestra esencia popular y los símbolos patrios.
+
+## Título Séptimo. De la Mejora Continua de la Educación
+
+### Capítulo Único. Del Proceso de Mejora Continua de la Educación
+
+###### Artículo 142.
+
+La educación tendrá un proceso de mejora continua, el cual implica el desarrollo permanente del Sistema Educativo Estatal para el incremento del logro académico de los educandos. Tendrá como eje central el aprendizaje de niñas, niños, adolescentes y jóvenes de todos los tipos, niveles y modalidades educativos.
+
+###### Artículo 143.
+
+La autoridad educativa estatal coadyuvará con la Comisión Nacional para la Mejora Continua de la Educación sobre las cualidades de los actores, instituciones o procesos del Sistema Educativo Estatal, con la finalidad de contar con una retroalimentación que promueva una acción de mejora en la educación.
+
+La evaluación a la que se refiere este artículo será integral, continua, colectiva, incluyente, diagnóstica y comunitaria. Valorará el cumplimiento de las responsabilidades de las autoridades educativas sobre la atención de las problemáticas de las escuelas y los avances de las políticas que lleven para el cumplimiento de sus obligaciones en materia educativa; además de aquellas de madres y padres de familia o tutores respecto a sus hijas, hijos o pupilos menores de dieciocho años en términos de lo que dispone la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y esta Ley.
+
+###### Artículo 144.
+
+Con objeto de contribuir al proceso al que se refiere este Capítulo, la autoridad educativa estatal tendrá a su cargo emitir un Programa Educativo Estatal de Mejora Continua, para garantizar el acceso a la educación con equidad y excelencia para las niñas, niños, adolescentes y jóvenes sinaloenses.
+
+El Programa referido con anterioridad tendrá un carácter plurianual y contendrá de manera integral aspectos sobre la infraestructura y el equipamiento de la infraestructura educativa, el avance de los planes y programas educativos, la formación y prácticas docentes, la carga administrativa, la asistencia de los educandos, el aprovechamiento académico, el desempeño de las autoridades educativas y los contextos socioculturales, entre otros.
+
+El Programa se formulará y propondrá a la autoridad educativa estatal por cada Comité de Planeación y Evaluación de los respectivos Consejos Técnicos Escolares, conforme a lo dispuesto por los artículos 107, 108 y 109 de la Ley General de Educación.
+
+## Título Octavo. Del Federalismo Educativo
+
+### Capítulo Único. De la Distribución de la Función Social en Educación
+
+###### Artículo 145.
+
+Corresponde a la autoridad educativa estatal, las atribuciones siguientes:
+
+I. Prestar los servicios de educación básica incluyendo la indígena, inclusiva, así como la normal y demás para la formación docente;
+
+II. Vigilar que las autoridades escolares cumplan con las normas en materia de fortalecimiento de las capacidades de administración escolar que emita la autoridad educativa estatal;
+
+III. Proponer a la autoridad educativa federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestras y maestros de educación básica, cuando ello resulte necesario en atención a los requerimientos específicos del Estado;
+
+IV. Proponer a la autoridad educativa federal y, en su caso, realizar la adecuación programática y metodológica que garantice a la población indígena del Estado una educación que responda a sus características lingüísticas y culturales. Lo mismo se hará para atender las necesidades educativas de la población rural, zonas urbanas marginadas y de la población migrante;
+
+V. Autorizar, previa verificación del cumplimiento de los lineamientos emitidos por la autoridad educativa federal, los ajustes que realicen las escuelas al calendario escolar determinado por ésta para cada ciclo lectivo de educación básica y normal y demás para la formación de maestras y maestros de educación básica;
+
+VI. Prestar los servicios que correspondan al tipo de educación básica y de educación media superior, respecto a la formación, capacitación y actualización para maestras y maestros, de conformidad con las disposiciones generales que la autoridad educativa federal determine, de acuerdo con lo dispuesto por la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
+
+VII.Revalidar y otorgar equivalencias de estudios de la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, de acuerdo con la Ley General y los lineamientos generales que la autoridad educativa federal expida;
+
+VIII. Otorgar, negar y revocar autorización a los particulares para impartir la educación inicial, preescolar, la primaria, la secundaria, la normal y demás para la formación de docentes de educación básica;
+
+IX.Aplicar los planes y programas de estudio del tipo medio superior, en los términos dispuestos en el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias, asimismo, sancionar los de la educación superior de las instituciones educativas a su cargo;
+
+X. Participar en la integración y operación de un sistema de educación media superior y un sistema de educación superior, con respeto a la autonomía universitaria y la diversidad educativa;
+
+XI.Coordinar y operar un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación, e inscripción de documentos académicos y establecer un sistema estatal de información educativa. Para estos efectos, la autoridad educativa estatal, deberá coordinarse en el marco del Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la autoridad educativa federal y demás disposiciones aplicables.
+
+La autoridad educativa estatal participará en la actualización e integración permanente del Sistema de Información y Gestión Educativa, mismo que también deberá proporcionar información para satisfacer las necesidades de operación del sistema educativo estatal;
+
+XII.Garantizar (sic) que los datos personales que se recaben de los alumnos, tanto para el Registro Oficial de Documentos Académicos y de Certificación en el Estado, como para el Sistema de Información y Gestión Educativa, protejan la identidad de los estudiantes, directivos, docentes, madres y padres de familia o tutores y demás actores del Sistema Educativo Estatal, sujetando dichos registros y su tratamiento a lo dispuesto por la Ley de Acceso a la Información Pública del Estado y la Ley Federal de Protección de Datos Personales en Posesión de Particulares y demás disposiciones correlativas;
+
+XIII. Participar con la autoridad educativa federal, en la operación de los mecanismos de administración escolar;
+
+XIV. Vigilar y, en su caso, sancionar a las instituciones ubicadas en el Estado que, sin estar incorporadas al Sistema Educativo Estatal, deban cumplir con las disposiciones en la materia;
+
+XV. Garantizar la distribución oportuna, completa, amplia y eficiente, de los libros de texto gratuitos y demás materiales educativos complementarios que la autoridad educativa federal le proporcione;
+
+XVI. Expedir certificados de estudios, títulos, constancias y diplomas del sistema educativo estatal, en concordancia con las leyes, acuerdos y reglamentos en la materia;
+
+XVII. Crear un sistema estatal de becas; bajo una regulación específica y vigilar que los subsistemas cumplan estrictamente con las normas para su aplicación;
+
+XVIII. Otorgar estímulos, recompensas, reconocimientos y distinciones a los maestros que sobresalgan en su desempeño profesional.
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+
+XIX. Establecer programas de educación extraescolar, de fomento cultural, de prevención contra la violencia de género, y de recreación y deporte;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+XIX Bis. Promover la capacitación del personal docente en las materias de derechos humanos, igualdad y no discriminación en la educación, así como la eliminación de todo tipo de estereotipos, prejuicios, detrimentos, discurso o expresiones verbales o escritas de cualquier tipo tendientes a denostar la dignidad de las personas basadas o motivadas en odio, y estigmas de los grupos de atención prioritaria;
+
+XX. Fomentar la actividad física de los educandos, el recreo activo, los juegos tradicionales, circuitos recreativos y pautas para la salud, como acciones formativas y preventivas;
+
+XXI. Coordinarse con el Gobierno Federal para el estricto acatamiento, por parte de los patrones, de lo dispuesto por la fracción XII del artículo 123, apartado A, de la Constitución Política de los Estados Unidos Mexicanos, y por la Ley General, en lo referente a la obligación del establecimiento y sostenimiento de escuelas;
+
+XXII. Supervisar las condiciones de seguridad estructural y protección civil de los planteles educativos del Estado;
+
+XXIII. Planear la conservación y crecimiento de la estructura física, solicitando a las autoridades federales, estatales y municipales los apoyos que de manera concurrente, deban aportar, de conformidad con sus atribuciones, para el logro de este propósito;
+
+XXIV. Generar y proporcionar, en coordinación con las autoridades competentes, las condiciones de seguridad en el entorno de los planteles educativos;
+
+XXV. Establecer una efectiva y estrecha coordinación con la Secretaría de Salud y demás autoridades competentes, con el fin de promover programas y acciones que fomenten en los maestros, madres y padres de familia o tutores, encargados de cooperativas escolares y, especialmente en los educandos, el seguimiento de una alimentación sana y la práctica de actividad física, dirigidas a lograr estilos de vida saludables. Asimismo, establecer estrategias y medidas que tiendan a desmotivar el consumo de alimentos con bajo o nulo valor nutricional, así como prohibir la venta de estos productos en los espacios de las instituciones de educación básica y media superior;
+
+XXVI. Fomentar la adopción de estilos de vida saludables, tanto individuales como colectivos, para lo cual, el Estado desarrollará acciones formativas y preventivas asociadas a los factores que inciden en la salud de los escolares, a fin de prevenir y disminuir los problemas de salud prioritarios en los alumnos de educación básica y media superior, así como el avance en la prevalencia de sobrepeso y obesidad; las enfermedades infectocontagiosas, y cualesquier otros problemas específicos de la población infantil y adolescente.
+
+Con este propósito, se deberá contar con el Registro de Salud del Escolar, dentro del programa permanente de Salud del Escolar;
+
+XXVII. Observar los lineamientos marcados por la Autoridad Educativa Federal respecto de las regulaciones sobre el expendio de alimentos y bebidas en todas las escuelas, así como aquellos enfocados a la preparación de dichos alimentos para el consumo escolar, debiendo igualmente establecer acciones de observación, seguimiento y evaluación, dirigidos principalmente a la aplicación de dichas regulaciones, con la finalidad de verificar que, en efecto, se cumpla con lo establecido por dichas disposiciones. Estas acciones en beneficio de la salud escolar, serán obligaciones complementarias y concurrentes de los ayuntamientos, en materia educativa. Su incumplimiento generará la aplicación de las sanciones que correspondan;
+
+XXVIII. Reglamentar el expendio y distribución de alimentos y bebidas preparadas y procesadas dentro de las escuelas, para que se sujeten a los lineamientos que para tal fin establezca la autoridad educativa federal, sin perjuicio del cumplimiento de otras disposiciones que en materia de salud resulten aplicables. En la elaboración de los alimentos deberán cumplirse los criterios nutrimentales que para tal efecto determine la Secretaría de Salud;
+
+XXIX. Formalizar convenios con la federación, ayuntamientos, sectores productivos, organizaciones no gubernamentales, fundaciones y otras que directa o indirecta impacten el servicio educativo;
+
+XXX. Prevenir y reducir la generación de contaminantes desde las escuelas de educación básica, especialmente con la instalación de contenedores para la separación de la basura en todos los planteles, a través de la Secretaría de Desarrollo Sustentable, y de la Subsecretaría de Medio Ambiente y Recursos Naturales con la colaboración de los sectores privado y social, así como con las demás autoridades competentes;
+
+XXXI. Realizar acciones en el nivel de educación básica y media superior para informar, orientar y asesorar a los estudiantes en el desarrollo de sus aptitudes, capacidades y habilidades que les permitan identificar y fortalecer sus vocaciones con el objeto de elegir asertivamente una carrera profesional;
+
+XXXII. Respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como reconocer aquellos adquiridos mediante acuerdos alcanzados a través de convenios, minutas y acuerdos celebrados por el Gobierno del Estado, a través de las instancias respectivas y su organización sindical, que estipulan beneficios laborales, profesionales, salariales y sociales, que no contravengan esta Ley y las Leyes Generales de la materia.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+En atención a lo previsto en el párrafo anterior, al Acuerdo Nacional para la Modernización de la Educación Básica y al Decreto de creación del organismo Servicios de Educación Pública Descentralizada del Estado, los trabajadores de la educación jubilados y pensionados de dichos servicios, así como los Trabajadores de la Educación Jubilados y Pensionados Homologados de Educación Media Superior y Superior en la entidad, tienen derecho a percibir un aguinaldo de 65 días de salario de la respectiva cuota diaria de pensión. En virtud de que dichos trabajadores reciben una parte del aguinaldo a través del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Gobierno del Estado, por conducto de los Servicios de Educación Pública Descentralizada del Estado de Sinaloa, cubrirá la diferencia que resulte.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+Los Trabajadores de la Educación referidos en el párrafo anterior que se hayan pensionado conforme al régimen de cuentas individuales, recibirán 25 días de aguinaldo por parte del Gobierno del Estado.
+
+XXXIII. Emitir la Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación que prestan en términos de esta Ley;
+
+XXXIV. Presentar un informe anual sobre los principales aspectos de mejora continua de la educación que hayan sido implementados en el Estado, y
+
+XXXV. Las demás que con tal carácter establezcan la Ley General, esta Ley y otras disposiciones aplicables.
+
+###### Artículo 146.
+
+Adicionalmente a las atribuciones que se refieren el artículo 145 de esta Ley, la autoridad educativa estatal tendrá las siguientes atribuciones de manera concurrente con la autoridad educativa federal:
+
+I. Formar y capacitar al personal del sistema educativo estatal para la planificación, desarrollo y evaluación de la educación;
+
+II. Constituir comisiones específicas para cada tipo, nivel y modalidad educativos. Estas comisiones educativas colaborarán con las autoridades del ramo, en la planeación y recomendación de propuestas de solución a los problemas que conciernen al Sistema Educativo Estatal.
+
+III. Promover y prestar servicios educativos, distintos de los previstos en las fracciones I y V del artículo 114 de la Ley General, de acuerdo con las necesidades nacionales, regionales y estatales;
+
+IV. Participar en las actividades tendientes para la admisión, promoción y reconocimiento del personal docente o con funciones de dirección o supervisión en la educación básica y media superior, de conformidad con lo dispuesto en la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
+
+V. Determinar y formular planes y programas de estudio, distintos de los previstos en la fracción I del artículo 113 de la Ley General;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2026)</small>
+
+V Bis. Promover e implementar programas para la formación y capacitación de personal docente y directivo de educación básica y media superior, en salud mental, socioemocional y autocuidado, así como trastornos del neurodesarrollo, incluido el espectro autista;
+
+VI. Diseñar y operar los programas para la formación, capacitación, actualización y de estudios de posgrado para los maestros de educación básica y normal, previa determinación de la autoridad federal competente;
+
+VII. Ejecutar programas para la inducción, actualización, capacitación y superación de maestras y maestros de educación media superior, los que deberán sujetarse, en lo conducente, a lo dispuesto por la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
+
+VIII. Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción VI del artículo 114 de la Ley General, de acuerdo con los lineamientos generales que la autoridad educativa federal expida. Asimismo, podrán autorizar que las instituciones públicas que en sus regulaciones no cuenten con la facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los planes y programas que impartan, de acuerdo con los lineamientos generales que la autoridad educativa federal expida en términos del artículo 144 de la Ley General;
+
+La autoridad educativa estatal podrá revocar las referidas autorizaciones cuando se presente algún incumplimiento que en términos de los mencionados lineamientos amerite dicha sanción. Lo anterior con independencia de las infracciones que pudieran configurarse, en términos de lo previsto en las disposiciones aplicables.
+
+Las constancias de revalidación y equivalencia de estudios deberán ser registradas en el Sistema de Información y Gestión Educativa, en los términos que establezca la autoridad educativa federal;
+
+IX.Suscribir los acuerdos y convenios que faciliten el tránsito nacional e internacional de estudiantes, así como promover la suscripción de tratados en la materia;
+
+X. Coordinar y operar un sistema de asesoría y acompañamiento a las escuelas públicas de educación básica y media superior, como apoyo a la mejora de la práctica profesional, bajo la responsabilidad de los supervisores escolares;
+
+XI. Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los de normal y demás para la formación de docentes de educación básica que impartan los particulares;
+
+XII. Diseñar y operar programas de beneficio social para abatir la deserción, la reprobación y el rezago educativo, entre otros, mediante el otorgamiento de dos uniformes y un paquete de útiles escolares a las alumnas y alumnos del sistema de educación básica, y en el nivel de preescolar un par de calzado deportivo, cuya utilización en las escuelas públicas, será obligatoria;
+
+XIII. Vigilar y prohibir que los planteles públicos del Sistema Educativo Estatal, así como los programas desarrollados para sus actividades y los insumos que de ellos se deriven, lleven nombres, imágenes, logotipos, símbolos, colores, slogans, frases o cualquier otro tipo de referencias que hayan sido utilizadas en propaganda política o electoral, o bien elementos que impliquen promoción personalizada de servidor público alguno, partido u organismos o asociaciones políticas, sindicatos, organizaciones no gubernamentales, otras similares;
+
+XIV. Editar libros y producir otros materiales educativos, distintos de los señalados en la fracción IV del artículo 113 de la Ley General, apegados a los fines y criterios establecidos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y para el cumplimiento de los planes y programas de estudio autorizados por la autoridad educativa federal;
+
+XV. Fomentar la prestación de servicios bibliotecarios a través de las bibliotecas públicas a cargo de la Secretaría de Cultura y demás autoridades competentes, a fin de apoyar al Sistema Educativo Estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística, incluyendo los avances tecnológicos que den acceso al acervo bibliográfico, con especial atención a personas con discapacidad;
+
+XVI. Promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, fomentar su enseñanza, su expansión y divulgación en acceso abierto, cuando el conocimiento científico y tecnológico sea financiado con recursos públicos o se haya utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
+
+XVII. Fomentar y apoyar la investigación para el mejoramiento de las técnicas y métodos de enseñanza;
+
+XVIII. Promover la transparencia en las escuelas públicas y particulares en las que se imparta educación obligatoria, vigilando que se rinda, ante la comunidad un informe de sus actividades y rendición de cuentas, por el director del plantel, después de cada ciclo escolar;
+
+XIX. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones, incluido el deporte adaptado para personas con discapacidad;
+
+XX. Promover y desarrollar en el ámbito de su competencia las actividades y programas relacionados con el fomento de la lectura y el uso de los libros, de acuerdo con lo establecido en la ley de la materia;
+
+XXI. Fomentar el uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo, para apoyar el aprendizaje de los estudiantes, ampliar sus habilidades digitales para la selección y búsqueda de información;
+
+XXII. Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos, así como corroborar que el trato de los educadores y educandos sea de respeto recíproco y atienda al respeto de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano y demás legislación aplicable a niñas, niños, adolescentes y jóvenes;
+
+XXIII. Promover entornos escolares saludables, a través de acciones que permitan a los educandos disponibilidad y acceso a una alimentación nutritiva, hidratación adecuada, así como a la actividad física, educación física y la práctica del deporte;
+
+XXIV. Promover en la educación obligatoria prácticas cooperativas de ahorro, producción y promoción de estilos de vida saludables en alimentación, de acuerdo con lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares;
+
+XXV. Promover, ante las autoridades correspondientes, los permisos necesarios de acuerdo con la legislación laboral aplicable, con la finalidad de facilitar la participación de madres y padres de familia o tutores en las actividades de educación y desarrollo de sus hijas, hijos o pupilos menores de dieciocho años;
+
+XXVI. Aplicar los instrumentos que consideren necesarios para la mejora continua de la educación en el ámbito de su competencia, atendiendo los lineamientos que en ejercicio de sus atribuciones emita la Comisión Nacional para la Mejora Continua de la Educación;
+
+XXVII. Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo;
+
+XXVIII. Asignar superficies de terreno idóneas en extensión y calidad para la construcción de planteles escolares en todos los tipos y niveles educativos;
+
+XXIX. Establecer programas preventivos de Talleres para madres y padres de Familia, para el fortalecimiento de los valores, cultura cívica y de la legalidad que se traduzcan en familias sólidas, unidas y fuertes que trasciendan con su ejemplo del ámbito familiar al contexto educativo y social;
+
+XXX. Proponer programas de seguridad vial en los tipos del sistema educativo estatal entendidos como el conjunto de actividades que se orientan al desarrollo en la cultura de seguridad vial, para una mejor integración social de todos sus actores. Asimismo, fomentar conductas y hábitos seguros en materia de seguridad vial y la formación de criterios para evaluar las distintas consecuencias que para su seguridad integral tienen las situaciones riesgosas a las que se exponen como peatones, pasajeros y conductores. La adquisición de hábitos de observación visual, auditiva y psicomotriz para la creación de actitudes y comportamientos de prevención frente a las autoridades de tránsito, respeto a las normas y actitudes de conciencia ciudadana en materia de uso de la vía;
+
+XXXI. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias, y
+
+XXXII. Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+
+El Ejecutivo Federal y el Gobierno del Estado podrán celebrar convenios para coordinar o unificar las actividades educativas a que se refiere esta Ley, con excepción de aquellas que, con carácter exclusivo, les confieren los artículos 113 y 114 de la Ley General.
+
+Además de las atribuciones concurrentes señaladas en esta Ley, las autoridades educativas federal y estatal, en el ámbito de sus competencias, tendrán las correspondientes en materia de educación superior que se establezcan en la Ley General de Educación Superior.
+
+###### Artículo 147.
+
+El ayuntamiento de cada municipio podrá, sin perjuicio de la concurrencia de las autoridades educativas federal y estatal, promover y prestar servicios educativos de cualquier tipo o modalidad. También podrá realizar actividades de las enumeradas en las fracciones XIV a XVI del artículo 146 de esta Ley.
+
+El Gobierno del Estado y los ayuntamientos, podrán celebrar convenios para coordinar o unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
+
+Para la admisión, promoción y reconocimiento del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan, deberán observar lo dispuesto por la Ley General del Sistema para la Carrera de las Maestras y los Maestros.
+
+###### Artículo 148.
+
+El ayuntamiento de cada municipio, de acuerdo con sus posibilidades presupuestales, concurrirá al sostenimiento permanente de los servicios de educación básica, y de los centros de alfabetización, de fomento y de difusión de la cultura. Asimismo, fomentarán la cooperación económica del sector privado para el logro de estos fines.
+
+###### Artículo 149.
+
+En las zonas rurales, el Gobierno del Estado y las autoridades municipales establecerán y sostendrán centros de educación comunitaria donde se impartan, además de la educación básica, media superior y superior; conocimientos de las técnicas: agropecuarias y forestales; de pequeñas industrias aprovechadoras de los recursos naturales de la región; de mejoramiento del hogar; de prácticas profilácticas de higiene, de saneamiento del ambiente; y otras campañas sanitarias.
+
+###### Artículo 150.
+
+Son obligaciones y facultades de los ayuntamientos, en el ramo de la educación pública, las siguientes:
+
+I. Promover y prestar servicios educativos de cualquier tipo y modalidad;
+
+II. Participar en la supervisión, vigilando que se dé cumplimiento al precepto de la educación obligatoria para el debido funcionamiento de las escuelas;
+
+III. Cooperar con el Gobierno del Estado en la edificación de locales para escuelas y en su conservación y mejoramiento, conforme a lo estipulado en la presente Ley.
+
+Los terrenos que las autoridades municipales otorguen para la edificación de los planteles escolares, deberán tener la superficie y ubicación idónea para tales fines;
+
+IV. Cooperar con las autoridades escolares en la atención de los servicios de: salubridad, higiene y seguridad en las escuelas de su jurisdicción;
+
+V. Apoyar a las autoridades escolares y al personal de las escuelas para el mejor desempeño de sus funciones; incluyendo la coordinación para el desarrollo de acciones que permitan identificar y fortalecer las vocaciones de los alumnos con el objeto de elegir asertivamente una carrera profesional;
+
+VI. Establecer medidas de cooperación educativa entre los grupos y comunidades del municipio, de acuerdo con sus características y circunstancias particulares;
+
+VII. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas; y
+
+VIII. Las demás que les sean otorgadas en la Ley General, la presente Ley y demás disposiciones reglamentarias sobre la materia.
+
+###### Artículo 151.
+
+Las autoridades educativas estatal y municipales, prestarán servicios educativos con equidad y excelencia. Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual o prácticas culturales.
+
+Para tal efecto realizarán entre otras, las siguientes acciones:
+
+I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
+
+II. Establecer, de acuerdo con la suficiencia presupuestal, programas de entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica;
+
+III. Proporcionar apoyos a educandos cuya madre, padre o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
+
+IV. Garantizar el acceso a los servicios educativos a las víctimas y promover su permanencia en el sistema educativo estatal cuando como consecuencia del delito o violación de sus derechos humanos exista interrupción en los estudios;
+
+V. Promover la instalación de aires acondicionados en aulas de los planteles educativos que, por sus condiciones climáticas, lo requieran;
+
+VI. Impulsar, en coordinación con las autoridades en la materia, programas de acceso gratuito a eventos culturales para educandos en vulnerabilidad social;
+
+VII. Apoyar conforme a las disposiciones que, para tal efecto emitan las autoridades educativas, a estudiantes de educación media superior y de educación superior con alto rendimiento escolar para que puedan participar en programas de intercambio académico en el país o en el extranjero;
+
+VIII. Celebrar convenios para que las instituciones que presten servicios de estancias infantiles faciliten la incorporación de las hijas o hijos de estudiantes que lo requieran, con el objeto de que no interrumpan o abandonen sus estudios;
+
+IX. Dar a conocer y, en su caso, fomentar diversas opciones educativas, como la educación abierta y a distancia, mediante el aprovechamiento de las plataformas digitales, la televisión educativa y las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
+
+X. Celebrar convenios de colaboración interinstitucional con las autoridades de los tres órdenes de gobierno, a fin de impulsar acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario, preferentemente a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
+
+XI. Fomentar programas de incentivos dirigidos a las maestras y los maestros que presten sus servicios en localidades aisladas, zonas urbanas marginadas y de alta conflictividad social, para fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
+
+XII. Establecer, de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, escuelas con horario completo en educación básica, con jornadas de entre 6 y 8 horas diarias, para promover un mejor aprovechamiento del tiempo disponible, generar un mayor desempeño académico y desarrollo integral de los educandos;
+
+XIII. Facilitar el acceso a la educación básica y media superior, previo cumplimiento de los requisitos que para tal efecto se establezcan, aun cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos.
+
+Las autoridades educativas ofrecerán opciones que faciliten la obtención de los documentos académicos y celebrarán convenios de colaboración con las instituciones competentes para la obtención de los documentos de identidad, asimismo, en el caso de la educación básica y media superior, se les ubicará en el nivel y grado que corresponda, conforme a la edad, el desarrollo cognitivo, la madurez emocional y, en su caso, los conocimientos que demuestren los educandos mediante la evaluación correspondiente.
+
+Las autoridades educativas promoverán acciones similares para el caso de la educación superior;
+
+XIV. Adoptar las medidas para que, con independencia de su nacionalidad o condición migratoria, las niñas, niños, adolescentes o jóvenes que utilicen los servicios educativos públicos, ejerzan los derechos y gocen de los beneficios con los que cuentan los educandos nacionales, instrumentando estrategias para facilitar su incorporación y permanencia en el Sistema Educativo Estatal;
+
+XV. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
+
+XVI. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución, y
+
+XVII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia.
+
+###### Artículo 152.
+
+La autoridad educativa estatal participará en el Consejo Nacional de Autoridades Educativas para acordar las acciones y estrategias que garanticen el ejercicio del derecho a la educación, así como el cumplimiento a los fines y criterios de la educación establecidos en la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
+
+## Título Noveno. Del Financiamiento a la Educación
+
+### Capítulo Único. Del Financiamiento a la Educación
+
+###### Artículo 153.
+
+El Ejecutivo Federal y el Gobierno del Estado, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la educación pública y de los servicios educativos.
+
+El Ejecutivo Estatal propondrá en el proyecto de presupuesto de egresos del Estado, la asignación de recursos de cada uno de los niveles de educación a su cargo para cubrir los requerimientos financieros, humanos, materiales y de infraestructura, así como de su mantenimiento, a fin de dar continuidad y concatenación entre dichos niveles, con el fin de que la población escolar tenga acceso a la educación, con criterios de excelencia.
+
+Los recursos federales recibidos para la prestación de los servicios educativos al Estado no serán transferibles y deberán aplicarse íntegra, oportuna y exclusivamente a la prestación de servicios y demás actividades educativas en la propia entidad. El Gobierno del Estado publicará en el Periódico Oficial “El Estado de Sinaloa”, los recursos que la Federación le transfiera para tal efecto, en forma desagregada por nivel, programa educativo y establecimiento escolar.
+
+El Gobierno del Estado prestará todas las facilidades y colaboración para que, en su caso, el Ejecutivo Federal y las instancias fiscalizadoras en el marco de la ley respectiva, verifiquen la correcta aplicación de dichos recursos.
+
+Las instituciones públicas de educación superior colaborarán, de conformidad con la ley en la materia, con las instancias fiscalizadoras para verificar la aplicación de los recursos que se le destinen derivados de este artículo.
+
+En el caso de que tales recursos se utilicen para fines distintos, se estará a lo previsto en la legislación aplicable sobre las responsabilidades administrativas, civiles y penales que procedan.
+
+Para dar cumplimiento a la obligatoriedad y la gratuidad de la educación superior, La Ley General de Educación Superior establecerá las disposiciones en materia de financiamiento.
+
+###### Artículo 154.
+
+La educación constituye una actividad prioritaria del Estado y una inversión de utilidad social. Las inversiones educativas públicas y privadas se considerarán de interés social.
+
+El Estado y los municipios al elaborar sus respectivos programas de gobierno, tendrán en cuenta el carácter prioritario de la educación pública como instrumento de desarrollo en la Entidad.
+
+###### Artículo 155.
+
+Para los efectos educacionales anteriores, el Gobierno del Estado podrá:
+
+I. Promover que cada municipio, atendiendo al presupuesto correspondiente, reciba y recabe los recursos suficientes para el cumplimiento de las responsabilidades educativas que asuma;
+
+II. Fortalecer con los municipios las fuentes de financiamiento a la tarea educativa y destinar a esta función pública, recursos presupuestales crecientes, en términos reales;
+
+III. Proponer y gestionar ante la federación, la ampliación de los programas compensatorios para atender la demanda educativa en zonas rurales, urbanas marginadas y de alto riesgo;
+
+IV. Gestionar la obtención de recursos financieros procedentes de organismos internacionales dedicados a la educación y tareas afines, con el objeto de apoyar programas educativos especiales que contribuyan al desarrollo del Estado;
+
+V. Promover la participación de los sectores social y privado en la prestación y financiamiento de servicios educativos, mediante la integración de patronatos, fideicomisos, fundaciones u otras instituciones de financiamiento para la educación pública, buscando estímulos fiscales que favorezcan su establecimiento;
+
+VI. Concurrir con el Ejecutivo Federal, y con los gobiernos de los Municipios, de conformidad con lo establecido en sus respectivas Leyes de Ingresos, Presupuestos de Egresos, y demás normatividad aplicable, en el financiamiento educativo; e invertirán recursos económicos que propicien el funcionamiento adecuado de los servicios educativos públicos para la Educación Básica y Media Superior en el Estado; y
+
+VII. Formalizar convenios, acuerdos, declaratorias e instrumentos jurídicos necesarios para cumplir con los fines precisados en esta Ley.
+
+###### Artículo 156.
+
+El Gobierno del Estado, de conformidad con las disposiciones aplicables, proveerá lo conducente para que cada ayuntamiento reciba recursos para el cumplimiento de las responsabilidades que en términos de esta Ley estén a cargo de la autoridad municipal.
+
+###### Artículo 157.
+
+Las autoridades educativas estatal y municipales en el ámbito de sus atribuciones, deberán ejecutar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas. Tratándose de educación básica, observarán los lineamientos que expida la Autoridad Educativa Federal para formular los programas de gestión escolar, mismos que tendrán como objetivos:
+
+I. Usar los resultados de la evaluación como retroalimentación para la mejora continua en cada ciclo escolar;
+
+II. Desarrollar una planeación anual de actividades, con metas verificables que se harán del conocimiento de la autoridad educativa estatal y la comunidad escolar; y
+
+III. Administrar en forma transparente y eficiente los recursos que reciba para mejorar su infraestructura, comprar materiales educativos, resolver problemas de operación básicos y propiciar condiciones de participación para que alumnos, maestros, madres y padres de familia o tutores, con el liderazgo del director, se involucren en la resolución de los retos que cada escuela enfrenta.
+
+###### Artículo 158.
+
+El Gobierno del Estado, en todo momento procurará fortalecer las fuentes de financiamiento a la tarea educativa y destinar recursos presupuestarios crecientes, en términos reales, para la educación pública.
+
+###### Artículo 159.
+
+El Ejecutivo Estatal incluirá en el proyecto de presupuesto que someta a la aprobación del Congreso del Estado, los recursos suficientes para fortalecer las capacidades de la administración escolar. Los programas para tal efecto responderán a lo establecido en la Ley General y en la presente Ley.
+
+###### Artículo 160.
+
+Además de las actividades enumeradas en el artículo 157, el Ejecutivo del Estado llevará a cabo programas compensatorios por virtud de los cuales apoye con recursos específicos, para enfrentar los rezagos educativos, independientemente de los convenios en los que se concreten las proporciones de financiamiento y las acciones específicas que la autoridad educativa federal y de los municipios realicen para reducir y superar dichos rezagos.
+
+## Título Décimo. De la Corresponsabilidad Social en el Proceso Educativo
+
+### Capítulo I. De la Participación de Madres y Padres de Familia o Tutores
+
+###### Artículo 161.
+
+Son derechos de quienes ejercen la patria potestad o la tutela:
+
+I. Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de dieciocho años, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria, la secundaria, la media superior y, en su caso, la educación inicial, en concordancia con los espacios disponibles para cada tipo educativo;
+
+II. Participar activamente con las autoridades de la escuela en la que estén inscritos sus hijas, hijos o pupilos menores de dieciocho años, en cualquier problema relacionado con la educación de éstos, a fin de que, en conjunto, se aboquen a su solución;
+
+III. Colaborar con las autoridades escolares, al menos una vez al mes, para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
+
+IV. Formar parte de las asociaciones de madres y padres de familia y de los consejos de participación escolar o su equivalente a que se refiere esta Ley;
+
+V. Opinar, en los casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen;
+
+VI. Conocer el nombre del personal docente y empleados adscritos en la escuela en la que estén inscritos sus hijas, hijos o pupilos, misma que será proporcionada por la autoridad escolar;
+
+VII. Conocer los criterios y resultados de las evaluaciones de la escuela a la que asistan sus hijas, hijos o pupilos;
+
+VIII. Conocer de los planes y programas de estudio proporcionados por el plantel educativo, sobre los cuales podrán emitir su opinión;
+
+IX. Conocer el presupuesto asignado a cada escuela, así como su aplicación y los resultados de su ejecución;
+
+X. Conocer la situación académica y conducta de sus hijas, hijos o pupilos en la vida escolar;
+
+XI. Manifestar, de ser el caso, su inconformidad ante las autoridades educativas correspondientes, sobre cualquier irregularidad dentro del plantel educativo donde estén inscritas sus hijas, hijos o pupilos menores de dieciocho años y sobre las condiciones físicas de las escuelas; y
+
+XII. Las demás que les otorguen las leyes federales, locales y sus normas y reglamentos.
+
+###### Artículo 162.
+
+Son obligaciones de quienes ejercen la patria potestad o la tutela:
+
+I. Hacer que sus hijas, hijos o pupilos menores de dieciocho años, reciban la educación preescolar, la primaria, la secundaria, la media superior y, en su caso, la inicial;
+
+II. Participar en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años, al revisar su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo;
+
+III. Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos o pupilos, en las actividades que dichas instituciones realicen;
+
+IV. Informar a las autoridades educativas, los cambios que se presenten en la conducta y actitud de los educandos, para que se apliquen los estudios correspondientes, con el fin de determinar las posibles causas;
+
+V. Acudir a los llamados de las autoridades educativas y escolares relacionados con la revisión del progreso, desempeño y conducta de sus hijas, hijos o pupilos menores de dieciocho años;
+
+VI. Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar y comunitaria;
+
+VII. Verificar que los planteles escolares, en todos sus anexos y demás servicios, sean usados para los fines específicos a los que están destinados;
+
+VIII. Fomentar, en lo concerniente y en conjunto con las autoridades educativas, lo dispuesto en el Artículo 145, fracción XXVI, de la presente Ley; y
+
+IX. Participar en los Talleres para Padres de Familia.
+
+En caso de incumplimiento de alguna de las obligaciones a las que se refiere este artículo por parte de madres y padres de familia o tutores, las autoridades educativas podrán dar aviso a las instancias encargadas de la protección de los derechos de niñas, niños y adolescentes para los efectos correspondientes en términos de la legislación aplicable.
+
+###### Artículo 163.
+
+Las asociaciones de madres y padres de familia tendrán por objeto:
+
+I. Representar ante las autoridades escolares los intereses que en materia educativa sean comunes a los asociados;
+
+II. Colaborar para una mejor integración de la comunidad escolar, así como en el mejoramiento de los planteles;
+
+III. informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos;
+
+IV. Propiciar la colaboración de los docentes, madres y padres de familia o tutores, para salvaguardar la integridad de los integrantes de la comunidad educativa;
+
+V. Conocer de las acciones educativas y de prevención que realicen las autoridades para que los educandos, conozcan y detecten la posible comisión de hechos delictivos que les puedan perjudicar;
+
+VI. Sensibilizar a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
+
+VII. Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de los educandos;
+
+VIII. Gestionar el mejoramiento de las condiciones de los planteles educativos ante las autoridades correspondientes;
+
+IX.Participar en el mejoramiento de la infraestructura educativa, de manera voluntaria y en la forma que en su Asamblea General se acuerde, ya sea mediante la aplicación de cooperaciones en numerario, bienes y servicios que las propias asociaciones deseen hacer al establecimiento escolar. En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna;
+
+X. Alentar el interés familiar y comunitario para el desempeño del educando, y
+
+XI. Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores.
+
+Las asociaciones de madres y padres de familia, se abstendrán de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos, salvo que, derivados éstas, se presenten situaciones que puedan vulnerar los derechos de los niños, niñas y adolescentes, por lo que la autoridad estará obligada a atender e investigar dichas denuncias.
+
+La organización y el funcionamiento de las asociaciones de madres y padres de familia, en lo concerniente a sus relaciones con las autoridades escolares, se sujetarán a las disposiciones que la autoridad educativa estatal señale.
+
+### Capítulo II. De los Consejos de Participación Escolar
+
+###### Artículo 164.
+
+Las autoridades educativas promoverán, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto garantizar el derecho a la educación.
+
+###### Artículo 165.
+
+Será decisión de cada escuela la instalación y operación del consejo de participación escolar o su equivalente, el cual será integrado por las asociaciones de madres y padres de familia, maestras y maestros.
+
+Este consejo podrá:
+
+I. Coadyuvar para que los resultados de las evaluaciones al Sistema Educativo Nacional contribuyan a la mejora continua de la educación, en los términos del artículo 136 de la Ley General;
+
+II. Proponer estímulos y reconocimientos de carácter social a alumnos, docentes, directivos y empleados de la escuela, que propicien la vinculación con la comunidad, con independencia de los que se prevean en la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
+
+III. Coadyuvar en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de la comunidad educativa;
+
+IV. Contribuir a reducir las condiciones sociales adversas que influyan en la educación, a través de proponer acciones específicas para su atención;
+
+V. Llevar a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar, considerando las características y necesidades de las personas con discapacidad, así como el desarrollo de planes personales de evacuación que correspondan con el Atlas de Riesgos de la localidad en que se encuentren;
+
+VI. Promover cooperativas con la participación de la comunidad educativa, las cuales tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de los educandos. Su funcionamiento se apegará a los criterios de honestidad, integridad, transparencia y rendición de cuentas en su administración. La autoridad educativa estatal emitirá los lineamientos para su operación, de conformidad con las disposiciones aplicables;
+
+VII. Coadyuvar en la dignificación de los planteles educativos, a través del Comité Escolar de Administración Participativa, de acuerdo con los lineamientos que emita la autoridad educativa federal, y
+
+VIII. Realizar actividades encaminadas al beneficio de la propia escuela.
+
+###### Artículo 166.
+
+En cada municipio del Estado se podrá instalar y operar un consejo municipal de participación escolar en la educación, integrado por las autoridades municipales, asociaciones de madres y padres de familia, maestras y maestros.
+
+Este consejo, ante el ayuntamiento y la autoridad educativa respectiva, podrá:
+
+I. Gestionar el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas, tomando en cuenta las necesidades de accesibilidad para las personas con discapacidad, y demás proyectos de desarrollo educativo en el municipio;
+
+II. Estimular, promover y apoyar actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
+
+III. Promover en la escuela y en coordinación con las autoridades, los programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos reconocidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes; y en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa;
+
+IV. Realizar propuestas que contribuyan a la formulación de contenidos locales para la elaboración de los planes y programas de estudio, las cuales serán entregadas a la autoridad educativa correspondiente;
+
+V. Coadyuvar a nivel municipal en actividades de seguridad, protección civil y emergencia escolar;
+
+VI. Promover la superación educativa en el ámbito municipal mediante certámenes interescolares;
+
+VII. Promover actividades de orientación, capacitación y difusión dirigidas a madres y padres de familia o tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
+
+VIII. Proponer la entrega de estímulos y reconocimientos de carácter social a los educandos, maestras y maestros, directivos y empleados escolares que propicien la vinculación con la comunidad;
+
+IX. Procurar la obtención de recursos complementarios, para el mantenimiento y equipamiento básico de cada escuela pública; y
+
+X. En general, realizar actividades para apoyar y fortalecer la educación en el municipio.
+
+Será responsabilidad de la persona titular de la presidencia municipal que, en el consejo se alcance una efectiva participación social que contribuya a elevar la excelencia en educación, así como, la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo.
+
+###### Artículo 167.
+
+En el Estado, operará un consejo estatal de participación escolar en la educación, como órgano de consulta, orientación y apoyo. Dicho consejo, será integrado por las asociaciones de madres y padres de familia, maestras y maestros.
+
+Este consejo, podrá promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvar en actividades de protección civil y emergencia escolar; conocer las demandas y necesidades que emanen de los consejos escolares y municipales, gestionar ante las instancias competentes su resolución y apoyo, así como colaborar en actividades que influyan en la excelencia y la cobertura de la educación.
+
+###### Artículo 168.
+
+Los consejos de participación escolar a que se refiere este capítulo se abstendrán de intervenir en los aspectos laborales, pedagógicos y administrativos del personal de los centros educativos y no deberán participar en cuestiones políticas ni religiosas.
+
+### Capítulo III. De la Participación de los Medios de Comunicación
+
+###### Artículo 169.
+
+Los medios de comunicación masiva, de conformidad con el marco jurídico que les rige, en el desarrollo de sus actividades contribuirán al logro de los fines de la educación previstos en el artículo 14, conforme a los criterios establecidos en el artículo 15 de la presente Ley.
+
+La autoridad educativa estatal promoverá, ante las autoridades competentes, las acciones necesarias para dar cumplimiento a este artículo, con apego a las disposiciones legales aplicables.
+
+###### Artículo 170.
+
+El Ejecutivo estatal promoverá la contribución de los medios de comunicación a los fines de la educación. Para tal efecto procurara la creación de espacios y la realización de proyectos de difusión educativa con contenidos de la diversidad cultural del Estado, cuya transmisión sean en español y las diversas lenguas indígenas.
+
+## Título Décimo Primero. De la Validez de Estudios y Certificación de Conocimientos
+
+### Capítulo Único. De las Disposiciones Aplicables a la Validez de Estudios y Certificación de Conocimientos
+
+###### Artículo 171.
+
+Los estudios realizados dentro del Sistema Educativo Estatal tendrán validez en toda la República.
+
+Las instituciones del Sistema Educativo Estatal, de conformidad con los lineamientos que emita la autoridad educativa federal, expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes. Dichos certificados, constancias, diplomas, títulos y grados deberán registrarse en el Sistema de Información y Gestión Educativa y tendrán validez en toda la República.
+
+###### Artículo 172.
+
+Los estudios realizados con validez oficial en sistemas educativos extranjeros podrán adquirir validez oficial en el Sistema Educativo Nacional, mediante su revalidación, para lo cual deberá cumplirse con las normas y criterios generales que determine la autoridad educativa estatal conforme a lo previsto en el artículo 175 de esta Ley.
+
+La revalidación podrá otorgarse por niveles educativos, por grados escolares, créditos académicos, por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+
+###### Artículo 173.
+
+Los estudios realizados dentro del Sistema Educativo Estatal podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados o ciclos escolares, créditos académicos, asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva, la cual deberá facilitar el tránsito de educandos en el Sistema Educativo Nacional.
+
+###### Artículo 174.
+
+La autoridad educativa estatal sólo emitirá resoluciones de otorgamiento de revalidaciones y declaración de equivalencias de estudios de educación primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica y de aquellos estudios que estén referidos a planes y programas que se impartan en el Estado, de acuerdo con las normas y criterios generales que establezca la autoridad educativa federal, de conformidad con la Ley General.
+
+###### Artículo 175.
+
+La autoridad educativa federal determinará las normas y criterios generales, aplicables en toda la República, a que se ajustarán la revalidación, así como la declaración de estudios equivalentes.
+
+La autoridad educativa estatal otorgará revalidaciones y equivalencias únicamente cuando estén referidas a planes y programas de estudio que se impartan en sus respectivas competencias.
+
+Las autoridades educativas e instituciones que otorguen revalidaciones y equivalencias promoverán la simplificación de dichos procedimientos, atendiendo a los principios de celeridad, imparcialidad, flexibilidad y asequibilidad. Además, promoverán la utilización de mecanismos electrónicos de verificación de autenticidad de documentos académicos.
+
+Las revalidaciones y equivalencias emitidas, deberán registrarse en el Sistema de Información y Gestión Educativa.
+
+Las revalidaciones y equivalencias otorgadas en términos del presente artículo tendrán validez en toda la República.
+
+Las autoridades educativas podrán revocar las referidas autorizaciones, cuando se presente algún incumplimiento que en términos de los mencionados lineamientos amerite dicha sanción. Lo anterior con independencia de las infracciones que pudieran configurarse, en términos de lo previsto en esta Ley.
+
+###### Artículo 176.
+
+La autoridad educativa estatal, por acuerdo de su titular y de conformidad con los lineamientos que emita la autoridad educativa federal podrá establecer procedimientos por medio de los cuales se expidan constancias, certificados, diplomas o títulos a quienes acrediten los conocimientos parciales respectivos a determinado grado escolar de educación básica o terminales que correspondan a cierto nivel educativo, adquiridos en forma autodidacta, de la experiencia laboral o a través de otros procesos educativos.
+
+Los acuerdos secretariales señalarán los requisitos específicos que deban cumplirse para la acreditación de los conocimientos adquiridos.
+
+## Título Décimo Segundo. De la Educación Impartida por Particulares
+
+### Capítulo I. Disposiciones Generales
+
+###### Artículo 177.
+
+Los particulares podrán impartir educación considerada como servicio público en términos de esta Ley, en todos sus tipos y modalidades, con la autorización o reconocimiento de validez oficial de estudios que otorgue el Estado, conforme a lo dispuestos por el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General, esta Ley y demás disposiciones jurídicas aplicables.
+
+Por lo que concierne a la educación inicial, preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, deberán obtener previamente, en cada caso, la autorización expresa del Estado, tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
+
+La autorización y el reconocimiento serán específicos para cada plan y programas de estudio; por lo que hace a educación básica y media superior, surtirá efectos a partir de su otorgamiento por parte de la autoridad correspondiente. Para impartir nuevos estudios se requerirá, según el caso, la autorización o el reconocimiento respectivos. En el tipo de educación superior, se estará a lo dispuesto en la Ley General de Educación Superior.
+
+La autorización y el reconocimiento incorporan a las instituciones que los obtengan, respecto de los estudios a que la propia autorización o dicho reconocimiento se refieren al Sistema Educativo Estatal.
+
+En ningún caso, con motivo del cobro de colegiaturas o cualquier otra contraprestación, derivada de la educación que se imparta en términos de este artículo, se realizarán acciones que atenten contra la dignidad y los derechos de los educandos, de manera especial de las niñas y niños, incluyendo la retención de documentos personales y académicos.
+
+La adquisición de uniformes y materiales educativos, así como de actividades extraescolares, no podrá condicionar la prestación del servicio público referido en esta Ley. Los educandos, las madres y padres de familia o tutores tendrán el derecho de adquirir los uniformes o materiales educativos con el proveedor de su preferencia.
+
+###### Artículo 178.
+
+Las autorizaciones y los reconocimientos de validez oficial de estudios se otorgarán cuando los solicitantes cuenten:
+
+I. Con personal docente que acredite la preparación adecuada para impartir educación en los tipos, niveles y modalidades que lo soliciten;
+
+II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, de protección civil, pedagógicas y de accesibilidad que la autoridad otorgante determine, en coadyuvancia con las autoridades competentes, conforme a los términos previstos en las disposiciones aplicables;
+
+III. Con planes y programas de estudio sancionados por la Autoridad Educativa Federal, cuando se trate de solicitud de autorización para impartir educación inicial, preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica; y, para educación media superior, adherirse al Sistema Nacional de Educación Media Superior; y
+
+IV. Con planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la inicial, preescolar, la primaria, la secundaria, la normal, y demás para la formación de maestros de educación básica.
+
+###### Artículo 179.
+
+El Gobierno del Estado publicará anualmente, en el inicio de cada ciclo escolar, en el Periódico Oficial “El Estado de Sinaloa” y en sus portales electrónicos, una relación de las instituciones a las que hayan concedido autorización o reconocimiento de validez oficial de estudios, así como de aquellas a las que hayan autorizado para revalidar o equiparar estudios. Asimismo, publicarán, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que se les otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos, así como aquellas que sean clausuradas.
+
+De igual manera indicarán en dicha publicación, los resultados una vez que apliquen las evaluaciones que, dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables, les correspondan.
+
+Las autoridades educativas deberán entregar a las escuelas particulares un reporte de los resultados que hayan obtenido sus docentes y alumnos en las evaluaciones correspondientes.
+
+Los particulares que impartan estudios con autorización o con reconocimiento deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, modalidad en que se imparte, domicilio para el cual se otorgó, así como la autoridad que lo emitió.
+
+###### Artículo 180.
+
+Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios deberán:
+
+I. Cumplir con lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, en la Ley General, en la presente Ley y demás disposiciones aplicables;
+
+II. Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes y mantenerlos actualizados;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+II Bis. Garantizar la capacitación del personal docente en materia de derechos humanos, igualdad y no discriminación en la educación, así como, la eliminación de todo tipo de estereotipos, prejuicios, discurso o expresiones verbales o escritas de cualquier tipo tendientes a denostar la dignidad de las personas basadas o motivadas en odio, detrimentos y estigmas de los grupos de atención prioritaria;
+
+III. Otorgar becas que cubran la impartición del servicio educativo, las cuales no podrán ser inferiores al cinco por ciento del total de alumnos inscritos en cada plan y programa de estudios con autorización o reconocimiento de validez oficial de estudios, las cuales distribuirá por nivel educativo y su otorgamiento o renovación no podrá condicionarse a la aceptación de ningún crédito, gravamen, servicio o actividad extracurricular a cargo del becario. El otorgamiento de un porcentaje mayor de becas al señalado en la presente fracción será decisión voluntaria de cada particular. Las becas podrán consistir en la exención del pago total o parcial de las cuotas de inscripción o de colegiaturas que haya establecido el particular. Corresponde a la autoridad educativa estatal la asignación de las becas a las que se refiere esta fracción, con la finalidad de contribuir al logro de la equidad educativa; para tal efecto atenderá los lineamientos que emita la autoridad educativa federal mediante los cuales se realizará dicha asignación en comités en los que participarán representantes de las instituciones de particulares que impartan educación en los términos de la presente Ley;
+
+IV. Cumplir los requisitos previstos en el artículo 178 de esta Ley;
+
+V. Cumplir y colaborar en las actividades de evaluación y vigilancia que las autoridades competentes realicen u ordenen;
+
+VI. Proporcionar la información que sea requerida por las autoridades;
+
+VII. Entregar a la autoridad educativa la documentación e información necesaria que permitan verificar el cumplimiento de los requisitos para seguir impartiendo educación, conforme a los lineamientos emitidos para tal efecto;
+
+VIII. Solicitar el refrendo del reconocimiento de validez oficial de estudios al término de la vigencia que se establezca, en los términos de esta Ley y demás disposiciones aplicables, y
+
+IX. Dar aviso a la autoridad educativa competente el cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación.
+
+###### Artículo 181.
+
+Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
+
+En el caso de educación inicial deberán, además, contar con el personal que acredite la preparación adecuada para impartir la educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad, que la autoridad educativa determine, conforme a los términos que señalen las disposiciones aplicables; presentar las evaluaciones que correspondan, de conformidad con lo señalado en las disposiciones legales correspondientes, así como facilitar la inspección y vigilancia de las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+###### Artículo 181 Bis.
+
+El personal que ejerce la docencia, así como el personal que labora en los planteles de educación, deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, evitando todo tipo de estereotipos, prejuicios y estigmas de los grupos de atención prioritaria, así como protegerlos contra toda forma de discriminación, maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral. En caso de que el personal docente, el personal que labora en los planteles educativos o las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
+
+### Capítulo II. De los Mecanismos para el Cumplimiento de los Fines de la Educación Impartida por los Particulares
+
+###### Artículo 182.
+
+Con la finalidad de que la educación que impartan los particulares cumpla con los fines establecidos en la Constitución Política de los Estados Unidos Mexicanos, las autoridades que otorguen autorizaciones y reconocimientos de validez oficial de estudios llevarán a cabo, dentro del ámbito de su competencia, acciones de vigilancia por lo menos una vez al año, a las instituciones que imparten servicios educativos respecto de los cuales concedieron dichas autorizaciones o reconocimientos, o que, sin estar incorporadas al Sistema Educativo Estatal, deban cumplir con las disposiciones de la presente Ley; además podrán requerir en cualquier momento información o documentación relacionada con la prestación u oferta del servicio educativo.
+
+Para efectos del presente artículo, las personas usuarias de estos servicios prestados por particulares podrán solicitar a las autoridades educativas correspondientes, la realización de acciones de vigilancia con objeto de verificar el cumplimiento de las disposiciones y requisitos para impartir educación en los términos de este Título, incluido el aumento de los costos que carezcan de justificación y fundamentación conforme a las disposiciones legales aplicables o que hayan sido establecidos en los instrumentos jurídicos que rigen las relaciones para la prestación de ese servicio.
+
+Derivado de las acciones de vigilancia, si las autoridades respectivas identifican que los particulares han aumentado los costos en la prestación de los servicios educativos sin apego a las disposiciones aplicables en la materia, darán aviso a las autoridades competentes para los efectos a los que haya lugar.
+
+###### Artículo 183.
+
+Son infracciones de las instituciones que prestan servicios educativos:
+
+I. Incumplir cualesquiera de las obligaciones previstas en el artículo 180 de esta Ley;
+
+II. Suspender el servicio educativo sin que medie motivo justificado, caso fortuito o fuerza mayor;
+
+III. Suspender actividades escolares o extraescolares en días y horas no autorizados por el calendario escolar aplicable, sin que medie motivo justificado, caso fortuito o fuerza mayor;
+
+IV. No utilizar los libros de texto que la autoridad educativa federal autorice y determine para la educación primaria y secundaria;
+
+V. Incumplir los lineamientos generales para el uso de material educativo para la educación básica;
+
+VI. Dar a conocer antes de su aplicación, los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación, a quienes habrán de presentarlos;
+
+VII. Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables;
+
+VIII. Realizar o permitir la difusión de publicidad dentro del plantel escolar que no fomente la promoción de estilos de vida saludables en alimentación, así como la comercialización de bienes o servicios notoriamente ajenos al proceso educativo, con excepción de los de alimentos;
+
+IX. Efectuar actividades que pongan en riesgo la salud o la seguridad de los educandos o que menoscaben su dignidad;
+
+X. Ocultar a las madres y padres de familia o tutores, las conductas de los educandos menores de dieciocho años que notoriamente deban ser de su conocimiento;
+
+XI. Oponerse a las actividades de vigilancia, así como no proporcionar información veraz y oportuna;
+
+XII. Contravenir las disposiciones contempladas en los artículos 13, 14, 15, 119, párrafo tercero, por lo que corresponde a las autoridades educativas y 179, segundo párrafo último y demás disposiciones aplicables por lo que se refiere a los particulares que presten el servicio de educación conforme esta Ley;
+
+XIII. Administrar a los educandos, sin previa prescripción médica y consentimiento informado de sus madres y padres o tutores, medicamentos;
+
+XIV. Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
+
+XV. Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje; obligar a los educandos a someterse a tratamientos médicos para condicionar su aceptación o permanencia en el plantel, o bien, presionar de cualquier manera a sus madres y padres de familia o tutores para que se los realicen, salvo causa debidamente justificada a juicio de las autoridades educativas;
+
+XVI. Incumplir con las medidas correctivas o precautorias derivadas de las visitas;
+
+XVII. Ostentarse como plantel incorporado sin estarlo;
+
+XVIII. Incumplir con lo dispuesto en el artículo 181 de esta Ley;
+
+XIX. Impartir la educación inicial, preescolar, primaria, secundaria, normal y demás para la formación de docentes de educación básica, sin contar con la autorización correspondiente;
+
+XX. Cambiar de domicilio sin la autorización previa de las autoridades educativas competentes;
+
+XXI. Otorgar revalidaciones o equivalencias sin observar las disposiciones aplicables;
+
+XXII. Retener documentos personales y académicos por falta de pago;
+
+XXIII. Condicionar la prestación del servicio público de educación a la adquisición de uniformes y materiales educativos, así como de actividades extraescolares;
+
+XXIV. Omitir dar a conocer por escrito a las personas usuarias de los servicios educativos, previamente a la inscripción para cada ciclo escolar, el costo total de la colegiatura o cualquier otra contraprestación;
+
+XXV. Difundir o transmitir datos personales sin consentimiento expreso de su titular o, en su caso, de la madre y padre de familia o tutor, y
+
+XXVI. Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+
+###### Artículo 184.
+
+Las infracciones enumeradas en el artículo anterior serán sancionadas de la siguiente manera:
+
+I. Imposición de multa, para lo cual se estará a los siguientes criterios:
+
+a) Multa por el equivalente a un monto mínimo de cien y hasta máximo de mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones I, II, III, IV, V, VI, VIII, X, XV, XVI, XXIII y XXIV del artículo 183 de esta Ley;
+
+b) Multa por el equivalente a un monto mínimo de mil y una, y hasta máximo de siete mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones XI, XII, XX, XXI, XXII, XXV y XXVI del artículo 183 de esta Ley; y
+
+c) Multa por el equivalente a un monto mínimo de siete mil y una, y hasta máximo de quince mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones VII y XIII del artículo 183 de esta Ley.
+
+Las multas impuestas podrán duplicarse en caso de reincidencia;
+
+II. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente respecto a las infracciones señaladas en las fracciones IX y XIV del artículo 183 de esta Ley. La imposición de esta sanción no excluye la posibilidad de que sea impuesta alguna multa de las señaladas en el inciso b) de la fracción anterior, o
+
+III. Clausura del plantel, respecto a las infracciones señaladas en las fracciones XVII, XVIII y XIX del artículo 183 de esta Ley.
+
+Si se incurriera en las infracciones establecidas en las fracciones XIII, XIV y XXVI del artículo anterior, se aplicarán las sanciones de este artículo, sin perjuicio de las penales y de otra índole que resulten.
+
+###### Artículo 185.
+
+Para determinar la sanción, se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
+
+###### Artículo 186.
+
+Las multas que imponga la autoridad educativa estatal serán ejecutadas por la instancia que determine la Secretaría de Administración y Finanzas del Estado, a través de los procedimientos y disposiciones aplicables por dicho órgano.
+
+###### Artículo 187.
+
+La revocación de la autorización otorgada a particulares produce efectos de clausura del servicio educativo de que se trate.
+
+El retiro de los reconocimientos de validez oficial de estudios, producirá sus efectos a partir de la fecha en que se notifique la resolución definitiva, por lo que los estudios realizados mientras que la institución contaba con el reconocimiento, mantendrán su validez oficial para evitar perjuicios a los educandos.
+
+A fin de que la autoridad que dictó la resolución adopte las medidas necesarias para evitar perjuicios a los educandos; el particular deberá proporcionar la información y documentación que, en términos de las disposiciones normativas, se fijen.
+
+###### Artículo 188.
+
+Las autoridades competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+
+###### Artículo 189.
+
+Las acciones de vigilancia a las que se refiere el artículo 182 de esta Ley que lleven a cabo las autoridades educativas del Estado, se realizarán de conformidad con el procedimiento establecido en los artículos 152 al 179 de la Ley General, previstos en su Capítulo II, del Título Décimo Primero y atenderán los lineamientos que emita la autoridad educativa federal en la materia.
+
+### Capítulo III. Del Recurso Administrativo
+
+###### Artículo 190.
+
+En contra de las resoluciones emitidas por las autoridades educativas en materia de autorización y reconocimiento de validez oficial de estudios y los trámites y procedimientos relacionados con los mismos, con fundamento en las disposiciones de esta Ley y las normas que de ella deriven, el afectado podrá optar entre interponer el recurso de revisión o acudir a la autoridad jurisdiccional que corresponda.
+
+###### Artículo 191.
+
+El plazo para interponer el recurso de revisión será de quince días hábiles, contados a partir del día siguiente de la fecha de la notificación de la resolución que se impugne. Transcurrido el plazo anterior, si el interesado no interpusiere el recurso, la resolución se tendrá como definitiva.
+
+###### Artículo 192.
+
+El recurso de revisión procede, entre otros, en contra de los siguientes actos:
+
+I. Sanciones que aplique la autoridad educativa, en los términos del artículo 184 de esta Ley, con motivo de la comisión de cualquiera de las infracciones previstas en el artículo 183;
+
+II. Resoluciones por las que se revoque o se retire la autorización o el reconocimiento de validez oficial de estudios;
+
+III. Sanciones por las que se decrete la clausura de planteles incorporados, según las infracciones previstas en el artículo 183 de esta Ley, en relación con el artículo 170 de la Ley General;
+
+IV.Sanciones pecuniarias que decrete la autoridad educativa estatal;
+
+V. Contra la negativa de la autoridad educativa estatal a dar respuesta a las solicitudes de autorización o de reconocimiento de validez oficial de estudios presentadas por los particulares; y
+
+VI.Contra otras violaciones administrativas demostradas fehacientemente.
+
+En el caso de la fracción V anterior, los particulares podrán interponer el recurso de revisión, cuando la autoridad educativa estatal no dé respuesta en un plazo de sesenta días hábiles siguientes a la presentación de las solicitudes de autorización o de reconocimiento de validez oficial de estudios.
+
+###### Artículo 193.
+
+El recurso de revisión se interpondrá por escrito ante la autoridad inmediata superior a la que emitió el acto recurrido u omitió responder la solicitud correspondiente, y deberá contener lo siguiente:
+
+I. El nombre y domicilio para recibir notificaciones;
+
+II. La documentación que acredite su personalidad y su interés jurídico;
+
+III. El acto o resolución que se impugna, la autoridad responsable, los agravios que se invocan y la fecha de notificación;
+
+IV. Los preceptos legales que estime violados y una relación sucinta de los hechos en que se base el recurso; y
+
+V. Los elementos de prueba que considere necesarios, excepto la confesional.
+
+En caso de que no se cumplan los requisitos señalados en este artículo, la autoridad educativa requerirá al recurrente para que dentro del plazo de cinco días hábiles siguientes, a partir de la fecha en que se le notifique, satisfaga los requisitos omitidos. Si el recurrente no cumple con lo anterior dentro del plazo concedido para ello, se tendrá por no interpuesto el recurso.
+
+###### Artículo 194.
+
+La interposición del recurso suspenderá la ejecución de la resolución impugnada, en cuanto al pago de multas.
+
+Respecto de cualquiera otra clase de resoluciones administrativas y de aplicación de sanciones no pecuniarias, por parte de la autoridad educativa, la suspensión sólo se otorgará si se cumplen los requisitos siguientes:
+
+I. Que lo solicite el recurrente;
+
+II. Que el recurso haya sido admitido;
+
+III. Que de otorgarse no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a esta Ley; y
+
+IV. Que no ocasione daños o perjuicios a los educandos o a terceros.
+
+###### Artículo 195.
+
+Al interponerse el recurso podrá ofrecerse toda clase de pruebas, excepto la confesional, y acompañarse con los documentos relativos. Si se ofrecen pruebas que requieran desahogo, se abrirá un plazo no menor de cinco ni mayor de treinta días hábiles para tales efectos. La autoridad educativa que esté conociendo del recurso podrá allegarse (sic) los elementos de convicción adicionales que considere necesarios.
+
+Una vez satisfechos todos los requisitos establecidos en el artículo 193 de esta Ley, y concluido el desahogo de pruebas, la autoridad educativa estatal dispondrá de un plazo de treinta días hábiles para dictar la resolución que corresponda.
+
+La resolución que se dicte será notificada a los interesados o a sus representantes legales, personalmente o por correo certificado con acuse de recibo.
+
+## Artículos Transitorios
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Segundo. Se abroga la Ley de Educación del Estado de Sinaloa, publicada el 26 de marzo de 2014 en el Periódico Oficial “El Estado de Sinaloa” y se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
+
+Tercero. La autoridad educativa estatal deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto, continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
+
+Cuarto. En tanto entran en vigor las Leyes Generales de Educación Superior y de Ciencia, Tecnología e Innovación, los asuntos en las materias, continuarán su trámite conforme a las disposiciones jurídicas aplicables vigentes en lo que no contravengan la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y el presente Decreto.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva, con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+Sexto. Las autoridades educativas, en coordinación con las autoridades correspondientes, realizarán consultas de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas o afromexicanas relativo a la aplicación de las disposiciones que, en materia de educación indígena, son contempladas en este Decreto; hasta en tanto, las autoridades educativas no realizarán ninguna acción derivada de la aplicación de dichas disposiciones.
+
+Séptimo. La Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Sinaloa, prevista en el artículo 51 de este Decreto, sustituye a la Comisión Estatal de Planeación y Programación de la Educación Media Superior del Estado de Sinaloa, y deberá quedar instalada en un plazo de sesenta días contados a partir de la entrada en vigor del mismo.
+
+Octavo. El Sistema Integral de Formación, Capacitación y Actualización del Estado de Sinaloa, previsto en el artículo 127 de este Decreto deberá instalarse antes de finalizar el año 2020.
+
+Noveno. El Programa de Mejora Continua previsto en el artículo 144 de esta Ley se presentará en un plazo no mayor a treinta días naturales por el Comité de Planeación y Evaluación de los respectivos Consejos Técnicos Escolares a la Autoridad Estatal Educativa la cual contará con igual número de días para su análisis y emisión; dicho proceso, que consta de sesenta días, empezará a contar a partir de la entrada en vigor de la misma. El Programa se actualizará en el caso de los cambios de administración del Poder Ejecutivo Estatal y observará lo establecido en la Ley de Educación para el Estado de Sinaloa.
+
+Décimo. La operación del Telebachillerato estará de acuerdo a la normatividad reglamentaria que se emita a nivel Federal y en el Estado.
+
+Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintinueve días del mes de octubre del año dos mil veinte.
+
+C. ROXANA RUBIO VALDEZ
+
+DIPUTADA PRESIDENTA
+
+C. JESÚS RAMÓN MONREAL CÁZARES
+
+DIPUTADO SECRETARIO
+
+C. MÓNICA LÓPEZ HERNÁNDEZ
+
+DIPUTADA SECRETARIA
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Es dado en el Palacio del Poder Ejecutivo del Estado en la ciudad de Culiacán Rosales, Sinaloa, a los seis días del mes de noviembre del año dos mil veinte.
+
+El Gobernador Constitucional del Estado
+
+QUIRINO ORDAZ COPPEL
+
+Secretario General de Gobierno
+
+GONZALO GÓMEZ FLORES
+
+Secretario de Administración y Finanzas
+
+LUIS ALBERTO DE LA VEGA ARMENTA
+
+Secretario de Educación Pública y Cultura
+
+JUAN ALFONSO MEJÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 567 DEL H. CONGRESO DEL ESTADO.- SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO, A LA FRACCIÓN XXXII, DEL ARTÍCULO 145 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 667 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LOS ARTÍCULOS 11, 15 Y 145 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 278 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DE LA FRACCIÓN XXXII DEL ARTÍCULO 145 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se dejan sin efecto todas las actuaciones realizadas previo al inicio de vigencia del presente Decreto.
+
+TERCERO. Para efectos de lo dispuesto en el artículo transitorio anterior el Titular del Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias correspondientes.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 385 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 99 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
+
+SEGUNDO. El objeto del presente Decreto quedará sujeto a disponibilidad presupuestal.
+
+P.O. 28 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 407 DEL H. CONGRESO DEL ESTADO.- LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas las disposiciones contenidas en las leyes y quedan sin efectos los reglamentos, acuerdos, lineamientos y disposiciones de carácter general contrarias a esta Ley.
+
+TERCERO. La gratuidad de la educación superior se implementará de manera progresiva en función de la suficiencia presupuestal, a partir del ciclo escolar 2023-2024, sin detrimento de las acciones que se realicen con la entrada en vigencia del presente Decreto. Especificándose que su monto nunca deberá ser igual o menor al monto aprobado para el ejercicio fiscal anterior. Lo anterior, sin menoscabo de lo señalado en la fracción VIII del artículo 8 de la Ley que se expide mediante el presente Decreto.
+
+CUARTO. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, se actualizará el Reglamento Interior de la autoridad educativa estatal para dar cumplimiento al presente Decreto.
+
+QUINTO. Dentro de los quince días siguientes a la entrada en vigor del presente Decreto, la autoridad educativa estatal convocará para la instalación de la Comisión Estatal para la Planeación de la Educación Superior, conforme a lo establecido en el artículo 55 de la Ley que se expide mediante el presente Decreto.
+
+SEXTO. La Secretaría de Educación Pública y Cultura deberá emitir y adecuar los acuerdos, reglamentos y lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor.
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron, al igual que los que se presenten hasta la emisión y adecuación de los correspondientes en los términos establecidos en el párrafo anterior, siempre que no contravengan el presente Decreto.
+
+SÉPTIMO. La Secretaría de Educación Pública y Cultura deberá emitir el acuerdo que esclarezca qué programas de educación superior en áreas relacionadas con la educación corresponden a cada autoridad educativa y otorgar el Reconocimiento de Validez Oficial de Estudios, en un plazo no mayor a sesenta días siguientes contados a partir de la entrada en vigor del presente decreto.
+
+OCTAVO. Las acciones a las que se refiere el artículo 46 del presente Decreto, referentes a la importancia para que las instituciones de educación superior se constituyan como espacios libres de violencia contra las mujeres y de discriminación hacia las mujeres deberán realizarse y reforzarse de manera progresiva y de acuerdo con la disponibilidad presupuestal de cada institución a partir de los ciento veinte días siguientes a su entrada en vigor.
+
+NOVENO. El Programa Estatal de Educación Superior deberá contemplar la cobertura, pertinencia, calidad, gestión y eficiencia institucional, dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente decreto, que deberá armonizar con el Programa Nacional de Educación Superior en términos de la Ley de Planeación para el Estado de Sinaloa y sus Municipios y demás disposiciones aplicables.
+
+DÉCIMO. Los trámites relacionados con el artículo 73 y que hayan sido iniciados con anterioridad a la Ley que se expide mediante el presente Decreto, se concluirán conforme a las disposiciones anteriores a la entrada en vigor de la misma.
+
+DÉCIMO PRIMERO. Los particulares del Estado beneficiados con los decretos presidenciales o acuerdos secretariales mantendrán el régimen jurídico que tienen reconocido, quedando a salvo los derechos que hubiesen adquirido y se regirán en lo conducente por las disposiciones de la Ley General y demás disposiciones legales aplicables.
+
+DÉCIMO SEGUNDO. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la autoridad educativa estatal iniciará y adecuará los marcos normativos que rigen a las Universidades Tecnológicas y Politécnicas, a efecto de que éstas cuenten con un marco organizativo acorde a su naturaleza académica y características institucionales para armonizarlas a los fines de la presente Ley.
+
+DÉCIMO TERCERO. Las Instituciones Públicas de Educación Superior podrán establecer mecanismos para recibir donativos, los cuales les permitan disponer de recursos para cuestiones específicas que fortalezcan su equipamiento y desempeño educativo.
+
+Las autoridades educativas de la institución correspondiente deberán aplicar la normatividad de transparencia y rendición de cuentas sobre los recursos obtenidos en donación, de conformidad con las disposiciones aplicables.
+
+DÉCIMO CUARTO. La persona titular de la Secretaría de Educación Pública y Cultura del Poder Ejecutivo conformará y decidirá la integración de la instancia estatal de vinculación, consulta y participación como parte integrante de la Comisión Estatal para la Planeación de la Educación Superior.
+
+P.O. 19 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 698 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS Y DE LA LEY DE EDUCACIÓN, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 419 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN, DE LA LEY DE SALUD MENTAL, Y DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 466 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN, LEY DE GOBIERNO MUNICIPAL, LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL, Y LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 529 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN Y LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, AMBAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa”.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación Pública y Cultura, deberá emitir los protocolos que regulen el uso responsable y seguro de teléfonos celulares y demás dispositivos electrónicos en instituciones de educación básica y media superior, en un plazo de ciento veinte días naturales, posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes a las disposiciones reglamentarias correspondientes, en un plazo que no exceda de los 90 días naturales posteriores al inicio de vigencia del presente Decreto.
