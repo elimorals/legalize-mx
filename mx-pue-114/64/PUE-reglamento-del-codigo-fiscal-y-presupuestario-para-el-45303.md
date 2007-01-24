@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-codigo-fiscal-y-presupuestario-para-el-45303"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-13"
-last_updated: "2006-03-27"
+last_updated: "2007-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO DEL CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2007.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 13 de junio de 2005.
 
@@ -629,71 +629,115 @@ XLII. Realizar el estudio, seguimiento y proyecciones presupuestarias derivadas 
 
 XLIII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y Sus Anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2007)</small>
 
-La Dirección de Ingresos estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los Jefes de Departamento de Ejecución u Oficina Ejecutora y del Jefe del Departamento de Registro y Fiscalización, así como de los Jefes de las Oficinas Receptoras de Pago y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+La Dirección de Ingresos estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los Jefes de Departamento de Ejecución u Oficina Ejecutora y del Jefe del Titular del Sistema Municipal de Registro y Fiscalización, así como de los Jefes de las Oficinas Receptoras de Pago y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE ENERO DE 2007)</small>
+
+Competencia del Sistema Municipal de Registro y Fiscalización.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2007)</small>
+
+Artículo 24 bis.- Es competencia del Sistema Municipal de Registro y Fiscalización:
 
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-Competencia del Departamento de Registro y Fiscalización.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
-
-Artículo 24 bis.- Es competencia del Departamento de Registro y Fiscalización:
-
 I. Vigilar que las Unidades Administrativas determinen en el ámbito de su competencia, mediante resolución y de acuerdo a los ordenamientos fiscales vigentes, la responsabilidad solidaria.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 II. Participar en la actualización de los Padrones de Contribuyentes de todas las actividades económicas del Municipio.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 III. Ordenar y practicar las visitas domiciliarias, inspecciones y verificaciones, realizar los demás actos que establezcan las Leyes Fiscales, los Convenios, sus anexos y las demás disposiciones que resulten aplicables, para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, productos, aprovechamientos y accesorios; practicar el embargo precautorio; así como expedir oficios de prórroga sobre el plazo en que se deban concluir los actos de fiscalización.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 IV. Requerir a los contribuyentes, responsables solidarios y demás obligados, las declaraciones correspondientes a los conceptos de ingresos coordinados, a fin de comprobar el cumplimiento de sus obligaciones fiscales.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 V. Requerir a los contribuyentes, responsables solidarios y a terceros con ellos relacionados, para que exhiban o proporcionen la contabilidad, declaraciones y avisos, documentos e informes, así como papeles de trabajo; recabar de los servidores públicos y de los fedatarios los informes y datos que tengan con motivo de sus funcione, para proceder a su revisión a fin de comprobar el cumplimiento de las obligaciones, así como autorizar o negar prorrogas para su presentación, Tratándose de las revisiones previstas en esta fracción; emitir los oficios de observaciones, el de conclusión de la revisión y en su caso el de prórroga de la revisión.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 VI. Habilitar días y horas inhábiles para el ejercicio de sus atribuciones.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 VII. Comunicar al Tesorero y a las demás áreas que legalmente lo soliciten, los resultados obtenidos en la revisión de la documentación e información, en las oficinas de las autoridades, así como de las visitas domiciliarias de auditoría, inspección y de verificación.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 VIII. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a estos, conocidos con motivo de la revisión de dictámenes, de la revisión de la documentación e información en las oficinas de las autoridades o de las visitas domiciliarias, inspecciones y verificaciones que les practiquen, y hacer constar dichos hechos u omisiones en el oficio de observaciones o en la última acta parcial que se levante.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 IX. Recibir las promociones y documentos que presenten los contribuyentes, responsables solidarios y demás obligados, así como las pruebas que ofrezcan, respecto de los hechos consignados en las actas de visita domiciliaria, tomando en cuenta las mismas, en su caso, al practicar la liquidación de créditos fiscales.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 X. Determinar la existencia de créditos fiscales, precisar las bases para su liquidación y fijarlos en cantidad liquida, imponer las sanciones fiscales que correspondan, respecto de los ingresos municipales, así como de los coordinados y demás accesorios, a cargo de los contribuyentes obligados y responsables solidarios.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 XI. Verificar que los contribuyentes, responsables solidarios y terceros con ellos relacionados, cumplan con la obligación de observar los medios de control previstos en el Código y las leyes fiscales de la competencia del Municipio.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 XII. Investigar las denuncias de infracciones fiscales y tratándose de delitos fiscales, reunir los elementos necesarios para que la autoridad competente formule la denuncia o querella que corresponda.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 XIII. Remitir al Director de Ingresos las solicitudes que presenten los contribuyentes para declarar la caducidad de las facultades de las autoridades fiscales, para determinar contribuciones omitidas y sus accesorios, para imponer sanciones a dichas disposiciones, salvo que se haga valer como excepción, en cuyo caso se remitirá a la Dirección Jurídica para su resolución.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 XIV. Remitir al Director de Ingresos las solicitudes que presenten los contribuyentes para declarar la prescripción de los créditos fiscales, salvo que se haga valer como excepción, en cuyo caso se remitirá a la Dirección Jurídica para su resolución.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 XV. Colocar sellos y marcas oficiales, con el fin de identificar o asegurar documentación, negociones, o establecimientos sujetos a comprobación de obligaciones fiscales.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 XVI. Colocar sellos y marcas oficiales, con el fin de suspender o clausurar cualquier división o espectáculos públicos, cuando los sujetos de este impuesto se nieguen a permitir que los inspectores o interventores cumplan con su comisión, o cuando no se cumplan o se violen las disposiciones que al respecto estables el Código.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 XVII. Colocar sellos y marcas oficiales, con el fin de clausurar establecimientos que incumplan con la obligación de contar con licencia de funcionamiento, después de transcurrido el termino que establece el Código.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 XVIII. Colocar sellos y marcas oficiales, una vez que se haya dado cumplimiento a las disposiciones fiscales.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 XIX. Nombrar a los inspectores o inventores para que realicen los actos de inspección, verificación y clausura a que se refiere este artículo.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
 XX. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus Anexos y las que le confiera el Ayuntamiento, el Presidente, el Tesorero o el Director de Ingresos.
 
-El Departamento de Registro y Fiscalización, estará adscrito a la Dirección de Ingresos y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejerció de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2007)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+El Sistema Municipal de Registro y Fiscalización es un órgano desconcentrado por función, dotado de autonomía técnica que forma parte de la Dirección de Ingresos, estará a cargo de un titular con nivel de Director auxiliado por las áreas administrativas a que se refieren los incisos del g) al j),de la fracción IV, del artículo 26 del Código Fiscal y Presupuestario para el Municipio de Puebla, y los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2007)</small>
 
-Artículo 24 ter.- Además de las facultades señaladas en el artículo que antecede el Departamento de Registro y Fiscalización, con el fin de verificar el cumplimiento de obligaciones fiscales derivadas de diversas disposiciones reglamentarias, así como la presentación de documentos e informes relacionados con el cumplimiento de las mismas, es competente:
+Artículo 24 ter.- Además de las facultades señaladas en el artículo que antecede el Sistema Municipal de Registro y Fiscalización, con el fin de verificar el cumplimiento de obligaciones fiscales derivadas de diversas disposiciones reglamentarias, así como la presentación de documentos e informes relacionados con el cumplimiento de las mismas, es competente:
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
 
 I. En materia de protección civil, para:
 
 a) Verificar, en coordinación con la Unidad Operativa Municipal de Protección Civil que los propietarios, administradores o responsables de sitios públicos, cuenten con los equipos e instalaciones para prevenir y combatir incendios, en términos de lo establecido por el Código Reglamentario; y
 
 b) Ejercer las funciones de vigilancia e inspección en materia de Protección Civil en todo tipo de establecimientos tanto industriales como comerciales o de servicios, de conformidad al acuerdo de coordinación que en su caso se suscriba con la Unidad Operativa Municipal de Protección Civil.
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
 
 II. En materia de espectáculos, para:
 
@@ -705,6 +749,8 @@ c) Vigilar e inspeccionar que las diversiones o espectáculos públicos, cumplan
 
 d) Intervenir, la taquilla, suspender o clausurar cualquier diversión o espectáculo público, cuando los responsables del espectáculo se nieguen a permitir que se desarrollen las actividades de fiscalización, o cuando no se cumplan o se violen las disposiciones que establece el Código, el Código Reglamentario y la Ley de Ingresos del Municipio aplicable.
 
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
+
 III. En materia de espectáculos taurinos, para:
 
 a) Otorgar el permiso para destinar una Plaza de Toros a cualquier otro espectáculo distinto al taurino, debidamente firmado por el Tesorero, previa verificación de que se ha cumplido con los requisitos previos establecidos en el artículo 510 del Código Reglamentario;
@@ -715,6 +761,8 @@ c) Revisar en todo momento, los documentos en que consten los nombres de los ten
 
 d) Otorgar a los Empresarios el permiso correspondiente, debidamente firmado por el Tesorero, cuando por causas de fuerza mayor sea necesario hacer algún cambio al programa correspondiente.
 
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
+
 IV. En materia de venta de bebidas alcohólicas, para:
 
 a) Verificar que no se lleve a cabo la venta, enajenación y consumo de bebidas alcohólicas en días y horarios prohibidos;
@@ -724,6 +772,8 @@ b) Verificar que los establecimientos autorizados para la venta o consumo de beb
 c) Verificar que los establecimientos autorizados para la venta o consumo de bebidas alcohólicas, no ocurran hechos que incidan en la seguridad de los clientes o personas que concurran al establecimiento que pudieran derivar en graves consecuencias para éstos; y
 
 d) Dar seguimiento a las denuncias populares relativas a los establecimientos que violen las disposiciones señaladas en el Código Reglamentario.
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
 
 V. En materia de Comercio Establecido, Ambulante, Semifijo y Prestadores Ambulantes de Servicios en la Vía Pública del Municipio de Puebla, para:
 
@@ -742,6 +792,8 @@ f) Autorizar la expedición de permisos especiales, para la celebración de fies
 g) Verificar que los establecimientos comerciales y de servicios, comercio ambulante, semifijo y prestadores ambulantes de servicios en la vía pública del Municipio, que se dediquen a la distribución o comercialización de productos no tengan dicho material a la vista del público en general, ni realicen su distribución o comercialización a menores de edad, debiéndose entender por pornografía, toda representación, por cualquier medio, de hombres y/o mujeres dedicados a actividades sexuales explicitas, reales o simuladas, o toda representación de sus partes genitales fines primordialmente sexuales; y
 
 h) Verificar que los establecimientos comerciales y de servicios, comercio ambulante, semifijo y prestadores ambulantes de servicios en la vía pública del Municipio, no vendan, distribuyan o tengan en posesión productos de cualquier índole en donde se presente o reproduzca pornografía infantil, debiéndose entender por pornografía infantil, toda representación, por cualquier medio, de un niño o niña dedicado a actividades sexuales explicitas, reales o simuladas, o toda representación de las partes genitales de un niño o niña con fines primordialmente sexuales.
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
 
 VI. En materia de Mercados Municipales, para:
 
@@ -765,9 +817,13 @@ i) Verificar que los locatarios ocupantes de los locales en los mercados públic
 
 j) Otorgar a los comerciantes de los mercados municipales y previo cumplimiento de las disposiciones señaladas en el Código Reglamentario, la autorización para traspasar sus derechos sobre locales y giros a que se destine, así como para cambiar el giro de las actividades comerciales que se les hubiere autorizado.
 
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
+
 VII. En materia de Estacionamientos, para:
 
 Verificar que los particulares que lleven a cabo el servicio de estacionamiento y guarda de vehículos en el municipio, cuenten con la licencia o concesión correspondiente y que cumplan con las disposiciones, obligaciones, restricciones o condiciones establecidas en el Código Reglamentario y el acto administrativo que les otorgue el derecho a la prestación del servicio.
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
 
 VIII. En materia de control para el expendio de pinturas en aerosol y substancias con efectos tóxicos en el Municipio.
 
@@ -789,11 +845,15 @@ h) Para conocer y verificar el cumplimiento de obligaciones fiscales derivadas d
 
 i) Para determinar infracciones, calificarlas e imponer las sanciones correspondientes por violaciones al marco normativo aplicable.
 
-El Jefe del Departamento de Registro y Fiscalización estará obligado a llevar un registro y control de todas y cada una de las licencias, permisos, autorizaciones o refrendos expresamente otorgados o negados, así como aquéllas otorgadas o negadas por falta de contestación a las solicitudes respectivas, en los plazos correspondientes, debiendo remitir mensualmente un reporte de dicho registro, al Tesorero Municipal, con copia al Contralor Municipal, la inobservancia a lo dispuesto en el presente artículo, será causa de responsabilidad administrativa.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2007)</small>
+
+El Titular Sistema Municipal de Registro y Fiscalización estará obligado a llevar un registro y control de todas y cada una de las licencias, permisos, autorizaciones o refrendos expresamente otorgados o negados, así como aquéllas otorgadas o negadas por falta de contestación a las solicitudes respectivas, en los plazos correspondientes, debiendo remitir mensualmente un reporte de dicho registro, al Tesorero Municipal, con copia al Contralor Municipal, la inobservancia a lo dispuesto en el presente artículo, será causa de responsabilidad administrativa.
 
 DE LAS NOTIFICACIONES
 
-Las notificaciones que deba realizar el Departamento de Registro y Fiscalización con motivo de la solicitud de licencias, permisos, autorizaciones o refrendos, se harán en los estrados que se colocarán por un término de tres días hábiles en lugar visible dentro de la Tesorería Municipal.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2007)</small>
+
+Las notificaciones que deba realizar el Sistema Municipal de Registro y Fiscalización con motivo de la solicitud de licencias, permisos, autorizaciones o refrendos, se harán en los estrados que se colocarán por un término de tres días hábiles en lugar visible dentro de la Tesorería Municipal.
 
 Competencia del Departamento de Ejecución u Oficina Ejecutora.
 
@@ -829,7 +889,7 @@ El Departamento de Ejecución u Oficina Ejecutora, estará adscrita a la Direcci
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE FEBRERO DE 2006)</small>
 
-Competencia del Director de Catastro Municipal.
+Competencia del Director de Catastro Municipal:
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
 
@@ -975,41 +1035,63 @@ Competencia de la Dirección de Registro y Fiscalización.
 
 (DEROGADO, P.O. 24 DE FEBRERO DE 2006)
 
-Competencia del Jefe de la Oficina Jurídica.
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE ENERO DE 2007)</small>
+
+Competencia del Director Jurídico de la Tesorería Municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2007)</small>
 
 ###### Artículo 28.
 
-Es competencia del Jefe de la Oficina Jurídica:
+Es competencia del Director Jurídico de la Tesorería Municipal:
 
 I. Elaborar los anteproyectos de leyes, decretos, reglamentos, convenios, acuerdos y circulares de la competencia de la Tesorería;
 
-II. Proponer al Tesorero, la normatividad que deba emitir relacionada con las materias de su competencia;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2007)</small>
 
-III. Vigilar la publicación oficial de los actos que sean competencia de la Tesorería, compilar dichas publicaciones y darlas a conocer oportunamente a las autoridades fiscales;
+II. Proponer al Tesorero la normatividad y disposiciones de observancia general que deba emitir o validar, relacionadas con las materias de su competencia;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2007)</small>
+
+III. Vigilar la publicación oficial de los actos, disposiciones generales, acuerdos y normatividad que sean competencia de la Tesorería, aun cuando emanen de autoridades, compilar dichas publicaciones y darlas a conocer oportunamente a las autoridades fiscales;
 
 IV. Auxiliar al Síndico para el ejercicio de las facultades que le corresponden, vinculadas a las controversias y trámites que sean de competencia de la Tesorería;
 
-V. Auxiliar al Síndico para la promoción de denuncias o querellas ante las autoridades competentes, respecto de hechos presuntivamente ilícitos que conozca de manera oficial, que sean perpetrados en contra del interés fiscal;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2007)</small>
 
-VI. Auxiliar a las autoridades fiscales que lo requieran, a efecto de rendir el informe y remitir a la Dirección Jurídica el expediente relativo al recurso de revisión a que se refiere el artículo 2 del Código;
+V. Auxiliar al Síndico para la promoción de denuncias o querellas ante las autoridades competentes, respecto de hechos presuntivamente ilícitos que conozca de manera oficial que sean perpetrados en contra del interés fiscal y en su caso, emitir la declaratoria de perjuicios al interés fiscal;
 
-VII. Coordinarse con el Síndico, las autoridades fiscales de otros niveles de gobierno o entidades públicas, para la defensa de los intereses de carácter tributario, respecto de ingresos municipales u otros sujetos a convenio;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2007)</small>
 
-VIII. Preparar los informes periódicos que deba rendir la Tesorería relacionados con los juicios en que intervenga, de conformidad con los convenios de colaboración administrativa y sus anexos, que celebre el Gobierno del Municipio;
+VI. Auxiliar a las autoridades fiscales que lo requieran, a efecto de rendir el informe y remitir a la Dirección Jurídica el expediente relativo al Recurso de Revisión a que se refiere el artículo 2 del Código, vigilando de ser procedente, la debida cumplimentación de las resoluciones;
 
-IX. Auxiliar al Sindico para hacer efectivos los depósitos, títulos de crédito y en general cualquier garantía, o derecho otorgados en favor del erario, salvo el caso de las fianzas;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2007)</small>
+
+VII. Coordinarse con el Síndico, las autoridades fiscales de otros niveles de gobierno o entidades públicas, para la defensa de los intereses de carácter tributario y administrativo, respecto de ingresos municipales u otros derechos en materia hacendaría;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2007)</small>
+
+VIII. Preparar los informes periódicos que deba rendir la Tesorería relacionados con los juicios en que intervenga en defensa del interés fiscal municipal y de conformidad con los convenios de colaboración administrativa y sus anexos, que celebre el gobierno del municipio;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2007)</small>
+
+IX. Auxiliar al Sindico para hacer efectivos los depósitos, títulos de crédito y en general cualquier garantía, o derecho otorgados a favor del erario, salvo el caso de las fianzas en la que observará la competencia que deriva de las disposiciones federales aplicables;
 
 X. Auxiliar al Tesorero a efecto de hacer efectivas las fianzas otorgadas en favor del erario;
 
 XI. Elaborar los formatos que utilice la Tesorería, en el ejercicio de sus facultades;
 
-XII. En general atender o auxiliar en los asuntos de naturaleza Jurídica de la competencia de la Tesorería, y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2007)</small>
+
+XII. En general atender o auxiliar en los asuntos de naturaleza jurídica y administrativa de la competencia de la Tesorería;
 
 XIII. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos, decretos, convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
 
-La Jefatura de la Oficina Jurídica, esta adscrita al Tesorero y a cargo de un Titular, auxiliado por las áreas administrativas y los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+La Director Jurídico de la Tesorería Municipal, estará adscrita al Tesorero y a cargo de un Titular, auxiliado por las áreas administrativas y los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
 
 Competencia de la Dirección de Egresos.
 
@@ -1363,7 +1445,9 @@ IV. En ningún caso los testigos pueden ser sustituidos al cerrar el acta;
 
 V. Los verificadores deben asentar en el acta que formulen, los pormenores del documento con el cual se identifiquen;
 
-VI. Las actas de verificación levantadas por el personal del Departamento de Registro y Fiscalización deberán ser firmadas por los verificadores, debiéndose considerar como tales, a quienes se hayan identificado debidamente al inicio de la diligencia administrativa, así como por los testigos designados, si los hubiera;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2007)</small>
+
+VI. Las actas de verificación levantadas por el personal del Sistema Municipal de Registro y Fiscalización deberán ser firmadas por los verificadores, debiéndose considerar como tales, a quienes se hayan identificado debidamente al inicio de la diligencia administrativa, así como por los testigos designados, si los hubiera;
 
 VII. Las actas de verificación pueden conformarse por un número indeterminado de hojas o anexos. Los verificadores pueden elaborar cédulas o papeles de trabajo adjuntos en los que se detalle la documentación exhibida por el visitado, o bien, en los que sustenten sus observaciones, las cuales deberán ser firmadas por los que intervinieron en la verificación. Si alguna de las personas que intervino en la verificación se niega a firmar dichos documentos, los visitadores lo asentarán en el acta respectiva señalando las causas de tal situación;
 
@@ -1852,3 +1936,13 @@ Se instruye a la Contraloría Municipal, a efecto de que haga del conocimiento d
 SEXTO. Se incluye al Tesorero Municipal, para que en un periodo máximo de sesenta días hábiles, contados a partir del día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Estado, remita a este Honorable Cabildo para su aprobación, las bases, para crear uno o más Fondos de Productividad, distribuible entre los servidores públicos adscritos al Departamento de Registro y Fiscalización de la Dirección de ingresos de la Tesorería Municipal, que intervienen de forma directa o indirecta en el ejercicio de las facultades de comprobación, determinación, notificación y ejecución de multas fiscales o aquellas derivadas del incumplimiento a disposiciones reglamentarias. Departamento creado mediante Sesión Ordinaria de Cabildo de fecha catorce de diciembre de dos mil cinco y establecido en los artículos 24 párrafo primero, y 24 bis párrafo primero del Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla.
 
 SÉPTIMO. Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+P.O. 24 DE ENERO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Las órdenes, actos o procedimientos suscritos por el Jefe del Departamento de Registro y Fiscalización, se entenderán emitidos a partir del inicio de la vigencia de la presente reforma, por el Sistema Municipal de Registro y Fiscalización.
+
+TERCERO.- Los procedimientos iniciados por el Departamento de Registro y Fiscalización deberán se (sic) concluidos por el Sistema Municipal de Registro y Fiscalización, haciendo saber por escrito fundado y motivado a los visitados, sobre la presente reforma.
+
+CUARTO.- El Sistema Municipal de Registro y Fiscalización deberá incluir en el Programa de Fiscalización que será sometido al Cabildo de los primeros treinta días de cada Ejercicio Fiscal, indicadores de gestión que proporcionen elementos para la revisión de resultados en la observancia de dicho programa.
