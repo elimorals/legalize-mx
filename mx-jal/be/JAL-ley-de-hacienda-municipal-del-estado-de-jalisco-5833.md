@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2007-01-04"
+last_updated: "2007-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -2079,9 +2079,11 @@ Tratándose de giros en los que se realicen actividades en forma eventual o que 
 
 Se entiende por gasto público municipal, el conjunto de las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o deuda pública que realice el Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Art. 202.
 
-El gasto público municipal, para su correcta aplicación y la consecución de sus objetivos, se basará en el Presupuesto de Egresos, el que deberá formularse en base de programas que señalen los objetivos, metas y las unidades responsables de su ejecución, traducidos en partidas presupuestales.
+El gasto público municipal, para su correcta aplicación y la consecución de sus objetivos, se basará en el presupuesto de egresos, el que deberá formularse en base de programas que señalan los objetivos, metas y las unidades responsables de su ejecución, traducidos en capítulos, conceptos y partidas presupuestales.
 
 > <small>(F. DE E., P.O. 7 DE JUNIO DE 1984)</small>
 
@@ -2123,51 +2125,49 @@ El Presidente Municipal, para la elaboración del presupuesto de egresos, presen
 
 I. La estimación de los ingresos a recaudar, tomando como base los rubros señalados en la Ley de Ingresos correspondiente al ejercicio fiscal siguiente;
 
-II. Las previsiones de gastos destinados a cada ramo administrativo, para el sostenimiento y desarrollo de los servicios públicos en el siguiente ejercicio fiscal; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
+
+II. Las previsiones de gastos destinados a cada capítulo, concepto y partida, para el sostenimiento del desarrollo de los servicios públicos en el siguiente ejercicio fiscal; y
 
 III. Los demás informes financieros y datos estadísticos que estime conveniente agregar, para la mejor comprensión de su política hacendaria y del programa de trabajo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Art. 207.
 
-Las previsiones de egresos a que se refiere la fracción II del artículo anterior, se clasificarán de acuerdo a su naturaleza, por unidades de administración, conforme a las siguientes bases:
+Las previsiones de egresos a que se refiere la fracción II del artículo anterior, se clasificarán de acuerdo a su naturaleza, por objeto del gasto, conforme a las siguientes bases:
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
-1ª. Los ramos fundamentales para la clasificación del gasto público serán:
+1a. Los capítulos fundamentales para la clasificación del gasto público serán:
 
-I. Gobernación;
+I. Servicios Personales;
 
-II. Delegaciones y agencias;
+II. Materiales y Suministros;
 
-III. Hacienda Pública;
+III. Servicios Generales;
 
-IV. Obras Públicas;
+IV. Subsidios y Subvenciones;
 
-V. Servicios Públicos;
+V. Bienes Muebles e Inmuebles;
 
-VI. Mantenimiento de los servicios administrativos;
+VI. Obras Públicas;
 
-VII. Mantenimiento de los servicios públicos;
+VII. Erogaciones Diversas; y
 
-VIII. Mantenimiento de los servicios sociales y asistenciales;
+VIII. Deuda Pública.
 
-IX. Inversiones y construcciones; y
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
-X. Deuda pública;
+2a. Estos capítulos se dividirán en conceptos, que representarán los grupos de autorización de naturaleza semejante; y
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
 
-XI. Fondo de Aportaciones Federales para fines específicos.
+3a. Los conceptos se dividirán en partidas que representen en forma específica el gasto público.
 
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
-XII. Responsabilidad patrimonial.
-
-2ª. Estos ramos se dividirán en partidas, que representarán en forma específica el gasto público; y
-
-3ª. Las partidas se dividirán en claves que representen las asignaciones específicas, destinadas a satisfacer necesidades concretas de la administración municipal.
-
-Los ramos, partidas y claves que se utilizarán para la elaboración del presupuesto de egresos, deberán ajustarse al catálogo proporcionado por el Congreso del Estado, para los efectos de la revisión de la cuenta pública.
+Los capítulos, conceptos y partidas que se utilizarán para la elaboración del presupuesto de egresos, deberán ajustarse al catálogo proporcionado por el Congreso del Estado, a través de la Auditoría Superior del Estado, para los efectos de la revisión de la cuenta pública.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
@@ -2201,7 +2201,9 @@ V. Estimación de ingresos y gastos del ejercicio fiscal en curso;
 
 VI. Ingresos y gastos reales del último ejercicio fiscal;
 
-VII. Las previsiones de egresos destinados a cada ramo administrativo, para el sostenimiento y desarrollo de los servicios públicos en el siguiente ejercicio fiscal;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
+
+VII. Las previsiones de egresos destinados a cada capítulo, concepto y partida, para el sostenimiento y desarrollo de los servicios públicos en el siguiente ejercicio fiscal;
 
 > <small>(REFORMADA, P.O. 23 DE ENERO DE 2001)</small>
 
@@ -3448,3 +3450,11 @@ P.O. 7 DE DICIEMBRE DE 2006.
 P.O. 4 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Tratándose de la cuenta pública municipal de los Ayuntamientos del Estado, correspondiente a los meses del ejercicio fiscal del año 2007, ésta deberá presentarse conforme a las disposiciones que estuvieron en vigor antes de la entrada en vigor de este decreto.
+
+TERCERO.- En lo conducente, cuando en las disposiciones legales o administrativas de aplicación municipal; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a ramos, partidas y claves, se entenderán referidos a capítulos, conceptos y partidas.
