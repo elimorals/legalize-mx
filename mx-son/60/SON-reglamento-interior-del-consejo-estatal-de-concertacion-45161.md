@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-consejo-estatal-de-concertacion-45161"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-12"
-last_updated: "2005-05-12"
+last_updated: "2007-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONCERTACION PARA LA OBRA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE ENERO DE 2007.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 12 de mayo de 2005.
 
@@ -67,13 +67,17 @@ II.- ÓRGANOS CIUDADANOS DE APOYO:
 
 - Comités de participación social.
 
+> <small>(REFORMADA, B.O. 25 DE ENERO DE 2007)</small>
+
 III.- UNIDADES ADMINISTRATIVAS:
 
 - Dirección General de Concertación y Apoyo Técnico.
 
+- Dirección General de Organización Social.
+
 - Dirección General de Administración y Finanzas, y
 
-- Secretaría Técnica.
+- Secretaría de Gestión.
 
 SE ANEXA ORGANIGRAMA ESTRUCTURAL.
 
@@ -88,6 +92,24 @@ DEL CONSEJO DIRECTIVO.
 #### SECCIÓN PRIMERA.
 
 INTEGRACIÓN Y ATRIBUCIONES.
+
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
+
+###### ARTÍCULO 4º.
+
+El máximo órgano de gobierno del Consejo Estatal de Concertación para la Obra Pública es su Consejo Directivo, el cual se integra por:
+
+I.- Un Presidente, que será el Gobernador del Estado;
+
+II.- Un Vicepresidente, representante de la sociedad civil, que será el Presidente de la Junta Estatal de Participación Social;
+
+III.- Un representante de la sociedad civil, designado por el Presidente del Consejo Directivo;
+
+IV.- Un Tesorero, que será un representante de la sociedad civil; y
+
+V.- Diez vocales, que serán tres representantes de la sociedad civil; tres presidentes municipales; los titulares de las Secretarías de Hacienda, de Infraestructura y Desarrollo Urbano, de Economía y de Desarrollo Social.
+
+Los integrantes del Consejo Directivo se desempeñarán en forma honorífica.
 
 ###### ARTÍCULO 4°.
 
@@ -157,89 +179,125 @@ XVII.- Revisar y aprobar, en su caso, las propuestas para la ejecución concerta
 
 XVIII.- Delegar facultades al Primer Vicepresidente del Consejo Directivo, cuando por razones de operatividad se considere conveniente;
 
-XIX.- Atender los informes que en materia de control y auditoria le sean turnados, vigilando la implantación de las medidas correctivas a que hubiere lugar; y (sic)
+> <small>(REFORMADA, B.O. 25 DE ENERO DE 2007)</small>
 
-XX.- Evaluar la forma en que los objetivos serán alcanzados y la manera en que las estrategias básicas serán conducidas, atendiendo además, los informes que en materia de control y auditoría le sean turnados y vigilará la implantación de las medidas correctivas a que hubiese lugar, y
+XIX.- Atender los informes que en materia de control y auditoría le sean turnados, vigilando la implantación de las medidas correctivas a que hubiere lugar;
 
-XXI.- Las demás que le confieran este reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA, B.O. 25 DE ENERO DE 2007)</small>
+
+XX.- Evaluar la forma en que los objetivos serán alcanzados y la manera en que las estrategias básicas serán conducidas;
+
+> <small>(REFORMADA, B.O. 25 DE ENERO DE 2007)</small>
+
+XXI.- Aprobar el calendario anual de sesiones del Consejo Directivo del Organismo; y
+
+> <small>(ADICIONADA, B.O. 25 DE ENERO DE 2007)</small>
+
+XXII.- Las demás que le confieran este Reglamento y otras disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA.
 
 DEL FUNCIONAMIENTO.
 
-###### ARTÍCULO 8º.
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
 
-Las sesiones del Consejo Directivo serán ordinarias y extraordinarias.
+###### ARTÍCULO 8°.
 
-Las sesiones ordinarias se celebrarán por lo menos tres veces al año, y tendrán por objeto acordar los diversos asuntos derivados de los programas, proyectos y actividades del Consejo Estatal de Concertación para la Obra Pública.
-
-Las sesiones extraordinarias se llevarán a cabo las ocasiones que sean necesarias, para tratar asuntos de especial importancia o relevancia, a solicitud de su Presidente o por acuerdo de éste, del Primer Vicepresidente.
+Las sesiones del Consejo Directivo serán ordinarias y extraordinarias. Las sesiones ordinarias se celebrarán cuando menos una vez cada tres meses, y en forma extraordinaria las veces que fueren necesarias, previa convocatoria que realice el Secretario Técnico del propio órgano de gobierno. En la última sesión ordinaria del Consejo Directivo que se celebre en el año, se aprobará el calendario anual de sesiones a celebrarse durante el ejercicio siguiente.
 
 ###### ARTÍCULO 9º.
 
 La sede de las sesiones será el salón de juntas del edificio del Consejo Estatal de Concertación para la Obra Pública, o bien, el lugar que el propio Consejo Directivo del Organismo determine.
 
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
+
 ###### ARTÍCULO 10.
 
-El presidente del Consejo Directivo presidirá las sesiones y, en caso de ausencia, corresponderá al Primer Vicepresidente del propio Organismo asumir esta función.
+El Presidente del Consejo Directivo presidirá las sesiones, las cuales deberán iniciarse en la fecha y hora señalada en la convocatoria, debiendo sujetarse su desarrollo a lo previsto en el orden del día, por lo que no podrá alterarse la secuencia de los asuntos asentados en el mismo, ni tampoco tratarse asuntos diversos que no se hayan contemplado en el propio orden del día y sus decisiones se tomarán por mayoría de votos de los integrantes presentes; en caso de empate, el Presidente o su suplente tendrá voto de calidad.
+
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 11.
 
-Las sesiones del Consejo Directivo del organismo serán válidas cuando asista la mitad más uno de sus miembros, siempre que entre ellos se encuentre el Presidente o el Primer Vicepresidente del propio consejo; sus decisiones se tomarán por mayoría de votos de los integrantes presentes, y en caso de empate, el Presidente, y en ausencia de éste, el Primer Vicepresidente tendrá voto de calidad.
+Las sesiones del Consejo Directivo del organismo serán válidas cuando asista la mitad más uno de sus miembros, para lo cual, posteriormente al pasarse lista de asistencia, el Comisario Público deberá hacer la verificación del quórum legal respectivo, y en su caso, quien presida la sesión procederá a declarar formalmente instalada la misma.
+
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 12.
 
-Para la celebración de las sesiones del Consejo Directivo, se deberá emitir convocatoria a la cual se acompañará el orden del día y el proyecto de acta de la sesión anterior.
+Para la celebración de las sesiones del Consejo Directivo, se deberá emitir convocatoria por el Secretario Técnico en forma personal a cada uno de los miembros. A la convocatoria se acompañará el orden del día y el apoyo documental de cada uno de los puntos señalados en dicho orden del día, mismos que se harán llegar a los integrantes de dicho consejo, cuando menos con cinco días hábiles de anticipación a la fecha de la celebración de la sesión, cuando ésta tenga carácter de ordinaria y con cuarenta y ocho horas, cuando sea extraordinaria.
 
-Dicha convocatoria se hará del conocimiento de los integrantes del Consejo Directivo, cuando menos con siete días naturales de anticipación a la fecha de celebración de la sesión, cuando ésta tenga el carácter de ordinaria, y con tres días naturales, cuando sea extraordinaria.
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 13.
 
-Las sesiones ordinarias del Consejo Directivo, se desarrollarán en el siguiente orden:
+Las sesiones del Consejo Directivo del organismo deberán iniciarse en la fecha, hora y lugar señalada en la convocatoria, debiendo tratarse únicamente los asuntos indicados en la misma y, las ordinarias se desarrollaran conforme al orden del día correspondiente, que por lo menos contendrá los aspectos siguientes:
 
-I.- Lista de asistentes y declaratoria relativa al quórum;
+I.- Lista de asistencia;
 
-II.- Instalación legal de la reunión;
+II.- Verificación de quórum legal por parte del comisario;
 
-III.- Lectura y aprobación, en su caso, del acta de la sesión anterior;
+III.- Lectura y aprobación del orden del día;
 
-IV.- Análisis del informe que presente el Coordinador General respecto de las actividades del organismo y, en su caso, sobre el cumplimiento de acuerdos;
+IV.- Lectura del acta de la sesión anterior;
 
-V.- Informe del Tesorero del Consejo Directivo, respecto de la situación que guardan las finanzas del organismo;
+V.- Informe del Coordinador General;
 
-VI.- Informe del comisario público;
+VI.- Informe del comisario;
 
-VII.- Discusión y resolución de los asuntos comprendidos en el orden del día;
+VII.- Lectura, discusión y, en su caso, aprobación de asuntos;
 
-VIII.- Asuntos generales, y
+VIII.- Asuntos generales;
 
-IX.- Clausura de la reunión.
+IX.- Resumen de acuerdos aprobados; y
+
+X.- Clausura.
+
+Las sesiones extraordinarias se llevarán a cabo las ocasiones que sean necesarias para tratar asuntos que por su especial importancia, relevancia o urgencia lo ameriten y en el orden del día correspondiente se exceptuarán los asuntos indicados en los puntos IV, V, VI y VIII antes indicados.
+
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 14.
 
-En el supuesto de que la reunión convocada no pudiera llevarse a cabo en la fecha prevista, deberá celebrarse ésta entre los cinco y quince días hábiles siguientes. Si se hubiere suspendido por falta de quórum, la sesión será válida con quienes acudan en segunda convocatoria, siempre y cuando entre los asistentes se encuentre el Presidente o el Primer Vicepresidente del Consejo Directivo.
+En el supuesto de que la reunión convocada no pudiera llevarse a cabo en la fecha prevista, deberá celebrarse entre los tres y diez días hábiles siguientes cuando se trate de sesiones ordinarias, y dentro de las cuarenta y ocho horas siguientes cuando se trate de sesiones extraordinarias, previa la notificación correspondiente que realice el Secretario Técnico, en ambos casos, a los miembros del Consejo.
+
+Será causa de suspensión de sesiones del Consejo Directivo el hecho de que no se hubiese entregado con la debida anticipación tanto la convocatoria como la información, documentación y material necesario para la discusión de los asuntos del orden del día.
+
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 15.
 
-Los integrantes del Consejo Directivo tendrán derecho de voz y voto en la toma de decisiones, respecto de los asuntos que se traten en las sesiones del citado consejo.
+Los integrantes del Consejo Directivo tendrán derecho a voz y voto en la toma de decisiones, respecto de los asuntos que se traten en las sesiones del mencionado consejo, excepto el Secretario Técnico, quien tendrá solo derecho a voz.
 
 ###### ARTÍCULO 16.
 
 El Consejo Directivo, cuando lo estime conveniente, podrá invitar a sus sesiones a servidores públicos y a representantes de los sectores social y privado, quienes podrán participar en las mismas con voz, pero sin voto.
 
+> <small>(ADICIONADO, B.O. 25 DE ENERO DE 2007)</small>
+
+Cuando el Secretario Técnico del Consejo Directivo estime o requiera que un servidor público del propio organismo o cualquiera otra persona participe en una sesión del Consejo para exponer o aclarar asuntos de la misma, podrá solicitar a quien la presida la autorización para que dicho servidor o persona se incorpore a la misma y participe sólo en la parte relativa al tema específico de su incumbencia, quien una vez finalizada su intervención deberá abandonar el recinto para que los miembros del Consejo Directivo discutan y acuerden lo conducente.
+
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
+
 ###### ARTÍCULO 17.
 
-El acta de cada sesión deberá ser aprobada y suscrita por los miembros del Consejo Directivo, la cual deberá contener la lista de asistencia, el orden del día y los acuerdos tomados.
+El Secretario Técnico del Consejo Directivo del organismo remitirá para su revisión, dentro de los cinco días hábiles siguientes a la clausura de la sesión correspondiente, un ejemplar del acta que se levante de la sesión, a cada uno de los miembros del Consejo que hubiesen asistido a la misma, así como al Comisario Público y al Titular del Órgano de Control y Desarrollo Administrativo, para que le formulen, dentro de los cinco días hábiles siguientes a su recepción, las observaciones que consideren pertinentes respecto al contenido de dicha acta para que se realicen las modificaciones que resulten necesarias.
+
+En su caso, una vez llevado acabo (sic) lo anterior, se procederá a firmar el acta de la sesión correspondiente por cada uno de quienes hubiesen intervenido en ella, sin que ello exceda de quince días hábiles a partir de la celebración de la sesión respectiva.
+
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 18.
 
-Las actas de las sesiones del Consejo Directivo se asentarán en el libro de actas correspondiente, el cual quedará bajo la custodia y responsabilidad del Coordinador General de esta entidad.
+Las actas que se levanten de las sesiones del Consejo Directivo deberán asentarse debidamente ordenadas, por número y fecha, en el Libro de Actas que al efecto llevará el organismo, bajo custodia del Secretario Técnico.
 
 ###### ARTÍCULO 19.
 
 El Presidente del Consejo Directivo tendrá las siguientes funciones:
 
-I.- Convocar directamente o a través del Primer Vicepresidente, a sesiones ordinarias y extraordinarias del Consejo Directivo;
+> <small>(REFORMADA, B.O. 25 DE ENERO DE 2007)</small>
+
+I.- Convocar por conducto del Secretario Técnico, a la realización de sesiones del Consejo Directivo;
 
 II.- Instalar, presidir y clausurar las sesiones del Consejo Directivo y, en caso de empate, emitir voto de calidad;
 
@@ -251,55 +309,57 @@ V.- Las demás que le confieran el Consejo Directivo, el presente reglamento y d
 
 ###### ARTÍCULO 20.
 
-El Primer Vicepresidente del Consejo Directivo tendrá las siguientes funciones:
+(DEROGADO, B.O. 25 DE ENERO DE 2007)
 
-I.- Ejecutar las decisiones que le delegue el Consejo Directivo o su presidente;
-
-II.- Someter al análisis y discusión del Consejo Directivo los asuntos cuya resolución sea competencia de éste;
-
-III.- Por acuerdo del Presidente, firmar las convocatorias para las sesiones del Consejo Directivo;
-
-IV.- Suplir las ausencias del Presidente, actuando con todas las facultades a que se refiere el artículo precedente;
-
-VI (SIC).- Suscribir las actas del Consejo Directivo, y
-
-VII.- Las demás que le confieran el Consejo Directivo, el presente reglamento y demás disposiciones legales.
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 21.
 
-El Segundo Vicepresidente del Consejo Directivo las siguientes funciones:
+El Vicepresidente del Consejo Directivo tendrá las siguientes funciones:
 
-I.- Presentar al Consejo Directivo del Organismo, las propuestas que formulen la Junta Estatal de Participación Social y las juntas de participación social para el desarrollo municipal, con relación al funcionamiento del Programa de Participación Social Sonorense para la Obra Publica Concertada;
+I.- Presentar al Consejo Directivo del organismo, las propuestas que formule la Junta Estatal de Participación Social y las juntas de participación social para el desarrollo municipal, con relación al funcionamiento del Programa de Participación Social Sonorense para la Obra Pública Concertada;
 
-II.- Ejecutar las políticas y estrategias que determine el Consejo Directivo para el fortalecimiento de los mecanismo de participación ciudadana en los procesos de concertación de obra pública;
+II.- Ejecutar las políticas y estrategias que determine el Consejo Directivo para el fortalecimiento de los mecanismos de participación ciudadana en los procesos de concertación de obra pública;
 
-III.- Suscribir las actas de las sesiones del Consejo Directivo del organismo, y
+III.- Suscribir las actas del Consejo Directivo del organismo; y
 
-IV.- Las demás que le confieran el Consejo Directivo, el presente reglamento y demás disposiciones legales.
+IV.- Las demás que le confieran el Consejo Directivo, el presente Reglamento y demás disposiciones legales.
+
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 22.
 
-El Secretario del Consejo Directivo tendrá las siguientes funciones:
+El Secretario Técnico del Consejo Directivo tendrá las siguientes funciones:
 
-I.- Presentar la información que servirá como soporte para la celebración de las sesiones del Consejo Directivo;
+l.- Formular la convocatoria y orden del día para la celebración de las sesiones del Consejo Directivo, notificándolas por escrito, así como integrar y entregar oportunamente, a los miembros de! propio consejo, la documentación, información y material que se requiera para llevar a cabo el desarrollo de las mismas, el cual estará bajo su responsabilidad;
 
-II.- Verificar la existencia de quórum legal de las sesiones del Consejo Directivo y formular la lista de asistencia;
+II.- Dar lectura a los asuntos contenidos en el orden del día, a efecto de que los miembros del Consejo Directivo manifiesten su conformidad y, en su caso, los aprueben, siendo únicamente aquellos que se hubiesen señalado en el proyecto del orden del día remitido adjunto a la convocatoria y de los cuales se haya anexado la información, documentación y material suficiente para su análisis y discusión, pudiendo ampliar en forma verbal o apoyándose en diagramas o dispositivos la información relacionada del asunto de que se trate;
 
-III.- Hacer constar en las actas correspondientes, los asuntos tratados en las juntas del Consejo Directivo y los acuerdos emanados de las sesiones del propio Consejo Directivo;
+III.- En ausencia del Presidente del Consejo Directivo, llevar el desarrollo del orden del día de las sesiones de éste;
 
-IV.- Informar al Consejo Directivo respecto al cumplimiento de los acuerdos tomados en las sesiones de éste;
+IV.- Llevar el registro de las acreditaciones de designación de Consejeros Suplentes y verificar que los servidores públicos que funjan como suplentes de los integrantes propietarios del Consejo Directivo, cuenten con oficio de acreditación que avale su asistencia;
 
-V.- Elaborar y presentar a los miembros del Consejo Directivo, el acta que contenga los acuerdos que en la sesión inmediata anterior hayan tomado los mismos;
+V.- Dar lectura al acta y acuerdos de la sesión anterior, a efecto de someterla a la aprobación de los integrantes del Consejo Directivo y hacer constar en el acta correspondiente, los asuntos que se excluyan del orden del día, por motivo de que la información y documentos correspondientes no fueron entregados previamente a los integrantes del consejo;
 
-VI.- Recabar las firmas de los integrantes del Consejo Directivo en el acta a que hace referencia la fracción anterior;
+VI.- Contar previamente con la autorización o dictamen favorable de la Secretaría de Hacienda en todos aquellos aspectos relativos a contratación y designación de personal, contratación de deuda pública, aprobación del presupuesto de ingresos y egresos, sueldos y remuneraciones del personal y la contratación de servicios externos de cualquier naturaleza y demás de carácter financiero;
 
-VII.- Suscribir, conjuntamente con los integrantes del Consejo Directivo, las actas de las sesiones de dicho órgano de gobierno;
+VII.- Pasar lista de los miembros del Consejo Directivo presentes en cada sesión, para determinar la existencia de quórum legal de las sesiones del Consejo Directivo y formular la lista de asistencia correspondiente;
 
-VIII.- Verificar la debida formación, integración, mantenimiento y custodia del libro de actas de las sesiones del Consejo Directivo;
+VIII.- Elaborar y presentar a los miembros del Consejo Directivo, el acta que contenga circunstancialmente el desarrollo de la sesión, señalando el lugar, fecha y hora del inicio y término de la sesión, los consejeros que se encontraron presente (sic), la existencia de quórum legal, el orden del día aprobado, las intervenciones, observaciones y comentarios de los asistentes y los acuerdos tomados;
 
-IX.- Expedir, cuando se requiera legalmente, previa solicitud por escrito, copia certificada ya sea total o parcialmente, de las actas de las sesiones del Consejo Directivo, y
+IX.- Especificar para cada uno de los asuntos tratados, el sentido del voto individual de cada uno de los miembros del Consejo Directivo, así como la suma de votos en sentido aprobatorio y desaprobatorio, lo cual deberá asentarse en el acta respectiva;
 
-X.- Las demás que le confieran el Consejo Directivo, el presente reglamento y demás disposiciones legales.
+X.- Enviar a revisión y firma, dentro de los siguientes cinco días hábiles al de celebración de la sesión, las actas correspondientes y recabar, en un plazo máximo de quince días hábiles, a partir de dicha fecha, las firmas de los integrantes del Consejo Directivo en las mencionadas actas de las sesiones del propio consejo a las que hayan asistido. Dichas actas también deberán ser enviadas al Comisario Público y al titular del Órgano de Control y Desarrollo Administrativo para su correspondiente revisión;
+
+XI.- Realizar la debida formación, integración, mantenimiento y custodia de las actas que se elaboren de las sesiones del Consejo Directivo y su correspondiente registro en el Libro de Actas por estricto orden numérico y cronológico;
+
+XII.- Suscribir conjuntamente con los demás integrantes del Consejo Directivo, las actas de las sesiones de dicho órgano de gobierno;
+
+XIII.- Expedir cuando se requiera legalmente, previa solicitud por escrito, copia certificada ya sea total o parcial, de las actas de las sesiones de Consejo Directivo y de los documentos e información que formen parte de ellas;
+
+XIV.- Asistir con voz, pero sin voto a las sesiones del Consejo Directivo y llevar el registro de los acuerdos aprobados por el propio consejo, a fin de darles el seguimiento correspondiente; y
+
+XV.- Las demás que le confieran el Consejo Directivo, el presente Reglamento y otras disposiciones legales y administrativas.
 
 ###### ARTÍCULO 23.
 
@@ -315,19 +375,29 @@ IV.- Suscribir, conjuntamente con los integrantes del Consejo Directivo, las act
 
 V.- Las demás que le confieran el Consejo Directivo, el presente reglamento y demás disposiciones legales.
 
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
+
 ###### ARTÍCULO 24.
 
-Los vocales del Consejo Directivo del Consejo Estatal de Concertación para la Obra Pública, tendrán a las siguientes funciones:
+Los vocales del Consejo Directivo del Consejo Estatal de Concertación para la Obra Pública, tendrán las siguientes funciones:
 
-I.- Someter a consideración del Consejo Directivo los asuntos y las medidas que consideren necesarias para el cumplimiento de su objeto;
+I.- Asistir a las sesiones del Consejo Directivo y someter a consideración del propio órgano de gobierno los asuntos y las medidas que consideren necesarios para el cumplimiento de su objeto;
 
-II.- Asistir con voz y voto a las sesiones del Consejo Directivo y analizar y deliberar sobre los asuntos que se sometan a su consideración en las sesiones de éste;
+II.- Revisar y suscribir las actas que se formulen de las sesiones a que asistan y, en su caso, hacer las observaciones o sugerencias que estimen procedentes sobre los acuerdos respectivos;
 
-III.- Desempeñar con eficiencia las comisiones que le encomiende el Consejo Directivo y rendir los informes correspondientes;
+III.- Solicitar al Secretario Técnico que cite para sesiones, cuando éste no cumpla con el Calendario Anual de Sesiones del organismo;
 
-IV.- Suscribir las actas del Consejo Directivo, y
+IV.- Solicitar al Secretario Técnico que convoque a sesiones extraordinarias, cuando a juicio, al menos de la tercera parte de los miembros del Consejo Directivo, existan circunstancias o asuntos que por su importancias (sic) requieran ser tratados por el Consejo Directivo, justificando en el escrito correspondiente las razones que avalen su petición;
 
-V.- Las demás que les confieran el Consejo Directivo, el presente reglamento y demás disposiciones legales.
+V.- Solicitar al Secretario Técnico que se asienten los comentarios, observaciones o votos particulares con relación a determinados acuerdos, haciendo constar dicha circunstancia en el acta respectiva;
+
+VI.- Formular al Coordinador General del organismo las preguntas y observaciones que consideren pertinentes, así como solicitar la ampliación de la información que juzguen conveniente, respecto al informe que presente en cada sesión ordinaria;
+
+VII.- Nombrar por escrito a sus respectivos suplentes, para que los representen en las ausencias en las sesiones que se lleven a cabo, previa acreditación que para tal efecto se lleve a cabo ante el Presidente y el Secretario Técnico del Consejo Directivo.
+
+La sustitución de los consejeros suplentes, podrá llevarse a cabo en los casos en que el propietario lo considere necesario; y
+
+VIII.- Las demás que les confiera el Consejo Directivo, el presente Reglamento y otras disposiciones legales y administrativas.
 
 ### CAPÍTULO III.
 
@@ -575,15 +645,29 @@ X.- Ejecutar los acuerdos que dicte el Consejo Directivo y ejecutar las polític
 
 XI.- Acordar con los titulares de las unidades administrativas del organismo, el despacho de los asuntos a su cargo y con los demás servidores públicos, los asuntos de la competencia de éstos, cuando así lo considere conveniente.
 
-XII.- Presentar, al Consejo Directivo, el informe del desempeño de las actividades de la entidad, incluyendo el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Coordinación General, con las realizaciones alcanzadas.
+> <small>(REFORMADA, B.O. 25 DE ENERO DE 2007)</small>
 
-XIII.- Presentar anualmente al Consejo Directivo, a más tardar en el mes de abril de cada año, los estados financieros y el informe de actividades del ejercicio anterior.
+XII.- Presentar en cada sesión ordinaria del Consejo Directivo, un informe general del estado que guarda la administración del organismo, que comprenda cuando menos, la siguiente información detallada al cierre del mes anterior al de la fecha de la sesión:
+
+a) Cumplimiento de la ejecución de acuerdos y resoluciones en sesiones anteriores;
+
+b) Estados financieros;
+
+c) Avance presupuestal, comprendiendo ingresos y egresos, por partida presupuestal;
+
+d) Avance en el cumplimiento de metas del Programa Operativo Anual; y
+
+e) Avance en la ejecución del Programa Anual de Adquisiciones, Arrendamientos y Servicios y del Programa Anual de Obras Públicas del Organismo.
+
+Del informe referido y de la documentación que sustente la información correspondiente se entregará copia a los consejeros, al Comisario Público y al titular del Órgano de Control y Desarrollo Administrativo, quienes podrán formular las preguntas y observaciones que consideren pertinentes, así como solicitar la ampliación de la información que juzguen conveniente.
+
+XIII.- (DEROGADA, B.O. 25 DE ENERO DE 2007)
 
 XIV.- Someter a consideración del Consejo Directivo, a más tardar en el mes de octubre de cada año, el anteproyecto de programa-presupuesto, mismo que deberá elaborarse de conformidad con la legislación aplicable.
 
 XV.- Nombrar, suspender, conceder licencias y remover a los trabajadores de base que presten sus servicios en el organismo y someter a aprobación del Consejo Directivo los nombramientos relativos al personal de confianza. El suspender, conceder licencia y remover a los trabajadores de confianza es facultad del Coordinador General.
 
-XVI.- Proponer el orden del día y convocar a la celebración de sesiones del Consejo Directivo del organismo, previo acuerdo de su Presidente.
+XVI.- (DEROGADA, B.O. 25 DE ENERO DE 2007)
 
 XVII.- Celebrar y ejecutar los actos, acuerdos, convenios y contratos que se requieran para la consecución del objeto del organismo y suscribir los documentos correspondientes.
 
@@ -601,7 +685,9 @@ XXIII.- Vigilar que en el Programa Estatal para la Obra Pública Concertada, los
 
 XXIV.- Proporcionar al comisario público oficial o ciudadano, en su caso, designado por la Secretaría de la Contraloría General, las facilidades e informes necesarios para el desempeño de su función.
 
-XXV.- Comprobar el cumplimiento de las disposiciones del decreto que crea el organismo, de este reglamento y demás disposiciones legales aplicables, y
+> <small>(REFORMADA, B.O. 25 DE ENERO DE 2007)</small>
+
+XXV.- Tomar las medidas necesarias para el cumplimiento de las disposiciones contenidas en el Decreto de Creación del organismo y en las leyes, decretos, reglamentos y demás disposiciones aplicables, así como para su verificación.
 
 XXVI.- Las demás que se requieran para el mejor desempeño de las anteriores facultades y obligaciones, que le confieran el Consejo Directivo, el presente reglamento y demás disposiciones legales.
 
@@ -655,53 +741,69 @@ XV.- Las demás que le confieran las disposiciones legales aplicables, o les enc
 
 DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS.
 
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
+
 ###### ARTÍCULO 51.
 
 Corresponden a la Dirección General de Concertación y Apoyo Técnico, las siguientes atribuciones:
 
-I.- Elaborar esquemas y mecanismos de organización y operación, que hagan factible estimular e inducir la participación de la sociedad civil y de los grupos beneficiarios en la realización de obras de infraestructura para el desarrollo social y económico regional del estado;
+l.- Revisar y emitir opinión respecto a programas, proyectos y presupuestos de obras públicas concertadas que vayan a ejecutarse por los ayuntamientos o por las instancias ejecutoras con las que se haya suscrito convenio o acuerdo de coordinación;
 
-II.- Fungir en el ámbito del Programa Estatal para la Obra Pública Concertada, como enlace entre el Consejo Estatal de Concertación para la Obra Pública, la Junta Estatal de Participación Social y las juntas de participación social para el desarrollo municipal y las instancias municipales y/o regionales que le señale el Coordinador General;
+II.- Llevar a cabo los procesos de concertación, respecto de las obras públicas que se lleven a cabo en el marco de las acciones de concertación directa que se formalicen con los sectores social y privado, en los términos de los acuerdos correspondientes y previo análisis de la viabilidad técnica y financiera de apoyar la ejecución de estas obras;
 
 III.- Revisar los expedientes técnicos relativos a las obras, para determinar la factibilidad de la concertación y de las modalidades de participación corresponsable de los beneficiarios de las obras que se propongan;
 
-IV.- Revisar y emitir opinión respecto a programas, proyectos y presupuestos de obras públicas concertadas que vayan a ejecutarse por los ayuntamientos o por las instancias ejecutoras, con las que se haya suscrito convenio o acuerdo de coordinación;
+IV.- Organizar y mantener permanentemente actualizado el registro por municipio y por obra específica, de las obras públicas concertadas integrando y conservando los expedientes particulares para cada una de éstas;
 
-V.- Otorgar asesoría a los ayuntamientos, cuando éstos lo soliciten, con relación al Programa de Obra Pública Concertada y a los esquemas de participación social corresponsable en la definición, ejecución y vigilancia en la aplicación de los recursos asignados para la realización de las obras;
+V.- Revisar los expedientes técnicos y proyectos ejecutivos de las obras concertadas, verificando que en la formulación e integración de los mismos se cumplan las especificaciones técnicas y presupuestales requeridas para la realización de obras de calidad;
 
-VI.- Llevar a cabo los procesos de concertación, respecto de las obras públicas que se lleven a cabo en el marco de las acciones de concertación directa que se formalicen con los sectores social y privado, en los términos de los acuerdos correspondientes y previo análisis de la viabilidad técnica y financiera de apoyar la ejecución de estas obras;
+VI.- Elaborar e integrar los expedientes técnicos, presupuestos y programas de obra, así como las bases de licitación, substanciar los procedimientos licitarios (sic) correspondientes y proveer lo que resulte necesario para la concertación de las obras públicas que se lleven a cabo, en el marco de las acciones de concertación directa, que se formalicen con los sectores social y privado, realizando el seguimiento y supervisión de dichas obras hasta su terminación y entrega;
 
-VII.- Organizar el registro por municipio y por obra específica de las obras públicas concertadas integrando los expedientes particulares para cada una de éstas;
+VII.- Proponer y llevar a cabo mecanismos de control y supervisión de la ejecución de la obra pública concertada, así como de los procedimientos de su entrega-recepción, con especial énfasis en el control de calidad y elaborar y presentar informes mensualmente al Coordinador General, respecto del avance físico y financiero de las mismas o cuando éste lo solicite;
 
-VIII.- Revisar los expedientes técnico (sic) y proyectos ejecutivos de las obras concertadas, verificando que en la formulación e integración de los mismos se cumplan las especificaciones técnicas y presupuestales requeridas para la realización de obras de calidad;
+VIII.- Proporcionar a los ayuntamientos, cuando así lo soliciten, los apoyos técnicos que se requieran en el proceso de definición de las propuestas de obras públicas por concertación, así como coordinar y tramitar la liberación de recursos para la elaboración de estudios y proyectos;
 
-IX.- Elaborar e integrar los expedientes técnicos, presupuestos y programas de obra, así como las bases de licitación, substanciar los procedimientos licitatorios correspondientes y proveer lo que resulte necesario para la contratación de las obras públicas que se lleven a cabo, en el marco de las acciones de concertación directa, que se formalicen con los sectores social y privado, realizando el seguimiento y supervisión de dichas obras hasta su terminación y entrega;
+IX.- Llevar a cabo los estudios de mercadeo que se requieran, para estar en posibilidad de definir precios unitarios y costos de construcción, para los diferentes subprogramas de obra pública concertada;
 
-X.- Proponer y llevar a cabo mecanismos de control y supervisión de la ejecución de la obra pública concertada, así como de los procedimientos de su entrega-recepción, con especial énfasis en el control de calidad y elaborar y presentar informes mensualmente al Coordinador General, respecto del avance físico y financiero de las mismas, o cuando éste los solicite;
+X.- Apoyar a los ayuntamientos que lo requieran o, en su caso, a las instancias municipales de concertación, en cuanto al cumplimiento de los procedimientos de licitación de los contratos de obras públicas que correspondan, así como en la formalización de éstos últimos;
 
-XI.- Proporcionar a los ayuntamientos, cuando así lo soliciten, los apoyos técnicos que se requieran en el proceso de definición de las propuestas de obra pública por concertación, así como coordinar y tramitar la liberación de recursos para la elaboración de estudios y proyectos;
+XI.- Tramitar la liberación de recursos para la ejecución de las obras cuyos expedientes técnicos se encuentren debidamente integrados, de acuerdo a los manuales técnicos de operación y a las disposiciones que sobre el particular emita el Consejo Directivo;
 
-XII.- Llevar a cabo los estudios de mercadeo que se requieran, para estar en posibilidades de definir precios unitarios y costos de construcción, para los diferentes subprogramas de obra pública concertada;
+XII.- Coadyuvar para que se propicie la acción corresponsable de los beneficiarios en el proceso de concertación de obras públicas, con base en los principios de organización social, solidaridad, pluralidad y transparencia en el uso de los recursos;
 
-XIII.- Apoyar a los ayuntamientos que lo requieran o, en su caso, a las instancias municipales de concertación, en la substanciación de los procedimientos de licitación de los contratos de obras públicas que correspondan, así como en la formalización de estos últimos;
+XIII.- En coordinación con las demás unidades administrativas del organismo, cumplir las disposiciones relativas al acceso a la información pública del Estado y vigilar el conecto funcionamiento de la unidad de enlace correspondiente; y
 
-XIV.- Tramitar la liberación de los recursos para la ejecución de las obras cuyos expedientes técnicos se encuentren debidamente integrados, de acuerdo a los manuales técnicos de operación y a las disposiciones que sobre el particular emita el Consejo Directivo;
+XIV.- Las demás que le señale el Coordinador General, este Reglamento y demás disposiciones aplicables.
 
-XV.- Promover que se propicie la acción corresponsable de los beneficiarios, en el proceso de concertación de obra pública, con base en los principios de organización social, coparticipación, pluralidad y transparencia en el uso de los recursos;
+> <small>(ADICIONADO, B.O. 25 DE ENERO DE 2007)</small>
 
-XVI.- Coordinar con la instancia ejecutora correspondiente, o con los organismos sociales y privados con los que se suscriban convenios o acuerdos de concertación directa, la integración democrática de comités de participación social con los beneficiarios de las obras públicas concertadas, como requisito indispensable para la integración de los expedientes técnicos de las mismas;
+ARTÍCULO 51 BIS. Corresponden a la Dirección General de Organización Social las siguientes atribuciones:
 
-XVII.- Elaborar y mantener actualizado el manual de organización y funcionamiento de los comités de participación social y formular e integrar el registro de cada uno de ellos, con el padrón de beneficiarios y la mesa directiva correspondiente;
+I.- Elaborar esquemas y mecanismos de organización y operación, que hagan factible estimular e inducir la participación de la sociedad civil y de los grupos beneficiarios en la realización de obras de infraestructura para el desarrollo social y económico regional del Estado;
 
-XVIII.- Desarrollar programas de información y capacitación a los comités de participación social que se integren con motivo de la concertación de obra pública, a efecto de fortalecer su capacidad de organización, gestión comunitaria y vigilancia en el avance físico y financiero de las obras;
+II.- Promover que en el proceso de concertación de obras públicas se propicie la acción corresponsable de los beneficiarios, con base en los principios de organización social, solidaridad, corresponsabilidad, pluralidad y transparencia en el uso de los recursos;
 
-XIX.- Organizar y coordinar las actividades de los promotores sociales que se designen para atender la integración y funcionamiento de los comités de participación social;
+III.- Coordinar con la instancia ejecutora correspondiente, o con los organismos sociales y privados con los que se suscriban acuerdos de concertación directa, la integración democrática de comités de participación social con los beneficiarios de las obras públicas concertadas, como requisito indispensable para la integración de los expedientes técnicos de las mismas;
 
-XX.- Promover convenios y acuerdos de coordinación con instituciones públicas y privadas de educación media-superior y superior, para la realización del servicio social de los estudiantes, en las acciones de organización y apoyo a las actividades de los comités de participación social que se integren en el desarrollo del Programa Estatal de Obra Pública Concertada;
+IV.- Otorgar asesoría a los ayuntamientos, cuando éstos lo soliciten, con relación al Programa de Obra Pública Concertada y el diseño de esquemas de participación social corresponsable en la definición, ejecución y vigilancia en la aplicación de recursos asignados para la realización de las obras;
 
-XXI.- Apoyar a los ayuntamientos con programas de formación de promotores sociales en cada municipio, a efecto de que se atienda el requisito de integración de los comités de participación social por cada obra que se concierte, y
+V.- Fungir en el ámbito del Programa Estatal para la Obra Pública Concertada, como enlace entre el Consejo Estatal de Concertación para la Obra Pública, la Junta Estatal de Participación Social, las juntas de participación social para el desarrollo municipal y las instancias municipales y/o regionales que le señale el Coordinador General;
 
-XXII.- Las demás que le señale el Consejo Directivo, el Coordinador General, este reglamento y demás disposiciones legales.
+VI.- Elaborar y mantener actualizado el Manual de Organización y Funcionamiento de los comités de participación social e integrar el registro de cada uno de ellos, con el padrón de beneficiarios y la mesa directiva correspondiente;
+
+VII.- Desarrollar programas de orientación, información y capacitación, a través de cursos y talleres a los comités de participación social que se integren con motivo de la concertación de obras públicas, a efecto de fortalecer su capacidad de organización, gestión comunitaria y vigilancia en el avance físico y financiero de las obras;
+
+VIII.- Organizar y coordinar las actividades de los promotores sociales que se designen para atender la integración y funcionamiento de los comités de participación social y el encuentro de éstos con el Gobernador del Estado;
+
+IX.- Promover y realizar reuniones y juntas de capacitación, actualización y orientación sobre los principios, bases y objetivos que rigen el Programa de Participación Social Sonorense;
+
+X.- Organizar e impartir cursos y talleres de capacitación, información y actualización de los promotores sociales para el mejor desempeño de sus actividades y funciones;
+
+XI.- Promover convenios y acuerdos de coordinación con instituciones públicas y privadas de educación media-superior y superior, para la realización del servicio social de los estudiantes, en las acciones de organización y apoyo a las actividades de los comités de participación social que se integren en el desarrollo del Programa Estatal de Obra Pública Concertada;
+
+XII.- Apoyar a los ayuntamientos que lo requieran o, en su caso, a las instancias municipales correspondientes, con explicaciones y orientación para la aplicación del Programa de Participación Social Sonorense; y
+
+XIII.- Las demás que le señale el Coordinador General, este Reglamento y demás disposiciones aplicables.
 
 ###### ARTÍCULO 52.
 
@@ -755,27 +857,27 @@ XXIII.- Participar en el ámbito de su competencia, en la solventación de aquel
 
 XXIV.- Las demás que le señale el Consejo Directivo, el Coordinador General o le confieran este reglamento y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
+
 ###### ARTÍCULO 53.
 
-Corresponde a la Secretaría Técnica del Consejo Estatal de Concertación para la Obra Pública, como unidad de apoyo del Coordinador General, las siguientes atribuciones:
+Corresponde a la Secretaría de Gestión del Consejo Estatal de Concertación para la Obra Pública, como unidad de apoyo del Coordinador General, las siguientes atribuciones:
 
-I.- Diseñar, establecer y coordinar los procedimientos de control de gestión interna y externa de las diferentes unidades administrativas del Consejo Estatal de Concertación para la Obra Pública y operar los registros correspondientes;
+I.- Diseñar, establecer y coordinar los procedimientos de control de gestión interna y externa de las diferentes unidades administrativas del Consejo Estatal de Concertación para la Obra Pública;
 
-II.- Diseñar, integrar, organizar y establecer el sistema de archivos general del Consejo Estatal de Concertación para la Obra Pública;
+II.- Diseñar, integrar, organizar y establecer el sistema de archivo general del Consejo Estatal de Concertación para la Obra Pública;
 
-III.- Proponer los anteproyectos de manual de organización, procedimientos y de servicios al público y someterlos a aprobación del Coordinador General, los cuales deberá mantener permanentemente actualizados;
+III.- Proponer los proyectos de manual de organización, de procedimientos y de servicios al público y someterlos a aprobación del Coordinador General, los cuales deberá mantener permanentemente actualizados;
 
 IV.- Apoyar las labores operativas del Consejo Directivo, coadyuvando en la preparación de informes y demás documentación que resulte necesaria para el desahogo de sus sesiones, en la elaboración de los proyectos de actas y en la ejecución de los acuerdos correspondientes;
 
-V.- Coordinar las acciones de difusión del organismo, ejecutar la política de comunicación social que acuerde el Coordinador General y recopilar la información que se genere;
+V.- Auxiliar al Coordinador General en la atención y seguimiento de las relaciones interinstitucionales del Consejo Estatal de Concertación para la Obra Pública;
 
-VI.- Auxiliar al Coordinador General en la atención y seguimiento de las relaciones interinstitucionales del Consejo Estatal de Concertación para la Obra Pública;
+VI.- Apoyar las acciones y labores operativas de la Junta Estatal de Participación Social y de las juntas de participación social para el desarrollo municipal, con las previsiones presupuestales correspondientes, mismas que someterá a la aprobación del Coordinador General, para que se consideren en el proyecto de presupuesto de egresos del propio organismo para cada ejercicio social.
 
-VII.- Apoyar las acciones y labores operativas de la Junta Estatal de Participación Social y de las juntas de participación social para el desarrollo municipal, con las previsiones presupuestales correspondientes, mismas que someterá a la aprobación del Coordinador General, para que se consideren en el proyecto de presupuesto de egresos del propio organismo para cada ejercicio social.
+Los apoyos operativos destinados a las juntas de participación social para el desarrollo municipal, se ejercerán por conducto del Secretario Técnico de cada uno de estos órganos ciudadanos y, se sujetarán a los controles presupuestales del Consejo Estatal de Concertación para la Obra Pública; y
 
-Los apoyos operativos destinados a las juntas de participación social para el desarrollo municipal, se ejercerán por conducto del secretario técnico de cada uno de estos órganos ciudadanos, y se sujetarán a los controles presupuestales del Consejo Estatal de Concertación para la Obra Pública, y
-
-VIII.- Las demás que le señale el Consejo Directivo, el Coordinador General, este Reglamento y demás disposiciones legales aplicables.
+VII.- Las demás que le señale el Consejo Directivo, el Coordinador General, este Reglamento y demás disposiciones legales aplicables.
 
 ### CAPÍTULO VII.
 
@@ -809,9 +911,11 @@ En las ausencias del comisario público titular, éste será suplido por el comi
 
 El Consejo Directivo y demás dependientes jerárquicos de éste, en su caso, deberán proporcionar oportunamente al comisario público designado por la Secretaría de la Contraloría General, la información y documentación que requiera para el debido cumplimiento de sus funciones.
 
+> <small>(REFORMADO, B.O. 25 DE ENERO DE 2007)</small>
+
 ###### ARTÍCULO 58.
 
-El titular del órgano de control y desarrollo administrativo y el comisario público, previa citación por escrito que se les formule y notifique con siete días de anticipación, asistirá con voz pero sin voto a las sesiones ordinarias y extraordinarias del organismo.
+El titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público, previa citación por escrito que se les formule y notifique con cinco días hábiles de anticipación tratándose de sesiones ordinarias y de cuarenta y ocho horas tratándose de sesiones extraordinarias, asistirán con voz pero sin voto.
 
 ### CAPÍTULO VIII.
 
@@ -876,3 +980,11 @@ Dirección General Dirección General
 de Concertación y de Administración
 
 Apoyo Técnico y Finanzas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 25 DE ENERO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
