@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prevencion-social-y-tratamiento-de-menores-del-6073"
 country: "mx"
 rank: "ley"
 publication_date: "1995-01-20"
-last_updated: "2002-12-10"
+last_updated: "2007-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE PREVENCION SOCIAL Y TRATAMIENTO DE MENORES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE DICIEMBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MEXICO, PUBLICADA EN LA G.G. DE 25 DE ENERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 10 de diciembre de 2002.
 
@@ -1018,3 +1020,25 @@ P.O. 10 DE DICIEMBRE DE 2002
 PRIMERO.- Publiquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 25 DE ENERO DE 2007.
+
+PRIMERO.- Publíquese la presente ley en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La presente ley entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se otorga un plazo de noventa días naturales contados a partir de la entrada en vigor de la presente ley para que las instancias encargadas de la aplicación de esta ley operen técnica y administrativamente.
+
+En tanto transcurre el plazo a que se refiere el párrafo anterior, las dependencias continuarán funcionando y conociendo hasta su total conclusión los asuntos que conforme a la ley que se abroga, son de su competencia.
+
+CUARTO.- Al entrar en vigor la presente ley, se abroga la Ley de Prevención Social y Tratamiento de Menores del Estado de México, Publicada en la "Gaceta del Gobierno" el 20 de enero de 1995.
+
+QUINTO.- Todos los asuntos que se encuentren en trámite en cualquier instancia, seguirán su curso hasta su conclusión, conforme a la ley abrogada.
+
+SEXTO.- Cuando los adolescentes se encuentren bajo la acción de una resolución ejecutoriada que les haya impuesto la privación de libertad como sanción, ésta, continuará vigente hasta su externamiento definitivo, siempre y cuando la ley actual, no les conceda la posibilidad de un tratamiento en externamiento, para lo cual, podrán acudir ante el Juez de Ejecución y Vigilancia para que decida lo conducente.
+
+SÉPTIMO.- Mientras la justicia restaurativa no sea implementada en el Estado, los adolescentes, cuando confiesen espontáneamente su responsabilidad en la conducta antisocial que se le imputa al Adolescente, podrán ser sujetos de la disminución de la medida que les correspondería.
+
+OCTAVO.- El Ejecutivo expedirá los reglamentos internos de las Instituciones de tratamiento en externamiento e internamiento y realizará las adecuaciones necesarias a las disposiciones reglamentarias correspondientes en un plazo no mayor de 60 días posteriores a la entrada en vigor de esta ley.
+
+NOVENO.- El Consejo de la Judicatura expedirá los reglamentos internos para el eficaz cumplimiento de la presente ley, en un plazo no mayor de 60 días posterior a la entrada en vigor de esta ley.
