@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2007-01-05"
+last_updated: "2007-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -839,8 +839,6 @@ Dichos órganos de participación son creados libremente por los Ayuntamientos y
 
 El cargo de integrante de estos órganos es honorífico por lo que no se recibe remuneración económica por su ejercicio y tratándose de servidores públicos, sus funciones son inherentes al cargo que desempeñen. Los representantes de la sociedad civil que forman parte de estos consejos carecen de la calidad de servidores públicos.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/IndicesCCAI/ControversiasConstitucionales/DetalleControversias.aspx?AsuntoID=89613).
-
 ###### Artículo 39.
 
 Los actos o disposiciones de carácter administrativo que impliquen la realización de obra pública o enajenación del patrimonio municipal, pueden ser sometidos previamente a plebiscito, en los términos de la Constitución Política del Estado de Jalisco y de la legislación en la materia.
@@ -1127,7 +1125,7 @@ La inasistencia sin causa justificada será objeto de amonestación por parte de
 
 Si persisten las faltas injustificadas los munícipes incurren en responsabilidad, por lo que se debe estar a lo dispuesto por las leyes y reglamentos aplicables.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/juridica/engroses/cerrados/289/07000190.009.doc).
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
 
@@ -1135,7 +1133,7 @@ Artículo 51 bis. Los munícipes pueden organizarse en fracciones edilicias, a e
 
 Sólo puede existir una fracción por partido político con representación en cada Ayuntamiento.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/juridica/engroses/cerrados/289/07000190.009.doc).
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
 
@@ -1227,7 +1225,7 @@ El Síndico se debe apoyar en los servidores públicos municipales necesarios pa
 
 ### CAPITULO V. De los Servidores Públicos Auxiliares del Ayuntamiento
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/juridica/engroses/cerrados/289/07000190.009.doc).
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 (REFORMADO, P.O. 5 DE ENERO DE 2007) (F. DE E., P.O. 1 DE MARZO DE 2007)
 
@@ -1495,6 +1493,8 @@ Además de los ingresos que forman parte de la Hacienda Municipal, los municipio
 
 El ejercicio de las aportaciones federales para fines específicos debe preverse en los presupuestos de egresos de los municipios y formará parte de la cuenta pública municipal.
 
+> <small>N. DE E. MEDIANTE DECRETO 21706/LVII/06, PUBLICADO EN EL P.O. 25 DE ENERO DE 2007, SE DEROGAN LOS TRES ÚLTIMOS PÁRRAFOS DEL ARTÍCULO, SEGÚN CONSTA EN LA PÁGINA No. 4 DEL PERIÓDICO OFICIAL.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 79.
@@ -1523,9 +1523,9 @@ a) La información detallada de la situación hacendaria del Municipio durante e
 
 b) La estimación de los ingresos que se estimen recaudar, para el próximo ejercicio fiscal;
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
-c) Las previsiones de egresos en relación a cada capítulo, concepto, partida y programa, para el sostenimiento de las actividades oficiales, obras o servicios públicos, en el siguiente ejercicio fiscal;
+c) Previsiones de egresos en relación a cada capítulo, concepto y partida para el sostenimiento de las actividades oficiales, obras o servicios públicos, en el siguiente ejercicio fiscal;
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -1539,43 +1539,41 @@ E) LOS INFORMES FINANCIEROS Y DATOS ESTADÍSTICOS QUE SE ESTIMEN CONVENIENTES PA
 
 III. Las previsiones de egresos se deben clasificar conforme a su naturaleza de acuerdo con las siguientes bases:
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
-a) Grupos fundamentales de autorización:
+a) Capítulos fundamentales de autorización:
 
-1. Servicios Personales;
+I. Servicios Personales;
 
-2. Materiales y Suministros;
+II. Materiales y Suministros;
 
-3. Servicios Generales;
+III. Servicios Generales;
 
-4. Subsidios y Subvenciones;
+IV. Subsidios y Subvenciones;
 
-5. Bienes Muebles e Inmuebles;
+V. Bienes Muebles e Inmuebles;
 
-6. Obras Públicas;
+VI. Obras Públicas;
 
-7. Erogaciones Diversas; y
+VII. Erogaciones Diversas; y
 
-8. Deuda Pública.
+VIII. Deuda Pública.
 
 b) Los capítulos respectivos se dividen en conceptos, o sea, en grupos de autorización de naturaleza semejante;
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
 
 c) Los conceptos se dividen a su vez en partidas que representen en forma específica el gasto público.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
-Si alguna de las asignaciones vigentes en el presupuesto de egresos resulta insuficiente para cubrir las necesidades que originen las funciones encomendadas a la administración pública municipal, el Ayuntamiento puede decretar las ampliaciones necesarias previa justificación que de éstas se haga.
+Si alguna de las asignaciones vigentes en el presupuesto de egresos resulta insuficiente para cubrir las necesidades que originen las funciones encomendadas al gobierno y administración pública municipal, el Ayuntamiento puede decretar las ampliaciones necesarias previa justificación que de éstas se haga.
 
-Si en el curso del ejercicio se observa que determinadas partidas tienen una asignación mayor de la que sea suficiente para la atención de las necesidades a que ellas se refieren hasta fin de año, en tanto que otras partidas acusen notorias deficiencias, en tal caso, el Presidente Municipal puede acordar, previa autorización del Ayuntamiento, que se hagan las transferencias, reducciones, cancelaciones o adiciones que se estimen necesarias en las partidas del presupuesto de egresos aprobado en la mejor forma posible.
+> <small>(DEROGADO, P.O. 25 DE ENERO DE 2007)</small>
 
-Estas modificaciones se deben hacer en forma compensatoria, de tal manera que no se llegue a aumentar la suma total del presupuesto, excepto que sus ingresos sean mayores a los previstos.
+> <small>(DEROGADO, P.O. 25 DE ENERO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
-
-Para los efectos del inciso d) de la fracción II del presente artículo, los Ayuntamientos deben recibir, estudiar y analizar las recomendaciones que sobre percepción salarial emita el Comité Técnico de Transparencia y Valoración Salarial, así mismo deben responder al mismo en el término de treinta días hábiles, contados a partir de que reciban la notificación oficial de las mismas, fundando, motivando su posición ante las mismas, procediendo de conformidad con la ley estatal en materia de servidores públicos.
+> <small>(DEROGADO, P.O. 25 DE ENERO DE 2007)</small>
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2269,7 +2267,7 @@ El recurso de revisión se presenta con expresión de agravios acompañado de la
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMAD, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 134.
 
@@ -2559,7 +2557,7 @@ La designación del Consejo Municipal deberá hacerse en Sesión Ordinaria del C
 
 Quinto.- Los miembros del Concejo Municipal de Capilla de Guadalupe rendirán protesta el día 1º de enero de 2006, en sesión solemne de Ayuntamiento que se realizará en la cabecera municipal denominada Capilla de Guadalupe, ante la representación del Congreso, con la presencia del ciudadano Gobernador Constitucional del Estado y del Presidente del Supremo Tribunal de Justicia.
 
-El Concejo Municipal iniciará sus funciones el día 1º de enero del año 2006. A partir de la instalación, el Delegado Municipal de Capilla de Guadalupe cesará en sus funciones, mientras que los demás delegados y agentes municipales que funcionen dentro de la circunscripción del nuevo municipio continuarán en su cargo hasta su ratificación o remoción justificada por parte del propio Conc ejo.
+El Concejo Municipal iniciará sus funciones el día 1º de enero del año 2006. A partir de la instalación, el Delegado Municipal de Capilla de Guadalupe cesará en sus funciones, mientras que los demás delegados y agentes municipales que funcionen dentro de la circunscripción del nuevo municipio continuarán en su cargo hasta su ratificación o remoción justificada por parte del propio Concejo.
 
 Sexto. En su primera sesión ordinaria el Concejo Municipal de Capilla de Guadalupe deberá nombrar al servidor público encargado de la Secretaría del Ayuntamiento y al funcionario encargado de la Hacienda Municipal.
 
@@ -2606,3 +2604,11 @@ primero. el presente decreto entrará en vigor al día siguiente de su publicaci
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL TRANSITORIO SEGUNDO INDICADO CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 segundo. se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 25 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Tratándose de la cuenta pública municipal de los Ayuntamientos del Estado, correspondiente a los meses del ejercicio fiscal del año 2007, ésta deberá presentarse conforme a las disposiciones que estuvieron en vigor antes de la entrada en vigor de este decreto.
+
+TERCERO.- En lo conducente, cuando en las disposiciones legales o administrativas de aplicación municipal; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a ramos, partidas y claves, se entenderán referidos a capítulos, conceptos y partidas.
