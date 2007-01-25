@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-integral-para-adolescentes-del-estado-de-51709"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2006-09-12"
+last_updated: "2007-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2006.
 
@@ -53,9 +53,13 @@ I. Las personas de entre 12 años cumplidos y menores 18 años de edad, denomina
 
 II. Las personas de entre 18 años cumplidos y menores de 25 de edad a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las leyes estatales, cometida cuando eran adolescentes, a quienes se les aplicará el Sistema Estatal Integral de Justicia para Adolescentes en todo aquello que proceda; y
 
+(REPUBLICADA, P.O. 25 DE ENERO DE 2007)
+
 III. Las víctimas u ofendidos por las conductas referidas en las fracciones anteriores.
 
-Las autoridades, instituciones y órganos previstos en esta Ley, se harán cargo de operar el Sistema Estatal Integral de Justicia para Adolescentes.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
+Las autoridades, instituciones y órganos previstos en esta Ley, serán responsables de operar el Sistema Estatal Integral de Justicia para Adolescentes.
 
 ###### Artículo 3.
 
@@ -105,9 +109,11 @@ IV. Establecer los procedimientos y mecanismos para determinar la responsabilida
 
 V. Regular la ejecución de las medidas aplicables a los adolescentes que resulten responsables por la realización de una conducta tipificada como delito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 5.
 
-Son principios rectores del Sistema:
+Son principios rectores del sistema:
 
 l. Celeridad procesal: Garantiza que los procesos en que están involucrados los adolescentes, se realicen sin dilación y con la menor duración posible;
 
@@ -135,7 +141,7 @@ XII. Subsidiariedad: Por el que se reduce la acción del Estado a lo que la soci
 
 XIII. Transversalidad: Para la interpretación y aplicación de las medidas que se impongan al adolescente se debe tomar en cuenta la totalidad de los derechos con que se encuentran investidos, como sujetos de diversa identidad; así como de las condiciones especiales o contingentes existentes al momento en que se les sujeta al Sistema; y
 
-XIV. Oralidad: Garantiza que las partes debatan sus pretensiones y expongan sus pruebas ante el Tribunal de manera verbal dentro de las audiencias, privilegiando el uso de la palabra hablada sobre la escritura.
+XIV. (DEROGADA, P.O. 25 DE ENERO DE 2007)
 
 ###### Artículo 6.
 
@@ -153,9 +159,11 @@ Para todos los efectos de esta Ley, la edad a considerar será la que tenía la 
 
 Los derechos y garantías reconocidos a los sujetos de esta Ley son irrenunciables, tienen un carácter enunciativo y no limitativo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 9.
 
-Son derechos y garantías de los adolescentes sujetos a investigación y a proceso, en los términos de esta Ley:
+Son derechos y garantías de los adolescentes sujetos a investigación y a proceso en los términos de esta Ley:
 
 > <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -177,7 +185,9 @@ VII. Ser informados, en un lenguaje claro y accesible, sin demora y personalment
 
 VIII. Que sus padres, tutores o quienes ejerzan la patria potestad o la custodia, les acompañen en las actuaciones y les brinden asistencia general; y
 
-IX. En caso de ser indígenas, extranjeros, sordos, ciegos, mudos o no sepan leer ni escribir, ser asistidos de oficio y en todos los actos procesales, por un defensor que comprenda plenamente su idioma, lengua, dialecto, así como su cultura.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
+
+IX. En caso de ser indígenas, extranjeros, sordos, ciegos, mudos o no sepan leer ni escribir, ser asistidos en todos los actos procesales, además de un defensor, por personal especializado que comprenda plenamente su idioma, lengua, dialecto, así como su cultura.
 
 ###### Artículo 10.
 
@@ -205,7 +215,9 @@ IX. Ser formado en un ambiente seguro y ordenado, propicio para el desarrollo de
 
 X. Estar en instalaciones y acceder a servicios que satisfagan su pleno desarrollo;
 
-XI. Realizar actividades recreativas, artísticas y culturales;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
+
+XI. Realizar actividades recreativas, artísticas culturales y deportivas;
 
 XII. Recibir o continuar con atención médica preventiva, correctiva integral y cualquier otro tipo de atención vinculada con la protección de su salud, siempre en razón de su género y circunstancias particulares;
 
@@ -253,7 +265,9 @@ VIII. Solicitar la reapertura de la investigación cuando se haya decretado el a
 
 Los adolescentes serán responsables por infringir la ley penal estatal, en los casos y términos que se establecen en esta Ley.
 
-La niña o niño a quien se le atribuya una conducta tipificada como delito queda exento de toda responsabilidad penal; y será sujeto solamente a medidas de rehabilitación y asistencia social en los términos de la ley aplicable, sin perjuicio de las responsabilidades civiles a las que haya lugar.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
+La niña o niño a quien se le atribuya una conducta tipificada como delito queda exento de toda responsabilidad penal; y será sujeto solamente a medidas de rehabilitación y asistencia social en los términos de la ley aplicable.
 
 ###### Artículo 13.
 
@@ -287,13 +301,21 @@ VI. Dirección del Centro de Observación, Clasificación y Diagnóstico; y
 
 VII. Dirección del Centro de Atención Integral Juvenil.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 16.
 
-Los Agentes del Ministerio Público, se encuentran adscritos a la Procuraduría General de Justicia del Estado de Jalisco. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción, permanencia y terminación del cargo, serán definidos por el Ministerio Público. Sus atribuciones y funciones serán reguladas en la Ley Orgánica de la Procuraduría General de Justicia del Estado y su Reglamento.
+Los Agentes del Ministerio Público, se encuentran adscritos a la Procuraduría General de Justicia del Estado de Jalisco. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción, permanencia y terminación del cargo, serán definidos y regulados por lo establecido en la Ley Orgánica de la Procuraduría General de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
 ###### Artículo 17.
 
-Los funcionarios judiciales para adolescentes, se encuentran adscritos al Poder Judicial del Estado. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción, permanencia y terminación del nombramiento, serán definidos por el Consejo de la Judicatura. Sus atribuciones y funciones serán reguladas, según corresponda, en la Ley Orgánica del Poder Judicial del Estado.
+Los funcionarios judiciales para adolescentes, se encuentran adscritos al Poder Judicial del Estado. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción, permanencia y terminación del nombramiento para los Jueces, serán definidos por el Consejo General del Poder Judicial del Estado.
+
+Sus atribuciones y funciones serán reguladas, según corresponda, en la Ley Orgánica del Poder Judicial del Estado.
+
+En relación con la Sala especializada, corresponderá la designación de los Magistrados integrantes de la misma, al H. Congreso del Estado, de conformidad con la Constitución Política del Estado de Jalisco.
 
 ###### Artículo 18.
 
@@ -437,7 +459,9 @@ I. Pornografía Infantil, tipificado en el artículo 136 bis, fracciones I y III
 
 II. Falsificación de medios electrónicos o magnéticos, tipificado en el artículo 170 del Código Penal del Estado de Jalisco;
 
-III. Violación, tipificado en el artículo 175 del Código Penal del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
+
+III. Violación, y violación equiparada, tipificados en los artículos 175 y 176 del código Penal del Estado de Jalisco;
 
 IV. Extorsión, tipificado en el artículo 189, párrafo segundo y cuarto del Código Penal del Estado de Jalisco;
 
@@ -445,15 +469,33 @@ V. Infanticidio, tipificado en el artículo 226 del Código Penal del Estado de 
 
 VI. Secuestro y conductas tipificadas en el artículo 194 del Código Penal del Estado de Jalisco;
 
-VII. Homicidio, tipificado en los artículos 213, 217 y 219 del Código Penal del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
+
+VII. Homicidio, tipificado en los artículos 48 penúltimo párrafo, 213, 217 y 219 del Código Penal del Estado de Jalisco;
 
 VIII. Parricidio tipificado en el artículo 223 del Código Penal del Estado de Jalisco;
 
-IX. Robo, en los casos tipificados en los artículos 234, Fracciones III, IV, V, VI y VII, 235, fracción III, 236 bis, apartado a), fracciones II y III, apartado b) en su totalidad, apartados c) y d) en su totalidad, del Código Penal del Estado de Jalisco; y
+IX. Robo, en los casos tipificados en los artículos 234, Fracciones III, IV, V, VI y VII, 235, fracción III, 236 bis, apartado a), fracciones II y III, apartado b) en su totalidad, apartados c) y d) en su totalidad, del Código Penal del Estado de Jalisco; y (sic)
 
 > <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 X. Abigeato y robo de animales, tipificado en los artículos 240 y 242 del Código Penal del Estado de Jalisco.
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2007)</small>
+
+XI. Corrupción de menores, tipificado en el artículo 136 del Código Penal del Estado de Jalisco en sus dos últimos párrafos;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2007)</small>
+
+XII. Robo de infante, previsto en el artículo 179 párrafo cuarto del Código Penal del Estado de Jalisco;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2007)</small>
+
+XIII. Tráfico de menores, tipificado en el artículo 179 bis párrafos primero y quinto del Código Penal en el Estado de Jalisco; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2007)</small>
+
+XIV. Aborto, tipificado en el artículo 228 párrafo penúltimo del Código Penal del Estado de Jalisco.
 
 ###### Artículo 27.
 
@@ -483,19 +525,23 @@ Los plazos procesales serán improrrogables y su vencimiento hará precluir la f
 
 Todos los hechos y circunstancias pertinentes para la adecuada solución del caso sometido a conocimiento habrán de ser acreditados por cualquier medio de prueba, siempre que no vulneren derechos y garantías fundamentales.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 31.
 
-Si en el transcurso del procedimiento se comprueba que la persona a quien se imputa la realización de la conducta tipificada como delito era mayor de 18 años de edad al momento de realizarla, el Ministerio Público o el Juez, según sea el caso, se declarará incompetente y remitirá los autos a la autoridad competente.
+Si en el transcurso del procedimiento se comprueba que la persona a quien se imputa la realización de la conducta tipificada como delito era mayor de 18 años de edad al momento de realizarla, el Ministerio Público o el Juez, según sea el caso, se declarará incompetente y remitirá los autos a la Autoridad competente.
 
-Si en el transcurso del procedimiento, se comprueba que la persona a quien se le imputa la realización de la conducta era niño o niña menor de 12 años de edad al momento de realizarla, se archivarán las actuaciones y se notificará, cuando así proceda, a las instituciones dedicadas a la protección de los derechos de la infancia.
+Si en el transcurso del procedimiento, se comprueba que la persona a quien se le imputa la realización de la conducta era niño o niña menor de 12 años de edad al momento de realizarla, se derivarán las actuaciones al Consejo Estatal de Familia para efectos de que resuelva la situación jurídica y se decrete la medida de protección que corresponda, trasladándose al niño o niña a alguna institución de Asistencia Social que reciba recursos públicos, se archivarán las actuaciones y se notificará, cuando así proceda, a las instituciones dedicadas a la protección de los derechos de la infancia.
 
 ###### Artículo 32.
 
 Si en un hecho intervienen uno o varios adolescentes con uno o varios adultos, las causas se separarán y las autoridades especializadas para adolescentes conocerán de lo que corresponda, con plena autonomía de jurisdicción y competencia.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 33.
 
-La prescripción opera en tres años para el caso de conductas que constituyan delitos perseguibles de oficio, y en seis meses para el caso de aquéllos de querella necesaria.
+La prescripción para el ejercicio de la acción de la conducta tipificada como delito, opera en seis años para el caso de conductas que constituyan delitos perseguibles de oficio, y en seis meses para el caso de aquéllos de querella necesaria.
 
 ###### Artículo 34.
 
@@ -543,9 +589,9 @@ En los casos de flagrancia, cualquier persona puede detener al inculpado, ponié
 
 El adolescente retenido en flagrancia quedará a disposición del Ministerio Público, quien inmediatamente calificará la legalidad de la retención, y en caso de ser contraria a la Constitución y al presente ordenamiento lo pondrá en inmediata libertad.
 
-> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
-El adolescente retenido en flagrancia en la comisión de conductas tipificadas como delitos graves a que se refiere el artículo 26, quedará a disposición del Agente del Ministerio Público, por un término de hasta 24 horas, contadas a partir de que sea puesto a su disposición, a efecto del desahogo de la investigación conducente e integración del expediente respectivo; para lo cual el adolescente tendrá derecho a una estancia especializada, de acuerdo con su edad y sexo, totalmente separado de los adultos y fuera de los regimenes penitenciarios. En ningún caso excederá de 24 horas, posteriormente hará la remisión al Juez, dejando al adolescente a su disposición en el Centro de Diagnóstico.
+El adolescente retenido en flagrancia en la comisión de conductas tipificadas como delitos graves a que se refiere el artículo 26, quedará a disposición del Agente del Ministerio Público, por un término de hasta 48 horas, contadas a partir de que sea puesto a su disposición, a efecto del desahogo de la investigación conducente e integración del expediente respectivo; para lo cual el adolescente tendrá derecho a una estancia especializada, de acuerdo con su edad y sexo, totalmente separado de los adultos y fuera de los regimenes penitenciarios. En ningún caso excederá de 48 horas, posteriormente hará la remisión al Juez, dejando al adolescente a su disposición en el Centro de Diagnóstico.
 
 En los supuestos de que el adolescente cometa conductas tipificadas como delito, calificadas como no graves, el Agente del Ministerio Público ordenará su libertad de forma inmediata; mientras se investigue e integre el procedimiento, el Ministerio Público podrá requerir al adolescente para que comparezca ante él, las veces que sean necesarias.
 
@@ -643,9 +689,13 @@ III. Ejecución, una vez que cause estado la sentencia, iniciará el procedimien
 
 #### Sección l. Procedimiento Inicial
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 48.
 
-A partir del momento en que el escrito de remisión es recibido por el Juez, éste deberá celebrar una Audiencia, previa notificación a las partes, dentro de los cinco días, cuando el adolescente no se encuentre retenido, con el fin de determinar si se encuentra acreditada la conducta tipificada como delito, así como los indicios de responsabilidad del adolescente en su comisión, acreditado lo anterior se determinará la vinculación a procedimiento y la procedencia de medidas precautorias si el Ministerio Público lo solicitare.
+A partir del momento en que el escrito de remisión es recibido por el Juez, éste deberá celebrar una Audiencia, previa notificación a las partes, dentro de los cinco días, prorrogables una sola vez, cuando el adolescente no se encuentre retenido, pero si localizable, en caso contrario se diferirá hasta que el adolescente sea presentado para la celebración de la misma, la que de inmediato habrá de celebrarse teniendo como fin determinar si se encuentra acreditada la conducta tipificada como delito, así como los indicios de responsabilidad del adolescente en su comisión, acreditado lo anterior se determinará la vinculación a procedimiento y la procedencia de medidas precautorias si el Ministerio Público lo solicitare.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
 ###### Artículo 49.
 
@@ -653,19 +703,21 @@ A esta audiencia deberán concurrir el Agente del Ministerio Público, el adoles
 
 Es indelegable la presencia del Juez en todas las audiencias que se lleven a cabo a partir de la recepción del escrito de remisión y hasta la emisión de la sentencia.
 
-El Juez, invariablemente, deberá tomar conocimiento directo del estado físico y emocional, así como de las circunstancias y condiciones particulares de la víctima u ofendido, a fin de acordar las medidas necesarias para su atención y protección durante el procedimiento, sin menoscabo de las que hubiere decretado el Ministerio Público.
+El Juez, directamente, y en su caso con apoyo de especialistas en la materia, deberá tomar conocimiento directo del estado físico y emocional, así como de las circunstancias y condiciones particulares de la víctima u ofendido, a fin de acordar las medidas necesarias para su atención y protección durante el procedimiento, sin menoscabo de las que hubiere decretado el Ministerio Público.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
 ###### Artículo 50.
 
-Cuando la remisión se efectúe con retenido, el Juez deberá examinar la legalidad de la retención efectuada en flagrancia del adolescente puesto a su disposición y, en caso de que ésta resultara improcedente, decretará de inmediato su libertad. Si ratificare la retención, deberá celebrar la audiencia de vinculación a proceso de inmediato, que no excederá de 24 horas.
+Cuando la remisión se efectúe con retenido, el Juez deberá examinar la legalidad de la retención efectuada en flagrancia del adolescente puesto a su disposición y, en caso de que ésta resultara improcedente, decretará de inmediato su libertad. Si ratificare la retención, deberá celebrar la audiencia de vinculación a proceso de inmediato, que no excederá de 48 horas.
 
-El adolescente podrá solicitar la suspensión de la audiencia por un plazo de hasta cuarenta y ocho horas para aportar elementos de convicción antes de que se resuelva su situación jurídica o se pronuncie sobre la medida precautoria. La prolongación de la retención en su perjuicio será sancionada por la ley penal.
+El adolescente podrá solicitar la suspensión de la audiencia por un plazo de hasta 72 horas para aportar elementos de convicción antes de que se resuelva su situación jurídica o se pronuncie sobre la medida precautoria. La prolongación de la retención en su perjuicio será sancionada por la ley penal.
 
-> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
 
 ###### Artículo 51.
 
-Para la celebración de la audiencia de vinculación al procedimiento, si el adolescente no se encontrara retenido o se hubiere decretado su libertad dentro del término para la vinculación al procedimiento luego de calificada la legalidad de la retención, el Juez podrá dictar, a solicitud del Ministerio Público:
+Para la celebración de la audiencia de vinculación a procedimiento, si el adolescente no se encontrara retenido o se hubiere decretado su libertad dentro del término para la vinculación al procedimiento luego de calificada la legalidad de la retención, el Juez podrá dictar, a solicitud del Ministerio Público, dentro de las 24 horas siguientes a la recepción de la misma:
 
 I. Orden de presentación en los casos en los que la conducta que se investiga no merezca medida de tratamiento en internamiento. En caso de que el adolescente no comparezca voluntariamente, el Juez podrá hacerlo comparecer con el auxilio de la policía investigadora; y
 
@@ -825,13 +877,13 @@ El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá la
 
 El acuerdo conciliatorio no implica ni requiere el reconocimiento, por parte del adolescente, de haber realizado la conducta que se le atribuye.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 72.
 
 Si el adolescente cumple con todas las obligaciones contenidas en el acuerdo conciliatorio, la autoridad correspondiente debe resolver la terminación del procedimiento y ordenará su archivo definitivo o el sobreseimiento. En caso de incumplimiento de dichas obligaciones, el procedimiento continuará a partir de la última actuación que conste en el expediente.
 
 No se podrá invocar, dar lectura, ni incorporar como medio de prueba ningún antecedente que tenga relación con la proposición, discusión, aceptación, procedencia, rechazo o revocación de un procedimiento de conciliación.
-
-El acuerdo conciliatorio tendrá el carácter de título ejecutivo únicamente en lo relativo a la reparación del daño, dejándose a salvo los derechos de la víctima o del ofendido para hacerlos valer ante los tribunales competentes.
 
 ## TÍTULO CUARTO. DE LAS MEDIDAS
 
@@ -861,7 +913,9 @@ Lo anterior, con independencia de la modificación de la medida que realice la S
 
 Las medidas de orientación y protección consisten en apercibimientos, mandamientos, prohibiciones o la aplicación de talleres en su caso, con el fin de regular el modo de vida de los adolescentes en lo que se refiere a conductas que afectan el interés de la sociedad, protegiendo sus derechos, promoviendo su formación, la comprensión del sentido que tiene la medida, el fomento de vínculos socialmente positivos y el pleno desarrollo de su personalidad.
 
-Las medidas de orientación y protección se aplicarán bajo el seguimiento de los servidores públicos que la Subdirección General designe, excepto la de apercibimiento, y en lo posible con la colaboración de la familia y su comunidad.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
+Las medidas de orientación y protección se aplicarán bajo el seguimiento de los servidores públicos que la Subdirección General designe, excepto la de apercibimiento, y en lo posible con la colaboración de la familia y su comunidad. Para lo cual la Subdirección General establecerá Programas que propicien el acompañamiento de las familias del adolescente en el caso de que haya señalado un tratamiento, con orientación, talleres y apoyo psicológico para que colaboren a la reintegración social de estos jóvenes y obtengan un mayor conocimiento de sus características y necesidades.
 
 #### Sección l. Apercibimiento
 
@@ -873,7 +927,9 @@ El apercibimiento consiste en la llamada de atención que el Juez Especializado 
 
 Cuando la resolución en la que se sancione al adolescente con apercibimiento quede firme, dentro de los tres días siguientes el Juez procederá a ejecutar la medida en audiencia especial. De la ejecución del apercibimiento se dejará constancia por medio de acta que deberá ser firmada por el Juez, el adolescente y quienes hayan estado presentes.
 
-En el mismo acto, el Juez podrá solicitar la participación de los padres, tutores, o a quienes ejerzan la patria potestad o custodia para que fortalezcan sus deberes en la formación, educación y supervisión del adolescente.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
+En el mismo acto, el Juez solicitará la participación de los padres, tutores, o a quienes ejerzan la patria potestad o custodia para que fortalezcan sus deberes en la formación, educación y supervisión del adolescente.
 
 #### Sección II. Libertad Asistida
 
@@ -903,9 +959,11 @@ La naturaleza del servicio prestado por el adolescente deberá estar vinculada, 
 
 La duración de esta medida debe tener relación directa con los daños causados, así como la existencia de voluntad de ocasionarlos, que en ningún caso podrá ser inferior a tres meses ni mayor de cuatro años.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 80.
 
-Cuando quede firme la resolución del Juez que impuso esta medida, la Sala citará al adolescente para hacer de su conocimiento el contenido del Programa Personalizado de Ejecución, en el que deberá indicarse claramente:
+Cuando quede firme la resolución del Juez que impuso esta medida, la Sala citará al adolescente y su representante legítimo para hacer de su conocimiento el contenido del Programa Personalizado de Ejecución, en el que deberá indicarse claramente:
 
 I. El tipo de servicio que debe prestar;
 
@@ -1045,7 +1103,9 @@ La falta de cumplimiento a sus obligaciones laborales, se considerará como caus
 
 La medida de abstenerse de ingerir bebidas alcohólicas, drogas, estupefacientes y demás sustancias prohibidas consiste en ordenar al adolescente que no consuma este tipo de bebidas o sustancias en cualquier lugar público o privado cuando se haya comprobado que la conducta fue realizada como consecuencia de haberlas ingerido. Dicha medida en ningún caso podrá ser inferior a seis meses ni exceder de cuatro años.
 
-La finalidad de esta medida es obstaculizar el acceso del adolescente al alcohol y todo tipo de sustancias prohibidas, contribuyendo con ello al tratamiento médico y psicológico de posibles adicciones. Esta medida no implica ni admite la obligación de someterse a dichos tratamientos, sin perjuicio de que el Programa Personalizado de Ejecución contemple los mecanismos necesarios para conminar al adolescente para que, voluntariamente, admita la intervención que a su problemática corresponda y para que continúe con ella hasta ser dado de alta.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
+La finalidad de esta medida es obstaculizar el acceso del adolescente al alcohol y todo tipo de sustancias prohibidas, contribuyendo con ello al tratamiento médico y psicológico de posibles adicciones. Sin perjuicio de que el programa personalizado de ejecución contemple los mecanismos necesarios para conminar al adolescente para que, voluntariamente, admita la intervención que a su problemática corresponda y para que continúe con ella hasta ser dado de alta.
 
 ###### Artículo 101.
 
@@ -1147,9 +1207,11 @@ La aplicación de la medida prevista en esta sección, es de competencia exclusi
 
 La etapa de aplicación de las medidas comprende todas las acciones destinadas a asegurar su cumplimiento y lograr el fin que con su aplicación se persigue, así como todo lo relativo al trámite y resolución de las cuestiones que se presenten durante esta fase.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 114.
 
-La Sala es la autoridad judicial responsable del control y supervisión de la legalidad de la aplicación y ejecución de las medidas; debe por tanto resolver las cuestiones que se presenten durante esta fase, así como vigilar y garantizar el cumplimiento de los objetivos fijados por esta Ley.
+La Sala es la autoridad judicial responsable del control y supervisión de la legalidad de la aplicación y ejecución de las medidas; debe por tanto resolver las cuestiones que se presenten durante esta fase.
 
 En ningún caso autoridades administrativas o diferentes a las del Poder Judicial del Estado, podrán decretar la modificación, sustitución o el cumplimiento anticipado de la medida impuesta.
 
@@ -1367,11 +1429,11 @@ Las quejas deben ser presentadas de manera escrita ante la Sala, quien deberá r
 
 La Sala dispondrá, lo necesario para salvaguardar los derechos del agraviado mientras se resuelve la queja.
 
-## TRANSITORIOS
+## Artículos transitorios
 
-> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
-PRIMERO. La presente Ley, entrará en vigor a los 120 días posteriores a su publicación en el Periódico Oficial "El Estado de Jalisco", salvo los artículos tercero y quinto transitorios del presente decreto que entrarán en vigor el día de su publicación.
+PRIMERO. El presente decreto entrará en vigor el día 15 de Febrero del 2007, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Se abroga la Ley de Menores Infractores del Estado de Jalisco expedida mediante decreto número 21202 del 22 de diciembre del 2005.
 
@@ -1382,6 +1444,10 @@ CUARTO. A la entrada en vigor de la presente Ley quedará abrogada la Ley de Rea
 QUINTO. En tanto entra en vigor la presente ley, los Poderes Ejecutivo y Judicial deberán disponer de todos los recursos materiales y humanos necesarios para la implementación del Sistema de Justicia Integral que establece este ordenamiento, para lo cual en dicho término deberán de realizar las adecuaciones, presupuestales, orgánicas y reglamentarias, correspondientes, así mismo deberán preveerse (sic) la selección y capacitación de los Servidores Públicos del personal del sistema.
 
 SEXTO. Los menores de edad sujetos a procedimiento establecido en los ordenamientos en materia de menores infractores a la entrada en vigor de la presente ley podrán acogerse a sus disposiciones en todo aquello que los beneficie.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2007)</small>
+
+SÉPTIMO. EL defensor de oficio a que se refiere la presente ley, dependerá de la Defensoría de Oficio del Poder Judicial del Estado hasta en tanto entre en funciones la Procuraduría Social.
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
@@ -1420,3 +1486,11 @@ El Secretario General de Gobierno
 MTRO. GERARDO OCTAVIO SOLÍS GÓMEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS</small>
+
+DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 25 DE ENERO DE 2007.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
