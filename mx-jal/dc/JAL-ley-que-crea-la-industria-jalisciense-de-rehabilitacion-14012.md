@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-la-industria-jalisciense-de-rehabilitacion-14012"
 country: "mx"
 rank: "ley"
 publication_date: "1981-05-07"
-last_updated: "2007-01-13"
+last_updated: "2007-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA LA INDUSTRIA JALISCIENSE DE REHABILITACION SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 7 de mayo de 1981.
 
@@ -43,7 +43,7 @@ Ley que crea la Industria Jalisciense de Rehabilitación Social.
 
 ###### Artículo 1°.
 
-Se crea como un organismo público descentralizado del Poder Ejecutivo del Estado, dotado con personalidad jurídica y patrimonio propios, a la “Industria Jalisciense de Rehabilitación Social”, que tendrá a su cargo la creación, control y administración de las industrias que se constituyan en todos lo (sic) reclusorios preventivos y centros de readaptación social del Estado, de adultos, hombres o mujeres, así como la organización del trabajo que en ellas se desempeñe por los internos y la comercialización de los productos resultantes.
+Se crea como un organismo público descentralizado del Poder Ejecutivo del Estado, dotado con personalidad jurídica y patrimonio propios, a la "Industria Jalisciense de Rehabilitación Social", que tendrá a su cargo la creación, control y administración de las industrias que se constituyan en todos lo (sic) reclusorios preventivos y centros de readaptación social del Estado, de adultos, hombres o mujeres, así como la organización del trabajo que en ellas se desempeñe por los internos y la comercialización de los productos resultantes.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -67,9 +67,9 @@ c) Realizar toda clase de actos jurídicos y celebrar los contratos que requiera
 
 d) Adquirir los bienes muebles e inmuebles y realizar las construcciones necesarias en los mismos, para el cumplimiento de sus fines.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
-e) Difundir conocimientos y prácticas para el mejor desempeño de los trabajos, como medios para la readaptación social del interno. En cada centro de trabajo se procurará establecer una sección de taller escuela, en donde además de facilitar el aprendizaje técnico de los trabajos que deban realizarse en el mismo, y de implementar los programas piloto de nuevas líneas de producción, se establecerá un plan de capacitación industrial, semi-industrial, agropecuaria y artesanal, en su caso, acorde a las demandas de trabajo del mercado local, procurándose equiparar y manejar en coordinación con las instituciones públicas y privadas de enseñanza técnica para el trabajo.
+e) Difundir conocimiento y prácticas para el mejor desempeño de los trabajos, como medios para la readaptación social del recluso. En cada centro de trabajo se procurará establecer una sección de taller escuela, en donde además de facilitar el aprendizaje técnico de los trabajos que deban realizarse en el mismo, y de implementar los programas piloto de nuevas líneas de producción, se establecerá un plan de capacitación industrial, semi-industrial y agropecuaria, en su caso, acorde a las demandas de trabajo del mercado comercial e industrial local, procurándose equipar y manejar en coordinación con las instituciones públicas y privadas de enseñanza técnica para el trabajo.
 
 f) Expedir su Reglamento Interior.
 
@@ -79,15 +79,17 @@ g) Capacitar al personal administrativo y de vigilancia, a efecto de lograr el �
 
 h) Determinar y acondicionar los lugares en donde deban laborar los internos, en los términos de lo dispuesto por el artículo 123 de la Constitución General de la República y sus leyes reglamentarias, tomando en cuenta las recomendaciones que para el caso hagan los consejos técnicos de las instituciones o la Dirección General de Prevención y Readaptación Social, de conformidad a la Ley de Ejecución de Penas del Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
-i) Asignar a los internos el trabajo que considere más conveniente con base en los estudios previamente realizados por la Dirección General de Prevención y Readaptación Social, de los que se desprenda la vocación, aptitudes, deseos y capacitación laboral del delincuente, así como las posibilidades del reclusorio.
+i) Asignar a los internos el trabajo que considere más conveniente con base en los estudios que recibirá semestralmente previamente realizados por los Consejos Técnicos Interdisciplinarios de cada centro dependiente de la Dirección General de Prevención y Readaptación Social, de los que se desprenda la vocación, aptitudes, deseos y capacitación laboral del delincuente, así como las posibilidades del reclusorio.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
 j) Organizar el trabajo en los reclusorios previo estudio de las características de la economía y mercado local, a fin de favorecer la correspondencia entre las demandas de éste y la producción penitenciaria, con vistas a la autosuficiencia económica del establecimiento. Otorgando prioridad a aquellas que correspondan a la satisfacción de insumos útiles para el propio reclusorio, el Estado y los Municipios.
 
-k) Favorecer el desarrollo de todas las medidas de tratamiento compatibles con el régimen establecido en esta Ley, los convenios y con las circunstancias de la localidad y de los internos.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
+k) Favorecer el desarrollo de todas las medidas de tratamiento de rehabilitación compatibles con el régimen establecido en esta ley, los convenios y con las circunstancias de la localidad y de los internos.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -113,9 +115,11 @@ o) Promover y coordinar la comercialización de artículos de la industria Jalis
 
 p) Apoyar a los internos que hayan cumplido con sus sentencias, para su inscripción en bolsas de trabajo, tanto públicas, como privadas.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 3º.
 
-La Industria Jalisciense de Rehabilitación Social vigilará que los trabajos que se desempeñen por los internos en los diversos Centros Penitenciarios se lleven a cabo con estricto apego a las disposiciones que al respecto establece la Constitución General de la República y sus Leyes Reglamentarias, dentro de las posibilidades del presupuesto de cada Institución y determinará las normas a que se sujetarán las industrias que en las mismas se establecieren.
+La Industria Jalisciense de Rehabilitación Social vigilará que los trabajos que se desempeñen por los internos en los diversos centros penitenciarios se lleven a cabo con estricto apego a las disposiciones que al respecto establece la Constitución General de la República y sus leyes reglamentarias, dentro de las posibilidades del presupuesto de esta industria penitenciaria y determinará las normas a que se sujetarán las industrias que en las mismas se establecieren.
 
 ###### Artículo 4°.
 
@@ -127,9 +131,11 @@ Los empleados y trabajadores de la Industria Jalisciense de Rehabilitación Soci
 
 Ningún interno podrá desempeñar funciones de autoridad. Sólo a los internos de la institución abierta, se podrá otorgar mando o dirección, siempre que las condiciones del trabajo lo requieran y no signifique un trastorno en el orden y equilibrio de las relaciones al interior del centro.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 6°.
 
-El trabajo que se encomiende a los internos se apoyará en los estudios vocacionales y de aptitud que al efecto se realicen respecto del interno, así como en su evolución y aprendizaje.
+El trabajo que se encomiende a los internos se apoyará en los estudios vocacionales y de aptitud que al efecto reciba INJALRESO y se realicen de manera semestral por los Consejos Técnicos Interdisciplinarios de cada centro penitenciario respecto del interno, así como en su evolución y aprendizaje.
 
 ###### Artículo 7°.
 
@@ -139,13 +145,11 @@ El trabajo es obligatorio para todos los sentenciados de acuerdo con su aptitud 
 
 El Poder Ejecutivo del Estado deberá proveer a través de la Industria Jalisciense de Rehabilitación Social o por medio de la autoridad penitenciaria correspondiente la capacitación y elementos para el adecuado desempeño del trabajo penitenciario.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
 ###### Artículo 8°.
 
-La Industria Jalisciense de Rehabilitación Social, podrá administrar y organizar el trabajo tanto en los centros de readaptación social como en los reclusorios preventivos del Estado conforme a la presente ley.
-
-El Ejecutivo del Estado podrá otorgar concesiones a favor de particulares y deberán cumplir con los requisitos que determine la Ley de Ejecución de Penas y los demás ordenamientos aplicables.
+Solo la Industria Jalisciense de Rehabilitación Social, y nunca por interpósita persona física o jurídica, podrá administrar y organizar el trabajo tanto en los centros de readaptación social como en los reclusorios preventivos del estado conforme a la presente ley, y para tal efecto por esta ley se otorga a la Industria Jalisciense de Rehabilitación Social el derecho de uso, manejo y administración de las naves industriales y talleres existentes y por construir en los centros penitenciarios del Estado, por lo cual en caso de otorgar espacios concesionados a industriales particulares, se hará, elaborando el contrato convenio correspondiente con los particulares que se contacten o soliciten instalar, colaborar, maquilar o ensamblar productos dentro de los espacios o naves industriales existentes en los reclusorios del Estado, reservándose el derecho de anulación o cancelación del mismo cuando se desvíe el fin de capacitación y rehabilitación social del organismo.
 
 ###### Artículo 9°.
 
@@ -167,17 +171,21 @@ En el reglamento de esta ley se determinará de manera precisa el tiempo que deb
 
 En cada unidad de trabajo deberá permanecer por lo menos una persona libre pagada por la Industria Jalisciense de Rehabilitación Social, para los efectos de orientación y dirección de los internos.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 13.
 
-Cada Institución Penal podrá constituir fuentes de trabajo que no sean de interés especial de la Industria Jalisciense de Rehabilitación Social, con objeto de que con los productos de las mismas puedan integrar fondos para gastos de emergencia, sin que esto obste para que la Tesorería General del Estado ordene las auditorías respectivas.
+Es facultad exclusiva de la Industria Jalisciense de Rehabilitación Social, la promoción, contratación y autorización de talleres o industrias dentro de los reclusorios del Estado, por lo que en el caso de que los centros penitenciarios tengan contacto o sugerencias de constitución de talleres o industrias, deberán canalizar dichos inversionistas o inquietudes a este organismo quien de manera expedita atenderá la sugerencia o interés del empresario o comerciante maquilador o ensamblador.
 
 ###### Artículo 14.
 
 La Industria Jalisciense de Rehabilitación Social podrá contratar con Instituciones de Seguridad Social regidas por Leyes Federales la prestación de servicios médicos a los internos debiendo cubrirse las cotizaciones en las proporciones respectivas que señalen las Leyes y Reglamentos que las rijan.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+
 ###### Artículo 15.
 
-La Industria Jalisciense de Rehabilitación Social deberá informar al Departamento de Servicios Coordinados de Prevención y Readaptación Social sobre la conducta de cada interno observada en el trabajo, sus insistencias, sus adelantos, progresos y sus problemas de personalidad.
+La Industria Jalisciense de Rehabilitación Social deberá informar a la Dirección General de Prevención y Readaptación Social sobre la conducta de cada interno observada en el trabajo, sus inasistencias, sus adelantos, progresos y sus problemas de personalidad.
 
 ###### Artículo 16.
 
@@ -279,7 +287,7 @@ VII. Disponer sin más limitaciones que las que las Leyes establezcan, de las In
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-VIII. Nombrar a propuesta del Director General y remover la planta de empleados y directores o gerentes que sean necesarios para la administración y cumplimiento de los fines de la Industria Jalisciense de Rehabilitación Social.
+VIII. Nombrar a propuesta del Director General y remover la planta de empleados y directores o gerentes que sean necesarios para la administración y cumplimiento de los fines de la Industria Jalisciense de Rehabilitación Social;
 
 IX. Discutir y aprobar en su caso los presupuestos de Ingresos y Egresos que elabore el Presidente del Consejo.
 
@@ -303,7 +311,9 @@ XVIII. Dictar las medidas para capacitar al personal especialmente al administra
 
 XIX. Ordenar los estudios correspondientes a determinar la vocación del interno, sus aptitudes, deseos, capacitación laboral y las posibilidades del reclusorio a efecto de estar en posibilidad de asignar a los internos el trabajo que se considere conveniente, en conjunción con el tratamiento individualizado, instaurado por el Consejo Técnico del Reclusorio.
 
-XX. Tomar como base para la asignación al trabajo de recluso su expediente criminológico o en su defecto los estudios vocacionales o de aptitud para el trabajo que con ese objeto se ordenen, así como la evolución y el aprendizaje en esa materia que alcance el interno.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
+
+XX. Recomendar la mejor forma en que la industria jalisciense de rehabilitación social efectuará la asignación al trabajo del recluso tomando como base la información proporcionada por el centro penitenciario con respecto a su expediente criminológico o en su defecto los estudios vocacionales o de aptitud para el trabajo que con ese objeto se ordenen, así como la evolución y el aprendizaje en esa materia que alcance el interno.
 
 XXI. Estimular y proporcionar a los sentenciados, en lo posible, los medios necesarios para el desempeño de su trabajo.
 
@@ -355,7 +365,9 @@ VII. Solicitar de los órganos establecidos por la Ley, la práctica de inspecci
 
 VIII. Promover y gestionar ante toda clase de autoridades, o personas físicas y jurídicas, la incorporación al patrimonio de la Industria Jalisciense de Rehabilitación Social, de todos los bienes, frutos y productos que por ley o por actos de particulares puedan pertenecerle.
 
-IX. Representar a la Industria ante las Autoridades Administrativas, Judiciales y del Trabajo, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la Ley. Estará investido de poder general para pleitos y cobranzas y para actos de administración; podrá otorgar y suscribir títulos de crédito a nombre de la Industria con firma mancomunada del Presidente del Consejo, salvo en el caso de los créditos a que se refiere el Art. 27 fracción XIII, y celebrar y firmar los contratos que apruebe el Consejo, ejerciendo aquellas facultades de dominio que expresa y específicamente autorice el Consejo. Podrá otorgar poderes generales o especiales para pleitos y cobranzas y revocarlos.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
+
+IX. Representar a la industria ante las autoridades administrativas, judiciales y del trabajo, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la ley. Estará investido de poder general para pleitos y cobranzas y para actos de administración y podrá otorgar y sustituir poderes generales o especiales para pleitos y cobranzas y revocarlos; podrá otorgar y suscribir títulos de crédito a nombre de la industria con firma mancomunada del Presidente del Consejo, salvo en el caso de los créditos a que se refiere el artículo 27 fracción XIII, y celebrar y firmar los contratos que apruebe el Consejo, ejerciendo aquellas facultades de dominio que expresa y específicamente autorice el Consejo. Podrá otorgar poderes generales o especiales para pleitos y cobranzas y revocarlos.
 
 X. Proponer al Consejo de Administración las medidas que considere más convenientes a efecto de que el trabajo desmpeñado (sic) por los internos tienda a obtener su reintegración a la Sociedad; al igual que el mayor rendimiento de las fuentes patrimoniales de la Industria Jalisciense de Rehabilitación Social con objeto de que cada Institución alcance independencia económica.
 
@@ -510,5 +522,9 @@ P.O. 30 DE DICIEMBRE DE 2003.
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 13 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
