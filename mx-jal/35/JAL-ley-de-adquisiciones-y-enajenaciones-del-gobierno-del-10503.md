@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-adquisiciones-y-enajenaciones-del-gobierno-del-10503"
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-14"
-last_updated: "2006-08-22"
+last_updated: "2007-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ADQUISICIONES Y ENAJENACIONES DEL GOBIERNO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 14 de marzo de 1995.
 
@@ -211,9 +211,17 @@ II. Cuando se trate de adquisiciones de urgencia, motivadas por accidentes o aco
 
 III. Cuando se trate de adquisiciones de bienes perecederos, granos y productos alimenticios, básicos o semiprocesados, que se hagan directamente a los productores;
 
-IV. La contratación de los servicios básicos y complementarios que requieran las secretarías, dependencias y organismos auxiliares; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
 
-V. Cuando se trate de bienes requeridos para garantizar la seguridad interior del Estado
+IV. La contratación de los servicios básicos y complementarios que requieran las secretarías, dependencias y organismos auxiliares;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
+
+V. Cuando se trate de bienes requeridos para garantizar la seguridad interior del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2007)</small>
+
+VI. Aquellos que sean producidos por la industria Jalisciense de Rehabilitación Social.
 
 ###### Artículo 14.
 
@@ -716,3 +724,7 @@ P.O. 1 DE AGOSTO DE 2006.
 P.O. 22 DE AGOSTO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE ENERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
