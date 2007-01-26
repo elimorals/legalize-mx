@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-estatal-de-la-cultura-del-217
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-25"
-last_updated: "2003-11-07"
+last_updated: "2007-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA CULTURA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el lunes 25 de junio de 2001.
 
@@ -159,59 +159,65 @@ VI.- Dirección Editorial;
 
 VII.- Dirección de Museos;
 
-VIII.- Coordinación de Recursos Financieros y Materiales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2007)</small>
 
-IX.- Coordinación de Recursos Humanos y Servicios;
+VIII.- Dirección de Filmaciones;
 
-X.- Coordinación de Casas de la Cultura;
+IX.- Coordinación de Recursos Financieros y Materiales;
 
-XI.- Coordinación de Bibliotecas;
+X.- Coordinación de Recursos Humanos y Servicios;
 
-XII.- Biblioteca “Dr. Emilio Uranga”;
+XI.- Coordinación de Casas de la Cultura;
 
-XIII.- Coordinación de Vinculación con el Sistema Educativo;
+XII.- Coordinación de Bibliotecas;
 
-XIV.- Coordinación Académica y de Investigación;
+XIII.- Biblioteca “Dr. Emilio Uranga”;
 
-XV.- Coordinación de Culturas Populares;
+XIV.- Coordinación de Vinculación con el Sistema Educativo;
 
-XVI.- Coordinación de Fondos Culturales;
+XV.- Coordinación Académica y de Investigación;
 
-XVII.- Coordinación de Patrimonio Arqueológico;
+XVI.- Coordinación de Culturas Populares;
 
-XVIII.- Coordinación de Patrimonio Arquitectónico;
+XVII.- Coordinación de Fondos Culturales;
 
-XIX.- Coordinación de Patrimonio Artístico;
+XVIII.- Coordinación de Patrimonio Arqueológico;
 
-XX.- Coordinación de Patrimonio Histórico Documental;
+XIX.- Coordinación de Patrimonio Arquitectónico;
 
-XXI.- Coordinación de Teatros;
+XX.- Coordinación de Patrimonio Artístico;
 
-XXII.- Coordinación de Festivales;
+XXI.- Coordinación de Patrimonio Histórico Documental;
 
-XXIII.- Banda de Música del Estado;
+XXII.- Coordinación de Teatros;
 
-XXIV.- Coordinación de Producción Editorial;
+XXIII.- Coordinación de Festivales;
 
-XXV.- Coordinación de Diseño;
+XXIV.- Banda de Música del Estado;
 
-XXVI.- Museos Públicos Estatales;
+XXV.- Coordinación de Producción Editorial;
 
-XXVII.- Coordinación de Vinculación con otros Museos;
+XXVI.- Coordinación de Diseño;
 
-XXVIII.- Coordinación de Comunicación;
+XXVII.- Museos Públicos Estatales;
 
-XXIX.- Coordinación de Asuntos Jurídicos;
+XXVIII.- Coordinación de Vinculación con otros Museos;
 
-XXX.- Secretaría Particular; y (sic)
+XXIX.- Coordinación de Comunicación;
+
+XXX.- Coordinación de Asuntos Jurídicos;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+XXXI.- Secretaría Particular;
 
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2003)</small>
 
-XXXI.- Asesores; y
+XXXII.- Asesores; y
 
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2003)</small>
 
-XXXII. Órganos Desconcentrados.
+XXXIII. Órganos Desconcentrados.
 
 ###### Artículo 15.
 
@@ -907,9 +913,37 @@ IV.- Registrar a las instituciones públicas o privadas que administren o funjan
 
 V.- Las demás que le asigne su superior jerárquico o el Presidente del Consejo Directivo.
 
-### Capítulo XI. De la Coordinación de Comunicación
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 26 DE ENERO DE 2007)</small>
 
-### Capítulo XII. De la Coordinación de Asuntos Jurídicos
+### Capítulo XI. De la Dirección de Filmaciones
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2007)</small>
+
+Artículo 52 A.- La Dirección de Filmaciones, tendrá las siguientes facultades:
+
+I.- Planear, presupuestar, organizar y coordinar festivales y actividades relacionadas con las expresiones cinematográficas y audiovisuales;
+
+II.- Establecer sus planes y programas de trabajo, mediante acuerdo con el Presidente del Consejo Directivo;
+
+III.- Apegar sus acciones a los lineamientos que al efecto determine el Consejo Directivo o de la instancia que sea constituida con ese fin;
+
+IV.- Gestionar apoyos y patrocinios para el desarrollo de las actividades que le sean encomendadas;
+
+V.- Coadyuvar en la promoción y difusión de espacios y locaciones aptas para el desarrollo de las actividades cinematográficas y audiovisuales;
+
+VI.- Establecer vínculos institucionales para el fomento y difusión de la cultura local, en los ámbitos nacional e internacional;
+
+VII.- Llevar la representación del Instituto ante las instancias competentes en materia de expresiones cinematográficas y audiovisuales en el ámbito nacional e internacional;
+
+VIII.- Controlar y supervisar las partidas presupuestales que le sean asignadas para el desarrollo de las actividades establecidas en este artículo;
+
+IX.- Llevar y controlar el archivo de filmoteca y videoteca que al efecto sea establecido; y
+
+X.- Las demás que le asigne el Presidente del Consejo Directivo.
+
+(REUBICADO [N. DE E. ANTES CAPITULO XI], P.O. 26 DE ENERO DE 2007)
+
+### Capítulo XII. De la Coordinación de Comunicación
 
 ###### Artículo 53.
 
@@ -933,7 +967,9 @@ VIII.- Realizar actividades de imagen institucional, tomando en cuenta la opini�
 
 IX.- Las demás que le confiera el Presidente del Consejo Directivo.
 
-### Capítulo XIII. De la Secretaría Particular
+(REUBICADO [N. DE E. ANTES CAPITULO XII], P.O. 26 DE ENERO DE 2007)
+
+### Capítulo XIII. De la Coordinación de Asuntos Jurídicos
 
 ###### Artículo 54.
 
@@ -951,7 +987,9 @@ V.- Formular los proyectos relativos a las demandas, denuncias, querellas y dem�
 
 VI.- Las demás que le confiera el Presidente del Consejo Directivo.
 
-### Capítulo XIV. De los Asesores
+(REUBICADO [N. DE E. ANTES CAPITULO XIII], P.O. 26 DE ENERO DE 2007)
+
+### Capítulo XIV. De la Secretaría Particular
 
 ###### Artículo 55.
 
@@ -967,7 +1005,17 @@ IV.- Controlar y dirigir la oficialía de partes del Instituto Estatal de la Cul
 
 V.- Las demás que le confiera el Presidente del Consejo Directivo.
 
-### Capítulo XV. De los Órganos Desconcentrados
+(REUBICADO [N. DE E. ANTES CAPITULO XIV], P.O. 26 DE ENERO DE 2007)
+
+### Capítulo XV. De los Asesores
+
+###### Artículo 56.
+
+Para el eficaz cumplimiento de sus funciones, el Instituto Estatal de la Cultura podrá contar con asesores en aquellas ramas del conocimiento que requieran de atención especializada, siempre que ello esté justificado y que se cuente con presupuesto.
+
+(REUBICADO [N. DE E. ANTES CAPITULO XV], P.O. 26 DE ENERO DE 2007)
+
+### Capítulo XVI. De los Órganos Desconcentrados
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2003)</small>
 
@@ -981,17 +1029,9 @@ Artículo 56 B.- Los órganos desconcentrados contarán con autonomía técnica 
 
 Artículo 56 C.- La coordinación y supervisión de los órganos desconcentrados se determinará en el ordenamiento jurídico que lo crea.
 
-###### Artículo 56.
-
-Para el eficaz cumplimiento de sus funciones, el Instituto Estatal de la Cultura podrá contar con asesores en aquellas ramas del conocimiento que requieran de atención especializada, siempre que ello esté justificado y que se cuente con presupuesto.
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2003)</small>
-
-### Capítulo I. De las Ausencias y Suplencias
-
 ## Título Cuarto. De las Ausencias y Suplencias y de las Relaciones Laborales
 
-### Capítulo II. De las Relaciones Laborales
+### Capítulo I. De las Ausencias y Suplencias
 
 ###### Artículo 57.
 
@@ -1013,11 +1053,13 @@ El Presidente del Consejo Directivo y, en su caso, los Directivos, podrá conced
 
 En aquellos casos que las licencias económicas excedan más de tres días de manera justificada, el superior jerárquico podrá conceder una sola prórroga por dos días más.
 
-### Capítulo III. Del Personal Eventual para Eventos Especiales
+### Capítulo II. De las Relaciones Laborales
 
 ###### Artículo 61.
 
 Las relaciones laborales entre el Instituto Estatal de la Cultura y sus trabajadores, se regirán de conformidad con la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
+
+### Capítulo III. Del Personal Eventual para Eventos Especiales
 
 ###### Artículo 62.
 
@@ -1068,3 +1110,13 @@ VÍCTOR MANUEL RAMÍREZ VALENZUELA.
 P.O. 7 DE NOVIEMBRE DE 2003.
 
 Artículo Único.- El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Desarrollo Económico Sustentable transferirá al Instituto Estatal de la Cultura el personal, recursos materiales y financieros que actualmente tiene asignados la Dirección de Eventos Especiales.
