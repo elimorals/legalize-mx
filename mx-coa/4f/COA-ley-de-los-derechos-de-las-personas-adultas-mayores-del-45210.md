@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2005-06-10"
+last_updated: "2007-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -249,11 +249,9 @@ IV. A la educación, por tanto, se reconoce que tienen derecho a:
 
 1. Recibir la educación que señala el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
 
-2. Que las instituciones educativas, públicas y privadas estatales propongan, por medio de la Secretaría de Educación Pública, que se incluyan en los planes y programas de estudios los conocimientos relacionados con las personas adultas mayores, así como que en los libros de texto gratuitos y en todo material educativo autorizado y supervisado por la Secretaría de Educación Pública del Gobierno Federal, se incluya información actualizada sobre el tema del envejecimiento y las personas adultas mayores.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
-En dichos programas de estudio se deberá dar una amplia difusión sobre la cultura a favor de las personas adultas mayores.
-
-Estas incorporaciones deberán ser, preferentemente, en los programas de estudio de las carreras profesionales relacionadas de alguna manera con las personas adultas mayores.
+2. Que las instituciones educativas, públicas y privadas estatales propongan, por medio de la Secretaría de Educación y Cultura, que se incluyan en los planes y programas de estudios los conocimientos relacionados con las personas adultas mayores, así como que en los libros de texto gratuitos y en todo material educativo autorizado y supervisado por la Secretaría de Educación Pública del Gobierno federal, se incluya información actualizada sobre el tema del envejecimiento y las personas adultas mayores.
 
 V. Al trabajo, por tanto, se reconoce que tienen derecho a:
 
@@ -781,15 +779,19 @@ Las instituciones públicas, privadas y sociales, que otorguen atención médica
 
 La Secretaría de Salud coordinará e implementará las acciones que se requieran para promover la integración social de las personas adultas mayores, así como para brindarles atención integral y garantizar la cobertura en materia alimenticia a través de campañas de orientación e información nutricional, de la publicación de materiales de orientación nutricional y campañas de difusión en medios masivos de comunicación. De igual forma, a través de convenios específicos de colaboración con instituciones y organismos públicos, sociales y privados que brinden orientación alimenticia a las personas adultas mayores.
 
-De igual forma, promoverá ante la Secretaría de Educación Pública la coordinación con las instituciones federales y locales de salud y educación, para implementar programas de sensibilización, educación y capacitación con objeto de favorecer la convivencia familiar con las personas adultas mayores para que ésta sea armónica. Asimismo, promoverá el otorgamiento de subsidios y estímulos fiscales a las personas adultas mayores que estudien, difundiendo entre la población en general y en la familia, la cultura de dignificación, respeto e integración a la sociedad, de tales personas.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+De igual forma, promoverá ante la Secretaría de Educación y Cultura la coordinación con las instituciones federales y locales de salud y educación, para implementar programas de sensibilización, educación y capacitación con objeto de favorecer la convivencia familiar con las personas adultas mayores para que ésta sea armónica. Asimismo, promoverá el otorgamiento de subsidios y estímulos fiscales a las personas adultas mayores que estudien, difundiendo entre la población en general y en la familia, la cultura. (sic) de dignificación, respeto e integración a la sociedad, de tales personas.
 
 ###### Artículo 59.
 
 El Instituto Coahuilense de Cultura en coordinación con el Instituto, diseñará programas para promover el esparcimiento y la participación de las personas adultas en las diversas manifestaciones de la cultura. Asimismo para efectuar concursos en los que participen exclusivamente personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 60.
 
-El Instituto Estatal de Turismo del Estado promoverá actividades de recreación y turísticas diseñadas para las personas adultas mayores y realizará acciones a fin de que en lugares públicos destinados a la recreación se cuente con los espacios y actividades que faciliten la integración de las personas adultas mayores, difundiendo permanentemente a través de los medios masivos de comunicación, las actividades, que se realicen a su favor para lo cual promoverá:
+La Secretaría de Turismo del Estado promoverá actividades de recreación y turísticas diseñadas para las personas adultas mayores y realizará acciones a fin de que en lugares públicos destinados a la recreación se cuente con los espacios y actividades que faciliten la integración de las personas adultas mayores, difundiendo permanentemente a través de los medios masivos de comunicación, las actividades, que se realicen a su favor para lo cual promoverá:
 
 I. La recreación turística de las personas adultas mayores con tarifas preferentes.
 
@@ -815,9 +817,11 @@ En la formulación y ejecución de los programas que implementen las dependencia
 
 La Secretaría de Desarrollo Social del Estado fomentará la participación de los sectores social y privado en la creación, promoción, seguimiento y financiamiento de los programas de atención a las personas adultas mayores y suscribirá convenios de colaboración con instituciones y organismos sociales y privados para el establecimiento de acciones dirigidas a la atención de las personas adultas mayores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 66.
 
-La Secretaría de Educación Pública garantizará a las personas adultas mayores:
+La Secretaría de Educación y Cultura garantizará a las personas adultas mayores:
 
 I. El acceso a la educación pública en todos sus niveles y modalidades y a cualquier otra actividad académica o cultural que contribuya a su desarrollo académico o intelectual y que le permita conservar una actitud de aprendizaje constante y aprovechar toda oportunidad de educación y capacitación que tienda a su realización personal, facilitando los trámites administrativos y difundiendo la oferta general educativa.
 
@@ -1101,9 +1105,13 @@ Los establecimientos que presten servicios a las personas adultas mayores deber�
 
 Las instituciones públicas y privadas que atiendan a las personas adultas mayores, ajustarán su funcionamiento a lo dispuesto por esta Ley y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 102.
 
-El incumplimiento de las disposiciones a que se refiere el artículo anterior será sancionado por las autoridades administrativas competentes, de conformidad con los ordenamientos legales aplicables.
+El incumplimiento de las disposiciones a que se refiere el Artículo anterior será sancionado por las autoridades administrativas competentes, de conformidad con los ordenamientos legales aplicables. En todo caso, el incumplimiento será sancionado con multa de 10 a 240 días de salario mínimo vigente en la Capital del Estado, fijándose sobre la base de la gravedad de la falta, el daño causado, la reincidencia y el dolo o negligencia con que se hubiera cometido la infracción.
+
+La aplicación de estas sanciones será independiente a la responsabilidad civil, penal y/o de otra índole que pudiera resultar de las acciones sancionadas.
 
 ###### Artículo 103.
 
@@ -1186,3 +1194,17 @@ EL SECRETARIO DE PLANEACIÓN Y DESARROLLO
 C.P. IGNACIO DIEGO MUÑOZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE ENERO DE 2007.
+
+DECRETO NUMERO 89
+
+ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2007.
+
+DECRETO NUMERO 90
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
