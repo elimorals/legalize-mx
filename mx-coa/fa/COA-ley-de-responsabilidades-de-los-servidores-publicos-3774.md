@@ -4,7 +4,7 @@ identifier: "COA-ley-de-responsabilidades-de-los-servidores-publicos-3774"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-24"
-last_updated: "2001-11-16"
+last_updated: "2007-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 24 de abril de 1984.
 
@@ -85,7 +85,9 @@ III.- El pleno del Tribunal Superior de Justicia del Estado;
 
 IV.- La Procuraduría General de Justicia en el Estado;
 
-V.- La Dirección General de la Contraloría del Estado;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+V.- La Secretaría de la Función Pública;
 
 VI.- Los Organos de Control de los Poderes Legislativo y Judicial;
 
@@ -111,7 +113,9 @@ Para los efectos de esta Ley se entenderá:
 
 I.- Por Comisión Instructora: La Comisión Instructora de Juicio Político y Declaración de Procedencia en Materia de Responsabilidad Penal del Congreso;
 
-II.- Por Contraloría Estatal: La Dirección General de Contraloría del Estado;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+II.- Por Órgano Estatal de Control: La Secretaría de la Función Pública;
 
 III.- Por Organos de Control de los Poderes Legislativo y Judicial: Las áreas o unidades administrativas que tengan a su cargo las funciones de control;
 
@@ -171,9 +175,11 @@ El juicio político sólo podrá iniciarse durante el tiempo en que el servidor 
 
 Las sanciones respectivas se aplicarán en un plazo no mayor de un año a partir de iniciado el procedimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 11.
 
-Corresponde al Congreso del Estado, instruir el procedimiento relativo al juicio político en los términos de su Reglamento Interior y la presente Ley.
+Corresponde al Congreso del Estado, instruir el procedimiento relativo al juicio político en los términos de su Ley Orgánica y la presente Ley.
 
 Al efecto, una vez instalado el Congreso, en el año en que deba llevarse a cabo su renovación, dentro de las comisiones permanentes que se nombren, deberá designarse la Comisión Instructora del Juicio Político y de Declaración de Procedencia en Materia de Responsabilidad Penal, misma que para la sustanciación del procedimiento consignado en la presente ley, se constituirá en órgano de acusación, y el Congreso, en jurado de sentencia, previa declaración de su Presidente.
 
@@ -191,7 +197,9 @@ Presentada la excusa o la recusación, se calificará dentro de los ocho días n
 
 Cualquier ciudadano bajo su más estricta responsabilidad y presentando los elementos de prueba correspondientes, podrá formular por escrito denuncia, fundada y motivada, ante el Congreso del Estado por las conductas de los servidores públicos a que se refiere el artículo 6o. de la presente Ley.
 
-Presentada la denuncia, y ratificada que sea ésta dentro de los tres días naturales de la fecha de su presentación, se turnará con la documentación correspondiente, a la Comisión de Puntos Constitucionales y Gobernación, para que dictamine si la conducta atribuida corresponde a las enumeradas, en el artículo 8o; y si el inculpado esta comprendido entre los servidores públicos a que se refiere el artículo 6o. de esta Ley; así como si la denuncia es procedente, y por lo tanto amerita la incoación del procedimiento.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+Presentada la denuncia, y ratificada que sea ésta dentro de los tres días naturales de la fecha de su presentación, se turnará con la documentación correspondiente, a la Comisión de Gobernación y Puntos Constitucionales, para que dictamine si la conducta atribuida corresponde a las enumeradas, en el artículo 8o.; y si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 6o. de esta Ley; así como si la denuncia es procedente, y por lo tanto amerita la incoación del procedimiento.
 
 Una vez acreditados estos supuestos, la denuncia se turnará a la Comisión Instructora. En caso contrario, declarará su improcedencia archivándose el expediente. Las denuncias anónimas o que no están suscritas o ratificadas por el denunciante, no producirán ningún efecto.
 
@@ -281,7 +289,9 @@ En la fecha y hora señalada, y una vez reunido el Congreso en Pleno, la Secreta
 
 Conocida que sea la sentencia emitida por la Cámara de Senadores, el Congreso mediante la resolución de las dos terceras partes del total de sus miembros, procederá en los términos que señala la Constitución Política Local y demás Ordenamientos Jurídicos aplicables. La resolución que emita el Congreso en este caso, será inatacable.
 
-Si la remisión del expediente a que se refiere el primer párrafo de este artículo, tuviere lugar una vez concluido el período ordinario de sesiones del Congreso, la Comisión Permanente convocará a un período extraordinario, para que sea el Congreso en pleno, quien acuerde lo procedente.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+Si la remisión del expediente a que se refiere el primer párrafo de este artículo, tuviere lugar una vez concluido el periodo ordinario de sesiones del Congreso, la Diputación Permanente convocará a un periodo extraordinario, para que sea el Congreso en pleno, quien acuerde lo procedente.
 
 ### CAPITULO TERCERO. DE LA DECLARACION DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
 
@@ -305,7 +315,9 @@ Para proceder penalmente contra el Gobernador del Estado; los Diputados del Cong
 
 Corresponde al Congreso del Estado instruir el procedimiento relativo a la declaración de procedencia en materia de responsabilidad penal.
 
-Presentada la denuncia o querella, o requerimiento del Ministerio Público y ratificada que sea esta dentro de los tres días naturales a la fecha de su presentación, el Presidente del Congreso la turnará, por riguroso orden, a la Comisión de Puntos Constitucionales y Gobernación, para que dictamine su procedencia, y si por lo tanto amerita la incoación del procedimiento.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+Presentada la denuncia o querella, o requerimiento del Ministerio Público y ratificada que sea esta dentro de los tres días naturales a la fecha de su presentación, el Presidente del Congreso la turnará, por riguroso orden, a la Comisión de Gobernación y Puntos Constitucionales, para que dictamine su procedencia, y si por lo tanto amerita la incoación del procedimiento.
 
 De dictaminarse la procedencia de las denuncias, querellas o requerimientos del Ministerio Público, se turnarán a la Comisión Instructora a que se refiere el artículo 11 de esta Ley. En caso contrario, se declarará su improcedencia, archivándose el expediente. Las denuncias anónimas o que no están suscritas o sean ratificadas por el denunciante o querellante, no producirán ningún efecto.
 
@@ -367,11 +379,15 @@ En la fecha y hora señalada, y una vez satisfecho el quórum legal, la Secretar
 
 Conocida que sea la declaración de procedencia emitida por la Cámara de Diputados, el Congreso del Estado, procederá en los términos que señala la Constitución Política Local y los demás ordenamientos jurídicos aplicables. La resolución que emita el Congreso en este caso será inatacable.
 
-Si la remisión de la declaración de procedencia tuviere lugar una vez concluido el período ordinario de sesiones del Congreso, la Comisión Permanente convocará a un período extraordinario, para que sea el Congreso en pleno quien acuerde lo procedente.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+Si la remisión de la declaración de procedencia tuviere lugar una vez concluido el periodo ordinario de sesiones del Congreso, la Diputación Permanente convocará a un periodo extraordinario, para que sea el Congreso en pleno quien acuerde lo procedente.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 43.
 
-Tratándose de la presentación de denuncias o querellas o requerimientos del Ministerio Público, por la comisión de delitos, por los servidores públicos a que se refiere el artículo 31 de la presente Ley, una vez concluido el período ordinario de sesiones del Congreso, la Comisión Permanente calificará la importancia o gravedad de los hechos imputados, para determinar si procede convocar al Congreso a un período extraordinario de sesiones, para que sea éste en pleno, quien acuerde lo procedente.
+Tratándose de la presentación de denuncias o querellas o requerimientos del Ministerio Público, por la comisión de delitos, por los servidores públicos a que se refiere el artículo 31 de la presente Ley, una vez concluido el periodo ordinario de sesiones del Congreso, la Diputación Permanente calificará la importancia o gravedad de los hechos imputados, para determinar si procede convocar al Congreso a un periodo extraordinario de sesiones, para que sea éste en pleno, quien acuerde lo procedente.
 
 ###### ARTICULO 44.
 
@@ -385,9 +401,11 @@ Las partes que intervengan en los procedimientos de juicio político y de declar
 
 Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren, la Comisión Instructora o el Congreso del Estado, a petición del interesado, señalará a la autoridad omisa un plazo razonable para que las expida bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo vigente correspondiente a la Capital del Estado, sanción que se hará efectiva si la autoridad no la expidiere. Si resultare falso que el interesado hubiere solicitado las constancias, la multa se hará efectiva en su contra.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 46.
 
-Las declaraciones o resoluciones aprobadas por el Congreso con apego a esta Ley, se comunicarán al propio Servidor Público, al Titular de la Dependencia donde éste preste sus servicios, al Ayuntamiento Municipal respectivo, al Representante Oficial del Poder Estatal correspondiente, para su conocimiento y efectos legales, y al Secretario del Ejecutivo, para su publicación en el Periódico Oficial del Gobierno del Estado.
+Las declaraciones o resoluciones aprobadas por el Congreso con apego a esta Ley, se comunicarán al propio Servidor Público, al Titular de la Dependencia donde éste preste sus servicios, al Ayuntamiento Municipal respectivo, al Secretario de Finanzas, para su conocimiento y efectos legales, y al Secretario de Gobierno, para su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTICULO 47.
 
@@ -453,9 +471,13 @@ XVI.- Desempeñar su empleo, cargo o comisión, sin obtener o pretender obtener 
 
 XVII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios, en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XIII;
 
-XVIII.- Presentar con oportunidad y veracidad la Declaración de situación patrimonial, ante la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
 
-XIX.- Atender con diligencia las instrucciones, requerimientos o resoluciones que reciba de la Contraloría Estatal o en su caso, del Organo Municipal de Control correspondiente, o de los órganos que tengan a su cargo estas funciones, en los Poderes Judicial y Legislativo;
+XVIII.- Presentar con oportunidad y veracidad la Declaración de situación patrimonial, ante el órgano estatal de control;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+XIX.- Atender con diligencia las instrucciones, requerimientos o resoluciones que reciba del órgano estatal de control, o en su caso, del órgano municipal de control correspondiente, o de los órganos que tengan a su cargo estas funciones, en los Poderes Judicial y Legislativo;
 
 XX.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo, y en los términos de las disposiciones que al efecto se dicten;
 
@@ -471,13 +493,13 @@ XXIII.- Las demás que le impongan los ordenamientos jurídicos y administrativo
 
 El incumplimiento de estas obligaciones será sancionado como falta administrativa.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 53.
 
-Corresponderá a los titulares de las dependencias estatales o municipales, o a los directores o sus equivalentes en las entidades del sector paraestatal y paramunicipal, vigilar el cumplimiento de las obligaciones de los servidores públicos subalternos y, a la contraloría estatal y a los órganos municipales de control, y a los que hagan sus veces en los Poderes Legislativo y Judicial y a los organismos públicos autónomos, vigilar el cumplimiento de las obligaciones a cargo de los titulares de las dependencias.
+Corresponderá a los titulares de las dependencias estatales o municipales, o a las directores o sus equivalentes en las entidades del sector paraestatal y paramunicipal, vigilar el cumplimiento de las obligaciones de los servidores públicos subalternos y, al órgano estatal de control y a los órganos municipales de control, y a los que hagan sus veces en los Poderes Legislativo y Judicial y a los organismos públicos autónomos, vigilar el cumplimiento de las obligaciones a cargo de los titulares de las dependencias.
 
-El titular de la Secretaría de la Contraloría y Modernización Administrativa y los titulares de los órganos municipales de control, responderán, respectivamente, ante el Gobernador y los Ayuntamientos. Los responsables de los órganos equivalentes de los Poderes Judicial, Legislativo y de los organismos públicos autónomos, responderán ante los plenos del Tribunal Superior de Justicia, del Congreso del Estado o del órgano público autónomo, según sea el caso.
+El titular del órgano estatal de control y los titulares de los órganos municipales de control, responderán, respectivamente, ante el Gobernador y los Ayuntamientos. Los responsables de los órganos equivalentes de los Poderes Judicial, Legislativo y de los organismos públicos autónomos, responderán ante los plenos del Tribunal Superior de Justicia, del Congreso del Estado o del órgano público autónomo, según sea el caso.
 
 ### CAPITULO SEGUNDO. SANCIONES ADMINISTRATIVAS Y PROCEDIMIENTOS PARA APLICARLAS
 
@@ -487,7 +509,9 @@ Cualquier ciudadano bajo su más estricta responsabilidad, y presentando los ele
 
 Las denuncias o quejas anónimas o que no están suscritas o ratificadas por el denunciante, no producirá ningún efecto.
 
-La Contraloría Estatal o en su caso, los Organos de Control Municipal, o los de los Poderes Legislativo y Judicial, cuando reciban denuncias o quejas, las turnarán por riguroso orden, a las autoridades competentes para su desahogo procedimental.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+El órgano estatal de control o en su caso, los órganos de control municipal, o los de los Poderes Legislativo y Judicial, cuando reciban denuncias o quejas, las turnarán por riguroso orden, a las autoridades competentes para su desahogo procedimental.
 
 ###### ARTICULO 55.
 
@@ -559,13 +583,19 @@ La suspensión del empleo, cargo o comisión, no será menor de tres días ni ma
 
 II.- La destitución del empleo, cargo o comisión de los servidores públicos de base y de confianza de la administración pública centralizada y paraestatal, se aplicarán por la autoridad que sustancíe el procedimiento respectivo, en los términos del artículo 63 de esta misma Ley;
 
-III.- La destitución del empleo, cargo o comisión de los servidores públicos de base de la administración pública centralizada, se demandará por la Oficialía Mayor de Gobierno, a petición de la autoridad que sustancíe el procedimiento, y por el órgano de gobierno de la entidad de que se trate, cuando pertenezcan al sector paraestatal de acuerdo con los procedimientos consecuentes con la naturaleza de la relación y en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
 
-IV.- La contraloría estatal promoverá los procedimientos a que se refieren las fracciones anteriores, en caso de que las autoridades que deban hacerlo sean omisas. Una vez desahogados los trámites correspondientes, la contraloría exhibirá las constancias respectivas a la Oficialía Mayor o al órgano de gobierno de la entidad paraestatal de que se trate, según corresponda;
+III.- La destitución del empleo, cargo o comisión de los servidores públicos de base de la administración pública centralizada, se demandará por la Secretaría de Finanzas, a petición de la autoridad que sustancie el procedimiento, y por el órgano de gobierno de la entidad de que se trate, cuando pertenezcan al sector paraestatal de acuerdo con los procedimientos consecuentes con la naturaleza de la relación y en los términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+IV.- El órgano estatal de control promoverá los procedimientos a que se refieren las fracciones anteriores, en caso de que las autoridades que deban hacerlo sean omisas. Una vez desahogados los trámites correspondientes, el órgano estatal de control exhibirá las constancias respectivas a la Secretaría de Finanzas o al órgano de gobierno de la entidad paraestatal de que se trate, según corresponda;
 
 V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, será aplicable por resolución jurisdiccional, que dictará el órgano que corresponda, según las leyes aplicables; y
 
-VI.- Las sanciones económicas se aplicarán por la autoridad que desahogue el procedimiento respectivo, en los términos del Artículo 63 de la presente Ley, cuando no excedan de un monto equivalente a cien veces el salario mínimo diario vigente en la zona económica correspondiente a la capital del Estado, y por la contraloría estatal cuando excedan de esta cantidad.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+VI.- La sanciones económicas de aplicarán por la autoridad que desahogue el procedimiento respectivo, en los términos del Artículo 63 de la presente Ley, cuando no excedan de un monto equivalente a cien veces el salario mínimo diario vigente en la zona económica correspondiente a la capital del Estado, y por el órgano estatal de control cuando excedan de esta cantidad.
 
 ###### ARTICULO 61.
 
@@ -583,7 +613,9 @@ Entre la fecha de la notificación y la verificación de la audiencia, deberá m
 
 Cuando para el desahogo de este procedimiento fuese necesario que el servidor público inculpado se traslade al lugar en que resida la autoridad competente, dicho plazo no será menor de diez ni mayor de veinte días hábiles;
 
-II.- Al concluir la audiencia, o dentro de los quince días hábiles siguientes, se resolverá sobre la existencia o no responsabilidad, imponiéndose al infractor, en su caso, las sanciones administrativas correspondientes o notificándose por escrito dicha resolución, dentro de las 24 horas siguientes, al interesado, al superior jerárquico responsable de la oficina, unidad o área administrativa de su adscripción; al titular de la dependencia o a la Contraloría Estatal;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+II.- Al concluir la audiencia, o dentro de los quince días hábiles siguientes, se resolverá sobre la existencia o no responsabilidad, imponiéndose al infractor, en su caso, las sanciones administrativas correspondientes o notificándose por escrito dicha resolución, dentro de las 24 horas siguientes, al interesado, al superior jerárquico responsable de la oficina, unidad o área administrativa de su adscripción; al titular de la dependencia o al órgano estatal de control;
 
 III.- Si en dicha audiencia se advierte la falta de elementos suficientes para resolver, o encontraren elementos que impliquen nueva responsabilidad administrativa a cargo del presunto responsable, o de otras personas, se podrá disponer la práctica de nuevas investigaciones y citar para otra u otras audiencias; y
 
@@ -603,27 +635,39 @@ I.- Ante el superior jerárquico, que tenga el carácter de responsable de una o
 
 II.- Ante el titular de la dependencia cuando se trate de quejas o denuncias en contra de servidores públicos responsables de oficinas, unidades o áreas administrativas de su adscripción, cualquiera que sea la denominación y publicación de éstas;
 
-III.- Ante la Contraloría Estatal, cuando se trate de quejas o denuncias en contra de los servidores públicos que sean titulares de las dependencias de la administración pública centralizada, a excepción del Secretario del Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
 
-IV.- Ante el Secretario del Ejecutivo del Estado, cuando se trate de quejas o denuncias en contra del Director General de la Contraloría Estatal;
+III.- Ante el órgano estatal de control, cuando se trate de quejas o denuncias en contra de los servidores públicos que sean titulares de las dependencias de la administración pública centralizada, a excepción del Secretario de Gobierno;
 
-V.- Ante el titular del Poder Ejecutivo, cuando se trate de quejas o denuncias en contra del Secretario del Ejecutivo; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+IV.- Ante el Secretario de Gobierno, cuando se trate de quejas o denuncias en contra del titular del órgano estatal de control;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+V.- Ante el titular del Poder Ejecutivo, cuando se trate de quejas o denuncias en contra del Secretario de Gobierno; y
 
 VI.- Ante los órganos de gobierno de las entidades paraestatales, cuando se trate de quejas o denuncias en contra de los servidores públicos que sean sus titulares.
 
-La Contraloría Estatal, se encargará del desahogo del procedimiento cuando las autoridades que sean competentes conforme a lo antes establecido, no lo hagan, exhibiendo a las mismas las constancias respectivas, una vez concluido dicho procedimiento.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+El órgano estatal de control, se encargará del desahogo del procedimiento cuando las autoridades que sean competentes conforme a lo antes establecido, no lo hagan, exhibiendo a las mismas las constancias respectivas, una vez concluido dicho procedimiento.
 
 ###### ARTICULO 64.
 
 Se levantará acta circunstanciada de todas las diligencias que se practiquen, mismas que suscribirán quienes intervengan en ellas, apercibidas de las sanciones en que incurren quienes falten a la verdad.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 65.
 
-Las resoluciones y acuerdos que tengan lugar durante el procedimiento al que se refiere este capítulo constarán por escrito, y se asentarán en el registro respectivo de la Contraloría Estatal, mismo que comprenderá las secciones correspondientes a los procedimientos disciplinarios y sanciones impuestas, entre ellas, en todo caso, las de inhabilitación.
+Las resoluciones y acuerdos que tengan lugar durante el procedimiento al que se refiere este capítulo constarán por escrito, y se asentarán en el registro respectivo del órgano estatal de control, mismo que comprenderá las secciones correspondientes a los procedimientos disciplinarios y sanciones impuestas, entre ellas, en todo caso, las de inhabilitación.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 66.
 
-La Contraloría Estatal expedirá las constancias respectivas que acrediten la no existencia de registro de inhabilitación, mismas que serán exhibidas por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
+El órgano estatal de control expedirá las constancias respectivas que acrediten la no existencia de registro de inhabilitación, mismas que serán exhibidas por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
 
 ###### ARTICULO 67.
 
@@ -631,17 +675,25 @@ Las resoluciones que dicten las autoridades que desahoguen el procedimiento para
 
 I.- Ante el titular de la dependencia a que pertenezca el servidor público, cuando la sanción se hubiere impuesto por el superior jerárquico responsable de una oficina, unidad o área administrativa;
 
-II.- Ante la Contraloría Estatal, cuando el servidor público sancionado sea el responsable de una oficina, unidad o área administrativa de una dependencia centralizada o paraestatal;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
 
-III.- Ante el Secretario del Ejecutivo del Estado, cuando el servidor público sancionado tenga el carácter de titular de una dependencia centralizada o paraestatal, a excepción del Director General de la Contraloría Estatal;
+II.- Ante el órgano estatal de control, cuando el servidor público sancionado sea el responsable de una oficina, unidad o área administrativa de una dependencia centralizada o paraestatal;
 
-IV.- Ante el titular del Poder Ejecutivo, cuando el servidor público sancionado sea el Director General de la Contraloría Estatal;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+III.- Ante el Secretario de Gobierno, cuando el servidor público sancionado tenga el carácter de titular de una dependencia centralizada o paraestatal, a excepción del titular del órgano estatal de control;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+IV.- Ante el titular del Poder Ejecutivo, cuando el servidor público sancionado sea el titular del órgano estatal de control;
 
 V.- La interposición de dicho recurso, deberá hacerse dentro de los tres días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida;
 
 VI.- Las resoluciones mediante las cuales se imponga como sanción la inhabilitación del servidor público se impugnarán en los términos de los ordenamientos legales aplicables.
 
-En contra de las resoluciones mediante las cuales se impongan sanciones administrativas al Secretario del Ejecutivo del Estado, no procederá la interposición de recurso alguno.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+En contra de las resoluciones mediante las cuales se impongan sanciones administrativas al Secretario de Gobierno, no procederá la interposición de recurso alguno.
 
 ###### ARTICULO 68.
 
@@ -703,9 +755,11 @@ II.- En los demás casos prescribirán en tres años.
 
 ### CAPITULO UNICO. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 74.
 
-Corresponderá a la Procuraduría General de Justicia del Estado, llevar el registro de la situación patrimonial de los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial del Estado; de los Municipios de la entidad, de los de las entidades Paraestatales y Paramunicipales, de conformidad con esta Ley, y demás ordenamientos legales aplicables.
+Corresponderá al órgano estatal de control, llevar el registro de la situación patrimonial de los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial del Estado; de los Municipios de la entidad, de los de las entidades Paraestatales y Paramunicipales, de conformidad con esta Ley, y demás ordenamientos legales aplicables.
 
 ###### ARTICULO 75.
 
@@ -727,11 +781,15 @@ II.- Dentro de los treinta días naturales siguientes a la conclusión del encar
 
 III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del Impuesto Sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I.
 
-Si transcurrido el plazo a que se refiere la fracción I, no se hubiese presentado la declaración correspondiente sin causa justificada, la Procuraduría General de Justicia del Estado, señalará un nuevo plazo que no excederá de 90 días para su presentación. Concluido dicho término si no se hubiese presentado la declaración requerida, la Procuraduría solicitará a los titulares de los Poderes Ejecutivo, Legislativo y Judicial, al Ayuntamiento Municipal respectivo, o al órgano de gobierno de las entidades paraestatales o paramunicipales según sea el caso, que den de baja al servidor público que no haya cumplido con lo dispuesto en este artículo. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+Si transcurrido el plazo a que se refiere la fracción I, no se hubiese presentado la declaración correspondiente sin causa justificada, el órgano estatal de control, señalará un nuevo plazo que no excederá de 90 días para su presentación. Concluido dicho término si no se hubiese presentado la declaración requerida, el órgano estatal de control solicitará a los titulares de los Poderes Ejecutivo, Legislativo y Judicial, al Ayuntamiento Municipal respectivo, o al órgano de gobierno de las entidades paraestatales o paramunicipales según sea el caso, que den de baja al servidor público que no haya cumplido con lo dispuesto en este artículo. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 77.
 
-La Procuraduría General de Justicia del Estado, expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+El órgano estatal de control, expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
 
 ###### ARTICULO 78.
 
@@ -739,17 +797,23 @@ En la declaración inicial y final de situación patrimonial se manifestarán lo
 
 En las declaraciones anuales se manifestarán solo las modificaciones al patrimonio, con fecha y valor de la adquisición.
 
-En tratándose de bienes muebles, la Procuraduría General de Justicia del Estado, expedirá los formatos en los que se señale (sic) las características que deba tener la declaración.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+Tratándose de bienes muebles, el órgano estatal de control, expedirá los formatos en los que se señalen las características que deba tener la declaración.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 79.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Procuraduría General de Justicia del Estado, podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, la Procuraduría General de Justicia del Estado hará ante ésta la solicitud correspondiente.
+Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, el órgano estatal de control, podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorias. Cuando estos actos requieran orden de autoridad judicial, el órgano estatal de control hará ante ésta la solicitud correspondiente.
 
 Previamente a la inspección o al inicio de la auditoria, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquellos consten, para que exponga lo que a su derecho convenga.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 80.
 
-El servidor público a quien se practique visita de inspección o auditoría podrá interponer inconformidad ante la Procuraduría General del Estado, contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquéllas, en la que se expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
+El servidor público a quien se practique visita de inspección o auditoria podrá interponer inconformidad ante el órgano estatal de control, contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquéllas, en la que se expresará los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
 
 Todas las actas que se levanten con motivo de la vista deberán ir firmadas por el servidor público y los testigos que para tal efecto designe. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que, en su caso, posea el documento.
 
@@ -775,9 +839,11 @@ Se castigará como cohecho las conductas de los servidores públicos que violen 
 
 Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se menciona en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán de informar de ello a la autoridad que el Titular del Ejecutivo del Estado o el Presidente Municipal, según sea el caso, determinen a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
 ###### ARTICULO 85.
 
-La Procuraduría General de Justicia del Estado expedirá declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justifico la procedencia lícita del incremento sustancial de su patrimonio de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
+El órgano estatal de control expedirá declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
 
 ## TRANSITORIOS
 
@@ -846,3 +912,7 @@ El período constitucional de gobierno de los Ayuntamientos del estado de cuatro
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+P. O. 26 DE ENERO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
