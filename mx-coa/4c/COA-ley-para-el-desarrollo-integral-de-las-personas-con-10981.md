@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-integral-de-las-personas-con-10981"
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-01"
-last_updated: "1997-08-01"
+last_updated: "2007-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 1 de agosto de 1997.
 
@@ -71,7 +71,9 @@ II.- Secretaría de Gobierno;
 
 III.- Secretaría de Desarrollo Social;
 
-IV.- Secretaría de Comunicaciones y Obras Públicas;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+IV.- Secretaría de Obras Públicas y Transporte;
 
 V.- Secretaría de Salud y Desarrollo Comunitario;
 
@@ -450,3 +452,11 @@ DRA. LOURDES QUINTANILLA RODRIGUEZ
 EL SECRETARIO DE EDUCACION PUBLICA
 
 LIC. OSCAR PIMENTEL GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
