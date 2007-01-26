@@ -4,7 +4,7 @@ identifier: "COA-ley-de-obras-publicas-para-el-estado-de-coahuila-de-zaragoza-37
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-24"
-last_updated: "1995-08-15"
+last_updated: "2007-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE OBRAS PUBLICAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 24 de agosto de 1984.
 
@@ -73,17 +73,25 @@ IV.- Todos aquéllos de naturaleza análoga.
 
 Los bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble necesario para la realización de las obras públicas, por administración directa, o los que suministren las dependencias y entidades conforme a lo pactado en los contratos de las obras, se sujetarán a las disposiciones de esta Ley, sin perjuicio de que las adquisiciones de los mismos se rijan por la ley respectiva.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 3°.
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Secretaría: Secretaría de Comunicaciones y Obras Públicas;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+I.- Secretaría: Secretaría de Obras Públicas y Transporte;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
 
 II.- Contraloría: Secretaría de la Contraloría del Estado;
 
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
+
 III.- Dependencias: Las señaladas en las fracciones I y II del artículo 1° de esta ley;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1995)</small>
 
 IV.- Entidades: Las señaladas en las fracciones III y IV del artículo 1° de este ordenamiento.
 
@@ -143,15 +151,21 @@ Las dependencias y entidades deberán formular y mantener actualizado el inventa
 
 Lo anterior será sin perjuicio de las facultades que en materia de inventarios, corresponda a otras dependencias del Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 13.
 
 Se crea el Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública, como órgano de carácter institucional de opinión y dictamen, previo al fallo, respecto de los procedimientos referentes a las propuestas que se presenten en las licitaciones de obra pública y en las obras de administración directa.
 
-El Comité se integrará con un Coordinador que será el Titular de la Secretaría de Comunicación y Obras Públicas, un Secretario representante de esta misma dependencia, y un vocal de cada una de las Secretarías de Gobierno, Finanzas y Desaarrollo (sic) Social y de las dependencias ejecutora y destinataria de la obra.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+El Comité se integrará con un Coordinador que será el Titular de la Secretaría de Obras Públicas y Transporte, un Secretario representante de esta misma dependencia, y un vocal de cada una de las Secretarías de Gobierno, Finanzas y Desarrollo Social y de las dependencias ejecutara (sic) y destinataria de la obra.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
 
 Considerando que la finalidad fundamental de este comité es de mayor transparencia al uso de los recursos del Gobierno del Estado, sus funciones consistirán en revisión, análisis, dictamen y fallo de los procedimientos de licitación para la adjudicación de las obras públicas aplicados en las diferentes dedpendencias (sic) estatales.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1995)</small>
 
 El Ejecutivo del Estado establecerá las bases para la organización y funcionamiento del Comité.
 
@@ -1010,3 +1024,9 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Los manuales de procedimientos que se deriven con motivo de las disposiciones de esta ley, se expedirán en un plazo no mayor de sesenta días naturales, contados a partir de la entrada en vigor de este decreto.
+
+P.O. 26 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
