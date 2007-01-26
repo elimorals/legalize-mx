@@ -4,7 +4,7 @@ identifier: "COA-ley-general-del-catastro-y-la-informacion-territorial-para-1700
 country: "mx"
 rank: "ley_general"
 publication_date: "1999-07-23"
-last_updated: "2001-03-20"
+last_updated: "2007-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY GENERAL DEL CATASTRO Y LA INFORMACION TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 23 de julio de 1999.
 
@@ -331,7 +331,9 @@ a). El Secretario de Gobierno.
 
 b). El Secretario de Finanzas.
 
-c). Secretario de Comunicaciones y Obras Públicas.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+c). Secretario de Obras Públicas y Transporte.
 
 d). El Secretario de Desarrollo Social.
 
@@ -1160,3 +1162,9 @@ Dentro del plazo de un año contado a partir de la entrada en vigor de este decr
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones en contrario.
+
+P.O. 26 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
