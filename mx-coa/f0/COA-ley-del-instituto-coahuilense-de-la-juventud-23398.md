@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-la-juventud-23398"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-11"
-last_updated: "2001-12-11"
+last_updated: "2007-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 2001.
 
@@ -223,7 +223,9 @@ El Consejo Directivo será el órgano superior de gobierno del Instituto y se in
 
 I. Una Presidencia, que estará a cargo de la o el titular del Ejecutivo del Estado.
 
-II. Una Vicepresidencia, a cargo de la o el titular de la Secretaría de Educación Pública.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+II. Una Vicepresidencia, a cargo de la o el titular de la Secretaría de Educación y Cultura.
 
 III. Una Secretaria Técnica, que estará a cargo del Director General o de la Directora General del Instituto.
 
@@ -235,7 +237,9 @@ A) Por el sector público:
 
 2) La o el titular de la Secretaría de Finanzas.
 
-3) La o el titular de la Secretaría de Planeación y Desarrollo.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+3) La o el titular de la Secretaría de Fomento Económico.
 
 4) La o el titular de la Secretaría de Desarrollo Social.
 
@@ -259,11 +263,17 @@ A) Por el sector público:
 
 14) La titular de la Dirección General del Instituto Coahuilense de las Mujeres.
 
-15) La o el titular de la Dirección General del Instituto Coahuilense de Ecología.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
-16) La o el titular del Instituto Estatal de Turismo.
+15) La o el titular de la Secretaría de Medio Ambiente y Recursos Naturales.
 
-17) La o el titular de la Dirección General del Servicio Estatal de Empleo.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+16) La o el titular de la Secretaría de Turismo.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+17) La o el titular del Instituto Estatal de Empleo.
 
 B) Por el sector ciudadano: siete jóvenes representantes de organizaciones de la sociedad civil cuyas actividades guarden relación con el objeto del Instituto.
 
@@ -357,7 +367,9 @@ XVIII. Las demás que le confiera esta ley u otras disposiciones legales aplicab
 
 Son facultades de la Presidencia del Consejo Directivo:
 
-I. Convocar, por conducto de la Secretaria Técnica del Consejo Directivo, a las o los integrantes del mismo, a la Comisaria o al Comisario y demás personas invitadas a las sesiones que se desarrollarán conforme al orden del día que, para tal efecto, se elabore.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+I. Convocar, por conducto de la Secretaría Técnica del Consejo Directivo, a las y los integrantes del mismo, a la Comisaría o al Comisario y demás personas invitadas a las sesiones que se desarrollarán conforme al orden del día que, para tal efecto, se elabore.
 
 II. Dirigir las sesiones del Consejo Directivo y declarar resueltos los asuntos en el sentido de las votaciones.
 
@@ -403,9 +415,13 @@ V. Las demás que les confiera la presente ley u otras disposiciones aplicables.
 
 Son facultades de la Secretaría Técnica del Consejo Directivo:
 
-I. Proponer el calendario de sesiones a la consideración de los o las integrantes del Consejo Directivo
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
 
-II. Elaborar el orden del día correspondiente a cada sesión y comunicar oportunamente a los o las integrantes del Consejo Directivo, a la Comisaria o al Comisario y demás personas invitadas, las convocatorias para las sesiones que llevará a cabo el Consejo Directivo.
+I. Proponer el calendario de sesiones a la consideración de los y las integrantes del Consejo Directivo.
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+II. Elaborar el orden del día correspondiente a cada sesión y comunicar oportunamente a los y las integrantes del Consejo Directivo, a la Comisaría o al Comisario y demás personas invitadas, las convocatorias para las sesiones, que llevará a cabo el Consejo Directivo.
 
 III. Dar cuenta al Consejo Directivo de los asuntos de su competencia.
 
@@ -529,15 +545,19 @@ V. Analizar en su conjunto los objetivos del Programa Estatal de la Juventud y l
 
 El Consejo Consultivo ejercerá las atribuciones necesarias para el cumplimiento de su objeto, siempre que no se opongan a las que corresponda ejercer al Consejo Directivo del Instituto. En todo caso, deberá propiciarse una colaboración y coordinación estrecha entre ambos órganos.
 
-Todo conflicto de competencia será resuelto por la o el Titular del Ejecutivo del Estado, a través de la Secretaría de Educación Pública.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+Todo conflicto de competencia será resuelto por la o el Titular del Ejecutivo del Estado, a través de la Secretaría de Educación y Cultura.
 
 La organización y el funcionamiento del Consejo Consultivo se definirán en el reglamento que, del propio Consejo Consultivo, sea elaborado y aprobado por el Consejo Directivo.
 
 #### SECCIÓN QUINTA. LA COMISARÍA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
+
 ###### ARTÍCULO 20.
 
-El Instituto contará con una Comisaria o un Comisario que se designará por la o el titular de la Secretaría de la Contraloría y Modernización Administrativa.
+El Instituto contará con una Comisaria o un Comisario que se designará por la o el titular de la Secretaría de la Función Pública.
 
 La Comisaria o el Comisario tendrá las atribuciones siguientes:
 
@@ -559,7 +579,9 @@ VIII. Vigilar ilimitadamente y en cualquier tiempo las operaciones del Instituto
 
 IX. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
-Los emolumentos que reciba la Comisario o el Comisario del Instituto serán con cargo a la partida correspondiente a la Secretaría de la Contraloría y Modernización Administrativa prevista en el Presupuesto de Egresos del Estado, conforme a las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+Los emolumentos que reciba la Comisaria o el Comisario del Instituto serán con cargo a la partida correspondiente a la Secretaría de la Función Pública prevista en el Presupuesto de Egresos del Estado, conforme a las disposiciones aplicables.
 
 La Comisario o el Comisario para el debido cumplimiento de sus atribuciones, se podrá auxiliar del personal técnico que requiera conforme a la autorización del correspondiente presupuesto de egresos.
 
@@ -603,9 +625,11 @@ El Programa Estatal de la Juventud deberá publicarse en el Periódico Oficial d
 
 ### CAPÍTULO QUINTO. RELACIONES DE TRABAJO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
+
 ###### ARTÍCULO 26.
 
-Las relaciones laborales entre el Instituto y sus trabajadoras y trabajadores se regirán por el Estatuto Jurídico para los Trabajadores al Servicio del Estado, así como, en lo conducente, por la de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores al Servicio del Estado.
+Las relaciones laborales entre el Instituto y sus trabajadoras y trabajadores se regirá por el Estatuto Jurídico para los Trabajadores al Servicio del Estado, así como, en lo conducente, por la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores al Servicio del Estado.
 
 Serán considerados personal de confianza dentro del Instituto: la Directora General o al Director General y en general a quienes realicen funciones de dirección, fiscalización y administración.
 
@@ -686,3 +710,11 @@ LIC. JAVIER GUERRERO GARCIA
 EL SECRETARIO DE EDUCACIÓN PUBLICA
 
 PROFR. HUMBERTO MOREIRA VALDEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P. O. 26 DE ENERO DE 2007.
+
+PRIMERO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
