@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2006-12-22"
+last_updated: "2007-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -1543,7 +1543,7 @@ El pago de este derecho deberá realizarse en las oficinas recaudadoras de la Se
 
 #### SECCION PRIMERA. POR SERVICIOS DE CONTROL VEHICULAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 112.
 
@@ -1719,7 +1719,7 @@ No se causará este derecho cuando los servicios que se presten tengan por objet
 
 #### SECCION SEGUNDA. POR OTROS SERVICIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 118.
 
@@ -2731,15 +2731,21 @@ BASE
 
 La base de la contribución a que se refiere este Capítulo será el costo total de la obra pública específica.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 162.
 
-Cuando se trate de obras por cooperación de carácter estatal, la Secretaría de Comunicaciones y Obras Públicas y la Secretaría de Finanzas, serán el conducto del Ejecutivo del Estado para tomar las siguientes determinaciones:
+Cuando se trate de obras por cooperación de carácter estatal, la Secretaría de Obras Públicas y Transporte y la Secretaría de Finanzas, serán el conducto del Ejecutivo del Estado para tomar las siguientes determinaciones:
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 I.- Proyectos, programas, especificaciones de construcción y presupuestos con el costo total de las obras;
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 II.- Area beneficiada con la obra y zona de influencia; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 III.- Determinar la cantidad global que deban cubrir los contribuyentes beneficiados.
 
@@ -2883,17 +2889,17 @@ Son sujetos de esta contribución las personas físicas y morales que realicen a
 
 BASE
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 178.
 
-Servirá de base para el pago de esta contribución la cuantificación de los daños o deterioros causados por el uso de las instalaciones, infraestructura caminera, hidráulica y de servicios, o de uso comunitario y beneficio social, que sean propiedad del Estado, del dominio público o uso común, que se determinarán mediante los estudios técnicos que lleve a cabo la Secretaría de Comunicaciones y Obras Públicas.
+Servirá de base para el pago de esta contribución la cuantificación de los daños o deterioros causados por el uso de las instalaciones, infraestructura caminera, hidráulica y de servicios, o de uso comunitario y beneficio social, que sean propiedad del Estado, del dominio público o uso común, que se determinarán mediante los estudios técnicos que lleve a cabo la Secretaría de Obras Públicas y Transporte.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 179.
 
-La contribución por responsabilidad objetiva se pagará en las oficinas recaudadoras de la Secretaría de Finanzas o en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que se notifique al contribuyente el resultado de los estudios técnicos que lleve a cabo la Secretaría de Comunicaciones y Obras Públicas.
+La contribución por responsabilidad objetiva se pagará en las oficinas recaudadoras de la Secretaría de Finanzas o en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que se notifique al contribuyente el resultado de los estudios técnicos que lleve a cabo la Secretaría de Obras Públicas y Transporte.
 
 TASA
 
@@ -3228,3 +3234,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación el Pe
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
