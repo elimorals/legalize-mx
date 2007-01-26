@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-promotora-para-el-desarrollo-rural-de-coahuila-21629"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2001-06-05"
+last_updated: "2007-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LA PROMOTORA PARA EL DESARROLLO RURAL DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 5 de junio de 2001.
 
@@ -69,9 +69,9 @@ III. Realizar trabajos de control mecánico de arbustivas en áreas de pastizale
 
 IV. Impulsar, en la esfera de su competencia, la construcción de obras diversas para retener el agua de lluvia con fines agropecuarios, de infiltración y, en algunos casos, para el esparcimiento público.
 
-> <small>(F. DE E. P.O. 18 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
 
-V. Promover, en coordinación con la Secretaría de Urbanismo y Obras Públicas, el desarrollo y mejoramiento de la infraestructura de comunicaciones en el área rural y urbana para facilitar acciones de supervisión, asistencia técnica y comercialización de la producción.
+V. Promover, en coordinación con la Secretaría de Obras Públicas y Transporte, el desarrollo y mejoramiento de la infraestructura de comunicaciones en el área rural y urbana para facilitar acciones de supervisión, asistencia técnica y comercialización de la producción.
 
 VI. Desarrollar proyectos sustentables de infraestructura diversa para el apoyo de actividades de los productores agrícolas, pecuarios y forestales de la entidad.
 
@@ -412,3 +412,11 @@ LIC. RAUL SIFUENTES GUERRERO
 EL SECRETARIO DE FOMENTO AGROPECUARIO
 
 DR. ENRIQUE SALINAS AGUILERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
