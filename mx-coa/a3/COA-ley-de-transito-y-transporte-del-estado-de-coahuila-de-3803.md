@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "2001-03-20"
+last_updated: "2007-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -47,11 +47,11 @@ La presente Ley es de orden público e interés social y tiene por objeto regula
 
 Para los efectos del artículo anterior y demás disposiciones aplicables, se consideran vías públicas las avenidas, calzadas, plazas, plazuelas, calles, puentes, carreteras y tramos de caminos que se encuentran dentro de los límites del Estado de Coahuila, excepto aquellas vías reservadas a la jurisdicción federal.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 3.
 
-El Gobernador del Estado, a través de la Secretaría de Urbanismo y Obras Públicas, aplicará las medidas que se requieran para el cumplimiento de esta Ley y aquellas que reclama el interés público en orden a la organización del tránsito de vehículos sobre las vías en la entidad y al aprovechamiento de éstas en la ejecución de los diversos servicios de transporte de personas y carga que clasifica esta misma Ley.
+El Gobernador del Estado, a través de la Secretaría de Obras Públicas y Transporte, aplicará las medidas que se requieran para el cumplimiento de esta ley y aquellas que reclama el interés público en orden a la organización del tránsito de vehículos sobre las vías en la entidad y al aprovechamiento de éstas en la ejecución de los diversos servicios de transporte de personas y carga que clasifica esta misma Ley.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -63,9 +63,9 @@ El Gobierno del Estado y los gobiernos municipales podrán convenir, en el ámbi
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
 
-I.- Secretaría: La Secretaría de Urbanismo y Obras Públicas;
+I.- Secretaría: la Secretaría de Obras Públicas y Transporte;
 
 II.- Dirección General: La Dirección General de Comunicaciones y Transportes;
 
@@ -83,9 +83,9 @@ Son autoridades en materia de tránsito y transporte:
 
 I.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
 
-II.- El Secretario de Urbanismo y Obras Públicas;
+II. El Secretario de Obras Públicas y Transporte;
 
 III.- El Director General de Comunicaciones y Transportes;
 
@@ -781,9 +781,9 @@ Las condiciones y requisitos para la práctica de dichos exámenes médicos se d
 
 Se establece el Registro Público de Transporte del Estado de Coahuila, que estará a cargo de la Secretaría, que tiene por objeto controlar y ordenar el servicio público de transporte mediante la inscripción de los actos relacionados con la prestación del servicio público de transporte; la constitución, transmisión, gravamen y extinción de concesiones; el otorgamiento y extinción de permisos, así como los demás datos relativos a los concesionarios, permisionarios, así como a vehículos destinados al servicio público y operadores.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
-El Titular del Registro Público de Transporte será designado por el Secretario de Urbanismo y Obras Públicas y contará con el personal que para el efecto autorice el presupuesto de egresos correspondiente.
+El Titular del Registro Público de Transporte será designado por el Secretario de Obras Públicas y Transporte y contará con el personal que para el efecto autorice el presupuesto de egresos correspondiente.
 
 ###### ARTICULO 86.
 
@@ -1382,3 +1382,9 @@ Dentro del plazo de un año contado a partir de la entrada en vigor de este decr
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones en contrario.
+
+P.O. 26 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
