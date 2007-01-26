@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-26-de-desarrollo-urbano-regional-y-vivienda-para-141
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-17"
-last_updated: "2006-02-14"
+last_updated: "2007-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 26 DE DESARROLLO URBANO, REGIONAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE -ANTES LEY DE DESARROLLO REGIONAL Y URBANO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE-
 
-LEY DE DESARROLLO REGIONAL Y URBANO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE DESARROLLO URBANO, REGIONAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 17 de abril de 1999.
 
@@ -37,11 +37,11 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 "La Honorable Quincuagésima Octava Legislatura del Estado Libre y Soberano de Veracruz-Llave en uso de la facultad que le confieren los artículos 68 fracción I de la Constitución Política Local; 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
-
 LEY NÚMERO 26
 
-DE DESARROLLO REGIONAL Y URBANO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+> <small>(REFORMADA SU DENOMINACION, G.O. 26 DE ENERO DE 2007)</small>
+
+LEY DE DESARROLLO URBANO, REGIONAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -81,7 +81,9 @@ XIV. La reubicación de los asentamientos humanos en zonas de riesgo;
 
 XV. El establecimiento de formas y mecanismos de coordinación institucional, concertación privada y social y para la participación ciudadana, dirigidas al logro del desarrollo regional y urbano;
 
-XVI. La desconcentración administrativa y territorial de las funciones que son atribución de la Secretaría de Desarrollo Regional, y
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XVI. La desconcentración administrativa y territorial de las funciones que son atribución de la Secretaría de Desarrollo Social y Medio Ambiente, y de la Secretaría de Finanzas y Planeación y,
 
 XVII. Las demás establecidas en esta Ley y otras disposiciones legales aplicables.
 
@@ -97,13 +99,17 @@ III. Desarrollo regional: es un proceso de transformación de las condiciones ec
 
 IV. Desarrollo urbano: toda transformación del territorio para la realización de actividades urbanas, mediante la construcción, remodelación, mejoramiento o demolición de obras; la introducción o mejoramiento de infraestructura; el fraccionamiento, fusión, subdivisión, lotificación o relotificación de predios; el cambio de régimen de propiedad inmobiliaria, así como otros tendientes a la conservación o modificación del uso o aprovechamiento del suelo;
 
-V. Declaración de procedencia: documento expedido por la Secretaría de Desarrollo Regional para avalar la procedencia de un plan o programa, en el que se revisa que las políticas, estrategias o acciones, no se contrapongan a lo establecido en el marco superior de planeación;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
 
-VI. Incentivo: las medidas jurídicas, administrativas, fiscales y financieras que aplicarán las autoridades competentes para promover y facilitar la participación de los inversionistas en el desarrollo regional;
+V. Declaración de procedencia: documento expedido por la Secretaría de Desarrollo Social y Medio Ambiente para avalar la procedencia de un plan o programa, en el que se previene que las políticas, estrategias o acciones, no se contrapongan a lo establecido en el marco superior de planeación;
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
+
+VI. Incentivo: las medidas jurídicas, administrativas, fiscales y financieras que aplicarán las autoridades competentes para promover y facilitar la participación de los inversionistas en el desarrollo regional y urbano;
 
 VII. Región: territorio conformado por la agregación de varios municipios, identificado por características económico-productivas, socio-demográficas y culturales bajo criterios de pertenencia, similitud y complementariedad funcional.
 
-Su propósito es promover la integración y el desarrollo sustentable de la misma, a través de la determinación de políticas de ordenamiento regional y urbano, y sus prioridades de atención, coordinando la implementación de obras y acciones, racionalizando la inversión y haciendo más eficiente el uso de los recursos humanos y materiales que sean necesarios.
+Su propósito es promover la integración y el desarrollo sustentable de la misma, a través de la determinación de políticas de ordenamiento regional y urbano, y sus prioridades de atención, coordinando la implementación de obras y acciones, racionalizando la inversión y haciendo más eficiente el uso de los recursos humanos y materiales que sean necesarios;
 
 VIII. Registro estatal de información regional y urbana: recopilación, clasificación y organización de documentos y cartografía que reúnen los datos relacionados con el desarrollo regional y urbano;
 
@@ -117,7 +123,7 @@ XII. Sistema veracruzano de desarrollo regional: la organización de los actores
 
 XIII. Zona conurbada: la continuidad geográfica, demográfica, económica y social que comprende más de municipio y haga necesario llevar a cabo una planeación integral de ese territorio, y
 
-XIV. Las demás definiciones y conceptos que prevé Ley General de Asentamientos Humanos.
+XIV. (DEROGADA, G.O. 26 DE ENERO DE 2007)
 
 ### CAPÍTULO SEGUNDO. Autoridades competentes
 
@@ -125,15 +131,21 @@ XIV. Las demás definiciones y conceptos que prevé Ley General de Asentamientos
 
 La aplicación de esta Ley corresponde al Ejecutivo del Estado y a los municipios, en sus respectivos ámbitos competenciales.
 
-El Ejecutivo del Estado ejercerá las atribuciones que le confiere esta Ley directamente o por conducto de la Secretaría de Desarrollo Regional y del Instituto Veracruzano de Fomento al Desarrollo Regional, con la participación que les corresponda a otras dependencias y entidades de la Administración Pública estatal.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
+El Ejecutivo del Estado ejercerá las atribuciones que le confiere esta Ley directamente o por conducto de la Secretaría de Desarrollo Social y Medio Ambiente y del Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda, con la participación que les corresponda a otras dependencias y entidades de la Administración Pública Estatal.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2007)</small>
 
 ###### Artículo 4.
 
-Corresponden al Gobernador del Estado, por conducto de la Secretaría de Desarrollo Regional, las siguientes atribuciones:
+Corresponden al Gobernador del Estado, por conducto de la Secretaría de Desarrollo Social y Medio Ambiente y del Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda las siguientes atribuciones:
 
 I. Fijar las normas básicas para planear y regular el ordenamiento territorial del estado y de los asentamientos humanos, así como lo relativo a la formación, conservación, mejoramiento y crecimiento de los centros de población y de las zonas conurbadas;
 
-II. Participar de manera conjunta y coordinada con la Federación, las entidades federativas vecinas y los municipios del estado; en la planeación del desarrollo regional y urbano de las conurbaciones interestatales, en los términos de la Ley General de Asentamientos Humanos; asimismo, en la planeación y control del desarrollo urbano de las conurbaciones en el estado de Veracruz, en los términos de la presente Ley;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
+
+II. Participar de manera coordinada con la Federación, las entidades federativas vecinas y los municipios del estado; en la planeación del desarrollo regional y urbano de las conurbaciones interestatales, en los términos de la Ley General de Asentamientos Humanos; asimismo, en la planeación y control del desarrollo urbano de las conurbaciones del Estado de Veracruz, en los términos de la presente Ley;
 
 III. Formular, aprobar, ejecutar y evaluar el Programa Sectorial de Desarrollo Regional y Urbano y los demás programas sectoriales o regionales de su competencia;
 
@@ -145,7 +157,9 @@ VI. Formular la declaratoria de existencia de zonas conurbadas y constituir las 
 
 VII. Formular la declaratoria de zona de riesgo y ordenar la constitución de las comisiones que normen, regulen, limiten o prohiban la ocupación de dichas zonas;
 
-VIII. Presidir el Consejo Directivo del Instituto Veracruzano de Fomento al Desarrollo Regional y coordinar la operación y funcionamiento de dicho consejo;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
+
+VIII. Presidir el Consejo Directivo del Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda y el Consejo Estatal de Vivienda; así como coordinar la operación y funcionamiento de dichos consejos;
 
 IX. Presidir los Consejos de Administración de la Comisión Estatal de Agua y Saneamiento y de las Comisiones Regionales y de Zona Conurbada de Agua Potable y Saneamiento;
 
@@ -171,31 +185,43 @@ XIX. Supervisar, vigilar y evaluar la aplicación de los programas y las accione
 
 XX. Intervenir, con los municipios de que se trate, en la regularización de la tenencia de la tierra urbana;
 
-XXI. Administrar los bienes inmuebles de propiedad estatal, y
+XXI. Administrar los bienes inmuebles de propiedad estatal, y (sic)
 
-XXII. Las demás que le atribuyan esta Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2007)</small>
+
+XXII. Promover la constitución y administración de reservas territoriales; su dotación de infraestructura, equipamiento y servicios públicos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 26 DE ENERO DE 2007)</small>
+
+XXIII. Las demás que le atribuyan esta Ley y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
 
 ###### Artículo 5.
 
-Se crea el Instituto Veracruzano de Fomento al Desarrollo Regional como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado en la Secretaría de Desarrollo Regional, teniendo por objeto, promover y ejecutar los programas de desarrollo regional y urbano, de vivienda de interés social y popular, de suelo urbano para vivienda, comercio, turismo, industria y dotación de servicios públicos e infraestructura primaria.
+Se crea el Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado en la Secretaría de Desarrollo Social y Medio Ambiente, teniendo por objeto promover el desarrollo urbano y regional en el Estado a través de la formulación de los programas en la materia señalados en el artículo 11 de la presente Ley, así como incidir activamente en el desarrollo de vivienda del Estado, propiciando las condiciones técnicas legales y financieras adecuadas, constituyendo las reservas territoriales suficientes y coordinando los esfuerzos de los diferentes factores de la producción, con el fin de brindar a las familias veracruzanas una mayor oportunidad de contar con una vivienda digna.
 
-Su estructura orgánica contará con un Consejo Directivo, una Dirección General y las Subdirecciones de Suelo Urbano, Vivienda, de Economía Urbana, una Coordinación Regional y las unidades técnicas y administrativas que se estimen necesarias. Sus funciones serán determinadas por el Reglamento Interior respectivo.
+Su estructura orgánica contará con un Consejo Directivo, una Gerencia General y las siguientes Gerencias: Gerencia de Planeación y Ordenamiento del Territorio; de Control Urbano; de Promoción y Desarrollo para la Vivienda; de Crédito a la Vivienda; de Suelo Urbano; de Análisis e Investigación para la Vivienda; de Administración y Finanzas; Jurídica; una Contraloría Interna, y las unidades Técnicas y Administrativas que se estimen necesarias. Su integración y funciones serán determinadas por el Reglamento Interior respectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2007)</small>
 
 ###### Artículo 6.
 
-El Instituto Veracruzano de Fomento al Desarrollo Regional tendrá las siguientes atribuciones:
+El Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda tendrá las siguientes atribuciones:
 
 I. Promover la constitución y administración de reservas territoriales; su dotación de infraestructura, equipamiento y servicios públicos, así como la protección del patrimonio cultural y del medio ambiente en las mismas;
 
-II. Elaborar y llevar a cabo programas de promoción de fraccionamientos y construcción de vivienda;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
+
+II. Elaborar y llevar a cabo programas de promoción de fraccionamientos, mejoramiento y construcción de vivienda;
 
 III. Administrar los bienes de su propiedad y los que se le encomienden;
 
-IV. Establecer y administrar la Bolsa de Suelo Urbano y coadyuvar en la conformación y actualización del Registro Estatal de Información Regional y Urbana;
+IV. (DEROGADA, G.O. 26 DE ENERO DE 2007)
 
 V. Solicitar y promover los decretos de expropiación de bienes inmuebles que requieran sus programas;
 
-VI. Fungir como Secretaría Técnica del Sistema Veracruzano de Desarrollo Regional;
+VI. (DEROGADA, G.O. 26 DE ENERO DE 2007)
 
 VII. Operar como intermediario financiero y promover la obtención de créditos públicos y privados para el financiamiento de sus programas;
 
@@ -203,15 +229,73 @@ VIII. Otorgamiento de créditos para la construcción, adquisición o mejoramien
 
 IX. Promover sociedades cooperativas de vivienda y en general, esquemas de autoconstrucción y de participación de la ciudadanía;
 
-X. Promover la creación de empresas dedicadas a la producción, comercialización y transportación de materiales e insumos para la vivienda, infraestructura y equipamiento urbano, y participar o asociarse en sus actividades;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
 
-XI. Fomentar o realizar la investigación sobre materiales y procedimientos de construcción aplicables a las diferentes regiones del estado, a través de programas de autoconstrucción;
+X. Promover la participación de empresas dedicadas a la producción, comercialización y transportación de materiales e insumos para la vivienda;
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XI. Fomentar a través de la Delegación Estatal de la Cámara Nacional de la Industria de la Construcción, las empresas del ramo y las instituciones de educación superior, la investigación sobre materiales y procedimientos de construcción aplicables a diferentes regiones del estado, a través de programas de autoconstrucción de vivienda;
 
 XII. Promover y operar fondos para la vivienda, incluyendo programas de crédito y ahorro;
 
-XIII. Promover y operar parques de materiales, así como otorgar créditos en paquetes de materiales que se destinen al mejoramiento de la vivienda, y
+XIII. Promover y operar parques de materiales, así como otorgar créditos en paquetes de materiales que se destinen al mejoramiento de la vivienda, y (sic)
 
-XIV. Las demás que le confieran esta Ley, y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2007)</small>
+
+XIV. Fomentar y establecer vínculos institucionales, convenios de asistencia térmica e intercambio de información con la Delegación Estatal de la Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda y las empresas del ramo;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XV. Desarrollar mecanismos para la planeación, desarrollo y ejecución de los programas de vivienda;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XVI. Promover oportunidades de acceso a la vivienda para la población, preferentemente para aquélla que se encuentre en situación de pobreza, marginación o vulnerabilidad;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XVII. Incorporar estrategias que fomenten la concurrencia de los sectores público, social y privado para satisfacer las necesidades de vivienda, en sus diferentes tipos y modalidades;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XVIII. Administrar las reservas territoriales destinadas a la habitación, señaladas en el párrafo primero del artículo 32 de la presente Ley;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XIX. Operar como intermediario financiero y promover la obtención de créditos públicos y privados para el financiamiento de sus programas;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XX. Apoyar el otorgamiento de créditos para la construcción, adquisición o mejoramiento de vivienda, así como para la adquisición y regularización de lotes de uso habitacional;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XXI. Ejecutar y evaluar las políticas generales de desarrollo urbano y regional y, en particular, las de ordenamiento de los asentamientos humanos, de dosificación de suelo, vivienda, infraestructura y equipamiento de servicios;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XXII. Proyectar el ordenamiento territorial de los asentamientos humanos y la regulación del desarrollo urbano de los centros de población y zonas conurbadas;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XXIII. Realizar las acciones encaminadas al desarrollo y ejecución de los programas de ordenamiento urbano y regional, que elaboren las entidades del sector y los municipios, cuidando su publicación en la Gaceta Oficial del estado y su inscripción en el Registro Público de la Propiedad y del Comercio;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XXIV. Supervisar, vigilar y evaluar la aplicación de los programas y las acciones de desarrollo urbano y regional del Estado;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XXV. Proporcionar asistencia técnica a los municipios que lo soliciten, en la elaboración, operación, seguimiento y evaluación de sus planes, programas y demás disposiciones en materia de desarrollo urbano y regional;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XXVI. Transparentar e informar de sus actividades, salvo aquéllas que el Consejo Directivo acuerde que son reservadas y que, por lo tanto, no deberán hacerse del conocimiento de persona o personas algunas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 26 DE ENERO DE 2007)</small>
+
+XVIII. Las demás que le confiere esta Ley, y otras disposiciones aplicables.
 
 ###### Artículo 7.
 
@@ -239,7 +323,9 @@ X. Conocer de las infracciones y aplicar las sanciones y medidas de seguridad en
 
 XI. Fomentar la organización y participación ciudadana en la formulación, ejecución, evaluación y actualización de los planes y programas de su competencia;
 
-XII. Establecer y mantener permanentemente actualizados el Sistema Municipal de Desarrollo Regional y Urbano y el Registro Municipal de Información Urbana, en coordinación con la Secretaría de Desarrollo Regional y el Instituto Veracruzano de Fomento al Desarrollo Regional, y
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XII. Establecer y mantener permanentemente actualizados el Sistema Municipal de Desarrollo Regional y Urbano y el Registro Municipal de Información Urbana, en coordinación con la Secretaría de Desarrollo Social y Medio Ambiente y el Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda y;
 
 XIII. Las demás que les otorguen esta Ley y otras disposiciones legales aplicables.
 
@@ -251,17 +337,23 @@ La participación ciudadana se concibe como una forma coadyuvante de la Administ
 
 Dicha participación podrá ser a través del Consejo consultivo, estatal, de zona conurbada o municipal, según corresponda.
 
-Toda persona, agrupación u organización social, residente en territorio veracruzano, tiene el derecho a participar en estas acciones de forma libre y directa, a través de los mecanismos que se establezcan por la Secretaría de Desarrollo Regional, los municipios y demás disposiciones reglamentarias.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
+Toda persona, agrupación u organización social, residente en territorio veracruzano, tiene el derecho a participar en estas acciones en forma libre y directa, a través de los mecanismos que se establezcan por la Secretaría de Desarrollo Social y Medio Ambiente a través del Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda, los municipios y las disposiciones reglamentarias.
 
 ###### Artículo 9.
 
 El Ejecutivo Estatal y los municipios promoverán la participación ciudadana a través de convocatorias, publicaciones y la difusión en los diferentes medios de comunicación, del contenido de la presente Ley, así como de los programas y actividades vinculadas.
 
-La Secretaría General de Gobierno, por conducto de la Subsecretaría de Asuntos Jurídicos y Participación Ciudadana, llevará un registro de los comités ciudadanos u organizaciones análogas que se constituyan para participar en el desarrollo regional y urbano del estado.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
+La Secretaría de Desarrollo Social y Medio Ambiente llevará un registro de los comités ciudadanos u organizaciones análogas que se constituyan para participar en el desarrollo regional y urbano del Estado.
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
 
 ###### Artículo 10.
 
-Cuando se estén realizando actos u omisiones que contravengan esta Ley, sus reglamentos, las declaratorias o los programas de desarrollo urbano, cualquier ciudadano podrá denunciarlo ante la Secretaría de Desarrollo Regional, el Instituto Veracruzano de Fomento al Desarrollo Regional o ante la autoridad municipal competente.
+Cuando se estén realizando actos u omisiones que contravengan esta Ley, sus reglamentos, las declaratorias o los programas de desarrollo urbano y regional, cualquier ciudadano podrá denunciarlo ante la Secretaría de Desarrollo Social y Medio Ambiente, ante el Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda o ante la autoridad municipal competente.
 
 ## TÍTULO SEGUNDO. PLANEACIÓN
 
@@ -293,9 +385,11 @@ IX. Los Programas Especiales de Ordenamiento Territorial y Desarrollo Regional y
 
 Estos programas deberán ser congruentes con los objetivos, políticas, estrategias y metas establecidos en el Sistema de Planeación Democrática Estatal señalados en la Ley de Planeación del Estado.
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 12.
 
-Los programas a que se refiere el artículo anterior se elaborarán en los términos previstos en esta Ley y con fundamento en las normas técnicas que para tal efecto expida la Secretaría de Desarrollo Regional, cuyo contenido se especificará en el reglamento respectivo. Los programas deberán publicarse en la Gaceta Oficial del gobierno del estado en un plazo no mayor de veinte días contados a partir de su aprobación, y deberán ser inscritos en el Registro Público de la Propiedad y del Comercio haciendo la anotación marginal en la inscripción del título de propiedad, en un término no mayor al que se establezca por el artículo transitorio correspondiente derivado del acuerdo de publicación que emita el Gobernador del Estado. Asimismo, se anotarán en las listas catastrales las provisiones, reservas, usos y destinos de los predios regulados por dichos programas.
+Los programas a que se refiere el artículo anterior, se elaborarán en los términos previstos en esta Ley y con fundamento en las normas técnicas que para tal efecto expida la Secretaría de Desarrollo Social y Medio Ambiente y el Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda, cuyo contenido se especificará en el reglamento respectivo. Los programas deberán publicarse en la Gaceta Oficial del estado en un plazo no mayor de veinte días contados a partir de su aprobación, y deberán ser inscritos en el Registro Público de la Propiedad y del Comercio haciendo la anotación marginal en la inscripción del título de propiedad, en un término no mayor al que se establezca por el artículo transitorio correspondiente derivado del acuerdo de publicación que emita el Gobernador del Estado. Asimismo, se anotarán en las listas catastrales las provisiones, reservas, usos y destinos de los predios regulados por dichos programas.
 
 ###### Artículo 13.
 
@@ -321,17 +415,21 @@ Los Programas de Desarrollo Urbano de Centro de Población indicarán las accion
 
 Los Programas Parciales de Desarrollo Urbano tienen la finalidad de ordenar un espacio específico en el centro de población o zona conurbada, ubicado en cualquier parte de la zonificación, ya sea área de asentamiento humano o en reservas.
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 19.
 
-Los Programas Sectoriales tienen por objeto la determinación de acciones específicas en materias relativas a suelo, vivienda, vialidad y transporte, ecología y medio ambiente, equipamiento, infraestructura e imagen urbana. Estos programas podrán generarse a partir del Programa Sectorial de Desarrollo Regional y Urbano, de los Programas Regionales, de Zona Conurbada, Municipales de Desarrollo Regional y Urbano o de Centro de Población.
+Los Programas Sectoriales tienen por objeto la determinación de acciones específicas en materias relativas a suelo, vialidad y transporte, ecología y medio ambiente, equipamiento, infraestructura e imagen urbana. Estos programas podrán generarse a partir del Programa Sectorial de Desarrollo Regional y Urbano, de los Programas Regionales, de Zona Conurbada, Municipales de Desarrollo Regional y Urbano o de Centros de Población.
 
 ###### Artículo 20.
 
 Los Programas Especiales de Ordenamiento Territorial y Desarrollo Regional y Urbano atenderán situaciones particulares referentes al desarrollo de los asentamientos humanos dentro de uno o varios municipios, y estarán vinculados a acciones de desarrollo económico, turístico, comercial y de servicios, industrial, de protección y conservación del medio ambiente, del patrimonio histórico y arqueológico, u otros, así como los relacionados a fenómenos naturales, siniestros y riesgos industriales, y en general, a aquellos que por su naturaleza requieran de atención especial.
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 21.
 
-En el Registro Estatal de Información Urbana a cargo de la Secretaría de Desarrollo Regional, se deberán registrar todos los programas y modificaciones a los mismos, previstos en esta Ley, así como los reglamentos y normas técnicas correspondientes. Dicho Registro estará a consulta de la ciudadanía.
+En el Registro Estatal de Información Urbana a cargo de la Secretaría de Desarrollo Social y Medio Ambiente, a través del Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda, se deberán registrar todos los programas y modificaciones a los mismos, previstos en esta Ley, así como los reglamentos y normas técnicas correspondientes. Dicho Registro estará a consulta de la ciudadanía.
 
 ### CAPÍTULO SEGUNDO. Formulación, aprobación y modificación de programas
 
@@ -343,15 +441,19 @@ La formulación del Programa Sectorial de Desarrollo Regional y Urbano, de los P
 
 Los Programas de Ordenación de Zonas Conurbadas interestatales se sujetarán a las disposiciones de la Ley General de Asentamientos Humanos.
 
-Los Programas de Ordenación de Zonas Conurbadas dentro del estado, se formularán y aprobarán de manera coordinada con los municipios participantes, por conducto de una Comisión integrada por el Secretario de Desarrollo Regional quien la presidirá; un secretario técnico que recaerá en el Director General del Instituto Veracruzano de Fomento al Desarrollo Regional, y un representante de cada municipio conurbado, en los términos del reglamento respectivo.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
+Los Programas de Ordenación de Zonas Conurbadas dentro del Estado, se formularán y aprobarán de manera coordinada con los municipios participantes, por conducto de una Comisión integrada por el Secretario de Desarrollo Social y Medio Ambiente quien la presidirá; un Secretario Técnico que recaerá en el Director General del Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda, y un representante de cada municipio conurbado, en los términos del reglamento respectivo.
 
 ###### Artículo 24.
 
 Los Programas Municipales de Desarrollo Regional y Urbano, los Programas de Desarrollo Urbano de Centro de Población, así como los parciales, sectoriales y especiales que se formulen y aprueben en el ámbito municipal, se sujetarán al procedimiento que se determine en el reglamento respectivo.
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 25.
 
-El Ejecutivo del estado, por conducto de la Secretaría de Desarrollo Regional, supletoriamente y previo convenio con el municipio que lo solicite, tendrá la atribución de apoyarle y, en su caso, formular los referidos programas.
+El Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Social y Medio Ambiente, y del Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda supletoriamente y previo convenio con el municipio que lo solicite, tendrá la atribución de apoyarle y, en su caso, formular los referidos programas.
 
 ###### Artículo 26.
 
@@ -365,11 +467,15 @@ Los programas que sean aprobados, publicados e inscritos, tendrán el carácter 
 
 Las dependencias y entidades de la administración pública de los tres niveles de gobierno que concurran en el desarrollo regional y urbano en el estado, se sujetarán a lo que dichos programas prevean.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 28.
 
-Los programas de desarrollo urbano entrarán en vigor a partir de su publicación en la Gaceta Oficial del gobierno del estado y surtirán efectos ante terceros a partir de su inscripción en el Registro Público de la Propiedad y del Comercio.
+Los programas de desarrollo regional y urbano entrarán en vigor a partir de su publicación en la Gaceta Oficial del estado y surtirán efectos ante terceros a partir de su inscripción en el Registro Público de la Propiedad y del Comercio.
 
-Dichos programas estarán a disposición de la ciudadanía en los municipios correspondientes, así como en la Secretaría de Desarrollo Regional. A partir de la fecha de la inscripción de un programa, las autoridades estatales o municipales sólo podrán expedir licencias o autorizaciones de urbanización, condominio, fraccionamiento, subdivisión y servidumbre, construcción, reconstrucción, ampliación u otras acciones de desarrollo urbano relacionadas con áreas y predios involucrados en la zona de regulación derivada del programa respectivo, si las solicitudes son acordes con las previsiones de los programas. Las licencias o autorizaciones que no se ajusten a esta disposición serán nulas.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
+Dichos programas estarán a disposición de la ciudadanía en los municipios correspondientes, así como en la Secretaría de Desarrollo Social y Medio Ambiente y el Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda. A partir de la fecha de la inscripción de un programa, las autoridades estatales o municipales sólo podrán expedir licencias o autorizaciones de urbanización, condominio, fraccionamiento, subdivisión y servidumbre, construcción, reconstrucción, ampliación u otras acciones de desarrollo urbano relacionadas con áreas y predios involucrados en la zona de regulación derivada del programa respectivo, si las solicitudes son acordes con las previsiones de los programas. Las licencias o autorizaciones que no se ajusten a esta disposición serán nulas.
 
 No podrá inscribirse ningún acto jurídico, afectación ni resolución judicial en los registros públicos de la propiedad ni incluirse en los catastros, si no se ajusta a lo dispuesto en la presente Ley, en los programas previstos por la misma, y los reglamentos aplicables.
 
@@ -383,9 +489,11 @@ B. CRITERIOS Y ACCIONES
 
 #### SECCIÓN PRIMERA. Administración de bienes inmuebles del estado
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 30.
 
-A efecto de hacer congruente la administración de los bienes inmuebles propiedad del estado con las políticas regional y urbana establecidas en la presente Ley, la Secretaría de Desarrollo Regional ejercerá las siguientes atribuciones:
+A efecto de hacer congruente la administración de los bienes inmuebles propiedad del Estado con las políticas regional y urbana establecidas en la presente Ley, la Secretaría de Desarrollo Social y Medio Ambiente y el Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda ejercerán las siguientes atribuciones:
 
 I. Vigilar y administrar los bienes inmuebles de propiedad estatal, cuando no estén a cargo de otras dependencias; los equiparados a éstos conforme a la Ley; así como las plazas, paseos y parques públicos cuya construcción o conservación esté a cargo del gobierno del estado;
 
@@ -539,13 +647,13 @@ El control al desarrollo regional y urbano mediante la expedición de licencias 
 
 ### CAPÍTULO CUARTO. Infraestructura y equipamiento urbanos
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 47.
 
-La planeación, construcción y operación de la infraestructura, el equipamiento y el mobiliario urbano, se sujetarán a la presente Ley y sus reglamentos; a los programas que de ella emanen, así como a las normas técnicas que para tal efecto expida la Secretaría de Desarrollo Regional.
+La planeación, construcción y operación de la infraestructura, el equipamiento y el mobiliario urbano, se sujetarán a la presente Ley y sus reglamentos; a los programas que de ella emanen, así como a las normas técnicas que para tal efecto expida la Secretaría de Desarrollo Social y Medio Ambiente. Dichas acciones deberán garantizar la seguridad, libre tránsito y accesibilidad de la población, en especial la que requieran los menores de edad, discapacitados y la población de la tercera edad.
 
-Dichas acciones deberán garantizar la seguridad, libre tránsito y accesibilidad de la población, en especial la que requieran los menores de edad, discapacitados y la población de la tercera edad.
-
-La construcción de infraestructura que tenga su origen, atraviese o abastezca un centro de población o zona conurbada, debe contar con un dictamen de desarrollo urbano integral expedido por la Secretaría de Desarrollo Regional.
+La construcción de infraestructura que tenga su origen, atraviese o abastezca un centro de población o zona conurbada, debe contar con un dictamen de desarrollo urbano integral expedido por el Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda.
 
 ###### Artículo 48.
 
@@ -597,9 +705,11 @@ h) Otros.
 
 ### CAPÍTULO QUINTO. Vivienda
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 49.
 
-Corresponde al Ejecutivo del estado, por conducto del Instituto Veracruzano de Fomento al Desarrollo Regional, en materia de suelo y vivienda:
+Corresponde al Ejecutivo del Estado, por conducto del Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda en materia de suelo y vivienda:
 
 I. Formular, conducir y evaluar la política estatal de vivienda, y coordinar los programas y acciones que realicen las entidades de la administración pública estatal, tendientes a satisfacer necesidades habitacionales;
 
@@ -611,13 +721,49 @@ IV. Integrar y formular los programas de diseño y construcción de la vivienda 
 
 V. Promover y coordinar la atención de necesidades de vivienda en caso de siniestros, que afecten a los habitantes de un asentamiento humano;
 
-VI. Organizar y fomentar investigaciones en la materia, principalmente la enfocada a la reducción de costos, mejoramiento de la calidad y mayor producción de vivienda, y
+VI. Organizar y fomentar investigaciones en la materia, principalmente la enfocada a la reducción de costos, mejoramiento de la calidad y mayor producción de vivienda, y (sic)
 
-VII. Las demás que le atribuyan las leyes y disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2007)</small>
+
+VII. Instrumentar mecanismos indicativos de las tendencias del desarrollo habitacional y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda de la Entidad, otorgando atención preferente a la población en situación de pobreza;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+VIII. Promover la participación de los sectores social y privado en la instrumentación de los programas y acciones de suelo y vivienda, de conformidad con lo dispuesto en esta Ley y en los demás ordenamientos legales aplicables;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+IX. Informar a la sociedad sobre las acciones que realicen en materia de suelo y vivienda;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+X. Promover los instrumentos y mecanismos que propicien la simplificación y facilitación de los procedimientos y trámites para el desarrollo integrador de proyectos habitacionales en general, y aquellos que le sean encomendados para su ejecución, de conformidad con los acuerdos y convenios que al efecto se celebren;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XI. Establecer vínculos institucionales, convenios de asistencia técnica e intercambio de información con gobiernos nacionales y organismos nacionales e internacionales, en coordinación con las autoridades competentes;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XII. Fomentar y apoyar programas y proyectos de formación profesional, actualización y capacitación integral para profesionistas, técnicos y servidores públicos relacionados con la generación de vivienda, así como para autor productores, auto constructores y auto gestores de vivienda;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XIII. Promover y apoyar la construcción y operación de organismos de carácter no lucrativo que proporcionen asesoría a la población de bajos recursos para desarrollar de mejor manera sus procesos productivos y de gestión del hábitat;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XIV. Fomentar esquemas financieros y programas que combinen recursos provenientes del crédito, ahorro, subsidio y otras aportaciones, para generar opciones que respondan a las necesidades de vivienda de los distintos sectores de la población, preferentemente a los que se encuentren en situación de pobreza, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 26 DE ENERO DE 2007)</small>
+
+XV. Las demás que le atribuyan las leyes y disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2007)</small>
 
 ###### Artículo 50.
 
-Las acciones en materia de suelo y vivienda a cargo de la Secretaría de Desarrollo Regional y del Instituto Veracruzano de Fomento al Desarrollo Regional, así como de los municipios, se dirigirán al logro de los siguientes objetivos:
+Las acciones en materia de vivienda a cargo del Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda, así como de los municipios, se dirigirán al logro de los siguientes objetivos:
 
 I. Aumentar las posibilidades de acceso a la vivienda al mayor número de personas, con atención preferente a la población urbana y rural de bajos ingresos;
 
@@ -629,9 +775,25 @@ IV. Estimular los procesos de producción, mejoramiento y conservación de la vi
 
 V. Promover y apoyar la producción y distribución de materiales locales para la construcción de vivienda, a efecto de reducir sus costos;
 
-VI. Apoyar la construcción de infraestructura de servicios para la vivienda, a través de la participación organizada de la ciudadanía, e
+VI. Apoyar la construcción de infraestructura de servicios para la vivienda, a través de la participación organizada de la ciudadanía, e (sic)
 
-VII. Impulsar en la población el desarrollo habitacional, de manera que se fomente el apoyo a la autoconstrucción organizada y la constitución de cooperativas para la vivienda.
+VII. Impulsar en la población el desarrollo habitacional, de manera que se fomente el apoyo a la autoconstrucción organizada y la constitución de cooperativas para la vivienda;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+VIII. Coordinar y concertar las acciones para cumplir los objetivos, prioridades y estrategias de la política nacional de vivienda;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+IX. Dar integridad y coherencia a las acciones, instrumentos, procesos y apoyos orientados a la satisfacción de las necesidades de vivienda, particularmente de la población en situación de pobreza;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+X. Promover y garantizar la participación articulada de todos los factores productivos cuyas actividades incidan en el desarrollo de la vivienda;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2007)</small>
+
+XI. Promover la coordinación interinstitucional entre las diferentes instancias federales relacionadas con la vivienda.
 
 ### CAPÍTULO SEXTO. Formación, conservación, crecimiento y mejoramiento urbanos
 
@@ -647,23 +809,33 @@ Las políticas y las acciones específicas para la conservación, crecimiento y 
 
 ### CAPÍTULO PRIMERO. Incentivos a la inversión
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 53.
 
-El Ejecutivo del estado por conducto del Instituto Veracruzano de Fomento al Desarrollo Regional coordinará, concertará y fomentará, con la intervención que corresponda a los municipios, la participación de acciones e inversiones entre los sectores público, social y privado, para incrementar los recursos destinados al desarrollo regional, la vivienda y a la atención de las necesidades de la sociedad para:
+El Ejecutivo del Estado por conducto del Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda coordinará, concertará y fomentará, con la intervención que corresponda a los municipios, la participación de acciones e inversiones entre los sectores público, social y privado, para incrementar los recursos destinados al desarrollo de la vivienda y a la atención de las necesidades de la sociedad para:
 
-I. Lograr una alta rentabilidad financiera de los recursos orientados al desarrollo regional, urbano y a la vivienda;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
+
+I. Lograr una alta rentabilidad financiera de los recursos orientados al desarrollo a la vivienda;
 
 II. Eficientar la capacidad de interrelación de las estructuras gubernamentales, y
 
-III. Evitar la especulación en perjuicio del desarrollo regional y urbano armónicos.
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
+
+III. Evitar la especulación en perjuicio del desarrollo de la vivienda.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2007)</small>
 
 ###### Artículo 54.
 
-El Instituto Veracruzano de Fomento al Desarrollo Regional elaborará un programa de trabajo para incentivar la inversión que, independientemente de lo dispuesto por la Ley de Fomento Económico del Estado y demás disposiciones aplicables, cubrirá las siguientes prioridades:
+El Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda elaborará un programa de trabajo para incentivar la inversión que, independientemente de lo dispuesto por la Ley de Fomento Económico del Estado y demás disposiciones aplicables, cubrirá las siguientes prioridades:
 
-I. Integrar una cartera de proyectos regionales, urbanos y de vivienda, con visión de mediano y largo plazo, que favorezcan la integración regional y la participación pública, social y privada;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
 
-II. Desarrollar un programa que garantice la ejecución de los proyectos con pleno respeto a los instrumentos de planeación regional y urbana establecidos en esta Ley, y
+I. Integrar una cartera de proyectos de vivienda, con visión de mediano y largo plazo, que favorezcan la participación pública, social y privada;
+
+II. (DEROGADA, G.O. 26 DE ENERO DE 2007)
 
 III. Promover un marco administrativo y financiero propicio para asegurar la viabilidad de ejecución, financiamiento y operación de los proyectos.
 
@@ -683,17 +855,23 @@ Para el otorgamiento de dichos incentivos es requisito que estén contemplados e
 
 ### CAPÍTULO SEGUNDO. Concesiones, licencias y permisos
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 56.
 
-En la prestación de los servicios públicos municipales en los que tuviere injerencia la Secretaría de Desarrollo Regional, los particulares podrán participar mediante concesión, licencia o permiso temporales que se otorguen al efecto, los que se autorizarán siempre que se garantice su prestación en forma adecuada, asegurando su calidad a los usuarios y con certidumbre para sus titulares.
+En la prestación de los servicios públicos municipales en los que tuviere ingerencia la Secretaría de Desarrollo Social y Medio Ambiente, los particulares podrán participar mediante concesión, licencia o permiso temporales que se otorguen al efecto, los que se autorizarán siempre que se garantice su prestación en forma adecuada, asegurando su calidad a los usuarios y con certidumbre para sus titulares.
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
 
 ###### Artículo 57.
 
-Las convocatorias para la celebración de concursos de otorgamiento de las concesiones, licencias y permisos a que se refiere el artículo anterior se llevarán a cabo de acuerdo con la Ley de Obras Públicas del Estado y serán otorgadas por la Secretaría de Desarrollo Regional, su contenido se indicará en el reglamento respectivo.
+Las convocatorias para la celebración de concursos de otorgamiento de las concesiones, licencias y permisos a que se refiere el artículo anterior se llevarán a cabo de acuerdo con la Ley de Obras Públicas del Estado y serán otorgadas por la Secretaría de Desarrollo Social y Medio Ambiente; su contenido se indicará en el reglamento respectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2007)</small>
 
 ###### Artículo 58.
 
-En materia de concesiones, licencias y permisos, la Secretaría de Desarrollo Regional y el municipio o municipios, según corresponda, tienen atribuciones para:
+En materia de concesiones, licencias y permisos, la Secretaría de Desarrollo Social y Medio Ambiente y el municipio o municipios, según corresponda, tienen atribuciones para:
 
 I. Vigilar y, en su caso, modificar en la forma que sea conveniente y conforme a lo que prevean las disposiciones aplicables, dichos títulos;
 
@@ -715,9 +893,11 @@ VIII. Dictar las medidas necesarias tendentes a proteger el interés público.
 
 Las concesiones, licencias y permisos sobre bienes de dominio público y prestación de servicios públicos no crean derechos reales, otorgar simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones de acuerdo con las reglas y condiciones que establezcan los ordenamientos aplicables o el respectivo título.
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 60.
 
-Las concesiones, licencias y permisos serán por tiempo determinado y el plazo de vigencia será fijado por la Secretaría de Desarrollo Regional, sin perjuicio de lo establecido en el artículo anterior, tomando en cuenta el monto de la inversión, el plazo de su amortización, y el beneficio social y económico que signifique para el área urbana o la región.
+Las concesiones, licencias y permisos serán por tiempo determinado y el plazo de vigencia será fijado por la Secretaría de Desarrollo Social y Medio Ambiente, sin perjuicio de lo establecido en el artículo anterior, tomando en cuenta el monto de la inversión el plazo de su amortización y el beneficio social y económico que signifique para el área urbana o la región.
 
 ###### Artículo 61.
 
@@ -795,9 +975,11 @@ Cuando en cualquier momento del cumplimiento de las obligaciones en las concesio
 
 Sólo se considerarán como acontecimientos extraordinarios, aquellas alteraciones imprevisibles que sobrevengan por hechos o circunstancias que alteren la situación económica del país.
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 68.
 
-Cuando sea procedente la modificación o extinción de los efectos de los actos administrativos, según lo previsto en este capítulo, el Ejecutivo del estado, por conducto de la Secretaría de Desarrollo Regional, o los municipios, en sus respectivas competencias, modificarán o cancelarán el acto administrativo, pudiendo obrar a solicitud del titular de la concesión, licencia o permiso de que se trate, o de oficio.
+Cuando sea procedente la modificación o extinción de los efectos de los actos administrativos, según lo previsto en este capítulo, el Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Social y Medio Ambiente o los municipios, en sus respectivas competencias, modificarán o cancelarán el acto administrativo, pudiendo obrar a solicitud del titular de la concesión, licencia o permiso de que se trate, o de oficio.
 
 ### CAPÍTULO QUINTO. Silencio administrativo
 
@@ -806,6 +988,10 @@ Cuando sea procedente la modificación o extinción de los efectos de los actos 
 Las autoridades estatales y municipales tienen la obligación de dar contestación o de resolver toda promoción o petición presentada por los interesados dentro de los plazos establecidos por la presente Ley o sus reglamentos.
 
 A falta de un plazo específico, y siempre que la naturaleza del acto lo permita, la providencia deberá dictarse y notificarse dentro de los 30 días naturales siguientes a la fecha en que se haya presentado la promoción.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2007)</small>
+
+El Reglamento interno de esta Ley, definirá las reglas de procedencia sobre el silencio administrativo a que se refiere esta ley.
 
 ## TÍTULO CUARTO. CONTROL AL DESARROLLO
 
@@ -829,7 +1015,9 @@ Para la autorización de acciones de desarrollo regional y urbano que generen un
 
 Las licencias de fraccionamientos, subdivisiones, fusiones, lotificaciones, relotificaciones y conjuntos habitacionales, comerciales y de servicios, mixtos o turísticos, serán expedidas por los municipios cuando exista un programa de desarrollo urbano en vigor, para fundamentar el otorgamiento o la negativa de dichas licencias.
 
-Las licencias serán expedidas por la Secretaría de Desarrollo Regional, cuando no exista un programa en los términos del párrafo anterior o en los casos en que los municipios hayan convenido el ejercicio de dicha facultad con el Ejecutivo del estado.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
+Las licencias serán expedidas por el Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda, cuando no exista un programa en los términos del párrafo anterior o en los casos en los que los municipios hayan convenido el ejercicio de dicha facultad con el Ejecutivo del Estado.
 
 ###### Artículo 74.
 
@@ -851,7 +1039,9 @@ I. Cambiar el uso del suelo de un predio ubicado en el área de aplicación del 
 
 II. Dedicar un predio a un uso no especificado por el programa de desarrollo urbano vigente en la zona, y
 
-III. Dedicar un predio a un uso determinado en zonas donde no exista un programa de desarrollo urbano. En este último caso el municipio respectivo podrá solicitar el apoyo necesario a la Secretaría de Desarrollo Regional.
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2007)</small>
+
+III. Dedicar un predio a un uso determinado en zonas donde no exista un programa de desarrollo urbano. En este último caso el municipio respectivo podrá solicitar el apoyo necesario al Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda.
 
 No se requerirá la licencia de uso del suelo en los casos en que el uso previsto, de llevarse a cabo, esté expresamente autorizado por un programa en vigor o, cuando se haya obtenido un dictamen de desarrollo urbano integral favorable.
 
@@ -863,9 +1053,11 @@ La vigencia de las constancias de zonificación, así como los requisitos para s
 
 ### CAPÍTULO TERCERO. Apertura de vías públicas
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 78.
 
-Para la apertura, prolongación, ampliación y cierre de vías públicas estatales, no previstas en los programas emanados de la presente Ley, se requerirá la autorización de la Secretaría de Desarrollo Regional o, en su caso, de la comisión de conurbación respectiva, a petición del municipio interesado.
+Para la apertura, prolongación, ampliación y cierre de vías públicas estatales, no previstas en los programas emanados de la presente Ley, se requerirá la autorización de la Secretaría de Desarrollo Social y Medio Ambiente y, en su caso, de la Comisión de Conurbación respectiva, a petición del municipio interesado.
 
 El reglamento de esta Ley establecerá los tipos, dimensiones mínimas, características, normas para el alojamiento de redes de servicio y especificaciones que al efecto hayan emitido las dependencias y entidades federales y estatales competentes en la materia.
 
@@ -923,9 +1115,11 @@ En estos desarrollos habitacionales, para efectos de garantizar al estado la rea
 
 Los inmuebles a hipotecar deberán reportar al momento de constituir la garantía, libertad de gravamen y para su liberación se acreditará la recepción satisfactoria de los servicios públicos por parte de los órganos y entidades competentes, así como la exhibición de los instrumentos públicos, debidamente inscritos en el Registro Público de la Propiedad, en los que se consigne la donación a favor del Ayuntamiento de que se trate, de las áreas de vialidad, equipamiento y verdes.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2007)</small>
+
 ###### Artículo 82.
 
-El Ejecutivo del estado promoverá por conducto de la Secretaría de Desarrollo Regional, la realización de fraccionamientos populares de urbanización progresiva para los grupos sociales de bajos ingresos, con servicios mínimos ejecutados por personas físicas o morales de los sectores público, social, privado o de los propios beneficiados, en los cuales se permitirá la introducción de dichos servicios en forma paulatina.
+El Ejecutivo del Estado promoverá por conducto del Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda, la realización de fraccionamientos populares para los grupos sociales de bajos ingresos, con servicios mínimos ejecutados por personas físicas o morales de los sectores público, social, privado o de los propios beneficios, en los cuales se permitirá la introducción de dichos servicios en forma paulatina.
 
 Para tal efecto, impulsará la formación de asociaciones y la celebración de actos, convenios y contratos entre los grupos organizados demandantes de suelo, los propietarios de los predios, los promotores de urbanización y vivienda, los inversionistas y los beneficiados.
 
@@ -1182,3 +1376,11 @@ G.O. 14 DE FEBRERO DE 2006.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G. O. 26 DE ENERO DE 2007.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+Tercero. El Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda deberá emitir su Reglamento Interior, en un término no mayor a 90 días.
