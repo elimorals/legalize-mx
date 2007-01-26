@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-cultural-para-el-estado-de-coahuila-de-44956"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-29"
-last_updated: "2006-12-15"
+last_updated: "2007-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 29 de abril del 2005.
 
@@ -545,7 +545,9 @@ EL COMITÉ DEL PATRIMONIO CULTURAL DEL ESTADO. El Comité será presidido por el
 
 I. La Secretaría de Educación Pública del Estado de Coahuila.
 
-II. La Secretaría de Urbanismo y Obras Públicas.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
+
+II. La Secretaría de Obras Públicas y Transporte.
 
 III. El Instituto.
 
@@ -1067,7 +1069,9 @@ IV. Siete vocales, que serán:
 
 1. El titular de la Secretaría de Finanzas del Gobierno del Estado.
 
-2. El titular de la Secretaría de Comunicaciones y Obras Públicas del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
+
+2. El titular de la Secretaría de Obras Públicas y Transporte del Gobierno del Estado.
 
 3. El titular de la Secretaría de Planeación y Desarrollo del Estado del Gobierno del Estado.
 
@@ -1358,3 +1362,9 @@ P.O. 7 DE NOVIEMBRE DE 2006.
 P.O. 15 DE DICIEMBRE DE 2006.
 
 ÚNICO.-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
