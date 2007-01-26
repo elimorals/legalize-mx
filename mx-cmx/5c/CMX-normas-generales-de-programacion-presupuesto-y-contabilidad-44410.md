@@ -4,7 +4,7 @@ identifier: "CMX-normas-generales-de-programacion-presupuesto-y-contabilidad-444
 country: "mx"
 rank: "norma"
 publication_date: "2005-04-11"
-last_updated: "2005-04-11"
+last_updated: "2007-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44410&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-04-02"
 
 NORMAS GENERALES DE PROGRAMACION, PRESUPUESTO Y CONTABILIDAD DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2007.
 
 Normas publicadas en la Gaceta Oficial del Distrito Federal, el lunes 11 de abril de 2005.
 
@@ -366,6 +366,10 @@ VI. Para el caso de los prestadores de servicios contratados por honorarios, se 
 
 La Secretaría Administrativa, durante el ejercicio del presupuesto del año correspondiente, podrá efectuar las transferencias de recursos presupuestarios entre partidas presupuestales, para cumplir con los programas y proyectos del Tribunal, sin exceder del presupuesto, previo dictamen de la Comisión de Administración, quien las presentará a la consideración y, en su caso, aprobación del Pleno.
 
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2007)</small>
+
+El Pleno podrá, en caso de urgencia justificada, autorizar a la Secretaría Administrativa realizar transferencias presupuestales entre partidas, sin necesidad del dictamen previo de la Comisión de Administración a que se refiere el párrafo anterior; para ello, será necesario que el titular de la Secretaria presente la solicitud correspondiente, en la que deberá exponer los argumentos que sustenten la necesidad de tal medida, debiendo señalar copia de conocimiento a la Comisión.
+
 ###### Artículo 41.
 
 Las adecuaciones programático-presupuestales comprenderán las relativas a:
@@ -482,7 +486,9 @@ e) No impliquen obligaciones para años posteriores; creación de programas, sub
 
 f) No afecten las asignaciones consideradas en el capítulo 1000 “Servicios Personales” y 4000 “Ayudas, Subsidios y Transferencias”.
 
-Tratándose de afectaciones presupuestarias internas, la Secretaría Administrativa podrá ejercer libremente sus claves presupuestales modificadas, siempre y cuando no rebasen el monto mensual programado a nivel concepto de gasto y se informe al Pleno con oportunidad, en los formatos y mecanismos que se diseñen para ello.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2007)</small>
+
+Tratándose de afectaciones presupuestarias internas, la Secretaría Administrativa podrá ejercer libremente sus claves presupuestales modificadas, siempre y cuando no rebasen el monto mensual programado a nivel concepto de gasto, e informe con oportunidad al Pleno.
 
 II. Afectaciones presupuestarias externas: Son aquellas adecuaciones programático - presupuestales que la Secretaría Administrativa someterá a consideración de la Comisión y, cuando se trate de los siguientes supuestos:
 
@@ -653,3 +659,11 @@ Lo que certifico en ejercicio de la facultad prevista en los artículos 230, inc
 México, Distrito Federal, a primero de abril de dos mil cinco. DOY FE.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LAS PRESENTES NORMAS.</small>
+
+G.O. 26 DE ENERO DE 2007.
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Para su mejor conocimiento, se ordena al Titular de la Secretaría General que notifique los presentes Lineamientos a los servidores públicos del Tribunal, mediante oficio dirigido a los Titulares de área, acompañándoles copia de los mismos.
