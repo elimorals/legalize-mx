@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-del-programa-de-estimulos-y-recompensas-de-los-49963
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-11"
-last_updated: "2006-03-11"
+last_updated: "2007-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DEL PROGRAMA DE ESTIMULOS Y RECOMPENSAS DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2007.
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 11 de marzo de 2006.
 
@@ -117,7 +117,9 @@ II. La dedicación a las actividades académicas, 300 puntos, 30 %
 
 (Anexo II)
 
-III. Evaluación, 200 puntos, 30 %
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2007)</small>
+
+III. Evaluación, 200 puntos, 20 %
 
 (Anexo III)
 
@@ -215,6 +217,10 @@ La Comisión Evaluadora y Dictaminadora otorgará a los servidores públicos que
 
 A los servidores públicos, que cumplan quinquenios de servicio en la institución, se les entregará, previo análisis de la documentación comprobatoria por los integrantes de la Comisión Evaluadora y Dictaminadora, un "Reconocimiento al Desempeño Laboral", en el acto que se señale para ese efecto.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ENERO DE 2007)</small>
+
+A los servidores que participen en este programa durante 5 cinco años consecutivos e ininterrumpidos, se harán acreedores por ese solo hecho y por una sola vez durante el periodo vigente a 50 cincuenta salarios mínimos vigentes en la entidad.
+
 ###### Artículo 20.
 
 A los servidores públicos que logren acreditar la dedicación a estudios de posgrado, se les podrá otorgar una beca que cubra el costo de los mismos, siempre que acrediten un porcentaje de 80 por ciento de la totalidad de puntos previstos en los puntos I "Calidad en el desempeño laboral y permanencia" o II. "Dedicación a las actividades académicas" y lleven un promedio mínimo de ochenta por ciento de la calificación máxima a obtener (si ya se curso alguno de los periodos). Al personal administrativo se le otorgará de igual forma, una beca que cubra los gastos en los estudios que estén cursando, siempre que acrediten un promedio como mínimo de ochenta por ciento de la calificación máxima a obtener.
@@ -239,9 +245,15 @@ d. Los factores a evaluar.
 
 e. La fecha y lugar de entrega de solicitudes y documentación soporte.
 
-f. La vigencia del periodo, que deberá ser semestral.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2007)</small>
 
-g. La fecha para la entrega de los estímulos y recompensas al personal que resultó beneficiado.
+f. La vigencia del periodo, que deberá ser anual.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ENERO DE 2007)</small>
+
+g. Las solicitudes estarán disponibles en Internet, y el llenado de las mismas únicamente se realizará por esa vía, y deberán imprimirse y presentarse con la documentación que acredite los aspectos a valorar en el programa durante el periodo vigente de la convocatoria, en la Secretaría de la Carrera Judicial. No podrán presentarse solicitud alguna que no se ajuste a esos parámetros. (sic)
+
+g (sic). La fecha para la entrega de los estímulos y recompensas al personal que resultó beneficiado.
 
 ###### Artículo 23.
 
@@ -323,6 +335,10 @@ c. Anexo IV (sic). Puntualidad, será del año fiscal anterior al periodo que se
 
 No podrán participar como solicitantes en éste programa, quienes ocupen el cargo de magistrado numerario dentro del período de vigencia del programa.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ENERO DE 2007)</small>
+
+No podrán participar quienes hayan gozado de licencia por más de tres meses durante el periodo que se pretende evaluar.
+
 ###### Artículo 36.
 
 Tampoco podrán participar como solicitantes en éste programa, las personas que ocupen plazas sindicales.
@@ -341,7 +357,9 @@ Son causas de suspensión de los estímulos:
 
 a. Solicitar por escrito la suspensión del programa de estímulos por convenir a sus intereses.
 
-b. Licencia sin goce de sueldo no mayor a 6 meses durante el año fiscal.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2007)</small>
+
+b. Licencia sin goce de sueldo por tres meses durante el año fiscal.
 
 c. Licencia médica expedida por el ISSSTE.
 
@@ -446,3 +464,13 @@ Magistrado Licenciado Javier Germán Rodríguez Jiménez, Presidente del Consejo
 Acuerdo aprobado por unanimidad en la Segunda Sesión Ordinaria por el Consejo de la Judicatura del Poder Judicial del Estado de Nayarit; celebrado el día 23 veintitrés de febrero de 2006 dos mil seis.
 
 A t e n t a m e n t e "Sufragio Efectivo.- No Reelección" Tepic, Nayarit; a 23 de febrero 2006.- Mgdo. Lic. Javier Germán Rodríguez Jiménez, Presidente del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.- Rúbrica.- Lic. María Catalina Medina Rosales, Secretario de Acuerdos del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE ENERO DE 2007.
+
+Artículo Primero.- Publíquese la presente reforma al Reglamento de Estímulos y Recompensas del Poder Judicial del Estado de Nayarit en el Periódico Oficial, Órgano del Gobierno del Estado y en el Boletín Judicial del Poder Judicial del Estado.
+
+Artículo Segundo.- La presente reforma al reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+> <small>N. DE E. VEASE ANEXOS EN LA SECCION CUARTA DEL P.O. DE 27 DE ENERO DE 2007, DE LA PAGINA 5 A LA 7.</small>
