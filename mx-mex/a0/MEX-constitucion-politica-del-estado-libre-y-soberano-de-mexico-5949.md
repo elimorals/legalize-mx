@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2006-08-16"
+last_updated: "2007-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ENERO DE 2007.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -799,11 +799,15 @@ La Legislatura aprobará proyectos para la prestación de servicios conforme a l
 
 XXXI. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal, la Ley de Ingresos de los Municipios, cuya iniciativa será turnada por el Ejecutivo del Estado.
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE ENERO DE 2007)</small>
 
-XXXII. Recibir, revisar, fiscalizar y calificar a más tardar el 31 de julio las cuentas públicas del Estado y de los Municipios del año anterior, mismas que incluirán la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios. Para tal efecto, contará con un Órgano Superior de Fiscalización, dotado de autonomía técnica y de gestión.
+XXXII. Recibir, revisar y fiscalizar las cuentas públicas del Estado y de los Municipios, del año anterior, mismas que incluirán, en su caso, la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios. Para tal efecto, contará con un Órgano Superior de Fiscalización, dotado de autonomía técnica y de gestión.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 El Auditor Superior de Fiscalización será designado y removido por el voto de las dos terceras partes de los integrantes de la Legislatura, a propuesta de la Junta de Coordinación Política.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 El Auditor Superior de Fiscalización durará en su encargo 4 años, pudiendo ser ratificado hasta por 4 años más, por el voto de las dos terceras partes de los integrantes de la Legislatura.
 
@@ -2720,3 +2724,11 @@ G.G. 16 DE AGOSTO DE 2006.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE ENERO DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La reforma a la Constitución del Estado Libre y Soberano de México, contenida en el presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y de los municipios, correspondientes al ejercicio fiscal 2006.
