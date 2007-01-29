@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2006-12-11"
+last_updated: "2007-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -3901,11 +3901,9 @@ V.- Las demás funciones que le encomiende el Presidente Municipal.
 
 INTEGRACIÓN DE LA UNIDAD OPERATIVA MUNICIPAL DE PROTECCIÓN CIVIL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
-
 ###### Artículo 393.
 
-La Unidad Operativa Municipal de Protección Civil, se integra por:
+La Unidad Operativa Municipal se integra por:
 
 I. Un Director que será el Secretario Técnico del Consejo Municipal de Protección Civil;
 
@@ -10545,7 +10543,7 @@ Queda prohibido al Organismo Operador de los Servicios de Agua Potable y Alcanta
 
 ###### Artículo 909.
 
-El Organismo Operador de los Servicios de Agua Potable y Alcantarillado que corresponda, aprobará toda obra de drenaje y alcantarillado si llena las condiciones que se establecen en este capitulo.
+El Organismo Operador de los Servicios de Agua Potable y Alcantarillado que corresponda, aprobará toda obra de drenaje y alcantarillado si llena las condiciones que se establecen en este capítulo.
 
 ###### Artículo 910.
 
@@ -11825,7 +11823,7 @@ I. Fuerzas cortantes.- Para calcular las fuerzas cortantes a diferentes niveles 
 
 Esta expresión no se aplica directamente en edificios apéndices. En este caso de deberá emplear textualmente el párrafo anterior, en combinación con lo especificado en la fracción IV, de este artículo.
 
-Pi= Wihi (i Wi/c Q;c/Q>a)
+Pi = Wihi (i Wi/c Q;c/Q>a)
 
 Donde:
 
@@ -11865,7 +11863,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1-r(1-q)W¡)
+a¡ = (1 - r(1-q)W¡)
 
 W¡h¡
 
@@ -12037,7 +12035,7 @@ V = a/Qw-(a/Q - a/Q)We
 
 Donde:
 
-W =Peso del nivel i
+W = Peso del nivel i
 
 We = Peso efectivo de la estructura el cual se tomará como 0.7 W, excepto para estructuras en que su peso está concentrado en un solo nivel donde se tomará igual a W.
 
@@ -16242,6 +16240,10 @@ En caso de incumplimiento a lo dispuesto en el artículo anterior, se sancionar�
 La imposición de la sanción a que se refiere el artículo anterior por la inobservancia a la obligación de retirar los anuncios relativos a propaganda política y/o electoral en el plazo señalado y las demás que resulten por la aplicación del presente Código Reglamentario, generará un crédito fiscal en términos del Código Fiscal y Presupuestario para el Municipio de Puebla, que será determinado por cada una de las autoridades que resulten competentes; y su cobro y/o ejecución, se realizará en términos del referido Código Fiscal y Presupuestario.
 
 # LIBRO CUARTO. SERVICIOS PÚBLICOS
+
+## TÍTULO ÚNICO
+
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO 22. PANTEONES
 
@@ -24029,6 +24031,14 @@ Si por la incapacidad que sufran los asegurados perdieran sus facultades mentale
 
 La incapacidad del asegurado reconocida por la Junta de Administración origina su baja en el seguro y deja sin efecto la designación que hubiere hecho en el pliego de mortaja.
 
+### CAPÍTULO 36. DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
 ###### Artículo 2074.
 
 El presente Capítulo tiene por objeto, establecer las bases para la planeación, organización, funcionamiento, desarrollo, control y evaluación del Servicio Profesional de Carrera, a fin de eficientar a la Administración Pública del Municipio de Puebla y de prestar un óptimo servicio a los ciudadanos, en los términos y modalidades que se señalan.
@@ -26645,6 +26655,820 @@ DE LOS CONVENIOS DE COORDINACIÓN
 
 El Ayuntamiento podrá celebrar tonel Gobierno Federal, el Gobierno del Estado y con otros Municipios, organizaciones no gubernamentales y universidades públicas y privadas, convenios institucionales, con el propósito de intercambiar información y para fortalecer los procesos de mejora regulatoria.
 
+> <small>(ADICIONADO CON EL TITULO, CAPITULO, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+
+# LIBRO NOVENO
+
+> <small>(ADICIONADO CON EL CAPITULO, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2276.
+
+Las disposiciones del presente Capítulo, son de orden e interés público y tienen por objeto establecer los lineamientos que regulan el reconocimiento público que haga el Ayuntamiento del Municipio de Puebla, a aquellas personas que en lo individual o colectivamente sean consideradas por sus actos u obras, conducta, ciencia, profesión u oficio como ejemplo a través de actividades que sean relevantes y que representen un beneficio para el Municipio, así como para declarar huéspedes o visitantes distinguidos.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2277.
+
+El Honorable Ayuntamiento del Municipio de Puebla, otorgará las distinciones que enlista de acuerdo a su antigüedad derivada del acto de creación:
+
+l. Copia de la Cédula Real.
+
+II. Premio al "Mérito Civil".
+
+III. Premio Anual en "Salud Municipal".
+
+IV. Reconocimiento de "Visitante Distinguido".
+
+V. Reconocimiento de "Poblano Distinguido".
+
+VI. Reconocimiento "Alonso Valiente".
+
+VII. Reconocimiento al "Mérito Docente".
+
+VIII. Presea "Puebla de Zaragoza".
+
+IX. Premio Municipal de la Juventud.
+
+X. Reconocimiento "Puebla Patrimonio Histórico de la Humanidad".
+
+XI. Reconocimiento "Juan de Palafox y Mendoza".
+
+XII. Reconocimiento al Mérito Empresarial.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+
+DE LA CÉDULA REAL
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2278.
+
+La copia de la Cédula Real, es una distinción que conferirá el Honorable Ayuntamiento del Municipio de Puebla, a través del C. Presidente Municipal Constitucional, a los hombres y mujeres que se hayan distinguido por su ciencia o virtud en grado eminente, como servidores de nuestra Patria o de la humanidad, así como a quienes sobresalgan en la realización de una actividad que promueva la conservación de las tradiciones y de la identidad poblana, en la realización de trabajos históricos, diseño urbanístico o arquitectónico de la Ciudad o la redacción de una obra literaria donde se resalten los rasgos espirituales de nuestra estirpe y en la promoción de acciones encaminadas al bienestar de la sociedad, de tal manera que el candidato a recibir esta distinción haya sabido aglutinar voluntades en tomo a una conducta ciudadana de superación general.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2279.
+
+Esta distinción consiste en la copia fiel del pergamino original, conocido como Cédula Real, considerado como el documento más valioso en la historia de la Ciudad de Puebla, que fue expedido por el Emperador Carlos I de España y V de Alemania, el 20 de junio de 1538, por medio del cual se otorgaban Armas y Escudo a los habitantes de la Ciudad de los Ángeles.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2280.
+
+La copia de la Cédula Real, puede ser entregada en Sesión Solemne de Cabildo o en Acto Protocolario, a elección del Presidente Municipal, siendo facultad exclusiva del C. Presidente Municipal Constitucional, determinar la persona que será merecedora a recibir dicha distinción.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+
+DEL PREMIO AL MÉRITO CIVIL
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2281.
+
+El Premio al Mérito Civil, será entregado a las personas que sobresalgan en el ejercicio de la ciencia, profesión, arte, oficio, actividades culturales y deportivas, y en general a todas aquéllas que por su significado, trascendencia y ejemplo, merezcan el reconocimiento por ser promotoras constantes de obras de bienestar social, y que sean guías y organizadoras de actividades solidarias, cívicas, humanísticas, altruistas y heroicas dentro de su vida personal como trascendencia hacía la comunidad.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2282.
+
+El Premio al Mérito Civil, consistirá en:
+
+I. Una placa metálica que contenga el grabado del Escudo de la Ciudad, con la respectiva leyenda alusiva;
+
+II. Diploma al Mérito Civil; y
+
+III. Becas o estímulos a quienes en razón de sus necesidades así lo requieran, a juicio de la Comisión del Premio al Mérito Civil.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2283.
+
+La entrega del Premio al Mérito Civil, estará a cargo de la Comisión al Premio del Mérito Civil, la cual estará integrada por:
+
+I. Un Presidente, quien será el C. Presidente Municipal Constitucional, con voz y voto, teniendo voto de calidad en caso de empate;
+
+II. Un Secretario, quien será el C. Secretario del Honorable Ayuntamiento, con voz y voto;
+
+lII. El Número de Vocales, que serán los Regidores integrantes de las Comisiones de Educación Superior, Arte y Cultura, y de Actividades Deportivas y Sociales, quienes tendrán voz y voto; y
+
+IV. El Presidente del Consejo Consultivo del Municipio, con voz pero sin voto.
+
+Los integrantes de la Comisión, designarán por escrito ante ésta, a sus respectivos suplentes.
+
+La Comisión del Premio al Mérito Civil, sesionará válidamente con la asistencia del cincuenta por ciento más uno de los integrantes, y las decisiones se tomarán por la simple mayoría de votos, y en caso de empate, el Presidente de la Comisión, tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2284.
+
+La Comisión del Premio al Mérito Civil, tendrá las siguientes atribuciones:
+
+I. Formular y dar publicidad a la convocatoria para otorgar el Premio al Mérito Civil;
+
+II. Recibir y registrar candidaturas con sus respectivos expedientes a través de la propia Comisión;
+
+III. Analizar de manera individual las propuestas recibidas, para estar en posibilidad de emitir una resolución;
+
+IV. Fijar las condiciones y términos para el otorgamiento del Premio al Mérito Civil;
+
+V. Llevar estricto control de los expedientes de los candidatos a recibir dicho Premio; y
+
+VI. Las demás necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2285.
+
+Dicho premio será otorgado al Ciudadano que resulte ganador en la selección que para el efecto realice la Comisión del Premio al Mérito Civil, en Sesión Solemne de Cabildo, que para tal efecto se señale en el mes de abril, en el marco de los festejos de la Fundación de la Ciudad de Puebla.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2286.
+
+Para la entrega del Premio al Mérito Civil, se deberán establecer las bases y requisitos en la convocatoria respectiva, la cual deberá ser publicada en dos de los principales diarios de mayor circulación en el Estado y en la página Web del Gobierno Municipal con cinco días de anticipación, y en la cual se establecerán todos los pormenores para la entrega de este Premio.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2287.
+
+Los candidatos a recibir dicho premio, podrán ser propuestos por Instituciones, Asociaciones, Sectores Sociales Organizados, Personas Morales o Físicas, las cuales deberán ser presentadas ante la Secretaría del Honorable Ayuntamiento, quien será la encargada de poner dichas propuestas a consideración de la Comisión.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2288.
+
+Las propuestas deberán ser presentadas por escrito, ante la Secretaría del Honorable Ayuntamiento, debiendo ser acompañadas de los expedientes, datos bibliográficos y en general todos aquellos documentos que sirvan de sustento para comprobar que los candidatos son susceptibles de recibir dicho Premio, siendo la Secretaría la encargada de poner dichas propuestas a consideración de la Comisión.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2289.
+
+Con base en las propuestas hechas, y de acuerdo a las fechas que para tal efecto establezca la convocatoria respectiva, la Comisión del Premio al Mérito Civil, procederá al análisis, valoración, selección y votación secreta de cada uno de los integrantes, para determinar al ganador del Premio.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+
+DEL PREMIO ANUAL EN SALUD MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2290.
+
+El Premio Anual en Salud Municipal, será entregado en dos categorías:
+
+I. "Dr. Mariano Joaquín de Anzurez y Zeballos", otorgado a persona física que se haya destacado por sus investigaciones, proyectos o acciones en materia de salud municipal; y
+
+II. "Dr. Jesús Manuel de la Fuente", otorgado a Institución Pública o Privada o Asociación que se haya destacado por su actividad en el ámbito de salud municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2291.
+
+El Premio Anual en Salud Municipal, consistirá en:
+
+I. Diploma en Salud Municipal en su categoría de persona física denominado "Dr. Mariano Joaquín de Anzurez y Zeballos"; y
+
+II. Diploma en Salud Municipal en su categoría de persona moral denominado "Dr. Jesús Manuel de la Fuente".
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2292.
+
+El Premio Anual en Salud Municipal, será entregado en Acto Protocolario durante la segunda quincena del mes de abril de cada año, dentro de los actos conmemorativos de la fundación de la Ciudad de Puebla, una vez que la Comisión de Salubridad y Asistencia Pública haya emitido la convocatoria respectiva, que deberá ser publicada durante los primeros quince días del mes de marzo, en dos de los diarios de mayor circulación en el Estado de Puebla y en la Pagina Web del Gobierno Municipal, en la que se establecerán las beses (sic) y requisitos que deberán cubrir los aspirantes a recibir dicho premio.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2293.
+
+El Premio Anual en Salud Municipal, será entregado por un Jurado, el cual estará integrado por:
+
+I. El Presidente Municipal Constitucional, con voz y voto, y quien tendrá voto de calidad en caso de empate;
+
+II. El Secretario del Honorable Ayuntamiento, con voz y voto;
+
+III. El Síndico Municipal, con voz y voto;
+
+IV. Los integrantes de la Comisión de Salubridad y Asistencia Pública del Honorable Ayuntamiento, los cuales tendrán voz y voto; y
+
+V. El Presidente del Consejo Consultivo de Salud, con voz pero sin voto.
+
+Los integrantes del Jurado, designarán por escrito a sus respectivos suplentes.
+
+El Jurado, sesionará válidamente con la asistencia del cincuenta por ciento más uno de los integrantes, y las decisiones se tomarán por la simple mayoría de votos, y en caso de empate, el C. Presidente Municipal Constitucional, tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2294.
+
+El Jurado encargado de la entrega del Premio Anual en Salud Municipal, tendrá las siguientes atribuciones:
+
+l. Formular y dar publicidad a la convocatoria para otorgar el Premio Anual en Salud Municipal, a través de la Comisión de Salubridad y Asistencia Pública;
+
+II. Recibir y registrar candidaturas con sus respectivos expedientes a través de la Comisión de Salubridad y Asistencia Pública;
+
+III. Analizar de manera individual las propuestas recibidas, para estar en posibilidad de emitir una resolución;
+
+IV. Fijar las condiciones y términos para el otorgamiento del Premio Anual en Salud Municipal;
+
+V. Llevar estricto control de los expedientes de los candidatos a recibir dicho Premio; y
+
+VI. Las demás necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2295.
+
+Las propuestas de los candidatos a recibir el Premio Anual en Salud Municipal, en sus dos categorías, deberán entregarse ante la Comisión Permanente de Salubridad y Asistencia Pública, por escrito y acompañando los datos bibliográficos, expediente y demás documentos del aspirante que justifiquen su reconocimiento, de los trabajos que hayan causado un impacto social en el ámbito de salud municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2296.
+
+El Jurado encargado de determinar quiénes son los ganadores del Premio, lo harán con base en las propuestas y en la fecha que para tal efectos (sic) éste señale, procediendo al respectivo análisis, valoración, selección y votación secreta de cada uno de los integrantes.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2297.
+
+Una vez que se haya determinado quiénes serán los acreedores a recibir el Premio Anual en Salud Municipal, en sus dos categorías, la Comisión de Salubridad y Asistencia Pública, deberá darlos a conocer mediante publicación hecha en dos de los diarios de mayor circulación y en la página Web del Gobierno Municipal, con cinco días de anticipación, el nombre de los ganadores y la fecha de entrega del Premio, así como cualquier otro dato que considere pertinente publicar la propia Comisión.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+
+DE LA PRESEA "PUEBLA DE ZARAGOZA"
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2298.
+
+La Presea "Puebla de Zaragoza" será entregada a aquellas personas que, en lo individual o colectivamente sean consideradas por su conducta, actos u obras, ciencia, profesión u oficio, a través de actividades que deberán ser relevantes y que representen un beneficio para la humanidad, el País, el Estado o el Municipio, además de que sean originarias o vecinas del Municipio de Puebla, y que constituyan dentro de la comunidad, respetables ejemplos de dignidad cívica por su diligente cumplimiento de la ley, por la firme y serena defensa de los propios derechos y de los derechos de los demás, por el respeto a las instituciones públicas, por un relevante comportamiento de participación ciudadana, o bien, por la realización de actos heroicos.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2299.
+
+La entrega de la Presea "Puebla de Zaragoza", será otorgada anualmente, en Sesión Solemne de Cabildo que para tal efecto fije el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2300.
+
+La Presea "Puebla de Zaragoza", tendrá las características propias de una medalla, la cual está cotizada en base a las medidas de la medalla Alfredo Novel, y que serán:
+
+l. Estará fabricada en oro de 14 K, con un peso de 20.8 grs. y 66 milímetros de diámetro, en alto relieve;
+
+II. El troquel (modelo único), será elaborado por su frente con el escudo del Honorable Ayuntamiento de Puebla, con las leyendas; "Heroica Puebla de Zaragoza", "El lema institucional aprobado por la Administración que se encuentre vigente", "Gobierno Municipal (periodo de gestión que se encuentre vigente)", así como el nombre del reconocimiento (Presea Puebla de Zaragoza), y el año en el que es entregado éste; y
+
+III. Por su reverso, el troquel con el que se elabore la medalla, presentará el rostro del General Ignacio Zaragoza y el lema "Las Armas Nacionales se han cubierto de Gloria".
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2301.
+
+Para la selección de candidatos a recibir la Presea "Puebla de Zaragoza", deberá publicarse con la anticipación necesaria la Convocatoria respectiva en dos de los diarios de mayor circulación en el Estado y en la página Web del Gobierno Municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2302.
+
+La Presea "Puebla de Zaragoza", será entregada por el Honorable Ayuntamiento de Puebla, a través del C. Presidente Municipal Constitucional, el día cinco de mayo de cada año, en Sesión Solemne de Cabildo, en el marco de los festejos realizados con motivo de la celebración de la "Batalla del 5 de Mayo".
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2303.
+
+Las propuestas de los candidatos a recibir la Presea "Puebla de Zaragoza", pueden ser presentadas por las personas o agrupaciones de índole pública o privada.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2304.
+
+Las propuestas señaladas en el artículo anterior, serán recibidas en la Secretaría del Honorable Ayuntamiento, en los plazos previstos y acompañados de una amplia reseña de los hechos que dan motivo a las mismas, así como la documentación correspondiente al caso, quien una vez cerrado el periodo de recepción de propuestas, establecido en la respectiva convocatoria, las turnará en un plazo de cinco días hábiles a cada uno de los integrantes del Consejo de Premiación, debiendo integrar los respectivos expedientes de las candidaturas.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2305.
+
+Para efectos de selección de las personas o instituciones susceptibles de ser condecoradas con la Presea "Puebla de Zaragoza", únicamente podrán votar los integrantes que conformen el Consejo de Premiación, y en caso de existir empate, el Presidente del Consejo tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2306.
+
+La selección previa que haga el Consejo de Premiación de la Presea "Puebla de Zaragoza", así como la decisión que éste haga, respecto de las personas a las que ha de entregárseles dicha Presea, serán inapelables.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2307.
+
+El Consejo de Premiación es un órgano colegiado de carácter permanente, encargado de emitir sobre la base de los estudios realizados, el proyecto de resolución, respecto de los expedientes que se formen para el otorgamiento de la Presea "Puebla de Zaragoza".
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2308.
+
+El Consejo de Premiación se integrará por:
+
+I. Un Presidente, quien será el Presidente Municipal Constitucional, quien en caso de empate tendrá voto de calidad;
+
+II. Un Secretario, quien será el Secretario del Honorable Ayuntamiento, quien tendrá voz y voto;
+
+III. Los Regidores integrantes de las Comisiones de Educación Superior, Arte y Cultura, y Actividades Deportivas y Sociales, quienes serán los vocales, teniendo voz y voto; y
+
+IV. El Presidente del Consejo de la Crónica, con voz, pero sin voto.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2309.
+
+Los integrantes del Consejo de Premiación, designarán por escrito ante el propio Consejo, a sus respectivos suplentes.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2310.
+
+El Consejo de Premiación, sesionará válidamente con la asistencia del cincuenta por ciento más uno de los integrantes, y las decisiones se tomarán por la simple mayoría de votos, y en caso de empate, el Presidente del Consejo, tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2311.
+
+El Consejo de Premiación, sesionará en forma permanente, en los primeros días del mes de marzo, días en que se tendrá que elaborar, para su publicación, la respectiva convocatoria y será hasta el mes de abril, cuando tengan que tomar la decisión del ganador.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2312.
+
+El Consejo de Premiación, sesionará en privado y en el local que para tal efecto designe el propio Consejo.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2313.
+
+La cita para las sesiones, estará a cargo del Secretario del Consejo, quien lo hará por lo menos con setenta y dos horas de anticipación, debiendo anexar el orden del día, así como todos los documentos necesarios para el desahogo de la sesión.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2314.
+
+El Consejo de Premiación tendrá las siguientes atribuciones:
+
+I. Formular e instruir a la Coordinación de Comunicación Social del Honorable Ayuntamiento de Puebla, para que sea la encargada de dar la respectiva publicidad a la convocatoria mediante la cual se vaya a otorgar la Presea "Puebla de Zaragoza";
+
+II. Recibir y registrar candidaturas con sus respectivos expedientes a través de la Secretaría del Honorable Ayuntamiento;
+
+III. Analizar de manera individual las propuestas recibidas, para estar en posibilidad de emitir una resolución;
+
+IV. Fijar las condiciones y términos para el otorgamiento de la Presea "Puebla de Zaragoza";
+
+V. Llevar estricto control de los expedientes de los candidatos a recibir dicha Presea; y
+
+VI. Las demás necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2315.
+
+El cargo de integrante del Consejo de Premiación, será honorífico, por lo que no recibirán emolumento alguno como contraprestación por el desempeño de sus funciones, quedando obligados a guardar reserva sobre los asuntos de que conozcan con motivo de su empleo, cargo o comisión.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2316.
+
+Los integrantes del Consejo de Premiación no podrán revocar sus resoluciones, las cuales corresponderán a su propio arbitrio e incumbencia.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2317.
+
+El Consejo de Premiación, determinará la forma y término de las convocatorias que deban expedirse para el otorgamiento de la Presea "Puebla de Zaragoza", las cuales deberán ser debidamente publicadas en dos de los diarios de mayor circulación en el Estado de Puebla y en la página Web del Gobierno Municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2318.
+
+Las propuestas de los candidatos a recibir la Presea "Puebla de Zaragoza", se efectuará bajo los siguientes términos:
+
+I. Cualquier ciudadano podrá registrar ante el Consejo de Premiación al candidato o candidatos susceptibles de obtener, por concurso la Presea "Puebla de Zaragoza";
+
+II. La inscripción será dentro de la fecha y bajo los términos que señale la convocatoria correspondiente;
+
+III. Toda propuesta debe expresar la trayectoria, logros y merecimientos del candidato, y se acompañará de los documentos probatorios que se estimen pertinentes; en su caso, se indicará la naturaleza de otras pruebas y los lugares donde pueden recabarse; y
+
+IV. Los demás requisitos que a juicio del Consejo de Premiación, estime convenientes.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2319.
+
+El Consejo de Premiación, determinará conforme a lo establecido en el presente Reglamento y demás características específicas que deban a su juicio reunirse, la forma y términos de las convocatorias que deban publicarse para el otorgamiento de la Presea "Puebla de Zaragoza".
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2320.
+
+El Secretario del Consejo de Premiación, se encargará de formar los expedientes de los candidatos, así como llevar el registro de los mismos.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2321.
+
+El Secretario del Consejo de Premiación, llevará un registro de las actas, en las que constarán los lugares, fechas, horas de apertura y clausura de las sesiones; nombre de los asistentes, así como la narración ordenada y sucinta del desarrollo de la reunión, de las resoluciones y acuerdos tomados, y el resultado de las votaciones, además de registrar el nombre de la persona a quien deba otorgarse la Presea, y la hora y fecha de entrega.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2322.
+
+La decisión del Consejo de Premiación, respecto de la persona o institución que resulte merecedora a recibir la Presea, deberá ser notificada por escrito, con un mínimo de cinco días antes de la fecha en que se realice la entrega de la misma, además de que dicha resolución, deberá ser publicada en dos de los diarios de mayor circulación en el Estado de Puebla y dada a conocer a través de la página Web del Gobierno Municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2323.
+
+El nombre del ganador, la fecha y hora para la entrega de la Presea "Puebla de Zaragoza", así como otras condiciones que considere pertinentes el Consejo de Premiación, deberán ser publicadas cinco días antes de la fecha en que se realice la entrega, en dos de los diarios de mayor circulación en el Estado de Puebla y en la página Web del Gobierno Municipal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+
+DEL PREMIO MUNICIPAL DE LA JUVENTUD
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2324.
+
+El Premio Municipal de la Juventud, será entregado a los jóvenes poblanos de entre 12 y 29 años de edad que sobresalgan por su conducta o dedicación al trabajo o al estudio, considerándoseles como un ejemplo alentador para el resto de los jóvenes mexicanos.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2325.
+
+El Premio Municipal de la Juventud, contará con cinco distinciones en las que podrán participar los jóvenes, siendo éstas:
+
+I. Actividades artísticas y culturales.- Para aquellos jóvenes que destaquen por sus expresiones artísticas en forma notable y original en las áreas de las artes visuales (artes plásticas, cine, vídeo, fotografía, diseño, danza, literatura, música, teatro), y que sean ejemplo a seguir para la sociedad;
+
+II. Compromiso Social.- Para todos aquellos jóvenes que por el resultado de sus actividades destaquen por su sentido de solidaridad social y que se traduzcan en mejoramiento de condiciones de vida de grupos, comunidades o de la sociedad en general;
+
+III. Protección y preservación del medio ambiente.- Para jóvenes que como resultado de sus actividades en la concientización, rescate, protección, uso racional y desarrollo de los ecosistemas indispensables para un desarrollo sustentable, incluyendo el control y tratamiento de residuos, se hagan acreedores al reconocimiento público de la sociedad poblana;
+
+IV. Aportación a la cultura política y la democracia.- Destinado a los jóvenes con trayectoria destacada en la elaboración de estudios, investigaciones, trabajos, publicaciones en revistas especializadas y científicas, ponencias en foros académicos, que promuevan el estudio de la nueva realidad política del país, impulsen la cultura política basada en la reflexión, el análisis y la presentación de propuestas sobre temas prioritarios de la agenda nacional que fomenten la construcción de la ciudadanía en una cultura política democrática sustentada en los valores del diálogo, la tolerancia, el respeto a la pluralidad y la generación de acuerdos; y
+
+V. Mérito Deportivo.- A jóvenes, quienes por sus logros en materia deportiva, sean un aliciente y un ejemplo a seguir para la sociedad en general, permitiendo con ello una población más sana y libre de adicciones.
+
+La participación de los candidatos sólo podrá ser en una de las cinco distinciones, otorgándose un solo premio por distinción.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2326.
+
+Al ganador del Premio Municipal de la Juventud, se le reconocerá mediante el otorgamiento de la distinción denominada "Poblano Distinguido", el cual será entregado en el mes de agosto de cada año, en Acto Protocolario, a través del C. Presidente Municipal Constitucional, en el marco de la conmemoración del Día Internacional de la Juventud.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2327.
+
+En las Convocatorias se darán a conocer las bases y los requisitos que deberán cubrir los jóvenes aspirantes a recibir cada una de las distinciones, la cual será dada a conocer con la anticipación debida a través de la publicación de la misma en dos de los diarios de mayor circulación en el Estado de Puebla, así como en la página Web del Gobierno Municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2328.
+
+El Registro de candidaturas a recibir el Premio Municipal de la Juventud, se deberá presentar ante la Coordinación de Programas de Atención a la Juventud del Municipio de Puebla, la cual será la encargada de verificar los documentos, constancias, ejemplares, copias y reproducciones que fundamenten y verifiquen que la candidatura satisface los términos y condiciones de la respectiva Convocatoria, estando en la facultad de poder determinar la aceptación o la improcedencia de las propuestas, con el propósito de poner en estado de resolución los expedientes que se integren para el otorgamiento del premio.
+
+La Coordinación de Programas de Atención a la Juventud del Municipio de Puebla, remitirá copia de las propuestas junto con los expedientes y demás documentos que acrediten las candidaturas de los aspirantes, a los demás integrantes del Consejo de Premiación.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2329.
+
+El Consejo de Premiación para la entrega del Premio Municipal de la Juventud, estará integrado por:
+
+I. El Presidente Municipal Constitucional, quien fungirá como Presidente del Consejo; quien en caso de empate tendrá voto de calidad;
+
+II. El Secretario del Honorable Ayuntamiento, quien fungirá como Secretario Ejecutivo; con voz y voto;
+
+III. El Director de Programas de Atención a la Juventud del Municipio de Puebla, quien fungirá como Secretario Técnico del Consejo, con voz y voto; y
+
+IV. Los Regidores integrantes de la Comisión de Juventud del Honorable Ayuntamiento, quienes fungirán como Vocales, con voz y voto.
+
+Los integrantes del Consejo de Premiación, designarán por escrito ante el propio Consejo, a sus respectivos suplentes.
+
+El Consejo de Premiación, sesionará válidamente con la asistencia del cincuenta por ciento más uno de los integrantes, y las decisiones se tomarán por la simple mayoría de votos, y en caso de empate, el Presidente del Consejo, tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2330.
+
+El Consejo de Premiación tendrá las siguientes atribuciones:
+
+I. Formular y dar publicidad a la convocatoria para otorgar el Premio Municipal de la Juventud, a través de la Coordinación de Programas de Atención a la Juventud del Municipio de Puebla;
+
+II. Recibir y registrar candidaturas con sus respectivos expedientes a través de la Coordinación de Programas de Atención a la Juventud del Municipio de Puebla, quien remitirá copia de las propuestas a los demás integrantes;
+
+III. Analizar de manera individual las propuestas recibidas, para estar en posibilidad de emitir una resolución;
+
+IV. Fijar las condiciones y términos para el otorgamiento del Premio Municipal de la Juventud;
+
+V. Llevar estricto control de los expedientes de los candidatos a recibir dicho Premio; y
+
+VI. Las demás necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2331.
+
+Para efectos de definir quiénes serán los galardonados, el Consejo de Premiación, previo estudio de la documentación de los aspirantes en las categorías que correspondan al perfil de los mismos, seleccionará a quienes consideren que por su trayectoria se hagan merecedores del Premio Municipal de la Juventud, mismas que se presentarán ante el propio Consejo, para que emitan su voto.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2332.
+
+La lista de los ganadores deberán (sic) ser dada a conocer mediante publicaciones hechas con cinco días de anticipación a la fecha en que sea entregado el Premio, en dos de los diarios de mayor circulación en el Estado de Puebla, así como en la página Web del Gobierno Municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2333.
+
+Los casos no previstos en las convocatorias respectivas, serán resueltos en definitiva por el Consejo de Premiación.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+
+DE LOS RECONOCIMIENTOS ENTREGADOS POR EL HONORABLE AYUNTAMIENTO
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2334.
+
+Los Reconocimientos que serán entregados por parte del Honorable Ayuntamiento, por conducto del C. Presidente Municipal Constitucional, o por quien en su caso éste designe para tal efecto, serán:
+
+I. Reconocimiento de "Visitante Distinguido";
+
+II. Reconocimiento de "Poblano Distinguido";
+
+III. Reconocimiento "Alonso Valiente";
+
+IV. Reconocimiento al "Mérito Docente";
+
+V. Reconocimiento "Puebla Patrimonio Histórico de la Humanidad";
+
+VI. Reconocimiento "Juan de Palafox y Mendoza"; y
+
+VII. Reconocimiento al "Mérito Empresarial".
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2335.
+
+Los Reconocimientos señalados en las fracciones I, II, III, IV, V y VI del artículo anterior, serán entregados sin que medie convocatoria para su asignación y se otorgarán en Sesión de Cabildo, o bien en Acto Protocolario, según lo determine el C. Presidente Municipal Constitucional.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2336.
+
+Los Reconocimientos señalados en las fracciones I, II, III, IV, V y VI del artículo 2334 del presente Capítulo, serán entregados a las personas físicas cuyas actividades tienen una relevancia significativa en el mundo, el País, el Estado o el Municipio, a quienes se hayan destacado por su labor intelectual o empresarial, porque su trayectoria, méritos o legados sean merecedores a recibirlos, y aquellas personas de distinguida reputación que vengan en representación de otros Países, Estados o Municipios.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2337.
+
+El Reconocimiento de "Visitante Distinguido", será entregado a aquellas personas, que por su trayectoria, labor, o bien por el cargo que desempeña, sea considerada una persona de reconocida importancia, y que sin ser vecino de Puebla, visite el Municipio.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2338.
+
+El Reconocimiento de "Poblano Distinguido", será entregado a aquellas personas, que por su trayectoria, labor, o bien por el cargo que desempeña, sean consideradas como personas de reconocida importancia, siendo éstas residentes del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2339.
+
+El Reconocimiento "Alonso Valiente", será entregado a quienes se hayan destacado por su labor intelectual o empresarial, porque su trayectoria, méritos o legados sean merecedores a recibirlo.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2340.
+
+El Reconocimiento al "Merito Docente", será entregado a aquellos maestros o catedráticos, cuya destacada labor represente un reconocimiento a su vasta y prestigiada trayectoria en materia de Educación.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2341.
+
+El Reconocimiento "Puebla Patrimonio Histórico de la Humanidad", será otorgado a personas físicas de reconocida trayectoria que visiten la Ciudad de Puebla por segunda ocasión, y que además hayan recibido con anterioridad algún otro galardón de los que se establecen en el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2342.
+
+El Reconocimiento "Juan de Palafox y Mendoza", será otorgado a aquellas personas que se hayan destacado a nivel Municipal, Estatal, Nacional e Internacional por sus trabajos humanitarios o que hayan llevado a cabo actividades relevantes en materia de Derechos Humanos.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2343.
+
+Es facultad del C. Presidente Municipal Constitucional, conceder los Reconocimientos señalados en las fracciones I, II, III, IV, V y VI del artículo 2334 del Presente Capítulo, estableciendo para tal efecto el nombre o nombres de los galardonados, la hora, fecha y tipo de ceremonia en la que ha de entregarse el Reconocimiento, convocando ésta con una hora de anticipación.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2344.
+
+Los Reconocimientos señalados en el artículo anterior, consistirán en un diploma, firmado por el C. Presidente Municipal Constitucional y el Secretario del Honorable Ayuntamiento, según el galardón entregado, y en el cual se expresarán las razones de su otorgamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2345.
+
+El Reconocimiento al "Mérito Empresarial", será otorgado a las empresas que han contribuido al desarrollo, generación de empleo y posicionamiento nacional e internacional de la Ciudad de Puebla.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2346.
+
+El Reconocimiento al "Mérito Empresarial", consistirá de seis categorías:
+
+I. Comercio y Servicios;
+
+II. Industria;
+
+III. Agro Industria;
+
+IV. Empresas Exportadoras;
+
+V. Turismo; y
+
+VI. Empresas incubadas por Universidades.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2347.
+
+El Reconocimiento al "Mérito Empresarial", será entregado en Sesión Solemne de Cabildo, para cada una de sus categorías, durante la última semana del mes de noviembre de cada año.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2348.
+
+El Reconocimiento al "Mérito Empresarial", consistirá en una escultura hecha por artesanos poblanos, además de hacerse merecedores a recibir el descuento, que para tal efecto, determine la propia Tesorería Municipal en Impuesto Predial y Refrendo de Licencias de Funcionamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2349.
+
+Para la selección de las empresas susceptibles a recibir el Reconocimiento al "Mérito Empresarial", deberá publicarse la convocatoria respectiva en dos de los diarios de mayor circulación en el Estado de Puebla y en la Pagina Web del Gobierno Municipal con la anticipación necesaria.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2350.
+
+El Reconocimiento al "Mérito Empresarial", será entregado por el Honorable Ayuntamiento de Puebla, a través del C. Presidente Municipal Constitucional.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Articulo 2351.
+
+Las propuestas de las empresas a recibir dicho Reconocimiento, deberán ser hechas por cada uno de los organismos que representan a los sectores señalados en el artículo 2346 del presente Capítulo, y presentadas ante la Secretaría del Consejo de Premiación del Reconocimiento al "Mérito Empresarial".
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2352.
+
+Las propuestas señaladas en el artículo anterior, serán recibidas en la Secretaría del Consejo de Premiación del Reconocimiento al "Mérito Empresarial", en los plazos previstos y acompañados de una amplia reseña de los hechos que dan motivo a las mismas, así como la documentación correspondiente al caso, quien una vez cerrado el periodo de recepción de propuestas, establecido en la respectiva Convocatoria, las turnará en un plazo de cinco días hábiles a cada uno de los integrantes del Consejo de Premiación, debiendo integrar los respectivos expedientes de las candidaturas, además de observar los requisitos establecidos en el artículo 2353 del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2353.
+
+Las Empresas que se hagan merecedoras a recibir el Reconocimiento al "Mérito Empresarial", deberán cumplir con los siguientes requisitos:
+
+I. Encontrarse dentro del Municipio de Puebla;
+
+II. Contar con un origen, identidad, marca o razón social;
+
+III. Contar con una reconocida trayectoria o antigüedad;
+
+IV. Ser generadora de un gran número de empleos dentro del Municipio;
+
+V. Contar con un proceso de innovación (involucrando tecnología de punta en general); y
+
+VI. Contar con certificación que la acrediten como una empresa de calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2354.
+
+Para efectos de la selección de las empresas susceptibles de ser condecoradas con la entrega del Reconocimiento al "Mérito Empresarial", únicamente podrán votar los miembros que conformen el Consejo de Premiación, y en caso de existir empate, el Presidente del Consejo tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2355.
+
+La selección previa que haga el Consejo de Premiación, del merecedor del Reconocimiento al "Mérito Empresarial", así como la decisión que éste haga, respecto de la empresa a la que se ha de entregar dicho Reconocimiento, será inapelables en todo caso.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2356.
+
+El Consejo de Premiación es un órgano colegiado de carácter permanente, encargado de emitir sobre la base de los estudios realizados, el proyecto de resolución, respecto de los expedientes que se formen para el otorgamiento del Reconocimiento al "Mérito Empresarial.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2357.
+
+El Consejo de Premiación del Reconocimiento al "Mérito Empresarial", estará integrado por:
+
+l. Un Presidente, quien será el Presidente Municipal Constitucional, quien en caso de empate tendrá voto de calidad;
+
+II. Un Secretario, quien será el Secretario de Fomento Económico, Turismo y Empleo; con voz y voto; y
+
+III. Seis Vocales, que serán el Presidente de la Comisión de Industria y Comercio del Honorable Ayuntamiento, los Representantes Legales de: BANCOMEXT, COMCE SUR, PYMEXPORTA, CEDECO y de la Secretaría del Trabajo y Competitividad, quienes tendrán voz y voto.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2358.
+
+El Consejo de Premiación del Reconocimiento al "Mérito Empresarial", tendrán (sic) las siguientes atribuciones:
+
+I. Formular e instruir a la Coordinación de Comunicación Social del Honorable Ayuntamiento de Puebla, para que sea la encargada de dar la respectiva publicidad a la convocatoria mediante la cual vaya a otorgar el Reconocimiento al "Mérito Empresarial", tomando en consideración la fecha en que deberá ser entregada dicha Condecoración;
+
+II. Recibir y registrar candidaturas con sus respectivos expedientes por conducto de la Secretaría del Consejo;
+
+IlI. Analizar de manera individual las propuestas recibidas, para estar en posibilidad de emitir una resolución;
+
+IV. Fijar las condiciones y términos para el otorgamiento del Reconocimiento;
+
+V. Llevar estricto control de los expedientes de las empresas a recibir dicho Reconocimiento;
+
+VI. Fijar, tomando en consideración la opinión del Presidente del Consejo de Premiación, la hora y el día especifico, en la que será entregado el Reconocimiento antes mencionado; y
+
+VII. Las demás necesarias para el cumplimiento de sus funciones.
+
+Los integrantes del Consejo de Premiación, designarán por escrito ante el propio Consejo, a sus respectivos suplentes.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2359.
+
+El Consejo de Premiación, sesionará válidamente con la asistencia del cincuenta por ciento más uno de los integrantes, en privado y en el local que para tal efecto designe el propio Consejo, y las decisiones se tomarán por la simple mayoría de votos, y en caso de empate, el Presidente del Consejo de Premiación, tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2360.
+
+El Consejo de Premiación, sesionará en forma permanente, en los primeros días del mes de agosto, días en que se tendrá que elaborar, para su publicación, la respectiva convocatoria y será hasta el mes de octubre, cuando tengan que tomar la decisión de la empresa ganadora.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2361.
+
+La cita para las sesiones, estará a cargo del Secretario del Consejo, quien lo hará por lo menos con veinticuatro horas de anticipación, debiendo anexar el orden del día y todos los documentos necesarios para el desahogo de la sesión.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2362.
+
+El cargo de integrante del Consejo de Premiación, será honorífico, por lo que no recibirán emolumento alguno como contraprestación por el desempeño de sus funciones, quedando obligados a guardar reserva sobre los asuntos de que conozcan con motivo de su empleo, cargo o comisión.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2363.
+
+El Consejo de Premiación, determinará la forma y término de las convocatorias que deban expedirse para el otorgamiento del Reconocimiento al "Mérito Empresarial", las cuales deberán ser debidamente publicadas en dos de los diarios de mayor circulación en el Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2364.
+
+Las propuestas de las empresas a recibir el Reconocimiento al "Mérito Empresarial", se efectuará bajo los siguientes términos:
+
+l. Solo se podrán registrar las empresas que cumplan con los requisitos establecidos en el artículo 2353 del presente Capítulo;
+
+II. La inscripción será dentro de la fecha y bajo los términos que señale la convocatoria correspondiente;
+
+IlI. Toda propuesta debe expresar las actividades, trayectoria y logros de las empresas, además de acompañarse con los documentos probatorios que se estimen pertinentes; en su caso, se indicará la naturaleza de otras pruebas y los lugares donde pueden recabarse; y
+
+IV. Los demás requisitos que ajuicio del Consejo de Premiación, estime convenientes.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2365.
+
+El Consejo de Premiación, determinará conforme a lo establecido en el presente Capítulo y demás características específicas que deban a su juicio reunirse, la forma y términos de las convocatorias que deban publicarse para el otorgamiento del Reconocimiento al "Mérito Empresarial".
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2366.
+
+El Secretario del Consejo de Premiación, se encargará de formar los expedientes de los candidatos, así como llevar el registro de los mismos, además de llevar un registro de las actas, en las que constarán los lugares, fechas, horas de apertura y clausura de las sesiones; nombre de los asistentes, así como la narración ordenada y sucinta del desarrollo de la reunión, de las resoluciones y acuerdos tomados, y el resultado de las votaciones, además de registrar el nombre de la empresa a quien deba otorgarse el Reconocimiento, y la hora y fecha de entrega.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2367.
+
+La decisión del Consejo de Premiación, respecto de la empresa que resulte merecedora a recibir el Reconocimiento, deberá ser notificada por escrito, con un mínimo de cinco días antes de la fecha en que se realice la entrega de la misma, además de que dicha resolución, deberá ser publicada en dos de los diarios de mayor circulación en el Estado de Puebla y en la Pagina Web del Gobierno Municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+
+###### Artículo 2368.
+
+El otorgamiento de alguno de los Reconocimientos establecidos en artículo 2334, con excepción del enumerado en la fracción VII del mismo precepto, no inhabilita para ser susceptible de obtener, copia de la Cédula Real o alguno de los Premios o Presea "Puebla de Zaragoza" a que hace referencia el presente Capítulo.
+
 T R A N S I T O R I O S
 
 PRIMERO.- El presente Código Reglamentario para el Municipio de Puebla, entrará en vigor a partir del día primero de enero de dos mil cinco, a efecto de que se tomen las providencias jurídicas, operativas y administrativas, para que a partir de la fecha de entrada en vigor del Código Reglamentario para el Municipio de Puebla, los actos de autoridad se encuentren debidamente ajustados a los términos de este Código.
@@ -26826,3 +27650,9 @@ P.O. 11 DE DICIEMBRE DE 2006.
 PRIMERO.- El presente Dictamen entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se contrapongan al presente Dictamen.
+
+P.O. 29 DE ENERO DE 2007.
+
+PRIMERO.- La presente adición al Código Reglamentario para el Municipio de Puebla, del Libro Noveno, Capítulo 36 denominado "DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA" entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones en contrario al presente Dictamen.
