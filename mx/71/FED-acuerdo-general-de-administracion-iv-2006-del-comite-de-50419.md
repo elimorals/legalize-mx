@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-iv-2006-del-comite-de-50419"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-05-17"
-last_updated: "2006-05-17"
+last_updated: "2007-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50419&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-05-08"
 
 ACUERDO GENERAL DE ADMINISTRACION IV/2006, DEL OCHO DE MAYO DE DOS MIL SEIS, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ESTABLECEN LOS REQUISITOS Y LOS PROCEDIMIENTOS PARA LA CREACION DE PLAZAS, EL OTORGAMIENTO DE NOMBRAMIENTOS Y DE LICENCIAS, ASI COMO PARA LA COMISION, LA READSCRIPCION, LA SUSPENSION Y LA REMOCION DE LOS SERVIDORES PUBLICOS DE ESTE ALTO TRIBUNAL, SALVO LOS DE SUS SALAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION I/2007, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XXV, FEBRERO DE 2007, PAGINA 2081, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de mayo de 2006.
 
@@ -580,3 +582,15 @@ TERCERO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y s
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón y José de Jesús Gudiño Pelayo, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.- El Ministro, Mariano Azuela Güitrón.- Rúbrica.- El Ministro, José de Jesús Gudiño Pelayo.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO EJECUTIVO DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del Acuerdo General de Administración IV/2006 del ocho de mayo de dos mil seis, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se establecen los requisitos de los procedimientos para la creación de plazas, el otorgamiento de nombramientos y de licencias, así como para la comisión, la readscripción, la suspensión y la remoción de los servidores públicos de este Alto Tribunal, salvo los de sus Salas, constante de treinta fojas útiles, concuerda fiel y exactamente con su original que obra en esta Secretaría Ejecutiva y se certifica para la difusión correspondiente.- México, Distrito Federal, a nueve de mayo de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XXV, FEBRERO DE 2007, PAGINA 2081.
+
+PRIMERO. Este Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración IV/2006, del veintisiete de febrero de dos mil seis, del Comité de Gobierno y Administración, por el que se establecen los requisitos y los procedimientos para la creación de plazas, el otorgamiento de nombramientos y de licencias, así como para la comisión, la readscripción, la suspensión y la remoción de los servidores públicos de este Alto Tribunal, salvo los de sus Salas.
+
+TERCERO. El plazo referido en el párrafo quinto del artículo 18 de este Acuerdo General se computará a partir de la entrada en vigor del Reglamento de Escalafón de la Suprema Corte de Justicia de la Nación, tomando en cuenta lo previsto en el diverso quinto transitorio de dicho Reglamento.
+
+CUARTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7°, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
