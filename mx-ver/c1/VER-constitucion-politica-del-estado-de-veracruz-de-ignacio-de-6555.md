@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2006-12-22"
+last_updated: "2007-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2007.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -71,15 +71,17 @@ El Estado tiene como base de su división territorial y de su organización pol�
 
 ### CAPÍTULO II. DE LOS DERECHOS HUMANOS
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2007)</small>
 
 ###### Artículo 4.
 
-La libertad del hombre no tiene más límite que la prohibición de la ley; por tanto, toda persona tiene el deber de acatar los ordenamientos expedidos por autoridad competente. Las autoridades sólo tienen las atribuciones concedidas expresamente por la ley.
+El hombre y la mujer son sujetos de iguales derechos y obligaciones ante la ley.
 
-Toda persona gozará de los derechos que establecen la Constitución y las leyes federales, los tratados internacionales, esta Constitución y las leyes que de ella emanen; así como aquellos que reconozca el Poder Judicial del Estado.
+La libertad del hombre y de la mujer no tiene más límite que la prohibición de la ley; por tanto, toda persona tiene el deber de acatar los ordenamientos expedidos por autoridad competente. Las autoridades sólo tienen las atribuciones concedidas expresamente por la ley.
 
-Las autoridades del Estado, en su correspondiente esfera de atribuciones, tienen el deber de generar las condiciones necesarias para que las personas gocen de los derechos que establece esta Constitución; así como proteger los que se reserve el pueblo de Veracruz mediante el juicio de protección de derechos humanos; la violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley.
+Los habitantes del Estado gozarán de todas las garantías y libertades consagradas en la Constitución y las leyes federales, los tratados internacionales, esta Constitución y las leyes que de ella emanen, así como aquellos que reconozca el Poder Judicial del Estado, sin distinción alguna de su origen, raza, color, sexo, idioma, religión, opinión política, condición o actividad social.
+
+Las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de generar las condiciones necesarias para que las personas gocen de los derechos que establece esta Constitución, así como proteger los que se reserve el pueblo de Veracruz mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley.
 
 Está prohibida la pena de muerte.
 
@@ -101,7 +103,7 @@ Las comunidades indígenas podrán elegir, de acuerdo con sus normas, procedimie
 
 El uso y disfrute colectivo de los recursos naturales por las comunidades indígenas se realizará de acuerdo con las formas y modalidades de propiedad previstas por la Constitución Federal.
 
-(R(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
 
 El estado y los municipios en el ámbito de sus respectivas competencias reconocerán el derecho de las comunidades indígenas a promover su desarrollo equitativo y sustentable, y a una educación laica, obligatoria, bilingüe y pluricultural. Asimismo, en los términos previstos por la ley, impulsarán el respeto y conocimiento de las diversas culturas existentes en la entidad, y combatirán toda forma de discriminación.
 
@@ -110,6 +112,14 @@ El estado y los municipios en el ámbito de sus respectivas competencias reconoc
 ###### Artículo 6.
 
 Las autoridades del Estado promoverán las condiciones necesarias para el pleno goce de la libertad, igualdad, seguridad y la no discriminación de las personas; asimismo, garantizarán el derecho al honor, a la intimidad personal y familiar y al libre desarrollo de la personalidad.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2007)</small>
+
+La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el varón en la vida política, social, económica y cultural del Estado. Asimismo, promoverá que la igualdad entre hombres y mujeres se regule también en las denominaciones correspondientes a los cargos públicos.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2007)</small>
+
+Los habitantes del Estado gozarán del derecho a la información. La ley establecerá los requisitos que determinarán la publicidad de la información en posesión de los sujetos obligados y el procedimiento para obtenerla, así como la acción para corregir o proteger la información confidencial.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -137,13 +147,17 @@ La propiedad y la posesión tendrán las modalidades y limitaciones señaladas p
 
 #### SECCIÓN PRIMERA. DE LA EDUCACIÓN
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2007)</small>
 
 ###### Artículo 10.
 
-Todas las personas tienen derecho a recibir educación. El Estado y los municipios la impartirán en forma gratuita. La educación primaria y secundaria son obligatorias.
+Todas las personas tienen derecho a recibir educación. El Estado y los municipios la impartirán en forma gratuita. La educación preescolar, primaria y secundaria son obligatorias.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 El sistema educativo de Veracruz se integra por las instituciones del Estado, de los municipios o sus entidades descentralizadas, la Universidad Veracruzana y los particulares que impartan educación, en los términos que fije la ley.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 La educación será organizada y garantizada por el Estado como un proceso integral y permanente, articulado en sus diversos ciclos, de acuerdo a las siguientes bases:
 
@@ -164,6 +178,8 @@ g) Promoverá los valores familiares y sociales que tiendan a la solidaridad hum
 h) Llevará a cabo el establecimiento y desarrollo de programas especiales para una mejor integración a la sociedad de los miembros de la tercera edad y de los discapacitados; e
 
 i) Propiciará la participación social en materia educativa, para el fortalecimiento y desarrollo del sistema de educación público en todos sus niveles.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 La Universidad Veracruzana es una institución autónoma de educación superior. Conforme a la ley: tendrá la facultad de autogobernarse, expedir su reglamentación, y nombrar a sus autoridades; realizará sus fines de conservar, crear y transmitir la cultura y la ciencia, a través de las funciones de docencia, investigación, difusión y extensión, respetando las libertades de cátedra, de investigación, de libre examen y discusión de las ideas; determinará sus planes y programas; fijará los términos de ingreso, promoción y permanencia de su personal académico; y administrará libremente su patrimonio, que se integrará con las aportaciones federales y estatales, la transmisión de bienes y derechos de personas físicas o morales, nacionales o extranjeras los recursos generados por los servicios que preste, así como por los demás que señale su ley.
 
@@ -573,7 +589,9 @@ XVII. Llevar el registro de la situación patrimonial de los servidores público
 
 XVIII. Designar, a propuesta de los partidos políticos y con la aprobación de las dos terceras partes de sus integrantes, a los Consejeros Electorales del Consejo General del Instituto Electoral Veracruzano, en los términos que fije la ley;
 
-XIX. Nombrar, con la aprobación de las dos terceras partes de sus integrantes, a los magistrados del Poder Judicial y al Presidente de la Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2007)</small>
+
+XIX. Nombrar, con la aprobación de las dos terceras partes de sus integrantes, a los magistrados del Poder Judicial, al Presidente de la Comisión Estatal de Derechos Humanos y a los consejeros del Instituto Veracruzano de Acceso a la Información;
 
 XX. Ratificar, con la aprobación de las dos terceras partes de sus integrantes, el nombramiento de un miembro del Consejo de la Judicatura y del Procurador General de Justicia;
 
@@ -1691,6 +1709,28 @@ Los Poderes del Estado y los sujetos de fiscalización facilitarán los auxilios
 
 El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere el inciso d) de la fracción III del presente artículo.
 
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2007)</small>
+
+IV. El derecho a la información y la protección de datos personales los garantizará el Instituto Veracruzano de Acceso a la Información, conforme a las siguientes bases:
+
+a) El Instituto sesionará en Pleno, el que se integrará por tres consejeros seleccionados por convocatoria pública, quienes durarán en su cargo seis años improrrogables, y sólo serán removidos de conformidad con lo dispuesto por esta Constitución. El Presidente del Instituto será designado para un periodo de dos años, sin posibilidad de reelección;
+
+b) La ley establecerá los requisitos para ser consejero del Instituto. Durante el ejercicio de su cargo no podrá ser dirigente de ningún partido político ni desempeñar otro empleo, cargo o comisión en el servicio público, excepto la docencia o la investigación académica, siempre que no sea remunerada;
+
+c) El Instituto elaborará lineamientos con base en normas internacionales de documentación, bibliotecología y archivística, que los sujetos obligados acatarán para sistematizar la información bajo su resguardo;
+
+d) El Instituto emitirá los criterios generales de clasificación y, en su caso, los plazos para la descalificación de información reservada;
+
+e) La información confidencial estará resguardada y protegida por los sujetos obligados. Sólo el titular del interés legítimo podrá consultarla y corregirla, así como interponer la acción de protección de datos ante el Instituto;
+
+f) La información pública se obtendrá mediante el procedimiento expedito señalado por la ley. Su acceso será gratuito y sólo se cobrarán los gastos de reproducción y envío, en su caso; y
+
+g) El silencio de la autoridad ante las solicitudes de acceso a la información configurará la afirmativa ficta. La omisión de proporcionar la información en los plazos que establezca la ley trae aparejada responsabilidad administrativa.
+
+El Instituto será competente para conocer, instruir y resolver en única instancia, las impugnaciones y acciones que se incoen contra las autoridades.
+
+La ley fijará las responsabilidades y sanciones aplicables por la comisión de infracciones.
+
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 ### CAPÍTULO I. DE LA HACIENDA Y CREDITO DEL ESTADO
@@ -1823,6 +1863,10 @@ Todos los caudales públicos pertenecientes al Estado ingresarán a la Secretar�
 
 Las finanzas públicas del Estado deberán estar apegadas a un criterio de racionalidad y de estricta disciplina fiscal, de manera que para cada año el nivel de gasto que se establezca en el presupuesto de egresos sea igual o inferior a los ingresos previstos para el mismo ejercicio fiscal.
 
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2007)</small>
+
+Los contratos administrativos se adjudicarán a través del procedimiento administrativo que disponga la ley, con base en los principios de legalidad, publicidad, igualdad, concurrencia y transparencia. Cuando las condiciones no sean idóneas, los entes públicos podrán adjudicarlos bajo los supuestos de excepción que les garanticen las mejores condiciones de contratación.
+
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 ###### Artículo 73.
@@ -1875,37 +1919,57 @@ Los servidores públicos serán responsables por las faltas o delitos en que inc
 
 El Gobernador, durante el ejercicio de su cargo, sólo podrá ser acusado ante el Congreso por la comisión de delitos graves del orden común. Por los demás delitos y faltas podrá ser acusado, conforme a las leyes respectivas, al concluir su mandato.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2007)</small>
 
 ###### Artículo 77.
 
-Podrán ser sujetos de juicio político, por los actos u omisiones que conforme a la ley afecten a los intereses públicos fundamentales y a su correcto despacho: los Diputados; el Gobernador, los Secretarios del Despacho, el Procurador General de Justicia, el Contralor General; los Magistrados; los Presidentes Municipales o de Concejos Municipales y los Síndicos; el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral Veracruzano; los titulares o sus equivalentes, de las entidades de la administración pública estatal y municipal.
+Podrán ser sujetos de juicio político, por los actos u omisiones que conforme a la ley afecten a los intereses públicos fundamentales y a su correcto despacho: los Diputados; el Gobernador, los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General; los Magistrados; los Presidentes Municipales o de Concejos Municipales y los Síndicos; el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral Veracruzano; los Consejeros del Instituto Veracruzano de Acceso a la Información; los titulares o sus equivalentes, de las entidades de la administración pública estatal y municipal.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación hasta por diez años para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público del Estado o de los municipios.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+
 Para la aplicación de las sanciones antes mencionadas, el Congreso del Estado procederá a la acusación respectiva ante el pleno del Tribunal Superior de Justicia del Estado, previa declaración de las dos terceras partes del total de los integrantes del Congreso, después de haber substanciado el procedimiento y con audiencia del inculpado.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 El Pleno del Tribunal Superior de Justicia, erigido en Jurado de Sentencia, previo desahogo del proceso respectivo, y con audiencia del inculpado, resolverá lo procedente. En caso de resultar culpable, la sanción correspondiente se impondrá mediante resolución aprobada por las dos terceras partes del número total de sus integrantes.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+
 La responsabilidad política se exigirá durante el período en el cual el servidor público ejerza el empleo, cargo o comisión, o dentro del año siguiente a partir de que concluya su mandato. La sentencia respectiva, deberá pronunciarse dentro del año de iniciado el procedimiento.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 Las declaraciones y resoluciones del Congreso y del Tribunal Superior de Justicia no admitirán recurso alguno.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2007)</small>
 
 ### CAPITULO X. Del divorcio
 
 ###### Artículo 78.
 
-El Congreso del Estado, por las dos terceras partes de los votos de la totalidad de sus integrantes, declarará si ha lugar a proceder por la comisión de delitos durante el tiempo de su cargo, en contra de: los Diputados; el Gobernador, los Secretarios del Despacho, el Procurador General de Justicia, el Contralor General; los Magistrados; los Presidentes Municipales o de Concejos Municipales y los Síndicos; el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral Veracruzano; y el Presidente de la Comisión Estatal de los Derechos Humanos. En el procedimiento que se siga, se respetarán las garantías de audiencia y legalidad.
+El Congreso del Estado, por las dos terceras partes de los votos de sus integrantes, declarará si ha lugar a proceder por la comisión de delitos durante el tiempo de su cargo, en contra de: los Diputados; el Gobernador, los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General; los Magistrados; los Presidentes Municipales o de Concejos Municipales y los Síndicos; el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral Veracruzano; el Presidente de la Comisión Estatal de los Derechos Humanos; y los Consejeros del Instituto Veracruzano de Acceso a la Información. En el procedimiento que se siga, se respetarán las garantías de audiencia y legalidad.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 Si el Congreso declara que ha lugar a proceder, el servidor público quedará suspendido de su cargo y a disposición de las autoridades competentes para que actúen con arreglo a la ley. Cuando el proceso penal culmine en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su cargo, no se concederá al reo la gracia del indulto.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+
 Si se declara que no ha lugar a proceder, se suspenderá todo proceso, pero ello no será obstáculo para que la denuncia se presente ante las autoridades competentes cuando el acusado haya concluido su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los cargos a que hace referencia este artículo.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+
 No se requiere declaración de procedencia por parte del Congreso, cuando alguno de los servidores públicos mencionados, se encuentre separado de su cargo. Tampoco se requiere dicha declaración cuando se trate de servidores públicos que tengan el carácter de suplente, salvo que se encuentre en el ejercicio del cargo.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
 
@@ -11283,6 +11347,16 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
 
+G.O. 12 DE OCTUBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial", Órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las reformas a que se refiere el presente decreto.
+
 G.O. 16 DE DICIEMBRE DE 1993.
 
 ###### ARTICULO PRIMERO.
@@ -11352,14 +11426,6 @@ LA PRESENTE LEY ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACIÓN EN LA 'GACE
 G.O. 20 DE MARZO DE 1997.
 
 DECRETO No. 57.
-
-###### ARTICULO SEGUNDO.
-
-El Presidente del Tribunal Superior, continuará en funciones y ejercerá las atribuciones que esta Constitución le otorga hasta en tanto se elige al Presidente de acuerdo con lo dispuesto en el artículo décimo tercero transitorio.
-
-###### ARTICULO PRIMERO.
-
-La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
@@ -11605,11 +11671,11 @@ Segundo. Las reformas a las Leyes complementarias iniciarán su vigencia en la m
 
 G.O. 22 DE DICIEMBRE DE 2006.
 
-DECRETO No. 603 DE REFORMA CONSTITUCIONAL.
+DECRETO No. 602 DE REFORMA CONSTITUCIONAL.
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 G.O. 22 DE DICIEMBRE DE 2006.
 
@@ -11628,6 +11694,30 @@ DECRETO No. 604 DE REFORMA CONSTITUCIONAL.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 29 DE ENERO DE 2007.
+
+DECRETO No. 838 DE REFORMA CONSTITUCIONAL.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 29 DE ENERO DE 2007.
+
+DECRETO No. 839 DE REFORMA CONSTITUCIONAL.
+
+Primero. Este decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial.
+
+Segundo. Por única vez, para el primer período de ejercicio, un consejero será nombrado por dos años, otro por cuatro años y el tercero por seis años, todos improrrogables. El consejero que sea nombrado para el período de dos años, presidirá inicialmente el Organismo, posteriormente el de cuatro años, y enseguida el de seis años.
+
+G.O. 29 DE ENERO DE 2007.
+
+DECRETO No. 840 DE REFORMA CONSTITUCIONAL.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
