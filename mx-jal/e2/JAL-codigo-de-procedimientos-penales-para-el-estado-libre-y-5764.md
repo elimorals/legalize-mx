@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2007-01-11"
+last_updated: "2007-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -901,9 +901,21 @@ El Ministerio Público no ejercitará la acción penal:
 
 I. Cuando de los hechos que logre averiguar se advierta plenamente que no existe delito;
 
-II. Cuando, aún pudiendo serlo, resulte imposible la prueba de la existencia de los hechos; y
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
 
-III. Cuando se encuentre extinguida.
+II. Cuando, aún pudiendo serlo, resulte imposible la prueba de la existencia de los hechos;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
+
+III. Cuando se encuentre extinguida; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2007)</small>
+
+IV. Cuando se eleve a la categoría de sentencia ejecutoriada, el acuerdo final del método alternativo de solución de conflictos en los delitos no excluidos por la Ley de Justicia Alternativa del Estado de Jalisco, salvo que se declare la nulidad del convenio final señalado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ENERO DE 2007)</small>
+
+La resolución que se emita en los términos de la fracción IV de este artículo, no requerirá de aprobación del Procurador General de Justicia, para surtir efectos.
 
 ###### Art. 110.
 
@@ -2355,21 +2367,27 @@ V. Cuando el inculpado haya sido puesto en libertad por falta de elementos para 
 
 VI. Cuando el inculpado haya obtenido su libertad por desvanecimiento de datos esté declarada agotada la averiguación y no existan elementos para dictar nueva orden de aprehensión;
 
-VII. Cuando esté plenamente comprobado que, en favor del inculpado, existe alguna causa eximente de responsabilidad; y
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
 
-> <small>(F. DE E., P.O. 10 DE FEBRERO DE 1983)</small>
+VII. Cuando esté plenamente comprobado que, en favor del inculpado, existe alguna causa eximente de responsabilidad;
 
-VIII. Cuando en los casos de querella necesaria, el ofendido otorgue su perdón expresamente ante el Juez o Tribunal que conozca del asunto, con los requisitos que señala el Art. 73 del Código Penal.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
+
+VIII. Cuando en los casos de querella necesaria, el ofendido otorgue su perdón expresamente ante el juez o tribunal que conozca del asunto, con los requisitos que señala el artículo 73 del Código Penal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2007)</small>
+
+IX. Cuando se eleve a la categoría de sentencia ejecutoriada, el acuerdo final del método alternativo de solución de conflictos en los delitos no excluidos por la Ley de Justicia Alternativa del Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 También se sobreseerán los procedimientos concernientes a delitos culposos que solo produzcan daños en las cosas o lesiones, si se cubre la reparación del daño causado a la víctima u ofendido y el inculpado no haya abandonado a aquella, ni actuado en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2007)</small>
 
 ###### Art. 309.
 
-En los casos de las fracciones I, II y III del artículo anterior, el sobreseimiento se decretará de plano en los supuestos previstos en las fracciones III, IV, V, VI y último párrafo del mismo artículo, se tramitará a petición de parte en incidente no especificado, y en la hipótesis de la fracción VII del propio artículo, se decretará de oficio o a petición de parte.
+En los casos de las fracciones I, II, III y IX del artículo anterior, el sobreseimiento se decretará de plano; en los supuestos previstos en las fracciones III, IV, V, VI y último párrafo del mismo artículo, se tramitará a petición de parte en incidente no especificado; y en la hipótesis de la fracción VII del propio artículo, se decretará de oficio o a petición de parte.
 
 ###### Art. 310.
 
@@ -2387,9 +2405,17 @@ No podrá dictarse auto de sobreseimiento después de formuladas las conclusione
 
 El sobreseimiento impide definitivamente la apertura de un nuevo proceso contra el mismo reo y sobre los mismos hechos que fueron materia del sobreseído, a no ser que se esté en cualquiera de las siguientes hipótesis:
 
-I. Cuando la muerte del inculpado haya sido declarada erróneamente; y
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
 
-II. Cuando se declare la nulidad del matrimonio que hubiese contraído el acusado con la ofendida de los delitos de rapto y estupro.
+I. Cuando la muerte del inculpado haya sido declarada erróneamente;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
+
+II. Cuando se declare la nulidad del matrimonio que hubiese contraído el acusado con la ofendida de los delitos de rapto; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2007)</small>
+
+III. Cuando se declare la nulidad del convenio final a que se refiere la fracción IX del artículo 308 de este código.
 
 ## TITULO SEPTIMO. RECURSOS
 
@@ -2603,7 +2629,9 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 Se califican como delitos graves y en su caso el inculpado no tendrá derecho al beneficio de la libertad provisional bajo caución, los previstos en los ordenamientos siguientes:
 
-I. En el Código Penal: Homicidio culposo grave, artículo 48 penúltimo párrafo, Evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; corrupción de menores, artículo 136, en sus dos últimos párrafos; pornografía infantil, 136 bis, fracciones I y III; lenocinio, artículo 139; cohecho, artículo 147, cuarto párrafo; peculado, artículo 148, párrafo tercero y artículo 149; enriquecimiento ilícito, artículo 153, fracción II; usurpación artículo 170, último párrafo; falsificación de medios electrónicos o magnéticos 170 bis, en todas sus fracciones; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafos cuarto; tráfico de menores, artículo 179 bis, párrafos primero y quinto; extorsión, artículo 189 párrafos segundo y cuarto; extorsión agravada, artículo 189 bis; asalto, artículo 192; secuestro y delitos relacionados previstos en el artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III, IV, V, VI y VII; robo cometido en los siguientes casos, artículo 235, fracción III; robo agravado, artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartados c) y d), en su totalidad; y abigeato y robo de animales, artículos 240 y 242, cuando el producto del delito exceda del importe de 350 salarios mínimos o se trate de reincidentes de cualquier delito contra el patrimonio y abigeato calificado, artículo 242 B; fraude previsto en el artículo 252 fracción XIX; administración fraudulenta, artículo 254 ter fracción II; despojo de inmuebles, fracción IV del artículo 262; pillaje, artículo 262 ter fracción III, y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en este párrafo, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
+
+I. En el Código Penal: Homicidio culposo grave, artículo 48 penúltimo párrafo, evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; lenocinio, articulo 139; corrupción de menores, artículo 142 A, en sus dos últimos párrafos; pornografía infantil, 142 D, fracciones I y III; prostitución infantil artículos 142 F fracción I y 142 G; promoción de la prostitución infantil artículo 142 H; trata de personas, artículo 142 J; cohecho, artículo 147, cuarto párrafo; peculado, artículo 148, párrafo tercero y artículo 149; enriquecimiento ilícito, artículo 153, fracción II; usurpación artículo 170, último párrafo; falsificación de medios electrónicos o magnéticos 170 bis, en todas sus fracciones; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafos primero y quinto; extorsión, artículo 189 párrafos segundo y cuarto; extorsión agravada, artículo 189 bis; asalto, artículo 192; privación ilegal de la libertad y de otros derechos, artículo 193 último párrafo; secuestro y delitos relacionados previstos en el artículo 194; homicidio; artículos 213, 217 Y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, articulo 224; infanticidio, articulo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo, 234, fracciones III, IV, V, VI Y VII; robo cometido en los siguientes casos, artículo 235, fracción III; robo agravado, artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartados c) y d), en su totalidad; y abigeato y robo de animales, artículos 240 y 242, cuando el producto del delito exceda del importe de 350 salarios mínimos o se trate de reincidentes de cualquier delito contra el patrimonio y abigeato calificado, artículo 242 B; fraude previsto en el artículo 252 fracción XIX; administración fraudulenta, artículo 254 ter fracción II; despojo de inmuebles, fracción IV del artículo 262; pillaje, artículo 262 ter fracción III, y delitos electorales, artículo 270 fracción III, 276 Y 278; los ilícitos penales mencionados en este párrafo, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis.;
 
 II. En la Ley Estatal para Prevenir y Sancionar la Tortura: Tortura, artículo 3º; y
 
@@ -3722,3 +3750,21 @@ OCTAVO. Los asuntos pendientes de trámite de la Procuraduría para Asuntos Ind�
 NOVENO. Si para la fecha de entrada en vigencia de esta Ley, el Estado y los municipios con población indígena hubieren ya concluido su Plan de Desarrollo sin haber incorporado el sentir de los pueblos indígenas, se procederá a escuchar a las comunidades indígenas e incorporar a dichos planes las aportaciones en su caso.
 
 DECIMO. El titular del Poder Ejecutivo Estatal dispondrá que el presente decreto, se traduzca a las lenguas de los pueblos indígenas del Estado y ordenará su difusión en sus comunidades.
+
+P.O. 30 DE ENERO DE 2007.
+
+DECRETO No. 21775/LVII/07, POR EL QUE SE REFORMAN EL ARTICULO 342 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE ENERO DE 2007.
+
+DECRETO No. 21755/LVII/06, POR EL QUE SE REFORMAN LOS ARTICULOS 109, 308, 309 Y 313 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor el día 1° de enero de 2008, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Presupuesto de Egresos del Gobierno del Estado de Jalisco para el año fiscal 2008 contemplará las prevenciones financieras necesarias para la vigencia y aplicación del presente decreto. Se autoriza al Poder Ejecutivo del Estado a realizar todas las modificaciones presupuestarias para el debido cumplimiento del presente decreto.
+
+TERCERO. El nombramiento del Director General deberá realizarlo el Congreso del Estado previo a la entrada en vigor de esta ley, conforme a lo que esta Ley establece.
+
+CUARTO. Los convenios que se celebren en municipios que no tengan instalada una sede regional del Instituto, será competente por acuerdo de las partes ya sea la sede regional más cercana, el Director General del Instituto o el juez de primera instancia del partido judicial que corresponda.
