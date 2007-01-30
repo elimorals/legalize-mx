@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2007-01-20"
+last_updated: "2007-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 21756/LVII/06, PUBLICADO EN EL P.O. DE 20 DE ENERO DE 2007, SE ABROGA EL DECRETO NO. 21455-LVII/06 APROBADO EL 7 DE SEPTIEMBRE DEL 2006, QUE CONTIENE REFORMAS Y ADICIONES A LA PRESENTE LEY, PUBLICADO EN EL P.O. DE 19 DE ENERO DE 2007.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -71,7 +69,13 @@ VI. Los Juzgados de Paz; y
 
 VII. El Jurado Popular.
 
-El Poder Judicial contará además con un órgano denominado Consejo General del Poder Judicial del Estado.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE ENERO DE 2007)</small>
+
+El Poder Judicial cantará además con dos órganos, uno denominado Consejo de la Judicatura del Estado y un Instituto de Justicia Alternativa del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2007)</small>
+
+El Instituto referido en el párrafo anterior se regulará por la Ley de Justicia Alternativa del Estado de Jalisco.
 
 ###### Artículo 4.
 
@@ -973,7 +977,7 @@ En caso de procedencia de recusaciones, excusas o impedimentos el Pleno del Trib
 
 En los casos de licencia de los magistrados, el Pleno designará a un magistrado de entre los suplentes, para que integre la sala que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 67.
 
@@ -1755,9 +1759,15 @@ IX. Cursar la correspondencia del juzgado;
 
 X. Acatar la jurisprudencia de la Suprema Corte de Justicia de la Nación y del Supremo Tribunal de Justicia del Estado;
 
-XI. Proponer al Pleno del Consejo General, el personal del juzgado a su cargo; y
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
 
-XII. Las demás que les impongan las leyes.
+XI. Proponer al Pleno del Consejo General, el personal del juzgado a su cargo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2007)</small>
+
+XII. Promover los medios alternativos de solución de conflictos a las partes, de conformidad con la Ley de Justicia Alternativa del Estado de Jalisco; y
+
+XIII. Las demás que les impongan las leyes.
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
@@ -3304,3 +3314,13 @@ P.O. 20 DE ENERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Se abroga el decreto 21455 aprobado el día 7 de septiembre del año 2006, que contiene reformas y adiciones a la Ley Orgánica del Poder Judicial del Estado de Jalisco.
+
+P.O. 30 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor el día 1° de enero de 2008, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Presupuesto de Egresos del Gobierno del Estado de Jalisco para el año fiscal 2008 contemplará las prevenciones financieras necesarias para la vigencia y aplicación del presente decreto. Se autoriza al Poder Ejecutivo del Estado a realizar todas las modificaciones presupuestarias para el debido cumplimiento del presente decreto.
+
+TERCERO. El nombramiento del Director General deberá realizarlo el Congreso del Estado previo a la entrada en vigor de esta ley, conforme a lo que esta Ley establece.
+
+CUARTO. Los convenios que se celebren en municipios que no tengan instalada una sede regional del Instituto, será competente por acuerdo de las partes ya sea la sede regional más cercana, el Director General del Instituto o el juez de primera instancia del partido judicial que corresponda.
