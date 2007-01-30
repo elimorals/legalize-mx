@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-general-de-justicia-del-12026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-05"
-last_updated: "2007-01-11"
+last_updated: "2007-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -93,7 +93,9 @@ VII. Conceder la libertad provisional a los indiciados, en los términos previst
 
 VIII. Solicitar al órgano jurisdiccional las órdenes de cateo y las medidas precautorias de arraigo y otras que fueren procedentes, en los términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Promover la conciliación en los delitos perseguibles por querella;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
+
+IX. Promover los medios alternativos de solución de conflictos en todos los delitos, salves los excluidos por la Ley de Justicia Alternativa del Estado de Jalisco;
 
 X. Determinar el no ejercicio de la acción penal, cuando:
 
@@ -105,13 +107,25 @@ c) El ejercicio de la acción penal haya prescrito, en los términos de las norm
 
 d) De las diligencias practicadas se desprenda plenamente la existencia de una excluyente de responsabilidad o cualquier otra causa que demuestre la no existencia de delito alguno, en los términos que establecen las normas aplicables;
 
-e) Resulte imposible la prueba de la existencia de los hechos constitutivos de delito, por obstáculo material insuperable, y
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2007)</small>
 
-f) En los demás casos que determinen las normas aplicables.
+e) Resulte imposible la prueba de la existencia de los hechos constitutivos de delito, por obstáculo material insuperable;
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2007)</small>
 
-Para los efectos de esta fracción, el Procurador resolverá en definitiva los casos en que el agente del Ministerio Público proponga el no ejercicio de la acción penal; esta resolución deberá ser notificada al ofendido para los efectos que establece el párrafo cuarto del artículo 21 de la Constitución Política de los estados Unidos Mexicanos;
+f) Cuando se eleve a la categoría de sentencia ejecutoriada, el acuerdo final del método alternativo de solución de conflictos en los delitos no excluidos por la ley de Justicia Alternativa del Estado de Jalisco, salvo que se declare la nulidad del convenio final señalado; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ENERO DE 2007)</small>
+
+g) En los demás casos que determinen las normas aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2007)</small>
+
+Para los efectos de esta fracción, el Procurador resolverá en definitiva los casos en que el agente del Ministerio Público proponga el no ejercicio de la acción penal; esta resolución deberá ser notificada al ofendido para los efectos que establece el párrafo cuarto del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ENERO DE 2007)</small>
+
+La resolución que se emita en los términos del inciso f) de está fracción, no requerirá de aprobación del Procurador General de Justicia, para surtir efectos;
 
 XI. Poner a disposición de las autoridades y órganos encargados de la aplicación de la Ley de Readaptación Juvenil del Estado, a los menores de edad que hubieren cometido infracciones correspondientes a los ilícitos tipificados por las leyes penales;
 
@@ -674,3 +688,13 @@ P.O. 11 DE ENERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. La aplicación del presente decreto esta condicionada a la entrada en vigor de las reformas a las leyes federales que establecen competencia al Estado de Jalisco, para conocer y resolver delitos federales.
+
+P.O. 30 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor el día 1° de enero de 2008, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Presupuesto de Egresos del Gobierno del Estado de Jalisco para el año fiscal 2008 contemplará las prevenciones financieras necesarias para la vigencia y aplicación del presente decreto. Se autoriza al Poder Ejecutivo del Estado a realizar todas las modificaciones presupuestarias para el debido cumplimiento del presente decreto.
+
+TERCERO. El nombramiento del Director General deberá realizarlo el Congreso del Estado previo a la entrada en vigor de esta ley, conforme a lo que esta Ley establece.
+
+CUARTO. Los convenios que se celebren en municipios que no tengan instalada una sede regional del Instituto, será competente por acuerdo de las partes ya sea la sede regional más cercana, el Director General del Instituto o el juez de primera instancia del partido judicial que corresponda.
