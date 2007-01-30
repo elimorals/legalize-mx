@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-a-los-animales-10508"
 country: "mx"
 rank: "ley"
 publication_date: "1983-01-01"
-last_updated: "1983-01-01"
+last_updated: "2007-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE PROTECCION A LOS ANIMALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 30 DE ENERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 1 de enero de 1983.
 
@@ -288,3 +290,11 @@ Lic. Flavio Romero de Velasco
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Alfonso de Alba Martín
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE ENERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Protección a los Animales del Estado de Jalisco publicada mediante decreto 11228 el día primero de enero de 1983.
