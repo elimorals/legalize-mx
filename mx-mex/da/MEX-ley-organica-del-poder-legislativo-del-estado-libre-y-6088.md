@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2006-12-27"
+last_updated: "2007-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 2007.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -277,11 +277,11 @@ Los nombramientos y licencias de los magistrados del Tribunal Superior de Justic
 
 La Legislatura recibirá en sesión solemne el 5 de septiembre de cada año, el informe del Gobernador, sobre el estado que guarde la administración pública de la entidad.
 
-> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2007)</small>
 
 ###### Artículo 35.
 
-La Legislatura recibirá anualmente para su revisión y calificación las cuentas de gastos del Estado, correspondiente al año inmediato anterior, a más tardar el 15 de mayo, y de los municipios dentro de los primeros quince días del mes de marzo.
+La Legislatura recibirá anualmente para su revisión las cuentas de gastos del Estado, correspondiente al año inmediato anterior, a más tardar el 15 de mayo, y de los municipios, dentro de los primeros quince días naturales del mes de marzo.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -765,7 +765,7 @@ La Conferencia para la Dirección y Programación de los Trabajos Legislativos t
 
 ###### Artículo 63.
 
-La Junta de Coordinación Política se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar por lo menos la mitad más uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
+La Junta de Coordinación Política se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar por lo menos la mitad mas uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
 
 > <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1235,11 +1235,11 @@ Asimismo, podrá disponer la creación de otras que sean necesarias.
 
 El Poder Legislativo se auxiliará de un órgano de consulta denominado Consejo Consultivo de Valoración Salarial, cuya integración y funciones estarán señaladas por el Reglamento del Poder Legislativo del Estado Libre y Soberano de México.
 
-> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2007)</small>
 
 ###### Artículo 95.
 
-Para el control, fiscalización, revisión y calificación del ingreso y del gasto público de los Poderes del Estado, Organismos Autónomos, Organismos Auxiliares y demás entes públicos que manejen recursos del Estado y Municipios, la Legislatura dispondrá del Organo Superior de Fiscalización, cuya organización y funcionamiento se regirá por lo dispuesto en la Ley de Fiscalización Superior del Estado de México y el reglamento interior.
+Para el control, fiscalización y revisión del ingreso y del gasto público de los Poderes del Estado, Organismos Autónomos, Organismos Auxiliares y demás entes públicos que manejen recursos del Estado y Municipios, la Legislatura dispondrá del Órgano Superior de Fiscalización, cuya organización y funcionamiento se regirá por lo dispuesto en la Ley de Fiscalización Superior del Estado de México y su Reglamento Interior.
 
 > <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -1574,3 +1574,11 @@ G.G. 27 DE DICIEMBRE DE 2006.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE ENERO DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Las reformas a la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, contenidas en el presente Decreto, entrarán en vigor al día siguiente del inicio de la vigencia de la reforma al primer párrafo de la fracción XXXII del artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y los municipios correspondientes al ejercicio fiscal 2006.
