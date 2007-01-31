@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2007-01-16"
+last_updated: "2007-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 2007.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -79,9 +79,11 @@ XIV. Reglamento: Al Reglamento Interior del Organo Superior de Fiscalización;
 
 XV. Revisiones contemporáneas: Aquellas que realice el Órgano Superior de Fiscalización del Estado de México de manera contemporánea a la ejecución de los actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales, sin perjuicio de aquellas que realice de manera posterior a la presentación de cuentas públicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE ENERO DE 2007)</small>
+
 ###### Artículo 3.
 
-La revisión, fiscalización y calificación de las cuentas públicas, es facultad de la Legislatura.
+La revisión y fiscalización de las cuentas públicas, es facultad de la Legislatura.
 
 Para efectos de la fiscalización, se auxiliará del Organo Superior, dotado de autonomía técnica y de gestión.
 
@@ -531,7 +533,9 @@ La Comisión será el enlace entre la Legislatura y el Organo Superior, para coo
 
 Son facultades de la Comisión, las siguientes:
 
-I. Evaluar los informes de resultados elaborados por el Organo Superior y participar en la formulación de los dictámenes para la calificación de las cuentas públicas del Estado y de los municipios, y turnarlos a la Legislatura para el trámite correspondiente;
+> <small>(REFORMADA, G.G. 31 DE ENERO DE 2007)</small>
+
+I. Revisar los informes de resultados de las cuentas públicas del Estado, municipios y demás entidades fiscalizables elaborados por el Órgano Superior y turnarlos a la Legislatura para el trámite correspondiente;
 
 II. Conocer y evaluar el cumplimiento del plan anual de actividades del Organo Superior;
 
@@ -623,9 +627,11 @@ Las observaciones a que se refiere el artículo anterior, deberán notificarse a
 
 El Organo Superior, en ejercicio de sus atribuciones de fiscalización, podrá realizar visitas y auditorías en relación con el ejercicio fiscal sujeto a revisión, respecto de los procesos concluidos.
 
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2007)</small>
+
 ###### Artículo 40.
 
-Calificada por la Legislatura la cuenta pública del Estado, cesa toda responsabilidad por parte del Gobernador respecto del contenido de la misma, subsistiendo en la que hayan incurrido los responsables directos del manejo de fondos y recursos que les resulte de la revisión de las cuentas parciales que cada uno haya rendido.
+Revisado por la Legislatura el Informe de Resultados a que se refiere el artículo 50 del presente ordenamiento y previa etapa de aclaración se deberán fincar por conducto del Órgano Superior de Fiscalización, las responsabilidades resarcitorias en que hubieren incurrido los servidores públicos de las entidades fiscalizables. Asimismo, a través del propio Órgano Superior, se promoverá, en términos de la legislación aplicable, la imposición de otras responsabilidades y sanciones que resulten procedentes, ante las autoridades competentes.
 
 ###### Artículo 41.
 
@@ -648,6 +654,8 @@ Las personas a que se refiere el artículo anterior, tendrán el carácter de re
 Durante sus actuaciones, los comisionados que hubieren intervenido en las revisiones, deberán levantar acta circunstanciada, en presencia de dos testigos, en la que harán constar los hechos u omisiones que hubieren encontrado. Las actas, declaraciones, manifestaciones o hechos en ellas contenidos, harán prueba en los términos de Ley.
 
 ### CAPITULO CUARTO. DEL INFORME DE RESULTADOS
+
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2007)</small>
 
 ###### Artículo 46.
 
@@ -675,7 +683,7 @@ Dichos documentos estarán disponibles en las oficinas de la Tesorería Municipa
 
 ###### Artículo 50.
 
-El Organo Superior tendrá un plazo improrrogable que vence el 30 de junio del año en que se entreguen las cuentas públicas, para realizar su examen y rendir a la Legislatura, por conducto de la Comisión, el correspondiente informe de resultados, mismo que tendrá carácter público; mientras ello no suceda, el Organo Superior deberá guardar reserva de sus actuaciones e informaciones.
+El Órgano Superior tendrá un plazo improrrogable que vence el 30 de septiembre del año en que se entreguen las cuentas públicas, para realizar su examen y rendir a la Legislatura, por conducto de la Comisión, el correspondiente Informe de Resultados, mismo que tendrá carácter público; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e informaciones.
 
 ###### Artículo 51.
 
@@ -1012,3 +1020,11 @@ G.G. 16 DE ENERO DE 2007.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE ENERO DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Las reformas a la Ley de Fiscalización Superior del Estado de México, contenidas en el presente Decreto, entrarán en vigor al día siguiente del inicio de la vigencia de la reforma al primer párrafo de la fracción XXXII del artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y los municipios correspondientes al ejercicio fiscal 2006.
