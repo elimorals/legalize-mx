@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2006-12-30"
+last_updated: "2007-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUMERO 21, PUBLICADO EN LA G.G. DE 29 DE DICIEMBRE DE 2006, SE APRUEBA EL ESTABLECIMIENTO DE LAS TARIFAS PARA EL PAGO DE DERECHOS DE LOS SERVICIOS DE AGUA POTABLE, DRENAJE, SANEAMIENTO, ALCANTARILLADO TRATAMIENTO Y DISPOSICION DE AGUAS RESIDUALES, QUE PRESTA EL ORGANISMO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE DIVERSOS AYUNTAMIENTOS DEL ESTADO DE MEXICO PARA EL EJERCICIO FISCAL DE 2007.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE FEBRERO DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -2339,13 +2337,13 @@ Cuando en un solo documento se contengan dos o más contratos a inscribir, el mo
 
 > <small>(DEROGADOS PENULTIMO Y ULTIMO PARRAFOS, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-(ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
+(ACTUALIZADA EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
 III. Por la inscripción de actos o documentos cuyo registro sea necesario como acto previo, para la inscripción de títulos traslativos de dominio, se pagarán por cada uno de ellos $400.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-Para la aplicación de los derechos previstos en este artículo referidos a viviendas de interés social, social progresiva o popular, nueva o usada, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o municipio, a través de los organismos públicos correspondientes, o bien con recursos proporcionados por éstos, por instituciones de banca múltiple o sociedades financieras de objeto limitado cuando la transmisión se haga entre particulares, debiendo acreditarse fehacientemente la naturaleza de las viviendas y el origen de sus recursos y además que su valor al término de la construcción o adquisición no exceda los valores que establece la fracción XL del artículo 3 de este Código para cada tipo de vivienda.
+Para la aplicación de los derechos previstos en este artículo referidos a viviendas de interés social, social progresiva o popular, nueva o usada, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o municipio, a través de los organismos públicos correspondientes, o bien con recursos proporcionados por éstos, por instituciones de banca múltiple o sociedades financieras de objeto limitado cuando la transmisión se haga entre particulares, debiendo acreditarse fehacientemente la naturaleza de las viviendas y el origen de sus recursos y además que su valor al término de la construcción o adquisición no exceda los valores que establece la fracción XL del articulo 3 de este Código para cada tipo de vivienda.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -2503,7 +2501,9 @@ CONCEPTO TARIFA
 
 1. Cuando los actos a inscribir no tengan
 
-valor determinado o éste sea hasta de $161,052. $1,082.
+valor determinado o éste sea hasta de
+
+$161,052. $1,082.
 
 (ACTUALIZADO EN SUS TARIFAS, G.G. 30 DE DICIEMBRE DE 2006)
 
@@ -2673,7 +2673,9 @@ B). De no propiedad. $43.
 
 (ACTUALIZADA EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
-II. Expedición de certificados de inscripción. $510.
+II. Expedición de certificados de
+
+inscripción. $510.
 
 (ACTUALIZADA EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
@@ -2727,7 +2729,9 @@ VIII. Por la expedición del certificado de una
 
 secuencia registral de un inmueble o asiento
 
-registral, por cada asiento que se certifique. $431.
+registral, por cada asiento que se
+
+certifique. $431.
 
 (ACTUALIZADA EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
@@ -2787,7 +2791,7 @@ Cuando un mismo título o documento origine dos o más inscripciones, los derech
 
 (ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
-Por la inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales referentes a plazos, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación de contrato, se pagará un derecho de $283., por cada una de ellas.
+Por la inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales referentes a plazos, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación de contrato, se pagará un derecho de $283. por cada una de ellas.
 
 Tratándose de instituciones y organizaciones de crédito y seguros, las inscripciones que deban hacerse pagarán los mismos derechos.
 
@@ -2849,7 +2853,7 @@ valor indeterminado, los derechos por
 
 autorización definitiva serán por una
 
-cantidad equivalente a: $849.
+cantidad equivalente a. $849.
 
 (ACTUALIZADA EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
@@ -3411,15 +3415,11 @@ B). Por duplicado de certificado:
 
 (ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
-1. Educación Básica $68.
+1. Educación Media Superior $118.
 
 (ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
-2. Educación Media Superior $118.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
-
-3. Educación Superior $168.
+2. Educación Superior $168.
 
 XII. Por resolución de revalidación de estudios o expedición de duplicados:
 
@@ -3665,7 +3665,7 @@ II. Por la expedición de duplicados existentes en archivo, se pagarán los dere
 
 CONCEPTO TARIFA
 
-ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
+(ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
 A). Por el duplicado de la primera hoja simple. $43.
 
@@ -4299,7 +4299,7 @@ C). Proyecto a realizar en terreno montañoso con:
 
 1. Geometría en corte $19,119.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
 2. Geometría en terraplén $19,862.
 
@@ -4929,7 +4929,7 @@ b). Minibús $735.
 
 (ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
-c). Vagonetas $735.
+c). Vagonetas $735
 
 2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica:
 
@@ -5447,7 +5447,7 @@ CONCEPTO TARIFA
 
 INDUSTRIAL OTROS
 
-ACTUALIZADA EN SUS TARIFAS, G.G. 30 DE DICIEMBRE DE 2006)
+(ACTUALIZADA EN SUS TARIFAS, G.G. 30 DE DICIEMBRE DE 2006)
 
 I. Por la evaluación de la
 
@@ -5455,7 +5455,7 @@ manifestación de impacto
 
 ambiental $6,769. $6,966.
 
-ACTUALIZADA EN SUS TARIFAS, G.G. 30 DE DICIEMBRE DE 2006)
+(ACTUALIZADA EN SUS TARIFAS, G.G. 30 DE DICIEMBRE DE 2006)
 
 II. Evaluación del estudio de
 
@@ -11255,6 +11255,10 @@ La cuenta pública se constituye por la información económica, contable, presu
 
 La Secretaría y la Tesorería, proporcionarán la información complementaria requerida por el Organo Superior de Fiscalización del Estado de México para el análisis y evaluación de la cuenta pública.
 
+> <small>(ADICIONADO, G.G. 1 DE FEBRERO DE 2007)</small>
+
+El formato de entrega de las Cuentas Públicas del Estado y de los Municipios, deberá ser congruente y mantener la debida correlación con respecto a los formatos del Presupuesto de Egresos del Estado y de los Presupuestos de los Municipios respectivamente, para lograr una mejor claridad, comprensión y transparencia en la revisión y fiscalización por parte del Órgano Superior de Fiscalización del Estado de México.
+
 > <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 352 Bis.
@@ -12622,3 +12626,11 @@ G.G. 30 DE DICIEMBRE DE 2006.
 Primero.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 Segundo.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
+
+G.G. 1 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La adición al Código Financiero del Estado de México y Municipios, contenida en el presente Decreto, entrará en vigor al día siguiente del inicio de la vigencia de la reforma al primer párrafo de la fracción XXXII del artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y los municipios correspondientes al ejercicio fiscal 2006.
