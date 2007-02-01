@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3930
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-30"
-last_updated: "2006-12-29"
+last_updated: "2007-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 1 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 30 de abril de 2004.
 
@@ -233,7 +233,9 @@ III. Los proyectos de disposiciones reglamentarias, directamente, a través de l
 
 Los Sujetos Obligados a los que se refiere el artículo 7 fracción II de esta Ley, adicionalmente a la información señalada en el artículo 12 deberán contar, de manera permanente y actualizada, con la siguiente:
 
-I. Informes y cuentas públicas que por disposición legal deben entregar las entidades públicas estatales y municipales al Poder Legislativo y que hayan sido calificados por el Pleno de la Legislatura;
+> <small>(REFORMADA, G.G. 1 DE FEBRERO DE 2007)</small>
+
+I. Informes y cuentas públicas que por disposición legal deben entregar las entidades públicas estatales y municipales al Poder Legislativo y que hayan sido revisados por la Legislatura;
 
 II. Iniciativas, dictámenes, informes, diario de debates, decretos, acuerdos y las resoluciones aprobadas;
 
@@ -980,3 +982,11 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los Sujetos Obligados cumplirán de manera obligatoria con lo previsto en las fracciones XIX, XX, XXI y XXII del artículo 12 a más tardar a los 90 días posteriores al de la entrada en vigor del presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.G. 1 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de México, contenida en el presente Decreto, entrará en vigor al día siguiente del inicio de la vigencia de la reforma al primer párrafo de la fracción XXXII del artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y de los municipios, correspondientes al ejercicio fiscal 2006.
