@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2006-06-26"
+last_updated: "2007-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE FEBRERO DE 2007.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -720,6 +720,14 @@ Ningún ejemplar de primate, cualquiera que sea la especie, podrá ser sujeto de
 
 Ningún ejemplar de tortuga marina, cualquiera que sea la especie, podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial, incluyendo sus partes y derivados.
 
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2007)</small>
+
+###### Artículo 60 Ter.
+
+Queda prohibida la remoción, relleno, transplante, poda, o cualquier obra o actividad que afecte la integralidad del flujo hidrológico del manglar; del ecosistema y su zona de influencia; de su productividad natural; de la capacidad de carga natural del ecosistema para los proyectos turísticos; de las zonas de anidación, reproducción, refugio, alimentación y alevinaje; o bien de las interacciones entre el manglar, los ríos, la duna, la zona marítima adyacente y los corales, o que provoque cambios en las características y servicios ecológicos.
+
+Se exceptuarán de la prohibición a que se refiere el párrafo anterior las obras o actividades que tengan por objeto proteger, restaurar, investigar o conservar las áreas de manglar.
+
 ###### Artículo 61.
 
 La Secretaría, previa opinión del Consejo, elaborará las listas de especies y poblaciones prioritarias para la conservación y las publicará en el Diario Oficial de la Federación.
@@ -1033,6 +1041,10 @@ Las personas autorizadas para realizar una colecta científica deberán, en los 
 ###### Artículo 99.
 
 El aprovechamiento no extractivo de vida silvestre requiere una autorización previa de la Secretaría, que se otorgará de conformidad con las disposiciones establecidas en el presente capítulo, para garantizar el bienestar de los ejemplares de especies silvestres, la continuidad de sus poblaciones y la conservación de sus hábitats.
+
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2007)</small>
+
+Las obras y actividades de aprovechamiento no extractivo que se lleven a cabo en manglares, deberán sujetarse a las disposiciones previstas por el artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 ###### Artículo 100.
 
@@ -1381,3 +1393,9 @@ D.O.F. 26 DE JUNIO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que contravengan al mismo.
+
+D.O.F. 1 DE FEBRERO DE 2007.
+
+Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Con la entrada en vigor del presente Decreto se derogan todas las disposiciones legales que contravengan al mismo.
