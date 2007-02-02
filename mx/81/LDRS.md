@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2001-12-07"
+last_updated: "2007-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE FEBRERO DE 2007.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -292,9 +292,11 @@ El Ejecutivo Federal, mediante los convenios que al respecto celebre con los gob
 
 La Comisión Intersecretarial será responsable de atender, coordinar y dar el seguimiento correspondiente a los programas sectoriales y especiales que tengan como propósito impulsar el desarrollo rural sustentable. Asimismo, será la responsable de promover y coordinar las acciones y la concertación de la asignación de responsabilidades a las dependencias y entidades federales competentes en las materias de la presente Ley.
 
-###### Artículo 21.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 2 DE FEBRERO DE 2007)</small>
 
-La Comisión Intersecretarial estará integrada por los titulares de las siguientes dependencias del Ejecutivo Federal: a) Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, cuyo titular la presidirá; b) Secretaría de Economía; c) Secretaría de Medio Ambiente y Recursos Naturales; d) Secretaría de Hacienda y Crédito Público; e) Secretaría de Comunicaciones y Transportes; f) Secretaría de Salud; g) Secretaría de Desarrollo Social; h) Secretaría de la Reforma Agraria; i) Secretaría de Educación Pública; y las dependencias y entidades del Poder Ejecutivo que se consideren necesarias, de acuerdo con los temas de que se trate.
+###### ARTÍCULO 21.
+
+La Comisión Intersecretarial estará integrada por los titulares de la (sic) siguientes dependencias del Ejecutivo Federal: a) Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación cuyo titular la presidirá; b) Secretaría de Economía; c) Secretaría de Medio Ambiente y Recursos Naturales; d) Secretaría de Hacienda y Crédito Público; e) Secretaría de Comunicaciones y Transportes; f) Secretaría de Salud; g) Secretaría de Desarrollo Social; h) Secretaría de la Reforma Agraria; i) Secretaría de Educación Pública; j) Secretaría de Energía; y las dependencias y entidades del Poder Ejecutivo que se consideren necesarias, de acuerdo con los temas de que se trate.
 
 Cada uno de los integrantes de la Comisión tendrá un suplente que, en el caso de las dependencias, será el subsecretario que tenga mayor relación con los asuntos del desarrollo rural.
 
@@ -1885,3 +1887,11 @@ DÉCIMO. El Presidente de la República dispone de seis meses a partir de la ent
 México, D.F., a 13 de noviembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Martha Silvia Sánchez González, Secretario.- Sen. María Lucero Saldaña Pérez, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 2 DE FEBRERO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
