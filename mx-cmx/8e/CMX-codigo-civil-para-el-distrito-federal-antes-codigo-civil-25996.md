@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2007-01-17"
+last_updated: "2007-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE FEBRERO DE 2007.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2187,11 +2187,11 @@ III.- Las que se estimen convenientes para que los cónyuges no se puedan causar
 
 IV.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede embarazada;
 
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
 
-V. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia. En defecto de ese acuerdo; el juez de lo familiar resolverá lo conducente, previo el procedimiento que fije el código respectivo y, tomando en cuenta la opinión del menor.
+V.- Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, pudiendo éstos compartir la guarda y custodia mediante convenio.
 
-Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
+En defecto de ese acuerdo; el Juez de lo Familiar resolverá conforme al Título Décimo Sexto del Código de Procedimientos Civiles, tomando en cuenta la opinión del menor de edad;
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2219,17 +2219,35 @@ IX.- Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir ve
 
 X.- Las demás que considere necesarias.
 
-> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE FEBRERO DE 2007)</small>
+
+En caso de que los menores de doce años sean sujetos de violencia familiar, éstos deberán quedar al cuidado de la madre, excepto cuando sea ésta quien la origine. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 283.
 
-La sentencia que se pronuncie en definitiva, fijará la situación de los hijos, para lo cual el juez de lo familiar deberá resolver todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, limitación o recuperación, según el caso.
+La sentencia de divorcio fijará la situación de los hijos menores de edad para lo cual deberá contener las siguientes disposiciones:
 
-Deberá procurarse en lo posible el régimen de custodia compartida del padre y la madre, pudiendo los niños y niñas permanecer de manera plena e ilimitada con ambos padres, en caso de que algún ascendente tuviese la custodia, el otro que no la posee, después de los siete años podrá demandar en lo posible custodia para ambos padres, lo anterior en función de las posibilidades de éstos y aquellos, así como que no exista con alguno de los progenitores peligro alguno para su normal desarrollo.
+I.- Todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión o limitación; a la guarda y custodia, así como a las obligaciones de crianza y el derecho de los hijos a convivir con ambos progenitores.
 
-La recuperación de la patria potestad procederá únicamente en aquellos casos que por cuestiones alimentarias se haya perdido, siempre y cuando se acredite que se ha cumplido con dicha obligación.
+II.- Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno.
 
-Lo mismo se observará respecto de la recuperación de la custodia.
+III.- Las medidas necesarias para garantizar la convivencia de los hijos con sus padres, misma que sólo deberá ser limitada o suspendida cuando exista riesgo para los menores.
+
+IV.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar en términos de la Ley de Asistencia y Prevención a la Violencia Familiar. Medidas que podrán ser suspendidas o modificadas en los términos previstos por el artículo 94 del Código de Procedimientos Civiles para el Distrito Federal.
+
+V.- Para el caso de los mayores incapaces, sujetos a la tutela de alguno de los excónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección.
+
+VI.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad.
+
+Para lo dispuesto en el presente artículo, de oficio o a petición de parte interesada, durante el procedimiento el Juez se allegará de los elementos necesarios, debiendo escuchar al Ministerio Público, a ambos padres y a los menores.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
+###### ARTICULO 283 Bis.
+
+En caso de que los padres hayan acordado la guarda y custodia compartida en términos de lo establecido en la fracción V del artículo 282, el Juez, en la sentencia de divorcio, deberá garantizar que los divorciantes cumplan con las obligaciones de crianza, sin que ello implique un riesgo en la vida cotidiana para los hijos.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2245,11 +2263,11 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 287.
 
-En la sentencia que decrete el divorcio y tomando en consideración, en su caso, los datos recabados en términos del artículo 282 de este Código, el Juez de lo Familiar fijará lo relativo a la división de los bienes, y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los excónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayoría de edad.
+En la sentencia que decrete el divorcio y tomando en consideración, en su caso, los datos recabados en términos del artículo 282 de este Código, el Juez de lo Familiar fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los excónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2361,9 +2379,9 @@ La ley sólo reconoce como parentesco los de consanguinidad, afinidad y civil.
 
 El parentesco por consanguinidad es el vínculo entre personas que descienden de un tronco común.
 
-> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
-También se da parentesco por consanguinidad, entre el hijo producto de la reproducción asistida y los cónyuges o concubinos que hayan procurado el nacimiento, para atribuirse el carácter de progenitor o progenitores.
+También se da parentesco por consanguinidad, entre el hijo producto de reproducción asistida y el hombre y la mujer, o sólo ésta, que hayan procurado el nacimiento para atribuirse el carácter de progenitores o progenitora. Fuera de este caso, la donación de células germinales no genera parentesco entre el donante y el hijo producto de la reproducción asistida.
 
 En el caso de la adopción, se equiparará al parentesco por consanguinidad aquél que existe entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
 
@@ -3315,9 +3333,9 @@ ARTICULO 410 F.- En igualdad de circunstancias se dará preferencia en la adopci
 
 En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos (sic), cualquiera que sea su estado, edad y condición.
 
-> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
-Quien ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad. En consecuencia, cada uno de los ascendientes deber evitar cualquier acto de manipulación, alineación parental encaminado a producir en la niña o el niño, rencor o rechazo hacia el otro progenitor.
+Quienes detenten la patria potestad tienen la responsabilidad de relacionarse de manera armónica con sus hijos menores de edad, independientemente de que vivan o no bajo el mismo techo.
 
 ###### ARTICULO 412.
 
@@ -3337,29 +3355,77 @@ La patria potestad sobre los hijos se ejerce por los padres. Cuando por cualquie
 
 A falta de ambos padres o por cualquier otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre los menores, los ascendientes en segundo grado en el orden que determine el juez de lo familiar, tomando en cuenta las circunstancias del caso.
 
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
+###### ARTICULO 414 Bis.
+
+Quienes ejercen la patria potestad o la guarda y custodia provisional o definitiva de un menor, independientemente de que vivan o no en el mismo domicilio, deben dar cumplimiento a las siguientes obligaciones de crianza:
+
+I.- Procurar la seguridad física, psicológica y sexual;
+
+II.- Fomentar hábitos adecuados de alimentación, de higiene personal y de desarrollo físico. Así como impulsar habilidades de desarrollo intelectual y escolares;
+
+III.- Realizar demostraciones afectivas, con respeto y aceptación de éstas por parte del menor, y
+
+IV.- Determinar límites y normas de conducta preservando el interés superior del menor.
+
+Se considerará incumplimiento de las obligaciones de crianza, el que sin justificación y de manera permanente y sistemática no se realicen las actividades señaladas; lo que el Juez valorará en los casos de suspensión de la patria potestad, de la determinación de la guarda y custodia provisional y definitiva, y el régimen de convivencias.
+
+No se considera incumplimiento de éstas obligaciones el que cualquiera de los progenitores tenga jornadas laborales extensas.
+
 ###### ARTICULO 415.
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 416.
 
-En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el juez de lo familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el artículo 94 del Código de Procedimientos Civiles para el Distrito Federal.
+En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus obligaciones y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente, previo el procedimiento que fija el Título Décimo Sexto del Código de Procedimientos Civiles.
 
-En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
+Con base en el interés superior del menor, éste quedará bajos (sic) los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y crianza conservando el derecho de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
+###### ARTICULO 416 Bis.
+
+Los hijos que estén bajo la patria potestad de sus progenitores tienen el derecho de convivir con ambos, aún cuando no vivan bajo el mismo techo.
+
+No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus ascendientes. En caso de oposición, a petición de cualquier de ellos, el Juez de lo Familiar resolverá lo conducente previa audiencia del menor, atendiendo su interés superior.
+
+Para los casos anteriores y sólo por mandato judicial, este derecho deberá ser limitado o suspendido considerando el incumplimiento reiterado de las obligaciones de crianza o peligro para la salud e integridad física, psicológica o sexual de los hijos.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
+###### ARTICULO 416 Ter.
+
+Para los efectos del presente Código se entenderá como interés superior del menor la prioridad que ha de otorgarse a los derechos de las niñas y los niños respecto de los derechos de cualquier otra persona, con el fin de garantizar, entre otros, los siguientes aspectos:
+
+I.- El acceso a la salud física y mental, alimentación y educación que fomente su desarrollo personal;
+
+II.- El establecimiento de un ambiente de respeto, aceptación y afecto, libre de cualquier tipo de violencia familiar;
+
+III.- El desarrollo de la estructura de personalidad, con una adecuada autoestima, libre de sobreprotección y excesos punitivos;
+
+IV.- Al fomento de la responsabilidad personal y social, así como a la toma de decisiones del menor de acuerdo a su edad y madurez psicoemocional; y
+
+V.- Los demás derechos que a favor de las niñas y los niños reconozcan otras leyes y tratados aplicables.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 417.
 
-Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos.
+En caso de desacuerdo sobre las convivencias o cambio de guarda y custodia, en la controversia o en el incidente respectivo deberá oírse a los menores.
 
-No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición, a petición de cualquiera de ellos, el juez de lo familiar resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
+A efecto de que el menor sea adecuadamente escuchado independientemente de su edad, deberá ser asistido en la misma por el asistente de menores que para tal efecto designe el Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
-El juez de lo familiar aplicará las medidas previstas en el Código de Procedimientos Civiles e incluso podrá decretar el cambio de custodia de los menores previo el procedimiento respectivo, cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre ellos, realice conductas reiteradas para evitar la convivencia de los menores con la persona o personas que tengan reconocido judicialmente su derecho a la misma.
+###### ARTICULO 417 Bis.
+
+Se entenderá por asistente de menores al profesional en psicología, trabajo social o pedagogía exclusivamente, adscrito al DIF-DF u otra institución avalada por éste, que asista al menor, sólo para efecto de facilitar su comunicación libre y espontánea y darle protección psicoemocional en las sesiones donde éste sea oído por el juez en privado, sin la presencia de los progenitores.
+
+Dicho asistente podrá solicitar hasta dos entrevistas previas a la escucha del menor, siendo obligatorio para el progenitor que tenga la guarda y custodia del menor dar cumplimiento a los requerimientos del asistente del menor.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -3519,23 +3585,37 @@ IV. Con la adopción del hijo;
 
 V. Cuando el que ejerza la patria potestad de un menor, lo entregue a una Institución pública o privada de asistencia social legalmente constituida, para ser dado en adopción de conformidad con lo dispuesto por el artículo 901 bis del Código de Procedimientos Civiles.
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 444.
 
-La patria potestad se pierde por resolución judicial:
+La patria potestad se pierde por resolución judicial en los siguientes supuestos:
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2004)</small>
 
 I. Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derecho;
 
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2004)</small>
+
 II. En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 283 de éste Código;
 
-III. En el caso de violencia familiar en contra del menor, siempre que esta constituya una causa suficiente para su pérdida;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+
+III.- En los casos de violencia familiar en contra el menor;
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2004)</small>
 
 IV. El incumplimiento de la obligación alimentaría por más de 90 días, sin causa justificada;
 
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2004)</small>
+
 V. Por el abandono que el padre o la madre hicieren de los hijos por más de tres meses, sin causa justificada;
 
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2004)</small>
+
 VI. Cuando el que la ejerza hubiera cometido contra la persona o bienes de los hijos, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada; y
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2004)</small>
 
 VII. Cuando el que la ejerza sea condenado dos o más veces por delitos graves.
 
@@ -13930,5 +14010,11 @@ TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 G.O. 17 DE ENERO DE 2007.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 2 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
