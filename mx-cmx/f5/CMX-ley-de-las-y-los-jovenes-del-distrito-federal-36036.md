@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-las-y-los-jovenes-del-distrito-federal-36036"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-25"
-last_updated: "2006-06-09"
+last_updated: "2007-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36036&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-30"
 
 LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 25 de julio del 2000.
 
@@ -626,13 +626,13 @@ III. Dirigir la administración del Instituto, formular los presupuestos anuales
 
 IV. Promover el mejoramiento técnico, administrativo y patrimonial del Instituto;
 
-> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
 
-V. Requerir los informes de labores de los responsables de las distintas áreas del Instituto para consignarlos anualmente en su propio informe, que debe rendir ante la Junta y el Consejo Consultivo la última semana del mes de febrero de cada año. El informe correspondiente a los resultados del Plan Estratégico para el Desarrollo Integral de la Juventud del Distrito Federal deberá a su vez ser difundido entre la ciudadanía.
+V. Requerir los informes de labores de las oficinas de atención y orientación de la juventud de las demarcaciones territoriales y de los responsables de las distintas áreas del Instituto para consignarlos anualmente en su propio informe, que debe rendir ante la Junta y el Consejo Consultivo, y entregar copia del informe a la Comisión de Juventud de la Asamblea Legislativa para su revisión, la última semana del mes de febrero de cada año;
 
 VI. Proponer y ejecutar las medidas generales sobre el régimen interior, sobre el cumplimiento de las políticas y programas para el desarrollo de la juventud y sobre el buen gobierno del Instituto;
 
-VII. Acordar en los casos que se requiera con el Jefe de Gobierno y cumplir los acuerdos en forma coordinada con la Junta del Instituto, y
+VII. Acordar en los casos que se requiera con el Jefe de Gobierno y cumplir los acuerdos en forma coordinada con la Junta del Instituto, y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE FEBRERO DE 2006)</small>
 
@@ -678,7 +678,9 @@ IV. Las demás que establezca la presente Ley.
 
 El Instituto contará con un Consejo de carácter consultivo, el cual tiene las siguientes atribuciones:
 
-I. Asesorar, proponer, opinar y apoyar al Instituto en la elaboración y ejecución de diagnósticos; y
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+
+I. Asesorar, proponer, opinar y apoyar al instituto en la elaboración y ejecución de diagnósticos y del Plan Estratégico para el Desarrollo Integral de la Juventud del Distrito Federal.
 
 II. Vigilar el cumplimiento de las disposiciones establecidas en la presente Ley en términos de una efectiva ejecución del Plan Estratégico de Desarrollo Integral de la Juventud del Distrito Federal.
 
@@ -690,7 +692,9 @@ El Consejo está integrado de la siguiente forma:
 
 I. Por el Director o el Subdirector del Instituto, en su caso;
 
-II. Por dos diputados de la Comisión de la Juventud de la Asamblea;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+
+II. Por el diputado presidente de la Comisión de Juventud y por tres diputados integrantes de la Asamblea Legislativa;
 
 III. Por un representante de una organización no gubernamental que tenga estrecha vinculación con la problemática juvenil;
 
@@ -702,9 +706,15 @@ V. Por un representante de los sectores económico y productivo del Distrito Fed
 
 El Director del Instituto preside y coordina de manera cotidiana los trabajos del Consejo.
 
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 64.
 
-Los representantes de los diversos sectores sociales que establece el artículo 62 de esta Ley, se integran a propuesta e invitación del Jefe de Gobierno, excepto los que se establecen en el inciso III del mismo artículo, a quienes propone e invita la Asamblea Legislativa del Distrito Federal, por haberse destacado por su trabajo y estudio en la materia juvenil. El Jefe de Gobierno, a su vez, funge como Presidente Honorario del Consejo.
+Los representantes de los diversos sectores sociales que establece el artículo 62 de esta Ley, se integran a propuesta e invitación del Jefe de Gobierno, excepto los que se establecen en los incisos II y III del mismo artículo, a quienes propone e invita la Comisión de Juventud de la Asamblea Legislativa del Distrito Federal, por haberse destacado por su trabajo y estudio en la materia juvenil. El Jefe de Gobierno, a su vez, funge como Presidente Honorario del Consejo.
+
+I. La duración de los integrantes del Consejo será de tres años y el Director del Instituto durará el tiempo que ocupe dicho cargo.
+
+II. Causarán baja del Consejo aquellos integrantes que presenten su renuncia o acumulen 3 inasistencias injustificadas, excepto el Director del Instituto.
 
 ###### Artículo 65.
 
@@ -746,15 +756,23 @@ IV. La Asamblea;
 
 > <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2006)</small>
 
-V. El Instituto de Ciencia y Tecnología del Distrito Federal.
+V. El Instituto de Ciencia y Tecnología del Distrito Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE FEBRERO DE 2007)</small>
+
+VI. Los titulares de las oficinas de atención y orientación de la juventud de las demarcaciones territoriales.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 72.
 
-Con base en el Plan, los titulares de las Demarcaciones Territoriales tienen la obligación de presentar, ejecutar y evaluar el Programa para el Desarrollo Integral de la Juventud para su ámbito territorial.
+Las Demarcaciones Territoriales contarán con una Oficina de Atención y Orientación a la Juventud dentro de su estructura de gobierno, cuyo responsable será designado por el titular de la demarcación y deberá contar con buena fama pública, experiencia y conocimiento en la materia. El titular de la Oficina de Atención y Orientación a la Juventud será responsable de presentar, ejecutar y evaluar un plan de trabajo para su demarcación, que deberá sujetarse a las bases que establezca el Plan Estratégico para el Desarrollo Integral de la Juventud.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 73.
 
-El Gobierno del Distrito Federal promoverá la constitución de un Fondo de Apoyo a Proyectos Juveniles, con la participación de los sectores público, social y privado. Dicho Fondo tendrá el objetivo de apoyar iniciativas juveniles autónomas, que surjan desde las y los jóvenes y que den respuesta a sus intereses reales.
+El Gobierno del Distrito Federal, en coordinación con las demarcaciones territoriales, promoverá la constitución de un Fondo de Apoyo a Proyectos Juveniles, con la participación de los sectores público, social y privado. Dicho Fondo tendrá el objetivo de apoyar iniciativas juveniles autónomas, que surjan desde las y los jóvenes y que den respuesta a sus intereses reales.
 
 ###### Artículo 74.
 
@@ -849,3 +867,13 @@ CUARTO.- El Jefe de Gobierno del Distrito Federal nombrará al Director General 
 QUINTO.- El Secretario de Finanzas, el Secretario de Desarrollo Económico y el Secretario del Medio Ambiente, deberán enviar las propuestas al Secretario de Desarrollo Social, para que éste elija a los Miembros Temporales de la Junta de Gobierno a más tardar el 1º de octubre de 2006, debiendo el Secretario de Desarrollo Social elegir a los tres Miembros Temporales a más tardar el 31 de octubre de 2006.
 
 SEXTO.- El Jefe de Gobierno del Distrito Federal deberá incluir en el Presupuesto de Egresos del Distrito Federal para el año 2007 la partida que corresponda al Instituto de Ciencia y Tecnología del Distrito Federal para que éste inicie operaciones el 2º de enero de 2007.
+
+G.O. 2 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Dentro del plazo de 90 días, contados a partir de la entrada en vigor del presente decreto, se deberá proceder a la designación de los miembros del Consejo del Instituto y se deberán poner en funcionamiento y designar a los titulares de las oficinas de Atención y Orientación a la Juventud de las demarcaciones territoriales.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor circulación en el Diario Oficial de la Federación.
