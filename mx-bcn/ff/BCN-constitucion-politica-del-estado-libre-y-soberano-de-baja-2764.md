@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2006-10-20"
+last_updated: "2007-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:2 DE FEBRERO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -161,41 +161,27 @@ La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en t
 
 ### CAPITULO IV.. DE LAS GARANTIAS INDIVIDUALES, SOCIALES Y DE LA PROTECCION DE LOS DERECHOS HUMANOS
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 7.
 
 El Estado de Baja California acata plenamente y asegura a todos sus habitantes las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como los demás derechos que otorga esta Constitución.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2006)</small>
-
-Las personas menores de dieciocho años de edad tienen derecho a vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad; por lo que las leyes que se promulguen para tal efecto, deben atender al interés superior de las personas menores de dieciocho años de edad.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2006)</small>
-
-El Estado garantizará de manera subsidiaria la protección nutricional de las personas menores de dieciocho años de edad, estableciendo los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
-
 Se establecerá por medio de una Ley las Bases para la creación de la Procuraduría de los Derechos Humanos y Protección Ciudadana, como un organismo administrativo, autónomo de participación ciudadana para vigilar y exigir de los servidores públicos un actuar apegado a la legalidad y asegurar el respeto de los derechos humanos en la entidad, sus resoluciones consistirán en solicitarles fundando y motivando ante las autoridades competentes, la aplicación de las sanciones previstas en la Ley.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
 
 La Ley garantizará al Procurador su independencia y autonomía en el desempeño de su cargo, asimismo determinará los procedimientos para su nombramiento, la duración del cargo, sus funciones y facultades así como las demás condiciones necesarias para garantizar su eficacia.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
-
 La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá una función jurisdiccional por lo que carece de facultades para modificar por si misma las resoluciones de la autoridad ni suspender las actuaciones administrativas objeto de queja. Sus resoluciones consistirán en recomendaciones, proposiciones, solicitudes y recordatorios de plazos y deberes legales dirigidas a los servidores públicos.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 Toda persona tiene el derecho a la práctica del deporte, a la cultura física y a gozar de un medio ambiente adecuado para su desarrollo y bienestar. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2005)</small>
-
-Toda persona tiene derecho a acceder a la información que la ley atribuye el carácter de pública. La ley de la materia deberá observar entre otros los principios de máxima publicidad y gratuidad, asimismo, deberá establecer los procedimientos para acceder a la información pública y señalar aquella que tenga el carácter de reservada o confidencial.
-
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2005)</small>
+Toda persona tiene derecho a acceder a la información que la ley atribuye el carácter de pública. La Ley de la materia deberá observar entre otros los principios de máxima publicidad y gratuidad, asimismo, deberá establecer los procedimientos para acceder a la información pública y señalar aquella que tenga el carácter de reservada o confidencial.
 
 La Ley establecerá un organismo ciudadano con atribuciones de consulta, propuesta, promoción y difusión del acceso a la información pública. Sus titulares tendrán carácter honorífico.
+
+Las leyes señalarán aquellos casos en que los juicios serán predominantemente orales, así como su procedimiento.
+
+Las personas tendrán derecho a acceder a los medios alternativos de justicia para resolver sus controversias, en la forma y términos establecidos por las leyes respectivas.
 
 ### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
 
@@ -226,6 +212,18 @@ e).- Asociarse individual y libremente para tomar parte en forma pacífica en lo
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
 
 V.- En su condición de padres, deben ser asistidos en la forma que la Legislación lo disponga para la protección y cuidado de los hijos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
+
+VI.- Si son personas menores de dieciocho años de edad, tendrán los siguientes derechos:
+
+a) Vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad.
+
+b) Que el Estado les garantice de manera subsidiaria la protección nutricional, estableciendo los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley.
+
+c) Si son menores de doce años que hayan realizado una conducta prevista como delito en la Ley, sólo serán sujetos a rehabilitación y asistencia social.
+
+d) Si son adolescentes que se encuentran entre doce años de edad y menores (sic) dieciocho años, sujetos a un procedimiento por la comisión de conductas tipificadas como delito, se observará la garantía del debido proceso legal en instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para ellos, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin su reintegración social y familiar, así como el pleno desarrollo de su persona y capacidades.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
@@ -519,9 +517,9 @@ XIII.- Vigilar, coordinar y evaluar el funcionamiento del Órgano de Fiscalizaci
 
 XIV.- Nombrar y remover al Auditor Superior de Fiscalización;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
 
-XV.- Elegir a tres Consejeros integrantes al Consejo de la Judicatura del Estado, a los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia, así como a los Magistrados del Tribunal de Justicia Electoral Numerarios y Supernumerarios en orden de prelación, del Poder Judicial;
+XV.- Nombrar a los Magistrados Numerarios del Tribunal Superior de Justicia así como a sus respectivos Supernumerarios en orden de prelación, y resolver respecto a su ratificación o no ratificación. Nombrar a los Magistrados del Tribunal de Justicia Electoral y designar a los Consejeros Numerarios y Supernumerario (sic) de la Judicatura del Poder Judicial;
 
 XVI.- Designar, en los términos que previene esta Constitución, al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas;
 
@@ -529,9 +527,9 @@ XVI.- Designar, en los términos que previene esta Constitución, al ciudadano q
 
 XVII.- Convocar a elecciones, cuando fuere necesario conforme a lo establecido en la Ley;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
 
-XVIII.- Resolver acerca de las licencias definitivas de los Diputados, del Gobernador, y renuncia de los Magistrados del Tribunal de Justicia Electoral del Poder Judicial y de los integrantes del Consejo de la Judicatura del Estado electos por el Congreso; así como de la renuncia, remoción y oposición a la ratificacióm (sic) de los Magistrados del Tribunal Superior de Justicia;
+XVIII.- Resolver acerca de las licencias definitivas de los Diputados y del Gobernador; así como respecto a las renuncias y remociones, de los Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Electoral, y de los Consejeros de la Judicatura designados por el Congreso;
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -543,7 +541,9 @@ XXI.- Cambiar provisionalmente, y por causa justificada, la residencia de los Po
 
 XXII.- Resolver las competencias y dirimir las controversias que se susciten entre el Ejecutivo y el Tribunal Superior salvo lo prevenido en los Artículos 76 Fracción VI y 105 de la Constitución General de la República;
 
-XXIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y los Ayuntamientos;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+
+XXIII.- Elegir a los tres Magistrados Numerarios del Tribunal de lo Contencioso Administrativo, así como a los dos Supernumerarios en orden del prelación, y resolver respecto a su reelección o no reelección, renuncias y remociones;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -703,11 +703,15 @@ Las leyes que expida el Congreso del Estado, excepto las de índole tributario o
 
 Los proyectos de Ley y los decretos aprobados por el Congreso, se remitirán al Ejecutivo firmados por el Presidente y el Secretario del Congreso.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+El Gobernador del Estado no podrá hacer observaciones sobre los decretos que manden abrir o cerrar sesiones del Congreso, los emitidos por éste cuando actúe en funciones de Jurado de Sentencia y las reformas constitucionales aprobadas en los términos del artículo 112 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 35.
 
-El Gobernador del Estado no podrá hacer observaciones sobre los decretos que manden abrir o cerrar sesiones del Congreso o los emitidos por éste cuando actúe en funciones de Jurado de Sentencia.
+Cuando en esta Constitución o en la Ley, se señale que una atribución que ejerza el Congreso del Estado debe ser aprobada por mayoría calificada o por dos terceras partes de sus integrantes, se entenderá que se requieren por lo menos diecisiete votos de los Diputados.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
 
@@ -977,7 +981,7 @@ XXV.- Las demás que le señalen expresamente esta Constitución y las Leyes Fed
 
 ### CAPITULO I.. DE LA JURISDICCION ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 50.
 
@@ -1021,7 +1025,21 @@ Las faltas del Secretario de Gobierno, serán suplidas por el Oficial Mayor del 
 
 ###### ARTICULO 55.
 
-La función jurisdiccional para resolver controversias de carácter administrativo y fiscal que se susciten entre los particulares y la Administración Pública Estatal o Municipal, así como entre el fisco estatal y los fiscos municipales sobre preferencia de créditos fiscales, estará a cargo del Tribunal de lo Contencioso Administrativo del Estado, que será autónomo en sus fallos e independiente de cualquier Autoridad Administrativa, dotado de plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
+El Tribunal de lo Contencioso Administrativo tendrá el carácter de órgano constitucional autónomo y resolverá las controversias de carácter administrativo y fiscal que se susciten entre los particulares y la administración pública estatal o municipal, así como entre el fisco estatal y los fiscos municipales sobre preferencia de créditos fiscales.
+
+El Tribunal contará con plena autonomía en su funcionamiento e independencia en sus decisiones, estará dotado de personalidad jurídica y patrimonio propio y poseerá plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
+
+El Tribunal estará integrado por tres Magistrados numerarios y dos Supernumerarios quienes serán electos por mayoría calificada de los integrantes del Congreso, previa convocatoria y conforme al procedimiento que determine la Ley. Para ser electo Magistrado deberán cumplirse los requisitos previstos en el artículo 60 de esta Constitución, además de los señalados en la Ley.
+
+Los Magistrados del Tribunal desempeñarán su cargo por seis años y podrán ser reelectos por un sólo periodo de seis años. Seis meses antes de que concluya el periodo de seis años para el que fue electo el Magistrado, la Comisión instituida por el Congreso procederá a elaborar un dictamen de evaluación relativo a su reelección o no reelección, remitiendo el titular del órgano señalado en la Ley, para tal efecto los expedientes e informes que le solicite, debiendo resolver el Congreso tres meses antes de que concluya el cargo del mismo. La evaluación del desempeño del Magistrado deberá de sujetarse a criterios objetivos relativos a la excelencia profesional, honestidad y buena reputación, en los términos de la Ley.
+
+La vigilancia, administración y disciplina del Tribunal estará a cargo del órgano que señale la Ley. El Tribunal establecerá mecanismos que transparenten y propicien la rendición de cuentas de su función jurisdiccional, en los términos de las leyes.
+
+El Presidente del Tribunal tendrá la representación del mismo y será designado en los términos señalados por la Ley.
+
+El Pleno del Tribunal elaborará su proyecto de presupuesto de egresos por grupos y partidas presupuestales, el cual deberá remitir por conducto de su presidente al titular del Poder Ejecutivo del Estado para su inclusión en el Proyecto del Presupuesto de Egresos del Estado. El proyecto del Tribunal no podrá ser modificado por el titular del Poder Ejecutivo, pero sí por el Congreso del Estado. El presupuesto del Tribunal no podrá ser inferior al aprobado por el Congreso del Estado para el ejercicio anual anterior; para estos efectos no se considerarán las ampliaciones presupuestales.
+
+La Ley desarrollará en los términos que señala esta Constitución, la carrera jurisdiccional en sus dimensiones de formación, promoción y permanencia, bajo los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
 ### CAPITULO I.. DEL MUNICIPIO Y DEL GOBIERNO MUNICIPAL
 
@@ -1047,29 +1065,51 @@ El Poder Judicial del Estado se ejercerá por el Tribunal Superior de Justicia, 
 
 Contará con un Consejo de la Judicatura, el cual ejercerá funciones de vigilancia, disciplina, supervisión y administración.
 
-La representación del Poder Judicial estará a cargo del Presidente del Tribunal Superior de Justicia del Estado, el cual se elegirá y desempeñará sus funciones en los términos y por el período que la Ley señale.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2001)</small>
+La representación del Poder Judicial estará a cargo del Presidente del Tribunal Superior de Justicia del Estado, el cual se elegirá y desempeñará sus funciones de acuerdo a lo que señale la Ley.
 
-El Presidente del Tribunal Superior de Justicia en el día de la apertura del primer período de sesiones ordinarias del Congreso, asistirá en sesión solemne para rendir un informe general, por escrito, del estado que guarde la Administración de Justicia en la entidad.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
-La Ley garantizará la independencia de los Magistrados, Consejeros y Jueces en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
+El Presidente del Tribunal Superior de Justicia, asistirá al Congreso, el segundo jueves del mes de octubre, para rendir en sesión solemne un informe general, por escrito, del estado que guarde la Administración de Justicia en la entidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+El Poder Judicial emitirá un Plan de Desarrollo Judicial cada seis años. El Presidente del Tribunal lo remitirá al Congreso para su examen y opinión en los términos de la Ley; y posteriormente lo dará a conocer a la población mediante su publicación en el Periódico Oficial del Estado y por cualquier otro medio que estime pertinente. Dicho Plan se elaborará, instrumentará y evaluará en los términos que se señalan en esta Constitución y la Ley.
 
 Corresponde al Tribunal de Justicia Electoral como máxima autoridad jurisdiccional electoral estatal, y órgano especializado del Poder Judicial garantizar el cumplimiento del principio de legalidad de los actos y resoluciones electorales.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
-La remuneración de los Magistrados del Tribunal Superior de Justicia, la de los Magistrados del Tribunal de Justicia Electoral, así como la de los Jueces de Primera Instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado, del Poder Judicial, no podrá ser disminuida durante el tiempo de su gestión.
+La Ley garantizará la independencia de los Magistrados, Jueces y Consejeros de la Judicatura en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+
+La remuneración de los Magistrados, Jueces y Consejeros de la Judicatura, del Poder Judicial, no podrá ser disminuida durante el tiempo de su gestión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+Los Magistrados, Jueces y Consejeros de la Judicatura, del Poder Judicial, no serán considerados trabajadores para efectos de la Ley especial de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+Durante su encargo, los Magistrados, Jueces y Consejeros de la Judicatura, del Poder Judicial, sólo podrán ser removidos en los términos que se señalan en esta Constitución y la Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 58.
 
-El Tribunal Superior de Justicia estará integrado por trece Magistrados Numerarios como mínimo y tres Supernumerarios. Funcionará en los Términos que disponga la Ley. Los Magistrados en Pleno, designarán a uno de sus miembros como Presidente, que durará dos años en su cargo, y no podrá ser reelecto.
+El Tribunal Superior de Justicia estará integrado por trece Magistrados Numerarios como mínimo y tres Supernumerarios. Funcionará en los términos que disponga la Ley.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DEL 2001)</small>
+(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO NOVENO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Los Magistrados del Tribunal Superior de Justicia del Estado, durarán en su cargo seis años y en ningún caso podrán ser ratificados.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+EL CONGRESO DEL ESTADO ESTA FACULTADO PARA RESOLVER SOBERANA Y DISCRECIONALMENTE RESPECTO A LOS NOMBRAMIENTOS, RATIFICACIÓN O NO RATIFICACIÓN Y REMOCIÓN DE LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA. EN LOS MISMOS TÉRMINOS RESOLVERÁ SOBRE LA DESIGNACIÓN Y REMOCIÓN DE LOS INTEGRANTES DEL CONSEJO DE LA JUDICATURA. DICHAS RESOLUCIONES SERÁN DEFINITIVAS E INATACABLES, POR LO QUE NO PROCEDERÁ JUICIO, RECURSO O MEDIO DE DEFENSA ORDINARIO O EXTRAORDINARIO ALGUNO EN CONTRA DE LAS MISMAS.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+La Ley establecerá sistemas permanentes de evaluación del desempeño de los Magistrados del Tribunal Superior de Justicia y Jueces del Poder Judicial, para garantizar que quienes ocupen dichos cargos, durante el tiempo que los ejerzan, cumplan de manera continua y permanente con los requisitos y principios que esta Constitución señala para su nombramiento o su ratificación.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DEL 2001)</small>
 
@@ -1079,9 +1119,45 @@ Seis meses antes de que concluya el período de los Magistrados del Tribunal Sup
 
 El Tribunal de Justicia Electoral se integrará con tres magistrados Numerarios y hasta dos Supernumerarios, que desempeñarán su cargo por tres años, eligiéndose de entre ellos al Presidente, en sesión de Pleno. Los Magistrados de Justicia Electoral en ningún caso podrán ser ratificados.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DEL 2001)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
 
-Los Magistrados Electorales serán nombrados por el voto de las dos terceras partes de los integrantes del Congreso del Estado, previa convocatoria que éste emita, en la forma que determine su Ley Orgánica.
+El nombramiento de Magistrados del Tribunal Superior de Justicia se efectuará bajo el siguiente procedimiento:
+
+I. Inmediatamente que exista una o varias vacantes de Magistrados o seis meses antes si la misma fuere previsible, el Consejo de la Judicatura deberá dar inicio al proceso de evaluación de aspirantes, haciéndolo del conocimiento del Congreso, el cual incluirá exámenes psicométricos, oposición y de méritos correspondientes, conforme a la Ley y el reglamento respectivo. El Consejo de la Judicatura, tendrá hasta noventa días naturales para desahogarlo, desde que emita la convocatoria pública, hasta que realice la entrega de la lista por conducto de su Presidente al Congreso;
+
+II. El Congreso resolverá dentro de los treinta días naturales siguientes a que reciba la lista, por mayoría calificada de sus integrantes, los nombramientos de Magistrados de entre los aspirantes que integren la lista, la cual deberá contener en orden de puntuación, únicamente a los profesionistas que hayan aprobado en el proceso de evaluación que practique el Consejo de la Judicatura;
+
+III. En caso de que el Congreso no aprobara el nombramiento o nombramientos, o sólo cubriere algunas de las vacantes de Magistrados, o fuera omiso en el término previsto en la fracción anterior, el Consejo de la Judicatura abrirá un nuevo proceso de evaluación, que se deberá desahogar y remitir al Congreso dentro de los treinta días naturales siguientes, en el cual podrá participar cualquier interesado e incluirse en la lista a quienes hayan aprobado en el proceso de evaluación previsto en la fracción I de este artículo, y
+
+IV. Recibida la segunda lista, el Congreso tendrá hasta treinta días naturales para nombrar por mayoría calificada de sus integrantes al Magistrado o Magistrados, y si no lo hiciese en dicho término, ocuparán los cargos de Magistrados las personas que se encuentren en los primeros lugares de la lista, la cual deberá ser elaborada en los términos señalados en las fracciones II y III de este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley, al término de los cuales podrán ser ratificados y, si lo fueren, sólo podrán ser privados de su cargo en cualquiera de los siguientes supuestos:
+
+a) Al cumplir setenta años de edad.
+
+b) Al cumplir quince años en el cargo de Magistrado del Tribunal Superior de Justicia.
+
+c) Por incapacidad física o mental que impida el buen desempeño de sus funciones.
+
+d) En los demás casos que establezca esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+Tratándose de los incisos a) y b) de este artículo el Consejo de la Judicatura notificará al Magistrado, a más tardar seis meses antes, la fecha en que concluirá en definitiva su encargo, señalando la causa en que se funda la privación de su puesto. El supuesto previsto en el inciso c), se tendrá por acreditado en los términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+Un año antes de que concluya el periodo para el que fue nombrado el Magistrado, el Consejo de la Judicatura procederá a elaborar un dictamen técnico de evaluación en el que analice minuciosamente su actuación y desempeño y emita una opinión al respecto. El dictamen, así como el expediente del Magistrado, deberá ser remitido al Congreso, dentro de los noventa días naturales siguientes, debiendo contener todos aquellos elementos objetivos y requisitos que señale la Ley y que den a conocer si el Magistrado sujeto a proceso de ratificación, durante su desempeño, ha ejercido el cargo con excelencia profesional, honestidad, diligencia y que goza de buena reputación y buena fama en el concepto público, además de precisar si conserva los requisitos requeridos para su nombramiento previstos en el artículo 60 de esta Constitución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+El Congreso con base en lo anterior, y una vez que escuche al Magistrado sujeto a proceso de ratificación, resolverá sobre su ratificación o no ratificación, mediante mayoría calificada de sus integrantes, a más tardar seis meses antes de que el Magistrado concluya su encargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+Si el Congreso resuelve la no ratificación, el Magistrado cesará en sus funciones a la conclusión del periodo para el que fue nombrado y se procederá a realizar un nuevo nombramiento en los términos de este artículo.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -1089,7 +1165,9 @@ Los Magistrados Electorales serán nombrados por el voto de las dos terceras par
 
 Los Tribunales del Poder Judicial resolverán las controversias que en el ámbito de su competencia se les presenten.
 
-La competencia del Tribunal Superior de Justicia, su funcionamiento en Pleno y en Salas; de los Jueces de Primera Instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado se regirá por lo que dispongan la Ley Orgánica del Poder Judicial y, de conformidad con las bases que esta Constitución establece. De la misma forma y de conformidad con lo señalado en este ordenamiento se establecerá la competencia y el funcionamiento del Tribunal de Justicia Electoral.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+
+La competencia del Tribunal Superior de Justicia, su funcionamiento en Pleno y en Salas; de los Juzgados de Primera Instancia, Juzgados de Paz, Jurados y Consejo de la Judicatura se regirá por lo que dispongan la Ley Orgánica del Poder Judicial y, de conformidad con las bases que esta Constitución establece. De la misma forma y de conformidad con lo señalado en este ordenamiento se establecerá la competencia y el funcionamiento del Tribunal de Justicia Electoral.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -1099,19 +1177,33 @@ Para ser nombrado Magistrado del Poder Judicial, se requiere como mínimo:
 
 I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
 
-III.- Poseer el día de la designación, con antigüedad mínima de diez años, Título Profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente facultada para ello;
+II.- Tener cuando menos treinta y cinco, y no mas de sesenta y cinco años de edad, al día de su nombramiento;
 
-IV.- Haber realizado por lo menos durante tres años, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación de normas jurídicas;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+III.- Poseer el día de su nombramiento, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho o Abogado, expedido por autoridad o institución legalmente facultada para ello;
 
-V.- Haber residido en el Estado durante los diez años anteriores al día de su designación;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
 
-VI.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena de mas de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
+IV.- Haber realizado por lo menos durante diez años, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación de normas jurídicas;
 
-VII.- No haber ocupado el cargo de Gobernador del Estado, Titular en una Secretaría o Procurador de Justicia, durante el año previo al día de la designación.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+
+V.- Haber residido en el Estado durante los diez años anteriores al día de su nombramiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
+
+VI.- No haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+
+VII.- Gozar de buena reputación y buena fama en el concepto público. La Ley determinará los procedimientos y términos en los que se realizarán consultas públicas, para acreditar dicha calidad, y
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+
+VIII.- No haber ocupado cargo de elección popular, ni haber ocupado cargo de dirigencia de algún partido político, o haber sido titular de una dependencia o entidad de la administración pública federal, estatal o municipal, o Consejero de la Judicatura, durante el año previo a la fecha en que deba ser nombrado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
@@ -1119,19 +1211,35 @@ VII.- No haber ocupado el cargo de Gobernador del Estado, Titular en una Secreta
 
 Cuando ocurra la falta absoluta de un Magistrado del Tribunal Superior de Justicia se estará a lo dispuesto por el artículo 58 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
-Los Magistrados Supernumerarios, cubrirán las faltas temporales de los Numerarios, de acuerdo a lo que establece la Ley Orgánica del Poder Judicial del Estado.
+Los Magistrados y Consejeros Supernumerarios cubrirán las faltas temporales de los Numerarios, así como las faltas absolutas de los mismos hasta en tanto el Congreso efectúe el nombramiento correspondiente, de acuerdo a lo que establece la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 A la falta temporal de un Magistrado del Tribunal de Justicia Electoral, se llamará al Magistrado Supernumerario conforme al orden de prelación que haya señalado el Congreso del Estado al momento de la designación. En caso de ausencia definitiva se obrará de igual forma, hasta en tanto se proceda a la elección del Magistrado Numerario. En caso de ausencias definitivas, renuncias y licencias por más de dos meses, el Pleno del Tribunal acordará que por conducto de su Presidente se haga del conocimiento del Congreso Local, para su aprobación.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 62.
 
-Los Jueces de Primera Instancia y de Paz que autorice la Ley Orgánica del Poder Judicial, serán electos por el Pleno del Trbunal (sic) Superior de Justicia, en los términos del artículo 63 de esta Constitución; durarán tres años en el cargo, deberán tener treinta años de edad como mínimo al día de la elección, Título profesional de Abogado o Licenciado en Derecho, debidamente registrado, cinco años de ejercicio profesional, tener residencia mínima en el Estado de cinco años anteriores al día de su designación y aprobar los exámenes psicométricos, de oposición y de méritos correspondientes; sin perjuicio de nuevas designaciones cuando se distingan en el ejercicio de sus funciones para el mejoramiento de la administración de Justicia.
+Los Jueces serán designados en los términos de esta Constitución y la Ley; durarán cinco años en el cargo, y podrán ser ratificados hasta por dos periodos más, cuando se distingan en el ejercicio de sus funciones y una vez que fueren evaluados atendiendo a los criterios objetivos que disponga la Ley. En ningún caso podrán permanecer por más de quince años en el cargo. Para ser Juez se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Tener cuando menos treinta años de edad, al día de su designación;
+
+III. Poseer título profesional de Licenciado en Derecho o Abogado, con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello;
+
+IV. Acreditar, cuando menos cinco años de práctica profesional, y aprobar los exámenes psicométricos, de oposición y de méritos correspondientes;
+
+V. Gozar de buena reputación y no haber sido condenado por un delito intencional que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+
+VI. Haber residido en el Estado durante los cinco años anteriores al día de su designación, y
+
+VII. No haber ocupado cargo de elección popular, titular de una dependencia o entidad de la administración pública federal, estatal o municipal, de dirigencia de algún partido político, o Consejero de la Judicatura, durante el año previo al día de la designación.
+
+Las designaciones de jueces serán hechas, preferentemente de entre aquellas personas que presten o hubieren prestado sus servicios con eficacia y probidad en la Administración de Justicia, o que, sin haber laborado en el Poder Judicial, lo merezcan por su honorabilidad, competencia y antecedentes profesionales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
@@ -1151,25 +1259,33 @@ II.- Resolver las cuestiones de competencia y las de acumulación que se suscite
 
 III.- Resolver sobre las recusaciones y excusas de Magistrados y Secretarios del Tribunal;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
 
-IV.- Conocer de los juicios de responsabilidad que hayan de seguirse a los Funcionarios Públicos que gocen de fuero, previa declaración que se haga de haber lugar a formación de causa;
+IV.- Resolver respecto a la designación, ratificación, remoción y renuncia de Jueces del Poder Judicial, de conformidad con lo previsto en esta Constitución, la Ley y el reglamento respectivo. Iguales facultades le corresponden en cuanto al personal jurisdiccional del Tribunal, quienes serán seleccionados por los Magistrados correspondientes, de entre la lista que presente el Consejo de la Judicatura en los términos de la Ley y el reglamento respectivo;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
 
-V.- Consignar ante la autoridad competente a los jueces y demás funcionarios o empleados del Poder Judicial, por delitos comunes o responsabilidades oficiales en que incurran, y
+V.- Determinar la adscripción de los Magistrados en las Salas del Tribunal;
 
-> <small>(REFORMADA, P.O 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
 
-VI.- La elección de los jueces, secretarios de acuerdos y actuarios de entre quienes integren la lista que le presente el Consejo de la Judicatura en la cual deberá incluirse a todos los aspirantes que hayan resultado aprobados en los exámenes psicométricos de oposición y de méritos practicados conforme al reglamento respectivo, así como su adscripción, remoción y renuncia. Iguales facultados (sic) le corresponden en cuanto a los secretarios de estudio y cuenta, quienes serán propuestos por los Magistrados correspondientes;
+VI.- Designar para un periodo de tres años, a uno de sus miembros como Presidente, pudiendo ser reelecto por otro periodo de tres años más;
 
-> <small>(ADICIONADA, P.O 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
 
-VII.- Conocer del recurso de revisión que interpongan en su defensa los jueces, secretarios, actuarios y demás personal del Poder Judicial con excepción de los Magistrados, cuando con motivo de una queja o visita de inspección se les pretenda imponer una sanción por parte del Consejo de la Judicatura;
+VII.- Expedir acuerdos para el mejor ejercicio de sus atribuciones;
 
-> <small>(ADICIONADA, P.O 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
 
-VIII.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes Ordinarias.
+VIII.- Establecer mecanismos que transparenten y propicien la rendición de cuentas de la función jurisdiccional de los Magistrados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
+
+IX.- Emitir opinión respecto al proyecto de Plan de Desarrollo Judicial que le presente el Consejo de la Judicatura, en los términos de la Ley, y
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+
+X.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
@@ -1185,43 +1301,67 @@ La vigilancia, administración, disciplina y carrera judicial del Tribunal de Ju
 
 Esta Comisión tiene el carácter de permanente y sesionará válidamente con la presencia de sus integrantes, adoptando sus decisiones por mayoría de los miembros. En caso de empate el Presidente tiene voto de calidad.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+El Presidente del Tribunal Superior de Justicia, tendrá la representación del Consejo de la Judicatura, y las funciones que fije la Ley Orgánica respectiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+El Consejo de la Judicatura se integrará por:
+
+I.- El Presidente del Tribunal Superior de Justicia, quien lo presidirá;
+
+II.- El Presidente del Tribunal de Justicia Electoral, y
+
+(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+III.- TRES CONSEJEROS DESIGNADOS POR MAYORÍA CALIFICADA DEL CONGRESO DEL ESTADO, PREVIA CONVOCATORIA PÚBLICA, QUIENES DURARÁN EN EL CARGO SEIS AÑOS.
+
+(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+ADEMÁS, EL CONGRESO DESIGNARÁ A UN CONSEJERO SUPERNUMERARIO EN LOS TÉRMINOS DE LA FRACCIÓN III DE ESTE ARTÍCULO.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 65.
 
-El Presidente del Tribunal Superior de Justicia, tendrá la representación del Consejo de la Judicatura del Estado, y las funciones que fija la Ley Orgánica respectiva.
+Los Consejeros de la Judicatura deberán reunir los requisitos señalados en el artículo 60 de esta Constitución, y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
 
-El Consejo de la Judicatura se integrará por siete miembros, de los cuales uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo y quien tendrá voto de calidad en caso de empate; el Presidente del Tribunal de Justicia Electoral; un Magistrado del Tribunal Superior y un Juez de Primera Instancia, electos mediante insaculación; tres Consejeros elegidos por el Congreso del Estado, por mayoría calificada, estos tres últimos, deberán ser personas que se hayan distinguido por su capacidad, honestidad, y honorabilidad en el ejercicio de las actividades jurídicas. Los Consejeros deberán reunir los requisitos que para ser Magistrados establece la Ley.
+Los Consejeros previstos en la fracción III y último párrafo del artículo 64, serán sustituidos de manera escalonada, y en ningún caso serán designados para un nuevo periodo.
 
-El Consejo funcionará en Pleno o por Comisiones, el Pleno resolverá sobre la designación, adscripción, remoción y renuncia de Magistrados, Jueces, Secretarios de Acuerdos y Actuarios del Tribunal Superior de Justicia, así como de los demás asuntos que la ley determine. Salvo el Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo a partir de su nombramiento y no podrán ser nombrados para un nuevo período.
+(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+EL CONSEJO FUNCIONARÁ EN PLENO O POR COMISIONES. PARA QUE LAS SESIONES DEL PLENO DEL CONSEJO SEAN VÁLIDAS SERÁ NECESARIA LA ASISTENCIA DE CUANDO MENOS TRES CONSEJEROS, DEBIENDO ESTAR SIEMPRE PRESENTE EL PRESIDENTE O EL CONSEJERO SECRETARIO, QUIENES EJERCERÁN LAS FACULTADES QUE LES SEÑALE LA LEY.
 
-En el caso de que el Juez que forma parte del Consejo de la Judicatura, no sea ratificado, se procederá al nombramiento de otro por el procedimiento que la misma ley prevé.
+Corresponderá al Consejo de la Judicatura el desarrollo de la carrera judicial. Al Pleno del Consejo le corresponderá proponer al Pleno del Tribunal Superior la designación, adscripción, remoción y renuncia de Jueces del Poder Judicial en los términos de la Ley y el reglamento respectivo. Las propuestas de nombramiento de Jueces, Secretarios de Acuerdos, Actuarios y del personal jurisdiccional del Tribunal Superior de Justicia se integrarán con quienes hayan resultado aprobados en los exámenes psicométricos, de oposición y de méritos practicados por el Consejo de la Judicatura, conforme a la Ley y el reglamento respectivo. Los Secretarios de Acuerdos y Actuarios serán seleccionados por el Juez respectivo de entre quienes integren la lista que le presente el Consejo. Asimismo, resolverá los demás asuntos que la Ley determine.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+Los Consejeros ejercerán su función con independencia e imparcialidad.
 
-Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Octavo de esta Constitución.
+La Ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+El Consejo de la Judicatura estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones de conformidad con lo que establezca la Ley. Asimismo le corresponderá elaborar y aprobar el Plan de Desarrollo Judicial en los términos de esta Constitución y Ley.
 
-La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+LAS RESOLUCIONES DEL CONSEJO SERÁN DEFINITIVAS E INATACABLES Y, POR LO TANTO, NO PROCEDERÁ RECURSO NI JUICIO ALGUNO, EN CONTRA DE ELLAS.
 
-El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones de conformidad con lo que establezca la Ley.
+El Consejo de la Judicatura del Estado elaborará el proyecto de presupuesto global del Poder Judicial, que comprenderá el del Tribunal Superior de Justicia y del Tribunal de Justicia Electoral, de los Juzgados y demás órganos judiciales; será elaborado por grupos y partidas presupuestales, y remitido por conducto de su presidente al titular del Poder Ejecutivo del Estado para el su (sic) inclusión en el Proyecto del Presupuesto de Egresos del Estado. El proyecto del Poder Judicial no podrá ser modificado por el titular del Poder Ejecutivo, pero el Congreso del Estado sí lo podrá modificar, en los términos señalados en (sic) artículo 90 de esta Constitución. El presupuesto estará vinculado a la aplicación del Plan de Desarrollo Judicial.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
-
-El Consejo de la Judicatura del Estado elaborará el presupuesto global del Poder Judicial, que comprenderá el del Tribunal Superior de Justicia y del Tribunal de Justicia Electoral, de los Juzgados y demás órganos judiciales, remitiéndolo para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 66.
 
-Los Magistrados, Jueces, Secretarios de Acuerdos, Actuarios del Poder Judicial y miembros del Consejo de la Judicatura del Estado, durante el tiempo de su encargo, aún cuando tengan carácter de Interinos, no podrán aceptar ni desempeñar empleo en la Federación, Estado o Municipios ni de particulares, salvo los cargos docentes, o en asociaciones científicas, literarias o de beneficencia, con excepción de los Magistrados electorales en que se estará a lo que establezca la Ley.
+Los Magistrados, Jueces, Consejeros de la Judicatura, Secretario General, Secretarios Auxiliares, de Estudio y Cuenta, del Poder Judicial del Estado, durante el tiempo de su encargo, aún cuando tengan carácter de Interinos o cuenten con licencia, no podrán aceptar ni desempeñar empleo o encargo en la Federación, Estado o Municipios ni de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia. Asimismo estarán impedidos para litigar ante cualquier instancia, salvo cuando se trate de causa propia.
 
-La infracción a lo previsto en el párrafo anterior, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, independientemente de las demás sanciones que las leyes prevean.
+Los Secretarios de Acuerdos y Actuarios del Poder Judicial del Estado, estarán sujetos a los mismos impedimentos a que alude el párrafo anterior, pero si podrán desempeñar cargos remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
+
+La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida o privación del respectivo cargo dentro del Poder Judicial del Estado, independientemente de las demás sanciones que las leyes prevean.
+
+Las personas que hayan ocupado el cargo de Magistrado del Poder Judicial o Consejero de la Judicatura, no podrán, dentro de los dos años siguientes a la fecha en que lo hayan dejado, ejercer la abogacía ante los órganos jurisdiccionales del Poder Judicial del Estado. Tampoco podrán actuar con tal calidad los jueces dentro del año siguiente a la fecha en que hayan dejado el cargo.
+
+Todo servidor público del Poder Judicial que tenga conocimiento de la comisión de hechos posiblemente delictuosos que deban perseguirse de oficio o que pudieran constituir una responsabilidad administrativa, estará obligado a denunciarlos en los términos de las leyes respectivas. Corresponderá al Consejo de la Judicatura en ejercicio de sus facultades, investigar y determinar las responsabilidades de los servidores públicos del Poder Judicial, y formular en su caso denuncias o querellas por la comisión de delitos cometidos por los mismos, de acuerdo con lo previsto en las leyes.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -1647,13 +1787,17 @@ El Congreso expedirá la Ley de Hacienda que establecerá las bases para la fija
 
 El presupuesto formará siempre un sólo cuerpo distribuido en partidas, según los conceptos de erogación y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
-Para garantizar su independencia económica, el Poder Judicial, contará con Presupuesto propio, el que administrará y ejercerá en los términos que fijen las Leyes respectivas. Este no podrá ser inferior al aprobado por el Congreso para el ejercicio anual anterior. El Congreso podrá modificar, por causa justificada y fundada, el monto presupuestado.
+Para garantizar su independencia económica, el Poder Judicial, contará con Presupuesto propio, el que administrará y ejercerá en los términos que fijen las Leyes respectivas. Este no podrá ser inferior al aprobado por el Congreso para el ejercicio anual anterior, para estos efectos no se considerarán las ampliaciones presupuestales. El Congreso podrá modificar, por causa justificada y fundada, el monto presupuestado.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
 
-El Poder Judicial contará y administrará igualmente, con los recursos que se señalan para el Fondo de Administración de Justicia en las Leyes respectivas, administrado por el Consejo de la Judicatura del Estado.
+Para la aprobación del presupuesto anual del Poder Judicial, el Congreso podrá considerar lo previsto en el Plan de Desarrollo Judicial correspondiente.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+
+El Poder Judicial contará y administrará igualmente, con los recursos que se señalan para el Fondo de Administración de Justicia en las Leyes respectivas, administrado por el Consejo de la Judicatura. Dicho Fondo se destinará exclusivamente al mejoramiento de la impartición de justicia, y para otorgar estímulos al personal jurisdiccional del Poder Judicial, excluyendo a los Magistrados, Jueces y Consejeros de la Judicatura. La Ley establecerá los mecanismos para la plena fiscalización del Fondo por el Congreso.
 
 ## TITULO OCTAVO
 
@@ -1711,11 +1855,15 @@ Para la aplicación de las sanciones a que se refiere este precepto, el Congreso
 
 El Congreso del Estado concurriendo cuando menos las dos terceras partes del número total de sus miembros, se erigirá en Jurado de Sentencia una vez practicadas las diligencias correspondientes con audiencias del acusado, emitirá el fallo correspondiente tomado por acuerdo de las dos terceras partes del número total de diputado (sic). En ese caso no votarán quienes hayan integrado la Comisión Instructora.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+Las resoluciones que emita el Congreso del Estado, serán en ejercicio pleno de su soberanía, y por lo tanto, resolverá en forma libre y discrecional. Dichas resoluciones serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 94.
 
-Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Procurador General de Justicia del Estado, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por las dos terceras partes de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de miembros presentes en sesión cuando se refiera a los demás Servidores Públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Magistrados del Tribunal de lo Contencioso Administrativo, Secretario General de Gobierno, Procurador General de Justicia del Estado, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por mayoría calificada de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de miembros presentes en sesión cuando se refiera a los demás Servidores Públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1756,8 +1904,6 @@ Las sanciones económicas no podrán exceder de tres tantos de los beneficios ob
 No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el Párrafo Primero del Artículo 94, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el Artículo 94, se procederá de acuerdo con lo dispuesto en dicho Precepto.
-
-,
 
 Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
@@ -1855,15 +2001,23 @@ Los funcionarios que entren a ejercer su encargo después del día señalado por
 
 El Gobernador del Estado rendirá la protesta de Ley ante el Congreso en los siguientes términos:
 
-" Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California y las leyes que de ambas emanen, desempeñando leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado; y si así no lo hiciere que el pueblo me lo demande."
+"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California y las leyes que de ambas emanen, desempeñando leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado; y si así no lo hiciere que el pueblo me lo demande."
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
-Igualmente los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso, en la siguiente forma:
+Igualmente los Magistrados del Poder Judicial rendirán la protesta de Ley ante el Congreso o su Comisión Permanente, en la siguiente forma:
 
-El Presidente del Congreso preguntará:
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
-" Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso: "Si así no lo hiciereis, que la Nación y el Estado os lo demanden".
+El Presidente del Congreso o de la Comisión Permanente preguntará:
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+
+"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Poder Judicial que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso o de su Comisión Permanente: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+
+Los integrantes del Consejo de la Judicatura, rendirán Protesta de Ley ante el Congreso del Estado o su Comisión Permanente, en la siguiente forma:
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
 
@@ -1871,7 +2025,19 @@ Los nombramientos conferidos a los Consejeros de la Judicatura del Estado de Baj
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
 
-"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Consejero de la Judicatura del Estado de Baja California que se os ha conferido?", el interrogado contestará:" Sí protesto " . Acto continuo, dirá quien tenga la facultad de protestarlo: si no lo hiciereis que la Nación y el Estado os lo demanden".
+"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Consejero de la Judicatura del Estado de Baja California que se os ha conferido?", el interrogado contestará: "Sí protesto". Acto continuo, dirá quien tenga la facultad de protestarlo: si no lo hiciereis que la Nación y el Estado os lo demanden".
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+Igualmente los Magistrados del Tribunal de lo Contencioso Administrativo rendirán la protesta de Ley ante el Congreso del Estado o su Comisión Permanente, en la siguiente forma:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+El Presidente del Congreso o de la Comisión Permanente preguntará:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal de lo Contencioso Administrativo que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso o de su Comisión Permanente: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
 
 ###### ARTICULO 110.
 
@@ -2640,3 +2806,37 @@ P.O. 20 DE OCTUBRE DE 2006.
 Primero.- Aprobada que sea esta reforma por el Pleno del Congreso del Estado de Baja California, deberá enviarse a los ayuntamientos del Estado de Baja California, en los términos del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 Segundo.- Una vez cumplidos los requisitos citados en el artículo que precede, remítase la presente reforma al Ejecutivo del Estado para su promulgación, la cual entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 2007.
+
+PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, salvo las excepciones que se contengan en los artículos siguientes.
+
+TERCERO.- Las reformas a la Ley Orgánica del Poder Judicial del Estado, o en su caso la nueva Ley en la materia, deberán emitirse a más tardar dentro de los ciento ochenta días siguientes a partir de la publicación de las presentes reformas.
+
+CUARTO.- A más tardar el día treinta de junio del año dos mil siete, deberá ser remitido al Congreso del Estado y publicado en el Periódico Oficial del Estado, el Plan de Desarrollo Judicial a que hace mención el quinto párrafo del artículo 57 de estas reformas.
+
+QUINTO.- En la elección del próximo Presidente del Tribunal Superior de Justicia, será aplicable lo dispuesto por la fracción VI del artículo 63 de las presentes reformas, pudiendo ser elegible para esos efectos cualquiera de los Magistrados que integran el Tribunal, incluso quien en ese momento ejerza el cargo de Presidente.
+
+SEXTO.- La limitante prevista en el articulo 60 fracción VIII de estas reformas en relación a que para ser Magistrado se requiere no haber sido Consejero de la Judicatura durante el año previo a la fecha en que deba ser nombrado, no será aplicable al Juez que actualmente integra el Consejo de la Judicatura.
+
+SEPTIMO.- Los Jueces en funciones durarán en su cargo el término para el que fueron designados, previa evaluación podrán ser ratificados en los términos del artículo 62 de estas reformas, pudiendo ejercer el cargo hasta por quince años previas las ratificaciones respectivas, pero en ningún caso podrán ejercer su cargo por mas de quince años, los cuales se computarán a partir de la entrada en vigor de estas reformas.
+
+En su caso, el último periodo para el que sean ratificados deberá ajustarse al término máximo permitido para ocupar el cargo, por lo que dicho periodo podrá ser menor a cinco años.
+
+(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL ARTÍCULO OCTAVO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+OCTAVO.- EL CONGRESO DEL ESTADO DEBERÁ DESIGNAR POR MAYORÍA CALIFICADA UN CONSEJERO SUPERNUMERARIO DENTRO DE LOS CIENTO OCHENTA DÍAS SIGUIENTES A PARTIR DE LA ENTRADA EN VIGOR DE LAS PRESENTES REFORMAS, EL CUAL EJERCERÁ SUS FUNCIONES HASTA EL TREINTA Y UNO DE OCTUBRE DEL AÑO DOS MIL DIEZ.
+
+(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL ARTÍCULO NOVENO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+NOVENO.- LA INTEGRACIÓN DEL CONSEJO DE LA JUDICATURA A QUE SE REFIERE EL ARTÍCULO 64 DE ESTAS REFORMAS, DEBERÁ OBSERVARSE PARA EFECTOS DE LA CONFORMACIÓN DEL PRÓXIMO CONSEJO DE LA JUDICATURA, ES DECIR, EL QUE ENTRE EN FUNCIONES EL PRIMERO DE NOVIEMBRE DEL AÑO DOS MIL DIEZ.
+
+DE CONFORMIDAD CON LO ANTERIOR, LOS CONSEJEROS A LOS QUE HACE REFERENCIA LA FRACCIÓN III Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 64 SERÁN DESIGNADOS POR MAYORÍA CALIFICADA DE LOS DIPUTADOS INTEGRANTES DEL CONGRESO, Y POR ÚNICA OCASIÓN, EN LOS SIGUIENTES TÉRMINOS:
+
+A).- DOS CONSEJEROS SERÁN DESIGNADO (SIC) POR UN PERIODO DE SEIS AÑOS;
+
+B).- UN CONSEJERO SERÁ DESIGNADO POR UN PERIODO DE CUATRO AÑOS, Y
+
+C).- UN CONSEJERO SUPERNUMERARIO CUYA DESIGNACIÓN SERÁ POR UN PERIODO DE CUATRO AÑOS.
