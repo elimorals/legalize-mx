@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-2358
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2006-06-26"
+last_updated: "2007-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-22"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -194,7 +194,9 @@ V. Clausura Parcial: El acto administrativo a través del cual la autoridad comp
 
 VI. Clausura Temporal: El acto administrativo a través del cual la autoridad competente, como consecuencia de un incumplimiento a la normatividad correspondiente, suspende las actividades de un Establecimiento Mercantil por un tiempo determinado o en tanto se subsana el incumplimiento;
 
-VII. Declaración de Apertura: El acto administrativo por el cual la autoridad recibe la manifestación que hace una persona física o moral de que iniciará actividades comerciales en un Establecimiento Mercantil, una vez cumplidos los requisitos establecidos en las normas jurídicas aplicables;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+
+VII. Declaración de Apertura: El acto administrativo por el cual la autoridad competente recibe la manifestación que hace una persona física o moral de que iniciará actividades comerciales en un Establecimiento Mercantil determinado, presentada por medios electrónicos o directamente ante las Ventanillas Únicas o las de Gestión, una vez cumplidos los requisitos establecidos en las normas jurídicas aplicables;
 
 VIII. Demarcación Territorial: El órgano desconcentrado de la administración pública del Distrito Federal, también conocido como Delegación;
 
@@ -218,15 +220,31 @@ XVII. Reglamento: El Reglamento de la Ley para el Funcionamiento de Establecimie
 
 XVIII. Secretaría de Gobierno: La Secretaría de Gobierno del Distrito Federal;
 
-XIX. Titulares: Las personas físicas o morales que hayan obtenido Licencia de Funcionamiento, Declaración de Apertura, Autorización o Permiso;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
 
-XX. Traspaso: La transmisión que el Titular de una Licencia de Funcionamiento, Declaración de Apertura o Permiso haga de los derechos consignados a su favor a otra persona física o moral, siempre y cuando no se modifique la ubicación del establecimiento y el giro mercantil que la misma ampare;
+XIX. Secretaría de Desarrollo Económico: La Secretaría de Desarrollo Económico del Gobierno del Distrito Federal;
 
-XXI. Ventanilla de Gestión: Órgano administrativo de la Secretaría de Desarrollo Económico, instalado en las sedes de los organismos empresariales, donde se gestionan los trámites relacionados a la regulación del funcionamiento de los Establecimientos Mercantiles;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
 
-XXII. Ventanilla Única: Órgano adscrito a la Delegación del Distrito Federal, donde se gestionan los trámites concernientes al funcionamiento de los Establecimientos Mercantiles; y
+XX. Sistema: El sistema que permite a los particulares presentar, a través de medios electrónicos, los avisos en materia de establecimientos mercantiles;
 
-XXIII. Verificación: El acto administrativo por medio del cual la autoridad, a través de los servidores públicos autorizados para tales efectos, inspecciona las actividades que se realizan en los Establecimientos Mercantiles y comprueba el cumplimiento de las disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE FEBRERO DE 2007)</small>
+
+XXI. Titulares: Las personas físicas o morales que hayan obtenido Licencia de Funcionamiento, Declaración de Apertura, Autorización, Permiso o hayan registrado la Declaración de Apertura y demás Avisos para Establecimientos Mercantiles contemplados en la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE FEBRERO DE 2007)</small>
+
+XXII. Traspaso: La transmisión que el Titular de una Licencia de Funcionamiento, Declaración de Apertura o Permiso haga de los derechos consignados a su favor a otra persona física o moral, siempre y cuando no se modifique la ubicación del establecimiento, el giro mercantil y la superficie que la misma ampare;
+
+XXIII. Ventanilla de Gestión: Órgano administrativo de la Secretaría de Desarrollo Económico, instalado en las sedes de los organismos empresariales, donde se gestionan los trámites relacionados a la regulación del funcionamiento de los Establecimientos Mercantiles;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 2 DE FEBRERO DE 2007)</small>
+
+XXIV. Ventanilla Única: Órgano adscrito a la Delegación del Distrito Federal, donde se gestionan los trámites concernientes al funcionamiento de los Establecimientos Mercantiles; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 2 DE FEBRERO DE 2007)</small>
+
+XXV. Verificación: El acto administrativo por medio del cual la autoridad, a través de los servidores públicos autorizados para tales efectos, inspecciona las actividades que se realizan en los Establecimientos Mercantiles y comprueba el cumplimiento de las disposiciones jurídicas aplicables.
 
 ###### Artículo 3.
 
@@ -243,6 +261,14 @@ I. Coordinar, supervisar y evaluar el debido cumplimiento de las facultades y ob
 II. Instruir a la Delegación que lleve a cabo visitas de verificación, en los términos de la Ley; y
 
 III. Ordenar, mediante acuerdo que deberá publicar previamente en la Gaceta Oficial del Distrito Federal, y en al menos un diario de circulación nacional, la suspensión de actividades en los Establecimientos Mercantiles que operen alguno de los giros que requieran Licencia de Funcionamiento o Declaración de Apertura en fechas u horas determinadas, con el objeto de vigilar que no se alteren el orden y la seguridad pública.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
+###### Artículo 4 Bis.
+
+Corresponde a la Secretaría de Desarrollo Económico:
+
+I. Diseñar, instrumentar y administrar el Sistema que permita a los particulares utilizar medios electrónicos para realizar los trámites que correspondan a los establecimientos mercantiles señalados en los artículo (sic) 43 y 46 de la presente Ley, tomando en cuenta la opinión de las autoridades competentes con el propósito de agilizarlos, facilitarlos y simplificarlos.
 
 ###### Artículo 5.
 
@@ -334,7 +360,9 @@ XI. Los titulares de las Licencias de Funcionamiento Tipo B deberán colocar en 
 
 XII. Contar con un botiquín equipado con medicinas, material e instrumentos de curación necesarios para brindar primeros auxilios. En caso de reunir a más de 50 personas, entre clientes y empleados, contar con el personal capacitado para brindar dichos auxilios;
 
-XIII. Dar aviso por escrito a la Delegación del cambio de la denominación o nombre comercial del establecimiento, dentro de los 5 días hábiles siguientes en que se hubiese hecho el cambio;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+
+XIII. Dar aviso por escrito o a través de medios electrónicos a la autoridad competente, dentro de los 10 días hábiles siguientes a que se haya presentado cualquiera de las circunstancias previstas en el artículo 46 de la Ley;
 
 XIV. Contar con un programa interno de protección civil, de conformidad con la Ley de Protección Civil para el Distrito Federal vigente y su reglamento;
 
@@ -788,31 +816,45 @@ Queda expresamente prohibida la utilización de la vía pública para la prestac
 
 ### CAPÍTULO II. DE LA DECLARACION DE APERTURA
 
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 43.
 
-La Declaración de Apertura de los Establecimientos Mercantiles, se tramitará en el formato de aviso que al efecto proporcionen las Ventanillas Única o la de Gestión, y el interesado estará obligado a manifestar bajo protesta de decir verdad, los siguientes datos:
+La Declaración de Apertura de los Establecimientos Mercantiles, se podrá presentar a través de medios electrónicos o directamente ante las Ventanillas Únicas o de Gestión, en el formato de aviso que éstas proporcionen.
 
-I. Nombre y/o razón social del solicitante, domicilio, registro federal de contribuyentes y nacionalidad;
+El interesado en realizar el aviso de Declaración de Apertura estará obligado a manifestar, bajo protesta de decir verdad, los siguientes datos:
 
-II. En caso de ser extranjero, la documentación que acredite su legal estancia en el país, así como la Autorización por parte de la Secretaría de Gobernación;
+I. Nombre y/o Razón Social, fecha de nacimiento, domicilio y nacionalidad del solicitante;
 
-III. Si es persona moral, su representante legal acompañará el documento con el que acredite su personalidad, copia de una identificación oficial vigente con fotografía y copia certificada de la escritura constitutiva debidamente registrada o con registro en trámite;
+II. Registro Federal de Contribuyentes;
 
-IV. Ubicación y superficie del Establecimiento Mercantil del que se avisa la Declaración de Apertura;
+III. Número de folio y tipo de identificación oficial vigente con la que se identifique. Cuando la Declaración de Apertura se presente a través de medios electrónicos, el dato que se deberá proporcionar será la Clave de Elector, según credencial para votar;
 
-V. Giro mercantil del Establecimiento Mercantil;
+IV. Ubicación y superficie del Establecimiento Mercantil;
 
-VI. Los datos del documento por el que se ostenta la calidad jurídica de propietario o poseedor del inmueble;
+V. Denominación o nombre comercial del Establecimiento mercantil;
 
-VII. Denominación o nombre comercial del Establecimiento Mercantil;
+VI. Giro o actividad que pretende ejercer;
 
-VIII. Aquellos establecimientos cuya superficie sea mayor a 400 metros cuadrados, deberán contar con Visto Bueno de Seguridad y Operación expedido por un Director Responsable de Obra, en los casos de edificaciones construidas con anterioridad a agosto de 1993; o la Autorización de ocupación otorgada por la Delegación correspondiente, en los demás casos; y
+VII. Calidad de propietario o poseedor del inmueble, y
 
-IX. Documento que acredite que el establecimiento cuenta con los cajones de estacionamiento que instruyen para cada uso los programas delegacionales o parciales de desarrollo urbano y el reglamento de construcciones.
+En caso de ser extranjero:
+
+VIII. Señalará el tipo de documento con el que se acredite su legal estancia en el país, así como su fecha de vencimiento, el Número del Registro Nacional de Extranjeros y la actividad que esté autorizada a realizar;
+
+IX. Si es persona moral, su representante legal proporcionará el número de escritura constitutiva debidamente registrada o con el registro en trámite, fecha, Notaría y entidad federativa en la cual se llevó a cabo la constitución de la empresa, tipo de documento con el que el representante legal acredite su personalidad, número de Escritura Pública, fecha, Notaría y Entidad Federativa en la cual se otorga el Poder y la Clave de Elector de su Credencial para votar;
+
+X. El número de folio, fecha de recepción y número de registro del Director Responsable de Obra, contenidos en el Visto Bueno de Seguridad y Operación, en los casos en que el Reglamento de Construcciones establezca que se deba contar con este documento;
+
+XI. El número de cajones de estacionamiento que requiere el Establecimiento Mercantil, de conformidad a lo establecido para cada actividad en los programas delegacionales o parciales de desarrollo urbano y en las Normas Técnicas Complementarias para el Proyecto Arquitectónico del Reglamento de Construcciones, cuyo cumplimiento deberá estar respaldado mediante documento, conforme a lo establecido en el artículo 60 de la Ley; y
+
+XII. Número de folio de la autorización de impacto ambiental, en los casos en que la Ley Ambiental y/o el Reglamento de Impacto Ambiental y Riesgo del Distrito Federal establezcan que se deba contar con ese documento.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 44.
 
-El interesado estará obligado a acompañar al formato de Declaración de Apertura como único documento para acreditar el uso de suelo permitido, según sea el caso:
+Para acreditar que el uso de suelo permite el desarrollo de su actividad, el interesado estará obligado a acompañar al formato de Declaración de Apertura, original o copia certificada por la Secretaría de Desarrollo Urbano y Vivienda y copia simple para cotejo, de cualquiera de los siguientes documentos:
 
 I. Certificación de zonificación para uso específico; o
 
@@ -820,31 +862,73 @@ II. Certificación de zonificación para usos del suelo permitidos; o
 
 III. Certificación de acreditación de uso del suelo por derechos adquiridos.
 
-La Delegación no podrá requerir que se anexe documento alguno con motivo de la presentación de la Declaración de Apertura, salvo lo señalado en este artículo y en el artículo 43.
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
+La Delegación, por conducto de la Ventanilla Única, cotejara la copia simple con el original o copia certificada, devolviendo el documento presentado al interesado de manera inmediata.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
+La Delegación no podrá requerir que se anexe documento alguno con motivo de la presentación de la Declaración de Apertura, salvo lo señalado en este artículo y en el artículo 43, que será sólo para efectos de cotejo de los datos vertidos en el formato.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 45.
 
-La Declaración de Apertura se presentará ante la Delegación, a través de las Ventanillas Única o la de Gestión, la que se devolverá al interesado sellada en forma inmediata.
+Para efectos de cotejo de datos, el particular debe presentar en las ventanillas Únicas o de Gestión, los originales de los documentos a que se haga referencia en el formato de aviso de Declaración de Apertura.
 
-La Delegación podrá en todo momento verificar la validez de los datos y documentos que forman parte de la Declaración de Apertura.
+Una vez cotejados los datos, la declaración de apertura será sellada por la Ventanilla devolviéndola al interesado en forma inmediata, junto con los documentos originales.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
+###### Artículo 45 Bis.
+
+En caso de que la Declaración de Apertura se haya presentado a través de medios electrónicos, el Titular la suscribirá y podrá iniciar actividades inmediatamente.
+
+El interesado acudirá, dentro de los diez días hábiles siguientes al registro de la Declaración de Apertura, a la Ventanilla Única correspondiente a presentar dos tantos del formato debidamente suscrito, a fin de recabar el sello de la autoridad, anexando la documentación que se señala en el artículo 43, para efectos del cotejo de datos.
+
+Transcurrido el plazo establecido en el párrafo anterior, sin que el interesado acuda a la Ventanilla Única Delegacional a recabar el sello correspondiente, la Declaración de Apertura se tendrá por no presentada, y se cancelará su registro en el Sistema.
+
+El personal de la Ventanilla Única correspondiente, recibirá el formato presentado a través de medios electrónicos y previo cotejo que señala el artículo 45 lo sellará.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 46.
 
-Los Titulares que hubieran obtenido su Declaración de Apertura tendrán la obligación de notificar a la Delegación, dentro del término de 10 días hábiles, cuando se presente cualquiera de las siguientes circunstancias:
+Los titulares que hubieren realizado su Declaración de Apertura, tendrán la obligación de notificar a la Delegación, cuando se presente cualquiera de las siguientes circunstancias:
 
 I. Traspaso del Establecimiento Mercantil de que se trate;
 
-II. Modificación del domicilio del Establecimiento Mercantil, con motivo del cambio de nomenclatura del lugar en que se ubique; y
+II. Modificación del domicilio del Establecimiento Mercantil, con motivo del cambio de nomenclatura del lugar en que se ubique;
 
-III. Cambio de giro mercantil a que se dedica.
+III. Suspensión temporal o Cese Definitivo de Actividades;
+
+IV. Cambio de Giro Mercantil a que se dedica; y
+
+V. Cambio de Nombre o Denominación Comercial.
+
+Dicha notificación podrá llevarse a cabo ya sea directamente ante las Ventanillas Únicas o de Gestión o a través de medios electrónicos y tendrán que realizarse dentro del término de 10 días hábiles posteriores.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 47.
 
-Para el traspaso que señala la fracción I del artículo anterior, el interesado deberá acompañar a la solicitud copia certificada del documento traslativo de dominio y el original de la Declaración de Apertura anterior.
+En el caso del Aviso de Traspaso del Establecimiento Mercantil, sea cual fuere el medio por el cual éste sea ingresado, el interesado deberá proporcionar los datos que correspondan al documento traslativo de dominio. Al momento de su presentación en la Ventanilla Única, el Titular anexará a la solicitud el original de la Declaración de Apertura anterior. Además, el formato respectivo deberá contener las firmas del Titular anterior y actual del establecimiento, o bien, acompañarse de original o copia certificada del documento traslativo de dominio y copia simple para cotejo.
 
 ###### Artículo 48.
 
 El cambio de giro mercantil se podrá efectuar siempre y cuando se cumplan los requisitos que para cada giro establece la Ley.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
+Al momento de la presentación en la Ventanilla Única del Aviso de Cambio de Giro Mercantil, el interesado deberá acompañar al formato, original o copia certificada del documento con el que se acredite el uso de suelo permitido, así como copia simple para cotejo, devolviéndose el original al particular de manera inmediata.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
+###### Artículo 48 Bis.
+
+Cuando los avisos a que se refiere el artículo 46, sean presentados a través de medios electrónicos, el Titular o el representante Legal acudirá a la Ventanilla Única correspondiente dentro de los diez días hábiles siguientes al registro del aviso, a presentar dos tantos del formato debidamente suscrito, a fin de recabar el sello de la autoridad.
+
+Transcurrido el plazo establecido en el párrafo anterior, sin que el interesado acuda a la Ventanilla Única a recabar el sello correspondiente, el aviso realizado se tendrá por no presentado, y se cancelará su registro en el sistema.
 
 ###### Artículo 49.
 
@@ -1160,11 +1244,11 @@ El aseguramiento de bebidas se llevará a cabo con el traslado de las mismas al 
 
 Se sancionará con el equivalente de 25 a 125 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones IV, XII, XIII, XVII y XXII; 10 fracción II; 34 párrafos primero y segundo; 35 fracciones I, II III y VI; 42 fracciones I y III; 46 fracción II; 65 fracciones IV y V y 66 de la Ley.
 
-> <small>(REFORMADO, G.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 74.
 
-Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones II, III, VIII, XI, XII, XIV, XV, XVI primer párrafo, XIX, XX y XXI; 10 fracciones IV, VI, VII y XIII; 12; 22; 35 fracciones IV y V; 40 segundo párrafo; 42 fracciones II y IV; 46 fracciones I y III; 50; 54 ; 55 fracción V; 58; 59 fracciones I, II y V; 60; 62; 65 fracciones II, III, VI y VII, 67; de la Ley.
+Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 9 fracciones II, III, VIII, XI, XII, XIV, XV, XVI primer párrafo, XIX, XX y XXI; 10 fracciones IV, VI, VII y XIII; 12; 22; 35 fracciones IV y V; 40 segundo párrafo; 42 fracciones II y IV; 46 fracciones I, IV y V; 50; 54 ; 55 fracción V; 58; 59 fracciones I, II y V; 60; 62; 65 fracciones II, III, VI y VII, 67; de la Ley.
 
 > <small>(REFORMADO, G.O. 14 DE MAYO DE 2002)</small>
 
@@ -1186,13 +1270,17 @@ I. Por carecer de Licencia de Funcionamiento o Autorización para la operación 
 
 II. Cuando se haya revocado la Autorización, la Declaración de Apertura o la Licencia de Funcionamiento;
 
-III. Por realizar actividades sin haber tramitado la Declaración de Apertura;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+
+III. Por realizar actividades sin contar con la Declaración de Apertura correspondiente en términos de lo dispuesto por los artículo 45 y 45 bis;
 
 IV. Cuando no se acate el horario autorizado por esta Ley, y no se cumpla con las restricciones al horario o suspensiones de actividades en fechas determinadas por la Secretaría de Gobierno;
 
 V. Por realizar actividades diferentes a las declaradas en la Licencia de Funcionamiento, Declaración de Apertura o en las Autorizaciones;
 
-VI. Cuando no se acredite que el establecimiento cuenta con los cajones de estacionamiento que instruyen para cada uso los Programas Delegacionales o Parciales de Desarrollo Urbano y el Reglamento de Construcciones;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+
+VI. Cuando no se acredite que el establecimiento cuenta con los cajones de estacionamiento que instruyen para cada uso los Programas Delegacionales o Parciales de Desarrollo Urbano y las Normas Técnicas Complementarias para el Proyecto Arquitectónico del Reglamento de Construcciones;
 
 VII. Por haber obtenido la Licencia de Funcionamiento, la Declaración de Apertura, o la Autorización, mediante la exhibición y/o declaración de documentos o datos falsos;
 
@@ -1202,7 +1290,9 @@ VIII. Cuando se manifiesten datos falsos en el aviso de revalidación de Licenci
 
 IX. Cuando con motivo de la operación de algún giro mercantil, se ponga en peligro el orden público, la salud, la seguridad de la personas o interfiera la protección civil;
 
-X. Cuando sea falso el documento con el que se acredite que el establecimiento cuenta con los cajones de estacionamiento que instruyen para cada uso los programas delegacionales o parciales de desarrollo urbano y el reglamento de construcciones;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+
+X. Cuando sea falso el documento con el que se acredite que el establecimiento cuenta con los cajones de estacionamiento que instruyen para cada uso los programas delegacionales o parciales de desarrollo urbano y las Normas Técnicas Complementarias para el Proyecto Arquitectónico del Reglamento de Construcciones;
 
 XI. Cuando no se permita el acceso a las instalaciones a todo usuario respetando el orden de llegada; y
 
@@ -1395,3 +1485,13 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su entrada 
 G.O. 26 DE JUNIO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 2 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes Reformas y Adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- En tanto no se publique el Reglamento de la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal, y por lo que se refiere al procedimiento para llevar a cabo aclaraciones, modificaciones y/o cancelaciones de los avisos que se presenten a través de medios electrónicos, seguirá vigente el Acuerdo por el que se reforman y adicionan disposiciones por el que se establecen acciones de simplificación administrativa para la apertura de Establecimientos Mercantiles en el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el día 24 de septiembre del 2004.
+
+CUARTO.- En tanto no sean publicadas las modificaciones al formato de Aviso de Declaración de Apertura para Establecimiento Mercantil, se utilizará el formato VU-EM-06-RA del Aviso de Declaración de Apertura para Establecimiento Mercantil vía Internet, publicado en la Gaceta Oficial del Distrito Federal el 30 de junio del 2004, junto con el cual los titulares deberán presentar ante las Ventanillas Únicas o las de Gestión, la documentación que sustente la información vertida en el formato, únicamente para el cotejo de los datos y anexando el documento que acredite que el uso de suelo permite el desarrollo de la actividad que se pretende, en copia simple y el original o copia certificada por la Secretaría de Desarrollo Urbano y Vivienda para cotejo.
