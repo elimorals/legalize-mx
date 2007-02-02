@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2007-01-17"
+last_updated: "2007-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE FEBRERO DE 2007.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1388,21 +1388,13 @@ Si la retención o sustracción se realiza en contra de una persona menor de doc
 
 Si la sustracción tiene como propósito incorporar a la persona a círculos de corrupción de menores o traficar con sus órganos, las penas se aumentarán en un tanto.
 
-> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTÍCULO 173.
 
-Se impondrá de uno a cinco años de prisión y de cien a quinientos días de multa, al ascendiente, descendiente, pariente colateral o afín hasta el cuarto grado, que retenga o sustraiga a un menor o incapaz, en los siguientes casos:
+Se impondrá de uno a cinco años de prisión y de cien a quinientos días de multa, al ascendiente, descendiente, cónyuge, pariente colateral o afín hasta el cuarto grado, que retenga o sustraiga a un menor o incapaz y que sobre éste no ejerza la patria potestad, la tutela o mediante resolución judicial no ejerza la guarda y custodia.
 
-I. Que haya perdido la patria potestad o ejerciendo ésta se encuentre suspendido o limitado;
-
-II. No tenga la guarda y custodia provisional o definitiva o la tutela sobre él;
-
-III. No permita las convivencias decretadas por resolución judicial; o
-
-IV. Teniendo la guarda y custodia compartida, no devuelva al menor en los términos de la resolución que se haya dictado para ello.
-
-Este delito se perseguirá por querella.
+Cuando el sujeto devuelva espontáneamente al menor o al incapaz, dentro de las veinticuatro horas siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones señaladas.
 
 ## TÍTULO QUINTO. DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUALES Y EL NORMAL DESARROLLO PSICOSEXUAL
 
@@ -2680,13 +2672,11 @@ Se le impondrá de seis meses a tres años de prisión al que por medio de la vi
 
 La pena será de uno a cinco años de prisión, cuando la desobediencia o resistencia sea a un mandato judicial o al cumplimiento a una sentencia.
 
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 284.
 
 Cuando la ley autorice el empleo de medidas de apremio para hacer efectivos los mandatos de la autoridad, la consumación de los delitos de desobediencia y resistencia de particulares, se producirá en el momento en que se agote el empleo de tales medidas de apremio.
-
-> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
-
-Con excepción de los casos previstos en el artículo 73 Bis del Código de Procedimientos Civiles del Distrito Federal.
 
 ### CAPÍTULO VI. RESPONSABILIDAD DE LOS DIRECTORES RESPONSABLES DE OBRA O CORRESPONSABLES
 
@@ -3843,5 +3833,11 @@ CUATRO.- El Jefe de Gobierno del Distrito Federal expedirá el Reglamento que re
 G.O. 17 DE ENERO DE 2007.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 2 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
