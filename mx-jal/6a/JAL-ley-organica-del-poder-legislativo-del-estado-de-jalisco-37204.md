@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2007-01-13"
+last_updated: "2007-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -45,7 +45,9 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
 
 1. Esta ley es de orden e interés público y tiene por objeto establecer la organización y el funcionamiento del Poder Legislativo del Estado de Jalisco conforme a las atribuciones que le señala la Constitución Política del Estado.
 
-2. Las reformas, adiciones, derogación o abrogación de la Ley Orgánica del Poder Legislativo y sus disposiciones reglamentarias, requieren de mayoría calificada y no son objeto de observaciones por parte del Gobernador del Estado, de conformidad a lo dispuesto por la Constitución Política del Estado de Jalisco, por lo que una vez aprobadas por la Asamblea deben enviarse para su publicación de forma inmediata en el órgano de difusión oficial del Poder Legislativo, denominado Gaceta Legislativa.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2007)</small>
+
+2. Las reformas, adiciones, derogación o abrogación de la Ley Orgánica del Poder Legislativo y sus disposiciones reglamentarias, requieren de mayoría calificada y no son objeto de observaciones por parte del Gobernador del Estado, de conformidad a lo dispuesto por la Constitución Política del Estado de Jalisco, por lo que una vez aprobadas por la Asamblea deben enviarse para su publicación en el periódico oficial "El Estado de Jalisco."
 
 ###### Artículo 2.
 
@@ -1097,59 +1099,141 @@ I. Administración;
 
 II. Asuntos Electorales;
 
-III. Asuntos indígenas;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-IV. Cultura;
+III. Asuntos Indígenas;
 
-V. Derechos Humanos;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-VI. Desarrollo Agrícola y Forestal;
+IV. Asuntos Metropolitanos;
 
-VII. Desarrollo Económico y Fomento Cooperativo;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-VIII. Desarrollo Humano;
+V. Asuntos Migratorios;
 
-IX. Ganadería;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-X. Desarrollo Urbano;
+VI. Ciencia y Tecnología;
 
-XI. Educación, Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-XII. Equidad de Género;
+VII. Cultura;
 
-XIII. Fomento Artesanal;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-XIV. Gobernación y Fortalecimiento Municipal;
+VIII. Derechos Humanos;
 
-XV. Hacienda y Presupuestos;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-XVI. Higiene y Salud Pública;
+IX. Desarrollo Agrícola;
 
-XVII. Inspección;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-XVIII. Juventud y Deporte;
+X. Desarrollo Económico;
 
-XIX. Justicia;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-XX. Medio Ambiente, Desarrollo Sustentable y Recursos Hidráulicos;
+XI. Desarrollo Forestal;
 
-XXI. Participación Ciudadana y Acceso a la Información Pública;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-XXII. Planeación Para el Desarrollo;
+XII. Desarrollo Humano;
 
-XXIII. Puntos Constitucionales, Estudios Legislativos y Reglamentos;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-XXIV. Readaptación Social;
+XIII. Desarrollo Municipal;
 
-XXV. Responsabilidades;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-XXVI. Seguridad Pública y Protección Civil;
+XIV. Desarrollo Regional;
 
-XXVII. Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-XXVIII. Turismo; y
+XV. Desarrollo Urbano;
 
-XXIX. Vialidad, Transporte y Comunicaciones
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XVI. Educación;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XVII. Equidad de Género;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XVIII. Fomento Artesanal;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XIX. Ganadería;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XX. Gobernación;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXI. Hacienda y Presupuestos;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXII. Higiéne y Salud Pública;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXIII. Inspección;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXIV. Justicia;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXV. Juventud y deporte;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXVI. Medio Ambiente y Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXVII. Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXVIII. Planeación para el Desarrollo
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXIX. Puntos Constitucionales, Estudios Legislativos y Reglamentos;
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXX. Readaptación Social;
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXXI. Recursos Hidráulicos y Pesca;
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXXII. Responsabilidades;
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXXIII. Seguridad Pública y Protección Civil;
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXXIV. Trabajo y Previsión Social;
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXXV. Turismo; y
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+XXXVI. Vialidad, Transporte y Comunicaciones.
 
 ###### Artículo 74.
 
@@ -1199,6 +1283,38 @@ II. La creación de organismos públicos que tengan como objetivos la protecció
 
 III. Los planes y programas de difusión de la cultura indígena del Estado.
 
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2007)</small>
+
+Artículo 77 A.
+
+1. Corresponde a la Comisión de Asuntos Metropolitanos, el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+
+l. La legislación en materia de servicios para el área conurbada de Guadalajara y asuntos Metropolitanos;
+
+II. La declaración de Municipios que pertenezcan a zonas conurbadas para su mejor ubicación y atención de asuntos que interesen a los Ayuntamientos integrantes; y
+
+III. Las políticas, programas y proyectos sobres asuntos Metropolitanos.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2007)</small>
+
+Artículo 77 B.
+
+1. Corresponde a la Comisión de Asuntos Migratorios el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+
+I. La legislación en materia de atención a migrantes; y
+
+II. En coordinación con las autoridades federales, el fomento y seguimiento a planes y programas de atención a migrantes.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2007)</small>
+
+Artículo 77 C.
+
+1. Corresponde a la Comisión de Ciencia y Tecnología el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+
+I. La legislación relacionada con la ciencia y tecnología en el ámbito estatal; y
+
+II. Las políticas, planes y programas; así como asuntos relativos al fomento de la Ciencia y la Tecnología en el Estado o para los Jaliscienses.
+
 ###### Artículo 78.
 
 1. Corresponde a la Comisión de Cultura el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
@@ -1225,27 +1341,43 @@ III. La revisión de la legislación, con el objeto de establecer propuestas ten
 
 IV. Las políticas planes y programas para el fortalecimiento de los Derechos Humanos.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 80.
 
-1. Corresponde a la Comisión de Desarrollo Agrícola y Forestal el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+1. Corresponde a la Comisión de Desarrollo Agrícola el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-I. La legislación en materia de desarrollo agrícola y forestal;
+I. La legislación en materia de desarrollo agrícola;
 
-II. Los planes y programas que se celebren para la conservación, protección y aprovechamiento de los recursos agrícolas y forestales, con base en la legislación aplicable y en los convenios que de la misma se deriven;
+II. Los planes y programas que se celebren para la conservación, protección y aprovechamiento de los recursos agrícolas, con base en la legislación aplicable y en los convenios que de la misma se deriven;
 
 III. La legislación competente en materia de Pesca; y
 
 IV. Los planes y programas del ramo pesquero que sean competencia de la entidad.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 81.
 
-1. Corresponde a la Comisión de Desarrollo Económico y Fomento Cooperativo el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+1. Corresponde a la Comisión de Desarrollo Económico el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-I. La legislación en materia de desarrollo y promoción económico integral y de fomento cooperativo;
+I. La legislación en materia de desarrollo y promoción económico integral;
 
-II. Los planes y programas de desarrollo económico y fomento cooperativo; y
+II. Los planes y programas de desarrollo económico; y
 
 III. Las políticas, programas y proyectos de apoyo financiero a las actividades para el desarrollo económico del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2007)</small>
+
+Artículo 81 A.
+
+1. Corresponde a la Comisión de Desarrollo Forestal el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+
+I. La legislación en materia forestal;
+
+II. Los planes y programas de desarrollo forestal; y
+
+III. Las políticas, programas y proyectos de apoyo financiero a las actividades para el desarrollo forestal del Estado.
 
 ###### Artículo 82.
 
@@ -1254,6 +1386,30 @@ III. Las políticas, programas y proyectos de apoyo financiero a las actividades
 I. La legislación en materia de asistencia social y desarrollo humano; y
 
 II. La normatividad, las políticas, planes y programas de desarrollo humano y asistencial para la familia y grupos vulnerables en el ámbito estatal.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2007)</small>
+
+Artículo 82 A.
+
+1. Corresponde a la Comisión de Desarrollo Municipal el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+
+I. La denominación de los municipios y localidades que los compongan, así como elevar de categoría a estas últimas;
+
+II. La calificación de las causales para la procedencia del trámite de desintegración de ayuntamientos y suspensión o revocación del mandato a alguno de sus miembros;
+
+III. El fortalecimiento y consolidación del Municipio Libre como nivel de gobierno.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2007)</small>
+
+Artículo 82 B.
+
+1. Corresponde a la Comisión de Desarrollo Regional el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+
+I. La legislación en materia de desarrollo regional en el Estado;
+
+II. Los planes y programas de desarrollo regional en el Estado; y
+
+III. Las políticas, programas y proyectos de apoyo financiero a las actividades para el desarrollo Regional en el Estado.
 
 ###### Artículo 83.
 
@@ -1271,17 +1427,17 @@ V. Los planes y programas, estatales y municipales, en materia de desarrollo urb
 
 VI. La intervención en la regularización de la tenencia de la tierra urbana.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 84.
 
-1. Corresponde a la Comisión de Educación, Ciencia y Tecnología el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+1. Corresponde a la Comisión de Educación el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
 I. La legislación en materia de educación, así como de los asuntos relacionados con el Sistema Educativo Estatal;
 
-II. La normatividad relacionada con medios de comunicación en el ámbito educativo estatal, en los términos de la Ley de Educación para el Estado de Jalisco;
+II. La normatividad relacionada con medios de comunicación en el ámbito educativo estatal, en los términos de la Ley de Educación para el Estado de Jalisco; y
 
-III. La legislación relacionada con la ciencia y tecnología en el ámbito estatal; y
-
-IV. Las políticas, planes y programas para el fortalecimiento de la Educación, incluyendo la infraestructura, en todos sus niveles.
+III. Las políticas, planes y programas para el fortalecimiento de la Educación, incluyendo la infraestructura, en todos sus niveles.
 
 ###### Artículo 85.
 
@@ -1307,25 +1463,21 @@ I. La legislación en materia pecuaria; y
 
 II. Las políticas, planes y programas de desarrollo pecuario que sean de competencia del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 88.
 
-1. Corresponde a la Comisión de Gobernación y Fortalecimiento Municipal el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+1. Corresponde a la Comisión de Gobernación el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-I. La división territorial, política y administrativa del Estado;
+I. La designación, nombramiento, elección, licencia, remoción o renuncia de los servidores públicos que de acuerdo a la Constitución Política del Estado y las leyes, deba conocer la Asamblea y no estén encomendados expresamente a otra comisión;
 
-II. La denominación de los municipios y localidades que los compongan, así como elevar de categoría a estas últimas;
+II. Los cambios de residencia provisional o definitiva de los poderes del Estado o del Recinto Oficial del Congreso del Estado;
 
-III. La designación, nombramiento, elección, licencia, remoción o renuncia de los servidores públicos que de acuerdo a la Constitución Política del Estado y las leyes, deba conocer la Asamblea y no estén encomendados expresamente a otra comisión;
+III. El proceso de investir al Ejecutivo de facultades extraordinarias o especiales, cuando se hiciere necesario, así como la aprobación de los actos de ese Poder en el ejercicio de ellas;
 
-IV. Los cambios de residencia provisional o definitiva de los poderes del Estado o del Recinto Oficial del Congreso del Estado;
+IV. La calificación de las causales para la procedencia del trámite de desintegración de ayuntamientos y suspensión o revocación del mandato a alguno de sus miembros; y
 
-V. El proceso de investir al Ejecutivo de facultades extraordinarias o especiales, cuando se hiciere necesario, así como la aprobación de los actos de ese Poder en el ejercicio de ellas;
-
-VI. La calificación de las causales para la procedencia del trámite de desintegración de ayuntamientos y suspensión o revocación del mandato a alguno de sus miembros;
-
-VII. Las facultades del Ejecutivo para que por sí o por apoderado especial represente al Estado en aquellos casos en que la ley lo requiera, así como para celebrar convenios con las demás entidades federativas vecinas respecto de las cuestiones de límites y sobre la ratificación de estos convenios, si es el caso; y
-
-VIII. El fortalecimiento y consolidación del Municipio Libre como nivel de gobierno.
+V. Las facultades del Ejecutivo para que por si o por apoderado especial represente al Estado en aquellos casos en que la ley lo requiera, así como para celebrar convenios con las demás entidades federativas vecinas respecto de las cuestiones de límites y sobre la ratificación de estos convenios.
 
 ###### Artículo 89.
 
@@ -1423,23 +1575,29 @@ I. La legislación en materia de apoyo a la juventud y fomento al deporte; y
 
 II. Las políticas, planes y programas proyectos de promoción, atención, difusión y fortalecimiento del deporte y apoyo a la juventud;
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 94.
 
-1. Corresponde a la Comisión de Medio Ambiente, Desarrollo Sustentable y Recursos Hidráulicos el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+1. Corresponde a la Comisión de Medio Ambiente y Desarrollo Sustentable el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
 I. La legislación en materia ambiental;
 
 II. La conservación, preservación y restauración del ambiente en la búsqueda del desarrollo sustentable en el Estado de Jalisco;
 
-III. Las políticas, planes y programas que se celebren para la conservación, protección, restauración y aprovechamiento de los recursos hidrológicos, con base en la legislación de la materia; y
+III. Las políticas, planes y programas que se celebren para la conservación, protección, restauración, con base en la legislación de la materia ambiental; y
 
 IV. La prevención, control y combate de la contaminación, en el ámbito de competencia del Estado y sus municipios.
 
 ###### Artículo 95.
 
-1. Corresponde a la Comisión de Participación Ciudadana y Acceso a la Información Pública el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2007)</small>
 
-I. La legislación en materia de participación ciudadana y acceso a la Información Pública;
+1. Corresponde a la Comisión de Participación Ciudadana el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+
+I. La legislación en materia de participación ciudadana;
 
 II. Los asuntos planteados por los particulares que requieran dictamen de comisión legislativa y que no sean de competencia expresa de las demás comisiones designadas por el Congreso del Estado;
 
@@ -1486,6 +1644,16 @@ I. La legislación en materia de readaptación social y penitenciaria;
 II. La regulación de los sistemas integrales de tratamiento penal y funcionamiento de las instancias de prevención y readaptación social; y
 
 III. Las políticas, planes y programas tendientes al fortalecimiento de la readaptación social.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2007)</small>
+
+Artículo 98 A.
+
+1. Corresponde a la Comisión de Recursos Hidráulicos y Pesca el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+
+I. La legislación en materia de recursos hidráulicos y pesca; y
+
+II. Las políticas, planes y programas que se celebren para la conservación, protección, restauración y aprovechamiento de los recursos hidrológicos y de pesca, con base en la legislación de la materia.
 
 ###### Artículo 99.
 
@@ -2794,3 +2962,7 @@ SEGUNDO. El reglamento de la Ley de Planeación para el Estado de Jalisco y sus 
 P.O. 13 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE FEBRERO DE 2007.
+
+ÚNICO. EI presente decreto entrará en vigor el mismo día de su publicación en el periódico oficial "El Estado de Jalisco."
