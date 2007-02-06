@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2006-12-22"
+last_updated: "2007-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 2007.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -687,7 +687,9 @@ II. Resolver los procedimientos administrativos de responsabilidad en contra de 
 
 III. Auxiliar al Consejo en sus funciones de apercibir y amonestar a los magistrados de circuito y jueces de distrito;
 
-IV. Someter a consideración del Pleno la imposición de multas a aquellas personas que falten el respeto a algún órgano o miembro del Poder Judicial de la Federación, en las promociones que presenten con motivo de denuncias o quejas administrativas que sean de su competencia, así como a aquellas que promuevan sin motivo procedimientos administrativos de responsabilidad;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL DIVERSO ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO; ASI COMO EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 6 DE FEBRERO DE 2007)</small>
+
+IV. Resolver lo relativo a la imposición de multas a aquellas personas que falten al respeto a algún órgano o miembro del Poder Judicial de la Federación en las promociones que presenten con motivo de denuncias o quejas administrativas, así como a quienes promuevan sin motivo procedimientos administrativos de responsabilidad;
 
 V. Someter a consideración del Pleno, para su aprobación definitiva, los proyectos de resolución de las quejas administrativas que deban declararse fundadas, de las denuncias en las que se encuentre acreditada alguna causa de responsabilidad, de aquellos procedimientos administrativos de responsabilidad que por su trascendencia se considere que debe ser el Pleno quien conozca de ellos o en los que se imponga multa al promovente, a su representante o a ambos; o bien, en los que no se haya llegado a un consenso en la Comisión de Disciplina, o el logrado sea contrario al proyecto presentado por el ponente;
 
@@ -3332,3 +3334,11 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
+
+D.O.F. 6 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo y al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial, según corresponda.
