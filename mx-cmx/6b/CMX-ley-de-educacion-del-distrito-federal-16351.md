@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2006-10-13"
+last_updated: "2007-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACION DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -1442,11 +1442,9 @@ Túrnese la presente Ley al Jefe de Gobierno del Distrito Federal para su debida
 
 Las disposiciones de la presente Ley, relativas a la educación inicial, básica -incluyendo la indígena- y especial, entrarán en vigor una vez que se derogue el artículo cuarto transitorio de la Ley General de Educación.
 
-> <small>(ADICIONADO, G.O. 13 DE OCTUBRE DE 2006)</small>
-
 ###### ARTÍCULO CUARTO.
 
-En tanto se derogue el artículo cuarto transitorio de la Ley General de Educación, las facultades que esta ley le confiere a la Secretaría de Educación del Distrito Federal, corresponderán a la Secretaría de Desarrollo Social del Gobierno del Distrito Federal.
+(DEROGADO, G.O. 6 DE FEBRERO DE 2007)
 
 > <small>(ADICIONADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -1463,3 +1461,17 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda
 G.O. 13 DE OCTUBRE DE 2006.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+
+G.O. 6 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El personal que de una dependencia que, en aplicación del presente decreto, se transfiera a otra, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con la administración pública local del Distrito Federal. Si por cualquier circunstancia algún grupo de trabajadores resultare afectado con la aplicación del presente Decreto, se dará previamente intervención a la Oficialía Mayor del Distrito Federal y a las organizaciones sindicales respectivas.
+
+CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes anteriores a la vigencia del presente decreto pase, con motivo de éste, a otra Dependencia, el traspaso se hará incluyendo al personal de servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que la Unidad Administrativa de que se trate haya utilizado para la atención de los asuntos a su cargo.
+
+QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
+
+SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
