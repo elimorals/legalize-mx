@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2005-05-16"
+last_updated: "2007-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -41,8 +41,6 @@ LEY
 LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
 
 DECRETA
-
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO DE FECHA 16 DE MAYO DE 2005, POR LA TERCERA LEGISLATURA, MODIFICO DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL DEL 23 DE MAYO DE 2000, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 16 DE MAYO DE 2005.</small>
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
@@ -78,7 +76,9 @@ X. Fomentar las más diversas formas de participación ciudadana con relación a
 
 XI. Profundizar el reconocimiento de la presencia indígena y la diversidad cultural de la ciudad y en el desarrollo de relaciones de convivencia interculturales;
 
-XII. Articular el desarrollo social y el urbano;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+XII. Articular el desarrollo social, el urbano y el rural;
 
 XIII. Coadyuvar al reconocimiento y ejercicio del derecho a la ciudad;
 
@@ -304,7 +304,9 @@ II. El titular de la Secretaría, quien fungirá como Secretario Ejecutivo del m
 
 III. Un servidor público de la Secretaría quien fungirá como Secretario Técnico;
 
-IV. Los titulares de la Secretaría de Desarrollo Urbano y Vivienda; de Desarrollo Económico; de Salud; de Obras y Servicios Públicos; de Medio Ambiente; de Finanzas; de la Subsecretaría de Trabajo; de Coordinación de Planeación del Desarrollo Territorial, del Instituto de las Mujeres, del Instituto de la Juventud, de la Procuraduría Social y del Sistema para el Desarrollo Integral de la Familia del Distrito Federal;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+IV. Los titulares de la Secretaría de Desarrollo Urbano y Vivienda; de Desarrollo Económico; de Salud; de Desarrollo Rural y Equidad para las Comunidades; de Obras y Servicios Públicos; de Medio Ambiente; de Finanzas; de Trabajo y Fomento al Empleo; de Coordinación de Planeación del Desarrollo Territorial, del Instituto de las Mujeres, del Instituto de la Juventud, de la Procuraduría Social y del Sistema para el Desarrollo Integral de la Familia del Distrito Federal;
 
 V. Tres diputados designados por la Asamblea Legislativa; de entre los miembros de las Comisiones relacionadas con el Desarrollo Social; y
 
@@ -321,6 +323,10 @@ VI. Tres representantes de cada uno de los siguientes sectores:
 — Grupos Empresariales, y
 
 VII. Un representante de cada uno de los Consejos Delegacionales de Desarrollo Social.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
+En caso de empate, el Jefe de Gobierno tendrá voto de calidad.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -456,7 +462,9 @@ I. El Jefe de Gobierno, quien la presidirá;
 
 II. La Secretaría, quien tendrá a cargo la coordinación ejecutiva y sustituirá al Jefe de Gobierno en sus ausencias;
 
-III. Los titulares de la Secretaria de Gobierno, Desarrollo Urbano y Vivienda; de Desarrollo Económico; de Obras y Servicios; de Salud; de Finanzas; de Medio Ambiente; el Subsecretario de Trabajo y Previsión Social, el Procurador Social y el Director General del Sistema para el Desarrollo Integral de la Familia en el Distrito Federal; y
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+III. Los titulares de la Secretaria de Gobierno, Desarrollo Urbano y Vivienda; de Desarrollo Económico; de Obras y Servicios; de Salud; de Desarrollo Rural y Equidad para las Comunidades; de Finanzas; de Medio Ambiente; de Trabajo y Fomento al Empleo, el Procurador Social y el Director General del Sistema para el Desarrollo Integral de la Familia en el Distrito Federal; y
 
 IV. Los titulares de las Delegaciones, quienes podrán ser suplidos por los Directores Generales de Desarrollo Social.
 
@@ -799,3 +807,17 @@ SEGUNDO.- La presente Iniciativa de Decreto que Reforma, Adiciona y Deroga Diver
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al contenido de la presente Iniciativa de Decreto que Reforma, Adiciona y Deroga Diversas Disposiciones a la Ley de Desarrollo Social para el Distrito Federal.
 
 CUARTO.- A más tardar en noventa días naturales posteriores a la entrada en vigencia de la presente Iniciativa de Decreto que Reforma, Adiciona y Deroga Diversas Disposiciones a la Ley de Desarrollo Social para el Distrito Federal deberán instalarse el Consejo de Desarrollo Social y los Consejos Delegacionales de Desarrollo Social.
+
+G.O. 6 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El personal que de una dependencia que, en aplicación del presente decreto, se transfiera a otra, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con la administración pública local del Distrito Federal. Si por cualquier circunstancia algún grupo de trabajadores resultare afectado con la aplicación del presente Decreto, se dará previamente intervención a la Oficialía Mayor del Distrito Federal y a las organizaciones sindicales respectivas.
+
+CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes anteriores a la vigencia del presente decreto pase, con motivo de éste, a otra Dependencia, el traspaso se hará incluyendo al personal de servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que la Unidad Administrativa de que se trate haya utilizado para la atención de los asuntos a su cargo.
+
+QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
+
+SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
