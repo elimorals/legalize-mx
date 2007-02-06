@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cooperativo-para-la-ciudad-de-mexico-antes-47952
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-20"
-last_updated: "2006-01-20"
+last_updated: "2007-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47952&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-01-06"
 
 LEY DE FOMENTO COOPERATIVO PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de enero de 2006.
 
@@ -150,11 +150,13 @@ Son supletorias de la presente Ley, en materia administrativa, las disposiciones
 
 ### CAPITULO SEGUNDO. De las Autoridades en Materia de Fomento Cooperativo del Distrito Federal
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 7.
 
 Autoridades competentes
 
-La organización y distribución de los negocios del orden administrativo en los términos de esta ley, corresponde al Jefe de Gobierno del Distrito Federal, a la Secretaría de Gobierno por medio de la Subsecretaría de Trabajo y Previsión Social, a la Secretaría de Desarrollo Económico, a la Secretaría de Desarrollo Social, a la Secretaría de Finanzas y a los Jefes Delegacionales en la forma y términos que determinen las Leyes correspondientes.
+La organización y distribución de los negocios del orden administrativo en los términos de esta ley, corresponde al Jefe de Gobierno del Distrito Federal, a la Secretaría de Trabajo y Fomento al Empleo, a la Secretaría de Desarrollo Económico, a la Secretaría de Desarrollo Social, a la Secretaría de Finanzas y a los Jefes Delegacionales en la forma y términos que determinen las Leyes correspondientes.
 
 ###### Artículo 8.
 
@@ -178,7 +180,9 @@ Atribuciones específicas
 
 Corresponde a las siguientes Secretarías, sin perjuicio de lo dispuesto en otros ordenamientos, lo siguiente:
 
-A) A la Secretaría de Gobierno a través de su Subsecretaría de Trabajo y Previsión Social:
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
+A) A la Secretaría de Trabajo y Fomento al Empleo;
 
 I. Formular, difundir y ejecutar las políticas y programas de fomento cooperativo en el Distrito Federal;
 
@@ -244,7 +248,9 @@ III. Acciones de difusión del cooperativismo, para acrecentar la conciencia y m
 
 IV. Acciones de capacitación y adiestramiento para la formación de personas aptas para desarrollar empresas sociales;
 
-V. Acciones de apoyo diverso para la organización, la protección y el impulso de los modos tradicionales solidarios de producción colectiva, de las culturas indígenas, populares y de las demás comunidades originarias y residentes en el Distrito Federal;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+V. Acciones de apoyo diverso para la organización, la protección y el impulso de los modos tradicionales solidarios de producción colectiva, de las culturas indígenas, populares y de las demás comunidades rurales, originarias y residentes en el Distrito Federal;
 
 VI. Acciones de cooperación en materia cooperativa con la federación, los estados y municipios, y con otros países u organismos internacionales públicos y privados;
 
@@ -278,11 +284,13 @@ Son materia de protección y consolidación en los términos de la presente Ley,
 
 ### CAPITULO CUARTO. De la Formación Cooperativa
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 16.
 
 Convenios de formación
 
-Las autoridades señaladas en esta Ley podrán celebrar convenios de todo tipo con instituciones autorizadas legalmente para la capacitación académica o técnica de los cooperativistas residentes en el Distrito Federal, para lo cual se preferirán en igualdad de circunstancias a las cooperativas que registren sus programas y proyectos ante la Subsecretaría de Trabajo y Previsión Social.
+Las autoridades señaladas en esta Ley podrán celebrar convenios de todo tipo con instituciones autorizadas legalmente para la capacitación académica o técnica de los cooperativistas residentes en el Distrito Federal, para lo cual se preferirán en igualdad de circunstancias a las cooperativas que registren sus programas y proyectos ante la Secretaría de Trabajo y Fomento al Empleo.
 
 ###### Artículo 17.
 
@@ -389,3 +397,19 @@ QUINTO.- El Gobierno del Distrito Federal instrumentando el cumplimiento de la R
 Recinto de la Asamblea Legislativa del Distrito Federal, a los cuatro días del mes de octubre del año dos mil cinco.- POR LA MESA DIRECTIVA.- DIP. HÉCTOR MAURICIO LÓPEZ VELÁZQUEZ, PRESIDENTE.- DIP. PABLO TREJO PÉREZ, SECRETARIO.- DIP. MARÍA TERESITA DE JESÚS AGUILAR MARMOLEJO, SECRETARIA.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los seis días del mes de enero de dos mil seis.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUIZ SUÁREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, JENNY SALTIEL COHEN.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, MARTHA PÉREZ BEJARANO.- FIRMA.- EL SECRETARIO DE FINANZAS, ARTURO HERRERA GUTIÉRREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 6 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El personal que de una dependencia que, en aplicación del presente decreto, se transfiera a otra, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con la administración pública local del Distrito Federal. Si por cualquier circunstancia algún grupo de trabajadores resultare afectado con la aplicación del presente Decreto, se dará previamente intervención a la Oficialía Mayor del Distrito Federal y a las organizaciones sindicales respectivas.
+
+CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes anteriores a la vigencia del presente decreto pase, con motivo de éste, a otra Dependencia, el traspaso se hará incluyendo al personal de servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que la Unidad Administrativa de que se trate haya utilizado para la atención de los asuntos a su cargo.
+
+QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
+
+SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
