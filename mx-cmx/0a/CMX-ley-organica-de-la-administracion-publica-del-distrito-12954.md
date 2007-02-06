@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2006-08-11"
+last_updated: "2007-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -268,9 +268,29 @@ XIII. Procuraduría General de Justicia del Distrito Federal;
 
 XIV. Oficialía Mayor;
 
-XV. Contraloría General del Distrito Federal, y
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
 
-XVI. Consejería Jurídica y de Servicios Legales.
+XV. Contraloría General del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+XVI. Consejería Jurídica y de Servicios Legales;
+
+> <small>(ADICIONADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+XVII. Secretaría de Protección Civil;
+
+> <small>(ADICIONADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+XVIII. Secretaría de Trabajo y Fomento al Empleo;
+
+> <small>(ADICIONADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+XIX. Secretaría de Educación; y
+
+> <small>(ADICIONADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+XX. Secretaría de Desarrollo Rural y Equidad para las Comunidades.
 
 La Secretaría de Seguridad Pública y la Procuraduría General de Justicia del Distrito Federal se ubican en el ámbito orgánico del Gobierno del Distrito Federal y se regirán por las leyes específicas correspondientes.
 
@@ -330,9 +350,11 @@ Cuando alguna dependencia requiera informes, datos o la cooperación técnica de
 
 ### CAPITULO II. De la competencia de las Secretarías, de la Oficialía Mayor, de la Contraloría General del Distrito Federal y de la Consejería Jurídica y de Servicios Legales
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 23.
 
-A la Secretaría de Gobierno corresponde el despacho de las materias relativas al gobierno; relaciones con estados y municipios, la coordinación metropolitana; trabajo y previsión social; seguimiento de funciones desconcentradas de las Delegaciones del Distrito Federal; reclusorios y centros de readaptación social; protección civil, regularización de la tenencia de la tierra y acción cívica.
+A la Secretaría de Gobierno corresponde el despacho de las materias relativas al gobierno; relaciones con estados y municipios, la coordinación metropolitana; seguimiento de funciones desconcentradas de las Delegaciones del Distrito Federal; Reclusorios y Centros de Readaptación, regularización de la tenencia de la tierra y acción cívica.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -364,11 +386,11 @@ XIII. Proveer administrativamente la ejecución de sentencias penales por delito
 
 XIV. Vigilar, en el ámbito administrativo, el cumplimiento de los preceptos constitucionales por parte de las autoridades del Distrito Federal, especialmente en lo que se refiere a las garantías individuales y derechos humanos, así como dictar las medidas administrativas que requiera su cumplimiento;
 
-XV. Vigilar la observancia y aplicación de la Ley Federal del Trabajo, sus reglamentos y las disposiciones de ellos derivadas y proteger a los trabajadores no asalariados y a los menores trabajadores, así como auxiliar a las autoridades federales en materia de seguridad e higiene;
+XV. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
-XVI. Mantener y fomentar las relaciones con asociaciones obrero patronales del Distrito Federal y con la Junta Local de Conciliación y Arbitraje, con el fin de procurar la conciliación de intereses en conflicto;
+XVI. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
-XVII. Elaborar, coordinar y vigilar la ejecución de los programas de protección civil del Distrito Federal;
+XVII. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
 XVIII. Promover, apoyar y ejecutar los programas de regularización de la tenencia de la tierra;
 
@@ -394,9 +416,201 @@ XXVIII. Organizar los actos cívicos del Gobierno del Distrito Federal en coordi
 
 XXIX. Coordinar e implementar, en los términos que establece el Estatuto de Gobierno, las acciones necesarias para la celebración de plebiscitos, cuando así lo determine el Jefe de Gobierno;
 
-XXX. Formular, fomentar, coordinar y ejecutar políticas y programas en materia laboral en el Distrito Federal, tendientes a la protección y mejoramiento de las condiciones laborales de los trabajadores, así como emitir los lineamientos generales que propicien un mejoramiento en el nivel y calidad de vida de los trabajadores no asalariados, primordialmente de aquellos que realizan sus actividades económicas en la vía pública;
+XXX. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
 XXXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
+Artículo 23 bis.- A la Secretaría de Protección Civil corresponde el despacho de las materias relativas a la protección civil y prevención al desastre:
+
+Específicamente cuenta con las siguientes atribuciones:
+
+I. Elaborar, coordinar y vigilar la ejecución de los programas de protección civil del Distrito Federal;
+
+II. Formar parte del Consejo de Protección Civil, como Secretario Ejecutivo;
+
+III. Ejecutar los acuerdos que en la materia dicten el Jefe de Gobierno y el Consejo de Protección Civil y vigilar que sean observados por los demás elementos que conforman el Sistema de Protección Civil del Distrito Federal;
+
+IV. Elaborar los trabajos que en la materia le encomienden el Jefe de Gobierno o el Consejo de Protección Civil y resolver las consultas que se sometan a su consideración;
+
+V. Realizar y difundir programas de orientación y capacitación, en materia de protección civil a los habitantes del Distrito Federal;
+
+VI. Elaborar, operar, evaluar y actualizar el Atlas de Riesgo, en materia de protección civil;
+
+VII. Elaborar, operar, evaluar y actualizar el Registro Estadístico Único de Situaciones de Emergencia del Distrito Federal;
+
+VIII. Recabar, captar y sistematizar la información, para conocer la situación del Distrito Federal en condiciones normales y de emergencia;
+
+IX. Representar al Distrito Federal, cuando así se lo autorice el Jefe de Gobierno, ante toda clase de autoridades e instituciones nacionales e internacionales, en materia de protección civil;
+
+X. Normar los establecimientos temporales para el auxilio de los habitantes del Distrito Federal, en situaciones de emergencia;
+
+XI. Registrar, evaluar, coordinar y vigilar a las organizaciones civiles, empresas capacitadoras, así como a las empresas de consultoría y estado de riesgo y vulnerabilidad, que por sus características se vinculen a la materia de protección civil;
+
+XII. Proponer al Jefe de Gobierno la política general de protección civil, así como sus principios generales;
+
+XIII. Coordinar los dispositivos de apoyo para atender situaciones de emergencia o desastre;
+
+XIV. Fomentar y realizar estudios, investigaciones, análisis y opiniones de carácter técnico, científico y académico, en materia de protección civil;
+
+XV. Verificar el cumplimiento de la Ley, Reglamento, términos de referencia y normas técnicas complementarias en materia de protección civil;
+
+XVI. Ser el conducto para que el Heroico Cuerpo de Bomberos del Distrito Federal se relacione con el Jefe de Gobierno;
+
+XVII. Integrar el Patronato y participar en la integración de la Junta de Gobierno del Heroico Cuerpo de Bomberos del Distrito Federal, en los términos de la ley aplicable; y
+
+XVIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
+Artículo 23 ter.- A la Secretaría de Trabajo y Fomento al Empleo corresponde el despacho de las materias relativas al trabajo, previsión social y protección al empleo.
+
+Específicamente cuenta con las siguientes atribuciones:
+
+I. Promover y consolidar acciones que generen ocupación productiva;
+
+II. Vigilar la observancia y aplicación de la Ley Federal del Trabajo, sus reglamentos y las disposiciones de ellos derivadas;
+
+III. Proponer al Jefe de Gobierno para su expedición, las políticas dirigidas a hacer efectiva la fracción anterior, así como los lineamientos para la formulación, ejecución y evaluación de la política laboral en el Distrito Federal;
+
+IV. Proteger a los trabajadores no asalariados y a los menores trabajadores, así como auxiliar a las autoridades federales en materia de seguridad e higiene;
+
+V. Apoyar y fomentar relaciones con asociaciones obrero patronales del Distrito Federal, procurando la conciliación de sus intereses;
+
+VI. Proponer a la Junta Local de Conciliación y Arbitraje del Distrito Federal, estrategias para el mejoramiento de la administración e impartición de justicia laboral en el Distrito Federal, para coadyuvar a su aplicación eficiente;
+
+VII. Formular, fomentar, coordinar y ejecutar políticas y programas en materia laboral en el Distrito Federal, tendientes a la protección y mejoramiento de las condiciones laborales de los trabajadores;
+
+VIII. Emitir los lineamientos generales que propicien un mejoramiento en el nivel y calidad de vida de los trabajadores no asalariados, primordialmente de aquellos que realizan sus actividades económicas en la vía pública;
+
+IX. Aplicar las políticas que establezca el Jefe de Gobierno para la promoción y protección de los derechos de los menores que trabajan, y propiciar acciones que impulsen el desarrollo de los derechos laborales de las mujeres en equidad con los hombres;
+
+X. Mantener relaciones con la Comisión Nacional de Salarios Mínimos y las instancias que correspondan para la protección y mejoramiento del salario en el Distrito Federal;
+
+XI. Fomentar el servicio de empleo, capacitación y adiestramiento, así como auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral impulsando una cultura de trabajo que favorezca el respeto a los derechos y garantías sociales a favor de los trabajadores en el Distrito Federal;
+
+XII. Organizar las inspecciones de trabajo en los establecimientos de circunscripción local, en el ámbito de su competencia;
+
+XIII. Proponer y coordinar las campañas publicitarias encaminadas a difundir los derechos y obligaciones de trabajadores y patrones;
+
+XIV. Promover la productividad en el trabajo, basada en la equidad, seguridad e higiene, capacitación y progreso de los factores productivos;
+
+XV. Proponer la firma de convenios en materia de empleo, competencias laborales y capacitación en el ámbito del Distrito Federal, y en su caso, darles seguimiento;
+
+XVI. Coadyuvar con el servicio de empleo en los Órganos Político-Administrativos;
+
+XVII. Promover e implementar las políticas establecidas por el Jefe de Gobierno para que los trabajadores del Distrito Federal y sus familias gocen del derecho a la cultura y recreación, con la intervención que corresponda a la Secretaría de Desarrollo Social;
+
+XVIII. Promover la investigación sobre la problemática laboral en el Distrito Federal, y elaborar diagnósticos, análisis y estudios en la materia, que contribuyan a la formulación de la política laboral en el Distrito Federal, así como promover la participación de organizaciones no gubernamentales en el estudio y difusión de la misma; y el establecimiento de relaciones de colaboración con instituciones nacionales e internacionales, para desarrollar conjuntamente investigaciones, seminarios y programas de difusión relacionados con dicha problemática;
+
+XIX. Integrar un banco de información estadística y archivo documental de temas relacionados con la problemática laboral, así como proporcionar a trabajadores, empresarios e instituciones académicas, los servicios del centro de documentación e información y la asesoría de su unidad de apoyo e investigación;
+
+XX. Difundir con recursos propios, o mediante convenios con otros organismos públicos o privados, estudios y documentos de interés general, en el ámbito laboral;
+
+XXI. Coadyuvar en el cumplimiento de las funciones desconcentradas de los Órganos Político-Administrativos que correspondan al ámbito de su competencia;
+
+XXII. Tener bajo su adscripción directa a la Procuraduría de la Defensa del Trabajo y a la Inspección Local del Trabajo;
+
+XXIII. Nombrar y remover a los Subprocuradores, Procuradores Auxiliares, peritos y demás personal de apoyo técnico-operativo de la Procuraduría de la Defensa del Trabajo, así como a los Inspectores y demás personal de la Inspección Local del Trabajo excepción hecha del Director General;
+
+XXIV. Fomentar y apoyar la organización social para el trabajo y el auto empleo;
+
+XXV. Proponer la actualización de las medidas de seguridad e higiene en los centros de trabajo, para la protección de los trabajadores;
+
+XXVI. Promover en coordinación con la Dirección General de Prevención y Readaptación Social del Distrito Federal, la integración laboral de las personas recluidas en los Centros de Readaptación Social;
+
+XXVII. Promover la inclusión laboral de las personas adultas mayores o con capacidades diferentes en los sectores productivos, y
+
+XXVIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
+Artículo 23 quater.- A la Secretaría de Educación le corresponde el despacho de las materias relativas a la función educativa y al deporte.
+
+Específicamente cuenta con las siguientes atribuciones:
+
+I. Planear, organizar, desarrollar, administrar, supervisar y evaluar los servicios del Sistema Educativo del Distrito Federal, en el ámbito de su competencia;
+
+II. Ejercer las facultades que en materia educativa se establecen para el Distrito Federal las leyes y demás disposiciones jurídicas federales y locales;
+
+III. Impulsar y fortalecer la educación pública;
+
+IV. Vigilar que la educación que impartan los particulares en planteles incorporados al sistema educativo del Distrito Federal se sujete a las normas establecidas;
+
+V. Prestar servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar al sistema educativo del Distrito Federal, a la innovación educativa y a la investigación científica, tecnológica y humanística, en concurrencia con la Federación.
+
+VI. Formular, fomentar, coordinar y ejecutar políticas, programas y acciones de promoción y difusión de la investigación científica y la innovación tecnológica;
+
+VII. Recibir y sistematizar la información que en materia de investigación científica e innovación tecnológica reciba de las instituciones académicas y centros de investigación públicos y privados, y operar un sistema de consulta al servicio de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal y público en general;
+
+VIII. Instrumentar la coordinación y distribución educativa entre la Federación y el Distrito Federal conforme a las aportaciones económicas correspondientes que fijen las Leyes Federales;
+
+IX. Formular, fomentar y ejecutar políticas y programas que contribuyan a elevar los niveles y la calidad de la educación en el Distrito Federal;
+
+X. Fomentar la participación de las comunidades educativas, de las instituciones académicas y de investigación y de la sociedad en general, en las actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública. Asimismo, podrán opinar en asuntos pedagógicos;
+
+XI. Desarrollar y ejecutar la política deportiva que determine el Jefe de Gobierno de conformidad con la Ley del Deporte para el Distrito Federal;
+
+XII. Dirigir el Sistema del Deporte del Distrito Federal a través del Instituto del Deporte;
+
+XIII. Contribuir al desarrollo integral de las y los jóvenes del Distrito Federal, a través del Instituto de la Juventud del Distrito Federal; y
+
+XIV. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
+Artículo 23 quintus.- A la Secretaría de Desarrollo Rural y Equidad para las Comunidades corresponde el despacho de las materias relativas al desarrollo y regulación de las actividades agrícolas, forestal y del sector agropecuario, así como la equidad de las comunidades étnicas y la tutela de derechos indígenas:
+
+Específicamente cuenta con las siguientes atribuciones:
+
+I. Establecer las políticas y programas generales en materia de promoción y fomento agrícola, agropecuario, turismo alternativo, así como formular, conducir, coordinar y evaluar los programas del sector rural;
+
+II. Formular y ejecutar los programas específicos en materia agrícola, agropecuaria, turismo alternativo, capacitación y desarrollo tecnológico en la materia;
+
+III. Proponer al Jefe de Gobierno los mecanismos de coordinación interinstitucional, que permitan incentivar el desarrollo y la inversión productiva en la zona rural de manera coordinada con la Secretaría de Medio Ambiente, velando siempre por el impacto ambiental;
+
+IV. Promover, orientar y estimular el desarrollo del sector rural de la Ciudad de México y coordinar, con base en la normatividad aplicable, sus acciones con otras dependencias en esta materia;
+
+V. Establecer, conducir y coordinar los mecanismos de apoyo al sector rural, incluyendo el respaldo financiero, asesorías, y asistencia técnica, entre otros, a través de diversos instrumentos para apoyar la actividad productiva;
+
+VI. Formular, conducir y evaluar la política general de desarrollo rural, a fin de elevar el nivel de vida de las familias que habitan en las zonas rurales de la Ciudad de México, en coordinación con las dependencias competentes;
+
+VII. Promover el empleo en el medio rural de la Ciudad de México, así como establecer programas y acciones que tienden a fomentar la productividad y la rentabilidad de las actividades económicas rurales, en coordinación con la Secretaría de Trabajo y Fomento al Empleo;
+
+VIII. Formular, dirigir y supervisar los programas y actividades relacionados con la asistencia técnica y la capacitación de los productores rurales de la Ciudad de México;
+
+IX. Promover el desarrollo de la infraestructura industrial y comercial de la producción agropecuaria, en coordinación con la Secretaria de Finanzas;
+
+X. Promover la integración de Asociaciones Rurales en la Ciudad de México;
+
+XI. Elaborar, actualizar y difundir un banco de información de los proyectos y oportunidades de inversión en el sector rural de la Ciudad de México;
+
+XII. Coordinar las acciones que el Gobierno del Distrito Federal convenga con las delegaciones relativas al desarrollo rural en las demarcaciones;
+
+XIII. Organizar y actualizar los estudios económicos y sociológicos sobre la vida rural, con el objeto de establecer medios y procedimientos para mejorarla;
+
+XIV. Organizar y patrocinar congresos, ferias, exposiciones y concursos agrícolas y pecuarios, así como otras actividades que se desarrollen principalmente en el ámbito rural;
+
+XV. Coordinar el diseño, operación y ejecución de los planes, programas y proyectos que las dependencias y entidades de la Administración Pública del Distrito Federal desarrollen en materia de derechos indígenas;
+
+XVI. Diseñar, operar y ejecutar planes, programas y proyectos destinados a garantizar los derechos pluriculturales y pluriétnicos de la población indígena radicada en el Distrito Federal;
+
+XVII. Concertar acciones con los sectores social y privado, para que coadyuven en la realización de acciones en beneficio de los indígenas;
+
+XVIII. Establecer relaciones de vinculación y cooperación con organizaciones nacionales e internacionales especializadas en asuntos indígenas y étnicos;
+
+XIX. Diseñar, operar y ejecutar programas de educación cívica y de cultura de la legalidad, enfocados a prevenir y erradicar conductas discriminatorias por razones étnicas;
+
+XX. Fomentar la vinculación e intercambio económicos y culturales con las comunidades étnicas del Distrito Federal;
+
+XXI. Asesorar a las dependencias y entidades del Distrito Federal, en temas relacionados con los derechos indígenas;
+
+XXII. Participar y organizar foros, seminarios y congresos nacionales e internacionales sobre asuntos étnicos e indígenas del Distrito Federal;
+
+XXIII. Desarrollar e impartir cursos y programas de capacitación y actualización sobre asuntos indígenas y étnicos del Distrito Federal; y
+
+XXIV. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### Artículo 24.
 
@@ -450,17 +664,23 @@ XIX. Revisar y determinar los estudios de impacto urbano, y tomando como base lo
 
 XX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 25.
 
-A la Secretaría de Desarrollo Económico corresponde el despacho de las materias relativas al desarrollo y regulación de las actividades económicas en los sectores agropecuario, industrial, comercial y de servicios.
+A la Secretaría de Desarrollo Económico corresponde el despacho de las materias relativas al desarrollo y regulación de las actividades económicas en los sectores industrial, comercial y de servicios.
 
 Específicamente cuenta con las siguientes atribuciones:
 
 I. Establecer las políticas y programas generales en materia de desarrollo, promoción y fomento económico, así como formular, conducir, coordinar y evaluar los programas sectoriales y delegacionales correspondientes;
 
-II. Formular y ejecutar los programas específicos en materia agropecuaria, industrial, de comercio exterior e interior, abasto, servicios, desregulación económica y desarrollo tecnológico;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
 
-III. Fomentar la creación de empleos, promoviendo la adopción de medidas de simplificación, fomento e incentivos de la actividad productiva, incluyendo el establecimiento de parques y zonas industriales, comerciales y de servicios;
+II. Formular y ejecutar los programas específicos en materia industrial, de comercio exterior e interior, abasto, servicios, desregulación económica y desarrollo tecnológico;
+
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+III. Coadyuvar con las funciones de la Secretaría de Trabajo y Fomento al Empleo, promoviendo la adopción de medidas de simplificación, fomento e incentivos de la actividad productiva incluyendo el establecimiento de parques y zonas industriales, comerciales y de servicios;
 
 IV. Proponer al Jefe de Gobierno los mecanismos de coordinación interinstitucional, que permitan incentivar el desarrollo y la inversión productiva;
 
@@ -584,17 +804,17 @@ Específicamente cuenta con las siguientes atribuciones:
 
 I. Formular, fomentar y ejecutar políticas y programas generales para el desarrollo social con la participación ciudadana, que coadyuven al mejoramiento de las condiciones de vida de la población, así como establecer los lineamientos generales y coordinar los programas específicos que en esta materia desarrollen las Delegaciones;
 
-II. Ejercer las facultades que en materia educativa establecen para el Distrito Federal las leyes y demás disposiciones jurídicas federales y locales;
+II. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
-III. Formular, fomentar y ejecutar políticas y programas que contribuyan a elevar los niveles y la calidad de la educación en el Distrito Federal;
+III. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
 IV. Establecer e instrumentar políticas y programas de apoyo, suministro y orientación en materia alimentaria;
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN LA G. O. DE 31 DE ENERO DE 2002, POR EL QUE SE REFORMA EL ARTICULO 28 DEL PRESENTE ORDENAMIENTO, SE ELIMINA EL CONTENIDO DE LA FRACCION V, RECORRIENDOSE LOS NUMERALES DE LAS SIGUIENTES FRACCIONES RESPETANDO SU TEXTO ACTUAL.</small>
+V. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
-V. Formular, fomentar, coordinar y ejecutar políticas y programas para el desarrollo, organización, promoción y difusión del deporte y recreación de la población del Distrito Federal;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
 
-VI. Formular, fomentar, coordinar y ejecutar políticas y programas que promuevan la equidad y la igualdad de oportunidades y que eliminen los mecanismos de exclusión social de grupos sociales de atención prioritaria: mujeres, jóvenes, niños y niñas, población indígena, adultos mayores y personas con discapacidad;
+VI. Formular, fomentar, coordinar y ejecutar políticas y programas que promuevan la equidad y la igualdad de oportunidades y que eliminen los mecanismos de exclusión social de grupos sociales de atención prioritaria: mujeres, niños y niñas, adultos mayores y personas con discapacidad;
 
 VII. Promover la coordinación de acciones y programas de combate a la pobreza que se ejecuten en el Distrito Federal;
 
@@ -610,9 +830,9 @@ XII. Vigilar que las instituciones de asistencia privada y sus patronatos cumpla
 
 XIII. Proporcionar mediante un servicio público telefónico información, orientación y apoyo, así como asistencia médica, legal y psicológica a la población en general;
 
-XIV. Formular, fomentar, coordinar y ejecutar políticas, programas y acciones de promoción y difusión de la investigación científica y la innovación tecnológica;
+XIV. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
-XV. Recibir y sistematizar la información que en materia de investigación científica e innovación tecnológica reciba de las instituciones académicas y centros de investigación públicos y privados, y operar un sistema de consulta al servicio de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal y público en general;
+XV. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
 XVI. Fomentar la participación de las organizaciones civiles y comunitarias, de las instituciones académicas y de investigación y de la sociedad en general, en el diseño instrumentación y operación de las políticas y programas que lleve a cabo la Secretaría;
 
@@ -1633,3 +1853,17 @@ TERCERO.- Solicítesele al Jefe de Gobierno del Distrito Federal, se lleven a ca
 CUARTO.- De conformidad con los términos establecidos en la Ley de Desarrollo Urbano del Distrito Federal, relativos a la temporalidad para la revisión o modificación de los Programas Delegacionales de Desarrollo Urbano, se deberá considerar la asignación de recursos financieros necesarios a la Secretaría de Desarrollo Urbano y Vivienda del Distrito Federal, para la elaboración de dichos programas en cada una de las 16 Delegaciones.
 
 QUINTO.- Para el caso de las Delegaciones cuyo proceso de revisión a sus programas de desarrollo urbano versión 1997, que aún tengan pendiente la elaboración del proyecto respectivo, la Secretaría de Desarrollo Urbano y Vivienda podrá solicitar los recursos necesarios para tal fin.
+
+G.O. 6 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El personal que de una dependencia que, en aplicación del presente decreto, se transfiera a otra, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con la administración pública local del Distrito Federal. Si por cualquier circunstancia algún grupo de trabajadores resultare afectado con la aplicación del presente Decreto, se dará previamente intervención a la Oficialía Mayor del Distrito Federal y a las organizaciones sindicales respectivas.
+
+CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes anteriores a la vigencia del presente decreto pase, con motivo de éste, a otra Dependencia, el traspaso se hará incluyendo al personal de servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que la Unidad Administrativa de que se trate haya utilizado para la atención de los asuntos a su cargo.
+
+QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
+
+SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
