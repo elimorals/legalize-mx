@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-51108"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-19"
-last_updated: "2006-07-19"
+last_updated: "2007-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51108&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-07-03"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 19 de julio de 2006.
 
@@ -552,7 +552,9 @@ III. El Presidente del Tribunal Superior de Justicia del Distrito Federal;
 
 IV. El Presidente de la Comisión de Derechos Humanos del Distrito Federal, y
 
-V. Los titulares de las Secretarías de Finanzas, de Desarrollo Social, de Salud y de Seguridad Pública; de la Procuraduría General de Justicia; del Instituto de las Mujeres; y del Sistema para el Desarrollo Integral de la Familia, todos ellos del Distrito Federal.
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+V. Los titulares de las Secretarías de Finanzas, de Desarrollo Social, de Salud y de Seguridad Pública; de Desarrollo Rural y Equidad para las Comunidades, de la Procuraduría General de Justicia; del Instituto de las Mujeres; y del Sistema para el Desarrollo Integral de la Familia, todos ellos del Distrito Federal.
 
 ###### Artículo 33.
 
@@ -568,7 +570,9 @@ III. El suplente del Presidente del Tribunal Superior de Justicia del Distrito F
 
 IV. El suplente del Presidente de la Comisión de Derechos Humanos del Distrito Federal será nombrado por éste, debiendo tener como cargo mínimo el de Director General;
 
-V. Los suplentes de los titulares de las Secretarías de Finanzas, de Desarrollo Social, de Salud y de Seguridad Pública, todas del Distrito Federal, serán designados por éstos, debiendo tener como cargo mínimo el de subsecretario;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+V. Los suplentes de los titulares de las Secretarías de Finanzas, de Desarrollo Social, Desarrollo Rural y Equidad para las Comunidades, de Salud y de Seguridad Pública, todas del Distrito Federal, serán designados por éstos, debiendo tener como cargo mínimo el de Director General;
 
 VI. El suplente del Procurador General de Justicia del Distrito Federal serán nombrado por éste, debiendo tener como cargo mínimo el de subprocurador, y
 
@@ -737,3 +741,19 @@ QUINTO.- En la sesión de instalación del Consejo, el Jefe de Gobierno del Dist
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintisiete días del mes de abril del año dos mil seis.- POR LA MESA DIRECTIVA.- DIP. MARÍA GUADALUPE CHAVIRA DE LA ROSA, PRESIDENTA.- DIP. JORGE GARCÍA RODRÍGUEZ, SECRETARIO.- DIP. MARÍA TERESITA DE JESÚS AGUILAR MARMOLEJO, SECRETARIA.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el siguiente Decreto Promulgatorio, en la residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los tres días del mes de julio de dos mil seis.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUIZ SUÁREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, ENRIQUE PROVENCIO DURAZO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 6 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El personal que de una dependencia que, en aplicación del presente decreto, se transfiera a otra, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con la administración pública local del Distrito Federal. Si por cualquier circunstancia algún grupo de trabajadores resultare afectado con la aplicación del presente Decreto, se dará previamente intervención a la Oficialía Mayor del Distrito Federal y a las organizaciones sindicales respectivas.
+
+CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes anteriores a la vigencia del presente decreto pase, con motivo de éste, a otra Dependencia, el traspaso se hará incluyendo al personal de servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que la Unidad Administrativa de que se trate haya utilizado para la atención de los asuntos a su cargo.
+
+QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
+
+SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
