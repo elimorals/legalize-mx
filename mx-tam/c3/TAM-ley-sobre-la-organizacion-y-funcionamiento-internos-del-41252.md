@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2006-11-14"
+last_updated: "2007-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2007.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -760,6 +760,10 @@ e) Del Registro Parlamentario y Diario de los Debates, que comprende los de: ela
 f) De Archivo, que comprende los de: formación, clasificación y custodia de expedientes derivados de las actividades del Pleno y, en su caso, de las Comisiones; desahogo de consultas sobre documentos relacionados con esos expedientes para los órganos del Congreso y los integrantes del Pleno; y preparación de documentos y estudios de valor histórico o de interés general para su edición o reproducción por el Congreso, y
 
 g) De Biblioteca, que comprenden el acervo de libros, periódicos y revistas, videograbaciones, multimedia e informática parlamentaria.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2007)</small>
+
+h) De Apoyo Técnico, que comprende los de apoyo para el perfeccionamiento de formatos, asesoría de técnica legislativa, corrección, estilo y redacción de dictámenes, iniciativas y en general de documentos inherentes al proceso legislativo.
 
 2. Los servicios establecidos en el párrafo anterior tendrán la estructura administrativa que prevea el presupuesto de egresos del Congreso.
 
@@ -2194,3 +2198,13 @@ El presente Decreto entrará en vigor a partir de su expedición y deberá publi
 ###### ARTÍCULO SEGUNDO.
 
 El Reglamento del Instituto de Investigaciones Parlamentarias deberá ser expedido dentro de los noventa días siguientes al inicio de la vigencia de este Decreto, con base en la propuesta que formule al efecto el Comité del Instituto de Investigaciones Parlamentarias.
+
+P.O. 6 DE FEBRERO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con base en la posibilidad presupuestal prevista para la Unidad de Servicios Parlamentarios, se sustentará la creación del Departamento de Apoyo Técnico.
