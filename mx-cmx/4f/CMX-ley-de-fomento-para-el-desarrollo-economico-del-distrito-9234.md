@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-el-desarrollo-economico-del-distrito-9234"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-26"
-last_updated: "1996-12-26"
+last_updated: "2007-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-18"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONOMICO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 26 de diciembre de 1996.
 
@@ -114,9 +114,15 @@ La aplicación de la presente Ley estará a cargo de:
 
 I. El Jefe de Gobierno;
 
-II. La Secretaría, y
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
 
-III. Las delegaciones del Distrito Federal.
+II. La Secretaría;
+
+> <small>(ADICIONADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+III. La Secretaría de Trabajo y Fomento al Empleo, y
+
+IV. Las delegaciones del Distrito Federal.
 
 ###### Artículo 5o.
 
@@ -138,15 +144,23 @@ II. Elaborar los programas previstos en la presente Ley, así como proponer e im
 
 III. Establecer políticas de promoción de la inversión y proponer medidas administrativas en materia de fomento económico;
 
-IV. Formular y proponer medidas de promoción y estímulos para las actividades sujetas a fomento, en coordinación con la administración pública que por sus facultades corresponda;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+IV. Formular y proponer medidas de promoción y estímulos para las actividades sujetas a fomento, en coordinación con la Secretaría de Trabajo y Fomento al Empleo;
 
 V. Propiciar la creación de instrumentos de financiamiento y otros mecanismos de fomento para la modernización productiva y la investigación y desarrollo tecnológico en las micro, pequeña y mediana empresas, y
 
 VI. Establecer, en congruencia con las disposiciones aplicables en materia de desarrollo urbano, protección al ambiente y protección civil, la vinculación entre las áreas de actuación y la vocación productiva del Distrito Federal, proponiendo en su caso los cambios conducentes.
 
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
+En la elaboración, conducción y ejecución de programas, políticas, instrumentos y medidas relacionados con el fomento al empleo, la Secretaría ejercerá sus facultades en forma coordinada con la Secretaría de Trabajo y Fomento al Empleo.
+
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 7o.
 
-La Secretaría, en coordinación con la Secretaría de Desarrollo Urbano y Vivienda, determinarán, en el ámbito de su competencia, las zonas de fomento económico, las cuales serán los espacios territoriales comprendidos en las áreas de actuación que señalan la Ley de Desarrollo Urbano y el Programa General de Desarrollo Urbano del Distrito Federal, con el propósito de impulsar programas de fomento económico, proyectos de inversión y, en general, actividades económicas.
+La Secretaría, en coordinación con la Secretaría de Desarrollo Urbano y Vivienda, así como con la Secretaría de Trabajo y Fomento al Empleo, determinarán, en el ámbito de su competencia, las zonas de fomento económico, las cuales serán los espacios territoriales comprendidos en las áreas de actuación que señala la Ley de Desarrollo Urbano y el Programa General de Desarrollo Urbano del Distrito Federal, con el propósito de impulsar programas de fomento económico, proyectos de inversión y, en general, actividades económicas.
 
 ###### Artículo 8o.
 
@@ -212,7 +226,9 @@ La Secretaría, para el cumplimiento de los objetivos y metas del Programa, coor
 
 I. Programas sectoriales, que están orientados a inducir la modernización e integración de las cadenas productivas y distributivas mediante instrumentos y acciones específicas. Estos programas incluirán los de fomento industrial; abasto y distribución; turismo; desarrollo agropecuario y de fomento del sector servicios;
 
-II. Programas especiales, aquellos orientados a materias específicas o a grupos sociales que por su problemática requieren de un tratamiento específico. Estos comprenderán, entre otros, los siguientes: fomento activo al empleo y al autoempleo; desregulación y simplificación administrativa; fomento a la micro, pequeña y mediana empresa, así como a la empresa familiar; de fomento a las empresas sociales; de fomento a las exportaciones y la industria maquiladora; de infraestructura productiva; de desarrollo tecnológico; y de capacitación de los recursos humanos del sector productivo;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+II. Programas especiales, aquellos orientados a materias específicas o a grupos sociales que por su problemática requieran de un tratamiento específico. Estos comprenderán, entre otros, los siguientes: desregulación y simplificación administrativa; fomento a la micro, mediana y pequeña empresa, así como a la empresa familiar; de fomento a las empresas sociales; de fomento a las exportaciones y la industria maquiladora; de infraestructura productiva; de desarrollo tecnológico; y de capacitación de los recursos humanos del sector productivo;
 
 III. Programas delegacionales, los programas que destacan las vocaciones regionales del Distrito Federal, mediante los cuales se expresen prioridades y acciones ligadas a los programas parciales de desarrollo urbano, y
 
@@ -246,17 +262,21 @@ I. El Jefe de Gobierno, como Presidente;
 
 II. El Secretario de Desarrollo Económico del Distrito Federal, como Secretario Técnico;
 
-III. Los representantes del sector financiero;
+> <small>(ADICIONADA, G.O. 6 DE FEBRERO DE 2007)</small>
 
-IV. Los representantes de organizaciones productivas del sector privado y social;
+III. El Secretario de Trabajo y Fomento al Empleo;
 
-V. Los representantes de educación e investigación técnica-media y superior, pública y privada;
+IV. Los representantes del sector financiero;
 
-VI. Los representantes de entidades y dependencias del gobierno federal, y
+V. Los representantes de organizaciones productivas del sector privado y social;
 
-VII. Otros propuestos por el Presidente del Consejo.
+VI. Los representantes de educación e investigación técnica-media y superior, pública y privada;
 
-Los cargos en el Consejo serán honoríficos.
+VII. Los representantes de entidades y dependencias del gobierno federal, y
+
+VIII. Otros propuestos por el Presidente del Consejo.
+
+Los cargos del Consejo serán honoríficos.
 
 ###### Artículo 20.
 
@@ -390,17 +410,21 @@ Para que las micro, pequeña y mediana empresas eleven su rentabilidad, el aprov
 
 ### CAPITULO III. De la promoción del empleo productivo
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 32.
 
-La administración pública, en coordinación con los sectores social, privado y la comunidad académica, fomentará el empleo impulsando de manera permanente la capacitación y los programas de incremento a la productividad, orientándose preferentemente hacia el desarrollo de las actividades económicas definidas en los programas.
+La Secretaría de Trabajo y Fomento al Empleo, en coordinación con los sectores social, privado y la comunidad académica, fomentará el empleo impulsando de manera permanente la capacitación y los programas de incremento a la productividad, orientándose preferentemente hacía el desarrollo de las actividades económicas definidas en los programas.
 
 ###### Artículo 33.
 
 La promoción de la capacitación productiva tendrá por objeto crear las condiciones que favorezcan la participación eficiente de los recursos humanos en las actividades económicas, con el fin de mejorar su competitividad y elevar el nivel de empleo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 34.
 
-La Secretaría promoverá la capacitación, mediante convenios interinstitucionales, procurando:
+La Secretaría de Trabajo y Fomento al Empleo promoverá la capacitación, mediante convenios interinstitucionales, procurando:
 
 I. La vinculación de las necesidades del aparato productivo con la oferta de los diferentes programas de capacitación de las organizaciones empresariales, sociales y de la comunidad académica, para aprovechar las innovaciones tecnológicas y procedimientos técnicos que eleven su competitividad;
 
@@ -408,9 +432,11 @@ II. La orientación de grupos específicos de la población, que por sus caracte
 
 III. La promoción de acciones para la especialización de los recursos humanos en actividades económicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 35.
 
-La administración pública promoverá el fortalecimiento de la capacitación en los oficios productivos, con el propósito de:
+La Secretaría de Trabajo y Fomento al Empleo promoverá el fortalecimiento de la capacitación en los oficios productivos, con el propósito de:
 
 I. Vincular la oferta de los programas de capacitación con las necesidades del mercado;
 
@@ -572,9 +598,11 @@ Los instrumentos de capacitación tienen por objeto mejorar los conocimientos y 
 
 Los estímulos tienen por objeto incentivar y facilitar el desarrollo de las actividades sujetas a fomento para lograr la generación de empleo, incrementar la inversión productiva y mejorar su competitividad.
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 57.
 
-La Secretaría, en el ámbito de su competencia, es la encargada de proponer al Jefe de Gobierno los estímulos que en cada caso procedan, en coordinación con las dependencias competentes de la administración pública.
+La Secretaría y la Secretaría de Trabajo y Fomento al Empleo, en el ámbito de sus competencias, son las encargadas de proponer al Jefe de Gobierno los estímulos que en cada caso procedan, en coordinación con las dependencias competentes de la administración pública.
 
 ### CAPITULO III. Del otorgamiento de los estímulos
 
@@ -651,3 +679,19 @@ CUARTO. Las menciones que en esta Ley se hacen respecto a la Asamblea Legislativ
 RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, I LEGISLATURA, a los once días del mes de noviembre de mil novecientos noventa y seis.- Rep. Gonzalo Altamirano Dimas, Presidente.- Rep. Alberto Nava Salgado, Secretario.- Rep. Julio Méndez Alemán, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 6 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El personal que de una dependencia que, en aplicación del presente decreto, se transfiera a otra, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con la administración pública local del Distrito Federal. Si por cualquier circunstancia algún grupo de trabajadores resultare afectado con la aplicación del presente Decreto, se dará previamente intervención a la Oficialía Mayor del Distrito Federal y a las organizaciones sindicales respectivas.
+
+CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes anteriores a la vigencia del presente decreto pase, con motivo de éste, a otra Dependencia, el traspaso se hará incluyendo al personal de servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que la Unidad Administrativa de que se trate haya utilizado para la atención de los asuntos a su cargo.
+
+QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
+
+SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
