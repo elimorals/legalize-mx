@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2006-06-07"
+last_updated: "2007-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -172,11 +172,11 @@ XX. Promover el conocimiento de las diferentes expresiones de la cultura univers
 
 XXI. Preservar, promover, desarrollar y difundir las tradiciones, costumbres, festividades y certámenes populares, por ser de interés público.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
 ###### ARTÍCULO 6.
 
-La presente ley reconoce a la cultura popular y busca la participación y articulación de los grupos étnicos, las comunidades indígenas, campesinas y urbanas a la vida cultural, artística y económica de la Ciudad de México, con pleno respeto de sus tradiciones lingüísticas, de identidad y patrimonio cultural. Asimismo, reconoce la necesidad de revertir los procesos de exclusión, segregación, socioterritorialidad y desigualdad en sus diversas formas, derivados de la mala distribución de la riqueza entre los individuos y grupos sociales, para que puedan incorporarse plenamente a la vida cultural de la Ciudad.
+La presente ley reconoce a la cultura popular y busca la participación y articulación de los grupos étnicos, las comunidades indígenas, campesinas, rurales y urbanas a la vida cultural, artística y económica de la Ciudad de México, con pleno respeto de sus tradiciones lingüísticas, de identidad y patrimonio cultural. Asimismo, reconoce la necesidad de revertir los procesos de exclusión, segregación, socioterritorialidad y desigualdad en sus diversas formas, derivados de la mala distribución de la riqueza entre los individuos y grupos sociales, para que puedan incorporarse plenamente a la vida cultural de la Ciudad.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -300,9 +300,13 @@ Son autoridades encargadas de la aplicación de la presente Ley:
 
 I. El Jefe de Gobierno de la Ciudad de México;
 
-II. La Secretaría de Cultura; y
+II. La Secretaría de Cultura; y (sic)
 
-III. Las delegaciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE FEBRERO DE 2007)</small>
+
+III. La Secretaría de Desarrollo Rural y Equidad para las Comunidades; y
+
+IV. Las delegaciones.
 
 ### Capítulo III. Del Consejo de Fomento y Desarrollo Cultural del Distrito Federal
 
@@ -377,6 +381,10 @@ XXII. Difundir los resultados de los distintos proyectos de investigación, prom
 XXIII. Elaborar las Declaratorias de Patrimonio Cultural intangible que expedirá el titular de la Jefatura de Gobierno del Distrito Federal; y
 
 XXIV. Las demás que le otorgue esta Ley y otros ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
+ARTÍCULO 20 BIS.- La Secretaría de Desarrollo Rural y Equidad para las Comunidades se coordinará con la Secretaría de Cultura para elaborar y ejecutar los programas y acciones relativos al desarrollo, promoción e interacción cultural de las comunidades étnicas del Distrito Federal.
 
 ###### ARTÍCULO 21.
 
@@ -464,9 +472,15 @@ II. La Secretaría de Desarrollo Social;
 
 III. La Secretaría de Turismo;
 
-IV. Los integrantes de la Mesa Directiva de la Comisión de Fomento Cultural de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE FEBRERO DE 2007)</small>
 
-V. Diez representantes de la comunidad artística y cultural;
+IV. La Secretaría de Desarrollo Rural y Equidad para las Comunidades;
+
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+V. Los integrantes de la Mesa Directiva de la Comisión de Fomento Cultural de la Asamblea Legislativa del Distrito Federal; y
+
+VI. Diez representantes de la comunidad artística y cultural.
 
 Los Consejeros integrantes de la comunidad artística y cultural deberán ser nombrados por el titular de la Jefatura de Gobierno del Distrito Federal, mediante un proceso de auscultación pública, diseñado y propuesto por los integrantes considerados en las fracciones I a IV de este artículo, observando en todo momento los principios de democracia, transparencia y equidad, dirigida a los creadores, artistas, promotores culturales, organizaciones, asociaciones culturales y a la comunidad artística y cultural en general.
 
@@ -656,7 +670,7 @@ En caso de que llegara a presentarse cambio de Jefe Delegacional, el nuevo titul
 
 ### Capítulo Único. De su funcionamiento
 
-> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
 ###### ARTÍCULO 55.
 
@@ -722,7 +736,7 @@ c. Síntesis de la argumentación social y académica presentada en favor del bi
 
 ###### ARTÍCULO 62.
 
-Para el mejor desempeño de las autoridades encargadas de aplicar el presente ley, el Consejo de la Crónica de la Ciudad de México será el órgano auxiliar y de apoyo del Sistema de Fomento y Desarrollo Cultural para el Distrito Federal y prestará su servicio para cualquier ciudadano. El Consejo de la Crónica tendrá como objetivo principal investigar, registrar, publicar y difundir los acontecimientos históricos importantes en el ámbito social, político, cultural, artístico, científico, tecnológico, paleontológico, arqueológico, arquitectónico y urbanístico en el Distrito Federal.
+Para el mejor desempeño de las autoridades encargadas de aplicar la presente ley, el Consejo de la Crónica de la Ciudad de México será el órgano auxiliar y de apoyo del Sistema de Fomento y Desarrollo Cultural para el Distrito Federal y prestará su servicio para cualquier ciudadano. El Consejo de la Crónica tendrá como objetivo principal investigar, registrar, publicar y difundir los acontecimientos históricos importantes en el ámbito social, político, cultural, artístico, científico, tecnológico, paleontológico, arqueológico, arquitectónico, rural y urbanístico en el Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2006)</small>
 
@@ -748,7 +762,9 @@ Son funciones del Consejo de la Crónica:
 
 I.- Elaborar, ejecutar y evaluar un plan anual de trabajo;
 
-II.- Ser órgano de apoyo de las autoridades locales en materia de desarrollo urbano y fungir como órgano de consulta de la sociedad en general;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+II.- Ser órgano de apoyo de las autoridades locales en materia de desarrollo urbano y rural, fungiendo como órgano de consulta de la sociedad en general;
 
 III.- Investigar y estudiar el pasado de la Ciudad de México, utilizando las nuevas técnicas de investigación y los recursos bibliográficos de los que actualmente se dispone;
 
@@ -933,3 +949,17 @@ Artículo Segundo.- Publíquese en el Diario Oficial de la Federación para su m
 Artículo Tercero.- El Jefe de Gobierno realizará los nombramientos a que se refiere el artículo 64 del presente decreto dentro de los 90 días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Artículo Cuarto.- Los decretos sobre el Consejo de la Crónica de la Ciudad de México, publicados el 11 de junio de 1998 y 4 de julio de 2000, en la Gaceta Oficial del Distrito Federal, quedan abrogados al momento de entrada de vigencia del presente decreto.
+
+G.O. 6 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El personal que de una dependencia que, en aplicación del presente decreto, se transfiera a otra, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con la administración pública local del Distrito Federal. Si por cualquier circunstancia algún grupo de trabajadores resultare afectado con la aplicación del presente Decreto, se dará previamente intervención a la Oficialía Mayor del Distrito Federal y a las organizaciones sindicales respectivas.
+
+CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes anteriores a la vigencia del presente decreto pase, con motivo de éste, a otra Dependencia, el traspaso se hará incluyendo al personal de servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que la Unidad Administrativa de que se trate haya utilizado para la atención de los asuntos a su cargo.
+
+QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
+
+SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
