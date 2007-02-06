@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-asistencia-e-integracion-social-de-la-ciudad-de-15875"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-16"
-last_updated: "2005-11-30"
+last_updated: "2007-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-02"
 
 LEY DE ASISTENCIA E INTEGRACION SOCIAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 16 de marzo de 2000.
 
@@ -206,9 +206,11 @@ El Jefe de Gobierno expedirá acuerdos que definan el ámbito de competencia y l
 
 Se crea el Consejo de Asistencia e Integración Social del Distrito Federal, como un órgano de concertación, consulta, asesoría y apoyo del Gobierno.
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 22.
 
-El Consejo de Asistencia e Integración Social del Distrito Federal estará constituido por un Presidente, Un Vicepresidente y trece Consejeros Propietarios: El Presidente será el Jefe del Gobierno, el Vicepresidente será el Titular de la Secretaría de Desarrollo, y los trece Consejeros serán el Titular de la Secretaría de Gobierno, el Titular de la Secretaría de Finanzas, el Titular de la Secretaría de Salud del Distrito Federal, el Titular de la Procuraduría General de Justicia del Distrito Federal, el Director General del DIF-D.F., los Presidentes de las Comisiones de Salud y Asistencia Social y de Grupos Vulnerables de la Asamblea Legislativa del Distrito Federal y el Presidente de la Junta de Asistencia Privada; el Presidente del Consejo invitará a un representante de la Universidad Nacional Autónoma de México, de la Universidad Autónoma Metropolitana e Instituto Politécnico Nacional y a dos representantes de las Asociaciones Civiles de reconocida trayectoria, pudiendo invitar a las sesiones de trabajo a los responsables de los programas en la materia.
+El Consejo de Asistencia e Integración Social del Distrito Federal estará constituido por un Presidente, un Vicepresidente y dieciocho Consejeros Propietarios: El Presidente será el Jefe de Gobierno, el Vicepresidente será el Titular de la Secretaría de Desarrollo, y los dieciocho Consejeros serán el Titular de la Secretaría de Gobierno, el Titular de la Secretaría de Finanzas, el Titular de la Secretaría de Salud del Distrito Federal, el Titular de la Secretaría de Protección Civil, el Titular de la Secretaría de Trabajo y Fomento al Empleo, el Titular de la Secretaría de Educación, el Titular de la Secretaría de Desarrollo Rural y Equidad para las Comunidades, el Titular de la Procuraduría General de Justicia del Distrito Federal, el Director General del DIF-D.F., los Presidentes de las Comisiones de Salud y Asistencia Social y de Grupos Vulnerables de la Asamblea Legislativa del Distrito Federal y el Presidente de la Junta de Asistencia Privada; el Presidente del Consejo invitará a un representante de la Universidad Nacional Autónoma de México, de la Universidad Autónoma Metropolitana e Instituto Politécnico Nacional y a dos representantes de las Asociaciones Civiles de reconocida trayectoria, pudiendo invitar a las sesiones de trabajo a los responsables de los programas en la materia.
 
 ###### Artículo 23.
 
@@ -253,3 +255,17 @@ G.O. 30 DE NOVIEMBRE DE 2005.
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal, para su promulgación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 6 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El personal que de una dependencia que, en aplicación del presente decreto, se transfiera a otra, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con la administración pública local del Distrito Federal. Si por cualquier circunstancia algún grupo de trabajadores resultare afectado con la aplicación del presente Decreto, se dará previamente intervención a la Oficialía Mayor del Distrito Federal y a las organizaciones sindicales respectivas.
+
+CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes anteriores a la vigencia del presente decreto pase, con motivo de éste, a otra Dependencia, el traspaso se hará incluyendo al personal de servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que la Unidad Administrativa de que se trate haya utilizado para la atención de los asuntos a su cargo.
+
+QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
+
+SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
