@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2006-11-02"
+last_updated: "2007-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -1371,6 +1371,14 @@ Para que se lleve a cabo la sesión del Pleno, es precisa la asistencia de la ma
 
 En la sesión en que se vaya a someter a votación el dictamen de una Iniciativa de Ley, es necesario que concurran al pase de lista, por lo menos, las dos terceras partes de los miembros del Congreso, considerándose esta sesión válida para el efecto de votación. Lo mismo se observará cuando con vista de la importancia de algún asunto, la Asamblea acuerde esa asistencia especial.
 
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+De no reunirse el quórum señalado en el párrafo anterior, el dictamen será discutido en Sesión posterior, para lo cual, bastará que concurran al pase de lista la mayoría de los Diputados, con la representación de todos los Grupos Legislativos, pudiendo desarrollarse incluso con la ausencia de uno de estos grupos.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+Para los efectos de este artículo se entenderá que un Grupo Legislativo está representado cuando asistan a la sesión la mayoría de los Diputados que lo integren o el Coordinador del mismo. Igualmente, para lo previsto en este artículo serán considerados como Grupos Legislativos los conformados al inicio de la Legislatura.
+
 ###### Artículo 95.
 
 Al iniciar cada sesión el Primer Secretario pasará lista de asistencia y sólo con la presencia de la mayoría el Presidente abrirá la sesión. Si no hubiere quórum se podrá dar un receso de treinta minutos, si al término de éste no se integrara la Asamblea, se declarará que no habrá sesión y se convocará a la siguiente, haciendo la excitativa correspondiente a los no asistentes.
@@ -1408,6 +1416,8 @@ El Presidente del Congreso abrirá y cerrará las sesiones respectivamente con e
 Para la Apertura o Clausura de los Períodos Ordinarios el Presidente instalará los trabajos de la Legislatura con la siguiente declaratoria: "La (Número) Legislatura al Congreso del Estado de Nuevo León "Abre" o "Clausura" hoy (fecha y año) su (1o. o 2o.) Período Ordinario de Sesiones, correspondiente al (primero, segundo o tercer) Año de Ejercicio Constitucional".
 
 ### CAPITULO III. DE LAS DELIBERACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2006)</small>
 
 ###### Artículo 102.
 
@@ -1835,11 +1845,11 @@ El día que se instalen los trabajos para Período Ordinario, la Diputación Per
 
 Lo anterior con excepción del informe a que hace referencia el segundo párrafo del mencionado Artículo 87, en cuyo caso, se reunirá la Diputación Permanente con el primordial objeto de escuchar el informe que rinda su Presidente.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 164.
 
-La Diputación Permanente cesará en sus funciones al momento de elegir a la Directiva del Período Ordinario de Sesiones, con excepción del día 19 de septiembre del año de la elección.
+La Diputación Permanente cesará en sus funciones al momento de elegir a la Directiva del Período Ordinario de Sesiones, con excepción del día 31 de agosto del año de la elección.
 
 TRANSITORIOS:
 
@@ -2126,3 +2136,7 @@ P.O. 2 DE NOVIEMBRE DE 2006.
 Artículo Primero.- El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno de este Congreso del Estado.
 
 Artículo Segundo.- El Presidente del Congreso del Estado deberá realizar los returnos correspondientes a fin de que las nuevas Comisiones de Dictamen Legislativo, creadas con motivo del presente Decreto, puedan analizar los asuntos que sean materia de su competencia.
+
+P.O. 7 DE FEBRERO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
