@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-una-institucion-publica-descentralizada-con-13566"
 country: "mx"
 rank: "ley"
 publication_date: "1956-05-09"
-last_updated: "2006-05-10"
+last_updated: "2007-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA UNA INSTITUCION PUBLICA DESCENTRALIZADA CON PERSONALIDAD JURIDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINARA "SERVICIOS DE AGUA Y DRENAJE DE MONTERREY"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 1956.
 
@@ -45,7 +45,11 @@ Se crea una institución pública descentralizada con personalidad jurídica pro
 
 La Institución tendrá por objeto prestar los servicios públicos de agua potable, no potable, residual tratada y agua negra, saneamiento de las aguas residuales y drenajes sanitario y pluvial a los habitantes del Estado de Nuevo León, conforme a las disposiciones de esta Ley, de la Ley de Agua Potable y Saneamiento para el Estado de Nuevo León, Ley de Hacienda para los Municipios de Nuevo León, sus reglamentos y demás disposiciones legales aplicables. Para tal efecto, realizará la operación, mantenimiento y administración de las fuentes de abasto de agua subterránea y superficial, así como de las redes de conducción y distribución de las aguas, quedando facultado para la formalización de los actos jurídicos necesarios para la consecución de su objeto, así mismo, impulsar y desarrollar la investigación para el aprovechamiento de todo subproducto que se genere en los procesos de potabilización, tratamiento y saneamiento de las aguas residuales. La Institución y los municipios podrán convenir su participación en el desarrollo de los servicios públicos indicados.
 
-La Institución podrá prestar además servicios de asesoría técnica en el saneamiento de las aguas residuales, así como en el monitoreo y verificación de la calidad de éstas y en relación con todas las actividades y servicios que presta, a las personas físicas y morales, públicas o privadas que se lo soliciten, cubriendo los interesados los costos que se originen por la prestación de los mismos, sin que se pueda estipular ningún tipo de subordinación ni dirección, respecto a la Institución.
+> <small>(ADICIONADO, P.O 7 DE FEBRERO DE 2007)</small>
+
+Sin perjuicio de lo previsto en el párrafo tercero, para la prestación del servicio de drenaje pluvial, la Institución será el organismo rector en la elaboración de un plan maestro de la red de drenaje pluvial, de los proyectos de las obras, así como de la supervisión de las mismas hasta su entrega recepción al nivel de gobierno que corresponda para su operación y mantenimiento, sin que sea responsable de los costos que ello implique, los cuales estarán a cargo de la Federación, del Estado, de los Municipios y/o de los particulares que correspondan, salvo convenio en contrario.
+
+La Institución podrá prestar además servicios de asesoría técnica en el saneamiento de las aguas residuales, así como en el monitoreo y verificación de la calidad de éstas y en relación con todas las actividades y servicios que presta, a las personas físicas y morales, públicas o privadas que lo soliciten, cubriendo los interesados los costos que se originen por la prestación de los mismos, sin que se pueda estipular ningún tipo de subordinación ni dirección, respecto a la Institución.
 
 ###### ARTICULO 3o.
 
@@ -298,3 +302,7 @@ Artículo Segundo.- Se derogan todos los decretos y disposiciones que se opongan
 P.O. 10 DE MAYO DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE FEBRERO DE 2007.
+
+Artículo Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
