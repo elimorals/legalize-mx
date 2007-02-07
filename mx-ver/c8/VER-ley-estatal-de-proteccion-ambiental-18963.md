@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2000-06-30"
+last_updated: "2007-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 62 ESTATAL DE PROTECCION AMBIENTAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
@@ -173,7 +173,9 @@ XLV. Residuos sólidos de origen municipal: los residuos no peligrosos que se ge
 
 XLVI. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
 
-XLVII. Secretaría: Secretaría de Desarrollo Regional.
+> <small>(REFORMADA, G.O. 7 DE FEBRERO DE 2007)</small>
+
+XLVII. Secretaría: Secretaría de Desarrollo Social y Medio Ambiente.
 
 XLVIII. Sistemas de drenaje y alcantarillado urbano o municipal: conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales urbanas o municipales, pudiendo incluir la captación de aguas pluviales.
 
@@ -1281,7 +1283,9 @@ La Secretaría de, tomando como base los estudios técnicos o socioeconómicos p
 
 Los programas de manejo para áreas naturales protegidas estatales, serán elaborados a través de un proceso amplio y con la participación efectiva e integral de la Secretaría, las demás dependencias competentes, autoridades municipales, instituciones de educación superior, centros de investigación, habitantes de la zona, mujeres y grupos indígenas, en un plazo no mayor a un año a partir de la fecha de expedición de la Declaratoria correspondiente. Cuando sean parques urbanos esta obligación corresponderá al Ayuntamiento de que se trate.
 
-En un plazo no mayor a treinta días después de la expedición de la Declaratoria, el Consejo Estatal de Protección al Ambiente designará un director del área natural protegida de que se trate, quien deberá de contar con una reconocida competencia ética y profesional. A partir de la fecha de la declaratoria, La Secretaría deberá en todos los casos informar detalladamente de los avances en la elaboración de los programas de manejo al Consejo Estatal de Protección al Ambiente, quien supervisará y emitirá recomendaciones específicas vinculantes.
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2007)</small>
+
+En un plazo no mayor a treinta días después de la expedición de la declaratoria, la Secretaría designará un director del área natural protegida de que se trate, quien deberá de contar con una reconocida competencia ética y profesional. A partir de la fecha de la declaratoria, la Secretaría deberá en todos los casos elaborar informes detallados de los avances en la elaboración de los programas de manejo.
 
 ###### Artículo 89.
 
@@ -1317,9 +1321,11 @@ Declarada un área natural protegida, solo podrá modificarse su extensión y lo
 
 El Registro Estatal de Espacios Naturales Protegidos estará conformado por el Sistema Estatal de Áreas Naturales Protegidas y el Sistema Estatal de Áreas Privadas y Sociales de Conservación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 96.
 
-La Secretaría y el Consejo Estatal de Protección al Ambiente constituirán un Consejo Estatal de Espacios Naturales Protegidos, que estará integrado por representantes de la misma Secretaría y del Consejo, de otras dependencias y entidades de la Administración Pública Estatal, representantes de las áreas privadas y sociales de conservación, así como de instituciones académicas y centros de investigación, agrupaciones de productores y empresarios, organizaciones no gubernamentales y de otros organismos de carácter social y privado, así como personas físicas, con reconocido prestigio en la materia.
+La Secretaría constituirá un Consejo Estatal de Espacios Naturales Protegidos, que estará integrado por representantes de la misma Secretaría y de otras dependencias y entidades de la Administración Pública Estatal, representantes de las áreas privadas y sociales de conservación, así como de instituciones académicas y centros de investigación, agrupaciones de productores y empresarios, organizaciones no gubernamentales y de otros organismos de carácter social y privado, así como personas físicas, con reconocido prestigio en la materia.
 
 El Consejo Estatal de Espacios Naturales Protegidos fungirá como órgano de consulta y apoyo de La Secretaría en la formulación, ejecución, seguimiento y evaluación, según sea el caso, de la política para el establecimiento, manejo y vigilancia de las áreas naturales protegidas de su competencia, así como de las Áreas Privadas y Sociales de Conservación.
 
@@ -2095,7 +2101,9 @@ C) Los sectores sociales cuya participación se estime indispensable para asegur
 
 D) Los acuerdos o convenios de coordinación que pudiesen resultar necesarios.
 
-III.- Los programas se someterán a la consideración de Consejo Estatal de Protección al Ambiente, a fin de que en su seno se acuerde lo conducente, con la participación de los ayuntamientos en cuya jurisdicción se vayan a desarrollar.
+> <small>(REFORMADA, G.O. 7 DE FEBRERO DE 2007)</small>
+
+III.- Los programas se someterán a la consideración de los ayuntamientos en cuya jurisdicción se vayan a desarrollar.
 
 IV.- La Secretaría deberá evaluar anualmente el funcionamiento de estos programas, proponiendo en su caso, las actualizaciones que estime necesarias.
 
@@ -2107,7 +2115,9 @@ Corresponde a los municipios:
 
 I.- Proporcionar a la Secretaría, la información y apoyo que requiera para la realización de los estudios.
 
-II.- Con base en la comunicación, que en los términos del párrafo último del artículo anterior, le haga la Secretaría de Desarrollo Regional:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE FEBRERO DE 2007)</small>
+
+II.- Con base en la comunicación, que en los términos del párrafo último del artículo anterior, le haga la Secretaría:
 
 A) Elaborar los programas que resulten, satisfaciendo las condiciones a que se refiere la fracción II del artículo precedente.
 
@@ -2115,7 +2125,9 @@ B) Someter estos programas a la consideración de la Comisión Municipal de Ecol
 
 III.- Hacer una evaluación anual de los programas a fin de verificar su funcionamiento y en su caso, proponer las medidas conducentes.
 
-IV.- Participar en las sesiones del Consejo Estatal de Protección al Ambiente en las que se consideren programas de aplicación en su territorio.
+> <small>(REFORMADA, G.O. 7 DE FEBRERO DE 2007)</small>
+
+IV.- Participar en la elaboración de los programas en los que se consideren acciones de aplicación en su territorio, en materia ambiental.
 
 ## TÍTULO SEXTO. PARTICIPACIÓN SOCIAL Y DERECHO A LA INFORMACIÓN AMBIENTAL
 
@@ -2155,41 +2167,23 @@ VI.- Propondrá a las Comisiones Municipales de Ecología, mecanismos adecuados 
 
 ### CAPÍTULO III. COMISIONES MUNICIPALES DE ECOLOGÍA
 
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 184.
 
-El Consejo Estatal de Protección al Ambiente, es un órgano de consulta y opinión que realizará además, tareas de concertación entre los sectores de la sociedad y el gobierno y que participará en la evaluación de la política ambiental estatal en los términos que dispongan esta Ley y las demás leyes aplicables.
+(DEROGADO, G.O. 7 DE FEBRERO DE 2007)
 
 ###### Artículo 185.
 
-El Consejo Estatal de Protección al Ambiente se integrará por:
-
-I.- Un Presidente, que será un ciudadano de reconocida trayectoria profesional en la materia designado por el Congreso del Estado y que durará en su encargo tres años;
-
-II.- Un Secretario Técnico, que será un ciudadano de reconocidos méritos científicos, técnicos, académicos o sociales en la materia, designado por el Presidente del Consejo Estatal de Protección al Ambiente;
-
-III.- Los Consejeros serán:
-
-a) Titulares de dependencias o entidades del Gobierno de Estado cuyas atribuciones se relacionen directamente con la protección ambiental;
-
-b) Representantes de instituciones educativas, de investigación, de organizaciones sociales y especialistas en la materia;
-
-c) Delegados de dependencias y entidades federales;
-
-d) Autoridades municipales ambientales del Estado.
-
-Los Consejeros se integrarán al Consejo Estatal de Protección al Ambiente, a invitación expresa de su Presidente.
-
-La organización y funcionamiento del Consejo Estatal de Protección al Ambiente se sujetará a lo dispuesto en su Reglamento.
+(DEROGADO, G.O. 7 DE FEBRERO DE 2007)
 
 ### CAPÍTULO IV. DERECHO A LA INFORMACIÓN AMBIENTAL
 
 ###### Artículo 186.
 
-En cada Municipio, se integrará una Comisión Municipal de Ecología, que estará presidida por el Presidente Municipal y como Secretario Técnico fungirá el edil encargado de la comisión de ecología o en su caso un ciudadano destacado en el área ambiental que no sea servidor público. Los Vocales podrán ser servidores públicos de dependencias y organismos auxiliares del gobierno; representantes de instituciones educativas y de investigación; representantes de organizaciones sociales; delegados de dependencias y entidades federales, y especialistas en la materia.
+En cada municipio se integrará una Comisión Municipal de Ecología, que estará presidida por el Presidente Municipal y como Secretario Técnico fungirá el edil encargado de la Comisión de Ecología o en su caso, un ciudadano destacado en el área ambiental que no sea servidor público. Los vocales podrán ser servidores públicos de dependencia y organismos auxiliares del Gobierno; representantes de instituciones educativas y de investigación; representantes de organizaciones sociales; delegados de dependencias y entidades federales, y especialistas en la materia.
 
-Corresponderá a las Comisiones Municipales de Ecología, identificar las acciones para preservar y restaurar el equilibrio ecológico y la protección al ambiente en el Municipio, proponer prioridades y programas para su atención, así como impulsar la participación en estas tareas, de los sectores público, social y privado.
-
-El funcionamiento de las Comisiones Municipales de Ecología, se sujetará al Reglamento Interior que para las mismas, expida el Consejo Estatal de Protección al Ambiente.
+Corresponderá a las Comisiones Municipales de Ecología, identificar las acciones para preservar y restaurar el equilibrio ecológico y la protección al ambiente en el municipio, proponer prioridades y programas para su atención, así como impulsar la participación en estas tareas, de los sectores público, social y privado.
 
 ### CAPÍTULO I. DE LA COMPETENCIA
 
@@ -2385,9 +2379,11 @@ VIII.- La reparación del daño ambiental.
 
 En los casos de reincidencia, se aplicará como mínimo el doble de la sanción que se haya impuesto la primera vez, y como máximo, el doble de la sanción máxima establecida en el artículo 212 de esta ley. Esta disposición solamente será aplicable en los casos a que se refieren las fracciones I y II del Artículo 212.
 
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 214.
 
-Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones que de ella se deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados, se destinarán atendiendo a la opinión del Consejo Estatal de Protección al Ambiente, a la integración de fondos para desarrollar programas vinculados con la inspección, vigilancia, conservación, restauración, educación e investigación ambiental en las materias a que se refiere esta Ley.
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta ley, sus reglamentos y demás disposiciones que de ella se deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados, se destinarán a la integración de fondos para desarrollar programas vinculados con la inspección, vigilancia, conservación, restauración, educación e investigación ambiental en las materias a que se refiere esta ley.
 
 ###### Artículo 215.
 
@@ -2600,3 +2596,13 @@ Licenciado Miguel Alemán Velazco
 Gobernador del Estado
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 7 DE FEBRERO DE 2007.
+
+Primero. El presente Decreto entrará en vigencia el día ocho de febrero de 2007, previa su publicación en la Gaceta Oficial del estado.
+
+Segundo. Los recursos materiales y financieros con que cuenta el Consejo Estatal de Protección al Ambiente, así como los asignados en el Presupuesto de Egresos para el ejercicio 2007, se reintegrarán a la Secretaría de Finanzas y Planeación para ser aplicados en programas específicos en materia de protección, conservación y restauración del medio ambiente en el estado de Veracruz de Ignacio de la Llave.
+
+Tercero. El personal que preste sus servicios al Consejo Estatal de Protección al Ambiente será solventado en términos de la legislación aplicable.
