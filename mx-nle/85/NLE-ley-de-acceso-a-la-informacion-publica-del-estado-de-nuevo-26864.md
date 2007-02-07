@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-a-la-informacion-publica-del-estado-de-nuevo-2686
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2006-09-10"
+last_updated: "2007-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 2003.
 
@@ -125,11 +125,63 @@ VI. Las cuentas públicas, así como los informes trimestrales de origen y aplic
 
 VII. Los balances generales, y los estados de pérdidas y ganancias;
 
-VIII. La nómina para la retribución de los servidores públicos con expresión del cargo y la remuneración;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2007)</small>
 
-IX. La relación analítica de pagos hechos a contratistas, proveedores y por honorarios pagados a profesionistas; y
+VIII. La nómina mensual para la retribución de los servidores públicos con expresión del nombre completo, cargo, y la remuneración, presentándose esta última en forma neta y bruta. Debiéndose de adicionar, en su caso, la información relativa a cualquier deducción, percepción, prestaciones o compensación que reciban con respecto al ejercicio de su responsabilidad, dejando a salvo lo establecido por el artículo 10 de esta Ley;
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+IX. La relación analítica mensual de pagos hechos a contratistas, proveedores, prestadores de servicios por honorarios pagados a profesionistas, gastos en comunicación social, representaciones, asesorías y en general todas las erogaciones que por cualquier concepto se realicen, que incluya número de control, nombre, razón o denominación social, breve descripción del gasto y monto pagado incluyendo el Impuesto al Valor Agregado;
 
 X. Los dictámenes sobre la aprobación o rechazo de las cuentas públicas, que se hayan votado en el Congreso.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+También deberá publicarse lo siguiente:
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+XI. Los planes de desarrollo y sus programas;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+XII. Los informes de resultados de la gestión, incluyendo en su caso, los mecanismos utilizados por la autoridad para la medición de su desempeño;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+XIII. Los manuales de organización, políticas y procedimientos, así como las reglas de operación de los programas;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+XIV. El contrato colectivo de trabajo vigente con el Sindicato de Burócratas, dejando a salvo lo establecido por el Artículo 10 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+XV. Los dictámenes de revisión de los estados financieros realizados por el Órgano Superior Fiscalizador;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+XVI. La base normativa relacionada a los subsidios, estímulos y apoyos con cargo a la hacienda pública;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+XVII. La relación mensual de autorizaciones, permisos, licencias y concesiones que se hayan otorgado a los interesados, dejando a salvo lo establecido por el artículo 10 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+XVIII. El directorio de servidores públicos, en el que se especifique nombre completo, domicilio, teléfono y correo electrónico, en su caso, de su área de adscripción;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+XIX. El Código de Ética de los servidores públicos; y
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+XX. Las actas de las sesiones celebradas por los diversos órganos colegiados de gobierno;
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+La publicación en Internet de la información mencionada anteriormente deberá de publicarse durante los siguientes 30 días naturales, a partir de la fecha en que se generó la misma, acatando en todo caso las disposiciones legales que existan y que establezcan tiempos menores.
 
 ###### Artículo 10.
 
@@ -260,6 +312,10 @@ El Comisionado Supernumerario podrá asistir con voz pero sin voto a todas las s
 Para la elección del Presidente de la Comisión, deberá previamente estar integrado el Pleno. El Presidente durará en su encargo dos años sin posibilidad de reelección inmediata, y sin impedimento para ser elegible en posteriores períodos.
 
 Los integrantes de la Comisión funcionarán como órgano colegiado. Sus resoluciones se tomarán por unanimidad o por mayoría de votos. Sesionarán válidamente con la asistencia de tres integrantes.
+
+(ADICIONADO, P.O. 7 DE FEBRERO DE 2007) (F. DE E., P.O. 14 DE FEBRERO DE 2007)
+
+En caso de no reunirse el quórum necesario para el desarrollo de la Sesión, se deberá realizar una segunda convocatoria, en un plazo que no deberá de exceder de 48 horas para Sesión que deberá llevarse a cabo con al menos 24 horas de diferencia. En este último caso, si no se consiguiera reunir de nueva cuenta el quórum de Ley, bastará con la asistencia de al menos dos Comisionados, requiriéndose en todo caso la presencia del Presidente, a excepción hecha de excusa o impedimento de éste.
 
 Para todos los efectos legales, los Comisionados serán considerados servidores públicos con las prerrogativas y responsabilidades que la Constitución Política del Estado de Nuevo León y demás leyes les señalen.
 
@@ -461,13 +517,35 @@ Por cuota se entenderá el equivalente al importe de un día de salario mínimo 
 
 A la autoridad que incumpla esta Ley se le aplicarán sanciones de acuerdo con las disposiciones siguientes:
 
-I. Multa de veinticinco cuotas por no proporcionar la información en el plazo fijado por esta Ley;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2007)</small>
 
-II. Multa de cien cuotas a la autoridad que no rinda el informe circunstanciado;
+I. Multa de 75 a 150 cuotas a la Autoridad por no responder una solicitud de información; o no publicar y actualizar la información dentro del término legal establecido para tal efecto;
 
-III. Multa de ciento cincuenta cuotas a la autoridad que incumpla una resolución de la Comisión; y
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2007)</small>
 
-IV. Multa de doscientas cuotas a la autoridad que incumpla la resolución de un recurso de queja.
+II. Multa de 151 a 250 cuotas a la Autoridad que no rinda dentro del término legal el informe circunstanciado;
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+III. Multa de 251 a 350 cuotas a la Autoridad que incumpla una resolución definitiva de la Comisión;
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+IV. Multa de 351 a 450 cuotas a la Autoridad que incumpla una resolución de un recurso de queja emitido por la Comisión.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+Las multas o sanciones se aplicarán de conformidad con los siguientes criterios:
+
+a) La individualización de la sanción en relación a la capacidad económica de la autoridad infractora;
+
+b) La gravedad de la falta cometida por la autoridad;
+
+c) La existencia o no de reincidencia por parte de la autoridad en la aplicación de las anteriores multas por infracción a esta Ley.
+
+Se considera reincidente al servidor público que incurra más de una vez en conductas que impliquen infracciones a la presente Ley, siempre y cuando exista una resolución emitida por el Pleno de la Comisión y esta haya causado ejecutoria; y
+
+d) El carácter intencional o negligente de la acción u omisión constitutiva de la falta cometida por parte de la autoridad.
 
 Lo anterior sin perjuicio de las sanciones administrativas o penales a que pueda hacerse acreedora con motivo de la aplicación de otras leyes.
 
@@ -556,3 +634,9 @@ Lo anterior sin perjuicio de la continuación del procedimiento conforme a la Le
 El Presidente del Consejo Estatal de Menores procederá en los términos establecidos por el párrafo primero de este artículo, en caso de que ya se hubiere pronunciado sentencia ejecutoria.
 
 Artículo Décimo Primero.- Las autoridades competentes expedirán los reglamentos necesarios para el cumplimiento de las disposiciones del presente Decreto, en un término que no deberá exceder de seis meses, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 7 DE FEBRERO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se concede un término de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, para que los servidores públicos responsables de cada dependencia, oficina o unidad administrativa de los poderes del Estado, los ayuntamientos y sus administraciones públicas en cualquier forma, los órganos autónomos y los fideicomisos en donde el fideicomitente o fideicomisario sea cualquiera de las entidades citadas, hagan del conocimiento público a través de internet la información descrita en las fracciones VIII, IX y de la XI a la XX del Artículo 9 de esta Ley.
