@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-51731"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-26"
-last_updated: "2006-09-26"
+last_updated: "2007-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51731&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-12-01"
 
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 2007.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de septiembre de 2006.
 
@@ -155,9 +155,11 @@ k) Las demás que le determine el Secretario Ejecutivo, el presente Reglamento y
 
 ### CAPITULO III. DE LAS CONDICIONES DE ELEGIBILIDAD
 
-###### ARTICULO 3.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 2007)</small>
 
-Podrán participar en el concurso de selección del SNI, los científicos y tecnólogos que tengan un contrato o convenio institucional vigente de al menos veinte horas-semana-mes para realizar actividades de investigación científica y/o desarrollo tecnológico en las instituciones y organizaciones de los sectores público, privado y social a las que se refiere el presente artículo o se encuentren realizando una estancia posdoctoral ya sea en México o en el extranjero.
+###### Artículo 3.
+
+Podrán, participar en el concurso de selección del SNI, los científicos y tecnólogos que tengan un contrato o convenio institucional vigente de al menos 20 horas-semana-mes para realizar actividades de investigación científica y/o desarrollo tecnológico en las instituciones y organizaciones de los sectores público, privado o social en México a las que se refiere el presente artículo. También podrán participar los mexicanos que obtuvieron el grado de doctor en México dentro de los dos últimos años previos al cierre de la convocatoria y que estén realizando una estancia posdoctoral en México o en el extranjero por un periodo máximo de dos años.
 
 En forma específica podrán ser miembros del SNI:
 
@@ -173,7 +175,9 @@ II. Los investigadores de las instituciones de educación superior y de investig
 
 III. En caso de que el aspirante no tenga nacionalidad mexicana, deberá contar con adscripción en alguna de las instituciones antes mencionadas, con antigüedad mínima de un año al inicio de su nombramiento en el Sistema. Deberá, además, demostrar su residencia en el país con documentos oficiales.
 
-IV. Los investigadores que acrediten una estancia posdoctoral por un máximo de dos años, y que presenten su solicitud de ingreso al SNI en un lapso no mayor a dos años al cierre de la convocatoria, después de haber obtenido el grado de doctor.
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2007)</small>
+
+IV. Los investigadores que hayan concluido su doctorado en el extranjero y que cuenten con un contrato o convenio en los términos señalados en el primer párrafo de este artículo, que acrediten una estancia posdoctoral en México por un máximo de dos años, y que presenten su solicitud de ingreso al SNI en un lapso no mayor a dos años al cierre de la convocatoria, después de haber obtenido el grado de doctor.
 
 V. Los investigadores vigentes en el SNI que ocupen un cargo en el servicio público o de elección popular podrán conservar su nombramiento hasta el término de su vigencia y dejarán de recibir el estímulo económico. En caso de que continúen realizando actividades científicas y/o tecnológicas adicionalmente a las correspondientes a su cargo administrativo, podrán fundamentar su labor científica y/o tecnológica, ante la Comisión Dictaminadora correspondiente y en el caso de obtener un dictamen positivo de su producción seguirán recibiendo el estímulo económico asociado a su categoría y nivel.
 
@@ -263,9 +267,13 @@ Las Comisiones Dictaminadoras emitirán su dictamen dentro de los seis meses sig
 
 Después de la evaluación de cada una de las solicitudes, las Comisiones Dictaminadoras propondrán al Consejo de Aprobación a través del Secretario Ejecutivo, el ingreso o no ingreso del solicitante al SNI, así como su categoría y nivel.
 
-Los resultados de las evaluaciones serán publicados en la página electrónica del CONACYT, especificando los nombres de los investigadores aprobados e indicando la categoría y el nivel que les hayan sido conferidos. Complementariamente, el resultado de la evaluación, así como el dictamen razonado emitido por la Comisión Dictaminadora correspondiente, será notificado vía electrónica al aspirante, por el Secretario Ejecutivo.
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2007)</small>
+
+Los resultados de las evaluaciones serán publicados en la página electrónica del CONACYT, especificando los nombres de los investigadores aprobados e indicando la categoría y el nivel que les hayan sido conferidos. Complementariamente, el resultado de la evaluación, así como el dictamen justificado emitido por la Comisión Dictaminadora correspondiente, será notificado vía electrónica al aspirante, por el Secretario Ejecutivo.
 
 En caso de que el aspirante no reciba la notificación por vía electrónica dentro de los cinco días naturales posteriores a la publicación de los resultados en la página electrónica del CONACYT, podrá solicitar que el oficio respectivo se le envíe por correo.
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 15.
 
@@ -274,6 +282,8 @@ Los criterios generales tienen como objetivo orientar los trabajos y las recomen
 I. La producción de investigación científica y/o tecnológica;
 
 II. La formación de recursos humanos especializados;
+
+Además, se considerará:
 
 III. La participación en la labor de difusión y divulgación;
 
@@ -303,9 +313,11 @@ e) el liderazgo y reconocimiento nacional e internacional;
 
 f) la creación de empresas de alto valor agregado a partir del conocimiento científico-tecnológico.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 17.
 
-Los productos obtenidos a través de las diferentes actividades consideradas por el SNI son, entre otros:
+Los productos obtenidos a través de las diferentes actividades consideradas por el SNI, son, entre otros:
 
 I. Investigación científica y/o tecnológica:
 
@@ -352,6 +364,8 @@ h) formación de profesionistas;
 i) formación de técnicos especializados;
 
 j) tutoría de estudiantes.
+
+Además se considerará:
 
 III. Divulgación:
 
@@ -435,7 +449,9 @@ Las solicitudes de reconsideración serán evaluadas por la Comisión Dictaminad
 
 El dictamen de la Comisión Dictaminadora Revisora será sometido a la consideración del Consejo de Aprobación, a través del Secretario Ejecutivo, para su decisión final, la cual será inapelable.
 
-Los resultados de las reconsideraciones serán publicados en la página electrónica del CONACYT, en un máximo de tres meses contados a partir de la fecha de su presentación, especificando los nombres de los investigadores, indicando la categoría y el nivel que les hayan sido conferidos. Asimismo, dicha decisión será notificada al aspirante, por escrito, vía electrónica y por conducto del Secretario Ejecutivo, incluyendo el dictamen debidamente fundado y motivado emitido por la Comisión correspondiente.
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2007)</small>
+
+Los resultados de las reconsideraciones serán publicados en la página electrónica del CONACYT, en un máximo de tres meses, especificando los nombres de los investigadores, indicando la categoría y el nivel que les hayan sido conferidos. Asimismo, dicha decisión será notificada al aspirante, por escrito, vía electrónica y por conducto del Secretario Ejecutivo, incluyendo el dictamen justificado emitido por la Comisión correspondiente.
 
 ### CAPITULO VIII. DE LAS DISTINCIONES
 
@@ -714,3 +730,25 @@ SEXTO.- Los asuntos que se encuentren en trámite antes de la entrada en vigor d
 El presente Reglamento tiene su fundamento en lo dispuesto por los artículos 12 fracción XVI de la Ley de Ciencia y Tecnología; 1, 2 fracción VIII; 6 fracción IV y 9 fracciones I y II de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología y 1, 2, 3 fracción XII; 10 fracciones XII y XIV; y 21 fracciones I, II, V y XLV del Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología; y fue aprobado por la Junta de Gobierno del Consejo Nacional de Ciencia y Tecnología, en su XV Sesión Ordinaria celebrada el primero de diciembre de 2005, mediante el acuerdo AR-XV-06/05.
 
 El Director General del Consejo Nacional de Ciencia y Tecnología, Gustavo Chapela Castañares.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 7 DE FEBRERO DE 2007.
+
+ACUERDO POR EL QUE SE MODIFICAN LOS ARTICULOS 3, FRACCION IV; 14 Y 21 DEL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quedan sin efecto todas aquellas disposiciones administrativas que contravengan lo dispuesto en el presente Acuerdo.
+
+TERCERO.- Los asuntos pendientes de trámite a la entrada en vigor del presente Acuerdo, se resolverán de conformidad con el mismo.
+
+D.O.F. 7 DE FEBRERO DE 2007.
+
+ACUERDO POR EL QUE SE QUE MODIFICAN LOS ARTICULOS 15 Y 17 DEL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quedan sin efecto todas aquellas disposiciones administrativas que contravengan lo dispuesto en el presente Acuerdo.
+
+TERCERO.- Los asuntos pendientes de trámite a la entrada en vigor del presente Acuerdo, se resolverán de conformidad con el mismo.
