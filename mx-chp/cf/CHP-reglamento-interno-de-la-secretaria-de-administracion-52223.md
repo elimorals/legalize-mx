@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interno-de-la-secretaria-de-administracion-52223"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-27"
-last_updated: "2006-09-27"
+last_updated: "2007-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE ADMINISTRACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 27 de septiembre de 2006.
 
@@ -89,13 +89,17 @@ Unidad de Planeación
 
 Unidad de Informática
 
-II. Subsecretaría de Desarrollo Administrativo y Tecnológico:
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+II. Subsecretaría de Desarrollo Administrativo y Tecnológico
 
 Dirección de Desarrollo Administrativo
 
-Dirección de Desarrollo Tecnológico
+Dirección de Normatividad e Infraestructura Tecnológica
 
 Dirección de Internet
+
+Dirección de Innovación y Desarrollo Tecnológico
 
 III. Subsecretaría de Administración de Personal:
 
@@ -527,9 +531,17 @@ La Subsecretaría de Desarrollo Administrativo y Tecnológico, tendrá los sigui
 
 a) Dirección de Desarrollo Administrativo.
 
-b) Dirección de Desarrollo Tecnológico; y,
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
-c) Dirección de Internet.
+b) Dirección de Normatividad e Infraestructura Tecnológica;
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+c) Dirección de Internet; y,
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+d) Dirección de Innovación y Desarrollo Tecnológico.
 
 ###### Artículo 22.
 
@@ -683,61 +695,59 @@ VII. Promover la difusión de las normas jurídicas y administrativas de la Admi
 
 VIII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que le asigne el Secretario, a través del Titular de la Subsecretaría de su adscripción, o éste último directamente.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 30.
 
-La Dirección de Desarrollo Tecnológico, tendrá los siguientes subórganos administrativos.
+La Dirección de Normatividad e Infraestructura Tecnológica tendrá los siguientes subórganos Administrativos:
 
-a) Departamento de Ingeniería de Sistemas;
+a) Departamento de Capacitación Especializada.
 
 b) Departamento de Infraestructura Tecnológica; y,
 
-c) Departamento de Capacitación y Evaluación de la Gestión Informática lnstitucional.
+c) Departamento de Seguimiento de Proyectos y Normatividad.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 31.
 
-El titular de la Dirección de Desarrollo Tecnológico, tendrá las atribuciones siguientes:
+El Titular de la Dirección de Normatividad e Infraestructura Tecnológica tendrá las atribuciones siguientes:
 
-I. Formular, proponer y difundir las normas, lineamientos y procedimientos de carácter general en materia de tecnologías de información y comunicaciones, para regir y promover la seguridad, estandarización, optimización y aprovechamiento de las mismas en la Administración Pública Estatal;
+I. Formular, proponer y difundir las políticas, normas y procedimientos de carácter general en materia de infraestructura tecnológica y capacitación especializada para promover la seguridad, estandarización y aprovechamiento de los recursos informáticos de la Administración Pública Estatal.
 
-II. Elaborar, proponer e impulsar el uso de nuevas tecnologías de información y comunicaciones, en la Administración Pública Estatal;
+II. Emitir los dictámenes de viabilidad de los proyectos para la adquisición o arrendamiento de bienes y/o servicios informáticos y equipos de comunicaciones.
 
-Elaborar, proponer y coordinar la integración de proyectos interinstitucionales que fortalezcan al Sistema de Gestión Gubernamental y al uso adecuado de la Red de Información Gubernamental;
+III. Definir las características técnicas mínimas de los bienes informáticos y equipos de comunicación y telecomunicación que deberán considerar los órganos de la Administración Pública Estatal, para la justificación técnica en la integración de proyectos.
 
-IV. Definir las características técnicas mínimas de los bienes informáticos y equipos de comunicación y telecomunicaciones que deberá considerar la Administración Pública Estatal, para la justificación técnica en la integración de proyectos;
+IV. Coordinar la integración de proyectos interinstitucionales a fin de fortalecer la Red de Información Gubernamental, así como los proyectos especiales de infraestructura tecnológica.
 
-V. Analizar, validar y dictaminar la factibilidad técnica que justifique los proyectos de la Administración Pública Estatal para la adquisición, arrendamiento de bienes y/o servicios informáticos, equipos de comunicación, telecomunicaciones;
+V. Analizar y emitir opinión, a solicitud del Instituto de Profesionalización del Servidor Público, respecto de los proyectos de capacitación externa que en materia de tecnologías de información especializada le propongan.
 
-VI. Definir y proponer al Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas, la documentación técnica complementaria, así como, el procedimiento de análisis que deberá solicitarse y establecerse en las bases de los procesos licitatorios para los bienes informáticos y equipos de comunicación, que realice la Administración Pública Estatal, en estricto apego a las disposiciones de la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas;
+VI. Coordinar la capacitación especializada que se brinde al personal adscrito a las áreas administradoras de tecnologías de información de la Administración Pública Estatal.
 
-VII. Definir y proponer los requerimientos mínimos que deberán ser considerados para la evaluación de los centros de servicios de los bienes informáticos, equipos de comunicaciones y telecomunicaciones;
+VII. Analizar y validar, en coordinación con la Dirección de Desarrollo Administrativo, los proyectos de fortalecimiento organizacional de las áreas administradoras de tecnologías de información del Ejecutivo Estatal y proponerlos con base en los resultados de supervisiones informáticas.
 
-VIII. Analizar y proponer los procesos de verificación de características técnicas, pruebas técnicas y documentales que se aplicarán a bienes informáticos sujetos a licitación;
+VIII. Supervisar la infraestructura de redes de área local y telefónica de la Administración Pública Estatal y proporcionar el soporte técnico correspondiente con el objeto de garantizar su óptimo funcionamiento, salvo las que por disposición legal correspondan supervisar y administrar a otras instancias de gobierno.
 
-IX. Elaborar, promover, analizar, en su caso, proponer y aprobar los proyectos especiales de sistematización de procesos, que puedan ser integrados al sistema de gestión gubernamental y los de infraestructura tecnológica que presente la Administración Pública Estatal;
+IX. Expedir y autorizar los dictámenes de baja, transferencia o reparación de bienes informáticos, de acuerdo a las condiciones de operación a fin de satisfacer los requerimientos que presenten las áreas administradoras de tecnologías de información.
 
-X. Analizar y emitir informe sobre el cumplimiento de la normatividad informática, la organización y gestión de los órganos administradores de Tecnologías de Información y el seguimiento de proyectos informáticos de la Administración Pública Estatal;
+X. Coordinar y ejecutar las revisiones informáticas a las áreas administradoras de tecnología de información del Poder Ejecutivo del Estado que permitan evaluar eí cumplimiento de los proyectos y normatividad en materia de infraestructura tecnológica y capacitación especializada.
 
-XI. Analizar y validar, en coordinación con la Dirección de Desarrollo Administrativo, los proyectos de reorganización y fortalecimiento organizacional de los órganos administradores de Tecnologías de Información, y proponer las adecuaciones que se requieran, con base a los resultados de las supervisiones informáticas;
+XI. Dirigir y proporcionar la asistencia técnica, a solicitud de la Dirección de Adquisiciones, Dependencia o Entidad requeriente, durante los procesos licitatorios a fin de verificar las características técnicas de bienes y/o servicios informáticos y equipos de comunicación a adquirir o arrendar.
 
-XII. Asesorar y apoyar a la Administración Pública Estatal requirentes, a solicitud de la Dirección de Adquisiciones, en el análisis y el levantamiento del acta de evaluación técnica, de la descripción técnica de los bienes, servicios informáticos y equipos de comunicación;
-
-XIII. Participar en la revisión de bases, junta de aclaración de dudas, apertura de las propuestas técnicas y económicas y fallo de las licitaciones por concepto de bienes y servicios informáticos y equipos de comunicación y telecomunicaciones realizadas vía Comité de Adquisiciones, Arrendamiento y Servicios de Bienes Muebles, previa solicitud por parte de la Dirección de Adquisiciones;
-
-XIV. Elaborar, validar y emitir los dictámenes de baja o transferencia de bienes informáticos de la Administración Pública Estatal, de acuerdo a las condiciones de operación;
-
-XV. Capacitar en tecnologías de información especializada sobre programación, diseño gráfico, programas multimedia y soporte técnico a hardware, a los servidores públicos adscritos a los órganos administradores de Tecnologías de Información de la Administración Pública Estatal;
-
-XVI. Analizar y emitir opinión a solicitud del Instituto de Profesionalización del Servidor Público, de los proyectos de capacitación externa en materia de tecnologías de información especializada, propuestos por la Administración Pública Estatal; y,
-
-XVII. Las demás que en el ámbito de su competencia le confieren las disposiciones legales aplicables, así como, las que le asigne el Secretario, a través del titular de la Subsecretaría de su adscripción, o éste último directamente.
+XII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que le asigne el Secretario, a través del Titular de la Subsecretaría de su adscripción, o este último directamente.
 
 ###### Artículo 32.
 
 La Dirección de Internet, tendrá los siguientes subórganos administrativos:
 
-a) Departamento de Programación y Diseño; y,
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
-b) Departamento de Administración del Sitio Central de Internet.
+a) Departamento de Administración y Desarrollo Web.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+b) Departamento de Firma Electrónica.
 
 ###### Artículo 33.
 
@@ -758,6 +768,44 @@ VI. Establecer las estrategias técnicas para proporcionar servicios y trámites
 VII. Administrar los recursos tecnológicos del sitio central de Internet de la Administración Pública Estatal; y,
 
 VIII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que le asigne el Secretario, a través del Titular de la Subsecretaría de su adscripción, o éste último directamente.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+###### Artículo 33 Bis.
+
+La Dirección de Innovación y Desarrollo Tecnológico, tendrá los siguientes subórganos administrativos:
+
+a) Departamento de Innovación Tecnológica;
+
+b) Departamento de Enlace Institucional; y,
+
+c) Departamento de Análisis y Desarrollo de Sistemas.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+###### Artículo 33 Ter.
+
+El Titular de la Dirección de Innovación y Desarrollo Tecnológico, tendrá las atribuciones siguientes:
+
+I. Instrumentar la estrategia institucional en materia de innovación y desarrollo tecnológico a través de la formulación de normas y procedimientos que rijan la estandarización, optimización y aprovechamiento de los sistemas informáticos en la Administración Pública Estatal.
+
+II. Coordinar y promover, a través de los órganos de la Administración Pública Estatal, la implementación del desarrollo tecnológico que incremente la productividad en los sectores económico, productivo y social del Estado.
+
+III. Dar atención y seguimiento a las necesidades que en materia tecnológica y sistematización presenten los diferentes sectores productivos del Estado promoviendo modelos para la generación de nuevas tecnologías, así como la producción de modelos de utilidad.
+
+IV. Identificar los proyectos tecnológicos innovadores, creaciones o inventos registrables que sean desarrollados por los órganos de la Administración Pública Estatal a fin de gestionar su registro ante el Instituto Mexicano de la Propiedad Industrial o ante el Instituto Nacional del Derecho de Autor, según sea el caso, para garantizar la titularidad de los derechos de autor a favor del Gobierno del Estado.
+
+V. Promover y realizar acciones de vinculación y colaboración con organismos e instancias internacionales a efecto de impulsar la transferencia de innovaciones y prácticas exitosas en materia de desarrollo tecnológico.
+
+VI. Verificar que las Dependencias y Entidades de la Administración Pública estatal, utilicen y adquieran exclusivamente las tecnologías innovadoras que se requieran para el desarrollo de sus actividades.
+
+VII. Analizar y evaluar el contenido de innovación tecnológica de los proyectos especiales de sistematización de procesos, a fin de consolidar su integración e implementación.
+
+VIII. Definir y establecer la Convocatoria del Reconocimiento de Innovación Estatal que promueva la consolidación de nuevos sistemas de administración basados en la mejora continua y la innovación tecnológica para transformar a las instituciones públicas del Estado.
+
+IX. Fungir como Secretario Técnico en la Comisión Intersecretarial de Tecnologías de Información y Comunicaciones del Poder Ejecutivo del Estado.
+
+X. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que le asigne el Secretario.
 
 ###### Artículo 34.
 
@@ -1064,3 +1112,13 @@ Octavo.- En cumplimiento a lo dispuesto por el Artículo 8°, de la Ley Orgánic
 Dado en la Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 18 días del mes de agosto del año 2006.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Nelda R. Camacho Alayola, Secretaria de Administración.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE FEBRERO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- En cumplimiento a lo dispuesto en el artículo 8°, de la ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
