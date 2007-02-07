@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-agua-potable-y-saneamiento-para-el-estado-de-nuevo-11020
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-03"
-last_updated: "1997-10-03"
+last_updated: "2007-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 
 LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
 
-Ley publicada en el Periódico Oficial del estado de Nuevo León, el viernes 3 de octubre de 1997.
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de octubre de 1997.
 
 LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEON
 
@@ -44,6 +44,10 @@ LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEON
 ###### ARTICULO 1o.
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer las normas conforme a las cuales serán prestados los servicios públicos de agua potable y saneamiento en el Estado.
+
+> <small>(ADICIONADO, P.O 7 DE FEBRERO DE 2007)</small>
+
+En todo lo que en esta ley se refiere a agua potable y saneamiento, se entenderá también el drenaje pluvial.
 
 ###### ARTICULO 2o.
 
@@ -70,6 +74,10 @@ g) Saneamiento: Colección, conducción, tratamiento, alojamiento y descarga de 
 h) Zona de Conurbación: La demarcación territorial formalmente declarada cuando dos o más centros urbanos se extiendan en territorio de dos o más Municipios y formen o tiendan a formar una continuidad demográfica, en los términos de lo dispuesto por la Legislación en materia de Desarrollo Urbano del Estado.
 
 i) Proyecto autorizado: Planos, normas y especificaciones autorizados por el organismo operador, para la construcción de las instalaciones y obras de infraestructura que debe realizar el interesado para que se proporcionen los servicios de agua potable y saneamiento, sin perjuicio de las atribuciones que correspondan a las demás autoridades competentes.
+
+> <small>(ADICIONADO, P.O 7 DE FEBRERO DE 2007)</small>
+
+j) Drenaje pluvial: medios de captación, conducción y colección de aguas pluviales.
 
 ###### ARTICULO 4o.
 
@@ -224,6 +232,10 @@ En cada zona de conurbación los servicios públicos de agua potable y saneamien
 En la zona conurbada del Area Metropolitana que comprende los Municipios de Apodaca, General Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y el parque Ciudad Industrial Mitras, en García, N.L. los servicios se prestarán por el organismo público estatal descentralizado denominado "Servicios de Agua y Drenaje de Monterrey" I.P.D. No obstante, y por circunstancias más favorables de carácter financiero, de eficiencia en la prestación de los servicios y de beneficio comunitario, los servicios que actualmente presta "Servicios de Agua y Drenaje de Monterrey", I.P.D. podrán ser concesionados a los particulares, conforme a las prescripciones establecidas en el Artículo 7 fracción V y en el Capítulo V de esta ley.
 
 El Organismo Público denominado "Servicios de Agua y Drenaje de Monterrey", I.P.D., efectuará la operación, mantenimiento y administración de las fuentes de abasto de agua subterránea y superficial que se aprovechan para el suministro del área metropolitana de Monterrey, con sus respectivos acueductos, y podrá en su caso, celebrar convenios con los Municipios donde se originan las fuentes de abasto o los que estén aledaños a los acueductos que conducen el agua al área metropolitana, para entregarles agua en bloque, de acuerdo a la dotación que establezca la Comisión Estatal de Agua y Saneamiento y conforme a las tarifas que tenga establecidas para tal efecto "Servicios de Agua y Drenaje de Monterrey", I.P.D.
+
+> <small>(ADICIONADO, P.O 7 DE FEBRERO DE 2007)</small>
+
+El organismo rector para la elaboración de un plan maestro de la red de drenaje pluvial y de los proyectos de obras de drenaje pluvial, será “Servicios de Agua y Drenaje de Monterrey” I.P.D., así como de las supervisión de las mismas hasta su entrega recepción al nivel de gobierno que corresponda para su operación y mantenimiento, pero los costos que éstas impliquen estarán a cargo de la Federación, del Estado, de los Municipios y/o de los particulares que correspondan salvo convenio en contrario.
 
 ###### ARTICULO 16.
 
@@ -776,3 +788,9 @@ BENJAMIN CLARIOND REYES-RETANA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 JUAN FRANCISCO RIVERA BEDOYA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE FEBRERO DE 2007.
+
+Artículo Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del estado de Nuevo León.
