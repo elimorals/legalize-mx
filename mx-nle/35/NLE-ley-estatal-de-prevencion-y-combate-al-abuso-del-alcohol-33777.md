@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-prevencion-y-combate-al-abuso-del-alcohol-33777"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-10"
-last_updated: "2006-04-05"
+last_updated: "2007-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE PREVENCION Y COMBATE AL ABUSO DEL ALCOHOL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de septiembre de 2003.
 
@@ -145,7 +145,9 @@ Dichos establecimientos deberán ubicarse a una distancia perimetral mínima de 
 
 A las autoridades administrativas del Estado y de los municipios, en el ámbito de su competencia, les corresponde:
 
-I. Desarrollar estrategias y programas preventivos en materia de combate al abuso en el consumo del alcohol;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+I. Desarrollar estrategias, programas anuales preventivos y campañas permanentes de difusión e información en materia de combate al abuso en el consumo del alcohol;
 
 II. Promover su coordinación para el cumplimiento del objeto de esta Ley;
 
@@ -241,7 +243,9 @@ El Consejo Estatal de Menores será el encargado de aplicar en su caso, las sanc
 
 La Secretaría de Educación:
 
-I. Implementará programas y acciones tendientes a inhibir en los alumnos el consumo de bebidas alcohólicas, mediante el conocimiento de los efectos que el abuso del alcohol genera; y
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2007)</small>
+
+I. Implementará programas, acciones y campañas permanentes de difusión, tendientes a inhibir en los alumnos el consumo de bebidas alcohólicas mediante el conocimiento de los efectos que el abuso del alcohol genera; y
 
 II. Determinará la participación de las asociaciones de padres de familia en los mismos.
 
@@ -618,3 +622,9 @@ Artículo Quinto.- Se concede a las personas físicas y morales que transporten 
 P.O. 5 DE ABRIL DE 2006.
 
 Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE FEBRERO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Ejecutivo del Estado y los Ayuntamientos en el ámbito de su respectiva competencia, deberán adecuar, en un término que no exceda de treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, las disposiciones reglamentarias.
