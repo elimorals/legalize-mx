@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-del-instituto-de-acceso-a-la-informacion-publica-52394"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-11-29"
-last_updated: "2006-11-29"
+last_updated: "2007-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52394&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-11-07"
 
 ACUERDO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, POR EL QUE SE APRUEBA EL CATALOGO DE PUESTOS Y EL TABULADOR DE SUELDOS BRUTOS DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO POR EL QUE SE APRUEBA EL CATALOGO DE PUESTOS Y EL TABULADOR DE SUELDOS BRUTOS DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL PARA EL EJERCICIO FISCAL 2007, PUBLICADO EN LA G.O. DE 7 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el miércoles 29 de noviembre de 2006.
 
@@ -62,7 +64,7 @@ ACUERDO
 
 PRIMERO.- Se aprueban el catálogo de puestos y el tabulador de sueldos brutos del Instituto de Acceso a la Información Pública del Distrito Federal, en los términos del documento que como anexo forma parte del presente Acuerdo.
 
-SEGUNDO.- Se abroga el ACUERDO 035/SO/23-05/2006 aprobado por el Instituto de Acceso a la Información Pública del Distrito Federal el veintitrés de mayo de dos mil seis y publicado en la Gaceta Oficial del Distrito Federal el cinco de junio de dos mil seis.
+SEGUNDO.- Se abroga el ACUERDO 035/SO/23-05/2006 aprobado por el Instituto de Acceso a la Información Pública del Distrito Federal el veintitrés de mayo de dos mil seis y publicado en la Gaceta Oficial del Distrito Federal el cinco de junio (sic) de dos mil seis.
 
 TERCERO.- Se instruye al Secretario Técnico para que en el ámbito de sus atribuciones realice las acciones necesarias para publicar el presente acuerdo en la Gaceta Oficial del Distrito Federal, en el portal de Internet y en los Estrados del INFODF, respectivamente.
 
@@ -105,3 +107,15 @@ Instituto de Acceso a la Información Pública del Distrito Federal
 Catálogo de Puestos y Tabulador de Sueldos Brutos
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+G.O. 7 DE FEBRERO DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- Se abroga el ACUERDO 136/SO/07-11/2006 aprobado por el Instituto de Acceso a la Información Pública del Distrito Federal el veintitrés de mayo de dos mil seis y publicado en la Gaceta Oficial del Distrito Federal el cinco de junio de dos mil seis.
+
+...
+
+CUARTO.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
