@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establece-el-procedimiento-para-la-46834"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-11-21"
-last_updated: "2005-11-21"
+last_updated: "2007-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46834&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-11-16"
 
 ACUERDO POR EL QUE SE ESTABLECE EL PROCEDIMIENTO PARA LA TRAMITACION DE LOS RECURSOS DE REVISION Y RECONSIDERACION, Y SE DESIGNA LA INSTANCIA INTERNA RESPONSABLE DE SU RESOLUCION, DE CONFORMIDAD CON LO ESTABLECIDO EN LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL ACUERDO POR EL QUE SE ESTABLECE EL PROCEDIMIENTO PARA LA TRAMITACION DE LOS RECURSOS DE REVISION Y RECONSIDERACION, Y SE DESIGNA AL COMITE RESOLUTOR DE LOS RECURSOS DE REVISION Y RECONSIDERACION COMO LA INSTANCIA DE LA AUDITORIA SUPERIOR DE LA FEDERACION RESPONSABLE DE SU RESOLUCION, PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 21 de noviembre de 2005.
 
@@ -198,3 +200,9 @@ En lo no previsto en este procedimiento para la tramitación y resolución de lo
 UNICO.- El presente Acuerdo entrará en vigor el día hábil siguiente de su publicación en el Diario Oficial de la Federación.
 
 Dado en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de noviembre de dos mil cinco.- El Auditor Superior de la Federación, Arturo González de Aragón O.- Rúbrica.- El Presidente del Comité de Información, José Miguel Macias Fernández.- Rúbrica.- El Titular de la Unidad de Enlace, Raúl Esquerra Castañeda.- Rúbrica.- El Secretario Ejecutivo, Sergio Gallardo Franco.- Rúbrica.- Los Vocales, Juan Manuel Portal Martínez, Roberto Salcedo Aquino, Benjamín Fuentes Castro, Julián A. Olivas Ugalde, César Marttelo Díaz.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 7 DE FEBRERO DE 2007.
+
+Unico.- El presente Acuerdo entrará en vigor el día hábil siguiente de su publicación en el Diario Oficial de la Federación, abrogando el "Acuerdo por el que se establece el Procedimiento para la tramitación de los Recursos de Revisión y Reconsideración, y se designa la instancia interna responsable de su resolución, de conformidad con lo establecido en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental", publicado en el Diario Oficial de la Federación, el 21 de noviembre de 2005.
