@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prevencion-y-readaptacion-social-para-el-estado-de-12433
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-02"
-last_updated: "2006-09-23"
+last_updated: "2007-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PREVENCION Y READAPTACION SOCIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -87,9 +87,9 @@ La DIRECCION tendrá a su cargo:
 
 I.- Organizar y supervisar el sistema penitenciario en el Estado;
 
-II.- Supervisar las políticas de tratamiento que aplica el Centro Estatal para Menores así como las acciones jurídicas del Consejo Tutelar para Menores, organismos que dependerán de la DIRECCION; y
+II.- (DEROGADA, P.O. 8 DE FEBRERO DE 2007)
 
-III.- Organizar la Defensoría de Oficio en el Estado.
+III.- (DEROGADA, P.O. 8 DE FEBRERO DE 2007)
 
 ###### ARTICULO 7o.
 
@@ -133,9 +133,9 @@ XVIII.- Supervisar el cumplimiento de las disposiciones que emanen de la present
 
 XIX.- Proponer al Secretario General de Gobierno las necesidades en cuanto a obras para el mejor funcionamiento del tratamiento readaptatorio, vigilando el estricto cumplimiento presupuestal de las mismas y la aplicación de los recursos que se otorguen para tal efecto;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2007)</small>
 
-XX.- Recibir, autorizar y, en su caso, negar la autorización a las propuestas de tipo laboral que hagan los directores de centros de readaptación y el presidente del Consejo Tutelar para Menores, las que invariablemente se formularán de conformidad con las instrucciones de la Oficialía Mayor de Gobierno y el perfil más adecuado en cuanto a la propuesta;
+XX.- Recibir, autorizar y, en su caso, negar la autorización a las propuestas de tipo laboral que hagan los directores de centros de readaptación, las que invariablemente se formularán de conformidad con las instrucciones de la Secretaría de Administración de Gobierno del Estado y el perfil más adecuado en cuanto a la propuesta;
 
 > <small>(ADICIONADA, P.O. 19 DE ENERO DE 2002)</small>
 
@@ -679,35 +679,29 @@ El patronato brindará asistencia a los liberados de otras entidades federativas
 
 Para el mejor logro de los fines, el Consejo Técnico de cada reclusorio, entrará en contacto con el organismo postinstitucional a través de la dirección del establecimiento penal, desde que el interno quede en libertad.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 4165, POR EL QUE SE APRUEBA LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION SERA A LOS NOVENTA DIAS POSTERIORES A LA PUBLICACION DEL CITADO DECRETO.</small>
-
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VIII. DE LA ASISTENCIA A LAS VICTIMAS
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 4165, POR EL QUE SE APRUEBA LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION SERA A LOS NOVENTA DIAS POSTERIORES A LA PUBLICACION DEL CITADO DECRETO.</small>
 
 ###### ARTICULO 94.
 
 (DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 4165, POR EL QUE SE APRUEBA LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION SERA A LOS NOVENTA DIAS POSTERIORES A LA PUBLICACION DEL CITADO DECRETO.</small>
-
 ###### ARTICULO 95.
 
 (DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 4165, POR EL QUE SE APRUEBA LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION SERA A LOS NOVENTA DIAS POSTERIORES A LA PUBLICACION DEL CITADO DECRETO.</small>
 
 ###### ARTICULO 96.
 
 (DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 4165, POR EL QUE SE APRUEBA LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION SERA A LOS NOVENTA DIAS POSTERIORES A LA PUBLICACION DEL CITADO DECRETO.</small>
-
 ###### ARTICULO 97.
 
 (DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2007)</small>
+
+Las dependencias de la Procuraduría General de Justicia del Estado y las del Poder Judicial, así como el Instituto para el Tratamiento de Menores Infractores en el Estado, en cuanto esto resulte posible, procurará la vinculación con el patronato, con las víctimas del delito y sus familiares que requieran de la ayuda, proporcionando toda la información necesaria a dicho organismo.
 
 ## TRANSITORIOS
 
@@ -766,3 +760,7 @@ TERCERO.- El Reglamento Interno del Centro, deberá ser expedido por el Consejo 
 CUARTO.- En tanto se expida el Reglamento Interno de esta Ley, el Consejo de Administración y el Director, resolverán lo que conforme a derecho proceda.
 
 QUINTO.- Se deroga el Capítulo VIII de la Ley de Prevención y Readaptación Social para el Estado de Colima y todas las demás disposiciones que se opongan a la presente ley.
+
+P.O. 8 DE FEBRERO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
