@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2006-12-26"
+last_updated: "2007-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1259,9 +1259,45 @@ j) Otros 0.05 a 423.50
 
 Cuando se trate de fraccionamiento de tipo mixto, se cobrará por la autorización el promedio que resulte de las modalidades que lo compongan.
 
-II. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE FEBRERO DE 2007)</small>
 
-III. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
+II. Permiso para subdivisión o fusión de lotes, por metro cuadrado resultante según su categoría:
+
+a) Habitacional densidad alta 0.05
+
+b) Habitacional densidad media 0.10
+
+c) Habitacional densidad baja 0.16
+
+d) Habitacional campestre o aislada 0.06
+
+e) Comercio y servicios 0.07
+
+f) Manufacturas y usos industriales 0.06
+
+g) Habitacional en comunidad rural, que cuenten con un programa de desarrollo urbano 0.03
+
+h) Otros de 0.05 a 0.16
+
+i) Habitacional densidad baja zona
+
+residencial 0.16
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE FEBRERO DE 2007)</small>
+
+III. Permiso para relotificación de predios, por metro cuadrado resultante según su categoría:
+
+a) Habitacional densidad alta 0.08
+
+b) Habitacional densidad media 0.15
+
+c) Habitacional densidad baja 0.23
+
+d) Habitacional campestre o aislada 0.10
+
+e) Manufacturas y usos industriales 0.10
+
+f) Otros de 0.08 a 0.23
 
 IV. Permiso para constituir en régimen de condominio por metro cuadrado, independientemente del pago del permiso de construcción:
 
@@ -2557,11 +2593,9 @@ a 5,578 días de salario mínimo 2.00
 
 13,947 y 22,315 días de salario mínimo 5.00
 
-4.- Cuando el valor catastral sea de 22,315
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
 
-días de salario mínimo en adelante se pagará
-
-sobre dicho valor 0.01%
+4.- Cuando el valor catastral sea de 22,315 días de salario mínimo en adelante se pagará sobre dicho valor 0.1%
 
 b).- Avalúo certificado de un predio rústico a solicitud del interesado
 
@@ -2651,7 +2685,9 @@ e).- Por la localización de coordenadas
 
 geodésicas para orientación de terrenos 40.00
 
-IV.- Por la fusión o subdivisión de predios y renotificación
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2007)</small>
+
+IV.- Por la fusión o subdivisión de predios y relotificación.
 
 a).- Cuando el valor de los predios fusionados, subdivididos o renotificados sea de:
 
@@ -3497,37 +3533,37 @@ Unidad de salario
 
 I. Arrendamiento de mercados, se pagará según la tarifa siguiente, por día:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
 
-a).- Locales interiores de 0.001 a 9.000 m2.
+a).- Locales interior de 0.001 a 9.000 m2 0.20
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
 
-b).- Locales interiores de 9.001 a 18.000 m2.
+b).- Locales interiores de 9.001 a 18.000 m2 0.40
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
 
-c).- Locales interiores de 18.001 a 27.000 m2.
+c).- Locales interiores de 18.001 a 27.000 m2 0.59
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
 
-d).- Locales interiores de 27.001 m2 en adelante.
+d).- Locales interiores de 27.001 m2 en adelante 0.79
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
 
-e).- Accesorías
+e).- Accesorias 0.20
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
 
-f).- Puestos semifijos
+f).- Puestos semifijos 0.40
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
 
-g).- Puestos eventuales
+g).- Puestos Eventuales 0.40
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
 
-h).- Otros no especificados
+h).- Otros no especificados 0.40
 
 II. Refrendo de concesión de los mercados, anualmente 2.00
 
@@ -3918,3 +3954,7 @@ P.O. 26 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO PRIMERO.
 
 La presente Ley entrará en vigor a partir del día 1º de enero del año 2007, previa publicación en el "Periódico Oficial del Estado".
+
+P.O. 8 DE FEBRERO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
