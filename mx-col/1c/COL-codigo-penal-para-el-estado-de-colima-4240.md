@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2006-07-18"
+last_updated: "2007-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -2043,11 +2043,11 @@ Se equipara a la violencia intrafamiliar y se sancionará con las mismas penas p
 
 En todos los casos previstos en los dos artículos precedentes, el Ministerio Público apercibirá al probable responsable para que se abstenga de cualquier conducta que pudiera resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que estime convenientes de manera inmediata, que en ningún caso excederá de veinticuatro horas y el juez resolverá sin dilación.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 191 Bis 3.
 
-El delito de Violencia Intrafamiliar, se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en este caso se perseguirá de oficio.
+Toda conducta sancionada por el artículo 191 Bis y 191 Bis 1 del presente Código será investigada y perseguida de oficio.
 
 ### CAPITULO I.
 
@@ -3116,3 +3116,7 @@ P.O. 26 DE NOVIEMBRE DE 2005.
 P.O. 18 DE JULIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 8 DE FEBRERO DE 2007.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
