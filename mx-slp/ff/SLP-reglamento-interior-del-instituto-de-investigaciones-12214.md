@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-instituto-de-investigaciones-12214"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-01-31"
-last_updated: "1997-12-04"
+last_updated: "2007-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADO EN EL P.O. DE 8 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 31 de enero de 1997.
 
@@ -372,3 +374,13 @@ DR. JESUS EDUARDO NOYOLA BERNAL
 P.O. 4 DE DICIEMBRE DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+Este Reglamento entrará en vigor el dí a (sic) siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto de Investigaciones Legislativas del Congreso del Estado, publicado con fecha 31 de enero de 1997 en el Periódico Oficial del Estado; y se derogan todas las disposiciones que contravengan al presente Reglamento. Los casos no previstos en este Reglamento, se resolverán por el Congreso del Estado Libre y Soberano de San Luis Potosí.
