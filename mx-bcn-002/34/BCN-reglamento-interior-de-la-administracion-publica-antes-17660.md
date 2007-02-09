@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2007-01-05"
+last_updated: "2007-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2007.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -2441,9 +2441,9 @@ XIII.- Administrar el fondo para gastos menores.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAMUNICIPAL
 
-### CAPITULO SEGUNDO. DE LA SUBDIRECCION DE CONTRALORIA
+### CAPITULO SEGUNDO. DE LA DIRECCION DE CONTRALORIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 123.
 
@@ -2473,7 +2473,9 @@ VII.- La dependencia coordinadora de sector, con la que trabajarán, conforme a 
 
 ## TITULO CUARTO. DE LA SINDICATURA MUNICIPAL
 
-### CAPITULO TERCERO. DE LA SUBDIRECCION JURIDICA
+### CAPITULO TERCERO. DE LA DIRECCION JURIDICA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 124.
 
@@ -2539,9 +2541,11 @@ e) Integrar quórum, y participar con voz y voto en todas las sesiones de los ó
 
 f) Verificar que se remitan oportunamente al Congreso del Estado, las cuentas públicas de la entidad, para su revisión, cumpliendo con los requisitos legales que correspondan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 125.
 
-La Sindicatura Municipal para el cumplimiento de sus atribuciones contará con una coordinación administrativa, y tendrá bajo su cargo las siguientes subdirecciones:
+La Sindicatura Municipal para el cumplimiento de sus atribuciones contará con una coordinación administrativa, y tendrá bajo su cargo las siguientes Direcciones:
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2004)</small>
 
@@ -2555,43 +2559,73 @@ II.- Jurídica; y
 
 III.- Fiscalización.
 
-### CAPITULO CUARTO. DE LA SUBDIRECCION DE FISCALIZACION
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2007)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2004)</small>
+### CAPITULO CUARTO. DE LA DIRECCION DE FISCALIZACION
 
-ARTICULO 129 BIS.- La Subdirección de Fiscalización tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
 
-l.- Ejercer las atribuciones que se establecen a cargo de la Sindicatura en el artículo 124 del presente reglamento, en sus fracciones I, II, III, IV, V, VI, VII, XV, XVI y XVII inciso a, b, y f;
+ARTICULO 129 BIS.- La Dirección de Fiscalización se encargará de la vigilancia y control de las dependencias y entidades de la Administración Pública Municipal, revisando y verificando que estas se administren y apliquen los recursos que les sean asignados, con eficiencia, eficacia y honradez, al logro de las metas y objetivos establecidos en sus programas y en cumplimiento de la normatividad aplicable, encargándose de:
 
-II.- Elaborar los programas sobre los que se dirigirán las revisiones financieras, administrativas y operacionales a las dependencias y entidades;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
+
+I.- Ejercer las atribuciones que se establecen a cargo de la Sindicatura en el artículo 124 del presente reglamento, en sus fracciones I, II, III, IV, V, VI, VII, XV, XVI Y XVIII incisos a), b) y f);
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
+
+II.- Elaborar los programas sobre los que se dirigirán las revisiones programáticas y presupuestales, financieras, administrativas y operacionales a las dependencias y entidades;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
 
 III.- Asesorar para la correcta aplicación y debido cumplimiento de la normatividad vigente en materia de ejercicio del gasto público, por parte de las dependencias y entidades;
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
+
 IV.- Inspeccionar físicamente las obras públicas que lleven a cabo las dependencias y entidades, para comprobar si las inversiones y gastos autorizados, se han aplicado eficientemente al logro de los objetivos y metas de los programas y subprogramas aprobados;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
 
 V.- Practicar auditorias a las obras públicas que lleven a cabo las diferentes dependencias y organismos ejecutoras de obra;
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
+
 VI.- Intervenir en todas las etapas del proceso de licitación de la obra pública, con la finalidad de verificar el debido cumplimiento de la normatividad aplicable;
 
-VII.- Asesorar y validar la elaboración de las actas de entrega-recepción y documentación complementaria, cuando tengan lugar cambios de funcionarios; y
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
 
-VIII.- Participar en el acto protocolario de firmas de actas de entrega-recepción.
+VII.- Asesorar y validar la elaboración de las actas de entrega-recepción y documentación complementaria, cuando tengan lugar cambios de funcionarios; y (sic)
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
 
-ARTICULO 129 TER.- La Subdirección de Fiscalización para un mejor desempeño de sus atribuciones, contará con tres departamentos que son:
+VIII.- Participar en el acto protocolario de firmas de actas de entrega-recepción;
 
-I.- Técnico, el que tendrá las atribuciones previstas en el artículo 124 fracción XVI y 129 Bis fracciones IV y V.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2007)</small>
 
-II.- Revisiones Programáticas, el que tendrá las atribuciones previstas en el artículo 124 fracciones IV, V, VII y XVIII inciso f) 129 Bis fracción VIII.
+IX.- Dar seguimiento a las observaciones no solventadas determinadas por el Órgano de Fiscalización Superior del Estado de Baja California, derivadas del examen de las Cuentas Públicas del Ayuntamiento como de los Organismos Paramunicipales, consignadas en los Dictámenes turnados a la Sindicatura Municipal por el Congreso del Estado e informar al mismo en los plazos otorgados;
 
-III.- Revisiones Financieras, el que tendrá las atribuciones previstas en el artículo 124 fracciones I, II, III, IV, XV Y XVIII incisos a) y b) artículo 129 Bis fracción VII.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2007)</small>
+
+X.- Realizar revisiones derivadas de denuncias y quejas ciudadanas a efecto de documentar las actuaciones de los servidores públicos municipales.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
+ARTICULO 129 TER.- La Dirección de Fiscalización para un mejor desempeño de sus atribuciones contará con los siguientes departamentos:
+
+I.- Departamento de revisión de Obra Pública; el que tendrá las atribuciones previstas en el artículo 24, fracciones XVI y 129 BIS, fracciones, IV, V, VI;
+
+II.- Departamento de Revisiones Programáticas y Presupuestales; el que tendrá las atribuciones previstas en el artículo 124, fracciones IV, V y VII y artículo 129 BIS fracción III;
+
+III.- Departamento de Revisión de la Administración Central; el que tendrá las atribuciones previstas en el artículo 124, fracciones I, II, III, IV, V, VI, VII, XV Y XVIII incisos a), b) y f) y artículos 129 BIS, fracciones VII y VIII;
+
+IV.- Departamento de Revisiones al Sector Paramunicipal; el que tendrá las atribuciones previstas en el artículo 124, fracciones I, II, III, IV, V, VI, VII XV Y XVIII, incisos a), b) y f), y artículos 129 BIS, fracciones VII y VIII; y
+
+V.- Departamento de Revisiones Especiales; el que tendrá las atribuciones previstas en el artículo 129 BIS, fracciones IX y X.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 126.
 
-La Subdirección de Contraloría se encargará de vigilar el desempeño y actuación de los Servidores Públicos de la Administración Pública Municipal, así como revisar y verificar que las dependencias y entidades, administren y apliquen los recursos que les sean asignados, con eficacia, eficiencia, y honradez, al logro de las metas y objetivos establecidos en sus programas, y en cumplimiento de la normatividad aplicable y encargándose de:
+La Dirección de Contraloría se encargará de vigilar el desempeño y actuación de los servidores públicos de la Administración Pública Municipal, para lo cual desarrollará las siguientes funciones:
 
 I.-.- (sic) Recibir quejas y denuncias de ciudadanos y autoridades sobre el desempeño de los servidores públicos de la Administración Pública Municipal, pudiendo actuar a petición de parte o de oficio, cuando éstos hayan incumplido con cualquiera de las obligaciones que les impone la Ley de Responsabilidades de los Servidores Públicos del Estado, y los reglamentos municipales que regulen el actuar de dichos servidores públicos;
 
@@ -2639,17 +2673,19 @@ XVIII.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
 
 XIX.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 127.
 
-La Subdirección de Contraloría para un mejor desempeño de sus atribuciones contara con dos departamentos que son:
+La Dirección de Contraloría para un mejor desempeño de sus atribuciones contará con tres departamentos:
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2004)</small>
+I.- De Responsabilidades Especializado en Servidores Públicos;
 
-I.- Responsabilidades.
+II.- De Responsabilidades Especializado en Asuntos de la Dirección de Seguridad pública; y
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2004)</small>
+III.- De Supervisión.
 
-II.- Supervisión.
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ### CAPITULO UNICO. DE LA DIRECCION DE PLANEACION URBANA
 
@@ -2657,7 +2693,7 @@ II.- Supervisión.
 
 ###### ARTICULO 128.
 
-La Subdirección Jurídica se encargará de brindar asesoría y asistencia legal en los litigios en los que sea parte o tenga alguna intervención el Municipio o el Ayuntamiento, para lo cual tendrá las siguientes atribuciones:
+La Dirección Jurídica se encargará de brindar asesoría y asistencia legal en los litigios en los que sea parte o tenga alguna intervención el Municipio o el Ayuntamiento, para lo cual tendrá las siguientes atribuciones:
 
 I.- Ejercer la representación jurídica del Ayuntamiento, así como de las dependencias y entidades de la Administración Pública Municipal;
 
@@ -2675,15 +2711,17 @@ VII.- Promover e impulsar, en coordinación con las dependencias y entidades la 
 
 VIII.- Participar en la elaboración de normas técnicas relativas a la regulación y control de los bienes y recursos municipales;
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 129.
 
-La Subdirección Jurídica para un mejor desempeño de sus atribuciones contará con dos departamentos que son:
+La Dirección Jurídica para un mejor desempeño de sus atribuciones contará con dos departamentos que son:
 
 I.- De Atención Jurídica, el que tendrá las atribuciones previstas en el artículo anterior en sus fracciones de la I a la V; y,
 
 II.- De Capacitación Jurídica, el que tendrá las atribuciones previstas en el artículo anterior en sus fracciones de la VI a la VIII.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ### CAPITULO UNICO. DE LA DIRECCION DE ADMINISTRACION URBANA
 
@@ -3124,5 +3162,11 @@ P.O. 5 DE ENERO DE 2007.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
 
 SEGUNDO.- Transfiéranse el presupuesto, los expedientes, los activos fijos y bienes en general con que cuente la Coordinación de Mantenimiento e Intendencia y la Coordinación de Mesa Técnica del Departamento de Recursos Materiales, al nuevo Departamento de Mantenimiento de la misma Oficialía Mayor, de igual forma a la Coordinación de Mesa Técnica como área de apoyo a la Oficina del Titular de Oficialía Mayor.
+
+P.O. 9 DE FEBRERO DE 2007.
+
+PRIMERO.- Cuando una ley o reglamento se refiera a las Subdirecciones de Contraloría, Fiscalización o Jurídica, se entenderá que se refieren a las actuales Direcciones de Contraloría, Fiscalización y Jurídica a que se refieren estas reformas.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
