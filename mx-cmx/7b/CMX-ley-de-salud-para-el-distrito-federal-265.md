@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-para-el-distrito-federal-265"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-15"
-last_updated: "2004-01-27"
+last_updated: "2007-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=265&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1986-12-19"
 
 LEY DE SALUD PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE FEBRERO DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 15 de enero de 1987
 
@@ -890,7 +890,7 @@ El personal médico deberá, a partir de que tengan conocimiento de alguna enfer
 
 ### CAPITULO X. De los Centros de Reunión y Espectáculos Públicos
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 53.
 
@@ -908,7 +908,7 @@ Igualmente con el objeto de prestar los primeros auxilios, contarán con botiqu�
 
 ###### ARTICULO 55.
 
-Además de los requisitos reglamentarios respectivos, las instalaciones y edificios que se destinen a centros de reunión y a espectáculos públicos deberán tener acceso directo a la vía pública, espacios abiertos, escaleras de emergencia, y todas aquellas disposiciones que, a juicio del Gobierno, sean necesarias para la evacuación del público en casos de emergencia.
+Además de los requisitos reglamentarios respectivos, las instalaciones y edificios que se destinen a centros de reunión y a espectáculos públicos deberán dar cumplimiento a las disposiciones jurídicas aplicables en materia de límites máximos permisibles para las emisiones sonoras, así como tener acceso directo a la vía pública, espacios abiertos, escaleras de emergencia, y todas aquellas disposiciones que, a juicio del Gobierno, sean necesarias para la evacuación del público en casos de emergencia.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1611,3 +1611,9 @@ SEGUNDO.- El presente decreto entrara en vigor al día siguiente de su publicaci
 G.O. 27 DE ENERO DE 2004.
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE FEBRERO DE 2007.
+
+PRIMERO.-Se derogan todas las disposiciones que contravengan la presente iniciativa.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal y para su mayor Difusión en el Diario Oficial de la Federación.
