@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2006-12-29"
+last_updated: "2007-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -159,93 +159,25 @@ El Estado de Michoacán de Ocampo es libre, independiente y soberano en su régi
 
 La soberanía del Estado reside esencial y originariamente en el pueblo, y se ejerce por medio de los poderes públicos, en los términos que establece esta Constitución.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 13.
 
 El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo y popular, como previene el Pacto Federal.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
-
-Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral
-
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
+Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
-
 Los partidos políticos tendrán derecho a participar en las elecciones estatales y municipales.
-
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
 
 En los procesos electorales estatales y municipales los partidos políticos deberán contar, en forma equitativa, con los elementos necesarios para la consecución de sus fines.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
-
-La ley garantizará que, de acuerdo con las disponibilidades presupuestales, los partidos políticos reciban, en forma equitativa y proporcional, financiamiento público para su sostenimiento y que cuenten durante los procesos electorales con apoyos para sus actividades tendientes a la obtención de sufragio universal.
-
-> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 1997)</small>
+La ley garantizará que, de acuerdo con las disponibilidades presupuestales, los partidos políticos reciban, en forma equitativa y proporcional, financiamiento público para su sostenimiento y que cuenten durante los procesos electorales con apoyos para sus actividades tendientes a la obtención del sufragio universal.
 
 La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; así como las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
 Los partidos políticos tendrán derecho al uso en forma equitativa, proporcional y permanente, de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la ley.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios denominado Instituto Electoral de Michoacán, en cuya integración participan el Poder Legislativo, los partidos políticos y los ciudadanos, según lo disponga la Ley. La certeza, legalidad, objetividad, imparcialidad, independencia, equidad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
-
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
-
-El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones, contará en su estructura con órganos de dirección, ejecutivos y desconcentrados. El órgano superior de dirección se integrará en la forma y términos que establezca la ley de la materia.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-El organismo público cubrirá en su desempeño, además de lo que determine la ley, las actividades relativas a la preparación y desarrollo de la jornada electoral, otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos; y se encargará de la organización y desarrollo de los procesos plebiscitarios y de referéndum, en los términos y con las formalidades establecidas en la ley de la materia. Las sesiones de los órganos colegiados electorales serán públicas en los términos que disponga la ley.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-Los consejeros electorales del órgano superior de dirección, deberán satisfacer los requisitos que señale la ley y serán electos por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, de entre los propuestos por los grupos parlamentarios en la propia Cámara. La ley señalará las reglas y el procedimiento correspondientes.
-
-> <small>(DEROGADO DECIMO TERCER PARRAFO, P.O. 7 DE MARZO DE 2003)</small>
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-Se establecerá un sistema de medios de impugnación, en los términos que señale esta Constitución y la ley, de los que conocerá el organismo público previsto en este artículo y el Tribunal Electoral del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
-
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
-
-En materia electoral la interposición de los recursos no produce efectos suspensivos del acto o resolución impugnado en ningún caso.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-El Tribunal Electoral del Estado, será órgano autónomo y máxima autoridad jurisdiccional electoral. Los poderes Legislativo y Judicial, garantizarán su debida integración.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-El Tribunal Electoral del Estado tendrá competencia para resolver en forma definitiva, en los términos de esta Constitución y la ley, las impugnaciones que se presenten en materia electoral.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-El Tribunal Electoral del Estado funcionará en salas unitarias, colegiadas y en Pleno; sus sesiones de resolución serán públicas, en los términos que establezca la ley. Para cada proceso electoral se integrarán dos Salas de Segunda Instancia, que estarán constituidas cada una de ellas con tres magistrados del Tribunal. Estas Salas serán competentes para resolver los recursos de reconsideración que se presenten.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-Las impugnaciones que se presenten sobre la elección de Gobernador del Estado, serán resueltas en única instancia por el Pleno del Tribunal.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-El Pleno del Tribunal Electoral declarará la legalidad y validez de la elección de Gobernador del Estado, una vez resueltos, en su caso, los medios de impugnación que se hubieren interpuesto en contra de la misma.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-El Tribunal Electoral del Estado se organizará en los términos que señale la ley de la materia.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-Los magistrados del Tribunal, los cuales serán independientes y responderán al mandato de la ley, deberán satisfacer los requisitos que señale la Ley, que no podrán ser menores a los que señala esta Constitución para ser designado Magistrado del Supremo Tribunal de Justicia del Estado. Serán electos por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, de entre los propuestos por el Ejecutivo del Estado y el Supremo Tribunal de Justicia.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -661,19 +593,25 @@ X-B.- Emitir las normas que establezcan los procedimientos para resolver los con
 
 XI.- Legislar en materia de ingresos del Estado, y analizar y discutir anualmente el Presupuesto de Egresos, así como revisar, fiscalizar y dictaminar la Cuenta Pública de la Hacienda Estatal. De igual manera, revisar, fiscalizar y dictaminar sobre la aplicación de los recursos otorgados a las entidades paraestatales y otros que dispongan de autonomía.
 
-Para la revisión de las cuentas públicas, el Congreso se apoyará en la entidad de fiscalización superior, que se denominará Auditoría Superior de Michoacán. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiere exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
 
-XII.- Dar las bases para que el Ejecutivo celebre empréstitos, con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos y reconocer y autorizar el pago de los adeudos que contraiga el Estado;
+El Congreso deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Estado o de las entidades paraestatales que cuenta con la garantía del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados por el Congreso conforme a las leyes aplicables.
+
+Para la revisión de las cuentas públicas, el Congreso se apoyará en la entidad de fiscalización superior, que se denominará Auditoría Superior de Michoacán. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y partidas respectivas o no existiere exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
+
+XII.- Dar las bases para que el Ejecutivo y los Ayuntamientos contraten deuda pública y afecten como garantía, fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes y con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
-XIII.- Pedir cuentas al Ejecutivo de la recaudación e inversión de los caudales públicos cuando lo estime conveniente. Esta revisión tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y el cumplimiento de los objetivos contenidos en los programas.
+XIII.- Pedir cuentas al Ejecutivo de la recaudación e inversión de los caudales públicos cuando lo estime conveniente. Esta revisión tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y el cumplimiento de los objetivos contenidos en los programas;
 
 XIV.- Legislar sobre toda clase de aranceles;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
-XV.- Vigilar, por conducto de la Comisión correspondiente, el correcto funcionamiento y rendimiento de la Auditoría Superior de Michoacán.
+XV.- Vigilar, por conducto de la Comisión correspondiente, el correcto funcionamiento y rendimiento de la Auditoría Superior de Michoacán;
 
 XVI.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la administración así como aumentar o disminuir los emolumentos de que éstos gozan, teniendo en cuenta las condiciones de la hacienda pública, y nombrar y remover libremente a los empleados del Poder Legislativo;
 
@@ -689,7 +627,7 @@ XIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender ayunt
 
 Los miembros de los ayuntamientos y, en su caso, de los concejos municipales, tendrán siempre oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso designará de entre los vecinos, a los miembros de los concejos municipales que concluirán los períodos respectivos; estos concejos, estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores;
+En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso designará de entre los vecinos, a los miembros de los concejos municipales que concluirán los períodos respectivos; estos concejos, estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -709,11 +647,11 @@ XXI B.- Privar del cargo a los integrantes del Consejo del Poder Judicial, por l
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de Justicia, de plano y sin substanciación de procedimiento, a la conclusión de los períodos constitucionales mediante el voto de las dos terceras partes de sus miembros;
+XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de Justicia, de plano y sin substanciación de procedimiento, a la conclusión de los períodos constitucionales, mediante el voto de las dos terceras partes de sus miembros;
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
-XXIII.- Nombrar a los consejeros electorales del Instituto Electoral de Michoacán y a los magistrados del Tribunal Electoral del estado, conforme al procedimiento que establezca la ley;
+XXIII.- Nombrar a los consejeros electorales del Instituto Electoral de Michoacán y a los magistrados del Tribunal Electoral del Estado, conforme al procedimiento que establezca la ley;
 
 XXIII bis.- (DEROGADA, P.O. 23 DE MAYO DE 2006)
 
@@ -1503,27 +1441,59 @@ La Comisión Estatal para el Acceso a la Información Pública será órgano de 
 
 Los comisionados serán electos por el Congreso del Estado, por el voto de las dos terceras partes de los diputados presentes, a propuesta del Gobernador del Estado, quien a partir de propuestas de instituciones y organizaciones académicas, profesionales y ciudadanas, enviará una lista de aspirantes con el triple del número de comisionados a nombrar, para que de entre ellos se elija a quien ocupará el cargo. En caso de que el Congreso rechace total o parcialmente la lista propuesta, el Gobernador del Estado someterá una nueva lista de aspirantes en los términos señalados. Si no hubiere acuerdo del Congreso, el Gobernador del Estado designará a los comisionados faltantes, de entre las propuestas.
 
-#### SECCION I. Del Ministerio Público
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 9 DE FEBRERO DE 2007)</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+#### SECCION IV. Del Instituto Electoral de Michoacán
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 98.
 
-(DEROGADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)
+La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios denominado Instituto Electoral de Michoacán, en cuya integración participan el Poder Legislativo, los partidos políticos y los ciudadanos, según lo disponga la Ley. La certeza, legalidad, objetividad, imparcialidad, independencia, equidad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+
+El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones, contará en su estructura con órganos de dirección, ejecutivos y desconcentrados. El órgano superior de dirección se integrará en la forma y términos que establezca la ley de la materia.
+
+El organismo público cubrirá en su desempeño, además de lo que determine la Ley, las actividades relativas a la preparación y desarrollo de la jornada electoral, otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos; y se encargará de la organización y desarrollo de los procesos plebiscitarios y de referéndum, en los términos y con las formalidades establecidas en la ley de la materia. Las sesiones de los órganos colegiados electorales serán públicas en los términos que disponga la Ley.
+
+Los consejeros electorales del órgano superior de dirección, deberán satisfacer los requisitos que señale la Ley y serán electos por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, de entre los propuestos por los grupos parlamentarios del Congreso. La Ley señalará las reglas y el procedimiento correspondientes.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 9 DE FEBRERO DE 2007)</small>
+
+#### SECCION V. Del Tribunal Electoral del Estado
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
+Artículo 98 A.- Se establecerá un sistema de medios de impugnación, en los términos que señale esta Constitución y la Ley, de los que conocerá el organismo público previsto en el artículo anterior y el Tribunal Electoral del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+En materia electoral, la interposición de los recursos, en ningún caso produce efectos suspensivos del acto o resolución impugnado.
+
+El Tribunal Electoral del Estado será órgano autónomo y máxima autoridad jurisdiccional electoral. El Poder Legislativo, garantizará su debida integración.
+
+El Tribunal Electoral del Estado tendrá competencia para resolver en única instancia y en forma definitiva, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral.
+
+El Pleno del Tribunal Electoral declarará la legalidad y validez de la elección de Gobernador del Estado, una vez resueltos, en su caso, los medios de impugnación que se hubieren interpuesto en contra de la misma.
+
+El Tribunal Electoral del Estado se organizará en los términos que señale la ley de la materia.
+
+El Tribunal Electoral del Estado funcionará en Pleno con cinco magistrados; sus sesiones de resolución serán públicas, en los términos que establezca la Ley.
+
+Los magistrados del Tribunal, los cuales serán independientes y responderán al mandato de la Ley, deberán satisfacer cuando menos los requisitos que señala ésta Constitución para ser Magistrado del Supremo Tribunal de Justicia del Estado.
+
+El Poder Legislativo elegirá a los magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, mediante convocatoria pública.
+
+Los magistrados tendrán un periodo constitucional de dos procesos electorales ordinarios sucesivos. Al término de su periodo cesarán en sus funciones y no podrán ser reelectos. La Ley señalará las reglas y el procedimiento correspondientes.
+
+El Congreso del Estado conocerá de las quejas en contra de los magistrados, podrá privarlos de su encargo, por las causas previstas en el artículo 77 de esta Constitución.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
-
-#### SECCION II. De la Defensoría de Oficio
-
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ### CAPITULO II. Del Ministerio Público y Defensoría de Oficio
 
 > <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
 
-#### SECCION I. De la Tesorería General
+#### SECCION I. Del Ministerio Público
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 99.
 
@@ -1567,9 +1537,9 @@ Cuando el Congreso del Estado rechace el nombramiento, el Titular del Ejecutivo 
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2006)</small>
 
-#### SECCION II. De la Auditoría Superior de Michoacán
+#### SECCION II. De la Defensoría de Oficio
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 103.
 
@@ -1707,13 +1677,13 @@ Si alguno de los miembros de los ayuntamientos dejare de desempeñar su cargo se
 
 Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
-(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 117.
 
-Los ayuntamientos tendrán un periodo de ejercicio de cuatro años y seis meses. La elección de la totalidad de sus integrantes, se celebrará, según corresponda, el primer domingo del mes de julio del año en que concluya el período constitucional y el primer domingo del mes de diciembre, del año anterior al en que concluya el período constitucional, y tomarán posesión de su cargo el día primero del mes de septiembre del año de su elección y el día primero de marzo del año siguiente al de su elección, respectivamente.
+Los ayuntamientos tendrán un período de ejercicio de tres años. La elección de la totalidad de sus integrantes se celebrará el primer domingo del mes de julio del año en que concluya el período constitucional, y tomarán posesión de su cargo el día primero del mes de septiembre del año de su elección.
 
-Por cada síndico y regidor, se elegirá un suplente.
+Por cada Síndico y Regidor, se elegirá un suplente.
 
 ###### Artículo 118.
 
@@ -1797,9 +1767,11 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 II Bis.- Proponer al Congreso del Estado, en el ámbito de su competencia, las cuotas y tarifas aplicables e impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
 
-III. Aprobar sus presupuestos de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley. Entregar al Congreso del Estado los informes trimestrales del ejercicio y a más tardar el treinta y uno de marzo del año siguiente al que concluya éste, la cuenta pública del ejercicio de la Hacienda Municipal;
+III. Aprobar su presupuesto de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley. Entregar al Congreso del Estado los informes trimestrales del ejercicio y a más tardar el treinta y uno de marzo del año siguiente al que concluya éste, la cuenta pública del ejercicio de la Hacienda Municipal.
+
+Cada Ayuntamiento deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Municipio o de las entidades paramunicipales que cuenta con la garantía del Municipio o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados conforme a las leyes aplicables;
 
 > <small>(REFORMADA, P.O., 3 DE JULIO DE 2001)</small>
 
@@ -2017,7 +1989,9 @@ El Presupuesto formará siempre un sólo cuerpo distribuido en partidas, según 
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-#### SECCIÓN PRIMERA. DEL COMISARIO Y SUB-COMISARIO
+#### SECCION I. De la Tesorería General
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
 ###### Artículo 132.
 
@@ -2025,7 +1999,9 @@ Habrá en el Estado una Tesorería General a la que ingresarán todos los caudal
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 2003)</small>
 
-#### SECCIÓN SEGUNDA. DE LA ELECCIÓN Y LOS REQUISITOS DE ELEGIBILIDAD
+#### SECCION II. De la Auditoría Superior de Michoacán
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 133.
 
@@ -2879,9 +2855,9 @@ P.O. 22 DE SEPTIEMBRE DE 2006.
 
 DECRETO No. 69
 
-> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo los artículo 31, 33 y la fracción X del artículo 60, que entrarán en vigor el día catorce del mes de septiembre del año dos mil ocho.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo los artículos 20, 29, 31 párrafo primero, 33, 51, 54, 60 fracción X, 112 párrafo segundo y 117, que entrarán en vigor el día primero del mes de enero del año dos mil quince.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -2895,11 +2871,23 @@ Los ayuntamientos del Estado, concluirán su ejercicio constitucional el día tr
 
 TERCERO. La elección de Gobernador del Estado, diputados y ayuntamientos, se celebrará el segundo domingo del mes de noviembre del año dos mil siete, y tomarán posesión de su encargo al concluir el periodo de los actuales.
 
-CUARTO. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2007)</small>
 
-QUINTO. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2006)
+CUARTO. El Gobernador del Estado que se elija el segundo domingo del mes de noviembre del año dos mil siete, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de febrero del año dos mil ocho, al día catorce de febrero del año dos mil doce.
 
-SEXTO. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2006)
+El Gobernador del Estado que se elija el segundo domingo del mes de noviembre del año dos mil once, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de febrero del año dos mil doce al día treinta de septiembre del año dos mil quince.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2007)</small>
+
+QUINTO.- La Septuagésima Primera Legislatura del Congreso del Estado, que se elija el segundo domingo del mes de noviembre del año dos mil siete, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de enero del año dos mil ocho, al día catorce de enero del daño dos mil doce.
+
+La Septuagésima Segunda Legislatura del Congreso del Estado, que se elija el segundo domingo del mes de noviembre del año dos mil once, tendrá un periodo de ejercicio constitucional que comprenderá del día quince de enero del año dos mil doce, al día catorce de septiembre del año dos mil quince.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2007)</small>
+
+SEXTO.- Los integrantes de los ayuntamientos del Estado que se elijan el segundo domingo del mes de noviembre del año dos mil siete, tendrán un periodo de ejercicio constitucional que comprenderá del día primero de enero del año dos mil ocho, al día treinta y uno de diciembre del año dos mil once.
+
+Los integrantes de los ayuntamientos del Estado que se elijan el segundo domingo del mes de noviembre del año dos mil once, tendrán un periodo de ejercicio constitucional que comprenderá del día primero de enero del año dos mil doce, al día treinta y uno de agosto del año dos mil quince.
 
 SÉPTIMO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que, en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
@@ -2908,6 +2896,10 @@ P.O. 29 DE DICIEMBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 9 DE FEBRERO DE 2007.
+
+Decreto No. 126
 
 ###### ARTÍCULO OCTAVO.
 
@@ -2959,11 +2951,19 @@ D.O. 25 DE MAYO DE 2006.
 
 ###### ARTÍCULO PRIMERO.
 
-Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
+Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 9 DE FEBRERO DEL 2007.
+
+DECRETO No. 127
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### ARTÍCULO TERCERO.
 
