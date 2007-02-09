@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2006-09-22"
+last_updated: "2007-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -208,21 +208,31 @@ Clasificación Política de los Habitantes del Estado.
 
 Las personas que de alguna manera se hallen en territorio del Estado, se considerarán: Coahuilenses; vecinos; transeúntes y extranjeros.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1967)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 10.
 
-Son coahuilenses:
+Es Coahuilense todo aquel que vive y trabaja en Coahuila y que quiere serlo, además de:
 
-I. Los nacidos en el territorio del Estado.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
+
+I.- Las personas nacidas en el territorio del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1967)</small>
 
 II. Los hijos de coahuilenses sea cual fuere el lugar de su nacimiento.
 
-III. Los mexicanos por nacimiento o por naturalización, que teniendo diez años de vecindad continua en el Estado, ejerzan algún arte, oficio, industria, trabajo, profesión o modo honesto de vivir.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+III.- Los mexicanos por nacimiento o por naturalización, que teniendo tres años de vecindad continua en el Estado, ejerzan algún arte, oficio, industria, trabajo, profesión o modo honesto de vivir.
 
-IV. Los que obtengan del Congreso del Estado la calidad de coahuilenses, en los términos de los ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
+
+IV.- Todo aquél que viva o trabaje en Coahuila y que quiere serlo, además de los que obtengan del Congreso del Estado la calidad de coahuilenses, en los términos de los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
+La solicitud al Congreso del Estado para estos fines, se formulará de conformidad con la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 1967)</small>
 
@@ -234,11 +244,15 @@ Son ciudadanos coahuilenses:
 
 I. Los varones y las mujeres nacidos en el Estado de Coahuila que hayan cumplido 18 años y tengan un modo honesto de vivir.
 
-II. Los mexicanos por nacimiento que reúnan la calidad de ciudadanos mexicanos, que tengan en el Estado una vecindad continua de 10 años y que ejerzan algún arte u oficio, comercio, industria, trabajo, profesión o modo honesto de vivir.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+II. Los mexicanos por nacimiento que reúnan la calidad de ciudadanos mexicanos, que tengan en el Estado una vecindad continua de tres años y que ejerzan algún arte u oficio, comercio, industria, trabajo, profesión o modo honesto de vivir.
 
-III. Los que obtengan del Congreso del Estado Carta de Ciudadanía Coahuilense, de acuerdo con lo establecido en los ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
+
+III.- Los que obtengan del Congreso del Estado Carta de Ciudadanía Coahuilense, de acuerdo con lo establecido en los ordenamientos jurídicos aplicables.
+
+La solicitud al Congreso del Estado para estos fines, se formulará de conformidad con la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -743,6 +757,10 @@ V. A los organismos públicos autónomos, en todo lo concerniente a su competenc
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 VI. A los ciudadanos electores coahuilenses, en los términos que establezca la ley.
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2007)</small>
+
+VII. Al instituto Coahuilense de Acceso a la Información Pública, en todo lo concerniente a su competencia. La iniciativa se presentará por conducto del Consejero Presidente, previo acuerdo del Consejo General.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
@@ -2260,11 +2278,11 @@ En todo proceso penal, la víctima o el ofendido por algún delito, tendrá dere
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-El Gobierno Municipal.
+Bases Fundamentales.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158.
 
@@ -2364,7 +2382,7 @@ La única vía para plantear la inconstitucionalidad de leyes, decretos o acuerd
 
 La Justicia Constitucional Local se regirá por la jurisprudencia local, salvo los casos de prevalencia de la jurisprudencia federal.
 
-> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEXTO.
 
@@ -2372,11 +2390,11 @@ El Municipio Libre.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO I.
+### CAPITULO II.
 
-Bases Fundamentales.
+El Gobierno Municipal.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-A.
 
@@ -2411,6 +2429,8 @@ Los principios de fidelidad estatal y municipal tienen por objeto consolidar una
 Los gobiernos estatal y municipal y los organismos públicos autónomos, en la esfera de sus competencias, deberán actuar bajo los lineamientos señalados, a fin de mantener con la federación y con las entidades federativas una relación cooperativa e interdependiente, bajo el principio de fidelidad federal.
 
 Estos principios están vinculados directamente con los valores, principios y bases previstas en esta Constitución y demás leyes aplicables, bajo el estado humanista, social y democrático de derecho.
+
+> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ### CAPITULO UNICO.
 
@@ -2500,27 +2520,55 @@ VII. Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes y por causa grave que determine la ley, podrán suspender Ayuntamientos o, en su caso, Concejos Municipales, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, siempre y cuando, en todos estos casos, se les otorgue las garantías de audiencia y de legalidad.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 158-M.
 
-En caso de declararse desaparecido un Ayuntamiento o un Concejo Municipal por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado constituirá un Concejo Municipal, conforme a las bases siguientes:
+Cuando por cualquier circunstancia no se haya verificado la elección de munícipes antes del día señalado por la ley para la renovación del Ayuntamiento o cuando hubiere sido declarada nula, así como en el caso de declararse desaparecido un Ayuntamiento o un Consejo Municipal por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado constituirá un Concejo Municipal, conforme a las bases siguientes:
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
 
 I. El Concejo Municipal se constituirá de entre los vecinos del Municipio de que se trate y estará integrado por un concejal presidente, un síndico y cinco concejales, propietarios y suplentes, que serán designados por insaculación por el Congreso del Estado.
 
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
 II. Para realizar la designación, el Congreso del Estado por acuerdo de la mayoría de sus miembros presentes, presentará una terna de vecinos para cada cargo del Concejo Municipal. Para tal efecto, podrán recibir propuestas de la ciudadanía de los Municipios que correspondan, bajo los requisitos, condiciones y límites que se fijen en la convocatoria respectiva.
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
 
 III. Los vecinos del Municipio que formen parte de la terna que apruebe el Congreso del Estado, deberán cumplir, invariablemente, los requisitos de elegibilidad establecidos para los regidores; pero en todo caso, los vecinos deberán distinguirse por su honorabilidad, honestidad y compromiso ciudadano acreditados en la comunidad.
 
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
 IV. De entre la terna propuesta se realizará, en forma pública, transparente y al mismo tiempo, la insaculación para cada integrante del Concejo Municipal, sea propietario o suplente, respectivamente.
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
 
 V. El Concejo Municipal designado concluirá el período municipal correspondiente y ejercerá con plenitud las funciones que se otorgan a los miembros de los Ayuntamientos, respectivamente.
 
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
 VI. Si alguno de los miembros del Concejo Municipal dejare de desempeñar su cargo, será sustituido por su suplente o se procederá con arreglo a la ley.
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
 
 VII. En el caso de que un Concejo Municipal se ubique en el supuesto previsto en el artículo anterior, el Congreso del Estado procederá de nueva cuenta a constituir el Concejo Municipal para concluir el período respectivo de conformidad con este artículo.
 
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
+
 VIII. En todo caso, el Congreso del Estado deberá tomar las medidas necesarias para asegurar la gobernabilidad del Municipio mientras realiza la designación de los miembros del Concejo Municipal.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
+Para cumplir con lo anteriormente señalado, al tenerse formal conocimiento de la existencia de uno de los supuestos a que se refiere este artículo y de considerarse necesario, el Presidente de la Mesa Directiva del Congreso del Estado, nombrará en forma inmediata un Concejo Provisional, formado por vecinos del municipio que cumplan con los requisitos y reúnan la (sic) cualidades que se mencionan en la fracción III de esta misma disposición.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
+El Concejo Provisional estará integrado por un Concejal Presidente y dos Concejales y se encargará en forma transitoria del gobierno y la administración del municipio, con el auxilio de los servidores públicos de las dependencias y organismos de la administración pública municipal, a partir de la fecha en que se formalice su nombramiento y hasta que asuma sus funciones el Concejo Municipal que nombre el Congreso del Estado, conforme a lo que se establece en este artículo.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
+Cuando el Congreso del Estado se encuentre en receso, el Presidente de la Diputación Permanente de manera inmediata hará la designación del Concejo Provisional y de igual manera convocará al Pleno de la Legislatura, para que haga la designación del Concejo Municipal en un plazo no mayor de quince días.
 
 > <small>(ADICIONADA CON LOS APARTADOS Y ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2822,8 +2870,6 @@ III. En el caso de que no exista la solicitud previa del Ayuntamiento, aprobada 
 
 IV. En todo caso, la resolución se basará en el interés público de garantizar el ejercicio o prestación continua y eficiente de la función o servicio público de que se trate. Para tal efecto, las partes en conflicto deberán ofrecer todas las pruebas necesarias para determinar la situación real que guarda la prestación del servicio o el ejercicio de la función; pero la autoridad que resuelva tiene, en cualquier momento, el derecho de recabar todas las pruebas necesarias para decidir lo conducente.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
 ## TITULO SEPTIMO.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 1984)</small>
@@ -3076,11 +3122,11 @@ El Estado establecerá instituciones especiales para el tratamiento de menores i
 
 La Ley determinará las profesiones que necesitan título para que sean ejercitadas en el Estado, las condiciones que deban llenarse para obtenerlo y las autoridades que deban expedirlo; asimismo, regulará las peculiaridades propias del régimen jurídico de los colegios de profesionales cuya estructura interna y funcionamiento deberán ser democráticos.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 176.
 
-El Poder Legislativo, expedirá una ley en que se determine el número máximo de ministros de los cultos, que pueden ejercer su ministerio en el Estado, según las necesidades del mismo. Es obligación muy especial del Gobernador del Estado y de los Presidentes Municipales, hacer que se cumplan fielmente las prescripciones del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
+Es obligación del Gobernador del Estado y de los Presidentes Municipales, hacer que se cumplan fielmente las prescripciones del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3839,3 +3885,39 @@ P.O. 22 DE SEPTIEMBRE DE 2006.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 203.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 204.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 205.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 206.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
