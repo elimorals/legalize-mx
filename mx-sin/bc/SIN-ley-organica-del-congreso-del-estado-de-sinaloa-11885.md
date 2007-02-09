@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2003-12-19"
+last_updated: "2007-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -85,21 +85,19 @@ El Congreso del Estado tendrá su residencia en la Capital del Estado y sesionar
 
 Esta Ley, sus reformas y adiciones no necesitarán de promulgación del Gobernador del Estado, ni podrá ser objeto de veto.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 9.
 
-El último sábado del mes de noviembre de cada año, el Congreso del Estado se instalará en sesión solemne, para recibir un informe por escrito sobre la situación que guarde la Administración Pública, que rendirá el Gobernador del Estado. El Presidente de la Legislatura contestará dicho informe en términos generales.
+El quince de noviembre de cada año, el Ejecutivo del Estado enviará al Congreso del Estado un informe por escrito sobre la situación que guarda la Administración Pública. Una vez recibido se remitirá a Comisiones para su conocimiento.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+Dentro de los quince días siguientes, el Congreso del Estado celebrará reunión de trabajo, en los términos de este artículo, con el Gobernador del Estado y los miembros de su gabinete sobre la valoración del informe rendido.
 
-Previamente al informe del Gobernador y ante su presencia, cuando así lo hubieren acordado por unanimidad los coordinadores de los grupos parlamentarios, hará uso de la voz un diputado de cada grupo, mismo que no excederá de diez minutos.
+La sesión de trabajo se desarrollará de acuerdo al protocolo y a la práctica parlamentaria, concediéndose el uso de la palabra al Gobernador del Estado, para exponer las líneas generales del informe. Enseguida, en el orden ascendente que resulta del número de integrantes en el Congreso, de cada partido, participarán el orador que cada uno de sus grupos parlamentarios registren para expresar su posición respecto al informe. A continuación los Diputados que equitativamente autorice la Comisión de Concertación Política, plantearán sus preguntas al Gobernador, que responderá por sí o auxiliado por los miembros del gabinete, con derecho a réplica y contrarréplica, respectivamente.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+En esta reunión de trabajo, durante la intervención del Gobernador y las de los grupos parlamentarios no procederán interrupciones de los Diputados.
 
-Durante la presentación del informe del Gobernador y en las intervenciones de los grupos parlamentarios no procederán interrupciones de los diputados.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
-
-El Congreso del Estado analizará el informe del Gobernador en el seno de las Comisiones y de así acordarlo el Pleno, remitirá al término de su primer período ordinario de sesiones, un documento con observaciones y comentarios.
+Así mismo, para garantizar que la reunión se dé ante un auditorio plural y representativo de todos los sectores sociales, se girarán invitaciones por la Presidencia de la Gran Comisión, a colegios y asociaciones de profesionistas, cámaras de comercio e industria y otros organismos representativos de los sectores productivos del estado, a organismos sociales, instituciones de educación superior, partidos políticos, directivos de medios de comunicación representantes de las iglesias, servidores públicos de los tres niveles de gobierno y organismos no gubernamentales.
 
 ###### ARTICULO 10.
 
@@ -738,6 +736,10 @@ Habrá una Comisión de Concertación Política la cual se integrará por los Di
 Cuando un Grupo Parlamentario cambie de Coordinador, el designado se integrará a la Comisión de Concertación Política en sustitución del anterior.
 
 La Comisión de Concertación Política tendrá a su cargo las funciones tendientes a la realización de las acciones específicas que propicien el mejor desarrollo de las labores camarales, previo a los Acuerdos a que lleguen los Diputados integrantes de la misma Comisión, buscando siempre los puntos de consenso para hacer las propuestas que se requieran para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
+Esta Comisión organizará y dirigirá la reunión de trabajo entre los Diputados y el Ejecutivo y su gabinete, dentro de los quince días siguientes, de la presentación del informe del Gobernador del Estado, para valorar la situación que guarda la Administración Pública, cuidando por el orden del acto y la participación equitativa de los Diputados de los distintos partidos o grupos parlamentarios.
 
 ###### ARTICULO 74.
 
@@ -1877,6 +1879,10 @@ Los procedimientos de Juicio Político, declaratoria de procedencia por la comis
 
 El Congreso del Estado expedirá el Bando Solemne entre los días 15 al 20 de diciembre del año de la elección, para dar a conocer en todo el Estado la declaración de Gobernador electo que hubiera hecho el Tribunal Estatal Electoral; una vez recibida por el mismo, la declaratoria de validez de la elección y la del Gobernador electo, respecto del candidato que hubiera obtenido el mayor número de votos.
 
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
+En caso de que se presente la hipótesis del artículo 99, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos, se suspenderán los actos a que se refiere el párrafo anterior hasta en tanto el Tribunal Electoral del Poder Judicial de la Federación emita la resolución correspondiente y le sea comunicada al Congreso por medio del Tribunal Electoral del Estado.
+
 ###### ARTICULO 242.
 
 Las disposiciones legislativas de los Ayuntamientos que estén sujetos conforme a las Leyes, a la revisión del Congreso o de la Diputación Permanente en su caso, seguirán los mismos trámites que señala esta Ley, según su naturaleza.
@@ -1990,6 +1996,22 @@ P.O. 6 DE AGOSTO DE 2003.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 19 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 476
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 477
 
 ###### ARTÍCULO ÚNICO.
 
