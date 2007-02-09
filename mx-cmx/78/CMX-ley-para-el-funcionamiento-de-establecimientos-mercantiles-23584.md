@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-2358
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2007-02-02"
+last_updated: "2007-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-22"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -386,9 +386,19 @@ Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo
 
 XXI. Los titulares de aquellos establecimientos en donde se preste al público el servicio de acceso a la red de internet, en los cuales se permita el acceso a menores, deberán contar con sistemas de bloqueo a páginas o sitios que contengan información pornográfica o imágenes violentas. Las computadoras que contengan dichos sistemas de bloqueos, deberán estar separadas de aquellas que tengan acceso abierto a cualquier información y queda prohibido que los menores tengan acceso a estas últimas;
 
-XXII. Colaborar dentro de sus Establecimientos con campañas sanitarias dirigidas por las autoridades, principalmente aquellas destinadas a la prevención del SIDA, infecciones de transmisión sexual y de prevención de consumo de alcohol y de drogas; y
+XXII. Colaborar dentro de sus Establecimientos con campañas sanitarias dirigidas por las autoridades, principalmente aquellas destinadas a la prevención del SIDA, infecciones de transmisión sexual y de prevención de consumo de alcohol y de drogas; y (sic)
 
-XXIII. Las demás que les señalen otros ordenamientos.
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 2007)</small>
+
+XXIII. Los límites máximos permisibles para las emisiones sonoras dentro de establecimientos mercantiles se determinan en función de decibeles ponderados en A [dB(A)]; por lo que dentro de restaurantes-bares, bares, discotecas, centros nocturnos, y demás establecimientos mercantiles los límites máximos de emisión y horarios son los siguientes, sin menoscabo de las regulaciones específicas en cuanto a los horarios de funcionamiento:
+
+a) De las 6:00 a 22:00 Hrs. 75 dB(A); y
+
+b) De las 22:00 a las 6:00 Hrs. será de 85 dB(A)
+
+Será obligación del los titulares instalar sistemas visibles cuya finalidad será revelar a los usuarios expuestos a contaminación por ruido que los niveles señalados anteriormente se han excedido; por lo que en ese momento los titulares o dependientes tendrán la obligación de disminuir la intensidad (volumen) de sonido y ruido hasta que las señalizaciones se apaguen.
+
+XXIV. Las demás que les señalen otros ordenamientos.
 
 ###### Artículo 10.
 
@@ -1262,9 +1272,11 @@ Cualquier otra violación a la Ley, a las disposiciones o acuerdos que con base 
 
 En los casos de reincidencia en el período de un año, se aplicará hasta el doble de la sanción originalmente impuesta, sin exceder del doble del máximo. Cuando se trate de reincidencia de alguno de los supuestos a que hace referencia el artículo 75, se sancionará además con la revocación de la Licencia de Funcionamiento, la Declaración de Apertura, o la Autorización y la clausura permanente del Establecimiento Mercantil.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 77.
 
-Independientemente de la aplicación de las sanciones pecuniarias a que se refiere el presente Capítulo, la Delegación deberá clausurar los eventos o los Establecimientos Mercantiles, en los siguientes casos:
+Independientemente de la aplicación de las sanciones pecuniarias a que se refiere el presente Capítulo, la Delegación deberá clausurar los eventos, los Establecimientos Mercantiles, en los siguientes casos:
 
 I. Por carecer de Licencia de Funcionamiento o Autorización para la operación de los giros que lo requieren, o bien, que las Licencias, no hayan sido revalidadas;
 
@@ -1274,7 +1286,9 @@ II. Cuando se haya revocado la Autorización, la Declaración de Apertura o la L
 
 III. Por realizar actividades sin contar con la Declaración de Apertura correspondiente en términos de lo dispuesto por los artículo 45 y 45 bis;
 
-IV. Cuando no se acate el horario autorizado por esta Ley, y no se cumpla con las restricciones al horario o suspensiones de actividades en fechas determinadas por la Secretaría de Gobierno;
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 2007)</small>
+
+IV. Cuando no se acate el horario autorizado por esta Ley, o suspensiones de actividades en fechas determinadas por la Secretaría de Gobierno; o se incumpla reiteradamente con alguna de las obligaciones previstas en la fracción XXIII del artículo 9 de esta Ley;
 
 V. Por realizar actividades diferentes a las declaradas en la Licencia de Funcionamiento, Declaración de Apertura o en las Autorizaciones;
 
@@ -1495,3 +1509,9 @@ SEGUNDO.- Las presentes Reformas y Adiciones entrarán en vigor al día siguient
 TERCERO.- En tanto no se publique el Reglamento de la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal, y por lo que se refiere al procedimiento para llevar a cabo aclaraciones, modificaciones y/o cancelaciones de los avisos que se presenten a través de medios electrónicos, seguirá vigente el Acuerdo por el que se reforman y adicionan disposiciones por el que se establecen acciones de simplificación administrativa para la apertura de Establecimientos Mercantiles en el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el día 24 de septiembre del 2004.
 
 CUARTO.- En tanto no sean publicadas las modificaciones al formato de Aviso de Declaración de Apertura para Establecimiento Mercantil, se utilizará el formato VU-EM-06-RA del Aviso de Declaración de Apertura para Establecimiento Mercantil vía Internet, publicado en la Gaceta Oficial del Distrito Federal el 30 de junio del 2004, junto con el cual los titulares deberán presentar ante las Ventanillas Únicas o las de Gestión, la documentación que sustente la información vertida en el formato, únicamente para el cotejo de los datos y anexando el documento que acredite que el uso de suelo permite el desarrollo de la actividad que se pretende, en copia simple y el original o copia certificada por la Secretaría de Desarrollo Urbano y Vivienda para cotejo.
+
+G.O. 9 DE FEBRERO DE 2007.
+
+PRIMERO.-Se derogan todas las disposiciones que contravengan la presente iniciativa.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal y para su mayor Difusión en el Diario Oficial de la Federación.
