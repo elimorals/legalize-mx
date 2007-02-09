@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-10166"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-05-04"
-last_updated: "2005-06-14"
+last_updated: "2007-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO ELECTORAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2007.
 
 Código publicado en la Sección Quinta del Periódico Oficial del Estado de Michoacán, el jueves 4 de mayo de 1995.
 
@@ -787,7 +787,7 @@ En los lugares señalados para la ubicación de mesas directivas de casilla, no 
 
 Los partidos están obligados a borrar y retirar su propaganda política dentro del término de treinta días posteriores a la fecha de la elección.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DE 2001)</small>
 
 ### Capítulo Primero. De las Coaliciones
 
@@ -3043,7 +3043,7 @@ Se guardará en un sobre por separado un ejemplar legible de las actas de escrut
 
 ### Capítulo Unico
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 191.
 
@@ -3251,7 +3251,7 @@ f) Se hará constar en el acta circunstanciada de la sesión el resultado del c�
 
 ## Título Primero. De los Medios de Impugnación
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 ### Capítulo Segundo. De la Competencia
 
@@ -3271,19 +3271,7 @@ f) Se hará constar en el acta circunstanciada de la sesión el resultado del c�
 
 El Tribunal Electoral del Estado, es el órgano autónomo y máxima autoridad jurisdiccional en materia electoral; el cual es competente para conocer y resolver los recursos de apelación, reconsideración, y en casos de excepción el de revisión; así como del Juicio de Inconformidad.
 
-El Tribunal Electoral del Estado se regirá por los principios de certeza, legalidad, independencia, imparcialidad, objetividad, equidad y profesionalismo.
-
-El Pleno, las Salas Unitarias y Colegiadas de Segunda Instancia del Tribunal Electoral del Estado, deberán ser instaladas e iniciar sus funciones a más tardar ciento treinta y cinco días antes de la elección.
-
-El Tribunal Electoral se integrará con siete magistrados numerarios y tres supernumerarios nombrados por las dos terceras partes de los diputados presentes en el Congreso del Estado, a propuesta del Supremo Tribunal de Justicia del Estado.
-
-El Supremo Tribunal de Justicia del Estado, durante el mes de febrero del año que corresponda, deberá emitir una convocatoria pública, bajo los lineamientos y criterios que determine el Pleno, para los aspirantes a integrar el Tribunal Electoral del Estado.
-
-La Presidencia del Supremo Tribunal de Justicia tendrá la facultad de verificar, en todo momento, la información que los aspirantes hubieren proporcionado, dando cuenta al Pleno en su caso.
-
-El Supremo Tribunal de Justicia, por conducto de la Secretaria General de Acuerdos, recibirá las solicitudes y documentos dentro de los diez días siguientes de la emisión de la convocatoria respectiva.
-
-A más tardar el último día del mes de marzo del año respectivo, el Pleno del Supremo Tribunal de Justicia, considerando únicamente a los aspirantes que cumplan con los requisitos que marca la Constitución del Estado, el presente Código y la convocatoria respectiva, elaborará una relación que contendrá los nombres de los aspirantes y los de aquellos que proponga el Pleno del Supremo Tribunal de Justicia, de entre quienes integren el padrón del Poder Judicial del Estado, lo cual será en por lo menos tres veces el número de magistrados electorales a elegir. Las propuestas serán presentadas al Presidente de la Gran Comisión del Congreso del Estado, quien las turnará a la comisión correspondiente, misma que presentará el dictamen en el que se funde y proponga la designación de los integrantes del Tribunal Electoral.
+El Tribunal Electoral del Estado se regirá por los principios de certeza, legalidad, independencia, imparcialidad, objetividad, equidad, independencia, imparcialidad, objetividad, equidad y profesionalismo.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2001)</small>
 
@@ -3543,7 +3531,7 @@ Los magistrados tendrán obligación de guardar absoluta reserva sobre los asunt
 
 En el tiempo que transcurre entre procesos electorales, únicamente funcionará una Sala Unitaria del Tribunal, la que estará a cargo del Presidente del mismo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE FEBRERO DEL 2001)</small>
 
 # Libro Octavo. De las Faltas y Sanciones Administrativas
 
@@ -4050,3 +4038,9 @@ P.O. 14 DE JUNIO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE FEBRERO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
