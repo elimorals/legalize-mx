@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-10-2006-del-pleno-del-consejo-de-la-48349"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-02-03"
-last_updated: "2006-02-03"
+last_updated: "2007-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48349&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-02-01"
 
 ACUERDO GENERAL 10/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DE LOS DIAS INHABILES Y LOS DE DESCANSO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE FEBRERO DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2006.
 
@@ -75,9 +75,13 @@ i) El catorce de septiembre;
 
 j) El dieciséis de septiembre;
 
-k) El doce de octubre, y
+k) El doce de octubre, y (sic)
 
-l) El veinte de noviembre.
+l) El veinte de noviembre;
+
+> <small>(ADICIONADO, POR EL PUNTO UNICO DEL ACUERDO GENERAL 2/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2007)</small>
+
+m) Los demás que determine el Pleno del Consejo de la Judicatura Federal.
 
 > <small>(F. DE E., D.O.F. 9 DE FEBRERO DE 2006)</small>
 
@@ -97,9 +101,13 @@ f) El cinco de mayo;
 
 g) El catorce de septiembre;
 
-h) El dieciséis de septiembre, y
+h) El dieciséis de septiembre, y (sic)
 
-i) El doce de octubre.
+i) El doce de octubre;
+
+> <small>(ADICIONADO, POR EL PUNTO UNICO DEL ACUERDO GENERAL 2/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2007)</small>
+
+j) Los demás que determine el Pleno del Consejo de la Judicatura Federal.
 
 ## TRANSITORIOS
 
@@ -108,3 +116,11 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en los medios electrónicos correspondientes.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 10/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación de los Días Inhábiles y los de Descanso, fue aprobado por el Pleno del propio Consejo, en sesión de uno de febrero dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a uno de febrero de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 9 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
