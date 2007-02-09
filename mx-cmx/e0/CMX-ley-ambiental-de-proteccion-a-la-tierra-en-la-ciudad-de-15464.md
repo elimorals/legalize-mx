@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2006-06-21"
+last_updated: "2007-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -214,7 +214,9 @@ ECOSISTEMA: La unidad funcional básica de interacción de los organismos vivos 
 
 EDUCACIÓN AMBIENTAL: El proceso permanente de carácter interdisciplinario, orientado a la formación de una ciudadanía que reconozca valores, aclare conceptos y desarrolle las habilidades y actitudes necesarias para una convivencia armónica entre seres humanos, su cultura y su medio biofísico circundante;
 
-EMISIONES CONTAMINANTES: La generación o descarga de materia o energía, en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los seres vivos, en la atmósfera, agua, suelo, subsuelo o cualquier elemento natural, afecte negativamente su composición o condición natural;
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 2007)</small>
+
+EMISIONES CONTAMINANTES: La generación o descarga de materia o energía, en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los seres vivos, en la atmósfera, agua, suelo, subsuelo o cualquier elemento natural, afecte negativamente su salud, composición o condición natural;
 
 ESTUDIO DE RIESGO: Documento mediante el cual se dan a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representan para los ecosistemas, la salud o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad, tendientes a mitigar, reducir o evitar los efectos adversos que se causen al ambiente, en caso de un posible accidente durante la realización u operación normal de la obra o actividad de que se trate;
 
@@ -484,7 +486,9 @@ XL. Promover el uso de fuentes de energías alternas, de igual forma que sistema
 
 XLI. Restringir y sujetar a horarios nocturnos, el tránsito y las maniobras en la vía pública de los vehículos de carga, en coordinación con las autoridades correspondientes;
 
-XLII. Prevenir o controlar la contaminación visual, así como la originada por ruido, vibraciones, energía térmica, lumínica, olores, vapores o cualquier otro tipo de actividad que pueda ocasionar daños a la salud de la población, al ambiente o los elementos naturales, en fuentes de competencia del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 2007)</small>
+
+XLII. Prevenir o controlar la contaminación visual, así como la originada por ruido, vibraciones, energía térmica, lumínica, olores, vapores o cualquier otro tipo de actividad que pueda ocasionar daños a la salud de personas expuestas así como a la población, al ambiente o los elementos naturales, en fuentes de competencia del Distrito Federal;
 
 XLIII. Regular, prevenir y controlar las actividades ambientales riesgosas no reservadas a la Federación;
 
@@ -3535,3 +3539,9 @@ SEGUNDO.- La Secretaría y las autoridades competentes del Gobierno del Distrito
 TERCERO.-. Se exceptúan de la aplicación de las disposiciones a que se refieren los artículos 139 y 140 las motocicletas en circulación matriculadas en el Distrito Federal, hasta en tanto se expida la Normatividad Oficial Mexicana aplicable precisamente a la verificación de emisiones contaminantes de motocicletas y una vez expedidas, la Secretaría deberá establecer una tarifa equitativa por concepto de verificación y un holograma específico por la verificación de motocicletas.
 
 CUARTO.- La instalación del Consejo Rector Ciudadano a que se refiere el artículo 90 Bis 7, se conformará dentro de los 120 días siguientes a la declaratoria que se emita de Bosque Urbano.
+
+G.O. 9 DE FEBRERO DE 2007
+
+PRIMERO.-Se derogan todas las disposiciones que contravengan la presente iniciativa.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal y para su mayor Difusión en el Diario Oficial de la Federación.
