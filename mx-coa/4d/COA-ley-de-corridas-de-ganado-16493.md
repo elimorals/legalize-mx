@@ -4,7 +4,7 @@ identifier: "COA-ley-de-corridas-de-ganado-16493"
 country: "mx"
 rank: "ley"
 publication_date: "1902-12-20"
-last_updated: "1902-12-20"
+last_updated: "2007-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE CORRIDAS DE GANADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO NUMERO 207, PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 20 de diciembre de 1902.
 
@@ -98,3 +100,11 @@ Se derogan las leyes, decretos ó disposiciones anteriores que hubiere sobre la 
 Dado en el Salón de sesiones del H. Congreso del Estado. Saltillo, Diciembre 11 de 1902.- S. Cárdenas Peña, diputado presidente.- Eugenio Múzquiz, diputado secretario.- E. Dávila.- diputado secretario.
 
 Imprímase, comuníquese y obsérvese. Saltillo, 13 de Diciembre de 1902.- Miguel Cárdenas.- Melchor G. Cárdenas, secretario.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE FEBRERO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
