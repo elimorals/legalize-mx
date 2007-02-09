@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2006-09-12"
+last_updated: "2007-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -969,11 +969,19 @@ La Secretaría de Educación Pública del Estado podrá hacer recomendaciones an
 
 El Estado fomentará el establecimiento de medios de comunicación que difundan, en el ámbito educativo, la cultura y las tradiciones del mismo y que sirvan de foro para la expresión de los diferentes sectores de la sociedad.
 
-### CAPITULO I. DE LAS INFRACCIONES Y SANCIONES
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE FEBRERO DE 2007)</small>
+
+### CAPITULO VI. DEL SERVICIO SOCIAL
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
+###### ARTICULO 100 Bis.
+
+Los beneficiados directamente por los servicios educativos de nivel medio superior y superior deberán prestar servicio social, en los casos y términos que señalen las disposiciones reglamentarias correspondientes. En éstas se preverá la prestación del servicio social como requisito previo para obtener certificado de terminación de estudios, título o grado académico.
 
 ## TITULO IV. DE LAS INFRACCIONES, SANCIONES Y DEL RECURSO ADMINISTRATIVO DE REVISIÓN
 
-### CAPITULO II. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
+### CAPITULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 101.
 
@@ -1044,6 +1052,8 @@ En el caso de autorización, cuando la revocación se dicte durante el ejercicio
 Los padres de familia, los educandos mayores de edad, los trabajadores de la educación y, en general, cualquier persona interesada en la tarea educativa, podrá denunciar por escrito ante la Secretaría de Educación Pública del Estado los hechos que considere como infracciones a esta ley.
 
 La autoridad educativa a que se refiere el párrafo anterior, procederá a estudiar, investigar y sancionar, en su caso, los hechos que se hagan de su conocimiento.
+
+### CAPITULO II. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
 
 ###### ARTICULO 106.
 
@@ -1140,3 +1150,9 @@ LIC. OSCAR PIMENTEL GONZALEZ
 P.O. 12 DE SEPTIEMBRE DE 2006.
 
 PRIMERO.- El presente decreto entrará en vigor al siguiente día en que se publique en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+P.O. 9 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente Decreto.
