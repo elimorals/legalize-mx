@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-que-regula-la-venta-distribucion-y-33815"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-09"
-last_updated: "2003-07-09"
+last_updated: "2007-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DE LA LEY QUE REGULA LA VENTA, DISTRIBUCION Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2007.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de julio de 2003.
 
@@ -56,6 +56,14 @@ II. Secretaría: La Secretaría de Finanzas.
 III. Mayoreo: La venta de dos o más cajas u equivalente de bebidas alcohólicas en envase cerrado a temperatura ambiente, cualesquiera que sea la marca y presentación de las mismas.
 
 IV. Giro: La actividad autorizada en la licencia.
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2007)</small>
+
+V. Subsecretaría: La Subsecretaría de Ingresos.
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2007)</small>
+
+VI. Procuraduría: La Procuraduría Fiscal.
 
 ###### ARTÍCULO 4.
 
@@ -123,7 +131,9 @@ VI. Los establecimientos deberán contar con uno o varios extintores de cuando m
 
 VII. Los establecimientos con acceso a la vía pública, a excepción de los restaurantes, deberán cubrir con cualquier medio la visibilidad al interior del mismo y deberán abstenerse de anuncios y rótulos en vidrios y paredes con mensajes subliminales que atenten contra la moral y las buenas costumbres.
 
-VIII. El original de la licencia de funcionamiento vigente deberá estar fija y en lugar visible en el interior del establecimiento; durante el plazo de revalidación debidamente validada por la Unidad de Alcoholes, ésta podrá sustituirse por el original de la solicitud de revalidación, pero sólo durante el plazo que se señala en la Ley. De igual manera, los datos de la licencia deberán estar rotulados en el exterior del establecimiento en color negro sin abreviaturas; dicho rótulo deberá tener veinte centímetros de alto por cuarenta centímetros de largo.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2007)</small>
+
+VIII. El original de la licencia de funcionamiento vigente deberá estar fija en un lugar visible en el interior del establecimiento; durante el plazo de revalidación debidamente validada por la Subsecretaría, ésta podrá sustituirse por el original de la solicitud de revalidación, pero sólo durante el plazo que se señala en la Ley. De igual manera, los datos de la licencia deberán ser rotulados en el exterior del establecimiento en color negro sin abreviaturas; dicho rótulo deberá tener veinte centímetros de alto por cuarenta centímetros de largo.
 
 IX. Los establecimientos deberán estar debidamente ventilados en forma natural o artificial según sea el caso, colocándose extractores cuando a criterio de la autoridad sea necesario.
 
@@ -133,9 +143,11 @@ IX. Los establecimientos deberán estar debidamente ventilados en forma natural 
 
 Los establecimientos que cuenten con licencia para la venta, distribución y consumo de bebidas alcohólicas en envase abierto o cerrado se ajustarán a los horarios establecidos en el artículo 11 de la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 14.
 
-Además de los Iicenciatarios de los establecimientos mencionados en el artículo 12 de la Ley; la Secretaría a través de la Unidad de Alcoholes en forma discrecional podrá autorizar previa solicitud, la ampliación de una hora, y por un período de tiempo determinado, el cual no excederá de cuarenta días, en un año calendario, a los establecimiento siguientes:
+Además de los licenciatarios de los establecimientos mencionados en el artículo 12 de la Ley; la Secretaría, a través de la Subsecretaría, en forma discrecional podrá autorizar, previa solicitud, la ampliación de una hora, y por un período de tiempo determinado, el cual no excederá de cuarenta días, en un año calendario, a los establecimientos siguientes:
 
 I. Expendios.
 
@@ -157,23 +169,29 @@ VIII. Distribuidoras.
 
 Para la ampliación de horarios a que se refiere el artículo anterior se deberá cumplir con lo señalado en el artículo 14 de la Ley.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 16.
 
-La Secretaría por conducto de la Unidad de Alcoholes podrá modificar los horarios y fechas para la venta, distribución y consumo de bebidas alcohólicas, e informar a los licenciatarios por lo menos con veinticuatro horas de anticipación a través de los medios de comunicación que considere pertinente.
+La Secretaría, por conducto de la Subsecretaría, podrá modificar los horarios y fechas para la venta, distribución y consumo de bebidas alcohólicas, e informar a los licenciatarios por lo menos con veinticuatro horas de anticipación, a través de los medios de comunicación que considere pertinente.
 
 ### CAPÍTULO IV. DE LA EXPEDICIÓN, REFRENDO Y DE LA REVALIDACIÓN DE LICENCIAS
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 17.
 
-Los licenciatarios que soliciten la revalidación de las licencias, así como refrendo de las mismas deberán cumplir con los formatos que para tal efecto apruebe la Secretaría a través de la Unidad de Alcoholes y cumplir con los requisitos que establece la Ley. En ningún caso podrá solicitarse la revalidación y el refrendo en forma diversa a la establecida.
+Los licenciatarios que soliciten la revalidación de las licencias, así como refrendo de las mismas, deberán cumplir con los formatos que para tal efecto apruebe la Secretaría a través de la Subsecretaría o la Unidad de Alcoholes, según sea el caso, y cumplir con los requisitos que establece la Ley. En ningún caso podrá solicitarse la revalidación y el refrendo en forma diversa a la establecida.
 
 ###### ARTÍCULO 18.
 
 Los interesados para obtener la licencia deberán cumplir con los requisitos establecidos en el artículo 17 de la Ley, y en caso de no ser procedente su solicitud, podrán hacerlo de nueva cuenta, siempre y cuando cumplan con los requisitos establecidos en el artículo de la Ley antes citada.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 19.
 
-La Secretaria a través de la Unidad de Alcoholes al determinar improcedente la solicitud de expedición de la licencia, deberá señalar en su resolución correspondiente, las causas o motivos por las cuales se determina la improcedencia de la solicitud, así mismo deberá hacer la devolución de los documentos que al efecto se hayan acompañado.
+La Secretaría, a través de la Subsecretaría, al determinar improcedente la solicitud de expedición de la licencia, deberá señalar en su resolución correspondiente, las causas o motivos por los cuales se determina la improcedencia de la solicitud, así mismo deberá hacer la devolución de los documentos que al efecto se hayan acompañado.
 
 ###### ARTÍCULO 20.
 
@@ -189,21 +207,25 @@ Los inspectores al realizar la inspección ocular al local a que se refiere el p
 
 La inconformidad de algún vecino será analizada por la Secretaría al momento de resolver sobre la solicitud de la licencia de funcionamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 23.
 
-Para los efectos del artículo 18 de la Ley, los licenciatarios que tengan más de una licencia deberán acreditar ante la Secretaría, por conducto de la Unidad de Alcoholes dentro de los primeros cuatro meses de cada año calendario que se encuentran directamente explotando las mismas, mediante la presentación de los documentos en los que se acredite el cumplimiento de las obligaciones fiscales relacionadas con dicho establecimiento.
+Para los efectos del artículo 18 de la Ley, los licenciatarios que tengan más de una licencia deberán acreditar ante la Secretaría, por conducto de la Subsecretaría, dentro de los primeros cuatros meses de cada año calendario que se encuentran directamente explotando las mismas, mediante la presentación de los documentos en los que se acredite el cumplimiento de las obligaciones fiscales relacionadas con dicho establecimiento.
 
 Igualmente, deberán acreditar la relación laboral que exista entre el mismo y las personas que atiendan el establecimiento, mediante la presentación de documentos de las obligaciones fiscales y de seguridad social.
 
 La omisión por parte de los licenciatarios a lo establecido en este artículo traerá como consecuencia la negativa de la revalidación de la licencia, de conformidad a lo previsto en el artículo 20 párrafo segundo de la Ley.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 24.
 
-Para los efectos del segundo párrafo del artículo 18 de la Ley, los herederos deberán informar por escrito a la Secretaría por conducto de la Unidad de Alcoholes sobre el fallecimiento del titular de la licencia, dentro de los seis meses posteriores al hecho, acompañando copia certificada del acta de defunción, original de la licencia de funcionamiento y copia o copias certificadas del acta de defunción, original de la licencia de funcionamiento y copia o copias certificadas del acta de nacimiento de cada uno de los herederos para conocer el entroncamiento, así como también las constancias de los trámites realizados ante la autoridad judicial.
+Para los efectos del segundo párrafo del artículo 18 de la Ley, los herederos deberán informar por escrito a la Secretaría, por conducto de la Subsecretaría, sobre el fallecimiento del titular de la licencia, dentro de los seis meses posteriores al hecho, acompañando copia certificada del acta de defunción, original de la licencia de funcionamiento y copia o copias certificadas del acta de nacimiento de cada uno de los herederos para conocer el entroncamiento, así como también las constancias de los trámites realizados ante la-autoridad judicial.
 
-Además de lo anterior y de la solicitud respectiva, deberán reunir los requisitos establecidos en las fracciones I incisos a) y c), III, IV, V y VI del artículo 17 de la Ley: La Secretaría por conducto de la Unidad de Alcoholes podrá expedir un permiso provisional que permita la explotación de la licencia a quien denuncie el derecho, hasta en tanto se obtenga resolución emitida por el Juez de lo Familiar sobre el Juicio Sucesorio Testamentario o Intestamentario.
+Además de lo anterior y de la solicitud respectiva, deberán reunir los requisitos establecidos en las fracciones I incisos a) y c), III, IV, V y VI del artículo 17 de la Ley: La Secretaría, por conducto de la Subsecretaría, podrá expedir un permiso provisional que permita la explotación de la licencia a quien denuncie el derecho, hasta en tanto se obtenga resolución emitida por el Juez de lo Familiar sobre el Juicio Sucesorio Testamentario o Intestamentario.
 
-Una vez recibida la solicitud de cambio de propietario debidamente requisitada, la Secretaria a través de la Unidad de Alcoholes, en un término no mayor de sesenta días naturales, resolverá si otorga o no el cambio respectivo.
+Una vez recibida la solicitud de cambio de propietario debidamente requisitada, la Secretaría, a través de la Subsecretaría, en un término no mayor de sesenta días naturales, resolverá si otorga o no el cambio respectivo.
 
 ###### ARTÍCULO 25.
 
@@ -221,9 +243,11 @@ El plazo máximo para el refrendo de la licencia de funcionamiento será a parti
 
 Los licenciatarios podrán otorgar representación, mediante la utilización de carta poder notariada, misma que será actualizada cada año.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 29.
 
-La Secretaría por conducto de la Unidad de Alcoholes discrecionalmente podrá llevar a cabo la regularización de los establecimientos y licencias a que se refieren los Artículos 5 y 6 de la Ley.
+La Secretaría, por conducto de la Subsecretaría, discrecionalmente podrá llevar a cabo la regularización de los establecimientos y licencias a que se refieren los artículos 5 y 6 de la Ley.
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO DE INSPECCIÓN
 
@@ -261,19 +285,25 @@ Los testigos que se designen en la visita de inspección deberán de identificar
 
 ### CAPÍTULO VI. CAMBIO DE DOMICILIO DE LOS ESTABLECIMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 35.
 
-Además de los requisitos señalados en el artículo 26 de la Ley para el cambio de domicilio de los establecimientos, dentro de los diez días siguientes a la recepción de la solicitud, la Secretaría a través de la Unidad de Alcoholes deberá ordenar una inspección ocular, debiendo adicionalmente realizar una consulta a los vecinos del lugar que se encuentren dentro de un radio de 200 metros donde se pretenda ubicar el establecimiento.
+Además de los requisitos señalados en el artículo 26 de la Ley para el cambio de domicilio de establecimientos, dentro de los diez días siguientes a la recepción de la solicitud, la Secretaría, a través de la Subsecretaría, deberá ordenar una inspección ocular, debiendo adicionalmente realizar una consulta a los vecinos del lugar que se encuentren dentro de un radio de 200 metros donde se pretenda ubicar el establecimiento.
 
 La inconformidad de algún vecino será analizada por la Secretaría al momento de resolver sobre la solicitud de cambio de domicilio.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 36.
 
-La Secretaría por conducto de la Unidad de Alcoholes discrecionalmente cuando así lo requiera el interés público podrá reubicar algún establecimiento, previa comunicación y por escrito que se haga al Iicenciatario y al Presidente Municipal o Primer Concejal, para que en un término de diez días naturales, manifiesten lo que a sus derechos convenga.
+La Secretarla, por conducto de la Subsecretaría, discrecionalmente cuando así lo requiera el interés público podrá reubicar algún establecimiento, previa comunicación y por escrito que se haga al Iicenciatario y al Presidente Municipal o Primer Concejal, para que en un término de diez días naturales, manifiesten lo que a sus derechos convenga.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2007)</small>
 
 ###### ARTÍCULO 37.
 
-El Presidente Municipal o Primer Concejal deberán de manifestar dentro de los diez días naturales siguientes de haber recibido la notificación por parte de la Unidad de Alcoholes, la conformidad o inconformidad de la reubicación del establecimiento.
+El Presidente Municipal o Primer Concejal deberán de manifestar dentro de los diez días naturales siguientes de haber recibido la notificación por parte de la Subsecretaría, la conformidad o inconformidad de la reubicación del establecimiento.
 
 La omisión por parte de la Autoridad Municipal de comunicar la inconformidad por la reubicación del establecimiento se entenderá por aceptada.
 
@@ -287,9 +317,11 @@ Los letreros visibles a que se refieren las fracciones I y II del artículo 28 d
 
 Los licenciatarios o las personas con quien se entienda la diligencia, deberán permitir a los inspectores designados por la Unidad de Alcoholes de la Secretaría el acceso al lugar del establecimiento, así como proporcionar las facilidades para efecto de llevar a cabo la inspección, visita o cualquier diligencia para la que fueron comisionados.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 40.
 
-Los licenciatarios deberán cumplir con el informe a que se refiere el artículo 29 de la Ley, en los formatos que para éste efecto establezca la Secretaría a través de la Unidad de Alcoholes.
+Los licenciatarios deberán cumplir con el informe a que se refiere el artículo 29 de la Ley, en los formatos que para éste efecto establezca la Secretaría a través de la Subsecretaria.
 
 ###### ARTÍCULO 41.
 
@@ -347,9 +379,13 @@ Harán prueba plena la confesión expresa de las partes, las presunciones legale
 
 Las actas administrativas levantadas por los inspectores acreditados harán pruebas (sic) plena, salvo prueba en contrario.
 
-El valor de las pruebas pericial y testimonial, así como de las demás pruebas quedará a la prudente apreciación de la Secretaría por conducto de la Unidad de Alcoholes.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
 
-Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la Secretaría por conducto de la Unidad de Alcoholes adquiriera convicción distinta acerca de los hechos materiales del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en los párrafos anteriores, debiendo fundar razonadamente esta parte de su resolución.
+El valor de la (sic) pruebas pericial y testimonial así corno de las demás pruebas quedará a la prudente apreciación de la Secretaría, por conducto de la Unidad de Alcoholes en cuanto a las sanciones y a la Procuraduría con respecto a la revocación de la licencia o permiso de funcionamiento.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
+
+Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la Secretaría por conducto de la Unidad de Alcoholes y de la Procuraduría, según sea el caso, adquiera convicción distinta acerca de los hechos materiales del litigio podrá valorar las pruebas sin sujetarse a lo dispuesto en los párrafos anteriores, debiendo fundar razonadamente esta parte de su resolución.
 
 ###### ARTÍCULO 50.
 
@@ -391,13 +427,17 @@ VIII. La firma del interesado o por quien esté legalmente autorizado para ello,
 
 IX. Las pruebas que ofrezca.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 55.
 
-La autoridad que resuelva el recurso de reconsideración podrá decretar la suspensión del acto recurrido, cuando así lo solicite el interesado.
+La Procuraduría, al resolver el recurso de reconsideración, podrá decretar la suspensión del acto recurrido, cuando así lo solicite el licenciatario o representante legal.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
 
 ###### ARTÍCULO 56.
 
-La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución.
+La Procuraduría podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, con el fin de resolver la cuestión efectivamente planteada, sin cambiar los hechos expuestos en el recurso. Sin embargo, cuando uno de los agravios expuestos por el licenciatario o representante sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean suficientes debiendo fundar los motivos por los que consideró ilegal el acto y precisando el alcance de su resolución.
 
 ### CAPÍTULO XI. DE LAS NOTIFICACIONES
 
@@ -476,3 +516,13 @@ SECRETARIO DE GOBIERNO
 LIC. FERNANDO CALZADA FALCÓN
 
 SECRETARIO DE FINANZAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE FEBRERO DE 2007.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los asuntos pendientes al entrar en vigor este acuerdo, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en el presente Acuerdo.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente acuerdo.
