@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2007-01-13"
+last_updated: "2007-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -277,23 +277,31 @@ XIII. Secretaría de Medio Ambiente para el Desarrollo Sustentable;
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XIV. Contraloría del Estado, y
+XIV. Contraloría del Estado, y (sic)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2007)</small>
 
-XV. Secretaría del Trabajo y Previsión Social;
+XV. Procuraduría de Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2007)</small>
 
-XVI. Secretaría de Desarrollo Humano; y
+XVI. Secretaría del Trabajo y Previsión Social;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2007)</small>
 
-XVII. Procuraduría General de Justicia.
+XVII. Secretaría de Desarrollo Humano;
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2007)</small>
 
-La Procuraduría General de Justicia, la Universidad de Guadalajara y la Procuraduría de Desarrollo Urbano se regirán por sus respectivas leyes.
+XVIII. Procuraduría General de Justicia; y
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2007)</small>
+
+XIX. Procuraduría Social.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
+
+La Procuraduría General de Justicia, la Procuraduría Social, la Universidad de Guadalajara y la Procuraduría de Desarrollo Urbano se regirán por sus respectivas leyes.
 
 ###### Art. 24.
 
@@ -1874,3 +1882,7 @@ TERCERO.- Se autoriza al Titular del Ejecutivo del Estado a que realice las adec
 CUARTO.- La Procuraduría Estatal de Protección al Ambiente deberá entrar en funciones a más tardar el primero de julio del año 2007 y hasta entonces, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado realizará las atribuciones encomendadas a aquélla, por el presente Decreto y por las disposiciones que de éste se deriven.
 
 QUINTO.- En el cumplimiento del presente Decreto, se respetarán los derechos laborales y de seguridad social de los trabajadores que sean transferidos de una dependencia a otra.
+
+P.O. 10 DE FEBRERO DE 2007.
+
+Único. El presente decreto entrará en vigor el día primero de abril de 2007, previa su publicación en el periódico oficial "El Estado de Jalisco".
