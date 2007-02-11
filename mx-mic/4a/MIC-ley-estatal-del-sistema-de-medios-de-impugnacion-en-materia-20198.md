@@ -4,7 +4,7 @@ identifier: "MIC-ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia-201
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-08"
-last_updated: "2001-02-08"
+last_updated: "2007-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE JUSTICIA ELECTORAL DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 11 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Michoacán, el jueves 8 de febrero del 2001.
 
@@ -938,3 +940,23 @@ DIPUTADO PRESIDENTE.- JAIME AHUIZOTL ESPARZA CORTINA.- DIPUTADO SECRETARIO.-ALFR
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 7 siete días del mes de Febrero del año 2001 dos mil uno.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.-LIC. VÍCTOR MANUEL TINOCO RUBÍ.- EL SECRETARIO DE GOBIERNO.- LIC. JUAN BENITO COQUET RAMOS.-(Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE FEBRERO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Si a la entrada en vigor de la presente Ley se encuentra en trámite algún medio de impugnación ante el Tribunal Electoral del Estado, se resolverá conforme a las normas vigentes al momento de su interposición.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Estatal del Sistema de Medios de Impugnación en Materia Electoral, del 7 de febrero de 2001, publicada en el Periódico Oficial del Estado, el 8 de febrero de 2001.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las demás disposiciones que se opongan a la presente Ley.
