@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2006-05-23"
+last_updated: "2007-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO TRANSITORIO, EL PRESENTE DECRETO ENTRARA EN VIGOR A LOS 180 DIAS SIGUIENTES DE SU PUBLICACION EN EL D.O.F.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -550,11 +552,17 @@ II. La vocación de cada zona o región, en función de sus recursos naturales, 
 
 III. Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
 
-IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales; y
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2007)</small>
 
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales;
 
-V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades.
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2007)</small>
+
+V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE FEBRERO DE 2007)</small>
+
+VI. Las modalidades que de conformidad con la presente Ley, establezcan los decretos por los que se constituyan las áreas naturales protegidas, así como las demás disposiciones previstas en el programa de manejo respectivo, en su caso.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -593,6 +601,10 @@ Las entidades federativas y los municipios podrán participar en las consultas y
 ARTICULO 20 BIS 2.- Los Gobiernos de los Estados y del Distrito Federal, en los términos de las leyes locales aplicables, podrán formular y expedir programas de ordenamiento ecológico regional, que abarquen la totalidad o una parte del territorio de una entidad federativa.
 
 Cuando una región ecológica se ubique en el territorio de dos o más entidades federativas, el Gobierno Federal, el de los Estados y Municipios respectivos, y en su caso el del Distrito Federal, en el ámbito de sus competencias, podrán formular un programa de ordenamiento ecológico regional. Para tal efecto, la Federación celebrará los acuerdos o convenios de coordinación procedentes con los gobiernos locales involucrados.
+
+> <small>(ADICIONADO, D.O.F. 12 DE FEBRERO DE 2007)</small>
+
+Cuando un programa de ordenamiento ecológico regional incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa deberá ser elaborado y aprobado en forma conjunta por la Secretaría y los gobiernos de los Estados, el Distrito Federal y Municipios en que se ubique, según corresponda.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1260,17 +1272,17 @@ Los parques nacionales se constituirán, tratándose de representaciones biogeog
 
 En los parques nacionales sólo podrá permitirse la realización de actividades relacionadas con la protección de sus recursos naturales, el incremento de su flora y fauna y en general, con la preservación de los ecosistemas y de sus elementos, así como con la investigación, recreación, turismo y educación ecológicos.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 12 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 51.
 
-Para los fines señalados en el artículo anterior, así como para proteger y preservar los ecosistemas marinos y regular el aprovechamiento sustentable de la flora y fauna acuática, se establecerán parques nacionales en las zonas marinas mexicanas, que podrán incluir la zona federal marítimo terrestre contigua.
+Para los fines señalados en el presente Capítulo, así como para proteger y preservar los ecosistemas marinos y regular el aprovechamiento sustentable de la flora y fauna acuática, en las zonas marinas mexicanas, que podrán incluir la zona federal marítimo terrestre contigua, se podrán establecer áreas naturales protegidas de los tipos a que se refieren las fracciones I, III, IV, VII y VIII del artículo 46, atendiendo a las características particulares de cada caso.
 
-En estas áreas sólo se permitirán actividades relacionadas con la preservación de los ecosistemas acuáticos y sus elementos, las de investigación, repoblación, recreación y educación ecológica, así como los aprovechamientos de recursos naturales que procedan, de conformidad con lo que disponen esta Ley, la Ley de Pesca, la Ley Federal del Mar, las convenciones internacionales de las que México sea parte y los demás ordenamientos aplicables.
+En estas áreas se permitirán y, en su caso, se restringirán o prohibirán las actividades o aprovechamientos que procedan, de conformidad con lo que disponen esta Ley, la Ley de Pesca, la Ley Federal del Mar, las convenciones internacionales de las que México sea parte y las demás disposiciones jurídicas aplicables.
 
-Las autorizaciones, concesiones o permisos para el aprovechamiento de los recursos naturales en estas áreas, así como el tránsito de embarcaciones en la zona o la construcción o utilización de infraestructura dentro de la misma, quedarán sujetas a lo que dispongan las declaratorias correspondientes.
+Las autorizaciones, concesiones o permisos para el aprovechamiento de los recursos naturales en estas áreas, así como el tránsito de embarcaciones en la zona o la construcción o utilización de infraestructura dentro de la misma, quedarán sujetas a lo que dispongan los Programas de Manejo y las declaratorias correspondientes.
 
-Para el establecimiento, administración y vigilancia de los parques nacionales establecidos en las zonas marinas mexicanas, así como para la elaboración de su programa de manejo, se deberán coordinar, atendiendo a sus respectivas competencias, la Secretaría y la Secretaría de Marina.
+Para el establecimiento, administración y vigilancia de las áreas naturales protegidas establecidas en las zonas marinas mexicanas, así como para la elaboración de su programa de manejo, se deberán coordinar, atendiendo a sus respectivas competencias, la Secretaría y la Secretaría de Marina.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3296,7 +3308,7 @@ La Federación, en coordinación con las autoridades de las Entidades Federativa
 
 Las autorizaciones, permisos, licencias y concesiones otorgadas con anterioridad a la fecha de entrada en vigor del presente Decreto, seguirán vigentes; su prórroga se sujetará a las disposiciones del presente Decreto.
 
-###### ARTÍCULO SÉPTIMO.
+###### ARTÍCULO SEPTIMO.
 
 La Secretaría, mediante acuerdo que se publicará en el Diario Oficial de la Federación, deberá determinar la categoría de área natural protegida que, conforme a lo dispuesto en este Decreto, corresponderá a las áreas o zonas que hayan sido establecidas con anterioridad a la entrada en vigor del mismo, con la finalidad de cumplir alguno o algunos de los propósitos establecidos en el artículo 45 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, o cuya caracterización sea análoga o similar a la descripción de alguna de las áreas naturales protegidas de competencia federal previstas en el artículo 46 de dicho ordenamiento.
 
@@ -3357,3 +3369,7 @@ D.O.F. 7 DE DICIEMBRE DE 2005.
 D.O.F. 23 DE MAYO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE FEBRERO DE 2007.
+
+Único.- El presente Decreto entrará en vigor a los 180 días siguientes a su publicación en el Diario Oficial de la Federación.
