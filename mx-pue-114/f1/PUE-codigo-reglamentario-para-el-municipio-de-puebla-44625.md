@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2007-01-29"
+last_updated: "2007-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -359,9 +359,13 @@ IV. Solicitar al Presidente le conceda el uso de la palabra para expresar su cri
 
 V. Formular las protestas conducentes cuando estime perjudiciales los acuerdos del Ayuntamiento;
 
-VI. Rendir por escrito un informe anual de las actividades realizadas, cuando sea requerido por el Ayuntamiento o por el Presidente Municipal; y
+VI. Rendir por escrito un informe anual de las actividades realizadas, cuando sea requerido por el Ayuntamiento o por el Presidente Municipal; y (sic)
 
-VII. Proporcionar la información requerida por los miembros del Ayuntamiento.
+VII. Proporcionar la información requerida por los miembros del Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+VIII.- Realizar un estudio, análisis y revisión del contenido de la impresión de las Actas de las Sesiones de Cabildo, que serán aprobadas en la Sesión Ordinaria siguiente.
 
 ###### Artículo 31.
 
@@ -387,9 +391,53 @@ IX. Facilitar a los miembros del Ayuntamiento, el asesoramiento necesario para e
 
 X. Llevar un archivo sobre citatorios, ordenes del día y cualquier material informativo que ayude para aclaraciones futuras;
 
-XI. Rendir por escrito, los informes que le sean solicitados por el Presidente, Síndico o los Regidores; y
+XI. Rendir por escrito, los informes que le sean solicitados por el Presidente, Síndico o los Regidores; y (sic)
 
-XII. Cuidar de la publicación de los dispositivos jurídicos y/o acuerdos del pleno del Cabildo en su caso.
+XII. Cuidar de la publicación de los dispositivos jurídicos y/o acuerdos del pleno del Cabildo en su caso;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+XIII.- Remitir y notificar mediante oficio los acuerdos aprobados por los integrantes del Honorable Cuerpo Edilicio y elaborar las Actas de Cabildo, en un término de 10 días hábiles posteriores a la celebración de la Sesión de Cabildo;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+XIV.- Hacer del conocimiento de la Contraloría Municipal la Estructura Administrativa con la que funcionan las Secretarías, Dependencias y Organismos Públicos Descentralizados de la Administración Municipal;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+XV.- Hacer del conocimiento del Ayuntamiento y de los Organismos Públicos Descentralizados, al final de cada año, una memoria documental y estadística de los trabajos realizados por el Cabildo Municipal;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+XVI.- Integrar un archivo trimestral que consigne las Actas Circunstanciadas que se levantan con motivo del trabajo de las Comisiones Permanentes y Transitorias del Honorable Cabildo Municipal.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+###### Artículo 31 Bis.
+
+La preparación, logística, desahogo y ejecución de las Sesiones de Cabildo, así como la notificación de los acuerdos aprobados por los miembros del Cabildo, estarán a cargo de la Dirección Jurídica de la Secretaría del Honorable Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+###### Artículo 31 Ter.
+
+Son facultades y obligaciones de la Dirección Jurídica de la Secretaría del Honorable Ayuntamiento:
+
+I.- Recopilar la Noticia Administrativa de todas las dependencias que conforman la administración centralizada municipal, mismas que serán remitidas a más tardar tres días hábiles antes del día en que se efectué la notificación de la Sesión Ordinaria;
+
+II.- Llevar un registro con números consecutivos de Dictámenes, Puntos de Acuerdo, Excitativas e Informes que se presenten al Pleno del Honorable Cabildo para su aprobación, mismos que observarán las siguientes disposiciones:
+
+a) Quien remita Dictámenes, Puntos de Acuerdo, Excitativas e Informes a la Dirección Jurídica, deberá hacerlo con cuarenta y ocho horas antes a la notificación para la cita a la Sesión de Cabildo correspondiente:
+
+b) Todos los Dictámenes, Puntos de Acuerdo, Excitativas e Informes serán homologados a un formato único que presentará: la imagen institucional del H. Ayuntamiento; el número consecutivo que corresponda; una breve síntesis a manera de cintillo que exponga quien lo presente, la facultad que ostenta y el asunto en materia; antecedentes, considerandos de hecho y de derecho que correspondan; y en su caso los resolutivos que dictaminen, acuerden o reglamenten en materia municipal; y
+
+c) Los Dictámenes, Puntos de Acuerdo, Excitativas e Informes serán signados al margen y al calce respectivamente por quien los presenta.
+
+III.- Elaborar los documentos derivados de los acuerdos que tome el Honorable Cabildo, así como observar su debido cumplimiento hasta dejados en estado de resolución;
+
+IV.- Hacer la transcripción estenográfica de las Actas de Cabildo; y
+
+V.- Llevar una memoria digital o base de datos de las Sesiones de Cabildo efectuadas, los Dictámenes, Puntos de Acuerdo, Excitativas e Informes que contengan las mismas y la descripción del estado que guarda cada acuerdo tomado por los Integrantes del Honorable Cabildo.
 
 ###### Artículo 32.
 
@@ -802,6 +850,82 @@ Los Regidores nombrados para integrar alguna Comisión permanente o transitoria,
 ###### Artículo 107.
 
 Las Comisiones rendirán al Ayuntamiento un informe anual de las labores que desarrollen sus respectivas comisiones.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2007)</small>
+
+DE LAS NOTIFICACIONES POR MEDIOS ELECTRÓNICOS
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+###### Artículo 107 Bis.
+
+Para la citación y cumplimiento de las Sesiones de Cabildo podrán establecerse mecanismos tecnológicos que permitan enviar y recibir por medios de comunicación electrónica, las notificaciones y resoluciones de los Acuerdos de Cabildo, para lo cual se considerarán los mecanismos que representen mejoras en los tiempos de ejecución, disminución de costos, así como incrementar la eficiencia y transparencia de los mismos.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+###### Artículo 107 Ter.
+
+En cumplimiento del artículo anterior el Presidente Municipal, Regidores, Secretario del H. Ayuntamiento, Sindico y Titulares que conformen la Administración Centralizada y Descentralizada Municipal, contarán con una cuenta de correo electrónico asignada por la Dirección de Tecnologías de la Información, que contara con clave de seguridad, misma que será responsabilidad de cada usuario.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+###### Artículo 107 Quater.
+
+Para la citación y notificación de las Sesiones de Cabildo se observará lo establecido en los artículos relacionados al tema y que contiene el Capítulo 5 del presente Código Reglamentario.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+###### Artículo 107 Quinquies.
+
+Para efectos del presente apartado se entiende por:
+
+I.- Acuse de Recibo Electrónico: La constancia escrita y/o electrónica, que emite una autoridad, dependencia u organismo para acreditar la fecha y hora de recepción de una notificación o resolución, a través de medios de comunicación electrónica.
+
+II.- Emisor: Cualquier autoridad, dependencia u organismo, que emita a través de un medio de comunicación electrónica un comunicado, notificación o resolución, a otra autoridad, dependencia u organismo que tenga la capacidad tecnológica para la recepción de los mismos.
+
+III.- Receptor: La autoridad, dependencia u organismo que recibe a través de un medio de comunicación electrónica un comunicado, notificación o resolución, de otra autoridad, dependencia u organismo que tenga la capacidad tecnológica para la emisión de los mismos.
+
+IV.- Medios Electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, microondas o de cualquier otro tipo de tecnología.
+
+V.- Programas Informáticos: Los medios de captura, transmisión y recepción de información que desarrollen, instalen y apliquen las autoridades, dependencias u organismos, para estar en aptitud de emitir y recibir de la manera más eficaz, segura, transparente, rápida y que genere el menor costo, los comunicados, notificaciones o resoluciones necesarios para la marcha regular de los negocios.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+###### Artículo 107 Sexies.
+
+Son autoridades competentes para la aplicación e interpretación del presente apartado, en el ámbito de sus respectivas competencias:
+
+I.- El Honorable Ayuntamiento de Puebla;
+
+II.- El Presidente Municipal Constitucional de Puebla;
+
+III.- El Secretario del H. Ayuntamiento;
+
+IV.- El Síndico Municipal; y
+
+V.- El Director de Tecnologías de la Información.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+###### Artículo 107 Septies.
+
+La Dirección de Tecnologías de la Información procurará lo necesario para que se actualicen los programas informáticos y garantice que los medios electrónicos utilizados por el emisor y el receptor cuenten con la mayor seguridad para su desahogo.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+###### Artículo 107 Octies.
+
+En todo momento las autoridades, dependencias y organismos podrán hacer las veces de emisor y receptor, causando los efectos jurídicos de Ley, una vez que se expidió el acuse de recibo electrónico.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+Artículo 107 Novies.- Las violaciones al presente apartado serán sancionadas sin perjuicio de las acciones legales que procedan, por el Honorable Ayuntamiento de Puebla, mismas que son:
+
+I.- A quien altere, distorsione, menoscabe o modifique los documentos públicos que se emitan o reciban a través de los medios electrónicos de comunicación, se le impondrá una multa de 100 a 200 días de salario mínimo vigente en el Estado de Puebla y en caso de ser usuario, la revocación de su cuenta de correo electrónico.
+
+II.- A quien haga uso indebido de los medios electrónicos a cargo de los servidores públicos del Gobierno Municipal, se le impondrá una multa de 50 a 100 días de salario mínimo vigente en el Estado de Puebla y en caso de ser usuario, la revocación de su cuenta de correo electrónico.
+
+III.- A quien elimine, borre o impida que cualquier archivo sea enviado y recibido en tiempo y forma legal se le impondrá una multa de 100 a 200 días de salario mínimo vigente en el Estado de Puebla y en caso de ser usuario la revocación de su cuenta de correo electrónico.
 
 ### CAPÍTULO 7. DE LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS MESAS
 
@@ -1333,11 +1457,15 @@ XIV.- Consejo de Centro Histórico y Patrimonio Edificado;
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-XV.- Consejo de la Juventud; y
+XV.- Consejo de la Juventud; y (sic)
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2007)</small>
 
-XVI.- Los demás que determine el Ayuntamiento.
+XVI.- Consejo Ciudadano de Desempeño Gubernamental;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2007)</small>
+
+XVII.- Las demás que determine el Ayuntamiento.
 
 El objetivo de los consejos señalados con anterioridad, será el de ocuparse de los asuntos que le encomiende el Ayuntamiento de Puebla, vinculados a su denominación.
 
@@ -3901,9 +4029,11 @@ V.- Las demás funciones que le encomiende el Presidente Municipal.
 
 INTEGRACIÓN DE LA UNIDAD OPERATIVA MUNICIPAL DE PROTECCIÓN CIVIL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 393.
 
-La Unidad Operativa Municipal se integra por:
+La Unidad Operativa Municipal de Protección Civil, se integra por:
 
 I. Un Director que será el Secretario Técnico del Consejo Municipal de Protección Civil;
 
@@ -10543,7 +10673,7 @@ Queda prohibido al Organismo Operador de los Servicios de Agua Potable y Alcanta
 
 ###### Artículo 909.
 
-El Organismo Operador de los Servicios de Agua Potable y Alcantarillado que corresponda, aprobará toda obra de drenaje y alcantarillado si llena las condiciones que se establecen en este capítulo.
+El Organismo Operador de los Servicios de Agua Potable y Alcantarillado que corresponda, aprobará toda obra de drenaje y alcantarillado si llena las condiciones que se establecen en este capitulo.
 
 ###### Artículo 910.
 
@@ -11863,7 +11993,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1 - r(1-q)W¡)
+a¡ = (1 - r(1-q)W¡
 
 W¡h¡
 
@@ -12037,13 +12167,13 @@ Donde:
 
 W = Peso del nivel i
 
-We = Peso efectivo de la estructura el cual se tomará como 0.7 W, excepto para estructuras en que su peso está concentrado en un solo nivel donde se tomará igual a W.
+W e = Peso efectivo de la estructura el cual se tomará como 0.7 W, excepto para estructuras en que su peso está concentrado en un solo nivel donde se tomará igual a W.
 
 Ordenada especial para la estructura con base rígida, se calcula según las ecs. 3-5 haciendo T=Te
 
 ã = Ordenada espectral para la estructura con base flexible, que se calcula según las ecs. 3-5 remplazando a c por xc y haciendo T =
 
-Q' = Factor reductito para el periodo fundamental de la estructura con base rígida
+Q' =Factor reductito para el periodo fundamental de la estructura con base rígida
 
 = Factor reductito para el periodo efectivo de la estructura con base flexible
 
@@ -12057,7 +12187,7 @@ X¡ = V/V(x¡ + (h¡ + D)Mo/Kr)
 
 Donde:
 
-Mo = Momento de volteo en la base de la cimentación para la estructura supuesta con base indeformable.
+M o = Momento de volteo en la base de la cimentación para la estructura supuesta con base indeformable.
 
 Xi = Desplazamiento lateral del nivel i de la estructura con base rígida.
 
@@ -12209,7 +12339,7 @@ Siendo:
 
 P = Presión a succión del viento (kg/m²)
 
-c = Factor de empuje (sin dimensiones)
+c = Factor de empuje ( sin dimensiones)
 
 V = Velocidad de diseño (km/h)
 
@@ -27656,3 +27786,17 @@ P.O. 29 DE ENERO DE 2007.
 PRIMERO.- La presente adición al Código Reglamentario para el Municipio de Puebla, del Libro Noveno, Capítulo 36 denominado "DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA" entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones en contrario al presente Dictamen.
+
+P.O. 12 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 296.
+
+ÚNICO. Las presentes reformas entrarán en vigor noventa días naturales posteriores a su publicación en el Periódico Oficial del Estado de Puebla.
+
+P.O. 12 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 299.
+
+PRIMERO.- El presente Dictamen surtirá efecto a partir de su publicación, en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- La expedición de la acreditación a los Consejeros Ciudadanos deberá estar debidamente fundada y motivada.
