@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2004-09-13"
+last_updated: "2007-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 13 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -1055,7 +1055,13 @@ Cuando se trate de tomas solicitadas por establecimientos ubicados en forma temp
 
 Es obligatoria la instalación de aparatos medidores volumétricos para la verificación del consumo de agua del servicio público para todos los usuarios.
 
-Al efecto, las tomas deberán instalarse en la entrada de los predios o establecimientos, y los medidores en lugares accesibles, con vista al exterior, junto a dicha entrada, en forma tal que se puedan llevar a cabo sin dificultad las lecturas de consumo, las pruebas de funcionamiento de los aparatos y, cuando sea necesario, el cambio de los medidores. Los usuarios, bajo su estricta responsabilidad, cuidarán que no se deterioren los medidores.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+Al efecto, las tomas deberán instalarse en la entrada de los predios o establecimientos, y los medidores en lugares accesibles, o visibles para el usuario, junto a dicha entrada, en forma tal que se puedan llevar a cabo sin dificultad las lecturas de consumo, tanto por el prestador del servicio como del usuario; en caso de no ser así, el usuario pagará la cuota mínima mientras persista tal supuesto, mismo que será corroborado por un inspector del prestador del servicio.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+Además el aparato medidor volumétrico deberá estar accesible para que se puedan llevar a cabo las pruebas de funcionamiento de los aparatos y, cuando sea necesario, el cambio de los medidores. Los usuarios, bajo su estricta responsabilidad, cuidarán que no se deterioren los medidores.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
@@ -1185,9 +1191,11 @@ IV. Una menor dependencia de los municipios hacia el Estado y la Federación, pa
 
 V. La orientación del desarrollo urbano e industrial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 96.
 
-Las cuotas y tarifas se determinarán y actualizarán por el prestador de los servicios con base en la aplicación de las fórmulas que autorice el Municipio respectivo, con la opinión del Instituto. Estas fórmulas establecerán los parámetros y su interrelación para el cálculo de las tarifas medias de equilibrio.
+Las cuotas y tarifas se determinarán y actualizarán por el prestador de los servicios con base en la aplicación de las fórmulas que autorice el Municipio respectivo, con la opinión del Instituto, así como de la previa aprobación del Cabildo de cada Ayuntamiento. Estas fórmulas establecerán los parámetros y su interrelación para el cálculo de las tarifas medias de equilibrio.
 
 Las tarifas medias de equilibrio deberán ser suficientes para cubrir los costos derivados de la operación, el mantenimiento y administración de los sistemas; la rehabilitación y mejoramiento de la infraestructura existente; la amortización de las inversiones realizadas; los gastos financieros de los pasivos; y las inversiones necesarias para la expansión de la infraestructura. Las fórmulas deberán reflejar el efecto, que en su caso, tengan en las tarifas medias de equilibrio las aportaciones que hagan los gobiernos federal, estatal y municipal, o cualquier otra instancia pública, privada o social. Las fórmulas también deberán tomar en cuenta explícitamente el efecto de la eficiencia física, comercial, operativa y financiera de los prestadores de los servicios.
 
@@ -1205,9 +1213,11 @@ IV. La cuota por conexión a la red de drenaje; y
 
 V. Las demás que se requieran conforme al criterio del Municipio respectivo o del Instituto.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 98.
 
-Las revisiones a las fórmulas, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán anualmente. Dichas revisiones podrán hacerlas a petición de uno o varios prestadores de servicios, quienes deberán anexar una propuesta y un estudio técnico que la justifique.
+Las revisiones a las fórmulas, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán anualmente, dichas revisiones podrán hacerlas a petición de uno o varios prestadores de servicios, quienes deberán anexar una propuesta y un estudio técnico que la justifique, debiéndose enviar a los Cabildos de los Ayuntamientos respectivos para su estudio y aprobación.
 
 ###### ARTICULO 99.
 
@@ -1219,9 +1229,11 @@ El prestador de los servicios podrá determinar una estructura tarifaria que tom
 
 El Municipio respectivo o el Instituto vigilará la correcta aplicación de las fórmulas y aprobará las tarifas medias calculadas conforme al procedimiento establecido en el artículo anterior, así como la congruencia entre las tarifas medias y la estructura tarifaria correspondiente.
 
-###### ARTICULO 101.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2007)</small>
 
-Las fórmulas para la determinación de las tarifas medias de equilibrio y sus modificaciones, así como las cuotas o tarifas que los prestadores de los servicios establezcan con base en ellas, se publicarán en el Periódico Oficial del Gobierno del Estado, y en uno de los diarios de mayor circulación de la Entidad.
+###### ARTÍCULO 101.
+
+Las fórmulas para la determinación de las tarifas medias de equilibrio y sus modificaciones, así como las cuotas o tarifas que los prestadores de los servicios establezcan con base en ellas en conjunto con la aprobación del Cabildo del Ayuntamiento respectivo, se publicarán en el Periódico Oficial del Estado, y en uno de los diarios de mayor circulación de la Entidad.
 
 ###### ARTICULO 102.
 
@@ -1278,6 +1290,10 @@ Las cuotas y tarifas que se cobren al usuario serán independientes de los pagos
 ###### ARTICULO 104.
 
 La falta de pago en dos ocasiones consecutivas, por parte de usuarios no domésticos, faculta al municipio o al prestador de los servicios para suspender el suministro del agua potable hasta que se regularice su pago. En el caso de uso doméstico, la falta de pago en tres ocasiones consecutivas ocasionará la suspensión del suministro del agua potable.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+Cuando el usuario considere que el cobro de agua es superior a lo realmente consumido, podrá inconformarse, acudiendo a la ventanilla correspondiente a cargo del prestador del servicio, el cual deberá realizar una inspección técnica, dando respuesta por escrito. En el supuesto de que el prestador del servicio tarde más de diez días en emitir su Dictamen, a partir de la fecha de su inconformidad, el usuario solamente cubrirá el promedio de su historial de pago hasta que no reciba su Resolución Técnica o Dictamen.
 
 Se exceptúan de lo anterior aquellos usuarios que hubieren calificado como beneficiarios del Fondo de Apoyo Social, debido a su situación económica apremiante, siempre y cuando cumplan con los requisitos que el Reglamento de este Fondo establezca.
 
@@ -1391,7 +1407,7 @@ Cuando no se pueda determinar el volumen de agua, como consecuencia de la descom
 
 Procederá la determinación presuntiva del volumen de consumo del agua, cuando:
 
-I. No se tenga instalado aparato de medición en los términos del Artículo 77;
+I. No se tenga instalado aparato de medición en los términos del Articulo 77;
 
 II. No funcione el medidor;
 
@@ -1624,3 +1640,9 @@ UNICO.- El presente Decreto entrará en vigor la (sic) día siguiente de su publ
 P.O. 13 DE SEPTIEMBRE DE 2004.
 
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2007.
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
