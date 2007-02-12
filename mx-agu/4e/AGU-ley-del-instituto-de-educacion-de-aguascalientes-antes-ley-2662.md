@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-educacion-de-aguascalientes-antes-ley-2662
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-07"
-last_updated: "2004-06-28"
+last_updated: "2007-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2007.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -79,9 +79,21 @@ I.- Los planteles y demás bienes muebles e inmuebles, con los que la Federació
 
 II.- Los recursos financieros que para su funcionamiento se requieran y que le serán aportados por los Gobiernos Federal, Estatal y Municipales;
 
-III.- Las propiedades, posesiones y derechos que adquiera por cualquier título legal; y
+III.- Las propiedades, posesiones y derechos que adquiera por cualquier título legal; y (sic)
 
-IV.- Las donaciones, herencias, legados y fideicomisos que se hicieren o se constituyeren en su favor.
+IV.- Las donaciones, herencias, legados y fideicomisos que se hicieren o se constituyeren en su favor;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+V.- Las utilidades o beneficios que obtenga en ejercicio de sus actividades; (sic)
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+Los bienes del dominio público muebles e inmuebles pertenecientes al Instituto serán de carácter imprescriptible e inembargable y sólo podrán ser objeto de actos de dominio, mediante acuerdo del Consejo Interior del Instituto.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+El régimen fiscal del Instituto se sujetará a lo dispuesto en las leyes de la materia, considerando en todo momento su naturaleza inminentemente social.
 
 ### CAPITULO SEGUNDO. Organos de Gobierno
 
@@ -127,9 +139,21 @@ VIII.- Las demás que sean necesarias para el adecuado ejercicio de las facultad
 
 El Consejo Interior celebrará sesiones ordinarias trimestrales, así como las extraordinarias que se requieran, en términos del Reglamento que para el efecto se apruebe.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 9o.
 
-El nombramiento del Director General recaerá en un servidor público con experiencia en el sector educativo y con los méritos académicos y administrativos suficientes para el adecuado desempeño de sus funciones.
+Para ser nombrado como Director General se requiere:
+
+I.- Ser mexicano por nacimiento;
+
+II.- Ser mayor de 30 años;
+
+III.- Contar con título profesional o grado superior;
+
+IV.- Contar con residencia efectiva en el Estado de por lo menos 3 años anteriores al día de su designación; y
+
+V.- Tener experiencia en el sector educativo y con los méritos académicos y administrativos suficientes para el adecuado desempeño de sus funciones.
 
 ###### ARTICULO 10.
 
@@ -149,39 +173,55 @@ V.- Expedir los nombramientos del personal y llevar las relaciones laborales de 
 
 VI.- Planear, dirigir y controlar el funcionamiento del organismo en base a las instrucciones del Consejo Interior, por cuyo acuerdo podrá suscribir contratos y/o convenios con las dependencias federales, promover la participación de los padres de familia y los sectores sociales, en apoyo a los planteles educativos y supervisar y evaluar la operación de los mismos.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 11.
 
-Como auxiliares inmediatos del Director General existirán en el Organismo las siguientes Direcciones, Subdirecciones, Unidad y Coordinaciones de Apoyo:
+Como auxiliares inmediatos del Director General existirán en el organismo las siguientes Direcciones, Subdirecciones, Unidad y Coordinaciones de Apoyo.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
 
 I.- Dirección de Planeación y Evaluación;
 
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
+
 II.- Dirección de Educación Básica;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
 
 III.- Dirección de Educación Media y Superior;
 
-IV.- Subdirección de Programas Compensatorios;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-V.- Dirección Jurídica;
+IV.- Dirección Jurídica;
 
-VI.- Dirección de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-VII.- Dirección de Participación Social;
+V.- Dirección de Finanzas y Administración;
 
-VIII.- Dirección de Formación, Actualización, Capacitación y Superación Profesional del Magisterio;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-IX.- Dirección de Becas y Financiamiento Educativo;
+VI.- Dirección de Desarrollo Educativo;
 
-X.- Dirección de Comunicación Social;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-XI.- Unidad de Contraloría Interna;
+VII.- Dirección de Becas y Financiamiento Educativo;
 
-XII.- Coordinación de Formación Valoral; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-XIII.- Coordinación de Relaciones Públicas;
+VIII.- Dirección de Comunicación Social;
 
-El Consejo Interior en el ámbito de su competencia tendrá a bien determinar las oficinas que dependan del organigrama previsto en el presente artículo que resulten suficientes y necesarios para la prestación del servicio educativo.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+IX.- Unidad de Contraloría Interna;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+X.- Coordinación de Relaciones Públicas.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+El Consejo Interior en el ámbito de su competencia tendrá a bien determinar las oficinas que dependan del organigrama previsto en el presente Artículo que resulten suficientes y necesarios para la prestación del servicio educativo.
 
 ###### ARTICULO 12.
 
@@ -193,9 +233,11 @@ II.- Los criterios que orientará dicha educación serán de acuerdo a lo dispue
 
 III.- Serán democráticos, entendido esto como sistema de vida, fundado en el constante mejoramiento económico, social y cultural del pueblo; nacionales, en cuanto atiendan a la comprensión de nuestros problemas, al adecuado aprovechamiento de nuestros recursos, al aseguramiento de nuestra independencia política y económica y al acrecentamiento de nuestra cultura; y contribuirán a la mejor convivencia humana, fortaleciendo los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razón, de sectas, de grupos, de sexos o de individuos.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 13.
 
-El Instituto acepta que los planes y programas de estudio destinados a la educación básica y normal, sean proporcionados por la Secretaría de Educación Pública, pero aquél podrá proponer su ampliación, modificación o perfeccionamiento de acuerdo a las necesidades de la región, lo que se hará previos los análisis que realice el Consejo Estatal Técnico de Educación, vinculado al Consejo Nacional Técnico de la Educación.
+El Instituto impartirá los planes y programas de estudio destinados a la educación básica y normal, mismos que sean proporcionados por la Secretaría de Educación Pública, el Instituto podrá proponer su ampliación, modificación o perfeccionamiento de acuerdo a las necesidades de la región, lo que se hará previos los análisis que realice el Consejo Estatal Técnico de Educación, vinculado al Consejo Nacional Técnico de la Educación.
 
 ###### ARTICULO 14.
 
@@ -213,6 +255,10 @@ El Control Escolar relativo a inscripciones, reinscripciones, registros, acredit
 
 El órgano de vigilancia del Instituto estará integrado por un comisario público, con su respectivo suplente, y ambos serán designados por el Gobernador del Estado, a propuesta del Contralor General.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+Corresponde a la Unidad de Contraloría Interna del Instituto lo relativo a planear, organizar y realizar las auditorías a las áreas y a los funcionarios dependientes del Instituto, lo anterior en apego al Artículo 45 fracción III de la Ley para el Control de las Entidades Paraestatales y lo establecido en la Ley de Responsabilidades de los Servidores Públicos.
+
 ###### ARTICULO 17.
 
 El comisario público evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerza el presupuesto asignado en los rubros de gasto corriente, sueldos, prestaciones, inversiones y gastos en general.
@@ -221,9 +267,13 @@ El comisario público evaluará el desempeño general y por funciones del Instit
 
 No podrán tener carácter de comisarios, ni titular ni suplente:
 
-I.- Los servidores públicos que presten sus servicios en el Instituto; y
+I.- Los servidores públicos que presten sus servicios en el Instituto; y (sic)
 
-II.- Los parientes consanguíneos del Director General en línea recta ascendente y descendente, sin limitación de grado; los colaterales dentro del cuarto grado, y los afines, dentro del segundo.
+II.- Los parientes consanguíneos del Director General en línea recta ascendente y descendente, sin limitación de grado; los colaterales dentro del cuarto grado, y los afines, dentro del segundo;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+III.- Aquella persona que haya sido sentenciada por delitos contra el patrimonio.
 
 ###### ARTICULO 19.
 
@@ -237,9 +287,13 @@ III.- Intervenir en la información y revisión de los estados financieros de fi
 
 IV.- Solicitar se convoque a sesiones ordinarias o extraordinarias del Consejo Interior, cuando lo juzgue pertinente;
 
-V.- Asistir a las sesiones del Consejo Interior en las que tendrá voz, pero no voto; y
+V.- Asistir a las sesiones del Consejo Interior en las que tendrá voz, pero no voto; y (sic)
 
-VI.- Las demás que le encomiende el Consejo Interior y las que se determinen en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+VI.- Presentar quejas o denuncias ante la Contraloría General de Gobierno y en su caso ante la Contaduría Mayor de Hacienda del Congreso del Estado;
+
+VII.- Las demás que le encomiende el Consejo Interior y las que se determinen en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
 
 ### CAPITULO CUARTO. Régimen Laboral
 
@@ -320,3 +374,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE JUNIO DE 2004.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2007.
+
+###### ARTICULO UNICO.
+
+las (sic) presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
