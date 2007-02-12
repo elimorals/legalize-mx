@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-trabajo-del-municipio-de-san-29022"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2003-02-17"
+last_updated: "2007-02-12"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE TRABAJO DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO DECIMO PRIMERO DEL CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2007, EL PRESENTE REGLAMENTO SE TRANSCRIBE INTEGRO AL CODIGO EN MENCION SIN MODIFICACION ALGUNA A LAS CONDICIONES GENERALES DE TRABAJO, POR LO QUE NO REQUIERE LA AUTORIZACION DEL SINDICATO UNICO DE LOS TRABAJADORES DEL ESTADO Y MUNICIPIOS DE AGUSCALIENTES, NI SU INSCRIPCION EN EL TRIBUNAL DE ARBITRAJE.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2007.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de febrero de 2003.
 
@@ -852,3 +854,35 @@ Delegado de la Sección 9 del SUTEMA.
 Ma. Silvia Valenciano Romero,
 
 Representante del Personal de Base no Sindicalizado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente Código Municipal de San Francisco de los Romo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Bando de Policía y Buen Gobierno de San Francisco de los Romo, Ags., publicado en el Periódico Oficial del Estado, el cinco de Enero de dos mil cuatro, así como sus reformas.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias municipales que se opongan a lo dispuesto en el presente Código.
+
+CUARTO.- Los anexos gráficos al presente Código Municipal en lo referente a la Reglamentación en Materia de Anuncios que previene el Libro Sexto, desde luego forman parte integrante del mismo y por tanto son obligatorios para las entidades públicas, particulares y autoridades respectivas, y surtirán efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado estarán en la Dirección General de Desarrollo Urbano.
+
+QUINTO.- Todos los anuncios que se encuentren instalados, colocados o fijados, antes de la Publicación del presente Código Municipal en el Periódico Oficial del Estado y que no cuenten con licencia o permiso, deberán regularizar su situación jurídica en un término de sesenta días hábiles contados a partir de la fecha de publicación del presente Código.
+
+SEXTO.- Respecto del límite de la jurisdicción federal para el control de los anuncios, en relación a la competencia del Municipio de San Francisco de los Romo, se establece el siguiente:
+
+Carretera 45 entronque con Carretera desviación a Luis Moya número 71.
+
+SEPTIMO.- La Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación, iniciará funciones a más tardar el mes de Marzo del 2007 y en tanto entra en funciones, lo relativo y aplicable a transparencia y acceso a la información pública será de la competencia de la Contraloría Municipal.
+
+OCTAVO.- Se abroga el Reglamento Interior del H. Cabildo del Municipio de San Francisco de los Romo del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el cuatro de febrero de mil novecientos noventa y seis.
+
+NOVENO.- Se abroga el Reglamento Interior de Seguridad Pública y Vialidad de San Francisco de los Romo, Ags., publicado en el Periódico Oficial del Estado el veintiuno de diciembre de mil novecientos noventa y siete.
+
+DECIMO.- Se abroga el Reglamento de Limpia y Aseo Público para el Municipio de San Francisco de los Romo, publicado en el Periódico Oficial del Estado el veintiséis de septiembre de mil novecientos noventa y tres.
+
+DECIMO PRIMERO.- El Reglamento Interior de Trabajo del Municipio de San Francisco de los Romo, Ags., publicado en el Periódico Oficial del Estado, Primera Sección, de fecha diecisiete de febrero del dos mil tres, se transcribe íntegro al Código Municipal de San Francisco de los Romo sin modificación alguna a las condiciones generales de trabajo, por lo que no requiere la autorización del Sindicato Único de los Trabajadores del Estado y Municipios de Aguascalientes, ni su inscripción en el tribunal de Arbitraje.
+
+DECIMO SEGUNDO.- Se abroga el Reglamento sobre la Venta y Consumo de Bebidas Alcohólicas en el Municipio de San Francisco de los Romo, publicadas en el Periódico Oficial del Estado el diecisiete de marzo de mil novecientos noventa y seis.
+
+DECIMO TERCERO.- Todos los asuntos que se encuentren en trámite al inicio de la vigencia del presente Código Municipal de San Francisco de los Romo, seguirán hasta su conclusión apegándose a las formas y procedimientos de los ordenamientos jurídicos que les dieron origen.
