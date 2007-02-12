@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2006-12-04"
+last_updated: "2007-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 2007.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1642,9 +1642,11 @@ La Cámara de Diputados, al aprobar el Presupuesto de Egresos, no podrá dejar d
 
 Son facultades exclusivas del Senado:
 
-> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2007)</small>
 
-I.- Analizar la política exterior desarrollada por el Ejecutivo Federal con base en los informes anuales que el Presidente de la República y el Secretario del Despacho correspondiente rindan al Congreso; además, aprobar los tratados internacionales y convenciones diplomáticas que celebre el Ejecutivo de la Unión.
+I.- Analizar la política exterior desarrollada por el Ejecutivo Federal con base en los informes anuales que el Presidente de la República y el Secretario del Despacho correspondiente rindan al Congreso.
+
+Además, aprobar los tratados internacionales y convenciones diplomáticas que el Ejecutivo Federal suscriba, así como su decisión de terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -1882,9 +1884,9 @@ VIII.- Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley 
 
 IX.- Designar, con ratificación del Senado, al Procurador General de la República.
 
-> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 1988)</small>
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2007)</small>
 
-X.- Dirigir la política exterior y celebrar tratados internacionales, sometiéndolos a la aprobación del Senado. En la conducción de tal política, el titular del Poder Ejecutivo observará los siguientes principios normativos: la autodeterminación de los pueblos; la no intervención; la solución pacífica de controversias; la proscripción de la amenaza o el uso de la fuerza en las relaciones internacionales; la igualdad jurídica de los Estados; la cooperación internacional para el desarrollo; y la lucha por la paz y la seguridad internacionales.
+X.- Dirigir la política exterior y celebrar tratados internacionales, así como terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos, sometiéndolos a la aprobación del Senado. En la conducción de tal política, el titular del Poder Ejecutivo observará los siguientes principios normativos: la autodeterminación de los pueblos; la no intervención; la solución pacífica de controversias; la proscripción de la amenaza o el uso de la fuerza en las relaciones internacionales; la igualdad jurídica de los Estados; la cooperación internacional para el desarrollo; y la lucha por la paz y la seguridad internacionales.
 
 > <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
 
@@ -5145,6 +5147,10 @@ D.O.F. 4 DE DICIEMBRE DE 2006.
 DECRETO QUE REFORMA EL ARTICULO 1.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE FEBRERO DE 2007.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
