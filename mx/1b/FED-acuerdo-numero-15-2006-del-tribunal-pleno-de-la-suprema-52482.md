@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-15-2006-del-tribunal-pleno-de-la-suprema-52482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-18"
-last_updated: "2006-09-18"
+last_updated: "2007-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ scjn_last_update: "2007-02-12"
 
 ACUERDO NUMERO 15/2006, DEL DIECIOCHO DE SEPTIEMBRE DE DOS MIL SEIS, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO NUMERO 2/2007, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 12 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, CON EXCEPCION DE SUS PUNTOS TRANSITORIOS PRIMERO Y TERCERO A SEXTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 2007.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXIV de Septiembre 2006, página 1575.
 
@@ -42,39 +44,29 @@ Por lo anterior y con fundamento en lo dispuesto en los citados preceptos consti
 
 ACUERDO:
 
-PRIMERO. Las plazas de la Suprema Corte de Justicia de la Nación se denominan conforme al puesto que corresponde a las funciones que deben ejercer sus titulares. Los referidos puestos son los precisados en el catálogo visible en el Anexo I de este Acuerdo General.
+PRIMERO. (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO NUMERO 2/2007, DE OCHO DE ENERO DE DOS MIL SIETE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE FEBRERO DE 2007)
 
-SEGUNDO. Las plazas de la Suprema Corte de Justicia de la Nación, denominadas conforme a las funciones que deben desempeñar sus titulares, son las previstas en el Anexo II de este Acuerdo General.
+SEGUNDO. (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO NUMERO 2/2007, DE OCHO DE ENERO DE DOS MIL SIETE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE FEBRERO DE 2007)
 
-La Dirección General de Personal, con el apoyo de las Direcciones Generales de Difusión e Informática, deberá difundir en medios electrónicos de consulta pública el referido Anexo II, el cual deberá actualizarse mensualmente, indicando las readscripciones que modifiquen su estructura.
+TERCERO. (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO NUMERO 2/2007, DE OCHO DE ENERO DE DOS MIL SIETE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE FEBRERO DE 2007)
 
-TERCERO. Por cada plaza de la Suprema Corte de Justicia de la Nación, la Dirección General de Personal llevará un expediente que deberá contener, cuando menos, el documento que sustente su creación y el diverso en el que se describan las funciones que corresponden a la misma.
+CUARTO. (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO NUMERO 2/2007, DE OCHO DE ENERO DE DOS MIL SIETE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE FEBRERO DE 2007)
 
-Los expedientes de las plazas deben contener los datos y documentos precisados en el respectivo Acuerdo General del Comité de Gobierno y Administración.
+QUINTO. (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO NUMERO 2/2007, DE OCHO DE ENERO DE DOS MIL SIETE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE FEBRERO DE 2007)
 
-CUARTO. Sólo podrán crearse plazas por el Pleno de la Suprema Corte a proposición de las Salas o del Comité de Gobierno y Administración, los que deberán justificar que resultan indispensables siempre y cuando existan recursos presupuestales para ello.
+SEXTO. (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO NUMERO 2/2007, DE OCHO DE ENERO DE DOS MIL SIETE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE FEBRERO DE 2007)
 
-QUINTO. Por ningún motivo se podrán cubrir remuneraciones a servidores de base o de confianza que no ocupen una plaza expresamente creada por el Pleno de la Suprema Corte de Justicia de la Nación o que no cuenten con un nombramiento otorgado por las Salas o por el Comité de Gobierno y Administración.
+SÉPTIMO. (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO NUMERO 2/2007, DE OCHO DE ENERO DE DOS MIL SIETE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE FEBRERO DE 2007)
 
-SEXTO. Ni las plazas ni sus titulares podrán ser puestos a disposición de la Dirección General de Personal. Si el titular de un área estima que algún servidor público no cumple debidamente con sus funciones deberá iniciar los respectivos procedimientos laborales o administrativos.
+OCTAVO. (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO NUMERO 2/2007, DE OCHO DE ENERO DE DOS MIL SIETE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE FEBRERO DE 2007)
 
-Excepcionalmente, quedarán adscritas a la referida Dirección, previo Acuerdo del Comité de Gobierno y Administración, las plazas respecto de las cuales se obtenga licencia sindical o por incapacidad médica.
-
-SÉPTIMO. Las reglas para el movimiento de rangos dentro de un mismo puesto serán fijadas, respectivamente, por las Salas, en relación con el personal adscrito a éstas, y por el Comité de Gobierno y Administración, en cuanto a los demás servidores públicos de esta Suprema Corte.
-
-Los cambios de rango implicarán un nuevo nombramiento en la misma plaza.
-
-OCTAVO. En el ámbito de su competencia, el Pleno, las Salas, el Comité de Gobierno y Administración y la Secretaria General de la Presidencia y Oficial Mayor, otorgarán los nombramientos de los trabajadores de este Alto Tribunal en las plazas previstas en el Anexo II de este Acuerdo General.
-
-Los documentos en los que consten los nombramientos en las plazas de esta Suprema Corte, deberán cumplir con los requisitos establecidos en el artículo 15 de la Ley Federal de los Trabajadores al Servicio del Estado.
-
-NOVENO. La Dirección General de Personal integrará y resguardará por cada trabajador un expediente, el cual deberá contener los datos y documentos previstos en el respectivo Acuerdo General del Comité de Gobierno y Administración.
+NOVENO. (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO NUMERO 2/2007, DE OCHO DE ENERO DE DOS MIL SIETE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE FEBRERO DE 2007)
 
 TRANSITORIOS:
 
 PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
 
-SEGUNDO. La adscripción de los servidores públicos de la Suprema Corte de Justicia de la Nación, el puesto y el número de plaza que ocupan, así como los organigramas correspondientes, deberán plasmarse por las Direcciones Generales señaladas en el punto segundo de este Acuerdo General, en la versión electrónica de consulta pública del respectivo Acuerdo General del Comité de Gobierno y Administración.
+SEGUNDO. (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO NUMERO 2/2007, DE OCHO DE ENERO DE DOS MIL SIETE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 12 DE FEBRERO DE 2007)
 
 TERCERO. Los documentos en que se precisen las funciones de las plazas que se crean con motivo de este Acuerdo General, deberán remitirse dentro de los treinta días naturales siguientes a la entrada en vigor del mismo, a la Dirección General de Personal. Las relativas a las plazas del Instituto de Investigaciones Jurisprudenciales y de Promoción y Difusión de la Ética Judicial deberán remitirse al Comité de Gobierno y Administración a más tardar el treinta y uno de enero de dos mil siete.
 
@@ -91,3 +83,19 @@ Ver anexo II
 > <small>N. DE E. PARA CONSULTAR LOS ANEXOS I Y II, VEASE SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA, TOMO XXIV DE SEPTIEMBRE DE 2006, DE LA PAGINA 1581 A LA 1706.</small>
 
 LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que el Acuerdo General Número 15/2006, con sus Anexos I y II, Relativo a la Estructura y a las Plazas del Personal de la Suprema Corte de Justicia de la Nación que antecede, fue emitido por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación por unanimidad de ocho votos de los señores Ministros presidente Azuela Güitrón, Aguirre Anguiano, Luna Ramos, Díaz Romero, Góngora Pimentel, Ortiz Mayagoitia, Valls Hernández y Silva Meza, en su sesión privada celebrada ayer.-México, Distrito Federal, diecinueve de septiembre de dos mil seis.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 12 DE FEBRERO DE 2007.
+
+PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La adscripción de los servidores públicos de la Suprema Corte de Justicia de la Nación, el puesto y el número de plaza que ocupan, así como los organigramas correspondientes, deberán plasmarse por las Direcciones Generales señaladas en el punto segundo de este Acuerdo General, en la versión electrónica de consulta pública del respectivo Acuerdo General del Comité de Gobierno y Administración.
+
+TERCERO. Los documentos en que se precisen las funciones de las plazas que se crean con motivo de este Acuerdo General, deberán remitirse dentro de los treinta días naturales siguientes a la entrada en vigor del mismo, a la Dirección General de Personal.
+
+CUARTO. La Secretaría General de Acuerdos remitirá a la Dirección General de Personal sendos documentos en los que realice la certificación relativa al puesto, número progresivo y adscripción de las plazas de la Suprema Corte de Justicia de la Nación creadas o transformadas mediante este Acuerdo General, con la finalidad de que sean anexados, respectivamente, a los expedientes a los que se refiere el punto tercero de este Acuerdo General.
+
+QUINTO. Con excepción de sus puntos transitorio primero y tercero a sexto, se deroga lo previsto en el Acuerdo General Plenario 15/2006 relativo a la estructura y a las plazas del personal de la Suprema Corte de Justicia de la Nación, en lo que se oponga a lo dispuesto en este Acuerdo General.
+
+SEXTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
