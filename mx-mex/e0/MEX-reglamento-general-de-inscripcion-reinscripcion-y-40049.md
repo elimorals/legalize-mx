@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-general-de-inscripcion-reinscripcion-y-40049"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-17"
-last_updated: "2004-06-17"
+last_updated: "2007-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO GENERAL DE INSCRIPCION, REINSCRIPCION Y EVALUACION DEL APRENDIZAJE DEL COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE FEBRERO DE 2007.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 17 de junio de 2004.
 
@@ -263,17 +263,23 @@ Los alumnos que reprueben 5 o más asignaturas en evaluación ordinaria, deberá
 
 Los alumnos en situación académica irregular únicamente podrán recursar una sola vez las asignaturas adeudadas.
 
-###### ARTÍCULO 36.
+> <small>(REFORMADO, G.G. 13 DE FEBRERO DE 2007)</small>
 
-Los alumnos podrán solicitar cambio de grupo, turno o plantel durante la reinscripción y hasta el tercer día hábil del semestre lectivo, ajustándose a los requisitos que se indican en el Reglamento de Ingreso, Permanencia y Promoción de Alumnos del Colegio.
+###### ARTICULO 36.
 
-###### ARTÍCULO 37.
+Los alumnos podrán solicitar cambio de grupo, turno, Plantel a Plantel, Plantel a Centro EMSAD ó viceversa, durante la reinscripción y hasta el tercer día hábil del semestre lectivo, ajustándose a los requisitos que se indican en el Reglamento de Ingreso, Permanencia y Promoción de Alumnos del Colegio".
 
-Para cambio de plantel, el alumno deberá obtener con la autorización de los directores de ambos planteles.
+> <small>(REFORMADO, G.G. 13 DE FEBRERO DE 2007)</small>
 
-###### ARTÍCULO 38.
+###### ARTICULO 37.
 
-Una vez autorizado por el Director el cambio de plantel, se comunicará mediante oficio al alumno y al Director del Plantel solicitado dentro de un término de 48 horas de acordado el cambio. Si el cambio es de grupo o turno se concederá al alumno un término de veinticuatro horas hábiles, para que se efectúe.
+Para cambio de Plantel, de Plantel a Centro EMSAD ó viceversa, se deberá contar con la autorización de los Directores de los planteles involucrados y Coordinadores de los Centros.
+
+> <small>(REFORMADO, G.G. 13 DE FEBRERO DE 2007)</small>
+
+###### ARTICULO 38.
+
+Una vez autorizado el cambio en términos del artículo anterior, se comunicara el mismo al alumno, Director del Plantel y Coordinador del Centro EMSAD, en su caso, dentro de un término de cuarenta y ocho horas de acordado el cambio. Si el cambio es de grupo o turno se concede al alumno un término de veinticuatro horas hábiles, para su realización.
 
 ###### ARTÍCULO 39.
 
@@ -364,6 +370,8 @@ III. El acta de calificaciones será el formato oficial que contendrá los eleme
 IV. Los planteles deberán elaborar el acta de calificaciones, en tres tantos, con los datos asentados en las preactas que para tal efecto requisiten los docentes, las actas se distribuirán de la siguiente forma: un tanto y archivo electrónico para el Departamento de Control Escolar; otro para el plantel y el tercero para el docente;
 
 V. Las actas a que se refiere la fracción anterior, deberán entregarse al Departamento de Control Escolar en un plazo no mayor de diez días hábiles posteriores a la fecha de aplicación del examen correspondiente; y
+
+> <small>(REFORMADA, G.G. 13 DE FEBRERO DE 2007)</small>
 
 VI. Las actas de calificaciones deberán estar firmadas por el docente titular de la materia.
 
@@ -520,3 +528,9 @@ LIC. MISAEL ROMERO ANDRADE
 DIRECTOR GENERAL DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 13 DE FEBRERO DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
