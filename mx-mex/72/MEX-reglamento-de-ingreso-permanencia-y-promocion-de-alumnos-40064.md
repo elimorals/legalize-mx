@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-ingreso-permanencia-y-promocion-de-alumnos-40064"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-18"
-last_updated: "2004-06-18"
+last_updated: "2007-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE INGRESO, PERMANENCIA Y PROMOCION DE ALUMNOS DEL COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 13 DE FEBRERO DE 2007.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 18 de junio de 2004.
 
@@ -127,9 +127,13 @@ Los alumnos podrán reinscribirse al semestre siguiente, con carácter de irregu
 
 Los alumnos que no cumplan con los requisitos establecidos en este reglamento para su inscripción o reinscripción, dentro del plazo de la convocatoria respectiva, pierden su derecho para ese efecto.
 
+> <small>(REFORMADO, G.G. 13 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 16.
 
-Los cambios de grupo, turno o plantel, deberán realizarse a través de una solicitud escrita dirigida a la Dirección del Plantel, en el que se encuentre adscrito el alumno, durante el periodo de inscripción o reinscripción. Dentro de los cinco días de presentada la solicitud en cualesquiera de sus conceptos señalados, el Director del Plantel resolverá lo conducente. Si se niega el cambio en cualesquiera de sus conceptos, el alumno puede recurrir en última instancia al Director Académico, para que resuelva lo procedente y sobre dicha resolución no habrá impugnación de ninguna índole.
+Los cambios de grupo, turno, Plantel, Plantel a Centro EMSAD o viceversa, deberá realizarse a través de una solicitud suscrita por el alumno, padre o tutor, dirigida a la Dirección del Plantel, Centro EMSAD o viceversa, en el que se encuentre adscrito el alumno, durante el periodo de inscripción o reinscripción.
+
+Si la solicitud se niega, el alumno tendrá cinco días hábiles a partir de la negación para acudir en última instancia al Director Académico, para que resuelva lo procedente y sobre dicha resolución no existe recurso alguno.
 
 ### CAPÍTULO V. DE LAS EVALUACIONES DEL APRENDIZAJE
 
@@ -552,3 +556,9 @@ LIC. MISAEL ROMERO ANDRADE
 DIRECTOR GENERAL DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 13 DE FEBRERO DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
