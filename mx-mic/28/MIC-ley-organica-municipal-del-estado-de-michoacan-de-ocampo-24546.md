@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2006-11-08"
+last_updated: "2007-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -475,7 +475,9 @@ El Ayuntamiento saliente hará entrega al Ayuntamiento entrante, del documento q
 
 La entrega-recepción, es un acto obligatorio que no deberá dejar de realizarse por ningún motivo y se realizará durante los quince días naturales siguientes a la instalación del nuevo Ayuntamiento.
 
-En la entrega-recepción, Glosa del Congreso del Estado, podrá designar un representante para que participe como observador.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+
+En la entrega-recepción, la Auditoría Superior de Michoacán, designará un representante para que participe como observador.
 
 ###### Artículo 22.
 
@@ -485,7 +487,9 @@ I. Los libros de actas de las reuniones del Ayuntamiento saliente y la informaci
 
 II. La documentación relativa a la situación financiera y los estados contables, que deberán contener los libros de contabilidad y registros auxiliares, correspondientes al Ayuntamiento saliente;
 
-III. La documentación relativa al estado que guarda la cuenta pública del municipio, la que incluirá las aprobaciones y observaciones y recomendaciones requerimientos o apercibimientos emitidos por Glosa del Congreso del Estado y demás órganos con facultades para la fiscalización en la aplicación de recursos municipales;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
+
+III. La documentación relativa al estado que guarda la cuenta pública del Municipio, la que incluirá las aprobaciones y observaciones y recomendaciones requerimientos o apercibimientos emitidos por Auditoría Superior de Michoacán y demás órganos con facultades para la fiscalización en la aplicación de recursos municipales;
 
 IV. La situación de la deuda pública municipal, documentación relativa a la misma y su registro;
 
@@ -509,17 +513,21 @@ XII. La demás información que se considere importante para garantizar la conti
 
 El Secretario del Ayuntamiento entrante, levantara acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 24.
 
-Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, que se encargará de analizar el expediente integrado con la documentación conducente, para formular un dictamen en un plazo de cuarenta y cinco días naturales.
+Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, que se encargará de analizar el expediente integrado con la documentación conducente, para formular en un plazo de veinticinco días naturales un dictamen que señale si la entrega-recepción fue completa o no.
 
-El dictamen se someterá dentro de los quince días hábiles siguientes, al conocimiento y consideración del Ayuntamiento, el cual podrá llamar a los servidores públicos señalados, para solicitar cualquier información o documentación; los que estarán obligados a proporcionar y atender las observaciones consecuentes.
+El dictamen se someterá dentro de los diez días naturales siguientes, al conocimiento y consideración del Ayuntamiento, el cual deberá de aprobarlo dentro de los cinco días naturales siguientes al en que sea sometido el mismo.
 
 ###### Artículo 25.
 
 El Ayuntamiento habiendo conocido el dictamen, emitirá el acuerdo correspondiente, mismo que no exime de responsabilidad a los integrantes y servidores públicos del Ayuntamiento saliente.
 
-EL Ayuntamiento, dentro de los treinta días siguientes, remitirá copia del expediente de entrega-recepción al Congreso del Estado, para el efecto de revisión de las cuentas públicas municipales.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+
+El Ayuntamiento, dentro de los diez días naturales, remitirá copia del expediente de entrega-recepción, así como el dictamen aprobado del mismo por el Ayuntamiento al Congreso del Estado, para el efecto de revisión de las cuentas públicas municipales.
 
 ### Capítulo IV. Del Funcionamiento de los Ayuntamientos
 
@@ -617,7 +625,9 @@ XVIII. Solicitar a los Gobiernos Federal y Estatal en su caso, la expropiación 
 
 b).- En materia de Administración Pública:
 
-I. Elaborar, presentar y publicar, en el curso de los cuatro primeros meses a partir de la fecha de la instalación del Ayuntamiento, el Plan Municipal de Desarrollo correspondiente a su período constitucional de gobierno;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
+
+I. Elaborar, presentar y publicar, en el curso de los dos primeros meses a partir de la fecha de la instalación del Ayuntamiento, el Plan Municipal de Desarrollo correspondiente a su período constitucional de gobierno;
 
 II. Organizar, estructurar y determinar las funciones de su administración pública;
 
@@ -673,7 +683,7 @@ IV. Aprobar, en su caso, el Presupuesto de Egresos que le presente el Tesorero M
 
 V. Someter anualmente para examen y en su caso aprobación del Congreso del Estado, la cuenta pública Municipal correspondiente al año anterior, de conformidad con las disposiciones aplicables;
 
-VI. Glosar las cuentas del Ayuntamiento anterior, en un término de 90 días contados a partir de la fecha de instalación del Ayuntamiento en funciones, para los efectos procedentes;
+VI. (DEROGADA, P.O. 13 DE FEBRERO DE 2007)
 
 VII. Formular y entregar al Ayuntamiento entrante los archivos, documentos y comprobantes de ingresos y egresos, el balance general, el estado de resultados del ejercicio presupuestario de ingresos y egresos correspondientes al último año de su gestión, un informe detallado del patrimonio municipal y de los bienes que integran la Hacienda Municipal;
 
@@ -1719,11 +1729,11 @@ El Ayuntamiento deberá elaborar el reglamento que determine los procedimientos 
 
 ### Capítulo I. De los Planes Municipales de Desarrollo
 
-> <small>(F. DE E., P.O. 4 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 107.
 
-Los planes Municipales de desarrollo de los Municipios del Estado de Michoacán de Ocampo deberán elaborarse, aprobarse y publicarse dentro de un período de cuatro meses contados a partir de la fecha de instalación de los Ayuntamientos. Su vigencia será por el período de tres años que corresponda. Para este efecto, los Ayuntamientos podrán solicitar cuando lo consideren necesario, la asesoría del Gobierno del Estado.
+Los ayuntamientos deberán elaborar, aprobar, ordenar la publicación de su respectivo Plan Municipal de Desarrollo, así como presentarlo al Congreso del Estado, para su examen y opinión dentro de los dos primeros meses de gestión administrativa. Su vigencia será por el período de tres años que corresponda. Para este efecto, los Ayuntamientos podrán solicitar cuando lo consideren necesario, la asesoría del Gobierno del Estado.
 
 ###### Artículo 108.
 
@@ -2410,3 +2420,7 @@ P.O. 8 DE NOVIEMBRE DE 2006.
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Artículo Segundo. Los Ayuntamientos de la entidad expedirán el Reglamento del Consejo Municipal de la Crónica, en un plazo no mayor de ciento ochenta días, contados a partir de la vigencia del presente Decreto.
+
+P.O. 13 DE FEBRERO DE 2007.
+
+ÚNICO.- El Presente Decreto, entrará en vigor al día siguiente, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
