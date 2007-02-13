@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-los-centros-de-educacion-media-superior-a-50646"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-30"
-last_updated: "2006-05-30"
+last_updated: "2007-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LOS CENTROS DE EDUCACION MEDIA SUPERIOR A DISTANCIA DEL COLEGIO DE BACHILLERES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE FEBRERO DE 2007.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 30 de mayo de 2006.
 
@@ -505,15 +505,17 @@ Cada Centro EMSAD deberá enviar al Departamento de Control Escolar del CoBaEM, 
 
 Cada Centro EMSAD deberá reportar por escrito de manera preliminar al Departamento de Control Escolar del CoBaEM, el total de alumnos inscritos y/o reinscritos por semestre, DENTRO DE LOS TRES DÍAS HÁBILES DE CONCLUIDO EL PROCESO DE INSCRIPCIÓN Y REINSCRIPCIÓN.
 
+> <small>(REFORMADO, G.G. 13 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 63.
 
-Los Centros EMSAD asignarán al alumno inscrito el número de su cuenta, siguiendo la normatividad establecida por la Dirección General del Bachillerato de la Secretaría de Educación Pública, la que se integrará por nueve dígitos con los tres conceptos siguientes, identificándolos: 2007/1553/001
+Los Centros EMSAD asignarán al alumno inscrito el número de su cuenta, siguiendo la normatividad establecida por la Dirección General del Colegio de Bachilleres de la Secretaria de Educación Pública, la que se integrará por nueve dígitos con los tres conceptos siguientes, identificándolos: 200701001
 
 I. Año de ingreso;
 
 II. Clave del Centro EMSAD; y
 
-III. Consecutivo
+III. Consecutivo.
 
 ###### Artículo 64.
 
@@ -691,13 +693,15 @@ Los alumnos que no hayan aprobado en evaluación extraordinaria hasta tres mater
 
 Los alumnos que no hayan aprobado en evaluación a titulo de suficiencia hasta tres materias, tendrán derecho a presentarlas en periodo especial, en términos de este Reglamento, con el pago de derechos correspondientes.
 
+> <small>(REFORMADO, G.G. 13 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 89.
 
 Se entiende por regularización de materias, al procedimiento mediante el cual el alumno acredita fuera del periodo ordinario de evaluaciones, las asignaturas que haya reprobado, mediante evaluaciones extraordinarias, a titulo de suficiencia, especiales y en su caso recursamiento.
 
-Los alumnos que no acrediten tres asignaturas en el periodo extraordinario deberán recursarlas en el semestre correspondiente.
-
 Para presentar un examen especial, el alumno deberá de recibir la asesoría, que para este efecto, programe el plantel.
+
+Los alumnos que no acrediten tres asignaturas en el periodo extraordinario deberán recursarlas en el semestre correspondiente.
 
 ###### Artículo 90.
 
@@ -805,11 +809,13 @@ Una vez autorizado el cambio por parte del Coordinador del Centro EMSAD, se comu
 
 El Coordinador del Centro EMSAD que aceptó el cambio, requerirá del anterior la siguiente documentación: el expediente del alumno, su historial académico y los discos magnéticos de transferencia de calificaciones dentro de las 48 horas siguientes a la petición. Así mismo el Coordinador del Centro EMSAD que aceptó el cambio comunicará por escrito a la Dirección Académica del CoBaEM, del mismo.
 
+> <small>(REFORMADO, G.G. 13 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 100.
 
-Cuando el alumno, si a sus intereses conviene o por alguna necesidad de cualquier tipo, quiere continuar con su Educación Media Superior, cambiando del sistema de Educación Media Superior a Distancia al sistema escolarizado, podrá solicitar a la Dirección General del CoBaEM la autorización para continuarla e inscribirse en el mismo, debiendo esperar por escrito la autorización correspondiente y pagando los derechos respectivos.
+Cuando el alumno, si a sus intereses conviene o por alguna necesidad de cualquier tipo, quiere continuar con su Educación Media Superior, cambiando del sistema de Educación Media Superior a Distancia al sistema escolarizado ó viceversa, podrá solicitar a la Dirección General del CoBaEM la autorización para continuarla e inscribirse en el mismo, debiendo esperar por escrito la autorización correspondiente y pagando los derechos respectivos.
 
-Una vez obtenida la autorización correspondiente, el alumno deberá convalidar las materias y presentarlas por escrito al plantel educativo donde pretenda inscribirse, con la obligación de ajustarse a los planes y programas del nivel escolarizado, todo este procedimiento será previo al pago de los derechos correspondientes.
+Una vez obtenida la autorización correspondiente, el alumno deberá convalidar las materias y presentarlas por escrito al plantel educativo donde pretenda inscribirse, con la obligación de ajustarse a los planes y programas del nivel escolarizado, todo este procedimiento será previó al pago de los derechos correspondientes.
 
 ### CAPITULO QUINTO. DE LOS RECONOCIMIENTOS PARA ALUMNOS
 
@@ -1200,3 +1206,9 @@ LIC. BENJAMÍN VALDÉS PLATA
 DIRECTOR GENERAL DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO Y SECRETARIO DE LA H. JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 13 DE FEBRERO DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
