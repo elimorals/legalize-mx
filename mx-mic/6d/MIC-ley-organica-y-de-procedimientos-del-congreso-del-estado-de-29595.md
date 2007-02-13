@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-295
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-03-13"
-last_updated: "2005-01-13"
+last_updated: "2007-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 13 de marzo de 2003.
 
@@ -841,7 +841,9 @@ I. Recibir del Congreso, de conformidad con las formalidades establecidas en la 
 
 II. Ordenar y supervisar a la Auditoría Superior de Michoacán, para los efectos de la presente Ley, la práctica de visitas, inspecciones y auditorías a las entidades sujetas a Cuenta Pública;
 
-III. Recibir trimestralmente un informe de las operaciones que haya practicado la Auditoría Superior de Michoacán;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
+
+III. Recibir trimestralmente un informe de las operaciones que haya practicado la Auditoria Superior de Michoacán, dentro de los treinta días naturales siguientes al en que concluya el trimestre;
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2005)</small>
 
@@ -1051,9 +1053,11 @@ VI. Cumplir las demás funciones que le confieren esta Ley y los ordenamientos r
 
 ### CAPÍTULO CUARTO. DE LA AUDITORÍA SUPERIOR DE MICHOACAN
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 81.
 
-Para el cumplimiento de la función de control y vigilancia que le confiere la Constitución, el Congreso cuenta con un órgano técnico encargado de la revisión de las cuentas públicas, cuyo funcionamiento e integración estará a lo dispuesto en la Ley de Fiscalización Superior de Michoacán.
+Para el cumplimiento de la función de control y vigilancia que le confiere la Constitución, el Congreso cuenta con un órgano técnico encargado de la fiscalización de las cuentas públicas, cuyo funcionamiento e integración estará a lo dispuesto en la Ley de Fiscalización Superior de Michoacán.
 
 ### CAPÍTULO QUINTO. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
@@ -1165,21 +1169,17 @@ La omisión de esta notificación será causa para considerársele como disuelto
 
 ### CAPÍTULO PRIMERO. DEL CALENDARIO DE SESIONES
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 96.
 
 El Congreso sesionará en Pleno obligatoriamente dos veces al mes y siempre que sea necesario durante el año legislativo o cuando la Mesa Directiva en acuerdo con la Junta de Coordinación Política lo determine, debiendo convocar al menos con dos días de anticipación.
 
 El año legislativo se iniciará el quince de enero y terminará el catorce de enero del año siguiente.
 
-En todo momento el Congreso se debe ocupar de estudiar, discutir y votar las iniciativas de leyes y decretos que se presenten, y de resolver los demás asuntos que le corresponda, conforme a la Constitución, el presente Estatuto, los ordenamientos que de él emanen y las disposiciones y acuerdos del Congreso.
+Durante los meses de enero a marzo de cada año, el Congreso debe revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las haciendas municipales, correspondientes al penúltimo año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales, paramunicipales y a otras que dispongan de autonomía, de acuerdo con los términos y plazos dispuestos en la Constitución, en esta Ley y demás disposiciones emanadas de la primera.
 
-Entre el quince de septiembre y el quince de diciembre de cada año, se debe ocupar además de los siguientes asuntos:
-
-I. Revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las Haciendas Municipales correspondientes al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales y a otras que dispongan de autonomía, de acuerdo con los términos y plazos dispuestos en la Constitución, el presente Estatuto y demás disposiciones emanadas de la misma; y,
-
-II. Examinar, discutir y aprobar, el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo.
-
-Si antes del uno de enero de cada año, el Congreso del Estado no pudiera aprobar y expedir la Ley de Ingresos y el Presupuesto de Egresos del Estado, en el nuevo ejercicio fiscal se estará a lo dispuesto por la Ley de la materia.
+Durante los meses de septiembre a diciembre de cada año, el Congreso debe examinar, discutir y aprobar, el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo.
 
 ###### Artículo 97.
 
@@ -1796,3 +1796,7 @@ P.O. 13 DE ENERO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 13 DE FEBRERO DE 2007.
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
