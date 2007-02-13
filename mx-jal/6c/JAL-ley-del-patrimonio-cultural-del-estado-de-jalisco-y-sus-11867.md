@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-patrimonio-cultural-del-estado-de-jalisco-y-sus-11867"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "1998-01-20"
+last_updated: "2007-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DEL PATRIMONIO CULTURAL Y NATURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 13 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -886,3 +888,27 @@ Ing. Alberto Cárdenas Jiménez
 EL C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE FEBRERO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley del Patrimonio Cultural del Estado de Jalisco y sus Municipios contenida en el Decreto número 17,072.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al contenido del presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado deberá publicar en el Periódico Oficial El Estado de Jalisco el Programa Estatal de Turismo Cultural dentro de los noventa días siguientes a la entrada en vigor de la presente ley.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado deberá publicar en el Periódico Oficial El Estado de Jalisco el reglamento de la LEY DEL PATRIMONIO CULTURAL Y NATURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
