@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3441
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2006-12-30"
+last_updated: "2007-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2003.
 
@@ -429,15 +429,19 @@ En los proyectos de presupuesto que presenten los Municipios, se adjuntarán los
 
 Los tabuladores y plantillas correspondientes, deberán adjuntarse a los presupuestos autorizados que se envíen al Congreso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 53.
 
-Los presupuestos de los municipios, serán aprobados por los ayuntamientos, dentro del mes de enero del año a que correspondan, previamente los de las entidades paramunicipales serán aprobados por sus órganos de gobierno, y se enviarán a la Auditoria Superior de Michoacán, para la vigilancia de su ejercicio, inmediatamente después de su aprobación.
+Los presupuestos de los municipios, serán aprobados por los ayuntamientos, por lo que respecta al primer año de gestión dentro de los dos primeros meses del año y en el segundo y tercer año de gestión en el mes de diciembre del año anterior al del ejercicio de que se trate; previamente los de las entidades paramunicipales serán aprobados por sus órganos de gobierno.
 
 La presentación del proyecto anual de presupuesto de egresos municipal, al Ayuntamiento deberá hacerse en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 54.
 
-El Presidente Municipal publicará, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el presupuesto de egresos aprobado por el Ayuntamiento y las Plantillas de personal. También se publicarán las modificaciones al tabulador, que se autoricen en el transcurso del año.
+El Presidente Municipal ordenará la publicación del Presupuesto de Egresos aprobado por el Ayuntamiento, las Plantillas de Personal, el Tabulador de Sueldos y las modificaciones de ellos, que se autoricen el transcurso del año en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, dentro de los tres días siguientes a los de su aprobación. Deberá enviarse a la Auditoría Superior de Michoacán, un ejemplar para la vigilancia de su ejercicio, dentro de los cinco días hábiles siguientes a su publicación.
 
 ###### Artículo 55.
 
@@ -592,3 +596,7 @@ Para los efectos de lo dispuesto en los artículos 13, 18 y 19 de la Ley de Pres
 ###### ARTÍCULO CUARTO.
 
 El Gobernador del Estado, deberá adecuar los reglamentos y manuales que deriven del presente Decreto, dentro de los seis meses siguientes a su entrada en vigor.
+
+P.O. 13 DE FEBRERO DE 2007.
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente, previa publicación en Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
