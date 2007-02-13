@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-del-estado-de-michoacan-de-ocampo-6145"
 country: "mx"
 rank: "ley"
 publication_date: "1989-04-17"
-last_updated: "1989-04-17"
+last_updated: "2007-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PLANEACION DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 17 de abril de 1989.
 
@@ -253,9 +253,11 @@ Mediante las atribuciones y obligaciones que les confiere esta Ley y las disposi
 
 El Ejecutivo del Estado, en el informe que rinda sobre el estado que guarda la administración pública, hará mención de las decisiones adoptadas en el proceso de la planeación y de la actividad programática.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 30.
 
-Antes de que concluya el período ordinario de sesiones de cada año, la Legislatura del Estado recibirá del Ejecutivo, un informe de las acciones y resultados de la ejecución del plan y los programas sectoriales.
+Antes de que concluya el año legislativo, el Congreso del Estado recibirá del Ejecutivo, un informe de las acciones y resultados de la ejecución del plan y los programas sectoriales.
 
 ###### ARTICULO 31.
 
@@ -265,11 +267,15 @@ El Ejecutivo del Estado podrá autorizar que comparezcan ante el Congreso los ti
 
 El Gobernador al solicitar a la Legislatura del Estado la aprobación de la Ley de Ingresos y Presupuesto de Egresos de cada año, le dará a conocer en las iniciativas correspondientes el contenido y orientación que pretenda dar a los ingresos y egresos, relacionando sus alcances con los objetivos, metas y prioridades de los programas anuales que operarán en el ejercicio fiscal siguiente, mismos que serán entregados al Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 33.
 
-Los ayuntamientos del Estado elaborarán y aprobarán conforme a las bases de coordinación que se hubieren convenido con el gobierno del Estado, los planes y programas de desarrollo municipales, sujetándose a las siguientes bases:
+Los ayuntamientos del Estado elaborarán y aprobarán conforme a las bases de coordinación que se hubieren convenido con el Gobierno del Estado, los planes y programas de desarrollo municipales, sujetándose a las siguientes bases:
 
-I. Los planes serán trianuales y se presentarán ante el Poder Legislativo, para su examen y opinión, dentro de los seis meses de gestión administrativa, y su vigencia se circunscribirá al período constitucional que corresponda al ayuntamiento respectivo;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
+
+I. Los planes se harán cada tres años y se presentarán ante el Congreso del Estado, para su examen y opinión, dentro de los dos primeros meses de gestión administrativa, y su vigencia se circunscribirá al período constitucional que corresponda al Ayuntamiento respectivo;
 
 II. Los programas tendrán una vigencia anual, excepto en los casos en que las prioridades del desarrollo determinen lo contrario pero bajo ninguna circunstancia excederán del período de la gestión administrativa municipal;
 
@@ -440,3 +446,9 @@ DIPUTADO PRESIDENTE.- ING. ARTEMIO YAÑEZ CORREA.- DIPUTADO PROSECRETARIO.- GUIL
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 16 días del mes de marzo de 1989, mil novecientos ochenta y nueve.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL INTERINO DEL ESTADO.- DR. JAIME GENOVEVO FIGUEROA ZAMUDIO.- EL SECRETARIO DE GOBIERNO.- LIC. JORGE MENDOZA ALVAREZ.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE FEBRERO DE 2007.
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
