@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-del-instituto-de-acceso-a-la-informacion-publica-50271"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-04-28"
-last_updated: "2006-04-28"
+last_updated: "2007-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50271&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-04-26"
 
 ACUERDO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL POR EL QUE APRUEBA SU ESTRUCTURA ORGANICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACION DE LA ESTRUCTURA ORGANICA Y LA ESTRUCTURA FUNCIONAL DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 14 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: DEROGADO.
 
 Acuerdo publicado en el número Ter de la Gaceta Oficial del Distrito Federal, el viernes 28 de abril de 2006.
 
@@ -97,3 +99,13 @@ Instituto de Acceso a la Información Pública Del Distrito Federal
 Estructura Orgánica 2006
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+G.O. 14 DE FEBRERO DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+TERCERO. Se derogan los Acuerdos 025/SO/26-04/2006 y 034/SO/23-05/2006, aprobados en las sesiones del Pleno del veintiséis de abril y veintitrés de mayo de dos mil seis, respectivamente.
+
+CUARTO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
