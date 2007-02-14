@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-acceso-a-la-50227"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-28"
-last_updated: "2006-06-16"
+last_updated: "2007-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50227&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-04-26"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JUNIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 14 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en el número Ter de la Gaceta Oficial del Distrito Federal, el viernes 28 de abril de 2006.
 
@@ -827,3 +829,17 @@ Así lo aprobó por unanimidad el Pleno del Instituto de Acceso a la Informació
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE EN EL DISTRITO FEDERAL.
+
+G.O. 14 DE FEBRERO DE 2007.
+
+PRIMERO. Se aprueba el Proyecto de Reglamento Interior del Instituto de Acceso a la Información Pública del Distrito Federal que, como anexo, forma parte del presente Acuerdo.
+
+SEGUNDO. El Reglamento Interior del Instituto de Acceso a la Información Pública del Distrito Federal entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se abroga el Reglamento Interior del Instituto de Acceso a la Información Pública del Distrito Federal aprobado el veintiséis de abril de dos mil seis, publicado en la Gaceta Oficial del Distrito Federal el veintiocho del mismo mes y año, con sus respectivas reformas.
+
+CUARTO. Se abroga el ACUERDO 135/SO/07-11/2006 del INFODF, por el que se aprueba la creación de la Secretaría Ejecutiva del INFODF, aprobado en sesión del Pleno de fecha siete de noviembre de dos mil seis.
+
+QUINTO. Se derogan todas aquellas disposiciones que contravengan al presente Acuerdo.
+
+SEXTO. Instrúyase al Secretario Técnico para que el Reglamento Interior del Instituto de Acceso a la Información Pública del Distrito Federal, que se acompaña a este Acuerdo, sea publicado en la Gaceta Oficial del Distrito Federal, en el Portal de Internet y en los estrados del INFODF.
