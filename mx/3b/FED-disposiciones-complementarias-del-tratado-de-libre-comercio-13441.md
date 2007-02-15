@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2007-01-23"
+last_updated: "2007-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,29 +18,29 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE REFORMA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
+ACUERDO POR EL QUE SE REFORMA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR, DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, FRIJOL, EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de enero de 2007.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 15 de febrero de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 31 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, reformado mediante diversos dados a conocer en el mismo órgano informativo, los días 5 de agosto y 1 de diciembre de 2004 y el 1 de enero de 2007;
+Que el 29 de diciembre de 2004 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos mínimos para importar, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, frijol, excepto para siembra, originario de los Estados Unidos de América o de Canadá;
 
-Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las partes;
+Que el artículo 302 párrafo 4 del propio tratado, establece que cada una de las Partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota), establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
 
-Que el artículo 302 párrafo 4 del propio Tratado, establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota), establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
+Que en el artículo décimo transitorio, fracción III de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, en el párrafo segundo se establece que “Las cuotas mínimas libres de arancel del frijol acordadas por las Partes en los tratados de libre comercio, estarán sujetas a licitación bajo la modalidad de postura ofrecida ganadora. Dicha licitación, en cuanto a las fechas para realizarse, deberá ser concertada entre la Secretaría de Economía, ASERCA y el Sistema Producto Frijol en el mes de enero”;
 
-Que el procedimiento de asignación de los cupos de importación referidos, es un instrumento de la política sectorial para promover las corrientes comerciales entre las Partes;
+Que la concertación a que se refiere el considerando anterior se llevó a cabo el día 31 de enero de 2007, acordándose las siguientes fechas para la realización de las licitaciones: la primera ronda el 15 de marzo y la segunda el 1 de junio del presente año;
 
-Que derivado de los requerimientos actuales de las cadenas productivas, es necesario adoptar acciones que permitan prevenir situaciones de desabasto de maíz, en apoyo de los sectores que utilizan este producto como materia prima en sus procesos productivos, y
+Que el artículo 27, fracción I del Reglamento de la Ley de Comercio Exterior, establece que la Secretaría de Economía “…publicará la convocatoria correspondiente en el Diario Oficial de la Federación, por lo menos veinte días antes de que inicie el periodo de registro”, y
 
-Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
+Que es necesario adecuar las fechas establecidas en el instrumento a que se refiere el considerando primero de este Acuerdo a los plazos establecidos en el artículo 27 del Reglamento de la Ley de Comercio Exterior sobre la publicación de la convocatoria, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE REFORMA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
+ACUERDO POR EL QUE SE REFORMA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR, DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, FRIJOL, EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
 
 ###### ARTICULO PRIMERO.
 
@@ -50,35 +50,9 @@ El cupo mínimo para importar azúcar en 2006, con el arancel-cupo establecido e
 
 ###### ARTICULO UNICO.
 
-Se reforma el artículo tercero del Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003, y sus reformas dadas a conocer en el mismo medio informativo, el 5 de agosto y 1 de diciembre de 2004 y el 1 de enero de 2007, en lo correspondiente a maíz amarillo, para quedar como sigue:
+Se reforman los artículos cuarto y quinto último párrafo del Acuerdo por el que se dan a conocer los cupos mínimos para importar, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, frijol, excepto para siembra, originario de los Estados Unidos de América o de Canadá, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, para quedar como sigue:
 
-“ARTICULO TERCERO.- . . .
-
-a) . . .;
-
-b) . . .;
-
-c) . . .;
-
-d) . . .;
-
-e) . . ., y
-
-f) . . .
-
-. . .
-
-Maíz Amarillo:
-
-(VEASE ARCHIVO ANEXO)
-
-Nota 1. Para el dictamen del cupo correspondiente al sector pecuario, la prorrata se realizará una vez que la Dirección General de Comercio Exterior realice la revisión del total de solicitudes presentadas en el periodo de recepción establecido, considerando los consumos presentados por los solicitantes, aún cuando las solicitudes tengan requerimientos de información adicional y el monto a asignar al sector haya sido determinado. Las resoluciones se entregarán a las empresas cuando hayan cumplido con todos los requisitos establecidos en el Acuerdo, realizando los posibles ajustes derivados de modificaciones en la información de los consumos auditados que presenten las empresas, para lo que se reservará el 2.5% del monto que la Dirección General de Industrias Básicas de esta Secretaría conjuntamente con la Dirección General de Desarrollo de Mercados, de Apoyos y Servicios a la Comercialización Agropecuaria ASERCA/SAGARPA de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación establezca para este sector.
-
-El dictamen para las industrias: almidonera, cerealera, frituras y botanas será dentro de los siete días hábiles siguientes a la fecha en que la Dirección General de Comercio Exterior cuente con las solicitudes debidamente requisitadas.
-
-En todos los casos se deberá señalar el monto y plazo para ejercer la asignación, así como las condiciones a que deben sujetarse los beneficiarios.
-
-Maíz Blanco: . . .”.
+“ARTICULO CUARTO.- Esta Secretaría, a través de la Dirección General de Comercio Exterior, adjudicará los cupos a que se refiere el presente Acuerdo. Se realizarán dos rondas de licitaciones, la primera el 15 de marzo, licitándose 1/3 del cupo; la segunda el 1 de junio o primer día hábil inmediato anterior del presente año, licitándose 2/3 del mismo cupo. Las convocatorias correspondientes se publicarán en el Diario Oficial de la Federación por lo menos 20 días hábiles antes de que inicie el periodo de registro y en ellas se establecerán las fechas en que se pondrán a disposición de los interesados las bases conforme a las que se regirán.
 
 ###### ARTICULO 15.
 
@@ -230,9 +204,11 @@ Una vez asignado el monto para importar dentro del cupo, la Secretaría de Econo
 
 ###### ARTICULO QUINTO.
 
-En caso de requerirse un cupo adicional que rebase el monto mínimo señalado en el cuadro del artículo primero del presente Acuerdo, éste se otorgará con el arancel-cupo establecido en el artículo único del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, y su asignación se realizará de conformidad con los procedimientos que al respecto se establezcan mediante Acuerdo publicado en el Diario Oficial de la Federación, considerando las necesidades de abasto de las industrias consumidoras de edulcorantes.
+…
 
-El monto del cupo adicional se determinará considerando las estimaciones de disponibilidad de inventarios de azúcar para satisfacer el consumo de azúcar del país y el comportamiento de precios de dicho edulcorante en las principales centrales de abasto.
+…
+
+La vigencia de los certificados de cupo será, para la primera ronda de licitaciones, del 15 de marzo al 31 de mayo de 2007 y para la segunda ronda, del 1 de julio al 30 de septiembre de 2007.”
 
 ###### ARTICULO SEXTO.
 
@@ -366,6 +342,6 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
 
-México, D.F., a 22 de enero de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+México, D.F., a 9 de febrero de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
