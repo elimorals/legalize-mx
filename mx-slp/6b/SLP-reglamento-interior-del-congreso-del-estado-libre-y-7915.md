@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-congreso-del-estado-libre-y-7915"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-12-28"
-last_updated: "2004-06-14"
+last_updated: "2007-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 15 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el 28 de diciembre de 1993.
 
@@ -1315,7 +1317,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 LIC. JAIME SUAREZ ALTAMIRANO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE MARZO DE 1997.
 
@@ -1330,3 +1332,11 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 14 DE JUNIO DE 2004.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2007.
+
+PRIMERO. Este Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Congreso del Estado publicado con fecha 28 de diciembre de 1993 en el Periódico Oficial del Estado; y se derogan todas las disposiciones que contravengan al presente Reglamento; y los casos no previstos se resolverán por el Congreso.
+
+TERCERO. Las disposiciones del presente Reglamento que establecen los requisitos para ocupar la titularidad de los órganos de soporte técnico, de apoyo y de control del Congreso del Estado, no serán aplicables a quienes los vengan desempeñando a la entrada en vigor del propio Reglamento.
