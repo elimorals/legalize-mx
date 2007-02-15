@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-6146"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-02"
-last_updated: "2003-07-09"
+last_updated: "2007-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 15 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 2 de agosto de 1982.
 
@@ -1816,3 +1818,107 @@ El Pleno del Supremo Tribunal de Justicia del Estado dispondrá oportunamente el
 ###### ARTÍCULO CUARTO
 
 El Supremo Tribunal de Justicia del Estado dictará las reglas conforme a las cuales se distribuirán entre las nueve salas penales los asuntos de nuevo ingreso; en tanto, los ya radicados seguirán tramitándose y resolviéndose en las Salas a las que compete su conocimiento.
+
+P.O. 15 DE FEBRERO DE 2007.
+
+###### Artículo 1º.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### Artículo 2º.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo de 2 de agosto de 1982, y sus reformas.
+
+###### Artículo 3º.
+
+Por esta ocasión la elección del Presidente del Supremo Tribunal de Justicia se realizará a más tardar el veinticinco de Marzo de 2007, quien resulte electo concluirá su periodo el último jueves de Febrero del año que corresponda. Lo mismo aplicará para el Presidente sustituto.
+
+###### Artículo 4º.
+
+Los consejeros deberán quedar designados y electos, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
+
+###### Artículo 5º.
+
+Por esta única ocasión, el Pleno del Supremo Tribunal de Justicia desempeñará las funciones asignadas al Consejo por esta Ley, en lo referente a la elección del Consejero por los jueces.
+
+###### Artículo 6º.
+
+La elección del Consejero proveniente de los jueces se realizará, por esta ocasión, en asamblea que se convocará con ese propósito.
+
+###### Artículo 7º.
+
+El Pleno del Supremo Tribunal de Justicia substanciará y resolverá los asuntos administrativos que competan al Consejo en tanto éste se instala.
+
+###### Artículo 8º.
+
+Los reglamentos a que hace referencia esta Ley, se expedirán dentro de los noventa días siguientes a la entrada en vigor de este Decreto. En tanto se expidan los reglamentos y acuerdos generales, seguirán aplicándose los vigentes, en lo que no se opongan a él.
+
+###### Artículo 9º.
+
+En tanto se instala el Consejo y sus comisiones, las áreas administrativas y financieras seguirán operando hasta que se lleve a cabo la entrega recepción correspondiente.
+
+###### Artículo 10º.
+
+A efecto de que los jueces menores estén debidamente capacitados para el cumplimiento de las nuevas responsabilidades que les confiere esta Ley, la entrada en vigor del capítulo correspondiente a la competencia de los juzgados menores será a los trescientos sesenta y cinco días al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. En tanto esto sucede los juzgados menores seguirán conociendo de la competencia que correspondía a los juzgados municipales.
+
+###### Artículo 11º.
+
+El Consejo iniciará la instalación de los juzgados comunales en un plazo no mayor a ciento ochenta días posteriores a la entrada en vigor de este Decreto.
+
+###### Artículo 12º.
+
+El Fondo Auxiliar para la Administración de Justicia será manejado y operado por el Consejo, de la misma forma prevista en el Título Noveno de la Ley que se abroga, en tanto se expida la ley respectiva.
+
+###### Artículo 13º.
+
+En tanto el Consejo no determine el número, denominaciones y circunscripciones territoriales de los distritos judiciales, éstos seguirán siendo:
+
+I. DISTRITO DE APATZINGÁN, con jurisdicción en los municipios de Aguililla, Apatzingán, Buenavista, Múgica, Parácuaro y Tepalcatepec;
+
+II. DISTRITO DE ARIO, con jurisdicción en los municipios de Ario, Churumuco, La Huacana y Nuevo Urecho;
+
+III. DISTRITO DE ARTEAGA, con jurisdicción en los municipios de Arteaga y Tumbiscatío;
+
+IV. DISTRITO DE COAHUAYANA, con jurisdicción en los municipios de Aquila y Coahuayana;
+
+V. DISTRITO DE COALCOMÁN, con jurisdicción en los municipios de Coalcomán de Vázquez Pallares y Chinicuila;
+
+VI. DISTRITO DE HIDALGO, con jurisdicción en los municipios de Hidalgo e Irimbo;
+
+VII. DISTRITO DE HUETAMO, con jurisdicción en los municipios de Huetamo, San Lucas y Tiquicheo de Nicolás Romero;
+
+VIII. DISTRITO DE JIQUILPAN, con jurisdicción en los municipios de Chavinda, Jiquilpan, Marcos Castellanos, Pajacuarán, Venustiano Carranza y Villamar;
+
+IX. DISTRITO DE LA PIEDAD, con jurisdicción en los municipios de Churintzio, La Piedad, Numarán, Penjamillo, Tlazazalca y Zináparo;
+
+X. DISTRITO DE LÁZARO CÁRDENAS, con jurisdicción en el municipio de Lázaro Cárdenas;
+
+XI. DISTRITO DE LOS REYES, con jurisdicción en los municipios de Cotija, Los Reyes, Peribán, Tingüindín y Tocumbo;
+
+XII. DISTRITO DE MARAVATÍO, con jurisdicción en los municipios de Áporo, Contepec, Epitacio Huerta, Maravatío, Senguio y Tlalpujahua;
+
+XIII. DISTRITO DE MORELIA, con jurisdicción en los municipios de Acuitzio, Copándaro, Cuitzeo, Charo, Chucándiro, Huandacareo, Huiramba, Lagunillas, Madero, Morelia, Santa Ana Maya, Tarímbaro y Tzitzio;
+
+XIV. DISTRITO DE PÁTZCUARO, con jurisdicción en los municipios de Erongarícuaro, Pátzcuaro, Quiroga, Salvador Escalante y Tzintzuntzan;
+
+XV. DISTRITO DE PURUÁNDIRO, con jurisdicción en los municipios de Angamacutiro, Huaniqueo, José Sixto Verduzco, Morelos y Puruándiro;
+
+XVI. DISTRITO DE SAHUAYO, con jurisdicción en los municipios de Briseñas, Régules y Sahuayo;
+
+XVII. DISTRITO DE TACÁMBARO, con jurisdicción en los municipios de Carácuaro, Nocupétaro, Tacámbaro y Turicato;
+
+XVIII. DISTRITO DE TANHUATO, con jurisdicción en los municipios de Tanhuato, Vista Hermosa y Yurécuaro;
+
+XIX. DISTRITO DE URUAPAN, con jurisdicción en los municipios de Charapan, Gabriel Zamora, Nahuatzen, Paracho, Nuevo Parangaricutiro, Tancítaro, Taretan, Tingambato, Uruapan y Ziracuaretiro;
+
+XX. DISTRITO DE ZACAPU, con jurisdicción en los municipios de Coeneo, Jiménez, Panindícuaro y Zacapu;
+
+XXI. DISTRITO DE ZAMORA, con jurisdicción en los municipios de Cherán, Chilchota, Ecuandureo, Ixtlán, Jacona, Purépero, Tangamandapio, Tangancícuaro y Zamora;
+
+XXII. DISTRITO DE ZINAPECUARO, con jurisdicción en los municipios de Alvaro Obregón, Indaparapeo, Queréndaro y Zinapécuaro; y,
+
+XXIII. DISTRITO DE ZITACUARO, con Jurisdicción en los municipios de Angangueo, Juárez, Jungapeo, Ocampo, Susupuato, Tuxpan, Tuzantla y Zitácuaro.
+
+###### Artículo 14°.
+
+Por esta ocasión, la designación del Magistrado que sustituya a quien ha de ser electo Consejero, así como la designación del Magistrado integrante de la Novena Sala Civil, se realizará por el Congreso del Estado, de entre los aspirantes que en terna compongan la propuesta presentada por el Consejo del Poder Judicial, atentos a los requisitos de la Constitución Política del Estado.
