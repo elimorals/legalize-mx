@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-del-centro-preventivo-de-internamiento-22528
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-26"
-last_updated: "2001-11-26"
+last_updated: "2007-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE GUADALUPE, NUEVO LEÓN.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de noviembre de 2001.
 
@@ -101,7 +101,9 @@ I.- El Presidente Municipal.
 
 II.- El Secretario del R. Ayuntamiento.
 
-III.- El Secretario de Seguridad Pública y Tránsito.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2007)</small>
+
+III.- El Secretario de Seguridad Ciudadana y Tránsito.
 
 IV.- El Coordinador de Jueces Calificadores.
 
@@ -111,7 +113,9 @@ VI.- Los Alcaides.
 
 VII.- El Comandante de Barandilla.
 
-VIII.- Los Oficiales de Policía adscritos a la Barandilla y a las diferentes áreas en el edificio de la Secretaría de Seguridad Pública.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2007)</small>
+
+VIII.- Los oficiales de policía adscritos a la barandilla de las diferentes áreas en el edificio de la Secretaría de Seguridad Ciudadana y Tránsito.
 
 ###### ARTÍCULO 7.
 
@@ -119,9 +123,11 @@ Las autoridades señaladas en el artículo que antecede, con excepción de las m
 
 Reglamento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] P.O.16 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 8.
 
-El Secretario de Seguridad Pública y Tránsito, además de las facultades y obligaciones que tiene por su cargo, le corresponderá:
+El Secretario de Seguridad Ciudadana y Tránsito, además de las facultades y obligaciones que tiene por su cargo, le corresponderá:
 
 I.- Organizar, dirigir, y administrar los establecimientos carcelarios de este municipio.
 
@@ -143,15 +149,19 @@ VIII.- Informar a la Comisión de Regidores correspondiente de las recomendacion
 
 El municipio podrá llevar a cabo toda clase de convenio con las autoridades estatales y federales, así como con diversas instituciones públicas o privadas, a fin de capacitar profesionalmente al personal encargado de la custodia y manutención de los internos en las celdas municipales.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 10.
 
-El personal que durante el desempeño y sus funciones estén relacionadas con las actividades propias del centro preventivo carcelario, estará obligado a asistir al curso teórico-práctico de formación y actualización que organice y disponga el Secretario de Seguridad Pública y Tránsito de este municipio.
+El personal que durante el desempeño y sus funciones estén relacionadas con las actividades propias del centro preventivo carcelario, estará obligado a asistir al curso teórico práctico de formación y actualización que organice y disponga el Secretario de Seguridad Ciudadana y Tránsito de este municipio.
 
 ###### ARTÍCULO 11.
 
 El Coordinador de Jueces Calificadores, quien depende del Secretario del R. Ayuntamiento de este municipio, además de las facultades y obligaciones que tienen relación con lo previsto en otros Reglamentos, tendrá las siguientes atribuciones:
 
-I.- Contará con Alcaide o Alcaides necesarios bajo su mando, para establecer en coordinación con el Secretario de Seguridad Pública y Tránsito de este municipio, reglas o normas de seguridad del Centro Preventivo de Internamiento Distrital.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] P.O.16 DE FEBRERO DE 2007)</small>
+
+I.- Contará con Alcaide o Alcaides necesarios bajo su mando, para establecer en coordinación con el Secretario de Seguridad Ciudadana y Tránsito de este municipio, reglas o normas de seguridad del Centro Preventivo de Internamiento Distrital.
 
 A) Lo referente a las funciones de la barandilla y custodia de los internos en las celdas municipales.
 
@@ -171,7 +181,7 @@ H) Así mismo y siendo facultad exclusiva del Coordinador de Jueces Calificadore
 
 I) Vigilar que se respeten los derechos humanos de los detenidos.
 
-J) Vigilar que las normas de seguridad sean cumplidas y observadas por el personal de barandilla de policía y demás personal municipal relacionadas con las tareas propias de las celdas municipales.
+J) Vigilar que las normas de seguridad sean cumplidas y observadas por el personal de barandilla de policía y demás personal municipal relacionado con las tareas propias de las celdas municipales.
 
 K) Vigilar se lleve a cabo el buen funcionamiento del centro preventivo.
 
@@ -425,9 +435,11 @@ Como medida de seguridad y con el objeto de salvaguardar la integridad y los der
 
 ### CAPITULO VII. INFORMATICA
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 45.
 
-La Coordinación de Jueces Calificadores mantendrá actualizada los informes estadísticos relacionados con las personas que se encuentran internas en el Centro Preventivo de Internamiento Distrital de esta ciudad, debiéndose rendir un informe diario y mensual sobre los índices de internamiento. El cual será entregado a la Secretaria del R. Ayuntamiento, quedando a disposición de la Secretaría de Seguridad Pública y Transito la información citada, cuando así sea requerida por el titular de la mencionada institución.
+La Coordinación de Jueces Calificadores mantendrá actualizada (sic) los informes estadísticos relacionados con las personas que se encuentran internas en el Centro Preventivo de Internamiento Distrital de esta ciudad, debiéndose rendir un informe diario y mensual sobre los índices de internamiento. El cual será entregado a la Secretaría del R. Ayuntamiento quedando a disposición de la Secretaría de Seguridad Ciudadana y Tránsito la información citada, cuando así sea requerida por el titular de la mencionada institución.
 
 ### CAPITULO VIII. CONTROL DE VISITAS
 
@@ -755,9 +767,11 @@ El Centro Preventivo de Internamiento Distrital, deberá contar con el personal 
 
 ### CAPITULO XI. MANTENIMIENTO AL AREA DE CELDAS
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 64.
 
-El Secretario de Seguridad Pública y Transito de este municipio, podrá contratar el personal necesario para llevar acabo el aseo en el área de celdas municipales y mantenerles en optimas condiciones, a fin de salvaguardar los derechos humanos de los internos, que ante cualquier situación legal en la que se encuentren, deben ser tratados con dignidad y respeto, de acuerdo a lo estipulado en la Constitución Política de los Estados Unidos Mexicanos y la Particular del Estado de Nuevo León.
+El Secretario de Seguridad Ciudadana y Tránsito de este municipio, podrá contratar el personal necesario para llevar a cabo el aseo en el área de celdas municipales y mantenerles en óptimas condiciones, a fin de salvaguardar los derechos humanos de los internos, que ante cualquier situación legal en la que se encuentren, deben ser tratados con dignidad y respeto, de acuerdo a lo estipulado en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Nuevo León.
 
 ###### ARTÍCULO 65.
 
@@ -814,3 +828,13 @@ ING. PEDRO GARZA TREVIÑO
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 ALBERTO RODRÍGUEZ GARCÍA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE FEBRERO DE 2007.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL SE APRUEBAN LAS REFORMAS A LOS SIGUIENTES REGLAMENTOS: REGLAMENTO DE ADQUISICIONES; REGLAMENTO DE POLICÍA Y BUEN GOBIERNO; REGLAMENTO DE PROTECCIÓN CIVIL; REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES; REGLAMENTO DE LIMPIA; REGLAMENTO DE PANTEONES Y SERVICIOS FUNERARIOS; REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL; REGLAMENTO DE PROTECCIÓN AMBIENTAL; REGLAMENTO INTERIOR DE TRABAJO DE LOS ELEMENTOS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO, TODOS DE GUADALUPE, NUEVO LEÓN”.]
+
+PRIMERO.- Las presentes reformas de los reglamentos objeto de este Dictamen, entrarán en vigor a partir del día de su publicación en el Periódico Oficial del Estado, y deberá dárseles difusión en la Gaceta Municipal del R. Ayuntamiento de Cd. Guadalupe, N. L.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y demás disposiciones administrativos (sic) que contravengan las presentes disposiciones.
