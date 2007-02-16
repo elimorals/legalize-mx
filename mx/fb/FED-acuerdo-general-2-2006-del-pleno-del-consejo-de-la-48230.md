@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-2-2006-del-pleno-del-consejo-de-la-48230"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-01-31"
-last_updated: "2006-04-07"
+last_updated: "2007-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48230&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-01-19"
 
 ACUERDO GENERAL 2/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA REESTRUCTURACION DE LA UNIDAD DE NOTIFICADORES DE LOS JUZGADOS DE DISTRITO EN MATERIA ADMINISTRATIVA EN EL DISTRITO FEDERAL, PARA INCORPORAR A LOS TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 7/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 16 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 31 de enero de 2006.
 
@@ -94,3 +96,17 @@ D.O.F. 7 DE ABRIL DEL 2006.
 PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 16 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Se abroga el Acuerdo General 44/2001 del Pleno del Consejo de la Judicatura Federal, que Regula el Establecimiento de Unidades de Notificadores Comunes a Diversos Organos Jurisdiccionales del Poder Judicial de la Federación; así como el diverso Acuerdo General 2/2006 del referido Pleno, relativo a la reestructuración de la Unidad de Notificadores de los Juzgados de Distrito en Materia Administrativa en el Distrito Federal, para incorporar a los Tribunales Colegiados en Materia Administrativa del Primer Circuito y el Acuerdo General 21/2006 que lo modificó.
+
+TERCERO.- Se derogan todas las disposiciones emitidas por el Consejo de la Judicatura Federal que se opongan al presente Acuerdo.
+
+CUARTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+QUINTO.- Las Unidades de Notificadores creadas con anterioridad a la fecha de inicio de vigencia de este Acuerdo continuarán con sus funciones habituales, con el personal con que cuenten.
+
+SEXTO.- La primera revisión, para determinar la prórroga del nombramiento de los Jefes de las Unidades de Notificadores en ejercicio, de conformidad con lo dispuesto en el artículo 8, párrafo segundo, en relación con la parte final del diverso numeral 10 de este Acuerdo, será en junio de dos mil siete.
