@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2002-05-10"
+last_updated: "2007-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -127,13 +127,17 @@ I.- El C. Presidente Municipal.
 
 II.- El C. Secretario del R. Ayuntamiento.
 
-III.- El C. Secretario de Seguridad Pública y Tránsito.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2007)</small>
+
+III.- El C. Secretario de Seguridad Ciudadana y Tránsito.
 
 IV.- Los C. Jueces Calificadores.
 
 V.- El C. Director de Policía.
 
 VI.- El C. Director de Tránsito.
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 16 DE FEBRERO DE 2007)</small>
 
 VII.- La Coordinación de los C. Inspectores.
 
@@ -157,7 +161,9 @@ II.- Vigilar durante el día y particularmente por la noche, las calles y demás
 
 III.- Retirar de la Vía Pública a toda persona que se encuentre mendigando, así como aquellas que inciten a la consumación de actos de violencia, haciendo solicitaciones para ejecutar actos inmorales o contrarios a las buenas costumbres.
 
-IV.- Evitar que se celebren manifestaciones, mítines y otros actos semejantes, sea cual fuese su finalidad; si quienes pretenden llevarlos a cabo no hayan dado aviso a la Dirección de Tránsito y Vialidad y obtenido la aprobación correspondiente.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2007)</small>
+
+IV.- Evitar que se celebren manifestaciones, mítines y otros actos semejantes, sea cual fuese su finalidad; si quienes pretenden llevarlos a cabo no hayan dado aviso a la Dirección de Tránsito y obteniendo la aprobación correspondiente.
 
 V.- Recoger y poner a disposición de la Autoridad Competente, dado el caso, las armas consideradas como de uso prohibido por la Ley; así como aquellas permitidas por la misma, cuando su portador no exhiba la correspondiente licencia para su portación.
 
@@ -167,7 +173,9 @@ VII.- Evitar que los menores de edad (o mayores, en su caso), jueguen en las cal
 
 VIII.- Intervenir para evitar y/o resolver cualquier suspensión en el tránsito de vehículos que entorpezca la circulación normal de los mismos.
 
-IX.- Colaborar y/o auxiliar a la Dirección de Tránsito y Vialidad, a fin de que en las proximidades de los Centros Escolares o en los sitios que ésta señale, el tránsito de vehículos se haga con la velocidad moderada de acuerdo con lo establecido en el Reglamento de esa Dirección.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2007)</small>
+
+IX.- Colaborar y/o auxiliar a la Dirección de Tránsito, a fin de que en las proximidades de los centros escolares o en los sitios que ésta señale, el tránsito de vehículos se haga con la velocidad moderada de acuerdo con lo establecido en el Reglamento de Tránsito y Vialidad.
 
 ### CAPITULO 3
 
@@ -918,3 +926,9 @@ SEGUNDO.- Se derogan todas las disposiciones reglamentarias, circulares, acuerdo
 TERCERO.- Por lo tanto, envíese al Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno del Estado, de quien depende, para que se imprima, publique, circule y se le dé el debido cumplimiento.
 
 CUARTO.- Cúmplase.
+
+P.O. 16 DE FEBRERO DE 2007.
+
+PRIMERO.- Las presentes reformas de los reglamentos objeto de este Dictamen, entrarán en vigor a partir del día de su publicación en el Periódico Oficial del Estado, y deberá dárseles difusión en la Gaceta Municipal del R. Ayuntamiento de Cd. Guadalupe, N.L.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y demás disposiciones administrativos (sic) que contravengan las presentes disposiciones.
