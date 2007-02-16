@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-establece-el-derecho-a-la-pension-para-el-bienestar-345
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-18"
-last_updated: "2003-11-18"
+last_updated: "2007-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34578&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-11-13"
 
 LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SETENTA AÑOS, RESIDENTES EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 18 de noviembre de 2003.
 
@@ -58,9 +58,13 @@ El Jefe de Gobierno del Distrito Federal deberá incluir en el Proyecto de Presu
 
 La Asamblea Legislativa del Distrito Federal deberá aprobar, en el Decreto de Presupuesto anual, el monto suficiente para hacer efectivo el derecho a la pensión alimentaria.
 
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 4.
 
-La forma como se hará valer la pensión alimentaria, la verificación de la residencia, la elaboración y actualización permanente del padrón de beneficiarios y demás requisitos y procedimientos necesarios para el ejercicio del derecho establecido en esta Ley, se fijarán en el Reglamento correspondiente.
+La forma como se hará valer la pensión alimentaria, será a través de una tarjeta electrónica, que será expedida por el Gobierno del Distrito Federal, y la cual podrá ser utilizada en los principales centros comerciales autorizados y/o en los mercados públicos del Distrito Federal.
+
+La verificación de la residencia, la elaboración y actualización permanente del padrón de beneficiarios y demás requisitos y procedimientos necesarios para el ejercicio del derecho establecido en esta Ley, se fijarán en el reglamento correspondiente.
 
 ###### Artículo 5.
 
@@ -75,3 +79,13 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los once días del me
 POR LA MESA DIRECTIVA: DIP. OBDULIO ÁVILA MAYO, PRESIDENTE.- SECRETARIA, DIP. MARICELA CONTRERAS JULIÁN.- SECRETARIA, DIP. SARA FIGUEROA TORRES (Firmas).
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b) de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los trece días del mes de noviembre del dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 16 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- El Gobierno del Distrito Federal tomará las medidas necesarias para la debida instrumentación y el uso de la tarjeta electrónica a que se refiere el artículo 4 de la ley que se reforma por el presente decreto. Para lo cual se considerarán los criterios de los representantes de los locatarios de los mercados públicos y una vez concluidos los trabajos relativos a la adecuación de los sistemas, procedimientos e instrumentos, el Gobierno del Distrito Federal publicará en la Gaceta Oficial del Distrito Federal, el Aviso que da inicio a la operación de la tarjeta electrónica en los mercados públicos del Distrito Federal.
