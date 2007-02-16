@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-panteones-y-servicios-funerarios-del-46608"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-05"
-last_updated: "2005-10-05"
+last_updated: "2007-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PANTEONES Y SERVICIOS FUNERARIOS DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 5 de octubre de 2005.
 
@@ -193,6 +193,8 @@ I.- Vigilar el cumplimiento del presente Reglamento.
 
 II.- Certificar la expedición de Títulos de Derecho de uso.
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 16 DE FEBRERO DE 2007)</small>
+
 E.- De la Secretaría de Administración:
 
 I.- Instrumentar y vigilar el cumplimiento del presente Reglamento;
@@ -218,6 +220,8 @@ I.- Verificar permanentemente la información y supervisar la prestación de los
 II.- Coordinar, previa autorización correspondiente de las Autoridades de Salud, los trámites de traslado, internación, reinhumación, depósito, incineración y exhumación prematura de cadáveres, restos humanos y restos humanos áridos o cremados;
 
 III.- Tramitar las solicitudes de exhumación y reinhumación de restos humanos cumplidos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE FEBRERO DE 2007)</small>
 
 IV.- Proporcionar periódicamente al Secretario de Administración la información relativa al padrón de datos que identifiquen a familiares y de los ocupantes de los lotes en los panteones municipales, para mantenerlo actualizado;
 
@@ -507,6 +511,8 @@ Del Derecho de Uso Temporal sobre Fosas, Gavetas y Nichos.
 
 En los cementerios municipales, la titularidad del Derecho de Uso sobre las fosas se proporcionará mediante los sistemas de Temporalidad, la cual se convendrá por los interesados con la Oficina Municipal de Panteones.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2007)</small>
+
 Los Títulos que amparen el Derecho de Uso Temporal correspondiente se expedirán en los formatos que al efecto determine la Secretaría de Administración.
 
 ###### ARTÍCULO 41.
@@ -711,6 +717,8 @@ Por los servicios de Inhumación, Exhumación, Reinhumación e Incineración de 
 
 Del Servicio Funerario.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 57.
 
 El servicio funerario que se otorgue en la Agencia Funeraria Guadalupe, será proporcionado a través de la Secretaría de Administración o el concesionario.
@@ -868,3 +876,11 @@ LIC. JUAN FRANCISCO RIVERA BEDOYA
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 ING. IGNACIO RODRÍGUEZ ZUÑIGA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DE ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE FEBRERO DE 2007.
+
+PRIMERO.- Las presentes reformas de los reglamentos objeto de este Dictamen, entrarán en vigor a partir del día de su publicación en el Periódico Oficial del Estado, y deberán dárseles difusión en la Gaceta Municipal del R. Ayuntamiento de Cd. Guadalupe, N.L.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y demás disposiciones administrativos (sic) que contravengan las presentes disposiciones.
