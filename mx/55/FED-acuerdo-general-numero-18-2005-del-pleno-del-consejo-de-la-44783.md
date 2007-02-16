@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-18-2005-del-pleno-del-consejo-de-la-4478
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-05-20"
-last_updated: "2005-05-20"
+last_updated: "2007-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44783&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-05-11"
 
 ACUERDO GENERAL 18/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACION DEL COMITE DE ENLACE Y COMUNICACION INTERINSTITUCIONAL CON LOS PODERES LEGISLATIVO Y EJECUTIVO FEDERALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL ACUERDO GENERAL 5/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ABROGAN LOS ACUERDOS GENERALES 18/2005 Y 52/2005, DEL PROPIO ORGANO COLEGIADO, PUBLICADO EN EL D.O.F. DE 16 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 20 de mayo de 2005.
 
@@ -110,3 +112,11 @@ SEGUNDO.- Las percepciones del coordinador general se fijarán de común acuerdo
 TERCERO.- Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 18/2005, del Pleno del Consejo de la Judicatura Federal, Relativo a la Creación del Comité de Enlace y Comunicación Interinstitucional con los Poderes Legislativo y Ejecutivo Federales, fue aprobado por el Pleno del Consejo, en sesión de once de mayo de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a once de mayo de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 16 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
