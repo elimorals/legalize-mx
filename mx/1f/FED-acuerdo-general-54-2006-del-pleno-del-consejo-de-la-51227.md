@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-54-2006-del-pleno-del-consejo-de-la-51227"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-08-11"
-last_updated: "2006-08-11"
+last_updated: "2007-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51227&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-08-02"
 
 ACUERDO GENERAL 54/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL ACUERDO GENERAL 17/2006 DEL PROPIO PLENO, POR EL QUE SE CREA EL COMITE DE INVERSION DE RECURSOS FINANCIEROS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 3/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 16 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 11 de agosto de 2006.
 
@@ -100,3 +102,13 @@ TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judica
 CUARTO.- El texto de esta reforma deberá integrarse, de inmediato, al Acuerdo General 17/2006 del Pleno del Consejo de la Judicatura Federal.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 54/2006 del Pleno del Consejo de la Judicatura Federal, que Modifica el Acuerdo General 17/2006 del Propio Pleno, por el que se Crea el Comité de Inversión de Recursos Financieros del Consejo de la Judicatura Federal, en sesión de dos de agosto de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a dos de agosto de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 16 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Acuerdo General 17/2006 del Pleno del Consejo de la Judicatura Federal, por el que se Creó el Comité de Inversión de Recursos Financieros del Consejo de la Judicatura Federal; así como el diverso Acuerdo General 54/2006, que lo modificó.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
