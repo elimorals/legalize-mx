@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2006-del-pleno-del-consejo-de-la-49672"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-03-17"
-last_updated: "2006-08-11"
+last_updated: "2007-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49672&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-03-09"
 
 ACUERDO GENERAL 17/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL COMITE DE INVERSION DE RECURSOS FINANCIEROS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE AGOSTO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 3/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 16 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de marzo de 2006.
 
@@ -274,3 +276,11 @@ SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así 
 TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente acuerdo.
 
 CUARTO.- El texto de esta reforma deberá integrarse, de inmediato, al Acuerdo General 17/2006 del Pleno del Consejo de la Judicatura Federal.
+
+D.O.F. 16 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Acuerdo General 17/2006 del Pleno del Consejo de la Judicatura Federal, por el que se Creó el Comité de Inversión de Recursos Financieros del Consejo de la Judicatura Federal; así como el diverso Acuerdo General 54/2006, que lo modificó.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
