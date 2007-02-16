@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-52-2005-del-pleno-del-consejo-de-la-47099"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-12-09"
-last_updated: "2005-12-09"
+last_updated: "2007-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47099&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-11-28"
 
 ACUERDO GENERAL 52/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL FUNCIONAMIENTO DE LA COORDINACION DE ENLACE Y COMUNICACION INTERINSTITUCIONAL CON LOS PODERES LEGISLATIVO Y EJECUTIVO DE LA FEDERACION Y DE LAS ENTIDADES FEDERATIVAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL ACUERDO GENERAL 5/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ABROGAN LOS ACUERDOS GENERALES 18/2005 Y 52/2005, DEL PROPIO ORGANO COLEGIADO, PUBLICADO EN EL D.O.F. DE 16 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 9 de diciembre de 2005.
 
@@ -106,3 +108,11 @@ TERCERO.- Publíquese en el Diario Oficial de la Federación y en el Semanario J
 > <small>(F. DE E., D.O.F. 20 DE DICIEMBRE DE 2005)</small>
 
 LA LICENCIADA GUADALUPE MARGARITA ORTIZ BLANCO, SECRETARIA EJECUTIVA DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS; CERTIFICA: Que este Acuerdo General 52/2005, del Pleno del Consejo de la Judicatura Federal, Relativo al Funcionamiento de la Coordinación de Enlace y Comunicación interinstitucional con los Poderes Legislativo y Ejecutivo de la Federación y de las Entidades Federativas, fue aprobado por el Pleno del Consejo, en sesión de veintinueve de noviembre de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintinueve de noviembre de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 16 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
