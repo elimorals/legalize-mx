@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-seguridad-publica-del-estado-de-guerrero-numero-443-2330
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-29"
-last_updated: "2002-01-29"
+last_updated: "2007-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE GUERRERO, NUMERO 443
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 281 DE SEGURIDAD PUBLICA DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 16 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 29 de enero de 2002.
 
@@ -1232,3 +1234,27 @@ El Secretario General de Gobierno.
 C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE FEBRERO DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Seguridad Pública del Estado de Guerrero, número 443 y las que se opongan a la Ley.
+
+TERCERO.- Se derogan todas aquellas disposiciones relacionadas a la seguridad pública, cuya regulación se prevea en la Ley.
+
+CUARTO.- Las disposiciones legales de otros ordenamientos que beneficien al servicio y personal de seguridad pública, conservaran su vigencia, hasta en tanto no se adecuen a la Ley.
+
+QUINTO.- Los Ayuntamientos Municipales, en un plazo que no exceda de ciento ochenta días a partir de la entrada en vigor de esta Ley, deberán adecuar sus ordenamientos jurídicos a las prescripciones contenidas en la Ley, sin perjuicio de sus facultades constitucionales.
+
+SEXTO.- El personal de seguridad pública que actualmente esté en activo, le será aplicable la Ley, sin menoscabo de sus derechos derivados de la relación de prestación de servicio.
+
+SÉPTIMO.- Para el cumplimiento de las acciones derivadas por la entrada en vigor de la Ley, la Secretaría, los Ayuntamientos, el Consejo Estatal, la Secretaría de Finanzas y Administración y la Contraloría General del Estado, en el ámbito de sus respectivas competencias, establecerán y desarrollaran los mecanismos de programación, ejecución e inversión presupuestaria para el cumplimiento de los objetivos y fines de la Ley, conforme a la disponibilidad presupuestal.
+
+OCTAVO.- Con el objeto de profesionalizar a los elementos en activo de las Instituciones Policiales, el Consejo Estatal promoverá los convenios y acuerdos necesarios, con el propósito de integrarlos gradualmente al servicio de carrera policial.
+
+NOVENO.- El Reglamento Interior del Consejo Estatal de Seguridad Pública y del Secretariado Ejecutivo de dicho Consejo, deberá expedirse en un término de noventa días siguientes a la fecha en que la presente Ley inicie su vigencia.
+
+DÉCIMO.- Las demás disposiciones reglamentarias de la presente Ley deberán de expedirse dentro de los ciento ochenta días siguientes de su entrada en vigor.
