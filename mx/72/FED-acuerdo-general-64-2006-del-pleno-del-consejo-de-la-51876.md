@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-64-2006-del-pleno-del-consejo-de-la-51876"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-10"
-last_updated: "2006-10-10"
+last_updated: "2007-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51876&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-09-27"
 
 ACUERDO GENERAL 64/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS LIBRES DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO Y MAGISTRADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE FEBRERO DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de octubre de 2006.
 
@@ -159,7 +159,9 @@ Durante el desarrollo de cada una de las etapas del concurso, los aspirantes deb
 
 Todo concurso abierto de oposición, según dispone el artículo 114 de la Ley, deberá constar de dos etapas:
 
-I. En la primera etapa se evaluarán tanto sentencias o resoluciones emitidas por los aspirantes como sus antecedentes curriculares, y los concursantes resolverán, por escrito, un cuestionario cuyo contenido versará sobre materias que se relacionen con la función y especialidad de la plaza para la que se concursa;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 4/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE FEBRERO DE 2007)</small>
+
+I. En la primera etapa se evaluarán los antecedentes curriculares de los aspirantes y los concursantes resolverán, por escrito, un cuestionario cuyo contenido versará sobre materias que se relacionen con la función y la especialidad de la plaza para la que se concursa;
 
 II. La segunda etapa consistirá, a su vez, de dos partes:
 
@@ -279,27 +281,29 @@ f) Magistrados del Tribunal Federal de Conciliación y Arbitraje;
 
 g) Presidentes de Juntas Especiales de la Federal de Conciliación y Arbitraje;
 
-h) Secretarios de Estudio y Cuenta adscritos a los ministros de la Suprema Corte de Justicia de la Nación;
+> <small>N. DE E. EL ANTERIOR INCISO H SE DEROGA Y SE RECORRE EL ORDEN DE LOS INCISOS.</small>
 
-i) Magistrados de Tribunal de lo Contencioso Administrativo local;
+(REUBICADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 4/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE FEBRERO DE 2007)
 
-j) Presidentes de Juntas Locales de Conciliación y Arbitraje;
+h) Magistrados de Tribunal de lo Contencioso Administrativo local;
 
-k) Magistrados de tribunal unitario agrario;
+i) Presidentes de Juntas Locales de Conciliación y Arbitraje;
 
-l) Magistrados de sala regional del Tribunal Electoral del Poder Judicial de la Federación;
+j) Magistrados de tribunal unitario agrario;
 
-m) Magistrados de los tribunales electorales locales;
+k) Magistrados de sala regional del Tribunal Electoral del Poder Judicial de la Federación;
 
-n) Secretarios del Tribunal Federal de Justicia Fiscal y Administrativa;
+l) Magistrados de los tribunales electorales locales;
 
-o) Académicos de Universidades públicas y privadas;
+m) Secretarios del Tribunal Federal de Justicia Fiscal y Administrativa;
 
-p) Defensores Públicos y Asesores Jurídicos del Instituto Federal de Defensoría Pública;
+n) Académicos de Universidades públicas y privadas;
 
-q) Servidores públicos con funciones de asesoría jurídica a mandos superiores; y
+o) Defensores Públicos y Asesores Jurídicos del Instituto Federal de Defensoría Pública;
 
-r) Directores de asuntos jurídicos de las instituciones oficiales.
+p) Servidores públicos con funciones de asesoría jurídica a mandos superiores; y
+
+q) Directores de asuntos jurídicos de las instituciones oficiales.
 
 ###### Artículo 17.
 
@@ -592,3 +596,13 @@ SEGUNDO.- Comuníquese al Pleno de la Suprema Corte de Justicia de la Nación el
 TERCERO.- Para su mayor difusión, este Acuerdo se publicará en el Semanario Judicial de la Federación y su Gaceta, así como en la página de Internet del Consejo de la Judicatura Federal.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 64/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Libres de Oposición para la Designación de Jueces de Distrito y Magistrados de Circuito, fue aprobado por el Pleno del propio Consejo, en sesión de veintisiete de septiembre de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintisiete de septiembre de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 16 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación y será aplicable para concursos que en el futuro se convoquen.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 64/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Libres de Oposición para la Designación de Jueces de Distrito y Magistrados de Circuito.
