@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-de-los-no-fumadores-en-el-25653"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-27"
-last_updated: "2007-01-22"
+last_updated: "2007-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES, EN EL MUNICIPIO DE GUADALUPE, N.L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 27 de agosto de 1993.
 
@@ -39,9 +39,11 @@ EL LIC. RAMIRO GUERRA GUERRA, PRESIDENTE MUNICIPAL DE CIUDAD GUADALUPE, NUEVO LE
 
 Las disposiciones de éste Reglamento son de orden público e interés general, siendo obligatoria su observancia para los habitantes domiciliarios y transeúntes, teniendo por objeto proteger la salud de las personas no fumadoras de los efectos de la inhalación involuntaria de humo producido por la combustión del tabaco, en cualquiera de sus formas, en lo locales cerrados y establecimientos a que se refieren los artículos 4° y 7°, así como en vehículos de servicio público de transporte colectivo de pasajeros.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 2.
 
-La aplicación y vigilancia del cumplimiento de este reglamento corresponde, al C. Presidente Municipal; al C. Secretario de Salud Pública Municipal, el C. Director General de Policía y Tránsito Municipal y los Jueces Calificadores en sus respectivos ámbitos de competencia.
+La aplicación y vigilancia del cumplimiento de este reglamento corresponde, al C. Presidente Municipal; al C. Secretario de Bienestar Social y Desarrollo Comunitario, al C. Secretario de Seguridad Ciudadana y Tránsito y los jueces calificadores en sus respectivos ámbitos de competencia.
 
 ###### ARTICULO 3.
 
@@ -93,13 +95,17 @@ En caso de vehículos o taxis para transporte individual, corresponde al conduct
 
 ### CAPITULO III. DE LA DIVULGACION, CONCIENTIZACION Y PROMOCION
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 9.
 
-El Secretario de Salud Pública Municipal, promoverá ante los titulares de las dependencias y entidades de la Administración Pública Municipal, que en las oficinas de sus respectivas unidades administrativas, órganos y unidades, ubicados en el Municipio, en los que se atienda al público, se procure establecer las modalidades a que se refiere el Artículo 7° Fracción IV de este Reglamento.
+El Secretario de Bienestar Social y Desarrollo Comunitario, promoverá ante los titulares de las dependencias y entidades de la Administración Pública Municipal, que en las oficinas de sus respectivas unidades administrativas, órganos y unidades, ubicados en el Municipio, en los que se atienda al público, se procure establecer las modalidades a que se refiere el Artículo 7 Fracción IV de este Reglamento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 10.
 
-El Secretario de Salud Pública Municipal, promoverá la realización de campañas de concientización y divulgación de este Reglamento, a fin de que se establezcan modalidades similares a las que se refiere este ordenamiento en:
+El Secretario de Bienestar Social y Desarrollo Comunitario, promoverá la realización de campañas de concientización y divulgación de este Reglamento, a fin de que se establezcan modalidades similares a las que se refiere este ordenamiento en:
 
 a).- Oficinas y despachos privados.
 
@@ -133,9 +139,9 @@ Las inspecciones se sujetarán a las siguientes bases:
 
 I.- El Inspector deberá contar con orden escrita expedida por la Autoridad Competente y contendrá la fecha, ubicación del local o establecimiento a inspeccionar, el objeto de la visita, el nombre del inspector autorizado para llevar a cabo la diligencia, la fundamentación y motivación así como el nombre y firma del funcionario que la emitió.
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2007)</small>
 
-II.- El Inspector deberá identificarse ante el propietario, poseedor o responsable, con la credencial vigente que para tal efecto expida la Secretaría de Salud Pública Municipal, y entregará copias legibles de la orden de inspección.
+II.- El inspector deberá identificarse ante el propietario, poseedor o responsable, con la credencial vigente que para tal efecto expida la Secretaría de Bienestar Social y Desarrollo Comunitario, y entregará copias legibles de la orden de inspección;
 
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2007)</small>
 
@@ -149,17 +155,19 @@ IV.- Al inicio de la visita de la inspección, el Inspector deberá requerir al 
 
 V.- De toda visita se levantará acta circunstanciada por triplicado, en forma numerada y foliadas, en las que se expresarán: lugar, fecha y nombre de la persona con quien se entiende la diligencia, así como las incidencias y el resultado de la misma; el acta deberá ser firmada por el Inspector, por la persona con quien se entendió la diligencia, y por los testigos de asistencia propuestos por ésta o nombrados por el Inspector y en el caso de la fracción anterior. Si alguna de las personas señaladas se niega a firmar el inspector lo hará constar en el acta, sin que ésta circunstancia altere el valor probatorio del documento.
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2007)</small>
 
-VI.- El Inspector comunicará al visitada (sic) si existen omisiones en el cumplimiento de cualquier obligación a su cargo ordenado en el Reglamento, haciendo constar en el acta que cuenta con diez días hábiles para impugnarla por escrito ante la Secretaría de Salud Pública Municipal y exhibir las pruebas y alegatos que a su derecho convengan, y
+VI.- El inspector comunicará al visitado si existen omisiones en el cumplimiento de cualquier obligación a su cargo obligado en el Reglamento, haciendo constar en el acta que cuenta con diez días hábiles para impugnarla por escrito ante la Secretaría de Bienestar Social y Desarrollo Comunitario y exhibir las pruebas y alegatos que a su derecho convengan; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2007)</small>
 
-VII.- Uno de los ejemplares legibles del acta quedará en poder de la persona con quien se entendió la diligencia; el original y la copia se entregarán a la Secretaría de Salud Pública Municipal.
+VII.- Uno de los ejemplares legibles del acta quedará en poder de la persona con quien se entendió la diligencia, el original y la copia se entregarán a la Secretaría de Bienestar Social y Desarrollo Comunitario.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 14.
 
-Transcurrido el plazo a que se refiere la fracción VI del Artículo anterior, la Secretaría de Salud Pública Municipal, calificará las actas dentro de un término de tres días hábiles considerando la gravedad de la infracción, si existe reincidencia, las circunstancias que hubieren concurrido, las pruebas aportadas y los alegatos formulados en su caso, y dictará la resolución que proceda debidamente fundada y motivada, notificandola personalmente al visitado.
+Transcurrido el plazo a que se refiere la fracción VI del artículo anterior, la Secretaría de Bienestar Social y Desarrollo Comunitario, calificará las actas dentro de un término de tres días hábiles considerando la gravedad de la infracción, si existe reincidencia, las circunstancias que hubieren concurrido, las pruebas aportadas y los alegatos formulados en su caso, y dictará la resolución que proceda debidamente fundada y motivada, notificándola personalmente al visitado.
 
 ### CAPITULO V. DE LAS SANCIONES
 
@@ -209,9 +217,11 @@ Las notificaciones se harán en días y horas hábiles.
 
 ### CAPITULO VII. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 24.
 
-El Recurso de Inconformidad tiene por objeto que el Secretario de Salud Pública Municipal, revoque o modifique las resoluciones administrativas que se reclaman del C. Director de Policía y del Director de Tránsito de Ciudad Guadalupe, Nuevo León.
+El Recurso de Inconformidad tiene por objeto que el Secretario de Bienestar social y Desarrollo Comunitario, revoque o modifique las resoluciones administrativas que se reclaman del Director de Policía y del Director de Tránsito.
 
 ###### ARTICULO 25.
 
@@ -225,9 +235,11 @@ En el escrito de inconformidad se expresarán: Nombre, domicilio de quien promue
 
 Admitido el Recurso interpuesto, se señalará el día y la hora para la celebración de una Audiencia en la que se oirá en defensa al interesado, y se desahogarán las pruebas ofrecidas, levantándose al término de la misma, acta suscrita por los que en ella hayan intervenido.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 28.
 
-El Secretario de Salud Pública Municipal, dictará y notificará la resolución que corresponda, debidamente fundada y motivada, en un plazo de tres días hábiles, misma que deberá notificar al interesado personalmente en los términos del Código de Procedimientos Civiles vigente en el Estado de Nuevo León.
+El Secretario de Bienestar Social y Desarrollo Comunitario, dictará y notificará la resolución que corresponda, debidamente fundada y motivada, en un plazo de tres días hábiles, misma que deberá notificar al interesado personalmente en los términos del Código de Procedimientos Civiles vigente en el Estado de Nuevo León.
 
 Si transcurrido el plazo, no se ha notificado la resolución que corresponda se entenderá que el recurso ha sido resuelto en sentido favorable al recurrente.
 
@@ -271,7 +283,7 @@ SECRETARIO DEL R. AYUNTAMIENTO.
 
 P.O. 9 DE AGOSTO DE 2002.
 
-## [N. DE E. TRANSITORIOS DE LAS “ADICIONES AL REGLAMENTO DE NOMENCLATURA; AL REGLAMENTO DE LIMPIA; AL REGLAMENTO DE ESPECTÁCULOS; AL REGLAMENTO DE ANUNCIOS; AL REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS; AL REGLAMENTO DE PROTECCIÓN AMBIENTAL; AL REGLAMENTO DE CEMENTERIOS; AL REGLAMENTO DE PROTECCIÓN A LOS NO FUMADORES Y AL REGLAMENTO DE CONSTRUCCIÓN”.]
+## [N. DE E. TRANSITORIOS DE LAS "ADICIONES AL REGLAMENTO DE NOMENCLATURA; AL REGLAMENTO DE LIMPIA; AL REGLAMENTO DE ESPECTÁCULOS; AL REGLAMENTO DE ANUNCIOS; AL REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS; AL REGLAMENTO DE PROTECCIÓN AMBIENTAL; AL REGLAMENTO DE CEMENTERIOS; AL REGLAMENTO DE PROTECCIÓN A LOS NO FUMADORES Y AL REGLAMENTO DE CONSTRUCCIÓN".]
 
 PRIMERO: Las presentes adiciones a los Reglamentos, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado y Gaceta Municipal.
 
@@ -290,3 +302,11 @@ PRIMERO: Estas modificaciones entrarán en vigor al día hábil siguiente de su 
 SEGUNDO: Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
 
 TERCERO: Envíese al C. Secretario General de Gobierno, para que por su conducto se publique en el Periódico Oficial del Estado. Y publíquese en la Gaceta Municipal.
+
+P.O. 16 DE FEBRERO DE 2007.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL SE APRUEBAN LAS REFORMAS A LOS SIGUIENTES REGLAMENTOS: REGLAMENTO DE ADQUISICIONES; REGLAMENTO DE POLICÍA Y BUEN GOBIERNO; REGLAMENTO DE PROTECCIÓN CIVIL; REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES; REGLAMENTO DE LIMPIA; REGLAMENTO DE PANTEONES Y SERVICIOS FUNERARIOS; REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL; REGLAMENTO DE PROTECCIÓN AMBIENTAL; REGLAMENTO INTERIOR DE TRABAJO DE LOS ELEMENTOS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO, TODOS DE GUADALUPE, NUEVO LEÓN”.]
+
+PRIMERO.- Las presentes reformas de los reglamentos objeto de este Dictamen, entrarán en vigor a partir del día de su publicación en el Periódico Oficial del Estado, y deberá dárseles difusión en la Gaceta Municipal del R. Ayuntamiento de Cd. Guadalupe, N. L.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y demás disposiciones administrativos (sic) que contravengan las presentes disposiciones.
