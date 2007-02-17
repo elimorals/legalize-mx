@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2006-09-08"
+last_updated: "2007-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2007.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -495,8 +495,6 @@ Los Diputados al Congreso del Estado no podrán ser reelectos para el período i
 
 Los Diputados propietarios, durante el período de su encargo, no podrán desempeñar, con excepción de los docentes, ninguna comisión, cargo ni empleo de la Federación, del Estado o del Municipio, por los cuales se disfrute sueldo, sin previa licencia de la Cámara, en cuyo caso cesarán en sus funciones, mientras dure la nueva ocupación. La misma regla se usará con los Diputados suplentes cuando éstos sean llamados al ejercicio.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
 La infracción de este precepto se castigará con la pérdida del cargo de Diputado.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
@@ -813,11 +811,17 @@ Siempre que las condiciones administrativas lo permitan, la cuenta pública podr
 
 XLII.- Legislar en materia de Participación Ciudadana, estableciendo las normas para la procedencia, aplicación y ejecución del plebiscito referéndum e iniciativa popular;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2007)</small>
 
-XLIII.- Aprobar, en su caso, los puntos de acuerdos legislativos o acuerdos económicos que propongan a la Legislatura los diputados o las fracciones parlamentarias, para gestionar ante las instancias competentes apoyo a la población o que busquen el beneficio de la ciudadanía tabasqueña; y
+XLIII.- Aprobar, en su caso, los puntos de acuerdos legislativos o acuerdos económicos que propongan a la Legislatura los diputados o las fracciones parlamentarias, para gestionar ante las instancias competentes apoyo a la población o que busquen el beneficio de la ciudadanía tabasqueña;
 
-XLIV.- Aquellas que la presente Constitución y las leyes le señalen.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE FEBRERO DE 2007)</small>
+
+XLIV.- Legislar en materia de proyectos y contratos para prestación de servicios, contraídos por el Estado, y en su caso, por los Municipios cuyas obligaciones tengan una vigencia plurianual; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE FEBRERO DE 2007)</small>
+
+XLV.- Aquéllas que la presente Constitución y las leyes le señalen.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1557,17 +1561,21 @@ Los presupuestos de egresos serán aprobados por los Ayuntamientos, sobre la bas
 
 Para la aprobación de la Ley de Ingresos de los Ayuntamientos, éstos enviarán sus proyectos conforme a las disposiciones legales aplicables a la Legislatura Local, directamente o por conducto del Ejecutivo, a más tardar en el mes de octubre de cada año.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2007)</small>
 
-La cuenta pública de los Ayuntamientos o Concejos Municipales, se analizará, fiscalizará y calificará anualmente por el Congreso del Estado; para tal efecto aquellos, enviarán mensualmente al Órgano Superior de Fiscalización del Estado, dentro de los quince días del mes siguiente que corresponda, la cuenta comprobada y debidamente documentada del mes anterior, con los informes técnicos financieros que acrediten las erogaciones y el avance de las metas físicas de sus proyectos. Así mismo, y a más tardar el 31 de marzo del año siguiente, en complemento a la cuenta pública comprobada del último mes del período, deberán remitir la evaluación de su programa operativo anual, en relación a las metas que se establecieron por el año que corresponda y el avance de su Plan Municipal de Desarrollo, para su inclusión correspondiente.
+Cada Ayuntamiento deberá prever las partidas presupuéstales necesarias para solventar las obligaciones contraídas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Ayuntamiento o de las entidades paramunicipales y que cuenten con la garantía del Ayuntamiento o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, así como aquellas que se requieran para cubrir los compromisos derivados de contratos de proyectos para prestación de servicios aprobados por el Ayuntamiento conforme a las leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 17 DE FEBRERO DE 2007)</small>
 
-Al presentar el informe del primer mes del ejercicio, deberá adjuntarse el presupuesto de egresos aprobados para dicho ejercicio fiscal. Los ajustes presupuestales autorizados deberán presentarse en el informe mensual correspondiente.
+La cuenta pública de los Ayuntamientos o Concejos Municipales, se analizará, fiscalizará y calificará anualmente por el Congreso del Estado; para tal efecto aquellos, enviarán mensualmente al Órgano Superior de Fiscalización del Estado, dentro de los quince días del mes siguiente que corresponda, la cuenta comprobada y debidamente documentada del mes anterior, con los informes técnicos financieros que acrediten las erogaciones y el avance de las metas físicas de sus proyectos. Así mismo, y a más tardar el 31 de marzo del año siguiente, en complemento a la cuenta pública comprobada del último mes del período, deberán remitir la evaluación de su programa operativo anual, en relación a las metas que se establecieron por el año que corresponda y el avance su Plan Municipal de Desarrollo, para su inclusión correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 17 DE FEBRERO DE 2007)</small>
 
-Los Ayuntamientos no podrán contraer empréstitos ni celebrar contratos cuya duración exceda de un año, ni enajenar bienes inmuebles sin autorización del Poder Legislativo, ni cobrar contribuciones que correspondan al año siguiente de su período.
+Al presentar el informe del primer mes del ejercicio, deberá adjuntarse el presupuesto de egresos aprobados para dicho ejercicio fiscal. Los ajustes presupuéstales autorizados deberán presentarse en el informe mensual correspondiente.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 17 DE FEBRERO DE 2007)</small>
+
+Los Ayuntamientos no podrán contraer empréstitos cuya duración exceda de un año, ni enajenar bienes inmuebles sin autorización del Poder Legislativo, ni cobrar contribuciones que correspondan al año siguiente de su período.
 
 > <small>(ADICIONADA, P.O. 25 DE JULIO DE 2001)</small>
 
@@ -1822,8 +1830,6 @@ Los servidores públicos serán responsables del cumplimiento de estas bases en 
 ###### ARTICULO 77.
 
 Para los efectos de esta Constitución, la residencia no se pierde por ausencia en el desempeño de cargo de elección popular, de comisiones oficiales del Gobierno del Estado o con motivo del deber de todo mexicano de servir a la Patria y sus Instituciones.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 78.
 
@@ -2508,3 +2514,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del Acuerdo del pleno y de su expediente, para que emitan su voto de aprobación o rechazo a las reformas y adición acordadas por la soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se le tendrá como aprobatorio el voto del Ayuntamiento omiso.
+
+P. O. 17 DE FEBRERO DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
