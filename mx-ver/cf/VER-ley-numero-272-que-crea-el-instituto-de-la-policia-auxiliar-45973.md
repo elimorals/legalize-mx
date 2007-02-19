@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-272-que-crea-el-instituto-de-la-policia-auxiliar-459
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-12"
-last_updated: "2005-08-12"
+last_updated: "2007-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY QUE CREA EL INSTITUTO DE LA POLICIA AUXILIAR Y PROTECCION PATRIMONIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 12 de agosto de 2005.
 
@@ -85,6 +85,10 @@ VIII. Auxilio a las instituciones de seguridad pública, en la realización de s
 
 IX. Otros servicios relacionados para el cumplimiento de su objetivo y los que dispongan otras disposiciones legales.
 
+> <small>(ADICIONADO, G.O. 19 DE FEBRERO DE 2007)</small>
+
+Se excluyen las fracciones I, IV y IX del presente artículo, en la prestación de los servicios en otra entidad federativa, debiendo ajustarse a la legislación de la materia.
+
 ### CAPÍTULO SEGUNDO. Funciones
 
 ###### Artículo 5.
@@ -93,7 +97,9 @@ Las funciones del Instituto de la Policía Auxiliar y Protección Patrimonial, s
 
 I. Organizar y controlar los servicios de seguridad y protección que contraten las empresas, industriales, instituciones bancarias, comercios, particulares y dependencias federales, estatales o municipales de acuerdo con la normatividad vigente;
 
-II. Suscribir convenios, contratos, pedidos o acuerdos en materia de obras públicas, adquisiciones, arrendamientos y contratación de servicios exclusivamente para el buen funcionamiento del Instituto y con apego a la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+II. Suscribir convenios o contratos, de bienes y prestación de servicios así como acuerdos en materia de obras públicas con apego a la ley de la materia;
 
 III. Celebrar contratos con empresas, instituciones públicas y privadas y particulares del Estado que requieran los servicios de seguridad, protección, capacitación, equipamiento y adiestramiento;
 
@@ -101,25 +107,39 @@ IV. Comercializar, diseñar, operar, y supervisar el establecimiento de disposit
 
 V. Brindar servicios de asesoría, consultoría, capacitación y adiestramiento en materias de seguridad y protección de personas, valores y establecimientos, así como, el traslado de valores, seguridad industrial, tecnológica o de cualquier otra materia afín;
 
-VI. Comercializar, operar, arrendar y dar mantenimiento a equipos, dispositivos y accesorios para la seguridad industrial, bancaria y comercial, para la protección de personas físicas y morales, así como, sus establecimientos y bienes; excluyendo todo tipo de armas;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
 
-VII. Coordinar acciones con las diversas corporaciones policíacas, federales, estatales y municipales, para el auxilio y prevención de ilícitos que pongan en peligro la seguridad de las instalaciones en custodia;
+VI. Comercializar, operar, arrendar y dar mantenimiento a equipos, dispositivos y accesorios para la seguridad residencial, industrial, bancaria y comercial, para la protección de personas físicas y morales, así como, sus establecimientos y patrimonio; excluyendo todo tipo de armas;
 
-VIII. Regionalizar el territorio del Estado en la prestación de los servicios para optimizar el funcionamiento del Instituto;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
 
-IX. Solicitar el apoyo a las diversas corporaciones policíacas, federales, estatales y municipales, en la comisión y prevención de ilícitos que pongan en peligro la seguridad de las instalaciones en custodia;
+VII. Coordinar acciones con las diversas corporaciones policíacas, federales, estatales y municipales, que permitan la instrumentación de programas para la prevención del delito que impacten en beneficio de la sociedad;
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+VIII. Establecer las políticas, planes y programas que permitan desarrollar la logística adecuada para la prestación del servicio;
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+IX. Solicitar el apoyo a las diversas corporaciones policíacas federales, estatales y municipales cuando se ponga en peligro la integridad o seguridad de las personas o patrimonio en custodia;
 
 X. Llevar a cabo programas de capacitación, actualización, adiestramiento y especialización, a fin de alcanzar la profesionalización del personal del Instituto;
 
-XI. Prestar servicios de capacitación en materia de seguridad privada a las empresas o instituciones que lo soliciten, conforme a los programas autorizados por el secretario de Seguridad Pública;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
 
-XII. Adquirir el mobiliario y el equipo necesario para cumplir con su objetivo, observando lo que establece la Ley de Adquisiciones, Arrendamientos y Administración de los Bienes Muebles del Poder Ejecutivo del estado de Veracruz, para dicho efecto;
+XI. Prestar servicios de capacitación y entrenamiento en materia de seguridad a las personas físicas o morales que lo requieran, conforme a los programas autorizados por la Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+XII. Adquirir el mobiliario, equipo e insumos necesarios para cumplir con su objetivo. Dicha adquisición podrá ser por cualquier medio llámese compraventa, arrendamiento, donación o cualquier figura establecida y permitida por la Ley;
 
 XIII. Adquirir o arrendar bienes inmuebles para el logro de sus objetivos;
 
-XIV. Contratar y arrendar, en su caso, servicios complementarios para poder realizar los trabajos encomendados;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
 
-XV. Procurar la conservación y mantenimiento de las instalaciones a su cargo;
+XIV. Contratar los servicios complementarios para poder realizar los trabajos encomendados;
+
+XV. (DEROGADA, G.O. 19 DE FEBRERO DE 2007)
 
 XVI. Establecer acuerdos, convenios y contratos con instituciones y empresas públicas y privadas con propósitos afines, para el mejor desempeño de sus funciones;
 
@@ -127,7 +147,9 @@ XVII. Aprobar los programas académicos, capacitación y adiestramiento de las e
 
 XVIII. Vigilar la normatividad y la aplicación de los programas académicos, capacitación y adiestramiento de las empresas de seguridad privada que ofrecen estos servicios en la Entidad;
 
-XIX. Establecer y proporcionar servicios de grupos de tarea, escoltas, operativos de reacción y otros servicios especializados; y
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+XIX. Conformar, capacitar y supervisar grupos de tarea, escolta, operativos de reacción y de necesidades particulares, para la prestación de servicios especializados;
 
 XX. Las demás que le ordenen otras atribuciones legales aplicables.
 
@@ -143,7 +165,9 @@ II. Con las aportaciones presupuestales que anualmente le asignen el Gobierno el
 
 III. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipal;
 
-IV. Las aportaciones que le hagan las fundaciones, asociaciones civiles o los particulares en calidad de donación o por cualquier otro título;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+IV. Las aportaciones que le hagan las personas físicas o morales en calidad de donación o por cualquier otro título;
 
 V. Los bienes muebles o inmuebles que adquiera por cualquier título legal para el cumplimiento de sus objetivos;
 
@@ -173,15 +197,19 @@ V. La mejora de las condiciones generales de vida del personal del Instituto, a 
 
 VI. Aportaciones al patrimonio del erario estatal.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 8.
 
-Los servicios de seguridad que preste el Instituto y los bienes que comercialice, deberán ser retribuidos de acuerdo con las tarifas o costos aprobados por la Junta de Gobierno, que tendrán el carácter de derechos fiscales, a fin de que queden exentos del pago y traslado del impuesto al valor agregado.
+Los servicios de seguridad que preste el Instituto y los bienes que comercialice, deberán ser retribuidos de acuerdo con las tarifas o costos aprobados por la Junta de Gobierno y que buscarán obtener la rentabilidad de los servicios ofertados alcanzando así la autosuficiencia del instituto.
 
 ### CAPÍTULO CUARTO. De su Organización
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 9.
 
-El Instituto de la Policía Auxiliar y Protección Patrimonial, se integra por:
+El Instituto de la Policía Auxiliar y Protección Patrimonial, será administrado por:
 
 I. La Junta de Gobierno; y
 
@@ -197,21 +225,41 @@ II. El Secretario de Seguridad Pública, quien tendrá el carácter de vicepresi
 
 III. El Secretario de Finanzas y Planeación, quien tendrá el carácter de Vocal;
 
-IV. El Subsecretario de Seguridad Pública, quien tendrá el carácter de Vocal;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
 
-V. El Subsecretario de Protección Civil, quien tendrá el carácter de Vocal;
+IV. El subsecretario de Seguridad Pública, quien tendrá carácter de vocal;
 
-VI. El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, quien tendrá el carácter de Vocal;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
 
-VII. El Contralor General del Estado, quien tendrá el carácter de comisario propietario; y
+V. Procurador de Justicia del Estado, quien tendrá el carácter de vocal;
 
-VIII. El Comisionado del Instituto, quien tendrá el carácter de secretario Ejecutivo.
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+VI. Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, quien tendrá carácter de vocal;
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+VII. Director de la Academia Estatal del Lencero, quien tendrá carácter de vocal;
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+VIII. El Coordinador del Centro Estatal de Control, Comando Comunicaciones y Cómputo, quien tendrá carácter de vocal;
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+IX. El contralor General del Estado, quien tendrá el carácter de comisario propietario;
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+X. El Comisionado del Instituto, quien tendrá el carácter de secretario ejecutivo.
 
 La Junta de Gobierno contará con un Secretario Técnico propuesto por el Comisionado y aprobado por el Presidente. El cargo de miembro de la Junta de Gobierno es honorífico y, sólo por excepción, podrá desempeñarse por medio de un suplente que deberá tener un cargo inferior inmediato al del miembro propietario.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 11.
 
-La Junta de Gobierno se reunirá en sesiones ordinarias trimestrales. Se realizarán sesiones extraordinarias cuando sean convocadas por el Comisionado. Las sesiones se considerarán válidas cuando se cuente con la asistencia de quien las presida y por lo menos la mitad más uno de sus integrantes.
+La Junta de Gobierno se reunirá en sesiones ordinarias cuatrimestrales. Se realizarán sesiones extraordinarias cuando sean convocadas por el Comisionado. Las sesiones se considerarán válidas cuando se cuente con la asistencia de quien las presida y por lo menos la mitad más uno de sus integrantes.
 
 El Secretario Técnico llevará un libro de actas en el que se consigne el resultado y acuerdo de las sesiones.
 
@@ -227,31 +275,23 @@ El Secretario Técnico, el Comisario, así como los invitados, asistirán a las 
 
 La dirección y la administración del Instituto de la Policía Auxiliar y Protección Patrimonial, estarán a cargo de un Comisionado, que será designado y removido por el Gobernador del Estado y quien tomará protesta ante la Junta de Gobierno.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 14.
 
-El titular del Instituto de la Policía Auxiliar y Protección Patrimonial, deberá reunir los siguientes requisitos:
-
-I. Ser veracruzano por nacimiento en pleno ejercicio de sus derechos, o mexicano por nacimiento con residencia mínima de 5 años en la entidad;
-
-II. Tener cuando menos treinta años cumplidos el día de la designación;
-
-III. Tener el grado de licenciatura expedido por la autoridad o institución legalmente facultada para ello, preferentemente y con experiencia en el ramo;
-
-IV. Haber observado buena conducta;
-
-V. No haber sido condenado por delito alguno que amerite pena corporal;
-
-VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso; y
-
-VII. Los demás requisitos que señale el reglamento del Instituto.
+Para ser titular del Instituto de la Policía Auxiliar y Protección Patrimonial, deberá reunir los requisitos que establece el artículo 7 de la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 15.
 
 El Instituto de la Policía Auxiliar y Protección Patrimonial, contará además con la siguiente estructura orgánica central, cuyos titulares serán propuestos por el propio Comisionado y aprobados por la Junta de Gobierno para el cumplimiento de sus atribuciones:
 
-Gerente de Comercialización de Servicios, y Atención a Usuarios;
+> <small>(F. DE E., G.O. 2 DE OCTUBRE DE 2008)</small>
 
-Gerente Operativo;
+Gerente de Comercialización de Servicios y Atención a Usuarios;
+
+(REFORMADO, G.O. 19 DE FEBRERO DE 2007) (F. DE E., G.O. 2 DE OCTUBRE DE 2008)
+
+Gerente de Operaciones;
 
 Gerente Jurídico y Consultivo;
 
@@ -263,7 +303,7 @@ Gerente de Administración;
 
 Gerente de Cobranza y Facturación;
 
-Gerente de Comercialización de Equipo y Tecnología
+Gerente de Comercialización de Equipo y Tecnología;
 
 Gerente de Informática, y
 
@@ -305,7 +345,9 @@ VI. Analizar y proponer alternativas de solución a los problemas inherentes a l
 
 VII. Aprobar el reglamento interior y los manuales de Organización; de Procedimientos; y de Atención al Público que le sean sometidos a su consideración por el Comisionado;
 
-VIII. Aprobar la estructura organizacional del Instituto y las modificaciones que procedan;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+VIII. Aprobar la estructura orgánica del Instituto y las modificaciones que procedan;
 
 IX. Promover ante las dependencias y organismos del Gobierno del Estado y de los Ayuntamientos, la participación del Instituto de Policía Auxiliar y Protección Patrimonial, en la prestación de los servicios de seguridad privada, a fin de que cumpla con su objetivo y logre su autosuficiencia;
 
@@ -315,15 +357,21 @@ XI. Aprobar de acuerdo con las leyes aplicables y las disposiciones de esta Ley,
 
 XII. Fijar y ajustar los precios de bienes y servicios que produzca o preste el Instituto;
 
-XIII. Establecer las normas y lineamientos generales para la adquisición y arrendamiento de inmuebles que el Instituto requiera para la prestación de sus servicios, con sujeción y sin oposición a las disposiciones legales relativas;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+XIII. Establecer las normas y lineamientos generales para la adquisición y arrendamiento de inmuebles que el instituto requiera para la prestación de sus servicios;
 
 XIV. Aprobar la concertación de los empréstitos para el financiamiento del Instituto, así como observar los lineamientos que dicte la Secretaría de Finanzas y Planeación y de conformidad al Código Financiero y a la Ley de Ingresos para el Estado de Veracruz;
 
-XV. Expedir las normas o lineamientos generales con base en los cuales, cuando fuere necesario, el Comisionado pueda disponer de los activos fijos del Instituto, en lo que no se oponga a las atribuciones que la Ley Orgánica de la Administración Pública del Estado le confiere a la Secretaria de Finanzas y Planeación;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+XV. Expedir las normas o lineamientos generales con base en los cuales, cuando fuere necesario, el Comisionado pueda disponer de los activos fijos del Instituto, en lo que no se oponga a las disposiciones legales aplicables;
 
 XVI. Analizar y aprobar en su caso, los informes periódicos que rinda el Comisionado;
 
-XVII. Acordar con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, atendiendo instrucciones de la Coordinadora del Sector correspondiente o del Ejecutivo Estatal;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+XVII. Acordar con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados;
 
 XVIII. Aprobar las normas y bases para cancelar adeudos con cargo a terceros y a favor del Instituto, cuando fuere incobrable, informando a la Secretaría de Finanzas y Planeación de las incidencias del caso, para su formalización correspondiente;
 
@@ -351,19 +399,25 @@ VI. Firmar los nombramientos de personal otorgados por la Junta de Gobierno;
 
 VII. Representar al Instituto de la Policía Auxiliar y Protección Patrimonial en el trámite de la licencia colectiva de uso de armas de fuego y explosivos;
 
-VIII. Ordenar la intervención del Instituto de la Policía Auxiliar y Protección Patrimonial en asuntos de Seguridad Pública que requieran de su auxilio; y
+VIII. (DEROGADA, G.O. 19 DE FEBRERO DE 2007)
 
 IX. Las demás que le confieran otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 21.
 
-El Comisionado tendrá las siguientes atribuciones:
+El Comisionado tendrá las siguientes facultades y obligaciones:
 
 I. Proponer prioridades sobre los asuntos de competencia del Organismo y cumplimentar los acuerdos de la Junta de Gobierno;
 
-II. Administrar los recursos asignados y los que se recauden por la prestación de los servicios que otorga el Instituto de la Policía Auxiliar y Protección Patrimonial;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
 
-III. Representar al Instituto de la Policía Auxiliar y Protección Patrimonial, con poder general amplísimo para pleitos y cobranzas, actos de administración y actos de dominio, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la ley, comprendiendo de manera enunciativa, pero no limitativa las siguientes: presentar querellas, desistirse de las mismas y del juicio de amparo; ocurrir ante toda clase de autoridades del trabajo; expedir, suscribir y avalar títulos de crédito; conferir poderes generales y especiales, así como revocarlos, todo ello con la amplitud que determinan los Artículos 2487 párrafos primero, segundo y tercero del Código Civil que rige en el Estado de Veracruz y 9º de la Ley General de Títulos y Operaciones de Crédito;
+II. Administrar los recursos del Instituto de la Policía Auxiliar y Protección Patrimonial;
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+III. Ejercer la representación legal del Instituto, con lo cual podrá realizar sin limitación alguna actos de dominio, administración, pleitos y cobranzas;
 
 IV. Nombrar y remover al personal del organismo, con base en el presupuesto autorizado y a las necesidades que se generen para el cumplimiento de sus objetivos, a excepción del primer nivel de funcionarios de la estructura orgánica que requerirán la aprobación de la Junta de Gobierno;
 
@@ -395,7 +449,9 @@ XVII. Instrumentar, con aprobación de la Junta de Gobierno, un programa de est�
 
 XVIII. Llevar un registro de identificación del personal del Instituto, de conformidad con los que establezca el Consejo Estatal de Seguridad Pública y la legislación aplicable;
 
-XIX. Diseñar y coordinar programas que permitan efectuar el seguimiento a los acuerdos celebrados con autoridades y personas físicas y morales;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+XIX. Diseñar, coordinar y ejecutar programas que permitan efectuar el seguimiento a los acuerdos celebrados con autoridades y personas físicas y morales;
 
 XX. Coordinar el registro, vigilancia y control de los servicios que presta y los bienes que comercializa el Instituto;
 
@@ -403,13 +459,31 @@ XXI. Realizar la supervisión y ejecución de los programas académicos y de pro
 
 XXII. Atender los informes que en materia de Control y Auditoria le sean turnados y vigilar la implementación de medidas correctivas a que hubiere lugar; asimismo, proporcionar al comisario, la información y documentación que requiera para el debido cumplimiento de sus funciones;
 
-XXIII. Establecer una política permanente de las condiciones labores y de calidad de vida del personal del Instituto incluyendo la mejora de sus prestaciones, créditos habitacionales, becas educativas y otras prestaciones, así como para sus ascendientes y descendientes;
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+XXIII. establecer una política permanente de mejora a las condiciones laborales y de calidad de vida del personal del Instituto, incluyendo a sus prestaciones;
 
 XXIV. Representar al Instituto en los gabinetes especializados, en las reuniones y actos jurídicos vinculados con sus competencias;
 
-XXV. Presentar informe anual al Secretario de Seguridad Pública y al Congreso del Estado acerca del ejercicio de los ingresos y egresos del Instituto; y
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
 
-XXVI. Las demás que le confieran otras disposiciones legales aplicables.
+XXV. Presentar informe anual al Secretario de Seguridad Pública y al Congreso del Estado acerca del ejercicio de los ingresos y egresos del Instituto dentro de los 20 días hábiles siguientes al término de cada ejercicio;
+
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+XXVI. Suscribir contratos y convenios de prestación de servicios con las personas físicas y morales que soliciten del servicio,
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+XXVII. Firmar acuerdos delegatorios sobre sus facultades reservadas, previa autorización de la Junta de Gobierno;
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+XXVIII. Imponer sanciones al personal administrativo y operativo por faltas, acciones u omisiones cometidas en el desempeño de sus funciones que sean determinadas por el Instituto o por cualquier autoridad legalmente facultada; y
+
+> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+XXIX. Las demás que le confieran otras disposiciones legales aplicables.
 
 ###### Artículo 22.
 
@@ -425,7 +499,9 @@ IV. Cuidar el correcto ejercicio presupuestal del organismo;
 
 V. Vigilar el cumplimiento de la legalidad y normatividad aplicable, así como de los acuerdos tomados por la Junta;
 
-VI. Dar trámite a las quejas y denuncias sobre la operación del Instituto y su personal; y
+> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2007)</small>
+
+VI. Dar trámite a las quejas y denuncias referentes a la administración del Instituto y a la actuación de su personal; y
 
 VII. Las demás que le confieran otras disposiciones legales.
 
@@ -435,9 +511,11 @@ VII. Las demás que le confieran otras disposiciones legales.
 
 Con el propósito de que las actividades del Instituto de Policía Auxiliar y Protección Patrimonial, se realicen en forma concertada y eficaz, éste deberá coordinarse con todas las dependencias y entidades afines de la federación, del estado y los municipios, así como con las instituciones y organizaciones sociales y privadas.
 
+> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 24.
 
-El Comisionado procurará la congruencia entre los programas del organismo y los relativos a la materia; así como los planes de los municipios de la entidad y demás disposiciones establecidas en la Ley de Planeación, en la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, así como, en la Ley de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave y demás ordenamientos legales aplicables.
+El Instituto en el diseño e instrumentación de sus programas se apegará a las políticas que sobre la materia se establezcan en el ámbito Federal, Estatal y Municipal.
 
 ## TRANSITORIOS
 
@@ -462,3 +540,11 @@ A t e n t a m e n t e
 "Sufragio efectivo. No reelección".
 
 Licenciado Fidel Herrera Beltrán, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 19 DE FEBRERO DE 2007.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
