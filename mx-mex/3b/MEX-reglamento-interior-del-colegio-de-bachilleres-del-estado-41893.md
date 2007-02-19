@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-colegio-de-bachilleres-del-estado-41893
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-17"
-last_updated: "2004-11-17"
+last_updated: "2007-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE FEBRERO DE 2007.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 17 de noviembre de 2004.
 
@@ -71,9 +71,11 @@ II. El Director General.
 
 ### CAPITULO II. DE LA JUNTA DIRECTIVA
 
+> <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 6.
 
-La Junta Directiva es el órgano de gobierno del Colegio, sus determinaciones serán obligatorias para el personal de las unidades administrativas y planteles educativos del Organismo.
+La Junta Directiva es el órgano de gobierno del Colegio, sus determinaciones serán obligatorias para el personal de las unidades administrativas de este Organismo.
 
 ###### Artículo 7.
 
@@ -133,7 +135,13 @@ V. Unidad de Difusión, Extensión y Vinculación.
 
 VI. Planteles Educativos.
 
-VII. Contraloría Interna.
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+VII. Centros de Educación Media Superior a Distancia.
+
+> <small>(ADICIONADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+VIII. Contraloría Interna.
 
 El Colegio contará con las demás unidades administrativas que le sean autorizadas cuyas funciones y líneas de autoridad se establecerán en el manual general de organización del Organismo; asimismo, contará con los servidores públicos y órganos auxiliares necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivo.
 
@@ -183,29 +191,49 @@ Corresponde a la Dirección de Planeación y Evaluación Institucional:
 
 I. Elaborar el Programa de Desarrollo Institucional del Colegio.
 
-II. Integrar el Programa Anual de Trabajo del Colegio, con la participación que corresponda a los titulares de las demás unidades administrativas y a los directores de plantel.
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+II. Integrar el Programa Anual de Trabajo del Colegio, con la participación que corresponda a los titulares de las diferentes unidades administrativas.
 
 III. Asesorar al personal del Colegio que lo requiera, en la elaboración, seguimiento y evaluación de sus programas de trabajo.
 
-IV. Realizar estudios de factibilidad para determinar la apertura de nuevos planteles del Colegio.
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
 
-V. Promover la construcción de nuevos planteles y el equipamiento de los existentes, realizando el seguimiento respectivo.
+IV. Realizar estudios de factibilidad para determinar la apertura de nuevos planteles y Centros de Educación Media Superior a Distancia del Colegio.
 
-VI. Proponer criterios y lineamientos para la planeación, organización, control y evaluación de las funciones a cargo de las unidades administrativas y planteles del Colegio.
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
 
-VII. Elaborar con la unidad administrativa correspondiente, los programas académicos y de trabajo de los planteles del Colegio y coadyuvar en su revisión y actualización.
+V. Promover la construcción de nuevos planteles educativos y Centros de Educación Media Superior a Distancia, así como el equipamiento de los existentes y realizar el seguimiento respectivo.
+
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+VI. Proponer criterios y lineamientos para la planeación, organización, control y evaluación de las funciones a cargo de las unidades administrativas del Colegio.
+
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+VII. Elaborar con la unidad administrativa correspondiente del Colegio, los programas de trabajo de los planteles educativos y de los Centros de Educación Media Superior a Distancia del Colegio, y coadyuvar en su revisión y actualización.
 
 VIII. Integrar, operar y mantener actualizado el sistema de información estadística del Colegio.
 
-IX. Participar en la evaluación del personal docente del Colegio y proponer políticas académicas al respecto.
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
 
-X. Las demás que le señalen otras disposiciones legales y aquellas que le establezca el Director General.
+IX. Participar en el programa de evaluación del desempeño del personal docente del Colegio.
+
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+X. Elaborar e implementar los instrumentos de evaluación para su aplicación en las diferentes unidades administrativas del Colegio.
+
+> <small>(ADICIONADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+XI. Las demás que le señalen otras disposiciones legales y aquellas que le establezca el Director General.
 
 ###### Artículo 14.
 
 Corresponde a la Dirección Académica:
 
-I. Coordinar la aplicación del plan y los programas de estudio, evaluación educativa, métodos y materiales didácticos en los planteles del Colegio.
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+I. Coordinar la aplicación del plan y los programas de estudio, evaluación educativa, métodos y materiales didácticos en los planteles educativos y Centros de Educación Media Superior a Distancia del Colegio.
 
 II. Proponer modificaciones al plan y programas de estudio.
 
@@ -221,7 +249,17 @@ VII. Verificar la selección, adquisición y suministro del material pedagógico
 
 VIII. Vigilar la aplicación de la normatividad académica vigente.
 
-IX. Las demás que le confieran otras disposiciones legales y aquellas que le establezca el Director General.
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+IX. Elaborar con la unidad administrativa correspondiente los programas académicos de los planteles educativos y de los Centros de Educación Media Superior a Distancia del Colegio, y coadyuvar en su revisión y actualización.
+
+> <small>(ADICIONADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+X. Proponer al Director General las políticas académicas referentes a la evaluación del personal docente y de asesores por campo del conocimiento del Colegio.
+
+> <small>(ADICIONADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+XI. Las demás que le confieran otras disposiciones legales y aquellas que le establezca el Director General.
 
 ###### Artículo 15.
 
@@ -247,11 +285,19 @@ IX. Mantener actualizado el inventario de los bienes muebles e inmuebles y valor
 
 X. Administrar y asegurar la conservación y el mantenimiento del patrimonio del Colegio.
 
-XI. Desarrollar los sistemas informáticos que requieran las unidades administrativas y planteles del Colegio.
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+XI. Coordinar y administrar las tecnologías de información y telecomunicaciones de las unidades administrativas del Colegio.
 
 XII. Integrar, con la participación que corresponda a las demás unidades administrativas del Colegio, los manuales administrativos y someterlos a la consideración del Director General.
 
-XIII. Las demás que le confieran otras disposiciones legales y aquellas que le establezca el Director General.
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+XIII. Promover y coordinar la ejecución de programas y acciones orientadas a la modernización administrativa, mejora regulatoria y gestión de la calidad del Colegio.
+
+> <small>(ADICIONADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+XIV. Las demás que le confieran otras disposiciones legales y aquellas que le establezca el Director General.
 
 ###### Artículo 16.
 
@@ -263,15 +309,21 @@ II. Atender en el ámbito de su competencia, los juicios en los que el Colegio s
 
 III. Representar formalmente al Colegio en los asuntos jurisdiccionales, con los poderes específicos que le otorgue el Director General.
 
-IV. Gestionar la regularización de la tenencia y propiedad o posesión de los inmuebles donde se encuentran ubicados los planteles educativos del Colegio.
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
 
-V. Vigilar la legalidad de los actos jurídicos, administrativos, fiscales y catastrales de los inmuebles de los planteles educativos.
+IV. Gestionar la regularización de la tenencia y propiedad o posesión de los inmuebles donde se encuentran ubicados los planteles educativos y los Centros de Educación Media Superior a Distancia del Colegio.
+
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+V. Vigilar la legalidad de los actos jurídicos, administrativos, fiscales y catastrales de los inmuebles de los planteles educativos y Centros de Educación Media Superior a Distancia del Colegio.
 
 VI. Elaborar los contratos en donde el Colegio intervenga como parte contratante.
 
 VII. Elaborar convenios de colaboración con instituciones, sectores productivos, académicos o de cualquier otra índole que pretenda suscribir el Colegio.
 
-VIII. Brindar asesoría legal, jurídica y, en su caso, administrativa a los titulares de las unidades administrativas y planteles educativos del Colegio.
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+VIII. Brindar asesoría legal, jurídica y de legislación a los titulares de las unidades administrativas del Colegio.
 
 IX. Realizar aquellas actividades y actos de cualquier naturaleza, en cumplimiento de sus facultades legales, jurídicas y administrativas.
 
@@ -299,69 +351,85 @@ VIII. Fortalecer en los educandos una identidad con el Colegio y una conciencia 
 
 IX. Las demás que le señalen otros ordenamientos legales y las que le establezca el Director General.
 
+> <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 18.
 
 Corresponde a la Contraloría Interna:
 
-I. Vigilar el cumplimiento de los programas y subprogramas de las unidades administrativas del Organismo y elaborar los reportes correspondientes.
+I. Vigilar y supervisar el cumplimiento de los programas, subprogramas y proyectos de las unidades administrativas del Organismo y elaborar los reportes correspondientes.
 
-II. Vigilar el cumplimiento de las disposiciones en materia de racionalidad, austeridad y disciplina presupuestaria que fija la normatividad aplicable.
+II. Verificar el adecuado ejercicio del presupuesto de egresos otorgado al Colegio en congruencia con el avance programático, atendiendo a los principios en materia de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable.
 
-III. Realizar las acciones de control y evaluación a las unidades administrativas del Organismo, tendientes a verificar el cumplimiento de los objetivos, metas, normas y disposiciones relacionadas con los sistemas de registro y contabilidad, contratación y pago de personal; contratación de servicios, obra pública; programas de inversión, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales asignados al Colegio.
+III. Iniciar, tramitar y resolver los procedimientos administrativos, disciplinarios y resarcitorios y, en su caso, imponer las sanciones que correspondan, así como recibir, tramitar y resolver las quejas y denuncias que se interpongan en contra de los servidores públicos del Colegio por probable responsabilidad administrativa, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-IV. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este Órgano de Control Interno y remitirlos a la Dirección General de Responsabilidades y Situación Patrimonial, para su instrucción y resolución.
+IV. Realizar supervisiones, revisiones, auditorías y demás acciones de control y evaluación a las unidades administrativas del Colegio, tendientes a verificar su desempeño institucional y el cumplimiento de los objetivos, normas y disposiciones que regulan la prestación del servicio encomendado, así como las relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales asignados al Colegio y dar seguimiento a la atención de las observaciones derivadas de tales acciones.
 
-V. Ordenar que se presenten las denuncias correspondientes y/o dar vista al ministerio público cuando el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa, o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos del Organismo.
+V. Recibir y tramitar los recursos administrativos de inconformidad, que se promuevan en contra de los actos y resoluciones que emita este órgano de control interno y remitirlos a la Secretaría de la Contraloría para su instrucción y resolución.
 
-VI. Verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos del Colegio, sujetos a esta obligación.
+VI. Ordenar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa, o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos adscritos al Colegio.
 
-VII. Proponer al Director General la aplicación de normas complementarias en materia de control.
+VII. Realizar el seguimiento a la presentación de las declaraciones de situación patrimonial de los servidores públicos del Colegio, sujetos a esta obligación conforme a los registros emitidos por la Secretaría de la Contraloría.
 
-VIII. Difundir entre el personal del Colegio toda disposición en materia de control que incida en el desarrollo de sus labores.
+VIII. Participar en los procesos de entrega y recepción de las unidades administrativas del Colegio, verificando su apego a la normatividad aplicable.
 
-IX. Promover el control preventivo en el desarrollo de los programas, proyectos y acciones del Colegio.
+IX. Proponer al Director General la aplicación de normas complementarias en materia de control.
 
-X. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende la Secretaría de la Contraloría.
+X. Promover el control preventivo en el desarrollo de los programas, proyectos y acciones del Colegio.
 
-### CAPITULO VI. DE LOS PLANTELES EDUCATIVOS DEL COLEGIO
+XI. Difundir entre el personal del Colegio toda disposición en materia de control que incida en el desarrollo de sus labores.
+
+XII. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario de la Contraloría.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 19 DE FEBRERO DE 2007)</small>
+
+### CAPITULO VI. DE LOS PLANTELES EDUCATIVOS Y CENTROS DE EDUCACION MEDIA SUPERIOR A DISTANCIA
+
+> <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 19.
 
-Para la atención y despacho de los asuntos de su competencia, el Colegio contará con el número de planteles educativos que señale su estructura de organización autorizada, los cuales ejecutarán los planes y programas de estudio de su competencia.
+Para la atención y despacho de los asuntos de su competencia, el Colegio contará con los planteles educativos y Centros de Educación Media Superior a Distancia, que señale su estructura de organización autorizada, los cuales ejecutarán los planes y programas de estudio de su competencia.
 
-Para la atención de los asuntos a su cargo, los planteles educativos se auxiliarán de una subdirección administrativa y una subdirección académica.
+Para la atención de los asuntos a su cargo, los planteles educativos podrán auxiliarse de una subdirección administrativa y una subdirección académica.
+
+La organización y funcionamiento de los Centros de Educación Media Superior a Distancia se determinará en el Reglamento que se expida al respecto.
+
+> <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 20.
 
-Al frente de cada plantel habrá un Director, quien se auxiliará de las áreas administrativas y académicas que le sean autorizadas.
+Al frente de cada plantel educativo y Centro de Educación Media Superior a Distancia habrá un director y un coordinador, respectivamente, quienes se auxiliarán de las áreas administrativas y académicas que les sean autorizadas.
+
+> <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 21.
 
-Corresponde a los directores de los planteles:
+Corresponde a los directores de los planteles educativos y coordinadores de los Centros de Educación Media Superior a Distancia:
 
-I. Coordinar y vigilar el cumplimiento de las actividades del plantel a su cargo.
+I. Coordinar y vigilar el cumplimiento de las actividades de la unidad administrativa a su cargo.
 
-II. Representar al Colegio en los asuntos que les encomiende el Director General y asistir a las sesiones de trabajo convocadas por las autoridades del Organismo.
+II. Representar a la unidad administrativa a su cargo, en los asuntos que le encomiende el Director General y asistir a las sesiones de trabajo convocadas por las autoridades del Colegio.
 
-III. Vigilar el adecuado funcionamiento académico y administrativo del plantel a su cargo.
+III. Vigilar el adecuado funcionamiento académico y administrativo de la unidad administrativa a su cargo.
 
-IV. Integrar y someter a consideración del Director General, la planta docente del plantel a su cargo que deberá cubrir el semestre respectivo.
+IV. Integrar y someter a consideración del Director General, la planta docente o de asesores por campo de conocimiento de la unidad administrativa a su cargo, que deberán cubrir el semestre respectivo.
 
-V. Evaluar al personal docente del plantel a su cargo, y diseñar y definir políticas académicas al respecto.
+V. Evaluar al personal docente o asesores por campo de conocimiento de la unidad administrativa a su cargo, así como diseñar y definir políticas académicas al respecto.
 
 VI. Operar los planes y programas de estudio que autorice la Junta Directiva y realizar las evaluaciones correspondientes.
 
-VII. Acordar con el Director General los asuntos del plantel a su cargo que requieran de su intervención.
+VII. Acordar con el Director General los asuntos de la unidad administrativa a su cargo, que requieran de su intervención.
 
-VIII. Elaborar el programa anual de trabajo del plantel a su cargo y reportar bimestralmente los avances al Director General.
+VIII. Elaborar el programa anual de trabajo de la unidad administrativa a su cargo y reportar bimestralmente los avances al Director General.
 
-IX. Expedir los certificados de estudios a través del Departamento de Control Escolar del Colegio, de los alumnos que estudien en el plantel a su cargo.
+IX. Expedir, a través del Departamento de Control Escolar del Colegio, los certificados de estudios parciales o totales de los alumnos que hayan aprobado las asignaturas correspondientes o que acrediten el plan de estudios de acuerdo con la normatividad vigente.
 
-X. Formular los dictámenes, opiniones e informes que les solicite el Director General.
+X. Formular los dictámenes, opiniones e informes que les solicite el Director General o los que les correspondan en razón de sus atribuciones.
 
-XI. Promover la constitución del Patronato del Plantel a su cargo.
+XI. Promover la constitución del patronato del plantel educativo a su cargo.
 
-XII. Fomentar la realización de actividades académicas, artísticas, culturales, deportivas y recreativas, para el cuidado de la salud, que promuevan la formación integral de los estudiantes.
+XII. Fomentar la realización de actividades académicas, artísticas, culturales, deportivas, recreativas y de fomento al cuidado de la salud, que promuevan la formación integral de los estudiantes.
 
 XIII. Las demás que les señalen otras disposiciones legales y aquellas que les establezca el Director General.
 
@@ -391,7 +459,9 @@ El cargo de miembro del Consejo Consultivo Académico será honorífico, teniend
 
 Corresponde al Consejo Consultivo Académico las funciones siguientes:
 
-I. Dictaminar los proyectos académicos presentados a la Junta Directiva y los que ésta le proponga, sometiéndolos a la consideración de la Secretaría de Educación, Cultura y Bienestar Social, a través del Director General.
+> <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2007)</small>
+
+I. Dictaminar los proyectos académicos presentados a la Junta Directiva y las que ésta le proponga, sometiéndolos a la consideración de la Secretaría de Educación, a través del Director General.
 
 II. Supervisar que el Colegio cumpla con el plan y programas de estudio aprobados por las autoridades educativas.
 
@@ -423,9 +493,11 @@ Para que el Consejo Consultivo Académico pueda sesionar, será necesaria la asi
 
 El Director General será suplido en sus ausencias temporales y definitivas de conformidad con lo establecido por la Ley.
 
+> <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 30.
 
-Los directores de área y de plantel serán suplidos en sus ausencias hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Director General.
+Los directores de área y de plantel educativo, así como los coordinadores de los Centros de Educación Media Superior a Distancia, serán suplidos en sus ausencias hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Director General.
 
 T R A N S I T O R I O S
 
@@ -448,3 +520,13 @@ LIC. MISAEL ROMERO ANDRADE
 DIRECTOR GENERAL DEL COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 19 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
