@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2006-04-24"
+last_updated: "2007-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,13 +25,9 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2007.
 
-Código publicado en el Periódico Oficial del estado de Aguascalientes, el 18 de abril de 2005.
-
-GOBIERNO DEL ESTADO
-
-CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGS.
+Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
 EDUARDO C. TORRES CAMPOS, Presidente Municipal de Pabellón de Arteaga, Aguascalientes, en cumplimiento a lo preceptuado por la fracción I del artículo 38 de la Ley Municipal del Estado de Aguascalientes, a los habitantes del Municipio hace saber:
 
@@ -77,8 +73,6 @@ Consideramos que ha llegado el momento de que la Administración Pública de Pab
 
 Por lo que se tiene a bien expedir el siguiente
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL ACUERDO APROBADO POR EL H. AYUNTAMIENTO DE PABELLÓN DE ARTEGA, MEDIANTE EL CUAL SE ADICIONAN, DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO, SE MODIFICA DE MANERA SUSTANCIAL EL TEXTO DEL MISMO, Y SI BIEN ES CIERTO, DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, SE PUBLICA UN TEXTO DIFERENTE, MOTIVO POR EL CUAL SE PRESENTA EL TEXTO PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 2006.</small>
-
 CODIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
@@ -93,11 +87,11 @@ CODIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
 ### CAPITULO PRIMERO. De los Fines del Municipio
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 1º.
 
-Las disposiciones del presente Código son de orden público e interés social y reglamentarias del Artículo 115, fracción II de la Constitución Política de los Estados Unidos Mexicanos, de los artículos 66, 67, 68, 69, 70, 71 y 72 de la Constitución Política del Estado de Aguascalientes, de los artículos 1, 89, 90, 91, 92, 93, 94 y demás relativos de la Ley Municipal del Estado de Aguascalientes, así como de las demás leyes que regulan la actividad municipal.
+Las disposiciones del presente Código son de orden público e interés general, de aplicación en todo el territorio del Municipio de Pabellón de Arteaga y obligatorias tanto para los ciudadanos que en él tengan su domicilio, como para los que estén de paso; y reglamentarias del Artículo 115, fracción II de la Constitución Política de los Estados Unidos Mexicanos, de los Artículos 66, 67, 68, 69, 70, 71 y 72 de la Constitución Política del Estado de Aguascalientes, de los artículos 1°, 89, 90, 91, 92, 93, 94 y demás relativos de la Ley Municipal del Estado de Aguascalientes, así como de las demás leyes que regulan la actividad municipal.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -475,9 +469,41 @@ XXXI.- Solicitar en términos de la Ley aplicable la expropiación de bienes por
 
 XXXII.- Acordar la categoría y denominación política que les corresponda a las localidades o centros de población;
 
-XXXIII.- Nombrar al titular de la Policía Preventiva Municipal y Tránsito; y
+XXXIII.- Nombrar al titular de la Policía Preventiva Municipal y Tránsito; y (sic)
 
-XXXIV.- Las demás que le confieran la Constitución General de la República, la particular del Estado, la Ley Municipal del Estado, el presente Código y otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+XXXIV.- Proponer la expedición de lineamientos y criterios en materia de generación, recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento, estaciones de transferencia, centros de confinamiento temporal y disposición final de residuos sólidos no peligrosos que se pudieran generar;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+XXXV.- Realizar la recolección y transporte de los residuos sólidos municipales del Municipio a su destino final;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+XXXVI.- Obtener el aprovechamiento de los residuos sólidos municipales;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+XXXVII.- La práctica de rellenos sanitarios, composteo o industrialización en su caso;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+XXXVIII.- Coadyuvar en la preservación del ecosistema;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+XXXIX.- Proveer el aseo y saneamiento del Municipio;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+XL.- Propiciar la cooperación ciudadana para la limpieza de los centros de población del municipio;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+XLI.- Inspección, vigilar y establecer medidas de seguridad y sanciones administrativas para garantizar el cumplimiento del presente Código;
+
+XLII.- Las demás que le confieran la Constitución general de la república, la particular del Estado, la Ley Municipal del Estado, el presente Código y otras disposiciones legales.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2357,51 +2383,99 @@ VI.- En tanto el Ayuntamiento realiza la designación del Secretario del H. Ayun
 
 VII.- Tratándose de sesiones de Cabildo, fungirá como Secretario el funcionario que sea habilitado para tal efecto por el propio Ayuntamiento, para cada sesión.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 206.
 
-Son obligaciones de los titulares de las unidades administrativas las siguientes:
+Son facultades de los titulares de las unidades administrativas las siguientes:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las labores encomendadas a las áreas que integran la unidad administrativa a su cargo;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Acordar con el Presidente Municipal la resolución de los asuntos cuya tramitación se encuentre dentro de la competencia de la unidad administrativa a su cargo;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Formular dictámenes, opiniones e informes a solicitud del Presidente Municipal o de los presidentes de las comisiones del H. Ayuntamiento;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Formular los proyectos de planes y programas que les correspondan de acuerdo a los lineamientos y directrices que les señale el Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Firmar y ordenar la comunicación de los acuerdos de trámite o resoluciones que emitan con fundamento en las facultades que les correspondan;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- Intervenir en la selección para el ingreso y promoción del personal a su cargo;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VII.- Asesorar técnicamente, en los asuntos de su especialidad a los demás funcionarios de la administración pública municipal y a los miembros del H. Ayuntamiento;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VIII.- Proponer la creación, modificación, reorganización, fusión o desaparición de áreas administrativas de su unidad;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IX.- Coordinarse con los titulares de las otras unidades administrativas cuando así se requiera, para el mejor cumplimiento de los planes y programas del municipio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 X.- Resolver los recursos administrativos que se interpongan, cuando legalmente procedan y sean de su competencia;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XI.- Recibir en acuerdo ordinario o extraordinario a sus subordinados, directores, subdirectores jefes de departamento u oficina, así como al personal de apoyo, conforme a los manuales de organización y procedimientos;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XII.- Proporcionar la información y en su caso la cooperación técnica que les sea requerida por las otras unidades administrativas, de acuerdo con las políticas establecidas al respecto;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIII.- Vigilar que se cumpla estrictamente con las disposiciones legales y administrativas en todos los asuntos a ellos asignados;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XIV.- Dictar las medidas necesarias de mejoramiento administrativo de las unidades a ellos adscritas;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XV.- Elaborar los manuales de organización, acuerdos, circulares y demás disposiciones que tiendan a regular el funcionamiento de sus unidades administrativas;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XVI.- Formular los anteproyectos de leyes, reglamentos y acuerdos, así como opinar sobre los ya existentes que correspondan a sus respectivas áreas y materias y remitirlos al Presidente Municipal para los efectos procedentes;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XVII.- Constatar periódicamente que el inventario de los bienes que se encuentran bajo su responsabilidad o resguardo, corresponde a los registros, notificando al Departamento de Control Patrimonial en caso de faltantes o deterioro para los efectos conducentes;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XVIII.- Rendir anualmente un informe al Presidente Municipal sobre las actividades realizadas por la unidad administrativa a su cargo, señalando en él si se cumplieron los objetivos y las metas propuestas en el programa de trabajo y analizando las causas de los resultados;
 
-XIX.- Presentar su declaración de situación patrimonial, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado; y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-XX.- Las demás que le confieran otros ordenamientos legales o les sean encomendadas por el Presidente Municipal.
+XIX.- Presentar su declaración de situación patrimonial, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado; y (sic)
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+XX.- Ordenar las visitas de inspección o verificación en la (sic) materias de su competencia; cuando se incurra en violaciones a los preceptos de la Ley y el presente Código e imponer las sanciones correspondientes;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+XXI.- Las demás que les confieran otros ordenamientos legales o les sean encomendadas por el Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXII.- Las demás que le confieran otros ordenamientos legales o les sean encomendadas por el Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2925,7 +2999,41 @@ IV.- Mantener, de manera subsidiaria, la limpieza de calles, avenidas y lotes ba
 
 V.- Conservar la limpieza, de los bienes municipales y realizar los servicios de intendencia en los edificios públicos municipales;
 
-VI.- Realizar el servicio de limpia y recolección de desechos sólidos domésticos, dentro del Municipio de Pabellón de Arteaga, Ags.;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+VI.- Administrar el servicio de limpia, recolección traslado, tratamiento y disposición final de residuos, dentro del Municipio de Pabellón de Arteaga, Ags., para lo cual deberá:
+
+a) Formular por sí o en coordinación con el estado, y con la participación de representantes de los distintos sectores sociales, el “Programa Municipal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos”;
+
+b) Proponer el personal necesario para atender eficientemente las necesidades del servicio de limpia, recolección, traslado, tratamiento y disposición final de residuos.
+
+c) Establecer los horarios de prestación del servicio, así como los turnos del personal encargado del mismo;
+
+d) Determinar las instalaciones de los centros de acopio en sitios específicos para ser recolectados por los vehículos destinados para tal efecto;
+
+e) Determinar las acciones necesarias para mantener la limpieza en toda circunscripción municipal y eliminar cualquier foco de proliferación de plagas y fauna nociva;
+
+f) Buscar lugares adecuados para instalar y operar rellenos sanitarios, cuando considere necesario, verificando dado el caso que funcionen adecuadamente;
+
+g) Mantener una estricta vigilancia en coordinación con la Dirección de la Unidad administrativa Municipal de Ecología para detectar y evitar la presencia de basureros clandestinos y proceder contra quien resulte responsable. Los responsables de tales sitios estarán obligados a llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones naturales del suelo y/o reparar los daños. Siendo responsables solidarios tanto el generador como el prestador de servicios que maneja los residuos;
+
+h) Mantener una estricta vigilancia en coordinación con la Dirección de Seguridad Pública y Vialidad, el Departamento de Ecología y las autoridades involucradas a fin de detectar y/o evitar que se tire basura en la vía pública por ciudadanos;
+
+i) Coordinarse con las autoridades federales y estatales involucradas en el saneamiento y mejoramiento del medio ambiente, con el propósito de coadyuvar en el funcionamiento de dichas dependencias dentro del municipio;
+
+j) Administrar y operar el programa de reciclamiento de residuos sólidos, si lo hay, con objeto de optimizar el aprovechamiento del material reciclable apoyándose en los programas de difusión del reciclaje de residuos sólidos que implemente el Departamento de Ecología ante los diferentes medios de comunicación y/o educativos;
+
+k) Atender las quejas que se presenten en relación al servicio público de limpia y dictar medidas técnicas necesarias para que se resuelvan a la brevedad posible;
+
+l) Mantener informado al Ayuntamiento de cualquier circunstancia especial que altere el funcionamiento del servicio;
+
+m) Tener bajo su responsabilidad el control, manejo y distribución del equipo mecánico, mobiliario de recepción y todos los destinados al aseo público;
+
+n) Informar a los habitantes de cada zona sobre los horarios, días y condiciones de recolección;
+
+ñ) Establecer los horarios de recolección de residuos sólidos, así como los días, lugares y condiciones;
+
+o) Verificar que el personal de los vehículos recolectores traten al público con toda corrección;
 
 VII.- Establecer a los particulares los horarios, días, lugares y condiciones en los que podrá depositar los residuos sólidos;
 
@@ -5447,27 +5555,61 @@ En caso de comercializar otras especies deberá comprobar su adaptación a las c
 
 Bajo líneas de alta tensión, sólo deberán plantarse árboles de poca altura, arbustos y herbáceas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE FEBRERO DE 2007)</small>
 
-### CAPITULO TERCERO. De la Limpia y Aseo Público
+### CAPITULO TERCERO. De la Limpia, Recolección, Traslado, Tratamiento y Disposición Final de Residuos
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 473.
 
-El servicio de limpia y recolección de basura constituye un servicio público municipal, cuya prestación será realizada directamente por el H. Ayuntamiento a través de la Dirección de Planeación, Obras y Servicios Públicos.
+El Servicio de limpia, recolección, traslado, tratamiento y disposición final de residuos constituye un servicio público municipal; cuya prestación será realizada directamente por el H. Ayuntamiento a través de la Dirección de Planeación, Obras y Servicios Públicos por medio de su Departamento de Servicios Públicos.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+Para cumplir lo establecido en el presente capítulo, el Departamento de Servicios Públicos, se coordinará con las autoridades sanitarias municipales, la Subdirección de Planeación y Desarrollo Urbano, el Instituto de Medio Ambiente y la Procuraduría de Protección al Ambiente en el Estado, Procuraduría Federal de Protección al Medio Ambiente, organizaciones sociales y particulares en general, para celebrar convenios de concertación, mismos que serán publicados por el H. Ayuntamiento.
+
+La limpieza física y la sanidad municipal son responsabilidad tanto del Ayuntamiento, como de los ciudadanos, mismos que tendrán la obligación de colaborar en la conservación y mantenimiento del aseo público del municipio, así como de dar cumplimiento a las normas de la materia previstas en el presente Código.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 474.
 
-El servicio de limpia y recolección de desechos sólidos domésticos comprende:
+Se entiende por Servicio de Limpia: la recolección, manejo, tratamiento y disposición final de los desechos orgánicos e inorgánicos, a cargo del Ayuntamiento y comprende:
 
-I.- Barrido del sector centro, incluyendo plazas, calzadas, jardines y parques públicos;
+I.- Limpieza de calles, avenidas, plazas, banquetas, predios, parques públicos, jardines municipales y las áreas que la autoridad a su juicio crea conveniente, incluyendo el barrido del sector centro, incluyendo plazas, calzadas, jardines y parques públicos.
 
-II.- Recolección de desechos domésticos depositados en los contenedores colocados en la vía pública; y
+II.- Recolección de residuos sólidos orgánicos de las casas habitación, de residuos sólidos inorgánicos clasificados, en vías, sitios públicos, comercio inmediato y de servicios, depositados en los contenedores colocados en la vía pública;
 
-III.- Transporte de los desechos sólidos a los sitios fijados por el H. Ayuntamiento para su disposición final.
+III.- Recolección de transporte de residuos sólidos inorgánicos clasificados provenientes de los centros de acopio;
+
+IV.- Recolección de residuos sólidos totales debidamente clasificados de aquellas zonas en las que aún no existieran centros de acopio establecidos;
+
+V.- Colocación de contenedores y otros accesorios de aseo en los lugares necesarios;
+
+VI.- Transportación y disposición final de animales encontrados en la vía pública del interior de los centros de población;
+
+VII.- El transporte y depósito de residuos sólidos a los sitios de disposición final que establezca el Ayuntamiento;
+
+VIII.- La práctica y uso del relleno sanitario cuando sea necesario o pertinente a juicio del Ayuntamiento;
+
+IX.- Son de propiedad del municipio los residuos recolectados por el Servicio de Limpia y aseo Público o particulares a través de convenios o concesiones para su aprovechamiento, o en su caso, industrialización y/o procesamiento posterior por parte del Ayuntamiento, o por quien éste disponga; los que por su naturaleza o inadecuado manejo deben tener otro destino;
+
+X.- Lavado de calles, avenidas y camellones cuando fuese necesario, y
+
+XI.- Manejo y transportación de los residuos sólidos y residuos de manejo especial que generan los comercios e industrias quienes se sujetan al pago de un derecho.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+ARTICULO 474 BIS.- La regulación por parte del presente Código del servicio de limpia, recolección, traslado, tratamiento y disposición final de residuos, tiene por objeto:
+
+I.- Establecer las acciones de limpia a cargo del Gobierno Municipal, incluyendo medidas preventivas sobre la materia, a efecto de lograr el aseo y saneamiento del Municipio;
+
+II.- Establecer los derechos y las obligaciones en materia de limpieza a cargo de las personas físicas o morales o Instituciones públicas o privadas;
+
+III.- Proporcionar al gobierno municipal los medios materiales y legales para ejercer las acciones de limpieza y sanidad, previstos en este Código;
+
+IV.- Fijar derechos y obligaciones para la ciudadanía en general en materia de aseo Público y generación de residuos sólidos. Señalar los estímulos para quienes coadyuven directa o indirectamente en las campañas de aseo público o en las acciones que disponga el Ayuntamiento; y
+
+V.- Establecer las disposiciones relativas al aseo en restaurantes, hospitales, mercados, terminales de autobuses, gasolineras, establecimientos industriales y perímetros ocupados por puestos comerciales y de servicios.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -5481,53 +5623,191 @@ II.- En los condominios habitacionales, comerciales, industriales o de servicio;
 
 III.- Las industrias, comercios u oficinas de prestadores de servicios; y
 
-IV.- Los organismos públicos descentralizados de la administración pública federal y estatal.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+IV.- Los organismos públicos descentralizados de la Administración Pública Federal y Estatal.
 
-###### ARTICULO 476.
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 Cualquier persona ubicada en la hipótesis del artículo anterior, podrá celebrar convenio con el H. Ayuntamiento para que éste se encargue de la prestación de los servicios de recolección, manejo y disposición final de residuos sólidos, previo pago de derechos que determine la Ley de Ingresos Municipal.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+###### ARTICULO 476.
+
+Para los efectos del presente Capítulo se consideran las siguientes definiciones:
+
+I. BARRIDO MANUAL.- Recolección de residuos sólidos dispersos en vía pública, áreas de uso común, avenida, etc., en el interior del municipio y que se realiza manualmente;
+
+II. BARRIDO MECANICO.- Recolección de residuos sólidos dispersos en vía pública, áreas de uso común, avenidas, etc., en el interior del municipio y que se realiza por medio de maquinaria (barredoras);
+
+III. BASURA Y/O RESIDUO SOLIDO.- Todo desecho orgánico o inorgánico que resulte de actividades domésticas, comerciales, industriales o recreativas, cuya calidad no permita usarlos nuevamente en el proceso que los generó;
+
+IV. CENTRO DE ACOPIO.- Es el lugar destinado por el Ayuntamiento, en donde se reciben limpios y separados los residuos inorgánicos: papel, cartón, metales, plástico, vidrio y otros productos. También se llama centro de reaprovechamiento porque es el eslabón entre las industrias que reutilizan o reciclan los residuos y la sociedad que los produce;
+
+V. DISPOSICIÓN FINAL.- Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
+
+VI.- ESCOMBRO.- Todo material que resulte de la demolición de un inmueble ya sea parcial o total;
+
+VII. ESTACION DE TRANSFERENCIA.- Se refiere al sitio que es una escala técnica en el proceso de recolección de residuos sólidos en la que éstos pasan de los camiones recolectores a unidades con contenedores de mayor capacidad, hasta el lugar autorizado para su disposición final;
+
+VIII. LIXIVIADO.- Líquido que se forma por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contiene en forma disuelta o en suspensión, sustancias que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositan los residuos y que puede dar lugar a la contaminación del suelo y de cuerpos de agua, provocando su deterioro y representar un riesgo potencial a la salud humana y de los demás organismos vivos;
+
+IX. MANEJO INTEGRAL.- Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico acopio almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+
+X. PLAN DE MANEJO.- Instrumento cuyo objetivo es minimizar la generación y maximizar la valoración de residuos sólidos urbanos, residuos de manejo especial y residuos peligros específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
+
+XI. RECICLADO.- Métodos de tratamiento preferentemente industrial, que consiste en la transformación de los residuos en nuevos objetos o materiales con fines productivos;
+
+XII. RECOLECCION.- Acción que consiste en recoger la basura o residuos sólidos;
+
+XIII.- RELLENO SANITARIO.- Obra de ingeniería para la disposición final de residuos sólidos que no sean peligros, ni potencialmente peligrosos, que se utiliza para que depositen y compacten a su menor volumen práctico posible y se cubran con una capa de tierra al término de las operaciones del día; todo bajo condiciones técnicas que eviten cualquier tipo de contaminación al suelo o al agua;
+
+XIV. RUTA.- Trazo rectilíneo en un plano de vialidad o mapa que seguirán los camiones recolectores para recolectar los desechos generados y depositados en los contenedores; y
+
+XV. TRANSPORTE.- Acarreo de los residuos sólidos a los sitios de disposición final autorizados.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 477.
 
-Las personas físicas o morales que generen residuos, que sean clasificados como peligrosos, por las autoridades, serán responsables directamente de su manejo, confinamiento y disposición final, de acuerdo a la normatividad existente.
+Para los efectos del presente Capítulo se consideran las siguientes clasificaciones de los Residuos:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+I.- RESIDUOS DE MANEJO ESPECIAL.- Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+
+II.- RESIDUO PELIGROSO.- Son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados con materiales con las características descritas;
+
+III.- RESIDUO SOLIDO INORGANICO.- Desecho generado en casa-habitación, industria o comercio, consistente en metal, papel, cartón plástico o vidrio;
+
+IV.- RESIDUOS SOLIDOS ORGÁNICOS DOMICILIARIOS.- Son los desperdicios de comida, desechos de cocina y del jardín, que tienen un origen biológico: Es decir, desechos de todo aquello que nace, vive, se reproduce y muere, que en algún momento han tenido vida y son biodegradables porque se pueden someter a tratamientos biológicos que generen otros productos como composta, abonos naturales humus, alimentos para animales, etcétera.
+
+V.- RESIDUO SOLIDO RECICLABLE.- Todo residuo sólido que por razones económicas y por no significar un riesgo para la salud, es susceptible de ser reutilizado con o sin transformación física de sus características; y
+
+VI.- RESIDUOS URBANOS.- Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley (sic) como residuos de otra índole.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+ARTICULO 477 BIS.- La limpieza de las principales calles, avenidas, camellones centrales de avenidas y el centro de la ciudad, se hará preferentemente cada día.
+
+El Departamento de Servicios Públicos señalará el tipo de mobiliario o recipientes que se instalarán en, vías públicas, parques, jardines y sitios públicos.
+
+La instalación de contenedores se hará en lugares en donde no representen peligro alguno para la vialidad y su diseño será el adecuado para facilitar el vaciado de residuos sólidos a la unidad receptora, y en ningún caso se utilizará para depositar otro tipo de residuo sólido que no sea aquel para el que fue destinado originalmente.
+
+Los residuos que se produzcan al desazolvar alcantarillas, drenajes o colectores, deberán retirarse de la vía pública de inmediato y dar la disposición final adecuada.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+ARTICULO 477 TER.- Los residuos sólidos producidos a nivel doméstico serán recibidos por las unidades recolectoras, entregándose de ser posible, debidamente limpios y separados en las siguientes categorías: papel, plásticos, metales, vidrio y residuos sólidos orgánicos.
+
+En el caso de que no existan contenedores suficientes, la recolección podrá ser domiciliaria y comprenderá la recepción de residuos sólidos domésticos que en forma normal se generan en las viviendas unifamiliares y multifamiliares del municipio.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+ARTICULO 477 QUATER.- Los propietarios o responsables de clínicas, hospitales, laboratorios de análisis clínicos, clínicas veterinarias o similares deberán esterilizar o incinerar los residuos de riesgo que generen, tales como materiales que se utilicen en curación de enfermos o heridos: vendas, gasas, algodón, telas antisépticas, jeringas plásticas, etcétera, mediante el equipo e instalaciones debidamente autorizadas por la autoridad competente. Bajo ninguna excusa estará permitido depositarlos en los contenedores y/o botes de basura de residuos sólidos, diferentes a los de origen sanitario, así como tampoco en el relleno sanitario.
+
+Las unidades recolectoras del Departamento de Servicios Públicos Municipales, se abstendrán de recolectar los residuos mencionados, y si encontrasen que en los contenedores se hubiesen depositado alguno de ellos, notificarán de inmediato a la Autoridad correspondiente, para que imponga la sanción correspondiente a la persona a cuyo cargo se encuentre el establecimiento que hubiere cometido la infracción.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 478.
 
-Todo propietario de predios baldíos, dentro del Municipio, deberá de mantener completamente limpias las áreas que colinden con vialidades o zonas comunes. Para hacer exigible la anterior obligación, la Dirección de Planeación, Obras y Servicios Públicos deberá notificar al propietario concediéndole el término de quince días naturales, transcurridos los cuales sin que se cumpla con dicha obligación, los trabajos de limpieza y bardeo se harán por parte de la Dirección de Planeación, Obras y Servicios Públicos a costa del propietario, quién además se hará acreedor a la multa que en su caso corresponda en términos de este Código.
+La transportación de basura y demás residuos sólidos se sujetará a las siguientes reglas:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+I.- Todo vehículo que no sea del servicio público de limpia, tales como servicio particular y/o comercial, industrial y de concesión, que transporte los residuos sólidos mencionados en este capítulo, deberá presentar la autorización por parte de el Instituto del Medio Ambiente del Estado de Aguascalientes donde se le fijarán las condiciones del servicio;
+
+II.- Los cadáveres de animales que requieran ser transportados en los vehículos de recolección deberán ir protegidos en bolsas de plástico y encalados;
+
+III.- Es obligación del interesado y/o productor de estiércol y desperdicios de establos, caballerizas y similares, el transportar en vehículo de su propiedad, cerrados, para evitar que se derramen los desechos;
+
+IV.- El transporte de los residuos sólidos en los camiones recolectores del servicio de limpia se hará exclusivamente dentro de la caja; por lo tanto queda prohibido llevarla en los estribos o en la parte posterior de la misma, así como en cualquier otro sitio exterior;
+
+V.- Todos los vehículos del servicio de limpia llevarán anotado en forma visible, el número económico de la unidad y el teléfono de la oficina de queja correspondiente;
+
+VI.- Ninguna persona tendrá acceso al vehículo recolector, dentro de éste, solamente podrá hacerlo el personal autorizado;
+
+VII.- Queda prohibido usar los vehículos destinados al transporte de basura, en trabajos diferentes a los del de (sic) Servicios Públicos;
+
+VIII.- Los vehículos particulares que cumplan con los requisitos señalados en la fracción I, deberán ir cubiertos para impedir que los residuos sólidos transportados se derramen en el trayecto al sitio de disposición final que designe el departamento (sic) Servicios Públicos;
+
+IX.- Los vehículos particulares y comerciales que transporten envases de vidrio, tales como botellas, garrafones, etcétera, deberán traer consigo los implementos necesarios para recoger los fragmentos que llegasen a tirarse en la vía pública accidentalmente; y
+
+X.- Todo vehículo registrado y autorizado por la Dirección de Planeación, Obras y Servicios Públicos, deberá llevar una bitácora del transporte y recepción de sus residuos sólidos, con objeto de garantizar el destino final de los mismos por medio del control de recepción en los sitios de depósito final que sean autorizados por el Departamento de Servicios Públicos, donde se fijarán las condiciones del servicio.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+ARTICULO 478 Bis (sic).- En el destino, utilización y procesamiento de la basura se observará lo siguiente:
+
+I.- La Dirección de Planeación, Obras y Servicios Públicos Municipales determinará la ubicación de los centros de acopio para la disposición final de los residuos clasificados que se colecten;
+
+II.- La existencia de cualquier tiradero de residuos sólidos y/o basura no autorizado, será clausurado de inmediato y a las personas que lo hayan propiciado, se les aplicarán las sanciones previstas en el Presente Código.
+
+III.- en los sitios de disposición final de residuos sólidos y en la zona de protección que señale el Ayuntamiento, la Subdirección de Planeación y desarrollo Urbano, prohibirá la instalación de viviendas e instalaciones comerciales; y
+
+IV.- Los residuos sólidos recolectados, podrán ser comercializados o industrializados por el Ayuntamiento, o por quién éste disponga, o en su caso, destinarlos a un relleno sanitario.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 479.
 
 Son obligaciones de los habitantes del Municipio, así como de las personas que transitoriamente se encuentren en él, a fin de evitar la contaminación del ambiente, ocasionar problemas de salubridad y sanitarios, las siguientes:
 
-I.- Depositar la basura que se genere en los contenedores establecidos para tal fin;
+I.- Cooperar para que las calles, banquetas, plazas, jardines y demás sitios públicos, se conserven en buenas condiciones de limpieza y saneamiento;
 
-II.- Asear diariamente, los propietarios o poseedores de predios, el frente de los mismos y cualquier área o vía de uso común con los que colinde;
+II.- Recoger diariamente sus residuos sólidos y mantener limpia la parte de la calle y la banqueta que le corresponda frente a sus domicilios;
 
-III.- Mantener, los propietarios y operadores de vehículos de servicio público de alquiler, debidamente aseadas las vías públicas, donde establezcan sus terminales o sitios;
+III.- Depositar la basura y residuos sólidos, en su caso clasificados, directamente a los contenedores, en los días y horario autorizado; o en su caso, directamente a los camiones recolectores, o llevarlos a los centros de acopio o áreas de contenedores comunes, si los hubiere cuando se trate de edificios o viviendas multifamiliares, en los términos de este Código;
 
-IV.- Mantener, los comerciantes, sus establecimientos, puestos, locales fijos o semi-fijos, y demás que ejerzan el comercio en la vía pública, sea de servicio, industrial o de cualquiera que sea su giro o en los tianguis, aseado el lugar donde efectúe su actividad, y al final de su jornada depositar los desechos que generen en los contenedores establecidos para tal efecto;
+III.- Asear diariamente, los propietarios o poseedores de predios, el frente de los mismos y cualquier área o vía de uso común con los que colinde;
 
-V.- Depositar, en los predios o casas particulares, los desechos sólidos acumulados dentro de recipientes cerrados;
+IV.- Efectuar el aseo de las banquetas y calles en el caso de edificios o viviendas multifamiliares, mismo (sic) que podrá ser realizada por el empleado correspondiente, siendo responsables solidarios todos los habitantes del mismo;
 
-VI.- Respetar los horarios establecidos por la Dirección de Planeación, Obras y Servicios Públicos, para el depósito de desechos sólidos domésticos en los contenedores;
+V.- Retirar de inmediato los materiales de construcción, los escombros o los restos vegetales, cualquiera que fuera su procedencia;
 
-VII.- Depositar los desechos sólidos dentro de los contenedores en bolsa cerrada;
+VI.- Asear el tramo de calle o banqueta frente a su establecimiento y limpiar la fachada correspondiente, los propietarios de comercios o negocios;
 
-VIII.- Respetar y mantener en buen estado los contenedores;
+VII.- Mantener los comerciantes sus establecimientos, puestos, locales fijos o semi-fijos, y demás que ejerzan el comercio en la vía pública, sea de servicio, industrial o de cualquiera que sea su giro o en los tianguis, aseado el lugar donde efectúe su actividad, y al final de su jornada depositar los desechos que generen en los contenedores establecidos para tal efecto;
 
-IX.- Informar sobre el destino final de los residuos sólidos que se generen; y
+VIII.- Asear la vía pública, una vez concluidas las maniobras, los propietarios administradores o empleados de comercio que con motivo de las maniobras de carga y descarga lo ensucien;
 
-X.- Las demás que del presente Código se desprendan en materia de limpia y aseo público.
+IX.- Mantener en perfecto estado de limpieza los pavimentos frente a las instalaciones de los expendios de combustibles y lubricantes o de giro de lavado de carros;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+X.- Conservar los predios baldíos limpios de todo residuo sólido y/o basura, o hierba, así como instalar bardas o cercos decorosos que impidan la acumulación de basura y el uso indebido. Si requerido el propietario para que efectúe dichas obras, no las realiza dentro del plazo que se le fije por la autoridad competente, se procederá conforme a lo estipulado en el Capítulo de Sanciones del presente Código;
+
+XI.- Compartir los colindantes inmediatos a los callejones de servicio, la obligación de mantener éstos en condiciones de aseo;
+
+XII.- Impedir los propietarios de carpinterías o madererías que el aserrín y otros desechos que se produzcan en los cortes y cepillado de las maderas, se acumulen en los lugares en donde pueda haber riesgo de que se incendien, y evitar estrictamente que las personas que tengan acceso a los lugares en que estos desechos se encuentren, fumen o manejen fuego;
+
+XIII.- Cuidar los encargados de talleres de reparación de automóviles que su área inmediata, así como la calle y banquetas se mantengan limpias;
+
+XIV.- Mantener y conservar en buen estado sus banquetas y guarniciones, los propietarios de predios;
+
+XV.- Mantener, los propietarios y operadores de vehículos de servicio público de alquiler, debidamente aseadas las vías públicas donde establezcan sus terminales o sitios;
+
+XVI.- Depositar, en los predios o casas particulares, los desechos sólidos acumulados dentro de recipientes cerrados;
+
+XVII.- Respetar los horarios establecidos por la Dirección de Planeación, Obras y Servicios Públicos, para el depósito de desechos sólidos domésticos en los contenedores;
+
+XVIII.- Depositar los desechos sólidos dentro de los contenedores en bolsa cerrada;
+
+XIX.- Respetar y mantener en buen estado los contenedores;
+
+XX.- Informar sobre el destino final de los residuos sólidos que se generen;
+
+XXI.- Entregar los residuos sólidos limpios y separados, en bolsas que posean características de resistencia y fácil manejo, mismas que deberán entregar bien cerradas, salvo que esto no fuese posible a juicio de la autoridad responsable. Las bolsas deberán mantenerse dentro del predio del ciudadano que lo habita, sólo se sacarán al lugar indicado el tiempo necesario para su recolección el día y hora señalados por el Servicio de Limpia;
+
+XXII.- Contar con contenedores comunes las oficinas, unidades habitacionales o desarrollos multifamiliares, en los que se alojarán debidamente limpios y separados los residuos sólidos producidos por sus habitantes. La Dirección de Planeación, Obras y Servicios Municipales no otorgará ningún permiso de construcción sin que en los planos aparezcan las instalaciones a que se refiere este artículo. Los contenedores deberán ser dispuestos de acuerdo al número de familias y la producción de residuos sólidos clasificados producidos por las mismas. Dichos contenedores serán recolectados por el Departamento de Servicios Públicos, los días y horarios fijados previamente por éste y deberán reunir los requisitos que para tales disposiciones establezca el Servicio de Limpia.
+
+XXIII.- Disponer de un área específica con colectores especiales para depositar ya clasificados sus residuos sólidos, las industrias y los centros comerciales, así como los hospitales y demás sitios donde se produzcan grandes volúmenes de residuos sólidos;
+
+XXIV.- Transportar por cuenta propia o a través de terceros, autorizados debidamente por la autoridad competente, sus residuos sólidos limpios y separados a los centros de transferencia y/o sitio de disposición final que establezca la autoridad competente, en vehículos que deberán reunir las características que señala este Capítulo, los propietarios o administradores de industrias, talleres, comercio, restaurantes, oficinas, centros de espectáculos o similares;
+
+XXV.- Manejar, confinar y disponer directamente sus residuos peligrosos, de acuerdo a la normatividad existente, las personas físicas o morales que los generen. Los propietarios o administradores a que se refiere el artículo anterior podrán si así lo desean hacer uso del servicio de Limpia, en caso de que se tenga la capacidad para brindar alguna modalidad del servicio;
+
+XXVI.- Mantener completamente limpias las áreas que colinden con vialidad o zonas comunes, los propietarios de predios baldíos. Para hacer exigible la anterior obligación, la Dirección de Planeación, Obras y Servicios Públicos deberá notificar al propietario concediéndole el término de quince días naturales, transcurridos los cuales sin que se cumpla con dicha obligación, los trabajos de limpieza y bardeo se harán por parte de la Dirección de Planeación, Obras y Servicios Públicos a costa del propietario, quien además se hará acreedor a la multa que en su caso corresponda en términos de este Código, y
+
+Las demás que del presente Código se desprendan en materia de limpia y aseo público.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 480.
 
@@ -5543,9 +5823,75 @@ IV.- Limpiar, lavar, reparar y fabricar toda clase de vehículos, herramientas, 
 
 V.- Quemar el contenido de los contenedores;
 
-VI.- Tirar en los contenedores líquidos, sustancias químicas, residuos de talleres mecánicos, desechos cárnicos o biológicos de cualquier tipo, como sebos, grasas, etcétera; y
+VI.- Tirar en los contenedores líquidos, sustancias químicas, residuos de talleres mecánicos, desechos cárnicos o biológicos de cualquier tipo, como sebos, grasas, etcétera;
 
-VII.- En general, cualquier conducta que provoque el desaseo de la vía pública.
+VII.- Fijar cualquier tipo de propaganda o publicidad sobre los contenedores de residuos sólidos, así como pintarlos con colores no autorizados por el Departamento de Servicios Públicos;
+
+VIII.- Tirar agua directamente al pavimento, para lavar la calle o banqueta o para desagüe de otros usos, ya que ésta provoca deterioro o resquebrajamiento del mismo;
+
+IX.- Depositar residuos sólidos y/o arrojar residuos de solventes químicos o aceites al alcantarillado municipal;
+
+X.- Depositar cualquier material u objeto que estorbe el tránsito de vehículos o peatones;
+
+XI.- Arrojar en la vía pública, parques, jardines, camellones o en lotes baldíos, residuos sólidos y/o basura;
+
+XII.- Arrojar aguas sucias o residuos sólidos desde el anterior de los inmuebles a la vía pública;
+
+XIII.- La quema o incineración de residuos sólidos; se excluya de lo anterior a las operaciones que realice el cuerpo municipal de bomberos bajo su control, vigilancia y responsabilidad, con objeto de eliminar hierba y prevenir incendios;
+
+XIV.- Realizar necesidades fisiológicas fuera de los lugares destinados para ese efecto, en este caso se aplicará la sanción prevista en el Código Municipal;
+
+XV.- Arrojar cadáveres de animales a la vía pública o a los contenedores;
+
+XVI.- Causar ruido excesivo que pueda resultar molesto a los vecinos y/o que exceda las normas técnicas correspondientes indicadas en la Ley General de Equilibrio Ecológico y Protección al Ambiente;
+
+XVII.- Extraer de los contenedores y/o centros de acopio, sin la autorización correspondiente los materiales que ahí, hayan sido alojados, vaciarlos, cambiarlos de lugar o dañarlos de cualquier manera;
+
+XVIII.- Arrojar basura o escombro en terrenos baldíos;
+
+XIX.- Depositar la basura en los contenedores en horarios distintos establecidos por el Departamento de Servicios Públicos;
+
+XX.- Fijar o pintar anuncios en paredes, pasos peatonales, postes y puentes; en su caso, se solicitará autorización ante la Dirección de Obras y Servicios Públicos Municipales, para instalar mamparas para tal efecto;
+
+XXI.- En general, cualquier conducta que provoque el desaseo de la vía pública.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+ARTICULO 480 BIS.- El Ayuntamiento a través del Departamento de Ecología, tiene la facultad de intervenir en todos aquellos casos en que se vea afectada la sanidad del medio ambiente y el equilibrio ecológico del Municipio.
+
+Las acciones directas de aseo público y de conservación de las condiciones higiénicas y de salubridad en el municipio se fortalecerán con campañas preventivas dirigidas a obtener la participación y colaboración de la población.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+ARTÍCULO 480 TER.- Cualquier persona puede efectuar denuncia acerca de la violación a lo dispuesto por el presente capítulo, ante el Departamento de Servicios Públicos, si se trata de acciones de los ciudadanos, y ante la Contraloría Municipal, si se trata de actos del personal de limpia. Será suficiente para darle curso, el señalamiento de los datos necesarios que permitan identificar o localizar la ubicación del problema, así como el nombre y domicilio del denunciante.
+
+El Servicio de Limpia una vez recibida la denuncia, procederá por los medios que resulten conducentes a identificar al denunciante y en su caso, hará saber de la denuncia a la persona o personas a quienes se imputen los hechos denunciados, o a quienes puedan efectuar el resultado de la acción emprendida.
+
+El servicio de Limpia, efectuará las diligencias necesarias para la comprobación de los hechos denunciados, así como para la evaluación técnica correspondiente. Si los hechos no fueran de su competencia, esta dirección turnará la denuncia ante la autoridad competente y promoverá ante la misma, la ejecución de las medidas que conforme a derecho resulten procedentes.
+
+El Servicio de Limpia, a más tardar dentro de los quince días hábiles siguientes a la presentación de una denuncia, hará del conocimiento del denunciante el trámite que se haya dado a aquella y, dentro de los treinta días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas.
+
+La Dirección de Planeación, Obras y Servicios Municipales, otorgará a la ciudadanía las suficientes instancias de recepción de que disponga durante días hábiles y horarios de oficina, para atender las denuncias que presente la ciudadanía, ya sea: Personalmente, Telefónicamente, Telégrafo, Correo, Fax o Correo Electrónico.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+ARTÍCULO 480 QUATER.- El Ayuntamiento, a través de la Comisión de Parques, Jardines, Limpia y Recolección de Basura vigilará, que el Departamento de Servicios Públicos, cumpla con su función de manera eficiente.
+
+La vigilancia del cumplimiento a las disposiciones de este Capítulo, queda a cargo de los Departamentos de Servicios Públicos y de Ecología, mediante la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, calificación de infracciones administrativas y sanciones, así como procedimientos y recursos administrativos cuando se refiere a asuntos de su competencia; son órganos auxiliares en esta materia:
+
+I.- Los inspectores del Departamento de Ecología;
+
+II.- Los miembros del Departamento de Seguridad Pública;
+
+III.- Los inspectores honorarios;
+
+IV.- Los ciudadanos del Municipio;
+
+V.- Los inspectores del Departamento de Servicios Públicos;
+
+VI.- Los inspectores de Reglamentos; y
+
+VII.- Los inspectores de Regulación Sanitaria.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -5553,7 +5899,31 @@ VII.- En general, cualquier conducta que provoque el desaseo de la vía pública
 
 La Dirección de Planeación, Obras y Servicios Públicos, contará con inspectores, mismos que tendrán la facultad de verificar el debido cumplimiento de las disposiciones de este Código.
 
-Para tal efecto los particulares tendrán la obligación de prestar todas las facilidades a los inspectores para que cumplan con su cometido. En caso de negativa por parte de las personas, físicas o morales, se podrá facultar el auxilio de la fuerza pública.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+Para tal efecto los particulares tendrán la obligación de prestar todas las facilidades a los inspectores para que cumplan con su cometido, permitir el acceso al lugar o lugares sujetos a inspección, así como proporcionar toda clase de información que conduzca a la verificación del sitio. En caso de negativa por parte de las personas, físicas o morales, se podrá facultar el auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+ARTÍCULO 481 BIS.- Para los actos de inspección y vigilancia, el personal autorizado por la Dirección de Planeación, Obras y Servicios Municipales, deberá estar provisto del documento oficial que lo acredite como tal.
+
+El personal autorizado a que se refiere el artículo anterior, al realizar las visitas de inspección o verificación, se apegará a lo dispuesto por las normas relativas establecidas en el presente Código.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+ARTICULO 481 TER.- El servicio de Limpia podrá formar comités de limpia pública con ciudadanos voluntarios y designar inspectores honorarios.
+
+El cargo de inspector honorario será de servicio social y el vecino a quien se le confiera lo cumplirá en el horario que le resulte más conveniente.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+ARTÍCULO 481 QUATER.- Corresponde a los inspectores honorarios:
+
+I.- Informar al Departamento de Servicios Públicos y al Departamento de Ecología, sobre la existencia de sitios no autorizados en los que se deposite basura y/o residuos sólidos a efecto de que se tomen las medidas pertinentes para su recolección, ya sea instalado y/o colocando contenedores, notificando las fechas y horarios de recolección u orientado a la población sobre la ubicación de los centros de acopio autorizados;
+
+II.- Comunicar al Departamento de Ecología, los nombres o datos que sirvan para identificar a las personas que depositen basura y/o residuos sólidos, escombro o desperdicios, en sitios no autorizados. La dirección verificará en todos los casos la veracidad de la información; y
+
+III.- Informar al Departamento de Servicios Públicos, sobre las deficiencias o carencias del servicio en su zona.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -9707,17 +10077,17 @@ I.- El Regidor de Seguridad Pública quien fungirá como Presidente de la Comisi
 
 II.- Dos elementos operativos de la Dirección;
 
-III.- Dos ciudadanos reconocidos con destacada solvencia moral;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+III.- Dos regidores designados por el H. Ayuntamiento a propuesta del Presidente Municipal;
 
 Todos los integrantes tendrán derecho a voz y voto, siendo el Presidente de la Comisión de Honor y Justicia quien tendrá el voto de calidad en caso de empate.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 823.
 
-Los ciudadanos a que se refiere la fracción Ill del Artículo anterior deberán radicar en el Municipio de Pabellón de Arteaga, ser de reconocida solvencia moral y serán designados por el Presidente Municipal.
-
-Los elementos operativos serán designados por el Presidente Municipal y durarán un año.
+Los elementos operativos integrantes de la Comisión serán designados por el Presidente Municipal y durarán un año en su encargo.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -10456,6 +10826,10 @@ La Dirección, en coordinación con la Dirección de Planeación, Obras y Servic
 ###### ARTICULO 880.
 
 Previa autorización del H. Ayuntamiento, corresponde a la Dirección establecer zonas de estacionamiento exclusivo, de conformidad con los estudios y resoluciones que sobre el particular se realicen, así como zonas de cobro.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+Asimismo, establecerá zonas en donde se prohíbe el estacionamiento en la vía pública y de conformidad con lo dispuesto en el Artículo 64 de la Ley de Vialidad del Estado, se utilizarán rayas de color blanco, para indicar que es permitido el estacionamiento, de color rojo, para indicar que se permite el estacionamiento únicamente a determinados vehículos y de color amarillo, para indicar que está prohibido el estacionamiento a todo tipo de vehículos. Estos colores se ubicarán en la guarnición, en la banqueta o en el pavimento, indistintamente.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16147,13 +16521,17 @@ III.- Que su ubicación no afecte la vialidad en el perímetro circundante al lu
 
 IV.- Que cuente con las instalaciones de acústica, que evite ruidos o sonidos excesivos, que causen molestias a los vecinos.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 1461.
 
-En los establecimientos para la venta y consumo de bebidas alcohólicas y el ejercicio de la prostitución, además debe contener:
+En los establecimientos para la venta y consumo de bebidas alcohólicas y el ejercicio de la prostitución y los expendios de cerveza y/o vinos y licores, además debe contener:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Que no exista escuela, hospital, centro deportivo, templo, cuartel, hospicio, centro cultural, en un radio de distancia de ciento cincuenta metros, y que no se encuentren adyacentes o frente a fábricas en que presten sus servicios trabajadores. Los nuevos establecimientos referidos en este artículo no deberán situarse a una distancia menor de ciento cincuenta metros uno de otro, a excepción de aquéllos que se establezcan en zonas que el Ayuntamiento determine como turísticas en los programas de desarrollo urbano, las que deberán ser precisas en sus límites;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 II.- Que cuente con las medidas de seguridad reglamentarias en materia de protección civil como:
 
@@ -16171,11 +16549,19 @@ f) Pisos y recubrimientos interiores no flamables y que permitan su aseo higién
 
 g) Instalaciones eléctricas ocultas y seguras;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 III.- Que Cuente con servicios y muebles sanitarios en condiciones higiénicas wc, lavabo, mingitorio, y en su caso regaderas en espacios de ejercicio de prostitución;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IV.- Que cuente con mobiliario general en condiciones adecuadas e higiénicas;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 V.- Que ocupe un sólo inmueble y que sus instalaciones interiores no estén a la vista de inmuebles vecinos. Las ventanas, balcones o puertas exteriores no permitirán la visibilidad desde edificaciones cercanas, por lo que tendrán cortinas, accesorios o vidrios con características que lo impidan; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VI.- Que se ubiquen en la zona autorizada según constancia de alineamiento y compatibilidad urbanística.
 
@@ -16185,11 +16571,11 @@ VI.- Que se ubiquen en la zona autorizada según constancia de alineamiento y co
 
 Las dependencias a quienes se solicite los dictámenes necesariamente deberán rendirlo dentro del término de diez días hábiles contados a partir de la fecha en que reciban la solicitud.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 1463.
 
-Si de los dictámenes técnicos se desprende que no se cubre alguno de los requisitos señalados en el artículo anterior, el Secretario del H. Ayuntamiento, negará la Licencia y lo hará saber al solicitante en el domicilio señalado en su solicitud.
+Si de los dictámenes técnicos se desprende que no se cubre alguno de los requisitos señalados en el artículo 1461, el Secretario del H. Ayuntamiento, negará la Licencia y lo hará saber al solicitante en el domicilio señalado en su solicitud.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16290,6 +16676,8 @@ Se exceptúan de la anterior disposición las actividades que a continuación se
 I.- De las 0:00 a las 24:00 horas: Hoteles, casas de huéspedes, sanatorios, agencias de inhumaciones, farmacias en turno, gasolineras, bancos de sangre, servicios de emergencia para auxilio de automovilistas, servicios de ambulancias particulares, vulcanizadoras, refaccionarías de guardia y sitios de taxi;
 
 II.- De las 6:00 a las 20:00 horas: Expendios de legumbres, tortillerías, molinos de nixtamal, carnicerías, pollerías, pescaderías y venta de mariscos sin preparar, expendio de semillas y forrajes, agencias de bicicletas y accesorios, refaccionarías, talleres de reparación de vehículos, eléctricos y deshuesaderos, rectificadoras, carpinterías y balconerías;
+
+(REPUBLICADA, P.O. 19 DE FEBRERO DE 2007)
 
 III.- De las 6:00 a las 22:30 horas: Expendios de jugos de frutas, panaderías, pastelerías, misceláneas, abarrotes sin ventas de bebidas embriagantes, cafés, cremerías, rosticerías, neverías, refresquerías, paleterías, gimnasios, imprentas, jarcerías, expendios de periódicos y publicaciones y fotocopiadoras;
 
@@ -17215,11 +17603,13 @@ Se entiende por espectáculo público todo evento de carácter, musical, cultura
 
 Se requiere permiso para la realización de todo tipo de espectáculos públicos, debiendo respetar las normas señaladas en el presente Código y demás ordenamientos aplicables, según la naturaleza del evento.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 1563.
 
-Los dueños de los salones de fiesta tendrán que solicitar permiso cada vez que haya un evento, con un mínimo de tres días hábiles de anticipación.
+Los dueños de los salones de fiesta, espectáculos y eventos varios, tendrán que solicitar permiso cada vez que haya un evento, con un mínimo de tres días hábiles de anticipación.
+
+Se autorizará la fiesta o evento, únicamente si se cumplen con todos los requisitos establecidos en la ley y este Código y además si el salón cuenta con la licencia de funcionamiento debidamente autorizada y actualizada.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20361,17 +20751,17 @@ III.- Infracciones de vialidad.
 
 La vigilancia sobre la comisión de infracciones previstas en el artículo anterior corresponderá a las diversas unidades administrativas municipales, en el ámbito de sus respectivas competencias.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 1916.
 
-Los elementos operativos de la Dirección de Seguridad Pública y Vialidad vigilarán lo correspondientes a las faltas cívicas e infracciones de vialidad y serán auxiliares de las demás áreas, las cuales pueden solicitar su apoyo cuando el caso lo requiera.
+Los elementos operativos de la Dirección de Seguridad Pública y Vialidad vigilarán lo correspondientes a las faltas cívicas e infracciones de vialidad y serán auxiliares de las demás áreas, en materia de infracciones administrativas, las cuales pueden solicitar su apoyo cuando el caso lo requiera.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 1917.
 
-La acción para imponer sanciones por infracciones administrativas, faltas cívicas o infracciones de vialidad, prescribirán en tres meses, contados a partir de la fecha en que se cometan.
+La acción para imponer sanciones por infracciones administrativas, faltas cívicas o infracciones de vialidad, prescribirán en seis meses, contados a partir de la fecha en que se cometan.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20405,9 +20795,15 @@ IX.- El decomiso, aseguramiento, retiro o inmovilización de mercancías;
 
 X.- La suspensión de actos o espectáculos públicos;
 
-XI.- La suspensión o cancelación del empadronamiento; y
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
-XI.- El arresto hasta por 36 horas.
+XI.- La suspensión o cancelación del empadronamiento;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+XII.- Pago de daños ocasionados al patrimonio municipal, la cual será en perjuicio de las demás sanciones procedentes; y
+
+XIII.- El arresto hasta por 36 horas.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20459,11 +20855,11 @@ Las medidas de seguridad son de inmediata ejecución, tienen carácter temporal 
 
 La persona afectada por la aplicación de una medida de seguridad, tendrá derecho a que de inmediato le sea levantada, si presenta ante la autoridad competente, las concesiones, los permisos, licencias o autorizaciones, cuando la causa para su imposición sea la carencia de éstos; o cuando desaparezcan los motivos de riesgo público que las originó.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 1925.
 
-En el caso de que los inspectores o verificadores detecten actividades contrarias y violatorias a las disposiciones municipales al momento de estarse consumando y que pongan en peligro la seguridad la salubridad, la integridad o la moral de las personas de sus derechos o de sus bienes, no será necesario agotar el requisito de la orden por escrito a que se refiere el artículo 1621 del presente Código ni habilitar horas, y en cuyo caso, procederá a levantar acta conforme lo establece el artículo 1625 y procederá a ejecutar la o las medidas de seguridad provisionales que considere pertinentes, a efecto de que no se sigan contraviniendo las disposiciones violadas.
+En el caso de que los inspectores o verificadores detecten actividades contrarias y violatorias a las disposiciones municipales al momento de estarse consumando y que pongan en peligro la seguridad la salubridad, la integridad o la moral de las personas de sus derechos o de sus bienes, no será necesario agotar el requisito de la orden por escrito a que se refieren los Artículos 1835 y 1836 del presente Código ni habilitar horas, y en cuyo caso, podrán realizar visitas de inspección o verificación, procediendo a levantar acta conforme lo establecen los Artículos 1838 y 1839 y procederá a ejecutar la o las medidas de seguridad provisionales que considere pertinentes, a efecto de que no se sigan contraviniendo las disposiciones violadas.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20493,11 +20889,11 @@ Son “Lugares Públicos”, todo espacio de uso común o libre tránsito, como 
 
 El objeto del establecimiento de las faltas cívicas es contar con reglas mínimas de comportamiento cívico en la sociedad pabellonense, a efecto de garantizar el respeto a las personas, a los bienes públicos y privados y garantizar el funcionamiento adecuado de los servicios públicos y de la Administración Pública Municipal.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 1930.
 
-Para los efectos de este capítulo son responsables las personas mayores de once años que cometan infracciones, así como las personas físicas o morales que hubiesen ordenado la realización de las conductas que importen la comisión de una infracción.
+Para los efectos de este capítulo son responsables las personas de once años o más que cometan infracciones, así como las personas físicas o morales que hubiesen ordenado la realización de las conductas que importen la comisión de una infracción.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20659,9 +21055,19 @@ I.- La gravedad de la falta;
 
 II.- La capacidad económica del infractor;
 
-III.- La magnitud del daño ocasionado; y
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
-IV.- Naturaleza y tipo del giro o actividad del establecimiento o del infractor.
+III.- La magnitud del daño ocasionado;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
+IV.- La reincidencia; y
+
+V.- Naturaleza y tipo del giro o actividad del establecimiento o del infractor.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+Para los efectos de este artículo se considera reincidencia la comisión del mismo tipo de falta, por la misma persona en el periodo de un año.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21033,17 +21439,17 @@ Para toda violación a las normas y disposiciones municipales previstas en el pr
 
 Las faltas cívicas contempladas en el capítulo segundo del título segundo del presente libro, se sancionarán con amonestación, multa, arresto y decomiso.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 1986.
 
-Se sancionará con amonestación verbal o escrita por parte del juez calificador las infracciones previstas en los siguientes Artículos: 1931, fracciones III, V, VIII, XIII y XIX; 1932, fracciones II, III, IX y X; 1933, fracciones VI y X y 1934 fracción IV.
+Se sancionará con amonestación verbal o escrita por parte del juez calificador las infracciones previstas en los siguientes Artículos: 1931, fracciones III, V, VIII, y XIX; 1932, fracciones II, III, IX y X; 1933, fracciones VI y X y 1934 fracción IV.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 1987.
 
-Se sancionará con multa de cinco a diez días de salario mínimo general vigente el Estado, las faltas cívicas previstas en los siguientes ARTICULOs (sic) : 1931 fracciones I, II, IV, VI, VII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII, XX, XXII, XXIII, y XV; 1932, fracciones I, IV, V, VI, VII, VIII, XI y XII; 1933, fracciones I, II, III, IV, V, VII, VIII y IX; 1934, fracciones I, II, III, V, VI, VIII, IX, X, XI y XII.
+Se sancionará con multa de cinco a diez días de salario mínimo general vigente (sic) el Estado, las faltas cívicas previstas en los siguientes Artículos: 1931 fracciones I, II, IV, VI, VII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XX, XXII, XXIII, y XV; 1932, fracciones I, IV, V, VI, VII, VIII, XI y XII; 1933, fracciones I, II, III, IV, V, VII, VIII y IX; 1934, fracciones I, II, III, V, VI, VIII, IX, X, XI y XII.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21241,11 +21647,21 @@ d) Por atentar y causar daños contra la vegetación en los parques, jardines y 
 
 e) Por faltar al respeto o alterar la normalidad del buen funcionamiento de los panteones, sin perjuicio del pago que deberá hacerse al Municipio de Pabellón de Arteaga por los daños causados;
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+f) En general, por violación a cualquiera de las obligaciones establecidas en el Artículo 479 del presente Código.
+
 II.- Multa de SEIS A TREINTA DIAS DE SALARIO MINIMO:
 
 a) Por profanar fosas en los cementerios, independientemente de su consignación al Ministerio Público y el pago de los daños causados; y
 
-e) (sic) Utilización de agua sin el pago correspondiente en la construcción de barda, casa habitación, edificio, etc, así como tener una toma de agua clandestina.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+b) Utilización de agua sin el pago correspondiente en la construcción de barda, casa habitación, edificio, etc, así como tener una toma de agua clandestina, y
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+c) Por contravenir cualquiera de las prohibiciones establecidas en el Artículo 480 del presente Código.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21565,9 +21981,15 @@ V.- Sanción de SUSPENSION DE EVENTO O ESPECTACULO POR:
 
 a) Por no contar con el permiso correspondiente de la autoridad municipal;
 
-b) Por alteración del orden que ponga en peligro la seguridad de los asistente (sic); y
+b) Por alteración del orden que ponga en peligro la seguridad de los asistente; y (sic)
 
-c) Por detectar el consumo de bebidas alcohólicas sin autorización, de drogas, apuestas, prostitución o cualquier otra actividad ilícita.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+c) Por detectar el consumo de bebidas alcohólicas sin autorización, de drogas, apuestas, prostitución o cualquier otra actividad ilícita; y
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
+d) Por no contar el establecimiento en que se celebra el evento o espectáculo, con la licencia de funcionamiento.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22118,3 +22540,13 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente acuerdo.
+
+P.O. 19 DE FEBRERO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente Acuerdo.
