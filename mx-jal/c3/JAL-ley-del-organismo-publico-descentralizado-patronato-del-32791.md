@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-patronato-del-32791"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-03"
-last_updated: "1998-03-03"
+last_updated: "2007-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO PATRONATO DEL CENTRO DE CIENCIAS Y TECNOLOGIA
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL DECRETO NUMERO 21819-LVII DE LA LEY QUE ABROGA DIVERSAS LEYES Y DECRETO QUE CREAN ORGANISMOS PUBLICOS DESCENTRALIZADOS DEL MUNICIPIO DE GUADALAJARA, PUBLICADA EN EL P.O. DE 20 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 3 de marzo de 1998.
 
@@ -340,3 +342,11 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE FEBRERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+SEGUNDO. El personal de los organismos a que se hace referencia en el presente decreto, en ninguna forma resultará afectado con el presente, en los derechos que haya adquirido, en virtud de su relación laboral o administrativa con los citados organismos públicos descentralizados.
