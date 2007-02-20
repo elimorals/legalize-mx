@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-las-dependencias-auxiliares-del-47689"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-30"
-last_updated: "2006-01-15"
+last_updated: "2007-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE FEBRERO DE 2007.
 
 Reglamento publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 30 de diciembre de 2005.
 
@@ -37,7 +37,7 @@ REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
 
 El Titular del Poder Ejecutivo del Estado tiene a su cargo las atribuciones que expresamente le asigna la Constitución Política del Estado, así como la Ley Orgánica de la Administración Pública del Estado de Baja California Sur y demás disposiciones que de ellas emanen.
 
-> <small>(REFORMADO, B.O. 15 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 2007)</small>
 
 ###### ARTÍCULO 2.
 
@@ -47,33 +47,31 @@ I. Secretaría Particular;
 
 II. Secretaría Privada;
 
-III. Dirección de Gobierno;
+III. Dirección Comunicación Social;
 
-IV. Dirección Comunicación Social;
+IV. Dirección de Acción Cívica y Social;
 
-V. Dirección de Relaciones Públicas;
+V. Coordinación de Enlace Gubernamental;
 
 VI. Unidad Atención Ciudadana;
 
-VII. Unidad de Asesoría y Apoyo Técnico;
+VII. Unidad de Asesoría y de Apoyo Técnico;
 
-VIII. Dirección de Acción Cívica y Social;
+VIII. Representación del Gobierno del Estado en la Ciudad de México;
 
-IX. Representación del Gobierno del Estado en la Ciudad de México;
+IX. Enlace Regional de la Zona Norte con el Gobierno del Estado de Baja California Sur;
 
-X. Enlace Regional de la Zona Norte con el Gobierno del Estado de Baja California Sur;
+X. Dirección de Relaciones Internacionales; y
 
-XI. Dirección de Relaciones Internacionales; y
-
-XII. Coordinación General de Administración.
+XI. Coordinación General de Administración.
 
 Así mismo podrá contar con las representaciones necesarias, mismas que serán creadas por Acuerdo del Gobernador del Estado y publicado en el Boletín Oficial del Gobierno del Estado.
 
 Además, estarán bajo su coordinación los siguientes organismos descentralizados:
 
-Sistema para el Desarrollo Integral de la Familia; e
+I. Sistema para el Desarrollo Integral de la Familia; y
 
-Instituto Estatal de Radio y Televisión.
+II. Instituto Estatal de Radio y Televisión.
 
 ### CAPÍTULO II. DE LAS FUNCIONES GENÉRICAS DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
 
@@ -119,6 +117,8 @@ XVI. Las demás que les confieran las disposiciones legales aplicables y el Gobe
 
 ### CAPÍTULO III. DE LAS FUNCIONES ESPECÍFICAS DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
 
+> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 5.
 
 A la Secretaría Particular le corresponde el ejercicio de las siguientes funciones:
@@ -133,13 +133,23 @@ IV. Acordar directamente con el Gobernador del Estado para informarle y recibir 
 
 V. Recibir y despachar la correspondencia del Gobernador del Estado;
 
-VI. Dar seguimiento a las actividades de la Representación del Gobierno del Estado en la Ciudad de México; Oficina de enlace regional de la zona norte con el Gobierno del Estado de Baja California Sur; de la Unidad de Atención Ciudadana; de la Dirección de Comunicación Social; de la Dirección de Relaciones Públicas; de la Dirección de Asuntos Internacionales, de la Unidad de Asesoría; así como con la Coordinación General de Administración;
+VI. Dar seguimiento a las actividades de la Representación del Gobierno del Estado en la Ciudad de México; Oficina de enlace regional de la zona norte con el Gobierno del Estado de Baja California Sur; de la Unidad de Atención Ciudadana; de la Dirección de Comunicación Social; de la Dirección de Acción Cívica y Social; de la Dirección de Asuntos Internacionales, de la Unidad de Asesoría; así como con la Coordinación General de Administración.
 
 VII. Evaluar el funcionamiento de hangares y otras instalaciones que determine el Gobernador del Estado;
 
 VIII. Coordinar las funciones del personal de la Oficina del Gobernador del Estado y vigilar que se desempeñen con productividad y eficiencia; y
 
-IX. Las demás que le asigne el Gobernador del Estado de acuerdo a sus atribuciones.
+IX. Establecer y consolidar las relaciones públicas del titular del Ejecutivo y de sus dependencias con organismos públicos y privados y particulares que representen a algún sector de la actividad social, económica, política, científica y tecnológica de la entidad y del país;
+
+X. Formular y actualizar, permanentemente, el directorio de Dependencias federales, estatales y municipales;
+
+XI. Coordinar las actividades de autoridades, organismos y personas de toda índole que tengan participación directa o indirecta en visitas y giras de trabajo del Gobernador del Estado y de su comitiva, elaborando los itinerarios y la programación de actos a realizar;
+
+XII. Atender las tareas que en materia de relaciones públicas le asigne el Gobernador del Estado;
+
+XIII. Desarrollar estudios de opinión pública para conocer la imagen del Gobierno del Estado; y
+
+XIV. Las demás que le asigne el Gobernador del Estado de acuerdo a sus atribuciones.
 
 ###### ARTÍCULO 6.
 
@@ -151,19 +161,19 @@ I. Departamento de Enlace Administrativo.
 
 A la Secretaría Privada le corresponde ejercer funciones de coordinación y apoyo al Gobernador del Estado, los cuales desempeñará en vinculación con las demás dependencias y entidades de la Administración Pública Estatal, en los términos del presente Reglamento y de conformidad con las instrucciones que el propio Gobernador del Estado le señale en el marco de sus atribuciones.
 
+> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 2007)</small>
+
 ###### ARTÍCULO 8.
 
-A la Dirección de Gobierno le corresponden las siguientes funciones:
+A la Coordinación de Enlace Gubernamental le corresponde el ejercicio de las siguientes funciones:
 
-> <small>(REFORMADA, B.O. 15 DE ENERO DE 2006)</small>
-
-I.- Realizar las investigaciones y análisis de los asuntos de índole política y social que le encomiende el Gobernador;
+I. Realizar investigaciones y análisis de los asuntos de índole política y social de la entidad que le encomiende el Ejecutivo del Estado;
 
 II. Realizar encuestas de opinión pública sobre aspectos de interés estatal;
 
-III. Recopilar y mantener actualizado la información sobre los atributos personales, académicos y técnicos de los servidores públicos al servicio de los Poderes del Estado; y
+III. Recopilar y mantener actualizados los atributos personales, académicos y técnicos de los servidores públicos al servicio de los Poderes del Estado; y
 
-IV. Las demás que le señalen las disposiciones jurídicas aplicables y las que le asigne el Gobernador, en ejercicio de sus atribuciones.
+IV. La demás que le asigne el Ejecutivo del Estado, atendiendo a su (sic) facultades.
 
 ###### ARTÍCULO 9.
 
@@ -175,7 +185,9 @@ II. Apoyar al Gobernador del Estado en la orientación, supervisión y evaluaci�
 
 III. Coordinar la información sobre las actividades y programas del Ejecutivo del Estado;
 
-IV. En ausencia del Gobernador del Estado, presidir el Comité de Internet de la Administración Pública del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 20 DE FEBRERO DE 2007)</small>
+
+IV. Planear, coordinar y administrar la Página de Internet del Gobierno del Estado; así como su contenido;
 
 V. Coordinar las entrevistas del Gobernador del Estado, y de los funcionarios estatales con los distintos medios de difusión;
 
@@ -193,19 +205,7 @@ XI. Las demás que le asigne el Gobernador del Estado, de acuerdo a sus atribuci
 
 ###### ARTÍCULO 10.
 
-A la Dirección de Relaciones Públicas le corresponden las siguientes funciones:
-
-l. Establecer y consolidar las relaciones públicas del titular del Ejecutivo y de sus dependencias con organismos públicos y privados y particulares que representen a algún sector de la actividad social, económica, política, científica y tecnológica de la entidad y del país;
-
-II. Formular y actualizar, permanentemente, el directorio de Dependencias federales, estatales y municipales;
-
-III. Coordinar las actividades de Autoridades, organismos y personas de toda índole que tengan participación directa o indirecta en visitas y giras de trabajo del Gobernador del Estado y de su comitiva, elaborando los itinerarios y la programación de actos a realizar;
-
-IV. Atender las tareas que en materia de relaciones públicas le asigne el Gobernador del Estado;
-
-V. Desarrollar estudios de opinión pública para conocer la imagen del Gobierno del Estado; y
-
-VI. Todas aquellas que los reglamentos y el Gobernador del Estado le encomienden de acuerdo a sus atribuciones.
+(DEROGADO, B.O. 20 DE FEBRERO DE 2007)
 
 ###### ARTÍCULO 11.
 
@@ -426,3 +426,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los recursos humanos, financieros y materiales, así como los bienes muebles e inmuebles asignados a la Dirección de Acción Cívica y Social, pasarán a formar parte de las Dependencias Auxiliares del Gobernador.
 
 TERCERO.- La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán los (sic) modificaciones presupuestales y administrativas a que haya lugar.
+
+B.O. 20 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno de Baja California Sur.
+
+SEGUNDO.- A la entrada en vigor del presente Decreto, los recursos humanos, financieros y materiales, así como los bienes muebles e inmuebles asignados a la Dirección de Gobierno que se extingue, pasarán a formar parte de la Coordinación de Enlace Gubernamental.
+
+Asimismo, los recursos humanos, financieros y materiales, así como los bienes muebles asignados a la Coordinación de Enlace Gubernamental de la Secretaría General de Gobierno que se deroga, pasarán a formar parte de la Coordinación de Enlace Gubernamental de las Dependencias Auxiliares del Gobernador del Estado.
+
+TERCERO.- A la entrada en vigor del presente Decreto, los recursos humanos, financieros y materiales, así como los bienes muebles e inmuebles asignados a la Dirección de Relaciones Públicas que se extingue, pasarán a formar parte de la Secretaria Particular del C. Gobernador del Estado.
+
+CUARTO.- La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán las modificaciones presupuestales y administrativas que haya lugar.
