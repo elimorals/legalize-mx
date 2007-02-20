@@ -4,7 +4,7 @@ identifier: "FED-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1529
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2006-08-21"
+last_updated: "2007-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAASSP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE FEBRERO DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -380,29 +380,33 @@ La Secretaría de la Función Pública deberá aceptar la certificación de medi
 
 ### Capítulo Segundo. De la Licitación Pública
 
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 28.
 
-Las licitaciones públicas podrán ser:
+Las licitaciones públicas serán:
 
-I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana y los bienes a adquirir sean producidos en el país y cuenten por lo menos con un cincuenta por ciento de contenido nacional, el que será determinado tomando en cuenta el costo de producción del bien, que significa todos los costos menos la promoción de ventas, comercialización, regalías y embarque, así como los costos financieros. La Secretaría de Comercio y Fomento Industrial, mediante reglas de carácter general, establecerá los casos de excepción correspondientes a dichos requisitos, así como un procedimiento expedito para determinar el grado de contenido nacional de los bienes que se oferten, para lo cual tomará en cuenta la opinión de la Secretaría y de la Contraloría.
+I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana y los bienes a adquirir o arrendar sean producidos en el país y cuenten, por lo menos, con un cincuenta por ciento de contenido nacional, el que será determinado tomando en cuenta el costo de producción del bien, deduciendo los costos de promoción de ventas, comercialización, regalías, embarque y gastos financieros. La Secretaría de Economía mediante reglas de carácter general, establecerán los casos de excepción correspondientes a dichos requisitos, así como un procedimiento expedito para determinar el grado de contenido nacional de los bienes, previa opinión de la Secretaría y de la Secretaría de la Función Pública.
 
-La Secretaría de Comercio y Fomento Industrial, de oficio o a solicitud de la Contraloría, podrá realizar visitas para verificar que los bienes cumplen con los requisitos señalados en el párrafo anterior, o
+Tratándose de la contratación de servicios; cuando únicamente puedan participar personas de nacionalidad mexicana y los bienes que se incluyan, en su caso, cumplan con los requisitos de contenido nacional señalados en el párrafo anterior.
 
-II. Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjera y los bienes a adquirir sean de origen nacional o extranjero.
+II. Internacionales bajo la cobertura de tratados, cuando resulte obligatorio conforme a lo establecido en los tratados, en cuyo caso, sólo podrán participar licitantes mexicanos y extranjeros de países con los que nuestro país tenga celebrado un tratado de libre comercio, el cual contenga disposiciones en materia de compras del sector público que lo permitan o se refiera a bienes y servicios, de origen nacional o de dichos países, de acuerdo a las reglas de origen que prevean los tratados y las reglas de carácter general, emitidas por la Secretaría de Economía, previa opinión de la Secretaría de la Función Pública.
 
-Solamente se deberán llevar a cabo licitaciones internacionales, en los siguientes casos:
+III. Internacionales abiertas, en las que podrán participar licitantes mexicanos y extranjeros, cualquiera que sea el origen de los bienes a adquirir o arrendar y de los servicios a contratar, cuando:
 
-a) Cuando resulte obligatorio conforme a lo establecido en los tratados;
+a. Previa investigación de mercado que realice la dependencia o entidad convocante, no exista oferta de proveedores nacionales o de países con los que se tenga un tratado de libre comercio con un capítulo de compras de gobierno, respecto a bienes o servicios en cantidad o calidad requeridas, o sea conveniente en términos de precio;
 
-b) Cuando, previa investigación de mercado que realice la dependencia o entidad convocante, no exista oferta de proveedores nacionales respecto a bienes o servicios en cantidad o calidad requeridas, o sea conveniente en términos de precio;
+b. Habiéndose realizado una de carácter nacional o internacional bajo la cobertura de tratados, no se presente alguna propuesta o ninguna cumpla con los requisitos a que se refieren las fracciones I ó II de este artículo, o
 
-c) Cuando habiéndose realizado una de carácter nacional, no se presente alguna propuesta o ninguna cumpla con los requisitos a que se refiere la fracción I de este artículo, y
+c. Así se estipule para las contrataciones financiadas con créditos externos otorgados al gobierno federal o con su aval.
 
-d) Cuando así se estipule para las contrataciones financiadas con créditos externos otorgados al gobierno federal o con su aval.
+En este tipo de licitaciones la Secretaría de Economía, mediante publicación en el Diario Oficial de la Federación, determinará los casos en que los participantes deban manifestar ante la convocante que los precios que presentan en su propuesta económica no se cotizan en condiciones de prácticas desleales de comercio internacional en su modalidad de discriminación de precios o subsidios.
 
-En este tipo de licitaciones la Secretaría de Comercio y Fomento Industrial, mediante publicación en el Diario Oficial de la Federación, determinará los casos en que los participantes deban manifestar ante la convocante que los precios que presentan en su propuesta económica no se cotizan en condiciones de prácticas desleales de comercio internacional en su modalidad de discriminación de precios o subsidios.
+La Secretaría de Economía emitirá lineamientos y autorizará a organismos de certificación o unidades técnicas especializadas, públicas o privadas, a fin de que éstas, a solicitud del órgano interno de control correspondiente o de un particular, realicen las visitas para verificar que los bienes cumplan con los requisitos señalados en las fracciones I y II, reportando los resultados al órgano interno de control respectivo. Los gastos que se deriven de la visita mencionada correrán a cargo de quién lo solicite.
 
-Podrá negarse la participación a extranjeros en licitaciones internacionales, cuando con el país del cual sean nacionales no se tenga celebrado un tratado y ese país no conceda un trato recíproco a los licitantes, proveedores, bienes o servicios mexicanos.
+Cuando en una licitación de servicios se incluya el suministro de bienes y el valor de éstos sea igual o superior al cincuenta por ciento del valor total de su contratación, siempre se considerará como adquisición de bienes.
+
+Para determinar la conveniencia de precio de los bienes o servicios, se considerará un margen hasta del diez por ciento a favor del precio más bajo prevaleciente en el mercado nacional, en igualdad de condiciones, respecto de los precios de bienes o servicios de procedencia extranjera que resulten de la investigación.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE JULIO DE 2005)</small>
 
@@ -1331,3 +1335,7 @@ D.O.F. 21 DE AGOSTO DE 2006.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Los Centros Públicos de Investigación contarán con un plazo de un año para celebrar el convenio de administración por resultados que establece el artículo 59 de la Ley de Ciencia y Tecnología del presente Decreto.
+
+D.O.F. 20 DE FEBRERO DE 2007.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
