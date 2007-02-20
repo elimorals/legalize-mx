@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-consejo-de-colaboracion-municipal-20330"
 country: "mx"
 rank: "ley"
 publication_date: "1950-01-05"
-last_updated: "2004-05-25"
+last_updated: "2007-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL CONSEJO DE COLABORACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEXTO DEL DECRETO NUMERO 21819-LVII DE LA LEY QUE ABROGA DIVERSAS LEYES Y DECRETO QUE CREAN ORGANISMOS PUBLICOS DESCENTRALIZADOS DEL MUNICIPIO DE GUADALAJARA, PUBLICADA EN EL P.O. DE 20 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 5 de enero de 1950.
 
@@ -218,3 +220,9 @@ LIC. CARLOS G. GUZMAN
 P.O. 25 DE MAYO DE 2004.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE FEBRERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+SEGUNDO. El personal de los organismos a que se hace referencia en el presente decreto, en ninguna forma resultará afectado con el presente, en los derechos que haya adquirido, en virtud de su relación laboral o administrativa con los citados organismos públicos descentralizados.
