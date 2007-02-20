@@ -4,7 +4,7 @@ identifier: "COA-reglamento-municipal-de-asistencia-social-de-torreon-25131"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-16"
-last_updated: "2002-04-16"
+last_updated: "2007-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO MUNICIPAL DE ASISTENCIA SOCIAL DE TORREON, COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 16 de abril de 2002.
 
@@ -775,7 +775,7 @@ II.- Acceder a los Recursos Públicos Municipales destinados a la Asistencia Soc
 
 III.- Participar en los servicios de información y difusión que para tal efecto promueva el R. Ayuntamiento con sus propios medios;
 
-IV.- Ser representadas ante el Consejo Regional de ONG's o instancias similares;
+IV.- (DEROGADA, P.O. 20 DE FEBRERO DE 2007)
 
 V.- Proponer políticas públicas y líneas de acción para ser consideradas en el Plan de Desarrollo Municipal y los Planes y Programas de Asistencia y Desarrollo Social del propio Municipio.
 
@@ -862,3 +862,13 @@ SEGUNDO.- Se abroga el Acuerdo de Cabildo que modifica de Órgano Desconcentrado
 TERCERO.- Para los efectos de lo dispuesto en el artículo 23 del presente Reglamento, se convalidan todos los actos realizados por el Sistema Para el Desarrollo Integral de la Familia del Municipio de Torreón, así como los derechos y obligaciones que correspondan a dicho Organismo efectuados y adquiridos desde su creación a través de su Decreto de Creación publicado el 20 de marzo de 1986 en el Periódico Oficial del Estado.
 
 CUARTO.- La Junta de Gobierno deberá elaborar el Anteproyecto de Reglamento para la creación del Comité Municipal de Asistencia Social, mismo que deberá presentar al H. Cabildo para su autorización.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE FEBRERO DE 2007.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL MUNICIPIO DE TORREÓN, COAHUILA, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 56 DEL REGLAMENTO MUNICIPAL DE ASISTENCIA SOCIAL DE TORREÓN COAHUILA, Y FRACCIONES I Y VI DE LOS LINEAMIENTOS DE PARTICIPACIÓN AL FONDO MUNICIPAL DE FORTALECIMIENTO A LA INFRAESTRUCTURA DE LOS ORGANISMOS NO GUBERNAMENTALES DE ASISTENCIA SOCIAL".]
+
+Primero.- Las reformas al Reglamento de Asistencia Social para el Municipio de Torreón, Coahuila y a los Lineamientos de Participación al Fondo Municipal de Fortalecimiento a la Infraestructura de los Organismos no Gubernamentales de Asistencia Social, entrarán en vigor al siguiente día de su publicación en la Gaceta Municipal.
+
+Segundo.- La entrada en vigor de las Reformas al Reglamento de Asistencia Social para el Municipio de Torreón, Coahuila, y a los Lineamientos de Participación al Fondo Municipal de Fortalecimiento a la Infraestructura de los Organismos no Gubernamentales de Asistencia Social, abrogan la validez, en cualquier sentido opuesto el mismo reglamento u otras disposiciones Municipales.
