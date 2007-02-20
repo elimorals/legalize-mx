@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-urbano-del-estado-de-jalisco-5817"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-13"
-last_updated: "2005-03-10"
+last_updated: "2007-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 13 de julio de 1993.
 
@@ -1051,7 +1051,7 @@ d) La Delegación de la Cámara Nacional de Empresas de Consultoría;
 
 e) La organización mayoritaria de peritos valuadores en el Estado de Jalisco;
 
-f ) La Cámara de la Propiedad Urbana de Jalisco;
+f) La Cámara de la Propiedad Urbana de Jalisco;
 
 g) El Colegio de Notarios del Estado;
 
@@ -1297,19 +1297,7 @@ V. Por cada representante propietario se nombrará un suplente.
 
 ###### Artículo 37.
 
-Forman parte del Consejo de Colaboración Municipal de Guadalajara, los titulares de los siguientes órganos de la Administración Pública Estatal:
-
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
-
-I. La Dependencia del Poder Ejecutivo Estatal en materia de finanzas; y
-
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
-
-II. La Secretaría.
-
-III. En las obras en que el Estado hubiere hecho aportación económica, la Dependencia del Poder Ejecutivo Estatal en materia de finanzas.
-
-Cada titular de estas dependencias, designará un representante suplente.
+(DEROGADO POR EL PUNTO DECIMO DEL DECRETO NUMERO 21819-LVII DE LA LEY QUE ABROGA DIVERSAS LEYES Y DECRETO QUE CREAN ORGANISMOS PUBLICOS DESCENTRALIZADOS DEL MUNICIPIO DE GUADALAJARA, P.O. 20 DE FEBRERO DE 2007)
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
@@ -6294,3 +6282,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 10 DE MARZO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE FEBRERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+SEGUNDO. El personal de los organismos a que se hace referencia en el presente decreto, en ninguna forma resultará afectado con el presente, en los derechos que haya adquirido, en virtud de su relación laboral o administrativa con los citados organismos públicos descentralizados.
