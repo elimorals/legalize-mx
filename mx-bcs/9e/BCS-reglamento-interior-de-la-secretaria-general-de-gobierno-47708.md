@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-general-de-gobierno-47708"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-30"
-last_updated: "2006-01-15"
+last_updated: "2007-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE FEBRERO DE 2007.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 30 de diciembre de 2005.
 
@@ -57,7 +57,7 @@ VI. Coordinación de Asuntos Jurídicos;
 
 VII. Coordinación de Estudios Legislativos;
 
-VIII. Coordinación de Enlace Gubernamental;
+VIII.- (DEROGADA, B.O. 20 DE FEBRERO DE 2007)
 
 IX. Unidad de Apoyo Técnico;
 
@@ -533,19 +533,9 @@ Departamento Evaluación y Seguimiento;
 
 Departamento de Anuencias, Apostillamiento y Certificación; y (sic).
 
-> <small>(REFORMADO, B.O. 15 DE ENERO DE 2006)</small>
-
 ###### ARTÍCULO 21.
 
-A la Coordinación de Enlace Gubernamental le corresponde el ejercicio de las siguientes funciones:
-
-I. Auxiliar al Secretario General en las actividades relacionadas con la política interior;
-
-II. Realizar las investigaciones y análisis de los asuntos de índole política y social de la entidad que le encomiende el Secretario;
-
-III. Realizar las encuestas de opinión pública sobre aspectos de interés estatal; y
-
-IV. Las demás que le asigne el Secretario, atendiendo a sus facultades.
+(DEROGADO, B.O. 20 DE FEBRERO DE 2007)
 
 ###### ARTÍCULO 22.
 
@@ -607,9 +597,13 @@ XVII. Llevar a cabo actividades, designaciones y tramitación de asuntos que est
 
 XVIII. Coordinar, a solicitud del Secretario, la generación y acopio de información concerniente a las diferentes dependencias y entidades de la Secretaría, así como los estudios y análisis que con base en ésta se realicen;
 
-XIX.- (DEROGADA, B.O. 15 DE ENERO DE 2006)
+> <small>(ADICIONADA, B.O. 20 DE FEBRERO DE 2007)</small>
 
-XX.- (DEROGADA, B.O. 15 DE ENERO DE 2006)
+XIX.- Realizar investigaciones y análisis de los asuntos de índole política y social de la entidad que le encomiende el Ejecutivo del Estado;
+
+> <small>(ADICIONADA, B.O. 20 DE FEBRERO DE 2007)</small>
+
+XX.- Realizar encuestas de opinión pública sobre aspectos de interés estatal; y
 
 XXI. Las demás que le asigne el Secretario General de Gobierno.
 
@@ -752,3 +746,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los recursos humanos, financieros y materiales, así como los bienes muebles e inmuebles asignados a la Dirección de Acción Cívica y Social, pasarán a formar parte de las Dependencias Auxiliares del Gobernador.
 
 TERCERO.- La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán los (sic) modificaciones presupuestales y administrativas a que haya lugar.
+
+B.O. 20 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno de Baja California Sur.
+
+SEGUNDO.- A la entrada en vigor del presente Decreto, los recursos humanos, financieros y materiales, así como los bienes muebles e inmuebles asignados a la Dirección de Gobierno que se extingue, pasarán a formar parte de la Coordinación de Enlace Gubernamental.
+
+Asimismo, los recursos humanos, financieros y materiales, así como los bienes muebles asignados a la Coordinación de Enlace Gubernamental de la secretaría General de Gobierno que se deroga, pasarán a formar parte de la Coordinación de Enlace Gubernamental de las Dependencias Auxiliares del Gobernador del Estado.
+
+TERCERO.- A la entrada en vigor del presente Decreto, los recursos humanos, financieros y materiales, así como los bienes muebles e inmuebles asignados a la Dirección de Relaciones Públicas que se extingue, pasarán a formar parte de la Secretaria Particular del C. Gobernador del Estado.
+
+CUARTO.- La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán las modificaciones presupuestales y administrativas que haya lugar.
