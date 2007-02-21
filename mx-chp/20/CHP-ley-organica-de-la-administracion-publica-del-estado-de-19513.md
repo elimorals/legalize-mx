@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2006-12-07"
+last_updated: "2007-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -175,13 +175,13 @@ PARA SER TITULAR DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA ESTATAL, SE RE
 
 I. SER CIUDADANO CHIAPANECO EN PLENO GOCE DE SUS DERECHOS POLITICOS.
 
-II. SER MAYOR DE TREINTA AÑOS AL MOMENTO DE SU DESIGNACION.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2007)</small>
+
+II. SER MAYOR DE VEINTICINCO AÑOS DE EDAD, AL MOMENTO DE SU DESIGNACION.
 
 III. NO PERTENECER AL ESTADO ECLESIASTICO.
 
 IV. NO HABER COMETIDO DELITO DOLOSO ALGUNO.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 12 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 16.
 
@@ -1378,3 +1378,9 @@ Y PROTECCION CIUDADANA
 ###### ARTICULO OCTAVO.
 
 EL EJECUTIVO DEL ESTADO, DISPONDRA QUE SE PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
+
+P.O. 21 DE FEBRERO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
