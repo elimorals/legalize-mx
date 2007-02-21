@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2006-10-14"
+last_updated: "2007-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2007.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -771,7 +771,7 @@ L.- (DEROGADA, P.O. 17 DE AGOSTO DE 2003)
 
 El Órgano de Fiscalización Superior del Congreso del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
 
-El Órgano de Fiscalización Superior, tendrá a su cargo:
+El órgano de Fiscalización Superior, tendrá a su cargo:
 
 I.- Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los entes Públicos Estatales y de los Municipios, incluyendo los recursos de origen federal, en su caso a través de los informes que se rendirán en los términos que disponga la Ley.
 
@@ -1077,7 +1077,9 @@ Las funciones del Consejero Jurídico del Gobernador del Estado estarán a cargo
 
 Los Secretarios del despacho y los titulares de las Dependencias y Entidades deberán:
 
-I.- Ser mayores de 30 años al momento de su designación;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2007)</small>
+
+I.- Ser mayores de veinticinco años de edad, al momento de su designación;
 
 II.- No pertenecer al estado eclesiástico;
 
@@ -1615,7 +1617,7 @@ Podrán ser sujetos de juicio político: el Gobernador del Estado, los Diputados
 
 > <small>(ADICIONADO [N. DE E. ANTES SEGUNDA PARTE DEL PRIMER PARRAFO], P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-Cuando el Gobernador del Estado, los Diputados al Congresos del Estado, los Magistrados y Consejeros del Poder Judicial, incurran en violaciones graves a la Constitución General de la República y a las Leyes que de ella emanen, así como el manejo indebido de fondos y recursos federales, recibida que sea la declaratoria a que se contrae el artículo 110 de esa propia Constitución, el Congreso del Estado como jurado de acusación turnará a la Sala Superior del Supremo Tribunal de Justicia el que erigido en Tribunal de Sentencia substanciará el Procedimiento señalado en este artículo.
+Cuando el Gobernador del Estado, los Diputados al Congresos del Estado, los Magistrados y Consejeros del Poder Judicial, incurran en violaciones graves a la Constitución General de la República y a las Leyes que de ella emanen, así como el manejo indebido de fondos y recursos federales, recibida que sea la declaratoria que se contrae el artículo 110 de esa propia Constitución, el Congreso del Estado como jurado de acusación turnará a la Sala Superior del Supremo Tribunal de Justicia el que erigido en Tribunal de Sentencia substanciará el Procedimiento señalado en este artículo.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -2796,3 +2798,9 @@ Artículo Cuarto.- Los Diputados integrantes de la Sexagésima Tercera Legislatu
 Artículo Quinto.- Para los efectos de la presente Reforma Constitucional, los miembros de los Ayuntamientos actuales, por única vez, concluirán su encargo, el día 31 de diciembre del año 2008.
 
 Artículo Sexto.- Los integrantes de los Ayuntamientos que tomen posesión el día primero de enero del año 2009, serán electos el primer domingo del mes de julio del año 2008, y por única vez, durarán en su encargo cuatro años, para concluir el día 31 de diciembre del año 2012.
+
+P.O. 21 DE FEBRERO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
