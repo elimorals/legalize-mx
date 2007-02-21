@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2005-07-20"
+last_updated: "2007-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2007.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -588,6 +588,20 @@ El Congreso del Estado establecerá un organismo autónomo para tutelar el derec
 
 Los ciudadanos que sean designados como integrantes del Instituto a que se refiere el párrafo anterior, deberán reunir los requisitos que señale la ley, pero en todo caso se velará que no tengan compromisos o simpatías por cualquier partido político o vínculos con el gobierno, quedando excluidos de este último requisito el servicio profesional que se preste en cualquier institución educativa o de investigación de cualquier área pública.
 
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2007)</small>
+
+###### Artículo 23-B.
+
+Se crea el organismo público autónomo denominado Comisión de Derechos Humanos del Estado de Morelos, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público estatal, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Contará con personalidad jurídica, patrimonio propios (sic), autonomía de gestión y presupuestaria.
+
+Este órgano formulará recomendaciones públicas, autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas y no será competente tratándose de asuntos electorales, laborales y jurisdiccionales, ni de consultas formuladas por autoridades, particulares u otras entidades sobre la interpretación de las disposiciones constitucionales y de la legislación reglamentaria.
+
+La Comisión de Derechos Humanos del Estado de Morelos, se integra por un Presidente, que será la máxima autoridad del organismo, y un Consejo Consultivo, integrado por seis consejeros con carácter honorífico y el Presidente, quienes no podrán desempeñar ningún cargo o comisión como servidores públicos. Serán electos por el voto aprobatorio de las dos terceras partes de los miembros del Congreso y durarán en su cargo tres años.
+
+El Presidente de la Comisión de Derechos Humanos del Estado de Morelos, lo será también del Consejo Consultivo, deberá contar con título y cédula profesional a nivel de licenciatura, expedido por la autoridad competente, y reunir los demás requisitos que prevea esta Constitución y la ley secundaria; será elegido y durará en su cargo en la forma y términos que para los consejeros se establece en el párrafo anterior, y podrá ser reelecto por una sola vez. Presentará anualmente su informe de actividades ante el Congreso del Estado, en los términos que prevea la ley.
+
+El Presidente de la Comisión de Derechos Humanos del Estado de Morelos, y los integrantes del Consejo Consultivo, además de los requisitos que prevé este ordenamiento y la ley secundaria que se expida para su designación, deberán gozar de reconocido prestigio en la sociedad y haberse destacado por su interés en la promoción, difusión y defensa de los derechos humanos.
+
 ## TITULO TERCERO.
 
 DEL PODER LEGISLATIVO.
@@ -960,9 +974,9 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los funciona
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2007)</small>
 
-XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral, del Procurador General de Justicia, de los Consejeros del Instituto Morelense de Información Pública y Estadística y del Auditor Superior Gubernamental.
+XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral, del Procurador General de Justicia, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor Superior Gubernamental, del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los órganos superiores de los organismos constitucionales autónomos.
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -978,13 +992,11 @@ XXXV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2007)</small>
 
-XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal; a los Magistrados del Tribunal Estatal Electoral de conformidad con lo previsto en esta Constitución; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, así como al Procurador General de Justicia del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado y por el voto aprobatorio de las dos terceras partes de los integrantes de la Legislatura.
+XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal; a los Magistrados del Tribunal Estatal Electoral de conformidad con lo previsto en esta Constitución; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, al Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, a los titulares de los órganos superiores de los organismos constitucionales autónomos, así como al Procurador General de Justicia del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado.
 
-(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., 29 DE NOVIEMBRE DE 2000)
-
-Las designaciones a que alude esta fracción, deberán reunir el voto aprobatorio previsto en el Artículo 44 de la presente Constitución;
+Las designaciones a que alude esta fracción, deberán reunir el voto aprobatorio previsto en el artículo 44 de la presente Constitución.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1804,17 +1816,15 @@ El fenómeno de conurbación interestatal se presenta cuando dos o más centros 
 
 El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centros urbanos formen o tiendan a formar una unidad demográfica, económica y social entre dos o más Municipios del Estado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1992)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE FEBRERO DE 2007)</small>
 
 ### CAPITULO VI.
 
 DE LA PROTECCION DE LOS DERECHOS HUMANOS.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
-
 ###### Artículo 85-C.
 
-El Congreso del Estado establecerá un organismo autónomo de protección de los derechos humanos que otorga el orden jurídico mexicano, que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias así como denuncias y quejas ante las autoridades respectivas. Este organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales. En los términos del artículo 102, apartado B., de la Constitución Federal, el organismo que establezca el Congreso de la Unión conocerá de las Inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones del organismo estatal.
+(DEROGADO, P.O. 21 DE FEBRERO DE 2007)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -3433,3 +3443,19 @@ El presente Decreto iniciará su vigencia, a partir de la aprobación del Consti
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 21 DE FEBRERO DE 2007.
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+TERCERO. Los actuales integrantes del Consejo Consultivo de la Comisión Estatal de Derechos Humanos continuarán en su encargo hasta en tanto el Congreso del Estado, elija a los nuevos integrantes que conformarán el Consejo Consultivo, en términos del artículo subsiguiente.
+
+CUARTO. En términos de la parte considerativa, en caso de que a la fecha de inicio de vigencia del presente decreto, exista Presidente de la Comisión Estatal de Derechos Humanos en funciones, éste durará en su cargo hasta en tanto el Congreso del Estado, elija al nuevo Presidente del órgano constitucional que se crea. De igual forma, para el caso de no que (sic) exista designación o ratificación de Presidente de la citada comisión en la fecha mencionada, el Congreso del Estado, hará la designación correspondiente en un término no mayor a los treinta días naturales posteriores a la publicación del presente decreto por única ocasión, para lo cual la Junta de Coordinación Política emitirá convocatoria en los principales medios de comunicación en el Estado, para el efecto de que las organizaciones no gubernamentales, asociaciones civiles, y la población en general presenten sus propuestas sustentadas documentalmente, estableciéndose en dicha convocatoria las bases sobre las cuales se desarrollará este proceso. Hecho lo anterior, emitirá dictamen para que sea sometido a consideración del Pleno de la Asamblea y se designe tanto al Presidente como a los Consejeros de la Comisión de Derechos Humanos del Estado de Morelos.
+
+QUINTO. En un término máximo de sesenta días hábiles siguientes al inicio de vigencia de la presente, el Congreso del Estado deberá expedir la ley reglamentaria que regule el funcionamiento y atribuciones de la Comisión de Derechos Humanos del Estado de Morelos, mientras tanto, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y los ordenamientos vigentes en lo que no se contravengan, hasta dicha expedición de la ley reglamentaria.
+
+SEXTO. Los recursos humanos, materiales y presupuestales con que actualmente cuenta la Comisión Estatal de Derechos Humanos, pasarán a formar parte del organismo público autónomo que se crea. Los trabajadores tendrán derecho a la indemnización de tres meses de salario, en caso de no utilizarse sus servicios en el nuevo órgano.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente decreto.
