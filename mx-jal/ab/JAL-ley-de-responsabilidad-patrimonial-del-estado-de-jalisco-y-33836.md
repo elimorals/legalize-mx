@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidad-patrimonial-del-estado-de-jalisco-y-3383
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-11"
-last_updated: "2003-09-11"
+last_updated: "2007-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 11 de septiembre de 2003.
 
@@ -213,9 +213,11 @@ La responsabilidad patrimonial de la entidad deberá probarla el reclamante que 
 
 A la entidad le corresponderá probar, la participación de terceros o del propio reclamante en la producción de los daños y perjuicios irrogados al mismo; que los daños no son consecuencia de la actividad administrativa irregular; que los daños derivan de hechos o circunstancias imprevisibles o inevitables; que no son desproporcionales a los que pudieran afectar al común de la población; o bien, la existencia de caso fortuito o fuerza mayor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 27.
 
-Las resoluciones administrativas o sentencias que se dicten con motivo de los reclamos que prevé la presente Ley, deberán contener:
+Las resoluciones administrativas o sentencias que se dicten con motivo de los reclamos que prevé la presente Ley, serán resueltos dentro de los 30 días hábiles siguientes al en que se recibió la reclamación y deberán contener:
 
 I. La fijación clara y precisa de los puntos controvertidos, así como el examen y valoración de las pruebas que se hayan rendido;
 
@@ -354,3 +356,9 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE FEBRERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
