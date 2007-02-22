@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2007-01-13"
+last_updated: "2007-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -295,7 +295,9 @@ II. Conducir el uso y aprovechamiento racional de los ecosistemas y plantaciones
 
 III. Proteger, restaurar, conservar y aprovechar los recursos forestales sustentablemente para evitar su degradación;
 
-IV. Construir una política de integración regional del manejo forestal tendiente a conservar la biodiversidad de los ecosistemas, el manejo de las cuencas hidrológicas, suelos forestales, especies endémicas y en peligro de extinción; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+IV. Implementar políticas de integración regional del manejo forestal con la participación de los silvicultores, uniones o asociaciones de silvicultores legalmente constituidas, tendiente a conservar la biodiversidad de los ecosistemas, el manejo de las cuencas hidrológicas, suelos forestales, especies endémicas y en peligro de extinción; y
 
 V. Combatir el tráfico, la extinción, apropiación y explotación ilegal de los recursos forestales en todas sus vertientes.
 
@@ -501,9 +503,17 @@ Preferentemente deberán ser sujetos de los apoyos y estímulos a que se refiere
 
 I. Propietarios o poseedores de terrenos forestales o preferentemente forestales que durante cinco años hayan adoptado y aplicado todos los programas de prevención y combate de incendios forestales, así como, los referentes al control de plagas y sanidad forestal establecidos por la Secretaría;
 
-II. Miembros de comunidades y pueblos indígenas que realicen actividades de aprovechamiento, así como de restauración de recursos forestales; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-III. Propietarios o poseedores de predios forestales o preferentemente forestales que realicen acciones de forestación y reforestación conforme a lo establecido en el Programa Estatal Forestal.
+II. Miembros de comunidades y pueblos indígenas que realicen actividades de aprovechamiento, así como de restauración de recursos forestales;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+III. Propietarios o poseedores de predios forestales o preferentemente forestales que realicen acciones de forestación y reforestación conforme a lo establecido en el Programa Estatal Forestal; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+IV. Las uniones o asociaciones de silvicultores legalmente constituidas.
 
 ### CAPÍTULO II. De la Empresa Social Forestal
 
@@ -746,3 +756,7 @@ P.O. 13 DE ENERO DE 2007.
 DECRETO NUMERO 21703/LVII/06
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
