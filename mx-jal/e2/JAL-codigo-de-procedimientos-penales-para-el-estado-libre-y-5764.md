@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2007-01-30"
+last_updated: "2007-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -703,6 +703,8 @@ Si quien inicie una investigación no tiene a su cargo la función de proseguirl
 
 ### CAPITULO II. Reglas especiales para las actuaciones en la Averiguación Previa
 
+> <small>N. DE E. PARA CONSULTAR LA ESTRUCTURA DEL PRESENTE ARTÍCULO VÉANSE PUBLICACIONES OFICIALES DE FECHAS 28 DE DICIEMBRE DE 2006, 22 DE FEBRERO DE 2007 Y 24 DE OCTUBRE DE 2009.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 93.
@@ -739,13 +741,9 @@ f) Si el detenido desconoce el castellano, se le designará un traductor para qu
 
 IV. En todo caso se mantendrán separados los hombres y las mujeres en los lugares de detención o reclusión.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE FEBRERO DE 2007)</small>
 
-En los casos en que el Ministerio Público tenga conocimiento de la probable existencia de un delito en agravio de un menor en el que se atente contra su integridad física, psíquica o psicológica de manera evidente, cometido presuntamente por alguna de las personas que ejerzan la patria potestad o la custodia, se podrá decretar el depósito provisional del menor por un plazo máximo de treinta días a cargo de familiares del menor, prefiriendo a los parientes consanguíneos o a instituciones de asistencia social. De lo anterior el Ministerio Público notificará al Consejo Estatal de Familia, para los efectos legales correspondientes.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
-
-Las instituciones de asistencia social o de salud que reciban recursos públicos, tendrán la obligación de recibir a los menores en depósito provisional por acuerdo del Ministerio Público que así lo ordene, todos los días del año, las veinticuatro horas del día, sin limitación de edad, ni condición física, mental o emocional de los menores, con supervisión del Consejo Estatal de Familia.
+En caso de que la víctima del delito sea menor de edad y el agresor sea quien lo tiene en custodia el agente del Ministerio Público encargado deberá ordenar la cesación de la convivencia del menor con sus familiares, aun de sus padres, cuando dicha convivencia se ponga en peligro la seguridad o integridad del menor, debiendo ordenar el resguardo del menor en una institución autorizada poniéndolo a disposición del Consejo de Familia o del Instituto Cabañas en su caso.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2003)</small>
 
@@ -3768,3 +3766,9 @@ SEGUNDO. El Presupuesto de Egresos del Gobierno del Estado de Jalisco para el a�
 TERCERO. El nombramiento del Director General deberá realizarlo el Congreso del Estado previo a la entrada en vigor de esta ley, conforme a lo que esta Ley establece.
 
 CUARTO. Los convenios que se celebren en municipios que no tengan instalada una sede regional del Instituto, será competente por acuerdo de las partes ya sea la sede regional más cercana, el Director General del Instituto o el juez de primera instancia del partido judicial que corresponda.
+
+P.O. 22 DE FEBRERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
