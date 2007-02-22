@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2007-01-23"
+last_updated: "2007-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -3274,9 +3274,9 @@ Los testigos serán citados a declarar cuando la parte que ofrece su testimonio 
 
 En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, se impondrá al promovente una multa equivalente hasta treinta días de salario mínimo general, vigente para el lugar del juicio, en el momento de imponerse la misma, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, debiendo declararse desierta la prueba testimonial.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
-El oferente de la prueba podrá sustituir sus testigos, siempre que no haya sido desahogada dicha prueba o se haya declarado perdido su derecho para ello.
+El oferente de la prueba podrá sustituir sus testigos por causa justificada, siempre que lo solicite dentro de los tres días siguientes al en que se tenga conocimiento de ésta y hasta el momento de la audiencia, cuando la causa sea conocida en ese momento y no se haya declarado perdido su (sic) derechos para ello.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -7854,6 +7854,10 @@ Admitida la solicitud, el juez escuchará a quien haya otorgado el consentimient
 
 En el mismo auto se hará la declaración del Estado de Minoridad, se nombrará tutor dativo especial, cuando corresponda, y se señalará día y hora para la celebración de una audiencia a fin de desahogar las pruebas que fueren necesarias.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+En los procedimientos de adopción no será necesario el nombramiento de tutor dativo siempre que no exista oposición a la misma.
+
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 1029.
@@ -8611,3 +8615,17 @@ PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de
 SEGUNDO. En las sucesiones iniciadas con anterioridad a la entrada en vigor de este decreto, deberá seguirse el proceso conforme a las disposiciones vigentes en la fecha de fallecimiento del autor de la sucesión.
 
 TERCERO. El archivo de Instrumentos Públicos adoptará los lineamientos generales que expida el titular del Poder Ejecutivo con relación a los avisos de testamento que remita el Registro Nacional de Avisos de Testamento.
+
+P.O. 22 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 21794/LVII/07
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 21818/LVII
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
