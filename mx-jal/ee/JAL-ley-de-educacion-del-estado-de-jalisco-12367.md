@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2007-01-23"
+last_updated: "2007-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -87,11 +87,11 @@ La educación preescolar, primaria y secundaria podrá cursarse tanto en las esc
 
 El Gobierno del Estado está obligado a prestar y promover servicios educativos con el fin de que la población pueda cursar la educación preescolar, primaria, secundaria y media superior, además procurará en lo posible capacitar para el trabajo. Asimismo, promoverá y atenderá todos los tipos y modalidades educativas, incluyendo la educación superior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
-###### ARTICULO 7o.
+###### ARTICULO 7º.
 
-La educación que imparta el Estado de Jalisco, sus municipios y sus organismos descentralizados; así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3º de la Constitución Federal y en la Ley General de Educación, los siguientes:
+La educación que imparta el estado de Jalisco, sus municipios y sus organismos descentralizados, así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3º. de la Constitución Federal y en la Ley General de Educación, los siguientes:
 
 I.- Contribuir al desarrollo integral del ser humano, promoviendo los valores éticos-sociales, para que ejerza plenamente sus capacidades dentro del marco de una convivencia social armónica, todo ello con la participación activa del educando, estimulando su iniciativa y un alto sentido de responsabilidad social;
 
@@ -109,7 +109,9 @@ VI.- Promover el valor de la justicia, de la observancia de la ley y de la igual
 
 VII.- Impulsar el estudio, conservación y protección del medio físico y el aprovechamiento racional de los recursos naturales, para la solución de los problemas económicos, sociales y culturales del Estado;
 
-VIII.- Promover la difusión y utilización de técnicas y avances científicos en las actividades agropecuarias, industriales, mineras, forestales, de servicios y, en general, para toda actividad productiva que requiera el desarrollo del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+VIII.- Promover la difusión y utilización de técnicas modernas y avances científicos en las actividades agropecuarias, pesqueras, industriales, mineras, forestales, de servicios, a efecto de lograr la preservación y restauración del equilibrio ecológico en la entidad, así como la actividad productiva que requiera el desarrollo del estado de Jalisco;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -141,7 +143,7 @@ XVIII.- Fomentar el desarrollo de habilidades para afrontar los casos de emergen
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2005)</small>
 
-XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adiciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales.
+XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adiciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales;
 
 (ADICIONADA, P.O. 22 DE ABRIL DE 2006) (F. DE E., P.O. 30 DE DICIEMBRE DE 2006)
 
@@ -217,9 +219,9 @@ VI.- Promover permanentemente la investigación que sirva como base a la innovac
 
 VII.- Impulsar el desarrollo de la enseñanza tecnológica y de investigación científica y tecnológica;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-VIII.- Fomentar y difundir las actividades artísticas, culturales y físicas, en todas sus manifestaciones;
+VIII.- Fomentar y difundir las actividades artísticas, culturales, ecológicas y físicas, en todas sus manifestaciones;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -349,11 +351,11 @@ XXXII.- Coordinarse con la Secretaría de Salud para implementar programas que f
 
 XXXIII.- Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 15.
 
-Además de impartir la educación preescolar, primaria, secundaria y media superior, el Estado promoverá y atenderá directamente o mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio, todos los tipos y modalidades educativos necesarios para el desarrollo de la entidad; apoyará la investigación científica y tecnológica; alentará el fortalecimiento y la difusión de la cultura estatal, nacional y universal.
+Además de impartir la educación preescolar, primaria, secundaria y media superior, el estado promoverá y atenderá directamente o mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio, todos los tipos y modalidades educativos necesarios para el desarrollo de la entidad; apoyará la investigación científica y tecnológica encaminada a obtener un desarrollo sustentable; alentará el fortalecimiento y la difusión de la cultura estatal, nacional y universal.
 
 Promoverá la formación para el trabajo que impartan los artesanos y técnicos de cada zona o región, procurando que en tales actividades participen los propios padres de familia y vecinos de los educandos.
 
@@ -829,7 +831,9 @@ I.- Docencia;
 
 II.- Investigación, y
 
-III.- Difusión de la cultura.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+III.- Difusión de la cultura y de la protección al medio ambiente.
 
 ###### ARTICULO 69.
 
@@ -1868,3 +1872,7 @@ P.O. 23 DE ENERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. La Secretaría de Educación en coordinación con la Secretaría de Salud emitirá los lineamientos a que se refiere este decreto, a más tardar en 180 días después de su publicación.
+
+P.O. 22 DE FEBRERO DE 2007.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
