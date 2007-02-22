@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-regular-la-venta-y-el-consumo-de-bebidas-54505"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-13"
-last_updated: "2007-01-13"
+last_updated: "2007-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Jalisco, el sábado 13 de enero de 2007.
 
@@ -689,7 +689,9 @@ IV. No utilice el consumo de bebidas alcohólicas como estimulante de la sexuali
 
 ## TRANSITORIOS
 
-PRIMERO. El presente decreto que contiene la Ley para regular la Venta y el Consumo de Bebidas Alcohólicas del Estado de Jalisco entrará en vigor ciento ochenta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Los órganos de gobierno de los municipios de la entidad contarán con un plazo de ciento ochenta días, a partir de la entrada en vigor del presente decreto, para adecuar sus reglamentos municipales a aquél.
 
@@ -732,3 +734,9 @@ Secretario General de Gobierno
 C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE FEBRERO DE 2007.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
