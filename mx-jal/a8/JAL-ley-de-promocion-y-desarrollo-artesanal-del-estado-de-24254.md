@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-y-desarrollo-artesanal-del-estado-de-24254"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-19"
-last_updated: "2002-03-19"
+last_updated: "2007-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROMOCION Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de marzo de 2002.
 
@@ -59,13 +59,25 @@ II. La creación de los cauces de comercialización necesarios para lograr que l
 
 III. Recuperar las manifestaciones artesanales propias del Estado, procurando la preservación de las ya existentes, así como su difusión;
 
-IV. Fomentar e impulsar el autoempleo en el sector artesanal;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-V. Coordinar las manifestaciones artesanales con los programas turísticos del Estado de Jalisco;
+IV. Fomentar e impulsar el empleo y el autoempleo en el sector artesanal;
 
-VI. Estimular el desarrollo de la enseñanza de la artesanía en los sistemas educativos y los centros escolares; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-VII. Establecer relaciones e intercambios con instituciones nacionales y extranjeras, públicas y privadas, relacionadas con la artesanía.
+V. Coordinar las manifestaciones artesanales con los programas turísticos del estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+VI. Estimular el desarrollo de la enseñanza de la artesanía en los sistemas educativos y los centros escolares;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+VII. Establecer relaciones e intercambios con instituciones nacionales y extranjeras, públicas y privadas, relacionadas con la artesanía; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2007)</small>
+
+VIII. Brindar apoyo y asesoría a los artesanos en aspectos administrativos, financieros y sobre el manejo de los negocios.
 
 ###### Artículo 4.
 
@@ -97,13 +109,17 @@ Se consideran como patrimonio cultural, el trabajo del artesano y la producción
 
 ### CAPÍTULO I. De las ayudas
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 7.
 
-Los talleres de artesanos y empresas artesanales, siempre que cumplan los requisitos que se establezcan reglamentariamente, podrán apegarse a:
+Los talleres de artesanos y empresas artesanales, siempre que cumplan los requisitos que se establezcan reglamentariamente, podrán acceder a:
 
 I. Las distintas líneas de ayuda que brinde el Instituto, para la instalación, ampliación, traslado o reforma del total o parte de la infraestructura y medios de producción, y
 
-II. El apoyo a la comercialización de sus propios productos, mediante las siguientes acciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+II. El apoyo a la comercialización de sus propios productos, mediante las siguientes acciones podrán acceder:
 
 a) Participación en muestras, exposiciones y ferias impulsadas por el Instituto u otros organismos públicos o privados;
 
@@ -111,9 +127,17 @@ b) Promover en la forma que se determine para la participación en actos similar
 
 c) Ser declarados de interés turístico, económico y artesanal, aquellos municipios o regiones que se distingan por su actividad en la materia y por un producto homogéneo. Las cuales podrán utilizar en la forma que reglamentariamente se establezca, un distintivo de su identidad y de procedencia geográfica creado para tal efecto;
 
-d) Desarrollar centros de artesanías en áreas de interés artesanal dedicados a impulsar el conocimiento y conservación de estas actividades como a estimular su comercialización, en conjunto con los programas de promoción turística; y
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
-e) Promover las diferentes formas de agrupación para constituirse con apego a las leyes en cuanto le sean aplicables.
+d) Desarrollar centros de artesanías en áreas de interés artesanal dedicados a impulsar el conocimiento y conservación de estas actividades como a estimular su comercialización, en conjunto con los programas de promoción turística;
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+e) Promover las diferentes formas de agrupación para constituirse con apego a las leyes en cuanto le sean aplicables; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2007)</small>
+
+f) La autentificación del producto artesanal que permita identificarla como artesanía jalisciense.
 
 ### CAPÍTULO II. De la Capacitación de la Actividad Artesanal
 
@@ -129,13 +153,17 @@ Los artesanos, constituidos como personas físicas o jurídicas, tendrán acceso
 
 La planeación del desarrollo artesanal del Estado de Jalisco estará orientado al mejoramiento económico y social de los artesanos y sus familias.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 10.
 
-Es responsabilidad de la Secretaría de Promoción Económica y del Instituto que los mecanismos que se adopten para la planeación del desarrollo artesanal del Estado, aseguren la participación democrática, activa y responsable de los propios artesanos.
+Es responsabilidad de la Secretaría de Promoción Económica y del Instituto que los mecanismos que se adopten para la planeación, la organización y el desarrollo artesanal del Estado, aseguren la participación democrática, activa y responsable de los propios artesanos.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 11.
 
-Las entidades señaladas en el artículo anterior procurarán dejar asentado en el Plan Estatal de Desarrollo y demás instrumentos previstos en la Ley de Planeación para el Estado de Jalisco y sus Municipios, las prioridades, estrategias y metas que se requieran para el desarrollo artesanal del Estado de Jalisco.
+Las entidades señaladas en el artículo anterior procurarán dejar asentado en el Plan Estatal de Desarrollo y demás instrumentos previstos en la Ley de Planeación para el Estado de Jalisco y sus Municipios, las prioridades, estrategias y metas que se requieran para el desarrollo artesanal del estado de Jalisco a nivel estatal, nacional e internacional.
 
 ###### Artículo 12.
 
@@ -171,11 +199,13 @@ IV. Se prohibe utilizar esta información para otros fines que no sean para lo q
 
 ### CAPÍTULO II. Del Registro Artesanal
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
 ### CAPÍTULO I. Del Instituto de la Artesanía Jalisciense
 
 ###### Artículo 16.
 
-El Instituto elaborará el registro de artesanos como personas físicas y jurídicas, además de los talleres y empresas artesanales; este registro será único y público y constará de las secciones que establezca el Reglamento de la presente Ley. De igual forma el procedimiento que regule la inscripción en dicho registro será objeto de desarrollo reglamentario.
+El Instituto elaborará el registro de artesanos como personas físicas y jurídicas en cualquiera de sus formas, además de los talleres y empresas artesanales; este registro será único y público y constará de las secciones que establezca el Reglamento de la presente Ley. De igual forma el procedimiento que regule la inscripción en dicho registro será objeto de desarrollo reglamentario.
 
 ###### Artículo 17.
 
@@ -185,9 +215,11 @@ La condición de artesano, taller o empresa artesanal se justificará mediante l
 
 Podrán inscribirse en el registro, artesanos como personas físicas o jurídicas, el trámite será gratuito; una vez obtenida dicha inscripción, se gozará de los beneficios que se ofrezcan para tal efecto por parte del Instituto.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 19.
 
-Las solicitudes de inscripción para el Registro de Artesanos, Talleres y Empresas Artesanales del Estado de Jalisco se formularán ante la Junta de Gobierno del Instituto, en los plazos, forma y condiciones que reglamentariamente se determinen.
+Las solicitudes de inscripción para el Registro de Artesanos, talleres y empresas artesanales del estado de Jalisco, se formularán ante la Dirección General del Instituto, y éste resolverá sobre su aprobación en los plazos, forma y condiciones que reglamentariamente se determinen.
 
 ## TITULO SEXTO. Del Instituto de la Artesanía Jalisciense
 
@@ -211,11 +243,15 @@ IV. Promover una política de educación artesanal que prevea la creación de ta
 
 V. Realizar e impulsar toda clase de estudios, investigaciones y eventos de cualquier naturaleza, que estime adecuados para el mejoramiento y desarrollo de las actividades artesanales;
 
-VI. Brindar asistencia técnica al artesano en cuanto a: diseño, tecnología, herramientas y equipos; abasto de materias primas; financiamiento; control de calidad; registro de derechos de autor, patentes y marcas; empaques y embalaje; administración y tributación, organización artesanal y todo cuanto se requiere para su adecuado desarrollo;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+VI. Brindar asistencia técnica al artesano en cuanto a: diseño, tecnología, herramientas y equipos; abasto de materias primas; financiamiento; control de calidad; registro de derechos de autor, patentes y marcas; empaques y embalaje; administración y tributación, y funcionamiento de las sociedades cooperativas y todo cuanto se requiere para su adecuado desarrollo;
 
 VII. Difundir entre la comunidad local, nacional e internacional la cultura artesanal de Jalisco, mediante la edición de atlas artesanales, catálogos, muestrarios, impresos, mensajes radiofónicos, televisivos, audios, videos y medios electrónicos;
 
-VIII. Formar y conservar un muestrario de las artesanías de alta calidad, producidas en el Estado, a efecto de instalar una exposición que muestre permanentemente la óptima calidad de los productos del artesano jalisciense;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+VIII. Formar y conservar un muestrario de las artesanías de alta calidad, producidas en el Estado, a efecto de instalar salas de exposiciones que muestre permanentemente los productos del artesano jalisciense;
 
 IX. Apoyar a los artesanos en sus gestiones ante las Instituciones de Crédito, cuando sus productos cuenten con certificado de calidad expedido por la Comisión respectiva, y brindarles la asesoría necesaria para la obtención de financiamientos adecuados, cuando para ello fuera requerido;
 
@@ -381,7 +417,7 @@ SEGUNDO.- Se abroga el decreto 14140 de fecha 05 de enero de 1991.
 
 TERCERO.- Una vez que entre en vigor la presente Ley, el Instituto deberá expedir dentro del término de 90 noventa días el Reglamento correspondiente.
 
-SALON DE SESIONES DEL CONGRESO DEL ESTAD
+SALON DE SESIONES DEL CONGRESO DEL ESTADO
 
 GUADALAJARA, JALISCO, 14 DE MARZO DEL 2002
 
@@ -416,3 +452,9 @@ LIC. FRANCISCO JAVIER RAMIREZ ACUÑA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HECTOR PEREZ PLAZOLA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE FEBRERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
