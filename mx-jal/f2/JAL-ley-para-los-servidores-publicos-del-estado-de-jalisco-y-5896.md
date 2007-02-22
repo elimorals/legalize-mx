@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2006-12-02"
+last_updated: "2007-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -189,11 +189,11 @@ Los servidores públicos supernumerarios una vez contratados de manera definitiv
 
 Los servidores públicos de base serán inamovibles; los de nuevo ingreso, no lo serán sino después de transcurridos seis meses ininterrumpidos de servicios, sin nota desfavorable en su expediente.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Art. 8°.
 
-Tratándose de servidores públicos de confianza, las entidades públicas de que se trate, sin responsabilidad para ellas, podrán dictar el cese que termine la relación laboral si existiere un motivo razonable de pérdida de confianza, sujetándose en lo conducente al procedimiento previsto en los artículos 23 y 26, salvo que se trate de los titulares de las entidades públicas a que se refiere el artículo 9º o de los servidores públicos designados por éstos y que dependan directamente de ellos, quienes en su caso podrán ser cesados en los términos de este artículo sin necesidad de instauración del procedimiento señalado.
+Tratándose de servidores públicos de confianza, su nombramiento será por tiempo determinado, sin perjuicio de lo dispuesto por el artículo 6.° de esta ley; sin embargo, las entidades públicas de que se trate, sin responsabilidad para ellas, podrán dictar el cese que termine la relación laboral si existiere un motivo razonable de pérdida de confianza, sujetándose en lo conducente al procedimiento previsto en los artículos 23 y 26, salvo que se trate de los titulares de las entidades públicas a que se refiere el artículo 9.° de los servidores públicos designados por éstos y que dependan directamente de ellos, quienes en su caso podrán ser cesados en los términos de este artículo, sin necesidad de instauración del procedimiento señalado.
 
 Los elementos de las instituciones policiales del Estado y municipios, podrán ser removidos de su cargo si no cumplen con los requisitos que las leyes vigentes en el momento de la remoción señalen para permanecer en dichas instituciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, en su caso, solo procederá la indemnización.
 
@@ -263,23 +263,39 @@ Las actuaciones y certificaciones que hubieren de hacerse con motivo de la aplic
 
 ### CAPITULO II. De los nombramientos
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Art. 16.
 
-Los nombramientos de los Servidores Públicos podrán ser:
+Los nombramientos de los servidores públicos podrán ser:
 
-I. Definitivo, cuando se otorgue para ocupar plaza permanente ya sean de base o de confianza;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+I. Definitivo, cuando se otorgue para ocupar plaza permanente;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
 
 II. Interino, cuando se otorgue para ocupar plaza vacante por licencia del servidor público titular que no exceda de seis meses;
 
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
+
 III. Provisional, cuando se expida de acuerdo con el escalafón para ocupar plaza vacante por licencia del servidor público titular que exceda de seis meses;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
 
 IV. Por Tiempo Determinado, cuando se expida para trabajo eventual o de temporada, con fecha precisa de terminación;
 
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
+
 V. Por Obra Determinada, cuando se otorgue para realizar tareas temporales directamente ligadas a una obra o función pública; y
 
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
+
 VI. Beca, cuando se expida por tiempo determinado para la capacitación o adiestramiento del becario en alguna actividad propia de la administración pública estatal o municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+En caso de no señalarse el carácter de los nombramientos otorgados por los titulares de los tres poderes del Estado, ayuntamientos y sus descentralizados de ambos, en las categorías de secretarios, directores, jefes de departamento o sus equivalentes, de acuerdo al artículo 4.° (sic) de este ordenamiento, se entiende que su periodo será por el término constitucional o administrativo para el que fue contratado.
 
 ###### Art. 17.
 
@@ -462,6 +478,24 @@ En caso de que la falta pudiese ameritar el cese por su gravedad, se estará a l
 ### CAPITULO VI. Del trabajo de los menores
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Art. 26 bis. El empleo de mayores de catorce años y menores de dieciséis, se sujetará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, sus leyes reglamentarias y lo previsto por este capítulo.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Art. 26 bis 1. Este capítulo, tiene como propósito, proteger la relación laboral de los menores a que se refiere el artículo anterior, por lo que las entidades promoverá (sic) las condiciones que permitan su asistencia a la escuela y que contribuyan a su preparación técnica y profesional; así mismo, velarán por que su desarrollo psíquico y físico no sufra detrimento, evitando asignarle actividades que impliquen esfuerzos desmesurados, que puedan dañar su salud.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Art. 26 bis 2. Los menores de dieciséis años, sólo podrán prestar sus servicios en la jornada diurna, la cual no podrá exceder de seis horas. No podrán por ningún motivo trabajar tiempo extraordinario, ni laborar en los días de descanso señalados por la ley.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Art. 26 bis 3. Las labores peligrosas o insalubres, son aquellas que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se prestan o por la composición de la materia prima que se utiliza, no pueden realizar los menores de acuerdo a su grado de madurez.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Art. 26 bis 4. Las entidades, de acuerdo a su presupuesto, ayudarán a los menores de edad con libros o material escolar para incentivar su formación educativa.
 
 ###### Art. 26 Bis.
 
@@ -1471,6 +1505,10 @@ VIII. Las personas que puedan ser afectadas por la resolución que se pronuncie 
 
 Las partes podrán comparecer a juicio en forma directa o por conducto de apoderado legalmente autorizado, para lo cual bastará una carta poder firmada ante dos testigos sin necesidad de ser ratificada ante el Tribunal de Arbitraje y Escalafón.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+Los titulares de las entidades públicas a los que se refiere el artículo 9 de la presente ley, podrán nombrar apoderados para comparecer a juicio por medio de simple oficio, sin necesidad de que la firma sea ratificada ante el Tribunal de Arbitraje y Escalafón.
+
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 122.
@@ -2300,3 +2338,15 @@ P.O. 13 DE OCTUBRE DE 2005.
 P.O. 2 DE DICIEMBRE DE 2006.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 21801-LVII
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 21835-LVII
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
