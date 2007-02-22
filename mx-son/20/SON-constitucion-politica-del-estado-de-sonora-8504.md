@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2006-04-05"
+last_updated: "2007-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE FEBRERO DE 2007.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -759,7 +759,7 @@ a). Que la porción territorial de que se trate cuente con una población de die
 
 b). Que se compruebe debidamente ante el Congreso que tiene elementos bastantes para proveer a su existencia política.
 
-c). Que se conceda al ayuntamiento o ayuntamientos afectados el derecho de ser oído dentro del término de dos meses, contados desde el día en que reciban la comunicación respectiva, sobre la conveniencia o inconveniencia de la nueva creación municipal.
+c). Que se conceda al ayuntamiento o ayuntamientos afectados el derecho de ser oído dentro del término o de dos meses, contados desde el día en que reciban la comunicación respectiva, sobre la conveniencia o inconveniencia de la nueva creación municipal.
 
 d). Que igualmente se oiga sobre el particular al Ejecutivo del Estado. El informe de éste deberá rendirse dentro de los sesenta días de la fecha en que se hubiese solicitado.
 
@@ -809,9 +809,21 @@ XXI A. Para declarar si ha o no lugar a proceder penalmente contra los servidore
 
 XXI B. Para conocer y decidir sobre la resolución que dicte la Cámara de Senadores y la declaración de procedencia que emita la Cámara de Diputados del Congreso de la Unión, en los términos de los Artículos 110 y 111 de la Constitución General de la República.
 
-XXII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Egresos del Estado, en vista de los datos que le presente el Ejecutivo.
+> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2007)</small>
 
-XXIII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos que le presente el Ejecutivo.
+XXII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos, así como el Presupuesto de Egresos del Estado, en vista de los datos que le presente el Ejecutivo.
+
+En el Presupuesto de Egresos el Congreso deberá aprobar las partidas necesarias para solventar obligaciones que se deriven de la contratación de obras o servicios prioritarios para el desarrollo estatal cuando dichas obligaciones comprendan dos o más ejercicios fiscales. Los gastos o pagos que deban cubrirse durante la vigencia de dicha contratación, deberán incluirse en los subsecuentes Presupuestos de Egresos del Estado.
+
+La contratación de las obras o servicios a que se refiere el párrafo anterior, se establecerá en términos de las leyes respectivas.
+
+Para este efecto el Ejecutivo del Estado deberá presentar, previamente al Congreso del Estado, la información técnica y financiera que corresponda a cada proyecto, cuya afectación presupuestal multianual deberá ser aprobada por el voto de las dos terceras partes de los integrantes del Poder Legislativo.
+
+Tratándose de la aprobación de recursos referidos en el párrafo segundo de la presente fracción que pretendan aplicarse durante ejercicios fiscales que trasciendan el periodo constitucional de la administración en la que se pretendan aprobar, no podrán comprometerse más del treinta porciento de los recursos aprobados para el capítulo de inversiones en infraestructura para el desarrollo del ejercicio fiscal en que se tome la decisión.
+
+La disposición contenida en el párrafo anterior no aplica cuando se trate de afectar recursos para dos o más ejercicios fiscales dentro de un mismo periodo constitucional de gobierno.
+
+XXIII. (DEROGADA, B.O. 22 DE FEBRERO DE 2007)
 
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -1039,13 +1051,13 @@ Instrucción Pública.
 
 Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 #### SECCION IV.
 
 Ministerio Público.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 68.
 
@@ -1433,7 +1445,7 @@ Juzgados de Primera Instancia y Locales.
 
 ###### Artículo 95.
 
-La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél.
+La persecución de los delitos incumbe al Ministerio Público y a la Policía Estatal Investigadora, la cual estará bajo la autoridad y mando inmediato de aquél.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -1507,11 +1519,11 @@ Para ser Procurador General de Justicia se necesitan los mismos requisitos que p
 
 El Procurador General de Justicia rendirá la protesta de ley ante el Presidente del Congreso y el Titular del Poder Ejecutivo.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 101.
 
-La Policía Judicial del Estado, como auxiliar directo del Ministerio Público y conforme a las instrucciones que se le dicten, desarrollará las diligencias que deban practicarse durante la averiguación previa y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
+La Policía Estatal Investigadora, como auxiliar directo del Ministerio Público y conforme a las instrucciones que se le dicten, desarrollará las diligencias que deban practicarse durante la averiguación previa y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -1583,7 +1595,11 @@ Integración y Organización de los Municipios.
 
 ###### Artículo 112.
 
-El Poder Judicial se depositará, para su ejercicio, en un Supremo Tribunal de Justicia, en Tribunales Regionales de Circuito, en Juzgados de Primera Instancia y en Juzgados Locales. Existirá, además, el Consejo del Poder Judicial del Estado de Sonora, como un órgano permanente de la administración de justicia.
+El Poder Judicial se depositará, para su ejercicio, en un Supremo Tribunal de Justicia, en Tribunales Regionales de Circuito, en Juzgados de Primera Instancia y en Juzgados Locales.
+
+> <small>(ADICIONADO, B.O. 22 DE FEBRERO DE 2007)</small>
+
+La administración del Poder Judicial estará a cargo del Consejo del Poder Judicial del Estado, el cual ejercerá la vigilancia y disciplina del mismo Poder, a excepción del Supremo Tribunal de Justicia, y las demás funciones que señala esta Constitución, en los términos que establezcan las leyes.
 
 > <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
@@ -1619,21 +1635,13 @@ Los nombramientos de los magistrados del Supremo Tribunal de Justicia serán hec
 
 En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros tres días, el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento, cesará desde luego en sus funciones de Magistrado Provisional y el Gobernador del Estado someterá nuevo nombramiento, para su aprobación en los términos señalados.
 
-> <small>(REFORMADO, B.O. 5 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 114.
 
-Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
+Para ser Magistrado del Supremo Tribunal de Justicia se requiere reunir los requisitos señalados en las fracciones I a V del Artículo 95 de la Constitución Política de los Estados Unidos Mexicanos.
 
-I.- Ser mexicano por nacimiento y estar en pleno ejercicio de sus derechos políticos y civiles;
-
-II.- Contar con título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello, y contar con una experiencia mínima de 5 años en el ejercicio de dicha profesión al día de la designación;
-
-III.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-IV.- Haber residido en el Estado durante los dos años anteriores al día de la designación y, no siendo originario de Sonora, haber residido en el Estado durante los cinco años inmediatamente anteriores al día de la designación; y
-
-V.- No haber ocupado el cargo de Secretario o su equivalente en la administración pública estatal, de Procurador General de Justicia o de diputado local, durante el año previo al día de su designación.
+Los Magistrados del Supremo Tribunal de Justicia se distinguirán entre sí por el calificativo numérico que corresponda al orden en que hayan sido designados.
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -1655,7 +1663,7 @@ Las licencias de los Magistrados del Supremo Tribunal de Justicia, cuando no exc
 
 La competencia del Supremo Tribunal de Justicia, su funcionamiento en Pleno, Salas o Comisiones, la competencia de los Tribunales Regionales de Circuito y la de los Juzgados de Primera Instancia y Locales, así como las responsabilidades en que incurran los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las leyes.
 
-El Supremo Tribunal de Justicia, funcionando en Pleno, determinará el número, división en circuitos, jurisdicción territorial y, en su caso, especialización por materia, de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 Asimismo, el Pleno elegirá de entre sus miembros, en los plazos que determine la ley, al Presidente del Supremo Tribunal de Justicia, el cual no podrá ser reelecto para el período inmediato posterior, salvo que se trate de una suplencia; en cuyo caso el suplente sí podrá ser reelecto.
 
@@ -1675,19 +1683,35 @@ Cuando algún Magistrado del Supremo Tribunal de Justicia estuviere impedido par
 
 Cuando todos los magistrados en ejercicio estuvieren impedidos para conocer de determinado negocio, el Supremo Tribunal de Justicia se integrará por magistrados suplentes, correspondiendo presidir los debates y ser ponente, al primero que conforme a la ley hubiere sido llamado.
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 120.
 
-El Consejo del Poder Judicial del Estado de Sonora se integrará, conforme a las bases que establezca la ley orgánica respectiva, hasta por once Consejeros y funcionará en Pleno.
+El Consejo del Poder Judicial del Estado será un órgano con independencia técnica, de gestión y para emitir sus resoluciones.
 
-En Consejo del Poder Judicial del Estado de Sonora resolverá sobre la designación y adscripción de Magistrados Regionales de Circuito y Jueces de Primera Instancia, así como de los demás asuntos que la ley determine.
+El Consejo se integrará por cinco Consejeros Propietarios y cuatro Suplentes, de los cuales uno de los primeros será el Presidente del Supremo Tribunal de Justicia del Estado, quien también lo será del Consejo; dos Consejeros nombrados por el Pleno del Supremo Tribunal de Justicia, el primero de entre los magistrados del Supremo Tribunal de Justicia o magistrados regionales de circuito y el segundo, de entre los jueces de primera instancia, ambos con su respectivo suplente; un Consejero Propietario y su Suplente designados por el Gobernador del Estado y un Consejero Propietario y su Suplente designados por el Congreso del Estado mediante el voto de las dos terceras partes de los integrantes. El Presidente del Consejo será suplido, en casos de impedimentos y faltas temporales, por los demás Magistrados del Supremo Tribunal de Justicia en el orden progresivo de su designación numérica.
 
-El Presidente del Supremo Tribunal de Justicia también los será del Consejo.
+Todos los Consejeros deberán reunir los requisitos señalados en el artículo 114 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades; en el caso de los designados por el Supremo Tribunal de Justicia, deberán gozar además con reconocimiento en el ámbito judicial y tener en el desempeño de su cargo por lo menos dos años con anterioridad a la designación.
 
-Los Consejeros ejercerán sus funciones con independencia e imparcialidad.
+Los Consejeros del Poder Judicial rendirán la protesta de ley para ejercer el cargo ante el Supremo Tribunal de Justicia.
 
-Las decisiones del Consejo que se refieren a la designación y adscripción de Magistrados Regionales de Circuito y Jueces de Primera Instancia, podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, exclusivamente, para verificar que hayan sido adoptadas conforme a las reglas que establezca la ley orgánica respectiva, revocando, modificando o confirmando las mismas.
+Salvo el Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo, serán sustituidos de manera escalonada, y los propietarios no podrán ser nombrados para un nuevo período.
+
+Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Sexto de esta Constitución.
+
+La Ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, profesionalismo, imparcialidad e independencia y antigüedad, en su caso, y bajo los criterios de igualdad de oportunidades, méritos y capacidad.
+
+El Consejo funcionará en Pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción, ratificación y remoción de Magistrados de los Tribunales Regionales de Circuito y Jueces, así como de los demás asuntos que la Ley determine.
+
+El Consejo del Poder Judicial del Estado, funcionando en Pleno, determinará el número, división en circuitos, competencia territorial y, en su caso, especialización por materia, de los Tribunales Regionales de Circuito, Juzgados de Primera Instancia y Juzgados Locales.
+
+De conformidad con lo que establezca la ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Supremo Tribunal de Justicia podrá solicitar al Consejo la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional local.
+
+Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede recurso alguno en contra de las mismas, salvo las que se refieran a acuerdos generales, a la designación, adscripción, ratificación y remoción de Magistrados de los Tribunales Regionales y Jueces, las cuales podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, por lo que podrá confirmarlas, modificarlas o revocarlas. Para el caso de revocación se requerirá la aprobación por mayoría de cuando menos las dos terceras partes del total de los integrantes del mismo Tribunal.
+
+La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
+
+El Consejo elaborará los proyectos de presupuesto anual de egresos del Poder Judicial del Estado y del Fondo para la Administración de Justicia, mismos que someterá a la aprobación del Pleno del Supremo Tribunal de Justicia, el cual podrá hacer las modificaciones que estime procedentes. Una vez aprobado por el Pleno del Supremo Tribunal de Justicia el proyecto del presupuesto anual de egresos del Poder Judicial, será remitido por el Presidente del Supremo Tribunal de Justicia al Gobernador del Estado para los efectos previstos en el artículo 79, fracción VII, de esta Constitución. El presupuesto anual de egresos, en lo correspondiente al Poder Judicial del Estado, que apruebe el Congreso y el presupuesto del Fondo para la Administración de Justicia aprobado por el Pleno del Supremo Tribunal de Justicia, serán administrados por el Consejo del Poder Judicial del Estado.
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -1705,23 +1729,21 @@ Los Magistrados Regionales de Circuito y los Jueces de Primera Instancia nombrar
 
 Artículo 122 A. (DEROGADO, B.O. 11 DE NOVIEMBRE DE 1996)
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 123.
 
-Los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Locales que estén en funciones, exceptuándose los casos que específicamente determine la ley respecto a los suplentes, no pueden ser abogados en causa ajena, apoderados, asesores o árbitros de derecho, ni desempeñar ningún empleo, cargo o comisión de la Federación, del Gobierno del Estado, de otras entidades, de los municipios, o de particulares, salvo los cargos docentes y los honoríficos en asociaciones científicas o artísticas.
-
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+Los Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial del Estado, los Magistrados Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Locales que estén en funciones, exceptuándose los casos que específicamente determine la ley respecto de los suplentes, no pueden ser abogados en causa ajena, apoderados, asesores o árbitros de derecho, ni desempeñar ningún empleo, cargo o comisión de la Federación, del Gobierno del Estado, de otras entidades, de los municipios, o de particulares, salvo los cargos honoríficos en instituciones educativas y en asociaciones científicas o artísticas y los (sic) cargos docentes siempre y cuando éstos últimos no interfieran con el horario normal de las labores judiciales.
 
 ###### Artículo 124.
 
-La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, profesionalismo, imparcialidad, independencia y antigüedad, en su caso, y bajo los criterios de igualdad de oportunidades, méritos y capacidad.
+(DEROGADO, B.O. 22 DE FEBRERO DE 2007)
 
-> <small>(REFORMADO, B.O. 5 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 125.
 
-Para ser Magistrado Regional de Circuito se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, contar con título de Licenciado en Derecho expedido legalmente y práctica profesional, de cuando menos cinco años; además se deberá observar lo que prevenga la ley de la materia para la carrera judicial.
+Para ser Magistrado Regional de Circuito deberán reunirse los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia, además de observar lo que prevenga la ley de la materia para la carrera judicial.
 
 > <small>(REFORMADO, B.O. 5 DE ABRIL DE 2006)</small>
 
@@ -1729,15 +1751,13 @@ Para ser Magistrado Regional de Circuito se requiere ser ciudadano mexicano en p
 
 Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente, un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 127.
 
-Para ser Juez Local se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año y tener la competencia necesaria para el desempeño del cargo, a juicio del Juez que lo nombre.
+Para ser Juez Local se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año y tener la competencia necesaria para el desempeño del cargo.
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
-
-Los jueces locales serán nombrados cada dos años por los Jueces de Primera Instancia. El nombramiento será sometido a la aprobación del Pleno del Supremo Tribunal de Justicia.
+Los Jueces Locales serán nombrados cada dos años por el Consejo del Poder Judicial del Estado.
 
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -2207,9 +2227,9 @@ En los procesos electorales distritales y municipales que se rigen por el princi
 
 Las listas de representación proporcional a cargos de elección popular a nivel estatal y municipal de propietarios y suplentes, se conformarán y asignarán en fórmulas y planillas, bajo el principio de alternancia de ambos géneros, hasta agotar el derecho de cada partido político.
 
-> <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
-Artículo 150 B. La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial del Estado, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la Autoridad Administrativa del Gobierno Estatal y a los Ayuntamientos, la aplicación de sanciones por las infracciones a los reglamentos gubernativos y de policía, que consistirán únicamente en multa o arresto hasta por treinta y seis horas. Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. La multa impuesta a los trabajadores no asalariados no excederá del equivalente a un día de su ingreso.
+Artículo 150 B.- La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Estatal Investigadora, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa del gobierno estatal y a los ayuntamientos la aplicación de sanciones por las infracciones a los reglamentos gubernativos y de policía, que consistirán únicamente en multa o arresto hasta por treinta y seis horas. Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. La multa impuesta a los trabajadores no asalariados no excederá del equivalente a un día de su ingreso.
 
 ###### Artículo 151.
 
@@ -3036,6 +3056,58 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones normativas de naturaleza inferior que se opongan a la presente reforma constitucional.
+
+B.O. 22 DE FEBRERO DE 2007.
+
+LEY No. 165, QUE REFORMA LOS ARTICULOS 95, 101 Y 150-B DE LA CONSTITUCION.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo, en su caso, que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que lleve a cabo el cómputo respectivo y en caso de resultar aprobada la presente Ley por, cuando menos, la mitad más uno de los ayuntamientos de los Municipios de la Entidad, se remita al Titular del Poder Ejecutivo Estatal para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE FEBRERO DE 2007.
+
+LEY No. 251, QUE REFORMA LA FRACCION XXII Y DEROGA LA XXIII DEL ARTICULO 64 DE LA CONSTITUCION.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo, en su caso, que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto que lleve a cabo el cómputo respectivo y en caso de resultar aprobada la presente Ley, por cuando menos, la mitad más uno de los ayuntamientos de los municipios de la Entidad, se remita al Titular del Poder Ejecutivo Estatal para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE FEBRERO DE 2007.
+
+LEY No. 253, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
+
+Se Instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remita al Titular del Poder Ejecutivo, en caso de resultar aprobada, para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de esta ley, dentro de los tres meses siguientes deberán establecerse las reformas a la Ley Orgánica del Poder Judicial del Estado para adecuarlas a las disposiciones constitucionales contenidas en la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del mismo plazo de tres meses, a partir de la entrada en vigor de esta ley deberá procederse a la designación de los integrantes del Consejo del Poder Judicial del Estado, a excepción del Presidente del Supremo Tribunal de Justicia. Por esta única ocasión, la duración de los consejeros en sus cargos, para efectos de la sustitución escalonada prevista en el artículo 120, quinto párrafo, de la Constitución Política del Estado de Sonora, se sujetará a lo siguiente:
+
+Los períodos de los Consejeros correspondientes a los Magistrados del Supremo Tribunal de Justicia, Magistrados Regionales de Circuito o Jueces de Primera Instancia, designados por el Pleno del Supremo Tribunal de Justicia, serán de cinco años para el primero y de cuatro años para el segundo, y los correspondientes a los nombrados por el Congreso del Estado y por el Gobernador, serán de tres y dos años respectivamente. Los períodos se computarán a partir de la fecha en que quede instalado el nuevo Consejo del Poder Judicial del Estado.
+
+El nuevo Consejo del Poder Judicial del Estado deberá ser instalado por el Presidente del Supremo Tribunal de Justicia e iniciar sus funciones al entrar en vigor las reformas a la ley Orgánica del Poder Judicial del Estado, acorde con las disposiciones constitucionales que se establecen mediante la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+El Supremo Tribunal de Justicia y el Consejo del Poder Judicial del Estado constituido conforme a las leyes 179 y 181, publicadas los días once de noviembre y doce de diciembre de mil novecientos noventa y seis, respectivamente, en el Boletín Oficial del Gobierno del Estado de Sonora, continuarán ejerciendo sus atribuciones en los términos establecidos en la Ley Orgánica el Poder Judicial, hasta en tanto entren en vigor las reformas mediante las cuales ésta última se adecue a las disposiciones constitucionales contenidas en la presente ley y se instale el nuevo Consejo del Poder Judicial del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Al instalarse el nuevo Consejo del Poder Judicial del Estado, asumirá las funciones que constitucional y legalmente le corresponden, en sustitución del Consejo que deje de funcionar.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto que lleve a cabo el cómputo respectivo y en caso de resultar aprobada la presente Ley, por cuando menos, la mitad más uno de los ayuntamientos de los municipios de la Entidad, se remita al Titular del Poder Ejecutivo Estatal para su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
