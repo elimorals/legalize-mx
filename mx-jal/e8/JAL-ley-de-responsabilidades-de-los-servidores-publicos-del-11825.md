@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2007-01-05"
+last_updated: "2007-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -119,13 +119,19 @@ I. El ataque que perturbe la vida jurídica y el buen funcionamiento de las inst
 
 II. Los actos u omisiones encaminados a alterar la forma de gobierno republicano, representativo y popular establecida por la Constitución Política de los Estados Unidos Mexicanos y por la Constitución Política del Estado de Jalisco;
 
-III. Las violaciones graves o sistemáticas a las garantías individuales o sociales, siempre y cuando estén fundadas en sentencias firmes emanadas de los tribunales competentes; y
+III. Las violaciones graves o sistemáticas a las garantías individuales o sociales, siempre y cuando estén fundadas en sentencias firmes emanadas de los tribunales competentes; y (sic)
 
-IV. Los actos u omisiones que contravengan la Constitución local o las leyes que de ella emanan o los reglamentos, cuando causen daños patrimoniales graves al Estado, al municipio o a la sociedad, o motiven algún trastorno grave en el funcionamiento normal de sus instituciones.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2002)</small>
+IV. Los actos u omisiones que contravengan la Constitución local o las leyes que de ella emanan o los reglamentos, cuando causen daños patrimoniales graves al Estado, al Municipio o a la sociedad, o motiven algún trastorno grave en el funcionamiento normal de sus instituciones;
 
-V. Percibir o asignar cualquier tipo de pago, prestación, compensación o bono alguno que no esté expresamente asignado en el presupuesto de egresos correspondiente.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+V. Autorizar o asignar cualquier tipo de percepción distinta al salario y a las prestaciones que se encuentren expresamente establecidas en la ley y asignadas en el presupuesto de egresos correspondiente. Cuando la autorización o asignación sea producto de un acuerdo colegiado, serán responsables los servidores públicos que hubieren votado a favor; y
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+VI. Recibir cualquier tipo de percepción distinta al salario y a las prestaciones que se encuentren expresamente establecidas en la ley y asignadas en el presupuesto de egresos correspondiente.
 
 El ataque, la violación, el daño o trastorno a que se refieren las fracciones anteriores, debe ser cierto y existir la evidencia de haberse producido como consecuencia directa e inmediata del acto u omisión del servidor público.
 
@@ -703,7 +709,7 @@ XXIX. Las demás que le impongan las leyes y reglamentos.
 
 ###### Artículo 62.
 
-Incurren en responsabilidad administrativa, los servidores públicos por el incumplimiento de cualquiera de las obligaciones a que se refiere el artículo anterior.
+Incurren en responsabilidad administrativa los servidores públicos que comentan actos u omisiones en contravención de cualquier disposición legal relacionada con el cumplimiento de sus obligaciones.
 
 Cualquier persona, mediante la presentación de elementos de prueba, podrá denunciar actos y omisiones que impliquen responsabilidad de los servidores públicos. No se dará trámite alguno a denuncias o quejas anónimas.
 
@@ -813,6 +819,10 @@ V. En la Comisión Estatal de Derechos Humanos, el presidente como titular del o
 
 VI. En el Consejo Electoral del Estado, los órganos y autoridades que establezcan sus propias leyes, reglamentos y estatutos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2007)</small>
+
+Cuando alguno de los servidores públicos que integran los entes públicos a que se refiere este artículo incurran en responsabilidad administrativa, deberá instaurarse por la autoridad correspondiente el procedimiento que establece esta ley, sancionándolos de conformidad con la misma, sin más limitaciones que las establecidas en la legislación aplicable a la materia.
+
 ###### Artículo 68.
 
 Los funcionarios que conforme a la presente ley deban aplicar las sanciones a los servidores públicos por violaciones a la misma, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, lo ameriten los antecedentes y circunstancias del infractor, y el daño causado no exceda de cien veces el salario mínimo diario vigente en la zona económica correspondiente y en su caso sea reparado el daño al Estado o Municipio.
@@ -898,6 +908,8 @@ Si el servidor público reubicado provisionalmente no resultare responsable de l
 Se requerirá autorización del gobernador del Estado para la suspensión provisional a que se refiere el artículo anterior, si el nombramiento del servidor público de que se trate incumbe directamente a éste. Asimismo, se requerirá de autorización del Congreso del Estado, si el nombramiento requirió ratificación de éste en los términos de la Constitución Política del Estado.
 
 ### Capítulo II. DE LAS SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 72.
 
@@ -1238,3 +1250,7 @@ primero. el presente decreto entrará en vigor al día siguiente de su publicaci
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL TRANSITORIO SEGUNDO INDICADO CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 segundo. se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 22 DE FEBRERO DE 2007.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
