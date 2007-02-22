@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2007-02-10"
+last_updated: "2007-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -209,7 +209,9 @@ XIX. El control y evaluación gubernamental y la vigilancia del gasto público;
 
 XX. El apoyo, control y vigilancia en la prestación de los servicios de salud y bienestar social;
 
-XXI. La promoción de la participación social en asuntos de interés colectivo; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+XXI. El fomento y promoción de la participación ciudadana, así como el incentivo la intervención de los organismos de la sociedad en asuntos de interés colectivo;
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
@@ -217,11 +219,11 @@ XXII. La prevención y disminución de la contaminación ambiental y el establec
 
 XXIII. Las demás atribuciones generales que le confieran las leyes, reglamentos y decretos vigentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Art. 23.
 
-Las atribuciones que la Ley otorga al Gobernador de Jalisco, como Titular del Poder Ejecutivo, se encomendarán a las siguientes Secretarías y dependencias:
+Las atribuciones que la Ley otorga al Gobernador del (sic) Jalisco, como titular del Poder Ejecutivo, se encomendarán a las siguientes secretarías y dependencias:
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -231,73 +233,77 @@ I. Secretaría General de Gobierno;
 
 II. Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-III. Secretaría de Desarrollo Urbano;
+III. Secretaría de Planeación;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-IV. Secretaría de Desarrollo Rural;
+IV. Secretaría de Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-V. Secretaría de Promoción Económica;
+V. Secretaría de Desarrollo Rural;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-VI. Secretaría de Turismo;
+VI. Secretaría de Promoción Económica;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-VII. Secretaría de Educación;
+VII. Secretaría de Turismo;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-VIII. Secretaría de Cultura;
+VIII. Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-IX. Secretaría de Salud;
+IX. Secretaría de Cultura;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-X. Secretaría de Vialidad y Transporte;
+X. Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-XI. Secretaría de Administración;
+XI. Secretaría de Vialidad de (sic) Transporte;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-XII. Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+XII. Secretaría de Administración;
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-XIII. Secretaría de Medio Ambiente para el Desarrollo Sustentable;
+XIII. Secretaría de Seguridad Pública, Prevención y Readaptación Social;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-XIV. Contraloría del Estado, y (sic)
+XIV. Secretaría de Medio Ambiente para el Desarrollo Sustentable;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-XV. Procuraduría de Desarrollo Urbano;
+XV. Contraloría del Estado;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-XVI. Secretaría del Trabajo y Previsión Social;
+XVI. Procuraduría de Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-XVII. Secretaría de Desarrollo Humano;
+XVII. Secretaría del Trabajo y Previsión Social;
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-XVIII. Procuraduría General de Justicia; y
+XVIII. Secretaría de Desarrollo Humano;
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-XIX. Procuraduría Social.
+XIX. Procuraduría General de Justicia; y
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+XX. Procuraduría Social.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2007)</small>
 
@@ -429,11 +435,13 @@ XXX. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
 XXXI. Coordinar las funciones de protección ciudadana de competencia del Ejecutivo;
 
-XXXII. Promover y encauzar la participación social;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+XXXII. Promover, fortalecer y encauzar la participación ciudadana, así como el incentivo de la intervención de los organismos de la sociedad civil;
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
-XXXIII.- Ser la autoridad rectora en materia de firma electrónica certificada;
+XXXIII. Ser la autoridad rectora en materia de firma electrónica certificada;
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -552,6 +560,44 @@ XXXVI. Vigilar que en el proyecto de Presupuesto de Egresos del Estado que se po
 (ADICIONADA, P.O. 26 DE AGOSTO DE 2004) (F. DE E., P.O. 16 DE DICIEMBRE DE 2004)
 
 XXXVII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+###### Art. 31 Bis.
+
+La Secretaría de Planeación es la dependencia facultada para dirigir y coordinar el Sistema Estatal de Planeación para el desarrollo del Estado. A ella corresponde el despacho de los siguientes asuntos:
+
+I. Promover y coordinar, en el seno del Comité de Planeación para el Desarrollo del Estado, la formulación, instrumentación, control, evaluación, diagnóstico y, en su caso, actualización del Plan Estatal de Desarrollo;
+
+II. Coordinar los trabajos que en las etapas de planeación, presupuestación, evaluación, diagnóstico e información corresponde realizar al Comité de Planeación para el Desarrollo del Estado, y procurar la compatibilidad y coordinación que en la materia lleven a cabo la Federación y los Municipios;
+
+III. Fomentar en el seno del Comité de Planeación para el Desarrollo del Estado la coordinación entre los Gobiernos Federal, Estatal y Municipales, y la cooperación de los sectores social y privado, para la instrumentación a nivel local de los planes Nacional, Estatal y Municipales;
+
+IV. Coordinar el control y la evaluación del Plan Estatal de Desarrollo, para adecuarlo a las previsiones de los planes que formule el Ejecutivo Federal e incidan localmente, así como coadyuvar al oportuno cumplimiento de sus objetivos y metas;
+
+V. Sugerir a los Ejecutivos Federal y Estatal, programas y acciones a concertar mediante convenios, con el propósito de coordinarse para alcanzar los objetivos del desarrollo del Estado;
+
+VI. Evaluar sistemáticamente el desarrollo y el impacto socioeconómico que produzcan los programas y acciones que deriven del sistema estatal de planeación;
+
+VII. Promover en el seno del Comité de Planeación para el Desarrollo del Estado, acuerdos de cooperación y colaboración entre el sector público y los sectores social y privado que actúen a nivel estatal, tendientes a orientar sus esfuerzos hacia el logro de los objetivos del desarrollo de la entidad;
+
+VIII. Promover la coordinación con los organismos o dependencias de planeación de otras entidades federativas, a fin de coadyuvar en la definición, instrumentación y evaluación de planes para el desarrollo de regiones interestatales, con la intervención que corresponda a la Federación para tales efectos;
+
+IX. Fungir como órgano de consulta del Gobierno Federal y de los gobiernos municipales sobre la situación socioeconómica de la entidad;
+
+X. Prestar asesoría y asistencia técnica a las entidades de coordinación municipales y a las dependencias de planeación de los gobiernos municipales.
+
+XI. Proponer a los Gobiernos Estatal, Federal y Municipales, medidas de carácter jurídico, administrativo y financiero, necesarias para mejorar las condiciones socioeconómicas de Jalisco;
+
+XII. Coordinar el funcionamiento de los Subcomités sectoriales, regionales y especiales, así como de grupos de trabajo, que actúen como instancias auxiliares del Comité de Planeación para el Desarrollo del Estado;
+
+XIII. Diseñar, generar y operar, el sistema de información estratégica del Estado de Jalisco;
+
+XIV. Proponer al titular del Poder Ejecutivo las principales directrices de acciones estratégicas en torno a los asuntos públicos relevantes para la entidad;
+
+XV. Formular, actualizar y proponer al Titular del Poder Ejecutivo, los instrumentos normativos, metodológicos y reglamentarios internos que establecen las leyes, para el mejor funcionamiento y administración del Sistema Estatal de Planeación y del Comité de Planeación para el Desarrollo del Estado;
+
+XV (SIC). Las demás que le asignen la Ley, el presente reglamento y otras leyes e instrumentos normativos en la materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
 
@@ -1255,13 +1301,17 @@ XII. Concertar acciones y convenios con el sector privado, para la prestación y
 
 XIII. Promover el fortalecimiento de la gestión social a través de políticas y programas de participación ciudadana;
 
-XIV. Impulsar y encauzar a la sociedad civil para que participe en la elaboración ejecución y evaluación de políticas sociales de desarrollo;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+XIV. Impulsar la participación ciudadana y encauzar a los organismos de la sociedad civil para que participen en la elaboración, ejecución y evaluación de políticas sociales de desarrollo;
 
 XV. Coordinar a través de los convenios respectivos con los municipios, la prestación y promoción de los servicios de asistencia social, así como fomentar y apoyar la creación de centros comunitarios para este fin, ya sea de manera directa o en coordinación con las autoridades municipales;
 
 XVI. Evaluar diseñar y ejecutar programas que impulsen el desarrollo humano en el Estado en forma directa o a través de los diversos organismos encargados de estos asuntos;
 
-XVII. Promover e impulsar en el Estado, la cultura en que se sustenta el desarrollo humano integral, la de la resolución alternativa de conflictos y la cooperación ciudadana;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+XVII. Promover e impulsar en el Estado, la cultura en que se sustenta el desarrollo humano integral, la de la resolución alternativa de conflictos y la cooperación y participación ciudadana;
 
 XVIII. Promover y realizar estudios e investigaciones así como llevar a cabo actividades formativas en torno a temas relacionados con el desarrollo humano;
 
@@ -1886,3 +1936,29 @@ QUINTO.- En el cumplimiento del presente Decreto, se respetarán los derechos la
 P.O. 10 DE FEBRERO DE 2007.
 
 Único. El presente decreto entrará en vigor el día primero de abril de 2007, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 21824-LVII/07
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2007.
+
+DECRETO NUMERO 21825-LVII/07
+
+Primero. El presente Decreto entrará en vigor el día 1 de Marzo de 2007, previa publicación en el Periódico Oficial "El Estado de Jalisco", salvo la fracción XX del artículo 23, la cual entrará en vigor el 1° de abril de 2007.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Para la debida integración y estructura de la Secretaría de Planeación, las Secretarías de Finanzas y Administración, así como las demás dependencias que resulten involucradas, deberán prestar el auxilio y apoyo técnico que se les requiera conforme a las disposiciones legales aplicables y los programas y presupuestos vigentes.
+
+Cuarto. En el proceso de creación e instalación de la Secretaría de Planeación se preservarán íntegramente los derechos laborales de los servidores públicos que deban ser transferidos de una dependencia o entidad a ésta, debiendo sujetarse a lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+Quinto. Se autoriza a las Secretarías General de Gobierno, de Finanzas y de Administración para que determinen los recursos que tendrá asignados el Comité de Planeación para el Desarrollo del Estado y demás dependencias u organismos que pasen a formar parte de la Secretaría de Planeación, realizando para tal efecto los trámites que correspondan para transferirlos.
+
+Sexto. Todos los recursos materiales, financieros, humanos, tecnológicos y de metodología del Comité de Planeación para el Desarrollo del Estado pasarán a formar parte de la Secretaría de Planeación.
+
+Séptimo. En tanto se efectúa la adecuación de las disposiciones legales y reglamentarias pertinentes, las facultades del Comité de Planeación para el Desarrollo del Estado, que por virtud del presente decreto son conferidas a la Secretaría de Planeación, serán ejercidas por ésta; para cuyo efecto, el Secretario de Planeación asumirá concomitantemente el carácter de Coordinador General del Comité de Planeación para el Desarrollo del Estado.
+
+Octavo. El Ejecutivo del Estado expedirá el Reglamento Interior de la Secretaría de Planeación en un plazo no mayor de ciento ochenta días.
