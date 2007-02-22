@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2007-01-04"
+last_updated: "2007-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -191,35 +191,41 @@ Las niñas, los niños y adolescentes tienen derecho a un ambiente familiar sano
 
 Las niñas, los niños y adolescentes no podrán ser separados de sus padres sino mediante orden de autoridad competente que así lo declare, escuchándose de ser posible su opinión.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 11.
 
-Son obligaciones de madres, padres y de todas las personas que tengan a su cuidado niñas, niños y adolescentes:
-
-A. Proporcionarle una vida digna, procurando la satisfacción de alimentación, así como el pleno y armónico desarrollo de su personalidad en el seño de la familia, la escuela, la sociedad y las instituciones, de conformidad con lo dispuesto en el presente artículo.
-
-Para los efectos de este precepto, la alimentación competente esencialmente la satisfacción de las necesidades de comida, habitación, educación, vestido, asistencia en caso de enfermedad y recreación.
-
-B. Protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata y explotación. Lo anterior implica que la facultad que tienen quienes ejercen la patria potestad o la custodia de niñas, niños y adolescentes no podrán al ejercerla atentar contra su dignidad física o mental, ni actuar en menoscabo de su desarrollo.
-
-El hecho de que los padres no vivan en el mismo hogar, no impide que cumplan con las obligaciones que le impone la ley.
+Las niñas, los niños y adolescentes no podrán ser separados de sus padres sino mediante orden judicial, o medida cautelar del Ministerio Público que así lo declare, escuchándose de ser posible su opinión.
 
 ###### Artículo 12.
 
 Es interés superior el que las niñas, los niños y adolescentes se desarrollen en un ambiente familiar sano, de conformidad a la legislación aplicable y privilegiando el siguiente orden de preferencias:
 
-I. Con sus progenitores;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-II. Con la madre, cuando no convivan ambos progenitores, si es que existe la disposición y la posibilidad afectiva de su custodia, además de que no tenga una conducta nociva a la salud física y psíquica de la niña, niño o adolescente;
+I. Con sus padres;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+II. Con la madre, cuando no convivan ambos padres, si es que existe la disposición y la posibilidad afectiva de su custodia, además de que no tenga una conducta nociva a la salud física y psíquica de la niña, niño o adolescente;
 
 III. En caso a lo previsto en la fracción anterior, corresponderá la custodia al padre, siempre que reúna los mismos requisitos de disposición y posibilidad afectiva de la custodia, así como buena conducta;
 
-IV. Cuando ninguno de los dos progenitores tenga la custodia de la niña, niño o adolescentes, ésta podrá ser confiada a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de afecto, nacido y sancionado por actos religiosos o respetados por la costumbre; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-V. Establecimientos públicos previamente constituidos para esos fines; organismos descentralizados que otorguen esas prestaciones y en las instituciones particulares especialmente instituidas para ellos.
+IV. Cuando ninguno de los padres tenga la custodia de la niña, niño o adolescentes, ésta podrá ser confiada a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de afecto, nacido y sancionado por actos religiosos o respetados por la costumbre;
 
-En cualquiera de los supuestos previstos en las fracciones que anteceden, los progenitores tienen el deber y el derecho de visitar y convivir con sus hijos para que no se pierdan los vínculos afectivos que nacen de toda relación paternofilial, salvo resolución judicial en contrario.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+V. Establecimientos públicos previamente constituidos para esos fines; organismos descentralizados que otorguen esas prestaciones y en las instituciones particulares especialmente instituidas para ellos: y
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+VI. En convivencia con personas a quienes se les autorice la custodia personal.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+En cualquiera de los supuestos previstos en las fracciones que anteceden, los progenitores tienen el debe (sic) y el derecho de visitar y convivir con sus hijos para que no se pierdan los vínculos afectivos que nacen de toda relación paterna filial, salvo resolución judicial en contrario.
 
 ###### Artículo 13.
 
@@ -764,3 +770,9 @@ P.O. 28 DE DICIEMBRE DE 2006.
 P.O. 4 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
