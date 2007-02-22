@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2007-01-30"
+last_updated: "2007-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -4165,6 +4165,20 @@ III. Prestando sus servicios como auditor técnico, especialista o perito especi
 
 IV. No realice o cumpla las medidas técnicas, correctivas o de seguridad, necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+###### Art. 297.
+
+Al que sin autorización legal acopie, almacene, transforme, transporte, comercie o destruya hasta menos de cuatro metros cúbicos de recursos forestales maderables, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le aplicarán de un año a cinco años de prisión y multa por el importe de cien a mil días de salario mínimo general vigente.
+
+La pena privativa de la libertad a la que hace referencia en el párrafo anterior, se incrementará hasta en tres años más de prisión y la pena económica hasta en mil días multa, cuando los recursos forestales maderables provengan de un área natural protegida.
+
+Cuando en la comisión de este delito se empleen los instrumentos conocidos como motosierras, sierras manuales o sus análogas, vehículos y demás objetos, se aumentará la pena de prisión hasta tres años.
+
+Los instrumentos y efectos del delito se asegurarán de oficio por el Ministerio Público, quien los pondrá a disposición de la autoridad judicial para el decomiso correspondiente, independientemente de que puedan estar a disposición de otra autoridad.
+
+No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del presente artículo, cuando se trate de leña o madera muerta, así como cuando el sujeto activo sea campesino o indígena y realice la actividad con fines de uso o consumo doméstico dentro de su comunidad y las cantidades no sean superiores a cuatro metros cúbicos o, en su caso, a su equivalente en madera aserrada.
+
 ## TRANSITORIOS
 
 Artículo Primero. Este Código empezará a regir sesenta días después de su publicación.
@@ -4524,3 +4538,7 @@ DECIMO. El titular del Poder Ejecutivo Estatal dispondrá que el presente decret
 P.O. 30 DE ENERO DE 2007.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2007.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
