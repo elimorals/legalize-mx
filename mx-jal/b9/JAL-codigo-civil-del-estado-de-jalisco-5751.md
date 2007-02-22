@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2007-01-13"
+last_updated: "2007-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3183,11 +3183,17 @@ b) Hijos de filiación desconocidos;
 
 c) Los declarados judicialmente abandonados;
 
-d) Aquellos a cuyos padres se les haya sentenciado a la pérdida de la patria potestad;
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+d) Aquellos a cuyos padres o abuelos se les hayan sentenciado a la pérdic (sic) de la patria potestad; y
 
 e) Aquellos cuyos padres o tutor o quienes ejerzan la patria potestad otorguen su consentimiento;
 
 II. Los mayores de edad cuando sean incapaces.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+III. Los mayores de edad, si antes de serlo hubieran estado bajo el cuidac (sic) personal de los presuntos adoptantes y existieran entre ellos lazos afectivos c (sic) carácter filial.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3195,7 +3201,9 @@ II. Los mayores de edad cuando sean incapaces.
 
 En toda adopción se deberá asegurar:
 
-I. Que las personas y organismos, cuyo consentimiento se requiera para la adopción, han sido convenientemente asesoradas y debidamente informadas por el Consejo de Familia de las consecuencias legales que la adopción implica y del consentimiento otorgado en particular de la ruptura de los vínculos jurídicos entre el infante y su familia de origen en su caso;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+I. Que las personas y organismos, cuyo consentimiento se requiera para l (sic) adopción, han sido convenientemente asesoradas y debidamente informad (sic) por el Consejero Estatal o Municipal de familia, de las consecuencias legal (sic) que la adopción implica y del consentimiento otorgado en particular de l (sic) ruptura de los vínculos jurídicos entre el infante y su origen en su caso;
 
 II. Que el consentimiento ha sido otorgado libremente, ante cualquier persona previa asesoría y por escrito ratificado ante el Juez que conozca del procedimiento de adopción, o en el caso que medie urgencia, ante el Ministerio Público, el cual deberá entregar al juez que conozca del trámite el documento que ampare el consentimiento donde consten los motivos de dicha urgencia;
 
@@ -3203,7 +3211,9 @@ III. Que para otorgarse el consentimiento no ha mediado pago o compensación alg
 
 IV. Cuando sea el caso, que el consentimiento de la madre, sea otorgado cuando menos veinte días después del alumbramiento;
 
-V. Que el adoptante o los adoptantes, según el caso, han recibido por parte del Consejo de Familia, la debida asesoría y capacitación sobre los alcances psíquicos, afectivos y jurídicos que la adopción les implica;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+V. Que el adoptante o los adoptantes, según el caso, han recibido por part (sic) del Consejo de Familia en el Estado de Jalisco sea estatal o municipal, l (sic) debida asesoría y capacitación sobre los alcances psíquicos afectivos (sic) jurídicos que la adopción implica.
 
 VI. Que en el caso de las madres menores de edad no emancipadas, el consentimiento otorgado se haga conforme a lo establecido en este Código para el caso de incapaces; y
 
@@ -3217,11 +3227,13 @@ En todos los casos los adoptantes deben tener al momento del inicio de los trám
 
 En todos los casos de adopción, se tendrán como preferentes los intereses del adoptado sobre los de los adoptantes.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Art. 523.
 
-El consentimiento, tratándose de niños cuyos padres han fallecido, lo deben dar las personas a quienes por ley les corresponda el ejercicio de la patria potestad; y tratándose de niños expósitos o abandonados, el consentimiento lo dará el Consejo de Familia.
+El consentimiento, tratándose de niños cuyos padres ha (sic) fallecido, o han perdido la patria potestad; lo deben dar las personas (sic) quienes por ley corresponda el ejercicio de la patria potestad o la tutel (sic) legítima; y tratándose de niños de filiación desconocida, expósitos (sic) abandonados, el consentimiento lo dará el Consejo de familia.
+
+Para las adopciones a las que se refiere la fracción III del artículo 520, (sic) consentimiento lo debe dar la persona que pretende ser adoptada.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3269,19 +3281,19 @@ La adopción tiene el carácter de confidencial. Se deberá garantizar la discre
 
 El adoptado tendrá para con la persona o personas que lo adopten, los mismos derechos y obligaciones que tiene un hijo.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Art. 531.
 
-El Consejo de Familia, en todos los casos de adopción, deberá darle seguimiento, mínimo durante dos años a partir de que fue otorgada para procurar se cumplan los fines para los que fueron instituidos, dictando en caso necesario las providencias para ello.
+El Consejo de Familia, en todos los casos de adopción debe (sic) darle seguimiento permanente a partir de que fue otorgada para procurar s (sic) cumplan los fines para los que fueron instituidos, dictando en caso necesari (sic) las providencias para ello.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Art. 532.
 
-Cuando el Consejo de Familia lo estime conveniente, podrá solicitar al juez que conozca del procedimiento de adopción otorgue en forma temporal la custodia del presunto adoptado, el cual deberá resolver de plano, siempre y cuando los presuntos adoptantes ya hubieren satisfecho los requisitos a que se refiere la fracción V del artículo 521.
+Cuando el Consejo de Familia lo estime conveniente, podrá solicitar al juez que conozca del procedimiento de adopción otorgue en forma temporal la custodia del presunto adoptado, el cual deberá resolver de plano, siempre y cuando los presuntos adoptantes ya hubieren satisfecho los requisitos a que se refiere la fracción V del artículo 521; en estos casos los presuntos adoptantes no podrán trasladar al menor fuera del Estado hasta tanto no se otorgue la adopción correspondiente.
 
-La custodia otorgada en términos del párrafo anterior, podrá ser revocada por el juez que la otorgó a petición fundada del Ministerio Público o del Consejo de Familia.
+Los presuntos adoptantes podrán renunciar a la custodia temporal que les fue otorgada devolviendo al menor al Consejo de Familia, levantando un acta de ello en que se precise el Estado y Salud y condiciones en que se encuentre el menor.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3319,11 +3331,11 @@ El juez deberá garantizar el derecho de audiencia y defensa de los parientes qu
 
 Si el menor que se va a adoptar tiene más de doce años, también se necesita su consentimiento para la adopción.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Art. 537.
 
-Cuando el tutor o el Consejo de Familia no consienten en la adopción, deberán expresar la causa en que se funden, la que el juez calificará tomando en cuenta los intereses del menor.
+Cuando el tutor o el Consejo de Familia no consienten en la adopción; o el Ministerio Público se oponga a la misma, deberán expresar la causa en que se funde, la que el juez calificará tomando en cuenta los intereses del menor.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3569,17 +3581,31 @@ Cuando de una misma fuente de obligaciones resulten acreedores cualquier persona
 
 Es interés superior de la niñez, desarrollarse en un ambiente sano familiar, de conformidad con el siguiente orden de preferencias:
 
-I. Con sus progenitores;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-II. Cuando no convivan ambos progenitores, con la madre si es que existe la disposición y la posibilidad afectiva de su custodia y además, no tiene una conducta nociva a la salud física o psíquica del menor;
+I. Con sus padres;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+II. Cuando no convivan ambos padres, con la madre si es que exista la disposición y la posibilidad afectiva de su custodia y además, no tiene una conducta nociva a la salud física o psíquica del menor;
 
 III. En caso contrario a lo previsto en la fracción anterior, corresponderá la custodia al padre, siempre que reúna los mismos requisitos de disposición y posibilidad afectiva de custodia, así como buena conducta;
 
-IV. Cuando ninguno de los dos progenitores tenga la custodia del menor; ésta podrá ser confiada a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de afecto, nacido y sancionado por actos religiosos o respetados por la costumbre;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-V. Establecimientos públicos previamente constituidos para esos fines; organismos descentralizados que otorguen esas prestaciones y en las instituciones de particulares especialmente instituidos para ello; y
+IV. Cuando ninguno de los padres tenga la custodia del menor; ésta podrá ser confiada a los ascendentes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de afecto, nacido y sancionado por actos religiosos o respetados por la costumbre; siempre y cuando el medio sea idóneo para el menor;
 
-VI. En cualquiera de los supuestos previstos en las fracciones que anteceden, los progenitores tienen el deber y el derecho de visitar y convivir con sus hijos, para que no se pierdan los vínculos afectivos que nacen de toda relación paterno-filial.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+V. Establecimientos públicos previamente constituidos para esos fines; organismos descentralizados que otorguen esas prestaciones y en las instituciones de particulares especialmente instituidos para ello;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+VI. En convivencia con persona (sic) a quienes se les autorice la custodia personal.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+En cualquiera de los supuestos previstos en las fracciones que anteceden, los padres tienen el deber y el derecho de visitar y convivir con sus hijos, para que no se pierdan los vínculos afectivos que nacen de toda relación paterno-filial, y en caso de menores sujetos a la tutela o custodia de alguna institución, estas deberán de vigilar dicha convivencia.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2004)</small>
 
@@ -3605,9 +3631,13 @@ La niñez tiene derecho al descanso y al esparcimiento, al juego y a las activid
 
 Los progenitores tendrán igual trato y consideración hacia sus hijos, sin que puedan existir preferencias de los unos sobre los otros. Solamente cuando algún infante requiera de atención médica y educativa especializada, se deberá efectuar esa distinción afectiva.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
 ###### Art. 577.
 
-Cuando la convivencia del menor con determinadas personas vaya en detrimento de los preceptos establecidos en este capítulo, incluyéndose a quienes sobre él ejercen la patria potestad, el juez podrá decretar la cesación de esa convivencia a petición de cualesquiera de los ascendientes; del Consejo de Familia o del ministerio público.
+Cuando la convivencia del menor con determinadas personas vaya en detrimento de los preceptos establecidos en este capítulo; incluyéndose a quienes sobre (sic) él ejercen la patria potestad, el juez podrá decretar la cesación de esa convivencia a petición de cualesquiera de los ascendientes Consejo de Familia del Ministerio Público.
+
+El Ministerio Público también podrá decretar, como medida cautelar, la cesación de la convivencia cuando sea conocedor de la probable comisión de un delito que exponga la integridad del menor.
 
 ## TITULO NOVENO. De la tutela
 
@@ -3749,17 +3779,21 @@ III. Por la mayoría de edad de éste; y
 
 IV. Por la revocación de la adopción simple.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+
 ###### Art. 598.
 
-La patria potestad se pierde:
+La Patria Potestad se pierde:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
-I. Cuando quien la ejerce comete el delito de abandono de personas, u otro delito doloso, en perjuicio del menor o su patrimonio;
+I. Cuando quien la ejerce comete algún delito intencional que afecte al menor o a su patrimonio; o consienta que terceras personas lo cometan;
 
 II. Cuando el que la ejerce es condenado expresamente a su pérdida;
 
-III. Cuando por malas costumbres de quienes la ejerzan, malos tratamientos o abandono de sus deberes frente a sus descendientes, se comprometa la salud física o psíquica, la seguridad o la moralidad sobre de quienes se ejerce, aunque esos hechos no sean penalmente punibles;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+III. Cuando por malas costumbres de quienes la ejerzan, malos tratamientos o abandono de sus deberes frente a sus descendientes, se comprometa la salud física o psíquica, la seguridad o la moralidad sobre de quienes se ejerce, aunque esos hechos no sean penalmente punibles, o consienta que terceras personas lo realicen;
 
 IV. Cuando quien la ejerce:
 
@@ -3993,7 +4027,9 @@ I. De los expósitos;
 
 II. De los menores abandonados sean estos huérfanos, expuestos por el titular de su patria potestad o tutela o maltratados reiteradamente por sus parientes; y
 
-III. De los menores no sujetos a patria potestad o a tutela que se encuentren internados en casas de asistencia, instituciones educativas ya sean éstas públicas, descentralizadas de organismos de asistencia y seguridad social o privados, los internados en inclusas, hospicios y demás casas de beneficencia.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE FEBRERO DE 2007)</small>
+
+III. De los menores no sujetos a patria potestad o a tutela, o cuando quienes ejercen la patria potestad sean ilocalizables, y que se encuentren internados en casas de asistencia, instituciones educativas ya sean estas públicas, descentralizadas de organismos de asistencia y de seguridad social o privados, los internados en inclusas (sic), hospicios y demás casa (sic) de beneficencia.
 
 ### CAPITULO VII. De las excusas para el desempeño de la tutela
 
@@ -17738,3 +17774,9 @@ DECIMO. El titular del Poder Ejecutivo Estatal dispondrá que el presente decret
 P.O. 13 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
