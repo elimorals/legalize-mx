@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2004-09-21"
+last_updated: "2007-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -613,7 +613,9 @@ Si del resultado de la inspección se determina la comisión de alguna infracci�
 
 Las actuaciones y diligencias previstas en esta ley se deben practicar únicamente en días y horas hábiles, salvo las visitas de verificación que pueden practicarse en cualquier tiempo.
 
-Para los efectos de esta ley se consideran días inhábiles: los sábados y domingos; 1º de enero, 5 de febrero, 1º de marzo de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo del Estado de Jalisco, 21 de marzo, 1º de mayo, 5 de mayo, 16 de septiembre, 20 de noviembre, 1º de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre; así como los días en que tengan vacaciones generales las autoridades competentes o aquéllos cuando se suspendan las labores, los cuales deben hacer del conocimiento público mediante acuerdo del titular de la dependencia o entidad respectiva, mismos que se deberán publicar en los medios escritos oficiales de divulgación.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+Para los efectos de esta ley se consideran días inhábiles: los sábados y domingos; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; 1º. Y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral; así como los días en que tengan vacaciones generales las autoridades competentes o aquellos cuando se suspendan las labores, los cuales deben hacer del conocimiento público mediante acuerdo del titular de la dependencia o entidad respectiva, mismos que se deberán publicar en los medios escritos oficiales de divulgación.
 
 ###### Artículo 78.
 
@@ -1248,3 +1250,7 @@ P.O. 21 DE JULIO DE 2001.
 P.O. 21 DE SEPTIEMBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2007.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
