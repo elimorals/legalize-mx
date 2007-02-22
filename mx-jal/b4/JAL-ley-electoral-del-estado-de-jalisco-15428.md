@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "2007-01-05"
+last_updated: "2007-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -1845,7 +1845,9 @@ XXVI. Aplicar las sanciones que correspondan conforme a las disposiciones previs
 
 XXVII. Aprobar anualmente, a más tardar en el mes de julio de cada año, el proyecto de presupuesto de egresos del propio Instituto, el cual será propuesto por su Presidente;
 
-El Presidente y los Consejeros Electorales del Instituto Electoral no podrán recibir un salario superior al aprobado para los funcionarios del nivel 28 de la plantilla de personal del Poder Ejecutivo del Gobierno del Estado;
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+El Presidente y los Consejeros Electorales del Instituto Electoral recibirán un salario apegado a lo dispuesto por el Comité Técnico de Transparencia y Valoración Salarial.
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
 
@@ -5962,3 +5964,7 @@ P.O. 5 DE ENERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 22 DE FEBRERO DE 2007.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
