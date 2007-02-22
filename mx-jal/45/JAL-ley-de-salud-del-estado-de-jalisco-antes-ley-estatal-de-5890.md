@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2007-01-13"
+last_updated: "2007-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -2551,9 +2551,13 @@ El control sanitario de los rastros estará a cargo de la autoridad sanitaria co
 
 Los animales deberán ser examinados en pie y en canal por la autoridad sanitaria competente, la que determinará qué carne puede destinarse al consumo humano.
 
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
-Queda prohibido el sacrificio de animales destinados al consumo humano que hayan sido alimentados con sustancias cuyo uso esté prohibido por las disposiciones legales aplicables.
+Será sancionado en los términos del Capítulo II del Título Décimo Segundo de la presente ley, el sacrificio de animales destinados al consumo humano que presenten residuos o sustancias tóxicas o riesgosas para la salud de los consumidores en términos de las disposiciones legales aplicables o en las normas oficiales mexicanas emitidas por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+Cuando resulte el caso de habérsele encontrado estos residuos o sustancias, la autoridad sanitaria procederá a sancionar y notificará de inmediato a las autoridades competentes para conocer de la infracción.
 
 ###### Art. 168.
 
@@ -3279,9 +3283,9 @@ Se sancionará con multa equivalente de cien hasta quinientas veces el salario m
 
 Se sancionará con multa (sic) con multa equivalente de quinientas hasta mil veces el salario mínimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos: 122 y 123 de esta ley.
 
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
-Se sancionará con multa equivalente de quinientos hasta tres mil veces el salario mínimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en el segundo párrafo del artículo 167 de esta ley.
+Se sancionará con multa equivalente de quinientos hasta tres mil veces el salario mínimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en el segundo y tercer párrafo del artículo 167 de esta ley.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3698,3 +3702,9 @@ P.O. 13 DE ENERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El reglamento correspondiente deberá ser adecuado en un término no mayor de 90 días posteriores a la publicación del presente decreto.
+
+P.O. 22 DE FEBRERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Salud se coordinará con las autoridades municipales para cumplir con lo dispuesto en el artículo 167.
