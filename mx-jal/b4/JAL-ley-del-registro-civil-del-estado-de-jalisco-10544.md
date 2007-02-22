@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2007-01-02"
+last_updated: "2007-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -403,6 +403,10 @@ Los apéndices estarán constituidos por todos los documentos relativos al acta 
 
 La declaración de nacimiento se hará por el padre, por la madre o ambos, o persona distinta, en los (sic) caso previsto por la ley, dentro de los ciento ochenta días siguientes a éste. El infante deberá ser presentado ante el Oficial del Registro Civil y en los casos que circunstancialmente sea necesario, éste acudirá al lugar en que se encuentre el infante.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2007)</small>
+
+En los casos de registro de niños de padres desconocidos, el término para levantar el acta no será mayor de treinta días.
+
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 41.
@@ -459,15 +463,21 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 Podrá reconocerse al hijo habido de una relación incestuosa. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta, pero en ella no se expresará que el hijo es incestuoso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 49.
 
-Toda persona que encontrare a un menor o en cuya casa o propiedad fuere expuesto o abandonado alguno, deberá presentarlo ante el agente del Ministerio Público, con los vestidos, valores o cualesquiera otros objetos encontrados con él; quien integrará la averiguación respectiva mencionando en ella el nombre de la persona o de la institución que se hará cargo de su protección y solicitará al oficial del Registro Civil levante el acta de nacimiento.
+Toda persona que encontrare a un menor o en cuya casa o propiedad fuere expuesto o abandonado alguno, deberá presentarlo ante el agente del Ministerio Público, o cualquier otra autoridad para que ésta de inmediato lo presente al Ministerio Público, con los vestidos, valores o cualesquiera otros objetos encontrados con él; quien integrará la averiguación respectiva mencionando en ella el nombre de la persona o de la institución que se hará cargo de su protección y solicitará el oficial del Registro Civil levante el acta de nacimiento.
 
 La misma obligación tienen los responsables de los reclusorios preventivos, instituciones de readaptación social; asociaciones religiosas y de cualesquiera casa de comunidad, especialmente las de hospitales, sanatorios, casas de maternidad u otros establecimientos similares, respecto de los niños nacidos o expuestos en ellas.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2007)</small>
 
-En todos los casos deberá existir constancia de la búsqueda de los progenitores por parte del representante social o los sistemas de desarrollo integral para la familia municipales, ello a fin de agotar la posibilidad de registrar al menor con los apellidos de sus padres.
+En caso en que posteriormente los padres aparecieran, se levantará un acta de reconocimiento siguiendo todos los requisitos que marca la Ley.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+En todos los casos deberá existir constancia de la búsqueda de los padres por parte del representante social o los sistemas de desarrollo integral para la familia, ello a fin de agotar la posibilidad de registrar al menor con los apellidos de sus padres.
 
 ###### Artículo 50.
 
@@ -575,11 +585,11 @@ La falta de registro de la adopción no quita a ésta sus efectos legales, pero 
 
 Artículo 67 bis.- En los casos de adopción plena, se cancelará la Clave Única de Registro Nacional de Población que hubiere sido asignada, y se asignará una nueva en la correspondiente acta en el presente caso, la dirección general del registro civil deberá notificar dicha circunstancia al registro nacional de población e identificación personal para los efectos correspondientes.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 68.
 
-El acta de adopción simple contendrá: nombre, apellidos, sexo, fecha de nacimiento, edad, domicilio y Clave Unica del Registro de Población del adoptado; nombre, apellidos, edad, estado civil, domicilio y nacionalidad del adoptante o adoptantes; y los datos esenciales de la resolución judicial, fecha en que causó ejecutoria y tribunal que la dictó.
+El acta de adopción simple contendrá: nombre, apellidos, sexo, fecha de nacimiento, edad, domicilio y clave única de registro de población del adoptado; nombre, apellidos, edad, estado civil, domicilio y nacionalidad del adoptante o adoptantes; el oficial del Registro Civil hará una anotación en donde manifieste la clave donde quedarán archivados los datos escenciales (sic) de la resolución judicial, fecha en que cause ejecutoria y tribunal que la dictó.
 
 ###### Artículo 69.
 
@@ -1294,3 +1304,9 @@ P.O. 4 DE JULIO DE 2006.
 P.O. 2 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
