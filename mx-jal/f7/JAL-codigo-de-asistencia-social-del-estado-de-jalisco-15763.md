@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2007-01-23"
+last_updated: "2007-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -595,9 +595,13 @@ III. Tener vocación de servicio y los conocimientos necesarios para el desempe�
 
 IV. Ser de reconocida honorabilidad;
 
-V. Tener cuando menos treinta años de edad el día de su nombramiento; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-VI. Para los Consejeros Ciudadanos, no desempeñar cargo dentro de la Administración Pública Federal, estatal o municipal a la fecha de su nombramiento.
+V. Tener cuando menos 30 años de edad el día de su nombramiento; y
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+VI. Para los consejeros ciudadanos, no desempeñar cargo dentro de la administración Pública Federal, Estatal o Municipal a la fecha de su nombramiento.
 
 ###### Artículo 36.
 
@@ -623,9 +627,11 @@ VIII. Aprobar el número, asignación y nombramiento de los delegados; y
 
 IX. Las demás que les confiera este Código y otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 37.
 
-Los requisitos para desempeñar el cargo de Secretario Ejecutivo serán los mismos que para ser Consejero Ciudadano, además de poseer el título de Abogado o su equivalente, con un ejercicio profesional de cuando menos cinco años anteriores al día de su designación.
+Los requisitos para desempeñar el cargo de Secretario Ejecutivo serán los mismos que para Consejero Ciudadano, además de poseer el título de Abogado o su equivalente, con un ejercicio profesional de cuando menos cinco años anteriores al día de su designación, preferentemente en las áreas de derecho civil, de familia o penal.
 
 ###### Artículo 38.
 
@@ -643,13 +649,15 @@ V. Tener conjuntamente con la Presidencia del Consejo Estatal y previo acuerdo d
 
 VI. Proponer al Consejo Estatal las prácticas y políticas generales que se habrán de seguir ante organismos gubernamentales, descentralizados o privados que se relacionen con el Derecho de Familia;
 
-VII. Promover y fortalecer las relaciones del Consejo Estatal con todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia y asistencia a la niñez, a los incapaces, a las madres en situación crítica ya sea afectiva o económica y a la familia;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+
+VII. Promover y fortalecer las relaciones del Consejo Estatal con todas las Instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia y asistencia a la niñez, a los adultos mayores, a los incapaces, a las madres en situación crítica ya sea afectiva o económica y a la familia;
 
 VIII. Promover y fomentar estudios sobre las materias de su competencia, a través de foros y publicaciones que tengan tal objeto;
 
 IX. Colaborar en la elaboración de los informes anuales de actividades que el Consejo Estatal de Familia deberá rendir el día treinta de abril de cada año;
 
-X. Resolver en definitiva sobre las inconformidades que por actuación de sus delegados planteen los interesados; y
+X. Resolver en definitiva sobre las inconformidades que por actuación de sus delegados planteen los interesados; y (sic)
 
 > <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
@@ -795,19 +803,17 @@ I. Estar inscrito en el Registro Estatal de Asistencia Social;
 
 II. Perseguir fines no lucrativos, en las condiciones y dentro de los límites fijados por el presente ordenamiento;
 
-III. Ser dirigido y administrado por personas cualificadas por su integridad moral y por su formación o experiencia para actuar en el ámbito del Derecho Familiar; y
+III. Ser dirigido y administrado por personas cualificadas por su integridad moral y por su formación o experiencia para actuar en el ámbito del Derecho Familiar; y (sic)
 
-IV. Estar sometido al control del Consejo Estatal de Familia en cuanto a su funcionamiento y situación financiera.
+IV. Estar sometido al control del Consejo Estatal de Familia en cuanto a su funcionamiento y situación financiera;
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-V. Solicitarlo por escrito, motivando el interés de su nombramiento;
+V. Solicitarlo por escrito, motivando el interés de su nombramiento; y acompañando la documentación que sea requerida por el reglamento del Consejo; y
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-VII (SIC). Los demás requisitos que señale el reglamento.
-
-Siempre que se cumplan todos los requisitos, el Consejo Estatal otorgará la acreditación dentro de los siguientes 30 días siguientes a la solicitud.
+VI. Los demás requisitos que señale el reglamento.
 
 ###### Artículo 51.
 
@@ -819,13 +825,11 @@ Los organismos públicos tendrán la calidad de delegados institucionales en los
 
 La actuación de los delegados en materia judicial se deberá entender de manera unitaria; y tendrán la representación jurídica del Consejo Estatal en todos los actos y procedimientos en los que intervengan dentro del ámbito de su competencia; Cuando tuvieren conocimiento de hechos que estimen delictivos, deberán formular las denuncias ante el Ministerio Público.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 53.
 
-Las actuaciones de los delegados podrán ser impugnadas por quien tenga interés para ello, dentro del término de tres días contados a partir de que tenga conocimiento de las actuaciones, ante el Secretario Ejecutivo del Consejo Municipal o Intermunicipal de Familia, o en su caso, ante el Secretario Ejecutivo del Consejo Estatal de Familia. Este recibida la inconformidad, bajo su responsabilidad, ordenará se rinda por el delegado un informe detallado, junto con las probanzas en lasa (sic) que apoye su actuación; recibido el informe o transcurrido el término fijado para su rendición, el Secretario Ejecutivo deberá resolver, haciendo saber el contenido de su resolución a las partes involucradas; cuando ello sea posible y así se acuerde en la resolución podrán retrotraerse los efectos de las actuaciones de los delegados consideradas ilegítimas.
-
-Los Consejos de Familia, podrán en forma oficiosa impugnar actos de los delegados.
+Las actuaciones de los delegados podrán ser impugnadas por quien tenga interés para ello, dentro del término de quince días contados a partir de que tenga conocimiento de las actuaciones, ante el Secretario Ejecutivo del Consejo Municipal, o en su caso, ante el Secretario Ejecutivo del Consejo Estatal de Familia. Este recibida la inconformidad, bajo su responsabilidad, ordenará se rinda por el delegado un informe detallado, junto con las probanzas en las que apoye su actuación; recibido el informe o transcurrido el término fijado para su rendición, el Secretario Ejecutivo deberá resolver, haciendo saber el contenido de su resolución a las partes involucradas; cuando ello sea posible y así se acuerde en la resolución podrán retrotraerse los efectos de las actuaciones de los delegados consideradas ilegítimas.
 
 ## TITULO SEGUNDO. DEL INSTITUTO JALISCIENSE DE ASISTENCIA SOCIAL
 
@@ -3562,3 +3566,9 @@ DECRETO NUMERO 21690.
 P.O. 23 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
