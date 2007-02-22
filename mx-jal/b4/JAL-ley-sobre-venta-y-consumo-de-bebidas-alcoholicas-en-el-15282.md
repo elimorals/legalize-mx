@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-15282"
 country: "mx"
 rank: "ley"
 publication_date: "1996-10-31"
-last_updated: "2007-01-13"
+last_updated: "2007-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 13 DE ENERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. EL 13 DE ENERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 31 de octubre de 1996.
 
@@ -571,8 +571,14 @@ P.O. 28 DE SEPTIEMBRE DE 2002.
 
 P.O. 13 DE ENERO DE 2007.
 
-PRIMERO. El presente decreto que contiene la Ley para regular la Venta y el Consumo de Bebidas Alcohólicas del Estado de Jalisco entrará en vigor ciento ochenta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Los órganos de gobierno de los municipios de la entidad contarán con un plazo de ciento ochenta días, a partir de la entrada en vigor del presente decreto, para adecuar sus reglamentos municipales a aquél.
 
 TERCERO. Se abroga la Ley sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Jalisco, contenida en el Decreto número 16192 aprobado por el Congreso del Estado.
+
+P.O. 22 DE FEBRERO DE 2007.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
