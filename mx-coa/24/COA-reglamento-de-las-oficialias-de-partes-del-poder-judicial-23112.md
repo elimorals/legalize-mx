@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-las-oficialias-de-partes-del-poder-judicial-23112
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-13"
-last_updated: "2001-11-13"
+last_updated: "2007-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,31 @@ state: "COA"
 ---
 # REGLAMENTO DE LAS OFICIALIAS DE PARTES DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA -ANTES DEL TRIBUNAL SUPERIOR DE JUSTICIA-
 
-REGLAMENTO DE LAS OFICIALIAS DE PARTES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
+REGLAMENTO DE LAS OFICIALIAS DE PARTES DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el martes 13 de noviembre de 2001.
 
 El Consejo de la Judicatura del Estado de Coahuila de Zaragoza, en sesión ordinaria, celebrada el trece de septiembre del año 2001, con fundamento en lo dispuesto por los artículos 143 de la Constitución Política del Estado, y 57 fracción XI de la Ley Orgánica del Poder Judicial, emitió el Acuerdo número C-124/2001-V, mediante el cual apruebe el siguiente
 
-REGLAMENTO DE LAS OFICIALÍAS DE PARTES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA.
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE FEBRERO DE 2007)</small>
+
+REGLAMENTO DE LAS OFICIALÍAS DE PARTES DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA.
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de este reglamento son de observancia general en el Poder Judicial del Estado, correspondiéndole al Presidente velar por su debido cumplimiento.
+Las disposiciones de este reglamento son de observancia general en el Poder Judicial del Estado, correspondiéndole al Presidente del Tribunal Superior de Justicia velar por su debido cumplimiento.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 2.
 
-Las Oficialías de Partes son órganos administrativos de apoyo judicial, dependientes de la Presidencia del Tribunal Superior de Justicia, que tienen como objeto recibir los escritos dirigidos a la Presidencia del Tribunal, Jueces de Primera Instancia, así como a los demás órganos jurisdiccionales, a excepción de los de materia penal.
+Las Oficialías de Partes son órganos administrativos de apoyo judicial, dependientes de la Presidencia del Tribunal Superior de Justicia, que tienen como objeto recibir los escritos a que se refiere este reglamento dirigidos a la Presidencia y Salas del Tribunal, Tribunal Electoral, Tribunales Unitarios, Juzgados, así como a los demás órganos jurisdiccionales.
 
 ###### Artículo 3.
 
@@ -61,19 +67,25 @@ Para los efectos de este reglamento se entenderá por:
 
 8).- Consejo: El de la Judicatura del Estado.
 
-9).- Oficialía: La común de partes.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
-10).- Juzgados: De Primera Instancia en materia Civil, Familiar, y Juzgados Letrados en Materia Civil.
+9).- Oficialía: La común de partes correspondiente.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+10).- Juzgados: De Primera Instancia en materia Civil, Familiar y Penal, y Juzgados Letrados en Materia Civil y Penal.
 
 ###### Artículo 4.
 
 Cuando funcionen en un mismo lugar varios juzgados de primera instancia en materia civil, de lo familiar, y letrados civiles, el Pleno del Tribunal Superior de Justicia acordará el sistema de recepción, turnos y distribución de demandas entre los mismos, con el apoyo del Area de Informática.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 5.
 
-Las Oficialías funcionarán todos los días del año, excepción hecha de los sábados, domingos y aquellos días que la Ley declare festivos, o en los que el Tribunal acuerde que no haya actuaciones judiciales.
+Las Oficialías funcionarán todos los días del año, excepto los sábados, domingos y aquellos días que la Ley declare festivos, o en los que el Pleno del Tribunal acuerde que no habrá actuaciones judiciales.
 
-El despacho diario será de las nueve a las quince horas y de las diecisiete a las diecinueve horas, y de las diecinueve a las veinticuatro horas, en días hábiles, cuando se trate de los documentos previstos en la fracción I inciso B del artículo 7.
+El despacho diario será el mismo que se fije para los órganos jurisdiccionales el Consejo, en los términos del artículo 111 de la Ley. Sólo para la recepción de los documentos a que se refieren la fracción I, incisos b, i y j del artículo 7 de este reglamento. El funcionamiento será una vez concluido el de los órganos jurisdiccionales hasta las veinticuatro horas, en días hábiles.
 
 ###### Artículo 6.
 
@@ -87,11 +99,17 @@ Las Oficialías tendrán las siguientes funciones:
 
 I.- Recibir:
 
-a).- Los escritos de demanda y aquéllos con los que se inicie un procedimiento judicial.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
-b).- Los escritos de término que se presenten fuera de las horas de labores del tribunal o juzgado.
+a).- Los escritos de demanda y todos aquellos con los que se inicie un procedimiento judicial, en materia civil, mercantil y familiar.
 
-c).- Exhortos, rogatorias, suplicatorias, requisitorias y despachos, relacionadas con asuntos civiles, familiares.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+b).- Los escritos de término que se presenten fuera de las horas de labores del tribunal o juzgado de todas las materias, incluyendo la penal.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+c).- Exhortos, rogatorias, suplicatorias, requisitorias y despachos, relacionadas con asuntos civiles, mercantiles y familiares.
 
 d).- Oficios o promociones en que los Tribunales Unitarios o los jueces del Estado, o de otras Entidades Federativas soliciten el auxilio, así como los que con el mismo carácter les sean solicitados por los Tribunales de la Federación u otras autoridades de la República, o del extranjero.
 
@@ -101,27 +119,47 @@ f).- Solicitudes de procedimientos no contenciosos.
 
 g).- Escritos en que se promuevan medios preparatorios de juicio.
 
-h).- Las demandas que deban acumularse a juicios universales o a actos prejudiciales iniciados con anterioridad; únicamente para el efecto de que se les asigne el número estadístico correspondiente, y turnarlos al juez que conozca del negocio.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+h).- A solicitud del órgano jurisdiccional, las demandas que deban acumularse a juicios universales o a actos prejudiciales iniciados con anterioridad o que deba conocer por razones de conexidad; únicamente para el efecto de que se les asigne el número estadístico correspondiente, y turnarlos al juez que conozca del negocio.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+i).- Los escritos de expresión de agravios y de término dirigidos a las Salas del Tribunal Superior de Justicia, Tribunal Electoral, cuando actúe como órgano auxiliar del Tribunal Superior de Justicia, y Tribunales Unitarios.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+j).- Los escritos a los que se acompañe demanda de Amparo Directo, que corresponda presentar ante el Pleno, las Salas del Tribunal Superior de Justicia, Tribunal Electoral, cuando actúe como órgano auxiliar del Tribunal Superior de Justicia y Tribunales Unitarios.
 
 Al recibir los documentos a que se refiere esta fracción, el Oficial de Partes hará constar la fecha y hora de su recepción, el número de fojas de las que consten, la descripción y número de fojas de los documentos que se anexen, así como el nombre de quien los presente, estampando el sello de la oficina y su firma, esta anotación hará prueba plena respecto de la fecha y hora de presentación del documento.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+Cuando se trate de los documentos señalados en los incisos i y j de esta fracción presentadas en la Oficialía del lugar distinto al de residencia del órgano jurisdiccional al que van dirigidos, el Oficial de Partes, deberá, además, comunicar su recepción por fax o correo electrónico a la autoridad señalada como destinataria y remitirlos de inmediato, mediante pieza de mensajería con acuse de recibo, dejando constancia de ello en los archivos de la Oficialía.
 
 II.- Remitir al juez competente los expedientes tratándose de impedimento, recusación o excusa, acatando en su caso lo dispuesto por el artículo 127 de la Ley.
 
 III.- Vigilar el correcto funcionamiento del módulo de información judicial.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 8.
 
-El oficial de partes no podrá remitir juicios respecto de la competencia del juez al que se dirijan los escritos que recibe, así como respecto a la vía propuesta o a la falta de copias o nexos, salvo la que sea necesaria para el control interno de la Oficialía.
+El oficial de partes no podrá emitir juicios respecto de la competencia del juez al que se dirijan los escritos que recibe, así como respecto a la vía propuesta o a la falta de copias o anexos, salvo la que sea necesaria para el control interno de las Oficialías.
 
 ###### Artículo 9.
 
 Para el turno de los documentos recibidos por las oficialías de partes, se observará el procedimiento establecido en los sistemas de cómputo por el área de Informática del Poder Judicial, a efecto de que, aleatoriamente, se distribuya el trabajo entre los órganos jurisdiccionales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 10.
 
-El procedimiento se establecerá mediante un programa que:
+El procedimiento de recepción y registro se establecerá mediante un programa que:
 
-a).- Clasifique los asuntos de naturaleza civil, mercantil, familiar, las cuestiones de competencia, impedimentos, recusaciones, excusas, y tercerías.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+a).- Clasifique los asuntos de naturaleza civil, mercantil, familiar y penal, las cuestiones de competencia, impedimentos, recusaciones, excusas, y tercerías y competencia asignada.
 
 b).- Identifique el documento que será registrado y turnado al órgano jurisdiccional.
 
@@ -133,9 +171,11 @@ e).- Conserve archivo de respaldo con los datos de las operaciones registradas d
 
 El original del volante a que se refiere el inciso d), se entregará al secretario del órgano jurisdiccional a quien correspondió el turno, así como el documento y sus anexos, debiendo conservarse una copia del mismo en la Oficialía, y otra se entregará al interesado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 11.
 
-La Oficialía, al recibir documentos, asentará, mediante un registro computarizado, los siguientes datos:
+La Oficialía, al recibir documentos consistentes en demandas o con los que se inicie un procedimiento judicial, asentará, mediante un registro computarizado, los siguientes datos:
 
 1).- Nombre de la persona que presenta el documento.
 
@@ -179,35 +219,71 @@ Cuando se trate de exhortos o despachos, los datos de identificación serán los
 
 10).- Estado y Municipio de residencia del órgano requirente.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+Artículo 12 BIS.- Cuando se trate de los documentos distintos a los referidos en los dos artículos anteriores, se asentará el registro computarizado de los siguientes datos:
+
+1).- Nombre de la persona que presenta el documento.
+
+2).- Día y hora de la presentación del documento.
+
+3).- Nombre del actor o promovente.
+
+4).- Datos de identificación del juicio o procedimiento con el que guarda relación el escrito.
+
+5).- Número de fojas.
+
+6).- Relación y descripción de los documentos presentados anexados.
+
+7).- Autoridad a la que va dirigido.
+
+8).- Numero de control asignado por la Oficialía.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 13.
 
-Si por causas de fuerza mayor no funcionará el sistema de registro computarizado, las operaciones se realizarán manualmente por el personal de las Oficialías, debiendo cumplir con los requisitos señalados en los artículos 11 y 12.
+Si por causas de fuerza mayor no funcionará el sistema de registro computarizado, las operaciones se realizarán manualmente por el personal de las Oficialías, debiendo cumplir con los requisitos señalados en los artículos 11, 12 y 12 BIS.
 
 Una vez regularizado el sistema, todos los datos así consignados se capturarán en el mismo.
 
 ### CAPITULO TERCERO. DE LA REMISION DE DOCUMENTOS
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 14.
 
-Una Vez registrados los documentos que se reciban conforme a los artículos anteriores, las Oficialías los remitirán al órgano jurisdiccional asignado por el sistema, para su trámite legal, a más tardar en la primer hora hábil del siguiente día laborable.
+Una Vez registrados los documentos que se reciban conforme a los artículos anteriores, las Oficialías los remitirán al órgano jurisdiccional asignado por el sistema, para su trámite legal, a más tardar en las primeras horas hábiles del siguiente día laborable, salvo que por la urgencia o tratarse de exhortos deban remitirse de inmediato.
 
-El Oficial de Partes o la persona por él comisionada, bajo su responsabilidad, entregará diariamente al secretario de acuerdos del órgano jurisdiccional respectivo, los documentos que le hayan turnados (sic), y recabará la constancia de recibido en la copia del volante de turno, con la firma de quien recibe. Cuando estén dirigidas a la Presidencia del Tribunal, Sala Civil o Familiar o a un Tribunal Unitario, se remitirán vía fax, y de inmediato se les enviará el original.
+El Oficial de Partes o la persona por él comisionada, bajo su responsabilidad, entregará diariamente al secretario de acuerdos del órgano jurisdiccional respectivo, los documentos que le hayan turnado, y recabará la constancia de recibido en la copia del volante de turno, con la firma de quien recibe. Cuando estén dirigidas a la Presidencia o Salas del Tribunal, Tribunal Electoral o a un Tribunal Unitario, se remitirán vía fax, y de inmediato se les enviará el original.
 
 ###### Artículo 15.
 
 La Oficialía, por conducto de su titular, entregará diariamente un reporte a cada uno de los órganos jurisdiccionales, que contendrá número de expediente, fecha y hora en que se dio de alta, tipo de juicio, número de fojas del expediente, cuantía del negocio en su caso, fecha de recibo y de entrega.
 
-###### Artículo 16.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
-En asuntos del orden familiar, en que se solicite la intervención urgente de la autoridad jurisdiccional, cualquier juez de la materia podrá recibir el escrito directamente y omitir el acuerdo correspondiente, haciéndolo de conocimiento de la Oficialía para que a su vez lo comunique a la Presidencia del Tribunal Superior de Justicia.
+###### Articulo 16.
+
+En asuntos del orden familiar, en que se solicite la intervención urgente de la autoridad jurisdiccional, cualquier juez de la materia podrá recibir el escrito directamente y emitir el acuerdo correspondiente, haciéndolo del conocimiento de la Oficialía para que a su vez lo comunique a la Presidencia del Tribunal Superior de Justicia.
 
 ### CAPITULO CUARTO. DE LAS RESPONSABILIDADES
 
-Artículo 18 (SIC).- El personal de las Oficialías, será sujeto de responsabilidad administrativa, conforme a las disposiciones de la Ley Orgánica.
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+###### Artículo 17.
+
+El personal de las Oficialías, será sujeto de responsabilidad administrativa, conforme a las disposiciones de la Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+###### Articulo 18.
+
+El promovente y sus abogados patronos o procuradores, serán responsables por cualquier acción tendiente a alterar el turno establecido en las Oficialías, lo cual los hará acreedores, solidariamente, a una multa que no será menor de treinta, ni mayor de ciento cincuenta días de salario mínimo general vigente en la capital del Estado, que les será impuesto por el juzgador que advierta dicha acción de conformidad con lo dispuesto por el artículo 178 del Código Procesal Civil; lo anterior, sin perjuicio de lo que establezca la legislación aplicable.
 
 ###### Artículo 19.
 
-El promovente y sus abogados patronos o procuradores, serán responsables por cualquier acción tendiente a alterar el turno establecido en las Oficialías, lo cual los hará acreedores, solidariamente, a una multa que no será menor de treinta, ni mayor de ciento cincuenta días de salario mínimo general vigente en la capital del Estado, que les será impuesto por el juzgador que advierta dicha acción de conformidad con lo dispuesto por el artículo 178 del Código Procesal Civil; lo anterior, sin perjuicio de lo que establezca la legislación aplicable.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2007)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -222,3 +298,15 @@ Publíquese en el Boletín de Información Judicial; así mismo difúndase en lo
 LA LICENCIADA ANA GUADALUPE GONZÁLEZ SIFUENTES, SECRETARIA DE ACUERDOS DEL CONSEJO DE LA JUDICATURA DEL ESTADO, CERTIFICA QUE EL REGLAMENTO DE LAS OFICIALÍAS DE PARTES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA FUE APROBADO POR UNANIMIDAD DE VOTOS DE LOS MIEMBROS INTEGRANTES DEL CONSEJO DE LA JUDICATURA DEL ESTADO, MEDIANTE ACUERDO NÚMERO C-125/2001-V, EN SESIÓN DE FECHA TRECE DE SEPTIEMBRE DEL PRESENTE AÑO.
 
 SALTILLO, COAHUILA, A 23 DE OCTUBRE DEL 2001.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE FEBRERO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Las Presentes reformas entrarán en vigor a los tres días posteriores a su publicación en el Periódico Oficial.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Boletín de Información Judicial, así como difúndase en los órganos jurisdiccionales de la Entidad y demás dependencias administrativas en el Poder Judicial, el presente acuerdo.
