@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2006-12-04"
+last_updated: "2007-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1583,7 +1583,7 @@ Tipo y punibilidad.- Se impondrán de tres meses a dos años de prisión hasta c
 
 ### CAPITULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
 ### CAPITULO III. ESTUPRO
 
@@ -1741,21 +1741,33 @@ Las penas señaladas en los artículos 176, 177 y 178, se incrementarán hasta e
 
 ###### Artículo 180.
 
-Tipo y punibilidad,- Al que sin consentimiento de una persona o con consentimiento de un o una menor de catorce años o que no tenga capacidad de comprender el hecho o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar actos eróticos sexuales, sin el propósito de llegar a la cópula, se le aplicarán de dos a ocho años de prisión y hasta doscientos días multa.
+Tipo y punibilidad.- Al que sin consentimiento de una persona ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de dos a ocho años de prisión y hasta doscientos días multa.
 
-Si se hiciere uso de la violencia física o moral la pena se aumentará de uno a tres años.
+Si se hiciere uso de la violencia física o moral, la pena se aumentará de uno a tres años.
 
-Cuando se realice la conducta a que se refiere este precepto de manera reiterada, siendo la victima mayor de catorce años, la pena será de seis a diez años de prisión y hasta quinientos días multa.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2007)</small>
 
-Cuando el delito de abuso sexual fuere cometido por alguna persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido, la pena se aumentará delito a tres años. En los casos en que la ejerciere, el culpable perderá la patria potestad o tutela, así como el derecho de heredar del ofendido.
+###### Artículo 180 Bis.
 
-Artículo 180 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
+Sub tipo y punibilidad.- Al que con o sin el consentimiento de una persona menor de catorce años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de cuatro a ocho años de prisión y hasta doscientos días de multa.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+Si se hiciere uso de la violencia física o moral o se realice la conducta a que se refiere este artículo de manera reiterada, la pena se aumentará de dos a cuatro años.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+Artículo 180 TER.- Agravación de la punibilidad.- Las penas previstas en los artículos 180 y 180 Bis, se aumentarán hasta en una mitad, cuando en el abuso sexual concurra alguna de las circunstancias siguientes:
+
+I.- Cuando fuere cometido por persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que le ejerciere sobre la víctima, así como los derechos sucesorios con respecto del ofendido;
+
+II.- Cuando fuere cometido por persona que tenga al ofendido, bajo su custodia, guarda o educación o aproveche la confianza en él depositada;
+
+III.- Cuando fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término igual al de la pena de prisión.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 181.
 
-Persecución oficiosa,- El delito previsto en el articulo ciento ochenta se perseguirá de oficio cuando la persona ofendida sea menor de catorce años o se encuentre en alguno de los casos de incapacidad que establece; fuera de éstos se perseguirá por querella de la parte ofendida o de sus representantes legitimas.
+Persecución oficiosa.- El delito de abuso sexual previsto en el artículo ciento ochenta Bis, se perseguirá de oficio; fuera de este supuesto, se perseguirá por querella de la parte ofendida o de sus representantes legítimos.
 
 ### CAPITULO VI. USURA
 
@@ -3539,11 +3551,11 @@ III.- Vote con una credencial de la que no sea titular;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
 
-IV. Presione a los electores en el interior de las casillas o en el lugar donde se encuentren formados los votantes, con el fin de inducir el sentido de su voto o de que se abstengan de emitirlo o realice actividades de campaña electoral dentro de los tres días previos al de la elección o el día de la jornada electoral;
+IV.- Presione a los electores en el interior de las casillas o en el lugar donde se encuentren formados los votantes, con el fin de inducir el sentido de su voto o de que se abstengan de emitirlo o realice actividades de campaña electoral dentro de los tres días previos al de la elección o el día de la jornada electoral;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
 
-V. El día de la elección organice la reunión o traslado de votantes con el objeto de influir en el sentido de su voto;
+V.- El día de la elección organice la reunión o traslado de votantes con el objeto de influir en el sentido de su voto;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
 
@@ -3557,7 +3569,7 @@ IX.- Viole el secreto del voto obligando a los electores el día de la jornada e
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
 
-X. Obstaculice, interfiera o impida dolosamente que una casilla electoral se instale o clausure conforme a la ley;
+X.- Obstaculice, interfiera o impida dolosamente que una casilla electoral se instale o clausure conforme a la ley;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
 
@@ -3575,7 +3587,7 @@ XIV.- Viole sellos colocados en los documentos públicos electorales o en los lu
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2006)</small>
 
-XV. Durante las campañas electorales, se apodere, destruya, retire, borre, suprima, oculte o distorsione la propaganda política impresa de partidos políticos, coaliciones o candidatos, colocadas en los lugares autorizados por las disposiciones legales o por los acuerdos tomados por las autoridades electorales competentes.
+XV.- Durante las campañas electorales, se apodere, destruya, retire, borre, suprima, oculte o distorsione la propaganda política impresa de partidos políticos, coaliciones o candidatos, colocadas en los lugares autorizados por las disposiciones legales o por los acuerdos tomados por las autoridades electorales competentes.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
 
@@ -4104,3 +4116,7 @@ P.O. 4 DE DICIEMBRE DE 2006.
 DECRETO No. 272
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE FEBRERO DE 2007.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
