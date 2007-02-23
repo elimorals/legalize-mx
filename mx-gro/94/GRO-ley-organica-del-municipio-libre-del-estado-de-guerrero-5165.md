@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2006-12-26"
+last_updated: "2007-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -617,7 +617,11 @@ IV. De Salud Pública y Asistencia Social;
 
 V. De Desarrollo Rural;
 
-VI. De la Participación Social de la Mujer.
+VI. De la Participación Social de la Mujer;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2007)</small>
+
+VII. De Atención y Participación Social de Migrantes.
 
 ###### ARTICULO 60.
 
@@ -910,6 +914,34 @@ II. Apoyar las actividades productivas de las mujeres;
 III. Establecer en coordinación con la Secretaría de la Mujer programas de capacitación y empleo, y
 
 IV. Intervenir en defensa de los derechos de las mujeres.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
+
+ARTICULO 69 bis.- Son facultades y obligaciones de los Ayuntamientos en materia de Atención de Migrantes, las siguientes:
+
+I. Solicitar a las autoridades federales y Estatales, información sobre acciones, planes y programas involucrados en el fenómeno de migración;
+
+II. Generar un (sic) mediante técnica censal un padrón geoeconómico de población migrante en el Municipio;
+
+III. Coordinarse con los Gobiernos del Estado, y de la Federación, a efecto de propiciar políticas públicas unificadas en materia de migración;
+
+IV. Promover mediante, cursos, talleres e información en general de los programas estatales y federales en la población beneficiada por remesas económicas de trabajadores migrantes;
+
+V. Vigilar la (sic) que los planes, proyectos y programas, que se ejecuten en el Municipio se cumplan en términos de las reglas de operación aprobadas para ello;
+
+VI. Promover la creación y fortalecimiento organizativo de asociaciones y federaciones de migrantes, que coadyuven a materializar los programas, planes y proyectos, vinculados al desarrollo de los particulares, y, social del municipio;
+
+VII. Fomentar la participación dentro de la población migrante, para la proyección y ejecución de obra pública mediante la mezcla de recursos económicos con las diversas instancias de gobierno federal y estatal;
+
+VIII. Coadyuvar a las autoridades federales y estatales a la solución de problemas, administrativos, jurídicos y consulares de la población migrante del municipio;
+
+IX. Fomentar las actividades que exalten los valores cívicos nacionales, estatales, regionales y comunitaria de la población migrante en su estadía en el exterior del Municipio;
+
+X. Establecer una unidad administrativa de Atención a Migrantes, conforme lo permitan las posibilidades presupuestales del Ayuntamiento;
+
+XI. Otorgar reconocimiento a nivel municipal a personas físicas o morales o bien a agrupaciones ciudadanas migrantes por sus contribuciones dentro de proyectos de beneficio colectivo que eleven el bienestar social o la producción del Municipio; y
+
+XII. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
 ###### ARTICULO 70.
 
@@ -3010,3 +3042,11 @@ Artículo Primero.- Túrnese al Titular del Ejecutivo del Estado para los efecto
 Artículo Segundo.- Comuníquese el presente Decreto, a los Ayuntamientos Municipales del Estado para su conocimiento y efectos legales procedentes.
 
 Artículo Tercero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Ayuntamientos de la entidad deberán dentro de los treinta días naturales a la entrada en vigor del presente Decreto, elegir al regidor encargado del ramo de Atención y Participación Social de Migrantes.
+
+TERCERO.- Los Ayuntamientos deberán contar dentro del Organigrama Municipal con una Unidad Administrativa de "Atención y Participación Social de Migrantes", a partir del Ejercicio Presupuestal 2007.
