@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2007-02-22"
+last_updated: "2007-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -501,9 +501,11 @@ Son objeto de la verificación o inspección los documentos, bienes, lugares o e
 
 Las personas usuarias de servicios públicos o quienes realicen actividades sujetas a regulación, deberán diseñar sus instalaciones, colocar los instrumentos de medición y los accesos a los mismos por parte de los verificadores o inspectores, de tal forma que se faciliten estas acciones y no resulten incómodas o molestas a los administrados.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 68.
 
-La verificación puede hacerse de igual forma por la autoridad o por personas físicas o jurídicas debidamente autorizadas, cuando las verificaciones tengan por objeto la constatación de hechos, situaciones o circunstancias científicas o técnicas que requieran de opiniones emitidas por peritos en la materia específica, siempre que la ley o reglamento aplicable lo establezca.
+La verificación se realiza por la autoridad administrativa, con la participación, en su caso, de especialistas debidamente autorizados por ésta, cuando las verificaciones tengan por objeto la constatación de hecho, situaciones o circunstancias científicas o técnicas que requieran de opiniones emitidas por peritos en materia específica, siempre que la ley o reglamento aplicable lo establezca.
 
 ###### Artículo 69.
 
@@ -1254,3 +1256,7 @@ P.O. 21 DE SEPTIEMBRE DE 2004.
 P.O. 22 DE FEBRERO DE 2007.
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 24 DE FEBRERO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
