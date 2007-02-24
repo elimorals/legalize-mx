@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-18421"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-05"
-last_updated: "2007-01-23"
+last_updated: "2007-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 24 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en Sección Octava del Periódico Oficial del Estado de Jalisco, el sábado 5 de agosto de 2000.
 
@@ -1198,3 +1200,17 @@ P.O. 15 DE DICIEMBRE DE 2001.
 P.O. 23 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE FEBRERO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga el Decreto número 18434 que contiene la Ley del Agua para el Estado de Jalisco y sus Municipios y se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Las personas físicas o jurídicas privadas o sociales, dentro de los ciento ochenta días naturales siguientes al en que entre en vigor esta Ley, deberán ajustarse a las disposiciones que la misma prevé tanto para la prestación de servicios como en lo referente a las concesiones.
+
+Durante el proceso de adecuación y regularización señalado en el párrafo anterior, tanto las personas físicas o jurídicas, privadas o sociales, como el ayuntamiento que corresponda y el organismo operador podrán solicitar a la comisión la asesoría técnica necesaria para desarrollar dichas actividades.
+
+Asimismo, la Comisión podrá apoyar a los ayuntamientos para definir las sus (sic) bases para otorgar concesiones, los criterios para la publicación de la convocatoria respectiva y el establecimiento de los requisitos, garantías y otras modalidades que se estimen oportunas.
+
+CUARTO. Dentro de los doce meses posteriores al día en que entre en vigor esta Ley, tanto los Ayuntamientos como el Poder Ejecutivo del Estado deberán publicar las disposiciones reglamentarias necesarias para la eficaz aplicación y cumplimiento de lo previsto por esta Ley.
