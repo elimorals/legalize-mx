@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2006-12-02"
+last_updated: "2007-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -231,7 +231,7 @@ IV. Para fijar la duración de los términos, los meses se regularán por el nú
 
 ###### Artículo 20.
 
-Son días hábiles todos los días del año, con excepción de los sábados y los domingos, así como el 1º de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1º y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y en los periodos vacacionales del tribunal o cuando por cualquier causa de fuerza mayor, o por acuerdo del Tribunal de lo Administrativo en pleno, se suspendan las labores del tribunal.
+Son días hábiles todos los días del año, con excepción de los sábados y domingos, así como el 1º de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1º y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y en los periodos vacacionales del tribunal o cuando por cualquier causa de fuerza mayor, o por acuerdo del Tribunal de lo Administrativo en pleno, se suspendan las labores del tribunal.
 
 ### CAPÍTULO III. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
@@ -703,6 +703,10 @@ La nulidad de la resolución o acto podrá decretarse lisa y llanamente o para d
 
 Siempre que se esté en alguno de los supuestos previstos en las fracciones IV y V del artículo inmediato anterior, se declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución; en los demás casos, también podrá indicar los términos conforme a los cuales debe dictar su resolución la autoridad administrativa, salvo que se trate de facultades discrecionales.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2007)</small>
+
+Las sentencias que se emiten en el caso de elementos de los cuerpos de seguridad pública del estado o sus municipios, que hayan sido cesados o removidos de su cargo, por ningún motivo procederá su instalación o reinstitución y, en su caso, solo procederá la indemnización constitucional, si resultó inocente su reinstalación será a juicio del patrón.
+
 ###### Artículo 77.
 
 Cuando se decrete la nulidad de un acto o resolución por haberse declarado la ilegalidad de la disposición normativa de carácter general que la sustenta, la sentencia únicamente resolverá sobre la situación particular y concreta materia de la litis, limitándose a privar de sus efectos a la disposición normativa de que se trate, en beneficio de quien hubiere ejercido la acción, sin hacer declaraciones de carácter general sobre la validez de la misma.
@@ -973,7 +977,7 @@ En aquellos casos, en que se requiera la publicación del acto administrativo, c
 
 En el caso de que cualquier autoridad administrativa del Estado o de los municipios se niegue a recibir o dar constancia de la presentación de un ocurso de particular que contenga una solicitud respecto de un acto administrativo, el particular puede presentarla ante el Tribunal, manifestando bajo protesta de decir verdad, que la autoridad competente se negó a tal recepción.
 
-El Tribunal recibe la solicitud con sus anexos, y la remite a la autoridad señalada por el particular, para que cumpla con el procedimiento administrativo a que halla lugar y resuelva la petición en forma fundada y motivada, dentro de los plazos señalados por la ley especial. Lo anterior independientemente de que la autoridad siga el procedimiento de responsabilidad aplicable, en contra del servidor que se negó a recibir la solicitud.
+El Tribunal recibe la solicitud con sus anexos, y la remite a la autoridad señalada por el particular, para que cumpla con el procedimiento administrativo a que halla (sic) lugar y resuelva la petición en forma fundada y motivada, dentro de los plazos señalados por la ley especial. Lo anterior independientemente de que la autoridad siga el procedimiento de responsabilidad aplicable, en contra del servidor que se negó a recibir la solicitud.
 
 Los plazos a que se refiere el párrafo anterior, inician a partir del día siguiente al en que la autoridad reciba el escrito del Tribunal, otorgando formal acuse de recibo del cual se deja copia en el mismo Tribunal a disposición del particular.
 
@@ -1036,3 +1040,9 @@ P.O. 4 DE OCTUBRE DE 2005.
 P.O. 2 DE DICIEMBRE DE 2006.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE FEBRERO DE 2007.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+Segundo. Los procedimientos iniciados con anterioridad a la presente reforma se concluirán de acuerdo a las disposiciones vigentes con las que iniciaron.
