@@ -1,0 +1,1402 @@
+---
+title: "LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS"
+identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
+country: "mx"
+rank: "ley"
+publication_date: "2007-02-24"
+last_updated: "2007-02-24"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-jal"
+scjn_id: "54685"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "28 SECCION V"
+reform_count: "21"
+scjn_last_update: "2026-06-18"
+issue_date: "2007-02-09"
+state: "JAL"
+---
+# LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
+
+LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección V al Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
+
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+
+NÚMERO 21804/LVII/06
+
+EL CONGRESO DEL ESTADO DECRETA:
+
+SE CREA LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+
+###### Artículo 1.
+
+La presente Ley es de observancia general en todo el territorio del Estado de Jalisco; sus disposiciones son de orden público e interés social y regulan la explotación, uso, aprovechamiento, preservación y reúso del agua, la administración de las aguas de jurisdicción estatal, la distribución, control y valoración de los recursos hídricos y la conservación, protección y preservación de su cantidad y calidad, en términos del desarrollo sostenible de la entidad.
+
+Este instrumento establece los principios y regulaciones para la gestión integrada de los recursos hídricos en el Estado, y por lo tanto, también regula las actuaciones de las autoridades estatales y municipales en el ámbito de dicha gestión, así como los servicios públicos de agua potable, saneamiento y riego agrícola.
+
+###### Artículo 2.
+
+Para los efectos de esta Ley se entiende por:
+
+I. Aguas de Jurisdicción Estatal. Las aguas que de conformidad con el párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, no pueden ser consideradas propiedad de la Nación ni reglamentadas como aguas nacionales, y que siendo consideradas como parte integrante de la propiedad de los terrenos por los que corran o en los que se encuentren sus depósitos, se localizaren en dos o más predios y que la misma Constitución Federal considera sujetas a las disposiciones que dicten los Estados y las que sean asignadas por la autoridad competente, a favor de, cualquier entidad municipal o estatal en Jalisco incluyendo las concesionadas para uso público urbano.
+
+Tendrán el mismo carácter las aguas nacionales que por efectos de la legislación competente, convenio o acuerdo con la autoridad correspondiente se adscriban bajo la jurisdicción estatal incluyendo las aguas nacionales que tengan asignadas, concesionadas o bajo su administración y custodia.
+
+II. Agua Potable. Aquella que no contiene contaminantes objetables, ya sean químicos o agentes infecciosos, que puede ser ingerida o utilizada para fines domésticos sin provocar efectos nocivos a la salud y que reúne las características establecidas por las (sic) norma oficial mexicana NOM-127-SSA1-1994 y las demás disposiciones y normas en la materia;
+
+III. Agua Residual. Aquella de composición variada proveniente de las descargas de usos público urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y en general, de cualquier uso, así como la mezcla de ellas;
+
+IV. Agua Tratada. Aguas residuales resultantes de los procesos de tratamiento o de adecuación de su calidad, para remover total o parcialmente sus cargas contaminantes, antes de ser descargada en algún cuerpo receptor final;
+
+V. Alcantarillado. Servicio que proporcionan los organismos operadores para recolectar y alejar las aguas residuales;
+
+VI. Autoabasto. Acción de proporcionarse un servicio de agua para atender sus propias necesidades;
+
+VII. Bases de Apoyo. Conjunto de reglas para el Estado de Jalisco que se aplica a los municipios del Estado, que permite realizar la evaluación de la gestión de los servicios, para que en función de las metas alcanzadas obtengan el acceso a los diversos apoyos y programas operativos que presta la Comisión y que permite una visión de la evolución del subsector agua potable y saneamiento en su conjunto en la entidad;
+
+VIII. Comisión. Comisión Estatal del Agua de Jalisco;
+
+IX. Comisión Nacional. Comisión Nacional del Agua;
+
+X. Condiciones Particulares de Descarga. Parámetros máximos permisibles por la autoridad correspondiente a elementos físicos, químicos o bacteriológicos, que se podrán contener en la descarga de aguas residuales a los sistemas de colectores, o a los cuerpos receptores federales, que mediante convenio correspondiente, estén bajo resguardo de la Comisión;
+
+XI. Consejo Estatal del Agua. Organización conformada por los representantes de los Consejos Locales del Agua o las organizaciones locales de usuarios del agua, la Comisión y demás autoridades competentes y será instancia de coordinación dentro de las cuencas correspondientes en términos de la Ley;
+
+XII. Consejos Locales del Agua. Organizaciones locales de usuarios del agua conformadas por: los usuarios con derechos de agua en la cuenca o subcuenca correspondiente, la Comisión, las demás autoridades competentes y los representantes de la sociedad civil organizada, incluyendo el medio académico, que serán instancia de coordinación en términos de lo establecido en la Ley;
+
+XIII. Cuota. Contraprestación que deben pagar los usuarios de agua a los organismos prestadores de servicios por la utilización de los mencionados servicios;
+
+XIV. Cuotas Especiales. Derechos por aprovechamiento de la infraestructura que deberán cubrir quienes se beneficien directa o indirectamente cuando soliciten conexión al servicio, incremento de su demanda o cuando el municipio o su organismo operador realicen acciones en la infraestructura de operación o administración de los servicios de agua potable y saneamiento, ya sea en ampliaciones, rehabilitaciones, mejoras, sustituciones o adquisiciones;
+
+XV. Derivación. Conexión de cualquiera de los servicios a que se refiere la presente Ley, de un predio a otro colindante, o de una línea de conducción a otra, o de una corriente a otra;
+
+XVI. Descarga Fortuita. Derrama accidental de agua o cualquier otra sustancia al alcantarillado, a una corriente o a un cuerpo de agua;
+
+XVII. Descarga Intermitente. Derrama durante períodos irregulares, de agua o cualquier otra sustancia, al alcantarillado, a una corriente o a un cuerpo de agua;
+
+XVIII. Descarga Permanente. Acción de vaciar agua o cualquier otra sustancia al alcantarillado en forma periódica o continua a una corriente de agua o cuerpo de agua.
+
+XIX. Dilución. Combinación de aguas claras de primer uso con aguas residuales, utilizadas para evadir el cumplimiento de las condiciones de descarga fijadas por la autoridad competente;
+
+XX. Económico: Condiciones determinadas que implican el menor precio, siempre que se considere la totalidad de los recursos financieros necesarios que aseguren la operación, mantenimiento y administración de las obras, equipos, instalaciones y personal correspondiente, en los términos de la Ley.
+
+XXI. Factores económicos. Condiciones determinar los que implican el menor precio, siempre que se considere de la totalidad de los recursos financieros necesarios que aseguren la operación, mantenimiento y administración de las obras, equipos, instalaciones y personal correspondiente, en los términos de la Ley;
+
+XXII. Gasto Ecológico. Caudal. o volumen mínimo necesario en cuerpos receptores, incluyendo corrientes de diversa índole o embalses, o el caudal mínimo de descarga natural de un acuífero, que debe conservarse para proteger las condiciones ambientales y el equilibrio ecológico del sistema, de acuerdo a las especificaciones técnicas que fije la autoridad competente;
+
+XXIII. lnfraestructura Intradomiciliaria. Obras que requiere el usuario final de cada inmueble para recibir los servicios que establece la Ley;
+
+XXIV. Ley. Ley del Agua para el Estado de Jalisco y sus Municipios;
+
+XXV. Obras Hidráulicas. Conjunto de obras, equipamientos, instalaciones y mecanismos construidos para el aprovechamiento, control o regulación del agua para cualquiera de los usos, así corno para la prestación de los servicios a que se refiere la presente Ley;
+
+XXVI. Orden de Prelación. Antelación o preferencia con que un uso de agua debe ser atendido respecto de otro uso;
+
+XXVII. Organismo Operador. Entidad pública o privada, municipal o intermunicipal, descentralizada, o desconcentrada, que dentro de los límites de su circunscripción territorial, otorga los servicios hídricos previstos por la Ley;
+
+XXVIII. Programación Hídrica. Sistema de trabajo el que se contemplan las acciones a corto, mediano y largo plazo para la gestión del agua, que lleva a cabo la Comisión, que incluyen, entre otros, la línea base del conocimiento sobre la disponibilidad del agua superficial y subterránea, el uso del agua, los inventarios de agua y otros recursos relacionados, las condiciones de calidad del agua, la cartera de estudios y. los proyectos de inversión necesarios para la gestión integrada del agua en el estado de Jalisco, así como la proposición de políticas públicas, estrategias, programas específicos, que permitan inducir y regular, en su caso, la explotación, uso y aprovechamiento de las aguas en el Estado, así como el control y preservación sostenible de su cantidad y calidad, para contribuir al bienestar social y al crecimiento económico en un entorno de sustentabilidad;
+
+XXIX. Red Primaria. Conjunto de obras mayores que son necesarias para abastecer de agua a las zonas urbanas hasta los tanques de regulación del servicio y las líneas generales de distribución. A falta de tanques, se considerarán las obras primarias hasta la línea general de distribución del servicio;
+
+XXX. Red Secundaria. Conjunto de estructura integrada desde por la interconexión del tanque de regulación, o en su caso, de la línea general de distribución hasta el punto de interconexión con la infraestructura intradomiciliaria, del predio correspondiente al usuario final del servicio;
+
+XXXI. Restricción del Servicio de Agua Potable. Reducir, conforme a los casos contemplados por la Ley, el suministro de agua potable, para riego, otros usos o la descarga de aguas residuales;
+
+XXXII. Reúso. Utilización de las aguas residuales, de acuerdo con las disposiciones emitidas para tal efecto.
+
+XXXIII. Saneamiento. Conjunto de acciones, equipos, instalaciones e infraestructura para lograr la colecta, traslado, tratamiento, alejamiento y vertido de las aguas residuales y el manejo y disposición ecológica de los sólidos resultantes del tratamiento respectivo. Incluye el alcantarillado, emisores, plantas o procesos de tratamiento y sitios de vertido;
+
+XXXIV. Seguridad Hidráulica. Normas y acciones requeridas para el resguardo de las obras hidráulicas, incluyendo sus zonas de protección, sean obras estatales o municipales, para su preservación, conservación y mantenimiento. Asimismo, se denomina seguridad hidráulica al criterio para construir y operar obras hidráulicas para el control de avenidas y protección contra inundaciones;
+
+XXXV. Servicio de Agua en Bloque. Suministro de aguas asignadas a la Comisión para ser entregadas a usuarios o prestadores de servicios hídricos a usuarios individuales;
+
+XXXVI. Servicio público. Aquel cuyo titular es el estado y cuya finalidad consiste en satisfacer de una manera regulada, continua y uniforme necesidades públicas de carácter esencial, básico o fundamental; se concreta a través de prestaciones individualizadas las cuales podrán ser suministradas directamente por el estado o por los particulares mediante concesión.
+
+XXXVII. Servicios Regionales. Servicios de suministro de agua en bloque alcantarillado y el de tratamiento de aguas residuales que pueda proporcionar el Gobierno del Estado, por medio de la Comisión, a uno o más municipios, cuando las obras las realice el propio Estado, o cuando se requiera el abastecimiento para servicios a más de un municipio;
+
+XXXVIII. Servicio de Suministró de Agua Potable. Distribución del agua apta para consumo humano;
+
+XXXIX. Servicio de Tratamiento de Aguas Residuales. Remoción o reducción de las cargas contaminantes de las aguas residuales;
+
+XL. Sistema de Agua Potable. Conjunto de instalaciones, equipos y obras de infraestructura necesarios para prestar el servicio de suministro y tratamiento de aguas;
+
+XLI. Sistema Estatal del Agua. Conjunto de programas, proyectos, obras, equipamientos, instalaciones, normas, metodologías, procesos, instrumentos y acciones que dan sustento al aprovechamiento y a la administración de las aguas de jurisdicción estatal en todos los usos, así como aquellos que permitan mejorar la prestación de servicios públicos de suministro de agua potable, alcantarillado y tratamiento de aguas residuales, incluyendo el reúso de las aguas residuales tratadas;
+
+XLII. Sistema Estatal de Información del Agua. Conjunto de bases de datos y demás información pública relacionada con la disponibilidad del agua superficial y subterránea, balances hídricos, inventarios de los cuerpos de agua, asignaciones y concesiones de agua, descargas, de la infraestructura hídrica, y de las inversiones realizadas en esta materia y la relacionada con el clima, hidrografía e hidrología de las cuencas del Estado de Jalisco, incluyendo la de los sistemas de agua potable y saneamiento, los registros de los títulos de concesión de agua y permisos correspondientes, la de su red de monitoreo en cantidad y calidad y padrón de usuarios del Registro Público de Derechos de Agua del Estado de Jalisco, así como los equipos, programas y personal encargados de los mismos;
+
+XLIII. Sistema Estatal Financiero del Agua. Conjunto de políticas públicas, estrategias, programas, normas, mecanismos financieros, metodologías, procesos, instrumentos financieros y acciones cuya finalidad será la coordinación entre los diversos sectores e instituciones vinculados con el agua en sus aspectos financieros y económicos; para definir los esquemas de generación financiera, así como de los recursos económicos necesarios para la planeación, programación, ejecución de obras, su operación, mantenimiento, conservación y reposición diferida con la concurrencia de las autoridades y de los sectores social y privado;
+
+XLIV. Solvencia. Condiciones determinadas que implican la capacidad de cumplir una obligación, un cargo, la satisfacción de deudas, entre otros y en especial, capacidad de cumplirlos cuidadosa y celosamente siempre que se considere la totalidad de los recursos financieros necesarios que aseguren la operación, mantenimiento y administración de las obras, equipos, instalaciones y personal correspondiente, en los términos de la Ley.
+
+XLV. Toma. Tramo de interconexión situado entre la infraestructura o red secundaria para el abastecimiento de los servicios públicos, y la infraestructura intradomiciliaria de cada predio, que incluye en su caso mecanismos de regulación y medición;
+
+XLVI. Uso Habitacional. Utilización de agua en predios para uso habitacional, destinada al uso particular de las personas y del hogar, así como el riego de jardines y de árboles de ornato en estos; incluyendo el abrevadero de animales domésticos, siempre que estas últimas dos aplicaciones no constituyan actividades lucrativas;
+
+XLVII. Uso Comercial. Utilización del agua en inmuebles de fábricas, empresas, negociaciones, establecimientos y oficinas dedicadas a la comercialización de bienes y servicios.
+
+Los Organismos Operadores deberán contabilizar las cuotas separadas correspondientes el uso comercial del habitacional del agua, en aquellos inmuebles donde concurran ambas actividades, a través de tomas independientes;
+
+XLVIII. Uso Industrial. Utilización de agua en procesos de extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como la que se utiliza en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aún en estado de vapor que es usada para la generación de energía eléctrica; lavanderías de ropa; lavado de automóviles y maquinaria; o para cualquier otro uso o aprovechamiento de transformación;
+
+XLIX. Uso en Servicios de Hotelería. Uso comercial que se hace en hoteles, tiempos compartidos, moteles, búngalos, cabañas, condominios con servicio de hotelería, y en otros inmuebles donde se comercializa con alojamiento temporal por períodos inferiores a los seis meses;
+
+L. Uso en Instituciones Públicas o que Prestan Servicios Públicos. la (sic) utilización del agua para el riego de áreas verdes de propiedad estatal y municipal, incluyendo la captación de agua en embalses para conservar las condiciones ambientales, el equilibrio ecológico y para el abastecimiento de las instalaciones que presten servicios públicos;
+
+LI. Uso Mixto Comercial. Utilización de agua en predios de uso habitacional, cuando se realicen en el mismo predio en pequeña escala, actividades propias del uso comercial con fines de supervivencia familiar.
+
+LII. Uso Mixto Rural. Aplicación de agua en predios para uso habitacional, cuando se realicen en el mismo predio en pequeña escala, actividades propias del uso agropecuario con fines de supervivencia familiar;
+
+LIII. Uso Público Urbano. Utilización de agua para el abasto a centros de población o asentamientos humanos, a través de la red primaria a cargo del organismo prestador de los servicios; dentro de este uso quedan comprendidos el habitacional, el comercial, el de servicios de hotelería, el de instituciones públicas o que presten servicios públicos, los usos mixtos y el industrial;
+
+LIV. Usuario. Personas físicas o jurídicas que hagan uso del agua o de los servicios a que se refiere la Ley. Se diferenciará entre usuarios del agua, aquellos con derechos vigentes de explotación o uso de aguas otorgadas por la autoridad competente, y los usuarios de los servicios públicos urbanos; y
+
+LV. Zona de protección. La franja de terreno inmediata y contigua a los cauces y depósitos de los cuerpos y corrientes naturales o artificiales de propiedad estatal y municipal, incluyendo los terrenos inmediatos y contiguos de las presas y demás obras hídricas a cargo del Gobierno del Estado, en la extensión que en cada caso fije la Comisión y el organismo prestador de los servicios para su protección, operación, rehabilitación, mantenimiento y vigilancia.
+
+Adicionalmente se reconocen las definiciones que la Ley de Aguas Nacionales incluye.
+
+###### Artículo 3.
+
+Se declara de utilidad pública:
+
+I. La planeación, estudio, proyección, ejecución, rehabilitación y mantenimiento, ampliación, aprobación y supervisión de las obras y servicios necesarios para la operación y administración de los sistemas de agua potable, alcantarillado, tratamiento y disposición de aguas residuales; además de la infraestructura hídrica que se destina para la acuicultura y al uso agrícola, agroindustrial, pecuario y de conservación ecológica;
+
+II. El restablecimiento del equilibrio de los ecosistemas vitales vinculados con el agua;
+
+III. La adquisición y el aprovechamiento de las obras hídricas de propiedad privada, cuando se requieran para la eficiente prestación del servicio de agua potable y alcantarillado, establecido o por establecerse;
+
+IV. La captación, regularización, potabilización, desalación, conducción, distribución, prevención y control de la contaminación de las aguas; así como el tratamiento de las aguas residuales que se localicen dentro de los Municipios del Estado y que no sean de jurisdicción federal; así como el reúso de las mismas;
+
+El mejoramiento de la calidad de las aguas residuales, la prevención y control de su contaminación, la recirculación y el reúso de dichas aguas, así como la construcción y operación de obras de prevención, control y mitigación de la contaminación del agua, incluyendo plantas de tratamiento de aguas residuales;
+
+VI. La adquisición de bienes inmuebles o muebles que sean necesarios para la ampliación, rehabilitación, construcción, mejoramiento, conservación, desarrollo y mantenimiento de los sistemas de agua potable y alcantarillado, así como los relativos al tratamiento y reúso de las aguas residuales; incluyendo las instalaciones conexas como son los caminos de acceso y las zonas de protección; y
+
+VII. La formación, modificación y manejo tanto de los padrones de usuarios, como de las tarifas conforme a las cuales serán causados los derechos por la prestación de los servicios públicos de agua potable, alcantarillado, tratamiento y disposición de aguas residuales.
+
+###### Artículo 4.
+
+En los casos de utilidad pública y para los efectos del artículo anterior, el Gobernador del Estado de por si o a solicitud de los ayuntamientos correspondientes, podrá expropiar los bienes de propiedad privada y promover la ocupación temporal, total o parcial o la limitación de derechos de dominio de obras hídricas particulares, sujetándose a las leyes sobre la materia.
+
+###### Artículo 5.
+
+Son usos del agua los establecidos en la Ley de Aguas Nacionales con las características y connotación de sus conceptos asentados en la misma y en los Reglamentos correspondientes.
+
+###### Artículo 6.
+
+Los usos específicos correspondientes a la prestación de los servicios de agua potable alcantarillado, tratamiento y disposición de aguas residuales a que se refiere esta Ley, se considerarán en su caso, dentro del uso público urbano y son los siguientes:
+
+l. Habitacional;
+
+II. Mixto comercial;
+
+III. Mixto rural;
+
+IV. Industrial;
+
+V. Comercial;
+
+VI. Servicios de hotelería; y
+
+VII. En Instituciones Públicas o que presten servicios públicos.
+
+### CAPÍTULO II (SIC). Del Sistema Estatal del Agua
+
+###### Artículo 7.
+
+La autoridad y administración en materia de aguas de jurisdicción estatal y de sus bienes públicos inherentes corresponde al Gobernador, quien la ejercerá directamente o a través de la Comisión.
+
+###### Artículo 8.
+
+Es de interés público la constitución e integración del Sistema Estatal del Agua, como el instrumento para la coordinación del desarrollo hídrico de la Entidad, que estará a cargo de la Comisión Estatal y comprenderá:
+
+I. La definición y establecimiento de las políticas que permitan el desarrollo sustentable de la entidad, conforme a lo dispuesto por la Ley Estatal de Equilibrio Ecológico y Protección al Ambiente;
+
+II. La definición de políticas para la gestión de las aguas de jurisdicción estatal, considerando las disposiciones contenidas en la Ley Estatal de Equilibrio Ecológico y Protección al Ambiente y las leyes federales en la materia;
+
+III. La definición de los lineamientos para el mejor uso de las aguas asignadas al Estado;
+
+IV. La definición y establecimiento de políticas y la ejecución de las acciones necesarias para incorporar en los diversos niveles educativos y académicos, la cultura del ahorro y uso eficiente del agua como un recurso vital y escaso, promoviendo el desarrollo de investigaciones técnicas, científicas y de mercado que permitan lograr tal fin;
+
+V. La elaboración, negociación y propuesta de políticas públicas, estrategias, programas, proyectos para la prestación de los servicios públicos de suministro de agua potable y tratamiento de aguas residuales tales servicios se prestarán conforme a lo dispuesto en la Ley de Aguas Nacionales, la Ley Estatal de Equilibrio Ecológico y Protección al Ambiente y demás instrumentos jurídicos en la materia;
+
+VI. La proposición de políticas públicas, estrategias, programas, proyectos y acciones para hacer eficiente el uso del agua en riego, en otros los usos agropecuarios y en la acuicultura;
+
+VII. La proposición de políticas públicas, estrategia, programas, proyectos y acciones para la conservación de las cuentas hidrológicas, los acuíferos, los bosques y el fomento a la reforestación de las cuencas a fin de restablecer el equilibrio ecológico de las mismas;
+
+VIII. La proposición de políticas públicas, estrategias, programas, proyectos para el manejo y conservación de la infraestructura hidráulica ubicada en el Estado;
+
+IX. La proposición de políticas públicas, estrategias, lineamientos, programas, instrumentos específicos, metodologías y procesos para el establecimiento y operación sustentable de un sistema financiero integral para el desarrollo hídrico del Estado;
+
+X. La consolidación del conjunto de bases de datos y demás información pública que conformarán el Sistema Estatal de Información del Agua; y
+
+XI. El conjunto de programas, proyectos, obras, normas y acciones que dan sustento al aprovechamiento y a la administración de las aguas de jurisdicción estatal en todos los usos, así como aquellos que permitan mejorar la prestación de servicios públicos de suministro de agua potable, alcantarillado y tratamiento de aguas residuales, incluyendo el reúso de las aguas previamente servidas y tratadas, así como la recirculación.
+
+Las dependencias del Gobierno de Estado y los Municipios, aplicarán, en el ámbito de sus facultades, las medidas necesarias para cumplir con los objetivos fijados.
+
+###### Artículo 9.
+
+El Gobierno del Estado y los Ayuntamientos se coordinarán a través del Sistema Estatal del Agua para todos los asuntos relacionados con los usos, aprovechamiento y servicios de agua. La administración descentralizada estatal y municipal, así como los sectores privado y social, participarán en dicho sistema, en los términos de la presente ley.
+
+###### Artículo 10.
+
+En los términos del artículo 8 de la presente Ley, la Comisión constituirá el sistema estatal de información del agua como un subsistema dentro del Sistema Estatal del Agua y tendrá por objeto:
+
+I. Ser un instrumento público de acceso a la ciudadanía en los términos que establece la Ley de Transparencia e Información Pública del Estado de Jalisco y la Ley Federal de Transparencia y Acceso a La (sic) Información Pública Gubernamental;
+
+II. La coordinación de los diferentes órdenes de gobierno, para tener un inventario efectivo y confiable de los recursos hídricos, a nivel estatal;
+
+III. Conformar el conjunto de bases de datos y demás información pública y de otra índole, en forma numérica, tabular, gráfica, documental y en otras presentaciones pertinentes, relacionada con la ocurrencia del ciclo hidrológico, la medición de escurrimientos superficiales y del comportamiento geohidrológico, las redes de monitoreo de la calidad del agua, la disponibilidad del agua superficial y subterránea, en cantidad y calidad, los balances hídricos históricos, actuales y pronosticados, los inventarios de los cuerpos de agua, los inventarios y censos de usos y usuarios de las aguas en la entidad, el registro o padrón de asignaciones y concesiones de agua así como de permisos de descarga, el padrón de usuarios asentado en el Registro Público de los Derechos de Agua del Estado, los inventarios de la infraestructura hidráulica, y el registro de las inversiones realizadas en esta materia, así como la información termopluviométrica y hidrometeorológica, los levantamientos de la red hidrográfica y del comportamiento hidrográfico en las micro cuencas, cuencas y regiones hidrológicas en el Estado de Jalisco. Quedan incluidos los inventarios y condiciones de servicio de los sistemas de agua potable y saneamiento.
+
+Para los efectos de este artículo, las dependencias y Municipios del Estado, aportarán la información correspondiente de acuerdo a lo que se establezca en el Reglamento de la Ley.
+
+###### Artículo 11.
+
+En los términos de la fracción IX del artículo 8, el Sistema Estatal Financiero del Agua es un subsistema formal del Sistema Estatal del Agua y tendrá por objeto:
+
+I. Establecer la coordinación entre los diversos sectores e instituciones vinculados con los recursos hídricos y su gestión, así como con las economías y finanzas del agua;
+
+II. Definir los mecanismos específicos de generación de recursos financieros que contribuyan a alcanzar el desarrollo sustentable del recurso hídrico;
+
+III. Valorar el agua en términos sociales, económicos, financieros y ambientales, reflejar el verdadero valor del agua y. promover la corresponsabilidad social que conlleva sugestión integrada con equidad y sustentabilidad;
+
+IV. Generar los elementos que permitan determinar los montos que deberán pagarse bajo la figura de derechos de uso y explotación del agua en las cuencas hidrológicas, con el propósito de sustentar el mejoramiento de la gestión de los recursos hídricos para contribuir al bienestar social y al crecimiento económico en un entorno de sustentabilidad;
+
+V. Consolidar la información de inversiones, gastos de administración, mantenimiento, rehabilitación y mejoramiento en los servicios hidráulicos, así como de los egresos necesarios para desarrollar la gestión de los recursos hídricos;
+
+VI. Generar los recursos económicos necesarios para la planeación, programación, ejecución de obras hidráulicas de diversa índole, su operación, mantenimiento, conservación y reposición, con la concurrencia de las autoridades y de los sectores social y privado.
+
+###### Artículo 12.
+
+Para su consolidación, el Sistema Financiero Estatal del Agua responderá a los siguientes lineamientos:
+
+I. Las inversiones realizadas con fondos públicos federales, estatales o municipales en obras, programas o sistemas, serán consideradas en forma integrada cualquiera que sea su procedencia y responderán a los lineamientos y programas definidos por la programación hídrica estatal;
+
+II. Los servicios hidráulicos serán estructurados financieramente en forma que se garantice su sustentabilidad;
+
+III. El financiamiento público o privado que se establezca para el sector, contará con el soporte de los análisis y estudios financieros que fijen el monto amortizable y el tiempo para su recuperación;
+
+IV. Los lineamientos que establezca la Comisión para la definición y actualización de cuotas y tarifas por servicios de agua dando el soporte para su autorización, reflejarán el costo real de los servicios;
+
+V. La participación de la ciudadanía en el financiamiento de los servicios públicos de agua potable, saneamiento y reúso y reciclaje, incluirá los conceptos de pago por uso del recurso hídrico o por el pago por vertidos en cuerpos receptores y para su tratamiento respectivo;
+
+VI. Cualquier subsidio para pago de los servicios hídricos para la población marginada o falta de recursos, se otorgará en forma casuística y explícita, y en este caso deberán plantearse los procedimientos para delimitar su discrecionalidad en el Reglamento. Los subsidios no se otorgarán mediante cuotas o tarifas subsidiadas. Para fines financieros, tales subsidios serán considerados como un costo del servicio;
+
+VII. La realización de estudios financieros y tarifarios;
+
+VIII. La participación privada en el financiamiento, construcción, operación y mantenimiento de las obras de infraestructura hidráulica, mediante los mecanismos que para el efecto establezca la Comisión, contemplarán los aspectos de eficiencia financiera y técnica creciente;
+
+IX. El estudio y dimensionamiento de otras fuentes financieras tales como pago por servicios ambientales, aportaciones de organismos multilaterales de fomento, bursatilización de la infraestructura, emisión de bonos del sector hídrico y otras formas de consecución de recursos financieros para contribuir al desarrollo del sector hídrico y su gestión.
+
+X. El estudio de las formas de amortización de los fondos destinados al financiamiento del sector hídrico, especialmente en obras de infraestructura hidráulica, equipamiento, instalaciones diversas y otras inversiones. accesorias para mejorar la línea base de conocimiento sobre la ocurrencia del agua, su explotación, uso o aprovechamiento, su regulación y control, así como su protección y conservación, incluyendo los ecosistemas frágiles que inciden en el comportamiento del ciclo hidrológico; y
+
+XI. El estudio del repago de fondos destinados a egresos distintos de las inversiones, cuando sea recomendable.
+
+###### Artículo 13.
+
+Los usuarios de aguas de jurisdicción estatal, así como de los servicios públicos de suministro de agua potable, alcantarillado, tratamiento y reúso de aguas residuales, los correspondientes al riego agrícola, y la sociedad organizada en general, podrán participar en la planeación, programación, construcción, administración, operación, supervisión o vigilancia de los servicios y sistemas hidráulicos, así como el cuidado y uso eficiente del agua y la preservación de su calidad, a través de:
+
+I. Los Ayuntamientos;
+
+II. La Comisión;
+
+III. Los Organismos Operadores de los servicios de agua y saneamiento, y
+
+IV. Los Distritos de Riego, Unidades de Riego y Asociaciones de Regantes en los términos de la presente ley y en el seno del Sistema Estatal del Agua.
+
+Los grupos académicos, colegios de profesionales, especialistas, asociaciones y cámaras debidamente acreditados ante la Comisión, podrán participar en la planeación del recurso hídrico y su programación en las mismas condiciones.
+
+### CAPÍTULO III. De la programación hídrica
+
+###### Artículo 14.
+
+La Comisión será responsable de la formulación, seguimiento, evaluación y actualización de la programación hídrica estatal, con el concurso de las autoridades municipales, los usuarios y la sociedad en general, atendiendo a las prioridades que establezca la Ley de Aguas Nacionales y su Reglamento, las disposiciones contenidas en la Ley de Planeación, y en coordinación con las Secretarías de Desarrollo Urbano, la de Desarrollo Rural del Estado y la del Medio Ambiente y Desarrollo Sustentable. El resultado se plasmará en el Programa Hídrico Estatal.
+
+En el reglamento de esta Ley, se establecen los términos y reglas para la participación de las autoridades estatales, municipales, los usuarios del agua y la sociedad organizada en el proceso de programación hídrica.
+
+###### Artículo 15.
+
+Los principios que orientarán la programación hidráulica del Estado son:
+
+I. El agua es un recurso natural limitado, dotado de valor económico y su acceso para las actividades vitales constituye un derecho de todos los habitantes de Jalisco;
+
+II. El agua es recurso vital, limitado, vulnerable y finito cuya preservación y sostenibilidad es tarea fundamental del Estado y la sociedad.
+
+III. La conservación, preservación, protección y restauración del agua es de primordial importancia para el Estado de Jalisco, por lo que este recurso deberá utilizarse de modo que se evite el peligro de su agotamiento y la generación de impactos ecológicos adversos.
+
+IV. La gestión del agua se hará en forma integrada a partir de la cuenca o subcuencas hidrológícas, como unidades idóneas de gestión hídrica, tomando en consideración el ordenamiento del territorio del estado y de sus municipios, así como la participación de la población.
+
+V. El que contamine el agua será responsable de su tratamiento ya sea a través de medidas que adopte directamente o bajo el pago de costos de recuperación en condiciones que no afecten el medio ambiente e impliquen su reutilización.
+
+VI. La participación informada y responsable de los usuarios del agua y de la sociedad, será la base para la programación de la gestión del recurso hídrico Y (sic) favorecerá la formación de una cultura del agua acorde con los principios contenidos en la presente Ley.
+
+VII. En todos los casos se debe pagar por el uso del recurso hídrico o por el pago por vertidos en cuerpos receptores y por su tratamiento respectivo.
+
+Los principios de política hídrica estatal deberán observarse para la aplicación e interpretación de las disposiciones contenidas en esta Ley y en su Reglamento, y guiarán los contenidos de la programación estatal hídrica y por región hidrológica y cuenca hidrológica.
+
+###### Artículo 16.
+
+La formulación, promoción, instauración, ejecución y evaluación de la programación hídrica en el Estado comprenderá, al menos:
+
+I. La integración y actualización del inventario de:
+
+a) Las aguas nacionales asignadas o concesionadas en el Estado por autoridad competente,
+
+b) Las aguas que formen parte de reservas constituidas conforme a las leyes en la materia, y
+
+c) Las aguas de jurisdicción estatal y sus bienes públicos inherentes,
+
+d) Los usos del agua en la entidad,
+
+e) La infraestructura federal, estatal o municipal;
+
+II. La integración y actualización del catálogo de proyectos estatales relativos a los recursos hídricos para la
+
+a) Su gestión integrada.
+
+b) Su explotación, uso o aprovechamiento,
+
+c) Su preservación y control de su calidad;
+
+III. La proposición de estrategias políticas, planes y programas específicos, que permita inducir y regular, en su caso, la explotación, uso y aprovechamiento de las aguas en el Estado, así como el control y preservación de su cantidad y calidad;
+
+IV. La aprobación del Gobernador del Estado del Programa Hídrico Estatal, para lo cual se tomarán en cuenta las opiniones del Consejo Estatal del Agua;
+
+V. La programación hídrica del Estado, cuando así lo determine el Gobierno Federal, se constituirá en el subprograma específico por entidad, correspondiente al Estado de Jalisco, a que se refiere la Ley de Aguas Nacionales y su reglamento;
+
+VI. La medición sistemática de la ocurrencia del agua y su aprovechamiento, así como de las características de cantidad y calidad de los vertidos procedentes de cada use en los cuerpos receptores en la entidad; y
+
+VII. La coordinación con las autoridades federales competentes para el efecto de que el Sistema Estatal tome en consideración los lineamientos emanados de la Comisión Nacional, así como para que el Gobierno Federal pueda proporcionar, en su caso, la asistencia técnica que le solicite el Gobierno Estatal en relación con los proyectos de las obras de los servicios públicos de agua.
+
+###### Artículo 17.
+
+En la formulación e integración de la programación hídrica estatal a que se refiere este capitulo, se tendrán en cuenta los criterios necesarios para garantizar el desarrollo integral sustentable y la debida consideración a la cuota natural de renovación de las aguas que la Comisión determine con apego a las normas oficiales mexicanas en la materia y con apoyo en los estudios que al efecto realice, en el marco de las cuencas hidrológicas y acuíferos, como unidades básicas para la gestión del recurso hidráulico del Estado.
+
+###### Artículo 18.
+
+La programación hídrica estatal será constituida a partir de la información local o regional de las zonas naturales, cuencas o subcuencas, así como acuíferos, tomando en cuenta las propuestas de las organizaciones locales de usuarios del agua y el Consejo Estatal del Agua.
+
+###### Artículo 19.
+
+Las previsiones de la programación hídrica estatal a que se refieren los artículos anteriores, deberán ser incluidas en todos los instrumentos de planeación y ordenamiento urbano, territorial ecológico y aquella que corresponda al desarrollo de centros de población urbana y comunidades rurales.
+
+## TÍTULO SEGUNDO. De las Autoridades en Materia de Agua y Saneamiento Servicios Públicos de Agua y Saneamiento
+
+### CAPÍTULO I. De las Autoridades Estatales
+
+###### Artículo 20.
+
+Son autoridades responsables de vigilar la observancia de la presente Ley, en el ámbito de sus respectivas competencias, conforme a las atribuciones que establece el presente ordenamiento y las leyes que rigen su funcionamiento y facultades:
+
+I. Comisión;
+
+II. La Secretaría de Medio Ambiente para el Desarrollo Sustentable;
+
+III. La Secretaría de Desarrollo Rural; y
+
+IV. Los Ayuntamientos de los Municipios del Estado.
+
+###### Artículo 21.
+
+La Comisión, organismo descentralizado del Gobierno del Estado con personalidad jurídica y patrimonio propios, será el organismo que coordine, planifique y regule los usos del agua en la Entidad, con funciones de derecho público en materia de la gestión de las aguas de jurisdicción estatal y de sus bienes públicos inherentes y funciones de autoridad administrativa, con autonomía técnica, ejecutiva, administrativa, presupuestal y de gestión, para la consecución de su objeto, la realización de sus funciones y atribuciones y la emisión de actos de autoridad que la presente Ley dispone para ésta. La Comisión tendrá su domicilio social en la capital del Estado y su integración y funcionamiento se norma por esta Ley y su Reglamento.
+
+###### Artículo 22.
+
+Los servidores públicos y demás empleados de la Comisión, así como de los Organismos Operadores a que se refiere el artículo 48 se regirán por las disposiciones relativas a los servidores públicos del Estado.
+
+###### Artículo 23.
+
+Son atribuciones de la Comisión las siguientes:
+
+I. Formular, administrar y consolidar el desarrollo integral del Sistema Estatal del Agua;
+
+II. Ser la Autoridad del Agua en el Estado, en materia de la cantidad y de la calidad de las aguas y su gestión en el territorio del Estado, y por lo tanto, ejercer aquellas atribuciones que dispone esta Ley para la realización de actos de autoridad en materia hídrica, en el ámbito de su competencia;
+
+III. Establecer y dar a conocer el registro de los lineamientos para el Sistema Estatal del Agua;
+
+IV. Promover y verificar la incorporación de los lineamientos para el Sistema Estatal del Agua en la planeación estatal y municipal en materia de agua o para la conservación del recurso hídrico;
+
+V. Proponer al Gobernador las políticas hídricas, tanto las de carácter público como las institucionales, para contribuir al desarrollo de la entidad;
+
+VI. Celebrar con las Autoridades competentes del Gobierno Federal los convenios de coordinación y colaboración administrativa y fiscal para la ejecución por parte de la Comisión de actos administrativos y fiscales en relación con la gestión de aguas nacionales en cantidad y calidad, que tenga asignadas, concesionadas o bajo su administración y custodia y de la prestación de los servicios hidráulicos;
+
+VII. Concertar con el Poder Ejecutivo Federal la obtención de facilidades y apoyo para el fortalecimiento de la Comisión para hacerse responsable de lo dispuesto en la fracción anterior;
+
+VIII. Realizar la gestión de las aguas de jurisdicción estatal y contribuir con la gestión de las aguas nacionales al cargo de la autoridad competente, y en consecuencia, administrar y custodiar las aguas de jurisdicción estatal y sus bienes inherentes, y preservar y controlar la calidad de dicho recurso hídrico en el ámbito del Estado;
+
+IX. Establecer las prioridades estatales en materia de administración y gestión de las aguas de jurisdicción estatal y sus bienes inherentes;
+
+X. Expedir, en los términos que establezcan los convenios materia de la Fracción VI del presente Artículo, los certificados estatales de concesión, asignación o permiso de descarga a que se refiere la presente Ley y su reglamento, en relación con aguas de jurisdicción estatal, así como reconocer derechos de aguas de la naturaleza citada y llevar el Registro Público Estatal de Derechos de Agua;
+
+XI. Conciliar y, en su caso, fungir a petición de los usuarios, como árbitro en la prevención, mitigación y solución de conflictos relacionados con el agua y su gestión, en los términos de los reglamentos de esta ley;
+
+XII. Coordinarse en la gestión de los recursos económicos y financieros que genere el agua y su gestión bajo el principio de que “el agua paga el agua”, conforme al marco jurídico en la materia, con el propósito de financiar las actividades, y sustantivas de la Comisión y del sector hídrico estatal con los recursos correspondientes;
+
+XIII. Proponer la aplicación de los avances científicos y tecnológicos en el establecimiento y conservación de la infraestructura hidráulica, así como en la prestación de los servicios públicos de agua. Incluyendo la determinación y normalización de índices de gestión que permiten evaluar los avances en la materia;
+
+XIV. Proponer programas de capacitación para los ayuntamientos, organismos públicos y organizaciones privadas para la gestión del agua;
+
+XV. Promover programas de cultura de ahorro y uso eficiente del agua;
+
+XVI. Proponer reformas a las disposiciones legales y reglamentarias en materia de agua;
+
+XVII. Informar los avances y compromisos establecidos a las dependencias y organismos integrantes del Sistema Estatal del Agua;
+
+XVIII. Elaborar anualmente un informe de los avances y estado general de gestión del agua en el Estado;
+
+XIX. Proponer las políticas públicas, estrategias, criterios y lineamientos que regulen la prestación de los servicios públicos de agua potable, alcantarillado, tratamiento y disposición de aguas residuales en el estado;
+
+XX. Mantener actualizadas las normas técnicas, observando las disposiciones que la Secretaría de Desarrollo Rural, la Secretaría de Desarrollo Urbano del Estado, la Secretaría de Medio Ambiente y Desarrollo Sustentable, la Comisión Nacional y otras dependencias federales tienen fijadas en la materia, incluyendo la estructuración de precios unitarios y preparación de presupuestos base conforme a lo establecido en las propias normas técnicas;
+
+XXI. Determinar los usos de las aguas de jurisdicción estatal;
+
+XXII. Participar en coordinación con la Comisión Nacional y escuchando al Consejo Estatal del Agua, en la determinación y cambios en las zonas de disponibilidad en relación con las aguas de jurisdicción estatal;
+
+XXIII. Intervenir en el ámbito de su competencia y de conformidad con la legislación aplicable, en la supervisión y validación de los programas de obras de agua potable, alcantarillado y saneamiento de carácter público o privado que se realicen en el Estado;
+
+XXIV. Formular en coordinación con a Secretaría de Finanzas, la Secretaría de Desarrollo Urbano, la Secretaría de Desarrollo Rural, los Ayuntamientos de la Entidad y el COPLADE, los programas anuales de inversión del sector público en obras hidráulicas, de agua potable, alcantarillado y saneamiento en el Estado;
+
+XXV. Proponer, aplicar y dar seguimiento a criterios y políticas de asignación de apoyos estatales para el estudio, proyecto, diseño, construcción, rehabilitación, mejoramiento y operación de los sistemas de agua potable, alcantarillado, tratamiento y disposición de aguas residuales;
+
+XXVI. Proyectar, construir y supervisar, en coordinación con las instituciones públicas estatales y municipales competentes, los sistemas públicos de agua potable, alcantarillado y saneamiento y las obras públicas consideradas en los convenios celebrados con los Municipios del Estado y con la Federación o aquellas que le fueran asignadas directamente;
+
+XXVII. Promover la potabilización del agua, el tratamiento de aguas residuales y su disposición, así como el manejo de Iodos u otros sólidos resultantes del tratamiento o adecuación de las aguas servidas;
+
+XXVIII. Promover el reúso y recirculación de las aguas servidas y en general, el mejoramiento de la eficiencia en la explotación, uso o aprovechamiento del agua;
+
+XXIX. Brindar el apoyo técnico, administrativo y jurídico que le soliciten los municipios o los Organismos Operadores;
+
+XXX. Celebrar, con el objeto de lograr una coordinación integral y de conformidad con las disposiciones legales aplicables, los acuerdos y convenios que se requieran, con autoridades de los tres órdenes de Gobierno, en materia de agua y para la construcción, ampliación, operación y rehabilitación de los sistemas de agua potable, alcantarillado y saneamiento;
+
+XXXI. Promover la participación social en la prestación de los servicios públicos de agua, en el tratamiento de aguas residuales y su reúso, así como en el tratamiento y disposición final de Iodos;
+
+XXXII. Llevar la representación estatal en los Consejos de Cuenca cuyo ámbito territorial de actuación comprenda parcial o totalmente el territorio del Estado;
+
+XXXIII. Elaborar y mantener actualizados:
+
+a) El inventario de los recursos hídricos de que dispone el Estado, recopilando toda la información existente y efectuando los análisis, estudios e investigaciones necesarias que comprendan las condiciones hidrometeorológicas, termopluviométrícas y fisiográficas, los escurrimientos superficiales y aguas del subsuelo, los usos actuales y previsibles a futuro, a efecto de establecer las políticas públicas, estrategias, programas, proyectos y actuaciones que le competan al Estado de Jalisco en materia de recursos hídricos y su gestión, en coordinación con la Comisión Nacional.
+
+b) Compendiar y mantener actualizada y fidedigna la información relacionada con los títulos de concesión, asignación, permisos de descarga y los derechos de uso de aguas de jurisdicción estatal, paralelamente con el Registro Público de Derechos de agua;
+
+XXXIV. Establecer los distritos de control para combatir la contaminación del agua en Jalisco, en coordinación con las autoridades correspondientes; y exigir cuando sea necesario, a quienes utilicen y contaminen los recursos hídricos en el Estado con motivo de su operación o durante sus procesos productivos, el tratamiento de sus aguas residuales y manejo de Iodos, en los términos de la Ley, antes de su descarga al alcantarillado o a cualquier cuerpo receptor;
+
+XXXV. Solicitar a las dependencias, entidades, instancias y organismos públicos y demás personas físicas o jurídicas que se requiera, la información que sea necesaria para el logro de los objetivos que tiene encomendados, conforme al marco jurídico en vigor;
+
+XXXVI. Realizar las gestiones necesarias a fin de obtener los financiamientos que se requieran para la eficiente prestación de sus servicios, en coordinación con las autoridades competentes;
+
+XXXVII. Tramitar y resolver los recursos legales o medios de impugnación que le competan de acuerdo con lo establecido en la presente Ley;
+
+XXXVIII. Formular y aprobar su presupuesto de egresos de conformidad con lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado, para someterlo a consideración del Congreso del Estado por medio del Gobernador;
+
+XXXIX. Ejercer en el ámbito de su competencia, funciones y atribuciones en materia de administración, información, planeación, control, supervisión y vigilancia de aguas de jurisdicción estatal;
+
+XL. Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio, para el cumplimiento de sus objetivos, en los términos de ley;
+
+XLI. Coadyuvar con los organismos operadores municipales e intermunicipales previa solicitud que formulen a la Comisión, en las gestiones de financiamiento y planeación de obras para los sistemas requeridos para la prestación de los servicios públicos de agua en zonas urbanas y en el medio rural, tanto para el servicio a poblaciones y comunidades, como para el riego agrícola;
+
+XLII. Promover, apoyar y, en su caso, gestionar ante las dependencias, instancias, organismos y entidades federales, las asignaciones, concesiones y permisos correspondientes con objeto de dotar de agua a los centros de población y asentamientos humanos, así como para mejorar el riego agrícola en la entidad;
+
+XLIII. Conocer de todos los asuntos que en forma general o específica interesen al buen funcionamiento de los servicios públicos de agua;
+
+XLlV. Emitir opinión sobre el contenido de disposiciones jurídicas y proyectos de éstas relativas a los recursos hídricos y a la prestación de los servicios públicos correspondientes;
+
+XLV. Determinar de acuerdo a la legislación vigente las cuotas y tarifas de conformidad con lo establecido en esta ley cuando preste servicios públicos de agua;
+
+XLVI. Asumir aquellas funciones que descentralice la federación en materia de recursos hídricos y su gestión, tanto en el ámbito estatal como municipal, de conformidad con lo que establece la presente Ley; y
+
+XLVII. Las demás que le. confieran esta Ley, otras disposiciones legales aplicables, así como las que le deleguen las autoridades federales, estatales o municipales, derivadas de acuerdos o convenios que se celebren en materia de aguas, cuencas, cauces, acuíferos, y los servicios públicos de agua.
+
+###### Artículo 24.
+
+Son órganos de gobierno de la Comisión:
+
+I. La Junta de Gobierno; y
+
+II. El Director General.
+
+###### Artículo 25.
+
+La Junta de Gobierno se integrará por:
+
+I. Un Presidente, que será el Gobernador del Estado como titular o el servidor público estatal que él designe cuando esté ausente;
+
+II. El Director General de la Comisión, quien será nombrado por el resto de los integrantes de la Junta de Gobierno, y quien tendrá las funciones de secretario técnico; y
+
+III. Los siguientes vocales:
+
+a) El titular o representante de la Secretaría del Medio Ambiente para Desarrollo Sustentable;
+
+b) El titular o representante de la Secretaría de Salud;
+
+c) El titular o representante de la Secretaría de Desarrollo Urbano;
+
+d) El titular o representante de la Secretaría de Desarrollo Rural;
+
+e) El titular o representante de la Secretaría de Promoción Económica;
+
+f) El titular o representante de la Secretaría de Finanzas;
+
+g) Et titular o representante de la Contraloría del Estado;
+
+h) Dos representantes de los municipios del Estado designados por mayoría de votos de los presidentes municipales;
+
+i) Dos representantes del Consejo Estatal del Agua;
+
+j) Dos representantes de la sociedad organizada;
+
+k) Un representante del medio académico.
+
+Los representantes correspondientes a los dos últimos incisos serán nombrados de acuerdo con lo que establezca el Reglamento de la presente Ley.
+
+Para la realización de proyectos específicos, la Junta de Gobierno podrá notificar o invitar a dependencias, entidades, instancias y organismos de los sectores públicos y privados, para que participen en las reuniones a efecto de conocer sus opiniones.
+
+###### Artículo 26.
+
+Los miembros de la Junta de Gobierno tendrán voz y voto, con excepción de la Contraloría del Estado, la cual participará sólo con voz.
+
+Los miembros de la Junta de Gobierno deberán nombrar a su respectivo suplente, quien participará en los casos de ausencia de los titulares. Invariablemente los suplentes contarán con capacidades suficientes para asumir decisiones y compromisos en las sesiones en las cuales asistan.
+
+###### Artículo 27.
+
+El cargo como miembro de la Junta de Gobierno será honorífico y por lo tanto, no remunerado.
+
+###### Artículo 28.
+
+La Junta de Gobierno sesionará ordinariamente cada tres meses y extraordinariamente cuando sea convocada por el Presidente o por el Secretario Técnico. Los miembros de la Junta de Gobierno serán notificados por escrito con 72 horas de anticipación.
+
+###### Artículo 29.
+
+Para que las sesiones sean válidas, se requiere la asistencia de la mitad más uno de los miembros de la Junta de Gobierno. En caso que no se reúna el quórum para sesionar, se realizará una segunda convocatoria, la cual será firmada por los presentes, para sesionar después de transcurridas al menos veinticuatro horas en relación con la primer convocatoria, en la fecha y hora que señale !a mayoría de los miembros presentes. En caso que nuevamente no exista quórum, después de treinta minutos de espera, la sesión se realizará en forma válida con los miembros que se encuentren presentes.
+
+###### Artículo 30.
+
+Las resoluciones de la Junta de Gobierno se aprobarán con el voto de la mayoría de sus miembros. En caso de empate el Presidente tendrá voto de calidad.
+
+###### Artículo 31.
+
+Se llevará el registro en actas de todos los acuerdos que se tomen en las sesiones de la Junta de Gobierno. Las actas serán firmadas por el Presidente y el Secretario Técnico.
+
+###### Artículo 32.
+
+La Junta de Gobierno tiene las siguientes facultades:
+
+I. Tomar las resoluciones, dictar los acuerdos y realizar los actos necesarios para el cumplimiento de las funciones que correspondan a la Comisión;
+
+II. Revisar los presupuestos de ingresos y egresos de 'la' Comisión y aprobarlos, en su caso;
+
+III. Revisar y aprobar, en su caso, los programas que le sean sometidos a su consideración por el Director General de la Comisión;
+
+IV. Otorgar poder general para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales o especiales que requieran poder o cláusula especial conforme a la Ley así como revocarlos o sustituirlos;
+
+V. Aprobar y emitir las normas técnicas relativas a la prestación de los servicios públicos de agua y que al efecto le presente el Director General;
+
+VI. Autorizar al Director General, para que tramite, conforme a la legislación aplicable, la contratación de créditos necesarios para la prestación de los servicios que le correspondan a la Comisión, así como para la realización de obras, condicionando los empréstitos a la aprobación de la mayoría calificada de sus integrantes, para su posterior aprobación por el Congreso del Estado.
+
+VII. Aprobar los proyectos de inversión del patrimonio de la' Comisión Estatal; y
+
+VIII. Nombrar a su representante ante el Consejo Estatal del Agua.
+
+###### Artículo 33.
+
+Son facultades del Presidente de la Junta de Gobierno:
+
+l. Presidir las sesiones de la Junta de Gobierno;
+
+II. Convocar, a través del Secretario Técnico, a las sesiones de la Junta de Gobierno;
+
+III. Autorizar con su firma las actas de la Junta de Gobierno; y
+
+IV. Las demás que le confiere fa presente Ley y otras disposiciones legales aplicables.
+
+###### Artículo 34.
+
+Son facultades del Secretario Técnico de la Junta de Gobierno:
+
+I. Asentar en el libro de actas todos los acuerdos que se tomen en las sesiones de la Junta de Gobierno y ratificarlos con su firma junto con el Presidente; y
+
+II. Tramitar los asuntos que le sean encomendados por el Presidente de la Junta o por ésta.
+
+###### Artículo 35.
+
+Son facultades del Director General:
+
+I. Representar a la Comisión como apoderado general para pleitos y cobranzas y para actos de administración, con todas las facultades generales y las que requieran cláusula especial de acuerdo con la Ley, sin perjuicio de que se otorguen otros poderes. Para ejercer actos de dominio, requerirá la autorización expresa de la Junta de Gobierno conforme a la legislación aplicable;
+
+II. Ejecutar los acuerdos de la Junta de Gobierno;
+
+III. Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación de la Junta de Gobierno las erogaciones extraordinarias;
+
+IV. Rendir a la Junta de Gobierno los informes de las actividades desarrolladas sobre los siguientes aspectos:
+
+a) Cumplimiento de acuerdos de la Junta de Gobierno;
+
+b) Estados financieros y ejercicio presupuestal mensuales;
+
+c) Avance de los programas operativos autorizados por la Junta de Gobierno;
+
+d) Cumplimiento de los programas de obras y erogaciones en las mismas;
+
+e) Presentación anual del programa de labores y presupuesto de egresos para el siguiente período.
+
+V. Establecer la estructura funcional, organización y procedimientos administrativos y técnicos, incluyendo la apropiada delegación de funciones y niveles jerárquicos para el funcionamiento de la Comisión y el cumplimiento de sus objetivos.
+
+VI. Ordenar que se practiquen en todo el Estado en forma regular y periódica muestreos y análisis del agua; llevar estadísticas de sus resultados y tomar con base en ello las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población así como la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable;
+
+VII. Realizar las acciones que se requieran para que la Comisión preste a la comunidad, los servicios que le correspondan de manera adecuada, oportuna y eficiente;
+
+VIII. Convocar a sesiones a la Junta de Gobierno cuando delegue esta facultad el Presidente;
+
+IX. Someter a la aprobación de la Junta de Gobierno los proyectos de normas técnicas, criterios y lineamientos generales referentes a las modalidades de los servicios públicos de agua en el Estado;
+
+X. Supervisar los programas aprobados por la Junta de Gobierno y responsabilizarse de su ejecución, así como del ejercicio presupuestal;
+
+XI. Nombrar y remover al personal de la Comisión; y
+
+XII. Las demás que le señale la Junta de Gobierno, ésta Ley y su Reglamento y las demás disposiciones legales aplicables.
+
+###### Artículo 36.
+
+Para ser Director General se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos así como contar con capacidad y experiencia comprobada.
+
+###### Artículo 37.
+
+El patrimonio de la Comisión se integrará por:
+
+I. Los bienes, derechos, créditos, obligaciones y aportaciones que reciba por cualquier título, disposición legal o instrumento jurídico y/o se le transfieran de los tres órdenes de Gobierno: Federal, Estatal o Municipal;
+
+II. Los activos que actualmente forman parte de su patrimonio;
+
+III. Los créditos que obtenga para el cumplimiento de sus fines;
+
+IV. Las aportaciones que reciba de los sectores social o privado;
+
+V. Los ingresos que le correspondan por la prestación de sus servicios;
+
+VI. Los remanentes, frutos, utilidades, productos, intereses y ventas que se obtengan de su propio patrimonio; y
+
+VII. Los demás bienes y derechos que adquiera por cualquier titulo legal.
+
+###### Artículo 38.
+
+El patrimonio de la Comisión será inembargable y aquellos bienes afectados directamente a la prestación de los servicios públicos serán inembargables e imprescriptibles. Los bienes inmuebles de la Comisión destinados directamente a la prestación de los servicios públicos se consideran bienes del dominio público del Estado.
+
+###### Artículo 39.
+
+La Comisión, podrá realizar con recursos propios, con aportaciones federales, estatales y municipales, con la participación de la iniciativa privada, o con recursos de procedencia mixta, obras para la prestación de servicios regionales de suministro de agua potable o para diferentes usos, alcantarillado, tratamiento de aguas residuales y su reúso, previa celebración de los convenios necesarios con las autoridades competentes. La Comisión podrá establecer tarifas por los servicios regionales que deberán considerar los costos de administración, operación y mantenimiento y los costos de inversión de las obras realizados con financiamiento recuperable, sin incluir aportaciones presupuestales realizadas a fondo perdido, sean federales, estatales o municipales.
+
+###### Artículo 40.
+
+Compete a la Secretaria de Desarrollo Rural del Estado:
+
+I. Colaborar con la Comisión, respecto de las aguas de jurisdicción estatal, para su explotación, uso o aprovechamiento en lo correspondiente a los usos:
+
+a) Agropecuario;
+
+b) Agroindustrial;
+
+c) Piscícola;
+
+d) Acuícola; y.
+
+e) Ecológico en coordinación con la Secretaría,
+
+II. Planear la construcción de obras hidráulicas de los usos mencionados en la fracción anterior, conjuntamente con las asociaciones de usuarios rurales;
+
+III. La operación de los sistemas hidráulicos de su competencia, con la participación de las asociaciones de usuarios rurales.
+
+IV. La administración y conservación de la infraestructura hidráulica de su competencia, con participación de las asociaciones de usuarios rurales;
+
+Para los efectos de lo dispuesto en las fracciones anteriores, la Secretaria de Desarrollo Rural deberá fomentar la participación de todos los usuarios conforme a los usos del agua comprendidos en el presente artículo; en las asambleas que realicen las asociaciones de usuarios de los distritos de riego y en las Unidades de Riego para el Desarrollo Rural, así como en los Consejos Locales y el Consejo Estatal de usuarios de Agua del Estado.
+
+En el caso de lo dispuesto en la fracción I de este artículo, la Secretaría de Desarrollo Rural deberá tomar en cuenta los programas y convenios específicos de la Federación en dicha materia.
+
+###### Artículo 41.
+
+En el cumplimiento de sus funciones la Secretaría de Desarrollo Rural deberá:
+
+I. Vigilar el cumplimiento de las obligaciones de las asociaciones de usuarios a que se refiere el artículo anterior, con sujeción a las disposiciones legales aplicables en materia de agua;
+
+II. Integrar el padrón de usuarios precisando los tipos y derechos al uso del agua, incorporándolo al Sistema Estatal de Información del Agua; y
+
+III. Asistir técnicamente a las unidades, distritos de riego, Consejos Locales y Consejo Estatal de Usuarios del agua, así como asesorar a los usuarios de los mismos en la entidad, a efecto de propiciar un aprovechamiento racional del agua.
+
+IV. Promover en la medida de lo posible el intercambio de aguas tratadas por aguas de primer uso en riego.
+
+###### Artículo 42.
+
+La Secretaría de Desarrollo Rural deberá coordinar las acciones encaminadas a tecnificar el riego agrícola con la introducción de métodos presurizados tales como el riego por aspersión o por goteo, entre otros, modernizando la infraestructura establecida para el servicio de riego por superficie.
+
+La Secretaría dispondrá lo necesario para incentivar la adopción de tales tecnologías y prácticas, a través de mecanismos técnicos, normativos, económicos y financieros, incluyendo aquellos de carácter fiscal, en términos de Ley.
+
+###### Artículo 43.
+
+La Secretaría de Desarrollo Rural coordinará esfuerzos y acciones con la Comisión en la formulación y aplicación del Programa Hídrico Estatal y en la promoción de la organización de los usuarios del agua conforme a su ámbito de competencia, para su inserción en los Consejos Locales de Usuarios y en el Consejo Estatal de usuarios del agua correspondientes, según su localización geográfica.
+
+### CAPÍTULO II. De las autoridades municipales
+
+###### Artículo 44.
+
+Los Municipios, en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y del articulo 79 de la Constitución Política del Estado de Jalisco, tienen a su cargo los servicios públicos de agua potable, alcantarillado, tratamiento y disposición de sus aguas residuales, observando lo establecido en esta Ley y las disposiciones de la Ley de Aguas Nacionales, considerando como servicios públicos todos aquellos prestados a usuarios que no posean derechos propios de explotación de aguas o vertido a cauces nacionales o de jurisdicción estatal.
+
+###### Artículo 45.
+
+De acuerdo con los términos del artículo 115 constitucional y la Ley de Aguas Nacionales, corresponde a los Municipios el saneamiento de las aguas residuales de los servicios a su cargo, por lo que el servicio de saneamiento será inherente a la prestación del servicio de agua potable, lo mismo que el pago de derechos y sanciones por vertido a cauces nacionales o de jurisdicción estatal.
+
+###### Artículo 46.
+
+Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios a que se refiere esta ley. Cuando se asocien con municipios de otros estados, deberán contar con la aprobación del H. Congreso del Estado.
+
+###### Artículo 47.
+
+Los municipios podrán celebrar convenios con el Estado para que éste, a través de la Comisión se haga cargo en forma temporal de la prestación de los servicios que les corresponden y a que se refiere ésta ley o para que se presten coordinadamente por el Estado y el propio municipio, observando para tal efecto, las disposiciones contenidas en la Ley del Gobierno y Administración Pública Municipal del Estado de Jalisco.
+
+###### Artículo 48.
+
+Para la prestación de los servicios de agua potable y saneamiento, los ayuntamientos pueden constituir los siguientes organismos operadores descentralizados municipales o intermunicipales.
+
+###### Artículo 49.
+
+Los Organismos Operadores Descentralizados tendrán personalidad jurídica y patrimonio propios, así como autonomía técnica y administrativa, con las atribuciones que establece esta Ley, su Reglamento, los ordenamientos municipales y su instrumento de creación.
+
+Dichos organismos deberán constituirse por acuerdo de las dos terceras partes de los integrantes de los ayuntamientos respectivos de conformidad con lo que señale la Ley del Gobierno y Administración Pública Municipal del Estado de Jalisco.
+
+###### Artículo 50.
+
+Los Organismos Descentralizados Intermunicipales serán creados mediante convenios entre dos o más Municipios a efecto de coordinarse en la prestación de los servicios de agua potable, alcantarillado, tratamiento y disposición de aguas residuales, pudiendo asumir las funciones del Organismo Operador Intermunicipal un organismo operador existente en alguno de los municipios o bien uno de nueva creación. Sus titulares serán nombrados en los términos que establezcan estos convenios. El presupuesto de egresos de los Organismos Operadores intermunicipales será aprobado por los Ayuntamientos que los integran.
+
+###### Artículo 51.
+
+El Organismo Operador Intermunicipal, con respecto a los usuarios de los servicios, se subrogará en las responsabilidades y asumirá los derechos y obligaciones de los organismos operadores que se extingan.
+
+###### Artículo 52.
+
+Los Organismos Operadores, ejercerán las facultades y cumplirán las obligaciones que el instrumento de su creación establezca, además de las siguientes:
+
+I. Planear, estudiar, proyectar, construir, aprobar, conservar, mantener, ampliar, rehabilitar, administrar y operar las obras y sistemas de agua potable, alcantarillado, tratamiento y disposición de aguas residuales, así como su reúso y recirculación, en los términos de las Leyes Estatales y Federales de la materia;
+
+II. Administrar las contribuciones y derechos que de conformidad con las leyes se deriven de la prestación de los servicios públicos a su cargo, quedando facultados para ejercer las funciones municipales que el instrumento de su creación establezca;
+
+III. Utilizar todos sus ingresos exclusivamente en los servicios públicos, destinándolos en forma prioritaria a su operación, mantenimiento, sustitución de la infraestructura obsoleta y administración, pago de derechos y posteriormente a ampliar la infraestructura hidráulica, ya que en ningún caso podrán ser destinados a otros fines;
+
+IV. Mejorar los sistemas de captación, conducción, tratamiento de aguas residuales, reúso y recirculación de las aguas servidas, prevención y control de la contaminación de las aguas que se localicen dentro del municipio; vigilar todas las partes del sistema de distribución, abastecimiento y descargas para detectar cualquier irregularidad, la cual deberá ser corregida; si sus medios son insuficientes para ello, podrá solicitar el apoyo de la Comisión, la cual deberá hacerlo teniendo siempre en cuenta su suficiencia presupuestaria;
+
+V. Instalar los instrumentos de medición adecuados en cada fuente de abastecimiento a su cargo, en puntos donde técnicamente la medición sea representativa de la totalidad del suministro del agua a las localidades de que se trate.
+
+VI. Proporcionar los servicios de agua potable, alcantarillado, tratamiento y disposición de aguas residuales a los centros de población de su Municipio;
+
+VII. Formular y mantener actualizado el padrón de usuarios de los servicios a su cargo;
+
+VIII. Promover y vigilar ante la comunidad, el pago oportuno, el uso eficiente y racional del agua potable, alcantarillado y saneamiento, así cómo el aprovechamiento, descarga, reúso y tratamiento de Aguas Residuales Tratadas, y la disposición final de Iodos;
+
+IX. Brindar al personal acreditado de la Comisión, todas las facilidades para desempeñar las actividades que tenga conferidas en la ley y su reglamento o le sean encomendadas por la autoridad competente;
+
+X. Prever las necesidades a futuro, tanto de la cabecera municipal como del resto de las localidades del municipio, agotando las posibilidades de exploración de nuevas fuentes de abastecimiento a distancias razonables, pudiendo contar con la asesoría y apoyo de la Comisión a solicitud del Ayuntamiento correspondiente;
+
+XI. Realizar los estudios técnicos y financieros y las gestiones necesarias para la realización de inversiones públicas productivas del Organismo Operador, cuando se necesite el financiamiento, siguiendo los procedimientos establecidos en las leyes.
+
+XII. Elaborar la propuesta de los estudios tarifarios con base en los costos de los servicios públicos de agua potable, alcantarillado y saneamiento en su municipio, considerando como mínimo las partidas presupuestales de gastos de administración, operación, rehabilitación y mantenimiento;
+
+XIII. Aplicar las cuotas, tasas y tarifas de las contribuciones y productos, por la prestación de los servicios que corresponda;
+
+XIV. Solicitar a las autoridades competentes la expropiación de bienes necesarios para la prestación de los servicios que les corresponden, en los términos de Ley;
+
+XV. Rendir el informe de la cuenta mensual a la Hacienda Municipal correspondiente.
+
+XVI. Rendir anualmente al Ayuntamiento un informe de las labores realizadas durante el ejercicio anterior, así como del estado general del Organismo Operador. En el caso de organismos intermunicipales, se rendirá a cada Ayuntamiento;
+
+XVII. Permitir y apoyar la fiscalización a los organismos de revisión correspondientes;
+
+XVIII. Examinar y aprobar su presupuesto anual, los estados financieros, los balances y los informes generales y especiales que procedan; y
+
+XIX. Realizar todas las actividades y actos jurídicos encaminados directa o indirectamente al cumplimiento de sus objetivos.
+
+XX. Las autoridades municipales serán corresponsables con los Organismos Operadores Descentralizados de:
+
+a) La calidad del agua potable suministrada para que cumpla con las normas oficiales establecidas;
+
+b) La vigilancia del tratamiento de las aguas residuales;
+
+c) El reúso y recirculación de las aguas servidas; y
+
+d) Las condiciones particulares de descarga.
+
+Para cumplir con lo anterior, contarán con el apoyo y asesoría de la Comisión Estatal, previa solicitud al respecto.
+
+###### Artículo 53.
+
+A solicitud de cualquier Ayuntamiento, las facultades señaladas en las fracciones anteriores, las podrá ejercer la Comisión en los lugares donde los Municipios no puedan prestar los servicios de su competencia, a través de un organismo operador descentralizado de la Comisión, en condiciones que aseguren su continuidad, regularidad, calidad, sanidad y cobertura. Para lo anterior, se deberá firmar un convenio a solicitud del Ayuntamiento respectivo. Dicho Convenio deberá considerar, como mínimo las siguientes bases:
+
+I. El tiempo durante el cual la Comisión prestará los servicios públicos de agua en sustitución del Ayuntamiento;
+
+II. La participación de un representante de Ayuntamiento en el consejo de dirección del organismo operador que se establezca;
+
+III. La obligación por parte del Ayuntamiento de proporcionar a la Comisión todo el apoyo necesario para que ésta pueda prestar los servicios públicos de agua de manera eficiente; y
+
+IV. El compromiso por parte del Ayuntamiento de retomar la prestación de los servicios públicos de agua, en cuanto reúna las condiciones técnicas y financieras para hacerlo.
+
+###### Artículo 54.
+
+En los términos de la Ley del Gobierno y la Administración Pública Municipal y de esta Ley, los municipios elaborarán su reglamento de los servicios de agua potable, alcantarillado y saneamiento, el cual establecerá las particularidades de los sistemas y servicios a su cargo, la forma de cuantificación de los servicios prestados y su cobro, así como de las relaciones entre el prestador de los servicios y los usuarios, incluyendo sus derechos y obligaciones.
+
+###### Artículo 55.
+
+La Comisión estará encargada de establecer la normatividad de los servicios de agua potable, alcantarillado y saneamiento, incluyendo su publicación, difusión y actualización, de conformidad con las normas nacionales y condiciones que aseguren la eficiencia y calidad de los servicios que se prestan a la población de los municipios.
+
+## TÍTULO TERCERO. De la participación de los usuarios y la sociedad organizada
+
+### CAPÍTULO I. Disposiciones generales
+
+###### Artículo 56.
+
+Para los efectos de lo dispuesto en los artículos 15 y 18 de la Ley, la Comisión promoverá la organización y la participación plena de los usuarios del agua, la participación de la sociedad organizada mediante el registro y acreditación de las organizaciones constituidas cuyos objetivos estén relacionados o interesados en la gestión del agua y de los particulares cuyos intereses y capacidad puedan aportar beneficios a la gestión del agua en el Estado.
+
+Para los efectos de los articulas 4°, 12, 13 y 16 de la Ley, la Comisión promoverá las acciones necesarias para que los usuarios del agua, la sociedad organizada y los particulares acreditados participen en forma activa en los términos del artículo 57.
+
+###### Artículo 57.
+
+El sector social y los particulares podrán participar en forma organizada, bajo el control y vigilancia de las autoridades competentes, en el estudio, proyecto, financiamiento, construcción, ampliación, rehabilitación, mantenimiento, conservación, operación y administración de la infraestructura hidráulica del Estado, así como para administración de los sistemas y la prestación de los servicios públicos de suministro de agua potable, alcantarillado y tratamiento, incluyendo el reúso, recirculación y disposición de aguas residuales.
+
+### CAPÍTULO II. De la organización de los usuarios del agua
+
+###### Artículo 58.
+
+Para lo dispuesto en materia de programación hídrica estatal y de acuerdo con las condiciones hidrológicas e hidrogeográficas, el territorio del Estado de Jalisco se considerará conformado por cuencas hidrológicas, cuyos límites geográficos serán determinados por la Comisión, con los apoyos procedentes de la Comisión Nacional.
+
+###### Artículo 59.
+
+Para los efectos de la presente Ley, en cada una de las cuencas hidrológicas a que se refiere el artículo anterior, la Comisión promoverá la constitución de un Consejo Local de usuarios del agua en cuyo seno participen:
+
+l. Los usuarios con derechos de agua en la cuenca correspondiente;
+
+II. Los representantes de las dependencias estatales y municipales involucradas;
+
+III. Los representantes de los organismos operadores municipales e intermunicipales, considerados como usuarios del agua, y
+
+IV. Los representantes de la sociedad civil organizada, incluyendo el medio académico.
+
+###### Artículo 60.
+
+Los Consejos Locales de usuarios del agua tendrán a su cargo las siguientes funciones:
+
+I. Contribuir a la gestión integrada de los recursos hídricos de la cuenca correspondiente;
+
+II. Participar en el desarrollo y promoción de una nueva cultura del agua, encaminada a la gestión integrada del recurso hídrico, con énfasis en la sustentabilidad;
+
+III. Conocer y difundir la política hídrica nacional, regional, estatal y local, y promover aquellos lineamientos de política tendientes a mejorar la gestión del agua en el ámbito de su propia cuenca y en su interrelación con las otras cuencas vecinas;
+
+IV. Promover la participación de las autoridades estatales y municipales en el fortalecimiento de los procesos de participación de los usuarios y de la sociedad en la atención de los asuntos relacionados con el agua, su aprovechamiento y preservación, particularmente en la gestión de conflictos en materia hídrica;
+
+V. Promover y conseguir los consensos de los usuarios y de la sociedad en la explotación, uso y aprovechamiento racional del agua, así como en su protección y conservación y su corresponsabilidad en el desarrollo de los programas del sector;
+
+VI. Participar en la administración de las aguas estatales en la forma que establezca el Reglamento de la Ley y el marco jurídico que rige al sector;
+
+VII. Promover el uso eficiente y sustentable del agua, y de manera particular, promover el reúso y recirculación de las aguas servidas; y
+
+VIII. Seleccionar a los representantes de los diferentes tipos de uso para participar en el Consejo Estatal del Agua.
+
+###### Artículo 61.
+
+Los Consejos Locales se regirán por los lineamientos que se establezcan en el Reglamento de la Ley y por lo dispuesto en su propio reglamento de integración, estructura y funcionamiento. Para los efectos de su mejor operación, contarán con el apoyo de la. Comisión y de los municipios correspondientes.
+
+###### Artículo 62.
+
+La Comisión promoverá la constitución del Consejo Estatal del Agua conformado por los representantes de cada uno de los Consejos Locales de Usuarios del Agua, la Comisión y las autoridades competentes relacionadas con el agua. El Consejo Estatal del Agua será la instancia de coordinación para elegir la representación de los usuarios del agua ante los Consejos de Cuenca correspondientes.
+
+###### Artículo 63.
+
+El Representante de la Comisión fungirá como Secretario Técnico del Consejo Estatal del Agua. Este último se regirá por los lineamientos que se establezcan en el Reglamento de la Ley, su propio reglamento de integración, estructura y funcionamiento y contará con el apoyo de la Comisión y de las dependencias del Gobierno del Estado relacionadas con la materia.
+
+### CAPÍTULO III. De la participación de la sociedad
+
+###### Artículo 64.
+
+En los términos del artículo 15 de la Ley, los grupos académicos, colegios de especialistas, asociaciones civiles y gubernamentales y cámaras que expresen su interés por participar en las tareas de planeación de los recursos hídricos y su programación, podrán solicitar su acreditación ante la Comisión.
+
+###### Artículo 65.
+
+La Comisión acreditará como se establece en el artículo anterior para su participación directa o a través de los órganos y dependencias considerados en esta Ley en las tareas de planeación de los recursos hídricos y su programación, a quienes cumplan con los requisitos que se establezcan en el Reglamento de la Ley.
+
+## TÍTULO CUARTO. De la descentralización de facultades de la federación
+
+### CAPÍTULO I. Disposiciones generales
+
+###### Artículo 66.
+
+El Gobernador, conforme a lo dispuesto en el Artículo 5 de la Ley de Aguas Nacionales, promoverá desde su ámbito de atribuciones, la coordinación de acciones con la Autoridad del Agua Federal y con las demás instituciones federales que se requieran, en materia de la planeación, realización y administración de las acciones de gestión de los recursos hídricos, incluyendo en forma privilegiada el contexto de la cuenca hidrológica. Asimismo, solicitará la descentralización de la gestión de los recursos hídricos conforme al marco jurídico vigente en los términos y tiempos que mejor favorezcan el interés del Estado de Jalisco.
+
+###### Artículo 67.
+
+La Comisión, en nombre del Gobierno del Estado será la responsable de establecer las gestiones, interrelaciones y suscripción de acuerdos y convenios que resulten necesarias con la Autoridad del Agua Federal y con las demás instituciones federales que al efecto deban intervenir conforme al marco jurídico vigente, para promover en forma precisa y concreta los términos de descentralización de funciones y atribuciones al cargo de esa institución federal en materia de gestión del agua, incluyendo su administración, a favor del Gobierno del Estado de Jalisco.
+
+###### Artículo 68.
+
+El Gobierno del Estado de Jalisco, a través de la Comisión, establecerá las prioridades estatales en relación con la administración y gestión de las aguas de jurisdicción estatal y de los bienes inherentes a que se refiere la presente Ley, incluyendo aquellas aguas cuya custodia y responsabilidad haya otorgado la Autoridad Federal del Agua al Estado de Jalisco, el cual a su vez actuará en forma consecuente, para impulsar la descentralización de la gestión de dichos recurso (sic) hídricos en su ámbito territorial.
+
+###### Artículo 69.
+
+La programación hídrica estatal y sus mecanismos de consulta, así como la programación hídrica y los objetivos de bienestar social, crecimiento económico y desarrollo con sustentabilidad en el Estado de Jalisco, así como lo dispuesto en el marco jurídico vigente, determinarán las facultades que de acuerdo con el interés público del Estado convenga solicitar que la Federación descentralice al Estado. A estos efectos, la Comisión estará facultada para realizar las gestiones necesarias ante la Autoridad del Agua Federal o las autoridades competentes.
+
+###### Artículo 70.
+
+Las funciones y atribuciones al cargo de la Comisión Nacional que sean descentralizadas a favor del Estado de Jalisco en los términos del artículo 116 constitucional, de lo dispuesto en la Ley de Aguas Nacionales y en los convenios en que se formalicen, pasarán a formar parte, en los mismos términos de esta Ley, de las funciones y atribuciones asignadas a la Comisión, excepto aquellas que específicamente correspondan al Gobernador o a otra instancia gubernamental estatal.
+
+###### Artículo 71.
+
+La Comisión representará al Gobierno de Jalisco ante aquellos Consejos de Cuenca de los que el Estado forma parte.
+
+### CAPÍTULO II. Administración del agua
+
+###### Artículo 72.
+
+La administración de las aguas de jurisdicción estatal estarán a cargo de la Comisión de conformidad con los convenios de colaboración administrativa y fiscal que se establezcan con la Autoridad del Agua Federal en congruencia con lo dispuesto en la Ley de Aguas Nacionales y sus Reglamentos y, cuando así estuviere establecido, en coordinación con esa institución federal, para el manejo, control y otorgamiento de asignaciones, concesiones y permisos especiales.
+
+###### Artículo 73.
+
+La Comisión promoverá los convenios necesarios con la Comisión Nacional para establecer la coordinación y relaciones interinstitucionales y de transversalidad entre los dos órdenes de gobierno, que le permitan contar con toda la información, análisis, estudios y apoyos de diversa índole que resulten necesarios para la mejor administración de las aguas de jurisdicción estatal y garantizar la elaboración, aprobación, instrumentación y resultados positivos de la programación hídrica estatal.
+
+###### Artículo 74.
+
+El sistema de información estatal del agua y el registro estatal de derechos de agua que formará parte del mismo, se establecerán de conformidad con las disposiciones contenidas en la ley de Aguas Nacionales y sus reglamentos, así como en coordinación con la Comisión Nacional en sus niveles regionales y nacional, de tal manera que se garantice en forma sistemática y permanente la congruencia con la información regional y nacional y la planeación hídrica correspondiente.
+
+###### Artículo 75.
+
+Será pública la información sobre la administración del agua y aquella contenida en el sistema estatal de información, con apoyo en lo dispuesto en las leyes en la materia. Todo interesado tendrá acceso a la información referida en el presente artículo, para lo cual la Comisión establecerá los mecanismos procedentes para tales propósitos, con base en los medios que se determinarán en el Reglamento de la Ley.
+
+## TÍTULO QUINTO. De la participación de los particulares
+
+### CAPÍTULO I. Disposiciones generales
+
+###### Artículo 76.
+
+Los integrantes de los sectores privado y social en los términos de la presente Ley, la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, la Ley de Obra Pública del Estado de Jalisco, la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios y demás leyes aplicables, así como sus reglamentos, podrán participar de forma individual o colectiva en:
+
+l. La ejecución de obras de infraestructura hidráulica y proyectos relacionados con los servicios públicos;
+
+II. El financiamiento de obras, instalaciones y equipamiento para la gestión de los recursos hídricos y para la prestación de servicios de aguas rurales y urbanos;
+
+III. La prestación de los servicios públicos de suministro de agua potable, alcantarillado, reúso y tratamiento de aguas residuales;
+
+IV. La administración, operación y mantenimiento parcial de los sistemas destinados a la prestación de los servicios públicos de agua potable, alcantarillado y tratamiento de aguas residuales, así como el reúso de éstas; y
+
+V. Las demás actividades que se convengan con la Comisión, los ayuntamientos o sus Organismos Operadores, en el ámbito de sus respectivas competencias.
+
+La participación del sector social y los particulares, en forma directa o mediante asociación con entidades públicas o gubernamentales, sólo podrá realizarse a través de contrato o concesión otorgada por la autoridad competente.
+
+### CAPÍTULO II. De la participación de la iniciativa privada en obras hidráulicas
+
+###### Artículo 77.
+
+En los contratos y concesiones celebrados con los particulares para la operación de los sistemas de agua potable, alcantarillado o saneamiento, los ayuntamientos o sus organismos operadores mantendrán la facultad de elaborar el proyectó de tarifas generales para que éstas sean fijadas en las leyes de ingresos respectivas.
+
+Los organismos operadores sólo podrán licitar la realización de obras a que se refiere el artículo 76 de ésta Ley, mediante autorización expedida por acuerdo del ayuntamiento respectivo.
+
+###### Artículo 78.
+
+Dos o más municipios podrán celebrar convenios para el otorgamiento conjunto de los servicios, las concesiones y contratos a que se refiere esta ley.
+
+###### Artículo 79.
+
+La participación social y privada prevista por esta Ley, deberá garantizar una mayor calidad en el desarrollo de los servicios, mayor protección a las fuentes de suministro y de los cuerpos receptores de las aguas servidas, el cumplimiento de las normas de calidad de los servicios, y la obligación de los concesionarios de participar subsidiariamente en la atención de los restantes servicios de agua del municipio.
+
+###### Artículo 80.
+
+Las obras y demás bienes inherentes a la concesión otorgados para la prestación de los servicios públicos concesionados se reintegrarán al patrimonio del ayuntamiento correspondiente o en su caso a los organismos descentralizados municipales o. intermunicipales, cuando la concesión se extinga por cualquier causa. Salvo disposición en contrario, igual situación sucederá con las obras y bienes construidos o adquiridos durante la vigencia de la concesión.
+
+###### Artículo 81.
+
+En caso de escasez de agua que sea originada por negligencia o imprudencia del concesionario, o por daños sanitarios o ecológicos a la sociedad, el. Presidente Municipal, por acuerdo con el Secretario y el Síndico, ordenará la medida de seguridad correspondiente a la intervención, aseguramiento o requisa de las instalaciones y bienes afectos a la prestación del servicio concesionado a fin de resolver la problemática social, ecológica o sanitaria relacionada con éste, y garantizar la prestación del servicio de manera uniforme, regular o continua.
+
+En el acuerdo deberán señalarse las autoridades encargadas y las acciones que éstas realizarán para subsanar las irregularidades que motivaron la imposición de la medida de seguridad, así como los plazos para su ejecución, a fin de que, una vez cumplidas aquéllas, se ordene el levantamiento de la medida, sin perjuicio de las sanciones que puedan corresponder. Los plazos para la realización de las acciones señaladas en el acuerdo que impone la medida de seguridad podrán ser de hasta treinta días naturales, los cuales podrán prorrogarse por acuerdo de las autoridades mencionadas en el párrafo anterior.
+
+En los títulos de concesión podrán establecerse medidas de seguridad y procedimientos para su implementación, adicionales a las contempladas por este artículo.
+
+###### Artículo 82.
+
+Previamente a la contratación o concesión de cualquiera de las actividades señaladas en el articulo 76 de esta Ley, el Poder Ejecutivo y la Comisión, a solicitud ayuntamiento, deberán analizar la viabilidad de que participen concertadamente con el municipio o el organismo operador para la realización de dichas actividades, ya sea a través de la aportación o consecución de recursos humanos, financieros o materiales.
+
+En caso de requerirlo, el ayuntamiento podrá solicitarle a la Comisión la asistencia necesaria a fin de definir las bases para otorgar las concesiones a que se refiere esta Ley, incluidos los criterios para la publicación de la convocatoria y el establecimiento de los requisitos, garantías y demás modalidades que considere necesarios.
+
+## TÍTULO SEXTO. De la prestación de los servicios públicos de agua potable, alcantarillado y saneamiento
+
+### CAPÍTULO I. Disposiciones Generales
+
+###### Artículo 83.
+
+Los servicios públicos de agua potable, alcantarillado y saneamiento, prestados por los municipios en todo el ámbito de su territorio, comprenderán las actividades siguientes:
+
+I. La explotación de aguas asignadas o concesionadas, recepción de agua en bloque, potabilización, conducción y distribución de agua potable, así como la recolección de las aguas residuales;
+
+II. El tratamiento de las aguas residuales, su disposición final y la de los Iodos u otros residuos resultantes;
+
+III. Operación, control y mantenimiento del alcantarillado sanitario;
+
+IV. La operación, vigilancia y mantenimiento de las obras, equipamiento, plantas, instalaciones y redes correspondientes a los sistemas de agua potable, alcantarillado, saneamiento y reúso;
+
+V. El servicio de alcantarillado pluvial bajo las características que se establezcan y se convengan en los límites urbanos con el Municipio y el Estado;
+
+VI. La determinación, emisión y recaudación de cuotas, tarifas y los créditos fiscales que se causen por la prestación de los servicios correspondientes;
+
+VII. La imposición de sanciones por infracciones a las disposiciones de la Ley y demás ordenamientos jurídicos aplicables, en su ámbito de competencia, y
+
+VIII. La instalación de medidores para la cuantificación de la extracción y consumo para todos los usuarios para el mejoramiento en la prestación del servicio.
+
+###### Artículo 84.
+
+Los municipios, organismos operadores y concesionarios de los servicios se encontrarán obligados a permitir a los habitantes en forma permanente, regular, continua y uniforme, el acceso al agua potable para satisfacer sus necesidades vitales y sanitarias, aún en el caso de adeudos no cubiertos por servicios prestados; para dicho efecto, el Gobernador del Estado, o éste a través de la Comisión Estatal, expedirá las normas oficiales estatales que señalen las condiciones y términos técnicos y operativos que deberán observarse.
+
+###### Artículo 85.
+
+El Gobernador del Estado, o éste a través de la Comisión Estatal, formulará y publicará las normas oficiales estatales en materia de infraestructura y servicios de agua potable, alcantarillado y saneamiento, las cuáles tendrán como objeto:
+
+I. Garantizar a los usuarios el suministro de un servicio de calidad aceptable al costo más económico posible;
+
+II. Asegurar objetivos colectivos de salud pública y preservación del medio ambiente;
+
+III. Asegurar la generación de información técnica y administrativa que garantice la confiabilidad en la determinación de costos de los servicios;
+
+IV. Dimensional y limitar la participación de los sectores, garantizando igualdad de condiciones para organismos operadores públicos y privados, estableciendo bases claras y orientando las resoluciones hacia soluciones de largo plazo que beneficien a los usuarios; y
+
+V. Para el riego de áreas verdes públicas.
+
+###### Artículo 86.
+
+Las aguas residuales tratadas, libres de compuestos tóxicos y orgánicos patógenos conforme a las normas oficiales, deberán ser utilizadas siempre que haya disponibilidad en:
+
+I. Los establecimientos mercantiles de servicios de recreación y centros comerciales que ocupen una superficie de cinco mil metros cuadrados en adelante en sus actividades de limpieza de instalaciones, parque vehicular y áreas verdes;
+
+II. Las industrias que en sus procesos productivos no requieran necesariamente de agua potable, así como en las actividades mencionadas en la fracción anterior;
+
+III. Las obras en construcción mayores de dos mil quinientos metros cuadrados, así como en terracerías, y compactación de suelos;
+
+IV. Los establecimientos dedicados al lavado de autos;
+
+V. La agricultura; y
+
+VI. Les demás que determinen otras disposiciones legales o. reglamentarias.
+
+###### Artículo 87.
+
+Los ayuntamientos, directamente o a través de los organismos operadores, informarán a la Comisión respecto de sus programas de inversión y desarrollo de los servicios municipales de agua y saneamiento acerca de los siguientes aspectos:
+
+I. Coberturas de los servicios de agua potable, alcantarillado sanitario y tratamiento de aguas residuales;
+
+II. Eficiencias generales del sistema municipal conforme a las metodologías que al efecto establezca el reglamento de la presente Ley;
+
+III. Catálogo vigente de tarifas por los servicios;
+
+IV. Programa de inversiones, de corto, mediano y largo plazo;
+
+V. Asignaciones de agua a favor del municipio por parte de la autoridad competente en términos de Ley;
+
+VI. Fuentes de abastecimiento de agua, sus condiciones de uso, calidad, y desarrollo potencial de las mismas; y
+
+VII. Condiciones de la distribución y colecta de aguas en cuanto a. volumen y calidad.
+
+VIII. Así como cualquier otra información que se estime pertinente para su integración en el Sistema Estatal de Información del Agua.
+
+### CAPÍTULO II. De los derechos y obligaciones de los usuarios de servicios públicos
+
+###### Artículo 88.
+
+Los usuarios tendrán la obligación de cuidar que el agua se utilice con eficiencia a la vez que deberán evitar contaminarla fuera de los parámetros que se establezcan en las leyes, reglamentos, normas oficiales mexicanas, normas mexicanas, y normas oficiales estatales.
+
+###### Artículo 89.
+
+En épocas de escasez de agua, comprobada o previsible, de acuerdo con las condiciones que establezca el Reglamento de la Ley, el prestador de los servicios podrá acordar con el ayuntamiento las disminuciones en el abastecimiento y los plazos que durarán; dicho acuerdo deberá publicarse en el órgano de difusión oficial del municipio donde se aplique la disminución y deberá publicitarse a través de los medios de comunicación disponibles en el área, cuando menos con diez días de anticipación a la fecha en que se vaya a aplicar la medida.
+
+###### Artículo 90.
+
+Los usuarios de los servicios objeto de esta Ley, tienen los siguientes derechos:
+
+I. Exigir calidad y eficiencia en la prestación de los servicios a que se refiere esta ley;
+
+II. Recibir los avisos de cobro y reclamar los errores que contengan tales avisos;
+
+III. Interponer recursos legales en contra de actos o resoluciones de las autoridades competentes en materia de agua potable, alcantarillado y saneamiento de conformidad con lo que señala esta ley y su reglamento;
+
+IV. Recibir información sobre los servicios públicos de agua, incluyendo los cambios a las cuotas y tarifas a efecto de hacer valer sus derechos como usuario y ser informados con anticipación de los cortes de servicios públicos de agua a que se refiere el artículo anterior; y
+
+V. Denunciar ante la autoridad competente cualquier acción u omisión relacionada con los servicios públicos de agua potable, alcantarillado y saneamiento, cometida por terceras personas que pudieran afectar sus derechos.
+
+###### Artículo 91.
+
+Los usuarios de los servicios públicos de agua potable, alcantarillado y saneamiento, deberán celebrar con el municipio o su organismo operador un contrato de adhesión para la prestación de los servicios, cuyo contenido especificará las obligaciones y responsabilidades de cada parte, de acuerdo al contenido de esta Ley, su reglamento y los reglamentos municipales correspondientes. El contrato deberá contener cuando menos:
+
+I. Los fundamentos jurídicos y su objeto;
+
+II. La descripción del prestador de los servicios y del usuario;
+
+III. Los derechos y obligaciones del prestador de los servicios;
+
+IV. Los derechos y obligaciones del usuario;
+
+V. El período de vigencia;
+
+VI. Las características de la prestación del servicio público;
+
+VII. Tipo de servicio que se contrata;
+
+VIII. El reconocimiento explícito de la entidad reguladora como árbitro en caso de controversias entre las partes y como autoridad en el ejercicio de las atribuciones que se le confieren en la presente Ley y su reglamento, en el contrato o cualquier otro ordenamiento;
+
+IX. Las causas de rescisión o restricción establecidas en esta Ley; y
+
+X. Las infracciones y sanciones de las partes.
+
+###### Artículo 92.
+
+Los adeudos a cargo de los usuarios y a favor de los Organismos Operadores, exclusivamente para efectos de cobro, tendrán solamente en el caso de no existir contratos de adhesión, el carácter de créditos fiscales, para cuya recuperación los funcionarios encargados de las Haciendas municipales o los servidores públicos que determine cada municipio y la Secretaría de Finanzas del Estado, en el caso de que los servicios sean prestados por el Estado, aplicarán el procedimiento administrativo de ejecución, incluyendo la liquidación fiscal, cuando resulte apropiado.
+
+###### Artículo 93.
+
+Las personas que utilizan los servicios de agua potable, alcantarillado y saneamiento, sin contrato y sin pagar el importe de los servicios, se hacen acreedores de las cuotas por el tiempo de uso de los servicios que fije la autoridad municipal competente o el organismo operador. En el caso de usuarios sin contrato que se encuentren pagando los servicios, se considerarán adherentes a. los términos del contrato modelo publicado por el municipio o su organismo operador, con todos los derechos y obligaciones y podrán ser convocados para su regularización o en caso contrario, considerar terminado el contrato y los servicios respectivos.
+
+###### Artículo 94.
+
+En los términos de la Ley y su reglamento, las autoridades competentes y los organismos operadores de conformidad con su Reglamento, tendrán las facultades para practicar visitas, verificar e inspeccionar los predios con servicios de agua potable, alcantarillado y saneamiento o solicitantes de los mismos, sujetándose dicho procedimiento a lo dispuesto en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios, siempre y cuando se presuman usos excesivos o inadecuados por parte del usuario.
+
+### CAPÍTULO III. De las cuotas y tarifas
+
+###### Artículo 95.
+
+El sistema de cuotas y tarifas por los servicios de agua potable, alcantarillado y saneamiento deberá propiciar:
+
+l. La sostenibilidad de los servicios públicos;
+
+II. La adecuación de la demanda de los servicios a los requerimientos suficientes para satisfacer las necesidades vitales y sanitarias;
+
+III. El acceso de la población de bajos ingresos a los servicios públicos, considerando su capacidad de pago;
+
+IV. Una mayor capacidad de los municipios para la prestación de los servicios públicos y el crecimiento de la oferta; y
+
+V. La orientación y planeación del desarrollo urbano e industrial.
+
+###### Artículo 96.
+
+Las tarifas autorizadas deberán ser suficientes para cubrir los costos derivados de la operación, mantenimiento, sustitución, rehabilitación, mejoras y administración de los sistemas de agua potable, alcantarillado y saneamiento, las cuotas por derechos federales y garantizar la continuidad de los servicios a los usuarios.
+
+La introducción de servicios o ampliación de la infraestructura existente, la amortización de las inversiones, así como los gastos financieros de los pasivos correspondientes, se financiarán con recursos de los presupuestos públicos, así como con las contribuciones y productos que correspondan a los usuarios que resulten beneficiarios de la introducción o ampliación de servicios.
+
+En el caso de desarrollos de vivienda, fraccionamientos, parques industriales, centros comerciales, centros educativos o turísticos y quienes comercialicen desarrollos inmobiliarios, deberán financiar la infraestructura interna para la prestación de los servicios de agua potable, alcantarillado y saneamiento, así como el costo marginal de la infraestructura general correspondiente.
+
+En el diseño del esquema tarifario, se observará el impacto de las cuotas y tarifas en la economía de los usuarios así como en el aumento de los precios de los bienes y servicios.
+
+###### Artículo 97.
+
+El servicio de agua potable en el Estado será medido siendo obligatoria la instalación de aparatos medidores por la autoridad para la cuantificación del consumo para todos los usuarios, incluyendo los servicios a los bienes del dominio público, los cuales estarán regulados en los reglamentos municipales y en el Reglamento de esta Ley.
+
+En los lugares donde no haya medidores o mientras estos no se instalen, los pagos serán de conformidad con las cuotas generales autorizadas en las leyes de ingresos respectivas, las cuales cumplirán con lo establecido en el artículo anterior.
+
+Cuando no sea posible efectuar la medición de consumo de agua por falta del medidor o por la destrucción total o parcial del mismo no imputables al ayuntamiento, organismo operador o concesionario, los cargos se determinarán con base en los elementos objetivos de que se disponga con relación al volumen estimado presuntivamente, aplicando la tarifa, tasa o cuota que corresponda. En cualquier otro caso diverso de los señalados en éste párrafo, no podrán imponerse cargos presuntivos al usuario y sólo podrá comenzarse a medir el consumo a partir del momento en que le sea instalado un nuevo medidor.
+
+###### Artículo 98.
+
+Los reglamentos municipales establecerán:
+
+I. Los mecanismos para la aplicación de las cuotas y tarifas que se cobren por concepto de la prestación de los servicios establecidos en la presente ley,
+
+II. Los mecanismos para su cobro, y
+
+III. Los derechos y obligaciones del prestador de servicios y de los usuarios, que formarán parte de los modelos de contratos entre ambas partes.
+
+###### Artículo 99.
+
+Las cuotas y tarifas por la prestación de los servicios públicos de agua comprenderán:
+
+I. La instalación de tomas domiciliarias;
+
+II. Conexión del servicio de agua;
+
+III. Conexión al alcantarillado, y tratamiento de aguas residuales provenientes de uso habitacional;
+
+IV. Conexión al alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por debajo de las concentraciones permisibles conforme a las normas oficiales mexicanas en materia ecológica y las condiciones particulares de descarga vigentes, en los términos de la legislación aplicable;
+
+V. Conexión al alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por arriba de las concentraciones permisibles conforme a las normas oficiales mexicanas en la materia y las condiciones particulares de descarga vigentes, en su caso, en los términos de la legislación aplicable;
+
+VI. Instalación de medidor;
+
+VII. Uso habitacional;
+
+VIII. Uso comercial;
+
+IX. Uso industrial;
+
+X. Uso de servicios en instituciones públicas;
+
+XI. Uso en servicios de hotelería;
+
+XII. Servicios de alcantarillado de aguas pluviales;
+
+XIII. Servicios de alcantarillado para uso habitacional;
+
+XIV. Servicios de tratamiento de aguas residuales provenientes de uso habitacional;
+
+XV. Servicios alcantarillado para los usos no habitacionales;
+
+XVI. Servicios de tratamiento de aguas residuales provenientes de usos no habitacionales;
+
+XVII. Servicio de abastecimiento de aguas tratadas o crudas; y
+
+XVIII. Los demás que se establezcan en los reglamentos municipales, incluyendo usos específicos y con características propias en la región o municipio, las leyes de ingresos respectivas y en los convenios que se celebren entre los tres órdenes de gobierno.
+
+En el caso de los organismos operadores descentralizados intermunicipales, los ayuntamientos respectivos deberán de coordinarse para que sus leyes de ingresos se unifiquen en la parte correspondiente a las tarifas por los servicios de agua potable y saneamiento. El Congreso del Estado deberá tomar en cuenta dicha unificación en los decretos respectivos.
+
+###### Artículo 100.
+
+Para la determinación y actualización de las tarifas y cuotas, la Comisión propondrá estructuras tarifarias, la cuales deberán responder al contenido previsto en la Ley y garantizar la suficiencia económica de los organismos y del servicio, así como el cumplimiento de las contribuciones federales y estatales; dichas estructuras tarifarias deberán remitirse a los municipios y al Congreso del Estado antes del día treinta de septiembre del año anterior al del ejercicio fiscal para el cual se elaboraron.
+
+Las estructuras de las tarifas de los servicios contemplarán cuando menos:
+
+I. Los lineamientos para determinar los precios mínimos y máximos del uso doméstico, la definición del precio para la población de menos recursos o de consumos mínimos y el incremento proporcional del mismo para promover el uso eficiente del agua, a quienes usen más de la dotación mínima requerida, con los precios necesarios para garantizar la sustentabilidad del servicio que se recibe por uso y volumen requerido;
+
+II. Los mecanismos para la determinación de costos y tarifas en atención a eficiencias según el tipo de población, sistema y municipio, a fin de estandarizar las estructuras tarifarias con eficiencias gradualmente mayores y accesibles a los municipios del Estado;
+
+III. Los mecanismos para la determinación del costo marginal de aprovechamiento de la infraestructura para los incrementos de la demanda o la conexión de nueva demanda de los servicios; y
+
+IV. Los mecanismos para su actualización conforme a las variaciones de la inflación o del costo del dinero, conforme sea aplicable.
+
+###### Artículo 101.
+
+Las cuotas y tarifas determinadas por el organismo operador, serán sometidas a la aprobación del ayuntamiento correspondiente y enviadas al Congreso del Estado para su aprobación y publicación en la ley de ingreso del municipio. En caso de que las cuotas y tarifas no cumplan con lo establecido por el artículo 115 de esta Ley, se deberá garantizar la suficiencia de los presupuestos públicos necesarios para asegurar la sustentabilidad de los servicios en beneficio de la población.
+
+## TÍTULO SÉPTIMO
+
+De las infracciones y sanciones.
+
+### CAPÍTULO I. De las infracciones
+
+###### Artículo 102.
+
+Son infracciones en materia de esta Ley, las siguientes:
+
+I. Negar la contratación y prestación de los servicios sin causa justificada;
+
+II. Aplicar cuotas y tarifas que excedan las resultantes de la aplicación de los mecanismos a que se refiere la Ley;
+
+III. No cumplir con las condiciones establecidas en los acuerdos de creación de los Organismos Operadores municipales o. intermunicipales, en el título de concesión o en el convenio celebrado entre el municipio y la Comisión;
+
+IV. No cumplir con los dispositivos de seguridad y señalamientos cuando se efectúen reparaciones a la infraestructura hidráulica sanitaria;
+
+V. Interrumpir, total o parcialmente la prestación de los servicios públicos de agua sin causa justificada;
+
+VI. No cumplir con las normas de conservación y mantenimiento de los sistemas destinados a la prestación de los servicios;
+
+VII. Utilizar los ingresos para fines diferentes a los lineamientos que establece la fracción III del artículo 52 de esta Ley;
+
+VIII. Dejar de proporcionar los servicios públicos a que se refiere la fracción VI del articulo 52 de esta Ley, en contravención a lo señalado por la misma;
+
+IX. Negar al personal acreditado de la Comisión, las facilidades para desempeñar sus actividades que se desprenden de esta Ley, así como de aquella normatividad que sea aplicable;
+
+X. Dejar de rendir los informes a que hacen, mención las fracciones XV y XVI del artículo 52 de esta Ley;
+
+XI. Obstruir la fiscalización a los organismos de revisión competentes, en términos de lo que dispone esta Ley, así como de aquella normatividad que sea aplicable;
+
+XII. En los casos de negligencia o falta de previsión que provoquen la escasez de agua, se aplicarán las sanciones que se establezcan en el propio titulo de concesión, sin perjuicio de aquellas que establezca la normatividad aplicable;
+
+XIII. Impedir la participación de los usuarios de aguas de jurisdicción estatal, así como de los usuarios de los servicios públicos de suministro de agua potable, alcantarillado, tratamiento y reúso de aguas residuales para los fines establecidos en el artículo 11 de esta Ley;
+
+XIV. Negar la expedición de la acreditación a que se refiere el artículo 65 de la Ley injustificadamente;
+
+XV. Otorgar los subsidios en forma genérica, cuotas o tarifas subsidiadas contraviniendo, los (sic) dispuesto por el artículo 12 fracción VI de la Ley, dentro del ámbito al Sistema Financiero Estatal del Agua;
+
+XVI. No incluir las previsiones de la programación hídrica estatal en los diferentes instrumentos de ordenación urbana, territorial, ecológica y de centros de población urbana y rural, en términos del artículo 19 de esta Ley;
+
+XVII. No informar de los avances y compromisos establecidos a las dependencias y personas del Sistema Estatal del Agua, en términos de la fracción IX del artículo 23 de esta Ley;
+
+XVIII. Obstaculizar y negar la información, contraviniendo lo dispuesto en esta Ley así como en la normatividad federal y estatal en materia de derecho a la información y transparencia;
+
+XIX. Impedir la instalación de los servicios públicos;
+
+XX. Construir y operar sistemas para la prestación de los servicios públicos, sin la concesión correspondiente;
+
+XXI. Descargar aguas residuales, basura, desechos, materiales y sustancias tóxicas, Iodos y otras sustancias que se encuentre en aquellas, o que se deriven de su tratamiento, a los sistemas de alcantarillado o al subsuelo, sin la autorización correspondiente.
+
+###### Artículo 103.
+
+Se sancionará con:
+
+I. Multa por el equivalente de entre cincuenta hasta cien días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones I, II, VIII, X, XVII y XIX del artículo 102 de esta Ley;
+
+II. Multa por el equivalente de entre cien hasta doscientos días de salario mínimo vigente en el rea geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones VI, IX, XI, XII y XIII del articulo 102 de esta Ley;
+
+III. Multa por el equivalente de entre doscientos hasta quinientos días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones III, IV, V, VII, XIV, XVI y XIII del artículo 102 de esta Ley;
+
+IV. Multa por el equivalente de entre quinientos hasta mil días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones XV, XX y XXI del articulo 102de esta Ley; y
+
+V. Suspensión o cancelación del titulo de concesión, en tratándose de las infracciones previstas en las fracciones III, IV, V, XX y XXI del artículo 102 de esta Ley, además de la multa que corresponda.
+
+###### Artículo 104.
+
+Las sanciones referidas en el artículo anterior serán aplicadas sin que ello implique exclusión de otras sanciones que puedan imponerse conforme a otras leyes y reglamentos.
+
+###### Artículo 105.
+
+Los ayuntamientos serán la autoridad competente para iniciar el procedimiento sancionador por infracciones a esta Ley e impondrán y ejecutarán las sanciones respectivas en el ámbito de su competencia.
+
+La Comisión Estatal será la autoridad competente para supervisar, tratándose de materias de su competencia conforme a esta Ley. Asimismo, podrá ejercer las facultades que le deleguen las autoridades federales, incluyendo las relacionadas con los procedimientos sancionadores.
+
+Las atribuciones de inspección y vigilancia, imposición de medidas de seguridad determinación de infracciones, y aplicación de sanciones, establecidas de conformidad con la legislación ambiental estatal, con otras disposiciones legales, normativas y reglamentarias aplicables, así como las derivadas de los convenios y acuerdos de coordinación entre la Federación, el Estado y en su caso los municipios, serán ejercidas por la secretaría de Medio Ambiente para el Desarrollo Sustentable, a través de la Procuraduría Estatal de Protección al Ambiente del Estado de Jalisco.
+
+###### Artículo 106.
+
+Para la realización del procedimiento sancionador, la determinación y ejecución de las sanciones que prevé esta Ley, se deberá observar lo dispuesto por las leyes y reglamentos aplicables, así como por la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+
+###### Artículo 107.
+
+Las resoluciones o actos administrativos, así como las sanciones por infracciones a la Ley y su Reglamento podrán ser impugnados por los particulares a través de los recursos legales y procedimientos previstos en las leyes de la materia, así como en Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga el Decreto número 18434 que contiene la Ley del Agua para el Estado de Jalisco y sus Municipios y se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Las personas físicas o jurídicas privadas o sociales, dentro de los ciento ochenta días naturales siguientes al en que entre en vigor esta Ley, deberán ajustarse a las disposiciones que la misma prevé tanto para la prestación de servicios como en lo referente a las concesiones.
+
+Durante el proceso de adecuación y regularización señalado en el párrafo anterior, tanto las personas físicas o jurídicas, privadas o sociales, como el ayuntamiento que corresponda y el organismo operador podrán solicitar a la comisión la asesoría técnica necesaria para desarrollar dichas actividades.
+
+Asimismo, la Comisión podrá apoyar a los ayuntamientos para definir las sus (sic) bases para otorgar concesiones, los criterios para la publicación de la convocatoria respectiva y el establecimiento de los requisitos, garantías y otras modalidades que se estimen oportunas.
+
+CUARTO. Dentro de los doce meses posteriores al día en que entre en vigor esta Ley, tanto los Ayuntamientos como el Poder Ejecutivo del Estado deberán publicar las disposiciones reglamentarias necesarias para la eficaz aplicación y cumplimiento de lo previsto por esta Ley.
+
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
+
+GUADALAJARA, JALISCO, 31 DE ENERO DE 2007
+
+Diputado Presidente
+
+ENRIQUE GARCIA HERNÁNDEZ
+
+(RÚBRICA)
+
+Diputado Secretario
+
+JOSÉ ÁNGEL GONZÁLEZ ALDANA
+
+(RÚBRICA)
+
+Diputada Secretaria
+
+MARTHA RUTH DEL TORO GAYTÁN
+
+(RÚBRICA)
+
+En mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
+
+Emitido en Palacio de Gobierno, sede del Poder ejecutivo del Estado Libre y Soberano de Jalisco, a los 09 nueve días del mes de febrero de 2007 dos mil siete.
+
+El Gobernador Interino del Estado
+
+MTRO. GERARDO OCTAVIO SOLÍS GÓMEZ
+
+(RÚBRICA).
+
+El Secretario General de Gobierno
+
+C. P. JOSÉ RAFAEL RÍOS MARTÍNEZ
+
+(RÚBRICA)
