@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-seguridad-publica-para-el-estado-de-jalisco-13178"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-28"
-last_updated: "2007-01-23"
+last_updated: "2007-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de diciembre de 1993.
 
@@ -333,9 +333,11 @@ La persona que ejerza funciones de seguridad pública, sólo podrá portar las a
 
 ### CAPITULO PRIMERO. De los Derechos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 13.
 
-Los elementos de los cuerpos de seguridad pública, además de los derechos laborales y sociales previstos por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y sus leyes reglamentarias, así como la Ley para los Servidores Públicos del Estado y sus Municipios, tendrán derecho a:
+Los elementos de los cuerpos de seguridad, además de los derechos laborales y sociales previstos por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y sus leyes reglamentarias, tendrán derecho a:
 
 I. Percibir un salario suficiente para satisfacer sus necesidades fundamentales, debiendo recibirlo íntegro y a tiempo;
 
@@ -389,11 +391,11 @@ Además de lo dispuesto en el artículo anterior, los titulares de los cuerpos p
 
 El arresto aplicado a un elemento de los cuerpos de seguridad deberá cumplirse de manera continua y en un lugar especialmente destinado para ello; no podrá incomunicarse a los elementos que se encuentren bajo arresto.
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 18.
 
-Además de las causas de separación previstas en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, podrá ordenarse por el titular respectivo, previo el cumplimiento del procedimiento legal correspondiente, el cese de los elementos de los cuerpos de seguridad pública del Estado, por los siguientes motivos:
+Además de las causas de separación previstas en la Ley de Responsabilidades de los Servidores Públicos del estado de Jalisco, podrá ordenarse por el titular respectivo, previo el cumplimiento del procedimiento legal correspondiente, el cese de los elementos de los cuerpos de seguridad pública del Estado, por los siguientes motivos:
 
 I. Portar el arma de cargo fuera del servicio;
 
@@ -430,6 +432,10 @@ X. Asistir a sus labores bajo el influjo del alcohol, sustancias psicotrópicas 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2002)</small>
 
 XI. Hacer uso injustificado de la fuerza en sus funciones en contra de personas que no opongan resistencia o que no representen una amenaza a la integridad física de los elementos de las corporaciones de seguridad pública o de las personas.
+
+> <small>(ADICIONADO. P.O. 24 DE FEBRERO DE 2007)</small>
+
+Artículo 18 bis. En caso de que se haya decretado el cese de los elementos de los cuerpos de seguridad pública del estado o de sus municipios, por ningún motivo procederá la reinstalación o restitución del elemento cesado, y en su caso, solo procederá la indemnización constitucional, a través de juicio promovido ante el Tribunal Administrativo del Estado.
 
 > <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
 
@@ -1222,3 +1228,9 @@ P.O. 23 DE ENERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2007.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+Segundo. Los procedimientos iniciados con anterioridad a la presente reforma se concluirán de acuerdo a las disposiciones vigentes con las que iniciaron.
