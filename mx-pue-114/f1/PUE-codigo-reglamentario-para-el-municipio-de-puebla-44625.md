@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2007-02-12"
+last_updated: "2007-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -2635,7 +2635,7 @@ f).- Tratándose de vehículos destinados al servicio de transporte público o m
 
 ###### Artículo 272.
 
-Con el fin de evitar que se causa (sic) daños en las vías públicas, los camiones de carga, tracto-camiones con doble remolque y vehículos análogos que circulen por las mismas, deben sujetarse a los siguientes límites máximos de carga y dimensiones:
+Con el fin de evitar que se causa daños en las vías públicas, los camiones de carga, tracto-camiones con doble remolque y vehículos análogos que circulen por las mismas, deben sujetarse a los siguientes límites máximos de carga y dimensiones:
 
 a) Peso total, incluyendo el de la carga: 8,000 kilos
 
@@ -2885,9 +2885,11 @@ Para este objeto, la Dirección de Seguridad Vial debe tomar en cuenta las zonas
 
 DE LOS ESTACIONAMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 293.
 
-El estacionamiento en las vías públicas se permitirá solamente fuera de las vialidades de intenso tránsito, en los lugares que determine el Ayuntamiento, por conducto de la Dirección de Seguridad Vial, con forme a las siguientes disposiciones:
+El estacionamiento en las vías públicas se permitirá solamente en los lugares que determine el Ayuntamiento, por conducto de la Dirección de Seguridad Vial.
 
 I. La Dirección de Seguridad Vial hará el señalamiento de las vialidades en que se permita o prohíba el estacionamiento, así como las zonas y cajones respectivos, usando señales uniformes, claras, visibles, fácilmente compresivas y colocadas en forma ordenada, pudiendo precisar además el máximo de tiempo que en ellos se permita e instalar los dispositivos que considere convenientes;
 
@@ -2897,17 +2899,23 @@ III. En todo caso los conductores deben observar estrictamente las disposiciones
 
 IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos para ese efecto, ni a menos de diez metros de la esquina en donde no se encuentre marcada la limitación correspondiente; tampoco podrá estacionarse en o cerca de una curva, o la cima donde el vehículo no pueda ser visto por otro a una distancia de seguridad, de acuerdo con la velocidad permitida en la vía.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 294.
 
-Las personas con capacidad diferente, tienen derecho a estacionar los vehículos que utilicen en las áreas o cajones (sic) destinado para uso exclusivo de las mismas, correspondiendo a la Dirección de Seguridad Vial la salvaguarda de dicha prerrogativa, para la cual tendrá las siguientes atribuciones:
+Las personas con capacidad diferente, tienen derecho a estacionar los vehículos que utilicen en las áreas o cajones destinados para uso exclusivo de las mismas, correspondiendo a la Dirección de Seguridad Vial la salvaguarda de dicha prerrogativa, para la cual tendrá las siguientes atribuciones:
 
 I. Vigilar en coordinación con la Dirección de Registro y Fiscalización, que en los estacionamientos, dichos espacios se establezcan en la proporción y con las características reglamentadas por las disposiciones municipales en materia de construcciones;
 
 II. En las calles y avenidas en el que se permita el estacionamiento de vehículos, destinar un espacio por cada veinte o fracción a partir de diez, para uso reservado a personas con discapacidad, con las dimensiones que la misma autoridad estime convenientes y con una ubicación lo más cercana posible de las rampas establecidas para facilitar el tránsito, la seguridad y la accesibilidad de dichas personas, instalando la señal internacional del discapacitado en un lugar fácilmente visible y pintada, además sobre el pavimento del cajón;
 
-III. Procurar el respeto de estos espacios, cuidando que en los mismos sólo se estacionen vehículos que tengan pegada, en un lugar fácilmente visible, la calcomanía oficial con la señal internacional del discapacitado que, para tales efectos y según el procedimiento que fije el Director General de Seguridad Pública y Vialidad Municipal, otorgará la misma Dirección a quienes acrediten debidamente tal condición y el uso personal de uno a tres vehículos máximo;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
-IV. Detectar, en su caso, el uso indebido de las calcomanías a que se refiere la fracción anterior; y
+III. Procurar el respeto de estos espacios, cuidando que en los mismos sólo se estacionen los vehículos que tengan la placa correspondiente, expedida por la autoridad estatal competente.
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
+IV. Detectar, en su caso, el uso indebido de las placas a que se refiere la fracción anterior, y
 
 V. Sin perjuicio de las atribuciones que correspondan a otras dependencias municipales, determinar y sancionar las infracciones que cometan los particulares con relación con este artículo y las obligaciones derivadas del mismo.
 
@@ -2957,9 +2965,11 @@ XV. En las demás zonas o áreas de la vía pública que determine el Ayuntamien
 
 El estacionamiento de vehículos en inmuebles distintos a la vía pública estará permitido siempre que el inmueble respectivo cumpla las condiciones y requisitos municipales en materia de desarrollo urbano y construcciones y que el prestador de servicio, tratándose de estacionamientos públicos, cuente con la documentación que se menciona en el Capítulo respectivo y cumpla con las disposiciones que establezca el Ayuntamiento, relativas al funcionamiento de este tipo de establecimientos.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 299.
 
-En los casos en que se pretenda abrir, operar o modificar un estacionamiento público con capacidad para más de diez vehículos o en el que la prestación del servicio sea o vaya a ser onerosa, el proyecto respectivo debe someterse a la Secretaría General de Seguridad Pública y Vialidad Municipal, para que, a través de la Dirección de Seguridad Vial, lo revise y apruebe su impacto en el tránsito municipal. La aprobación del proyecto que en su caso emita el titular de la Secretaría General de Seguridad Pública y Vialidad Municipal, será un requisito indispensable para que los interesados obtengan la autorización de uso de suelo y, en su caso, la cédula de empadronamiento o registro y la autorización o licencia de funcionamiento respectivas.
+En los casos en que se pretenda abrir, operar o modificar un estacionamiento público, el proyecto respectivo debe someterse a la Secretaría de Seguridad Pública y Tránsito Municipal para que, a través de la Dirección de Seguridad Vial, lo revise y apruebe su impacto en el tránsito municipal. La aprobación del proyecto que en su caso emita el titular de la Secretaría General de Seguridad Pública y Vialidad Municipal, será un requisito indispensable para que los interesados obtengan la autorización de uso de suelo y, en su caso, la cédula de empadronamiento o registro y la autorización o licencia de funcionamiento respectivas.
 
 ###### Artículo 300.
 
@@ -3425,9 +3435,11 @@ DE LA OBSERVANCIA DE LAS DISPOSICIONES EN MATERIA DE TRÁNSITO Y
 
 SEGURIDAD VIAL
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 345.
 
-El Ayuntamiento, a través de la Secretaría General de Seguridad Pública y Vialidad Municipal, ejercerá las funciones de prevención, vigilancia, dirección, inspección y control que el presente Capítulo establece en materia de seguridad vial y tránsito municipal, así como las demás que se desprendan de los convenios o acuerdos de coordinación que suscriban con el Estado y otros Municipios, en ésta u otras materias relacionadas.
+El Ayuntamiento, a través de la Secretaría de Seguridad Pública y Tránsito Municipal, ejercerá las funciones de prevención, vigilancia, dirección, inspección y control que el presente Capítulo establece en materia de seguridad vial, tránsito municipal y estacionamiento en la vía pública, así como las demás que se desprendan de los convenios o acuerdos de coordinación que suscriban con el Estado y otros Municipios, en ésta u otras materias relacionadas.
 
 ###### Artículo 346.
 
@@ -7267,7 +7279,7 @@ III. SERVICIOS:
 
 15. ALQUILER Y VENTA DE SANITARIOS PÚBLICOS MÓVILES
 
-16. ESTACIONAMIENTO
+16. (DEROGADO, P.O. 26 DE FEBRERO DE 2007)
 
 17. INMOBILIARIA
 
@@ -8017,19 +8029,19 @@ VIII. Periódicos con caseta que se puede complementar con golosinas y tabaquer�
 
 IX. Cualquier otro que determine el Presidente Municipal, mediante acuerdo debidamente fundado y motivado.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 648.
 
-Lo giros permitidos por prestadores ambulantes de servicios, son los siguientes:
+Los giros permitidos por prestadores ambulantes de servicios son los siguientes:
 
-I. Boleros;
+- Boleros.
 
-II. Cantantes y músicos;
+- Cantantes y músicos.
 
-III. Mimos y payasos;
+- Mimos y payasos.
 
-IV. Lava coches y cuidadores de coches; y
-
-V. Cualquier otro que determine el Presidente Municipal, mediante acuerdo debidamente fundado y motivado.
+- Cualquier otro que determine el Presidente Municipal, mediante acuerdo debidamente fundado y motivado.
 
 ###### Artículo 649.
 
@@ -10207,11 +10219,15 @@ Popular 1 por cada 40 personas
 
 Adicional a lo especificado para estacionamientos manifestado en todos los artículos anteriores, deberá contarse con un cajón adicional por cada 40 m2 de construcción de áreas administrativas y de servicio.
 
-ESTACIONAMIENTOS PARA USO PÚBLICO
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+ESTACIONAMIENTOS PÚBLICOS
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 842.
 
-Se denominará estacionamiento, al inmueble de propiedad pública o privada, destinado para la recepción, custodia y entrega de vehículos.
+Para efectos de este Capítulo se denominará estacionamiento público, aquel espacio físico, a cargo del Ayuntamiento o de particulares, destinados a la prestación del servicio al público en general, de recepción, guarda, protección y devolución de vehículos a cambio del pago de la tarifa autorizada.
 
 ###### Artículo 843.
 
@@ -10263,9 +10279,11 @@ i) Señalamiento: Los estacionamientos deberán tener el señalamiento vertical 
 
 ESTACIONAMIENTOS EN PREDIOS BALDÍOS: Los estacionamientos en predios baldíos, deberán estar bardeados en su perímetro, a una altura de 2.50 m. asimismo deberán cumplir con lo establecido en esta Sección y contar con pavimento en las áreas de circulación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 849.
 
-LOS ESTACIONAMIENTOS DE SERVICIO PRIVADO: En este tipo de estacionamientos no se exigirá que tengan carriles separados, áreas de recepción y entrega de vehículos, servicios de sanitarios ni caseta de control.
+ESTACIONAMIENTOS PRIVADOS: En este tipo de estacionamientos no se exigirá que tengan carriles separados, áreas de recepción y entrega de vehículos, servicios de sanitarios ni caseta de control.
 
 Los estacionamientos con sistemas mecánicos para el transporte vertical de vehículos, deberán contar con planta propia para el suministro de energía o de dispositivos manuales para casos de emergencia.
 
@@ -10673,7 +10691,7 @@ Queda prohibido al Organismo Operador de los Servicios de Agua Potable y Alcanta
 
 ###### Artículo 909.
 
-El Organismo Operador de los Servicios de Agua Potable y Alcantarillado que corresponda, aprobará toda obra de drenaje y alcantarillado si llena las condiciones que se establecen en este capitulo.
+El Organismo Operador de los Servicios de Agua Potable y Alcantarillado que corresponda, aprobará toda obra de drenaje y alcantarillado si llena las condiciones que se establecen en este capítulo.
 
 ###### Artículo 910.
 
@@ -11993,7 +12011,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1 - r(1-q)W¡
+a¡ = (1 - r(1-q)W¡)
 
 W¡h¡
 
@@ -12143,7 +12161,9 @@ bs = Velocidad media de ondas de cortante en el sitio
 
 Tc = Periodo fundamental de estructura supuesta con base indeformable.
 
-Hc = Altura efectiva de la estructura la cual se tomará como 0.7 de su altura total, excepto para estructuras en que su peso está concentrado en un nivel donde se tomará igual a la altura de ese nivel.
+Hc = Altura efectiva de la estructura la cual se tomará como 0.7 de su altura total, excepto
+
+para estructuras en que su peso está concentrado en un nivel donde se tomará igual a la altura de ese nivel.
 
 Cuando se conozca el modo fundamental de vibración de la estructura, la altura efectiva de está se podrá calcular como
 
@@ -12173,7 +12193,7 @@ Ordenada especial para la estructura con base rígida, se calcula según las ecs
 
 ã = Ordenada espectral para la estructura con base flexible, que se calcula según las ecs. 3-5 remplazando a c por xc y haciendo T =
 
-Q' =Factor reductito para el periodo fundamental de la estructura con base rígida
+Q' = Factor reductito para el periodo fundamental de la estructura con base rígida
 
 = Factor reductito para el periodo efectivo de la estructura con base flexible
 
@@ -12339,7 +12359,7 @@ Siendo:
 
 P = Presión a succión del viento (kg/m²)
 
-c = Factor de empuje ( sin dimensiones)
+c = Factor de empuje (sin dimensiones)
 
 V = Velocidad de diseño (km/h)
 
@@ -12711,7 +12731,7 @@ Los otros factores de carga serán los indicados en el artículo 999. El factor 
 
 ###### Artículo 1041.
 
-BOMBEO: Podrán usarse pozos de bombeo para reducir las filtraciones de agua hacia las excavaciones y mejorar la estabilidad de las mismas siempre que, en subsuelos arcilloso (sic), el bombeo no se inicie antes de la excavación y, en cualquier caso, se tomen las precauciones necesarias para que sus efectos queden prácticamente circunscritos al área de trabajo.
+BOMBEO: Podrán usarse pozos de bombeo para reducir las filtraciones de agua hacia las excavaciones y mejorar la estabilidad de las mismas siempre que, en subsuelos (sic) arcilloso, el bombeo no se inicie antes de la excavación y, en cualquier caso, se tomen las precauciones necesarias para que sus efectos queden prácticamente circunscritos al área de trabajo.
 
 En la evaluación de los estados límite de servicio a considerar en el diseño de la excavación, se tomarán en cuenta los movimientos del terrenos (sic) debidos al bombeo.
 
@@ -14553,13 +14573,19 @@ d) De iluminación:
 
 - Luminarias;
 
+> <small>N. DE E. SE FUSIONARON LOS INCISOS G) A H) EN EL PRESENTE APARTADO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
 e) Otros:
 
-f) Basureros;
+- Basureros
 
-g) Teléfonos públicos;
+- Teléfonos públicos
 
-h) Servicios higiénicos.
+- Servicios higiénicos
+
+- Estacionómetros
 
 ###### Artículo 1207.
 
@@ -17643,9 +17669,11 @@ Para los efectos de este capítulo, será considerado como reincidente el comerc
 
 Contra los actos de las autoridades señaladas en el presente Capítulo, procederá el Recurso de Revisión señalado en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
 
-### CAPÍTULO 24. ESTACIONAMIENTOS
+### CAPÍTULO 24. DEL SERVICIO PÚBLICO DE ESTACIONAMIENTO
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1445.
 
@@ -19535,119 +19563,563 @@ c).En el mismo caso del artículo anterior, si la infracción es grave, con la r
 
 Contra los actos jurídicos emanados de Industrial de Abastos, procede el recurso de inconformidad, señalado en la Ley Orgánica Municipal del Estado de Puebla.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
 ### CAPÍTULO 27. PROTECCIÓN A LOS ANIMALES, PREVENCIÓN Y CONTROL DE LA RABIA
 
 DISPOSICIONES GENERALES
 
 ###### Artículo 1676.
 
-La recepción, custodia y entrega de vehículos de los particulares para su estacionamiento y guarda en inmuebles públicos o privados de la ciudad de Puebla constituye un Servicio Publico Municipal.
+El servicio público de estacionamiento de vehículos automotores podrá ser prestado directamente por el Ayuntamiento o por los particulares que obtengan la licencia correspondiente.
+
+Las disposiciones del presente Capítulo regulan los requisitos para la obtención de la licencia de prestación del servicio público de estacionamiento, así como sus términos, condiciones y modalidades.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+Artículo 1676 bis. Para efectos del presente Capítulo, se entenderá por:
+
+I. Estacionómetro: Aparato y/o sistema de medición y control que se utiliza para regular el uso de estacionamiento en vía pública a través del cobro de una tarifa;
+
+II. Usuario: Persona que ubica temporalmente un vehículo automotor en un estacionamiento;
+
+III. Prestador del servicio: Persona física o moral, pública o privada que presta el servicio público de estacionamiento en los términos del presente Capítulo;
+
+IV. Licencia: Es el documento que avala la autorización correspondiente que expida el Ayuntamiento del Municipio para prestar el servicio público de estacionamiento;
+
+V. Tarifa: La cantidad autorizada para el cobro del estacionamiento que establezca el Ayuntamiento;
+
+VI. Servicio de acomodadores de vehículos: Aquél cuyo fin es la recepción y devolución de vehículos, con el fin de estacionarlos o colocarlos transitoriamente en el lugar destinado para ello;
+
+VII. Tesorería: La Tesorería del H. Ayuntamiento del Municipio de Puebla;
+
+VIII. SAUOPE: La Secretaría de Administración Urbana, Obras Públicas y Ecología; y
+
+IX. SSPTM: La Secretaría de Seguridad Pública y Tránsito Municipal.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+DE LAS AUTORIDADES COMPETENTES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1677.
 
-El servicio de estacionamiento y guarda de vehículos en el Municipio de Puebla, podrá ser prestado directamente por el H. Ayuntamiento del Municipio de Puebla, y por los particulares que obtengan del mismo la licencia correspondiente.
+Son autoridades competentes para la aplicación de las disposiciones del presente Capítulo:
+
+I. El H. Ayuntamiento del Municipio de Puebla;
+
+II. El Presidente Municipal Constitucional del H. Ayuntamiento del Municipio de Puebla;
+
+III. La Tesorería del Ayuntamiento del Municipio de Puebla;
+
+IV. La SAUOPE;
+
+V. La SSPTM: y
+
+VI. Los demás funcionarios públicos en quien delegue facultades el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+Artículo 1677 bis. Son facultades de las autoridades competentes, las siguientes:
+
+I. Del Ayuntamiento:
+
+a) Emitir los acuerdos y disposiciones para regular los términos, condiciones y modalidades sobre los cuales se podrá prestar el servicio público de estacionamiento;
+
+b) Aprobar y modificar las tarifas para el cobro por hora fijo, por pensión y cualquier otra que pudiera cobrar el prestador del servicio como contraprestación;
+
+c) Fijar el horario del servicio de estacionómetros, de acuerdo a las necesidades específicas de las vialidades municipales, así como la suspensión de la operación y cobro de los mismos en casos de fuerza mayor; y
+
+d) Las demás facultades que otros ordenamientos legales le confieran y que se relacionen con la regulación de la prestación del servicio público de estacionamiento.
+
+II. Del Presidente Municipal:
+
+a) Dictar en la esfera de su competencia las medidas administrativas para la eficiente prestación del servicio público de estacionamiento en el Municipio de Puebla.
+
+III. De la Tesorería:
+
+a) Expedir revalidar y cancelar las licencias de prestación del servicio público de estacionamiento;
+
+b) Llevar a cabo las visitas de inspección y vigilancia a los prestadores del servicio;
+
+c) Determinar las infracciones y aplicar sanciones administrativas que señala el presente Capítulo respecto de estacionamientos públicos;
+
+d) Recaudar las multas que deriven de las sanciones impuestas a los prestadores del servicio, así como, iniciar en su caso los procedimientos administrativos de ejecución para la recuperación de créditos fiscales;
+
+e) Emitir opinión respecto a las tarifas que sean fijadas por el Ayuntamiento para el cobro del servicio público de estacionamiento;
+
+f) Recibir las quejas que formulen los usuarios del servicio público de estacionamiento, contra actos relativos a la prestación del servicio, debiendo sustanciar el procedimiento de investigación correspondiente, para estar en posibilidad de aplicar, en su caso, las sanciones a que haya lugar, previstas en el presente Capítulo;
+
+g) Vigilar el adecuado funcionamiento del servicio público de estacionamiento en el Municipio, conforme a las disposiciones establecidas en el presente Capítulo: y
+
+h) Las facultades que le confiera el presente Capítulo y disposiciones normativas aplicables.
+
+IV. De la SAUOPE:
+
+a) Recibir las solicitudes de los interesados en obtener la licencia, para su trámite respectivo;
+
+b) Analizar las solicitudes y documentos que presenten los interesados para obtener la licencia, debiendo emitir el dictamen relativo a la aprobación o negación correspondiente dentro de los quince días hábiles siguientes, en su caso, solicitar sean subsanadas las deficiencias que se encuentren en un término de tres días hábiles;
+
+c) Emitir licencia de uso de suelo y licencia de construcción, necesarios para la aprobación de las licencias;
+
+d) Regular los usos, destinos y reservas de áreas para el servicio público de estacionamiento en zonas adecuadas, de conformidad con la Carta Urbana;
+
+e) Determinar las normas relativas al uso de suelo y destinos condicionados, consignándose lo conducente en las licencias;
+
+f) Solicitar a SSPTM, la realización del dictamen, que derive del estudio y análisis del impacto en la vialidad que produzca la apertura de un estacionamiento público;
+
+g) Fijar los requisitos técnicos a que deberán sujetarse las construcciones o instalaciones en predios para estacionamientos; y
+
+h) Las facultades que le confiera el presente Capítulo y disposiciones normativas aplicables en la materia.
+
+V. De la SSPTM:
+
+a) Evaluar y en su caso llevar a cabo los estudios de impacto vial en asuntos relacionados al otorgamiento de uso de suelo, coadyuvando a definir las estrategias que permitan una mejor planeación en materia de estacionamientos con servicio al público y estacionamiento en la vía pública;
+
+b) Vigilar que en los estacionamientos, no se altere el orden y la seguridad pública;
+
+c) Impedir que la entrada y salida de vehículos en los estacionamientos afecten el libre tránsito en aceras, calles y demás vías públicas o lugares de tránsito para peatones y vehículos;
+
+d) Vigilar y coordinar las medidas de seguridad en los estacionamientos requeridas por las autoridades y la normatividad de protección civil;
+
+e) Determinar las infracciones y aplicar sanciones administrativas que señala el presente Capítulo, respecto del estacionamiento en la vía pública, observando las formalidades establecidas en los artículos 348 al 352 de este Código Reglamentario; y
+
+f) Las demás facultades que le confiera el presente Capítulo y disposiciones normativas aplicables en la materia.
+
+Las dependencias y organismos municipales proporcionarán la información técnica necesaria y realizarán las acciones dentro de sus respectivos ámbitos de competencia, a fin de lograr que el Ayuntamiento pueda regular de forma óptima el servicio público de estacionamiento en el Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+DE LA CLASIFICACIÓN DE LOS ESTACIONAMIENTOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1678.
 
-Las tarifas que se cobren por el servicio de estacionamiento y guarda de vehículos, serán aprobadas por el C. Presidente Municipal y publicadas en el Periódico Oficial del Estado.
+Los estacionamientos que se encuentran en el Municipio de Puebla se clasifican en:
 
-En el caso de los estacionamientos que operen en bienes del dominio público municipal concesionados a particulares, el establecimiento de tarifas, así como su actualización, se realizarán de acuerdo a lo estipulado en la licencia respectiva, debiendo también publicarse dichas tarifas y actualizaciones en el Periódico Oficial.
+1. Estacionamientos privados. Son aquellos espacios físicos en los que se presta el servicio de estacionamiento de unidades habitacionales, residenciales, fraccionamientos así como las dedicadas a cubrir las necesidades propias y las que se generen con motivo de las actividades de instituciones o empresas siempre que el servicio otorgado sea gratuito.
+
+2. Estacionamientos públicos. Son aquellos espacios físicos, a cargo del Ayuntamiento o de particulares destinados a la prestación del servicio al público en general, de recepción, guarda, protección y devolución de vehículos a cambio del pago de la tarifa autorizada.
+
+Éstos a su vez se subclasifican en:
+
+I. De acuerdo a sus instalaciones en:
+
+a. De primera clase: Es el estacionamiento que cuenta con instalaciones específicas para la prestación del servicio, que cuenta con techo, estructura y piso de concreto, así como, topes de contención en todos sus cajones.
+
+b. De segunda clase. Todo aquel predio o edificio adecuado para brindar el servicio, techado o no, bardeado en su totalidad, con piso de concreto o de asfalto.
+
+c. De tercera clase. Todo aquel predio que pueda ser utilizado como estacionamiento, techado o no, con piso de asfalto, concreto, empedrado o grava, cercado al menos con malla metálica.
+
+II. Atendiendo al fin para el que fue construido:
+
+a. Estacionamiento público prestado por particulares: Es aquél cuyo fin primordial es brindar el servicio de establecimiento al público en general, mediante el pago de una tarifa.
+
+b. Estacionamiento en Establecimientos o Centros Comerciales: Estacionamiento público que fue construido en cumplimiento de una obligación legal, por encontrarse anexo a las instalaciones de algún establecimiento o centro comercial en beneficio de sus clientes o usuarios y, en el que puede cobrarse una tarifa para su utilización.
+
+c. Estacionamiento en la Vía Pública: Todo espacio autorizado para tal fin, situado en las calles, avenidas, arroyos viales, los cuales podrán tener estacionómetros.
+
+III. Atendiendo al tipo de servicio:
+
+a. De autoservicio: Estacionamiento en el que, el cliente conduce su automóvil hasta el cajón en el que queda estacionado quedándose con la posesión de las llaves de su vehículo.
+
+b. De depósito: Estacionamiento en el que, el cliente conduce su automóvil hasta algún cajón desocupado o al que se le señale, dejando las llaves de su automóvil dentro del vehículo o entregándolas a cualquier empleado de dicho estacionamiento.
+
+c. De acomodadores de vehículos: Estacionamiento en el que el cliente conduce su automóvil hasta la entrada del estacionamiento con servicio al público, establecimiento o giro comercial al que se dirige y, entrega la posesión del automóvil a una persona que se encargará de su guarda, protección y devolución.
+
+IV. Atendiendo a su temporalidad:
+
+a. Permanentes: Estacionamiento autorizado que funcionará de forma continua durante la vigencia de su licencia.
+
+b. Eventuales: Estacionamiento autorizado que funciona únicamente para dar este tipo de servicio por tiempo determinado y en circunstancias específicas.
+
+c. De fin de semana: Cuando el servicio se presta sólo de viernes a domingo.
+
+d. De acomodadores eventuales: Estacionamiento con acomodadores, que funciona únicamente para dar este tipo de servicio en eventos especiales.
+
+V. Atendiendo a la cuota que cobrará:
+
+a. Cobro por hora: Estacionamientos que cobran por hora de servicio teniendo los usuarios un margen de diez minutos para recoger su unidad sin costo proporcional.
+
+b. Cobro fijo: Estacionamientos que cobran una tarifa fija sin considerar el tiempo que permanece el usuario o cliente en sus establecimientos o instalaciones.
+
+c. Cobro por pensión: Estacionamientos que cobran por pensión periódica su servicio y son:
+
+1. Pensión diurna de 9:00 a.m. a 21:00 horas.
+
+2. Pensión nocturna de 21:00 a.m. a 9:00 horas.
+
+3. Pensión completa durante las 24 horas.
+
+VI. Atendiendo a su construcción:
+
+a. Superficial: Estacionamientos que se encuentren construidos y ubicados sobre el nivel del suelo.
+
+b. Constituido por plantas, pisos o niveles: Estacionamiento que se encuentra construido sobre el nivel del suelo y que en su estructura arquitectónica incluye varios niveles o plantas.
+
+c. Subterráneo: Estacionamientos que se encuentran construidos bajo el nivel del suelo.
+
+d. Mixto: Estacionamientos que contemplan las características de las clasificaciones anteriores.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+DE LA APERTURA Y MODIFICACIÓN DEL ESTACIONAMIENTO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1679.
 
-La licencia para el servicio público de estacionamiento y guarda de vehículos, se otorgará a los particulares que cumplan con lo dispuesto en el Capítulo de Construcciones del presente Código Reglamentario, y con los siguientes requisitos:
+Para la apertura de un estacionamiento público, la persona que pretenda prestar el servicio o su representante, deberá presentar la solicitud de licencia ante la SAUOPE con los datos y documentos siguientes:
 
-I. Deberán presentar la licencia de chofer vigente de las personas que se encargarán del acomodo de vehículos;
+I. Nombre o razón social y domicilio del solicitante;
 
-II. Tener póliza de seguro de cobertura amplia, es decir, contra daños, daños a terceros, responsabilidad civil y robo total, de los vehículos que se reciban; y
+II. Ubicación del estacionamiento;
 
-III. Acompañar la autorización del uso del suelo.
+III. Testimonio notarial de la escritura pública del inmueble, en su caso, el contrato de arrendamiento actualizado e inscrito en el Registro Público de la Propiedad y del Comercio;
+
+IV. Si se trata de persona moral, original y copia del acta constitutiva;
+
+V. Poder notarial si el trámite se realiza en representación de una persona física o moral;
+
+VI. Original y copia de la constancia de la licencia de uso de suelo y de la licencia de construcción, en su caso;
+
+VII. Plano arquitectónico del establecimiento, especificando el número de cajones y servicios adicionales;
+
+VIII. Croquis de localización;
+
+IX. Copia de su cédula de inscripción en el Registro Federal de Contribuyentes;
+
+X. Fecha en que iniciará la operación;
+
+XI. El horario en que prestará el servicio;
+
+XII. Oficio firmado en el que describa el servicio que pretende prestar;
+
+XIII. La forma y términos en que responderá por los daños que sufran los vehículos estacionados de conformidad con el artículo 1679 ter fracción IX del presente Capítulo;
+
+XIV. Expresar la existencia de servicios adicionales; y
+
+XV. Los datos y documentos que le solicite la autoridad municipal.
+
+Una vez que la SAUOPE integre el expediente correspondiente y lleve a cabo los trámites necesarios, turnará el mismo a la Tesorería.
+
+La Tesorería expedirá la licencia correspondiente en un término no mayor a diez días hábiles, en el que se determine lo relativo a su aprobación caso en el que, se establecerá como mínimo la clasificación, horario, licencia y tarifa autorizada.
+
+En caso de ser negada la licencia, la Tesorería pondrá a disposición del solicitante la documentación que haya presentado, dejando a salvo sus derechos para formular nueva petición.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+Artículo 1679 bis.- La SAUOPE notificará a la SSPTM, las solicitudes de licencia o modificación de un estacionamiento y le dará aviso para que revise y apruebe su impacto en el tránsito municipal; dicha aprobación será un requisito indispensable para que los interesados obtengan la licencia de uso de suelo y, en su caso, la licencia de construcción y, finalmente la licencia expedida por la Tesorería.
+
+Cuando con posterioridad a la apertura se modifiquen las características de un estacionamiento con servicio al público, el propietario o administrador deberá presentar ante la SAUOPE un escrito complementario en el que detalle los cambios realizados, a fin de mantener actualizado el registro de las licencias y, en caso necesario, reclasificar el estacionamiento.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+Artículo 1679 ter.- Son obligaciones de los prestadores del servicio:
+
+I. Entregar en tiempo y forma la documentación solicitada por las autoridades municipales para el otorgamiento de la licencia;
+
+II. Cumplir con lo dispuesto por la legislación laboral y la normatividad de protección al consumidor:
+
+III. Acatar estrictamente los términos en que se le otorgue la licencia;
+
+IV. Colaborar con las autoridades municipales, estatales y federales en el ejercicio de sus facultades con respecto a la inspección y vigilancia de la prestación del servicio, cumplimiento de la legislación aplicable y ejercicio de sus funciones cuando así lo requieran;
+
+V. Comunicar a la SAUOPE y Tesorería la existencia de servicios adicionales al de estacionamiento;
+
+VI. Conservar las instalaciones del estacionamiento en condiciones de higiene y seguridad, incluyendo el servicio de baños;
+
+VII. Reservar cajones de estacionamiento para personas con capacidad diferente, los cuales deberán estar lo más cercanos posible a las puertas de ingreso del estacionamiento, asimismo, vigilar y controlar que sean exclusivamente utilizados por estas personas;
+
+VIII. Contar con póliza de seguro vigente contra robo total, daños y responsabilidad civil que apruebe el Ayuntamiento, además de que serán responsables de los objetos que se dejen en el interior del vehículo, siempre y cuando el usuario haya dejado constancia mediante inventario de esa situación;
+
+IX. Prestar el servicio a toda persona que lo solicite, respetando el cupo del estacionamiento mediante la colocación de un anuncio en la entrada cuando se encuentre completo, sin invadir la vía pública;
+
+X. Expedir boletos a los usuarios por cada vehículo, y cuando así lo soliciten, comprobante de pago o factura;
+
+XI. Tener a la vista la licencia expedida por la autoridad municipal y utilizar las instalaciones exclusivamente para la actividad autorizada;
+
+XII. Tener a la vista el reloj chocador, así como un reloj de pared, los cuales deberán estar sincronizados;
+
+XIII. Impedir el acceso a sus instalaciones a personas en estado de ebriedad evidente o bajo el influjo de drogas o estupefacientes, así como impedir su consumo dentro de la negociación;
+
+XIV. Colocar en lugar visible los números telefónicos de la autoridad municipal para recibir quejas, así como un letrero que enumere las obligaciones del prestador del servicio;
+
+XV. Colocar en un lugar visible, un aviso al público en el que se comunique el término de la prestación del servicio de estacionamiento, cuando éste sea de forma definitiva;
+
+XVI. Comunicar con un mes de anticipación, a la Tesorería y a la SAUOPE, el término de la prestación de servicio de estacionamiento para la cancelación de la licencia respectiva; y
+
+XVII. Las que determine la autoridad municipal y contemplen las disposiciones legales aplicables.
+
+Las obligaciones enumeradas en este artículo deberán ser cumplidas por los prestadores del servicio de estacionamiento, independientemente de su clasificación, acatando adicionalmente, la normatividad específica que corresponda.
+
+Los estacionamientos clasificados como de primera y segunda clase, deberán contar con un sistema de vigilancia que conste de cámaras de circuito cerrado, con la finalidad de proporcionar mayor seguridad a los usuarios.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+Artículo 1679 quáter.- Son obligaciones de los usuarios:
+
+I. El pago al prestador del servicio, de la tarifa correspondiente; y
+
+II. Reportar las fallas mecánicas y eléctricas, golpes de la carrocería, rayones, daños en cristales o espejos de su vehículo, así como los que presente su vehículo a la entrega, de igual manera, el inventario de los objetos dejados en su interior, para que en caso de hurto o daños, el prestador del servicio sea responsable.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1680.
 
-Los estacionamientos se clasificarán de la siguiente manera:
+Los boletos impresos que el prestador del servicio entregará al usuario contendrán los siguientes datos:
 
-I. De primera clase.- Aquellos que estén totalmente techados y su piso sea de cemento o pavimento;
+I. Nombre o razón social y domicilio del prestador del servicio de estacionamiento al público;
 
-II. De segunda clase.- Aquellos que estén techados en su mayor parte y su piso sea de cemento o pavimento;
+II. Clave de Registro Federal de Contribuyentes;
 
-III. De tercera clase.- Aquellos que no tengan las características anteriores; y
+III. La tarifa aplicable, atendiendo a la clasificación señalada en el artículo 1678 bis del presente Capítulo;
 
-IV. Estacionamientos en bienes concesionados del dominio público municipal.
+IV. Número de folio;
+
+V. Informar a los usuarios de la existencia de una fianza o póliza de seguro, en garantía del pago por responsabilidad civil, robo o daños al vehículo que sufra durante su resguardo y, de los objetos previamente inventariados que se encuentren en su interior;
+
+VI. La hora de entrada y salida, en su caso, además del horario del servicio;
+
+VII. La tolerancia de diez minutos al terminar la hora, para recoger el vehículo sin cargo adicional;
+
+VIII. Anotar el modelo, color, número de placas y estado físico que guarde el vehículo; y
+
+IX. Los que determine la autoridad municipal.
+
+En caso de los estacionamientos con acomodadores se deberá agregar una leyenda que establezca que la propina es de carácter opcional.
+
+Si los usuarios extravían el boleto, éstos, deberán comprobar la propiedad del vehículo a satisfacción del encargado del estacionamiento público, sin cargo económico adicional.
+
+El prestador de servicio podrá cobrar por concepto de movilización, hasta el equivalente a cinco horas de tarifa en caso de que el usuario extravíe o no deje en resguardo las llaves del vehículo.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+Artículo 1680 bis.- El prestador del servicio revalidará anualmente la licencia de estacionamiento, y podrá ceder sus derechos sobre dicho servicio.
+
+Los interesados deberán presentar ante la Tesorería, dentro de los treinta días anteriores a la fecha de vencimiento de la licencia, su solicitud de revalidación acompañada de una fotocopia en donde conste que la póliza de seguro obligatoria estará vigente durante el año en que prestará el servicio.
+
+Cuando se cedan los derechos sobre un estacionamiento con servicio al público, el adquirente o cesionario dará aviso por escrito a la Tesorería, quien a su vez comunicará a la SAUOPE y Tesorería, dentro de los quince días siguientes a la celebración del contrato correspondiente de las nuevas condiciones en las que prestará el servicio y, de la forma que responderá por robo o daños que sufran los vehículos durante el tiempo de guarda, acompañando copia certificada del documento de cesión de derechos.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+DE LOS ESTACIONAMIENTOS PÚBLICOS CON ACOMODADORES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1681.
 
-El servicio de estacionamiento de vehículos, se cobrará:
+El prestador del servicio de estacionamiento o la persona que pretenda brindar el servicio de acomodadores de vehículos, deberá solicitado ante la SAUOPE, de modo que se le autorice para ello.
 
-I. Por hora transcurrida, teniendo los usuarios un margen de 10 minutos para recoger su unidad, sin que se les cobre la siguiente hora.
+La persona que pretenda brindar este servicio, deberá cumplir con las disposiciones aplicables para los prestadores del servicio de estacionamiento además de los siguientes requisitos:
 
-II. Por pensión diurna de 9:00 A 21:00 horas.
+I. Presentar a la SAUOPE la licencia de chofer vigente de las personas que se encargarán del acomodo de los vehículos y copias de su identificación oficial y carta de antecedentes no penales;
 
-III. Pensión nocturna de 21:00 A 9:00 horas.
+II. Los empleados deberán portar su gafete de identificación y el uniforme correspondiente que los ubique como personal autorizado. El citado gafete deberá contener los siguientes requisitos:
 
-IV. Pensión completa durante 24 horas.
+a) Nombre completo.
+
+b) Fotografía.
+
+c) Clave de identificación.
+
+d) Cargo.
+
+e) Razón social del establecimiento autorizado en el servicio de acomodadores.
+
+III. En el reverso del boleto que se entregará al usuario, se deberán establecer las condiciones en que se presta el servicio de acomodador de vehículos;
+
+IV. En el caso de que los vehículos sean estacionados en la vía pública por el acomodador de vehículos en las zonas donde existan estacionómetros, el prestador del servicio estará obligado a depositar el importe correspondiente, además de ser responsable del vehículo estacionado como si estuviera dentro del inmueble para el cual tenga licencia de estacionamiento;
+
+V. Tener debidamente señalado que el servicio de acomodadores de vehículos es gratuito y que la propina es de carácter opcional;
+
+VI. Cerciorarse de que sólo su personal maneje los vehículos y, bajo ninguna circunstancia los podrán utilizar para fines ajenos a la prestación del servicio; y
+
+VII. Presentar denuncia ante la Procuraduría de Justicia del Estado de Puebla, y remitir copia a la SAUOPE y Tesorería, en caso de robo o extravío de dichas credenciales.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+DEL ESTACIONAMIENTO EN LA VÍA PÚBLICA
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1682.
 
-Los titulares de las licencias del servicio de estacionamientos, bajo su responsabilidad podrán complementar a su actividad, los siguientes servicios:
+El estacionamiento en la vía pública municipal es libre por tanto, queda prohibido obstaculizar condicionar o impedir este servicio en los lugares destinados para tal fin.
 
-I. Lavado, encerado y pulido de vehículos;
+El Ayuntamiento podrá instalar estacionómetros para el uso de la vía pública.
 
-II. Venta de tabaquería, dulces y refrescos; y
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-III. Venta de accesorios automotrices.
+Artículo 1682 bis.- El servicio de estacionamiento en la vía pública podrá ser concesionado por el Ayuntamiento en los términos del Capítulo XVIII de la Ley Orgánica Municipal, caso en el cual, el concesionario tendrá la obligación de acatar estrictamente los términos del contrato, sin perjuicio de lo dispuesto en este Capítulo.
 
-OBLIGACIONES
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+Artículo 1682 ter. Para el cobro del uso de estacionamiento en la vía pública, el Ayuntamiento clasificará las zonas de estacionómetros de acuerdo a la demanda de espacios para estacionarse, así como los horarios de operación.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1683.
 
-Son obligaciones de los titulares de la licencia del servicio público de estacionamiento de vehículos las siguientes:
+Es obligación de quien administre y opere el servicio de estacionómetros:
 
-I. Contar con un reloj marcador para registrar la entrada y salida de vehículos;
+I. Supervisar las áreas donde se encuentran instalados los estacionómetros;
 
-II. Proporcionar al público un comprobante que contenga la hora de recepción del vehículo;
+II. Atender diariamente reportes de estacionómetros descompuestos;
 
-III. Exponer en un lugar visible la tarifa aprobada así como la clase de estacionamiento a la que pertenece;
+III. Dar mantenimiento a los estacionómetros;
 
-IV. Mantener aseado el inmueble;
+IV. Atender las quejas que se presenten; y
 
-V. Expedir a solicitud del usuario comprobante de pago que reúna los requisitos fiscales;
+V. Vigilar el cumplimiento de lo dispuesto en materia de estacionamiento en la vía pública.
 
-VI. Utilizar las instalaciones exclusivamente para la actividad señalada en la licencia;
+El Ayuntamiento mantendrá las obligaciones de las fracciones IV y V, independientemente de que el servicio de estacionómetros sea concesionado.
 
-VII. Cumplir con las demás disposiciones legales aplicables al desarrollo de su actividad.
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-SANCIONES
+Artículo 1683 bis. Se destinará en la vía pública por cada calle, avenida, calzada y demás arroyos viales un lugar de estacionamiento gratuito para personas con capacidad diferente, de acuerdo con lo dispuesto por el artículo 294 y demás relativos de este ordenamiento.
+
+Para hacer uso de estos cajones, los usuarios deberán portar las placas en su vehículo adecuadas al caso, expedidas por la autoridad estatal competente.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+Artículo 1683 ter. En caso de estacionamiento de vehículos de carga, para efecto de llevar a cabo las maniobras de carga y descarga de los mismos, deberán llevarse a cabo de acuerdo al reglamento de tránsito y vialidad municipal para no entorpecer la circulación en la vía pública.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+DE LOS VEHÍCULOS ABANDONADOS EN LA VÍA PÚBLICA Y EN LOS ESTACIONAMIENTOS PÚBLICOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1684.
 
-Las violaciones al presente Capítulo, se sancionarán con:
+El Ayuntamiento, a través de SSPTM retirará de la vía pública los vehículos abandonados en un término de setenta y dos horas contadas a partir de que la autoridad municipal tenga conocimiento formal por medio de denuncia personal, telefónica o por escrito.
 
-I. Multa equivalente al importe de 10 a 100 veces el salario mínimo vigente en la ciudad de Puebla;
+Inmediatamente dará aviso a la autoridad competente y cobrará a quien resulte responsable la cantidad devengada en el estacionómetro correspondiente.
 
-II. Clausura temporal, y
+En el caso de que los vehículos sean abandonados en estacionamientos públicos, los propietarios o administradores darán inmediato aviso a las autoridades competentes.
 
-III. Clausura definitiva y cancelación de la licencia otorgada.
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+DE LA INSPECCIÓN Y VIGILANCIA
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1685.
 
-Para la aplicación de las sanciones a que se refiere el artículo anterior, se tomarán en cuenta:
+El Ayuntamiento podrá en cualquier tiempo ordenar y practicar las visitas de inspección en los estacionamientos públicos, las que se sujetarán a lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y el Código Fiscal y Presupuestario para el Municipio de Puebla.
 
-I. La gravedad de la infracción;
+Asimismo, vigilará el correcto cumplimiento de la normatividad en materia de estacionamientos públicos.
 
-II. La reincidencia del infractor; y
+Las personas físicas o morales, podrán denunciar ante la autoridad municipal competente por vía telefónica, mediante escrito o comparecencia, todo incumplimiento a lo dispuesto en el presente Capítulo.
 
-III. Las circunstancias de tiempo y lugar en que haya sido cometida la infracción.
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-Se entiende por reincidencia, la comisión de dos o más infracciones al presente Capítulo.
+DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1686.
 
-Corresponde exclusivamente al C. Presidente Municipal la aplicación de las sanciones.
+Incurre en infracción administrativa, la persona que realice las conductas enumeradas a continuación:
+
+l. Preste el servicio de estacionamiento sin contar con las licencias respectivas;
+
+II. Preste el servicio de estacionamiento incumpliendo los términos y condiciones establecidos en las licencias;
+
+III. Presente a las Secretarías competentes, información y/o documentación a que se refiere este ordenamiento que sea falsa, incluyendo la relativa a las características arquitectónicas y requisitos de protección civil que debe observar el inmueble en el que se presta el servicio;
+
+IV. lncumpla la obligación de informar o hacer del conocimiento a las Secretarías, en los supuestos establecidos en esta Ley;
+
+V. Incumpla la normatividad de protección civil aplicable;
+
+VI. Incumpla la normatividad cuya finalidad sea la protección del consumidor;
+
+VII. Impida o no colabore con las autoridades municipales, estatales y federales en los casos señalados en este Capítulo;
+
+VIII. Incumpla la obligación de adoptar e implementar los requisitos y medidas de seguridad determinadas por las Secretarías;
+
+IX. Incumpla la obligación de contar con el seguro obligatorio que establece este Capítulo;
+
+X. Incumpla la obligación de expedir boletos a lo (sic) usuarios del servicio o los expida sin los requisitos que establece este Capítulo;
+
+XI. No respete la tarifa autorizada en la licencia para la prestación del servicio;
+
+XII. Preste servicios distintos de los permitidos, o destine los vehículos a fines diferentes de los permitidos o autorizados;
+
+XIII. No tenga a la vista del público la licencia de prestación del servicio las tarifas, los teléfonos de la autoridad competente para atender quejas o la lista de obligaciones del prestador del servicio;
+
+XIV. No cuente con un registro de personal o éste incumpla la obligación de portar el gafete de Identificación;
+
+XV. Condicione el servicio de estacionamiento a la prestación de los servicios complementarios;
+
+XVI. Permitir que un automóvil en el que no viaje una persona con capacidad diferente se estacione en los cajones exclusivos para ese fin; y
+
+XVII. La violación de cualquier otra obligación en materia de los estacionamientos establecida en este Capítulo y, no señalada específicamente.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+Artículo 1686 bis. Incurre en infracción administrativa al estacionamiento en vía pública la persona que:
+
+I. Omita el pago de los estacionómetros;
+
+II. Se estacione en lugares prohibidos;
+
+III. Introduzca objetos diferentes a los autorizados en los estacionómetros;
+
+IV. Dañe u obstruya el funcionamiento de los estacionómetros;
+
+V. Ocupe el espacio destinado a dos aparatos estacionómetros omitiendo el pago de uno de ellos; y
+
+VI. Obstaculice condicione o impida el estacionamiento en la vía pública.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1687.
 
-Es facultad del C. Presidente Municipal, resolver cualquier duda respecto a la interpretación del presente Capítulo, la aplicación de (sic) mismo y sanciones que establece, así como delegar estas facultades en el funcionario que designe.
+Las infracciones a los preceptos de este Capítulo, señaladas en los artículos 1686 y 1686 bis, serán sancionadas administrativamente por las autoridades competentes, con una o más de las siguientes sanciones:
+
+I. Multa de veinticinco a treinta y cinco días de salario mínimo vigente en el Estado de Puebla al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones IV, VI, XIII y XVII del artículo 1686, así como las fracciones I y V del artículo 1686 bis de esté Capítulo;
+
+II. Multa de treinta y seis a cincuenta días de salario mínimo vigente en el Estado de Puebla al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones VIII, XII, XIV, XV y XVI del artículo 1686, así como las fracciones II y III del artículo 1686 bis de este Capítulo;
+
+III. Multa de cincuenta y un a setenta días de salario mínimo vigente en el Estado de Puebla al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones I, II, III, V, VII, IX, X y XI del artículo 1686, así como las fracciones IV y VI del artículo 1686 bis de este Capítulo;
+
+IV. Clausura total o parcial, definitiva o temporal del estacionamiento; y
+
+V. Arresto administrativo hasta por treinta y seis horas.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+Artículo 1687 bis. Para la imposición de las sanciones la autoridad competente tomará en cuenta la gravedad de la infracción de acuerdo a:
+
+1. Los daños que se hubieren producido o pudieren producirse.
+
+2. El carácter intencional o no de la acción u omisión constitutiva de la infracción.
+
+3. Las circunstancias personales y situación socioeconómica del infractor.
+
+4. La reincidencia del infractor.
+
+En el caso de reincidencia, se duplicará el monto de la multa que corresponda. Para los efectos de este Capítulo, se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones, en un periodo de un año, contados a partir de la fecha en que la Secretaría competente determine mediante una resolución definitiva la comisión de la primera infracción, y siempre que ésta no hubiese sido desvirtuada.
+
+La persona a quien se le determine por tercera vez una infracción, será sancionada con la clausura definitiva del estacionamiento y cancelación de la licencia respectiva.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+Artículo 1687 ter. En caso de que la autoridad encuentre que se han cometido diversas infracciones, en la resolución respectiva, las multas se determinarán separadamente, así como el monto total de todas ellas. Asimismo, si la autoridad determina que existen dos o más infractores, a cada uno de ellos se le impondrá la sanción que corresponda.
+
+Las sanciones por infracciones administrativas se impondrán sin perjuicio de las penas que correspondan a los delitos en que, en su caso, incurran los infractores.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+DEL RECURSO ADMINISTRATIVO DE REVISIÓN
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+Artículo 1687 quáter. El particular podrá impugnar los actos administrativos derivados de la aplicación de lo previsto por este Capítulo mediante recurso de revisión, mismo que se substanciará en términos de lo dispuesto por el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
 
 > <small>(REFORMADO EN SU ESTRUCTURA, P.O. 15 DE FEBRERO DE 2006)</small>
 
@@ -19987,7 +20459,7 @@ Para los escolares de los niveles de educación básica y media superior de inst
 
 ###### Artículo 1699.
 
-Los documentos transferidos al Archivo General por las Dependenciasy Entidades del Honorable Ayuntamiento, serán puestos a consulta pública cuando:
+Los documentos transferidos al Archivo General por las Dependencias y Entidades del Honorable Ayuntamiento, serán puestos a consulta pública cuando:
 
 I.- No hayan sido clasificados, conforme lo establecido en el artículo 11 del Reglamento de Transparencia y Acceso a la Información del Gobierno Municipal de Puebla; y
 
@@ -25385,6 +25857,10 @@ DE LOS REPRESENTANTES
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
+artículo 2170.- Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los Artículos relativos del presente Capitulo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 2170.
 
 Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los artículos relativos del presente Capitulo.
@@ -27800,3 +28276,17 @@ DECRETO NUMERO 299.
 PRIMERO.- El presente Dictamen surtirá efecto a partir de su publicación, en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- La expedición de la acreditación a los Consejeros Ciudadanos deberá estar debidamente fundada y motivada.
+
+P.O. 26 DE FEBRERO DE 2007.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla con las modalidades a que se refieren los siguientes transitorios.
+
+SEGUNDO. Se concede un término de sesenta días naturales contados a partir de la publicación del presente Acuerdo, a efecto de que los propietarios o representantes legales de los estacionamientos que se encuentren funcionando en el Municipio, realicen ante la Secretaría de Administración Urbana, Obras Públicas y Ecología del Ayuntamiento, los trámites referidos en las disposiciones reformadas, con la finalidad de que su funcionamiento se encuentre apegado a la presente normatividad.
+
+TERCERO. El Ayuntamiento expedirá en un término de noventa días naturales contados a partir de la publicación del presente Acuerdo, las tarifas por concepto de estacionamiento conforme a la clasificación a que se refieren las disposiciones reformadas, mismas que entrarán en vigor al día siguiente de su publicación. En tanto, seguirán vigentes las últimas taritas aprobadas.
+
+CUARTO. Los trámites administrativos relacionados con la materia de estacionamientos públicos se tramitarán y resolverán conforme a las disposiciones del presente Acuerdo.
+
+QUINTO. Los recursos administrativos que se encuentren en trámite a la entrada en vigor de esta reforma, se resolverán conforme a la normatividad vigente al momento de su promoción.
+
+SEXTO. Se derogan todas las disposiciones que se relacionen con el servicio público de estacionamiento, en cuanto se opongan a lo dispuesto en el presente Acuerdo.
