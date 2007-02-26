@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2006-06-26"
+last_updated: "2007-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
 
@@ -479,11 +479,11 @@ VIII.- Coordinar, regular y supervisar la distribución de los apoyos proporcion
 
 IX.- Determinar las cuotas de asignación anual de apoyos alimentarios a los sistemas DIF Municipales;
 
-X.- Coordinar y apoyar los programas y acciones a favor de la autogestión y bienestar de las personas de la tercera edad, así como a las delegaciones y subdelegaciones del Instituto Nacional de Personas Adultas Mayores a nivel estatal y Municipal;
+X.- (DEROGADA, P.O. 26 DE FEBRERO DE 2007)
 
-XI.- Elaborar y proponer las actualizaciones del Reglamento Interior del Centro Gerontológico del DIF Estatal, en coordinación con la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación;
+XI.- (DEROGADA, P.O. 26 DE FEBRERO DE 2007)
 
-XII.- Elaborar y proponer las actualizaciones del Reglamento Interior de los Centros de Desarrollo de la Comunidad, en coordinación con la Dirección de Planeación y someterlo a consideración del Director General para el trámite de aprobación; y
+XII.- (DEROGADA, P.O. 26 DE FEBRERO DE 2007)
 
 XIII.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
 
@@ -529,13 +529,23 @@ XVIII.- Planear, programar y administrar las reuniones del Patronato y de los Co
 
 XIX.- Elaborar, en coordinación con la Dirección de Administración, el anteproyecto de presupuesto general anual del DIF Estatal;
 
-XX.- Elaborar y proponer las actualizaciones de los Manuales de Organización y Procedimientos de la Dirección, así como los reglamentos o reglas de operación de los programas propios y someterlos a consideración del Director General para el trámite de aprobación;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE FEBRERO DE 2007)</small>
+
+XX.- Coordinar, regular y supervisar la distribución de los apoyos proporcionados por medio de los diferentes programas que son responsabilidad de la Dirección;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE FEBRERO DE 2007)</small>
 
 XXI.- Integrar los expedientes de los fideicomisarios atendidos por cada uno de los fideicomisos, aprobados en las reuniones de los comités técnicos respectivos;
 
-XXII.- Concentrar y auditar el Padrón Único de Beneficiarios del DIF Estatal, reportar anomalías y avances al Director General y Directores de Área, informando a las Instituciones y ciudadanos que lo soliciten; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE FEBRERO DE 2007)</small>
 
-XXIII.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
+XXII.- Supervisar los estudios socioeconómicos que realiza Trabajo Social del DIF Estatal y dar el visto bueno para el apoyo que se sugiere;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
+
+XXIII.- Realizar los estudios socioeconómicos que requieren de una atención especial; y
+
+XXIV.- Las señaladas en el artículo 38 de este ordenamiento jurídico.
 
 ###### Artículo 34.
 
@@ -817,23 +827,23 @@ IV.- DIRECCIÓN DE PROGRAMAS INSTITUCIONALES Y DESARROLLO COMUNITARIO:
 
 a) Departamento de Atención y Mejoras Nutricionales;
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-1.- Unidad de Desayunos Fríos;
+1. Coordinación de Zona 1
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-2.- Unidad de Desayunos Calientes;
+2. Coordinación de Zona 2
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-3. Unidad del Programa Alimentario a Familias y Sujetos Vulnerables;
+3. Coordinación de Zona 3
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-4. Unidad de Orientación Alimentaría;
+4. Coordinación de Zona 4
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 5. Unidad de Almacén de Alimentos;
 
@@ -845,13 +855,7 @@ b) Departamento de Programas de Desarrollo Comunitario.
 
 1. Unidad de Comunidad Diferente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
-
-c) Departamento de Trabajo Social;
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2006)</small>
-
-2.- (sic) Supervisor de Trabajo Social;
+c) (DEROGADO, P.O. 26 DE FEBRERO DE 2007)
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2004)</small>
 
@@ -893,7 +897,13 @@ d) Unidad de Enlace con Comités Municipales e Instituciones de Beneficencia Pri
 
 e) Unidad de Estadística y Evaluación.
 
-f) Unidad de Administración de Fideicomisos;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+f) Departamento de Trabajo Social:
+
+1. Unidad de Administración de Fideicomisos.
+
+2. Supervisor de Trabajo Social;
 
 g) Unidad de Enlace con el Sector Empresarial.
 
@@ -1309,7 +1319,9 @@ II.- El Secretario, que será el Director de Planeación, Información y Desarro
 
 III.- Los Vocales del Sector Público que serán:
 
-a).- Un representante de la Coordinación de Asesores del Gobernador del Estado;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+
+a).- Un representante designado por el C. Gobernador del Estado.
 
 b).- Un representante de la Procuraduría de la Defensa del Menor y la Familia;
 
@@ -1584,3 +1596,7 @@ UNICO.- Las reformas entrarán en vigor al día siguiente de su publicación en 
 P.O. 26 DE JUNIO DE 2006.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE FEBRERO DE 2007.
+
+UNICO.- Las reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
