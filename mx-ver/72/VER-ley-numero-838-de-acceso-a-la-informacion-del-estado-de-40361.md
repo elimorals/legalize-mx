@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-838-de-acceso-a-la-informacion-del-estado-de-40361"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-08"
-last_updated: "2004-06-08"
+last_updated: "2007-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NUMERO 838 DE ACCESO A LA INFORMACION DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY 848 DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ, PUBLICADA EN LA G.O. DE 27 DE FEBRERO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el martes 8 de junio de 2004.
 
@@ -342,3 +344,33 @@ Licenciado Miguel Alemán Velazco
 Gobernador del Estado
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 27 DE FEBRERO DE 2007.
+
+Artículo Primero. Esta ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones que se opongan a la presente Ley y se abroga la Ley de Acceso a la Información del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial de fecha ocho de junio de 2004.
+
+Artículo Tercero. Los asuntos que se encuentren en trámite, a la entrada en vigor de la presente ley, seguirán su curso conforme a la Ley de Acceso a la Información del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial de fecha ocho de junio de 2004, hasta su resolución.
+
+Artículo Cuarto. Los sujetos obligados a que se refiera el artículo 5 de este ordenamiento, deberán constituir y poner en operación sus Unidades de Acceso a la Información Pública en un plazo que no deberá exceder de ciento ochenta días naturales a partir de la fecha del inicio de vigencia de esta ley.
+
+Para el caso de los municipios, previa consideración de sus características geográficas, económicas, políticas y sociales, el Consejo General del Instituto Veracruzano de Acceso a la Información podrá acordar se prorrogue el plazo previsto para la instalación de las Unidades de Acceso a la Información Pública, hasta por un término de ciento ochenta días naturales adicionales al plazo anterior, previa solicitud fundada y motivada del Ayuntamiento correspondiente.
+
+Artículo Quinto. Las obligaciones de transparencia que señala el artículo 8 de esta ley, deberán publicarse a más tardar treinta días naturales a partir de la entrada en vigor de la misma. Para el caso de los Ayuntamientos, a los que se refiere el segundo párrafo del artículo anterior, el plazo máximo para publicar sus obligaciones de transparencia será de noventa días naturales.
+
+Artículo Sexto. Por única ocasión y sin que cause precedente, para la elección de los Consejeros del Instituto Veracruzano de Acceso a la Información, el Gobernador remitirá tres ternas, que deberán reunir los requisitos de ley, una por cada Consejero a nombrar, con la particularidad que deberá señalar el tiempo para el que serán designados, es decir, una terna para ocupar el cargo por dos años, una más por cuatro y la tercera por seis años.
+
+Una vez designados los integrantes del Consejo General del Instituto Veracruzano de Acceso a la Información, se instalarán formalmente en un plazo de 10 días naturales en su primera sesión.
+
+Artículo Séptimo. El Consejo General del Instituto Veracruzano de Acceso a la Información elaborará el reglamento interior del Instituto en un término de 30 días hábiles contados a partir de su instalación formal.
+
+Artículo Octavo. Los particulares podrán presentar solicitudes de acceso a la información o de acceso y corrección de datos personales, de acuerdo con los procedimientos y plazos fijados por esta ley, a partir de los ciento ochenta días naturales de la entrada en vigor de la presente ley.
+
+Artículo Noveno. El Congreso del Estado expedirá, en un plazo que no excederá de ciento cincuenta días naturales, los Decretos de reformas a los Códigos Financiero para el Estado y Hacendario Municipal a fin de establecer los derechos por la obtención de información en términos de la presente ley.
+
+Artículo Décimo. Los Ayuntamientos, dentro de los ciento cincuenta días naturales posteriores a la entrada en vigor de la presente ley, deberán remitir al Congreso del Estado las iniciativas de reforma correspondientes a sus Códigos Hacendarios Municipales respectivos, a fin de establecer los derechos por la obtención de información en términos de la presente ley.
+
+Artículo Decimoprimero. El Ejecutivo del Estado, dentro de los sesenta días naturales posteriores a la entrada en vigor de la presente ley, remitirá al Congreso del Estado la modificación presupuestal para proveer los recursos necesarios para la operación del Instituto en el presente ejercicio fiscal.
