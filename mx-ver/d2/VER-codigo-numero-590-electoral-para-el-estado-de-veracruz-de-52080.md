@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-590-electoral-para-el-estado-de-veracruz-de-52080
 country: "mx"
 rank: "codigo"
 publication_date: "2006-10-09"
-last_updated: "2006-10-09"
+last_updated: "2007-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 590 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2007.
 
 Código publicado en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el lunes 9 de octubre de 2006.
 
@@ -281,7 +281,9 @@ Para la aplicación del principio de representación proporcional en la asignaci
 
 La elección de los agentes y subagentes municipales se sujetará al procedimiento que señale este Código y la Ley Orgánica del Municipio Libre.
 
-Una vez expedida la convocatoria por el Congreso del Estado, el Instituto será coadyuvante en la preparación y desarrollo de la elección de Agentes y Subagentes Municipales.
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2007)</small>
+
+Una vez expedida la convocatoria el Instituto será coadyuvante en la preparación y desarrollo de la elección de Agentes y Subagentes Municipales.
 
 Se celebrará un convenio en apego a este Código, suscrito entre el Ayuntamiento solicitante y el Instituto, donde se comprometa el primero de los señalados a sujetarse a los principios rectores de los procesos electorales en la aplicación de los procedimientos contenidos en este Código.
 
@@ -403,7 +405,9 @@ a) Que asistieron los delegados propietarios o suplentes electos en las asamblea
 
 b) Que acreditaron por medio de las actas correspondientes que las asambleas municipales se celebraron de conformidad con lo prescrito en la fracción II de este artículo;
 
-c) Que se comprobó la identidad, residencia y ocupación de los delegados, por medio de la credencial para votar;
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2007)</small>
+
+c) Que se comprobó la identidad y residencia de los delegados por medio de la credencial para votar, así como su ocupación;
 
 d) Que fueron aprobados sus documentos básicos; y
 
@@ -613,9 +617,11 @@ XXII. Crear y mantener centros de capacitación política; y
 
 XXIII. Cumplir las demás obligaciones que establezcan este Código y las leyes del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 40.
 
-Las Organizaciones Políticas estatales que realicen modificaciones a sus sus (sic) documentos básicos, sólo surtirán efecto hasta en tanto el Consejo General declare la procedencia de las mismas; la resolución deberá dictarse en un plazo que no exceda de treinta días contados a partir de la presentación de la documentación correspondiente.
+Las modificaciones que realicen a sus documentos básicos las Organizaciones Políticas estatales sólo surtirán efecto hasta en tanto el Consejo General declare la procedencia de las mismas; la resolución deberá dictarse en un plazo que no exceda de treinta días contados a partir de la presentación de la documentación correspondiente.
 
 En el caso de los partidos políticos nacionales, deberán notificar las modificaciones respectivas al Consejo General, el cual las turnará a la Dirección de Prerrogativas y Partidos Políticos para su registro y efectos legales procedentes.
 
@@ -735,7 +741,9 @@ II. Gozar del régimen fiscal que establecen este Código y las leyes de la mate
 
 III. Participar, en los términos del Capítulo III del presente Título, del financiamiento público correspondiente para sus actividades;
 
-IV. Realizar propaganda electoral en términos del Título Quinto de este Código.
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2007)</small>
+
+IV. Realizar propaganda electoral en términos del Título Quinto del presente Libro.
 
 ### CAPÍTULO II. Del acceso a medios de comunicación
 
@@ -761,7 +769,9 @@ El Consejo General del Instituto, creará la comisión de medios de comunicació
 
 Una vez agotado el fin para el que fue creado la Comisión, esta se disolverá, creándose nuevamente durante el siguiente proceso electoral.
 
-El convenio con los concesionarios y permisionarios de radio, televisión y prensa escrita, tendrá que ser aprobado por el Consejo General y deberá contener:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE FEBRERO DE 2007)</small>
+
+El convenio con los concesionarios o permisionarios de radio y televisión, y con los propietarios o directivos de los medios impresos, tendrá que ser aprobado por el Consejo General y deberá contener:
 
 I. Un catálogo de horarios y tarifas por unidad y por paquete de tiempo y espacio para propaganda electoral, relacionada con los cargos de elección popular, incluyendo las promociones y el costo por transmisión o publicidad local y nacional, según sea el caso, que tengan a disposición de los partidos políticos para su contratación;
 
@@ -913,7 +923,9 @@ d) Las aportaciones en dinero que realice cada persona física o moral facultada
 
 e) Las aportaciones en dinero podrán realizarse en parcialidades y en cualquier tiempo, pero el monto total aportado durante un año por una persona física o moral no podrá rebasar, según corresponda los límites establecidos en el inciso anterior; y,
 
-f) Las aportaciones de bienes muebles o inmuebles deberán destinarse únicamente para el cumplimiento del objeto del Partido recibido (sic) la aportación.
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2007)</small>
+
+f) Las aportaciones de bienes muebles o inmuebles deberán destinarse únicamente para el cumplimiento del objeto del Partido que reciba la aportación.
 
 III. El autofinanciamiento estará constituido por los ingresos que el Partido obtenga de sus actividades promocionales, tales como conferencias, espectáculos, juegos y sorteos, eventos culturales, ventas editoriales, de bienes y de propaganda utilitaria así como cualquier otra similar que realicen para allegarse fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza. Para efectos de este Código, el órgano interno responsable del financiamiento de cada partido reportará los ingresos obtenidos por estas actividades en los informes respectivos;
 
@@ -1015,7 +1027,9 @@ El Consejo General, emitirá el reglamento interno de la Comisión de Fiscalizac
 
 Los partidos políticos gozarán de la exención de impuestos y derechos que por sus actividades causen al Estado y a los municipios, de acuerdo con las disposiciones legales aplicables.
 
-Los Derechos que no serán sujetos de impuestos son los siguientes:
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADA, ANTES SEGUNDO PARRAFO], G.O. 27 DE FEBRERO DE 2007)</small>
+
+I. Los ingresos que no serán sujetos de impuestos son los siguientes:
 
 a) Los relacionados con las rifas y sorteos que celebren previa autorización legal, y con las ferias, festivales y otros eventos que tengan por objeto allegarse recursos para el cumplimiento de sus fines;
 
@@ -1023,7 +1037,9 @@ b) Sobre la renta, en cuanto a sus utilidades gravables provenientes de la enaje
 
 c) Los relativos a la venta de los impresos que editen para la difusión de sus documentos básicos y en general para su propaganda, así como por el uso de equipos y medios audiovisuales en la misma.
 
-Las exenciones a que se refiere la fracción anterior no se aplicarán en los siguientes casos:
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADA, ANTES TERCER PARRAFO], G.O. 27 DE FEBRERO DE 2007)</small>
+
+II. Las exenciones a que se refiere la fracción anterior no se aplicarán en los siguientes casos:
 
 a) En el de contribuciones, incluyendo tasas adicionales sobre la propiedad inmobiliaria, de su fraccionamiento y adicionales que se establezcan sobre la propiedad, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles; y
 
@@ -1089,9 +1105,11 @@ V. Las demás que establezca este Código.
 
 Los precandidatos tendrán la obligación de rendir los informes de gastos de precampañas ante el Partido Político, en caso de incumplimiento se notificará al Consejo General para que éste inicie el procedimiento que corresponda para determinar la responsabilidad del ciudadano por dicha omisión.
 
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 75.
 
-Los servidores públicos del Estado o de la Federación en ejercicio de autoridad, los ediles, los integrantes de los concejos municipales, los militares en servicio activo o con mando de fuerzas y los ministros de cultos religiosos que pretendan participar en un proceso interno de selección de candidatos, deberán obtener licencia sin goce de sueldo para ausentarse de su cargo por lo menos cinco días antes de su registro como precandidato.
+Los servidores públicos que se encuentren en los supuestos de las fracciones II, III y IV del artículo 23, de las fracciones IV y V del artículo 43, y de la fracción III del artículo 69 de la Constitución Política del Estado, que pretendan participar en una precampaña electoral o proceso interno, con el objeto de alcanzar la postulación o designación de su partido político para algún cargo de elección popular, deberán obtener licencia sin goce de sueldo para ausentarse de su cargo por lo menos cinco días antes de su registro como precandidatos, en los comicios que correspondan.
 
 ###### Artículo 76.
 
@@ -1257,7 +1275,9 @@ El Partido que incumpla con la obligación de sujetar sus gastos de campaña a l
 
 Las Organizaciones Políticas podrán aliarse o unirse, con el fin de constituir frentes para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas y comunes.
 
-Para fines electorales, las Organizaciones Políticas podrán formar coaliciones a fin de postular candidatos en las elecciones estatales y municipales. En cuyo caso, deberán presentar una plataforma ideológica electoral mínima y común, en los términos del artículo 39, fracción XII, de este Código.
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2007)</small>
+
+Para fines electorales, las Organizaciones Políticas podrán formar coaliciones a fin de postular candidatos en las elecciones estatales y municipales, en cuyo caso, deberán presentar una plataforma ideológica electoral mínima y común, en los términos del artículo 39, fracción XIV, de este Código.
 
 ### CAPÍTULO II. De los frentes
 
@@ -1317,9 +1337,11 @@ En todos los casos, los candidatos de la coalición se presentarán bajo un solo
 
 En ningún caso las organizaciones políticas del estado, que no hayan participado en algún proceso electoral local, podrán celebrar convenio de coalición o fusión con otro partido, agrupación o asociación política estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 98.
 
-Las coaliciones, para los efectos de su representación ante los organismos electorales, actuarán como un solo Partido y acreditarán los representantes que les correspondan, en los términos que establece el artículo 35, fracciones V y VI, de este Código.
+Las coaliciones, para los efectos de su representación ante los organismos electorales, actuarán como un solo Partido y acreditarán los representantes que les correspondan, en los términos que establece el artículo 35, fracciones V, VII y VIII, de este Código.
 
 Los partidos políticos y agrupaciones que convengan en coaligarse podrán conservar su registro al término de la elección, si la votación de la coalición es equivalente a la suma de los porcentajes del dos por ciento de la votación estatal o municipal que requiere cada uno de los partidos políticos o agrupaciones coaligados.
 
@@ -2059,7 +2081,9 @@ III. Implementar los programas de capacitación en los procesos electorales pleb
 
 IV. Supervisar y validar la capacitación electoral a los órganos desconcentrados;
 
-V. Coordinar y vigilar el cumplimiento de los programas a que se refiere la fracción anterior;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2007)</small>
+
+V. Coordinar y vigilar el cumplimiento de los programas a que se refieren las fracciones II y III;
 
 VI. Coordinar la capacitación a los ciudadanos que pretendan participar como observadores electorales;
 
@@ -2169,9 +2193,11 @@ XV. Ejecutar las sanciones derivadas de los acuerdos que recaigan sobre dictáme
 
 XVI. Formular por conducto de su titular, los anteproyectos de los manuales de organización y procedimientos de la Contraloría Interna, considerando las variables de los programas operativos anuales del Instituto.
 
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 141.
 
-El Contralor Interno del Instituto Electoral Veracruzano gozará de autonomía funcional en el ejercicio de sus atribuciones, debiendo cumplirlas con estricta probidad e informando de manera ordinaria trimestralmente de su desempeño al Consejo General del Instituto y al Órgano Superior de Fiscalización del estado de manera extraordinaria, cuando el caso así lo amerite, previo acuerdo del Consejo General.
+El Contralor Interno del Instituto Electoral Veracruzano gozará de autonomía funcional en el ejercicio de sus atribuciones, debiendo cumplirlas con estricta probidad e informando de manera ordinaria trimestralmente de su desempeño al Consejo General del Instituto y el Órgano de Fiscalización Superior del estado de manera extraordinaria, cuando el caso así lo amerite, previo acuerdo del Consejo General.
 
 ###### Artículo 142.
 
@@ -2203,9 +2229,11 @@ En las sesiones de la Comisión, el Contralor Interno actuará como Secretario T
 
 Las sanciones que se impongan a los funcionarios y servidores públicos del Instituto se ejecutarán, conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del estado.
 
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 146.
 
-El Consejo General del Instituto Electoral Veracruzano, aprobara e integrará dentro de su presupuesto global, el correspondiente a la Contraloría Interna, debiéndolo hacer llegar oportunamente al Consejero Presidente.
+El Consejo General del Instituto Electoral Veracruzano aprobará e integrará, dentro de su presupuesto global, el correspondiente a la Contraloría Interna.
 
 ###### Artículo 147.
 
@@ -3005,7 +3033,9 @@ VI. Dentro de los tres siguientes a aquél en que venzan los plazos a que se ref
 
 VII. La negativa de registro podrá ser impugnada mediante el recurso correspondiente, interpuesto por el representante del Partido o coalición interesados; y
 
-VIII. Cuando para un mismo cargo de elección popular sea solicitado el registro de más de un candidato por un mismo Partido, el Secretario del Consejo General requerirá a la dirigencia estatal del Partido para que en un término de cuarentena y ocho horas defina al candidato o fórmula (sic) prevalece; en caso de no hacerlo se entenderá que el Partido opta por la primera solicitud presentada, quedando sin efecto las presentadas con posterioridad.
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2007)</small>
+
+VIII. Cuando para un mismo cargo de elección popular sea solicitado el registro de más de un candidato por un mismo Partido, el Secretario del Consejo General requerirá a la dirigencia estatal del Partido para que en un término de cuarenta y ocho horas defina al candidato o fórmula que prevalece; en caso de no hacerlo se entenderá que el Partido opta por la primera solicitud presentada, quedando sin efecto las presentadas con posterioridad.
 
 El Consejo General del Instituto Electoral Veracruzano podrá exigir a los candidatos la comprobación de sus requisitos de elegibilidad.
 
@@ -3273,7 +3303,9 @@ II. El oficio deberá acompañarse con una relación, en orden numérico de casi
 
 III. Las solicitudes de registro que carezcan de alguno o algunos de los datos del representante ante las mesas directivas de casilla se regresarán al Partido solicitante; para que dentro de los tres días siguientes subsane las omisiones; y
 
-IV. Vencido el término a que se refiere el inciso anterior sin corregirse las omisiones, no se registrará el nombramiento.
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2007)</small>
+
+IV. Vencido el término a que se refiere la fracción anterior sin corregirse las omisiones, no se registrará en nombramiento.
 
 ###### Artículo 210.
 
@@ -3341,7 +3373,9 @@ h) Las firmas impresas del Presidente y Secretario del Consejo General del Insti
 
 II. Para la elección de diputados de mayoría relativa y representación proporcional, se estará a lo dispuesto por la fracción anterior, debiendo la boleta electoral contener un solo círculo por cada Partido para comprender la fórmula de candidatos y la lista correspondiente; y,
 
-III. Para la elección de integrantes de Ayuntamientos, se estará a lo dispuesto en los incisos b), c), f) y g) de la fracción I de este párrafo segundo, debiendo además las boletas contener lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE FEBRERO DE 2007)</small>
+
+III. Para la elección de integrantes de Ayuntamientos, se estará a lo dispuesto en los incisos b), c), g) y h) de la fracción I de este artículo, debiendo además las boletas contener lo siguiente:
 
 a) Entidad y municipio;
 
@@ -3547,6 +3581,8 @@ IV. Resolverá los problemas y dudas que se presenten.
 
 El Presidente de la mesa directiva suspenderá la votación, en el caso de que alguna persona trate de intervenir por la fuerza, con el objeto de alterar el orden de la casilla. Restablecido el orden, dispondrá que se reanude la votación, ordenando al Secretario hacer constar los hechos en el acta de cierre de votación.
 
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 228.
 
 El Secretario de la casilla recibirá, sin discusión alguna, los escritos de incidentes y el escrito de protesta que presenten los representantes de los partidos o coaliciones. Estos escritos se presentarán por duplicado, distribuyéndose de la siguiente manera:
@@ -3560,12 +3596,6 @@ El escrito de protesta se presentará ante la Mesa Directiva de Casilla al concl
 El Secretario de la casilla hará constar los incidentes que se susciten en la misma, en el acta correspondiente.
 
 Ninguna autoridad podrá detener a los integrantes de las mesas directivas de casilla, o a los representantes de los partidos políticos o coaliciones, estando en funciones, durante la jornada electoral, salvo en el caso de flagrante delito.
-
-La votación se cerrará a las 18:00 horas. Podrá cerrarse antes de la hora fijada, sólo cuando el Presidente y el Secretario certifiquen que hubieren votado todos los electores incluidos en la lista nominal respectiva.
-
-Sólo permanecerá abierta después de las 18:00 horas, aquella casilla en la que aún se encuentren electores formados para votar. En este caso, se cerrará una vez que quienes estuviesen formados a las 18:00 horas hayan votado.
-
-Cerrada la votación, se levantará el acta de cierre de votación, en el formato aprobado por el Consejo General del Instituto, misma que será firmada, sin excepción, por los integrantes que se encuentren presentes.
 
 Una vez cerrada la votación, los integrantes de la mesa directiva de casilla, procederán al escrutinio y cómputo de los votos emitidos en la casilla.
 
@@ -3891,13 +3921,15 @@ b) A la fórmula de candidatos por este principio en el distrito uninominal que 
 
 c) Copia certificada de la documentación contenida en el paquete de cómputo distrital, se enviará al Consejo General del Instituto.
 
-d) En el caso de la votación de diputados de representación proporcional:
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE FEBRERO DE 2007)</small>
 
-e) La suma de los resultados obtenidos después de realizar las operaciones que señalan las fracciones I, II, III y IV del artículo 251, constituirá el cómputo distrital de esta elección; y
+II. En el caso de la votación de diputados de representación proporcional:
 
-f) Firmada el acta de cómputo correspondiente a esta elección, se integrará el paquete del cómputo distrital y se remitirá al Instituto.
+a) La suma de los resultados obtenidos después de realizar las operaciones que señalan las fracciones I, II, III y IV del artículo 251, constituirá el cómputo distrital de esta elección; y
 
-II. En el caso de la votación de Gobernador:
+b) Firmada el acta de cómputo correspondiente a esta elección, se integrará el paquete del cómputo distrital y se remitirá al Instituto.
+
+III. En el caso de la votación de Gobernador:
 
 a) La suma de los resultados obtenidos después de realizar las operaciones que señalan las fracciones I, II, III y IV del artículo 251 de este Código, constituirá el cómputo distrital de las elecciones de Gobernador; y,
 
@@ -4209,23 +4241,25 @@ IV. Aportar las pruebas junto con el escrito, y ofrecer las que deban requerirse
 
 V. Hacer constar el nombre y firma autógrafa del promovente.
 
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 288.
 
-Una vez cumplido el plazo a que se refiere el párrafo segundo del artículo anterior, el organismo electoral que reciba un medio de impugnación deberá de hacer llegar al órgano competente o a la Sala Electoral del Tribunal Superior de Justicia, según corresponda, dentro de las cuarenta y ocho horas siguientes:
+Una vez cumplido el plazo a que se refiere el párrafo segundo del artículo anterior, el organismo electoral que reciba un medio de impugnación deberá hacer llegar al órgano competente o a la Sala Electoral del Tribunal Superior de Justicia, según corresponda, dentro de las cuarenta y ocho horas siguientes:
 
-a) El escrito mediante el cual se interpone;
+I. El escrito mediante el cual se interpone;
 
-b) La copia del documento en que conste el acto o resolución impugnados, o, si es el caso, copias certificadas de las actas correspondientes del expediente relativo al cómputo de que se trate;
+II. La copia del documento en que conste el acto o resolución impugnados, o, si es el caso, copias certificadas de las actas correspondientes del expediente relativo al cómputo de que se trate;
 
-c) Las pruebas aportadas;
+III. Las pruebas aportadas;
 
-d) Los demás escritos de los terceros interesados y de los coadyuvantes;
+IV. Los demás escritos de los terceros interesados y de los coadyuvantes;
 
-e) Un informe circunstanciado sobre el acto o resolución impugnado; y
+V. Un informe circunstancia sobre el acto o resolución impugnado; y
 
-f) Los demás elementos que se estimen necesarios para la resolución.
+VI. Los demás elementos que se estimen necesarios para la resolución.
 
-El informe circunstanciado a que se refiere la fracción V de este artículo será rendido por el Secretario del organismo electoral correspondiente, y deberá expresar si el promovente del medio de impugnación o del escrito del tercero interesado tiene reconocida su representación, y los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución impugnada.
+El informe circunstanciado a que se refiere la fracción V de este artículo será rendido por el Secretario del organismo electoral correspondiente, y deberá expresar si el promoverte del medio de impugnación o del escrito del tercero interesado tiene reconocida su representación, así como los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución impugnado.
 
 ###### Artículo 289.
 
@@ -4521,11 +4555,13 @@ Tratándose de la inelegibilidad de candidatos por el principio de representaci�
 
 En el caso de la declaración de inelegibilidad de un candidato electo por el principio de mayoría relativa, tomará el lugar del declarado no elegible quien fuere su suplente en la fórmula.
 
-DENTRO DEL TÍTULO PRIMERO (SIC)
+> <small>(REFORMADA SU NUMERACION, G.O. 27 DE FEBRERO DE 2007)</small>
 
-## TÍTULO ÚNICO
+## TÍTULO TERCERO
 
-### CAPÍTULO II. Del juicio para la Protección de los Derechos Político-Electorales del Ciudadano
+> <small>(REFORMADA SU NUMERACION, G.O. 27 DE FEBRERO DE 2007)</small>
+
+### CAPÍTULO ÚNICO. Del juicio para la Protección de los Derechos Político-Electorales del Ciudadano
 
 ###### Artículo 320.
 
@@ -4580,6 +4616,8 @@ I. Al actor que promovió el juicio, y en su caso, a los terceros interesados, a
 II. A la autoridad responsable, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, por oficio acompañado de la copia certificada de la sentencia.
 
 # LIBRO SEXTO. DE LAS FALTAS ADMINISTRATIVAS Y DE LAS SANCIONES
+
+## TÍTULO ÚNICO
 
 ### CAPÍTULO I. Del procedimiento
 
@@ -4651,7 +4689,9 @@ I. Recibir cualquier aportación que no esté autorizada por el Partido, así co
 
 II. Realizar actos de precampaña electoral antes de la aprobación del registro correspondiente por el órgano autorizado del Partido; y,
 
-III. Realizar actos anticipados de campañas en los plazos que señala el párrafo tercero del artículo 72 de este Código.
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2007)</small>
+
+III. Realizar actos anticipados de campañas fuera del plazo que señala el artículo 72 de este Código.
 
 ###### Artículo 332.
 
@@ -4778,3 +4818,11 @@ ATENTAMENTE
 "Sufragio Efectivo. No Reelección."
 
 Lic. Fidel Herrera Bertrán, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 27 DE FEBRERO DE 2007.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
