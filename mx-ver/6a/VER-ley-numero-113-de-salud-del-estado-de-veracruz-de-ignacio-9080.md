@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2007-01-03"
+last_updated: "2007-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -155,7 +155,11 @@ XVI.- Campaña contra la hidrofobia.
 
 XVII.- Los efectos de la contaminación ambiental.
 
-XVIII.- Las demás materias que determine esta Ley y demás disposiciones generales aplicables.
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2007)</small>
+
+XVIII.- En escuelas de nivel básico;
+
+XIX.- Las demás materias que determine esta Ley y demás disposiciones generales aplicables.
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2768,3 +2772,9 @@ SEGUNDO. El titular de la Secretaría de Salud deberá expedir en un tiempo no m
 TERCERO. Los actos y acciones que se encuentren en trámite al publicarse el presente decreto se substanciarán de acuerdo a la competencia y previsiones que señale el reglamento respectivo.
 
 CUARTO. Se derogan todas las disposiciones de observancia general que se opongan a este decreto.
+
+G.O. 27 DE FEBRERO DE 2007.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
