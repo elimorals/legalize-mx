@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2007-01-19"
+last_updated: "2007-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE FEBRERO DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -108,21 +108,23 @@ A). La Subsecretaría de Gobierno, a la que quedan adscritas:
 
 4. Dirección General de Regularización Territorial;
 
-5. Dirección General de Protección Civil;
+5. (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
 6. (DEROGADO, G.O. 19 DE ENERO DE 2007)
 
 7. (DEROGADO, G.O. 19 DE ENERO DE 2007)
 
-B). La Subsecretaría de Trabajo y Previsión Social, a la que quedan adscritas la:
+B). (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
-1. Dirección General de Trabajo y Previsión Social;
+1. (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
-2. Dirección General de Empleo y Capacitación; y
+2. (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
-3. Procuraduría de la Defensa del Trabajo.
+3. (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
-C). La Coordinación General de Programas Metropolitanos;
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+C) Subsecretaría de Programas Metropolitanos;
 
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -140,9 +142,11 @@ F) Dirección General de Concentración Política y Atención Social y Ciudadana
 
 G) Dirección General de Asuntos Agrarios del Distrito Federal.
 
-Quedan adscritos a esta Secretaría los Órganos Político-Administrativos de cada demarcación territorial.
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 19 DE ENERO DE 2007)</small>
+H) Coordinación General de Enlace Institucional con los Gobiernos de los Estados.
+
+Quedan adscritos a esta Secretaría los Órganos Político-Administrativos de cada demarcación territorial.
 
 II. A la Secretaría de Desarrollo Urbano y Vivienda:
 
@@ -178,7 +182,9 @@ IV. A la Secretaría del Medio Ambiente:
 
 4.- Dirección General de Zoológicos y Vida Silvestre;
 
-5.- Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural;
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+5.- Dirección General de la Comisión de Recursos Naturales;
 
 6.- Dirección General de Bosques Urbanos y Educación Ambiental; y
 
@@ -202,13 +208,15 @@ VI. A la Secretaría de Desarrollo Social:
 
 1.- Subsecretaría de Participación Ciudadana;
 
-2.- Dirección General de Asuntos Educativos;
+2.- (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
 3.- Dirección General de Equidad y Desarrollo Social;
 
 4.- Dirección General del Servicio Público de Localización Telefónica (LOCATEL);
 
-5.- Dirección General del Instituto del Deporte del Distrito Federal; y
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+5.- Dirección General del Instituto del Deporte del Distrito Federal;
 
 6.- Dirección General del Instituto de Asistencia e Integración Social del Distrito Federal.
 
@@ -230,17 +238,17 @@ A) Subsecretaría de Egresos, a la que quedan adscritas:
 
 1. Dirección General de Política Presupuestal;
 
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
-2. Dirección General de Contabilidad, Normatividad e Integración de Documentos de Rendición de Cuentas;
+2. Dirección General de Contabilidad, Normatividad y Cuenta Pública;
 
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
-3. Dirección General de Egresos de Desarrollo Sustentable y Servicios, y
+3. Dirección General de Egresos A; y
 
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
-4. Dirección General de Egresos de Administración y Gobierno.
+4. Dirección General de Egresos B.
 
 B) Tesorería del Distrito Federal, a la que quedan adscritas:
 
@@ -258,7 +266,11 @@ B) Tesorería del Distrito Federal, a la que quedan adscritas:
 
 2.5 Dirección de Normatividad;
 
-2.6. Coordinaciones de Operación Regional Tributaria, y Administraciones Tributarias.
+2.6. Coordinaciones de Operación Regional Tributaria, y Administraciones Tributarias;
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+2.7. Dirección de Modernización Tributaria.
 
 3. Subtesorería de Fiscalización, a la que quedan adscritas:
 
@@ -282,13 +294,25 @@ C) Procuraduría Fiscal del Distrito Federal, a la que quedan adscritas:
 
 3. Subprocuraduría de Recursos Administrativos y Autorizaciones, y
 
-4. Subprocuraduría de Asuntos Penales y Juicios sobre Ingresos Coordinados.
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+4. Subprocuraduría de Asuntos Penales.
 
 D) Dirección General de Administración Financiera.
 
 > <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2001)</small>
 
 E) Dirección General de Informática.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+F) Subsecretaría de Planeación:
+
+1.- Dirección Ejecutiva de Enlace Interinstitucional.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+G) Unidad de Inteligencia Financiera del Distrito Federal.
 
 IX. A la Secretaría de Transportes y Vialidad:
 
@@ -323,8 +347,6 @@ XI. A la Secretaría de Turismo:
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
 4.- Dirección General del Instituto de Promoción Turística del Distrito Federal;
-
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 19 DE ENERO DE 2007)</small>
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -406,9 +428,17 @@ XIV. A la Contraloría General:
 
 4.- Dirección Ejecutiva de Evaluación y Seguridad de Tecnologías de la Información;
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
-5.- Coordinación General de Contralorías Internas;
+5.- Dirección General de Contralorías Internas:
+
+5.1. Dirección de Contralorías Internas “A”.
+
+5.2. Dirección de Contralorías Internas “B”.
+
+5.3. Dirección de Contralorías Internas “C”.
+
+5.4. Dirección de Contralorías Internas “D”.
 
 (REFORMADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
 
@@ -430,6 +460,42 @@ XV. A la Consejería Jurídica y de Servicios Legales:
 
 5. Dirección Ejecutiva de Justicia Cívica.
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XVI. A la Secretaría de Protección Civil:
+
+1.- Dirección General de Prevención; y
+
+2.- Dirección General de Emergencias Mayores.
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XVII. A la Secretaría de Trabajo y Fomento al Empleo:
+
+1.- Dirección General de Trabajo y Previsión Social;
+
+2.- Dirección General de Empleo, Capacitación y Fomento Cooperativo;
+
+3.- Dirección de Estudios y Estadísticas del Trabajo;
+
+4.- Procuraduría de la Defensa del Trabajo.
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XVIII. A la Secretaría de Educación:
+
+1.- Dirección de Educación Básica; y
+
+2.- Dirección de Planeación.
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XIX. A la Secretaría de Desarrollo Rural y Equidad para las Comunidades:
+
+1.- Dirección General de Desarrollo Rural; y
+
+2.- Dirección General de Equidad para los Pueblos Indígenas y Comunidades Étnicas.
+
 ###### Artículo 8º.
 
 Las atribuciones genéricas y específicas señaladas para las Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Unidades Administrativas de Apoyo Técnico-Operativo, podrán ser ejercidas de manera directa por los titulares de las Dependencias en el ámbito de su competencia, cuando así lo estimen conveniente.
@@ -448,13 +514,15 @@ La Administración Pública, para su mejor funcionamiento se integra con cuatro 
 
 Los Gabinetes son:
 
-I. De Gobierno y Seguridad Pública, integrado por la Secretaría de Gobierno, la Secretaría de Seguridad Pública, la Procuraduría General de Justicia del Distrito Federal y la Consejería Jurídica y de Servicios Legales. Su Coordinador es el Titular de la Secretaría de Gobierno;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+I. De Gobierno y Seguridad Pública, integrado por la Secretaría de Gobierno, la Secretaría de Seguridad Pública, la Secretaría de Protección Civil, la Procuraduría General de Justicia del Distrito Federal y la Consejería Jurídica y de Servicios Legales. Su Coordinador es el Titular de la Secretaría de Gobierno;
 
 II. De Desarrollo Sustentable, integrado por la Secretaría de Desarrollo Urbano y Vivienda, la Secretaría del Medio Ambiente, la Secretaría de Obras y Servicios, y la Secretaría de Transporte y Vialidad. Su Coordinador es el Titular de la Secretaría de Obras y Servicios;
 
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-III. De Progreso con Justicia, integrado por la Secretaría de Desarrollo Económico, la Secretaría de Desarrollo Social, la Secretaría de Salud, la Secretaría de Turismo y la Secretaría de Cultura. Su coordinador e el Titular de la Secretaría de Desarrollo Social; y
+III. De Progreso con Justicia, integrado por la Secretaría de Desarrollo Económico, la Secretaría de Desarrollo Social, la Secretaría de Salud, la Secretaría de Turismo y la Secretaría de Cultura, la Secretaría de Trabajo y Fomento al Empleo, la Secretaría de Educación y la Secretaría de Desarrollo Rural y Equidad para las Comunidades. Su Coordinador es el Titular de la Secretaría de Desarrollo Social; y
 
 IV. De Administración y Finanzas, integrado por la Secretaría de Finanzas, la Oficialía Mayor y la Contraloría General del Distrito Federal. Su coordinador es el Titular de la Secretaría de Finanzas.
 
@@ -582,7 +650,9 @@ En el despacho y resolución de los asuntos de su competencia, los servidores p�
 
 I. Los titulares de las Dependencias, por los servidores públicos de jerarquía inmediata inferior que de ellos dependan, en los asuntos de su respectiva competencia;
 
-II. Los titulares de las Subsecretarías, de la Tesorería del Distrito Federal, y de la Procuraduría Fiscal del Distrito Federal, por los servidores públicos de jerarquía inmediata inferior que de ellos dependan, en los asuntos de su respectiva competencia;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+II. Los Titulares de las Subsecretarías, de la Tesorería del Distrito Federal, de la Procuraduría Fiscal del Distrito Federal y de la Unidad de Inteligencia Financiera del Distrito Federal, por los servidores públicos de jerarquía inmediata inferior que de ellos dependan, en los asuntos de su competencia;
 
 III. Los titulares de las Coordinaciones Generales, por los servidores públicos de jerarquía inmediata inferior a ellos, en los asuntos de su exclusiva competencia;
 
@@ -800,11 +870,11 @@ XVIII. Coordinar directamente o a través de la Unidad Administrativa de Apoyo T
 
 XIX. Las demás que le atribuyan expresamente las leyes, reglamentos, decretos y acuerdos; las que le sean conferidas por el Jefe de Gobierno y las que les correspondan a las Unidades Administrativas, Órganos Desconcentrados, Unidades Administrativas de Apoyo Técnico-Operativo y Entidades a él adscritas.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ### Capítulo V
 
-De las atribuciones generales de los titulares de las Subsecretarías, la Tesorería del Distrito Federal y la Procuraduría Fiscal del Distrito Federal.
+De las atribuciones generales de los titulares de las Subsecretarías, la Tesorería del Distrito Federal, la Procuraduría Fiscal del Distrito Federal y la Unidad de Inteligencia Financiera del Distrito Federal.
 
 ###### Artículo 30.
 
@@ -838,11 +908,11 @@ XII. Proponer al titular de la Dependencia de su adscripción los proyectos de i
 
 XIII. Las demás que les atribuyan expresamente los demás ordenamientos jurídicos y administrativos correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ### Capítulo VI
 
-De las atribuciones de las Subsecretarías, de la Tesorería del Distrito Federal y de la Procuraduría Fiscal del Distrito Federal.
+De las atribuciones de las Subsecretarías, la Tesorería del Distrito Federal, la Procuraduría Fiscal del Distrito Federal y la Unidad de Inteligencia Financiera del Distrito Federal.
 
 ###### Artículo 31.
 
@@ -890,53 +960,43 @@ XX. Coordinar y supervisar el cumplimiento de las funciones desconcentradas de l
 
 ###### Artículo 32.
 
-Corresponde al titular de la Subsecretaría de Trabajo y Previsión Social:
+(DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
-I. Proponer al Jefe de Gobierno, para su expedición, las políticas relativas a la observancia y aplicación de la Ley Federal del Trabajo, sus reglamentos y demás disposiciones relativas, en el ámbito de su competencia, así como los lineamientos para la formulación, ejecución y evaluación de la política laboral en el Distrito Federal;
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
-II. Apoyar y fomentar las relaciones con las asociaciones obrero-patronales de carácter local, procurando la conciliación de sus intereses;
+###### Artículo 32 Bis.
 
-III. Mantener relación con la Junta local de Conciliación y Arbitraje del Distrito Federal, proponiendo estrategias para el mejoramiento de la procuración, administración e impartición de la justicia laboral en el Distrito Federal, para coadyuvar a su aplicación eficiente;
+Corresponde a la Subsecretaría de Programas Metropolitanos:
 
-IV. Establecer los lineamientos y acordar con el titular de la Secretaría de Gobierno, la política de conducción de las relaciones con los trabajadores no asalariados y sus organizaciones, así como coordinar y ejecutar las que se establezcan para la protección de sus derechos y mejoramiento de sus condiciones laborales;
+I. Acordar con el titular de la Secretaría de Gobierno, o en su caso con el Jefe de Gobierno, el despacho de los asuntos que guarden relación con los órganos político-administrativos, con los Gobiernos de las Entidades Federativas y los municipios que colindan con el Distrito Federal, en los asuntos que correspondan a su ámbito de competencia;
 
-V. Coadyuvar en la conducción de las relaciones con los grupos políticos y sociales en materia de trabajo y previsión social;
+II. Acordar con el Secretario de Gobierno, el despacho de los asuntos en materia de coordinación y planeación metropolitana, en lo referente a las comisiones metropolitanas y a los diversos mecanismos de coordinación con Gobiernos de las Entidades Federativas y Municipios que colindan con el Distrito Federal, asimismo, colaborar en la organización de reuniones del Jefe de Gobierno con los Titulares de los Gobiernos antes referidos;
 
-VI. Aplicar las políticas que establezca el Jefe de Gobierno para la promoción y protección de los derechos de los menores que trabajan y propiciar acciones que impulsen el desarrollo de los derechos laborales de las mujeres en equidad con los hombres;
+III. Mantener informado al Secretario de Gobierno, o en su caso al Jefe de Gobierno, del cumplimiento de los convenios suscritos por el Jefe de Gobierno, con Gobiernos de las Entidades Federativas que colindan con el Distrito Federal;
 
-VII. Mantener relaciones de coordinación con la Comisión Nacional de Salarios Mínimos y las instancias que correspondan para la protección y mejoramiento del salario en el Distrito Federal;
+IV. Participar en el diseño e instrumentación de la planeación metropolitana; así como participar en la elaboración del Programa General de Desarrollo del Distrito Federal, de los Programas Delegacionales y parciales de los Órganos Político-Administrativos, y de todos aquellos que contribuyan al desarrollo integral de la Ciudad de México como Unidad Metropolitana, en coordinación con las unidades administrativas competentes de la Administración Pública del Distrito Federal;
 
-VIII. Planear, organizar, fomentar y dirigir el servicio de empleo, capacitación y adiestramiento, en los centros de trabajo de circunscripción local, así como auxiliar a las autoridades federales y aumentar la cobertura y calidad de la capacitación laboral impulsando una cultura de trabajo que favorezca el respeto a los derechos y garantías sociales a favor de los trabajadores en el Distrito Federal;
+V. Participar en las actividades materia de límites, en términos de lo dispuesto por las disposiciones jurídicas y administrativas aplicables y coadyuvar en los trabajos de amojonamiento y señalización de límites del Distrito Federal con las entidades federativas colindantes;
 
-IX. Organizar las inspecciones de trabajo en los establecimientos de circunscripción local, en el ámbito de su competencia;
+VI. Representar a la Administración Pública del Distrito Federal, ante los diversos mecanismos de coordinación metropolitana, en términos de lo dispuesto por los respectivos convenios de creación;
 
-X. Difundir la Ley Federal del Trabajo, sus reglamentos y las disposiciones de ellos derivadas, entre los trabajadores y los patrones;
+VII. En coordinación con los titulares de las dependencias respectivas y previa opinión del Secretario de Gobierno proponer al Jefe de Gobierno, la suscripción de convenios para la constitución, integración y funcionamiento comisiones metropolitanas, en las materias de asentamientos humanos; protección al ambiente, preservación y restauración del equilibrio ecológico; transporte y vialidad; agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos; seguridad pública y procuración de justicia; así como de aquellos otros que contribuyan al desarrollo de la Ciudad de México, con la participación que corresponda con la participación que corresponda (sic) a la federación y a los estados y municipios que colindan con el Distrito Federal;
 
-XI. Proponer y coordinar las campañas publicitarias encaminadas a difundir los derechos y obligaciones de trabajadores y patrones;
+VIII. Promover la difusión de convenios que en materia de coordinación metropolitana suscriba el Jefe de Gobierno;
 
-XII. Coordinar y vigilar las labores encomendadas a su cargo y establecer mecanismos de integración e interrelación que propicien, en el ámbito interno y externo, el desarrollo de la política laboral del Distrito Federal, conforme a las disposiciones jurídicas y administrativas aplicables;
+IX. Promover y coordinar las relaciones institucionales de los órganos político-administrativos limítrofes con los Municipios de la Zona Metropolitana;
 
-XIII. Promover la productividad en el trabajo, basada en la equidad, seguridad e higiene, capacitación y progreso de los factores productivos;
+X. Promover las relaciones de colaboración, y asistir como testigo de calidad en la suscripción de convenios, entre los Órganos Político-Administrativos y los Municipios limítrofes, de conformidad con las normas aplicables;
 
-XIV. Proponer la firma de convenios en materia de empleo, competencias laborales y capacitación en el ámbito del Distrito Federal y en su caso, darles seguimiento;
+XI. Promover y realizar estudios, y en su caso elaborar proyectos, para sustentar técnicamente la coordinación metropolitana, que propicien formas eficientes de coordinación con los distintos órdenes de gobierno que inciden en la Ciudad de México;
 
-XV. Establecer, dirigir, desarrollar y coordinar el servicio de empleo en los Órganos Político-Administrativos;
+XII. Promover la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana;
 
-XVI. Promover e implementar las políticas establecidas por el Jefe de Gobierno, para que los trabajadores del Distrito Federal y sus familias gocen del derecho a la cultura y a la recreación, con la intervención que corresponda a la Secretaría de Desarrollo Social y a sus Unidades Administrativas;
+XIII. Establecer y Coordinar el Sistema de Información y análisis de la problemática de la Zona Metropolitana del Distrito Federal;
 
-XVII. Promover la investigación sobre la problemática laboral en el Distrito Federal y elaborar diagnósticos, análisis y estudios en la materia, que contribuyan a la formulación de la política laboral en el Distrito Federal, así como promover la participación de organizaciones no gubernamentales en el estudio y difusión de la misma; y el establecimiento de relaciones de colaboración con instituciones nacionales e internacionales, para desarrollar conjuntamente investigaciones, seminarios, y programas de difusión relacionados con dicha problemática;
+XIV. Promover la creación de fondos orientados al desarrollo de la Zona Metropolitana del Distrito Federal; y
 
-XVIII. Integrar un banco de información estadística y archivo documental de temas relacionados con la problemática laboral, así como proporcionar a trabajadores, empresarios e instituciones académicas, los servicios del centro de documentación e información y la asesoría de su unidad de apoyo e investigación;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XIX. Difundir con recursos propios, o mediante convenios con otros organismos públicos o privados, estudios y documentos de interés general, en el ámbito laboral, en coordinación con la Dirección General de Política Laboral y Servicio Público de Carrera adscrita a la Oficialía Mayor;
-
-XX. Intervenir y, en su caso, presidir los órganos colegiados que correspondan al ámbito de su competencia;
-
-XXI. Coordinar y supervisar el cumplimiento de las funciones desconcentradas de los Órganos Político-Administrativos que correspondan al ámbito de su competencia; y
-
-XXII. Coordinar la integración y establecimiento de la Junta Local de Conciliación y Arbitraje del Distrito Federal y de las Comisiones que se formen para regular las relaciones obrero-patronales que sean de jurisdicción local y vigilar su funcionamiento.
+XV. Apoyar las tareas del consejo de población del Distrito Federal, en los términos de las disposiciones aplicables a la materia.
 
 ###### Artículo 33.
 
@@ -1014,23 +1074,37 @@ XV. Participar en la auditoría médica de instituciones públicas prestadoras d
 
 Corresponde al titular de la Subsecretaría de Egresos:
 
-I. Vincular la presupuestación al Sistema de Planeación del Distrito Federal a través de los Programas Operativos Anuales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, asegurando la correspondencia de los Presupuestos de Egresos con los objetivos del Programa General de Desarrollo del Gobierno del Distrito Federal y del Programa Operativo de la Administración Pública del Distrito Federal;
+I. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-II. Emitir las normas y lineamientos que deberán observar las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, para la elaboración del Programa Operativo de la Administración Pública del Distrito Federal, anteproyecto de Presupuesto de Egresos del Distrito Federal y de la Cuenta Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-III. Dar seguimiento al Programa Operativo Anual de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
+II. Emitir las normas y lineamientos que deberán observar las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública, para la elaboración del Programa Operativo de la Administración Pública del Distrito Federal, programa operativo anual, anteproyecto de Presupuesto de Egresos del Distrito Federal y de la Cuenta Pública del Distrito Federal;
 
-IV. Vigilar la formulación de los anteproyectos del Presupuesto de Egresos Anuales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, comunicándoles, en su caso, los ajustes que habrán de realizarse conforme a los programas, objetivos, acciones institucionales y suficiencia presupuestal asignada;
+III. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-V. Presentar a la consideración del superior el Anteproyecto del Presupuesto de Egresos del Distrito Federal y el Programa Operativo de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-VI. Autorizar el calendario del ejercicio del presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
+IV. Coordinar la formulación de los anteproyectos de presupuesto de egresos anuales de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, comunicándoles, en su caso, los ajustes que habrán de realizar en función de la cifra definitiva proyectada;
 
-VII. Establecer el registro y control del ejercicio presupuestal del Distrito Federal, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, con base en la calendarización de los diferentes capítulos del gasto;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-VIII. Definir y mantener actualizada la normatividad relacionada con los procesos de programación-presupuestación, ejercicio, control, contabilidad y evaluación del gasto público del Distrito Federal;
+V. Presentar a la consideración del superior el Proyecto del Presupuesto de Egresos del Distrito Federal y el Programa Operativo de la Administración Pública del Distrito Federal;
 
-IX. Autorizar de acuerdo a la normatividad aplicable, las solicitudes de adecuaciones programático-presupuestales que presenten las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, así como los órganos a que se refiere el artículo 416 del Código Financiero del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+VI. Autorizar y comunicar el calendario presupuestal de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+VII. Registrar el ejercicio presupuestal del Distrito Federal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y con base en la calendarización de los diferentes capítulos del gasto y la información consignada en los documentos programático-presupuestales formulados por las unidades responsables;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+VIII. Expedir las normas y lineamientos a que deba sujetarse la programación, el presupuesto, contabilidad y seguimiento del gasto público del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+IX. Autorizar de acuerdo a la normatividad aplicable, las solicitudes de adecuaciones programático-presupuestales que presenten las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, así como a los órganos a que se refiere el artículo 448 del Código Financiero del Distrito Federal;
 
 X. Presentar a consideración del superior los programas de inversiones, elaborados conforme al presupuesto de egresos, de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
 
@@ -1038,7 +1112,9 @@ XI. Resolver sobre las solicitudes de autorización previa, para que las Depende
 
 XII. Coordinar la elaboración e integración de los informes de gestión y estados financieros de la Administración Pública Centralizada, así como la integración de los relativos a la Administración Pública Paraestatal;
 
-XIII. Vigilar que se integre la información programático-presupuestal de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública y ordenar se efectúen las conciliaciones correspondientes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XIII. Coordinar la integración de la información programático-presupuestal de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, y ordenar se efectúen las conciliaciones correspondientes;
 
 XIV. Someter a consideración del superior, los Informes de Avance sobre la ejecución y cumplimiento de los presupuestos y programas aprobados;
 
@@ -1046,21 +1122,61 @@ XV. Conducir las relaciones con las Dependencias de la Administración Pública 
 
 XVI. Coordinar la evaluación del ejercicio del gasto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
 
-XVII. Validar presupuestalmente los programas anuales de adquisiciones, arrendamientos y servicios de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública y, en su caso, hacer observaciones;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XVIII. Participar en los órganos de gobierno de las Entidades de la Administración Pública y comités de control y de aplicación de la normatividad, relacionada con aspectos programático (sic), presupuestales y financieros;
+XVII. Validar presupuestalmente los programas anuales de adquisiciones, arrendamientos y servicios de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, y en su caso, hacer observaciones;
 
-XIX. Emitir opinión sobre el impacto presupuestal, cuando se creen o modifiquen las estructuras administrativas de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XVIII. Participar en los órganos colegiados, y órganos de gobierno de las Entidades, Dependencias, Unidades Administrativas, Órganos Desconcentrados y Delegaciones de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos programáticos-presupuestales;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XIX. Emitir opinión sobre el impacto presupuestal, cuando se creen o modifiquen las estructuras administrativas de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, así como también de proyectos de iniciativas de leyes o Decretos cuando éstos incidan en materia de gasto;
 
 XX. Presentar a consideración del superior la Cuenta Pública del Distrito Federal;
 
 XXI. Someter a consideración del superior, las propuestas de organización, programas y presupuestos de la Subsecretaría de Egresos y de las Unidades Administrativas adscritas a ella;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+XXII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-XXII. Autorizar la suficiencia presupuestal para viáticos y pasajes internacionales, de acuerdo a las necesidades de la Administración Pública y previa autorización del Titular del Gobierno del Distrito Federal; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXIII. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+XXIII. Participar en la formulación de anteproyectos de reformas y adiciones a disposiciones legales en materia presupuestal;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XXIV. Asesorar a las unidades responsables cuando lo soliciten, respecto de las normas que emite la Subsecretaría, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XXV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+###### Artículo 34 Bis.
+
+Corresponde al titular de la Subsecretaría de Planeación:
+
+I. Vincular la presupuestación al Sistema de Planeación del Distrito Federal a través de los Programas Operativos Anuales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública, asegurando la correspondencia del Presupuesto de Egresos con los objetivos del Programa General de Desarrollo del Gobierno del Distrito Federal y del Programa Operativo de la Administración Pública del Distrito Federal:
+
+II. Realizar actividades relativas a la planeación y evaluación presupuestal, en relación al desarrollo e impacto social, económico y financiero de los programas de gobierno;
+
+III. Coordinar el análisis costo beneficio de los principales proyectos de inversión, así como el desarrollo y puesta en marcha de los principales proyectos;
+
+IV. Participar en la supervisión de los programas especiales en materia de Planeación y Desarrollo Territorial, a fin de evaluar el impacto de los mismos en el Programa General de Desarrollo del Distrito Federal;
+
+V. Elaborar diagnósticos, fijar prioridades y diseñar las estrategias que ordenen las acciones para la aplicación de los recursos presupuestales del Distrito Federal;
+
+VI. Proponer políticas y estrategias para eficientar el manejo de las finanzas públicas de acuerdo al Programa General de Desarrollo del Distrito Federal;
+
+VII. Colaborar en la elaboración de planes y programas Sectoriales, Delegacionales y Territoriales que emanen del Comité de Planeación del Desarrollo del Distrito Federal (COPLADE), dentro del marco de la Ley de Planeación del Desarrollo del Distrito Federal;
+
+VIII. Promover propuestas de coordinación con la federación, estados, municipios y delegaciones, en materia de planeación;
+
+IX. Participar en la formulación, vigilancia y cumplimiento de los acuerdos de colaboración admnistrativa (sic) en materia fiscal federal y local, en términos de las leyes y reglamentos aplicables; y
+
+X. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
 ###### Artículo 35.
 
@@ -1261,6 +1377,42 @@ XLIV. Vigilar el cumplimiento de las normas y procedimientos inherentes al desar
 > <small>(REFORMADA Y REUBICADA, G.O. 11 DE MARZO DE 2005)</small>
 
 XLV. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+###### Artículo 36 Bis.
+
+Corresponde a la Unidad de Inteligencia Financiera del Distrito Federal:
+
+I. Generar, analizar y consolidar información fiscal, financiera y patrimonial relacionada con conductas que pudieran estar vinculadas con la comisión de delitos en materia de delincuencia organizada;
+
+II. Emitir lineamientos para agrupar y jerarquizar, por niveles de riesgo, la información que obtenga;
+
+III. Coordinar el equipo de trabajo integrado por los enlaces permanentes, así como los temporales que en su caso se requieran;
+
+IV. Requerir a las unidades administrativas, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, que proporcionen la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren en este Reglamento;
+
+V. Presentar a las autoridades competentes para la investigación, persecución, procesamiento y sanción de delitos, información fiscal, financiera y patrimonial relacionada con conductas que pudieran estar vinculadas con la delincuencia organizada;
+
+VI. Denunciar o querellarse ante el Ministerio Público competente de los hechos que tenga conocimiento y puedan constituir delitos en materia de delincuencia organizada;
+
+VII. Coadyuvar con las autoridades competentes, en los procesos penales relacionados con los asuntos de su competencia;
+
+VIII. Realizar, en el ámbito de su competencia el seguimiento y control de los procesos originados por las denuncias y querellas formuladas por la Unidad de Inteligencia Financiera, así como de aquellas en que ésta tenga interés;
+
+IX. Suscribir los documentos y celebrar los actos jurídicos necesarios para el ejercicio de sus funciones;
+
+X. Coordinarse con las autoridades competentes para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de sus facultades;
+
+XI. Informar a la Procuraduría Fiscal del Distrito Federal, de los hechos que conozca con motivo del ejercicio de sus atribuciones, que puedan constituir delitos fiscales;
+
+XII. Proponer el desarrollo de sistemas de información necesarios para el desarrollo de sus funciones;
+
+XIII. Realizar consultas a expertos, instituciones académicas y de investigación, relacionadas con el ámbito de su competencia;
+
+XIV. Participar en foros y eventos relacionados;
+
+XV. Todas aquellas que sean necesarias para el ejercicio de sus funciones, así como las que sean conferidas por sus superiores jerárquicos.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -1496,55 +1648,7 @@ XI. Coadyuvar en la tramitación ante instancias judiciales, cuando se trate de 
 
 ###### Artículo 43.
 
-Corresponde a la Dirección General de Protección Civil:
-
-I. Coordinar, dentro de su ámbito de competencia, los programas de protección Civil en el Distrito Federal;
-
-II. Ser Vocal Ejecutivo del Consejo de Protección Civil del Distrito Federal;
-
-III. Elaborar modelos matemáticos de medición, simulación y respuesta ante emergencias en el Distrito Federal;
-
-IV. Proponer el establecimiento y modificación de normas en materia de protección civil;
-
-V. Realizar y difundir programas de orientación y capacitación a los habitantes del Distrito Federal, antes, durante y después de una emergencia;
-
-VI. Elaborar, operar, evaluar y actualizar el Atlas de Riesgo, en materia de protección civil;
-
-VII. Elaborar, operar, evaluar y actualizar el Registro Estadístico Único de Situaciones de Emergencia del Distrito Federal;
-
-VIII. Recabar, captar y sistematizar la información, para conocer la situación del Distrito Federal en condiciones normales y de emergencia;
-
-IX. Representar al Distrito Federal, cuando así se lo autoricen sus superiores jerárquicos, y sin perjuicio de la representación preferente que a ellas corresponda, ante toda clase de autoridades e instituciones nacionales e internacionales, en materia de protección civil;
-
-X. Normar los establecimientos temporales para el auxilio de los habitantes del Distrito Federal, en situaciones de emergencia;
-
-XI. Autorizar, supervisar y vigilar la aplicación de los Programas Especiales de Protección Civil; y
-
-XII. Registrar, evaluar, coordinar y vigilar a las organizaciones civiles, empresas capacitadoras, así como a las empresas de consultoría y estudio de riesgo y vulnerabilidad, que por sus características se vinculen a la materia de protección civil;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XIII. Coadyuvar en la elaboración de la política general de protección civil, así como en la formulación de principios generales;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XIV. Coordinar dentro de su ámbito de competencia, los Programas de Protección Civil del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XV. Coordinar los programas y acciones de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública del Distrito Federal integrantes del Sistema de Protección Civil del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XVI. Coordinar los dispositivos de apoyo para atender situaciones de emergencia o desastre;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XVII. Proponer y coadyuvar en la realización de estudios, investigaciones, análisis y opiniones de carácter técnico, científico y académico, en materia de protección; y
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XVIII. Verificar el cumplimiento de la Ley, Reglamento, Términos de Referencia y Normas Técnicas Complementarias en materia de Protección Civil.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
 ###### Artículo 44.
 
@@ -1648,119 +1752,15 @@ XII. Realizar recorridos y vistas periódicas a los Órganos Político-Administr
 
 ###### Artículo 46.
 
-Corresponde a la Dirección General de Trabajo y Previsión Social:
-
-I. Vigilar la observancia y aplicación de la Ley Federal del Trabajo, los reglamentos y las disposiciones relativas de jurisdicción local;
-
-II. Establecer medidas para prevenir y en su caso conciliar los conflictos obrero-patronales;
-
-III. Dar seguimiento a los acuerdos que se celebren y recomendaciones que se generen con la Junta Local de Conciliación y Arbitraje del Distrito Federal para coadyuvar a la aplicación eficiente de la justicia laboral;
-
-IV. Verificar la implementación y ejercer las políticas que se establezcan en materia de trabajo y previsión social, para la promoción y protección de los derechos de los menores que trabajan;
-
-V. Ejecutar las políticas que se implementen conforme a las disposiciones aplicables en materia de trabajo y previsión social para propiciar el respeto de los derechos de las mujeres trabajadoras y lograr la equidad en el trabajo;
-
-VI. Llevar a cabo acciones de vigilancia como auxiliar de las autoridades federales, en materia de capacitación y adiestramiento, así como de seguridad e higiene en los centros de trabajo de circunscripción local;
-
-VII. Ordenar y practicar inspecciones de trabajo en los establecimientos de jurisdicción local;
-
-VIII. Calificar las infracciones a la Ley Federal del Trabajo e imponer y notificar las sanciones correspondientes en el ámbito de su competencia;
-
-IX. Impulsar acciones encaminadas para garantizar la libre sindicalización y la garantía de voto secreto en los recuentos sindicales;
-
-X. Vigilar que se apliquen las disposiciones laborales en materia de seguridad e higiene y medio ambiente en el trabajo y fomentar la constitución de las Comisiones Mixtas de Seguridad e Higiene en el Trabajo, en auxilio de las autoridades federales;
-
-XI. Verificar que las recomendaciones derivadas de los dictámenes de las actas de inspección se cumplan en los términos y plazos establecidos;
-
-XII. Dar seguimiento a los resultados de la inspección, en lo que corresponda a las condiciones generales de trabajo y de seguridad, higiene y medio ambiente de trabajo en los centros de trabajo de jurisdicción local;
-
-XIII. Coadyuvar con las autoridades correspondientes en la prevención y conciliación de los conflictos laborales que se presenten en el Distrito Federal cuando así lo soliciten las partes;
-
-XIV. Promover y difundir los derechos y obligaciones de los trabajadores asalariados y no asalariados;
-
-XV. Planear, organizar, fomentar y dirigir las acciones en materia de seguridad, higiene y medio ambiente de trabajo, en los centros de trabajo de jurisdicción local y fomentar una cultura de prevención de los accidentes de trabajo a favor de los trabajadores asalariados;
-
-XVI. Vigilar la observancia y aplicación de las leyes, reglamentos y disposiciones administrativas aplicables a los trabajadores no asalariados;
-
-XVII. Instrumentar acciones para que los trabajadores no asalariados gocen de los beneficios de la Seguridad Social;
-
-XVIII. Proponer al Titular de la Subsecretaría de Trabajo y Previsión Social los proyectos de iniciativas de leyes, reglamentos o disposiciones administrativas y los planes y programas para la regulación y reordenación del trabajo no asalariado;
-
-XIX. Vigilar la observancia y aplicación de las leyes, reglamentos y disposiciones administrativas aplicables a los trabajadores no asalariados;
-
-XX. Proponer y ejecutar la política de conducción de las relaciones con los trabajadores no asalariados y sus organizaciones, aplicando las que en esa materia dicte el Jefe de Gobierno;
-
-XXI. Proponer al titular de la Subsecretaría de Trabajo y Previsión Social los proyectos de iniciativas de leyes, reglamentos o disposiciones administrativas y los planes y programas para la regulación y reordenación del trabajo no asalariado;
-
-XXII. Fomentar acciones de concertación para prevenir o solucionar conflictos entre los trabajadores no asalariados, y sus respectivas organizaciones;
-
-XXIII. Concertar acciones con representantes de las organizaciones de trabajadores no asalariados, comerciantes establecidos, industriales, prestadores de servicios e instituciones públicas y vecinos, para conciliar los intereses de todos los sectores en la solución de problemas específicos que se presenten en Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de su competencia;
-
-XXIV. Llevar un registro de los trabajadores no asalariados y sus organizaciones;
-
-XXV. Realizar los estudios técnicos necesarios para determinar la viabilidad del establecimiento de empresas y unidades productivas, que resulten una alternativa para los trabajadores no asalariados, con el fin de proponer los planes y programas que resulten a las autoridades competentes;
-
-XXVI. Asesorar a los trabajadores no asalariados para el mejoramiento de sus condiciones de vida, tanto a través de formas de organización interna como de formas alternativas de organización y producción; y
-
-XXVII. Concertar acciones con representantes de las organizaciones de trabajadores no asalariados, comerciantes establecidos, industriales, prestadores de servicio e instituciones públicas y vecinos, para conciliar los intereses de todos los sectores en la solución de problemas específicos que se presenten en Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo de su competencia.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
 ###### Artículo 47.
 
-Corresponde a la Dirección General de Empleo y Capacitación:
-
-I. Planear, diseñar, coordinar, fomentar y evaluar programas de empleo, de capacitación y adiestramiento, con la intervención que corresponda a las autoridades federales;
-
-II. Coadyuvar en la emisión de las políticas y lineamientos que se deban observar para desarrollar los programas de trabajo de conformidad con la normatividad vigente;
-
-III. Fomentar actividades de promoción y concertación que apoyen acciones relativas al empleo y la capacitación;
-
-IV. Promover y consolidar acciones que generen ocupación productiva;
-
-V. Verificar que la organización y programación de cursos relativos al programa de becas de capacitación a trabajadores desempleados se realice oportuna y eficazmente, de acuerdo con el calendario que establezca la Secretaría del Trabajo y Previsión Social;
-
-VI. Gestionar y administrar los recursos financieros del programa de becas de capacitación a trabajadores desempleados y evaluar permanentemente la ejecución del programa, informando a las instancias competentes de los avances correspondientes;
-
-VII. Autorizar, en su caso, el establecimiento y operación de las agencias de colocación de los trabajadores, en coordinación con la Secretaría del Trabajo y Previsión Social;
-
-VIII. Estudiar y coordinar, en su caso, las campañas publicitarias encaminadas a difundir los derechos y obligaciones de trabajadores y empresas que establece la Ley Federal del Trabajo en materia de empleo y capacitación, con la intervención que corresponda a la Dirección General de Comunicación Social;
-
-IX. Instruir a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo para que elaboren materiales de promoción y difusión relativos a su competencia;
-
-X. Coordinarse con el Servicio Nacional de Empleo y Capacitación para proporcionar la asesoría que permita la colocación adecuada de los trabajadores en el ámbito del Distrito Federal;
-
-XI. Auxiliar en el diseño e instrumentación de programas para la formación y capacitación laboral; y
-
-XII. Planear, organizar, fomentar y dirigir, como auxiliar de las autoridades federales, el empleo, la capacitación y el adiestramiento, así como la seguridad e higiene en los centros de trabajo en el ámbito de jurisdicción local.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
 ###### Artículo 48.
 
-Corresponde a la Procuraduría de la Defensa del Trabajo, además de las facultades que establece el Reglamento de la Procuraduría de la Defensa del Trabajo del Distrito Federal:
-
-I. Establecer medidas para prevenir y en su caso, conciliar los conflictos obrero-patronales;
-
-II. Asesorar y representar a los trabajadores en sus conflictos laborales y sus sindicatos en las revisiones y cumplimiento de los contratos colectivos, cuando éstos lo soliciten;
-
-III. Asesorar y en su caso representar a los trabajadores y a los sindicatos que lo soliciten en los asuntos y controversias que se relacionen con la aplicación de las normas de trabajo en el ámbito local;
-
-IV. Orientar y asesorar a los trabajadores y patrones, para las revisiones y cumplimientos de los contratos colectivos en el ámbito de su competencia;
-
-V. Promover políticas en coordinación con la Junta Local de Conciliación y Arbitraje en contra de las prácticas que promueven la existencia de contratos colectivos de protección;
-
-VI. Implementar políticas para la protección y mejoramiento de los derechos de los trabajadores asalariados;
-
-VII. Coadyuvar con la Junta Local de Conciliación y Arbitraje del Distrito Federal, en los acuerdos que ésta celebre para la aplicación eficiente de la justicia laboral, cuando así lo solicite;
-
-VIII. Denunciar en la vía correspondiente la falta o retención de pago de los salarios mínimos o del reparto de utilidades, interponiendo las acciones, recursos o gestiones encaminadas a subsanar dicha omisión;
-
-IX. Denunciar al pleno de la Junta Local de Conciliación y Arbitraje del Distrito Federal, los criterios contradictorios en que hayan incurrido las Juntas Especiales al pronunciar sus laudos, invitándolo a unificar el sentido de dichas decisiones para que haya congruencia entre ellas;
-
-X. Denunciar ante el Presidente de la Junta Local de Conciliación y Arbitraje, así como ante el Jurado de Responsabilidad de Representantes, el incumplimiento de los deberes de los funcionarios encargados de impartir la justicia laboral, para que aquellos procedan con arreglo a derecho;
-
-XI. Coordinar sus funciones con todas las autoridades laborales que en cada uno de los estados, así como con la Procuraduría Federal de la Defensa del Trabajo, a efecto de establecer criterios comunes para la defensa eficaz de los derechos de los trabajadores. Con ese objeto podrá celebrar convenios con dichas dependencias, respetando en cada caso sus respectivas esferas de competencia;
-
-XII. Dirigir y coordinar sus funciones, mediante la asignación de facultades a sus demás áreas administrativas y técnico-operativas cuando no estén asignadas a otras, por alguna disposición jurídica o administrativa; y
-
-XIII. Difundir ante los medios de comunicación, los derechos y obligaciones de los trabajadores asalariados, ofreciendo sus servicios de manera gratuita.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -1794,41 +1794,9 @@ XII. Elaborar estudios para realizar el diagnóstico de las necesidades de organ
 
 XIII. Analizar la problemática a la que se enfrenten los grupos y núcleos agrarios del Distrito Federal y emitir opinión sobre alternativas de solución.
 
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 48 Ter.
 
-Corresponde a la Coordinación General de Programas Metropolitanos:
-
-I. Acordar con el titular de la Secretaría de Gobierno, o en su caso con el Jefe de Gobierno, el despacho de los asuntos que guarden relación con los órganos político-administrativos, con los Gobiernos de las Entidades Federativas y los ayuntamientos que colindan con el Distrito Federal, en los asuntos que correspondan a su ámbito de competencia;
-
-II. Acordar con el Secretario de Gobierno, el despacho de los asuntos en materia de coordinación y planeación metropolitana, en lo referente a las comisiones metropolitanas y a los diversos mecanismos de coordinación con Gobiernos de las Entidades Federativas y Ayuntamientos que colindan con el Distrito Federal, asimismo, colaborar en la organización de reuniones del Jefe de Gobierno con los Titulares de los Gobiernos antes referidos;
-
-III. Mantener informado al Secretario de Gobierno, o en su caso al Jefe de Gobierno, del cumplimiento de los convenios suscritos por el Jefe de Gobierno, con Gobiernos de las Entidades Federativas que colindan con el Distrito Federal;
-
-IV. Participar en el diseño e instrumentación de la planeación metropolitana; así como participar en la elaboración del Programa General de Desarrollo del Distrito Federal, de los Programas Delegacionales y parciales de los Órganos Político-Administrativos, y de todos aquellos que contribuyan al desarrollo integral de la Ciudad de México como Unidad Metropolitana, en coordinación con las unidades administrativas competentes de la Administración Pública del Distrito Federal;
-
-V. Participar en las actividades materia de límites, en términos de lo dispuesto por las disposiciones jurídicas y administrativas aplicables y coadyuvar en los trabajos de amojonamiento y señalización de límites del Distrito Federal con las entidades federativas colindantes;
-
-VI. Representar a la Administración Pública del Distrito Federal, ante los diversos mecanismos de coordinación metropolitana, en términos de lo dispuesto por los respectivos convenios de creación;
-
-VII. En coordinación con los titulares de las dependencias respectivas y previa opinión del Secretario de Gobierno proponer al Jefe de Gobierno, la suscripción de convenios para la constitución, integración y funcionamiento (sic) comisiones metropolitanas, en las materias de asentamientos humanos; protección al ambiente, preservación y restauración del equilibrio ecológico; transporte y vialidad; agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos; seguridad pública y procuración de justicia; así como de aquellos otros que contribuyan al desarrollo de la Ciudad de México, con la participación que corresponda con la participación que corresponda (sic) a la federación y a los estados y municipios que colindan con el Distrito Federal;
-
-VIII. Promover la difusión de convenios que en materia de coordinación metropolitana suscriba el Jefe de Gobierno;
-
-IX. Promover y coordinar las relaciones institucionales de los órganos político-administrativos limítrofes con los Municipios de la Zona Metropolitana;
-
-X. Promover las relaciones de colaboración, y asistir como testigo de calidad en la suscripción de convenios, entre los Órganos Político-Administrativos y los Municipios limítrofes, de conformidad con las normas aplicables;
-
-XI. Promover y realizar estudios, y en su caso elaborar proyectos, para sustentar técnicamente la coordinación metropolitana, que propicien formas eficientes de coordinación con los distintos órdenes de gobierno que inciden en la Ciudad de México;
-
-XII. Promover la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana;
-
-XIII. Establecer y Coordinar el Sistema de Información y análisis de la problemática de la Zona Metropolitana del Distrito Federal;
-
-XIV. Promover la creación de fondos orientados al desarrollo de la Zona Metropolitana del Distrito Federal; y
-
-XV. Apoyar las tareas del consejo de población del Distrito Federal, en los términos de las disposiciones aplicables a la materia.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -1836,11 +1804,39 @@ Artículo 48 Cuater.- Corresponde al titular de la Coordinación General de Proy
 
 I. Establecer los enlaces institucionales entre las diferentes autoridades de la Administración Pública y los organismos empresariales, asociaciones religiosas y organizaciones sociales, para fortalecer las relaciones con la Administración Pública del Distrito Federal;
 
-II. Fortalecer los enlaces institucionales con las diferentes autoridades y coadyuvar con el gobierno federal, los gobiernos estatales, al desarrollo de programas especiales y estratégicos para dar seguimiento a los asuntos de carácter relevante;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+II. Fortalecer los enlaces institucionales con las diferentes autoridades y coadyuvar con el gobierno federal, al desarrollo de programas especiales y estratégicos para dar seguimiento a los asuntos de carácter relevante;
 
 III. Establecer una coordinación interinstitucional con las diversas dependencias de la Administración Pública del Distrito Federal y Órganos Desconcentrados, para el seguimiento de los asuntos de su competencia;
 
 IV. Establecer una relación interinstitucional para realizar el seguimiento de los proyectos estratégicos, con las dependencias que corresponda.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+Artículo 48 Quintus.- Coordinación General de Enlace Institucional con los Gobiernos de los Estados:
+
+I. Fortalecer los enlaces institucionales con las diferentes autoridades y coadyuvar con el gobierno federal, los gobiernos estatales, al desarrollo de programas especiales y estratégicos para dar seguimiento a los asuntos de carácter relevante;
+
+II. Llevar a cabo las acciones necesarias para la debida atención de los Gobernadores de los Estados en sus visitas al Jefe de Gobierno del Distrito Federal;
+
+III. Desempeñar las comisiones y funciones que el Jefe de Gobierno del Distrito Federal y el Secretario de Gobierno le confieran, comunicando el desarrollo y cumplimiento de las mismas;
+
+IV. Intervenir por acuerdo del Jefe de Gobierno del Distrito Federal en las comisiones, congresos, conferencias y exposiciones nacionales e internacionales y participar en los organismos e institutos en que el Gobierno del Distrito Federal forme parte e intervengan los gobiernos estatales;
+
+V. Proveer de información y análisis de los acontecimientos más importantes que sucedan en las entidades federativas, que tengan repercusión en el ámbito del Distrito Federal;
+
+VI. Promover a través de la vinculación institucional ante las instancias nacionales e internacionales, los programas y acciones de gobierno de la Ciudad de México para atraer inversiones que coadyuven al desarrollo de las zonas marginadas;
+
+VII. Coadyuvar con las dependencias y organismos auxiliares de la Administración Pública del Distrito Federal para establecer vínculos de cooperación con los representantes y las autoridades de los gobiernos de los estados;
+
+VIII. Proponer al titular del ejecutivo Estatal que se trate, los estudios y proyectos relativos al enlace institucional, con el propósito de priorizar la realización de programas y acciones que permitan mejorar las condiciones de vida de los sectores más desprotegidos;
+
+IX. Someter a consideración del Secretario de Gobierno la realización de programas de intercambio y fomento tecnológico y cultural en materia de administración pública con la federación, los estados y sus representaciones en el Distrito Federal;
+
+X. Llevar a cabo el seguimiento, análisis, opinión e informes de los diversos asuntos que se tratan en las comisiones de la Conferencia Nacional de Gobernadores;
+
+XI. Las demás que le confieran el Jefe de Gobierno y el Secretario de Gobierno del Distrito Federal.
 
 #### SECCION III
 
@@ -2680,119 +2676,49 @@ XIX. Llevar un registro de organizaciones relacionadas con la conservación y ap
 
 XX. Realizar y administrar el padrón de mascotas de especies silvestres y aves de presa en el Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
-Artículo 56 TER.- Corresponde a la Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural:
+###### Artículo 56 Ter.
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+Corresponde a la Dirección General de la Comisión de Recursos Naturales:
 
-I. Promover, fomentar, coordinar y ejecutar estudios y acciones en materia de protección, desarrollo, restauración y conservación de la flora y fauna silvestre, la vegetación natural o inducida, restauración y conservación del suelo, agua y otros recursos naturales en el suelo de conservación y áreas naturales protegidas;
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+I. Regular, promover, fomentar, coordinar y ejecutar estudios y acciones en materia de protección, desarrollo, restauración y conservación de los ecosistemas, la vegetación natural o inducida, restauración y conservación del suelo, agua y otros recursos naturales en el suelo de conservación y áreas naturales protegidas;
 
 II. Realizar los estudios para que la Secretaría del Medio Ambiente proponga al Jefe de Gobierno la creación y modificación de áreas naturales protegidas del Distrito Federal, no reservadas a la federación, así como llevar a cabo su administración y manejo;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
 III. Promover el establecimiento y administrar el sistema de Áreas Naturales Protegidas del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+IV. Promover y coordinar la participación de las instituciones científicas y académicas, así como de los sectores social y privado, en la realización de estudios y programas para la restauración ecológica, la protección, el fomento y manejo de los ecosistemas en suelo de conservación y las Áreas Naturales Protegidas del Distrito Federal;
 
-IV. Promover la participación de las instituciones científicas y académicas, así como de los sectores social y privado, en la realización de estudios y programas para la restauración ecológica, protección y manejo de los recursos naturales del Distrito Federal;
+V. Promover, coordinar y llevar a cabo, las acciones de conservación, protección, restauración y manejo de los ecosistemas del suelo de conservación y las Áreas Naturales Protegidas de la Ciudad de México, así como administrar y manejar los viveros forestales que correspondan al Distrito Federal;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-V. Promover y llevar a cabo en coordinación con los Órganos Político-Administrativos competentes, la reforestación del suelo de conservación del Distrito Federal y participar en la reforestación de su área de influencia ecológica, así como administrar y manejar los viveros forestales que correspondan al Distrito Federal;
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-VI. Promover y otorgar, en coordinación con las Dependencias competentes, asistencia técnica y cursos de capacitación, orientados a la protección, restauración y mejoramiento de los recursos naturales del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+VI. Promover y proporcionar, en coordinación con las dependencias competentes, asistencia técnica y cursos de capacitación, orientados a la protección, conservación, restauración y manejo de los ecosistemas en suelo de conservación y en las Áreas Naturales Protegidas;
 
 VII. Coadyuvar con la Dirección General de Zoológicos y Vida Silvestre en la elaboración y ejecución del Programa para la Conservación y Manejo de la Vida Silvestre del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+VIII. Participar en la formulación, ejecución, modificación o cancelación de los planes y programas de desarrollo urbano;
 
-VIII. Participar en la formulación, ejecución, modificación o cancelación de los planes y programas de desarrollo urbano, así como normar el uso, destino y construcciones en el suelo de conservación del Distrito Federal;
+IX. Participar con la Secretaría de Desarrollo Rural y Equidad para las Comunidades en el análisis de viabilidad de los proyectos productivos para asegurar el desarrollo rural sustentable;
 
-IX. (DEROGADA, G.O. 19 DE ENERO DE 2007)
+X. Establecer, aplicar y operar estrategias de conservación a través de la promoción, orientación y fomento de programas económicos y apoyos financieros-ambientales que estimulen la inversión y la creación de empleos en el suelo de conservación y en las Áreas Naturales Protegidas del Distrito Federal;
 
-X. (DEROGADA, G.O. 19 DE ENERO DE 2007)
+XI. Promover, estimular y realizar los estudios tendientes a lograr el desarrollo sustentable en el Suelo de Conservación y Áreas Naturales Protegidas del Distrito Federal;
 
-XI. (DEROGADA, G.O. 19 DE ENERO DE 2007)
+XII. Realizar análisis de viabilidad ambiental, sobre los proyectos productivos y de conservación que se generen en suelo de Conservación;
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+XIII. Promover y vigilar en coordinación con las autoridades competentes, el aprovechamiento sustentable de los recursos naturales en el Suelo de Conservación del Distrito Federal;
 
-XII. Promover, orientar y fomentar los programas económicos y apoyos financieros que estimulen la inversión y la creación de empleos en la zona rural del Distrito Federal, con apego a las normas ambientales y demás que resulten aplicables;
+XIV. Proponer y emitir opinión sobre la expedición de los permisos, autorizaciones y otros instrumentos jurídicos para el uso o aprovechamiento de espacios e infraestructura en suelo de conservación del Distrito Federal, en apego a la Ley del Régimen Patrimonial y del Servicio Público y demás ordenamientos jurídicos aplicables;
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+XV. Promover y realizar obras de infraestructura para el manejo de recursos naturales requeridas en suelo de conservación, así como celebrar los contratos y convenios necesarios para su ejecución;
 
-XIII. Promover, estimular y realizar los estudios tendientes a lograr el desarrollo y mejoramiento de las actividades agropecuarias en las zonas rurales del Distrito Federal;
+XVI. Recaudar, recibir y administrar de conformidad con los ordenamientos jurídicos que resulten aplicables, los ingresos que por concepto de productos y servicios se relacionen con las anteriores atribuciones;
 
-XIV. (DEROGADA, G.O. 19 DE ENERO DE 2007)
+XVII. Realizar estudios de diagnóstico y prospectivos sobre los ecosistemas atendiendo a su biodiversidad e integralidad, así como proponer estrategias de conservación de la biodiversidad en el suelo de conservación y en las Áreas Naturales Protegidas; y (sic)
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+XVIII. Participar en los procesos de regulación de uso y destino del territorio en suelo de conservación y Áreas Naturales Protegidas del Distrito Federal;
 
-XV. Proponer a la Secretaría del Medio Ambiente el establecimiento y conducir y coordinar los mecanismos de apoyo para actividad productiva del sector rural, incluyendo asesorías, asistencia técnica y capacitación;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XVI. Promover y fomentar la creación de centros de acopio de producción agrícola y centrales de abasto;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XVII. Promover y fomentar actividades agropecuarias a través de acciones y apoyos entre asociaciones, coinversiones, alianzas estratégicas y otros sectores productivos, con apego a las disposiciones ambientales y demás que resulten aplicables;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XVIII. Promover acciones conjuntas entre la Administración Pública, productores agropecuarios y centros de investigación, a fin de establecer proyectos competitivos;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XIX. Realizar análisis de viabilidad, sobre los proyectos productivos y de conservación que se generen en las zonas rurales;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XX. Coordinar la operación y aprovechamiento de los fondos que, en materia agropecuaria, se constituyan;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXI. Promover y fomentar la vinculación entre el productor rural y el sector comercial, comercio al detalle, así como la venta directa del productor rural al consumidor;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXII. Promover y fomentar la creación de empresas agroindustriales, ecoturísticas, artesanales, comerciales y de servicios en el Distrito Federal, así como el desarrollo de nuevas tecnologías de producción agropecuaria en el Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXIII. Promover y vigilar en coordinación con las autoridades competentes, el aprovechamiento sustentable de los recursos en las actividades agrícolas, pecuarias, apícolas y piscícolas, en coordinación con las autoridades competentes, de los recursos forestales e hidráulicos de la zona rural del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXIV. Promover la organización campesina e inducir la participación de los habitantes en programas agropecuarios, piscícolas y forestales, que fortalezcan la producción y su desarrollo, contribuyendo a evitar la expansión urbana en la zona rural del Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXV. Proponer a la titular de la Secretaría y al Jefe de Gobierno, la expedición de permisos, autorizaciones y otros instrumentos jurídicos para el uso o aprovechamiento de espacios e infraestructura en suelo de conservación, mediante los procedimientos que establece la Ley del Régimen Patrimonial y del Servicios (sic) Público y demás ordenamientos jurídicos aplicables;
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XXVI. Promover y realizar obras de infraestructura para el manejo de recursos naturales requeridas en suelo de conservación, así como celebrar los contratos y convenios necesarios para su ejecución;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXVII. Proponer y promover el establecimiento de políticas vinculadas a la actividad agropecuaria, piscícola y forestal en el Distrito Federal;
-
-> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
-
-XXVIII. Mantener las ciclovías en suelo de conservación;
-
-XXIX. (DEROGADA, G.O. 19 DE ENERO DE 2007)
-
-> <small>(ADICIONADA, G.O. 19 DE MAYO DE 2004)</small>
-
-XXX. Promover y realizar las obras de infraestructura requeridas, así como celebrar los contratos y convenios necesarios para su ejecución.
+XIX. Participar en la formulación de las políticas y programas que para el desarrollo, promoción y fomento del turismo alternativo en suelo de conservación del Distrito Federal establezcan las Secretarías de Turismo y de Desarrollo Rural y Equidad para las Comunidades.
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2860,11 +2786,15 @@ XX. Establecer y operar el sistema de inspección, seguridad y vigilancia de las
 
 > <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
 
-XXI. Promover y realizar las obras de infraestructura requeridas, para la conservación, preservación, mejoramiento, rehabilitación, desarrollo y funcionamiento de las áreas de valor ambiental y ciclovías en suelo urbano en coordinación con la autoridad competente y en el ámbito de sus respectivas competencias; y
+XXI. Promover y realizar las obras de infraestructura requeridas, para la conservación, preservación, mejoramiento, rehabilitación, desarrollo y funcionamiento de las áreas de valor ambiental y ciclovías en suelo urbano en coordinación con la autoridad competente y en el ámbito de sus respectivas competencias; y (sic)
 
-> <small>(ADICIONADA, G.O. 19 DE MAYO DE 2004)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXII. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
+XXII. Mantener las ciclovías en suelo de conservación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADO], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XXIII. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
 
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -2923,190 +2853,6 @@ XXV. Realizar la capacitación, certificación y acreditación de los inspectore
 XXVI. Realizar en coordinación con las autoridades competentes, las denuncias penales correspondientes;
 
 XXVII. Promover convenios de coordinación, colaboración y concertación que fortalezcan las actividades de vigilancia e inspección ambiental; y (sic)
-
-###### Artículo 56 Ter.
-
-Corresponde a la Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural:
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-I. Promover, fomentar, coordinar y ejecutar estudios y acciones en materia de protección, desarrollo, restauración y conservación de la flora y fauna silvestre, la vegetación natural o inducida, restauración y conservación del suelo, agua y otros recursos naturales en el suelo de conservación y áreas naturales protegidas;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-II. Realizar los estudios para que la Secretaría del Medio Ambiente proponga al Jefe de Gobierno la creación y modificación de áreas naturales protegidas del Distrito Federal, no reservadas a la federación, así como llevar a cabo su administración, manejo y vigilancia;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-III. Promover el establecimiento y administrar el sistema de áreas naturales protegidas y el sistema de información geográfica del suelo de conservación y áreas naturales protegidas del Distrito Federal; así como la realización y ejecución de los Programas coordinados con la Federación;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-IV. Promover la participación de las instituciones científicas y académicas, así como de los sectores social y privado, en la realización de estudios y programas para la restauración ecológica, la protección, el fomento y manejo de los recursos naturales del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-V. Promover y llevar a cabo en coordinación con los órganos Político-Administrativo competentes, la reforestación del suelo de conservación del Distrito Federal y participará en la reforestación de su área de influencia ecológica, así como administrar y manejar los viveros forestales que correspondan al Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-VI. Promover y otorgar, en coordinación con las dependencias competentes, asistencia técnica y cursos de capacitación, orientados a la protección, conservación, restauración y mejoramiento de los recursos naturales del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-VII. Proponer a la Secretaría del Medio Ambiente y ejecutar el programa para la conservación y manejo de la vida silvestre del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-VIII. Intervenir en la formulación, ejecución, modificación o cancelación de los planes y programas de desarrollo urbano, así como normar el uso, destino y construcciones del suelo de conservación del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
-
-IX. Proponer a la Secretaría del Medio Ambiente el establecimiento y operar el sistema de inspección y vigilancia de los recursos naturales y ciclovías en suelo de conservación y áreas naturales protegidas del Distrito Federal, así como ordenar y expedir la documentación para ejecutar las visitas y medidas de seguridad que corresponda, conforme a las disposiciones legales aplicables y sustanciar el procedimiento administrativo hasta su resolución;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-X. Proponer a la Secretaría del Medio Ambiente la elaboración, en coordinación con las autoridades competentes, del programa de ordenamiento ecológico del Distrito Federal y promover su incorporación a los programas de desarrollo urbano correspondientes;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XI. Vigilar el cumplimiento, en términos de las disposiciones jurídicas y administrativas aplicables, de la normatividad en materia de desarrollo y aprovechamiento de las áreas verdes y recursos naturales en suelo de conservación del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XII. Promover, orientar y fomentar los programas económicos y apoyos financieros que estimulen la inversión y la creación de empleos en la zona rural del Distrito Federal, con apego a las normas ambientales y demás que resulten aplicables;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XIII. Promover, estimular y realizar los estudios tendientes a lograr el desarrollo y mejoramiento de las actividades agropecuarias en las zonas rurales del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XIV. Promover programas de apoyo financiero que contribuyan a fomentar procesos de producción, distribución, transformación y comercialización, en coordinación con el sector agropecuario del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XV. Proponer a la Secretaría del Medio Ambiente el establecimiento y conducir y coordinar los mecanismos de apoyo para actividad productiva del sector rural, incluyendo asesorías, asistencia técnica y capacitación;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XVI. Promover y fomentar la creación de centros de acopio de producción agrícola y centrales de abasto;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XVII. Promover y fomentar actividades agropecuarias a través de acciones y apoyos entre asociaciones, coinversiones, alianzas estratégicas y otros sectores productivos, con apego a las disposiciones ambientales y demás que resulten aplicables;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XVIII. Promover acciones conjuntas entre la Administración Pública, productores agropecuarios y centros de investigación, a fin de establecer proyectos competitivos;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XIX. Realizar análisis de viabilidad, sobre los proyectos productivos y de conservación que se generen en las zonas rurales;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XX. Coordinar la operación y aprovechamiento de los fondos que, en materia agropecuaria, se constituyan;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXI. Promover y fomentar la vinculación entre el productor rural y el sector comercial, comercio al detalle, así como la venta directa del productor rural al consumidor;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXII. Promover y fomentar la creación de empresas agroindustriales, ecoturísticas, artesanales, comerciales y de servicios en el Distrito Federal, así como el desarrollo de nuevas tecnologías de producción agropecuaria en el Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXIII. Promover y vigilar en coordinación con las autoridades competentes, el aprovechamiento sustentable de los recursos en las actividades agrícolas, pecuarias, apícolas y piscícolas, en coordinación con las autoridades competentes, de los recursos forestales e hidráulicos de la zona rural del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXIV. Promover la organización campesina e inducir la participación de los habitantes en programas agropecuarios, piscícolas y forestales, que fortalezcan la producción y su desarrollo, contribuyendo a evitar la expansión urbana en la zona rural del Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXV. Promover y coordinar con instituciones vinculadas a actividades agropecuarias, las piscícolas y forestales, el desarrollo de cursos de capacitación a los productores rurales orientados a un mejoramiento de las actividades productivas rurales;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXVI. Promover y coordinar con las autoridades competentes, la formulación, diseño y ejecución de programas de desarrollo rural equitativo y sustentable en el Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXVII. Proponer y promover el establecimiento de políticas vinculadas a la actividad agropecuaria, piscícola y forestal en el Distrito Federal;
-
-> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
-
-XXVIII. Mantener las ciclovías en suelo de conservación;
-
-> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
-
-XXIX. Expedir permisos, autorizaciones o cualquier instrumento jurídico para el uso o aprovechamiento de dichos espacios e infraestructura en los términos y mediante los procedimientos que establece la Ley del Régimen Patrimonial y del Servicio Público y demás ordenamientos jurídicos aplicables;
-
-> <small>(ADICIONADA, G.O. 19 DE MAYO DE 2004)</small>
-
-XXX. Promover y realizar las obras de infraestructura requeridas, así como celebrar los contratos y convenios necesarios para su ejecución.
-
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Artículo 56 Cuater (sic).- Corresponde a la Dirección General de Bosques Urbanos y Educación Ambiental:
-
-> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
-
-I. Establecer en los términos y mediante los procedimientos que establecen las disposiciones jurídicas aplicables, los criterios y lineamientos para conservar, administrar y regular el uso, aprovechamiento, explotación y restauración de los recursos naturales e infraestructura de las áreas de valor ambiental, áreas verdes urbanas del Distrito Federal y ciclovías en suelo urbano;
-
-> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
-
-II. Formular y aplicar el programa de manejo de las áreas de valor ambiental y áreas verdes urbanas del Distrito Federal, bajo criterios de sustentabilidad y expedir los permisos, autorizaciones o cualquier instrumento jurídico que resulte aplicable para la realización de actividades de uso o aprovechamiento de los espacios, inmuebles y recursos de dichas áreas y de las ciclovías en suelo urbano, sin perjuicio de las licencias, autorizaciones o permisos que se requieran de otras autoridades. Asimismo, negar, revocar o cancelar los permisos, autorizaciones o instrumentos jurídicos que contravengan las disposiciones establecidas para tales efectos;
-
-> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
-
-III. Recaudar, recibir y administrar, de conformidad con los ordenamientos jurídicos que resulten aplicables, los ingresos que bajo los conceptos de uso, aprovechamiento, servicios de infraestructura y venta de planta, se perciban en las áreas de valor ambiental, áreas verdes urbanas, Museo de Historia Natural, Centros de Educación Ambiental, viveros y ciclovías en suelo urbano;
-
-> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
-
-IV. Fomentar y organizar la participación de los sectores público, social y privado, para el mantenimiento y conservación de las áreas de valor ambiental, áreas verdes urbanas, ciclovías en suelo urbano y el Museo de Historia Natural;
-
-V. Establecer los lineamientos para realizar las acciones de reforestación urbana en el Distrito Federal;
-
-VI. Emitir los lineamientos, así como autorizar las acciones de plantación, poda, derribo y transplante de especies vegetales de las áreas de valor ambiental y de áreas verdes urbanas del Distrito Federal;
-
-VII. Resguardar e incrementar el acervo del Museo de Historia Natural;
-
-VIII. Formular y aplicar las políticas de administración del Museo de Historia Natural;
-
-IX. Proyectar los trabajos de imagen urbana, mantenimiento, supervisión y vigilancia de las áreas de valor ambiental y de áreas verdes urbanas y recursos naturales localizados en la red vial primaria del Distrito Federal, así como en las alamedas y parques que por su belleza, valor cultural, histórico y ambiental requieren de cuidado y protección especial, en coordinación con las dependencias que resulten competentes en la materia;
-
-X. Elaborar proyectos para la creación, fomento y desarrollo de las áreas de valor ambiental y de las áreas verdes urbanas públicas del Distrito Federal, y coordinar la intervención de las autoridades competentes que se encuentren involucradas en su desarrollo;
-
-XI. Establecer los criterios para el desarrollo de la educación ambiental del Distrito Federal, incidiendo en el fomento de la cultura de conservación y cuidado de los recursos naturales, sobre todo en aquellos sectores sociodemográficos clave como son la población infantil y femenil;
-
-XII. Ampliar la cobertura de tramos de la población del Distrito Federal, con temas de educación y capacitación ambiental;
-
-XIII. Generar, sistematizar y difundir la información en materia de educación ambiental;
-
-XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir los contratos, convenios, acuerdos y demás actos jurídicos necesarios para el ejercicio de sus funciones;
-
-XV. Salvaguardar el patrimonio cultural, histórico, social, ambiental y educativo asignado a la Unidad;
-
-XVI. Elaborar, coordinar y ejecutar los trabajos de desarrollo de las áreas de valor ambiental y de las áreas verdes urbanas; y producir, suministrar, cultivar y vender especies arbóreas, arbustivas y ornamentales para suelo urbano, así como operar los programas de fomento, protección, conservación, aprovechamiento, poda, administración y cultivo de las áreas verdes urbanas del Distrito Federal y venta de plantas a instancias públicas, privadas y al público en general;
-
-XVII. Determinar y aplicar en conjunto con las demás autoridades competentes los programas y medidas para prevenir y controlar contingencias y emergencias ambientales, así como las de seguridad, en las áreas de valor ambiental;
-
-XVIII.- (DEROGADA, G.O. 3 DE MAYO DE 2006)
-
-XIX. Establecer los medios para reciclar y aprovechar los residuos vegetales que se generan de las actividades de producción y transformación pública o privada del Distrito Federal;
-
-XX. Establecer y operar el sistema de inspección, seguridad y vigilancia de las áreas de valor ambiental y de las áreas verdes urbanas del Distrito Federal; y (sic)
-
-> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
-
-XXI. Promover y realizar las obras de infraestructura requeridas, para la conservación, preservación, mejoramiento, rehabilitación, desarrollo y funcionamiento de las áreas de valor ambiental y ciclovías en suelo urbano en coordinación con la autoridad competente y en el ámbito de sus respectivas competencias; y
-
-> <small>(ADICIONADA, G.O. 19 DE MAYO DE 2004)</small>
-
-XXII. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
 
 #### SECCION VI
 
@@ -3236,21 +2982,7 @@ DE LA SECRETARIA DE DESARROLLO SOCIAL.
 
 ###### Artículo 61.
 
-Corresponde a la Dirección General de Asuntos Educativos:
-
-I. Promover, formular y ejecutar programas y acciones en materia educativa en el Distrito Federal;
-
-II. Coordinar, evaluar y apoyar la ejecución de programas y acciones educativas en el ámbito de competencia del Distrito Federal;
-
-III. Coordinar, normar y evaluar las acciones de mantenimiento de escuelas a cargo de la Administración Pública;
-
-IV. Coordinar y fomentar la participación de las instituciones de educación básica, media superior y superior en el desarrollo de programas y actividades en beneficio de los habitantes de la Ciudad de México, que induzcan a un mejor desarrollo humano, tecnológico y científico;
-
-V. Desarrollar e instrumentar modelos alternativos de educación que contribuyan a mejorar los servicios educativos locales y ampliar la oferta de los mismos;
-
-VI. Formular propuestas para preparar la descentralización de la educación pública básica; y
-
-VII. Supervisar la entrega de libros de texto gratuito a las secundarias públicas del Distrito Federal.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
 ###### Artículo 62.
 
@@ -3296,27 +3028,29 @@ V. Prestar asesoría telefónica a personas con problemas de toxicología, urgen
 
 VI. Participar en coordinación con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, en la atención a la población del área metropolitana y zonas conurbadas en casos de emergencia o desastre.
 
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 64 Ter.
 
 Corresponde a la Dirección General del Instituto del Deporte del Distrito Federal:
 
-I. Proponer y ejecutar programas para la organización, fomento, difusión y evaluación de las actividades físicas, deportivas y de recreación en coordinación con los Órganos Político-Administrativos;
+I. Proponer y ejecutar programas para la organización, fomento, difusión y evaluación de las actividades deportivas y de recreación en coordinación con los Órganos Político-Administrativos;
 
-II. Promover la práctica del deporte, y las actividades físicas y recreativas de los habitantes del Distrito Federal, poniendo énfasis en los siguientes grupos prioritarios: mujeres, jóvenes, niños y niñas, población indígena, adultos mayores y personas con discapacidad;
+II. Proponer a la Secretaría de Educación, programas y actividades para la organización, fomento, difusión y evaluación de las actividades físicas que se imparten en los centros escolares del Distrito Federal;
 
-III. Elaborar y difundir las normas técnico-pedagógicas, programas y métodos educativos para el desarrollo del deporte, actividad física y recreación en el Distrito Federal;
+III. Promover la práctica del deporte, y las actividades físicas y recreativas de los habitantes del Distrito Federal, poniendo énfasis en los siguientes grupos prioritarios: mujeres, jóvenes, niños y niñas, población indígena, adultos mayores y personas con discapacidad;
 
-IV. Formular los lineamientos de operación de las instalaciones deportivas del Distrito Federal y coordinar con los Órganos Político-Administrativos y los sectores público, social y privado, el sistema de deporte del Distrito Federal;
+IV. Elaborar y difundir las normas técnicas, programas y métodos para el desarrollo del deporte comunitario, actividad física y recreación en el Distrito Federal;
 
-V. Organizar, promover y difundir eventos y actividades deportivas;
+V. Formular los lineamientos de operación de las instalaciones deportivas del Distrito Federal y coordinar con los Órganos Político-Administrativos y los sectores público, social y privado, el sistema de deporte del Distrito Federal;
 
-VI. Colaborar con las autoridades competentes en la elaboración y actualización de los ordenamientos jurídicos y administrativos que regulen el funcionamiento de las academias o escuelas que proporcionan servicios de instrucción, actualización y especialización deportiva, así como valorar la idoneidad de sus instructores;
+VI. Organizar, promover y difundir eventos y actividades deportivas;
 
-VII. Coordinarse en materia deportiva con las dependencias y entidades paraestatales de la Administración Pública Federal y de otras entidades federativas, dentro de sus respectivos ámbitos de competencia y de acuerdo con las normas jurídicas y administrativas aplicables;
+VII. Colaborar con las autoridades competentes en la elaboración y actualización de los ordenamientos jurídicos y administrativos que regulen el funcionamiento de agrupaciones que desarrollan servicios de instrucción, actualización y especialización deportiva, así como valorar la idoneidad de sus instructores;
 
-VIII. Promover programas y ejecutar acciones para captar recursos financieros y materiales que estimulen la participación y cooperación social de los habitantes del Distrito Federal en favor de la práctica de actividades físicas, deportivas y de recreación de acuerdo con las normas jurídicas y administrativas aplicables; y
+VIII. Coordinarse en materia deportiva con las dependencias y entidades paraestatales de la Administración Pública Local y Federal, así como de otras entidades federativas, dentro de sus respectivos ámbitos de competencia y de acuerdo con las normas jurídicas y administrativas aplicables;
+
+IX. Promover programas y ejecutar acciones para captar recursos financieros y materiales que estimulen la participación y cooperación social de los habitantes del Distrito Federal en favor de la práctica de actividades físicas, deportivas y de recreación de acuerdo con las normas jurídicas y administrativas aplicables; y
 
 IX. Promover y apoyar a los jóvenes que muestren el mayor talento deportivo para alcanzar los niveles de excelencia en el deporte.
 
@@ -3580,7 +3314,9 @@ DE LA SECRETARIA DE FINANZAS.
 
 Corresponde a la Dirección General de Política Presupuestal:
 
-I. Emitir las normas y lineamientos que deberán observar las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública para la formulación del Programa Operativo de la Administración Pública del Distrito Federal, los programas operativos anuales, así como para la elaboración del Proyecto del Presupuesto de Egresos de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+I. Emitir las normas y lineamientos que deberán observar las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública para la formulación del Programa Operativo de la Administración Pública del Distrito Federal, los programas operativos anuales, así como para la elaboración del Proyecto del Presupuesto de Egresos de la Administración Pública del Distrito Federal;
 
 II. Integrar el Programa Operativo de la Administración Pública del Distrito Federal y el anteproyecto del Presupuesto de Egresos de la Administración Pública del Distrito Federal y someterlos a la consideración del superior;
 
@@ -3588,133 +3324,203 @@ III. Vincular el Presupuesto de Egresos con los objetivos contenidos en el Progr
 
 IV. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-V. Recibir, analizar y en su caso, autorizar las adecuaciones programático presupuestales líquidas solicitadas por las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública de acuerdo a la normatividad aplicable;
+V. Analizar y en su caso, autorizar y registrar las adecuaciones programático presupuestales líquidas solicitadas por las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública en los sistemas de control presupuestario;
 
-VI. Someter a consideración del superior, las autorizaciones del programa de inversión de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública; así como las autorizaciones previas y aquellas que comprendan más de un ejercicio;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-VII. Integrar y someter a consideración del superior el calendario del ejercicio del presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
+VI. Someter a consideración del superior, las autorizaciones del programa de inversión de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública; así como las autorizaciones previas y aquellas que comprendan más de un ejercicio;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+VII. Integrar y someter a consideración del superior el calendario presupuestal de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades, considerando la capacidad financiera de la Hacienda Pública del Distrito Federal;
 
 VIII. Autorizar, en su caso, las previsiones de gasto de acuerdo a la normatividad aplicable;
 
-IX. Integrar la información programático-presupuestal para su envío a las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, a fin de que se realicen las conciliaciones respectivas, previo a la elaboración de los informes de gestión que les sean requeridos;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-X. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
+IX. Integrar la información programático-presupuestal para su envío a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública, a fin de que se realicen las conciliaciones respectivas, previo a la elaboración de los informes de gestión que les sean requeridos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+X. Emitir opinión sobre el impacto presupuestal de los proyectos de iniciativas de leyes o Decretos que formulen las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades, cuando éstos incidan en materia de gasto;
 
 XI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 69.
 
-Corresponde a la Dirección General de Contabilidad, Normatividad e Integración de Documentos de Rendición de Cuentas:
+Corresponde a la Dirección General de Contabilidad, Normatividad y Cuenta Pública:
 
-I. Integrar la información programático-presupuestal para la elaboración del Informe de Avance sobre la ejecución y cumplimiento de los presupuestos y programas aprobados y someterlo a la consideración del superior;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2003)</small>
+I. Normar e integrar la información programático-presupuestal remitida por las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, para la elaboración del Informe de Avance Trimestral, sobre la ejecución y cumplimiento de los presupuestos y programas aprobados y someterlo a la consideración del superior;
 
-II. Actualizar y difundir el Manual de Normas y Procedimientos para el Ejercicio Presupuestal de la Administración Pública del Distrito Federal, así como el Clasificador por Objeto del Gasto;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-III. Llevar el registro contable de la Administración Pública Centralizada e integrar el relativo a la Administración Pública Paraestatal del Distrito Federal, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia;
+II. Actualizar y difundir el Manual de Normas y Procedimientos Presupuestarios para la Administración Pública del Distrito Federal, así como el Clasificador por Objeto del Gasto;
 
-IV. Aplicar las normas de carácter general y específicas, así como lineamientos y metodologías en materia de contabilidad gubernamental;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-V. Instrumentar la normatividad e integrar la evaluación del ejercicio del gasto de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
+III. Efectuar el registro contable de la Administración Pública Centralizada de conformidad con la Normatividad Contable de la Administración Pública del Distrito Federal e integrar el relativo a la Administración Pública Paraestatal del Distrito Federal;
 
-VI. Normar, coordinar e integrar la información programático, presupuestal y financiera para efectos de la Cuenta Pública del Distrito Federal y someterla a la consideración del superior;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2003)</small>
+IV. Emitir, actualizar, difundir y aplicar la Normatividad Contable de la Administración Pública del Distrito Federal;
 
-VII. Normar, coordinar, integrar y recabar de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, la documentación programático-presupuestal necesaria para la integración del Informe de Avance sobre la ejecución y cumplimiento de los presupuestos y programas aprobados, y someterlo a la consideración del superior;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2003)</small>
+V. Instrumentar la normatividad e integrar la evaluación del ejercicio del gasto de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública;
 
-VIII. Recabar de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública la documentación necesaria para la integración de la Cuenta Pública del Distrito Federal, conforme a la normatividad y plazos establecidos, y
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-IX. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+VI. Normar e integrar la información programático (sic), presupuestal, contable y financiera de las Dependencias, Delegaciones, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, para efectos de la Cuenta Pública del Distrito Federal y someterla a consideración del superior;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE AGOSTO DE 2003)</small>
+VII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
+
+VIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+IX. Integrar los Estados Financieros y demás información financiera, presupuestal y contable que emane de los registros de los órganos a los que se refiere el artículo 448 del Código Financiero, para efectos de la Integración de la Cuenta Pública del Distrito Federal y someterla a consideración del superior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+X. Integrar la información sobre el avance programático-presupuestal que remitan los órganos a los que se refiere el artículo 448 del Código Financiero, para efectos de la Integración del Informe de Avance Trimestral y someterla a consideración del superior, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 70.
 
-Corresponde a la Dirección General de Egresos de Desarrollo Sustentable y Servicios:
+Corresponde a la Dirección General de Egresos A, en el ámbito de Desarrollo Urbano, Medio Ambiente, Desarrollo Rural, Obras, Transportes, Desarrollo Social, Salud y Servicios:
 
 I. Asesorar y apoyar a las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública en la formulación e instrumentación de sus programas y presupuestos;
 
-II. Integrar el Programa Operativo de la Administración Pública del Distrito Federal y el anteproyecto del Presupuesto de Egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-III. Recabar de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, sus anteproyectos de presupuestos de egresos, de acuerdo con la normatividad aplicable;
+II. Recabar e Integrar el Programa Operativo de la Administración Pública del Distrito Federal;
 
-IV. Dar seguimiento al ejercicio del programa operativo anual, vigilando que las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública se apeguen al Presupuesto de Egresos del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+III. Recabar e Integrar de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública sus programas operativos anuales y anteproyectos de presupuestos de egresos, de acuerdo con la normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+IV. Analizar el comportamiento del ejercicio del presupuesto autorizado a las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, para generar informes que coadyuven en la toma de decisiones;
 
 V. Vincular el Presupuesto de Egresos con los objetivos del Programa General de Desarrollo del Gobierno del Distrito Federal y del Programa Operativo de la Administración Pública del Distrito Federal;
 
-VI. Recibir, analizar y, en su caso, autorizar las adecuaciones programático-presupuestales solicitadas por las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, de acuerdo a la normatividad aplicable;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-VII. Integrar los proyectos de calendarios del ejercicio del presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, con apego a las disposiciones aplicables;
+VI. Analizar y, en su caso, autorizar las adecuaciones programático-presupuestales compensadas solicitadas por las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, de acuerdo a la normatividad aplicable;
 
-VIII. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-IX. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
+VII. Integrar los proyectos de calendarios presupuestales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, con apego a las disposiciones aplicables;
 
-X. Integrar el registro y llevar el control del ejercicio presupuestal, de conformidad con las normas y procedimientos que definan las leyes, reglamentos y disposiciones aplicables en la materia, con base en la calendarización establecida de las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o deuda pública;
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XI. Evaluar los resultados del ejercicio del presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, en función de los objetivos y acciones institucionales de gasto público y los programas de mediano plazo y anuales;
+VIII. Registrar el ejercicio presupuestal del Distrito Federal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y con base en la calendarización de los diferentes capítulos del gasto y la información consignada en los documentos programático-presupuestales formulados y autorizados por las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
 
-XII. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, dentro de los plazos que establece la normatividad aplicable;
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XIII. Integrar el monto y características del pasivo circulante del año inmediato anterior, de acuerdo a la normatividad aplicable, a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública y, en caso de ser procedente, autorizar su pago;
+IX. Evaluar los resultados del ejercicio del presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, en función de los programas, objetivos y actividades institucionales previstas en el presupuesto de egresos;
 
-XIV. Participar en los órganos de gobierno de las Entidades de la Administración Pública del Distrito Federal y en los Comités de Control y Evaluación, respecto de la aplicación de la normatividad relacionada, con aspectos programáticos, presupuestales y financieros;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+X. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, dentro de los plazos que establece la normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XI. Recabar e integrar el monto y características del pasivo circulante del año inmediato anterior a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública de acuerdo a la normatividad aplicable e incorporarlo al registro presupuestal;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XII. Participar en los órganos colegiados, y órganos de gobierno de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y entidades de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos programático-presupuestales;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XIII. Proponer y, en su caso, opinar sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCION XVIII], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XIV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
 XV. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
 
 XVI. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
 
-XVII. Administrar y proporcionar las prestaciones económicas o en servicios destinadas al personal;
+XVII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XVIII. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 71.
 
-Corresponde a la Dirección General de Egresos de Administración y Gobierno:
+Corresponde a la Dirección General de Egresos B, en el ámbito de Administración y Gobierno:
 
 I. Asesorar y apoyar a las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública en la formulación e instrumentación de sus programas y presupuestos;
 
-II. Integrar el Programa Operativo de la Administración Pública del Distrito Federal y el anteproyecto del Presupuesto de Egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-III. Recabar de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública sus anteproyectos de presupuestos de egresos, de acuerdo con la normatividad aplicable;
+II. Recabar e Integrar el Programa Operativo de la Administración Pública del Distrito Federal;
 
-IV. Dar seguimiento al ejercicio del programa operativo anual, vigilando que las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública se apeguen al Presupuesto de Egresos del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+III. Recabar e Integrar de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública sus programas operativos anuales y anteproyectos de presupuestos de egresos, de acuerdo con la normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+IV. Analizar el comportamiento del ejercicio del presupuesto autorizado a las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, para generar informes que coadyuven en la toma de decisiones;
 
 V. Vincular el Presupuesto de Egresos con los objetivos del Programa General de Desarrollo del Gobierno del Distrito Federal y del Programa Operativo de la Administración Pública del Distrito Federal;
 
-VI. Recibir, analizar y, en su caso, autorizar las adecuaciones programático-presupuestales solicitadas por las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, de acuerdo a la normatividad aplicable;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-VII. Integrar los proyectos de calendarios del ejercicio del presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, con apego a las disposiciones aplicables;
+VI. Analizar y, en su caso, autorizar las adecuaciones programático-presupuestales compensadas solicitadas por las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, de acuerdo a la normatividad aplicable;
 
-VIII. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-IX. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
+VII. Integrar los proyectos de calendarios presupuestales de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, con apego a las disposiciones aplicables;
 
-X. Integrar el registro y llevar el control del ejercicio presupuestal, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, con base en la calendarización establecida de las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o deuda pública;
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XI. Evaluar los resultados del ejercicio del presupuesto de egresos de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, en función de los objetivos y acciones institucionales de gasto público y los programas de mediano plazo y anuales;
+VIII. Registrar el ejercicio presupuestal del Distrito Federal en los sistemas establecidos, de conformidad con las normas y procedimientos que definen las leyes, reglamentos y disposiciones aplicables en la materia, y con base en la calendarización de los diferentes capítulos del gasto y la información consignada en los documentos programático-presupuestales formulados y autorizados por las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública;
 
-XII. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, dentro de los plazos que establece la normatividad aplicable;
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XIII. Integrar el monto y características del pasivo circulante del año inmediato anterior, de acuerdo a la normatividad aplicable, a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública y, en caso de ser procedente, autorizar su pago;
+IX. Evaluar los resultados del ejercicio del presupuesto de egresos de las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, en función de los objetivos y actividades institucionales previstas en el presupuesto de egresos;
 
-XIV. Participar en los órganos de gobierno de las Entidades de la Administración Pública del Distrito Federal y en los Comités de Control y Evaluación, respecto de la aplicación de la normatividad relacionada con aspectos programáticos, presupuestales y financieros;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+X. Efectuar las conciliaciones programático-presupuestales mensuales con las Dependencias, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública, dentro de los plazos que establece la normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XI. Recabar e integrar el monto y características del pasivo circulante del año inmediato anterior a cargo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública de acuerdo a la normatividad aplicable e incorporarlo al registro presupuestal;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XII. Participar en los órganos colegiados, y órganos de gobierno de las Entidades, Dependencias, Unidades Administrativas, Órganos Desconcentrados y Delegaciones de la Administración Pública, atendiendo la aplicación de la normatividad relacionada con aspectos programático-presupuestales;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XIII. Proponer y, en su caso, opinar sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos, y
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XIV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
 XV. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
 
-XVI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+> <small>N. DE E. LA PRESENTE FRACCION NO FUE CONSIDERADA EN LA REFORMA PUBLICADA EN LA G.O. DE 28 DE FEBRERO DE 2007, MOTIVO POR EL CUAL SE DEJA EL TEXTO DE LA MISMA.</small>
+
+XVI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia. (sic)
 
 ###### Artículo 72.
 
@@ -3950,6 +3756,32 @@ XII. Verificar la aplicación de los manuales administrativos; e
 
 XIII. Informar a la Procuraduría Fiscal del Distrito Federal, los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales.
 
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+###### Artículo 78 Bis.
+
+Corresponde a la Dirección de Modernización Tributaria:
+
+I. Planear y dirigir la operación de los Centros de Servicios de Tesorería;
+
+II. Evaluar los informes electrónicos o documentales de trámites realizados en los centros de servicio de Tesorería, a fin de llevar un control sobre la operación de los mismos;
+
+III. Establecer los mecanismos de supervisión en los Centros de Servicios de Tesorería a efecto de asegurar la calidad del servicio al contribuyente;
+
+IV. Implementar sistemas de mejora continua en la prestación de los trámites efectuados en los Centros de Servicios de Tesorería;
+
+V. Planear y desarrollar proyectos relacionados con la optimización y eficiencia tributaria.
+
+Coordinar estudios sobre los procesos recaudatorios;
+
+VI. Informar a la Procuraduría Fiscal del Distrito Federal o a cualquier otra que resulte competente de conformidad con los convenios que se suscriban en materia fiscal federal de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
+
+VII. Establecer mecanismos de atención a las quejas y sugerencia (sic) presentadas por los contribuyentes, y darles seguimiento hasta su resolución;
+
+VIII. Expedir copias certificadas de la documentación que obre en los expedientes que integren sus archivos; y
+
+IX. Las demás facultades que le señalen las disposiciones legales y reglamentarias; las que le sean conferidas por sus superiores jerárquicos, así como las que correspondan a las Unidades Administrativas que le sean adscritas.
+
 ###### Artículo 79.
 
 Corresponde a las Coordinaciones de Operación Regional Tributaria:
@@ -4174,45 +4006,43 @@ XVIII. Ordenar y practicar la verificación física de los inmuebles, a efecto d
 
 XIX. Realizar estudios técnicos a efecto de identificar y determinar las zonas de beneficio por obras públicas proporcionadas por las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública y determinar el monto de las contribuciones de mejoras, atendiendo a la ubicación de los inmuebles en dichas zonas, en términos de lo establecido en el Código Financiero del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 87.
 
 Corresponde a la Dirección General de Informática:
 
-I. Someter a consideración superior los programas y proyectos que permitan el desarrollo informático y de telecomunicaciones en la Secretaría de Finanzas;
+I. Elaborar programas y proyectos que permitan el desarrollo de Tecnologías y Sistemas de Información en la Secretaría de Finanzas;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+II. Establecer la normatividad que regule la función informática en la Secretaría de Finanzas, así como la referente al acceso a los servicios informáticos, a las políticas de respaldo y recuperación de la información, a la protección de los equipos de cómputo centrales, locales y a los sistemas de información e infraestructura informática;
 
-II. Establecer la normatividad que regule la función informática en la Secretaría de Finanzas, así como la referente al acceso a los servicios informáticos, a la protección de los equipos de cómputo centrales, locales y a los sistemas de telecomunicaciones e infraestructura;
+III. Participar en la definición de criterios y estrategias de desarrollo de los sistemas de intercomunicación entre los diferentes puntos de intercambio de información de la Secretaría y los de la Administración Pública del Distrito Federal y Gobierno Federal;
 
-III. Participar en la definición de criterios y estrategias de desarrollo de los sistemas de intercomunicación entre los centros de cómputo de la Secretaría y los de la Administración Pública del Distrito Federal y la Federal;
+IV. Diseñar, establecer e implementar los criterios informáticos de los sistemas de información solicitados por las áreas de la Secretaría de Finanzas, así como efectuar el mantenimiento de los mismos conforme a los programas autorizados y en atención a los requerimientos de los usuarios;
 
-IV. Coordinar los sistemas de información, su desarrollo y efectuar el mantenimiento de los mismos conforme a los programas autorizados y en atención a los requerimientos de los usuarios;
+V. Establecer las metodologías para el control de proyectos, la supervisión del avance de los mismos, así como la normatividad que regule el desarrollo e implantación de sistemas y tecnologías de información en la Secretaría de Finanzas;
 
-V. Establecer las metodologías de control de programas y proyectos, así como la supervisión del avance de los mismos;
+VI. Mantener actualizados los sistemas de información de la Secretaría de Finanzas para asegurar su integridad, uniformidad y auditabilidad;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+VII. Mantener un programa de modernización continua de la Secretaría de Finanzas, en el ámbito de la plataforma tecnológica, acorde a los avances tecnológicos;
 
-VI. Mantener actualizados los sistemas y bases de datos de la Secretaría de Finanzas para asegurar la integridad, uniformidad y auditabilidad de los mismos;
+VIII. Proponer, asesorar y apoyar a las áreas de la Secretaría de Finanzas en el establecimiento de medidas que permitan impulsar la aplicación de tecnologías de la información;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+IX. Analizar y evaluar las propuestas de adquisición, arrendamiento y prestación de servicios que le sean turnadas por las diversas Unidades Administrativas y de Apoyo Técnico Operativo de la Secretaría, en materia de tecnología de información;
 
-VII. Mantener actualizado en la Secretaría de Finanzas, el sistema de telecomunicaciones, así como las redes locales y la infraestructura acorde a los avances tecnológicos;
+X. Representar a la Secretaría de Finanzas, en los Comités Centrales de Informática y de Telecomunicaciones del Gobierno del Distrito Federal;
 
-VIII. Ordenar la revisión de la función informática de la Secretaría de Finanzas, particularmente de la Tesorería del Distrito Federal, y definir e instrumentar los mecanismos de protección y seguridad de los equipos de cómputo como de la información contenida en ellos, incluyendo sistemas, programas y equipos auxiliares e Infraestructura de la Red de Comunicaciones, así como de recuperación de información contenida en medios magnéticos;
+XI. Acreditar a los enlaces informáticos y coordinar las actividades informáticas de los mismos en las diferentes áreas de la Secretaría de Finanzas;
 
-IX. Proponer, asesorar y apoyar en el establecimiento de medidas que permitan impulsar la aplicación de tecnología de la información;
+XII. Planear y coordinar con las áreas correspondientes de la Secretaría de Finanzas las medidas para evaluar el proceso de desarrollo y mantenimiento de sistemas, así como la integridad de los sistemas de información;
 
-X. Participar en el Subcomité de Adquisiciones, Arrendamientos y Servicios;
+XIII. Establecer los mecanismos que garanticen la disponibilidad e integridad de la información de los medios de publicación en Internet de la Secretaría de Finanzas;
 
-XI. Analizar y evaluar las propuestas de adquisición, arrendamiento y prestación de servicios que le sean turnadas por las diversas Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo de la Secretaría, en materia de informática y de telecomunicaciones; y
+XIV. Planear y supervisar el Programa de Capacitación Informática para el personal de la Secretaría de Finanzas;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+XV. Revisar el cumplimiento de función informática de la Secretaría de Finanzas y definir e instrumentar los mecanismos de protección y seguridad de la infraestructura tecnológica y sistemas de información;
 
-XII. Representar a la secretaría de Finanzas, en los Comités Centrales de Informática y de Telecomunicaciones del Gobierno del Distrito Federal; y
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XIII. Nombrar y coordinar a todos y cada uno de los enlaces informáticos de las diferentes áreas de la Secretaría de Finanzas.
+XV (sic). Definir y establecer los criterios de operación informática que garanticen la integridad, seguridad y uniformidad en los sistemas de información involucrados en los procesos de recaudación del Gobierno del Distrito Federal.
 
 ###### Artículo 88.
 
@@ -4223,6 +4053,10 @@ I. Acordar con el Procurador Fiscal los asuntos de su competencia;
 > <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
 
 II. Emitir las opiniones jurídicas y desahogar las consultas de los contribuyentes y de la Administración Pública del Distrito Federal en materia fiscal, y respecto de las reducciones fiscales competencia de la Procuraduría Fiscal del Distrito Federal, así como recibir y tramitar las solicitudes de disminuciones de montos de créditos fiscales correspondientes;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+II BIS. Estudiar y opinar sobre los aspectos jurídicos de los proyectos de acuerdo o convenios de coordinación en materia fiscal federal y sobre la legislación referente al Sistema Nacional de Coordinación Fiscal, así como de sus respectivos anexos, declaratorias y demás disposiciones relativas a esta materia;
 
 III. Emitir resoluciones a peticiones y consultas que formulen los contribuyentes en materia fiscal;
 
@@ -4258,11 +4092,15 @@ I. Acordar con el Procurador Fiscal los asuntos de su competencia;
 
 II. Representar en toda clase de juicios, incluyendo el de amparo, los intereses de la Hacienda Pública del Distrito Federal en materia de contribuciones locales, formulando la contestación de las demandas que se tramiten en el Tribunal de lo Contencioso Administrativo del Distrito Federal, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, autorizar delegados e incluso allanarse a las demandas, así como intervenir en los casos en que el crédito fiscal esté controvertido. Asimismo, formular y presentar las demandas para solicitar la nulidad de las resoluciones favorables a los particulares, actuar en los juicios de amparo relacionados, y realizar los demás actos procesales correspondientes;
 
-III. Representar el interés de la Hacienda Pública del Distrito Federal en las controversias fiscales, a excepción de las que se susciten con motivo de los ingresos federales coordinados, en toda clase de juicios, investigaciones o procedimientos, incluyendo el de amparo, ante los tribunales del Distrito Federal, federales o de otras entidades federativas; ejecutar las acciones, excepciones y defensas, promover incidentes, interponer recursos, formular alegatos y desahogo de vista y autorizar delegados, así como los demás actos procesales correspondientes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+III. Representar el interés de la Hacienda Pública del Distrito Federal en todos los juicios que se susciten con motivo de las atribuciones delegadas a la Administración Pública del Distrito Federal en los Acuerdos o convenios de coordinación fiscal suscritos por el Ejecutivo Federal, formular las contestaciones de demandas ante el Tribunal Federal de Justicia Fiscal y Administrativa, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, presentar promociones de trámite, autorizar delegados e incluso allanarse a las demandas, formular demandas para solicitar la nulidad de resoluciones favorables a los particulares y actuar en los juicios de amparo relacionados con aquéllas, así como realizar los demás actos procesales que correspondan, sin perjuicio de la intervención que corresponda a la Secretaría (sic) Hacienda y Crédito Público; así como, en general representar el interés de la Hacienda Pública del Distrito Federal en las controversias fiscales en toda clase de juicios, investigaciones o procedimientos, incluyendo el de amparo, ante los Tribunales del Distrito Federal, Federales o de otras entidades federativas; ejecutar las acciones, excepciones y defensas, promover incidentes, interponer recursos, formular alegatos y desahogo de vista y autorizar delegados, así como los demás actos procesales correspondientes, conforme a las leyes y ordenamientos aplicables, mismos que incluso pueden ser conferidos a los interiores jerárquicos;
 
 IV. Intervenir cuando la Secretaría de Finanzas tenga el carácter de tercero perjudicado en los juicios de amparo;
 
-V. Elaborar y proponer los informes previos y justificados en materia de amparo que deban rendir el Jefe de Gobierno, el Secretario de Finanzas, así como los servidores públicos que tengan el carácter de autoridades fiscales conforme al Código Financiero del Distrito Federal, en asuntos competencia de los mismos, de los recursos que procedan en los juicios de amparo, y realizar todas las promociones que en dichos juicios se requieran;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+V. Elaborar y proponer los informes previos y justificados, en materia de amparo, que deban rendir el Jefe de Gobierno, el Secretario de Finanzas, así como los servidores públicos que tengan el carácter de autoridades fiscales conforme al Código Financiero del Distrito Federal en los Juicios de Amparo presentados en contra de los actos de las autoridades fiscales del Distrito Federal relativos a la aplicación de leyes fiscales federales, en asuntos competencia de los mismos, de los recursos que procedan en los juicios de amparo, y realizar todas las promociones que en dichos juicios se requieran conforme a las leyes y ordenamientos aplicables, mismas que incluso pueden ser conferidas a los inferiores jerárquicos;
 
 VI. Interponer ante la Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal, recursos en contra de las resoluciones de sus Salas que decreten o nieguen el sobreseimiento, las que resuelvan el juicio o la cuestión planteada en el fondo y las que pongan fin al procedimiento;
 
@@ -4270,11 +4108,25 @@ VII. Interponer ante el Tribunal Colegiado de Circuito, el recurso de revisión 
 
 VIII. Informar a la Secretaría de Finanzas y a la Tesorería del Distrito Federal, así como a las Unidades Administrativas de las mismas, respecto de las resoluciones de los tribunales administrativos y judiciales, locales y federales sobre los asuntos de su competencia;
 
-IX. Vigilar el cumplimiento de las sentencias pronunciadas por los tribunales locales o federales en relación con los juicios promovidos por los actos o resoluciones de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo del Distrito Federal en materia fiscal;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-X. Expedir copias certificadas de los documentos que obren en sus archivos sobre asuntos de su competencia, y de aquellos que expidan en el ejercicio de sus funciones, los servidores públicos que les estén subordinados; y
+IX. Vigilar el cumplimiento de las sentencias pronunciadas por los Tribunales Locales o Federales en relación con los juicios promovidos por los actos o resoluciones de las Unidades Administrativas y Unidades Administrativas de apoyo técnico-operativo del Distrito Federal en materia fiscal local y federal que le sean propias;
 
-XI. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+X. Conforme a las leyes y ordenamientos aplicables, solicitar a las Unidades Administrativas de Apoyo Técnico Operativo de la Secretaría de Finanzas y de la Tesorería, los informes y actuaciones respecto de los actos o resoluciones que dieron origen a la interposición de los recursos o juicios, en relación a los acuerdos o convenios de coordinación fiscal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XI. Cuidar y promover el cumplimiento recíproco de las obligaciones derivadas de los convenios o acuerdos de coordinación fiscal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XII. Expedir copias certificadas de los documentos que obren en sus archivos sobre asuntos de su competencia, y de aquellos que expidan en el ejercicio de sus funciones, los servidores públicos que les estén subordinados; y
+
+> <small>(REFORMADA (N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XIII Las demás que le atribuyan expresamente los Reglamentos y demás disposiciones legales y administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
 
 ###### Artículo 90.
 
@@ -4302,17 +4154,19 @@ X. Expedir copias certificadas de los documentos que obren en sus archivos sobre
 
 XI. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 91.
 
-Corresponde a la Subprocuraduría de Asuntos Penales y Juicios sobre Ingresos Coordinados:
+Corresponde a la Subprocuraduría de Asuntos Penales:
 
 I. Acordar con el Procurador Fiscal los asuntos de su competencia;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-II. Representar el interés de la Hacienda Pública del Distrito Federal en todos los juicios que se susciten con motivo de las atribuciones delegadas a la Administración Pública en los acuerdos o convenios de Coordinación Fiscal suscritos por el Ejecutivo Federal, formular las contestaciones de demandas ante el Tribunal Federal de Justicia Fiscal y Administrativa, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, autorizar delegados e incluso allanarse a las demandas, formular demandas para solicitar la nulidad de resoluciones favorables a los particulares y actuar en los juicios de amparo relacionados con aquéllas, así como realizar los demás actos procesales que correspondan, sin perjuicio de la intervención que corresponda a la Secretaría de Hacienda y Crédito Público; así como, en general, representar el interés de la Hacienda Pública del Distrito Federal en los asuntos de su competencia, en toda clase de juicios, investigaciones o procedimientos, incluyendo el de amparo, ante los tribunales y autoridades administrativas del Distrito Federal, federales o de otras entidades federativas; ejecutar las acciones, excepciones y defensas, promover incidentes, interponer recursos, formular alegatos y desahogo de vista y autorizar delgados, así como los demás actos procesales correspondientes;
+II. Representar el interés de la Hacienda Pública del Distrito Federal en toda clase de juicios, investigaciones o procedimientos, incluyendo el de amparo, ante los tribunales del Distrito Federal, Federales o de otras entidades federativas; ejecutar las acciones, oponer excepciones y defensas, promover incidentes, interponer recursos, formular alegatos y desahogo de vista, así como autorizar delegados, y los demás actos procesales correspondientes conforme a las leyes y ordenamientos aplicables, a excepción de las controversias fiscales que se susciten con motivo de los ingresos federales coordinados, o que sean competencia de otra área;
 
-III. Elaborar y proponer los informes previos y justificados en Amparos contra actos de las autoridades fiscales del Distrito Federal, relativos a la aplicación de leyes fiscales federales;
+III. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
 IV. Analizar la documentación, actuaciones y dictámenes que, en materia de ingresos federales coordinados, formulen las Unidades Administrativas competentes de la Secretaría de Hacienda y Crédito Público, a fin de que ésta determine la procedencia de la formulación de querella, declaratoria de perjuicio o denuncia;
 
@@ -4320,15 +4174,15 @@ V. Formular y presentar denuncias o querellas, nombrar representantes ante el Mi
 
 VI. Ejercer en materia de delitos fiscales las atribuciones señaladas a la Secretaría de Finanzas en el Código Financiero del Distrito Federal;
 
-VII. Estudiar y opinar sobre los aspectos jurídicos de los proyectos de acuerdos o convenios de coordinación en materia fiscal federal y sobre la legislación referente al Sistema Nacional de Coordinación Fiscal, así como de sus respectivos anexos, declaratorias y demás disposiciones relativas a esta materia;
+VII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
 VIII. Designar a los peritos que se requieran para la formulación de dictámenes técnicos relacionados con los asuntos de su competencia;
 
-IX. Vigilar el cumplimiento de las sentencias dentro de los términos legales pronunciadas por los tribunales federales en relación a los juicios promovidos por los actos o resoluciones de las Unidades Administrativas del Distrito Federal en materia fiscal federal e igualmente cumplimentar las que le sean propias;
+IX. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-X. Solicitar a las Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de Finanzas y de la Tesorería los informes y actuaciones respecto de los actos o resoluciones que dieron origen a la interposición de los recursos o juicios, en relación a los acuerdos o convenios de coordinación fiscal;
+X. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-XI. Cuidar y promover el cumplimiento recíproco de las obligaciones derivadas de los convenios o acuerdos de coordinación fiscal;
+XI. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
 > <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
 
@@ -4387,6 +4241,20 @@ XXI. Efectuar la devolución de los ingresos federales coordinados que procedan,
 XXII. Atender en la esfera de su competencia los asuntos relacionados con los movimientos de Ingresos y Egresos del Distrito Federal; y
 
 XXIII. Suscribir conjuntamente con el Secretario de Finanzas, los contratos y títulos de crédito, relativos al financiamiento del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+###### Artículo 92 Bis.
+
+Corresponde a la Dirección Ejecutiva de Enlace Interinstitucional:
+
+I. Realizar investigaciones interdisciplinarias, de campo y documentales, con la finalidad de formular líneas de acción que coadyuven en el mejoramiento del servicio en materia hacendaria que se ofrece a la población del Distrito Federal;
+
+II. Establecer vínculos con instituciones y organizaciones públicas y privadas, que realicen acciones encaminadas a la implantación de programas presupuestales y financieros;
+
+III. Promover acciones de colaboración e intercambio interinstitucional, tanto a nivel local como nacional en el desarrollo de modelos funcionales, factibles de adaptarse a las características propias de los programas presupuestales del Distrito Federal;
+
+IV. Diseñar e instrumentar las estrategias de información y difusión de la Secretaría que tengan como finalidad dar a conocer a la población de la Ciudad de México los servicios que ofrece a la comunidad, así como los avances de la institución en el cumplimiento de sus programas.
 
 #### SECCION X
 
@@ -5180,9 +5048,7 @@ XV. Consolidar la información del Impuesto Sobre Nóminas, derivado del pago de
 
 XVI. Proponer la adquisición o actualización de los programas y equipos de cómputo necesarios para la operación del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-XVII. Efectuar las actualizaciones de los sistemas y equipos de cómputo que se adquieran para la administración del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal;
+XVII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
 
@@ -5196,9 +5062,9 @@ XIX. Realizar los procesos para la emisión de la Nómina de Pago de los trabaja
 
 XX. Proporcionar la información y los reportes que requieran los usuarios del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXI. Administrar y resguardar la Base de Datos del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal; y (sic)
+XXI. Administrar y resguardar la Base de Datos del Sistema Integral Desconcentrado de Nómina del Gobierno del Distrito Federal;
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
 
@@ -5330,7 +5196,9 @@ IV. Asesorar y supervisar a las Dependencias, Unidades Administrativas, Órganos
 
 V. Tramitar, dar seguimiento y controlar los asuntos referentes al Convenio-Marco del espectro radioeléctrico;
 
-VI. Asesorar y supervisar a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Unidades Administrativas de Apoyo Técnico-Operativo de la Administración Pública, en la selección, instalación y operación de los sistemas de comunicación y radiocomunicación vía voz, datos e imagen, y conformar un sistema integral;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+VI. Asesorar y supervisar a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Unidades Administrativas de Apoyo Técnico-Operativo de la Administración Pública, en la selección, instalación y operación de los sistemas de comunicación y radiocomunicación;
 
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -5340,7 +5208,9 @@ VIII. Difundir la información relativa a los bienes de lento y nulo movimiento;
 
 IX. Operar y mantener actualizado el inventario de bienes muebles del patrimonio del Distrito Federal;
 
-X. Proporcionar y administrar los servicios relativos a los sistemas de comunicación y radiocomunicación y al aseguramiento de bienes patrimonio del Distrito Federal; y
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+X. Proporcionar y administrar los servicios relativos a los sistemas de comunicación y radiocomunicación y al aseguramiento de bienes patrimonio del Distrito Federal;
 
 XI. (DEROGADA, G.O. 16 DE FEBRERO DE 2005)
 
@@ -5452,9 +5322,9 @@ VI. Integrar y mantener actualizado el registro de las estructuras orgánicas de
 
 VII. Opinar sobre los programas de contratación de los prestadores de servicios profesionales de la Administración Pública cuyo nivel sea equivalente al de los servidores públicos de estructura;
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-VIII. Revisar las solicitudes y documentos de pasajes y viáticos nacionales o pasajes internacionales y viáticos en el extranjero que presenten las áreas de administración o sus equivalentes en las dependencias o entidades, verificando el cumplimiento de los requisitos y formalidades establecidos en la normatividad aplicable, y en su caso, tratándose de comisiones nacionales, presentarlas al Oficial Mayor para su autorización, y en las internacionales para que éste gestione su autorización ante el Jefe de Gobierno, solicitudes que en todo caso, previo a su autorización, deberán contar con la validación de suficiencia presupuestal de la Subsecretaria de Egresos;
+VIII. Revisar las solicitudes de pasajes y viáticos nacionales o internacionales que presenten las dependencias o entidades al Oficial Mayor, para su autorización, y en las internacionales para que éste gestione su autorización ante el Jefe de Gobierno;
 
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -5480,9 +5350,7 @@ XIV. Establecer los lineamientos y políticas y ejecutar las acciones que se req
 
 XV. Coordinar la permanente actualización del Manual de Trámites y Servicios al Público;
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
-
-XVI. Registrar, dar seguimiento, consolidar y difundir los ahorros y recuperaciones obtenidos mediante acciones de racionalidad que implementen las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal;
+XVI. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
 
@@ -5494,19 +5362,21 @@ XVIII. Formular y proponer proyectos de leyes, reglamentos, decretos, acuerdos y
 
 XIX. Realizar las acciones necesarias para la conducción de las Entidades del sector y participar en la elaboración de sus programas, vigilando que sean congruentes con el Plan Nacional de Desarrollo y el Programa General de Desarrollo del Distrito Federal;
 
-XX. Llevar a cabo en el ámbito de competencia de la Oficialía Mayor el análisis de la información y documentos relacionados con la celebración de las sesiones de Comités de Control y Evaluación y de Órganos de Gobierno de las Entidades para elaborar los informes ejecutivos y opiniones correspondientes; e (sic)
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+XX. Llevar a cabo en el ámbito de competencia de la Oficialía Mayor el análisis de la información y documentos relacionados con la celebración de las sesiones de Comités de Control y Auditoría y de Órganos de Gobierno de las Entidades;
 
-XXI. Integrar y mantener actualizado el registro de los órganos de Gobierno de los Organismos Públicos Descentralizados, las Empresas de Participación Estatal Mayoritaria y los Fideicomisos Públicos del Distrito Federal, con información sobre sus sesiones y compromisos relevantes;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XXI. Integrar y mantener actualizado el registro de los Órganos de Gobierno de los Organismos Públicos Descentralizados, las Empresas de Participación Estatal Mayoritaria y los Fideicomisos Públicos del Distrito Federal, en los que participe la Oficialía Mayor con información sobre sus sesiones y compromisos relevantes;
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 XXII. Asesorar a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública del Distrito Federal, para el diseño de sus estructuras orgánicas funcionales y analíticas, de mecanismos de coordinación y procesos de trabajo, así como emitir opinión técnica, cuando proceda;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXIII. Impulsar y evaluar las acciones de modernización administrativa y de los sistemas de medición y evaluación que se originen con motivo de la implantación de los programas de modernización; y (sic)
+XXIII. Impulsar y evaluar las acciones de modernización administrativa y de los sistemas de medición y evaluación que se originen con motivo de la implementación de los programas de modernización;
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -5520,29 +5390,29 @@ XXV. Recibir, evaluar y registrar para su seguimiento la información que en mat
 
 XXVI. Dirigir y coordinar las políticas en materia de tecnología, bienes y servicios informáticos en la Administración Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXVII. Coordinar la creación, desarrollo, operación, mantenimiento y modernización de sistemas de información de la Administración Pública del Distrito Federal;
+XXVII. Coordinar la creación, desarrollo, operación, mantenimiento y la modernización de las tecnologías de información de la Administración Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXVIIII. Administrar la red de la Oficialía Mayor, el Sistema de Nómina SIDEN e Internet e Intranet de la Administración Pública del Distrito Federal;
+XXVIII. Administrar la red de la Oficialía Mayor y el Internet e Intranet de la Administración Pública del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
 XXIX. Fungir como Presidente Suplente del Comité de Informática;
 
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXX. Dirigir y coordinar el Programa Institucional de Desarrollo Informático del Distrito Federal;
+XXX. Dirigir y coordinar el Programa General de Desarrollo Informático del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
 XXXI. Dirigir y coordinar los trabajos informáticos conjuntos con otras instituciones públicas y privadas;
 
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXXII. Brindar asesoría técnica a las dependencias, órganos desconcentrados y órganos político-administrativo del Distrito Federal;
+XXXII. Brindar asesoría técnica a las dependencias, órganos desconcentrados y órganos político-administrativo del Distrito Federal, en materia informática;
 
 > <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -5694,21 +5564,21 @@ XVI. A petición de la Dirección General de Legalidad y Responsabilidades o de 
 
 XVII. Ordenar y realizar, derivado de la práctica de revisiones y auditorías, visitas e inspecciones a las instalaciones de las personas físicas y morales que intervengan en las adquisiciones, arrendamientos, prestación de servicios y obra pública, para vigilar que cumplan con lo establecido en los contratos y en las normas y disposiciones jurídicas y administrativas aplicables;
 
-> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XVIII. Ordenar, cuando lo estime conveniente, a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, que permitan a los servidores públicos comisionados para realizar auditorías, revisiones, inspecciones y verificaciones, aseguren, resguarden y custodien la información y documentación proporcionada con motivo de las mismas; y
+XVIII. Ordenar, cuando lo estime conveniente, a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, que permitan a los servidores públicos comisionados para realizar auditorías, revisiones, inspecciones y verificaciones, aseguren, resguarden y custodien la información y documentación proporcionada con motivo de las mismas;
 
-> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XIX. Solicitar a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos, Entidades e instituciones públicas locales y federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, así como de los que se encuentren involucrados en procedimientos de promoción de fincamiento de responsabilidades administrativas;
+XIX. Solicitar a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos, Entidades e instituciones públicas locales y federales, así como a las Instituciones Financieras a que se refiere el artículo 2° fracción IV de la Ley de Protección y Defensa al Usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, así como de los que se encuentren involucrados en procedimientos de promoción de fincamiento de responsabilidades administrativas; y
 
-> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 28 DE FEBRERO DE 2007)</small>
 
 XX. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario.
 
-> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 28 DE FEBRERO DE 2007)</small>
 
-Las atribuciones relativas a la realización de auditorías, formulación de observaciones, emisión de recomendaciones, seguimiento para la solventación de recomendaciones, emisión de dictámenes de auditoría, asistencia y participación en Comités y Subcomités en materia de Obra Pública, realización de inspecciones y verificación del correcto ejercicio y aplicación de recursos, requerimiento, aseguramiento, resguardo y custodia de información y documentación a que se refieren las fracciones I, III, IV, V, VIII, IX, X, XI, XIV, XVII y XVIII, podrán ser ejercidas por las Unidades Administrativas Técnico-Operativas de la Dirección General de Auditoría, así como por las Unidades Administrativas Técnico Operativas que determine el titular de la Contraloría General, sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones.
+Las atribuciones relativas a la realización de auditorías, formulación de observaciones, emisión de recomendaciones, seguimiento para la solventación de recomendaciones, emisión de dictámenes de auditoría, asistencia y participación en Comités y Subcomités en materia de Obra Pública, realización de inspecciones y verificación del correcto ejercicio y aplicación de recursos, requerimiento, aseguramiento, resguardo y custodia de información y documentación a que se refieren las fracciones I, III, IV, V, VIII, IX, X, XI, XIV, XVII y XVIII, podrán ser ejercidas por las Unidades Administrativas de Apoyo Técnico-Operativo de la Dirección General de Auditoría, así como por las Unidades Administrativas Técnico Operativas que determine el titular de la Contraloría General, sin perjuicio de que éste asuma el ejercicio directo (sic)
 
 ###### Artículo 103.
 
@@ -5774,7 +5644,9 @@ XXIII. Ordenar la implementación de acciones de verificación en aquellas Depen
 
 XXIV. Supervisar el desempeño de las atribuciones que tienen conferidas las Unidades Administrativas de Apoyo Técnico-Operativo que tiene adscritos, y en su caso, tomar las medidas que estime convenientes para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
 
-XXV. Brindar apoyo a las Direcciones Generales de Auditoria, de Comisarios y de Evaluación y Diagnóstico, así como a los órganos de control interno para el mejor desempeño de las funciones que tiene asignadas la Contraloría General;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XXV. Brindar apoyo a las Direcciones Generales de Auditoría y de Evaluación y Comisariado, así como a los Órganos de Control Interno para el mejor desempeño de las funciones que tiene asignadas la Contraloría General;
 
 XXVI. Promover en coordinación con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, la instalación de unidades receptoras de quejas y denuncias; y
 
@@ -5812,9 +5684,9 @@ XXXIV. Ejercer la facultad de atracción prevista por los artículos 57 y 62 de 
 
 XXXIV BIS. Determinar, previo acuerdo con el titular de la Dependencia, la remisión de expedientes de los asuntos derivados de los dictámenes técnicos correctivos realizados por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal y de solicitudes de fincamiento de responsabilidades administrativas emitidos por la Auditoría Superior de la Federación, a las contralorías internas en las dependencias, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, cuando se juzgue conveniente para la pronta y expedita atención y resolución de dichos casos, a efecto que conozcan, investiguen, inicien, substancien y resuelvan los procedimientos administrativos disciplinarios y, determinen en su caso, las sanciones que correspondan en los términos de las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+(REFORMADA, G.O. 28 DE FEBRERO DE 2007) (F. DE E., G.O. 22 DE MARZO DE 2007)
 
-XXXIV TER. Determinar, previo acuerdo con el titular de la Dependencia, la remisión de expedientes de los asuntos derivados de la omisión o de la presentación fuera de los plazos establecidos en las disposiciones normativas aplicables, de las declaraciones de situación patrimonial, a las contralorías internas en las dependencias, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, cuando se juzgue conveniente para que de manera pronta y expedita conozcan, investiguen, inicien, substancien y resuelvan los procedimientos administrativos disciplinarios y, determinen en su caso, las sanciones que correspondan en los términos de las disposiciones jurídicas aplicables;
+XXXIV TER. Determinar la remisión a las Contralorías Internas en las Dependencias, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, los expedientes que se estimen conveniente, correspondientes a la declaratoria de omisión o de la presentación de las declaraciones de situación patrimonial fuera de los plazos establecidos en las disposiciones normativas aplicables, a efecto que substancien y resuelvan los procedimientos administrativos disciplinarios y determinen en su caso, las sanciones que correspondan;
 
 > <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
@@ -5968,9 +5840,9 @@ XI. Declarar la procedencia de impedimento para participar en licitaciones públ
 
 XII. Conocer, desahogar y resolver el procedimiento de Aclaración de los Actos derivados de los procedimientos de licitación pública e invitación restringida a cuando menos tres participantes en los términos previstos en la Ley de Obras Públicas del Distrito Federal, cuando las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública de que se trata, carezcan de contraloría interna;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XIII. Intervenir en las actas de entrega-recepción de las Dependencias, Unidades Administrativas, Órganos Político- Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal. También podrán intervenir en los actos de entrega recepción en aquellas Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades en donde exista contraloría interna, siempre que medie la instrucción de su superior jerárquico, así como en las actas de entrega recepción de dichos órganos, a fin de verificar que se cumpla con las disposiciones legales y administrativas aplicables, y en caso de incumplimiento, solicitar el fincamiento de las responsabilidades administrativas que correspondan;
+XIII. Intervenir en las actas de entrega-recepción de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal. También podrán intervenir en los actos de entrega recepción en aquellas Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades en donde exista Contraloría Interna, cuando lo estime conveniente a fin de verificar que se cumpla con las disposiciones legales y administrativas aplicables, y en caso de incumplimiento, solicitar el fincamiento de las responsabilidades administrativas que correspondan;
 
 XIV. Analizar, recibir, tramitar las solicitudes e iniciar el procedimiento de certificación de afirmativa ficta, en los términos y plazos previstos en la Ley de Procedimiento Administrativo del Distrito Federal;
 
@@ -5982,7 +5854,7 @@ XVI. Substanciar y resolver en el ámbito de su competencia, los procedimientos 
 
 XVII. Emitir opinión para efectos administrativos, acerca de la interpretación de las disposiciones contenidas en las Leyes de Adquisiciones y de Obras Públicas, ambas del Distrito Federal;
 
-XVIII. Acordar, cuando proceda, la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones, y
+XVIII. Acordar, cuando proceda, la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones, y (sic)
 
 XIX. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
 
@@ -5994,9 +5866,9 @@ XX. Atender las consultas formuladas sobre las disposiciones legales y administr
 
 XXI. Establecer y actualizar el prontuario normativo de la Administración Pública del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXII. Participar en instancias colegiadas, para el análisis de proyectos normativos de la Administración Pública, en las materias de Adquisiciones, Obra Pública, responsabilidad de Servidores Públicos y Entrega-Recepción de Recursos;
+XXII. Participar en instancias colegiadas, para el análisis de proyectos normativos del Gobierno del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
@@ -6196,19 +6068,29 @@ II. Opinar sobre la viabilidad de los proyectos de normas de contabilidad gubern
 
 III. Evaluar los resultados de los informes de avance programático-presupuestal presentados a la Asamblea Legislativa;
 
-IV. Asistir con el carácter de Comisario a los Consejos de Administración o Directivos y Juntas de Gobierno de las Entidades Paraestatales y órganos Desconcentrados de la Administración Pública;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-V. Asistir como representante de la Contraloría General a los Comités o Subcomités instalados en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades Paraestatales de la Administración Pública;
+IV. Asistir con el carácter de Comisario a los Consejos de Administración o Directivos, Órganos de Gobierno o equivalentes de las Entidades Paraestatales y Órganos Desconcentrados de la Administración Pública;
 
-VI. Vigilar la debida integración y funcionamiento de los Consejeros de Administración y Directivos, Juntas de Gobierno o equivalentes de las Entidades Paraestatales, y en su caso, de los Comités y Subcomités a los que asista;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+V. Asistir cuando lo considere conveniente con el carácter de representante de la Contraloría General a los Comités o Subcomités instalados en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades Paraestatales de la Administración Pública;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+VI. Vigilar la debida integración y funcionamiento de los Consejos de Administración o Directivos, Órganos de Gobierno o equivalentes de las Entidades Paraestatales, y en su caso, de los Comités y Subcomités a los que asista;
 
 VII. Solicitar y verificar que se incluyan en el orden del día de las sesiones de los Órganos de Gobierno o Cuerpos Colegiados, los asuntos que se consideren necesarios;
 
 VIII. Conocer de los trabajos realizados por auditores externos relativos a la revisión y fiscalización en las Dependencias, Unidades Administrativas y Órganos Político-Administrativos de la Administración Pública; respetando la independencia de los Auditores Externos;
 
-IX. Dar a conocer y presentar ante el órgano de Gobierno y, en su caso, a la Asamblea de accionistas, la opinión de los Auditores Externos, sobre la situación financiera de las Entidades Paraestatales;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-X. Rendir anualmente informes a los Consejos de Administración o Directivos y Juntas de Gobierno en que participe como Comisario, respecto del desempeño general de las Entidades Paraestatales y Órganos Desconcentrados de la Administración Pública;
+IX. Dar a conocer y presentar ante el Órgano de Gobierno y, en su caso, a la Asamblea de accionistas, la opinión de los Auditores Externos, sobre la situación financiera de las Entidades Paraestatales;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+X. Rendir anualmente informes a los Consejos de Administración o Directivos, Órganos de Gobierno o equivalentes en que participe como Comisario, respecto del desempeño general de las Entidades Paraestatales y Órganos Desconcentrados de la Administración Pública;
 
 XI. Vigilar y dar seguimiento a los procesos de desincorporación de las entidades paraestatales y en su caso, requerir a las Dependencias, Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo e instancias que intervengan en esos procesos, la información necesaria para verificar el cumplimiento de sus funciones y recomendar las medidas que procedan para la conclusión de los procesos con estricto apego a las disposiciones aplicables;
 
@@ -6242,41 +6124,65 @@ VI. Solicitar se finque responsabilidad ante la Dirección General de Legalidad 
 
 VII. Ordenar y realizar, derivado de la práctica de revisiones y auditorías a los recursos de las tecnologías de la información, visitas e inspecciones a las instalaciones de las personas físicas y morales que intervengan en las adquisiciones, arrendamientos y prestación de servicios en materia de recursos informáticos, para vigilar que cumplan con lo establecido en los contratos y en las normas y disposiciones jurídicas y administrativas aplicables;
 
-VIII. Ordenar, cuando lo estime conveniente, a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal que permitan a los servidores públicos comisionados para realizar auditorías, revisiones, inspecciones y verificaciones a los recursos de las tecnologías de la información, aseguren, resguarden y custodien la información y documentación proporcionada con motivo de las mismas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-IX. Asistir, cuando lo considere conducente, a las sesiones de los Comités, Subcomités y Órganos de Gobierno en términos de las disposiciones jurídicas y administrativas aplicables;
+VIII. Ordenar, cuando lo estime conveniente, a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal que permitan a los servidores públicos comisionados para realizar auditorías, revisiones, inspecciones y verificaciones a los recursos de las tecnologías de la información; aseguren, resguarden y custodien la información y documentación proporcionada con motivo de las mismas;
 
-X. Requerir, de acuerdo a la naturaleza a sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, Órganos de Control Interno así como proveedores, contratistas y prestadores de servicio;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
 
-XI. Dar contestación a las opiniones y propuestas de los Contralores Ciudadanos que les sean remitidas por la Dirección Ejecutiva de Contraloría Ciudadana;
+IX. "Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo de la práctica de auditorías, revisiones, verificaciones e inspecciones."
 
-XII. Solicitar a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político-Administrativos, Entidades Paraestatales e Instituciones Públicas locales y federales, así como a las Instituciones Financieras a que se refiere el artículo segundo, fracción IV, de la Ley de Protección y Defensa al usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, así como los que se encuentren involucrados en procedimientos de promoción de fincamiento de responsabilidades administrativas, observando para ello las disposiciones relativas a la tutela de datos personales de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
 
-XIII. Promover y difundir la adopción de marcos de referencia internacionales y buenas prácticas para el control y la seguridad de las Tecnologías de la Información, con el objetivo de que la gestión de la función informática o de Tecnologías de la Información, sea transparente, segura, con riesgos mitigados y alineada con los objetivos institucionales en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político-Administrativos, Entidades de la Administración Pública;
+X. Asistir, cuando lo considere conducente, a las sesiones de los Comités, Subcomités y Órganos de Gobierno en términos de las disposiciones jurídicas y administrativas aplicables;
 
-XIV. Analizar, diseñar, desarrollar e implementar la automatización de los controles especializados para la administración de las intervenciones a su cargo y demás rubros solicitados por la Contraloría General; así como el conjunto de programas de ordenador y técnicas informáticas (software) necesarias para habilitar el esquema de monitoreo continuo en las distintas Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político-Administrativos, Entidades de la Administración Pública del Distrito Federal, a fin de hacer más eficiente la administración de las funciones asignadas. Asimismo, evaluar y seleccionar las herramientas de software que sustenten el análisis de la seguridad de la información y de los recursos de las tecnologías de la información;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
 
-XV. Promover, impulsar y evaluar iniciativas de gobierno electrónico;
+XI. Requerir, de acuerdo a la naturaleza a sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, Órganos de Control Interno así como proveedores, contratistas y prestadores de servicio;
 
-XVI. Vigilar la instrumentación de las medidas preventivas y correctivas derivadas de las evaluaciones realizadas en materia de tecnologías (sic) información;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
 
-XVII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para o (sic) cual la dependencia otorgará el apoyo necesario; (sic)
+XII. Dar contestación a las opiniones y propuestas de los Contralores Ciudadanos que les sean remitidas por la Dirección Ejecutiva de Contraloría Ciudadana;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XIII. Solicitar a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Órganos Político-Administrativos, Entidades Paraestatales e Instituciones Públicas locales y federales, así como a las Instituciones Financieras a que se refiere el artículo segundo, fracción IV, de la Ley de Protección y Defensa al usuario de Servicios Financieros, a través de la Comisión Nacional Bancaria y de Valores, la información fiscal, inmobiliaria, bancaria, financiera o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinos y dependientes económicos directos, así como los que se encuentren involucrados en procedimientos de promoción de fincamiento de responsabilidades administrativas, observando para ello las disposiciones relativas a la tutela de datos personales de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
+
+> <small>(REFORMADA Y REUBICADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XIV. Promover y difundir la adopción de marcos de referencia internacionales y buenas prácticas para el control y la seguridad de las tecnologías de la información (TI), con el objetivo de que la gestión de la función informática o de TI, responda a los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad, cumplimiento y confiabilidad; opere con riesgos mitigados y alineada con los objetivos institucionales en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública;
+
+> <small>(REFORMADA Y REUBICADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XV. Analizar, diseñar, desarrollar e implementar las soluciones requeridas para la administración de las intervenciones a su cargo y demás productos solicitados por la Contraloría General; así como el software necesario para habilitar el esquema de monitoreo continuo en las distintas dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativo y entidades de la administración pública del Distrito Federal, a fin de asegurar la efectividad de sus controles internos, detectar riesgos operacionales, así como supervisar el cumplimiento de la normatividad regulatoria aplicable;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XVI. Promover, impulsar y evaluar iniciativas de gobierno electrónico;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XVII. Vigilar la instrumentación de las medidas preventivas y correctivas derivadas de las evaluaciones realizadas en materia de tecnologías (sic) información;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XVIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para o (sic) cual la dependencia otorgará el apoyo necesario;
 
 Las atribuciones relativas a la promoción y difusión de los marcos de referencia internacionales y buenas prácticas para el control y la seguridad de las tecnologías de la información; realización de auditorías, revisiones, verificaciones e inspecciones, a los recursos de las tecnologías de la información; formulación de observaciones, emisión de recomendaciones, seguimiento para la atención de recomendaciones, emisión de dictámenes de auditoría, asistencia y participación en Comités y Subcomités; requerimiento, aseguramiento, resguardo y custodia de información y documentación a que se refieren las fracciones I, II, IV, V, VI, VII, XI, XII, XIV, XV, XVI y XVII, podrán ser ejercidas por las Unidades Administrativas de Apoyo Técnico-Operativo de la Dirección Ejecutiva de Evaluación y Seguridad de Tecnologías de información, así como por las Unidades Administrativas de Apoyo Técnico-Operativo que determine el titular de la Contraloría General, sin perjuicio de que éste asuma el ejercicio directo e (sic) dichas atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 112.
 
-Corresponde a la Coordinación General de Contralorías Internas:
+Dirección General de Contralorías Internas:
 
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
 I. Integrar y presentar, para la autorización del titular de la Contraloría General, el Programa de Implantación y Seguimiento de Control Interno que estará a cargo de las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-II. Coordinar directamente, o a través de las Unidades Administrativas de Apoyo-Técnico Operativo correspondientes, a las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
+II. Vigilar y coordinar directamente, o a través de las Unidades Administrativas de Apoyo-Técnico Operativo correspondientes, a las Contralorías Internas y demás áreas que las integran, en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -6298,49 +6204,51 @@ VI. Autorizar a las Contralorías Internas en las Dependencias, Unidades Adminis
 
 VII. Verificar y coordinar que el desempeño de las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, se oriente a coadyuvar y facilitar el cumplimiento de las normas y disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento, deuda, patrimonio, fondos y valores, organización, información, procedimientos, sistemas de registros, contabilidad, activos, recursos humanos, obra pública, adquisiciones, arrendamientos y contratación de servicios, así como aquellas relativas a las funciones que tengan encomendadas, conforme a los lineamientos aplicables;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+VIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-VIII. Vigilar que las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político- Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, coadyuven con la Dirección General de Auditoría en la revisión oportuna del ejercicio de los recursos federales y los comprometidos con las entidades federativas, derivados de acuerdos o convenios establecidos con éstas y formular las recomendaciones que de ello se deriven;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
 
-IX. (DEROGADA, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
+IX. Dictar las medidas que estime pertinentes para el mejor desempeño y cumplimiento de las atribuciones que tienen encomendadas las contralorías internas y demás unidades administrativas de apoyo técnico operativo a su cargo;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-X. Vigilar que las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, coadyuven con la Dirección General de Evaluación y Diagnóstico en la evaluación oportuna de los programas subsidiados por el Distrito Federal, a efecto de medir el impacto de éstos en la población;
+X. Vigilar y coordinar que las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, coadyuven con la Dirección General de Evaluación y Comisariado en la evaluación oportuna del cumplimiento de normas y lineamientos establecidos en materia de planeación, programación, presupuestación, control operativo, obligaciones y responsabilidades;
 
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
 XI. Requerir de acuerdo con la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados, Entidades y Contralorías Internas de la Administración Pública del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XII. Verificar la aplicación de los indicadores de gestión por parte de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, que establezca la Dirección General de Evaluación y Diagnóstico, a efecto de evaluar el desempeño y resultados de las mismas, a través de las Contralorías Internas;
+XII. Verificar la aplicación de los indicadores de gestión por parte de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, que establezca la Dirección General de Evaluación y Comisariado, a efecto de evaluar el desempeño y resultados de las mismas, a través de las Contralorías Internas;
 
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
 XIII. Establecer las normas, políticas y lineamientos, así como el Sistema de Información y Evaluación que permita conocer y controlar con oportunidad el desempeño de las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, en cuanto a la implantación de controles internos y situación que guarde el seguimiento de los mismos;
 
-XIV. Expedir previo cotejo copias certificadas de los documentos que obren en sus archivos;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+XIV. Expedir previo cotejo copias certificadas de los documentos que obren en sus archivos, así como de las que tenga acceso con motivo del desarrollo de sus actividades;
 
-XV. Revisar e integrar, para la autorización del titular de la Contraloría General, los Programas Operativos Anuales de las Contralorías Internas, así como los informes periódicos derivados de su aplicación y vigilar el estricto cumplimiento del ejercicio presupuestal y de las metas programadas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+XV. Verificar los informes periódicos derivados de la aplicación del Programa Operativo Anual de la Dirección General de Contralorías Internas, y vigilar el estricto cumplimiento de las metas programadas en la actividad institucional autorizada;
 
-XVI. Recibir e integrar los reportes de seguimiento a las observaciones y recomendaciones derivadas de la implantación de los controles internos de acuerdo con los plazos establecidos en los lineamientos respectivos;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+XVI. Recibir, integrar y dictaminar por sí o por conducto de sus Unidades Administrativas de Apoyo Técnico-Operativo, los reportes de seguimiento a las observaciones y recomendaciones derivadas de la implantación de los Controles Internos de acuerdo con los plazos establecidos en los lineamientos respectivos;
 
-XVII. Ordenar y realizar verificaciones, revisiones, inspecciones, visitas a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública e intervenir en todos los procesos administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, enajenación de bienes muebles, almacenes e inventarios, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XVII. Dirigir y ordenar verificaciones, revisiones, inspecciones y visitas a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública e intervenir en todos los procesos administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, enajenación de bienes muebles, almacenes e inventarios, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 XVIII. Supervisar, a través de las Contralorías Internas, la adecuada substanciación de los procedimientos de Certificación de la Afirmativa Ficta;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XIX. Realizar los estudios e investigaciones que permitan proponer las mejoras regulatorias y administrativas para hacer más eficiente la operación y prevención de cualquier posible desviación en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
+XIX. Instruir a las contralorías internas la realización de los estudios e investigaciones que permitan proponer las mejoras regulatorias y administrativas para hacer más eficiente la operación y prevención de cualquier posible desviación en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -6350,25 +6258,25 @@ XX. Dar aviso a la Dirección General de Auditoría, en los casos de detección 
 
 XXI. Representar a la Contraloría General en los Comités de Control y Evaluación en los términos que determinen los lineamientos aplicables. Dicha representación podrá delegarse en los titulares de las Contralorías Internas, las cuales tendrán a su cargo la vigilancia y cumplimiento de su ejecución;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXII. Participar en las sesiones de los Órganos de Gobierno de las Entidades Paraestatales y Órganos Desconcentrados, por sí, o a través de los titulares de las Contralorías Internas;
+XXII. Participar en las sesiones de los Órganos de Gobierno de las entidades paraestatales y órganos desconcentrados, por sí, o a través de los Titulares de las Contralorías Internas y de sus demás Unidades Administrativas de Apoyo Técnico Operativo;
 
-(ADICIONADA, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXIII. Participar directamente o a través de los titulares de las Contralorías Internas en los Comités y Subcomités instalados en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal y, rendir anualmente los informes del desempeño general derivados del análisis y evaluación trimestral, con excepción del que corresponde a las Entidades Paraestatales;
+XXIII. Participar directamente o a través de los titulares de las Contralorías Internas y de sus demás Unidades Administrativas de Apoyo Técnico Operativo, en los Comités y Subcomités instalados en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal y, rendir anualmente los informes del desempeño general derivados del análisis y evaluación trimestral; con excepción del que corresponde a las entidades paraestatales;
 
 > <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
 XXIV. Proponer al Contralor General la modificación de las estructuras orgánicas y ocupacionales de las Contralorías Internas, para que sean sometidas a la autorización de las instancias correspondientes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXV. Vigilar y supervisar el desempeño por parte de los órganos de control interno, en las materias reguladas por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y su Reglamento;
+XXV. Vigilar y supervisar el desempeño por parte de los órganos de control interno, en las materias reguladas por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su Reglamento, y demás disposiciones aplicables en la materia;
 
-> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXVI. Ordenar y realizar visitas e inspecciones a las instalaciones de los proveedores y contratistas que intervengan en las adquisiciones, arrendamientos, prestación de servicios y obra pública, para vigilar que cumplan con lo establecido en los contratos y en las normas y disposiciones jurídicas y administrativas aplicables;
+XXVI. Dirigir y ordenar visitas e inspecciones, a las instalaciones de los proveedores y contratistas que intervengan en las adquisiciones, arrendamientos, prestación de servicios y obra pública, para vigilar que cumplan con lo establecido en los contratos y en las normas y disposiciones jurídicas y administrativas aplicables;
 
 > <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
@@ -6388,7 +6296,71 @@ XXX. Las demás que expresamente le atribuya el presente Reglamento y las demás
 
 > <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
 
-XXXI. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario.
+XXXI. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XXXII. Vigilar que las contralorías internas den cumplimiento a las disposiciones legales y administrativas existentes, aplicables con motivo del ejercicio de sus atribuciones, y en su caso, tomar las medidas que estime convenientes para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XXXIII. Remitir directamente o a través de sus Unidades de Apoyo Técnico Operativo a las Contralorías Internas o a la Dirección General de Legalidad y Responsabilidades, los escritos, quejas, denuncias y/o aclaraciones de particulares o servidores públicos, que se reciban en forma directa en cualquiera de las Unidades Administrativas de la Contraloría General, para su atención de acuerdo a sus funciones o desahogo correspondiente;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
+XXXIV. Verificar y dictar las medidas necesarias para que las Contralorías Internas cumplan con las determinaciones que les instruyan las diversas Unidades Administrativas de la Contraloría General en ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+Artículo 112 A.- Corresponde a las Direcciones de Contralorías Internas:
+
+I. Coordinar a las Contralorías Internas y demás Unidades de Apoyo Técnico Operativo que las integran en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, que determine la Dirección General de Contralorías Internas, y requerir la información necesaria para supervisar las actividades de las mismas;
+
+II. Someter a la aprobación de la Dirección General de Contralorías Internas los programas, normas, políticas y lineamientos previstos en la normatividad aplicable con motivo de sus funciones;
+
+III. Proponer al titular de la Dirección General de Contralorías Internas para su aprobación, los instrumentos que estime pertinentes para el control y evaluación en las contralorías internas que coordina en el cumplimiento de sus atribuciones;
+
+IV. Supervisar y vigilar el cumplimiento de las normas, políticas, procedimientos y programas que regulan el funcionamiento de las contralorías internas que coordina, a través de los instrumentos de control y evaluación necesarios, e informar sus resultados a la Dirección General de Contralorías Internas, y en su caso, tomar las medidas que estime convenientes para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
+
+V. Asesorar a las contralorías internas que coordina, en la elaboración e integración de su Programa de Implantación y Seguimiento de Control Interno, de su Programa Operativo Anual, así como en cualquiera de las materias relacionadas a las atribuciones de aquellas;
+
+VI. Revisar y analizar los informes trimestrales que emiten y envían las contralorías internas que coordina, como resultado de las Implantaciones de Control Interno que se realizan en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal; así como los reportes de deficiencias que generan; el seguimiento de compromisos para atender deficiencias detectadas y; el seguimiento de observaciones de auditoría interna en proceso de atención, solicitando las correcciones que se deriven de la revisión mencionada;
+
+VII. Supervisar el seguimiento de las recomendaciones determinadas por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, en materia de cuenta pública del Gobierno del Distrito Federal; así como conciliar esta información con las Contralorías Internas que les corresponda;
+
+VIII. Verificar e instruir que las contralorías internas que coordina, instrumenten medidas preventivas que eviten las deficiencias detectadas, así como su recurrencia, solicitándoles informes de las acciones llevadas a cabo;
+
+IX. Vigilar que las contralorías internas que coordina verifiquen en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, el cumplimiento a las disposiciones emitidas para el manejo de los recursos, así como también con la fiscalización oportuna de los recursos federales;
+
+X. Requerir la información y documentación a las contralorías internas que le corresponda, para verificar el seguimiento de las recomendaciones y compromisos resultantes del cumplimiento al Programa de Implantación y Seguimiento de Control Interno, así como la situación de éstos al término de un trimestre hasta su atención;
+
+XI. Recibir, analizar y dictaminar la información periódica que les remitan las contralorías internas que les correspondan, para su archivo o remisión al área que proceda, así como su incorporación al Sistema de Información Periódica;
+
+XII. Verificar que el registro de los controles internos programados y realizados, recomendaciones y compromisos generados, así como los seguimientos de éstos se mantenga actualizado en el Sistema de Información Periódica;
+
+XIII. Enviar a las Contralorías Internas o a la Dirección General de Legalidad y Responsabilidades, los escritos, quejas, denuncias y/o aclaraciones de particulares o servidores públicos, que se reciban en forma directa en cualquiera de las Unidades Administrativas de la Contraloría General, para su atención de acuerdo a sus funciones o desahogo correspondiente;
+
+XIV. Informar periódicamente a la Dirección General de Contralorías Internas, sobre los asuntos de los órganos de control interno que les correspondan, relacionados con los resultados de sus funciones, para una adecuada toma de decisiones.
+
+XV. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal; así como a las contralorías internas, cuando lo estime conveniente;
+
+XVI. Proponer el establecimiento y aplicación de indicadores de gestión que permitan evaluar el desempeño y resultados de las Contralorías Internas;
+
+XVII. Expedir previo cotejo copias certificadas de los documentos que obren en sus archivos, así como de las que tenga acceso con motivo del desarrollo de sus actividades;
+
+XVIII. Coordinar con las Contralorías Internas que les corresponda, los estudios e investigaciones que permitan proponer las mejoras regulatorias y administrativas para hacer más eficiente la operación y prevención de cualquier posible desviación en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, y someterlas a consideración de la Dirección General de Contralorías Internas;
+
+XIX. Vigilar y supervisar el desempeño de los órganos de control interno que les corresponda, en las materias reguladas por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su Reglamento y demás normatividad aplicable en la materia; e informar a la Dirección General de Contralorías Internas;
+
+XX. Dirigir y ordenar a las Contralorías Internas que les corresponda, la realización de verificaciones, revisiones, inspecciones, visitas a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública;
+
+XXI. Intervenir cuando lo estime pertinente, en coordinación con las Contralorías Internas en verificaciones, revisiones, inspecciones, visitas a las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública;
+
+XXII. Verificar y dictar las medidas necesarias para que las Contralorías Internas cumplan con las determinaciones que les instruyan las diversas Unidades Administrativas de la Contraloría General en ejercicio de sus atribuciones;
+
+XXIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario;
+
+XXIV. Las demás que expresamente le atribuya el presente Reglamento y las demás disposiciones administrativo-jurídicas.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -6396,13 +6368,11 @@ XXXI. Presentar demandas, querellas, quejas y denuncias, contestar demandas, ren
 
 Corresponde a las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, adscritas a la Contraloría General, en el ámbito de su competencia, las siguientes atribuciones:
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-I. Proponer, para la aprobación del titular de la Dirección General de Contralorías Internas, el Programa de Implantación y Seguimiento de Control Interno para cada ejercicio presupuestal, manteniendo un seguimiento sistemático de su ejecución;
+I. Proponer, para la aprobación del Titular de la Dirección General de Contralorías Internas, el Programa de Implantación y seguimiento de Control Interno para cada ejercicio presupuestal, manteniendo un seguimiento sistemático de su ejecución;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
-
-II. Apoyar las revisiones programadas, así como las extraordinarias o adicionales a éstas, de conformidad con los lineamientos que para tal fin emita la Contraloría General, a efecto de vigilar el cumplimiento de las disposiciones legales, reglamentarias y administrativas en materia de información, estadística, organización, procedimientos, sistemas de registro y contabilidad, contratación y remuneraciones al personal, contratación de adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes, activos y demás que correspondan, en términos de las disposiciones jurídicas y administrativas aplicables;
+II. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
 > <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
 
@@ -6412,9 +6382,9 @@ III. Formular recomendaciones para la solución de las deficiencias detectadas m
 
 IV. Asistir a las sesiones de los Comités y Subcomités instalados en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, en términos de las disposiciones jurídicas y administrativas aplicables y preparar los informes correspondientes;
 
-> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-V. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo de la práctica de verificaciones, revisiones, inspecciones, visitas y procedimientos disciplinarios;
+V. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo de la práctica de verificaciones, revisiones, inspecciones, visitas, procedimientos disciplinarios, y demás de las que tenga acceso con motivo del desarrollo de sus actividades;
 
 > <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
@@ -6426,9 +6396,7 @@ VII. Atender los requerimientos que les formule la Contraloría General, por con
 
 VIII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, así como a proveedores, contratistas y prestadores de servicio, cuando lo estime conveniente;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
-
-IX. Apoyar a la Dirección General de Auditoría en la revisión de los subsidios otorgados por el Distrito Federal a través de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, para que éstos sean aplicados conforme a los programas autorizados y, evaluar su impacto con base en los indicadores de medición correspondientes;
+IX. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
 X. Intervenir en las actas de entrega-recepción que realicen los titulares y servidores públicos de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades & la Administración Pública que correspondan, a fin de vigilar que se cumpla con la normatividad aplicable, y en caso de incumplimiento, determinar las responsabilidades y sanciones administrativas correspondientes;
 
@@ -6442,13 +6410,11 @@ XIII. Acordar, cuando proceda, la suspensión temporal de los servidores públic
 
 XIV. Verificar, a través del Sistema de Seguimiento que para tal efecto se establezca, que las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, atiendan hasta su conclusión las observaciones y recomendaciones de la Contaduría Mayor de Hacienda de la Asamblea Legislativa, así como las de la Auditoría Superior de la Federación;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XV. Verificar la aplicación de los indicadores de gestión que emita la Dirección General de Evaluación y Diagnóstico para lograr el cumplimiento por parte de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado de éstas, así como en materia de adquisiciones, arrendamientos, servicios, obra pública y demás que señalen las disposiciones jurídicas y administrativas aplicables;
+XV. Verificar la aplicación de los indicadores de gestión, así como normas y lineamientos que emita cualquier Unidad Administrativa de la Contraloría General para lograr el cumplimiento por parte de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado de éstas, así como en materia de adquisiciones, arrendamientos, servicios, obra pública y demás que señalen las disposiciones jurídicas y administrativas aplicables;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
-
-XVI. Coadyuvar con la Dirección General de Auditoría en la revisión del ejercicio de los recursos federales transferidos a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, para que se apliquen con base en los acuerdos, convenios y bases de colaboración celebrados con las autoridades federales competentes;
+XVI. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
 XVII. Conocer, desahogar y resolver, a través de la unidad correspondiente, el procedimiento de Aclaración de los Actos, en términos de la ley de Obras Públicas del Distrito Federal; y
 
@@ -6456,17 +6422,17 @@ XVII. Conocer, desahogar y resolver, a través de la unidad correspondiente, el 
 
 XVIII. Recibir, analizar y tramitar las solicitudes de Certificación de Afirmativa Ficta, y vigilar que se desahogue correctamente el procedimiento por parte del superior jerárquico de la autoridad omisa, en los términos y plazos previstos en la Ley de Procedimiento Administrativo del Distrito Federal, debiendo informar a la Contraloría General sobre las solicitudes y trámites realizados, así como de las responsabilidades y sanciones que se determinen;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XIX. Elaborar, para autorización previa del titular de la Contraloría General, el Programa Operativo Anual correspondiente, así como rendir los informes periódicos derivados de su aplicación;
+XIX. Elaborar y remitir a la Dirección General de Contralorías Internas los informes periódicos derivados de la aplicación del Programa Operativo Anual correspondiente, así como proporcionar la información que se le solicite con motivo del mismo;
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 XX. Supervisar el cumplimiento de las obligaciones fiscales por parte de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXI. Participar con la representación que corresponda, en los Comités de Control y Evaluación, para verificar el cumplimiento de la implantación de sistemas de control y prevención específicos por parte de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
+XXI. Participar con la representación que corresponda, en los Comités de Control y Auditoría y demás sistemas de evaluación y diagnóstico que establezca la Dirección General de Evaluación y Comisariado para verificar el cumplimiento de la implantación de Sistemas de Control y Prevención específicos por parte de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -6508,9 +6474,9 @@ No procederá la suspensión, rescisión o terminación anticipada cuando se acr
 
 XXX. Realizar las investigaciones y solicitar toda clase de información y documentación que resulten necesarios, para la debida integración de los expedientes relacionados con las quejas y denuncias presentadas por particulares o servidores públicos o que se deriven de los procedimientos administrativos disciplinarios que substancien;
 
-> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-XXXI.- Vigilar que las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública a las que estén adscritas, cumplan con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y su Reglamento; y (sic)
+XXXI. Vigilar que las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativos y Entidades de la Administración Pública del Distrito Federal a las que estén adscritas, cumplan con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, su Reglamento y demás disposiciones aplicables en la materia;
 
 > <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
 
@@ -6538,55 +6504,61 @@ XXXVI. Las demás atribuciones que se deriven de este Reglamento u otras disposi
 
 BIS.- Corresponde a la Dirección Ejecutiva de Contraloría Ciudadana:
 
-> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-I. Promover los procesos de transparencia de la gestión pública, rendición de cuentas y evaluación de la Administración Pública, a través de la vigilancia ejercida por los contralores ciudadanos en los órganos colegiados de la Administración Pública del Distrito Federal, de las dependencias, unidades administrativas, órganos políticoadministrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, en la prestación de los servicios públicos, en las acciones de gobierno y en la actuación de los servidores públicos;
+I. Promover los procesos de transparencia de la gestión pública, rendición de cuentas y evaluación de la Administración Pública, a través de la vigilancia ejercida por los Contralores Ciudadanos en los órganos colegiados de la Administración Pública del Distrito Federal, de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, en el ejercicio del gasto público, la recaudación de ingresos, la prestación de los servicios públicos, en los programas y acciones de gobierno y en la actuación y desempeño de los servidores públicos;
 
-> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-II. Organizar y coordinar la Red de Contraloría Ciudadana, así como proponer la normatividad para su organización, integración, funcionamiento y evaluación del desempeño;
+II. Organizar y coordinar la Red de Contraloría Ciudadana, integrada por personas acreditadas como Contralores Ciudadanos por el Jefe de Gobierno del Distrito Federal, así como proponer la normatividad para su integración, funcionamiento y la evaluación de sus acciones y resultados;
 
-> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-II BIS. Convocar a la ciudadanía, a las organizaciones civiles y sociales, a las instituciones académicas y profesionales, y medios de comunicación a presentar propuestas de candidatas y candidatos a contralores ciudadanos;
+III. Convocar a la ciudadanía, a las organizaciones civiles y sociales, a las instituciones educativas, académicas y profesionales, cámaras y asociaciones y medios de comunicación a presentar propuestas de candidatos y candidatas a contralores ciudadanos;
 
-> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-III. Establecer los vínculos necesarios con las dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, para la incorporación y el desarrollo de las actividades de vigilancia de los contralores ciudadanos en sus órganos colegiados, en la prestación de los servicios públicos, en las acciones de gobierno y en la actuación de los servidores públicos;
+IV. Establecer los vínculos necesarios con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, para la incorporación y el desarrollo de las actividades de vigilancia, control y evaluación de los Contralores Ciudadanos en sus Órganos Colegiados, en el ejercicio del gasto público, la recaudación de ingresos, la prestación de los servicios públicos, en los programas y acciones de gobierno y en la actuación y desempeño de los servidores públicos;
 
-> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-IV. Integrar, sistematizar, y remitir a las áreas competentes las quejas y denuncias de los contralores ciudadanos, así como de las que éstos tengan conocimiento, y dar seguimiento a las propuestas y opiniones, de los contralores ciudadanos, con relación a sus actividades en las diversas dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito.
+V. Integrar, sistematizar, remitir y dar seguimiento ante las instancias competentes a las quejas, denuncias, informes, propuestas y opiniones de los Contralores Ciudadanos, con relación a sus actividades de vigilancia, control y evaluación en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-V. Desarrollar un Sistema de Formación, Asesoría y Capacitación para los integrantes de la Red de Contraloría Ciudadana para el desempeño de sus actividades;
+VI. Desarrollar un Sistema de Incorporación, Selección, Formación, Capacitación y Asesoría de Contralores Ciudadanos; así como proponer estímulos y reconocimientos a su labor;
 
-> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-VI. Supervisar y evaluar la actuación y desempeño de los contralores ciudadanos y proponer las medidas para hacer más eficientes las actividades de vigilancia ciudadana en la Administración Pública del Distrito Federal;
+VII. Supervisar y evaluar el desempeño de los Contralores Ciudadanos y proponer las acciones para hacer eficaz y eficiente la labor de vigilancia, control y evaluación ciudadana en la Administración Pública del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-VII. Solicitar de acuerdo a la naturaleza de sus funciones información y documentación a las dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública, y en su caso, sobre la atención y seguimiento que le dieron a las propuestas y opiniones de los contralores ciudadanos, así como gestionar y coordinar sus visitas ante dichos órganos administrativos para la realización de las funciones que tienen encomendadas;
+VIII. Solicitar de acuerdo a la naturaleza de sus funciones, información y documentación de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, sobre la atención y el seguimiento que le dieron a las propuestas y opiniones de los Contralores Ciudadanos, así como gestionar y coordinar sus visitas ante dichos órganos administrativos para la realización de las funciones que tienen encomendadas;
 
-VIII. Realizar estudios en materia de transparencia de la gestión pública, rendición de cuentas y participación ciudadana, en coordinación con la Red de Instituciones Asesoras o con aquellos sectores de la sociedad relacionados con estas materias;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-IX. Desarrollar un sistema de información y difusión permanente de las actividades realizadas por los contralores ciudadanos, así como de las propuestas e iniciativas emitidas por éstos que hayan contribuido a la eficiencia y transparencia de la gestión de la Administración Pública del Distrito Federal; y (sic)
+IX. Realizar estudios en materia de transparencia de la gestión pública, rendición de cuentas y Contraloría Ciudadana, en coordinación con las organizaciones, instituciones y sectores de la sociedad relacionados con esta materia;
 
-X. Participar en las instancias colegiadas, para el análisis de proyectos normativos que se refieran o tengan alguna incidencia en materia de participación ciudadana;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+X. Desarrollar un sistema de información y difusión permanente de las actividades realizadas por los contralores ciudadanos, así como de las propuestas e iniciativas emitidas por éstos, que hayan contribuido a la eficiencia y transparencia de la gestión de la Administración Pública del Distrito Federal;
 
-XI. Efectuar y coadyuvar con las unidades administrativas de la Contraloría General en las visitas, verificaciones, inspecciones y revisiones que se realicen con motivo del programa a su cargo, en las dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública del Distrito Federa;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+XI. Participar en las instancias colegiadas, para el análisis de proyectos normativos que se refieran o tengan alguna incidencia en materia de Contraloría Ciudadana;
 
-XII. Expedir previo cotejo copias certificados de los documentos que obren en sus archivos;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
-> <small>(ADICIONADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+XII. Efectuar y coadyuvar con las Unidades Administrativas de la Contraloría General en las visitas, verificaciones, inspecciones y revisiones que se realicen con motivo de los programas y acciones de la Contraloría Ciudadana, en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
-XIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XIII. Expedir previo cotejo copias certificadas de los documentos que obren en sus archivos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 28 DE FEBRERO DE 2007)</small>
+
+XIV. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia otorgará el apoyo necesario.
 
 ###### Artículo 113 Bis.
 
@@ -6832,6 +6804,386 @@ XV. Recibir y administrar el porcentaje que establezcan los ordenamientos corres
 
 XVI. Las demás que le confiera la Ley de Justicia Cívica para el Distrito Federal, el Consejero Jurídico y de Servicios Legales y el Consejo de Justicia Cívica.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
+
+#### SECCION XV
+
+DE LA SECRETARIA DE PROTECCION CIVIL.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+###### Artículo 119 Bis.
+
+Corresponde a la Dirección General de Prevención:
+
+I. Coordinar, dentro de su ámbito de competencia, los programas de Protección Civil en el Distrito Federal;
+
+II. Ser vocal ejecutivo del Consejo de Protección Civil del Distrito Federal;
+
+III. Proponer el establecimiento y modificación de normas en materia de Protección Civil;
+
+IV. Elaborar, operar, evaluar y actualizar el atlas de riesgo, en materia de Protección Civil;
+
+V. Representar al Distrito Federal, cuando así se lo autoricen sus superiores jerárquicos, y sin perjuicio de la representación preferente que a ellas corresponda, ante toda clase de autoridades e instituciones nacionales e internacionales, en materia de Protección Civil;
+
+VI. Autorizar, supervisar y vigilar la aplicación de los Programas Especiales de Protección Civil; y
+
+VII. Registrar, evaluar, coordinar y vigilar a las organizaciones civiles, empresas capacitadoras, así como a las empresas de consultoría y estudio de riesgo y vulnerabilidad, que por sus características se vinculen a la materia de protección civil;
+
+VIII. Coadyuvar en la elaboración de la Política General de Protección Civil, así como en la formulación de principios generales;
+
+IX. Coordinar dentro de su ámbito de competencia, los programas de Protección Civil del Distrito Federal;
+
+X. Coordinar los Programas y acciones de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal integrantes del Sistema de Protección Civil del Distrito Federal;
+
+XI. Realizar, proponer y coadyuvar en la realización de estudios, investigaciones, análisis y opiniones de carácter técnico, científico y académico, en materia de protección civil; y
+
+XII. Verificar el cumplimiento de la Ley, Reglamento, términos de referencia y normas técnicas complementarias en materia de Protección Civil;
+
+XIII. Dirigir estudios e investigaciones de los fenómenos socioorganizativos y la manera que estos afectan a la población y su entorno, a fin de diseñar planes y programas de orientación y capacitación, para cimentar una cultura de protección basada en medidas de autoprotección;
+
+XIV. Establecer los canales de comunicación que permitan proporcionar información oportuna a los diferentes grupos, de los planes y programas, antes, durante y después de una situación de emergencia;
+
+XV. Planear junto con las áreas responsables el establecimiento de criterios para la realización de simulacros, ejercicios y operativos como parte del Programa General de Protección Civil;
+
+XVI. Establecer los lineamientos generales para prevenir y enfrentar fenómenos y situaciones de alto riesgo, siniestros o desastres;
+
+XVII. Dirigir estudios para determinar los riesgos potenciales a los que se encuentran expuestos los habitantes de la Ciudad de México;
+
+XVIII. Asegurar que las áreas responsables elaboren los manuales de capacitación requeridos.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+###### Artículo 119 Ter.
+
+Corresponde a la Dirección General (sic) Emergencias Mayores:
+
+I. Elaborar modelos matemáticos de medición, simulación y respuesta ante emergencias en el Distrito Federal;
+
+II. Realizar y difundir programas de orientación y capacitación a los habitantes del Distrito Federal, antes, durante y después de una emergencia;
+
+III. Elaborar, operar, evaluar y actualizar el registro estadístico único de Situaciones de Emergencia del Distrito Federal;
+
+IV. Recabar, captar y sistematizar la información, para conocer la situación del Distrito Federal en condiciones normales y de emergencia;
+
+V. Normar los establecimientos temporales para el auxilio de los habitantes del Distrito Federal, en situaciones de emergencia;
+
+VI. Coordinar los dispositivos de apoyo para atender situaciones de emergencia o desastre;
+
+VII. Asegurar la operación del sistema de alerta de conformidad con la estructura funcional del sistema de Protección Civil en el Distrito Federal;
+
+VIII. Evaluar los mecanismos establecidos para determinar la dimensión física y social de la catástrofe, las necesidades prioritarias y los riesgos secundarios;
+
+IX. Aplicar los planes de emergencia establecidos y coordinar los mecanismos de acción en caso de emergencia;
+
+X. Coordinar los dispositivos de seguridad;
+
+XI. Establecer y coordinar los planes de seguridad, búsqueda, salvamento y asistencia, servicios estratégicos, equipamiento y bienes; salud, aprovisionamiento y reconstrucción inicial;
+
+XII. Establecer en coordinación con las dependencias, órganos e instituciones del sector público y privado, los lineamientos para la prestación de los servicios públicos que deben ofrecerse a la población en caso de situaciones de riesgo, siniestro o desastre;
+
+XIII. Evaluar los planes de respuesta existentes, ratificando y en su caso rectificando los procedimientos y contenidos de los mismos;
+
+XIV. Planear con base en la regionalización de riesgo-respuesta, manteniéndola actualizada;
+
+XV. Recomendar y evaluar la realización de simulacros en las áreas clasificadas de alto riesgo de ocurrencia de fenómenos naturales o antropogénicos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
+
+#### SECCION XVI
+
+DE LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+Artículo 119 Cuater.- Corresponde a la Dirección General de Trabajo y Previsión Social:
+
+I. Vigilar la observancia y aplicación de la Ley Federal del Trabajo, los Reglamentos y las disposiciones relativas de jurisdicción local;
+
+II. Establecer medidas para prevenir y en su caso conciliar los conflictos obrero-patronales;
+
+III. Dar seguimiento a los acuerdos que se celebren y recomendaciones que se generen con la Junta Local de Conciliación y Arbitraje del Distrito Federal para coadyuvar a la aplicación eficiente de la justicia laboral;
+
+IV. Llevar a cabo las actividades necesarias par (sic) que la Secretaría coordine la integración y establecimiento de la Junta Local de Conciliación y Arbitraje del Distrito Federal y de las Comisiones que formen para regular las relaciones obrero-patronales que sean de la jurisdicción local y vigilar su funcionamiento;
+
+V. Verificar la implementación y ejercer las políticas que se establezcan en materia de Trabajo y Previsión Social, para la promoción y protección de los derechos de los menores que trabajan;
+
+VI. Ejecutar las políticas que se implementen conforme a las disposiciones aplicables en materia de Trabajo y Previsión Social para propiciar el respeto de los derechos de las mujeres trabajadoras y lograr la equidad en el trabajo;
+
+VII. Llevar a cabo acciones de vigilancia como auxiliar de las autoridades federales, en materia de capacitación y adiestramiento, así como de seguridad e higiene en los centros de trabajo de circunscripción local;
+
+VIII. Ordenar y practicar inspecciones de trabajo en los establecimientos de jurisdicción local;
+
+IX. Calificar las infracciones a la Ley Federal del Trabajo e imponer y notificar las sanciones correspondientes en el ámbito de su competencia;
+
+X. Impulsar acciones encaminadas para garantizar la libre sindicalización y la garantía de voto secreto en los recuentos sindicales;
+
+XI. Vigilar que se apliquen las disposiciones laborales en materia de seguridad e higiene y medio ambiente en el trabajo y fomentar la constitución de las Comisiones Mixtas de Seguridad e Higiene en el Trabajo, en auxilio de las autoridades federales;
+
+XII. Verificar que las recomendaciones derivadas de los dictámenes de las actas de inspección se cumplan en los términos y plazos establecidos;
+
+XIII. Dar seguimiento a los resultados de la inspección, en lo que corresponda a las condiciones generales de trabajo y de seguridad, higiene y medio ambiente de trabajo en los centros de trabajo de jurisdicción local;
+
+XIV. Coadyuvar con las autoridades correspondientes en la prevención y conciliación de los conflictos laborales que se presenten en el Distrito Federal cuando así lo soliciten las partes;
+
+XV. Promover y difundir los derechos y obligaciones de los trabajadores asalariados y no asalariados;
+
+XVI. Planear, organizar, fomentar y dirigir las acciones en materia de seguridad, higiene y medio ambiente de trabajo, en los centros de trabajo de jurisdicción local y fomentar una cultura de prevención de los accidentes de trabajo a favor de los trabajadores asalariados;
+
+XVII. Vigilar la observancia y aplicación de las Leyes, Reglamentos y disposiciones administrativas aplicables a los trabajadores no asalariados;
+
+XVIII. Instrumentar acciones para que los trabajadores no asalariados gocen de los beneficios de la seguridad social;
+
+XIX. Proponer al titular de la Secretaría los proyectos de iniciativas de Leyes, Reglamentos o disposiciones administrativas y los planes y programas para la regulación y reordenación del trabajo no asalariado;
+
+XX. Vigilar la observancia y aplicación de las Leyes, Reglamentos y disposiciones administrativas aplicables a los trabajadores no asalariados;
+
+XXI. Proponer y ejecutar la política de conducción de las relaciones con los trabajadores no asalariados y sus organizaciones, aplicando las que en esa materia dicte el Jefe de Gobierno;
+
+XXII. Proponer al titular de la Secretaría los proyectos de iniciativas de Leyes, Reglamentos o disposiciones administrativas y los planes y programas para la regulación y reordenación del trabajo no asalariado;
+
+XXIII. Fomentar acciones de concertación para prevenir o solucionar conflictos entre los trabajadores no asalariados, y sus respectivas organizaciones;
+
+XXIV. Concertar acciones con representantes de las organizaciones de trabajadores no asalariados, comerciantes establecidos, industriales, prestadores de servicios e instituciones públicas y vecinos, para conciliar los intereses de todos los sectores en la solución de problemas específicos que se presenten en unidades administrativas y unidades administrativas de apoyo técnico-operativo de su competencia;
+
+XXV. Llevar un registro de los trabajadores no asalariados y sus organizaciones;
+
+XXVI. Realizar los estudios técnicos necesarios para determinar la viabilidad del establecimiento de empresas y unidades productivas, que resulten una alternativa para los trabajadores no asalariados, con el fin de proponer los planes y programas que resulten a las autoridades competentes; y
+
+XXVII. Asesorar a los trabajadores no asalariados para el mejoramiento de sus condiciones de vida, tanto a través de formas de organización interna como de formas alternativas de organización y producción.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+Artículo 119 Quintus. Corresponde a la Dirección General de Empleo, Capacitación y Fomento Cooperativo:
+
+I. Planear, diseñar, coordinar, fomentar y evaluar programas de empleo, de capacitación y adiestramiento, con la intervención que corresponda a las autoridades federales;
+
+II. Coadyuvar en la emisión de las políticas y lineamientos que se deban observar para desarrollar los Programas de Trabajo de conformidad con la normatividad vigente;
+
+III. Fomentar actividades de promoción y concertación que apoyen acciones relativas al empleo y la capacitación;
+
+IV. Promover y consolidar acciones que generen ocupación productiva;
+
+V. Verificar que la organización y programación de cursos relativos al programa de becas de capacitación trabajadores desempleados se realice oportuna y eficazmente, de acuerdo con el calendario que establezca la Secretaría del Trabajo y Previsión Social;
+
+VI. Gestionar y administrar los recursos financieros del programa de becas de capacitación a trabajadores desempleados y evaluar permanentemente la ejecución del programa, informando a las instancias competentes de los avances correspondientes;
+
+VII. Autorizar, en su caso, el establecimiento y operación de las agencias de colocación de los trabajadores, en coordinación con la Secretaría del Trabajo y Previsión Social;
+
+VIII. Estudiar y coordinar, en su caso, las campañas publicitarias encaminadas a difundir los derechos y obligaciones de trabajadores y empresas que establece la Ley Federal del Trabajo en materia de empleo y capacitación, con intervención que corresponda a la Dirección General de Comunicación Social;
+
+IX. Instruir a las unidades administrativas y unidades administrativas de apoyo técnico-operativo para que elabore materiales de promoción y difusión relativos a su competencia;
+
+X. Coordinarse con el Servicio Nacional de Empleo y Capacitación para proporcionar la asesoría que permita la colocación adecuada de los trabajadores en el ámbito del Distrito Federal;
+
+XI. Auxiliar en el diseño e instrumentación de programas para la formación y capacitación laboral;
+
+XII. Planear, organizar, fomentar y dirigir, como auxiliar de las autoridades federales, el empleo, la capacitación y el adiestramiento, así como la seguridad e higiene en los centros de trabajo en el ámbito de jurisdicción local;
+
+XIII. Planear, organizar, fomentar, difundir, ejecutar, financiar y evaluar programas de apoyo al sector cooperativista;
+
+XIV. Vigilar, supervisar, coordinar y ejecutar los programas de fomento cooperativo instrumentados por las unidades administrativas, de su competencia;
+
+XV. Impulsar la coordinación de los programas de fomento cooperativo en las unidades administrativas de apoyo técnico-operativo, de su competencia.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+Artículo 119 Sextus. Corresponde a la Dirección de Estudios y Estadísticas del Trabajo:
+
+I. Promover la investigación sobre la problemática laboral en el Distrito Federal, y elaborar diagnósticos, análisis y estudios en la materia, que contribuyan a la formulación de la política laboral en el Distrito Federal., así como promover la participación de organizaciones gubernamentales en el estudio y difusión de la misma; y el establecimiento de relaciones de colaboración con instituciones nacionales e internaciones (sic), para desarrollar conjuntamente investigaciones, seminarios y programas de difusión relacionados con dicha problemática;
+
+II. Integrar un banco de información estadística y archivo documental de temas relacionados con la problemática laboral, así como proporcionar a trabajadores, empresarios e instituciones académicas, los servicios del centro de documentación e información y la accesoría (sic) de su unidad de apoyo e investigación;; (sic)
+
+III. Difundir con recursos propios, o mediante convenios con otros organismos públicos o privados, estudios y documentos de interés general, en el ámbito laboral;
+
+IV. Coordinar y dar seguimiento a los asuntos relacionados con estudios e investigación sobre aspectos de trabajo;
+
+V. Proponer al superior jerárquico las políticas en materia de estadística y datos laborales;
+
+VI. Rendir informes sobre la gestión de asuntos de su competencia;
+
+VII. Proporcionar y requerir de las autoridades competentes, la información y documentación necesaria para el desarrollo de sus funciones; y
+
+VIII. Las demás que le confieran otras disposiciones.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+Artículo 119 Septimus. Corresponde a la Procuraduría de la Defensa del Trabajo, además de las facultades que establece el Reglamento de la Procuraduría de la Defensa del Trabajo del Distrito Federal:
+
+I. Establecer medidas para prevenir y en su caso, conciliar los conflictos obrero-patronales;
+
+II. Asesorar y representar a los trabajadores en sus conflictos laborales y sus sindicatos en las revisiones y cumplimiento de los contratos colectivos, cuando éstos lo soliciten;
+
+III. Asesorar y en su caso representar a los trabajadores y a los sindicatos que lo soliciten en los asuntos controversias (sic) que se relacionen con la aplicación de las normas de trabajo en el ámbito local;
+
+IV. Orientar y asesorar a los trabajadores y patrones, para las revisiones y cumplimientos de los contratos colectivos en el ámbito de su competencia;
+
+V. Promover políticas en coordinación con la Junta Local de Conciliación y Arbitraje en contra de las prácticas que promueven la existencia de contratos colectivos de protección;
+
+VI. Implementar políticas para la protección y mejoramiento de los derechos de los trabajadores asalariados;
+
+VII. Coadyuvar con la Junta Local de Conciliación y Arbitraje del Distrito Federal, en los acuerdos que ésta celebre para la aplicación eficiente de la justicia laboral, cuando así lo solicite;
+
+VIII. Denunciar en la vía correspondiente la falta o retención de pago de los salarios mínimos o del reparto de utilidades, interponiendo las acciones, recursos o gestiones encaminadas a subsanar dicha omisión;
+
+IX. Denunciar al pleno de la junta local de conciliación y arbitraje del Distrito Federal, los criterios contradictorios en que hayan incurrido las juntas especiales al pronunciar sus laudos, invitándolo a unificar el sentido de dichas decisiones para que haya congruencia entre ellas;
+
+X. Denunciar ante el Presidente de la Junta Local de Conciliación y Arbitraje, así como ante el jurado de responsabilidad de representantes, el incumplimiento de los deberes de los funcionarios encargados de impartir la justicia laboral, para que aquellos procedan con arreglo a derecho;
+
+XI. Coordinar sus funciones con todas las autoridades laborales que en cada uno de los estados, así como con la Procuraduría Federal de la Defensa del Trabajo, a efecto de establecer criterios comunes para la defensa eficaz de los derechos de los trabajadores, con ese objeto podrá celebrar convenios con dichas dependencias, respetando en cada caso sus respectivas esferas de competencia;
+
+XII. Dirigir y coordinar sus funciones, mediante la asignación de facultades a sus demás áreas administrativas y técnico-operativas cuando no estén asignadas a otras, por alguna disposición jurídica o administrativa; y
+
+XIII. Difundir ante los medios de comunicación, los derechos y obligaciones de los trabajadores asalariados, ofreciendo sus servicios de manera gratuita.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
+
+#### SECCION XVII
+
+DE LA SECRETARIA DE EDUCACION.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+Artículo 119 Octavus.- Corresponde a la Dirección de Educación Básica:
+
+I. Diseñar proyectos de innovación en los planos administrativo-estructural y teórico-conceptual, acerca de sistemas y modelos educativos;
+
+II. Promover, formular y ejecutar programas y acciones en materia educativa;
+
+III. Elaborar propuestas de atención a la problemática educativo (sic) del servicio inicial, así como del nivel básico;
+
+IV. Coordinar, evaluar y apoyar la ejecución de programas y acciones educativas en el ámbito de competencia del Distrito Federal;
+
+V. Mantener actualizada la información sobre la educación básica en el Distrito Federal;
+
+VI. Planear acciones educativas en el nivel formal dentro del marco del Programa de Ciudades Educadoras;
+
+VII. Atender solicitudes y demandas ciudadanas o de otras instituciones relacionadas con la educación inicial y básica;
+
+VIII. Coordinar, normar y evaluar las acciones de mantenimiento de escuelas a cargo de la Administración Publica;
+
+IX. Desarrollar e instrumentar modelos alternativos de educación que contribuyan a mejorar los servicios educativos locales y ampliar la oferta de los mismos;
+
+X. Formular propuestas para preparar la descentralización de la educación pública básica;
+
+XI. Supervisar la entrega de libros de texto gratuito a las secundarias públicas del Distrito Federal e instrumentar los mecanismos para planear, organizar, desarrollar, administrar, supervisar y evaluar los servicios del Sistema Educativo del Distrito Federal;
+
+XII. Vigilar y evaluar la educación que impartan los particulares en planteles incorporados al sistema educativo del Distrito Federal;
+
+XIII. Coordinar la prestación de los servicios bibliotecarios a través de bibliotecas públicas, propiciando la innovación educativa, científica, tecnológica y humanística;
+
+XIV. Fomentar la participación de las comunidades educativas, de las instituciones académicas y de la sociedad en general, en las actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+Artículo 119 Novenus.- Corresponde a la Dirección de Planeación:
+
+I. Apoyar al Secretario de Educación en la formulación y coordinación de las políticas, programas y acciones de promoción y difusión de la investigación científica y la innovación tecnológica;
+
+II. Sistematizar la información que en materia de investigación científica e innovación tecnológica reciba de las instituciones académicas y centros de investigación públicos y privados, y operar un sistema de consulta;
+
+III. Instrumentar la coordinación y distribución educativa entre la Federación y el Distrito Federal;
+
+IV. Formular y fomentar las políticas y programas que contribuyan a elevar los niveles y la calidad de la educación;
+
+V. Coordinar la elaboración de planes y programas de trabajo de la Secretaría de Educación;
+
+VI. Programar y organizar la memoria documental de la Dirección General de Asuntos Educativos;
+
+VII. Intervenir en el desarrollo y operación del Programa de Libros de Texto Gratuitos para Secundaria (sic) Públicas del D. F.;
+
+VIII. Supervisar, en conjunto con otras áreas involucradas del Gobierno del Distrito Federal o del Gobierno Federal, los programas y acciones que en materia educativa se realicen en el ámbito de competencia del Distrito Federal;
+
+IX. Establecer coordinación permanente con instituciones del sector de la Secretaría de Desarrollo Social para crear programas encaminados a garantizar los servicios educativos a la población;
+
+X. Planear la realización de estudios educativos de acuerdo con las necesidades del Distrito Federal;
+
+XI. Intervenir en la evaluación de las diferentes acciones que en materia educativa realice la Dirección; y
+
+XII. Elaborar los análisis necesarios para la formulación de políticas educativas que coadyuven al cumplimiento de los objetivos planeados por la Dirección General.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
+
+#### SECCION XVIII
+
+DE LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+Artículo 119 Decimus.- Corresponde a la Dirección General de Desarrollo Rural:
+
+I. Proponer las políticas y programas en materia de promoción y fomento agrícola, agropecuario y de turismo alternativo en el ámbito rural, con apego a los criterios, lineamientos y demás disposiciones aplicables en materia de preservación y restauración del equilibrio ecológico y la protección del ambiente;
+
+II. Promover y conducir los programas de capacitación y desarrollo tecnológico para el sector rural;
+
+III. Promover el empleo en el medio rural de la Ciudad de México, en coordinación con la Secretaría de Trabajo y Fomento al Empleo;
+
+IV. Promover y ejecutar los programas y acciones que tiendan a fomentar la productividad y rentabilidad de las actividades que se desarrollen en el medio rural;
+
+V. Promover la integración de asociaciones rurales de la Ciudad de México;
+
+VI. Elaborar, actualizar y difundir un banco de información de los proyectos y oportunidades de inversión en el sector rural de la Ciudad de México;
+
+VII. Promover, orientar y fomentar los programas económicos y apoyos financieros que estimulen la inversión y la creación de empleos en la zona rural del Distrito Federal;
+
+VIII. Promover, estimular y realizar los estudios tendientes a lograr el desarrollo y mejoramiento de las actividades agropecuarias en las zonas rurales del Distrito Federal;
+
+IX. Proponer el establecimiento y conducir y coordinar los mecanismos de apoyo para la actividad productiva sustentable del sector rural, incluyendo asesorías, asistencia técnica y capacitación;
+
+X. Promover y fomentar la creación de centros de acopio de producción agrícola y centrales de abasto;
+
+XI. Promover y fomentar actividades agropecuarias a través de acciones y apoyos entre asociaciones, coinversiones, alianzas estratégicas y otros sectores productivos;
+
+XII. Promover acciones conjuntas entre la Administración Pública, productores agropecuarios y centros de investigación, a fin de establecer proyectos de desarrollo rural sustentable;
+
+XIII. Realizar, con la participación de la Secretaría del Medio Ambiente del Distrito Federal, análisis de viabilidad, sobre los proyectos productivos que se generen en las zonas rurales;
+
+XIV. Coordinar la operación y aprovechamiento de los fondos que, en materia agropecuaria, se constituyan;
+
+XV. Promover y fomentar la vinculación entre el productor rural y el sector comercial, comercio al detalle, así como la venta directa del productor rural al consumidor;
+
+XVI. Promover y fomentar la creación de empresas agroindustriales, de turismo alternativo, artesanales, comerciales y de servicios en el Distrito Federal, así como el desarrollo de nuevas tecnologías de producción agropecuaria en el Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
+
+XVII. Promover, en coordinación con la Secretaría del Medio Ambiente del Distrito Federal y las demás autoridades competentes, actividades productivas sustentables en la zona rural del Distrito Federal;
+
+XVIII. Promover la organización campesina e inducir la participación de los habitantes en programas agropecuarios y piscícolas, que fortalezcan la producción y su desarrollo, de desarrollo rural sustentable contribuyendo a evitar la expansión urbana en la zona rural del Distrito Federal;
+
+XIX. Emitir opinión sobre la expedición de los permisos, autorizaciones y otros instrumentos jurídicos para el uso o aprovechamiento de espacios e infraestructura en zonas rurales del Distrito Federal, en apego a la Ley del Régimen Patrimonial y del Servicio Público y demás ordenamientos jurídicos aplicables;
+
+XX. Promover obras de infraestructura en el ámbito rural con apego a la legislación ambiental vigente;
+
+XXI. Formular, evaluar y ejecutar políticas vinculadas a la actividad agropecuaria y piscícola en el Distrito Federal; y
+
+XXII. Participar en la formulación de políticas y programas para el desarrollo, promoción y fomento del turismo alternativo en suelo de conservación del Distrito Federal, de conformidad con lo que establezcan las Secretarías de Turismo y de Desarrollo Rural y Equidad para las Comunidades;
+
+El ejercicio de las atribuciones conferidas a la Dirección General de Desarrollo Rural, se llevará a cabo atendiendo a las disposiciones ambientales y demás que resulten aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+
+Artículo 119 Undecimus.- Corresponde a la Dirección General de Equidad para los Pueblos Indígenas y Comunidades Étnicas:
+
+I. Promover la adecuación de los planes, programas y proyectos que lleven a cabo las dependencias y entidades de la administración pública del Distrito Federal, para que atiendan a la población indígena y las comunidades étnicas del Distrito Federal;
+
+II. Desarrollar planes, programas y proyectos que promuevan el ejercicio de los derechos específicos de los pueblos y comunidades indígenas del Distrito Federal;
+
+III. Desarrollar programas que promuevan la educación cívica y de cultura de la legalidad, enfocados a prevenir y erradicar conductas discriminatorias por razones étnicas;
+
+IV. Participar, desarrollar y organizar foros, seminarios y congresos nacionales e internacionales e impartir cursos y programas de capacitación sobre asuntos indígenas, étnicos, de diversidad cultural e interculturalidad del Distrito Federal;
+
+V. Concertar acciones con los sectores social y privado y a las organizaciones nacionales e internacionales, para que coadyuven en la realización de acciones en beneficio de los indígenas;
+
+VI. Promover la participación, coordinación, colaboración e información entre las instituciones públicas y privadas en acciones que la Administración Pública del Distrito Federal ejecute en materia de pueblos indígenas y comunidades étnicas;
+
+VII. Promover la realización de estudios, investigaciones y diagnósticos relacionados con la presencia y derechos de la población indígena y las comunidades étnicas en la Ciudad de México, así como brindar asesoría a las dependencias en materia indígena y étnica;
+
+VIII. Promover la elaboración, publicación y distribución de material informativo y formativo sobre temas indígenas y étnicos;
+
+IX. Proponer la celebración de acuerdos, convenios y acciones de concertación con los sectores público, social y privado, que contribuyan a la realización de acciones dirigidas a mejorar la calidad de vida de los indígenas en el Distrito Federal;
+
+X. Establecer los canales para fomentar el intercambio económico y cultural con las comunidades étnicas del Distrito Federa;
+
+XI. Promover la difusión de las distintas manifestaciones artísticas y culturales de las comunidades étnicas.
+
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
 #### SECCION I
@@ -6839,30 +7191,6 @@ XVI. Las demás que le confiera la Ley de Justicia Cívica para el Distrito Fede
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN ALVARO OBREGON.
 
 > <small>(REFORMADO, G.O. 31 DE ENERO DE 2001)</small>
-
-#### SECCION II
-
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN AZCAPOTZALCO.
-
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
-
-#### SECCION III
-
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECÍFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN BENITO JUAREZ.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-#### SECCION IV
-
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
-
-> <small>(REFORMADO PRIMER PARRAFO , G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-#### SECCION V
-
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAJIMALPA DE MORELOS.
-
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ## TITULO SEGUNDO BIS. DE LA ADMINISTRACION PUBLICA CENRALIZADA (SIC), DESCONCENTRADA Y DE LOS ORGANOS POLITICO-ADMINISTRATIVOS
 
@@ -7908,9 +8236,9 @@ a. (sic) Las demás que de manera directa les asignen el titular del Órgano Pol
 
 > <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION VI
+#### SECCION II
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAUHTEMOC.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN AZCAPOTZALCO.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -8064,11 +8392,11 @@ IV. Dar mantenimiento a los mercados públicos que se encuentran a su cargo, de 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION VII
+#### SECCION III
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN GUSTAVO A. MADERO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECÍFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN BENITO JUAREZ.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 132.
 
@@ -8224,11 +8552,11 @@ XVI. Apoyar a los subcomités de seguridad pública, convocarlos a las sesiones 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION VIII
+#### SECCION IV
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTACALCO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO , G.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 137.
 
@@ -8612,9 +8940,9 @@ XXXIV. Las que de manera directa el (sic) asigne el Jefe Delegacional.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION IX
+#### SECCION V
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTAPALAPA.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAJIMALPA DE MORELOS.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -8980,9 +9308,9 @@ XVIII. Las demás que le atribuyan los ordenamientos jurídicos y administrativo
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION X
+#### SECCION VI
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN LA MAGDALENA CONTRERAS.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAUHTEMOC.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -9038,9 +9366,9 @@ VI. Formular y difundir programas de educación comunitaria, social y privada pa
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION XI
+#### SECCION VII
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN MIGUEL HIDALGO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN GUSTAVO A. MADERO.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -9178,9 +9506,9 @@ Corresponde a la Dirección General de Desarrollo Social además de las atribuci
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION XII
+#### SECCION VIII
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN MILPA ALTA.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTACALCO.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -9258,9 +9586,9 @@ XIV. Las demás que de manera directa el titular del Órgano Político-Administr
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION XIII
+#### SECCION IX
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN TLAHUAC.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTAPALAPA.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -9308,9 +9636,9 @@ III. Las demás que de manera directa le asigne el titular del Órgano Político
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION XIV
+#### SECCION X
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN TLALPAN.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN LA MAGDALENA CONTRERAS.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -9384,11 +9712,11 @@ XXIV. Las demás que de manera directa le asigne el titular del Órgano Polític
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION XV
+#### SECCION XI
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN VENUSTIANO CARRANZA.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN MIGUEL HIDALGO.
 
-> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2001)</small>
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 162.
 
@@ -9552,9 +9880,9 @@ XVI. Emitir su opinión respecto al control de las Zonificación en cuanto al us
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION XVI
+#### SECCION XII
 
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN XOCHIMILCO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN MILPA ALTA.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -9724,11 +10052,11 @@ XVI. Las demás que de manera directa le asigne el titular del órgano político
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION I
+#### SECCION XIII
 
-ADSCRITO A LA JEFATURA DE GOBIERNO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN TLAHUAC.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 133], G.O. 31 DE ENERO DE 2001)
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 173.
 
@@ -9812,9 +10140,11 @@ V. Formular y difundir programas de educación comunitaria, social y privada par
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION II
+#### SECCION XIV
 
-ADSCRITO A LA SECRETARIA DE GOBIERNO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN TLALPAN.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 177.
 
@@ -9942,11 +10272,11 @@ XIII. Recibir, atender y dar respuesta a las solicitudes y peticiones que formul
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCIÓN III
+#### SECCION XV
 
-ADSCRITO A LA SECRETARIA DEL MEDIO AMBIENTE.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN VENUSTIANO CARRANZA.
 
-> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2001)</small>
 
 ###### Artículo 182.
 
@@ -10104,7 +10434,11 @@ III. Promover, apoyar e impulsar las tareas de preservación del patrimonio cult
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION IV
+#### SECCION XVI
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN XOCHIMILCO.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 189.
 
@@ -10220,9 +10554,11 @@ V. Llevar a cabo acciones tendientes a promover la incorporación de barrios reg
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-#### SECCION V
+#### SECCION I
 
-ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
+ADSCRITO A LA JEFATURA DE GOBIERNO.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 133], G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 191.
 
@@ -10346,9 +10682,9 @@ XII. Las demás que les atribuyan expresamente las disposiciones jurídicas y ad
 
 (REUBICADA, G.O. 31 DE ENERO DE 2001)
 
-#### SECCION VI
+#### SECCION II
 
-ADSCRITO A LA SECRETARIA DE TRANSPORTES Y VIALIDAD.
+ADSCRITO A LA SECRETARIA DE GOBIERNO.
 
 ###### Artículo 197.
 
@@ -10368,15 +10704,23 @@ VI. Establecer un Registro de las Instituciones de Asistencia Privada y con base
 
 (REUBICADA, G.O. 31 DE ENERO DE 2001)
 
-#### SECCION VII
+#### SECCIÓN III
 
-ADSCRITAS A LA SECRETARIA DE TURISMO.
+ADSCRITO A LA SECRETARIA DEL MEDIO AMBIENTE.
+
+> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2005)</small>
 
 ###### Artículo 198.
 
 (DEROGADO, G.O. 19 DE ENERO DE 2007)
 
 > <small>(ADICIONADA, G.O. 30 DE MAYO DE 2005)</small>
+
+#### SECCION IV
+
+#### SECCION V
+
+ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
 
 ###### Artículo 199.
 
@@ -10417,6 +10761,14 @@ VI.- Las demás que le confieran otras disposiciones jurídicas y administrativa
 ###### Artículo 204.
 
 (DEROGADO, G.O. 19 DE ENERO DE 2007)
+
+#### SECCION VI
+
+ADSCRITO A LA SECRETARIA DE TRANSPORTES Y VIALIDAD.
+
+#### SECCION VII
+
+ADSCRITAS A LA SECRETARIA DE TURISMO.
 
 ###### Artículo 205.
 
@@ -10659,3 +11011,21 @@ QUINTO.- Cuando con motivo de la aplicación de este decreto los trabajadores de
 SEXTO.- Las referencias hechas en otros ordenamientos jurídicos y administrativos a unidades administrativas u órganos desconcentrados que por virtud de este decreto hubieren dejado de tener competencia en las materias que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
 
 SÉPTIMO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan al presente Decreto.
+
+G.O. 28 DE FEBRERO DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Los asuntos, competencia de las Unidades Administrativas de nueva creación, que antes de la entrada en vigor del presente decreto correspondían a otras distintas, seguirán siendo tramitados y resueltos por estas últimas, hasta en tanto las de nueva creación no inicien formalmente sus actividades.
+
+TERCERO.- La Secretaría de Medio Ambiente y la Secretaría de Desarrollo Rural y Equidad para las Comunidades implementarán los mecanismos para que, de manera expedita y sin menoscabo de la atención a los beneficiarios, se efectúe la subrogación de los derechos y obligaciones concertados con terceros en ejecución de los programas que son objeto de transferencia.
+
+CUARTO.- Las dependencias y unidades administrativas que con motivo de la entrada en vigor del presente decreto deban transferir recursos humanos, materiales, técnicos y financieros a las unidades administrativas de Nueva Creación o a las que son objeto de transformación, lo harán en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+QUINTO.- Las dependencias cuyas unidades administrativas que por virtud de este decreto se hubieren modificado o creado, deberán adecuar o elaborar sus estructuras orgánicas y actualizar sus Manuales de Organización y Procedimientos en los plazos y condiciones establecidas por la Oficialía Mayor.
+
+SEXTO.- Cuando con motivo de la aplicación de este decreto los trabajadores de una dependencia, unidad administrativa pasen a formar parte de otra, sus derechos laborales serán respetados conforme a la ley.
+
+SÉPTIMO.- Las referencias hechas en otros ordenamientos jurídicos y administrativos a unidades administrativas que por virtud de este decreto hubieren dejado de tener competencia en las materia (sic) que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+OCTAVO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
