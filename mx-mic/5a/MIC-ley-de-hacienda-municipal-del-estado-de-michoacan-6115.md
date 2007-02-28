@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2006-12-20"
+last_updated: "2007-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2007.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -1123,59 +1123,71 @@ Las infracciones a este Capítulo, se sancionarán conforme a lo dispuesto por e
 
 #### Sección Primera. De la Definición
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 100.
 
-Se entenderá por servicio de alumbrado público, el que el municipio otorga a través de sus contratantes a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
+Se entenderá por servicio de alumbrado público, el que el municipio presta a la comunidad en avenidas, calles, callejones, andadores, plazas, semáforos, parques y jardines, así como el alumbrado ornamental de temporada, en lugares públicos dentro del municipio.
 
 #### Sección Segunda. Del Objeto
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 101.
 
-Es objeto de este derecho del consumo de energía eléctrica y el mantenimiento y reposición de infraestructura necesaria para la prestación del servicio de alumbrado público, que se otorga en avenidas, calles, callejones, andadores, plazas, semáforos, parques y jardines, así como el alumbrado ornamental de temporada, siempre y cuando sean para lugares o servicios públicos dentro del municipio.
+Es objeto de este derecho el servicio de alumbrado público que prestan los municipios en avenidas, calles, callejones, andadores, plazas, semáforos, parques y jardines, así como el alumbrado ornamental de temporada, en lugares públicos dentro del municipio.
 
 #### Sección Tercera. De los Sujetos
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 102.
 
-Son sujetos de este derecho las personas físicas o morales propietarias, poseedoras, usufructuarias o usuarias de predios en el municipio, que reciban el servicio de alumbrado público.
+Son sujetos de este derecho las personas físicas o morales propietarias, poseedoras, usufructuarias o usuarias de predios ubicados en el territorio del municipio, que reciban el servicio de alumbrado público que presta el Municipio.
 
 #### Sección Cuarta. De las Excepciones
 
+(NOTA: EL 13 DE ABRIL DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE MAYO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2007)</small>
+
 ###### ARTICULO 103.
 
-No son sujetos de este derecho, las personas físicas o morales que han contratado o contraten servicios de energía eléctrica para operar bombas de agua potable o negras, molinos de nixtamal y para usos agrícolas.
+Quedan exceptuados del pago de este derecho, las personas físicas o morales propietarias, poseedoras, usufructuarias o usuarias de predios ubicados en el territorio del municipio en los que operen bombas de agua potable o negras, molinos de nixtamal y para usos agrícolas.
 
 #### Sección Quinta. De la Base
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 104.
 
-Es base gravable de este derecho, el gasto total que implica al Municipio la prestación del servicio de alumbrado público, la cual se obtendrá de la suma de los conceptos siguientes:
+Es base gravable este derecho, el gasto que implica al Municipio la prestación del servicio de alumbrado público, en el cual estarán incluidos los conceptos siguientes:
 
-A. Importe del suministro de energía para alumbrado público;
+a) El importe del suministro de energía eléctrica para la prestación del servicio de alumbrado público;
 
-B. Sueldos del personal encargado de las tareas inherentes a la prestación del servicio de alumbrado público;
+b) Los sueldos del personal necesario para la prestación del servicio de alumbrado público;
 
-C. Gasto que representa al Municipio la instalación de infraestructura de alumbrado público;
+c) El costo de los insumos y materiales necesarios para la planeación, operación y mantenimiento de la infraestructura del servicio de alumbrado público;
 
-D. Gasto que representa el mantenimiento de líneas y postes y gastos de operación del Departamento de Alumbrado Público, al Municipio;
+d) El costo de los equipos requerido para la planeación, instalación, conservación y operación de la infraestructura del alumbrado público;
 
-E. Reposición de lámparas; y,
+e) En general el costo que representa al Municipio la instalación de la infraestructura para el servicio de alumbrado público;
 
-F. Reserva para reposición de materiales y suministros.
+f) El costo de los insumos requeridos para la reposición al término de vida útil y/o actualización tecnológica, de la infraestructura e instalaciones del servicio de alumbrado público;
+
+g) Los gastos relativos a la administración y recaudación del pago de los derechos del servicio de alumbrado público; y,
+
+h) La reserva para sufragar los costos del servicio de alumbrado público.
 
 #### Sección Sexta. Del Pago del Derecho
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 105.
 
-El pago de este derecho, se causará anualmente y se pagará mensualmente o bimestralmente conforme a las tarifas que señale la Ley de Ingresos del Municipio.
+La contraprestación por el derecho de alumbrado público se causará diariamente y se pagará mensual o bimestralmente conforme a las tarifas y forma que señale la Ley del Ingresos del Municipio; y servirá para que la municipalidad cubra los costos en los que incurra con motivo de la prestación del servicio de alumbrado público.
+
+Los Municipios tendrán a su cargo la recaudación del derecho del servicio de alumbrado público, y podrán celebrar convenios con la Comisión Federal de Electricidad, para que realice la recaudación.
 
 #### Sección Séptima. De las Infracciones y Sanciones
 
@@ -2008,3 +2020,9 @@ P.O. 20 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el 1 de enero de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 28 DE FEBRERO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
