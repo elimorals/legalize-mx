@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2006-12-27"
+last_updated: "2007-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2007.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -289,9 +289,9 @@ LXII.- SATEVO; con cabecera en el pueblo denominado San Francisco Javier de Sate
 
 LXIII.- SAUCILLO; con cabecera en la ciudad del mismo nombre y las secciones municipales de Naica y las Varas;
 
-(REFORMADA, P.O. 25 DE OCTUBRE DE 2000) (F. DE E., P.O. 17 DE FEBRERO DE 2001) (F. DE E., P.O. 6 DE MARZO DE 2002)
+(REFORMADA, P.O. 28 DE FEBRERO DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
 
-LXIV.- TEMOSACHI, con cabecera en el pueblo del mismo nombre y las secciones municipales de Babícora de Conoachi, Cocomórachi, Tosanachi, Tutuaca, Yepachi y Yepómera;
+LXIV.- TEMÓSACHIC, con cabecera en el pueblo del mismo nombre y sus Secciones Municipales de Babícora de Conoachic, Cocomórachic, Tosanachic, Tutuaca, Yepachic y Yepómera;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2002)</small>
 
@@ -1841,17 +1841,17 @@ Son aplicables supletoriamente al presente titulo, las disposiciones de la Ley d
 
 Las faltas de los servidores públicos municipales podrán ser temporales o definitivas, siendo las primeras aquéllas que no excedan de seis meses, salvo en los casos debidamente justificados.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 100.
 
-En ejercicio de sus funciones, el Presidente Municipal no podrá ausentarse del territorio del municipio por más de diez días.
+En ejercicio de sus funciones, el Presidente Municipal no podrá ausentarse del territorio del municipio por más de quince días.
 
-Cuando deba ausentarse por un término de diez días o menos, bastará con que dé aviso de su salida al Ayuntamiento, con el objeto de que este último designe de entre sus regidores, al que deba encargarse del despacho de los asuntos de la Presidencia, hasta el regreso del Presidente Municipal.
+Cuando deba ausentarse por un término de quince días o menos, bastará con que dé aviso de su salida al Ayuntamiento, con el objeto de que este último designe de entre sus regidores al que deba encargarse del despacho de los asuntos de la Presidencia, hasta el regreso del Presidente Municipal.
 
-Cuando el Presidente Municipal salga del territorio de su municipio por dos días o menos tiempo o en días inhábiles para la administración, no es necesario dar aviso al Ayuntamiento, pues en tales casos bastará con que de aviso al Secretario del mismo para que éste se encargue del despacho de los asuntos de la Presidencia, sujetándose a las atribuciones que le otorga la propia ley y sin invadir las facultades que le corresponden al Presidente Municipal.
+Cuando el Presidente Municipal salga del territorio de su municipio por dos días o menos tiempo o en días inhábiles para la administración, no es necesario dar aviso al Ayuntamiento, pues en tales casos bastará con que dé aviso al Secretario del mismo, para que éste se encargue del despacho de los asuntos de la Presidencia, sujetándose a las atribuciones que le otorga la propia ley y sin invadir las facultades que le corresponden al Presidente Municipal.
 
-Si el Presidente Municipal requiere ausentarse por más de diez días, deberá solicitar licencia en los términos del artículo siguiente.
+Si el Presidente Municipal requiere ausentarse por más de quince días deberá solicitar licencia en los términos del artículo siguiente.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
 
@@ -3772,3 +3772,27 @@ P.O. 27 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor una vez publicado en el Periódico Oficial del Estado, el día primero de enero del año dos mil siete.
+
+P.O. 28 DE FEBRERO DE 2007.
+
+DECRETO No. 863/07 VII P.E.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE FEBRERO DE 2007.
+
+DECRETO No. 864/07 VII P.E.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202, último párrafo de la Constitución Política del Estado, remítase sin más trámite el presente Decreto para su debida publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Remítase copia del presente decreto al Instituto Nacional de Estadística, Geografía e Informática para los efectos a que haya lugar.
