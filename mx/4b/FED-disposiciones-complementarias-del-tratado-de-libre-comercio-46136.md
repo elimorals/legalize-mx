@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-461
 country: "mx"
 rank: "otro"
 publication_date: "2004-12-29"
-last_updated: "2007-01-16"
+last_updated: "2007-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,27 +18,27 @@ scjn_last_update: "2010-11-12"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 2000)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR ATUN EN LATA, CON UN PESO NO MAYOR A 1 KILOGRAMO, ORIGINARIO DE LA REPUBLICA DE GUATEMALA
+DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2007, DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE EL SALVADOR, GUATEMALA Y HONDURAS; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2007 AL 31 DE MARZO DE 2008 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 16 de enero de 2007.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 28 de febrero de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 4-04 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, firmado el 29 de junio de 2000 y publicado el 19 de enero de 2001 en el Diario Oficial de la Federación, manifiesta la decisión de crear un mercado más extenso y seguro para bienes producidos en el territorio de las Partes y establecer una zona de libre comercio, entre los cuatro países a través de la eliminación de barreras comerciales;
+Que el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón (“Acuerdo”) fue aprobado por el Senado de la República el 18 de noviembre de 2004, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005 y entró en vigor el 1 de abril del mismo año;
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras establece en el párrafo 1 del artículo 4-04 que las Partes eliminarán sus aranceles aduaneros sobre bienes originarios, de conformidad con lo establecido en el anexo 3-04 (5);
+Que de conformidad con los párrafos 3 (a) (i) y 5 del artículo 5 del Acuerdo, las Partes podrán realizar consultas para considerar mejorar las condiciones de acceso al mercado sobre bienes originarios designados para consulta en las listas contenidas en las secciones 2 y 3 del anexo 1, y que cualquier modificación a dichas listas prevalecerá sobre cualquier concesión correspondiente establecidas en ellas;
 
-Que el punto 9 del anexo 3-04 (5) establece el tratamiento arancelario aplicable a los bienes originarios incluidos en las fracciones arancelarias;
+Que con objeto de mejorar las condiciones de acceso al mercado para la carne, los despojos y las demás preparaciones y conservas de bovino; la carne de pollo, las demás preparaciones y conservas de ave; y la naranja fresca establecidos en los incisos 1 (b), 4 (b) y 10 (b) de las secciones 2 y 3 del anexo 1 del Acuerdo, el 20 de septiembre de 2006 las Partes suscribieron el Protocolo entre los Estados Unidos Mexicanos y el Japón relacionado con el Mejoramiento de las Condiciones de Acceso al Mercado según lo dispuesto en los párrafos 3 y 5 del artículo 5 del Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón (“Protocolo”);
 
-Que el procedimiento de asignación del cupo de importación de atún en lata, es un instrumento de la política sectorial para favorecer las relaciones comerciales con los países con los que México ha suscrito Acuerdos Comerciales Internacionales, y
+Que el 27 de noviembre de 2006 se publicó en el Diario Oficial de la Federación, el Decreto por el que se establece la Tasa aplicable para el 2007, del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras; así como la Tasa aplicable del 1 de abril de 2007 al 31 de marzo de 2008 del Impuesto General de Importación para las mercancías originarias del Japón, y
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que en virtud de que resulta necesario reflejar en el Decreto enunciado en el considerando anterior las condiciones de acceso al mercado establecidas en el Protocolo, he tenido a bien expedir el siguiente
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR, ATUN EN LATA, CON UN PESO NO MAYOR A 1 KG. ORIGINARIO DE LA REPUBLICA DE GUATEMALA
+DECRETO
 
 ###### ARTICULO PRIMERO.
 
@@ -248,44 +248,12 @@ La importación de mercancías originarias del área conformada por los Estados 
 
 ###### ARTÍCULO ÚNICO.
 
-Se adiciona el artículo 25 Bis al Decreto por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005 y reformado el 3 de marzo de 2006 en el mismo órgano informativo, para quedar como sigue:
+Se modifican las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación establecidas en el artículo 6 del Decreto por el que se establece la Tasa aplicable para el 2007, del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras; así como la Tasa aplicable del 1 de abril de 2007 al 31 de marzo de 2008 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 27 de noviembre de 2006, para quedar como sigue:
 
-“ARTÍCULO 25 Bis.- La importación de las mercancías originarias de la región conformada por los Estados Unidos Mexicanos y Nicaragua comprendidas en las fracciones arancelarias que se señalan en este artículo, estará sujeta al arancel preferencial indicado a continuación para cada una de ellas, siempre que el importador adjunte al pedimento de importación un certificado de cupo expedido por la Secretaría de Economía. De no cumplirse con el requisito señalado, se aplicará el arancel establecido en artículo 1o. de la Ley de los Impuestos Generales de Importación y de Exportación.
-
-Fracción Arancel
-
-1701.11.01 Ex.
-
-1701.11.02 Ex.
-
-1701.99.01 Ex.
-
-1701.99.02 Ex.
-
-1701.99.99 Ex.”
+(VEASE ARCHIVO ANEXO)
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el día de su publicación y concluirá su vigencia el 31 de diciembre de 2007.
+ÚNICO.- El presente Decreto entrará en vigor el 1 de abril de 2007.
 
-México, D.F., a 3 de enero de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
-
-ANEXO
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-HOJA DE REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACION DE GUATEMALA 2007
-
-Atún en lata, con un peso no mayor a 1 Kg.
-
-Fracciones: 1604.14.01, 1604.14.02, 1604.14.03, 1604.14.99, 1604.19.01, 1604.19.02, 1604.19.99
-
-“Asignación Directa”
-
-Modalidad:
-
-Primero en tiempo primero en derecho.
-
-(VEASE ARCHIVO ANEXO)
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de febrero de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
