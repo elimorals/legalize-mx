@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2006-11-25"
+last_updated: "2007-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2007.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -899,7 +899,7 @@ B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
-C.- Elegir y remover al consejero presidente y consejeros electorales del Instituto Estatal Electoral, a los magistrados del Tribunal Estatal de (sic) Electoral, así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
+C.- Elegir y remover al consejero presidente y consejeros electorales del Instituto Estatal Electoral, a los magistrados del Tribunal Estatal Electoral, así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -1891,13 +1891,13 @@ Los Agentes del Ministerio Público protestarán ante el Procurador General de J
 
 DEL MUNICIPIO LIBRE.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### Art. 125.
 
-El Territorio del Estado se divide en sesenta y siete municipios que son:
+El territorio del Estado se divide en sesenta y siete municipios que son:
 
-1.- Ahumada, 2.- Aldama, 3.- Allende, 4.- Aquiles Serdán, 5.- Ascensión, 6.- Bachíniva, 7.- Balleza, 8.- Batopilas, 9.- Bocoyna, 10.- Buenaventura, 11.- Camargo, 12.- Carichí, 13.- Casas Grandes, 14.- Coronado, 15.- Coyame del Sotol. 16.- Cuauhtémoc, 17.- Cusihuiriachi, 18.- Chihuahua, 19.- Chínipas, 20.- Delicias, 21.- Dr. Belisario Domínguez, 22.- El Tule, 23.- Galeana, 24.- Gómez Farías, 25.- Gran Morelos, 26.- Guadalupe, 27.- Guadalupe y Calvo, 28.- Guachochi, 29.- Guazapares, 30.- Guerrero, 31.- Hidalgo del Parral, 32.- Huejotitán, 33.- Ignacio Zaragoza, 34.- Janos, 35.- Jiménez, 36.- Juárez, 37.- Julimes, 38.- La Cruz, 39.- López, 40.- Madera, 41.- Maguarichi, 42.- Manuel Benavides, 43.- Matachí, 44.- Matamoros, 45.- Meoqui, 46.- Morelos, 47.- Moris, 48.- Namiquipa, 49.- Nonoava, 50.- Nuevo Casas Grandes, 51.- Ocampo, 52.- Ojinaga, 53.- Práxedis G. Guerrero, 54.- Riva Palacio, 55.- Rosales, 56.- Rosario, 57.- San Francisco de Borja, 58.- San Francisco de Conchos, 59.- San Francisco del Oro, 60.- Santa Bárbara, 61.- Santa Isabel, 62.- Satevó, 63.- Saucillo, 64.- Temósachi, 65.- Urique, 66.- Uruachi, 67.- Valle de Zaragoza.
+1. Ahumada, 2. Aldama, 3. Allende, 4. Aquiles Serdán, 5. Ascensión, 6. Bachíniva, 7. Balleza, 8. Batopilas, 9. Bocoyna, 10. Buenaventura, 11. Camargo, 12. Carichí, 13. Casas Grandes, 14. Coronado, 15. Coyame del Sotol, 16. Cuauhtémoc, 17. Cusihuiriachi, 18. Chihuahua, 19. Chínipas, 20. Delicias, 21. Dr.Belisario Domínguez, 22. El Tule, 23. Galeana, 24. Gómez Farías, 25. Gran Morelos, 26. Guadalupe, 27. Guadalupe y Calvo, 28. Guachochi, 29. Guazapares, 30.Guerrero, 31. Hidalgo del Parral, 32. Huejotitán, 33. Ignacio Zaragoza, 34. Janos, 35. Jiménez, 36.Juárez, 37. Julimes, 38. La Cruz, 39. López, 40. Madera, 41. Maguarichi, 42. Manuel Benavides, 43. Matachí, 44. Matamoros, 45. Meoqui, 46. Morelos, 47. Moris, 48. Namiquipa, 49. Nonoava, 50. Nuevo Casas Grandes, 51. Ocampo, 52. Ojinaga, 53. Praxedis G. Guerrero, 54. Riva Palacio, 55. Rosales, 56. Rosario, 57. San Francisco de Borja, 58. San Francisco de Conchos, 59. San Francisco del Oro, 60. Santa Bárbara, 61. Santa Isabel, 62. Satevó, 63. Saucillo, 64. Temósachic, 65. Urique, 66. Uruachi, 67. Valle de Zaragoza.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -2158,8 +2158,6 @@ La contratación de empréstitos o cualquier otro crédito por parte de los ayun
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 Los actos realizados contra lo dispuesto en este precepto serán nulos de pleno derecho.
-
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
 
@@ -3274,3 +3272,17 @@ El presente decreto entrará en vigor en un plazo de ciento ochenta días, conta
 ###### ARTÍCULO SEGUNDO.
 
 Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+P.O. 28 DE FEBRERO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202, último párrafo de la Constitución Política del Estado, remítase sin más trámite el presente Decreto para su debida publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Remítase copia del presente decreto al Instituto Nacional de Estadística, Geografía e Informática para los efectos a que haya lugar.
