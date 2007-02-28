@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-contraloria-de-la-legalidad-electoral-44550"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-03-17"
-last_updated: "2005-03-17"
+last_updated: "2007-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA DE LA CONTRALORIA DE LA LEGALIDAD ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 17 de marzo de 2005.
 
@@ -57,9 +57,13 @@ La Contraloría de la Legalidad Electoral es un órgano colegiado que tendrá a 
 
 ### Capítulo II. De su Integración
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2007)</small>
+
 ###### Artículo 4°.
 
-La Contraloría funcionará siempre en Pleno, el cual estará integrado por tres miembros, quienes se alternarán en las funciones de la Presidencia por períodos de dos años.
+La Contraloría funcionará siempre en Pleno, el cual estará integrado por tres miembros. Las funciones de la Presidencia serán ejercidas por el Contralor Electoral que al efecto designe el Pleno, el cual durará en el cargo dos años, con la posibilidad de ser reelecto una sola vez, por dos años.
+
+En ningún caso, la prorroga tendrá efectos sobre la duración del encargo a que se refiere el artículo siguiente.
 
 ###### Artículo 5°.
 
@@ -474,3 +478,11 @@ Dado en el salón de sesiones del Honorable congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los catorce días del mes de marzo del año dos mil cinco.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Rubén F. Velázquez López, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE FEBRERO DE 2007.
+
+Artículo Primero.- El presente decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
