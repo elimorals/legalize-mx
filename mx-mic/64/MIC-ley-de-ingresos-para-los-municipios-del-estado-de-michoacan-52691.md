@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-para-los-municipios-del-estado-de-michoacan-526
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-30"
-last_updated: "2006-12-30"
+last_updated: "2007-03-01"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS PARA LOS MUNICIPIOS DEL ESTADO DE MICHOACAN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2007
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el sábado 30 de diciembre de 2006.
 
@@ -687,25 +687,93 @@ Para los efectos de la aplicación de la tarifa a que se refiere este artículo,
 
 ### CAPÍTULO V. POR SERVICIOS DE ALUMBRADO PÚBLICO
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2007)</small>
+
 ###### ARTÍCULO 14.
 
-El servicio de alumbrado público que se preste por el Municipio, conforme a lo establecido en el artículo 42 último párrafo de la Ley del Impuesto al Valor Agregado, causará derechos de conformidad con lo establecido en la Ley de Hacienda Municipal del Estado de Michoacán, de conformidad con las tarifas mensuales siguientes:
+El servicio de alumbrado público que se preste por el Municipio, causará derecho de conformidad con lo establecido en la Ley de Hacienda Municipal del Estado de Michoacán, con las tarifas mensuales siguientes:
 
-TARIFA
+I. Para las personas físicas o morales propietarias, poseedoras, usufructuarias o usuarias de predios destinados a uso doméstico
 
-A) DOMÉSTICOS
+Tarifa
 
-Popular $ 5.00
+Mensual
 
-Medio $ 25.00
+$
 
-Residencial $ 50.00
+A1. Que compren la energía eléctrica
 
-B) COMERCIAL $ 75.00
+en tarifa doméstica en nivel bajo,
 
-C) INDUSTRIAL $ 100.00
+fuera de verano (nivel popular). 5.00
 
-El pago de este derecho se efectuará a través del recibo que emite la Comisión Federal de Electricidad, mensual o bimestralmente.
+A2. Que compren la energía eléctrica
+
+durante un año móvil, en promedio,
+
+en tarifa doméstica en nivel moderado,
+
+fuera de verano (nivel medio). 30.00
+
+A3. Que compren la energía eléctrica
+
+durante un año móvil, en tarifa
+
+doméstica en nivel alto, fuera de
+
+verano (nivel residencial). 60.00
+
+II. Para las personas físicas o morales propietarias, poseedoras, usufructuarias o usuarias de predios destinados a uso general
+
+Tarifa
+
+Mensual
+
+$
+
+B.1. Que compren la energía eléctrica
+
+de menudeo (Baja Tensión).
+
+B.1.1. Que compren la energía eléctrica
+
+en tarifas de uso general en baja tensión,
+
+en nivel bajo. 12.00
+
+B.1.2. Que compren la energía eléctrica
+
+en tarifa de uso general en baja tensión,
+
+en nivel moderado. 60.00
+
+B.1.3. Que compren la energía eléctrica
+
+en tarifa de uso general en baja tensión,
+
+en nivel alta. 120.00
+
+B.2. Que compren la energía eléctrica
+
+de medio mayoreo (Media Tensión).
+
+B.2.1. Que compren la energía eléctrica
+
+en tarifas de uso general en media
+
+tensión ordinarias. 600.00
+
+B.2.2. Que compren la energía eléctrica
+
+en tarifas de uso general en media
+
+tensión horarias. 1,200.00
+
+B.3.Que compren la energía eléctrica
+
+de mayoreo (Alta Tensión), nivel
+
+subtransmisión. 12,000.00
 
 ### CAPÍTULO VI. POR ABASTECIMIENTO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
@@ -1380,3 +1448,11 @@ PRESIDENTE.- DIP. MAURICIO MONTOYA MANZO.- PRIMER SECRETARIO.- DIP. MARTÍN GODO
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 29 veintinueve días del mes de Diciembre del año 2006 dos mil seis.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
