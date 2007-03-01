@@ -4,7 +4,7 @@ identifier: "SON-ley-de-obras-publicas-del-estado-de-sonora-8383"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-23"
-last_updated: "1992-08-03"
+last_updated: "2007-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE AGOSTO DE 1992.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 1 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, el jueves 23 de agosto de 1984.
 
@@ -790,3 +792,33 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos que se encuentren en trámite al momento de entrar en vigor la presente Ley, relacionados con la suspensión o cancelación del registro en el Padrón de Contratistas de Obras Públicas del Estado, serán sobreseídos.
+
+B.O. 1 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor a los sesenta días de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+El Ejecutivo del Estado deberá emitir el reglamento de esta misma ley dentro del término señalado para el inicio de su vigencia.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor de la presente ley, quedará abrogada la anterior Ley de Obras Públicas del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado el 23 de agosto de 1984.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos de licitación y contratación de obras públicas que con anterioridad a la entrada en vigor de este ordenamiento se vengan desarrollando, deberán concluirse de conformidad con l
+
+a ley mencionada en el artículo anterior.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones administrativas expedidas sobre esta materia, vigentes al momento de la publicación de esta ley, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+###### ARTÍCULO QUINTO.
+
+Las facultades que de conformidad con la presente ley deban ejercer los ayuntamientos, éstos las llevarán a cabo a través de los órganos que correspondan.
+
+###### ARTÍCULO SEXTO.
+
+El Sistema de Comunicación Electrónica a que se refiere la presente ley, entrará en operaciones una vez que el Gobierno del Estado cuente con la tecnología informática necesaria para su operación, y cuyo inicio se hará del conocimiento público mediante acuerdo del Ejecutivo del Estado que se publique en el Boletín Oficial del Gobierno del Estado.
