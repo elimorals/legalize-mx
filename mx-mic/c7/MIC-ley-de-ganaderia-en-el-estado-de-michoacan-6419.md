@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ganaderia-en-el-estado-de-michoacan-6419"
 country: "mx"
 rank: "ley"
 publication_date: "1954-12-30"
-last_updated: "1976-02-19"
+last_updated: "2007-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE GANADERIA EN (SIC) ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1976.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 2 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Michoacán, el 30 de diciembre de 1954.
 
@@ -1006,3 +1008,29 @@ Los libros de registro de fierros, marcas, ventas y señales que daten de 1954 a
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga le Ley de Ganadería del Estado publicada en el Periódico Oficial del Estado, con fecha 30 de diciembre de 1954 y sus reformas posteriores
+
+###### ARTÍCULO TERCERO.
+
+En los municipios donde no se haya organizado la asociación ganadera local, las funciones de ésta serán desempeñadas en tanto se constituya la asociación, por las oficinas correspondientes del Munipio (sic) con el apoyo de la Secretaría.
+
+###### ARTÍCULO CUARTO.
+
+En tanto no se reforme la Ley Orgánica de la Administración Pública del Estado de Michoacán, se entenderá por Secretaría de Desarrollo Rural, a la actual Secretaría de Desarrollo Agropecuario.
+
+###### ARTÍCULO QUINTO.
+
+El Titular del Poder Ejecutivo del Estado dispone de ciento veinte días naturales a partir de la publicación de la presente Ley, para emitir el Reglamento correspondiente.
+
+###### ARTÍCULO SEXTO.
+
+Los derechos por los servicios que preste la Secretaría, serán fijados en la Ley de Hacienda del Estado y en la Ley de Ingresos del Estado.
