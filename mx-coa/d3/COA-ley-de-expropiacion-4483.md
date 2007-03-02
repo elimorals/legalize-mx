@@ -4,7 +4,7 @@ identifier: "COA-ley-de-expropiacion-4483"
 country: "mx"
 rank: "ley"
 publication_date: "1957-03-27"
-last_updated: "1957-03-27"
+last_updated: "2007-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE EXPROPIACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LEY DE EXPROPIACION, OCUPACION TEMPORAL, LIMITACION DE DOMINIO Y SERVIDUMBRE ADMINISTRATIVA POR CAUSAS DE UTILIDAD PUBLICA PARA EL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. DE 2 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el miércoles 27 de marzo de 1957.
 
@@ -210,3 +212,15 @@ ROMAN CEPEDA FLORES.- Rúbrica
 EL OF. MAYOR ENC. DEL DESP.
 
 PROF. JOSE R. MIJARES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE MARZO DE 2007.
+
+PRIMERO.- Esta ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Expropiación, publicada el 27 de marzo de 1957, en el Periódico Oficial del Gobierno del Estado y se deroga toda disposición que se oponga a lo previsto en esta ley.
+
+TERCERO.- Los expedientes de expropiación que se encuentren pendientes de resolución respecto de los cuales se haya publicado la solicitud de expropiación se regirán por lo previsto en la presente ley en tanto no exista un perjuicio para el afectado.
+
+CUARTO.- Hasta en tanto no quede formalmente instalado el Tribunal de lo Contencioso Administrativo, los supuestos previstos por el artículo 27 de esta ley se llevarán ante la Sala Colegiada Civil y Familiar en el Estado de Coahuila.
