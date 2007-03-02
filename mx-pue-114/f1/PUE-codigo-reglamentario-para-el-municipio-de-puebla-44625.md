@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2007-02-26"
+last_updated: "2007-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -2635,7 +2635,7 @@ f).- Tratándose de vehículos destinados al servicio de transporte público o m
 
 ###### Artículo 272.
 
-Con el fin de evitar que se causa daños en las vías públicas, los camiones de carga, tracto-camiones con doble remolque y vehículos análogos que circulen por las mismas, deben sujetarse a los siguientes límites máximos de carga y dimensiones:
+Con el fin de evitar que se causa (sic) daños en las vías públicas, los camiones de carga, tracto-camiones con doble remolque y vehículos análogos que circulen por las mismas, deben sujetarse a los siguientes límites máximos de carga y dimensiones:
 
 a) Peso total, incluyendo el de la carga: 8,000 kilos
 
@@ -12011,7 +12011,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1 - r(1-q)W¡)
+a¡ = (1 - r(1-q)W¡
 
 W¡h¡
 
@@ -12209,7 +12209,7 @@ Donde:
 
 M o = Momento de volteo en la base de la cimentación para la estructura supuesta con base indeformable.
 
-Xi = Desplazamiento lateral del nivel i de la estructura con base rígida.
+X i = Desplazamiento lateral del nivel i de la estructura con base rígida.
 
 hi = Altura del nivel i sobre el desplante
 
@@ -12731,7 +12731,7 @@ Los otros factores de carga serán los indicados en el artículo 999. El factor 
 
 ###### Artículo 1041.
 
-BOMBEO: Podrán usarse pozos de bombeo para reducir las filtraciones de agua hacia las excavaciones y mejorar la estabilidad de las mismas siempre que, en subsuelos (sic) arcilloso, el bombeo no se inicie antes de la excavación y, en cualquier caso, se tomen las precauciones necesarias para que sus efectos queden prácticamente circunscritos al área de trabajo.
+BOMBEO: Podrán usarse pozos de bombeo para reducir las filtraciones de agua hacia las excavaciones y mejorar la estabilidad de las mismas siempre que, en subsuelos arcilloso (sic), el bombeo no se inicie antes de la excavación y, en cualquier caso, se tomen las precauciones necesarias para que sus efectos queden prácticamente circunscritos al área de trabajo.
 
 En la evaluación de los estados límite de servicio a considerar en el diseño de la excavación, se tomarán en cuenta los movimientos del terrenos (sic) debidos al bombeo.
 
@@ -13117,7 +13117,7 @@ VII. Salidas, rampas, pasillos y escaleras.
 
 ###### Artículo 1108.
 
-La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de "Informe de autorización" expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
+La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de “Informe de autorización” expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
 
 ###### Artículo 1109.
 
@@ -25857,10 +25857,6 @@ DE LOS REPRESENTANTES
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
-artículo 2170.- Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los Artículos relativos del presente Capitulo.
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
 ###### Artículo 2170.
 
 Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los artículos relativos del presente Capitulo.
@@ -26144,6 +26140,10 @@ Medio 6.000 13 Lbs. 4 Onzas
 Semipesado 7.000 15 Lbs. 7 Onzas
 
 Gran Peso Sin Límite alguno.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+artículo 2190.- Si un boxeador se excede del peso de la división en que se haya contratado incluyendo los quinientos gramos de tolerancia a que se refiere el Artículo 2189 Ter del presente Capítulo y la Comisión, autorizará la pelea por no haber en el peso una diferencia mayor que la correspondiente a la división de que se trata, estará obligado a pagar a su adversario una indemnización equivalente al 25% de los honorarios que vaya a percibir por la pelea.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -27301,6 +27301,10 @@ XI. Reconocimiento "Juan de Palafox y Mendoza".
 
 XII. Reconocimiento al Mérito Empresarial.
 
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2007)</small>
+
+XIII. Reconocimiento al "Mérito Laboral".
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 DE LA CÉDULA REAL
@@ -27813,9 +27817,13 @@ IV. Reconocimiento al "Mérito Docente";
 
 V. Reconocimiento "Puebla Patrimonio Histórico de la Humanidad";
 
-VI. Reconocimiento "Juan de Palafox y Mendoza"; y
+VI. Reconocimiento "Juan de Palafox y Mendoza"; y (sic)
 
-VII. Reconocimiento al "Mérito Empresarial".
+VII. Reconocimiento al "Mérito Empresarial";
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2007)</small>
+
+VIII. Reconocimiento al "Mérito Laboral".
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -28075,6 +28083,196 @@ La decisión del Consejo de Premiación, respecto de la empresa que resulte mere
 
 El otorgamiento de alguno de los Reconocimientos establecidos en artículo 2334, con excepción del enumerado en la fracción VII del mismo precepto, no inhabilita para ser susceptible de obtener, copia de la Cédula Real o alguno de los Premios o Presea "Puebla de Zaragoza" a que hace referencia el presente Capítulo.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2369.
+
+Se instituye el Reconocimiento al "Mérito Laboral" como un galardón otorgado a aquellos empleados o trabajadores que en el desempeño de sus actividades públicas, sociales, profesionales, de oficios o cualquier manifestación del quehacer humano han contribuido al desarrollo y posicionamiento a nivel nacional e internacional del centro de trabajo en que prestan sus servicios o bien, que sean de evidente significado y trascendencia en beneficio de la comunidad poblana.
+
+Bajo ninguna circunstancia podrán recibir dicho Reconocimiento, los Funcionarios Públicos Municipales o Estatales de cualquier nivel, mientras se encuentren en el desempeño de sus funciones, siendo susceptibles de recibir este galardón los trabajadores o empleados de Dependencias u Organismos que conformen la Administración Pública Municipal o Estatal.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2370.
+
+Las áreas de actividades, públicas, sociales, profesionales, de oficios y demás manifestaciones del quehacer humano en que el Ayuntamiento podrá otorgar este Reconocimiento serán las siguientes categorías:
+
+I. Aportación al desarrollo de Entidades Públicas;
+
+II. Aportación al desarrollo social;
+
+III. Aportación al desarrollo industrial y textil;
+
+IV. Aportación al desarrollo comercial y de servicios;
+
+V. Aportación al desarrollo artístico y cultural;
+
+VI. Aportación al desarrollo artesanal.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2371.
+
+El Reconocimiento al "Mérito Laboral", será entregado por el Honorable Ayuntamiento de Puebla, a través del C. Presidente Municipal Constitucional, en Sesión Solemne de Cabildo para cada una de sus categorías, durante la primer semana del mes de mayo de cada año, con motivo de la celebración del día internacional del trabajo.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2372.
+
+El Reconocimiento al "Mérito Laboral", consistirá en una medalla, cuyas características quedarán a consideración del Consejo de Premiación del Reconocimiento al "Mérito Laboral", además de hacerse acreedores a recibir un diploma, que acredite haber recibido dicho galardón y el cual será signado por el C. Presidente Municipal Constitucional y por el Secretario del Honorable Ayuntamiento de Puebla.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2373.
+
+Para la selección de empleados o trabajadores susceptibles a recibir el Reconocimiento al "Mérito Laboral", deberá publicarse la Convocatoria respectiva en dos de los diarios de mayor circulación en el Estado de Puebla y en la Pagina Web del Gobierno Municipal con la anticipación necesaria.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2374.
+
+Las propuestas de los empleados o trabajadores a recibir dicho Reconocimiento, deberán ser hechas por las empresas en que dicho prestador de servicios desempeñe sus actividades laborales y presentadas ante la Secretaría del Consejo de Premiación del Reconocimiento al "Mérito Laboral".
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2375.
+
+Las propuestas señaladas en el artículo anterior, serán recibidas, en los plazos que prevea la Convocatoria respectiva y deberán ser acompañadas de una amplia reseña de los hechos que dan motivo a las mismas, así como de la documentación correspondiente al caso.
+
+Una vez cerrado el periodo de recepción de propuestas establecido en la respectiva Convocatoria, la Secretaría del Consejo de Premiación del Reconocimiento al "Mérito Laboral", las turnará en un plazo de cinco días hábiles a cada uno de los integrantes del Consejo de Premiación, debiendo integrar los respectivos expedientes de las candidaturas, y debiendo observar los requisitos establecidos en el artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2376.
+
+Los empleados o trabajadores que se hagan merecedores a recibir el Reconocimiento al "Mérito Laboral", deberán cumplir con los siguientes requisitos:
+
+l. Ser ciudadano mexicano por nacimiento, en el ejercicio de sus derechos;
+
+II. Contar con la mayoría de edad, al momento de ser reconocido con dicho galardón.
+
+III. No desempeñar cargo de cualquier nivel dentro de la Administración Pública Municipal o Estatal.
+
+IV. Contar con una antigüedad mínima de cinco años como empleado o trabajador de la empresa que presentó la propuesta.
+
+V. No haber sido condenado por delito doloso o culposo, ni estar sujeto a proceso penal.
+
+VI. Contar con una reconocida trayectoria dentro de la empresa para la que presta sus servicios.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2377.
+
+Para efectos de la selección de los empleados o trabajadores susceptibles de ser condecorados con la entrega del Reconocimiento al "Mérito Laboral", únicamente podrán votar los integrantes del Consejo de Premiación, y en caso de existir empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2378.
+
+La selección previa que haga el Consejo de Premiación, al merecedor del Reconocimiento al "Mérito Laboral", así como la decisión que éste haga, respecto del empleado o trabajador al que se ha de entregar dicho Reconocimiento, será inapelable en todo caso.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2379.
+
+El Consejo de Premiación del Reconocimiento al "Mérito Laboral", es un órgano colegiado de carácter permanente, encargado de emitir sobre la base de los estudios realizados, el proyecto de resolución, respecto de los expedientes que se formen para el otorgamiento del Reconocimiento al "Mérito Laboral".
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2380.
+
+El Consejo de Premiación del Reconocimiento al "Mérito, Laboral", estará integrado por:
+
+I. Un Presidente, quien será el Presidente Municipal Constitucional, quien en caso de empate tendrá voto de calidad.
+
+II. Un Secretario, quien será el Secretario de Fomento Económico, Turismo y Empleo; con voz y voto.
+
+III. Los Regidores que integren la Comisión de Trabajo y Previsión Social del Honorable Ayuntamiento, quienes tendrán voz y voto.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2381.
+
+El Consejo de Premiación del Reconocimiento al "Mérito Laboral", tendrán las siguientes atribuciones:
+
+l. Formular e instruir a la Coordinación de Comunicación Social del Honorable Ayuntamiento de Puebla, para que sea la encargada de dar la respectiva publicidad a la convocatoria mediante la cual vaya a otorgar el Reconocimiento al "Mérito Laboral", tomando en consideración la fecha en que deberá ser entregada dicha Condecoración.
+
+II. Recibir y registrar, a través de la Secretaria del Consejo, las candidaturas propuestas con sus respectivos expedientes.
+
+III. Analizar de manera individual las propuestas recibidas, para estar en posibilidad de emitir una resolución.
+
+IV. Fijar las condiciones y términos para el otorgamiento del Reconocimiento.
+
+V. Llevar estricto control de los expedientes de los empleados o trabajadores susceptibles de recibir dicho Reconocimiento.
+
+VI. Fijar, tomando en consideración la opinión del Presidente del Consejo de Premiación, la hora y el día especifico, en la que será entregado el Reconocimiento antes mencionado.
+
+VII. Las demás atribuciones que sean necesarias para el cumplimiento de sus funciones.
+
+Los integrantes del Consejo de Premiación, designarán por escrito ante el propio Consejo, a sus respectivos suplentes.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2382.
+
+El Consejo de Premiación, sesionará válidamente con la asistencia del cincuenta por ciento más uno de los integrantes, en privado y en el local que para tal efecto designe el propio Consejo, y las decisiones se tomarán por la simple mayoría de votos, y en caso de empate, el Presidente del Consejo de Premiación, tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2383.
+
+El Consejo de Premiación, sesionará en forma permanente, en los primeros días del mes de marzo, días en que se tendrá que elaborar, para que sea publicada la respectiva convocatoria y será dentro del mes de abril, cuando tengan que tomar la decisión de quien haya resultado ganador.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2384.
+
+La cita para la celebración de las sesiones, estará a cargo del Secretario del Consejo, quien lo hará por lo menos con veinticuatro horas de anticipación, debiendo anexar el orden del día y todos los documentos necesarios para el desahogo de la misma.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2385.
+
+El cargo de integrante del Consejo de Premiación, será honorífico, por lo que no recibirán emolumento alguno como contraprestación por el desempeño de sus funciones, quedando obligados a guardar reserva sobre los asuntos de que conozcan con motivo de su empleo, cargo o comisión.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2386.
+
+El Consejo de Premiación, determinará la forma y término de las convocatorias que deban expedirse para el otorgamiento del Reconocimiento al "Mérito Laboral", las cuales deberán ser debidamente publicadas en dos de los diarios de mayor circulación en el Estado de Puebla y en la página Web del Gobierno Municipal.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2387.
+
+Las propuestas de los empleados o trabajadores susceptibles de recibir el Reconocimiento al "Mérito Laboral", se efectuará bajo los siguientes términos:
+
+l. Sólo se podrán ser propuestos los empleados o trabajadores, que cumplan con los requisitos establecidos en el artículo 2376 del presente Capítulo.
+
+II. La presentación de las propuestas, deberá ser hecha dentro de la fecha y bajo los términos que señale la convocatoria correspondiente.
+
+III. Todas las propuestas deberán expresar las actividades, trayectoria y logros de los empleados o trabajadores, además de acompañarse con los documentos probatorios que se estimen pertinentes; en su caso, se indicará la naturaleza de otras pruebas y los lugares donde pueden recabarse.
+
+IV. Los demás requisitos, que para efectos de tomar una determinación, estime convenientes el propio Consejo de Premiación.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2388.
+
+El Consejo de Premiación, determinará conforme a lo establecido en el presente Reglamento y demás características específicas que deban a su juicio reunirse, la forma y términos de las convocatorias que deban publicarse para el otorgamiento del Reconocimiento al "Mérito Laboral".
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2389.
+
+El Secretario del Consejo de Premiación, se encargará de formar y registrar los expedientes de los candidatos, además llevará un control de actas circunstanciadas en las que constarán los lugares, fechas, horas de apertura y clausura de las sesiones; nombre de los asistentes, así como la narración ordenada y sucinta del desarrollo de la reunión, de las resoluciones y acuerdos tomados, y el resultado de las votaciones, además de registrar el nombre de las personas, a quien se les deba otorgar dicho Reconocimiento, así como la hora y fecha de entrega.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+###### Artículo 2390.
+
+La decisión del Consejo de Premiación, respecto del empleado o trabajador que resulte merecedor recibir el Reconocimiento, deberá ser notificada por escrito, con un mínimo de cinco días antes de la fecha en que se realice la entrega de la misma, además de que dicha resolución, deberá ser publicada en dos de los diarios de mayor circulación en el Estado de Puebla y en la Página Web del Gobierno Municipal.
+
 T R A N S I T O R I O S
 
 PRIMERO.- El presente Código Reglamentario para el Municipio de Puebla, entrará en vigor a partir del día primero de enero de dos mil cinco, a efecto de que se tomen las providencias jurídicas, operativas y administrativas, para que a partir de la fecha de entrada en vigor del Código Reglamentario para el Municipio de Puebla, los actos de autoridad se encuentren debidamente ajustados a los términos de este Código.
@@ -28290,3 +28488,9 @@ CUARTO. Los trámites administrativos relacionados con la materia de estacionami
 QUINTO. Los recursos administrativos que se encuentren en trámite a la entrada en vigor de esta reforma, se resolverán conforme a la normatividad vigente al momento de su promoción.
 
 SEXTO. Se derogan todas las disposiciones que se relacionen con el servicio público de estacionamiento, en cuanto se opongan a lo dispuesto en el presente Acuerdo.
+
+P.O. 2 DE MARZO DE 2007.
+
+PRIMERO.- Las presentes adiciones al Libro Noveno, Capítulo 36 denominado "DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA" del Código Reglamentario para el Municipio de Puebla, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones en contrario al presente Dictamen.
