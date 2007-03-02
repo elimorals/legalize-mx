@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-343
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-10-09"
-last_updated: "2006-11-06"
+last_updated: "2007-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 9 de octubre de 2003.
 
@@ -114,6 +114,14 @@ Las dependencias y entidades de la Administración Pública del Estado deberán 
 ###### Artículo 15.
 
 Los titulares de las dependencias a que se refiere esta Ley, podrán delegar en sus subalternos cualesquiera de sus facultades, salvo aquellas que la Constitución, las leyes y reglamentos dispongan que deben ser ejercidas directamente por ellos.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+Asimismo, los titulares de las dependencias del Ejecutivo, podrán acordar, individual o conjuntamente en su caso, el establecimiento de oficinas de enlace, en los municipios en que lo consideren necesario, cuya finalidad será recibir y hacer llegar a la dependencia correspondiente, para su tramitación, los asuntos de su competencia.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+Las oficinas de enlace serán competentes para practicar a los interesados las notificaciones a que hubiere lugar.
 
 ###### Artículo 16.
 
@@ -1102,3 +1110,7 @@ Artículo Primero.- El presente Decreto entrará en vigor el día de su publicac
 Artículo Segundo.- La Secretaría de Finanzas y Tesorería General del Estado realizará las revisiones necesarias a fin de que los recursos humanos, materiales y presupuestales que hayan sido asignados a la Coordinación de Innovación y Competitividad Gubernamental se transfieran a las Coordinaciones de Planeación, Evaluación e Innovación Gubernamental, y de Participación Ciudadana, según corresponda.
 
 Artículo Tercero.- Se respetarán los derechos del personal y trabajadores que laboren en las dependencias que se supriman o compartan a que se refieren en el presente Decreto.
+
+P.O. 2 DE MARZO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
