@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2005-12-07"
+last_updated: "2007-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2007.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -221,9 +221,15 @@ X. Secretaría de Obras Públicas y Transporte;
 
 XI. Secretaria de Turismo;
 
-XII. Secretaría de la Función Pública; y
+XII. Secretaría de la Función Pública; y (sic)
 
-XIII. La Procuraduría General de Justicia del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MARZO DE 2007)</small>
+
+XIII.- Secretaría de Desarrollo Regional de la Laguna, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE MARZO DE 2007)</small>
+
+XIV.- La Procuraduría General de Justicia del Estado.
 
 Las dependencias de la Administración Pública Centralizada tendrán igual rango, y entre ellas no habrá preeminencia alguna.
 
@@ -989,6 +995,46 @@ XXVI. Dictar las normas técnicas y criterios de aplicación a que deba sujetars
 
 XXVII. Promover las estrategias necesarias para la implementación de políticas de gobierno electrónico.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2007)</small>
+
+ARTÍCULO 35 BIS. A la Secretaría de Desarrollo Regional de la Laguna, le corresponde el despacho de los siguientes asuntos en los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca:
+
+I. Formular, promover y evaluar la política de desarrollo regional de acuerdo a las condiciones y características económicas, sociales y culturales;
+
+II. Coordinar y operar las acciones que en materia de desarrollo regional establezca el Ejecutivo Estatal en beneficio de la población vulnerable o en situación de marginación en el área rural o urbana;
+
+III. Coadyuvar con otras dependencias en el diseño y ejecución de programas y proyectos en materia de salud, derechos humanos, educación, cultura, vivienda y otros relacionados con el desarrollo social;
+
+IV. Brindar a los municipios apoyo técnico en materia de desarrollo social y económico;
+
+V. Promover y fortalecer la gestión individual y colectiva en materia social, económica y de turismo;
+
+VI. Apoyar las actividades y programas científicos, tecnológicos, deportivos y culturales que organice el Gobierno del Estado;
+
+VII. Participar en la ejecución de obras sociales que favorezcan el bienestar individual y colectivo;
+
+VIII. Participar en la distribución y abastecimiento de productos alimentarios básicos a población marginada o en estado de necesidad;
+
+IX. Promover y atender programas para la regularización de la tenencia de la tierra urbana y rural;
+
+X. Atender y apoyar a instituciones públicas y privadas que se ocupen de actividades de beneficencia y atención a la comunidad;
+
+XI. Coadyuvar con la secretaría del ramo en la promoción del empleo en los sectores del comercio y la industria;
+
+XII. Coadyuvar en la promoción del empleo en las zonas rurales y marginadas;
+
+XIII. Participar con la secretaría del ramo en el fomento de la actividad turística;
+
+XIV. Auxiliar a las dependencias y entidades competentes en la organización de actividades y eventos que fomenten las tradiciones culturales y el deporte;
+
+XV. Coordinar la atención de las demandas populares dirigidas al Ejecutivo del Estado o a las dependencias que lo integran;
+
+XVI. Coordinar la agenda del Gobernador del Estado en los municipios de su competencia; y
+
+XVII. Todas las demás que mediante el acuerdo correspondiente le asigne el Gobernador del Estado y sirvan para descentralizar funciones a la región.
+
+Cuando alguna de las facultades u obligaciones contenidas en el presente artículo sean concurrentes con otra dependencia o entidad, ésta deberá ser ejercida en forma coordinada buscando la mayor eficiencia y eficacia en el uso de los recursos y el máximo beneficio para la población de la Región Laguna.
+
 ## TITULO TERCERO. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
 ###### ARTÍCULO 36.
@@ -1404,3 +1450,15 @@ EL SECRETARIO DE FOMENTO AGROPECUARIO
 LIC. HÉCTOR OSCAR FERNÁNDEZ AGUIRRE
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE MARZO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente Decreto se otorguen a la Secretaría de Desarrollo Regional de la Laguna, contarán con un término de 30 días hábiles para realizar los procedimientos administrativos necesarios para la transferencia de los recursos materiales, humanos y financieros necesarios para su funcionamiento.
+
+TERCERO. Los asuntos o trámites pendientes de resolución al momento de la entrada en vigor del presente Decreto, se resolverán por la dependencia ante la cual se iniciaron.
+
+CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
