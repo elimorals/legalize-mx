@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-para-el-estado-de-baja-39900"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-21"
-last_updated: "2004-11-19"
+last_updated: "2007-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 21 de mayo de 2004.
 
@@ -257,7 +257,9 @@ XIX. Establecer las bases para la entrega-recepción de la documentación compro
 
 XX. Fiscalizar las cancelaciones, condonaciones o compensaciones de adeudos o de cualquier otro concepto análogo que concedan u otorguen las Entidades;
 
-XXI. Citar o requerir mediante oficio fundado y motivado, la presencia en las oficinas del Órgano, a los servidores públicos que tengan o hayan tenido relación con el manejo de la Cuenta Pública, para el esclarecimiento de los hechos u omisiones.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2007)</small>
+
+XXI. Citar o requerir simultáneamente, mediante oficio fundado y motivado, la presencia en las oficinas del Órgano, a los servidores públicos que tengan o hayan tenido relación con el manejo de la Cuenta Pública, para el esclarecimiento de los hechos u omisiones.
 
 Los servidores públicos antes mencionados, tendrán la obligación de presentarse ante el Órgano en la fecha y hora en que sea requerida su presencia, habiendo recibido en forma personal o por correo certificado con acuse de recibo el oficio respectivo; salvo justificación en contrario, para lo cual se deberá acordar una nueva cita. En caso de negativa o incumplimiento el Órgano lo hará del conocimiento de la Comisión para que el Congreso resuelva lo procedente; y
 
@@ -914,3 +916,7 @@ BERNARDO H. MARTINEZ AGUIRRE
 P.O. 19 DE NOVIEMBRE DE 2004.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE MARZO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Estado.
