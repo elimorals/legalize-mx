@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-del-tribunal-estatal-electoral-15079"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-06-27"
-last_updated: "1998-06-27"
+last_updated: "2007-03-03"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL PUBLICADO EN EL P.O. DE 3 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 27 de junio de 1998.
 
@@ -1024,3 +1026,19 @@ Este Acuerdo entrará en vigor el día siguiente de su publicación en el Perió
 DADO en la ciudad de Chihuahua, Chih., residencia del Poder Ejecutivo del Estado a los dieciocho días del mes de junio de mil novecientos noventa y ocho.
 
 Sufragio Efectivo; no Reelección.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- C.P. FRANCISCO J. BARRIO TERRAZAS.- Rúbrica.- EL SECRETARIO DE GOBIERNO.- FRANCISCO HUGO GUTIÉRREZ DÁVILA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior deja sin efecto el aprobado el quince de junio de mil novecientos noventa y ocho.
+
+###### ARTICULO SEGUNDO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Estado.
