@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-transparencia-y-acceso-a-la-informacion-43693"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-27"
-last_updated: "2005-02-05"
+last_updated: "2007-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "CHH"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE JUAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL ACUERDO No. 24 DEL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 3 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 27 de marzo de 2004.
 
@@ -876,3 +878,7 @@ LIC. ANTONIO SUÁREZ ESTRADA.
 P.O. 5 DE FEBRERO DE 2005.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 3 DE MARZO DE 2007.
+
+UNICO.- La presente abrogación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
