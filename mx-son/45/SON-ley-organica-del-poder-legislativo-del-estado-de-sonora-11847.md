@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-legislativo-del-estado-de-sonora-11847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-06-01"
-last_updated: "2004-05-20"
+last_updated: "2007-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 77 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 5 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Boletín Oficial del Gobierno del Estado de Sonora, el lunes 1 de junio de 1998.
 
@@ -1076,3 +1078,43 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 28 de mayo 
 B.O. 20 DE MAYO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 5 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor el día primero de abril de 2007, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan la Ley número 79, Orgánica del Poder Legislativo y el Decreto número 65, que Reglamenta el Funcionamiento y Gobierno Interior del Poder Legislativo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente ley, el Congreso del Estado, por conducto de las instancias correspondientes, deberá aprobar y, en su caso, publicar por los canales correspondientes, la Agenda Legislativa Común y el Código de Conducta para la LVIII legislatura.
+
+###### ARTÍCULO CUARTO.
+
+Las políticas de sueldos, honorarios, contratación de servicios profesionales, así como de utilización de recursos y patrimonio del Congreso del Estado; los montos mínimos y máximos para contrataciones y adquisiciones por adjudicación directa, invitación a tres proveedores y licitación pública, así como los lineamientos para licitación pública y mecanismos de participación ciudadana para la vigilancia de los mismos, deberán aprobarse por el pleno del Congreso del Estado dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente ley.
+
+###### ARTÍCULO QUINTO.
+
+Las comisiones ordinarias que hayan sido designadas por esta legislatura antes de la entrada en vigor de la presente ley, seguirán en funciones con carácter permanente y serán de naturaleza dictaminadora; asimismo, seguirán en funciones con carácter provisional las especiales acordadas previamente a la vigencia de la presente ley.
+
+La reagrupación de comisiones de dictamen legislativo referidas en el artículo 92, entrará en vigor al inicio de la LIX legislatura.
+
+###### ARTÍCULO SEXTO.
+
+Las funciones a que se refiere el articulo 109 fracción IX de esta ley, serán ejercidas durante esta LVIII legislatura, por la Comisión de Comunicación y Enlace, hasta en tanto entren en vigor la reagrupación de comisiones establecidas en el artículo transitorio anterior.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los indicadores que permitan medir la productividad, la eficiencia, la eficacia, la transparencia y los resultados de la legislatura a que se refiere el artículo 173 de esta ley deberán ser aprobados en el segundo periodo de sesiones del primer año de ejercicio de esta legislatura y serán aplicados a partir del inicio del primer periodo ordinario de sesiones del segundo año de ejercicio de esta legislatura.
+
+###### ARTÍCULO OCTAVO.
+
+La integración del comité ciudadano a que se refiere el artículo 174 de esta ley deberá ser nombrado en el segundo periodo ordinario de sesiones de esta legislatura para que inicie funciones a partir del primer periodo ordinario de sesiones del segundo año de ejercicio de la referida legislatura.
+
+###### ARTÍCULO NOVENO.
+
+Con fundamento en el artículo 64, fracción XXXI de la Constitución Política del Estado, se ordena expedir y publicar directamente la presente ley en el Boletín Oficial del Gobierno del Estado.
