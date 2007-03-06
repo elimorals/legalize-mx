@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2005-12-26"
+last_updated: "2007-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -777,15 +777,19 @@ XXV. Trabajo y Previsión Social; y (sic)
 
 > <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
 
-XXVI. Vigilancia.
+XXVI. Vigilancia;
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2007)</small>
 
-XXVII. Turismo; y
+XXVII. Turismo;
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2007)</small>
 
-XXVIII. Transporte, Tránsito y Vialidad.
+XXVIII. Transporte, Tránsito y Vialidad, y
+
+> <small>(ADICIONADA, G.O. 6 DE MARZO DE 2007)</small>
+
+XXIX. Ciencia y Tecnología.
 
 > <small>(REFORMADO, G.O. 25 DE ABRIL DE 2003)</small>
 
@@ -1278,3 +1282,9 @@ G.O. 26 DE DICIEMBRE DE 2005.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 6 DE MARZO DE 2007.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
