@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-descentralizado-16823"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-30"
-last_updated: "2005-11-23"
+last_updated: "2007-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, 30 de junio de 1999.
 
@@ -381,13 +381,17 @@ XVII. Hospital General de Jojutla;
 
 XVIII. Hospital General de Tetecala;
 
-XIX. Jurisdicciones Sanitarias;
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2007)</small>
 
-XX. Jurisdicción Sanitaria I Cuernavaca;
+XIX. Hospital de la Mujer;
 
-XXI. Jurisdicción Sanitaria II Zacatepec, y
+XX. Jurisdicciones Sanitarias;
 
-XXII. Jurisdicción Sanitaria III Cuautla.
+XXI. Jurisdicción Sanitaria I Cuernavaca;
+
+XXII. Jurisdicción Sanitaria II Zacatepec, y
+
+XXIII. Jurisdicción Sanitaria III Cuautla.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
@@ -1874,5 +1878,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los recursos humanos, materiales y presupuestales que actualmente tiene asignados la Dirección de Regulación, Control y Fomento Sanitario de los Servicios de Salud de Morelos, para el ejercicio de las funciones sustantivas a que se refiere este Reglamento, quedan reasignados a la COPRISEM, por lo que no se requiere de ninguna aportación extraordinaria de recursos que pudiera afectar el presupuesto vigente.
 
 TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento y sean del ámbito de la Dirección de Regulación, Control y Fomento Sanitario le serán turnados a la COPRISEM para que se aboque a su conocimiento y resolución.
+
+P.O. 7 DE MARZO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Decreto que crea el órgano desconcentrado de la Secretaría de Salud denominado "Hospital de la Mujer", publicado en el Periódico Oficial "Tierra y Libertad" número 4503 de fecha tres de enero del año dos mil siete, así como todas las disposiciones que se opongan al presente.
+
+TERCERO.- Se destina el bien inmueble en el que prestaba sus servicios el órgano desconcentrado de la Secretaría de Salud denominado "Hospital de la Mujer" al organismo descentralizado denominado Servicios de Salud de Morelos para que preste sus servicios la unidad administrativa de nueva creación.
 
 ### CAPÍTULO X. DE LAS MODIFICACIONES AL REGLAMENTO
