@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-proteccion-y-tratamiento-de-menores-infractores-422
 country: "mx"
 rank: "ley"
 publication_date: "1993-09-01"
-last_updated: "2003-05-14"
+last_updated: "2007-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY PARA LA PROTECCION Y EL TRATAMIENTO DE MENORES INFRACTORES PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 7 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 1 de septiembre de 1993.
 
@@ -1288,3 +1290,43 @@ SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
 ###### ARTICULO TERCERO.
 
 LA SECRETARIA DE ADMINISTRACION, LA SECRETARIA DE HACIENDA, LA SECRETARIA DE SEGURIDAD PUBLICA Y EL INSTITUTO DE DESARROLLO HUMANO, CONFORME A SUS RESPECTIVAS ATRIBUCIONES REALIZARAN LOS ACTOS ADMINISTRATIVOS QUE RESULTEN PROCEDENTES PARA EL CUMPLIMIENTO DE ESTE DECRETO.
+
+P.O. 7 DE MARZO DE 2007.
+
+Primero.- La presente Ley entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Durante los seis meses contados a partir de la publicación de la presente Ley, se aplicará la Ley para la Protección y el Tratamiento de Menores infractores para el Estado de Chiapas, publicada en el Periódico Oficial del Estado de fecha 1° primero de septiembre de 1993, mil novecientos noventa y tres, en lo que no contravenga al Artículo 18, de la Constitución Política de los Estados Unidos Mexicanos.
+
+Tercero.- La Ley para la Protección y el Tratamiento de Menores infractores para el Estado de Chiapas, publicada en el Periódico Oficial del Estado de fecha 1° primero de septiembre de 1993, mil novecientos noventa y tres se abroga el día de la entrada en vigor de la presente Ley.
+
+Cuarto.- El reglamento interno para el Centro de Tratamiento y Readaptación de Menores del Estado de Chiapas, publicado en el Periódico Oficial del Estado de fecha 30 treinta de julio de 1997, mil novecientos noventa y siete, continuará su vigencia en aquello que no se oponga el Artículo 18, de la Constitución Política de los Estados Unidos Mexicanos.
+
+La Secretaría de Seguridad Publica, en un plazo no mayor a seis meses, contados a partir del día siguiente de la publicación de la presente Ley, emitirá por conducto del Ejecutivo del Estado, el Reglamento Interior de los Centros de Internamiento a que se refiere esta Ley.
+
+Quinto.- Los menores que estuvieren cumpliendo una medida de las previstas en la Ley para la Protección y el Tratamiento de Menores infractores para el Estado de Chiapas, continuarán dicho cumplimiento hasta la extinción de la responsabilidad en las condiciones previstas en dicha ley, siempre y cuando esto no contradiga al Artículo 18, de la de la (sic) Constitución Política de los Estados Unidos Mexicanos.
+
+Sexto.- En los procedimientos en curso a la entrada en vigor de la presente ley, el Consejo Tutelar de Menores del Estado remitirá las actuaciones a la Institución del Ministerio Público para que instruya lo procedente de conformidad con la presente Ley.
+
+Séptimo.- El Estado, dentro un plazo de seis meses contados a partir de la publicación de la presente Ley deberá instaurar el Tribunal Especializado en Justicia para Adolescentes, con todos sus órganos.
+
+Octavo.- El Consejo de la Judicatura dentro un plazo de seis meses contados a partir de la publicación de la presente Ley, deberá adoptar las disposiciones oportunas para adecuar la plantilla de servidores públicos de los órganos del Tribunal Especializado en Justicia para Adolescentes, inclusive la Defensoría Social de Menores, así como para la selección, formación y capacitación del personal.
+
+Noveno.- La Fiscalía General del Estado dentro del ámbito de sus atribuciones dentro un plazo de seis meses contados a partir de la publicación de la presente Ley deberá crear la Fiscalía Especializada para la Atención de Menores, adoptando las disposiciones oportunas para adecuar la plantilla de la (sic) dicha Fiscalía, así como para la selección, formación y capacitación de su personal.
+
+Décimo.- Durante el plazo de seis meses a que alude al Artículo transitorio anterior, los Fiscales del Ministerio Público que determine el Titular de la Fiscalía General del Estado, conocerán de los procedimientos en curso a la entrada en vigor de la presente Ley que les remita el Consejo de Menores del Estado, así como de aquellos hechos en que se encuentren implicados menores que se hagan del conocimiento de la Institución del Ministerio Público.
+
+Los Fiscales del Ministerio Pública durante el término que alude el primer párrafo del presente Artículo transitorio consignarán sus determinaciones ante el Consejo de Menores del Estado.
+
+Décimo Primero.- El Poder Ejecutivo del Estado por conducto de la Secretaria de Seguridad Publica, dentro del ámbito de sus atribuciones dentro un plazo de seis meses contados a partir de la publicación de la presente Ley, deberá crear la Unidad de Ejecución de Medidas, adoptando las disposiciones oportunas para adecuar la plantilla de dicha unidad administrativa, así como para selección, formación y capacitación de su personal.
+
+Décimo Segundo.- El Poder Ejecutivo del Estado, dentro del ámbito de sus atribuciones dentro un plazo de seis meses contados a partir de la publicación de la presente Ley, deberá adoptar las disposiciones oportunas para transformar el Centro de Tratamiento y Readaptación de Menores del Estado de Chiapas, en Centro de Internamiento previsto en la presente Ley.
+
+Décimo Tercero.- El Poder Ejecutivo del Estado, dentro del ámbito de sus atribuciones dentro (sic) un plazo de seis meses contados a partir de la publicación de la presente Ley, deberá establecer las disposiciones reglamentarias necesarias para el adecuado desarrollo de la ejecución de las medidas establecidas en la presente Ley.
+
+Décimo Cuarto.- Al término de los seis meses a partir de la publicación de la presente Ley el Consejo de Menores del Estado remitirá todas las actuaciones al Tribunal Especializado en Justicia para Adolescentes para que instruya lo procedente.
+
+Décimo Quinto.- Al término de los seis meses a partir de la publicación de la presente Ley, los Fiscales del Ministerio Público determinados conforme el Artículo transitorio décimo remitirán todas las actuaciones a la Fiscalía Especializada para la Atención de Menores para que realice lo procedente.
+
+Décimo Sexto.- Al término de los seis meses a partir de la publicación de la presente Ley, los Procuradores de la Defensa del Menor deberán remitir todas las actuación (sic) a la Defensoría Social de Menores.
+
+Décimo Séptimo.- El Poder Ejecutivo del Estado, dentro del ámbito de sus atribuciones en un plazo de seis meses contados a partir de la entrada en vigor de la presente Ley, deberá realizar lo procedente acerca de presupuesto, recursos humanos, técnicos y materiales asignados al Consejo de Menores del Estado.
