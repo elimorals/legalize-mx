@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-finanzas-51391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-05"
-last_updated: "2006-07-05"
+last_updated: "2007-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MARZO DE 2007.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 5 de julio de 2006.
 
@@ -223,7 +223,11 @@ XXXII. Aprobar los programas de modernización y calidad de la administración p
 
 XXXIII. Interpretar, para efectos administrativos, el presente reglamento.
 
-XXXIV. Las demás que con este carácter le confieran otras disposiciones legales o que le encomiende el Gobernador del Estado.
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+XXXIV. Autorizar los programas relativos al transporte de carga, de uso particular y comercial, que no sean competencia de otras autoridades.
+
+XXXV. Las demás que con este carácter le confieran otras disposiciones legales o que le encomiende el Gobernador del Estado.
 
 ## TÍTULO II. DE LOS SUBSECRETARIOS, DIRECTORES GENERALES, PROCURADOR FISCAL Y CONTADOR GENERAL GUBERNAMENTAL
 
@@ -361,7 +365,15 @@ XIV. Coordinar la difusión, a través de conferencias, talleres y cursos de las
 
 XV. Coordinar la elaboración de documentos de orientación en materia fiscal.
 
-XVI. Las demás que le confieran otras disposiciones legales o que le encomiende el Secretario.
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+XVI. Emitir, previo acuerdo con el Secretario, políticas y lineamientos en materia de transporte particular y comercial.
+
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+XVII. Supervisar e inspeccionar los trámites y procedimientos relacionados con el otorgamiento, modificación, revocación, rescate, reversión o terminación de los permisos y autorizaciones para la prestación del servicio de transporte de carga en general y de carga especializado.
+
+XVIII. Las demás que le confieran otras disposiciones legales o que le encomiende el Secretario.
 
 ###### Artículo 11.
 
@@ -375,9 +387,13 @@ III. Dirección General de Política Fiscal.
 
 ### CAPÍTULO II. DE LA DIRECCIÓN GENERAL DE RECAUDACIÓN
 
+> <small>(REFORMADO, G.G. 7 DE MARZO DE 2007)</small>
+
 ###### Artículo 12.
 
-La Dirección General de Recaudación tendrá jurisdicción en todo el territorio del Estado, y estará a cargo de un Director General, quien en el ejercicio de sus funciones se auxiliará de los directores de área de Administración Tributaria, Normatividad, Operación, y Administración de Cartera, subdirectores, jefes de departamento, delegados fiscales, administradores de rentas, titulares de los centros estatales de recaudación, notificadores, ejecutores, verificadores y demás servidores públicos que se requieran para satisfacer las necesidades del servicio, de acuerdo con la estructura autorizada y con el presupuesto de egresos respectivo.
+La Dirección General de Recaudación tendrá jurisdicción en todo el territorio del Estado, y estará a cargo de un Director General, quien en el ejercicio de sus funciones se auxiliará de los directores de área de Administración Tributaria. Normatividad. Operación, Administración de Cartera y del Registro Estatal de Vehículos, subdirectores, jefes de departamento, delegados fiscales, subdelegados de servicios al autotransporte particular y comercial, administradores de rentas, titulares de los centros estatales de recaudación, titulares de los centros de control vehicular, notificadores, ejecutores, verificadores y demás servidores públicos que se requieran para satisfacer las necesidades del servicio, de acuerdo con la estructura autorizada y con el presupuesto de egresos respectivo.
+
+> <small>(REFORMADO, G.G. 7 DE MARZO DE 2007)</small>
 
 ###### Artículo 13.
 
@@ -401,7 +417,7 @@ B) Administración de Rentas Otumba:
 
 4. San Martín de las Pirámides
 
-B.1. Centro Estatal de Recaudación Tecámac:
+B.I. Centro Estatal de Recaudación Tecámac:
 
 1. Tecámac
 
@@ -435,9 +451,9 @@ II. Delegación Fiscal Naucalpan:
 
 A) Administración de Rentas Naucalpan:
 
-1. Naucalpan de Juárez
+I. Naucalpan de Juárez
 
-A.1. Centro Estatal de Recaudación Ciudad Satélite
+A.I. Centro Estatal de Recaudación Ciudad Satélite
 
 1. Naucalpan de Juárez
 
@@ -445,31 +461,27 @@ A.2. Centro Estatal de Recaudación El Molinito
 
 1. Naucalpan de Juárez
 
-B). Administración de Rentas Tecamachalco:
+2. Tecamachalco
+
+A.3. Centro Estatal de Recaudación Huixquilucan
 
 1. Huixquilucan
 
-2. Naucalpan de Juárez
-
-B.1. Centro Estatal de Recaudación Huixquilucan
+A.4. Centro Estatal de Recaudación Pirules
 
 1. Huixquilucan
 
-B.2. Centro Estatal de Recaudación Pirules
-
-2. Huixquilucan
-
-III. Delegación Fiscal Nezahualcoyotl:
+III. Delegación Fiscal Nezahualcóyotl:
 
 A). Administración de Rentas Chalco:
 
-1. Cocotitlán
+I. Cocotitlán
 
 2. Chalco
 
 3. Valle de Chalco Solidaridad
 
-A.1. Centro Estatal de Recaudación Amecameca
+A.I. Centro Estatal de Recaudación Amecameca
 
 1. Amecameca
 
@@ -491,25 +503,19 @@ A.1. Centro Estatal de Recaudación Amecameca
 
 10. Tlalmanalco
 
-A.2. Centro Estatal de Recaudación Ixtapaluca
-
-1. Ixtapaluca
+11. Ixtapaluca
 
 B). Administración de Rentas Nezahualcóyotl:
 
 1. Nezahualcóyotl
 
-B.1. Centro Estatal de Recaudación Jardines de Guadalupe
+B.I. Centro Estatal de Recaudación Jardines de Guadalupe
 
 1. Nezahualcóyotl
 
-B.2. Centro Estatal de Recaudación La Paz
+2. Chimalhuacán
 
-1. Chimalhuacán
-
-2. La Paz
-
-3. Nezahualcóyotl
+3. La Paz
 
 C). Administración de Rentas Texcoco:
 
@@ -537,11 +543,11 @@ A). Administración de Rentas Atizapán de Zaragoza:
 
 3. Jilotzingo
 
-4 Nicolás Romero
+4. Nicolás Romero
 
 5. Villa del Carbón
 
-A.1. Centro Estatal de Recaudación Cuautitlán Izcalli
+A.I. Centro Estatal de Recaudación Cuautitlán Izcalli
 
 1. Cuautitlán Izcalli
 
@@ -565,7 +571,7 @@ C). Administración de Rentas Tlalnepantla:
 
 1. Tlalnepantla de Baz
 
-C.1. Centro Estatal de Recaudación Plazas de la Colina
+C.I. Centro Estatal de Recaudación Plazas de la Colina
 
 1. Tlalnepantla de Baz
 
@@ -601,7 +607,7 @@ B) Administración de Rentas Ixtlahuaca:
 
 C). Administración de Rentas Jilotepec:
 
-1. Aculco
+1.Aculco
 
 2. Chapa de Mota
 
@@ -617,31 +623,31 @@ D). Administración de Rentas Lerma:
 
 1. Lerma
 
-2 Ocoyoacac
+2. Ocoyoacac
 
-3 Otzolotepec
+3. Otzolotepec
 
-4 San Mateo Atenco
+4. San Mateo Atenco
 
-5 Xonacatlán
+5. Xonacatlán
 
 E). Administración de Rentas Tenango del Valle:
 
 1. Calimaya
 
-2 Chapultepec
+2. Chapultepec
 
 3. Joquicingo
 
 4. Mexicaltzingo
 
-5 Rayón
+5. Rayón
 
 6. San Antonio La Isla
 
 7. Tenango del Valle
 
-E.1. Centro Estatal de Recaudación Ixtapan de la Sal
+E.I. Centro Estatal de Recaudación Ixtapan de la Sal
 
 1. Coatepec Harinas
 
@@ -679,25 +685,19 @@ F). Administración de Rentas Toluca:
 
 1. Toluca
 
-F.1. Centro Estatal de Recaudación Metepec
+2. Metepec
 
-1. Metepec
+3. Toluca (Nueva Oxtotitlán)
 
-F.2. Centro Estatal de Recaudación Nueva Oxtotitlán
+4. Almoloya de Juárez
 
-1. Almoloya de Juárez
+5. Villa Victoria
 
-2. Villa Victoria
+6. Zinacantepec
 
-3. Zinacantepec
+7. Toluca (San Lorenzo Tepaltitlán)
 
-4. Toluca
-
-F.3. Centro Estatal de Recaudación San Lorenzo Tepaltitlán
-
-1. Temoaya
-
-2. Toluca
+B. Temoaya
 
 G). Administración de Rentas Valle de Bravo:
 
@@ -715,9 +715,9 @@ G). Administración de Rentas Valle de Bravo:
 
 7. Villa de Allende
 
-8. Zacazonapan
+B. Zacazonapan
 
-G.1. Centro Estatal de Recaudación Sultepec
+G.I. Centro Estatal de Recaudación Sultepec
 
 1. Almoloya de Alquisiras
 
@@ -742,6 +742,48 @@ G.3. Centro Estatal de Recaudación Temascaltepec
 1. San Simón de Guerrero
 
 2. Temascaltepec.
+
+> <small>(ADICIONADO, G.G. 7 DE MARZO DE 2007)</small>
+
+###### Artículo 13 Bis.
+
+Los Subdelegados de Servicios al Transporte Particular y Comercial estarán al frente de las Subdelegaciones de Servicios al Transporte Particular y Comercial, dependerán de las Delegaciones Fiscales y tendrán de jurisdicción sobre los municipios siguientes:
+
+Delegación Fiscal Toluca:
+
+I. Subdelegación de Servicios al Autotransporte Particular y Comercial Atlacomulco: Acambay. Aculco, Atlacomulco, Chapa de Mota. Ixtlahuaca. Jilotepec, Jocotitlán, Morelos. El Oro. Polotitlán, San Felipe del Progreso, San José del Rincón. Soyaniquilpan de Juárez, Timilpan y Temascalcingo.
+
+II. Subdelegación de Servicios al Autotransporte Particular y Comercial Toluca: Almoloya de Juárez, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Jiquipilco, Lerma. Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec, Rayón, San Antonio la Isla, San Mateo Atenco, Toluca, Temoaya, Tenango del Valle, Texcalyacac, Tianguistenco, Xalatlaco, Xonacatlán y Zinacantepec.
+
+III. Subdelegación de Servicios al Autotransporte Particular y Comercial Valle de Bravo: Amanalco. Donato Guerra. Ixtapan del Oro, Otzoloapan, Santo Tomás. Valle de Bravo, Villa de Allende, Villa Victoria y Zacazonapan.
+
+IV. Subdelegación de Servicios al Autotransporte Particular y Comercial Tejupilco: Amatepec, Luvianos, Tlatlaya, San Simón de Guerrero, Tejupilco y Temascaltepec.
+
+V. Subdelegación de Servicios al Autotransporte Particular y Comercial Ixtapan de la Sal: Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, Sultepec, Tenancingo, Texcaltitlán, Tonatico, Villa Guerrero, Zacualpan y Zumpahuacán.
+
+Delegación Fiscal Naucalpan:
+
+I. Subdelegación de Servicios al Autotransporte Particular y Comercial Naucalpan: Huixquilucan y Naucalpan.
+
+Delegación Fiscal Nezahualcóyotl:
+
+I. Subdelegación de Servicios al Autotransporte Particular y Comercial Nezahualcóyotl: Chicoloapán, Chímalhuacán, lxtapaluca, La Paz y Nezahualcóyotl.
+
+II. Subdelegación de Servicios al Autotransporte Particular y Comercial Chalco: Amecameca, Atlautla, Ayapango, Chalco, Cocotitlán, Ecatzingo, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
+
+III. Subdelegación de Servicios al Autotransporte Particular y Comercial Texcoco: Atenco, Chiautla, Chiconcuac, Papalotla, Tepetlaoxtoc y Texcoco.
+
+Delegación Fiscal Ecatepec:
+
+I. Subdelegación de Servicios al Autotransporte Particular y Comercial Ecatepec de Morelos: Acolman, Axapusco, Coacalco de Berriozábal, Ecatepec de Morelos, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa y Teotihuacan.
+
+II. Subdelegación de Servicios al Autotransporte Particular y Comercial Zumpango: Apaxco, Hueypoxtla, Jaltenco, Nextlalpan. Tequixquiac, Tezoyuca, Zumpango y Tonanitla.
+
+Delegación Fiscal Tlalnepantla:
+
+I. Subdelegación de Servicios al Autotransporte Particular y Comercial Tlalnepantla: Atizapán de Zaragoza, Isidro Fabela. Jilotzingo, Nicolás Romero y Tlalnepantla de Baz.
+
+II.Subdelegación de Servicios al Autotransporte Particular y Comercial Cuautitlán: Coyotepec, Cuautitlán, Cuautitlán Izcalli, Huehuetoca, Melchor Ocampo, Teoloyucan, Tepotzotlán, Tultepec, Tultitlán y Villa del Carbón.
 
 ###### Artículo 14.
 
@@ -779,13 +821,17 @@ XV. Canalizar opiniones y sugerencias de los contribuyentes, en materia fiscal y
 
 XVI. Dar respuesta al público en general que manifieste algún desacuerdo en la aplicación de la normatividad en materia fiscal.
 
-XVII. Diseñar, en coordinación con las unidades administrativas competentes, las formas oficiales de los avisos, requerimientos, declaraciones y demás documentos requeridos por las disposiciones fiscales, así como aprobarlas.
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
+
+XVII. Diseñar, en coordinación con las unidades administrativas competentes, las formas oficiales de los avisos, requerimientos, declaraciones y demás documentos requeridos por las disposiciones fiscales, así como la relativa a los servicios de control vehicular, y aprobarlas.
 
 XVIII. Difundir los formatos de avisos, registros de alta en el padrón de contribuyentes, declaraciones de pago de contribuciones, entre otros, así como brindar asesoría para su llenado.
 
 XIX. Elaborar y mantener actualizados los manuales de procedimientos en materia recaudatoria.
 
-XX. Supervisar, en materia de su competencia, que las administraciones de rentas y centros estatales de recaudación, cumplan con los procedimientos administrativos establecidos para la realización de sus funciones.
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
+
+XX. Supervisar, en materia de su competencia, que las administraciones de rentas, centros estatales de recaudación y centros de control vehicular, cumplan con los procedimientos administrativos establecidos para la realización de sus funciones.
 
 XXI. Integrar y mantener actualizados los registros de contribuyentes en materia estatal y federal que establezcan las disposiciones fiscales.
 
@@ -793,11 +839,15 @@ XXII. Establecer y mantener actualizado el inventario de los créditos fiscales 
 
 XXIII. Mantener actualizada la lista de servidores públicos de las unidades administrativas a su cargo, que operen fondos y valores del Estado, así como determinar los montos para otorgar las fianzas que garanticen su actuación, y verificar su cumplimiento y vigencia.
 
-XXIV. Programar, coordinar, establecer, supervisar y evaluar las actividades de las delegaciones fiscales, de las administraciones de rentas y centros estatales de recaudación.
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
+
+XXIV. Programar, coordinar, establecer, supervisar y evaluar las actividades de las delegaciones fiscales, de las administraciones de rentas, centros estatales de recaudación y centros de control vehicular.
 
 XXV. Supervisar que las oficinas recaudadoras y unidades administrativas a su cargo, depositen y custodien los fondos y valores que se encuentran bajo su responsabilidad, así como apoyar en la entrega de documentos de percepciones a los servidores públicos del Poder Ejecutivo del Estado.
 
-XXVI. Proponer el establecimiento y cierre de administraciones de rentas, centros estatales de recaudación y oficinas auxiliares, atendiendo a las necesidades del servicio, con el fin de mejorar la calidad de atención a la ciudadanía.
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
+
+XXVI. Proponer el establecimiento y cierre de administraciones de rentas, centros estatales de recaudación, centros de control vehicular y oficinas auxiliares, atendiendo a las necesidades del servicio, con el fin de mejorar la calidad de atención a la ciudadanía.
 
 XXVII. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, la documentación, datos e informes que sean necesarios para el ejercicio de sus atribuciones, así como recabar de los servidores públicos y de los fedatarios públicos los informes y datos que tengan con motivo de sus funciones.
 
@@ -805,7 +855,9 @@ XXVIII. Recibir y, en su caso, requerir a los contribuyentes conforme a las disp
 
 XXIX. Ordenar y practicar el embargo precautorio en los casos que proceda, dejarlo sin efectos cuando corresponda; autorizar la sustitución de la garantía y remoción del depositario.
 
-XXX. Recibir de los contribuyentes los depósitos de dinero para, en su caso, aplicarlos en su momento conforme a la prelación fiscal establecida.
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
+
+XXX. Recibir de los contribuyentes o interesados los depósitos de dinero o las constancias que acrediten los pagos efectuados para garantizar el interés fiscal o como garantía para el cumplimiento de las obligaciones contraídas por adjudicaciones de bienes rematados dentro del procedimiento administrativo de ejecución, así como aplicarlos conforme a la prelación fiscal establecida.
 
 XXXI. Determinar y cobrar a los contribuyentes, responsables solidarios y demás obligados, las diferencias por errores aritméticos en las declaraciones, tanto de carácter federal como estatal.
 
@@ -813,7 +865,9 @@ XXXII. Determinar los créditos fiscales omitidos a cargo de los contribuyentes 
 
 XXXIII. Aplicar el procedimiento administrativo de ejecución y supervisar cada una de sus etapas para hacer efectivo el cobro de créditos fiscales, y suspenderlo en los casos en que resulte procedente.
 
-XXXIV. Solicitar el auxilio de la fuerza pública, para llevar a cabo el procedimiento administrativo de ejecución.
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
+
+XXXIV. Solicitar el auxilio de la fuerza pública para llevar a cabo el procedimiento administrativo de ejecución, así como el apoyo que se requiera de las autoridades administrativas correspondientes.
 
 XXXV. Autorizar, cuando proceda, a solicitud de los contribuyentes:
 
@@ -829,7 +883,9 @@ XXXVI. Vigilar que se encuentre debidamente garantizado el interés fiscal y, en
 
 XXXVII. Informar a la Procuraduría Fiscal y a la Contraloría Interna de la Secretaría, sobre la presunta comisión de delitos fiscales y de cualquier otra naturaleza, de los que tenga conocimiento en el ejercicio de sus funciones, así como de las infracciones administrativas cometidas por servidores públicos de su área.
 
-XXXVIII. Autorizar, a solicitud de los contribuyentes, el pago concentrado de contribuciones, cuando cuenten con diversos establecimientos en el territorio del Estado y tengan que efectuar el pago en diversas oficinas recaudadoras.
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
+
+XXXVIII. Proponer al Subsecretario de Ingresos, en el ámbito de su competencia, las reglas de carácter general en materia fiscal o medidas relacionadas con la administración, control, forma de pago y procedimientos relativos a las contribuciones y aprovechamientos, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
 
 XXXIX. Declarar, a petición de parte, en términos de las disposiciones fiscales, la existencia de subsidios, condonaciones y exenciones a su favor.
 
@@ -859,15 +915,63 @@ LI. Ejercer las atribuciones y funciones que se deriven de la aplicación del T�
 
 LII. Ejercer, en el ámbito de su competencia, las atribuciones y funciones que se deriven de los sistemas: Nacional de Coordinación Fiscal y Estatal de Coordinación Hacendaría, así como de los convenios y acuerdos que se celebren dentro del esquema de dicha coordinación con los gobiernos municipales y con los organismos auxiliares.
 
-LIII. Proporcionar asistencia y orientación al contribuyente.
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
 
-LIV. Realizar campañas de difusión en materia fiscal, con el apoyo de las unidades administrativas competentes.
+LIII. Resolver en el ámbito de su competencia, las consultas que formulen los contribuyentes en situaciones reales y concretas, sobre la aplicación de las disposiciones fiscales.
 
-LV. Difundir a través de conferencias, talleres y cursos, las disposiciones fiscales vigentes en la entidad.
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
 
-LVI. Elaborar los documentos de orientación en materia fiscal.
+LIV. Recaudar el importe de las contribuciones, aprovechamientos y productos estatales directamente, a través de las oficinas autorizadas o mediante terceros autorizados, así como las contribuciones federales y municipales en los términos de los convenios suscritos al efecto.
 
-LVII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario o el Subsecretario de Ingresos.
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
+
+LV. En el ámbito de su competencia, emitir la declaratoria de perjuicio de la Hacienda Pública Estatal.
+
+> <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
+
+LVI. Normar, supervisar, controlar, evaluar y vigilar los trámites y servicios relacionados con elregistro, autorización y control vehicular de transporte de carga, de uso particular y comercial.
+
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+LVII. Otorgar y en su caso negar la expedición de permisos y autorizaciones para la prestación del servicio de transporte de carga en general y especializada de carga y resolver sobre su modificación.
+
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+LVIII. Verificar e inspeccionar vehículos afectos al servicio de transporte de carga en general y especializada, así como el cumplimiento de obligaciones por parte de los permisionarios.
+
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+LIX. Mantener coordinación con los ayuntamientos que tengan celebrados convenios de coordinación de prestación de servicios de control vehicular con el Gobierno del Estado de México.
+
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+XL (SIC). Expedir permisos provisionales para vehículos en demostración y traslado y permisos para agencia autorizada, previo cumplimiento de los requisitos establecidos.
+
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+LXI. Integrar, actualizar, operar, controlar y validar el Registro Estatal de Vehículos para efectos tributarios en el marco del Sistema Nacional de Coordinación Fiscal.
+
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+LXII. Expedir la autorización de emplacamiento de vehículos registrados en otra entidad federativa y de procedencia extranjera en el Estado de México.
+
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+LXIII. Verificar y comprobar el debido registro de vehículos matriculados en el Estado de México.
+
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+LXIV. Requerir información de la Secretaría de Transporte y de los ayuntamientos con que se tengan convenios de coordinación de prestación de servicios en materia de control vehicular.
+
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+LXV. Consultar con las entidades federativas el registro de automotores y el cumplimiento de obligaciones fiscales, respecto de los cuales se pretendan realizar trámites de control vehicular en el Estado de México.
+
+> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+
+LXVI. Solicitar a las autoridades de la Secretaría de Transporte, la realización de estudios técnicos y económicos para el otorgamientos (sic) de permisos para vehículos de transporte de carga en general y especializado de carga.
+
+LXVII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario o el Subsecretario de Ingresos.
 
 ### CAPÍTULO III. DE LA DIRECCIÓN GENERAL DE FISCALIZACIÓN
 
@@ -1972,3 +2076,19 @@ SECRETARIO GENERAL DE GOBIERNO
 DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 7 DE MARZO DE 2007.
+
+PRIMERO.- Publíquese el presente acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día 1 de febrero de 2007.
+
+TERCERO.- En todos los ordenamientos legales, las formas oficiales y demás documentos en que haga alusión a las autoridades de la Secretaría de Transporte, se entenderá que se refieren a las autoridades competentes de la Secretaría de Finanzas.
+
+CUARTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
+
+QUINTO.- De llegar a realizarse el cierre de Centros Estatales de Recaudación y/o Centros de Control Vehicular, las funciones y trámites que se realizaban en éstos, serán ejercidas por las autoridades o Administración de Rentas de quien dependan.
+
+SEXTO.- Las Secretarías de Finanzas, de Transporte y de la Contraloría, proveerán lo necesario para el cumplimiento del presente acuerdo.
