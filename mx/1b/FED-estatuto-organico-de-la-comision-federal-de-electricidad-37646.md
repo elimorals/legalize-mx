@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-37646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-10"
-last_updated: "2006-03-28"
+last_updated: "2007-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-08"
 
 ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MARZO DE 2007.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de marzo de 2004.
 
@@ -457,7 +457,9 @@ Al Abogado General de la Comisión le corresponden, además de las facultades ge
 
 I. Representar legalmente a la Comisión y a su Director General, ante los tribunales y demás autoridades, así como ante las instancias arbitrales.
 
-II. Defender los intereses jurídicos de la Comisión y representarla en los juicios, procedimientos y recursos administrativos, judiciales o arbitrales en que sea parte o tenga interés jurídico.
+> <small>(REFORMADA, D.O.F. 8 DE MARZO DE 2007)</small>
+
+II. Defender los intereses jurídicos de la Comisión y representarla en los juicios, procedimientos y recursos administrativos, judiciales o arbitrales en que sea parte o tenga interés jurídico. Estas facultades también podrá ejercerlas el Gerente de Asuntos Contenciosos y los Titulares de las Areas Administrativas Regionales.
 
 III. Determinar los criterios jurídicos que seguirán las unidades administrativas de la Comisión y las áreas jurídicas regionales de acuerdo con el Marco Jurídico Nacional e Internacional aplicable.
 
@@ -1169,6 +1171,10 @@ II. Gerencias Regionales de Transmisión;
 
 III. Gerencias Divisionales de Distribución;
 
+> <small>(ADICIONADA, D.O.F. 8 DE MARZO DE 2007)</small>
+
+III.I. Superintendencias de Zona;
+
 IV. Gerencias Regionales de Producción, y
 
 > <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2005)</small>
@@ -1176,6 +1182,10 @@ IV. Gerencias Regionales de Producción, y
 V. Residencias Regionales de Construcción de: Proyectos Hidroeléctricos; de Proyectos Termoeléctricos; y de Proyectos de Transmisión y Transformación.
 
 A las Gerencias Divisionales de Distribución además de las facultades genéricas señaladas en el artículo 50 de este Estatuto les corresponde llevar a cabo todas las acciones necesarias relacionadas con el suministro de energía eléctrica, de conformidad con los capítulos V de la Ley del Servicio Público de Energía Eléctrica y V de su Reglamento, sin perjuicio de la participación de las demás unidades administrativas que tengan funciones inherentes a dichas actividades.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MARZO DE 2007)</small>
+
+En cada Gerencia Divisional de Distribución los Superintendentes de Zona y el Jefe de Departamento Jurídico Divisional podrán ordenar se practiquen verificaciones a los equipos de medición de la Comisión de acuerdo con el artículo 31 del Reglamento a la Ley del Servicio Público de Energía Eléctrica.
 
 ### Capítulo IX. Del Organo Interno de Control
 
@@ -1231,7 +1241,9 @@ El Titular del Organo Interno de Control en la Comisión en cada una de sus Regi
 
 Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes a la Comisión estará a cargo de cada uno de los Directores en la esfera de sus facultades.
 
-En los juicios de amparo en que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso-administrativo, inclusive la materia laboral, será suplido, indistintamente, por el Director de Administración, el Abogado General o el Gerente de Asuntos Contenciosos.
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 2007)</small>
+
+En los juicios de amparo en que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso-administrativo, contestación de las demandas e interposición de los Recursos de Revisión a que se refiere la Ley Federal de Procedimiento Contencioso Administrativo, inclusive la materia laboral, será suplido, indistintamente, por el Director de Administración, el Abogado General o el Gerente de Asuntos Contenciosos.
 
 ###### Artículo 60.
 
@@ -1290,3 +1302,7 @@ Tercero. Los derechos de los trabajadores no se verán afectados por la reestruc
 D.O.F. 28 DE MARZO DE 2006.
 
 Unico. El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE MARZO DE 2007.
+
+Unico. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
