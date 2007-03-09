@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-pleno-del-instituto-de-acceso-a-5449
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-31"
-last_updated: "2007-01-31"
+last_updated: "2007-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54498&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2007-03-09"
 
 REGLAMENTO DE SESIONES DEL PLENO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MARZO DE 2007.
 
 Reglamento aprobado por el Pleno del Instituto de Acceso a la Información Pública del Distrito Federal, en sesión del 31 de enero de 2007.
 
@@ -261,9 +261,13 @@ La Secretaría Técnica, con el apoyo de las áreas involucradas en los asuntos 
 
 Una vez integradas las modificaciones aprobadas por el Pleno, la Secretaría Técnica deberá enviar a los Comisionados Ciudadanos las versiones electrónicas de dichos documentos.
 
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2007)</small>
+
 ###### Artículo 43.
 
-Los acuerdos, las resoluciones, las actas y demás actos aprobados por el Pleno, para su validez, serán firmados por el Presidente y el Secretario Técnico, de conformidad con los artículos 14, fracción X y 17, fracción V del Reglamento Interior.
+Los acuerdos, las resoluciones, las actas y demás actos aprobados por el Pleno serán firmados por el Presidente y los Comisionados Ciudadanos, de conformidad con los artículos 14, fracción X y 15, fracción V, del Reglamento Interior.
+
+Cuando por causa de fuerza mayor exista imposibilidad material para recabar la firma de cualquier Comisionado Ciudadano, se anotará dicha circunstancia al calce del documento.
 
 ###### Artículo 44.
 
@@ -308,3 +312,13 @@ Después de cada sesión del Pleno se emitirá un boletín de prensa el cual ref
 Cuando un Comisionado Ciudadano entregue material o haga declaraciones a titulo personal, deberá indicarse en los documentos o bien expresarse que ello no refleja la posición institucional, la que únicamente podrá transmitirse a través del Presidente o por el Comisionado Ciudadano que se designe para tal efecto.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 9 DE MARZO DE 2007.
+
+...
+
+TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+CUARTO. Instrúyase al Secretario Técnico para que el presente Acuerdo sea publicado en la Gaceta Oficial del Distrito Federal, en el Portal de Internet y en los estrados del INFODF, respectivamente.
