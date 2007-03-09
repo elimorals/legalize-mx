@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-acceso-a-la-53886"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-14"
-last_updated: "2007-02-14"
+last_updated: "2007-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53886&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-01-31"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MARZO DE 2007.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el miércoles 14 de febrero de 2007.
 
@@ -276,7 +276,9 @@ VIII. Someter, previamente a la aprobación del Pleno, el Informe Anual sobre Ac
 
 IX. Convocar y presidir las sesiones del Pleno;
 
-X. Suscribir junto con el Secretario Técnico los acuerdos, las resoluciones, las actas y demás actos emitidos por el Pleno;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2007)</small>
+
+X. Suscribir los acuerdos, las resoluciones, las actas y demás actos emitidos por el Pleno;
 
 XI. Proponer anualmente al Pleno el proyecto de programa operativo anual y el anteproyecto de presupuesto del Instituto para su aprobación;
 
@@ -310,7 +312,9 @@ III. Participar en las sesiones del Pleno con voz y voto;
 
 IV. Proponer previamente al Presidente asuntos para integrarlos al orden del día de las sesiones ordinarias. En el caso de que al menos dos Comisionados Ciudadanos soliciten la incorporación de un asunto en el orden del día, el Presidente lo incluirá en el mismo, en los términos del Reglamento de Sesiones del Pleno del Instituto;
 
-V. Conocer, debatir y votar los asuntos que sean sometidos para su aprobación en el Pleno;
+> <small>(REFORMADA, G.O. 9 DE MARZO DE 2007)</small>
+
+V. Conocer, debatir y votar los asuntos que sean sometidos para su aprobación en el Pleno, así como suscribir los acuerdos, resoluciones, las actas y demás actos emitidos por el mismo;
 
 VI. Supervisar y dar seguimiento al programa operativo anual que implementen las unidades administrativas de acuerdo a la estrategia definida por el Pleno;
 
@@ -348,7 +352,7 @@ III. Elaborar las actas del Pleno y llevar el registro y control de la documenta
 
 IV. Incorporar las modificaciones aprobadas a los documentos sometidos a consideración del Pleno;
 
-V. Suscribir junto con el Presidente los acuerdos, las resoluciones, las actas y demás actos emitidos por el Pleno;
+V. (DEROGADA, G.O. 9 DE MARZO DE 2007)
 
 VI. Llevar el registro de los acuerdos, las resoluciones y las recomendaciones emitidos por el Pleno;
 
@@ -466,9 +470,11 @@ V. Dirección de Tecnologías de Información; y
 
 VI. Dirección de Administración y Finanzas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE MARZO DE 2007)</small>
+
 ###### Artículo 21.
 
-Son atribuciones de los titulares de las Direcciones y unidades administrativas de nueva creación:
+Son atribuciones de los titulares de las Direcciones y Unidades Administrativas las siguientes:
 
 I. Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendados a su cargo;
 
@@ -731,3 +737,13 @@ I. Cualquiera de los Comisionados Ciudadanos podrá presentar propuestas de refo
 II. El Pleno del Instituto determinará lo conducente ya sea rechazando, aprobando, o modificando, la propuesta de reforma planteada, y
 
 III. Aprobada la modificación, quedará incorporada de inmediato al texto del Reglamento, debiendo ordenarse su publicación en la Gaceta Oficial del Distrito Federal.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 9 DE MARZO DE 2007.
+
+...
+
+TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+CUARTO. Instrúyase al Secretario Técnico para que el presente Acuerdo sea publicado en la Gaceta Oficial del Distrito Federal, en el Portal de Internet y en los estrados del INFODF, respectivamente.
