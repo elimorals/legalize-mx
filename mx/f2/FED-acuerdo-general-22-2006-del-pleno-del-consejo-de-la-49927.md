@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2006-del-pleno-del-consejo-de-la-49927"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-04-04"
-last_updated: "2006-10-03"
+last_updated: "2007-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49927&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2006-03-30"
 
 ACUERDO GENERAL 22/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REGULA LA CONSTITUCION, ORGANIZACION Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. 3 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO RATIFICADO.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MARZO DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 4 de abril de 2006.
 
@@ -247,11 +245,11 @@ CONTRATACION DE PERSONAL. El Consejo cubrirá las percepciones del Secretario T�
 
 ### Capítulo VI. De la Transparencia y la Rendición de Cuentas
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 8/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2007)</small>
+
 ###### Artículo 24.
 
-RENDICION DE CUENTAS DEL FONDO. El Comité enviará a la Secretaría de Hacienda y Crédito Público, la información relativa a la operación del Fondo, para efectos de su incorporación a la Cuenta Pública Federal.
-
-El manejo del Fondo, por tanto, queda sujeto a la revisión que ejerce la Honorable Cámara de Diputados a través de la Auditoria Superior de la Federación.
+RENDICION DE CUENTAS DEL FONDO. El Comité enviará en forma trimestral a la entidad de fiscalización superior de la Federación, el informe correspondiente al ejercicio de los recursos que integran el patrimonio del Fondo de Apoyo a la Administración de Justicia. Al mismo tiempo, se publicarán en el Diario Oficial de la Federación, previa aprobación del Comité, los ingresos del periodo, incluyendo los rendimientos financieros, egresos, destino y saldo patrimonial del Fondo.
 
 ###### Artículo 25.
 
@@ -294,3 +292,11 @@ Séptimo.- En la consecución del objetivo del Título Décimo Primero de este A
 Octavo.- Los servidores públicos adscritos a la Dirección General de Recursos Humanos que desempeñan funciones relacionadas con las atribuciones que el presente Acuerdo confiere a la Dirección General de Servicios al Personal, se integrarán con su plaza a esta última dirección general, conservando sus derechos laborales.
 
 Noveno.- Publíquese en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 9 DE MARZO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Lo dispuesto en el Artículo 24 de este Acuerdo (sic) será aplicable a la gestión financiera de los recursos del Fondo correspondiente a la anualidad de dos mil seis.
