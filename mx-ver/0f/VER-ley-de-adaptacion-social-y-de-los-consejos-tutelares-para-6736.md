@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adaptacion-social-y-de-los-consejos-tutelares-para-6736"
 country: "mx"
 rank: "ley"
 publication_date: "1980-09-30"
-last_updated: "2006-09-11"
+last_updated: "2007-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 LEY DE ADAPTACION SOCIAL Y DE LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDAD JUVENIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 11 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO 864, PUBLICADO EN LA G.O. DE 9 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO QUEDARA DEROGADO A PARTIR DEL 11 DE JULIO DE 2007</small>
 
-ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: DEROGADA.
+ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 9 DE MARZO DE 2007.
 
 Ley publicada en el Numero Extraordinario de la Gaceta Oficial del Estado de Veracruz-Llave, el martes 30 de septiembre de 1980.
 
@@ -553,7 +553,9 @@ NOVENO. Se derogan todas las disposiciones legales que se opongan a la presente 
 
 G.O. 11 DE SEPTIEMBRE DE 2006.
 
-Primero. Esta ley entrará en vigor seis meses después de su publicación en la Gaceta Oficial del estado.
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2007)</small>
+
+Primero. Esta ley entrará en vigor el 11 de julio de dos mil siete.
 
 Segundo. Queda derogada la Ley de Adaptación Social y de los Consejos Tutelares para Menores Infractores del Estado de Veracruz de 19 de septiembre de 1980 y todas las normas que se opongan al presente decreto.
 
@@ -568,3 +570,9 @@ Sexto. Los condenados a pena privativa de la libertad por sentencia ejecutoriada
 Séptimo. A la entrada en vigor de esta ley, las investigaciones ministeriales iniciadas en contra de los sujetos que comprende la misma serán remitidas al Ministerio Público Especializado en Adolescentes.
 
 Octavo. Las órdenes de aprehensión y de comparecencia libradas contra los adolescentes que comprende esta ley y que no hubieren sido ejecutadas, al entrar en vigor esta ley, quedarán sin efecto y, a solicitud del Ministerio Público Especializado, los Jueces las librarán nuevamente si procediere.
+
+G.O. 9 DE MARZO DE 2007.
+
+Artículo primero. El presente Decreto entrará en vigor el día 11 de marzo de 2007.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
