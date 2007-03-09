@@ -4,7 +4,7 @@ identifier: "VER-ley-de-responsabilidad-juvenil-para-el-estado-de-veracruz-51773
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2006-09-11"
+last_updated: "2007-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE RESPONSABILIDAD JUVENIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 11 de septiembre de 2006.
 
@@ -371,7 +371,7 @@ l. En caso de producirse un acuerdo, se levantará un acta que tendrá fuerza vi
 
 ###### Artículo 50.
 
-1. Con excepción de los delitos previstos en el artículo 137.1.I.a., b., c. y d.; 137.1.III., 137.1.V.; 137.1.VII.; 137.1.IX.; 137.1.X.; 137.1.XI.; 137.1.XII., de esta Ley, previa solicitud del adolescente o del Ministerio Público con acuerdo de aquél, procederá la suspensión del proceso a prueba, siempre que el adolescente no se encuentre gozando de éste beneficio en proceso diverso.
+1. Con excepción de los delitos previstos en el artículo 137.1.I.a., b., c. y d.; 137.1.III., 137.1.V.; 137. 1.VII.; 137.1.IX.; 137. 1.X.; 137.1.XI.; 137.1.XII., de esta Ley, previa solicitud del adolescente o del Ministerio Público con acuerdo de aquél, procederá la suspensión del proceso a prueba, siempre que el adolescente no se encuentre gozando de éste beneficio en proceso diverso.
 
 2. La suspensión del proceso podrá solicitarse en cualquier momento hasta antes de dictarse el auto de apertura a juicio, y no impedirá el ejercicio de la acción civil ante los tribunales respectivos. Si efectuada la petición aún no existe acusación, se estará a los hechos precisados en el auto de vinculación a proceso o a una descripción sucinta de los hechos que haga el Ministerio Público.
 
@@ -1777,7 +1777,9 @@ La revisión se solicitará por escrito ante la Sala del Tribunal Superior de Ju
 
 ## TRANSITORIOS
 
-Primero. Esta ley entrará en vigor seis meses después de su publicación en la Gaceta Oficial del estado.
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2007)</small>
+
+Primero. Esta Ley entrará en vigor el 11 de julio de dos mil siete.
 
 Segundo. Queda derogada la Ley de Adaptación Social y de los Consejos Tutelares para Menores Infractores del Estado de Veracruz (sic) de 19 de septiembre de 1980 y todas las normas que se opongan al presente decreto.
 
@@ -1818,3 +1820,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 9 DE MARZO DE 2007.
+
+Artículo primero. El presente Decreto entrará en vigor el día 11 de marzo de 2007.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
