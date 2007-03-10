@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-para-adolescentes-del-estado-de-oaxaca-52027"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2006-09-09"
+last_updated: "2007-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2007.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -1465,6 +1465,10 @@ Primero.- Esta Ley entrará en vigor el día 1º de enero del año 2007. Publíq
 
 Segundo.- A la entrada en vigor de la presente Ley, quedará abrogada la Ley de Tutela Pública para Menores Infractores del Estado de Oaxaca publicada el 5 de Marzo de 1994.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2007)</small>
+
+Los procedimientos instaurados y los tratamientos impuestos a menores de 18 años, por hechos sucedidos, antes de la entrada en vigor de la presente Ley, se sustanciarán hasta su conclusión, rigiéndose de conformidad con la Ley de Tutela para Menores Infractores del Estado de Oaxaca. En tanto, el Consejo de Tutela para Menores Infractores, seguirá ejerciendo las facultades, obligaciones, atribuciones y responsabilidades establecidas en la misma.
+
 Tercero.- Durante el plazo de su entrada en vigor, el Ejecutivo estatal y las autoridades estatales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
 
 Cuarto.- Los adolescentes que no hayan cumplido los 18 años, a quienes se impute la comisión de conductas ilícitas, serán remitidos al Consejo de Tutela para Menores Infractores, para ser sujetos al sistema previsto por la Ley de Tutela Pública para Menores Infractores, hasta en tanto entra en vigor la presente ley.
@@ -1516,3 +1520,9 @@ Oaxaca de Juárez, Oax., a 07 de septiembre del 2006.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. HELIODORO CARLOS DÍAZ ESCARRAGA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE MARZO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
