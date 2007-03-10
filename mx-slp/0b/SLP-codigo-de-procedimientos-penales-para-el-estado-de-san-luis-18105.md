@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2002-10-15"
+last_updated: "2007-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2007.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2575,9 +2575,9 @@ Si se declara fundada la solicitud de reconocimiento de la inocencia del sentenc
 
 Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional, homicidio calificado, parricidio, aborto, ataque peligroso, secuestro, robo de infante, tráfico de menores, asalto, violación, violación equiparada, corrupción de menores, robo calificado, abigeato, rebelión, motín, terrorismo, asociación delictuosa, evasión, tortura, ataque a las vías de comunicación y medios de transporte, y homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2007)</small>
 
-Tratándose de robo calificado, en las modalidades previstas en las fracciones I, III y V del artículo 200 del Código Penal del Estado, únicamente se considerará como grave cuando en razón del arma empleada o por encontrarse habitado el lugar donde se cometió el robo, se ponga en riesgo la integridad corporal de la víctima, su familia o demás habitantes, o cuando se infieran lesiones. En el caso de robo calificado en la modalidad prevista en la fracción II del artículo supracitado, sólo se considerará como grave cuando se cometa en casa-habitación y el valor de lo robado exceda de 200 veces el salario mínimo vigente.
+Tratándose de robo calificado, en las modalidades previstas en las fracciones I y V del artículo 200 del Código Penal del Estado, únicamente se considerará como grave cuando en razón del arma empleada, se ponga en riesgo la integridad corporal de la víctima, su familia o demás habitantes, o cuando se infieran lesiones. En el caso de robo calificado en la modalidad prevista en la fracción II del artículo supracitado, sólo se considerará como grave cuando se cometa en casa-habitación y el valor de lo robado exceda de 100 veces el salario mínimo vigente.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2002)</small>
 
@@ -3208,3 +3208,9 @@ P.O. 15 DE OCTUBRE DE 2002.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
