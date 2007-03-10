@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2006-09-12"
+last_updated: "2007-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2007.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -705,7 +705,9 @@ El otorgamiento y disfrute del beneficio de la suspensión condicional de la pen
 
 I. El juzgador, al dictar sentencia, suspenderá motivadamente la ejecución de las penas, a petición de parte o de oficio, si concurren estas condiciones:
 
-a). Que la condena se refiera a una pena de prisión que no exceda de cuatro años y que no se trate de sentencias dictas por los delitos de secuestro atenuado, robo con violencia, robo de infante atenuado o corrupción de menores;
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2007)</small>
+
+a). Que la condena se refiera a una pena de prisión que no exceda de cuatro años y que no se trate de sentencias dictadas por los delitos de secuestro atenuado, robo con violencia o a casa habitación, robo de infante atenuado o corrupción de menores;
 
 b). Que sea la primera vez que el sentenciado incurre en un delito doloso y, además, haya evidenciado buena conducta, antes y después del hecho punible, y
 
@@ -1667,6 +1669,8 @@ Este delito se sancionará con una pena de seis meses a tres años de prisión y
 
 ### CAPITULO IX. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 191.
 
 Comete el delito de inhumaciones y exhumaciones ilícitas quien oculta, destruye, sepulta o manda sepultar un cadáver, un feto o restos humanos y quien exhuma un cadáver sin los requisitos exigidos por la ley.
@@ -1971,7 +1975,7 @@ En estos casos se impondrá una pena de uno a cinco años de prisión y sanción
 
 ###### ARTICULO 222.
 
-En cualquier delito contra el patrimonio, cuando antes de citación para sentencia se restituya el producto del delito o se pague su valor real y los daños ocasionados, o el delito no se cometió con violencia y el inculpado no tiene antecedentes penales por delitos contra el patrimonio, se le impondrá una pena de tres meses a cuatro años de prisión y sanción pecuniaria de veinticinco a cuatrocientos días de salario mínimo.
+En los delitos contra el patrimonio, excepto el robo calificado, cuando antes de citación para sentencia se restituya el producto del delito, o se pague su valor real y los daños ocasionados, o el delito no se cometió con violencia, y el inculpado no tiene antecedentes penales por delitos contra el patrimonio, se le impondrá una pena de tres meses a cuatro años de prisión y sanción pecuniaria de veinticinco a cuatrocientos días de salario mínimo.
 
 ###### ARTICULO 223.
 
@@ -2938,3 +2942,9 @@ c) El Director del Centro de Readaptación Social para Menores, "Profesor Angel 
 Las medidas impuestas, tanto las de internamiento, como las de externación, serán adecuadas por el Juez de Ejecución.
 
 d) Si las autoridades del Consejo Tutelar par Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
+
+P.O. 10 DE MARZO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
