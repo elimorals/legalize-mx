@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2007-02-13"
+last_updated: "2007-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2007.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -691,9 +691,19 @@ VIII. Publicar en el Periódico Oficial del Estado los presupuestos de egresos, 
 
 IX. Publicar trimestralmente en la tabla de avisos del Ayuntamiento o en el periódico de mayor circulación en el municipio, el estado de origen y aplicación de los recursos públicos a su cargo;
 
-X. Enviar al Titular del Poder Ejecutivo del Estado, dentro de los primeros quince días del mes de diciembre de cada año, un informe de labores desarrolladas en el ejercicio; y,
+X. Enviar al Titular del Poder Ejecutivo del Estado, dentro de los primeros quince días del mes de diciembre de cada año, un informe de labores desarrolladas en el ejercicio; y (sic),
 
-XI. Autorizar la contratación de créditos para obras de beneficio general, de conformidad con esta Ley y las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+XI. Autorizar la contratación de créditos y en general, ejercer las facultades en materia de deuda pública de conformidad con esta Ley y las demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2007)</small>
+
+XII. Autorizar la afectación, como fuente de pago, garantía o ambas, de las obligaciones a su cargo el derecho y/o los ingresos que le correspondan que sean susceptibles de afectación en términos de las disposiciones aplicables; y,
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2007)</small>
+
+XIII. Autorizar que el Municipio se adhiera a mecanismos de fuente de pago o garantía en los que participen otros municipios, sujetándose para tales efectos a la autorización y lineamientos emitidos por el Congreso.
 
 d).- En materia de Desarrollo Social y Fomento Económico:
 
@@ -2424,3 +2434,9 @@ Artículo Segundo. Los Ayuntamientos de la entidad expedirán el Reglamento del 
 P.O. 13 DE FEBRERO DE 2007.
 
 ÚNICO.- El Presente Decreto, entrará en vigor al día siguiente, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
