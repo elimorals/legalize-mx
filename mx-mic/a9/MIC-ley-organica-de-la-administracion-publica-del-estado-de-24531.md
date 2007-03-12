@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-24531"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-04-12"
-last_updated: "2006-12-30"
+last_updated: "2007-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 12 de abril de 2002.
 
@@ -71,9 +71,11 @@ Podrá reformar o derogar los reglamentos, acuerdos, circulares y demás disposi
 
 El Gobernador del Estado podrá autorizar la creación, fusión o supresión de las unidades administrativas que requiera el desempeño de la función ejecutiva, asimismo contará con las unidades de asesoría y apoyo técnico que determine, de acuerdo con el Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+
 ###### ARTÍCULO 7º.
 
-El Gobernador del Estado podrá crear, modificar o extinguir, mediante decreto o acuerdo administrativos, conforme al Presupuesto de Egresos del Estado, organismos descentralizados y desconcentrados, así como empresas de participación estatal, fideicomisos, comisiones, comités, patronatos y entidades de la administración pública paraestatal, independientemente de la denominación que se les dé, y asignarles las funciones que estime conveniente.
+El Gobernador del Estado podrá crear, modificar o extinguir, mediante decreto o acuerdo administrativo, conforme al Presupuesto de Egresos del Estado, organismos descentralizados y desconcentrados, así como empresas de participación estatal, comisiones, comités, patronatos y entidades de la administración pública paraestatal, independientemente de la denominación que se les de, y asignarles las funciones que estime conveniente. En el caso de los fideicomisos, su constitución se sujetará a lo que establezcan las leyes respectivas.
 
 ###### ARTÍCULO 8º.
 
@@ -103,9 +105,11 @@ Las dependencias y entidades de la administración pública estatal, centralizad
 
 Los titulares de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, ejercerán sus funciones de acuerdo con su reglamento interior, y dictarán las resoluciones que les competan, pudiendo delegar a sus subalternos, cualquiera de sus facultades para resolver asuntos, salvo en los casos en que la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, las leyes que de ella emanen y su reglamento interior, dispongan que deben ser resueltos por ellos.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+
 ###### ARTÍCULO 15.
 
-Los organismos descentralizados, desconcentrados, empresas de participación estatal, fideicomisos, comisiones, comités, patronatos, juntas o entidades, son órganos auxiliares de la administración pública estatal, que deberán coordinar sus acciones con las dependencias y entidades que determine el Gobernador del Estado.
+Los organismos descentralizados, desconcentrados, empresas de participación estatal, fideicomisos públicos, comisiones, comités, patronatos, juntas o entidades, son órganos auxiliares de la administración pública estatal que deberán coordinar sus acciones con las dependencias y entidades que determine el Gobernador del Estado.
 
 ###### ARTÍCULO 16.
 
@@ -1065,7 +1069,9 @@ I. Organismos públicos descentralizados;
 
 II. Empresas de participación estatal;
 
-III. Fideicomisos; y,
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+III. Fideicomisos Públicos; y,
 
 IV. Los que se establezcan conforme a la ley de la materia.
 
@@ -1073,7 +1079,9 @@ Son organismos descentralizados las entidades creadas por ley o decreto del Pode
 
 Son Empresas de Participación Estatal mayoritaria las sociedades de cualquier naturaleza en las que el Gobierno del Estado, o una o más de sus entidades paraestatales tenga participación mayoritaria.
 
-Son Fideicomisos los contratos que celebre el Gobierno del Estado, destinando ciertos bienes a un fin lícito determinado, encomendando su realización a una institución fiduciaria.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+
+Son fideicomisos públicos los contratos que celebre el Gobierno del Estado, mediante los cuales se destinen ciertos bienes a un fin lícito determinado, encomendando su realización a una institución fiduciaria, con el propósito de auxiliar al Ejecutivo del Estado en la realización de las funciones que legalmente le corresponden. No serán Fideicomisos Públicos y por lo tanto no les será aplicable la presente Ley, aquellos fideicomisos que, de conformidad con lo previsto en las demás leyes estatales, no formen parte de la Administración Pública del Estado.
 
 ###### ARTÍCULO 38.
 
@@ -1164,3 +1172,9 @@ Los asuntos que con motivo de las reformas a que se refiere este Decreto, deban 
 ###### ARTÍCULO QUINTO.
 
 Las menciones contenidas en otras leyes, reglamentos y en generan (sic) en cualquier disposición, respecto de las funciones que se transfieren por virtud de este Decreto, se entenderán referidas a las dependencias que respectivamente asuman tales funciones.
+
+P.O. 12 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
