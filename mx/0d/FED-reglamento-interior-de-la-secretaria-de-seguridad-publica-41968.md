@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-seguridad-publica-41968
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-06"
-last_updated: "2005-01-06"
+last_updated: "2007-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41968&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-01-05"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PUBLICADO EN EL D.O.F. DE 12 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado la primera sección del Diario Oficial de la Federación, el jueves 6 de enero de 2005.
 
@@ -1180,3 +1182,19 @@ SEGUNDO.- La Oficialía Mayor de la Secretaría realizará las acciones necesari
 TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Diario Oficial de la Federación el 9 de diciembre de 2002.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cinco días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Seguridad Pública, Ramón Martín Huerta.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 12 DE MARZO DE 2007.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Diario Oficial de la Federación el 6 de enero de 2005 y se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Las acciones que se llevan a cabo para la aplicación del presente Decreto, se sujetarán a la disponibilidad de recursos que se haya aprobado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente para la Secretaría de Seguridad Pública, y deberán sujetarse a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+
+CUARTO.- La Oficialía Mayor de la Secretaría realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades administrativas que desaparecen por virtud de este Reglamento, sean transferidos a las unidades administrativas que correspondan, en términos del presupuesto aprobado para dicha Dependencia.
+
+QUINTO.- El Secretario deberá integrar la instancia de coordinación de la policía federal, dentro de los 30 días siguientes a la entrada en vigor del presente reglamento.
+
+SEXTO.- El Secretario deberá expedir el Acuerdo de creación del Consejo Ciudadano de Seguridad Pública y formular las invitaciones a las organizaciones de la sociedad civil correspondientes.
