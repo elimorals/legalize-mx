@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-18059"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-26"
-last_updated: "2005-06-27"
+last_updated: "2007-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 
 LEY DE EDUCACION DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACION PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 12 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el Alcance al Número 12 del Periódico Oficial del Estado de Aguascalientes, el miércoles 26 de marzo de 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+
+Ley publicada en el Alcance al Número 12 al Periódico Oficial del Estado de Aguascalientes, el miércoles 26 de marzo de 1997.
 
 OTTO GRANADOS ROLDAN, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 
@@ -1236,3 +1238,37 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 27 DE JUNIO DE 2005
 
 UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MARZO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Educación para el Estado de Aguascalientes publicada en el Periódico Oficial del 26 de marzo de 1997.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones contrarias a esta Ley.
+
+###### ARTICULO CUARTO.
+
+Los tipos, niveles y modalidades de educación que en su oportunidad sean transferidos por el Gobierno Federal al Gobierno de Aguascalientes, dependerán administrativa y operativamente del Instituto de Educación de Aguascalientes de acuerdo a lo dispuesto en la presente Ley, en los Convenios de Transferencia que para tal efecto llegaran a signarse y demás disposiciones legales aplicables.
+
+###### ARTICULO QUINTO.
+
+El Congreso del Estado adecuará las leyes que tengan relación con la materia educativa en un período no mayor de 160 días.
+
+###### ARTICULO SEXTO.
+
+Mientras que el Gobernador Constitucional del Estado no emita los reglamentos que se derivan de la presente Ley, se aplicarán los existentes en todo aquello que no contravenga las disposiciones aplicables de la misma.
+
+Para efectos de la presente Ley, los conceptos generales de la educación se definirán en los reglamentos respectivos.
+
+Los reglamentos se emitirán en un término de 180 días a partir de la publicación del presente Decreto.
+
+###### ARTICULO SEPTIMO.
+
+Las autoridades competentes se obligan a respetar íntegramente los derechos de los trabajadores de la educación, la normatividad señalada en el Acuerdo Nacional para la Modernización de la Educación Básica y el convenio firmado el 18 de mayo de 1992 con el Sindicato Nacional de Trabajadores de la Educación, publicado en el Periódico Oficial de fecha 7 de junio de 1992, y de acuerdo con el Artículo 20 de la Ley del Instituto de Educación de Aguascalientes se reconoce la titularidad de las relaciones laborales colectivas al Sindicato Nacional de Trabajadores de la Educación en los términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes.
