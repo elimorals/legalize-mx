@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2006-08-14"
+last_updated: "2007-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2007.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -4453,7 +4453,9 @@ Se entiende por subdivisión de áreas o predios urbanos, la partición de un te
 
 Se entiende por subdivisión de áreas o predios rústicos, la partición de dos o más fracciones, de un terreno ubicado fuera de los límites de un centro de población o de las zonas de crecimiento de los Programas de Desarrollo Urbano.
 
-Las subdivisiones de terrenos rústicos se regirán por este Código y por la Ley Agraria.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+
+Las subdivisiones de terrenos rústicos se regirán por este Código, la Ley Agraria, así como la Legislación Ambiental y Forestal aplicable.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -4483,19 +4485,27 @@ b).- Sólo se permitirá la construcción relacionada con el uso de suelo autori
 
 c).- El porcentaje de construcción máxima para fines habitacionales no deberá ser mayor del 5% de la superficie de cada fracción, con una densidad máxima de una vivienda por hectárea. Los frentes mínimos o accesos tendrán una dimensión no menor de 30 metros hacia una vía pública o camino legalmente constituido que en ningún caso se aceptará en una sección o anchura menor a 12 metros.
 
-III.- Tratándose de subdivisiones de predios para uso comercial, cualquiera de las fracciones resultantes no deberá ser menor a los 50 metros cuadrados y su frente deberá tener como mínimo 5 metros, para estos casos se deberá dotar de cajones de estacionamiento para giros diferentes al comercio inmediato. En cualquier caso deberá contar con el espacio suficiente para las instalaciones sanitarias, de ventilación o iluminación natural y la disposición de cajones de estacionamiento dentro del predio conforme al reglamento de construcción municipal correspondiente; y
+III.- Tratándose de subdivisiones de predios para uso comercial, cualquiera de las fracciones resultantes no deberá ser menor a los 50 metros cuadrados y su frente deberá tener como mínimo 5 metros, para estos casos se deberá dotar de cajones de estacionamiento para giros diferentes al comercio inmediato. En cualquier caso deberá contar con el espacio suficiente para las instalaciones sanitarias, de ventilación o iluminación natural y la disposición de cajones de estacionamiento dentro del predio conforme al reglamento de construcción municipal correspondiente; y (sic)
 
-IV.- En predios dentro de zonas de preservación ecológica o zonas protegidas las fracciones resultantes serán como mínimo de 50,000 metros cuadrados.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+IV.- En predios dentro de Zonas de Preservación Ecológica determinadas por autoridad competente en materia ambiental, que no han sido declaradas como Áreas Naturales Protegidas y que son valiosas por su riqueza natural, así como fundamentales para la conservación de los ecosistemas y la biodiversidad, las fracciones resultantes serán como mínimo de 50,000 metros cuadrados.
+
+En las fracciones resultantes los frentes deberán tener una dimensión mínima de 30 metros; así mismo deberán encontrarse ubicados sobre una vía pública o camino legalmente constituido con una sección o anchura no menor a 12 metros o en su defecto deberá existir una servidumbre o camino parcelario de por medio, registrado ante la autoridad competente, debiendo incluir un levantamiento topográfico georeferenciado que indique las características del camino y su ubicación.
 
 En estos predios se permitirá la construcción habitacional o comercial de acuerdo a lo siguiente:
 
-a).- Que el porcentaje de construcción máxima para fines habitacionales o comerciales no deberá ser mayor del 2% de la superficie de cada fracción. Los frentes mínimos o accesos tendrán una dimensión no menor de 30 metros hacia una vía pública o camino legalmente constituido que en ningún caso se aceptará en una sección o anchura menor a 12 metros;
+a) Que las autoridades competentes en materia ambiental determinen que es viable la construcción, a través del procedimiento de evaluación de impacto ambiental, en el cual se deberá atender que no exista conflicto ambiental, entendiendo por tal, la concurrencia de actividades incompatibles en un área determinada;
 
-b).- Que exista una servidumbre o camino parcelario de por medio, registrado ante la autoridad competente, debiendo incluir un levantamiento topográfico georeferenciado que indique las características del camino y su ubicación;
+b) Que de acuerdo a la evaluación de impacto ambiental referida en el inciso anterior, la autoridad ambiental establezca el porcentaje de construcción para fines habitacionales o comerciales, mismo que no deberá ser mayor del 2% de la superficie de cada fracción.
 
-c).- Que las autoridades competentes en materia ambiental determinen que es viable la construcción; y
+La superficie de terreno destinada a fines habitacionales o comerciales a que se refiere el párrafo anterior, no podrá por ningún motivo subdividirse dentro del polígono que ampare el correspondiente título de propiedad; y
 
-d).- Que una vez reunidos los requisitos a que se refiere esta Fracción, el Ayuntamiento, tomando en cuenta las opiniones de las autoridades involucradas, emita la autorización respectiva.
+c) Que una vez reunidos los requisitos a que se refiere esta fracción, el Ayuntamiento, tomando en cuenta las opiniones de la SEPLADE y de las demás autoridades involucradas, emita la autorización respectiva.
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2007)</small>
+
+V.- En predios dentro de las Áreas Naturales Protegidas la subdivisión de terrenos y la construcción estará regida por lo que determine el Decreto de su creación y del programa de manejo correspondiente.
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -7435,9 +7445,11 @@ La SEPLADE y el Ayuntamiento respectivo, al tener conocimiento de la ejecución 
 
 Serán nulos de pleno derecho, los actos jurídicos, convenios o contratos, que celebren los sujetos de este Código, que ejecuten acciones, obras y servicios en materia de desarrollo urbano o que tengan por objeto la venta de los lotes de un fraccionamiento, así como la enajenación de los departamentos, viviendas, casas, locales o áreas de que se componga un inmueble sujeto al régimen de propiedad en condominio, sin que previamente se hubieren satisfecho los siguientes requisitos:
 
-I.- Que en su caso, se hubieren concluido totalmente las obras de urbanización; y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
 
-II.- Que dichas obras hubieren sido aprobadas en los términos de este Código.
+I.- Que las obras de urbanización hubieren sido aprobadas y realizadas en los términos de este Código; y
+
+II.- (DEROGADA, P.O. 12 DE MARZO DE 2007)
 
 La nulidad que establece este Artículo, será independiente de las sanciones civiles, administrativas o penales a que se hiciere acreedor el infractor.
 
@@ -7864,3 +7876,9 @@ Los urbanizadores que estén tramitando la autorización para fraccionamientos, 
 ###### ARTICULO QUINTO.
 
 Los Ayuntamientos del Estado en sesión de Cabildo, están obligados a definir y delimitar sus zonas urbanas consolidadas, dentro de sus respectivos programas de desarrollo urbano. Hasta en tanto no lo hagan, no se podrán expedir las autorizaciones de subdivisiones contempladas en el Artículo 356 BIS de este Código.
+
+P.O. 12 DE MARZO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En los lugares donde exista Decreto de Áreas Naturales Protegidas y no exista el Programa de Manejo, las autoridades competentes deberán en un plazo de un año aprobar y publicar el mismo.
