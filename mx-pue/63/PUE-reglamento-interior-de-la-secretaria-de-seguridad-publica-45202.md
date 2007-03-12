@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-seguridad-publica-45202
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-25"
-last_updated: "2005-05-25"
+last_updated: "2007-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2007.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 25 de mayo de 2005.
 
@@ -95,7 +95,9 @@ Dirección General de Centros de Readaptación Social.
 
 - Dirección del Centro de Readaptación Social de Ciudad Serdán.
 
-- Dirección del Centro de Observación y Readaptación Social para Menores Infractores del Estado de Puebla.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+
+- Dirección del Centro de Internamiento Especializado para Adolescentes del Estado de Puebla.
 
 ## TÍTULO SEGUNDO. DE LAS ATRIBUCIONES
 
@@ -171,11 +173,17 @@ XXIX.- Coadyuvar con las dependencias y entidades de la Administración Pública
 
 XXX.- Proveer en el ámbito de su competencia, lo conducente para la vigilancia y control de los reos que se encuentran a disposición del Ejecutivo del Estado y del Ejecutivo Federal, de los procesados del fuero común y del fuero federal y los reos que se encuentren a disposición de autoridades ejecutoras de otras Entidades Federativas, compurgando penas privativas de la libertad en los establecimientos penales de la Entidad, de conformidad con los convenios que al efecto se suscriban.
 
-Asimismo establecerá políticas y programas para su readaptación social, incluyendo a los menores infractores, en este último caso, sin perjuicio de lo que establezca la normatividad aplicable;
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
-XXXI.- Organizar, administrar, dirigir y supervisar el Sistema de Reclusorios y Centros de Readaptación Social, incluyendo a los menores infractores;
+Asimismo establecerá políticas y programas para su readaptación social, incluyendo a los adolescentes, en este último caso, sin perjuicio de lo que establezca la normatividad aplicable;
 
-XXXII.- Vigilar el cumplimiento de las medidas tutelares de internamiento de los menores infractores, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+XXXI.- Organizar, administrar, dirigir, supervisar y evaluar el Sistema de Reclusorios y Centros de Readaptación Social, incluyendo al Centro de Internamiento Especializado para Adolescentes;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+XXXII.- Vigilar el cumplimiento de las medidas de internamiento de los adolescentes, de conformidad con la normatividad aplicable;
 
 XXXIII.- Proponer y en su caso, determinar, conforme a la ley y previa valoración, el lugar en el que los sentenciados deban cumplir las sanciones privativas de la libertad que les hayan sido impuestas;
 
@@ -353,11 +361,15 @@ XIX.- Las que le asigne el Secretario o el Subsecretario y las demás que las le
 
 La Dirección General de Centros de Readaptación Social del Estado, depende del Secretario y su Titular tiene además de las atribuciones señaladas en el artículo 9 de este Reglamento, las siguientes:
 
-I.- Organizar, administrar, dirigir y supervisar el Sistema de Reclusorios y Centros de Readaptación Social para Adultos y para Menores Infractores del Estado, de conformidad con los lineamientos que establezca el Secretario y en términos de la normatividad aplicable;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+I.- Organizar, administrar, dirigir y supervisar el Sistema de Reclusorios y Centros de Readaptación Social para Adultos, así como el Centro de Internamiento Especializado para Adolescentes, de conformidad con los lineamientos que establezca el Secretario y en términos de la normatividad aplicable;
 
 II.- Ejercer la vigilancia y control de los reos que se encuentren a disposición del Ejecutivo del Estado y del Ejecutivo Federal, de los procesados del fuero común y del fuero federal y los reos que se encuentren a disposición de Autoridades Ejecutoras de otras Entidades Federativas, compurgando penas privativas de la libertad en los Establecimientos Penales de la Entidad, de conformidad con los convenios que al efecto se suscriban.
 
-Asimismo, propondrá al Secretario las políticas y programas para la readaptación social, incluyendo a los menores infractores, en este último caso, sin perjuicio de lo que establezca la normatividad aplicable;
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+
+Asimismo, propondrá al Secretario las políticas y programas para la readaptación social, incluyendo a los adolescentes, en este último caso, sin perjuicio de lo que establezca la normatividad aplicable;
 
 III.- Dirigir, controlar y promover la readaptación de los sentenciados para su integración social, de conformidad con los lineamientos que establezca el Secretario;
 
@@ -365,7 +377,9 @@ IV.- Aplicar, en el ámbito de su competencia, la Ley de Ejecución de Sanciones
 
 V.- Participar en la elaboración y cumplimiento de los Convenios de Coordinación que se celebren con las Dependencias Federales, Estatales y Municipales en materia de su competencia, de conformidad con los lineamientos que establezca el Secretario;
 
-VI.- Supervisar y evaluar en el ámbito de su competencia, las funciones directivas, técnicas, administrativas, de seguridad y custodia de los Reclusorios y Centros de Readaptación Social que operan en el Estado, proponiendo al Secretario las medidas que estime necesarias para su mejoramiento;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+VI.- Supervisar y evaluar en el ámbito de su competencia, las funciones directivas, técnicas, administrativas, de seguridad y custodia de los Reclusorios, Centros de Readaptación Social que operan en el Estado y el Centro de Internamiento Especializado para Adolescentes, proponiendo al Secretario las medidas que estime necesarias para su mejoramiento;
 
 VII.- Proporcionar a solicitud de las Autoridades competentes, las constancias de antecedentes que obren en los expedientes de los internos;
 
@@ -389,7 +403,9 @@ XVI.- Coordinar acciones en el ámbito de su competencia, con la Secretaría de 
 
 XVII.- Establecer las acciones necesarias para conocer el estado físico, mental y nivel socioeconómico y cultural de los internos, para los efectos de aplicación en el ámbito de su competencia, de la Ley de Ejecución de Sanciones Privativas de la Libertad;
 
-XVIII.- Determinar los lineamientos para procurar y fomentar el establecimiento, conservación y fortalecimiento de las relaciones de los internos con el exterior y vigilar su aplicación en los Centros de Readaptación Social,
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+XVIII.- Determinar los lineamientos para procurar y fomentar el establecimiento, conservación y fortalecimiento de las relaciones de los internos con el exterior y vigilar su aplicación en los Centros de Readaptación Social, incluyendo el Centro de Internamiento Especializado para Adolescentes;
 
 XIX.- Otorgar, previo acuerdo del Secretario, el apoyo correspondiente en los casos de traslado de procesados, sentenciados, nacionales o extranjeros, de acuerdo con lo estipulado en tratados, convenios, leyes o reglamentos establecidos, informando oportunamente al Secretario sobre las actividades efectuadas;
 
@@ -405,7 +421,9 @@ XXIV.- Proponer las medidas tendientes a evitar que se produzca la sobrepoblaci�
 
 XXV.- Proponer al Secretario conforme a la ley y previa valoración, el lugar en el que los sentenciados deban cumplir las sanciones privativas de la libertad que les hayan sido impuestas;
 
-XXVI.- Vigilar el funcionamiento del Centros de Observación y Readaptación Social para Menores Infractores, sin detrimento de la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+XXVI.- Vigilar el funcionamiento del Centro de Internamiento Especializado para Adolescentes, de conformidad con los lineamientos que establezca el Secretario sin detrimento de la normatividad aplicable; y
 
 XXVII.- Las que le asigne el Secretario y las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente.
 
@@ -1081,21 +1099,31 @@ XXIV.- Solicitar en caso de emergencia, el auxilio y la intervención de las Fue
 
 XXV.- Las que le asignen el Secretario o el Director General, así como aquéllas que las Leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente.
 
-### CAPÍTULO XXII. DE LA DIRECCIÓN DEL CENTRO DE OBSERVACIÓN Y READAPTACIÓN SOCIAL PARA MENORES INFRACTORES DEL ESTADO DE PUEBLA
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MARZO DE 2007)</small>
+
+### CAPÍTULO XXII. DE LA DIRECCIÓN DEL CENTRO DE INTERNAMIENTO ESPECIALIZADO PARA ADOLESCENTES DEL ESTADO DE PUEBLA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 29.
 
-La Dirección del Centro de Observación y Readaptación Social para Menores Infractores del Estado de Puebla, depende de la Dirección General de Centros de Readaptación Social y el Titular tiene además de las atribuciones señaladas en el artículo 13 de este Reglamento, las siguientes:
+La Dirección del Centro de Internamiento Especializado para Adolescentes del Estado de Puebla, depende de la Dirección General de Centros de Readaptación Social del Estado y su Titular tiene además de las atribuciones señaladas en el artículo 13 de este Reglamento, las siguientes:
 
 I.- Llevar a cabo la administración del Centro de acuerdo al presupuesto autorizado, de conformidad con los lineamientos que establezcan el Secretario y el Director General;
 
 II.- Integrar el Consejo Técnico Interdisciplinario del Centro;
 
-III.- Vigilar que se cumplan en sus términos, las resoluciones del Consejo Tutelar para Menores Infractores
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
 
-IV.- Clasificar a los menores internos de acuerdo a sus características particulares;
+III.- Vigilar que se cumplan en su ámbito de competencia, las determinaciones emitidas por las autoridades y órganos especializados para adolescentes, de conformidad con los lineamientos que establece el Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla;
 
-V.- Llevar y mantener actualizado el registro de los menores internos, así como su expediente personal;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+IV.- Dirigir y representar al Centro de Internamiento Especializado para Adolescentes;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+V.- Llevar y mantener actualizado el registro y expediente personal de los internos, de conformidad a los lineamientos que establece el Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla;
 
 VI.- Propiciar la reincorporación social de los internos a través de la familia, el trabajo y la educación, de conformidad con la Ley de la materia y los lineamientos que establezcan el Secretario y el Director General;
 
@@ -1109,15 +1137,25 @@ X.- Promover el deporte y la cultura entre los internos como medio de reincorpor
 
 XI.- Mantener en buenas condiciones de funcionamiento la biblioteca para el uso de los internos;
 
-XII.- Proporcionar alimentación y atención necesarias para asegurar el sano crecimiento de los internos;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
 
-XIII.- Presentar atención médica y psicológica a los menores internos que la necesiten, estableciendo las medidas de prevención, curación y rehabilitación necesarias;
+XII.- Proporcionar una alimentación nutrimental adecuada y suficiente para asegurar el sano desarrollo de los internos;
 
-XIV.- De conformidad con los lineamientos que establezcan el Secretario y el Director General y en términos de la ley de la materia, encargarse de la seguridad y custodia de los menores internos;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
 
-XV.- De conformidad con la ley y de acuerdo a los lineamientos que establezca el Secretario y el Director General, disponer y efectuar los tratamientos de los internos, atendiendo a las normas legales aplicables y conforme a las instrucciones que reciba de las autoridades competentes;
+XIII.- Coordinar la atención médica preventiva, correctiva, psicológica a los internos que la necesiten, siempre en razón de su género y circunstancias particulares;
 
-XVI.- Formular estadísticas en relación a las causas de ingreso de los menores internos;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+XIV.- Mantener una convivencia segura y ordenada de los internos, de conformidad con lo que establece el Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla, y de los lineamientos emitidos por el Secretario;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+XV.- Participar en los tratamientos de los internos, atendiendo a las determinaciones que emitan las autoridades y órganos competentes;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
+XVI.- Formular estadísticas en relación a las causas de ingreso de los internos;
 
 XVII.- Procurar el mantenimiento, modernización y mejora del Centro;
 
@@ -1156,3 +1194,15 @@ Cuando las funciones o atribuciones de alguna unidad administrativa establecida 
 Los asuntos que se encuentren substanciándose al momento de entrar en vigor el presente Decreto, y que correspondan por su naturaleza conocer y resolver a una unidad administrativa diferente o de reciente creación, se continuarán tramitando hasta su conclusión en las unidades que actualmente conocen de los mismos.
 
 Dado en la sede del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintinueve días del mes de abril del año dos mil cinco.- ''Sufragio Efectivo. No Reelección''.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.- El Secretario de Seguridad Pública.- GENERAL MARIO AYÓN RODRÍGUEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
