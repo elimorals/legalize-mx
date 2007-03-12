@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-entidades-paraestatales-del-estado-de-michoacan-6041"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-30"
-last_updated: "1992-03-30"
+last_updated: "2007-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 30 de marzo de 1992.
 
@@ -47,9 +47,11 @@ La presente Ley tiene por objeto regular la organización, funcionamiento y cont
 
 Las relaciones del Ejecutivo del Estado o de sus dependencias con las entidades paraestatales, en cuanto unidades auxiliares de la administración pública estatal, se sujetarán en primer término, a lo establecido en esta Ley y sus disposiciones reglamentarias y sólo en lo no previsto a otras disposiciones según la materia que corresponda.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 2o.
 
-Son entidades paraestatales las que se mencionan en los artículos 4o. y 5o. de la Ley Orgánica de la Administración Pública.
+Son entidades paraestatales las que se mencionan en el artículo 37 de la Ley Orgánica de la Administración Pública del Estado.
 
 ###### ARTICULO 3o.
 
@@ -305,25 +307,37 @@ La dependencia coordinadora del sector que corresponda, en lo que no se oponga a
 
 ### CAPITULO IV. DE LOS FIDEICOMISOS PUBLICOS
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 36.
 
-Los fideicomisos públicos, son aquellos que el gobierno del Estado o alguna de las entidades paraestatales, constituyen con el propósito de auxiliar al Ejecutivo Estatal en las atribuciones del Estado para impulsar las áreas prioritarias del desarrollo y que cuenten con una estructura orgánica análoga a las otras entidades y que tengan comités técnicos.
+Los fideicomisos públicos sujetos a la presente Ley, son aquellos que el Gobierno del Estado o alguna de las entidades paraestatales constituyen con el propósito de auxiliar al Ejecutivo Estatal en las atribuciones del Estado para impulsar las áreas prioritarias del desarrollo y que cuenten con una estructura orgánica análoga a las otras entidades y que tengan comités técnicos.
+
+No serán fideicomisos públicos y por lo tanto no les será aplicable la presente Ley, aquellos fideicomisos que, de conformidad con lo previsto en las demás leyes estatales, no formen parte de la Administración Pública del Estado o Municipal.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 37.
 
-Los Comités Técnicos y los Directores Generales de los fideicomisos públicos citados en el artículo anterior, se sujetarán en cuanto a su integración, facultades y funcionamiento, a las disposiciones que en el Capítulo V de esta Ley, se establecen para los órganos de gobierno y para los Directores Generales, en cuanto sea compatible a su naturaleza.
+Los Comités Técnicos y los Directores Generales de los fideicomisos públicos que se establezcan en términos del primer párrafo del artículo 36 de la presente Ley, se sujetarán en cuanto a su integración, facultades y funcionamiento, a las disposiciones que en el Capítulo V de esta Ley, se establecen para los órganos de gobierno y para los Directores Generales, en cuanto sea compatible a su naturaleza.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 38.
 
-El Ejecutivo del Estado, a través de la Tesorería General, será el fideicomitente único de la Administración Pública Paraestatal quien cuidará que en los contratos que se celebren, queden precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezcan o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso, el Comité Técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior.
+El Ejecutivo del Estado, a través de la Tesorería General, será el fideicomitente único de la Administración Pública Paraestatal quien cuidará que en los contratos que se celebren para constituir fideicomisos públicos en términos del primer párrafo del artículo 36 de la presente Ley, queden precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezcan o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso, el Comité Técnico, el cual deberá existir obligadamente en los fideicomisos públicos a que se refiere el primer párrafo del artículo 36 de esta Ley.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 39.
 
-Las instituciones fiduciarias, a través del Delegado Fiduciario General, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos, deberán someter a la dependencia encargada de la coordinación del sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
+Las instituciones fiduciarias, a través del Delegado Fiduciario General, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos públicos a que se refiere el primer párrafo del artículo 36 de esta Ley, deberán someter a la dependencia encargada de la coordinación del sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 40.
 
-Cuando por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, de común acuerdo con la dependencia coordinadora de sector, instruirán al Delegado Fiduciario para:
+Cuando por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos públicos a que se refiere el primer párrafo del artículo 36 de esta Ley, la institución fiduciaria requiera informes y controles especiales, de común acuerdo con la dependencia coordinadora de sector, instruirán al Delegado Fiduciario para:
 
 I. Someter a previa consideración de la institución que desempeñe el cargo de fiduciaria, los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso o para la propia institución;
 
@@ -335,17 +349,21 @@ IV. Presentar a la fiduciaria la información contable requerida para precisar l
 
 V. Cumplir con los demás requerimientos que de común acuerdo con la coordinadora de sector, le fije la fiduciaria.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 41.
 
-En los contratos de los fideicomisos a que se refiere el artículo 36, se deberán precisar las facultades especiales si las hubiere, que en adición a las que establece el Capítulo V de esta Ley, determine el Ejecutivo del Estado para el Comité Técnico, indicando en todo caso, cuáles asuntos requieren de la aprobación del mismo, para el ejercicio de acciones y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado, constituyen limitaciones para la institución fiduciaria.
+En los contratos de los fideicomisos públicos a que se refiere el primer párrafo del artículo 36 de la presente Ley, se deberán precisar las facultades especiales si las hubiere, que en adición a las que establece el Capítulo V de esta Ley, determine el Ejecutivo del Estado para el Comité Técnico, indicando en todo caso, cuáles asuntos requieren de la aprobación del mismo, para el ejercicio de acciones y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado, constituyen limitaciones para la institución fiduciaria.
 
-La institución fiduciaria deberá abstenerse de cumplir las resoluciones que el Comité Técnico dicte en exceso de las facultades expresamente fijadas por el fideicomitente o en violación a las cláusulas del contrato de fideicomiso, debiendo responder de los daños y perjuicios que se causen, en caso de ejecutar actos en acatamiento de acuerdos dictados en exceso de dichas facultades o en violación al citado contrato.
+La institución fiduciaria correspondiente deberá abstenerse de cumplir las resoluciones que el Comité Técnico dicte en exceso de las facultades expresamente fijadas por el fideicomitente o en violación a las cláusulas del contrato del fideicomiso público de que se trate, debiendo responder de los daños y perjuicios que se causen, en caso de ejecutar actos en acatamiento de acuerdos dictados en exceso de dichas facultades o en violación al citado contrato.
 
-Cuando para el cumplimiento de la encomienda fiduciaria, se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso, si no es posible reunir al Comité Técnico por cualquier circunstancia, la institución fiduciaria procederá a consultar al Gobierno del Estado, a través del coordinador de sector, quedando facultada para ejecutar aquellos actos que ésta autorice.
+Cuando para el cumplimiento de la encomienda fiduciaria, se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso público de que se trate, si no es posible reunir al Comité Técnico por cualquier circunstancia, la institución fiduciaria correspondiente procederá a consultar al Gobierno del Estado, a través del coordinador de sector, quedando facultada para ejecutar aquellos actos que ésta autorice.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 42.
 
-En los contratos constitutivos de fideicomisos de la Administración Pública Estatal Centralizada, se deberá reservar al Gobierno Estatal, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios, o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la ley o que la naturaleza de sus fines no lo permitan.
+En los contratos constitutivos de fideicomisos públicos a que se refiere el primer párrafo del artículo 36 de esta Ley, se deberá reservar al Gobierno Estatal, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios, o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la ley o que la naturaleza de sus fines no lo permitan.
 
 ### CAPITULO V. DEL DESARROLLO Y OPERACION
 
@@ -554,3 +572,11 @@ DIPUTADA PRESIDENTA.- MARGARITA GONZALEZ AGUIRRE.- DIPUTADO SECRETARIO.- ABRAHAM
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 10 días del mes de marzo de 1992, mil novecientos noventa y dos.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- DR. JAIME GENOVEVO FIGUEROA ZAMUDIO.- EL SECRETARIO DE GOBIERNO.- LIC. AUSENCIO CHAVEZ HERNANDEZ.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
