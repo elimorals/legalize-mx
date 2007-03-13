@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2006-09-11"
+last_updated: "2007-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -168,6 +168,10 @@ No se suspenderá la preparación de la acción penal, si el inculpado solicita 
 > <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
 
 XI.- Levantar actas circunstanciadas de la sustracción o pérdida de documentos o identificaciones u objetos sin señalarse o encontrarse identificados como probable responsable de delito a persona alguna, ya que son conductas o hechos que por su propia naturaleza y por carecer de elementos constitutivos no pueden ser estimados como delictuosos.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+En aquellos delitos no graves en los cuales se requiera cumplir con algún requisito de procedibilidad que corresponda subsanarlo a la víctima u ofendido, el Ministerio Público levantará la denuncia en un acta circunstanciada y orientará y asesorará al denunciante a fin de poder cumplimentar a la brevedad dichos requisitos.
 
 Dichas actas circunstanciadas se registrarán en un libro denominado de Actas Circunstanciadas y cuando aparecieren los datos que permitieran el esclarecimiento de los hechos o la individualización de los responsables, el Ministerio Público procederá a anotar esa circunstancia en el libro e iniciará la averiguación previa correspondiente;
 
@@ -619,6 +623,18 @@ Cuando esté plenamente comprobado en autos el cuerpo del delito de que se trate
 
 Si la entrega del bien pudiera lesionar derechos de tercero o del inculpado, podrá efectuarse la devolución mediante fianza bastante para garantizar los daños y perjuicios, si el funcionario a cuya disposición esté el bien, estima necesaria esa garantía.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 48 Bis.
+
+Cuando existan indicios suficientes que hagan presumir fundadamente que una persona ha participado en los delitos tipificados por los artículo (sic) 165 bis, 176 o en alguno que tenga relación con el 176 del Código Penal para el Estado de Nuevo León, el Ministerio Público podrá disponer, previa autorización judicial, el aseguramiento de los bienes que son propiedad de dicha persona, así como de aquellos respecto de los cuales ésta se conduzca como dueño, quedando a cargo de sus poseedores acreditar la procedencia legítima de dichos bienes, en cuyo caso deberá ordenarse levantar el aseguramiento.
+
+El aseguramiento de bienes podrá realizarse en cualquier fase del proceso.
+
+Los bienes asegurados se pondrán a disposición del juez de la causa, previa determinación del Ministerio Público de las medidas provisionales necesarias para su conservación y resguardo.
+
+El Juez de la causa, o el Ministerio Público, en todo momento durante el proceso, tomará las determinaciones que correspondan para la supervisión y control de los bienes asegurados.
+
 ###### ARTICULO 49.
 
 Son correcciones disciplinarias:
@@ -800,6 +816,14 @@ El cateo se practicará por el Ministerio Público que lo solicite, al concluir 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
 
 Si el Juez niega la práctica del cateo, se estará a lo dispuesto en el Artículo 200 de este Código.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+Tratándose de los delitos tipificados en el artículo 16 bis del Código Penal para el Estado de Nuevo León, la petición del cateo deberá ser resuelta a la brevedad después de recibida por la autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+El auto que niegue la autorización, es apelable por el Ministerio Público. En estos casos el Juez deberá remitir de inmediato el expediente a fin de que la apelación sea resuelta a la brevedad.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -1157,6 +1181,14 @@ En el caso de que la denuncia o la querella se presenten verbalmente, se hará c
 
 Cuando el denunciante o querellante haga publicar la denuncia o la querella, está obligado a publicar también, a su costa, y en la misma forma utilizada para esa publicación, el acuerdo que recaiga al concluir la averiguación previa, si así lo solicita la persona en contra de la cual se hubiese formulado dicha denuncia o querella; sin perjuicio de las responsabilidades en que aquéllos incurran, conforme a otras leyes aplicables.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 128 Bis.
+
+En caso de que se reciba información anónima sobre hechos relacionados con la comisión de los delitos tipificados por los artículos 165 bis ó 176 del Código Penal para el Estado de Nuevo León, el Ministerio Público deberá ordenar que se verifique (sic) estos hechos.
+
+Al verificarse la información y que de ello se deriven indicios suficientes de la comisión de estos delitos, se deberá iniciar una averiguación previa, recabar pruebas o interrogar a testigos a partir de esta comprobación, pero en ningún caso dicha información, por sí sola, tendrá valor probatorio alguno dentro del proceso.
+
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 129.
@@ -1275,6 +1307,10 @@ El Ministerio Público, en su caso, de oficio o a petición de parte, verificar�
 
 6) Comunicará de inmediato la detención a la Representación Diplomática o Consular que corresponda, si el detenido es un extranjero.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+Cuando la detención se efectúe por elementos de instituciones policiales, los servidores públicos encargados de calificar la detención y poner a la persona a disposición del Ministerio Público, deberán proceder a su identificación por los medios que estén a su alcance.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 136.
@@ -1317,6 +1353,10 @@ El indiciado que voluntariamente se someta a la utilización del brazalete elect
 
 Para la aplicación de este artículo se observará en lo procedente lo dispuesto por el artículo 181 Bis del Código Penal vigente en el Estado.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+En los de los (sic) delitos tipificados por los artículos 165 bis y 176 del Código Penal para el Estado de Nuevo León, el arraigo no podrá exceder de sesenta días, prorrogables por treinta días más a petición del Ministerio Público.
+
 ###### ARTICULO 140.
 
 Toda mujer que sea detenida en prisión preventiva, lo será en lugar distinto y separado del de los varones, y su custodia será encomendada a personal exclusivamente femenino.
@@ -1341,11 +1381,11 @@ Tanto el Ministerio Público como la Policía, se sujetarán a las disposiciones
 
 Las actas se extenderán de preferencia en papel oficio, autorizándose cada hoja con el sello de la oficina, e insertándose en ellas las formalidades que para el caso deben contener las diligencias de ratificación o de reconocimiento de firma, y de todas las determinaciones o certificaciones relativas. Además, se agregarán los documentos que se presenten.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 144.
 
-En las oficinas del Ministerio Público, se llevarán los registros necesarios para dar entrada a los asuntos que se tramiten. Se formará el expediente por duplicado, con los demás documentos que se reciban, dejando copia certificada cuando la averiguación se traslade a otra Autoridad o se reserve la acción penal en contra de una persona.
+En las oficinas del Ministerio Público, se llevarán los registros necesarios para dar entrada a los asuntos que se tramiten. Se formará expediente por duplicado, con los demás documentos que se reciban y un cuaderno de pruebas, dejando copia certificada cuando la averiguación se traslade a otra Autoridad o se reserve acción penal en contra de persona alguna.
 
 ###### ARTICULO 145.
 
@@ -1601,6 +1641,12 @@ Cualquiera persona que tenga en su poder un documento público o privado que se 
 
 Se reconocen como excepciones para el cumplimiento de la obligación a que se refiere este artículo, las señaladas en la ley.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 179 Bis.
+
+En los casos de privación ilegal de la libertad con carácter de secuestro que prevén los artículos 357 ó 357 bis del Código Penal vigente en el Estado, cuando no se pueda obtener la declaración y la práctica de dictámenes médico, físico y psicológico por parte del pasivo, por cualquier causa, se tomarán en cuenta las declaraciones de testigos y todos aquellos indicios que permitan conocer las circunstancias en que se cometió la conducta delictiva para tener por acreditado el cuerpo del delito.
+
 ###### ARTICULO 180.
 
 En todos aquellos delitos en que se requieran conocimiento (sic) especiales para su comprobación, se utilizarán asociadas las pruebas de inspección y de peritos, sin perjuicio de las demás.
@@ -1632,6 +1678,78 @@ V.- La ubicación del lugar o la identificación del medio en que habrá de llev
 VI.- Duración de la intervención.
 
 Podrán ser objeto de intervención las comunicaciones privadas que se realicen en forma oral, escrita, por signos, señales o mediante el empleo de aparatos eléctricos, mecánicos, alámbricos e inalámbricos, sistemas o equipos informáticos, así como cualquier otro medio o forma que permita la comunicación entre uno o varios emisores y uno o varios receptores.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 182 Bis.
+
+Durante la intervención de comunicaciones privadas, el Ministerio Público ordenará la transcripción de aquellas grabaciones que resulten de interés para la averiguación previa y las cotejará en presencia del personal del cuerpo técnico de la Procuraduría, en cuyo caso serán ratificadas por quien las realizó. La transcripción contendrá los datos necesarios para identificar el medio de donde fue tomada. Los datos o informes impresos que resulten de la intervención serán igualmente integrados a la averiguación.
+
+Las imágenes de video que se estime convenientes podrán, en su caso, ser convertidas a imágenes fijas y ser impresas para su integración a la indagatoria. En este caso, se indicará el medio de donde proviene la imagen y el nombre y cargo de la persona que realizó la conversión.
+
+(ADICIONADO, P.O. 13 DE MARZO DE 2007) (F. DE E., P.O. 18 DE ABRIL DE 2007)
+
+###### ARTICULO 182 Bis 1.
+
+El Ministerio Público deberá levantar acta circunstanciada de la intervención de comunicaciones privadas que realice, la cual contendrá:
+
+I. Día y hora de inicio y conclusión de la intervención de comunicaciones privadas;
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 2007)</small>
+
+II. Un inventario pormenorizado de los documentos, objetos y medios de grabación de audio o video que contengan los sonidos o imágenes captadas durante la misma; y,
+
+III. La identificación de quienes hayan participado en las diligencias, así como todos aquellos datos que se consideren relevantes para la investigación.
+
+Los documentos, objetos y medios de grabación de audio o video, así como el duplicado de cada una de ellas se numerarán progresivamente, y contendrán los datos necesarios para su identificación, debiéndose guardar en sobre sellado, siendo responsable de su seguridad cuidado e integridad, el Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 182 Bis 2.
+
+Al iniciarse el proceso, los documentos, objetos y medios de grabación, así como todos los duplicados existentes, así como cualquier otro resultado de la intervención, serán entregados al juez de la causa.
+
+Durante el proceso, el juez de la causa, pondrá los documentos, objetos y medios de grabación a disposición del inculpado, quien podrá verlos o escucharlos durante un período de diez días, bajo la supervisión de la autoridad judicial, quien velará por la integridad de estos elementos probatorios. Al término de este período, el inculpado o su defensor formularán sus observaciones, si las tuvieran, y podrán solicitar al juez de la causa la destrucción de aquellos documentos, objetos y medios de grabación no relevantes para el proceso. Así mismo, podrá solicitar la transcripción de aquellas grabaciones o la fijación en impreso de imágenes, que considere relevantes para su defensa.
+
+La destrucción también será procedente cuando los documentos, objetos y medios de grabación provengan de una intervención no autorizada o no se hubieran cumplido los términos de la autorización judicial respectiva.
+
+El auto que resuelva la destrucción de los documentos objetos y medios de grabación, la transcripción de grabaciones o la fijación de imágenes es apelable en ambos efectos.
+
+(ADICIONADO, P.O. 13 DE MARZO DE 2007) (F. DE E., P.O. 18 DE ABRIL DE 2007)
+
+###### ARTICULO 182 Bis 3.
+
+En caso del no ejercicio de la acción penal, y una vez transcurrido el plazo legal para impugnarlo sin que ello suceda, los medios de grabación, en original y duplicado, se pondrán a disposición del Juez de Distrito que autorizó la intervención, quien dispondrá lo conducente, y en caso de ordenar su destrucción ésta se realizará en presencia del Titular de la Procuraduría. Igual procedimiento se aplicará cuando, por reserva de la averiguación previa u otra circunstancia, dicha averiguación no hubiese sido consignada y haya transcurrido el plazo para la prescripción de la acción penal.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 182 Bis 4.
+
+En los casos en que el Ministerio Público haya ordenado la detención de alguna persona; conforme a lo previsto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, el Titular de la Procuraduría General de Justicia podrá solicitar al juez de Distrito competente la autorización para realizar la intervención de comunicaciones privadas.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 182 Bis 5.
+
+Toda persona física o moral en cuyo poder se hallen objetos o documentos que pudieran servir de prueba, tiene la obligación de entregarlos al Ministerio Público. De igual forma se tiene la obligación de entregarlos, cuando para ello sea requerido por el Ministerio Público durante la averiguación previa, o por el juzgador durante el proceso, con las salvedades que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 182 Bis 6.
+
+La autoridad podrá ofrecer recompensa en determinada cantidad de dinero a cualquier persona que aporte datos o elementos probatorios que sean efectivos para la resolución de un delito de los tipificados en el Código Penal como graves. Ningún servidor público podrá participar de dicha recompensa.
+
+Cuando se libre orden de aprehensión por los delitos previstos en los artículos 165 bis, 176, 318, 325, 357 o 357 bis del Código Penal para el Estado de Nuevo León, la autoridad podrá ofrecer recompensa a quienes auxilien eficientemente para la localización y aprehensión del inculpado.
+
+El reglamento respectivo, establecerá los términos, montos y condiciones de la recompensa de que se trate.
+
+Para tal efecto, la Secretaría de Finanzas y Tesorería General del Estado proveerá los fondos necesarios.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 182 Bis 7.
+
+La persona que preste ayuda eficaz para la investigación y persecución de los delitos previstos por los artículos 165 bis, 176, 318, 325, 357 ó 357 bis del Código Penal para el Estado de Nuevo León, cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la indagatoria iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona.
 
 ### CAPITULO CUARTO. CONSIGNACION ANTE LOS TRIBUNALES
 
@@ -2371,6 +2489,28 @@ Antes de resolver sobre la objeción planteada por una de las partes, el Juez es
 
 El valor probatorio del testimonio se calificará en la sentencia.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 275 Bis.
+
+Tratándose de los tipos descritos por los artículos 165 bis, 176, 318, 325, 357 ó 357 bis del Código Penal para el Estado de Nuevo León, el Ministerio Público o la autoridad jurisdiccional correspondiente, antes del inicio de la diligencia se cerciorará en privado, a su satisfacción, de la identidad del testigo, se le preguntará a éste su nombre completo y se ordenará se le practique una prueba de ADN (ácido desoxirribonucleico), que será la única prueba con la que se demuestre la identidad del testigo Con el resultado de dicha prueba, se iniciará la diligencia, se le tomará la protesta de decir verdad o se le exhortará a conducirse con verdad en caso de ser menor de edad, se le preguntará si se halla ligado con el inculpado, el ofendido o la víctima por vínculos de parentesco, amistad o cualquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos. El nombre del testigo lo guardará la autoridad bajo su responsabilidad.
+
+Posteriormente, el testigo declarará libremente o responderá a las preguntas que se le formulen en términos de este Código.
+
+En estas diligencias y durante el proceso, la identidad del testigo se asentará solamente con el resultado de la prueba de ADN (ácido desoxirribonucleico).
+
+En caso de que el testigo tenga que comparecer ante el Ministerio Público o la autoridad jurisdiccional en el proceso, si el testigo lo estima pertinente podrá presentarse de tal forma en que no pueda identificarse su apariencia física, su voz, así como otros rasgos particulares que lo hagan inconfundible, y se identificará con su registro de ADN (ácido desoxirribonucleico) que le será proporcionado por el Estado. Dicho registro será suficiente para los efectos de la identificación.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 275 Bis 1.
+
+. El Ministerio Público deberá mantener en reserva la identidad de las víctimas y la de las personas que declaren con el carácter de testigos, cuando hagan imputaciones directas en contra de personas a quienes se atribuya la comisión de delitos tipificados por los artículos 165 bis, 176, 318, 325, 357 ó 357 bis del Código Penal para el Estado de Nuevo León.
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 2007)</small>
+
+La Procuraduría prestará apoyo y protección suficientes a Jueces, Agentes del Ministerio Público, peritos y demás servidores públicos, además a sus auxiliares, cónyuge e hijos, cuando así se requiera por su intervención en un procedimiento penal respecto a los delitos referidos en el párrafo anterior.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 276.
@@ -2718,6 +2858,28 @@ Los tribunales, según la naturaleza de los hechos y el enlace lógico y natural
 Presunción es la consecuencia que la Ley o el tribunal deducen de un hecho conocido, para averiguar la verdad de otro desconocido.
 
 La primera se llama legal, y la segunda humana.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 326 Bis.
+
+La sentencia judicial irrevocable que tenga por acreditada la existencia de una organización delictiva determinada, será prueba plena con respecto de la existencia de esta organización en cualquier otro procedimiento, por lo que únicamente será necesario probar la vinculación de un nuevo procesado a esta organización, para poder ser sentenciado por el delito de delincuencia organizada.
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 2007)</small>
+
+En estos casos no se requerirá la copia certificada de la resolución que se trate, será suficiente que la Secretaría de Seguridad Pública, o en su caso, el secretario judicial fedatario expida una constancia certificando información técnica de la sentencia, que contendrá lo siguiente:
+
+I. Nombre y generales del sentenciado;
+
+II. Lugar y fecha en que fue pronunciada;
+
+III. La denominación del tribunal que la dictó;
+
+IV. Datos sobre la sentencia incluyendo la declaratoria judicial que tenga por acreditada la existencia de la organización delictiva y su identidad; y
+
+V. La sanción impuesta por dicho delito.
+
+El servidor público que expida la certificación deberá reservar la identidad y paradero de los intervinientes en el proceso que dió lugar a la sentencia, incluida la del órgano judicial que la dictó.
 
 ###### ARTICULO 327.
 
@@ -4363,7 +4525,7 @@ II.- Las circunstancias de tiempo, modo y lugar de los hechos por los que se le 
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
-III.- La participación que se atribuye al inculpado en el auto de formal prisión o sujeción a proceso, debiéndose citar las fracciones del artículo 39 del Código Penal del Estado que considere actualizadas o, en su caso los (sic) formas de participación previstas en los artículos 40 y 41 de dicho Código;
+III.- La participación que se atribuye al inculpado en el autor de formal prisión o sujeción a proceso, debiéndose citar las fracciones del artículo 39 del Código Penal del Estado que considere actualizadas o, en su caso los (sic) formas de participación previstas en los artículos 40 y 41 de dicho Código;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2005)</small>
 
@@ -4399,7 +4561,7 @@ Con el escrito de hechos y ofrecimiento de medios de prueba, se dará vista a la
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
-Cuando la defensa ofrezca como prueba la declaración de testigo que no hubiere rendido declaración en la Averiguación Previa o ante el Juez de Preparación de lo Penal, deberá en su escrito de defensa y ofrecimiento de medios de prueba, señalar los hechos sobre los que versará su declaración en el Juicio Oral, indicando su nombre, apellidos y domicilio o residencia, si se supieran. Si el oferente no proporciona los datos de identificación y localización de los testigos, quedará a su cargo hacerlos comparecer el día y la fecha señalados para la audiencia y, si no acudieren, o si no señalara los hechos sobre los que versará su declaración, se le tendrá por desistido de la prueba.
+Cuando la defensa ofrezca como prueba la declaración de testigo que no hubiere rendido declaración en la Averiguación Previa o ante el Juez de Preparación de lo Penal, deberá en su escrito de defensa y ofrecimiento de medios de prueba, señalar los hechos sobre los que versará su declaración en el Juicio Oral, indicando su nombre, apellidos y domicilio o residencia, si se supieran. Si el oferente no proporciona los datos de identificación y localización de los testigos, quedará a su cargo hacerlos comparecer el día y la fecha señalado para la audiencia y, si no acudieren, o si no señalara los hechos sobre los que versará su declaración, se le tendrá por desistido de la prueba.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
@@ -5356,3 +5518,9 @@ Artículo Quinto.- Se concede a las personas físicas y morales que transporten 
 P.O. 11 DE SEPTIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2007.
+
+Artículo Primero.- Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Ejecutivo del Estado, deberá expedir el reglamento respectivo, donde se establezcan los términos, montos y condiciones respecto a las recompensas a que se hace referencia en el Artículo 182 bis 6 del Código de Procedimientos Penales del Estado de Nuevo León, en un término de cuarenta y cinco días naturales contados a partir de la vigencia del presente decreto.
