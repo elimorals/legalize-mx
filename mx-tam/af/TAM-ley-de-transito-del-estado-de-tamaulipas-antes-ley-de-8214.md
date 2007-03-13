@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2006-09-06"
+last_updated: "2007-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -161,9 +161,11 @@ IV.- Para demostración.
 
 ### CAPITULO III. DE LOS PEATONES, PASAJEROS Y CONDUCTORES
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 16.
 
-Los peatones tendrán preferencia en la circulación, por lo que los automovilistas les guardarán la consideración debida y tomarán las precauciones necesarias para la protección y seguridad de su integridad física; cediéndoles el paso, cuando éstos se encuentren cruzando las calles y sobrevenga un cambio de señal de paso de los semáforos que regulan la circulación.
+Los peatones y discapacitados, tendrán preferencia en la circulación, por lo que los conductores de vehículos y motocicletas les guardarán la consideración debida y tomarán las precauciones necesarias para la protección y seguridad de su integridad física; cediéndoles el paso, cuando éstos se encuentren cruzando las calles y sobrevenga un cambio de señal de paso de los semáforos que regulan la circulación.
 
 ###### ARTICULO 17.
 
@@ -173,9 +175,49 @@ Los conductores de los vehículos de transporte de pasajeros, deberán guardar l
 
 Se consideran pasajeros a las personas que aborden vehículos del servicio público de transporte para trasladarse de un lugar a otro, mediante pago de la tarifa autorizada.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 19.
 
-Tendrán el carácter de conductores las personas autorizadas por la Secretaría para operar y conducir los vehículos a que se refiere este ordenamiento, debiendo cumplir los requisitos que señala el Reglamento.
+Tendrán el carácter de conductores las personas autorizadas por la Secretaría para operar y conducir los vehículos y motocicletas a que se refiere este ordenamiento, debiendo cumplir con los siguientes requisitos:
+
+I. Contar con dieciocho años cumplidos al momento de la solicitud; los mayores de dieciséis años podrán obtener licencia provisional previo escrito de los padres o tutores, por el que expresen su aceptación de responsabilidad civil solidaria, así como la presentación de original y copia para cotejo de la póliza de seguro de daños a terceros;
+
+II. Acreditar el curso de manejo teórico y práctico, que establezca el Reglamento; y
+
+III. Llenar el formulario relativo a la donación de órganos, y en caso de aceptar se hará constar en la licencia de manejo correspondiente con la leyenda, “DONADOR ALTRUISTA DE ORGANOS”.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
+ARTICULO 19 BIS.- Son obligaciones de los conductores:
+
+I. Usar el cinturón de seguridad por todos los ocupantes de los vehículos de motor, a excepción de las motocicletas;
+
+II. Usar casco y lentes protectores para los ocupantes de motocicletas;
+
+III. Usar silla porta infantes, en los automóviles, para los menores de tres años; y
+
+IV. Ubicar a los menores de doce años, en el asiento posterior del vehículo.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 19 Ter.
+
+Se prohíbe a los conductores de vehículos y motocicletas:
+
+I. Conducir en estado de ineptitud, en estado de ebriedad, en evidente estado de ebriedad, o bajo la influencia de estupefacientes u otras substancias tóxicas.
+
+Se considera:
+
+a).- Estado de ineptitud para conducir: la condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene cuando menos 0.8 gramos de alcohol por litro de sangre; o en aire expirado superior a mas de 0.4 miligramos por litro ó en ambos casos, su equivalente en algún otro sistema de medición;
+
+b).- Estado de ebriedad: la condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contenga cuando menos 1.5 gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición;
+
+c).- Evidente Estado de Ebriedad: cuando a través de los sentidos por las manifestaciones externas aparentes, se pueda apreciar razonablemente que la conducta o la condición física de una persona presenta alteraciones en la coordinación, en la respuesta de reflejos, en el equilibrio o en el lenguaje, con motivo del consumo de alcohol etílico y que además pueda ser confirmado por exámen de alcoholemia;
+
+II. Conducir usando dispositivos de comunicación, tales como radios, teléfonos celulares y otros, que disminuyen la habilidad y capacitad de reacción al conductor de un vehículo, impidiendo la máxima seguridad en la conducción de los vehículos automotores; y
+
+III. Conducir llevando en sus manos, brazos o regazo, a personas, animales o bultos.
 
 ###### ARTICULO 20.
 
@@ -201,9 +243,11 @@ Los vehículos que no reúnan los requisitos exigidos por esta Ley y su Reglamen
 
 ### CAPITULO V. DEL ESTACIONAMIENTO DE VEHICULOS
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 25.
 
-La Secretaría, en coordinación con el Ayuntamiento respectivo, determinará las condiciones y forma en que deben ser estacionados los vehículos en la vía pública, en consideración al interés social.
+La Secretaría, en coordinación con el Ayuntamiento respectivo, determinará las condiciones y forma en que deban ser estacionados los vehículos en la vía pública, en consideración al interés social estableciendo medidas para que sean respetados los cajones de estacionamiento señalados para conductores discapacitados.
 
 ###### ARTICULO 26.
 
@@ -475,6 +519,36 @@ V.- Arresto hasta por 36 horas.
 
 Con excepción de lo señalado en la fracción IV, las sanciones serán determinadas y aplicadas por la Secretaría.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
+ARTICULO 49 BIS.- Se impondrán las siguientes sanciones:
+
+I. Multa equivalente a:
+
+a).- Diez salarios mínimos vigente en la Capital del Estado, al menor de dieciocho años que conduzca vehículos de motor o motocicletas y no cuente con la licencia de manejo correspondiente, quien será remitido a la autoridad correspondiente, la que deberá hacer del conocimiento de los padres o tutores, quienes ejerzan la patria potestad o tengan la custodia, de la infracción cometida y la sanción correspondiente;
+
+b).- Un salario mínimo vigente en la Capital del Estado, a quien infrinja lo establecido en los artículos 19 Bis y 19 Ter, fracciones II y III, la cual no podrá ser condonada ni reducida;
+
+c).- De diez a veinte días salario mínimo vigente en la Capital del Estado, a quien infrinja lo establecido en el artículo 19 Ter, fracción I, incisos a), b) y c) la cual no podrá ser condonada ni reducida, igual multa a los menores de dieciocho años, que cuenten con licencia provisional e infrinjan lo establecido en este artículo, los que serán remitidos a la autoridad correspondiente quien deberá hacer del conocimiento de los padres o tutores, o quienes ejerzan la patria potestad o la custodia, de la infracción cometida y la sanción correspondiente. Los padres serán responsables solidarios por el pago de la multa impuesta; y,
+
+d).- Diez salarios mínimos vigente en la Capital del Estado, a quien se estacione en lugar exclusivo para discapacitados, sin acreditar fehacientemente por el conductor o alguno de sus ocupantes se encuentra en el supuesto, la cual no podrá ser condonada ni reducida;
+
+II. Suspensión de licencia:
+
+a).- Por orden de las autoridades competentes;
+
+b).- Por infracciones cometidas en forma reiterada a ésta ley o a su reglamento; y,
+
+c) Hasta por tres meses a quien infrinja lo establecido en el artículo 19 Ter, fracción I, incisos b) y c), de esta ley.
+
+III. Cancelación de licencia:
+
+a).- Por orden de las autoridades competentes; y,
+
+b).- A los menores de dieciocho años por infracción a lo establecido en el artículo 19 Ter, fracción I, incisos a), b) y c) de esta ley, la que podrá solicitar nuevamente hasta su mayoría de edad, siempre y cuando haya transcurrido por lo menos un año posterior a la sanción;
+
+IV. Arresto administrativo, de 8 hasta 36 horas, a quien infrinja lo establecido en el artículo 19 Ter, fracción I incisos b) y c), de esta ley, en caso de reincidencia el arresto mínimo será de dieciséis horas.
+
 ###### ARTICULO 50.
 
 Queda prohibido a las autoridades de Tránsito, con motivo de las infracciones a esta Ley o a su Reglamento, retener las placas de circulación, la licencia de conducir o el vehículo.
@@ -486,6 +560,50 @@ La Secretaría podrá retener la licencia, las placas o el vehículo, a los conc
 ###### ARTICULO 51.
 
 El Ejecutivo del Estado deberá expedir la tarifa de multas por infracciones a esta Ley y su Reglamento, la cual podrá ser modificada cuando así lo requiera el interés público.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2007)</small>
+
+### CAPITULO XI. DE LA PARTICIPACION CIUDADANA
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 52.
+
+Los ciudadanos, previa autorización de las autoridades de Tránsito Municipal o Estatal, según corresponda, podrán participar como Agentes Ciudadanos Auxiliares de Tránsito para el cuidado, control y vigilancia de la aplicación de los reglamentos de tránsito municipales en los centros de educación que así lo soliciten.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 53.
+
+Los interesados en participar como Agente Ciudadano Auxiliar de Tránsito, deberán:
+
+I. Realizar solicitud por escrito ante las autoridades de Tránsito Municipal de coadyuvar como Agente Ciudadano Auxiliar de Tránsito cumpliendo con los requisitos que señalen las leyes respectivas.
+
+II.- Recibir capacitación vial, impartida de las autoridades de Tránsito Municipal.
+
+La autoridad de Tránsito Municipal, de considerarlo procedente, otorgará la acreditación como Agente Ciudadano Auxiliar de Tránsito, indicando la zona y el horario en que podrá realizar su coadyuvancia.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 54.
+
+Son facultades de los Agentes Ciudadanos Auxiliares de Tránsito, coadyuvar con las autoridades de Tránsito Municipal en lo siguiente:
+
+I.- Realizar acciones de coordinación y control del tráfico vial;
+
+II. Auxiliar a peatones; y
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2007)</small>
+
+III.- Divulgar los reglamentos y educación vial.
+
+Los Agentes Ciudadanos Auxiliares de Tránsito, no podrán imponer sanciones o multas.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### ARTICULO 55.
+
+La autoridad de Tránsito Municipal deberá comisionar personal oficial a las zonas y en horarios en que se autorice el apoyo de los Agentes Ciudadanos.
 
 T R A N S I T O R I O S
 
@@ -564,5 +682,19 @@ A efecto de dar cumplimiento a lo señalado en el Capítulo Único del Título O
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2007.
+
+DECRETO No. LIX-697
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 13 DE MARZO DE 2007.
+
+DECRETO No. LIX-698
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
