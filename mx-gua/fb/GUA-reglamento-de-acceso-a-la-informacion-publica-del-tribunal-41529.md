@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-acceso-a-la-informacion-publica-del-tribunal-4152
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-29"
-last_updated: "2004-10-29"
+last_updated: "2007-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
 
-REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
+REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2007.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de octubre de 2004.
 
@@ -73,7 +73,7 @@ XII.- Clasificación.- Es el acto por el cual el Tribunal determina que informac
 
 XIII.- Desclasificación.- Acto a través del cual el Tribunal determina cuando la información reservada, adquiere carácter de público;
 
-XIV.- Datos Personales.- La información concerniente a una persona física identificada o identificable; entre otra, la relativa a su origen racial o étnico, o que esté referida a sus características físicas, morales o emocionales, a su vida afectiva o familiar, nombre propio o denominación, domicilio, número telefónico, patrimonio, ideología, creencias o convicciones religiosas o filosóficas, su estado de salud físico o mental, sus preferencias sexuales, claves informáticas o cibernéticas, códigos personales encriptados u otras análogas que afecten su intimidad;
+XIV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS PARA LA PROTECCION DE DATOS PERSONALES DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO, P.O. 13 DE MARZO DE 2007)
 
 XV.- Sujeto Obligado.- Es el Tribunal Estatal Electoral de Guanajuato encargado de generar o poseer la información pública, que pondrá a disposición del público, en términos de lo dispuesto por los artículos 3, 10 y 14, fracción VII de la Ley; y
 
@@ -517,31 +517,19 @@ III.- Por caso fortuito o fuerza mayor.
 
 ###### Artículo 69.
 
-Se procederá a corregir los datos personales cuando exista solicitud expresa por parte del titular de los mismos, dirigida a la Unidad de Acceso.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS PARA LA PROTECCIÓN DE DATOS PERSONALES DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO, P.O. 13 DE MARZO DE 2007)
 
 ###### Artículo 70.
 
-La solicitud de corrección de datos personales debe contener lo siguiente:
-
-I.- Nombre y domicilio;
-
-II.- Datos del representante, en su caso;
-
-III.- Los datos que se pretenden corregir haciendo referencia en donde se encuentran los mismos;
-
-IV.- Indicar las modificaciones que desea realizar y aportar la documentación que respalde su petición; y
-
-V.- En caso de que se pretendan complementar los datos personales, indicar la información faltante, con el apoyo de la documental correspondiente.
-
-Debiendo acreditar los particulares la titularidad de los datos personales a que hacen referencia.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS PARA LA PROTECCIÓN DE DATOS PERSONALES DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO, P.O. 13 DE MARZO DE 2007)
 
 ###### Artículo 71.
 
-La Unidad de Acceso en un plazo de tres días hábiles siguientes al de la recepción de la solicitud, requerirá a la Unidad de Enlace la información que contenga los datos del titular.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS PARA LA PROTECCIÓN DE DATOS PERSONALES DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO, P.O. 13 DE MARZO DE 2007)
 
 ###### Artículo 72.
 
-La Unidad de Acceso resolverá mediante acuerdo dentro de los quince días hábiles siguientes la procedencia o improcedencia de la corrección.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS PARA LA PROTECCIÓN DE DATOS PERSONALES DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO, P.O. 13 DE MARZO DE 2007)
 
 ## TÍTULO QUINTO. DE LAS RESPONSABILIDADES
 
@@ -704,3 +692,13 @@ Lic. Eduardo Hernández Barrón.
 El Secretario General.
 
 Lic. Alejandro Martínez Mejía.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MARZO DE 2007.
+
+Artículo Primero.- Publíquese este Reglamento en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo.- Se derogan los artículos 3, fracción XIV, 69, 70, 71 y 72 del Reglamento de Acceso a la Información Pública del Tribunal Estatal Electoral de Guanajuato.
+
+Artículo Tercero.- El presente Reglamento entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
