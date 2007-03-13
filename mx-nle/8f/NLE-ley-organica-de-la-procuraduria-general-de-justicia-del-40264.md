@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2006-09-10"
+last_updated: "2007-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -53,9 +53,11 @@ La Procuraduría General de Justicia del Estado es la dependencia del Poder Ejec
 
 El Ministerio Público es la institución que tiene como fin, en representación de la sociedad, investigar los delitos y brindar la debida protección a sus víctimas; perseguir a los posibles responsables de los mismos; ejercer ante los tribunales la acción penal y exigir la reparación de los daños y perjuicios; intervenir en asuntos del orden civil, familiar, penal y de adolescentes infractores en los casos en que señalen las leyes y realizar las demás funciones que los ordenamientos jurídicos establezcan.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
 ###### Artículo 4.
 
-La Agencia Estatal de Investigaciones es la unidad administrativa de la Procuraduría, encargada de auxiliar al Ministerio Público en la investigación, persecución y esclarecimiento de los hechos delictuosos; realizando, de manera coordinada y bajo principios científicos, las acciones periciales y policiales requeridas para tal efecto.
+La Agencia Estatal de Investigaciones es la unidad administrativa e institución policial de la Procuraduría, encargada de auxiliar al Ministerio Público en la investigación, persecución y esclarecimiento de los hechos delictuosos; realizando, de manera coordinada y bajo principios científicos, las acciones periciales y policiales requeridas para tal efecto.
 
 ###### Artículo 5.
 
@@ -485,7 +487,9 @@ VII.- Suscribir, en ausencia del Procurador, y conforme a las normas legalmente 
 
 VIII.- Formular el anteproyecto de presupuesto anual de las unidades administrativas a su cargo, con sujeción a los lineamientos que al efecto expida la Dirección General de Administración;
 
-IX.- Proponer al Procurador, los nombramientos, promociones, licencias y la remoción del personal a su cargo;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2007)</small>
+
+IX.- Proponer al Procurador, los nombramientos, promociones y licencias del personal a su cargo, así como la remoción del mismo cuando no cumpla con los requisitos de permanencia establecidos en la presente Ley;
 
 X.- Ejecutar en la esfera de sus facultades, los convenios, bases y otros instrumentos de coordinación celebrados por la Institución, en la materia que en cada caso corresponda;
 
@@ -523,7 +527,9 @@ VII.- Integrar, para aprobación superior, los programas de trabajo y los antepr
 
 VIII.- Supervisar el ejercicio y la adecuada aplicación del presupuesto autorizado para la unidad administrativa a su cargo, de acuerdo con las normas y principios establecidos por la Dirección General de Administración;
 
-IX.- Proponer a su superior jerárquico, los nombramientos, promociones, licencias y la remoción del personal a su cargo;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2007)</small>
+
+IX.- Proponer a su superior jerárquico, los nombramientos, promociones y licencias del personal a su cargo, así como la remoción del mismo cuando no cumpla con los requisitos de permanencia establecidos en la presente Ley;
 
 X.- Vigilar y controlar que las personas que realicen prácticas profesionales o servicios profesionales de índole social en la unidad administrativa a su cargo, lo hagan en la forma y durante el término que se ordene en la normatividad respectiva, expidiendo la constancia del cumplimiento;
 
@@ -1255,9 +1261,11 @@ VI.- Proponer al Director General de Administración las medidas técnicas y adm
 
 VII.- Las que le encomiende el Director General de Administración o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2007)</small>
+
 ###### Artículo 53.
 
-La Visitaduría General depende directamente del Procurador y es la unidad administrativa responsable de vigilar la legalidad de las actividades desarrolladas por las dependencias de la Procuraduría y de dar trámite a los procedimientos de responsabilidad administrativa correspondientes, siendo competente para:
+La Visitaduría General depende directamente del Procurador y es la unidad administrativa responsable de vigilar la legalidad de las actividades desarrolladas por las dependencias de la Procuraduría y de dar trámite a los procedimientos de responsabilidad administrativa y de remoción correspondientes, siendo competente para:
 
 I.- Practicar, dirigir y supervisar visitas ordinarias y extraordinarias de evaluación a las Agencias del Ministerio Público, y demás unidades administrativas de la Procuraduría, así como a los Agentes del Ministerio Público Adscritos, a fin de observar e inspeccionar la debida legalidad de los asuntos tramitados, y de levantar las actas administrativas correspondientes;
 
@@ -1315,9 +1323,21 @@ XXVII.- Diseñar, en colaboración con la Subprocuraduría Jurídica, las normas
 
 XXVIII.- Expedir certificaciones de documentos que obren en sus archivos así como certificar o cotejar los que se presenten para la integración de los expedientes, conforme a lo establecido en la legislación correspondiente;
 
-XXIX.- Integrar la documentación y expedir las copias certificadas que deban ser enviadas al Director General de Averiguaciones Previas, en aquellos casos en que con motivo de sus funciones, apareciere la probable comisión de un delito por parte de servidores públicos de la Procuraduría, remitiendo copia al superior jerárquico correspondiente; y
+> <small>(REFORMADA (N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2007)</small>
 
-XXX.- Las que le encomiende el Procurador o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
+XXIX.- Colaborar con el Instituto de Formación Profesional en materia de los procesos de evaluación del desempeño del personal de carrera de la Procuraduría;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2007)</small>
+
+XXX.- Integrar la documentación y expedir las copias certificadas que deban ser enviadas al Director General de Averiguaciones Previas, en aquellos casos en que con motivo de sus funciones, apareciere la probable comisión de un delito por parte de servidores públicos de la Procuraduría, remitiendo copia al superior jerárquico correspondiente;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2007)</small>
+
+XXXI.- Substanciar los procedimientos para la remoción del personal de servicio de carrera de la Procuraduría otorgando el derecho de audiencia correspondiente al interesado e informando de ello al Procurador, o a quien éste designe, para que resuelva lo conducente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2007)</small>
+
+XXXII.- Las que le encomiende el Procurador o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O.10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1433,9 +1453,11 @@ Para ser nombrado Director de Criminalística y Servicios Periciales se deberá 
 
 El personal restante de la Procuraduría será nombrado y removido por el Procurador o por quien éste designe, de acuerdo con las normas legalmente aplicables y de manera coordinada con las instancias competentes del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
 ###### Artículo 61.
 
-El Procurador o quien éste designe, suspenderá, cesará o removerá de su cargo a los Agentes, Secretarios, Delegados y Escribientes del Ministerio Público, así como a los elementos de la Agencia Estatal de Investigaciones, y demás personal de la Procuraduría, por pérdida de confianza, ineptitud, mala conducta o responsabilidad oficial, conforme a las disposiciones legalmente aplicables.
+El Procurador o quien éste designe, suspenderá, cesará o removerá de su cargo a los Agentes, Secretarios, Delegados y Escribientes del Ministerio Público, así como a los elementos de la Agencia Estatal de Investigaciones, y demás personal de la Procuraduría, por pérdida de confianza, ineptitud, mala conducta, responsabilidad oficial o por incumplimiento de los requisitos de permanencia establecidos en la presente Ley, conforme a las disposiciones legalmente aplicables.
 
 ###### Artículo 62.
 
@@ -1587,9 +1609,11 @@ Todo servidor público de la Procuraduría que incumpla con las obligaciones der
 
 En todos los casos la Visitaduría General deberá mantener informado al Consejo de Profesionalización a que se refiere el artículo 91 de esta Ley, para que éste proceda según las disposiciones vigentes, en lo que al Servicio de Carrera corresponda.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
 ###### Artículo 72.
 
-Se considerarán faltas graves y en todo caso se impondrá, previo desahogo del procedimiento de responsabilidad administrativa correspondiente, la suspensión definitiva del cargo por el incumplimiento de las obligaciones previstas en las fracciones X, XI, XII, XIII, XIV, y XV del artículo 70 de esta Ley.
+Procederá la remoción de los miembros del servicio de carrera en los casos de infracciones graves. En todo caso, se impondrá la remoción por el incumplimiento de las obligaciones previstas en las fracciones IV, X, XI, XII, XIII, XIV o XV del artículo 70 de esta Ley.
 
 ###### Artículo 73.
 
@@ -1691,17 +1715,27 @@ IV.- Para ingresar como Escribiente:
 
 Demostrar estar inscrito en Institución de educación superior, legalmente reconocida, cursando un plan de estudios correspondiente a la carrera de Derecho o Ciencias Jurídicas.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
 ###### Artículo 80.
 
-Para permanecer como Agente, Delegado, Secretario o Escribiente del Ministerio Público, así como Agente de la Policía Ministerial o Perito se requiere:
+Son requisitos de permanencia en el servicio de carrera de la Procuraduría:
 
-a. Seguir los programas de actualización y especialización que establezcan los lineamientos y bases del servicio de carrera;
+I.- Cumplir con los requisitos de ingreso;
 
-b. Aprobar los procesos de evaluación al desempeño que establezcan los lineamientos y bases del servicio de carrera y demás disposiciones legalmente aplicables;
+II.- No ser sujeto de pérdida de confianza;
 
-c. No ausentarse del servicio sin causa justificada por más de tres veces durante un mes; y
+III.- Seguir los programas de actualización y especialización que establezca la Institución;
 
-d. Los demás requisitos que establezcan las disposiciones legalmente aplicables.
+IV.- Aprobar los procesos de evaluación del desempeño de la institución;
+
+V.- No ausentarse del servicio sin causa justificada por más de tres veces durante un período de 30 días;
+
+VI.- Cumplir con cada una de las obligaciones señaladas en las fracciones IV, X, XI, XII, XIII, XIV y XV del artículo 70 del presente ordenamiento;
+
+VII.- No incurrir en faltas de probidad u honradez; y
+
+VIII.- Los demás requisitos que establezcan las disposiciones legalmente aplicables.
 
 ###### Artículo 81.
 
@@ -1749,7 +1783,9 @@ d. La muerte.
 
 II.- Extraordinaria que comprende:
 
-a. La separación del servicio por el incumplimiento de los requisitos de ingreso y permanencia en la Institución; y
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
+a) La remoción del puesto, cargo o comisión por el incumplimiento de los requisitos de permanencia en la Institución; y
 
 b. La suspensión definitiva del cargo, debidamente emitida conforme a las disposiciones correspondientes.
 
@@ -1837,23 +1873,61 @@ V.- Los demás que se consideren necesarios para la calificación del personal.
 
 Los procesos de evaluación tendrán por objeto comprobar que los servidores públicos cumplan debidamente los principios de legalidad, eficacia, profesionalismo, honradez, lealtad e imparcialidad y de respeto a los derechos humanos.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+Dichos procesos serán coordinados por el Instituto de Formación Profesional que, en los casos necesarios, se auxiliará con los servicios y apoyos de otras unidades administrativas de la Procuraduría, de las dependencias y organismos competentes del Gobierno del Estado, así como con servicios privados especializados.
+
 ###### Artículo 94.
 
 Las bases y lineamientos del servicio de carrera establecerán los procedimientos conforme a los cuales se llevará a cabo la aplicación de los exámenes aludidos en el artículo inmediato anterior.
 
 Los exámenes se evaluarán en conjunto, salvo el examen toxicológico y el poligráfico, que se presentarán y calificarán por separado.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
 ###### Artículo 95.
 
-Los servidores públicos serán citados a la práctica de los exámenes respectivos. En caso de no presentarse sin mediar causa justificada, se les tendrá por no aptos.
+Los procesos de evaluación del desempeño se practicarán de la manera siguiente:
+
+I.- El Instituto de Formación Profesional programará el lugar, día y hora en que los servidores públicos, o los aspirantes a ingresar a la Institución, deberán presentarse para ser sometidos al examen o exámenes, notificándoles de esta programación por conducto del titular de la unidad administrativa a la que estén adscritos, o personalmente en el caso de los aspirantes. Cuando el aspirante o servidor público no acuda, sin mediar causa justificada, se le tendrá por no apto;
+
+II.- En el caso de que los aspirantes resulten no aptos en la evaluación toxicológica, quedarán excluidos inmediata y definitivamente del proceso de selección sin que se requiera que continúen con el resto de las evaluaciones. De igual manera, quedarán excluidos del procedimiento de selección quienes resulten no aptos en la evaluación en conjunto de los exámenes;
+
+III.- A los servidores públicos que resulten no aptos en la evaluación toxicológica no se les aplicarán el resto de las evaluaciones y, al igual que los que resulten no aptos en la evaluación en conjunto de los exámenes aplicados, serán removidos del cargo;
+
+IV.- El titular del Instituto de Formación Profesional, comunicará a las unidades administrativas correspondientes y competentes los resultados de los procesos de evaluación, que serán apto o no apto; y
+
+V.- Con objeto de corroborar resultados en casos específicos, por petición expresa, fundada y motivada de los titulares de las unidades administrativas, el Instituto de Formación Profesional podrá llevar a cabo reevaluaciones en las áreas de poligrafía y psicología, en no más de una ocasión, y en un plazo no mayor a seis meses a partir de la última aplicación, sin perjuicio de las evaluaciones periódicas que deban aplicarse.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
 ###### Artículo 96.
 
-Los resultados de los procesos de evaluación serán confidenciales, con excepción de lo que establezcan las disposiciones legalmente aplicables, así como en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales.
+Los expedientes conformados con los documentos en que consten los procesos de evaluación serán confidenciales, con excepción de lo que establezcan las disposiciones legalmente aplicables y en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales. Dichos expedientes estarán bajo el resguardo del Instituto de Formación Profesional.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
 ###### Artículo 97.
 
-El personal de la Procuraduría que resulte no apto en los procesos de evaluación a que se refiere este Capítulo, dejará de prestar sus servicios en la Institución, de conformidad con las disposiciones legalmente aplicables.
+La determinación de la remoción del personal del servicio de carrera de la Procuraduría se hará conforme al siguiente procedimiento:
+
+I.- Se iniciará por instrucciones del Procurador o por propuesta a éste del superior jerárquico de quien dependan los servidores públicos que se proponga remover del cargo, ante la Visitaduría General a efectos de que ésta instruya el procedimiento correspondiente;
+
+II.- Las propuestas de remoción que se formulen deberán de asentar los hechos que las sustenten y deberán de estar apoyadas en pruebas documentales o elementos probatorios suficientes para presumir la necesidad de remoción del servidor público a que se refieran;
+
+III.- Se enviará una copia de la propuesta de remoción y sus anexos al servidor público sujeto de la propuesta de remoción, para que en un término de cinco días hábiles formule un informe sobre los hechos y rinda las pruebas correspondientes. El informe deberá de referirse a todos y cada uno de los hechos comprendidos en la propuesta, afirmándolos, negándolos, expresando los que ignore por no ser propios, refiriéndolos, expresando los que ignore por no ser propios, refiriéndolos como crea que tuvieron lugar. Se presumirá confesado todo aquello asentado en la propuesta de remoción sobre el cual el servidor público sujeto del procedimiento no suscite explícitamente controversia, salvo prueba en contrario;
+
+IV.- Una vez rendido el informe al que se refiere la fracción anterior, la Visitaduría General citará personalmente al servidor público sujeto de la propuesta de remoción a una audiencia en la que se desahogarán las pruebas respectivas, si las hubiere, y se recibirán sus alegatos, por sí o por medio de su defensor;
+
+V.- Una vez verificada la audiencia y desahogadas las pruebas, la Visitaduría General turnará al Procurador, o a quien éste designe, el expediente incluyendo a éste un informe sobre el procedimiento por ella instruido a fin de que se esté en condiciones de resolver sobre el cumplimiento o incumplimiento de los requisitos de permanencia y, en su caso, se remueva del puesto, cargo o comisión al servidor público sujeto del procedimiento. La resolución se notificará al interesado;
+
+VI.- Si de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen alguna responsabilidad a cargo del sujeto del procedimiento o de otras personas, la Visitaduría General podrá disponer la práctica de investigaciones y acordar, en su caso, la celebración de otras u otras audiencias; y
+
+VII.- En cualquier momento, previo o posterior a la celebración de la audiencia, el Procurador, o quien éste designe, podrá determinar la suspensión del servidor público sujeto al procedimiento de remoción, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones. La suspensión no prejuzga sobre cumplimiento o incumplimiento de los requisitos de permanencia, lo cual se hará constar expresamente en la determinación de la misma. Si resulta que el servidor público suspendido conforme a esta fracción sí cumple con los requisitos de permanencia será restituido en el goce de sus derechos.
+
+En el procedimiento establecido en este artículo tratándose de ofrecimiento de prueba confesional o testimonial por parte de la autoridad se hará por oficio.
+
+Para efectos de lo dispuesto en el presente Artículo, se tendrá como supletorio el Código de Procedimientos Civiles del Estado de Nuevo León en todo lo relativo al procedimiento.
 
 ## TRANSITORIOS
 
@@ -1930,3 +2004,11 @@ Lo anterior sin perjuicio de la continuación del procedimiento conforme a la Le
 El Presidente del Consejo Estatal de Menores procederá en los términos establecidos por el párrafo primero de este artículo, en caso de que ya se hubiere pronunciado sentencia ejecutoria.
 
 Artículo Décimo Primero.- Las autoridades competentes expedirán los reglamentos necesarios para el cumplimiento de las disposiciones del presente Decreto, en un término que no deberá exceder de seis meses, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 13 DE MARZO DE 2007.
+
+Artículo Primero.- Las disposiciones contenidas en el presente Decreto entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los miembros de las instituciones policiales que antes de la fecha del inicio de vigencia del presente Decreto estén sujetos a algún procedimiento de responsabilidad o de remoción concluirán dichos procedimientos con las normas que éstos iniciaron.
+
+Artículo Tercero.- Los Ayuntamientos, en el ámbito de su competencia, en un plazo de 90-noventa días naturales contados desde la vigencia del presente Decreto, deberán expedir los reglamentos que regularán sus respectivas instituciones policiales para dar cabal cumplimiento de lo establecido en el último párrafo del artículo 68 de la Ley del Sistema de Seguridad Pública del Estado de Nuevo León; asimismo realizarán las adecuaciones que resulten necesarias a la reglamentación municipal respectiva.
