@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-social-para-el-estado-de-tamaulipas-41923"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-24"
-last_updated: "2006-09-06"
+last_updated: "2007-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2004.
 
@@ -290,6 +290,10 @@ IV.- Las pruebas que en su caso ofrezca el denunciante.
 ###### ARTICULO 43.
 
 Se consideran de atención prioritaria las regiones, Municipios, localidades y áreas cuya población registra índices de pobreza y marginación indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+El Ejecutivo del Estado dispondrá en el Presupuesto de Egresos Anual que corresponda, un monto presupuestal específico, dentro del presupuesto asignado a la Secretaría de Educación, a efecto de dotar de los útiles escolares, según la lista oficial de éstos, determinada por la Secretaría de Educación del Estado, al inicio de los ciclos escolares, a los niños inscritos en los niveles de preescolar y de educación primaria de los municipios de Antiguo Morelos, Burgos, Bustamante, Cruillas, Jaumave, Méndez, Miquihuana, Nuevo Morelos, Palmillas, San Carlos, San Nicolás y Tula. La entrega de dichos beneficios se realizará de manera gratuita y en tiempo y forma a través del sistema educativo del Estado, al inicio de cada ciclo escolar a cada alumno inscrito.
 
 ###### ARTICULO 44.
 
@@ -647,6 +651,16 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION". EL GOBERNADOR CONSTITUCIONAL DE
 
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En el ámbito de sus facultades, la Secretaría de Educación del Estado, elaborará la reglamentación del programa en la que se establezcan los requisitos y procedimientos necesarios para hacer efectivo el derecho que establece el artículo 43 de esta Ley, así como los mecanismos para la evaluación y fiscalización del programa.
+
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2007.
