@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2006-12-12"
+last_updated: "2007-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -3793,7 +3793,9 @@ Se tramitarán en juicio hipotecario las demandas que tengan por objeto exigir e
 
 Para que proceda el juicio hipotecario, deberán reunirse los siguientes requisitos:
 
-I.- Que el crédito conste en escritura pública o privada, según su cuantía, las cuales deberán estar debidamente registradas; y,
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2007)</small>
+
+I.- Que el crédito conste en escritura pública, la cual deberá estar debidamente registrada; y,
 
 II.- Que sea de plazo cumplido; o que deba anticiparse conforme al contrato de hipoteca, o a la ley.
 
@@ -7442,3 +7444,7 @@ P.O. 12 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
