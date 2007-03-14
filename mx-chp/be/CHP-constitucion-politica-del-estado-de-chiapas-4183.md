@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2007-02-21"
+last_updated: "2007-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2007.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -269,29 +269,49 @@ Pierde la calidad de ciudadano chiapaneco quien deje de ser ciudadano mexicano.
 
 La calidad de ciudadano chiapaneco no puede adquirirse por declaratoria del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 13.
 
-El Estado de Chiapas tiene una población pluricultural sustentada en sus pueblos indígenas. Esta Constitución reconoce y protege a los siguientes pueblos indígenas: Tseltal, Tsotsil, Chol, Zoque, Tojolabal, Mame, Kakchiquel, Lacandon y Mocho.
+El Estado de Chiapas, tiene una población pluricultural sustentada en sus pueblos indígenas. Esta constitución reconoce y protege a los siguientes pueblos indígenas: Tsental, Tsotsil, Chol, Zoque, Tojolabal, Mame, Kakchiquel, Lacandón, Mocho, Jacalteco, Chuj y Kanjobal.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 También protege los derechos de los indígenas que por cualquier circunstancia se encuentren asentados dentro del territorio del Estado y que pertenezcan a otros pueblos indígenas.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
+
 El Estado protegerá y promoverá el desarrollo de la cultura, lenguas, usos, costumbres, tradiciones y formas de organización social, política y económica de las comunidades indígenas. También garantizará a sus integrantes el acceso pleno a la justicia, a los servicios de salud y a una educación bilingüe que preserve y enriquezca su cultura. Fomentará, asimismo, la plena vigencia de los derechos de los indígenas a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, a una vivienda digna y decorosa, así como los derechos de las mujeres y niños.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 Se reconoce y protege el derecho de las comunidades indígenas para elegir a sus autoridades tradicionales de acuerdo a sus usos, costumbres y tradiciones.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
+
 El Estado fomentará el eficaz ejercicio de los derechos de uso, disfrute y aprovechamiento sustentable de los recursos naturales, flora y fauna silvestres de las comunidades indígenas, en los términos y con las modalidades que establece la Constitución General de la República y las leyes reglamentarias respectivas.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 El Estado, con la participación de las comunidades indígenas, instrumentará los planes y programas necesarios para impulsar su desarrollo socioeconómico.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
+
 En todo procedimiento o juicio en el que una de las partes sea indígena, se tomará en consideración su cultura, usos, costumbres y tradiciones. Los indígenas tendrán el derecho a que se les designe un traductor y un defensor que hablen su lengua y conozcan su cultura.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 En los municipios con población de mayoría indígena, el trámite y resolución de las controversias entre personas pertenecientes a comunidades indígenas, será conforme a sus usos, costumbres, tradiciones y valores culturales, y con la participación de sus autoridades tradicionales, debiendo salvaguardarse los derechos fundamentales que consagra la Constitución General de la República y el respeto a los derechos humanos.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
+
 Los indígenas deberán compurgar sus penas, preferentemente en los establecimientos más próximos a sus comunidades, a fin de propiciar su reintegración a éstas, como parte de su readaptación social.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
+
 Se prohibe toda forma de discriminación de origen étnico o por razón de lengua, sexo, religión, costumbre, o condición social. La contravención a esta disposición será sancionada en los términos de la legislación penal vigente.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 Los derechos de los indígenas que esta Constitución consagra deberán ser protegidos y regulados por la Ley Reglamentaria respectiva y por las demás leyes, en sus correspondientes ámbitos de competencia, y serán, además, garantizados por las autoridades estatales y municipales, así como por las autoridades tradicionales de las comunidades indígenas.
 
@@ -771,7 +791,7 @@ L.- (DEROGADA, P.O. 17 DE AGOSTO DE 2003)
 
 El Órgano de Fiscalización Superior del Congreso del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
 
-El órgano de Fiscalización Superior, tendrá a su cargo:
+El Órgano de Fiscalización Superior, tendrá a su cargo:
 
 I.- Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los entes Públicos Estatales y de los Municipios, incluyendo los recursos de origen federal, en su caso a través de los informes que se rendirán en los términos que disponga la Ley.
 
@@ -1617,7 +1637,7 @@ Podrán ser sujetos de juicio político: el Gobernador del Estado, los Diputados
 
 > <small>(ADICIONADO [N. DE E. ANTES SEGUNDA PARTE DEL PRIMER PARRAFO], P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
-Cuando el Gobernador del Estado, los Diputados al Congresos del Estado, los Magistrados y Consejeros del Poder Judicial, incurran en violaciones graves a la Constitución General de la República y a las Leyes que de ella emanen, así como el manejo indebido de fondos y recursos federales, recibida que sea la declaratoria que se contrae el artículo 110 de esa propia Constitución, el Congreso del Estado como jurado de acusación turnará a la Sala Superior del Supremo Tribunal de Justicia el que erigido en Tribunal de Sentencia substanciará el Procedimiento señalado en este artículo.
+Cuando el Gobernador del Estado, los Diputados al Congresos del Estado, los Magistrados y Consejeros del Poder Judicial, incurran en violaciones graves a la Constitución General de la República y a las Leyes que de ella emanen, así como el manejo indebido de fondos y recursos federales, recibida que sea la declaratoria a que se contrae el artículo 110 de esa propia Constitución, el Congreso del Estado como jurado de acusación turnará a la Sala Superior del Supremo Tribunal de Justicia el que erigido en Tribunal de Sentencia substanciará el Procedimiento señalado en este artículo.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -2804,3 +2824,9 @@ P.O. 21 DE FEBRERO DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2007.
+
+Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
