@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-policias-preventivas-del-estado-de-chiapas-2264
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-11-13"
-last_updated: "2004-08-18"
+last_updated: "2007-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DE POLICIAS PREVENTIVAS DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY GENERAL DE POLICIAS PREVENTIVAS PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 14 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el martes 13 de noviembre de 2001.
 
@@ -482,3 +484,21 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACION EN EL P
 ###### ARTICULO SEGUNDO.
 
 SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+P.O. 14 DE MARZO DE 2007.
+
+Artículo Primero.- La presente Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.-Se abroga la Ley Orgánica de Policías Preventivas del Estado de Chiapas, publicada en el Periódico Oficial del Estado, de fecha 13 de noviembre de 1989, así como las demás disposiciones que contravengan a la presente Ley.
+
+Artículo Tercero.- Los Reglamentos Administrativos y demás disposiciones complementarias que emanen de la presente Ley, deberán ser expedidos en un plazo no mayor de ciento ochenta días posteriores a la entrada en vigor de la misma; hasta en tanto, las disposiciones y Reglamentos derivados de la Ley que se deroga, continuarán surtiendo sus efectos en todo aquello que no se opongan a ésta Ley.
+
+Artículo Cuarto.- El Instituto de Formación Profesional de Policías del Estado de Chiapas, deberá ser creado en un plazo no mayor de noventa días a la entrada en vigor de esta Ley, con la estructura adecuada para su buen funcionamiento.
+
+Artículo Quinto.- El Instituto de Formación Profesional de Policías del Estado, en un plazo no mayor a noventa días posteriores al inicio de sus funciones, establecerá el programa de estudios de formación de Policías del Estado de Chiapas.
+
+Artículo Sexto.- Los Cuerpos de Seguridad Pública del Estado y los Cuerpos de Seguridad Pública de los municipios, someterán a examen a los servidores públicos de los mismos, a fin de evaluar su capacidad, aptitud y conocimientos.
+
+Artículo Séptimo.- Se otorga un plazo de noventa días para la elaboración y expedición de los reglamentos que deberán acompañar a la presente Ley.
+
+Artículo Octavo.- Todos los recursos humanos, materiales y financieros de la Policía de Tránsito, pasan a formar parte de la Secretaria de Seguridad y Protección Ciudadana.
