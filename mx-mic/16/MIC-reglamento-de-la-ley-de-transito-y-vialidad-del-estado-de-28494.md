@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-transito-y-vialidad-del-estado-de-28494
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-12-31"
-last_updated: "2002-12-31"
+last_updated: "2007-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2007.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 31 de diciembre de 2002.
 
@@ -557,13 +557,19 @@ La Tesorería en base a lo señalado en la Ley, la Ley de Hacienda del Estado de
 
 Tratándose de vehículos de servicio público, los requisitos se fijarán de manera conjunta con la autoridad competente en materia de transporte público estatal.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2007)</small>
+
 ###### Artículo 39.
 
-Las placas, calcomanías u hologramas y tarjetas de circulación serán obligatorias, se expedirán de conformidad a las especificaciones establecidas por la autoridad federal competente, de acuerdo a las disposiciones legales de la materia.
+Los vehículos automotores descritos en el presente Reglamento, obligatoriamente deberán portar placas de circulación y calcomanías u hologramas vigentes, así como contar con su respectiva tarjeta de circulación, también vigente.
+
+Las placas, calcomanías u hologramas y tarjetas de circulación serán expedidas de conformidad a las especificaciones establecidas por la autoridad federal competente, de acuerdo a las disposiciones legales de la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2007)</small>
 
 ###### Artículo 40.
 
-Los vehículos automotores, independientemente del tipo de placa de circulación que porten, con excepción de las bicimotos, triciclos automotores, tetramotos, motonetas y motocicletas deberán portar las calcomanías de:
+Los vehículos automotores, independientemente del tipo de placa de circulación que porten, deberán portar las calcomanías vigentes de:
 
 I. Circulación; y,
 
@@ -755,6 +761,10 @@ VIII. Los semáforos, campanas y barreras instalados en intersección de ferroca
 
 Los agentes deberán detener la marcha de cualquier vehículo cuando el conductor del mismo esté cometiendo alguna infracción a las disposiciones en materia de tránsito y vialidad, contenidas en la Ley y este Reglamento.
 
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2007)</small>
+
+El agente de tránsito verificará que el vehículo que solicitó detuviera la marcha, porte placas, engomados y hologramas vigentes.
+
 Ningún vehículo podrá ser detenido, por agente que no porte su placa de identificación con el número y nombre perfectamente visibles, ni tampoco por agentes motorizados que, aún portando la placa de identificación respectiva, utilicen para el efecto vehículos o motocicletas no oficiales.
 
 ###### Artículo 53.
@@ -817,9 +827,13 @@ II. Sus placas de circulación no coincidan con la calcomanía permanente de cir
 
 III. Carecer de placas o tarjeta de circulación, o en su caso, el permiso respectivo;
 
-IV. Se encuentren abandonados en las vías públicas del Estado; y,
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2007)</small>
 
-V. Se encuentren estacionados en lugares prohibidos.
+IV. No porten placas de circulación, engomados y hologramas vigentes;
+
+V. Se encuentren abandonados en las vías públicas del Estado; y,
+
+VI. Se encuentren estacionados en lugares prohibidos.
 
 Cuando en el interior del vehículo, se encuentre persona responsable, que se niegue a la indicación del agente para moverlo, o en su caso, a descender del mismo, dicha persona será remitida a la autoridad competente.
 
@@ -1330,3 +1344,15 @@ Las infracciones y sanciones que con motivo de verificaciones vehiculares se se�
 Morelia, Michoacán de Ocampo, a 13 de diciembre de 2002.- ATENTAMENTE.-Sufragio Efectivo. No Reelección.- Lázaro Cárdenas Batel.- Gobernador Constitucional del Estado.- Maestro Leonel Godoy Rangel.- Secretario de Gobierno. (Firmados).
 
 Rosa Hilda Abascal Rodríguez.- Secretaria de Contraloría y Desarrollo Administrativo.- C.P. Ricardo Humberto Suárez López.- Tesorero General. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
