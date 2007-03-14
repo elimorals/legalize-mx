@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-defensoria-publica-del-estado-de-tamaulipas-antes-21985"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-06"
-last_updated: "2006-09-12"
+last_updated: "2007-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 6 de junio de 2001.
 
@@ -51,7 +51,9 @@ La defensoría de oficio es una institución de orden público, y de interés so
 
 I.- Proporcionar, obligatoria y gratuitamente, defensa en materia penal en cualquier etapa del procedimiento, a las personas que lo soliciten, o cuando haya designación del Ministerio Público o del Juez;
 
-II.- Proporcionar, gratuitamente, patrocinio en materia civil, siempre y cuando los solicitantes justifiquen plenamente no estar en capacidad de cubrir los honorarios de un abogado patrono particular. Tratándose de la parte actora, sólo será patrocinada en los casos de jurisdicción voluntaria;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2007)</small>
+
+II.- Proporcionar, gratuitamente patrocinio en materia civil, siempre y cuando los solicitantes justifiquen plenamente no estar en capacidad de cubrir los honorarios de un abogado patrono particular. Tratándose de la parte actora, sólo será patrocinada, en los casos de jurisdicción voluntaria, en materia familiar en los juicios relativos a abandono de familiar, violencia intrafamiliar, divorcio necesario, alimentos y reconocimiento de paternidad, siempre que se acredite que no cuenta con medios económicos suficientes;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -117,13 +119,19 @@ a) La averiguación previa, en los procesos ante los tribunales judiciales y en 
 
 b) La investigación, en los procesos ante los tribunales para adolescentes y centros de reintegración social y familiar para adolescentes;
 
-VII.- Intervenir en el patrocinio de los particulares que soliciten el servicio en los juicios civiles;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2007)</small>
 
-VIII.- En materia civil, elaborar las demandas y contestaciones en sus respectivos casos, así como cualquier otra promoción que se requiera;
+VII.- Intervenir en el patrocinio de los particulares que soliciten el servicio en los juicios civiles, en materia familiar en los juicios relativos a abandono de familia, violencia intrafamiliar, divorcio necesario, alimentos y reconocimientos de paternidad, siempre que se acredite que no cuenta con medios económicos suficientes;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2007)</small>
+
+VIII.- En materia civil y familiar, elaborar la demanda y contestaciones en sus respectivos casos, así como cualquier otra promoción que se requiera prestando los servicios como abogado patrono en términos de lo dispuesto por el artículo 52 del Código de Procedimientos Civiles;
 
 IX.- Promover oportunamente el ofrecimiento y desahogo de las pruebas necesarias, los recursos e incidentes que procedan y, en su caso, el juicio de amparo;
 
-X.- Tramitar los recursos de apelación interpuestos en contra de resoluciones dictadas en materia penal y civil, expresando oportunamente los agravios que procedan;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2007)</small>
+
+X.- Promover los recursos de apelación interpuestos en contra de resoluciones dictadas en materia penal y civil, expresando oportunamente los agravios que procedan;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -171,7 +179,9 @@ III.- Acordar con el Secretario General de Gobierno el número de defensores que
 
 IV.- Acordar con el Secretario General de Gobierno la circunscripción y organización de los supervisores;
 
-V.- Calificar los casos en que proceda el patrocinio en asuntos civiles, así como las excusas de los defensores de oficio;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2007)</small>
+
+V.- Calificar los casos en que proceda el patrocinio en asuntos en materia civil y familiar, así como las excusas de los defensores de oficio;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -221,7 +231,9 @@ V.- Concurrir, cuando menos una vez a la semana, a los centros de readaptación 
 
 VI.- Proponer ante la Dirección, las medidas que tiendan a mejorar la situación de sus defendidos o patrocinados;
 
-VII.- Asumir el patrocinio de los asuntos del orden civil, que les sean asignados;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2007)</small>
+
+VII.- Asumir el patrocinio de los asuntos del orden civil y familiar que les sean asignados;
 
 VIII.- Promover en todas las etapas procedimentales las pruebas necesarias, atendiendo a su desahogo, así como la interposición de los recursos e incidentes que procedan y, en su caso, el juicio de amparo;
 
@@ -335,7 +347,7 @@ La presente ley entrará en vigor al día siguiente de su publicación en el Per
 
 Se abroga el Reglamento de la Defensoría de Oficio en el Estado de Tamaulipas, expedido por Decreto número 85, de fecha 5 de diciembre de 1963, emitido por la XLV Legislatura del Honorable Congreso Constitucional del Estado, publicado en el Periódico Oficial del Estado número 1, del 1° de enero de 1964, así como las reformas realizadas al mismo, mediante Decreto número 407, expedido el 24 de octubre de 1986 y publicado en el Periódico Oficial del Estado número 99 del 10 de diciembre del mismo año.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 23 de Mayo del Año 2001. DIPUTADO PRESIDENTE.- C. OSCAR ALBERTO HINOJOSA SÁNCHEZ.- Rúbrica .- DIPUTADO SECRETARIO.- LIC. JUAN JOSÉ ANTONIO BRAÑA CARRANZA.- Rúbrica.- DIPUTADO SECRETARIO.- C. BERNARDO GÓMEZ VILLAGOMEZ.- Rúbrica".
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 23 de Mayo del Año 2001. DIPUTADO PRESIDENTE.- C. OSCAR ALBERTO HINOJOSA SÁNCHEZ.- Rúbrica.- DIPUTADO SECRETARIO.- LIC. JUAN JOSÉ ANTONIO BRAÑA CARRANZA.- Rúbrica.- DIPUTADO SECRETARIO.- C. BERNARDO GÓMEZ VILLAGOMEZ.- Rúbrica".
 
 Por lo tanto, mando se imprima, publique, circule y se le de debido cumplimiento.
 
@@ -354,3 +366,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 El Ejecutivo del Estado hará las transferencias y ampliaciones presupuestales necesarias para el cumplimiento de este Decreto durante el ejercicio presupuestal del presente año, en términos del Decreto del Presupuesto de Egresos del Estado para el Ejercicio Fiscal de 2006.
+
+P.O. 14 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
