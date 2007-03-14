@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-18473"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-14"
-last_updated: "2002-06-21"
+last_updated: "2007-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de julio de 2000.
 
@@ -445,21 +445,13 @@ Los infractores a que hacen referencia los párrafos anteriores, tendrán un per
 
 ###### Art. 37°.
 
-El C. Juez Calificador tendrá facultades para decidir, según su criterio y las circunstancias, si al infractor le es aplicado el arresto, se le impone la multa, o si es amonestado.
+(DEROGADO, P.O. 14 DE MARZO DE 2007)
 
-No obstante lo dispuesto en el párrafo anterior, se deberán observar las siguientes reglas:
-
-> <small>(F. DE E., P.O. 19 DE JULIO DE 2000)</small>
-
-a).- Se deberá sancionar con arresto, las infracciones que se precisan en el Artículo 17, fracciones XI y XII; en el Artículo 18 fracciones V, XI y XII; en el Artículo 19 fracción III; en el Artículo 20 fracciones I, II, III, V, VI y VII; en el Artículo 22 fracciones III y VII; en el Artículo 23 fracciones I y IV.
-
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2001)</small>
-
-b).- Se sancionará con multa o con arresto las infracciones que se precisan en el Artículo 17 fracciones I, II, III, IV, V, VI, VII, IX y X; en el Artículo 18 fracciones I, III, IV, VI, VIII, IX, X, XV y XVI; en el Artículo 19 fracciones II, IV, V, VII, VIII, X, XI, XII, XIII, XIV y XVII; en el Artículo 21 fracciones I y III; en el Artículo 22 fracciones I, II, IV, V y VI; en el Artículo 23 fracciones III y VI y VII; en el Artículo 24 fracciones I, IV y V.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2007)</small>
 
 ###### Art. 38º.
 
-Sólo en el caso de sanción alternativa, si el infractor no paga la multa impuesta, ésta se conmutará por arresto, que en ningún caso excederá de 36 horas.
+Si el infractor no paga la multa impuesta, ésta se conmutará por arresto, que en ningún caso excederá de 36-horas.
 
 ###### Art. 39°.
 
@@ -650,3 +642,7 @@ PRIMERO.- El presente Reglamento entrará en vigor 30 días posteriores a su pub
 SEGUNDO.- Instrúyase al Secretario de la Policía Preventiva Municipal en tanto entre en vigor el presente Reglamento, para que se dé la debida difusión entre los elementos policiacos bajo su cargo para su posterior cumplimiento.
 
 TERCERO.- Se derogan los artículos 11, 12 y 13 del Reglamento de Policía y Buen Gobierno, artículo 22 bis, fracción XV, del Reglamento de la Administración Pública del Municipio de Monterrey y todas las normas y disposiciones generales que contravengan o se opongan a este reglamento.
+
+P.O. 14 DE MARZO DE 2007.
+
+Artículo Único.- Las reformas por modificación y derogación al REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
