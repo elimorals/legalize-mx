@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-libre-y-soberano-de-chiapas-4148"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-10-11"
-last_updated: "2004-11-09"
+last_updated: "2007-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE CHIAPAS, PUBLICADO EN P.O. DE 14 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el jueves 11 de octubre de 1990.
 
@@ -4712,3 +4714,11 @@ LOS JUICIOS Y PROCEDIMIENTOS JUDICIALES QUE SE ENCUENTREN EN TRAMITE ANTES DE LA
 ###### ARTICULO TERCERO.
 
 SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO.
+
+P.O. 14 DE MARZO DE 2007.
+
+Artículo Primero.- Este Código entrará en vigor a los sesenta días posteriores de su Publicación en el Periódico Oficial del Estado; plazo en que continuará vigente el Código Penal para el Estado Libre y Soberano de Chiapas, publicado en el Periódico Oficial del Estado número 97, de fecha once de octubre de mil novecientos noventa.
+
+Artículo Segundo El título vigésimo sexto denominado delitos en materia electoral, entrará en vigor a partir del día 02 de enero del 2008, en tanto quedará vigente y se aplicará el título vigésimo denominados (sic) delitos en materia electoral del Código Penal para el Estado Libre y Soberano de Chiapas, publicado en el Periódico Oficial del Estado número 97, de fecha once de octubre de mil novecientos noventa.
+
+Artículo Tercero.- Con las consideraciones señaladas en los artículos primero y segundo transitorios, se abroga el Código Penal para el Estado Libre y Soberano de Chiapas, publicado en el Periódico Oficial del Estado número 97, de fecha once de octubre de mil novecientos noventa, y se derogan las demás leyes y disposiciones que se opongan al presente.
