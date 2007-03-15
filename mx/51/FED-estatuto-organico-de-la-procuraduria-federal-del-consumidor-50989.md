@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-federal-del-consumidor-509
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-07-10"
-last_updated: "2006-07-10"
+last_updated: "2007-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50989&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 ESTATUTO ORGANICO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MARZO DE 2007.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de julio de 2006.
 
@@ -85,7 +85,7 @@ La Procuraduría ejecutará sus programas con base en acciones y procesos de mej
 
 Asimismo, para apoyar y asesorar al Procurador y a las diversas unidades administrativas de la Institución, en la atención de asuntos de carácter internacional en materia de protección al consumidor; así como promover y fortalecer la presencia y participación de la Procuraduría en reuniones y foros bilaterales y multilaterales en donde se analizan y proponen lineamientos, políticas y acciones en la referida materia, la Coordinación General de Planeación contará con un área de asuntos internacionales.
 
-Los aspirantes a ingresar a la Procuraduría, los servidores públicos que deseen permanecer en ésta y que realicen actividades de verificación y otras vinculadas al desarrollo de las mismas; así como los que determine el Procurador, con excepción del personal de base, deberán someterse al proceso de evaluación de confianza en términos de las disposiciones aplicables.
+> <small>(DEROGADO CUARTO PARRAFO POR ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE EVALUACION DE CONFIANZA EN LA PROCURADURIA FEDERAL DEL CONSUMIDOR, D.O.F. 15 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 5.
 
@@ -750,3 +750,13 @@ Con relación al Estatuto Orgánico de la Procuraduría Federal del Consumidor q
 Atentamente
 
 México, D.F., a 26 de junio de 2006.- El Secretario, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 15 DE MARZO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deroga el cuarto párrafo del artículo 4 del Estatuto Orgánico de la Procuraduría Federal del Consumidor y se abroga el Acuerdo por el que se establecen las bases de organización del sistema institucional de evaluación de confianza y por el que se crean las unidades que se indican, publicado en el Diario Oficial de la Federación el 2 de junio de 2005.
+
+TERCERO.- Dentro de un periodo que no excederá de 90 días naturales a partir de la entrada en vigor del presente Acuerdo y en términos de lo dispuesto por el Artículo Cuarto del mismo, la Coordinación General de Administración deberá someter a consideración del Procurador Federal del Consumidor, el Programa Operativo de Evaluación de Confianza.
