@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2006-07-17"
+last_updated: "2007-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -79,6 +79,14 @@ El Estado podrá, en los términos de Ley, convenir con la federación la asunci
 
 En el Estado de Hidalgo, todo individuo gozará de las garantías y derechos que otorga esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, las cuales no podrán restringirse ni suspenderse, sino en los casos y condiciones que ella misma establece.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
+
+En el Estado de Hidalgo queda prohibida toda discriminación motivada por el origen étnico, Nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
+
+Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana y un retroceso a su propia condición, que deben combatirse.
+
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 4 Bis.
@@ -88,6 +96,16 @@ El derecho de petición, será atendido por los Funcionarios y Empleados Públic
 A toda petición, deberá recaer un acuerdo escrito de la Autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer al peticionario en breve término.
 
 Toda persona, tiene derecho a acceder a la información pública, conforme a la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
+
+###### Artículo 4 Ter.
+
+Es inviolable la libertad de escribir y publicar escritos sobre cualquier materia. Ninguna Ley ni Autoridad pueden establecer la previa censura, ni exigir fianza a los autores o impresores, ni coartar la libertad de imprenta, que no tiene más límites que el respeto a la vida privada, a la moral y a la paz pública. En ningún caso podrá secuestrarse la imprenta como instrumento del delito.
+
+No están obligados a declarar sobre la información que reciban, conozcan o tengan en su poder los periodistas, como información de carácter reservada, así como los profesionistas, los ministros de cualquier culto con motivo del ejercicio de su ministerio y los servidores públicos que desempeñen cualquier otro empleo, cargo oficio o profesión, cuando la Ley reconozca el deber de guardar reserva o secreto profesional.
+
+Los habitantes del Estado gozan del derecho a que le sea respetado su honor, su crédito y su prestigio.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1183,7 +1201,9 @@ XXXIV. Representar al Estado en las comisiones tanto federales, como interestata
 
 XXXV. Ejercer actos de dominio sobre el patrimonio del Estado, en los términos que dispongan las leyes;
 
-XXXVI. Contratar empréstitos con aprobación del Congreso del Estado, para la ejecución de obras que estén destinadas a producir directamente un incremento en los ingresos del erario;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2007)</small>
+
+XXXVI.- Contratar empréstitos con aprobación del Congreso del Estado para destinarlos a inversiones públicas productivas conforme a las bases o en los términos que determine dicho Congreso mediante una ley o decreto;
 
 XXXVII. Ejercer el presupuesto de egresos;
 
@@ -1227,11 +1247,15 @@ LI. Decretar expropiaciones por causa de utilidad pública, mediante el pago de 
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JULIO DE 2006)</small>
 
-LII. Designar al Consejero del Consejo de la Judicatura; y
+LII. Designar al Consejero del Consejo de la Judicatura; y (sic)
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2007)</small>
+
+LIII.- Realizar, promover y alentar los programas de prevención, erradicación, defensa, representación jurídica, asistencia, protección, previsión, participación y atención en materia de lucha contra la discriminación en el Estado de Hidalgo;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE JULIO DE 2006)</small>
 
-LIII. Las demás que le confiera esta Constitución y la General de la República.
+LIV. Las demás que le confiera esta Constitución y la General de la República.
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2053,7 +2077,7 @@ I. Administrarán libremente su Hacienda, la cual se formará de los rendimiento
 
 II. Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles;
 
-III. Recibirán las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos, que anualmente se determinen por la Legislatura del Estado y
+III. Recibirán las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos, que anualmente se determinen por la Legislatura del Estado, y
 
 IV. Dispondrán de los ingresos derivados de la prestación de servicios públicos a su cargo.
 
@@ -2912,3 +2936,21 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicaci�
 P.O. 17 DE JULIO DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE MARZO DE 2007.
+
+DECRETO NUM. 347 QUE ADICIONA EL ARTICULO 4 TER DE LA CONSTITUCION.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MARZO DE 2007.
+
+DECRETO NUM. 348 QUE ADICIONA LOS ARTICULOS 4 Y 71 DE LA CONSTITUCION.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MARZO DE 2007.
+
+DECRETO NUM. 349 QUE REFORMA EL ARTICULO 71 DE LA CONSTITUCION.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
