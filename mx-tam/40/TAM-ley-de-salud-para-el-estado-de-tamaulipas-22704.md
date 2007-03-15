@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2006-09-06"
+last_updated: "2007-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1129,6 +1129,10 @@ El Consejo Estatal contra las Adicciones estará integrado por el Secretario de 
 
 El Consejo tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado, tendientes a la prevención y combate de los problemas de salud pública causados por las adicciones que regula el presente Título así como proponer y evaluar los programas a que se refiere el mismo.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
+
+Con base en la disponibilidad presupuestal de la Secretaría de Salud, se promoverá la creación de un Instituto contra las adicciones, con objeto de promover, apoyar y ejecutar las acciones orientadas a la prevención del tabaquismo, alcoholismo y la fármaco dependencia.
+
 ### CAPITULO UNICO
 
 ###### ARTICULO 96.
@@ -1850,5 +1854,11 @@ UNICO.- El presente decreto entrará en vigor el día siguiente al de su publica
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
