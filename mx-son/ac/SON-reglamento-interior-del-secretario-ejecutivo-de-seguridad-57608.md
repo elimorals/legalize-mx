@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-secretario-ejecutivo-de-seguridad-57608
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-30"
-last_updated: "2004-06-30"
+last_updated: "2007-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL SECRETARIO EJECUTIVO DE SEGURIDAD PUBLICA DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DEL SECRETARIO EJECUTIVO DE SEGURIDAD PUBLICA DEL ESTADO DE SONORA
+REGLAMENTO INTERIOR DEL SECRETARIO EJECUTIVO DE SEGURIDAD PÚBLICA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SECRETARIO EJECUTIVO DE SEGURIDAD PÚBLICA DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 15 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: ABROGADO.
 
 Reglamento publicado en la Edición Especial del Boletín Oficial del Estado de Sonora, el miércoles 30 de junio de 2004.
 
@@ -552,3 +554,15 @@ Seguridad Pública
 Consejo Tutelar
 
 para Menores
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 15 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Secretario Ejecutivo de Seguridad Pública del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado, edición especial número 7, de fecha 30 de junio de 2004.
