@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-integracion-social-de-personas-con-discapacidad-10843"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2006-09-06"
+last_updated: "2007-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de febrero de 1997.
 
@@ -413,9 +413,11 @@ La rehabilitación médico-funcional estará dirigida a dotar a las personas con
 
 La persona que presente alguna discapacidad calificada, según lo establecido por esta Ley, tendrá derecho al beneficio de la rehabilitación médica necesaria para corregir o mejorar su estado físico-mental y social, cuando éste constituya un obstáculo para su integración educativa, laboral y social.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 21.
 
-Los procesos de rehabilitación se complementarán con la adaptación de prótesis, órtesis y cualquier otro elemento auxiliar para personas con discapacidad, cuya condición lo amerite.
+Se procurará que los procesos de rehabilitación se complementen con la adaptación de prótesis, órtesis, transplante de córnea, lentes intraoculares, otras intervenciones quirúrgicas y cualquier otro elemento auxiliar para personas con discapacidad, cuya condición lo amerite.
 
 ### CAPITULO IX
 
@@ -441,11 +443,11 @@ Una vez determinado y valorado el tipo de discapacidad, la persona será integra
 
 Cuando la persona con discapacidad no fuere aceptada en la escuela regular, a petición de ésta o de quien la represente, el Director del plantel educativo deberá expedir por escrito la causa por la cual no es admitido.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 26.
 
-La educación especial está destinada a individuos con discapacidades transitorias o definitivas. Procurará atender al educando de manera adecuada a su condición de persona con discapacidad, sin que ello sea motivo de discriminación o exclusión de ningún tipo.
+La educación especial está destinada a individuos con discapacidades transitorias o definitivas. Procurará atender al educando de manera adecuada a su condición de persona con discapacidad, sin que ello sea motivo de discriminación o exclusión de ningún tipo, con profesionales especializados, capacitados en el manejo de aparatos y sistemas que ayuden en el proceso de aprendizaje y desarrollo cultural y educativo de los invidentes que permita su integración social y productiva.
 
 La educación especial a los alumnos con posibilidades de integración, se impartirá en las instituciones ordinarias públicas o privadas del Sistema Educativo, mediante programas de apoyo según las condiciones de discapacidad que afecten a cada alumno, y se iniciará tan pronto como requiera cada caso.
 
@@ -453,9 +455,11 @@ La educación especial a los alumnos con posibilidades de integración, se impar
 
 Con base en lo dispuesto en esta Ley y en la de Educación Pública del Estado, la educación especial, a quienes les resulte imposible la integración al Sistema Educativo General Ordinario, será impartida ajustándose al proceso psicológico de cada sujeto y no estrictamente a su edad cronológica.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 28.
 
-La educación especial contará con personal técnicamente capacitado y calificado que, en actuación multiprofesional, provea las diversas atenciones requeridas de acuerdo a cada persona con discapacidad.
+La educación especial contará con personal técnicamente capacitado y calificado que, en actuación multiprofesional, provea las diversas atenciones requeridas de acuerdo a cada persona con discapacidad, misma que procurará realizarse con equipo moderno y de tecnología avanzada.
 
 > <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
 
@@ -581,13 +585,19 @@ Los responsables de las dependencias o empresas que por su naturaleza deban inst
 
 Los restaurantes, comedores de autoservicio, cafeterías y bibliotecas públicas, sin que ello implique instalaciones especiales que puedan denotar segregación, marginación o discriminación de las personas con discapacidad, deberán contar, por lo menos, con una mesa de forma rectangular a una altura de setenta y cinco centímetros libres del piso a la parte inferior de la mesa, con la finalidad de brindar comodidad a usuarios en silla con ruedas.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
+
+Los invidentes acompañados de perros guía, tendrán libre acceso a establecimientos públicos y comerciales, por lo cual se deberán implementar las medidas necesarias.
+
 ###### ARTICULO 44.
 
 Los auditorios, cines, teatros y salas de conciertos, de conferencias y, en general, cualquier recinto en el que se presenten espectáculos públicos, deberán tener espacios reservados y suficientes para personas con discapacidad imposibilitadas para hacer uso de las butacas o asientos con que cuente el recinto.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 45.
 
-Las bibliotecas públicas deben contar con una área determinada específicamente para invidentes o débiles visuales, en donde se instalen casetas que permitan hacer uso de grabadoras o para que otras personas les lean en voz alta sin causar molestia a los demás usuarios; asimismo, procurarán en la medida de lo posible, tener libros impresos en sistema braile y audiolibros para invidentes o débiles visuales.
+Las bibliotecas públicas deben contar con un área determinada específicamente para invidentes o débiles visuales, en donde se instalen casetas que permitan hacer uso de grabadoras o para que otras personas les lean en voz alta sin causar molestia a los demás usuarios; asimismo, procurarán en la medida de lo posible, tener libros impresos en sistema braile y audiolibros, aparatos y equipo de tecnología avanzada para invidentes o débiles visuales, para facilitar la atención destinada a invidentes.
 
 ### CAPITULO XIII
 
@@ -713,6 +723,10 @@ Asimismo, deberán pintarse con colores contrastantes los postes, semáforos, co
 
 Las barreras arquitectónicas que se instalen en la vía pública no deberán colocarse en el centro de pasillos, aceras o camellones, a efecto de que permitan el desplazamiento de sillas con ruedas, aparatos de apoyo o de invidentes.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
+
+Los rellanos, mesetas o descansos de las escaleras interiores y exteriores deberán pintarse con colores vivos que contrasten con el resto de los escalones y tener una superficie de textura rugosa con la finalidad de que puedan ser de fácil identificación tanto por quienes tengan visión normal como por invidentes o débiles visuales.
+
 ###### ARTICULO 62.
 
 Las nuevas construcciones de edificios que presten servicios al público, especialmente oficinas públicas y escuelas, deberán construirse libres de barreras arquitectónicas, debiendo considerar las dimensiones especiales para el desplazamiento de personas en silla con ruedas o muletas.
@@ -721,7 +735,7 @@ Las nuevas construcciones de edificios que presten servicios al público, especi
 
 ###### ARTICULO 63.
 
-Con el objeto de facilitar el desplazamiento de las personas con discapacidad, en el transporte público colectivo, las unidades prestadoras de este servicio deberan ser adecuadas para permitir el libre acceso y permanencia, adoptando las medidas necesarias, tales como rampas, elevadores o mecanismos especiales para tal efecto.
+Con el objeto de facilitar el desplazamiento de las personas con discapacidad, en el transporte público colectivo, las unidades prestadoras de este servicio deberán ser adecuadas para permitir el libre acceso y permanencia, adoptando las medidas necesarias, tales como rampas, elevadores o mecanismos especiales para tal efecto.
 
 El Ejecutivo del Estado, a través de la dependencia competente, al otorgar las concesiones para la prestación del servicio público de transporte, garantizara que en cada ruta exista por lo menos una unidad que cumpla con las condiciones señaladas en el párrafo anterior, la que se identificara con un señalamiento especial; asimismo, establecerá programas de capacitación a los conductores del servicio público de transporte, encaminados a la preparación y concientización sobre la atención a personas con discapacidad.
 
@@ -732,6 +746,10 @@ Las personas con discapacidad tendrán derecho a obtener tarifas preferenciales 
 > <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
 
 Las personas con discapacidad tendrán preferencia en el ascenso, descenso y asignación de lugares en los vehículos de transporte público.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
+
+El Gobierno del Estado y los Municipios, a través de sus organismos de Seguridad Pública y Tránsito, instrumentarán, proyectos y campañas de educación vial, encaminadas a motivar el respeto hacia las personas con discapacidad.
 
 ###### ARTICULO 64.
 
@@ -870,5 +888,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
