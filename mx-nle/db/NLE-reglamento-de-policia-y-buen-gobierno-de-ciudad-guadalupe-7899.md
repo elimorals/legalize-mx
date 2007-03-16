@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2007-02-16"
+last_updated: "2007-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -181,11 +181,11 @@ IX.- Colaborar y/o auxiliar a la Dirección de Tránsito, a fin de que en las pr
 
 DE LAS FACULTADES Y OBLIGACIONES DE LA DIRECCION DE POLICÍA MUNICIPAL.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 7.
 
-Al Secretario de Seguridad Pública y Tránsito, le corresponde las siguientes facultades y Obligaciones:
+Al Secretario de Seguridad Ciudadana y Tránsito, le corresponde las siguientes facultades y Obligaciones:
 
 I.- Vigilar, aplicar y hacer cumplir el presente Reglamento.
 
@@ -247,9 +247,9 @@ I.- Colaborar en la preservación de la seguridad y la tranquilidad de los ciuda
 
 II.- Cooperar con la Autoridad Municipal en las campañas que se organicen para mejorar el servicio de Seguridad Pública.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-III.- Informar a la Secretaría de Seguridad Pública y Tránsito, sobre los problemas de Seguridad Pública que se presenten en su comunidad.
+III.- Informar a la Secretaría de Seguridad Ciudadana y Tránsito, sobre los problemas de Seguridad Pública que se presenten en su comunidad.
 
 IV.- Solicitar la designación de uno o varios vigilantes, según el caso, el lugar, las condiciones y las necesidades del vecindario; siempre y cuando los vecinos cooperen para tal propósito.
 
@@ -619,7 +619,7 @@ DEL RECURSO DE INCONFORMIDAD.
 
 DE LA COMISIÓN DE HONOR Y JUSTICIA Y TRAMITE DE QUEJAS.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 39.
 
@@ -671,199 +671,87 @@ DE LA ACTUALIZACION DE ESTE REGLAMENTO.
 
 ###### ARTICULO 42.
 
-Se crea la comisión de honor y justicia a que se refiere él artículo 86 de la Ley del Sistema de Seguridad Pública del Estado, como un órgano de carácter administrativo dependiente del Presidente Municipal, dotado de facultades para conocer y resolver las quejas o denuncias que se presenten en contra de los oficiales de policía y tránsito, así como del procedimiento para su resolución y las sanciones que en su caso, podrán aplicarse.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2001)</small>
+Se crea la Comisión de Honor y Justicia de los Cuerpos de Seguridad Ciudadana y Tránsito del Municipio de Guadalupe, Nuevo León, a fin de dar cumplimiento al Artículo 86 de la Ley del Sistema de Seguridad Pública del Estado, la cual se regirá por su propio Reglamento.
 
 ###### ARTICULO 43.
 
-La comisión de Honor y Justicia estará integrada por cinco miembros de reconocida honorabilidad los cuales serán nombrados por el Presidente Municipal de la siguiente forma:
-
-I.- Un presidente
-
-II.- Un Secretario
-
-III.- Tres vocales.
-
-Así mismo cada integrante contará con un suplente, el cual cubrirá a su propietario en casos de ausencias temporales o definitivas, que de igual forma será nombrado por el Presidente Municipal. Dichos cargos serán de naturaleza honorífica.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 44.
 
-El Presidente Municipal tendrá facultades para remover a cualquier miembro de la comisión previa causa justificada.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 45.
 
-Los miembros de la comisión de honor y justicia tendrán un período de encargo de un año a partir de la fecha de su nombramiento, pudiendo este período prorrogarse a criterio del Presidente Municipal.
-
-> <small>(REFORMADO, 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 46.
 
-La comisión de Honor y Justicia tendrá competencia en los siguientes asuntos:
-
-I.- Tendrá conocimiento en quejas o denuncias que los ciudadanos o los mismos integrantes de las corporaciones de Seguridad Pública y Tránsito presenten en relación de la actuación de los elementos de la Secretaría, considerando los hechos ante ellos presentados y haciendo la evaluación correspondiente.
-
-II.- Vigilará que los elementos de la Secretaría de Seguridad Pública y Tránsito ejerzan sus actos apegado a lo que establecen las leyes y Reglamentos correspondientes, teniendo la facultad de emitir un dictamen al titular de la Secretaría con el fin de realizar una recomendación de la forma en que deben de realizarse las actividades de sus elementos. Y
-
-III.- Las demás que señale el presente reglamento.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 47.
 
-La comisión de Honor y Justicia sesionará en la oficina asignada a la Coordinación de Asuntos Internos, previa convocatoria del Secretario de la misma, 24 horas antes de la reunión.
-
-Solo en casos extraordinarios se convocará la reunión en otro lugar, ya sea por cuestiones de seguridad o por confidencialidad respeto (sic) de los asuntos que vayan a tratarse, informando previamente a la comisión.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 48.
 
-Habrá quórum en las sesiones de la comisión con la mitad más uno de sus miembros. Todos los miembros de la comisión contarán con voz y voto, sus resoluciones serán tomadas por mayoría simple de los miembros presentes. En caso de empate el presidente tendrá voto de calidad.
-
-El Sentido del voto de los integrantes será secreto. El Secretario deberá elaborar un acta en la que se registre el desarrollo y las resoluciones de cada sesión.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 49.
 
-Previo acuerdo de los miembros de la comisión, en las sesiones deberá comparecer el o los elementos de la Secretaría con el fin de realizar una apreciación más amplia sobre el asunto que se pone a su consideración.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 50.
 
-Cuando algún miembro de la comisión tenga una relación afectiva, familiar, profesional o una diferencia personal o de otra índole con la persona sujeta al procedimiento, o con el representante de este, que impida una actuación imparcial de su encargo, deberá excusarse ante el presidente de la comisión.
-
-Si algún miembro de la instancia no se excusa debiendo hacerlo, podrá ser recusado por el infractor o su representante para que se abstenga del conocimiento del asunto, debiendo el presidente resolver sobre el particular.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 51.
 
-La comisión de Honor y Justicia tendrá como órgano auxiliar a la Coordinación de Asuntos Internos, los cuales se encargarán de recabar la información necesaria y elementos de prueba para integrar un expediente de cada queja o denuncia que se presente en contra de algún elemento de la Secretaría y una vez hecho esto, turnará el expediente a la comisión con el fin de que esta decida en cada caso concreto la sanción que deba aplicarse.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 52.
 
-Las quejas que se presenten ante la comisión deberán ser por escrito o por denuncia verbal ante la Coordinación de Asuntos Internos, por lo cual, deberán reunir los siguientes requisitos:
-
-I.- Generales de la persona que presenta la queja
-
-II.- Señalar el nombre o identificación, si lo supiera del servidor público adscrito a la Secretaría de Seguridad Pública y Tránsito contra el cual se entabla la denuncia o en su caso, la media filiación o cualquier otro indicio que lleve a determinar que efectivamente se trata de un elemento de dicha Secretaría.
-
-III.- Señalar los hechos o actos que considere gravosos en su persona, familia, derechos o posesiones.
-
-IV.- Presentar las pruebas que estime necesarias.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2002)</small>
-
-Una vez presentada la queja o denuncia ante la Coordinación de Asuntos Internos, ésta deberá citar al quejoso a fin de que dentro del término de 5 días contados a partir de que se le cite, acuda a ratificar la misma, en el entendido de que de no ser así, se tendrá por no presentada la queja o denuncia correspondiente, sin perjuicio de que la Comisión de Honor y Justicia inicie el procedimiento de oficio cuando la gravedad del caso lo amerite.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2002)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 53.
 
-Una vez recibida y ratificada la queja en la Coordinación de Asuntos Internos, contarán con 5 días hábiles para reunir al denunciante y al elemento denunciado para buscar una conciliación en los casos que se amerite, en el entendido de que si por causas administrativas o de trabajo, el elemento denunciado no se encuentra disponible, quedará a criterio de la Coordinación la ampliación del término señalado.
-
-Una vez reunidos el denunciante y denunciado, se le hará saber al presunto responsable, el contenido de la queja, dándole oportunidad de réplica y haciéndole saber que cuenta con el término de 5 días hábiles para presentar las pruebas de su intención, término que podrá prorrogarse a criterio de la Coordinación de Asuntos Internos.
-
-(REFORMADO, P.O. 10 DE MAYO DE 2002) (F. DE E., P.O. 19 DE AGOSTO DE 2002)
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 54.
 
-Una vez agotado el procedimiento anterior y no existiendo más pruebas por desahogar, se turnará el expediente completo a la Comisión de Honor y Justicia, la cual tendrá un término de 15 días hábiles para resolver de plano la queja o denuncia observando los lineamientos establecidos en el artículo 56 del presente reglamento.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2002)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 55.
 
-La substanciación del procedimiento de responsabilidad administrativa y la aplicación de sanciones a los miembros de la Secretaría de Seguridad Pública y Tránsito, serán impuestas mediante resolución formal de la Comisión, observando para ello las disposiciones contenidas en la Ley de Responsabilidad de los Servidores Públicos del Estado y Municipios de Nuevo León.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 56.
 
-Para graduar con equidad la imposición de las sanciones, la comisión tomará en consideración los siguientes criterios:
-
-I.- Gravedad de la Infracción
-
-Il.- Daños causados a la Institución
-
-III.- Daños infligidos a la ciudadanía
-
-IV.- Cargo, comisión, categoría jerárquica y antigüedad
-
-V.- Conducta observada con anterioridad al hecho
-
-VI.- Circunstancias de ejecución
-
-VII.- Intencionalidad o negligencia
-
-VIII.- Perjuicios originados
-
-IX.- Daños producidos a otros integrantes
-
-X.- Daños causados al material y equipo
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 57.
 
-Las sanciones serán:
-
-I.- Amonestación
-
-II.- Remoción del cargo
-
-III.- Suspensión
-
-IV.- Cese
-
-La aplicación de dichas sanciones se hará a juicio de la comisión en todo caso, deberá registrarse en el expediente personal del elemento la sanción que se le aplique.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 58.
 
-La amonestación es el acto por el cual se advierte al integrante sobre la acción u omisión indebida que cometió en el cumplimiento de sus deberes. Mediante ella se informa al integrante las consecuencias de su infracción y se le exhorta a que encomiende su conducta para no incurrir en una infracción, apercibido de que en caso contrario, se hará acreedor a una sanción mayor.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 59.
 
-La remoción es el cambio de área de asignación.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2002)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 60.
 
-La suspensión es la interrupción temporal de la relación jurídica existente entre el elemento y la Institución, la cual podrá decretarse de la siguiente manera:
-
-a) Precautoriamente por el titular de la dependencia a la que pertenezca durante el tiempo que dure el procedimiento de responsabilidad entablado, misma que podrá revocarse o confirmarse por la Comisión de Honor y Justicia, y
-
-b) Mediante resolución que en forma definitiva emita a un procedimiento la Comisión de Honor y Justicia, la cual podrá ser hasta por el término de 3 meses, contados al día siguiente de que se le notifique al elemento la resolución correspondiente y de haber existido suspensión precautoria, ésta se descontará del término de suspensión emitida por la Comisión.
-
-En el presente caso, el elemento de policía o tránsito que no haya resultado responsable de las faltas que se le imputan será restituido en el goce de sus derechos y se le cubrirán las percepciones que debió percibir durante el tiempo de la suspensión.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 61.
 
-El cese es la terminación de la relación jurídica entre la Institución y el elemento sin responsabilidad para aquella.
-
-En los casos a que se refiere el presente artículo, la Comisión enviará una copia de la resolución a la Contraloría General del Estado, a fin de que sean inscritos en el Registro de Servidores Públicos sancionados e ínhabilitados o para efectos laborales en los términos de la Ley del Servicio Civil del Estado de Nuevo León. Esto con apego al artículo 87 de la Ley del Sistema de Seguridad Pública del Estado en vigor.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 62.
 
-Contra las resoluciones emitidas por la Comisión de Honor y Justicia, se estará a lo dispuesto a los lineamientos del Reglamento de Procedimiento Administrativo vigente.
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
@@ -932,3 +820,13 @@ P.O. 16 DE FEBRERO DE 2007.
 PRIMERO.- Las presentes reformas de los reglamentos objeto de este Dictamen, entrarán en vigor a partir del día de su publicación en el Periódico Oficial del Estado, y deberá dárseles difusión en la Gaceta Municipal del R. Ayuntamiento de Cd. Guadalupe, N.L.
 
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y demás disposiciones administrativos (sic) que contravengan las presentes disposiciones.
+
+P.O. 16 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Envíese a la C. Presidenta Municipal para que tenga a bien instruir al C. Secretario del R. Ayuntamiento lo remita para su publicación en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal.
