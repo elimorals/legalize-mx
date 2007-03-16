@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-proteccion-civil-del-estado-de-guerrero-numero-488-25226
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2002-06-25"
+last_updated: "2007-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE GUERRERO, NUMERO 488
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de junio de 2002.
 
@@ -83,87 +83,123 @@ LEY DE PROTECCION CIVIL DEL ESTADO DE GUERRERO, NUMERO 488.
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de orden público e interés social, y tiene por objeto regular las acciones que en materia de protección civil se lleven a cabo en el Estado, siendo su observancia de carácter obligatorio para las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y personas en general.
+La presente Ley es de orden público e interés social y tiene por objeto establecer y regular las bases de integración, organización, coordinación y funcionamiento del Sistema Estatal de Protección Civil, la prevención, auxilio y recuperación de la población ante una emergencia o desastre, siendo su observancia de carácter obligatorio para las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y personas en general.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 2o.
 
-Para los efectos de esta Ley se entiende por:
+Para los efectos de esta Ley, se entenderá por:
 
-I.- Agentes Destructivos.- A los fenómenos de carácter geológico, hidrometeorológico, químico - tecnológico, sanitario - ecológico, y socio organizativo que pueden producir riesgo, alto riesgo, emergencia o desastre;
+I.- Agentes Perturbadores.- A los fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico, y socio-organizativo que pueden producir riesgo, alto riesgo, emergencia o desastre;
 
-II.- Riesgo.- La situación de peligro o contingencia de que se produzca un desastre;
+II.- Alarma.- Al estado en el que se produce la fase de contingencia del subprograma de auxilio. Esta se establece cuando se han producido daños en la población, sus bienes y su entorno, lo cual implica la necesaria aplicación del Plan Estatal de Emergencia;
 
-III.- Alto Riesgo.- Al inminente o muy probable ocurrencia de una emergencia o desastre;
+III.- Alerta.- Al estado en el que se informa a la población sobre la inminente ocurrencia de un fenómeno perturbador, debido a la forma en que se ha extendido el peligro o en virtud de la evolución que presenta, de tal manera que es muy posible la aplicación del subprograma de auxilio;
 
-IV.- Apoyo.- Al conjunto de actividades administrativas destinadas a la prevención, el auxilio y la recuperación de la población ante situaciones de emergencia o desastre;
+IV.- Pre Alerta.- Al estado permanente de prevención de los organismos encargados de la protección civil, para informar a la población de la probable presencia de un fenómeno perturbador;
 
-V.- Auxilio.- Las acciones destinadas primordialmente a salvaguardar la vida, salud y bienes de las personas, la planta productiva y a preservar los servicios públicos y el medio ambiente, ante la presencia de desastres;
+V.- Riesgo.- A la probabilidad de que en un área o región se produzca una emergencia o desastre;
 
-Estas acciones son de: alertamiento, evaluación de daños, planes de emergencia, seguridad, búsqueda, salvamento y asistencia, servicios estratégicos, equipamiento y bienes, salud, aprovisionamiento, comunicación social de emergencia, reconstrucción inicial y vuelta a la normalidad;
+VI.- Alto Riesgo.- A la inminente ocurrencia de una emergencia o desastre;
 
-VI.- Damnificado.- A la persona que sufre grave daño en su integridad física o en sus bienes, provocados directamente por los efectos de un desastre; también se considerarán damnificados a sus dependientes económicos y a las personas que por la misma causa hayan perdido su ocupación o empleo;
+VII.- Apoyo.- Al conjunto de actividades administrativas y operativas destinadas a la prevención, el auxilio y la recuperación de la población ante situaciones de emergencia o desastre;
 
-VII.- Desastre.- Al evento determinado en tiempo y espacio en el cual, la sociedad o una parte de ella, sufre daños severos tales como: pérdida de vidas, lesiones a la integridad física de las personas, daño a la salud, afectación de la planta productiva, daños materiales, daños al medio ambiente, imposibilidad para la prestación de servicios públicos; de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad;
+VIII.- Auxilio.- A las acciones durante una emergencia o desastre, destinadas primordialmente a salvaguardar la vida, salud y bienes de las personas, la planta productiva y a preservar los servicios públicos y el medio ambiente.
 
-VIII.- Emergencia.- La situación derivada de fenómenos naturales, actividades humanas o derivadas del desarrollo tecnológico que pueden afectar la vida y bienes de la población, la planta productiva, los servicios públicos y el medio ambiente, cuya atención debe ser inmediata;
+VIII (sic).- Damnificado.- A la persona que sufre grave daño en su integridad física o en sus bienes, provocados directamente por los efectos de un desastre; también se considerarán damnificados a sus dependientes económicos y a las personas que por la misma causa hayan perdido su ocupación o empleo;
 
-IX.- Establecimientos.- A las escuelas, oficinas, empresas, fábricas, industrias, comercios, locales públicos o privados y, en general, a cualquier instalación, construcción, servicio u obra, en los pueda existir riesgo derivado de su propia naturaleza, el uso que se destine, o a la concurrencia masiva de personas. Para los efectos de esta Ley, existen establecimientos de competencia estatal, y de competencia municipal;
+IX.- Desastre.- Al evento determinado en tiempo y espacio en el cual la sociedad o una parte de ella sufre daños severos tales como: pérdida de vidas, lesiones a la integridad física de las personas, daños a la salud, la planta productiva, bienes materiales y al medio ambiente, imposibilidad para la prestación de servicios públicos; de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad;
 
-X.- Grupos Voluntarios.- A las organizaciones y asociaciones legalmente constituidas y que cuentan con el reconocimiento oficial, cuyo objeto social sea prestar sus servicios en acciones de protección civil de manera comprometida y altruista, sin recibir remuneración alguna, y que, para tal efecto, cuentan con los conocimientos, preparación y equipos necesarios e idóneos;
+X.- Emergencia.- La situación derivada de fenómenos naturales, actividades humanas o derivadas del desarrollo tecnológico que pueden afectar la vida y bienes de la población, la planta productiva, los servicios públicos y el medio ambiente, cuya atención debe ser inmediata;
 
-XI.- Prevención.- A las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos, así como para evitar desastres y mitigar su impacto destructivo sobre la vida, la salud y bienes de las personas, la planta productiva, los servicios públicos, así como el medio ambiente;
+XI.- Establecimientos.- A los hoteles, moteles, cabañas, instalaciones mineras, polvorines, escuelas, oficinas, empresas, fábricas, industrias, comercios, locales públicos o privados y, en general, a cualquier instalación, construcción, servicio y obra, en los que pueda existir riesgo derivado de su propia naturaleza, el uso que se destine, o a la ocurrencia masiva de personas. Para los efectos de esta Ley, existen establecimientos de competencia estatal y de competencia municipal;
 
-XII.- Protección Civil.- Al conjunto de acciones, principios, normas, políticas y procedimientos preventivos o de auxilio, recuperación, y apoyo, tendientes a proteger la vida, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente; realizadas ante los riesgos, altos riesgos, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, llevados a cabo por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y personas en general; y
+XII.- Evacuación Forzosa.- A la acción precautoria que la autoridad competente en protección civil emplea para el retiro temporal necesario de las personas de su lugar usual de alojamiento y ser trasladadas a un refugio, ante la inminente probabilidad o certeza de que ocurra un desastre, hasta en tanto pasa el riesgo, esto como medida de protección y alejamiento de la zona para salvaguardar la vida y la salud de las personas;
 
-XIII.- Recuperación.- Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado, población y entorno, así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos.
+XIII.- Grupos Voluntarios.- A las organizaciones y asociaciones legalmente constituidas y que cuentan con el reconocimiento oficial, cuyo objeto social sea prestar sus servicios en acciones de protección civil de manera comprometida y altruista, sin recibir remuneración alguna, y que, para tal efecto, cuentan con los conocimientos, preparación y equipos necesarios e idóneos;
+
+XIV.- Inspector.- Es el servidor público que en materia de protección civil realiza visitas de inspección a establecimientos de competencia estatal y municipal, mediante mandato escrito de la misma autoridad, con la finalidad de verificar el cumplimiento de las condiciones de seguridad con que operan.
+
+XV.- Prevención.- A las acciones, principios, normas, políticas y procedimientos, realizados antes de una emergencia o desastre tendientes a disminuir o eliminar la vulnerabilidad, así como para evitar el impacto destructivo sobre la vida, la salud y bienes de las personas, la planta productiva, los servicios públicos, y el medio ambiente;
+
+XVI.- Protección Civil.- Al conjunto de acciones, principios, normas, políticas y procedimientos preventivos o de auxilio, recuperación y apoyo, tendientes a proteger la vida, la salud y los bienes materiales de las personas, así como la planta productiva, la prestación de servicios públicos y el medio ambiente; realizadas ante los riesgos, altos riesgos, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, llevados a cabo por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y personas en general;
+
+XVII.- Recuperación.- A las acciones realizadas después de una emergencia o desastre, orientadas a la reparación, rehabilitación, reconstrucción y mejoramiento del sistema afectado, población y entorno;
+
+XVIII.- Simulacro.- Al ejercicio de adiestramiento en protección civil, en una comunidad o área preestablecida mediante la simulación de una emergencia o desastre, para promover una coordinación más efectiva de respuesta, por parte de las autoridades y la población en general; y
+
+XIX.- Vulnerabilidad.- A la susceptibilidad de sufrir un daño.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 3o.
 
-La aplicación de esta Ley compete a:
+La aplicación de esta Ley competerá a:
 
 I.- El Gobernador del Estado;
 
-II.- El Secretario de Seguridad Pública y Protección Ciudadana;
+II.- El Consejo Estatal de Protección Civil;
 
-III.- Los Presidentes Municipales;
+III.- El Secretario de Seguridad Pública y Protección Civil;
 
-IV.- El Consejo Estatal de Protección Civil;
+IV.- El Subsecretario de Protección Civil;
 
-V.- El Director de la Unidad Estatal de Protección Civil; y
+V.- Los Presidentes Municipales;
 
-VI.- Los Titulares de las Unidades Administrativas de Protección Civil de los Municipios.
+VI.- El Director General de Sistemas y Normatividad;
+
+VII.- El Director General de Atención a Desastres y Policía Ecológica; y
+
+VIII.- Los Titulares de las Unidades de Protección Civil de los Municipios.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 4o.
 
-Corresponde al Ejecutivo del Estado y a los Presidentes Municipales, dentro de sus respectivas competencias:
+Corresponde al Gobernador del Estado las atribuciones siguientes:
 
-I.- Promover la participación de la sociedad en la protección civil;
+I.- Establecer políticas y estrategias en materia de protección civil, que garanticen la salvaguarda de las personas, los servicios básicos y el medio ambiente;
 
-II.- Crear los Fondos de Desastres Estatal o Municipal, según el caso, para la atención de emergencias originadas por riesgos, altos riesgos, emergencias o desastres. La aplicación de estos Fondos, se hará conforme a las disposiciones presupuestales y legales aplicables;
+II.- Crear fondos para la atención de emergencias o desastres en el Estado, originados por fenómenos naturales o humanos. La aplicación de estos fondos se hará conforme a las disposiciones presupuestales y legales aplicables;
 
-III.- Incluir acciones y programas sobre la materia, en los Planes de Desarrollo Estatal y Municipal, según corresponda;
+III.- Incluir acciones y programas sobre la materia, en los planes de desarrollo estatal;
 
-IV.- Hacer la declaratoria formal de emergencia, en el respectivo ámbito de su competencia;
+IV.- Formular la solicitud de declaratoria de emergencia o desastre, cuando sea superada la capacidad de respuesta del Estado, para obtener recursos y poder brindar un mejor auxilio a la población;
 
-V.- Celebrar convenios de colaboración y coordinación en materia de esta Ley; y
+V.- Celebrar convenios de coordinación y colaboración con la Federación, Entidades Federativas o Municipios, con el propósito de prevenir y atender una emergencia o desastre;
 
-VI.- Las demás que les otorguen las Leyes y reglamentos vigentes en la Entidad.
+VI.- Ordenar la evacuación forzosa;
 
-Es competencia del Titular del Poder Ejecutivo del Estado presidir el Centro Estatal de Operaciones, vigilando el desarrollo de los trabajos correspondientes y, hacer lo propio, cuando se trate de declaraciones del Ejecutivo Federal;
+VII.- Aplicar el Plan Estatal de Emergencia, total o parcialmente, según sea el caso;
+
+VIII.- Vigilar el cumplimiento de las disposiciones de esta Ley;
+
+IX.- Las demás que le otorguen las leyes y reglamentos vigentes en la Entidad.
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 16 DE MARZO DE 2007)</small>
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 5o.
 
-Las autoridades estatales y municipales, promoverán la creación de órganos especializados de emergencia, de acuerdo al nivel de riesgos existentes, en una determinada zona por cualquiera de los cinco tipos de agentes destructivos.
+Las autoridades estatales y municipales promoverán la creación de órganos especializados para atender emergencias y desastres tomando en cuenta los riesgos que existen en cada zona.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 6o.
 
-Es obligación de todas las Dependencias y Entidades de la Administración Pública Estatal y de los Municipios, así como de cualquier persona que resida o transite en el territorio del Estado, el cooperar de manera coordinada con las autoridades competentes en materia de protección civil.
+Es obligación de todas las Dependencias y Entidades de la Administración Pública Estatal y de los Municipios, así como de cualquier persona que resida o transite en el territorio del Estado, el cooperar de manera coordinada con las autoridades competentes en materia de protección civil, en las fases de prevención, auxilio y recuperación de la población en caso de emergencias o desastres.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 7o.
 
-En el Presupuesto de Egresos del Estado y en la de los Municipios, se contemplarán las partidas que se estimen necesarias para el cumplimiento de las acciones que se establecen en la presente Ley y las que se deriven de su aplicación.
+En el Presupuesto de Egresos de cada ejercicio fiscal del Estado y en el de los Municipios, se contemplarán las partidas presupuestales que se estimen necesarias para el cumplimiento de los programas y planes en la materia, las cuales no podrán ser menores al ejercido al año anterior inmediato y será instransferible para otras acciones de gobierno.
 
 ### CAPITULO II. Del Sistema Estatal de Protección Civil
 
@@ -171,9 +207,11 @@ En el Presupuesto de Egresos del Estado y en la de los Municipios, se contemplar
 
 El Sistema Estatal de Protección Civil, es parte integrante del Sistema Nacional, y comprenderá las instancias, acciones, lineamientos y políticas establecidos en la presente Ley, tendientes a cumplir los objetivos y fines de la protección civil.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 9o.
 
-El Sistema Estatal de Protección Civil será el instrumento de información en la materia, que reúna los principios, normas, políticas, procedimientos y acciones relativos, así como la información sobre la estructura orgánica de los cuerpos de protección civil de los sectores público, social o privado que operen en la Entidad, su rango de operación, personal, equipo y capacidad de auxilio que permita prevenir riesgos y altos riesgos. El Sistema también será el encargado de desarrollar los mecanismos de respuesta ante desastres o emergencias y planificar la logística correspondiente.
+El Sistema Estatal de Protección Civil es el instrumento de información y consulta en la materia que reúna los principios, normas, políticas y procedimientos, así como la información sobre la estructura orgánica y funcionamiento de los cuerpos de protección civil de los sectores público, social o privado que operen en la Entidad. El Sistema, a través del Consejo Estatal de Protección Civil, se encargará de desarrollar los mecanismos de respuesta ante emergencias o desastres y planificar la logística correspondiente.
 
 Reglamentariamente se establecerán las bases de operación del Sistema Estatal de Protección Civil.
 
@@ -181,53 +219,93 @@ Reglamentariamente se establecerán las bases de operación del Sistema Estatal 
 
 El Sistema Estatal de Protección Civil se integrará por:
 
-I.- El Consejo Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-II.- El Centro Estatal de Operaciones;
+I.- El Gobernador del Estado;
 
-III.- La Unidad Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-IV.- Los Sistemas Municipales de Protección Civil;
+II.- El Consejo Estatal de Protección Civil;
 
-V.- Las dependencias o Unidades Administrativas Municipales, cuyo objeto sea la protección civil;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-VI.- Los grupos voluntarios, organizaciones vecinales y las no gubernamentales;
+III.- La Secretaría de Seguridad Pública y Protección Civil;
 
-VII.- Las unidades de respuesta en los establecimientos; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+IV.- La Subsecretaría de Protección Civil;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+V.- Los Sistemas Municipales de Protección Civil;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+VI.- Los grupos voluntarios;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+VII.- Las Unidades Internas de Protección Civil de las dependencias y los establecimientos; y
 
 VIII.- En general, la información relativa a las Unidades de Protección Civil, de los sectores público, social y privado, que operen en la Entidad.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 11.
 
-Podrá integrarse al Sistema Estatal de Protección Civil, la información aportada por las delegaciones, representaciones y dependencias de la Administración Pública Federal que desarrollen actividades en el Estado, tendientes a la ejecución de programas de prevención, auxilio y apoyo de la población o que atiendan asuntos relacionados con el ramo.
+Podrán integrarse al Sistema Estatal de Protección Civil, la información y acciones aportadas por las delegaciones, representaciones y dependencias de la Administración Pública Federal que desarrollen actividades en el Estado, tendientes a la ejecución de programas de prevención, auxilio y apoyo de la población o que atiendan asuntos relacionados con el ramo.
 
 ### CAPITULO III. Del Consejo Estatal de Protección Civil
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 12.
 
-El Consejo Estatal de Protección Civil es la institución de coordinación, consulta, planeación y supervisión del Sistema Estatal de Protección Civil, así como de colaboración y participación, que tiene como fin proteger la vida, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente, ante los riesgos, altos riesgos, emergencias o desastres, producidos por causas de origen natural o humano.
+El Consejo Estatal de Protección Civil, es el órgano de coordinación, consulta, planeación y supervisión del Sistema Estatal de Protección Civil, así como de colaboración y participación, que tiene como fin proteger la vida, la salud y los bienes materiales de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente, ante los riesgos, altos riesgos, emergencias o desastres, producidos por causas de origen natural o humano.
 
 ###### ARTICULO 13.
 
 El Consejo Estatal de Protección Civil se integra por:
 
-I.- El Secretario de Seguridad Pública y Protección Ciudadana, quien lo presidirá;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-II.- El Titular de la Unidad Estatal de Protección Civil, quien fungirá como Secretario Ejecutivo;
+I.- El Gobernador del Estado, quien lo presidirá;
 
-III.- Los Coordinadores de los Comités Especializados de Protección Civil;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-IV.- Los Titulares de las dependencias y entidades de la Administración Pública Estatal, relacionadas con el ramo;
+II.- El Secretario de Seguridad Pública y Protección Civil, quien fungirá como Secretario Ejecutivo;
 
-V.- Los Delegados o los Representantes en el Estado, de las dependencias y entidades de la administración Pública Federal, invitados por la Presidencia del Consejo, cuyos ámbitos de competencia se relacionan con el ramo;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-VI.- Los Representantes de Organizaciones sociales y privadas; y
+III.- El Subsecretario de Protección Civil, quien será el Secretario Técnico;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+IV.- Los Titulares de las dependencias del Gobierno Federal en el Estado;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+V.- Los Titulares de las dependencias de la administración pública estatal siguientes de Desarrollo Social, de Finanzas y Administración, de Desarrollo Urbano y Obras Públicas, de Educación Guerrero, de Salud, de Fomento Turístico, de Desarrollo Rural, del Medio Ambiente y Recursos Naturales del Estado, de Asuntos Indígenas, así como la Contraloría General del Estado, la Procuraduría General de Justicia y las demás que determine el Consejo Estatal de Protección Civil, que sean necesarias para atender los riesgos, altos riesgos, emergencias o desastres;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+VI.- Los Presidentes de las Comisiones Ordinarias del H. Congreso del Estado de Protección Civil, de Seguridad Pública, de Salud, de Educación, Ciencia y Tecnología y de Recursos Naturales y Desarrollo Sustentable; y
 
 VII.- Los Grupos Voluntarios de Protección Civil.
 
-Con excepción del Secretario Ejecutivo, cada Consejero propietario nombrará a un suplente.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
-A convocatoria del Consejo, se invitará a participar a los representantes de las Organizaciones del sector social y privado, así como de las Instituciones de Educación Superior del Estado, interviniendo en las sesiones con voz pero sin voto. Los cargos de Consejeros serán honoríficos, excepto el del Secretario Ejecutivo, que es el Director de la Unidad Estatal de Protección Civil, quien será designado por el Titular del Poder Ejecutivo Estatal.
+Con excepción de los Secretarios Ejecutivo y Técnico, cada consejero propietario nombrará a un suplente.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
+A convocatoria del Consejo Estatal de Protección Civil se invitará a participar a los a las Instituciones de Educación Superior del Estado, interviniendo en las sesiones con voz pero sin voto. Los cargos en el Consejo serán de carácter honoríficos.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2007)</small>
+
+###### ARTICULO 13 Bis.
+
+Los titulares de las dependencias a que se refiere la fracción V del artículo anterior, en el ámbito de sus competencias tienen la obligación de coadyuvar en las acciones o tareas del Consejo Estatal o Subsecretaría de Protección Civil, en momentos normales y en situaciones de emergencia o desastre, de igual forma las que le establezca el Programa Estatal de Protección Civil y el Plan Estatal de Emergencia.
 
 ###### ARTICULO 14.
 
@@ -235,23 +313,29 @@ El Consejo Estatal de Protección Civil, tendrá las siguientes atribuciones:
 
 I.- Coordinar y operar el Sistema Estatal de Protección Civil;
 
-II.- Elaborar, aplicar, evaluar y difundir el Programa Estatal de Protección Civil. Lo propio harán los Consejos Municipales en el ámbito de su respectiva competencia;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+II.- Aprobar y evaluar el Programa Estatal de Protección Civil anualmente y el Plan Estatal de Emergencia que formule la Subsecretaría de Protección Civil;
 
 III.- Fungir como órgano de asesoría, consulta y coordinación de las acciones del Gobierno para integrar, concertar e inducir las actividades de los sectores público, social y privado, con la finalidad de garantizar el objetivo fundamental del Sistema Estatal de Protección Civil;
 
 IV.- Expedir las reglas para la organización y funcionamiento del Sistema Estatal de Protección Civil;
 
-V.- Vincular el Sistema Estatal de Protección Civil con los Sistemas Municipales, Estatales de las Entidades vecinas y con el Sistema Nacional, procurando su adecuada coordinación y la celebración de convenios de colaboración y ayuda mutua en áreas limítrofes;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-VI.- Fomentar la participación ciudadana en la formulación y ejecución del Programa Estatal de Protección Civil y de los programas especiales destinados a satisfacer las necesidades de protección civil del Estado;
+V.- Vincular el Sistema Estatal de Protección Civil con los Sistemas Municipales, Estatales de las entidades vecinas procurando su adecuada coordinación y la celebración de convenios de colaboración y ayuda mutua en áreas limítrofes;
 
-VII.- Vigilar el adecuado uso y aplicación de los recursos que se asignen a la prevención, apoyo, auxilio y recuperación de la población ante un desastre;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+VI.- Fomentar la participación ciudadana en la ejecución del Programa de Protección Civil y de los Programas Especiales destinados a satisfacer las necesidades de protección civil del Estado;
+
+VII.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
 
 VIII.- Fomentar la instalación trianual de los Consejos Municipales de Protección Civil y la operación de los Sistemas Municipales;
 
-IX.- Constituir las coordinaciones de los Comités Especializados de Protección Civil, por tipo de fenómeno perturbador, y aquellas comisiones que se estimen necesarias para la realización de su objetivo, delegando las facultades o atribuciones correspondientes, sin perjuicio de su ejercicio directo;
+IX.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
 
-X.- Promover la capacitación permanente en materia de protección civil;
+X.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
 
 XI.- Gestionar ante las autoridades competentes, la elaboración e incorporación en los planes de estudios del sector educativo, materias y programas para la generación de una cultura de protección civil, entre la población escolar;
 
@@ -259,9 +343,37 @@ XII.- Elaborar, publicar y distribuir material informativo de protección civil,
 
 XIII.- Convocar y coordinar, con pleno respeto a sus respectivas atribuciones, la participación de las delegaciones y representaciones de las dependencias Federales establecidas en el Estado;
 
-XIV.- Recibir, estudiar y, en su caso, aprobar el informe anual de los trabajos del Consejo; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-XV.- Las demás atribuciones afines a éstas que le sean encomendadas por el Gobernador del Estado o que establezcan las Leyes y sus reglamentos.
+XIV.- Recibir, analizar y, en su caso, aprobar el informe anual de los trabajos del Consejo Estatal de Protección Civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2007)</small>
+
+XV.- Promover y asignar acuerdos de coordinación en materia de protección civil, con instituciones de educación superior, organismos intermedios, colegios y asociaciones de ingenieros y arquitectos;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2007)</small>
+
+XVI.- Prever fondos para la atención de emergencias y desastres, el cual deberá estar integrado con los recursos públicos del Estado, atendiendo las disposiciones que en la materia se señalen;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2007)</small>
+
+XVII.- Establecer coordinación con los Sistemas Municipales de Protección Civil, para programar y realizar acciones regionales, en particular en zonas conurbadas;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2007)</small>
+
+XVIII.- Coordinar las acciones ante una situación de emergencia o desastre en el Estado, con el Sistema Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2007)</small>
+
+XIX.- Elaborar y aprobar los lineamientos técnicos para la elaboración de los Programas Municipales de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2007)</small>
+
+XX.- Validar el Programa Municipal de Protección Civil que se le presente; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 16 DE MARZO DE 2007)</small>
+
+XXI.- Las demás que le sean encomendadas por el Gobernador del Estado o que establezcan las Leyes y sus Reglamentos vigentes en la Entidad.
 
 ###### ARTICULO 15.
 
@@ -287,25 +399,27 @@ V.- Contar con voto de calidad en las sesiones, en caso de empate;
 
 VI.- Proponer y someter a consideración del Consejo para su aprobación, los planes y programas anuales en la materia, procurando su amplia difusión en el Estado;
 
-VII.- Expedir el Reglamento de Operación del Sistema Estatal de Protección Civil;
+VII.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
 
 VIII.- Vincularse, coordinarse, y en su caso, solicitar apoyo al Sistema Nacional de Protección Civil para garantizar la seguridad, auxilio y rehabilitación de la población civil y su entorno ante algún riesgo, alto riesgo, emergencia o desastre;
 
 IX.- Coordinarse con las Dependencias Federales y con las instituciones privadas y del sector social, en la aplicación y distribución de la ayuda nacional e internacional que se reciba en caso de alto riesgo, emergencia o desastre;
 
-X.- Evaluar ante una situación de emergencia o desastre, la capacidad de respuesta del Sistema Estatal de Protección Civil y, en su caso, informar al Gobernador sobre la procedencia de solicitar apoyo al Gobierno Federal;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+X.- Solicitar apoyo al Gobierno Federal, ante una situación de emergencia o desastre, cuando la capacidad de respuesta del Estado sea rebasada;
 
 XI.- Ordenar la integración y coordinación de los equipos de trabajo para dar respuesta frente a emergencias y desastres, especialmente para asegurar el mantenimiento y pronto restablecimiento de los servicios fundamentales;
 
-XII.- Autorizar:
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-a) La puesta en operación de los programas de emergencia para los diversos factores de riesgo; y
-
-b) La difusión de los avisos y alertas respectivas.
+XII.- Coordinar y dirigir las acciones del Consejo Estatal de Protección Civil en situaciones de emergencia o desastre, así como ordenar la aplicación del Plan Estatal de Emergencia;
 
 XIII.- Ejercer la representación legal del Consejo;
 
-XIV.- Mantener permanentemente informado al Gobernador sobre las actividades del Consejo y presentarle de inmediato la evaluación inicial de la magnitud de altos riesgos, emergencias o desastres; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+XIV.- Establecer convenios de coordinación y colaboración con las dependencias del Gobierno Federal, Estatal y Municipal, así como con las unidades de protección civil de los Estados colindantes e instituciones del sector social, privado, académico y profesional; y
 
 XV.- Las demás que le confieran las Leyes, los Reglamentos, el Gobernador o el Consejo Estatal de Protección Civil.
 
@@ -317,225 +431,447 @@ I.- Auxiliar al Presidente del Consejo Estatal de Protección Civil;
 
 II.- Elaborar y someter a la consideración del Presidente, el programa de trabajo y el proyecto de calendario de sesiones del Consejo;
 
-III.- Presidir las sesiones del Consejo en ausencia del Presidente, siempre que no hubiere otra indicación, en cuyo caso, se designará provisionalmente un secretario ejecutivo;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+III.- Presidir las sesiones del Consejo Estatal de Protección Civil, en ausencia del Presidente;
 
 IV.- Someter a la consideración del Presidente, el orden del día para cada sesión;
 
-V.- Convocar por escrito a las sesiones ordinarias y extraordinarias del Consejo, cuando su Presidente así lo determine;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-VI.- Verificar que el quórum legal para cada sesión del Consejo, se encuentre reunido y comunicarlo al Presidente del Consejo;
+V.- Ordenar al Secretario Técnico convoque a las sesiones ordinarias, así como a las extraordinarias del Consejo Estatal de Protección Civil, cuando el Presidente así lo determine;
 
-VII.- Elaborar y certificar las actas del Consejo y dar fe de su contenido;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-VIII.- Registrar las resoluciones y acuerdos del Consejo y sistematizarlos para su seguimiento;
+VI.- Verificar el quórum para cada sesión del Consejo y comunicarlo al Presidente;
 
-IX.- Informar al Consejo sobre el estado que guarde el cumplimiento de los acuerdos y resoluciones;
+VII.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
 
-X.- Rendir un informe anual de los trabajos del Consejo y de sus comités;
+VIII.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
+
+IX.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+X.- Rendir un informe anual de los trabajos del Consejo Estatal de Protección Civil;
 
 XI.- Conducir operativamente al Sistema Estatal de Protección Civil e informar al Consejo sobre el estado que guarda;
 
-XII.- Reunir y mantener actualizada la información del Sistema Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-XIII.- Llevar el registro de los recursos disponibles para casos de emergencias y desastres;
+XII.- Ordenar la puesta en operación de los programas de emergencia para los diversos factores de riesgos; establecer los estados de prealerta, alerta y alarma, cuando se perciba un peligro o alta probabilidad de ocurrir un fenómeno perturbador;
 
-XIV.- Someter a la consideración del Consejo, los Reglamentos y las demás normas que estime pertinentes para su buen funcionamiento; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+XIII.- Proponer convenios de coordinación y colaboración con las dependencias federales, estatales y municipales para el cumplimiento de los objetivos y fines de la presente Ley;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+XIV.- Someter a la consideración del Pleno del Consejo Estatal de Protección Civil, los instrumentos legales para su operatividad y publicarlos en el Periódico Oficial del Gobierno del Estado; y
 
 XV.- Las demás que les confieran las Leyes, sus Reglamentos, el Consejo o su Presidente.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2007)</small>
+
+###### ARTICULO 17 Bis.
+
+Corresponde al Secretario Técnico:
+
+I.- Mantener informado al Secretario Ejecutivo del seguimiento de los trabajos del Consejo Estatal de Protección Civil;
+
+II.- Elaborar y presentar al Secretario Ejecutivo el calendario anual de sesiones, así como el orden del día para su aprobación;
+
+III.- Convocar a sesiones ordinarias y extraordinarias;
+
+IV.- Fungir como Secretario Ejecutivo, cuando éste cubra la ausencia del Presidente, en la sesión correspondiente;
+
+V.- Elaborar y certificar las actas del Consejo Estatal de Protección Civil;
+
+VI.- Actualizar la información del Sistema Estatal de Protección Civil;
+
+VII.- Implementar mecanismos y estrategias de comunicación permanente con los Sistemas Municipales de Protección Civil;
+
+VIII.- Promover acuerdos que permitan la coordinación y colaboración para el desarrollo de las actividades de protección civil con dependencias del Gobierno Federal, Estatal y Municipal; y
+
+IX.- Las demás que le señale la presente Ley y su Reglamento, el Consejo Estatal de Protección Civil o el Secretario Ejecutivo de dicho Consejo.
+
 ### CAPITULO IV. Del Centro Estatal de Operaciones
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 18.
 
-Cuando se presente un alto riesgo, emergencia o desastre en el Estado, el Consejo Estatal de Protección Civil, se erigirá, previa convocatoria de su Presidente, en el Centro Estatal de Operaciones; al que se integrarán los responsables de las dependencias de la Administración Pública Estatal, Municipal y, en su caso, las Federales que se encuentren establecidas en la Entidad, así como representantes de los sectores social y privado y grupos voluntarios, cuya participación sea necesaria para el auxilio y recuperación de la población de la zona afectada.
+El Centro Estatal de Operación será una instancia de carácter permanente y tendrá por objeto proporcionar auxilio a la ciudadanía cuando esta haya sido afectada por causas de origen natural o humanas y estará dirigido técnica y logísticamente por el Gobernador del Estado, a través del Secretario de Seguridad Pública y Protección Civil, la operación será responsabilidad de la Subsecretaría de Protección Civil. Ante una emergencia o desastre el Centro Estatal de Operación deberá ubicarse de manera estratégica en la zona siniestrada.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 19.
 
-Compete al Consejo Estatal de Protección Civil, como Centro Estatal de Operaciones:
+Compete al Centro Estatal de Operación:
 
-I.- Coordinar y dirigir técnica y operativamente la atención del alto riesgo, emergencia o desastre;
+I.- Coordinar la aplicación del Plan Estatal de Emergencia;
 
-II.- Realizar la planeación táctica, logística y operativo, de los recursos necesarios, su aplicación y las acciones a seguir;
+II.- Establecer la operación de redes de comunicación, disponibles del Sistema Estatal de Seguridad Pública, para asegurar la eficacia del auxilio;
 
-III.- Aplicar el plan de emergencia o los programas aprobados por el Consejo y asegurar la adecuada coordinación de las acciones que realicen los grupos voluntarios; y
+III.- Ejecutar programas o planes específicos para la prestación de auxilio;
 
-IV.- Establecer la operación de redes de comunicación, disponibles en situaciones de normalidad, para asegurar la eficacia de las mismas en situaciones de emergencia.
+IV.- Implementar mecanismos de coordinación con los centros regionales y municipales de operación, para proporcionar un servicio de auxilio inmediato a la población;
 
-### CAPITULO V. De la Unidad Estatal de Protección Civil
+V.- Informar al Secretario de Seguridad Pública y Protección Civil de las acciones que se están desarrollando y el estado que guarda la emergencia;
+
+VI.- Apoyarse en los grupos voluntarios y en la población en general cuando la capacidad de respuesta de la Subsecretaría de Protección Civil haya sido rebasada;
+
+VII.- Conocer los atlas de riesgo estatal y municipal para tener identificadas las zonas o áreas vulnerables y los riesgos a que se enfrenta la sociedad; y
+
+VIII.- Las demás que le sean encomendadas por el Secretario de Seguridad Pública y Protección Civil o que establezcan las Leyes y sus Reglamentos vigentes en la Entidad.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MARZO DE 2006)</small>
+
+### CAPITULO V. De la Subsecretaría de Protección Civil
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 20.
 
-La Unidad Estatal Protección Civil, dependiente de la Secretaría de Seguridad Pública y Protección Ciudadana, es el órgano encargado de proponer, dirigir, presupuestar, ejecutar y vigilar la protección civil en el Estado, así como el control operativo de las acciones que en la materia se efectúen, en coordinación con los sectores público, social, privado, grupos voluntarios y la población en general, en apoyo a las resoluciones que dicten el Consejo Estatal o el Centro Estatal de Operaciones.
+La Subsecretaría de Protección Civil, dependiente de la Secretaría de Seguridad Pública y Protección Civil, es el órgano encargado de proponer, dirigir, presupuestar, ejecutar y vigilar la protección civil en el Estado, así como el control operativo de las acciones que en la materia se efectúen, en coordinación con los sectores público, social, privado, grupos voluntarios y la población en general, en apoyo a las resoluciones que dicte el Consejo Estatal de Protección Civil.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 21.
 
-La Unidad Estatal de Protección Civil se integrará por:
+La Subsecretaría de Protección Civil se integrará por:
 
-I.- Un Director, que será nombrado por el Gobernador del Estado;
+I.- Un Subsecretario;
 
-II.- Los Subdirectores y/o Jefes de Departamentos operativos que sean necesarios; y
+II.- Un Director General de Sistema y Normatividad;
 
-III.- El personal técnico, administrativo y operativo que sea necesario y autorice el presupuesto respectivo.
+III.- Un Director General de Atención a Desastres y Policía Ecológica; y
+
+IV.- Los Departamentos y áreas técnicas, administrativas y operativas que sean necesarias de acuerdo al presupuesto autorizado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 22.
 
-La Unidad Estatal de Protección Civil tendrá las siguientes atribuciones:
+La Subsecretaría de Protección Civil tendrá las siguientes atribuciones:
 
-I.- Elaborar y presentar para su aprobación, al Presidente del Consejo Estatal, el proyecto del Programa Estatal de Protección Civil, así como sus Subprogramas, planes y programas especiales;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-II.- Elaborar el inventario de recursos humanos y materiales disponibles en la Entidad, para hacer frente a un riesgo, alto riesgo, emergencia o desastre y coordinar su manejo;
+I.- Promover y supervisar la elaboración del proyecto del Programa Estatal de Protección Civil, así como el Plan Estatal de Emergencia y presentarlos al Secretario de Seguridad Pública y Protección Civil, para su aprobación y aplicación correspondiente;
 
-III.- Proponer, coordinar y ejecutar las acciones de auxilio y recuperación para hacer frente a las consecuencias de un riesgo, alto riesgo, emergencia o desastre, procurando el mantenimiento o pronto restablecimiento de los servicios públicos prioritarios en los lugares afectados;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-IV.- Establecer y operar los centros de acopio de recursos y abastecimientos, para recibir y brindar ayuda a la población afectada;
+II.- Elaborar y mantener actualizado el inventario de recursos humanos y materiales disponibles en la Entidad, para hacer frente a un riesgo, alto riesgo, emergencia o desastre y coordinar su manejo;
 
-V.- Organizar y llevar a cabo acciones de capacitación para la sociedad en materia de protección civil;
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2007)</small>
+
+II Bis.- Promover el registro de empresas, consultorías o de personas físicas que se dediquen a brindar los servicios de capacitación en la materia, previo requisitos que para tal efecto, se establezca en el Reglamento de la Ley;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+III.- Proponer, coordinar y ejecutar las acciones de auxilio y recuperación para hacer frente a las consecuencias de una emergencia o desastre;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+IV.- Promover la instalación y operación de los centros de acopio de recursos y abastecimientos, para recibir y brindar ayuda a la población afectada;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+V.- Fomentar acciones de capacitación para la sociedad en materia de protección civil;
 
 VI.- Coadyuvar en la promoción de la cultura de protección civil, promoviendo lo conducente ante las autoridades del sector educativo;
 
 VII.- Proponer las medidas y los instrumentos que permitan el establecimiento de eficientes y oportunos canales de colaboración entre la Federación, el Estado y los Municipios en materia de protección civil;
 
-VIII.- Identificar los altos riesgos que se presenten en el Estado, integrando los atlas correspondientes y apoyar a las unidades municipales de protección civil para la elaboración de sus mapas de riesgos;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-IX.- Promover la integración de las unidades internas de protección civil en las Dependencias y Organismos de la Administración Pública Estatal y de la Federal establecidas en las Entidad y de manera supletoria en las municipales;
+VIII.- Identificar los altos riesgos que se presenten en el Estado, y emitir las recomendaciones necesarias, integrando los atlas de riesgo Estatal y Municipal y apoyar a las Unidades Municipales de Protección Civil, para la elaboración de sus mapas correspondientes;
 
-X.- Proporcionar información y dar asesoría a los establecimientos públicos, sociales y privados, para integrar sus unidades internas de respuesta y de promover su participación en las acciones de protección civil;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-XI.- Llevar el registro, validar, capacitar y coordinar la participación de los
+IX.- Dirigir, coordinar y supervisar el Centro Estatal de Operación;
 
-grupos voluntarios;
+X.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+XI.- Promover la creación de grupos voluntarios de protección civil;
 
 XII.- Establecer el subsistema de información de cobertura estatal en la materia, el cual deberá contar con mapas de riesgos y archivos históricos sobre emergencias y desastres ocurridos en el Estado;
 
-XIII.- En caso de alto riesgo, emergencia o desastre, formular la evaluación inicial de la magnitud de la contingencia, presentando de inmediato esta información al Presidente del Consejo Estatal de Protección Civil, quien a su vez lo hará del conocimiento del Gobernador;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-XIV.- Proponer un programa de premios y estímulos a ciudadanos u organizaciones gubernamentales, sociales, privadas y grupos voluntarios que realicen acciones relevantes en materia de protección civil;
+XIII.- Formular la evaluación inicial de la magnitud de la contingencia, en caso de alto riesgo, emergencia o desastre, presentando de inmediato esta información al Secretario de Seguridad Pública y Protección Civil, quien a su vez lo hará del conocimiento del Gobernador;
 
-XV.- Fomentar la participación de los medios de comunicación masiva a fin de llevar a cabo campañas permanentes de difusión;
+XIV.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
 
-XVI.- Promover la protección civil en sus aspectos normativo, operativo, de coordinación y de participación;
+XV.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
+
+XVI.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
 
 XVII.- Realizar acciones de auxilio y recuperación para atender las consecuencias de los efectos destructivos de un desastre;
 
 XVIII.- Coordinarse con las autoridades federales y municipales, así como con instituciones y grupos voluntarios para prevenir y controlar riesgos, altos riesgos, emergencias, y desastres;
 
-XIX.- Ejercer la inspección, control y vigilancia, de los establecimientos de competencia estatal siguientes:
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-a) Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, campamentos turísticos, centros vacacionales.
+XIX.- Realizar la inspección, control y vigilancia de los establecimientos de competencia estatal señalados en la presente Ley y su Reglamento, que por su operatividad representen algún riesgo para la sociedad;
 
-b) Escuelas y centros de estudios superiores en general.
+XX.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
 
-c) Hospitales, maternidades, centros médicos, clínicas, puestos de socorro.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-d) Cinemas, teatros, auditorios, gimnasios, estadios, arenas, autódromos, plazas de toros, hipódromos y velódromos.
+XXI.- Señalar las medidas de seguridad necesarias y agotar el procedimiento administrativo para emitir la resolución correspondiente y aplicar las sanciones que establece la presente ley;
 
-e) Parques, plazas, centros o clubes sociales o deportivos, balnearios.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-f) Centros nocturnos, discotecas o salones de baile.
+XXII.- Desarrollar las acciones aprobadas por el Consejo Estatal de Protección Civil, para cumplir con los objetivos del Sistema Estatal de Protección Civil;
 
-g) Museos, galerías de arte, centros de exposición, salas de conferencias y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2007)</small>
 
-bibliotecas.
+XXIII.- Expedir constancia de factibilidad en materia de protección civil para nuevos asentamientos humanos o fraccionamientos, siendo requisito indispensable para que los Ayuntamientos otorguen la licencia de uso de suelo;
 
-h) Templos y demás edificios destinados al culto religioso.
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2007)</small>
 
-i) Centros comerciales, supermercados, tiendas de departamentos,
+XXIV.- Expedir constancia de factibilidad en materia de protección civil para la instalación de los establecimientos que por su funcionamiento o naturaleza representen riesgo para la población, siendo requisito indispensable para que los Ayuntamientos otorguen la licencia de funcionamiento correspondiente;
 
-mercados.
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2007)</small>
 
-j) Oficinas de la Administración Pública Estatal, incluyendo las correspondientes a organismos descentralizados y concesionarios de servicios públicos, así como las dedicadas a oficinas de administración privada, de profesionales, de la industria, de la banca y del comercio.
+XXV.- Establecer mecanismos de coordinación con las instancias competentes para participar en la actualización del Plan Director de Desarrollo Urbano Estatal y Municipal;
 
-k) Centrales y delegaciones de policía, centros de readaptación social, y demás edificios e instalaciones destinados a proporcionar y preservar la seguridad pública.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2007)</small>
 
-I) Industrias, talleres o bodegas sobre terrenos con superficies iguales o mayores a mil metros cuadrados.
+XXVI.- Las demás que le confiera el Secretario de Seguridad Pública y Protección Civil, la presente Ley y demás ordenamientos jurídicos, así como las que se deriven de los acuerdos y resoluciones del Consejo Estatal de Protección Civil.
 
-m) Destino final de desechos sólidos.
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2007)</small>
 
-n) Rastros de semovientes y aves, empacadoras, granjas para ganadería,
+###### ARTICULO 22 Bis.
 
-porcicultura, avicultura, cunicultura y apicultura.
+La Dirección General de Sistema y Normatividad tendrá las atribuciones siguientes:
 
-o) Centrales de correos, de teléfonos, de telégrafos, estaciones y torres de radio, televisión, sistemas de microondas.
+I.- Elaborar y proponer al Subsecretario el Programa de Protección Civil para su análisis y trámite correspondiente;
 
-p) Terminales de transportes de carga, de transportes de pasajeros urbanos y foráneos, aeropuertos.
+II.- Elaborar y ejecutar proyectos de investigación que permitan identificar los riesgos en la Entidad y proponer las alternativas de solución;
 
-q) Edificios para estacionamientos de vehículos.
+III.- Promover foros, conferencias o pláticas en materia de protección civil, a efecto de concienciar a la sociedad sobre la cultura de la autoprotección;
 
-r) Terminales de almacenamiento y distribución o expendio de hidrocarburos, plantas de almacenamiento y distribución de gas L. P., estaciones de servicio y/o expendio de gasolina, estaciones de carburación, así como de otras instalaciones destinadas para estos fines.
+IV.- Proporcionar información y asesoría a los establecimientos públicos, sociales y privados para integrar las Unidades Internas de Protección Civil;
 
-s) Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área mayor a los mil quinientos metros cuadrados.
+V.- Proponer un programa de premios y estímulos a ciudadanos u organizaciones públicas y privadas, así como a grupos voluntarios que realicen acciones relevantes en materia de protección civil;
 
-XX.- Realizar visitas de inspección a expendios de pinturas y solventes, talleres de fabricación de artificios pirotécnicos y en general, a establecimientos que representen en su operación un riesgo potencial y/o real;
+VI.- Promover la participación de los medios de comunicación masiva a fin de llevar a cabo campañas de difusión en la materia, en la que se deberán incluir a las etnias de las regiones del Estado, para transmitir los mensajes preventivos o de alerta en sus dialectos respectivos;
 
-XXI.- Señalar las medidas de seguridad necesarias e imponer las sanciones correspondientes conforme a la presente Ley;
+VII.- Difundir la normatividad que regula la operación y funcionamiento del Sistema Estatal de Protección Civil;
 
-XXII.- Coadyuvar con el Consejo Estatal de Protección Civil en la conducción y operación del Sistema Estatal de Protección Civil; y
+VIII.- Proponer acuerdos de coordinación con dependencias del Gobierno Federal, Estatal y Municipal, así como con instituciones públicas y privadas, para la ejecución de acciones preventivas y trabajos de investigación en la materia;
 
-XXIII.- Las demás que le confiera el Ejecutivo del Estado, el Secretario de Seguridad Pública y Protección Ciudadana, la presente Ley y demás ordenamientos jurídicos, así como las que se deriven de los acuerdos y resoluciones del Consejo Estatal de Protección Civil.
+IX.- Llevar a cabo visitas de inspección a asentamientos humanos ubicados en zonas de alto riesgo, para emitir las recomendaciones procedentes para su aplicación;
+
+X.- Realizar visitas de inspección a viviendas o establecimientos en general, que por alguna causa hayan sufrido daños en su estructura;
+
+XI.- Organizar y desarrollar acciones de capacitación en materia de protección civil en coordinación con las Unidades Municipales de Protección Civil a la sociedad en general;
+
+XII.- Realizar visitas de inspección a los establecimientos de competencia Estatal siguientes:
+
+a) Plantas de almacenamiento y distribución de gas licuado de petróleo.
+
+b) Estaciones de carburación.
+
+c) Estaciones de servicio.
+
+d) Polvorines.
+
+e) Instalaciones mineras, fábricas o industrias.
+
+f) Hoteles, moteles, hospitales de segundo nivel, entre otras construcciones de dimensiones considerables.
+
+g) Instituciones educativas que imparten la enseñanza secundaria, así como del nivel medio superior y superior.
+
+h) Centros naturales recreativos, para verificar las medidas de seguridad con que operan los prestadores de servicio turístico.
+
+i) Tiendas departamentales y de autoservicio.
+
+j) Presas, puentes y cualquier otra instalación de mayor riesgo.
+
+XIII.- Elaborar una base de datos de empresas que transporten sustancias químicas o residuos peligrosos, identificando rutas y sitios de almacenamientos, para ser inspeccionados; y
+
+XIV.- Las demás que señale la presente Ley, el Reglamento o las que determine el Subsecretario de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2007)</small>
+
+###### ARTICULO 22 Bis 1.
+
+La Dirección General de Atención a Desastres y Policía Ecológica tendrá las atribuciones siguientes:
+
+I.- Participar con la Dirección de Sistema y Normatividad en la elaboración del Programa de Protección Civil, para su análisis y trámite correspondiente;
+
+II.- Establecer acuerdos de coordinación con dependencias del Gobierno Federal, Estatal y Municipal, así como con instituciones públicas y privadas, para la ejecución de acciones de auxilio o recuperación de la población afectada en la ocurrencia de un agente perturbador de origen natural o humano;
+
+III.- Operar y coordinar las acciones que desarrollen las coordinaciones regionales de protección civil en la Entidad, en las fases de prevención, auxilio y recuperación;
+
+IV.- Promover y realizar la capacitación del personal en las diversas ramas, así como a los integrantes de los grupos voluntarios de Protección Civil, registrados ante la Subsecretaría de Protección Civil;
+
+V.- Implementar acciones que permitan inhibir conductas delictivas que causen daños ecológicos;
+
+VI.- Llevar a cabo la detención y puesta a disposición de la autoridad competente en los casos de flagrante delito, así como coadyuvar en los arrestos por faltas administrativas de acuerdo a lo dispuesto en la legislación aplicable;
+
+VII.- Presentar propuestas de convenios de coordinación y colaboración con dependencias federales, estatales y municipales que permitan y faciliten el cumplimiento de las funciones encomendadas;
+
+VIII.- Proponer y operar la instalación de albergues temporales en cada una de las regiones del Estado;
+
+IX.- Integrar una base de datos de las instituciones de atención médica públicas y privadas, a efecto de establecer convenios de coordinación en la operación de albergues temporales;
+
+X.- Promover la participación en las acciones de protección civil, de los grupos voluntarios y llevar su registro correspondiente;
+
+XI.- Promover la integración de las Unidades Internas de Protección Civil en las dependencias y organismos de la administración pública estatal y federal establecidas en la Entidad;
+
+XII.- Realizar acciones de auxilio y recuperación para atender las consecuencias de los efectos destructivos de un fenómeno;
+
+XIII.- Elaborar un registro de las unidades de atención de emergencias, para verificar que cumplan con la normatividad vigente en la materia;
+
+XIV.- Realizar los trabajos de evaluación de daños e informarlo al Subsecretario de Protección Civil, en caso de presentarse una emergencia o riesgo;
+
+XV.- Las demás que señale la presente Ley, el Reglamento y las que determine el Subsecretario de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2007)</small>
+
+###### ARTICULO 22 Bis 2.
+
+Para ser Subsecretario de Protección Civil se deberá cumplir con los requisitos siguientes:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos
+
+II.- Contar con licenciatura de una rama afín a la materia y poseer cédula profesional;
+
+III.- Tener experiencia mínima de cinco años en materia de protección civil; y
+
+IV.- Gozar de buena reputación y honorabilidad reconocida.
+
+Para ser Director General de la Subsecretaría de Protección Civil, se deberá cumplir con los requisitos establecidos en el presente artículo.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 23.
 
-La Unidad Estatal de Protección Civil, promoverá que los establecimientos a que se refiere esta Ley, instalen sus propias unidades internas de respuesta, asesorándolos y coordinando sus acciones directamente o a través de las unidades municipales.
+La Subsecretaría de Protección Civil promoverá que los establecimientos a que se refiere esta Ley, instalen sus propias unidades internas de respuesta, asesorándolos y coordinando sus acciones directamente o a través de las Unidades Municipales de Protección Civil.
 
-Los establecimientos deberán realizar, cuando menos tres veces al año, simulacros para hacer frente a altos riesgos, emergencias o desastres, asistidos por la Unidad Estatal o Municipal de Protección Civil, según corresponda.
+Los establecimientos deberán realizar, cuando menos tres veces al año, simulacros para hacer frente a altos riesgos, emergencias o desastres, asistidos por la Subsecretaría o Unidades Municipales de Protección Civil, según corresponda.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 24.
 
-Corresponde al Director de la Unidad Estatal de Protección Civil:
+Corresponde al Subsecretario de Protección Civil:
 
-I.- Coordinar, supervisar y evaluar, todas las acciones que se realicen en el desarrollo de las atribuciones de la Unidad;
+I.- Coordinar, supervisar y evaluar, las acciones que se realicen en el desarrollo de las atribuciones de la Subsecretaría de Protección Civil;
 
-II.- Coordinar las acciones de la Unidad con las autoridades Federales, Estatales y Municipales, así como los sectores social y privado, en materia de prevención y control de altos riesgos, emergencias y desastres;
+II.- Coordinar las acciones de la Subsecretaría de Protección Civil con las autoridades Federales, Estatales y Municipales, así como los sectores social y privado, en materia de la prevención y control de altos riesgos, emergencias y desastres;
 
-III.- Administrar los recursos humanos, materiales y financieros a cargo de la Unidad;
+III.- Administrar los recursos humanos, materiales y financieros a cargo de la Subsecretaría de Protección Civil;
 
-IV.- Designar a los inspectores de los establecimientos de competencia estatal;
+IV.- Designar a los inspectores de los establecimientos de competencia Estatal;
 
-V.- Ordenar la práctica de inspecciones a los establecimientos de competencia estatal, en la forma y términos que establece esta Ley y, en su caso, aplicar y ejecutar las sanciones que correspondan;
+V.- Representar al Secretario de Seguridad Pública y Protección Civil en las reuniones del Sistema Nacional de Protección Civil;
 
-VI.- Las demás que le confieran los ordenamientos jurídicos aplicables, el Secretario de Seguridad Pública y Protección Ciudadana o las que autorice el Consejo Estatal de Protección Civil.
+VI.- Ordenar la práctica de inspecciones a los establecimientos de competencia Estatal, en la forma y términos que establece esta Ley y, en su caso, aplicar y ejecutar las medidas de seguridad;
+
+VII.- Las demás que le confieran los ordenamientos jurídicos aplicables, el Secretario de Seguridad Pública y Protección Civil o las que autorice el Consejo Estatal de Protección Civil.
 
 ### CAPITULO VI. De los Sistemas Municipales de Protección Civil
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 25.
 
-En cada uno de los Municipios del Estado se establecerán Sistemas de Protección Civil, con la finalidad de organizar los planes y programas de prevención, auxilio y apoyo a la población ante situaciones de emergencia o desastre. Al frente de cada Sistema, estará el Presidente Municipal.
+En cada uno de los Municipios del Estado se establecerán Sistemas de Protección Civil, que serán instrumentos de información y consulta en la materia en el ámbito municipal con la finalidad de organizar los planes y programas de prevención, auxilio y apoyo a la población ante situaciones de emergencia o desastre. Al frente de cada Sistema de Protección Civil, estará el Presidente Municipal.
+
+Los Sistemas Municipales de Protección Civil serán operados a través de las Unidades de Protección Civil que para tal efecto se creen en los Ayuntamientos, mismos que serán presididos por los Presidentes Municipales.
+
+La creación de estas Unidades o su equivalente se hará de acuerdo a la disponibilidad presupuestaria de cada Municipio.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 26.
 
-Corresponde a los Ayuntamientos de la Entidad:
+Los Presidentes Municipales para cumplir con los objetivos en la materia, tendrán las obligaciones siguientes:
 
-I.- Formular y conducir la política de Protección Civil Municipal, en congruencia con los Planes, Programas y Acciones Federales y Estatales;
+I.- Presidir el Sistema Municipal de Protección Civil;
 
-II.- Prevenir y controlar las emergencias y contingencias que pudieran presentarse en el ámbito de su competencia;
+II.- Ordenar la elaboración del Programa y Plan de Emergencia Municipal de Protección Civil y someterlo al Pleno del Consejo Municipal de Protección Civil, para su análisis y aprobación, en su caso;
 
-III.- Dar respuesta ante las situaciones de riesgo, alto riesgo, emergencia o desastre que se presenten en el Municipio, sin perjuicio de solicitar apoyo a las autoridades de protección civil; y
+III.- Instalar el Consejo Municipal de Protección Civil, en el mes de enero del primer año de su mandato;
 
-IV.- Concertar acciones con los sectores público, social y privado en materia de protección civil en los términos de Ley.
+IV.- Promover la elaboración del Reglamento Municipal de Protección Civil;
+
+V.- Contemplar en su Presupuesto de Egresos de cada ejercicio fiscal una partida para la prevención y auxilio de la población ante una emergencia o desastre;
+
+VI.- Establecer comunicación permanente con autoridades estatales en la materia, en situaciones normales y ante emergencias o desastres;
+
+VII.- Difundir oportunamente a la población los riesgos a que está expuesta, por la ocurrencia de fenómenos perturbadores; así mismo señalar las medidas preventivas para mitigar sus efectos;
+
+VIII.- Ordenar la elaboración del Atlas Municipal de Riesgos;
+
+IX.- Suscribir convenios de coordinación en la materia;
+
+X.- Comunicar al Consejo Estatal de Protección Civil cuando exista riesgo, alto riesgo, emergencia o desastre en el Municipio;
+
+XI.- Proporcionar a la población alojamiento, alimentación, atención médica y seguridad pública ante una emergencia o desastre; y
+
+XII.- Las demás que le confieran las Leyes y Reglamentos Municipales.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2007)</small>
+
+###### ARTICULO 26 Bis.
+
+Los Consejos Municipales de Protección Civil, son órganos de coordinación, consulta, planeación y supervisión de los Sistemas Municipales de Protección Civil y estarán integrados por:
+
+I.- El Presidente Municipal, quien lo presidirá;
+
+II.- El Secretario General del Ayuntamiento, quien fungirá como Secretario Ejecutivo;
+
+III.- El Titular de la Unidad Municipal de Protección Civil, quien fungirá como Secretario Técnico;
+
+IV.- Un Regidor y los Directores de Seguridad Pública, de Desarrollo Urbano y Obras Públicas, de Salud, entre otros que determine el Consejo Municipal;
+
+V.- Los Titulares de las dependencias de la administración pública Federal, Estatal y Municipal con sede en el municipio; y
+
+VI.- Los Comisarios o Delegados Municipales y los Presidentes de los Comisariados Ejidales o de Bienes Comunales, con voz pero sin voto.
+
+Los cargos en el Consejo Municipal de Protección Civil, serán de carácter honorífico.
 
 ###### ARTICULO 27.
 
 Los Reglamentos que establezcan la organización y regulen la operación de los Sistema Municipales, serán expedidos por cada Ayuntamiento, tomando en consideración la disponibilidad de recursos humanos, materiales y financieros, así como el nivel de incidencia de riesgos, altos riesgos, emergencias o desastres.
 
-Cada Ayuntamiento deberá contar por lo menos, con una unidad de protección civil de carácter operativo.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 28.
 
-Los Municipios, por conducto de sus Sistemas Municipales de Protección Civil, elaborarán planes de prevención de riesgos, altos riesgos, emergencias o desastres, los que deberán ser dados a conocer a la población a través de una amplia divulgación en la localidad.
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 29.
 
-Los Sistemas Municipales, a través de la unidad correspondiente, estudiarán las formas para prevenir los riesgos, altos riesgos, emergencias o desastres, así como reducir y mitigar sus efectos, debiendo desarrollar sus programas en coordinación con la Unidad Estatal de Protección Civil.
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 30.
 
-En caso de que los efectos de un alto riesgo, emergencia o desastre, rebasen la capacidad de respuesta del correspondiente Sistema Municipal, el Presidente Municipal solicitará de inmediato el apoyo del Sistema Estatal, quien deberá prestar la ayuda respectiva en forma expedita.
+En caso de que los efectos de un alto riesgo, emergencia o desastre rebasen la capacidad de respuesta del Municipio, el Presidente del Consejo Municipal de Protección Civil solicitará de inmediato la intervención del Consejo Estatal de Protección Civil, quien deberá prestar la ayuda respectiva en forma expedita.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 31.
 
-Los Sistemas Municipales de Protección Civil, independientemente de la forma de organización que hayan adoptado, deberán cumplir con los siguientes objetivos:
+Los Consejos Municipales de Protección Civil deberán cumplir con las obligaciones siguientes:
 
-I.- Poner a la consideración del Ayuntamiento y, en su caso, ejecutar el Programa Municipal;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+I.- Revisar y aprobar el Programa y Plan de Emergencia Municipal de Protección Civil, que elabore el Titular de la Unidad Municipal de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2007)</small>
+
+I Bis.- Remitir al Consejo Estatal de Protección Civil el Programa Municipal de Protección Civil para su validación respectiva;
 
 II.- Promover la cultura de protección civil, desarrollando acciones de educación y capacitación a la población, en coordinación con las autoridades de la materia;
 
@@ -543,55 +879,91 @@ III.- Fomentar la participación activa y responsable de todos los habitantes de
 
 IV.- Prestar y coordinar el auxilio a la población en caso de que acontezca un alto riesgo, emergencia o desastre;
 
-V.- Realizar la inspección, control y vigilancia de los establecimientos e instalaciones de competencia municipal siguientes:
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-a) Edificios departamentales de hasta cuatro unidades de vivienda;
-
-b) Internados o casas de asistencia, que sirvan como habitación colectiva
-
-para un número no mayor de veinte personas;
-
-c) Oficinas y servicios públicos de la Administración Pública Municipal;
-
-d) Parques vehículares, unidades de gas L.P., camiones y pipas, así como, contenedores en cilindros estacionarios y portátiles;
-
-e) Jardines de niños, guarderías, dispensarios, consultorios y capillas de
-
-velación;
-
-f) Lienzos charros, circos o ferias eventuales;
-
-g) Actividades o establecimientos que tengan menos de mil quinientos metros cuadrados de construcción;
-
-h) Instalaciones de electricidad y alumbrado público;
-
-i) Drenajes hidráulicos, pluviales y de aguas residuales;
-
-j) Equipamientos urbanos, puentes peatonales, paraderos y señalamientos
-
-urbanos; y
-
-k) Anuncios panorámicos;
+V.- Realizar las inspecciones, control y vigilancia de los establecimientos de competencia municipal a través de la Unidad Municipal de Protección Civil;
 
 VI.- Diseñar y llevar a cabo campañas masivas de divulgación en materia de protección civil;
 
-VII.- Elaborar el respectivo Atlas Municipal de Riesgos y el correspondiente Programa Municipal para la atención de contigencias (sic);
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-VIII.- Convocar a funcionarios públicos y a representantes de los sectores social, privado y grupos voluntarios para integrar el Centro Municipal de Operaciones;
+VII.- Aplicar el Plan de Emergencia Municipal de Protección Civil, ante una emergencia o desastre;
 
-IX.- Promover el equipamiento de los cuerpos de respuesta inmediata a nivel municipal; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-X.- Las demás que acuerde el propio Sistema Municipal.
+VIII.- Convocar a servidores públicos y a representantes de los sectores social, privado y grupos voluntarios para integrar el Consejo Municipal de Protección Civil;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+IX.- Promover el equipamiento de los cuerpos de respuesta inmediata a nivel municipal.
+
+Cuando se trate de donación de equipos, entre ellos vehículos de origen extranjero, así como impartición de cursos o conferencias con personal de otra nacionalidad, el municipio deberá hacer los trámites ante la Secretaría de Relaciones Exteriores y notificará al Consejo Estatal de Protección Civil; y
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+X.- Las demás que señalen otras disposiciones aplicables o el Consejo Municipal de Protección Civil.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 32.
 
-Los sistemas municipales a través de sus Presidentes, con aprobación del Ayuntamiento, podrán suscribir convenios de colaboración que se estimen necesarios.
+Son atribuciones de los Titulares de las Unidades Municipales de Protección Civil:
+
+I.- Elaborar y actualizar el Atlas Municipal de Riesgos;
+
+II.- Elaborar el Programa Municipal de Protección Civil, así como los especiales o específicos, según sea el caso, y presentarlos al Presidente del Consejo para su trámite correspondiente;
+
+III.- Instrumentar un sistema de seguimiento y autoevaluación de los programas e informar al Consejo Municipal de Protección Civil;
+
+IV.- Convocar a sesiones ordinarias o extraordinarias, según determine el Presidente del Consejo Municipal de Protección Civil, formulando el orden del día y el acta correspondiente;
+
+V.- Formular el análisis y evaluación preliminar de los daños en caso de emergencia o desastre e informar al Presidente del Consejo Municipal de Protección Civil;
+
+VI.- Establecer los mecanismos de comunicación tanto en situaciones normales, como en caso de emergencia o desastre con la Subsecretaría de Protección Civil;
+
+VII.- Promover la realización de cursos, foros, pláticas, ejercicios o simulacros que permitan mejorar la capacidad de respuesta de los participantes en el Sistema Municipal de Protección Civil;
+
+VIII.- Realizar visitas de inspección a los establecimientos de competencia municipal siguientes:
+
+a) Discotecas, salones de fiestas, restaurantes, centrales de autobuses, instalaciones municipales y casas de huéspedes.
+
+b) Tortillerías, ferreterías, tiendas de abarrotes, mercados municipales, loncherías, taquerías, tendajones y cualquier negocio pequeño que represente algún riesgo.
+
+c) Venta de gasolina a granel, fábricas o talleres y venta de juegos pirotécnicos de cualquier tipo.
+
+d) Anuncios panorámicos, fuentes peatonales, paradas del servicio urbano, alumbrado público y drenajes hidráulicos.
+
+f) (sic) Lienzos charros, circos o ferias eventuales.
+
+f) Centros de desarrollo infantil y primarias.
+
+g) Dispensarios y consultorios médicos.
+
+h) Parques vehiculares, unidades repartidoras de gas licuado de petróleo.
+
+j) Viviendas en general y cualquier construcción de riesgo menor.
+
+IX.- Las demás que señale la presente Ley, el Reglamento Estatal y su Reglamento Municipal o el Presidente del Consejo Municipal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2007)</small>
+
+###### ARTICULO 32 Bis.
+
+Los Comisarios o Delegados Municipales y los Presidentes de los Comisariados Ejidales o de Bienes Comunales, como parte integrante de los Consejos Municipales de Protección Civil, tendrán las obligaciones siguientes:
+
+I.- Participar en la ejecución de los Programas Municipales de Protección Civil, en las fases de prevención y auxilio a la población;
+
+II.- Informar a la Unidad Municipal de Protección Civil o a la Subsecretaría de Protección Civil, en caso de ocurrir una emergencia o desastre; y
+
+III.- Las demás que les confieren otras Leyes y Reglamentos o que determine el Presidente del Consejo Municipal de Protección Civil.
 
 ### CAPITULO VII. De los Grupos Voluntarios
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 33.
 
-Está Ley reconocerá como grupos voluntarios a las instituciones, organizaciones y asociaciones a que se refiere la fracción X del Artículo 2o. de este Ordenamiento, que cuenten con su respectiva acreditación ante la Unidad Estatal de Protección Civil.
+Esta Ley reconocerá como grupos voluntarios a las instituciones, organizaciones y asociaciones a que se refiere la fracción XIII del artículo 2o. de este ordenamiento, que cuenten con su respectiva acreditación ante la Subsecretaría de Protección Civil.
 
 ###### ARTICULO 34.
 
@@ -603,35 +975,51 @@ II.- Profesionales o de Oficios.- Constituidos de acuerdo a la profesión u ofic
 
 III.- De Actividades Específicas.- Atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones especificas de auxilio.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 35.
 
-A fin de que los grupos voluntarios internacionales, nacionales o regionales que deseen participar en las acciones de protección civil, obtengan su acreditación, deberán solicitar su inscripción ante la Unidad Estatal de Protección Civil.
+A fin de que los grupos voluntarios internacionales, nacionales o regionales que deseen participar en las acciones de protección civil, obtengan su acreditación, deberán solicitar su inscripción ante la Subsecretaría de Protección Civil.
 
 ###### ARTICULO 36.
 
 La solicitud a que hace referencia el artículo anterior contendrá cuando menos:
 
-I.- Acta Constitutiva y domicilio del grupo;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+I.- Acta constitutiva y domicilio del grupo (sic)
 
 II.- Bases de organización del grupo;
 
-III.- Relación del equipo con el que cuenta; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-IV.- Programa de capacitación y adiestramiento.
+III.- Relación del equipo con el que cuenta;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+IV.- Programa de capacitación y adiestramiento; y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2007)</small>
+
+IV Bis.- Documentación que acredite la profesión de los integrantes, si se trata de la organización que refiere la fracción II del artículo 34.
 
 ###### ARTICULO 37.
 
 Las personas que deseen desempeñar labores de rescate y auxilio, deberán constituirse en grupos voluntarios organizados o integrarse a uno ya registrado, a fin de recibir información, capacitación y realizar en forma coordinada las acciones de protección civil.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 38.
 
-La preparación específica de los grupos voluntarios, deberá complementarse con la ejecución de ejercicios y simulacros, coordinados por la Unidad Estatal de Protección Civil.
+La preparación específica de los grupos voluntarios deberá complementarse con la ejecución de ejercicios y simulacros, coordinados por la Subsecretaría de Protección Civil.
 
 ###### ARTICULO 39.
 
 Corresponde a los grupos voluntarios:
 
-I.- Gozar del reconocimiento oficial una vez obtenida su acreditación ante la Unidad Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+I.- Gozar del reconocimiento oficial una vez obtenida su acreditación ante la Subsecretaría de Protección Civil;
 
 II.- Participar en los programas de capacitación a la población o brigadas de auxilio;
 
@@ -641,15 +1029,21 @@ IV.- Coordinarse bajo el mando de las autoridades de protección civil, ante la 
 
 V.- Cooperar en la difusión de programas y planes de protección civil;
 
-VI.- Coadyuvar en actividades de monitoreo, pronóstico y aviso a la Unidad Estatal de Protección Civil, de la presencia de cualquier riesgo, alto riesgo, emergencia o desastre;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+VI.- Coadyuvar en actividades de monitoreo, pronóstico y aviso a la Subsecretaría de Protección Civil, de la presencia de cualquier riesgo, alto riesgo, emergencia o desastre;
 
 VII.- Realizar los trámites ante las autoridades competentes, para obtener la autorización de recibir donativos deducibles del impuesto sobre la renta para sus donantes;
 
 VIII.- Aplicar los donativos que se obtengan, para los fines inherentes a la prestación de sus servicios;
 
-IX.- Refrendar anualmente su acreditación ante la Unidad Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-X.- Participar en todas aquellas actividades del Programa Estatal, o Municipal, que estén en posibilidades de realizar; y
+IX.- Refrendar anualmente su registro ante la Subsecretaría de Protección Civil;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+X.- Participar en todas aquellas actividades del Programa Estatal o Municipal, para tal efecto podrán solicitar las herramientas necesarias para el desempeño de sus funciones; y
 
 XI.- Las demás que les confieran otros ordenamientos jurídicos aplicables.
 
@@ -657,9 +1051,11 @@ XI.- Las demás que les confieran otros ordenamientos jurídicos aplicables.
 
 en los Establecimientos
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 40.
 
-Los establecimientos a que se refiere este ordenamiento, sean de competencia estatal o municipal, tienen la obligación de contar permanentemente con un Programa Específico de Protección Civil y un Plan de Contingencias, los cuales deberán estar autorizados y supervisados por la Unidad Estatal de Protección Civil o la unidad Municipal según corresponda.
+Los establecimientos a que se refiere este ordenamiento, sean de competencia estatal o municipal, tienen la obligación de contar permanentemente con un Programa Específico de Protección Civil y un Plan de Contingencias, los cuales deberán estar autorizados y supervisados por la Subsecretaría de Protección Civil o la Unidad Municipal, según corresponda.
 
 ###### ARTICULO 41.
 
@@ -669,25 +1065,35 @@ En los establecimientos deberán colocarse en sitios visibles, equipos de seguri
 
 Los establecimientos a que hace referencia la presente Ley, tienen la obligación de contar con una unidad interna de respuesta inmediata ante los altos riesgos, emergencias o desastres, que puedan ocurrir.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 43.
 
-Para los efectos del artículo anterior, los patrones, propietarios o titulares de los establecimientos, procurarán capacitar a sus empleados y dotarlos del equipo necesario de respuesta, así como solicitar la asesoría de la Unidad Estatal de Protección Civil o de la unidad municipal que corresponda, tanto para su capacitación como para el desarrollo de la logística de respuesta a las contingencias.
+Para los efectos del artículo anterior, los patrones, propietarios o titulares de los establecimientos, deberán capacitar a sus empleados y dotarlos del equipo necesario de respuesta, así como solicitar la asesoría de la Subsecretaría o de la Unidad Municipal de Protección Civil que corresponda, tanto para su capacitación como para el desarrollo de la logística de respuesta a las contingencias.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 44.
 
-Cuando los efectos de los altos riesgos, emergencias o desastres rebasen la capacidad de respuesta de las unidades internas, sus titulares, sin perjuicio de que cualquier otra persona pueda hacerlo, solicitarán de inmediato la asistencia de la Unidad Estatal de Protección Civil o de las unidades municipales, según la magnitud de la contingencia, sin perjuicio de que la respuesta sea proporcionada por ambas autoridades simultáneamente.
+Cuando los efectos de los altos riesgos, emergencias o desastres rebasen la capacidad de respuesta de las unidades internas, sus titulares, sin perjuicio de que cualquier otra persona pueda hacerlo, solicitarán de inmediato la asistencia de la Subsecretaría o de las Unidades Municipales de Protección Civil, según la magnitud de la contingencia, sin perjuicio de que la respuesta sea proporcionada por ambas autoridades simultáneamente.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 45.
 
-Cuando debido a la magnitud de los altos riesgos, emergencias o desastres, sea necesaria la concurrencia simultánea de las autoridades estatales y municipales de protección civil, la Unidad Estatal de Protección Civil será quien coordine los trabajos de respuesta ante la contingencia, en el lugar de los hechos.
+Cuando debido a la magnitud de los altos riesgos, emergencias o desastres, sea necesaria la ocurrencia simultánea de las autoridades estatales y municipales de protección civil, la Subsecretaría de Protección Civil será quien coordine los trabajos de respuesta ante la contingencia, en el lugar de los hechos.
 
 ## TITULO SEGUNDO. De la Operación de la Protección Civil
 
-### CAPITULO I. Del Programa Estatal de Protección Civil
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MARZO DE 2007)</small>
+
+### CAPITULO I. Del Programa Estatal de Protección Civil y el Plan Estatal de Emergencia
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 46.
 
-El Programa Estatal de Protección Civil es el instrumento de ejecución de los planes de protección en la Entidad; en él se precisan las acciones a realizar, se determinarán los responsables y se establecerán los plazos para su cumplimiento, de conformidad con los recursos y medios disponibles.
+El Programa Estatal de Protección Civil es el instrumento que contiene las políticas, estrategias, líneas de acción y metas para cumplir con los objetivos del Sistema Estatal de Protección Civil, el cual será obligatorio para los responsables de su ejecución; en él se determinarán los responsables y se establecerán los plazos para su cumplimiento, de conformidad con los recursos, medios y presupuesto disponible.
 
 Este programa deberá, en su caso, ajustarse a los procedimientos de programación, presupuestación y control correspondientes, y a las bases establecidas en los convenios de coordinación.
 
@@ -731,7 +1137,9 @@ II.- Los criterios para integrar el mapa de riesgos;
 
 III.- Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población;
 
-IV.- Las acciones que la Unidad Estatal de Protección Civil deberá ejecutar para proteger a las personas y sus bienes;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+IV.- Las acciones que la Subsecretaría de Protección Civil deberá ejecutar para proteger a las personas y sus bienes;
 
 V.- El inventario de los recursos disponibles;
 
@@ -761,77 +1169,89 @@ El Subprograma de Recuperación y Vuelta a la Normalidad, determinará las estra
 
 En el caso de que se identifiquen riesgos o altos riesgos que puedan afectar de manera grave a la población de una determinada localidad o región, se podrán elaborar Programas especiales de Protección Civil.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2007)</small>
+
+###### ARTICULO 53 Bis.
+
+El Plan Estatal de Emergencia es el instrumento que contendrá las acciones que las dependencias integrantes del Consejo Estatal de Protección Civil, deberán llevar a cabo ante una emergencia o desastre, el cual será aprobado en sesión ordinaria del Consejo, debiendo establecerse los lineamientos para su integración en el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 54.
 
-A fin de que la comunidad conozca el Programa Estatal de Protección Civil, éste al igual que sus Subprogramas, deberán ser dados a conocer a través de los medios masivos de comunicación.
+El Programa Estatal de Protección Civil y el Plan Estatal de Emergencia, cuando se hayan aprobado por el Consejo Estatal de Protección Civil, el Presidente mandará publicarlos en el Periódico Oficial del Gobierno del Estado, para su obligatoriedad, posteriormente se difundirán en los medios masivos de comunicación.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 55.
 
-En lo conducente, cada uno de los Municipios del Estado, deberá elaborar y difundir su propio Programa Municipal de Protección Civil, de manera similar al del Estado, de conformidad con los lineamientos de esta Ley.
+En lo conducente, cada uno de los Municipios del Estado deberá elaborar y difundir su Programa Municipal de Protección Civil, de manera similar al del Estado, de conformidad con los lineamientos establecidos en esta Ley y su Reglamento.
 
-### CAPITULO II. De la Declaratoria de Emergencia
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MARZO DE 2007)</small>
+
+### CAPITULO III (SIC). De la Declaratoria de Desastre Natural
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 56.
 
-El Secretario de Seguridad Pública y Protección Ciudadana en los casos de alto riesgo, emergencia o desastre, deberá proponer al Gobernador del Estado emita la declaratoria de emergencia, la que comunicará de inmediato al Consejo Estatal de Protección Civil y mandará publicarla en el Periódico Oficial del Estado y ordenará se difunda a través de los medios de comunicación masiva.
+En los casos de alto riesgo, alta probabilidad o presencia de un fenómeno natural que pueda generar una calamidad a la población, el Gobernador del Estado, previa información del Secretario de Seguridad Pública y Protección Civil, hará la solicitud de declaratoria de emergencia ante la Secretaría de Gobernación.
 
-En ausencia del Gobernador, el Secretario de Seguridad Pública y Protección Ciudadana podrá realizar la declaratoria a que se refiere el artículo anterior.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 57.
 
-La declaratoria de emergencia hará mención expresa entre otros, de los siguientes aspectos:
-
-I.- Identificación del alto riesgo, emergencia o desastre;
-
-II.- Infraestructura, bienes y sistemas afectados;
-
-III.- Determinación de las acciones de prevención y auxilio;
-
-IV.- Suspensión de actividades públicas que así lo ameriten; e
-
-V.- Instrucciones dirigidas a la población de acuerdo al Programa Estatal.
+La solicitud de declaratoria de emergencia a que se refiere el artículo anterior, deberá contener los requisitos previstos por las Reglas de Operación del Fondo Nacional de Desastres Naturales.
 
 ###### ARTICULO 58.
 
-El Gobernador o el Secretario de Seguridad Pública y Protección Ciudadana, según el caso, una vez que la situación de emergencia haya terminado, lo comunicará formalmente, siguiendo el procedimiento establecido en el Artículo 56 de esta Ley.
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 59.
 
-En lo conducente, se aplicarán a nivel municipal las disposiciones de este Capítulo, siendo el responsable de llevar a cabo la declaratoria formal de emergencia el Presidente Municipal.
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ### CAPITULO III. De la Declaratoria de Zona de Desastre
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 60.
 
-Se considerará zona de desastre de aplicación de recursos del Estado, aquella en la que para hacer frente a las consecuencias de un agente o fenómeno perturbador, sean insuficientes los recursos del o los municipios afectados, requiriéndose en consecuencia la ayuda del Gobierno Estatal. En estos casos el Gobernador del Estado emitirá la declaratoria de zona de desastre, y pondrá en marcha las acciones necesarias por conducto de la Secretaría de Seguridad Pública y Protección Ciudadana. Lo anterior, se deberá hacer del conocimiento de las autoridades federales competentes, solicitando el auxilio técnico y financiero necesario.
+Ante la ocurrencia de fenómenos naturales que causen severos daños a la población, su patrimonio, los servicios básicos o el medio ambiente y que la capacidad del Gobierno del Estado se haya visto rebasada para hacer frente a los efectos destructivos, en estos casos el Gobernador del Estado formulará ante la Secretaría de Gobernación la solicitud de declaratoria de desastre natural de las comunidades o municipios afectados. Para tal efecto, se cubrirán los requisitos previstos en las Reglas de Operación del Fondo Nacional de Desastres Naturales.
 
 ###### ARTICULO 61.
 
-Se considerará zona de desastre de nivel municipal, aquella en la que para hacer frente a las consecuencias de un agente o fenómeno perturbador, sea la autoridad municipal la que implemente las acciones inmediatas, que se puedan afrontar con recursos municipales.
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 62.
 
-Para que el Gobernador del Estado formule la declaratoria a que se refiere el Artículo 60 de esta Ley, deberá agotarse el siguiente procedimiento:
+Para que el Gobernador del Estado formule la solicitud de declaratoria de desastre natural a que se refiere el artículo 60 de esta Ley, deberá tomarse en cuenta lo siguiente:
 
-I.- Que sea solicitada por el o los Presidentes Municipales de los municipios afectados;
+I.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
 
-II.- Que las dependencias del Poder Ejecutivo Estatal encabezadas por la Secretaría de Seguridad Pública y Protección Ciudadana, realicen una evaluación de los daños causados; y
+II.- Que la Secretaría de Seguridad Pública y Protección Civil a través del área correspondiente haga la evaluación preliminar de los daños causados; y
 
-III.- Que de la evaluación, resulte necesaria la ayuda del Gobierno Estatal a que se refiere el Artículo anterior.
+III.- Que de la evaluación resulte necesaria la ayuda del Gobierno Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 63.
 
-Las medidas que el Gobierno del Estado podrá adoptar, cuando se haya declarado formalmente zona de desastre de aplicación de recursos estatales son las siguientes:
+El Gobierno del Estado, a través de las dependencias de la Administración Pública Estatal, deberá adoptar mientras se emite la declaratoria formal de desastre las siguientes medidas:
 
-I.- Atención médica inmediata;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-II.- Alojamiento, alimentación y recreación;
+I.- Atención médica;
 
-III.- Restablecimiento de los servicios públicos afectados;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
 
-IV.- Suspensión temporal de las relaciones laborales, sin perjuicio para el
+II.- Alojamiento y alimentación;
 
-trabajador;
+III.- (DEROGADA, P.O. 16 DE MARZO DE 2007)
+
+IV.- Suspensión temporal de las relaciones laborales, sin perjuicio para el trabajador;
 
 V.- Suspensión de las actividades escolares en tanto se vuelve a la normalidad; y
 
@@ -839,11 +1259,11 @@ VI.- Las demás que determine el Consejo Estatal de Protección Civil.
 
 ###### ARTICULO 64.
 
-La declaratoria formal de zona de desastre de aplicación de recursos estatales se hará siguiendo el procedimiento establecido en el Artículo 56 de este Ordenamiento, y concluirá cuando así se comunique por el Gobernador del Estado.
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ###### ARTICULO 65.
 
-Para el caso de que la zona de desastre se declare a nivel municipal, se aplicarán en lo conducente, las disposiciones de este Capítulo.
+(DEROGADO, P.O. 16 DE MARZO DE 2007)
 
 ### CAPITULO IV. De la Acción Popular
 
@@ -859,9 +1279,11 @@ La denuncia popular es el instrumento jurídico que tiene el pueblo de Guerrero 
 
 Para que la acción popular proceda, bastará que la persona que la ejercite aporte los datos necesarios para su identificación y una relación de los hechos que se denuncian.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 69.
 
-Recibida la denuncia, la autoridad ante quien se formuló, la turnará de inmediato a la Unidad Estatal de Protección Civil, o a la unidad municipal que corresponda, quienes procederán en su caso, conforme a esta Ley. Lo anterior sin perjuicio de que la autoridad receptora tome las medidas de urgencia necesarias para evitar que se ponga en riesgo la salud pública, la integridad o el patrimonio de las personas.
+Recibida la denuncia, la autoridad ante quien se formuló la turnará de inmediato a la Subsecretaría de Protección Civil, o a la Unidad Municipal de Protección Civil que corresponda, quienes procederán en su caso, conforme a esta Ley. Lo anterior sin perjuicio de que la autoridad receptora tome las medidas de urgencia necesarias para evitar que se ponga en riesgo la salud pública, la integridad o el patrimonio de las personas.
 
 ###### ARTICULO 70.
 
@@ -869,31 +1291,65 @@ Las autoridades estatales y municipales, en los términos de esta Ley, atenderá
 
 ### CAPITULO V. De la Inspección, Control y Vigilancia
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 71.
 
-La Unidad Estatal de Protección Civil y las Unidades Municipales vigilarán, en el ámbito de su competencia, el cumplimiento de esta Ley y demás disposiciones que se dicten con base en ella, y aplicarán las medidas de seguridad que correspondan.
+La Subsecretaría de Protección Civil y las Unidades Municipales de Protección Civil vigilarán, en el ámbito de su competencia, el cumplimiento de esta Ley y demás disposiciones que se dicten con base en ella, y aplicarán las medidas de seguridad que correspondan.
 
-En caso de ser necesaria la aplicación de sanciones, las mismas se realizarán previa audiencia del interesado.
+En caso de ser necesaria la aplicación de medidas de seguridad o sanciones mediante procedimiento, se observarán supletoriamente las Leyes, Reglamentos y Normas Oficiales en relación a la materia.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 72.
 
-Las inspecciones de protección civil, tienen el carácter de visitas domiciliarias, por lo que los establecimientos señalados por esta Ley están obligados a permitirlas, así como a proporcionar toda clase de información necesaria para el desahogo de las mismas.
+Las inspecciones de protección civil son visitas domiciliarias, tienen por objeto identificar las irregularidades de operación de los establecimientos y hacer las observaciones correspondientes, por lo que los Titulares de los establecimientos señalados por esta Ley están obligados a permitirlas, así como a proporcionar toda clase de información necesaria para el desahogo de las mismas.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 73.
 
-La persona o personas designadas para practicar visitas de inspección o ejecutar medidas de seguridad, deberán estar provistas de identificación y orden escrita expedida por la autoridad competente en la que se deberá precisar el lugar o zona en que se efectuará la inspección, el objeto de la visita y las disposiciones legales que la fundamenten.
+El Inspector para practicar visitas de inspección o ejecutar medidas de seguridad, deberá llevar consigo lo siguiente:
+
+I.- Identificación oficial vigente y portarla en lugar visible;
+
+II.- Oficio de comisión expedido por la Subsecretaría de Protección Civil o Unidad Municipal de Protección Civil, según corresponda, el cual deberá contener:
+
+a) Nombre del inspector, lugar y fecha;
+
+b) Nombre o razón social y ubicación del establecimiento; y
+
+c) Motivos y fundamentos legales.
+
+III.- Entregar al propietario o encargado del establecimiento, el oficio que contiene la orden de inspección, debidamente firmada y sellada por la autoridad competente, la que deberá contener:
+
+a) Nombre del propietario o encargado del establecimiento;
+
+b) Nombre o razón social y ubicación del establecimiento; y
+
+c) Fundamentos legales y finalidad de la inspección.
+
+La visita deberá realizarse dentro de las cuarenta y ocho horas siguientes a la expedición de dicha comisión, que se ordenará en base al acuerdo que recaiga al reporte de verificación de riesgo.
 
 ###### ARTICULO 74.
 
 Es obligación de los propietarios, responsables, encargados u ocupantes de los inmuebles, obras o establecimientos, permitir el acceso y dar facilidades a las personas mencionadas en el artículo anterior, para el desarrollo de la inspección, así como proporcionar la información que conduzca a la verificación de las normas de esta Ley y sus reglamentos.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 75.
 
-En la diligencia de inspección se deberán observar las siguientes reglas:
+Para el desarrollo de la diligencia de inspección deberá levantarse acta circunstanciada, observándose las reglas siguientes:
 
-I.- La persona o personas a quienes se haya encomendado la inspección, deberán exhibir su nombramiento o designación expedida por la autoridad competente, que los acredite legalmente para desempeñar su función. La anterior circunstancia, deberá asentarse en el acta correspondiente.
+I.- El Inspector deberá dar cumplimiento a lo dispuesto en el artículo 73;
 
-II.- En el acta que se levante con motivo de la inspección, se harán constar las circunstancias de la diligencia, las deficiencias o irregularidades observadas y, en su caso, las medidas de seguridad que se ejecuten.
+II. Requerirá al visitado para que designe a dos personas que funjan como testigos de asistencia, advirtiéndole que en caso de no hacerlo, éstos serán nombrados por el Inspector;
+
+III.- El acta circunstanciada contendrá lugar y fecha, nombre del Inspector, nombre de la persona con quien se entienda la visita, nombre de los testigos de asistencia; y
+
+IV.- Realizada la diligencia, el Inspector comunicará al visitado las irregularidades que pongan en riesgo a la población de acuerdo a lo dispuesto en las Normas Oficiales Mexicanas, Leyes o Reglamentos que regulan la operación, instalación, obras y servicios;
+
+El visitado contará con diez días hábiles a partir de la emisión del acta circunstanciada, para subsanar o impugnar ante la autoridad que ordenó la inspección, las irregularidades que el inspector le precise, debiendo exhibir las pruebas que a su derecho convenga.
 
 ###### ARTICULO 76.
 
@@ -909,15 +1365,29 @@ II.- La desocupación o desalojo de casas, edificios, establecimientos y, en gen
 
 III.- La demolición de construcciones o el retiro de instalaciones;
 
-IV.- El aseguramiento y secuestro de objetos materiales;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+IV.- El aseguramiento y decomiso de objetos materiales que por su naturaleza impliquen riesgo para la población;
 
 V.- La clausura temporal o definitiva, total o parcial, de establecimientos, construcciones, instalaciones u obras;
 
 VI.- La realización de actos, en rebeldía de los que están obligados a ejecutarlos;
 
-VII.- El auxilio de la fuerza pública; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+VII.- La evacuación forzosa; y
 
 VIII.- La emisión de mensajes de alerta.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2007)</small>
+
+Para el cumplimiento de las medidas de seguridad, la autoridad que lo ordene, podrá solicitar el auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2007)</small>
+
+###### ARTICULO 77 Bis.
+
+Las medidas de seguridad a que se refiere el artículo anterior, proceden cuando se tiene la certeza fundada que puede ocurrir un siniestro que tenga como resultado una emergencia o desastre y que ponga en riesgo la vida y la salud de las personas.
 
 ###### ARTICULO 78.
 
@@ -957,9 +1427,15 @@ IV.- Suspensión de obras, instalaciones o servicios; y
 
 V.- Arresto administrativo hasta por 36 horas.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 81.
 
-La imposición de sanciones se hará sin perjuicio de la responsabilidad que, conforme a otras Leyes, corresponda al infractor.
+La aplicación de las sanciones a que se refiere la presente Ley deberá observar el procedimiento que para tal efecto determine el Reglamento de la Ley, debiéndose otorgar la garantía de audiencia, legalidad y seguridad jurídica al propietario o encargado del establecimiento.
+
+La resolución que se emita derivada de un procedimiento de inspección, deberá estar fundada y motivada.
+
+La imposición de sanciones se hará sin perjuicio de la responsabilidad que, conforme a otras leyes, corresponda al infractor.
 
 ###### ARTICULO 82.
 
@@ -973,13 +1449,23 @@ III.- Las condiciones socioeconómicas del infractor; y
 
 IV.- La reincidencia, en su caso.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 83.
 
-Son autoridades competentes para imponer las sanciones a que se refiere el presente Capítulo el Director de la Unidad Estatal de Protección Civil, y en los municipios el Titular de la Unidad Municipal.
+Son autoridades competentes para imponer las sanciones a que se refiere el presente capítulo el Subsecretario de Protección Civil, y en los municipios los titulares de las Unidades de Protección Civil.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2007)</small>
+
+###### ARTICULO 83 Bis.
+
+Al momento de imponer una sanción consistente en multa, el monto será fijado en la misma resolución, indicando que deberá ser pagada por el infractor en la Administración Fiscal del Estado o Tesorería Municipal, según sea el caso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 84.
 
-Cuando en los establecimientos se realicen actos que constituyan riesgo a juicio de la Unidad Estatal de Protección Civil o de las unidades municipales, según corresponda, estas autoridades en el ámbito de su competencia procederán como sigue:
+Cuando en los establecimientos se detecten irregularidades de operación o actos que constituyan riesgo a juicio de la Subsecretaría de Protección Civil o de las Unidades Municipales de Protección Civil, según corresponda, estas autoridades en el ámbito de su competencia podrán aplicar las sanciones previstas en el artículo 80, bajo los criterios siguientes:
 
 I.- Se procederá a la suspensión de la construcción, servicios, o de las obras o actos relativos;
 
@@ -991,9 +1477,11 @@ IV.- Cuando no obstante la aplicación de las medidas a que se refieren las tres
 
 En caso de que las autoridades de protección civil determinen, que como consecuencia de su naturaleza, resulte imposible la suspensión de la construcción, obra o actos relativos o la clausura de los establecimientos, se publicarán avisos a cuenta del propietario o responsable, en uno de los diarios de mayor circulación en la localidad de que se trate, advirtiendo a la población de los riesgos.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 85.
 
-Cuando en los establecimientos se realicen actos o servicios que constituyan alto riesgo a juicio de la Unidad Estatal de Protección Civil o de las unidades municipales, según corresponda, estas autoridades procederán de inmediato a suspender dichas actividades; también ordenarán el desalojo del inmueble y aplicarán las demás medidas de seguridad que resulten procedentes enunciadas en el Artículo 77 de este Ordenamiento, además de las sanciones que correspondan, sin perjuicio de que se apliquen las demás medidas de seguridad y sanciones señaladas en otros ordenamientos.
+Cuando en los establecimientos se realicen actos o servicios que constituyan riesgos inminentes a juicio de la Subsecretaría de Protección Civil o de las Unidades Municipales de Protección Civil, según corresponda, estas autoridades procederán de inmediato a suspender dichas actividades; también ordenarán la desocupación del inmueble y aplicarán las demás medidas de seguridad que resulten procedentes enunciadas en el artículo 77 de este ordenamiento, además de las sanciones que correspondan, sin perjuicio de que se apliquen las demás medidas de seguridad y sanciones señaladas en otros ordenamientos.
 
 ###### ARTICULO 86.
 
@@ -1007,9 +1495,11 @@ Las obras que se ordenen por parte de las autoridades de protección civil para 
 
 Las sanciones económicas y las cantidades por concepto de cobros por obras realizadas en rebeldía de los obligados, se consideran créditos fiscales y serán cobrados mediante el procedimiento económico - coactivo de ejecución, por medio de la autoridad fiscal competente.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 88.
 
-Los responsables de actos que generen daños en el medio ambiente serán sancionados en los términos de la legislación en materia de salud pública, equilibrio ecológico y protección al ambiente, los reglamentos de policía y buen gobierno y demás disposiciones aplicables.
+Los responsables de actos que generen daños en el medio ambiente serán sancionados en los términos de la legislación penal local vigente, en materia de salud pública, equilibrio ecológico y protección al ambiente, los reglamentos de policía y buen gobierno y demás disposiciones aplicables.
 
 ###### ARTICULO 89.
 
@@ -1017,25 +1507,41 @@ La responsabilidad por daños o perjuicios derivados de acciones u omisiones que
 
 ### CAPITULO VI. De las Notificaciones y Recursos
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 90.
 
-Los acuerdos de las autoridades de protección civil, se notificarán a los interesados atendiendo, en lo conducente, a lo dispuesto por la Ley de Justicia Administrativa y del Tribunal de lo Contencioso Administrativo del Estado.
+Los acuerdos o resoluciones administrativas dictados por autoridades de protección civil, se notificarán a los interesados de manera personal y se hará en días y horas hábiles.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2007)</small>
+
+###### ARTICULO 90 Bis.
+
+Cuando la persona a quien deba hacerse la notificación no se encuentre, se le dejará citatorio para que esté en una hora determinada del día hábil siguiente, apercibiéndola que de no encontrarse se entenderá la diligencia con la persona que se encuentre presente y sea mayor de edad.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 91.
 
-Contra las resoluciones, determinaciones y acuerdos dictados por las autoridades de protección civil procede el recurso de revisión.
+Contar (sic) las resoluciones, determinaciones y acuerdos distados (sic) por las autoridades de protección civil, procede el recurso de reconsideración.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 92.
 
-El recurso de revisión tiene por objeto que el superior jerárquico examine el acto o acuerdo que se reclama a fin de constatar si existe violación al respecto, pudiendo confirmarlo, modificarlo o revocarlo.
+El recurso de reconsideración tiene por objeto que el superior jerárquico revise la resolución que se reclama, pudiendo confirmarla, modificarla o revocarla.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 93.
 
-El recurso de revisión se interpondrá por escrito ante el superior jerárquico de la autoridad que dictó el acto que se impugna, en un plazo no mayor de quince días hábiles contados a partir de la fecha de su notificación o conocimiento.
+El recurso de reconsideración se interpondrá por escrito ante el Secretario de Seguridad Pública y Protección Civil, tratándose de resoluciones dictadas por la Subsecretaría de Protección Civil y las pronunciadas por las Unidades Municipales de Protección Civil, será al superior jerárquico en un plazo no mayor de quince días hábiles contados a partir de la fecha de su notificación.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 94.
 
-El escrito de revisión deberá contener el nombre y domicilio, del recurrente, el proveído, acto o resolución que se impugna, autoridad que lo emitió, fecha de notificación o conocimiento, exposición sucinta de hechos, preceptos legales violados, pruebas y demás elementos de convicción que estime el recurrente.
+El escrito de reconsideración deberá contener el nombre y domicilio, del recurrente, el proveído, acto o resolución que se impugna, autoridad que lo emitió, fecha de notificación o conocimiento, exposición sucinta de hechos y agravios, preceptos legales violados, pruebas y demás elementos de convicción que estime el recurrente.
 
 ###### ARTICULO 95.
 
@@ -1088,3 +1594,13 @@ El Secretario General de Gobierno.
 C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE MARZO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Reglamento de la Ley, deberá expedirse en un término de sesenta días hábiles, a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para los efectos legales a que haya lugar.
