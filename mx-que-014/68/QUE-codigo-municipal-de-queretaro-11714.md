@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2005-12-09"
+last_updated: "2007-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2007.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -821,9 +821,9 @@ XIV. Coadyuvar y valorar el cumplimiento y avance de planes y programas municipa
 
 XV. Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
 
-Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Social se auxiliará con las Direcciones de Participación Social y Vinculación, Desarrollo Integral, del Deporte y Recreación y del Instituto de Cultura del Municipio de Querétaro, así como de los departamentos que al efecto se designen.
+Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Social se auxiliará con las Direcciones de Participación Social y Vinculación, de Desarrollo Integral y del Instituto de Cultura del Municipio de Querétaro, así como de los departamentos que al efecto se designen.
 
 ### CAPITULO VIII. Secretaría de Administración
 
@@ -6247,6 +6247,28 @@ El Ayuntamiento deberá asegurar la vinculación de la normatividad en materia e
 
 El Ayuntamiento respetando las instancias federales, hará propuestas concretas y prácticas para la conservación, preservación y disfrute de sitios arqueológicos, históricos y culturales, promoviendo campañas de concientización y sensibilización entre la ciudadanía para la conservación de dichas áreas.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2007)</small>
+
+ARTICULO 723 bis.- El Cronista Municipal tiene como función principal la recopilación, custodia y difusión de la memoria histórica del Municipio de Querétaro, y le corresponde:
+
+I. Seleccionar, recopilar, redactar y publicar las efemérides del Municipio de Querétaro;
+
+II. Participar en la recopilación y enriquecimiento del acervo documental histórico del Municipio de Querétaro;
+
+III. Investigar y allegarse la información de diversas fuentes, en debido cumplimiento de sus funciones;
+
+IV. Participar en coordinación con el Instituto Municipal de la Cultura, para la organización de diversos eventos culturales relacionados con sus funciones;
+
+V. Crear y actualizar líneas de investigación y preservación de la historia y la cultura, en su respectivo ámbito de competencia;
+
+VI. Recopilar información de diversas fuentes documentales y testimoniales para la integración de estudios e investigaciones relacionadas con sus funciones;
+
+VII. Recopilar documentos, objetos y demás instrumentos, que permitan acreditar la veracidad de hechos históricos en su respectivo ámbito de competencia;
+
+VIII. Proporcionar asesoría y orientación a funcionarios de la Administración Pública Municipal, así como al público en general, respecto de asuntos relacionados con sus funciones; y
+
+IX. Las demás tareas que le encomiende el Secretario del Ayuntamiento relacionadas con sus funciones, así como las facultades y atribuciones que le señalen otras disposiciones legales y administrativas vigentes.
+
 ###### ARTICULO 724.
 
 El Cronista Municipal se mantendrá en continua comunicación con la Comisión Ejecutiva Turística del Municipio de Querétaro, para que de alguna manera difundan aspectos de la historia del Municipio, a fin de preservar los valores locales y la historia del Municipio.
@@ -8586,3 +8608,11 @@ SÉPTIMO. Los procedimientos o recursos administrativos, que se hubieren iniciad
 OCTAVO. Las licencias y permisos para la colocación de anuncios expedidos con anterioridad al presente reglamento, se sujetarán a los términos y condiciones en que se hayan autorizado y hasta el término de su vigencia.
 
 NOVENO. Notifíquese a los titulares de la Secretaría de Desarrollo Sustentable del Municipio de Querétaro, Secretaría General de Gobierno, Secretaría de Economía y Finanzas y Tesorería Municipal, Secretaría de Gestión Delegacional y Delegaciones Municipales, Dirección de Desarrollo Urbano Municipal, Dirección de Desarrollo Urbano Municipal, Dirección General Jurídica y Dirección de Inspección.
+
+P.O. 16 DE MARZO DE 2007.
+
+PRIMERO. Publíquese el presente Acuerdo en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Las presentes reformas entrarán en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a las presentes reformas.".
