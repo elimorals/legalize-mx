@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-del-estado-de-colima-para-el-ejercicio-54915"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-26"
-last_updated: "2006-12-26"
+last_updated: "2007-03-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2007
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el martes 26 de diciembre de 2006.
 
@@ -391,9 +391,11 @@ c) Los previstos en la fracción I del artículo 55 de la Ley de Hacienda del Es
 
 La determinación de los sujetos de los beneficios previstos en este artículo y de los montos del mismo, estará a cargo de la Secretaría de Fomento Económico del Gobierno del Estado, aplicando los criterios y procedimientos establecidos en la Ley de Fomento Económico para el Estado de Colima y su Reglamento.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2007)</small>
+
 ###### Artículo 9.
 
-Se autoriza a la Secretaría de Finanzas del Gobierno del Estado para afectar las participaciones que en ingresos federales correspondan al Estado, en garantía de pago de los empréstitos que se contraten al amparo de la presente Ley, utilizando para ello los mecanismos establecidos en la Ley de Deuda Pública del Estado.
+Se autoriza a la Secretaría de Finanzas del Gobierno del Estado para afectar las participaciones que en ingresos federales correspondan al Estado, en garantía y/o fuente de pago directo de los empréstitos que se contraten al amparo de la presente Ley, utilizando para ello los mecanismos establecidos en la Ley de Deuda Pública del Estado.
 
 ###### Artículo 10.
 
@@ -416,3 +418,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en el Palacio de Gobierno, a los 23 días del mes de diciembre del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE MARZO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
