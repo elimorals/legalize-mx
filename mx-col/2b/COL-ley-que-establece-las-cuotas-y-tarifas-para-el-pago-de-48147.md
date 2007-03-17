@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48147"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2006-12-26"
+last_updated: "2007-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -409,11 +409,11 @@ T R A N S I T O R I O S :
 
 El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el ejercicio fiscal 2006, el beneficio a que se refiere la fracción III del artículo 19 de esta Ley, podrá efectuarse sin recargos hasta el 30 de abril del citado año".
+Para el ejercicio fiscal 2007, el beneficio a que se refieren el artículo 19, fracción II de esta Ley se amplía hasta el 30 de abril del citado año. Dicho plazo se aplicará de igual manera en el caso de la fracción V, con una tasa del 8%, no generando los recargos correspondientes en dichas prórrogas inclusive los especificados en las fracciones III y IV de ese mismo artículo.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -438,6 +438,10 @@ P.O. 26 DE DICIEMBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor el día 1º de Enero de 2007, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para el Ejercicio Fiscal 2007, en ningún caso el incremento será superior al 6% en relación a las cuotas cobradas en el 2006, por lo que se faculta al Titular del organismo operador a realizar los ajustes correspondientes para el cumplimiento de esta disposición.
+
+P.O. 17 DE MARZO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
