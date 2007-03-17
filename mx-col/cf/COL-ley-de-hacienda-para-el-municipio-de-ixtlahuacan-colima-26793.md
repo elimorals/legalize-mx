@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-ixtlahuacan-colima-26793"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2006-12-26"
+last_updated: "2007-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -2677,6 +2677,12 @@ BASE 60% 70% 80% 90% 100%
 
 Para el ejercicio fiscal 2006, se amplia el plazo hasta el 30 de Abril del citado año, para los casos a que se refiere el Artículo 19 de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2007)</small>
+
+###### ARTICULO OCTAVO.
+
+Para el Ejercicio fiscal 2007, el plazo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta Ley se amplía hasta el 31 de marzo.
+
 El Gobernador del Estado dispondrá se imprima, publique, circule y observe.
 
 Dado en el Recinto Oficial del Poder Legislativo a los once días del mes de noviembre del año dos mil dos.
@@ -2730,3 +2736,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 26 DE DICIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 17 DE MARZO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
