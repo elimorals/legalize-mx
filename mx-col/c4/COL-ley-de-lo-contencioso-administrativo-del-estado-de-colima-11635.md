@@ -4,7 +4,7 @@ identifier: "COL-ley-de-lo-contencioso-administrativo-del-estado-de-colima-11635
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-28"
-last_updated: "2002-07-20"
+last_updated: "2007-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de septiembre de 1996.
 
@@ -191,9 +191,11 @@ Los particulares, en el primer escrito o diligencia en la que comparezcan, deber
 
 En tanto no se haga una nueva designación de domicilio para recibir notificaciones, éstas se seguirán practicando en el domicilio originalmente señalado. Cuando éste no exista o se encuentre desocupado, la resolución o acuerdo se notificará por lista, previa constancia que levante el actuario.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 19.
 
-Para los efectos de esta Ley, son días hábiles todos los del año, con exclusión de los sábados y domingo, el 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 16 de septiembre, 20 de noviembre, 1o. de diciembre de cada seis años cuando tome posesión de su cargo el Titular del Poder Ejecutivo Federal, 25 de diciembre y aquellos en los que se suspendan las labores del Tribunal.
+Para los efectos de esta Ley, son días hábiles todos los del año, con exclusión de los sábados y domingos, el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, 1° de mayo, el 16 de septiembre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 1° de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, el 25 de diciembre y aquellos en los que se suspendan las labores del Tribunal.
 
 ###### ARTICULO 20.
 
@@ -1008,3 +1010,9 @@ P.O. 20 DE JULIO DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 22 de julio del 2002, previa publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 17 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Colima".
