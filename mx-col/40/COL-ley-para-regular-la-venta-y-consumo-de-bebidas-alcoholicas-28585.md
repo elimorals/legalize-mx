@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2858
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-11"
-last_updated: "2005-04-30"
+last_updated: "2007-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -409,6 +409,10 @@ TERCERO.- En tanto se establecen los órganos de lo contencioso-administrativos 
 
 CUARTO.- Los Ayuntamientos expedirán los reglamentos municipales a que se refiere esta Ley, en un plazo que no excederá de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2007)</small>
+
+QUINTO.- Para el Ejercicio fiscal 2007, el plazo a que se refiere el artículo 14 de esta Ley se amplía hasta el 31 de marzo.
+
 El Gobernador del Estado dispondrá se publique, circule y observe.
 
 Dado en el Recinto Oficial del Poder Legislativo a los nueve días del mes de enero del año dos mil tres.
@@ -426,3 +430,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.-
 P.O. 30 DE ABRIL DE 2005.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 17 DE MARZO DE 2007.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
