@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-del-estado-para-el-ejercicio-fiscal-del-ano-535
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-29"
-last_updated: "2006-12-29"
+last_updated: "2007-03-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DEL AÑO 2007
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -171,17 +171,19 @@ VI.- EL ESTADO PERCIBIRA INGRESOS POR CONCEPTO DE PARTICIPACIONES Y FONDOS DE AP
 
 Las Participaciones y Fondos de Aportaciones Federales se percibirán de acuerdo con las bases, cuotas y conductos que establezca la Ley de Coordinación Fiscal Federal, así como los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, el de Colaboración Administrativa en Materia Fiscal Federal y sus respectivos anexos, así como los demás que se suscriban para el efecto con la Federación.
 
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2007)</small>
+
 VII.- Todo lo anterior significa un total estimado por conceptos por las siguientes cantidades:
 
 Concepto de ingresos Monto
 
 (miles de pesos)
 
-INGRESOS PROPIOS 1,195,812.8
+INGRESOS PROPIOS 3,645,812.8
 
 Impuestos Estatales 272,807.4
 
-Impuesto Sobre Nóminas 153,834.0
+Impuesto sobre Nóminas 153,834.0
 
 Impuesto por la Prestación de Servicios de
 
@@ -193,7 +195,7 @@ Camiones y demás vehículos de motor que
 
 se realice entre particulares 9,481.9
 
-Impuesto Sobre Tenencia 23,417.3
+Impuesto sobre Tenencia 23,417.3
 
 Impuesto sobre Rifas, Loterías, Sorteos y
 
@@ -209,7 +211,7 @@ Impuesto sobre Honorarios y otras
 
 Actividades Lucrativas 5,060.0
 
-Derechos 58,763.6
+Derechos 758,763.6
 
 Secretaría de Gobierno 45,875.1
 
@@ -249,7 +251,11 @@ Honorarios y Gastos de Ejecución 216.5
 
 Organismos Públicos Descentralizados 85,359.4
 
-Extraordinarios 4,087.4
+Extraordinarios 2,454,087.4
+
+Instituciones Bancarias 4,087.4
+
+Empréstitos 2,450,000.0
 
 PARTICIPACIONES FEDERALES 5,521,839.2
 
@@ -279,39 +285,41 @@ Fondo de Fomento Municipal 635,106.7
 
 INFRAESTRUCTURA EN LOS ESTADOS
 
-PROGRAMA DE FORTALECIMIENTO ENT. FED. 459,569.3
+RAMO 33 10,219,528.3
 
-RAMO 33 9,402,666.7
+Educación Básica y Normal (FAEB) 6,259,383.3
 
-Educación Básica y Normal (FAEB) 6,045,351.1
+Servicios de Salud (FASSA) 1,311,247.7
 
-Servicios de Salud (FASSA) 1,277,153.4
+Infraestructura Social (FAIS) 1,033,386.2
 
-Infraestructura Social (FAIS) 921,393.0
+a).- Municipal 908,139.8
 
-a).- Municipal 809,720.2
+b).- Estatal 125,246.4
 
-b).- Estatal 111,672.8
+Fortalecimiento a Municipios 743,706.1
 
-Fortalecimiento a Municipios 655,628.8
+Fondo de Aportaciones Múltiples 302,004.9
 
-Fondo de Aportaciones Múltiples 300,712.2
-
-a).- Asistencia social 132,003.6
+a).- Asistencia social 133,296.3
 
 b).- Infraestructura básica 97,484.5
 
 c).- Infraestructura superior 71,224.1
 
-Educación Tecnológica Educación de Adultos 78,593.8
+Educación Tecnológica y de Adultos 81,230.3
 
-a).- Educación Tecnológica 32,805.5
+a).- Educación Tecnológica 34,066.3
 
-b).- Educación de Adultos 45,788.3
+b).- Educación de Adultos 47,164.0
 
 Seguridad Pública 123,834.4
 
-TOTAL 16.579.888.0
+Fondo de Aportaciones para el Fortalecimiento
+
+de las Entidades Federativas 364,735.4
+
+TOTAL 19,387,180.3
 
 ###### ARTICULO 2.
 
@@ -381,6 +389,16 @@ Lo establecido en los Artículos anteriores, se aplicará a los ingresos que por
 
 Las Entidades y Organismos a que se refiere el Artículo anterior y las empresas de Participación Estatal, deberán estar inscritas en el Registro Estatal correspondiente y llevar contabilidad de conformidad con las disposiciones fiscales, así como, presentar las declaraciones e informes que correspondan en los términos de dichos ordenamientos.
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2007)</small>
+
+###### ARTICULO 11.
+
+El Congreso del Estado fijará en el Presupuesto de Egresos del Estado, durante la vigencia de los financiamientos contratados por el Estado con el Instituto de Financiamiento del Estado de Hidalgo, los montos que corresponda a cubrir el saldo insoluto de los mismos, sin incluir en una doble contabilización del pasivo.
+
+Los pagos del Estado al Instituto para el Financiamiento del Estado de Hidalgo y de éste a sus respectivos acreedores, quedan englobados dentro de la provisión establecida en el Ramo 33 “Deuda Pública” del Artículo 5 del Decreto de Presupuesto de Egresos.
+
+En caso de que el Congreso del Estado no apruebe un monto específico en el Presupuesto de Egresos de cualquier año para tal efecto o que no se expida el Presupuesto de Egresos en lo absoluto, se entenderá que continuará vigente el monto aprobado en el año inmediato anterior.
+
 ## TRANSITORIOS
 
 ###### ARTICULO 1º.
@@ -420,3 +438,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE MARZO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
