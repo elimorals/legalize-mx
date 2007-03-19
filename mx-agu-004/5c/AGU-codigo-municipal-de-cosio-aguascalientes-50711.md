@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-cosio-aguascalientes-50711"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-06-05"
-last_updated: "2006-07-24"
+last_updated: "2007-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE COSIO. AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO MUNICIPAL DE COSIO, DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 19 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 5 de junio de 2006.
 
@@ -12780,3 +12782,21 @@ SRIO. DEL H. AYUNTAMIENTO INTERINO.
 P.O. 24 DE JULIO DE 2006.
 
 Las presentes reformas y adiciones adquirirán vigencia, obligatoriedad y pasarán a ser parte del Código Municipal de Cosío, Ags., a partir del día siguiente de la fecha de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE MARZO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente Código Municipal entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Código Municipal para el municipio de Cosío publicado en fecha 5 de junio del 2006 con todas sus reformas.
+
+###### ARTICULO TERCERO.
+
+Se abrogan todos los Reglamentos Municipales que se encuentren vigentes a la fecha de aprobación del presente Código, así como todas las disposiciones Municipales que se opongan al presente Código.
+
+###### ARTICULO CUARTO.
+
+Los asuntos cuyos trámites se encuentren pendientes al entrar en vigor el presente Código Municipal serán tramitados conforme a las disposiciones legales de las cuales emanaron.
