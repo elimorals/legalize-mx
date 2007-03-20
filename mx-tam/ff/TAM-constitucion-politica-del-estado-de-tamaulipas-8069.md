@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2007-01-15"
+last_updated: "2007-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -631,7 +631,9 @@ En su oportunidad revisará y calificará las cuentas de aplicación de los fond
 
 En el caso de las cuentas del Poder Ejecutivo y de los Ayuntamientos, deberá revisarse la recaudación y analizarse si fueron percibidos los recursos del caso en cumplimiento de las disposiciones legales aplicables.
 
-Los poderes del Estado presentarán cuentas públicas trimestrales durante la segunda quincena del mes siguiente a la terminación de cada trimestre. Los ayuntamientos, los entes públicos estatales y todo organismo estatal o municipal la presentarán en términos de la ley de la materia.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2007)</small>
+
+Los poderes del Estado, los Ayuntamientos, y los organismos estatales o municipales presentarán cuenta pública semestral o anualmente en términos de la ley de la materia. En el año en que concluya el período constitucional de la entidad sujeta de fiscalización correspondiente, podrán optar por la presentación de la cuenta pública en forma trimestral.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -727,9 +729,9 @@ III. Condonar contribuciones del Estado, en los casos que estime convenientes, c
 
 IV. Fijar, a propuesta de los respectivos Ayuntamientos, las contribuciones y otros ingresos que deban formar la Hacienda Pública de los Municipios, procurando que sean suficientes para cubrir sus necesidades;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2007)</small>
 
-V. Nombrar y remover a sus servidores públicos en los términos que señale la ley sobre la organización y funcionamiento internos del Congreso; así como al Auditor Superior del Estado en la forma dispuesta por la Ley;
+V. Nombrar y remover a sus servidores públicos en los términos que señale la Ley sobre la Organización y Funcionamiento Internos del Congreso; así como al Auditor Superior del Estado en los términos dispuestos por esta Constitución y la ley.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -863,7 +865,7 @@ XLIV. Concurrir a la reforma de la Constitución Política de los Estados Unidos
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
 
-XLV.- Legislar en materia de desarrollo sustentable, conforme a los siguientes principios:
+XLV. Legislar en materia de desarrollo sustentable, conforme a los siguientes principios:
 
 a).- El derecho de los habitantes del Estado a una vida saludable y productiva en armonía con la naturaleza;
 
@@ -1173,6 +1175,10 @@ III.- Efectuar visitas domiciliarias únicamente para exigir la exhibición de l
 
 IV.- Determinar los daños y perjuicios que afecten las haciendas públicas estatal o municipales o al patrimonio de los entes públicos estatales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2007)</small>
+
+El Congreso designará al Auditor Superior del Estado por el voto de cuando menos las dos terceras partes de sus miembros presentes. La ley establecerá el procedimiento para su designación. El titular de la Auditoría Superior del Estado será designado por un solo período y durará en su encargo seis años. Sólo podrá ser removido de su encargo por las causas graves que señale la ley, mediante el procedimiento que la misma establezca y con la votación requerida para su designación.
+
 En el cumplimiento de sus funciones, la Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes de su competencia y se apruebe la cuenta pública correspondiente; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
 Los poderes del Estado, los Ayuntamientos, los entes públicos estatales, los organismos estatales y municipales y toda persona sujeta a la fiscalización superior facilitarán a la Auditoría los auxilios que requiera para el ejercicio de sus funciones.
@@ -1325,9 +1331,9 @@ V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Est
 
 VI.- Cuidar en los distintos ramos de la Administración que los caudales públicos estén asegurados y se recauden e inviertan con arreglo a las Leyes;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2007)</small>
 
-VII.- Presentar al Congreso la Iniciativa de Ley de Ingresos del Estado, el proyecto de Presupuesto de Egresos del Estado, así como remitir trimestralmente las cuentas de recaudación y aplicación de los fondos públicos del Estado, en los términos que dispone esta Constitución;
+VII.- Presentar al Congreso la iniciativa de Ley de Ingresos del Estado y el proyecto de Presupuesto de Egresos del Estado, así como remitir las cuentas de recaudación y aplicación de los fondos públicos del Estado en los términos que disponen esta Constitución y la ley;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1623,9 +1629,9 @@ El Poder Judicial del Estado contará con autonomía presupuestal, orgánica y f
 
 El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Supremo Tribunal de Justicia aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2007)</small>
 
-El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, quien a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe anual sobre el estado que guarda la administración de justicia, y dentro de los informes trimestrales de cuenta pública correspondientes, los que deberá remitir dentro de la segunda quincena del mes siguiente a la terminación de cada trimestre, para su revisión por el Congreso del Estado.
+El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, el cual a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe sobre el estado que guarda la administración de justicia, y dentro de la cuenta pública, que deberá remitir al Congreso del Estado para su revisión.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
 
@@ -1671,7 +1677,7 @@ I.- Ser mexicano por nacimiento, ciudadano del Estado en pleno ejercicio de sus 
 
 II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
 III.- Poseer título profesional de Licenciado en Derecho o su equivalente, expedido por lo menos con diez años de anterioridad al día de la designación, por autoridad o institución legalmente facultada para ello;
 
@@ -1679,7 +1685,7 @@ III.- Poseer título profesional de Licenciado en Derecho o su equivalente, expe
 
 IV.- No haber ocupado por lo menos durante el año previo al día de la designación, los cargos de Gobernador, Secretario o su equivalente, Procurador General de Justicia o Diputado local en el Estado; y
 
-> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
@@ -1785,7 +1791,7 @@ XXXIII.- Las demás facultades y obligaciones que las leyes le otorguen.
 
 La ley establecerá las bases para la formación y actualización de los servidores públicos del Poder Judicial. Deberá prever la creación de un Centro de Actualización Jurídica para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia. También regulará los sistemas de ascenso, escalafón y provisión de vacantes, además de reglamentar lo relativo al examen de oposición o concurso de méritos, como requisito de ingreso al Poder Judicial.
 
-> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prestaciones a los servidores públicos del Poder Judicial se cubrirán en los términos que determinen las disposiciones jurídicas aplicables.
 
@@ -3294,3 +3300,21 @@ El Congreso del Estado, dentro de los ciento veinte días posteriores a la publi
 ###### ARTÍCULO TERCERO.
 
 Los Magistrados del Supremo Tribunal de Justicia en funciones podrán ser objeto de ratificación para un nuevo período por el número de años precisos para completar el término de doce años de desempeño previsto Constitucionalmente al inicio de su nombramiento, en su caso, conforme a lo dispuesto por el artículo 106 de la Constitución Política del Estado.
+
+P.O. 20 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado hará las reformas y adiciones que en atención al presente Decreto requiere la Ley de Fiscalización Superior del Estado dentro de los sesenta días posteriores a su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Los períodos de presentación de las cuentas públicas que se establecen en el artículo 45 que se reforma, se deberán aplicar por parte de las entidades sujetas de fiscalización a partir del ejercicio fiscal del año 2008.
+
+###### ARTÍCULO CUARTO.
+
+El Auditor Superior del Estado continuará en el desempeño de su encargo hasta la conclusión del período para el que fue designado en términos de la Ley de Fiscalización Superior del Estado de Tamaulipas.
