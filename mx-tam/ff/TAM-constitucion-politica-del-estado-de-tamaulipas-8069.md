@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2007-01-15"
+last_updated: "2007-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -631,7 +631,9 @@ En su oportunidad revisará y calificará las cuentas de aplicación de los fond
 
 En el caso de las cuentas del Poder Ejecutivo y de los Ayuntamientos, deberá revisarse la recaudación y analizarse si fueron percibidos los recursos del caso en cumplimiento de las disposiciones legales aplicables.
 
-Los poderes del Estado presentarán cuentas públicas trimestrales durante la segunda quincena del mes siguiente a la terminación de cada trimestre. Los ayuntamientos, los entes públicos estatales y todo organismo estatal o municipal la presentarán en términos de la ley de la materia.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2007)</small>
+
+Los poderes del Estado, los Ayuntamientos, y los organismos estatales o municipales presentarán cuenta pública semestral o anualmente en términos de la ley de la materia. En el año en que concluya el período constitucional de la entidad sujeta de fiscalización correspondiente, podrán optar por la presentación de la cuenta pública en forma trimestral.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -727,9 +729,9 @@ III. Condonar contribuciones del Estado, en los casos que estime convenientes, c
 
 IV. Fijar, a propuesta de los respectivos Ayuntamientos, las contribuciones y otros ingresos que deban formar la Hacienda Pública de los Municipios, procurando que sean suficientes para cubrir sus necesidades;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2007)</small>
 
-V. Nombrar y remover a sus servidores públicos en los términos que señale la ley sobre la organización y funcionamiento internos del Congreso; así como al Auditor Superior del Estado en la forma dispuesta por la Ley;
+V. Nombrar y remover a sus servidores públicos en los términos que señale la Ley sobre la Organización y Funcionamiento Internos del Congreso; así como al Auditor Superior del Estado en los términos dispuestos por esta Constitución y la ley.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -863,7 +865,7 @@ XLIV. Concurrir a la reforma de la Constitución Política de los Estados Unidos
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
 
-XLV.- Legislar en materia de desarrollo sustentable, conforme a los siguientes principios:
+XLV. Legislar en materia de desarrollo sustentable, conforme a los siguientes principios:
 
 a).- El derecho de los habitantes del Estado a una vida saludable y productiva en armonía con la naturaleza;
 
@@ -1173,6 +1175,10 @@ III.- Efectuar visitas domiciliarias únicamente para exigir la exhibición de l
 
 IV.- Determinar los daños y perjuicios que afecten las haciendas públicas estatal o municipales o al patrimonio de los entes públicos estatales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2007)</small>
+
+El Congreso designará al Auditor Superior del Estado por el voto de cuando menos las dos terceras partes de sus miembros presentes. La ley establecerá el procedimiento para su designación. El titular de la Auditoría Superior del Estado será designado por un solo período y durará en su encargo seis años. Sólo podrá ser removido de su encargo por las causas graves que señale la ley, mediante el procedimiento que la misma establezca y con la votación requerida para su designación.
+
 En el cumplimiento de sus funciones, la Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes de su competencia y se apruebe la cuenta pública correspondiente; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
 Los poderes del Estado, los Ayuntamientos, los entes públicos estatales, los organismos estatales y municipales y toda persona sujeta a la fiscalización superior facilitarán a la Auditoría los auxilios que requiera para el ejercicio de sus funciones.
@@ -1329,9 +1335,9 @@ V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Est
 
 VI.- Cuidar en los distintos ramos de la Administración que los caudales públicos estén asegurados y se recauden e inviertan con arreglo a las Leyes;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2007)</small>
 
-VII.- Presentar al Congreso la Iniciativa de Ley de Ingresos del Estado, el proyecto de Presupuesto de Egresos del Estado, así como remitir trimestralmente las cuentas de recaudación y aplicación de los fondos públicos del Estado, en los términos que dispone esta Constitución;
+VII.- Presentar al Congreso la iniciativa de Ley de Ingresos del Estado y el proyecto de Presupuesto de Egresos del Estado, así como remitir las cuentas de recaudación y aplicación de los fondos públicos del Estado en los términos que disponen esta Constitución y la ley;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1627,9 +1633,9 @@ El Poder Judicial del Estado contará con autonomía presupuestal, orgánica y f
 
 El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Supremo Tribunal de Justicia aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2007)</small>
 
-El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, quien a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe anual sobre el estado que guarda la administración de justicia, y dentro de los informes trimestrales de cuenta pública correspondientes, los que deberá remitir dentro de la segunda quincena del mes siguiente a la terminación de cada trimestre, para su revisión por el Congreso del Estado.
+El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, el cual a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe sobre el estado que guarda la administración de justicia, y dentro de la cuenta pública, que deberá remitir al Congreso del Estado para su revisión.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
 
@@ -1675,7 +1681,7 @@ I.- Ser mexicano por nacimiento, ciudadano del Estado en pleno ejercicio de sus 
 
 II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
 III.- Poseer título profesional de Licenciado en Derecho o su equivalente, expedido por lo menos con diez años de anterioridad al día de la designación, por autoridad o institución legalmente facultada para ello;
 
@@ -1683,7 +1689,7 @@ III.- Poseer título profesional de Licenciado en Derecho o su equivalente, expe
 
 IV.- No haber ocupado por lo menos durante el año previo al día de la designación, los cargos de Gobernador, Secretario o su equivalente, Procurador General de Justicia o Diputado local en el Estado; y
 
-> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
@@ -1789,7 +1795,7 @@ XXXIII.- Las demás facultades y obligaciones que las leyes le otorguen.
 
 La ley establecerá las bases para la formación y actualización de los servidores públicos del Poder Judicial. Deberá prever la creación de un Centro de Actualización Jurídica para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia. También regulará los sistemas de ascenso, escalafón y provisión de vacantes, además de reglamentar lo relativo al examen de oposición o concurso de méritos, como requisito de ingreso al Poder Judicial.
 
-> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prestaciones a los servidores públicos del Poder Judicial se cubrirán en los términos que determinen las disposiciones jurídicas aplicables.
 
@@ -3303,819 +3309,23 @@ El Congreso del Estado, dentro de los ciento veinte días posteriores a la publi
 
 Los Magistrados del Supremo Tribunal de Justicia en funciones podrán ser objeto de ratificación para un nuevo período por el número de años precisos para completar el término de doce años de desempeño previsto Constitucionalmente al inicio de su nombramiento, en su caso, conforme a lo dispuesto por el artículo 106 de la Constitución Política del Estado.
 
-###### ARTICULO PRIMERO.
+P.O. 20 DE MARZO DE 2007.
 
-El presente decreto entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación, salvo lo previsto en los artículos siguientes.
+###### ARTÍCULO PRIMERO.
 
-###### ARTICULO SEGUNDO.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-Las disposiciones legales vigentes continuarán aplicándose en lo que no se opongan al presente Decreto, en tanto se expiden las normas reglamentarias correspondientes.
+###### ARTÍCULO SEGUNDO.
 
-D.O.F. 14 DE AGOSTO DE 2001.
+El Congreso del Estado hará las reformas y adiciones que en atención al presente Decreto requiere la Ley de Fiscalización Superior del Estado dentro de los sesenta días posteriores a su publicación.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO TERCERO.
 
-Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los municipios y que a la entrada en vigor de las reformas a que se refiere el artículo transitorio anterior sean prestados por los gobiernos estatales, o de manera coordinada con los municipios, éstos podrán asumirlos, previa aprobación del ayuntamiento. Los gobiernos de los estados dispondrán de lo necesario para que la función o servicio público de que se trate se transfiera al municipio de manera ordenada, conforme al programa de transferencia que presente el gobierno del estado, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud.
-
-En el caso del inciso a) de la fracción III del artículo 115, dentro del plazo señalado en el párrafo anterior, los gobiernos estatales podrán solicitar a la legislatura correspondiente, conservar en su ámbito de competencia los servicios a que se refiere el citado inciso, cuando la transferencia de estado a municipio afecte, en perjuicio de la población, su prestación. La legislatura estatal resolverá lo conducente.
-
-En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+Los períodos de presentación de las cuentas públicas que se establecen en el artículo 45 que se reforma, se deberán aplicar por parte de las entidades sujetas de fiscalización a partir del ejercicio fiscal del año 2008.
 
 ###### ARTÍCULO CUARTO.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-D.O.F. 15 DE OCTUBRE DE 2012.
-
-ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, y quedarán derogadas todas las disposiciones normativas que contravengan a este decreto.
-
-D.O.F. 30 DE NOVIEMBRE DE 2012.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 26 DE FEBRERO DE 2013.
-
-Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Ejecutivo Federal someterá a la Cámara de Senadores las ternas para la designación de los integrantes de la Junta de Gobierno del Instituto Nacional para la Evaluación de la Educación, en un plazo máximo de sesenta días naturales a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, que deberá recaer en personas con capacidad y experiencia en las materias de la competencia del Instituto.
-
-Para asegurar la renovación escalonada de los integrantes, los primeros nombramientos se realizarán por los periodos siguientes:
-
-I. Dos nombramientos por un periodo de cinco años;
-
-II. Dos nombramientos por un periodo de seis años, y
-
-III. Un nombramiento por un periodo de siete.
-
-El Ejecutivo Federal deberá determinar el periodo que corresponda a cada uno de los miembros, al someter su designación a la aprobación de la Cámara de Senadores.
-
-Para la conformación de la Primera Junta de Gobierno del Instituto, el Ejecutivo Federal someterá a la aprobación de la Cámara de Senadores cinco ternas para que de entre ellas se designen a los cinco integrantes que la constituirán. La presentación de ternas en el futuro corresponderá a la renovación escalonada que precisa el párrafo segundo de este artículo.
-
-El primer Presidente de la Junta de Gobierno del Instituto durará en su encargo cuatro años.
-
-Tercero. El Congreso de la Unión deberá expedir la Ley del Instituto Nacional para la Evaluación de la Educación, así como las reformas a la Ley General de Educación correspondientes, a más tardar en un plazo de seis meses contado a partir de la fecha de publicación del presente Decreto.
-
-En tanto el Congreso de la Unión expide la Ley del Instituto Nacional para la Evaluación de la Educación, el Instituto Nacional creado por este Decreto ejercerá sus atribuciones y competencia conforme al Decreto por el que se reforma el diverso por el que se crea el Instituto Nacional para la Evaluación de la Educación, publicado en el Diario Oficial de la Federación del 16 de mayo de 2012, en lo que no se oponga al presente Decreto. Para estos efectos, las atribuciones previstas en dicho ordenamiento para el Órgano de Gobierno y la Junta Técnica serán ejercidas por la Junta de Gobierno del Instituto, y las de la Presidencia por el Presidente de la Junta de Gobierno.
-
-Cuarto. Los recursos materiales y financieros, así como los trabajadores adscritos al organismo descentralizado Instituto Nacional para la Evaluación de la Educación, pasan a formar parte del Instituto que se crea en los términos del presente Decreto.
-
-Quinto. Para el debido cumplimiento de lo dispuesto por los artículos 3o. y 73, fracción XXV, de esta Constitución, el Congreso de la Unión y las autoridades competentes deberán prever al menos lo siguiente:
-
-I. La creación de un Sistema de Información y Gestión Educativa. Al efecto, durante el año 2013 el Instituto Nacional de Estadística y Geografía realizará un censo de escuelas, maestros y alumnos, que permita a la autoridad tener en una sola plataforma los datos necesarios para la operación del sistema educativo y que, a su vez, permita una comunicación directa entre los directores de escuela y las autoridades educativas;
-
-II. El uso de la evaluación del desempeño docente para dar mayor pertinencia y capacidades al sistema nacional de formación, actualización, capacitación y superación profesional para maestros, en el marco de la creación de un servicio profesional docente. La evaluación de los maestros debe tener, como primer propósito, el que ellos y el sistema educativo cuenten con referentes bien fundamentados para la reflexión y el diálogo conducentes a una mejor práctica profesional. El sistema educativo deberá otorgar los apoyos necesarios para que los docentes puedan, prioritariamente, desarrollar sus fortalezas y superar sus debilidades, y
-
-III. Las adecuaciones al marco jurídico para:
-
-a) Fortalecer la autonomía de gestión de las escuelas ante los órdenes de gobierno que corresponda con el objetivo de mejorar su infraestructura, comprar materiales educativos, resolver problemas de operación básicos y propiciar condiciones de participación para que alumnos, maestros y padres de familia, bajo el liderazgo del director, se involucren en la resolución de los retos que cada escuela enfrenta.
-
-b) Establecer en forma paulatina y conforme a la suficiencia presupuestal escuelas de tiempo completo con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural. En aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria se impulsarán esquemas eficientes para el suministro de alimentos nutritivos a los alumnos a partir de microempresas locales, y
-
-c) Prohibir en todas las escuelas los alimentos que no favorezcan la salud de los educandos.
-
-Al efecto, el Poder Legislativo hará las adecuaciones normativas conducentes y preverá en ellas los elementos que permitan al Ejecutivo Federal instrumentar esta medida. El Ejecutivo Federal la instrumentará en un plazo de 180 días naturales, contados a partir del día siguiente al de la entrada en vigor de las normas que al efecto expida el Congreso de la Unión.
-
-Sexto. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
-
-D.O.F. 5 DE JUNIO DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. El Ejecutivo Federal tendrá un plazo de 16 meses para iniciar las leyes reglamentarias pertinentes a la presente reforma.
-
-D.O.F. 11 DE JUNIO DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Las medidas de fomento a la competencia en televisión, radio, telefonía y servicios de datos, deberán aplicarse en todos los segmentos de forma que se garantice en su conjunto la competencia efectiva en la radiodifusión y telecomunicaciones.
-
-TERCERO. El Congreso de la Unión realizará las adecuaciones necesarias al marco jurídico conforme al presente Decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor, y deberá:
-
-I. Establecer tipos penales especiales que castiguen severamente prácticas monopólicas y fenómenos de concentración;
-
-II. Regular el organismo público a que se refiere el artículo 6o. que se adiciona en virtud del presente Decreto. Pasarán a este organismo público los recursos humanos, financieros y materiales del organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales;
-
-III. Establecer los mecanismos para homologar el régimen de permisos y concesiones de radiodifusión, a efecto de que únicamente existan concesiones, asegurando una diversidad de medios que permita distinguir las concesiones de uso comercial, público, privado y social que incluyen las comunitarias e indígenas;
-
-IV. Regular el derecho de réplica;
-
-V. Establecer la prohibición de difundir publicidad engañosa o subrepticia;
-
-VI. Establecer los mecanismos que aseguren la promoción de la producción nacional independiente;
-
-VII. Establecer prohibiciones específicas en materia de subsidios cruzados o trato preferencial, consistentes con los principios de competencia, para el efecto de que los operadores de radiodifusión o telecomunicaciones no otorguen subsidios a los servicios que proporcionan, por sí o a través de sus empresas subsidiarias, filiales, afiliadas o que pertenezcan al mismo grupo de interés económico. Cada concesionario deberá fijar tarifas mínimas, consistentes con los principios de competencia, para la emisión de anuncios, las cuales serán presentadas ante la autoridad para su registro público;
-
-VIII. Determinar los criterios conforme a los cuales el Instituto Federal de Telecomunicaciones otorgará las autorizaciones para el acceso a la multiprogramación, bajo los principios de competencia y calidad, garantizado el derecho a la información y atendiendo de manera particular la concentración nacional y regional de frecuencias, incluyendo en su caso, el pago de las contraprestaciones debidas;
-
-IX. Crear un Consejo Consultivo del Instituto Federal de Telecomunicaciones, integrado por miembros honorarios y encargado de fungir como órgano asesor en la observancia de los principios establecidos en los artículos 6o. y 7o. constitucionales, y
-
-X. Aprobar las leyes, reformas y adiciones que deriven del presente Decreto.
-
-CUARTO. En el mismo plazo referido en el artículo anterior, el Congreso de la Unión deberá expedir un solo ordenamiento legal que regule de manera convergente, el uso, aprovechamiento y explotación del espectro radioeléctrico, las redes de telecomunicaciones, así como la prestación de servicios de radiodifusión y telecomunicaciones.
-
-La ley establecerá que las concesiones serán únicas, de forma que los concesionarios puedan prestar todo tipo de servicios a través de sus redes, siempre que cumplan con las obligaciones y contraprestaciones que les imponga el Instituto Federal de Telecomunicaciones y en su caso, las contraprestaciones correspondientes.
-
-El Instituto Federal de Telecomunicaciones, una vez que haya determinado los concesionarios que tienen el carácter de agente económico preponderante en términos de la fracción III del artículo Octavo Transitorio de este Decreto, establecerá, dentro de los sesenta días naturales siguientes, mediante lineamientos de carácter general, los requisitos, términos y condiciones que los actuales concesionarios de radiodifusión, telecomunicaciones y telefonía deberán cumplir para que se les autorice la prestación de servicios adicionales a los que son objeto de su concesión o para transitar al modelo de concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. La autorización a que se refiere este párrafo podrá otorgarse a los agentes económicos preponderantes sólo cuando se encuentren en cumplimiento de las medidas que se les hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio de este Decreto. El Instituto deberá resolver sobre la procedencia o improcedencia de las autorizaciones a que se refiere este párrafo dentro de los sesenta días naturales siguientes a la presentación de las solicitudes respectivas y, en el primer caso, determinará las contraprestaciones correspondientes.
-
-QUINTO. A la entrada en vigor del presente Decreto se permitirá la inversión extranjera directa hasta el cien por ciento en telecomunicaciones y comunicación vía satélite.
-
-Se permitirá la inversión extranjera directa hasta un máximo del cuarenta y nueve por ciento en radiodifusión. Dentro de este máximo de inversión extranjera se estará a la reciprocidad que exista en el país en el que se encuentre constituido el inversionista o el agente económico que controle en última instancia a éste, directa o indirectamente.
-
-La transición digital terrestre culminará el 31 de diciembre de 2015. Los Poderes de la Unión estarán obligados a promover, en el ámbito de sus competencias, la implementación de equipos receptores y decodificadores necesarios para la adopción de esta política de gobierno garantizando, a su vez, los recursos presupuestales que resulten necesarios. Los concesionarios y permisionarios están obligados a devolver, en cuanto culmine el proceso de transición a la televisión digital terrestre, las frecuencias que originalmente les fueron concesionadas por el Estado, a fin de garantizar el uso eficiente del espectro radioeléctrico, la competencia y el uso óptimo de la banda de 700 MHz.
-
-SEXTO. Con el objeto de asegurar el escalonamiento en el cargo de los Comisionados de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones, los primeros Comisionados nombrados en cada uno de esos órganos concluirán su encargo el último día de febrero de los años 2016, 2017, 2018, 2019, 2020, 2021 y 2022.
-
-El Ejecutivo Federal, al someter los nombramientos a la ratificación del Senado de la República, señalará los periodos respectivos.
-
-Para los nombramientos de los primeros Comisionados, tanto de la Comisión Federal de Competencia Económica como del Instituto Federal de Telecomunicaciones, deberá observarse lo siguiente:
-
-I. El Comité de Evaluación a que se refiere el artículo 28 de la Constitución deberá enviar al Ejecutivo Federal las listas de aspirantes respectivas, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto;
-
-II. Una vez recibidas las listas, el Ejecutivo Federal deberá remitir sus propuestas al Senado de la República dentro de los diez días naturales siguientes;
-
-III. El Senado de la República, una vez reunido, contará con un plazo de diez días naturales para resolver sobre la propuesta, y
-
-IV. En caso de que respecto de una misma vacante el Senado de la República no apruebe en dos ocasiones la designación del Ejecutivo Federal, corresponderá a éste la designación directa del comisionado respectivo, a partir de la lista de aspirantes presentada por el Comité de Evaluación a que se refiere el artículo 28 de la Constitución.
-
-SÉPTIMO. En tanto se integran los órganos constitucionales conforme a lo dispuesto en el artículo Sexto Transitorio, continuarán en sus funciones, conforme al marco jurídico vigente a la entrada en vigor del presente Decreto, los órganos desconcentrados Comisión Federal de Competencia y Comisión Federal de Telecomunicaciones. Los recursos humanos, financieros y materiales de los órganos desconcentrados referidos pasarán a los órganos constitucionales que se crean por virtud de este Decreto.
-
-Los procedimientos iniciados con anterioridad a la integración de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones, continuarán su trámite ante estos órganos en términos de la legislación aplicable al momento de su inicio. Las resoluciones que recaigan en estos procedimientos, sólo podrán ser impugnadas en términos de lo dispuesto por el presente Decreto mediante juicio de amparo indirecto.
-
-Asimismo, los juicios y recursos en trámite, continuarán hasta su conclusión conforme a la legislación vigente a la entrada en vigor del presente Decreto.
-
-Si no se hubieren realizado las adecuaciones al marco jurídico previstas en el artículo Tercero Transitorio a la fecha de la integración de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones, éstos ejercerán sus atribuciones conforme a lo dispuesto por el presente Decreto y, en lo que no se oponga a éste, en las leyes vigentes en materia de competencia económica, radiodifusión y telecomunicaciones.
-
-OCTAVO. Una vez constituido el Instituto Federal de Telecomunicaciones conforme a lo dispuesto en el artículo Sexto Transitorio, deberá observarse lo siguiente:
-
-I. Los concesionarios que presten servicios de televisión radiodifundida están obligados a permitir a los concesionarios de televisión restringida la retransmisión de su señal, de manera gratuita y no discriminatoria, dentro de la misma zona de cobertura geográfica, en forma íntegra, simultánea y sin modificaciones, incluyendo la publicidad y con la misma calidad de la señal que se radiodifunde.
-
-Los concesionarios que presten servicios de televisión restringida están obligados a retransmitir la señal de televisión radiodifundida, de manera gratuita y no discriminatoria, dentro de la misma zona de cobertura geográfica, en forma íntegra, simultánea y sin modificaciones, incluyendo la publicidad y con la misma calidad de la señal que se radiodifunde, e incluirla sin costo adicional en los servicios contratados por los suscriptores y usuarios. Los concesionarios de televisión restringida vía satélite, sólo deberán retransmitir obligatoriamente las señales radiodifundidas de cobertura del cincuenta por ciento o más del territorio nacional. Todos los concesionarios de televisión restringida deberán retransmitir las señales radiodifundidas por instituciones públicas federales.
-
-Los concesionarios de telecomunicaciones o de televisión radiodifundida que hayan sido declarados con poder sustancial en cualquiera de los mercados de telecomunicaciones o radiodifusión o como agentes económicos preponderantes en los términos de este Decreto, no tendrán derecho a la regla de gratuidad de los contenidos de radiodifusión o de la retransmisión gratuita; lo que en ningún caso se reflejará como costo adicional en los servicios contratados por los suscriptores y usuarios. Estos concesionarios deberán acordar las condiciones y precios de los contenidos radiodifundidos o de la retransmisión. En caso de diferendo, el Instituto Federal de Telecomunicaciones determinará la tarifa bajo los principios de libre competencia y concurrencia. El Instituto Federal de Telecomunicaciones sancionará con la revocación de la concesión a los agentes económicos preponderantes o con poder sustancial que se beneficien directa o indirectamente de la regla de gratuidad, a través de otros concesionarios, sin perjuicio del pago de las contraprestaciones que correspondan. También se revocará la concesión a estos últimos.
-
-Las obligaciones de ofrecer y retransmitir gratuitamente los contenidos radiodifundidos perderán su vigencia simultáneamente cuando existan condiciones de competencia en los mercados de radiodifusión y telecomunicaciones. Esta declaración será realizada por el Instituto Federal de Telecomunicaciones en los términos que establezca la ley. En este caso, los concesionarios estarán en libertad de acordar los precios y condiciones de la retransmisión de contenidos radiodifundidos. En caso de diferendo el Instituto Federal de Telecomunicaciones determinará la tarifa que deberá estar orientada a costos.
-
-II. Para dar cabal cumplimiento al Programa de Licitación y Adjudicación de Frecuencias de Televisión Radiodifundida Digital, el Instituto Federal de Telecomunicaciones publicará, en un plazo no mayor a ciento ochenta días naturales a partir de su integración, las bases y convocatorias para licitar nuevas concesiones de frecuencias de televisión radiodifundida que deberán ser agrupadas a efecto de formar por lo menos dos nuevas cadenas de televisión con cobertura nacional, bajo los principios de funcionamiento eficiente de los mercados, máxima cobertura nacional de servicios, derecho a la información y función social de los medios de comunicación, y atendiendo de manera particular las barreras de entrada y las características existentes en el mercado de televisión abierta. No podrán participar en las licitaciones aquellos concesionarios o grupos relacionados con vínculos de tipo comercial, organizativo, económico o jurídico, que actualmente acumulen concesiones para prestar servicios de radiodifusión de 12 MHz de espectro radioeléctrico o más en cualquier zona de cobertura geográfica.
-
-III. El Instituto Federal de Telecomunicaciones deberá determinar la existencia de agentes económicos preponderantes en los sectores de radiodifusión y de telecomunicaciones, e impondrá las medidas necesarias para evitar que se afecte la competencia y la libre concurrencia y, con ello, a los usuarios finales. Dichas medidas se emitirán en un plazo no mayor a ciento ochenta días naturales contados a partir de su integración, e incluirán en lo aplicable, las relacionadas con información, oferta y calidad de servicios, acuerdos en exclusiva, limitaciones al uso de equipos terminales entre redes, regulación asimétrica en tarifas e infraestructuras de red, incluyendo la desagregación de sus elementos esenciales y, en su caso, la separación contable, funcional o estructural de dichos agentes.
-
-Para efectos de lo dispuesto en este Decreto, se considerará como agente económico preponderante, en razón de su participación nacional en la prestación de los servicios de radiodifusión o telecomunicaciones, a cualquiera que cuente, directa o indirectamente, con una participación nacional mayor al cincuenta por ciento, medido este porcentaje ya sea por el número de usuarios, suscriptores, audiencia, por el tráfico en sus redes o por la capacidad utilizada de las mismas, de acuerdo con los datos con que disponga el Instituto Federal de Telecomunicaciones.
-
-Las obligaciones impuestas al agente económico preponderante se extinguirán en sus efectos por declaratoria del Instituto Federal de Telecomunicaciones una vez que conforme a la ley existan condiciones de competencia efectiva en el mercado de que se trate.
-
-IV. El Instituto Federal de Telecomunicaciones, en un plazo no mayor a ciento ochenta días naturales contados a partir de su integración, establecerá las medidas que permitan la desagregación efectiva de la red local del agente preponderante en telecomunicaciones de manera que otros concesionarios de telecomunicaciones puedan acceder, entre otros, a los medios físicos, técnicos y lógicos de conexión entre cualquier punto terminal de la red pública de telecomunicaciones y el punto de acceso a la red local pertenecientes a dicho agente. Estas medidas también serán aplicables al agente económico con poder sustancial en el mercado relevante de servicios al usuario final.
-
-Las medidas a que se refiere el párrafo anterior deberán considerar como insumo esencial todos los elementos necesarios para la desagregación efectiva de la red local. En particular, los concesionarios podrán elegir los elementos de la red local que requieran del agente preponderante y el punto de acceso a la misma. Las citadas medidas podrán incluir la regulación de precios y tarifas, condiciones técnicas y de calidad, así como su calendario de implantación con el objeto de procurar la cobertura universal y el aumento en la penetración de los servicios de telecomunicaciones.
-
-V. El Instituto Federal de Telecomunicaciones revisará, dentro de los ciento ochenta días naturales siguientes a su integración, los títulos de concesión vigentes, a efecto de verificar el cumplimiento de sus términos, condiciones y modalidades.
-
-VI. En un plazo de ciento ochenta días naturales siguientes a su integración, el Instituto Federal de Telecomunicaciones recabará la información necesaria a fin de constituir el Registro Público de Concesiones a que se refiere el artículo 28 de la Constitución.
-
-NOVENO. En relación con las resoluciones a que se refieren las fracciones III y IV del artículo anterior, se estará a lo siguiente:
-
-I. Se pronunciarán de conformidad con el procedimiento que establezca la legislación vigente en la fecha de su emisión y a falta de disposición expresa, conforme a la Ley Federal de Procedimiento Administrativo;
-
-II. Únicamente podrán ser impugnadas mediante el juicio de amparo indirecto y no serán objeto de suspensión, tal y como lo establece el artículo 28 de la Constitución, reformado en virtud del presente Decreto. Las normas generales aplicadas durante el procedimiento y los actos intraprocesales sólo podrán reclamarse en el amparo promovido contra la resolución referida, y
-
-III. No admitirán recurso administrativo alguno y solamente podrán ser impugnadas a través del juicio de amparo indirecto en los términos de la fracción anterior.
-
-El incumplimiento de las medidas contempladas en las citadas resoluciones será sancionado en términos de las disposiciones aplicables. El incumplimiento a la separación contable, funcional o estructural dará lugar a la revocación de los títulos de concesión.
-
-DÉCIMO. Los medios públicos que presten el servicio de radiodifusión deberán contar con independencia editorial; autonomía de gestión financiera; garantías de participación ciudadana; reglas claras para la transparencia y rendición de cuentas; defensa de sus contenidos; opciones de financiamiento; pleno acceso a tecnologías, y reglas para la expresión de diversidades ideológicas, étnicas y culturales.
-
-DÉCIMO PRIMERO. Para que la publicidad en radio y televisión sea equilibrada, la ley dotará al Instituto Federal de Telecomunicaciones de atribuciones para vigilar el cumplimiento de los tiempos máximos que la misma señale para la transmisión de mensajes comerciales.
-
-La ley deberá asegurar que la programación dirigida a la población infantil respete los valores y principios a que se refiere el artículo 3o. de la Constitución, así como las normas en materia de salud y establecerá lineamientos específicos que regulen la publicidad pautada en la programación destinada al público infantil. El Instituto contará con facultades para supervisar su cumplimiento.
-
-Asimismo, corresponderá al Instituto resolver cualquier desacuerdo en materia de retransmisión de contenidos, con excepción de la materia electoral.
-
-DÉCIMO SEGUNDO. El Consejo de la Judicatura Federal deberá establecer Tribunales Colegiados de Circuito y Juzgados de Distrito especializados en materia de competencia económica, radiodifusión y telecomunicaciones, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
-
-El Consejo de la Judicatura Federal emitirá acuerdos de carácter general en los que se preverán la forma de asignación de los asuntos y la rotación de jueces y magistrados especializados que conocerán de los mismos, así como las medidas pertinentes para garantizar la independencia, objetividad e imparcialidad de los juzgados y tribunales a que se refiere el párrafo anterior.
-
-DÉCIMO TERCERO. La Cámara de Diputados, en el Presupuesto de Egresos de la Federación, aprobará las disposiciones necesarias para dotar de suficiencia presupuestaria a los órganos reguladores a que se refiere este Decreto para el desempeño de sus funciones, así como las previsiones presupuestarias para el buen funcionamiento del organismo a que se refiere el artículo 6o., Apartado B, fracción V, de la Constitución.
-
-DÉCIMO CUARTO. El Ejecutivo Federal tendrá a su cargo la política de inclusión digital universal, en la que se incluirán los objetivos y metas en materia de infraestructura, accesibilidad y conectividad, tecnologías de la información y comunicación, y habilidades digitales, así como los programas de gobierno digital, gobierno y datos abiertos, fomento a la inversión pública y privada en aplicaciones de telesalud, telemedicina y Expediente Clínico Electrónico y desarrollo de aplicaciones, sistemas y contenidos digitales, entre otros aspectos.
-
-Dicha política tendrá, entre otras metas, que por lo menos 70 por ciento de todos los hogares y 85 por ciento de todas las micros, pequeñas y medianas empresas a nivel nacional, cuenten con accesos con una velocidad real para descarga de información de conformidad con el promedio registrado en los países miembros de la Organización para la Cooperación y el Desarrollo Económicos. Esta característica deberá ser ofrecida a precios competitivos internacionalmente.
-
-El Instituto Federal de Telecomunicaciones deberá realizar las acciones necesarias para contribuir con los objetivos de la política de inclusión digital universal.
-
-Asimismo, el Ejecutivo Federal elaborará las políticas de radiodifusión y telecomunicaciones del Gobierno Federal y realizará las acciones tendientes a garantizar el acceso a Internet de banda ancha en edificios e instalaciones de las dependencias y entidades de la Administración Pública Federal. Las entidades federativas harán lo propio en el ámbito de su competencia.
-
-DÉCIMO QUINTO. La Comisión Federal de Electricidad cederá totalmente a Telecomunicaciones de México su concesión para instalar, operar y explotar una red pública de telecomunicaciones y le transferirá todos los recursos y equipos necesarios para la operación y explotación de dicha concesión, con excepción de la fibra óptica, derechos de vía, torres, postería, edificios e instalaciones que quedarán a cargo de la Comisión Federal de Electricidad, garantizando a Telecomunicaciones de México el acceso efectivo y compartido a dicha infraestructura para su aprovechamiento eficiente, a fin de lograr el adecuado ejercicio de sus funciones y el cumplimiento de sus objetivos. Telecomunicaciones de México tendrá atribuciones y recursos para promover el acceso a servicios de banda ancha, planear, diseñar y ejecutar la construcción y el crecimiento de una robusta red troncal de telecomunicaciones de cobertura nacional, así como la comunicación vía satélite y la prestación del servicio de telégrafos. Lo anterior, de conformidad con los lineamientos y acuerdos emitidos por el Instituto Federal de Telecomunicaciones.
-
-DÉCIMO SEXTO. El Estado, a través del Ejecutivo Federal, en coordinación con el Instituto Federal de Telecomunicaciones, garantizará la instalación de una red pública compartida de telecomunicaciones que impulse el acceso efectivo de la población a la comunicación de banda ancha y a los servicios de telecomunicaciones, de conformidad con los principios contenidos en el artículo 6o., Apartado B, fracción II del presente Decreto y las características siguientes:
-
-I. Iniciará la instalación antes de que concluya el año 2014, y estará en operación antes de que concluya el año 2018;
-
-II. Contemplará el aprovechamiento de al menos 90 MHz del espectro liberado por la transición a la Televisión Digital Terrestre (banda 700 MHz), de los recursos de la red troncal de fibra óptica de la Comisión Federal de Electricidad y de cualquier otro activo del Estado que pueda utilizarse en la instalación y la operación de la red compartida;
-
-III. Podrá contemplar inversión pública o privada, identificando las necesidades presupuestales y, en su caso, las previsiones que deba aprobar la Cámara de Diputados;
-
-IV. Asegurará que ningún prestador de servicios de telecomunicaciones tenga influencia en la operación de la red;
-
-V. Asegurará el acceso a los activos requeridos para la instalación y operación de la red, así como el cumplimiento de su objeto y obligaciones de cobertura, calidad y prestación no discriminatoria de servicios;
-
-VI. Operará bajo principios de compartición de toda su infraestructura y la venta desagregada de todos sus servicios y capacidades, y prestará exclusivamente servicios a las empresas comercializadoras y operadoras de redes de telecomunicaciones, bajo condiciones de no discriminación y a precios competitivos. Los operadores que hagan uso de dicha compartición y venta desagregada se obligarán a ofrecer a los demás operadores y comercializadores las mismas condiciones que reciban de la red compartida, y
-
-VII. Promoverá que la política tarifaria de la red compartida fomente la competencia y que asegure la reinversión de utilidades para la actualización, el crecimiento y la cobertura universal.
-
-El Ejecutivo Federal, en el marco del Sistema Nacional de Planeación Democrática, incluirá en los instrumentos programáticos respectivos, las acciones necesarias para el desarrollo de la red a que se refiere este artículo.
-
-DÉCIMO SÉPTIMO. En el marco del Sistema Nacional de Planeación Democrática, el Ejecutivo Federal incluirá en el Plan Nacional de Desarrollo y en los programas sectoriales, institucionales y especiales conducentes las siguientes acciones:
-
-I. El crecimiento de la red troncal prevista en el artículo Décimo Sexto Transitorio de este Decreto, ya sea mediante inversión pública, privada o mixta, para asegurar la máxima cobertura de servicios a la población;
-
-II. Un programa de banda ancha en sitios públicos que identifique el número de sitios a conectar cada año, hasta alcanzar la cobertura universal;
-
-III. Un estudio pormenorizado que identifique el mayor número posible de sitios públicos federales, ductos, postería y derechos de vía que deberán ser puestos a disposición de los operadores de telecomunicaciones y radiodifusión para agilizar el despliegue de sus redes. El programa deberá incluir la contraprestación que los concesionarios deberán pagar por el aprovechamiento correspondiente, bajo principios de acceso no discriminatorio y precios que promuevan el cumplimiento del derecho a que se refiere el artículo 6o., párrafo tercero, de la Constitución, siempre y cuando el concesionario ofrezca las mismas condiciones en el acceso a su propia infraestructura;
-
-IV. Un programa de trabajo para dar cabal cumplimiento a la política para la transición a la Televisión Digital Terrestre y los recursos presupuestales necesarios para ello, y
-
-V. Un Programa Nacional de Espectro Radioeléctrico que, de manera enunciativa y no limitativa, incluirá lo siguiente:
-
-a) Un programa de trabajo para garantizar el uso óptimo de las bandas 700 MHz y 2.5 GHz bajo principios de acceso universal, no discriminatorio, compartido y continuo, y
-
-b) Un programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión.
-
-El Instituto Federal de Telecomunicaciones deberá realizar las acciones necesarias para contribuir con los objetivos y metas fijados en el Plan Nacional de Desarrollo y demás instrumentos programáticos, relacionados con los sectores de radiodifusión y telecomunicaciones.
-
-DÉCIMO OCTAVO. Los derechos laborales de los trabajadores que presten sus servicios en las empresas y organismos dedicados a las actividades que comprende el presente Decreto se respetarán en todo momento de conformidad con la ley.
-
-D.O.F. 19 DE JULIO DE 2013.
-
-Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 30 DE SEPTIEMBRE DE 2013.
-
-PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Quedará sin efecto toda disposición que contravenga el presente Decreto.
-
-D.O.F. 8 DE OCTUBRE DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación de conformidad con las disposiciones previstas en los artículos siguientes.
-
-SEGUNDO. La legislación única en las materias procedimental penal, de mecanismos alternativos de solución de controversias y de ejecución de penas que expida el Congreso de la Unión conforme al presente Decreto, entrará en vigor en toda la República a más tardar el día dieciocho de junio de dos mil dieciséis.
-
-La legislación vigente en las materias procedimental penal, de mecanismos alternativos de solución de controversias y de ejecución de penas expedida por el Congreso de la Unión, las legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal continuará en vigor hasta que inicie la vigencia de la legislación que respecto de cada una de dichas materias expida el Congreso de la Unión conforme al presente Decreto.
-
-TERCERO. Los procedimientos penales iniciados con anterioridad a la entrada en vigor de la legislación procedimental penal que establece el presente Decreto, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse dichos procedimientos.
-
-D.O.F. 20 DE DICIEMBRE DE 2013.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Los derechos laborales de los trabajadores que presten sus servicios en los organismos, las dependencias y entidades de la Administración Pública Federal dedicadas a las actividades que comprende el presente Decreto se respetarán en todo momento de conformidad con la ley.
-
-Tercero. La ley establecerá la forma y plazos, los cuales no podrán exceder dos años a partir de la publicación de este Decreto, para que los organismos descentralizados denominados Petróleos Mexicanos y Comisión Federal de Electricidad se conviertan en empresas productivas del Estado. En tanto se lleva a cabo esta transición, Petróleos Mexicanos y sus organismos subsidiarios quedan facultados para recibir asignaciones y celebrar los contratos a que se refiere el párrafo séptimo del artículo 27 que se reforma por este Decreto. Asimismo, la Comisión Federal de Electricidad podrá suscribir los contratos a que se refiere el párrafo sexto del artículo 27 que se reforma por virtud de este Decreto.
-
-Cuarto. Dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión realizará las adecuaciones que resulten necesarias al marco jurídico, a fin de hacer efectivas las disposiciones del presente Decreto, entre ellas, regular las modalidades de contratación, que deberán ser, entre otras: de servicios, de utilidad o producción compartida, o de licencia, para llevar a cabo, por cuenta de la Nación, las actividades de exploración y extracción del petróleo y de los hidrocarburos sólidos, líquidos o gaseosos, incluyendo las que puedan realizar las empresas productivas del Estado con particulares, en términos de lo dispuesto por el artículo 27 de esta Constitución. En cada caso, el Estado definirá el modelo contractual que mejor convenga para maximizar los ingresos de la Nación.
-
-La ley establecerá las modalidades de las contraprestaciones que pagará el Estado a sus empresas productivas o a los particulares por virtud de las actividades de exploración y extracción del petróleo y de los demás hidrocarburos que hagan por cuenta de la Nación. Entre otras modalidades de contraprestaciones, deberán regularse las siguientes: I) en efectivo, para los contratos de servicios; II) con un porcentaje de la utilidad, para los contratos de utilidad compartida; III) con un porcentaje de la producción obtenida, para los contratos de producción compartida; IV) con la transmisión onerosa de los hidrocarburos una vez que hayan sido extraídos del subsuelo, para los contratos de licencia, o V) cualquier combinación de las anteriores. La Nación escogerá la modalidad de contraprestación atendiendo siempre a maximizar los ingresos para lograr el mayor beneficio para el desarrollo de largo plazo. Asimismo, la ley establecerá las contraprestaciones y contribuciones a cargo de las empresas productivas del Estado o los particulares y regulará los casos en que se les impondrá el pago a favor de la Nación por los productos extraídos que se les transfieran.
-
-Quinto. Las empresas productivas del Estado que cuenten con una asignación o suscriban un contrato para realizar actividades de exploración y extracción de petróleo y demás hidrocarburos sólidos, líquidos o gaseosos, así como los particulares que suscriban un contrato con el Estado o alguna de sus empresas productivas del Estado, para el mismo fin, conforme a lo establecido en el presente Decreto, podrán reportar para efectos contables y financieros la asignación o contrato correspondiente y sus beneficios esperados, siempre y cuando se afirme en las asignaciones o contratos que el petróleo y todos los hidrocarburos sólidos, líquidos o gaseosos, que se encuentren en el subsuelo, son propiedad de la Nación.
-
-Lo dispuesto en el párrafo anterior será aplicable a Petróleos Mexicanos y sus organismos subsidiarios durante el periodo de transición a que se refiere el transitorio tercero del presente Decreto.
-
-Sexto. La Secretaría del ramo en materia de Energía, con la asistencia técnica de la Comisión Nacional de Hidrocarburos, será la encargada de adjudicar a Petróleos Mexicanos las asignaciones a que se refiere el párrafo séptimo del artículo 27 de esta Constitución.
-
-El organismo deberá someter a consideración de la Secretaría del ramo en materia de Energía la adjudicación de las áreas en exploración y los campos que estén en producción, que esté en capacidad de operar, a través de asignaciones. Para lo anterior, deberá acreditar que cuenta con las capacidades técnicas, financieras y de ejecución necesarias para explorar y extraer los hidrocarburos de forma eficiente y competitiva. La solicitud se deberá presentar dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
-
-La Secretaría del ramo en materia de Energía revisará la solicitud, con la asistencia técnica de la Comisión Nacional de Hidrocarburos, y emitirá la resolución correspondiente dentro del plazo de ciento ochenta días naturales posteriores a la fecha de la solicitud de Petróleos Mexicanos, estableciendo en la misma la superficie, profundidad y vigencia de las asignaciones procedentes. Lo anterior tomando en cuenta, entre otros, los siguientes aspectos:
-
-a) Para asignaciones de exploración de hidrocarburos: en las áreas en las que, a la fecha de entrada en vigor del presente Decreto, Petróleos Mexicanos haya realizado descubrimientos comerciales o inversiones en exploración, será posible que, con base en su capacidad de inversión y sujeto a un plan claramente establecido de exploración de cada área asignada, continúe con los trabajos en un plazo de tres años, prorrogables por un período máximo de dos años en función de las características técnicas del campo de que se trate y del cumplimiento de dicho plan de exploración, y en caso de éxito, que continúe con las actividades de extracción. De no cumplirse con el plan de exploración, el área en cuestión deberá revertirse al Estado.
-
-b) Para asignaciones de extracción de hidrocarburos: Petróleos Mexicanos mantendrá sus derechos en cada uno de los campos que se encuentren en producción a la fecha de entrada en vigor del presente Decreto. Deberá presentar un plan de desarrollo de dichos campos que incluya descripciones de los trabajos e inversiones a realizar, justificando su adecuado aprovechamiento y una producción eficiente y competitiva.
-
-Para la determinación de las características establecidas en cada asignación de extracción de hidrocarburos se considerará la coexistencia de distintos campos en un área determinada. Con base en lo anterior, se podrá establecer la profundidad específica para cada asignación, de forma que las actividades extractivas puedan ser realizadas, por separado, en aquellos campos que se ubiquen en una misma área pero a diferente profundidad, con el fin de maximizar el desarrollo de recursos prospectivos en beneficio de la Nación.
-
-En caso de que, como resultado del proceso de adjudicación de asignaciones para llevar a cabo las actividades de exploración y extracción del petróleo y de los hidrocarburos sólidos, líquidos o gaseosos a que hace mención este transitorio, se llegaran a afectar inversiones de Petróleos Mexicanos, éstas serán reconocidas en su justo valor económico en los términos que para tal efecto disponga la Secretaría del ramo en materia de Energía. El Estado podrá determinar una contraprestación al realizar una asignación. Las asignaciones no podrán ser transferidas sin aprobación de la Secretaría del ramo en materia de Energía.
-
-Petróleos Mexicanos podrá proponer a la Secretaría del ramo en materia de Energía, para su autorización, la migración de las asignaciones que se le adjudiquen a los contratos a que se refiere el artículo 27, párrafo séptimo, de esta Constitución. Para ello, la Secretaría del ramo en materia de Energía contará con la asistencia técnica de la Comisión Nacional de Hidrocarburos.
-
-En la migración de las asignaciones a contratos, cuando Petróleos Mexicanos elija contratar con particulares, a fin de determinar al particular contratista, la Comisión Nacional de Hidrocarburos llevará a cabo la licitación en los términos que disponga la ley. La ley preverá, al menos, que la Secretaría del ramo en materia de Energía establezca los lineamientos técnicos y contractuales, y que la Secretaría del ramo en materia de Hacienda será la encargada de establecer las condiciones fiscales. En estos casos, la administración del contrato estará sujeta a las mismas autoridades y mecanismos de control que aplicarán a los contratos suscritos por el Estado.
-
-Séptimo. Para promover la participación de cadenas productivas nacionales y locales, la ley establecerá, dentro del plazo previsto en el transitorio cuarto, las bases y los porcentajes mínimos del contenido nacional en la proveeduría para la ejecución de las asignaciones y contratos a que se refiere el presente Decreto.
-
-La ley deberá establecer mecanismos para fomentar la industria nacional en las materias de este Decreto.
-
-Las disposiciones legales sobre contenido nacional deberán ajustarse a lo dispuesto en los tratados internacionales y acuerdos comerciales suscritos por México.
-
-Octavo. Derivado de su carácter estratégico, las actividades de exploración y extracción del petróleo y de los demás hidrocarburos, así como el servicio público de transmisión y distribución de energía eléctrica, a que se refiere el presente Decreto se consideran de interés social y orden público, por lo que tendrán preferencia sobre cualquier otra que implique el aprovechamiento de la superficie y del subsuelo de los terrenos afectos a aquéllas.
-
-La ley preverá los términos y las condiciones generales de la contraprestación que se deberá cubrir por la ocupación o afectación superficial o, en su caso, la indemnización respectiva.
-
-Los títulos de concesiones mineras que se encuentren vigentes a la entrada en vigor de este Decreto y aquellos que se otorguen con posterioridad, no conferirán derechos para la exploración y extracción del petróleo y los demás hidrocarburos sólidos, líquidos o gaseosos, sin perjuicio de los derechos previstos en sus propias concesiones. Los concesionarios deberán permitir la realización de estas actividades.
-
-La ley preverá, cuando ello fuere técnicamente posible, mecanismos para facilitar la coexistencia de las actividades mencionadas en el presente transitorio con otras que realicen el Estado o los particulares.
-
-Noveno. Dentro del plazo previsto en el transitorio cuarto del presente Decreto, el Congreso de la Unión realizará las adecuaciones al marco jurídico, a fin de establecer que los contratos y las asignaciones que el Estado suscriba con empresas productivas del Estado o con particulares para llevar a cabo, por cuenta de la Nación, las actividades de exploración y extracción del petróleo y de los hidrocarburos sólidos, líquidos o gaseosos, serán otorgados a través de mecanismos que garanticen la máxima transparencia, por lo que se preverá que las bases y reglas de los procedimientos que se instauren al efecto, serán debidamente difundidas y públicamente consultables.
-
-Asimismo, la ley preverá y regulará:
-
-a) Que los contratos cuenten con cláusulas de transparencia, que posibiliten que cualquier interesado los pueda consultar;
-
-b) Un sistema de auditorías externas para supervisar la efectiva recuperación, en su caso, de los costos incurridos y demás contabilidad involucrada en la operación de los contratos, y
-
-c) La divulgación de las contraprestaciones, contribuciones y pagos previstos en los contratos.
-
-Décimo. Dentro del plazo previsto en el transitorio cuarto del presente Decreto, el Congreso de la Unión realizará las adecuaciones que resulten necesarias al marco jurídico a fin de establecer, entre otras, las siguientes atribuciones de las dependencias y órganos de la Administración Pública Federal:
-
-a) A la Secretaría del ramo en materia de Energía: establecer, conducir y coordinar la política energética, la adjudicación de asignaciones y la selección de áreas que podrán ser objeto de los contratos a que se refiere el párrafo séptimo del artículo 27 de esta Constitución, con la asistencia técnica de la Comisión Nacional de Hidrocarburos; el diseño técnico de dichos contratos y los lineamientos técnicos que deberán observarse en el proceso de licitación; así como el otorgamiento de permisos para el tratamiento y refinación del petróleo, y procesamiento de gas natural. En materia de electricidad, establecerá los términos de estricta separación legal que se requieren para fomentar el acceso abierto y la operación eficiente del sector eléctrico y vigilará su cumplimiento.
-
-b) A la Comisión Nacional de Hidrocarburos: la prestación de asesoría técnica a la Secretaría del ramo en materia de Energía; la recopilación de información geológica y operativa; la autorización de servicios de reconocimiento y exploración superficial; la realización de las licitaciones, asignación de ganadores y suscripción de los contratos para las actividades de exploración y extracción de hidrocarburos sólidos, líquidos o gaseosos; la administración en materia técnica de asignaciones y contratos; la supervisión de los planes de extracción que maximicen la productividad del campo en el tiempo, y la regulación en materia de exploración y extracción de hidrocarburos.
-
-c) A la Comisión Reguladora de Energía: en materia de hidrocarburos, la regulación y el otorgamiento de permisos para el almacenamiento, el transporte y la distribución por ductos de petróleo, gas, petrolíferos y petroquímicos; la regulación de acceso de terceros a los ductos de transporte y al almacenamiento de hidrocarburos y sus derivados, y la regulación de las ventas de primera mano de dichos productos. En materia de electricidad, la regulación y el otorgamiento de permisos para la generación, así como las tarifas de porteo para transmisión y distribución.
-
-d) A la Secretaría del ramo en materia de Hacienda, entre otras, el establecimiento de las condiciones económicas de las licitaciones y de los contratos a que se refiere el presente Decreto relativas a los términos fiscales que permitan a la Nación obtener en el tiempo ingresos que contribuyan a su desarrollo de largo plazo.
-
-La ley establecerá los actos u omisiones que den lugar a la imposición de sanciones, el procedimiento para ello, así como las atribuciones de cada dependencia u órgano para imponerlas y ejecutarlas.
-
-Lo anterior, sin perjuicio de las demás facultades que a dichas autoridades les otorguen las leyes, en estas materias.
-
-La ley definirá los mecanismos para garantizar la coordinación entre los órganos reguladores en materia de energía y la Administración Pública Federal, para que, en el ámbito de sus respectivas competencias, emitan sus actos y resoluciones de conformidad con las políticas públicas del Ejecutivo Federal.
-
-Décimo Primero. Dentro del plazo previsto en el transitorio cuarto del presente Decreto, el Congreso de la Unión realizará las adecuaciones al marco jurídico a fin de regular las modalidades de contratación para que los particulares, por cuenta de la Nación, lleven a cabo, entre otros, el financiamiento, instalación, mantenimiento, gestión, operación y ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica, en términos de lo dispuesto en este Decreto.
-
-Décimo Segundo. Dentro del mismo plazo previsto en el transitorio cuarto del presente Decreto, el Congreso de la Unión realizará las adecuaciones al marco jurídico para que la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía, se conviertan en órganos reguladores coordinados en la materia, con personalidad jurídica propia, autonomía técnica y de gestión; asimismo, podrán disponer de los ingresos derivados de las contribuciones y aprovechamientos que la ley establezca por sus servicios en la emisión y administración de los permisos, autorizaciones, asignaciones y contratos, así como por los servicios relacionados con el Centro Nacional de Información de Hidrocarburos, que correspondan conforme a sus atribuciones, para financiar un presupuesto total que les permita cumplir con sus atribuciones. Para lo anterior, las leyes preverán, al menos:
-
-a) Que si al finalizar el ejercicio presupuestario, existiera saldo remanente de ingresos propios excedentes, la comisión respectiva instruirá su transferencia a un fideicomiso constituido para cada una de éstas por la Secretaría del ramo en materia de Energía, donde una institución de la banca de desarrollo operará como fiduciario.
-
-b) Que las comisiones respectivas instruirán al fiduciario la aplicación de los recursos de estos fideicomisos a la cobertura de gastos necesarios para cumplir con sus funciones en posteriores ejercicios respetando los principios a los que hace referencia el artículo 134 de esta Constitución y estando sujetos a la evaluación y el control de los entes fiscalizadores del Estado.
-
-c) En el caso de la Comisión Nacional de Hidrocarburos, se dará prioridad al desarrollo y mantenimiento del Centro Nacional de Información de Hidrocarburos, mismo que contendrá al menos la información de los estudios sísmicos, así como los núcleos de roca, obtenidos de los trabajos de exploración y extracción de hidrocarburos del país.
-
-Los fideicomisos no podrán acumular recursos superiores al equivalente de tres veces el presupuesto anual de la Comisión de que se trate, tomando como referencia el presupuesto aprobado para el último ejercicio fiscal. En caso de que existan recursos adicionales, éstos serán transferidos a la Tesorería de la Federación.
-
-Los fideicomisos a que hace referencia este transitorio estarán sujetos a las obligaciones en materia de transparencia conforme a la ley de la materia. Asimismo, cada Comisión deberá publicar en su sitio electrónico, por lo menos de manera trimestral, los recursos depositados en el fideicomiso respectivo, así como el uso y destino de dichos recursos y demás información que sea de interés público.
-
-La Cámara de Diputados realizará las acciones necesarias para proveer de recursos presupuestales a las comisiones, con el fin de que éstas puedan llevar a cabo su cometido. El Presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales, necesarios para cumplir con sus funciones.
-
-Décimo Tercero. En el plazo de ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión realizará las adecuaciones al marco jurídico, a fin de establecer que los comisionados de la Comisión Nacional de Hidrocarburos y de la Comisión Reguladora de Energía sólo podrán ser removidos de su encargo por las causas graves que se establezcan al efecto; que podrán ser designados, nuevamente, por única ocasión para cubrir un segundo período, y que su renovación se llevará a cabo de forma escalonada, a fin de asegurar el debido ejercicio de sus atribuciones.
-
-Los actuales comisionados concluirán los periodos para los que fueron nombrados, sujetándose a lo dispuesto en el párrafo anterior. Para nombrar a los comisionados de la Comisión Nacional de Hidrocarburos y de la Comisión Reguladora de Energía, el Presidente de la República someterá una terna a consideración del Senado, el cual, previa comparecencia de las personas propuestas, designará al comisionado que deberá cubrir la vacante. La designación se hará por el voto de las dos terceras partes de los miembros del Senado presentes, dentro del improrrogable plazo de treinta días. Si el Senado no resolviere dentro de dicho plazo, ocupará el cargo de comisionado la persona que, dentro de dicha terna, designe el Presidente de la República.
-
-En caso de que la Cámara de Senadores rechace la totalidad de la terna propuesta, el Presidente de la República, someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuera rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Presidente de la República.
-
-Se nombrarán dos nuevos comisionados por cada Comisión, de manera escalonada, en los términos de los dos párrafos anteriores.
-
-Décimo Cuarto. El Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo será un fideicomiso público en el que el Banco de México fungirá como fiduciario. La Secretaría del ramo en materia de Hacienda realizará las acciones para la constitución y funcionamiento del fideicomiso público referido, una vez que se expidan las normas a que se refiere el transitorio cuarto del presente Decreto.
-
-El Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo será el encargado de recibir todos los ingresos, con excepción de los impuestos, que correspondan al Estado Mexicano derivados de las asignaciones y contratos a que se refiere el párrafo séptimo del artículo 27 de esta Constitución. Los ingresos se administrarán y distribuirán conforme a la siguiente prelación y conforme se establezca en la ley para:
-
-1. Realizar los pagos establecidos en dichas asignaciones y contratos.
-
-2. Realizar las transferencias a los Fondos de Estabilización de los Ingresos Petroleros y de Estabilización de los Ingresos de las Entidades Federativas. Una vez que el Fondo de Estabilización de los Ingresos Petroleros, o su equivalente, haya alcanzado su límite máximo, los recursos asignados al Fondo se destinarán al ahorro de largo plazo mencionado en el numeral 5. Dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión realizará las adecuaciones que resulten necesarias al marco jurídico en materia del límite máximo del Fondo de Estabilización de los Ingresos Petroleros y del Derecho sobre Hidrocarburos para el Fondo de Estabilización.
-
-3. Realizar las transferencias al Fondo de Extracción de Hidrocarburos; a los fondos de investigación en materia de hidrocarburos y sustentabilidad energética, y en materia de fiscalización petrolera.
-
-4. Transferir a la Tesorería de la Federación los recursos necesarios para que los ingresos petroleros del Gobierno Federal que se destinan a cubrir el Presupuesto de Egresos de la Federación de cada año, se mantengan en el cuatro punto siete por ciento del Producto Interno Bruto, que corresponde a la razón equivalente a la observada para los ingresos petroleros del año 2013. Para lo anterior, se consideran los rubros siguientes: Derecho ordinario sobre hidrocarburos, Derecho sobre hidrocarburos para el Fondo de Estabilización, Derecho extraordinario sobre exportación de petróleo crudo, Derecho para la investigación científica y tecnológica en materia de energía, Derecho para la fiscalización petrolera, Derecho sobre extracción de hidrocarburos, Derecho para regular y supervisar la exploración y explotación de hidrocarburos, Derecho especial sobre hidrocarburos y Derecho adicional sobre hidrocarburos. Para efectos del cumplimiento del monto establecido en este numeral, se considerarán incluidos los recursos transferidos acorde a los numerales 2 y 3.
-
-5. Destinar recursos al ahorro de largo plazo, incluyendo inversión en activos financieros.
-
-Únicamente cuando el saldo de las inversiones en ahorro público de largo plazo, sea igual o mayor al tres por ciento del Producto Interno Bruto del año previo al que se trate, el Comité Técnico del Fondo podrá destinar recursos del saldo acumulado del Fondo para lo siguiente:
-
-a) Hasta por un monto equivalente a diez por ciento del incremento observado el año anterior en el saldo del ahorro de largo plazo, al Fondo para el sistema de pensión universal conforme a lo que señale su ley;
-
-b) Hasta por un monto equivalente a diez por ciento del incremento observado el año anterior en el saldo del ahorro de largo plazo, para financiar proyectos de inversión en ciencia, tecnología e innovación, y en energías renovables;
-
-c) Hasta por un monto equivalente a treinta por ciento del incremento observado el año anterior en el saldo del ahorro de largo plazo, en fondear un vehículo de inversión especializado en proyectos petroleros, sectorizado en la Secretaría del ramo en materia de Energía y, en su caso, en inversiones en infraestructura para el desarrollo nacional, y
-
-d) Hasta por un monto equivalente a diez por ciento del incremento observado el año anterior en el saldo del ahorro de largo plazo; en becas para la formación de capital humano en universidades y posgrados; en proyectos de mejora a la conectividad; así como para el desarrollo regional de la industria. Con excepción del programa de becas, no podrán emplearse recursos para gasto corriente.
-
-La asignación de recursos que corresponda a los incisos a), b), c) y d) anteriores no deberán tener como consecuencia que el saldo destinado a ahorro de largo plazo se reduzca por debajo de tres por ciento del Producto Interno Bruto del año anterior. Sujeto a lo anterior y con la aprobación de las dos terceras partes de los miembros presentes, la Cámara de Diputados podrá modificar los límites y los posibles destinos mencionados en los incisos a), b), c) y d) de este numeral. Una vez que el saldo acumulado del ahorro público de largo plazo sea equivalente o superior al diez por ciento del Producto Interno Bruto del año previo al que se trate, los rendimientos financieros reales anuales asociados a los recursos del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo destinados a ahorro de largo plazo serán transferidos a la Tesorería de la Federación. Los recursos transferidos a estos destinos serán adicionales a las transferencias que se realicen de acuerdo al numeral 4 del presente transitorio.
-
-En caso de una reducción significativa en los ingresos públicos, asociada a una caída en el Producto Interno Bruto, a una disminución pronunciada en el precio del petróleo o a una caída en la plataforma de producción de petróleo, y una vez que se hayan agotado los recursos en el Fondo de Estabilización de los Ingresos Petroleros o su equivalente, la Cámara de Diputados podrá aprobar, mediante votación de las dos terceras partes de sus miembros presentes, la integración de recursos de ahorro público de largo plazo al Presupuesto de Egresos de la Federación, aún cuando el saldo de ahorro de largo plazo se redujera por debajo de tres por ciento del Producto Interno Bruto del año anterior. La integración de estos recursos al Presupuesto de Egresos de la Federación se considerarán incluidos en la transferencia acorde con el numeral 4 del presente transitorio.
-
-El Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo estará sujeto a las obligaciones en materia de transparencia de conformidad con la ley. Asimismo, deberá publicar por medios electrónicos y por lo menos de manera trimestral, la información que permita dar seguimiento a los resultados financieros de las asignaciones y los contratos a que se refiere el párrafo séptimo del artículo 27 de esta Constitución, así como el destino de los ingresos del Estado Mexicano conforme a los párrafos anteriores.
-
-El Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo se constituirá durante 2014 y comenzará sus operaciones en el 2015.
-
-Décimo Quinto. El Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo contará con un Comité Técnico integrado por tres miembros representantes del Estado y cuatro miembros independientes. Los miembros representantes del Estado serán los titulares de las Secretarías de los ramos en materia de Hacienda y de Energía, así como el Gobernador del Banco de México. Los miembros independientes serán nombrados por el titular del Ejecutivo Federal, con aprobación de las dos terceras partes de los miembros presentes del Senado de la República. El titular de la Secretaría del ramo en materia de Hacienda fungirá como Presidente del Comité Técnico.
-
-El Comité Técnico del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo tendrá, entre otras, las siguientes atribuciones:
-
-a) Determinar la política de inversiones para los recursos de ahorro de largo plazo de conformidad con lo establecido en el numeral 5 del transitorio anterior.
-
-b) Instruir a la institución fiduciaria para que realice las transferencias a la Tesorería de la Federación de conformidad con lo establecido en el transitorio anterior.
-
-c) Recomendar a la Cámara de Diputados, a más tardar el veintiocho de febrero de cada año, la asignación de los montos correspondientes a los rubros generales establecidos en los incisos a), b), c) y d) del transitorio anterior. La Cámara de Diputados aprobará, con las modificaciones que estime convenientes, la asignación antes mencionada. En este proceso, la Cámara de Diputados no podrá asignar recursos a proyectos o programas específicos. En caso de que la Cámara de Diputados no se pronuncie acerca de la recomendación del Comité Técnico a más tardar el treinta de abril del mismo año, se considerará aprobada. Con base en la asignación aprobada por la Cámara de Diputados, el Ejecutivo Federal determinará los proyectos y programas específicos a los que se asignarán los recursos en cada rubro, para su inclusión en el Proyecto de Presupuesto de Egresos de la Federación del año de que se trate. En el proceso de aprobación de dicho Proyecto, la Cámara de Diputados podrá reasignar los recursos destinados a los proyectos específicos dentro de cada rubro, respetando la distribución de recursos en rubros generales que ya se hayan aprobado.
-
-Lo anterior sin perjuicio de otros recursos que se establezcan en el Presupuesto de Egresos de la Federación para proyectos y programas de inversión.
-
-Décimo Sexto. Dentro de los plazos que se señalan a continuación, el Poder Ejecutivo Federal deberá proveer los siguientes decretos:
-
-a) A más tardar dentro de los doce meses siguientes a la entrada en vigor de la Ley Reglamentaria del artículo 27 Constitucional en el Ramo del Petróleo, emitirá el Decreto de creación del organismo público descentralizado denominado Centro Nacional de Control del Gas Natural, encargado de la operación del sistema nacional de ductos de transporte y almacenamiento. En dicho Decreto se establecerá la organización, funcionamiento y facultades del citado Centro.
-
-El Decreto proveerá lo necesario para que Petróleos Mexicanos y sus organismos subsidiarios o divisiones transfieran los recursos necesarios para que el Centro Nacional de Control del Gas Natural adquiera y administre la infraestructura para el transporte por ducto y almacenamiento de gas natural que tengan en propiedad para dar el servicio a los usuarios correspondientes.
-
-El Decreto también preverá que Petróleos Mexicanos y sus organismos subsidiarios, transfieran de forma inmediata al Centro Nacional de Control del Gas Natural los contratos que tengan suscritos, a efecto de que el Centro sea quien los administre.
-
-El Centro Nacional de Control del Gas Natural dará a Petróleos Mexicanos el apoyo necesario, hasta por doce meses posteriores a su creación, para que continúe operando la infraestructura para el transporte por ducto y almacenamiento de gas natural que le brinde servicio en condiciones de continuidad, eficiencia y seguridad.
-
-b) A más tardar dentro de los doce meses siguientes a la entrada en vigor de la ley reglamentaria de la industria eléctrica, emitirá el Decreto por el que se crea el Centro Nacional de Control de Energía como organismo público descentralizado, encargado del control operativo del sistema eléctrico nacional; de operar el mercado eléctrico mayorista; del acceso abierto y no indebidamente discriminatorio a la red nacional de transmisión y las redes generales de distribución, y las demás facultades que se determinen en la ley y en su Decreto de creación. En dicho Decreto se establecerá la organización, funcionamiento y facultades del citado Centro.
-
-El Decreto proveerá lo conducente para que la Comisión Federal de Electricidad transfiera los recursos que el Centro Nacional de Control de Energía requiera para el cumplimiento de sus facultades.
-
-El Centro Nacional de Control de Energía dará a la Comisión Federal de Electricidad el apoyo necesario, hasta por doce meses posteriores a su creación, para que continúe operando sus redes del servicio público de transmisión y distribución en condiciones de continuidad, eficiencia y seguridad.
-
-Décimo Séptimo. Dentro de los trescientos sesenta y cinco días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión realizará las adecuaciones al marco jurídico, para establecer las bases en las que el Estado procurará la protección y cuidado del medio ambiente, en todos los procesos relacionados con la materia del presente Decreto en los que intervengan empresas productivas del Estado, los particulares o ambos, mediante la incorporación de criterios y mejores prácticas en los temas de eficiencia en el uso de energía, disminución en la generación de gases y compuestos de efecto invernadero, eficiencia en el uso de recursos naturales, baja generación de residuos y emisiones, así como la menor huella de carbono en todos sus procesos.
-
-En materia de electricidad, la ley establecerá a los participantes de la industria eléctrica obligaciones de energías limpias y reducción de emisiones contaminantes.
-
-Décimo Octavo. El Ejecutivo Federal, por conducto de la Secretaría del ramo en materia de Energía y en un plazo no mayor a trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor del presente Decreto, deberá incluir en el Programa Nacional para el Aprovechamiento Sustentable de la Energía, una estrategia de transición para promover el uso de tecnologías y combustibles más limpios.
-
-Dentro del plazo previsto en el transitorio cuarto del presente Decreto, el Congreso de la Unión emitirá una ley que tenga por objeto regular el reconocimiento, la exploración y la explotación de recursos geotérmicos para el aprovechamiento de la energía del subsuelo dentro de los límites del territorio nacional, con el fin de generar energía eléctrica o destinarla a usos diversos.
-
-Décimo Noveno. Dentro del plazo previsto en el transitorio cuarto del presente Decreto, el Congreso de la Unión realizará las adecuaciones al marco jurídico para crear la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, como órgano administrativo desconcentrado de la Secretaría del ramo en materia de Medio Ambiente, con autonomía técnica y de gestión, que disponga de los ingresos derivados de las contribuciones y aprovechamientos que la ley establezca por sus servicios para financiar un presupuesto total que le permita cumplir con sus atribuciones.
-
-La Agencia tendrá dentro de sus atribuciones regular y supervisar, en materia de seguridad industrial, operativa y protección al medio ambiente, las instalaciones y actividades del sector hidrocarburos, incluyendo las actividades de desmantelamiento y abandono de instalaciones, así como el control integral de residuos. En la organización, funcionamiento y facultades de la Agencia, se deberá prever al menos:
-
-a) Que si al finalizar el ejercicio presupuestario, existiera saldo remanente de ingresos propios excedentes, la Agencia instruirá su transferencia a un fideicomiso constituido por la Secretaría del ramo en materia de Medio Ambiente, donde una institución de la banca de desarrollo operará como fiduciario.
-
-b) Que la Agencia instruirá al fiduciario la aplicación de los recursos de este fideicomiso a la cobertura de gastos necesarios para cumplir con sus funciones en posteriores ejercicios respetando los principios a los que hace referencia el artículo 134 de esta Constitución y estando sujeta a la evaluación y el control de los entes fiscalizadores del Estado.
-
-El fideicomiso no podrá acumular recursos superiores al equivalente de tres veces el presupuesto anual de la Agencia, tomando como referencia el presupuesto aprobado para el último ejercicio fiscal. En caso de que existan recursos adicionales, éstos serán transferidos a la Tesorería de la Federación.
-
-El fideicomiso a que hace referencia este transitorio estará sujeto a las obligaciones en materia de transparencia derivadas de la ley. Asimismo, la Agencia deberá publicar en su sitio electrónico, por lo menos de manera trimestral, los recursos depositados en el fideicomiso, así como el uso y destino de dichos recursos.
-
-La Cámara de Diputados realizará las acciones necesarias para proveer de recursos presupuestales a la Agencia, con el fin de que ésta pueda llevar a cabo su cometido. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales, necesarios para cumplir con sus funciones.
-
-Vigésimo. Dentro del plazo previsto en el transitorio cuarto de este Decreto, el Congreso de la Unión realizará las adecuaciones al marco jurídico para regular a las empresas productivas del Estado, y establecerá al menos que:
-
-I. Su objeto sea la creación de valor económico e incrementar los ingresos de la Nación, con sentido de equidad y responsabilidad social y ambiental.
-
-II. Cuenten con autonomía presupuestal y estén sujetas sólo al balance financiero y al techo de servicios personales que, a propuesta de la Secretaría del ramo en materia de Hacienda, apruebe el Congreso de la Unión. Su régimen de remuneraciones será distinto del previsto en el artículo 127 de esta Constitución.
-
-III. Su organización, administración y estructura corporativa sean acordes con las mejores prácticas a nivel internacional, asegurando su autonomía técnica y de gestión, así como un régimen especial de contratación para la obtención de los mejores resultados de sus actividades, de forma que sus órganos de gobierno cuenten con las facultades necesarias para determinar su arreglo institucional.
-
-IV. Sus órganos de gobierno se ajusten a lo que disponga la ley y sus directores sean nombrados y removidos libremente por el Titular del Ejecutivo Federal o, en su caso, removidos por el Consejo de Administración. Para el caso de empresas productivas del Estado que realicen las actividades de exploración y extracción de petróleo y demás hidrocarburos sólidos, líquidos o gaseosos en términos de lo previsto por el párrafo séptimo del artículo 27 de esta Constitución, la ley deberá establecer, entre otras disposiciones, que su Consejo de Administración se conforme de la siguiente manera: cinco consejeros del Gobierno Federal, incluyendo el Secretario del Ramo en materia de Energía quien lo presidirá y tendrá voto de calidad, y cinco consejeros independientes.
-
-V. Se coordinen con el Ejecutivo Federal, a través de la dependencia competente, con objeto de que sus operaciones de financiamiento no conduzcan a un incremento en el costo de financiamiento del resto del sector público o bien, contribuyan a reducir las fuentes de financiamiento del mismo.
-
-VI. Cuenten, en términos de lo establecido en las leyes correspondientes, con un régimen especial en materia de adquisiciones, arrendamientos, servicios y obras públicas, presupuestaria, deuda pública, responsabilidades administrativas y demás que se requieran para la eficaz realización de su objeto, de forma que les permita competir con eficacia en la industria o actividad de que se trate.
-
-Una vez que los organismos descentralizados denominados Petróleos Mexicanos y sus organismos subsidiarios, y Comisión Federal de Electricidad, se conviertan en empresas productivas del Estado de conformidad con las leyes que se expidan para tal efecto en términos del transitorio tercero de este Decreto, no les serán aplicables las disposiciones relativas a la autonomía contenidas en las fracciones anteriores, sino hasta que conforme a las nuevas disposiciones legales se encuentren en funciones sus consejos de administración y estén en operación los mecanismos de fiscalización, transparencia y rendición de cuentas.
-
-Los consejeros profesionales de Petróleos Mexicanos en funciones a la entrada en vigor del presente Decreto permanecerán en sus cargos hasta la conclusión de los periodos por los cuales fueron nombrados, o bien hasta que dicho organismo se convierta en empresa productiva del Estado y sea nombrado el nuevo Consejo de Administración. Los citados consejeros podrán ser considerados para formar parte del nuevo Consejo de Administración de la empresa productiva del Estado, conforme al procedimiento que establezca la ley.
-
-Vigésimo Primero. Dentro del plazo previsto en el transitorio cuarto del presente Decreto, el Congreso de la Unión realizará las adecuaciones al marco jurídico, a fin de establecer los mecanismos legales suficientes para prevenir, investigar, identificar y sancionar severamente a los asignatarios, contratistas, permisionarios, servidores públicos, así como a toda persona física o moral, pública o privada, nacional o extranjera, que participen en el sector energético, cuando realicen actos u omisiones contrarios a la ley, entre otros, los que tengan como objeto o consecuencia directa o indirecta influir en la toma de decisión de un servidor público, del personal o de los consejeros de las empresas productivas del Estado para obtener un beneficio económico personal directo o indirecto.
-
-D.O.F. 27 DE DICIEMBRE DE 2013.
-
-DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXIX-R AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- El Congreso de la Unión expedirá la ley general correspondiente en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto. Para ello, solicitará previamente la opinión de las entidades federativas.
-
-Tercero.- Las Legislaturas de las Entidades Federativas adecuarán las legislaciones correspondientes a lo dispuesto en el presente Decreto y a la ley general que apruebe el Congreso de la Unión en un plazo no mayor a 60 días a partir de la entrada en vigor de dicha ley general.
-
-D.O.F. 27 DE DICIEMBRE DE 2013.
-
-DECRETO POR EL QUE SE REFORMA EL INCISO E) Y SE ADICIONA EL INCISO O) DE LA FRACCIÓN IV DEL ARTÍCULO 116, SE REFORMA EL ARTÍCULO 122, APARTADO C, BASE PRIMERA, FRACCIÓN V, INCISO F) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 7 DE FEBRERO DE 2014.
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. El Congreso de la Unión deberá expedir la Ley General del Artículo 6o. de esta Constitución, así como las reformas que correspondan a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, a la Ley Federal de Datos Personales en Posesión de los Particulares, al Código Federal de Instituciones y Procedimientos Electorales, a la Ley General del Sistema de Medios de Impugnación en Materia Electoral y los demás ordenamientos necesarios, en un plazo de un año contado a partir de la fecha de publicación del presente Decreto.
-
-TERCERO. Los Comisionados que actualmente conforman el Instituto Federal de Acceso a la Información y Protección de Datos podrán formar parte del nuevo organismo autónomo en el ámbito federal, previa petición formal al Senado de la República dentro de los diez días siguientes a la entrada en vigor del presente Decreto únicamente por el tiempo que reste al nombramiento del que fueron objeto en el Instituto que se extingue, siempre y cuando su petición sea aprobada por el voto de las dos terceras partes de los Senadores presentes. En este caso, la Cámara de Senadores deberá resolver en un plazo de diez días, de lo contrario se entenderá la negativa a su petición.
-
-En tanto se integra el organismo garante que establece el artículo 6o. de esta Constitución, continuarán en sus funciones, conforme al orden jurídico vigente al entrar en vigor el presente Decreto, los comisionados del actual Instituto Federal de Acceso a la Información y Protección de Datos.
-
-La designación de los comisionados del organismo garante que se crea mediante la modificación del artículo 6o. constitucional materia del presente Decreto, será realizada a más tardar 90 días después de su entrada en vigor, conforme a lo siguiente:
-
-I. En el supuesto de que la totalidad de los comisionados del Instituto Federal de Acceso a la Información y Protección de Datos soliciten su continuidad en el cargo y obtengan la respectiva aprobación en los términos del párrafo primero de esta disposición transitoria, formarán parte del organismo garante del derecho de acceso a la información que se crea mediante el presente Decreto, hasta la fecha de terminación del período para el que fueron originariamente designados, conforme a lo dispuesto por el siguiente artículo transitorio.
-
-II. En el caso de que sólo alguna, alguno, algunas o algunos de los comisionados del Instituto Federal de Acceso a la Información y Protección de Datos soliciten continuar en el cargo y obtengan la aprobación a que se refiere el párrafo primero de este precepto, continuarán en el ejercicio del cargo en el nuevo organismo hasta el término de la designación que se les confirió originariamente para formar parte del Instituto que se extingue; asimismo, se designarán los comisionados a que se refieren los incisos a) y b) del siguiente artículo transitorio, quienes ejercerán el cargo en los periodos señalados en los respectivos incisos.
-
-En esta hipótesis, los comisionados que formen parte del nuevo organismo en virtud de que los comisionados del citado Instituto no soliciten o no obtengan la aprobación para continuar en esa función, tendrán los períodos de desempeño siguientes:
-
-a) Si ha fenecido el mandato de la comisionada que concluye el encargo el 9 de enero de 2014, el nombramiento concluirá el 31 de marzo de 2018;
-
-b) Si el nombramiento es en razón de la no continuación del comisionado que habría concluido el encargo el 13 de abril de 2019, el mismo se hará hasta esa fecha.
-
-c) Si el nombramiento es en razón de la no continuación del comisionado que habría concluido el encargo el 17 de junio de 2016, el mismo se hará hasta esa fecha.
-
-d) Si el o los nombramientos son en razón de la no continuación de una o de ambas comisionadas que habría o habrían concluido el encargo el 11 de septiembre de 2016, el o los mismos se harán hasta esa fecha.
-
-III. En el supuesto de que ninguno de los actuales comisionados del Instituto Federal de Acceso a la Información y Protección de Datos solicite al Senado o reciba la aprobación para formar parte del organismo garante del derecho de acceso a la información que se crea por medio del presente Decreto, y para asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, el Senado de la República especificará el período de ejercicio para cada comisionado, tomando en consideración lo siguiente:
-
-a) Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de marzo de 2018.
-
-b) Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de marzo de 2020.
-
-c) Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de marzo de 2022, y
-
-d) Nombrará a un comisionado, cuyo mandato concluirá el 31 de marzo de 2023.
-
-CUARTO. La designación de los dos nuevos comisionados del organismo garante que establece el artículo 6o. de esta Constitución será realizada a más tardar 90 días después de la entrada en vigor de este Decreto.
-
-Para asegurar la renovación escalonada de los comisionados en los primeros nombramientos, el Senado de la República especificará el período de ejercicio para cada comisionado tomando en consideración lo siguiente:
-
-a) Nombrará a un comisionado, cuyo mandato concluirá el 1 de noviembre de 2017.
-
-b) Nombrará a un nuevo comisionado, cuyo mandato concluirá el 31 de marzo de 2020.
-
-c) Quien sustituya al comisionado que deja su encargo el 9 de enero de 2014, concluirá su mandato el 31 de marzo de 2018.
-
-d) Quien sustituya al comisionado que deja su encargo el 13 de abril de 2019, concluirá su mandato el 31 de marzo de 2026.
-
-e) Quien sustituya al comisionado que deja su encargo el 17 de junio de 2016, concluirá su mandato el 1 de noviembre de 2021.
-
-f) Quienes sustituyan a los comisionados que dejan su encargo el 11 de septiembre de 2016, uno concluirá su mandato el 1 de noviembre de 2022 y el otro concluirá su mandato el 1 de noviembre de 2023.
-
-QUINTO. Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal tendrán un plazo de un año, contado a partir de su entrada en vigor, para armonizar su normatividad conforme a lo establecido en el presente Decreto.
-
-SEXTO. El organismo garante que establece el artículo 6o. de esta Constitución podrá ejercer las facultades de revisión y de atracción a que se refiere el presente Decreto, posterior a la entrada en vigor de las reformas a la ley secundaria que al efecto expida el Honorable Congreso de la Unión.
-
-SÉPTIMO. En tanto se determina la instancia responsable encargada de atender los temas en materia de protección de datos personales en posesión de particulares, el organismo garante que establece el artículo 6o. de esta Constitución ejercerá las atribuciones correspondientes.
-
-OCTAVO. En tanto el Congreso de la Unión expide las reformas a las leyes respectivas en materia de transparencia, el organismo garante que establece el artículo 6o. de esta Constitución ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental vigente.
-
-NOVENO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto se sustanciarán ante el organismo garante que establece el artículo 6o. de esta Constitución, creado en los términos del presente Decreto.
-
-DÉCIMO. Los recursos financieros y materiales, así como los trabajadores adscritos al Instituto Federal de Acceso a la Información Pública y Protección de Datos Personales, se transferirán al organismo público autónomo creado. Los trabajadores que pasen a formar parte del nuevo organismo se seguirán rigiendo por el apartado B del artículo 123 de esta Constitución y de ninguna forma resultarán afectados en sus derechos laborales y de seguridad social.
-
-D.O.F. 10 DE FEBRERO DE 2014.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
-
-SEGUNDO.- El Congreso de la Unión deberá expedir las normas previstas en el inciso a) de la fracción XXI, y en la fracción XXIX-U del artículo 73 de esta Constitución, a más tardar el 30 de abril de 2014. Dichas normas establecerán, al menos, lo siguiente:
-
-I. La ley general que regule los partidos políticos nacionales y locales:
-
-a) Las normas, plazos y requisitos para su registro legal y su intervención en los procesos electorales federales y locales;
-
-b) Los derechos y obligaciones de sus militantes y la garantía de acceso a los órganos imparciales de justicia intrapartidaria;
-
-c) Los lineamientos básicos para la integración de sus órganos directivos; la postulación de sus candidatos y, en general, la conducción de sus actividades de forma democrática; así como la transparencia en el uso de los recursos;
-
-d) Los contenidos mínimos de sus documentos básicos;
-
-e) Los procedimientos y las sanciones aplicables al incumplimiento de sus obligaciones;
-
-f) El sistema de participación electoral de los partidos políticos a través de la figura de coaliciones, conforme a lo siguiente:
-
-1. Se establecerá un sistema uniforme de coaliciones para los procesos electorales federales y locales;
-
-2. Se podrá solicitar su registro hasta la fecha en que inicie la etapa de precampañas;
-
-3. La ley diferenciará entre coaliciones totales, parciales y flexibles. Por coalición total se entenderá la que establezcan los partidos políticos para postular a la totalidad de los candidatos en un mismo proceso electoral federal o local, bajo una misma plataforma electoral. Por coalición parcial se entenderá la que establezcan los partidos políticos para postular al menos el cincuenta por ciento de las candidaturas en un mismo proceso electoral federal o local, bajo una misma plataforma. Por coalición flexible se entenderá la que establezcan los partidos políticos para postular al menos el veinticinco por ciento de las candidaturas en un mismo proceso electoral federal o local, bajo una misma plataforma electoral;
-
-4. Las reglas conforme a las cuales aparecerán sus emblemas en las boletas electorales y las modalidades del escrutinio y cómputo de los votos;
-
-5. En el primer proceso electoral en el que participe un partido político, no podrá coaligarse, y
-
-g) Un sistema de fiscalización sobre el origen y destino de los recursos con los que cuenten los partidos políticos, las coaliciones y los candidatos, que deberá contener:
-
-1. Las facultades y procedimientos para que la fiscalización de los ingresos y egresos de los partidos políticos, las coaliciones y los candidatos se realice de forma expedita y oportuna durante la campaña electoral;
-
-2. Los lineamientos homogéneos de contabilidad, la cual deberá ser pública y de acceso por medios electrónicos;
-
-3. Los mecanismos por los cuales los partidos políticos, las coaliciones y las candidaturas independientes deberán notificar al órgano de fiscalización del Instituto Nacional Electoral, la información sobre los contratos que celebren durante las campañas o los procesos electorales, incluyendo la de carácter financiero y la relativa al gasto y condiciones de ejecución de los instrumentos celebrados. Tales notificaciones deberán realizarse previamente a la entrega de los bienes o la prestación de los servicios de que se trate;
-
-4. Las facultades del Instituto Nacional Electoral para comprobar el contenido de los avisos previos de contratación a los que se refiere el numeral anterior;
-
-5. Los lineamientos para asegurar la máxima publicidad de los registros y movimientos contables, avisos previos de contratación y requerimientos de validación de contrataciones emitidos por la autoridad electoral;
-
-6. La facultad de los partidos políticos de optar por realizar todos los pagos relativos a sus actividades y campañas electorales, por conducto del Instituto Nacional Electoral, en los términos que el mismo Instituto establezca mediante disposiciones de carácter general;
-
-7. La facultad de los partidos políticos de optar por realizar todos los pagos relativos a la contratación de publicidad exterior, por conducto del Instituto Nacional Electoral, y
-
-8. Las sanciones que deban imponerse por el incumplimiento de sus obligaciones.
-
-II. La ley general que regule los procedimientos electorales:
-
-a) La celebración de elecciones federales y locales el primer domingo de junio del año que corresponda, en los términos de esta Constitución, a partir del 2015, salvo aquellas que se verifiquen en 2018, las cuales se llevarán a cabo el primer domingo de julio;
-
-b) Los mecanismos de coordinación entre los órganos del Ejecutivo Federal en materia de inteligencia financiera y el Instituto Nacional Electoral, que permitan reportar a éste las disposiciones en efectivo que realice cualquier órgano o dependencia de la Federación, de las entidades federativas y de los municipios durante cualquier proceso electoral, cuando tales operaciones se consideren relevantes o inusuales de conformidad con los ordenamientos aplicables;
-
-c) Las reglas aplicables para transparentar el financiamiento, la metodología y los resultados de las encuestas que se difundan, relativas a las preferencias electorales, así como las fechas límite para llevar a cabo su difusión;
-
-d) Los términos en que habrán de realizarse debates de carácter obligatorio entre candidatos, organizados por las autoridades electorales; y las reglas aplicables al ejercicio de la libertad de los medios de comunicación para organizar y difundir debates entre candidatos a cualquier cargo de elección popular. La negativa a participar de cualquiera de los candidatos en ningún caso será motivo para la cancelación o prohibición del debate respectivo. La realización o difusión de debates en radio y televisión, salvo prueba en contrario, no se considerará como contratación ilegal de tiempos o como propaganda encubierta;
-
-e) Las modalidades y plazos de entrega de los materiales de propaganda electoral para efectos de su difusión en los tiempos de radio y televisión;
-
-f) Las sanciones aplicables a la promoción de denuncias frívolas. Para tales efectos se entenderá como denuncia frívola aquella que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia;
-
-g) La regulación de la propaganda electoral, debiendo establecer que los artículos promocionales utilitarios sólo podrán ser elaborados con material textil;
-
-h) Las reglas para garantizar la paridad entre géneros en candidaturas a legisladores federales y locales, e
-
-i) Las reglas, plazos, instancias y etapas procesales para sancionar violaciones en los procedimientos electorales.
-
-III. La ley general en materia de delitos electorales establecerá los tipos penales, sus sanciones, la distribución de competencias y las formas de coordinación entre la Federación y las entidades federativas.
-
-TERCERO.- El Congreso de la Unión deberá expedir, durante el segundo periodo de sesiones ordinarias del segundo año de ejercicio de la LXII Legislatura, la ley que reglamente el párrafo octavo del artículo 134 de esta Constitución, la que establecerá las normas a que deberán sujetarse los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y de cualquier otro ente de los tres órdenes de gobierno, y que garantizará que el gasto en comunicación social cumpla con los criterios de eficiencia, eficacia, economía, transparencia y honradez, así como que respete los topes presupuestales, límites y condiciones de ejercicio que establezcan los presupuestos de egresos respectivos.
-
-CUARTO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 35; 41; 54; 55; 99; 105 fracción II inciso f); 110 y 111 por lo que hace a la denominación del Instituto Nacional Electoral, y 116, fracción IV, de esta Constitución, entrarán en vigor en la misma fecha en que lo hagan las normas a que se refiere el Transitorio Segundo anterior, sin perjuicio de lo previsto en el transitorio Quinto siguiente.
-
-La adición del cuarto párrafo a la base I del artículo 41 de esta Constitución, relativa al porcentaje de votación necesaria para que los partidos políticos conserven su registro, entrará en vigor al día siguiente de la publicación del presente Decreto.
-
-Las reformas a que se refiere el primer párrafo del presente transitorio, respecto de entidades federativas que tengan procesos electorales en 2014, entrarán en vigor una vez que hayan concluido dichos procesos.
-
-QUINTO.- El Instituto Nacional Electoral deberá integrarse dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto y comenzará a ejercer sus atribuciones a partir de que entren en vigor las normas previstas en el Transitorio Segundo anterior. En caso de que a la fecha de integración del Instituto Nacional Electoral no hubieren entrado en vigor las normas previstas en el Transitorio Segundo anterior, dicho Instituto ejercerá las atribuciones que las leyes vigentes otorgan al Instituto Federal Electoral.
-
-Con el objeto de asegurar el escalonamiento en el cargo de los integrantes del Consejo General del Instituto Nacional Electoral, el comité de evaluación a que se refiere el inciso a) del párrafo quinto del Apartado A de la Base V del artículo 41, que se reforma por virtud del presente Decreto, deberá remitir a la Cámara de Diputados para su trámite en procesos separados, conforme a lo previsto en el referido párrafo:
-
-a) Tres listas para cubrir la elección de cada uno de los tres consejeros que durarán en su encargo tres años;
-
-b) Cuatro listas para cubrir la elección de cada uno de los cuatro consejeros que durarán en su encargo seis años;
-
-c) Tres listas para cubrir la elección de cada uno de los tres consejeros que durarán en su encargo nueve años, y
-
-d) Una lista para cubrir la elección del Presidente que durará en su encargo nueve años.
-
-Los consejeros del Instituto Federal Electoral que se encuentren en funciones al inicio del procedimiento de selección para la integración del Instituto Nacional Electoral, podrán participar en dicho proceso.
-
-SEXTO.- Una vez integrado y a partir de que entren en vigor las normas previstas en el Transitorio Segundo anterior, el Instituto Nacional Electoral deberá expedir los lineamientos para garantizar la incorporación de todos los servidores públicos del Instituto Federal Electoral y de los organismos locales en materia electoral, al Servicio Profesional Electoral Nacional, así como las demás normas para su integración total.
-
-SÉPTIMO.- Los recursos humanos, presupuestales, financieros y materiales del Instituto Federal Electoral, pasarán a formar parte del Instituto Nacional Electoral una vez que quede integrado en términos del Transitorio Quinto anterior; sin menoscabo de los derechos laborales.
-
-OCTAVO.- Una vez integrado el Instituto Nacional Electoral y a partir de que entren en vigor las normas previstas en el Transitorio Segundo anterior, las funciones correspondientes a la capacitación electoral, así como la ubicación de las casillas y la designación de funcionarios de la mesa directiva, en los procesos electorales locales, se entenderán delegadas a los organismos públicos locales.
-
-En este caso, el Instituto Nacional Electoral podrá reasumir dichas funciones, por mayoría del Consejo General.
-
-La delegación y reasunción posteriores de estas atribuciones se someterá a lo dispuesto en la Base V, Apartado C del artículo 41 de esta Constitución.
-
-NOVENO.- El Consejo General del Instituto Nacional Electoral designará a los nuevos consejeros de los organismos locales en materia electoral, en términos de lo dispuesto por el inciso c) de la fracción IV del artículo 116 de esta Constitución. Los actuales consejeros continuarán en su encargo hasta en tanto se realicen las designaciones a que se refiere el presente Transitorio. El Consejo General llevará a cabo los procedimientos para que el nombramiento de los consejeros electorales se verifique con antelación al siguiente proceso electoral posterior a la entrada en vigor de este Decreto.
-
-DÉCIMO.- Los Magistrados de los órganos jurisdiccionales locales en materia electoral, que se encuentren en funciones a la entrada en vigor de las normas previstas en el Transitorio Segundo, continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos, en los términos previstos por la fracción IV, inciso c), del artículo 116 de esta Constitución. El Senado de la República llevará a cabo los procedimientos para que el nombramiento de los magistrados electorales se verifique con antelación al inicio del siguiente proceso electoral local posterior a la entrada en vigor de este Decreto.
-
-Los magistrados a que se refiere el párrafo anterior serán elegibles para un nuevo nombramiento.
-
-DÉCIMO PRIMERO.- La reforma al artículo 59 de esta Constitución será aplicable a los diputados y senadores que sean electos a partir del proceso electoral de 2018.
-
-DÉCIMO SEGUNDO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 69, párrafo tercero; 74, fracciones III y VII; 76, fracciones II y XI; 89, fracción II, párrafos segundo y tercero, y fracción XVII, entrarán en vigor el 1o. de diciembre de 2018.
-
-DÉCIMO TERCERO.- La reforma al artículo 116 de esta Constitución en materia de reelección de diputados locales, así como a diputados a la Asamblea Legislativa del Distrito Federal, no será aplicable a los legisladores que hayan protestado el cargo en la legislatura que se encuentre en funciones a la entrada en vigor del presente Decreto.
-
-DÉCIMO CUARTO.- La reforma al artículo 115 de esta Constitución en materia de reelección de presidentes municipales, regidores y síndicos no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
-
-DÉCIMO QUINTO.- Las reformas a los artículos 65; 74, fracción IV y 83 de esta Constitución entrarán en vigor el 1o. de diciembre de 2018, por lo que el período presidencial comprendido entre los años 2018 y 2024 iniciará el 1o. de diciembre de 2018 y concluirá el 30 de septiembre de 2024.
-
-DÉCIMO SEXTO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 28; 29, párrafo primero; 69, párrafo segundo; 76, fracciones II, por lo que se refiere a la supresión de la ratificación del Procurador General de la República por el Senado y XII; 78, fracción V; 82, fracción VI; 84; 89, fracción IX; 90; 93, párrafo segundo; 95; 102, Apartado A; 105, fracciones II, incisos c) e i) y III; 107; 110 y 111 por lo que se refiere al Fiscal General de la República; 116, fracción IX y 119, párrafo primero de esta Constitución, entrarán en vigor en la misma fecha en que lo hagan las normas secundarias que expida el Congreso de la Unión necesarias por virtud de las adiciones, reformas y derogaciones a que se refiere el presente Transitorio, siempre que se haga por el propio Congreso la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General de la República.
-
-El Procurador General de la República que se encuentre en funciones al momento de expedirse la declaratoria a que se refiere el párrafo anterior, quedará designado por virtud de este Decreto Fiscal General de la República por el tiempo que establece el artículo 102, Apartado A, de esta Constitución, sin perjuicio del procedimiento de remoción previsto en la fracción IV de dicho artículo.
-
-DÉCIMO SÉPTIMO.- Una vez que entren en vigor las disposiciones de este Decreto referidas en el Transitorio anterior, se procederá de la siguiente forma:
-
-I.- Los asuntos en los que la Procuraduría General de la República ejerza la representación de la Federación, así como aquellos en que haya ejercitado acciones de inconstitucionalidad en casos distintos a los previstos en el inciso i) de la fracción II, del artículo 105 de esta Constitución que se adiciona por virtud de este Decreto, que se encuentren en trámite a la entrada en vigor de las disposiciones a que se refiere el Transitorio anterior, deberán remitirse dentro de los veinte días hábiles siguientes a la dependencia del Ejecutivo Federal que realiza la función de Consejero Jurídico del Gobierno.
-
-Los procedimientos señalados en el párrafo que antecede se suspenderán por un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de las disposiciones a que se refiere el Transitorio anterior; en cada caso, la suspensión será decretada de oficio por los órganos jurisdiccionales ante los cuales se desahoguen dichos procedimientos, y
-
-II.- Los recursos humanos, financieros y materiales que la Procuraduría General de la República destine para la atención y desahogo de los procedimientos a que se refiere la fracción anterior, serán transferidos a la dependencia que realice las funciones de Consejero Jurídico del Gobierno. Los titulares de ambos órganos realizarán las previsiones necesarias para que dichos recursos queden transferidos el mismo día en que entren en vigor las disposiciones señaladas en el Transitorio anterior.
-
-DÉCIMO OCTAVO.- A partir de la entrada en vigor del presente Decreto el Senado nombrará por dos terceras partes de sus miembros presentes al titular de la Fiscalía Especializada en Atención de Delitos Electorales de la Procuraduría General de la República. El Ejecutivo Federal podrá objetar dicho nombramiento, en cuyo caso se procederá a un nuevo nombramiento en los términos de este párrafo.
-
-En el plazo de treinta días a partir de la entrada en vigor de este Decreto, el Procurador General de la República expedirá el acuerdo de creación de la fiscalía especializada en materia de delitos relacionados con hechos de corrupción, cuyo titular será nombrado por el Senado en los términos del párrafo anterior.
-
-Los titulares de las fiscalías nombrados en términos del presente transitorio durarán en su encargo hasta el treinta de noviembre de dos mil dieciocho, sin perjuicio de que puedan ser removidos libremente por el Procurador General de la República o, en su caso, del Fiscal General de la República. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Cámara de Senadores dentro de un plazo de diez días hábiles, en cuyo caso el titular de la fiscalía de que se trate, será restituido en el ejercicio de sus funciones.
-
-DÉCIMO NOVENO.- A partir de la entrada en vigor de las reformas a que se refiere el transitorio Décimo Sexto anterior, los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de la República pasarán al órgano autónomo que el propio Decreto establece.
-
-VIGÉSIMO.- La reforma al artículo 26 de esta Constitución entrará en vigor al día siguiente de la publicación del presente Decreto.
-
-El Consejo General del Consejo Nacional para la Evaluación de la Política de Desarrollo Social deberá integrarse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto. Para dicho efecto, se deberán elegir dos consejeros por un periodo de dos años, dos por un periodo de tres años, dos por un periodo de cuatro años y un consejero presidente por un periodo de cuatro años. En caso de que en el plazo referido no quede integrado el órgano constitucional referido y hasta su integración, continuará en sus funciones el organismo descentralizado denominado Consejo Nacional para la Evaluación de la Política de Desarrollo Social.
-
-Con excepción del Secretario de Desarrollo Social, los integrantes del Comité Directivo del organismo descentralizado referido en el párrafo anterior, que se encuentren en funciones a la entrada en vigor del presente Decreto, podrán ser considerados para integrar el nuevo órgano autónomo que se crea.
-
-El Congreso de la Unión deberá expedir la ley que regirá al órgano autónomo denominado Consejo Nacional para la Evaluación de la Política de Desarrollo Social, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto.
-
-En tanto el Congreso de la Unión expide la Ley a que se refiere el párrafo anterior, el Consejo Nacional para la Evaluación de la Política de Desarrollo Social que se crea por virtud del presente Decreto, una vez instalado, ejercerá sus atribuciones y competencias conforme a lo dispuesto en el mismo y en el Decreto por el que se regula el Consejo Nacional de Evaluación de la Política de Desarrollo Social, publicado en el Diario Oficial de la Federación el 24 de agosto de 2005.
-
-VIGÉSIMO PRIMERO.- Los Consejeros del Instituto Federal Electoral que a la entrada en vigor del presente Decreto se encuentren en funciones, continuarán en su encargo hasta que se integre el Instituto Nacional Electoral, en términos de lo previsto por el Quinto Transitorio del presente Decreto; por lo que los actos jurídicos emitidos válidamente por el Instituto Federal Electoral en los términos de la legislación vigente, surtirán todos sus efectos legales.
-
-D.O.F. 17 DE JUNIO DE 2014.
-
-DECRETO POR EL QUE SE ADICIONA UN OCTAVO PÁRRAFO AL ARTÍCULO 4o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. A partir de la entrada en vigor del presente Decreto, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, dispondrán de seis meses para establecer en sus haciendas o códigos financieros la exención de cobro del derecho por el registro de nacimiento y la expedición de la primera copia certificada del acta de nacimiento.
-
-TERCERO. El Congreso de la Unión en un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, y previa opinión de las entidades federativas y la autoridad competente en materia de registro nacional de población, deberá realizar las adecuaciones a la ley que determinen las características, diseño y contenido del formato único en materia de registro de población, así como para la expedición de toda acta del registro civil que deberá implementarse a través de mecanismos electrónicos y adoptarse por las propias entidades federativas del país y por las representaciones de México en el exterior.
-
-CUARTO. La Secretaría de Gobernación a través del Registro Nacional de Población, remitirá al Instituto Nacional Electoral la información recabada por las autoridades locales registrales relativas a los certificados de defunción.
-
-D.O.F. 17 DE JUNIO DE 2014.
-
-DECRETO POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 108 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
-
-D.O.F. 17 DE JUNIO DE 2014.
-
-DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL APARTADO A DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 7 DE JULIO DE 2014.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 22 DE MAYO DE 2015.
-
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- Las Legislaturas de las entidades federativas adecuarán sus respectivas Constituciones, así como la legislación correspondiente, conforme a lo dispuesto en el presente Decreto en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto.
-
-D.O.F. 26 DE MAYO DE 2015.
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. La Ley reglamentaria en materia de responsabilidad hacendaria aplicable a las Entidades Federativas y los Municipios que deberá expedirse en términos de la fracción XXIX-W del artículo 73 del presente Decreto, así como las reformas que sean necesarias para cumplir lo previsto en este Decreto, deberán publicarse en el Diario Oficial de la Federación dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
-
-Tercero. Dentro del plazo de 180 días naturales contados a partir de la entrada en vigor de la ley reglamentaria a que se refiere el artículo anterior, las legislaturas de las Entidades Federativas realizarán las reformas necesarias para armonizar su legislación con este Decreto y la ley citada.
-
-Cuarto. Las Entidades Federativas y los Municipios se sujetarán a las disposiciones de este Decreto y a las de las leyes a que se refiere el Artículo Transitorio Segundo del mismo, a partir de la fecha de su entrada en vigor y respetarán las obligaciones que, con anterioridad a dicha fecha, hayan sido adquiridas con terceros en los términos de las disposiciones aplicables.
-
-Quinto. La ley reglamentaria establecerá la transitoriedad conforme a la cual entrarán en vigor las restricciones establecidas en relación a la contratación de obligaciones de corto plazo, a que se refiere el artículo 117, fracción VIII, último párrafo de este Decreto.
-
-Sexto. Las Entidades Federativas y los Municipios enviarán al Ejecutivo Federal y al Congreso de la Unión un informe sobre todos los empréstitos y obligaciones de pago vigentes a la entrada en vigor del presente Decreto, en un plazo máximo de 60 días naturales, conforme a los lineamientos que aquél emita.
-
-Séptimo. La ley reglamentaria establecerá que en el registro a que se refiere el inciso 3o. de la fracción VIII del artículo 73 de este Decreto, se incluirán cuando menos los siguientes datos de cada empréstito u obligaciones: deudor, acreedor, monto, tasa de interés, plazo, tipo de garantía o fuente de pago, así como los que se determinen necesarios para efectos de fortalecimiento de la transparencia y acceso a la información.
-
-En tanto se implementa el referido registro, se pondrá a disposición de las comisiones legislativas competentes del Congreso de la Unión un reporte de las obligaciones y empréstitos a que se refiere el artículo 9 de la Ley de Coordinación Fiscal con la que actualmente cuenta el registro, a más tardar en un plazo de 30 días naturales; así como, aquella información adicional que las comisiones legislativas competentes soliciten a las autoridades relacionadas con la misma. Igualmente, se deberá informar cada cierre trimestral (marzo, junio, septiembre y diciembre), los empréstitos y obligaciones registrados en cada periodo, especificando en su caso, si fue utilizado para refinanciar o reestructurar créditos existentes. Lo anterior, con el objeto de que en tanto entra en vigor la ley reglamentaria y se implementa el registro, el Congreso de la Unión pueda dar puntual seguimiento al endeudamiento de los Estados y Municipios. Para tal efecto, la Auditoría Superior de la Federación, verificará el destino y aplicación de los recursos en los que se hubiera establecido como garantía recursos de origen federal.
-
-Las legislaturas de los Estados realizarán y publicarán por medio de sus entes fiscalizadores, una auditoría al conjunto de obligaciones del sector público, con independencia del origen de los recursos afectados como garantía, en un plazo no mayor a 90 días naturales a partir de la entrada en vigor del presente Decreto.
-
-Los servidores públicos y demás personal del Congreso de la Unión que tengan acceso a la información referente al presente Artículo Transitorio, serán responsables del manejo de la misma y responderán de los daños y perjuicios que en su caso ocasionen por su divulgación.
-
-Octavo. La ley reglamentaria a que se refiere el Artículo 73, fracción VIII, inciso 3o. de este Decreto, establecerá las modalidades y condiciones de deuda pública que deberán contratarse mediante licitación pública, así como los mecanismos que se determinen necesarios para efectos de asegurar condiciones de mercado o mejores que éstas y el fortalecimiento de la transparencia en los casos en que no se establezca como obligatorio.
-
-D.O.F. 27 DE MAYO DE 2015.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
-
-Segundo. El Congreso de la Unión, dentro del plazo de un año contado a partir de la entrada en vigor del presente Decreto, deberá aprobar las leyes generales a que se refieren las fracciones XXIV y XXIX-V del artículo 73 de esta Constitución, así como las reformas a la legislación establecida en las fracciones XXIV y XXIX-H de dicho artículo. Asimismo, deberá realizar las adecuaciones a la Ley Orgánica de la Administración Pública Federal, con el objeto de que la Secretaría responsable del control interno del Ejecutivo Federal asuma las facultades necesarias para el cumplimiento de lo previsto en el presente Decreto y en las leyes que derivan del mismo.
-
-Tercero. La ley a que se refiere la fracción XXIX-H del artículo 73 de la Constitución, establecerá que, observando lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el Tribunal Federal de Justicia Administrativa:
-
-a) Aprobará su proyecto de presupuesto, con sujeción a los criterios generales de política económica y los techos globales de gasto establecidos por el Ejecutivo Federal;
-
-b) Ejercerá directamente su presupuesto aprobado por la Cámara de Diputados, sin sujetarse a las disposiciones emitidas por las secretarías de Hacienda y Crédito Público y de la Función Pública;
-
-c) Autorizará las adecuaciones presupuestarias sin requerir la autorización de la Secretaría de Hacienda y Crédito Público, siempre y cuando no rebase su techo global aprobado por la Cámara de Diputados;
-
-d) Determinará los ajustes que correspondan a su presupuesto en caso de disminución de ingresos durante el ejercicio fiscal, y
-
-e) Realizará los pagos, llevará la contabilidad y elaborará sus informes, a través de su propia tesorería, en los términos de las leyes aplicables.
-
-Cuarto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, deberán, en el ámbito de sus respectivas competencias, expedir las leyes y realizar las adecuaciones normativas correspondientes, dentro de los ciento ochenta días siguientes a la entrada en vigor de las leyes generales a que se refiere el Segundo Transitorio del presente Decreto.
-
-Quinto. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen a los artículos 79, 108, 109, 113, 114, 116, fracción V y 122, BASE QUINTA, entrarán en vigor en la misma fecha en que lo hagan las leyes a que se refiere el Transitorio Segundo del presente Decreto.
-
-Sexto. En tanto se expiden y reforman las leyes a que se refiere el Segundo Transitorio, continuará aplicándose la legislación en materia de responsabilidades administrativas de los servidores públicos, así como de fiscalización y control de recursos públicos, en el ámbito federal y de las entidades federativas, que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
-
-Séptimo. Los sistemas anticorrupción de las entidades federativas deberán conformarse de acuerdo con las Leyes Generales que resulten aplicables, las constituciones y leyes locales.
-
-Octavo. Los Magistrados del Tribunal Federal de Justicia Fiscal y Administrativa que hayan sido nombrados a la fecha de entrada en vigor de la Ley a que se refiere la fracción XXIX-H, del artículo 73, de esta Constitución, continuarán como Magistrados del Tribunal Federal de Justicia Administrativa por el tiempo que fueron nombrados.
-
-Los titulares de los órganos a que se refieren las adiciones y reformas que establece el presente Decreto en las fracciones VIII del artículo 74 y II del artículo 76, que se encuentren en funciones a la entrada en vigor del mismo, continuarán en su encargo en los términos en los que fueron nombrados.
-
-Los Magistrados de los Tribunales Contenciosos Administrativos cualquiera que sea su denominación en el ámbito de las entidades federativas, continuarán como magistrados de los Tribunales de Justicia Administrativa de cada entidad federativa, exclusivamente por el tiempo que hayan sido nombrados.
-
-El Tribunal Federal de Justicia Fiscal y Administrativa continuará funcionando con su organización y facultades actuales y substanciando los asuntos que actualmente se encuentran en trámite, hasta la entrada en vigor de la Ley a que se refiere la fracción XXIX-H, del artículo 73, de este Decreto.
-
-Noveno. Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Tribunal Federal de Justicia Fiscal y Administrativa, incluyendo todos sus bienes y los derechos derivados de los fondos o fideicomisos vigentes, pasarán a formar parte del Tribunal Federal de Justicia Administrativa en los términos que determine la Ley a que se refiere la fracción XXIX-H, del artículo 73, de esta Constitución.
-
-Décimo. Los trabajadores de base que se encuentren prestando sus servicios en el Tribunal Federal de Justicia Fiscal y Administrativa, a la entrada en vigor de la Ley a que se refiere la fracción XXIX-H, del artículo 73, de esta Constitución, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Tribunal Federal de Justicia Administrativa, en los términos que dicha ley determine.
-
-Décimo Primero. La ley reglamentaria del segundo párrafo del artículo 113 Constitucional, reformado por virtud del presente Decreto, se entenderá referida al último párrafo del artículo 109 Constitucional atendiendo a lo establecido en el Quinto Transitorio del presente Decreto.
-
-D.O.F. 2 DE JULIO DE 2015.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. El Congreso de la Unión dentro de los 180 días naturales siguientes a la publicación de este Decreto en el Diario Oficial de la Federación, deberá expedir la legislación nacional en materia de justicia para adolescentes, previendo las disposiciones transitorias necesarias para diferenciar el inicio de su vigencia, en función de la etapa del proceso de implementación del Sistema Procesal Penal Acusatorio en que se encuentren. En razón de lo anterior, se abroga la Ley Federal de Justicia para Adolescentes, publicada en el Diario Oficial de la Federación el 27 de diciembre de 2012.
-
-La Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, así como la legislación vigente en materia de justicia para adolescentes expedida por las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, continuarán en vigor hasta que inicie la vigencia de la legislación nacional que expida el Congreso de la Unión conforme al presente Decreto.
-
-TERCERO. Los procedimientos de justicia para adolescentes y la ejecución de las medidas sancionadoras, iniciados con anterioridad a la entrada en vigor de la legislación nacional que establece el presente Decreto, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse dichos procedimientos y ejecución de medidas sancionadoras.
-
-CUARTO. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, deberán prever los recursos necesarios para la debida implementación, funcionamiento y desarrollo del sistema de justicia para adolescentes. Las partidas para tales propósitos deberán señalarse en los presupuestos de egresos correspondientes.
-
-D.O.F. 10 DE JULIO DE 2015.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. El Congreso de la Unión deberá expedir la legislación en las materias que se adicionan por virtud del presente Decreto al artículo 73, fracción XXI, inciso a), dentro de los 180 días siguientes a la entrada en vigor del mismo.
-
-La legislación a que se refiere el presente Transitorio deberá regular el Sistema Nacional de Búsqueda de Personas.
-
-TERCERO. La legislación en materia de desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, tortura y otros tratos o penas crueles, inhumanos o degradantes de las entidades federativas y de la Federación, continuará en vigor hasta en tanto entren en vigor las leyes generales que expida el Congreso de la Unión referidas en el Transitorio anterior. Los procesos penales iniciados con fundamento en dicha legislación, así como las sentencias emitidas con base en la misma, no serán afectados por la entrada en vigor de dichas leyes generales. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor de estas últimas.
-
-D.O.F. 27 DE ENERO DE 2016.
+El Auditor Superior del Estado continuará en el desempeño de su encargo hasta la conclusión del período para el que fue designado en términos de la Ley de Fiscalización Superior del Estado de Tamaulipas.
 
 ###### ARTICULO UNICO.
 
