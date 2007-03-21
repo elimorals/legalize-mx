@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2007-02-21"
+last_updated: "2007-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2007.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -280,11 +280,15 @@ La mujer y el varón tienen igualdad de derechos ante la Ley. Los ordenamientos 
 
 I.- Corresponde a los miembros del núcleo la atención y cuidado de cada uno de los familiares. El Estado auxiliará a la familia complementariamente.
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2007)</small>
 
-II.- El menor de edad tiene derecho:
+II.- Los menores y adolescentes tienen derecho:
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 a).- A conocer a sus padres y ser respetado en su integridad física y psíquica por parte de ellos y de la sociedad;
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 b).- A que se le proporcione alimentación, a la educación básica, a la especial en los casos que se requieran y a la superior de ser posible. Tendrá derecho a la protección y conservación de su salud, todo ello respetando su derecho a la libertad;
 
@@ -292,13 +296,19 @@ b).- A que se le proporcione alimentación, a la educación básica, a la especi
 
 c).- Al sano esparcimiento para su desarrollo integral;
 
-(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2007)</small>
 
-d).- A que se le proteja con medidas de seguridad o que garanticen su readaptación social;
+d).- A salvaguardarles en todo momento la protección de los derechos y garantías fundamentales, que por su condición de personas en desarrollo son reconocidos por la Constitución General de la República, por los tratados internacionales ratificados por el Estado mexicano, por la Constitución del Estado y las leyes que el Congreso del Estado emita. Para ello, el estado establecerá un sistema Integral de Justicia que será aplicable a los adolescentes que tengan entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales.
 
-(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
+La conducción y operación del Sistema estará a cargo de instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para adolescentes. Dicho Sistema deberá considerar formas alternativas de justicia que cumplan con las garantías del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión, de las que impongan las medidas y de las que ejecuten la medida impuesta, para ello, el Congreso del Estado emitirá el ordenamiento legal de la materia, a fin de establecer las formas y autoridades responsables de su ejercicio.
 
-e).- A que se le proteja en su caso, con medidas de seguridad y se le garantice su readaptación social;
+El sistema integral de justicia en el Estado de Morelos, garantizará la orientación, protección y tratamiento integral del adolescente, toda vez que su condición de personas en desarrollo es factor de interés superior para la aplicación en todos los procedimientos instaurados y con ello, reconocerles los valores universales de solidaridad, humanismo e integración social.
+
+Cuando los elementos constitutivos del cuerpo del delito estén debidamente acreditados, los menores de 12 años que hayan realizado una conducta prevista como delito en la ley, previa acreditación de la probable responsabilidad, sólo podrán ser sujetos a rehabilitación y asistencia social. Las medidas impuestas a los adolescentes de doce años cumplidos y menores de dieciocho estarán dotadas de contenido educativo, sin perder de vista la orientación, protección y tratamiento, aspectos que deberán estar claramente determinados en calidad técnica multidisciplinaria. Será improcedente y contrario a derecho el que se habilite una medida que exceda el criterio de proporcionalidad por el acto cometido, toda vez que el propósito fundamental es el de atender a la protección integral y el interés superior del adolescente, incorporando al contenido educativo la prevención del delito.
+
+Estas medidas tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidad. El internamiento se utilizará como medida extrema y por el menor tiempo que proceda y podrá aplicarse únicamente a los adolescente (sic) mayores de catorce años y menores de dieciocho, por la comisión de las conductas antisociales calificadas como graves.
+
+e).- (DEROGADO, P.O. 21 DE MARZO DE 2007)
 
 (REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
@@ -1566,7 +1576,7 @@ XXXVII.- Las demás que otorgue la presente Constitución.
 
 ###### Artículo 71.
 
-El Gobernador del Estado podrá celebrar convenios sobre las materias que sean necesarias, con la Federación, con otros Estados y con los Municipios de la entidad. Podrá inclusive convenir en los términos de ley, con la federación, que el Estado asuma el ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos que le correspondan a aquella; de igual manera estará facultado para celebrar convenios con sus municipios para que estos desarrollen las funciones o presten los servicios antes señalados, todo ello cuando el desarrollo económico y social del Estado lo haga necesario. Sujetándose en todo momento a lo previsto en las leyes que al efecto expida el Congreso y en su caso la normatividad federal aplicable. Celebrado que fueren los convenios en los términos de ley. El Ejecutivo del Estado y los Ayuntamientos informarán al Congreso del Estado, del ejercicio de esta facultad, anexando los documentos respectivos en cada caso.
+El Gobernador del Estado podrá celebrar convenios sobre las materias que sean necesarias, con la Federación, con otros Estados y con los Municipios de la entidad. Podrá inclusive convenir en los términos de ley, con la federación, que el Estado asuma el ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos que le correspondan a aquella; de igual manera estará facultado para celebrar convenios con sus municipios para que estos desarrollen las funciones o presten los servicios antes señalados, todo ello cuando el desarrollo económico y social del Estado lo haga necesario. Sujetándose en todo momento a lo previsto en las leyes que al efecto expida el Congreso y en su caso la normatividad federal aplicable. Celebrado que fueren los convenios en los términos de ley, El Ejecutivo del Estado y los Ayuntamientos informarán al Congreso del Estado, del ejercicio de esta facultad, anexando los documentos respectivos en cada caso.
 
 En el ámbito municipal y en el caso en que no exista el convenio respectivo, el Congreso del Estado, a solicitud previa del Ayuntamiento, aprobada por cuando menos las dos terceras partes de sus integrantes, valorará la conveniencia de que el Estado asuma funciones o servicios municipales, cuando se considere que el Gobierno Municipal se encuentra imposibilitado para ejercerlos o prestarlos, determinando en estos casos el procedimiento y las condiciones para que el Gobierno Estatal las asuma.
 
@@ -3452,10 +3462,28 @@ SEGUNDO. Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal p
 
 TERCERO. Los actuales integrantes del Consejo Consultivo de la Comisión Estatal de Derechos Humanos continuarán en su encargo hasta en tanto el Congreso del Estado, elija a los nuevos integrantes que conformarán el Consejo Consultivo, en términos del artículo subsiguiente.
 
-CUARTO. En términos de la parte considerativa, en caso de que a la fecha de inicio de vigencia del presente decreto, exista Presidente de la Comisión Estatal de Derechos Humanos en funciones, éste durará en su cargo hasta en tanto el Congreso del Estado, elija al nuevo Presidente del órgano constitucional que se crea. De igual forma, para el caso de no que (sic) exista designación o ratificación de Presidente de la citada comisión en la fecha mencionada, el Congreso del Estado, hará la designación correspondiente en un término no mayor a los treinta días naturales posteriores a la publicación del presente decreto por única ocasión, para lo cual la Junta de Coordinación Política emitirá convocatoria en los principales medios de comunicación en el Estado, para el efecto de que las organizaciones no gubernamentales, asociaciones civiles, y la población en general presenten sus propuestas sustentadas documentalmente, estableciéndose en dicha convocatoria las bases sobre las cuales se desarrollará este proceso. Hecho lo anterior, emitirá dictamen para que sea sometido a consideración del Pleno de la Asamblea y se designe tanto al Presidente como a los Consejeros de la Comisión de Derechos Humanos del Estado de Morelos.
+CUARTO. En términos de la parte considerativa, en caso de que a la fecha de inicio de vigencia del presente decreto, exista Presidente de la Comisión Estatal de Derechos Humanos en funciones, éste durará en su cargo hasta en tanto el Congreso del Estado, elija al nuevo Presidente del órgano constitucional que se crea. De igual forma, para el caso de no que (sic)exista designación o ratificación de Presidente de la citada comisión en la fecha mencionada, el Congreso del Estado, hará la designación correspondiente en un término no mayor a los treinta días naturales posteriores a la publicación del presente decreto por única ocasión, para lo cual la Junta de Coordinación Política emitirá convocatoria en los principales medios de comunicación en el Estado, para el efecto de que las organizaciones no gubernamentales, asociaciones civiles, y la población en general presenten sus propuestas sustentadas documentalmente, estableciéndose en dicha convocatoria las bases sobre las cuales se desarrollará este proceso. Hecho lo anterior, emitirá dictamen para que sea sometido a consideración del Pleno de la Asamblea y se designe tanto al Presidente como a los Consejeros de la Comisión de Derechos Humanos del Estado de Morelos.
 
 QUINTO. En un término máximo de sesenta días hábiles siguientes al inicio de vigencia de la presente, el Congreso del Estado deberá expedir la ley reglamentaria que regule el funcionamiento y atribuciones de la Comisión de Derechos Humanos del Estado de Morelos, mientras tanto, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y los ordenamientos vigentes en lo que no se contravengan, hasta dicha expedición de la ley reglamentaria.
 
 SEXTO. Los recursos humanos, materiales y presupuestales con que actualmente cuenta la Comisión Estatal de Derechos Humanos, pasarán a formar parte del organismo público autónomo que se crea. Los trabajadores tendrán derecho a la indemnización de tres meses de salario, en caso de no utilizarse sus servicios en el nuevo órgano.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+A partir de la publicación del presente Decreto, el Congreso del Estado contará con seis meses para expedir la Ley del Sistema Integral de Justicia para Adolescentes en el Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Hasta que entre en vigor la Ley y funcionamiento del Sistema Integral de Justicia para Adolescentes en el Estado de Morelos, el Consejo Tutelar para Menores Infractores en el Estado, operará en los términos de la normatividad vigente, apegado a los principios garantistas dispuestos por el artículo 18 de la Constitución General de la República.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
