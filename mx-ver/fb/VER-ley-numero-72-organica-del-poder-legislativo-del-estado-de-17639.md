@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2007-03-06"
+last_updated: "2007-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -291,7 +291,9 @@ XIV. Crear y suprimir congregaciones, autorizar el traslado de un ayuntamiento a
 
 XV. Aprobar, con el voto de las dos terceras partes de sus integrantes:
 
-a) El número de ediles, con base en el censo general de población de cada diez años y antes de la elección que corresponda, previa solicitud de los ayuntamientos;
+> <small>(REFORMADO G.O. 21 DE MARZO DE 2007)</small>
+
+a) El número de ediles, con base en el Censo General de Población de cada diez años y antes de la elección que corresponda, escuchando la opinión de los Ayuntamientos respectivos;
 
 b) Los procedimientos de elección de los agentes y subagentes municipales; y
 
@@ -1286,5 +1288,11 @@ Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
 G.O. 6 DE MARZO DE 2007.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE MARZO DE 2007.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
