@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-12-2006-de-la-comision-de-creacion-de-nuevos-52347
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-12-04"
-last_updated: "2006-12-04"
+last_updated: "2007-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52347&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-11-16"
 
 ACUERDO CCNO/12/2006, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSION DEL TURNO DE NUEVOS ASUNTOS DE LOS TRIBUNALES UNITARIOS PRIMERO Y SEGUNDO EN MATERIAS CIVIL Y ADMINISTRATIVA DEL PRIMER CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MARZO DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de diciembre de 2006.
 
@@ -45,6 +45,8 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/4/2007, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 21 DE MARZO DE 2007, SE CONCLUYE ANTICIPADAMENTE LA EXCLUSION DE TURNOS DE LOS TRIBUNALES UNITARIOS PRIMERO Y SEGUNDO EN MATERIAS CIVIL Y ADMINISTRATIVA DEL PRIMER CIRCUITO, A PARTIR DEL 12 DE MARZO DE 2007.</small>
+
 PRIMERO.- Se excluye del turno de nuevos asuntos a los Tribunales Unitarios Primero y Segundo en Materias Civil y Administrativa del Primer Circuito, por un lapso de seis meses.
 
 El periodo de exclusión señalado comprenderá del primero de diciembre de dos mil seis, al treinta y uno de mayo de dos mil siete; por ende, los asuntos nuevos presentados en ese lapso en la Oficina de Correspondencia Común de los Tribunales Unitarios en Materias Civil y Administrativa del Primer Circuito, serán del conocimiento del tercer tribunal unitario en las mismas materias y Circuito indicados, con excepción de los asuntos relacionados, los que serán turnados al órgano jurisdiccional correspondiente con el propósito de aprovechar el conocimiento previo y evitar el pronunciamiento de resoluciones contradictorias, conforme a lo dispuesto en el considerando octavo y el artículo seis del Acuerdo General 23/2002 del Pleno del Consejo de la Judicatura Federal.
@@ -66,3 +68,13 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 LA LICENCIADA GUADALUPE MARGARITA ORTIZ BLANCO, SECRETARIA EJECUTIVA DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/12/2006, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, relativo a la exclusión del turno de nuevos asuntos de los Tribunales Unitarios Primero y Segundo en Materias Civil y Administrativa del Primer Circuito, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el dieciséis de noviembre de dos mil seis, por los señores Consejeros: Presidente Adolfo O. Aragón Mendía, Elvia Díaz de León D'Hers y María Teresa Herrera Tello.- México, Distrito Federal, a dieciséis de noviembre de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE MARZO DE 2007.
+
+PRIMERO.- Se concluyen anticipadamente a partir del doce de marzo de dos mil siete las exclusiones de turno de los Tribunales Unitarios Primero y Segundo en Materias Civil y Administrativa del Primer Circuito ordenadas en el Acuerdo CCNO/12/2006.
+
+SEGUNDO.- A partir de la fecha precisada en el punto que antecede, los órganos jurisdiccionales indicados, se reincorporan al turno de asuntos nuevos, que se sigue en la Oficina de Correspondencia Común de los Tribunales Unitarios en Materias Administrativa y Civil del Primer Circuito, conforme al sistema automatizado que se utiliza para esos efectos.
+
+TERCERO.- En virtud de que ha finalizado el periodo de exclusión otorgado, los titulares de los tres tribunales unitarios en materias civil y administrativa del Primer Circuito, deberán informar sobre los resultados obtenidos a la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal.
