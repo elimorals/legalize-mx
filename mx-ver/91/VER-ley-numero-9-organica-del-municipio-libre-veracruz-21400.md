@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2007-01-09"
+last_updated: "2007-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -257,7 +257,9 @@ V. Trece, para los municipios de más de 250 000 y hasta 400 000 habitantes; y
 
 VI. Hasta quince, para los municipios cuya población exceda de 400 000 habitantes y su capacidad económica lo permita.
 
-El Congreso del Estado podrá modificar, por el voto de las dos terceras partes de sus integrantes, el número de Ediles con base en el Censo General de Población y Vivienda de los Estados Unidos Mexicanos y antes de la elección que corresponda, previa solicitud de los Ayuntamientos, a fin de actualizar su número para efectos de lo dispuesto en las fracciones anteriores.
+> <small>(REFORMADO, G.O. 21 DE MARZO DE 2007)</small>
+
+El Congreso del Estado podrá modificar, por el voto de las dos terceras partes de sus integrantes, el número de Ediles con base en el Censo de Población y Vivienda de los Estados Unidos Mexicanos y antes de la elección que corresponda, escuchando la opinión de los Ayuntamientos respectivos, a fin de actualizar su número para efectos de lo dispuesto en las fracciones anteriores.
 
 ###### Artículo 22.
 
@@ -549,7 +551,7 @@ XXIII. Presidir el Consejo Municipal de Protección Civil;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE ABRIL DE 2003)</small>
 
-XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo; y
+XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo; y (sic)
 
 > <small>(REFORMADA, G.O. 3 DE ENERO DE 2007)</small>
 
@@ -2682,3 +2684,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 G.O. 9 DE ENERO DE 2007.
 
 Único. Este Decreto entrará en vigor a los tres días de su publicación en la Gaceta Oficial del gobierno del estado.
+
+G.O. 21 DE MARZO DE 2007.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
