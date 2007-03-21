@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2006-12-27"
+last_updated: "2007-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -1089,7 +1089,7 @@ III. Por la sustitución de deudor o de acreedor, en cualquier caso: ocho días 
 
 IV. Por contratos de hipoteca celebrados por Instituciones de Crédito, Seguros, o de Fianzas, sobre el importe de las operaciones: 5.0 al millar;
 
-V. Por la inscripción de la cancelación de los contratos de hipoteca a que alude la fracción que precede: 5.0 al millar
+V; Por la inscripción de la cancelación de los contratos de hipoteca a que alude la fracción que precede: 5.0 al millar
 
 VI. Por el Registro de Cédulas Hipotecarias: quince días de salario mínimo general vigente en el Estado;
 
@@ -2105,6 +2105,8 @@ IX. Otros servicios: $2,000.00
 
 ### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2007)</small>
+
 ###### Artículo 97.
 
 Los derechos por los servicios de educación de nivel superior por instituciones privadas, se causarán de acuerdo con la siguiente tarifa:
@@ -2699,9 +2701,15 @@ General de Justicia del Estado, tratándose de
 
 la Constancia de no antecedentes penales: 1
 
-VI. Copias certificadas expedidas por el 3
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2007)</small>
 
-Poder Judicial:
+VI. Copias Certificadas
+
+expedidas por el Poder 3
+
+Judicial, sin importar el
+
+Volumen.
 
 VII. Certificado de "No adeudo" por cada .50
 
@@ -2723,9 +2731,23 @@ b) Por las siguientes hojas y hasta cincuenta. .10
 
 c) Por las siguientes hojas y más de cincuenta .05
 
-X. Cualquiera otra certificación que se expida 2
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2007)</small>
 
-por autoridad distinta de las anteriores:
+X. Cualquiera otra por certificación
+
+que se expida por autoridad distinta
+
+de las anteriores:
+
+a) Por la primera hoja; .5
+
+b) Por las siguientes .10
+
+hojas y hasta cincuenta;
+
+Por las siguientes hojas .05
+
+y más de cincuenta;
 
 Para la legalización de firma y expedición de certificaciones, certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos respectivos.
 
@@ -2743,7 +2765,7 @@ Los certificados de insolvencia no causarán los derechos fijados en la tarifa.
 
 ###### Artículo 113.
 
-Por la reproducción de copias simples de información pública, derivado de la solicitud de acceso a la información, se causará 0.25 días de salario mínimo general vigente en el Estado por cada una de las reproducciones de copias simples.
+Por la reproducción de copias simples de información pública, derivado de la solicitud de acceso a la información, se causará 0.015 días de salario mínimo general vigente en el Estado por cada una de las reproducciones de copias simples.
 
 Queda exenta del pago que se prevé en el presente artículo la información que se genere con motivo de la respuesta a una solicitud de acceso a los datos personales o la corrección de éstos.
 
@@ -3092,3 +3114,11 @@ SEXTO.- Se faculta al Poder Ejecutivo para que realice todos los actos jurídico
 SÉPTIMO.- En un plazo no mayor a 30 días, contados a partir del 1 de enero de 2007, deberá integrarse el Comité Ejecutivo, mediante convocatoria pública que realice el Titular del Poder Ejecutivo Estatal al sector empresarial organizado.
 
 OCTAVO.- En un plazo no mayor a 60 días, contados a partir del 1 de enero de 2007, deberá expedirse el Reglamento del Comité Ejecutivo del Fideicomiso, a que se refiere el artículo 58 BIS-10.
+
+P.O. 21 DE MARZO DE 2007.
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente decreto.
