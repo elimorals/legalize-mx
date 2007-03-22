@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-235
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-26"
-last_updated: "2005-11-17"
+last_updated: "2007-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE MARZO DE 2007.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado Sonora, el lunes 26 de noviembre de 2001.
 
@@ -37,69 +37,51 @@ REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO 
 
 ### CAPITULO I. DE LA ORGANIZACION DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
+> <small>(REFORMADO, B.O. 22 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 1o.
 
 La Procuraduría General de Justicia del Estado de Sonora, como dependencia del Poder Ejecutivo Estatal, tiene a su cargo el ejercicio de las atribuciones conferidas al Ministerio Público y el despacho de los asuntos que le otorgan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política Local, la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora y otras leyes, así como los reglamentos, decretos, acuerdos, circulares y órdenes del Gobernador del Estado.
 
+> <small>(REFORMADO, B.O. 22 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 2o.
 
-La Procuraduría General de Justicia del Estado de Sonora, cuyo titular será el Procurador General de Justicia del Estado, para el ejercicio de sus atribuciones y el despacho de los asuntos de su competencia, se integrará con:
+La Procuraduría General de Justicia del Estado de Sonora, cuyo titular será el Procurador General de Justicia del Estado, para el ejercicio de sus atribuciones y el despacho de los asuntos de su competencia, se integrará con unidades administrativas y órganos desconcentrados:
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+l.- Unidades Administrativas:
 
 - Procuraduría.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+-Subprocuraduría de Averiguaciones Previas.
 
-- Subprocuraduría de Averiguaciones Previas.
+-Subprocuraduría de Control de Procesos.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
-
-- Subprocuraduría de Control de Procesos.
-
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
-
-- Dirección General de Averiguaciones Previas.
-
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+- Dirección general de Averiguaciones Previas.
 
 - Dirección General de Servicios Periciales.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
-
 - Dirección General de Procesos.
-
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 - Dirección General de Sistemas de Información y Política Criminal.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
-
-- Dirección General de Asuntos Jurídicos.
-
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+- Dirección General de Asuntos Jurídicos
 
 - Dirección General de Policía Judicial.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
-
-- Visitaduría General.
-
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+- Visitaduria General.
 
 - Dirección General de Programación, Organización y Presupuesto.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
-
 - Unidad Central de Agentes Especiales del Ministerio Público.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+II.- Órganos Desconcentrados.
 
-Órganos Desconcentrados.
+-Delegaciones Regionales de la Procuraduría General de Justicia del Estado.
 
-- Delegaciones Regionales de la Procuraduría General de Justicia del Estado.
+-Unidad Especializada en Procuración de Justicia para Adolescentes.
 
-Se anexa organigrama estructural. (sic)
+Se anexa organigrama estructural
 
 Además, para la mejor atención y el eficiente despacho de sus asuntos, la Procuraduría General de Justicia del Estado, contará con las comisiones y con las unidades administrativas subalternas que fueren necesarias. La creación y funciones de estas comisiones y unidades, cuando no se precisen en este ordenamiento, se señalarán en los acuerdos respectivos o se incorporarán en el manual de organización de la dependencia.
 
@@ -193,9 +175,11 @@ XXVI.- Coordinar la implementación de mecanismos que contribuyan a garantizar e
 
 XXVII.- Las demás que con este carácter le confieran este ordenamiento y otras disposiciones legales, así como aquellas otras que le encomiende el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 7o.
 
-Serán también atribuciones del Procurador General de Justicia del Estado, mismas que por acuerdo podrá delegar en los Subprocuradores de Averiguaciones Previas y de Control de Procesos, así como en los Delegados Regionales, las siguientes:
+Serán también atribuciones del Procurador General de Justicia del Estado, mismas que por acuerdo podrá delegar en los Subprocuradores de Averiguaciones Previas y de Control de Procesos, Delegados Regionales, así como en el titular de la Unidad Especializada en Procuración de Justicia para Adolescentes, las siguientes:
 
 I.- Definir, en el marco de las acciones de modernización y simplificación administrativa, las medidas técnicas y administrativas que estime convenientes, para la mejor organización y funcionamiento de la Procuraduría;
 
@@ -215,9 +199,15 @@ VI.- Recibir en acuerdo a los funcionarios y empleados de la Procuraduría y con
 
 VII.- Proporcionar a la Secretaría de Hacienda, los datos de las actividades realizadas por la Procuraduría y por las entidades agrupadas a su sector, para la elaboración del informe a que se refiere el artículo 46 de la Constitución Política Local;
 
-VIII.- Resolver sobre los casos en que proceda legalmente pedir la libertad del detenido y sobre la determinación del no ejercicio de la acción penal a que se refiere el artículo 134 del Código de Procedimientos Penales para el Estado de Sonora;
+> <small>(REFORMADA, B.O. 22 DE MARZO DE 2007)</small>
 
-IX.- Confirmar o modificar las conclusiones no acusatorias; asimismo, resolver lo que corresponda en los casos en que las conclusiones formuladas no comprendieran algún delito que resultare probado en la instrucción, o si fueren contrarias a las constancias procesales o si en ellas no se cumpliere con lo dispuesto en el artículo 279 del Código de Procedimientos Penales para el Estado de Sonora;
+VIII.- Resolver sobre los casos en que proceda legalmente pedir la libertad del detenido y sobre la determinación del no ejercicio de la acción penal, a que se refiere el artículo 134 del Código de Procedimientos Penales para el Estado de Sonora; asimismo, resolver cuando se determine que no es de ejercitarse la remisión al Juez, en términos del artículo 19 fracción VI de la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 22 DE MARZO DE 2007)</small>
+
+IX.- Confirmar o modificarlas conclusiones no acusatorias; asimismo, resolver lo que corresponda en los casos en que las conclusiones formuladas no comprendieran algún delito que resultare probado en la instrucción, o si fueren contrarias a las constancias procesales o si en ellas no se cumpliere con lo dispuesto en el artículo 280 del Código de Procedimientos Penales para el Estado de Sonora.
+
+Igualmente, confirmar o modificar las conclusiones de no acusación, en el caso a que se refiere el párrafo segundo del artículo 72 de la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora;
 
 > <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
@@ -709,7 +699,9 @@ VI.- Las demás que le confieran otras disposiciones legales o le asigne el Proc
 
 Los Agentes Especiales del Ministerio Público desempeñarán las funciones de Visitador, cuando así lo disponga el Procurador General de Justicia del Estado.
 
-### CAPITULO VII. DE LAS DELEGACIONES REGIONALES DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACION, B.O. 22 DE MARZO DE 2007)</small>
+
+### CAPITULO VII. DE LAS DELEGACIONES REGIONALES Y DE LA UNIDAD ESPECIALIZADA EN PROCURACION DE JUSTICIA PARA ADOLESCENTES DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
 ###### ARTICULO 22.
 
@@ -750,6 +742,68 @@ VII.- Promover, en la esfera de su competencia, el desarrollo técnico, administ
 VIII.- Consultar con las Direcciones Generales correspondientes de la Procuraduría, los asuntos que revistan especial dificultad e importancia; y
 
 IX.- Las demás que le señalen otras disposiciones legales o le confiera el Procurador.
+
+> <small>(ADICIONADO, B.O. 22 DE MARZO DE 2007)</small>
+
+ARTICULO 25 BIS.- La Procuraduría General de Justicia del Estado, contará con un órgano desconcentrado denominado Unidad Especializada en Procuración de Justicia para Adolescentes, a quien en lo sucesivo se le denominará la Unidad, que se encargará de la investigación y persecución de conductas tipificadas como delitos por las leyes penales, que se atribuyan a los adolescentes en los términos previstos por la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora.
+
+Al frente de esta Unidad habrá un Director General, quien será Agente del Ministerio Público para todos los efectos legales que correspondan y se integrará por los agentes del Ministerio Público, elementos de la Policía Judicial, de servicios periciales y los servidores públicos especializados que se le adscriban, en razón de los servicios que en cada caso se deban prestar.
+
+La Unidad desarrollará sus actividades con autonomía técnica, ajustando su funcionamiento a los principios, normas y directrices establecidos en la materia, en los articulo 18 y 21 de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes federal y estatal para la Protección de los Derechos de las Niños, Niñas y Adolescentes y en la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 22 DE MARZO DE 2007)</small>
+
+ARTICULO 25 BIS A- El titular de la Unidad Especializada en Procuración de Justicia para Adolescentes, ejercerá aquellas atribuciones que expresamente le delegue el Procurador y las genéricas siguientes:
+
+I.- Planear, dirigir, organizar, controlar y evaluar la ejecución de los programas y acciones técnicas, jurídicas y administrativas encomendadas a la Unidad a su cargo y mantener informado al Procurador sobre su desarrollo;
+
+II.- Supervisar las actuaciones de los Agentes del Ministerio Público, de los elementos de la Policía Judicial y de los servicios periciales y de Iodos aquellos servidores públicos adscritos a la Unidad, a fin de garantizar una estricta observancia de las leyes y la mayor eficacia y eficiencia en la prestación del servicio;
+
+III.- Concurrir e intervenir en las diligencias que se practiquen en el Tribunal Unitario Regional de Circuito con motivo de la interposición de recursos, así como estudiar los expedientes en los que se dé vista al Ministerio Público y expresar los agravios que correspondan a dicha Unidad en la materia;
+
+IV- Acordar con el Procurador la resolución de los asuntos relevantes, cuya tramitación se encuentre a su cargo;
+
+V.- Someter a la aprobación de las unidades administrativas de la Procuraduría, los estudios y proyectos de trascendencia que se elaboren en la Unidad a su cargo;
+
+VI.- Vigilar que a los acuerdos y circulares emitidos por el Procurador se les dé la debida difusión, observancia y cumplimiento por parte de las agencias del Ministerio Público de su adscripción;
+
+VII.- Promover, en la esfera de su competencia, el desarrollo técnico, administrativo y tecnológico del proceso de desconcentración;
+
+VIII.- Consultar con las Direcciones Generales correspondientes de la Procuraduría, los asuntos que revistan especial dificultad e importancia; y
+
+IX.- Las demás que le señalen otras disposiciones legales o le confiera el Procurador.
+
+> <small>(ADICIONADO, B.O. 22 DE MARZO DE 2007)</small>
+
+ARTICULO 25 BIS B.- La Unidad Especializada en Procuración de Justicia para Adolescentes, tendrá las atribuciones siguientes, que serán ejercidas por los Agentes del Ministerio Público Especializados y en su caso, por aquellos que intervienen en su auxilio con ese carácter:
+
+I.- Investigar y perseguir las conductas tipificadas como delito por las leyes penales atribuidas a los adolescentes, en los términos previstos en la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora y demás disposiciones aplicables;
+
+II.- Velar por que los agentes de la Policía Judicial del Estado que realicen la detención en flagrancia de un adolescente, lo pongan de inmediato en custodia en los Centros Especializados en la Atención, Tratamiento y Aplicación de Medidas a los Adolescentes, a los que se refiere la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora, haciendo constar mediante oficio la hora y fecha de esta circunstancia, así como la de su disposición ante el propio Agente del Ministerio Público;
+
+III.- Informar de inmediato al adolescente y a sus padres, tutores o personas que ejerzan la patria potestad, el motivo de su detención, en su caso, la persona que le atribuye la realización de la conducta tipificada como delito, la naturaleza y causa de la imputación y los derechos y garantías que le asisten;
+
+IV.- Practicar las diligencias que sean conducentes para determinar la existencia o no de las conductas ilícitas que se le imputan al adolescente, así como su probable responsabilidad;
+
+V.- Preservar en secreto, respecto de terceros ajenos al procedimiento, todo asunto relacionado con los adolescentes, evitando su publicidad o exhibición pública;
+
+VI.- Determinar que no es de ejercitarse la remisión al Juez, cuando de la investigación no se acredite el cuerpo de la conducta tipificada como delito o la probable responsabilidad del adolescente en los hechos imputados;
+
+VII.- Promover y privilegiar en todo momento las soluciones alternativas al procedimiento, a fin de cumplir con el principio de justicia alternativa en los términos de la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora;
+
+VIII.- Ejercitar la remisión al juez de los adolescentes probablemente responsables, en los casos en que resulte procedente, y solicitar orden de detención, internamiento preventivo o comparecencia, según corresponda cuando la remisión sea sin detenido;
+
+IX.- Solicitar al Instituto de Tratamiento y de Aplicación de Medidas para Adolescentes, a que se refiere la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora, un estudio físico y psicológico preliminar del adolescente para conocer su estado de salud;
+
+X.- Realizar durante el procedimiento el ofrecimiento de pruebas, formulación de conclusiones, interposición de recursos y exposición de agravios que corresponda;
+
+XI.-Solicitar la reparación del daño causado al ofendido o victima cuando proceda y realizar todas las acciones tendientes a obtenerla;
+
+XII.- Determinar, en su caso, las medidas y providencias que procedan para proporcionar protección, auxilio y seguridad al adolescente y las victimas, así como las medidas de aseguramiento de los instrumentos o las cosas objeto o producto de la conducta tipificada como delito;
+
+XIII.- Las contenidas en los artículos 11 y 12 Bis de este Reglamento, siempre que no se opongan a lo dispuesto en la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora; y
+
+XIV.- Las demás que le señalen las disposiciones legales o reglamentarias, o le confiera el Procurador.
 
 ### CAPITULO VIII. DEL REGISTRO DE ANTECEDENTES DE ELEMENTOS ACTIVOS Y EX ELEMENTOS DEL MINISTERIO PUBLICO Y SUS AUXILIARES
 
@@ -1632,3 +1686,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 22 DE MARZO DE 2007.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
