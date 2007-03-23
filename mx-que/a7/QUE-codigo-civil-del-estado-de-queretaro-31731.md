@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2005-06-10"
+last_updated: "2007-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -15377,19 +15377,21 @@ El registrador que haga una inscripción sin cumplir con lo dispuesto en los art
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 2900.
 
-Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, deberá solicitar al Registro certificado sobre la existencia e inexistencia de gravámenes en relación con la misma. En dicha solicitud, que se considerará como aviso preventivo, deberá mencionarse la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud practicará inmediatamente la nota de presentación en el folio o libro correspondiente, nota que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
+Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el Notario ante quien se vaya a otorgar el instrumento, podrá solicitar al Registro certificado sobre la existencia o inexistencia de gravámenes, en relación con los mismos. En dicha solicitud, que surtirá efectos de aviso preventivo a partir de su presentación, deberá mencionarse la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador practicará inmediatamente la nota de presentación del aviso en el folio o libro correspondiente, cuya vigencia se extenderá hasta los treinta días naturales contados a partir de la fecha de expedición del certificado.
 
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario o autoridad ante quien se otorgó dará aviso definitivo al Registro, acerca de la operación de que se trate, dentro de las cuarenta y ocho horas siguientes y contendrá, además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de ciento ochenta días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de treinta días a que se contrae el párrafo anterior, sus efectos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha y hora en que fue presentado y según el número de entrada que corresponda. No se deberá enviar al Registro más de un aviso preventivo.
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo anterior, el Notario ante quien se otorgó, dentro del plazo de vigencia del aviso preventivo, dará aviso definitivo al Registro respecto de la operación de que se trate, el que contendrá, además de los datos mencionados en el párrafo anterior, la fecha de escritura y la de su firma. El registrador, con el aviso citado practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de ciento ochenta días naturales, a partir de la fecha de presentación del aviso definitivo. Si éste se presenta dentro del término establecido para el aviso preventivo, sus efectos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el párrafo anterior; en caso contrario sólo surtirá efectos desde la fecha y hora en que fue presentado y según el número de entrada que le corresponda.
 
-Si el testimonio respectivo se presentare al Registro dentro de cualquiera de los términos que se señalan en los dos párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso preventivo y con arreglo a su número de entrada. Si el documento presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha y hora de su presentación.
+Si el testimonio respectivo al Registro dentro de cualquiera de los términos que se señalan en los párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso preventivo o en su caso desde la fecha de presentación del aviso definitivo, con arreglo a sus números de entrada. Si el testimonio se presenta vencidos los referidos plazos, su inscripción únicamente surtirá efectos desde la fecha y hora de su presentación.
 
-Si el documento en que conste (sic) algunas de las operaciones que se mencionan en el párrafo primero de este artículo, fuere privado, deberá dar aviso preventivo, con vigencia por ciento ochenta días, el notario o el juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los notarios en el caso de los instrumentos públicos. Si el contrato se ratificara ante el registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
+Si el documento en que conste alguna de las operaciones que se mencionan en el primer párrafo de este artículo fuere privado, deberá dar aviso definitivo el Notario o en su caso, con arreglo a la Ley, la autoridad que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo supuesto el aviso en cuestión surtirá los mismos efectos que el dado por los Notarios respecto de instrumentos públicos.
 
-En virtud de lo dispuesto en los párrafos anteriores, los documentos que se presenten para inscripción o anotación en las partidas o folios en que aparezca un aviso preventivo, no se podrán insertar ni serán motivo de anotación alguna, mientras no caduque la vigencia de los términos señalados, y solamente se anotarán en el control de entradas para el efecto de preservar su prioridad registral.
+En virtud de lo dispuesto en los párrafos anteriores, los documentos que se presenten para inscripción o anotación en las partidas o folios en que aparezca un aviso preventivo o definitivo, no serán motivo de asiento registral alguno, mientras no caduque la vigencia de los términos señalados, y solamente se anotará en el control de entradas para el efecto de preservar su prioridad registral.
+
+No podrá presentarse más de un aviso preventivo por el mismo Notario durante la vigencia de la nota a que se refiere el párrafo primero de este artículo.
 
 ###### ARTÍCULO 2901.
 
@@ -15940,3 +15942,13 @@ P.O. 10 DE JUNIO DE 2005.
 PRIMERO.- La presente Ley entrará en vigor, noventa días después de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 SEGUNDO.- La Dirección Estatal del Registro Civil, contará con un plazo de sesenta días naturales, computados a partir de la publicación de la presente Ley, para estructurar la orientación que se otorgará en las Oficialías del Registro Civil, previo a la celebración del matrimonio.
+
+P.O. 23 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente.
