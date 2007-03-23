@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2007-02-23"
+last_updated: "2007-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -603,11 +603,15 @@ El Gobernador del Estado podrá asistir a Sesiones de los Ayuntamientos y tomar 
 
 A las sesiones de los Ayuntamientos deberán comparecer los servidores de la administración municipal, sólo con voz informativa, cuando se traten asuntos de su competencia o fueren requeridos para ello para rendir informes o aportar datos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 59.
 
-La vigilancia de la administración municipal se distribuirá entre los Regidores, conforme a los siguientes ramos:
+La vigilancia de la administración municipal se distribuirá entre los regidores, conforme a los siguientes ramos:
 
-I. De Desarrollo Urbano, Ecología y Obras Públicas;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
+
+I.- De Desarrollo Urbano y Obras Públicas.
 
 II. De Educación, Cultura, Recreación, Espectáculos y Juventud;
 
@@ -621,7 +625,11 @@ VI. De la Participación Social de la Mujer;
 
 > <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2007)</small>
 
-VII. De Atención y Participación Social de Migrantes.
+VII. De Atención y Participación Social de Migrantes;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+VIII. De Medio Ambiente y Recursos Naturales.
 
 ###### ARTICULO 60.
 
@@ -721,21 +729,21 @@ X. Aceptar donaciones, herencias y legados a los Municipios, siempre que se haga
 
 XI. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 63.
 
-Son facultades y obligaciones de los Ayuntamientos en materia de Urbanismo, Ecología y Obras Públicas, las siguientes:
+Son facultades y obligaciones de los Ayuntamientos en materia de urbanismo y obras públicas, las siguientes:
 
 I. Formular, aprobar y administrar los planes de Desarrollo Urbano Municipal;
 
-II. Definir la política en materia de reservas territoriales y crear y administrar dichas reservas;
+II. (DEROGADA, P.O. 23 DE MARZO DE 2007)
 
 III. Intervenir en la regularización de la tenencia de la tierra urbanizable;
 
 IV. Otorgar, negar o retirar permisos y licencias para construcciones;
 
-V. Participar en la creación y administración de zonas de reservas ecológicas, así como controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales;
+V. (DEROGADA, P.O. 23 DE MARZO DE 2007)
 
 VI. Promover la participación de los habitantes en la construcción, conservación y reparación de obras del Municipio;
 
@@ -747,7 +755,9 @@ IX. Promover la construcción de caminos vecinales y de mano de obra;
 
 X. Promover, ante el Gobierno del Estado, el Programa de Centrales Regionales de Maquinaria Pesada, a fin de ejecutar obras públicas y asegurar su pertinencia;
 
-XI. Atender la conservación y cuidado de parques, jardines y en general la ampliación y conservación de zonas verdes;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XI. El mantenimiento e infraestructura de los parques y jardines;
 
 XII. Atender y vigilar la debida prestación de los servicios de agua potable y alcantarillado de acuerdo con la Ley de la materia y con la participación de los usuarios;
 
@@ -755,21 +765,49 @@ XIII. Promover el establecimiento y conservación del alumbrado público;
 
 XIV. Publicar el Plan Municipal de Desarrollo Urbano y las declaratorias de provisiones, usos, reservas y destinos de áreas y predios;
 
-XV. Prevenir y combatir la contaminación ambiental;
+XV. (DEROGADA, P.O. 23 DE MARZO DE 2007)
 
-XVI. Participar en coordinación con las instancias federales y estatales, en la planeación y regulación de los centros urbanos involucrados en los procesos de conurbación, y
+XVI. Participar en coordinación con las instancias federales y estatales, en la planeación y regulación de los centros urbanos involucrados en los procesos de conurbación, y (sic)
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2003)</small>
 
-XVII.- Atender la recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos, para ello los Municipios contarán con un relleno sanitario o sitio de disposición final de residuos sólidos que se ubiquen fuera de la mancha urbana y que cuente con las condiciones necesarias para prevenir o controlar posibles afectaciones al medio ambiente y que garantice la protección de la salud pública de acuerdo a las Normas Oficiales y las Leyes de la Materia.
+XVII. Atender la recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos, para ello los Municipios contarán con un relleno sanitario o sitio de disposición final de residuos sólidos que se ubiquen fuera de la mancha urbana y que cuente con las condiciones necesarias para prevenir o controlar posibles afectaciones al medio ambiente y que garantice la protección de la salud pública de acuerdo a las Normas Oficiales y las Leyes de la Materia.
 
 El uso de suelo, será el no urbano y tendrá una localización especial fuera de la mancha urbana.
 
-Con la finalidad de prestar un servicio eficaz, cada Ayuntamiento tendrá un reglamento que contenga las disposiciones señaladas en la presente fracción.
+Con la finalidad de prestar un servicio eficaz, cada Ayuntamiento tendrá un reglamento que contenga las disposiciones señaladas en la presente fracción;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2003)</small>
 
 XVIII. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+
+ARTICULO 63 bis.- Son facultades y obligaciones de los Ayuntamientos en materia de Medio Ambiente y Recursos Naturales, las siguientes:
+
+I. Participar en la creación y administración de zonas de reservas ecológicas, de acuerdo con los programas de ordenamiento ecológico; vigilar el uso en cuanto al entorno ecológico en sus jurisdicciones territoriales de conformidad con el Plan de Ordenamiento Ecológico Territorial;
+
+II. Atender la conservación y cuidado de parques, jardines, zonas sujetas a conservación y preservación ecológica y en general la ampliación y conservación de zonas verdes;
+
+III. Prevenir, controlar y combatir la contaminación ambiental;
+
+IV. La preservación y restauración del equilibrio ecológico y la protección al ambiente en los centros de población, con relación a los efectos derivados de los servicios de alcantarillado, además de la prevención y control de la contaminación de las aguas que tengan asignadas o concesionadas para la prestación de servicios públicos y de las que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, sin perjuicio de las facultades de la Federación en materia de tratamiento, descarga, infiltración y reuso, de aguas residuales, de acuerdo con las leyes y normas de la materia;
+
+V. Evaluar de manera periódica los niveles de satisfacción de los usuarios de los servicios alcantarillado sanitario y tratamiento de aguas residuales, haciendo pública dicha evaluación;
+
+VI. Promover acciones a través de campañas y programas para el ahorro, uso responsable, conservación y protección de las fuentes de abastecimiento de agua, así como promover el uso de las aguas residuales;
+
+VII. Promover acciones para aumentar la captación y aprovechamiento del agua pluvial;
+
+VIII. Promover e implementar acciones y programas para la separación, reducción, reutilización y reciclaje de los residuos sólidos municipales;
+
+IX. La aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos;
+
+X. Elaborar, aprobar y publicar el Plan de Ordenamiento Ecológico Territorial;
+
+XI. En el ámbito de su competencia regular en beneficio social el aprovechamiento de los elementos naturales susceptibles de apropiación con objeto de hacer una distribución equitativa de la riqueza pública y cuidar de su conservación logrando el desarrollo equilibrado del municipio;
+
+XII. Todas aquellas que en el ámbito de su competencia faciliten y aseguren el mejor desempeño de sus tareas relacionadas con la conservación, protección, preservación, mejoramiento, instauración o restauración del ambiente para evitar el deterioro e impacto ambiental y para coordinar la política ecológica municipal.
 
 ###### ARTICULO 64.
 
@@ -3050,3 +3088,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicaci
 SEGUNDO.- Los Ayuntamientos de la entidad deberán dentro de los treinta días naturales a la entrada en vigor del presente Decreto, elegir al regidor encargado del ramo de Atención y Participación Social de Migrantes.
 
 TERCERO.- Los Ayuntamientos deberán contar dentro del Organigrama Municipal con una Unidad Administrativa de "Atención y Participación Social de Migrantes", a partir del Ejercicio Presupuestal 2007.
+
+P.O. 23 DE MARZO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Gobernador del Estado y a los 81 Honorables Ayuntamientos de la Entidad, para su conocimiento y efectos legales.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+CUARTO.- Para el cumplimiento de la fracción X del Artículo 63 Bis de esta Ley, se establece un tiempo máximo de 18 meses a partir de la publicación del presente.
