@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2007-03-09"
+last_updated: "2007-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MARZO DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -157,15 +157,15 @@ V.- QUINTO CIRCUITO:
 
 3.- Diez juzgados de Distrito en el Estado de Sonora: cuatro con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
 
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 11/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2007)</small>
+
 VI.- SEXTO CIRCUITO:
 
-1.- Nueve tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y uno en materia de trabajo, todos con residencia en Puebla.
+1.- Nueve tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y uno en materia de trabajo, todos con residencia en San Andrés Cholula.
 
-2.- Un tribunal unitario con sede en Puebla.
+2.- Un tribunal unitario con sede en San Andrés Cholula.
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 9/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2007)</small>
-
-3.- Diez juzgados de Distrito en el Estado de Puebla: nueve con residencia en la ciudad del mismo nombre y uno con sede en San Andrés Cholula.
+3.- Diez juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula.
 
 VII.- SEPTIMO CIRCUITO:
 
@@ -495,11 +495,11 @@ Los juzgados de Distrito en el Estado de Sonora, con residencia en Ciudad Obreg�
 
 El juzgado de Distrito en el Estado de Sonora, con residencia en Agua Prieta, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Cananea, Cumpas, Fronteras, Huachinera, Naco, Nacozari de García y Villa Hidalgo.
 
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 11/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2007)</small>
+
 VI.- SEXTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 9/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2007)</small>
-
-Los juzgados de Distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre y con sede en San Andrés Cholula, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+Los Juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 VII.- SEPTIMO CIRCUITO:
 
@@ -764,6 +764,12 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 9 DE MARZO DE 2007.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 23 DE MARZO DE 2007.
 
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
