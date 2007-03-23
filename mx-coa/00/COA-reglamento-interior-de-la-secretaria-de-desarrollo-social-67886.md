@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-desarrollo-social-67886
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-07"
-last_updated: "2006-06-07"
+last_updated: "2007-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 7 de junio de 2006.
 
@@ -85,19 +85,45 @@ III.- Subsecretaría de Participación Ciudadana;
 
 IV.- Subsecretaría de Asistencia Social;
 
-V. Coordinación Administrativa;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MARZO DE 2007)</small>
 
-VI. Secretaría Particular;
+V.- Subsecretaría Región Sureste;
 
-VII. Dirección Técnica y de Seguimiento;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MARZO DE 2007)</small>
 
-VIII. Dirección Jurídica;
+VI.-· Subsecretaria Región Norte;
 
-IX. Dirección de Vinculación Municipal;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MARZO DE 2007)</small>
 
-X. Dirección de Vinculación con Programas Federales; y
+VII.- Subsecretaria Región Carbonífera;
 
-XI. Coordinaciones Regionales.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MARZO DE 2007)</small>
+
+VIII.- Subsecretaria Región Centro-Desierto;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MARZO DE 2007)</small>
+
+IX.- Coordinación Administrativa;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MARZO DE 2007)</small>
+
+X.- Secretaria Particular;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MARZO DE 2007)</small>
+
+XI.- Dirección Técnica de Seguimiento y Contraloría Social Interna;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XII.- Dirección Jurídica;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XIII.- Dirección de Vinculación Municipal, y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XIV.- Dirección de Vinculación con Programas Federales.
 
 ###### ARTÍCULO 6.
 
@@ -115,9 +141,37 @@ V.- Dirección de Asuntos Sociales;
 
 VI.- Dirección de Recursos Humanos;
 
-VII.- Dirección de Recursos Financieros; y
+VII.- Dirección de Recursos Financieros; y (sic)
 
-VIII.- Dirección de Recursos Materiales.
+VIII.- Dirección de Recursos Materiales;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+IX.- Coordinación Regional Acuña;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+X.- Coordinación Regional Norte,
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XI.- Coordinación Regional Carbonífera;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XII.- Coordinación Regional 5 Manantiales;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XIII.- Coordinación Regional Centro;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XIV.- Coordinación Regional Desierto; y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XV.- Coordinación Regional Sureste.
 
 ###### ARTÍCULO 7.
 
@@ -257,9 +311,11 @@ VI.- Asignar y coordinar al personal de la Secretaría para cubrir los eventos e
 
 VII.- Las demás que le confiera el Secretario y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2007)</small>
+
 ###### ARTÍCULO 14.
 
-Corresponde a la Dirección Técnica y de Seguimiento, previo acuerdo con el Secretario, las facultades siguientes:
+Corresponde a la Dirección Técnica de Seguimiento y Contraloría Social Interna, previo acuerdo con el Secretario, las facultades siguientes:
 
 I.- Llevar a cabo el seguimiento respecto a la elaboración, validación y aprobación de los expedientes técnicos de las obras o acciones contenidos en el programa de inversión de la Secretaría, así como los avances físicos y financieros de las mismas, integrando los informes correspondientes;
 
@@ -283,9 +339,43 @@ X.- Revisar, validar y elaborar las solicitudes de liberación de recursos para 
 
 XI.- Coordinar la revisión y seguimiento de los expedientes unitarios de obras, con las Subsecretarías y organismos sectorizados;
 
-XII.- Integrar el padrón de beneficiarios de los programas sociales a cargo de la Secretaría; y
+XII.- Integrar el padrón de beneficiarios de los programas sociales a cargo de la Secretaría; y (sic)
 
-XIII.- Las demás que le confiera el Secretario, así como las disposiciones legales aplicables.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MARZO DE 2007)</small>
+
+XIII.- Iniciar expediente de queja o denuncia a petición de parte;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XIV.- Solicitar la información a las Dependencias de la Administración Pública, Estatal y Municipal responsables del programa de desarrollo social que considere necesaria para el desempeño de sus funciones;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XV.- Atender e investigar las quejas y denuncias presentadas sobre la aplicación y ejecución de los programas sociales, y desempeño de los funcionarios en la aplicación de la Ley de Desarrollo Social del Estado de Coahuila;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XVI.- Determinar como improcedentes las quejas que no cumplan con lo dispuesto en el artículo 45 de la Ley de Desarrollo Social del Estado de Coahuila;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XVII.- Gestionar, como amigable componedor, la solución que pudiera resarcir los derechos que resultaren violentados al analizar y evaluar jurídicamente el fundamento de la queja o denuncia popular;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XVIII.- Vigilar que los responsables de la atención a la ciudadanía y el manejo de los programas de desarrollo social, se conduzcan con apego y respeto a la legalidad y dignidad de las personas conforme lo establece la Ley de Desarrollo Social del Estado de Coahuila, así como las reglas de operación de los programas y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XIX.- Emitir informes al Secretario ya la Secretaría de la Función Pública, sobre las denuncias y/o quejas populares que ante esta instancia se ventilen por parte de la sociedad;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XX.- Presentar ante la autoridad competente las quejas y denuncias que puedan dar lugar al fincamiento de responsabilidades administrativas, civiles o penales relacionados con los programas sociales, y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+XXI.- Las demás que le confiera el Secretario y que sean necesarias para el cumplimiento de sus funciones que se prevean en la presente ley.
 
 ###### ARTÍCULO 15.
 
@@ -483,65 +573,83 @@ X.- Asistir a los consejos derivados de los programas asignados a la unidad, de 
 
 XI.- Las demás funciones que le sean conferidas por el Secretario y por las disposiciones legales aplicables.
 
-### CAPÍTULO SEXTO. DE LAS COORDINACIONES REGIONALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2007)</small>
 
-###### ARTÍCULO 23.
+### CAPÍTULO SEXTO. DE LAS SUBSECRETARÍAS POR REGIÓN Y SUS COORDINACIONES REGIONALES
 
-La Secretaría contará con Coordinaciones Regionales que tendrán a su cargo las atribuciones que este reglamento les confiere, las cuales se conforman de la siguiente manera:
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
-I.- Coordinación Regional Acuña: con asiento en la cabecera municipal y jurisdicción en el municipio de Acuña.
+###### ARTICULO 23.
 
-II.- Coordinación Regional Norte: con asiento en la ciudad de Piedras Negras y jurisdicción en los municipios de Guerrero, Hidalgo, Jiménez y Piedras Negras.
+La Secretaría contará además, con la Subsecretaria Región Sureste, la Subsecretaria Región Norte, la Subsecretaría Región Carbonífera, y la Subsecretaría Región Centro-Desierto, al frente de cada una de ellas habrá un Titular que tendrá además de las facultades y atribuciones conferidas por el presente Reglamento en su artículo 7°., las específicas siguientes:
 
-III.- Coordinación Regional Carbonífera: con asiento en el poblado de Villa de Agujita municipio de Sabinas y jurisdicción en los municipios de Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas.
+I.- Promover, coordinar y organizar la participación del Estado y de los particulares, para orientar y ejecutar las acciones tendientes al desarrollo social a cargo de la Secretaría;
 
-IV.- Coordinación Regional Sureste: con asiento en la ciudad de Saltillo y jurisdicción en los municipios de Arteaga, General Cepeda, Ramos Arizpe, Parras y Saltillo.
+II.- Dirigir y supervisar a las Coordinaciones Regionales en las actividades que les competan;
 
-V.- Coordinación Regional Centro: con asiento en la ciudad de Monclova y jurisdicción en los municipios de Abasolo, Candela, Castaños, Escobedo, Frontera, Monclova y San Buenaventura.
+III.- Fortalecer la integración de los esfuerzos conjuntando los recursos financieros, materiales y humanos de los tres niveles de gobierno, en su caso, y de la comunidad;
 
-VI.- Coordinación Regional Desierto: con asiento en la ciudad de Cuatro Ciénegas y jurisdicción en los municipios de Cuatro Ciénegas, La Madrid, Nadadores, Ocampo y Sacramento.
+IV.- Promover los programas orientados a elevar y mejorar las condiciones de vida, así como fortalecer y fomentar la organización formal de grupos y sectores sociales;
 
-VII.- Coordinación Regional Laguna I: con asiento en la ciudad de Torreón y jurisdicción en los municipios de Matamoros, Sierra Mojada y Torreón.
+V.- Fomentar la acción interinstitucional, así como la organización y participación social para la realización de los programas sociales;
 
-VIII.- Coordinación Regional Laguna II: con asiento en la ciudad de San Pedro y jurisdicción en los municipios de Fco. I. Madero, San Pedro y Viesca.
+VI.- Desempeñar las funciones y comisiones oficiales que el Secretario les encomiende o que les delegue, respecto a ejecución y operación de programas específicos, cuando el desarrollo social lo haga necesario, informando sobre las actividades realizadas;
 
-IX.- Coordinación Regional 5 Manantiales: con asiento en la ciudad de Allende y jurisdicción en los municipios de Allende, Morelos, Nava, Villa Unión y Zaragoza.
+VII.- Coadyuvar para que los programas de inversión y acciones de la Secretaría se lleven a cabo con eficacia en la región que corresponda;
+
+VIII.- Ser enlace y concertar con los ayuntamientos del Estado y con grupos sociales de su región, acciones y programas de inversión de alto impacto social que beneficien a sus comunidades;
+
+IX.- Coadyuvar en la integración de los comités pro-obra autorizados en los Comités de Planeación para el Desarrollo Municipal (COPLADEM) de la región;
+
+X.- Vigilar el cumplimiento de las disposiciones, normas y reglamentos que rigen el funcionamiento de la Subsecretaría;
+
+XI.- Realizar un diagnóstico regional de la pobreza y condiciones de desarrollo social en el Estado, y
+
+XII.- Las demás que les atribuyan las disposiciones legales aplicables, así como aquellas que les confiera el Secretario.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 24.
 
-Al frente de cada Coordinación Regional habrá un Titular que podrá auxiliarse del demás personal técnico y operativo, conforme a lo previsto por el presupuesto de egresos correspondiente.
+Cada Subsecretaría Regional tendrá bajo su cargo las siguientes Coordinaciones Regionales:
+
+I.- Subsecretaria Región Sureste.- Con asiento en la ciudad de Saltillo, le corresponde: la Coordinación Regional Sureste con jurisdicción en los municipios de Arteaga, General Cepeda, Ramos Arizpe, Parras y Saltillo.
+
+II.- Subsecretaría Región Norte.- Con asiento en la ciudad de Piedras Negras, le corresponden: la Coordinación Regional Acuña con jurisdicción en el municipio de Acuña; la Coordinación Regional Norte con jurisdicción en los municipios de Guerrero, Hidalgo, Jiménez y Piedras Negras; y la Coordinación Regional 5 Manantiales con jurisdicción en los municipios de Allende, Morelos, Nava, Villa Unión y Zaragoza.
+
+III.-Subsecretaria Región Carbonífera.- Con asiento en la ciudad de Sabinas, le corresponde: la Coordinación Regional Carbonífera con jurisdicción en los municipios de Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas.
+
+IV.- Subsecretaría Región Centro-Desierto.- Con asiento en la ciudad de Monclova, le corresponden: la Coordinación Regional Centro con jurisdicción en los municipios de Abasolo, Candela, Castaños, Escobedo, Frontera, Monclova y San Buenaventura y la Coordinación Regional Desierto con jurisdicción en los municipios de Cuatrociénegas, La Madrid, Nadadores, Ocampo y Sacramento.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 25.
 
-Para el despacho de los asuntos de su competencia, los Coordinadores Regionales acordarán con el Secretario y Subsecretarios del ramo, en atención a la naturaleza del asunto que corresponda.
+En cada Coordinación Regional habrá un Titular que podrá auxiliarse del personal técnico y operativo que se les asigne, conforme lo previsto por el presupuesto de egresos correspondiente.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 26.
 
-Los Coordinadores Regionales tendrán bajo su responsabilidad además de las atribuciones que les confiere el presente Reglamento en su artículo 7°, el cumplimiento de las siguientes atribuciones:
+Corresponde a las Coordinaciones Regionales previo acuerdo con el Subsecretario de la Región al que estuviere adscrita, o en su defecto del ramo, el cumplimiento de las siguientes atribuciones:
 
-I.- Coadyuvar para que los programas de inversión y acciones de la Secretaría y de las Subsecretarías se lleven a cabo con eficacia en la región que corresponda;
+I.- Ejecutar los programas de inversión pública, de acuerdo con las especificaciones descritas en los expedientes técnicos aprobados y, con estricto apego a la normatividad vigente federal y estatal aplicable en función al tipo de programa y origen de los recursos;
 
-II.- Verificar y supervisar que los programas de inversión pública, se realicen con las especificaciones descritas en los expedientes técnicos aprobados y, con estricto apego a la normatividad vigente federal y estatal aplicable en función al tipo de programa y origen de los recursos;
+II.- Dar seguimiento a la base de datos para registrar los avances técnico-financiero de cada proyecto o programa;
 
-III.- Ser enlace, concertar y convenir con los ayuntamientos del Estado y con grupos sociales de su región, acciones y programas de inversión de alto impacto social que beneficien a sus comunidades;
+III.- Coordinar los trabajos de concertación con los grupos sociales involucrados en los diferentes programas de desarrollo social asignados a cada región, teniendo como responsabilidad, previo acuerdo con el Subsecretario de Región o del ramo, la integración y captura total de los expedientes técnicos;
 
-IV.- Establecer y dar seguimiento a la base de datos para registrar los avances técnico-financieros de cada proyecto o programa;
+IV.- Notificar al Secretario y Subsecretario de Región o en su caso del ramo, de los asuntos de su competencia que se atiendan en la Coordinación y, planear estrategias y acuerdos para su solución;
 
-V.- Coordinar los trabajos de concertación con los grupos sociales involucrados en los diferentes programas de desarrollo social asignados a cada región, teniendo como responsabilidad, previo acuerdo con los Subsecretarios del ramo, la integración y captura total de los expedientes técnicos;
+V.- Atender a los grupos sociales que lo requieran, en los municipios que atiende la Coordinación y, canalizar sus necesidades a la instancia que corresponda;
 
-VI.- Notificar al Secretario y Subsecretarios del ramo, de los asuntos de su competencia que se atiendan en la coordinación, planear estrategias y acuerdos para su solución;
+VI.- Elaborar los informes solicitados por el Secretario y Subsecretario de Región o en su caso del ramo, de los avances en los programas según corresponda;
 
-VII.- Atender a los grupos sociales que lo requieran, en los municipios que atiende la coordinación y, canalizar sus necesidades a la instancia que corresponda;
+VII.- Administrar eficientemente los recursos financieros, humanos y materiales asignados a la Coordinación, de acuerdo a los lineamientos y normatividad aplicable;
 
-VIII.- Elaborar los informes solicitados por el Secretario y Subsecretarios del ramo, de los avances de los programas de inversión;
+VIII.- Vigilar el cumplimiento de las disposiciones, normas y reglamentos que rigen el funcionamiento de las Subsecretarías Regionales y sus Coordinaciones, así como de la propia Secretaría; y
 
-IX.- Administrar eficientemente los recursos financieros, humanos y materiales asignados a la coordinación, de acuerdo a los lineamientos y normatividad aplicable;
-
-X.- Validar los comités pro-obra autorizados en los Comités de Planeación para el Desarrollo Municipal (COPLADEM) de la región;
-
-XI.- Vigilar el cumplimiento de las disposiciones, normas y reglamentos que rigen el funcionamiento de la Secretaría; y
-
-XII.- Las demás que le atribuyan las disposiciones legales aplicables, así como aquellas que le confieran el Secretario y Subsecretarios.
+IX.- Las demás que le atribuyan las disposiciones legales aplicables, así como aquellas que le confieran el Secretario y/o Subsecretario de Región.
 
 ### CAPÍTULO SÉPTIMO. DE LAS DIRECCIONES ADSCRITAS A LAS UNIDADES ADMINISTRATIVAS
 
@@ -846,3 +954,11 @@ EL SECRETARIO DE FINANZAS
 LIC. JORGE TORRES LÓPEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE MARZO DE 2007.
+
+PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones que se opongan al presente Decreto.
