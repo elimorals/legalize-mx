@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-fomento-agropecuario-325
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-02-20"
-last_updated: "1993-06-25"
+last_updated: "2007-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE FOMENTO AGROPECUARIO
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE FOMENTO AGROPECUARIO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE FOMENTO AGROPECUARIO, PUBLICADO EN EL P.O. DE 23 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1993.
+REGLAMENTO INTERNO DE LA SECRETARÍA DE FOMENTO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2007 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el jueves 20 de febrero de 1992.
 
@@ -703,4 +705,18 @@ P.O. 25 DE JUNIO DE 1993.
 
 ###### ARTICULO UNICO.
 
-EL PRESENTE DECRETO ENTRARA EN VIGOR AL DlA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 23 DE MARZO DE 2007.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO”.]
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga el Reglamento Interno de la Secretaría de Fomento Agropecuario, publicado en el Periódico Oficial del Estado el 20 de febrero de 1992.
+
+TERCERO: Las unidades administrativas con denominación nueva o distinta, que aparecen en el presente Reglamento y que tienen competencia en asuntos que anteriormente correspondían a otras áreas o unidades, se harán cargo de los mismos, terminarán su substanciación y dictarán las resoluciones que correspondan.
+
+CUARTO: Cuando la competencia de alguna de las áreas o unidades administrativas establecidas con anterioridad a la vigencia de este Reglamento, deba ser ejercida por otra u otras unidades distintas de las que el mismo establece, transferirán el personal, archivo, mobiliario y en general, el equipo que aquella haya utilizado, a la instancia o instancias competentes, distribuyéndose en su caso, de conformidad con el ámbito de atribuciones que a cada una correspondan.
+
+QUINTO: En tanto no se expidan los manuales que este Reglamento menciona, el Secretario queda facultado para resolver las cuestiones que deban regularse conforme a dichos manuales.
