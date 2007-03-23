@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-10166"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-05-04"
-last_updated: "2007-02-11"
+last_updated: "2007-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO ELECTORAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
 
 Código publicado en la Sección Quinta del Periódico Oficial del Estado de Michoacán, el jueves 4 de mayo de 1995.
 
@@ -1245,7 +1245,9 @@ II. En caso de los ayuntamientos, las candidaturas comunes deberán coincidir en
 
 III. Tratándose de candidato a diputado por el principio de mayoría relativa, el registro se hará en fórmula idéntica de propietario y suplente;
 
-IV. Las candidaturas a diputados y regidores por el principio de representación proporcional no podrán ser objeto de candidaturas comunes;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
+
+IV. Las candidaturas a diputados por el principio de representación proporcional no podrán ser objeto de candidaturas comunes;
 
 V. La aceptación o en su caso, rechazo de la solicitud de registro presentada por cada partido político no producirá ningún efecto sobre las solicitudes presentadas por otro u otros partidos políticos respecto del mismo candidato; y,
 
@@ -3711,11 +3713,11 @@ La convocatoria establecerá los mecanismos de selección y evaluación a que se
 
 En caso de falta absoluta de un Magistrado del Tribunal Electoral del Estado, el Congreso del Estado procederá en los términos del párrafo anterior.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 202.
 
-El Congreso del Estado elegirá al Magistrado que fungirá como Presidente del Tribunal Electoral del Estado, por el período para el cual fue electo.
+El Pleno del Tribunal Electoral del Estado, elegirá al Magistrado que fungirá como Presidente, por el periodo para el que fue electo y, permanecerá hasta en tanto el Congreso del Estado haga nueva designación de magistrados.
 
 ###### Artículo 203.
 
@@ -4784,3 +4786,9 @@ En su caso, el Consejo General a propuesta de la Junta Estatal Ejecutiva, aproba
 ###### ARTÍCULO DECIMO SEGUNDO.
 
 En su caso, una vez concluido el proceso electoral de dos mil siete, el Consejo General del Instituto integrará una comisión de especialistas que realice una evaluación y presente recomendaciones generales para el voto de los michoacanos en el extranjero y fuera de la entidad en territorio nacional, procediéndose a proponer, en su caso, a las instancias competentes las reformas legales correspondientes.
+
+P.O. 23 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
