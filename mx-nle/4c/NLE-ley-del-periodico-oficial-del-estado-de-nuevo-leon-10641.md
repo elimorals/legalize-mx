@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-periodico-oficial-del-estado-de-nuevo-leon-10641"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-10"
-last_updated: "2004-12-31"
+last_updated: "2007-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL PERIODICO OFICIAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de julio de 1996.
 
@@ -141,6 +141,12 @@ El Gobernador del Estado, ordenará al Responsable del Periódico Oficial, la pu
 
 El Responsable del Periódico Oficial instruirá lo necesario a fin de que se publiquen los documentos a que se refiere el artículo 10 de esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+
+###### Artículo 12 Bis.
+
+La publicación de las leyes y decretos, aprobados por el Congreso del Estado, deberá de realizarse en un plazo no mayor de 30 días naturales, a partir de su recepción.
+
 ###### Artículo 13.
 
 La publicación en el Periódico Oficial de los documentos a que se refiere el artículo 10 de esta Ley, bastará para acreditar la fidelidad de su contenido, con el del documento original que para tal efecto se remita al Responsable del Periódico Oficial.
@@ -216,3 +222,7 @@ Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al d
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 Artículo Tercero.- La Secretaría General de Gobierno, la Secretaría de Finanzas y Tesorería General del Estado, la Oficialía Mayor y la Secretaría de Seguridad Pública, se coordinarán para la realización de los trámites conducentes para el debido cumplimiento del artículo 8 reformado en virtud de este Decreto.
+
+P.O. 23 DE MARZO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
