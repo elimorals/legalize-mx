@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-de-5428
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-02-15"
-last_updated: "2007-02-15"
+last_updated: "2007-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Michoacán, el jueves 15 de febrero de 2007.
 
@@ -699,6 +699,8 @@ II. Los demás servidores públicos que determine el Consejo del Poder Judicial.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+
 ###### Artículo 62.
 
 El Consejo determinará el establecimiento de juzgados comunales, su extensión territorial y límites; en los municipios con población indígena, atendiendo a la composición pluricultural del Estado.
@@ -797,11 +799,7 @@ II. Los demás servidores públicos que determine el Consejo del Poder Judicial.
 
 ###### Artículo 71.
 
-La administración, vigilancia y disciplina del Poder Judicial, estarán a cargo del Consejo, en los términos que establece la Constitución Política del Estado y esta Ley.
-
-La disciplina del Supremo Tribunal de Justicia del Estado, estará a cargo del Congreso del Estado, con los elementos que ponga a su disposición el Consejo.
-
-El Consejo del Poder Judicial posee autonomía técnica y de gestión.
+La administración, vigilancia y disciplina del Poder Judicial, está a cargo del Consejo, en los términos que establece la Constitución y esta Ley. El Consejo del Poder Judicial posee autonomía técnica y de gestión.
 
 ###### Artículo 72.
 
@@ -1826,3 +1824,9 @@ DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de O
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 13 trece días del mes de febrero del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE MARZO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
