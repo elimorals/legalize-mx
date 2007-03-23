@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2006-09-11"
+last_updated: "2007-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -171,9 +171,17 @@ c.- El Juez de la residencia del acusado; y
 
 d.- Cualquier Juez que tenga noticia del delito.
 
-II.- Tan luego como conste el lugar de la comisión del delito, se remitirán las actuaciones al Juez respectivo, así como a los acusados y los objetos recogidos.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
 
-III.- Cuando se trate de delitos cometidos fuera del Territorio del Estado y comprendidos en los artículos 2º y 5º del Código de Defensa Social, se observarán los incisos b. c. y d. de la fracción I anterior.
+II.- Tan luego como conste el lugar de la comisión del delito, se remitirán las actuaciones al Juez respectivo, así como a los acusados y los objetos recogidos;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
+
+III.- Cuando se trate de delitos cometidos fuera del Territorio del Estado y comprendidos en los artículos 2 y 5 del Código de Defensa Social, se observarán los incisos b, c, y d de la fracción I anterior, y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
+
+IV.- No habrá necesidad de observar las reglas a que se refiere este artículo cuando se trate de razones de seguridad en las prisiones, por las circunstancias y características del hecho imputado, las circunstancias personales del inculpado o todas aquéllas que impidan o puedan impedir la correcta procuración y administración de justicia. En estos casos, el Ministerio Público podrá ejercitar la acción penal ante el Juez que estime procedente.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -279,9 +287,17 @@ X.- Las hojas del expediente deberán estar foliadas y rubricadas en el centro p
 
 Cuando en un proceso intervengan personas que no tengan el carácter de funcionarios públicos, se aplicarán las siguientes disposiciones:
 
-I.- Desde la primera diligencia en que comparezcan, manifestarán su domicilio;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
 
-II.- Deberán dar aviso al Juez o Tribunal de los cambios de domicilio y si no lo hicieren se les impondrá de plano una multa por el importe de dos días de salario mínimo;
+I.- Desde la primera diligencia en que comparezcan, manifestarán su domicilio, llevando consigo además de su identificación oficial, un comprobante domiciliario de cualquier naturaleza que acredite plenamente su lugar de residencia.
+
+Quedará a criterio del Ministerio Público o Autoridad Judicial, verificar cuando exista duda, la autenticidad del comprobante domiciliario exhibido y los datos en él contenidos;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
+
+II.- Deberán dar aviso al Juez o Tribunal de los cambios de domicilio y si no lo hicieren se les impondrá de plano una multa por el importe de hasta treinta días de salario mínimo.
+
+El Ministerio Público o la Autoridad Judicial, harán saber esta obligación en la diligencia correspondiente al agraviado, denunciante o querellante y testigos;
 
 III.- Cuando comparezcan a una diligencia, firmarán al margen y al calce del acta que se levante, y si ésta consta de varias fojas, firmarán al margen de cada una de ellas;
 
@@ -359,9 +375,21 @@ Artículo 30 ter.- En los casos en que se acuerde el archivo de la Averiguación
 
 Sólo en casos de que exista oposición a la determinación del no ejercicio de la acción penal, el Agente del Ministerio Público deberá enviar el original de la Averiguación Previa al Ciudadano Procurador, a efecto de que se realice el estudio y análisis de la misma y se determine la procedencia o improcedencia de la determinación, confirmándola o en su caso señalando las diligencias necesarias para la integración de la misma.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+
 ###### Artículo 31.
 
 El Juez o la Sala podrán dictar en los procesos sujetos a su conocimiento, los trámites y providencias que estimen convenientes para la pronta y eficaz administración de justicia.
+
+###### Artículo 31 Bis.
+
+El Ministerio Público en la averiguación previa, los Jueces y Magistrados, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
+
+I.- Multa por el equivalente de uno a treinta días de salario mínimo, vigente en el momento y lugar en que se realizó la conducta que motivó el medio de apremio, y
+
+II.- Auxilio de la fuerza pública.
+
+Si a pesar de haberse aplicado los medios de apremio antes indicados, no se obtiene el cumplimiento de la determinación judicial de que se trate, se procederá en contra del rebelde por desobediencia al mandato de autoridad.
 
 ###### Artículo 32.
 
@@ -767,9 +795,9 @@ La violación de esta disposición hará penalmente responsable al Agente del Mi
 
 Se califican como delitos graves, para todos los efectos legales por afectar valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código de Defensa Social para el Estado:
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
-A.- Homicidio por culpa previsto en los artículos 85 y 86;
+A.- Homicidio por culpa previsto en los artículos 85 Bis y 86;
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -787,13 +815,13 @@ D.- evasión de presos, previsto en el artículo 173;
 
 E.- Ataque a los medios de transporte, previsto en los artículos 191 y 192;
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
-F.- Corrupción de menores o incapaces, previsto en los artículos 218, 219, 224 Bis, 224 Ter y 224 Quáter;
+F.- Corrupción y pornografía de menores e incapaces o personas que no pudieren resistir, cuando se encuentren en los supuestos previstos por los artículos 217, 219, 229 Ter y 229 Quinquies;
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
-G.- Lenocinio, previsto en el artículo 226;
+G.- Lenocinio y Trata de Personas previstos en los artículos 226, 227 y 227 Bis;
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -1481,6 +1509,12 @@ En materia de Defensa Social, no puede oponerse tacha a los testigos; pero de of
 
 Antes de que los testigos declaren, se les instruirá acerca de las sanciones que el Código de Defensa Social establece para los que se producen con falsedad o se niegan a declarar; pero a los menores de dieciocho años, en vez de hacerles esta advertencia y de que otorguen la protesta de producirse con verdad, se les exhortará para que lo hagan.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+
+###### Artículo 154 Bis.
+
+Cuando el testigo o testigos que presentó el denunciante y este mismo, no puedan ser localizados para comparecer a alguna diligencia, se hará constar esta circunstancia en autos; requiriéndose al Ministerio Público la presencia del testigo, testigos o denunciante, independientemente de hacerlo a través de los medios de apremio establecidos en el artículo 31 Bis del presente ordenamiento.
+
 ###### Artículo 155.
 
 Son aplicables a la diligencia de examen de los testigos, las siguientes disposiciones:
@@ -1641,9 +1675,17 @@ Producen solamente presunción:
 
 I.- Los testigos que no convengan en lo esencial; los de oídas, y la declaración de un solo testigo;
 
-II.- Las declaraciones de testigos singulares que versen sobre actos sucesivos referentes a un mismo hecho, y
+> <small>(REFORMADA, P.O. 23 DE MARZO 2007)</small>
 
-III.- La fama pública.
+II.- Las declaraciones de testigos singulares que versen sobre actos sucesivos referentes a un mismo hecho;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO 2007)</small>
+
+III.- Las declaraciones testimoniales de las personas que intervengan como testigos y que no comparezcan a las audiencias señaladas por el Ministerio Público o la Autoridad Judicial, a pesar de ya haberse recurrido a los medios de apremio que este Código previene para hacerlos comparecer, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2007)</small>
+
+IV.- La fama pública.
 
 #### SECCION OCTAVA.- CAREOS
 
@@ -3281,9 +3323,11 @@ VI.- Que el reo haya sido juzgado por el mismo hecho a que la sentencia impugnad
 
 ### CAPITULO SEXTO.- RESPONSABILIDAD CIVIL PROVENIENTE DE DELITO
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+
 ###### Artículo 393.
 
-El aseguramiento de bienes para garantizar el pago de la responsabilidad civil proveniente de delito y el procedimiento del juicio sobre esta responsabilidad, ante el Juez de Defensa Social, se rigen por lo dispuesto en los artículos 853 a 872 del Código de Procedimientos Civiles del Estado.
+El aseguramiento de bienes para garantizar el pago de la responsabilidad civil proveniente de delito y el procedimiento del juicio sobre esta responsabilidad, ante el Juez de lo Penal, se rigen por lo dispuesto en los artículos 625 a 633 del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
 
 ###### Artículo 394.
 
@@ -3375,7 +3419,7 @@ La autoridad que conozca de la averiguación o del proceso, así como el mediado
 
 La invitación deberá indicar el día, hora y lugar determinado para la sesión, nombre y cargo de quien practique la mediación, con el deber de hacer entrega de la invitación, con por lo menos cinco días hábiles de anticipación a la fecha programada para la sesión.
 
-> <small>(ADICIONADO, P.O, 18 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 400.
 
@@ -3606,3 +3650,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 23 DE MARZO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
