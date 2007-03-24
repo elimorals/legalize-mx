@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2007-02-03"
+last_updated: "2007-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -639,7 +639,9 @@ II. Proponer a la Asamblea, la integración de comisiones y comités, con el se�
 
 III. Proponer a la Asamblea el nombramiento para su designación de los servidores públicos del Congreso del Estado;
 
-IV. Proponer a la Asamblea, en los términos de esta ley, el nombramiento para su designación, del Secretario General; del titular del Instituto de Investigación y Estudios Legislativos; y de los titulares del Órgano Técnico de Hacienda Pública y del Órgano Técnico de Responsabilidades;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2007)</small>
+
+IV. Proponer a la Asamblea, en los términos de esta ley, el nombramiento para su designación, del Secretario General; del titular del Instituto de Investigación y Estudios Legislativos; y de los titulares de los Órganos Técnicos de: Hacienda Pública, de Responsabilidades, de Educación, de Desarrollo Humano, de Asuntos Metropolitanos y de Puntos Constitucionales y Técnica Legislativa;
 
 V. Proponer a la Asamblea, en los términos de la presente ley, el nombramiento de los servidores públicos del Instituto de Investigación y Estudios Legislativos, en su caso;
 
@@ -967,7 +969,171 @@ VI. Rendir un informe mensual al Comité de Proceso Legislativo para los efectos
 
 VII. Las demás que señale esta Ley y las disposiciones reglamentarias.
 
-### CAPÍTULO VI. De las Propuestas de los Órganos Auxiliares
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2007)</small>
+
+### CAPÍTULO VI. Órgano Técnico de Puntos Constitucionales y Técnica Legislativa
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2007)</small>
+
+Artículo 62 A.
+
+1. El Órgano Técnico de Puntos Constitucionales y Técnica Legislativa del Congreso del Estado es el auxiliar de la Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos que, bajo los principios de especialidad e imparcialidad, asesora y colabora en el estudio y análisis necesarios para la toma de decisiones de carácter constitucional y legislativo.
+
+2. El titular deberá ser designado por la Asamblea con mayoría absoluta de votos a propuesta que haga la Junta de Coordinación Política, de uno de la terna remitida por la Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos. Durará en su encargo el término de cada legislatura, pudiendo ser reelecto; continúa en sus funciones hasta la realización de la elección correspondiente y sólo puede ser removido por causa justificada por mayoría absoluta de votos.
+
+3. Para ser designado titular del Órgano Técnico de Puntos Constitucionales y Técnica Legislativa se requiere:
+
+I. Ser mexicano mayor de edad y estar en pleno goce de sus derechos;
+
+II. Presentar título profesional de Abogado o Licenciado en Derecho legalmente expedido;
+
+III. Acreditar conocimientos y experiencia profesional en derecho, en técnica legislativa y materias afines de por lo menos 3 años, pudiendo contar preferentemente, con algún postgrado en dicha materia;
+
+IV. No haber sido condenado por delito intencional que amerite pena de privación de la libertad.
+
+4. El órgano técnico de Puntos Constitucionales y Técnica Legislativa contará para su desempeño hasta con doce dictaminadores y/o especialistas en materias propias de la comisión.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2007)</small>
+
+Artículo 62 B.
+
+1. El órgano Técnico de Puntos Constitucionales y Técnica Legislativa tiene las siguientes atribuciones:
+
+I. Colaborar con todas las tareas que le solicite la Comisión Legislativa de Puntos Constitucionales, Estudios Legislativos y Reglamentos y del resto de las comisiones legislativas que así lo requieran;
+
+II. Colaborar con la Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos en el estudio, análisis y realización de dictámenes relativos a las iniciativas de reforma constitucionales y legales propuestas ante la Asamblea;
+
+III. Auxiliar a la Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos en el seguimiento de las reformas a la Constitución Estatal y a las diversas leyes estatales buscando su armonía y detectando posibles contradicciones legales;
+
+IV. Apoyar y asesorar al Congreso del Estado y a la Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos en el proceso de análisis y aprobación de leyes estatales;
+
+V. Auxiliar a la Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos en la revisión de los dictámenes de las comisiones legislativas, relativos a leyes del Estado en cuanto a la Constitucionalidad, contravención a otras normas legales, técnica legislativa, congruencia interna y la corrección de estilo; y
+
+VI. Las demás que le correspondan de conformidad a las leyes y reglamentos vigentes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2007)</small>
+
+### CAPÍTULO VII. Órgano Técnico de Asuntos Metropolitanos
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2007)</small>
+
+Artículo 62 C.
+
+1. El Órgano Técnico de Asuntos Metropolitanos del Congreso del Estado es el auxiliar de la Comisión de Asuntos Metropolitanos, que bajo los principios de especialidad e imparcialidad asesora y colabora en los estudios y análisis necesarios para la toma de decisiones de carácter metropolitano que deba conocer dicha Comisión.
+
+2. El titular deberá ser designado por la Asamblea con mayoría absoluta de votos a propuesta que haga la junta de coordinación política, de uno de la terna remitida por el Presidente de la Comisión de Asuntos Metropolitanos. Durará en su encargo el término de cada legislatura, pudiendo ser reelecto; continúa en sus funciones hasta la realización de la elección correspondiente y sólo puede ser removido por causa justificada por mayoría absoluta de votos.
+
+3. Para ser designado titular del Órgano Técnico de Asuntos Metropolitanos se requiere:
+
+I. Ser mexicano mayor de edad y estar en pleno goce de sus derechos;
+
+II. Presentar título profesional legalmente expedido en alguna materia directamente relacionada con los asuntos metropolitanos;
+
+III. Acreditar conocimientos y experiencia en asuntos metropolitanos y materias afines de por lo menos 3 años, pudiendo contar, preferentemente con algún postgrado en dicha materia; y
+
+IV. No haber sido condenado por delito intencional que amerite pena de privación de la libertad.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2007)</small>
+
+Artículo 62 D.
+
+1. El órgano Técnico de Asuntos Metropolitanos tiene las siguientes atribuciones:
+
+I. Colaborar con las tareas de la Comisión Legislativa de Asuntos Metropolitanos y del resto de las comisiones legislativas del Congreso del Estado que así lo requieran;
+
+II. Colaborar en el estudio, análisis y dictaminación de las reformas constitucionales y legales propuestas ante la Asamblea que impliquen cuestiones metropolitanas;
+
+III. Coadyuvar con los diputados que deseen presentar iniciativas en materia de metropolización;
+
+IV. Realizar estudios permanentes en materia de asuntos metropolitanos, y estar en contacto permanente con los municipios que formen parte de zonas metropolitanas, para conocer sus necesidades en materia de asuntos metropolitanos;
+
+V. Apoyar en la revisión de los dictámenes de las comisiones legislativas, relativos a los diversos asuntos metropolitanos; y
+
+VI. Las demás que le correspondan de conformidad a las leyes y reglamentos vigentes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2007)</small>
+
+### CAPÍTULO VIII. Órgano Técnico de Educación
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2007)</small>
+
+Artículo 62 E.
+
+1. El órgano técnico de Educación del Congreso del Estado es el auxiliar de la Comisión de Educación, que bajo los principios de especialidad e imparcialidad, asesora y colabora en los estudios y análisis necesarios para la toma de decisiones de carácter educativo que deba conocer dicha comisión legislativa.
+
+2. El titular deberá ser designando por la Asamblea con mayoría absoluta de votos, a propuesta que haga la Comisión de Educación de la terna remitida por la Comisión. Durará en su encargo el término de cada legislatura, pudiendo ser reelecto; continúa en sus funciones hasta la realización de la elección correspondiente y sólo puede ser removido por causa justificada por mayoría absoluta de votos.
+
+3. Para ser designado titular del Órgano Técnico de Educación se requiere:
+
+I. Ser mexicano mayor de edad y estar en pleno goce de sus derechos;
+
+II. Presentar título profesional de Licenciado en Educación o en Derecho legalmente expedido;
+
+III. Acreditar conocimientos y experiencia profesional en materia de docencia e investigación educativa de por lo menos 3 años, pudiendo contar preferentemente, con algún postgrado en dicha materia;
+
+IV. No haber sido condenado por delito intencional que amerite pena de privación de la libertad.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2007)</small>
+
+Artículo 62 F.
+
+1. El Órgano Técnico de Educación tiene las siguientes atribuciones:
+
+I. Colaborar con las tareas de la Comisión de Educación y de las comisiones del Congreso del Estado que así lo requieran;
+
+II. Colaborar en el estudio, análisis y dictaminación de las reformas constitucionales y legales propuestas ante la Asamblea que impliquen temas educativos;
+
+III. Coadyuvar con los diputados que deseen presentar iniciativas en materia de Educación;
+
+IV. Realizar estudios permanentes de las políticas educativas implementadas en el país, y particularmente en el Estado de Jalisco;
+
+V. Analizar el efecto social de la legislación federal y estatal relacionados con la educación; y
+
+VI. Las demás que señalen las leyes y reglamentos de la materia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2007)</small>
+
+### CAPÍTULO IX. Órgano Técnico de Desarrollo Humano
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2007)</small>
+
+Artículo 62 G.
+
+1. El Órgano Técnico de Desarrollo Humano del Congreso del Estado es el auxiliar de la Comisión de Desarrollo Humano, que bajo los principios de especialidad e imparcialidad asesora y colabora en los estudios y análisis necesarios para la toma de decisiones de carácter técnico o legislativo en materia de desarrollo humano que deba conocer dicha Comisión.
+
+2. El titular deberá ser designado por la Asamblea con mayoría absoluta de votos a propuesta que haga la Junta de Coordinación Política, de uno de la terna remitida por la Comisión de Desarrollo Humano. Durará en su encargo el término de cada legislatura, pudiendo ser reelecto; continúa en sus funciones hasta la realización de la elección correspondiente y sólo puede ser removido por causa justificada por mayoría absoluta de votos.
+
+3. Para ser designado titular del Órgano Técnico de Desarrollo Humano se requiere:
+
+I. Ser mexicano mayor de edad y estar en pleno goce de sus derechos;
+
+II. Presentar título profesional legalmente expedido en alguna materia directamente relacionada con el desarrollo humano o las ciencias sociales;
+
+III. Acreditar conocimientos y experiencia en desarrollo humano y materias afines de por lo menos 3 años, pudiendo contar, preferentemente con algún postgrado en dicha materia; y
+
+IV. No haber sido condenado por delito intencional que amerite pena de privación de la libertad.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2007)</small>
+
+Artículo 62 H.
+
+1. El órgano Técnico de Desarrollo Humano tiene las siguientes atribuciones:
+
+I. Colaborar con las tareas de la Comisión Legislativa de Desarrollo Humano y del resto de las comisiones legislativas del Congreso del Estado que así lo requieran;
+
+II. Colaborar en el estudio, análisis y dictaminación de las reformas constitucionales y legales propuestas ante la Asamblea que impliquen cuestiones asistenciales o relativas al desarrollo humano;
+
+III. Coadyuvar con los diputados que deseen presentar iniciativas en materia de asistencia social;
+
+IV. Realizar estudios permanentes en materia de desarrollo humano y asistencia social, y estar en contacto permanente con las instituciones públicas y privadas, dedicadas a la asistencia de grupos vulnerables, para conocer sus necesidades y así poder presentar proyectos que tiendan a satisfacerlas;
+
+V. Apoyar en la revisión de los dictámenes de las comisiones legislativas, relativos a los asuntos de desarrollo humano; y
+
+VI. Las demás que le correspondan de conformidad a las leyes y reglamentos vigentes.
+
+(REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 24 DE MARZO DE 2007)
+
+### CAPÍTULO X. De las Propuestas de los Órganos Auxiliares
 
 ### CAPÍTULO I. Comisiones Legislativas
 
@@ -975,21 +1141,13 @@ VII. Las demás que señale esta Ley y las disposiciones reglamentarias.
 
 ### CAPÍTULO III. Comités
 
-### CAPÍTULO I. Forma y Periodicidad de las Sesiones
-
-### CAPÍTULO II. Ceremonial
-
-### CAPÍTULO III. Salón de Sesiones
-
-### CAPÍTULO I. Disposiciones Preliminares
-
 ###### Artículo 63.
 
 1. Las propuestas que emitan los órganos técnicos auxiliares del Congreso del Estado deberán ser remitidas a la Comisión Legislativa o Comité correspondiente para que esta a su vez los examine y acuerde la presentación del dictamen correspondiente, ante la Asamblea.
 
 ## TÍTULO SEXTO. COMISIONES LEGISLATIVAS Y COMITÉS
 
-### CAPÍTULO II. Iniciativas
+### CAPÍTULO I. Forma y Periodicidad de las Sesiones
 
 ###### Artículo 64.
 
@@ -1291,9 +1449,23 @@ Artículo 77 A.
 
 l. La legislación en materia de servicios para el área conurbada de Guadalajara y asuntos Metropolitanos;
 
-II. La declaración de Municipios que pertenezcan a zonas conurbadas para su mejor ubicación y atención de asuntos que interesen a los Ayuntamientos integrantes; y
+II. La declaración de Municipios que pertenezcan a zonas conurbadas para su mejor ubicación y atención de asuntos que interesen a los Ayuntamientos integrantes; y (sic)
 
-III. Las políticas, programas y proyectos sobres asuntos Metropolitanos.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2007)</small>
+
+lII. Las políticas, programas y proyectos sobre asuntos Metropolitanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
+
+IV. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del órgano técnico de Asuntos Metropolitanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
+
+V. La supervisión y coordinación del órgano técnico de Asuntos Metropolitanos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
+
+VI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del órgano técnico de Asuntos Metropolitanos.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -1383,9 +1555,21 @@ III. Las políticas, programas y proyectos de apoyo financiero a las actividades
 
 1. Corresponde a la Comisión de Desarrollo Humano el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-I. La legislación en materia de asistencia social y desarrollo humano; y
+I. La legislación en materia de asistencia social y desarrollo humano; y (sic)
 
-II. La normatividad, las políticas, planes y programas de desarrollo humano y asistencial para la familia y grupos vulnerables en el ámbito estatal.
+II. La normatividad, las políticas, planes y programas de desarrollo humano y asistencial para la familia y grupos vulnerables en el ámbito estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
+
+III. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del órgano técnico de Desarrollo Humano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
+
+V. (sic) La supervisión y coordinación del órgano técnico de Desarrollo Humano; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
+
+VI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del órgano técnico de Desarrollo Humano.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -1438,6 +1622,18 @@ I. La legislación en materia de educación, así como de los asuntos relacionad
 II. La normatividad relacionada con medios de comunicación en el ámbito educativo estatal, en los términos de la Ley de Educación para el Estado de Jalisco; y
 
 III. Las políticas, planes y programas para el fortalecimiento de la Educación, incluyendo la infraestructura, en todos sus niveles.
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2007)</small>
+
+IV. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del órgano técnico de Educación;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2007)</small>
+
+V. La supervisión y coordinación del órgano técnico de Educación; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2007)</small>
+
+VI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del órgano técnico de Educación.
 
 ###### Artículo 85.
 
@@ -1631,9 +1827,21 @@ IV. La legislación civil, penal o administrativa, en su aspecto sustantivo;
 
 V. El reglamento de esta ley y demás disposiciones reglamentarias;
 
-VI. La revisión de los dictámenes de las demás comisiones, relativos a leyes del Estado en cuanto a la Constitucionalidad, contravención a otras normas legales, técnica legislativa, congruencia interna y la corrección de estilo; y
+VI. La revisión de los dictámenes de las demás comisiones, relativos a leyes del Estado en cuanto a la Constitucionalidad, contravención a otras normas legales, técnica legislativa, congruencia interna y la corrección de estilo; y (sic)
 
-VII. El análisis y la revisión permanente de la legislación sustantiva jalisciense buscando su codificación y armonía.
+VII. El análisis y la revisión permanente de la legislación sustantiva jalisciense buscando su codificación y armonía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
+
+XI. (sic) La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del órgano técnico de Puntos Constitucionales y Técnica Legislativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
+
+XII. La supervisión y coordinación del órgano técnico de Técnica Legislativa; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
+
+XIII. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del órgano técnico de Técnica Legislativa.
 
 ###### Artículo 98.
 
@@ -1731,7 +1939,7 @@ V. La construcción y funcionamiento de las vías de comunicación estatales; y
 
 VI. Las políticas, planes y programas para la difusión y fortalecimiento de la cultura y educación vial.
 
-### CAPÍTULO III. Dictámenes
+### CAPÍTULO II. Ceremonial
 
 ###### Artículo 104.
 
@@ -1843,7 +2051,7 @@ La mayoría de los vocales de una comisión pueden convocar a sesión con las fo
 
 1. Los presidentes de las comisiones deben informar al Comité de Proceso Legislativo, de las ausencias de los diputados a las reuniones de trabajo, siempre que las faltas sean injustificadas.
 
-### CAPÍTULO IV. Lecturas de dictámenes
+### CAPÍTULO III. Salón de Sesiones
 
 ###### Artículo 117.
 
@@ -1933,7 +2141,7 @@ IV. Los planes, programas y convenios con otros Congresos y cuerpos parlamentari
 
 ## TÍTULO SÉPTIMO. SESIONES
 
-### CAPÍTULO V. Discusiones
+### CAPÍTULO I. Disposiciones Preliminares
 
 ###### Artículo 125.
 
@@ -2023,7 +2231,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 1. Las sesiones del Congreso del Estado son públicas, por regla general, salvo aquellas que por causas justificadas y previo acuerdo de la Asamblea, se celebren de forma reservada, es decir, sin permitir el acceso al público, ni a los servidores públicos del Congreso del Estado, a excepción del Secretario General y del personal administrativo que éste último autorice.
 
-### CAPÍTULO VI. Mociones
+### CAPÍTULO II. Iniciativas
 
 ###### Artículo 134.
 
@@ -2055,7 +2263,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 2. De igual forma, siempre se destina un lugar especial en el Recinto, a los magistrados del Poder Judicial, a los consejeros de la Comisión Estatal de Derechos Humanos y del Consejo Electoral del Estado, a los secretarios de despacho, a los titulares de los organismos públicos descentralizados, a los representantes de los ayuntamientos de la entidad, los representantes militares y a los integrantes de los cuerpos diplomático y consular.
 
-### CAPÍTULO VII. Votaciones
+### CAPÍTULO III. Dictámenes
 
 ###### Artículo 140.
 
@@ -2081,7 +2289,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 ## TÍTULO OCTAVO. PROCEDIMIENTO LEGISLATIVO ORDINARIO
 
-### CAPÍTULO VIII. Minutas
+### CAPÍTULO IV. Lecturas de dictámenes
 
 ###### Artículo 145.
 
@@ -2093,7 +2301,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 1. Las decisiones del Congreso del Estado que, para su validez y eficacia plenas requieren ser sancionadas, promulgadas y publicadas por el Ejecutivo, no generan obligación o derecho alguno en tanto no se efectúen tales condiciones, salvo lo establecido por el último párrafo del artículo 33 de la Constitución Política del Estado.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO V. Discusiones
 
 ###### Artículo 147.
 
@@ -2189,7 +2397,7 @@ III. Disposiciones transitorias.
 
 2. Las leyes y decretos deben ser publicados por el Gobernador del Estado en el Periódico Oficial "El Estado de Jalisco", en los plazos que señala la ley.
 
-### CAPÍTULO II. Procedimiento en Caso de Observaciones Formuladas por el Gobernador del Estado
+### CAPÍTULO VI. Mociones
 
 ###### Artículo 157.
 
@@ -2229,7 +2437,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 3. En el caso de que se rechace un dictamen y no se solicite que regrese a comisión o que siendo solicitado no sea aprobado por la Asamblea, se tiene por desechada la iniciativa.
 
-### CAPÍTULO III. Expedición del Bando Solemne que declara Gobernador Electo
+### CAPÍTULO VII. Votaciones
 
 ###### Artículo 161.
 
@@ -2265,7 +2473,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 4. Aprobada la moción, el dictamen se presenta a la Asamblea y se procede a su discusión y a su votación.
 
-### CAPÍTULO IV. Designación de Gobernador Interino o Sustituto
+### CAPÍTULO VIII. Minutas
 
 ###### Artículo 166.
 
@@ -2401,7 +2609,7 @@ III. Por desórdenes en el Recinto Oficial.
 
 1. Lo preceptuado por este capítulo, se aplica en lo conducente a las demás discusiones que se presenten durante el desarrollo de las sesiones.
 
-### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 187.
 
@@ -2445,7 +2653,7 @@ XI. Las demás que se señalen en esta ley y su reglamento.
 
 1. La moción de orden, en el supuesto de que algún diputado esté en el uso de la voz, se regula de conformidad con lo establecido en la presente ley.
 
-### CAPÍTULO VI. Glosa del Informe
+### CAPÍTULO II. Procedimiento en Caso de Observaciones Formuladas por el Gobernador del Estado
 
 ###### Artículo 191.
 
@@ -2529,7 +2737,7 @@ I. Empieza por el Secretario situado a la derecha del Presidente y sigue en el s
 
 6. Para los casos de los párrafos 2, 3 y 4 del presente artículo, se entiende que es cuando menos la cantidad señalada.
 
-### CAPÍTULO VII. Substanciación Del Trámite Para La Desintegración De Ayuntamientos Y Suspensión O Revocación Del Mandato A Alguno De Sus Miembros
+### CAPÍTULO III. Expedición del Bando Solemne que declara Gobernador Electo
 
 ###### Artículo 204.
 
@@ -2593,7 +2801,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 ## TÍTULO NOVENO. PROCEDIMIENTOS ESPECIALES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. Designación de Gobernador Interino o Sustituto
 
 ###### Artículo 210.
 
@@ -2608,6 +2816,8 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 ###### Artículo 212.
 
 1. Cualquier procedimiento relativo al Congreso del Estado establecido en otro ordenamiento legal se regula conforme a esa ley, y en todo lo no previsto, por este título y por el procedimiento legislativo ordinario.
+
+### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
 
 ###### Artículo 213.
 
@@ -2625,6 +2835,8 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 2. Cuando el Congreso del Estado acepte en su totalidad las observaciones realizadas por el Ejecutivo, la aprobación debe realizarse por mayoría simple.
 
+### CAPÍTULO VI. Glosa del Informe
+
 ###### Artículo 216.
 
 1. De conformidad con la Constitución Política del Estado de Jalisco, una vez recibida la declaratoria de Gobernador Electo que envía el Consejo Electoral, en los términos de la ley estatal en materia, el Congreso del Estado expide el Bando solemne para darla a conocer y se le da lectura en la sesión previa a aquella en que el Gobernador del Estado deba rendir la protesta constitucional para asumir su cargo.
@@ -2633,6 +2845,8 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 3. La declaratoria a que se refiere el presente artículo debe publicarse en el Periódico Oficial "El Estado de Jalisco".
 
+### CAPÍTULO VII. Substanciación Del Trámite Para La Desintegración De Ayuntamientos Y Suspensión O Revocación Del Mandato A Alguno De Sus Miembros
+
 ###### Artículo 217.
 
 1. Para la designación de Gobernador Interino o Sustituto el Congreso del Estado debe previamente erigirse en Colegio Electoral, de conformidad con la Constitución Política del Estado y las leyes aplicables.
@@ -2640,6 +2854,8 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 ###### Artículo 218.
 
 1. En el caso de dictámenes relativos a proyectos de decreto sobre la designación de Gobernador Interino o Sustituto, la Mesa Directiva, en atención a la urgencia, puede establecer la agenda para su aprobación, mediante la dispensa de trámites y el estrechamiento de términos.
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 219.
 
@@ -2966,3 +3182,35 @@ P.O. 13 DE ENERO DE 2007.
 P.O. 3 DE FEBRERO DE 2007.
 
 ÚNICO. EI presente decreto entrará en vigor el mismo día de su publicación en el periódico oficial "El Estado de Jalisco."
+
+P.O. 24 DE MARZO DE 2007.
+
+DECRETO No. 21839/LVIII/07
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos deberá enviar a la Junta de Coordinación Política la terna de candidatos a ocupar la titularidad del Órgano Técnico de Puntos Constitucionales y Técnica Legislativa dentro de los 5 días naturales siguientes a la entrada en vigor de la presente reforma. La Junta de Coordinación Política deberá poner a consideración de la Asamblea su propuesta dentro de los 10 días siguientes.
+
+P.O. 24 DE MARZO DE 2007.
+
+DECRETO No. 21840/LVIII/07
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Comisión de Asuntos Metropolitanos deberá enviar a la Junta de Coordinación Política la terna de candidatos a ocupar la titularidad del Órgano Técnico de Asuntos Metropolitanos dentro de los 5 días naturales siguientes a la entrada en vigor de la presente reforma. La Junta de Coordinación Política deberá poner a consideración de la Asamblea su propuesta dentro de los 10 días siguientes.
+
+P.O. 24 DE MARZO DE 2007.
+
+DECRETO No. 21841/LVIII/07
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Comisión de Educación deberá enviar a la Junta de Coordinación Política la terna de candidatos a ocupar la titularidad del Órgano Técnico de Educación dentro de los 5 días naturales siguientes a la entrada en vigor de la presente reforma. La Junta de Coordinación Política deberá poner a consideración de la Asamblea su propuesta dentro de los 10 días siguientes.
+
+P.O. 24 DE MARZO DE 2007.
+
+DECRETO No. 21842/LVIII/07
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Comisión de Desarrollo Humano deberá enviar a la Junta de Coordinación Política la terna de candidatos a ocupar la titularidad del Órgano Técnico de Desarrollo Humano dentro de los 5 días naturales siguientes a la entrada en vigor de la presente reforma. La Junta de Coordinación Política deberá poner a consideración de la Asamblea su propuesta dentro de los 10 días siguientes.
