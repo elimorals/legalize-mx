@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-11598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-25"
-last_updated: "2006-12-24"
+last_updated: "2007-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2007.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 25 de noviembre de 1995.
 
@@ -397,33 +397,33 @@ IX. Las sanciones aplicables a los miembros y dirigentes que infrinjan las dispo
 
 X. Los procedimientos específicos que prevean la liquidación del partido en caso de disolución.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2007)</small>
 
 ###### Artículo 31.
 
 Los ciudadanos o asociaciones políticas que pretendan constituirse como partido político estatal, deberán acreditar los siguientes requisitos:
 
-I. Contar con un mínimo de afiliados del diez por ciento del padrón electoral, que corresponda a cada municipio en cuando menos la mitad de éstos en del Estado;
+I. Contar con un mínimo de afiliados del dos por ciento de la lista nominal utilizada en la elección inmediata anterior, que corresponda a cada distrito en cuando menos la mitad mas uno de estos, en el Estado.
 
-II. Haber celebrado en cada uno de los Municipios referidos, una asamblea constitutiva del partido político, sancionada por un juez, notario público o funcionario y/o trabajador designado para tal efecto por el Presidente del Consejo Estatal Electoral; quien certificará que en el evento:
+II. Haber celebrado en cada uno de los Distritos referidos, una asamblea constitutiva sancionada por un juez, notario o funcionario designado para tal efecto por el Presidente del Consejo Estatal Electoral; quien certificará que en el evento:
 
-a) Se formularon las listas de afiliados del Municipio respectivo, con base en la cédula individual de afiliación que deberá contener, el nombre, apellidos, clave de la credencial para votar, expedida por el Instituto Federal Electoral, localidad, firma autógrafa y fotografía de los mismos;
+a) Se formularon las listas de afiliación del Distrito respectivo, con base en la solicitud individual original de los ciudadanos residentes del Distrito, en la que conste el nombre completo, apellidos, domicilio, clave y número de folio de la credencial de elector, la firma autógrafa de cada afiliado o en su caso la huella digital;
 
-b) Que concurrieron cuando menos el número de afiliados a que se refiere la fracción I de éste artículo y que se comprobó, con base en las listas de afiliados, su identidad, residencia y ocupación, dejando copia de la credencial para votar;
+b) Que concurrieron cuando menos el número de afiliados a que se refiere la fracción I del artículo y que se comprobó, con base en las listas de afiliados, su identidad y residencia, exhibiendo la credencial de elector y dejando copia de la misma;
 
 c) Que fueron aprobados la declaración de principios, programa de acción y estatutos; y
 
-d) Designar delegados asistentes a la Asamblea estatal constitutiva del partido político.
+d) Se eligieron delegados propietarios y suplentes, para asistir en representación de la asamblea distrital a la Asamblea estatal constitutiva del partido político.
 
 III. La Asamblea Estatal Constitutiva, deberá ser sancionada por cualquiera de los funcionarios a que se refiere la fracción II de este artículo, quien certificará:
 
-a) Que asistieron por lo menos las dos terceras partes de los delegados propietarios o suplentes, elegidos en las asambleas municipales;
+a) Que hubo quórum legal, el cual se compondrá con la asistencia de las dos terceras partes de los delegados propietarios o suplentes, elegidos en las asambleas distritales;
 
-b) Que acreditaron, por medio de las actas correspondientes, que las asambleas municipales se celebraron de conformidad con lo previsto en el presente artículo;
+b) Que acreditaron, por medio de las actas correspondientes, que las asambleas distritales se celebraron de conformidad con lo previsto en el presente artículo;
 
-c) Que se acreditó la identidad y residencia de los delegados a la asamblea estatal, por medio de su credencial para votar;
+c) Que se acreditó la identidad y residencia de los delegados a la asamblea estatal, por medio de su credencial de elector;
 
-d) Que fueron aprobados la declaración de principios, programas de acción y estatutos; y
+d) Que fueron aprobados la declaración de principios, programa de acción y estatutos; y
 
 e) Que fue electo el comité directivo estatal o su equivalente.
 
@@ -3364,3 +3364,7 @@ P.O. 24 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 24 DE MARZO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de (sic) Gobierno del Estado.
