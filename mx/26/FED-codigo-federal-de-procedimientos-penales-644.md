@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2006-06-22"
+last_updated: "2007-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MARZO DE 2007.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2009,9 +2009,9 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 12) Contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 Bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 2007)</small>
 
-13) Corrupción de menores o incapaces, previsto en el artículo 201; y pornografía infantil, previsto en el artículo 201 bis;
+13) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 BIS; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; Trata de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 205; Trata de personas, previsto en el artículo 207;
 
 14) Los previstos en el artículo 205, segundo párrafo;
 
@@ -5016,5 +5016,9 @@ D.O.F. 6 DE JUNIO DE 2006.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 22 DE JUNIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE MARZO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
