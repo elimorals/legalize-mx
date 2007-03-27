@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-superior-del-estado-de-tamaulipas-23210"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2004-04-22"
+last_updated: "2007-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre del 2001.
 
@@ -179,11 +179,13 @@ II.- Dos Auditores especiales;
 
 III. El personal técnico y de apoyo administrativo necesario para el cumplimiento de las funciones encomendadas, conforme al presupuesto aprobado.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 10.
 
-El Auditor Superior del Estado será inamovible durante el término de cuatro años, pudiendo el Congreso del Estado a propuesta motivada por la Gran Comisión, prorrogar su nombramiento por otro período igual. El titular de la Auditoría Superior del Estado, deberá permanecer en su cargo al término de su período, hasta que el Pleno del Congreso designe al nuevo titular.
+El Auditor Superior del Estado será designado por el Congreso del Estado a propuesta de la Junta de Coordinación Política, en los términos establecidos por la Constitución y la ley, para fungir por un solo período y durará en su encargo seis años. El titular de la Auditaría Superior del Estado, deberá permanecer en su cargo al término de su período, hasta que el Pleno del Congreso designe al nuevo titular.
 
-El Auditor Superior del Estado podrá ser removido sólo por causa grave que juzgará el Pleno del Congreso. Podrá separarse del cargo por conclusión del período para el que fue designado, incapacidad legal para ejercer su encargo, o por enfermedad evidente y dictaminada.
+El Auditor Superior del Estado podrá ser removido sólo por las causas graves que señale la ley, que deberá juzgar y aprobar el Pleno del Congreso por el voto de cuando menos las dos terceras partes de sus integrantes. Podrá separarse del cargo por incapacidad legal para ejercer su encargo, o por enfermedad evidente y dictaminada.
 
 ###### ARTICULO 11.
 
@@ -317,9 +319,13 @@ VI.- El análisis de las desviaciones presupuestarias, en su caso, y
 
 VII. Los comentarios y observaciones de los auditados, respecto a las observaciones y solventaciones formuladas en la cuenta pública.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 18.
 
-La Auditoría Superior del Estado deberá presentar el informe trimestral de resultados de las entidades, para efecto de que, una vez dictaminado, sea presentado a consideración del Pleno.
+La Auditoría Superior del Estado deberá presentar a la Comisión el Informe de Resultados de las Cuentas Públicas que revise a mas tardar el 30 de septiembre, para el efecto de que, una vez dictaminado, sea presentado a consideración del Pleno.
+
+Dicho plazo se prorrogará al 30 de noviembre, cuando a juicio del Auditor Superior existan causas que impidan la elaboración del Informe de Resultados de una o varias Cuentas Públicas, lo cual hará del conocimiento de la Comisión.
 
 ###### ARTICULO 19.
 
@@ -349,23 +355,25 @@ Para la revisión de la cuenta pública de los ayuntamientos, la Auditoría vigi
 
 Para los efectos de esta ley, la Cuenta Pública estará constituida por los estados financieros contables, patrimoniales, presupuestales, programáticos y de otro orden del Estado o municipios, de acuerdo a sus ingresos y egresos.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 25.
 
-Las cuentas públicas de los poderes Estado se presentarán trimestralmente durante la segunda quincena del mes siguiente a la terminación de cada trimestre.}
+Las Cuentas Públicas de las entidades sujetas de fiscalización se presentarán, a su elección, en períodos semestral o anual.
 
-Las cuentas públicas del Instituto Estatal Electoral, de la Comisión de Derechos Humanos del Estado y de todo ente público autónomo también se presentarán trimestralmente, durante la segunda quincena del mes siguiente a la terminación del trimestre.
+Los Poderes del Estado, los Municipios y los Organismos Públicos Paraestatales y Paramunicipales, en el último año de su administración, podrán, a su elección, presentar la Cuenta Pública en período trimestral. Una vez determinada la opción de la periodicidad, no será factible modificar el calendario para su presentación, salvo que ocurran causas excepcionales que así lo ameriten a juicio del Congreso del Estado.
 
-Las cuentas públicas de las entidades de la administración pública estatal se presentarán trimestralmente durante la segunda quincena del mes siguiente al término del trimestre que correspondan, sin demérito de la remisión de los estados financieros a que se refiere el artículo 26 de esta ley.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 27 DE MARZO DE 2007)</small>
 
-Las cuentas públicas de los Ayuntamientos y de los organismos públicos municipales se presentarán cada tres meses, cada seis meses o anualmente, conforme a la determinación que adopte el Cabildo. Una vez determinada la opción de la periodicidad por parte del Ayuntamiento, no será factible modificar el calendario para su presentación, salvo que ocurran causas excepcionales que así lo ameriten a juicio del Congreso del Estado.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 27 DE MARZO DE 2007)</small>
 
-Los periodos trimestrales para la rendición de las cuentas públicas comprenden del 1º de enero al 31 de marzo, del 1º de abril al 30 de junio, del 1º de julio al 30 de septiembre y del 1º de octubre al 31 de diciembre de cada año.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 27 DE MARZO DE 2007)</small>
 
-Los Ayuntamientos que presenten trimestralmente sus cuentas públicas, deberán remitirlas al Congreso dentro de los últimos quince días del mes siguiente al trimestre que corresponda; los que la presenten en forma semestral la remitirán durante los primeros quince días del segundo mes siguiente al semestre que corresponda y los que la presenten anualmente la remitirán dentro de los primeros tres meses siguientes al término del ejercicio fiscal.
+Para la rendición de las Cuentas Públicas en los términos del párrafo anterior, los períodos trimestrales comprenden, el primer trimestre, del 1 de enero al 31 de marzo; el segundo trimestre, del 1 de abril al 30 de junio; el tercer trimestre, del 1 de julio al 30 de septiembre; y, el cuarto trimestre, del 1 de octubre al 31 de diciembre; los períodos semestrales comprenden, el primero, del 1 de enero al 30 de junio; y, el segundo, del 1 de julio al 31 de diciembre; y, los anuales, del 1 de enero al 31 de diciembre.
 
-Todas las cuentas públicas se remitirán al Congreso del Estado. Este las turnará a la Auditoría Superior del Estado, sea por conducto de la Comisión de Hacienda y Crédito Público cuando el Congreso esté en sesiones ordinarias o por medio de la Diputación Permanente cuando se encuentre en receso.
+Las entidades sujetas de fiscalización que opten por el período anual, remitirán la Cuenta Pública al Congreso dentro de los primeros tres meses siguientes al término del ejercicio fiscal; asimismo, las que opten por el período semestral la remitirán durante los primeros quince días del segundo mes siguiente al semestre que corresponda; y, las que opten en el último año de su administración por presentar su Cuenta Pública en período trimestral, la remitirán dentro de los últimos quince días del mes siguiente al trimestre que corresponda.
+
+Todas las Cuentas Públicas se remitirán al Congreso del Estado. Este las turnará a la Auditoría Superior del Estado, por conducto de la Comisión de Vigilancia de la Auditoría Superior del Estado cuando el Congreso esté en período ordinario de sesiones o por medio de la Diputación Permanente cuando se encuentre en período de receso.
 
 ###### ARTICULO 26.
 
@@ -499,13 +507,27 @@ Para los efectos de esta ley incurren en responsabilidad:
 
 I.- Los servidores públicos y los particulares, personas físicas o morales, por actos u omisiones que causen daño o perjuicio estimable en dinero a la Hacienda Pública;
 
-II.- Los servidores públicos de los Poderes del Estado y entes públicos que no rindan o dejen de rendir sus Informes acerca de la solventación de los pliegos de observaciones formulados y remitidos por la Auditoría Superior del Estado, y
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2007)</small>
 
-III.- Los servidores públicos de la Auditoría Superior del Estado, cuando al revisar la Cuenta Pública no formulen las observaciones sobre las situaciones irregulares que detecten.
+II.- Los servidores públicos de las entidades sujetas de fiscalización que no rindan Cuenta Pública, los que rindan Cuenta Pública fuera de los plazos establecidos en esta ley, los que no proporcionen la información o documentación requerida por la Auditoría en el ejercicio de sus funciones, así como los que no rindan los Informes acerca de la solventación de los pliegos de observaciones formulados y remitidos por la Auditoría Superior del Estado;
+
+III.- Los servidores públicos de la Auditoría Superior del Estado, cuando al revisar la Cuenta Pública no formulen las observaciones sobre las situaciones irregulares que detecten;
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2007)</small>
+
+IV.- Los servidores públicos y las personas físicas o morales que impidan u obstaculicen de cualquier forma las funciones de la Auditoria;
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2007)</small>
+
+V.- Quienes proporcionen la información contraviniendo los artículos 20,35 y 36 de esta ley.
 
 ###### ARTICULO 46.
 
 La Auditoría, con base en las responsabilidades que se determinen conforme al procedimiento previsto en esta Ley, fincará directamente a los responsables las indemnizaciones correspondientes, a fin de resarcir a las entidades sujetas de fiscalización, el monto de los daños y perjuicios cuantificables en dinero que se hayan causado.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2007)</small>
+
+Cuando se infrinjan las fracciones de la II a la V del artículo anterior, sin causar daño patrimonial a las entidades sujetas de fiscalización, la sanción que se imponga consistirá en multa de doscientos a ochocientos días del salario mínimo vigente en la Capital de Estado, para lo cual deberá tomarse en cuenta la gravedad de la infracción y el nivel jerárquico que ostente. Si el infractor es reincidente, se hará constar en la determinación esta circunstancia, y la multa impuesta podrá incrementarse hasta un tanto más el monto de su importe.
 
 Las indemnizaciones se fincarán independientemente de aquellas que sean objeto de otras leyes, y de las sanciones pecuniarias correspondientes.
 
@@ -519,19 +541,25 @@ Las responsabilidades se fincarán en primer término a los servidores públicos
 
 La determinación de las responsabilidades y el fincamiento de indemnizaciones y sanciones se sujetará al procedimiento siguiente:
 
-I.- Se citará personalmente a una audiencia al presunto o presuntos responsables, en un término que no deberá ser menor de cinco o mayor de quince días hábiles a la fecha de la audiencia, haciéndoles saber los hechos que se les imputan y el lugar, día y hora en que se verificará la audiencia.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2007)</small>
+
+I.- Se citará personalmente a una audiencia al presunto o presuntos responsables, en un término que no deberá ser menor de cinco ni mayor de quince días hábiles, haciéndole saber los hechos que se le imputan y el lugar, día y hora en que se verificará la audiencia.
 
 Se informará al citado de su derecho a ofrecer pruebas y alegar en la audiencia lo que a su derecho convenga, por sí o por medio de un defensor; apercibido de que de no comparecer sin justa causa, se tendrá por precluido su derecho para ofrecer pruebas o formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo.
 
 A la audiencia podrá asistir el representante de la entidad que para tal efecto designe.
 
-II.- Desahogadas las pruebas, si las hubiere, la Auditoría resolverá dentro de los treinta días hábiles siguientes sobre la existencia o inexistencia de responsabilidad y fincará, en su caso, el procedimiento correspondiente y determinar la indemnización que en su caso proceda a el o los sujetos responsables.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2007)</small>
+
+II.- Desahogadas las pruebas, si las hubiere, la Auditoría resolverá dentro de los treinta días hábiles siguientes sobre la existencia o inexistencia de responsabilidad y determinará la indemnización exigible, multa o ambas sanciones, según proceda.
 
 Se notificará a los responsables y a la entidad, remitiendo una copia por escrito del mismo a la Secretaría de Finanzas, para el efecto de que si en un plazo de quince días naturales contados a partir de la notificación, éste no es cubierto, se haga efectivo en términos de ley, mediante el procedimiento administrativo de ejecución.
 
 La indemnización invariablemente deberá ser suficiente para cubrir los daños y perjuicios causados, o ambos, y se actualizará para efectos de su pago, de acuerdo a lo previsto por el Código Fiscal del Estado.
 
-La Auditoría podrá solicitar a la Secretaría de Finanzas proceda al embargo precautorio de los bienes de los presuntos responsables a efecto de garantizar el cobro de la sanción impuesta, sólo cuando haya sido determinada en cantidad líquida el monto de la responsabilidad resarcitoria respectiva.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2007)</small>
+
+La Auditoría podrá solicitar a la Secretaría proceda al embargo precautorio de los bienes de los presuntos responsables a efecto de garantizar el cobro de la sanción impuesta, sólo cuando haya sido determinada en cantidad líquida el monto de la responsabilidad resarcitoria respectiva.
 
 El presunto o presuntos responsables podrán solicitar la sustitución del embargo precautorio, por cualquiera de las garantías que establece el Código Fiscal del Estado, a satisfacción de la Auditoría.
 
@@ -644,3 +672,17 @@ Artículo Segundo.- La Mesa Directiva del Congreso del Estado comunicará a los 
 Artículo Tercero.- Con relación al ejercicio fiscal del año 2004, los Ayuntamientos que opten por la presentación trimestral de sus cuentas públicas, tendrán como plazo para presentarlas al Congreso hasta el 31 de mayo por lo que hace al primer trimestre, y hasta el 15 de agosto por lo que hace al segundo trimestre; el tercer trimestre deberá presentarse, a más tardar el 31 de octubre.
 
 Los Ayuntamientos que opten por la presentación semestral de la Cuenta Pública se ceñirán para su remisión al Congreso a lo dispuesto por el artículo 25 de la Ley de Fiscalización Superior del Estado.
+
+P.O. 27 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Auditoría Superior del Estado tendrá de plazo hasta el 30 de septiembre de 2007 para presentar los Informes de Resultados de las Cuentas Públicas correspondientes a los ejercicios 2004, 2005 y 2006 que se encuentren en proceso de revisión, y las que estén pendientes de revisarse al entrar en vigor el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para los casos de excepción que se prevén en el artículo 25 que se reforma, las entidades sujetas de fiscalización deberán presentar sus Cuentas Públicas en periodos trimestrales, semestrales ó anuales, según corresponda para los efectos previstos en esta ley, a partir del ejercicio fiscal de 2008.
