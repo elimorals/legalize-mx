@@ -4,7 +4,7 @@ identifier: "LFCDO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-11-07"
-last_updated: "2004-12-21"
+last_updated: "2007-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9005&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCDO"
 
 LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MARZO DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de noviembre de 1996.
 
@@ -60,7 +60,9 @@ III. Tráfico de indocumentados, previsto en el artículo 138 de la Ley General 
 
 IV. Tráfico de órganos, previsto en los artículos 461, 462 y 462 bis de la Ley General de Salud, y
 
-V. Asalto, previsto en los artículos 286 y 287; secuestro, previsto en el artículo 366; tráfico de menores, previsto en el artículo 366 ter, y robo de vehículos, previsto en el artículo 381 bis del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, o en las disposiciones correspondientes de las legislaciones penales estatales.
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2007)</small>
+
+V. Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el articulo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 BIS; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; Trata de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 205; Trata de personas, previsto en el artículo 207; asalto, previsto en los artículos 286 y 287; secuestro, previsto en el artículo 366; tráfico de menores o personas que no tienen capacidad para comprender el significado del hecho, previsto en el artículo 366 Ter, y robo de vehículos, previsto en el artículo 381 bis del Código Penal Federal, o en las disposiciones correspondientes de las legislaciones penales Estatales o del Distrito Federal.
 
 ###### Artículo 3o.
 
@@ -367,3 +369,7 @@ D.O.F. 11 DE MAYO DE 2004.
 D.O.F. 21 DE DICIEMBRE DE 2004.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE MARZO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
