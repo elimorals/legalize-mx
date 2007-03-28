@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-denominacion-de-calles-avenidas-colonias-254
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-05"
-last_updated: "2002-09-09"
+last_updated: "2007-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA DENOMINACION DE CALLES, AVENIDAS, COLONIAS, PLAZAS PUBLICAS, PARQUES, JARDINES, GIMNASIOS Y DEMAS BIENES DE USO COMUN Y PUBLICO DEL PATRIMONIO MUNICIPAL, Y NUMERACION DE FINCAS DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del estado de Nuevo León, el viernes 5 de julio de 2002.
 
@@ -195,7 +195,7 @@ c).- Que no contenga publicidad de palabras ofensivas o contrarias a las buenas 
 
 d).- Que procuren llevar palabras de prevención de Accidentes, Delitos o consumo de Enervantes.
 
-e).- Las placas o láminas para las Calles o Avenidas u otro bien Municipal serán iguales en sus características (forma, tamaño, material, color, peso, altura, etc.), y contendrán además del nombre de la Calle, de la Colonia, el Código Postal, el Punto Cardinal correspondiente y cualquier otra información que no contravenga el presente Reglamento y sea aprobado por parte del R. Ayuntamiento.
+e).- Las placas o láminas para las Calles o Avenidas u otro bien Municipal serán iguales en sus características (forma, tamaño, material, color, peso, altura, etc.). y contendrán además del nombre de la Calle, de la Colonia, el Código Postal, el Punto Cardinal correspondiente y cualquier otra información que no contravenga el presente Reglamento y sea aprobado por parte del R. Ayuntamiento.
 
 f).- Las placas de Nomenclatura podrán ser colocadas en soportes de fierro sobre las banquetas o en muro de las fincas que hagan esquina, buscando siempre la perfecta visibilidad del nombre.
 
@@ -205,7 +205,7 @@ h).- Todo Fraccionador que obtenga la aprobación de la Nomenclatura de si (sic)
 
 i).- Tratándose del nombre de algún personaje, se hará mediante previo dictamen sobre la proyección histórica de su vida en la que se haya distinguido en cualquier actividad que sea mérito de reconocimiento de la Sociedad.
 
-j).- En ningún caso se podrá utilizar para la Nomenclatura el nombre de personas vivas.
+j).- (DEROGADO, P.O. 28 DE MARZO DE 2007)
 
 k).- Las personas físicas o morales podrán donar Placas o láminas para la Nomenclatura, sujeta a las disposiciones del presente Reglamento, y Una vez aprobado por el R. Ayuntamiento la donación, el donador podrá imprimir el logotipo, razón social o nombre autorizados.
 
@@ -295,7 +295,7 @@ Lic. Trinidad Escobedo Aguilar
 
 RUBRICA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.
 
 P.O. 9 DE SEPTIEMBRE DE 2002.
 
@@ -304,3 +304,7 @@ PRIMERO: La presente adición entrará en vigor a partir del día siguiente de s
 SEGUNDO: Se derogan las disposiciones Municipales que se opongan a lo dispuesto en la adición hecha al Reglamento mencionado con antelación.
 
 TERCERO: Por lo tanto solicito enviese para su publicación en el Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno.
+
+P.O. 28 DE MARZO DE 2007.
+
+Único.- El presente acuerdo surtirá efectos al momento de su aprobación y publicación en el Periódico Oficial del Estado.
