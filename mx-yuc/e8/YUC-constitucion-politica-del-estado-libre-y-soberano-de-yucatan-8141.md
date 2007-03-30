@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2006-10-01"
+last_updated: "2007-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE OCTUBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2007.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -1317,11 +1317,11 @@ Los Jueces de Primera Instancia durarán en su encargo cuatro años y sólo podr
 
 La Ley establecerá y organizará los Juzgados de Primera Instancia y los demás que se creyeren convenientes, y el Ministerio Público del Estado.
 
-> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+((REFORMADO, D.O. 30 DE MARZO DE 2007)
 
 ###### Artículo 72.
 
-La procuración de justicia, tratándose de delitos y conductas de los adolescentes tipificadas como delitos por las normas penales del Estado, incumbe al Ministerio Público y Policía Ministerial, la cual estará bajo la autoridad y mando inmediato de aquel. El Procurador General de Justicia, los Agentes del Ministerio Público y los Jefes y Agentes de la Policía Ministerial, serán nombrados por el Gobernador del Estado.
+La procuración de justicia y la persecución de los delitos, incumbe al Ministerio Público y a la Policía Ministerial, la cual estará bajo la autoridad y mando inmediato de aquél. El Procurador General de Justicia, los Agentes del Ministerio Público y los Jefes y Agentes de la Policía Ministerial, serán nombrados por el Gobernador del Estado.
 
 > <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
 
@@ -1337,17 +1337,21 @@ La aplicación de sanciones por infracciones administrativas previstas en las le
 
 En los términos previstos por esta Constitución, se establece un Sistema Integral de Justicia para las personas que tengan entre 12 años cumplidos y menos de 18 años de edad, a las que se les atribuya o se les declare responsables de conductas tipificadas como delitos en las disposiciones penales del Estado.
 
-La procuración, impartición y acceso a la justicia para adolescentes estará a cargo del Ministerio Público, la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia, y la Defensoría Legal. La ejecución y supervisión de las medidas estará a cargo del Centro de Aplicación de Medidas para Adolescentes y la Dirección de Prevención y Readaptación Social, los que serán órganos especializados en la materia.
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
+
+La procuración, impartición y acceso a la justicia para adolescentes, estará a cargo del Ministerio Público, la Sala Especializada y los jueces de Justicia para Adolescentes del Tribunal Superior de Justicia, y la Defensoría Legal. La ejecución y supervisión de las medidas impuestas a los Adolescentes, estará a cargo del Centro de Aplicación de Medidas y la Dirección de Prevención y Readaptación Social, en los ámbitos de sus competencias, los que serán órganos especializados de la materia.
 
 > <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
 
 Los procedimientos seguidos a los adolescentes, tendrán como principios rectores: el de interés superior, el debido proceso legal, confidencialidad, oportunidad, proporcionalidad y protección integral.
 
-En los términos y condiciones que contenga la Ley, se aplicarán medidas de orientación, protección y tratamiento que amerite cada caso, buscando la reincorporación social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidad.
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
 
-> <small>(F. DE E., D.O. 25 DE OCTUBRE DE 2006)</small>
+En los términos y condiciones de Ley, se aplicarán medidas de orientación, protección y tratamiento externo o en internamiento que amerite cada caso, con el fin de lograr la reincorporación social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
 
-El internamiento se utilizará como medida externa, por el menor tiempo posible y se aplicará únicamente, a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves en las disposiciones penales del estado.
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
+
+El tratamiento en internamiento se utilizará como medida extrema, en el menor tiempo posible y a los adolescentes mayores de catorce años de edad, por la comisión de conductas calificadas como graves en las disposiciones penales del Estado.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -2721,9 +2725,13 @@ Artículo Quinto.- Los Poderes Ejecutivo y Judicial harán las previsiones en su
 
 Artículo Sexto.- Con respecto a la Subprocuraduría de Justicia para Adolescentes, el Centro de Aplicación de Medidas, la Unidad en Supervisión de Medidas, el Área para la atención de los adolescentes de la Defensoría Legal, todos órganos Especializados del Poder Ejecutivo, deberán ser creados en el mismo plazo de la entrada en vigor de la Ley de la materia.
 
-Artículo Séptimo.- A la LVIII Legislatura del H. Congreso del Estado, le corresponderá el nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes, del Tribunal Superior de Justicia del Estado, durante el Primer Periodo Ordinario de Sesiones del Primer año de su Ejercicio Constitucional.
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
 
-Artículo Octavo.- Los Jueces Especializados para Adolescentes, deberán ser designados en los treinta días posteriores a la fecha de nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia del Estado.
+Artículo Séptimo.- El Congreso del Estado, nombrará a los Magistrados de la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia del Estado, a más tardar el 5 de junio del año 2007.
+
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
+
+Artículo Octavo.- Los Jueces Especializados en Justicia para Adolescentes, deberán ser designados por el Pleno del Tribunal de Justicia del Estado, a más tardar el 10 de junio de 2007.
 
 Artículo Noveno.- Los Poderes Ejecutivo y Judicial, de común acuerdo, mediante convenio de colaboración establecerán las bases para el diseño y ejecución de los programas de capacitación dirigidos a los funcionarios y servidores públicos que conformarán el Sistema Integral de Justicia para Adolescentes, en un plazo de treinta días a partir de la entrada en vigor del presente decreto.
 
@@ -2734,3 +2742,9 @@ Artículo Décimo Primero.- Para efecto de garantizar el acceso a la justicia, l
 Artículo Décimo Segundo.- Las reformas y adiciones a la Ley Orgánica del Poder Judicial en lo referente a la creación del Centro Coordinador de Actuarios y a las distintas Oficialías de Partes del Poder Judicial entrarán en vigor cuando el pleno del Tribunal Superior de Justicia expida los acuerdos generales correspondientes y cuente con la disponibilidad presupuestal necesaria.
 
 Artículo Décimo Tercero.- Las reformas y adiciones de la Ley Orgánica del Poder Judicial que se refieren a los departamentos judiciales y los juzgados existentes, en relación con sus jurisdicciones territoriales, cabeceras, sedes y competencias, entrarán en vigor hasta que el Pleno del Tribunal Superior de Justicia del Estado de Yucatán emita y entren en vigor los acuerdos generales correspondientes, para lo cual contará con un plazo no mayor a ciento veinte días posteriores a la fecha de esta publicación.
+
+D.O. 30 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
