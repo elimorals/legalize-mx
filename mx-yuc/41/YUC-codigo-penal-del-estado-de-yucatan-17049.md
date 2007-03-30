@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2006-10-01"
+last_updated: "2007-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2007.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -3388,3 +3388,9 @@ Artículo Décimo Primero.- Para efecto de garantizar el acceso a la justicia, l
 Artículo Décimo Segundo.- Las reformas y adiciones a la Ley Orgánica del Poder Judicial en lo referente a la creación del Centro Coordinador de Actuarios y a las distintas Oficialías de Partes del Poder Judicial entrarán en vigor cuando el pleno del Tribunal Superior de Justicia expida los acuerdos generales correspondientes y cuente con la disponibilidad presupuestal necesaria.
 
 Artículo Décimo Tercero.- Las reformas y adiciones de la Ley Orgánica del Poder Judicial que se refieren a los departamentos judiciales y los juzgados existentes, en relación con sus jurisdicciones territoriales, cabeceras, sedes y competencias, entrarán en vigor hasta que el Pleno del Tribunal Superior de Justicia del Estado de Yucatán emita y entren en vigor los acuerdos generales correspondientes, para lo cual contará con un plazo no mayor a ciento veinte días posteriores a la fecha de esta publicación.
+
+D.O. 30 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
