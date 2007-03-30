@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-planeacion-del-estado-de-quintana-roo-7273"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-06-09"
-last_updated: "1987-09-30"
+last_updated: "2007-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY ORGANICA DE PLANEACION DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1987.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 30 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 9 de junio de 1986.
 
@@ -400,3 +402,23 @@ P.O. 30 DE SEPTIEMBRE DE 1987.
 PRIMERO.- En las leyes, reglamentos y convenios en los que apaerza(sic) con atribuciones en materia de planeación la antigua Secretaría de Desarrollo Económico, se deberá considerar a la Secretaría de Planeación, con las mismas facultades y como la dependencia del Ejecutivo responsable de las acciones que a partir de las reformas de ley, le fueron otorgadas.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE MARZO DE 2007.
+
+PRIMERO.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+TERCERO.- Se abroga la Ley Orgánica de Planeación del Estado de Quintana Roo, expedida con fecha cinco de junio del año de mil novecientos ochenta y seis y publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el día seis de ese mismo mes y año.
+
+CUARTO.- En tanto se expide el Decreto de Creación del COPLADE que señala esta Ley, seguirá vigente el Decreto que crea el COPLADE publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el treinta y uno de marzo de mil novecientos ochenta y uno.
+
+QUINTO.- Se abrogan y derogan las disposiciones que se opongan a la presente ley.
+
+SEXTO.- El Reglamento de esta Ley deberá expedirse en un plazo no mayor de ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO.- En tanto se expidan las disposiciones reglamentarias de esta Ley, continuarán aplicándose las vigentes sobre la materia, en todo lo que no se oponga al presente ordenamiento.
+
+OCTAVO.- El Decreto de Creación del COPLADE deberá expedirse por el Titular del Poder Ejecutivo, en un plazo no mayor de noventa días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+NOVENO.- Los Titulares de las Dependencias y Entidades de la Administración Pública Estatal y Municipal, y de los Órganos Autónomos, deberán de realizar, dentro de los noventa días naturales contados a partir de la entrada en vigor de la presente Ley, las adecuaciones correspondientes a sus marcos normativos para la creación de las Unidades Administrativas de Planeación, disponiendo lo conducente a fin de que se lleve a cabo la reasignación de recursos correspondientes para dichas Unidades Administrativas de Planeación.
