@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-para-4437
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-11"
-last_updated: "2006-05-26"
+last_updated: "2007-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PARA EL GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de marzo de 2005.
 
@@ -249,7 +249,23 @@ XXVIII. La información relativa a las actividades culturales, deportivas y; rec
 
 XXIX. El informe anual de la Comisión de Transparencia Municipal en los términos del artículo 32 del presente Reglamento;
 
-XXX. Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base a la información estadística, responda a las preguntas hechas con más frecuencia por el público.
+XXX. Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base a la información estadística, responda a las preguntas hechas con más frecuencia por el público;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XXXI. Leyes, reglamentos, decretos, convenios, circulares y demás normas que resulten aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XXXII. Los informes que por disposición legal generen los sujetos obligados;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XXXIII. Mecanismos y formas de participación ciudadana, y
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XXXIV. Cualquier información que sea de utilidad o se considere relevante, además de la que con base a la información estadística, responda a las preguntas hechas con más frecuencia por el público. (sic)
 
 La información a que se refiere este artículo deberá invariablemente estar en idioma español de tal forma que facilite su uso y comprensión por los ciudadanos y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad. Las Dependencias y Entidades deberán atender las recomendaciones que al respecto expida la Comisión.
 
@@ -774,3 +790,11 @@ P.O. 26 DE MAYO DE 2006.
 PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación, y se publicará en el Periódico Oficial, órgano del Gobierno del Estado de Baja California, y en un periódico de mayor circulación y/o en la Gaceta Municipal para el conocimiento de los vecinos.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
+
+P.O. 30 DE MARZO DE 2007.
+
+PRIMERO.- La presente iniciativa entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Baja California, así como en un diario de mayor circulación estatal y/o en la Gaceta Municipal, para conocimiento de los vecinos.
+
+TERCERO.- Se derogan todas aquellas disposiciones municipales que se opongan al presente acuerdo edilicio.
