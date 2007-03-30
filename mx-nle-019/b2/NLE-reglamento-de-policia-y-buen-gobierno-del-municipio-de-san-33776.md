@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-san-3377
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-25"
-last_updated: "2005-05-30"
+last_updated: "2007-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 25 de agosto de 2003.
 
@@ -495,7 +495,7 @@ En aquellos casos en que los hechos u omisiones sean tipificadas como delitos pr
 
 ### CAPITULO SEXTO. DEL COMITÉ DE HONOR Y JUSTICIA DE SEGURIDAD PÚBLICA Y VIALIDAD
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
 ### CAPITULO SEPTIMO. DEL PROCEDIMIENTO DE MODIFICACIÓN AL REGLAMENTO
 
@@ -545,55 +545,63 @@ Dentro de un término no mayor de 15-quince días hábiles, después de concluir
 
 ###### ARTÍCULO 45.
 
-El Comité de Honor y Justicia de seguridad Pública y Vialidad se constituye como un órgano administrativo autónomo de apoyo al C. Presidente Municipal, dotado de atribuciones para resolver y aplicar las sanciones, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, en relación con las quejas y denuncias ciudadanas que se presenten en contra de los servidores públicos municipales en funciones o cargos de oficiales de policía y tránsito, previo procedimiento instaurado y sometido a su jurisdicción por la Secretaría de Contraloría.
+El Comité de Honor y Justicia de Seguridad Pública y Vialidad se constituye como un órgano de carácter administrativo, auxiliar del Presidente Municipal, el cual tendrá competencia para conocer y sustanciar los procedimientos que se deriven de las quejas y denuncias que se presenten en contra de los elementos de Policía y de Tránsito de la Secretaría de Seguridad Pública y Vialidad.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+La sustanciación del procedimiento de responsabilidad administrativa se regirá por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 46.
 
-El Comité de Honor y Justicia de Seguridad Pública y Vialidad estará integrada por 5-cinco ciudadanos de reconocida honorabilidad, capacidad y solvencia moral en el Municipio además del titular de la Secretaría de Contraloría Municipal, de 2-dos regidores del R. Ayuntamiento y 2-dos servidores públicos adscritos a la Secretaría de Seguridad Pública en los cargos de oficial de policía y oficial de tránsito, respectivamente, bajo el siguiente orden:
+El Comité de Honor y Justicia de Seguridad Pública y Vialidad estará integrado por 5-cinco ciudadanos de reconocida honorabilidad, capacidad y solvencia moral en el Municipio, por 2-dos miembros del Republicano Ayuntamiento y por 2-dos elementos adscritos a la Secretaría de Seguridad Pública y Vialidad en los cargos de policía y de tránsito, respectivamente, bajo el siguiente orden:
 
-I.- Un Presidente;
+I. Un Presidente;
 
-II.- Un Secretario; y
+II. Un Secretario; y
 
-III.- Ocho Vocales.
+III. Ocho Vocales.
 
-Cada integrante contara con un suplente que cubrirá las ausencias de los titulares del Comité.
+Cada integrante propietario contará con un suplente que cubrirá las ausencias de los titulares del Comité en las Sesiones.
 
-El cargo de Presidente será determinado por los integrantes del Comité con derecho a voz y voto. El Presidente necesariamente tendrá que ser elegido por unanimidad y será uno de los cinco ciudadanos que integren este Comité.
+El cargo de Presidente será determinado por los integrantes propietarios del Comité con derecho a voz y voto. El Presidente necesariamente tendrá que ser elegido por mayoría y será uno de los 5-cinco ciudadanos que integren el Comité.
 
-El cargo de Secretario será ocupado por el titular de la Secretaría de Contraloría, quien en las sesiones tendrá derecho con voz pero sin voto.
+El cargo de Secretario será ocupado por el titular de la Contraloría Municipal, quien en las sesiones tendrá derecho a voz, pero no a voto.
 
-Los vocales serán el resto de los integrantes de este Comité. En cuanto a los regidores que tendrán el cargo de vocales será necesariamente el Presidente de la Comisión de Seguridad Pública y el Presidente de la Comisión de Honor y Justicia del R. Ayuntamiento.
+Los vocales serán el resto de los integrantes del Comité. En cuanto a los integrantes del Republicano Ayuntamiento que tendrán el cargo de vocal serán, salvo acuerdo en diverso sentido del mismo Órgano, el Presidente de la Comisión de Seguridad Pública y Vialidad y el Presidente de la Comisión de Honor y Justicia del Republicano Ayuntamiento.
 
-Tanto el Presidente como los ocho vocales tendrán derecho a voz y voto en las sesiones del Comité.
+Tanto el Presidente, como los 8-ocho vocales tendrán derecho a voz y voto en las sesiones del Comité.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 47.
 
-Los integrantes y suplentes ciudadanos del Comité de Honor y Justicia de Seguridad Pública y Vialidad, deberán ser propuestos por el C. Presidente Municipal y aprobados por la Comisión de Seguridad Pública del R. Ayuntamiento, los cuales durarán en su encargo 2-dos años improrrogables, excepto los cargos de vocales ocupados por el "oficial de policía” y "oficial de Transito”, que cambiarán cada 6-seis meses.
+Los integrantes ciudadanos del Comité de Honor y Justicia de Seguridad Pública y Vialidad, tanto propietarios como suplentes, deberán ser propuestos por el Presidente Municipal y aprobados por el Pleno del Republicano Ayuntamiento y durarán en su encargo 3-tres años.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+Para la elección de los cargos de vocal ocupados por los elementos adscritos a la Secretaría de Seguridad Pública y Vialidad, el titular de ésta dependencia, presentará una propuesta de cuando menos 3- tres elementos de la Dirección de Policía y 3-tres de la Dirección de Tránsito, de entre los cuales el Republicano Ayuntamiento, previa opinión del Comité, elegirá y determinará quienes ocuparan estos 2-dos cargos.
+
+La Dirección de Recursos Humanos estará obligada a proporcionar, en cuanto sea requerida, los expedientes de los elementos propuestos.
+
+Los cargos de vocal ocupados por los elementos de policía y de tránsito, durarán en su encargo un periodo de 6-seis meses, pudiendo ser reelectos.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 48.
 
-El Comité de Honor y Justicia de Seguridad Pública y Vialidad sesionará cuando menos una vez al mes y tendrá como recinto oficial el Edificio de la Secretaría de Seguridad Pública.
+El Comité de Honor y Justicia de Seguridad Pública y Vialidad sesionará cuando menos una vez al mes y tendrá como recinto el edificio municipal, que se establezca en la convocatoria correspondiente.
 
-Solo en casos de suma urgencia entre ellos, la alteración del orden publico provocada por los "oficiales" con consecuencias de inseguridad para el Municipio y sus habitantes, se convocará a sesión extraordinaria al Comité de Honor y Justicia de Seguridad Pública y Vialidad, por parte de su Presidente.
+El Presidente podrá convocar con 48-cuarenta y ocho horas de anticipación a las sesiones extraordinarias que sea necesario.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 49.
 
-Habrá quórum en la sesiones del Comité de Honor y Justicia de Seguridad Pública y Vialidad, con la mitad más uno de sus integrantes. Todos los miembros contaran con derecho de voz y voto, excepto el Secretario; conforme se establece en el último párrafo del artículo 48, sus resoluciones serán tomadas por mayoría simple de los integrantes presentes. En caso de empate el Presidente tendrá voto de calidad.
+Habrá quórum en la sesiones del Comité de Honor y Justicia de Seguridad Pública y Vialidad, con la presencia de la mitad más uno de sus integrantes con derecho a voto y sus resoluciones serán tomadas por mayoría simple de los integrantes presentes. En caso de empate el Presidente tendrá voto de calidad.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 50.
 
-El Presidente del Comité de Honor y Justicia de Seguridad Pública y Vialidad, será el ejecutor de los acuerdos y resoluciones que emita el Comité de Honor y Justicia de Seguridad Pública y Vialidad.
+El Secretario del Comité de Honor y Justicia de Seguridad Pública y Vialidad, será el ejecutor de los acuerdos y resoluciones que emita el mismo Comité.
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
 
@@ -601,9 +609,13 @@ El Presidente del Comité de Honor y Justicia de Seguridad Pública y Vialidad, 
 
 Todo integrante del Comité de Honor y Justicia de Seguridad Pública y Vialidad, en aras de la imparcialidad que debe prevalecer en su actuación, se tendrá por forzosamente impedido y como consecuencia debe excusarse, en los siguientes casos.
 
-I.- Tenga una relación de parentesco por consanguinidad o afinidad, con el “oficial” sujeto a procedimiento;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
 
-II.- Haya tenido alguna diferencia personal o de otra índole con el “oficial” sujeto a procedimiento; y,
+l.- Tenga una relación de parentesco por consanguinidad o afinidad, con el servidor público sujeto a procedimiento;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+II.- Haya tenido alguna diferencia personal o de otra índole con el servidor público sujeto al procedimiento; y,
 
 III.- Demás causas que se justifican en legal forma.
 
@@ -613,49 +625,47 @@ III.- Demás causas que se justifican en legal forma.
 
 De toda sesión del Comité de Honor y Justicia de Seguridad Pública y Vialidad, el Secretario levantará acta debidamente suscrita por los que en ella intervinieron y así quisieron hacerlo.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 53.
 
 El Comité de Honor y Justicia de Seguridad Pública y Vialidad tendrá plena jurisdicción y competencia, para:
 
-I.- Vigilar que los “oficiales” de policía y tránsito adscritos a la Secretaría de Seguridad Pública del Municipio, cumplan en el desempeño de sus cargos, empleos o comisiones y con los principios rectores que rigen la prestación del servicio público, de legalidad, imparcialidad, transparencia, eficacia, eficiencia y el pleno respeto a los derechos humanos y garantías individuales;
+I.- Vigilar que los elementos adscritos a la Secretaría de Seguridad Pública y Vialidad del Municipio, cumplan en el desempeño de sus cargos, empleos o comisiones y con los principios rectores que rigen la prestación del servicio público, de legalidad, imparcialidad, transparencia, eficacia, eficiencia y el pleno respeto a los derechos humanos y garantías individuales;
 
-II.- Establecer en coordinación con la Secretaría de Contraloría, módulos de atención de quejas y denuncias ciudadanas en contra de presuntas actuaciones indebidas de oficiales de policía y tránsito;
+II.- Establecer en coordinación con la Contraloría Municipal, módulos de atención de quejas y denuncias ciudadanas en contra de presuntas actuaciones indebidas de elementos de policía y tránsito;
 
-III.- Organizar cursos, conferencias y pláticas relacionadas con el servicio de seguridad pública, vialidad y protección civil e instrumental y equipo utilizado, en los que se involucren a los “oficiales” de policía y tránsito, como parte de su capacitación y adiestramiento permanente;
+III.- Organizar cursos, conferencias o pláticas relacionadas con el servicio de seguridad pública, vialidad, protección civil, e instrumental y equipo utilizado, en los que se involucren a los servidores públicos a los que hace referencia el artículo 45 del presente Reglamento, como parte de su capacitación y adiestramiento permanente;
 
-IV.- Resolver en estricto apego a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, los Procedimientos de Responsabilidad Administrativa que con motivo de las quejas y denuncias se inicien en contra de los “oficiales” de policía y tránsito;
+IV.- Resolver en estricto apego a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, los Procedimientos de Responsabilidad Administrativa que con motivo de las quejas y denuncias se inicien en contra de los servidores públicos a los que hace referencia el artículo 45 del presente Reglamento;
 
-V.- Emitir recomendaciones al Secretario de Seguridad Pública, Director de Policía y Director de Tránsito, para disciplinar a los oficiales de policía y tránsito, cuando sus conductas activas u omisivas no sean constitutivas de infracción a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
+V.- Emitir recomendaciones al Secretario de Seguridad Pública y Vialidad, Director de Policía y Director de Tránsito, para disciplinar a los servidores públicos a los que hace referencia el artículo 45 del presente Reglamento, cuando sus conductas activas u omisivas no sean constitutivas de infracción a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
 
-VI.- Si el caso lo permite, previo su estudio y análisis, celebrar una audiencia de conciliación entre el denunciante y/o quejoso y el “oficial” y en ese acto emitir su resolución; y,
+VI.- Si el caso lo permite, previo su estudio y análisis, celebrar una audiencia de conciliación entre el denunciante o quejoso y el servidor público, y en ese acto emitir su resolución; y,
 
-VII.- Honrar en privado o públicamente, mediante la entrega de título honorífico o en numerario según lo permitan los Presupuestos Municipales, a todo aquel oficial de policía y tránsito que en razón de sus méritos se haya distinguido en su actuar, en la prestación del servicio público de seguridad pública o protección civil.
+VII.- Honrar en privado o públicamente, mediante la entrega de título honorifico o en numerario, según lo permitan los Presupuestos Municipales, a los servidores públicos que hace referencia el artículo 45 del presente Reglamento, que en razón de sus méritos se hayan distinguido en su actuar, en la prestación del servicio público de seguridad pública y vialidad o protección civil.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 54.
 
 Las Quejas y Denuncias en contra de los oficiales de policía y tránsito, deben reunir como mínimo, los siguientes requisitos:
 
-l.- Generales de la persona que la presenta;
+I. Generales de la persona que la presenta;
 
-II.- El señalamiento, si lo supiera, del nombre del “oficial”, o su media filiación;
+II. El señalamiento, si lo supiera, del nombre del servidor público, o su media filiación;
 
-III.- Señalar fecha, hora y lugar de los hechos u omisiones que considere fueron indebidamente cometidos por el “oficial”;
+III. Señalar fecha, hora y lugar de los hechos u omisiones que considere fueron indebidamente cometidos por el servidor público;
 
-IV.- En caso de contar con pruebas, acompañarlas a su queja o denuncia.
+IV. En caso de contar con pruebas, acompañarlas a su queja o denuncia; y,
 
-V.- Firma del presentante y en caso de no saber firmar, huella dactilar; y
+V. No darán inicio al procedimiento administrativo las quejas o denuncias anónimas, pero estas se harán del conocimiento de los titulares de la Secretaría de Seguridad Pública y Vialidad y Contraloría Municipal.
 
-No serán admitidas quejas o denuncias anónimas.
-
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 55.
 
-El Comité de Honor y Justicia de Seguridad Pública y Vialidad, informará en forma trimestral a la Comisión de Seguridad Pública del R. Ayuntamiento los asuntos sometidos a su jurisdicción, la situación jurídica que guardan y en su caso el sentido de la resolución emitida.
+El Comité de Honor y Justicia de Seguridad Pública y Vialidad, informará en forma trimestral por escrito a la Comisión de Seguridad Pública y Vialidad del Republicano Ayuntamiento los asuntos sometidos a su jurisdicción, la situación jurídica que guardan y en su caso el sentido de la resolución emitida de cada caso.
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
 
@@ -714,3 +724,11 @@ SEGUNDO.- La presente reforma entrara en vigor el día de su publicación en el 
 P.O. 30 DE MAYO DE 2005.
 
 Artículo Único.- Las reformas por adición y modificación el Reglamento de Policía y Buen Gobierno del Municipio de San Pedro Garza García, N.L. publicado en el Periódico Oficial del Estado, número 110 de fecha 25 de agosto del año 2003, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+P.O. 30 DE MARZO DE 2007.
+
+Artículo Primero.- Las reformas por adición y modificación al REGLAMENTO DE POLICÍA y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+Artículo Segundo.- La integración del Comité de Honor y Justicia de Seguridad Pública y Vialidad para ser integrado con motivo de esta reforma y dar inició a la sucesión escalonada de sus miembros ciudadanos será de la manera siguiente:
+
+Por única vez dos de los integrantes ciudadanos del Comité serán electos por un periodo de cinco años, sin posibilidad de reelección. El resto de los miembros ciudadanos del Comité serán electos por el periodo ordinario de tres años.
