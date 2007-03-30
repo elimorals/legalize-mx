@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-para-4437
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-11"
-last_updated: "2006-05-26"
+last_updated: "2007-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,2142 +23,778 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PARA EL GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PARA EL GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA
 
-LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2007.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
+Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de marzo de 2005.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
+EL LIC. FERNANDO JORGE CASTRO TRENTI, Secretario de Gobierno del H. XVIII Ayuntamiento Constitucional del Municipio de Tijuana, Baja California, conforme a la Ley,
 
-Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos.
+CERTIFICA:
 
-DR. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+Que en el acta levantada con motivo de la Sesión Ordinaria de Cabildo del H. XVIII Ayuntamiento de Tijuana, celebrada el día veintiocho de febrero de dos mil cinco, se encuentra un acuerdo que a la letra dice:
 
-Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+Acta 10.-"... el H. Cuerpo Edilicio aprueba por unanimidad de votos los siguientes puntos de acuerdo:
 
-LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
+PRIMERO.- Se aprueba el Reglamento de Transparencia y Acceso a la Información para el Gobierno Municipal de Tijuana, Baja California. El cual se anexa al presente acuerdo y se tiene por reproducido como si se insertara a la letra del mismo.
 
-CONSIDERANDO
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá publicarse en el diario de mayor circulación en el Municipio de Tijuana para el conocimiento de la población.
 
-[...]
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Reglamento..."
 
-LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
+Para todos los efectos a que haya lugar se extiende la presente CERTIFICACIÓN, en la ciudad de Tijuana, Baja California, a los veintiocho días del mes de febrero de dos mil cinco.
 
-## TÍTULO PRIMERO
+EL SECRETARIO DE GOBIERNO MUNICIPAL DEL H. XVIII AYUNTAMIENTO DE TIJUANA
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+LIC. FERNANDO JORGE CASTRO TRENTI
 
-###### ARTÍCULO 1.
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PARA EL GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA.
 
-Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto normar las actividades tendientes a fomentar y desarrollar el deporte y la cultura física en el Estado de Morelos; a establecer el Sistema Estatal del Deporte y Cultura Física, así como, a constituir las bases generales de coordinación y colaboración entre el Estado y los Municipios, la concertación para la participación de los sectores social y privado, en materia del deporte y la cultura física.
+### CAPITULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+###### Artículo 1.
 
-###### ARTÍCULO 2.
+El presente Reglamento es de interés público y de observancia obligatoria para todos los servidores públicos del H. Ayuntamiento de Tijuana, Baja California y tiene por objeto regular y garantizar el derecho a la información estableciendo los órganos, criterios y procedimientos institucionales para proporcionar a todos los ciudadanos el acceso a la información publica de las Dependencias y entidades, que conforman el Gobierno Municipal de esta Ciudad.
 
-La función social del deporte, la Cultura Física y la activación física es la de fortalecer y fomentar la interacción e integración del ser humano con la sociedad, para desarrollar de manera armónica las capacidades intelectuales, afectivas y motrices de las personas; así como para preservar la salud, prevenir enfermedades, adicciones y el consumo de sustancias psicoactivas, para contribuir a promover la solidaridad como valor social y elevar el nivel cultural, de competición y de competitividad deportiva de los morelenses en todas sus manifestaciones y expresiones, garantizando la igualdad de oportunidades dentro de los programas y acciones que en materia del deporte y la cultura física se implementen en el Estado, sin distinción de origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, orientación sexual o estado civil.
+###### Artículo 2.
 
-Así como promover las medidas preventivas necesarias para erradicar la violencia, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar.
+Para los efectos de este Reglamento, se entiende por derecho de acceso a la información pública, aquel que corresponde a toda persona de saber y acceder a esta. Es la garantía fundamental que toda persona posee para allegarse información; informar y ser informado.
 
-###### ARTÍCULO 3.
+###### Artículo 3.
 
-Son sujetos de la presente Ley: todos los individuos, agrupaciones y organismos deportivos de los sectores público, privado y social en el Estado, que por su naturaleza y funciones sean susceptibles de integrarse al Sistema.
+Toda la información gubernamental, es pública salvo las excepciones previstas en este Reglamento, los particulares tendrán acceso a la misma en los términos que éste señala, favoreciendo el principio de publicidad de la información en posesión de los sujetos obligados.
 
-###### ARTÍCULO 4.
+La información pública que tenga el carácter de reservada o confidencial no podrá divulgarse cuando lo disponga el presente ordenamiento, otras leyes o en los casos que sean datos personales, así como aquellos otros datos que no se encuentren relacionados con el ejercicio del cargo desempeñado por cualquier servidor público.
 
-Se reconoce el derecho de los morelenses al conocimiento, difusión, práctica, integración y asociación en las actividades y desarrollo del deporte y la cultura física.
+###### Artículo 4.
 
-###### ARTÍCULO 5.
+Para ejercer el derecho de acceso a la información pública no es necesario acreditar derechos subjetivos, interés legitimo o las razones que motiven el pedimento, salvo en los casos del derecho de Habeas Data y las disposiciones contenidas en este Reglamento.
 
-Corresponde al Ejecutivo Estatal, ser el órgano rector de la política deportiva y la cultura física, a través del Instituto del Deporte y Cultura Física; para ello, contará con las facultades que le otorga esta Ley, así como, otras disposiciones normativas para el mejor desarrollo de estas acciones en el Estado de Morelos.
+La información de carácter personal es irrenunciable, intransferible e indelegable, por lo que ninguna autoridad debe proporcionarla o hacerla pública.
 
-El Gobierno Estatal y los Gobiernos Municipales, fomentarán y promoverán el adecuado ejercicio del derecho de todos los morelenses, a la práctica del deporte y la cultura física en el ámbito de sus respectivas competencias, de conformidad con las bases de coordinación previstas en esta Ley y demás ordenamientos normativos aplicables.
+El uso que se haga de la información es responsabilidad de la persona que lo obtuvo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2024)</small>
+###### Artículo 5.
 
-###### ARTÍCULO 6.
+La vigilancia, interpretación y evaluación para el cumplimiento del presente Reglamento compete a la Comisión de Transparencia Municipal.
 
-Para efectos de la presente Ley y su reglamento, se entiende por:
+###### Artículo 6.
 
-I. Sistema: Al Sistema del Deporte y Cultura Física del Estado de Morelos;
+Para los efectos de este Reglamento se entenderá por:
 
-II. Consejo: Al Consejo Estatal del Deporte y Cultura Física;
+I. Datos. personales: La información concerniente a una persona física, identificada o identificable, considerándose entre otras de manera enunciativa, la relativa a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, patrimonio, ideología y opiniones políticas, creencias o convicciones religiosas o filosóficas, el estado de salud físico o mental, preferencias sexuales u otros que afecten su intimidad, lesionen la moral o contravengan disposiciones de orden público;
 
-III. Instituto: Al Instituto del Deporte y Cultura Física del Estado de Morelos;
+II. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración; los documentos podrán estar en medio escrito, impreso, sonoro, visual, electrónico, informático, holográfico o cualquier otro;
 
-IV. Programa Estratégico: Documento que contiene la misión, visión, líneas estratégicas, objetivos y metas que persigue el deporte y la cultura física de Morelos;
+III. Dependencias y Entidades: Las señaladas en el Reglamento de la Administración Pública del Ayuntamiento de Tijuana, Baja California;
 
-V. Programa: Documento que establece los lineamientos referente a los objetivos y acciones que se llevarán a cabo, para el logro de los mismos;
+IV. Información Pública: Toda aquella que sea generada y/o esté en posesión de los Sujetos Obligados, en ejercicio de sus atribuciones;
 
-VI. Deporte: La práctica sistemática de actividades físicas e intelectuales que se realicen de manera individual o en conjunto, con propósitos de competencia, competitividad o de esparcimiento en apego a su reglamentación y tendientes al desarrollo y mejoramiento de las capacidades del individuo;
+V. Información Reservada: Aquella información que se encuentra temporalmente sujeta a alguna de las excepciones previstas en este ordenamiento o por disposición expresa de cualquier otra Ley;
 
-VII. Deportista: Persona física que realice actividades de orden de competencia, competitivo o esparcimiento, bajo la reglamentación establecida;
+VI. Información Confidencial: La clasificada con este carácter, de manera permanente de conformidad con el procedimiento establecido en este Reglamento y otras normas aplicables;
 
-VIII. Educación Física: La sistematización de conductas motrices para conseguir objetivos educativos, por medio del cual se adquiere, transmite y acrecienta la cultura física, la competencia motriz y las bases del deporte, mismas que se contemplan y se definen en los Programas de Educación del Estado y en el Programa Estatal del Deporte;
+VII. Comisión: La Comisión de Transparencia Municipal a que se refiere el Capítulo Quinto de este Reglamento;
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2024)</small>
+VIII. Reglamento: El Reglamento de Transparencia y Acceso a la Información para el Gobierno Municipal de Tijuana, Baja California;
 
-IX. Cultura Física: Conjunto de bienes; conocimientos, ideas, valores y elementos materiales que la humanidad ha producido con relación al movimiento y uso de su cuerpo;
+IX. Servidores públicos: Toda persona que desempeñe un empleo, cargo o comisión en la administración pública municipal y/o que su calidad de servidor público esté determinada por los ordenamientos legales respectivos, incluidos los Órganos y Autoridades Auxiliares del Ayuntamiento;
 
-X. Deporte Popular: El que tiene como objetivo contribuir al bienestar individual y social de la población, poniendo a su alcance, la práctica de actividades físicas y deportivas;
+X. Sistema de datos personales: El conjunto ordenado de datos personales que estén en posesión de un sujeto obligado;
 
-XI. Deporte Estudiantil: Aquel que agrupa a los deportistas que pertenecen al Sistema Educativo Estatal de conformidad a la Ley de Educación del Estado incluyendo a cualquier nivel, modalidad y subsistema educativo;
+XI. Sujetos Obligados: Los Servidores Públicos y los Directivos de las Empresas concesionarias de servicios municipales que generen, obtengan, adquieran, transformen o conserven la información en el ejercicio de sus atribuciones, incluidos los órganos y autoridades auxiliares del Ayuntamiento y todos aquellos que manejen o apliquen fondos públicos;
 
-XII. Deporte Asociado: Aquel que está formado por ligas estatales, municipales, regionales o filiales de la misma disciplina deportiva, clubes, equipos o deportistas, que se integran de manera legal con el objetivo de realizar competencias entre sí o bien, para seleccionar deportistas o equipos representativos del Estado y que se rigen por estatutos o reglamentos de cada deporte en vigor y de cada asociación;
+XII. Unidad: La Unidad Municipal de Acceso a la Información dependiente de la Sindicatura Municipal;
 
-XIII. Deporte de Alto Rendimiento: El que tiene como objetivo desarrollar de manera eficiente y eficaz cada uno de los patrones de movimiento que cumplan con el nivel competitivo determinado, para poder participar en competencias nacionales, internacionales, mundiales u olímpicas en las diferentes disciplinas;
+XIII. Comité de Información: Cuerpo Colegiado de Servidores Públicos que se integra para emitir los criterios que servirán de base para determinar la información que se considerará clasificada, así como para atender y resolver los requerimientos de la Unidad y de la Comisión;
 
-XIV. Deporte Adaptado: Se entiende por deporte adaptado, la práctica de actividades deportivas enfocadas a las personas con algún tipo de discapacidad;
+XIV. Peticionario: La persona que requiere la información en los términos a que se refiere el Reglamento;
 
-XV. Deporte Remunerado: Aquel que se practica con el objeto de obtener un lucro por la actividad realizada o presentada como espectáculo público;
+XV. Hábeas Data: La garantía de tutela de la privacidad de los datos personales en poder de la administración publica municipal.
 
-XVI. Deporte Extremo o de Alto Riesgo: Aquella actividad deportiva que puede implicar un mayor peligro para la integridad física de la persona que lo practica, y que por ello requiere de una serie de conocimientos, protecciones y equipo especializado, que permitan desarrollar la actividad con seguridad;
+###### Artículo 7.
 
-XVII. Agrupación Deportiva: Conjunto de personas físicas o morales que cuenten o no con personalidad jurídica, conformadas con el propósito de practicar algún deporte;
+Los fines del Reglamento son los siguientes:
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+I. Contribuir a mejorar la calidad de vida de las personas y a consolidar el sistema democrático;
 
-XVII (SIC). Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
+II. Optimizar el nivel de participación comunitaria en la toma pública de decisiones;
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+III. Garantizar el principio democrático de publicidad de los actos del Gobierno Municipal;
 
-XVIII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
+IV. Proveer los elementos necesarios para que los peticionarios puedan tener acceso a la información en posesión de los Servidores Públicos, mediante procedimientos sencillos y expeditos;
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+V. Regular el comportamiento, atribuciones y responsabilidades de los Servidores Públicos en materia de transparencia y acceso a la información;
 
-XIX. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo;
+VI. Establecer los lineamientos en materia de transparencia y atención ciudadana para facilitar el acceso a la Información Pública, así como de las sanciones procedentes, en caso de incumplimiento de los mismos;
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+VII. Definir el procedimiento general para tener acceso a la Información Pública por parte del peticionario;
 
-XX. Comisión Estatal: La Comisión Estatal de Prevención de la Violencia en el Deporte;
+VIII. Hacer permanente la rendición de cuentas a los ciudadanos, así como facilitar la evaluación objetiva sobre el desempeño de la Administración Pública;
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+IX. Brindar los elementos necesarios a la ciudadanía para fomentar una participación informada, y;
 
-XXI. Comisión Especial Federal: La Comisión de Combate de la Violencia en el Deporte, prevista en la Ley General de Cultura Física y Deporte;
+X. Garantizar la confidencialidad de los datos personales aportados por los ciudadanos o en posesión de los Sujetos Obligados.
 
-XXII. Organismo Deportivo: Agrupación formada libremente por individuos o personas morales de los sectores público, privado o social, tales como:
+###### Artículo 8.
 
-a) Equipos y Clubes;
+El acceso a la información pública será permanente y gratuito. La expedición de documentos, grabaciones y reproducciones se sujetará, en su caso, al pago de los derechos que correspondan de acuerdo a la Ley de Ingresos vigente para el Municipio de Tijuana Baja California.
 
-b) Ligas;
+### CAPITULO SEGUNDO. De la Información Pública de Oficio
 
-c) Asociaciones Deportivas;
+###### Artículo 9.
 
-d) Uniones Deportivas;
+Salvo las excepciones que prevé este Reglamento, los Sujetos Obligados, deberán poner a disposición de la Unidad, para su publicación en los términos del siguiente artículo la siguiente información:
 
-e) Asociaciones u organismos de árbitros o jueces;
+I. Su estructura orgánica;
 
-f) Asociaciones u organismos de educadores físicos o entrenadores deportivos;
+II. Las facultades de cada unidad administrativa, dirección, teléfono y horario de atención al público;
 
-g) Asociaciones u organismos de profesionistas con especialidad en medicina deportiva;
+III. Directorio de Servidores Públicos de mandos medios y superiores, con referencia a su, nombramiento oficial, puesto funcional, categoría, dietas, sueldo, salarios y otras remuneraciones mensuales fijas, atribuciones, formación profesional, síntesis de experiencia laboral, así como ubicación y teléfono de oficina y fotografía;
 
-h) Asociaciones u organismos de profesionales en materia deportiva;
+IV. El nombre del titular de la Unidad, además de la dirección tanto física como electrónica donde podrán recibirse las solicitudes para obtener la información;
 
-i) Comités Municipales del Deporte;
+V. Las metas y objetivos anuales de las unidades administrativas de conformidad con sus programas operativos;
 
-j) Cuerpos Colegiados o Gubernamentales;
+VI. Los servicios que ofrecen, así como los ingresos que tengan derecho a percibir por dichos servicios, incluyendo las instancias ante las cuales se debe acudir para quejas;
 
-k) Consejos Estudiantiles;
+VII. Los trámites, requisitos, formatos vigentes y tiempos de respuesta;
 
-l) Consejos Ciudadanos, en lo conducente;
+VIII. La información sobre el presupuesto asignado, así como los informes sobre su ejecución, en los términos del presupuesto de Egresos del Municipio;
 
-m) Consejo Estatal del Deporte y Cultura Física;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-n) Registro Estatal del Deporte;
+IX. La información sobre la situación financiera y respecto a la deuda pública;
 
-o) Comité Antidopaje;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+X. Los documentos que consten en las cuentas públicas, empréstitos y deudas contraídas;
 
-p) Comisión Especial de Prevención de la Violencia en el Deporte;
+XI. Los resultados de las auditorías al ejercicio presupuestal de cada sujeto obligado que realicen, según corresponda, la Sindicatura Municipal, las Contralorías Internas o el Órgano Superior de Fiscalización del Congreso del Estado, y en su caso, las aclaraciones relativas;
 
-q) Comisión Estatal de Apelación y Arbitraje.
+XII. El diseño, ejecución, montos asignados y criterios de acceso a los programas de subsidio;
 
-XXII (SIC). Fondo: El Fondo para el Desarrollo del Deporte y la Cultura Física del Estado de Morelos;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-XXIII. Evento o Competencia Oficial: El avalado por el Instituto del Deporte y Cultura Física del Estado.
+XIII. La aplicación de fondos auxiliares especiales y el origen de los ingresos;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
+XIV. Relación pormenorizada de concesiones, procesos de licitación y contratación para la adquisición de bienes, arrendamientos y prestación de servicios, permisos, o cualquier otro tipo de autorizaciones que hayan sido otorgadas con anterioridad a la vigencia de este ordenamiento a particulares así como los que se lleguen a otorgar, para la prestación de servicios públicos tales como; almacenaje y venta de bebidas con graduación alcohólica, transporte público, arrastre y almacenamiento de vehículos especificando la fecha de expedición o acuerdo de Cabildo respectivo, duración de los mismos, nombres de los titulares de que se trate, así como las modalidades a las que se sujetan los titulares de estos;
 
-XXIV. Museo: Museo del Deporte y Cultura Física del Estado de Morelos, y
+XV. Los procesos de licitación y las contrataciones que se hayan celebrado en términos de la legislación aplicable detallando por cada contrato:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+a) Las obras públicas, los bienes adquiridos, arrendados y los servicios contratados; en el caso de estudios o investigaciones deberá señalarse el tema específico;
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+b) El monto;
 
-XXV. Patronato: Patronato del Museo del Deporte y Cultura Física del Estado de Morelos.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
 
-## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DEL DEPORTE Y CULTURA FÍSICA
+c) El nombre del proveedor, contratista o de la persona física o moral con quienes se haya celebrado el contrato;
 
-###### ARTÍCULO 7.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
 
-Se establece el Sistema Estatal del Deporte y Cultura Física, mismo que estará constituido por el conjunto de organismos públicos, privados y de individuos que se encuentran ordenadamente relacionados entre sí, y que contribuyen a planear, organizar, coordinar, fomentar, conservar, mejorar, difundir, promover, investigar, desarrollar, ejecutar, apoyar y aprovechar los recursos humanos, materiales y financieros para el adecuado ejercicio del derecho de todos los morelenses a la práctica del deporte y la cultura física en el ámbito de sus respectivas competencias, conforme a las acciones, instrumentos, procedimientos y programas aprobados para tales efectos.
+d) Los plazos de cumplimiento de los Contratos y sus garantías;
 
-###### ARTÍCULO 8.
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-Las principales funciones a desarrollar dentro del Sistema son:
+e) La justificación técnica y financiera;
 
-I. Proponer, formular y ejecutar políticas que fomenten y desarrollen el deporte y la cultura física a través del mismo;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-II. Establecer procedimientos de coordinación en materia deportiva con los Gobiernos Federal, Estatal y Municipal de la entidad, así como, con organismos y agrupaciones deportivas;
+f) Las modificaciones a las condiciones del contrato;
 
-III. Determinar las necesidades y requerimientos de equipamiento y organización para la práctica y desarrollo del deporte en todas sus modalidades, a fin de planificar y programar los medios para su satisfacción;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2006)</small>
 
-IV. Promover la conjunción de esfuerzos en materia deportiva entre los sectores público, privado y social;
+XVI. El padrón de proveedores;
 
-V. Formular el Programa Estratégico del Deporte y Cultura Física en el Estado de Morelos y llevar a cabo las acciones que se deriven del mismo;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2006)</small>
 
-VI. Propiciar la participación de las organizaciones, organismos deportivos y de los deportistas en la determinación y ejecución de las políticas a que se refiere la fracción I, estableciendo los procedimientos para ello;
+XVII. El padrón inmobiliario
 
-VII. Diseñar, establecer y operar estrategias para fomentar la práctica deportiva entre adultos mayores, personas con discapacidades, poblaciones indígenas o rurales, así como, en los organismos o sectores obrero-patronales, con la finalidad de contribuir a mejorar su desarrollo personal, e integración plena con la sociedad;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2006)</small>
 
-VIII. Establecer políticas y programas educativos dirigidos a niños y jóvenes para fomentar en ellos el hábito del deporte y la cultura física, enfatizando la atención en los sectores de la educación en sus niveles básico, medio, medio superior, y superior con sus respectivas modalidades, conforme a la Ley de Educación del Estado de Morelos;
+XVIII. Las actas de sesiones de Cabildo;
 
-IX. Formular programas a efecto de propiciar y promover la formación, capacitación, actualización y desarrollo profesional permanente de todo el personal técnico y administrativo del deporte en las diferentes disciplinas y de la cultura física;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-X. Proponer lineamientos para la promoción y difusión de campañas con el objeto de prevenir y combatir el uso de estimulantes, sustancias o métodos prohibidos y restringidos dentro de la práctica deportiva; y
+XIX. La lista de asistencia de los integrantes del Ayuntamiento, al pleno y a las comisiones;
 
-XI. Las demás que se determinen en la presente Ley y su reglamento.
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-### CAPÍTULO PRIMERO. DE LA ORGANIZACIÓN
+XX. Las iniciativas de Reglamentos o acuerdos, así como el estado que guarden;
 
-###### ARTÍCULO 9.
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-El Sistema y el Programa Estatal del Deporte y Cultura Física, se ajustarán a los lineamientos establecidos en el Sistema y el Programa Nacional del Deporte. Previo acuerdo de por medio, establecerán además, los mecanismos de coordinación para integrar en ellos las actividades que realicen otras instituciones relacionadas con el deporte.
+XXI. El sentido de votación de los miembros del Cabildo sobre las iniciativas o acuerdos;
 
-###### ARTÍCULO 10.
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-Son integrantes del Sistema Estatal del Deporte y Cultura Física:
+XXII. Procedimientos de responsabilidad administrativa una vez que hayan causado estado, con base a lo que establecen la Ley de Responsabilidad de los servidores Públicos, la Ley de Fiscalización Superior y demás Leyes Estatales;
 
-I. Deportista;
+XXIII. Los programas anuales de obras señalando comunidades beneficiadas;
 
-II. Agrupaciones deportivas;
+XXIV. Los informes acerca del estado que guarda el gobierno y la administración pública municipal, rendidos al Ayuntamiento, previstos en la Constitución Política del Estado Libre y Soberano de Baja California;
 
-III. Organismos deportivos;
+XXV. Datos referentes al desarrollo de obras para brindar los servicios públicos a cargo del Ayuntamiento;
 
-IV. El Consejo Estatal del Deporte y Cultura Física;
+XXVI. Información en materia de protección civil, los planes de desarrollo urbano, ordenamientos ecológicos y uso de la vía pública;
 
-V. El Instituto del Deporte y Cultura Física del Estado de Morelos;
+XXVII. Plan de Desarrollo Municipal; reservas territoriales y ecológicas; participaciones federales y todos los recursos que integran su hacienda, cuotas y tarifas aplicables a impuestos, derechos, aportaciones de mejoras y tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-VI. El Registro Estatal del Deporte;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2006)</small>
 
-VII. El Comité Antidopaje; y
+XXVIII. La información relativa a las actividades culturales, deportivas y; recreativas a realizar;
 
-VIII. La Comisión de Apelación y Arbitraje del Deporte.
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXIX. El informe anual de la Comisión de Transparencia Municipal en los términos del artículo 32 del presente Reglamento;
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+XXX. Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base a la información estadística, responda a las preguntas hechas con más frecuencia por el público;
 
-IX. El Museo del Deporte y Cultura Física del Estado de Morelos
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+XXXI. Leyes, reglamentos, decretos, convenios, circulares y demás normas que resulten aplicables;
 
-X.- Comisión Especial de Prevención de la Violencia en el Deporte, y
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXXII. Los informes que por disposición legal generen los sujetos obligados;
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
 
-XI. El Patronato del Museo del Deporte y Cultura Física del Estado de Morelos.
+XXXIII. Mecanismos y formas de participación ciudadana, y
 
-###### ARTÍCULO 11.
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
 
-Son también integrantes del Sistema, los deportistas profesionales del Estado de Morelos que conforme a la reglamentación deportiva internacional, sean susceptibles de ostentar la representación Estatal o Nacional.
+XXXIV. Cualquier información que sea de utilidad o se considere relevante, además de la que con base a la información estadística, responda a las preguntas hechas con más frecuencia por el público. (sic)
 
-### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL SISTEMA ESTATAL DEL DEPORTE Y CULTURA FÍSICA
+La información a que se refiere este artículo deberá invariablemente estar en idioma español de tal forma que facilite su uso y comprensión por los ciudadanos y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad. Las Dependencias y Entidades deberán atender las recomendaciones que al respecto expida la Comisión.
 
-###### ARTÍCULO 12.
+###### Artículo 10.
 
-Podrán pertenecer al Sistema, los organismos que constituyan agrupaciones de individuos que tengan por objeto el desarrollo de actividades vinculadas al deporte y la cultura física, aún cuando su fin no implique necesariamente la competición deportiva.
+La información a que se refiere el artículo 9 deberá estar a disposición de los ciudadanos, a través de medios remotos o locales de comunicación electrónica; para ello, el Gobierno Municipal deberá tener a disposición de los ciudadanos equipo de cómputo, a fin de que éstos puedan tener la información de manera directa. Asimismo, se podrá publicar información en la Gaceta Municipal y la Tabla de avisos del Ayuntamiento. La Unidad deberá proporcionar apoyo a los usuarios que lo requieran y proveer todo tipo de asistencia.
 
-###### ARTÍCULO 13.
+Los Sujetos. Obligados deberán preparar la automatización, presentación y contenido de su información, así como su integración en línea, en los términos que dispongan las recomendaciones que al respecto expida la Comisión.
 
-Los deportistas, las organizaciones y agrupaciones deportivas contarán con un sistema de atención médica especializada que será proporcionada a través de las instituciones públicas de salud de la entidad, cuando el deportista se lesione en competencia o evento oficial.
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2006)</small>
 
-###### ARTÍCULO 14.
+Es responsable de los sujetos obligados (sic) mantener actualizada la información a que se refiere el artículo 9 y deberán revisarla por lo menos cada 3 meses para verificar su actualidad.
 
-Los deportistas, agrupaciones y organismos deportivos para integrarse al Sistema y gozar de los estímulos y apoyos de la Ley, deberán solicitar su registro y obtener su inscripción en el Registro Estatal del Deporte.
+###### Artículo 11.
 
-###### ARTÍCULO 15.
+Los Sujetos Obligados conforme a este Reglamento, deberán hacer pública toda aquella información relativa a los montos y las personas a quienes entreguen, por cualquier motivo, recursos públicos, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos.
 
-Se crea el Consejo Consultivo Estatal del Deporte y Cultura Física como un órgano de consulta, propuesta y vigilancia de las políticas, acciones y programas implementados, conforme a la presente Ley y su Reglamento.
+### CAPITULO TERCERO. De la Información Pública Reservada y Confidencial
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2013)</small>
+###### Artículo 12.
 
-###### ARTÍCULO 16.
+Para los efectos de este Reglamento, se considera información reservada, la clasificada como tal, de manera temporal, mediante acuerdo fundado y motivado por los Servidores Públicos correspondientes, con base en los criterios y lineamientos establecidos por el Comité de acuerdo a este Reglamento, cuando:
 
-El Consejo se integrará por:
+I. Comprometa la seguridad pública del Municipio;
 
-a) El titular del Ejecutivo Estatal, quien lo presidirá;
+II. Dañe la estabilidad financiera, económica o monetaria del Municipio;
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2020)</small>
+III. Ponga en riesgo la vida, la salud o la seguridad de cualquier persona;
 
-b) El Titular de la Secretaría de Educación;
+IV. Cause un serio perjuicio a las actividades de verificación del cumplimiento de las leyes y reglamentos, prevención o persecución de los delitos, impartición de la justicia, las medidas tomadas para el combate a la corrupción, la recaudación de las contribuciones, las estrategias procesales en procesos judiciales o administrativos mientras las resoluciones no hayan causado estado;
 
-c) El Secretario de salud;
+V. Por disposición expresa de la Ley, tratados o reglamentos sea considerada reservada;
 
-d) El Director del Instituto del Deporte y Cultura Física del Estado, quien fungirá como Secretario Técnico;
+VI. Se trate de secretos de propiedad intelectual, comercial, industrial, fiscal, bancario, fiduciario u otro considerado como tal por una disposición legal;
 
-e) Un representante de la Comisión del Deporte del Congreso del Estado;
+VII. Se trate de averiguaciones previas;
 
-f) El Director del Instituto Morelense de la Juventud;
+VIII. Se trate de procedimientos administrativos seguidos en forma de juicio en tanto no hayan causado estado;
 
-g) Once Coordinadores Municipales del Deporte, designados por el Instituto de Desarrollo y Fortalecimiento Municipal de Morelos;
+IX. Se trate de los procedimientos de responsabilidad de los servidores públicos, en tanto no se haya dictado la resolución administrativa o la jurisdiccional definitiva;
 
-h) Un representante de las Agrupaciones y Organismos Deportivos, inscritos en el Registro Estatal del Deporte, designados en asamblea, de cada una de las siguientes disciplinas: Deporte de Combate; Deporte de Conjunto; Deporte Adaptado; Deporte Acuático; Deporte individual y Deporte extremo o de Alto Riesgo.
+X. Contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto no sea adoptada la decisión definitiva, la cual deberá estar documentada;
 
-i) Un representante del Consejo Coordinador Empresarial del Estado;
+XI. Se trate de información referente a las posturas, ofertas, propuestas o presupuestos generados con motivo de los concursos o licitaciones en proceso y que las autoridades lleven a cabo para adquirir, enajenar, arrendar o contratar bienes o servicios municipales. Una vez adjudicados los contratos, dicha información perderá el carácter de reservada;
 
-j) Un representante de los trabajadores, acreditado ante la Junta de Conciliación y Arbitraje del Estado; y
+XII. El daño que pueda producirse en la publicación de la información sea mayor que el interés publico de conocer la información de referencia.
 
-k) Los representantes en el Estado del Consejo Nacional del Deporte Estudiantil de la Educación Básica, Media Superior y Superior.
+Cuando concluya el período de reserva o las causas que hayan dado origen a la reserva de la información a que se refiere este artículo, dicha información podrá ser pública, protegiendo la información confidencial que en ella se contenga.
 
-###### ARTÍCULO 17.
+No será reservada la información contenida en los informes contables y financieros de la Tesorería Municipal. Las autoridades tendrán la obligación de proporcionar a los particulares, en los términos de este Reglamento, los resultados de las auditorías y revisiones practicadas por la Sindicatura Municipal, o de cualquier empresa contratada por el H. Ayuntamiento.
 
-El Consejo durará en su encargo seis años a partir de que inicie la administración estatal, se reunirá en sesión ordinaria cuando menos una vez cada tres meses y en sesión extraordinaria cuantas veces sea necesario con la asistencia de la mayoría de sus integrantes. Todos los integrantes del Consejo tendrán derecho a voz y voto respecto de los asuntos que se traten, los acuerdos se tomarán por mayoría de votos; en caso de empate, el presidente tendrá voto de calidad. El cargo de consejero será honorífico.
+No podrá invocarse el carácter de reservado cuando se trate de la investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad.
 
-El Consejo, cuando así lo considere, podrá invitar a sus sesiones, a titulares de las dependencias y entidades de la administración pública federal, estatal y municipal, que no se encuentren considerados como integrantes permanentes, así como, a otras personas que se hayan distinguido en actividades deportivas y de educación o cultura física, quienes tendrán voz, pero no voto.
+###### Artículo 13.
 
-###### ARTÍCULO 18.
+El acuerdo que clasifique la información como reservada deberá contener un razonamiento lógico en el que se demuestre cualquiera de los supuestos siguientes:
 
-Las atribuciones del Consejo serán emitir propuestas sobre políticas, proyectos, programas y acciones, en materia del deporte y cultura física, así como, su vigilancia y, las que se establezcan en la presente ley, su reglamento y el reglamento interior del Instituto.
+I. Que la información encuadre en alguna de las hipótesis de excepción previstas en el Reglamento; o
 
-### CAPÍTULO TERCERO. DEL CONSEJO CONSULTIVO ESTATAL DEL DEPORTE Y CULTURA FÍSICA
+II. Que la liberación de la información de referencia pueda afectar el interés público.
 
-###### ARTÍCULO 19.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2006)</small>
 
-El Consejo procurará que en los eventos deportivos que se desarrollen conforme al Programa Estratégico del Sistema, se evite la publicidad y venta de productos nocivos para la salud.
+###### Artículo 14.
 
-###### ARTÍCULO 20.
+La información clasificada como reservada según el artículo 12 de este Reglamento, podrá permanecer con tal carácter hasta por un período de cinco años, contados a partir de su clasificación. Esta información podrá ser desclasificada cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el período de reserva.
 
-Independientemente del pago de la licencia respectiva de quienes realicen la venta de alimentos, bebidas, productos, publicidad y otros, en eventos deportivos, podrán realizar una aportación adicional por esta comercialización; dicho ingreso será destinado al Fondo, para aplicarlo en beneficio de las instalaciones deportivas del Estado o del Municipio que otorgó la licencia correspondiente.
+La disponibilidad de esa información será sin perjuicio de lo que, al respecto, establezcan otras leyes o Reglamentos. El Comité establecerá los criterios y lineamientos para la clasificación y desclasificación de la información reservada.
 
-En caso de que la autoridad estatal o municipal dé en arrendamiento instalaciones deportivas para fines de lucro, procurará destinar al Fondo una aportación adicional, para los efectos establecidos en el párrafo anterior; así mismo, se fijará una fianza que garantice la reparación de los desperfectos que pudieran ocasionarse en las instalaciones deportivas; la autoridad correspondiente informará y acreditará en su cuenta pública el destino de los recursos captados.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
 
-La autoridad correspondiente, deberá de remitir el ingreso percibido al Fondo dentro de los 45 días posteriores a la fecha en que se realizó la aportación.
+Excepcionalmente, los Sujetos Obligados podrán solicitar al Comité, la ampliación del período de reserva por otro período máximo de tres años, siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación.
 
-###### ARTÍCULO 21.
+###### Artículo 15.
 
-El Registro Estatal del Deporte forma parte del Sistema y es responsabilidad del Instituto implementarlo y actualizarlo conforme a sus facultades; comprenderá las inscripciones relativas a los programas, eventos, deportistas, jueces, árbitros, técnicos, instructores, entrenadores, guías e instructores en deportes extremos o de alto riesgo, organizaciones y agrupaciones deportivas, así como, el censo e inventario de las instalaciones para la práctica del deporte y los eventos deportivos en la entidad y las demás que determine el Reglamento de esta Ley.
+Los Integrantes del Ayuntamiento, Titulares de las Dependencias, y Entidades serán responsables de clasificar la información de conformidad con los criterios establecidos en este ordenamiento y los lineamientos expedidos por el Comité.
 
-El Instituto organizará y desarrollará un sistema de información derivado del Registro, con el objeto de generar, procesar y obtener la información necesaria para la planeación y evaluación de las actividades e infraestructura deportiva. Los integrantes del Sistema, deberán proporcionar al Instituto la información que les requiera.
+###### Artículo 16.
 
-###### ARTÍCULO 22.
+Los Sujetos Obligados elaborarán semestralmente y por rubros temáticos, un índice de los expedientes clasificados como reservados; dicho índice deberá indicar la Dependencia o Entidad que generó la información, la fecha de clasificación, su fundamento, el plazo de reserva y, en su caso, las partes de los documentos que se reservan; en ningún caso el índice será considerado como información reservada.
 
-La inscripción en el Registro Estatal del Deporte podrá ser individual o colectiva, gratuita y es condición indispensable para integrarse y tener derecho a ser considerado para obtener los estímulos y apoyos que otorga el Sistema. Quedan exceptuados de recibir los estímulos o apoyos económicos, las personas físicas o morales que con fines lucrativos se dediquen a la explotación de actividades deportivas en cualquiera de sus expresiones o modalidades; sin embargo, para la obtención de la correspondiente licencia de funcionamiento municipal, es obligatoria su inscripción en el Registro.
+Asimismo deberán adoptar las medidas necesarias para asegurar la custodia y conservación de los expedientes clasificados.
 
-###### ARTÍCULO 23.
+En todo momento, el Comité tendrá acceso a la información reservada o confidencial para determinar su debida clasificación o la procedencia de otorgar su acceso.
 
-La inscripción será registrada en un libro debidamente foliado y en el sistema de cómputo que para tal efecto se diseñe; la autoridad expedirá la Credencial Única del Deporte, la cual contendrá entre otros datos, número de folio, así mismo, en su caso, se expedirá Constancia de Inscripción a los organismos o agrupaciones deportivas.
+###### Artículo 17.
 
-###### ARTÍCULO 24.
+Como Información Confidencial se considerará:
 
-Los derechos de los integrantes del Sistema son:
+I. La entregada con tal carácter por los particulares a los Sujetos Obligados, de conformidad con lo establecido en el artículo 18 de este Reglamento; y
 
-I. Participar en el deporte o deportes de su elección;
+II. Los datos personales que requieran el consentimiento de los individuos para su difusión, distribución o comercialización en los términos de este Reglamento.
 
-II. Asociarse para la práctica del deporte y en su caso, para la defensa de los derechos que ampara la presente Ley;
+No se considerará confidencial la información que se halle en los registros públicos o en fuentes de acceso público.
 
-III. Utilizar las instalaciones deportivas del Sistema de acuerdo con la normatividad establecida;
+###### Artículo 18.
 
-IV. Recibir asistencia y entrenamiento deportivo, así como servicios médicos adecuados en competencias oficiales;
+Cuando los particulares o usuarios entreguen a los Sujetos Obligados la información a que se refiere la fracción I del artículo anterior, deberán señalar los documentos que contengan información confidencial, reservada o comercial reservada, siempre que tengan el derecho de reservarse la información, de conformidad con las disposiciones aplicables. En el caso de que exista una solicitud de acceso que incluya información confidencial, los sujetos obligados la comunicarán siempre y cuando medie el consentimiento expreso del particular titular de la información confidencial.
 
-V. Participar en eventos deportivos reglamentarios u oficiales, avalados por el Sistema;
+### CAPITULO CUARTO. Protección de Datos Personales
 
-VI. Desempeñar cargos directivos dentro del Sistema y en su caso participar en la elección de éstos en la rama o especialización deportiva que le corresponda;
+###### Artículo 19.
 
-VII. Recibir toda clase de estímulos en apoyos, becas, premios, reconocimientos y recompensas en dinero o especie, en los términos de la presente Ley;
+En respeto al derecho de Habeas Data, los Sujetos Obligados serán responsables de los datos personales descritos en la fracción I del artículo 6 de este Reglamento y, en relación con estos deberán:
 
-VIII. Recibir apoyo logístico en las competencias que se desarrollen bajo los lineamientos del Sistema, informando oportunamente a la institución respectiva la cual lo brindará según sus posibilidades;
+I. Adoptar los procedimientos adecuados para recibir y responder las solicitudes de acceso y corrección de datos, así como capacitar a los servidores públicos y dar a conocer información sobre sus políticas en relación con la protección de tales datos, de conformidad con los lineamientos que al respecto establezca el Comité;
 
-IX. Ser registrado y recibir la acreditación correspondiente como deportista o integrante de alguna agrupación u organismo deportivo;
+II. Tratar datos personales sólo cuando éstos sean adecuados, pertinentes y no excesivos en relación con los propósitos para los cuales se hayan obtenido;
 
-X. Participar en las campañas para prevenir y combatir el uso de estimulantes, sustancias o métodos prohibidos y restringidos en el deporte;
+III. Poner a disposición, a partir del momento en el cual se recaben datos personales, el documento en el que se establezcan los propósitos para su tratamiento, en términos de los lineamientos que establezca el Comité. Asimismo procurar que los datos personales a los que se refiere la fracción I del artículo 6 de este Reglamento, sean exactos y actualizados;
 
-XI. Representar al País, al Estado, Municipio, localidad, asociación u organización deportiva en competiciones oficiales si fuere seleccionado para ello, conforme a la reglamentación correspondiente;
+IV. De oficio, sustituir, rectificar o completar, los datos personales que fueren inexactos, ya sea total o parcialmente, o incompletos, en el momento en que tengan conocimiento de esta situación, y;
 
-(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO PUBLICADO EL 4 DE JULIO DE 2007, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+V. Adoptar las medidas necesarias que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado.
 
-XII. Igualdad de oportunidades dentro de los Programas y Acciones en materia de Deporte y Cultura Física que se implementen en el Estado, sin distinción de origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, orientación sexual o estado civil.
+###### Artículo 20.
 
-XIII. Elaborar, entregar y registrar ante el Instituto, los programas de actividades oficiales anuales, dentro de los meses de septiembre y octubre de cada año; y
+Los Sujetos Obligados no podrán difundir, distribuir o comercializar los datos personales contenidos en los sistemas de información, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso, de manera indubitable, de las personas a que haga referencia la información.
 
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XIII, PERO DEL ANÁLISIS A LA PUBLICACIÓN 20 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XIV.</small>
+###### Artículo 21.
 
-XIV. Las demás que le otorgue la presente ley u otros ordenamientos.
+No se requerirá el consentimiento de los particulares o usuarios para poder proporcionar los datos personales en los siguientes casos:
 
-### CAPÍTULO CUARTO. DEL REGISTRO ESTATAL DEL DEPORTE
+I. Los necesarios para la prevención o el diagnóstico médico, la prestación de asistencia médica o la gestión de servicios de salud y no pueda recabarse su autorización;
 
-###### ARTÍCULO 25.
+II. Los necesarios por razones estadísticas, científicas o de interés general previstas en la Ley, previo procedimiento por el cual no puedan asociarse los datos personales con el individuo a que se refieran;
 
-Son obligaciones de los integrantes del Sistema:
+III. Cuando se transmitan entre sujetos obligados, siempre y cuando los datos se utilicen para el ejercicio de facultades propias de los mismos;
 
-I. Cumplir con los estatutos y reglamentos del deporte, especialidad o actividad que practiquen;
+IV. Cuando exista una orden judicial;
 
-II. Respetar los lineamientos del Sistema y del Programa Estratégico del Deporte del Estado de Morelos;
+V. A terceros cuando se contrate la prestación de un servicio que requiera el tratamiento de datos personales. Dichos terceros no podrán utilizar los datos personales para propósitos distintos a aquellos para los cuales se les hubieren transmitido; y,
 
-III. Cuidar y vigilar que la infraestructura deportiva utilizada en sus prácticas se conserve en buen estado, conforme a lo establecido en las disposiciones normativas aplicables;
+VI. En los demás casos que establezcan las Leyes y Reglamentos.
 
-IV. Informar a la institución competente sobre el uso de los apoyos materiales o financieros recibidos, de conformidad con los ordenamientos en la materia;
+###### Artículo 22.
 
-V. Fomentar la participación organizada de la sociedad a través del deporte;
+Los Sujetos Obligados que posean, por cualquier título, sistemas de datos personales, deberán hacerlo del conocimiento del Comité, quien mantendrá un listado actualizado de los sistemas de datos personales.
 
-VI. Participar en el desarrollo de la cultura física y del deporte conforme a lo dispuesto en la presente Ley;
+###### Artículo 23.
 
-VII. Asistir a competencias cuando hayan sido seleccionados para tal efecto, estando comprendidos entre quienes reciban apoyos o estímulos de becas, en dinero o en especie por parte del Estado o Municipios; o en su caso, haber competido con ese objeto, representando dignamente a su club, asociación, organización, localidad, municipio, al Estado o al País;
+Sin perjuicio de lo que dispongan otros ordenamientos legales, sólo los interesados o sus representantes podrán solicitar a la Unidad previa acreditación, que les proporcione los datos personales que obren en un sistema de datos personales. Aquélla deberá entregarle, en un plazo de diez días hábiles contados desde la presentación de la solicitud, en formato comprensible para el solicitante, la información correspondiente, o bien, le comunicará por escrito que ese sistema de datos personales no contiene los referidos al solicitante.
 
-VIII. Coadyuvar y en su caso cooperar en los muestreos que se deban realizar para detectar posibles casos de uso de sustancias prohibidas o restringidas en la práctica del deporte;
+La entrega de los datos personales únicamente causará el pago de los derechos que corresponda de acuerdo a la Ley de Ingresos vigente para el Municipio de Tijuana.
 
-IX. Fomentar la práctica del deporte y el juego limpio entre sus compañeros y la sociedad en general;
+En caso de que los datos proporcionados sean incorrectos, dichas personas podrán solicitar, previa acreditación, ante la Unidad, que modifiquen los datos que obren en cualquier sistema de datos personales. Con tal propósito el interesado deberá entregar una solicitud de modificaciones a la Unidad, que señale el sistema de datos personales, indique las modificaciones por realizarse y aporte la documentación que motive su petición. Aquella deberá entregar al solicitante, en un plazo de treinta días hábiles desde la presentación de la solicitud, un comunicado que haga constar las modificaciones, o bien, le informe de manera fundada y motivada las razones por las cuales no procedieron las modificaciones.
 
-X. Conducir su actividad deportiva con honorabilidad y educación dentro y fuera de las instalaciones deportivas, a fin de poder ser un ejemplo para la niñez, juventud y la sociedad morelense;
+La representación de personas físicas se acreditará con carta poder; para personas morales a través de instrumento público.
 
-XI. Respetar dentro y fuera de las instalaciones deportivas, a sus compañeros, adversarios, público, árbitros, comité organizador y cuerpo técnico;
+###### Artículo 24.
 
-XII. Elaborar, entregar y registrar ante el Instituto, los programas de actividades oficiales anuales, dentro de los meses de septiembre y octubre de cada año, para tener derecho a los beneficios establecidos en la presente Ley; y
+Contra la negativa de entregar o corregir datos personales, procederá la interposición del recurso de reconsideración previsto en el Reglamento de Justicia para el Municipio de Tijuana, Baja California.
 
-XIII. Las demás que les confieran las disposiciones normativas aplicables y esta Ley.
+### CAPITULO QUINTO. De la Comisión de Transparencia Municipal
 
-## TÍTULO TERCERO
+###### Artículo 25.
 
-###### ARTÍCULO 26.
+La Comisión de Transparencia Municipal es un órgano ciudadano, auxiliar del Gobierno Municipal, con atribuciones de vigilancia, consulta y propuesta para el logro de los objetivos establecidos en el presente ordenamiento.
 
-El Instituto del Deporte y Cultura Física del Estado de Morelos es un Organismo Público Descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, Sectorizado a la Secretaría de Educación, con residencia en la ciudad de Cuernavaca, Morelos.
+La Comisión tendrá por objeto la difusión, protección y promoción al respeto del derecho al acceso de la Información Pública en poder de las dependencias y entidades municipales.
 
-###### ARTÍCULO 27.
+###### Artículo 26.
 
-El Instituto del Deporte y Cultura Física del Estado de Morelos, tendrá por objeto la promoción, planeación, organización, coordinación, fomento, desarrollo, implementación, ejecución y evaluación del deporte en todas sus disciplinas y niveles.
+Para el ejercicio de sus atribuciones, la Comisión tendrá acceso a la información pública que se genere en el ámbito de la Administración Pública Municipal. Los Sujetos Obligados, deberán proporcionar la información que le requiera, la Comisión en los términos del presente Reglamento.
 
-###### ARTÍCULO 28.
+###### Artículo 27.
 
-El Instituto tendrá las siguientes facultades:
+La Comisión se constituirá con cinco representantes de los siguientes Sectores:
 
-I. Elaborar y llevar a cabo los programas de fomento y desarrollo del deporte y la cultura física;
+I. Empresarial;
 
-II. Apoyar la coordinación de las actividades que realicen las distintas dependencias y entidades federales, estatales y municipales, así como, las entidades del sector social y los particulares, con sujeción a las disposiciones normativas aplicables, convenios y acuerdos de coordinación;
+II. De Educación Superior;
 
-III. Crear, administrar y operar establecimientos e instalaciones y equipamiento destinado al deporte, que sean de su competencia;
+III. Organismos Colegiados de Profesionistas registrados ante la Dirección de Profesiones del Estado;
 
-IV. Proponer y gestionar la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas al deporte en sus diferentes disciplinas;
+IV. Cámara de la Industria de Radio y Televisión, Periódicos locales, Agrupaciones de Comunicadores; y
 
-V. Proporcionar en su caso, apoyo financiero, técnico y material a las organizaciones de deportistas dentro de esquemas de autogestión;
+V. Organismos no Gubernamentales registrados ante Desarrollo Social Municipal.
 
-VI. Proporcionar conforme a las disposiciones presupuestales, asistencia para la organización y funcionamiento de agrupaciones de deportistas en las escuelas, con la intervención que corresponda a las autoridades educativas;
+Para el desempeño de sus atribuciones, la Comisión contará con cinco Subcomités Sectoriales integrados, conforme a su naturaleza.
 
-VII. Otorgar reconocimientos a deportistas de alta calidad y mérito que se hayan distinguido en el desarrollo de alguna actividad deportiva;
+Los Subcomités a que se refiere el párrafo anterior, una vez constituidos, designarán por mayoría de votos de sus miembros una terna para presentarla al Cabildo.
 
-VIII. Otorgar los estímulos a deportistas cuando reúnan los requisitos que, con tal fin, se establezcan;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
 
-IX. Promover investigaciones y publicaciones respecto a las distintas ramas y disciplinas deportivas, particularmente la medicina deportiva;
+A los ciudadanos integrantes de la Comisión se les denominará Comisionados, su cargo será honorífico, durarán en su desempeño por el término de dos año, con posibilidad de reelección por un periodo igual y serán nombrados por el Cabildo de entre las ternas que le presenten los Subcomités.
 
-X. Fomentar la capacitación y el mejoramiento de los deportistas, así como la formación, capacitación, actualización y superación profesional de profesores, instructores, entrenadores y técnicos;
+La Comisión funcionará como órgano colegiado y sus decisiones se tomarán por consenso.
 
-XI. Estimular la participación ciudadana en la elaboración y ejecución de los programas, y en la realización de eventos deportivos, así como, en la construcción, conservación, operación y funcionamiento de las instalaciones;
+###### Artículo 28.
 
-XII. Cooperar en los programas de salud, cultura, recreación y educación, que lleven a cabo otras dependencias, entidades, organizaciones sociales y privadas, así como los particulares;
+Los Comisionados podrán ser removidos de sus cargos, a propuesta del Subcomité Sectorial respectivo o por acuerdo de las dos terceras partes de los integrantes del Cabildo, cuando transgredan en forma grave o reiterada las disposiciones contenidas en este ordenamiento o hayan sido condenados por algún delito doloso, que merezca pena corporal, mediante sentencia que haya causado ejecutoria.
 
-XIII. Fomentar y ordenar a las asociaciones, sociedades, grupos, clubes y otras formas de organización ciudadana estatales y municipales que actúen en el campo del deporte, que se constituyan conforme a las disposiciones de la presente Ley;
+###### Artículo 29.
 
-XIV. Colaborar con la Comisión Nacional de Cultura Física y Deporte en la ejecución del Programa Nacional de la Materia;
+A efecto de ser el vínculo directo con el Gobierno Municipal, el Síndico Procurador fungirá como Secretario Técnico de la Comisión, contará con voz pero no voto, será el responsable de convocar a los trabajos de los Subcomités y la Comisión, dar seguimiento a los acuerdos de la misma, recabar información proporcionar los apoyos necesarios para la realización del objeto de la Comisión. El Secretario Técnico podrá designar representante para que lo supla en sus ausencias.
 
-XV. Promover en coordinación con las organizaciones o asociaciones de los sectores social y privado, la práctica del deporte de sus integrantes;
+###### Artículo 30.
 
-XVI. Apoyar material y financieramente a las asociaciones u organizaciones estatales deportivas, reconocidas por las autoridades competentes y con base en los programas anuales de actividades que aquellas presenten; sujetándose siempre a la capacidad presupuestal del Instituto;
+Para ser comisionado se requiere:
 
-XVII. Fomentar la práctica del deporte entre el personal de las diversas dependencias de los tres niveles de Gobierno y la sociedad en general;
+I. Ser ciudadano mexicano y residir en el municipio de Tijuana;
 
-XVIII. Fomentar la práctica del deporte en los organismos de los sectores obrero-patronales;
+II. Tener por lo menos veinticinco años de edad al día de su designación;
 
-XIX. Registrar a los deportistas, jueces, árbitros, técnicos, instructores, entrenadores, guías e instructores en deportes extremos o de alto riesgo, organizaciones y asociaciones deportivas, así como, el censo e inventario de las instalaciones para la práctica del deporte y los eventos deportivos, y los programas anuales que presenten los integrantes del sistema;
+III. No haber sido condenado por la comisión de algún delito doloso o que merezca pena corporal;
 
-XX. Difundir en los medios masivos de comunicación las políticas, programas y acciones implementadas en materia del deporte y la cultura física;
+IV. Haberse desempeñado destacadamente en actividades comunitarias;
 
-XXI. Administrar y aplicar el Fondo para el Desarrollo del Deporte y la Cultura Física, del Estado de Morelos, conforme a los lineamientos que se establezcan en la reglamentación de esta Ley;
+V. No tener cargo alguno en la administración pública, ni haber sido Servidor Público durante el año previo al día de su designación;
 
-XXII. Concertar las acciones necesarias con la Secretaría de Salud, a efecto de otorgar los servicios médicos y hospitalarios en las competiciones oficiales a que convoque;
+VI. No haber sido inhabilitado para el ejercicio del servicio público;
 
-XXIII. Avalar los eventos o competiciones oficiales que se encuentren contemplados en el programa estatal y los municipales aprobados por las autoridades competentes;
+VII. Desempeñar actividades laborales de acuerdo a la vocación del sector que represente y ser propuesto por alguno de los Subcomités a que se refiere el artículo 27 del presente Reglamento.
 
-XXIV. Apoyar, asesorar y dar las directrices mínimas a los ayuntamientos del estado que así lo soliciten en la elaboración de sus programas del Deporte y Cultura Física; y
+###### Artículo 31.
 
-> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2022)</small>
+La Comisión tendrá las siguientes atribuciones:
 
-XXV. Fomentar el desarrollo de las y los deportistas de alto rendimiento en el estado, creando y ejecutando políticas públicas de impacto, las cuales orienten el fomento, el desarrollo y empoderamiento de las y los deportistas morelenses para que representen a Morelos en competencias oficiales nacionales e internacionales.
+I. Vigilar el cumplimiento del presente Reglamento;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2024)</small>
+II. Proponer al Ayuntamiento por conducto del Presidente Municipal las normas de carácter obligatorio en materia de acceso a la Información Pública para las dependencias y entidades de la Administración Pública;
 
-XXVI. Fomentar la integración e implementación de programas, protocolos y lineamientos que permitan la prevención y atención de actos constitutivos de violencia, acoso y hostigamiento sexual que involucren a las y los deportistas, además de promover acciones y mecanismos de denuncia para la erradicación de estas prácticas;
+III. Proponer al Ayuntamiento por conducto del Presidente Municipal las disposiciones de observancia general para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de los Sujetos Obligados;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2024)</small>
+IV. Emitir opinión respecto de la revisión y aplicación de los criterios de clasificación, catalogación y custodia de la Información Pública, en términos de este Reglamento;
 
-XXVII. Promover la participación de las mujeres en el deporte y la actividad física, así como implementar protocolos que garanticen el libre desarrollo de las mujeres en el deporte; y
+V. Coadyuvar en la elaboración y aplicación de los criterios para la conservación y archivo de la Información Pública;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXVI], P.O. 15 DE MAYO DE 2024)</small>
+VI. Coadyuvar en la elaboración de los formatos de solicitudes de acceso a la información, así como los de acceso y corrección de datos personales;
 
-XXVIII. Las demás que sean afines a las anteriores y contribuyan a la realización del objeto del Instituto.
+VII. Presentar ante la Sindicatura Municipal, denuncias respecto del presunto incumplimiento al presente Reglamento;
 
-###### ARTÍCULO 29.
+VIII. Solicitar por conducto del Secretario Técnico a los Sujetos Obligados los datos necesarios, incluidas las consultas verbales atendidas, para la integración de su informe anual;
 
-El patrimonio del Instituto, estará constituido por:
+IX. Promover programas de asesoría y apoyo técnico a los Sujetos Obligados para la elaboración y ejecución de programas de información, así como los enfocados a brindar apoyo en el cumplimiento de las obligaciones que les impone el presente Reglamento;
 
-I. La partida presupuestal que se le asigne en el Presupuesto de Egresos respectivo;
+X. Difundir entre los Servidores Públicos y los particulares, los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de aquélla;
 
-II. Los bienes muebles e inmuebles que le destinen o adquiera para su servicio;
+XI. Realizar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia del presente Reglamento, y
 
-III. Los ingresos propios que genere;
+XII. Formular recomendaciones genéricas a los Sujetos Obligados, en las materias del Reglamento;
 
-IV. Los créditos que el propio Instituto del Deporte y Cultura Física obtenga para el cumplimiento de sus fines;
+XIII. Concertar y proponer al Ayuntamiento por conducto del Presidente Municipal, la celebración de acuerdos o programas con el Instituto Federal de Acceso a la Información Pública y sus similares municipales;
 
-V. Las donaciones, herencias, legados y demás aportaciones que en su favor se realicen, y
+XIV. Proponer al Ayuntamiento por conducto del Presidente Municipal, modificaciones o reformas a la normatividad de la materia;
 
-VI. Otros recursos, bienes y derechos que adquiera o reciba por cualquier título legal.
+XV. Someter a consideración del Cabildo por conducto del Presidente Municipal su reglamento interior; y
 
-###### ARTÍCULO 30.
+XVI. Las demás que le confiera el presente Reglamento, los Acuerdos de Cabildo y las disposiciones jurídicas aplicables.
 
-El Instituto contará para el cumplimiento de sus atribuciones con:
+###### Artículo 32.
 
-I. Una Junta de Gobierno;
+La Comisión presentara anualmente al H. Ayuntamiento un informe público sobre el estado que guarda el cumplimiento a la obligación de proporcionar información a los ciudadanos, mismo que será difundido por los medios electrónicos e impresos de comunicación, el informe deberá incluir:
 
-II. Un Director General; y
+I. El número de solicitudes de acceso a la información y su resultado;
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+II. Tiempos de respuesta;
 
-III. Un órgano de vigilancia; y
+III. Asuntos atendidos por la Unidad;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+IV. El estado que guardan las denuncias presentadas ante la dependencia competente, que se susciten en el ámbito de competencia del presente Reglamento; y
 
-IV. Un Consejo Consultivo, que será el Consejo Estatal del Deporte y Cultura Física.
+V. Las dificultades observadas en el cumplimiento del presente Reglamento, así como las recomendaciones para la corrección de irregularidades o mejoría del sistema para el acceso a la información pública.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2014)</small>
+### CAPITULO SEXTO. Del Comité de Información
 
-###### ARTÍCULO 31.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2006)</small>
 
-La Junta de Gobierno es el órgano máximo del Instituto y se integrará por los siguientes miembros propietarios:
+###### Artículo 33.
 
-I. El Gobernador del Estado quien la presidirá, por sí o por representante que designe;
+Se establecerá un Comité de Información, con el objeto de coordinar y supervisar las acciones tendientes al cumplimiento de las disposiciones de este Reglamento, y estará integrado por:
 
-II. El Titular de la Secretaria o Dependencia coordinadora del sector;
+I. El Presidente Municipal, quien presidirá el Comité de Información;
 
-III. El Titular de la Secretaría de Hacienda;
+II. El Sindico Procurador;
 
-IV. El Titular de la Secretaria de Administración;
+III. El Regidor Presidente de la Comisión de Régimen Interno;
 
-V. El Titular de la Secretaria de Salud;
+IV. El Secretario de Gobierno Municipal; y
 
-VI. El Titular de la Secretaría de Obras Públicas;
+V. El Consejero Jurídico Municipal.
 
-VII. El Titular de la Secretaría de Economía; y
+El titular de la Unidad Municipal de Acceso a la Información, fungirá como Secretario Técnico del mismo y sólo tendrá derecho a voz.
 
-VIII. El Titular de la Rectoría de la Universidad Autónoma del Estado de Morelos.
+El Presidente Municipal podrá designar un representante para que asista a las sesiones. En ese caso quien presidirá el Comité será el Secretario de Gobierno Municipal.
 
-Por cada propietario habrá un suplente que actuará en caso de faltas temporales del Titular, en los términos que señale el Reglamento Interior del Instituto.
+Los integrantes del Comité podrán designar a los titulares de las Dependencias o Entidades, con el objeto de que asistan acompañando o en su representación a los miembros del Comité, cuando se discutan asuntos que tengan que resolverse de manera especifica o que por el nivel técnico requieran de la presencia de estos.
 
-Para el caso de que el representante que designe el Gobernador del Estado para fungir como Presidente de la Junta de Gobierno del Instituto, sea un integrante de esta última, en términos del presente artículo; dicho integrante deberá designar a su vez a la persona que lo supla ante ésta, a fin de evitar la concentración de votos en una sola persona para la toma de decisiones.
+###### Artículo 34.
 
-Para el funcionamiento la Junta de Gobierno contará con un Secretario Técnico, quién será el Director General del Instituto, quien participará con derecho a voz, pero no a voto.
+El Comité de Información tendrá las siguientes atribuciones:
 
-El Comisario Público del Instituto participará en las sesiones de la Junta de Gobierno con derecho a voz pero sin voto.
+I. Establecer y revisar los criterios de clasificación, catalogación y custodia de la Información Pública, en términos del presente ordenamiento y demás disposiciones legales aplicables;
 
-Los nombramientos de los miembros de la Junta de Gobierno serán honoríficos y no devengarán retribución alguna como integrantes de este órgano de gobierno.
+II. Coordinar y supervisar las acciones realizadas en cumplimiento de las disposiciones previstas en el presente Reglamento;
 
-###### ARTÍCULO 32.
+III. Establecer de conformidad con este ordenamiento, las medidas que coadyuven a una mayor eficiencia y eficacia en la atención de las solicitudes de acceso a la información;
 
-La Junta de Gobierno sesionará válidamente con la asistencia de la mitad más uno, de la totalidad de sus miembros, y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal.
+IV. Aprobar, modificar o revocar la clasificación de la información realizada en primera instancia por los Servidores Públicos;
 
-Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes y el Presidente tendrá voto de calidad en caso de empate. De cada sesión se deberá levantar acta circunstanciada, la cual deberá firmarse por quienes hayan participado en la misma.
+V. Elaborar un programa para facilitar la sistematización y actualización de la información, mismo que deberá remitirse a la Comisión para sus observaciones dentro de los primeros sesenta días de cada año;
 
-La Junta sesionará de manera ordinaria cada dos meses y de manera extraordinaria cuando la convoque su presidente, o por causa justificada e imprevista.
+VI. Recabar y proporcionar los datos necesarios para la elaboración del informe anual de la Comisión, de conformidad con lo previsto en el presente ordenamiento;
 
-Cuando la Junta de Gobierno así lo considere podrá invitar con voz pero sin voto, a quienes puedan coadyuvar con sus opiniones al mejor desarrollo del organismo.
+VII. Aplicar las disposiciones contenidas en el presente Reglamento;
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+VIII. Vigilar en el ámbito de su competencia el cumplimiento del presente Reglamento; y
 
-### CAPÍTULO QUINTO. DE LOS DERECHOS Y LAS OBLIGACIONES
+IX. Elaborar y aprobar su manual de operación.
 
-###### ARTÍCULO 33.
+### CAPITULO SEPTIMO. De la Unidad Municipal de Acceso a la Información
 
-El Director General del Instituto, será nombrado y removido por el Titular del Poder Ejecutivo Estatal, o previo acuerdo con la persona de la Secretaría coordinadora de sector, dicha designación quedará a cargo del Gobernador, y durará en su cargo tres años. Cuando exista cambio del Titular del Poder Ejecutivo Estatal, procederá el nombramiento de un nuevo Titular o Director General, excepto en el caso de que, quien se encuentre en su cargo, sea nombrado por un período más.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
 
-###### ARTÍCULO 34.
+###### Artículo 35.
 
-Para ser Director General, deberán reunirse los siguientes requisitos:
+Para la atención de las solicitudes de información el Gobierno Municipal contará con la Unidad Municipal de Acceso a la Información, que dependerá jerárquicamente de forma directa del Sindico Procurador. Esta unidad administrativa tendrá como objeto ser el vínculo entre el Gobierno Municipal y el peticionario, siendo la unidad responsable de hacer los requerimientos de la información solicitada a las dependencias y las notificaciones necesarias a la ciudadanía, verificando en cada caso que la información no sea considerada como clasificada. En caso de ser clasificada la información, la Unidad notificará al peticionario de tal situación. La Unidad no podrá proporcionar a particulares los nombres de los peticionarios y el contenido de la información que se genera como resultado del procedimiento para el acceso y corrección de datos personales.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+###### Artículo 36.
 
-I. Ser ciudadano morelense por nacimiento o por residencia, en este último caso, haber residido en la entidad un mínimo de diez años anteriores a la fecha del nombramiento.
+La Unidad tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+I. Recabar, difundir y actualizar en coordinación con los Sujetos Obligados, la Información Pública de oficio a que se refiere el presente Reglamento, tramitando su publicación escrita y en los medios electrónicos correspondientes del Ayuntamiento; así como el propiciar que las Dependencias, Entidades de la Administración Pública y Concesionarios Municipales, la actualicen según un calendario establecido por el Comité;
 
-II. Estar en pleno ejercicio de sus derechos y no tener alguno de los impedimentos señalados en el artículo 81, fracciones II, III y IV, de la Ley Orgánica de la Administración Pública del Estado de Morelos;
+II. Contar con una dirección electrónica para asesorar sobre el acceso a la información, así como para recibir comentarios y sugerencias acerca del sistema;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+III. Elaborar formatos de solicitudes de acceso a la Información Pública, así como los de acceso y corrección de datos personales;
 
-III. Tener conocimiento y experiencia en materia administrativa; y
+IV. Recibir y dar trámite a las solicitudes de acceso a la información que no esté disponible en los medios electrónicos respectivos;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+V. Entregar, en su caso, a los peticionarios, la información solicitada;
 
-IV. Tener 25 años de edad al momento de su nombramiento.
+VI. Auxiliar a los peticionarios en la elaboración de solicitudes de acceso a la información y de ser necesario, en caso de que la información solicitada corresponda a otra instancia de gobierno, orientarlos sobre el lugar donde las pueden proporcionar;
 
-### CAPÍTULO PRIMERO. DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
+VII. Realizar al interior de la Administración Pública, los trámites necesarios para integrar la información solicitada, además de efectuar las notificaciones a los peticionarios, respecto del trámite;
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2020)</small>
+VIII. Proponer al Comité los procedimientos internos de administración de la información que contribuyan a la mayor eficiencia y eficacia en la atención de las peticiones de acceso a la información;
 
-###### ARTÍCULO 35.
+IX. Coadyuvar en el diseño de sistemas fáciles de operar para el acceso a la información, para garantizar que la información presentada en los medios electrónicos correspondientes sea comprensible y actualizada;
 
-El Consejo Consultivo Estatal del Deporte estará integrado conforme se establece en el artículo 16 de la presente Ley y su actuación se normará conforme a la misma y demás disposiciones reglamentarias.
+X. Proporcionar asesoría a los particulares y Servidores Públicos del Ayuntamiento sobre la información solicitada cuando sea necesario;
 
-###### ARTÍCULO 36.
+XI. Llevar un registro de las solicitudes de acceso a la información y sus resultados;
 
-La Junta de Gobierno, tendrá las siguientes atribuciones y facultades no delegables, además de las señaladas en la Ley de (sic) Orgánica de la Administración Pública del Estado de Morelos:
+XII. Elaborar un catalogo de información o de expedientes clasificados en primera instancia por los Servidores Públicos, que será del conocimiento publico;
 
-I. Aprobar las acciones de planificación y programación deportiva que le presente el Director General;
+XIII. Coadyuvar con el Comité, para la elaboración del proyecto de aprobación, modificación o revocación de la clasificación de la información realizada en primera instancia por los Servidores Públicos;
 
-II. Aprobar el presupuesto de ingresos y egresos, así como sus modificaciones, conforme a las disposiciones normativas aplicables;
+XIV. Coadyuvar en la capacitación de los Servidores Públicos del Ayuntamiento respecto a su participación en asuntos de transparencia, atención ciudadana e información pública;
 
-III. Aprobar las acciones que someta a su consideración el Director General, necesarias para la ejecución de las funciones que transfiera la Federación al Gobierno del Estado a través de los convenios de colaboración o coordinación que celebren;
+XV. Acatar las recomendaciones y requerimientos de informes que realice la Comisión, así como los lineamientos y criterios que determine el Ayuntamiento; y
 
-IV. Fijar y ajustar las propuestas de cuotas de recuperación;
+XVI. Las demás necesarias para facilitar, agilizar y garantizar el acceso a la información, las que disponga el presente Reglamento y las demás disposiciones jurídicas aplicables.
 
-V. Emitir opinión sobre disposiciones jurídicas y proyectos de éstas, en materia deportiva;
+###### Artículo 37.
 
-VI. Aprobar el proyecto de desarrollo del Instituto del Deporte y Cultura Física que le presente el Director General y supervisar que se actualice periódicamente;
+En coordinación con el archivo municipal, el Comité deberá emitir los criterios para la catalogación, clasificación y conservación de los documentos administrativos, así como su organización.
 
-VII. Autorizar la solicitud, conforme a la legislación aplicable, de los créditos que sean necesarios para la prestación de los servicios públicos de fomento al deporte;
+### CAPITULO OCTAVO. Procedimiento de Acceso a la Información
 
-VIII. Aprobar los proyectos de inversión del Instituto del Deporte y Cultura Física;
+###### Artículo 38.
 
-IX. Aprobar anualmente con base en el informe de los comisarios y dictamen de los auditores externos, los estados financieros del Organismo;
+Cualquier persona o su representante legal podrá presentar, ante la Unidad, solicitud de información mediante escrito libre o en los formatos que apruebe el Comité. La solicitud deberá contener:
 
-X. Autorizar el otorgamiento de becas a deportistas, así como de reconocimientos a los mismos; de acuerdo a los procedimientos y reglas aplicables;
+I. El nombre del solicitante y domicilio u otro medio para recibir notificaciones, como el correo electrónico, así como los datos generales de su representante, en su caso;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+II. La descripción clara y precisa del documento o documentos que solicita;
 
-XI. Establecer las bases esenciales de la estructura del Instituto y sus modificaciones; además aprobar y expedir su Estatuto Orgánico y las demás disposiciones reglamentarias o administrativas.
+III. Cualquier otro dato que identifique la información, con el objeto de facilitar su búsqueda; y
 
-XII. Establecer las bases esenciales de la estructura básica de la organización del Instituto y sus modificaciones que procedan a la misma;
+IV. La modalidad en la que prefiere se otorgue el acceso a la información, la cual podrá ser verbalmente, siempre y cuando sea para fines de orientación, mediante consulta directa, copias simples, certificadas u otros medios.
 
-XIII. Aprobar el calendario anual de sesiones, y
+Si los datos proporcionados por el peticionario no bastan para localizar los documentos o estos son erróneos, la Unidad podrá requerir por una vez al peticionario a efecto de que indique otros elementos o corrija los datos aportados, quien tendrá que proporcionar o corregirlos dentro de los diez días hábiles siguientes al día de que fue requerido. En caso de omisión por parte del peticionario, se tendrá por no presentada la solicitud de acceso a la información.
 
-XIV. Las demás que expresamente disponga la presente Ley y la normatividad aplicable.
+La Unidad auxiliará a los peticionarios en la elaboración de las solicitudes de acceso a la información en los casos en que no sepa leer ni escribir. Cuando la información solicitada no sea de su competencia, la Unidad deberá orientar debidamente al peticionario sobre la instancia de gobierno competente.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
 
-###### ARTÍCULO 37.
+En caso de que la solicitud es presentada ante una dependencia, ésta deberá recibirla y turnarla a la Unidad en un término de 24 horas, indicándole al peticionario la ubicación física de esta última e informándole que será la Unidad quien atenderá la solicitud de información.
 
-El Instituto, por conducto del Director General, rendirá anualmente a la Secretaría de Educación, un informe general de labores realizadas durante el ejercicio, previamente aprobado por la Junta de Gobierno y apegado a su proyecto de desarrollo.
+En ningún caso la entrega de información estará condicionada a que se motive o justifique su utilización, ni se requerirá demostrar interés alguno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2006)</small>
 
-### CAPÍTULO SEGUNDO. DEL OBJETO Y ATRIBUCIONES DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
+A toda solicitud de acceso a la información se le asignará un número de folio para su identificación y se sellara de recibido original y copia, debiendo entregar esta última al solicitante.
 
-###### ARTÍCULO 38.
+###### Artículo 39.
 
-El Director General tendrá las siguientes facultades y obligaciones, además de las señaladas en la Ley Orgánica de la Administración Pública del Estado de Morelos:
+La Unidad será el vínculo entre los Sujetos Obligados y el solicitante, ya que es la responsable de recabar la información que regula este Reglamento. Además deberá llevar acabo todas las gestiones necesarias en las dependencias municipales a fin de facilitar el acceso a la información.
 
-I. Representar al Instituto en las actividades de coordinación y concertación con cualquier órgano que tenga relación con los asuntos del deporte;
+###### Artículo 40.
 
-II. Representar al Instituto en los comités y eventos deportivos;
+Los sujetos obligados sólo podrán entregar a la Unidad documentos que se encuentran en sus archivos. La obligación de acceso a la información se dará por cumplida cuando se pongan a disposición del peticionario mediante la expedición de copias simples, certificadas o cualquier otro medio.
 
-III. Nombrar y remover a los funcionarios y demás personal de apoyo del Instituto del Deporte y Cultura Física, que no sean de mandos medios;
+El acceso se dará solamente en la forma en que lo permita el documento de que se trate, pero se entregará en su totalidad o parcialmente, a solicitud del peticionario.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+Si lo solicitado por la persona ya está disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, se le hará saber por escrito la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información.
 
-IV. Tener la representación legal del Instituto del Deporte y Cultura Física en los términos y condiciones señalados en la Ley Orgánica de la Administración Pública del Estado de Morelos;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2006)</small>
 
-V. Elaborar el Proyecto de Desarrollo del Instituto del Deporte y Cultura Física, actualizarlo periódicamente y someterlo a la aprobación de la Junta de Gobierno;
+###### Artículo 41.
 
-VI. Supervisar el cumplimiento del Proyecto de Desarrollo, aprobado por la Junta de gobierno;
+La Unidad turnará la solicitud al Sujeto Obligado que tenga o pueda tener la información, con el objeto de que éste la localice, verifique su clasificación y le comunique a la primera en un término de tres días hábiles la procedencia del acceso y la manera en que se encuentre disponible.
 
-VII. Coordinar y supervisar las actividades técnicas, administrativas y financieras del Instituto del Deporte y Cultura Física, para lograr una mayor eficiencia y eficacia en el cumplimiento de sus objetivos;
+Los sujetos obligados podrán entregar documentos a la Unidad que contengan información clasificada como reservada o confidencial, siempre y cuando, los documentos en que conste la información, permitan eliminar las partes o secciones clasificadas. En tales casos, deberán señalarse las partes o secciones que fueron eliminadas.
 
-VIII. Celebrar los actos jurídicos de dominio y administración que sean necesarios para el funcionamiento del organismo;
+###### Artículo 42.
 
-IX. Autorizar las erogaciones correspondientes del presupuesto, y someter a la aprobación de la Junta de Gobierno, las erogaciones extraordinarias;
+La respuesta a la solicitud deberá ser notificada al interesado en el menor tiempo posible, que no podrá ser mayor de diez días hábiles, contados a partir de la presentación de dicha solicitud. En su caso, se precisará el costo de conformidad con la Ley de Ingresos vigente para el Municipio de Tijuana y la modalidad en que será entregada la información, atendiendo en la medida de lo posible a la solicitud del peticionario. Excepcionalmente, este plazo podrá ampliarse hasta por un período igual cuando existan razones que lo motiven a criterio del Comité, siempre y cuando éstas se le notifiquen con antelación al peticionario.
 
-X. Ejecutar todos los acuerdos de la Junta de Gobierno;
+Una vez que haya sido notificada la respuesta a la solicitud por parte de la Unidad al usuario, ésta deberá entregarse dentro de los cinco días hábiles siguientes a que el usuario compruebe haber cubierto, en su caso, el pago correspondiente.
 
-XI. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales de la administración pública descentralizada o paraestatal y las personas de los sectores social y privado para el trámite y atención de asuntos de interés común;
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2006)</small>
 
-XII. Realizar las actividades que se requieran para lograr la óptima realización de los servicios deportivos a la comunidad;
+La falta de respuesta a una solicitud de acceso, en el plazo señalado por este artículo se entenderá resuelta en sentido positivo, por lo que el sujeto obligado quedará obligado a darle acceso a la información en un periodo de tiempo no mayor a los diez días hábiles, cubriendo todos los costos generados por la reproducción del material informativo, salvo que el comité determine que los documentos en cuestión son reservados o confidenciales.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
 
-XIII. Someter a la aprobación de la Junta de Gobierno, el Estatuto Orgánico del Instituto y sus modificaciones, así como las demás disposiciones reglamentarias o administrativas.
+###### Artículo 43.
 
-XIV. Someter a la aprobación de la Junta de Gobierno el Programa Operativo Anual y el Proyecto de Presupuesto Anual de Ingresos y Egresos del Instituto del Deporte y Cultura Física;
+Cuando los documentos no se encuentren en los archivos de la dependencia, ésta deberá remitir a la Unidad la solicitud de acceso y el oficio Declarando la inexistencia en sus archivos de la información solicitada. La Unidad analizará el caso y tomará las medidas pertinentes para localizar la Dependencia que pudiese tener el documento solicitado, notificando al solicitante la ampliación del plazo de respuesta hasta por diez días hábiles más. En caso de no encontrarlo, expedirá una resolución que confirme la inexistencia del documento solicitado y notificará al usuario, marcando copia al Comité de Información y a la Comisión de Transparencia Municipal. Dicha notificación deberá realizarse dentro de los veinte días hábiles a que hace referencia el artículo 42 del presente Reglamento.
 
-XV. Ejercer el presupuesto anual de egresos del Instituto del Deporte y Cultura Física, de conformidad con los ordenamientos y disposiciones normativas aplicables;
+###### Artículo 44.
 
-XVI. Elaborar el proyecto de Manual General de Organización y Funciones, los Manuales de Políticas y procedimientos, y demás instrumentos de apoyo administrativo, necesarios para el funcionamiento del Instituto del Deporte y Cultura Física, los cuales deberán mantenerse permanentemente actualizados y presentar a la Junta de Gobierno para su análisis y aprobación;
+Las solicitudes de acceso a la información y las respuestas que se les dé, incluyendo, en su caso, la información entregada, serán públicas. Asimismo la Unidad deberá poner a disposición del público ésta información, a través de medios electrónicos o impresos de comunicación o en tableros de información.
 
-XVII. Supervisar y vigilar la debida observancia del presente ordenamiento y demás disposiciones que rijan al Instituto del Deporte y Cultura Física;
+###### Artículo 45.
 
-XVIII. Suscribir, en su caso, los contratos que regulen las relaciones laborales del Instituto con sus trabajadores;
+La Unidad no estará obligada a dar trámite a solicitudes de acceso a la información ofensivas; cuando hayan entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona, o cuando la información se encuentre disponible públicamente, en este caso, deberán indicar al peticionario el lugar donde se encuentra la información.
 
-XIX. Proponer a la Junta de Gobierno las normas y bases para cancelar adeudos a cargo de terceros y a favor del Instituto, cuando fuere notoria la imposibilidad práctica de su cobro, sin invadir las atribuciones de la dependencia facultada por la Ley para dichos efectos;
+### CAPITULO NOVENO. De los Recursos
 
-XX. Someter a la aprobación de la Junta de Gobierno las bases y programas generales que regulen los contratos, convenios o acuerdos que deba celebrar el Instituto en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles, de conformidad con las disposiciones normativas aplicables;
+###### Artículo 46.
 
-XXI. Celebrar contratos, convenios o acuerdos con terceros, tratándose de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles, bajo su responsabilidad y con sujeción a las disposiciones normativas aplicables, y a las políticas, bases y programas generales aprobados por la Junta de Gobierno;
+Contra los actos y resoluciones administrativas que emita la instancia competente en la aplicación del presente Reglamento, los particulares podrán interponer los recursos previamente establecidos en el Reglamento de Justicia para el Municipio de Tijuana, Baja California, los cuales se substanciarán conforme al procedimiento establecido en el mismo.
 
-XXII. Proponer a la Junta de Gobierno, las modificaciones que procedan a la estructura básica de la organización del Instituto;
+### CAPITULO DECIMO. Del Procedimiento para el Acceso y Corrección de Datos Personales
 
-XXIII. Establecer las instancias de asesoría, de coordinación y de consulta que estime necesarias para el adecuado funcionamiento del Instituto;
+###### Artículo 47.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+La Unidad deberá recibir y dar curso a las solicitudes de las personas que tengan por objeto la corrección, sustitución, rectificación o supresión total o parcial de sus datos personales. Se exceptúan de esta disposición las modificaciones que estén reguladas por otros ordenamientos.
 
-XXIV.- Celebrar y suscribir convenios de coordinación, colaboración y concertación inherentes a los objetivos del Instituto y del Sistema y Programa Estatales del Deporte y Cultura Física; asimismo, suscribir Convenios de Colaboración o Contrataciones de Prestación de Servicios, encaminados a la utilización de instalaciones deportivas con entidades públicas Federales, Estatales y Municipales, así como con Instituciones educativas privadas, clubs deportivos, y particulares que cuenten con instalaciones adecuadas para realizar actividades deportivas y de cultura física.
+###### Artículo 48.
 
-XXV. Proponer políticas en materia deportiva y la cultura física;
+Para que proceda la solicitud, el peticionario deberá precisar las modificaciones que deben realizarse, señalar el sistema o la base de datos a modificarse y aportar la documentación necesaria. El Sujeto Obligado tendrá un plazo de treinta días hábiles a partir de la presentación de la solicitud, para realizar las modificaciones o expresar las razones fundadas y motivadas por las que no procedieron las mismas. En ambos casos la Unidad deberá notificarlo al interesado en un plazo no mayor de diez días hábiles, transcurrido dicho plazo.
 
-XXVI. Elaborar proyectos de programas relativos al deporte y la cultura física y la recreación con base en la normatividad vigente en materia de planeación y someterlos a la consideración y aprobación de la autoridad competente;
+###### Artículo 49.
 
-XXVII. Elaborar el diagnóstico de las instalaciones deportivas en la entidad, y el proyecto de programa anual de construcción de obra destinada al deporte y la cultura física, así como el de mantenimiento y conservación de estos inmuebles e instalaciones;
+No será necesario el consentimiento de las personas para difundir o entregar datos personales, cuando se presenten los siguientes supuestos:
 
-XXVIII. Ejecutar los programas de descentralización y desconcentración de los servicios de deporte en el Estado, así como promover el acceso de estos a toda la población y primordialmente a los integrantes del Sistema Estatal del Deporte y Cultura Física;
+I. Que la información sea necesaria para diagnóstico médico, prestación de servicios médicos o la gestión de servicios de salud y no pueda recabarse autorización de la persona por impedimentos de salud;
 
-XXIX. Coadyuvar en la organización y fomento de la enseñanza y la práctica de los deportes y la cultura física en el Estado, así como la realización de eventos deportivos en colaboración con los organismos respectivos;
+II. Que la información sea para fines estadísticos y/o científicos, siempre que ésta sea agregada, no pueda relacionarse con las personas a las que se refiere y se solicite con el fundamento jurídico correspondiente;
 
-XXX. Implementar y mantener actualizado el Registro Estatal del Deporte;
+III. Que la información sea requerida por orden judicial;
 
-XXXI. Vigilar, administrar y aplicar de acuerdo a los programas aprobados para tal efecto el Fondo para el Desarrollo del Deporte y la Cultura Física;
+IV. Cuando sean transmitidos entre las mismas áreas administrativas del Ayuntamiento, siempre y cuando sean empleados para el ejercicio de facultades propias de las mismas; y
 
-XXXII. Gestionar permanentemente recursos federales para la infraestructura deportiva de la Entidad; y
+V. Los demás casos que expresamente señalen las disposiciones jurídicas aplicables.
 
-XXXIII. Las demás que le señale, confiera y delegue la Junta de Gobierno, así como las establecidas para el Instituto en el presente ordenamiento y los ordenamientos aplicables y que sean de su competencia.
+###### Artículo 50.
 
-###### ARTÍCULO 39.
+Las personas o sus representantes legales, podrán solicitar información de sus datos personales; la Unidad tendrá un plazo de diez días hábiles, contados a partir de recibida la solicitud para entregar los datos, o bien, le comunicará por escrito que el sistema o base de datos no contiene los referidos al peticionario.
 
-El Director será sustituido en sus impedimentos, excusas o ausencias temporales por el servidor público del Instituto que designe la Junta Directiva.
+###### Artículo 51.
 
-### CAPÍTULO SEXTO. DEL ÓRGANO DE VIGILANCIA
+La Unidad deberá hacer del conocimiento de la Comisión, las bases de datos personales que posean los Sujetos Obligados e informarle sobre su actualización.
 
-###### ARTÍCULO 40.
+### CAPITULO DECIMO PRIMERO. De las Responsabilidades y las Sanciones
 
-El Instituto contará con un Órgano de Vigilancia, que se integrará por un Comisario designado por la Secretaría de la Contraloría del Estado.
+###### Artículo 52.
 
-###### ARTÍCULO 41.
+Sin perjuicio de lo dispuesto por otras disposiciones legales aplicables, la Sindicatura a petición de la Comisión, del Comité o por denuncia del usuario afectado, iniciará el procedimiento administrativo correspondiente por las violaciones en que los servidores públicos incurran al presente Reglamento.
 
-El Comisario sin perjuicio de las facultades que le confieran otras disposiciones normativas, tendrá las siguientes atribuciones:
+###### Artículo 53.
 
-I. Vigilar el cumplimiento de las disposiciones y lineamientos relativos al sistema de control y evaluación gubernamental;
+Serán causas de responsabilidad administrativa de los servidores públicos por incumplimiento de las obligaciones establecidas en este Reglamento las siguientes:
 
-II. Vigilar la instrumentación y funcionamiento de los sistemas de programación y presupuesto del Instituto del Deporte y Cultura Física;
+I. Usar, sustraer, destruir, ocultar, inutilizar y/o divulgar de manera indebida, alterar total o parcialmente la información que se encuentra bajo su custodia, a la cual tengan acceso o conocimiento con motivo de su empleo, cargo o comisión;
 
-III. Evaluar el desempeño general y por funciones del Instituto del Deporte y Cultura Física;
+II. Actuar con negligencia, dolo, o mala fe en la sustanciación de las solicitudes de acceso a la información o en la difusión de la información a que estén obligados conforme a este Reglamento;
 
-IV. Rendir informes a la Junta de Gobierno sobre las actividades del Instituto del Deporte y Cultura Física, precisando los aspectos preventivos y correctivos; y
+III. Denegar intencionalmente información no clasificada como reservada o considerada confidencial conforme a este Reglamento;
 
-V. Solicitar a la Junta de Gobierno o al Director General información que requiera para el desarrollo de sus funciones.
+IV. Clasificar como reservada con dolo, información que no cumple con las características señaladas en este Reglamento y los lineamientos y criterios emitidos por el Comité. La sanción sólo procederá cuando exista una resolución previa respecto del criterio de clasificación de ese tipo de información del Comité;
 
-### CAPÍTULO SÉPTIMO. DE LAS RELACIONES LABORALES
+V. Entregar información considerada como reservada o confidencial conforme a lo dispuesto por este Reglamento;
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+VI. Entregar intencionalmente de manera incompleta información requerida en una solicitud de acceso;
 
-###### ARTÍCULO 42.
+VII. Vender o sustraer la información clasificada;
 
-Las relaciones laborales entre el Instituto y sus trabajadores se regirán por la legislación aplicable y el Reglamento de las condiciones generales de trabajo que se establezca.
+VIII. Hacer caso omiso de los requerimientos y resoluciones de la Sindicatura Municipal, Comité de Información o de la Unidad, en su caso; y
 
-## TÍTULO TERCERO. DE LA PARTICIPACIÓN DE LOS SECTORES
+IX. En general dejar de cumplir con las disposiciones del Reglamento.
 
-### CAPÍTULO PRIMERO. DEL SECTOR PÚBLICO ESTATAL
+###### Artículo 54.
 
-###### ARTÍCULO 43.
+Los Servidores Públicos que incurran en las responsabilidades administrativas establecidas en el artículo anterior, serán sancionados conforme a las prescripciones de la Ley de Responsabilidades de los Servidores Públicos del Estado, en su caso, sin perjuicio de las responsabilidades civiles o penales que se pudieran generar.
 
-La participación en el Sistema es obligatoria para la administración pública estatal y municipal.
+###### Artículo 55.
 
-###### ARTÍCULO 44.
+La atención extemporánea de las solicitudes de información no exime a los Servidores Públicos de la responsabilidad administrativa en que hubiese incurrido en términos de este capítulo.
 
-Con el fin de fomentar y desarrollar el deporte conforme al Sistema Nacional del Deporte, el Ejecutivo Estatal promoverá la coordinación de los integrantes del Sistema.
+###### Artículo 56.
 
-###### ARTÍCULO 45.
-
-La incorporación del Estado de Morelos al Sistema Nacional del Deporte se realizará por conducto de las instituciones competentes mediante la celebración de convenios de coordinación que definan específicamente las áreas de responsabilidad, dentro de su ámbito de competencia.
-
-### CAPÍTULO TERCERO. DEL PATRIMONIO DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
-
-###### ARTÍCULO 46.
-
-El Ejecutivo Estatal promoverá la participación de los sectores público, privado y social, así como de los organismos deportivos con el fin de integrarlos al Sistema, mediante convenios de concertación que para tal efecto celebren.
-
-El Ejecutivo del Estado, preverá anualmente, dentro del presupuesto de Egresos de cada ejercicio, los recursos necesarios para el desarrollo de las metas de sus programas deportivos, de conformidad con la disponibilidad presupuestal, mismo que será independiente del gasto corriente. El ejercicio de estos recursos estará sujeto a la normatividad establecida en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
-
-### CAPÍTULO SEGUNDO. DEL SECTOR PÚBLICO MUNICIPAL
-
-### CAPÍTULO CUARTO. DE LA ORGANIZACIÓN DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
-
-###### ARTÍCULO 47.
-
-Cada municipio deberá contar, de conformidad con sus ordenamientos, con un órgano que en coordinación y colaboración con el Instituto, administre, organice, promueva, estimule, fomente y vigile el desarrollo del deporte y la cultura física, estableciendo para ello sistemas del deporte y de la cultura física en sus distintos ámbitos de competencia.
-
-Los Sistemas Municipales serán los encargados de promover, estimular y fomentar el desarrollo del deporte y de la cultura física en los municipios y se integraran por las autoridades municipales, organismos e instituciones públicas, privadas, agrupaciones y deportistas, que en el ámbito de su competencia, tengan como objeto, generar las acciones de financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo del deporte y la cultura física, así como el óptimo desarrollo de los recursos humanos, financieros y materiales.
-
-###### ARTÍCULO 48.
-
-El órgano municipal correspondiente recibirá solicitudes de inscripción y gestionará, y en su caso entregará las acreditaciones que el Registro Estatal del Deporte otorgue, así mismo, una vez otorgado el registro correspondiente, la autoridad municipal, lo inscribirá en el registro municipal de acuerdo a la disciplina y categoría deportiva respectiva.
-
-El registro a que se refiere el párrafo anterior, será requisito obligatorio e indispensable para su integración a los respectivos sistemas.
-
-###### ARTÍCULO 49.
-
-Los responsables del deporte y la cultura física se regirán por sus propios ordenamientos sin contravenir lo dispuesto en la presente Ley y la Ley General de Cultura Física y Deporte, cumpliendo en todo momento con cada una de las obligaciones que como miembros del Sistema les corresponde.
-
-###### ARTÍCULO 50.
-
-Los sistemas municipales coordinarán obligatoriamente sus actividades para aplicar las políticas y programas que en materia de deporte y la cultura física se adopte por el Sistema Estatal del Deporte.
-
-###### ARTÍCULO 51.
-
-Los Ayuntamientos tendrán las facultades y obligaciones siguientes:
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
-
-I. Promover y organizar en sus respectivas circunscripciones, actividades y prácticas físico-deportivas para la población, con énfasis en los niños, niñas y adolescentes, con el objeto de contribuir a la prevención y control del sobrepeso y obesidad, así como al mejoramiento de su estado físico y psicológico, para el pleno desarrollo social y cultural
-
-II. Constituir un Comité Municipal del Deporte, presidido preferentemente por un Licenciado en cualquiera de las siguientes especialidades: Educación Física, Organización Deportiva, Entrenamiento Deportivo o Administración del Deporte, conformado por los integrantes del Sistema Municipal del Deporte;
-
-III. Participar en el Consejo Estatal del Deporte y Cultura Física;
-
-IV. Coordinarse con los comités, asociaciones y ligas municipales en todas sus promociones deportivas que no sean de carácter profesional;
-
-V. Facilitar la plena utilización de las instalaciones deportivas en su circunscripción, de conformidad con la reglamentación establecida;
-
-VI. Apegarse a los lineamientos establecidos en el Sistema y Programa Estratégico;
-
-VII. Prever anualmente, dentro del presupuesto autorizado, los recursos necesarios para el desarrollo de las metas de sus programas deportivos debidamente etiquetados, mismo que será independiente del gasto corriente, en términos de la legislación aplicable. El ejercicio de estos recursos estará sujeto a la normatividad establecida en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos;
-
-VIII. Registrar y actualizar el inventario municipal de instalaciones deportivas;
-
-IX. Contemplar las adecuaciones necesarias en la normatividad para la práctica y desarrollo del deporte que realizan personas con discapacidad y adultos mayores.
-
-X. Participar activamente en el Sistema; y
-
-XI. Las demás que les confieran las disposiciones legales y reglamentarias aplicables.
-
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN Y COLABORACIÓN ENTRE LOS INTEGRANTES DEL SISTEMA
-
-### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES DE LA JUNTA DE GOBIERNO Y DEL DIRECTOR GENERAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 52.
-
-El Instituto ejercerá las funciones que la presente Ley le confiere, para ello, se coordinará con los comités municipales del deporte, asociaciones, ligas, deportistas en general y en su caso, concertará acciones con el sector social y privado que puedan beneficiar directamente los intereses generales del deporte y la cultura física en el Estado.
-
-###### ARTÍCULO 53.
-
-Las autoridades competentes en el Estado y los municipios se coordinarán entre sí o con instituciones del sector social y privado para:
-
-I. Establecer en sus respectivos ámbitos de competencia el Sistema Estatal y los Municipales del Deporte y Cultura Física;
-
-II. Promover el deporte y la cultura física, en la rehabilitación y en la población en general, en todas sus manifestaciones y expresiones;
-
-III. Ejecutar y dar seguimiento al Programa Estratégico del Deporte y Cultura Física en el Estado de Morelos;
-
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
-
-IV. Promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos, masivos o con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y de Protección Civil correspondientes;
-
-V. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para el deporte y la cultura física, en coordinación con las respectivas asociaciones deportivas estatales y de acuerdo con las normas oficiales que para tal efecto expida la dependencia correspondiente;
-
-VI. Dar seguimiento y ejecutar las políticas y programas aprobados por el Sistema, y
-
-VII. Establecer procedimientos de promoción en materia de deporte y la cultura física.
-
-###### ARTÍCULO 54.
-
-La coordinación a que se refiere el artículo anterior, se realizará a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes del Estado y los municipios, entre sí o con instituciones del sector social y privado.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 54 BIS.- La coordinación y colaboración entre el Estado y los Municipios, respecto a la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la Ley del Sistema de Seguridad Pública del Estado de Morelos, se sujetará a lo siguiente:
-
-I. Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
-
-II. Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes del Municipio, en los órganos políticos administrativos en cada una de las demarcaciones territoriales en que se celebren los eventos;
-
-La seguridad en la cancha o área de competencia, en los vestidores y baños para deportistas y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores, y sólo a petición expresa de sus dirigentes, intervendrán las autoridades municipales o estatal (sic), según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de los deportistas, de las personas o de los bienes que se encuentren en dichos espacios;
-
-III. La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales en términos de lo que dispongan las leyes aplicables;
-
-IV. A solicitud de las autoridades municipales y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, la autoridad estatal intervendrá para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;
-
-V. En todo caso, para participar en la planeación previa y en el seguimiento durante el desarrollo del evento, los organizadores de los eventos y las autoridades deportivas podrán acreditar un representante y deberán atender las indicaciones y recomendaciones de las autoridades de seguridad o de las Comisiones Estatal;
-
-Los representantes a que se refiere esta fracción podrán realizar sugerencias y recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando;
-
-VI. Los responsables de la seguridad en el interior de los recintos deportivos y sus instalaciones anexas designados por los organizadores de los eventos, deberán participar en las labores de planeación previa, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública;
-
-VII. En la seguridad del interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones previstas en la Ley General y reglamentarias aplicables;
-
-VIII. Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de aficionados al lugar donde se realicen los eventos deportivos, así como en el auxilio eficaz y oportuno al interior de los recintos en caso de requerirse;
-
-IX. Las autoridades competentes podrán capacitar a los cuerpos policiacos y demás autoridades encargadas de la seguridad, en el uso apropiado de sus atribuciones así como en técnicas y tácticas especiales para resolver conflictos y extinguir actos de violencia que puedan suscitarse en este sentido, y
-
-X. La Ley del Sistema de Seguridad Pública del Estado de Morelos, deberá establecer lo conducente para la más eficaz prestación del servicio de seguridad pública entre el Estado y sus municipios en los órganos políticos administrativos, para garantizar el desarrollo pacífico de los eventos deportivos, que se realicen en la jurisdicción, atendiendo a lo previsto en este artículo.
-
-Para los efectos de este artículo se considera que el evento deportivo, concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones.
-
-### CAPÍTULO CUARTO. DE LOS SECTORES PRIVADO Y SOCIAL
-
-###### ARTÍCULO 55.
-
-Los sectores privado y social, participarán en el Sistema, en términos del artículo 53 de la presente Ley.
-
-###### ARTÍCULO 56.
-
-Los convenios a que se refiere el artículo 54 del presente ordenamiento, deberán tener como objetivo fundamental el fomento y desarrollo del deporte, mismos que deberán prever:
-
-I. La forma en que se desarrollarán las actividades deportivas que se realicen dentro del Sistema;
-
-II. Los apoyos que en su caso, le sean destinados para el desarrollo y fomento del deporte, comprendiendo las actividades científicas y técnicas que se relacionen con el mismo; y
-
-III. Las acciones y recursos que aporten para la promoción y fomento del deporte, así como el uso de su infraestructura.
-
-###### ARTÍCULO 57.
-
-Las personas físicas que realicen actividades deportivas podrán participar en el Sistema en lo individual o mediante agrupaciones u organismos deportivos, en los términos que señale el Reglamento de la presente Ley.
-
-## TÍTULO CUARTO
-
-### CAPÍTULO ÚNICO. DEL PROGRAMA ESTRATÉGICO DEL DEPORTE Y CULTURA FÍSICA
-
-###### ARTÍCULO 58.
-
-El Programa Estratégico del Deporte y Cultura Física será el instrumento rector de la política y norma deportiva en el Estado y deberá ser elaborado con la participación de los integrantes del Sistema Estatal del Deporte y Cultura Física y mediante la coordinación del Consejo Estatal del Deporte y Cultura Física, conforme a los lineamientos establecidos en el Sistema y Programa Nacional del Deporte.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2014)</small>
-
-###### ARTÍCULO 59.
-
-El Programa Estratégico, establecerá diagnósticos, objetivos, lineamientos y acciones, así como la participación de los sectores público, privado y social, con el fin de ordenar la planificación, organización y desarrollo del deporte y la cultura física, a través de su práctica, y de manera específica contendrá:
-
-I. La política del deporte y de la cultura física;
-
-II. Los objetivos estratégicos, metas y acciones para el desarrollo del deporte y la cultura física en el Estado, acordes a las características propias de la entidad, así como con el Plan Nacional de Desarrollo y los programas sectoriales correspondientes;
-
-III. Los proyectos y acciones específicas, en virtud de los cuales se instrumentará la ejecución de los programas y del proyecto del Instituto;
-
-IV. Las acciones que cada uno de los integrantes del Sistema deberá realizar de acuerdo al ámbito de su competencia y naturaleza;
-
-V. Medidas de seguridad;
-
-VI. Esquemas y acciones sobre prevención, atención y tratamiento en medicina del deporte;
-
-VII. Indicadores de desempeño en por lo menos, los siguientes rubros:
-
-a) Formación, actualización, capacitación y superación profesional a instructores y entrenadores deportivos;
-
-b) Deporte popular;
-
-c) Deporte estudiantil;
-
-d) Deporte asociado;
-
-e) Deporte de talentos y de alto rendimiento;
-
-f) Deportes para personas discapacitadas;
-
-g) Deportes para adultos mayores;
-
-h) Deportes para poblaciones especiales;
-
-i) Charrería;
-
-j) Deportes extremos o de alto riesgo; e
-
-k) Instalaciones deportivas.
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2014)</small>
-
-VIII. El diagnóstico estatal de la situación actual del deporte y la cultura física en la Entidad, su problemática, necesidades y prioridades;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2014)</small>
-
-IX. La ruta crítica y los lineamientos para la ejecución y seguimiento de las acciones y estrategias a seguir;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2014)</small>
-
-X. Los mecanismos de coordinación o concertación con los sectores público, social, académico y privado, así como con los medios de comunicación;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2014)</small>
-
-XI. Los recursos humanos, materiales y financieros necesarios para la consecución de los objetivos, así como las instituciones o personas responsables de su ejecución; y
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2014)</small>
-
-XII. Los mecanismos de seguimiento, control, evaluación y modificación, en su caso.
-
-## TÍTULO QUINTO. DEL FOMENTO, ESTÍMULO AL DEPORTE Y A LA CULTURA FÍSICA Y SU INFRAESTRUCTURA
-
-### CAPÍTULO PRIMERO. DEL FONDO PARA EL DESARROLLO DEL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE MORELOS
-
-###### ARTÍCULO 60.
-
-El Ejecutivo Estatal constituirá el Fondo para el Desarrollo del Deporte y la Cultura Física del Estado de Morelos, con la participación de los sectores públicos, privados y sociales. Dicho Fondo tendrá como finalidad captar recursos financieros y materiales que permitan alcanzar las metas establecidas en el Programa Estratégico.
-
-El Fondo estará constituido por los recursos financieros que le sean asignados en el presupuesto de egresos de acuerdo al artículo 46 de este ordenamiento, así como los que se haga allegar por cualquier medio lícito conforme a la presente ley y su reglamento. El Fondo será administrado y aplicado por el Instituto del Deporte y Cultura Física del Estado de Morelos, de acuerdo a la reglamentación respectiva, al presupuesto y al Programa Estratégico y bajo los lineamientos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
-
-Las aportaciones que personas físicas o morales realicen al Fondo serán deducibles de impuestos en los términos que se establezcan para tal efecto en la legislación aplicable. Para lograr su participación, el Instituto, realizará campañas de fomento y estímulo al deporte entre los sectores obrero- patronales.
-
-El Instituto deberá aplicar el Fondo, de acuerdo al Plan Estatal de Desarrollo y a los programas registrados y aprobados, tomando en consideración las necesidades o prioridades de cada uno de ellos.
-
-### CAPÍTULO SEGUNDO. DE LOS ESTÍMULOS
-
-###### ARTÍCULO 61.
-
-Las personas físicas o morales, que realizan actividades destinadas al desarrollo, fomento e impulso del deporte, así como los integrantes del Sistema que se encuentren inscritos en el Registro Estatal del Deporte, podrán gozar de los estímulos que se otorguen; éstos se proporcionarán con base en los criterios que defina el Consejo Estatal del Deporte y Cultura Física y serán aplicados por el Poder Ejecutivo del Gobierno del Estado por conducto del Instituto, conforme a los recursos del Fondo y en su caso de la partida presupuestal correspondiente.
-
-Los integrantes de Sistema podrán solicitar entre otros, los siguientes estímulos:
-
-I. Apoyo económico;
-
-II. Material deportivo;
-
-III. Uso de las instalaciones deportivas que sean propiedad estatal o municipal integrados al Sistema Estatal del Deporte y Cultura Física;
-
-IV. Becas académicas;
-
-V. Becas económicas;
-
-VI. Capacitación de recursos humanos;
-
-VII. Asesoría técnica;
-
-VIII. Asistencia médica y servicios hospitalarios a cargo de los servicios de salud pública del Estado, en los eventos oficiales selectivos a que sean convocados;
-
-IX. Los demás que les otorguen esta Ley y su Reglamento.
-
-###### ARTÍCULO 62.
-
-El Consejo y el Instituto gestionarán el patrocinio de actividades deportivas, promoviendo para este fin la participación de los sectores público, social y privado.
-
-###### ARTÍCULO 63.
-
-Se instituye el Premio al Merito Deportivo, que se entregará anualmente por los titulares de los tres Poderes del Gobierno del Estado, conforme a los lineamientos establecidos en el acuerdo del Ejecutivo Estatal que para tal fin se expida.
-
-### CAPÍTULO TERCERO. DEL DEPORTE Y LA CULTURA FÍSICA
-
-###### ARTÍCULO 64.
-
-El deporte, es la práctica del ejercicio físico y/o mental como hábito de vida saludable. La cultura física es igualmente manifestación de valores sociales, conocimientos, investigaciones, habilidades y recursos orientados en beneficio de todos los sectores de la población.
-
-###### ARTÍCULO 65.
-
-Los integrantes del Sistema, deberán fomentar el deporte y la cultura física y promover su difusión a través de los distintos medios de comunicación, en especial y de forma permanente el Instituto lo hará en los canales de televisión y en las estaciones de radio operadas por el Gobierno del Estado o ayuntamientos; para tal efecto, el Instituto gestionará ante las autoridades competentes la suscripción de los convenios respectivos, en los que se establezcan los tiempos de transmisión. En esta área se destacarán los beneficios y valores del deporte y la cultura física, propiciarán un conocimiento especializado, así como un manejo objetivo en apoyo a la información y formación de la sociedad.
-
-###### ARTÍCULO 66.
-
-En el Programa Estratégico y en los programas, se establecerán acciones que promuevan su cultura, impulsen la investigación y capacitación de las disciplinas y ciencias que fomenten el deporte popular o amateur y en general todas aquellas disciplinas deportivas.
-
-###### ARTÍCULO 67.
-
-La cultura del deporte en el Estado de Morelos se asociará a la participación social, a la libre y respetuosa manifestación de las ideas y a la convivencia del compromiso colectivo y a la superación personal.
-
-###### ARTÍCULO 68.
-
-Toda persona que asesore, se dedique a impartir clases, técnicas o prácticas de cualquier actividad deportiva en forma pública o privada, deberá contar con el reconocimiento oficial de estudios que avale la actividad a desempeñar.
-
-###### ARTÍCULO 69.
-
-Los propietarios de centros de entrenamiento o formación en cualquier disciplina deportiva, para su legal funcionamiento deberán ser o contar con personal profesionista por actividad, de conformidad con el artículo anterior, a efecto de garantizar a sus usuarios la adecuada práctica del deporte respectivo dentro o fuera de sus instalaciones.
-
-Los Ayuntamientos de la Entidad para expedir licencias de funcionamiento o en su caso de refrendo de las mismas deberán exigir a los propietarios comprueben tener la asesoría o ser profesionistas en la materia, mediante la certificación del registro en el sistema, así mismo, deberán estar avalados por un profesionista médico, de preferencia en la rama de la Medicina del Deporte.
-
-###### ARTÍCULO 70.
-
-Los administradores de instalaciones deportivas y las asociaciones son corresponsables de que sus instructores, entrenadores y técnicos que impartan clases y seminarios cuenten con el reconocimiento oficial que acredite su preparación para ejercer como tales.
-
-### CAPÍTULO CUARTO. DEL JUEGO LIMPIO
-
-###### ARTÍCULO 71.
-
-El organismo público rector del deporte y las autoridades municipales del deporte, en el ámbito de sus respectivas competencias, establecerán programas y campañas permanentes de estímulo al juego limpio.
-
-###### ARTÍCULO 72.
-
-Se consideran acciones ejemplares del juego limpio, las siguientes:
-
-I. Respetar total y constantemente las reglas escritas del juego;
-
-II. Que exista un espíritu de bondad en la práctica del deporte de competencia por la voluntad de jugar para ganar;
-
-III. El respeto al compañero, al adversario victorioso o vencido, a los jueces o árbitros, con la conciencia de que el compañerismo es indispensable a la unión de la camaradería deportiva;
-
-IV. La honestidad, la lealtad y una actitud firme y digna en su comportamiento en el ámbito de las competencias;
-
-V. Evitar el juego desleal, ingerir estimulantes u otras sustancias prohibidas o restringidas; y
-
-VI. Observar acciones ejemplares durante el desempeño de la práctica deportiva y procurar una conducta ejemplar fuera de ésta.
-
-Las faltas al juego limpio se sancionarán conforme a las disposiciones de esta Ley y su reglamento.
-
-### CAPÍTULO QUINTO. INICIACIÓN DEPORTIVA Y DEL CENTRO DE TALENTOS DEPORTIVOS
-
-###### ARTÍCULO 73.
-
-Se entiende por Iniciación Deportiva, las actividades de inducción al deporte, con el objeto de detectar los talentos deportivos, a través de los diferentes eventos deportivos oficiales municipales, regionales y estatales.
-
-###### ARTÍCULO 74.
-
-Se entiende por Talento Deportivo, al niño (a), adolescente o joven con capacidades sobresalientes para desarrollar cualquier actividad motriz o intelectual que lo lleve a la excelencia o maestría deportiva.
-
-El Instituto a través del área técnica especializada correspondiente dará seguimiento y evaluación de cada uno de los talentos deportivos mediante una ficha de antecedentes y resultados deportivos.
-
-###### ARTÍCULO 75.
-
-Las instituciones educativas, asociaciones, organismos, ligas y clubes apoyarán con propuestas que garanticen el desarrollo y fortalecimiento de los talentos deportivos, así como de los espacios para su práctica.
-
-###### ARTÍCULO 76.
-
-En el Fondo y en los presupuestos de egresos municipales deberán contemplarse los recursos económicos, de conformidad con la disponibilidad presupuestal, que se ejercerán cada año para dar cumplimiento al desarrollo del Programa de Talentos Deportivos, mismo que se establecerá por parte del Instituto y los ayuntamientos de la entidad, coordinándose a efecto de dar cumplimiento a lo establecido en el párrafo segundo del artículo 74 de la presente Ley.
-
-### CAPÍTULO SEXTO. DE LAS INSTALACIONES DEPORTIVAS
-
-###### ARTÍCULO 77.
-
-Se entiende por instalación deportiva, todo inmueble construido o adecuado para la práctica de actividades físicas e intelectuales, que realicen las personas con propósitos de competencia, competitivos o de esparcimiento.
-
-###### ARTÍCULO 78.
-
-Las instalaciones deportivas, propiedad del Gobierno del Estado y de los municipios es de utilidad social, tienen por objeto atender las demandas de la población para la práctica del deporte y cultura física, por tal motivo se contemplarán en el Programa Estatal de Desarrollo y en los Planes Municipales de Desarrollo.
-
-###### ARTÍCULO 79.
-
-Las instalaciones deportivas propiedad del Gobierno del Estado o de los municipios, deberán construirse, conservarse, mantenerse, acondicionarse y en su caso contener las adecuaciones arquitectónicas de acceso y servicios a fin de que puedan ser utilizados por todos los sectores de la población, especialmente para la práctica del deporte infantil, del deporte adaptado que realizan las personas con discapacidad y de los adultos mayores, de conformidad con la reglamentación establecida.
-
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
-
-En caso de que dichas instalaciones no se encuentren debidamente acondicionadas para la práctica de alguna disciplina deportiva, el Instituto del Deporte, podrá suscribir Convenios de Colaboración y Contratación en su caso, con el sector público y privado.
-
-Las Asociaciones, organismos, ligas y clubes apoyarán con recursos propios para el mantenimiento de las instalaciones deportivas públicas que utilizan en el desarrollo de sus actividades. Lo anterior, de conformidad con lo que establezca el Reglamento de la presente Ley.
-
-###### ARTÍCULO 80.
-
-El uso de las instalaciones deportivas debe ser preferentemente para eventos deportivos, cuando se utilicen para otros fines deberán respetarse los programas y calendarios deportivos previamente establecidos, para el caso de un uso distinto de las instalaciones, se estará a lo establecido en el artículo 20 de la presente ley.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 80 BIS.- Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones deportivas en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
-
-Las autoridades municipales, serán competentes para verificar el cumplimiento de la presente disposición.
-
-###### ARTÍCULO 81.
-
-La autoridades del deporte, los organismos deportivos y responsables administrativos de las instalaciones deportivas que tengan el carácter estatal o municipal e inscritas en el Registro Estatal del Deporte, deberán registrar su calendario anual de actividades ante el Instituto y la dependencia municipal respectiva durante los meses de septiembre y octubre de cada año, así como actualizarlo ante las mismas autoridades las veces que sean necesarias.
-
-###### ARTÍCULO 82.
-
-El Instituto y la dependencia municipal respectiva procurarán que las instalaciones sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requiere. Asimismo, realizarán verificaciones anuales o en cualquier momento a petición de los interesados. Las dependencias responsables del deporte podrán vetar el uso de cualquier instalación deportiva que no cumpla con los requisitos señalados.
-
-###### ARTÍCULO 83.
-
-En la construcción de instalaciones deportivas deberán de tomarse en cuenta las que sean necesarias para el deporte infantil, mismas que contarán con las especificaciones técnicas y arquitectónicas para su desarrollo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-### CAPÍTULO SÉPTIMO. DEL MUSEO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS; DEL SALÓN DE LA FAMA DEL MORELENSE Y DEL PATRONATO
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 83 BIS.- Se crea el Museo del Deporte y Cultura Física del Estado de Morelos, como un espacio perteneciente al Instituto, el cual incluirá dentro de su estructura el "Salón de la Fama del Morelense".
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 83 TER.- El Museo del Deporte y Cultura Física del Estado de Morelos, es la Institución que con el propósito de estudio, divulgación, educación y reconocimiento, se encargará de conservar, exponer y exhibir los reconocimientos y triunfos, así como, fotografías, videos, objetos y pertenencias de los deportistas, jueces, árbitros, entrenadores o instructores morelensesdestacados (sic) en diversas disciplinas y modalidades y de las personas que han fomentado el impulso, desarrollo y crecimiento del deporte y la cultura física en el Estado.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 83 QUATER.- "El Salón de la Fama del Morelense", será un espacio incluido dentro del Museo, con el fin de ser un espacio de reconocimiento permanente al esfuerzo, mérito y trayectoria de aquellos deportistas, jueces, árbitros, entrenadores o instructores morelensesdestacados (sic) en diversas disciplinas y modalidades, así como, a las personas que han fomentado el impulso, desarrollo o crecimiento del deporte y la cultura física en el Estado.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-ARTICULO 83 QUINQUIES.- Corresponderá al Consejo Consultivo Estatal del Deporte y Cultura Física, seleccionar a quienes ingresarán al Museo y al Salón de la Fama, para cuyo efecto habrá de emitir las convocatorias respectivas y verificará la integración de los expedientes.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-ARTICULO 83 SEXIES.- Los requisitos de las personas que quieran ser consideradas como aspirantes, para la elección de ingreso al Museo y al Salón de la Fama son:
-
-I.- Ser Morelenses por nacimiento o por residencia ininterrumpida en el Estado, mínima de cinco años;
-
-II.- Tener una reconocida honorabilidad;
-
-III.- Contar con una trayectoria ejemplar, en el ámbito del deporte y cultura física;
-
-IV.- Que sus méritos deportivos nacionales o internacionales, hayan sido obtenidos representando al Estado de Morelos en alguna de las diferentes disciplinas del deporte de alto rendimiento, convencional o adaptado a nivel profesional o amateurs o bien en ámbito de la cultura física;
-
-V.- Estar en activo o retirados; y
-
-VI.- Podrán ser considerados en vida o post mortem.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 83 SEPTIES.- El ingreso al Museo o al Salón de la Fama se hará mediante ceremonia oficial, en la que se coloque en su caso, la correspondiente placa conmemorativa y también podrá incluirse un testimonio con los logros deportivos, así como, fotografías, videos, objetos y pertenencias, entre otros.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2020)</small>
-
-ARTÍCULO 83 OCTIES.- El Museo contará con un Patronato denominado Patronato del Museo del Deporte y Cultura Física del Estado de Morelos, que estará integrado por el Titular de la Secretaría de Educación y el Director del Instituto del Deporte en el Estado, quienes representarán a la Junta de Gobierno y por cinco miembros designados y removidos libremente por el Titular del Instituto del Deporte y Cultura Física del Gobierno del Estado de Morelos.
-
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2020)</small>
-
-El Titular de la Secretaría de Educación, presidirá el Patronato y se designarán de entre los integrantes de éste, a un Vicepresidente, un Secretario de Sesiones, un Tesorero y Vocales.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-Los cargos de los miembros del Patronato serán honoríficos y se seleccionarán de entre los sectores público, social y privado con prestigio, honorabilidad y valores altruistas que hayan tenido experiencia en actividades en materia deportiva.
-
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2020)</small>
-
-ARTÍCULO 83 NOVIES.- El Patronato del Museo, celebrará Sesiones Ordinarias cada tres meses y las Extraordinarias que se requieran, a citación expresa del Titular de la Secretaría de Educación o a petición de la mayoría de sus miembros.
-
-Las Asambleas deberán contar con la asistencia de cuando menos la mitad más uno de los miembros del Patronato y las resoluciones que se tomen deberán ser por mayoría de votos de los asistentes, teniendo el Titular de la Secretaría de Educación el voto de calidad, en caso de empate.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 83 DECIES.- El Patronato del Museo del Deporte tendrá las siguientes facultades:
-
-I. Coadyuvar y organizar planes para la obtención de recursos del Museo que por cualquier concepto pudiera allegarse;
-
-II. Emitir opinión y recomendaciones sobre los planes de labores, presupuestos, informes y estados financieros anuales del Museo;
-
-III. Apoyar las actividades del Museo y formular sugerencias tendientes a su mejor desempeño;
-
-IV. Contribuir a la obtención de recursos que permitan el incremento del patrimonio del Museo y el cumplimiento de sus objetivos;
-
-V. Designar al Vicepresidente y al Secretario de Sesiones;
-
-VI. Designar al Tesorero;
-
-VII. Presentar a la Junta de Gobierno un informe anual de las actividades realizadas;
-
-VIII. Acordar con la Junta de Gobierno, las acciones necesarias para apoyar al Museo en las funciones que éste realice;
-
-IX. Aprobar en su caso los lineamientos de operación del propio Patronato;
-
-X. Promover y fomentar la participación de las instituciones deportivas en el ámbito social y privado para fortalecer e impulsar los proyectos y programas institucionales del Museo;
-
-XI. Establecer coordinación con las instituciones deportivas estatales, nacionales e internacionales con el propósito de brindar el apoyo institucional al desempeño de su función;
-
-XII. Programar eventos con el propósito de valorar el avance de los programas;
-
-XIII. Conservar y mantener el patrimonio deportivo a través de mecanismos de financiamiento con la participación del sector privado y público; y,
-
-XIV. Las demás que sean necesarias para el ejercicio de sus facultades
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-ARTICULO 83 UNDECIES.- El Reglamento de esta Ley determinará lo relativo al procedimiento de selección, requisitos para ser aspirante, convocatorias, integración de expedientes y, en general, todo lo referente a la organización y el funcionamiento del Museo del Deporte y Cultura Física del Estado de Morelos, al Salón de la Fama y el Patronato del Museo del Deporte y Cultura Física del Estado de Morelos.
-
-## TÍTULO SEXTO. ACTIVIDADES DEPORTIVAS ESPECIALES
-
-### CAPÍTULO PRIMERO. DE LAS ACTIVIDADES DEPORTIVAS REMUNERADAS
-
-###### ARTÍCULO 84.
-
-Para los efectos de esta Ley, todas las personas físicas o morales constituidas legalmente, que obtengan su registro en el Sistema con carácter de organismo deportivo con fines de lucro, serán consideradas en todos los aspectos aplicables en esta Ley y demás normatividad inherente, como organismos promotores del deporte remunerado.
-
-###### ARTÍCULO 85.
-
-Las personas físicas o morales que auspicien o patrocinen bajo el término “Deporte”, o con tal carácter se dediquen a realizar en el territorio del Estado exhibiciones, muestras, demostraciones, funciones, competencias y espectáculos, no tendrán acceso bajo ningún concepto al uso de instalaciones, apoyo de fuerzas de seguridad pública, vigilancia o cualquier otro servicio similar o equivalente a cargo de autoridad pública y que se requiera para su desarrollo, si tales organizaciones promotoras no han satisfecho el requisito de previo registro en el Sistema.
-
-###### ARTÍCULO 86.
-
-Conforme al artículo 1º de esta Ley y demás disposiciones aplicables derivadas del mismo ordenamiento, las actividades de carácter público o privado patrocinadas o auspiciadas de manera permanente o temporal que usen, empleen, dispongan o se valgan del deporte, en cualquiera de sus expresiones o modalidades reconocidas en el ámbito empresarial-deportivo, sin importar su carácter local, regional, nacional o internacional y que tengan fines lucrativos de índole social o ambos, tendrán obligación de obtener su registro ante el Sistema, antes de la autorización del uso de suelo y licencia de funcionamiento municipal en el territorio de esta Entidad.
-
-###### ARTÍCULO 87.
-
-El Reglamento de esta Ley especificará las normas aplicables al deporte remunerado Estatal.
-
-### CAPÍTULO SEGUNDO. DEL DEPORTE DE ALTO RENDIMIENTO
-
-###### ARTÍCULO 88.
-
-Se considerarán atletas de alto rendimiento a aquellos que tengan un rendimiento físico de excelencia, con logros deportivos a nivel nacional y/o internacional de carácter oficial, avalados por alguna asociación o federación que pertenezcan a la Confederación Deportiva Mexicana (CODEME).
-
-###### ARTÍCULO 89.
-
-El Instituto proporcionará beca económica a los deportistas de Alto Rendimiento, de acuerdo con su disponibilidad económica aprobada y en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
-
-###### ARTÍCULO 90.
-
-El Instituto proporcionará o gestionará el pago de entrenadores capacitados para los deportistas de alto rendimiento.
-
-###### ARTÍCULO 91.
-
-El Instituto proporcionará o gestionará los recursos económicos para la preparación en competencias locales, nacionales e internacionales de los deportistas de alto rendimiento.
-
-###### ARTÍCULO 92.
-
-El Instituto proporcionará y/o gestionará el uso de instalaciones públicas o privadas para entrenamiento de los deportistas de alto rendimiento.
-
-### CAPÍTULO TERCERO. DEL DEPORTE ADAPTADO
-
-###### ARTÍCULO 93.
-
-Se entiende por deporte adaptado la práctica de actividades deportivas enfocadas a las personas con algún tipo de discapacidad.
-
-Asimismo se entiende como deporte adaptado de alto rendimiento a las diferentes disciplinas y modalidades deportivas reconocidas como oficiales por el Comité Paralímpico Nacional e Internacional.
-
-###### ARTÍCULO 94.
-
-Son consideradas personas con discapacidad, todo ser humano que padece una disminución, sea temporal o permanente en sus facultades físicas y mentales que le impide realizar una actividad normal.
-
-###### ARTÍCULO 95.
-
-Las personas a que se refiere este capítulo recibirán sin discriminación alguna, los estímulos y demás beneficios que se establecen en esta ley y su reglamento.
-
-###### ARTÍCULO 96.
-
-Los integrantes del Sistema y en especial el Ejecutivo del Estado por conducto del Instituto, deberán alentar la práctica de disciplinas y modalidades del deporte adaptado en las instalaciones deportivas donde se cuente con la infraestructura necesaria, teniendo para ello, la colaboración de las diferentes organizaciones del deporte, así mismo promoverán en toda la entidad la formación de equipos deportivos de personas con discapacidad independientemente de que se encuentren integrados o no a programas de rehabilitación.
-
-###### ARTÍCULO 97.
-
-El desarrollo de las actividades del deporte adaptado se dará siempre en un marco de respeto e igualdad, vigilándose la salud del individuo.
-
-###### ARTÍCULO 98.
-
-Los aspirantes a ingresar a cualquiera de las disciplinas del deporte adaptado, requerirán un certificado médico que los acredite aptos para su práctica. Cuando las personas a que se refiere el presente capítulo deseen realizar actividades deportivas, que no impliquen un riesgo para la salud, no será necesaria la presentación del diagnóstico médico citado.
-
-###### ARTÍCULO 99.
-
-El Instituto deberá difundir y promover entre la población discapacitada, la práctica deportiva con el objeto de apoyar su integración a la sociedad y contribuir a mejorar su nivel de desarrollo personal.
-
-###### ARTÍCULO 100.
-
-El Instituto, deberá contar con un área específica que se encargue de la elaboración, programación, ejecución, difusión y en su caso de la supervisión de los programas que con relación al deporte adaptado sean elaborados para su aplicación en el Estado.
-
-###### ARTÍCULO 101.
-
-El Instituto y con el apoyo de los integrantes del Sistema, promoverá la captación de recursos financieros y materiales para apoyar las prioridades que se establezcan en los programa específicos para el deporte adaptado.
-
-###### ARTÍCULO 102.
-
-Se establece un Programa de Becas para los deportistas con discapacidad: sobresalientes, activos o retirados, así como, un Programa de Becas para los deportistas considerados como nuevos valores, mismos que serán proporcionados de acuerdo a la disponibilidad presupuestal del Fondo.
-
-### CAPÍTULO CUARTO. DE LOS DEPORTES EXTREMOS O DE ALTO RIESGO
-
-###### ARTÍCULO 103.
-
-Se denomina deporte extremo o de alto riesgo, aquella actividad deportiva que puede implicar un mayor peligro para la integridad física de la persona que lo practica, y que por ello requiere de una serie de conocimientos, protecciones y equipo especializado, que permitan desarrollar la actividad con seguridad.
-
-Es obligación de quienes presten el servicio de instrucción o guía de deportes que importen un alto riesgo para la integridad física de los practicantes, reunir los requisitos y condiciones que garanticen su práctica en las circunstancias lo mas seguras posible.
-
-El reglamento de esta ley, establecerá las normas de seguridad con las que deberán contar quienes se dediquen a la explotación comercial o práctica de los deportes de alto riesgo, así como los requisitos que deberán cumplir para prestar el servicio de instrucción o guía.
-
-###### ARTÍCULO 104.
-
-Para efectos de la presente ley, se considerarán deportes extremos o de alto riesgo:
-
-I. Buceo;
-
-II. Espeleología;
-
-III. Paracaidismo;
-
-IV. Montañismo, Alpinismo, Rapel;
-
-V. Recorridos rápidos o kayak;
-
-VI. Vuelo libre;
-
-VII. Vuelo en ultraligeros;
-
-VIII. Deportes de combate o contacto;
-
-IX. Motocross, motociclismo acrobático, ciclismo de montaña;
-
-X. Automovilismo; y
-
-XI. Los demás que se establezcan en el reglamento o representen peligro directo e inmediato a la integridad física de las personas.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 2016)</small>
-
-## TÍTULO SÉPTIMO. DE LA PREVENCIÓN, ATENCIÓN Y VIGILANCIA DEL DEPORTE EN MATERIA DE SALUD, MEDIDAS DE SEGURIDADY (SIC) PREVENCIÓN DE LA VIOLENCIA
-
-### CAPÍTULO PRIMERO. DEL SERVICIO MÉDICO EN EL DEPORTE
-
-###### ARTÍCULO 105.
-
-Todo deportista organizado que practique alguna actividad incluida en el Sistema, tendrá derecho a recibir atención médica, tanto en la prevención, como la atención y tratamiento de lesiones, con motivo de su participación en entrenamientos, juegos y/o competencias oficiales.
-
-Para tal efecto, El Instituto promoverá los mecanismos de colaboración con las instituciones públicas y privadas que integran el sector salud, así como con los organismos y asociaciones deportivas.
-
-###### ARTÍCULO 106.
-
-Las instituciones deportivas y organizaciones de los sectores público, social y privado están obligadas a prestar servicio médico deportivo a los deportistas que lo requieran, durante las prácticas y competencias oficiales que promueven u organicen.
-
-###### ARTÍCULO 107.
-
-Las instituciones del sector público estatal, promoverán programas de atención médica, la formación de especialistas en medicina y ciencias aplicadas al deporte, dedicados a la práctica y/o investigación científica.
-
-###### ARTÍCULO 108.
-
-Las asociaciones, organismos o ligas, procurarán contar con un fondo para sufragar parte o la totalidad de los gastos médicos que el deportista erogue con motivo de una lesión producida en la práctica del deporte correspondiente y dentro de la competición sancionada, avalada u organizada por aquellas.
-
-### CAPÍTULO SEGUNDO. DEL ANTIDOPAJE
-
-###### ARTÍCULO 109.
-
-El Instituto y las autoridades municipales del deporte, en el ámbito de sus respectivas competencias, establecerán políticas y acciones de prevención para evitar el uso de sustancias o métodos considerados como prohibidos o restringidos por los organismos deportivos nacionales e internacionales.
-
-###### ARTÍCULO 110.
-
-Dopaje, es el uso de substancias o métodos considerados prohibidos o restringidos, que tienen el efecto de modificar, alterar o incrementar de manera artificial la capacidad de rendimiento mental o físico del deportista.
-
-###### ARTÍCULO 111.
-
-En el Estado, se prohíbe el Dopaje en el deporte. Las autoridades deportivas deberán de garantizar en todo momento el principio de igualdad de oportunidades y, promover el juego limpio en los competidores de los eventos deportivos, así como la salud de los deportistas.
-
-Las acciones contra el Dopaje en el deporte se declaran de interés público, social y prioritario en el Estado.
-
-###### ARTÍCULO 112.
-
-La relación de substancias y métodos considerados de Dopaje, será expedida anualmente y publicada por el Instituto en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado.
-
-###### ARTÍCULO 113.
-
-El Comité Antidopaje, está integrado por:
-
-I. El Titular del Instituto del Deporte y Cultura Física del Estado;
-
-II. Un Coordinador médico estatal representante de la Secretaría de Salud del Estado, quien acordará las acciones de los representantes;
-
-III. Un representante de las asociaciones y organizaciones deportivas del Estado, quien asume el cargo de Secretario;
-
-IV. Un representante deportista con premio estatal, quien asume el cargo de vocal; y
-
-V. Un representante del Centro Estatal de Medicina del Deporte, quien asume el cargo de vocal.
-
-###### ARTÍCULO 114.
-
-El Consejo Consultivo, dará el nombramiento del representante deportista con premio estatal.
-
-###### ARTÍCULO 115.
-
-En las competencias que se realicen en el Estado, se deberán llevar a cabo en forma muestreada análisis de substancias o métodos tipo dopaje y todas las personas que participen en éstas, están obligadas a sujetarse a la práctica de pruebas para la obtención de las muestras correspondientes.
-
-###### ARTÍCULO 116.
-
-El Comité Antidopaje determinará, por evento, el número y procedimiento de elección de deportistas para análisis de substancias o métodos tipo dopaje.
-
-En las competencias estatales, esto se llevará a cabo en forma concertada con la asociación o agrupación estatal de deporte respectiva.
-
-En competencia de ámbito regional, nacional e internacional, se concertará con la Comisión Nacional del Deporte.
-
-###### ARTÍCULO 117.
-
-El Comité Antidopaje, es el único organismo facultado en el Estado para dirimir en caso de dopaje positivo en evento de carácter oficial estatal.
-
-###### ARTÍCULO 118.
-
-Son funciones del Comité Antidopaje:
-
-I. Precisar y emitir la relación de substancias y métodos tipo dopaje;
-
-II. Dictaminar el dopaje en caso positivo o negativo;
-
-III. Coadyuvar y proponer las campañas antidopaje en los medios de comunicación;
-
-IV. Difundir en las asociaciones o agrupaciones del deporte, el peligro que representa el dopaje en el deporte;
-
-V. Asesorar a organismos públicos y privados en materia de dopaje en el deporte;
-
-VI. Proponer y en su caso normar el programa de rehabilitación médica, psicológica y social para deportistas con fallo de dopaje positivo;
-
-VII. Nombrar los asesores y comisiones que se requieran para el cumplimiento de sus funciones; y
-
-VIII. Las demás funciones que determine el Instituto y los ordenamientos jurídicos aplicables.
-
-###### ARTÍCULO 119.
-
-El Comité Antidopaje, expedirá las acreditaciones de nombramientos a peritos, comisarios, oficiales y auxiliares que acrediten tener los conocimientos y destrezas suficientes y necesarias para llevar a cabo su función, establecida en las normas técnicas correspondientes.
-
-###### ARTÍCULO 120.
-
-El Comité Antidopaje, expedirá las normas técnicas, así como las cédulas de aprobación a los laboratorios que comprueben tener los recursos humanos y materiales suficientes y necesarios para llevar a cabo análisis de substancias y métodos tipo dopaje.
-
-###### ARTÍCULO 121.
-
-Para dar fallo de dopaje positivo, el Comité Antidopaje, debe contar con una declaración escrita del deportista indicando la sustancia o método tipo dopaje utilizado, o en su caso el análisis de laboratorio positivo a sustancia o método tipo dopaje.
-
-El deportista tendrá derecho a asistir, acompañado de asesoría especializada, al análisis de laboratorio que determine en forma final el fallo positivo o negativo de dopaje.
-
-###### ARTÍCULO 122.
-
-El deportista no podrá ser objeto de premiación, reconocimiento estímulo o incentivo de índole alguna, por su participación en la competición en que se falle como dopaje positivo; para el caso de haber sido premiado, le será retirado el premio correspondiente.
-
-###### ARTÍCULO 123.
-
-El deportista con fallo de dopaje positivo será sancionado la primera vez, con suspensión temporal de sus derechos como deportista a que se hace acreedor por parte de su asociación u organización deportiva.
-
-En el caso de substancias tipo dopaje prohibidas, anabólicos, esteroides, así como, las catalogadas por la Ley de Salud como estupefacientes, la suspensión será por un período no menor de seis meses.
-
-Durante el tiempo de la suspensión, no podrá representar a su asociación, organización, población, municipio, Estado o al País, ni participar en competición oficial alguna para ese deporte, organizada o avalada por el Instituto.
-
-###### ARTÍCULO 124.
-
-El deportista con fallo de dopaje positivo será sancionado la segunda vez, con pérdida de sus derechos como deportista a que se hace acreedor por parte de su asociación u organización.
-
-El deportista no podrá ser aceptado bajo circunstancia alguna en la asociación u organización de deporte a la que pierde sus derechos.
-
-###### ARTÍCULO 125.
-
-El deportista con fallo de dopaje positivo tendrá derecho a asistir al programa de rehabilitación médica, psicológica y social aprobado por el Comité Antidopaje.
-
-En este programa se incluye el poder participar en algún deporte, bajo la supervisión directa del Comité Antidopaje.
-
-###### ARTÍCULO 126.
-
-Las personas que integran el cuerpo técnico como entrenadores, auxiliares, preparadores físicos, metodólogos, laboratoristas, médicos y ciencias aplicadas al deporte, así como directivos y administradores que tengan responsabilidad en caso positivo de dopaje, se les aplicará el procedimiento legal en los términos del artículo 134 y la falta será considerada como grave.
-
-###### ARTÍCULO 127.
-
-Cuando sea evidente que algún participante en justas deportivas caiga en casos de drogadicción, la autoridad deportiva deberá hacer del conocimiento de las áreas responsables dicha situación.
-
-###### ARTÍCULO 128.
-
-Las sanciones en el ámbito deportivo son independientes de la responsabilidad civil o penal a que dé lugar el uso de substancias o métodos tipo dopaje.
-
-### CAPÍTULO TERCERO. DE LAS MEDIDAS DE SEGURIDAD
-
-###### ARTÍCULO 129.
-
-Las medidas de seguridad tienen por objeto determinar reglas y mecanismos que permitan garantizar que con motivo del desarrollo de espectáculos o competencias deportivas, no se alteren la seguridad e interés públicos, ni se ponga en riesgo la integridad de los participantes, organizadores y espectadores.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2016)</small>
-
-Corresponde a las autoridades en materia de seguridad pública, tránsito y protección civil, estatales y municipales en el ámbito de sus respectivas competencias, la obligación de asegurar la integridad de los asistentes y la prevención de la violencia; asimismo, garantizar un mejor control de la audiencia y facilitar la intervención en su caso, de los servicios médicos que serán obligatorios en espectáculos deportivos masivos o con fines de espectáculo.
-
-Los deportistas, integrantes del cuerpo técnico de los equipos o deportistas y en su caso los organizadores, serán sancionados conforme a la presente Ley y su Reglamento, sin perjuicio de las sanciones a que se hagan acreedores conforme a otras disposiciones reglamentarias municipales o estatales, así como por la responsabilidad civil, administrativa o penal en que incurran de acuerdo a la legislación aplicable.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 2016)</small>
-
-### CAPÍTULO CUARTO. DE LA PREVENCIÓN DE LA VIOLENCIA
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 129 BIS.- Las disposiciones previstas en este Capítulo, serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos, que en la materia dicten la Federación y los Municipios.
-
-El Instituto, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos cuando así lo requieran.
-
-(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 129 TER.- Para efectos de esta Ley, DE MANERA ENUNCIATIVA Y NO LIMITATIVA, por actos o conductas violentas o que incitan a la violencia en el deporte se entienden los siguientes:
-
-I. La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
-
-II. La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
-
-III. La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquellos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
-
-IV. La irrupción no autorizada en los terrenos de juego;
-
-V. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
-
-VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades, y
-
-VII. Las que establezcan la presente Ley, su Reglamento y demás ordenamientos aplicables.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 129 QUATER.- Se crea la Comisión Estatal de Prevención de la Violencia en el Deporte, encabezada por el Titular del Instituto, que será la encargada de elaborar y conducir las políticas generales contra la violencia en el deporte y su prevención.
-
-Para la composición y funcionamiento de la Comisión Estatal, se estará a lo previsto en el Reglamento de la Ley General de Cultura Física y Deporte.
-
-En la Comisión Especial podrán participar dependencias y entidades de la Administración Pública Estatal y Municipal a fin de colaborar, apoyar y desarrollar planes y estudios que aporten eficacia a las acciones encaminadas a la prevención de la violencia en el deporte. Asimismo, podrán participar personas destacadas en el ámbito del deporte.
-
-La coordinación y operación de los trabajos de la Comisión Estatal, estarán a cargo del Instituto y del Reglamento respectivo.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 129 QUINQUIES.- Son atribuciones de la Comisión Estatal, sin menoscabo de las que se establezcan en otros ordenamientos:
-
-I. Elaborar un programa anual de trabajo, con la finalidad de promover e impulsar acciones de prevención contra la violencia en el deporte;
-
-II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia, con el fin de conseguir que el deporte sea un referente de integración y convivencia social;
-
-III. Dentro del ámbito de su competencia, podrá asesorar, siempre que lo requieran, a los organizadores de aquellos eventos o espectáculos deportivos en los que razonablemente se prevea la posibilidad de actos violentos;
-
-IV. Coadyuvar con las dependencias administrativas involucradas en la realización de eventos deportivos, áreas de seguridad pública y protección civil del Estado y los Municipios;
-
-V. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2024)</small>
-
-VI. Crear y promover, programas, protocolos de atención y prevención de la discriminación en el ámbito del deporte, así como proponer acciones en favor de los grupos vulnerables del Estado.
-
-VII. Realizar estudios e informes sobre las causas y efectos de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
-
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
-
-VIII. Ejecutar los acuerdos, políticas y acciones que determine la Comisión Especial Federal.
-
-IX. Informar a las autoridades competentes sobre los riesgos de los eventos deportivos y coadyuvar en la implementación de las medidas necesarias para la protección de personas, instalaciones o bienes, y
-
-X. Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 129 SEXIES.- La Comisión Estatal, de conformidad con los lineamientos, que para prevenir y erradicar la violencia en el deporte emita la Comisión Especial Federal, deberá vigilar el cumplimiento de los mismos en lo concerniente al acceso a los eventos deportivos, entre otras medidas como:
-
-I. La introducción de armas, elementos cortantes, punzantes, contundentes u objetos susceptibles de ser utilizados como tales y que por consecuencia puedan poner en peligro la integridad física de los deportistas, entrenadores, directivos, árbitros y espectadores o asistentes en general;
-
-II. El ingreso y utilización de petardos, bombas de estruendo, bengalas, fuegos de artificio u objetos análogos;
-
-III. La introducción de banderas, carteles, pancartas, mantas o elementos gráficos que atenten contra la moral, la sana convivencia o inciten a la violencia, así como cualquier elemento que impida la plena identificación de los espectadores o aficionados en general;
-
-IV. El establecimiento de espacios determinados, de modo permanente o transitorio, para la ubicación de las porras o grupos de animación empadronados por los clubes o equipos y registrados ante su respectiva Asociación Deportiva Estatal, y
-
-V. La introducción de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas; así como de personas que se encuentren bajo los efectos de las mismas.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 129 SEPTIES.- Toda persona que asista a la celebración de un evento deportivo, independientemente de la calidad en que lo haga, quedará sujeta a lo siguiente:
-
-I. Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley, las que emita la Comisión Especial Federal y las que correspondan en el ámbito municipal en donde se lleven a cabo, y
-
-II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
-
-Los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de las sanciones civiles, penales o administrativas que correspondan.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 129 OCTIES.- Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la Comisión Especial Federal, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Estatales respectivas.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 129 NOVIES.- Los integrantes del Sistema, podrán revisar continuamente sus disposiciones reglamentarias y estatutarias a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores. Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 129 DECIES.- Contra la resolución de la autoridad que imponga sanciones administrativas, procederá el recurso de revisión, independientemente de las vías judiciales que correspondan.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 2016)</small>
-
-## TÍTULO OCTAVO. DE LAS SANCIONES ADMINISTRATIVASY (SIC) PENALES, Y DE LOS RECURSOS EN EL DEPORTE
-
-### CAPÍTULO PRIMERO. DE LAS SANCIONES ADMINISTRATIVAS
-
-###### ARTÍCULO 130.
-
-La aplicación de sanciones administrativas por infracciones a esta Ley, a sus Reglamentos y a las disposiciones normativas aplicables, corresponden:
-
-I. Al Ejecutivo Estatal, a través del Instituto;
-
-II. A las autoridades deportivas estatales y municipales en el ámbito de su competencia;
-
-III. A los organismos deportivos, agrupaciones, ligas y clubes registrados en el ámbito que les corresponda; y
-
-IV. A los directivos, árbitros, jueces y organizadores de las competencias deportivas en relación a los reglamentos deportivos.
-
-###### ARTÍCULO 131.
-
-Las asociaciones, clubes y ligas deportivas impondrán a sus miembros con motivo de las faltas en que incurran, las sanciones que prevean sus estatutos o reglamentos; pero cuando las faltas de aquellas o de estos incidan en violaciones a esta Ley, se harán acreedores a la sanción que la autoridad competente les imponga.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 131 BIS.- Se considerarán como infracciones graves a la presente Ley, las siguientes:
-
-I. En materia de dopaje:
-
-a) La presencia de una sustancia prohibida, de sus metabolitos o marcadores en la muestra de un deportista;
-
-b) La utilización o tentativa, de las sustancias y grupos farmacológicos prohibidos, así como de métodos no reglamentarios, destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar los resultados de las competiciones;
-
-c) La promoción, instigación, administración o encubrimiento de la utilización de sustancias prohibidas o métodos no reglamentarios dentro y fuera de competiciones;
-
-d) La negativa o resistencia, sin justificación válida, a someterse a los controles de dopaje dentro y fuera de competiciones cuando sean exigidos por los órganos o personas competentes, posterior a una notificación hecha conforme a las normas antidopaje aplicables;
-
-e) Cualquier acción u omisión tendiente a impedir o perturbar la correcta realización de los procedimientos de represión del dopaje;
-
-f) La falsificación o tentativa, de cualquier parte del procedimiento de control del dopaje;
-
-g) Tráfico o tentativa, de cualquier sustancia prohibida o de algún método no reglamentario, y
-
-h) La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva.
-
-II. Cualquier acto de discriminación en contra de algún deportista;
-
-III. El uso indebido de recursos públicos por parte de los sujetos destinatarios de los mismos;
-
-IV. El incumplimiento o violación a los estatutos de las Asociaciones Deportivas, por cuanto hace a la elección de sus cuerpos directivos;
-
-V. El incumplimiento de las obligaciones establecidas en los artículos 54 Bis y 80 Bis de la presente Ley, y
-
-VI. Incurrir o incitar a que otros incurran en cualquier acto de violencia durante las prácticas deportivas, que ponga en riesgo la integridad de los presentes.
-
-La sanción que derive de las infracciones previstas en el presente artículos (sic), será independiente de las que se haga acreedor el infractor por infracciones previstas en otros ordenamientos legales.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2016)</small>
-
-###### ARTÍCULO 132.
-
-A los infractores a esta Ley o demás disposiciones que de ella emanen, se les aplicarán las sanciones siguientes:
-
-I. A las Asociaciones y Sociedades Deportivas, Deportivas Estatales, Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva, así como a los organizadores de eventos deportivos con fines de espectáculo:
-
-a) Amonestación privada o pública;
-
-(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-b) LIMITACIÓN, REDUCCIÓN O CANCELACIÓN DE APOYOS ECONÓMICOS;
-
-(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-c) SUSPENSIÓN TEMPORAL O DEFINITIVA DEL USO DE INSTALACIONES PÚBLICAS DE CULTURA FÍSICA Y DEPORTE, Y
-
-(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO d) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-d) SUSPENSIÓN TEMPORAL O DEFINITIVA DE SU INSCRIPCIÓN AL SISTEMA.
-
-II. A directivos del deporte:
-
-a) Amonestación privada o pública;
-
-(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-b) SUSPENSIÓN TEMPORAL O DEFINITIVA DE SU INSCRIPCIÓN AL SISTEMA;
-
-c) Desconocimiento de su representatividad, y
-
-(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO d) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-d) SUSPENSIÓN TEMPORAL O DEFINITIVA DEL USO DE INSTALACIONES PÚBLICAS DE CULTURA FÍSICA Y DEPORTE.
-
-III. A deportistas:
-
-a) Amonestación privada o pública;
-
-(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-b) LIMITACIÓN, REDUCCIÓN O CANCELACIÓN DE APOYOS ECONÓMICOS;
-
-(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-c) SUSPENSIÓN TEMPORAL O DEFINITIVA DE SU INSCRIPCIÓN AL SISTEMA, Y
-
-(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO d) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-d) SUSPENSIÓN TEMPORAL O DEFINITIVA DEL USO DE INSTALACIONES PÚBLICAS DE CULTURA FÍSICA Y DEPORTE.
-
-IV. A técnicos, árbitros y jueces:
-
-a) Amonestación privada o pública;
-
-(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-b) SUSPENSIÓN TEMPORAL O DEFINITIVA DE SU INSCRIPCIÓN AL SISTEMA, Y
-
-(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-c) SUSPENSIÓN TEMPORAL O DEFINITIVA DEL USO DE INSTALACIONES PÚBLICAS DE CULTURA FÍSICA Y DEPORTE.
-
-V. A los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que pudieran generarse y considerando la gravedad de la conducta y, en su caso, la reincidencia:
-
-a) Expulsión inmediata de las instalaciones deportivas;
-
-b) Amonestación privada o pública;
-
-c) Multa de diez a noventa días del valor diario de la Unidad de Medida y Actualización, y
-
-d) Suspensión de uno a cinco años el acceso a eventos deportivos masivos o con fines de espectáculo.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2016)</small>
-
-###### ARTÍCULO 133.
-
-Para los efectos de esta Ley, se consideran como infractores a la misma, a los integrantes del Sistema, a los organizadores de eventos deportivos, masivos o con fines de espectáculo, a los aficionados y espectadores.
-
-###### ARTÍCULO 134.
-
-Las sanciones a que se refiere el artículo 131 de esta Ley, se entenderán de la siguiente forma:
-
-I. El apercibimiento es una llamada de atención que las autoridades competentes y organizaciones deportivas aplican a sus miembros por infracción a las disposiciones, reglamentos o estatutos cuando la falta no sea de gravedad. El apercibimiento será por escrito y, en caso de gravedad no habrá lugar al mismo conforme al reglamento;
-
-II. Las amonestaciones son sanciones que las autoridades competentes y organizaciones deportivas aplican a sus miembros por reincidir a las infracciones a que se refiere la fracción anterior, o bien resultar de gravedad las mismas. Las amonestaciones serán por escrito, en forma pública o privada;
-
-III. La suspensión temporal es aplicable, cuando la falta cometida, consiste en la no observancia de las normas emanadas de la Comisión Nacional del Deporte, del Instituto Estatal del Deporte y de otras autoridades deportivas; y
-
-IV. La cancelación definitiva del registro de un organismo deportivo, el desconocimiento de un directivo deportivo y la cancelación de la cédula de un técnico o de un deportista, son atribuciones del Consejo. En el caso del organismo deportivo, se podrá cancelar su registro, cuando cambie sus características, no cumpla su objeto social o su desempeño no sea compatible para el objeto que fue creado.
-
-La sanción se impondrá escuchando previamente al afectado, para lo cual se le notificarán personalmente mediante escrito los hechos o faltas que se le atribuyan, así como la fecha y hora en que habrá de celebrarse la correspondiente audiencia, misma que deberá tener verificativo dentro de los cinco días hábiles siguientes al de la notificación. En la misma audiencia, el presunto infractor aportará las pruebas de su intención, las cuales se calificarán y desahogarán según su procedencia y expresará asimismo, sus alegatos.
-
-Celebrada la audiencia, en un lapso que no deberá excederse de diez días hábiles, contados a partir del siguiente al de la misma, la instancia que conozca del asunto emitirá su resolución, la cual notificará personalmente y de inmediato al implicado.
-
-###### ARTÍCULO 135.
-
-Las infracciones a lo dispuesto por la presente Ley las determinará el Ejecutivo Estatal en el Reglamento que normará la aplicación y procedimientos de las violaciones a la misma.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 2016)</small>
-
-### CAPÍTULO SEGUNDO. DE LAS SANCIONES PENALES
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 135 BIS.- Comete el delito de violencia en eventos deportivos, el espectador o cualquier otra persona que sin ser juez, jugador o parte del cuerpo técnico de los equipos contendientes en eventos deportivos, masivos o de espectáculo y encontrándose en el interior de los recintos donde se celebre el evento, en sus instalaciones anexas, en sus inmediaciones o en los medios de transporte organizados para acudir a los mismos, realice por sí mismo o incitando a otros, cualquiera de las siguientes conductas:
-
-I. Lance objetos contundentes que por sus características pongan en riesgo la salud o la integridad de las personas. En este supuesto, se impondrán de seis meses a dos años de prisión y de cinco a treinta días multa;
-
-II. Ingrese sin autorización a los terrenos de juego y agreda a las personas o cause daños materiales. Quien incurra en esta hipótesis será sancionado con seis meses a tres años de prisión y de diez a cuarenta días multa;
-
-III. Participe activamente en riñas, lo que se sancionará con seis meses a cuatro años de prisión y de diez a sesenta días multa;
-
-IV. Incite o genere violencia, se considera incitador a quién dolosamente determine a otro u otros para que participen en riñas o agresiones físicas a las personas o los bienes;
-
-V. Cause daños materiales en los bienes muebles o inmuebles que se encuentren en el propio recinto deportivo, en sus instalaciones anexas o en las inmediaciones, o
-
-VI. Introduzca al recinto o a sus instalaciones anexas, armas de fuego, explosivos o cualquier arma prohibida en términos de las leyes aplicables.
-
-Quien incurra en las conductas previstas en las fracciones IV, V y VI de este artículo, será sancionado con un año seis meses a cuatro años seis meses de prisión y de veinte a noventa días multa.
-
-Para efectos de lo dispuesto en este artículo, un día multa equivale a un día del valor diario de la Unidad de Medida y Actualización.
-
-A quien resulte responsable de los delitos previstos en este artículo, se le impondrá también la suspensión del derecho a asistir a eventos deportivos masivos o con fines de espectáculo, por un plazo equivalente a la pena de prisión que le resulte impuesta.
-
-Cuando en la comisión de este delito no resulten dañados bienes de la nación o afectados servidores públicos federales en el ejercicio de sus funciones, conocerán las autoridades del fuero común.
-
-No se castigará como delito la conducta de un asistente a un evento deportivo masivo o de espectáculo, cuando su naturaleza permita la interacción con los participantes.
-
-Las personas que, directa o indirectamente, realicen las conductas previstas en este artículo serán puestas inmediatamente a disposición de las autoridades correspondientes, para que se investigue su probable responsabilidad y se garantice la reparación del daño.
-
-En las conductas no sancionadas por esta Ley, se estará a lo que establece el Código Penal para el Estado de Morelos.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ARTÍCULO 135 TER.- Para los efectos señalados en este Capítulo, se instituye el Padrón de Personas Sancionadas por Violencia en el Deporte, en el cual quedarán inscritas las personas a quienes se les imponga como sanción la prohibición o suspensión de asistencia a eventos deportivos, masivos o con fines de espectáculo. Este padrón formará parte de las bases de datos del Sistema Estatal de Seguridad Pública, la información en él contenida será confidencial y su acceso estará disponible únicamente para las autoridades de la materia, quienes no podrán usarla para otro fin distinto a hacer efectivas las sanciones de prohibición de asistir a eventos deportivos masivos o con fines de espectáculo.
-
-Su organización y funcionamiento se regirán por lo que disponga el Reglamento que al efecto se expida, en términos de la Ley del Sistema Estatal de Seguridad Pública.
-
-La inscripción en este padrón será considerada información confidencial y únicamente tendrá vigencia por el tiempo de la sanción, transcurrido el cual, deberán ser eliminados totalmente los datos del interesado.
-
-### CAPÍTULO TERCERO. DE LOS RECURSOS EN EL DEPORTE
-
-###### ARTÍCULO 136.
-
-Las resoluciones que impongan sanciones, podrán impugnarse mediante el recurso de reconsideración que se tramitará ante la instancia sancionadora dentro de los cinco días hábiles posteriores a la notificación, resolviéndose en el término de diez días hábiles de haberse recibido.
-
-###### ARTÍCULO 137.
-
-Contra las resoluciones de las instancias deportivas integradas al Sistema que impongan sanciones procederá el recurso administrativo de revocación, mismo que se interpondrá por el afectado ante el Instituto, dentro de los cinco días hábiles siguientes a la notificación.
-
-La interposición del recurso de revocación suspenderá la ejecución de la resolución recurrida.
-
-###### ARTÍCULO 138.
-
-Recibido el recurso, la autoridad receptora notificará personalmente al promovente la fecha de celebración de la audiencia para la substanciación del recurso, misma que deberá llevar a cabo dentro de los diez días hábiles siguientes al de su interposición.
-
-Al verificarse la audiencia, si se promovieron pruebas, se calificarán en su procedencia y en su caso, se desahogarán. La audiencia concluirá con la expresión de agravios que formule el promovente del recurso.
-
-Celebrada la audiencia, la instancia de autoridad emitirá una resolución confirmando, modificando o revocando la anterior, dentro de los diez días hábiles siguientes al de la misma, la cual notificará personalmente y de inmediato al recurrente. La resolución que recaiga podrá ser recurrida ante la Comisión Estatal de Apelación y Arbitraje del Deporte.
-
-###### ARTÍCULO 139.
-
-Contra las resoluciones que resuelvan el recurso administrativo de revocación, procederá el recurso de apelación, mismo que se interpondrá por el afectado ante la Comisión Estatal de Apelación y Arbitraje del Deporte, dentro de los cinco días hábiles siguientes al de la notificación de la resolución de que trata el artículo que antecede.
-
-En el mismo escrito de interposición del recurso de apelación, se anunciarán las pruebas, siendo en el caso admisibles, únicamente las denominadas como supervenientes si las hubiere, mismas que solamente podrán ser promovidas por el recurrente.
-
-## TÍTULO NOVENO. DE LA COMISIÓN DE APELACIÓN Y ARBITRAJE DEL DEPORTE
-
-### CAPÍTULO ÚNICO
-
-###### ARTÍCULO 140.
-
-Se crea la Comisión de Apelación y Arbitraje del Deporte, como el organismo que tendrá la función de conocer, y resolver administrativamente los recursos de apelación que los miembros del Sistema Estatal del Deporte, hagan valer en contra de las sanciones establecidas mediante resolución que emitan las autoridades deportivas.
-
-###### ARTÍCULO 141.
-
-La Comisión estará integrada por cinco miembros de la comunidad deportiva con amplio conocimiento en la materia, además de reconocido prestigio y calidad moral en la entidad, quienes serán nombrados por el Titular del Poder Ejecutivo Estatal.
-
-Los integrantes de esta Comisión no deberán ostentar cargo alguno como autoridad perteneciente al Sistema, a fin de asegurar su total independencia e imparcialidad, al resolver los recursos de apelación.
-
-El cargo de comisionado será honorífico.
-
-El Ejecutivo Estatal expedirá las normas a que se sujetarán para su integración y funcionamiento en el reglamento de la presente Ley.
+En los casos en que la Sindicatura Municipal, determine que por negligencia no se hubiese atendido alguna solicitud en los términos del Reglamento, instruirá a la Unidad para que instrumente lo necesario a efecto de proporcionar la información en un plazo no mayor de diez días hábiles.
 
 ## TRANSITORIOS
 
-PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+Artículo Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
 
-SEGUNDO.- El Reglamento de la presente Ley deberá expedirse por el Ejecutivo del Estado dentro de los noventa días siguientes a la fecha en que ésta entre en vigor.
+Artículo Segundo.- La designación de los integrantes de la Comisión de Transparencia Municipal, deberá hacerse dentro de los treinta días siguientes al inicio de la vigencia del presente ordenamiento. Al efecto el XVIII Ayuntamiento invitará a los organismos, instituciones y cámaras a que se refiere el artículo 27 del presente ordenamiento para que constituyan los correspondientes subcomités sectoriales. El Sindico Municipal en su carácter de Secretario Técnico de la Comisión Municipal de Transparencia apoyará con lo necesario para la debida constitución de los citados subcomités.
 
-TERCERO.- Se abroga la Ley del Deporte para el Estado de Morelos publicada en el Periódico Oficial "Tierra y Libertad", número 3990 del veintiuno de julio de mil novecientos noventa y nueve y se derogan todas las disposiciones normativas que se opongan a la presente Ley.
+Artículo Tercero.- Los particulares podrán presentar solicitudes de acceso a la información pública y corrección de datos personales en los términos del presente Reglamento, sesenta días después del inicio de funciones de la Comisión.
 
-CUARTO.- Se abroga el Decreto número mil ciento sesenta y nueve, publicado en el Periódico Oficial "Tierra y Libertad" número 4475, de fecha 26 de julio de 2006, por el que se crea el organismo público descentralizado denominado Instituto del Deporte del Estado de Morelos.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
-QUINTO.- Se abroga el acuerdo del Ejecutivo Estatal de fecha 16 de febrero de 1996, publicado en el Periódico Oficial "Tierra y Libertad".
+P.O. 26 DE MAYO DE 2006.
 
-SEXTO.- Se entenderá por Instituto del Deporte y Cultura Física del Estado de Morelos al Instituto del Deporte del Estado de Morelos en tanto se realicen las adecuaciones correspondientes, que no deberán de exceder de este año.
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación, y se publicará en el Periódico Oficial, órgano del Gobierno del Estado de Baja California, y en un periódico de mayor circulación y/o en la Gaceta Municipal para el conocimiento de los vecinos.
 
-Recinto Legislativo a los doce días del mes de junio de dos mil siete.
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
 
-ATENTAMENTE.
+P.O. 30 DE MARZO DE 2007.
 
-"SUFRAGIO EFECTIVO. NO REELECCIÓN".
+PRIMERO.- La presente iniciativa entrará en vigor al momento de su aprobación.
 
-LOS CC. DIPUTADOS INTEGRANTES DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO.
+SEGUNDO.- Publíquese en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Baja California, así como en un diario de mayor circulación estatal y/o en la Gaceta Municipal, para conocimiento de los vecinos.
 
-DIP. DAVID IRAZOQUE TREJO.
-
-PRESIDENTE.
-
-DIP. JAIME SÁNCHEZ VÉLEZ.
-
-SECRETARIO.
-
-DIP. JESÚS ALBERTO MARTÍNEZ BARRÓN.
-
-SECRETARIO.
-
-RÚBRICAS.
-
-Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
-
-Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los dos días del mes de Julio de dos mil siete.
-
-"SUFRAGIO EFECTIVO. NO REELECCIÓN".
-
-GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
-
-DR. MARCO ANTONIO ADAME CASTILLO
-
-SECRETARIO DE GOBIERNO
-
-LIC. SERGIO ALVAREZ MATA
-
-RÚBRICAS.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 12 DE DICIEMBRE DE 2008.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano del Gobierno del Estado.
-
-SEGUNDO. Los Directores Generales de los organismos públicos descentralizados a que se refiere el presente Decreto, contarán con un plazo de veinte días siguientes a esta publicación para solicitar la modificación respectiva en el Registro Público de Organismos del Estado de Morelos, de acuerdo con lo dispuesto por el artículo 34 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
-
-TERCERO. Los órganos de gobierno de los organismos públicos descentralizados a que se refiere el presente Decreto, contarán con un plazo de treinta días hábiles siguientes a esta publicación para realizar las modificaciones necesarias a sus respectivos estatutos orgánicos, y una vez aprobadas, solicitar la inscripción de las mismas en el Registro Público de Organismos del Estado de Morelos, de conformidad con lo dispuesto por la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
-
-CUARTO. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto al presente Decreto.
-
-QUINTO. Remítase al Poder Ejecutivo para su correspondiente publicación.
-
-P.O. 6 DE MARZO DE 2013.
-
-###### ARTÍCULO PRIMERO.
-
-Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para los efectos a que haya lugar; y posteriormente para su publicación en el Periódico Oficial "Tierra y Libertad".
-
-###### ARTÍCULO SEGUNDO.
-
-El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
-
-P.O. 25 DE SEPTIEMBRE DE 2013.
-
-DECRETO NÚMERO 831, POR EL QUE SE REFORMA EL ARTÍCULO 38, EN SU FRACCIÓN XXIV, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 79, RECORRIÉNDOSE EL SUBSECUENTE PARA CONVERTIRSE EN TERCERO DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
-
-SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 40 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-P.O. 25 DE SEPTIEMBRE DE 2013.
-
-DECRETO NÚMERO 832, POR EL QUE SE REFORMA LA FRACCIÓN II, DEL ARTÍCULO 34, EL PRIMER PÁRRAFO DEL ARTÍCULO 36, EL PRIMER PÁRRAFO Y LA FRACCIÓN IV, DEL ARTÍCULO 38 DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
-
-SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 40 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-P.O. 20 DE NOVIEMBRE DE 2013.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
-
-SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 40 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-TERCERO.- A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 26 DE FEBRERO DE 2014.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano.
-
-###### ARTÍCULO TERCERO.
-
-La Junta de Gobierno del Instituto del Deporte y Cultura Física del Estado de Morelos deberá instalarse con su nueva integración en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto.
-
-###### ARTÍCULO CUARTO.
-
-Dentro de un plazo de 90 días hábiles contados a partir de la instalación de la Junta de Gobierno, deberán ajustarse al presente Decreto tanto el Reglamento de la Ley del Deporte y Cultura Física del Estado de Morelos como las demás disposiciones jurídicas aplicables, entre ellos, el Estatuto Orgánico del Instituto del Deporte y Cultura Física del Estado de Morelos.
-
-###### ARTÍCULO QUINTO.
-
-Se derogan todas las disposiciones que se opongan al presente decreto.
-
-P.O. 26 DE MARZO DE 2014.
-
-PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
-
-SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-TERCERO.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
-
-P.O. 9 DE ABRIL DE 2014.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase el presente Decreto al Gobernador Constitucional del Estado, para efectos de lo dispuesto en los artículos 40 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 8 DE OCTUBRE DE 2014.
-
-PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDO.- El presente Decreto entrará en vigor el 1° de enero de 2015.
-
-TERCERO.- El Ejecutivo del Estado deberá asignar una partida presupuestal debidamente etiquetada, para el cumplimiento del presente Decreto a partir del 1° de enero de 2015.
-
-CUARTO.- El Instituto del Deporte y Cultura Física, deberá prever los mecanismos necesarios, a fin de que sea inaugurado el Museo del Deporte y Cultura Física del Estado de Morelos, inicie operaciones y sea abierto al público a más tardar en un plazo de tres meses, a partir de la entrada en vigor del presente Decreto.
-
-QUINTO.- El Patronato deberá constituirse en un plazo máximo de sesenta días, a partir de la entrada en vigor del presente Decreto.
-
-SEXTO.- El Ejecutivo del Estado contará con un plazo máximo de sesenta días, contados a partir de la entrada en vigor del presente Decreto, para hacer las adecuaciones correspondientes al Reglamento de la Ley del Deporte y Cultura Física, así como la publicación de los Reglamentos del Museo y del Patronato.
-
-P.O. 4 DE MAYO DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS VEINTISIETE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS”.]
-
-PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
-
-TERCERA.- El Poder Ejecutivo del Estado contará con un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor de este decreto, para hacer las modificaciones pertinentes al Reglamento de la presente Ley.
-
-CUARTA.- La Comisión Estatal, a que se refiere el presente decreto, deberá quedar debidamente instalada en un plazo no mayor a 90 días naturales posteriores a la publicación de las reformas al Reglamento de la presente Ley.
-
-QUINTA.- En un plazo no mayor a 6 meses, los Municipios deberán hacer las adecuaciones necesarias para dar cumplimiento a lo dispuesto por el presente Decreto.
-
-SEXTA.- Dentro de los 90 días posteriores a la entrada en vigor del presente Decreto, este Poder Legislativo deberá hacer las modificaciones respectivas a la Ley del Sistema de Seguridad Pública del Estado de Morelos, a fin de dar cumplimiento al mismo.
-
-SÉPTIMA.- Dese cuenta a la Cámara de Senadores, en contestación al acuerdo contenido en el oficio DGPL-1P3A.-6107.16 de fecha 09 de diciembre de 2014, mediante el cual se exhorta a los Congresos de los Estados de la Federación y a la Asamblea Legislativa del Distrito Federal a actualizar los marcos legales correspondientes donde se pueda prevenir, sancionar y eliminar la violencia que se genere en cualquier evento, no sólo futbol, de la que este Congreso ha dado cumplimiento.
-
-P.O. 5 DE FEBRERO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS CINCUENTA Y DOS POR EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS, CON EL OBJETO DE SECTORIZAR EL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA, A LA SECRETARÍA DE EDUCACIÓN DEL GOBIERNO DEL ESTADO".]
-
-PRIMERA.- Remítase al Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
-
-SEGUNDA.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado.
-
-TERCERA.- La Junta de Gobierno del Instituto del Deporte y Cultura Física del Estado de Morelos, contara con un plazo de treinta días hábiles siguientes a la publicación del presente Decreto, para realizar las modificaciones necesarias al Estatuto Orgánico del citado Instituto, y una vez aprobadas, solicitar la inscripción de las mismas en el Registro Público de Organismos del Estado de Morelos, de conformidad con lo dispuesto en el artículo 84 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
-
-CUARTA. Los programas y políticas públicas implementadas por el Instituto del Deporte y Cultura Física del Estado de Morelos durante el presente año, se mantendrán vigentes en tanto el órgano competente determine lo contrario.
-
-QUINTA. Durante el presente ejercicio fiscal, el presupuesto asignado al Instituto del Deporte y Cultura Física será ministrado por la Secretaría de Desarrollo Social, hasta el momento en que deje de surtir sus efectos el Presupuesto de Egresos del Gobierno del Estado de Morelos, para el ejercicio fiscal del 1 de enero al 31 de diciembre de 2019.
-
-SEXTA. El Congreso del Estado tomara las previsiones necesarias para que, en el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal del 1 de enero al 31 de diciembre de 2020, se asignen recursos suficientes al Instituto del Deporte como Organismo Público Descentralizado de la Secretaría de Educación.
-
-SÉPTIMA. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto al presente Decreto.
-
-P.O. 24 DE AGOSTO DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SIETE.- POR EL QUE SE ADICIONA LA FRACCIÓN XXV RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 28 DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS”.]
-
-PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
-
-P.O. 14 DE FEBRERO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS DIECISEIS.- POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 6 DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS”.]
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
-
-P.O. 21 DE FEBRERO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS QUINCE POR EL QUE SE REFORMA EL ARTÍCULO SEGUNDO DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS, CON LA FINALIDAD DE PRESERVAR LA SALUD, PREVENIR ENFERMEDADES, ADICCIONES Y EL CONSUMO DE SUSTANCIAS PSICOACTIVAS”.]
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
-
-P.O. 21 DE FEBRERO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS DIECISIETE.- POR EL QUE SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 51 DE LA LEY DEL DEPORTE Y CULTURA FÍSICA PARA EL ESTADO DE MORELOS.]
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
-
-P.O. 15 DE MAYO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS OCHENTA Y OCHO POR EL QUE SE ADICIONA UNA FRACCIÓN SEXTA AL ARTÍCULO *129 QUINQUIES Y SE RECORREN EN ESE ORDEN LAS SUBSECUENTES DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS".]
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
-
-P.O. 15 DE MAYO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS OCHENTA Y NUEVE.- POR EL QUE SE ADICIONAN LAS FRACCIONES XXVI, XXVII, Y XXVIII AL ARTÍCULO 28 DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS Y SE RECORRE EN ESE ORDEN LA SUBSECUENTE”.]
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+TERCERO.- Se derogan todas aquellas disposiciones municipales que se opongan al presente acuerdo edilicio.
