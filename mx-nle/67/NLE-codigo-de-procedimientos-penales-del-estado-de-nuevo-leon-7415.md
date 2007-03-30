@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2007-03-13"
+last_updated: "2007-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -4473,9 +4473,13 @@ Las normas contenidas en el presente Capítulo serán aplicables para el procesa
 
 I. Los cometidos por culpa;
 
-II. Los de querella previstos en los artículos 189, 262, 280, 282, 284, 285, 291, 338, 342, 344, 360, 381 en relación con el 382 fracción I, 383, en relación con el 382 fracción I, 384 en relación con el 382 fracción I y 385 fracción I;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
 
-III. Los de oficio previstos en los artículos 166 fracción I, 168, 171, 172 primer párrafo, 178, 180, 182, 183, 184, 198, 205, 215 en relación con el 216 fracción I, 217 en relación con el 218 fracción I, 220 en relación con el 221 segundo párrafo, 222, 253, 255, 278, 323, 332, 336, 353 bis y 373.
+II. Los de querella previstos en los artículos 189, 262, 280, 282, 284, 285, 291, 300 en relación con el artículo 301 fracción I, 300 en relación con el artículo 301 fracción II, 338, 342, 344, 360, 381 en relación con el 382 fracción I, 383 en relación con el 382 fracción I, 384 en relación con el 382 fracción I, 385 fracción I, 402 en relación con el 367 fracción I, y 402 en relación con el 367 fracción II;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+III. Los de oficio previstos en los artículos 166 fracción I, 168, 171, 172 primer párrafo, 178, 180, 182, 183, 184, 198, 205, 215 en relación con el 216 fracción I, 217 en relación con el 218 fracción I, 220 en relación con el 221 segundo párrafo, 222, 253, 255, 274, 276, 278, 287 bis, 287 bis 2, 295, 300 en relación con el artículo 301 fracción II, 323, 332, 336, 353 bis, 364 en relación con el 367 fracción I, 364 en relación con el 367 fracción II, 373, 402 en relación con el 367 fracción I y 402 en relación con el 367 fracción II.
 
 Este procedimiento ante los Órganos Jurisdiccionales será preponderantemente Oral, se realizará sobre la base de la acusación y se regirá por los principios de oralidad, inmediación, concentración, continuidad, contradicción y publicidad, salvo las excepciones previstas en este Código y las Leyes aplicables. En lo no previsto por este capítulo, se aplicarán supletoriamente las normas comunes de este Código, siempre que las mismas no contravengan los citados principios.
 
@@ -4525,7 +4529,7 @@ II.- Las circunstancias de tiempo, modo y lugar de los hechos por los que se le 
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
-III.- La participación que se atribuye al inculpado en el autor de formal prisión o sujeción a proceso, debiéndose citar las fracciones del artículo 39 del Código Penal del Estado que considere actualizadas o, en su caso los (sic) formas de participación previstas en los artículos 40 y 41 de dicho Código;
+III.- La participación que se atribuye al inculpado en el auto de formal prisión o sujeción a proceso, debiéndose citar las fracciones del artículo 39 del Código Penal del Estado que considere actualizadas o, en su caso los (sic) formas de participación previstas en los artículos 40 y 41 de dicho Código;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2005)</small>
 
@@ -4561,7 +4565,7 @@ Con el escrito de hechos y ofrecimiento de medios de prueba, se dará vista a la
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
-Cuando la defensa ofrezca como prueba la declaración de testigo que no hubiere rendido declaración en la Averiguación Previa o ante el Juez de Preparación de lo Penal, deberá en su escrito de defensa y ofrecimiento de medios de prueba, señalar los hechos sobre los que versará su declaración en el Juicio Oral, indicando su nombre, apellidos y domicilio o residencia, si se supieran. Si el oferente no proporciona los datos de identificación y localización de los testigos, quedará a su cargo hacerlos comparecer el día y la fecha señalado para la audiencia y, si no acudieren, o si no señalara los hechos sobre los que versará su declaración, se le tendrá por desistido de la prueba.
+Cuando la defensa ofrezca como prueba la declaración de testigo que no hubiere rendido declaración en la Averiguación Previa o ante el Juez de Preparación de lo Penal, deberá en su escrito de defensa y ofrecimiento de medios de prueba, señalar los hechos sobre los que versará su declaración en el Juicio Oral, indicando su nombre, apellidos y domicilio o residencia, si se supieran. Si el oferente no proporciona los datos de identificación y localización de los testigos, quedará a su cargo hacerlos comparecer el día y la fecha señalados para la audiencia y, si no acudieren, o si no señalara los hechos sobre los que versará su declaración, se le tendrá por desistido de la prueba.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
@@ -5524,3 +5528,7 @@ P.O. 13 DE MARZO DE 2007.
 Artículo Primero.- Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- El Ejecutivo del Estado, deberá expedir el reglamento respectivo, donde se establezcan los términos, montos y condiciones respecto a las recompensas a que se hace referencia en el Artículo 182 bis 6 del Código de Procedimientos Penales del Estado de Nuevo León, en un término de cuarenta y cinco días naturales contados a partir de la vigencia del presente decreto.
+
+P.O. 30 DE MARZO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; excepto en lo referente a los delitos de Violencia Familiar establecido en el Artículo 287 Bis, el Equiparable a la Violencia Familiar dispuesto en el Artículo 287 Bis 2 y el de Lesiones tipificado en los artículos 300 y 301, cuando el inculpado fuere pariente o persona que tenga relación con el ofendido según lo dispongan los artículos 287 Bis y 287 Bis 2, todos del Código Penal para el Estado de Nuevo León, respecto de los cuales el Procedimiento Oral Penal entrará en vigor a los noventa días naturales contados a partir del día de la publicación del presente Decreto.
