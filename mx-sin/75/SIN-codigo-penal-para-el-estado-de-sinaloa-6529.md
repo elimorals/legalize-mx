@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2006-08-11"
+last_updated: "2007-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2007.
 
-Código publicado en la Sección Primera del Periódico Oficial "El Estado de Sinaloa", el miércoles 28 de octubre de 1992.
+Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
 EL CIUDADANO LICENCIADO FRANCISCO LABASTIDA OCHOA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SINALOA, A SUS HABITANTES HACE SABER:
 
@@ -2767,7 +2767,7 @@ Al que indebidamente se atribuya y ejerza funciones propias de un servidor públ
 
 Al que usare uniformes oficiales, condecoraciones, grados jerárquicos, distintivos o insignias a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura a que correspondan aquéllos, se le impondrá prisión de tres meses a tres años y de veinte a cincuenta días multa.
 
-## TÍTULO QUINTO. DE LOS DELITOS EN EL PROCESO ELECTORAL
+## TÍTULO QUINTO. DE LOS DELITOS ELECTORALES
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -2995,17 +2995,37 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, podrá sancionársele, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por dos años.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 354.
 
 Para los efectos de este Capítulo se entiende por:
 
-I.- Funcionarios Electorales, quienes en los términos de la Ley Estatal Electoral, integren los órganos que cumplen funciones públicas electorales;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
 
-II.- Funcionarios Partidistas, los dirigentes de los partidos políticos nacionales y estatales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales locales, los propios partidos les otorgan reconocimiento para actuar en su representación; y
+I.- Funcionarios Electorales, quienes en los términos de la legislación electoral del Estado, integren los órganos que cumplen funciones públicas electorales;
 
-III.- Documentos públicos electorales, las actas oficiales de instalación, de escrutinio y cómputo de las mesas directivas de casilla, las de los cómputos distritales, municipales y estatales y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos electorales previstos en la Ley Electoral del Esatdo (sic).
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+II.- Funcionarios Partidistas, los dirigentes de los partidos políticos nacionales y estatales, así como los ciudadanos a quienes en el curso de los procesos electorales locales, los propios partidos les otorgan reconocimiento para actuar en su representación;
+
+III.- Documentos públicos electorales, las actas oficiales de instalación, de escrutinio y cómputo de las mesas directivas de casilla, las de los cómputos distritales, municipales y estatales y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos electorales previstos en la Ley Electoral del Esatdo (sic);
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+IV.- Materiales electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+V.- Precandidatos, los ciudadanos que deciden contender al interior de un determinado partido político o coalición, con el fin de alcanzar su nominación como candidato a un puesto de elección popular;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+VI.- Candidatos, los ciudadanos registrados formalmente como tales por la autoridad competente; y,
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+VII.- Servidores Públicos, a los funcionarios y empleados de la administración pública federal, estatal y municipal.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -3013,63 +3033,111 @@ III.- Documentos públicos electorales, las actas oficiales de instalación, de 
 
 Se impondrá de cincuenta a doscientos días multa y prisión de dos a seis años, al funcionario electoral que:
 
-I.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al registro de electores;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
 
-II.- Siendo funcionario del Registro de Electores no admita la solicitud de inscripción de alguna persona cuando fuere procedente, o se niegue a inscribirla; o la inscriba en otra sección electoral que no le corresponda, expida credencial para votar a quien no corresponda o no la expida oportunamente, sin causa justificada; o dolosamente oculte el equipo y material electoral necesario para la elaboración de la credencial para votar, con la finalidad de evitar su expedición;
+I.- Fuera de los casos previstos en la ley, altere en cualquier forma, sustraiga, sustituya, destruya o haga uso indebido de documentos oficiales o materiales de índole electoral;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+II.- Sin causa prevista por la Ley expulse u ordene el retiro de la casilla electoral a representantes de un partido político o coalición;
 
 III.- No haga constar las violaciones de que haya tenido conocimiento en el desarrollo del proceso electoral;
 
 IV.- Obstruya, sin causa justificada, el desarrollo normal de la votación;
 
-V.- No entregue o impida la entrega oportuna de documentos oficiales necesarios para la elección, sin causa justificada;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+V.- No entregue o impida la entrega oportuna de documentos o materiales electorales necesarios para la elección, sin causa justificada;
 
 VI.- Instale o clausure dolosamente una casilla fuera de los tiempos y formas previstas por esta ley, la instale en lugar distinto al legalmente señalado o impida su instalación;
 
-VII.- Siendo funcionario de mesa directiva de casilla, consienta que la votación se lleve a cabo en forma ilegal o rehuse admitir el voto a quien conforme a esta ley tenga derecho al sufragio; retenga o no entregue al organismo electoral correspondiente los paquetes electorales;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+VII.- Siendo funcionario de la mesa directiva de casilla, consienta que la votación se lleve a cabo en forma ilegal; rehúse admitir el voto a quien conforme a la Ley Electoral, tenga derecho al sufragio o permita que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley; permita que se introduzcan en las urnas o sustraigan de ellas ilícitamente, una o más boletas electorales; indebidamente retenga o no entregue al organismo electoral correspondiente los paquetes electorales;
 
 VIII.- Se niegue, sin causa justificada, a reconocer la personalidad de los representantes de los partidos políticos o les impida el ejercicio de las atribuciones que les corresponden;
 
-IX.- Altere los resultados electorales, sustraiga, destruya o haga un uso indebido de documentación pública electoral;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+IX.- Altere los resultados electorales;
 
 X.- Se abstenga de cumplir con sus obligaciones electorales sin causa justificada y con perjuicio del proceso;
 
-XI.- En ejercicio de sus funciones induzca a los electores en el interior de la casilla o en la fila de votantes, a votar por un candidato o partido político;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
 
-XII.- Altere los resultados electorales, sustraiga o destruya boletas o documentos electorlaes (sic) fuera de los casos previstos en la ley; o
+XI.- En ejercicio de sus funciones induzca a los electores o ejerza presión sobre ellos en el interior de la casilla o en la fila de votantes, a votar por un candidato o partido político;
 
-XIII.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+> <small>(DEROGADA, [N. DE E. REFORMADA], P.O. 30 DE MARZO DE 2007)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+XII.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados; y,
+
+> <small>(ADICIONADA, [N. DE E. REFORMADA], P.O. 30 DE MARZO DE 2007)</small>
+
+XIII.- No tome las medidas legales conducentes, para evitar la realización de conductas que atentan contra la libertad y el secreto del voto.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 356.
 
-Se impondrán de cien a doscientos días multa y prisión de uno a cinco años al funcionario partidista que:
+Se impondrán de cien a doscientos días multa y prisión de uno a cinco años, al funcionario partidista, precandidato o candidato que:
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
 
 I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los electores se encuentren formados para votar;
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
+
 II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
 
-III.- Sustraiga, destruya o altere o haga uso indebido de documentos oficiales de índole electoral;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
 
-IV.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+III.- Sustraiga, destruya, altere o haga uso indebido de documentos oficiales o materiales de índole electoral;
 
-V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral, o respecto de sus resultados;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
 
-VI.- Impida con violencia la instalación, apertura o cierre de una casilla; o mediante violencia obligue a los funcionarios electorales a la apertura o cierre fuera de los tiempos previstos en la ley de la materia; o
+IV.- Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma, sin mediar causa justificada o ejerza violencia física o moral sobre los funcionarios electorales;
 
-VII.- Prepare, organice, participe o induzca a sus partidarios a realizar, por motivos electorales, actos violentos que atenten contra el orden público y la paz social antes, durante y después de la jornada electoral.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+V.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+VI.- Impida con violencia la instalación, apertura o cierre de una casilla; o mediante violencia obligue a los funcionarios electorales a la apertura o cierre fuera de los tiempos previstos en la ley de la materia;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+VII.- Prepare, organice, participe o induzca a sus partidarios a realizar, por motivos electorales, actos violentos que atenten contra el orden público y la paz social antes, durante y después de la jornada electoral;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+VIII.- Obtenga y utilice, con conocimiento de causa, fondos provenientes de actividades ilícitas para la precampaña o campaña electoral;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+IX.- Simule hechos, circunstancias o actos de campaña electoral para imputarlos a candidato, partido o coalición distinta a la que pertenece;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+X.- Emita cualquier expresión pública, impresa o por cualquier otro medio sobre un hecho determinado o indeterminado que calumnie, infame, injurie, difame o denigre a los ciudadanos, a las instituciones públicas, a las personas morales o a otros partidos políticos y sus candidatos; y,
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XI.- Sin autorización del Consejo Estatal Electoral contrate en medios electrónicos o prensa, por sí o por interpósita persona, propaganda electoral en los procesos electorales.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 357.
 
-Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nueve años al servidor público que:
+Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nueve años, destitución del cargo e inhabilitación de tres a nueve años para ocupar empleo, cargo o comisión, al servidor público que:
 
-I.- Obligue a sus subordinados a emitir sus votos en favor de determinado partido político o candidato;
+l.- Obligue a sus subordinados a emitir sus votos en favor o en contra de determinado partido político o candidato;
 
-II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de determinado partido político o candidato;
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor o en contra de determinado partido político o candidato;
 
-III.- Destine fondos, bienes o servicios que tengan a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+III.- Destine, de manera ilegal, fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que pueda corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato; y,
+
+IV.- No preste con la debida oportunidad, la ayuda solicitada por las autoridades electorales, estando legalmente obligado a ello.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -3091,7 +3159,9 @@ VI.- Haga proselitismo o presione a los electores el día de la jornada electora
 
 VII.- Ordene recolectar o recolecte paquetes electorales sin estar facultado para ello;
 
-VIII.- Solicite votos por paga, dádiva o promesa de dinero;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+VIII.- Solicite votos por paga, dádiva o promesa de dinero durante las campañas electorales o la jornada electoral;
 
 IX.- Obstaculice o interfiera dolosamente el desarrollo normal de la votación, del escrutinio o del cómputo;
 
@@ -3101,11 +3171,33 @@ XI.- Traslade votantes el día de la elección con el objeto de llevarlos a vota
 
 XII.- Sustraiga de las urnas o introduzca en ellas ilícitamente una o más boletas electorales;
 
-XIII.- Destruya ilícitamente o altere boletas o documentos electorales;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
 
-XIV.- Destruya propaganda electoral de los partidos políticos en época de elecciones, sin causa justificada; y
+XIII.- Sustraiga, destruya o altere ¡lícitamente, o bien falsifique o haga uso indebido de documentos o materiales electorales;
 
-XV.- Obtenga o solicite declaración firmada de los electores para comprometer el sentido de su voto o que comprometa su voto mediante amenazas.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XIV.- Destruya o retire propaganda electoral de los partidos políticos o coaliciones durante el proceso electoral, sin causa justificada;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XV.- Obtenga o solicite declaración firmada de los electores para comprometer el sentido de su voto o que comprometa su voto mediante amenazas, promesas de pago, dádivas o la prestación de un servicio;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XVI.- Durante los siete días previos al de la elección y hasta la hora oficial del cierre de las casillas electorales, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias electorales de los ciudadanos;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XVII.- Contrate propaganda electoral en medios electrónicos o prensa a favor o en contra de algún partido político, coalición o candidato;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XVIII.- Siendo Notario Público, sin causa justificada, se niegue a dar fe de los actos en los que debe intervenir en los términos de la Ley Electoral; y,
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XIX.- El día de la jornada electoral viole, de cualquier manera, el derecho del ciudadano a emitir su voto en secreto.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -3113,23 +3205,27 @@ XV.- Obtenga o solicite declaración firmada de los electores para comprometer e
 
 Al que teniendo responsabilidad de tomar las medidas necesarias para el depósito y salvaguarda de toda la documentación electoral hasta que el Consejo Estatal Electoral acuerde su destrucción y no lo hiciere así, se le impondrán de tres a ocho años de prisión.
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 360.
 
-Por la comisión de cualquier de los delitos comprendidos en el presente capítulo se podrá imponer además de la pena señalada, la inhabilitación de uno a cinco años y en su caso, la destitución del cargo.
-
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+Por la comisión de cualesquiera de los delitos comprendidos en el presente capítulo se impondrá además de la pena señalada, la suspensión de derechos políticos de uno a cinco años; y, en el caso de funcionarios electorales, la destitución e inhabilitación de uno a cinco años, para ocupar cualquier otro cargo público.
 
 ###### ARTICULO 361.
 
-Los organismos electorales, a petición de los partidos políticos, formularán ante las autoridades correspondientes las denuncias a que se refiere este capítulo que procedan.
+(DEROGADO, P.O. 30 DE MARZO DE 2007)
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 362.
 
-Se impondrán de cien a doscientos días multa y prisión de dos a seis años al funcionario partidista que, a sabiendas, aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 357 de este Código.
+Se impondrán de cien a doscientos días multa y prisión de dos a seis años al funcionario partidista, precandidato, candidato o a los organizadores de los actos de campaña que, a sabiendas, aprovechen ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 357 de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2007)</small>
+
+###### ARTICULO 363.
+
+Se impondrán hasta 500 días multa a los ministros de cultos religiosos que, en el desarrollo de actos públicos propios de su ministerio, induzcan expresamente al electorado a votar a favor o en contra de un candidato o partido político, o a la abstención del ejercicio del derecho al voto.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -3274,3 +3370,9 @@ P.O. 11 DE AGOSTO DE 2006.
 DECRETO NÚMERO 368, POR EL QUE SE REFORMA EL ARTÍCULO 241 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
