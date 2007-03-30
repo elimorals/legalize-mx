@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2004-07-13"
+last_updated: "2007-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -219,7 +219,9 @@ III.- Secretaría de Finanzas y Administración;
 
 IV.- Secretaría de Desarrollo Urbano y Obras Públicas;
 
-V.- Secretaría de Seguridad Pública y Protección Ciudadana;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+V.- Secretaría de Seguridad Pública y Protección Civil;
 
 VI.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2000);
 
@@ -545,9 +547,11 @@ XVII.- Establecer y operar un sistema de seguimiento de programas federales rela
 
 XVIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2007)</small>
+
 ###### ARTICULO 24.
 
-La Secretaría de Seguridad Pública y Protección Ciudadana, es el órgano encargado de conducir y proporcionar los servicios de seguridad pública en el ámbito de su competencia; protección civil; prevención y readaptación social, asistencia y apoyo a reos liberados; de coadyuvar en el diseño e implantación de las políticas estatales en materia criminal y de prevención del delito, fundando sus acciones en la integridad y derechos de las personas, en la preservación de las libertades y la paz pública y el respeto a los derechos humanos, correspondiéndole el despacho de los asuntos siguientes:
+La Secretaría de Seguridad Pública y Protección Civil, es el órgano encargado de conducir y proporcionar los servicios de seguridad pública en el ámbito de su competencia; protección civil; prevención y readaptación social, asistencia y apoyo a reos liberados; de coadyuvar en el diseño e implantación de las políticas estatales en materia criminal y de prevención del delito, fundando sus acciones en la integridad y derechos de las personas, en la preservación de las libertades y la paz pública y el respeto a los derechos humanos, correspondiéndole el despacho de los asuntos siguientes:
 
 I.- Coordinarse con las instancias Federales, Estatales y Municipales, dentro del Sistema Nacional de Seguridad Pública, para cumplir los objetivos y fines en la materia, así como participar en la integración de las instancias, instrumentos, políticas, servicios y acciones, tendientes a cumplir dichos objetivos y fines, en los términos que dispongan los ordenamientos jurídicos aplicables;
 
@@ -567,7 +571,9 @@ VIII.- Auxiliar, dentro del marco legal, al Ministerio Público y a las autorida
 
 IX.- Detener en los casos de delito flagrante al indiciado y a los copartícipes, poniéndolos inmediatamente a disposición de la autoridad competente, en especial tratándose de menores presuntos infractores;
 
-X.- Someter a consideración del Gobernador, el reglamento para la policía preventiva del Estado y para todos aquellos cuerpos que complementaria o transitoriamente desempeñen funciones policiales, por mandato expreso de la ley o de los reglamentos;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+X.- Someter a la consideración y aprobación del Gobernador del Estado, el Reglamento de Policía Preventiva Estatal y de todos aquellos cuerpos que complementaria o transitoriamente desempeñen funciones policiales en el Estado, por mandato expreso de la ley, de acuerdos y convenios o de los reglamentos; así como los proyectos de leyes, reglamentos y decretos, respecto de los asuntos de su competencia, y vigilar su debido cumplimiento;
 
 XI.- Conceder autorizaciones a los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos de bienes o valores, incluido su traslado, cuando los servicios se presten sólo en el territorio de la Entidad, sin perjuicio de cumplir con las disposiciones establecidas por la Ley Federal de Armas de Fuego y Explosivos y de acuerdo con los requisitos y condiciones para la prestación del servicio, la denominación, los mecanismos para su supervisión, y las causas y procedimientos para determinar sanciones, establecidos por las Leyes y Reglamentos aplicables;
 
@@ -577,7 +583,9 @@ XIII.- Vigilar el tránsito en las vías públicas y caminos de jurisdicción es
 
 XIV.- Formular y ejecutar los programas de readaptación social de los internos en los centros de readaptación social del Estado;
 
-XV.- Vigilar el establecimiento de instituciones y la aplicación de las normas preventivas tutelares de menores infractores;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XV.- Promover el establecimiento y vigilar la debida operación de las instituciones encargadas de la ejecución de las medidas que impongan los jueces especializados para el tratamiento de los adolescentes, cumpliendo las disposiciones de los jueces de ejecución, en los términos de la Ley de Justicia para Adolescentes;
 
 XVI.- Administrar los Centros de Readaptación Social y acordar las solicitudes de libertad anticipada y traslado de reos;
 
@@ -607,11 +615,45 @@ XXIV.- Promover el establecimiento de mecanismos para que la sociedad participe 
 
 XXV.- Establecer y operar un sistema de seguimiento de los programas federales conforme a lo que las leyes y acuerdos de coordinación establezcan y en congruencia con el Comité de Planeación para el Desarrollo del Estado;
 
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
 
-XXV bis.- Coordinar las acciones del Consejo Estatal de Seguridad Pública, así como la elaboración de planes y programas en la materia; y
+XXV Bis.- Coordinar las acciones del Consejo Estatal de Seguridad Pública, así como la elaboración de planes y programas en la materia;
 
-XXVI.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XXVI.- Normar el servicio de carrera para la profesionalización del cuerpo de policía estatal;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XXVII.- Celebrar y suscribir los actos jurídicos; contratos, convenios, así como otorgar poderes de representación y demás documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por la normatividad aplicables.
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XXVIII.- Proyectar la elaboración de los estudios necesarios sobre tránsito de vehículos, en las vías de jurisdicción estatal, a fin de lograr una mejor utilización de las mismas y demás medios de transporte correspondientes, que conduzca a la más eficaz protección de la vida, y a la seguridad, comodidad y rapidez en el transporte de personas y de carga;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XXIX.- Actualizar la normatividad del señalamiento de las carreteras estatales, así como la de los dispositivos de control de tránsito;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XXX.- Determinar las acciones encaminadas a mejorar la vialidad en lo referente a la materia de ingeniería de tránsito;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XXXI.- Elaborar y ejecutar el Programa Estatal de Protección Civil, en coordinación con las autoridades competentes en la materia;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XXXII.- Vigilar y aplicar las medidas de seguridad y sanciones en materia de protección civil;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XXXIII.- Conocer, substanciar y resolver los recursos administrativos interpuestos contra actos y resoluciones que emitan el Titular y sus subalternos en el ejercicio de sus funciones, con excepción de aquellos que sean competencia de la Contraloría General del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2007)</small>
+
+XXXIV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 25.
 
@@ -669,7 +711,11 @@ XVIII.- Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotec
 
 XIX.- Coordinar a las entidades, órganos administrativos desconcentrados y establecimientos públicos de bienestar social, cuyas actividades correspondan a la cultura y el deporte;
 
-XX.- Establecer y operar un sistema de seguimiento de los programas federales, relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
+XX.- Establecer y operar un sistema de seguimiento de los programas federales, relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y (sic)
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2007)</small>
+
+XX Bis.- Promover de conformidad con las disposiciones aplicables y ante las instancias que correspondan, se incluyan en los planes y programas de estudio de educación primaria y secundaria, contenidos que versen sobre la cultura de la legalidad y protección civil, en coordinación con la Secretaría de Seguridad Pública y Protección Civil;
 
 XXI.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
@@ -1474,3 +1520,9 @@ P.O. 13 DE JULIO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para sus efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE MARZO DE 2007.
+
+PRIMERO.- El presente Decreto Parlamentario entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase al presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento, efectos legales procedentes y publicación en el Periódico Oficial del Gobierno del Estado.
