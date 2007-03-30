@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-procuraduria-general-de-justicia-del-18681"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-30"
-last_updated: "2006-10-01"
+last_updated: "2007-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2007.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo del 2000.
 
@@ -963,9 +963,13 @@ Artículo Quinto.- Los Poderes Ejecutivo y Judicial harán las previsiones en su
 
 Artículo Sexto.- Con respecto a la Subprocuraduría de Justicia para Adolescentes, el Centro de Aplicación de Medidas, la unidad en Supervisión de Medidas, el Área para la atención de los adolescentes de la Defensoría Legal, todos órganos Especializados del Poder Ejecutivo, deberán ser creados en el mismo plazo de la entrada en vigor de la Ley de la materia.
 
-Artículo Séptimo.- A la LVIII Legislatura del H. Congreso del Estado, le corresponderá el nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes, del Tribunal Superior de Justicia del Estado, durante el Primer Periodo Ordinario de Sesiones del Primer año de su Ejercicio Constitucional.
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
 
-Artículo Octavo.- Los Jueces Especializados para Adolescentes, deberán ser designados en los treinta días posteriores a la fecha de nombramiento de los Magistrados de la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia del Estado.
+Artículo Séptimo.- El Congreso del Estado, nombrará a los Magistrados de la Sala Especializada de Justicia para Adolescentes del Tribunal Superior de Justicia del Estado, a más tardar el 5 de junio del año 2007.
+
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
+
+Artículo Octavo.- Los Jueces Especializados en Justicia para Adolescentes, deberán ser designados por el Pleno del Tribunal de Justicia del Estado, a más tardar el 10 de junio de 2007.
 
 Artículo Noveno.- Los Poderes Ejecutivo y Judicial, de común acuerdo, mediante convenio de colaboración establecerán las bases para el diseño y ejecución de los programas de capacitación dirigidos a los funcionarios y servidores públicos que conformarán el Sistema Integral de Justicia para Adolescentes, en un plazo de treinta días a partir de la entrada en vigor del presente decreto.
 
@@ -976,3 +980,9 @@ Artículo Décimo Primero.- Para efecto de garantizar el acceso a la justicia, l
 Artículo Décimo Segundo.- Las reformas y adiciones a la Ley Orgánica del Poder Judicial en lo referente a la creación del Centro Coordinador de Actuarios y a las distintas Oficialías de Partes del Poder Judicial entrarán en vigor cuando el pleno del Tribunal Superior de Justicia expida los acuerdos generales correspondientes y cuente con la disponibilidad presupuestal necesaria.
 
 Artículo Décimo Tercero.- Las reformas y adiciones de la Ley Orgánica del Poder Judicial que se refieren a los departamentos judiciales y los juzgados existentes, en relación con sus jurisdicciones territoriales, cabeceras, sedes y competencias, entrarán en vigor hasta que el Pleno del Tribunal Superior de Justicia del Estado de Yucatán emita y entren en vigor los acuerdos generales correspondientes, para lo cual contará con un plazo no mayor a ciento veinte días posteriores a la fecha de esta publicación.
+
+D.O. 30 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
