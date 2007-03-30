@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-en-materia-de-austeridad-y-disciplina-54326"
 country: "mx"
 rank: "otro"
 publication_date: "2007-02-27"
-last_updated: "2007-02-27"
+last_updated: "2007-03-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54326&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2007-01-31"
 ---
 # DISPOSICIONES EN MATERIA DE AUSTERIDAD Y DISCIPLINA PRESUPUESTARIA DEL CONSEJO DE LA JUDICATURA FEDERAL PARA EL EJERCICIO FISCAL DOS MIL SIETE
 
-DISPOSICIONES EN MATERIA DE AUSTERIDAD Y DISCIPLINA PRESUPUESTARIA DEL CONSEJO DE LA JUDICATURA FEDERAL PARA EL EJERCICIO FISCAL DOS MIL SIETE
+DISPOSICIONES EN MATERIA DE AUSTERIDAD Y DISCIPLINA PRESUPUESTARIA DEL CONSEJO DE LA JUDICATURA FEDERAL PARA EL EJERCICIO FISCAL 2007
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 2007.
 
 Disposiciones publicadas en la Primera Sección del Diario Oficial de la Federación, el martes 27 de febrero de 2007.
 
@@ -69,7 +69,11 @@ CUARTO.- Que el Consejo de la Judicatura Federal convencido de la necesidad de g
 
 QUINTO.- Que en apego a la normatividad señalada y dando cumplimiento al artículo 15 del Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2007, se publica la siguiente información
 
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2007)</small>
+
 DISPOSICIONES EN MATERIA DE AUSTERIDAD Y DISCIPLINA PRESUPUESTARIA DEL CONSEJO DE LA JUDICATURA FEDERAL PARA EL EJERCICIO FISCAL 2007.
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
 
 SERVICIOS PERSONALES
 
@@ -87,6 +91,8 @@ SERVICIOS PERSONALES
 
 - Se integra un comité conformado por las Secretarías Ejecutivas de Finanzas; de Administración; y de Obra, Recursos Materiales y Servicios Generales; la Contraloría del Poder Judicial de la Federación y la Dirección General de Asuntos Jurídicos del Consejo, con la finalidad de que a más tardar el último día hábil del mes de marzo del presente ejercicio, se presente al Pleno del Consejo de la Judicatura Federal, el resultado de un estudio de aprovechamiento de recursos humanos que determine, si es el caso, cancelar plazas en aquellas áreas administrativas que permitan nuevos procesos, las modificaciones a la forma de contratar obra y la adquisición de bienes, suministros y servicios, con absoluto respeto a los derechos laborales respectivos.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
+
 MATERIALES Y SUMINISTROS, SERVICIOS GENERALES, BIENES MUEBLES E INMUEBLES Y OBRA PUBLICA
 
 - Se ajustarán los programas de adquisición de bienes y se identificarán las existencias en almacén que tienen baja rotación y que puedan ser suministrados a las áreas del Consejo.
@@ -97,9 +103,13 @@ MATERIALES Y SUMINISTROS, SERVICIOS GENERALES, BIENES MUEBLES E INMUEBLES Y OBRA
 
 - Se promoverá, en su caso, la contratación consolidada de materiales y suministros, mobiliario y demás bienes, así como servicios, incluyendo telecomunicaciones, con el objeto de generar ahorros en dichas contrataciones a nivel del Poder Judicial de la Federación.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
+
 PUBLICACIONES
 
-- La difusión de la imagen institucional se realizará únicamente en términos del Decreto del Presupuesto de Egresos para el Ejercicio Fiscal 2007, utilizando los espacios oficiales y los medios que éste señala. Por lo que se refiere a medios impresos, solamente se utilizarán para la publicación de edictos, acuerdos del Consejo y convocatorias.
+- La difusión de la imagen institucional se realizará únicamente en términos del Decreto del Presupuesto de Egresos para el Ejercicio Fiscal 2007, utilizando los espacios oficiales y los medios que éste señala. Las publicaciones en medios impresos se harán de manera racional optimizando los recursos presupuestales autorizados.
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
 
 BECAS Y CAPACITACION
 
@@ -109,9 +119,13 @@ BECAS Y CAPACITACION
 
 - Los años sabáticos a jueces de Distrito y magistrados de Circuito, se autorizarán por el Pleno Consejo de la Judicatura Federal, condicionado a la existencia de disponibilidad presupuestal.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
+
 EDIFICIOS Y LOCALES
 
 - Se evitará en lo posible, la contratación de nuevos arrendamientos, buscando la optimización de espacios en los inmuebles del Consejo.
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
 
 MOBILIARIO Y EQUIPO DE ADMINISTRACION
 
@@ -119,17 +133,25 @@ MOBILIARIO Y EQUIPO DE ADMINISTRACION
 
 - Se adquirirá mobiliario y equipo de administración de reposición, sólo para aquellos casos en que no sea posible atender con mobiliario rehabilitado.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
+
 VEHICULOS
 
 - La asignación de los vehículos a las unidades administrativas se sujetará a los requerimientos mínimos de éstas. El reemplazo de vehículos sólo podrá realizarse cuando los existentes se encuentren siniestrados y la compañía aseguradora haya cubierto la indemnización por ello; cuando el costo de mantenimiento sea superior a los servicios señalados en los manuales de mantenimiento de los fabricantes o los costos de reparación sean superiores al 35% del valor del bien; o cuando los vehículos tengan una antigüedad mínima de cuatro años, a solicitud del interesado.
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
 
 TELEFONIA CELULAR Y RADIOLOCALIZACION
 
 - Se mantienen las cuotas establecidas para el uso de telefonía celular, quedando a cargo de los usuarios el pago por los excedentes a las cuotas establecidas.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
+
 VESTUARIO Y PRENDAS DE PROTECCION CIVIL
 
 - Se reducirá al mínimo indispensable la dotación anual de vestuario y prendas de protección.
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
 
 GASTOS DE ORDEN SOCIAL
 
@@ -137,13 +159,19 @@ GASTOS DE ORDEN SOCIAL
 
 - Se ajustará el programa de actividades culturales, revisando la racionalidad del gasto.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
+
 VIATICOS Y PASAJES NACIONALES E INTERNACIONALES
 
 - Los pasajes nacionales e internacionales para servidores públicos en el desempeño de comisiones y funciones oficiales y viáticos nacionales, se reducirán al mínimo indispensable y se buscará la celebración de convenios tanto con aerolíneas, como hoteles, con la finalidad de contar con descuentos o tarifas preferenciales, con base en el uso de los servicios.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
+
 SERVICIO DE FOTOCOPIADO
 
 - Se implementarán medidas restrictivas para este servicio y se instrumentará un mayor control en el uso de fotocopiadoras.
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
 
 SERVICIO DE TELEFONIA BASICA
 
@@ -151,19 +179,27 @@ SERVICIO DE TELEFONIA BASICA
 
 - Se promoverá el uso de los medios electrónicos del Consejo, para la comunicación en el área metropolitana y hacia el interior de la República.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
+
 SERVICIO DE ENERGIA ELECTRICA Y AGUA POTABLE
 
 - Se buscarán mecanismos para reducir el consumo de energía eléctrica y agua potable.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
+
 HONORARIOS, ASESORIA, CONSULTORIA, ESTUDIOS E INVESTIGACIONES
 
 - La contratación de este tipo de servicio se reducirá al mínimo indispensable, por lo que deberán contar con autorización de la Comisión de Administración, previa opinión de la Secretaría Ejecutiva de Finanzas; con excepción de peritajes que sean autorizados por la Comisión de Administración.
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
 
 MATERIALES Y UTILES DE OFICINA
 
 - Se establecerán medidas para abatir costos de papelería, a través del uso de la tecnología (correo electrónico certificado) con la finalidad de disminuir los consumibles, principalmente en papelería, hojas membretadas, uso de diskettes, reciclaje de papel, por otros medios de almacenamiento de información.
 
 - Se establecerán consumos estándar con la finalidad de contar con una referencia de consumo normal y necesario.
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
 
 MATERIALES Y UTILES PARA EL PROCESO EN EQUIPOS Y BIENES INFORMATICOS
 
@@ -173,17 +209,19 @@ MATERIALES Y UTILES PARA EL PROCESO EN EQUIPOS Y BIENES INFORMATICOS
 
 - Según las funciones de cada área, se priorizará y en su caso se reducirá el uso y pago de las diversas licencias de software.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
+
 SIMPLIFICACION ADMINISTRATIVA
 
 - Se simplificarán trámites y normas a efecto de hacer más ágil y transparente la gestión en materia de recursos humanos, materiales y financieros, con el propósito de abatir los costos de los procesos administrativos relacionados con tales recursos.
 
 - Se realizará el diagnóstico organizacional, operacional y de aprovechamiento de recursos humanos, para evitar la duplicidad de funciones, o bien la concentración de atribuciones en un solo órgano.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2007)</small>
+
 SERVICIOS DE COMEDOR Y GASTOS DE ALIMENTACION
 
 - Se limitará el servicio de comedor exclusivamente a eventos que lleven a cabo los Consejeros.
-
-- Se cancelan los servicios de refrigerios.
 
 ## TRANSITORIOS
 
@@ -194,3 +232,13 @@ SEGUNDO.- Publíquense las presentes disposiciones en el Diario Oficial de la Fe
 TERCERO.- Lo no previsto y la interpretación de las presentes Disposiciones en Materia de Austeridad y Disciplina Presupuestaria del Consejo de la Judicatura Federal para el Ejercicio Fiscal Dos mil Siete, será resuelto por el Pleno del propio Consejo.
 
 El LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que estas Disposiciones en Materia de Austeridad y Disciplina Presupuestaria del Consejo de la Judicatura Federal para el Ejercicio Fiscal Dos Mil Siete, fueron aprobadas por el Pleno del Consejo de la Judicatura Federal, en sesión de treinta y uno de enero de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a treinta y uno de enero de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LAS PRESENTES DISPOSICIONES.</small>
+
+D.O.F. 30 DE MARZO DE 2007.
+
+PRIMERO.- La presente modificación a las disposiciones en materia de austeridad y disciplina presupuestaria entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquense la presente modificación en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Lo no previsto y la interpretación de las presentes Disposiciones en Materia de Austeridad y Disciplina Presupuestaria del Consejo de la Judicatura Federal para el Ejercicio Fiscal Dos mil Siete, será resuelto por el Pleno del propio Consejo.
