@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-el-tratamiento-y-proteccion-de-los-menores-14957"
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-12"
-last_updated: "2006-12-07"
+last_updated: "2007-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 
 LEY PARA EL TRATAMIENTO Y PROTECCION DE LOS MENORES INFRACTORES DEL ESTADO DE YUCATAN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 7 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO A LOS SEIS MESES POSTERIORES A LA PUBLICACION DE LA NUEVA LEY.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 7 DE DICIEMBRE DE 2006 Y REFORMADA POR DECRETO NO. 752 PUBLICADO EN EL D.O. 30 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO A PARTIR DEL 15 DE JUNIO DE 2007.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2007.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 12 de agosto de 1999.
 
@@ -1281,9 +1281,11 @@ El Poder Judicial publicará en el Diario Oficial del Gobierno del Estado la fec
 
 D.O. 7 DE DICIEMBRE DE 2006.
 
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-Este Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial del Gobierno del Estado, con excepción de lo preceptuado en el artículo 142 de esta ley.
+Este Decreto entrará en vigor el 15 de junio de 2007.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1296,6 +1298,10 @@ A partir del día siguiente de la publicación del presente Decreto y hasta ante
 ###### ARTÍCULO CUARTO.
 
 A partir del inicio de la vigencia de este Decreto y hasta que comience a funcionar el Sistema Integral de Justicia para Adolescentes, con todos sus órganos jurisdiccionales y administrativos, el Consejo Tutelar de Menores Infractores y la Escuela de Educación Social para Menores Infractores aplicarán esta ley a los adolescentes a los que se atribuyan conductas tipificadas como delito en las leyes penales. Los adolescentes que al momento de entrar en vigor esta ley se encuentren procesados conforme la Ley para el Tratamiento y Protección de los Menores Infractores del Estado de Yucatán continuarán sujetos a ella hasta que se emita la resolución definitiva.
+
+> <small>(ADICIONADO, D.O. 30 DE MARZO DE 2007)</small>
+
+Los adolescentes que al momento del inicio de la vigencia de esta Ley se encontraren en proceso, serán puestos bajo jurisdicción de los juzgados especializados.
 
 ###### ARTÍCULO QUINTO.
 
@@ -1316,3 +1322,9 @@ El Sistema Integral de Justicia para Adolescentes deberá comenzar a funcionar c
 ###### ARTÍCULO NOVENO.
 
 El Poder Judicial publicará en el Diario Oficial del Gobierno del Estado la fecha de inicio del funcionamiento de sus órganos especializados en justicia para adolescentes.
+
+D.O. 30 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
