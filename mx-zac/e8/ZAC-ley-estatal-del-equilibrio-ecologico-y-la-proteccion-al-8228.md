@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-8228"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-27"
-last_updated: "1989-12-27"
+last_updated: "2007-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 31 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de diciembre de 1989.
 
@@ -1498,3 +1500,25 @@ LIC. GENARO BORREGO ESTRADA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ROGELIO HERNANDEZ QUINTERO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE MARZO DE 2007.
+
+Artículo primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se abroga la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente, publicada en Suplemento número 5 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 27 de Diciembre de 1989.
+
+Artículo tercero.- Se derogan todas aquellas disposiciones que contravengan esta Ley.
+
+Artículo cuarto.- Dentro de los noventa días naturales siguientes a la entrada en vigor de este ordenamiento, el Ejecutivo del Estado expedirá los Reglamentos de esta ley. En ese mismo término, los Ayuntamientos expedirán las reformas a los Bandos de Policía y Gobierno y los Reglamentos correspondientes.
+
+Artículo quinto.- Dentro de los ciento ochenta días siguientes a la entrada en vigor de esta Ley, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Programa ambiental para el desarrollo sustentable del Estado. En ese mismo plazo, los Ayuntamientos publicarán en dicha gaceta gubernamental los programas municipales de desarrollo sustentable.
+
+Artículo sexto.- En un término que no deberá exceder de noventa días naturales siguientes a la entrada en vigor de este ordenamiento, el Consejo Directivo del Instituto deberá expedir el Estatuto Orgánico y los manuales respectivos.
+
+Artículo séptimo.- Los consejos estatales y municipales, así como los comités previstos en esta Ley, deberán conformarse dentro de los treinta días naturales siguientes a su entrada en vigor.
+
+Asimismo, en ese plazo deberán ponerse en ejecución el Sistema Estatal de Información Ambiental, el Sistema Estatal de Áreas Naturales Protegidas, el Registro Estatal de Áreas Naturales Protegidas y el Registro de Prestadores de Servicios Ambientales.
+
+Artículo octavo.- Los procedimientos iniciados con anterioridad a la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento que les dieron origen.
