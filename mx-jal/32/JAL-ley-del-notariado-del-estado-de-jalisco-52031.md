@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2006-11-16"
+last_updated: "2007-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 31 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -161,9 +161,9 @@ El titular del Poder Ejecutivo determinará anualmente el número de solicitudes
 
 El examen se efectuará en la sede del Consejo de Notarios ante un jurado compuesto por cinco sinodales que serán:
 
-I. El Presidente será el Titular del Ejecutivo o quien éste designe;
+I. El Presidente será el Titular del Ejecutivo o quien este designe;
 
-II. El Secretario será el Presidente del Consejo de Notarios o quien este designe, y que se encargará de levantar el acta circunstanciada; y
+II. El Secretario será el Presidente del Consejo de Notarios o quien éste designe, y que se encargará de levantar el acta circunstanciada; y
 
 III. Tres vocales:
 
@@ -769,7 +769,9 @@ El notario no podrá iniciar el ejercicio de sus funciones sin que previamente r
 
 El notario deberá iniciar sus funciones dentro de los treinta días hábiles siguientes a la fecha en que rinda la protesta.
 
-Igualmente, comunicará a la Secretaría General de Gobierno, a la Procuraduría General de Justicia, al Consejo de Notarios, al Supremo Tribunal de Justicia, al Consejo de la Judicatura del Estado, a las Direcciones del Archivo de Instrumentos Públicos, de Profesiones y del Registro Público de la Propiedad del Estado, a los Ayuntamientos de su Región y a las Oficinas de Hacienda Federales, Estatales y Municipales respectivas, lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2007)</small>
+
+Igualmente, comunicará a la Secretaría General de Gobierno, a la Procuraduría General de Justicia, a la Procuraduría Social, al Consejo de Notarios, al Supremo Tribunal de Justicia, al Consejo de la Judicatura del Estado, a las direcciones del Archivo de Instrumentos Públicos, de Profesionales y del Registro Público de la Propiedad del Estado, a los ayuntamientos de su región y a las oficinas del Hacienda federales, estatales y municipales respectivas, lo siguiente:
 
 I. La fecha en que iniciará su ejercicio;
 
@@ -1293,7 +1295,9 @@ En los casos señalados en las fracciones anteriores, el notario dará el destin
 
 Sólo se tramitarán y en su caso se radicarán en las notarías los procedimientos sucesorios a rogación de todos los interesados en los términos de los Código Civil y de Procedimientos Civiles del Estado de Jalisco.
 
-En los casos de trámite sucesorio, por vía de testamento público abierto, el notario previamente a la publicación a la que se refiere el párrafo siguiente, deberá recabar información de la Procuraduría General de Justicia, del Archivo de Instrumentos Públicos y del Registro Público de la Propiedad tanto de este Estado de Jalisco como del domicilio del autor de la sucesión, respecto de cual sea la última disposición testamentaria que tengan registrada como otorgada.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2007)</small>
+
+En los casos de trámite sucesorio, por vía de testamento público abierto, el Notario previamente a la publicación a la que se refiere el párrafo siguiente, deberá recabar información de la Procuraduría Social, del Archivo de Instrumentos Públicos y del Registro Público de la Propiedad, tanto de este estado de Jalisco como del domicilio del autor de la sucesión, respecto de cuál sea la última disposición testamentaria que tengan registrada como otorgada.
 
 Recibida la información a que se refiere este artículo, dispondrá la publicación de un aviso en un periódico de mayor circulación y en el periódico oficial “El Estado de Jalisco”, en los que se informe sobre la tramitación sucesoria.
 
@@ -1433,9 +1437,9 @@ Cuando se trate de revocación o renuncia de poderes que no hayan sido otorgados
 
 Cuando al otorgarse un testamento, se revoque otro asentado en el protocolo de la misma notaría, se deberá hacer la anotación correspondiente; si pasó ante diverso notario, se le comunicará para que aquel la efectúe.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2007)</small>
 
-El notario deberá dar aviso dentro de los dos días siguientes, a la Procuraduría General de Justicia del Estado de Jalisco y a la Dirección del Archivo de Instrumentos Públicos cuando se otorgue o revoque un testamento.
+El Notario deberá dar aviso dentro de los dos días siguientes a la Procuraduría Social y a la Dirección del Archivo de Instrumentos Públicos, cuando se otorgue o revoque un testamento.
 
 En ambos casos el aviso deberá contener los siguientes datos:
 
@@ -1635,9 +1639,11 @@ Las partes serán solidariamente responsables para con el notario por el importe
 
 ### CAPÍTULO I. DE LAS VISITAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2007)</small>
+
 ###### Artículo 139.
 
-El Titular del Poder Ejecutivo por conducto del Procurador General de Justicia del Estado, realizará las visitas generales o especiales que señala la presente ley a las notarías de la entidad, para lo cual contarán con un cuerpo de agentes visitadores.
+El titular del Poder Ejecutivo, por conducto del Procurador Social del Estado, realizará las visitas generales o especiales que señala la presente ley a las notarías de la entidad, para lo cual contarán con un cuerpo de agentes visitadores.
 
 En caso de queja, también podrán realizarse visitas en cualquier tiempo, para verificar el cumplimiento de los horarios, asistencia y permanencia del notario en el domicilio de la oficina notarial única.
 
@@ -1651,9 +1657,11 @@ Las visitas especiales podrán realizarse en cualquier tiempo. Se limitarán al 
 
 El Consejo de Notarios coadyuvará con la autoridad en la práctica de las visitas especiales a las notarías, cuando para ello fuere requerido.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2007)</small>
+
 ###### Artículo 142.
 
-Las visitas a los notarios se practicarán por mandamiento escrito que deberá expedir el Procurador General de Justicia del Estado, mismo que deberá ser fundado y motivado en donde expresará el nombre del notario, el número de la notaría, el lugar donde deba llevarse a cabo, la especificación del tipo de visita, el período que comprenda y los documentos o soportes electrónicos que han de revisarse.
+Las visitas a los notarios se practicarán por mandamiento escrito que deberá expedir el Procurador Social del Estado, mismo que deberá ser fundado y motivado, en donde expresará el nombre del Notario, el número de la notaría, el lugar donde deba llevarse a cabo, la especificación del tipo de visita, el periodo que comprenda y los documentos o soportes electrónicos que han de revisarse.
 
 Los agentes visitadores designados, actuarán conjunta o separadamente. Podrán ser substituidos, aumentados o reducidos en su número en cualquier tiempo, por quien lo ordenó, debiéndose comunicar esta circunstancia al visitado.
 
@@ -2694,3 +2702,7 @@ II. Se realizarán insertando el certificado de libertad o gravamen con cautelar
 III. En caso de escrituras sucesivas que se refieren al mismo inmueble, y que se encuentren en trámite de registro, se podrán realizar insertando un sólo certificado de libertad de gravamen ó bien el certificado de libertad o gravamen con cautelar inserto, siempre y cuando se encuentren vigentes éstos, de lo que deberá cerciorarse el notario bajo su responsabilidad.
 
 El Titular del Ejecutivo, a través de la Secretaría General de Gobierno, mediante acuerdo administrativo, podrá establecer, en su caso, las bases para la debida aplicación y cumplimiento del presente artículo.
+
+P.O. 31 DE MARZO DE 2007.
+
+ÚNICO.- El Presente Decreto entrará en vigor el día 1º de abril de 2007, previa publicación en el periódico oficial El Estado de Jalisco.
