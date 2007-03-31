@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-acceso-a-la-informacion-gubernamental-del-estado-de-2622
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2002-09-27"
+last_updated: "2007-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE ACCESO A LA INFORMACION GUBERNAMENTAL DEL ESTADO DE QUERETARO -ANTES LEY ESTATAL DE ACCESO A LA INFORMACION GUBERNAMENTAL EN EL ESTADO DE QUERETARO-
 
-LEY ESTATAL DE ACCESO A LA INFORMACIÓN GUBERNAMENTAL EN EL ESTADO DE QUERÉTARO.
+LEY ESTATAL DE ACCESO A LA INFORMACIÓN GUBERNAMENTAL EN EL ESTADO DE QUERETARO.
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -427,7 +427,9 @@ Por cada comisionado propietario se elegirá un suplente.
 
 La elección la organizará y realizará la Legislatura del Estado, quien publicará por lo menos 90 días antes de la elección una convocatoria abierta a toda la ciudadanía, para que de conformidad con el párrafo anterior se hagan propuestas ciudadanas. La propia Legislatura determinará las bases bajo las cuales se realizará la elección.
 
-Los comisionados percibirán un ingreso igual al que reciben los consejeros del Instituto Electoral de Querétaro y no podrán ser separados del cargo para el que fueron electos, salvo por causa grave que calificará la Legislatura del Estado.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2007)</small>
+
+Los comisionados no podrán ser separados del cargo para el que fueron electos, salvo por causa grave que calificará la Legislatura del Estado.
 
 Los comisionados designarán por mayoría de votos entre ellos, a quienes desempeñaran los cargos de Presidente y Secretario y durarán dos años en el ejercicio de estos, pudiendo ser reelectos.
 
@@ -599,6 +601,18 @@ La Legislatura del Estado emitirá la convocatoria respectiva para la elección 
 
 La Comisión expedirá su reglamento en un período no mayor a sesenta días naturales a partir de que tome posesión de su cargo.
 
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día 1 de abril del año 2007.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Estatal de Acceso a la Información Gubernamental ajustará las prestaciones adicionales al salario a que tienen derecho los comisionados, de acuerdo a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+La cantidad que resulte de la actualización de los salarios de los Comisionados y la aplicación de la presente Ley, será transferida y aplicada en difusión, capacitación y promoción de la cultura de acceso a la información, incremento de su patrimonio mobiliario y de ninguna manera podrá destinarse a gasto corriente.
+
 ###### ARTÍCULO TERCERO.
 
 Los gobernados podrán ejercer su derecho de acceso a la información pública a partir del primero de abril del año 2003; es obligación de las entidades gubernamentales en el ámbito de sus atribuciones acordar lo conducente en todas las materias para que el ejercicio del derecho a acceder a la información pública sea efectivo a partir de la fecha señalada en este artículo.
@@ -674,3 +688,7 @@ LIC. BERNARDO GARCÍA CAMINO
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE MARZO DE 2007.
