@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "2006-01-02"
+last_updated: "2007-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA NUEVA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADA EN EL D.O.F. DE 31 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -242,6 +244,8 @@ Las cotizaciones establecidas en los artículos 16 y 21 de esta Ley, se efectuar
 
 El sueldo básico de los trabajadores de los organismos públicos se determinará con sujeción a los lineamientos que fija el presente artículo.
 
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DE LA NUEVA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADA EN EL D.O.F. DE 31 DE MARZO DE 2007.</small>
+
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 ###### Artículo 16.
@@ -289,6 +293,8 @@ En los casos señalados, el trabajador deberá pagar la totalidad de las cuotas 
 ###### Artículo 20.
 
 Cuando no se hubieren hecho a los trabajadores los descuentos procedentes conforme a esta Ley, el Instituto mandará descontar hasta un 30% del sueldo mientras el adeudo no esté cubierto, a menos que el trabajador solicite y obtenga mayores facilidades para el pago.
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DE LA NUEVA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADA EN EL D.O.F. DE 31 DE MARZO DE 2007.</small>
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
@@ -373,6 +379,8 @@ Los familiares que se mencionan en este artículo tendrán el derecho que esta d
 A) Que el trabajador o el pensionista tengan derecho a las prestaciones señaladas en la fracción I del artículo 23 de la presente Ley; y
 
 B) Que dichos familiares no tengan por sí mismos derechos propios a las prestaciones señaladas en la fracción I del artículo 23 de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DE LA NUEVA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADA EN EL D.O.F. DE 31 DE MARZO DE 2007.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
 
@@ -943,6 +951,8 @@ El Instituto proporcionará servicios de pre-pensión y post-pensión a los trab
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
 Artículo 90 BIS-A.- Las dependencias y entidades están obligadas a enterar al Instituto, el importe de las aportaciones correspondientes al sistema de ahorro para el retiro, mediante la constitución de depósitos de dinero en favor de cada trabajador, en la forma y términos señalados en el presente Capítulo.
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DE LA NUEVA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADA EN EL D.O.F. DE 31 DE MARZO DE 2007.</small>
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1993)</small>
 
@@ -2329,3 +2339,499 @@ Segundo. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del 
 Tercero. Los bienes muebles e inmuebles o cualquier otro derecho o activo que se hubieren acumulado a la fecha de entrada en vigor del presente Decreto utilizando recursos de las aportaciones del 5% al Fondo de Vivienda previstas en el Art. 21 de la Ley del ISSSTE formarán parte de las reservas del Fondo de la Vivienda.
 
 Los activos o servicios vinculados al Fondo de la Vivienda que en lo futuro llegarán a financiarse con recursos distintos a las aportaciones del 5%, deberán se (sic) costeados con cargo al Fondo de (sic) Vivienda.
+
+D.O.F. 31 DE MARZO DE 2007.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de los artículos 42, 75, 101, 140, 193 y 199, los cuales entrarán en vigor el día primero de enero de dos mil ocho.
+
+Lo dispuesto en las fracciones I, V y VI del artículo décimo transitorio les será aplicable a todos los Trabajadores hasta que ejerzan el derecho previsto en el artículo quinto transitorio.
+
+SEGUNDO. A partir de la entrada en vigor de esta Ley, se abroga la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado publicada en el Diario Oficial de la Federación el día veintisiete de diciembre de mil novecientos ochenta y tres con sus reformas y adiciones, con excepción de los artículos 16, 21, 25 y 90 Bis B, mismos que estarán vigentes hasta el día treinta y uno de diciembre de dos mil siete.
+
+TERCERO. Se mantendrán en vigor todas las disposiciones reglamentarias y administrativas que no se opongan a la presente Ley, hasta en tanto se expidan las normas relativas al presente ordenamiento.
+
+DERECHOS DE LOS TRABAJADORES
+
+CUARTO. A los Trabajadores que se encuentren cotizando al régimen del Instituto a la fecha de entrada en vigor de la presente Ley, se les reconocen los periodos cotizados con anterioridad.
+
+QUINTO. Los Trabajadores tienen derecho a optar por el régimen que se establece en el artículo décimo transitorio, o por la acreditación de Bonos de Pensión del ISSSTE en sus Cuentas Individuales.
+
+SEXTO. Para los efectos señalados en el artículo anterior, dentro de un plazo que no excederá del treinta y uno de diciembre de dos mil siete, se realizará lo siguiente:
+
+I. El Instituto acreditará el tiempo de cotización de cada Trabajador de acuerdo con la información disponible en sus registros y bases de datos, así como con la que se recabe para este fin, de conformidad con los programas y criterios que estime pertinentes;
+
+II. Con base en la información relativa al tiempo de cotización acreditado de cada Trabajador, el Instituto entregará a la Secretaría de Hacienda y Crédito Público el cálculo preliminar de los importes de los Bonos de Pensión del ISSSTE que les correspondan;
+
+III. A través de los mecanismos que estimen pertinentes, la Secretaría de Hacienda y Crédito Público y el Instituto harán del conocimiento de los Trabajadores el cálculo preliminar de sus Bonos de Pensión, así como la información sobre las opciones a que tengan derecho conforme a lo dispuesto en este ordenamiento, y
+
+IV. Las Dependencias y Entidades deberán colaborar con la Secretaría de Hacienda y Crédito Público y el Instituto en todo lo necesario para integrar la documentación e información requeridas para la acreditación del tiempo de cotización, el Sueldo Básico y el cálculo del Bono de Pensión de los Trabajadores, así como para informar a éstos sobre las opciones y derechos correlativos.
+
+SÉPTIMO. A partir del día primero de enero de dos mil ocho, los Trabajadores tendrán seis meses para optar por el régimen previsto en el artículo décimo transitorio o por la acreditación de Bonos de Pensión del ISSSTE.
+
+Dentro de ese plazo, en caso de que el Trabajador considere que su Sueldo Básico o tiempo de cotización son diferentes a los que le sean acreditados como base para el cálculo preliminar de su Bono de Pensión, tendrá derecho a entregar al Instituto, para que realice la revisión y ajuste que en su caso correspondan, las hojas únicas de servicio que para este efecto le expidan las Dependencias y Entidades en que haya laborado, con el propósito de que los ajustes procedentes le sean reconocidos en el cálculo del Bono de Pensión, como parte de los elementos necesarios para sustentar su decisión.
+
+La opción adoptada por el Trabajador deberá comunicarla por escrito al Instituto a través de las Dependencias y Entidades, en los términos que se establezcan y se le hayan dado a conocer, y será definitiva, irrenunciable y no podrá modificarse. El formato que se apruebe para ejercer este derecho deberá ser publicado en el Diario Oficial de la Federación.
+
+Cuando el Trabajador no manifieste la opción que elige dentro del plazo previsto, se le deberá hacer saber en los términos que establezca el reglamento respectivo conforme al cual se respetará lo conducente a los Trabajadores que no manifiesten su elección.
+
+OCTAVO. Los Trabajadores que hubieran optado por el régimen del artículo décimo transitorio, en ningún caso tendrán derecho a la acreditación de Bonos de Pensión del ISSSTE.
+
+NOVENO. El valor nominal de emisión expresado en unidades de inversión de los Bonos de Pensión del ISSSTE que se calculará a cada Trabajador será el que se determine conforme a la tabla siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, por el Sueldo Básico, elevado al año y expresado en unidades de inversión, que estuviere percibiendo el Trabajador al último día del año anterior a que entre en vigor esta Ley.
+
+RÉGIMEN DE LOS TRABAJADORES QUE NO OPTEN POR EL BONO
+
+DÉCIMO. A los Trabajadores que no opten por la acreditación de Bonos de Pensión del ISSSTE, se les aplicarán las siguientes modalidades:
+
+I. A partir de la entrada en vigor de esta Ley hasta el treinta y uno de diciembre de dos mil nueve:
+
+a) Los Trabajadores que hubieren cotizado treinta años o más y las Trabajadoras que hubieran cotizado veintiocho años o más, tendrán derecho a Pensión por Jubilación equivalente al cien por ciento del promedio del Sueldo Básico de su último año de servicio y su percepción comenzará a partir del día siguiente a aquél en que el Trabajador hubiese disfrutado el último sueldo antes de causar baja;
+
+b) Los Trabajadores que cumplan cincuenta y cinco años de edad o más y quince años o más de cotización al Instituto, tendrán derecho a una Pensión de retiro por edad y tiempo de servicios equivalente a un porcentaje del promedio del Sueldo Básico de su último año de servicio que se define en la fracción IV, de conformidad con la siguiente Tabla:
+
+15 años de servicio 50 %
+
+16 años de servicio 52.5 %
+
+17 años de servicio 55 %
+
+18 años de servicio 57.5 %
+
+19 años de servicio 60 %
+
+20 años de servicio 62.5 %
+
+21 años de servicio 65 %
+
+22 años de servicio 67.5 %
+
+23 años de servicio 70 %
+
+24 años de servicio 72.5 %
+
+25 años de servicio 75 %
+
+26 años de servicio 80 %
+
+27 años de servicio 85 %
+
+28 años de servicio 90 %
+
+29 años de servicio 95 %
+
+c) Los Trabajadores que se separen voluntariamente del servicio o que queden privados de trabajo después de los sesenta años de edad y que hayan cotizado por un mínimo de diez años al Instituto, tendrán derecho a una Pensión de cesantía en edad avanzada, equivalente a un porcentaje del promedio del Sueldo Básico de su último año de servicio, de conformidad con la siguiente Tabla:
+
+60 años de edad 10 años de servicios 40%
+
+61 años de edad 10 años de servicios 42%
+
+62 años de edad 10 años de servicios 44%
+
+63 años de edad 10 años de servicios 46%
+
+64 años de edad 10 años de servicios 48%
+
+65 o más años de edad 10 años de servicios 50%
+
+El otorgamiento de la Pensión por cesantía en edad avanzada se determinará conforme a la tabla anterior, incrementándose anualmente conforme a los porcentajes fijados hasta los sesenta y cinco años, a partir de los cuales disfrutará del cincuenta por ciento fijado;
+
+II. A partir del primero de enero de dos mil diez:
+
+a) Los Trabajadores que hubieren cotizado treinta años o más y las Trabajadoras que hubieran cotizado veintiocho años o más, tendrán derecho a Pensión por jubilación conforme a la siguiente tabla:
+
+Años Edad Mínima Edad Mínima
+
+de Jubilación de Jubilación
+
+Trabajadores Trabajadoras
+
+2010 y 2011 51 49
+
+2012 y 2013 52 50
+
+2014 y 2015 53 51
+
+2016 y 2017 54 52
+
+2018 y 2019 55 53
+
+2020 y 2021 56 54
+
+2022 y 2023 57 55
+
+2024 y 2025 58 56
+
+2026 y 2027 59 57
+
+2028 en adelante 60 58
+
+La Pensión por jubilación dará derecho al pago de una cantidad equivalente al cien por ciento del sueldo que se define en la fracción IV y su percepción comenzará a partir del día siguiente a aquél en que el Trabajador hubiese disfrutado el último sueldo antes de causar baja;
+
+b) Los Trabajadores que cumplan 55 años de edad o más y quince años de cotización o más al Instituto, tendrán derecho a una Pensión de retiro por edad y tiempo de servicios.
+
+El monto de la Pensión de retiro por edad y tiempo de servicios será equivalente a un porcentaje del sueldo que se define en la fracción IV, de conformidad con los porcentajes de la tabla siguiente:
+
+15 años de servicio 50 %
+
+16 años de servicio 52.5 %
+
+17 años de servicio 55 %
+
+18 años de servicio 57.5 %
+
+19 años de servicio 60 %
+
+20 años de servicio 62.5 %
+
+21 años de servicio 65 %
+
+22 años de servicio 67.5 %
+
+23 años de servicio 70 %
+
+24 años de servicio 72.5 %
+
+25 años de servicio 75 %
+
+26 años de servicio 80 %
+
+27 años de servicio 85 %
+
+28 años de servicio 90 %
+
+29 años de servicio 95 %
+
+La edad a que se refiere este inciso, se incrementará de manera gradual conforme a la tabla siguiente:
+
+Años Edad para pensión
+
+por edad y tiempo
+
+de servicios
+
+2010 y 2011 56
+
+2012 y 2013 57
+
+2014 y 2015 58
+
+2016 y 2017 59
+
+2018 en adelante 60
+
+c) Tendrán derecho a Pensión por cesantía en edad avanzada, los Trabajadores que se separen voluntariamente del servicio o que queden privados de trabajo después de los sesenta años de edad y que hayan cotizado por un mínimo de diez años al Instituto.
+
+La Pensión a que se refiere esta fracción será equivalente a un porcentaje del sueldo que se define en la fracción IV, aplicando los porcentajes que se especifican en la tabla siguiente:
+
+60 años de edad 10 años de servicios 40%
+
+61 años de edad 10 años de servicios 42%
+
+62 años de edad 10 años de servicios 44%
+
+63 años de edad 10 años de servicios 46%
+
+64 años de edad 10 años de servicios 48%
+
+65 o más años de edad 10 años de servicios 50%
+
+El otorgamiento de la Pensión por cesantía en edad avanzada se determinará conforme a la tabla anterior, incrementándose anualmente conforme a los porcentajes fijados hasta los sesenta y cinco años, a partir de los cuales disfrutará del cincuenta por ciento fijado.
+
+La edad mínima para pensionarse por cesantía en edad avanzada se incrementará de manera gradual conforme a la tabla siguiente:
+
+Años Edad para pensión
+
+por cesantía en
+
+edad avanzada
+
+2010 y 2011 61
+
+2012 y 2013 62
+
+2014 y 2015 63
+
+2016 y 2017 64
+
+2018 en adelante 65
+
+Las Pensiones a que tengan derecho las personas a que se refiere la tabla anterior iniciarán en cuarenta por ciento en cada renglón y se incrementarán en dos por ciento cada año de edad hasta llegar a la Pensión máxima de cincuenta por ciento;
+
+III. El cómputo de los años de servicio se hará considerando uno solo de los empleos, aun cuando el Trabajador hubiese desempeñado simultáneamente varios empleos cotizando al Instituto, cualesquiera que fuesen; en consecuencia, para dicho cómputo se considerará, por una sola vez, el tiempo durante el cual haya tenido o tenga el interesado el carácter de Trabajador;
+
+IV. Para calcular el monto de las cantidades que correspondan por Pensión, se tomará en cuenta el promedio del Sueldo Básico disfrutado en el último año inmediato anterior a la fecha de la baja del Trabajador, siempre y cuando el Trabajador tenga una antigüedad mínima en el mismo puesto y nivel de tres años. Si el Trabajador tuviere menos de tres años ocupando el mismo puesto y nivel, se tomará en cuenta el sueldo inmediato anterior a dicho puesto que hubiere percibido el Trabajador, sin importar su antigüedad en el mismo;
+
+V. Los Trabajadores a que se refiere este artículo, en caso de sufrir un riesgo del trabajo, y sus Familiares Derechohabientes, en caso de su fallecimiento a consecuencia de un riesgo del trabajo, tendrán derecho a una Pensión en los términos de lo dispuesto por el seguro de riesgos del trabajo previsto en esta Ley. Para tal efecto, el Instituto, con cargo a los recursos que a tal efecto le transfiera el Gobierno Federal, contratará una Renta vitalicia a favor del Trabajador, o en caso de fallecimiento, el Seguro de Sobrevivencia para sus Familiares Derechohabientes;
+
+VI. Los Trabajadores a que se refiere este artículo, en caso de invalidez, estarán sujetos a un periodo mínimo de cotización de quince años para tener derecho a Pensión, misma que se otorgará por un porcentaje del promedio del Sueldo Básico disfrutado en el último año inmediato anterior, conforme a lo siguiente:
+
+15 años de servicio 50 %
+
+16 años de servicio 52.5 %
+
+17 años de servicio 55 %
+
+18 años de servicio 57.5 %
+
+19 años de servicio 60 %
+
+20 años de servicio 62.5 %
+
+21 años de servicio 65 %
+
+22 años de servicio 67.5 %
+
+23 años de servicio 70 %
+
+24 años de servicio 72.5 %
+
+25 años de servicio 75 %
+
+26 años de servicio 80 %
+
+27 años de servicio 85 %
+
+28 años de servicio 90 %
+
+29 años de servicio 95 %
+
+Los Familiares Derechohabientes del Trabajador fallecido, en el orden que establece la sección de Pensión por causa de muerte del seguro de invalidez y vida, tienen derecho a una Pensión equivalente al cien por ciento de la que hubiese correspondido al Trabajador, aplicándose el periodo mínimo de quince años de cotización para tener derecho a la Pensión.
+
+DÉCIMO PRIMERO. Las Cuotas y Aportaciones del seguro de retiro, cesantía en edad avanzada y vejez de los Trabajadores que opten por el régimen previsto en el artículo anterior serán ingresados en la tesorería del Instituto, excepto la Aportación del dos por ciento de retiro, la cual se destinará a la Subcuenta de ahorro para el retiro de las Cuentas Individuales de estos Trabajadores que serán administradas exclusivamente por el PENSIONISSSTE.
+
+DÉCIMO SEGUNDO. Estarán a cargo del Gobierno Federal las Pensiones que se otorguen a los Trabajadores que opten por el esquema establecido en el artículo décimo transitorio, así como el costo de su administración.
+
+El Gobierno Federal cumplirá lo previsto en el párrafo anterior mediante los mecanismos de pago que determine a través de la Secretaría de Hacienda y Crédito Público, los que en ningún caso afectarán a los Trabajadores.
+
+El Instituto transferirá a la Secretaría de Hacienda y Crédito Público, los recursos a que se refiere el artículo anterior, en los términos que se convengan.
+
+DE LOS TRABAJADORES QUE OPTEN POR EL BONO
+
+DÉCIMO TERCERO. Para los Trabajadores que hayan elegido la acreditación de los Bonos de Pensión del ISSSTE, para el ejercicio del derecho previsto en el artículo 80 de esta Ley, durante los periodos que a continuación se indican deberán cumplir los siguientes requisitos de edad o tiempo de cotización al Instituto:
+
+I. Durante el año 2008 tener cumplidos por lo menos cincuenta y cinco años de edad, o haber cotizado al Instituto durante treinta o más años;
+
+II. Durante el año 2009 tener cumplidos por lo menos cincuenta y cuatro años de edad, o haber cotizado al Instituto durante veintinueve o más años;
+
+III. Durante el año 2010 tener cumplidos por lo menos cincuenta y tres años de edad, o haber cotizado al Instituto durante veintiocho o más años;
+
+IV. Durante el año 2011 tener cumplidos por lo menos cincuenta y dos años de edad, o haber cotizado al Instituto durante veintisiete o más años, y
+
+V. Durante el año 2012 tener cumplidos por lo menos cincuenta y un años de edad, o haber cotizado al Instituto durante veintiséis o más años.
+
+A partir del año 2013, estos requisitos dejarán de ser exigibles.
+
+DÉCIMO CUARTO. Los Trabajadores que a la fecha de entrada en vigor de esta Ley tengan derecho a pensionarse conforme a la Ley que se abroga y hubieren elegido los beneficios de la presente Ley, pero que deseen seguir laborando, recibirán, en lugar de Bonos de Pensión del ISSSTE, un depósito a la vista denominado en unidades de inversión en el Banco de México, con la misma tasa de interés real anual utilizada para el cálculo de los mencionados Bonos de Pensión del ISSSTE prevista en el artículo vigésimo primero transitorio, el cual pagará intereses mensualmente.
+
+La Secretaría de Hacienda y Crédito Público determinará la forma y términos en que los recursos de dicho depósito podrán ser utilizados por el PENSIONISSSTE o, en su caso, las sociedades de inversión especializadas de fondos para el retiro que elija el Trabajador para la inversión de los recursos de su Cuenta Individual.
+
+El monto del depósito a que se refiere este artículo se determinará de conformidad con la tabla prevista en el artículo noveno transitorio.
+
+Las empresas operadoras de la Base de Datos Nacional SAR deberán llevar el registro individual de estos depósitos hasta que sea entregada la información al PENSIONISSSTE.
+
+DÉCIMO QUINTO. Los Trabajadores que habiéndoseles acreditado Bonos de Pensión del ISSSTE, estén laborando a la fecha de amortización de dichos Bonos, la cantidad liquidada por la amortización, se podrá invertir en nuevos Bonos de Pensión del ISSSTE.
+
+DÉCIMO SEXTO. Los Trabajadores que a la fecha de entrada en vigor de esta Ley se encuentren separados del servicio y posteriormente reingresaren al mismo, y quisieren que el tiempo trabajado con anterioridad se les compute para obtener los beneficios de esta Ley, deberán reintegrar, en su caso, la indemnización global que hubieren recibido. Asimismo, deberán laborar por lo menos durante un año contado a partir de su reingreso.
+
+Una vez transcurrido un año a partir del reingreso, el Trabajador deberá acreditar su antigüedad con sus hojas únicas de servicio y le serán acreditados los Bonos de Pensión del ISSSTE que le correspondan.
+
+Los beneficios que se les otorguen a los Trabajadores referidos en este artículo se calcularán sobre el promedio del Sueldo Básico, del año anterior a su separación del servicio público.
+
+DÉCIMO SÉPTIMO. Los ciudadanos que hubieren servido como Diputados o Senadores propietarios al Congreso de la Unión y que no se hubieren incorporado voluntariamente al régimen de la Ley que se abroga durante su mandato constitucional, tendrán derecho a solicitar al Instituto su incorporación al mismo, mediante el pago de las Cuotas y Aportaciones que estuvieren vigentes durante el periodo en que hubieren servido. Este derecho deberán ejercerlo dentro de los seis meses siguientes a la entrada en vigor de esta Ley.
+
+El ejercicio del derecho a que se refiere este artículo dará lugar al otorgamiento de los beneficios previstos en el presente ordenamiento.
+
+DERECHOS DE LOS PENSIONADOS A LA FECHA DE ENTRADA EN VIGOR DE ESTA LEY
+
+DÉCIMO OCTAVO. Los Jubilados, Pensionados o sus Familiares Derechohabientes que, a la entrada en vigor de esta Ley, gocen de los beneficios que les otorga la Ley que se abroga, continuarán ejerciendo sus derechos en los términos y condiciones señalados en las disposiciones vigentes al momento de su otorgamiento.
+
+DÉCIMO NOVENO. Para la administración de las Pensiones en curso de pago, el Instituto deberá llevar por separado la contabilidad de los recursos que reciba para este fin. Los recursos que destine el Gobierno Federal al Instituto para cubrir dichas Pensiones no se considerarán ingresos de este último.
+
+Anualmente, el Instituto transferirá al Gobierno Federal, en los términos que convenga con la Secretaría de Hacienda y Crédito Público para tal efecto, los recursos de las Cuotas y Aportaciones de los seguros de riesgos del trabajo e invalidez y vida de los Trabajadores que optaron por el régimen previsto en el artículo décimo transitorio.
+
+CARACTERÍSTICAS DE LOS BONOS DE PENSIÓN DEL ISSSTE
+
+VIGÉSIMO. Los Bonos de Pensión del ISSSTE reunirán las siguientes características:
+
+I. Serán títulos emitidos por el Gobierno Federal en términos de las disposiciones legales aplicables, que constituirán obligaciones generales directas e incondicionales de los Estados Unidos Mexicanos;
+
+II. Tendrá, cada uno, un valor nominal de cien unidades de inversión;
+
+III. Serán títulos cupón cero emitidos a la par y tendrán un valor nominal constante en unidades de inversión;
+
+IV. Serán títulos no negociables;
+
+V. La conversión de las unidades de inversión se realizará conforme al valor de éstas al día del vencimiento de los títulos;
+
+VI. Los títulos se emitirán en series con vencimientos sucesivos, conforme al perfil que determine la Secretaría de Hacienda y Crédito Público;
+
+VII. El monto y plazo de vencimiento de cada serie corresponderá al que resulte del perfil de Jubilación del Trabajador. Esto es, cuando suceda el primero de los siguientes eventos, que el Trabajador cumpla cincuenta y cinco años de edad o treinta años de cotizar al Instituto, y
+
+VIII. Podrán ser amortizados previamente a su fecha de vencimiento, cuando el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, lo considere conveniente o cuando el Trabajador tenga derecho a pensionarse anticipadamente. En estos casos, se aplicará la fórmula de redención anticipada prevista en el artículo vigésimo primero transitorio.
+
+Con base en el cálculo preliminar del importe de los Bonos de Pensión del ISSSTE que el Instituto proporcione al Gobierno Federal, a través de la Secretaría de Hacienda y Crédito Público, ésta deberá determinar el número de series, así como las demás características de los Bonos de Pensión del ISSSTE y de la emisión de los mismos.
+
+A más tardar el treinta de septiembre de dos mil ocho, el Instituto deberá informar a la Secretaría de Hacienda y Crédito Público el monto exacto de cada serie de Bonos de Pensión del ISSSTE, acompañando el soporte respectivo, en los términos que en su caso estén previstos en las disposiciones reglamentarias o administrativas correspondientes.
+
+El Banco de México tendrá a su cargo las funciones de custodia, administración y servicio de los Bonos de Pensión del ISSSTE.
+
+VIGÉSIMO PRIMERO. Los Bonos de Pensión del ISSSTE podrán ser redimidos antes de su vencimiento, cuando el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, lo considere conveniente o cuando el Trabajador tenga derecho a pensionarse. En estos casos, el Trabajador recibirá la cantidad que representen sus Bonos de Pensión del ISSSTE a la fecha de redención anticipada conforme a la fórmula siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+Donde:
+
+t = El día en el que se evalúa el valor de redención anticipada del Bono de Pensión del ISSSTE.
+
+Udit = Valor de la unidad de inversión en el día t.
+
+VR = Valor de redención anticipada expresado en pesos al día t.
+
+VN = Valor nominal de emisión del Bono de Pensión del ISSSTE, expresado en unidades de inversión.
+
+n = Número de años faltantes para el vencimiento del Bono de Pensión del ISSSTE, expresado como el número de días para el vencimiento, dividido entre trescientos sesenta y cinco.
+
+Esta fórmula utiliza los mismos supuestos de cálculo utilizados para determinar el valor de los Bonos de Pensión del ISSSTE acreditados al Trabajador.
+
+De conformidad con la fórmula de pago anticipado, el valor de redención expresado en unidades de inversión de los Bonos de Pensión del ISSSTE a la fecha de su emisión será el siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, por el Sueldo Básico mensual, elevado al año y expresado en unidades de inversión, que estuviere percibiendo el Trabajador al último día del año anterior a que entre en vigor esta Ley.
+
+A efecto de cumplir con las obligaciones generadas con los Trabajadores conforme a lo dispuesto en la presente Ley, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, a celebrar los actos jurídicos necesarios para emitir y pagar los Bonos de Pensión del ISSSTE, así como, en su caso, a contratar, ejercer, y autorizar créditos, empréstitos y otras formas del crédito público, incluso mediante la emisión de valores, para el financiamiento de las obligaciones del Gobierno Federal asociadas a esta Ley. Asimismo, se autoriza al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público para realizar los ajustes correspondientes en el Presupuesto de Egresos de la Federación a efecto de que se reconozca como gasto el mismo importe de las obligaciones a cargo del Gobierno Federal a que se refiere esta Ley.
+
+VIGÉSIMO SEGUNDO. Los procedimientos para acreditar en las Cuentas Individuales los Bonos de Pensión del ISSSTE y su traspaso al PENSIONISSSTE o a las Administradoras se deberán sujetar a las disposiciones que emita la Comisión Nacional del Sistema de Ahorro para el Retiro.
+
+El PENSIONISSSTE y, en su caso, las Administradoras, deberán incorporar en los estados de cuenta que expidan a los Trabajadores el valor nominal de sus Bonos de Pensión del ISSSTE en unidades de inversión y en pesos, así como el valor de pago anticipado de los Bonos en unidades de inversión y en pesos, a la fecha de corte del estado de cuenta, de conformidad con las disposiciones que emita al efecto la Comisión Nacional del Sistema de Ahorro para el Retiro.
+
+DEL PENSIONISSSTE
+
+VIGÉSIMO TERCERO. El Instituto dispondrá de un plazo de doce meses a partir de la vigencia de esta Ley, para que en el orden administrativo establezca lo necesario para la creación y el funcionamiento del PENSIONISSSTE debiendo proveer los recursos humanos, materiales y presupuestales que se requieran desde el inicio de operaciones del PENSIONISSSTE hasta que éste reciba recursos por concepto de comisiones.
+
+El Gobierno Federal deberá apoyar al Instituto, proveyendo los recursos necesarios, para el inicio de operaciones del PENSIONISSSTE.
+
+VIGÉSIMO CUARTO. Durante el periodo que transcurra entre la entrada en vigor de esta Ley y que el PENSIONISSSTE tome a su cargo la administración de las Cuentas Individuales de los Trabajadores, las Cuotas y Aportaciones del seguro de retiro, cesantía en edad avanzada y vejez se depositarán en la cuenta que lleve el Banco de México, al Instituto.
+
+Los recursos depositados en la mencionada cuenta se invertirán en valores o créditos a cargo del Gobierno Federal, y causarán intereses a una tasa de dos por ciento anual, pagaderos mensualmente mediante su reinversión. El cálculo de estos intereses se hará sobre el saldo promedio diario mensual, ajustado en una cantidad igual a la resultante de aplicar a dicho saldo, la variación porcentual del Índice Nacional de Precios al Consumidor publicado por el Banco de México, correspondiente al mes inmediato anterior al del ajuste.
+
+Las empresas operadoras de la Base de Datos Nacional SAR deberán llevar el registro de las Cuotas y Aportaciones enteradas y su individualización, incluyendo la relativa a las Aportaciones al Fondo de la Vivienda, para su entrega al PENSIONISSSTE.
+
+La Secretaría de Hacienda y Crédito Público establecerá las demás características de la cuenta que lleve el Banco de México al Instituto.
+
+La Comisión Nacional del Sistema de Ahorro para el Retiro deberá establecer el procedimiento para que se registre la información de las Cuotas y Aportaciones y se opere la apertura de las Cuentas Individuales en el PENSIONISSSTE.
+
+VIGÉSIMO QUINTO. El PENSIONISSSTE administrará las Cuentas Individuales de los Trabajadores afiliados o que se afilien al Instituto durante los treinta y seis meses siguientes a su creación. Los Trabajadores que ingresen al régimen a partir de la entrada en vigor de esta Ley, y tengan abierta ya una Cuenta Individual en una Administradora, podrán elegir mantenerse en ella.
+
+Una vez concluido el plazo antes mencionado, los Trabajadores a que se refiere el párrafo anterior podrán solicitar el traspaso de su Cuenta Individual a cualquier Administradora, o permanecer en el PENSIONISSSTE sin trámite alguno. Asimismo, a partir de esa fecha, el PENSIONISSSTE podrá recibir el traspaso de Cuentas Individuales de Trabajadores afiliados al IMSS o de Trabajadores independientes.
+
+Los Bonos de Pensión del ISSSTE no deberán ser considerados por las Administradoras para el cálculo de las comisiones que estén autorizadas a cobrar a las Cuentas Individuales.
+
+Tratándose de Trabajadores que a la entrada en vigor de la presente Ley hayan elegido que su Cuenta Individual sea operada por una Administradora y opten por la acreditación de Bonos de Pensión del ISSSTE en términos del artículo quinto transitorio, dicha Cuenta Individual seguirá siendo operada por la Administradora que hubieren elegido y los Bonos de Pensión del ISSSTE deberán ser acreditados en las Cuentas Individuales operadas por dichas Administradoras.
+
+VIGÉSIMO SEXTO. Los recursos acumulados en las Cuentas Individuales abiertas bajo el sistema de ahorro para el retiro vigente a partir del primer bimestre de mil novecientos noventa y dos hasta la fecha de entrada en vigor de esta Ley, deberán ser transferidos al PENSIONISSSTE dentro del mes siguiente a que inicie operaciones, y se mantendrán invertidos en créditos a cargo del Gobierno Federal en el Banco de México.
+
+A los Trabajadores que hayan elegido la acreditación de Bonos de Pensión del ISSSTE, se les abrirá la Cuenta Individual a que se refiere esta Ley, en la que acumularán los recursos a que se refiere el párrafo anterior.
+
+VIGÉSIMO SÉPTIMO. Las Cuentas Individuales del sistema de ahorro para el retiro, se transferirán y serán administradas por el PENSIONISSSTE.
+
+FORTALECIMIENTO INTEGRAL DEL INSTITUTO
+
+VIGÉSIMO OCTAVO. El capital inicial de operación del Fondo de préstamos personales al primer día de la entrada en vigor de la presente Ley, se constituirá por el valor de la cartera vigente de préstamos personales, capital más intereses y el valor de los recursos disponibles de este Fondo al día anterior de la entrada en vigor de la presente Ley.
+
+El Gobierno Federal, para el fortalecimiento del Fondo suministrará adicionalmente, por una sola vez, la cantidad de dos mil millones de pesos, dentro de los sesenta días siguientes a que entre en vigor esta Ley. El Instituto devolverá esta cantidad al Gobierno Federal, en los plazos y términos que convenga con la Secretaría de Hacienda y Crédito Público.
+
+VIGÉSIMO NOVENO. De manera extraordinaria, el Gobierno Federal deberá aportar al seguro de salud la cantidad de ocho mil millones de pesos, en los términos que convengan el Instituto y la Secretaría de Hacienda y Crédito Público.
+
+TRIGÉSIMO. La Cuota Social del seguro de salud, será cubierta por el Gobierno Federal a partir del día primero de enero del año dos mil ocho. En ese año, el Gobierno Federal aportará la cantidad que resulte suficiente para cubrir la Cuota Social del cincuenta y siete punto dos por ciento del total de los Trabajadores y Pensionados a esa fecha. El Gobierno Federal incrementará las Aportaciones por concepto de Cuota Social del seguro de salud en un catorce punto tres por ciento de los Trabajadores y Pensionados cada año a partir de dos mil nueve, hasta cubrir el cien por ciento de los Trabajadores y Pensionados en el año dos mil once.
+
+TRIGÉSIMO PRIMERO. La Cuota por el seguro de retiro, cesantía en edad avanzada y vejez correspondiente a los Trabajadores se deberá ajustar a lo dispuesto en la tabla siguiente:
+
+Años Cuota a cargo
+
+del Trabajador
+
+A la entrada en vigor de
+
+esta Ley 3.5%
+
+2008 4.025%
+
+2009 4.55%
+
+2010 5.075%
+
+2011 5.6%
+
+2012 en adelante 6.125%
+
+DISPOSICIONES GENERALES
+
+TRIGÉSIMO SEGUNDO. El Instituto proporcionará a los Derechohabientes el medio de identificación a que se refiere el artículo 9o. de esta Ley, dentro de un plazo de dos años a partir de la entrada en vigor de la misma, sin perjuicio de que durante dicho plazo sigan siendo válidos los medios de identificación expedidos por el Instituto a los Derechohabientes.
+
+TRIGÉSIMO TERCERO. A efecto de instrumentar las diversas obligaciones a cargo de las Dependencias y Entidades previstas en esta Ley, se deberá crear un Comité de Oficiales Mayores o sus equivalentes en las Entidades y órganos desconcentrados, presidido por la Secretaría de Hacienda y Crédito Público dentro de un plazo de treinta días naturales contados a partir de su entrada en vigor.
+
+El Instituto y la Comisión Nacional del Sistema de Ahorro para el Retiro deberán participar en dicho Comité como asesores en el ámbito de sus respectivas competencias.
+
+TRIGÉSIMO CUARTO. Las Dependencias y Entidades, y el propio Instituto, a más tardar el día treinta y uno de diciembre de dos mil siete, deberán ajustar a las normas y criterios de esta Ley los mecanismos de administración, los sistemas informáticos y los formatos de sus bases de datos; los sistemas de recaudación y entero de Cuotas y Aportaciones; y los procedimientos de dispersión e intercambio de información, de tal modo que garanticen a satisfacción del Instituto la capacidad de operación para la gestión de los seguros, servicios y prestaciones.
+
+Los procedimientos relativos al seguro de retiro, cesantía en edad avanzada y vejez deberán sujetarse a las disposiciones que emita la Comisión Nacional del Sistema de Ahorro para el Retiro. Hasta en tanto inicien operaciones los sistemas o programas informáticos a que se refiere esta Ley, las Dependencias y Entidades deberán enterar las Cuotas y Aportaciones del seguro de retiro, cesantía en edad avanzada y vejez a través de los medios utilizados para el pago de las Aportaciones al sistema de ahorro para el retiro previsto en la Ley que se abroga.
+
+TRIGÉSIMO QUINTO. El cálculo del Sueldo Básico señalado en esta Ley, en ningún caso podrá dar por resultado una cantidad menor al Sueldo Básico establecido en la Ley que se abroga para el cálculo de las Cuotas y Aportaciones al Instituto.
+
+TRIGÉSIMO SEXTO. En un plazo que no excederá de seis meses contado a partir del día primero de enero de dos mil ocho, el Instituto deberá adecuar la inversión de sus Reservas, al régimen previsto en el presente ordenamiento.
+
+En cuanto a la constitución de los Fondos afectos a la Reserva de operación para contingencias y financiamiento, el Instituto tendrá un plazo máximo de cinco años contados a partir de la entrada en vigor de este ordenamiento para constituir dicha Reserva.
+
+TRIGÉSIMO SÉPTIMO. El Instituto y los gobiernos de las Entidades Federativas o municipios, así como sus Dependencias y Entidades, deberán adecuar los convenios que hubieren celebrado con anterioridad a la entrada en vigor de esta Ley, a los términos previstos en el presente ordenamiento, en un plazo que no excederá del día treinta de junio de dos mil ocho.
+
+Los convenios de incorporación parcial al régimen obligatorio celebrados antes de la entrada en vigor de esta Ley, podrán renovarse como convenios parciales, con la obligación de ajustarse al régimen de esta Ley.
+
+En los casos en que no se cumpla con lo previsto en los párrafos anteriores, y que los gobiernos de las Entidades Federativas o municipios, y sus Dependencias y Entidades no pudieren convenir la garantía incondicional del pago de las Cuotas y Aportaciones a su cargo, los convenios de incorporación se deberán rescindir dentro de los seis meses siguientes al término del plazo previsto en el primer párrafo de este artículo.
+
+TRIGÉSIMO OCTAVO. El Instituto publicará en el Diario Oficial de la Federación en un plazo no mayor al día treinta y uno de julio de dos mil siete, la relación de Dependencias y Entidades que a la fecha de entrada en vigor de esta Ley, tengan adeudos por concepto de Aportaciones, Cuotas y recuperación de créditos a corto y mediano plazo a los Derechohabientes, dando a conocer los estímulos establecidos en esta Ley para el pago de sus adeudos.
+
+Las Dependencias y Entidades que voluntariamente regularicen adeudos con el Instituto, gozarán por única vez del beneficio de la condonación parcial o total de recargos, sin que ello se considere como remisión de deuda para efectos de la Ley del Impuesto sobre la Renta de acuerdo con las siguientes bases específicas:
+
+A.
+
+Fecha Porcentaje de
+
+Condonación
+
+1. Antes del 30 de junio de 2008 80%
+
+2. 1º de julio al 31 de diciembre de 2008 60%
+
+3. 1º de enero al 30 de junio de 2009 40%
+
+4. 1º de julio al 31 de diciembre de 2009 30%
+
+B. Las Dependencias y Entidades que reconozcan antes del treinta de junio de dos mil ocho, el total de sus adeudos generados con anterioridad a la entrada en vigor de esta Ley, y opten por saldar sus adeudos mediante la formalización de un convenio de reconocimiento de adeudo y forma de pago a plazos, tendrán el beneficio de la condonación del veinte por ciento del total de los recargos generados. Estos convenios deberán someterse a la opinión de la Secretaría de Hacienda y Crédito Público previamente a su celebración.
+
+La regularización de adeudos operará contra el pago de quincenas vencidas completas y en ningún caso se condonará la actualización del principal omitido.
+
+Quedan exceptuados de cualquier condonación por la regularización de adeudos el principal, los recargos o actualización a que haya lugar por las Aportaciones del dos por ciento del sistema de ahorro para el retiro y el cinco por ciento a la Subcuenta del Fondo de la Vivienda, previstos en la Ley que se abroga.
+
+TRIGÉSIMO NOVENO. Cuando por disposición de leyes como la de Veteranos de la Revolución o cualesquiera otras que deban aplicarse concomitantemente con la presente Ley, se establezcan beneficios superiores a favor de los Trabajadores computándoles mayor número de años de servicio o tomando como base un sueldo superior al Sueldo Básico para la determinación de la Pensión, el pago de las diferencias favorables al Trabajador será por cuenta exclusiva de la Dependencia o Entidad pública a cuyo cargo determinen esas leyes las diferencias. Sin embargo, para que puedan otorgarse esos beneficios complementarios a los Trabajadores, se requerirá que previamente se hayan cumplido los requisitos que la presente Ley señala para tener derecho a Pensión.
+
+CUADRAGÉSIMO. Para dar cumplimiento a lo establecido en el artículo 31 de la presente Ley, el Instituto contará con un año, a partir de la entrada en vigor de esta Ley para realizar los estudios que correspondan y definir las condiciones en las que podrá intercambiar seguros de salud con instituciones públicas federales y estatales del sector salud.
+
+CUADRAGÉSIMO PRIMERO. Los Trabajadores y Pensionados que a la fecha de entrada en vigor de esta Ley, tengan derecho a la prestación de préstamos personales, continuarán gozando de dicho beneficio de acuerdo con el programa anual que autorice la Junta Directiva y de conformidad con las reglas que establezca la misma.
+
+CUADRAGÉSIMO SEGUNDO. El reglamento para el otorgamiento de préstamos deberá ser expedido en un plazo máximo de un año contado a partir de la entrada en vigor de esta Ley.
+
+CUADRAGÉSIMO TERCERO. A las personas que presten sus servicios a las Dependencias o Entidades mediante contrato personal sujeto a la legislación común, que perciban sus emolumentos exclusivamente con cargo a la partida de honorarios por contrato, o que estén incluidos en las listas de raya, siempre y cuando hayan laborado una jornada completa de acuerdo con las condiciones generales de trabajo y hayan laborado por un periodo mínimo de un año, se les incorporará integralmente al régimen de seguridad social con la entrada en vigor de esta Ley.
+
+Asimismo, se les incorporará con los Tabuladores aplicables en la Dependencia o Entidad en que presten sus servicios mediante un programa de incorporación gradual, que iniciará a partir del primero de enero del 2008 dentro de un plazo máximo de cinco años. La Secretaría de Hacienda y Crédito Público establecerá los lineamientos para su incorporación.
+
+CUADRAGÉSIMO CUARTO. Las viviendas propiedad del Instituto que a la fecha de entrada en vigor de esta Ley tenga en arrendamiento se regularán por las disposiciones que, al efecto, emita la Junta Directiva del Instituto.
+
+CUADRAGÉSIMO QUINTO. Las organizaciones de Trabajadores orientarán a sus agremiados en lo relativo al ejercicio de los derechos que les otorga esta Ley.
+
+CUADRAGÉSIMO SEXTO. Adicionalmente a lo previsto en el artículo 14 de la presente Ley, para garantizar que ésta beneficie a los Trabajadores y a sus familias, así como para asegurar el cumplimiento de sus objetivos y la viabilidad futura del Instituto, este ordenamiento será revisado por la Junta Directiva cada cuatro años. Los resultados obtenidos deberán sustentarse en estudios actuariales y, en su caso, promoverse las reformas o adiciones legales necesarias.
+
+CUADRAGÉSIMO SÉPTIMO. El Instituto, el PENSIONISSSTE y el Fondo de la Vivienda estarán sujetos a lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como a su Reglamento y demás disposiciones emitidas con fundamento en dicha Ley.
