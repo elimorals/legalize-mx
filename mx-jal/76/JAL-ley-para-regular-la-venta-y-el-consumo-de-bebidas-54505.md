@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-regular-la-venta-y-el-consumo-de-bebidas-54505"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-13"
-last_updated: "2007-02-22"
+last_updated: "2007-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2007.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Jalisco, el sábado 13 de enero de 2007.
 
@@ -389,7 +389,7 @@ g) Salones de Baile: domingo a sábado de las 11:00 a las 23:00 horas.
 
 III. Establecimientos donde puede realizarse la venta, más no el consumo de bebidas alcohólicas: domingo a sábado de las 12:00 a las 21:00 horas.
 
-2. Los establecimientos señalados en la fracción II, incisos a) y b) y fracción III del párrafo anterior pueden ofertar sus servicios en los horarios que establezcan los reglamentos respectivos, pero en ningún caso, pueden expender bebidas alcohólicas fuera de los horarios a que se refiere dicho párrafo.
+2. (DEROGADO, P.O. 31 DE MARZO DE 2007)
 
 ###### Artículo 40.
 
@@ -740,3 +740,7 @@ C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 P.O. 22 DE FEBRERO DE 2007.
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 31 DE MARZO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
