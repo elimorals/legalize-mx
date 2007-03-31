@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-educacion-11809"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-09"
-last_updated: "1998-02-07"
+last_updated: "2007-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el jueves 9 de noviembre de 1995.
 
@@ -615,6 +615,10 @@ VI.- Las formas y procedimientos de evaluación.
 
 En todo caso, los programas y planes de estudio tenderán especialmente a promover el respeto a los derechos humanos así como al fomento en los educandos de una concepción igualitaria de las personas, sin distinción de sexo. En especial, deberá promoverse la autoestima de las niñas.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2007)</small>
+
+Así mismo, la educación en el Estado de Oaxaca tenderá a fomentar el respeto a la vida, a promover acciones de protección y preservación de la flora y fauna silvestre y de todos los animales, desarrollando acciones de protección al medio ambiente y protección a la biodiversidad.
+
 ###### ARTICULO 60.
 
 La evaluación de los educandos, tendrá por objeto conocer en forma individual y/o grupal, la formación integral de éstos, así como el logro de los propósitos de los planes y programas de estudio, por lo que docentes y educandos, aplicarán procedimientos e instrumentos para una valoración objetiva, continua y sistemática que permita la retroalimentación del proceso educativo.
@@ -1072,3 +1076,7 @@ P.O. 7 DE FEBRERO DE 1998.
 PRIMERO.- El Presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El Ejecutivo Estatal, dentro de un término de noventa días, contados a partir de la fecha de la iniciación de la vigencia del presente Decreto, procederá a implementar los programas necesarios para su aplicación.
+
+P.O. 31 DE MARZO DE 2007.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
