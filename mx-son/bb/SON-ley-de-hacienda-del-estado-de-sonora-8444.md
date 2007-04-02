@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2006-12-29"
+last_updated: "2007-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE ABRIL DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -3101,31 +3101,25 @@ N$ .030 N$ .020
 
 IV.- Por la acreditación anual de expendios de carnes clasificadas. $406.00
 
-> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+V.- (DEROGADA, B.O. 2 DE ABRIL DE 2007)
 
-V.- Para la conservación, promoción, investigación y vigilancia de la vida silvestre, se cobrará por servicios para el aprovechamiento extractivo de ejemplares de fauna silvestre, por ejemplar y de acuerdo a las diferentes especies, las siguientes cuotas:
+a) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
-ESPECIE CUOTA
+b) (DEROGADA, B.O. 2 DE ABRIL DE 2007)
 
-a) Borrego cimarrón $ 5,000.00
+c) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
-b) Venado bura de Sonora $ 2,500.00
+d) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
-c) Venado cola blanca $ 1,500.00
+e) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
-d) Pequeños mamíferos $ 200.00
+f) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
-e) Jabalí de collar $ 200.00
+g) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
-f) Guajolote silvestre $ 200.00
+h) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
-g) Otras aves (codornices y palomas) $ 80.00
-
-h) Aves migratorias $ 80.00
-
-i) Depredadores (coyote, puma y
-
-gato montés) $ 1,000.00
+i) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
@@ -4837,7 +4831,7 @@ La Secretaría de Hacienda y las entidades paraestatales de la administración p
 
 VII.- Servicios prestados por la Unidad Estatal de Protección Civil.
 
-1.- Por proporcionar asesoría para el establecimiento de la unidad interna de protección civil que deberán contar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas o bien representen un riesgo de daños por la población. $1.000.00
+1.- Por proporcionar asesoría para el la (sic) establecimiento de la unidad interna de protección civil que deberán contar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas o bien representen un riesgo de daños por la población. $1.000.00
 
 2.- Por dictaminar y/o autorizarlos programas internos de protección civil, que deberán elaborar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas o bien representen un riesgo de daños para la población, por metro cuadrado de construcción.
 
@@ -5448,3 +5442,9 @@ B.O. 29 DE DICIEMBRE DE 2006.
 Artículo Primero.- El presente decreto entrará en vigor a partir del 1? (sic) de enero de 2007, previa su publicación en el Boletín Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Dentro de los treinta días siguientes a la entrada en vigor de esta Ley, el Ejecutivo Estatal deberá emitir las disposiciones administrativas correspondientes que contemplen y regulen el Registro Único de Personas Acreditadas (RUPA) a que se refiere este Decreto.
+
+B.O. 2 DE ABRIL DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a las del presente decreto.
