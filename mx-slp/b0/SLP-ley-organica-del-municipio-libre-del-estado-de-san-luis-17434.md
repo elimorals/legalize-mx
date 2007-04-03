@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2006-09-28"
+last_updated: "2007-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -263,9 +263,11 @@ Los ciudadanos del municipio tendrán las obligaciones y prerrogativas que estab
 
 ### CAPITULO I. De la Integración de los Ayuntamientos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 12.
 
-En cada Municipio habrá un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+En cada Municipio habrá un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Para los efectos de esta Ley, por Cabildo se entiende los miembros del Ayuntamiento, reunidos en sesión y como cuerpo colegiado de gobierno.
 
 La competencia que otorga al gobierno municipal la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de San Luis Potosí, la presente Ley y demás ordenamientos, se ejercerá por el Ayuntamiento de manera exclusiva.
 
@@ -285,7 +287,9 @@ En los municipios del Estado que cuenten con una población mayor de cuarenta mi
 
 Ningún integrante del Ayuntamiento podrá ocupar cargo honorífico o remunerado de director, jefe de departamento o empleado del Municipio, ni ningún otro de sus organismos intermunicipales o paramunicipales, debiendo constreñirse su responsabilidad al ejercicio propiamente edilicio.
 
-Los partidos políticos postulantes en las elecciones para la renovación de ayuntamientos, deberán presentar para su registro ante el organismo electoral que corresponda, la planilla de mayoría relativa y la lista de candidatos a regidores de representación proporcional.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2007)</small>
+
+El desempeño de cualesquiera de los cargos mencionados en el párrafo anterior, por algún integrante del ayuntamiento, sin la respectiva licencia, será considerado como causal de responsabilidad en los términos y para los efectos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 ###### ARTICULO 14.
 
@@ -333,7 +337,9 @@ Si la instalación no fuere posible en términos de los párrafos anteriores, se
 
 El Ayuntamiento saliente dará posesión de las oficinas, bienes y fondos municipales, así como de los inventarios, en los términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado, a los miembros del nuevo Ayuntamiento. Inmediatamente después, el Presidente Municipal saliente o quien haya sido designado por el Congreso del Estado, tomará la protesta del nuevo Ayuntamiento en los siguientes términos: "Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las demás disposiciones que de ellas emanen y desempeñar fielmente los cargos que el pueblo de este Municipio les ha conferido" (los interpelados contestarán: "Sí protesto") "Si así no lo hicieran, que el pueblo se los demande".
 
-Rendida la protesta de ley, el Presidente Municipal dará lectura al programa de trabajo que se propone realizar el Ayuntamiento durante el período de su gestión. Acto seguido, en la misma sesión, el Cabildo a propuesta del Presidente Municipal, designará conforme a lo dispuesto en las fracciones V del artículo 70 y XXIV del inciso C) del artículo 31 de la presente Ley, al Secretario, al Tesorero, al Contralor y en su caso al Oficial Mayor y delegados municipales; levantándose la respectiva Acta de Cabildo.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2007)</small>
+
+Rendida la protesta de ley, el Presidente Municipal enunciará las líneas generales de trabajo que se propone realizar el Ayuntamiento durante el período de su gestión. Acto seguido, en la misma sesión, el Cabildo, a propuesta del Presidente Municipal, designará conforme a lo dispuesto en las fracciones V del artículo 70 y XXIV del inciso c) del artículo 31 de la presente Ley, al Secretario, al Tesorero, al Contralor y, en su caso, al Oficial Mayor y delegados municipales; levantándose la respectiva Acta de Cabildo.
 
 ###### ARTICULO 20.
 
@@ -383,9 +389,13 @@ La infracción a lo dispuesto en el párrafo anterior, será causa de responsabi
 
 A solicitud de los ayuntamientos el Gobernador del Estado podrá asistir a las sesiones de Cabildo y podrá tomar parte en las discusiones.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 28.
 
-El resultado de las sesiones se hará constar por el Secretario en un libro de actas, en donde quedarán anotados los extractos de los asuntos tratados y el resultado de las votaciones. Cuando el acuerdo de los ayuntamientos se refiera a normas de carácter general, tales como reglamentos, bandos o iniciativas de leyes, éstos constarán íntegramente en el libro de actas. En los otros casos, además del extracto bastará con que los documentos relativos al asunto tratado se agreguen al apéndice del libro de actas. En ambos casos deberán firmar los miembros que hubieren estado presentes.
+El resultado de las sesiones se hará constar por el Secretario en un libro de actas, en donde quedarán anotados los extractos de los asuntos tratados y el resultado de las votaciones. Cuando el acuerdo de Cabildo se refiera a normas de carácter general, tales como reglamentos, bandos o iniciativas de leyes, éstos constarán íntegramente en el libro de actas. En los otros casos, además del extracto, bastará con que los documentos relativos al asunto tratado se agreguen al apéndice del libro de actas. En ambos casos, deberán firmar los miembros que hubieren estado presentes.
+
+Para garantizar la salvaguarda de los acuerdos tomados en las sesiones de Cabildo y consignados en el Libro de Actas, el Ayuntamiento, por conducto del Secretario, deberá remitir al Archivo Histórico del Estado, al término de cada año de su gestión, debidamente enumeradas, una copia certificada de las actas correspondientes a dicho período.
 
 ###### ARTICULO 29.
 
@@ -471,7 +481,15 @@ VII. Los ayuntamientos podrán solicitar al Congreso del Estado las modificacion
 
 VIII. Remitir anualmente al Congreso del Estado, durante el mes de enero de cada año, el inventario general de bienes muebles e inmuebles de su propiedad, para efectos del control y registro de los mismos;
 
-IX. Aprobar el presupuesto anual de egresos; así como la cuenta pública municipal anual que le presente el Tesorero del Ayuntamiento, remitiéndola al Congreso del Estado para su revisión y fiscalización, a más tardar el día 31 de enero del año siguiente al del ejercicio.;
+IX. Aprobar el presupuesto anual de egresos; así como la cuenta pública municipal anual que le presente el Tesorero del Ayuntamiento, remitiéndola al Congreso del Estado para su revisión y fiscalización, a más tardar el día 31 de enero del año siguiente al del ejercicio.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2007)</small>
+
+Dentro de los quince días previos al inicio de cada ejercicio fiscal, el Tesorero someterá a la consideración del Ayuntamiento, las normas y criterios para fijar los parámetros que servirán de base para la asignación de las remuneraciones de sus integrantes; entre los que se considerará la proporción con el número de habitantes del municipio y su ingreso promedio, así como los ingresos disponibles.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2007)</small>
+
+Al determinar en el presupuesto de egresos las remuneraciones totales de sus miembros, con independencia de los conceptos con los que se integren, los ayuntamientos deberán atender a los referidos criterios y parámetros. La asignación de una remuneración sin observar lo previsto en este artículo, se sancionará en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
 
 X. Proponer para su aprobación al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
@@ -489,7 +507,9 @@ III. Acordar con la aprobación de cuando menos las dos terceras partes de sus i
 
 IV. Asignar a cada miembro del Ayuntamiento las comisiones relativas a los ramos de la administración municipal;
 
-V. Conceder por causa debidamente justificada y calificada, aprobada por lo menos por las dos terceras partes de sus integrantes, licencia al Presidente Municipal, cuando ésta sea por un término mayor de diez días naturales. Si la ausencia fuese menor de este término, bastará que dé aviso por escrito al Ayuntamiento;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+V. Conceder por causa debidamente justificada y calificada, aprobada por lo menos por las dos terceras partes de sus integrantes, licencia al Presidente Municipal, cuando ésta sea por un término mayor de diez días naturales. Si la ausencia fuese menor de este término, bastará que dé aviso por escrito al Cabildo;
 
 VI. Nombrar en los casos en que proceda, Presidente municipal interino o sustituto, según sea el caso, de entre los miembros del Ayuntamiento;
 
@@ -517,7 +537,9 @@ XVII. Proveer lo necesario en auxilio de las autoridades competentes, para el cu
 
 XVIII. Infraccionar a las personas físicas o morales por violaciones a las leyes, bandos y reglamentos municipales vigentes;
 
-XIX. Procurar la protección legal de las etnias en sus jurisdicciones, y tomar en consideración la opinión de las comunidades en las decisiones del Ayuntamiento que les afecten, respetando sus tradiciones y costumbres; así como atender diligentemente las necesidades de las clases más desprotegidas socialmente;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+XIX. Procurar la protección legal de las etnias en sus jurisdicciones, y tomar en consideración la opinión de las comunidades en las decisiones de Cabildo que les afecten, respetando sus tradiciones y costumbres; así como atender diligentemente las necesidades de las clases más desprotegidas socialmente;
 
 XX. Atender conforme a lo dispuesto por la ley, las recomendaciones y recursos que sobre la protección y respeto de los derechos humanos emitan las comisiones estatal y nacional;
 
@@ -633,7 +655,9 @@ Las solicitudes de licencia que presente el Presidente Municipal se harán por e
 
 Tratándose de otros miembros del Ayuntamiento se procederá de la siguiente manera:
 
-I. Los regidores y los síndicos no se suplirán cuando se trate de faltas menores a los diez días naturales y mientras no se afecte el número necesario para la integración del quórum en el Ayuntamiento;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+I. Los regidores y los síndicos no se suplirán cuando se trate de faltas menores a los diez días naturales y mientras no se afecte el número necesario para la integración del quórum en el Cabildo;
 
 II. Cuando el número de miembros no sea suficiente para la integración del quórum, o la falta excediera del plazo indicado en la fracción anterior, se llamará a los suplentes respectivos quienes rendirán protesta antes de asumir el cargo.
 
@@ -847,11 +871,15 @@ Las resoluciones del Congreso del Estado por las que se ponga fin a los conflict
 
 El Presidente Municipal es el ejecutivo de las determinaciones del Ayuntamiento; tendrá las siguientes facultades y obligaciones:
 
-I. Cumplir y hacer cumplir la Ley Orgánica del Municipio Libre, el Bando de Policía y Buen Gobierno, los reglamentos y demás ordenamientos del Municipio, y las resoluciones del Ayuntamiento que estén apegadas a derecho;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+I. Cumplir y hacer cumplir la Ley Orgánica del Municipio Libre, el Bando de Policía y Gobierno, los reglamentos y demás ordenamientos del Municipio, y las resoluciones de Cabildo que estén apegadas a derecho;
 
 II. Promulgar y ordenar conforme lo establece la presente Ley, la publicación de los reglamentos y disposiciones de observancia general aprobadas por el Cabildo;
 
-III. Convocar por conducto del Secretario y presidir las sesiones del Ayuntamiento, teniendo voz y voto para tomar parte en las discusiones, y voto de calidad en caso de empate;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+III. Convocar por conducto del Secretario, y presidir las sesiones de Cabildo, teniendo voz y voto para tomar parte en las discusiones; y voto de calidad en caso de empate;
 
 IV. Celebrar a nombre del Ayuntamiento y por acuerdo de éste, los actos y contratos necesarios para el despacho de los negocios administrativos y la atención de los servicios públicos municipales, salvo los convenios cuya celebración corresponda directamente al Ayuntamiento en los términos de esta Ley;
 
@@ -869,7 +897,9 @@ X. Cuidar el correcto desempeño de las funciones encomendadas a la policía pre
 
 XI. Vigilar la coordinación y el cumplimiento de los planes nacional, estatal y municipal de desarrollo;
 
-XII. Observar que se lleve a cabo el Plan Municipal de Desarrollo Urbano en congruencia con los planes estatal y nacional, remitiéndolo al Ejecutivo del Estado para que emita en su caso observaciones, y ordenar una vez realizadas las correcciones que el Ayuntamiento considere procedentes, la inscripción del mismo en el Registro Público de la Propiedad y de Comercio;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+XII. Observar que se lleve a cabo el Plan Municipal de Desarrollo Urbano en congruencia con los planes estatal y nacional, remitiéndolo al Ejecutivo del Estado para que emita, en su caso, observaciones; y ordenar una vez realizadas las correcciones que el Cabildo considere procedentes, la inscripción del mismo en el Registro Público de la Propiedad y del Comercio;
 
 XIII. Vigilar la recaudación en todas las ramas de la hacienda pública municipal, cuidando que la inversión de los fondos se haga con estricto apego al presupuesto y a las leyes correspondientes;
 
@@ -877,9 +907,9 @@ XIV. Pasar diariamente a la Tesorería Municipal, en forma directa o a través d
 
 XV. Ejercer en materia de lo dispuesto por el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos, las facultades y responsabilidades que determine la ley;
 
-XVI. Solicitar licencia por escrito y por causa justificada al Ayuntamiento, para ausentarse del Municipio por más de diez días; debiendo formular aviso para ausentarse por un término menor;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2007)</small>
 
-> <small>N. DE E. CONFORME AL ARTICULO UNICO DEL DECRETO 002, PUBLICADO EN EL PERIODICO OFICIAL 28 DE SEPTIEMBRE DE 2006 Y EN ATENCION A SU APLICABILIDAD SE SEÑALA: "LA DISPOSICION CONTENIDA EN LA FRACCION XVII DEL ARTICULO 70 DE LA LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI, REFORMADA MEDIANTE DECRETO LEGISLATIVO NUMERO 395, PUBLICADO EL UNO DE NOVIEMBRE DE 2005 EN EL PERIODICO OFICIAL DEL ESTADO; POR UNICA OCASION NO SERA APLICABLE A LOS PRESIDENTES MUNICIPALES EN FUNCIONES, QUIENES EN CONSECUENCIA, DEBERAN RENDIR EL INFORME A QUE SE REFIERE LA CITADA FRACCION, CORRESPONDIENTE AL TERCER AÑO DE EJERCICIO LEGAL DE SUS RESPECTIVOS AYUNTAMIENTOS, DENTRO DE LA PRIMERA QUINCENA DEL MES DE DICIEMBRE DEL AÑO 2006".</small>
+XVI. Solicitar licencia por escrito y por causa justificada al Cabildo, para ausentarse del Municipio por más de diez días; debiendo formular aviso para ausentarse por un término menor;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2005)</small>
 
@@ -907,7 +937,9 @@ XXVII. Recibir la protesta de los servidores públicos municipales que ante él 
 
 XXVIII. Representar al Municipio ante los tribunales en los casos a que se refiere el artículo 71 de esta Ley, con todas las facultades de un apoderado general para pleitos y cobranzas; nombrar asesores y representantes, así como otorgar poderes generales y especiales para pleitos y cobranzas;
 
-XXIX. Celebrar a nombre del Municipio, en ejercicio de las facultades que la ley le confiere o en ejecución de los acuerdos del Ayuntamiento o del Congreso del Estado, los actos y contratos necesarios para el desempeño de los negocios administrativos y la eficaz prestación de las funciones y los servicios públicos municipales, dando cuenta al Ayuntamiento o al Congreso del Estado, en su caso, del resultado de las gestiones;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+XXIX. Celebrar a nombre del Municipio, en ejercicio de las facultades que la ley le confiere, o en ejecución de los acuerdos de Cabildo o del Congreso del Estado, los actos y contratos necesarios para el desempeño de los negocios administrativos, y la eficaz prestación de las funciones y los servicios públicos municipales, dando cuenta al Ayuntamiento o al Congreso del Estado, en su caso, del resultado de las gestiones;
 
 XXX. Realizar el control y vigilancia en materia de fraccionamientos, sobre construcción de obras públicas y privadas, de ornato, nomenclatura, numeración oficial, planificación y alineamiento de edificaciones y calles;
 
@@ -915,7 +947,9 @@ XXXI. Informar al Ejecutivo del Estado o al Congreso del Estado, sobre cualquier
 
 XXXII. Proveer lo relativo al fomento, construcción, mantenimiento, control y vigilancia de los espacios destinados a prestar al público el servicio de estacionamiento de vehículos;
 
-XXXIII. Ordenar la publicación mensual de los estados financieros en la forma que determine el Ayuntamiento;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+XXXIII. Ordenar la publicación mensual de los estados financieros en la forma que determine el Cabildo;
 
 XXXIV. Expedir o negar permisos y licencias para la construcción y demoliciones, debiendo solicitar la autorización del Instituto Nacional de Antropología e Historia cuando el caso lo requiera;
 
@@ -969,13 +1003,21 @@ X. Destinar recursos del erario municipal sea en dinero o en especie, para el fi
 
 Son facultades y obligaciones de los regidores las siguientes:
 
-I. Asistir puntualmente a las sesiones del Ayuntamiento participando en las discusiones con voz y voto;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
 
-II. Desempeñar las comisiones que les encomiende el Ayuntamiento informando a éste de sus resultados;
+I. Asistir puntualmente a las sesiones de Cabildo, participando en las discusiones con voz y voto;
 
-III. Proponer al Ayuntamiento los acuerdos que deban dictarse para la eficaz prestación de los servicios públicos, o el mejor ejercicio de las funciones municipales cuya vigilancia les haya sido encomendada;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
 
-IV. Vigilar los ramos de la administración municipal que les correspondan, para lo cual contarán con la información suficiente y expedita de las dependencias municipales, informando periódicamente de ello al Ayuntamiento;
+II. Desempeñar las comisiones que les encomiende el Cabildo, informando a éste de sus resultados;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+III. Proponer al Cabildo los acuerdos que deban dictarse para la eficaz prestación de los servicios públicos, o el mejor ejercicio de las funciones municipales cuya vigilancia les haya sido encomendada;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+IV. Vigilar los ramos de la administración municipal que les correspondan, para lo cual contarán con la información suficiente y expedita de las dependencias municipales, informando periódicamente de ello al Cabildo;
 
 V. Suplir al Presidente en sus faltas temporales en la forma prevista en esta Ley;
 
@@ -1005,9 +1047,13 @@ V. Vigilar con la oportunidad necesaria, que se presente al Congreso del Estado 
 
 VI. Legalizar la propiedad de los bienes municipales e intervenir en la formulación y actualización de los inventarios de bienes muebles e inmuebles del Municipio, en coordinación con la Oficialía Mayor o Tesorería, procurando que se establezcan los registros administrativos necesarios para su control y vigilancia;
 
-VII. Asistir puntualmente a las sesiones del Ayuntamiento y participar en las discusiones con voz y voto;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
 
-VIII. Refrendar con su firma, conjuntamente con las del Presidente Municipal y del Secretario, los contratos, concesiones y convenios que autorice el Ayuntamiento, responsabilizándose de que los documentos se apeguen a la ley;
+VII. Asistir puntualmente a las sesiones de Cabildo, y participar en las discusiones con voz y voto;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+VIII. Refrendar con su firma, conjuntamente con las del Presidente Municipal y del Secretario, los contratos, concesiones y convenios que autorice el Cabildo, responsabilizándose de que los documentos se apeguen a la ley;
 
 IX. Presidir las comisiones para las cuales fuere designado;
 
@@ -1043,21 +1089,33 @@ V. No haber sido condenado por sentencia firme por la comisión de delitos dolos
 
 Son facultades y obligaciones del Secretario:
 
-I. Tener a su cargo el cuidado y dirección del archivo del Ayuntamiento;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+I. Tener bajo su responsabilidad la recepción, organización, sistematización de su contenido, conservación y dirección del Archivo General del Ayuntamiento;
 
 II. Controlar la correspondencia y dar cuenta diaria de todos los asuntos al Presidente Municipal, para acordar el trámite correspondiente;
 
 III. Citar por escrito a los miembros del Ayuntamiento a las sesiones de Cabildo, formando el orden del día para cada sesión;
 
-IV. Estar presente en todas las sesiones del Ayuntamiento con voz informativa, disponiendo de los antecedentes necesarios para el mejor conocimiento de los negocios que se deban resolver;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
 
-V. Levantar las actas al término de cada sesión y recabar las firmas de los miembros del Cabildo presentes, así como de aquellos funcionarios municipales que deban hacerlo;
+IV. Estar presente en todas las sesiones de Cabildo con voz informativa, disponiendo de los antecedentes necesarios para el mejor conocimiento de los negocios que se deban resolver;
 
-VI. Vigilar que oportunamente en los términos de ley se den a conocer a quienes corresponda, los acuerdos del Ayuntamiento y del Presidente Municipal, autentificándolos con su firma;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
 
-VII. Expedir cuando proceda, las copias, credenciales y demás certificaciones que acuerden el Ayuntamiento y el Presidente Municipal;
+V: Levantar las actas al término de cada sesión y recabar las firmas de los miembros del Ayuntamiento presentes, así como de aquellos funcionarios municipales que deban hacerlo;
 
-VIII. Autentificar con su firma las actas y documentos emanados del Ayuntamiento y del Presidente Municipal;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+VI. Vigilar que oportunamente en los términos de ley se den a conocer a quienes corresponda, los acuerdos de Cabildo y del Presidente Municipal, autentificándolos con su firma;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+VII. Expedir cuando proceda, las copias, credenciales y demás certificaciones que acuerden el Cabildo y el Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+VIII. Autentificar con su firma las actas y documentos emanados del Cabildo y del Presidente Municipal;
 
 IX. Suscribir las pólizas de pago de la Tesorería, así como los títulos de crédito que se emitan por el Ayuntamiento, en unión del Presidente Municipal, del Tesorero y del Contralor Interno;
 
@@ -1123,13 +1181,19 @@ VI. Ejercer la facultad económico-coactiva para hacer efectivo el pago de las c
 
 VII. Llevar la contabilidad del Municipio;
 
-VIII. Formular mensualmente un estado financiero de los recursos municipales, y presentarlo al Cabildo, debiendo enviarlo posteriormente para su fiscalización al Congreso del Estado; asimismo, en los términos acordados por el Ayuntamiento, deberá publicarlo en los primeros diez días del mes siguiente y exhibirlo en los estrados del Ayuntamiento;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
 
-IX. Ejercer el presupuesto anual de egresos y vigilar que los gastos se apliquen de acuerdo con los programas aprobados por el Ayuntamiento, exigiendo que los comprobantes respectivos estén visados por el Presidente Municipal, el Secretario del Ayuntamiento y el Presidente de la Comisión de Hacienda;
+VIII. Formular mensualmente un estado financiero de los recursos municipales, y presentarlo al Cabildo, debiendo enviarlo posteriormente para su fiscalización al Congreso del Estado; asimismo, en los términos acordados por el propio Cabildo, deberá publicarlo en los primeros diez días del mes siguiente y exhibirlo en los estrados del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+IX. Ejercer el presupuesto anual de egresos y vigilar que los gastos se apliquen de acuerdo con los programas aprobados por el Cabildo, exigiendo que los comprobantes respectivos estén avisados por el Presidente Municipal, el Secretario del Ayuntamiento y el Presidente de la Comisión de Hacienda;
 
 X. Intervenir en la formulación de convenios de coordinación fiscal con el Gobierno del Estado;
 
-XI. Elaborar el proyecto y someter a la aprobación del Ayuntamiento en forma oportuna, la cuenta pública anual municipal y el presupuesto anual de egresos, y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+XI. Elaborar el proyecto y someter a la aprobación de Cabildo en forma oportuna, la cuenta pública anual municipal y el presupuesto anual de egresos, y
 
 XII. Las demás que le señalen las leyes y reglamentos municipales.
 
@@ -1193,11 +1257,19 @@ VII. Dictaminar los estados financieros de la Tesorería municipal y verificar q
 
 VIII. Participar en la elaboración y actualización de los inventarios generales de bienes muebles e inmuebles propiedad del Ayuntamiento;
 
-IX. Apoyar al Presidente Municipal en la substanciación de los procedimientos administrativos disciplinarios y resarcitorios, determinando o no la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo del Ayuntamiento;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+IX. Apoyar al Presidente Municipal en la substanciación de los procedimientos administrativos disciplinarios y resarcitorios, determinando o no, la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo de Cabildo;
 
 X. Informar oportunamente a los servidores públicos municipales acerca de la obligación de manifestar sus bienes, verificando que tal declaración se presente en los términos de ley, y
 
-XI. Las demás que le señalen las leyes y reglamentos municipales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2007)</small>
+
+XI. Vigilar el cumplimiento de las normas y disposiciones sobre el registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, enajenaciones, arrendamientos, usos y conservación del patrimonio municipal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2007)</small>
+
+XII. Las demás que le señalen las leyes y reglamentos municipales.
 
 ### CAPITULO VIII. Del Departamento de Asuntos Indígenas
 
@@ -1299,7 +1371,9 @@ III. No haber sido condenado por sentencia firme por la comisión de delitos dol
 
 Son facultades y obligaciones del Delegado Municipal:
 
-I. Ejecutar los acuerdos del Ayuntamiento y los del Presidente Municipal en su demarcación;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+
+I. Ejecutar los acuerdos de Cabildo y los del Presidente Municipal en su demarcación;
 
 II. Vigilar y mantener el orden público de su jurisdicción;
 
@@ -1339,13 +1413,35 @@ La Comisión de Cultura, Recreación y Deporte, podrá proponer al Cabildo la de
 
 El nombramiento de Cronista Municipal recaerá en un ciudadano que se distinga por su labor y conocimiento de la historia y la cultura del municipio, y que tenga además la vocación de registrar y difundir los valores y tradiciones de la localidad.
 
-Será atribución del Cronista Municipal, el registro literario y documental de los personajes y acontecimientos históricos más relevantes de la comunidad; así como el estudio y rescate de las costumbres y tradiciones de la localidad, y la descripción de las transformaciones urbanas del municipio.
+> <small>(DEROGADO, P.O. 3 DE ABRIL DE 2007)</small>
 
 Para el cumplimiento de sus tareas el Cronista Municipal contará con los recursos que se deriven del trabajo coordinado con las instituciones públicas y privadas, que tengan injerencia en la investigación, acervo y difusión de las culturas populares.
 
 Dos a más municipios vecinos podrán convenir en la designación de un cronista regional.
 
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2007)</small>
+
+###### ARTICULO 100 Bis.
+
+Son funciones y atribuciones del Cronista municipal, las siguientes:
+
+I. Registrar literaria y documentalmente los personajes y acontecimientos relevantes de la comunidad;
+
+II. Elaborar escritos referentes a la vida e historia de la comunidad;
+
+III. Colaborar en la sistematización y difusión del acervo documental del Archivo General del Ayuntamiento;
+
+IV. Fungir como investigador, asesor, promotor y expositor de la cultura de la comunidad municipal;
+
+V. Elaborar una monografía de la vida institucional del Municipio, para crear conciencia cívica, fortalecer la identidad y el arraigo local de los ciudadanos;
+
+VI. Coadyuvar en el fomento y difusión de eventos culturales, tradiciones y costumbres locales o regionales, y
+
+VII. Promover la inserción en los medios de comunicación de noticias, boletines, reportajes sobre el Municipio y sus instituciones.
+
 ### CAPITULO I. Del Patrimonio Municipal
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 101.
 
@@ -1395,7 +1491,7 @@ De igual forma, podrán crearse patronatos que tengan fines específicos, que es
 
 ###### ARTICULO 108.
 
-El patrimonio del Municipio se compone de los bienes que son de su propiedad y de los que adquiera conforme a la ley; del producto de las contribuciones decretadas por el Congreso del Estado; de los vacantes y mostrencos que estén en su territorio; de los créditos que tenga a su favor; así como de los subsidios y de las participaciones en el rendimiento de las contribuciones federales y estatales que deba percibir de acuerdo a las leyes.
+El patrimonio del Municipio se compone de los bienes que son de su propiedad y de los que adquiera conforme a la ley; del producto de las contribuciones y demás ingresos decretados por el Congreso del Estado; de los vacantes y mostrencos que estén en su territorio; de los créditos que tenga a su favor; así como de los subsidios, de las transferencias y de las participaciones en el rendimiento de las contribuciones federales y estatales que deba percibir de acuerdo a las leyes.
 
 Son inalienables e imprescriptibles los bienes del patrimonio municipal. Los bienes desafectados podrán ser enajenados, previa autorización del Congreso del Estado, mediante los requisitos que señalen la Constitución Política del Estado, esta Ley y los demás ordenamientos legales aplicables.
 
@@ -2058,3 +2154,9 @@ CUARTO. Se derogan todas las disposiciones legales que se opongan a este Decreto
 P.O. 28 DE SEPTIEMBRE DE 2006.
 
 UNICO. Este Decreto entrará en vigor el 29 de septiembre del año 2006, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
