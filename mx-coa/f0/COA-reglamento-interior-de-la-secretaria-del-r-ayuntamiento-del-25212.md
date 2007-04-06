@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-del-r-ayuntamiento-del-252
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-21"
-last_updated: "2002-06-21"
+last_updated: "2007-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL R. AYUNTAMIENTO DEL MUNICIPIO DE TORREON, COAHUILA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL R. AYUNTAMIENTO DEL MUNICIPIO DE TORREON, COAH.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL R. AYUNTAMIENTO DEL MUNICIPIO DE TORREÓN, COAH.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 21 de junio de 2002.
 
@@ -135,7 +135,7 @@ II. A todos los servidores públicos municipales.
 
 III. A los habitantes del Municipio, sean vecinos o transeúntes.
 
-IV. A las personas morales domiciIiadas en el territorio municipal.
+IV. A las personas morales domiciliadas en el territorio municipal.
 
 V. A quienes se encuentren en su territorio.
 
@@ -191,13 +191,17 @@ Para desarrollar la función que tiene encomendada la Secretaría del Ayuntamien
 
 Se integra por el Secretario del Republicano Ayuntamiento y cuando menos por tres Subsecretarios, el personal administrativo, de oficina y de intendencia que apruebe el presupuesto anual.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2007)</small>
+
 ###### ARTÍCULO 14.
 
-Para el ejercicio de sus facultades y el cumplimiento de sus obligaciones la Secretaría del Republicano Ayuntamiento coordina:
+Para el ejercicio de sus facultades y el cumplimiento de sus obligaciones, la Secretaría del R. Ayuntamiento coordina:
 
 I. La Dirección Jurídica.
 
-II. El Instituto Municipal de Documentación y Centro Histórico Eduardo Guerra.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2007)</small>
+
+II. El Archivo Municipal Eduardo Guerra.
 
 III. La Dirección de Inspección y Verificación.
 
@@ -269,9 +273,11 @@ III. En caso de que el Ayuntamiento rechace la propuesta, el Presidente deberá 
 
 DE LA FUNCIÓN COMO SECRETARIO DEL AYUNTAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2007)</small>
+
 ###### ARTÍCULO 20.
 
-El Secretario participa con el Ayuntamiento con las siguientes obligaciones y facultades:
+El Secretario participa con el Ayuntamiento con las siguientes obligaciones y Facultades:
 
 I. Recibir oficialmente las solicitudes del Síndico, Regidores y Titulares de la Administración Municipal referentes a los asuntos que deban tratarse en las Sesiones.
 
@@ -327,7 +333,9 @@ XXVI. Compilar las leyes, decretos, reglamentos, acuerdos, circulares y demás d
 
 XXVII. Publicar los reglamentos, circulares y demás disposiciones municipales de observancia general, para lo cual organizará y administrará la publicación de la Gaceta Municipal.
 
-XXVIII. Organizar, dirigir y controlar el Archivo Municipal y la Correspondencia Oficial, a través del Instituto de Documentación Municipal y la Oficialía de Partes.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2007)</small>
+
+XXVIII. Organizar, Dirigir y Controlar el Archivo Municipal Eduardo Guerra y la Correspondencia Oficial, a través del Archivo Municipal Eduardo Guerra y la oficialía de partes.
 
 XXIX. Autentificar con su firma los acuerdos, documentos y comunicaciones oficiales emanados del Ayuntamiento, los cuales sin este requisito o formalidad no serán validos.
 
@@ -383,9 +391,11 @@ VII. Integrar un sistema de información que contenga los datos socioeconómicos
 
 DEL SECRETARIO COMO COORDINADOR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2007)</small>
+
 ###### ARTÍCULO 25.
 
-El Secretario del Ayuntamiento su carácter de Coordinador de la Dirección Jurídica, el Instituto Municipal de Documentación y Centro Histórico Eduardo Guerra, la Dirección de Inspección y Verificación, La Dirección del Patrimonio Inmobiliario, La Dirección de Transporte Público y La Junta Municipal de Reclutamiento, tiene las siguientes obligaciones y facultades:
+El Secretario del Ayuntamiento en su carácter de Coordinador de la Dirección Jurídica, el Archivo Municipal Eduardo Guerra, la dirección de Inspección y Verificación, la Dirección Patrimonio Inmobiliario. La dirección de Transporte Publico y la Junta Municipal de Reclutamiento, tiene las siguientes obligaciones y facultades:
 
 I. Elaborar con los distintos titulares de las Dependencias y Entidades que coordina los programas de trabajo para el ejercicio de gobierno, anuales y mensuales.
 
@@ -590,3 +600,11 @@ PRESIDENTE MUNICIPAL
 LIC. J. RICARDO CISNEROS HERNÁNDEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE ABRIL DE 2007.
+
+> <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+Tercero.- Las modificaciones al Reglamento Interior del R. Ayuntamiento de Torreón y al Reglamento Interior de la Secretaría del R. Ayuntamiento de Torreón, iniciarán su vigencia al día siguiente de su publicación.
