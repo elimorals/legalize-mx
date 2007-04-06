@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-alcance-54960"
 country: "mx"
 rank: "otro"
 publication_date: "1998-09-18"
-last_updated: "2002-12-31"
+last_updated: "2007-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54960&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,27 +18,31 @@ scjn_last_update: "2022-09-02"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE ALCANCE PARCIAL NO. 29, (ECUADOR, 2002)
 
-DECRETO POR EL QUE SE REFORMA EL DIVERSO PARA LA APLICACION DEL DECIMO PROTOCOLO ADICIONAL AL ACUERDO DE ALCANCE PARCIAL NO. 29 CELEBRADO ENTRE LA REPUBLICA DEL ECUADOR Y LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO QUE MODIFICA EL SIMILAR QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS A MERCANCIAS DIVERSAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO PARA LA APLICACION DEL ACUERDO DE ALCANCE PARCIAL NO. 29, SUSCRITO ENTRE EL GOBIERNO DE LOS ESTADOS UNIDOS MEXICANOS Y EL GOBIERNO DE LA REPUBLICA DEL ECUADOR, PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+Acuerdo publicado en el Diario Oficial de la Federación, el viernes 6 de abril de 2007.
 
-Decreto publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de diciembre de 2002.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
-
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o. y 14 de la Ley de Comercio Exterior; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4 de la Ley Federal de Procedimiento Administrativo; 5o. fracciones III, V y X, 16 fracción III, 17, 20 y 21 de la Ley de Comercio Exterior; 1, numeral 4 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación de la Organización Mundial del Comercio; 18, 19, 20 y 22 del Reglamento de la Ley de Comercio Exterior; 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración (ALADI);
+Que en el marco de su política comercial y de mejora regulatoria, la Secretaría de Economía publicó en el Diario Oficial de la Federación del 9 de noviembre de 2005, el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, el cual ha sido reformado mediante diversos dados a conocer en el mismo órgano informativo los días 20 de diciembre de 2005; 29 de marzo, 2 de octubre y 26 de diciembre de 2006;
 
-Que en el marco del Tratado de Montevideo 1980, los gobiernos de los Estados Unidos Mexicanos y la República del Ecuador suscribieron el 30 de abril de 1983 el Acuerdo de Alcance Parcial de Renegociación No. 29;
+Que a efecto de otorgar seguridad jurídica en la aplicación de los criterios y requisitos para otorgar permisos previos, basados en los principios de transparencia, certidumbre, imparcialidad, mejora regulatoria y simplificación, el 31 de mayo de 2006 se publicó en el Diario Oficial de la Federación el Acuerdo que establece los criterios para otorgar permisos previos a mercancías diversas;
 
-Que el 16 de agosto de 2002, los gobiernos de los Estados Unidos Mexicanos y de la República del Ecuador suscribieron el Décimo Protocolo Adicional al Acuerdo de Alcance Parcial de Renegociación No. 29, y
+Que con el objeto de simplificar los instrumentos de comercio exterior y evitar trámites innecesarios, el 2 de octubre de 2006 se publicó en el Diario Oficial de la Federación, el Acuerdo que modifica el similar que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, mediante el cual se liberó del cumplimiento de permiso previo aquellas fracciones arancelarias sujetas a doble regulación y aquéllas que se encuentran incluidas en algunos Acuerdos Regionales en el marco del Tratado de Montevideo de 1980, por lo que es necesario actualizar sus criterios;
 
-Que es necesario incorporar al Decreto publicado el 18 de septiembre de 1998 en el Diario Oficial de la Federación, que establece las bases conforme a las cuales se aplicará el Acuerdo de Alcance Parcial No. 29, las preferencias arancelarias pactadas entre los Estados Unidos Mexicanos y la República del Ecuador mediante el referido Protocolo Adicional, he tenido a bien expedir el siguiente
+Que tratándose de diversos acuerdos comerciales de los que nuestro país es parte, es necesario reconocer, dentro del criterio para otorgar los permisos previos los antecedentes de importación, especialmente para los productos agropecuarios;
 
-DECRETO POR EL QUE SE REFORMA EL DIVERSO PARA LA APLICACIÓN DEL DÉCIMO PROTOCOLO ADICIONAL AL ACUERDO DE ALCANCE PARCIAL No. 29 CELEBRADO ENTRE LA REPÚBLICA DEL ECUADOR Y LOS ESTADOS UNIDOS MEXICANOS
+Que es necesario dar a conocer el criterio para que diversos sectores de la región fronteriza norte puedan importar vehículos usados especiales para realizar sus actividades tanto comerciales, de servicios e industriales, sin tener que contratar los servicios de terceros propiciando con ello mejores condiciones para elevar su competitividad;
+
+Que adicionalmente, con el objeto de apoyar a los gobiernos estatales y municipales que se encuentran ubicados en la región fronteriza norte del país que realicen programas de servicios a la población, es conveniente establecer el criterio bajo el cual podrán realizar la importación de este tipo de vehículos usados, y
+
+Que el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+
+ACUERDO QUE MODIFICA EL SIMILAR QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS A MERCANCIAS DIVERSAS
 
 ###### ARTÍCULO ÚNICO.
 
@@ -46,28 +50,28 @@ Se reforma la denominación del Decreto que establece las bases conforme a las c
 
 “Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo de Alcance Parcial de Renegociación No. 29.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO 1.
 
-. . .
+Se modifican los numerales IV, V, VI y VII del artículo 3, el primero y segundo párrafo del artículo 4, y el numeral IV de la hoja de requisitos, y se derogan los numerales VIII y IX del artículo 3 y de la hoja de requisitos del Acuerdo que establece los criterios para otorgar permisos previos a mercancías diversas, publicado el 31 de mayo de 2006 en el Diario Oficial de la Federación, para quedar como siguen:
 
-TABLA DE LAS PREFERENCIAS ARANCELARIAS PORCENTUALES QUE OTORGAN LOS ESTADOS UNIDOS MEXICANOS DE CONFORMIDAD CON EL ACUERDO DE ALCANCE PARCIAL DE RENEGOCIACIÓN No. 29
+“ARTICULO 3.-…
 
 (VEASE ARCHIVO ANEXO)
 
+###### ARTICULO 4.
+
+Las solicitudes de permiso previo a que se refiere el presente Acuerdo deberán presentarse en el formato SE-03-057 Solicitud de Permiso de Importación o Exportación y de Modificaciones en la ventanilla de atención al público de la representación federal de la Secretaría de Economía que le corresponda, adjuntando los requisitos específicos a que se refiere la hoja de requisitos anexa al presente Acuerdo.
+
+Este formato estará disponible en las representaciones federales de la Secretaría o en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-057-A
+
+...”.
+
 ## TRANSITORIO
 
-ÚNICO.- El presente Decreto entrará en vigor treinta (30) días después de que se haya efectuado el intercambio de comunicaciones que acrediten el cumplimiento de las formalidades jurídicas, necesarias para la aplicación del Décimo Protocolo Adicional al Acuerdo de Alcance Parcial de Renegociación No. 29 celebrado entre la República del Ecuador y los Estados Unidos Mexicanos.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Para tal efecto, la Secretaría de Economía publicará en el Diario Oficial de la Federación el aviso de la fecha de entrada en vigor del Décimo Protocolo Adicional al Acuerdo de Alcance Parcial de Renegociación No. 29 celebrado entre la República del Ecuador y los Estados Unidos Mexicanos.
+HOJA DE REQUISITOS
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.
+(VEASE ARCHIVO ANEXO9
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
-
-D.O.F. 27 DE DICIEMBRE DE 2007.
-
-PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Las preferencias arancelarias porcentuales establecidas en el presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del 1 de julio de 2007.
-
-TERCERO.- Se abrogan el Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo de Alcance Parcial número 29, publicado en el Diario Oficial de la Federación el 18 de septiembre de 1998 y el Decreto por el que se reforma el diverso para la aplicación del Décimo Protocolo Adicional al Acuerdo de Alcance Parcial No. 29, celebrado entre la República del Ecuador y los Estados Unidos Mexicanos publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, así como cualquier otra disposición que se oponga a lo dispuesto en el presente Decreto.
+México, D.F., a 27 de marzo de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
