@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44488"
 country: "mx"
 rank: "otro"
 publication_date: "2003-04-02"
-last_updated: "2006-11-27"
+last_updated: "2007-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44488&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,37 +19,31 @@ issue_date: "2003-03-27"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 53 (BRASIL, 2002)
 
-DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, DE LOS DIVERSOS POR LOS QUE SE ESTABLECE EL ESQUEMA DE IMPORTACION A LA FRANJA FRONTERIZA NORTE Y REGION FRONTERIZA Y SE REFORMAN Y ADICIONAN LOS DIVERSOS QUE ESTABLECEN LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
+ACUERDO QUE MODIFICA EL SIMILAR QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS A MERCANCIAS DIVERSAS
 
-Decreto Publicado la Primera Sección del Diario Oficial de la Federación, el lunes 27 de noviembre de 2006.
+Acuerdo publicado en el Diario Oficial de la Federación, el viernes 6 de abril de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4 de la Ley Federal de Procedimiento Administrativo; 5o. fracciones III, V y X, 16 fracción III, 17, 20 y 21 de la Ley de Comercio Exterior; 1, numeral 4 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación de la Organización Mundial del Comercio; 18, 19, 20 y 22 del Reglamento de la Ley de Comercio Exterior; 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que la cadena textil-confección es un sector de la industria nacional altamente generador de empleos y que requiere contar con las condiciones idóneas para obtener sus insumos, imprescindibles para la elaboración de bienes de consumo final, a precios internacionales, sin afectar al resto de la industria nacional; es necesario reducir el arancel a diversos productos textiles de esta cadena;
+Que en el marco de su política comercial y de mejora regulatoria, la Secretaría de Economía publicó en el Diario Oficial de la Federación del 9 de noviembre de 2005, el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, el cual ha sido reformado mediante diversos dados a conocer en el mismo órgano informativo los días 20 de diciembre de 2005; 29 de marzo, 2 de octubre y 26 de diciembre de 2006;
 
-Que existen, dentro de la misma cadena textil-confección, fibras e hilados especiales que no se fabrican en el país y que se clasifican en la misma fracción arancelaria, en donde se clasifican fibras e hilados de fabricación nacional, por lo que se considera adecuado establecer un arancel-cupo, para brindar a este sector industrial la posibilidad de proveeduría a precios competitivos;
+Que a efecto de otorgar seguridad jurídica en la aplicación de los criterios y requisitos para otorgar permisos previos, basados en los principios de transparencia, certidumbre, imparcialidad, mejora regulatoria y simplificación, el 31 de mayo de 2006 se publicó en el Diario Oficial de la Federación el Acuerdo que establece los criterios para otorgar permisos previos a mercancías diversas;
 
-Que es adecuado monitorear los flujos comerciales de vinos, bebidas que contienen aguardientes o destilados de agave; para ello se considera conveniente identificarlas en fracciones arancelarias específicas, con el fin de que la industria nacional cuente con información oportuna para la toma de decisiones;
+Que con el objeto de simplificar los instrumentos de comercio exterior y evitar trámites innecesarios, el 2 de octubre de 2006 se publicó en el Diario Oficial de la Federación, el Acuerdo que modifica el similar que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, mediante el cual se liberó del cumplimiento de permiso previo aquellas fracciones arancelarias sujetas a doble regulación y aquéllas que se encuentran incluidas en algunos Acuerdos Regionales en el marco del Tratado de Montevideo de 1980, por lo que es necesario actualizar sus criterios;
 
-Que es necesario apoyar a la industria nacional para identificar e individualizar determinados productos en fracciones arancelarias específicas para conocer con claridad las estadísticas de los flujos internacionales de comercio, como lo es el caso de las láminas de acero al boro para la industria siderúrgica;
+Que tratándose de diversos acuerdos comerciales de los que nuestro país es parte, es necesario reconocer, dentro del criterio para otorgar los permisos previos los antecedentes de importación, especialmente para los productos agropecuarios;
 
-Que es importante establecer medidas arancelarias que favorezcan la importación de embarcaciones especializadas para el tratamiento o procesamiento del petróleo crudo, que apoyen en la operación y el desarrollo de esa industria;
+Que es necesario dar a conocer el criterio para que diversos sectores de la región fronteriza norte puedan importar vehículos usados especiales para realizar sus actividades tanto comerciales, de servicios e industriales, sin tener que contratar los servicios de terceros propiciando con ello mejores condiciones para elevar su competitividad;
 
-Que debido a las modificaciones arancelarias previstas en el presente instrumento es necesario actualizar el Decreto por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón;
+Que adicionalmente, con el objeto de apoyar a los gobiernos estatales y municipales que se encuentran ubicados en la región fronteriza norte del país que realicen programas de servicios a la población, es conveniente establecer el criterio bajo el cual podrán realizar la importación de este tipo de vehículos usados, y
 
-Que también es importante actualizar el Decreto por el que se establecen diversos Programas de Promoción Sectorial, con las fracciones que se crean en el presente instrumento, para no eliminar la preferencia arancelaria otorgada bajo este esquema a las empresas fabricantes nacionales;
+Que el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que en virtud de que algunos productos que se importan al amparo del Decreto por el que se establece el impuesto general de importación para la Región Fronteriza y la Franja Fronteriza Norte, se ven afectados por la creación de nuevas fracciones arancelarias, es necesario realizar los ajustes correspondientes para que estos productos mantengan las condiciones arancelarias previstas en dicho ordenamiento, y
-
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas a que se refiere este Decreto, fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas favorablemente, he tenido a bien expedir el siguiente
-
-DECRETO
-
-...
+ACUERDO QUE MODIFICA EL SIMILAR QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS A MERCANCIAS DIVERSAS
 
 ###### ARTÍCULO PRIMERO.
 
@@ -89,7 +83,9 @@ TABLA DE PREFERENCIAS ARANCELARIAS PORCENTUALES, QUE OTORGAN LOS ESTADOS UNIDOS 
 
 ###### ARTICULO 1.
 
-Los cupos para importar a los Estados Unidos Mexicanos diversos productos originarios y provenientes de la República Federativa del Brasil en el periodo del 1 de mayo de un año al 30 de abril del año siguiente con la preferencia arancelaria establecida en el Anexo I del Acuerdo de Complementación Económica No. 53, celebrado entre los Estados Unidos Mexicanos y la República Federativa del Brasil, son los que se determinan a continuación:
+Se modifican los numerales IV, V, VI y VII del artículo 3, el primero y segundo párrafo del artículo 4, y el numeral IV de la hoja de requisitos, y se derogan los numerales VIII y IX del artículo 3 y de la hoja de requisitos del Acuerdo que establece los criterios para otorgar permisos previos a mercancías diversas, publicado el 31 de mayo de 2006 en el Diario Oficial de la Federación, para quedar como siguen:
+
+“ARTICULO 3.-…
 
 (VEASE ARCHIVO ANEXO)
 
@@ -111,15 +107,11 @@ La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, s
 
 ###### ARTICULO 4.
 
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
+Las solicitudes de permiso previo a que se refiere el presente Acuerdo deberán presentarse en el formato SE-03-057 Solicitud de Permiso de Importación o Exportación y de Modificaciones en la ventanilla de atención al público de la representación federal de la Secretaría de Economía que le corresponda, adjuntando los requisitos específicos a que se refiere la hoja de requisitos anexa al presente Acuerdo.
 
-a) Para el caso del formato SE-03-016-1 “Solicitud de cupo anual ALADI”:
+Este formato estará disponible en las representaciones federales de la Secretaría o en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-057-A
 
-http:www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-028-A
-
-b) Para el caso del formato SE-03-016-2 “Solicitud de Importación específica ALADI”:
-
-http:www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-029
+...”.
 
 ###### ARTICULO 5.
 
@@ -171,10 +163,12 @@ II. Las de vehículos en franquicia, realizadas conforme a lo dispuesto por los 
 
 III. Las importaciones de vehículos cuyo número de serie o año-modelo tenga una antigüedad igual o mayor a 30 años anterior al vigente, y siempre que tengan un peso bruto vehicular inferior o igual a 8,864 kilogramos.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, excepto lo estipulado en el siguiente artículo transitorio.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Las disposiciones relativas a las fracciones arancelarias 2208.70.01, 2208.70.02, 2208.90.02 y 2208.90.04, establecidas en este Decreto, entrarán en vigor el día que entre en vigor el Acuerdo que modifique al similar que identifica las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en las que se clasifican las mercancías sujetas al cumplimiento de las normas oficiales mexicanas en el punto de su entrada al país, y en el de su salida, publicado en el Diario Oficial de la Federación el 27 de marzo de 2002, que contenga dichas fracciones.
+HOJA DE REQUISITOS
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+(VEASE ARCHIVO ANEXO)
+
+México, D.F., a 27 de marzo de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
