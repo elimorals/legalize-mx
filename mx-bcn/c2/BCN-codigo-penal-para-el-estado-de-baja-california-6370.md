@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2007-02-23"
+last_updated: "2007-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1893,6 +1893,22 @@ Si el ofendido ha muerto y la difamación o calumnia fueron posteriores a su fal
 
 Cuando la difamación o la calumnia sean anteriores al fallecimiento del ofendido, no se atenderá a la queja de las personas mencionadas, si aquel hubiere permitido la ofensa a sabiendas de que se le había inferido, no hubiere presentado en vida su queja pudiendo hacerlo, ni prevenido que lo hicieren sus herederos.
 
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2007)</small>
+
+Artículo 195 BIS.- EXCLUSIÓN DE LAS PENAS.- No se aplicarán las penas previstas en los delitos de difamación y de calumnia de este Código, al autor de alguna de las conductas descritas en los artículos 185 y 191 fracción I, cuando:
+
+I.- El calumniado o difamado sea servidor público y se trate de actos que se ejecuten con tal carácter.
+
+II.- El calumniado o difamado sea un particular que intervenga en algún asunto de interés público, siempre y cuando la expresión difamante o calumniosa se relacione con dicho asunto.
+
+Se entenderá que un particular interviene en un asunto de interés público, cuando:
+
+a).- Preste un servicio público que haya sido concesionado por los Poderes Públicos Estatales o Municipales o, haya obtenido de estos entes, permiso o autorización para el desarrollo de una actividad.
+
+b).- Celebre con los Poderes Públicos Estatales o Municipales u Órganos Públicos Autónomos, contrato de obra pública, equipamiento, suministro y servicios relacionados con la misma, en los términos de la Ley estatal de la materia.
+
+c).- Haya sido declarado por sentencia firme miembro de la delincuencia organizada.
+
 ###### Artículo 196.
 
 Destino de los objetos empleados para cometer los delitos.- Los escritos, estampas, pinturas o cualquier otra cosa que hubiere servido de medio para la difamación o la calumnia, se recogerán y destruirán, a menos de que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derechos.
@@ -3043,11 +3059,15 @@ XI.- Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empl
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2006)</small>
 
-XII.- Cuando autorice o contrate a quién se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación; y
+XII.- Cuando autorice o contrate a quién se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación; y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2006)</small>
 
-XIII.- Cuando otorgue cualquier identificación en que se acredite como servidor público o cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación.
+XIII.- Cuando otorgue cualquier identificación en que se acredite como servidor público o cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2007)</small>
+
+XIV.- El Servidor Público que teniendo la obligación legal de enterar a las instituciones de seguridad social, estatales o municipales, las cuotas o aportaciones establecidas en la ley, las retenga indebidamente o retrase su pago sin causa justificada, si ya hubiera sido previamente requerido por la Institución de Seguridad Social.
 
 Los delitos a que se refiere este capítulo producen acción popular.
 
@@ -4120,3 +4140,15 @@ DECRETO No. 272
 P.O. 23 DE FEBRERO DE 2007.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE ABRIL DE 2007.
+
+DECRETO No. 320
+
+ÚNICO.- Remítase la presente reforma al Ejecutivo del Estado para su promulgación, la cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ABRIL DE 2007.
+
+DECRETO No. 321
+
+ÚNICO: La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
